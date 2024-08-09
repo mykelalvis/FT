@@ -1,0 +1,219 @@
+[Freelance Traveller - Active Measures](https://www.freelancetraveller.com/features/advents/index.html)
+Active Measures
+
+Most of _Freelance Traveller_'s other material can be incorporated into an adventure campaign of your own. These articles are slightly different - they _are_ adventures.
+
+- [Afterday](https://www.freelancetraveller.com/features/advents/afterday.html) _(Michael Brown) Disaster relief leads to its own problems._
+- [All In the Genes](https://www.freelancetraveller.com/features/advents/allinthegenes.html) _(Timothy Collinson) The DNA helix isn't the only twist_
+- [Angle of Incidence](https://www.freelancetraveller.com/features/advents/angleofincidence.html) _(Michael Brown) Investigating a mad scientist._
+- [Apotheosis](https://www.freelancetraveller.com/features/advents/apotheosis.html) _(Michael Brown) The child survived to become a holy figure._
+- [Aqua Pura](https://www.freelancetraveller.com/features/advents/aquapura.html) _(Michael Brown) Rescuing parts to rescue people_
+- [The Asklepios Recovery](https://www.freelancetraveller.com/features/advents/asklepios.html) _(Michael Brown) A discontinued drug is all that can stop the pandemic._
+- [Back to a Future](https://www.freelancetraveller.com/features/advents/backtoafuture.html) _(Timothy Collinson) The real situation was unreal. (An introductory and transitional adventure for 2300AD)_
+- [Benchmark](https://www.freelancetraveller.com/features/advents/benchmark.html) _(Guy Garnett) Real scouts doing real scout work_
+- [The Bedlam Extraction](https://www.freelancetraveller.com/features/advents/bedlam.html) _(Michael Brown) The mental hospital is trying to drive her crazy._
+- [The Bellona Intrigue](https://www.freelancetraveller.com/features/advents/bellona.html) _(Michael Brown) Saving the patron's lover from her former comrades._
+- [Broken Arrow](https://www.freelancetraveller.com/features/advents/brokenarrow.html) _(Bill Cameron) Boom tomorrow?_
+- [Building Security](https://www.freelancetraveller.com/features/advents/bldgsec.html) _(Dave Nelson) A security ticket presents an opportunity for PCs to form their own merc unit._
+- [By Force of Arms](https://www.freelancetraveller.com/features/advents/byforceofarms.html) _(Michael Brown) Protect a picnic_
+- [Clash of Cultures](https://www.freelancetraveller.com/features/advents/clash.html) _(Garry Ward) A minor misunderstanding turns out not to be so minor._
+- [Comet Busters](https://www.freelancetraveller.com/features/advents/cometbust.html) _(M. Gilliam) There is no doubt that something is going to get busted..._
+- [The Coriolis Peril](https://www.freelancetraveller.com/features/advents/coriolis.html) _(Michael Brown) The danger will take the PCs by storm._
+- [An Introductory Corporate Repo Adventure](https://www.freelancetraveller.com/features/advents/introrepo.html) _(Joshua Levy) When the ship has been stolen, someone wants it back_
+- [The Corporate Repo Campaign](https://www.freelancetraveller.com/features/advents/repo.html) _(Joshua Levy) That ship isn't yours!_
+- [The Dangard Experiment](https://www.freelancetraveller.com/features/advents/dangard.html) _(Michael Brown) When a noble is slowly dying, can the PCs find the long-lost heir to save her?_
+- [The Deadly Garden](https://www.freelancetraveller.com/features/advents/deadlygarden.html) _(David Johnson) Asvald's sister wants to know..._
+- [The Derelict](https://www.freelancetraveller.com/features/advents/derelict.html) _(Steve Hatherley) What can you do when you've had a serious engineering failure?_
+- [Diplomatic Usage](https://www.freelancetraveller.com/features/advents/dipusage.html) _(Richard Aiken) Helping out the Consul_
+- [Discordia Pacis](https://www.freelancetraveller.com/features/advents/discordiapacis.html) _(Michael Brown) The PCs can be both instrumental and deniable._
+- [Dismal Luck](https://www.freelancetraveller.com/features/advents/dismalluck.html) _(Peter Arundel) Not what they expected to find_
+- [Dragonhunters of Trane](https://www.freelancetraveller.com/features/advents/dragonhunters.html) _(J.E. Geoffrey) The raids on the cattle have to be stopped._
+- [Dreamstealers](https://www.freelancetraveller.com/features/advents/dreamstealers.html) _(Michael Brown) If they become known, they could be his undoing._
+- [The Edge of Helium](https://www.freelancetraveller.com/features/advents/edgeofhelium.html) _(Timothy Collinson) Not the outskirts of a Barsoomian city_
+- [The Edge of Humanity](https://www.freelancetraveller.com/features/advents/edgeofhumanity.html) _(Timothy Collinson) A rescue mission to the edge of the Solar System_
+- [The Edge of Power](https://www.freelancetraveller.com/features/advents/edgeofpower.html) _(Timothy Collinson) "Power" has many meanings_
+- [Evensong](https://www.freelancetraveller.com/features/advents/evensong.html) _(Michael Brown) An entire adventure for a song_
+- [The Fated Sky](https://www.freelancetraveller.com/features/advents/fatedsky.html) _(Michael Brown) Trying to stop the Sixth Frontier War, at the behest of a Zho!_
+- [Festival](https://www.freelancetraveller.com/features/advents/festival.html) _(Richard Morey) Is a forced wedding lawful when the law has been suspended?_
+- [Filch](https://www.freelancetraveller.com/features/advents/filch.html) _(Michael Brown) That's exactly what she wants the PCs to do._
+- [Filters and Explosions](https://www.freelancetraveller.com/features/advents/filters.html) _(Gaizka Márquez) The characters are asked to investigate “subversion” on Sombra. From Vuelo Raso N. 1_
+- [The Frozen Fire](https://www.freelancetraveller.com/features/advents/frozenfire.html) _(Michael Brown) Dangerous to hunt; dangerous to eat._
+- [Fugitive Nobility](https://www.freelancetraveller.com/features/advents/fugitivenobility.html) _(Robert Weaver) He needs to get his family out_
+- [Full Cabins](https://www.freelancetraveller.com/features/advents/fullcabins.html) _(Antonio Guarás) An adventure for six passengers and a crew, from Vuelo Raso N. 4_
+- [Getting There is Half the Fun](https://www.freelancetraveller.com/features/advents/gettingthere.html) _(Timothy Collinson) Jump can be much more than "OK, let's wrap it up until next session."_
+- [Ghost Ship](https://www.freelancetraveller.com/features/advents/ghostship.html) _(J.E. Geoffrey) Is there anything to it?_
+- [The God-Monster](https://www.freelancetraveller.com/features/advents/godmonster.html) _(Steve Hatherley) A piece of the Jala'lak mystery._
+- [The Green Dagger](https://www.freelancetraveller.com/features/advents/greendagger.html) _(Michael Brown) Eco-kidnappers?_
+- [Grey Matters](https://www.freelancetraveller.com/features/advents/greymatters.html) _(Michael Brown) They need to save the doctor before he can save their friend._
+- [The Hand of Retribution](https://www.freelancetraveller.com/features/advents/retribution.html) _(Michael Brown) Her reporting got her into trouble._
+- [Harvest Index](https://www.freelancetraveller.com/features/advents/harvestindex.html) _(Michael Brown) Solving the grain blight before it causes planetary collapse_
+- [Heiress](https://www.freelancetraveller.com/features/advents/heiress.html) _(Ewan Quibell) A note to be mailed, and dinner paid by a cabaret singer, leads to much more..._
+- [Helzr's Recovery/Salvage and Reposession Services (I: One of Our Scouts is Missing)](https://www.freelancetraveller.com/features/advents/helzr1scout.html) _(Graham Bayley) Bring it back as intact as you can_
+- [Helzr's Recovery/Salvage and Repossession Services Part 2](https://www.freelancetraveller.com/features/advents/helzr2.html) _(Graham Bayley) A lost ship, and a lost scion_
+- [Historical Author](https://www.freelancetraveller.com/features/advents/gotg/histauth.html) _(Paul Raistrick) Battlefield tourism_
+- [I. C. E.](https://www.freelancetraveller.com/features/advents/ice.html) _(Michael Gilliam) Stolen secrets, spies, and space liners can lead to rich rewards._
+- [Lanthanum Hunt](https://www.freelancetraveller.com/features/advents/lanthanumhunt.html) _(Jim Vassilakos) To repair the ship, you'll need to trespass on sacred ground_
+- [In Loco Parentis](https://www.freelancetraveller.com/features/advents/inlocoparentis.html) _(Timothy Collinson) Some animal behaviors are familiar, even on other worlds_
+- [In the Name of the Dead](https://www.freelancetraveller.com/features/advents/nameofdead.html) _(Michael Brown) The cenotaph is to stand on sanctified ground._
+- [Insane Pleasures](https://www.freelancetraveller.com/features/advents/insanepleasures.html) _(Michael Brown) It starts out as a party..._
+- [Interdiction](https://www.freelancetraveller.com/features/advents/interdiction.html) _(Michael Hughes) The PCs are asked to assist with a weapons shipment to a plague-interdicted asteroid belt_
+- [Invasive Species](https://www.freelancetraveller.com/features/advents/invasive.html) _(Michael Brown) Is there a connection between dying insects and agricultural mercenaries?_
+- [Jabru](https://www.freelancetraveller.com/features/advents/jabru.html) _(Jeff Zeitlin, Bruce Johnson, and Louis Wester) Tied up and left at the starport, but why?_
+- [A Jolly (Roger) Good Time](https://www.freelancetraveller.com/features/advents/jollyrogergoodtime.html) _(Rick Morey) They weren't cats - or even Aslan - but curiosity could have killed them._
+- [Laced](https://www.freelancetraveller.com/features/advents/laced.html) _(Bill Cameron) A favor for a new friend turns out unexpectedly._
+- [Lady Luck](https://www.freelancetraveller.com/features/advents/ladyluck.html) _(Andrea Vallance) Just what were they up to?_
+- [Lizard on Board](https://www.freelancetraveller.com/features/advents/lizard.html) _(Gaizka Márquez) A childlike and slightly hyperactive passenger is an adventure in itself_
+- [Medevac!](https://www.freelancetraveller.com/features/advents/medevac.html) _(Timothy Collinson) Even when you're being treated for your last adventure, adventure lurks in the corridors..._
+- [Medevac 2](https://www.freelancetraveller.com/features/advents/medevac2.html) _(Timothy Collinson) Recovering a patient before the patient recovers_
+- [Medical Intervention](https://www.freelancetraveller.com/features/advents/medinterv.html) _(Richard Perks) In a medical emergency, the PCs may be the only ones in a position to intervene._
+- [Mercenary Ticket: Hammer & Anvil](https://www.freelancetraveller.com/features/advents/hammeranvil.html) _(J. Edward Collins) Take and hold the fort_
+- [The Mire Run](https://www.freelancetraveller.com/features/advents/mirerun.html) _(Ian Whitchurch) A pleasant vacation-style cruise from the Imperium to a nearby friendly state._
+- [The Mote Perspective](https://www.freelancetraveller.com/features/advents/moteperspective.html) _(Michael Brown) A simple supply run isn't so simple._
+- [Mtihani](https://www.freelancetraveller.com/features/advents/mtihani.html) _(Michael Brown) A rite of passage and fitness to rule_
+- [The Night Visitors](https://www.freelancetraveller.com/features/advents/nightvisit.html) _(Bill Cameron) Things that go bump in the night..._
+- [Nightfall](https://www.freelancetraveller.com/features/advents/nightfall.html) _(Michael Brown) A stellar storm and a derelict ship on the dark side of an asteroid..._
+- [Nostrum](https://www.freelancetraveller.com/features/advents/nostrum.html) _(Michael Brown) Medical sabotage_
+- [The Pendente School for Exceptionally Talented Juveniles](https://www.freelancetraveller.com/features/advents/pendente.html) _(Greg Caires) Imperial society takes exception to these exceptional talents._
+- [The Petrified Forest](https://www.freelancetraveller.com/features/advents/petforest.html) _(Joe Webb) Piracy works, until someone notices..._
+- [The Plague Robbery](https://www.freelancetraveller.com/features/advents/plaguerob.html) _(Jeffrey Schwartz) The plague isn't supernatural; some of the problems may be..._
+- [Planet of Storms](https://www.freelancetraveller.com/features/advents/planetofstorms.html) _(Michael Brown) Just what did happen to the scientists?_
+- [The Poseidon Adventure](https://www.freelancetraveller.com/features/advents/poseidon.html) _(Steve Hatherley) A mystery finally unraveled._
+- [Primary Attribute](https://www.freelancetraveller.com/features/advents/primaryattr.html) _(Michael Brown) Not-so-dumb animals_
+- [Purity](https://www.freelancetraveller.com/features/advents/purity.html) _(Allen Shock) The purest trouble that can be found._
+- [The Quality of Mercy](https://www.freelancetraveller.com/features/advents/mercy.html) _(Michael Brown) A mission of mercy may not turn out as expected_
+- [The Rime of the Ancient Traveller](https://www.freelancetraveller.com/features/advents/rime.html) _(James Ramsay) Rumors abound - but does their subject really exist?_
+- [Rites of Passage](https://www.freelancetraveller.com/features/advents/rites.html) _(Roger Barr) All they need is a ride..._
+- [The Rubinian Honour Gambit](https://www.freelancetraveller.com/features/advents/rhgambit.html) _(Benedikt Schwarz) Answering a distress call turns into an affir of honour, Aslan-style_
+- [Saving the Throne](https://www.freelancetraveller.com/features/advents/savthrone.html) _(Jeff Zeitlin) If there's no heir, the estate reverts to the State. Except this time, the estate is the entire world..._
+- [Scout's Honor](https://www.freelancetraveller.com/features/advents/schonor.html) _(Kate Thumann) A Traveller Choose-Your-Own-Adventure._
+- [Search for the Stardrive](https://www.freelancetraveller.com/features/advents/searchstardrive.html) _(Steve Hatherley) He wants "some electronics" returned - but he's willing to pay very well..._
+- [The Seeds Of a War Gone Cold](https://www.freelancetraveller.com/features/advents/wargonecold.html) _(Thomas Barclay) The war ended 40 years ago, but the attackers just woke up._
+- [Sex and the Single Vargr](https://www.freelancetraveller.com/features/advents/singlevargr.html) _(Joe Webb) Moneyed maiden or pregnant priestess? Only her father's herald knows for sure._
+- [Shade](https://www.freelancetraveller.com/features/advents/shade.html) _(Michael Brown) The PCs' departure may be delayed because of a sunny day._
+- [Six of One, Half a Dozen of the Other](https://www.freelancetraveller.com/features/advents/sixofone.html) _(Ewan Quibell) Two vargr, fighting tooth and nail..._
+- [The Skywhale](https://www.freelancetraveller.com/features/advents/skywhale.html) _(Steve Hatherley) It's big, it's ill, and its caretaker needs to hire some ambulance attendants._
+- [The Slavers of Gennare](https://www.freelancetraveller.com/features/advents/slavers.html) _(Bruce Johnson) The light of dawn after the Long Night doesn't always reveal pretty things._
+- [The Smarargdian Crisis](https://www.freelancetraveller.com/features/advents/smarargd.html) _(Benedikt Schwarz) The PCs are asked to solve a murder, and can change the destiny of a world._
+- [Smoke Test](https://www.freelancetraveller.com/features/advents/smoketest.html) _(Bill Cameron) Retrieving a probe might be more than just taking it aboard._
+- [Snowfall](https://www.freelancetraveller.com/features/advents/snowfall.html) _(Joe Webb) ...on a planet where the hailstones are bigger than taxicabs._
+- [Solstice](https://www.freelancetraveller.com/features/advents/solstice.html) _(Michael Brown) The sun isn't standing still_
+- [The Sons of Rudurgu](https://www.freelancetraveller.com/features/advents/rudurgu.html) _(Michael Brown) The tribal chief has questions_
+- [The Sounding](https://www.freelancetraveller.com/features/advents/sounding.html) _(Michael Brown) Going fishing leads to ... more._
+- [Spacecraft Classification Societies as Patrons](https://www.freelancetraveller.com/features/advents/scsaspatron.html) _(Chris Barlow) Sometimes the people who issue your spaceworthiness certificate have problems, too..._
+- [Spindrift](https://www.freelancetraveller.com/features/advents/spindrift.html) _(Timothy Collinson) A diplomatic opportunity in investigation form_
+- [The Star of People's Justice](https://www.freelancetraveller.com/features/advents/star.html) _(Dave Nelson) The title does not refer to the Marshal's star in this security ticket._
+- [Stranded](https://www.freelancetraveller.com/features/advents/stranded.html) _(Jeff Zeitlin) If they dock, they could lose everything_
+- [The Tale of the Black Freighter](https://www.freelancetraveller.com/features/advents/blackship.htm) _(Alex Greene) An unarmed ship that's extremely dangerous_
+- [Ten Blocks](https://www.freelancetraveller.com/features/advents/tenblocks.html) _(Bill Cameron) Neither 'civil' nor 'disturbance' are quite the right words._
+- [Tinderbox](https://www.freelancetraveller.com/features/advents/tinderbox.html) _(Bill Cameron) The PCs need to defuse an explosive situation_
+- [Traveller Present Day](https://www.freelancetraveller.com/features/advents/travpresent.html) _(Ewan Quibell) TL8 and no space travel doesn't mean "no Traveller"._
+- [A Troubled Mind](https://www.freelancetraveller.com/features/advents/troubledmind.html) _(Timothy Collinson) Are her son's nightmares more than just bad dreams?_
+- [Viral Shades](https://www.freelancetraveller.com/features/advents/virshad.html) _(David Burden) Surviving a Virus attack can be an adventure in itself, but you learn so much more from the aftermath._
+- [The Visitors](https://www.freelancetraveller.com/features/advents/visitors.html) _(Alvin Plummer) Who are they, and what are their real motives?_
+- [Vlezhdiets](https://www.freelancetraveller.com/features/advents/vlezhdiets.html) _(Michael Brown) A family heirloom brings enemies together, and proves to be the key to something more._
+- [Wet Goods, Dry Goods](https://www.freelancetraveller.com/features/advents/wetgoods.htm) _(Bill Cameron) "Mixed organic chemicals" covers a lot._
+- [Where Eagles Dare](https://www.freelancetraveller.com/features/advents/whereeaglesdare.html) _(Steve Hatherley) An ancient temple, a pyramid, and terrorists_
+- [Winter of Discontent](https://www.freelancetraveller.com/features/advents/winter.html) _(John Watts) A murder mystery - three people think they did it; which one really did?_
+- [Zen and the Art of Leaving the Planet](https://www.freelancetraveller.com/features/advents/zenleave.html) _(Peter Arundel) Sometimes, the hardest part of getting a ship is ... getting the ship._
+- [Introduction to The Traveller Adventure - Traveller Background](https://www.freelancetraveller.com/features/advents/ttaintro/travintro.html) _(Ken Bearden) A capsule description of the history of the Traveller universe, in a form designed to be handed to new players._
+    - [Introduction to The Traveller Adventure - Background](https://www.freelancetraveller.com/features/advents/ttaintro/bkgd.html) _(Ken Bearden) Introductory material to establish the background against which The Traveller Adventure will be played out._
+    - [Introduction to The Traveller Adventure - The March Harrier](https://www.freelancetraveller.com/features/advents/ttaintro/harrier.html) _(Ken Bearden) A look at the starship at the center of the Traveller Adventure._
+    - [Introduction to The Traveller Adventure - The Backstab](https://www.freelancetraveller.com/features/advents/ttaintro/backstab.html) _(Ken Bearden) Backstory for a character from the Traveller Adventure._
+- [Getting Off The Ground](https://www.freelancetraveller.com/features/advents/gotg/index.html) _Use these adventure outlines to get a party moving._
+    - [The 200T False Trader](https://www.freelancetraveller.com/features/advents/gotg/falsetrader.html) _(Richard Huxton) Perhaps salvaging more than they asked for_
+    - [The Afflicted](https://www.freelancetraveller.com/features/advents/gotg/afflicted.html) _(Michael Brown) Forclosure is never pleasant._
+    - [Amber Tours, Ltd.](https://www.freelancetraveller.com/features/advents/gotg/ambertours.html) _(Colin Michael) Why is an Amber Zone apparently a green light for tourism?_
+    - [Apinanto Assist](https://www.freelancetraveller.com/features/advents/gotg/apinanto.html) _(Ewan Quibell) The “fuel truck driver” is overdue..._
+    - [Banking the Break](https://www.freelancetraveller.com/features/advents/gotg/bankingbreak.html) _(Michael Viviano) They have payment problems, but the bank doesn't want to repo the ship._
+    - [Beached](https://www.freelancetraveller.com/features/advents/gotg/beached.html) _(J.E. Geoffrey) It came out of Jump... and sat silent..._
+    - [The Benedict Advance](https://www.freelancetraveller.com/features/advents/gotg/benedictadv.html) _(Michael Brown) Find his fiancee._
+    - [Border Crossing](https://www.freelancetraveller.com/features/advents/gotg/bordercrossing.html) _(Jonathan McDermott) A common name leads to uncommon problems..._
+    - [The Boys in Blue](https://www.freelancetraveller.com/features/advents/gotg/boysinblue.html) _(Timothy Collinson) From 'showing the flag' to 'Oops, gotta run!'_
+    - [Buying Trouble](https://www.freelancetraveller.com/features/advents/gotg/buytrouble.html) _(Jeffrey Schwartz) Some contracts that may not be as good as they look_  
+        
+    - [Cadre Ticket](https://www.freelancetraveller.com/features/advents/gotg/cadreticket.html) _(Dan Long) First you learned it, now you teach it._
+    - [Cat and Mouse](https://www.freelancetraveller.com/features/advents/gotg/catandmouse.html) _(Michael A. Cessna) Can he get away with the hijacking?_
+    - [Collector's Edition](https://www.freelancetraveller.com/features/advents/gotg/collecedit.html) _(Jens Rydholm) "Printed Matter" covers - or covers up? - a lot._
+    - [The Color of Monks' Robes](https://www.freelancetraveller.com/features/advents/gotg/monksrobes.html) _(Dwayne Walstrom) The river may be the key to peace._
+    - [Combat Logistics](https://www.freelancetraveller.com/features/advents/gotg/comblog.html) _(Michael A. Cessna) Botched diplomacy, continued_
+    - [Concrete](https://www.freelancetraveller.com/features/advents/gotg/concrete.html) _(Michael Brown) Protecting the dam repair team._
+    - [The Conservator](https://www.freelancetraveller.com/features/advents/gotg/conservator.html) _(Michael Brown) Helping the cows come home_
+    - [Corp World](https://www.freelancetraveller.com/features/advents/gotg/corpworld.html) _(Joel Callahan) Mass firings that look like emergency evacuations - just what's going on?_
+    - [Coup](https://www.freelancetraveller.com/features/advents/gotg/coup.html) _(Jeff Zeitlin) When friendly territory becomes suddenly hostile..._
+    - [Crimson Folly](https://www.freelancetraveller.com/features/advents/gotg/crimsonfolly.html) _(Sam Swindell) Looking for buy-ins._
+    - [The Crow](https://www.freelancetraveller.com/features/advents/gotg/crow.html) _(Michael Hughes) This is for the birds..._
+    - [The Cumulus Course](https://www.freelancetraveller.com/features/advents/gotg/cumulus.html) _(Michael Brown) Even IFR isn't good enough._
+    - [Dead Hand](https://www.freelancetraveller.com/features/advents/gotg/deadhand.html) _(Jeffrey Schwartz) All they need is a signature_
+    - [Deliver Medicine](https://www.freelancetraveller.com/features/advents/gotg/delivermed.html) _(P-O Bergstedt) ...to help with a plague_
+    - [Diplomatic Heavyweights](https://www.freelancetraveller.com/features/advents/gotg/diploheavy.html) _(J.E. Geoffrey) An urgent call for diplomatic transport could become ... interesting._
+    - [Easter Island](https://www.freelancetraveller.com/features/advents/gotg/easterisl.html) _(Joel Callahan) A scientist needs help to research a pet theory._
+    - [Elegance Never Forgotten](https://www.freelancetraveller.com/features/advents/gotg/elegance.html) _(Michael Brown) Accompanied by arrogance_
+    - [Evening Star](https://www.freelancetraveller.com/features/advents/gotg/eveningstar.html) _(Bill Cameron) An overnight pleasure cruise has complications._
+    - [An Explosive Situation](https://www.freelancetraveller.com/features/advents/gotg/explosivesit.html) _(Michael Hughes) An adventure seed that starts off with a bang_
+    - [Extraction](https://www.freelancetraveller.com/features/advents/gotg/extraction.html) _(John G. Wood) A food fight leads to a request for asylum._
+    - [Flitho 314](https://www.freelancetraveller.com/features/advents/gotg/flitho314.html) _(Jim Kundert) It's definitely art... but whose?_
+    - [Food, Glorious Food](https://www.freelancetraveller.com/features/advents/gotg/food.html) _(Michael Hughes) Are you gonna eat that?_
+    - [Forest for the Trees](https://www.freelancetraveller.com/features/advents/gotg/forest4trees.html) _(Benjamin Pew) The better half IS in the bush._
+    - [Formerly Known As...](https://www.freelancetraveller.com/features/advents/gotg/fka.html) _(Michael Brown) Is he who he used to be?_
+    - [From the Source](https://www.freelancetraveller.com/features/advents/gotg/fromthesource.html) _(J.E. Geoffrey) The patron didn't want to pay retail._
+    - [The Galactic Gourmet](https://www.freelancetraveller.com/features/advents/gotg/galgourm.html) _(Michael Brown) A Cook's tour may be more than a Cook's Tour._
+    - [The Game Is Afoot: Consulting Detective Adventure Seeds](https://www.freelancetraveller.com/features/advents/gotg/consdetseeds.html) _(Timothy Collinson) A set of three-pipe problems..._
+    - [Game On](https://www.freelancetraveller.com/features/advents/gotg/gameon.html) _(Timothy Collinson) The rivalry itself may be an adventure._
+    - [Gamma World](https://www.freelancetraveller.com/features/advents/gotg/gamma.html) _(Joel Callahan) A devastated world is the scene for a fast retrieval mission._
+    - [The Gun](https://www.freelancetraveller.com/features/advents/gotg/gun.html) _(Joel Callahan) What you find may come in handy..._
+    - [In Small Packages](https://www.freelancetraveller.com/features/advents/gotg/smallpack.html) _(Louis Wester) Even in the far future, software bugs must be fixed..._
+    - [Instant Murder Mystery for the Grey](https://www.freelancetraveller.com/features/advents/gotg/instantmurder.html) _(Timothy Collinson) Crossing from Adventure Seed to Prep Room discussion: How to write a murder_
+    - [The Kidnapping of Major L. Fure'du](https://www.freelancetraveller.com/features/advents/gotg/furedu.html) _(Donald Hahn) Can the winery be saved?_
+    - [Look Away Home](https://www.freelancetraveller.com/features/advents/gotg/lookawayhome.html) _(Michael Brown) Her daughter's gone, along with most of her money..._
+    - [[The Miasma]]
+      (https://www.freelancetraveller.com/features/advents/gotg/miasma.html) _(Michael Brown) An industrial accident could kill people miles away_
+    - [The Marrying Kind](https://www.freelancetraveller.com/features/advents/gotg/marryingkind.html) _(Michael Brown) Is the bride price really a bargain? Is the bride?_
+    - [The Medicine Man](https://www.freelancetraveller.com/features/advents/gotg/medic.html) _(Michael Brown) There was a doctor in the house, but he's gone_
+    - [Mind Games: Four Psionic Seeds](https://www.freelancetraveller.com/features/advents/gotg/mindgames.html) _(Timothy Collinson) Psions can have adventures, too_
+    - [The Missed Interview](https://www.freelancetraveller.com/features/advents/gotg/interview.html) _(David Johnson) Why did she miss it?_
+    - [Muckraker](https://www.freelancetraveller.com/features/advents/gotg/muckraker.html) _(Michael Brown) He intends to get his story._
+    - [New Bermuda](https://www.freelancetraveller.com/features/advents/gotg/newbermuda.html) _(J.E. Geoffrey) There needs to be Something Out There..._
+    - [Noble Actions](https://www.freelancetraveller.com/features/advents/gotg/nobleacts.html) _(Jeffrey Schwarz with Jeff Zeitlin) Nobles need not be patrons to be part of an adventure._
+    - [The Old Ship](https://www.freelancetraveller.com/features/advents/gotg/oldship.html) _(Jack Mitcham) Centuries old, putting out a call..._
+    - [Ordnance](https://www.freelancetraveller.com/features/advents/gotg/ordnance.html) _(Michael Brown) An unpleasant thing to find attached to your hull._
+    - [Organized Opposition](https://www.freelancetraveller.com/features/advents/gotg/organizedopp.html) _(Bruce Johnson) A Conspiracy Theory..._
+    - [Out of Bounds](https://www.freelancetraveller.com/features/advents/gotg/outofbounds.html) _(James Catchpole) Going there can have repercussions._
+    - [Overland Express](https://www.freelancetraveller.com/features/advents/gotg/olx.html) _(Tod Glenn) When it absolutely, positively, has to get there_
+    - [Patronage](https://www.freelancetraveller.com/features/advents/gotg/patronage.html) _(Frank Mikes) An investigative reporter needs help._
+    - [The Picture](https://www.freelancetraveller.com/features/advents/gotg/thepicture.html) _(Dwayne Walstrom) A request for private courier service isn't anything to worry about ... is it?_
+    - [A Planet Is Born](https://www.freelancetraveller.com/features/advents/gotg/planetborn.html) _(Chris Keelan) And it's a violent birth..._
+    - [Prototype](https://www.freelancetraveller.com/features/advents/gotg/prototype.html) _(Joel Callahan) Corporate intrigue leads to profit or peril_
+    - [Prototype](https://www.freelancetraveller.com/features/advents/gotg/prototype2.html) _(Joel Callahan) Golden Goose, or White Elephant?_
+    - [Red Zone](https://www.freelancetraveller.com/features/advents/gotg/redzone.html) _(Louis Wester) A difficult retrieval..._
+    - [Reliquary](https://www.freelancetraveller.com/features/advents/gotg/reliquary.html) _(Nick Walker) Consecrating a church_
+    - [Return to Sender](https://www.freelancetraveller.com/features/advents/gotg/rtn2sndr.html) _(Jens Rydholm) Every little bit helps..._
+    - [Riot Act](https://www.freelancetraveller.com/features/advents/gotg/riotact.html) _(Bruce Johnson) A riot is good cover..._
+    - [Shanghaied](https://www.freelancetraveller.com/features/advents/gotg/shanghaied.html) _(Richard Morey) His son was hired, but not voluntarily._
+    - [Something Fishy](https://www.freelancetraveller.com/features/advents/gotg/fishy.html) _(Jens Rydholm) Wilderness refueling really does stink, sometimes._
+    - [Spacer Hill](https://www.freelancetraveller.com/features/advents/gotg/spacerhill.html) _(J.E. Geoffrey) An uneasy final rest._
+    - [Spotter](https://www.freelancetraveller.com/features/advents/gotg/spotter.html) _(Guy Garnett) Why is he so interested in the ship?_
+    - [Survey](https://www.freelancetraveller.com/features/advents/gotg/survey.html) _(Richard Morey) Is there anything else that SuSAG will want?_
+    - [Swamp Colony](https://www.freelancetraveller.com/features/advents/gotg/swampcolony.html) _(Michael Hughes) Driving and drinking still don't mix..._
+    - [Sweet Piece](https://www.freelancetraveller.com/features/advents/gotg/sweetpiece.html) _(Louis Wester) A 'sweet piece' isn't a piece of candy..._
+    - [Sweet SSUITE](https://www.freelancetraveller.com/features/advents/gotg/sweetssuite.html) _(Sam Swindell) A scout is looking for help to bring an idea to market._
+    - [The Sylan Extraction](https://www.freelancetraveller.com/features/advents/gotg/syl.html) _(Jim Vassilakos) The journalist wasn't as discreet as he should have been, and now wants your help to save his sources._
+    - [Take The Money And Run](https://www.freelancetraveller.com/features/advents/gotg/takemoney.html) _(Michael Hughes) They couldn't win the peace_
+    - [Tears](https://www.freelancetraveller.com/features/advents/gotg/tears.html) _(Joseph Paul) The evidence is that history is wrong._
+    - [This Stinks](https://www.freelancetraveller.com/features/advents/gotg/thisstinks.html) _(Richard Honeycutt) A seemingly minor accident has major repercussions..._
+    - [Thomas's Theorem](https://www.freelancetraveller.com/features/advents/gotg/theorem.html) _(J. Fernando Martín "Dr. Alban") Protecting the children at a psi school. Translated from the Spanish original._
+    - [Adventure Seeds for Travellers' Aid Society Characters](https://www.freelancetraveller.com/features/advents/gotg/tasseeds.html) _(Greg Alan Caires) The TAS doesn't just enable adventures, sometimes they're part of them._
+    - [The Travelling Gourmet](https://www.freelancetraveller.com/features/advents/gotg/gourmet.html) _(Joel Callahan) The Video Chef makes life interesting._
+    - [The Umbra Retribution](https://www.freelancetraveller.com/features/advents/gotg/umbraretrib.html) _(Michael Brown) Revenge can be profitable - or expensive_
+    - [Two Patron Encounters for Traveller](https://www.freelancetraveller.com/features/advents/gotg/twopatrons.html) _(Jim Vassilakos) Twp deals that may be less than wise to accept_  
+        
+    - [Two Patron Encounters: Shtiz Bralzastebr](https://www.freelancetraveller.com/features/advents/gotg/twobralzastebr.html) _(Timothy Collinson) What does this Zhodani really want?_
+    - [Unfit](https://www.freelancetraveller.com/features/advents/gotg/unfit.html) _(Richard Aiken) The party must "escort" the envoy that is the means to put pressure on the noble that is about to name the wrong heir._
+    - [Unfixed](https://www.freelancetraveller.com/features/advents/gotg/unfixed.html) _(Bill Cameron) The PCs are asked to lengthen short odds._
+    - [Uprooted](https://www.freelancetraveller.com/features/advents/gotg/uprooted.html) _(Michael Hughes) A different Arbor Day_
+    - [Van-Go-Go-Go](https://www.freelancetraveller.com/features/advents/gotg/vangogogo.html) _(James Huron) A hot art collection_
+    - [The Weather Room](https://www.freelancetraveller.com/features/advents/gotg/wxroom.html) _(Joel Callahan) Making the spacer's home-away-from-home into the vacation-spot-away-from-vacation-spot_
+    - [A Whale of a Cargo](https://www.freelancetraveller.com/features/advents/gotg/whale.html) _(Joel Callahan) Literally._
+    - [The Wing Wherewith We Fly](https://www.freelancetraveller.com/features/advents/gotg/wings.html) _(Michael Brown) When education is contraband, so are educators._
+    - [A Zhdantian Trader in the Sacnoth Dominate](https://www.freelancetraveller.com/features/advents/gotg/zhdantiantrader.html) _(David Johnson) Ex-diplomats don't normally go into business..._
+
+For more information on The Traveller Adventure, look at [Raconteur's Rest](https://www.freelancetraveller.com/features/stories/index.html) - the [Instant Replay](https://www.freelancetraveller.com/features/stories/instrep/index.html) stories are episodes from this adventure as Ken ran it - and [Up Close and Personal](https://www.freelancetraveller.com/features/characters/index.html), where you'll find a profile of one of the characters, [Gvoudzon](https://www.freelancetraveller.com/features/characters/ken-bearden/gvoudzon.html).

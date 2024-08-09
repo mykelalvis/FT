@@ -1,0 +1,1 @@
+[Sirma (world) - Traveller (travellerrpg.com)](https://wiki.travellerrpg.com/Sirma_(world))

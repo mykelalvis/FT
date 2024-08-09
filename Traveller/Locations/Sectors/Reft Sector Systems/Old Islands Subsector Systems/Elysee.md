@@ -1,0 +1,1 @@
+Although dominated for a time by Serendip Belt, Elysee is currently independent, though heavily influenced by New Colchis and New Home. It is a rockball world notable as the headquarters of the Islandbridge Trading Corporation, which has assets all over the Islands Cluster.

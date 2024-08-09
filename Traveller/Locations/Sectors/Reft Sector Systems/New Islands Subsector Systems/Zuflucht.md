@@ -1,0 +1,3 @@
+Zuflucht has a thin, tainted atmosphere but is otherwise habitable. As the extreme spinward-coreward point of the Islands Cluster it would not normally be important in the affairs of the region but since the arrival of the Imperium in the Islands, Zuflucht has become the arrival/departure point for trans-rift traffic. As such, it is of some importance to the Imperium. The orbital component of the starport has been expanded to serve as a naval base.
+
+See [[Islands in the Rift#ZUFLUCHT]] for some additional details.

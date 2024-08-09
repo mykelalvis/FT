@@ -1,0 +1,1 @@
+New Home is one of the big players in Islands politics and has the highest Tech Level in either subsector. New Home is determinedly neutral in the current tense situation and doing well acting as a facilitator for both arms procurement and peaceful negotiations.

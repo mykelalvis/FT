@@ -1,0 +1,1 @@
+The Colchis system is very busy, with interplanetary vessels plying between several inhabited bodies orbiting both the primary star and its red dwarf companion. Colchis is an independent second-tier power in the Islands and not formally aligned with any other polity.

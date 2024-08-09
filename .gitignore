@@ -1,0 +1,5 @@
+*.pdf
+*.doc
+.obsidian
+.trash
+*.py

@@ -1,0 +1,7 @@
+The Emperor and his immediate family sit atop the noble peerage, laying claim to thousands of oaths of fealty. In 1105, Emperor Strephon Aella Alkhalikoi sits upon the Iridium Throne. He is attended by his wife, the Empress Iolanthe and daughter, the Crown Princess Ciencia Iphegenia.
+
+Each member of the Imperial Family is dedicated to their roles as servants of the Imperium and despite divergent interests, have managed to find common ground in their respective works. The Emperor is preoccupied with the preservation and consolidation of the Imperium and has recently taken an interest in its security as well. The Empress has become an advocate for the cultural diversity of the Imperium, which on its surface would seem to be opposed to her husband’s efforts to bring its people closer together. In fact, the two work quite well hand in hand, with the Emperor taking the role of wise but heavy-handed ruler when necessary, while his wife assures the cultures of the realm that all have a place in its advancement. Meanwhile, the bright Crown Princess has become the patron of the IISS, spending a great deal of her time visiting its bases, promoting its services and ensuring that the best technology and resources are made available to its personnel. Ciencia Iphegenia spends much of her time away from Capital in the Reference system, where she studies at the University of Aadkhien and works closely with the scouts’ top brass.
+
+- [[Emperor Strephon Aella Alkhalikoi]]
+- [[Empress Iolanthe Alkhalikoi]]
+- [[Princess Ciencia Iphegenia]]

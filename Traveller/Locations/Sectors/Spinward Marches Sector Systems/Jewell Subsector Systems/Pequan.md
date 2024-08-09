@@ -1,0 +1,1 @@
+[[Pequan]] [[Pequan]] 0410 E5656B9–4 0410 E5656B9–4 Ag Ga NI LtAg Ga NI Lt [[Pequan]] is a lush and fertile world where the people live an agrarian lifestyle. Despite interest from the Imperium and the Federation of Arden, [[Pequan]] has remained an independent world. Full details can be found on page 49 (Keystone).

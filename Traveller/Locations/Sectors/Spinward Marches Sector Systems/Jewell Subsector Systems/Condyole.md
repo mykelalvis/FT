@@ -1,0 +1,1 @@
+[[Condyole]] [[Condyole]] 0101 E7A1522–8 0101 E7A1522–8 Fl NI GFl NI G [[Condyole]] is an independent world located in Zhodani territory. The planet is inhabited by an indigenous species known as the [[Vexx]]; one of the many human cultures seeded by the Ancients. Full details can be found on page 57 (Keystone).

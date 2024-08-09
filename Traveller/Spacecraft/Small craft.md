@@ -1,0 +1,1 @@
+![[FFE_Small_Craft_Image.jpg]]

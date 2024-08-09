@@ -1,0 +1,6 @@
+* text=auto
+*.txt text
+*.md text
+*.json text
+*.jpg binary
+

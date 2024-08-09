@@ -1,0 +1,1 @@
+![[PicSpacetruckGravLifter.jpg]]

@@ -1,0 +1,1 @@
+[Scout Base](https://wiki.travellerrpg.com/Scout_Base "Scout Base")

@@ -1,0 +1,1 @@
+[Ziru Sirka](https://wiki.travellerrpg.com/Ziru_Sirka "Ziru Sirka")

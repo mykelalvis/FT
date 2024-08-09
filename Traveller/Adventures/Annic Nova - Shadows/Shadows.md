@@ -1,11 +1,14 @@
 ---
 date created: 2024-07-02 07:02
-date updated: 2024-07-02 08:44
+date updated: 2024-08-09 09:16
 tags:
   - Traveller-Adventures
+  - Spinward_Marches
+  - Regina_Subsector
+  - Yorbund
 ---
 
-![[Shadows-COVER.jpg]]
+![[Shadows-COVER.jpg|100]]
 
 # Introduction
 
@@ -16,16 +19,15 @@ This booklet contains two comprehensive adventures for Traveller printed back-to
 The following standards and assumptions are used in the text of this adventure.
 The referee may alter them as necessary to correspond to a local situation.
 
-Dates: All dates herein correspond to the Imperial calendar. The initial date for
-this situation is 190-1105; 190 is the current day (the 190th day of the year) in the standard 365-day year, while 1105 is the current year in the lmperium. Once the adventure begins, time should flow normally. If necessary, change the date to match a local situation.
+### Dates
 
-Place:: This adventure takes place on [[Yorbund]] (0703 -C7C6503 -7), which is situated in the [[Regina Subsector]] in the [[The Spinward Marches]] of the lmperium. Yorbund is 7,000 miles in diameter, with an insidious corrosive atmosphere, and seas of fluid covering 60% of its surface.
+All dates herein correspond to the Imperial calendar. The initial date for this situation is 190-1105; 190 is the current day (the 190th day of the year) in the standard 365-day year, while 1105 is the current year in the lmperium. Once the adventure begins, time should flow normally. If necessary, change the date to match a local situation.
 
-Yorbund has a population of 227,000 persons, with no established government. A generally accepted law level of 3 will prohibit energy weapons and autorifles. Local technological level is 7, equivalent to the period 1970 to 1979 (only limited manufacturing of TL7 materials is possible, due to the low population base). The local starport is classed as type C, and is located near the major population center of the world.
+### Place
 
-Much of Yorbund is unexplored, with the population concentrated in a few underground complexes. Yorbund's major resource is fungi grown in the caverns; it provides food, fibers for cloth, fuel, and is exported as pharmaceuticals.
+This adventure takes place on [[Yorbund]] (0703 -C7C6503 -7), which is situated in the [[Regina Subsector]] in the [[The Spinward Marches]] of the lmperium.
 
-##### Using this Adventure
+## Using this Adventure
 
 REFEREE'S CHECKLIST
 
@@ -38,9 +40,9 @@ The referee can use this adventure as an independent situation with pregenerated
 
 Referee's Checklist: The steps shown in the referee's checklist should guide the referee through the elements of administering this adventure. Characters are covered next in this section, as is equipment purchase.
 
-The situation is stated on page 4, with additional materials contained in the remainder of the adventure.
+[[#The situation]] is stated herein, with additional materials contained in the remainder of the adventure.
 
-##### Characters
+### Characters
 
 This adventure is intended for a band of adventurers numbering at least two and
 no more than eight. A group of pre-generated characters is supplied below, although
@@ -88,17 +90,21 @@ Characters should review their equipment, and may purchase more. However, it is 
 
 The referee should allow no more than ten minutes for the purchase of equipment before the adventure begins.
 
-REFEREE'S NOTE
+## REFEREE'S NOTE
+
 The information in this adventure is intended for the use of the referee. Only certain specific items of information should be made available to the players.
 
-- Introductory Material.: The data on pages 1 through 3 should be made available to the players through the referee, rather than allowing them to read it directly.
-- Shadows: The material on pages 4 and 5 should be read aloud at the start of the adventure. It should be available (on request) throughout the adventure.
-- The Pyramids and Animal Encounters: The information in these sections (pages 6 through 20) is for the use of the referee alone, and should not be divulged to the players except as called for in the course of the adventure.
-- Library Data.: All library data for this adventure and for the Annie Nova adventure has been consolidated in one section with the [[Annic Nova#LIBRARY DATA]]. Library data should be revealed to the players when they consult library or computer facilities on a specific topic.
+- Introductory Material.: The data with [[#Introduction]] should be made available to the players through the referee, rather than allowing them to read it directly.
+- Shadows: [[#The Situation]] should be read aloud at the start of the adventure. It should be available (on request) throughout the adventure.
+- The Pyramids and Animal Encounters: The information in [[#Inside the Pyramids]] and [[#Animal Encounters]] is for the use of the referee alone, and should not be divulged to the players except as called for in the course of the adventure.
+- Library Data.: All library data for this adventure and for the [[Annic Nova]] adventure has been consolidated in one section with the [[Annic Nova#Library Data]]. Library data should be revealed to the players when they consult library or computer facilities on a specific topic.
 
-Referee's Data: The section on referee's data is intended to provide background for the referee, to increase his or her understanding of the adventure, It should never be revealed directly.
+> [!warning] Referee's Data
+> The section on referee's data is intended to provide background for the referee, to increase his or her understanding of the adventure, It should never be revealed directly.
 
-After a call at Marion Starport on Yorbund, consisting of a complete refuelling and a visit to the minor attractions of the caverns of Yorbund, the band of adventurers prepared for a routine take-off, bound outsystem for Kinorb. In the last few seconds before lift-off, however, a seismic tremor shook the field, disrupting the count-down. Although lift-off took place on schedule, the possibility remains that the ship sustained damage from the tremor. The adventurers place it in orbit while routine checks are run on all ship's systems for possible malfunction. After three hours, all readings indicate negative problems.
+# The Situation
+
+After a call at [[Yorbund#Marion Starport|Marion Starport]] on [[Yorbund]], consisting of a complete refuelling and a visit to the minor attractions of the [[Yorbund#Fungus Caverns|caverns of Yorbund]], the band of adventurers prepared for a routine take-off, bound outsystem for [[Kinorb]]. In the last few seconds before lift-off, however, a seismic tremor shook the field, disrupting the count-down. Although lift-off took place on schedule, the possibility remains that the ship sustained damage from the tremor. The adventurers place it in orbit while routine checks are run on all ship's systems for possible malfunction. After three hours, all readings indicate negative problems.
 
 However, the ship's scanners have detected a surface feature of some interest on Yorbund. Located far into unsettled territory, and not appearing on any maps, the feature appeared in a break in the almost perpetual overcast. An aerial view of the feature is shown to the right. Extensive use of the ship's computer on the image data in memory gradually expands the information available, although additional images are obscured by the overcast and the nature of the atmosphere below. The three pyramid complex appears to be constructed of stone having a high metal content, with a high probability of voids within the structure, although none of high volume. The feature appears to be old, constructed (rather than natural), and not of human origin. It appears safe for an exploratory expedition.
 
@@ -110,13 +116,15 @@ The landing at Marion Starport provided some basic background to the travellers 
 
 Deciding to investigate the feature, the ship descends to the world surface, and follows a flight path to land within a kilometer of the complex. In the last few seconds of the approach, an energy blast passes within meters of the ship, almost disabling it. Instrumentation shows that the beam came from the pyramids. Computer readouts indicate that the ship will probably (80% chance) be shot down if it attempts to take off without that beam being disabled.
 
-![[Shadows-map1.jpg]]
+![[Shadows-map1.jpg|200]]
+[[Shadows-map1.jpg|Pyramid Map]]
 
 # Inside the Pyramids
 
 The pyramid complex is obviously an artifact constructed by some race (human or other), by all appearances at some date in the far past. The adventurers are forced to investigate it in detail.
 
-![[Shadows-1.jpg]]
+![[Shadows-1.jpg|200]]
+[[Shadows-1.jpg|Map 2]]
 
 ## Entry Points
 
@@ -140,14 +148,17 @@ The interior of the complex should come as a distinct surprise to its violators.
 
 Large Chambers: [[#^Diagram-2|Diagram 2]] shows a typical large chamber (such as [[#^location-11|location 11]]) with a curved ceiling and side access to a corridor. Note the sunken central floor area, drainage, and ceiling vent. The curved line at the top is a lighting fixture which produces a dull glow sufficient for most vision requirements. [[#^location-1|Location 1]] and [[#^location-09|Location 9]] are similar in shape and layout, although they both have deep central shafts.
 
-![[Shadows-2.jpg]]
-Diagram 2 ^Diagram-2
-![[Shadows-3.jpg]]
-Diagram 3 ^Diagram-3
-![[Shadows-4.jpg]]
-Diagram 4 ^Diagram-4
-![[Shadows-5.jpg]]
-Diagram 5 ^Diagram-5
+![[Shadows-2.jpg|200]]
+[[Shadows-2.jpg|Link to]] Diagram 2 ^Diagram-2
+
+![[Shadows-3.jpg|200]]
+[[Shadows-3.jpg|Link to]] Diagram 3 ^Diagram-3
+
+![[Shadows-4.jpg|200]]
+[[Shadows-4.jpg|Link to]] Diagram 4 ^Diagram-4
+
+![[Shadows-5.jpg|200]]
+[[Shadows-5.jpg|Link to ]] Diagram 5 ^Diagram-5
 
 Corridors: Connecting the interior chambers are round corridors as shown in Diagram 5. The upper (larger) corridor is typical of those connecting major areas, while the smaller corridor is typical of those connecting side chambers, or leading to the Power Plant Level (from [[#^location-13|location 13]]). These corridors have a ceiling plate which provides light, and a flat platform at the bottom which provides a pathway for individuals.
 
@@ -156,8 +167,8 @@ This platform appears to be made of iron sheets and is suspended without visible
 Small Chamber: Diagram 6 on this page shows a cross section of a large corridor and two small adjoining chambers, an arrangement typical of the small chambers. Locations [[#^location-4|4]], [[#^location-6|6]], [[#^location-8|8]], and [[#^location-20|20]] have lower-level platform floors within; locations [[#^location-2|2]], [[#^location-3|3]], [[#^location-5|5]], [[#^location-7|7]], and [[#^location-19|19]] have higher-level platforms.
 
 SMALL CHAMBERS
-![[Shadows-6.jpg]]
-Diagram 6 ^Diagram-6
+![[Shadows-6.jpg|200]]
+[[Shadows-6.jpg|Link to]]Diagram 6 ^Diagram-6
 
 Note the large curved doors, suspended on magnetic fields. For each, throw 9+ for the door to be in the open position. Closed doors may be opened by brute strength, applying 13+ in strength characteristic, and then propping the door open with a bar, tool, or weapon. Open doors will prove very difficult to close. In the event of a seismic tremor, any doors may change position on 7+ unless already propped open.
 
@@ -175,8 +186,8 @@ Temperature: Temperature is remarkably constant within the complex, staying at a
 
 Two locations show evidence within the interior of the pyramid complex.
 
-![[Shadows-7.jpg|15-]]
-Diagram 7 ^Diagram-7
+![[Shadows-7.jpg|200]]
+[[Shadows-7.jpg|Link to ]] Diagram 7 ^Diagram-7
 
 One, in a horizontal corridor on the Interior Level, and shown in section above, has occurred where the corridor tubes have changed orientation slightly. Someone with navigation skill may notice (throw 9+; DM +2 if intel 8+) that the fault corresponds to the juncture between the two adjacent pyramids. The meaning of this fact is not obvious. Visible at the horizontal fault are the upper vent and lower drain pipe, with opaque vapor drifting down from above. A second fault (at [[#^location-14|location 14]]) is located in the vertical shaft leading down from [[#^location-1|location 1]]to [[#^location-15|location 15]]. This fault is not as obvious as the horizontal fault; and will probably not be discovered unless inspected as adventurers move down the shaft. Note that a similar shaft connects locations [[#^location-09|9]] and [[#^location-21|21]], but does not have a fault in its length.
 
@@ -211,7 +222,7 @@ The following locations are situated in Diagram 3.
    An individual with navigation skill will note that the center of this chamber is at the exact center of the large pyramid. The knobby cable may be a method of descending into the depths of the shaft. It would require a leap to the cable (throw dexterity or less to succeed; DM+ vacc suit skill, DOM -3 if vacc suit skill is 0 or non-existent); followed by a slow descent (throw strength or less to succeed; DM + vacc suit skill and + endurance, DM -4 if vacc suit skill is zero or non-existent). Perform the descent throw three times (for high, moderate, and low heights). If any throw is unsuccessful, the individual falls, and will suffer: 20 hits applied randomly in one lump (perhaps producing unconsciousness), and a further 20 applied in 10 units. In addition, vacc suit integrity may be broken (throw 10+; OM+ vacc suit skill), which will result in instant death.
    Ascending the cable follows a reverse procedure, but requires an automatic DM -2 on each throw to cover the added strain of moving up the cable, and then leaping from an unstable position.
    Referee's Note.: At this point, the band may decide to split up rather than risk all their lives in a descent. The portion which remains behind should stay in chamber 9 in order to avoid the divided band penalties for both groups (as specified on page 12).
-10. Large Chamber. Large chambers have no doors. This large chamber is empty, and has a cross-section as shown in diagram 8 on page 14. The central sunken area is filled with vapor. Casual search will reveal nothing; careful search (throw 10+ for success; OM +8 if anyone has infrared goggles) will show that the walls of the chamber are painted in a striking mural visible only in infrared. It is possible to detect the mural (but not view its content) on close inspection in visible light. The mural shows a perception of the area around the pyramid complex, with a low range of mountains in the background. Most apparent, however, is the vast throng of reptilian creatures (about human size) crowding around the complex. They appear intelligent and civilized, perhaps congregated for a religious or political purpose. Specific details of these beings are not especially obvious to the observer. ^location-10
+10. Large Chamber. Large chambers have no doors. This large chamber is empty, and has a cross-section as shown in [[#^Diagram-8|Diagram 8]]. The central sunken area is filled with vapor. Casual search will reveal nothing; careful search (throw 10+ for success; OM +8 if anyone has infrared goggles) will show that the walls of the chamber are painted in a striking mural visible only in infrared. It is possible to detect the mural (but not view its content) on close inspection in visible light. The mural shows a perception of the area around the pyramid complex, with a low range of mountains in the background. Most apparent, however, is the vast throng of reptilian creatures (about human size) crowding around the complex. They appear intelligent and civilized, perhaps congregated for a religious or political purpose. Specific details of these beings are not especially obvious to the observer. ^location-10
 11. Large Chamber. Large chambers have no doors. This chamber is similar to [[#^location-10|location 10]], and should be administered like it. However, the mural in this chamber is a depiction of several reptilian creatures engaged in throwing snake-like small animals into the open shaft on the platform outside the complex. Careful search (throw 9+; OM +3 if more than two persons are involved) will show that the fluid in the central depression in the chamber is populated with snakes like those shown on the mural. An individual approaching adjacent to the lip of the depression may provoke the snakes (die roll 2, page 18) to attack, even if they have not yet been discovered by search. The fluid in the depression will vaporize if subjected to great heat; specifically, if an energy weapon is fired at the pool, its contents will vaporize after three shots. It will immediately begin refilling from the drain pipe, but several skeletons (of crawlers, flyers, and the humanoid reptilians) will be visible at the bottom. ^location-11
 12. Large Chamber. Large chambers have no doors. This chamber is similar to [[#^location-10|location 10]], and should be administered like it. However, the mural in this chamber shows a large flock of flying creatures (recognizable as flyers, page 18-19) soaring and diving around the complex. Flashes of energy are shooting from the faces of the large pyramid, incinerating individual flyers. No other animals or beings are visible in the representation. Careful search (throw 9+; DM +3 if mechanical skill is present) will show that the represented energy blasts can hit any location within sight of the pyramid, but cannot hit locations which are occluded by the smaller pyramids. By deduction, it would appear possible for the ship to take off without danger from the energy beam, if it first moves until occluded by one of the smaller pyramids, and then lifts off so as to remain shadowed by that smaller pyramid. ^location-12
 13. Concealed Passage. This doorway is revealed only by careful search of chamber 9. The panel concealing the doorway will open to combined strength characteristics of 13+. When opened, there is a chance (throw 7+) that a flock of flyers (die roll 7, page 18) are concealed behind it, and will erupt in an. attack. Each individual in [[#^location-09|location 9]]would be forced to fight (three combat rounds) before retreating to the safety of another chamber or passage. Any adjacent to the central shaft in [[#^location-09|location 9]]should throw once (throw twice dexterity, or less) to avoid falling into the shaft. If a fall does occur, throw dexterity or less to grab hold of the pendulum cable. See [[#^location-09|location 9]]for falling resolution. The passage from 13 leads on a slant down to the [[#Power Plant Level Locations (25-32)|Power Plant Level]]. ^location-13
@@ -233,13 +244,14 @@ The following locations are situated on Diagram 4 (14 is on Diagram 1 ).
     - Group One (numbered 1 to 33) consists of instruments with fluctuating readings-probably power plant related.
     - Group Two (numbered 34 to 66) exhibits constant readings, with most showing some low degree of value, and numbers 53 and 56 reading (anomalously) at zero.  Add 33 to the location number to determine which guage/control refers to which lighting fixture. Numbers 65 and 66 refer to corridor lighting.
     - Group Three (numbered 67 to 100) consists of instruments which are reading very low values-except for 99, which reads at a very high intensity. Gauge 99 reflects power consumption for the detectors which govern the energy beam.
+
     Experimentation may be called for by the adventurers. Below each guage is a set of three depressions. The top one will turn on a device or circuit; the bottom one will turn off a device or circuit. But, as a safety device, neither will work unless a finger is also inserted in the central depression simultaneously. Assume that this trick will not be chanced upon until at least a half hour of careful search has passed (throw 11 +to succeed; DM +1 per ten minutes total time spent searching).
     If all power plant controls are turned to zero, all power (lighting, power plant, defenses) will go to zero, and nothing can be restarted. If control 69 is activated, a subsonic signal will panic all animals within the complex. Control 74 will turn off the pendulum kicker. Control 83 will turn off the defenses of [[#^location-17|location 17]]. Controls 69 and 84 come on automatically two minutes before a seismic tremor occurs.
 23. Large Chamber. Large chambers do not have doors. This location is quite similar to [[#^location-22|location 22]], but the interior lights do not work, and all of the controls and guages read zero. An atmosphere tester with a serial number in the 4000 range will emit a beep, and the green and amber lights will come on, although the air remains unbreathable in this chamber. ^location-23
 24. Large Chamber. Large chambers do not have doors, and this one has no central depression; instead, it has a raised dais of stone rubbed smooth from long use. ^location-24
 
-![[Shadows-8.jpg]]
-Diagram 8 ^Diagram-8
+![[Shadows-8.jpg|200]]
+[[Shadows-8.jpg|Link to ]] Diagram 8 ^Diagram-8
 
 ### Power Plant Level Locations (25-32)
 
@@ -301,6 +313,8 @@ Reactions: `An` is· the throw on which animal will attack. `Fn` is the throw on
 ### The Animals
 
 ![[Shadows-animals.jpg]]
+[[Shadows-animals.jpg|Shadows Animals]]
+
 The three animal types encountered appear to be distinct (though related) species; upon examination of specimens (a character must examine at least one specimen of each type during the adventure, and throw education minus 5 or less, at the end of the adventure) they are discovered to be developmental stages in the life of a single animal. The amphibian grazer form hatches from eggs laid in the pools of fluid. The juveniles spend most of their time swimming, but venture out at intervals to feed upon the plant and fungal material growing in the small chambers.
 
 After an unknown period of growth (from the 3cm hatching length to the full size of 75 to 100 cm) the juvenile locates a protected place in which to enter a period of suspended animation, during which it metamorphosizes into one of the two adult forms, either the four-legged male or larger winged female. At irregular intervals throughout the year, the two sexes return to the pools from which they hatched, where they produce large quantities of eggs. The adults are carnivorous, and feed on the juvenile form.

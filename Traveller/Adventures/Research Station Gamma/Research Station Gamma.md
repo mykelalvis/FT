@@ -8,7 +8,7 @@ tags:
 date updated: 2024-07-25 20:37
 ---
 
-![[A2RSG-11.jpg]]
+![[A2RSG-11.jpg|200]]
 
 ### Introduction
 

@@ -100,14 +100,14 @@ Dagger (1D+2), Jack (1) and a state of the art (for Motmos) TL6 Comm
 Bretton has very little money but has given what he has to Jemmy and played on his dislike and fear of the Zhodani, Nestine has some savings which she can pay to Jemmy, Sina has no money at all and is not quite sure why she felt she had to run away from the orphanage and seek out Jemmy but had a strong sense she should. Her story about medical abuse and poor treatment at the orphanage has played on Jemmy’s better nature -
 although his career path has led him through thievery and perhaps more, he’s not without a heart. He can be played as a smiling, charming rogue who can’t do enough for the three stowaways – even if he’s really doing very little. Or he might be a shady, seedy type always looking over his shoulder and only persuaded to get involved because it’s the quickest way to get rid of the threesome.
 
-All three need to get off world and do so without it being known that they’ve left, where they are, or where they’re going. Jemmy has a scheme to get all three aboard a Subsidised Merchant, The Application of Credit , which is being chartered to take a herd of hexapod xeeboo cattle to Trexalon. He’s bribed a dockside loading wrangler to get them into the cargo hold and hidden in one of the spare animal pens a little before departure. They have basic rations for a week, one change of clothes and nothing else. Water they’re expecting to be able to filch from the cattles’ supplies. On realising Nestine’s ex-Navy past Hranf will attempt to talk to her about it in the hope of gaining a contact, but her savage antipathy to the Imperial Navy should be made clear to him. If the Zhodani come up in conversation, it won’t be clear who she despises more.
+All three need to get off world and do so without it being known that they’ve left, where they are, or where they’re going. Jemmy has a scheme to get all three aboard a Subsidized Merchant, The Application of Credit , which is being chartered to take a herd of hexapod xeeboo cattle to Trexalon. He’s bribed a dockside loading wrangler to get them into the cargo hold and hidden in one of the spare animal pens a little before departure. They have basic rations for a week, one change of clothes and nothing else. Water they’re expecting to be able to filch from the cattles’ supplies. On realising Nestine’s ex-Navy past Hranf will attempt to talk to her about it in the hope of gaining a contact, but her savage antipathy to the Imperial Navy should be made clear to him. If the Zhodani come up in conversation, it won’t be clear who she despises more.
 
 If this scene hasn’t been developed into something more, then it at least gives the opportunity for the three stowaways to get to know each other and to share something of their backstories. Remember that Sina’s
 ‘history’ will be seen through the eyes of a ten year old who may not have a very clear idea of why certain things have happened or are happening. If the three want to suggest refinements to Hranf’s plan in the next scene, that should be encouraged. It might even be that the Referee wishes to outline a number of possible outbound merchant ships that they could discuss as potential targets.
 
 ### Stowaway Scene 2: Hiding
 
-Jemmy’s plan to get the stowaways aboard with the xeeboo involves bribing one of the dockside loading handlers. But the tech level is low, the security fairly lax and this shouldn’t be a problem. The bribe could be a task for one of the stowaways if desired.[^2] The three of them will need to walk amongst the cattle which will be a little unnerving for Nestine and perhaps Sina, but Bretton will be confident providing he can put a hand on Nestine’s shoulder. The handler will direct them to a stall at the forward end of the Cargo Bay which won’t happen to have an animal in it. Nestine and Bretton will be familiar enough with the standard layout of a Subsidised Merchant to be able to check out other temporary hiding places which will be necessary when crew are around.
+Jemmy’s plan to get the stowaways aboard with the xeeboo involves bribing one of the dockside loading handlers. But the tech level is low, the security fairly lax and this shouldn’t be a problem. The bribe could be a task for one of the stowaways if desired.[^2] The three of them will need to walk amongst the cattle which will be a little unnerving for Nestine and perhaps Sina, but Bretton will be confident providing he can put a hand on Nestine’s shoulder. The handler will direct them to a stall at the forward end of the Cargo Bay which won’t happen to have an animal in it. Nestine and Bretton will be familiar enough with the standard layout of a Subsidized Merchant to be able to check out other temporary hiding places which will be necessary when crew are around.
 
 Possibilities include: Port side Secure Cargo Area not currently used for cargo but cluttered with rope, tie downs, kegs, small containers and various empty bags and suitcases; in the cab of the utility vehicle or under a tarpaulin at the rear of the truck; in a cleaning cupboard on the starboard side of the Main Cargo Bay just aft of the airlock. With Sina’s abilities, it might also be possible, after observing the Engineer’s general movements, to use one of the Landing Strut Access spaces.
 
@@ -150,7 +150,7 @@ Presuming that they are indeed, eventually, discovered[^3] it should of course b
 MgT1]
 _Characteristics_ : Strength 11 (+1), Dexterity 4 (-1), Endurance 10 (+1), Intelligence 10 (+1), Education 6 (+0), Social Standing 6 (+0)
 _Homeworld_ : Uakye (Spinward Marches 1805 B439598-D) Ni _Skills_ : Engineer (jump drive) 3, Gun Combat (energy) 2, Jack-of-All-Trades 2, Mechanic 2, Profession
-(salvage/repair) 2, Vacc Suit 2, Athletics (strength) 1, Broker 1, Engineer (life support) 1, Engineer (m-drive) 1, Investigate 1, Language (Gvegh) 1, Melee (unarmed) 1, Advocate 0, Electronics 0 _Equipment_ : Cr13,000, 12 ship shares, Pension: Cr16,000, Assistant (Drone) – see Steward Charlie below, enemy, Influence: Amateur (11+)[^4] _Background_ : Debba Wattins is a 50 year old former Junk Dealer who worked in Refurbishing/Yardwork and who has a talent for salvage and repair and is an engineer skilled in a variety of areas (jump drive, m-drive, life support). She is a strong and somewhat taciturn Master but knows her stuff and keeps the Subsidised Merchant, _The Application of Credit_ , just about in profit even in the difficult reaches of District 268.
+(salvage/repair) 2, Vacc Suit 2, Athletics (strength) 1, Broker 1, Engineer (life support) 1, Engineer (m-drive) 1, Investigate 1, Language (Gvegh) 1, Melee (unarmed) 1, Advocate 0, Electronics 0 _Equipment_ : Cr13,000, 12 ship shares, Pension: Cr16,000, Assistant (Drone) – see Steward Charlie below, enemy, Influence: Amateur (11+)[^4] _Background_ : Debba Wattins is a 50 year old former Junk Dealer who worked in Refurbishing/Yardwork and who has a talent for salvage and repair and is an engineer skilled in a variety of areas (jump drive, m-drive, life support). She is a strong and somewhat taciturn Master but knows her stuff and keeps the Subsidized Merchant, _The Application of Credit_ , just about in profit even in the difficult reaches of District 268.
 
 #### Pilot Pauli Stoyko 836987, Age 38, Rank 1: Tramp Hand
 
@@ -193,13 +193,13 @@ _Gadgets_ : Fire extinguisher, household cleaner, medikit
 _Computer_ : Synaptic CPU, memory stick TL10 x 3
 _Software_ : Language pack (Galanglic), personality program, CA 3, encyclopaedia 3, skill pack x 2
 
-Weighing 173.5kg and costing Cr84,200 new (this model is some four decades old and worth perhaps Cr10,000 - see notes above), the robot is ideally suited to shipboard stewarding functions on board smaller ships such as a Free Trader or Subsidised Merchant.
+Weighing 173.5kg and costing Cr84,200 new (this model is some four decades old and worth perhaps Cr10,000 - see notes above), the robot is ideally suited to shipboard stewarding functions on board smaller ships such as a Free Trader or Subsidized Merchant.
 
 [^6]: This is from the Merchant Marine career path in _Book 7: Merchant Prince_ and can be revised to Rank 2: 4th Officer as per the _Core Rulebook_ if preferred.
 
 ### Aboard the Ship
 
-_The Application of Credit_ is a standard Type R, Subsidised Merchant - see pages 184 - 185 of the _Core Rulebook_. It is as described and well maintained although occasionally instances of Debba’s handy ‘fixes’ can be seen. She’s competent but doesn’t necessarily have the finishing skills that would make an installation or repair look completely professional.
+_The Application of Credit_ is a standard Type R, Subsidized Merchant - see pages 184 - 185 of the _Core Rulebook_. It is as described and well maintained although occasionally instances of Debba’s handy ‘fixes’ can be seen. She’s competent but doesn’t necessarily have the finishing skills that would make an installation or repair look completely professional.
 
 A wheeled flatbed truck can be found in the Forward Cargo Bay which Adma drives on errands and taking the crew ashore in some ports (see Utility Vehicle below). At present the Main Cargo Bay has had cattle stalls fitted throughout so that it can contain the herd of xeeboo. The Aft Cargo Bay has had its forward 4.5m fitted with more stalls and also has cattle feed, straw and some other cargo containers filling much of the rest of the space.
 
@@ -324,7 +324,7 @@ JumpSpacing the stowaways, spacing them whilst in Jumpspace, might be considered
 
 Emergence from Jumpspace will be on the shorter side of typical Jump durations. (This ensures that those in pursuit should be a little way behind.) On their way into the inner system they’ll meet a Trexalon Trade Consortium cruiser heading outbound who will hail them as per standard procedure and who will want to know what ship movements they saw in the Motmos system. A Colonial Cruiser (pp. 159 - 160 of _High Guard_ ) could be used to impress, or the Type T Patrol Corvette (pp. 174 -
 175 of the Core Rulebook ) if that’s felt to be more in-
-keeping with the borders setting. Yes, they do indeed have the authority to ask and expect a response. Churlishness or over-caution on the part of the PCs will negatively affect their reception at Trexalon; a positive or helpful response will work in their favour.
+keeping with the borders setting. Yes, they do indeed have the authority to ask and expect a response. Churlishness or over-caution on the part of the PCs will negatively affect their reception at Trexalon; a positive or helpful response will work in their favor.
 
 # Act Two
 
@@ -342,9 +342,9 @@ One of the crew can pass the Captain a piece of fruit to help calm her nerves. T
 
 The main starport, however, is not the final destination of the cattle. Trexalon has seven domed cities and the xeeboo are to be delivered to Barkan, the third most populous dome some two hours flying time once immigration has been cleared. The crew should note that the world has a law level of just 1, so caution is advised, but by the same token, they needn’t fear too much interference from the government or law enforcement - such as it is. Given the Law Level of 1, the Referee may prefer to keep things very simple and allow arrival at Barkan directly, bypassing the main starport.
 
-Barkan has a cargo airlock which is just big enough to take the Subsidised Merchant whole and, once cycled, means the cattle can be herded down the cargo ramps and into the city proper. It’s a couple of kilometres to the farm that has purchased the herd and the buyer has arranged suitable barriers along the route - no permit is required but the roads here are not too busy and cargo storage areas give way fairly quickly to open spaces which will be used to pasture the herd. This is something of an experiment for the locals who feel they are all too dependent on off-world imports of food. An Animals (training) task check should be used:
+Barkan has a cargo airlock which is just big enough to take the Subsidized Merchant whole and, once cycled, means the cattle can be herded down the cargo ramps and into the city proper. It’s a couple of kilometers to the farm that has purchased the herd and the buyer has arranged suitable barriers along the route - no permit is required but the roads here are not too busy and cargo storage areas give way fairly quickly to open spaces which will be used to pasture the herd. This is something of an experiment for the locals who feel they are all too dependent on off-world imports of food. An Animals (training) task check should be used:
 
-Herding xeeboo half a kilometre : Average (8+) Animals
+Herding xeeboo half a kilometer : Average (8+) Animals
 (training) check (1D x 10 minutes, STR or EDU). Animals
 (handling) and Animals (veterinary) can be used at one difficulty level harder, i.e. Difficult (10+). Note that four successes will be required to cover the distance. The task can be made easier with additional help even if it is unskilled: add the Effect of up to six assistants blocking side roads, rousing the cattle, etc. Only add negative Effects if a PC rolls a negative Effect twice in a row to represent them getting in the way and being more of a hindrance than a help. Even Bretton may be of limited direct help but he can assist in calming the cattle. Allow an additional positive DM if the same crew member worked with the cattle daily rather than all the crew working in rotation.
 
@@ -370,7 +370,7 @@ This could be a fairly simple task if he’s expected to return to the ship or t
 
 ## Scene 4: Finding Bretton
 
-If the PCs have to locate Bretton in the seedier parts of Barkan, they’ll need to start trawling the city centre and the less salubrious parts of town. He doesn’t have money and will probably only be able to find money begging. Frequenting hostelries and talking with down and outs on the streets is probably the best way of going about this. But if they give any impression of being
+If the PCs have to locate Bretton in the seedier parts of Barkan, they’ll need to start trawling the city center and the less salubrious parts of town. He doesn’t have money and will probably only be able to find money begging. Frequenting hostelries and talking with down and outs on the streets is probably the best way of going about this. But if they give any impression of being
 ‘authorities’ of any kind, the underworld will close ranks around ‘one of their own’ even if he’s only newly arrived on planet. Use the following Streetwise check:
 _Finding Bretton in the city_ : Difficult (10+) Streetwise check (1D days, EDU or INT). Social Standing may be applied negatively due to the nature of the search – i.e. a negative characteristic modifier may be applied positively. Thus a character with Social Standing of 3 could _add_ a DM of +1 rather than subtract it.
 
@@ -700,7 +700,7 @@ check, Education, Routine (+ 2 ), 1D x 10 minutes _Serving an evening meal_ : St
 (+ 0 ), 1D x 10 minutes
 
 p.19 _Acting naturally knowing there are stowaways aboard_ :
-Carousing OR Jack-of-All-Trades check, Intelligence OR Social Standing, Easy (+ 4 ), 1D minutes _Herding xeeboo half a kilometre_ : Animals (farming) check, Strength OR Education, Average (+ 0 ), 1D x 10 minutes Animals (riding) or Animals (survival) or Animals (veterinary)
+Carousing OR Jack-of-All-Trades check, Intelligence OR Social Standing, Easy (+ 4 ), 1D minutes _Herding xeeboo half a kilometer_ : Animals (farming) check, Strength OR Education, Average (+ 0 ), 1D x 10 minutes Animals (riding) or Animals (survival) or Animals (veterinary)
 can be used at one difficulty level harder.
 
 p.21 Finding Bretton in the city : Streetwise check, Education or Intelligence, Difficult (-2), 1D days

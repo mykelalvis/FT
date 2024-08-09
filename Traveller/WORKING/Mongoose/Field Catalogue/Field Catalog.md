@@ -735,7 +735,7 @@ about its business as normal.
 
 Battlefield range conditions extend to the point where
 direct-fire weapons are highly unlikely to be effective.
-This is typically 3–5 kilometres, but can vary according
+This is typically 3–5 kilometers, but can vary according
 to the local situation. Essentially, if an enemy force
 is close enough to be engaged by the main armament
 of a tank operating at ground or low level, battlefield
@@ -756,7 +756,7 @@ specific threats.
 Standoff range conditions exist beyond the immediate
 battlefield and extend out to the maximum effective
 range of locally available weapons. On a TL4 battlefield
-this might be just a few kilometres beyond the
+this might be just a few kilometers beyond the
 immediate combat area and few commonly available
 standoff weapons are useful beyond 50–100km. A
 force at Standoff range is not in danger from direct-
@@ -782,7 +782,7 @@ and orbital laser fire. It is beyond the scope of most
 Traveller-owned mercenary units, although they may
 become involved – perhaps leading a commando
 mission to take out a missile launch site or defending a
-communications centre against infiltrators.
+communications center against infiltrators.
 
 VACUUM AND
 LOW-GRAVITY
@@ -803,9 +803,9 @@ Low gravity increases the distance projectiles will
 travel but not the ability of personnel to aim. Bullets
 do not ‘drop’ as a shooter experienced in higher
 gravity would expect. There is no effect out to 100
-metres, after which DM-2 applies to shots made out
-to 1,000 metres. DM-4 applies to shots made out to
-10 kilometres and DM-6 to shots beyond this. This
+meters, after which DM-2 applies to shots made out
+to 1,000 meters. DM-4 applies to shots made out to
+10 kilometers and DM-6 to shots beyond this. This
 DM is reduced by one for every level of the Vacc Suit
 skill the shooter has, reflecting an ability to predict
 the effects of low or zero gravity and does not apply to
@@ -824,7 +824,7 @@ low gravity. Thus it is possible to engage targets across
 very great distances, although the time taken for a
 projectile to get there and the difference in conditions
 from that the shooter may be used to, makes hitting a
-person with a rifle from 5 kilometres rather difficult no
+person with a rifle from 5 kilometers rather difficult no
 matter how good the sighting system.
 
 Indirect Fire
@@ -853,14 +853,14 @@ be directly observed, DM-2 applies to the attempt
 to hit. In addition, all indirect attacks – even if the
 target is visible to sensors or a handoff targeting point
 is available – are imprecise. The attack will land 1D
-metres from the target point, plus 1D for every full
-100 metres the weapon must travel. Each point of
-negative Effect adds one metre to the distance; each
-point of positive Effect reduces it by one metre.
+meters from the target point, plus 1D for every full
+100 meters the weapon must travel. Each point of
+negative Effect adds one meter to the distance; each
+point of positive Effect reduces it by one meter.
 
 Indirect fire is for the most part useful only with
 area-effect weapons such as grenades. However, if
-the attack roll is good enough to indicate zero metres
+the attack roll is good enough to indicate zero meters
 then the target has received a direct hit. Area-effect
 weapons will do their normal damage and impact
 damage may be added at the Referee’s discretion.
@@ -890,7 +890,7 @@ indirect fire rule.
 
 When an area effect weapon is used for indirect fire, it
 imposes an Area Fire attack (see page 14) on everyone
-within its Burst value in metres.
+within its Burst value in meters.
 
 Firing Over Open Sights
 Some artillery weapons can engage targets
@@ -981,9 +981,9 @@ of some truly enormous weapons there may be other
 effects. These are discussed in the Specialists book. If
 it is necessary to determine how far away the weapon
 landed, deviation can be taken as 2D% of the range it
-was fired from. This is a minimum of 100 metres for
-weapons fired at 5 kilometres and possibly as much as
-6 kilometres for a weapon 50 kilometres away. Direction
+was fired from. This is a minimum of 100 meters for
+weapons fired at 5 kilometers and possibly as much as
+6 kilometers for a weapon 50 kilometers away. Direction
 must be determined randomly.
 
 A ‘hit’ on the Heavy Weapons check does not mean a
@@ -2487,7 +2487,7 @@ with a power source. It does not eliminate noise and
 flash, and the power source gives the weapon the
 Emissions Signature trait. This is normally (minimal)
 as the spark is brief and contained within a metal
-weapon. Electrically initiated weapons are favoured by
+weapon. Electrically initiated weapons are favored by
 some users as they have less moving parts – this can
 be important in a very dirty environment – and can
 achieve a higher rate of fire than weapons which rely on
@@ -2971,7 +2971,7 @@ used in combat. If it does malfunction, it imposes DM-4
 (-3 from Hazardous and -1 from Ramshackle) on the
 Malfunction table.
 
-Quickdraw: A weapon can be optimised for rapid-response
+Quickdraw: A weapon can be optimized for rapid-response
 situations, often to the exact specification of the user. A
 Quickdraw weapon increases cost by 20% and grants an
 additional Quickdraw +2 when being brought into ac-
@@ -5138,7 +5138,7 @@ low-powered propulsion used in cartridge grenades to
 keep recoil manageable makes a weapon with a handgun
 length barrel or shorter pointless. The grenade would
 not reach sufficient velocity to travel farther than a few
-metres before falling to the ground. It may or may not
+meters before falling to the ground. It may or may not
 arm in that distance.
 
 The effectiveness and effects of any kind of launcher
@@ -5759,7 +5759,7 @@ to its weight.
 
 The choice of weaponry used by a mercenary formation
 is often dictated by what is available. Where there is a
-choice, general-purpose systems are usually favoured
+choice, general-purpose systems are usually favored
 over highly specialized ones. Availability of ammunition
 and ease of maintenance are both important factors as
 well. Mercenary units would, on the whole, prefer to be
@@ -5852,7 +5852,7 @@ The term ‘blade’ is used in generic fashion by mercenaries for large surviva
 Bowie type, machetes and similar heavy-bladed cutting implements, and a range of tool/fighting
 weapons produced at spacefaring Tech Levels. Military field blades generally feature a stirrup
 handguard and minimal crosspiece, but the whole array of hangars and not-quite swords falls
-under this distinction. Blades are favoured by mercenaries for their use as tools and ease of carry.
+under this distinction. Blades are favored by mercenaries for their use as tools and ease of carry.
 A blade can be used by a skilled fighter to counter a sword or similar hand weapon, albeit at a
 slight disadvantage, and is much easier to carry.
 
@@ -5876,7 +5876,7 @@ Sabres are carried by some officers as a dress sword
 which might be pressed into service in an emergency.
 They can also be encountered in the hands of low to
 mid-tech cavalry. Designs and weights vary, with most
-having a curved blade optimised for cutting attacks.
+having a curved blade optimized for cutting attacks.
 Straight-bladed weapons of a similar design might
 be referred to as sabres or by other titles such as
 backswords or broadswords. Hand protection varies
@@ -6199,7 +6199,7 @@ Weapons intended for security work generally combine effectiveness at short rang
 intimidation. The large bore of a combat shotgun is generally more likely to dissuade a potential opponent than a
 rifle, even though the latter is probable more lethal. Security and self-defence weapons are generally used at close
 range, where a one-shot knockdown is more important than potential lethality. Ease of carry is also a factor with
-personal defence weaponry. Handguns and mini-submachineguns are favoured by many users, but there are other
+personal defence weaponry. Handguns and mini-submachineguns are favored by many users, but there are other
 options on the market.
 
 One of several unusual handguns marketed by Ailene
@@ -6214,7 +6214,7 @@ or a number of specialist payloads. As a large-calibre
 smoothbore in a handgun frame it kicks hard and is
 inaccurate at any sort of distance, but its chunky and
 generally down-to-business air of authority adds weight
-to any argument. Adjudicators are favoured by some
+to any argument. Adjudicators are favored by some
 personnel who venture into the wilderness, as they can
 be loaded with flechettes for use as snakeshot or with
 signalling rounds.
@@ -6415,7 +6415,7 @@ carbine. The stock has an internal compartment housing
 a holographic sighting device, the sensor for which
 is located under the pistol’s barrel. How many users
 would seriously consider this a combat weapon is open
-to debate, but it has found favour in the competitive
+to debate, but it has found favor in the competitive
 shooting community.
 
 Weapon: GS-40 (Army Model)
@@ -7066,7 +7066,7 @@ MULTI-BARREL WEAPON SYSTEM
 The Eliminator was designed for people who know they
 should have both hands on the wheel... but really do
 not care. It is in some ways a standard small-calibre
-submachinegun, but optimised for combat at extreme
+submachinegun, but optimized for combat at extreme
 close quarters. The weapon is officially aimed at those
 who may have to use a shield or carry out tasks with the
 other hand. Official marketing vids show cautious entry
@@ -7455,7 +7455,7 @@ heavier barrel and normally fed from extended
 device compatible with the AIWS family of
 weapons. Drum magazines are sometimes
 used, but this makes the weapon clumsy and
-is favoured only when the support weapon is
+is favored only when the support weapon is
 mounted on a pintle or similar mounting.
 •  (D)Assault Variant: Some users choose to
 configure the weapon with an assault barrel,
@@ -7642,11 +7642,11 @@ noteworthy features. It uses commonly available
 7.5mm battle rifle ammunition and shares magazine
 compatibility with a great many weapons. In
 comparison with the intermediate calibre assault
-rifles favoured by many militaries, the Squadmate hits
+rifles favored by many militaries, the Squadmate hits
 harder and is accurate to a greater range, but heavier
 and carries less ammunition. As a semi-automatic
 weapon it cannot lay down suppressing fire in the
-manner of an assault rifle, but those who favour it
+manner of an assault rifle, but those who favor it
 claim this is offset by the ability to shoot precisely
 rather than hosepiping the countryside.
 
@@ -7702,7 +7702,7 @@ SQUADMATE BATTLE RIFLE
 LOW-G WEAPONS
 Specialist weapons intended for low-gravity work are commonly built around the ‘snub pistol’ round and designed
 to minimise the positional disruption caused by firing them. Barrels are often set low compared to conventional
-firearms, directing recoil into the user’s centre of mass rather than causing muzzle flip and rotation of an unsecured
+firearms, directing recoil into the user’s center of mass rather than causing muzzle flip and rotation of an unsecured
 user. The relative power of snub weapons makes them attractive in some other applications as well; snub revolvers
 are used as emergency weapons in some groundside installations.
 
@@ -8036,7 +8036,7 @@ vessels and space installations. In standard gravity this
 weapon would be heavy and unwieldy, but whilst it still
 has considerable inertia a skilled user learns to make use
 of the stately swing of the barrel in much the same way
-a sporting shotgunner might favour a heavier gun for its
+a sporting shotgunner might favor a heavier gun for its
 steadiness on the traverse.
 
 One advantage of accelerator weapons is the lack of barrel
@@ -8197,7 +8197,7 @@ starships – easier but also lend themselves to using
 the weapon like a heavy assault rifle. Nominal
 magazine capacity is 37 rounds, but magazines of this
 size are rare. Instead, a 50-round extended magazine
-is favoured by almost all users. This, combined
+is favored by almost all users. This, combined
 with an increased rate of fire, makes the Reliant an
 unexpectedly good close-assault weapon. It is still a
 light machinegun, however, and cannot react to threats
@@ -8475,7 +8475,7 @@ operating in a low-g environment.
 
 Marketed by Personal Security Solutions, the BL-3 is
 not intended for combat. It is a semi-covert weapon
-for self-defence, favoured by corporate executives who
+for self-defence, favored by corporate executives who
 like to pretend they are important enough to be in
 danger. Those that enter the mercenary marketplace are
 typically bought by personnel who must interact with
@@ -8545,7 +8545,7 @@ fact it was not adopted for service. The basic concept
 was to create a battlefield laser weapon which could
 be configured as a carbine, full-sized rifle or specialist
 weapon. The resulting design required compromises
-but has found favour with a number of low-g-trained
+but has found favor with a number of low-g-trained
 forces. It also serves as a personal weapon for some
 forward observers, functioning as a designator as well
 as combat carbine.
@@ -9288,7 +9288,7 @@ Operators may need to pass as ordinary civilians, or to
 wear formal uniform but be ready for action. A discreet
 operations uniform is tailored from light ballistic cloth
 and has pockets suitable for concealing a handgun
-and some small items of equipment. It is favoured by
+and some small items of equipment. It is favored by
 officers who have to do a lot of liaison work and cannot
 be seen to be armed or mistrustful of their clients, but
 also sees considerable use by covert-operations forces.
@@ -9578,7 +9578,7 @@ control Smart-RAM grenades in flight, display sensor
 data from a drone, monitor remote sensors, detonate
 a charge on command, or all of those. An MED has
 a modest amount of processing power and can run
-guidance programmes, but typically acts as an interface
+guidance programs, but typically acts as an interface
 rather than handling complex tasks itself.
 
 Item TL Kg Cost
@@ -9611,7 +9611,7 @@ level of the Tactics skill that can be applied using it,
 though a commander who can communicate directly is
 not so limited. Thus the leader of a squad can always
 use their full Tactics ability, but a commander two
-kilometres away can only assist to the level permitted
+kilometers away can only assist to the level permitted
 by the network.
 
 From TL8, visual information is shared in real time,
@@ -9698,7 +9698,7 @@ Ballistic Location Sensor 8 2.5 Cr1500
 Return Fire Unit 9 3 Cr5000
 
 A battlefield coordination unit is a backpack-sized
-communications and administration centre. Its
+communications and administration center. Its
 holographic display can project maps and images as
 well as sensor input, and the unit can undertake limited
 analysis to suggest likely meanings of data. For example,
@@ -10419,7 +10419,7 @@ concepts that have been in use for centuries, updated either for ease of deploym
 Fackles – a term derived from ‘field obstacles’ – are
 tubes approximately 1m long and weighing 10kg each.
 When deployed, three sets of spikes are unfolded from
-the centre and points 1/3 and 2/3 along the tube. This
+the center and points 1/3 and 2/3 along the tube. This
 can be done manually but in an emergency a fackle
 can be flung down, causing its spring-loaded spikes to
 unfold violently. This does cause the device to jump
@@ -10959,7 +10959,7 @@ fired at once with the same or different payloads.
 The single-barrelled version of this weapon is soldier-
 portable once broken down into frame, tube and
 baseplate, but the triple-barrelled version is too heavy
-and bulky to be moved more than a few metres in this
+and bulky to be moved more than a few meters in this
 manner. Both versions can be remotely traversed and
 elevated, though it is traditional to train for manual
 operation of such weapons.
@@ -12201,7 +12201,7 @@ SIDES 22
 UNDER —
 
 Named after a venomous scuttling creature, the Marrix is one of the few tracked combat vehicles in widespread
-service with interstellar mercenary formations. Most forces favour wheeled or grav vehicles, or a combination
+service with interstellar mercenary formations. Most forces favor wheeled or grav vehicles, or a combination
 of them, since they have better strategic mobility. Heavy tracklayers are well protected but can be vulnerable
 to powerful weapons they are unable to evade, but there is a solid market for light tracked combat and support
 vehicles in certain roles.
@@ -12999,7 +12999,7 @@ Mobile Support Variant (‘Scholar’): The mobile support variant
 attempts to pack a unit headquarters into a single vehicle.
 It incorporates the protection of the Sermon variant and
 in addition carries a TL10 fusion plant and a field nuclear
-damper. A small command centre, capable of supporting six
+damper. A small command center, capable of supporting six
 personnel, is housed within a second citadel connected to
 the driving chamber by a short tunnel. No weapons are fitted
 as standard but there are 9 spaces available for weapons,
@@ -13016,7 +13016,7 @@ heavily up-armored, raising protection to 30 all round and
 the rest of the vehicle is open-topped. The rear compartment
 is crossed by two large beams, from which a pair of outriggers
 are slung along the sides of the vehicle. These have open
-weapon stations at the front, rear and centre, with a gunner
+weapon stations at the front, rear and center, with a gunner
 seated directly at the weapon they control.
 
 Armament can vary but ‘showroom standard’ is a Blackjack
@@ -13039,7 +13039,7 @@ autocannon, remotely controlled from the cab.
 
 The conversion process requires some sub-optimal
 arrangement of components, with the result that only 10
-Spaces (2.5 tons) remain in the centre of the open rear
+Spaces (2.5 tons) remain in the center of the open rear
 section. Some users carry additional ammunition, whilst
 others find a way to cram more weaponry into this space.
 Cost without weapons is Cr650000. With the weapons fit
@@ -13733,7 +13733,7 @@ transport segments’ arranged in parallel. The outer two
 each contain 60 low berths each plus a small ready
 area, cargo stowage and a medical bay. The central
 one is has 40 low berths and a double-sized medical
-bay that serves as a trauma centre when the vessel is
+bay that serves as a trauma center when the vessel is
 supporting groundside operations. Forward of this are
 training areas, a barracks capable of transporting a
 platoon-sized unit and an extensive armory/workshop
@@ -14408,7 +14408,7 @@ about its business as normal.
 
 Battlefield range conditions extend to the point where
 direct-fire weapons are highly unlikely to be effective.
-This is typically 3–5 kilometres, but can vary according
+This is typically 3–5 kilometers, but can vary according
 to the local situation. Essentially, if an enemy force
 is close enough to be engaged by the main armament
 of a tank operating at ground or low level, battlefield
@@ -14429,7 +14429,7 @@ specific threats.
 Standoff range conditions exist beyond the immediate
 battlefield and extend out to the maximum effective
 range of locally available weapons. On a TL4 battlefield
-this might be just a few kilometres beyond the
+this might be just a few kilometers beyond the
 immediate combat area and few commonly available
 standoff weapons are useful beyond 50–100km. A
 force at Standoff range is not in danger from direct-
@@ -14455,7 +14455,7 @@ and orbital laser fire. It is beyond the scope of most
 Traveller-owned mercenary units, although they may
 become involved – perhaps leading a commando
 mission to take out a missile launch site or defending a
-communications centre against infiltrators.
+communications center against infiltrators.
 
 VACUUM AND
 LOW-GRAVITY
@@ -14476,9 +14476,9 @@ Low gravity increases the distance projectiles will
 travel but not the ability of personnel to aim. Bullets
 do not ‘drop’ as a shooter experienced in higher
 gravity would expect. There is no effect out to 100
-metres, after which DM-2 applies to shots made out
-to 1,000 metres. DM-4 applies to shots made out to
-10 kilometres and DM-6 to shots beyond this. This
+meters, after which DM-2 applies to shots made out
+to 1,000 meters. DM-4 applies to shots made out to
+10 kilometers and DM-6 to shots beyond this. This
 DM is reduced by one for every level of the Vacc Suit
 skill the shooter has, reflecting an ability to predict
 the effects of low or zero gravity and does not apply to
@@ -14497,7 +14497,7 @@ low gravity. Thus it is possible to engage targets across
 very great distances, although the time taken for a
 projectile to get there and the difference in conditions
 from that the shooter may be used to, makes hitting a
-person with a rifle from 5 kilometres rather difficult no
+person with a rifle from 5 kilometers rather difficult no
 matter how good the sighting system.
 
 Indirect Fire
@@ -14526,14 +14526,14 @@ be directly observed, DM-2 applies to the attempt
 to hit. In addition, all indirect attacks – even if the
 target is visible to sensors or a handoff targeting point
 is available – are imprecise. The attack will land 1D
-metres from the target point, plus 1D for every full
-100 metres the weapon must travel. Each point of
-negative Effect adds one metre to the distance; each
-point of positive Effect reduces it by one metre.
+meters from the target point, plus 1D for every full
+100 meters the weapon must travel. Each point of
+negative Effect adds one meter to the distance; each
+point of positive Effect reduces it by one meter.
 
 Indirect fire is for the most part useful only with
 area-effect weapons such as grenades. However, if
-the attack roll is good enough to indicate zero metres
+the attack roll is good enough to indicate zero meters
 then the target has received a direct hit. Area-effect
 weapons will do their normal damage and impact
 damage may be added at the Referee’s discretion.
@@ -14563,7 +14563,7 @@ indirect fire rule.
 
 When an area effect weapon is used for indirect fire, it
 imposes an Area Fire attack (see page 14) on everyone
-within its Burst value in metres.
+within its Burst value in meters.
 
 Firing Over Open Sights
 Some artillery weapons can engage targets
@@ -14654,9 +14654,9 @@ of some truly enormous weapons there may be other
 effects. These are discussed in the Specialists book. If
 it is necessary to determine how far away the weapon
 landed, deviation can be taken as 2D% of the range it
-was fired from. This is a minimum of 100 metres for
-weapons fired at 5 kilometres and possibly as much as
-6 kilometres for a weapon 50 kilometres away. Direction
+was fired from. This is a minimum of 100 meters for
+weapons fired at 5 kilometers and possibly as much as
+6 kilometers for a weapon 50 kilometers away. Direction
 must be determined randomly.
 
 A ‘hit’ on the Heavy Weapons check does not mean a
@@ -16160,7 +16160,7 @@ with a power source. It does not eliminate noise and
 flash, and the power source gives the weapon the
 Emissions Signature trait. This is normally (minimal)
 as the spark is brief and contained within a metal
-weapon. Electrically initiated weapons are favoured by
+weapon. Electrically initiated weapons are favored by
 some users as they have less moving parts – this can
 be important in a very dirty environment – and can
 achieve a higher rate of fire than weapons which rely on
@@ -16644,7 +16644,7 @@ used in combat. If it does malfunction, it imposes DM-4
 (-3 from Hazardous and -1 from Ramshackle) on the
 Malfunction table.
 
-Quickdraw: A weapon can be optimised for rapid-response
+Quickdraw: A weapon can be optimized for rapid-response
 situations, often to the exact specification of the user. A
 Quickdraw weapon increases cost by 20% and grants an
 additional Quickdraw +2 when being brought into ac-
@@ -18811,7 +18811,7 @@ low-powered propulsion used in cartridge grenades to
 keep recoil manageable makes a weapon with a handgun
 length barrel or shorter pointless. The grenade would
 not reach sufficient velocity to travel farther than a few
-metres before falling to the ground. It may or may not
+meters before falling to the ground. It may or may not
 arm in that distance.
 
 The effectiveness and effects of any kind of launcher
@@ -19432,7 +19432,7 @@ to its weight.
 
 The choice of weaponry used by a mercenary formation
 is often dictated by what is available. Where there is a
-choice, general-purpose systems are usually favoured
+choice, general-purpose systems are usually favored
 over highly specialized ones. Availability of ammunition
 and ease of maintenance are both important factors as
 well. Mercenary units would, on the whole, prefer to be
@@ -19525,7 +19525,7 @@ The term ‘blade’ is used in generic fashion by mercenaries for large surviva
 Bowie type, machetes and similar heavy-bladed cutting implements, and a range of tool/fighting
 weapons produced at spacefaring Tech Levels. Military field blades generally feature a stirrup
 handguard and minimal crosspiece, but the whole array of hangars and not-quite swords falls
-under this distinction. Blades are favoured by mercenaries for their use as tools and ease of carry.
+under this distinction. Blades are favored by mercenaries for their use as tools and ease of carry.
 A blade can be used by a skilled fighter to counter a sword or similar hand weapon, albeit at a
 slight disadvantage, and is much easier to carry.
 
@@ -19549,7 +19549,7 @@ Sabres are carried by some officers as a dress sword
 which might be pressed into service in an emergency.
 They can also be encountered in the hands of low to
 mid-tech cavalry. Designs and weights vary, with most
-having a curved blade optimised for cutting attacks.
+having a curved blade optimized for cutting attacks.
 Straight-bladed weapons of a similar design might
 be referred to as sabres or by other titles such as
 backswords or broadswords. Hand protection varies
@@ -19872,7 +19872,7 @@ Weapons intended for security work generally combine effectiveness at short rang
 intimidation. The large bore of a combat shotgun is generally more likely to dissuade a potential opponent than a
 rifle, even though the latter is probable more lethal. Security and self-defence weapons are generally used at close
 range, where a one-shot knockdown is more important than potential lethality. Ease of carry is also a factor with
-personal defence weaponry. Handguns and mini-submachineguns are favoured by many users, but there are other
+personal defence weaponry. Handguns and mini-submachineguns are favored by many users, but there are other
 options on the market.
 
 One of several unusual handguns marketed by Ailene
@@ -19887,7 +19887,7 @@ or a number of specialist payloads. As a large-calibre
 smoothbore in a handgun frame it kicks hard and is
 inaccurate at any sort of distance, but its chunky and
 generally down-to-business air of authority adds weight
-to any argument. Adjudicators are favoured by some
+to any argument. Adjudicators are favored by some
 personnel who venture into the wilderness, as they can
 be loaded with flechettes for use as snakeshot or with
 signalling rounds.
@@ -20088,7 +20088,7 @@ carbine. The stock has an internal compartment housing
 a holographic sighting device, the sensor for which
 is located under the pistol’s barrel. How many users
 would seriously consider this a combat weapon is open
-to debate, but it has found favour in the competitive
+to debate, but it has found favor in the competitive
 shooting community.
 
 Weapon: GS-40 (Army Model)
@@ -20739,7 +20739,7 @@ MULTI-BARREL WEAPON SYSTEM
 The Eliminator was designed for people who know they
 should have both hands on the wheel... but really do
 not care. It is in some ways a standard small-calibre
-submachinegun, but optimised for combat at extreme
+submachinegun, but optimized for combat at extreme
 close quarters. The weapon is officially aimed at those
 who may have to use a shield or carry out tasks with the
 other hand. Official marketing vids show cautious entry
@@ -21128,7 +21128,7 @@ heavier barrel and normally fed from extended
 device compatible with the AIWS family of
 weapons. Drum magazines are sometimes
 used, but this makes the weapon clumsy and
-is favoured only when the support weapon is
+is favored only when the support weapon is
 mounted on a pintle or similar mounting.
 •  (D)Assault Variant: Some users choose to
 configure the weapon with an assault barrel,
@@ -21315,11 +21315,11 @@ noteworthy features. It uses commonly available
 7.5mm battle rifle ammunition and shares magazine
 compatibility with a great many weapons. In
 comparison with the intermediate calibre assault
-rifles favoured by many militaries, the Squadmate hits
+rifles favored by many militaries, the Squadmate hits
 harder and is accurate to a greater range, but heavier
 and carries less ammunition. As a semi-automatic
 weapon it cannot lay down suppressing fire in the
-manner of an assault rifle, but those who favour it
+manner of an assault rifle, but those who favor it
 claim this is offset by the ability to shoot precisely
 rather than hosepiping the countryside.
 
@@ -21375,7 +21375,7 @@ SQUADMATE BATTLE RIFLE
 LOW-G WEAPONS
 Specialist weapons intended for low-gravity work are commonly built around the ‘snub pistol’ round and designed
 to minimise the positional disruption caused by firing them. Barrels are often set low compared to conventional
-firearms, directing recoil into the user’s centre of mass rather than causing muzzle flip and rotation of an unsecured
+firearms, directing recoil into the user’s center of mass rather than causing muzzle flip and rotation of an unsecured
 user. The relative power of snub weapons makes them attractive in some other applications as well; snub revolvers
 are used as emergency weapons in some groundside installations.
 
@@ -21709,7 +21709,7 @@ vessels and space installations. In standard gravity this
 weapon would be heavy and unwieldy, but whilst it still
 has considerable inertia a skilled user learns to make use
 of the stately swing of the barrel in much the same way
-a sporting shotgunner might favour a heavier gun for its
+a sporting shotgunner might favor a heavier gun for its
 steadiness on the traverse.
 
 One advantage of accelerator weapons is the lack of barrel
@@ -21870,7 +21870,7 @@ starships – easier but also lend themselves to using
 the weapon like a heavy assault rifle. Nominal
 magazine capacity is 37 rounds, but magazines of this
 size are rare. Instead, a 50-round extended magazine
-is favoured by almost all users. This, combined
+is favored by almost all users. This, combined
 with an increased rate of fire, makes the Reliant an
 unexpectedly good close-assault weapon. It is still a
 light machinegun, however, and cannot react to threats
@@ -22148,7 +22148,7 @@ operating in a low-g environment.
 
 Marketed by Personal Security Solutions, the BL-3 is
 not intended for combat. It is a semi-covert weapon
-for self-defence, favoured by corporate executives who
+for self-defence, favored by corporate executives who
 like to pretend they are important enough to be in
 danger. Those that enter the mercenary marketplace are
 typically bought by personnel who must interact with
@@ -22218,7 +22218,7 @@ fact it was not adopted for service. The basic concept
 was to create a battlefield laser weapon which could
 be configured as a carbine, full-sized rifle or specialist
 weapon. The resulting design required compromises
-but has found favour with a number of low-g-trained
+but has found favor with a number of low-g-trained
 forces. It also serves as a personal weapon for some
 forward observers, functioning as a designator as well
 as combat carbine.
@@ -22961,7 +22961,7 @@ Operators may need to pass as ordinary civilians, or to
 wear formal uniform but be ready for action. A discreet
 operations uniform is tailored from light ballistic cloth
 and has pockets suitable for concealing a handgun
-and some small items of equipment. It is favoured by
+and some small items of equipment. It is favored by
 officers who have to do a lot of liaison work and cannot
 be seen to be armed or mistrustful of their clients, but
 also sees considerable use by covert-operations forces.
@@ -23251,7 +23251,7 @@ control Smart-RAM grenades in flight, display sensor
 data from a drone, monitor remote sensors, detonate
 a charge on command, or all of those. An MED has
 a modest amount of processing power and can run
-guidance programmes, but typically acts as an interface
+guidance programs, but typically acts as an interface
 rather than handling complex tasks itself.
 
 Item TL Kg Cost
@@ -23284,7 +23284,7 @@ level of the Tactics skill that can be applied using it,
 though a commander who can communicate directly is
 not so limited. Thus the leader of a squad can always
 use their full Tactics ability, but a commander two
-kilometres away can only assist to the level permitted
+kilometers away can only assist to the level permitted
 by the network.
 
 From TL8, visual information is shared in real time,
@@ -23371,7 +23371,7 @@ Ballistic Location Sensor 8 2.5 Cr1500
 Return Fire Unit 9 3 Cr5000
 
 A battlefield coordination unit is a backpack-sized
-communications and administration centre. Its
+communications and administration center. Its
 holographic display can project maps and images as
 well as sensor input, and the unit can undertake limited
 analysis to suggest likely meanings of data. For example,
@@ -24092,7 +24092,7 @@ concepts that have been in use for centuries, updated either for ease of deploym
 Fackles – a term derived from ‘field obstacles’ – are
 tubes approximately 1m long and weighing 10kg each.
 When deployed, three sets of spikes are unfolded from
-the centre and points 1/3 and 2/3 along the tube. This
+the center and points 1/3 and 2/3 along the tube. This
 can be done manually but in an emergency a fackle
 can be flung down, causing its spring-loaded spikes to
 unfold violently. This does cause the device to jump
@@ -24632,7 +24632,7 @@ fired at once with the same or different payloads.
 The single-barrelled version of this weapon is soldier-
 portable once broken down into frame, tube and
 baseplate, but the triple-barrelled version is too heavy
-and bulky to be moved more than a few metres in this
+and bulky to be moved more than a few meters in this
 manner. Both versions can be remotely traversed and
 elevated, though it is traditional to train for manual
 operation of such weapons.
@@ -25874,7 +25874,7 @@ SIDES 22
 UNDER —
 
 Named after a venomous scuttling creature, the Marrix is one of the few tracked combat vehicles in widespread
-service with interstellar mercenary formations. Most forces favour wheeled or grav vehicles, or a combination
+service with interstellar mercenary formations. Most forces favor wheeled or grav vehicles, or a combination
 of them, since they have better strategic mobility. Heavy tracklayers are well protected but can be vulnerable
 to powerful weapons they are unable to evade, but there is a solid market for light tracked combat and support
 vehicles in certain roles.
@@ -26672,7 +26672,7 @@ Mobile Support Variant (‘Scholar’): The mobile support variant
 attempts to pack a unit headquarters into a single vehicle.
 It incorporates the protection of the Sermon variant and
 in addition carries a TL10 fusion plant and a field nuclear
-damper. A small command centre, capable of supporting six
+damper. A small command center, capable of supporting six
 personnel, is housed within a second citadel connected to
 the driving chamber by a short tunnel. No weapons are fitted
 as standard but there are 9 spaces available for weapons,
@@ -26689,7 +26689,7 @@ heavily up-armored, raising protection to 30 all round and
 the rest of the vehicle is open-topped. The rear compartment
 is crossed by two large beams, from which a pair of outriggers
 are slung along the sides of the vehicle. These have open
-weapon stations at the front, rear and centre, with a gunner
+weapon stations at the front, rear and center, with a gunner
 seated directly at the weapon they control.
 
 Armament can vary but ‘showroom standard’ is a Blackjack
@@ -26712,7 +26712,7 @@ autocannon, remotely controlled from the cab.
 
 The conversion process requires some sub-optimal
 arrangement of components, with the result that only 10
-Spaces (2.5 tons) remain in the centre of the open rear
+Spaces (2.5 tons) remain in the center of the open rear
 section. Some users carry additional ammunition, whilst
 others find a way to cram more weaponry into this space.
 Cost without weapons is Cr650000. With the weapons fit
@@ -27406,7 +27406,7 @@ transport segments’ arranged in parallel. The outer two
 each contain 60 low berths each plus a small ready
 area, cargo stowage and a medical bay. The central
 one is has 40 low berths and a double-sized medical
-bay that serves as a trauma centre when the vessel is
+bay that serves as a trauma center when the vessel is
 supporting groundside operations. Forward of this are
 training areas, a barracks capable of transporting a
 platoon-sized unit and an extensive armory/workshop

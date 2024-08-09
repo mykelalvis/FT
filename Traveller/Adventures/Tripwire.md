@@ -360,7 +360,7 @@ Evidence against Gakha (discovered by MagnetoDynamics security):
 - Gakha has been spending a lot of time with Amy and Ruskad.
 - Gakha’s security clearance was used to gain access to the files.
 
-Evidence in favour of Gakha:
+Evidence in favor of Gakha:
 
 - Gakha is the supervisor for Amy and Ruskad so it stands to reason that they would have spent time together.
 - Gakha’s security clearance is required for her job and there is no way to prove who actually copied the files.
@@ -599,7 +599,7 @@ Assuming the players have been accepted into the criminal fraternity, the initia
 
 Once the party has established themselves, they can ask about involvement with the separatist groups. The subject will have to be approached in the right way to avoid drawing suspicion. Simply asking if anyone deals with the [[Liberation Front]] will make the people here think that the party are Imperial agents.
 
-However, asking about joining or helping rebel groups will be viewed more favourably as most criminals agree with dissident principles, even if they do not support them directly. Many smugglers will say that they do business with these groups as they tend to buy in bulk, making it quite profitable. No real information can be gained since most smugglers simply make the trade and avoid getting involved in political situations.
+However, asking about joining or helping rebel groups will be viewed more favorably as most criminals agree with dissident principles, even if they do not support them directly. Many smugglers will say that they do business with these groups as they tend to buy in bulk, making it quite profitable. No real information can be gained since most smugglers simply make the trade and avoid getting involved in political situations.
 
 After a few late nights of drinking and gambling, a Vilani smuggler by the name of Meshaka will arrive. If the players share a few drinks with him, he will reveal that he often sells to the [[Liberation Front]]. He seems to know more but will not give any further details. The players could offer him some money for the information but his price will be high.
 
@@ -719,7 +719,7 @@ In the evening, the players will notice a woman having discreet conversations wi
 
 The players must now decide how to go about questioning Miranda. Given their circumstances, they could try talking to her as people wanting to join the revolution. She will of course be suspicious so Deception or Persuade checks will be necessary to convince her. Even if the players are successful, the information that they get will be limited and you can choose what to reveal at your discretion.
 
-Alternatively the party can attempt to ambush and interrogate Miranda. She will be outnumbered and will favour flight over fight but with some careful planning she should soon be in the players’ custody. Once the party have taken her to a private and secure location they can begin the interrogation and it will not take much coercion to make her talk.
+Alternatively the party can attempt to ambush and interrogate Miranda. She will be outnumbered and will favor flight over fight but with some careful planning she should soon be in the players’ custody. Once the party have taken her to a private and secure location they can begin the interrogation and it will not take much coercion to make her talk.
 
 Miranda will not know anything about the conspiracies that the players are investigating. When asked about the Federation of Arden she will spit, saying that the federation is no better than the Imperium, that the situation here on Utoland is a prime example of their willingness to reduce personal freedom and independence. She will also confirm that she was recruiting potential candidates for a new cell here on Utoland.
 
@@ -836,13 +836,13 @@ Pequan. Anyone caught using a weapon will be imprisoned and murder carries the d
 
 ### PLACES OF INTEREST
 
-Rasa: The capital city was named after its founder, Etienne Rasa. Like all settlements on Pequan, the buildings are modest structures constructed from wood and stone. There are very few shops here as most trade is done at the daily market in the city centre. There are several inns spread around the city, many of which provide accommodation.
+Rasa: The capital city was named after its founder, Etienne Rasa. Like all settlements on Pequan, the buildings are modest structures constructed from wood and stone. There are very few shops here as most trade is done at the daily market in the city center. There are several inns spread around the city, many of which provide accommodation.
 
 Neguda: The small town of Neguda is situated roughly 10 km north of Rasa. It is much like Rasa but only has a population of several thousand. Agent [[Cryer]] has a safe house here that he uses occasionally.
 
 Rendezvous with [[Cryer]] When the players land at the primitive starport on Pequan, local officials will greet them and explain that all weapons and technology must not leave the starport. The players will notice that agent [[Cryer]]’s ship is here so he must be in the safe house he spoke of.
 
-Following agent [[Cryer]]’s directions the party head for Rasa, which is less than a kilometre east of the starport. Since technology is not allowed, the party will have to walk there. Once at Rasa they must head north out of the city and walk for roughly two hours until they arrive at Neguda. [[Cryer]]’s safe house is the outermost building on the east side of the town.
+Following agent [[Cryer]]’s directions the party head for Rasa, which is less than a kilometer east of the starport. Since technology is not allowed, the party will have to walk there. Once at Rasa they must head north out of the city and walk for roughly two hours until they arrive at Neguda. [[Cryer]]’s safe house is the outermost building on the east side of the town.
 
 ### SAFE HOUSE
 
@@ -1069,7 +1069,7 @@ Once the players are comfortable, [[Unkah]] will have a private meeting with Dam
 
 A short time later when the players have finished investigating the city, [[Unkah]] will return and inform the players that she has been given permission to show them the discovery made on Condyole six years ago.
 
-[[Unkah]], accompanied by Damo, will take the players to the excavation site. It is located a few hundred kilometres to the south west and Damo can acquire the use of a few cars (vehicles are not common on Condyole but they do exist) if the players do not have their own means of transportation.
+[[Unkah]], accompanied by Damo, will take the players to the excavation site. It is located a few hundred kilometers to the south west and Damo can acquire the use of a few cars (vehicles are not common on Condyole but they do exist) if the players do not have their own means of transportation.
 
 ### THE SECRET
 
@@ -1087,7 +1087,7 @@ The display is in an unknown language but [[Unkah]] will reveal that it is the l
 
 ### The Tripwire Device
 
-The device is a black tetrahedron (three sided pyramid) standing 90 metres high. When activated with the correct keystone the device emits a low humming sound audible to anyone within 10 meters. Anyone standing this close to the device will get a splitting headache after roughly one hour. After two hours the nose bleeds start and an hour after that anyone still in proximity will suffer a severe brain haemorrhage.
+The device is a black tetrahedron (three sided pyramid) standing 90 meters high. When activated with the correct keystone the device emits a low humming sound audible to anyone within 10 meters. Anyone standing this close to the device will get a splitting headache after roughly one hour. After two hours the nose bleeds start and an hour after that anyone still in proximity will suffer a severe brain haemorrhage.
 
 ### THE TRIPWIRE NETWORK
 
@@ -1264,7 +1264,7 @@ The Tripwire device on Clan was discovered in 1090. Rather than the security ove
 
 The device was discovered on the opposite side of the planet to the starport near a small settlement. To prevent anyone from seeing the excavation of the Tripwire device, a research facility was built on top of the site before the device was unearthed. The keystone for this device was found during the excavation.
 
-The research facility is actually a fully operational biological research centre that specializes in medical research. The research facility has little in the way of security, using standard electronic locks. Scientists work here around the clock and there are always at least three security guards stationed in the building, enough to protect against opportunists but not too much to attract attention.
+The research facility is actually a fully operational biological research center that specializes in medical research. The research facility has little in the way of security, using standard electronic locks. Scientists work here around the clock and there are always at least three security guards stationed in the building, enough to protect against opportunists but not too much to attract attention.
 
 The Tripwire device is hidden in a secure part of the facility that is marked as a hazardous area containing dangerous biological substances. Access to this room is restricted and guarded by an additional security guard.
 
@@ -1330,7 +1330,7 @@ The difficulties with this plan are getting the explosives, ensuring the explosi
 
 ### HACKING THE NETWORK
 
-Hacking the computer network to initiate the emergency breach procedure can only be done from a secure terminal inside one of the security zones. This can be done from one of the engineering buildings inside Zone 1 (such as the power grid control, engineering systems or computer control centre).
+Hacking the computer network to initiate the emergency breach procedure can only be done from a secure terminal inside one of the security zones. This can be done from one of the engineering buildings inside Zone 1 (such as the power grid control, engineering systems or computer control center).
 
 The usual stealth procedures will be needed to gain access to the appropriate building. Once inside a Computers check DM –4 is
 
@@ -2338,7 +2338,7 @@ Age 32 Agent (3) 8 (0) 12 (+2) 8 (0) 9 (+1) 8 (0) 7 (0) Athletics (Co-ordination
 
 ## Random  NPC Table
 
-For a quick use NPC, pick or roll on the career and race tables below. The career table below includes the character statistics which should be modified as appropriate by the race. The character can be serving a term in their career or left it in favour of travelling.
+For a quick use NPC, pick or roll on the career and race tables below. The career table below includes the character statistics which should be modified as appropriate by the race. The character can be serving a term in their career or left it in favor of travelling.
 
 |  D66  | CAREER                                                                                                                                            |
 | :---: | ------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2421,10 +2421,10 @@ For a quick use NPC, pick or roll on the career and race tables below. The caree
 |  1D | SEVERITY                                                                                                              |
 | :-: | --------------------------------------------------------------------------------------------------------------------- |
 |  1  | The device is destroyed with no collateral damage.                                                                    |
-|  2  | The device explodes, destroying everything with 1d6 metres.                                                           |
-| 3–4 | The explosion destroys everything within d66 metres.                                                                  |
-|  5  | The device explodes destroying everything within 1d6 kilometres.                                                      |
-|  6  | The explosion destroys everything within 2d6 kilometres and destabilizes [[Jump Space]] in that system for 1d6 hours. |
+|  2  | The device explodes, destroying everything with 1d6 meters.                                                           |
+| 3–4 | The explosion destroys everything within d66 meters.                                                                  |
+|  5  | The device explodes destroying everything within 1d6 kilometers.                                                      |
+|  6  | The explosion destroys everything within 2d6 kilometers and destabilizes [[Jump Space]] in that system for 1d6 hours. |
 
 ## The Aftermath Table
 

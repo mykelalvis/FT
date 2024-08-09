@@ -363,8 +363,8 @@ that was too bright and hot, she saw the cradle of utopia.
 
 Madjiyb was drawn to the deep scar that ran along Caldos’ equator.
 This massive crag, nearly encircling the planet, was named the Valles
-Caldos. Its average depth was five kilometres but it ran as deep as 10
-kilometres in some places. The Valles’ tributary canyons run north and
+Caldos. Its average depth was five kilometers but it ran as deep as 10
+kilometers in some places. The Valles’ tributary canyons run north and
 south like stitches along the edge of a great gash.
 
 Madjiyb had been a belter by trade, making her fortune mining the
@@ -549,7 +549,7 @@ another two centuries of dim starlight and diminished agricultural output.
 
 The ensuing years have been an epic struggle fraught with setbacks
 and disasters that would bring down the spirits of even the most
-universal optimist. The remnants of Madjiyb’s ambitious projects are
+universal optimizt. The remnants of Madjiyb’s ambitious projects are
 now either lost for eternity or bristle out of the ground like the jagged
 teeth of a bygone civilization.
 
@@ -574,7 +574,7 @@ escarpments, using airships to travel from city-to-city along the length
 and depth of the canyon.
 
 The ‘Equatorials’, as they are called, have rebuilt a modest agricultural
-centre on the fringes of the valles. Moisture collection is a hallowed
+center on the fringes of the valles. Moisture collection is a hallowed
 science among the Equatorials. Gone are the maglev and antigravity
 transports that once efficiently distributed produce to the north; now
 it is transported by electric rail and massive airships. The output is
@@ -598,7 +598,7 @@ glider docks; in place of fusion power plants, there are wind and solar
 farms. Apartments in the revived arcologies are much sought after by
 Caldosians and fetch a premium price. Not surprisingly, the surrounding
 regions have become suburbs, sprawling low-lying settlements that
-extend for 100 or more kilometres from the central spires of the
+extend for 100 or more kilometers from the central spires of the
 arcologies. Pollutant-laden industrial complexes, housing communities
 and massive shanty towns blanket the most undesirable areas.
 
@@ -823,7 +823,7 @@ and tramp traders.
 While the earliest models of EVA suits come with an electronics
 suite equivalent to TL8, more advanced suits come with
 electronics suites appropriate for their TL. All come with a tactical
-video suite (TL7, page 28 Central Supply Catalogue), a 30 metre
+video suite (TL7, page 28 Central Supply Catalogue), a 30 meter
 tethering cable including either a magnetic grapple at the end
 or a carbine hook, as well as an electronic tool set. From TL
 onwards suits also include thruster packs (page 28 Central Supply
@@ -1472,7 +1472,7 @@ at supersonic speed. The rider is more passenger than driver in most
 circumstances. The ability to exceed the speed of sound in most
 atmospheres is academic, as local regulations tend to limit supersonic
 flight to well-defined corridors and many urban jurisdictions require
-autopilot control and velocities below 200 kilometres per hour.
+autopilot control and velocities below 200 kilometers per hour.
 
 All Stingers come equipped with a gravchute ejection system.
 Recommended rider attire is rated as a vacc suit, although most
@@ -1596,7 +1596,7 @@ screech, in order to be located.
 Eating anything in their path with serrated fangs, the atichnae will
 consume whatever living creature it encounters, its large swarm size
 reducing even the largest of creatures to nothing more than bone and
-viscera. At approximately 30 centimetres in height with a weight of one
+viscera. At approximately 30 centimeters in height with a weight of one
 kilogram, they are formidable when spotted in the distance. This is
 compounded by the ‘whispering’ of their wings and constant chittering
 to one another.
@@ -1947,8 +1947,8 @@ of the widespread Church of the Stellar Divinity. All activities are regarded
 as religious in nature and the church has laid down rules of behaviour
 for even the most mundane aspects of everyday life. Offworlders are
 permitted on the planet only at the spaceport and trade enclave. This area
-of four square kilometres is completely cut off from the rest of Pavabid by
-hundreds of kilometres of wilderness and water, in order to prevent outside
+of four square kilometers is completely cut off from the rest of Pavabid by
+hundreds of kilometers of wilderness and water, in order to prevent outside
 contamination of pure Pavabidian society. It is staffed by only the most
 loyal members of the thearchy and guarded by church troops.
 
@@ -2143,7 +2143,7 @@ the news about the iridium/platinum deposits and gave the Collacians
 enough information about the church and Orobid that they could
 confidently create the message from God. The techpriest was then
 supposed to provide them with the plans for Orobid’s palace but he has
-now disappeared. The Collacians theorise that he was caught by the
+now disappeared. The Collacians theorize that he was caught by the
 thearchy and executed.
 
 Actually, the techpriest was kidnapped by agents of TTC, the Trexalon
@@ -2198,9 +2198,9 @@ business of governing Pavabid will not be interrupted. At the time of
 the mission, the thearch is vacationing and his palace is drifting slowly
 across the wilderness.
 
-The palace is circular, just over 50 metres in diameter, with the first
+The palace is circular, just over 50 meters in diameter, with the first
 deck shaped like a flat ring. This ring is surmounted by a golden dome,
-33 metres in diameter. The second through fourth decks curved around
+33 meters in diameter. The second through fourth decks curved around
 the rear of this dome and are topped by a tall broadcast tower. The
 underside of the ring is wrapped in a gleaming grating, which acts as
 a catwalk and support for the engineers who must maintain the grav
@@ -2406,7 +2406,7 @@ sick bay and quarters for most of the crew.
     attempt to hide in a food prep room, in a large bread cabinet.
 **21. Steward’s Stateroom:** Standard stateroom, fancy. The head
     steward is awake. He is worried because the kitchen supply of zao
-    kibbles, Orobid’s favourite snack, is running low. If he hears any
+    kibbles, Orobid’s favorite snack, is running low. If he hears any
     excitement, he will stay in his stateroom for five minutes, trying
     to decide what to do, and then finally poke his head out into the
     corridor to see what is going on. If he sees nothing, he will go back
@@ -2544,7 +2544,7 @@ possession of the pilot.
 Both the inside and the outside of the dome are golden in colour
 but the inner dome is covered with exquisitely graven designs and
 bas-reliefs, depicting scenes from the Book of the Stars and the
-life of Pavabid. At the aft end of the wall, four metres from the floor,
+life of Pavabid. At the aft end of the wall, four meters from the floor,
 a golden iris door is set in the wall of the dome. Glowing sunrays
 extend from it in every direction. One large ray extends directly
 down; a golden sliding door is set into it at floor level. The designs
@@ -2697,7 +2697,7 @@ Orobid’s quarters.
 **63. Orobid’s Bedchamber:** For extra protection, the walls of this room
     are made of bulkhead material. As a result, the room is completely
     soundproofed from whatever happens outside of it. Orobid sleeps
-    heavily on a large circular gold-coloured flotation bed in the centre
+    heavily on a large circular gold-coloured flotation bed in the center
     of the room. Soft noises, such as the sound of the iris door opening
     and closing, will not wake him but other sounds might; the Referee
     must judge the chances. If awakened by intruders, Orobid will hit
@@ -3087,12 +3087,12 @@ someone in the palace becoming aware of their presence:
 palace personnel, this could result in noise that may awaken
 nearby sleepers, even through interior walls. Gunfire outside a
 sleeper’s door will awaken them on a 2D roll of 6+, with DM-1 for
-each metre the noise is distant from the door. Shouting will wake
+each meter the noise is distant from the door. Shouting will wake
 someone upon a 2D roll of 8+, with the same DM. Most walls and
 ceilings in the palace are covered with sound-deadening materials
 to cut down the noise level in these cramped quarters.
 •  **Security Reactions, General:** The bridge is the coordinating
-centre for the palace. All intruder reports will be called to the
+center for the palace. All intruder reports will be called to the
 bridge. In the event of trouble, the officer on the bridge will always
 notify the guard captain first. If it sounds like a minor problem,
 the guard captain will send two of his men (the two in room 26)
@@ -3426,7 +3426,7 @@ allowing the weapon to sustain high rates of fire for longer periods of
 time, without accuracy or reliability issues.
 
 The scope uses holographic sights, which provide DM+1 to single shot
-attacks over ranges of more than 50 metres.
+attacks over ranges of more than 50 meters.
 
 However, the most prominent feature is the ability to use three separate
 magazines at the same time, changing between ammunition types quickly
@@ -3452,7 +3452,7 @@ and, upon firing, makes a distinguishing sound intended to instil fear in
 those who have been on the other end of the barrel before.
 
 The airburst rifle allows the operator to mark the cover of their target
-and use the airburst round to detonate a few metres behind it. Marking
+and use the airburst round to detonate a few meters behind it. Marking
 the cover requires a minor action. After that, each round fired from that
 position will bypass the cover. If the operator or target changes position,
 the cover must be marked again.
@@ -3549,7 +3549,7 @@ option. These babies do cost mucho Megacredits. As with most things,
 however, you tend to get what you pay for.
 
 Then there is perhaps the best overall weapon, and my personal
-favourite, the plasma-pulse cannon. Why? Because you have the
+favorite, the plasma-pulse cannon. Why? Because you have the
 most options when using it. You can fire it as a single shot weapon
 for 2D damage. Single shot for all four weapons in a turret results in
 2D+6 damage. Single weapon burst is 2D+4 damage, while burst for
@@ -3617,7 +3617,7 @@ with long claws designed to impale and repeatedly smashing the chest
 cavity with their beak until it collapses. Caution is advised when they
 are seen nearby, as humans have often been targets of attacks.
 
-Standing up to three metres tall, they are an imposing sight when
+Standing up to three meters tall, they are an imposing sight when
 flocking at the edge of an ocean in preparation for a hunt, preferring to
 eat the larger aquatic animals under the surface, rather than the squat
 mammals found on land. Their immense wingspan allows them little
@@ -3743,7 +3743,7 @@ servants obtained over the
 gambling table. Service aboard
 the Pink is not odious by any
 means and all crew members
-live as well as any favoured
+live as well as any favored
 guest. Zander is a skilled
 swordsman and, although he
 is now less sprightly than his
@@ -4768,10 +4768,10 @@ composite panels to insulate from the freezing rock and provide heating
 to living spaces.
 
 The first level is used as staff accommodation, admin/security offices
-and the security control centre. Level two is for daily services, including
+and the security control center. Level two is for daily services, including
 the reactor control room and backup generators, as well as general
 maintenance. The main fission reactor is housed in a separate shaft
-about 300 metres from the complex, in which there is a maintenance
+about 300 meters from the complex, in which there is a maintenance
 access shaft from here to the reactor house.
 
 ```
@@ -5009,7 +5009,7 @@ VISITING MANDAL MAHALLA
 On arrival, the Travellers will be under constant escort by at minimum
 one guard. They will be escorted from the landing pad to the terminal
 and pass through security checks, before being taken down to the first
-level security centre. From there they will be taken down by elevator
+level security center. From there they will be taken down by elevator
 to the upper cell block level and a visitation room. The room is divided
 in two by a thick Perspex wall, with a microphone and speaker system
 to allow communication between the two sides. A locked hatch on one
@@ -5104,7 +5104,7 @@ CFF and prison security hampers access.
 •  After eight hours without attention, the core melts and drops
 through to dispersal channels down into the bed rock. With the
 fuel uncontained, this causes a spike in radiation levels within 500
-metres. Anyone in the service tunnel or below will suffer 2Dx3 rads
+meters. Anyone in the service tunnel or below will suffer 2Dx3 rads
 as a burst of radiation, which is released as the chamber breaches
 and before the dispersal channels separate the core enough for it
 to cool down.
@@ -5114,7 +5114,7 @@ gases and particulates to billow from the decimated reactor cap.
 Anyone on the surface within the affected area will suffer 2D
 rads/20 minutes of exposure, unless within an intact building or
 spacecraft. The plume spreads out over the surface covering
-several square kilometres.
+several square kilometers.
 ```
 
 TIMING OF EVENTS
@@ -5200,7 +5200,7 @@ minutes, STR).
 
 Unless the Travellers can avoid them, guards in this area will insist
 that visitors take shelter in the barracks until help arrives. After three
-hours without contact from the control centre, they escort visitors for
+hours without contact from the control center, they escort visitors for
 evacuation via the main stairway. However, on reaching the stairwell it
 becomes clear there is trouble in the cell blocks below. Shouting and
 banging can be heard echoing in the ventilation ducts. Shortly after, a
@@ -5262,7 +5262,7 @@ pressure door. It looks like a typical emergency safety door that would
 drop if a breach was detected (but may have just dropped due to the
 tremors or the lockdown). A small inspection panel in the door shows a
 dimly lit and damaged corridor leading to another closed pressure door
-30 metres beyond. The pressure doors, which drop down from above,
+30 meters beyond. The pressure doors, which drop down from above,
 have a manual override to crank the doors open and a latch to release
 them to drop back down.
 
@@ -5486,11 +5486,11 @@ automatic and have few controls for the occupant, except an emergency
 canopy release to vacate the cocoon. Each is mounted in a launch tube
 that will take it up to and above the surface, activating an emergency
 beacon. The cocoons do not reach the velocity required to leave the
-atmosphere and will drift back to the surface nearly a kilometre from the
+atmosphere and will drift back to the surface nearly a kilometer from the
 prison docks, with braking thrusters cushioning the landing.
 
 The beacons will be picked up by the IISS pinnace, prison control
-centre and the CFF. The prison control will dispatch an ATV with a
+center and the CFF. The prison control will dispatch an ATV with a
 few well-armed guards to retrieve what they assume are evacuated
 guards. However, the CFF will also respond, hoping to capture high-
 value targets. If the Travellers are captured by the CFF, they will initially
@@ -5728,7 +5728,7 @@ By Tim Heiderich
 The giant scuttlefish is a filter-feeder found deep in the atmosphere of
 gas giants, massing around 10-tons. It is an ectothermic invertebrate
 with low intelligence and has an amorphous, semi-transparent body
-trailing sticky tendrils over 100 metres long. Its sensory organs have
+trailing sticky tendrils over 100 meters long. Its sensory organs have
 a heightened ability to detect hydrocarbons, its primary source of
 nourishment. This includes the dense accumulation of liquid hydrogen
 that makes up starship fuel. Scuttlefish have been known to adhere to a
@@ -5736,7 +5736,7 @@ starship in an attempt to penetrate fuel tanks with their rasping tongue.
 
 Due to their method of propagation, the species’ origin is unknown.
 Upon encountering a solid object, an adult scuttlefish sprays out a
-cloud of 2Dx10 gelatinous polyps, each about 50 centimetres wide,
+cloud of 2Dx10 gelatinous polyps, each about 50 centimeters wide,
 which attach themselves like barnacles to any available surface. There
 they remain, even under the hostile conditions of space, until awakened
 by the presence of a hydrogen-rich atmosphere, wherein they inflate

@@ -11,7 +11,7 @@ Unlike some members of the nobility who prefer to lie low and manage their holdi
 
 A popular entertainment trend in the subsector is a rash of ‘Shugilii shows’, holovideo series that celebrate the Vilani tradition of food processing. The hosts of the shows travel the subsector, showing people how to process flora and fauna from its worlds. The most popular of them is ‘Shugilii Shimiirkhuki’, in which the host hunts a multitude of animal species and shows how to field process the animals, using each and every bit for consumption and other uses. The hosts of the most popular shows are huge celebrities in Perite and Apge but less well known elsewhere.
 
-Perite’s stellar density is spotty and includes several inconvenient gaps in its astrography. Tramp traders working their way into the lucrative Core market typically operate far traders or subsidised merchants equipped with collapsible fuel tanks for crossing the empty space between its star clusters.
+Perite’s stellar density is spotty and includes several inconvenient gaps in its astrography. Tramp traders working their way into the lucrative Core market typically operate far traders or subsidized merchants equipped with collapsible fuel tanks for crossing the empty space between its star clusters.
 
 Perite is defended by the 51st Fleet, based in Karnika, Mishaar, Shazeku and Uumeaxan with squadrons posted at numerous systems. All of the ships of the fleet bear Vilani names, which makes them easy to pick out during joint exercises elsewhere in the Core. The flagship of the fleet is a heavy cruiser that is called  Khidenuum iru Argukege , the ‘Duty of the Wise’.
 

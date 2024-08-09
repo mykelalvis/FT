@@ -407,7 +407,7 @@ MISHAPS
 
 EVENTS
 
-2d6 Events 2 Disaster! Roll on the Mishaps table, but you are not ejected from this career. 3 Negotiations are going badly. You can either cut your losses and lose 1 Charisma or roll Broker, Diplomat or Persuade 10+. If you fail you lose 1 Charisma, one Benefi t roll and suffer a –2 DM to your next Advancement roll. If you succeed, gain 1 Charisma and a +2 DM to your next Advancement roll. 4 You successfully negotiate a diffi cult situation and are rewarded. You gain a +1 DM to one Benefi t roll. 5 Through your many dealings and negotiations you have met many infl uential people. Roll Charisma 8+ to gain an Ally. If you fail you gain a Contact instead. 6 You are given advanced training. Roll Education 8+ to gain any skill you are eligible for in this career. 7 Life Event. Roll on the Life Events table. 8 Your dedication and diligence to your career earns you one of Advocate 1, Broker 1 or Diplomacy 1. 9 During some high stake negotiations, a charismatic pack leader from the opposing side offers you a lucrative deal to switch sides. If you accept gain one Benefi t roll and your previous employer becomes a Rival. If you refuse, your current employer becomes an Ally and you gain +2 to your next Survival roll. 10 Your continued success has earned you much respect from your pack. Roll Charisma 10+ to become pack leader and gain an automatic promotion. 11 Your successful career has placed you in a favourable position. Gain one Benefi t roll or +4 DM to your next Advancement roll. 12 You have done exemplary work for your pack and organization. Gain an automatic promotion and +1 Charisma.
+2d6 Events 2 Disaster! Roll on the Mishaps table, but you are not ejected from this career. 3 Negotiations are going badly. You can either cut your losses and lose 1 Charisma or roll Broker, Diplomat or Persuade 10+. If you fail you lose 1 Charisma, one Benefi t roll and suffer a –2 DM to your next Advancement roll. If you succeed, gain 1 Charisma and a +2 DM to your next Advancement roll. 4 You successfully negotiate a diffi cult situation and are rewarded. You gain a +1 DM to one Benefi t roll. 5 Through your many dealings and negotiations you have met many infl uential people. Roll Charisma 8+ to gain an Ally. If you fail you gain a Contact instead. 6 You are given advanced training. Roll Education 8+ to gain any skill you are eligible for in this career. 7 Life Event. Roll on the Life Events table. 8 Your dedication and diligence to your career earns you one of Advocate 1, Broker 1 or Diplomacy 1. 9 During some high stake negotiations, a charismatic pack leader from the opposing side offers you a lucrative deal to switch sides. If you accept gain one Benefi t roll and your previous employer becomes a Rival. If you refuse, your current employer becomes an Ally and you gain +2 to your next Survival roll. 10 Your continued success has earned you much respect from your pack. Roll Charisma 10+ to become pack leader and gain an automatic promotion. 11 Your successful career has placed you in a favorable position. Gain one Benefi t roll or +4 DM to your next Advancement roll. 12 You have done exemplary work for your pack and organization. Gain an automatic promotion and +1 Charisma.
 
 RANKS AND SKILLS
 
@@ -629,7 +629,7 @@ Roll Specialist: Wild Talent Specialist: Mentored Specialist: Institute 1 Awaren
 
 MISHAPS
 
-1d6 Mishap 1 Injured. Roll on the Injury table. 2 You make telepathic contact with an unknown entity. You go missing for 1d6 days and have no memory of the event. If the roll for number of days was 5–6 you also lose 1 Psionic Strength. 3 Your pack discovers you are a psion and they do not look favourably on your kind. You are humiliated and outcast from the pack and the community. You lose 1 Charisma and your next Survival roll suffers a –2 DM penalty. 4 You visit a world where psionics are outlawed. You are arrested and your time in prison forces you to leave this career. 5 You join a pack of other psions and lose the power struggle for leadership. Gain a Rival. 6 You are experimented on by a corporation, government or psionic institute. Roll 1d6. On a 1–2 you suffer an injury; roll on the Injury table. On a 3–4 you lose 1 Psionic Strength. On a 5–6 there are no complications but you are forced to leave this career.
+1d6 Mishap 1 Injured. Roll on the Injury table. 2 You make telepathic contact with an unknown entity. You go missing for 1d6 days and have no memory of the event. If the roll for number of days was 5–6 you also lose 1 Psionic Strength. 3 Your pack discovers you are a psion and they do not look favorably on your kind. You are humiliated and outcast from the pack and the community. You lose 1 Charisma and your next Survival roll suffers a –2 DM penalty. 4 You visit a world where psionics are outlawed. You are arrested and your time in prison forces you to leave this career. 5 You join a pack of other psions and lose the power struggle for leadership. Gain a Rival. 6 You are experimented on by a corporation, government or psionic institute. Roll 1d6. On a 1–2 you suffer an injury; roll on the Injury table. On a 3–4 you lose 1 Psionic Strength. On a 5–6 there are no complications but you are forced to leave this career.
 
 EVENTS
 
@@ -725,7 +725,7 @@ The Vargr are a race of intelligent beings; they are unique amongst the major ra
 
 The Vargr are descended from carnivore/chaser stock; genetically engineered by the Ancients circa –300,000 from the genus Canis. The carnivores were transplanted from Terra to Lair/Grnouf in the Provence sector. Although the Vargr were artifi cially developed, a certain amount of evolution and natural selection took place as the species adapted to the conditions on Lair without further manipulation by the Ancients.
 
-Male Vargr typically weigh 60 kilograms and stand 1.6 metres high. Females tend to be smaller and average 1.5 metres in height and weigh 55 kilograms.
+Male Vargr typically weigh 60 kilograms and stand 1.6 meters high. Females tend to be smaller and average 1.5 meters in height and weigh 55 kilograms.
 
 The Vargr bear a close resemblance to their canine ancestry, as can be seen by their muzzle, tail and fur. The latter covers their entire body and can be found in a variety of colours. The most common colour is grey but it is not uncommon to see Vargr with brown, black or even red fur. Fur colour is partly determined by climate with those from colder regions displaying a greater variety of colours than those from warmer climates. Parents from different climates will often result in their offspring having patterned fur with the stronger bloodline being the most dominant colour. Tail characteristics such as length and bushiness also vary greatly between Vargr from different ethnic backgrounds.
 
@@ -781,15 +781,15 @@ Subspecies A little known fact to most outsiders is the number of Vargr subspeci
 
 The game mechanics for the subspecies listed here can be found on page 3 of the Character Creation chapter.
 
-Urzaeng: The Urzaeng are one of the few subspecies known to the Imperium and the only subspecies that were not outcast by Vargr society due to their superior physical prowess. Urzaeng average 1.85 metres in height and weigh 70 kilograms. They are more powerfully built than the average human and are physically a match against an adult Aslan. The Urzaeng were originally bred by the Ancients for heavy labour and combat so their increased physical prowess comes at a cost to their mental characteristics. This has resulted in the Urzaeng being a naturally violent people with contempt for weakness.
+Urzaeng: The Urzaeng are one of the few subspecies known to the Imperium and the only subspecies that were not outcast by Vargr society due to their superior physical prowess. Urzaeng average 1.85 meters in height and weigh 70 kilograms. They are more powerfully built than the average human and are physically a match against an adult Aslan. The Urzaeng were originally bred by the Ancients for heavy labour and combat so their increased physical prowess comes at a cost to their mental characteristics. This has resulted in the Urzaeng being a naturally violent people with contempt for weakness.
 
-Kokasha: The Kokasha are all but extinct now and those that remain live in a refuge in Rukhs Dall (known as Trenchans sector in the Imperium). They are the smallest of the subspecies and were engineered by the Ancients to have heightened mental faculties at the expense of their physical attributes. Kokasha are typically 1.45 metres high and weigh 50 kilograms. Females are slightly smaller averaging 1.4 metres high and weighing 45 kilograms.
+Kokasha: The Kokasha are all but extinct now and those that remain live in a refuge in Rukhs Dall (known as Trenchans sector in the Imperium). They are the smallest of the subspecies and were engineered by the Ancients to have heightened mental faculties at the expense of their physical attributes. Kokasha are typically 1.45 meters high and weigh 50 kilograms. Females are slightly smaller averaging 1.4 meters high and weighing 45 kilograms.
 
 Akumgeda: Like most other subspecies of Vargr, the Akumgeda fl ed Lair after their people were ostracised by the majority of the Vargr population. The Akumgeda settled on a number of worlds in Ksinanirz sector and although some of these settlements still exist, many of the packs reintegrated with their brethren as the Vargr expanded throughout the Extents.
 
 The Akumgeda appear much like normal Vargr but they tend to have spotted fur. Although unusual, spots are not unknown and the Akumgeda found it easy to blend in with ‘normal Vargr’ unnoticed. What set the Akumgeda apart was their strong psionic ability. Some Vargr postulate that the standard Vargr species only developed psionic powers since the Akumgeda reintegrated with Vargr society but there is no evidence to support this.
 
-Nakagun: This outcast subspecies live in exile in Nakagun sector and are known to possess strange psionic powers. Males and females are similar in size averaging 1.5 metres in height and weighing 55 kilograms. Little else is known of this group since they fl ed from Lair over a thousand years ago.
+Nakagun: This outcast subspecies live in exile in Nakagun sector and are known to possess strange psionic powers. Males and females are similar in size averaging 1.5 meters in height and weighing 55 kilograms. Little else is known of this group since they fl ed from Lair over a thousand years ago.
 
 Gaining & Losing Charisma A Vargr character’s Charisma can change during the course of the game as long as they are responsible for the success or failure of any given task; if a character is using their initiative and making choices, the outcome of those decisions can raise or lower their Charisma. For example, a pilot who misjumps due to a damaged jump drive would not be responsible for the failure, whereas a pilot who destroys a superior vessel due to clever thinking and good piloting would be responsible for the success and therefore would have a chance to increase their Charisma.
 
@@ -925,7 +925,7 @@ The Vargr Homeworld LAIR A8859B9-F The Vargr homeworld has many names amongst th
 
 Lair is located in hex 2402 of Grnouf subsector. Grnouf is subsector C of Provence sector. The Lair system has a single star, eight planetary bodies and a planetoid belt.
 
-Lair is 12,811 kilometres in diameter with a dense atmosphere. Roughly 50% of the world is covered with water oceans. It is a temperate world with average temperatures ranging from 37° C at the equator to –38° C at the poles. Three of the major land masses lie between these two extremes with temperatures averaging between 5° C to 26° C, free from the fi erce storms experienced at other latitudes.
+Lair is 12,811 kilometers in diameter with a dense atmosphere. Roughly 50% of the world is covered with water oceans. It is a temperate world with average temperatures ranging from 37° C at the equator to –38° C at the poles. Three of the major land masses lie between these two extremes with temperatures averaging between 5° C to 26° C, free from the fi erce storms experienced at other latitudes.
 
 There are fi ve major landmasses on Lair. The largest continent is Safokunggaru, a mountainous region located on the equator. The twin continents of Onfakh Gurz and Onfakh Dzae were once a single continent but tectonic shifts split them in two. Just north of the equator, the continent of Aerueko Fen extends across the hemisphere with tundra at its northern tip and jungle to the south. In the southern polar region lies Gaksadudha, a frozen continent of snow, ice and rock.
 
@@ -1092,7 +1092,7 @@ Irilitok: The Irilitok region is located at the rimward trailing corner of the E
 
 Around the year –1,000 many Vargr were forced into slavery by humans, who selected Vargr with the most ‘human-like’ appearance; those who had shorter muzzles and stood more erect. On some worlds the Vargr were left unchecked and the slave population rapidly grew to be the most prominent species. During this period, other Vargr packs moved to the region to further increase the Vargr population.
 
-The Vargr population growth resulted in humans taking a more favourable view toward their Vargr neighbors and it was not long before racial attitudes relaxed. The presence of the human owned Menderes Corporation also helped in this regard as they fostered human-Vargr relations. Although the human and Vargr communities tend to be separate, there is a strong degree of racial acceptance and cooperation. On some worlds there is much less segregation and a greater blending of the two cultures.
+The Vargr population growth resulted in humans taking a more favorable view toward their Vargr neighbors and it was not long before racial attitudes relaxed. The presence of the human owned Menderes Corporation also helped in this regard as they fostered human-Vargr relations. Although the human and Vargr communities tend to be separate, there is a strong degree of racial acceptance and cooperation. On some worlds there is much less segregation and a greater blending of the two cultures.
 
 Humans are much more inclined to deal with the Irilitok than any other Vargr culture and likewise, the Vargr here are more understanding of human customs.
 
@@ -1117,7 +1117,7 @@ Vargr also discover that laws are enforced more strongly in the Imperium and alt
 
 #### LANGUAGE & NAMING
 
-The diversity of Vargr society extends to their language. There are hundreds of different languages and dialects spoken throughout the Extents. Governments tend to favour a particular language but this is not always the case and in some regions a common language is adopted to aid in trade and negotiations.
+The diversity of Vargr society extends to their language. There are hundreds of different languages and dialects spoken throughout the Extents. Governments tend to favor a particular language but this is not always the case and in some regions a common language is adopted to aid in trade and negotiations.
 
 Vargr usually choose their own name when they come of age. Some choose a name that is signifi cant to them such as an important event or achievement in their life whilst other Vargr names are chosen arbitrarily and do not necessarily have any meaning.
 
@@ -1265,7 +1265,7 @@ The Diaspora started to decline around –2500 when much of what is now the spin
 
 The Windhorn Rift The Vargr expansion came to a halt in the trailing direction as explorers discovered the Windhorn Rift. This vast area crosses four sectors and the distance between the few systems in this region make jump travel virtually impossible. Many Vargr tried to cross the Rift but the jump technology at this time was limited and each expedition was doomed to failure.
 
-Many scholars and historians argue that the barrier of the Windhorn Rift actually acted in the Vargr’s favour, for beyond the Rift lay the Ziru Sirka, the Vilani Grand Empire of the Stars. During this time the First Imperium was at the peak of the
+Many scholars and historians argue that the barrier of the Windhorn Rift actually acted in the Vargr’s favor, for beyond the Rift lay the Ziru Sirka, the Vilani Grand Empire of the Stars. During this time the First Imperium was at the peak of the
 
 Consolidation Wars; a series of campaigns designed to ensure that no independent society on the Ziru Sirka borders had jump drive technology and thereby monopolising the Vilani’s control over interstellar travel. Had these races met at this time, the Vilani would have attempted, and perhaps succeeded, to subjugate the Vargr race.
 
@@ -1322,7 +1322,7 @@ The new human masters selected Vargr who were more ‘human- like’ in appearan
 
 A New Dawn Although the Vargr living in human dominated space continued to suffer throughout the Long Night of humaniti, the Vargr populations continued to grow. Well established Vargr worlds bordered human space and many Vargr settlements still remained on the human dominated worlds. Although some of these Vargr communities were ignored by the humans, many suffered at the hands of the human populations.
 
-At the dawn of the Third Imperium, Solomani scientists began to theorise that Vargr were Terran canines uplifted by the Ancients. This became known as the Solomani Hypothesis, which led many humans to regard the Vargr as freaks or dangerous animals. However, in Amdukan sector many humans were more accepting of the Vargr’s heritage and the anti-Vargr attitudes began to relax.
+At the dawn of the Third Imperium, Solomani scientists began to theorize that Vargr were Terran canines uplifted by the Ancients. This became known as the Solomani Hypothesis, which led many humans to regard the Vargr as freaks or dangerous animals. However, in Amdukan sector many humans were more accepting of the Vargr’s heritage and the anti-Vargr attitudes began to relax.
 
 Amdukan sector was dominated by the Menderes Corporation who encouraged the Vargr to immigrate. To begin with, this enthusiasm by the corporation was not out of understanding or sympathy for the Vargr but as a means for cheap labour. However, under the guidance of charismatic leaders it soon became apparent that not only were the Vargr good workers but cooperation was much better for commerce and the local economy. With this revelation, the Menderes Corporation began a campaign to reduce anti-Vargr sentiments and worked to better integrate them into human society.
 
@@ -1403,7 +1403,7 @@ A large amount of Vargr equipment is second hand. There is no status attached to
 
 There is less of a second hand market for personal and domestic items such as clothes and house wares since these items are less likely to become redundant when companies fail. However, this market is still big by human standards and second hand shops that cater to the domestic market are a common sight in any Vargr settlement, ranging from small independent retailers to large megastores.
 
-Currency Like all things Vargr, currency varies from place to place. Most governments will try to instigate their own single currency but the rate of success varies with the culture and government’s sphere of infl uence; the further a world is from the centre of government the less inclined its people are to follow the government’s edicts.
+Currency Like all things Vargr, currency varies from place to place. Most governments will try to instigate their own single currency but the rate of success varies with the culture and government’s sphere of infl uence; the further a world is from the center of government the less inclined its people are to follow the government’s edicts.
 
 Most Vargr worlds will accept currency from neighboring regions where the value of the currency is known and it is practical to do so. Other currencies will also be accepted if they have a tangible value or if trade agreements have been established.
 
@@ -1429,19 +1429,19 @@ Vargr individuals wearing helmets are less able to exert their infl uence and ch
 Armor is as much an expression of a Vargr’s personality and achievements as it is for protection. For this reason it is usually customised by each individual with ornamentation and tattoos
 (see page 36 for details). This is especially true of corsairs and military personnel.
 
-Kforzonga (Shoulder Guards, TL6/8): Made from fl exible metals and plastic mesh, kforzonga provide full shoulder protection. The TL8 variety is made from interlocking plates of advanced polymers providing the same protection with less mass. Kforzonga are a favourite amongst corsairs and the military who commonly paint tattoos of rank and pack for all to see. Kforzonga are used in many armor sets and suits.
+Kforzonga (Shoulder Guards, TL6/8): Made from fl exible metals and plastic mesh, kforzonga provide full shoulder protection. The TL8 variety is made from interlocking plates of advanced polymers providing the same protection with less mass. Kforzonga are a favorite amongst corsairs and the military who commonly paint tattoos of rank and pack for all to see. Kforzonga are used in many armor sets and suits.
 
 Negdhazuk (Bracers, TL6/8): These vambraces cover the forearms and are constructed from fl exible metals. The TL8 version uses advanced polymers to reduce the mass. Negdhazuk are a popular choice for anyone requiring cheap and effective light armor with space to paint tattoos. Negdhazuk are a component part of many armor sets.
 
-Dhinourraksa (Chest Guard, TL7): The dhinourraksa is a partial chest covering that comes in many designs; common ones include spines, V shape and upper torso coverings. Although the dhinourraksa provides less protection than a breastplate it is less restrictive and much lighter, making it a favourite for Vargr with less strength or a smaller stature. It is also popular with pilots and other military personnel who are less likely to enter personal combat situations. The dhinourraksa is used in numerous armor sets.
+Dhinourraksa (Chest Guard, TL7): The dhinourraksa is a partial chest covering that comes in many designs; common ones include spines, V shape and upper torso coverings. Although the dhinourraksa provides less protection than a breastplate it is less restrictive and much lighter, making it a favorite for Vargr with less strength or a smaller stature. It is also popular with pilots and other military personnel who are less likely to enter personal combat situations. The dhinourraksa is used in numerous armor sets.
 
 Dhinou (Breastplate, TL7): Made from advanced composites, the dhinou is a lightweight breastplate that is commonly used by corsairs and some marine units who require strong protection on the front of their body when they board spacecraft; they have little need for coverage on their back and are less encumbered by the full torso coverage of the dhoukha. Individuals wearing a dhinou often gain respect and trust from their peers as it is an indication that the wearer is less likely to turn tail in combat and expose their unprotected back. The dhinou is used in numerous armor sets.
 
 Dhoukha (Vest, TL7/8): A full torso piece made from advanced composites, consisting of a breastplate and backplate that are joined at the sides. The dhoukha is most commonly used by the Vargr army and mercenaries. The TL8 version is made from advanced polymers. The dhoukha is a component part of numerous armor sets.
 
-Kforzhazuk (Fighter Set, TL6/8): A fi ghter set (two armor components) comprising of shoulder guards and bracers. The kforzhazuk is favoured by corsairs who prefer to be lightly armored but like to adorn their armor with sigils. A TL8 version is also available providing the same protection but made from lighter materials.
+Kforzhazuk (Fighter Set, TL6/8): A fi ghter set (two armor components) comprising of shoulder guards and bracers. The kforzhazuk is favored by corsairs who prefer to be lightly armored but like to adorn their armor with sigils. A TL8 version is also available providing the same protection but made from lighter materials.
 
-Kforzgong (Fighter Set, TL8): This fi ghter set combines shoulder guards with knee plates. The bulk added by the armor can give an intimidating appearance making it another favourite of corsair raiders.
+Kforzgong (Fighter Set, TL8): This fi ghter set combines shoulder guards with knee plates. The bulk added by the armor can give an intimidating appearance making it another favorite of corsair raiders.
 
 Dhinohazuk (Fighter Set, TL7): The dhinohazuk consists of a chest guard and bracers. Although this is the heaviest of the fi ghter armor sets it is less bulky and cumbersome, making it popular with pilots and crew who require minimum armor without reducing their ability to perform their job.
 
@@ -1460,7 +1460,7 @@ Kungedz-Vaung (Attack Suit, TL8): An attack suit consisting of a chest plate, sh
 Kungedz-Dhaganou (Attack Suit, TL8): Comprising of a chest plate, shoulder guards, gauntlets and boots, this attack suit is commonly used by corsairs and marines who require a little extra protection than is provided by other attack suits.
 
 Dhoukha-Thuegzinga (Warrior Suit, TL8): A warrior suit
-(providing full torso protection) that has an armored vest, bracers and knee plates. Like most warrior suits, the Dhoukha- Thuegzinga is favoured by marines and mercenaries.
+(providing full torso protection) that has an armored vest, bracers and knee plates. Like most warrior suits, the Dhoukha- Thuegzinga is favored by marines and mercenaries.
 
 Dhoukha-Laersdheg (Warrior Suit, TL8): This warrior suit includes an armored vest, shoulder guards, bracers and knee plates. Of all the warrior suits, this is the one most often used by corsairs who require heavy armor that looks imposing.
 
@@ -1534,7 +1534,7 @@ Strength 5 (–1), Dexterity 5 (–1), Hull 1, Structure 1 Intelligence 3 (–1)
 
 The Vargr have a wide variety of weapons and the most common are described here with both a generic (human) name and the original Vargr name. Vargr versions of human weapons also exist, differing in form but not in function; Vargr characters are free to use any of the standard weapons listed in the Traveller Core Rulebook.
 
-Melee Weapons Most Vargr warriors, especially pirates, favour melee weapons. Bladed weapons are the most popular but the usual Vargr diversity means that a variety of weapons have evolved throughout Vargr history.
+Melee Weapons Most Vargr warriors, especially pirates, favor melee weapons. Bladed weapons are the most popular but the usual Vargr diversity means that a variety of weapons have evolved throughout Vargr history.
 
 Weapon TL Range Damage Heft Mass (kg) Cost (Cr.) Danngag (Hunting Spear) 1 Melee (large blade) or Ranged (thrown)
 
@@ -1542,17 +1542,17 @@ Weapon TL Range Damage Heft Mass (kg) Cost (Cr.) Danngag (Hunting Spear) 1 Melee
 
 Khenourr (Double Bladed Staff) 3 Melee (large blade) 2d6+4 2 3 150 Rokhkou (Long Sword) 3 Melee (large blade) 3d6 –1 1 100 Thuerrghough (Serrated Sword) 2 Melee (large blade) 3d6+4 1 2 200 Thuerrlakh (Serrated Knife) 2 Melee (small blade) 1d6+4 – 0.5 50 Tsozgho (Claw Fist) 4 Melee (small blade) 2d6 – – 10
 
-Danngag (Hunting Spear, TL1): The danngag is the traditional hunting spear that the Vargr have been using since the early days on Lair. Little has changed since its fi rst incarnation except the material it is made from. Many hunters still favour the danngag for its silent effi ciency.
+Danngag (Hunting Spear, TL1): The danngag is the traditional hunting spear that the Vargr have been using since the early days on Lair. Little has changed since its fi rst incarnation except the material it is made from. Many hunters still favor the danngag for its silent effi ciency.
 
 Khenourr (Double Bladed Staff, TL3): A long staff with a small blade at each end; much like a double-ended spear but this weapon cannot be thrown. Although it is the blades that infl ict damage, this weapon requires the Melee (bludgeon) skill to use. Anyone profi cient in its use (skill level of 1 or more) can make an additional attack per Combat Round with the opposite blade with a –4 DM.
 
-Rokhkou (Long Sword, TL3): This well-balanced long sword is a favourite amongst many warriors. The blade has a slight curve with a small barb protruding from the blade’s edge towards the tip of the sword. The rokhkou comes in numerous designs with variations on the number, size and position of the barb.
+Rokhkou (Long Sword, TL3): This well-balanced long sword is a favorite amongst many warriors. The blade has a slight curve with a small barb protruding from the blade’s edge towards the tip of the sword. The rokhkou comes in numerous designs with variations on the number, size and position of the barb.
 
 Thuerrghough (Serrated Sword, TL2): The thuerrghough is a large serrated sword. These vicious looking weapons are commonly used by corsairs, not just for their effectiveness but because the sight of such a weapon helps instil fear in their opponents.
 
 Thuerrlakh (Serrated Knife, TL2): This large serrated knife is basically a smaller version of the thuerrghough and is often carried as a backup weapon by corsairs and mercenaries alike.
 
-Tsozgho (Claw Fist, TL3): A spiked fi st weapon that fi ts over the hand and designed to look like claws. This is another good example of the types of weapon favoured by corsairs for both practical and aesthetic purposes.
+Tsozgho (Claw Fist, TL3): A spiked fi st weapon that fi ts over the hand and designed to look like claws. This is another good example of the types of weapon favored by corsairs for both practical and aesthetic purposes.
 
 This is a very effective close combat weapon but the tsozgho must be strapped fi rmly onto the hand and takes 1d6 rounds
 
@@ -1564,11 +1564,11 @@ Ueggvun (Pistol, TL4): This pistol is a common sidearm on many low-tech worlds a
 
 Ukszou (Autopistol, TL6): These semi-automatic pistols are used by law enforcement, mercenaries and military groups throughout the Extents.
 
-Koekkha (Hunting Rifl e, TL3): Once the Vargr discovered gunpowder this hunting rifl e replaced the danngag in numerous packs but many Vargr still favoured the traditional hunting spear over the noisy rifl e. The koekkha is only a single shot weapon but its long range gives it an advantage over the spear.
+Koekkha (Hunting Rifl e, TL3): Once the Vargr discovered gunpowder this hunting rifl e replaced the danngag in numerous packs but many Vargr still favored the traditional hunting spear over the noisy rifl e. The koekkha is only a single shot weapon but its long range gives it an advantage over the spear.
 
 Doekha (Hunting Rifl e, TL5): The successor to the koekkha, the doekha is quieter and delivers more damage. Although it was primarily designed for hunting, the doekha also sees a reasonable amount of combat use.
 
-Knugzang (Autorifl e, TL7): Designed purely for combat the knugzang automatic rifl e is standard issue in many armed forces and a favourite amongst mercenaries too.
+Knugzang (Autorifl e, TL7): Designed purely for combat the knugzang automatic rifl e is standard issue in many armed forces and a favorite amongst mercenaries too.
 
 Weapon TL Range Damage Auto Recoil Mass
 (kg)
@@ -1610,7 +1610,7 @@ Magazine Cost
 
 Power Pack (Cr.) Ongrrou (Sonic Pistol) 9 Ranged (pistol) Stun No – 2 10 500 150 Ongrung (Sonic Rifl e) 9 Ranged (rifl e) Stun No – 6 30 1,000 250
 
-Weapon TL Range Damage Mass (kg) Blast Radius Cost (Cr.) Odhkhu (Sonic Grenade) 8 Ranged (thrown) Stun 0.5 4 metres 20 10 Ranged (thrown) Stun 0.5 8 metres 40
+Weapon TL Range Damage Mass (kg) Blast Radius Cost (Cr.) Odhkhu (Sonic Grenade) 8 Ranged (thrown) Stun 0.5 4 meters 20 10 Ranged (thrown) Stun 0.5 8 meters 40
 
 Sonic Weapons During the pre-stellar era on Lair, opposing Vargr factions began experimenting with sonic weaponry to disorient the enemy on the battlefi eld using ultra high frequency sounds. These weapons can only work where there is air and are more effective on the acute hearing of the Vargr – the effects last two rounds less for other races (with a minimum of one round).
 
@@ -1657,7 +1657,7 @@ Plasma Missile (left internal traversing, TL10 stabilization) Ammunition: 4 atta
 
 Cargo 0.129 dTons 1.74 174 – Agility +0 DM – – – Speed Cruise: 312 kph Top: 416 kph – – – Total — 36 20,784 4,092,400
 
-Ghoerruegh G-Carrier A favourite of both the military and corsair raiders, the Ghoerruegh G-Carrier is a personnel carrier designed for stealth and speed. The G-Carrier is perfect for swift planetary assaults and ground support missions.
+Ghoerruegh G-Carrier A favorite of both the military and corsair raiders, the Ghoerruegh G-Carrier is a personnel carrier designed for stealth and speed. The G-Carrier is perfect for swift planetary assaults and ground support missions.
 
 GHOERRUEGH G-CARRIER (TL10) M^3 MASS (KG)COST (CR.)
 
@@ -1767,7 +1767,7 @@ Spacecraft Purchase: Due to the unstable nature of Vargr economics, fi nancing o
 
 Successfully obtaining a ship from a patron will largely be determined by the Charisma of those seeking to acquire the vessel. The diffi culty of this will depend on the value of the ship and the type of deal negotiated but it will usually be a Diffi cult task. Referees can apply DMs accordingly with the negotiating skills of the characters involved. If a ship is provided, it usually remains the property of the patron until it has been paid off in value or by services.
 
-Ship shares obtained during character creation can also be used to put towards a ship, in the form of contacts, savings, favours or money owed to the character. Vargr ship shares rarely represent credit rating or similar fi nance options.
+Ship shares obtained during character creation can also be used to put towards a ship, in the form of contacts, savings, favors or money owed to the character. Vargr ship shares rarely represent credit rating or similar fi nance options.
 
 Alternatively, characters can always attempt to steal or hijack a ship but such methods could well have consequences at a later date when the owner or captain fi nally tracks them down. Characters with a high Charisma can also try to convince a captain of lower Charisma to follow their leadership but such an endeavor will require outstanding skills of negotiation, persuasion and leadership.
 
@@ -2069,7 +2069,7 @@ d66 Encounter d66 Encounter 11 Wild Animal 41 Wild Animal 12 Sudden change in we
 
 #### VARGR ANIMALS
 
-Type Habitat Str Dex End Int Ins Pack Gharthi Gatherer (omnivore) Jungle Flyer 4 11 5 0 3 9 Athletics 0, Melee (bite) 0, Recon 1, Survival 1 Bite (1d6), Armor 0. Number encountered: 3d6 Gharthi are small birds that have been introduced to many worlds in the Logaksu, Gvegh and Ovaghoun regions for their much sought after droppings, which form the basis of many popular Vargr seasonings. Gharthi see in infrared and do not attack unless provoked or detect high sources of heat (which they perceive as a threat). Inggurr Pouncer (carnivore) Mountain Walker 5 16 5 1 8 0 Athletics (strength) 1, Melee (tentacles) 2, Recon 1, Stealth 1, Survival 1 Tentacle (1d6, 2 attacks), Armor 1. Number encountered: 1 A snake-like creature with six tentacles. The Inggurr hides behind rocks and leaps onto its prey, using its tentacles to grapple and crush its victim. The Inggurr also uses its tentacles to walk. Ksarrg Pouncer (carnivore) Plains Walker 11 14 12 1 12 2 Athletics (co-ordination) 1, Melee (bite) 2, Recon 2, Stealth 2, Survival 1 Bite (2d6+2), Armor 2. Number encountered: 1d3 Ksarrg are large cat-like creatures with sharp tusks protruding from their lower jaw. These predators are the most appetising beasts indigenous to the Vargr homeworld. The aggressive nature of the Ksarrg makes them impossible to farm but the Vargr have learned effi cient hunting techniques to capture this elusive and dangerous prey. Thakak Grazer (herbivore) Forest Walker 9 10 12 0 6 10 Athletics 0, Melee (hooves) 0, Recon 3, Survival 1 Hooves (1d6), Armor 2. Number encountered: 3d6 These passive creatures have become a favourite meat amongst the Vargr and Thakak have been introduced to many worlds throughout the Extents. They are usually left to roam wild in the forests and hills to be hunted but Thakak farms also exist. When a Thakak is attacked it will screech for aid and the rest of the herd will come to its aid. Turrvagh Herbivore (intermittent) Hills Walker 16 6 25 0 5 7 Athletics 0, Recon 0, Survival 0 Horns (2d6), Armor 4. Number encountered: 2d6 Turrvagh are large animals with six legs. Many humans have likened them to a six legged rhinoceros. Turrvagh are farmed on many worlds in the Gvegh and Aekhu regions, forming part of the staple diet for most Vargr in these regions. Vougnanokh Carrion-Eater (scavenger) Walker 1 5 1 1 7 4 Athletics 0, Melee (claw) 1, Recon 0, Stealth 1, Survival 1 Claw (1d6) 1, Armor 0. Number encountered: 1d6 These small reptilian creatures are drawn towards warm environments and are believed to have spread throughout the Extents by stowing onboard spacecraft. Vougnanokh are vermin that are known to spread a variety of diseases; many crews have been struck down by diseases carried by an uninvited Vougnanok.
+Type Habitat Str Dex End Int Ins Pack Gharthi Gatherer (omnivore) Jungle Flyer 4 11 5 0 3 9 Athletics 0, Melee (bite) 0, Recon 1, Survival 1 Bite (1d6), Armor 0. Number encountered: 3d6 Gharthi are small birds that have been introduced to many worlds in the Logaksu, Gvegh and Ovaghoun regions for their much sought after droppings, which form the basis of many popular Vargr seasonings. Gharthi see in infrared and do not attack unless provoked or detect high sources of heat (which they perceive as a threat). Inggurr Pouncer (carnivore) Mountain Walker 5 16 5 1 8 0 Athletics (strength) 1, Melee (tentacles) 2, Recon 1, Stealth 1, Survival 1 Tentacle (1d6, 2 attacks), Armor 1. Number encountered: 1 A snake-like creature with six tentacles. The Inggurr hides behind rocks and leaps onto its prey, using its tentacles to grapple and crush its victim. The Inggurr also uses its tentacles to walk. Ksarrg Pouncer (carnivore) Plains Walker 11 14 12 1 12 2 Athletics (co-ordination) 1, Melee (bite) 2, Recon 2, Stealth 2, Survival 1 Bite (2d6+2), Armor 2. Number encountered: 1d3 Ksarrg are large cat-like creatures with sharp tusks protruding from their lower jaw. These predators are the most appetising beasts indigenous to the Vargr homeworld. The aggressive nature of the Ksarrg makes them impossible to farm but the Vargr have learned effi cient hunting techniques to capture this elusive and dangerous prey. Thakak Grazer (herbivore) Forest Walker 9 10 12 0 6 10 Athletics 0, Melee (hooves) 0, Recon 3, Survival 1 Hooves (1d6), Armor 2. Number encountered: 3d6 These passive creatures have become a favorite meat amongst the Vargr and Thakak have been introduced to many worlds throughout the Extents. They are usually left to roam wild in the forests and hills to be hunted but Thakak farms also exist. When a Thakak is attacked it will screech for aid and the rest of the herd will come to its aid. Turrvagh Herbivore (intermittent) Hills Walker 16 6 25 0 5 7 Athletics 0, Recon 0, Survival 0 Horns (2d6), Armor 4. Number encountered: 2d6 Turrvagh are large animals with six legs. Many humans have likened them to a six legged rhinoceros. Turrvagh are farmed on many worlds in the Gvegh and Aekhu regions, forming part of the staple diet for most Vargr in these regions. Vougnanokh Carrion-Eater (scavenger) Walker 1 5 1 1 7 4 Athletics 0, Melee (claw) 1, Recon 0, Stealth 1, Survival 1 Claw (1d6) 1, Armor 0. Number encountered: 1d6 These small reptilian creatures are drawn towards warm environments and are believed to have spread throughout the Extents by stowing onboard spacecraft. Vougnanokh are vermin that are known to spread a variety of diseases; many crews have been struck down by diseases carried by an uninvited Vougnanok.
 
 ## WWOORLDSRLDS
 
@@ -3104,7 +3104,7 @@ To prevent such raids from occurring, a skilled emissary was able to negotiate a
 
 Fanganger is perhaps the quietist and most peaceful subsector currently in Gvurrdon sector outside the Society of Equals territory. The largest power here is the Pact of Gaerr that currently controls six worlds. The Nation of Urukhu was once an equal and rival empire but their isolationism means they are of little concern to other states and much of their infl uence was lost when two worlds broke away to form the Fanganger Federation. The Thoengling Empire also has minimal infl uence with only a single world at the edge of the subsector.
 
-Corsair activity is minimal in Fanganger and there are no bases or large bands that operate here. The Kaerrgga occasionally come this far when anti-corsair patrols in their home subsector of Adhsakh become too active. However, with the centre worlds of the Nation of Urukhu isolated from the rest of Fanganger there is little interstellar trade worth plundering.
+Corsair activity is minimal in Fanganger and there are no bases or large bands that operate here. The Kaerrgga occasionally come this far when anti-corsair patrols in their home subsector of Adhsakh become too active. However, with the center worlds of the Nation of Urukhu isolated from the rest of Fanganger there is little interstellar trade worth plundering.
 
 Kaeg D423412-7 Kaeg was once a thriving world of agriculture and trade. Factions within the balkanised government were in constant confl ict and their downfall came following decades of disputes over joining the Pact of Gaerr. In 1079 a civil war broke out that ravaged the planet. The war lasted several years until weapons of mass destruction were employed, which killed millions, levelled cities and contaminated the once fertile lands.
 
@@ -3528,7 +3528,7 @@ To the amazement of many, this new system was successful and has remained for ov
 
 Aegadh B737ADC-B Aegadh was the capital of the old Khouktae Empire before it was absorbed into the Gvurrdon Pact, which in turn collapsed around –2300. For over 3,000 years, the leadership on Aegadh frequently changed until the Church of the Chosen Ones (see page 35) founded a community here in 986 and established control of the planet. The Church has remained the ruling power despite numerous attempts to push them out of power by other factions.
 
-Due to the government’s power, Aegadh has become the primary branch of the Church of the Chosen Ones. The capital city, Errgkhourrraegh, is located 20 kilometres from the starport and is home to the Museum of the Supremacy of Vargr Culture. The museum is well known amongst the Church’s followers and illustrates the history of the Church and the Vargr race
+Due to the government’s power, Aegadh has become the primary branch of the Church of the Chosen Ones. The capital city, Errgkhourrraegh, is located 20 kilometers from the starport and is home to the Museum of the Supremacy of Vargr Culture. The museum is well known amongst the Church’s followers and illustrates the history of the Church and the Vargr race
 (as perceived by the Church of the Chosen Ones). Anyone is welcome to visit the museum – it is free to enter but a donation is expected.
 
 Situated near the museum is a large temple and gardens; these facilities are collectively known as the Church District. This is a
@@ -3713,7 +3713,7 @@ When the Thoengling Empire was expanding, Olgan was soon taken and ksarrg ground
 
 Thoengling A9AA6BA-B Thoengling is a large world with vast fl uid oceans covering most of the planet’s surface. The toxic nature of the oceans has saturated the land and air, preventing life from developing here. This has led to many individuals to postulate why it became the capital of the Thoengling Empire in 1011 and was renamed accordingly.
 
-There are several reasons for the relocation of the Thoengling capital. Firstly, the planet is located in the centre of the Empire, minimising travel times for couriers and supplies and maximising the reach of the government’s infl uence. Secondly, since the core offi cials and bureaucrats are all situated on this inhospitable and unpleasant world, only the most loyal and dedicated individuals are compelled to live here. The original capital on Ikkhadzkfaghukh had such a large population that dissident movements would be a risk to the leadership and without a surplus population that threat is minimised.
+There are several reasons for the relocation of the Thoengling capital. Firstly, the planet is located in the center of the Empire, minimising travel times for couriers and supplies and maximising the reach of the government’s infl uence. Secondly, since the core offi cials and bureaucrats are all situated on this inhospitable and unpleasant world, only the most loyal and dedicated individuals are compelled to live here. The original capital on Ikkhadzkfaghukh had such a large population that dissident movements would be a risk to the leadership and without a surplus population that threat is minimised.
 
 #
 
@@ -5096,7 +5096,7 @@ ku
 
 e
 
-Ughz A424551-E Ughz is a medium-sized world located near the centre of Firgr subsector. It remained uninhabited until 897 when the Rrakhthall family came here to start a new business enterprise. Although the Rrakhthall family was led by the father, it was the three brothers who had the skills, expertise and contacts necessary to establish a ship building company.
+Ughz A424551-E Ughz is a medium-sized world located near the center of Firgr subsector. It remained uninhabited until 897 when the Rrakhthall family came here to start a new business enterprise. Although the Rrakhthall family was led by the father, it was the three brothers who had the skills, expertise and contacts necessary to establish a ship building company.
 
 The Rrakhthall Shipyards (see page 119) soon became a thriving business, attracting more settlers to Ughz. New factories were built by Rrakhthall Shipyards and smaller companies – these facilities specialized in manufacturing certain types of ship components and ultimately led to the formation of the feudal technocracy government that exists today. The main shipyard was also expanded to serve as a naval base.
 
@@ -5316,7 +5316,7 @@ Our leaders are another great strength. They command us, inspire us and praise u
 
 #### CAMPAIGNS
 
-This section discusses campaigns that do not centre wholly on Vargr affairs, but may include one or two Vargr Player Characters or have the Vargr race as a component.
+This section discusses campaigns that do not center wholly on Vargr affairs, but may include one or two Vargr Player Characters or have the Vargr race as a component.
 
 Travellers for Hire The traditional type of Traveller game is where the players own their own starship and travel the galaxy as explorers, traders or looking for interesting patrons and ways to pay off their mortgage. Vargr characters can be part of such a crew for a number of reasons such as a loner who misses the company of others, a trader who has not made the fortunes he had hoped, a Vargr who grew up in the Imperium or simply a character who is fed up and wants to move on seeking a life of adventure.
 

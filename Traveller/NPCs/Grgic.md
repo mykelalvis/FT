@@ -8,7 +8,7 @@ tags:
 MAJOR RAYNIER GRGIC
 "Grajik"
 
-Major Grgic is a retired ex-mercenary and current regional manager for the bonding authority of the OMA. If the Travellers are mercenaries, he can get them the most favourable rates in the subsector on a repatriation bond. He is also well-connected with Instellarms and can hook them up with just about any weapons they want short of tactical nukes. However, the more powerful and illegal the weaponry, the steeper the price. The laws are stringent on Irlu, so Grgic prefers to make arms deals on neighboring Irdu, which has almost no law to speak of.
+Major Grgic is a retired ex-mercenary and current regional manager for the bonding authority of the OMA. If the Travellers are mercenaries, he can get them the most favorable rates in the subsector on a repatriation bond. He is also well-connected with Instellarms and can hook them up with just about any weapons they want short of tactical nukes. However, the more powerful and illegal the weaponry, the steeper the price. The laws are stringent on Irlu, so Grgic prefers to make arms deals on neighboring Irdu, which has almost no law to speak of.
 
 TRAITS — SKILLS
 STR 9 INT 11 Admin 3, Advocate 2, Athletics

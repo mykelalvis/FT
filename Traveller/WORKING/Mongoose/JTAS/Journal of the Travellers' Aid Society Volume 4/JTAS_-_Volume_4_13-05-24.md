@@ -119,7 +119,7 @@ second thought to cargo and brokerage rates. But others never recover;
 they can be recognized by their battered calculators worn down by
 frequent percentile comparisons, hands clenched from rolling dice for
 cargoes and, above all, the look of pure, unadulterated greed gleaming
-in their eyes as they recite that favourite question, ‘what types of cargos
+in their eyes as they recite that favorite question, ‘what types of cargos
 can we pick up here?’.
 ```
 
@@ -190,7 +190,7 @@ Indeed, commercial travelling can be turned to the Referee’s advantage.
 Properly handled, it can be used to lead the Travellers by the nose to a
 specific destination. To do this, the Referee must be the one to make all
 trade and speculation dice rolls (and in secret) and must be willing to
-ignore some results in favour of those that further the cause.
+ignore some results in favor of those that further the cause.
 
 Let us look at District 268 in the Spinward Marches as an example. The
 Travellers have a far trader and start at Mertactor, at the end of the trade
@@ -902,7 +902,7 @@ local conditions.
 
 The 300T uses the characteristic hull form of most Mainstrider ships,
 said by some to resemble ‘the ungodly child of a Gazelle-class close
-escort and a subsidised merchant’. When landed, the vessel sits on its
+escort and a subsidized merchant’. When landed, the vessel sits on its
 secondary cargo units and short landing legs deployed from the sides of
 the forward lower hull. Entry to the ship is at the rear of the main cargo
 area for loading and at the front of the lower hull for personnel.
@@ -1135,7 +1135,7 @@ The 300T is a versatile and relatively comfortable ship to operate. Its
 primary economic advantage is its ability to move between mains and
 clusters, and operate at profit in regions of lower stellar density. Within
 a cluster or on a main the 300T is outperformed by the more common
-free trader and subsidised merchant, however where it can set-up a run
+free trader and subsidized merchant, however where it can set-up a run
 requiring a mix of one and two parsec jumps it can outperform a jump-
 ship in the long term – though it is slow by comparison.
 
@@ -1365,7 +1365,7 @@ human writers.
 ```
 There are several hoaawli or ‘schools’ of behaviour, which demand
 greater attention to duty, which place greater demands on the individual.
-Usually these are associated with warrior groups and centre about a
+Usually these are associated with warrior groups and center about a
 secret creed or oath known only to initiates. Most of these add additional
 rukhta to the common list; these may include such deeds as unnecessary
 cruelty in a kill, unnecessary challenge for personal satisfaction or lust
@@ -1554,7 +1554,7 @@ BEHAVIOUR Herbivore, Grazer
 ```
 
 leaders have not been particularly receptive but it is apparent that if the
-Potenate is in favour of a deal he will push it through despite opposition
+Potenate is in favor of a deal he will push it through despite opposition
 from his near-peers among the nobility. This is thought to have caused
 friction among the nobility but the Potentate’s position seems unassailable.
 
@@ -1927,7 +1927,7 @@ assassination will be pinned on the Travellers and Hamir will become de
 facto ruler of Corben. The best way to avoid being executed as regicides
 is to get a grateful Potentate home – and this will greatly facilitate
 Dulandir’s negotiations as well. The situation has the potential to work
-out favourably for the Travellers... or very badly indeed.
+out favorably for the Travellers... or very badly indeed.
 ```
 
 **CENTRAL SUPPLYCENTRAL SUPPLY**
@@ -2617,7 +2617,7 @@ but many members of other races distrust the Hlanssai because of their
 - justified – reputation for emotional instability.
 
 ```
-Hlanssai are tall, averaging just over two metres but very light and slender
+Hlanssai are tall, averaging just over two meters but very light and slender
 of build, rarely massing more than 55-60kg. The race is homeothermic,
 bisexual and viviparous, producing one or two young after an eight-month
 gestation period. Hlanssai bodies are half covered with a silky, glossy
@@ -3758,10 +3758,10 @@ know where the boundary is located.
 ### GARDEN CENTRE
 
 ```
-Garden Centre is the nerve centre of the base and at six levels tall, is the
+Garden Centre is the nerve center of the base and at six levels tall, is the
 highest elevation. It consists of the headquarters, a small ‘sleep coffin’
 area for on-call HQ personnel, various support-related facilities (kitchens,
-trauma centre, EVA Bay) and some cargo space. The single ‘big gun’ of
+trauma center, EVA Bay) and some cargo space. The single ‘big gun’ of
 the station, a large particle beam bay, is located here, along with five
 double laser turrets. Beneath the Garden Centre is the hydroponic dome.
 ```
@@ -3921,7 +3921,7 @@ Landing Pads
 54
 
 ```
-(restaurant, casino, medical centre, shopping area and checkpoint at
+(restaurant, casino, medical center, shopping area and checkpoint at
 the entrance to enhance security) as well as accommodations for the
 hotel personnel (48 total: 40 standard and 6 luxury suites, along with
 Virette Brandenburg’s massive double suite and a second double suite
@@ -3987,7 +3987,7 @@ and many rooms are listed as dual occupancy) and minimal amenities
 55
 ```
 
-(cafeteria, several takeout food joints, undersized trauma centre for
+(cafeteria, several takeout food joints, undersized trauma center for
 total capacity) as well as accommodations for the hotel staff (32 total:
 12 standard and 20 basic).
 
@@ -4227,7 +4227,7 @@ the stake of Virette Brandenburg (who hates him vehemently). His stake
 of the Consortium is currently 18%.
 
 Brookings has a laid-back personal style and considers his employees
-and underlings to be ‘colleagues’ (one of his favourite words). He
+and underlings to be ‘colleagues’ (one of his favorite words). He
 stresses original thinking and the need to approach problems from a
 different perspective.
 
@@ -4400,7 +4400,7 @@ which operate in three shifts of 40.
 ```
 Approximately 15 of the security personnel man checkpoints around the
 station and 20 more perform one- and two-man patrols. The final five
-of the on-shift personnel are located in the security centre, including a
+of the on-shift personnel are located in the security center, including a
 coordinator and assistant coordinator and three on monitoring duty.
 ```
 
@@ -4509,21 +4509,21 @@ track the airborne target.
 
 In addition, the range of sensors not designed for underwater work is
 greatly attenuated. Optical sensors, including thermal cameras, have a
-useful range measured in tens of metres and may be entirely useless
+useful range measured in tens of meters and may be entirely useless
 without powerful external lights.
 
 64
 
 ```
-Radar and similar sensors have a useful range of 100 metres per TL of
+Radar and similar sensors have a useful range of 100 meters per TL of
 the suite, within which they work normally but with the penalties listed
 previously. Radar can possibly detect a target out to five times that
 far but the power levels required will give away the sensing vessel’s
 position to any detector in the area, even ships in orbit, and sensor
 checks suffer an additional DM-2 for every multiple of their base
 range. Thus a TL10 radar system can be used with the usual DM-1
-for underwater sensor use out to one kilometre, suffering an additional
-DM-2 to two kilometres, DM-4 to four kilometres and so forth. These
+for underwater sensor use out to one kilometer, suffering an additional
+DM-2 to two kilometers, DM-4 to four kilometers and so forth. These
 penalties do not apply if the sensor is being used from a shallow depth
 to detect and track airborne targets.
 ```
@@ -4573,7 +4573,7 @@ in the field or created at TL5 or above. Both will end up costing about the
 same and have similar characteristics. A minimal acoustic sensor fit has
 little processing capability and cannot be used to offset the underwater
 sensor penalty. Minimal acoustic sensors have an effective range of one
-kilometre and cost Cr10 per ton of the vessel’s hull.
+kilometer and cost Cr10 per ton of the vessel’s hull.
 ```
 
 ```
@@ -4584,25 +4584,25 @@ Basic Acoustic Sensors: A basic sensor kit can be built at TL6. It
 includes depth-finding sonar as well as target detection and tracking
 systems. Basic acoustic sensors can be used to offset the DM-1 for
 using conventional sensors underwater. Effective range is about two
-kilometres and the cost is Cr25 per ton of the vessel’s hull.
+kilometers and the cost is Cr25 per ton of the vessel’s hull.
 
 Enhanced Acoustic Sensors: Enhanced acoustic sensors are
 available at TL7 and add detailed mapping functions within half of
 their effective range, gaining DM+1 to detect and analyse underwater
-targets at all ranges. Effective range is five kilometres and the cost is
+targets at all ranges. Effective range is five kilometers and the cost is
 Cr50 per ton of hull.
 
 Advanced Acoustic Sensors: Advanced acoustic sensors are available
 at TL9 and have greatly increased range, performing detailed mapping
 functions within half their effective range. They grant DM+2 to detect
 and analyse underwater targets at all ranges. Effective range is ten
-kilometres and the cost is Cr100 per ton of hull.
+kilometers and the cost is Cr100 per ton of hull.
 
 Magnetic Anomaly Detectors: Magnetic Anomaly Detectors (MAD),
 also known as magnetometers, detect disturbances in a planetary
 magnetic field (if one exists), enabling metallic or magnetic objects to be
 passively detected at a distance. A TL8 MAD has an effective range of
-two kilometres and at TL10 this increases to five kilometres, assuming
+two kilometers and at TL10 this increases to five kilometers, assuming
 a sizable amount of magnetic material such as a submarine, surface
 vessel or submerged starship; a MAD cannot detect a non-magnetic
 object. MADs can be confused by magnetic storms, ECM, large metallic
@@ -4652,8 +4652,8 @@ This underwater targeting system reduces the penalty from DM-4 to DM-2.
 
 ```
 Projectile weapons are virtually useless underwater. Range is reduced to 5
-metres per damage dice of the weapon, after which the projectile sinks into
-the depths. Specialist underwater projectiles increase this to 25 metres per
+meters per damage dice of the weapon, after which the projectile sinks into
+the depths. Specialist underwater projectiles increase this to 25 meters per
 damage dice and cost three times as much as standard ammunition.
 ```
 
@@ -4707,8 +4707,8 @@ avoid this possibility a laser weapon can be modified for underwater use,
 increasing its cost and mass by 15%.
 
 Vehicle and personal scale laser weapons also suffer -1 to damage per
-metre of water they penetrate. Starship-grade lasers lose -1 point of
-damage per 10 metres of water they penetrate. In addition, a laser fired
+meter of water they penetrate. Starship-grade lasers lose -1 point of
+damage per 10 meters of water they penetrate. In addition, a laser fired
 at an underwater target suffers DM-2 to its attack rolls, with an additional
 DM-2 if the weapon must fire through the air/water interface, either from
 above at a submerged target or vice versa.
@@ -4725,7 +4725,7 @@ Other energy weapons are much less effective. Particle accelerator
 weapons cannot be used underwater and will not penetrate the surface
 of a body of water. Plasma and fusion guns will destroy themselves
 if fired underwater unless heavily modified, adding 75% to cost and
-mass. Even then, the weapon suffers a -2 to damage per metre of
+mass. Even then, the weapon suffers a -2 to damage per meter of
 water penetrated. On a 2D roll of 9+ a plasma or fusion gun (whether
 
 68
@@ -5595,7 +5595,7 @@ least remain independent.
 As a rule, even where a system contains multiple independent
 settlements there will be hubs of commerce that tend to prosper to a
 greater degree than other communities. Often the system’s mainworld
-is the primary centre for commerce and equipment supply, serving the
+is the primary center for commerce and equipment supply, serving the
 independent outsystem communities and making money off them even
 if it does not control their actions. This is not always the case however;
 a major mining installation operated by a large corporation may receive
@@ -6008,7 +6008,7 @@ an opposable thumb. They also have four digits on their feet.
 ```
 
 ```
-The average Barnai is 150 centimetres tall and weighs 35kg. Barnai have
+The average Barnai is 150 centimeters tall and weighs 35kg. Barnai have
 small frames and enormous heads containing their prodigious brains.
 Their bone composition and density is identical to that of homo sapiens
 but the skeletal system is compact and more economically distributed
@@ -6036,7 +6036,7 @@ species fail to distinguish one Barnai from another. The Barnai are highly
 vulnerable in dangerous or challenging environments but that is where
 their enormous cohorts, the Feskals, come into the picture.
 
-Feskals average 2 metres in height and typically weigh 110kg or more.
+Feskals average 2 meters in height and typically weigh 110kg or more.
 Feskals have massive frames with immense musculature, particularly in
 the shoulders, upper back and upper legs. Their frames appear top-heavy
 but are exceedingly well balanced. The Feskal brow protrudes over deep-
@@ -6464,15 +6464,15 @@ are important enough to worry about such things.
 ```
 
 ```
-With a top speed of well over 700 kilometres per hour on a test track,
+With a top speed of well over 700 kilometers per hour on a test track,
 the Challenger is certainly quick. However, no amount of electronics will
 permit a car to reach such speed on normal roads. Enthusiasts talk about
-top speeds but what really matters is the ability to reach 200 kilometres
+top speeds but what really matters is the ability to reach 200 kilometers
 per hour within seconds of a standing start. The only way the Challenger
-can do this is to use variant Smart Wheels. Rather than being optimised
+can do this is to use variant Smart Wheels. Rather than being optimized
 for rough terrain, the wheels are designed to maintain traction and permit
 braking, steering and acceleration under conditions that would send a
-lesser vehicle careering off the road. Of course, at 200 kilometres per
+lesser vehicle careering off the road. Of course, at 200 kilometers per
 hour an average city street might well be considered rough terrain...
 ```
 
@@ -6565,7 +6565,7 @@ The Latien Hauler is aimed at a market niche somewhere between
 bulk freighting and tramp-trading. It will often be encountered on a long
 haul with several hundred tons of a single cargo type aboard plus an
 assortment of small freight lots much like those found aboard a typical
-subsidised merchant or free trader. It is capable of making planetary
+subsidized merchant or free trader. It is capable of making planetary
 landings and can service small ports that do not see many ships of this
 size, although its handling characteristics in an atmosphere have been
 described as being ‘like a pig on stilts’.
@@ -7206,7 +7206,7 @@ Vland, having never benefited from augmentation beyond selective
 breeding. Some ashushum farms on Vland have been in continuous
 operation, providing seed stock for numerous colonies, for over 10,000
 years and are quite the sight to behold, with automated food distribution
-and moult gathering machines poking out of several square kilometres
+and moult gathering machines poking out of several square kilometers
 of ashushum pens, which look from a distance like writhing, slithering
 ground. Many Solomani report a sensation of slight unease when first
 beholding such an operation.
@@ -7221,7 +7221,7 @@ they will often ‘treadmill’ around a room, running around in circles so long
 as their clawed toes can find footholds.
 
 Auwoils use their large hind legs to almost fly over the ground, being
-capable of horizontal leaps of six metres in rapid succession. This quick
+capable of horizontal leaps of six meters in rapid succession. This quick
 gait compensates for their small size, allowing them to nearly outrun an
 average adult Aslan.
 
@@ -7294,7 +7294,7 @@ the eaueals can reach.
 
 Attacking from a distance is best done with thermal or other enhanced
 vision, as eaueals can change their skin coloration to sneak up on their
-favoured prey. They are also adept at using water to hide their presence,
+favored prey. They are also adept at using water to hide their presence,
 particularly fond of digging up dirt to hide their presence when they think
 some larger predator (such as an Aslan) is nearby. Ironically, trained
 hunters know the sudden appearance of these muddy clouds in the water
@@ -7604,7 +7604,7 @@ is disputed. There are no records of ramumis on Vland prior to their
 discovery of the jump drive, although this was about 10,000 years ago
 so absence of evidence is not evidence of absence.
 
-They appear to have been a favourite of the Vlani
+They appear to have been a favorite of the Vlani
 shugilii, in the caste’s role as food preparers
 and eventually preservers of tradition. At
 some point training them to sing
@@ -7644,7 +7644,7 @@ secure said members’ loyalty.
 ```
 
 ```
-Ramumis are also, according to legend, favoured assassination tools
+Ramumis are also, according to legend, favored assassination tools
 in certain circles; train one to seek out a target’s scent, force feed it
 explosives, let it scamper where few think it a serious threat and
 detonate via radio when it perches on the target’s shoulder. Damage is
@@ -7692,7 +7692,7 @@ exceptionally well cared for and some crews use them as divinatory aids
 to suggest future ventures, essentially using the ship’s cat as captain.
 
 Some breeds, developed in the Third Imperium before the Psionics
-Suppressions, are psionic, favouring teleportation the way sophonts favour
+Suppressions, are psionic, favoring teleportation the way sophonts favor
 telepathy. These add the Psionic (9) trait and Teleportation 2 skill, and rarely
 teleport with equipment; collars are left behind but implanted transponders
 (standard for ship’s cats, to make sure they are aboard when it is time

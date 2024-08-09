@@ -22,7 +22,7 @@ Sabitha is rich, powerful, and dying. Nothing in modern medicine can stop the cr
 
 Through her extensive information network she discovers that her nephew (one of the players) is on the planet. As she is forming an expedition to rescue her son, perhaps the players would like to help?
 
-The expedition is due to set out soon, waiting only for a few supplies and a full crew. A convoy of tracked ATVs will head out to the last known location of Joseph Tomksh. His ATV stopped broadcasting some time ago, not an unknown phenomena considering the battering it gets in the jungles. It is unfeasible to airdrop a team in because of the tree cover—the trees reach three or four hundred metres in height and are exceptionally strong. Tracked ATVs are the only vehicles which have proved hardy enough to take the terrain.
+The expedition is due to set out soon, waiting only for a few supplies and a full crew. A convoy of tracked ATVs will head out to the last known location of Joseph Tomksh. His ATV stopped broadcasting some time ago, not an unknown phenomena considering the battering it gets in the jungles. It is unfeasible to airdrop a team in because of the tree cover—the trees reach three or four hundred meters in height and are exceptionally strong. Tracked ATVs are the only vehicles which have proved hardy enough to take the terrain.
 
 The trek through the jungle is beset by all manner of problems—Jala’lak, territorial animals, impassible cliffs, torrential rain, quicksand, rival archaeologists, undiscovered temples…
 

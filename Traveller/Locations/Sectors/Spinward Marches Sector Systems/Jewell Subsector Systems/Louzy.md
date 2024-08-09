@@ -38,7 +38,7 @@ In-keeping with the naming tradition of the Louzy system, the capital city certa
 
 carried through to the rest of the city. Since Durty is one of the few productive cities on Louzy, it has simply become an accepted part of life here.
 
-Lifts from the starport take travellers directly to the city centre below. From the centre, vast tunnels lead off to separate zones including habitat, commercial, agricultural and industrial zones.
+Lifts from the starport take travellers directly to the city center below. From the center, vast tunnels lead off to separate zones including habitat, commercial, agricultural and industrial zones.
 
 ---
 
@@ -50,7 +50,7 @@ It is not hard to see how Louzy got its name. A small world with an atmosphere b
 
 Nevertheless, Louzy was indeed colonized and the colonies grew rapidly. The world proved to be rich in mineral resources and enjoyed something of a ‘gold rush’ in the mid 600s as the sector’s industrial base was hugely expanded to meet the needs of the Fleet Asset Replacement Program. FARP was implemented in several sectors that had lost a large proportion of their naval assets in the Civil War or as reinforcements sent to the Marches to fight the Zhodani.
 
-At that time, the Imperial Navy was facing a crisis. Its strength had been built up steadily, literally over centuries. The massive losses of the Frontier Wars and, more importantly, the Civil War meant a large percentage of the fleet needed replacing and fast. System defence assets also required replacement in heavily fought-over systems. Crash-building programmes covered the worst of the deficit within a couple of decades but this created a second crisis as ships suffered block obsolescence, all needing replacement at once rather than over time.
+At that time, the Imperial Navy was facing a crisis. Its strength had been built up steadily, literally over centuries. The massive losses of the Frontier Wars and, more importantly, the Civil War meant a large percentage of the fleet needed replacing and fast. System defence assets also required replacement in heavily fought-over systems. Crash-building programs covered the worst of the deficit within a couple of decades but this created a second crisis as ships suffered block obsolescence, all needing replacement at once rather than over time.
 
 All this meant there was a massive need for mineral resources in the coreward end of the Marches and significantly at the military shipyards of neighboring Efate. Huge extraction and ore processing operations were rapidly set up, along with towns for workers and associated secondary and tertiary industries.
 
@@ -72,6 +72,6 @@ Today, Louzy is strictly-regulated but stable, with a modest mid-tech industrial
 
 The world’s main problem is overpopulation in its sprawling cities, which are constructed largely underground to maintain atmospheric integrity. Money is tight and there is little investment but investment is desperately needed in order to get more from the world’s huge population. Needing money to generate wealth and not being able to get it, Louzy is facing a downward spiral. Crime is on the increase and most citizens feel they have few prospects. It may be that the valiant effort made to halt the great slump has merely slowed it and made the decline more painful.
 
-Efforts are underway to improve matters. Imperial funding and megacorporate loans have been requested, without much success, although there have been some instances of private concerns moving into Louzy on very favourable terms. The world government seems increasingly willing to entertain distinctly borderline schemes if they bring in hard cash.
+Efforts are underway to improve matters. Imperial funding and megacorporate loans have been requested, without much success, although there have been some instances of private concerns moving into Louzy on very favorable terms. The world government seems increasingly willing to entertain distinctly borderline schemes if they bring in hard cash.
 
 There is a steady exodus of people offworld. Some are the best and brightest, using their skills to find a better home for their families. Most, however, are semi-skilled at best. Some simply buy a ticket for anywhere or work passage aboard a passing ship in the hope of finding a new start in a better place. Others are recruited by mercenary units and other high-risk companies seeking personnel. Ironically, the biggest recruiters operating on Louzy are mining companies seeking entry-level workers.  Although these recruitment operations are small-scale at present, they are expanding. This is a good thing – a few less people is exactly what Louzy needs right now.

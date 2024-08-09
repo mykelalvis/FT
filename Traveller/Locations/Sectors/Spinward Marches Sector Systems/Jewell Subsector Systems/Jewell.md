@@ -35,7 +35,7 @@ The capital is a vast sprawling city, home to 12 million people and some of the 
 
 ## Imperial Dome
 
-This small dome is located in the centre of Facet and protects the government buildings and facilities. It also contains one of the few parks on the entire planet.
+This small dome is located in the center of Facet and protects the government buildings and facilities. It also contains one of the few parks on the entire planet.
 
 Fom [[Behind the Claw]]
 

@@ -271,7 +271,7 @@ Rocky landscape
 lakes and rivers, but others subsist in moist underpinnings of rocks in the
 plains and basins. Humans emigrating to Cordillon must be inoculated
 before coming to the planet or risk suffering from several fatal pulmonary
-diseases brought on by inhaling mould spores or viruses native to the
+diseases brought on by inhaling mold spores or viruses native to the
 world.
 ```
 
@@ -406,7 +406,7 @@ Primary — Bizitza K1 V
 The jump drive is the only known means of faster-than-light (FTL) travel
 in the Third Imperium universe. It is not well understood by most of its
 users, however, and jump drive operations are not wholly predictable.
-It is widely theorised that the Ancients and possibly other species
+It is widely theorized that the Ancients and possibly other species
 mastered jump technology or at least reached a level of expertise
 whereby they could transcend the limitations encountered by all major
 races of Charted Space.
@@ -1031,7 +1031,7 @@ oppression and deep social divides.
 Law in Nebelthorn is highly subjective and based on social class.
 It protects the upper echelons of society first and foremost, and then
 those who support them such as law enforcement and civic officials.
-Outsiders such as offworlders or those from non-favoured neighboring
+Outsiders such as offworlders or those from non-favored neighboring
 states are actively legislated against, making Nebelthorn one of the most
 hazardous areas of Ruie to visit. Ample information is available at the
 starport about which states are friendly to Travellers, which are neutral
@@ -1121,7 +1121,7 @@ standards he received a fair trial, although there was never any doubt as
 to the outcome and the matter has been handled quite legally.
 
 Nebelthorn has shown no interest in negotiating a release and has
-rebuffed or ignored all offers of favourable trade deals and even direct
+rebuffed or ignored all offers of favorable trade deals and even direct
 bribery. Marc Oberlindes has exhausted all legal avenues trying to free
 his son and, although he acknowledges the situation is of Sergei’s own
 making, has resolved to liberate his son by any means necessary.
@@ -1279,7 +1279,7 @@ the nearest military base.
 THE PRISON
 The prison is located on a small plateau kept barren of vegetation by
 chain gangs from the prison itself. It is surrounded by a double outer
-fence, with a 15 metres clear zone in between. There are guard towers at
+fence, with a 15 meters clear zone in between. There are guard towers at
 the corners and mid points of the fence, and a small security compound
 at the gate. These lie in the space between the two fences.
 ```
@@ -1454,7 +1454,7 @@ making a convenient rendezvous to get off-planet. Few Travellers live in
 ```
 such a pleasant universe, however, so more than likely they will have to
 withdraw from the prison under fire, with a response from local military
-bases beginning to emerge. The border is only a few kilometres away,
+bases beginning to emerge. The border is only a few kilometers away,
 so a dramatic chase may well ensue, involving aircraft and hordes of
 Nebelthorn soldiers. The pursuit might not end at the border, which
 would result in an international incident and maybe even a war. Marc
@@ -1723,7 +1723,7 @@ the few uses of the concept of ‘privacy’ in K’kree culture).
 
 ```
 Many members of the Merchant caste (and a few Nobles) are theologians;
-they write on a variety of speculative religious topics, theorise on the
+they write on a variety of speculative religious topics, theorize on the
 nature of Paradise or the lesser shadow worlds and so forth. Such
 theology is strictly a part-time pursuit, a hobby; there is no organised
 K’kree church structure or true priesthood. Still, theologians of note are
@@ -1794,7 +1794,7 @@ manufactured into a vast array of goods, then transferred to starports or
 cargo ships docked to the inner valleys. When building spaceships and
 other objects too large to transfer via airlocks, standard procedure is to
 construct a temporary hangar from the refinery’s reject material. As the
-cargo bay is more than a third of a kilometre at its widest, elevator cars
+cargo bay is more than a third of a kilometer at its widest, elevator cars
 in the fins link to tubes lining the bay walls to facilitate transit without
 navigating cargo. Gravity in the spikes is set toward the cargo bay, while
 the bay itself is kept in zero-g. A Tvastar sacrificing itself to make a colony
@@ -2506,7 +2506,7 @@ need for cash.
 ```
 
 ```
-Certain scams are regular favourites, used frequently. One is to
+Certain scams are regular favorites, used frequently. One is to
 pose as an inspector employed by some merchant line or consulting
 firm (or, on one notable occasion, as a member of the IISS security
 branch), deadheading his way from one system to another under
@@ -2980,12 +2980,12 @@ intelligent species. The combination of low gravity and dense atmosphere
 on Jaeyelya (B-584655-6), the homeworld of the Ael, permits flight in
 creatures large enough to develop the brain capacity for sentience.
 
-Adult Ael stand at one and a half metre tall and mass 50kg. The species
+Adult Ael stand at one and a half meter tall and mass 50kg. The species
 evolved from flying arboreal hexapods, which used powerful hind
 and mid-legs to grasp their prey as they swooped from overhead. A
-carnivore’s cunning, coupled with environmental pressures, favoured the
+carnivore’s cunning, coupled with environmental pressures, favored the
 rise of intelligence. The forelimbs’ gliding surfaces eventually became
-serviceable wings (which span four metres), while the midlimbs became
+serviceable wings (which span four meters), while the midlimbs became
 both generalised and flexible enough to permit tool-making.
 
 Ael eyesight is slightly better than that of a human. Their visual range
@@ -4006,7 +4006,7 @@ have a few projectile weapons based on Imperial designs but have never
 been comfortable with mechanisms that kill at a distance. Ael can handle
 human weapons but suffer DM-2 when handling or firing a weapon not
 designed for their hands. When attacking, they prefer to leap several
-metres into the air and hover (when gravity and atmosphere permit
+meters into the air and hover (when gravity and atmosphere permit
 flight), firing wildly all the while. They have difficulty firing from cover,
 both psychologically and anatomically.
 
@@ -5552,7 +5552,7 @@ please. After that, he will hunt them and kill them all. He knows no action
 will be taken so long as the Aslan are on his land; they will be considered
 intruders and thus subject to the ranch owner’s justice. If Ewyryhu and
 his entourage can get off Marchand’s land they may or may not be safe
-but Trelane knows they have no chance of crossing a 100 kilometres of
+but Trelane knows they have no chance of crossing a 100 kilometers of
 wilderness on foot before Marchand hunts them down.
 ```
 
@@ -5681,9 +5681,9 @@ they will be unlikely to think of fashioning makeshift spears or bows.
 
 ```
 Marchand plans to release his captives at dawn, then give them an hour
-before commencing his hunt. His ranch is about 450 kilometres from the
-starport, taking the form of a rough circle 400 kilometres across with the
-house at its centre, mostly open grassland with some woods and a small
+before commencing his hunt. His ranch is about 450 kilometers from the
+starport, taking the form of a rough circle 400 kilometers across with the
+house at its center, mostly open grassland with some woods and a small
 lake. Herds of kundbock wander freely and there is a lot of other wildlife
 to confuse thermal sensors. Herdsmen live in small cottages here and
 there on the estate and might be out and about – Marchand has not
@@ -5714,8 +5714,8 @@ THE RESCUE
 If the Travellers can reach the house before dawn they may be able
 to somehow get the captives out. They are bound and will be carefully
 guarded. A little before dawn they will be loaded into a wheeled truck
-and driven a few kilometres up the road. Marchand follows in his grav
-car and watches the release before rushing back to the house to savour
+and driven a few kilometers up the road. Marchand follows in his grav
+car and watches the release before rushing back to the house to savor
 the occasion with his followers. After a little more than an hour the
 hunting party sets out. They will try a variety of methods to kill the
 Aslan, including dismounting to snipe at them with rifles or firing from
@@ -5870,8 +5870,8 @@ of tropical fruit and control of these and similar pests is a major concern
 of port and customs officials everywhere.
 
 Each adult smaet weighs less than .1 gram and has a wingspan of less
-than one centimetre. They are generally encountered as an upright,
-pillar-shaped cloud, about two metres high, which drifts just above the
+than one centimeter. They are generally encountered as an upright,
+pillar-shaped cloud, about two meters high, which drifts just above the
 ground. One cloud may contain over 50,000 individuals.
 
 Smaets have a rather complicated reproductive cycle. The eggs, which
@@ -5966,7 +5966,7 @@ techniques, including fumigation and irradiation.
 
 As smaetal swarms have spread from world-to-world, genetic drift has
 created wildly divergent species. Common variations include increased
-size of the swarming members (wingspans of up to 8 centimetres have
+size of the swarming members (wingspans of up to 8 centimeters have
 been seen on Tahauri) and poisonous or hyperallergenic stings (on
 Drenghai, Moloaku and others). Extreme caution must be exercised
 whenever swarming smaets are encountered.
@@ -5985,7 +5985,7 @@ not known but they are found throughout the coreward regions of the
 Imperium. Although spread widely by the mysterious Ancients, the range
 of the springer was increased considerably by the colonists of the First
 Imperium, as a means of biological pest control. Massing between 250
-and 500 grams, springers average 15 centimetres in length.
+and 500 grams, springers average 15 centimeters in length.
 ```
 
 ```
@@ -6126,7 +6126,7 @@ of possible worlds to less than a dozen, mostly in the Vland sector.
 
 ```
 Adult hoplites weigh about 1,600 kilograms and are usually around 2.5
-metres long and one metre at a shoulder. They are bilaterally symmetrical,
+meters long and one meter at a shoulder. They are bilaterally symmetrical,
 homeothermic hexapods, with a closed circulatory system incorporating
 a three-chambered heart.
 ```
@@ -6275,7 +6275,7 @@ hunting instincts, can spot and kill prey over remarkably long distances.
 ```
 
 ```
-Garhawks are large (over one metre wingspan) flying carnivores, originally
+Garhawks are large (over one meter wingspan) flying carnivores, originally
 from Nagaschk, a planet to spinward of the Imperial core. Natives of the
 world, a TL3 race, delighted in hunting; their use of garhawks in sport
 sparked interest among human visitors. Once the trick of raising and
@@ -6290,7 +6290,7 @@ with garhawks a fascinating renaissance of falconry and hawking.
 The stellafalconformes are prime examples of convergent evolution.
 Externally, they are quite similar to the exoaccipitiformes of Kalga, the
 falconiformes of Terra and countless other aveform families throughout
-Charted Space, where natural selection has acted to mould highly
+Charted Space, where natural selection has acted to mold highly
 efficient flying hunters. Garhawks are not true birds; they bear live young
 in nest litters of two or three. The young are fed meat in the nest by the
 two parents for three months. After their first flight, the young will remain
@@ -6742,7 +6742,7 @@ time spent travelling to and from the jump point.
 Orbital space around a world with a Class A or B starport tends to
 be busy and subject to a strict set of traffic control guidelines. Often
 a busy port will post guidelines at neighboring starports, indicating
-favoured emergence points for ships from that system. If pre-prepared
+favored emergence points for ships from that system. If pre-prepared
 jump solutions are available, these use standard emergence zones. A
 policy of giving priority to vessels emerging from jump at these points
 encourages traffic to behave in a manner that is easier for the starport
@@ -6906,7 +6906,7 @@ TRAFFIC CONTROL ISSUES
 Orbital traffic control is a complex business. Even with automated
 assistance, keeping large numbers of vessels moving in and out of the
 starport in an orderly fashion is a challenge. A delicate balance must
-be struck between optimising turnaround times for economic reasons
+be struck between optimizing turnaround times for economic reasons
 and keeping ships safe from collision. Priority is given to larger ships for
 both of these reasons – large vessels require more time to answer the
 helm than little free traders and bring in a lot more money. Thus traffic
@@ -7305,7 +7305,7 @@ Central Station)
 Micro-Reconnaissance Drone Kit
 
 Micro-Reconnaissance Drones, or MRD, resemble a tiny helicopter with a
-rotor span of less than two centimetres. Four are provided in the kit along
+rotor span of less than two centimeters. Four are provided in the kit along
 with a small control unit and set of goggles that display what the drones
 can see with their cameras. These include all-round thermal/optic units
 and a forward-facing high-resolution camera with an impressive zoom
@@ -7325,7 +7325,7 @@ Autohack Unit
 ```
 An Autohack unit is a handheld device capable of semi-remotely
 interfacing with an electronic lock. ‘Semi-remotely’ in this case means
-the Autohack unit can operate from two to three metres away from the
+the Autohack unit can operate from two to three meters away from the
 target, depending on how cluttered the local electronic environment is. It
 cannot penetrate complex systems such as computers, nor is it any use
 with simple electrical devices. However, an Autohack unit is capable of
@@ -7383,9 +7383,9 @@ but usually the transmission is pegged
 as being in the right general class.
 Thus, if the user is informed that
 there are emissions from personal
-communications radios 40 metres to the
+communications radios 40 meters to the
 west and a radar-frequency emission
-100 metres north, they can be reasonably
+100 meters north, they can be reasonably
 sure they will encounter something similar
 when they investigate.
 
@@ -7398,11 +7398,11 @@ Electronic Mapping Rocket
 
 Mapping rockets are a cheap and simple way to obtain an electronic-
 systems map of an area – and to advertise your own presence to
-everyone within several kilometres. They are sometimes used by
+everyone within several kilometers. They are sometimes used by
 prospectors to find magnetic materials and explorers to map out
 the ruins of an advanced culture by its power conduits but more are
 commonly used to build an instant picture of every piece of inductively
-responsive material within 500 metres.
+responsive material within 500 meters.
 
 The rocket is launched over the target area and explodes, creating
 a weak electromagnetic pulse. Inductive materials such as wiring,
@@ -7434,10 +7434,10 @@ one hand. When switched on it emits a powerful electromagnetic pulse
 capable of overwhelming nearby radio receivers and similar devices
 with static. The pulse will not affect military electronics of TL9+ or civilian
 systems of TL11+. It will render radios and other systems useless within
-50 metres and provides an unmissable emergency beacon for distressed
-personnel. The pulse is detectable to 10 kilometres or more with good
+50 meters and provides an unmissable emergency beacon for distressed
+personnel. The pulse is detectable to 10 kilometers or more with good
 sensors such as those aboard a starship and cannot escape notice
-within one or two kilometres with even the most rudimentary scanning
+within one or two kilometers with even the most rudimentary scanning
 equipment. However, its main purpose is to ‘white out’ communications
 of enemy personnel within a combat area.
 ```
@@ -7834,7 +7834,7 @@ these, 36 are clairvoyant/telepaths and 384 are teleporters. All psi talents
 in the Zhodani armed forces are issued autoinjectors of psi-enhancing
 drugs, although a commando groupment will seldom make more than
 two jumps per day and never more than three. Distances travelled rarely
-exceed five to 50 kilometres because of the disorientation involved and
+exceed five to 50 kilometers because of the disorientation involved and
 effects of energy and momentum differences.
 
 A point of minor interest is the fact that the unit consists largely of
@@ -8163,7 +8163,7 @@ not intended for a different market to installation security. No weapons are
 fitted as standard but the pintle mount can take any light support weapon
 such as a machinegun. This has made the Port Protector popular with
 armed security firms operating on mid-tech worlds, low-budget mercenary
-units and various flavours of insurgent group. When serving as a light
+units and various flavors of insurgent group. When serving as a light
 weapons carrier a vehicle of this type is usually known as a ‘technical’.
 
 Nominal crew is five – four in the cab and one in the pickup bed manning

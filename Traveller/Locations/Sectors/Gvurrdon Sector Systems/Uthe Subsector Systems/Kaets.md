@@ -21,3 +21,12 @@ There is a bare-bones orbital port to handle non-streamlined ships from which ca
 
 While a small world, Kaets still represents a significant area to search for signs of the evacuated crew. The referee can have the players describe their search plan in as much detail as the players are inclined to work out and can make the search as challenging as they want, but ultimately they should be able to locate a Pinnace landed by a large lake in the area marked with a red diamond on the map below. If the local Vargr had been inclined to explore the southern hemisphere of the planet, they probably would have found it years ago.
 
+
+---
+## KAETS
+
+The [[Kaets]] system
+**Kaets** ([[Uthe]]/[[Gvurrdon]] 2338) - Non-Aligned, [[Vargr]]-dominated.
+G0 IV star, 1 gas giant, 1 planetoid belt, 7 other worlds. Corsair base.
+
+UWP: B636631 - 7 Non Industrial, population approx 1,000

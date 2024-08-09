@@ -5,7 +5,7 @@ tags:
   - "#Traveller-Adventures"
   - UNFORMATTED
 ---
-![[TravellerLBBs-D05a-ChamaxPlague_1-COVER.jpg]]
+![[TravellerLBBs-D05a-ChamaxPlague_1-COVER.jpg|100]]
 
 # Introduction
 

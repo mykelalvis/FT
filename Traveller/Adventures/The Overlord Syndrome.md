@@ -1,27 +1,22 @@
 ---
 date created: 2024-03-08 06:22
+tags:
+  - Traveller-Adventures
+  - RELOCATE
+  - Michael_Brown
 ---
 
-# The Overlord Syndrome
-
-©2016 Michael Brown
-The Overlord Syndrome is a short adventure for Cepheus Engine (CE) and the Original Science Fiction Roleplaying Game. 
-
-No special skills or equipment are required to run the adventure.
-
-Throw Mechanic: 2D6 ± Modifiers ≥ 8. The Referee may adjust the throw (for range, difficulty, etc.) as needed.
-
-## Referee’s Overview
+# Referee’s Overview
 
 The team is hired by a noble to find and rescue his daughter, who has run away to join a cult. The cult has been spotted in and around Startown, growing in numbers and deadliness. The team tracks the sect to nearby mountains, where they not only find the noble’s daughter, but makes an astonishing discovery: the actual master of the cult is an artificial intelli gence.
 
-## Players’ Information
+# Players’ Information
 
 His Lordship Count Yoshiro du Saint-Grave can barely keep his composure as he briefs the adventurers on the situation he and the Countess du Saint-Grave, eyes red from crying, are facing. Their only daughter and heir to their house, Lady [[#Naoko]], ran off with a cult calling itself the [[#AI|Peripheral]]. They hired an expert in cults to infiltrate the organization and rescue her, but they haven’t heard from him in weeks. The Count then made a mistake: he sent in his private troops to recover Naoko by force, but the cult anticipated their arrival and simply moved to a more secretive location. 
 
 The Count’s patience and the Countess’ hope are at an end. He believes the PCs — a small, mobile party — can succeed where the troops failed; he offers the party Cr100,000 to track down and recover [[#Naoko]], with a 50% bonus if they destroy the cult. The sole stipulation is that Naoko is not to be harmed in any way.
 
-## Referee’s Information
+# Referee’s Information
 
 The heroes have little to go on: just [[#Naoko]]’s holopic and the sect’s last known location: a warehouse in a particularly-rough section of Startown. The warehouse is now empty, but there are signs of recent activity. If the team investigates the warehouse, they might pick up a clue as to the cult’s whereabouts on Recon 14+. If successful, throw on [[#Clue|the accompanying table]].
 In addition, while they’re in the area, each PC can throw SOC 10+ to pick up a rumor. If successful, throw on the [[#Rumor]] table below.
@@ -36,37 +31,37 @@ The team must destroy the AI; simply trying to shut it down gives it a chance to
 
 If the PCs succeed, the cultists are disoriented, but otherwise unharmed; this should indicate to the PCs that their actions weren’t fully their choice. The PCs then face a dilemma: destroy a roomful of innocent men and women to collect Count du Saint-Grave’s bounty, or leave them alive and risk his wrath.
 
-## NPCs
+# NPCs
 
-### Naoko
+## Naoko
 
 Lady Naoko du Saint-Grave, 59579C, 
 Age 24 Noble (1 term) 
 Carousing-2 
 Equipment: Combat Booster Implant
 
-### Gideon
+## Gideon
 
 Gideon Rayne, 898B96
 Age 32 Technician (3 terms) 
 Computer-2, Electronics-1 
 Equipment: Combat Booster Implant
 
-### AI
+## AI
 
 The AI Cult Leader
 Chassis Hits 27/13, INT G, EDU G 
 Programs: Admin-4, Comms-3, Electronics-2, Leadership-2, Medicine-2, Tactics-3
 This entity can coordinate up to EDUx2 humans at any one time through its minions’ implants. In combat, the computer automatically gets initiative and can act INT/3 times per round; the Referee can break these up in whatever manner (s)he sees fit. It can also directly control the [[#Robodog]]s as an auxiliary force. Its stats follow the format found in Burst Transmissions, volume 5.
 
-### Cultist
+## Cultist
 
 Peripheral Cultist
 (Rogue), Hits 7/14 
 Streetwise-1, and two ranks distributed among the following: Advocate, Computer, Electronics, Gun Combat (any), Jack-O-T, Medicine, Melee Combat (any), Recon, Streetwise, Tactics, Vehicle (any) 
 Equipment: Blade or Body Pistol; Combat Booster Implant TL 11
 
-### Robodog
+## Robodog
 
 Robodogs (Security Hunter built with Quick Robots)
 Mass: 50 kg, Hits: 18/37, Damage: 1D6, Computer/5, 

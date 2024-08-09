@@ -232,7 +232,7 @@ surface gravity is 1.51G and the atmospheric density is two bars,
 potentially impacting tourist activities. The ship and its launch must
 remain at the starport but the air/raft has permission to travel within a
 restricted range covering Drenalch’s inhabited regions, which are all at
-least 3,000 kilometres from the suspected Ancients site.
+least 3,000 kilometers from the suspected Ancients site.
 
 At the end of the period, the government makes a decision on Amaad’s
 application. Rather than roll for the result, the Referee may choose
@@ -299,17 +299,17 @@ attempt to aid the Ghenani in any attempt to thwart the theft of artefacts
 but not at a high risk to his life.
 
 DIG DETAILS:
-The suspected Ancients site lies 4,000 kilometres from the starport
+The suspected Ancients site lies 4,000 kilometers from the starport
 in a canyon in the mountains facing the open ocean. If permission is
 granted to Amaad, he may move FarStep to the location but the ship
 
 must either hover on lifters near the site, land at the open area by the
-beach eight kilometres away or attempt a landing in a narrow glade – a
+beach eight kilometers away or attempt a landing in a narrow glade – a
 Very Difficult (12+) Pilot check (1D minutes, DEX). A landing by the fast
 launch is only a Difficult check and an air/raft landing is Routine.
 
 Both landslides and river silt block access to what appears to be an
-underground complex of chambers spanning 90 metres diameter, most
+underground complex of chambers spanning 90 meters diameter, most
 of which lies below the valley’s cliffside. A surface survey – Difficult
 (10+) Electronics (sensors) check (1D hours, EDU), with a DM of the
 scanning vehicle’s sensor (FarStep could hover above and perform the
@@ -318,8 +318,8 @@ location to begin digging once Effect reaches +2. If Effect reaches -6,
 an erroneousness location is determined, adding two levels of difficulty
 to the excavating task. The end result of a successful scan campaign
 will show a complex floor plan of a single level of oval chambers and
-connecting corridors totalling 2,000 square metres, with an original
-ceiling of 1.5–2 metres height.
+connecting corridors totalling 2,000 square meters, with an original
+ceiling of 1.5–2 meters height.
 
 In FarStep’s cargo hold, Prince Amaad has brought along three heavy
 excavation drones (similar to mining drones) and eight light drones
@@ -359,13 +359,13 @@ add 2D to the total Effect required to complete the task.
 
 SITE DETAILS: ROLL 1D
 1: The site is mostly collapsed. Only the recon drones can penetrate
-the crushed tunnels and chambers and only half (1,000 square metres)
-is accessible at all. Light drones can penetrate 1D square metres per
+the crushed tunnels and chambers and only half (1,000 square meters)
+is accessible at all. Light drones can penetrate 1D square meters per
 hour autonomously or 1D + Average (8+) Electronics (remote ops)
 check (DEX) if operated remotely. Only two may proceed initially but
-after 20 square metres are cleared, the other six may join.
+after 20 square meters are cleared, the other six may join.
 
-For every 10 full square metres of progress roll 1D. On a 1 the drone
+For every 10 full square meters of progress roll 1D. On a 1 the drone
 makes a Find – see the Find Details table – on a 6, the drone is stuck
 and will require a Difficult (10+) Electronics (remote ops) check (1D
 hour, DEX) to extract, recover and repair, with cumulative failure Effects
@@ -401,43 +401,43 @@ start at MCr1.
 ```
 
 2: The site is partially collapsed. Light drones must penetrate as
-detailed in Site Details #1 for the first 100 square metres of progress
-and then can explore the next 1,500 square metres at a rate of 10
-square metres per hour. The final 400 square metres are utterly
+detailed in Site Details #1 for the first 100 square meters of progress
+and then can explore the next 1,500 square meters at a rate of 10
+square meters per hour. The final 400 square meters are utterly
 crushed and inaccessible.
 
-For every 10 full square metres of progress roll 1D. On a 1 the drone
+For every 10 full square meters of progress roll 1D. On a 1 the drone
 makes a Find – see the Find Details table – on a 6, the drone is stuck
 and will require a Difficult (10+) Electronics (remote ops) check (1D
 hour, DEX) to extract, recover and repair, with cumulative failure Effects
 of 6 resulting in a permanently disabled drone.
 
 3: The site could be partially explored by humans if interior debris is
-cleared. Light drones must penetrate the first 100 square metres to shore
-up an entrance. Humans can then explore up to 1,200 square metres at
-20 square metres per hour. The final 700 square metres are inaccessible.
+cleared. Light drones must penetrate the first 100 square meters to shore
+up an entrance. Humans can then explore up to 1,200 square meters at
+20 square meters per hour. The final 700 square meters are inaccessible.
 
-Drones and humans make a 1D roll every 10 full square metres
+Drones and humans make a 1D roll every 10 full square meters
 of progress and make a Find on a 1 – see the Find Details table –
 but humans ignore a result of 6 and drones only have a chance of
-becoming stuck during the excavation of the first 100 metres.
+becoming stuck during the excavation of the first 100 meters.
 
-4: As in 3 but after 1,000 cubic metres have been explored, make an
-extra 2D roll for every 10 square metres explored. On a 2 or a 12 to this
+4: As in 3 but after 1,000 cubic meters have been explored, make an
+extra 2D roll for every 10 square meters explored. On a 2 or a 12 to this
 roll, the drone or character has triggered a teleported pad. A drone will
 become inaccessible and seem to have just vanished or disintegrated.
 
 A Traveller who initially encounters this effect or who follows a drone
 will realise they have been teleported to another location, possibly deep
 within the planet, as communication appears impossible. Arriving at an
-arch in the middle of a 20-metre-wide chamber, the Traveller can return
+arch in the middle of a 20-meter-wide chamber, the Traveller can return
 to their original location by stepping back through the arch. The drone is
 not smart enough to discover this and will pause, waiting for instruction
-two metres beyond the arch.
+two meters beyond the arch.
 
 This new complex is similar in size to the original but had been
 evacuated in a more orderly fashion. Only check for an artefact for
-every 50 of 2,000 square metres that can be explored. There is no
+every 50 of 2,000 square meters that can be explored. There is no
 need to check for a second teleport event.
 
 5: As in 3 but the entire site was cleared once long ago. There is only
@@ -445,7 +445,7 @@ one artefact. Make one 2D Find Details roll. Optionally, trigger the
 teleport pad noted above at a random interval on a random character or
 drone. The subsequent chamber allows one more 2D Find Details roll.
 
-6: As in 1 but only 500 square metres are accessible using no more
+6: As in 1 but only 500 square meters are accessible using no more
 than two drones simultaneously to excavate and explore. Everything
 else is crushed.
 
@@ -553,7 +553,7 @@ Amaad calls Alena Drakovi
 Thursday because ‘I put
 her before any girl Friday’.
 She does not look imposing,
-being barely 160 centimetres
+being barely 160 centimeters
 and 45 kilograms, but
 she is primarily Amaad’s
 bodyguard. Thursday’s
@@ -583,7 +583,7 @@ with the prince and she never has – both of their upbringings
 make the idea unthinkable. However, their years together have
 developed a deep bond between them, despite the fact that
 neither would admit it. She will unhesitatingly sacrifice her life
-for him but he would also probably return the favour without
+for him but he would also probably return the favor without
 even consciously realising what he was doing.
 
 **‘THURSDAY’ ALENA DRAKOVI‘THURSDAY’ ALENA DRAKOVI**
@@ -874,7 +874,7 @@ Weapons
 Standard maintenance cost listed. As part of FarStep, the Fast
 Launch’s maintenance cost is included in the starship costs and
 need not be paid separately. For FarStep it is still doubled, as luxury
-fittings and an advanced entertainment centre are custom built for
+fittings and an advanced entertainment center are custom built for
 Prince Amaad’s spacecraft.
 ```
 
@@ -1056,7 +1056,7 @@ Seconds are traditionally allowed to carry a melee weapon, although
 a stunstick or stunner is more acceptable. Doctors may also carry
 the same weapons, only to be used in self-defence or to restrain
 combatants if injury occurs. Spectators and witnesses should not be
-armed and no other armed person should be within 300 metres of the
+armed and no other armed person should be within 300 meters of the
 Field of Honor.
 
 PERSONAL AUGMENTATION
@@ -1136,8 +1136,8 @@ MELEE AND COMBINATION DUELS
 All duels start on a signal, agreed upon beforehand, and may be
 audible, visible or a combination.
 
-Melee and combination duels are to take place in a 20-metre square
-area, although this may be reduced to a 10-metre square on agreement.
+Melee and combination duels are to take place in a 20-meter square
+area, although this may be reduced to a 10-meter square on agreement.
 
 A DEX or INT check is made by both duellists, the Effect of which
 becomes the Initiative for the duel.
@@ -1163,13 +1163,13 @@ happens, the firer must make a Difficult (10+) Diplomat check. If failed,
 they lose SOC-1. If they succeed, they are seen as courageous and
 merciful and, with Effect 4+, also gain SOC+1.
 
-Pistol duels may be conducted at any distance from 10 metres to
-100 metres. Each combatant should agree to the distance before
+Pistol duels may be conducted at any distance from 10 meters to
+100 meters. Each combatant should agree to the distance before
 the duel begins.
 
 Walk Duel
 Duellists in a walk duel start back-to-back. Upon hearing or seeing the
-signal they must walk 10 metres forward to turn and fire. Once they
+signal they must walk 10 meters forward to turn and fire. Once they
 have halted, they must remain in place. Diving for cover and dodging
 are not permitted, and if either of these are done the combatant will
 lose the duel and SOC-1.
@@ -1328,7 +1328,7 @@ prehistoric settlements.
 There are rumors of ruins left by the Ancients, of pyramids still
 intact after hundreds of millennia, but expeditions searching for these
 cultural sites are expressly forbidden to outsiders. The thousands of
-kilometres of unmapped land conceals still more untold historical and
+kilometers of unmapped land conceals still more untold historical and
 cultural discoveries.
 
 Sophontological, archaeological and biological research here is highly
@@ -1350,7 +1350,7 @@ HABITATION
 Modern dwellings on Aasamlaga are rustic bungalows designed for
 little impact on the environment, open and spartan for minimal waste
 and disruption to the surroundings. Some blend in so well with their
-surroundings as to be indistinguishable from only a few metres away.
+surroundings as to be indistinguishable from only a few meters away.
 
 Dwellings are grouped into small encampments with trails following
 existing wildlife paths.
@@ -1366,7 +1366,7 @@ dregs, who they view as more or less disposable.
 
 They view offworlders with disdain for being unable to live in harmony
 with their environment, as they do, but Docents will work with outsiders
-to perform unsavoury tasks. Although extremely hospitable, this only
+to perform unsavory tasks. Although extremely hospitable, this only
 makes their attitude to offworlders all the more cloying.
 
 LAW LEVEL AND FINES
@@ -1399,18 +1399,18 @@ audio in order to answer questions, provide information, guide tours
 and issue fines.
 
 ```
-● Computer/6
-● Database
-● Expert/2
+- Computer/6
+- Database
+- Expert/2
 ○ Animals (all) 2
 ○ First Aid 1
 ○ Science (biology) 2
 ○ Steward 1
 ○ Survival 1
-● Intellect/1
-● Intelligent Interface/1
-● Security/2
-● Translator/0
+- Intellect/1
+- Intelligent Interface/1
+- Security/2
+- Translator/0
 ```
 
 CARETAKR VISITOR’S BADGE (TL10)
@@ -1454,7 +1454,7 @@ check is failed under the observation of the planetary AI, a Docent,
 or groundskeeper drone, a Cr100 x Effect fine will be enforced. The
 stewards of the planet are fastidious, often maddeningly so.
 
-Every population centre on Aasamlaga is overseen by a helpful
+Every population center on Aasamlaga is overseen by a helpful
 planetary AI, which dispenses tourist advice and issues fines. Visitors
 are issued an audio-only commdot to speak with the automated
 caretaker, which doubles as a surveillance bug. Only the remote parts
@@ -1471,9 +1471,9 @@ barb. These were originally intended for nobles of old and now stand
 testament to the inherent disregard for life.
 
 At the enclosure, the quetzli are indeed stunning to behold. It is a bird-
-like reptile of over five metres in length, covered in feathery, iridescent
+like reptile of over five meters in length, covered in feathery, iridescent
 scales. For the wellbeing of the animal the enclosure is unobtrusive,
-except for a bright red line in the earth three metres outside its
+except for a bright red line in the earth three meters outside its
 perimeter. The larger quetzl seems to ignore most of the group, simply
 levelling a beady-eyed gaze upon each of the visitors.
 
@@ -1550,10 +1550,10 @@ The mission parameters are straightforward:
 - Absolutely no harm must be done to native plants or wildlife.
 - Environmental damage will incur heavy fines.
 
-The forest of mangroves has water less than one metre deep over a
+The forest of mangroves has water less than one meter deep over a
 sandy floor. The water is nutrient-rich and opaque but flows clearer
 further into the forest where it is filtered by plant life. The branches
-of the mangroves reach up to three metres overhead. Small aquatic
+of the mangroves reach up to three meters overhead. Small aquatic
 creatures hide among the exposed roots of the mangroves whilst flyers
 nest in the canopy. The network of waterways is navigable by small
 craft, although the forest itself is dense and difficult to traverse on foot.
@@ -1703,7 +1703,7 @@ Behaviour Omnivore, Hunter
 
 QUETZL
 The quetzl is a serpent covered in feathery, iridescent scales, with
-a wingspan of five metres. It is an ambush predator that waits in
+a wingspan of five meters. It is an ambush predator that waits in
 seclusion before shimmering its scales in a hypnotic dance to dazzle
 its prey. It is able to use its psionic abilities to lure sophonts into its
 grasp, where it suffocates by constriction before swallowing them
@@ -1853,7 +1853,7 @@ system altogether.
 The Rhea carries a crew of nine in double-occupancy staterooms. One
 notable feature is the larger than usual common area, allowing the
 crews of all the ships to mingle. The other is the sizeable galley, built
-due to Yanos’s favourite saying, ‘a well-fed ship is a happy ship’.
+due to Yanos’s favorite saying, ‘a well-fed ship is a happy ship’.
 
 **Rhea**
 
@@ -2447,7 +2447,7 @@ PHYSICAL CHARACTERISTICS
 As upright bilateral beings with four arms and two large legs, the Amindii
 superficially resemble Terran grasshoppers, with internal skeletons within
 their exterior of chitinous plates and finely scaled skin. Adults average 2.2
-metres tall and mass approximately 110 kilograms. External colouration
+meters tall and mass approximately 110 kilograms. External colouration
 varies with tribes but tends towards patterns of blue and purple which
 evolved as camouflage in Regina’s native forests.
 
@@ -3028,7 +3028,7 @@ administrator with a fear of flying.
 
 Recently, the elected bureaucrats of New have sought to upgrade the
 starport to Class C, believing that doing so will drive trade and tourism
-to the backwater world. Most jump 2 traders bypass New in favour of the
+to the backwater world. Most jump 2 traders bypass New in favor of the
 Class B ports at Imasaa or Eshadi. To accomplish this task economically,
 they have chosen to retrofit the existing fuel depot – previously a one-
 man operation – to a fully-fledged highport and grandiosely renamed it
@@ -3065,7 +3065,7 @@ the length of the scaffolding.
 
 Inside, the station feels like the economy model of a newly purchased
 handcomp. The walls are freshly brushed aluminium, the steel grating
-still has its mould lines and the ceramic ceilings are still bright white.
+still has its mold lines and the ceramic ceilings are still bright white.
 It all lacks the cosmetic wear exhibited by most space stations. This is
 in stark contrast to everything else on New, where a high-quality but
 broken-in saddle earns a respectful nod.
@@ -3189,7 +3189,7 @@ downport. Those that dock at Belvedere Station tend to be larger,
 unstreamlined ships needing to load bulk agricultural goods using
 their own shuttles, which often takes days. To accommodate these
 large vessels economically, the space station employs an umbilical
-corridor that extends 100 metres from the body of the station, permitting
+corridor that extends 100 meters from the body of the station, permitting
 two large ships to dock with the small station at the same time. The
 engagement mechanism is no more than a double-action airlock with a
 universal scaffold, a simple yet versatile configuration.
@@ -3207,9 +3207,9 @@ chamber, which itself opens onto the main concourse of the station.
 3. Promenade
 The ‘Promenade’ is a modest affair, a small, communal space that
 connects the dining, entertainment and hospitality facilities that
-Belvedere Station offers. It is 10 metres wide and 20 metres long, with
+Belvedere Station offers. It is 10 meters wide and 20 meters long, with
 two storefronts to the left and two to the right that open with large, roll-
-up doorways. The ceiling, five metres high, terminates in a skylight with
+up doorways. The ceiling, five meters high, terminates in a skylight with
 an unobstructed and inverted view of New; inexperienced spacers may
 find the floating planet above them unsettling. The décor is generically
 welcoming, with several plant installations showing off the local flora
@@ -3261,16 +3261,16 @@ Crew Only’.
 The entrance to the repair bay is a small, steel-grate platform
 protected from a long fall with a thin, metal guardrail. Past a gate with
 an ‘employees only’ sign on it, a long flight of stairs descends to the
-repair bay floor, a space that is 20 metres deep, 30 metres wide and
-60 metres deep. The walls of this cavernous space are adorned with
+repair bay floor, a space that is 20 meters deep, 30 meters wide and
+60 meters deep. The walls of this cavernous space are adorned with
 specialized tools and wheeled ladders facilitating access to implements
 that would otherwise be out of reach. The grating below has been
 constructed so that individual tiles can be removed in segments,
-revealing another five metres of empty space for use as parts storage
+revealing another five meters of empty space for use as parts storage
 or extra clearance. The entire place smells like grease.
 
 The opposite wall is plain steel and completely bare, with crenelations
-running horizontally across the centre. It opens outward onto the void,
+running horizontally across the center. It opens outward onto the void,
 allowing the bay to accept a spaceborne vehicle of up to 50 tons. The
 repair bay is divided into two halves, a near end and a far end, by a
 retracting aperture that can be closed to allow the repair bay to be used
@@ -3293,7 +3293,7 @@ steward. Behind the desk, a backlit sign announces the next shuttle
 departure or arrival, likely some hours away.
 
 The New highport is in geosynchronous orbit with the downport at an
-elevation of 35,000 kilometres. To facilitate the movement of people
+elevation of 35,000 kilometers. To facilitate the movement of people
 and petty goods between the surface and Belvedere Station, the shuttle
 (actually just a 20-ton launch) operates twice daily service. It departs
 the downport at 0800, arrives at Belvedere Station two hours later,
@@ -3636,7 +3636,7 @@ network are slowly being shaken back into life and criminals who
 never looked beyond the boundaries of their neighborhood are now
 considering crime on an interstellar scale.
 
-The strength of the Vriterbei is their cultural continuity. Analysts theorise
+The strength of the Vriterbei is their cultural continuity. Analysts theorize
 that the Vriterbei combine the criminal ethos and familial loyalty of the
 Cosa Nostra with Vilani rigidity and tradition.
 
@@ -3949,7 +3949,7 @@ due to a blight imported from offworld and the plan to convert the planet’s
 Class D starport into Class B had been delayed by another 20 years.
 
 A coup seized the capital city and surrounding territory, and held
-it for nearly three weeks before the king abdicated in favour of his
+it for nearly three weeks before the king abdicated in favor of his
 considerably more popular niece. Public opinion turned against the
 revolutionaries, the army closed in on the capital and the leaders of the
 coup fled offworld. Rabwhar forgot about the Seventeen Day Democracy.
@@ -4042,13 +4042,13 @@ time for half an Avastan year of 50 standard days. The extremes
 of temperature during these long periods of light and dark, locally
 referred to as ‘Summerbright’ and ‘Winterdark’, leave the polar
 regions on average warmer than the equator. The Great Northern Sea
-sits within the Northern Basin, an ancient 3,500-kilometre-wide crater
-that sinks nearly five kilometres below mean surface altitude. This
+sits within the Northern Basin, an ancient 3,500-kilometer-wide crater
+that sinks nearly five kilometers below mean surface altitude. This
 provides a relatively warm region where some agriculture is possible
 and where some well-acclimated humans can breathe unaided for a
 limited period of time.
 
-Gatha, a 320-kilometre-wide volcanic island in the centre of the basin,
+Gatha, a 320-kilometer-wide volcanic island in the center of the basin,
 is home to Avastan Downport and 500,000 of Avastan’s 700,000
 citizens. Half of the remaining population lives within the basin, along
 the sea’s shore or in seasonal river valleys that flow into the sea.
@@ -4229,9 +4229,9 @@ atmosphere for at least part of the year. The majority of this liquid water
 is located in Great Northern Sea in the northern polar region and in the
 briny smaller bodies of water inside the eroded craters of the equatorial
 Lake District. The proximity of Avastan to Zend drives a strong solar
-tide, reaching close to seven metres in the largest lakes. Tides in the
+tide, reaching close to seven meters in the largest lakes. Tides in the
 Great Northern Sea are not pronounced near solstice but can exceed
-20 metres in some areas near the equinox, a period known as the
+20 meters in some areas near the equinox, a period known as the
 ‘Spring and Autumn Flooding’.
 
 Most of the land area not covered in water or ice is cold desert
@@ -4252,9 +4252,9 @@ polar region.
 As with most worlds with extreme axial tilt, the poles have higher
 average temperatures than the equatorial regions, although altitude
 differences account for significant changes in temperature at a rate
-of approximately 3° C per kilometre. Accordingly, Avastan Downport,
-located on the island of Gatha near the centre of the Great Northern
-Sea at an altitude of 4,810 metres has a mean annual temperature
+of approximately 3° C per kilometer. Accordingly, Avastan Downport,
+located on the island of Gatha near the center of the Great Northern
+Sea at an altitude of 4,810 meters has a mean annual temperature
 of 9.4° C and the agricultural regions on the far shore of the Great
 Northern Sea have mean annual temperatures of 7.8° C. In the
 equatorial Lake District, the warmest mean annual temperatures at the
@@ -4333,10 +4333,10 @@ human evolution. The fog flower (nebelelifera avastanis) and the ice
 moss (mastiri avastanis) are clearly locally adaptive relations of their
 Tarsus counterparts and only exist in the Northern Basin. The Avastan
 fog flower only sprouts once per year, within a local day of the solstice,
-when the plant suddenly shoots up narrow stalks up to 30 centimetres
+when the plant suddenly shoots up narrow stalks up to 30 centimeters
 tall, sprouts yellow and orange flowers and releases pollen that combines
 to spawn wing-like seeds. The grey-coloured Avastan ice moss grows
-throughout Summerbright, reaching a height of five to ten centimetres
+throughout Summerbright, reaching a height of five to ten centimeters
 before releasing spores in the final days before the equinox.
 
 Attempts to import other flora from Tarsus have met with limited
@@ -4827,7 +4827,7 @@ ON SAFARI
 Skills Required: Gun Combat, Steward, Survival
 Patron: Marchesa Saddiv von Varren
 Reward: Cr1000/week
-Description: The Marchesa and her favourite rocket launcher are
+Description: The Marchesa and her favorite rocket launcher are
 going on safari. She needs a few strapping servants to herd the local
 wildlife into her crosshairs
 
@@ -4887,7 +4887,7 @@ Patron: Grendel Thorn, Scrapper
 Reward: Cr500/week
 Description: The wreck of an old 800-ton freighter, the Mirabel, is in
 orbit. The jump drives and other key components have already been
-stripped but there are still thousands of kilometres of fibre-optic cabling,
+stripped but there are still thousands of kilometers of fibre-optic cabling,
 superconductive power cables, jump gridding, computer terminals and
 other salvageable parts. The ship lacks life support, gravity and power;
 here is a vacc suit and a crowbar, salvage what you can. Oh, the ship will
@@ -4966,7 +4966,7 @@ Complications (1D):
     unusual and the x-boat network has been ordered not to carry
     information out of the subsector.
 2. A corporation approaches the Travellers, offering them a bribe
-    if they will report favourably on the corporation’s increasingly
+    if they will report favorably on the corporation’s increasingly
     disastrous effort to terraform a border world. The corporation is
     trying to attract settlers to the planet.
 3. JTAS sends the Travellers a packet of tickets for bizarre tourist
@@ -5011,7 +5011,7 @@ Complications (1D):
     environment but because of a doomsday weapon left over from war.
 3. The war is still being fought; the two sides both have deeply buried
     bunkers and armored warriors emerge from these underground
-    fortresses to fight for a few square kilometres of scorched earth.
+    fortresses to fight for a few square kilometers of scorched earth.
 4. The Jahanum Archaeological Society is specifically interested in
     recreating the events that led up to the war, such as recordings
     made inside the office of the President of the Union.

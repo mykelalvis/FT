@@ -509,7 +509,7 @@ round. In any round where hull damage is zero (or less), the damage
 control attempt has been successful and the ship will not suffer more hull
 damage from this source.
 
-_For example, a subsidised merchant is suffering cascading hull failure at
+_For example, a subsidized merchant is suffering cascading hull failure at
 a rate of 4D Hull per round. Her crew achieve a total Effect of 5 on their
 damage control checks but the Referee rolls 17 on 4D for Hull damage.
 The ship loses an additional (17-5) = 12 Hull. Next round the crew
@@ -537,7 +537,7 @@ almost as widespread as at the present.
 
 ```
 Beaked monkeys typically weigh 2 to 3 kilograms and measure 60-
-centimetres in length, half of which is generally taken up by the tail. Tails
+centimeters in length, half of which is generally taken up by the tail. Tails
 are sometimes bobbed on animals kept aboard spacecraft. Beakers are
 covered by short fur, most commonly brown or grey. Black is rare, and
 white extremely so (roll 2D for 2-7 brown, 8-10 grey, 11 black and 12 white).
@@ -578,7 +578,7 @@ potential by making a successful PSI check.
 
 ```
 The beaker must live in close proximity with the human desiring the
-boost for at least three months. They must then be within one metre
+boost for at least three months. They must then be within one meter
 of each other during the time the boost is taking place. If this distance
 is exceeded, roll 2D. On 6+ the beaker will die. Roll once each combat
 round while the separation continues.
@@ -623,8 +623,8 @@ TL5-9.
 
 ```
 These strong, hairy animals mass between 50-70 kilograms when full
-grown, stand 80 centimetres high at the shoulder and average 230
-centimetres in length, including the bushy tail. They are omnivores,
+grown, stand 80 centimeters high at the shoulder and average 230
+centimeters in length, including the bushy tail. They are omnivores,
 preferring small, burrowing animals or hive insects, which they dig up
 with their foreclaws, but can subsist on berries and sweet grasses. This
 adaptability has let them adjust to, and thrive on, a number of planets in
@@ -669,7 +669,7 @@ single-mindedness makes them unattractive as pets but because of their
 intelligence and fierce loyalty, human handlers frequently become quite
 attached to their charges. Bloodvarks are oviparous and bisexual. The
 female digs a den in soft earth under a fallen tree or large boulder, buries
-two or three 15 centimetres eggs under loosely packed soil and lays over
+two or three 15 centimeters eggs under loosely packed soil and lays over
 them until they hatch. The young dig themselves out and cling to the
 mother’s abdominal hair, where they hang and nurse for about 5 months.
 
@@ -688,7 +688,7 @@ planets in those regions.
 ```
 
 ```
-Adults are typically 100 to 120 centimetres in length, and weigh from
+Adults are typically 100 to 120 centimeters in length, and weigh from
 20 to 25 kilograms. The skeleton is calciferous, internal, and generally
 resembles that of a Terran vertebrate, except in the number of limbs and
 framing of the body cavity. The spinal column runs from the base of the
@@ -1392,9 +1392,9 @@ Motivations
 Security forces are organizations with one overall aim; to ensure a given
 area (from a single facility to the entire Imperium) is safe and controlled.
 Different governments will emphasise one part of ‘safe and controlled’ over
-another. Those with absolute or non-accountable power typically favour
+another. Those with absolute or non-accountable power typically favor
 control, a stable society and no threats to their power. More representative
-and charismatic leaders tend to favour safety, justice and individual rights;
+and charismatic leaders tend to favor safety, justice and individual rights;
 trusting in the support of a voluntarily law-abiding population.
 
 Law and Justice: Forces whose primary motivation is to uphold the law
@@ -1652,7 +1652,7 @@ passive monitoring, with significant resources available when needed.
 Impersonal: The security forces are less concerned with individual rights
 and justice, and more with the laws themselves and public order. A Difficult
 (10+) Advocate check can reverse the negative DM on sentencing rolls
-on these worlds, as Travellers use the letter of the law to their favour.
+on these worlds, as Travellers use the letter of the law to their favor.
 Militarised: All key security forces are military in nature. Typically more
 heavily armed and armored than civilian security forces, they will
 normally be granted significant latitude by the government.
@@ -2024,7 +2024,7 @@ last in town.
 ```
 It is obvious to the local peace officer, Constable Monteray, that something
 bad has happened at Laster’s home village. He cannot investigate
-himself as every hunter or trapper within 200 kilometres is in town or will
+himself as every hunter or trapper within 200 kilometers is in town or will
 be soon, selling their catch to be shipped offworld. Monteray is the only
 law in town and right now the entire planetary economy is being bartered
 in the marketplace.
@@ -2094,7 +2094,7 @@ Midway through the first day’s ride, the Travellers discover an
 abandoned snowmobile. If they stop to inspect it, the Travellers will
 discover title documents identifying it as LeBarre’s. They will also find
 a large oil leak in one of the high-pressure lines. LeBarre walked or
-ran almost 100 kilometres in sub-zero temperatures with no food to get
+ran almost 100 kilometers in sub-zero temperatures with no food to get
 back to Lucky Downs.
 
 After the second day’s travel, the Travellers will arrive at the village,
@@ -2204,7 +2204,7 @@ The AT-4 snowmobile is designed for operations in rougher terrain
 than standard arctic terrain transport. Its blocky central body runs on
 four separate track units, each of which has an inner and outer track.
 Front and back tracks are independently steerable and can climb over
-obstacles up to one metre in height. The AT-4 can run on three track
+obstacles up to one meter in height. The AT-4 can run on three track
 units, enabling it to continue moving despite total traction loss on one
 track unit – or crippling damage to it.
 
@@ -2565,7 +2565,7 @@ A successful Pilot check indicates the craft is safely down and the
 landing was as good as could be expected. A heavy-handed ‘lawn
 dart’ landing (as some pilots call the more solid approach) will always
 be bumpy and looks clumsy – although less clumsy than bouncing 20
-metres across the pad, overcorrecting the movement and shooting off
+meters across the pad, overcorrecting the movement and shooting off
 in a different direction.
 ```
 
@@ -2632,7 +2632,7 @@ for a low-difficulty landing and fails the check should suffer less serious
 consequences than one who was hoping for perfection but falls far short,
 due to greater margins for error.
 
-_For example, the pilot of a subsidised merchant wants to land in the
+_For example, the pilot of a subsidized merchant wants to land in the
 middle of a storm on a dense atmosphere world. With a total DM-5 for the
 conditions, the pilot decides to play safe and shoot for a Heavy landing.
 This is a Routine (6+) Pilot check with DM-5 for the conditions and DM+2
@@ -2654,7 +2654,7 @@ attempt at perfection._
 ##### THE VIRUSHI
 
 ```
-With a length of nearly three metres, standing close to 180 centimetres
+With a length of nearly three meters, standing close to 180 centimeters
 at the shoulder and massing close to 1,000 kilograms, the Virushi are
 among the largest intelligent races known to the Imperium. Virshash
 is a Size A, dense atmosphere world just within the borders of Imperial
@@ -4069,7 +4069,7 @@ Salvage Value
 ```
 
 ```
-For example, the Travellers find the wreck of a subsidised merchant. The
+For example, the Travellers find the wreck of a subsidized merchant. The
 vessel was 30 years old when she suffered a serious incident and was
 lost. Her condition at the time was typical of an independent merchant
 ship – slightly run down but with regular-ish maintenance. This adds up
@@ -4140,7 +4140,7 @@ remainder by as much.
 70
 
 ```
-For example, the wreck of a subsidised merchant has a salvage value of
+For example, the wreck of a subsidized merchant has a salvage value of
 MCr16. The Travellers make a Quick Pillage of the salables, getting an
 Effect of 2 on their Engineer check. This is worth D3% per point of Effect;
 the Travellers roll an impressive 6 and manage to pull Cr960000 worth of
@@ -4197,7 +4197,7 @@ swivelling around to give access to a bank of sensors and instruments.
 These, like the crane on top of the vehicle, are intended to assist a project
 once the vehicle is in situ. The crane is occasionally used to rescue other
 vehicles or reposition equipment but for the most part the F-500 acts as a
-command centre and brain, sitting at the centre of a web of power take-off
+command center and brain, sitting at the center of a web of power take-off
 cables feeding everything from lights to heavy earthmoving equipment.
 
 Behind the cab is a small living area with bunks for up to eight people,
@@ -4406,7 +4406,7 @@ formed a special fire-fighting unit, equipped – at great expense – to
 handle complicated urban or industrial fires. The unit was better than
 either country could have afforded individually. It was stationed in Azacul,
 the capital of Handor but could operate freely in both countries. The
-capitals of Handor and Castica are only 10 kilometres apart, with a good
+capitals of Handor and Castica are only 10 kilometers apart, with a good
 road connecting them, so the arrangement was mutually beneficial – at
 least until recently. A week ago, the government of Handor nationalised
 the unit, expelled all the unit’s Castican personnel and prohibited it from
@@ -4489,10 +4489,10 @@ delivered totally undamaged. If only one vehicle is recovered, they will be
 paid half the promised amount. If the Travellers kill or injure anyone, or if
 they are caught or killed, Castica will deny any involvement.
 
-The elite firefighting unit consists of two vehicles with 30 metre ladders
-and two vehicles with 12 cubic metre foam tanks and sophisticated
+The elite firefighting unit consists of two vehicles with 30 meter ladders
+and two vehicles with 12 cubic meter foam tanks and sophisticated
 protective equipment for the firemen. All trucks are capable of 120
-kilometres per hour, have a range of 150 kilometres and are painted a
+kilometers per hour, have a range of 150 kilometers and are painted a
 high visibility yellow.
 
 The vehicles are stationed in the Azacul main fire station, situated in
@@ -4613,9 +4613,9 @@ one or more larger tanks.
 
 Rescue Ladder: An extendable ladder on a swivel turntable, supported
 by heavy structural reinforcement and a set of deployable stabilizers.
-A vehicle may carry a ladder 10 metres long plus five metres for every
-10 Spaces it has. Each 10 metre section of ladder uses up four Spaces
-inside the vehicle. Cost is Cr1000 per metre.
+A vehicle may carry a ladder 10 meters long plus five meters for every
+10 Spaces it has. Each 10 meter section of ladder uses up four Spaces
+inside the vehicle. Cost is Cr1000 per meter.
 
 78
 
@@ -4708,7 +4708,7 @@ ADVANCED FIRE ENGINE
 Two of the advanced firefighting vehicles based at Jaco are designed
 for rescue work rather than chemical-laced fires. They have a full set
 of hoses and suppression gear but their primary equipment is a high-
-precision ladder capable of reaching 30 metres up a building or across
+precision ladder capable of reaching 30 meters up a building or across
 an obstruction to create an escape bridge. The vehicle is as fast and
 manoeuvrable as its stable-mates and built on the same chassis –
 although without the advanced life support features.
@@ -4829,7 +4829,7 @@ repair work on the local starport or other installations until it is needed.
 Generally speaking, the fee for rescuing a craft that is totally disabled –
 whether that means it requires major repairs in place or has to be towed
 to safety – is calculated at 0.1% of its current value. For example, if
-a brand-new a 600-ton subsidised liner (worth MCr161.523) suffered a
+a brand-new a 600-ton subsidized liner (worth MCr161.523) suffered a
 drive failure, the salvage crew who brought it into dock could expect a fee
 of Cr161523, likely rounded off to the nearest Cr10000.
 ```
@@ -4902,7 +4902,7 @@ Any amount of thrust is sufficient to eventually effect a change in velocity
 and, in any case, harsh acceleration is best avoided. When towing
 another craft, the combined mass of both vessels is used to determine
 acceleration. A 100-ton tug with Thrust 4 can make 4g acceleration when
-unladen but when towing a 400-ton subsidised merchant its acceleration
+unladen but when towing a 400-ton subsidized merchant its acceleration
 will be greatly reduced. The simplest way to calculate this is:
 ```
 
@@ -5644,7 +5644,7 @@ authority their cheap and ill-fitting uniforms project and there is a culture
 of ‘deal with it yourself’, which the Referee decides is also dictated by
 low funding. Those who constantly request scarce resources or pull
 response units away from guarding the businesses of the social elite can
-earn the disfavour of superiors, which in turn is career suicide.
+earn the disfavor of superiors, which in turn is career suicide.
 ```
 
 ## CHARTED SPACECHARTED SPACE
@@ -5670,7 +5670,7 @@ PEAK TANGLER
 Peak tanglers originated on some distant thin-atmosphere world and
 spread over the centuries to many systems. They are extremely light,
 tenuous webs of fibre, each with many super-fine hairs extending in the
-manner of feathers. When fully unfurled the web can be three metres
+manner of feathers. When fully unfurled the web can be three meters
 or more across, or curled up to create a ball the size of a small pebble.
 When curled, a peak tangler is still very light but dense enough to fall to
 the ground. The unfurled web can catch the slightest updraft and lift the
@@ -5711,9 +5711,9 @@ further growth whilst slowly killing the plants beneath. Eventually, the
 tangler will die but by that time it will have pulled all the organic matter
 out of the ground beneath it, leaving dead soil in which nothing else
 will grow. The process can take years or even decades, during which
-a single grounded tangler can become a mat of fibres several metres
+a single grounded tangler can become a mat of fibres several meters
 deep and hundreds across. The very largest infestations have been
-known to reach tens of kilometres in width.
+known to reach tens of kilometers in width.
 ```
 
 ```
@@ -5751,8 +5751,8 @@ an ARX nearby resulted in the term being used as an identifier.
 
 ARX are space-going creatures that resemble asteroids from a distance.
 Most are roughly shaped like a rugby ball, with protrusions and contours
-that resemble natural features of an asteroid. Most are less than 30 metres
-long on their main axis and 15-20 metres wide but larger individuals are
+that resemble natural features of an asteroid. Most are less than 30 meters
+long on their main axis and 15-20 meters wide but larger individuals are
 rumored to exist. Their life cycle is something of a mystery but it seems
 that ARX absorb energy from stellar radiation and particles of matter
 drifting in space. How they reproduce is entirely unknown; indeed hard
@@ -5832,9 +5832,9 @@ the hive’s psionic talents, and the amount of food it requires to sustain
 its ‘mind’, correlate to the area of the seaweed mat, which means that
 doubling in radius requires four times as much food to sustain.
 
-The mat is currently around 4 kilometres in radius. It has shrunk to a little
-less than one kilometre at times and never been observed at more than
-9 kilometres. An increase in size means an increase in psionic ability and
+The mat is currently around 4 kilometers in radius. It has shrunk to a little
+less than one kilometer at times and never been observed at more than
+9 kilometers. An increase in size means an increase in psionic ability and
 therefore more food attracted over a greater area but this exhausts local
 resources, causing a new contraction. The mat has also been observed
 to change locations in a manner that does not correspond to wind or
@@ -5855,14 +5855,14 @@ replicate traits possessed by non-psionic creatures.
 
 ```
 Psionic Strength: The PSI characteristic of the hive depends upon its
-size. For every kilometre in radius the hive gains, D3 is added to its PSI.
+size. For every kilometer in radius the hive gains, D3 is added to its PSI.
 Thus at its present radius of 4km it has PSI 4D3, averaging around 8.
 The hive’s psionic strength replenishes at the rate of D3 points per hour.
 ```
 
 ```
 Psionic Reservoir: The hive’s unique structure acts as a psionic reservoir,
-storing 1D points per kilometre of radius. This means that at its present
+storing 1D points per kilometer of radius. This means that at its present
 4km radius it typically has 4D points of stored psionic power, averaging
 around 14. This reservoir can be used before its PSI characteristic and is
 replenished by transferring from its PSI.
@@ -5902,7 +5902,7 @@ defence.
 
 ```
 Psionic Skills: The hive is treated as having a psionic skill levels of 1 +1
-per full 3 kilometres of radius. At present this indicates a skill of 2 for its
+per full 3 kilometers of radius. At present this indicates a skill of 2 for its
 talents, a reasonable level but one not directed by rational thought. It is
 not known if there is an upper limit to the hive’s capabilities.
 ```
@@ -6161,11 +6161,11 @@ Weapon Scanner
 ```
 A handheld device using simple magnetism, magnetic resonance
 scanning and an ultrasound emitter, the weapon scanner can detect
-most known personal weaponry at a distance of a dozen metres or
+most known personal weaponry at a distance of a dozen meters or
 so. Its primary use is to ensure guests do not smuggle weapons into
 a secured area and that ‘unarmed’ diplomats really are so. It can also
 detect large amounts of explosives and propellants at a distance of 50
-metres or more, giving an indication of where artillery ammunition may
+meters or more, giving an indication of where artillery ammunition may
 be stored or whether a bomb has been planted.
 ```
 
@@ -6173,7 +6173,7 @@ Biochemical Sampler/Scanner
 
 ```
 A handheld biochem scanner can detect most harmful gases, spore clouds
-and the like at a distance of tens of metres and can conduct analysis of
+and the like at a distance of tens of meters and can conduct analysis of
 compounds by way of a sampler and probes. The unit is designed to be
 useful to untrained personnel and can automatically conduct basic tasks.
 It will also give warnings of hazardous conditions such as low or high air
@@ -6237,7 +6237,7 @@ dressed individual who, when met, will probably be unemployed. He
 can present excellent credentials showing years of experience handling
 a variety of ship types but, considering the demand for good pilots,
 his appearance and lack of current work will seem suspicious. A little
-research into his background at any starport computer information centre
+research into his background at any starport computer information center
 (consulting lists of accredited pilots, for example) will turn up the fact that
 Ramon has been blacklisted by a large corporation, Acreidiat Lines. The
 notation ‘un trustworthy’ appears beside his name.
@@ -6330,7 +6330,7 @@ possible romantic/revenge aspects of the situation.
 Dunbar is cold, business-like and unfriendly, with a tendency towards
 jealousy that is easily triggered by attention to his wife. Leila, much
 younger than her husband, is restless, and tired of being neglected in
-favour of business. Either one could be a valuable friends (or a dangerous
+favor of business. Either one could be a valuable friends (or a dangerous
 opponent) due to their influence in local business circles.
 ```
 
@@ -6646,7 +6646,7 @@ or death. Examples include weapons of mass destruction.
 
 ```
 BASE PRICE
-The black market is heavily biased in favour of those with the right
+The black market is heavily biased in favor of those with the right
 connections. This will rarely be the Travellers, so they will have to
 pay the asking price (which will be inflated) or accept a low price for
 what they are selling. If they can get a better deal elsewhere, they are
@@ -6750,8 +6750,8 @@ highport via tight beam on the standard frequency.
 ```
 Space combat begins with an encounter. The first thing that must be
 established is the initial range. Traveller classifies ranges starting with
-adjacent (about one kilometre, visible to the naked eye) to Distant (more
-than 50,000 kilometres) at which only minimal details can be made out
+adjacent (about one kilometer, visible to the naked eye) to Distant (more
+than 50,000 kilometers) at which only minimal details can be made out
 even when using advanced sensors. Obtaining detailed information
 about another ship at Long or greater range is a bit like finding a needle
 in a haystack, a tiny spark of energy and movement seen across the vast
@@ -6966,8 +6966,8 @@ desired distance. The first method uses the following equation:
 For the sake of simplicity, the Referee may simply determine the distance
 to the jump point and then add the escaping ship’s thrust to a running
 total each round. One point of thrust from a full stop covers approximately
-2,000 kilometres, so after two rounds, a ship with continuous Thrust 1
-covers 4,000 kilometres. After three rounds, it covers 6,000 kilometres
+2,000 kilometers, so after two rounds, a ship with continuous Thrust 1
+covers 4,000 kilometers. After three rounds, it covers 6,000 kilometers
 and so on. With a decent head start, even a free trader might make it to
 the jump point and get out of a system before its pursuers can get close
 enough to attack.

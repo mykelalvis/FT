@@ -807,7 +807,7 @@ Contact.
 succeed, you gain one level in Computers, Mechanic or Science.
 64 You get into a political debate with a member of the bridge staff. Throw Social Standing 8+. Fail and you say
 something you will always regret and you cannot pass your Advancement roll this term. Succeed and you are looked
-at more favourably, gaining a +2 DM to your next Advancement roll.
+at more favorably, gaining a +2 DM to your next Advancement roll.
 65 Your ship’s captain takes an interest in your career. Either gain Tactics, or take a +4DM to your next Advancement
 roll thanks to his aid and advice.
 66 You display heroism in battle. You may gain a promotion or a commission automatically.
@@ -1304,7 +1304,7 @@ and you seek to adjust to a different life.
 dd66 66 EEventsvents
 11 Disaster! Roll on the mishap table, but you are not ejected from this career.
 12 Your unit uses you to make a video threat to send to the local government. Decrease your Social Standing by 1 and
-gain an Enemy in that organization. Those favourable to your cause now recognize you as a hero, gain 1D3 Contacts.
+gain an Enemy in that organization. Those favorable to your cause now recognize you as a hero, gain 1D3 Contacts.
 13 You are told to go undercover with the enemy to get more information about your targets. Gain one of Carouse 1,
 Deception 1, Investigate 1 or Recon 1.
 14 An anti-guerrilla expert has been hired to deal with your unit. Throw Tactics 8+. If successful, you gain +4 to your
@@ -1618,7 +1618,7 @@ result of this your unit is one of those pushed out as political pressure forces
 
 RRoll d66oll d 66 EEventsvents
 11 Disaster! Roll on the mishap table, but you are not ejected from this career.
-12 A local media source covered your unit’s actions in a very favourable light. Increase your Social Standing by 1.
+12 A local media source covered your unit’s actions in a very favorable light. Increase your Social Standing by 1.
 13 You are forced to stay in a hostile zone far longer than what you would like. Throw Endurance 8+ to avoid Injury.
 Success means you made it out unscathed and well-practiced. Gain Gun Combat (any) 1 or Heavy Weapons (any) 1.
 14 Artillery fire had scattered your offensive. Throw Leadership 8+ to rally the unit back together to finish the ticket.
@@ -1881,17 +1881,17 @@ figure out how to use it.
 
 #### Mercenary Retirement Benefits – Friends &
 
-#### Favours
+#### Favors
 
 Unlike many of the common career classes presented in Traveller ,
 mercenaries are not fortunate enough to receive a retirement
 package – they rarely live long enough to receive one anyway! They
-do however, get access to a network of old friends and favours that
+do however, get access to a network of old friends and favors that
 non-mercenary characters do not.
 
 A character that leaves a mercenary service at the end of the 5th or
 later term of service is assumed to have created one of these friend
-and favour networks. They are allowed to roll on the table below
+and favor networks. They are allowed to roll on the table below
 once for each term beyond the 4th they spent in the career. The
 results are added benefits that the character receives.
 
@@ -2032,7 +2032,7 @@ will automatically be awarded a Combat Ribbon. These will include
 a citation that will detail the character’s name, rank, unit and the
 name and date of the action. Although the Imperium does keep
 track of such awards they are not advertised greatly, although on
-smaller planets or settlements a well-travelled favourite son may
+smaller planets or settlements a well-travelled favorite son may
 well get a mention in the local news media if he receives a Combat
 Ribbon.
 
@@ -2186,7 +2186,7 @@ The character is trained in the rapid construction of field fortifications,
 large-scale camouflage, the appraisal of a structure’s ability to
 withstand enemy fire, landmine placement and removal, and/or
 placement of passive ground sensors. Essentially the battlefield is
-the character’s to mould as he sees fit.
+the character’s to mold as he sees fit.
 
 SSpecialitiespecialities
 
@@ -2254,7 +2254,7 @@ angle: 10-60 seconds, Education, Average (+0), Opposed
 by potential targets. The damage from the explosive is
 multiplied by the Effect.
 Creating a lesser charge from household chemicals: 1-6 hours,
-Education, Difficult (-2). Base Radius is 1 metre and Damage
+Education, Difficult (-2). Base Radius is 1 meter and Damage
 is x2, either of which can be added to by points of the Effect
 (1 for 1 basis).
 
@@ -2333,7 +2333,7 @@ SSpecialitiespecialities
 - TTorture: This speciality governs the collection of emotional, orture:
     physical and psychological methods in which an interrogator
     can get a victim to break. Through an assortment of
-    unsavoury methods, the character can get anyone to say
+    unsavory methods, the character can get anyone to say
     what he needs them to.
     _Knowing a true confession from a false one:_ 1-6 Seconds,
     Intelligence, Routine (+2).
@@ -2911,7 +2911,7 @@ something as simple as the amount of monetary compensation
 being offered to the length of time the ticket is active, all of these
 things are discussed and decided.
 
-Some administrators might gloss over certain details in favours of
+Some administrators might gloss over certain details in favors of
 others, but everyone is obviously interested in getting their way.
 This is where an employer can lose a mercenary if they are too strict
 and are not willing to meet the unit’s terms. The mercenary can also
@@ -5519,7 +5519,7 @@ like a common round at a single target up to Short range, using
 the standard statistics for the weapon. If firing at a target or group
 of targets at Medium or Long range, the frag shell has its damage
 reduced to 2d6 but gains a +1DM bonus to hit, and can hit not only
-the target aimed at but also anyone (friend or foe) within 1 metre of
+the target aimed at but also anyone (friend or foe) within 1 meter of
 the initial target.
 
 #### Suppression Fire
@@ -5702,7 +5702,7 @@ rules. They are as follows.
 - Close Air Support (CAS) – Close Air Support (CAS) – Aircraft of any sort that support
     land troops. These can include aeroplanes, helicopters and
     grav vehicles designed for this role.
-- Command – Command – The primary leadership centre of the entire
+- Command – Command – The primary leadership center of the entire
     force.
 
 #### Creating A Military Force
@@ -6271,7 +6271,7 @@ It presents dozens of options and potential ideas for players to
 build their own bases or Referees to prepare the headquarters of
 the people the characters will be interacting with. Hearing that a
 mercenary unit is big is one thing, but having a unit member give
-the Player Characters a guided tour of their seventy-square kilometre
+the Player Characters a guided tour of their seventy-square kilometer
 walled complex can make a huge difference in how they perceive
 that mercenary unit.
 
@@ -6282,7 +6282,7 @@ that mercenary unit.
 Unless a unit’s various members spend every minute of every
 day together, they will need to arrange for a central location (or
 locations) to serve as their ‘home base’. This should serve as the
-intelligence centre, meeting hall, home away from home, and
+intelligence center, meeting hall, home away from home, and
 equipment storage facility – amongst other purposes. It is where
 the unit’s officers connect with their fellow members, and military
 operations are planned.
@@ -6512,7 +6512,7 @@ tthe members of the unit?he members of the unit?
 For a base to truly be effective as the central hub for the unit, it must
 be able to reach the members of the unit in the case of necessary
 information or impending gatherings. Early technology might use
-brightly coloured pennants that can be seen for many kilometres,
+brightly coloured pennants that can be seen for many kilometers,
 radio transmitters and the like. As technology increased bases
 could utilise teleconferencing and other high-tech communication
 methods. The unit hierarchy at the base must be able to communicate
@@ -6585,7 +6585,7 @@ simulation software is available at higher technology levels, and can
 sometimes take up a surprisingly little amount of space. These sorts
 
 of facilities can be expensive to arrange on the frontier, but the unit
-will be thankful for such small favours.
+will be thankful for such small favors.
 
 #### Medical Bays
 
@@ -6769,7 +6769,7 @@ low wall surrounding the entire courtyard area. The central building
 is where the army’s leaders live and plan, or where important
 equipment and documents are kept. Additionally, the top of this
 often-taller structure is used as a lookout point, overseeing the
-entire compound and many kilometres around if possible.
+entire compound and many kilometers around if possible.
 
 Additional buildings will be barracks, equipment or food storage,
 and several more specialized locations that the army might have
@@ -7043,7 +7043,7 @@ body armor is to help with occasional shrapnel and flak rather than
 direct hits from an enemy’s weapon,
 
 Military bases can now be small cities within their boundaries,
-sometimes several kilometres from end to end. The addition of
+sometimes several kilometers from end to end. The addition of
 aquatic vessels large enough to serve as mobile bases for naval
 forces brings a new malleability to military command. From a single
 aircraft carrier a few officers could direct and lead entire campaigns
@@ -7100,7 +7100,7 @@ make a profit. Wars had simply gotten too big and destructive for
 a good mercenary unit to survive, so they hire out to the private
 sector. A corporation that needs a shipment to get through an area
 safely might hire a few mercenaries to serve as its escort, with other
-less savoury duties falling upon their shoulders from time to time.
+less savory duties falling upon their shoulders from time to time.
 
 #### MILITARY MECHANISED ROUTING POINT
 
@@ -7277,7 +7277,7 @@ keep central quarters and common areas for the unit to interact
 socially. Nearby the primary airlock will always be negotiation rooms
 and communications chambers for bringing potential employers’
 administration agents on board. There is something to be said for
-the added security being hundreds of thousand of kilometres away
+the added security being hundreds of thousand of kilometers away
 from anyone brings when the negotiation process begins with a new
 client.
 
@@ -7456,7 +7456,7 @@ them later.
 Not all units and freelance teams can be so lucky however.
 Sometimes it takes a ‘right-place, right-time’ aspect to get a good
 supplier to deal with the Player Characters or mercenary unit, other
-times it could be dealing with an unsavoury ‘friend of a friend’.
+times it could be dealing with an unsavory ‘friend of a friend’.
 Getting the money to pay for new equipment is only half the process;
 the hardest part is finding someplace to buy it.
 
@@ -7634,7 +7634,7 @@ implanted in the armor keep track of registered friendly transponders
 (the suit comes with 100 transponders) and marks targets without
 transponders as enemies. This information shows up on a visor-
 based HUD, allowing the wearer to know the exact location of
-allies and enemies with his line of sight or up to a kilometre away,
+allies and enemies with his line of sight or up to a kilometer away,
 whichever is greater, giving a +1 DM bonus to any Tactics throws.
 Friend or Foe HUD costs Cr 4,000. Additional transponders cost Cr
 100 for twenty.
@@ -7794,7 +7794,7 @@ Laser Pistol 10+ Cr 25,000
 MMechanostatic Scanner (TL13): echanostatic Scanner (TL 13 ): One of the character’s ears
 have been augmented with a manually activated device similar to
 a communications scanner. When activated, any cybernetically
-augmented individuals within twenty metres will give off a traceable
+augmented individuals within twenty meters will give off a traceable
 buzz that the character can hear. Although this does not help in any
 way, it can help the character be aware of augmented threats nearby
 his location. Costs Cr 10,000 with an Availability of 9+.
@@ -8060,7 +8060,7 @@ Availability 8+. Cost Cr 12,000.
 #### Options
 
 SSelf-Destruct: elf-Destruct:
-Explodes as per a frag grenade with a 5 metre radius when directed
+Explodes as per a frag grenade with a 5 meter radius when directed
 to do so with a Remote Operations throw 9+, but increases the
 drone’s cost by 25%. The high cost is to protect the drone from
 accidental or enemy self-destruct activation.
@@ -8085,7 +8085,7 @@ they react. Weighs 4.5 kg, Availability 10+, cost Cr 60,000.
 FForensic Sweeper (TL13) orensic Sweeper (TL 13 ) This complicated handheld device is
 a multi-medium scanner that looks for radiation residue, ballistic
 particles, chemical traces, and bio-organic remains all at once.
-Within an hour of sweeping a twenty square metre area with the
+Within an hour of sweeping a twenty square meter area with the
 handheld wand, and succeeding in an Investigate throw 8+, the
 device will know all of the following pieces of information. Weighs 2
 kg, Availability 10+, cost Cr 7,500.
@@ -8101,7 +8101,7 @@ kg, Availability 10+, cost Cr 7,500.
 AAnti-personnel Equipment Scanner (TL10): nti-personnel Equipment Scanner (TL 10 ): This bulky set of
 goggles is used to search a person’s body for metallic, plastic or
 ceramic devices – such as guns, knives, or explosives. By looking
-at a target with great scrutiny (1–6 minutes) within five metres,
+at a target with great scrutiny (1–6 minutes) within five meters,
 the character may make an Investigate throw 8+. If successful,
 the goggles penetrated the target’s clothing/armor and found all
 
@@ -8139,7 +8139,7 @@ PProtein Tap (TL9) rotein Tap (TL 9 ) A crank-operated augur and press attaches
 to large plant or animal life and pulps organic matter into an
 unrecognizable paste. Although the basic pastes produced by the
 tap tastes like the source of the material, most tap-users carry
-syrupy flavours to add to the substance. The device adds a +1 DM
+syrupy flavors to add to the substance. The device adds a +1 DM
 to all Survival skill checks made to ‘find’ food in the wild. Cost Cr
 1,000.
 
@@ -8171,10 +8171,10 @@ are not currently already in a state of fusion (fusion cells, starship
 cores, etc.) will have a penalty of the Effect of the damper operator’s
 Computer skill throw to any attacks made. The range of the damper
 field is proportional to the distance separating the two stations. At
-tech level 13, the ratio is 100:1 (a separation of 50 metres between
-stations would give a field range of 5 kilometres). Each damper
+tech level 13, the ratio is 100:1 (a separation of 50 meters between
+stations would give a field range of 5 kilometers). Each damper
 station weighs 75 kg, and the maximum distance the stations can
-be apart before the field disperses is 200 metres. Availability 11+,
+be apart before the field disperses is 200 meters. Availability 11+,
 cost MCr 5.
 ((TL14) TL 14 ) As above, and the ratio is now 500:1. Availability 12+, cost
 MCr 10.
@@ -8305,7 +8305,7 @@ thrust into a target. Can also be used as a Thrown weapon with a
 +1DM to hit.
 
 SStiletto (TL2) tiletto (TL 2 ) A long, thin blade used to puncture rather than slice.
-Often 30 – 40 centimetres in length for reaching organs.
+Often 30 – 40 centimeters in length for reaching organs.
 
 #### BLADE WEAPONS
 
@@ -8337,7 +8337,7 @@ arm brace to help absorb some of the considerable recoil created by
 the weapon’s discharge.
 
 MMagRail Pistol agRail Pistol Using the basic MagRail principle of much larger
-weaponry, this pistol magnetically projects five-centimetre diameter
+weaponry, this pistol magnetically projects five-centimeter diameter
 alloy discs at astonishing velocity. Although it has a slower rate of
 
 fire due to the limits of its attached power pack, its munitions can
@@ -8450,11 +8450,11 @@ recoil before accelerating to higher impact speeds.
 
 GGauss Carbine auss Carbine Not as bulky as the gauss rifle, gauss carbines fire
 high-velocity projectiles using electromagnetic rails. Gauss carbines
-are the favoured weapon of boarding marines because of their size
+are the favored weapon of boarding marines because of their size
 and ease of use.
 
 MMagRail Carbine agRail Carbine Using the attached power cell to augment firing
-rate, this carbine projects the same five-centimetre diameter alloy
+rate, this carbine projects the same five-centimeter diameter alloy
 discs as its pistol version. It uses a larger magazine and a more
 rapid fire rate, but does not increase the velocity or the ‘calibre’ of
 the projectiles.
@@ -8472,7 +8472,7 @@ good assault weapon when dealing with common infantry.
 
 MMagRail Rifle agRail Rifle With the larger frame of the rifle stock, a larger
 power source can allow for even larger ammunition to be hurled
-by this wide-barrelled weapon. Fifteen centimetres in diameter, the
+by this wide-barrelled weapon. Fifteen centimeters in diameter, the
 
 #### SLUG THROWERS
 
@@ -8588,7 +8588,7 @@ devices due to the erratic nature of their effect radius - which can
 effect their own gear on occasion.
 
 IIncendiary: ncendiary: Incendiary grenades deal 1d6 heat damage to
-characters within three metres of the blast; the radius is considered
+characters within three meters of the blast; the radius is considered
 to be ablaze for 2d6 minutes – inflicting 2d6 fire damage to anything
 that enters the area.
 
@@ -8722,9 +8722,9 @@ No 3 10 – 13+ 300,000
 #### GRENADES
 
 WWeaponeapon TTLL RRangeange DDamageamage MMassass BBlast Radiuslast Radius AAvailabilityvailability CCostost
-EMP 9 Ranged (thrown) None 0.5 2d6 metres 10+ 100
-Incendiary 5 Ranged (thrown) 3d6 0.5 3 metres 7+ 30
-Plasma 12 Ranged (thrown) 5d6 0.5 1.5 metres 9+ 50
+EMP 9 Ranged (thrown) None 0.5 2d6 meters 10+ 100
+Incendiary 5 Ranged (thrown) 3d6 0.5 3 meters 7+ 30
+Plasma 12 Ranged (thrown) 5d6 0.5 1.5 meters 9+ 50
 
 ### EEQQUIPMENTUIPMENT
 
@@ -8739,7 +8739,7 @@ In game terms, a flamethrower attack targets a single point of
 impact within range, making attack rolls against everything in a
 straight line from the firer to that point (rolling in order) – stopping
 when an attack hits. When the stream hits a target however, it
-breaks the projection and becomes a radius of 3 metres around
+breaks the projection and becomes a radius of 3 meters around
 the target, rolling the damage for the weapon as normal. Anything
 that suffers damage from a flamethrower will continue to suffer
 half (round down) the current damage value every round until the
@@ -8791,13 +8791,13 @@ effectively.
 VVRF Gauss Rifle RF Gauss Rifle Standing for Very Rapid Fire, the gauss rifle is a
 shoulder-slung gauss weapon that uses an attached power backpack
 to accelerate hundreds of metal darts per second at targets several
-over a hundred metres away. Generally only carried by soldiers in
+over a hundred meters away. Generally only carried by soldiers in
 battle dress, the VRF gauss rifle is a heavy rig that must be set on a
 stationary pintle-mount if it is to be fired by any character outside
 of powered armor.
 
 MMagRail Minigun agRail Minigun Modified to fire steady streams of twenty-
-centimetre discs of sharpened metal, the MagRail minigun
+centimeter discs of sharpened metal, the MagRail minigun
 does not use revolving barrels like conventional slug-throwing
 
 #### HEAVY WEAPONS
@@ -9055,7 +9055,7 @@ LMGs at targets that it passes by.
 GGunskiff unskiff A mobile, gravitic gun platform that lets its passengers fire
 their weaponry over the somewhat precarious railing. Sometimes
 used to ferry troops, but most often used as firepower platforms,
-gunskiffs are a favourite of the Aslan – who also use them to deploy
+gunskiffs are a favorite of the Aslan – who also use them to deploy
 assault troops.
 
 HHovertrak: overtrak: A bit of a misnomer, the hovertrak anti-armor tank has
@@ -9117,17 +9117,17 @@ Field Mortar 3
 
 ###### M
 
-400 metres
-600 metres
-800 metres
+400 meters
+600 meters
+800 meters
 
 3d6
 4d6
 5d6
 
-6 metres
-9 metres
-9 metres
+6 meters
+9 meters
+9 meters
 
 ###### 6
 
@@ -9160,10 +9160,10 @@ AT Gun 6
 
 ###### M
 
-500 metres
-750 metres
-750 metres
-1 kilometre
+500 meters
+750 meters
+750 meters
+1 kilometer
 
 6d6
 8d6
@@ -9212,17 +9212,17 @@ Frag Cannon 5
 
 ###### S
 
-300 metres
-600 metres
-1 kilometre
+300 meters
+600 meters
+1 kilometer
 
 5d6+5
 6d6+5
 8d6+5
 
-5 metres
-5 metres
-10 metres
+5 meters
+5 meters
+10 meters
 
 ###### 12
 
@@ -9261,20 +9261,20 @@ MRL Pack 6
 
 ###### S
 
-500 metres
-500 metres
-750 metres
-1 kilometre
+500 meters
+500 meters
+750 meters
+1 kilometer
 
 4d6
 5d6
 5d6
 6d6
 
-5 metres
-4 metres
-4 metres
-3 metres
+5 meters
+4 meters
+4 meters
+3 meters
 
 Special 5
 4
@@ -9297,8 +9297,8 @@ Special 5
 
 ###### 20,000
 
-Mass Driver 10 M 750 metres 10d6 2 metres 4 3 9+ 3,000
-Meson Accelerator 15 L 1.5 kilometres 18d6 10 metres 12 4 14+ MCr 20
+Mass Driver 10 M 750 meters 10d6 2 meters 4 3 9+ 3,000
+Meson Accelerator 15 L 1.5 kilometers 18d6 10 meters 12 4 14+ MCr 20
 
 ### EQUIPMENT
 
@@ -9531,7 +9531,7 @@ Extreme Range Firing 71
 ## F
 
 Field Artillery Rules 104
-Friends & Favours 35
+Friends & Favors 35
 
 ## G
 

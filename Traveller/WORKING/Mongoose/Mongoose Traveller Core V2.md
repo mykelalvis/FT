@@ -236,7 +236,7 @@ aboard their ship, a Free Trader. In-character speech is denoted by
 (parentheses).
 
 Referee: Anyway, you’ve just jumped to the Cogri system. You’re
-about two million kilometres out –
+about two million kilometers out –
 Chris (Morn): ‘Accurate’ as usual, Kathya! Only twice as far away as
 
 we should be.
@@ -1558,7 +1558,7 @@ EVENTS
 2d62d6 EventsEvents
 2 Disaster! Roll on the mishap table, but you are not ejected from this career.
 3 A patron offers you a chance at a job. If you accept, you gain a +4 DM to your next Qualifi cation roll, but you owe
-that patron a favour.
+that patron a favor.
 4 You pick up a few useful skills here and there. Gain one level of Jack of all Trades, Survival, Streetwise or Melee (any).
 5 You manage to scavenge something of use. Gain a +1 DM to any one Benefi t roll.
 6 You encounter something unusual. Go to the Life Events table (page 34) and have an Unusual Event.
@@ -2615,7 +2615,7 @@ RollRoll Cash Cash Other Benefi tsOther Benefi ts
 Ancient TechnologyAncient Technology
 The Ancients left technological wonders scattered throughout space, and these artefacts are sought after by the Imperium as well as rival governments, megacorporations, research institute, criminals and
 mad scientists. Those lucky enough to fi nd such artefacts may have made their fortunes – or signed their death warrants. Ancient artefacts range in size from personal items or weapons to starships, or even
-vast ringworlds millions of kilometres across. The more intact an Ancient device is, the more likely it is to be defended...
+vast ringworlds millions of kilometers across. The more intact an Ancient device is, the more likely it is to be defended...
 
 The artefact...
 
@@ -2832,7 +2832,7 @@ the purposes of the Connections rule (see page 8).
 CCHARACTERHARACTER C CREATIONREATION CHARACTER CREATION
 
 Ship Shares
-Ship shares represent contacts, credit rating, savings and favours
+Ship shares represent contacts, credit rating, savings and favors
 owed that a character can put towards ownership of a space vessel.
 Characters can pool their ship shares towards the use of a vessel,
 but cannot trade ship shares for cash. It’s very unlikely that the
@@ -3461,7 +3461,7 @@ round on movement or stall and fall out of the air.
     like amount of rest. Some specialized avians can increase this
     to minutes or even hours equal to Endurance.
 - Species with glider membranes cannot gain altitude while flying.
-    They descend one metre every time they move forwards and
+    They descend one meter every time they move forwards and
     cannot use more than one minor action for flying movement in
     a round.
 - Species that float using gasbags or some other method do not
@@ -3637,7 +3637,7 @@ DROYNE
 Droyne are an intelligent major race inhabiting scattered worlds
 within an area slightly larger than the region of the current Imperium.
 They are a small race derived from winged herbivorous gatherers.
-They vary in size depending on caste but generally stand one metre
+They vary in size depending on caste but generally stand one meter
 tall (large workers and warriors can be larger than Humans). The
 history of their evolution remains a puzzle because their home
 world is not known with certainty.
@@ -3705,13 +3705,13 @@ and responsible; warriors have strategic and tactical senses,
 technicians are inventive and clever, but all accept the central group
 as the purpose of their lives and work for its benefi t over their own.
 
-Droyne are Flyers (winged, 18 metres per round) and Small. Warriors Droyne are Flyers (winged, 18 metres per round) and Small. Warriors
+Droyne are Flyers (winged, 18 meters per round) and Small. Warriors Droyne are Flyers (winged, 18 meters per round) and Small. Warriors
 are not Small. Leaders have Notable Intelligence (+2). Droyne are not Small. Leaders have Notable Intelligence (+2). Droyne
 replace Social Standing with Caste, which is generated on 1d6.replace Social Standing with Caste, which is generated on 1d6.
 
 HIVERS
 Hivers are an intelligent major race with a large federation of their
-own. Hivers average 1.5 metres from ground to top of upraised
+own. Hivers average 1.5 meters from ground to top of upraised
 head. Descended from omnivore gatherer/scavenger stock, they are
 among the most alien of the major races from a human standpoint.
 Hivers exhibit a modifi ed six-fold radial symmetry; six limbs equally
@@ -4515,15 +4515,15 @@ Climbing: Dexterity, 10–60 seconds, Diffi culty varies. So long as
     climbing is part of a task chain or multiple action.
 Sprinting: Dexterity or Strength, 1–6 seconds, Average (+0). If
     a character does nothing (including react) but sprint flat-out he
-    can cover 24 + Effect metres with every check. Avoiding obstacles
+    can cover 24 + Effect meters with every check. Avoiding obstacles
     while sprinting requires another Athletics (co-ordination) check
     with the –2 DM for multiple actions.
 High jumping: Dexterity or Strength, 1–6 seconds, Average
-    (+0). The character jumps a number of metres straight up
+    (+0). The character jumps a number of meters straight up
 
 equal to the Effect halved.
 Long jumping: Dexterity or Strength, 1–6 seconds, Average
-(+0). The character jumps a number of metres forward equal to
+(+0). The character jumps a number of meters forward equal to
 the Effect with a running start.
 
 - Endurance: Endurance: Long-distance running, hiking.
@@ -4936,7 +4936,7 @@ Specialities:Specialities:
 - Blade: Blade: Attacking with swords, rapiers, blades and other
     edged weapons.
 - Bludgeon: Bludgeon: Attacking with maces, clubs, staves and so on.
-- Natural Weapons: Natural Weapons: The favoured combat skill of wild animals, this
+- Natural Weapons: Natural Weapons: The favored combat skill of wild animals, this
     covers fi ghting with claws, teeth, and other weapons that are a
     part of you.
 
@@ -5249,7 +5249,7 @@ add the Effect of this check to the Initiative of everyone in their unit.
 
 The Referee may prepare detailed maps or even models of
 battlefi elds and encounter areas, or just use sketch maps or
-descriptions. Tr a v e l l e r uses a scale of 1.5 metres per square for
+descriptions. Tr a v e l l e r uses a scale of 1.5 meters per square for
 personal combat.
 
 In most combats, the combatants begin at Medium range. See page
@@ -5287,9 +5287,9 @@ only hasten once.
 MINOR ACTIONS
 
 Movement
-The character moves up to six metres. Difficult terrain, such as
+The character moves up to six meters. Difficult terrain, such as
 rubble, mud or thick underbrush can halve a character’s movement,
-allowing him to move only three metres per movement action.
+allowing him to move only three meters per movement action.
 Crouching also halves movement. Some alien species may have
 different methods and speeds of movement which will be detailed
 in their description.
@@ -5398,7 +5398,7 @@ action
 Cover –0 to –6
 See page 63.
 Laser Sight +1 if aiming Movement –1 for every
-10 full metres
+10 full meters
 of target
 movement
 Intelligent
@@ -5530,7 +5530,7 @@ and auto-fi re.
     rating of the weapon and sort them into pairs as you wish. Each
     pair is an attack. Auto-fi re attacks can be allocated to as many
     different targets as you have attacks provided all the targets are
-    within six metres of each other. Auto-fi re attacks cannot benefit
+    within six meters of each other. Auto-fi re attacks cannot benefit
     from a skill any higher than level 1. Weapon skills of 2 or higher
     only count as 1 when making auto-fi re attacks. Auto-fi re uses a
     number of rounds equal to 3 the Auto rating.
@@ -5676,12 +5676,12 @@ do any one of the following:
 - Knock his opponent prone.
 - Disarm his opponent. If he succeeds by 6+ he can take the
     weapon away; otherwise it ends up on the floor.
-- Throw his opponent up to three metres for 1d6 damage.
+- Throw his opponent up to three meters for 1d6 damage.
 - Inflict damage equal to 2 + the Effect.
 - Escape the grapple and move away (as if with a normal
     movement action).
 - Continue the grapple with no other effects.
-- Drag his opponent up to three metres.
+- Drag his opponent up to three meters.
 
 Throwing an opponent always ends the grapple. With any other
 option the winner can choose to end or continue the grapple as he
@@ -5700,28 +5700,28 @@ Ta r g e t Ta r g e t
 Squares to Target (for use Squares to Target (for use
 with maps and miniatures) with maps and miniatures)
 Personal Less than 1.5
-metres
+meters
 
 0 (combatants are in the same
 square)
-Close 1.5 to 3 metres 1 to 2 squares
-Short 3 to 12 metres 3 to 8 squares
+Close 1.5 to 3 meters 1 to 2 squares
+Short 3 to 12 meters 3 to 8 squares
 Medium 12 to 50
-metres
+meters
 
 9 to 34 squares
 
-Long 51 metres to
-250 metres
+Long 51 meters to
+250 meters
 
 35 to 166 squares
 
-Very Long 251 metres to
-500 metres
+Very Long 251 meters to
+500 meters
 
 167 to 334 squares
 
-Distant 501 metres+ 334 squares+
+Distant 501 meters+ 334 squares+
 
 Each attack form has an optimum range (or spread of ranges).
 Attacks within this range have a +0 DM. Attacks outside the
@@ -5796,7 +5796,7 @@ adds the Effect of the Athletics (co-ordination) check to its damage.
 The second kind does not.
 
 If the attack fails the projectile scatters in a random direction for
-(6 + Effect) metres. This is usually only important if the projectile
+(6 + Effect) meters. This is usually only important if the projectile
 explodes on or after impact.
 
 DAMAGE
@@ -5905,7 +5905,7 @@ km/h of the vehicle’s speed (round up). This is applied as damage
 directly to anything hit and, if the thing struck is solid enough, also
 to the ramming vehicle. Any unsecured passengers in a vehicle
 damaged in a collision take the same damage and, if possible,
-are thrown three metres for every 10 km/h of speed. Secured
+are thrown three meters for every 10 km/h of speed. Secured
 passengers (those wearing seatbelts or something similar) are not
 thrown anywhere and take one quarter damage.
 
@@ -6054,8 +6054,8 @@ StructureStructure
 Reduce the vehicle or drone’s Structure by one. If a vehicle runs out
 of Structure, it is destroyed. If the vehicle is destroyed by an attack
 that reduces it to a negative Structure score it explodes, doing 4d6
-damage to everyone within six metres (including the occupants) and
-2d6 damage to everyone within twelve metres. The occupants of a
+damage to everyone within six meters (including the occupants) and
+2d6 damage to everyone within twelve meters. The occupants of a
 closed vehicle cannot dodge or dive for cover from this explosion
 but the occupants of an open vehicle can.
 
@@ -6710,7 +6710,7 @@ gas in the heat of the characters’ footsteps...
 
 Falling
 A character who falls on a 1-gravity world suffers 1d6 damage
-per two metres fallen. High- or low-gravity worlds will increase or
+per two meters fallen. High- or low-gravity worlds will increase or
 decrease the damage. Look up the size code for the world and the
 gravity level associated with it on page 170 and multiply the falling
 damage by the gravity number. For a simpler method, round gravity
@@ -6718,7 +6718,7 @@ to the nearest 0.5 before multiplying.
 
 A character who makes a successful Athletics check can reduce the
 effective distance fallen for the purposes of calculating damage by a
-number of metres equal to the Effect of his check.
+number of meters equal to the Effect of his check.
 
 FATIGUE
 A character can become fatigued in several ways:
@@ -6762,7 +6762,7 @@ ENCOUNTERS AND DANGERS EENCOUNTERSNCOUNTERS ANDAND D DANGERSANGERS
 
 Seriously wounded characters who have somehow avoided
 unconsciousness cannot move except to hobble or crawl along
-at 1.5 metres per combat round. They also lose their minor
+at 1.5 meters per combat round. They also lose their minor
 action in combat.
 
 Wounded characters heal naturally and can also benefit from
@@ -6855,7 +6855,7 @@ Sometimes, their schemes might enmesh the player characters!
 For example, Erik has a Contact named Tarel Paragi, an Imperial
 diplomat. Erik can call on Paragi when dealing with imperial
 bureaucracies. What Erik does not know is that Tarel is secretly a
-Zhodani spy, and that every favour that Erik asks of his friend is
+Zhodani spy, and that every favor that Erik asks of his friend is
 putting him deeper in debt to a foreign power.
 
 Random Character Traits
@@ -6984,7 +6984,7 @@ influence or dire need who employ the characters and give them
 missions. Sometimes, the reward from a mission will be purely
 financial – the characters might be hired as bodyguards, mercenaries,
 couriers, thieves or scouts for a few hundred credits. Other missions
-will have less tangible rewards, such as being owed a favour by the
+will have less tangible rewards, such as being owed a favor by the
 patron, acquisition of status or influence, or just the knowledge of
 having done the right thing.
 
@@ -7144,7 +7144,7 @@ ago and became obscenely wealthy. The family has become very
 eccentric over the years. The current Margrave of Vilmaer departed
 on a ‘short tour’ some forty years ago and has wandered the galaxy
 since on cruise liners and casino ships. His entourage waxes
-and wanes, but the Margrave is always at the centre of a cloud of
+and wanes, but the Margrave is always at the center of a cloud of
 hangers-on and sycophants.
 
 The Margrave is a man of strange tastes, who sometimes employs
@@ -7294,7 +7294,7 @@ Now, she needs help. The head of station security, Ruthven, has
 been murdered. The evidence points to Tharrius having carried out
 the murder – her snub pistol was stolen from her quarters and used
 to kill Ruthven. She claims to have been framed. She cannot trust
-any of her staff, as almost everyone in the starport favours one or
+any of her staff, as almost everyone in the starport favors one or
 other of the planetary factions. The PCs’ ship arrived just after the
 murder, so they are the only people in the port that she knows were
 not responsible.
@@ -8210,7 +8210,7 @@ laser-based. Meson communicators are possible, but are generally
 not easily portable or available.
 
 To r e a c h o r b i t r e l i a b l y, a t r a n s c e i v e r n e e d s a r a n g e o f 5 0 0
-kilometres.
+kilometers.
 
 Radio TransceiversRadio Transceivers Mass (kg) Mass (kg) RangeRange Cost (Cr.)Cost (Cr.)
 TL 5 20 Distant (5
@@ -8269,20 +8269,20 @@ TL 8 Audio and visual, computer/0 Cr. 150
 TL 10 Multiple forms of data, computer/1 Cr. 500
 
 Commdot (TL 10):Commdot (TL 10): A commdot is a tiny microphone/speaker and
-transmitter, ranging in size between a few centimetres and a few
-millimetres across. A commdot is capable of interfacing with another
+transmitter, ranging in size between a few centimeters and a few
+millimeters across. A commdot is capable of interfacing with another
 
 EQUIPMENT EQUIPMENT
 
 communications device and relaying messages back and forth.
-Commdots have a range of only a few metres. They are usually used
+Commdots have a range of only a few meters. They are usually used
 as hands-free communicators, but can also be used as improvised
 bugs or throat microphones. Cr. 10 each.
 
 Holographic Projector (TL 11):Holographic Projector (TL 11): A holographic projector is a toaster-
 sized box that, when activated, creates a three-dimensional image
 in the space around it or nearby – the range is approximately three
-metres in all directions. The image can be given pre-programmed
+meters in all directions. The image can be given pre-programmed
 animations within a limited range and the projector includes
 speakers for making sound. The projected holograms are obviously
 not real so this device is mostly used for communication. The TL
@@ -8767,7 +8767,7 @@ Weapons: Tools (Melee (unarmed), 1d6 damage)
 Price: 10,000 Credits
 
 Personal Drone (TL 11): Personal Drone (TL 11): This is a small floating globe about thirty
-centimetres in diameter. It is equipped with holographic projectors
+centimeters in diameter. It is equipped with holographic projectors
 which can display the image of a person, allowing a character to
 have a virtual presence over a great distance.
 
@@ -8778,7 +8778,7 @@ Price: 2,000 Credits
 
 Probe Drone (TL 11): Probe Drone (TL 11): A probe drone is a hardened version of a
 personal remote, armored and carrying more sensor packages.
-They have an operating range of five hundred kilometres, and can
+They have an operating range of five hundred kilometers, and can
 fly at a speed of 300 kph.
 
 Strength 3 (–1), Dexterity 7 (+0), Hull 3, Structure 3
@@ -8888,7 +8888,7 @@ Motion Sensor (TL 7):Motion Sensor (TL 7): A motion sensor simply detects any an
 
 movement within the area assigned to it. It cannot differentiate
 between kinds of movement, it just reports whether there is
-movement or not in an area roughly six metres in diameter. Cr.
+movement or not in an area roughly six meters in diameter. Cr.
 
 500. At TL 9 the motion detector can report the general qualities
 of motion – size, speed and duration – but no more. Cr. 1,000. The
@@ -8916,7 +8916,7 @@ organisms. 3.5 kg. Cr. 350,000. The data from a bioscanner can be
 interpreted using the Sensors or the Life Sciences (biology) skills.
 
 NAS (TL 15): NAS (TL 15): This device consists of a backpack and detachable
-handheld unit, and can detect neural activity up to 500 metres away.
+handheld unit, and can detect neural activity up to 500 meters away.
 The device can also give a rough estimation of the intelligence
 level of organisms based on brainwave patterns. 10 kg. Cr 35,000.
 The data from a neural activity scanner can be interpreted using
@@ -9109,7 +9109,7 @@ piping or an extending riot baton made of advanced polymers, the
 club remains a popular and practical weapon wherever intelligent
 species gather.
 
-Dagger: Dagger: A small knife weapon, approximately 20 centimetres in
+Dagger: Dagger: A small knife weapon, approximately 20 centimeters in
 length. Daggers are especially suited to close-quarters combat
 
 - while grappling (see page 64) someone armed with a dagger can
@@ -9353,7 +9353,7 @@ successful, the character is unaffected by the weapon and the stun
 damage is ignored.
 
 Grenades
-Aerosol: Aerosol: Aerosol grenades create a fine mist six metres in radius
+Aerosol: Aerosol: Aerosol grenades create a fine mist six meters in radius
 that diffusess lasers but does not block normal vision. Any laser
 attack made through the mist has its damage reduced by 10. Laser
 communications through the mist are completely blocked. The mist
@@ -9364,11 +9364,11 @@ Frag: Frag: The damage from fragmentation grenades decreases with
 distance from the blast:
 
 DistanceDistance DamageDamage
-3 metres 5d6
-6 metres 3d6
-9 metres 1d6
+3 meters 5d6
+6 meters 3d6
+9 meters 1d6
 
-Smoke: Smoke: Smoke grenades create a thick cloud of smoke six metres in
+Smoke: Smoke: Smoke grenades create a thick cloud of smoke six meters in
 radius, centered on the location of the grenade. This smoke imposes
 a –2 DM on all attacks within or through the cloud (doubled for
 laser weapons). Smoke dissipates in 1d6 3 rounds, although high
@@ -9394,7 +9394,7 @@ actions to reload a RAM grenade launcher.
 
 Rocket Launcher: Rocket Launcher: The poor man’s FGMP. To counteract the recoil
 of the weapon, a rocket launcher channels exhaust backwards in
-an explosive backblast. Anyone up to 1.5 metres behind a rocket
+an explosive backblast. Anyone up to 1.5 meters behind a rocket
 launcher when it fi res takes 3d6 damage from the burning gasses.
 Vehicle-mounted rocket launchers lose this side-effect as a vehicle
 is a more stable fi ring platform than a person. It takes three minor
@@ -9402,10 +9402,10 @@ actions to reload a rocket launcher.
 
 GRENADES
 WeaponWeapon TL TL RangeRange Damage Damage Mass (kg)Mass (kg) Blast RadiusBlast Radius Cost (Cr.)Cost (Cr.)
-Frag 6 Ranged (thrown) 5d6/3d6/1d6 0.5 3 metres/6 metres/9 metres 30
-Smoke 6 Ranged (thrown) None 0.5 6 metres 15
-Stun 9 Ranged (thrown) 3d6 0.5 6 metres 30
-Aerosol 9 Ranged (thrown) None 0.5 6 metres 15
+Frag 6 Ranged (thrown) 5d6/3d6/1d6 0.5 3 meters/6 meters/9 meters 30
+Smoke 6 Ranged (thrown) None 0.5 6 meters 15
+Stun 9 Ranged (thrown) 3d6 0.5 6 meters 30
+Aerosol 9 Ranged (thrown) None 0.5 6 meters 15
 
 HEAVY WEAPONS
 WeaponWeapon TL TL RangeRange Damage Damage AutoAuto RecoilRecoil Mass (kg) Mass (kg) MagazineMagazine Cost (Cr.) Cost (Cr.) Ammo Cost (Cr.)Ammo Cost (Cr.)
@@ -9492,9 +9492,9 @@ EQUIPMENT EQUIPMENT
 
 The rockets presented are high-explosive models. Do not add the
 Effect of the attack roll to their damage but apply that damage
-to everything within six metres of the impact point. A rocket that
+to everything within six meters of the impact point. A rocket that
 misses has a 50% chance (4+ on 1d6) of detonating upon impact
-with the ground (6 – Effect metres away in a random direction).
+with the ground (6 – Effect meters away in a random direction).
 Otherwise it will miss completely and leave the battlefield without
 striking anything or detonating. Of course, if used indoors or
 in a similarly enclosed space a rocket has to strike something
@@ -9526,7 +9526,7 @@ The Explosives skill is used with explosives – the Effect of the
 Explosives skill check multiplies the damage, with a minimum of 1
 damage for an Effect of 0 or 1.
 
-Plastic: Plastic: This generic, multi-purpose plastic explosive is a favourite of
+Plastic: Plastic: This generic, multi-purpose plastic explosive is a favorite of
 military units, terrorists, demolition teams and adventurers across
 known space.
 
@@ -9539,9 +9539,9 @@ grenade launcher.
 
 EXPLOSIVES
 Weapon TL Damage Radius Cost (Cr.)Cost (Cr.)
-Plastic 6 3d6 2d6 metres 200
-TDX 12 4d6 4d6 metres 1,000
-Pocket Nuke 12 2d6 20 15d6 metres 20,000
+Plastic 6 3d6 2d6 meters 200
+TDX 12 4d6 4d6 meters 1,000
+Pocket Nuke 12 2d6 20 15d6 meters 20,000
 
 Options
 Grenade Launcher (TL 8): Grenade Launcher (TL 8): An underslung RAM grenade launcher can
@@ -9765,7 +9765,7 @@ up to twice this value and heavily encumbered if they carry up
 to three times their Strength + Endurance. A character can lift
 more with an Athletics (strength) check – add the Effect to his
 effective Strength to work out his new maximum lift – but cannot
-do more than stagger around with his new load at 1.5 metres per
+do more than stagger around with his new load at 1.5 meters per
 round. He may lift it for a number of rounds equal to the Effect
 of an Athletics (endurance) check.
 
@@ -9870,7 +9870,7 @@ small craft can be found on page 132.
 
 Size is measured in ‘displacement ‘displacement tons’tons’ or d-tons: a hundred-
 ton ship displaces a volume equal to one hundred tons of liquid
-hydrogen (one d-ton equals roughly 14 cubic metres).
+hydrogen (one d-ton equals roughly 14 cubic meters).
 
 Standard Designs vs New Designs
 Some ship designs have been used by the Imperium for
@@ -10924,7 +10924,7 @@ COMMON SPACECRAFT COMMON SPACECRAFT
 ### (‘(‘ FFATAT T TRADERRADER’)’)
 
 Using a 400-ton hull,
-the subsidised merchant
+the subsidized merchant
 (nicknamed ‘fat trader’) is
 a trading vessel intended to
 meet the commercial needs of
@@ -11823,10 +11823,10 @@ a ship mortgage is paying 1/240th of the cash price each month for
 a simple 120% of the fi nal cost of the ship, and the total fi nanced
 price equals 220% of the cash purchase price.
 
-Astronomic Unit: Astronomic Unit: The distance between the Earth and the Sun – 149,597,870 kilometres
-Light Second: Light Second: The distance light travels in one second – 299,792 kilometres
-Light Minute:Light Minute: The distance light travels in one minute – 17,987,547 kilometres
-Light Year:Light Year: The distance light travels in one year – 9,460,730,472,580.8 kilometres
+Astronomic Unit: Astronomic Unit: The distance between the Earth and the Sun – 149,597,870 kilometers
+Light Second: Light Second: The distance light travels in one second – 299,792 kilometers
+Light Minute:Light Minute: The distance light travels in one minute – 17,987,547 kilometers
+Light Year:Light Year: The distance light travels in one year – 9,460,730,472,580.8 kilometers
 Parsec: Parsec: Parallax of one second of arc – 30.857 10^12 km, or 3.262 light years.
 
 SPACECRAFT OPERATIONS SPACECRAFT OPERATIONS
@@ -12135,8 +12135,8 @@ from its original position.
 
 A ship can only safely Jump when it is more than one hundred
 diameters distant from any object. A vessel could only Jump away
-from Earth when it is more than 1.27 million kilometres distant (as
-well as 140 million kilometres away from Sol and 300,000 kilometres
+from Earth when it is more than 1.27 million kilometers distant (as
+well as 140 million kilometers away from Sol and 300,000 kilometers
 away from the Moon). Gravity can cause a Jump bubble to collapse
 prematurely, bringing a ship back into normal space early (so if a
 ship tried to Jump from Earth to Mars when the Sun was between
@@ -12667,7 +12667,7 @@ SPACE COMBAT
 ### SSPACEPACE C COMBATOMBAT
 
 Clashes between spacecraft in Tr a v e l l e r take place over distances
-of thousands of kilometres and over long hours. While a warship
+of thousands of kilometers and over long hours. While a warship
 may sometimes fi nd itself desperately fi ring point-defence guns at
 a swarm of fi ghters buzzing around its hull many battles are slow,
 calculated affairs, with spears of brilliant light lancing out into the
@@ -12800,7 +12800,7 @@ amount of thrust needed to move from that range category to either
 a closer or more distant one. A ship can spend thrust over multiple
 rounds to close or open a range category.
 
-The Beowulf is 10,000 Kilometres away from a planet (Medium
+The Beowulf is 10,000 Kilometers away from a planet (Medium
 range). It will cost the Beowulf five thrust to close from Medium to
 Short range. Once at Short range, it will take another two thrust to
 close to Close range or to back out to Medium range again.
@@ -13507,16 +13507,16 @@ RangeRange Distance to TargetDistance to Target
 
 Te l e p a t h y o r Te l e p a t h y o r
 Clairvoyance Clairvoyance Te l e k i n e s i s Te l e k i n e s i s Te l e p o r t a t i o nTe l e p o r t a t i o n
-Personal Less than 1.5 metres 0 1 1
-Close 1.5 to 3 metres 0 1 1
-Short 3 to 12 metres 1 2 2
-Medium 12 to 50 metres 1 4 2
-Long 51 to 250 metres 2 8 4
-Very Long 251 to 500 metres 2 - 4
-Distant 500 metres to 5 kilometres 3 - 6
-Very Distant 5 kilometres to 500 kilometres 3 - 6
-Continental 501 to 5,000 kilometres 4 - 8
-Planetary 5,000 to 50,000 kilometres 4 - 8
+Personal Less than 1.5 meters 0 1 1
+Close 1.5 to 3 meters 0 1 1
+Short 3 to 12 meters 1 2 2
+Medium 12 to 50 meters 1 4 2
+Long 51 to 250 meters 2 8 4
+Very Long 251 to 500 meters 2 - 4
+Distant 500 meters to 5 kilometers 3 - 6
+Very Distant 5 kilometers to 500 kilometers 3 - 6
+Continental 501 to 5,000 kilometers 4 - 8
+Planetary 5,000 to 50,000 kilometers 4 - 8
 
 PPSIONICSSIONICS PSIONICS
 
@@ -13644,7 +13644,7 @@ FLIGHT
 By applying telekinesis to his own body the character can fly, or
 at least levitate over short distances. The character can fly for a
 number of rounds equal to the Effect of the check at a speed of six
-metres per round.
+meters per round.
 
 Te l e k i n e s i s , P s i o n i c S t r e n g t h , 1 – 6 s e c o n d s , A v e r a g e ( + 0 ).
 Costs 5.
@@ -13851,7 +13851,7 @@ rammed him at its current speed (see page 66).
 Changes in altitude (actually all movement to locations of differing
 gravitational potential) will result in potential energy changes,
 manifesting themselves as changes in body temperature. A jump of
-one kilometre straight down will result in a temperature increase of
+one kilometer straight down will result in a temperature increase of
 2.5 degrees Celsius; this is suffi cient to cause extreme fever, brain
 damage, and even death. A jump up will cool the body by the same
 amount, with equally serious results. To be safe, a jump may not
@@ -13915,8 +13915,8 @@ Te l e p o r t a t i o n S u i t ( T L 1 2 ) : Te l e p o r t a t i o n S u i t 
 suit of armor or worn as a form-hugging body-suit. It rapidly
 cools or warms the body after a teleport, minimising the damage
 from sudden energy gains or losses. The suit costs Cr. 50,000
-and allows a character to jump up to 600 metres up or down in
-a single teleport, or up to ten kilometres in a single hour when
+and allows a character to jump up to 600 meters up or down in
+a single teleport, or up to ten kilometers in a single hour when
 using successive jumps.
 
 Psionic Interface (TL 14): Psionic Interface (TL 14): Any weapon or technological device can
@@ -15367,7 +15367,7 @@ WORLD CREATION WORLD CREATION
 SIZE
 The Size characteristic for inhabitable worlds ranges from 0 to
 10, and is determined by rolling 2d6–2. Size measures a world’s
-diameter in thousands of kilometres. The bigger a planet, the higher
+diameter in thousands of kilometers. The bigger a planet, the higher
 its gravity. The values for gravity in the table below assume that the
 world has a density similar to that of Earth. Worlds like gas giants
 have a lower gravity than their size would indicate, while extremely
@@ -15541,7 +15541,7 @@ Unusual (F): Unusual (F): An Unusual atmosphere is a catchall term for an
 atmosphere that behaves in a strange manner. Examples include
 ellipsoidal atmospheres, which are thin at the poles and dense at the
 equator; Panthalassic worlds composed of a rocky core surrounded
-by a water layer hundreds of kilometres thick; worlds wracked by
+by a water layer hundreds of kilometers thick; worlds wracked by
 storms so intense that that the local air pressure changes from
 dense to thin depending on the current wearther; and other planets
 with unusual and hazardous atmospheric conditions.
@@ -16249,7 +16249,7 @@ be expected to live up to these myths.
 Honesty is a sign of weakness.
 
 52 Unusual Custom: Starport – the planet’s starport is more than
-a commercial centre; it might be a religious temple, or be seen
+a commercial center; it might be a religious temple, or be seen
 as highly controversial and surrounded by protestors.
 23 Liberal – the culture welcomes change and offworld influence.
 Characters who bring new and strange ideas will be welcomed.
@@ -16272,7 +16272,7 @@ not, roll for one.
 55 Unusual Customs: Lifecycle – there might be a mandatory age
 of termination, or anagathics might be widely used. Family
 units might be different, with children being raised by the state
-or banned in favour of cloning.
+or banned in favor of cloning.
 26 Fusion – the culture is a merger of two distinct cultures. Roll
 again twice to determine the quirks inherited from these
 cultures. If the quirks are incompatible then the culture is likely
@@ -16371,7 +16371,7 @@ itself, and the level of competence of the staff. Quality may vary
 up and down – it is possible to fi nd a Class-D port run by expert
 engineers, or a Class-A that has succumbed to decay. Some
 worlds have entirely inappropriate starports; a world that was
-once a centre of commerce, but has now been bypassed by new
+once a center of commerce, but has now been bypassed by new
 trade routes might have a cavernous port capable of handling
 thousands of freighters, but is now almost abandoned.
 
@@ -17429,7 +17429,7 @@ Stunt (Vehicles) 67
 Stun Grenades 101
 Style (Vehicle Upgrade) 104
 Subdermal Armor 89
-Subsidised Merchant (Spacecraft) 119
+Subsidized Merchant (Spacecraft) 119
 Suffocation 142
 
 IINDEXNDEX

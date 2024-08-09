@@ -20,7 +20,7 @@ In spite of the seeming implacability of the Emperor and ruling nobility, there 
 
 - [[Ase]]– The Asei are members of the Gold (plutocratic) and Zircon (authoritarian) factions. The Asei people bow to the will of a cabal of rich industrialists who believe in the need for strong governmental institutions to shepherd the masses.
 - [[Umgadin]] – The Umgadini are the most liberal of the Shaaaki systems. Their parliamentary republic has many factions but the two most dominant are the Orange (centrist) and Sparkle (traditionalist) factions.
-- [[Xalm]] – Xalm is in the throes of decline. While their president is a right-of-centre Orangist, the Aglow Greens (socialist environmentalists) are gaining traction and threatening to overthrow the government. [[Ase]] does not intend to allow this to happen and has dispatched a division of ground troops and military advisors to assist the current regime against insurgency.
+- [[Xalm]] – Xalm is in the throes of decline. While their president is a right-of-center Orangist, the Aglow Greens (socialist environmentalists) are gaining traction and threatening to overthrow the government. [[Ase]] does not intend to allow this to happen and has dispatched a division of ground troops and military advisors to assist the current regime against insurgency.
 - [[Affinity]] – Affinity has a captive government and is dominated by [[Ase]] but most of its citizens do not see eye-to-eye with the Asei. Affinity has a mishmash of factions but the most prevalent are the White (anarchist) faction.
 
 ## DIRTY LITTLE SECRETS

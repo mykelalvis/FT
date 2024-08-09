@@ -41,7 +41,7 @@ Xavier : W233.9mm, H179.9mm
 
 Traveller is a science fiction roleplaying game of the far future. A multitude of universes await players and you will find Traveller is capable of handling almost any kind of science fiction setting, from highly intricate cyberpunk worlds to campaigns spanning entire galaxies where mighty empires clash and suns explode.
 
-If you have a favourite science fiction film or TV show, Traveller will be able to replicate it for you, bringing your best-loved futuristic moments to your tabletop.
+If you have a favorite science fiction film or TV show, Traveller will be able to replicate it for you, bringing your best-loved futuristic moments to your tabletop.
 
 CHARTED SPACE While Traveller is intended to be used for any science fiction setting its players devise, the longest running commercially available universe (indeed, one of the oldest roleplaying game settings of all) is Charted Space.
 
@@ -815,7 +815,7 @@ RANK WANDERER SKILL OR BONUS
 
 2D EVENT
 | 2 | Disaster! Roll on the Mishap table but you are not ejected from this career. |
-| 3 | A patron offers you a chance at a job. If you accept, you gain DM+4 to your next qualification roll but you owe that patron a favour. |
+| 3 | A patron offers you a chance at a job. If you accept, you gain DM+4 to your next qualification roll but you owe that patron a favor. |
 | 4 | You pick up a few useful skills here and there. Gain one level of Jack-of-all-Trades, Survival, Streetwise or Melee (any). |
 | 5 | You manage to scavenge something of use. Gain DM+1 to any one Benefit roll. |
 | 6 | You encounter something unusual. Go to the Life Events table and have an Unusual Event. |
@@ -1691,7 +1691,7 @@ Membership may only be received once per Traveller. If you roll this Benefit aga
 Yacht: You receive a yacht with 25% of the mortgage paid off on it. This yacht is identical to the one on page
 | 202 | but you must roll 1D times on the Spacecraft Quirks | table on page 188. If you roll this Benefit again, an additional 25% of the mortgage has been paid off – if you roll this benefit four times, the yacht will have no mortgage and it will be all yours! Alternatively, you may select a Safari Ship instead (see page 198).
 
-SHIP SHARES Ship Shares represent contacts, credit rating, savings and favours owed that a Traveller can put towards ownership of a space vessel, worth roughly one million Credits. Travellers can pool their Ship Shares towards the use of a vessel but cannot trade Ship Shares for cash. It is very unlikely that the Travellers will be able to own anything but the smallest starship outright at the start of the game, so most crews end up working to support a mortgage on their spacecraft. The more Ship Shares that a group of Travellers can put together, the bigger a ship they can afford.
+SHIP SHARES Ship Shares represent contacts, credit rating, savings and favors owed that a Traveller can put towards ownership of a space vessel, worth roughly one million Credits. Travellers can pool their Ship Shares towards the use of a vessel but cannot trade Ship Shares for cash. It is very unlikely that the Travellers will be able to own anything but the smallest starship outright at the start of the game, so most crews end up working to support a mortgage on their spacecraft. The more Ship Shares that a group of Travellers can put together, the bigger a ship they can afford.
 
 See the Spacecraft Operations chapter for more on ship mortgages and how Ship Shares can be applied against them.
 
@@ -2202,8 +2202,8 @@ Athletics The Traveller is a trained athlete and is physically fit. The Athletic
 
 Specialities
 •  Dexterity: Climbing, Juggling, Throwing. For alien species with wings, this also includes flying. Climbing: Difficulty varies. Athletics (dexterity) check (1D x 10 seconds, DEX). So long as they succeed, the Traveller’s Effect is usually irrelevant unless they are trying to do something while climbing, in which case the climbing is part of a task chain or multiple action. Sprinting: Average (8+) Athletics (dexterity) check
-(1D seconds, DEX). If the Traveller does nothing but sprint flat out they can cover 24 + Effect metres with every check. Avoiding obstacles while sprinting requires another Athletics (dexterity) check (Difficult, because they are performing a multiple action). High Jumping: Average (8+) Athletics (dexterity) check
-(1D seconds, DEX). The Traveller jumps a number of metres straight up equal to the Effect halved. Long Jumping: Average (8+) Athletics (dexterity) check (1D seconds, DEX). The Traveller jumps a number of metres forward equal to the Effect with a running start. Righting Yourself When Artificial Gravity Suddenly Fails on Board a Ship: Average (8+) Athletics
+(1D seconds, DEX). If the Traveller does nothing but sprint flat out they can cover 24 + Effect meters with every check. Avoiding obstacles while sprinting requires another Athletics (dexterity) check (Difficult, because they are performing a multiple action). High Jumping: Average (8+) Athletics (dexterity) check
+(1D seconds, DEX). The Traveller jumps a number of meters straight up equal to the Effect halved. Long Jumping: Average (8+) Athletics (dexterity) check (1D seconds, DEX). The Traveller jumps a number of meters forward equal to the Effect with a running start. Righting Yourself When Artificial Gravity Suddenly Fails on Board a Ship: Average (8+) Athletics
 (dexterity) check (1D seconds, DEX).
 •  Endurance: Long-distance running, hiking Long-distance Running: Average (8+) Athletics
 (endurance) check (1D x 10 minutes, END). Long-distance Swimming: Average (8+) Athletics
@@ -2489,7 +2489,7 @@ TACTICS So long as they are not surprised, one Traveller (or character under the
 
 MAPS The referee may prepare detailed maps or even models of battlefields and encounter areas or just use sketch maps or descriptions. However, in most simple firefights, you should find this is not necessary.
 
-Traveller uses a scale of 1.5 metres per map square or hex for personal combat.
+Traveller uses a scale of 1.5 meters per map square or hex for personal combat.
 
 In most combats, the combatants begin at Medium range. See page 74 for more details about range.
 
@@ -2539,7 +2539,7 @@ However, bad leadership can end a battle quicker than good leadership can win on
 
 MINOR ACTIONS Instead of performing a Significant Action, a Traveller may instead perform two Minor Actions in its place, giving them a total of three Minor Actions in that combat
 
-Common Modifiers Bonuses DM Penalties DM Aiming +1 per action spent Aiming Fast Moving Target -1 for every full 10 metres of target movement relative to the attacker Laser Sight +1 if Aiming Long Range -2 Short Range +1 Extreme Range -4
+Common Modifiers Bonuses DM Penalties DM Aiming +1 per action spent Aiming Fast Moving Target -1 for every full 10 meters of target movement relative to the attacker Laser Sight +1 if Aiming Long Range -2 Short Range +1 Extreme Range -4
 — — Target in Cover -2
 — — Prone Target -1
 
@@ -2561,7 +2561,7 @@ MINOR ACTIONS A Traveller can normally perform a single Minor Action in a combat
 
 **DRAWING/RELOADING** Most weapons require a Minor Action to draw or otherwise make ready for combat and a Minor Action to reload once they have run out of ammunition. If a weapon requires a longer time for either, this will be noted in its description.
 
-**MOVEMENT** The Traveller may move a number of metres up to their Movement score (for humans and most humanoid Travellers, this will be six metres) for each Minor Action. Difficult terrain, such as ruins or mud will halve a Traveller’s Movement. Being prone will quarter a Traveller’s Movement score.
+**MOVEMENT** The Traveller may move a number of meters up to their Movement score (for humans and most humanoid Travellers, this will be six meters) for each Minor Action. Difficult terrain, such as ruins or mud will halve a Traveller’s Movement. Being prone will quarter a Traveller’s Movement score.
 
 Some aliens and animals have different Movement scores and this will be noted in their descriptions.
 
@@ -2595,13 +2595,13 @@ DIVING FOR COVER This is similar to dodging but instead of just ducking down or 
 
 A Traveller diving for cover will inflict a DM-2 on the attack roll of every attacker who targets them in this combat round and may get a bonus to Protection.
 
-They may dive behind any object within 1.5 metres of their current position. If there is no suitable cover nearby, the Traveller only inflicts DM-1 on any attack rolls made against them, for being a prone target.
+They may dive behind any object within 1.5 meters of their current position. If there is no suitable cover nearby, the Traveller only inflicts DM-1 on any attack rolls made against them, for being a prone target.
 
 However, a Traveller diving for cover will forgo their next actions completely – they are too busy trying to avoid being hurt!
 
 PARRYING A Traveller in close combat may attempt to parry an opponent’s melee attack as a Reaction. In so doing, they will inflict their Melee skill as a negative DM to the attacker’s attack roll.
 
-MELEE ATTACKS When a Traveller is within two metres of an enemy, they are said to be locked in close combat. At this very short range, certain rules apply.
+MELEE ATTACKS When a Traveller is within two meters of an enemy, they are said to be locked in close combat. At this very short range, certain rules apply.
 
 •  Melee attacks may be made (see below).
 •  Neither the Traveller nor their enemy may attack any other target other than those they are in close combat with.
@@ -2626,7 +2626,7 @@ Extreme Range: If a target is beyond the weapon’s Long Range but less than fou
 
 Weapon TL Range Damage Kg Cost Magazine Magazine Cost Traits Dagger 1 Melee 1D+2 0.2 Cr10 — — — Rifle 5 500 m 3D 3 Cr200 20 10 —
 
-Note that unless a weapon has the Scope trait (see page 79), all attacks made at a range greater than 100 metres are automatically considered to be Extreme Range. This assumes the Traveller is in a combat situation – if the Traveller is in a no-stress environment, the referee is free to increase this to 300 metres.
+Note that unless a weapon has the Scope trait (see page 79), all attacks made at a range greater than 100 meters are automatically considered to be Extreme Range. This assumes the Traveller is in a combat situation – if the Traveller is in a no-stress environment, the referee is free to increase this to 300 meters.
 
 Damage: This is the base amount of damage dealt by the weapon when it successfully hits a target. Damage is covered in more detail below.
 
@@ -2691,11 +2691,11 @@ To grapple an enemy, the Traveller makes an opposed Melee (unarmed) check with t
 
 •  Force an opponent prone on the ground.
 •  Disarm an opponent. If the Effect is 6+, they may take their opponent’s weapon.
-•  Throw an opponent 1D metres, causing 1D damage. This automatically ends the grapple.
+•  Throw an opponent 1D meters, causing 1D damage. This automatically ends the grapple.
 •  Inflict damage equal to 2 + the Effect of the Melee check. This damage ignores any armor.
 •  Inflict damage using a pistol or small blade- sized weapon.
 •  Escape and move away (as a normal movement action), ending the grapple.
-•  Drag their opponent up to three metres.
+•  Drag their opponent up to three meters.
 •  Continue the grapple with no other effect.
 
 While involved in a grapple, the Traveller may not perform any Significant or Minor Action except to make opposed Melee (unarmed) checks.
@@ -2712,17 +2712,17 @@ WEAPON TRAITS Some weapons have additional special rules that will greatly affec
 
 •  Single: Attacks are made using the normal combat rules.
 •  Burst: Add the Auto score to damage. This uses a number of rounds equal to the Auto score.
-•  **Full Auto:** Make a number of attacks equal to the Auto score. These attacks can be made against separate targets so long as they are all within six metres of one another. Full auto uses a number of rounds equal to three times the Auto score.
+•  **Full Auto:** Make a number of attacks equal to the Auto score. These attacks can be made against separate targets so long as they are all within six meters of one another. Full auto uses a number of rounds equal to three times the Auto score.
 
 A weapon cannot use the Auto trait in the same action as the Scope trait or an aiming action.
 
-**Blast X:** This weapon has an explosive component or is otherwise able to affect targets spread across a wide area. Upon a successful attack, damage is rolled against every target within the weapon’s Blast score in metres. Dodge Reactions may not be made against a Blast weapon but targets may dive for cover. Cover may be taken advantage of if it lies between a target and the centre of the weapon’s Blast.
+**Blast X:** This weapon has an explosive component or is otherwise able to affect targets spread across a wide area. Upon a successful attack, damage is rolled against every target within the weapon’s Blast score in meters. Dodge Reactions may not be made against a Blast weapon but targets may dive for cover. Cover may be taken advantage of if it lies between a target and the center of the weapon’s Blast.
 
 Bulky: A Bulky weapon has a powerful recoil or is simply extremely heavy – this makes it difficult to use effectively in combat by someone of a weak physical stature. A Traveller using a Bulky weapon must have STR 9 or higher to use it without penalty. Otherwise, all attack rolls will have a negative DM equal to the difference between their STR DM and +1.
 
-Radiation: When a Radiation weapon is fired, the target will receive 2D x 20 rads (see page 81), multiplied by three for Spacecraft scale weapons (so, they deal 2D x 60 rads). If the Radiation weapon is Destructive, every target within 10 metres will also receive 2D x 20 rads.
+Radiation: When a Radiation weapon is fired, the target will receive 2D x 20 rads (see page 81), multiplied by three for Spacecraft scale weapons (so, they deal 2D x 60 rads). If the Radiation weapon is Destructive, every target within 10 meters will also receive 2D x 20 rads.
 
-Scope: The weapon has been fitted with vision- enhancing sights, allowing it to put shots on target from far greater ranges. A weapon with the Scope trait ignores the rule that limits all attacks made at a range greater than 100 metres are automatically treated as being at Extreme range, so long as the Traveller aims before shooting.
+Scope: The weapon has been fitted with vision- enhancing sights, allowing it to put shots on target from far greater ranges. A weapon with the Scope trait ignores the rule that limits all attacks made at a range greater than 100 meters are automatically treated as being at Extreme range, so long as the Traveller aims before shooting.
 
 Smart: This weapon has intelligent or semi-intelligent rounds able to guide themselves to a target. They gain a DM to their attack rolls equal to the difference between their TL and that of the target (usually their armor or vehicle, although Smart weapons can also home in on communications devices, computers and weapons). This DM will be a minimum of DM+1 and a maximum of DM+6.
 
@@ -2746,9 +2746,9 @@ Formidable (14+) 3D 1D hours
 
 Pneumonia Average (8+) 1D 1D weeks Regina Flu Routine (6+) 1D-2 1D days
 
-FALLING A Traveller who falls on a 1-gravity world suffers 1D damage for every two metres they fall. High- or low- gravity worlds (see Gravity) will increase or decrease the damage by 1D for every four metres fallen. A Traveller who make a successful Athletics check
+FALLING A Traveller who falls on a 1-gravity world suffers 1D damage for every two meters they fall. High- or low- gravity worlds (see Gravity) will increase or decrease the damage by 1D for every four meters fallen. A Traveller who make a successful Athletics check
 
-can reduce the distance fallen for the purposes of calculating damage by a number of metres equal to the Effect of their check.
+can reduce the distance fallen for the purposes of calculating damage by a number of meters equal to the Effect of their check.
 
 Armor does not protect against damage sustained from falling.
 
@@ -2855,9 +2855,9 @@ ENCOUNTERS Throughout their adventures, Travellers will have the opportunity to 
 
 During encounters, a range band system is used for convenience, as shown on the Range Band table.
 
-Range Band Range Distance to Target Close Up to 5 metres Short 5–10 metres Medium 11–50 metres Long 51–250 metres Very Long 251–500 metres Distant 501–5,000 metres Very Distant Over 5 kilometres
+Range Band Range Distance to Target Close Up to 5 meters Short 5–10 meters Medium 11–50 meters Long 51–250 meters Very Long 251–500 meters Distant 501–5,000 meters Very Distant Over 5 kilometers
 
-When an encounter occurs, the referee should roll on the Encounter Distance table to determine when the Travellers might first become aware of the potential danger. There are a variety of modifiers given here to reflect specific situations but the referee should feel free to further modify the results based on circumstances. For example, if the Travellers are being tracked by hit men in a crowded city street, they are unlikely to spot them at Distant range (over 500 metres). However, this could be entirely possible if the hit men are not on foot but flying above the street in an air/raft...
+When an encounter occurs, the referee should roll on the Encounter Distance table to determine when the Travellers might first become aware of the potential danger. There are a variety of modifiers given here to reflect specific situations but the referee should feel free to further modify the results based on circumstances. For example, if the Travellers are being tracked by hit men in a crowded city street, they are unlikely to spot them at Distant range (over 500 meters). However, this could be entirely possible if the hit men are not on foot but flying above the street in an air/raft...
 
 Encounter Distance 2D Range Band 2 or less Close 3 Short 4–5 Medium 6–9 Long 10–11 Very Long 12 or more Distant
 
@@ -2943,7 +2943,7 @@ Carthus A tall, pale creature that dwells in deep desert caves. Its four limbs a
 
 Animal Hits Speed Carthus 28 13m Skills Melee (natural) 3, Recon 2, Stealth 2, Survival 2 Attacks Bite (4D) Traits Amphibious, Camouflaged, Fast Metabolism (+2), Heightened Senses, Large (+1) Behaviour Carnivore, Hunter
 
-Erakruul This is an extremely large sea worm with bioluminescent spots and markings across the length of its body. Its most notable feature is a large sucker-like disk of a mouth filled with hundreds of tiny sharp teeth. The erakruul spends the majority of its life in the very deep, inky black oceans of its homeworld where it feeds on corpses that sink to the bottom of the sea. While it is unknown how large these creatures can grow, the largest sighting to date was over 60 metres in length.
+Erakruul This is an extremely large sea worm with bioluminescent spots and markings across the length of its body. Its most notable feature is a large sucker-like disk of a mouth filled with hundreds of tiny sharp teeth. The erakruul spends the majority of its life in the very deep, inky black oceans of its homeworld where it feeds on corpses that sink to the bottom of the sea. While it is unknown how large these creatures can grow, the largest sighting to date was over 60 meters in length.
 
 Animal Hits Speed Erakruul 95 5m Skills Athletics (strength) 3, Survival 3 Attacks Bite (6D) Traits Bioelectricity (+4D), Heightened Senses, Large (+5), Slow Metabolism (-3) Behaviour Scavenger, Reducer
 
@@ -2955,12 +2955,12 @@ Klian Sea Sifter Living in temperate shallows, the sea sifter is a small aquatic
 
 Animal Hits Speed Klian Sea Sifter 6 2m Skills Recon 1, Stealth 0, Survival 1 Attacks Claws (D3) Traits Amphibious, Armor (+4), Camouflage, Small (-2) Behaviour Carnivore, Grazer
 
-Nibbon A small cute creature commonly found in pine forests inside the trunks of trees, they make popular pets and companions due to their friendly and loyal demeanour. Nibbons resemble small green fennec foxes with antennae similar to moths, as well as surprisingly strong and colourful wings to warn off predators. They used to be a delicacy on their homeworld but can only be cooked by extremely talented chefs who know where their deadly poison glands are located. Their favourite foods are small insects and fruit.
+Nibbon A small cute creature commonly found in pine forests inside the trunks of trees, they make popular pets and companions due to their friendly and loyal demeanour. Nibbons resemble small green fennec foxes with antennae similar to moths, as well as surprisingly strong and colourful wings to warn off predators. They used to be a delicacy on their homeworld but can only be cooked by extremely talented chefs who know where their deadly poison glands are located. Their favorite foods are small insects and fruit.
 
 Animal Hits Speed Nibbon 3 10m Skills Athletics (dexterity) 3, Recon 3, Stealth 2, Survival 2 Attacks Claws (D3) Traits Heightened Senses, Poison
 (difficult/2D/1D hours), Flyer (slow) Behaviour Omnivore, Hunter
 
-Ruuta The ruuta is a small ball covered in mottled down. There are no apparent eyes or other features apart from webbed spines protruding from each side of its sphere, like wings, which flap at incredible speed and make a deep buzzing noise. It spends the majority of its life in the upper clouds of its homeworld feeding on chemicals by absorption through its wing membranes and only returns to the surface to lay eggs. The males of this species are approximately four centimetres in diameter and tend to be vibrantly coloured in order to attract mates while the females are around eight centimetres in diameter and tend to be mostly black, white and varying shades of grey.
+Ruuta The ruuta is a small ball covered in mottled down. There are no apparent eyes or other features apart from webbed spines protruding from each side of its sphere, like wings, which flap at incredible speed and make a deep buzzing noise. It spends the majority of its life in the upper clouds of its homeworld feeding on chemicals by absorption through its wing membranes and only returns to the surface to lay eggs. The males of this species are approximately four centimeters in diameter and tend to be vibrantly coloured in order to attract mates while the females are around eight centimeters in diameter and tend to be mostly black, white and varying shades of grey.
 
 Animal Hits Speed Ruuta 1 0m Skills Athletics (dexterity) 2, Recon 3, Survival 0 Attacks None Traits Fast Metabolism (+3), Flyer (slow), Heightened Senses, IR/UV Vision, Small (-4) Behaviour Scavenger, Filter
 
@@ -3003,7 +3003,7 @@ OTHER CHARACTERS During the course of the Travellers’ adventures, the referee 
 
 scientists, naval officers, alien diplomats, untrustworthy brokers, primitive tribesmen, deranged artificial intelligences, alien hive-minds and whoever else the Travellers encounter. Most of these characters will appear only for a single scene, so there is no need to lavish detail on a trader or guard. Just come up with a personality trait or two and a name, and jot them down. If a character is to appear multiple times in the campaign, then the referee should determine characteristics, skills and a fuller personality. While the focus of the game is always on the Travellers, important characters do not exist solely to serve as allies or antagonists. They have their own agendas and desires and will pursue their own goals. Sometimes, their schemes might just enmesh the Travellers!
 
-For example, Erik has a Contact named Tarel Paragi, an Imperial diplomat. Erik can call on Paragi when dealing with Imperial bureaucracies. What Erik does not know is that Tarel is secretly a Zhodani spy and that every favour that Erik asks of his friend is putting him deeper in debt to a foreign power.
+For example, Erik has a Contact named Tarel Paragi, an Imperial diplomat. Erik can call on Paragi when dealing with Imperial bureaucracies. What Erik does not know is that Tarel is secretly a Zhodani spy and that every favor that Erik asks of his friend is putting him deeper in debt to a foreign power.
 
 GENERATING CHARACTERS While characters can be generated using the Traveller Creation chapter, it is generally faster just to note down characteristics and a few appropriate skills. A skilled
 
@@ -3130,7 +3130,7 @@ Green characters have completely average characteristics (a score of 7 for each 
 
 Additional skills can be added to further specialize a character. A scientist, for example, will likely have Electronics (computers) and Science, while a navy fighter pilot will have Pilot (small craft). The referee can add skills and equipment as they feel appropriate to the character’s role in the adventure.
 
-PATRONS AND MISSIONS Patrons are characters in positions of power, authority, influence or dire need who employ the Travellers and give them missions. Sometimes, the reward from a mission will be purely financial – the Travellers might be hired as bodyguards, mercenaries, couriers, thieves or scouts for a few hundred or a few thousand Credits. Other missions will have less tangible rewards, such as being owed a favour by the patron, acquisition of status or influence, or just the knowledge of having done the right thing.
+PATRONS AND MISSIONS Patrons are characters in positions of power, authority, influence or dire need who employ the Travellers and give them missions. Sometimes, the reward from a mission will be purely financial – the Travellers might be hired as bodyguards, mercenaries, couriers, thieves or scouts for a few hundred or a few thousand Credits. Other missions will have less tangible rewards, such as being owed a favor by the patron, acquisition of status or influence, or just the knowledge of having done the right thing.
 
 While the referee should normally design missions in detail, tailoring events to the skills and personalities of the Travellers, random missions can be generated in a hurry by using the tables in this chapter.
 
@@ -3646,14 +3646,14 @@ Cr500
 
 A bug can be active or passive. An active bug transmits data (either constantly, or when triggered). Passive bugs just record until activated.
 
-**Commdot:** A commdot is a tiny microphone/ speaker and transmitter, ranging in size between a few centimetres and a few millimetres across. A commdot is capable of interfacing with another communications device and relaying messages back and forth. Commdots have a range of only a few metres and are usually used as hands-free communicators but can also be used as improvised bugs or throat microphones.
+**Commdot:** A commdot is a tiny microphone/ speaker and transmitter, ranging in size between a few centimeters and a few millimeters across. A commdot is capable of interfacing with another communications device and relaying messages back and forth. Commdots have a range of only a few meters and are usually used as hands-free communicators but can also be used as improvised bugs or throat microphones.
 
 **ITEM TL MASS COST**
 
 Commdot (^10) — Cr10
 **Mobile Comm:** A mobile comm unit is a portable telecommunications device/computer/camera, ranging in size from a bulky handset to a slim watch or pen-like cylinder – in today’s world we call them mobile phones or cell phones. Larger comms have physical controls and screens while smaller units either project data and control displays onto nearby surfaces, have fold-out plastic screens, or connect to cybernetics. Comms have only short-range transmission and reception capabilities but most technologically advanced worlds will have planetwide comm networks allowing the user to send messages and access data anywhere.
 **TL FEATURES COST** TL6 Audio only Cr50 TL8 Audio and visual, Computer/0 Cr150 TL10 Multiple forms of data, Computer/1 Cr500
-**Transceiver:** A transceiver is a stand-alone communications device, what today we would call a two-way radio. Unlike a mobile comm, which relies on the presence of an established communications network, a transceiver can send and receive directly under its own power. Most transceivers are radio or laser-based. Meson communicators are possible but generally not easily portable or available. To reach orbital ranges reliably, a transceiver requires a range of 500 kilometres. Mobile Comm
+**Transceiver:** A transceiver is a stand-alone communications device, what today we would call a two-way radio. Unlike a mobile comm, which relies on the presence of an established communications network, a transceiver can send and receive directly under its own power. Most transceivers are radio or laser-based. Meson communicators are possible but generally not easily portable or available. To reach orbital ranges reliably, a transceiver requires a range of 500 kilometers. Mobile Comm
 
 ##### computers & software
 
@@ -3828,7 +3828,7 @@ IR Goggles Light Intensifier Goggles
 
 **Light Intensifier Goggles:** Permits the users to see normally in anything less than total darkness by electronically intensifying any available light. TL9: Combines with IR goggles into a single unit.
 
-**NAS:** The Neural Activity Scanner consists of a backpack and detachable handheld unit and can detect neural activity up to 500 metres away. The device can also give a rough estimation of the intelligence level of organisms based on brainwave patterns.
+**NAS:** The Neural Activity Scanner consists of a backpack and detachable handheld unit and can detect neural activity up to 500 meters away. The device can also give a rough estimation of the intelligence level of organisms based on brainwave patterns.
 
 NAS
 
@@ -3870,7 +3870,7 @@ Portable Fusion Generator: This is a light-duty portable fusion generator, capab
 
 Radiation Suit: A radiation suit protects the Traveller against direct radiation, such as solar flares or a reactor breach. A vacc suit will offer some protection but for areas of hard radiation a dedicated radiation suit is required, reducing exposure by 100 rads.
 
-Rescue Bubble: A large (two metre diameter) plastic bubble. Piezoelectric layers in the bubble wall translate the user’s movements into electricity to recharge the bubble’s batteries and power its distress beacon and a small oxygen tank both inflates the bubble and provides two person/hours of life support. A self-repairing plastic seal serves as an emergency airlock. Rescue bubbles are found on both space and sea vessels as emergency lifeboats.
+Rescue Bubble: A large (two meter diameter) plastic bubble. Piezoelectric layers in the bubble wall translate the user’s movements into electricity to recharge the bubble’s batteries and power its distress beacon and a small oxygen tank both inflates the bubble and provides two person/hours of life support. A self-repairing plastic seal serves as an emergency airlock. Rescue bubbles are found on both space and sea vessels as emergency lifeboats.
 
 Respirator: This rebreather concentrates inhaled oxygen, allowing a Traveller to breathe on worlds with a thin atmosphere. Respirators take the form of a face mask or mouthpiece initially. TL10: The more advanced respirator is small enough to fit into the nose or can even be a lung implant.
 
@@ -3964,7 +3964,7 @@ Shield
 
 **Cutlass:** The standard shipboard blade weapon, often kept near airlocks to repel boarders.
 
-**Dagger:** A small knife weapon, approximately 20–30 centimetres in length.
+**Dagger:** A small knife weapon, approximately 20–30 centimeters in length.
 
 **Improvised:** Sometimes a Traveller just has to use whatever comes to hand. This covers any non- weapon object a Traveller grabs during a fight.
 
@@ -4185,7 +4185,7 @@ WEAPON TL RANGE DAMAGE KG COST MAGAZINE MAGAZINE COST TRAITS Plastic 6 — 3D �
 
 12 — 6DD 4 Cr250000 — — Blast 1000, Radiation TDX 12 — 4D — Cr1000 — — Blast 15
 
-Plastic: This generic, multi-purpose plastic explosive is a favourite of military units, terrorists, demolition teams and Travellers across Charted Space.
+Plastic: This generic, multi-purpose plastic explosive is a favorite of military units, terrorists, demolition teams and Travellers across Charted Space.
 
 Pocket Nuke: Hideously illegal on many worlds, the pocket nuke is actually the size of a briefcase and so is too large to fit into a grenade launcher. Using multiple pocket nukes will not increase the Damage or Burst of the explosion.
 
@@ -4207,7 +4207,7 @@ Weapons can be customised to a massive degree. Listed here are just some of the 
 
 **Intelligent Weapon (TL11):** This adds Computer/0 to any weapon. Costs Cr1000. TL13: This adds Computer/1 to any weapon. Costs Cr5000.
 
-**Laser Sight (TL8):** Integrated optics and laser sights grant DM+1 to any attack made at less than 50 metres. Costs Cr200. TL10: Ultraviolet lasers and improved display technology removes the tell-tale ‘red dot’ of a vislight laser.
+**Laser Sight (TL8):** Integrated optics and laser sights grant DM+1 to any attack made at less than 50 meters. Costs Cr200. TL10: Ultraviolet lasers and improved display technology removes the tell-tale ‘red dot’ of a vislight laser.
 
 Scope (TL5): A high-quality telescopic scope for attachment to a rifle or heavy weapon, allowing accurate shots to be made at extreme ranges. Any rifle or heavy weapon equipped with this gains the Scope trait. Costs Cr50. TL7: Adds image enhancement and light intensification, allowing the scope to be used in low- light environments without penalty.
 
@@ -4223,13 +4223,13 @@ Travellers will come into contact with many vehicles of different types and it i
 
 All vehicles share some common characteristics. The example shown here is a simple ground car found on most low-Tech Level industrialised worlds.
 
-MOVEMENT While the distance a Traveller, alien or animal can move is listed in metres per combat round, vehicles are capable of travelling much, much faster. For this reason, the rate at which a vehicle is moving is determined by Speed Bands, as shown on the Speed Bands table. This table shows the relative speed each Speed band represents in kilometres per hour for reference.
+MOVEMENT While the distance a Traveller, alien or animal can move is listed in meters per combat round, vehicles are capable of travelling much, much faster. For this reason, the rate at which a vehicle is moving is determined by Speed Bands, as shown on the Speed Bands table. This table shows the relative speed each Speed band represents in kilometers per hour for reference.
 
 A vehicle may change its current speed by one Speed Band at the start of every combat round if it is travelling at Fast speed or less, or by one Speed Band every minute if it is travelling faster. Travellers on foot will typically use the Idle band.
 
 The Speed Band Number is a useful abbreviation of the Speed Bands and is used for some rules a little further on.
 
-Speed Bands Speed Band Speed Band Number Kilometres per Hour Stopped 0 0 Idle 1 1–20 Very Slow 2 20–50 Slow 3 50–100 Medium 4 100–200 High 5 200–300 Fast 6 300–500 Very Fast 7 500–800 Subsonic 8 800–1,200 Supersonic 9 1,200–6,000 Hypersonic 10 6,000 or more
+Speed Bands Speed Band Speed Band Number Kilometers per Hour Stopped 0 0 Idle 1 1–20 Very Slow 2 20–50 Slow 3 50–100 Medium 4 100–200 High 5 200–300 Fast 6 300–500 Very Fast 7 500–800 Subsonic 8 800–1,200 Supersonic 9 1,200–6,000 Hypersonic 10 6,000 or more
 
 ROUGH TERRAIN The listed speed for any ground vehicle is what is normally attainable on a relatively flat or even surface, such as a road, track or short grass. If a ground vehicle
 (any vehicle that uses the Drive skill) is taken off-road, the going will get more difficult.
@@ -4306,7 +4306,7 @@ OPEN VEHICLES Open vehicles include motorbikes, air/rafts and other vehicles whe
 
 VEHICULAR ACTIONS These are all significant actions that the driver (or pilot) of a vehicle can perform during their turn in a combat round. All skill checks used in these actions use the Agility of the vehicle as a DM.
 
-Dogfight: A vehicle within one kilometre and within one Speed Band of another may initiate a dogfight. This is a series of maneuvers whereby the driver of one vehicle attempts to gain a position of advantage over another and, hopefully, destroy it.
+Dogfight: A vehicle within one kilometer and within one Speed Band of another may initiate a dogfight. This is a series of maneuvers whereby the driver of one vehicle attempts to gain a position of advantage over another and, hopefully, destroy it.
 
 The drivers of both vehicles make opposed skill checks using the skill appropriate to their vehicle (Drive, Flyer, or Seafarer), modified by their vehicle’s Agility as normal. For every additional enemy engaging in the dogfight, DM-1 is applied.
 
@@ -4331,9 +4331,9 @@ Stunt: With a successful skill check the driver or pilot can do pretty much anyt
 VEHICLE WEAPONS Attacking with ranged weapons mounted upon a vehicle uses the same rules as detailed in the Combat chapter, with the following exceptions:
 
 •  Firing a vehicle-mounted weapon uses the Heavy Weapons (vehicle) skill.
-•  The Range of weapons designed to be mounted on vehicles is noted in kilometres, not metres.
+•  The Range of weapons designed to be mounted on vehicles is noted in kilometers, not meters.
 •  All weapons mounted on a closed vehicle may not be used to attack targets within 5% of the weapon’s Range. They are simply not designed to engage close targets.
-•  Note that unless a vehicle-mounted weapon has the Scope trait (see page 79), all attacks made at a range greater than one kilometre (as opposed to 100 metres for Travellers shooting on foot) are automatically considered to be Extreme range.
+•  Note that unless a vehicle-mounted weapon has the Scope trait (see page 79), all attacks made at a range greater than one kilometer (as opposed to 100 meters for Travellers shooting on foot) are automatically considered to be Extreme range.
 •  Weapons mounted on vehicles are subject to fire arcs.
 •  An additional DM-1 is imposed on all attack rolls for every Speed Band difference between the attacker and its target. This applies to Passengers firing from the vehicle as well.
 
@@ -4493,7 +4493,7 @@ COLLISIONS When a vehicle collides with something else – a Traveller, another 
 
 In a head-on collision between two vehicles, the Speed Band Numbers of both are added to calculate the collision damage.
 
-Any unsecured passengers in a vehicle damaged in a collision take the same damage and, in open vehicles, are thrown 10 metres for every Speed Band Number. Damage to passengers involved in collisions ignores any personal armor.
+Any unsecured passengers in a vehicle damaged in a collision take the same damage and, in open vehicles, are thrown 10 meters for every Speed Band Number. Damage to passengers involved in collisions ignores any personal armor.
 
 Secured passengers (those wearing seatbelts or something similar) are not thrown anywhere and take one quarter of this damage.
 
@@ -4506,7 +4506,7 @@ All weapons and equipment that are destroyed by critical hits will have to be co
 VEHICLE WEAPONS These are among the more common weapons fitted to vehicles in an effort to bring heavier firepower to the battlefield.
 
 All these weapons require the Heavy Weapons
-(vehicle) skill. Note that, for these weapons, ranges are listed in kilometres and tons are used instead of kilograms for mass.
+(vehicle) skill. Note that, for these weapons, ranges are listed in kilometers and tons are used instead of kilograms for mass.
 
 Cannon : A large calibre gun used to arm the heavy tanks and armored vehicles of mid-Tech Level armies.
 
@@ -4525,7 +4525,7 @@ Communications : Most communications systems use some form of electromagnetic ra
 
 Vehicle Weapons Weapon TL Range Damage Tons Cost Magazine Magazine Cost Traits Cannon 8 2 8D 2.5 Cr400000 30 Cr5000 Blast 10 Heavy Machinegun 6 1 4D 0.1 Cr4500 100 Cr400 Auto 3 Laser Cannon 9 2.5 1DD 6 Cr100000 — — AP 10 Light Autocannon 6 1 6D .25 Cr10000 500 Cr1000 Auto 3
 
-communicators become possible. The standard range of the communications system is five kilometres but the range of any communicator can be multiplied by itself by doubling the cost. TL6 : Range increases to 50km. TL8 : Range increases to 500km and can communicate with overhead satellites. Can also use lasers or masers to precisely aim a signal so it cannot be intercepted. TL15 : Range increase to 5,000km.
+communicators become possible. The standard range of the communications system is five kilometers but the range of any communicator can be multiplied by itself by doubling the cost. TL6 : Range increases to 50km. TL8 : Range increases to 500km and can communicate with overhead satellites. Can also use lasers or masers to precisely aim a signal so it cannot be intercepted. TL15 : Range increase to 5,000km.
 
 Entertainment System : At lower Tech Levels this will be purely audio but video becomes possible very quickly. The cost indicated represents a basic entertainment system found on many stock civilian vehicles but Travellers are welcome to spend almost any amount to create a custom entertainment system that could be fairly described as ‘well banging, innit’.
 
@@ -4535,7 +4535,7 @@ Off-road : Any vehicle that uses the Drive skill may be modified to go off-road.
 
 Sensors : At low Tech Levels, sensors may be little more than headlights and a pair of binoculars but as technology increases, they become increasingly more
 
-sophisticated and capable. Even basic civilian vehicles may start to sport radar, densitometers and thermal systems. The range of basic sensors is one kilometre but note that Tech Level is a very important component to the capability of sensors. For every three Tech Levels above TL5, increase the cost of the sensors by +50%. Improved : Provides DM+1 to all Electronics (sensors) checks and increases range to 5km. Advanced : Provides DM+2 to all Electronics (sensors) checks and increases range to 25km.
+sophisticated and capable. Even basic civilian vehicles may start to sport radar, densitometers and thermal systems. The range of basic sensors is one kilometer but note that Tech Level is a very important component to the capability of sensors. For every three Tech Levels above TL5, increase the cost of the sensors by +50%. Improved : Provides DM+1 to all Electronics (sensors) checks and increases range to 5km. Advanced : Provides DM+2 to all Electronics (sensors) checks and increases range to 25km.
 
 Short Term Life Support : This provides a breathable atmosphere inside a closed vehicle for one day, no matter the exterior conditions. The cost is for every person the system must support.
 
@@ -4584,7 +4584,7 @@ EQUIPMENT AND WEAPONS Camouflage (basic), Communication system (improved), Crane
 
 cargo lifter
 
-A common sight around starports and loading bays, the cargo lifter stands around three metres high and is equipped with two heavy duty manipulator arms. The operator can use the strength of the cargo lifter to move containers and other heavy objects quickly and efficiently. A sealed version can be purchased for an extra Cr70000, which includes short term life support and vaccum protection but this upgrade removes the cargo space.
+A common sight around starports and loading bays, the cargo lifter stands around three meters high and is equipped with two heavy duty manipulator arms. The operator can use the strength of the cargo lifter to move containers and other heavy objects quickly and efficiently. A sealed version can be purchased for an extra Cr70000, which includes short term life support and vaccum protection but this upgrade removes the cargo space.
 
 EQUIPMENT AND WEAPONS Communications System (improved)
 
@@ -4598,7 +4598,7 @@ TL 12 SKILL Flyer (grav) AGILITY +3 SPEED (CRUISE) Very fast (fast) RANGE (CRUIS
 
 g/bike
 
-Much like its ground based predecessors, the G/ bike' speed and size make it a favourite with many Travellers needing to make their own way around a strange planet. It is also the focus of many subcultures and gangs across Charted space.
+Much like its ground based predecessors, the G/ bike' speed and size make it a favorite with many Travellers needing to make their own way around a strange planet. It is also the focus of many subcultures and gangs across Charted space.
 
 EQUIPMENT AND WEAPONS Communications system (improved), Navigation System (improved), Sensor System (improved).
 
@@ -4651,7 +4651,7 @@ TL 15 SKILL Flyer (grav) AGILITY -1 SPEED (CRUISE) Fast (high) RANGE (CRUISE) 50
 
 personal land yacht
 
-This wind-powered vehicle is used on worlds with typically flat terrain and reliable winds. It is capable of traversing great distances with favourable winds but while a passenger can be carried, its cargo capacity while doing so is non-existent.
+This wind-powered vehicle is used on worlds with typically flat terrain and reliable winds. It is capable of traversing great distances with favorable winds but while a passenger can be carried, its cargo capacity while doing so is non-existent.
 
 EQUIPMENT AND WEAPONS Wind powered. No weapon.
 
@@ -4676,7 +4676,7 @@ SPACECRAFT The term spacecraft covers any interplanetary or interstellar vehicle
 
 Ship: A spacecraft of 100 tons or more. Small Craft: A spacecraft of less than 100 tons. Small craft are incapable of jumping to other star systems. Capital Ship: A ship of more than 5,000 tons. System Ship: A ship without jump drives. Streamlined Hull: A ship designed to fly through atmosphere – will feature a wing or lifting body. Partially Streamlined Hull: These ships may enter atmospheres but are not specifically designed to do so and are extremely ungainly. Unstreamlined Hull: These ships are completely non-aerodynamic. While they can potentially enter atmospheres, this tends to be very dangerous.
 
-The size of a ship, its components and cargo is measured in displacement tons or simply tons. A displacement ton displaces a volume equal to one ton of liquid hydrogen. One displacement ton is roughly equal to 14 cubic metres.
+The size of a ship, its components and cargo is measured in displacement tons or simply tons. A displacement ton displaces a volume equal to one ton of liquid hydrogen. One displacement ton is roughly equal to 14 cubic meters.
 
 BUYING A SHIP Spacecraft are eye-wateringly expensive to the extent that, ordinarily, only the very rich, governments or large corporations can afford them. However, an industry of ship mortgages has sprung up that allows individual Travellers at least the dream of owning their own ship, although the repayments can be suitably astronomical and may force them to make less than noble decisions in order to meet bills charged every four weeks (this is the basis and driving force of many Traveller campaigns).
 
@@ -4692,7 +4692,7 @@ SHIP SHARES Individual ship shares may also be earned during careers, each worth
 
 SPACE AND TIME The following units of measurement are used to describe astronomical distances.
 
-Astronomic Unit: The distance between the Earth and the Sun – 149,597,870 kilometres. Light Second: The distance light travels in one second – 299,792 kilometres. Light Minute: 17,987,547 kilometres. Light Year: 9,460,730,472,580.8 kilometres. Parsec: Parallax of one second of arc – 30.857 x 1012 kilometres or 3.262 light years.
+Astronomic Unit: The distance between the Earth and the Sun – 149,597,870 kilometers. Light Second: The distance light travels in one second – 299,792 kilometers. Light Minute: 17,987,547 kilometers. Light Year: 9,460,730,472,580.8 kilometers. Parsec: Parallax of one second of arc – 30.857 x 1012 kilometers or 3.262 light years.
 
 Ships Name : What you name your ship can define its personality.
 
@@ -4928,7 +4928,7 @@ Jump travel is the only known means by which a vessel may travel faster than lig
 
 This new universe is short-lived and will eventually collapse, precipitating the ship back into normal space several light-years from its original position.
 
-A ship can only safely jump when it is more than 100 diameters distant from any object larger than the ship. A vessel could only jump away from Earth, for example, when it is more than 1.27 million kilometres distant (as well as 140 million kilometres away from Sol and 300,000 kilometres away from the Moon). Gravity can cause a jump bubble to collapse prematurely, bringing a ship back into normal space early – so, if a ship tried to jump from Earth to Mars when the Sun was between the two, the vessel would fall out of jump space as soon as it came within 100 diameters of the Sun.
+A ship can only safely jump when it is more than 100 diameters distant from any object larger than the ship. A vessel could only jump away from Earth, for example, when it is more than 1.27 million kilometers distant (as well as 140 million kilometers away from Sol and 300,000 kilometers away from the Moon). Gravity can cause a jump bubble to collapse prematurely, bringing a ship back into normal space early – so, if a ship tried to jump from Earth to Mars when the Sun was between the two, the vessel would fall out of jump space as soon as it came within 100 diameters of the Sun.
 
 **PREPARING FOR JUMP** To jump, the following procedures must be performed as a task chain using Astrogation and Engineer
 (j-drive) checks.
@@ -5016,7 +5016,7 @@ Critical Hit: A critical hit can be jury-rigged back to use
 
 Hull Damage: Each lost Hull point can be replaced with a Routine (6+) Mechanic check (1 hour, INT or EDU), consuming one ton of spare parts.
 
-SENSORS All spacecraft have advanced sensors that allow them to spot potential threats and items of interest from possibly thousands of kilometres distant. They have limited automatic operation but, as always, it requires a human present to actually interpret the information in a useful way.
+SENSORS All spacecraft have advanced sensors that allow them to spot potential threats and items of interest from possibly thousands of kilometers distant. They have limited automatic operation but, as always, it requires a human present to actually interpret the information in a useful way.
 
 Under normal circumstances, an Electronics (sensors) check is all that is required to detect and identify a target that has moved into range of sensors. What information can be determined from this depends on the type of sensors employed.
 
@@ -5105,7 +5105,7 @@ the level of an attacker’s Athletics (dexterity) skill (see Zero Gravity on pa
 
 TRAVEL TIMES Spacecraft are extremely fast – however, space is very large and even with all their advanced technology, it still takes a long time to reach destinations. Worlds orbiting the same star are accessible by interplanetary travel, on ships operated by local entrepreneurs or with a variety of small craft.
 
-Interplanetary travel takes time. The travel formulae can determine time required (if distance and acceleration are known), acceleration required (if distance and time are known) and distance travelled (if time and acceleration are known). All of these formulae use metres and seconds and assume the ship is undertaking a journey from rest, that it accelerates continuously to midpoint of the trip, then decelerates to rest again. 1G is equal to approximately 10 metres per second per second.
+Interplanetary travel takes time. The travel formulae can determine time required (if distance and acceleration are known), acceleration required (if distance and time are known) and distance travelled (if time and acceleration are known). All of these formulae use meters and seconds and assume the ship is undertaking a journey from rest, that it accelerates continuously to midpoint of the trip, then decelerates to rest again. 1G is equal to approximately 10 meters per second per second.
 
 TRAVEL CALCULATIONS The following calculations can be used to work out specific travel times if required – you are going to need a calculator for this!
 
@@ -5130,7 +5130,7 @@ Common Distances for Traders Object to Object Distance Time at 1G Time at 2G Wor
 
 # SPACE COMBAT
 
-Clashes between spacecraft in Traveller can involve small, faster craft, zipping between asteroids as they snap laser blasts off at one another or battles taking place over distances of thousands of kilometres, sometimes over long hours. These battles are slow, calculated affairs, with spears of brilliant light lancing out into the darkness across relativistic distances, aimed at where the enemy is predicted to be.
+Clashes between spacecraft in Traveller can involve small, faster craft, zipping between asteroids as they snap laser blasts off at one another or battles taking place over distances of thousands of kilometers, sometimes over long hours. These battles are slow, calculated affairs, with spears of brilliant light lancing out into the darkness across relativistic distances, aimed at where the enemy is predicted to be.
 
 The former type of battle takes place at short range, often close enough for crews to visually sight their enemy through a viewport. This kind of close ranged
 ‘knife fight’ uses rules very similar to those used between vehicles and is summarized on page 138. It can be likened to swirling aerial dogfights where pilots are flying by the seat of their pants in order to get a shot at the enemy.
@@ -5218,7 +5218,7 @@ ATTACK STEP Once all ships have worked out their movement and combat manoeuvring
 Attacking with weapons mounted on spacecraft uses the same rules as detailed in the Combat chapter, with the following exceptions:
 
 •  Firing a spacecraft-mounted weapon uses the Gunner skill.
-•  The maximum Range of weapons is noted in Range Bands, not metres.
+•  The maximum Range of weapons is noted in Range Bands, not meters.
 
 Weapons on board a spacecraft are fired by Travellers assigned to gunner duty. However, a pilot may fire any weapons in a single turret at DM-2 to the attack roll or weapons noted as being in fixed mounts (this is usually found on smaller craft that are not always large enough to accommodate turrets, such as fighters and shuttles).
 
@@ -5493,7 +5493,7 @@ OFFLINE SYSTEM (ENGINEER) Specific systems and weapons on board the ship can be 
 
 OVERLOAD DRIVE (ENGINEER) By overloading the maneuver drive, the engineer can lend the ship extra speed and manoeuvrability. A successful Difficult (10+) Engineer (m-drive) check (1 round, INT) will increase the ship’s Thrust by +1 during the next round. If the check fails with an Effect of –6 or less, the maneuver drive suffers a critical hit with Severity 1, as detailed on page 168. This check suffers a cumulative DM–2 each time it is attempted after the first. This penalty can be removed by performing maintenance on the drive, a procedure that requires Engineer (m-drive) and 1D hours.
 
-OVERLOAD PLANT (ENGINEER) A favourite of engineers on action vids, the power plant can be overstressed on a temporary basis to provide the ship with more Power. A successful Difficult (10+) Engineer (power) check (1 round, INT) will increase the ship’s current Power by +10% during the next round. If the check fails with an Effect of –6 or less, the power plant suffers a critical hit with Severity 1, as detailed on page 168. This check suffers a cumulative DM–2
+OVERLOAD PLANT (ENGINEER) A favorite of engineers on action vids, the power plant can be overstressed on a temporary basis to provide the ship with more Power. A successful Difficult (10+) Engineer (power) check (1 round, INT) will increase the ship’s current Power by +10% during the next round. If the check fails with an Effect of –6 or less, the power plant suffers a critical hit with Severity 1, as detailed on page 168. This check suffers a cumulative DM–2
 
 each time it is attempted after the first. This penalty can be removed by performing maintenance on the power plant, a procedure that requires Engineer (power) and 1D hours.
 
@@ -5596,7 +5596,7 @@ If the dogfight continues into the following combat round, the winner of the pre
 
 DOGFIGHTING VEHICLES The dogfighting rules used for spacecraft are compatible with those used for vehicles and may be used when a spacecraft enters an atmosphere and, perhaps, is forced to engage with jet or grav fighters. However, even relatively nimble space fighters are designed for battle across enormous distances in the void of space and will find themselves at a disadvantage against smaller and more nimble vehicles.
 
-In addition to the dogfighting modifiers listed, spacecraft suffer an additional DM–2 when dogfighting vehicles. In the spacecraft’s favour, very powerful engines can counter this, although a typical merchant will be very ponderous in a dogfight.
+In addition to the dogfighting modifiers listed, spacecraft suffer an additional DM–2 when dogfighting vehicles. In the spacecraft’s favor, very powerful engines can counter this, although a typical merchant will be very ponderous in a dogfight.
 
 Spacecraft are capable of any Speed Band listed in the Vehicles chapter and will typically be going at Hypersonic speeds when entering an atmosphere.
 
@@ -5606,7 +5606,7 @@ A dogfight will normally be over long before spacecraft outside it are able to a
 
 BOARDING ACTIONS There is little in space combat more exciting and terrifying than a boarding action. Marines launch themselves from a closely manoeuvring ship or dedicated small craft and hurl themselves at an enemy vessel in an attempt to gain entry and pacify the crew. These actions lead to vicious firefights with high- powered weaponry being used in the tight confines of a ship’s corridors.
 
-Once two ships are within less than one kilometre of each other (Adjacent range), any marines on board can launch a boarding action during the Actions Step. A boarding action takes 2D rounds to complete, after which its results are decided.
+Once two ships are within less than one kilometer of each other (Adjacent range), any marines on board can launch a boarding action during the Actions Step. A boarding action takes 2D rounds to complete, after which its results are decided.
 
 **RESOLVING A BOARDING ACTION** To resolve a boarding action, both sides roll 2D, apply the following modifiers and then the defender deducts their total from that of the attacker. The final score is then compared on the Boarding Actions table.
 
@@ -5927,7 +5927,7 @@ spacecraft construction
 
 When empty, collapsible tanks take up 1% of the tonnage they use when full. They cost Cr500 per ton.
 
-**CONCEALED COMPARTMENT** A smuggler’s favourite, concealed compartments are cunningly hidden from visual searches and shielded against sensors, allowing them to be used to transport contraband or other questionable items.
+**CONCEALED COMPARTMENT** A smuggler’s favorite, concealed compartments are cunningly hidden from visual searches and shielded against sensors, allowing them to be used to transport contraband or other questionable items.
 
 Up to 5% of a ship’s tonnage may be designated as a concealed compartment and inflicts DM–2 to Electronics (sensors) checks and DM–4 to Investigate checks made to search for it.
 
@@ -5975,7 +5975,7 @@ HIGH STATEROOMS These are very similar to the staterooms detailed on page 182 bu
 
 A high stateroom consumes six tons of space and costs MCr0.8.
 
-HOLOGRAPHIC CONTROLS (TL9) This bridge design incorporates advanced interactive holographic displays and can automatically reconfigure itself to adapt to changing situations. A bridge with holographic controls is always optimised for the task at hand and grants DM+2 when rolling for Initiative.
+HOLOGRAPHIC CONTROLS (TL9) This bridge design incorporates advanced interactive holographic displays and can automatically reconfigure itself to adapt to changing situations. A bridge with holographic controls is always optimized for the task at hand and grants DM+2 when rolling for Initiative.
 
 Holographic controls add +25% to the cost of the bridge.
 
@@ -6497,7 +6497,7 @@ DECK 3
 
 TL12 TONS COST (MCr) Hull 400 tons, Streamlined — 24 M-Drive Thrust 1 4 8 J-Drive Jump-1 15 22.5 Power Plant Fusion, Power 135 9 9 Fuel Tanks J-1, 4 weeks operation 41 — Bridge 20 2 Computer Computer/5 — 0.03 Sensors Civilian Grade 1 3 Weapons — — — Systems Fuel Scoop — — Fuel Processors (20 tons/day) 1 0.05 Docking Space (20 tons) 22 5.5 Launch — 2.367 Software Jump Control/1 — 0.1 Library — — Maneuver — — Intellect — — Staterooms Standard x19 76 9.5 Low Berths x9 4.5 0.45 Common Areas 5.5 0.55 Cargo 201 —
 
-The subsidised merchant (also called the fat trader) is a trading vessel intended to meet the commercial needs of clusters of worlds. It is twice the size of a free trader but carries cargo far more efficiently with a cavernous cargo bay more than twice the size of that within its little cousin. In fact, if its cargo bay doors were larger, the subsidised merchant could
+The subsidized merchant (also called the fat trader) is a trading vessel intended to meet the commercial needs of clusters of worlds. It is twice the size of a free trader but carries cargo far more efficiently with a cavernous cargo bay more than twice the size of that within its little cousin. In fact, if its cargo bay doors were larger, the subsidized merchant could
 
 Crew : Pilot, Astrogator, Engineer, Medic, Steward
 
@@ -6575,7 +6575,7 @@ DECK 3
 
 TL14 TONS COST (MCr) Hull 600 tons, Standard — 30 M-Drive Thrust 1 6 12 J-Drive Jump-3 50 75 Power Plant Fusion, Power 360 24 24 Fuel Tanks J-3, 4 weeks operation 183 — Bridge 20 3 Computer Computer/10bis — 0.24 Sensors Civilian Grade 1 3 Weapons — — — Systems Docking Space (20 tons) 22 5.5 Launch — 2.367 Software Jump Control/3 — 0.3 Library — — Maneuver — — Intellect — — Staterooms Standard x30 120 15 Low Berths x20 10 1 Common Areas 45 4.5 Cargo 119 —
 
-The subsidised liner is built for carrying passengers and cargo on long haul routes, in a modicum of comfort; while a steward is present, passengers should expect cheap interstellar rather than luxury. Overall the ship is capable of carrying 24 passengers in addition to its crew, with a further 20
+The subsidized liner is built for carrying passengers and cargo on long haul routes, in a modicum of comfort; while a steward is present, passengers should expect cheap interstellar rather than luxury. Overall the ship is capable of carrying 24 passengers in addition to its crew, with a further 20
 
 Crew : Pilot, Astrogator, Engineers x2, Medic, Steward
 
@@ -6940,7 +6940,7 @@ The Psion must still roll to acquire talents when they determine their PSI. When
 
 The assignments for Psions are considered to be separate careers and a Traveller must roll for qualification as normal if they choose to change assignment during their career.
 
-Psionic Range Range Band Distance to Target Personal Less than one metre Close 1 to 5 metres Short 6 to 10 metres Medium 11 to 50 metres Long 51 metres to 250 metres Very Long 251 metres to 500 metres Distant 501 metres to 5 kilometres Very Distant 6 kilometres to 500 kilometres Continental 501 to 5,000 kilometres Planetary 5,001 to 50,000 kilometres
+Psionic Range Range Band Distance to Target Personal Less than one meter Close 1 to 5 meters Short 6 to 10 meters Medium 11 to 50 meters Long 51 meters to 250 meters Very Long 251 meters to 500 meters Distant 501 meters to 5 kilometers Very Distant 6 kilometers to 500 kilometers Continental 501 to 5,000 kilometers Planetary 5,001 to 50,000 kilometers
 
 For example, a psionic Traveller could read the mind of a target at Long range using Read Surface Thoughts for 2 PSI points normally, or boost it to Very Long range for 4 PSI points, or even Distant for 8 PSI points.
 
@@ -7023,7 +7023,7 @@ Telekinesis This basic form of the talent allows the Traveller to move objects a
 
 Check: Average (8+) Telekinesis check (1D seconds, PSI) Reach: Short PSI Cost: 1 per 10kg
 
-Flight By applying telekinesis to their own body, the Traveller can fly, or at least levitate over short distances. The Traveller can fly for a number of rounds equal to the Effect of the check at a speed of 15 metres per round.
+Flight By applying telekinesis to their own body, the Traveller can fly, or at least levitate over short distances. The Traveller can fly for a number of rounds equal to the Effect of the check at a speed of 15 meters per round.
 
 Check: Difficult (10+) Telekinesis check (1D seconds, PSI) PSI Cost: 5
 
@@ -7086,9 +7086,9 @@ Energy and Momentum: Teleportation involves serious restrictions on movement in 
 
 On planetary surfaces, teleportation is restricted to jumps of no more than Very Distant ranges. Jumps beyond visual range involve disorientation for a period of 2D – Effect of Teleportation check x 10 seconds.
 
-This restriction results from the law of conservation of momentum; on a rotating planet, two locations will have different rotational speeds and directions. A jump from a point on the Earth’s equator to its antipode would result in a total velocity difference between the Traveller and their surroundings of over 3,300 kilometres per hour.
+This restriction results from the law of conservation of momentum; on a rotating planet, two locations will have different rotational speeds and directions. A jump from a point on the Earth’s equator to its antipode would result in a total velocity difference between the Traveller and their surroundings of over 3,300 kilometers per hour.
 
-Changes in altitude (actually all movement to locations of differing gravitational potential) will result in potential energy changes, manifesting themselves as alterations in body temperature. A jump of one kilometre straight down will result in an internal temperature increase of 2.5oC; this is sufficient to cause extreme fever, brain damage and even death. A jump upwards will cool the body by the same amount, with equally serious results. To be safe, a jump may not involve an elevation change of more than 400 metres and multiple jumps should not involve a cumulative elevation change or more than 600 metres in one hour. These problems may be circumvented somewhat through the use of technological devices such as energy compensators, heated suits and other means. Travellers may feel driven to invent such materials, commission their invention or seek them out from those who already have them.
+Changes in altitude (actually all movement to locations of differing gravitational potential) will result in potential energy changes, manifesting themselves as alterations in body temperature. A jump of one kilometer straight down will result in an internal temperature increase of 2.5oC; this is sufficient to cause extreme fever, brain damage and even death. A jump upwards will cool the body by the same amount, with equally serious results. To be safe, a jump may not involve an elevation change of more than 400 meters and multiple jumps should not involve a cumulative elevation change or more than 600 meters in one hour. These problems may be circumvented somewhat through the use of technological devices such as energy compensators, heated suits and other means. Travellers may feel driven to invent such materials, commission their invention or seek them out from those who already have them.
 
 PSIONIC TECHNOLOGY The ban on psionics within the Imperium means that most of these technologies are illegal in the Charted Space universe. The exceptions are anti-psionic devices like the psionic shield.
 
@@ -7104,7 +7104,7 @@ A Traveller who takes more than one dose of Standard or Double psi-drug, or a si
 
 Psionic Interface (TL14): Any weapon or technological device can be outfitted with a psionic interface. A Traveller using a device with a psionic interface can use their PSI DM instead of their DEX DM when using the weapon or device; a Traveller without psionic ability cannot use the device. The Traveller must either touch the device or use Telekinesis (at no PSI cost) to interact with it. Adding a psionic interface increases the cost of the device by 20%.
 
-Teleportation Suit (TL12): This device can be integrated into a suit of armor or worn as a form- hugging body-suit. It rapidly cools or warms the body after a teleport, minimising the damage from sudden energy gains or losses. The suit costs Cr5000, and allows a Traveller to jump up to 600 metres up or down in a single teleport or up to 10 kilometres in a single hour when using successive jumps.
+Teleportation Suit (TL12): This device can be integrated into a suit of armor or worn as a form- hugging body-suit. It rapidly cools or warms the body after a teleport, minimising the damage from sudden energy gains or losses. The suit costs Cr5000, and allows a Traveller to jump up to 600 meters up or down in a single teleport or up to 10 kilometers in a single hour when using successive jumps.
 
 Skills and training
 
@@ -8111,7 +8111,7 @@ When creating worlds, a subsector table containing world name, location, profile
 
 Creating an entire universe is a fun process and can be as detailed as you like!
 
-SIZE The Size code for worlds ranges from 0 to 10 and is determined by rolling 2D-2. Size measures a world’s diameter in thousands of kilometres and the bigger a planet, the higher its gravity. The values for gravity in the Size table assume that the world has a density similar to that of Earth. Worlds like gas giants have a lower gravity than their size would indicate, while extremely dense worlds would have a higher gravity.
+SIZE The Size code for worlds ranges from 0 to 10 and is determined by rolling 2D-2. Size measures a world’s diameter in thousands of kilometers and the bigger a planet, the higher its gravity. The values for gravity in the Size table assume that the world has a density similar to that of Earth. Worlds like gas giants have a lower gravity than their size would indicate, while extremely dense worlds would have a higher gravity.
 
 Intelligent species (sophonts) are unlikely to evolve naturally on worlds smaller than Size 4 or 5. Larger planets tend to imply larger populations, as there is more room for expansion.
 
@@ -8199,7 +8199,7 @@ Boiling 81º+ Boiling world. No ice caps, little liquid water.
 
 breathable there – the pressure drops off so rapidly with altitude that the highest topographic points of the surface may be close to vacuum.
 
-**Unusual:** An Unusual atmosphere is a catchall term for an atmosphere that behaves in a strange manner. Examples include ellipsoidal atmospheres, which are thin at the poles and dense at the equator; Panthalassic worlds composed of a rocky core surrounded by a water layer hundreds of kilometres thick; worlds wracked by storms so intense that local air pressure changes from dense to thin depending on the current weather and other planets with unusual and hazardous atmospheric conditions.
+**Unusual:** An Unusual atmosphere is a catchall term for an atmosphere that behaves in a strange manner. Examples include ellipsoidal atmospheres, which are thin at the poles and dense at the equator; Panthalassic worlds composed of a rocky core surrounded by a water layer hundreds of kilometers thick; worlds wracked by storms so intense that local air pressure changes from dense to thin depending on the current weather and other planets with unusual and hazardous atmospheric conditions.
 
 HYDROGRAPHICS The Hydrographic code measures the amount of surface liquid and hence the amount of dry land on the world. Hydrographic percentage goes from 0 to 10, measuring the surface liquid in increments of 10%. For normal worlds, this will be water; on other worlds with corrosive or exotic atmospheres, it could be a corrosive or exotic liquid like ammonia or methane.
 
@@ -8391,10 +8391,10 @@ Cultural Differences D66 Culture
 | 45 | Fashion – fine clothing and decoration are considered vitally important in the culture. Underdressed Travellers have no standing here. |
 | 46 | At war – the culture is at war, either with another planet or polity, or is troubled by terrorists or rebels. |
 | 51 | Unusual Custom: Offworlders – space travellers hold a unique position in the culture’s mythology or beliefs and travellers will be expected to live up to these myths. |
-| 52 | Unusual Custom: Starport – the planet’s starport is more than a commercial centre; it might be a religious temple or be seen as highly controversial and surrounded by protestors. |
+| 52 | Unusual Custom: Starport – the planet’s starport is more than a commercial center; it might be a religious temple or be seen as highly controversial and surrounded by protestors. |
 | 53 | Unusual Custom: Media – news agencies and telecommunications channels are especially strange here. Getting accurate information may be difficult. |
 | 54 | Unusual Customs: Technology – the culture interacts with technology in an unusual way. Telecommunications might be banned, robots might have civil rights or cyborgs might be property. |
-| 55 | Unusual Customs: Lifecycle – there might be a mandatory age of termination or anagathics might be widely used. Family units might be different, with children being raised by the state or banned in favour of cloning. |
+| 55 | Unusual Customs: Lifecycle – there might be a mandatory age of termination or anagathics might be widely used. Family units might be different, with children being raised by the state or banned in favor of cloning. |
 | 56 | Unusual Customs: Social Standings – the culture has a distinct caste system. Travellers of a low social standing who do not behave appropriately will face punishment. |
 | 61 | Unusual Customs: Trade – the culture has an odd attitude towards some aspect of commerce, which may interfere with trade at the spaceport. For example, merchants might expect a gift as part of a deal or some goods may only be handled by certain families. |
 | 62 | Unusual Customs: Nobility – those of high social standing have a strange custom associated with them; perhaps nobles are blinded, must live in gilded cages or only serve for a single year before being exiled. |
@@ -8505,7 +8505,7 @@ D Poor 1D x Cr10 Unrefined Limited Repair Highport 12+
 
 Scout 8+ Corsair 12+ E Frontier 0 None None Corsair 10+ X No Starport 0 None None Corsair 10+
 
-Quality: This determines both the condition of the port itself and the level of competence of the staff. Quality may vary – it is possible to find a Class D port run by expert engineers or a Class A that has succumbed to decay. Some worlds have entirely inappropriate starports; a world that was once a centre of commerce but has now been bypassed by new trade routes, might have a cavernous port capable of handling thousands of freighters now almost abandoned.
+Quality: This determines both the condition of the port itself and the level of competence of the staff. Quality may vary – it is possible to find a Class D port run by expert engineers or a Class A that has succumbed to decay. Some worlds have entirely inappropriate starports; a world that was once a center of commerce but has now been bypassed by new trade routes, might have a cavernous port capable of handling thousands of freighters now almost abandoned.
 
 A frontier installation is just a bare spot of bedrock, marked with a beacon, and is a starport in the most technical sense only.
 

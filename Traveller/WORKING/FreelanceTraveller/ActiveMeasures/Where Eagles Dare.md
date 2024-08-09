@@ -20,11 +20,11 @@ Sabitha will give them a ship to travel in, and should the players complete thei
 
 ### Referee’s Information
 
-Hieronymous is a system with two habitable worlds, Hieronymous itself and the uninhabited Jada. Upon Jada is an Ancient pyramid, a massive construct reaching several kilometres high. All efforts to investigate the artifact have ended in failure, often with the expedition members falling victim to the ‘Jada Curse’, as it has become known.
+Hieronymous is a system with two habitable worlds, Hieronymous itself and the uninhabited Jada. Upon Jada is an Ancient pyramid, a massive construct reaching several kilometers high. All efforts to investigate the artifact have ended in failure, often with the expedition members falling victim to the ‘Jada Curse’, as it has become known.
 
 The players put themselves into a parking orbit around one of the outer planets, and then head inwards in the pinnace. The interdiction satellites have the armament to utterly destroy the pinnace, but fortunately ignore it.
 
-![](https://www.freelancetraveller.com/features/advents/whereeaglesdare.png)The co-ordinates are on the edge of rocky, mountainous terrain, thick with vegetation. At the exact centre of the co-ordinates is a temple exactly identical to those on Gaea, and about a kilometre away is a village. The Ancient pyramid is on the other side of the world.
+![](https://www.freelancetraveller.com/features/advents/whereeaglesdare.png)The co-ordinates are on the edge of rocky, mountainous terrain, thick with vegetation. At the exact center of the co-ordinates is a temple exactly identical to those on Gaea, and about a kilometer away is a village. The Ancient pyramid is on the other side of the world.
 
 The village (and others nearby) are populated by Jala’lak transported here at approximately the same time as the ones on Gaea. They have not been discovered by the Imperial authorities because of the presence of the ancient artifact. Jada possess no precious minerals and, because of the interdiction, has never been settled.
 

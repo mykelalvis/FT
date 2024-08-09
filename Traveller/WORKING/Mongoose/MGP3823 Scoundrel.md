@@ -1593,7 +1593,7 @@ shares towards any other sort of ship.
 **Organization Membership:** You are a member of a criminal
 organization. The organization will provide support such as
 weapons, money or aid when required but will demand equal
-favours in return.
+favors in return.
 
 **Pirate Vessel:** You receive 2 ship shares towards the purchase
 of any vessel. Furthermore, you may add up to 3MCr. worth of
@@ -1966,7 +1966,7 @@ the boundaries of their neighborhood are now considering
 crime on an interstellar scale.
 
 The strength of the Vriterbei is their cultural continuity. Analysts
-theorise that the Vriterbei combine the criminal ethos and familial
+theorize that the Vriterbei combine the criminal ethos and familial
 loyalty of the _Cosa Nostra_ with Vilani rigidity and tradition.
 
 Activities
@@ -2318,7 +2318,7 @@ convert the planet’s class–D port into a class–B had been
 delayed by another 20 years.
 
 A coup seized the capital city and surrounding territory and held
-it for nearly three weeks before the king abdicated in favour
+it for nearly three weeks before the king abdicated in favor
 of his considerably more popular niece. Public opinion turned
 against the revolutionaries, the army closed in on the capital
 
@@ -2924,7 +2924,7 @@ drops to Short or less, as the target jinks and dodges to avoid
 the approaching pirate vessel.
 
 In general, if the pirate has a higher Thrust value than the target
-and is within 100,000 kilometres of the target, then escape is
+and is within 100,000 kilometers of the target, then escape is
 very diffi cult indeed.
 
 As soon as the pirate opens fi re, a clock starts ticking. The
@@ -3919,10 +3919,10 @@ Seconds, varies
 **WALL DIFFICULTY**
 
 Wall Height Handholds DM
-<3 metres Many +2
-3–5 metres Few +0
-5–10 metres None –2
-10 metres+ Utterly Sheer –4
+<3 meters Many +2
+3–5 meters Few +0
+5–10 meters None –2
+10 meters+ Utterly Sheer –4
 
 A character may attempt to climb a wall in stages, breaking the
 attempt into multiple climbing rolls.
@@ -4193,7 +4193,7 @@ Comm
 that must be activated by a sentry or other individual who has
 spotted an intruder. A manual alarm might be anything from a
 concealed button beneath a cashier’s desk to a slap–bar on
-every wall to a big red button in the security control centre.
+every wall to a big red button in the security control center.
 
 Manual alarms can be defeated easily by not giving the security
 staff reason or opportunity to hit the button.
@@ -4278,7 +4278,7 @@ Opening an Advanced Mechanical Lock: Security
 (mechanic)+Dexterity, 1–6 minutes, Average (+0)
 
 Fractal Lock (TL12, Exotic): Mechanical locks fall out of
-favour for several technology levels but see a brief return with
+favor for several technology levels but see a brief return with
 the development of the ‘unpickable’ fractal lock, which uses
 nanomaterials and a unique fractal pattern for the key’s teeth.
 Fractal locks cannot be picked but can be forced or otherwise
@@ -4557,7 +4557,7 @@ three sorts of plans:
 - Good plans that the Referee has not anticipated ( _We’re_
     _going to rob the orbital station by precisely calculating its_
     _orbital path and velocity, then dropping out of our ship in_
-    _the same path but with a relative delta–V of –0.25 metres/_
+    _the same path but with a relative delta–V of –0.25 meters/_
     _second. Basically, we’re going to fl oat in stealthvacc suits_
     _until it comes to us. They’ll be looking for approaching ships_
     _and won’t spot us.)_
@@ -5127,7 +5127,7 @@ Computer/20 running Anti–Intrusion/3 at all times.
 
 There are numerous security cameras in the building (each one
 marked with a c ). The security cameras in the corridor feed into
-both the building’s security centre and Horizon’s own security
+both the building’s security center and Horizon’s own security
 controller (3).
 
 During the day, there are 10 security guards on duty; at night,
@@ -5161,7 +5161,7 @@ open the door. (In practise, during the day, the doors are left
 unlocked if executives are constantly going in and out). There is
 no sentry at the door from the executive lift.
 
-**E:** This is two–metre thick pane of diamond–hard crystal, as
+**E:** This is two–meter thick pane of diamond–hard crystal, as
 tough as starship armor. It can be polarised to block out light.
 Cutting through it is virtually impossible. An explosives expert
 could plant charges at the corners, blowing up the braces that
@@ -5513,7 +5513,7 @@ Joe makes a successful Deception check, leaving his Trust unaffected at +0 and r
 
 Next, the Referee rolls 2d6, adds Joe’s trust DM of +0 and compares the result to the Customs Scan table. He rolls a 5, which
 is four less than the planet’s Law Level of 9. This means a Close Range Scan. The customs ship orders Joe to change course
-to fl y within 10 kilometres. He complies and the scout ship is scanned with visual, thermal, EM and active radar. He holds his
+to fl y within 10 kilometers. He complies and the scout ship is scanned with visual, thermal, EM and active radar. He holds his
 breath... but the luxuries are safely stowed away and only the radar can penetrate his ship’s hull. He’s safe.
 
 At Regina Starport, the Referee checks the law level again. This time, he rolls a 3, a whole six less than the planet’s law
@@ -6322,7 +6322,7 @@ bones. Cr. 30,000(!).
 
 Intrusion Interface (TL13): This is a specialized form of skill
 augmentation, where the user’s neurons are stripped to reduce
-his reaction time and optimise his brain for hacking. A character
+his reaction time and optimize his brain for hacking. A character
 must have a wafer jack or TL12 Neural Comm to benefi t from
 an intrusion interface. An intrusion interface gives a +2DM to all
 hacking attempts but if the user fails a Computers roll against
@@ -6348,7 +6348,7 @@ thumb has an extremely long range but cannot be used to
 send a message easily – it just sends out an easily detectable
 high–intensity radio pulse that basically says ‘I AM HERE AND
 I WANT A LIFT!’ An electronic thumb has a range of 45 million
-kilometres and has a mass of 8kg. Costs Cr. 5,000.
+kilometers and has a mass of 8kg. Costs Cr. 5,000.
 
 Narrowcast Comm (TL+2): This is a variation on the standard
 comm models (see the Traveller Core Rulebook , page 90) that
@@ -6549,7 +6549,7 @@ A can of bugzapper gas costs Cr. 1,000(!) and has six sprays.
 
 **Grav Fuzzer (TL13):** A poor man’s Densitometer Cloak, a
 grav fuzzer is a small portable device that creates extremely
-weak gravitational distortions within a fi ve–metre radius. These
+weak gravitational distortions within a fi ve–meter radius. These
 distortions are undetectable to humans (despite what some
 people claim) but do prevent densitometers and other gravitic
 sensors from determining what it within that area. The distortion
@@ -6568,13 +6568,13 @@ a controller module that plugs in anywhere along the rope but
 there are remote smartropes available.
 
 Smartrope can be commanded to wriggle forward but it moves
-extremely slowly (about one metre every minute) and tends to
+extremely slowly (about one meter every minute) and tends to
 get tangled up (roll 8+ on 2d6 every minute to avoid this). It has
-an effective Strength of 8 (+1). A 50–metre length of smartrope
+an effective Strength of 8 (+1). A 50–meter length of smartrope
 costs Cr.2,000.
 
 Wrecker Bar (TL5+): The iconic tool of the scavenger, a wrecker
-bar is a 1.5 metre–long bar of metal with a hooked head at one
+bar is a 1.5 meter–long bar of metal with a hooked head at one
 end, used for tearing objects or vehicles apart. The other end
 can be fi tted with a number of attachments.
 
@@ -6616,10 +6616,10 @@ cut through an airlock door or part of a ship’s hull but it can be
 used as a devastating close–range weapon.
 
 Grappling Hook Gun: This gas–driven pistol fi res a light–
-weight grappling hook up to 50 metres. It can also be used as a
+weight grappling hook up to 50 meters. It can also be used as a
 weapon in emergencies but is of limited effectiveness.
 TL12: Upgrades to a gauss–driven launcher, increasing range
-to 200 metres.
+to 200 meters.
 
 Sawn–Off Shotgun: This shotgun has a different range profi le
 and is easier to conceal.
@@ -7661,7 +7661,7 @@ of nickel–iron, hence the N designation. The N zone occurs
 roughly 1.25 times the star’s optimum zone for supporting life
 
 - so, in the case of our own solar system, the N zone of Sol’s
-asteroid belt occurs 187 million kilometres from the sun.
+asteroid belt occurs 187 million kilometers from the sun.
 
 **M Zone:** The mid belt. A zone of transition between the N and
 C zones, here the asteroids and planetoids are a mixture of M
@@ -7765,14 +7765,14 @@ Survey Time
 6 10,000 3 – 4D%
 7 1,000,000 3 – 4D%
 8 Small Planetoid 4 2D x100
-metres
+meters
 
 4D%
 
-9 Small Planetoid 5 2D+1 x100 metres 10+6D%
-10 Small Planetoid 5 2D+2 x100 metres 20+6D%
-11 Large Planetoid 10 2D–1 kilometres 30+6D%
-12 Large Planetoid 10 2D kilometres 60+6D%
+9 Small Planetoid 5 2D+1 x100 meters 10+6D%
+10 Small Planetoid 5 2D+2 x100 meters 20+6D%
+11 Large Planetoid 10 2D–1 kilometers 30+6D%
+12 Large Planetoid 10 2D kilometers 60+6D%
 
 Mining Asteroids
 Belters use a variety of tools, from manual mining using hand–held lasers to remotely operated mining drones to huge mining
@@ -7825,8 +7825,8 @@ concerns regularly employ private security forces.
 Of course, a belter has a much bigger chance of dying because
 of a mining accident or blown airlock seal than because
 of violence. Belters spend hundreds of hours in tiny metal
-bubbles, tens of millions of kilometres from the nearest world,
-separated from the endless vacuum by only a few centimetres
+bubbles, tens of millions of kilometers from the nearest world,
+separated from the endless vacuum by only a few centimeters
 of metal. Between these long lonely sojourns in the belt, the
 miners congregate in settlements cut out of larger planetoids. If
 the belt is the Wild West, then these planetoids are one–horse
@@ -7912,7 +7912,7 @@ odd job into an adventure.
 **Patron:** Grendel Thorn, Scrapper
 **Description:** The wreck of an old 800–ton freighter, the _Mirabel_ ,
 is in orbit. The jump drives and other key components have
-already been stripped but there are still thousands of kilometres
+already been stripped but there are still thousands of kilometers
 of fi bre–optic cabling, superconductive power cables, jump
 gridding, computer terminals and other salvageable parts. The
 ship lacks life support, gravity and power; here is a vacc suit
@@ -8150,7 +8150,7 @@ an offi cial news blackout. The Imperial navy has discovered
 something unusual and the x–boat network has been ordered
 not to carry information out of the subsector.
 2. A corporation approaches the characters, offering them a bribe
-if they will report favourably on the corporation’s increasingly
+if they will report favorably on the corporation’s increasingly
 disastrous effort to terraform a border world. The corporation is
 trying to attract settlers to the planet.
 3. JTAS sends the characters a packet of tickets for bizarre
@@ -8369,7 +8369,7 @@ the characters deep underground in freezing conditions.
     harvested from various desert plants and other sources, such as
     dry river–beds or worm tailings. It must be gathered by hand or
     using basic tools, as industrialised methods of gathering dust–
-    spice invariably ruin the subtle fl avours and scents that make
+    spice invariably ruin the subtle fl avors and scents that make
     the spice so sought–after. Dust–spice can only be gathered for
     a short period each year, so thousands of migrant labourers
     travel to dust worlds to work the harvest.
@@ -8440,7 +8440,7 @@ environment but because of a doomsday weapon left over from
 war.
 3. The war is still being fought; the two sides both have deeply buried
 bunkers and armored warriors emerge from these underground
-fortresses to fi ght for a few kilometres of scorched earth.
+fortresses to fi ght for a few kilometers of scorched earth.
 4. The JAS is specifi cally interested in recreating the events that
 led up to the war, such as the recordings made inside the offi ce
 of the President of the Union.
@@ -8616,7 +8616,7 @@ as a brush. What do you write on the face of the moon?
 51. Safari Guards
 **Skills Required:** Steward, Survival, Gun Combat
 **Patron:** Marchesa Saddiv von Varren.
-**Description:** The Marchesa and her favourite rocket launcher
+**Description:** The Marchesa and her favorite rocket launcher
 are going on safari. She needs a few strapping servants to herd
 the local wildlife into her crosshairs.
 **Reward:** Cr. 300/week.
@@ -9033,7 +9033,7 @@ Not all worlds survive. Some are destroyed by war or disease,
 others are abandoned because of ecological or economic
 collapse or the retreat of empire. Some planets have but a few
 thousand inhabitants where billions once lived, leaving tens of
-thousands of square kilometres of post–urban wasteland. Such
+thousands of square kilometers of post–urban wasteland. Such
 planets draw scavengers by the horde, picking through the
 bones of civilization for a few scraps of worthwhile salvage.
 
@@ -9604,7 +9604,7 @@ Weapon Personal Close Short
 Axe –1 +0 Out of range
 Spear –2 +0 –2*
 
-*: Spears may only be used to attack foes within 4 metres at Short range.
+*: Spears may only be used to attack foes within 4 meters at Short range.
 
 **Ranged Weapons**
 

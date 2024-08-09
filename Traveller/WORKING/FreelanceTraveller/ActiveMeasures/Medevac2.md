@@ -13,7 +13,7 @@ The PCs are tasked with extracting a high value target from a hospital’s inten
 - an opportunity to access the President and bypass their standard (and tight) security in an environment where there may be more options for subterfuge or direct action than in their usual environment and routine
 - to prevent discovery, or revelation to the public at large, that the President is in fact an imposter substituted prior to admission to hospital.
 
-Referees may wish to create, if not already present, political, corporate or societal backgrounds which give a richer flavour to the interactions with NPCs and offer choices that must be made in relation to factions and their motivations.
+Referees may wish to create, if not already present, political, corporate or societal backgrounds which give a richer flavor to the interactions with NPCs and offer choices that must be made in relation to factions and their motivations.
 
 ### Complication 1
 

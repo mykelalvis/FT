@@ -335,7 +335,7 @@ Bureau presses the wrong key on his computer.
 
 After sentencing, the group discover they are to be sent to the
 Tarkwall prison facility on Keanou. This institution has an extremely
-unsavoury reputation. Rumor has it the prisoners are forced
+unsavory reputation. Rumor has it the prisoners are forced
 to work the pitchblende mines in hazardous conditions of high
 radioactivity. Safety regulations are not enforced, occasioning a rare
 editorial complaint in the Imperial mass media. Many prisoners
@@ -366,7 +366,7 @@ safety regulations are ignored, exposing the prisoners to unhealthy
 levels of radiation and airborne rock dust.
 
 Security is not up to the level of the ‘best’ Imperial prisons as the
-prison site is surrounded by thousands of kilometres of desert,
+prison site is surrounded by thousands of kilometers of desert,
 inhabited only by dangerous animals. There is only one small city on
 Keanou: Circle City, site of the class C starport where the ore mined
 at the prison is taken to await transhipment by regular commercial
@@ -549,7 +549,7 @@ Before they loaded you into the shuttle, they carried off a trio of
 coffins. Few people return from this prison.
 
 Through a porthole, you can see the terrain below. Hundreds of
-kilometres of desert, scorched a chalky white-blue by the sun, without
+kilometers of desert, scorched a chalky white-blue by the sun, without
 a single visible road or landmark or even a drop of water. The shuttle
 flits over dune after dune, rocking occasionally as a particular strong
 thermal buffets it.
@@ -888,7 +888,7 @@ a wind blows outward.
 
 ###### Air Pumps
 
-Small rusted metal boxes, a metre high and a half-metre across,
+Small rusted metal boxes, a meter high and a half-meter across,
 are scattered around the grounds of the prison. These are air
 pumps, drawing in air, purifying it, and pumping it down through
 narrow vents into the underground areas of the complex. Many
@@ -954,7 +954,7 @@ any effective mining, and a few of the prison trustees who work
 on the administrative level or on the surface. Prisoners may apply
 for transfer here if they have reputations of - 10 or less, have not
 been assigned to the danger zone or solitary for the last 25 weeks,
-and must get a favourable reaction from a staff member (8+). Any
+and must get a favorable reaction from a staff member (8+). Any
 infractions while a prisoner is resident here may result in his return
 to the cellblock level. Prisoners assigned here lose 3 from their
 prison reputations.
@@ -997,7 +997,7 @@ Spare parts for the utility and service robots are also stored here.
 14. Laundry: The laundry is operated by prisoners selected on a
 rotating basis (although some are kept there full-time). The prison
 staff frequently changes the rotation and might be persuaded to do
-so for some recompense, or by a very favourable reaction. Security
+so for some recompense, or by a very favorable reaction. Security
 is good here, with at least one guard always keeping an eye on the
 laundry workers, in person or by camera.
 15. Guards’ Kitchen: Only very trusted prisoners are allowed to
@@ -1070,7 +1070,7 @@ the Orion Corporation days, provide power to the prison. The panels
 work automatically, but must be cleared of dust after a storm.
 29. Ore stockpile: Ore is carried along the conveyor belt from the
 crusher and dropped into a huge metal ore container, a box some six
-metres long and three metres square. If the container is full excess
+meters long and three meters square. If the container is full excess
 ore overflows and falls to the ground, prisoners are then expected to
 go out and gather the loose ore.
 
@@ -1118,7 +1118,7 @@ capable of self-repair, cannibalising its own back-up systems to
 keep functioning.
 
 4. Records: This area is the domain of the prison clerk. A number of
-favoured prisoners work here, but security is not overly heavy. The
+favored prisoners work here, but security is not overly heavy. The
 records department is responsible for all routine bookkeeping and
 record keeping functions. Prisoners who work here have access to
 computer terminals, but a security program keeps all but the most
@@ -1220,7 +1220,7 @@ On the far wall from the bunk beds is a chemical toilet and sink. These units mu
 overflow. The chemical toilets contain sniffers which detect signs of drug use, disease or blood. Most cells also have a single table and
 chair. Also on this wall is a pair of lockers with, clear plastic doors and no locks, for storage of personal effects.
 
-At the top of the middle wall is fifteen-centimetre air vent. These vents connect to air pumps on the surface.
+At the top of the middle wall is fifteen-centimeter air vent. These vents connect to air pumps on the surface.
 
 On the ceiling is a sealed hemisphere containing both the light and the camera for the cell. Theoretically, any tampering to get at the
 camera should also damage the light, so the guards can easily check for malfunctioning cameras by turning off all the cell lights. The
@@ -1373,7 +1373,7 @@ other in order to make their quotas.
 When a prisoner is sent to this level, throw 2D6 to determine his
 area of assignment.
 
-1. The Hole: This is a ten-metre-deep shaft with steep sides that
+1. The Hole: This is a ten-meter-deep shaft with steep sides that
 are impossible to climb. Prisoners who have crossed the guards
 
 are sometimes dumped into the hole for a week. The hole is highly
@@ -1554,7 +1554,7 @@ Sneaking onto an ATV: If the ATV is not carrying passengers in the
 rear, then it is easy enough (Routine Stealth check) to hide amid the
 cargo at the back of the vehicle. If the ATV is carrying passengers,
 it is almost impossible (Very Difficult). The prison ATVs rarely go
-more than a few kilometres from Tarkwall.
+more than a few kilometers from Tarkwall.
 
 ###### Ore Shuttle
 
@@ -1650,7 +1650,7 @@ two minutes after the shuttle takes off, then the security system
 will steadily reduce the shuttle’s engine power, forcing it to land.
 The shut-off is gradual enough to allow the thief to easily land the
 shuttle safely, but ensures the shuttle will be forced down within a
-few kilometres of Tarkwall.
+few kilometers of Tarkwall.
 
 Sneaking Onto The Prisoner Shuttle: There are no easy hiding
 places in the front half of the shuttle, in the front compartment or
@@ -2122,7 +2122,7 @@ Assignment: Laundry. Rumors: 13, 27, 29, 32, 51.
 Commander Gant, as he prefers to be called, is one of the few Imperial military commanders ever to be tried and convicted of an atrocity
 
 - during a war with a rebellious border noble, Gant ordered his commandos to board and capture the noble’s flagship. He then programmed
-the flagship to crash into the planetary fortress below. Thousands died when the ship smashed into the castle at hundreds of kilometres
+the flagship to crash into the planetary fortress below. Thousands died when the ship smashed into the castle at hundreds of kilometers
 an hour. Relations of the dead noble used their influence to ensure Gant was incarcerated at Tarkwall, rather than a more suitable military
 prison.
 
@@ -2253,7 +2253,7 @@ Age 37 Rep 20 Block 2/8825
 Skills: Melee (Brawl) 4, Streetwise 1, Gambler 3, Recon 0, Medic 0, Athletics (Dexterity) 1, Athletics (Strength) 1
 Possessions: Cr400 Traits: Very tall, tattoo of a die on one hand.
 Rumors: 3, 10, 11, 47, 48.
-Olex runs the prison numbers racket. His hobby is beating up prisoners who annoy him. Olex stands nearly two metres tall in his prison
+Olex runs the prison numbers racket. His hobby is beating up prisoners who annoy him. Olex stands nearly two meters tall in his prison
 boots, and is an accomplished martial artist. He covets the lucky charm owned by 8825 Lucky Sleven, and would pay well if he could get
 his hands on it.
 
@@ -2623,7 +2623,7 @@ is uniformly feared.
 STR7 DEX8 END6 INT8 EDU6 SOC5
 Skills: Gun Combat (Slug Rifle) 2, Tactics (military) 1, Drive (tracked) 1, Investigate 2, Admin 0, Advocate 1, Computers 0
 Rumors: 5,9. Traits: Calm
-Cesmo plays Go, and is favourably impressed by any prisoner who will play against him. He is the youngest of the guards, and took the job
+Cesmo plays Go, and is favorably impressed by any prisoner who will play against him. He is the youngest of the guards, and took the job
 in the prison to support his family in Circle City while he studies for his future career. He regularly leaves the prison to visit the city, and is
 sometimes willing to carry messages to the starport for prisoners he trusts.
 
@@ -4106,7 +4106,7 @@ of any character who jumps into the brawl and starts fighting.
 
 Cave Bat: The group has encountered a cave bat. Each player
 may attempt to capture it by making a Difficult (-2) Animals
-(handling) check. Prisoner 3622 “Batman” will trade favours or
+(handling) check. Prisoner 3622 “Batman” will trade favors or
 up to Cr50 for an unharmed cave bat. An outright gift of one will
 gain him as a friend.
 
@@ -4172,7 +4172,7 @@ the number of bets made. The winner is determined by the highest
 Gambler effect. If a prisoner cannot cover losses or is suspected of
 cheating, a stay of 1D6 weeks in the infirmary is the likely result.
 A guard may not be able to cover debts to a prisoner (throw 10+),
-in which case the guard may offer to make it up in favours (throw
+in which case the guard may offer to make it up in favors (throw
 6+).
 
 Gamble with Prisoners: The prisoners may attend a game with
@@ -4247,7 +4247,7 @@ also lost if the prisoner is sent to the danger zone or to solitary.
 Inspection: The characters are inspected by one of the prison staff.
 Roll 1d6 to determine the nature of the inspection.
 
-1. ...sent to the medical centre for testing for a week.
+1. ...sent to the medical center for testing for a week.
 2. ...interviewed by the prison psychologist.
 3. ...given a new aptitude test by the vocational counsellor.
 4. ...brought to confession by the prison chaplain.
@@ -4268,7 +4268,7 @@ prisoner is eligible for it even if serving time in the danger zone, but
 not if incarcerated in solitary.
 
 Payoff: The prisoner with the highest prison reputation receives a
-bribe from some other prisoner for some minor favour. The prisoner
+bribe from some other prisoner for some minor favor. The prisoner
 gains 2D6 x Cr10 and adds 1 to his prison reputation.
 
 Power Failure: A power failure in one section of the prison deactivates
@@ -4565,8 +4565,8 @@ with the Astrogation skill.
 credits to issue fraudulent clearance papers to a group of people.
 23. G5 Emil Patowic has a small-scale smuggling operation going,
 and would probably be happy to do some business.
-24. Circle City is the only major population centre on Keanou. It lies
-5,000 kilometres E-NE of the prison. A shuttle based at the prison
+24. Circle City is the only major population center on Keanou. It lies
+5,000 kilometers E-NE of the prison. A shuttle based at the prison
 regularly carries ore to Circle City for transhipment.
 
 ##### RUMOURS
@@ -4638,7 +4638,7 @@ than he really does.
     personality conflicts with the warden. The guards sometimes take
     their frustrations out on the prisoners.
     46. There is a small community of escaped prisoners, approximately
-    1,500 kilometres to the northeast of the prison. They keep themselves
+    1,500 kilometers to the northeast of the prison. They keep themselves
     hidden, and subsist by agriculture.
     47. 5426 Spiro Taodon is an expert lockpick.
     48. This rumor consists of the information on gangs from
@@ -4816,7 +4816,7 @@ his jaw was fractured.
 
 The fight precipitates an argument over who is the meanest prisoner
 around. The person who brings it up claims Jack Shansir is, but
-several other prisoners chime in and speak in favour of 7057 Big Rolf
+several other prisoners chime in and speak in favor of 7057 Big Rolf
 and/or 6866 Gerard Benezech. One prisoner makes a claim 9656
 Olex Hishinuma could take either of them, and then several other
 names are bandied about: 2977 Anton Kugazur, 8152 Peroz Atheling
@@ -5128,7 +5128,7 @@ so he orders G13 Brandt Ulmerkim to take one of the ATVs and a
 work gang to track down the debris. Any characters in good standing
 with the authorities will be assigned to this work gang.
 
-The meteorite landed only a few kilometres away from the prison,
+The meteorite landed only a few kilometers away from the prison,
 in the rocky hills to the southwest. The old ATV covers the ground
 steadily, and the sandy desert gives way to scorched rock. Ahead,
 the characters can see a huge dust cloud hanging over the hills. A
@@ -5544,7 +5544,7 @@ a +1DM to all reaction rolls without any loss of reputation.
 If Talbot’s hidden bioweapons are reported to the authorities, then
 Talbot is placed in solitary confinement. The characters will be
 interviewed by Ministry of Justice agents in a few weeks, and may
-be able to trade their testimony against Talbot for favours.
+be able to trade their testimony against Talbot for favors.
 
 If the characters aided Talbot, then they get a share of his drug
 dealing operation. Talbot will supply each character with a few
@@ -5670,8 +5670,8 @@ Total 30
 Urmarush’s Drug RingUrmarush’s Drug Ring
 Urmarush -10
 Stiv The Blade 5
-Favours from G5 5
-Favours from G8 5
+Favors from G5 5
+Favors from G8 5
 Access to drugs 10
 Total 15
 
@@ -5727,7 +5727,7 @@ Messages out of prison +5
 Escape +10
 Drugs +10
 False documents +10
-Favours from guards +5 per guard
+Favors from guards +5 per guard
 Setbacks
 Per injured member in infirmary -5
 Leader in infirmary -10
@@ -5761,7 +5761,7 @@ Skills: Pilot (spacecraft) 1, Gunnery (turret) 2, Melee (blade) 3, Stealth
 (slug pistol) 0, Deception 1, Sensors 1, Comms 0, Zero-G 2, Vacc
 Suit 1, Athletics 0
 Possessions: None Traits: Ex-pirate, scoundrel
-A bored noble’s son, Kerd was ignored by his sire in favour of
+A bored noble’s son, Kerd was ignored by his sire in favor of
 gambling dens and politics. The young man was recruited by
 Starovich with the promise of adventure, and Kerd came to consider
 Starovich to be the father he never had. The former noble proved
@@ -5815,7 +5815,7 @@ Antov was a mercenary and vagabond, who turned his hand to
 everything from being a bodyguard to fighting in brush wars on
 Red worlds to hunting dangerous beasts. Piracy was perhaps an
 inevitable career choice. Antov is a huge man, standing over two
-and half metres tall and built like a hunting cat. He will do anything
+and half meters tall and built like a hunting cat. He will do anything
 for money, and is not afraid of the consequences – Tarkwall is not
 the first time Antov’s been in prison, and Tarkwall is not the worst
 place he has ever seen.
@@ -5963,7 +5963,7 @@ do is eliminate Balin Starovich – once the old man is gone, his gang
 will melt away and they can recruit Antov to theirs. If the player
 characters are hesitant about joining Lalaji, the older prisoner
 hints Jan ‘the Blade’ Lintrel left him a parting gift when he escaped
-Tarkwall – something which will tip the balance in their favour. Lalaji
+Tarkwall – something which will tip the balance in their favor. Lalaji
 is referring to the hidden shotgun.
 
 ###### Killing Starovich
@@ -6253,13 +6253,13 @@ Full Medicinal: The character finds a number of buyers for medical
 drugs who are willing to pay full price.
 Desperate Medicinal: The character finds a number of buyers for
 medical drugs who cannot afford the drugs, but are willing to offer
-favours, trade items and rumors in exchange. If denied drugs, the
+favors, trade items and rumors in exchange. If denied drugs, the
 buyer may become hostile.
 Full Narcotic: The character finds a number of buyers for narcotics
 who are willing to pay full price.
 Desperate Narcotic: The character finds a number of buyers for
 narcotic drugs who cannot afford the drugs, but are willing to offer
-favours, trade items and rumors in exchange. If denied drugs, the
+favors, trade items and rumors in exchange. If denied drugs, the
 buyer may become hostile.
 
 A character attempting to deal drugs must also make a Routine (+2)
@@ -6596,7 +6596,7 @@ history books and so on for reference.
 
 The warden already has a naval buddy – Milovan Gant. Voller warns
 the characters Gant will have to be removed if they are to win the
-warden’s favour. However, a direct attack on Gant is much too risky,
+warden’s favor. However, a direct attack on Gant is much too risky,
 as it would anger the warden if his pet was hurt. Voller can not
 touch Gant – it is up to the players to deal with the former captain.
 
@@ -7642,7 +7642,7 @@ clockwise through the various arms of the outpost. The guardian
 is a humanoid robot, and looks rather like a walking space suit.
 It displays its current status in green glyphs scroll across its
 faceplate. It is extremely stealthy, and can see in the dark using
-millimetre-wave radar. The guardian is armed with two of the alien
+millimeter-wave radar. The guardian is armed with two of the alien
 weapons built into its arms, but prefers to use melee attacks to
 drive off trespassers.
 
@@ -7664,14 +7664,14 @@ will mistake the character for a friendly alien and will ignore him.
 
 All corridors in the alien outpost are oval and oddly ribbed, as if
 they were organically extruded instead of built. The tunnels are
-slightly over two metres tall along the long axis. Light is provided
+slightly over two meters tall along the long axis. Light is provided
 by greenish ‘glass’ panels in the floor. All the doors are iris hatches,
 similar to the ones on a spacecraft, controlled by a small green panel
-in the centre of the door. When touched, this panel lights up with
+in the center of the door. When touched, this panel lights up with
 cryptic glyphs, describing the room’s function and status if anyone
-manages to translate the alien language. The centre glyph is always
+manages to translate the alien language. The center glyph is always
 either a full or empty semi-circle; full means the door is locked,
-empty means it is unlocked. Pressing the centre glyph opens or
+empty means it is unlocked. Pressing the center glyph opens or
 unlocks the door.
 
 The iris doors can be forced open using brute strength, but this
@@ -7754,7 +7754,7 @@ glyph resembles a twisted ‘N’.
 
 3. Habitation Spheres
 The aliens lived in these spherical rooms. The central room in each
-chamber is a meeting room – in the centre of the chamber is a
+chamber is a meeting room – in the center of the chamber is a
 circular table and a half-dozen chairs. Pressing a control on a chair’s
 arm causes a screen to shimmer into visibility above the table. Other
 cryptic devices, perhaps food preparation or medical equipment,
@@ -7844,7 +7844,7 @@ to hold a small vehicle.
 
 One of the workshop devices is still functional. It resembles a cat’s-
 cradle of metal filaments and glowing blue strands. Hanging in the
-middle of the cradle is a black oblong object, about half a metre
+middle of the cradle is a black oblong object, about half a meter
 long and utterly featureless. This object is an Ancient hunter-killer.
 If the characters deactivate the stasis device trapping the hunter-
 killer, the Ancient weapon flies off at high speed to the surface – via
@@ -7917,7 +7917,7 @@ squirms alarmingly near electrical fields, and can be used to detect hidden secu
 Scrab: A foil-wrapped dose of scrab, which apparently came to Keanou with the aliens.
 
 Map console: A portable sheet of green glass; when the correct series of glyphs are pressed (Formidable (-6) Computers check), it
-displays a topographical map of the surrounding terrain to a range of up to 500 kilometres.
+displays a topographical map of the surrounding terrain to a range of up to 500 kilometers.
 
 Unknowable alien gadget: A random piece of bizarre experiment.
 
@@ -7959,7 +7959,7 @@ attacked and has not be repaired since. If the characters successfully
 operate the structure-control machine in room 2, it causes the
 damaged walls in this room to reform and push outwards, opening
 a tunnel connecting to the Danger Zone’s Area I. Obviously, creating
-a tunnel of alien metal four metres wide and several dozen metres
+a tunnel of alien metal four meters wide and several dozen meters
 long displaces a lot of rock, causing cave-ins and minor quakes
 throughout the area. There is no way to hide the existence of the
 outpost as soon as this tunnel is created.
@@ -7970,7 +7970,7 @@ be Very Hard (-4) at least). The pod flyer can reach orbit easily.
 
 7. Temple
 This large chamber is the most ornately decorated in the whole
-outpost. In human terms it is a temple or religious centre, to the
+outpost. In human terms it is a temple or religious center, to the
 aliens it was a social nexus. The walls of this chamber are all made
 of the same green glass-like substance the outpost’s computer
 displays and controls are made from. The shimmering glyphs
@@ -8031,7 +8031,7 @@ produced by this algae culture per day.
 This room is a walkway around a very, very deep shaft. Looking
 into the abyss, the characters can dimly make out tier after tier of
 cut passageways in the depths far below. A green panel on the wall
-displays a map of the lower passageways – kilometre after kilometre,
+displays a map of the lower passageways – kilometer after kilometer,
 all empty, living space for a colony ship which never arrived. The
 deeper levels of the outpost are all empty. Perhaps somewhere in
 the depths, tireless machines continue to leech radiation from the
@@ -8199,7 +8199,7 @@ the outpost. Both agree it is to be sealed off immediately, and place
 guards on any known entrances. Any prisoners who have already
 visited the outpost will be examined by both the doctor and the
 psychologist before being reassigned to duties out of the Danger
-Zone. Voller favours sealing off the outpost and forgetting about it
+Zone. Voller favors sealing off the outpost and forgetting about it
 
 - ancient alien technology is a distraction from the true business at
 Tarkwall. Grice, meanwhile, sends a message to the University of
@@ -8234,7 +8234,7 @@ I’m not going to die in here. I can’t take it any more, rotting in this
 godforsaken hole of a prison. I won’t give up – I’m getting out.
 
 Tarkwall’s most formidable security system is not the walls or
-the fences; it is the hundreds of kilometres of trackless desert
+the fences; it is the hundreds of kilometers of trackless desert
 surrounding it. Characters trying to escape before their prison terms
 are up need to find a reliable method of crossing the desert.
 
@@ -8262,7 +8262,7 @@ Making The Escape: To use this exit from the prison, a character
 needs to find the natural cave system in Area M of the Danger Zone,
 then navigate through the caves to the exit. A light source of some
 sort is needed in the caves. The exit from the caves is in a small
-crevasse around one hundred metres east of the prison. The natural
+crevasse around one hundred meters east of the prison. The natural
 entrance is within view of the prison during the day; a Routine (+2)
 Stealth check is needed to avoid being seen when exiting, since
 guards seldom look in this direction. At night there should be no
@@ -8354,9 +8354,9 @@ Location: Anywhere underground
 Making The Escape: Digging a tunnel in Tarkwall is a daunting
 process. While it is possible for a character to obtain a mining tool
 such as a pick with comparative ease, the prison is underground.
-The cellblock level is some eight metres below the surface.
+The cellblock level is some eight meters below the surface.
 
-A character using a mining pick can tunnel through one metre of
+A character using a mining pick can tunnel through one meter of
 rock in one month under normal circumstances (such as working at
 night, when the guards are not watching). Not having a mining pick
 or other suitable tool increases the time taken by a factor of four;
@@ -8365,7 +8365,7 @@ characters may be able to work on the same tunnel. A character who
 spends his nights digging a tunnel must make an Endurance check
 each day to avoid fatigue (-1DM to all actions until he rests).
 
-Each metre of rock tunnelled though results in a lot of rubble and
+Each meter of rock tunnelled though results in a lot of rubble and
 rock. If the tunnel is being dug in the mining area, characters can
 easily hide their debris in with the rest of the mine tailings. However,
 
@@ -8550,7 +8550,7 @@ prison are the last zones to be searched.
 ###### 4. Vehicle Patrol
 
 The next step is to send out the ATVs in a search pattern around the
-prison. Each ATV carries eight guards and searches a ten-kilometre
+prison. Each ATV carries eight guards and searches a ten-kilometer
 area around the prison – the guards scan the desert with binoculars,
 but they have learned the most effective approach is to wait until
 nightfall and look for where the cave bat scavengers congregate.
@@ -8958,11 +8958,11 @@ addictive.
 6 Bezzine Off-world hallucinogen; rumored to stimulate psychic powers. 600
 
 Preserved Food Supplies: Canned food can be found in the prison
-kitchen, and keeps for an indefinite period. Roll 1d6 for the ‘flavour’.
+kitchen, and keeps for an indefinite period. Roll 1d6 for the ‘flavor’.
 Each unit of preserved food supplies is enough food for one person
 for one week.
 
-RollRoll FlavourFlavour
+RollRoll FlavorFlavor
 1 I can’t believe it’s not pork
 2 Soy
 3 Another sort of soy
@@ -9014,7 +9014,7 @@ Sleep gas grenade: A sleep gas grenade contains a chemical which
 vaporises on contact with air to create a billowing cloud of gas.
 Anyone inhaling this gas must make an Endurance check or fall
 unconscious. The gas cloud lasts for 1d6+3 rounds; it has an
-initial radius of 1.5 metres and expands in radius by one metre
+initial radius of 1.5 meters and expands in radius by one meter
 per round.
 
 Tarpaulin: A sheet of cloth or plastic. Wrapped around a character, it
@@ -9025,8 +9025,8 @@ painful gas. A character in the gas cloud suffers a cumulative -1 DM
 per round to a maximum DM of -4. A character with a gas mask and
 goggles is immune to the effects of tear gas; a character with only
 one or the other has a maximum DM of -2. The gas cloud lasts for
-1d6+3 rounds; it has an initial radius of 1.5 metres and expands in
-radius by one metre per round.
+1d6+3 rounds; it has an initial radius of 1.5 meters and expands in
+radius by one meter per round.
 
 Vitamin supplement: Vitamin supplements including an iodine
 booster provide extra protection against radiation exposure. Taking
@@ -9152,7 +9152,7 @@ carry a PGMP without being challenged.
 The Prison Board: The administrative board of Tarkwall Prison is
 a subcommittee of the council. The prison is one of the largest
 employers on Keanou, and as the prison serves as an unofficial
-imperial detention centre, it brings in much-needed credits from
+imperial detention center, it brings in much-needed credits from
 offworld. The council takes an active interest in the affairs of the
 prison, and the role of Warden carries with it considerable political
 muscle.
@@ -9190,7 +9190,7 @@ planet is the Great Salt Eye, a huge salt flat surrounding the Surtsea,
 the only major body of surface water on the planet. The planet is
 surrounded by a thin ring of metallic dust, visible only at dusk and
 dawn, and orbited by seven small moonlets, none larger than a
-kilometre across.
+kilometer across.
 
 The planet’s atmosphere is dense, but dry and tainted. The taint is
 a form of very fine dust particle causing lung damage over the long
@@ -9279,7 +9279,7 @@ rifles, supplies, and a ground car.
 4. Thugs: 2D6 individuals appear, armed with daggers and wearing
 jack. These are members of the local criminal element, and will
 attempt to divest the adventurers of any saleable items should a
-neutral or unfavourable reaction be rolled. They will not attack if
+neutral or unfavorable reaction be rolled. They will not attack if
 the adventurers are more numerous or better armed. If a friendly
 reaction is rolled, they may help by aiding in the location of a forger
 or some contraband material.
@@ -9361,12 +9361,12 @@ be done with great speed. Once every few years, rainstorms wash
 over the mountains east of the desert, causing dry rivers to burst
 into life. Soon, these rivers dry up again, and leave a residue of
 salt in their beds. This salt is found in a thin clump ten to twenty
-centimetres below the surface. Wait too long, and the organic
+centimeters below the surface. Wait too long, and the organic
 compounds giving the dust-spice its unique taste decay and the salt
 becomes worthless. Harvest too early, and the salt has not had time
 to leech the right combination of minerals and organic elements
 from the soil. Spice-harvesting must be performed in a window of
-only a few weeks, and hundreds of kilometres of river-bed must be
+only a few weeks, and hundreds of kilometers of river-bed must be
 searched in that time.
 
 ##### KKEANOUEANOU KEANOU
@@ -9419,7 +9419,7 @@ The average farm has a large barrack-style sleeping quarters for
 the seasonal spice labourers, a filtering shed and a house for any
 overseers or other specialists. Some also have more extensive
 accommodation for the owner and his family and servants. As
-the average spice holding is hundreds of square kilometres in size
+the average spice holding is hundreds of square kilometers in size
 (desert land is cheap), a farm can be quite spread out, and prisoners
 may be able to live in luxury by breaking into an unoccupied noble’s
 holiday villa.
@@ -9448,7 +9448,7 @@ air rafts.
 
 The baron occasionally takes pity on prisoners, invites them
 into his home, questions them – and then ships them back to
-Tarkwall as a favour for Warden Grice. At other times they are
+Tarkwall as a favor for Warden Grice. At other times they are
 simply locked up and guarded until the prison authorities arrive
 to take them back.
 
@@ -9526,7 +9526,7 @@ have failed, and the pests seem bound to continue to plague the
 prison indefinitely.
 
 Skitcher: The skitcher is a poisonous insect-analogue; an adult
-specimen is ten centimetres long and stick-thin. They skitter and
+specimen is ten centimeters long and stick-thin. They skitter and
 scamper across walls and through cracks like rats. The skitcher has
 a poisonous stinger which is extremely potent. A bite from such a
 creature reduces a character’s Dexterity by 1d6 for up to eight hours.
@@ -9619,7 +9619,7 @@ Desert
 
 Stealth 2, Survival 1
 Armor 1. Number Encountered: 2d6.
-Nomegs are small scaly omnivores, ranging in size from a dozen centimetres in length to nearly fifty centimetres. They are
+Nomegs are small scaly omnivores, ranging in size from a dozen centimeters in length to nearly fifty centimeters. They are
 primarily herbivorous, and have many predators. Their flesh is so sour as to be almost inedible to humans. Nomegs are a
 nuisance to human agriculture on Keanou, the warden’s garden is infested with the pests.
 
@@ -9662,7 +9662,7 @@ Pouncer
 Recon 1, Survival 1, Melee (claw) 2
 Claw (2d6), Armor 1. Number Encountered: 1
 Greatkites are flying predators, who swoop down from above to impale their targets. A single greatkite has a range of several
-dozen kilometres, as they must travel a great distance to find enough food.
+dozen kilometers, as they must travel a great distance to find enough food.
 
 ##### KEANOU KKEANOUEANOU
 
@@ -9706,7 +9706,7 @@ water may also be in order.
 
 ### TARKWALL REGION
 
-One hex=50 kilometres
+One hex=50 kilometers
 
 1. This is the site of the prison itself.
 

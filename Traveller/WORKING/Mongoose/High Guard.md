@@ -497,7 +497,7 @@ will automatically be awarded a Combat Ribbon. These will include
 a citation that will detail the character’s name, rank, unit and the
 name and date of the action. Although the Imperium does keep
 track of such awards they are not advertised greatly, although on
-smaller planets or settlements a well–travelled favourite son may
+smaller planets or settlements a well–travelled favorite son may
 well get a mention in the local news media if he receives a Combat
 Ribbon.
 
@@ -1228,7 +1228,7 @@ if you will vouch for his safety, but you know your commander wants him dead. If
 Advocate 8+. Fail, and gain your commander as an Enemy. Succeed, and gain the enemy captain as an Ally.
 25 You are ordered to lead an attack on an enemy strongpoint. Roll Tactics or Discipline 8+ to succeed. If you pass,
 gain Leadership and an Ally.
-26 You are ordered to bombard an enemy position close to a civilian population centre. Obey this questionable
+26 You are ordered to bombard an enemy position close to a civilian population center. Obey this questionable
 order and gain an Enemy and a +2 DM to your next Advancement roll. Refuse, and suffer a –4 DM to your next
 advancement roll.
 31–36 Life Event. Roll on the Life Events table (see page 34 of the Traveller main rulebook).
@@ -1497,7 +1497,7 @@ MISHAPS
 2d62d6 MishapMishap
 2 You are accused of negligent flying, but the fault was with the starport traffic control. Gain a Rival even though you
 fail to convince the authorities of where the blame really lies.
-3 New tactical priorities leave small craft to become a neglected part of the fleet in favour of massive capital ships.
+3 New tactical priorities leave small craft to become a neglected part of the fleet in favor of massive capital ships.
 You eventually have enough of making do with old and unsafe equipment and resign in protest.
 4 Your shuttle suffers an engine failure and goes adrift without power. There is not enough air for the crew, and you
 are forced to draw lots. The loss of your friends causes you to leave the career at the earliest opportunity.
@@ -1677,7 +1677,7 @@ Contact in an alien race and one level in any skill of your choice. If you fail,
 21 On a long survey mission, you pick up some useful skills. Gain Survival 1, Sensors 1, Navigation 1 or Recon 1.
 22 You get into a political debate with a member of the bridge staff. Throw Social Standing 8+. Fail and you say
 something you will always regret and you cannot pass your Advancement roll this term. Succeed and you are looked
-at more favourably, gaining a +2 DM to your next Advancement roll.
+at more favorably, gaining a +2 DM to your next Advancement roll.
 23 Your ship was destroyed in battle, and you must run for the escape pods. Roll Dexterity 8+ to make it there in time. If
 you fail, you are injured.
 24 When hunting an enemy ship, you play cat and mouse with it, chasing sensor ghosts and false trails. Roll Sensors 8+
@@ -2166,7 +2166,7 @@ warning that the enemy presence is much stronger than anticipated. If you break 
 you continue the mission, roll Pilot or Flyer 8+. Pass, and you survive the attack. Fail, and you are shot down – roll
 twice on the Injury table and take the lower result.
 53 You are engaged in first contact with a minor species. Roll Diplomacy 8+; if you fail, then roll on the Injury table.
-54 You attempt to extricate your command from a very unfavourable position. Roll Tactics (Navy) or Leadership 8+. If
+54 You attempt to extricate your command from a very unfavorable position. Roll Tactics (Navy) or Leadership 8+. If
 you succeed gain +1 Social Standing, if you fail roll on the Injury table.
 55 You co-ordinate a major evacuation. Roll Leadership or Admin 8+. If you succeed you gain a powerful Ally amongst
 those you save, if you fail you gain an Enemy who blames you for the unnecessary loss of lives.
@@ -2176,7 +2176,7 @@ Advocate, Investigate or Admin.
 8+. If you fail roll on the Injury table. If you succeed the campaign is successful and you are the guest of honor at
 innumerable receptions. Gain one of Carouse, Diplomat or add one to your Social Standing.
 62 You are put into a difficult situation by political rivals. Roll Diplomat or Advocate 8+. If you fail you lose one from
-your Social Standing. If you succeed you deftly turn the situation to your favour and gain a rank in Diplomat,
+your Social Standing. If you succeed you deftly turn the situation to your favor and gain a rank in Diplomat,
 Persuade or Investigate as you manage to turn the tables on those who put you into the situation in the first place.
 63 Your cautious approach during a major engagement gains you both admirers and critics within the navy. Gain 1D3
 Contacts and 1D3 Rivals.
@@ -2283,7 +2283,7 @@ Independent Operation: Independent Operation: The character may set up his own b
 or group that works with the navy, such as a mercenary group, spy
 network or private think–tank. The navy will pay up to 20 ship shares
 or 1d6 MCr towards initial start-up costs, as long as the character
-agrees to favour them as a client.
+agrees to favor them as a client.
 
 Retainer: Retainer: The navy wishes to retain the character’s services, calling
 on him as a consultant or advisor. The character will be paid Cr.
@@ -2307,7 +2307,7 @@ Aslan
 Aslan naval forces break down clearly by gender lines – males take
 command, and females take every other role. Often, the command
 staff of an Aslan cruiser will be a single pride, with the alpha male
-in command. Aslan forces traditionally favour heavy fighter screens
+in command. Aslan forces traditionally favor heavy fighter screens
 over capital ships.
 
 Modifiers: Modifiers: Male Aslan receive a +1 DM to all Advancement rolls
@@ -2751,7 +2751,7 @@ such a situation as all other systems – including life support
 
 - will fail if this is burned.
 
-Solar Sail: Solar Sail: A deployed solar sail covers an area dozens of kilometres
+Solar Sail: Solar Sail: A deployed solar sail covers an area dozens of kilometers
 across. It is made of a flexible synthetic fabric that has limited self–
 repair capabilities. Particles emitted by the sun – the ‘solar wind’
 catch the sail and provide a minuscule amount of thrust. A ship
@@ -2833,11 +2833,11 @@ Third and Subsequent Hits: as per normal fuel hit.
 
 #### BRIDGE
 
-The bridge is the nerve centre of the ship, and vital to onboard
+The bridge is the nerve center of the ship, and vital to onboard
 operations. Old Vilani bridge designs put the captain and other
 
 command staff on a raised balcony or walkway over the workstations;
-the Solomani layout generally puts the captain in the centre. Scout
+the Solomani layout generally puts the captain in the center. Scout
 ship bridges are notoriously cramped and smelly – even more so in
 Belter mining ships where the bridge and living space is sometimes
 combined to maximise cargo capacity – while some groups of free
@@ -2905,7 +2905,7 @@ radiation shielding installed, it is assumed to be hardened.
 Holographic Controls: Holographic Controls: This bridge design incorporates advanced
 interactive holographic displays, reconfiguring itself to adapt to
 the current situation. A bridge with holographic controls is always
-optimised, and gives a +2 bonus when rolling for Initiative. A
+optimized, and gives a +2 bonus when rolling for Initiative. A
 holographic bridge adds 25% to the cost of the bridge.
 
 #### SENSORS
@@ -2913,7 +2913,7 @@ holographic bridge adds 25% to the cost of the bridge.
 Upgraded sensor suites are common on larger vessels.
 
 Survey Sensors: Survey Sensors: Survey sensors integrate a suite of probe drones and
-deployable satellites into the sensor system, and are optimised for
+deployable satellites into the sensor system, and are optimized for
 scanning large areas at great speed. Survey sensors are equivalent
 to Advanced Sensors, but reduce the time taken to scan a planetary
 surface by one step.
@@ -3041,7 +3041,7 @@ Clamp TonnageClamp Tonnage Attached Ship MaximumAttached Ship Maximum CostCost
 Grappling Arm: Grappling Arm: A grappling arm is a remote–control device for
 picking up or manipulating objects in space. The arm is a flexible
 tentacle of thousands of telescoping segments, capable of reaching
-out up to 250 metres. The arm ends in a set of cameras and grippers
+out up to 250 meters. The arm ends in a set of cameras and grippers
 of varying sizes, from large claws to tiny micro–manipulators. It also
 carries a toolkit which can be customised for a particular task.
 
@@ -3363,7 +3363,7 @@ each successful hit. The 100 ton version of the railgun bay is as the
 
 Ortillery Railgun: Ortillery Railgun: This variation on the standard 50 ton railgun bay
 is also known as a mass driver. It fires larger projectiles at slower
-speeds that are optimised for smashing planetary targets. The bay
+speeds that are optimized for smashing planetary targets. The bay
 includes space for 10 shots of ammunition. A single hit from an
 
 Torpedo Types:
@@ -3650,7 +3650,7 @@ or warships built by primitive species.
 
 Most technologies are developed one or more technology levels
 before they become common, and are refined for one or more
-technology levels after before they are abandoned in favour of
+technology levels after before they are abandoned in favor of
 the next step in design. For example, the standard Pulse laser is
 developed at TL7. Primitive prototypes become available at TL6,
 while the design is refined until TL8 or even later, at which time
@@ -3946,7 +3946,7 @@ A small craft is any ship from 10 to 99 tons. Small craft cannot
 use jump engines. Ships are measured in ‘displacement tons’
 or d–tons: a hundred–ton ship displaces a volume equal to one
 hundred tons of liquid hydrogen (one d–ton equals roughly 14
-cubic metres).
+cubic meters).
 
 A fighter is a small, short–ranged fast combat vessel, normally
 displacing less than fifty tons.
@@ -4015,7 +4015,7 @@ with a Gravitic or Reaction M–Drive or a solar sail
 - A Reaction drive is a rocket. Reaction drives are cheaper and
     smaller than Gravitic Drives, but burn fuel much more quickly and
     are less efficient.
-- A Solar Sail is large, up to several kilometres across, made of a
+- A Solar Sail is large, up to several kilometers across, made of a
     flex flexible synthetic fabric that has limited self–repair capabilities.
     Particles emitted by the sun – the ‘solar wind’ catch the sail and
     provide a minuscule amount of thrust. A ship using a solar sail as
@@ -4248,7 +4248,7 @@ TLTL FunctionalityFunctionality CostCost
 12 Autonomous Mode (non–combat only) or Remote Operation MCr 5
 13 Autonomous Mode with Characteristic 7, skill level 2 or Remote Operation MCr 10
 
-A small craft drone operating in autonomous mode is effectively a robot with a range of specialist intellect and expert programmes (see
+A small craft drone operating in autonomous mode is effectively a robot with a range of specialist intellect and expert programs (see
 Core Rule Book pages 92–94). The characteristics and skills of an autonomous mode drone depend on its tech level, noting that all skills
 requiring physical characteristics used Intelligence instead.
 
@@ -6506,7 +6506,7 @@ and referees the opportunity to give their ship handling and naval
 tactics skills a real workout!
 
 Timescale: As per current rules
-Scale: 1 unit per 1,250 km (typically 1 unit is a centimetre or
+Scale: 1 unit per 1,250 km (typically 1 unit is a centimeter or
 an inch)
 Ranges: Close to Short: 1 unit
 Medium: up to 8 units
@@ -6591,7 +6591,7 @@ Craft launching start with the base vector of their parent ship and need to matc
 Small Gas Giant
 
 Move end position 1 unit
-towards centre of gravity
+towards center of gravity
 
 Effect of Gravity
 When fighting in the presence of a significant gravity field that field
@@ -7139,7 +7139,7 @@ duties in the line of battle.
 
 The term ‘capital ship’ is something of a misnomer – it should be
 used only to describe those vessels that are so large and powerful
-that they are the centre of a whole squadron, such as battleships
+that they are the center of a whole squadron, such as battleships
 and dreadnoughts. However, small–ship pilots tend to apply the
 phrase to any gargantuan super–ship massing tens of thousands
 of tons. Most capital ships are in the hands of governments or
@@ -8352,7 +8352,7 @@ ranking officer, and one of the command staff. This ‘troupe–style
 
 play’ puts the decisions in the hands of the characters, but also
 ensures that they can get up close and personal with the action. As
-the ship is the centre of the game, characters can leave, be replaced
+the ship is the center of the game, characters can leave, be replaced
 or even killed without the campaign coming to a halt.
 
 In Time Of War: In Time Of War: While there is plenty for a naval ship to do during

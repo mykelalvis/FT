@@ -32,7 +32,7 @@ Amarja is renowned throughout the sector as being a liberal, honorable world, an
 
 Amarja's rotation period is thirty standard hours. An Amarjan year is 292 of their days, or 365 standard days.
 
-[[#The Amarjan Basin]], where Castrobancla sits, is a few kilometres southeast of the Western Mountains, a coastal mountain range beyond which is the Great Western Ocean, the largest of Amarja's three oceanic bodies.
+[[#The Amarjan Basin]], where Castrobancla sits, is a few kilometers southeast of the Western Mountains, a coastal mountain range beyond which is the Great Western Ocean, the largest of Amarja's three oceanic bodies.
 
 ### Water
 
@@ -73,7 +73,7 @@ Highport has a semi-autonomous mostly human population, which hold elections eve
 
 South of Castrobancla are the buildings and landing pads of T'pol Spaceport.
 
-The only vessels which arrive at the port are commercial small craft flights. Modular cutters deliver regular freight runs to and from Highport. A Maglev rail terminus adjoins T'Pol. Cargoes go by Maglev freight train to Preev Theenas, 1200 kilometres to the east.
+The only vessels which arrive at the port are commercial small craft flights. Modular cutters deliver regular freight runs to and from Highport. A Maglev rail terminus adjoins T'Pol. Cargoes go by Maglev freight train to Preev Theenas, 1200 kilometers to the east.
 
 A passenger service also takes Travellers to and from the capital.
 
@@ -227,7 +227,7 @@ But they are reliable, and they are cheap; and the drivers take their passengers
 
 ## City Wards
 
-Castrobancla is a sprawling city, covering several square kilometres. The city is divided into a total of twenty-five districts or Wards, ranging from opulent upper-class establishments such as Watertown down to barely-functioning slums such as the mostly-human Apetown shanty.
+Castrobancla is a sprawling city, covering several square kilometers. The city is divided into a total of twenty-five districts or Wards, ranging from opulent upper-class establishments such as Watertown down to barely-functioning slums such as the mostly-human Apetown shanty.
 
 Some areas are virtually abandoned and left for the encroaching desert.
 
@@ -255,9 +255,9 @@ The Wards are named after Amarjan historical figures. The table below lists each
 | Prem      |      Slum      |           D           | Unusually crowded even for slums           |
 | Ropalaya  |      Slum      |           X           | Mostly Bandaluks                           |
 | Sombar    |      Slum      |           D           | Workers commuting to industrial Wards      |
-| Sonchi    |   Mercantile   |           B           | Speculative trade centre                   |
+| Sonchi    |   Mercantile   |           B           | Speculative trade center                   |
 | Todor     |   Upper Class  |           A           | Watertown                                  |
-| Trong     |      Slum      |           E           | Largest slum Ward, closest to town centre  |
+| Trong     |      Slum      |           E           | Largest slum Ward, closest to town center  |
 | Voitila   |   Upper Class  |           A           | Paradise; Theatre District; mostly Pelacur |
 | Wosarita  |   Industrial   |           X           | No residents; mostly automated             |
 
@@ -480,7 +480,7 @@ Little more than expensive mercenaries, the military are a mostly-human group wh
 
 Menilak is a typical small military base, containing administrative buildings; facilities for ammunition production and storage, weapons production, fuel storage, recreation, research, training, vehicle maintenance and storage; a commissary, a mess, a BX/PX, fortifications, hospitals, housing, utility structures, a military intelligence base, a massive mountain SAR (Search and Rescue) unit second only to the SAR base at T'Pol, schools and museums.
 
-Menilak also houses a command centre, FIBUA and CQB training grounds and one external training ground located in the Great Amarja Desert, where SAR (Search And Rescue) simulations are conducted in conjunction with the unit stationed at T'Pol Spaceport. A second external training ground in the mountains was recently abandoned – cause unknown.
+Menilak also houses a command center, FIBUA and CQB training grounds and one external training ground located in the Great Amarja Desert, where SAR (Search And Rescue) simulations are conducted in conjunction with the unit stationed at T'Pol Spaceport. A second external training ground in the mountains was recently abandoned – cause unknown.
 
 The Desert Pioneers are currently scouting for a new mountain location for their second training ground.
 
@@ -506,7 +506,7 @@ The Desert Pioneers do not patrol the city. They are only called out within Cast
 > - [[Central Supply Catalog#AUTOPISTOL|Autopistol TL6]] (standard officer's sidearm)
 > - [[Central Supply Catalog#ADVANCED COMBAT RIFLE|ACR TL10]] (standard arm)
 > - Alien units are issued with [[Central Supply Catalog#AUTOPISTOL|Universal Autopistols TL8, 10 Mag, +100 cost]].
-> - Police units favour autopistols and [[Central Supply Catalog#ASSAULT SHOTGUN|assault shotguns]]. Military and police tac units are trained in the use of assault shotguns and autopistols for FIBUA (Fighting In Built Up Areas), and in unarmed combat, daggers and autopistols for CQB (Close Quarters Battles).
+> - Police units favor autopistols and [[Central Supply Catalog#ASSAULT SHOTGUN|assault shotguns]]. Military and police tac units are trained in the use of assault shotguns and autopistols for FIBUA (Fighting In Built Up Areas), and in unarmed combat, daggers and autopistols for CQB (Close Quarters Battles).
 >   Some units will have [[Central Supply Catalog#SNIPER RIFLE|sniper rifles]]
 
 #### Police
@@ -517,7 +517,7 @@ Castrobancla's police patrol the streets in pairs. There are numerous divisions 
 
 Each Ward has a Precinct. Precinct One, the central precinct from which Despatch communicates with all city units, is located in Big Hill Ward.
 
-Add the Effect of an Average (8+) Streetwise (SOC, 1D seconds) check to this roll to adjust it in the Travellers' favour, if necessary.
+Add the Effect of an Average (8+) Streetwise (SOC, 1D seconds) check to this roll to adjust it in the Travellers' favor, if necessary.
 
 Roll 2D:-
 
@@ -837,7 +837,7 @@ An Average (8+) Streetwise (SOC, 1D minutes) check reveals that the Life Market 
 
 ### Centres Of Power
 
-Officially, Castrobancla only has one centre of power, the Ward called Big Hill. City Hall and various government buildings are sited here. Zoning, the education syllabus, the placement of new libraries and streets, scheduled road maintenance and many other aspects of Castrobancla's bureaucracy are controlled from here.
+Officially, Castrobancla only has one center of power, the Ward called Big Hill. City Hall and various government buildings are sited here. Zoning, the education syllabus, the placement of new libraries and streets, scheduled road maintenance and many other aspects of Castrobancla's bureaucracy are controlled from here.
 
 #### Tulia House
 
@@ -880,7 +880,7 @@ Put in a bid at a government auction: Opposed Difficult (10+) Broker (Soc, 1D x 
 
 ### Unofficial Centres of Power
 
-Big Hill is not the only centre of power. The spiritual, entertainment and military centres of Castrobancla contain factions which vie for prominence with the ruling governmental forces of Big Hill; and behind the scenes, criminal organised crime rings and the larger gangs control the corrupt and ensure that they get a percentage of the action, however small. Bremani Ward, Voitila Ward and Menilak Ward all host pressure groups which congregate on Big Hill to debate important matters relevant to each Ward. Each election year, representatives from each Ward are sent up to Big Hill to stand for seats in the Council, and representatives from these Wards not only have disproportionate power compared to the others, but most of the time the choice of whom to elect for Mayor is made from a selection of candidates from these three Wards, competing with the Big Hill local candidates.
+Big Hill is not the only center of power. The spiritual, entertainment and military centres of Castrobancla contain factions which vie for prominence with the ruling governmental forces of Big Hill; and behind the scenes, criminal organised crime rings and the larger gangs control the corrupt and ensure that they get a percentage of the action, however small. Bremani Ward, Voitila Ward and Menilak Ward all host pressure groups which congregate on Big Hill to debate important matters relevant to each Ward. Each election year, representatives from each Ward are sent up to Big Hill to stand for seats in the Council, and representatives from these Wards not only have disproportionate power compared to the others, but most of the time the choice of whom to elect for Mayor is made from a selection of candidates from these three Wards, competing with the Big Hill local candidates.
 
 #### Bremani Ward
 
@@ -918,7 +918,7 @@ Tricksters appear in every culture. The Last Chance is a place which celebrates 
 
 Trickster is traditionally a teacher; and The Last Chance teaches moral and ethical lessons to young children in the sunlit courtyards, even as their parents play in the basement casinos under their feet.
 
-The act of wagering is considered an offering. The bigger the gamble, the better the offering – and the games are absolutely fair. Travellers are more likely to lose their shirts in the casino – but those few who come from the Temple wealthy are looked upon as having Trickster's favour today.
+The act of wagering is considered an offering. The bigger the gamble, the better the offering – and the games are absolutely fair. Travellers are more likely to lose their shirts in the casino – but those few who come from the Temple wealthy are looked upon as having Trickster's favor today.
 
 _Performing an offering_: Special (see below) Gambler (Int, 1D seconds).
 
@@ -1111,9 +1111,9 @@ On the Trade tables, row 31, Crystals and Gems, can be bought and sold here. The
 
 The most famous landmark in Castrobancla, the Great Spinward Hotel is also Castrobancla’s biggest building.
 
-Dominating the wide, palm-tree lined central boulevard that is Sonchi Ward's Celeresteral Avenue ( the place to shop if your Social Standing is 13 or higher), the Great Spinward is a truncated glass-sided pyramid nearly a kilometre high and a full kilometre across at ground level.
+Dominating the wide, palm-tree lined central boulevard that is Sonchi Ward's Celeresteral Avenue ( the place to shop if your Social Standing is 13 or higher), the Great Spinward is a truncated glass-sided pyramid nearly a kilometer high and a full kilometer across at ground level.
 
-Entry to the Great Spinward on the ground floor is via the grand entrance, which spans over a hundred metre gap; the building extends several levels below ground level, and the gap extends all around the building. The staff tend to live out their lives in the levels below ground level.
+Entry to the Great Spinward on the ground floor is via the grand entrance, which spans over a hundred meter gap; the building extends several levels below ground level, and the gap extends all around the building. The staff tend to live out their lives in the levels below ground level.
 
 Rows of elevators take residents for a dizzying ride along the interior surface of the building; they get to see the city falling away far below them.
 
@@ -1223,7 +1223,7 @@ Ropalaya means “together” in the Bandaluk language. Ropalaya is the Bandaluk
 
 Sombar and Trong are slightly more affluent than the other slum wards, because of their closer proximity to the industrial Wards, meaning that many of the residents have jobs and regularly commute to work in those Wards.
 
-Trong is the biggest slum Ward, and also closest to the city centre; Trong is also the site of a controversial proposed gentrification project, initiated by two humans from Preev Theenas, who want to convert the place into an upper class Ward for affluent humans only.
+Trong is the biggest slum Ward, and also closest to the city center; Trong is also the site of a controversial proposed gentrification project, initiated by two humans from Preev Theenas, who want to convert the place into an upper class Ward for affluent humans only.
 
 This, naturally, is not going down well with the mostly-alien residents: Kubotaurs, Bandaluks and Settlers.
 
@@ -1541,7 +1541,7 @@ Homeworld: Rumah A-767-973-A Ga Hi
 
 Settlers are ubiquitous across Amarja. Most of the alien nomadic tribes which cross the Great Amarjan are Settlers.
 
-Settlers appear to be at least half a metre taller then humans; and their appearance outside their species is unknown to outsiders, since they never  leave the confines of their all-encasing stillsuits outside of their homes.
+Settlers appear to be at least half a meter taller then humans; and their appearance outside their species is unknown to outsiders, since they never  leave the confines of their all-encasing stillsuits outside of their homes.
 
 Settlers are intimately tied to their home planet. If a Settler is ever taken out to orbit, they sicken and die within 1D hours. All the Settlers in the universe live on the planet Amarja.
 

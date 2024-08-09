@@ -4,7 +4,7 @@ The Chwistyoch system has five planets, two of which are gas giants. Chwistyoch 
 
 Chwistyoch 104 B766766–A Z Z Ri Ag Ga G Chwistyoch was first colonized in 207 by [[Vexx]]  refugees who fled Condyole after the cataclysm. The idyllic conditions on Chwistyoch and the fertile lands drew the [[Zhodani]] here shortly after they colonized Clan. In 333, colonists arrived and claimed ownership of Chwistyoch, imposing [[Zhodani]] rule over the [[Vexx]]. The [[Zhodani]] also upgraded the starport from class E to class B.
 
-Much of the land on Chwistyoch is devoted to mining and farming. This has lead Chwistyoch to become a rich world from both its agricultural and mineral exports. There is also a re-education centre here, built exclusively for the noble class. A high speed monorail connects the major cities and the starport, so both visitors and locals can easily travel around the planet at no expense.
+Much of the land on Chwistyoch is devoted to mining and farming. This has lead Chwistyoch to become a rich world from both its agricultural and mineral exports. There is also a re-education center here, built exclusively for the noble class. A high speed monorail connects the major cities and the starport, so both visitors and locals can easily travel around the planet at no expense.
 
 # ATTITUDES
 
@@ -26,7 +26,7 @@ Travellers are permitted to land at the starport but are discouraged from visiti
 The capital city on Chwistyoch certainly lives up to its name. It is a beautiful city with landscaped parks and elegant buildings. Haven is located 10km north of the starport.
 
 ## Chwistyoch Retreat
-The paradise setting on Chwistyoch made it a perfect choice to build this special re-education centre on the outskirts of Haven. Since most people on Chwistyoch are happy with their lives, the centre has become an exclusive retreat for nobles in neighboring systems.
+The paradise setting on Chwistyoch made it a perfect choice to build this special re-education center on the outskirts of Haven. Since most people on Chwistyoch are happy with their lives, the center has become an exclusive retreat for nobles in neighboring systems.
 
 ## Military Base
 

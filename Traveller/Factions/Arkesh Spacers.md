@@ -22,7 +22,7 @@ The Arkesh Spacers Operations Centre is the main corporate office on [[Gougeste]
 >
 > The main door can only be unlocked with an Engineering (Electronics) check DM –4 and the emergency exit can only be opened from the inside. All of the internal office doors have low security locks and no DM is applied to the Engineering (Electronics) check. The only way inside the building without being seen is through one of the windows but these are linked to the security system and must be deactivated with an Engineering (Electronics) check DM –2.
 >
-> There are computers in all of the office rooms but they are remotely powered down during the night and can only be turned on from the main computer centre. However, the computers in offices 1 and 2 are not powered down as they are for the use of anyone who is working after hours.
+> There are computers in all of the office rooms but they are remotely powered down during the night and can only be turned on from the main computer center. However, the computers in offices 1 and 2 are not powered down as they are for the use of anyone who is working after hours.
 >
 > If an intruder is detected, the security guards will immediately inform each other and the main security headquarters (SHQ) who will send reinforcements. The guards in the security room will use the cameras to inform their comrades of where the intruders are.
 

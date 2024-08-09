@@ -1,14 +1,14 @@
 ---
 date created: 2024-07-22 07:41
-date updated: 2024-07-22 11:54
+date updated: 2024-08-10 06:22
 tags:
-  - "#TODO"
+  - '#TODO'
   - Mongoose
   - Traveller-Adventures
   - UNFORMATTED
 ---
 
-![[BltStrk-cover.jpg]]
+![[BltStrk-cover.jpg|100]]
 
 # INTRODUCTION
 
@@ -50,15 +50,15 @@ Asteroids are primordial objects left over from the formation of the star system
 
 ### System Location
 
-Most asteroid belts are found in an orbit between the system’s star and the closest gas giant. Typically this equates to a distance of between 300 million and 500 million kilometres from the star, but may be greater or lesser depending on the system’s age, and number of gas giants present.
+Most asteroid belts are found in an orbit between the system’s star and the closest gas giant. Typically this equates to a distance of between 300 million and 500 million kilometers from the star, but may be greater or lesser depending on the system’s age, and number of gas giants present.
 
-The typical orbital circumference of an asteroid belt is therefore anywhere between 1.8 billion and 3.1 billion kilometres – a vast, stellar, orbital area that requires considerable resources and logistics to accurately survey and exploit.
+The typical orbital circumference of an asteroid belt is therefore anywhere between 1.8 billion and 3.1 billion kilometers – a vast, stellar, orbital area that requires considerable resources and logistics to accurately survey and exploit.
 
 Asteroids are found further afield within a star system – beyond the orbits of the major gas giants – but these clusters tend to be relatively small compared with the main belt and are the result of collisions during the main belt’s formation which ejected material out of the belt’s orbital trajectory.
 
 The density of the belt varies throughout its circumference. Certain areas – clusters – are densely packed, numbering tens of thousands of objects varying in size. In other parts of the belt the density is considerably less, with great distances separating substantial objects, but still filled with very small particles and dust.
 
-However, given the immense circumference of asteroid belts, even in the densest clusters, individual asteroids can be tens of thousands of kilometres from their nearest neighbor. Collisions between major asteroid bodies occur, on average, every 10 million years, which, by astronomical standards, is quite frequent. Where general human visitation is concerned, even in the most concentrated clusters, hitting an asteroid ‘accidentally’ is nigh-on impossible, and it requires careful navigation to isolate and approach any given major body. The image of a whirling cloud of deadly debris is largely mythical, although, when collisions between major bodies take place, clouds of dangerous, high velocity debris and dust is the result which can pose a threat to any ship unlucky enough to be caught in its wake.
+However, given the immense circumference of asteroid belts, even in the densest clusters, individual asteroids can be tens of thousands of kilometers from their nearest neighbor. Collisions between major asteroid bodies occur, on average, every 10 million years, which, by astronomical standards, is quite frequent. Where general human visitation is concerned, even in the most concentrated clusters, hitting an asteroid ‘accidentally’ is nigh-on impossible, and it requires careful navigation to isolate and approach any given major body. The image of a whirling cloud of deadly debris is largely mythical, although, when collisions between major bodies take place, clouds of dangerous, high velocity debris and dust is the result which can pose a threat to any ship unlucky enough to be caught in its wake.
 
 It is also possible for larger asteroids to have their own moons, with smaller bodies occupying regular or eccentric orbits around the parent body.
 
@@ -75,7 +75,7 @@ The types of asteroids commonly found in a typical belt vary considerably, but t
 
 ### N Zone
 
-The inner belt. This band contains predominately M class planetoids and debris, usually with a high concentration of nickel-iron, hence the N designation. The N zone occurs roughly 1.25 times the star’s optimum zone for supporting life – so, in the case of our own solar system, the N zone of Sol’s asteroid belt occurs 187 million kilometres from the sun.
+The inner belt. This band contains predominately M class planetoids and debris, usually with a high concentration of nickel-iron, hence the N designation. The N zone occurs roughly 1.25 times the star’s optimum zone for supporting life – so, in the case of our own solar system, the N zone of Sol’s asteroid belt occurs 187 million kilometers from the sun.
 
 ### M Zone
 
@@ -101,7 +101,7 @@ silicate based. Anything from a floating pebble through to a mountain-like chunk
 
 Metallic based. Usually nickel-iron, but with the potential to yield precious and heavy metals depending on the location within the belt. M class asteroids are reasonably dense in composition containing high-grade sources of metal, along with exotic elements such as radioactives and super-dense metals. This makes them valuable for manufacturing industries and the larger examples can be turned into starship hulls at any orbital A class starport or similar grade of dockyard. M class asteroids are most common in the N zone of the belt and are the targets for most prospectors.
 
-As an example of the value of M class asteroids, an average earth- sized world of Tech Level 6 or 7 has an average iron ore production value in excess of 1,000 million metric tons. Compare this with an M class asteroid with a mean diameter of just 1 kilometre: at this size and density, a 1 kilometre M class asteroid could yield in excess of 2,000 million metric tons of iron - nickel - ore – which is two to three times the annual production requirements for the planet. In our own asteroid belt, the asteroid 16 psyche is believed to contain 1.7×1019 kilograms of iron-nickel – enough to satisfy current-day iron ore production requirement for several million years.
+As an example of the value of M class asteroids, an average earth- sized world of Tech Level 6 or 7 has an average iron ore production value in excess of 1,000 million metric tons. Compare this with an M class asteroid with a mean diameter of just 1 kilometer: at this size and density, a 1 kilometer M class asteroid could yield in excess of 2,000 million metric tons of iron - nickel - ore – which is two to three times the annual production requirements for the planet. In our own asteroid belt, the asteroid 16 psyche is believed to contain 1.7×1019 kilograms of iron-nickel – enough to satisfy current-day iron ore production requirement for several million years.
 
 #### C Class
 
@@ -162,19 +162,19 @@ Once an interesting rock has been identified, the referee needs to determine, se
 
 #### SCAN POTENTIAL TABLE
 
-| Roll | N Zone | M Zone | C Zone or Trojan | PlanetaryRings |
-| :--: | :----: | :----: | :--------------: | :------------: |
-|   2  |    R   |    D   |         D        |        D       |
-|   3  |    R   |    R   |         D        |        C       |
-|   4  |    D   |    D   |         C        |        C       |
-|   5  |    C   |    C   |         C        |        C       |
-|   6  |    C   |    C   |         C        |        C       |
-|   7  |    D   |    C   |         C        |        C       |
-|   8  |    C   |    C   |         C        |        C       |
-|   9  |    C   |    C   |         C        |        C       |
-|  10  |    D   |    D   |         C        |        C       |
-|  11  |    R   |    R   |         R        |        R       |
-|  12  |    E   |    E   |         E        |        E       |
+| Roll | N Zone | M Zone | C Zone or Trojan | Planetary Rings |
+| :--: | :----: | :----: | :--------------: | :-------------: |
+|   2  |    R   |    D   |         D        |        D        |
+|   3  |    R   |    R   |         D        |        C        |
+|   4  |    D   |    D   |         C        |        C        |
+|   5  |    C   |    C   |         C        |        C        |
+|   6  |    C   |    C   |         C        |        C        |
+|   7  |    D   |    C   |         C        |        C        |
+|   8  |    C   |    C   |         C        |        C        |
+|   9  |    C   |    C   |         C        |        C        |
+|  10  |    D   |    D   |         C        |        C        |
+|  11  |    R   |    R   |         R        |        R        |
+|  12  |    E   |    E   |         E        |        E        |
 
 C = Crystalline materials (including ice) D = Dense materials (including metals). Apply +1 DM to the Resource Yield Roll. R = Radioactives (Plutonium, uranium, iridium, and so on) E = Roll for [[#EXOTIC TABLE|Exotics]]
 
@@ -187,8 +187,8 @@ C = Crystalline materials (including ice) D = Dense materials (including metals)
 |   4  | Strange configuration/shape/size with a pleasing aesthetic value                                                                                                                                                                                                                                |
 |   5  | C class material with very high concentration of organic compounds – DNA and RNA building-blocks: +1 DM when rolling for Resource Yield.                                                                                                                                                        |
 |   6  | C class material with very high concentration of organic compounds - DNA and RNA building-blocks: +2 DM when rolling for Resource Yield.                                                                                                                                                        |
-|   7  | Concentration of radioactive isotopes useful for radioisotope thermoelectric generators (used in both Jump and Maneuver Drives)                                                                                                                                                                |
-|   8  | Concentration of radioactive isotopes useful for radioisotope thermoelectric generators (used in both Jump and Maneuver Drives)                                                                                                                                                                |
+|   7  | Concentration of radioactive isotopes useful for radioisotope thermoelectric generators (used in both Jump and Maneuver Drives)                                                                                                                                                                 |
+|   8  | Concentration of radioactive isotopes useful for radioisotope thermoelectric generators (used in both Jump and Maneuver Drives)                                                                                                                                                                 |
 |   9  | C class material with very high concentration of organic compounds - DNA and RNA building-blocks: +1 DM when rolling for Resource Yield.                                                                                                                                                        |
 |  10  | Strange configuration/shape/size with a pleasing aesthetic value                                                                                                                                                                                                                                |
 |  11  | C class material with very high concentration of organic compounds - DNA and RNA building-blocks: +2 DM when rolling for Resource Yield.                                                                                                                                                        |
@@ -252,13 +252,13 @@ These are large asteroids that exhibit planetary characteristics but which are t
 - Have weak gravity
 - Have a trace atmosphere
 
-The key importance for planetoids, as far as Traveller is concerned, is their suitability as a stellar habitat. Given the right Tech Level (8+), money and resources, planetoids can be rendered habitable simply by hollowing-out the inside, installing atmosphere generators or sealed life support systems akin to those found on starships, and then either installing gravitic generators or increasing the planetoid’s spin artificially (with surface-mounted thrusters, say) to impart gravity. A body the size of Ceres, with a diameter of 950 kilometres, could, if rendered habitable in this way, support a population of several millions in relative comfort.
+The key importance for planetoids, as far as Traveller is concerned, is their suitability as a stellar habitat. Given the right Tech Level (8+), money and resources, planetoids can be rendered habitable simply by hollowing-out the inside, installing atmosphere generators or sealed life support systems akin to those found on starships, and then either installing gravitic generators or increasing the planetoid’s spin artificially (with surface-mounted thrusters, say) to impart gravity. A body the size of Ceres, with a diameter of 950 kilometers, could, if rendered habitable in this way, support a population of several millions in relative comfort.
 
 ## STAKING THE CLAIM
 
 Once a body with an appreciable yield has been identified, Belters need to stake a claim. Only registered Belters are allowed to do this; claims from unregistered prospectors are generally unrecognized by the belt’s governing secretariat.
 
-The most common way to stake a claim is to plant a Claim Beacon either on the body’s surface or place it in orbit around the body. Claim Beacons are typically half a metre in diameter and emit a constant sensor signal that transmits the identity of the claimant, his registration number, the date of the claim and any other pertinent information the claimant needs or wishes to communicate. The deliberate destruction or removal of an existing Claim Beacon is a Cr 1 Million fine and the revocation of the prospecting licence. It is up to every prospector to ensure a Claim Beacon is in position; without one, the body can be legally claimed by any other prospector who happens upon it.
+The most common way to stake a claim is to plant a Claim Beacon either on the body’s surface or place it in orbit around the body. Claim Beacons are typically half a meter in diameter and emit a constant sensor signal that transmits the identity of the claimant, his registration number, the date of the claim and any other pertinent information the claimant needs or wishes to communicate. The deliberate destruction or removal of an existing Claim Beacon is a Cr 1 Million fine and the revocation of the prospecting licence. It is up to every prospector to ensure a Claim Beacon is in position; without one, the body can be legally claimed by any other prospector who happens upon it.
 
 To counter claim jumping by individuals removing beacons, placing their own and then using faster craft to register their claim, most Claim Beacons will send a signal direct to the relevant authorities, although this is not always the case in some systems. The use of broadcasting Claim Beacons and other methods to prevent tampering has led to claim jumping becoming very rare in most systems.
 
@@ -294,15 +294,15 @@ Trading a Claim The costs, intricacies and dangers of undertaking a mining opera
 
 How a claim is sold depends on the relationship the Belter has with those who would buy the material. Also the asteroid’s yet to be mined ore is of a lesser value to fully processed material, so the base price in any negotiations is 10% of the value of the commodity.
 
-- On an Admin roll of 8+ the Belter has an established sales channel with a nominated corporation. The Belter must provide the estimated market value of the yield and the corporation conducts a cursory check of the detailed survey analysis. It then offers the Belter 1D + 7% (that is, 8% - 13%, with an average of 10%) of the claim’s value as an immediate cash realization, plus enough to cover the survey cost. The Belter can attempt to bargain on the price: if he has the Broker skill then on a roll of 8+ he influences the percentage by 1 % for each level of skill in his favour. For example, Bowman has a sales channel agreed with Consolidated Belt Inc. His recent strike of a large nickel- iron asteroid is of interest to them, and the rolled percentage is 11%. Bowman has Broker 1 and rolls 9; he haggles with his contact and increases his percentage by 1, increasing his share to 12%.
-- Belters can go to the open market. The trade rules for selling goods on page 164 of the Traveller rules apply here, but based on the Commodity Prices outlined in the table below.
+- On an Admin roll of 8+ the Belter has an established sales channel with a nominated corporation. The Belter must provide the estimated market value of the yield and the corporation conducts a cursory check of the detailed survey analysis. It then offers the Belter 1D + 7% (that is, 8% - 13%, with an average of 10%) of the claim’s value as an immediate cash realization, plus enough to cover the survey cost. The Belter can attempt to bargain on the price: if he has the Broker skill then on a roll of 8+ he influences the percentage by 1 % for each level of skill in his favor. For example, Bowman has a sales channel agreed with Consolidated Belt Inc. His recent strike of a large nickel- iron asteroid is of interest to them, and the rolled percentage is 11%. Bowman has Broker 1 and rolls 9; he haggles with his contact and increases his percentage by 1, increasing his share to 12%.
+- Belters can go to the open market. The trade rules for selling goods #TODO  on page 164 of the Traveller rules apply here, but based on the Commodity Prices outlined in the table below.
 - Belters can auction their claim. Full survey details are broadcast on whatever communications network the system supports and bids are invited against a reserve price (usually the cost of the survey +10% as a minimum). Bids are made by those interested in the commodity and the Belter can accept or reject any bid as it is made.
 
-To calculate the amount of a bid, take the yield percentage, as determined by the Resource Yield column of the Size and Yield table on page 7. Next, apply that percentage to the tonnage of the body determined on the same table. This determines the actual tonnage that is saleable. For example, an asteroid of 10,000 tons with a resource yield of 80% would have 8,000 tons of saleable material.
+To calculate the amount of a bid, take the yield percentage, as determined by the Resource Yield  column of the [[#ASTEROID SIZE AND YIELD TABLE|Size and Yield table]]. Next, apply that percentage to the tonnage of the body determined on the same table. This determines the actual tonnage that is saleable. For example, an asteroid of 10,000 tons with a resource yield of 80% would have 8,000 tons of saleable material.
 
-Once a bid has been accepted, a further bid cannot be accepted. If a Belter reneges on a deal, he must pay the contracted bidder a fine equal to 10% of the bid the Belter has accepted. Furthermore, his auction record is marked unfavourably, which may effectively blacklist him as a reliable auction supplier. If a Belter reneges on an agreed bid three times (not necessarily consecutively), his prospecting licence may be revoked.
+Once a bid has been accepted, a further bid cannot be accepted. If a Belter reneges on a deal, he must pay the contracted bidder a fine equal to 10% of the bid the Belter has accepted. Furthermore, his auction record is marked unfavorably, which may effectively blacklist him as a reliable auction supplier. If a Belter reneges on an agreed bid three times (not necessarily consecutively), his prospecting licence may be revoked.
 
-- Brokers can be used, functioning exactly as described on page 163 of the Traveller rules.
+- Brokers can be used, functioning exactly as described on page 163 of the Traveller rules. #TODO
 - Claims to C class and Ice cannot be sold at all. M class asteroids can only be sold if the asteroid is in the 10,000 – 1,000,000 ton size range, and if the local starport is class A or B – in other words, capable of building ships with planetoid hulls.
 - Mining yields are not usually put up for auction but instead sold on the open market as general commodities. The amount any Belter can sell depends on how much he has extracted on each expedition to mine a claim; unrealised yields cannot be sold and neither can the claim be sold or auctioned once extraction has started. Belters therefore need to decide up front if they will mine, sell or auction their claim.
 - Artefact prices are very difficult to quantify owing to their potential diversity. Wrecks can usually be sold as scrap or to an official salvage channel, but alien technology or ancient technology is going to attract the attention of the system’s government.
@@ -443,7 +443,7 @@ Zinc: Used as protective coating on steel, as die casting, as an alloying metal 
 
 Zero gravity is a fact of life out in the asteroid belt, and it poses unique challenges to those working the rocks of the asteroid fields.
 
-The Zero G skill described on page 59 of the Traveller rules gives a very brief overview of the zero g environment, but the nature of zero g is presented in greater detail here.
+The Zero G skill gives a very brief overview of the zero g environment, but the nature of zero g is presented in greater detail here.
 
 ![[BltStrk-395022.jpg|200]]
 
@@ -487,9 +487,9 @@ Speed is constant until a change in vector occurs and is measured in the standar
 
 ### GRIPS, TETHERS AND ENCUMBRANCE
 
-Magnetic grips greatly reduce the risk of tumbling away from a target, especially when working on a starship hull or on the surface of a rock where grips can work. However, Dexterity is compromised for the purposes of moving: reduce the speed of a character to 1 metre for combat round purposes.
+Magnetic grips greatly reduce the risk of tumbling away from a target, especially when working on a starship hull or on the surface of a rock where grips can work. However, Dexterity is compromised for the purposes of moving: reduce the speed of a character to 1 meter for combat round purposes.
 
-Tether lines do not impede movement or speed, but they do impede range. A standard tether is anchored to a spool or winch and can be anything up to 1,000 metres in length.
+Tether lines do not impede movement or speed, but they do impede range. A standard tether is anchored to a spool or winch and can be anything up to 1,000 meters in length.
 
 If a character is not wearing a vac suit or battledress he is considered to be unencumbered and this is an advantage to control; some high TL vacc suits are tailored to minimise encumbrance issues
 (TL10+, and +50% to the standard vac suit cost. The DM for being unencumbered is +1 when wearing such a vacc suit).
@@ -508,11 +508,11 @@ _Velocity of Factor of a Falling Object = GF_
 
 For an object to reach a given velocity similar to that found under Earth gravity, it has to fall further. This is expressed by taking the Earth’s GF of 1 and dividing it by the square root of the environment’s gravity factor : 1/GF. So, for an asteroid with a GF of 0.3, then it would be 1/0.54 = 1.85. For an object on an asteroid with a GF of 0.3, it has to fall almost twice as far as on Earth to reach the same velocity on reaching the ground.
 
-For a character who falls in a low gravity environment, the distance he can fall without getting hurt is therefore dependent on 1/GF. A fall of 1 metre is comfortable and a fall of 3 metres can be survived without injury – if one knows how to roll to absorb the impact. On our GF 0.3 asteroid, a character could fall 5. metres (3 x 1.85) without incurring serious injury.
+For a character who falls in a low gravity environment, the distance he can fall without getting hurt is therefore dependent on 1/GF. A fall of 1 meter is comfortable and a fall of 3 meters can be survived without injury – if one knows how to roll to absorb the impact. On our GF 0.3 asteroid, a character could fall 5. meters (3 x 1.85) without incurring serious injury.
 
-1/GF is also used to calculate the distance an object can be thrown. If a character can hurl an object 10 metres on Earth, he can throw it 18.5 metres on the asteroid.
+1/GF is also used to calculate the distance an object can be thrown. If a character can hurl an object 10 meters on Earth, he can throw it 18.5 meters on the asteroid.
 
-Jumping requires raising one’s centre of gravity to a given height. For an average person the centre of gravity is about 1.2 metres from the ground and, with a standing jump, it can be raised by 0. of a metre. A standing jump on the 0.3 GF asteroid would raise the centre of gravity by 0.5/GF = 0.92 metres, plus the height of the centre of gravity, making a jump of 2.12 metres.
+Jumping requires raising one’s center of gravity to a given height. For an average person the center of gravity is about 1.2 meters from the ground and, with a standing jump, it can be raised by 0. of a meter. A standing jump on the 0.3 GF asteroid would raise the center of gravity by 0.5/GF = 0.92 meters, plus the height of the center of gravity, making a jump of 2.12 meters.
 
 For the length of a jump, the time spent in the air is a factor. In a low gravity environment a body jumps higher and falls more slowly, so the length of a jump is GF x GF = the GF. For an initial push (the velocity provided by the legs, which doesn’t depend on gravity), the time taken to return to the ground is 1/GF. For the 0.3 GF asteroid, this makes 3.33. This means a character on a 0.3 GF planetoid could leap 3.33 times as far as he could under standard gravity.
 
@@ -531,7 +531,7 @@ Several options exist for Belter characters:
 - Those born in the belt that have, for one reason or another, left it to follow other pursuits.
 
 Any Traveller character born in the Belt can be susceptible to the effects of partial or no gravity at all at lower Tech levels (TL7 to 8). When generating Characteristics for native born Belters, a DM of
-–1 is applied to Str and End, and a DM of +2 to Dex. At higher tech levels the use of artificial gravity removes these adjustments to characteristics. Characters who make life in the belt part of their career path before adventuring use the Belter career table (see page 16) to determine what physical effects life amongst the asteroids has imposed.
+–1 is applied to Str and End, and a DM of +2 to Dex. At higher tech levels the use of artificial gravity removes these adjustments to characteristics. Characters who make life in the belt part of their career path before adventuring use [[#THE BELTER CAREER]] table to determine what physical effects life amongst the asteroids has imposed.
 
 Native Belters – Asteroid Homeworld Basic Skills Native Belters are born and raised in the asteroids. These are low- gravity, vacuum-affected environments. Every native Belter gains Zero-G 0 and Vacc Suit 0 as Basic skills. Roll on the Belter Home table to determine the other key characteristics of the asteroid where they spent their formative years:
 
@@ -621,20 +621,33 @@ BELTER CHARACTERS BBELTERELTER C CHARACTERSHARACTERS
 
 |Rank| Miner| Prospector| Researcher |Worker| Skill l Skill 0 Zero-G 1 1 Computers 1 2 Survival 1 Technician Trade 1 3 Supervisor Broker 1 Investigate 1 4 Craftsman Mechanic 1 5 Admin 1 Pilot 1 Science (Space Sciences) 1 6 Ops Director Advocate 1 Master Craftsman Engineering 1
 
-MISHAPS 2d62d6 MishapMishap 2 Corrupt government officials deliberately void claims by your company in favour of a rival corporation. When your employers are eventually taken over you are one of those who lose their jobs. Lose 1 Social Standing. 3 You are accused of claim jumping. You are sacked from your position although are exonerated much later and clear your name, gain Advocate 1. 4 Something goes badly wrong on your watch resulting in the death of a colleague. You are cleared of negligence but your reputation is tarnished. Gain an Enemy as a friend or relative of the deceased continues to blame you for what happened. 5 Framed for causing an accident through negligence and face serious repercussions. Forced to leave this service and into hiding or on the run. Gain Streetwise 1. 6 Injured. Roll twice on the injury table and take the lower result (see page 37 of the Traveller main rulebook). 7 Risk all on staking a rash claim to valuable mineral deposits which turn out to be worthless.
-–2 DM to Benefits roll. 8 Severely injured. Roll on the injury table (see page 37 of the Traveller main rulebook). 9 Betrayed by supposed friends over a discovery of a rich seam of precious metal in a newly found asteroid. –1 DM to Benefits roll and Gain an Enemy. 10 Claim jumpers push your company out of business. Gain a Rival. 11 Free for All. A breakdown in governance of the asteroid belt leads to a ruthless free for all, with belters and corporations in constant conflict with one another. The high costs involved force you out of the service. Gain a Rival. 12 War! Privateers and warships of different factions make working in the asteroid belt too dangerous. Belters are killed before all operations in the asteroid belt are shut down. Gain a Contact with the local Navy or Marines who was your point of contact with the authorities during the conflict.
+### MISHAPS
+
+| 2d6 | Mishap                                                                                                                                                                                                                                                                                                 |
+| :-: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  2  | Corrupt government officials deliberately void claims by your company in favor of a rival corporation. When your employers are eventually taken over you are one of those who lose their jobs. Lose 1 Social Standing.                                                                                 |
+|  3  | You are accused of claim jumping. You are sacked from your position although are exonerated much later and clear your name, gain Advocate 1.                                                                                                                                                           |
+|  4  | Something goes badly wrong on your watch resulting in the death of a colleague. You are cleared of negligence but your reputation is tarnished. Gain an Enemy as a friend or relative of the deceased continues to blame you for what happened.                                                        |
+|  5  | Framed for causing an accident through negligence and face serious repercussions. Forced to leave this service and into hiding or on the run. Gain Streetwise 1.                                                                                                                                       |
+|  6  | Injured. Roll twice on the injury table and take the lower result ( #TODO see page 37 of the Traveller main rulebook).                                                                                                                                                                                 |
+|  7  | Risk all on staking a rash claim to valuable mineral deposits which turn out to be worthless. –2 DM to Benefits roll.                                                                                                                                                                                  |
+|  8  | Severely injured. Roll on the injury table ( #TODO see page 37 of the Traveller main rulebook).                                                                                                                                                                                                        |
+|  9  | Betrayed by supposed friends over a discovery of a rich seam of precious metal in a newly found asteroid. –1 DM to Benefits roll and Gain an Enemy.                                                                                                                                                    |
+|  10 | Claim jumpers push your company out of business. Gain a Rival.                                                                                                                                                                                                                                         |
+|  11 | Free for All. A breakdown in governance of the asteroid belt leads to a ruthless free for all, with belters and corporations in constant conflict with one another. The high costs involved force you out of the service. Gain a Rival.                                                                |
+|  12 | War! Privateers and warships of different factions make working in the asteroid belt too dangerous. Belters are killed before all operations in the asteroid belt are shut down. Gain a Contact with the local Navy or Marines who was your point of contact with the authorities during the conflict. |
 
 #### MUSTERING OUT BENEFITS
 
-| 1d6 | Cash (Cr) | Other Benefits                          |
-| :-: | :-------: | --------------------------------------- |
-|  1  |   1,000   | Scientific or Prospecting equipment     |
-|  2  |   2,000   | +1 Int                                  |
-|  3  |   5,000   | Contact or Prospecting License          |
-|  4  |   10,000  | Ship Share or Prospecting License       |
-|  5  |   25,000  | +1 Edu                                  |
-|  6  |   40,000  | Planetoid Share                         |
-|  7  |   75,000  | Seeker Mining Ship or Belter Singleship |
+| 1d6 | Cash (Cr) | Other Benefits                                    |
+| :-: | :-------: | ------------------------------------------------- |
+|  1  |   1,000   | Scientific or Prospecting equipment               |
+|  2  |   2,000   | +1 Int                                            |
+|  3  |   5,000   | Contact or [[#Prospecting License]]               |
+|  4  |   10,000  | Ship Share or [[#Prospecting License]]            |
+|  5  |   25,000  | +1 Edu                                            |
+|  6  |   40,000  | Planetoid Share                                   |
+|  7  |   75,000  | Seeker Mining Ship or [[#Belt Seeker Singleship]] |
 
 #### EVENTS TABLE
 
@@ -652,10 +665,10 @@ MISHAPS 2d62d6 MishapMishap 2 Corrupt government officials deliberately void cla
 |   24  | Discover a major strike in an asteroid previously considered worthless. Gain automatic promotion and Prospecting 1                                                                                                                                                                       |
 |   25  | You learn how to use the system to your benefit. Gain a +2 DM to your next Advancement check.                                                                                                                                                                                            |
 |   26  | You befriend a senior representative of a local corporation. Gain an Ally.                                                                                                                                                                                                               |
-| 31-36 | Life Event. Roll on the Life Events table on page 34 of the Traveller main rulebook.                                                                                                                                                                                                     |
+| 31-36 | Life Event. Roll on the Life Events table on page 34 of the Traveller main rulebook. #TODO                                                                                                                                                                                               |
 |   41  | You are approached by a smuggler who wishes to use your company’s ships to get goods past customs. If you agree gain a + DM to one Benefit roll. If you refuse roll on the Injury table (see page 37 of the Traveller main rulebook) but you gain a +2DM to your next Advancement check. |
 |   42  | New government regulations are enforced on the industry. Gain one of Admin 1 or Advocate 1 as you struggle to avoid falling foul of them.                                                                                                                                                |
-|   43  | You are involved in a mining accident. Roll twice on the Injury table (see page 37 of the Traveller main rulebook), taking the higher result but gain either Survival 1 or Athletics 1.                                                                                                  |
+|   43  | You are involved in a mining accident. Roll twice on the Injury table ( #TODO see page 37 of the Traveller main rulebook), taking the higher result but gain either Survival 1 or Athletics 1.                                                                                           |
 |   44  | You work alongside a long-time belter who teaches you many tricks of the trade. Gain a rank in Prospecting.                                                                                                                                                                              |
 |   45  | One of your friends is hurt in a mysterious accident. If you look into the matter you are able to identify the culprit, who loses his job as a result, gain one level in Investigate. Instead you can concentrate on helping your friend, gain an Ally.                                  |
 |   46  | A major corporation tries to corner the market for belt produced ore, forcing you to go looking for customers outside your normal markets. Gain a rank in either Streetwise or Broker.                                                                                                   |
@@ -666,7 +679,7 @@ MISHAPS 2d62d6 MishapMishap 2 Corrupt government officials deliberately void cla
 |   55  | You gain experience in the field. Increase Comms, Engineer, Prospecting or Sensors by one level.                                                                                                                                                                                         |
 |   56  | You have the opportunity to take advantage of another belter’s precarious position. If you do so gain a +4 DM to your next Advancement check. If you decide against this you gain an Ally.                                                                                               |
 |   61  | Attacked by pirates. Roll Gun Combat (any) or Melee (any) 8+ to avoid Injury, if you succeed gain one level in Tactics or Gun Combat.                                                                                                                                                    |
-|   62  | You become involved with a feud with a rival belter outfit. Roll Stealth or Gun Combat (any) 8+. If you fail roll on the Injury table (see page 37 of the Traveller main rulebook). If you succeed gain one extra Benefit roll.                                                          |
+|   62  | You become involved with a feud with a rival belter outfit. Roll Stealth or Gun Combat (any) 8+. If you fail roll on the Injury table ( #TODO see page 37 of the Traveller main rulebook). If you succeed gain one extra Benefit roll.                                                   |
 |   63  | You learn of a little used loophole in the government regulations regarding belt prospecting and use it to your advantage. Gain a level in Advocate or Admin. 64 You find an area of the belt rich in profitable asteroids. Gain a rank in Prospecting or a +1 DM to one Benefits roll.  |
 |   65  | You are embroiled in legal troubles. Gain one of Advocate 1, Admin 1, Diplomat 1 or Investigate 1.                                                                                                                                                                                       |
 |   66  | You uncover a major conspiracy against your employers. You are automatically promoted.                                                                                                                                                                                                   |
@@ -675,7 +688,7 @@ BELTER CHARACTERS BELTER CHARACTERS
 
 ## MUSTERING OUT BENEFITS
 
-Seeker Mining ship or Belter Singleship: You receive five ship shares towards a Seeker Mining Ship (see page 114 of the Traveller main rulebook) or Belter Singleship (see page 25). Alternatively you receive two ship shares towards any other vessel.
+Seeker Mining ship or Belter Singleship: You receive five ship shares towards a Seeker Mining Ship ( #TODO see page 114 of the Traveller main rulebook) or [[#Belt Seeker Singleship]]. Alternatively you receive two ship shares towards any other vessel.
 
 Prospecting License: You receive a license to investigate and mine asteroids in a system. See page 19.
 
@@ -685,13 +698,13 @@ Asteroid Share: You gain a small share in the profits of a planetoid you helped 
 
 Life out in the boondocks is tough, unglamorous, often lonely and dangerous. Belters learn to trust each other but, more importantly, to respect both their equipment and the harsh mistress that is deep space and the asteroid belt. Belters are noted for rigorous checking procedures: equipment, vacc-suits, oxygen supplies, spares. It is said Belters check everything four times: once for safety, twice for faults, thrice for comfort and fourthly for luck. Most Belters have seen too many friends and colleagues lost to a terrible accident because that seal was not tight enough, or the drill-bit not calibrated properly. Belters take their time and never take risks with their equipment; there is always plenty of risk beyond the airlock or at the end of a mining shaft, if that is what one seeks the most. Belters who fail to follow these procedures tend to have very short careers.
 
-This dedication to safety is sometimes ridiculed by others, who have learned to either trust to their technology or like to take a gamble. Ridicule gains, at best, a wry smile or at worst, a detailed account of what happened to someone who failed to check their
-
-gear sufficiently. Belters do not like to be hurried; neither do they like to scorned or ribbed for making sure they have everything they need, that everything works and that they can rely on it one hundred percent.
+This dedication to safety is sometimes ridiculed by others, who have learned to either trust to their technology or like to take a gamble. Ridicule gains, at best, a wry smile or at worst, a detailed account of what happened to someone who failed to check their gear sufficiently. Belters do not like to be hurried; neither do they like to scorned or ribbed for making sure they have everything they need, that everything works and that they can rely on it one hundred percent.
 
 Belters, despite their gruff, no-nonsense demeanours, tend to be, above all, patient. Space teaches that. Prospectors spend long periods in solitude in their soloships, scanning the belt for likely yields, verifying results, manoeuvring close enough to gain accurate scans, and then painstakingly surveying the rock that has attracted their interest. Rushing might mean missing a significant clue that will result in that yield of a lifetime. Miners understand that hurrying to finish something could cause important geological faults to be missed resulting in a cave-in or breach to the vacuum. Most Belters, then, are capable of concentrating on a single task, without being easily distracted, for long periods. If speed is of the essence, Belters are honest up-front about the chances of success, but work with diligence to get the job finished. But no true Belter will ever, ever, take short-cuts or work with sub-standard tools just to get a job done quicker.
 
-Prospecting Licenses Belters have no right to simply find an asteroid that has valuable commodities, mine it, or haul it back to gain a rich reward. Belt mining is rigorously controlled either by a system’s government or by large, powerful corporations. Independent prospectors are a constant thorn in the side of authority, and so prospecting is usually licensed.
+### Prospecting Licenses
+
+Belters have no right to simply find an asteroid that has valuable commodities, mine it, or haul it back to gain a rich reward. Belt mining is rigorously controlled either by a system’s government or by large, powerful corporations. Independent prospectors are a constant thorn in the side of authority, and so prospecting is usually licensed.
 
 A license grants the right for a prospector to navigate the free areas of the belt and to stake a claim for any find they make. The license is more than just permission to roam: without it, no prospector can dock at a belt station or habitat, get his ship serviced, or buy essential equipment and supplies. The terms of the license ensure that the major stakeholder in an asteroid belt receives a percentage of the claim (usually 25%), and has the rights to buy the claim out- right once the claim’s value has been established and verified. The price paid for a claim is usually the remaining 75% of the claim’s value, plus a lump-sum payment of CR10,000 to recognize the prospector’s efforts and finder’s title. A licensed prospector can either choose to keep his claim or sell it to the licensing authority or their agents; he cannot sell it on the open market. If he does, he risks losing his license and facing a severe financial fine, which may include confiscation of his ship and/or equipment.
 
@@ -731,7 +744,7 @@ However, Belters are, by nature, suspicious of authority. Most leave corporate s
 
 #### SOLOS
 
-The lone Belter, out in space in his solo-ship, plying the routes of the belt, rugged, taciturn and driven, is the common image of the typical Belter. Solos choose to work for themselves, risking everything in the hope of striking a big claim that will set them up for life. Solos invest in a solo-ship (usually a modified Scout – see Ships, on page 25) and then spend countless months out in the belt, watching, scanning and surveying, waiting to find that one rock that is filled with precious commodities worth millions or billions of Credits.
+The lone Belter, out in space in his solo-ship, plying the routes of the belt, rugged, taciturn and driven, is the common image of the typical Belter. Solos choose to work for themselves, risking everything in the hope of striking a big claim that will set them up for life. Solos invest in a solo-ship (usually a modified Scout – see [[#Belt Seeker Singleship]]) and then spend countless months out in the belt, watching, scanning and surveying, waiting to find that one rock that is filled with precious commodities worth millions or billions of Credits.
 
 Solos take all the risks. They run-up lots of debts. The cost of maintaining their license, their ship, and all the kit necessary to their trade, costs in the region of CR100,000 per year. Of course, they might get lucky and strike a yield that clears a year’s debts in one go, but the reality is that the truly astonishing yields are rare. Most strikes involve yields of low-value commodities worth a few thousand at a time. So, Belters generally do not prospect for the money (although the lure is always there). They do it for the lifestyle - the risk, the promise and the love of the solitary life of the lone prospector.
 
@@ -741,7 +754,7 @@ Free Companies are groups of licensed prospectors who have come together to pool
 
 Corporations often employee free companies on a per-job or retainer basis. This has the advantage of transferring operational risk to the free company, whilst guaranteeing a share of any profits if a big yield is discovered. In return the free company gets to work in areas that might otherwise be off-limits to solos or other, fully independent free companies, and they get to earn revenue without having to rely on discovering a profitable yield.
 
-Considerable rivalry exists between free companies who are chasing a particular corporate project or deal. Corporations often put projects out to tender in order to drive-down the cost. The lucky free company who gets the job is the one who can complete the job at the lowest cost but with the best chance of success: this might mean taking some risks that many Belters are uncomfortable with. In other cases, it means double-dealing, calling-in favours and greasing palms. But corporate projects can pay very well – and not all projects are risky or crooked.
+Considerable rivalry exists between free companies who are chasing a particular corporate project or deal. Corporations often put projects out to tender in order to drive-down the cost. The lucky free company who gets the job is the one who can complete the job at the lowest cost but with the best chance of success: this might mean taking some risks that many Belters are uncomfortable with. In other cases, it means double-dealing, calling-in favors and greasing palms. But corporate projects can pay very well – and not all projects are risky or crooked.
 
 Some free companies, of course, will have nothing to do with the corporations, preferring to remain fully independent. Again, there is considerable rivalry and, sometimes, animosity, between these independents and those who are prepared to work to corporate contract. Independent free companies often consider themselves to be ‘true’ Belters, whereas contracting companies are seen as little better than mercenaries and opportunists.
 
@@ -753,7 +766,7 @@ Mining the asteroid belt is resource-intensive. Even though ship fuel can be eco
 
 First and foremost, Belters need a ship. A Belter might be fortunate enough to either own a ship outright (or through Ship Shares) or be in a position to lease a craft. Whilst any kind of ship can be used for belt prospecting, there are some essential requirements:
 
-- Cabin space: many Belter ships sacrifice comfort for cargo capacity, and Belters are famed for enduring uncomfortable/ minimal accommodation if it means optimising profit
+- Cabin space: many Belter ships sacrifice comfort for cargo capacity, and Belters are famed for enduring uncomfortable/ minimal accommodation if it means optimizing profit
 - Free cargo space tonnage for the yield and for equipment; 10 tons is considered the minimum
 - Appropriate sensor arrays calibrated for the part of the asteroid belt being surveyed
 - Communications equipment capable of rapidly reaching known outposts in case of emergency (supplied, usually, as part of the ship’s comms package, but by no means guaranteed)
@@ -791,9 +804,18 @@ Each servicing package covers the ship and prospecting-specific equipment. The p
 
 Referees may wish to include the below, optional, Servicing Package Results table as part of any prospecting expedition’s preparations. Throw 2D; if the result is 2 or 3, then roll on the Servicing Package Results table and apply the Servicing Package DM.
 
-SERVICING PACKAGE RESULTS
+## SERVICING PACKAGE RESULTS
 
-1D1D Service OutcomeService Outcome 0 Servicing fails to pick-up on a potentially life-threatening fault with either the ship’s life-support or infrastructure 1 Servicing fails to pick up on a general fault with the ship. Not life-threatening per-se but may involve space-borne repairs 2 Servicing fails to pick up on a serious malfunction with drilling or prospecting gear, leading to a +3 DM on the Mining Mishaps table (see page 17) 3 Servicing fails to pick up on a serious malfunction with prospecting sensors 4 Servicing fails to pick up on a minor fault with drilling or prospecting gear, leading to +2 DM on the Mining Mishaps table (see page 17) 5 Servicing fails to pick up on a minor fault with drilling or prospecting gear, leading to +1 DM on the Mining Mishaps table (see page 17) 6 Servicing indicates that 1D6 xCr1,000 is needed to repair auxiliary equipment not covered by the service package 7 No adverse effects.
+|  1D | Service Outcome                                                                                                                            |
+| :-: | ------------------------------------------------------------------------------------------------------------------------------------------ |
+|  0  | Servicing fails to pick-up on a potentially life-threatening fault with either the ship’s life-support or infrastructure                   |
+|  1  | Servicing fails to pick up on a general fault with the ship. Not life-threatening per-se but may involve space-borne repairs               |
+|  2  | Servicing fails to pick up on a serious malfunction with drilling or prospecting gear, leading to a +3 DM on the Mining [[#Mishaps]] table |
+|  3  | Servicing fails to pick up on a serious malfunction with prospecting sensors                                                               |
+|  4  | Servicing fails to pick up on a minor fault with drilling or prospecting gear, leading to +2 DM on the Mining [[#Mishaps]] table           |
+|  5  | Servicing fails to pick up on a minor fault with drilling or prospecting gear, leading to +1 DM on the Mining [[#Mishaps]] table           |
+|  6  | Servicing indicates that 1D6 xCr1,000 is needed to repair auxiliary equipment not covered by the service package                           |
+|  7  | No adverse effects.                                                                                                                        |
 
 ## EQUIPMENT QUALITY
 
@@ -801,21 +823,18 @@ Prospecting missions have high running costs which impact on every Belter’s bo
 
 Equipment quality varies enormously but can be categorised as follows:
 
-Grade A: premium quality equipment costing anything up to 110% to 150% of the standard equipment price. Chance to fail under normal usage is 1 on 2D
+|  Grade  | Description                                                                                      | Cost (of std price) | Chance to Fail on 2D |
+| :-----: | ------------------------------------------------------------------------------------------------ | :-----------------: | :------------------: |
+| Grade A | premium quality equipment                                                                        |     1.1x to 1.5x    |          1-          |
+| Grade B | standard quality equipment                                                                       |          1x         |          2-          |
+| Grade C | used, surplus equipment that has not undergone regular servicing or has suffered very heavy use. |        0.75x        |          3-          |
+| Grade D | suspect, jerry-repaired equipment                                                                |         0.5x        |          5-          |
 
-Grade B: standard quality equipment costing the standard price listed. Chance to fail under normal usage is 2 or less on 2D
-
-Grade C: used, surplus equipment that has not undergone regular servicing or has suffered very heavy use. Price is 75% of standard. Chance to fail under normal usage is 3 or less on 2D
-
-Grade D: suspect, jerry-repaired equipment sold at 50% of standard. Chance to fail under normal usage is 5 or less on 2D.
-
-Whenever a piece of equipment is subjected to above heavy use
-
-- and the Referee should determine the specific circumstances – the user should roll 2D and compare the result with the Chance to fail indications for the equipment’s grade. If the equipment has been serviced, then apply the Servicing Package’s DM to the roll.
+Whenever a piece of equipment is subjected to above heavy use - and the Referee should determine the specific circumstances – the user should roll 2D and compare the result with the Chance to fail indications for the equipment’s grade. If the equipment has been serviced, then apply the [[#SERVICING PACKAGE RESULTS]] DM to the roll.
 
 Unserviced equipment applies a –1 DM to the Quality check, which effectively raises the Chance to Fail by 1.
 
-For example, Jarans Regan, a prospector, is using a Grade C laser drill which has been serviced under a Silver Servicing package deal. The Chance to fail is ordinarily 3 or less on 2D, but with a Silver Service having been recently performed, the Quality check receives a +1 DM, effectively reducing the chance to fail to a 2D result of 2.
+> For example, Jarans Regan, a prospector, is using a Grade C laser drill which has been serviced under a Silver Servicing package deal. The Chance to fail is ordinarily 3 or less on 2D, but with a Silver Service having been recently performed, the Quality check receives a +1 DM, effectively reducing the chance to fail to a 2D result of 2.
 
 ## BELTER EQUIPMENT INVENTORY
 
@@ -882,13 +901,13 @@ Cost: Cr2 for a pack of 5
 
 Strength 30 (+8), Dexterity 12 (+2), Hull 3, Structure 3 Traits: Armor 5, Integral System (comm.: audio visual), Integral System (grav belt), Integral System (holographic camera), Integral System (prospecting sensor array) Cost: Cr50,000
 
-A cross between a Probe Drone and a Cargo Robot (see pages 94-95 of the Traveller core rules), mining drones are equipped with two ore samplers and a laser drill, plus sensor arrays, holographic cameras, comms packages and the equivalent of a backpack propulsion unit. The drone also has four retractable, fully articulated service arms that can be fitted with additional tools and can be slaved to a remote operator onboard a buggy or a ship. The drone can be programmed to undertake a wide range of common prospecting tasks autonomously using a standard program package, or be programmed to undertake a selection of specific, focused tasks, as appropriate to its mission.
+A cross between a Probe Drone and a Cargo Robot ( #TODO see pages 94-95 of the Traveller core rules), mining drones are equipped with two ore samplers and a laser drill, plus sensor arrays, holographic cameras, comms packages and the equivalent of a backpack propulsion unit. The drone also has four retractable, fully articulated service arms that can be fitted with additional tools and can be slaved to a remote operator onboard a buggy or a ship. The drone can be programmed to undertake a wide range of common prospecting tasks autonomously using a standard program package, or be programmed to undertake a selection of specific, focused tasks, as appropriate to its mission.
 
 When used for extracting ore, the mining drone cane extract 1D+3 tons of ore per watch, plus a further +1 tons for each Tech Level above TL11 (so a TL13 drone extracts 1D+6 tons). To be able to extract ore, the mining drone requires an adaptation system that adds Cr20,000 to the cost, and reduces its Dexterity by 2. The extraction equipment increases the bulk of the drone, but enhances its capabilities and efficiency. At TL 13, the extraction unit does not impede its Dexterity.
 
 ### Cargo Drone (TL11)
 
-A modified version of a cargo robot (Traveller rules, page 94), with similar capabilities and at a similar price, but designed to complement the Mining Drone. The cargo drone can carry up to 20 tons of payload in a custom hopper designed to slot directly into a ship’s cargo bay.
+A modified version of a cargo robot ( #TODO Traveller rules, page 94), with similar capabilities and at a similar price, but designed to complement the Mining Drone. The cargo drone can carry up to 20 tons of payload in a custom hopper designed to slot directly into a ship’s cargo bay.
 
 ### Tri-Dee Imager (TL13)
 
@@ -907,7 +926,7 @@ Any kind of vessel can be outfitted for the Belter lifestyle. The most common mo
 
 ### Belt Seeker Singleship
 
-[[#SOLOS|Solo]] Belters tend to favour the Seeker/Singleship, as described on page 115 of the Traveller rules. Removing the Jump drive offers an additional 10 tons of cargo and fuel capacity allowing for an upgrade of the Maneuver drive (although Thrust 2 is generally ample for in-system operations). Solo Belters who have no wish to rely on others even go as far as converting the two staterooms into a further 8 tons of cargo space, and use the bridge as both control centre and living space. If one is travelling alone, and resources are at a premium, personal hygiene becomes less of a concern (and contributes further to the myth of Belters as unkempt, unwashed space-rednecks). [[#FREE COMPANIES|Free Company]] and [[#CORPORATE SURVEY TEAMS|Corporate]] ships usually maintain a basic set of crew facilities although comfort always comes a distant second to cargo capacity. This is a typical, system-confined Seeker Singleship, operated by a Solo Belter. Jump drive and Staterooms have been sacrificed for an increased cargo tonnage of 50 tons, with a Prospecting software package and senor array replacing the usual Seeker military-grade software and sensors. The bridge is rigged to form a living space designed for the pilot/prospector only.
+[[#SOLOS|Solo]] Belters tend to favor the Seeker/Singleship, #TODO as described on page 115 of the Traveller rules. Removing the Jump drive offers an additional 10 tons of cargo and fuel capacity allowing for an upgrade of the Maneuver drive (although Thrust 2 is generally ample for in-system operations). Solo Belters who have no wish to rely on others even go as far as converting the two staterooms into a further 8 tons of cargo space, and use the bridge as both control center and living space. If one is travelling alone, and resources are at a premium, personal hygiene becomes less of a concern (and contributes further to the myth of Belters as unkempt, unwashed space-rednecks). [[#FREE COMPANIES|Free Company]] and [[#CORPORATE SURVEY TEAMS|Corporate]] ships usually maintain a basic set of crew facilities although comfort always comes a distant second to cargo capacity. This is a typical, system-confined Seeker Singleship, operated by a Solo Belter. Jump drive and Staterooms have been sacrificed for an increased cargo tonnage of 50 tons, with a Prospecting software package and senor array replacing the usual Seeker military-grade software and sensors. The bridge is rigged to form a living space designed for the pilot/prospector only.
 
 The turret is left unadorned but could be equipped with additional laser drills if needed – although, typically, a plexiglass dome is fitted to allow for naked-eye observation – something all seasoned Belters prize over simple reliance on the sensor array.
 
@@ -970,7 +989,7 @@ The Schaeffer belt forms the backdrop to the campaign occupying the rest of this
 If you intend to use the Schaeffer belt as part of a campaign set in the Official Traveller Universe of the Third Imperium, then it can be located in any unoccupied/undeveloped hex of the following sub- sectors:
 
 - [[Darrian subsector]]
-- [[Five Sisters]]
+- [[Five Sisters Subsector]]
 - [[District 268]]
 
 As this chapter shows, the Sonara system is a backwater. It is untouched by the Imperium and, with no Jump drive capability, the Sonares humans are limited to their own system. However, they were not the first inhabitants: as the scenarios of the campaign reveal, alien intelligence was present in the system long before humanity arose. If you are using Beltstrike in the Imperium, then this is clearly the Ancients, although a little fudging of the facts as presented in the scenarios may be necessary to ensure a smooth fit with the OTU.
@@ -1015,7 +1034,7 @@ Sonares II (Colony world)
 
 Starport: B (Good) Size: 7 (11,200 km, Gravity 0.9 Earth standard) Atmosphere: 5 (Thin) Hydrographics: 9: 93% (Wet World) Population: 7 (approximately 54 million people) Government: 7 (Balkanised: Sonares II Assembly – S2A; SWA agencies and Maas Industries) Law Level: 3 Tech Level: 9 (Developed gravity generators. No reliable Jump Drive development)
 
-Mostly ocean, Sonares II has one large landmass, roughly the size of western Europe, and a panoply of much smaller islands. The continental landmass is the centre of Sonares II colonization supporting a core population of 54 million and growing. The colony is subject to tripartite rule: the S2 Assembly, representatives from the SWA, and all industrial activity controlled by Maas. Maas’s involvement was a precondition of assisting in the colonization project. Relations between the three governmental stakeholders are not always cordial but have, so far, avoided serious conflict.
+Mostly ocean, Sonares II has one large landmass, roughly the size of western Europe, and a panoply of much smaller islands. The continental landmass is the center of Sonares II colonization supporting a core population of 54 million and growing. The colony is subject to tripartite rule: the S2 Assembly, representatives from the SWA, and all industrial activity controlled by Maas. Maas’s involvement was a precondition of assisting in the colonization project. Relations between the three governmental stakeholders are not always cordial but have, so far, avoided serious conflict.
 
 Sonares II is a rich source of minerals and nutrients and the fertile plains for the central landmass are given over to agriculture to feed both itself and Sonares I. For this reason industrialization is strictly regulated and this ensures Maas maintains an emphasis on its belt interests.
 
@@ -1035,15 +1054,15 @@ As a parallel venture – and to take cunning advantage of the manufacturing pot
 
 ## THE SCHAEFFER BELT
 
-A vast ring of stellar debris, with a radius of 398 million kilometres from Sonara, the Schaeffer belt is divided into roughly six clusters, three of which are controlled by Maas and the remainder declared Free Radicals.
+A vast ring of stellar debris, with a radius of 398 million kilometers from Sonara, the Schaeffer belt is divided into roughly six clusters, three of which are controlled by Maas and the remainder declared Free Radicals.
 
 Under Sonarese law, no corporation may control more than 50% of any asset within the Sonara system – an edict designed to prevent the circumstances that led to Sonares I’s Industrial Wars. Maas, the
 
 controlling interest of the three corporate clusters, heavily disputes the legality of this and has been mired in a protracted litigation with the Sonares World Assembly for decades. As the principle investor in belt exploration and exploitation it believes its share should match its investment – which is total – and as a result, Maas is often at odds with the Independent Belters and Free Companies who prospect the Free Radicals.
 
-The six clusters are separated by hundreds of millions of kilometres of sparse asteroid debris which is largely inconsequential S-type material. The clusters are as follows:
+The six clusters are separated by hundreds of millions of kilometers of sparse asteroid debris which is largely inconsequential S-type material. The clusters are as follows:
 
-Shoranan Cluster The centre of the Maas operation, Shoranan contains the huge Shoranan Habitat which acts as a Maas Industries’ arcology: a port, base of operations, research centre and living space.
+Shoranan Cluster The center of the Maas operation, Shoranan contains the huge Shoranan Habitat which acts as a Maas Industries’ arcology: a port, base of operations, research center and living space.
 
 Mhajeyr Cluster The larger of the controlled clusters but the second to be actively explored, Mhajeyr includes several very large asteroids that Maas has spent decades mining, using a mixture of spacecraft and orbital industrial platforms
 
@@ -1075,17 +1094,17 @@ Heavily mined by the earliest independent Belters and Free Companies, Spindrift 
 
 A teardrop-shaped planetoid and named for Sonares’s god of war, Atiensis was the first of the Free Radical habitats and was built by independents without any backing from the Industrial Combines. It is still rich in water-bearing minerals and organic compounds.
 
-Its settlement is a fissure-city: a domed city built into the vast Axis Fissure that slices neatly down through the centre of Atiensis. The settlement is arranged in tiers carved from the rock and built onto it, with large, fast, elevator platforms running the full length of the fissure walls on both sides, and a network of high-speed tube trains running laterally and around the outside of the fissure.
+Its settlement is a fissure-city: a domed city built into the vast Axis Fissure that slices neatly down through the center of Atiensis. The settlement is arranged in tiers carved from the rock and built onto it, with large, fast, elevator platforms running the full length of the fissure walls on both sides, and a network of high-speed tube trains running laterally and around the outside of the fissure.
 
 Atiensis is home to many wealthy families linked with the SWA and the old ruling clans of Sonares I.
 
 ### Aviada
 
-Aviada is Maas Industries’ attempt to create an artists’ haven and cultural centre. The planetoid itself is an attractive, lop-sided sphere with strangely regular craters and fissures along its surface. The Aviada settlement is within the hollowed-out core, a collection of geodesic domes known as counties that favour a particular artistic pursuit (music, painting, performance, and so forth). Maas sponsors frequent exhibitions, galas, festivals and celebrations. Scala County is the home of a thriving film industry that rivals the major entertainment studios of Sonares I.
+Aviada is Maas Industries’ attempt to create an artists’ haven and cultural center. The planetoid itself is an attractive, lop-sided sphere with strangely regular craters and fissures along its surface. The Aviada settlement is within the hollowed-out core, a collection of geodesic domes known as counties that favor a particular artistic pursuit (music, painting, performance, and so forth). Maas sponsors frequent exhibitions, galas, festivals and celebrations. Scala County is the home of a thriving film industry that rivals the major entertainment studios of Sonares I.
 
 ### Cursed
 
-So called because the members of the first expedition to the asteroid died mysterious deaths all within a few short years of each other. Cursed is now an asteroid providing cheap, block accommodation for miners, Belters, spacers and zero-g specialists and their families. Its facilities are basic and the industries it supports centre on ore and mineral processing. Despite the bad luck associated with the origins of the asteroid, no one has died from the (now near legendary) curse said to plague the rock. The inhabitants of Cursed have come up with hundreds of separate conspiracies, urban myths and fanciful explanations for the demise of the original Belters, but common understanding is that the unfortunate deaths were the result of simple coincidence.
+So called because the members of the first expedition to the asteroid died mysterious deaths all within a few short years of each other. Cursed is now an asteroid providing cheap, block accommodation for miners, Belters, spacers and zero-g specialists and their families. Its facilities are basic and the industries it supports center on ore and mineral processing. Despite the bad luck associated with the origins of the asteroid, no one has died from the (now near legendary) curse said to plague the rock. The inhabitants of Cursed have come up with hundreds of separate conspiracies, urban myths and fanciful explanations for the demise of the original Belters, but common understanding is that the unfortunate deaths were the result of simple coincidence.
 
 ### Grael
 
@@ -1105,7 +1124,7 @@ Shoranan has been popular as a living destination because the accommodation offe
 
 Shoranan is very much a working asteroid. Its two spaceports are constant hives of activity. Shoranan is a major trading post for belt commodities, starship parts, belt equipment servicing and all types of good and service in between. Many Belters use Shoranan as their home base when not out in the field and the habitat is an eclectic mix of corporate worker, freelance companies, and indebted solo prospectors.
 
-Shoranan is not without its problems: despite Maas’s considerable presence crime is rife, debt out of control, illicit drugs easily obtainable, and alcoholism a consequence of the hard living. Maas sponsors several rehab clinics and detox programmes within Shoranan habitat but this only deals with the symptoms and not the root cause of the problems. In this regard Maas is concerned only with its own employees, who are not immune to the underbelly of Shoranan existence, but receive better treatment than the general non-Maas populace who need far more help and support than the corporate casualties. Shoranan is therefore a habitat in crisis, with many of its residents trapped by addiction, debt or both, or committed to the corporate lifestyle, that imposes its own unique pressures.
+Shoranan is not without its problems: despite Maas’s considerable presence crime is rife, debt out of control, illicit drugs easily obtainable, and alcoholism a consequence of the hard living. Maas sponsors several rehab clinics and detox programs within Shoranan habitat but this only deals with the symptoms and not the root cause of the problems. In this regard Maas is concerned only with its own employees, who are not immune to the underbelly of Shoranan existence, but receive better treatment than the general non-Maas populace who need far more help and support than the corporate casualties. Shoranan is therefore a habitat in crisis, with many of its residents trapped by addiction, debt or both, or committed to the corporate lifestyle, that imposes its own unique pressures.
 
 ### Vinen
 
@@ -1115,7 +1134,7 @@ As a consequence free companies and solo enterprises tend to thrive on Vinen. De
 
 Habitation on Vinen is controlled through a points system, which safeguards jobs and allows the Vinen Habitat Authority to recruit essential skills for key areas. Visits to Vinen for trade and pleasure are welcome: long-term stays are more difficult unless accompanied by the necessary visas and work permits.
 
-The centre of Vinen Habitat is the area known as The Lung, a long ribbon of parkland and botanical garden that stretches the length of the habitat, protected by a transparent plexiglass dome. Creatively placed gravity generators within the Lung allow for zero-g sports to be easily mixed with traditional pursuits requiring gravity for enjoyment. The huge array of plants, flowers, fruit trees and root crops represent the best botanicals from both Sonares I and Sonares II, and the Vinen Garden Guild controls and maintains the vast spread of the Lung’s greenery: everything from cool, forested glades, to complex, high-tech hydroponic and anaerobic cultivation facilities.
+The center of Vinen Habitat is the area known as The Lung, a long ribbon of parkland and botanical garden that stretches the length of the habitat, protected by a transparent plexiglass dome. Creatively placed gravity generators within the Lung allow for zero-g sports to be easily mixed with traditional pursuits requiring gravity for enjoyment. The huge array of plants, flowers, fruit trees and root crops represent the best botanicals from both Sonares I and Sonares II, and the Vinen Garden Guild controls and maintains the vast spread of the Lung’s greenery: everything from cool, forested glades, to complex, high-tech hydroponic and anaerobic cultivation facilities.
 
 ## CHARACTERS AND THE SONARA SYSTEM
 
@@ -1189,11 +1208,11 @@ Located at the narrower end of the Shoranan asteroid, the civil spaceport, or Na
 
 Narrows is a Class B spaceport. Its berthing and fuel costs are Cr1,500 for vessels of up to 400 tons, and Cr2,500 for vessels of 400 to 1,000 tons.
 
-Its repair yards are relatively unsophisticated but offer hull maintenance and repairs, general servicing and other, routine tasks. The flight operations, arrival/departure and customs areas run in a narrow band behind the berthing platforms, moving into the Shoranan interior. Narrowstown is the commerce, recreation and accommodation centre, a long, narrow strip of bars, clubs, hotels, flop-houses, brothels, gambling dens, drug-squats and countless seedy dives that have, somehow, managed to escape the attentions of the Authority. Narrowstown has a reputation for seediness and vice with a high petty crime rate that the Maas Security Service struggles to keep in check, despite frequent clean-up operations and occasional clamp-downs on major criminal activity.
+Its repair yards are relatively unsophisticated but offer hull maintenance and repairs, general servicing and other, routine tasks. The flight operations, arrival/departure and customs areas run in a narrow band behind the berthing platforms, moving into the Shoranan interior. Narrowstown is the commerce, recreation and accommodation center, a long, narrow strip of bars, clubs, hotels, flop-houses, brothels, gambling dens, drug-squats and countless seedy dives that have, somehow, managed to escape the attentions of the Authority. Narrowstown has a reputation for seediness and vice with a high petty crime rate that the Maas Security Service struggles to keep in check, despite frequent clean-up operations and occasional clamp-downs on major criminal activity.
 
 > [!info]- GRAV BALL
 >
-> The most popular sport on the Sonares core worlds and in the habitats, Grav Ball is a contact ballgame played in zero-g between two teams of eleven players. Using jet-packs to maneuver, the players must force a 10kg ball into a 1metre-wide goal from inside a scoring zone. Pockets of gravity generators located on the floor of the Grav Ball court introduce random gravity pockets to spice-up the game play.
+> The most popular sport on the Sonares core worlds and in the habitats, Grav Ball is a contact ballgame played in zero-g between two teams of eleven players. Using jet-packs to maneuver, the players must force a 10kg ball into a 1meter-wide goal from inside a scoring zone. Pockets of gravity generators located on the floor of the Grav Ball court introduce random gravity pockets to spice-up the game play.
 >
 > There are few rules. Punching, kicking, gouging and headbutting are illegal, but blocks, full-body tackles, side-slams and grapples are legal maneuvers. Grav Ball is fast, aggressive, exhilarating to watch and dangerous to play. Each game lasts for four quarters of 15 minutes each with the team scoring most goals being declared the winner.
 >
@@ -1229,7 +1248,7 @@ A three storey nightclub and overpriced drinking establishment with a formidable
 
 ##### Free Radical Society
 
-A non-descript office and meeting centre close to the starport entrance, the Free Radical Society is an independent association for Belters, solo, free company and corporate, that provides a relaxed atmosphere for socialising, drinking and relaxation. The FRS is open to any Belter with 4 years experience and a current prospecting license (roll Social 7+ to join; further DM of +1 for every term spent as a Belter above the second full term) and functions almost as a gentleman’s club. In the various meetings rooms and bars of the FRS’s building, members can gather, discuss claims, learn gossip and pick-up private contracts. Membership costs Cr1,000 per year to join, but the various FRS buildings – and there is one on every Schaffer belt habitat – offers reasonable food and drink at reasonable prices and a place for like minded Belters to meet on whatever terms they wish. The Shoranan branch of the FRS is chaired by Anjers Cirtesh, a retired Belter with twenty years experience as a corporate, a solo and a free company member. She is genial, but no-nonsense in her approach, and insists that the FRS on Shoranan is always a civil, courteous place. Anyone abusing the club’s rules can be expelled and even face a termination of membership, depending on the transgression.
+A non-descript office and meeting center close to the starport entrance, the Free Radical Society is an independent association for Belters, solo, free company and corporate, that provides a relaxed atmosphere for socialising, drinking and relaxation. The FRS is open to any Belter with 4 years experience and a current prospecting license (roll Social 7+ to join; further DM of +1 for every term spent as a Belter above the second full term) and functions almost as a gentleman’s club. In the various meetings rooms and bars of the FRS’s building, members can gather, discuss claims, learn gossip and pick-up private contracts. Membership costs Cr1,000 per year to join, but the various FRS buildings – and there is one on every Schaffer belt habitat – offers reasonable food and drink at reasonable prices and a place for like minded Belters to meet on whatever terms they wish. The Shoranan branch of the FRS is chaired by Anjers Cirtesh, a retired Belter with twenty years experience as a corporate, a solo and a free company member. She is genial, but no-nonsense in her approach, and insists that the FRS on Shoranan is always a civil, courteous place. Anyone abusing the club’s rules can be expelled and even face a termination of membership, depending on the transgression.
 
 ##### CLADE GARDEN PARK
 
@@ -1249,7 +1268,7 @@ The second is the Premium zone: a mixture of mid-priced and luxury homes for the
 
 ##### AUTHORITY ZONE
 
-The Authority is the Shoranan Habitat Authority – a semi- elected body responsible for the administration of the habitat. Heavily subsidised by Maas, it has a high Maas-executive presence, along with elected officials from the Narrows and the two habitation zones.
+The Authority is the Shoranan Habitat Authority – a semi- elected body responsible for the administration of the habitat. Heavily subsidized by Maas, it has a high Maas-executive presence, along with elected officials from the Narrows and the two habitation zones.
 
 All public amenities and services (garbage processing and recycling, transit system control, and so forth) are based in the spacious
 
@@ -1286,7 +1305,7 @@ At the industrial end of the asteroid is the massive Maas Industries spaceport. 
 
 Every spaceship using the Maas starport for direct Maas dealings has a Maas Liaison Representative assigned to it. The Liaison handles all the administration for the transaction, including arranging accommodation for the ship’s crew, refuelling, routine maintenance and, of course, transfer and payment for cargo. The Liaison officers are expert administrators, bureaucrats, project managers, facilities co-ordinators and, to a lesser extent, advocates. Their priority is to serve Maas interests by ensuring a smooth transaction, no matter how large or small, and to maximise profit, but they also serve as the human face of the corporation. Liaison Representatives take time to get to know those they deal with and regular accounts deal with the same Liaison, often for years, building a healthy (and often productive from both sides) relationship.
 
-Although not as large as the Keneres shipyards, or as well appointed, the Shoranan Maas starport is nevertheless a well equipped, high throughput dock and trading centre. Operations are slick, automated as far as possible, and geared towards a rapid turnaround of cargo and vessels. Delays are resolved as swiftly as circumstances allow, and a good Liaison will have anticipated any likely delays or hiccups and already set the gears of resolution in train before a ship’s crew has even had time to disembark. Belters in particular admire and respect this efficiency, irrespective of their feelings towards Maas as a corporate body. Red tape is kept to a minimum (relatively speaking: some deals are still mired in regulations, forms, permissions and licenses), but overall, Maas has a reputation for business-like efficiency that keeps the work of the Schaeffer belt fluid.
+Although not as large as the Keneres shipyards, or as well appointed, the Shoranan Maas starport is nevertheless a well equipped, high throughput dock and trading center. Operations are slick, automated as far as possible, and geared towards a rapid turnaround of cargo and vessels. Delays are resolved as swiftly as circumstances allow, and a good Liaison will have anticipated any likely delays or hiccups and already set the gears of resolution in train before a ship’s crew has even had time to disembark. Belters in particular admire and respect this efficiency, irrespective of their feelings towards Maas as a corporate body. Red tape is kept to a minimum (relatively speaking: some deals are still mired in regulations, forms, permissions and licenses), but overall, Maas has a reputation for business-like efficiency that keeps the work of the Schaeffer belt fluid.
 
 ![[BltStrk-411975.jpg]] [[BltStrk-411975.jpg|Vinen Habitat]]
 
@@ -1294,7 +1313,7 @@ Although not as large as the Keneres shipyards, or as well appointed, the Shoran
 
 Vinen planetoid was mined and hollowed-out by some of the first independent and free company Belters to operate within the Schaeffer belt. The habitat, developed by a combination of Belter and SWA resources, is independent of both SWA and corporate influence but cleaves, politically, towards the former more than the latter.
 
-The planetoid is a roughly squashed oval, almost melon-like in appearance. Its surface is peppered with solar panels and communications equipment, and its interior habitable space is a long, narrow tube, akin to that of Shoranan, but wider and not as lengthy. The habitation space is 500km in length, 286km wide and 200km deep. In the centre is The Lung, the vast greenhouse and parkland that provides Vinen with food and recreation. Habitation and industry is mixed around The Lung, moving outwards and up the walls towards the domed ceiling where eight, squat, sun tubes provide daylight operating to a similar 12 hour nocturnal/diurnal cycle to Shoranan’s.
+The planetoid is a roughly squashed oval, almost melon-like in appearance. Its surface is peppered with solar panels and communications equipment, and its interior habitable space is a long, narrow tube, akin to that of Shoranan, but wider and not as lengthy. The habitation space is 500km in length, 286km wide and 200km deep. In the center is The Lung, the vast greenhouse and parkland that provides Vinen with food and recreation. Habitation and industry is mixed around The Lung, moving outwards and up the walls towards the domed ceiling where eight, squat, sun tubes provide daylight operating to a similar 12 hour nocturnal/diurnal cycle to Shoranan’s.
 
 The interior is navigated through the web-like transit system. Transit tunnels circumnavigate the living space and The Lung, with eight shorter branches linking The Lung to the outer perimeter. Like Shoranan, the system carries both domestic and freight traffic in a high-speed MAGLEV pod system that is fast and efficient in its operation. The lateral transit tubes divide Vinen into eight distinct districts, each of which mixes domestic living areas with places of work. Two spaceports are set opposite each other and heavy industry focuses around these huge docks rather than being arranged in units as is the Shoranan practice.
 
@@ -1314,7 +1333,7 @@ Named for the god of the sea, Severs has several large, deep, artificial lakes, 
 
 #### Vawlk
 
-Named for the god of volcanoes, Vawlk is dominated by heavy industry, primarily smelting, ore processing and metal manufacture. It is also the centre for two or three small ship building and repair companies, specialising in Belter singleships, drones, cargo robots and specialist outfitting. The large capacity transit tubes serving the Vawlk district take large items, such as ship hulls or engine units round to leased outfitting bays at the starport straddling Charic and Osens where assembly occurs.
+Named for the god of volcanoes, Vawlk is dominated by heavy industry, primarily smelting, ore processing and metal manufacture. It is also the center for two or three small ship building and repair companies, specialising in Belter singleships, drones, cargo robots and specialist outfitting. The large capacity transit tubes serving the Vawlk district take large items, such as ship hulls or engine units round to leased outfitting bays at the starport straddling Charic and Osens where assembly occurs.
 
 #### Charic
 
@@ -1330,7 +1349,7 @@ Named for the goddess of love and friendship, Loess district is noted for its hi
 
 #### Praelis
 
-Named for the goddess of healing, the Praelis district is, again, mixed, but with a heavy focus on independent scientific and medical research. The huge, ziggurat-like Praelis-Vinen hospital is the main medical centre for the whole of the habitat. It has a formidable reputation that has attracted scientists, doctors and consultants from around the system. Many medics who work on Sonares I or II spend an internship at Praelis-Vinen as part of their training, studying zero-g conditions, stellar radiation, and a variety of other conditions those living in simulated gravity and low-g environments are susceptible to developing.
+Named for the goddess of healing, the Praelis district is, again, mixed, but with a heavy focus on independent scientific and medical research. The huge, ziggurat-like Praelis-Vinen hospital is the main medical center for the whole of the habitat. It has a formidable reputation that has attracted scientists, doctors and consultants from around the system. Many medics who work on Sonares I or II spend an internship at Praelis-Vinen as part of their training, studying zero-g conditions, stellar radiation, and a variety of other conditions those living in simulated gravity and low-g environments are susceptible to developing.
 
 Praelis is also home to a number of secret, independent, scientific institutes that are investigating a host of technologies, many with secret backing from the SWA. Research into FTL technology, psionics, and phased weapon technology find a good home in Praelis district, away from the prying eyes of the corporations. Nevertheless, the research conducted in Praelis is of considerable interest to Maas and others, and industrial espionage is a constant threat, especially concerning FTL technology. Whichever side masters its first – SWA or corporate – will be in a position of supreme political, technological, and political power.
 
@@ -1345,7 +1364,7 @@ Several free companies of prospectors and in-system cargo operators are based on
 Free companies are the ideal starting point for Beltstrike characters. They provide a stable framework for employment in prospecting and other areas of belt work, offer access to ships, and engage in the exploitation of the Schaeffer belt outside the corporate strictures. LFC is the employer in the scenarios that follow, but other free companies, all based on Vinen, are as follows:
 
 Free Company
-NameFree Company Name Vinen DistrictVinen District NotesNotes Hezeera Kahlos A small company with three ships and ten employees. Specialises in prospecting within the Spindrift and Vinen radicals. Very jealous of LFC’s success. Vinen Radical Free Company Osens Five wealthy entrepreneurs set-up this free company as an outlet for the their cash and interest in adventure amongst the belt. Moderately successful in terms of finds and trading, but focused on finding exotics and high-price mineral yields. Owns a 400-ton trader: Brilliant Gem Schard Transport Loess Owning two 400-ton traders, Schard deals in transport within the Free Radicals of the belt, with a little prospecting work thrown-in for good measure. A high- turnover of staff recently means it is looking for good pilots and ship crews. Marantz Company Kahlos Dedicated to prospecting and engaging in high-risk ventures, especially in unexplored parts of the belt. Owns a single, 800-ton modified cruiser (see page 127 of the Traveller rules), outfitted for long-term prospecting and mining.
+NameFree Company Name Vinen DistrictVinen District NotesNotes Hezeera Kahlos A small company with three ships and ten employees. Specialises in prospecting within the Spindrift and Vinen radicals. Very jealous of LFC’s success. Vinen Radical Free Company Osens Five wealthy entrepreneurs set-up this free company as an outlet for the their cash and interest in adventure amongst the belt. Moderately successful in terms of finds and trading, but focused on finding exotics and high-price mineral yields. Owns a 400-ton trader: Brilliant Gem Schard Transport Loess Owning two 400-ton traders, Schard deals in transport within the Free Radicals of the belt, with a little prospecting work thrown-in for good measure. A high- turnover of staff recently means it is looking for good pilots and ship crews. Marantz Company Kahlos Dedicated to prospecting and engaging in high-risk ventures, especially in unexplored parts of the belt. Owns a single, 800-ton modified cruiser ( #TODO see page 127 of the Traveller rules), outfitted for long-term prospecting and mining.
 
 ### VINEN STARPORTS
 
@@ -1359,7 +1378,7 @@ The Free Radical Society’s base of operations is Vinen habitat, in the Kahlos 
 
 ### THE LUNG
 
-The enormous market garden and parkland known as The Lung dominates the floor of the habitat. Its transparent dome visible for many kilometres. Within its 15,000 square kilometre, climate controlled interior, The Lung supports lush, pleasant parkland, artificial lakes and rivers, and, at its starboard end, vast market gardens dedicated to growing cereal crops and vegetables using a variety of different techniques to compensate for the deficiencies in the soil and the unique conditions of a low-gravity environment. Production is intensive and strictly controlled by the Vinen Market Garden Board, but enough is produced to support the habitat’s residents, with a small amount available for export across the belt and to the core worlds.
+The enormous market garden and parkland known as The Lung dominates the floor of the habitat. Its transparent dome visible for many kilometers. Within its 15,000 square kilometer, climate controlled interior, The Lung supports lush, pleasant parkland, artificial lakes and rivers, and, at its starboard end, vast market gardens dedicated to growing cereal crops and vegetables using a variety of different techniques to compensate for the deficiencies in the soil and the unique conditions of a low-gravity environment. Production is intensive and strictly controlled by the Vinen Market Garden Board, but enough is produced to support the habitat’s residents, with a small amount available for export across the belt and to the core worlds.
 
 This is the first scenario in the Beltstrike Campaign. It introduces the Lothrain Free Company which can be used as a handy entry point for either new Belter characters, created using the earlier chapters, or for existing characters needing a way into the campaign. As an alternative, the non-player characters that figure as part of the Lothrain Free Company can be used as player characters: full statistics and biographies are given for each major Lothrain player.
 
@@ -1385,7 +1404,7 @@ LFC-101 (‘Rockhound’) – 100 ton Seeker equipped for a crew of two. LFC-102
 
 LFC-201 (‘The Free Radical’) – 200 ton Free Trader type A (no Jump drive. Cargo capacity increased to 98 tons) LFC-202 (‘Mistress of Enterprise’) – same configuration as LFC-201
 
-LFC-401 (‘Master of Enterprise’) – 400 ton Subsidised Merchant, Type R (no Jump drive. Cargo capacity increased to 220 tons) When not out in the belt, LFC maintains docking, repair and servicing facilities with the Vinen Habitat Port Authority and has dedicated berths for each of its craft.
+LFC-401 (‘Master of Enterprise’) – 400 ton Subsidized Merchant, Type R (no Jump drive. Cargo capacity increased to 220 tons) When not out in the belt, LFC maintains docking, repair and servicing facilities with the Vinen Habitat Port Authority and has dedicated berths for each of its craft.
 
 Operations If LFC had focused solely on mining the belt it would have gone bankrupt within a few years. Instead LFC both prospects and hauls general cargo from Sonares I and II into and across the various Schaeffer Belt clusters. Prospecting is still the LFC’s core business, but the cargo business is substantial and Haro and Jenna have been very canny in the contracts they have picked, enabling them to maintain profitability in a business where debt is the norm.
 
@@ -1460,7 +1479,9 @@ Farno CapirosFarno Capiros Career PathCareer Path StrengthStrength DexterityDext
 
 Galen BherendtGalen Bherendt Career PathCareer Path StrengthStrength DexterityDexterity EnduranceEndurance IntelligenceIntelligence EducationEducation Social StandingSocial Standing Age 36 Belter 2 6 8 5 7 7 4 Pilot (Spacecraft)-1, Remote Operations-1, Vacc Suit-0, Zero-G-0, Gun Combat-0, Sensors-1, Gambler-1 Toolkit, playing cards, Snub Pistol (3d6–3)
 
-Druhk XerenDruhk Xeren Career PathCareer Path StrengthStrength DexterityDexterity EnduranceEndurance IntelligenceIntelligence EducationEducation Social StandingSocial Standing Age 42 Navy (Engineer) 3 6 9 7 10 11 8 Mechanic-1, Vacc Suit-2, Engineer (Electronics)-2, Engineer (M Drive)-1, Comms-1, Computers-1 Toolkit, Hand Computer, Geiger Counter
+### Druhk Xeren
+
+Druhk Xeren Career PathCareer Path StrengthStrength DexterityDexterity EnduranceEndurance IntelligenceIntelligence EducationEducation Social StandingSocial Standing Age 42 Navy (Engineer) 3 6 9 7 10 11 8 Mechanic-1, Vacc Suit-2, Engineer (Electronics)-2, Engineer (M Drive)-1, Comms-1, Computers-1 Toolkit, Hand Computer, Geiger Counter
 
 Marsa AlovenMarsa Aloven Career PathCareer Path StrengthStrength DexterityDexterity EnduranceEndurance IntelligenceIntelligence EducationEducation Social StandingSocial Standing Age 37 Scholar (Scientist) 5 7 7 12 13 9 Admin-0, Computers-2, Engineer (electronics)-1, Medic-2, Science (Minerals and Ores)-2, Science (Astronomy)-1 Hand Computer, Medical Kit
 
@@ -1478,7 +1499,7 @@ Druhk Xeren LFC’s senior technician and engineer, Maas-trained but with no lik
 
 Marisa Aloven Marisa is one of LFC’s scientists and medics. She was trained in the Sonarese World Assembly’s Science and Research directorate, moving to the Belt five years ago to take up her current position with LFC. She is straight-talking and passionate about her work, but a compassionate individual when someone, or something, secures and holds her interest.
 
-Additional LFC Characters The player characters fulfil the roles of additional LFC employees, but the remaining team consists of prospectors, technicians, a pilot or two, and security personnel. The Sample Non-Player Characters found in the Traveller rules, pages 84 and 85, can be used for ad-hoc NPC statistics, with the following character types being particularly useful to fulfil LFC personnel requirements:
+Additional LFC Characters The player characters fulfil the roles of additional LFC employees, but the remaining team consists of prospectors, technicians, a pilot or two, and security personnel. The Sample Non-Player Characters found in the Traveller rules, #TODO  pages 84 and 85, can be used for ad-hoc NPC statistics, with the following character types being particularly useful to fulfil LFC personnel requirements:
 
 Security Officer 1 Technician Crewman Belter Trader
 
@@ -1519,7 +1540,7 @@ Once completed, final pre-flight checks are carried out and Master of Enterprise
 ## MASTER OF ENTERPRISE
 
 ![[BltStrk-411989.jpg|50]][[BltStrk-411989.jpg|Deck Plans]]
-The largest ship in the LFC fleet, _Master of Enterprise_ is a modified 400 ton Subsidised Merchant. The Low Berths have been converted into an additional stateroom, boosting its ‘in comfort’ passenger capacity to 14 staterooms. Its two forward turrets are mounted with pulse lasers calibrated for drilling, and the hold carries two survey drones and a cargo drone.
+The largest ship in the LFC fleet, _Master of Enterprise_ is a modified 400 ton Subsidized Merchant. The Low Berths have been converted into an additional stateroom, boosting its ‘in comfort’ passenger capacity to 14 staterooms. Its two forward turrets are mounted with pulse lasers calibrated for drilling, and the hold carries two survey drones and a cargo drone.
 
 Master of Enterprise offers travel in relative comfort for a Belter ship. As it is primarily a cargo hauler, any luxuries found in a typical stateroom have been stripped back to the basics, but the entire party of characters will be travelling to The Factory in greater comfort, and with more space, than they might be used to in, say, a Seeker or singleship.
 
@@ -1531,7 +1552,7 @@ The safest course to reach the Mhajeyr Cluster is to circuit Vinen Radical and h
 
 The journey itself can be as eventful as Referees wish to make it. The edges of the asteroid belt clusters are not noted for dense populations and there is no Maas Belter activity this far out; so the outward journey should be uneventful.
 
-Approach to the Factory Mining Platform AM90125 is anchored to a 1200-metres radius M- class rock designated MM6AE-90125. It takes 4 watches to survey the planetoid, if the characters are interested in doing so, and scans reveal that only scant, worthless traces of nickel iron remain within the rocky shell. As Haro said in the briefing, the mining platform has reached the end of its shelf-life.
+Approach to the Factory Mining Platform AM90125 is anchored to a 1200-meters radius M- class rock designated MM6AE-90125. It takes 4 watches to survey the planetoid, if the characters are interested in doing so, and scans reveal that only scant, worthless traces of nickel iron remain within the rocky shell. As Haro said in the briefing, the mining platform has reached the end of its shelf-life.
 
 The platform itself is a two-tiered rig attached to the surface of MM6AE-90125 by a standard gravitic locking web: essentially a series of grav plates and self-driving locking bolts that penetrate the surface of the planetoid and keep the platform in-situ.
 
@@ -1556,16 +1577,16 @@ If the survey roll of the Factory failed then the characters note only minor ext
 >
 > Pirates ^pirates
 >
-> | Pirate |      Role      | Stats, Skills and Weapons                                                                                                                                                                                                        |
-> | :----: | :------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | Pirate |      Role      | Stats, Skills and Weapons                                                                                                                                                                                                       |
+> | :----: | :------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 > |    1   | Captain/Leader | Str 9, Dex 7, End 10, Int 8, Edu 8, Soc 5 Athletics-1, Gun Combat (slug pistol)-2, Melee (unarmed)-1, Leadership-2, Recon-1, Comms-1, Vacc Suit-1 Autopistol (3d6–3), Cloth armor (5)                                           |
 > |    2   |      Pilot     | Str 5, Dex 7, End 6, Int 11, Edu 9, Soc 6 Pilot (spacecraft)-1, Pilot (small ships)-1, Computers-1, Comms- 1, Sensors-1, Gun Combat (slug pistol)-1, Vacc Suit-1 Snub Pistol (3d6–3), Cloth armor (5)                           |
-> |    3   |   Technician   | Str 8, Dex 6, End 7, Int 9, Edu 10, Soc 5 Mechanics-1, Engineering-2, Science (electronics)-1, Science (physics)-2, Gun Combat (slug pistol)-0, Melee (unarmed)-1, Vacc Suit-0 Body Pistol (3d6–3), Flak Jacket (4)              |
-> |    4   |      Thug      | Str 8, Dex 7, End 9, Int 5, Edu 6, Soc 7 Athletics (co-ordination)-1, Gun Combat (slug pistol)- 1, Recon-1, Melee (blade)-2, Streetwise-1, Vacc Suit-1 Autopistol (3d6–3), Dagger (1d6+2), Flak Jacket (4)                       |
+> |    3   |   Technician   | Str 8, Dex 6, End 7, Int 9, Edu 10, Soc 5 Mechanics-1, Engineering-2, Science (electronics)-1, Science (physics)-2, Gun Combat (slug pistol)-0, Melee (unarmed)-1, Vacc Suit-0 Body Pistol (3d6–3), Flak Jacket (4)             |
+> |    4   |      Thug      | Str 8, Dex 7, End 9, Int 5, Edu 6, Soc 7 Athletics (co-ordination)-1, Gun Combat (slug pistol)- 1, Recon-1, Melee (blade)-2, Streetwise-1, Vacc Suit-1 Autopistol (3d6–3), Dagger (1d6+2), Flak Jacket (4)                      |
 > |    5   |      Thug      | Str 8, Dex 8, End 11, Int 6, Edu 6, Soc 4 Gun Combat (slug pistol)-2, Melee (blade)-1, Streetwise-2, Leadership-1, Stealth-1, Deception-1, Vacc Suit-0 Snub Pistol (3d6–3), Dagger (1d6+2), Cloth armor (5)                     |
 > |    6   |      Thug      | Str 6, Dex 10, End 9, Int 9, Edu 8, Soc 7 Gun Combat (slug pistol)-1, Gun Combat (Slug Rifle)-1 Melee (blade)-1, Streetwise-1, Stealth-1, Vacc Suit-0 Body Pistol (3d6–3), Assault Rifle (3d6), Dagger (1d6+2), Cloth armor (5) |
-> |    7   |      Thug      | Str 11, Dex 5, End 6, Int 7, Edu 8, Soc 6 Gun Combat (slug pistol)-1, Gun Combat (Slug Rifle)-0, Melee (blade)-3, Streetwise-1, Vacc Suit-1 Body Pistol (3d6–3), Assault Rifle (3d6), Dagger (1d6+2), Flak Jacket (4)            |
-> |    8   |      Thug      | Str 7, Dex 12, End 7, Int 8, Edu 5, Soc 6 Gun Combat (slug pistol)-3, Streetwise-2, Stealth-1, Deception- 2, Vacc Suit-0 Snub Pistol (3d6–3), Flak Jacket (4)                                                                    |
+> |    7   |      Thug      | Str 11, Dex 5, End 6, Int 7, Edu 8, Soc 6 Gun Combat (slug pistol)-1, Gun Combat (Slug Rifle)-0, Melee (blade)-3, Streetwise-1, Vacc Suit-1 Body Pistol (3d6–3), Assault Rifle (3d6), Dagger (1d6+2), Flak Jacket (4)           |
+> |    8   |      Thug      | Str 7, Dex 12, End 7, Int 8, Edu 5, Soc 6 Gun Combat (slug pistol)-3, Streetwise-2, Stealth-1, Deception- 2, Vacc Suit-0 Snub Pistol (3d6–3), Flak Jacket (4)                                                                   |
 >
 > The pirates are ruthless and determined. Their strategy, once the Master of Enterprise has either set-down or docked in some way, is to overwhelm the crew and take the ship. Anyone who gets in their way is expendable and they have no qualms about killing. For them, the characters’ ship is the major prize: their own is marked and damaged; a 400-ton vessel like a Trader will make an excellent replacement and, because it carries registered system permission codes, allows them to pass through all kinds of territories unchallenged.
 >
@@ -1575,7 +1596,7 @@ If the survey roll of the Factory failed then the characters note only minor ext
 >
 > >
 >
-> The pirates’ ship is a 200 ton Free trader Type A conforming to the standard deckplans provided on page 117 of the Traveller rules. Its port turret is mounted with a Beam Laser (2d6) and the starboard turret with a Missile Rack housing six Basic Missiles (1d6). The ship is in a poor state of repair and should be treated as having Hull 3 and Structure 3.
+> The pirates’ ship is a 200 ton Free trader Type A conforming to the standard deckplans provided on #TODO  page 117 of the Traveller rules. Its port turret is mounted with a Beam Laser (2d6) and the starboard turret with a Missile Rack housing six Basic Missiles (1d6). The ship is in a poor state of repair and should be treated as having Hull 3 and Structure 3.
 
 ## THE FACTORY
 
@@ -1644,7 +1665,7 @@ Both the hangars are in reasonable repair and require only cursory attention to 
 
 #### STORAGE/REPAIRS
 
-A large storage warehouse and repair centre, most of the equipment and stores have been removed, but some items of old machinery, worth, perhaps a few hundred credits as scrap, are to be found in the multitude of storage bays (there are over 100) and open lockers. The area contains workbenches, bolted to the floor, and open areas for repairs to be made to large objects such as laser drills and other mining equipment.
+A large storage warehouse and repair center, most of the equipment and stores have been removed, but some items of old machinery, worth, perhaps a few hundred credits as scrap, are to be found in the multitude of storage bays (there are over 100) and open lockers. The area contains workbenches, bolted to the floor, and open areas for repairs to be made to large objects such as laser drills and other mining equipment.
 
 The storage bays form a series of nooks and crannies that would make an excellent ambush point (or hiding area) for anyone with hostile intentions.
 
@@ -1688,12 +1709,12 @@ If the [[#^pirates|pirates]] are being used as part of this scenario, [[#Hangar 
 
 ### MAINTENANCE AND DRONE HANGAR
 
-Similar to the main Hangars, this airlocked area is for mining and cargo drone storage (although all drones have been removed) and maintenance. Holding brackets for the drones line the walls and in the centre of the area is a recessed workbay two metres deep
+Similar to the main Hangars, this airlocked area is for mining and cargo drone storage (although all drones have been removed) and maintenance. Holding brackets for the drones line the walls and in the center of the area is a recessed workbay two meters deep
 (accessible by a ladder). A winch is attached to the ceiling directly overhead which is controlled from a control panel on the port side of the hangar. The winch will not operate until central power is restored.
 
 ### DOCKING CONTROL
 
-This narrow area is the control centre for all docking and remote operations. Control bays line the aft wall with a series of eight, large, external viewing monitors set into the wall above. Docking control works from the Hangar UPS so power can be restored in here, and control over all three hangars on this level maintained. However, without a working connection to the central computer system, the characters can do little but open and close the Hangar airlocks.
+This narrow area is the control center for all docking and remote operations. Control bays line the aft wall with a series of eight, large, external viewing monitors set into the wall above. Docking control works from the Hangar UPS so power can be restored in here, and control over all three hangars on this level maintained. However, without a working connection to the central computer system, the characters can do little but open and close the Hangar airlocks.
 
 ### ELEVATORS
 
@@ -1734,7 +1755,7 @@ Storage lockers, cold units, shelves and other storage facilities for both food 
 
 ### RESEARCH LABORATORIES
 
-Before being left to rot, the platform functioned as a research centre as well as a mining operation. These eight research laboratories were equipped for rock and mineral analysis and, whilst the equipment has been removed, the workbenches and lockers are still present.
+Before being left to rot, the platform functioned as a research center as well as a mining operation. These eight research laboratories were equipped for rock and mineral analysis and, whilst the equipment has been removed, the workbenches and lockers are still present.
 
 Plexiglass windows separate each unit, allowing full vision to be obtained through each row. The plexiglass acts as 8 points of armor if anyone chooses to subject them to damage, such as small arms fire.
 
@@ -1754,11 +1775,11 @@ The two farthest units act as the medical centres for the mining platform. The a
 
 ### MAIN MISSION
 
-Main Mission is the control centre at the heart of the mining platform. From here, all aspects of prospecting, mining and refining are conducted. The control bays that form a horseshoe before the huge, plexiglass windows looking out of the platform are arranged into discrete bays for survey, analysis, drilling, remote operations, cargo loading and processing, refining, life support, and structure- wide support functions and communications.
+Main Mission is the control center at the heart of the mining platform. From here, all aspects of prospecting, mining and refining are conducted. The control bays that form a horseshoe before the huge, plexiglass windows looking out of the platform are arranged into discrete bays for survey, analysis, drilling, remote operations, cargo loading and processing, refining, life support, and structure- wide support functions and communications.
 
 The control bays are still intact, but rendered inoperative without the necessary access codes to bring them back online once main power is restored. From here, every aspect of the platform’s operations can be controlled with huge display screens and head-up displays projected into the plexiglass, showing every conceivable read-out necessary to the mining operation.
 
-The equipment, whilst in a reasonable state of repair, needs attention. The life support systems are outmoded and require hardware and software upgrades. The drilling control centre needs recalibration because the laser drills and rigs have been dismounted. Several key displays and management information systems simply do not work due to a variety of technical issues and the HUD projector has been damaged so that the display wavers, flickers and crackles and eventually fades-out with a hiss and a fizz.
+The equipment, whilst in a reasonable state of repair, needs attention. The life support systems are outmoded and require hardware and software upgrades. The drilling control center needs recalibration because the laser drills and rigs have been dismounted. Several key displays and management information systems simply do not work due to a variety of technical issues and the HUD projector has been damaged so that the display wavers, flickers and crackles and eventually fades-out with a hiss and a fizz.
 
 ### MAIN CREW ENTRY
 
@@ -1937,7 +1958,7 @@ If the characters have discovered the theft of the items before they have signed
 >
 > As the Master of Enterprise heads out of the Shoranan Habitat and into the wider belt space of the Shoranan Cluster, the Hezeera vessel is lying in wait, intent on inflicting damage on the character’s vessel – but not to destroy it or board it.
 >
-> Aurora Jax knows the Shoranan Cluster well, and the space routes used in and out of it. The Hezeera vessel waits, on auxiliary power to mask its drive signature, in the shadow of a 5,000 metre lump of rock known as Hudrus’s Folly. The Master of Enterprise has to pass within 5 kilometres of Hudrus’s Folly en-route to Vinen Radical and, as the ship passes, the Hezeera ship springs its ambush.
+> Aurora Jax knows the Shoranan Cluster well, and the space routes used in and out of it. The Hezeera vessel waits, on auxiliary power to mask its drive signature, in the shadow of a 5,000 meter lump of rock known as Hudrus’s Folly. The Master of Enterprise has to pass within 5 kilometers of Hudrus’s Folly en-route to Vinen Radical and, as the ship passes, the Hezeera ship springs its ambush.
 >
 > It powers-up as the Master of Enterprise draws level with the Folly and then accelerates to reach a parallel trajectory and draw within beam laser range (their ship has a mining pulse laser mounted in the port turret, and a single beam laser in the starborard). Hezeera aims for the cargo area of the Master of Enterprise, but intends simply to inflict a single hit on the craft before turning and accelerating out towards Spindrift Radical.
 >
@@ -1947,7 +1968,7 @@ If the characters have discovered the theft of the items before they have signed
 
 If the characters have either gained Aurora Jax’s hand computer, or trailed the Hezeera ship, they can head towards [[#Spindrift Radical]].
 
-The co-ordinates the Hazeera ship is heading towards is the position of a small, C-class planetoid, 1,100 metres in radius, which is relatively rich in radioactives (Silver-110m, Cobalt-60, Lanthanum-140, Scandium-46, Gold-198, which are all used in heavy industry to measure furnace and smelting performance, and in various radiography processes including sensor array production). The planetoid’s yield has an estimated value of Cr 5 million, but carries significant risk of irradiation for anyone mining it. The radioactives are buried quite deep beneath layers of carbonaceous rock, needing approximately 20 watches (80 hours) of continual drilling to reach the sizeable deposits.
+The co-ordinates the Hazeera ship is heading towards is the position of a small, C-class planetoid, 1,100 meters in radius, which is relatively rich in radioactives (Silver-110m, Cobalt-60, Lanthanum-140, Scandium-46, Gold-198, which are all used in heavy industry to measure furnace and smelting performance, and in various radiography processes including sensor array production). The planetoid’s yield has an estimated value of Cr 5 million, but carries significant risk of irradiation for anyone mining it. The radioactives are buried quite deep beneath layers of carbonaceous rock, needing approximately 20 watches (80 hours) of continual drilling to reach the sizeable deposits.
 
 The planetoid has no claim beacon marking it – Hezeera are, working on an earlier, incomplete survey, returning to stake their claim – so it is, officially, claimable by whoever gets there, and fully surveys it, first.
 
@@ -1961,19 +1982,19 @@ As the potential yield is so valuable, Hezeera is going to protect its find voci
 
 Attempting to shoot down the claim beacon Hezeera launch is a hostile act and provokes Hezeera to return fire against the characters. As the beacon is a small target, it has a –6 DM for rolls to hit it. On the other hand, any claim beacon the characters launch is also fired upon by Hezeera. As should be apparent by now, Hezeera play dirty.
 
-The outcome of this episode depends entirely on how the two sides react. The planetoid’s yield is substantial but dangerous to mine; the sensible course is to sell it on the open market, and it is a commodity that Lothrain would be prepared to pay for (at 60% of its total, mineable, yield value), so this is a tactic the characters could use to diffuse a firefight. Credit notes to act as a down payment on the yield can be exchanged electronically and the details remote- filed, and Hezeera will be willing to consider the immediate trade if it is suggested (but not without some negotiation: they begin wanting 100% of the value, and are prepared to barter to the 60% mark. Every level of Broker skill a character employs in the negotiation adjusts the percentage in LFC’s favour by 10%). Hezeera have no capability of mining the planetoid in-situ and, probably, only a small capability of getting the right equipment to mine it safely even if they return to get the right kit. LFC, on the other hand, has the right equipment back on Vinen and has it in spades once the Factory is brought online. These facts can be used in the subsequent negotiation.
+The outcome of this episode depends entirely on how the two sides react. The planetoid’s yield is substantial but dangerous to mine; the sensible course is to sell it on the open market, and it is a commodity that Lothrain would be prepared to pay for (at 60% of its total, mineable, yield value), so this is a tactic the characters could use to diffuse a firefight. Credit notes to act as a down payment on the yield can be exchanged electronically and the details remote- filed, and Hezeera will be willing to consider the immediate trade if it is suggested (but not without some negotiation: they begin wanting 100% of the value, and are prepared to barter to the 60% mark. Every level of Broker skill a character employs in the negotiation adjusts the percentage in LFC’s favor by 10%). Hezeera have no capability of mining the planetoid in-situ and, probably, only a small capability of getting the right equipment to mine it safely even if they return to get the right kit. LFC, on the other hand, has the right equipment back on Vinen and has it in spades once the Factory is brought online. These facts can be used in the subsequent negotiation.
 
 If a firefight erupts and cannot be diffused, the consequence are possibly severe.
 
 - Destroying the Hezeera ship commands severe penalties under Sonares system law. It is an act of piracy carrying a capital penalty
 - If the characters acted in self-defence they are still liable for trial and possible imprisonment
 - The Hezeera crew represents half of the Hezeera Company. Hezeera will pursue full legal action against LFC and the characters in retaliation. The characters cannot rely on Haro Lothrain’s support, if they can be proved to have initiated the violence.
-- If the characters can show that the Hezeera crew stole the supplies for the Factory, then any litigation goes in their favour, but its potency is reduced if violence ensued.
+- If the characters can show that the Hezeera crew stole the supplies for the Factory, then any litigation goes in their favor, but its potency is reduced if violence ensued.
 - Boarding the Hezeera vessel to retake the stolen supplies is a viable action as long as the characters can prove the theft  –otherwise it is piracy.
 
 If the characters are seeking the return of the stolen supplies, then [[#Vesna Clant]] offers them for sale, claiming that it was clearly a legitimate misunderstanding, but under Belter law the supplies are theirs’ legally. He suggests a price of Cr500,000 (about 125% of the market value) as a fair rate for their return but can be bartered down to Cr250,000.
 
-Of course, the characters can attempt to board the Hezeera’s Free Trader and take the supplies by force. In this case use the rules for Boarding Actions found on page 149 of the Traveller rules, and the Free Trader deckplans on page 117. The Hezeera crew put-up a defence of their ship, but if two or three of their number are seriously wounded or killed, they surrender their cargo to the characters. The Hezeera ship carries only its own supplies, plus a mining drone, two laser drills, and a few claim beacons, in addition to the stolen Factory equipment.
+Of course, the characters can attempt to board the Hezeera’s Free Trader and take the supplies by force. In this case use the rules for Boarding Actions found on #TODO page 149 of the Traveller rules, and the Free Trader deckplans on page 117. The Hezeera crew put-up a defence of their ship, but if two or three of their number are seriously wounded or killed, they surrender their cargo to the characters. The Hezeera ship carries only its own supplies, plus a mining drone, two laser drills, and a few claim beacons, in addition to the stolen Factory equipment.
 
 ## FACTORY SHADOWS
 
@@ -2022,7 +2043,7 @@ It takes a further meeting and a further Persuasion attempt (9+) to convince Sal
 
 ‘I worked on AM90125 for two years as part of a research team brought onboard without the company’s knowledge or sanction,’ he says. ‘This was a private operation by Commander Rogan and we were well-paid for our work. We were developing robust, reliable stimulants to boost productivity on the mining platform. Our work was illegal on Sonares Prime but we could see great commercial benefit in what we were doing. We were, unfortunately, naive in that.’
 
-He describes how Rogan, a relentless taskmaster, was always seeking a greater payout, bigger bonus and better results from those who worked for him. ‘A violent man. A disturbed man. Possibly insane. He ran AM90125 like a fiefdom, not a mining operation. Anyone stepping out of line was disciplined severely – but he showered his favourites with gifts and rewards. He was a bastard.’
+He describes how Rogan, a relentless taskmaster, was always seeking a greater payout, bigger bonus and better results from those who worked for him. ‘A violent man. A disturbed man. Possibly insane. He ran AM90125 like a fiefdom, not a mining operation. Anyone stepping out of line was disciplined severely – but he showered his favorites with gifts and rewards. He was a bastard.’
 
 Sal tells that the research initially went well and the results were impressive. Men could work at double or triple their capacity.
 
@@ -2144,7 +2165,7 @@ After days of review, Haro summons the core team to a meeting in Main Mission.
 |  14 | Character incurs a major injury (3D) as a result of cramped or awkward working conditions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 |  15 | A major problem such as an equipment malfunction impacts on the assignment causing a delay of 1D+1 days.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |  16 | The spares or equipment being used in the assignment proves to be faulty or unsuitable. A delay of 6+1D days is incurred whilst a solution is found.                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-|  21 | Excellent work and progress in this assignment speeds-up the completion of the next. Reduce the time taken for the next assignment in the program by 1D+1 days.                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|  21 | Excellent work and progress in this assignment speeds-up the completion of the next. Reduce the time taken for the next assignment in the program by 1D+1 days.                                                                                                                                                                                                                                                                                                                                                                                                                            |
 |  22 | The character falls ill, either through exhaustion or from a bug caught due to the cramped living conditions. Roll Endurance 8+. If successful, the bug lasts only a day and the character works through it. If failed, the bug forces the character to lay-up for 1D+1 days, too ill to function. A successful Medic roll from a fellow character halves the illness time.                                                                                                                                                                                                                |
 |  23 | Explosion! Every character on this assignment must roll Dex 8+ or suffer 3D damage. If the roll is successful, only 1D damage is suffered.                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |  24 | The hired hands complain about the working conditions and threaten a go-slow. Character must make either Persuasion or Diplomacy roll of 8+ to get them back to work. If the roll fails, then the assignment is delayed by 1D days. If the roll succeeds and scores 11+, the character learns that one or two agitators are behind the unrest (Referee note: this could be Maas agent sabotage).                                                                                                                                                                                           |
@@ -2161,12 +2182,12 @@ After days of review, Haro summons the core team to a meeting in Main Mission.
 |  43 | As above, but the character’s Vacc Suit suffers a breach. Make a Vacc Suit roll to repair it quickly, or suffer 2D damage due to decompression and the effects of the cold.                                                                                                                                                                                                                                                                                                                                                                                                                |
 |  44 | The character’s innovative approach to a particular problem results in Desna recommending him for a payment bonus of Cr1,500.                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 |  45 | Although they appear to be working normally, the character is aware of two hired hands engaged in suspicious activity. This could be an innocent misunderstanding, or it could be collusion between the Maas agents. How the scenario plays-out is dependent on what the character chooses to do.                                                                                                                                                                                                                                                                                          |
-|  46 | A grudge between the character and one of the hired hands becomes personal and the character is attacked by surprised. The assailant manages to inflict 1D+2 damage before the character can react, but a melee develops thereafter. Use the statistics for Petty Thug on page 84 of the Traveller rules. The melee lasts for 1D rounds before others break it up.                                                                                                                                                                                                                         |
+|  46 | A grudge between the character and one of the hired hands becomes personal and the character is attacked by surprised. The assailant manages to inflict 1D+2 damage before the character can react, but a melee develops thereafter. Use the statistics for Petty Thug on #TODO page 84 of the Traveller rules. The melee lasts for 1D rounds before others break it up.                                                                                                                                                                                                                   |
 |  51 | The character discovers a secret compartment hidden in an internal area he is working on. Roll on the [[#Secret Compartment Contents]] table                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 |  52 | One of the hired hands tries to claim credit for an exceptional piece of work the character has just completed. Desna rewards him with a Cr1,000 bonus. Character gains that hired hand as a Rival.                                                                                                                                                                                                                                                                                                                                                                                        |
-|  53 | Excellent work and progress in this assignment speeds-up the completion of the next. Reduce the time taken for the next assignment in the program by 1D+1 days.                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|  53 | Excellent work and progress in this assignment speeds-up the completion of the next. Reduce the time taken for the next assignment in the program by 1D+1 days.                                                                                                                                                                                                                                                                                                                                                                                                                            |
 |  54 | Work being done causes a hull breach. If the assignment occurs after Life Support has been restored, rapid depressurization occurs. Everyone caught in the area must make Endurance 8+ to avoid suffering 2D damage before pressure is restored.                                                                                                                                                                                                                                                                                                                                           |
-|  55 | One of the Hired Hands accuses the character of stealing his tools. Character is innocent, but must roll either Diplomacy or Persuasion 8+ to convince the colleague otherwise. If the roll fails, a melee develops. Use the statistics for Petty Thug on page 84 of the Traveller rules. The melee lasts for 1D rounds before others break it up.                                                                                                                                                                                                                                         |
+|  55 | One of the Hired Hands accuses the character of stealing his tools. Character is innocent, but must roll either Diplomacy or Persuasion 8+ to convince the colleague otherwise. If the roll fails, a melee develops. Use the statistics for Petty Thug on #TODO page 84 of the Traveller rules. The melee lasts for 1D rounds before others break it up.                                                                                                                                                                                                                                   |
 |  56 | Character discovers that successfully completed work has been tampered with, potentially causing either a delay or, at worst, injury. Make either an Engineering or Mechanics roll of 8+ to correct the error. If the roll fails, the assignment is delayed by 1D3 days whilst it is made safe.                                                                                                                                                                                                                                                                                            |
 |  61 | This assignment is completed 1D days ahead of schedule.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 |  62 | Unforeseen difficulties lengthen the next but one assignment by 1D6+1 days.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
@@ -2193,33 +2214,33 @@ Rogan never got the chance to retrieve what was there; Maas ordered the decommis
 
 This is what Haro Lothrain has also stumbled upon. And what the characters have been charged with investigating.
 
-The characters need to equip for sub-surface EVA. That is, Vacc Suits, tether lines, reserve oxygen, Geiger counters, long-life lamps, recording equipment and a constantly open two-way comm link. Before anyone enters the core of the rock a mining drone is sent in first, but its sensors scramble and break up after 50 metres relaying nothing but static. There is no option but for a team to delve deep.
+The characters need to equip for sub-surface EVA. That is, Vacc Suits, tether lines, reserve oxygen, Geiger counters, long-life lamps, recording equipment and a constantly open two-way comm link. Before anyone enters the core of the rock a mining drone is sent in first, but its sensors scramble and break up after 50 meters relaying nothing but static. There is no option but for a team to delve deep.
 
 ### Into the Breach
 
-The main core shaft is drilled about 200 metres fore of the Factory’s position. This is the larger of the excavation areas the Factory worked on during its tenure; there are other, smaller shafts elsewhere on the rock, but these have no relevance to the character’s investigation.
+The main core shaft is drilled about 200 meters fore of the Factory’s position. This is the larger of the excavation areas the Factory worked on during its tenure; there are other, smaller shafts elsewhere on the rock, but these have no relevance to the character’s investigation.
 
-The shaft is laser-drilled so with smooth, sheer, vertical sides 5 metres in diameter. As the environment is zero g, Control rolls are needed to maneuver into the shaft and then, using personal propulsion units (see page 23 of the Equipment chapter), drop themselves down into the blackness.
+The shaft is laser-drilled so with smooth, sheer, vertical sides 5 meters in diameter. As the environment is zero g, Control rolls are needed to maneuver into the shaft and then, using [[#Hand Propulsion Unit (TL7)]] personal propulsion units, drop themselves down into the blackness.
 
-The shaft is pitch-black. After a drop of 40 metres the characters find that the shaft opens into a vast, mined cavern running as far as the eye can see in all directions. This is where the main yield was located and where mining drones conducted the bulk of the excavation. The cavern is 20 metres high, floor to ceiling, and hewn with the tell-tale marks of laser drills.
+The shaft is pitch-black. After a drop of 40 meters the characters find that the shaft opens into a vast, mined cavern running as far as the eye can see in all directions. This is where the main yield was located and where mining drones conducted the bulk of the excavation. The cavern is 20 meters high, floor to ceiling, and hewn with the tell-tale marks of laser drills.
 
 Sensor readings are fine at this point. Ambient radiation is at tolerable levels although Geiger counters need to be monitored regularly.
 
-At the far side of the main cavern a secondary, mining-drone bored tunnel runs laterally for a further 10 metres before ending in a wall of stacked and laser-welded stone. Sensor readings in this tunnel go haywire, but before they do, register an object or yield of immense density beyond the wall of stone. Anyone making a Computers, Comms or Sensors roll can deduce that the massive object is both reflecting and scrambling the sensor fields rather than directly disrupting them. It is a passive activity rather than being a generated form of energy disruption.
+At the far side of the main cavern a secondary, mining-drone bored tunnel runs laterally for a further 10 meters before ending in a wall of stacked and laser-welded stone. Sensor readings in this tunnel go haywire, but before they do, register an object or yield of immense density beyond the wall of stone. Anyone making a Computers, Comms or Sensors roll can deduce that the massive object is both reflecting and scrambling the sensor fields rather than directly disrupting them. It is a passive activity rather than being a generated form of energy disruption.
 
 A Prospecting or Intelligence roll of 8+ determines that the wall was built by human hand, not drones.
 
 To get to the object, this stone wall needs to be shifted. Remote operation drones cannot work in the tunnel with any reliability, meaning that the characters have to handle the excavation manually. While they do so, they will be out of comms contact with Main Mission, so need to co-operate and focus on safety.
 
-The excavation takes three watches to clear the wall. Use the Mining Incidents table on page 9 of the Asteroids chapter to determine if any mishaps befall the characters as they work away at the wall.
+The excavation takes three watches to clear the wall. Use the [[#MINING INCIDENTS TABLE]] to determine if any mishaps befall the characters as they work away at the wall.
 
 ![[BltStrk-412019.jpg]]
 
 ### Beyond the Wall
 
-When the wall comes down, or a hole s large enough to permit viewing is created, the characters see that the passageway continues for 3 metres before it widens into a spherical, smooth-walled room, lined with a greenish-grey material that is clearly not native to the asteroid.
+When the wall comes down, or a hole s large enough to permit viewing is created, the characters see that the passageway continues for 3 meters before it widens into a spherical, smooth-walled room, lined with a greenish-grey material that is clearly not native to the asteroid.
 
-In the centre of the room is a sphere, 5 metres in diameter, with a perfectly smooth and reflective surface. It does not react to light, save to reflect it, and so any attempt to use lasers against it are reflected away, possibly directly towards the firer. Physical objects simply bounce off it.
+In the center of the room is a sphere, 5 meters in diameter, with a perfectly smooth and reflective surface. It does not react to light, save to reflect it, and so any attempt to use lasers against it are reflected away, possibly directly towards the firer. Physical objects simply bounce off it.
 
 This artefact is of a kind no one has ever seen before. It was clearly placed here deliberately but there is nothing to indicate who – or what – placed it. The surface of the sphere is clearly an energy field of some form, but what is generating it from within cannot be defined. If anyone attempts to estimate the age of the sphere’s cavern, it will take time and sophisticated dating techniques that only a decently outfitted laboratory can provide – however the cavern could be tens, or hundreds, of millions of years old.
 
@@ -2281,7 +2302,7 @@ Feyr Rogan, previously in the employ of the Maas Mining Directorate, has spent t
 
 By the time of this scenario, Rogan has established himself as Johnas Chryr, the entrepreneur behind Silverlight Free Company, a free company mining the remote reaches of Spindrift Free Radical. His free company mixes the competent and the disreputable; money is the primary motivator and Rogan has surrounded himself with a crew as desperate and ruthless as himself.
 
-His ship, the Silverlight, is a 1,000 ton Heavy Freighter (see page 125 of the Traveller rules) fitted with the standard armaments of sandcaster and two beam lasers in each of its two, triple turrets. His crew numbers twelve, including himself, and he has waited patiently to see what is to become of the Factory.
+His ship, the Silverlight, is a 1,000 ton Heavy Freighter ( #TODO see page 125 of the Traveller rules) fitted with the standard armaments of sandcaster and two beam lasers in each of its two, triple turrets. His crew numbers twelve, including himself, and he has waited patiently to see what is to become of the Factory.
 
 He knows the Factory’s layout intimately, of course, and now that the Factory has passed into the hands of a free company, he is prepared to stake his claim to the sphere – violently if necessary. He could have done this at any point in the last few years but his paranoia led him to believe Maas was still watching his every move. With the Factory now owned by LFC he fears the loss of the globe and has now chosen to return.
 
@@ -2316,7 +2337,7 @@ Heavies Career PathCareer Path StrengthStrength DexterityDexterity EnduranceEndu
 
 Rogan’s ship, the Silverside, arrives one week before the completion of Factory’s restoration. Eelsa Dessen makes contact on an open comms channel identifying the ship as a Free Company mining vessel seeking permission to use the Factory as a base for repairs. She beams across the Silverside Free Company prospecting license details, which check-out.
 
-As the Silverside is too big to use the Factory’s hangar facilities, it assumes a geo-stationary position 500 metres from the Factory’s secondary hangar and sends over its shuttle for docking purposes. Eelsa pilots it, with Rogan, Vross and four heavies as the passengers.
+As the Silverside is too big to use the Factory’s hangar facilities, it assumes a geo-stationary position 500 meters from the Factory’s secondary hangar and sends over its shuttle for docking purposes. Eelsa pilots it, with Rogan, Vross and four heavies as the passengers.
 
 Haro, Desna and the characters meet the crew of the Silverside in the hangar bay. Anyone succeeding at 9+ in Admin has heard vaguely of Silverside Free Company but little of its background; just another bunch of prospectors working the Schaeffer belt.
 
@@ -2324,7 +2345,7 @@ Rogan is affable and offers warm greetings to the ‘famed Haro Lothrain’. He 
 
 Rogan uses his Deception skill to play-up his spiel and any character can use their own Deception in an opposed check to penetrate the charade, but any cursory scans on the Silverside do pick up a power plant fluctuation, which adds +1 to Rogan’s Deception skill.
 
-Haro invites Rogan and his team to share refreshments. In their private discussion he agrees to loan Silverside tools and an engineer (use Druhk Xeren, see page 53) to get the power plant fixed, and charges standard berthing costs as part of the deal. In return, Rogan offers the aid of some of his heavies for any fetching or carrying the LFC might need. Haro also offers the Silverside crew stateroom use ‘for a change’, but is, in reality, eager to show-off the Factory in the hope of encouraging future business. Rogan remains courteous and affable throughout this meeting.
+Haro invites Rogan and his team to share refreshments. In their private discussion he agrees to loan Silverside tools and an engineer (use [[#Druhk Xeren]]) to get the power plant fixed, and charges standard berthing costs as part of the deal. In return, Rogan offers the aid of some of his heavies for any fetching or carrying the LFC might need. Haro also offers the Silverside crew stateroom use ‘for a change’, but is, in reality, eager to show-off the Factory in the hope of encouraging future business. Rogan remains courteous and affable throughout this meeting.
 
 ### Rogan’s Strategy
 
@@ -2360,7 +2381,7 @@ Haro is also told to get the Factory off the rock as soon as possible, and warne
 
 However, if Rogan has captured the sphere and escaped with it, Maas may request – or demand – LFC’s help in finding it. Had Haro notified Maas immediately, they reason, then the sphere would now be safe, instead of in the hands of a madman.
 
-In the case of a hunt for the sphere – which is outside the scope of this book – the characters can be directly involved in the chase, searching for Rogan as he moves through the Schaeffer belt attempting to outrun Maas. Eventually the Sonarese World Authority will learn of the sphere’s existence and enter the fray, effectively placing the characters in the centre of a conflict between the system government and the megacorporation as the sphere, and its secrets, are sought.
+In the case of a hunt for the sphere – which is outside the scope of this book – the characters can be directly involved in the chase, searching for Rogan as he moves through the Schaeffer belt attempting to outrun Maas. Eventually the Sonarese World Authority will learn of the sphere’s existence and enter the fray, effectively placing the characters in the center of a conflict between the system government and the megacorporation as the sphere, and its secrets, are sought.
 ![[BltStrk-412029.jpg]]
 
 ### Hide and Seek
@@ -2379,9 +2400,7 @@ Chlaer Radical is as large an arc of the belt as Mhajeyr Cluster but protected f
 
 ## BAU
 
-Six weeks after the Factory is brought back online, Desna Greer summons the characters to a meeting in the Factory’s common area. Their next task is to delve deep into Chlaer Radical and find a planetoid of at least 1,000 metres in radius that will form the staging post for the Factory’s first forays as a working unit. Full surveys and claims should be made along the way, but LFC wants a large enough rock, with a good yield, exotics if possible, to put the Factory’s capabilities to a full test. They are to take LFC-201 (‘The Free Radical’) and spend up to two months searching for a new home. Minor claims along the way are fine; this is effectively a BAU
-
-- Business As Usual – run.
+Six weeks after the Factory is brought back online, Desna Greer summons the characters to a meeting in the Factory’s common area. Their next task is to delve deep into Chlaer Radical and find a planetoid of at least 1,000 meters in radius that will form the staging post for the Factory’s first forays as a working unit. Full surveys and claims should be made along the way, but LFC wants a large enough rock, with a good yield, exotics if possible, to put the Factory’s capabilities to a full test. They are to take LFC-201 (‘The Free Radical’) and spend up to two months searching for a new home. Minor claims along the way are fine; this is effectively a BAU- Business As Usual – run.
 
 The following asteroids are all potential claims or targets for the Factory base. Referees should use these asteroids, identified by their Chlaer Radical designation code (CRXXXXX), as asteroids the characters come across in their travels.
 
@@ -2405,7 +2424,7 @@ Location: Outer Trojans C Class (Organic compounds) Small Planetoid: 1km radius 
 
 CR476067 First Impressions: A dull globe of rock, with two large ice-filled craters (ammonia).
 
-Location: M Zone M Class (Nickel Iron) Small Planetoid: 700 metre radius Yield Type: Nickel Iron core surrounded by valueless rock Yield Amount: 34,000 tons Survey Time: 4 watches
+Location: M Zone M Class (Nickel Iron) Small Planetoid: 700 meter radius Yield Type: Nickel Iron core surrounded by valueless rock Yield Amount: 34,000 tons Survey Time: 4 watches
 
 CR242159 First impressions: A wedge-shaped, glistening asteroid with surface- level mineral deposits.
 
@@ -2413,7 +2432,7 @@ Location: N Zone M Class (exotic minerals) 10,000 tons Yield Type: Zircon Yield 
 
 CR401109 First Impressions: An irregular ovoid of carbonaceous material with a lively concentration of radioactives at its core.
 
-Location: C Zone C Class (Radioactives) Small Planetoid: 1,400 metre radius Yield Type: Strontium, Plutonium Yield Amount: 4,100 tons
+Location: C Zone C Class (Radioactives) Small Planetoid: 1,400 meter radius Yield Type: Strontium, Plutonium Yield Amount: 4,100 tons
 
 Any of the small planetoids is useful as the staging post for the Factory and it is up to the characters which of these (if any) they choose to recommend to Desna Greer (CR401109 is the best choice). All of the asteroids have something to offer yield-wise, and to maintain presence in Chlaer the characters have permission to commence small-scale, ship-based mining operations, or to wait until the Factory is released from its current holding and can be moved out to the designated asteroid.
 
@@ -2448,11 +2467,11 @@ The leisure drug is known as Steam. A potent hallucinogenic it releases all inhi
 
 Main Mission picks-up a distress beacon. It is estimated that the mayday source is 500,000km from the Factory, on the edge of the C Zone – about 6 hours at Thrust 2. The characters are sent to investigate, taking LFC101 as the rescue craft.
 
-As the characters approach the distress location they find a yacht (of the type found on page 126 of the Traveller rules) without any forward momentum but revolving on its own axis at a rate of one revolution per minute. A survey shows that the yacht has an impact on its port side; not a missile or a laser burn, but caused by a collision with a large object. The impact was enough to damage the power plant and M drive, and in trying to correct the course the pilot has killed the thrust and somehow sent the ship into its dizzying spin.
+As the characters approach the distress location they find a yacht (of the type found on #TODO page 126 of the Traveller rules) without any forward momentum but revolving on its own axis at a rate of one revolution per minute. A survey shows that the yacht has an impact on its port side; not a missile or a laser burn, but caused by a collision with a large object. The impact was enough to damage the power plant and M drive, and in trying to correct the course the pilot has killed the thrust and somehow sent the ship into its dizzying spin.
 
 The yacht is carrying eight passengers: the wayward children and their friends of a Sonarese industrial tycoon who had chartered the yacht for a tour of the outer clusters and Geddes, the innermost of the Sonara system gas giants.
 
-The damage was caused by a collision with a 50 ton asteroid. The asteroid was inert, but the yacht’s pilot is one of the tycoon’s daughters and she is inexperienced. The yacht’s navigation programmes are sub-standard for this region of the belt and, although collisions are rare, this part of the solar system is filled with all kinds of unpredictable natural debris.
+The damage was caused by a collision with a 50 ton asteroid. The asteroid was inert, but the yacht’s pilot is one of the tycoon’s daughters and she is inexperienced. The yacht’s navigation programs are sub-standard for this region of the belt and, although collisions are rare, this part of the solar system is filled with all kinds of unpredictable natural debris.
 
 The characters have a number of objectives.
 
@@ -2520,17 +2539,17 @@ Location: Spindrift C Zone C Class (Nickel iron; trace radioactives) Small Plane
 
 The asteroid is a blocky sphere of dark, ore-bearing stone. Sohl’s claim beacon emits its information as soon as The Free Radical enters sensor range. The rock has a very slow spin on its horizontal (0.15 GF) axis, so landing on its surface is an easy enough task for a competent pilot.
 
-Three craters pock-mark the asteroid’s surface: these are not deep - only a few metres – but they are cone shaped and a successful Prospecting or Science (Geology) roll suggests that these are not natural craters, but crafted to look natural. Sohl’s drilling point into the asteroid is in the second of the craters with a natural shaft forming five metres into the rock and large enough to allow two people abreast to gain entry to the interior.
+Three craters pock-mark the asteroid’s surface: these are not deep - only a few meters – but they are cone shaped and a successful Prospecting or Science (Geology) roll suggests that these are not natural craters, but crafted to look natural. Sohl’s drilling point into the asteroid is in the second of the craters with a natural shaft forming five meters into the rock and large enough to allow two people abreast to gain entry to the interior.
 
 ### THE HABITAT
 
-As Sohl’s video showed, the inside contains remnants of a civilization. As the characters descend through the shaft, their suit lights pick-up the outlines of buildings carved into the interior walls of the hollowed-out asteroid. The hollow is roughly elliptical and about 700 metres deep, 500 metres wide and 650 metres end-to- end. The buildings become more visible as the characters descend: huge, conical, ornate structures decorated with intricate, swirling carvings across almost their entire surfaces. Windows and arched doorways appear at regular intervals indicating internal levels and, at the base of each cone (and there are 50) is a semi-circle of columns. The conical buildings are 13 metres in width at the base, tapering to five metres at the apex. They are spaced regularly and it takes no genius to deduct that whoever carved this incredible vista had both advanced tools and time. With lasers the carved city, including all its intricacies, would take a century to create.
+As Sohl’s video showed, the inside contains remnants of a civilization. As the characters descend through the shaft, their suit lights pick-up the outlines of buildings carved into the interior walls of the hollowed-out asteroid. The hollow is roughly elliptical and about 700 meters deep, 500 meters wide and 650 meters end-to- end. The buildings become more visible as the characters descend: huge, conical, ornate structures decorated with intricate, swirling carvings across almost their entire surfaces. Windows and arched doorways appear at regular intervals indicating internal levels and, at the base of each cone (and there are 50) is a semi-circle of columns. The conical buildings are 13 meters in width at the base, tapering to five meters at the apex. They are spaced regularly and it takes no genius to deduct that whoever carved this incredible vista had both advanced tools and time. With lasers the carved city, including all its intricacies, would take a century to create.
 
-The columns at the base of the cones are more like totem poles than statues. Sohl never got close enough to examine them. Each is eight metres high and a half metre across. The columns are carved straight from the rock of the asteroid which has been smoothed and then etched in the same way as each of the cones. The designs run in double helixical bands mimicking the structure of DNA. Between each pair of bands are thousands of small, swirling inscriptions and it is possible to make-out repeating characters and patterns of characters, indicating that this is most certainly script rather than decoration.
+The columns at the base of the cones are more like totem poles than statues. Sohl never got close enough to examine them. Each is eight meters high and a half meter across. The columns are carved straight from the rock of the asteroid which has been smoothed and then etched in the same way as each of the cones. The designs run in double helixical bands mimicking the structure of DNA. Between each pair of bands are thousands of small, swirling inscriptions and it is possible to make-out repeating characters and patterns of characters, indicating that this is most certainly script rather than decoration.
 
 The whole habitat is awe-inspiring and it is impossible to tell if this is a temple, a set of residences or a mixture of the too. Any signs of habitation have long-since disappeared; there are no representations of what these people looked like – although astute observers (Investigation 9+) notice that the numbers 10, 50 and 150 seem to be represented in various structures and repeated throughout the complex.
 
-The floor of the asteroid has been rendered flat and smooth and inscribed with a complex pattern of long, unbroken, straight lines radiating out from a central hub in the very centre of the floor. There are 150 such lines and, between them, at regular 10 metre intervals are symbols resembling those found on the pillars and the outside of the cones.
+The floor of the asteroid has been rendered flat and smooth and inscribed with a complex pattern of long, unbroken, straight lines radiating out from a central hub in the very center of the floor. There are 150 such lines and, between them, at regular 10 meter intervals are symbols resembling those found on the pillars and the outside of the cones.
 
 Investigating the inside of the cones takes time. Most of them are devoid of features, save for more of the inscriptions found on the outside and more decorations of straight lines, always 150 of them, radiating from a central point either in the floor or ceiling. Each cone is divided into twenty levels connected by steep, narrow, spiral stairs, again carved from the rock of the asteroid. Some of the stairs are worn through use, indicating a period of significant habitation in some of the cones, but not in others. The levels are mostly open and grow narrower as one scales the inside of the cone. Some of the lower levels are divided into separate, regular-sized chambers by partition walls of asteroid rock.
 
@@ -2548,15 +2567,15 @@ If used as a random even table, characters should roll 2D every hour. A result o
 | :-: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |  2  | Find a hidden alcove, compartment or small chamber, concealed in one of the cone rooms or at the base of one of the columns. Roll on the [[#Hidden Area Chart]]                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 |  3  | When touched in a particular place, one of the columns slowly starts to revolve, screeching as it twists on its ancient mechanism. As it rotates it pauses and observant characters notice that striations at the base of the column align perfectly with the lines carved on the floor. The combination of the floor lines and sigils carved into the column form a complex mathematical relationship – but it will take years to decipher its purpose. After one full revolution the column stops and will not move again.                                                                            |
-|  4  | A peculiar grey algae is found growing along the ceiling of one of the cone rooms. It is slimy to the touch. If analysed, it is a simple organism akin to a mould but capable of surviving in anaerobic environments and extremes of temperature. It is a harmless substance that thrives in laboratory conditions, doubling in size at room temperature every hour. If left long enough, it could run riot. It cannot be damaged by either fire or cold, but can be dissolved by an acute alkali solution.                                                                                             |
+|  4  | A peculiar grey algae is found growing along the ceiling of one of the cone rooms. It is slimy to the touch. If analysed, it is a simple organism akin to a mold but capable of surviving in anaerobic environments and extremes of temperature. It is a harmless substance that thrives in laboratory conditions, doubling in size at room temperature every hour. If left long enough, it could run riot. It cannot be damaged by either fire or cold, but can be dissolved by an acute alkali solution.                                                                                              |
 |  5  | The floor in one of the levels does not consist of 150 straight lines, but is a series of concentric circles. Along one of the outer circles are small, wavy marks. Science (Astronomy) or Astrogation deduces that this is a representation of the Sonara system. The rings indicated the orbits and relative positions of the planets. The ring marked with wavy lines represents the Schaeffer belt. Could the wavy lines represent the location of other such habitats? There are six in total.                                                                                                     |
 |  6  | A palm-sized device, flat and crystalline, etched with a series of equally-spaced wavy sigils, is found lodged in a naturally occurring fissure in one of the walls of a cone. This is a stasis field generator that has never been activated. If the sigils are touched in the right sequence (Int 12+), the field operates, enveloping the user. The field is set to switch itself off in one million years’ time. For the person caught inside, no time will seem to pass at all. There is a five second delay before the stasis field forms allowing a character to leap clear on a roll of Dex 8+. |
 |  7  | One the floors or ceilings of a cone building has become inherently unstable and crumbles away if any pressure is exerted upon it. In zero g this poses a mild hazard from loose debris, but nothing else.                                                                                                                                                                                                                                                                                                                                                                                              |
 |  8  | One of the rooms has 150 palm-sized ovals of crystal embedded into the wall. If the right one is pressed (a roll of 11, 22, 33, 44, 55 or 66 on D66), beams of brilliant white light shoot between all the crystal shards, forming a webwork across the room. Pin-pricks of red light form along different parts of the network of light, forming hundreds of different points. This is a representation of the aliens’ home galaxy and the extent of their empire.                                                                                                                                     |
 |  9  | A fist-sized hole in a wall forms an arm-length tunnel terminating in an oval of crystal. If grasped, the crystal glows and its holder receives a burst of mental imagery depicting war, carnage and the death of entire solar systems with sun-bursting weapons. Battles are fought on a mathematical level with weapons of pure geometry that take nanoseconds to achieve their destructive potential. Entire stars die in an instant. The character experiencing this must roll Endurance 10+ or be forever haunted by the mental imagery he has experienced.                                        |
 |  10 | One of the columns, when touched, topples and floats free of its anchoring. Anyone nearby must roll Zero-G 8+ or Dex 9+ to avoid a collision with the toppling column. If struck, the column causes 3d6 damage and ruptures the Vacc Suit.                                                                                                                                                                                                                                                                                                                                                              |
-|  11 | In a room, a sliver of crystal is set into a stone plinth in the centre of the room. When squeezed it produces low, sonorous music that lasts for precisely 150 seconds. If activated again, the tune is always different.                                                                                                                                                                                                                                                                                                                                                                              |
-|  12 | A sliver of crystal is set into a stone plinth in the centre of the room. When squeezed a beam of light forms a holographic image before it. The creature it depicts is tall, lithe, six limbed, and with no discernible head – just a stump of a neck from which project eight, arm-length fronds of dark material. The creature’s image revolves, showing incredibly powerful musculature, clawed feet, and long, three-fingered hands. This is not one of the aliens that built this place, but one of their enemies.                                                                                |
+|  11 | In a room, a sliver of crystal is set into a stone plinth in the center of the room. When squeezed it produces low, sonorous music that lasts for precisely 150 seconds. If activated again, the tune is always different.                                                                                                                                                                                                                                                                                                                                                                              |
+|  12 | A sliver of crystal is set into a stone plinth in the center of the room. When squeezed a beam of light forms a holographic image before it. The creature it depicts is tall, lithe, six limbed, and with no discernible head – just a stump of a neck from which project eight, arm-length fronds of dark material. The creature’s image revolves, showing incredibly powerful musculature, clawed feet, and long, three-fingered hands. This is not one of the aliens that built this place, but one of their enemies.                                                                                |
 
 #### Hidden Area Chart
 
@@ -2619,7 +2638,7 @@ The Free Radicals are split in how they take the Maas message. Vinen reacts angr
 
 For Lothrain Free Company, the position is uncertain, with its previously good relations with Maas are now under threat. Pressure from Vinen habitat on Haro to side with Vinen’s stance is heavy. Chlaer Radical, where the Factory is now working, seeks Lothrain support for its position of mediation and pacification. Delegations from both sides travel out to the Factory to try to sway Haro to their cause.
 
-Haro, Jenna and Desna meet with the two delegations privately. Raised voices are heard in both meetings. The Chlaer delegation arrives with a Maas executive as part of its entourage – someone Haro seems to know, but the Maas executive’s demeanour is anything but friendly. The Vinen delegation includes the current president of the VA, Vahrena Masq, and she is greeted warmly by Haro Lothrain. After the private meeting, Vahrena Masq and her security entourage tour the Factory and meet with the LFC employees, including the characters. She takes the opportunity to discuss their feelings regarding the current situation and listens to their views. She then, eloquently but quietly, states her own case for opposing Maas and its cronies. Treat Vahrena Masq as having Advocate 3 and Persuasion 3. In her conversations with the characters, make an opposed test for Vahrena against each character’s Intelligence (roll 2D and add the Int DM). The one with the highest Effect (see page 50 of the Traveller rules) is the winner:
+Haro, Jenna and Desna meet with the two delegations privately. Raised voices are heard in both meetings. The Chlaer delegation arrives with a Maas executive as part of its entourage – someone Haro seems to know, but the Maas executive’s demeanour is anything but friendly. The Vinen delegation includes the current president of the VA, Vahrena Masq, and she is greeted warmly by Haro Lothrain. After the private meeting, Vahrena Masq and her security entourage tour the Factory and meet with the LFC employees, including the characters. She takes the opportunity to discuss their feelings regarding the current situation and listens to their views. She then, eloquently but quietly, states her own case for opposing Maas and its cronies. Treat Vahrena Masq as having Advocate 3 and Persuasion 3. In her conversations with the characters, make an opposed test for Vahrena against each character’s Intelligence (roll 2D and add the Int DM). The one with the highest Effect (see #TODO page 50 of the Traveller rules) is the winner:
 
 _If Vahrena Masq wins – she successfully convinces the character to take a stand against Maas. The Free Radicals must remain free!_
 
@@ -2633,9 +2652,9 @@ After the meetings with the two delegations, Haro, clearly troubled, summons Jen
 - Side with Chlaer and Maas, taking advantage of the old relationship, but risking complete ostracism from the independents on Vinen
 - Declare no affiliation and attempt to remain neutral.
 
-Haro currently favours the second option, despite Vahrena Masq’s representations. The Factory and LFC is vulnerable. As Haro sees things, war can be avoided, but not if Vinen remains belligerent.
+Haro currently favors the second option, despite Vahrena Masq’s representations. The Factory and LFC is vulnerable. As Haro sees things, war can be avoided, but not if Vinen remains belligerent.
 
-Jenna sides with Haro. Desna favours Vinen. There is a clear rift between the two women, and Desna is resentful of Jenna’s loyalty to Haro when, in her mind, independence is all that matters. However, Haro wants the opinions of the characters. He asks each in turn to state how they feel and how they should act. Any character refusing to take a stand is counted as favouring neutrality.
+Jenna sides with Haro. Desna favors Vinen. There is a clear rift between the two women, and Desna is resentful of Jenna’s loyalty to Haro when, in her mind, independence is all that matters. However, Haro wants the opinions of the characters. He asks each in turn to state how they feel and how they should act. Any character refusing to take a stand is counted as favoring neutrality.
 
 The Referee should allow each character to make either an Intelligence, Advocate, Diplomacy or Persuasion roll (8+). The Effect of their roll reflects the strength of their argument. Add together the Effects for each position and compare. Add 4 to the total Effect for the second option, reflecting Jenna and Haro’s stance; and add 2 to the first option Effect to reflect Desna’s. The option with the highest effect determines how LFC aligns itself in the forthcoming confrontations: either with Vinen, against it, or remaining neutral.
 
@@ -2661,7 +2680,7 @@ If LFC has sided with Vinen, Maas attempts to annex the Factory by force.
 
 ### The Situation
 
-The Factory is still located in the Chlaer Radical. A Maas heavy cruiser (identical configuration to the Mercenary Cruiser on page 127 of the Traveller rules) nears the Factory and slows to an approach speed. No one, not least Haro, is expecting an armed cruiser. When comms channels are opened, the appropriate message for the situation is broadcast:
+The Factory is still located in the Chlaer Radical. A Maas heavy cruiser (identical configuration to the Mercenary Cruiser on #TODO page 127 of the Traveller rules) nears the Factory and slows to an approach speed. No one, not least Haro, is expecting an armed cruiser. When comms channels are opened, the appropriate message for the situation is broadcast:
 
 > ‘This is Captain Aghayt of the Sonares Industrial Alliance vessel ‘Random Pattern’.
 > I am authorized by Maas Industries to commune with Haro Lothrain concerning an urgent threat to the mining installation known as The Factory. Our shuttles are being despatched. Please have docking facilities prepared immediately.’
@@ -2673,7 +2692,7 @@ Or, if LFC has sided against Maas...
 
 ### Random Pattern
 
-The Random Pattern is an 800-ton corporate cruiser. Its crew consists of 9 standard crew officers and 20 mercenary marines employed by Maas. Captain Aghayt is an experienced corporate mercenary who has been in the employ of Maas for a decade. His orders are to secure The Factory either peacefully or by force. If LFC is standing against Maas, then the crew of the Random Pattern intend to take complete control of the Factory, expelling, subduing or eliminating the LFC crew forcefully. If LFC is sided with Maas, then the LFC crew is allowed to remain, but operational control of the facility passes to Captain Aghayt with Haro Lothrain (or the Factory’s duty commander) becoming a mere figurehead. It is intended to use the Factory as a mobile repair station and fuelling centre for Maas ships operating in the Free Radicals. In time, the Factory will be armed to act as a weapons platform and used in direct action against Belter rebels.
+The Random Pattern is an 800-ton corporate cruiser. Its crew consists of 9 standard crew officers and 20 mercenary marines employed by Maas. Captain Aghayt is an experienced corporate mercenary who has been in the employ of Maas for a decade. His orders are to secure The Factory either peacefully or by force. If LFC is standing against Maas, then the crew of the Random Pattern intend to take complete control of the Factory, expelling, subduing or eliminating the LFC crew forcefully. If LFC is sided with Maas, then the LFC crew is allowed to remain, but operational control of the facility passes to Captain Aghayt with Haro Lothrain (or the Factory’s duty commander) becoming a mere figurehead. It is intended to use the Factory as a mobile repair station and fuelling center for Maas ships operating in the Free Radicals. In time, the Factory will be armed to act as a weapons platform and used in direct action against Belter rebels.
 
 ### CAPTAIN NHYR AGHAYT
 
@@ -2733,7 +2752,7 @@ He uses threats and intimidation to coerce the characters and other LFC employee
 
 The SWA has not left the habitat unprotected. When the political situation broke down, the habitat existence was made known to the SWA loyalists. A Sonares naval ship is now stationed in close proximity to SR7747-09346, acting as both a protector for the alien remains and a support vessel to enforce SWA presence in the now, lawless, Spindrift Radical.
 
-The ship is a SWA Naval Corsair – the Atiensis Blade. It conforms to the statistics of the corsair detailed on page 129 of the Traveller rules, but is armed with beam lasers and sandcasters in its turrets. It also has a contingent of five, 10-ton fighters (Traveller rules, page 136) in its cargo bay, which is modified for fighter launch procedures.
+The ship is a SWA Naval Corsair – the Atiensis Blade. It conforms to the statistics of the corsair detailed on #TODO page 129 of the Traveller rules, but is armed with beam lasers and sandcasters in its turrets. It also has a contingent of five, 10-ton fighters (Traveller rules,  #TODO page 136) in its cargo bay, which is modified for fighter launch procedures.
 
 The Atiensis Blade is under orders to fire upon any vessel approaching SR7747-09346, and to engage with fighters if so appropriate. Aghyat relishes the chance to engage the SWA old regime in a space battle and is only too happy to take on the corsair. A battle for the control of SR7747-09346 and the alien habitat becomes an inevitability: the characters may be in a position to either alert the corsair, sabotage the Random Pattern, or take other action that will determine the course of the battle.
 
@@ -2811,7 +2830,7 @@ On Sonares Prime, a political settlement is being drawn-up. The SWA offers Maas 
 > 7. Triple Turret x3 Sandcasters
 > 8. Triple Turret x3 Sandcasters
 >
-> Standard crew, plus 80 corporate mercenary troops (use Mercenary marines statistics on page 89)
+> Standard crew, plus 80 corporate mercenary troops (use [[#MERCENARIES|Mercenary marines]] statistics)
 >
 > Cursed’s defences are the ships held in the starport. These are as follows:
 >
@@ -2820,7 +2839,7 @@ On Sonares Prime, a political settlement is being drawn-up. The SWA offers Maas 
 > - 10 x 200 ton Far Traders, armed with 2 x Drilling Lasers and 2x Beam Lasers
 > - 5 x 400 ton Fat Traders, armed with 2 x Drilling Lasers, 2x Beam Lasers, 1 x Missile Racks (Standard Missiles).
 >
-> The control centre for the starport has access to 10 batteries of Missile Racks, each holding 12 Standard Missiles, and a battery of Beam Lasers and one Particle Beam. These weapons are used primarily for defence against pirate raids and have not been used in defence of Cursed for many decades.
+> The control center for the starport has access to 10 batteries of Missile Racks, each holding 12 Standard Missiles, and a battery of Beam Lasers and one Particle Beam. These weapons are used primarily for defence against pirate raids and have not been used in defence of Cursed for many decades.
 >
 > There are sufficient pilots on Cursed to operate the various available ships, but the blockade presents a formidable wall of weaponry. Maas’s tactic is to deploy mercenary forces in the cruisers’ cutters to take and hold the starport, limiting or stopping altogether, the Belters’ ability to use their own ships. Once garrisoned, an additional six Maas cruisers can be expected to arrive within 72 hours to further reinforce the occupation of Cursed.
 >
@@ -2830,7 +2849,7 @@ On Sonares Prime, a political settlement is being drawn-up. The SWA offers Maas 
 >
 > - 6 x 800 ton Mercenary Cruisers
 > - 4 x 400 ton Corsairs
-> - 4 x 400 ton Close Escort (Gazelle class, page 123 of the Traveller rules)
+> - 4 x 400 ton Close Escort (Gazelle class, page #TODO 123 of the Traveller rules)
 > - 10 x 100 ton Mining Seekers
 > - 10 x 200 ton Free Traders
 > - 4 x 400 ton Type R Merchants
@@ -2842,7 +2861,7 @@ On Sonares Prime, a political settlement is being drawn-up. The SWA offers Maas 
 >
 > - 8 x 400 ton Corsairs
 >
-> - 8 x 400 ton Close Escort (Gazelle class, page 123 of the Traveller rules)
+> - 8 x 400 ton Close Escort (Gazelle class, #TODO  page 123 of the Traveller rules)
 >
 > The Maas fleet also includes nuclear missiles (4 on each ship) which will be used as last resort weapons to force Vinen into surrender.
 

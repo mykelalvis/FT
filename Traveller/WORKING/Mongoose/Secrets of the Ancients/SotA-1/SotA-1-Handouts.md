@@ -3,7 +3,7 @@
 
 ## UNCLE VLEN BACKETT
 
-Some people are only at home when travelling, and Vlen is one of these restless souls. He might visit his homeworld of Alell (in the Regina subsector of the Spinward Marches) for a few weeks or even a month or two, delighting friends and family with tales of distant planets and exotic cultures, but then the wanderlust would take hold once more and he’d be off again. He was a charming old rogue – more staid relatives might disapprove of him and his questionable, unreliable ways, but he was every child’s favourite uncle.
+Some people are only at home when travelling, and Vlen is one of these restless souls. He might visit his homeworld of Alell (in the Regina subsector of the Spinward Marches) for a few weeks or even a month or two, delighting friends and family with tales of distant planets and exotic cultures, but then the wanderlust would take hold once more and he’d be off again. He was a charming old rogue – more staid relatives might disapprove of him and his questionable, unreliable ways, but he was every child’s favorite uncle.
 
 No-one was ever sure what Uncle Vlen did, or if he was just a drifter amid the stars. Sometimes, he worked on tramp traders or signed on as a deckhand on freighters, yet he also dabbled in archaeology and journalism and... well, he never liked to talk about it, but Vlen had quite a collection of firearms and could handle himself in a fight. He also had a lot of strange friends – mostly other space voyagers, but he also received irregular communications from scientists, naval officers, corporate oligarchs, even high nobility. On at least one occasion, Vargr from outside the Imperium travelled hundreds of parsecs to consult with Vlen Backett.
 
@@ -49,7 +49,7 @@ ALAHIR: Rapier, sitrep? RAPIER: Rapier One, sir. Targets have located a structur
 
 Your head blazes with pain, and you lose all feeling in your limbs. You feel like your body is too big, too watery. Your back itches... and then your vision dims and you lose consciousness.
 
-You find yourself looking at a complex equation, and you understand it. It describes a universe, a space pinched off by science – and it is both impossibly advanced and childlike in its simplicity. The universe contains three stars. Trapped in the centre of this universe, thrashing like a fly in a spider’s web, is a familiar but horrific shape. The robot body of the Ancient Seven is trapped in the pocket universe you fled... you made... your head burns.
+You find yourself looking at a complex equation, and you understand it. It describes a universe, a space pinched off by science – and it is both impossibly advanced and childlike in its simplicity. The universe contains three stars. Trapped in the center of this universe, thrashing like a fly in a spider’s web, is a familiar but horrific shape. The robot body of the Ancient Seven is trapped in the pocket universe you fled... you made... your head burns.
 
 The pocket universe is shrinking. Rate of collapse uneven; estimated time to singularity is less than three months. You dream of Seven being annihilated as the walls of reality crush it to nothingness...
 

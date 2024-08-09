@@ -10,25 +10,25 @@ tags:
 date updated: 2024-08-07 10:38
 ---
 
-![[GRA1-IitR-768.jpg]]
+![[GRA1-IitR-768.jpg|200]]
 Islands in the Rift
 
 > [!info]
 > The Travellers will arrive at Amondiage in the Old Islands subsector to recover a starship for their client. The job is easy; bring the ship to Zuflucht for transfer to Imperial space, but with the Islands on the brink of war and outsiders under suspicion, the task may not be a simple one after all.
 
-# INTRODUCTION
+# Introduction
 
 In _Islands in the Rift,_ the Travellers are sent to Amondiage in Old Islands subsector to pick up a starship. Their mission is to take it to Zuflucht for transfer into Imperial space ‘behind the claw’ in Deneb or the Trojan Reach. However, the task is not simple; the ship is not sitting on a berthing pad at Amondiage and is in fact on an entirely different world and not in a flyable condition.
 
 Once the Travellers manage to reach the ship they can finally begin their voyage across the Islands subsectors. This, too, is not a simple matter. The Islands are prone to tension at the best of times and, at present, some worlds in the region are on the brink of war. The Travellers risk being mistaken for spies – not without cause, since their ship is an Imperial intelligence- gathering vessel. The Travellers will need to make a detour to collect a hidden stash of data before transit to Zuflucht, and there are those who want to get their hands on it first.
 
-## RUNNING THE ADVENTURE
+## Running the Adventure
 
 _Islands in the Rift_ begins on Amondiage in Old Islands subsector. The Travellers have just arrived after a long, long transit and may wish to look around or relax before embarking upon their mission. Once they go in search of the ship they are supposed to be picking up, one event will lead to another. However, the Travellers have considerable leeway to find their own path through the adventure. So long as they get the ship to Zuflucht without starting a major war, their patrons will be content.
 
 Before the adventure begins the referee should ensure the Travellers are familiar with the briefing material in the next chapter. This outlines their task and some background information on the Islands subsectors. Of course, there is no guarantee all of this information is current or reliable. Indeed, the purpose of the mission is to retrieve a vessel whose data storage contains a wealth of up-to-date information on the Islands and their politics... yet this vessel and her crew met with disaster despite having access to better information than the Travellers have available. The referee should let the Travellers figure out for themselves that a lot of what they ‘know’ is vague, inaccurate or dangerously misleading.
 
-## REFEREE’S INFORMATION
+## Referee's Information
 
 The following information is for the use of the referee. Much of it will be available to the Travellers but not always in a reliable or easily digestible form. The referee must decide how biased, ill-informed or otherwise misleading any data source may be. As a general guideline, the more work a Traveller has to do to get a piece of information, the more solid it should be.
 
@@ -40,11 +40,11 @@ There was little history of conflict in the Islands subsectors before the introd
 
 Before the introduction of the jump drive, the idea of interstellar conflict was almost laughable. Perhaps someday a sublight warship might crawl into a neighbouring system to make an attack, and a small budget was allocated for defence against this remote possibility. Most spending went on planetside peacekeeping forces or craft capable of policing in- system traffic. A token laser or missile launcher sufficed for such purposes and planetary defences were little more potent.
 
-In most cases, the first indication that the Serendips were building faster-than-light vessels was the arrival of a starship. This caused a great deal of alarm and hurried programmes were put into place to construct orbital forts and in-system warships. In the event, Serendip Belt did not attack any of her peers, though her small force of jump capable vessels were used to forcibly annex Gloire.
+In most cases, the first indication that the Serendips were building faster-than-light vessels was the arrival of a starship. This caused a great deal of alarm and hurried programs were put into place to construct orbital forts and in-system warships. In the event, Serendip Belt did not attack any of her peers, though her small force of jump capable vessels were used to forcibly annex Gloire.
 
 By the time jump drive technology was widely available, the Serendips possessed a modest sized fleet and had expanded their power enormously, by economic means and political pressure rather than military action; the great powers of the Islands ensured they were all but invulnerable to attack by any fleet that could be built at the time but could not compete with Serendip’s new interstellar trade vessels.
 
-When they obtained the jump drive, the other powers of the Islands had a lot of catching up to do. Early starship building programmes were hurried and prone to disaster, with makeshift vessels launched as quickly as they could be thrown together. A second wave of more reliable and capable ships followed, with the result that many first-generation vessels were retired and left to decay or scrapped for spares. Some of these ships, refurbished in a variety of inventive ways, were taken up by private operators. An explosion of small- scale interstellar commerce then ensued, most of it completely unregulated.
+When they obtained the jump drive, the other powers of the Islands had a lot of catching up to do. Early starship building programs were hurried and prone to disaster, with makeshift vessels launched as quickly as they could be thrown together. A second wave of more reliable and capable ships followed, with the result that many first-generation vessels were retired and left to decay or scrapped for spares. Some of these ships, refurbished in a variety of inventive ways, were taken up by private operators. An explosion of small- scale interstellar commerce then ensued, most of it completely unregulated.
 
 There was little large-scale colonisation, as the Islands had already been settled using sublight ships. However, the availability of faster-than-light travel meant that previously unviable locations could be colonised for resources and independent groups could find a new home. The years that followed saw escalating tensions during the ‘scramble’ as the greater powers sought to take control over new territories and prevent others from doing the same. The period is sometimes known as the Years of Little Wars due to the small-scale conflicts between groups determined to carve out a homeland or conquer a world. Some wars dragged the greater powers in, resulting in clashes both in space and on the ground. No general war ensued but many lives were lost and bad blood remains.
 
@@ -77,21 +77,21 @@ As for the authorities at Acadie and Amondiage, they have no reason to suspect t
 
 ![[GRA1-IitR-216.jpg]]
 
-# TRAVELLERS’ BRIEFING
+# Travellers' Briefing
 
 The following information is for the use of the Travellers and should be available to them before and as the adventure takes place, as the referee sees fit.
 
-## THE ISLANDS SUBSECTORS
+## The Islands Subsectors
 
 The Islands subsectors were colonised around the time the Third Imperium was founded by sublight colony ships in transit for many centuries. Most colonists spent the entire trip in cryogenic suspension, with some awake at any given time to deal with contingencies. One result of this long time spent in stasis is that the culture of the Islands is essentially two thousand years closer to that of Old Earth at the beginning of the Interstellar Wars than Imperial-standard culture. The Islanders also missed out on hundreds of years of Vilani and other cultural influences.
 
-There are several powers within the Islands, most of which have a culture that can be traced back to a nation or region on Old Earth. The major powers are either first or second-generation colonies. The first three systems settled by the colony ships got a head start but the worlds they went to next have also developed into powerful states. Later colonisation, conducted with vessels built at first-generation worlds, resulted in smaller settlement programmes that remained colonial possessions.
+There are several powers within the Islands, most of which have a culture that can be traced back to a nation or region on Old Earth. The major powers are either first or second-generation colonies. The first three systems settled by the colony ships got a head start but the worlds they went to next have also developed into powerful states. Later colonisation, conducted with vessels built at first-generation worlds, resulted in smaller settlement programs that remained colonial possessions.
 
 Until recently, the Islanders did not have jump drive technology, colonising the worlds of their cluster using sublight ships. This represents a very different mindset to that of the Imperium – as they say: ‘Imperials think a century is a long time, Islanders think a parsec is a long way’. The situation changed when an Imperial vessel accidentally misjumped into the Islands and some of the locals gained the secret of jump travel. To redress the imbalance of power this caused, well-meaning Imperial scouts disseminated the jump drive to all major cultures in the Islands. This did not have the intended effect of restoring stability; quite the opposite.
 
 Despite common origins and a shared heritage – or perhaps because of it – the powers of the Islands mistrust one another deeply. Alliances are possible and can endure, but peace is always fragile and tensions run high. It would not take much to trigger a highly destructive war between two powers and such a conflict could spread to engulf the whole region.
 
-## THE MISSION
+## The Mission
 
 To many citizens of the Imperium, it matters little if a distant region destroys itself in warfare. However, the Islands Cluster is important because it is one of the main crossing points of the Great Rift. Troubled times in the Islands could result in communications delays at a critical juncture, something the Imperium would prefer to avoid. So, the merchant ship Perfect Stranger was sent into the Islands on an intelligence-gathering mission.
 
@@ -109,11 +109,11 @@ If they do not possess their own means of transport, the Travellers will be sent
 
 Each of the Travellers will be given passcodes for the Perfect Stranger that can be uploaded into any computer, along with Cr10000 assigned for expenses, to be spent as they see fit. Each Traveller also has a credit account of Cr10000 per month, arranged with the government of Amondiage (it may not be welcome in states hostile to that world), expected to be spent on necessities for the mission – this account is monitored and may be withdrawn if purchases that are clearly non- mission related are consistently made.
 
-# THE PERFECT STRANGER
+# The Perfect Stranger
 
 ![[GRA1-IitR-226.jpg|200]]
 [[GRA1-IitR-226.jpg|The Perfect Stranger]]
-_Perfect Stranger_ started out as an ordinary Type R subsidised merchant (see page 184 of the _Traveller Core Rulebook_ or page 138 of _High Guard_ ), capable of jump-1 and four weeks of operation using her internal fuel tankage. Essentially a starfaring removal van, the Type R is ubiquitous within Imperial space and many areas beyond. Its primary feature is the huge two deck high cargo area with fore, aft and side doors. This makes loading and unloading the cargo space quick and easy.
+_Perfect Stranger_ started out as an ordinary Type R subsidized merchant (see page 184 of the _Traveller Core Rulebook_ or page 138 of _High Guard_ ), capable of jump-1 and four weeks of operation using her internal fuel tankage. Essentially a starfaring removal van, the Type R is ubiquitous within Imperial space and many areas beyond. Its primary feature is the huge two deck high cargo area with fore, aft and side doors. This makes loading and unloading the cargo space quick and easy.
 
 Designed to plod along mains and make endless circuits of clusters, the ‘subbie’ is a humble ship and not one that would be associated with interstellar intelligence gathering. This is precisely why _Perfect Stranger_ was chosen.
 
@@ -164,7 +164,7 @@ There is no reason why passengers would access the lower deck during flight. Ind
 
 See
 
-- [[Amondiage]]
+- Amondiage
 
 ## INFORMATION AND RUMOURS AT AMONDIAGE
 
@@ -185,7 +185,7 @@ There is also a lot of propaganda showing Amondiage’s powerful and well discip
 
 ## IN SEARCH OF THE PERFECT STRANGER
 
-Perfect Stranger is not on Amondiage. The port’s data system records no ship of that name currently berthed, nor is she at the highport. A general search for Imperial- registered Type R subsidised merchants may turn up a handful of possible candidates but they are all in service with a crew aboard. There are only about half a dozen Imperial-registered ships of this type in the Islands due to difficulties of getting them across the rift, though there are numerous ships of the same general design but of local manufacture. If Perfect Stranger is one of these ships, she will take some finding.
+Perfect Stranger is not on Amondiage. The port’s data system records no ship of that name currently berthed, nor is she at the highport. A general search for Imperial- registered Type R subsidized merchants may turn up a handful of possible candidates but they are all in service with a crew aboard. There are only about half a dozen Imperial-registered ships of this type in the Islands due to difficulties of getting them across the rift, though there are numerous ships of the same general design but of local manufacture. If Perfect Stranger is one of these ships, she will take some finding.
 
 Records of previous ship movements are not publicly available, other than arrival and departure dates. These records can be searched by anyone and do indeed show Perfect Stranger passing through the port at Amondiage a couple of times. Her last visit was several months before her crew turned up in Imperial space and, given the transit times involved, that probably means whatever happened to Perfect Stranger occurred not long after her last visit to Amondiage.
 
@@ -202,7 +202,7 @@ However they obtain the information, the Travellers will learn that Perfect Stra
 
 See
 
-- [[Acadie]]
+- Acadie
 
 ## FINDING THE PERFECT STRANGER II
 
@@ -214,7 +214,7 @@ The ship has been sitting on a pad for months, supplied with water and power fro
 
 The Travellers’ expense account cannot be used to cover this amount – there is a limit on the monthly drawings and costs cannot be pooled. They will need to find some other way to pay the fee.
 
-The port authority is aware that it is pushing the envelope by asking for so much – Cr25000 would be appropriate for fees and inconvenience. A certain amount of bargaining is thus possible. One approach is to cite interstellar shipping law, though this varies within the Islands and, of course, the Travellers may not be familiar with the details. A Difficult (10+) Advocate check (INT or EDU) can be used to knock Cr3Dx off the asking fee, nit-picking some of the items being charged for and pointing out the illegality of certain charges under the circumstances. The Admin skill can be used the same way, navigating the minefield of subsidies, tariffs and surcharges to arrive at a more sensible figure.
+The port authority is aware that it is pushing the envelope by asking for so much – Cr25000 would be appropriate for fees and inconvenience. A certain amount of bargaining is thus possible. One approach is to cite interstellar shipping law, though this varies within the Islands and, of course, the Travellers may not be familiar with the details. A Difficult (10+) Advocate check (INT or EDU) can be used to knock Cr3Dx1000 off the asking fee, nit-picking some of the items being charged for and pointing out the illegality of certain charges under the circumstances. The Admin skill can be used the same way, navigating the minefield of subsidies, tariffs and surcharges to arrive at a more sensible figure.
 
 Whether or not these two approaches are tried, an Average (8+) Persuade check will halve the final asking price, provided it is accompanied by a good argument to the effect that the port gets its pad back into use once the pesky ship is on its way. Having negotiated, successfully or otherwise, all the Travellers need to do is come up with the money.
 
@@ -228,7 +228,7 @@ The most obvious thing about Perfect Stranger is that her launch is missing; the
 
 The wreck of the launch was bought by a salvage company out of Amondiage and dismantled in situ. No bodies were recovered from the wreck, though two survivors were reportedly rescued and placed in cryogenic stasis to Amondiage. No other records exist but the remainder of the crew are presumed lost in the crash. Trying to find details of the incident at Houillon simply turns up a report of a ‘firearms-related incident’ that day, which is vague to the point of uselessness.
 
-The Travellers’ codes are readily accepted and the vessel opens her doors for them. Inside, many rooms look as if the crew just popped out for a coffee. Personal effects stand on shelves in the crew cabins; clothes hang in closets. Other chambers are less pleasant; the galley is a giant mass of mould where the remains of a meal has festered for months. At first glance, the ship needs nothing more than a cleanup and good set of preflight checks. Closer inspection shows this is not so.
+The Travellers’ codes are readily accepted and the vessel opens her doors for them. Inside, many rooms look as if the crew just popped out for a coffee. Personal effects stand on shelves in the crew cabins; clothes hang in closets. Other chambers are less pleasant; the galley is a giant mass of mold where the remains of a meal has festered for months. At first glance, the ship needs nothing more than a cleanup and good set of preflight checks. Closer inspection shows this is not so.
 
 The ship’s electronics are mostly intact and security seems to be in place – it does not appear that anyone has penetrated the electronic security on her critical systems, though there is evidence that the flight logs have been downloaded if anyone thinks to look for it. More seriously, some control systems simply do not work. Inspection reveals that control pathways have been interrupted at various points. ‘Interrupted’ means either severing of control pathways or removal of components. Perfect Stranger has been deliberately disabled.
 
@@ -291,7 +291,7 @@ To successfully gain information from an [[#Intelligence Operatives|operative]],
 
 Whether the Travellers snatch an operative or not, as soon as they realise they have been ‘made’ the Neubayern intelligence team begins planning direct action. Their objective depends on whether any of their people have been snatched. They have access codes for Perfect Stranger , which the Travellers might not expect, and will try to covertly gain entry to set an ambush in the ship or rescue their comrades. They will settle for grabbing any of the Travellers if the opportunity arises.
 
-The [[#intelligence operatives]] will be armed for this endeavour and whilst they would rather capture Travellers for interrogation, they will shoot to kill if necessary. These are hard-nosed professionals who know the price of failure. They have no remorse or hesitation.
+The [[#intelligence operatives]] will be armed for this endeavor and whilst they would rather capture Travellers for interrogation, they will shoot to kill if necessary. These are hard-nosed professionals who know the price of failure. They have no remorse or hesitation.
 
 The ideal approach is to corner some or all the Travellers somewhere they cannot easily escape and surprise them at gunpoint; inside their own ship would be perfect, but perfection rarely happens in intelligence work. Once secured, the prisoners can be transferred to a safe house and later moved outside the city. A ship will eventually take them to Neubayern, drugged and in cryogenic suspension. At that point, they will disappear and never be heard of again.
 
@@ -301,7 +301,7 @@ How well the operatives’ plan succeeds depends to some extent on the Traveller
 
 ## THE TRAVELLERS’ RESPONSE
 
-The Travellers will need to escape from the intelligence operatives if they are captured. Fortunately, the present security situation works in their favour. There is serious unrest in the city, often at random as some minor incident ignites in violence. The intelligence operatives (or the Travellers) may be mistaken for undercover police agents sent to quietly arrest troublemakers, causing a mob of angry citizens to burst into the middle of a confrontation, prisoner transfer, or interrogation and attempt to rescue whomever they think is the victim.
+The Travellers will need to escape from the intelligence operatives if they are captured. Fortunately, the present security situation works in their favor. There is serious unrest in the city, often at random as some minor incident ignites in violence. The intelligence operatives (or the Travellers) may be mistaken for undercover police agents sent to quietly arrest troublemakers, causing a mob of angry citizens to burst into the middle of a confrontation, prisoner transfer, or interrogation and attempt to rescue whomever they think is the victim.
 
 This could be tragic, hilarious or just plain confusing, as members of both sides are bundled away ‘to safety’ whilst others are subjected to a good ranting-at about civil rights, heavy-handed policing and the evils of government. The situation might well degenerate into a free-for-all, with nobody having any clear idea who is on what side... or if there are _any_ sides.
 
@@ -345,7 +345,7 @@ Each Setback encountered by the Traveller adds +1 to SI and requires a Stress ch
 
 Stress Index is reduced by downtime, such as spending a few days planetside hitting bars and seeing the sights. Each three full days of R&R enjoyed by the Traveller reduces their SI by 1D. Particularly memorable experiences – such as visiting a famous landmark or swimming with friendly aquatic animals – will reduce SI by an additional 1D at the referee’s discretion.
 
-The Travellers may come up with clever ways to reduce SI during a long transit. Each measure judged by the referee to be useful allows a reduction of -1 to everyone’s SI. Examples include the use of medication by the ship’s doctor, a crew party, screening of a favourite movie turned into a special occasion, or some silly contest that distracts everyone from their surroundings.
+The Travellers may come up with clever ways to reduce SI during a long transit. Each measure judged by the referee to be useful allows a reduction of -1 to everyone’s SI. Examples include the use of medication by the ship’s doctor, a crew party, screening of a favorite movie turned into a special occasion, or some silly contest that distracts everyone from their surroundings.
 
 Whenever the Traveller encounters a Setback, a Stress check is required. What constitutes a Setback is up to the referee; it might be nothing more than a rude starport clerk that causes a Traveller with a high SI to snap, though usually it will be a tense situation in which the Traveller has little control over what is happening. Being stuck in deep space unable to jump whilst the engineer fiddles with the drive would constitute a Setback.
 
@@ -367,7 +367,7 @@ It is very unlikely that Perfect Stranger will emerge from jump close to another
 
 As already noted, there are several possible routes to Herzenslust. The Travellers are free to choose their own path, though some incidents will happen along the way. The referee should slot these into suitable location. The worlds of the Islands Cluster are detailed in the Great Rift box set, but brief descriptions are included here.
 
-The intelligence services of Neubayern will be aware that Perfect Stranger has become active and are now searching for her. Their resources are limited but they have access to a great deal of money. A bounty has been put on the ship (capture or destroy) and her crew (capture alive, if possible) which makes attack by mercenaries quite likely. In addition, arrangements have been made (typically by very roundabout means) to impede and frustrate the progress of Perfect Stranger. In some cases, this even involves governments unfriendly to Neubayern; deals have been done through third parties, favours called in, and misinformation planted. This has not always worked as well as the Neubayerners might have hoped, but such is the nature of intelligence work.
+The intelligence services of Neubayern will be aware that Perfect Stranger has become active and are now searching for her. Their resources are limited but they have access to a great deal of money. A bounty has been put on the ship (capture or destroy) and her crew (capture alive, if possible) which makes attack by mercenaries quite likely. In addition, arrangements have been made (typically by very roundabout means) to impede and frustrate the progress of Perfect Stranger. In some cases, this even involves governments unfriendly to Neubayern; deals have been done through third parties, favors called in, and misinformation planted. This has not always worked as well as the Neubayerners might have hoped, but such is the nature of intelligence work.
 
 # TRAVELLING THE ISLANDS
 
@@ -475,7 +475,7 @@ The Travellers might expect a warship to be in the vicinity but they are not att
 
 See
 
-- [[Herzenslust]]
+- Herzenslust
 
 Upon arriving at Herzenslust, the Travellers will rapidly become aware of a force of gunships defending the world, operating out of a space station built from a decommissioned freighter. As their transponder does not indicate New Colchis registry, the Travellers will be directed to the secondary port. No amount of argument will persuade the authorities that the Travellers should use the better port at the capital – they are outlanders and not permitted there; end of story.
 
@@ -508,15 +508,15 @@ Sooner or later, however, the Travellers will want to find Drop Point Hotel. The
 ![[GRA1-IitR-324.jpg|200]]
 The starship graveyard turns out to be a fenced compound owned and operated by a company called WrekYard. There are also piles of trashed ground cars and even a few railway wagons in various stages of disrepair. WrekYard charges a Cr10 fee to enter the yard, mainly to deter gawkers and idiots who want to climb around the starships, and has a make-an-offer policy on components extracted from the wrecks. The less work the yard’s personnel must do, the cheaper an item will be sold. Thus, if someone expects a heavy component to be removed, cleaned up and delivered to their ship, they will pay several times as much as a client who comes to the yard and does the work himself.
 
-The yard staff know nothing about any data stash but may recall a party of offworlders who came to the yard several months ago looking for parts. They stripped a few bits out of an old Type R subsidised merchant that had been in the yard more or less forever, and asked a lot of questions about the origins of other vessels; mainly those that had suffered battle damage.
+The yard staff know nothing about any data stash but may recall a party of offworlders who came to the yard several months ago looking for parts. They stripped a few bits out of an old Type R subsidized merchant that had been in the yard more or less forever, and asked a lot of questions about the origins of other vessels; mainly those that had suffered battle damage.
 
 Many of the ships in the yard are first-generation Islands Cluster jump-capable vessels. The initial rush of construction once jump drive technology was disseminated throughout the cluster resulted in large numbers of not well-designed vessels taking to the stars. Most passed through a series of owners as better ships replaced them, and many were repeatedly upgraded, modified and generally fiddled-with. The yard has several working(ish) starships available at ridiculously low prices. Travellers might be sceptical about a vessel cobbled together with salvaged parts from unreliable first-generation jump-ships, and they would be right, though the yard does not deliberately sell deathtraps. Anyone buying a 200-ton trader for Cr300000 ought to realise they are getting what they pay for.
 
 The Travellers could learn a lot about the evolution of starships and design philosophy in the Islands. Starship aficionados will have a field day here; those without an interest in the field will be bored and trip over things. The coordinates for Drop Point Hotel are vague, so it will be necessary to search through a few wrecks and get lost for a while before something stands out.
 
-Amid the local designs is a half-dismantled Type R subsidised merchant. Judging from the weeds growing around access points, it has not been disturbed in months. The Travellers might figure out that if a stash had been left in the wreck, it would not be somewhere a salvage hunter would easily find it. A set of data cores would look valuable and so must be somewhere difficult to access, especially by those unfamiliar with the design of a Type R.
+Amid the local designs is a half-dismantled Type R subsidized merchant. Judging from the weeds growing around access points, it has not been disturbed in months. The Travellers might figure out that if a stash had been left in the wreck, it would not be somewhere a salvage hunter would easily find it. A set of data cores would look valuable and so must be somewhere difficult to access, especially by those unfamiliar with the design of a Type R.
 
-In the Islands, the chances of someone happening by who is intimately familiar with the internal workings of a subsidised merchant are far less than in the Imperium, making the subbie an ideal hiding place. The data cores are not large; they would fit in a small holdall, so the Travellers are looking for a part of the ship that is hard to access and might be completely overlooked by those not familiar with operating one. The auxiliary flow regulator chamber for the fuel scoops is notoriously difficult to get into for maintenance. Cussed out by generations of engineers, it would be an excellent hiding place.
+In the Islands, the chances of someone happening by who is intimately familiar with the internal workings of a subsidized merchant are far less than in the Imperium, making the subbie an ideal hiding place. The data cores are not large; they would fit in a small holdall, so the Travellers are looking for a part of the ship that is hard to access and might be completely overlooked by those not familiar with operating one. The auxiliary flow regulator chamber for the fuel scoops is notoriously difficult to get into for maintenance. Cussed out by generations of engineers, it would be an excellent hiding place.
 
 The starboard side scoop is in pieces on the ground; nothing is hidden inside it except animal droppings and a long-abandoned nest, probably rats, if the Travellers care to speculate. The port side regulator is in place and can be accessed with the usual difficulty and swearing. Whichever of the Travellers gets to crawl inside has the added joy of finding another rat nest, complete with overpowering smell. There is, however, a heavily-nibbled and stinking holdall containing the backup data cores and a bundle of 20,000 Credit plaques.
 
@@ -569,8 +569,7 @@ Once the Travellers have the backup data cores, they can get on with their missi
 # GLOIRE
 
 See
-
-- [[Gloire]]
+- Gloire
 
 ## INCIDENT AT GLOIRE
 
@@ -588,7 +587,7 @@ Success shows the craft are TL12 light fighters (see High Guard , page 94), used
 
 At the same time the Travellers scan the fighters, they receive a tight-beam signal from the merchant ship _Ershi_. It is curt and to the point:
 
-_‘Imperial Naval Auxiliary_ Ershi _to_ Perfect Stranger_. Stand down for boarding and crew replacement. Job well done. Time to go home.’_
+> _‘Imperial Naval Auxiliary_ Ershi _to_ Perfect Stranger_. Stand down for boarding and crew replacement. Job well done. Time to go home.’_
 
 The Travellers may smell a rat here and rightly so. There are no authentication codes accompanying the signal, which is voice-only, and _Ershi_ launches another pair of fighters as she makes the signal. These, too, begin a leisurely acceleration.
 

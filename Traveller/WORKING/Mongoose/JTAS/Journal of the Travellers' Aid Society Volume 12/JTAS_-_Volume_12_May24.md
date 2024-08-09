@@ -184,7 +184,7 @@ blacks and blues.
 
 Despite their classification as vermin, some people keep them as pets
 as they have a relatively high intelligence and require little in the way
-of care. They will eat almost anything, favouring strong flavours and
+of care. They will eat almost anything, favoring strong flavors and
 scents, and are incredibly easy to clean due to both urine and faeces
 being expelled in a single membrane-coated pellet.
 
@@ -282,7 +282,7 @@ last 17 years working exclusively within the Spinward Marches, she
 is utterly mercenary by nature. When it comes to business, Kyriani
 is ruthless and seems to care little about who hands out the contract
 as long as the Credits are flowing in the right direction; her direction.
-Favouring an occasional visit to the local gambling establishments of
+Favoring an occasional visit to the local gambling establishments of
 whatever port she is passing through, Kyriani won the Triplebrick in a
 game of lunion stud. Her disgruntled opponent later tried to muscle and
 threaten Kyriani with a small group of hired thugs in an effort to regain
@@ -1000,21 +1000,21 @@ intends to push Excelsior II to its limits all the way back.
 Emerging at Chulte, the ship dives in for a fast refuelling at the medium-
 sized gas giant that sits inside the edge of the M1-type star’s 100
 diameter limit but Excelsior II can jump safely at 80 diameters and
-emerges seven million kilometres from the gas giant, a five-hour flight in.
+emerges seven million kilometers from the gas giant, a five-hour flight in.
 
 Chulte (B310555-B) is a moon of this gas giant and orbits 1,500,000
-kilometres above its clouds. As Excelsior II enters the gas giant’s
+kilometers above its clouds. As Excelsior II enters the gas giant’s
 atmosphere and begins a rapid refuelling run in the Deep region, it
 receives a distress call from the trader Brannigan’s Virtue, which has
 experienced turbulence and engine trouble during refuelling. Excelsior
-II is within 5,000 kilometres and the only hope of rescuing the crew or
+II is within 5,000 kilometers and the only hope of rescuing the crew or
 saving the ship.
 
 REFEREE’S INFORMATION
 Roll 1D or choose from one of the options below:
 
 1: All is as stated. Flying within the gas giant’s atmosphere limits even
-the aerofin-equipped Excelsior II to 2,500 kilometres per hour but if
+the aerofin-equipped Excelsior II to 2,500 kilometers per hour but if
 the Travellers do not suggest it, Milo will insist on performing a ballistic
 hop in and out of the atmosphere, which will cut travel time from two
 hours down to 18 minutes (three space combat rounds). Hopping
@@ -1239,9 +1239,9 @@ from the bottom of a gravity well.
 
 Heraklion architects did not neglect design considerations with the
 Excelsior II. The ship resembles a sleek sunfish, with vertical fins
-stretching 78 metres tip-to-tip a body only 56 metres long. The hull is
+stretching 78 meters tip-to-tip a body only 56 meters long. The hull is
 essentially an extremely elongated sphere with a varying-width cylindrical
-cross-section, reaching nine metres maximum diameter, with two decks
+cross-section, reaching nine meters maximum diameter, with two decks
 accessible from the bridge by stair. The bridge and forward owner’s suite
 on the upper deck are topped with transparent crystaliron, delivering
 an uninterrupted view of space. The lower deck is cramped, with crew
@@ -1607,7 +1607,7 @@ clothing cannot match.
 None of the garments listed here are described in particular detail
 because the range of styles, patterns and colours is effectively limitless.
 Where one culture’s suit may comprise of shirt, jacket and trousers,
-another may favour wearing kilts or one-piece jumpsuits.
+another may favor wearing kilts or one-piece jumpsuits.
 
 NOBLES AND CLOTHING
 Travellers with noble rank, or who enjoy celebrity, must look the part
@@ -2336,7 +2336,7 @@ taking all measures possible to preserve the Erline species. Other
 citadels are still being built with the goal of eradicating the disease
 suffered by the Erline and once completed will begin their patrol
 flights catapulting between stars. Never being designed to multiply
-systematically, the shipyard it built was not optimised for efficiency,
+systematically, the shipyard it built was not optimized for efficiency,
 taking decades to complete a new citadel. Due to their lack of a natural
 lifespan and careless respect for time, over the last millennia over 100
 newer citadels have been built, the majority of which are still active.
@@ -2389,14 +2389,14 @@ THE HABITAT
 To create an ideal living space for the colonists, the Citadel drew on
 concepts found in old Erline databases; a cylindrical artificial habitat
 created inside a large asteroid. The chunk of rock chosen to realise its
-endeavor is ellipsoidal with a diameter of 3.4 kilometres and a length
-of 5.7 kilometres. The cylindrical cavity measures just over a kilometre
-in diameter and is over three kilometres long. Work to complete it took
-more than a century, followed by decades of optimising life support and
+endeavor is ellipsoidal with a diameter of 3.4 kilometers and a length
+of 5.7 kilometers. The cylindrical cavity measures just over a kilometer
+in diameter and is over three kilometers long. Work to complete it took
+more than a century, followed by decades of optimizing life support and
 cultivating vegetation suitable for sustaining life.
 
 Lighting within the habitat comes from a tubular filament pulled through
-the centre of the cavity, with no natural light reaching the interior. There is
+the center of the cavity, with no natural light reaching the interior. There is
 no artificial gravity, with external thrusters keeping the asteroid in a precise
 rotation that creates the illusion of such within at a measurement of 0.9G.
 
@@ -2679,7 +2679,7 @@ slows down the process.
 CLASS B
 Once a starport reaches this size, it becomes a significant hub within
 the local – and even planetary – economy. Many Class B starports
-are at the centre of a major, and possibly capital, city. They contain
+are at the center of a major, and possibly capital, city. They contain
 hundreds of landing pads of various shapes and sizes, most of which
 have hangers fitted with dedicated storage and unloading facilities.
 A Class B starport is large enough to be a settlement in itself and
@@ -2692,7 +2692,7 @@ shipyard, capable of producing spacecraft and small craft. This, in turn,
 provides excellent repair facilities.
 
 There is no standard design for a Class B starport but the downport
-usually spans an area of at least one square kilometre and may well
+usually spans an area of at least one square kilometer and may well
 include a range of underground areas. Around this a startown will
 almost certainly have sprung-up, covering an area that is at least as
 large as the port itself.
@@ -2780,7 +2780,7 @@ amazing what you can find.
 
 Accommodation is readily available, often at a reasonable rate. Many
 hotels include super-casinos and make enough profit at the gaming
-tables to subsidise the price of rooms. There are, of course, more
+tables to subsidize the price of rooms. There are, of course, more
 exclusive suites that will set guests back thousands of Credits a night. In
 return, visitors can enjoy an exceptional quality of service, with access to
 exotic delicacies that only a hub of galactic trade can hope to provide.
@@ -2824,7 +2824,7 @@ By Darren Bulmer
 
 ZORKOTE LIGHT CRUISER
 At 17,500 tons, the Zorkote stretches the boundaries of a light
-cruiser but has been more than favourably accepted by those who
+cruiser but has been more than favorably accepted by those who
 have served aboard one. A spinal meson mount is the ship’s main
 weapon, with secondary batteries consisting of four missile bays and
 three high technology particle bays. Defensively, it boasts both triple
@@ -3080,7 +3080,7 @@ DECK 2
 1 sq. = 10 tons
 
 GORTE-CLASS BATTLE RIDER
-Deemed obsolete by the Imperial Navy in favour of newer, more
+Deemed obsolete by the Imperial Navy in favor of newer, more
 advanced versions, the Geonee Self Defence Force purchased 15
 such vessels along with their two associated tenders and proceeded
 to upgrade them. The Gorte-class TL15 refit successfully extended the
@@ -3767,7 +3767,7 @@ unknown, as do the chances of another Hhkar armada arriving at some
 unsuspecting world.
 
 PHYSICAL CHARACTERISTICS
-With a tail for balance, an adult Hhkar averages 2.5 metres in height
+With a tail for balance, an adult Hhkar averages 2.5 meters in height
 with a mass of 250 kilograms. Aesthetic variations are common,
 although within a ssaaahk, a family or clan grouping, individuals retain
 similar features. Hhkar have no external sexual characteristics and
@@ -3906,7 +3906,7 @@ communal area, where they remain for 21 weeks until hatching.
 
 At birth, Hhkar are capable of locomotion and soon put to work,
 supervised by females and older children. Whilst females provide
-guidance, they do not favour their own children and raise the young
+guidance, they do not favor their own children and raise the young
 in a harsh regimented manner. Young who do not conform to ssaaahk
 features or who are too slow or too difficult to control are often culled.
 The juveniles start by performing simple tasks, such as weeding, and
@@ -4273,7 +4273,7 @@ often eschew advanced medical procedures.
 Armor
 Hhkar armor and protective suits are customised for their species. They
 do not like to wear restrictive clothing and metal clothing or fasteners
-‘itch’ their magnetic sense. Hhkar favour poly carapace and ceramic
+‘itch’ their magnetic sense. Hhkar favor poly carapace and ceramic
 armor and none of their armor is equipped with gravitic technology.
 
 Translator Pad
@@ -4290,7 +4290,7 @@ Improved 10 — Cr500
 ```
 
 Hrrak!k Battle-axe
-A curved great axe nearly two metres long, the mass and sharpness of
+A curved great axe nearly two meters long, the mass and sharpness of
 these blades can cause catastrophic wounds, meaning they are often
 used in Srriikka!ki death duels and boarding actions. These axes are
 sometimes crude weapons stamped from industrial machines but can
@@ -4305,7 +4305,7 @@ Smasher
 
 Sraaa!k **Gauss Rifle**
 The sraaa!k is a heavy battle rifle firing a 6mm projectile along a
-two-metre barrel, able to penetrate armor at considerable distance.
+two-meter barrel, able to penetrate armor at considerable distance.
 These are available through the Menderes Corporation to qualified
 non-Hhkar buyers certified as mercenary units by the Julian
 Protectorate at twice standard cost.
@@ -4388,7 +4388,7 @@ or both (using tilting segments).
 fusion drives to cross vast distances at sublight speed.
 
 WEAPONRY
-Hhkar ships favour railguns and mass drivers, and produce superior
+Hhkar ships favor railguns and mass drivers, and produce superior
 versions of these weapons at all scales, including spinal mounts. All
 Hhkar railguns and mass drivers are TL15. Compared to baseline
 models, these weapons (including spinal mounts) are double the cost
@@ -5034,7 +5034,7 @@ Unbeknownst to Joyce, the ‘good samaritan’ who aided her sold the
 information on Marcus to a Zhodani spy. This resulted in the Zhodani
 agent activating a sleeper unit, which is now tailing Joyce. When Joyce
 boarded the Amaranthine Haven, the unit shadowed her in a well-
-equipped Type-RQ Subsidised Merchant (Pirates of Drinax: Ships of
+equipped Type-RQ Subsidized Merchant (Pirates of Drinax: Ships of
 the Reach, page 18), the Hopeful Wanderer. The Hopeful Wanderer
 used their advanced sensors to analyse their quarry’s jump flash and
 followed the Amaranthine Haven to Grant.
@@ -5354,7 +5354,7 @@ be reward enough.
 
 These are duvet-sized creeping masses of translucent grey-brown
 tissue that slide across the ground digesting anything biological. They
-have three-metre-long adhesive pseudopods, which whip out to snare
+have three-meter-long adhesive pseudopods, which whip out to snare
 anything they sense is close and draw the prey onto their central mass
 to be suffocated and digested. They can creep up the walls and cling
 to the underside of the causeways as well as swim across water. If the

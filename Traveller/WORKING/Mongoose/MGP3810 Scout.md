@@ -2098,7 +2098,7 @@ to the next destination. The Scout base for a system acts as the
 sorting office for mail, providing encryption, security scanning and
 so on, before designating which cargo of messages is assigned
 to which vessel. Scout xBoats generally stick to fixed routes in
-order to optimise the time for message despatch and delivery, but
+order to optimize the time for message despatch and delivery, but
 sometimes will undertake bespoke messaging missions that are off
 the beaten track or require special attention. In these cases, retired
 Scouts are often recalled and used to minimise disruption to the
@@ -2382,7 +2382,7 @@ barely known world. The mission team is required to undertake
 lengthy surveys from both high orbit with and the surface, working
 with the initial reports provided by the Exploration teams. The
 outputs of the survey mission will inform future views and missions,
-including colonization programmes and terraforming: accuracy is
+including colonization programs and terraforming: accuracy is
 therefore essential.
 
 System Survey
@@ -3462,7 +3462,7 @@ slots, and the option to project a virtual screen and interface controls.
 They are approximately double the size, and include extensive
 TL14 advanced quantitative and qualitative analysis machinery.
 They typically do not function as a sniffer, insofar as they are not
-optimised for rapid response and limited analysis tracks.
+optimized for rapid response and limited analysis tracks.
 
 SCANPACS
 Assay Type Size Skill Effect
@@ -3610,7 +3610,7 @@ automatically calibrate to the other units used in the matrix and
 provide continued energy correction for optimum use. The height
 of the barrier is determined by the height of the generator/receptor
 unit. A simple pair of units is 2m in height; add a further Cr5000 for
-each additional metre of height required.
+each additional meter of height required.
 
 The Holding Field’s range (the maximum distance that can be
 attained between the two units) is cost-dependent. A basic pair of
@@ -3639,7 +3639,7 @@ not have sufficient understanding of gravitational forces.
 
 First Contact Communicator (TL14)
 The first contact between races is a critical moment. The First Contact
-Communicator used by the Scout service is designed to optimise
+Communicator used by the Scout service is designed to optimize
 the nature of the first encounter. The communicator is a mixture of
 translation device and message transmitter. It is a book-sized box
 worn slung on a belt or backpack and, when activated, broadcasts
@@ -3910,7 +3910,7 @@ Cr75,000
 Defraction Screen (TL 11)
 An aerosol based distraction mechanism, a squirt of defraction
 screen propels millions of highly reflective droplets into a cloud
-roughly one cubic metre in diameter. This interrupts both direct
+roughly one cubic meter in diameter. This interrupts both direct
 and peripheral vision, providing a –3DM to any visual reliant rolls
 attempting to penetrate the area within, or behind, the defraction
 cloud. The cloud dissipates after 5 minutes and a single aerosol has
@@ -4203,7 +4203,7 @@ mini-survey ship was less than perfect, it makes an excellent sensor
 
 ADVANTAGES:
 
-- Jump 4 Range; Jump drive and Main computer optimised for
+- Jump 4 Range; Jump drive and Main computer optimized for
     rapid sequential and/or deep space jumping.
 - Highly configurable high-power sensor and computing systems
     allow extreme sensor range and acuity, Scout specific sensors
@@ -4219,7 +4219,7 @@ ADVANTAGES:
 - Can function in limited mode without modules, and secondary
     type 1b computer allows jump independent of main computer.
 - High-end computer makes the SX excellent at running
-    encryption programmes. Coupled with its range, it is a first-rate
+    encryption programs. Coupled with its range, it is a first-rate
     Courier vessel.
 
 DISADVANTAGES:
@@ -4544,7 +4544,7 @@ In this configuration, the ship jumps as a 180 ton hull. The 36 ton drop tank al
 1x J2 and 28 days duration. **The ships boat is a modified stealth/assault version carrying 12 passengers, (team leader , medic 10 team
 members and 2 crew
 Officially, this configuration is used to insert cultural survey teams onto precontact moderate or low tech planets. Unofficially, it is a
-favourite of the scout special forces teams; additionally many of these ship variants have been transferred to various military branches as
+favorite of the scout special forces teams; additionally many of these ship variants have been transferred to various military branches as
 commando transports, and deep penetration espionage teams. Typically these versions have their drives upgraded to include both rapid
 and stealth jump options, and a stealth hull. Medical bay and medic are to maximize survival of low berth crew/passengers.
 
@@ -5046,7 +5046,7 @@ Normal crew consists the pilot (and captain), a navigator, 2 engineers, 3 gunner
 
 ADVANTAGES:
 
-- Jump 4 Range; Jump drive and Main computer optimised for rapid sequential and/or deep space jumping.
+- Jump 4 Range; Jump drive and Main computer optimized for rapid sequential and/or deep space jumping.
 - Highly configurable high-power sensor and computing systems allow extreme sensor range and acuity, Scout specific sensors and
     telemetry, and rapid jump calculations.
 - Equipped with a full sensor and telescope array for extensive field work
@@ -5268,7 +5268,7 @@ especially in areas where its J1 is sufficient range.
 
 Normal crew consists of a pilot, engineer, navigator, 2 small craft engineers and 18 surveyors.
 
-It is simply a purchased or leased 400 subsidised merchant ship (Fat Trader) with a prebuilt survey package installed into its cargo space.
+It is simply a purchased or leased 400 subsidized merchant ship (Fat Trader) with a prebuilt survey package installed into its cargo space.
 Note that this is not configurable space, and requires extensive work, and a dockyard to add or remove.
 
 The Fat Surveyor can deploy and support three surveyor boats (50dt), but is not itself capable of survey operations. While less effective at its
@@ -5959,7 +5959,7 @@ requesting contact with any form of leadership. If, however, the
 species representative has communicated clearly that it is a scout/
 ambassador or other mandated representative of its race, then this
 issue of leadership should be addressed. Contact is always acting
-in a fully mandated capacity, and all Library programmes aboard
+in a fully mandated capacity, and all Library programs aboard
 standard Scout vessels carry the appropriate marks of authority in
 all known languages.
 
@@ -6176,7 +6176,7 @@ sentients. This category, the largest of all, includes
 - Bionts (biological intelligence) such as baselines/
     nearbaselines (those organisms that resemble, or appear
     close, to homo sapiens)
-- Tweaks (creatures genetically optimised for the their
+- Tweaks (creatures genetically optimized for the their
     environment)
 - Su (baselines that have been genetically enhanced to
     exhibit superior characteristics to homo sapiens),
@@ -7436,7 +7436,7 @@ Engineer (electronics, life
 support), Mechanic
 
 Checking equipment status, understanding how salvageable or available life support systems from
-vehicles can be optimised for use in the conditions.
+vehicles can be optimized for use in the conditions.
 Investigate Assessing specifics of local circumstances. Finding clues relating to the environment and inhabitants.
 Leadership Each level of Leadership can be used to reduce the Stress Level by 1. Successful Leadership rolls help
 inspire and motivate others in managing the Survival Strategy
@@ -7458,7 +7458,7 @@ Survival Implementing the basics of the Survival Strategy and completing the kin
 of the Traveller rules.
 Tactics Prioritising and executing each component of the Survival Strategy effectively. Every two levels of Tactics
 can be used to reduce the Stress Level by 1.
-Vacc Suit (and Battledress) Establishing Vacc Suit reserves, effecting repairs, and optimising Vacc Suit systems for optimum
+Vacc Suit (and Battledress) Establishing Vacc Suit reserves, effecting repairs, and optimizing Vacc Suit systems for optimum
 performance
 Zero G Moving effectively in low gravity or zero g. If the situation is in such an environment, then every two
 levels of Zero G can be used to reduce the Stress Level by 1.
@@ -8094,13 +8094,13 @@ The lack of vegetation and, often, relief in arid and desert areas can
 also have implications for navigation and estimating distance. The
 emptiness of desert terrain causes most people to underestimate
 distance by a factor of three, if a Navigation or Reconn 8+ roll is
-failed: What appears to be 1 kilometre away is really 3 kilometres
+failed: What appears to be 1 kilometer away is really 3 kilometers
 away.
 
 SANDSTORMS
 Sandstorms occur frequently in most deserts and can be prolonged;
 some Earth sandstorms, for example, can blow for up to 120 days.
-In an Earth-like desert, winds average 3 to 5 kilometres per hour
+In an Earth-like desert, winds average 3 to 5 kilometers per hour
 and can reach 112 to 128 kph in early afternoon. Expect major
 sandstorms and dust storms at least once every 6 days (a result of
 1 on a roll of 1D6).
@@ -8120,8 +8120,8 @@ panels, if available.
 MIRAGES
 Mirages are optical phenomena caused by the refraction of light
 through heated air rising from a sandy or stony surface. They occur
-in the interior of the desert about 10 kilometres from the coast. They
-make objects that are 1.5 kilometres or more away appear to move.
+in the interior of the desert about 10 kilometers from the coast. They
+make objects that are 1.5 kilometers or more away appear to move.
 
 This mirage effect makes it difficult to identify an object from a
 distance. It also blurs distant range contours so much that character
@@ -8131,7 +8131,7 @@ out as islands.
 The mirage effect makes it hard for a person to identify targets,
 estimate range, and see objects clearly: apply a –4 DM to all skills
 relying on accurate visual observation. However, with height (3
-metres or more above the desert floor), it is possible to get above the
+meters or more above the desert floor), it is possible to get above the
 superheated air close to the ground and overcome the mirage effect.
 
 ### EXOTIC ATMOSPHERES AND HIGH
@@ -8244,8 +8244,8 @@ Primary Jungle is an area of tall evergreen trees normally in lowland
 areas with a rainfall above 200cm per year. The high humidity and
 heavy rainfall causes trees to rot from the inside and some trees
 may fall without warning. The trees in this type of jungle normally
-grow up to 60 metres (or more) high with branches not appearing
-below 25 metres on most large trees. The overall light level is about
+grow up to 60 meters (or more) high with branches not appearing
+below 25 meters on most large trees. The overall light level is about
 the same as twilight and movement on foot is fairly easy as the
 dense canopy prevents thick ground level foliage. One problem for
 rescue is the almost total cover from being seen from the air and
@@ -8254,8 +8254,8 @@ penetrates the high canopy.
 
 Secondary Jungle is the result of an area being cleared by fire or
 logging and then left. Exposure to sunlight results in rapid growth (2
-–3 metres a year). Heavy ground foliage makes travel arduous and
-visibility only around 20 metres; some areas will be impenetrable
+–3 meters a year). Heavy ground foliage makes travel arduous and
+visibility only around 20 meters; some areas will be impenetrable
 and progress both noisy and tiring.
 
 Native peoples are well versed in finding food from their jungle

@@ -61,9 +61,9 @@ No prices are listed for these items – the sky really is the limit and they co
 
 #### Purification Globe
 
-This 30 centimetres silver sphere is able to create a safe zone where most organic life is able to survive. Once activated, the sphere neutralises all toxins, bacteria and viruses, which would be harmful to the Traveller holding the sphere. It also screens out harmful radiation and is able to modify the temperature – up or down – by as much as 200 degrees kelvin, in order to best suit the needs of its owner.
+This 30 centimeters silver sphere is able to create a safe zone where most organic life is able to survive. Once activated, the sphere neutralises all toxins, bacteria and viruses, which would be harmful to the Traveller holding the sphere. It also screens out harmful radiation and is able to modify the temperature – up or down – by as much as 200 degrees kelvin, in order to best suit the needs of its owner.
 
-The range of these purification effects extend as much as three metres in all directions from the globe.
+The range of these purification effects extend as much as three meters in all directions from the globe.
 
 The globe cannot produce gas – it may only filter an existing atmosphere of harmful microbes and such like – so it cannot protect a Traveller from vacuum or within an atmosphere, which is itself unable to sustain the wielder.
 
@@ -92,7 +92,7 @@ After only 4D hours of exposure to a new language, a Traveller with an interpret
 
 This potent artefact was devised by a race with no psionic abilities of its own, who feared those of its enemies. It is half black, half crimson with narrow slits for the eyes and mouth. A tiny gravitic device allows it to float in place.
 
-A creature trying to use a psionic ability against someone wearing a psi- mask suffers DM-2 to their PSI-related check. Anyone – including the wearer of a psi-mask – who tries to use a psionic ability within 10 metres of this artefact suffers DM-1 to any PSI-related check.
+A creature trying to use a psionic ability against someone wearing a psi- mask suffers DM-2 to their PSI-related check. Anyone – including the wearer of a psi-mask – who tries to use a psionic ability within 10 meters of this artefact suffers DM-1 to any PSI-related check.
 
 #### Exo-bionic Glove
 
@@ -148,7 +148,7 @@ Although the widespread availability of armor allows Travellers to be shielded a
 
 By employing a lightweight frame of supports woven into the fabric of an everyday garment, chrysalis armor is able to fold out and retract in much the same way as a beetle’s wing. Once deployed, it covers vulnerable body parts with a translucent plastic film that is both extremely durable and supple.
 
-Favoured by those who do not wish to openly don armor, chrysalis suits can move between their retracted and unfolded state with a minor action.
+Favored by those who do not wish to openly don armor, chrysalis suits can move between their retracted and unfolded state with a minor action.
 
 Armor Type Protection TL Rad Kg Cost
 
@@ -263,7 +263,7 @@ If supporting a single BatRon, the supporting ships are temporarily designated t
 
 CruRon (Cruiser Squadron) Cruiser squadrons are the most varied of Imperial Navy squadrons. Heavy or light cruiser squadrons are composed of general-capabilities vessels and can carry out a range of tasks. Cruiser squadrons often support BatRons, ideally without engaging enemy capital units directly, or provide support for assault forces. CruRons are usually broken down to provide a powerful command ship for a task force or carry out operations that do not require a full squadron.
 
-Specialist CruRons such as bombardment or missile cruiser squadrons are, in theory at least, optimised to a particular task. Usually this means all vessels in the squadron are designed for that specialist role but often a squadron is filled out with more generally-capable vessels. Thus a missile cruiser squadron might in fact include three missile cruisers and a heavy cruiser with a fairly small missile armament. Most CruRons contain a support group including a bulk ordnance carrier and escorts to protect it.
+Specialist CruRons such as bombardment or missile cruiser squadrons are, in theory at least, optimized to a particular task. Usually this means all vessels in the squadron are designed for that specialist role but often a squadron is filled out with more generally-capable vessels. Thus a missile cruiser squadron might in fact include three missile cruisers and a heavy cruiser with a fairly small missile armament. Most CruRons contain a support group including a bulk ordnance carrier and escorts to protect it.
 
 AssaultRon (Assault Squadron) AssaultRons are not intended to engage enemy warships. They typically contain a mix of ships tailored to a task rather than identical warships. In general, AssaultRons fall into two categories:
 
@@ -271,7 +271,7 @@ AssaultRon (Assault Squadron) AssaultRons are not intended to engage enemy warsh
 
 **Invasion Squadrons** are intended for direct assault on defended worlds. The emphasis is on the ability to get troops on the ground on a hostile world and give them fire support. An invasion squadron will have more troop transports than supply ships and will usually be assigned more powerful escorts or bombardment vessels.
 
-**TankRon (Tanker Squadron)** The term TankRon is used to refer to any force optimised for the resupply of warships on deployment, since almost all such formations include fuel carriers. Individual tankers and supply ships might be assigned to a task force or squadron but specialist TankRons are deployed when large-scale fleet movements are required.
+**TankRon (Tanker Squadron)** The term TankRon is used to refer to any force optimized for the resupply of warships on deployment, since almost all such formations include fuel carriers. Individual tankers and supply ships might be assigned to a task force or squadron but specialist TankRons are deployed when large-scale fleet movements are required.
 
 **ScoutRon (Scout Squadron)** The term ScoutRon is used to refer to reconnaissance squadrons, which may be covert intelligence-gathering vessels or more conventional warships conducting information-gathering operations. The term is also
 
@@ -291,7 +291,7 @@ System defence forces of this sort are normally referred to as ‘the system squ
 
 Some worlds also contribute forces to the fleets of the Imperium. By long-standing tradition these are called colonial assets. The origins of this term are debated by historians, with no definitive answer available, but whilst inaccurate it is traditional and widely accepted. Colonial vessels tend to be of lower capability than their navy counterparts – they are often cheaper or obsolete vessels transferred from the navy – but increase the coverage a sector fleet can manage. This is particularly useful in a security or commerce-protection situation and frees more potent navy assets for ‘warfighting’ missions.
 
-The Zhodani Consulate takes a more rationalised approach, with the equivalent of colonial forces being heavily subsidised in border areas to create a local defence based on strategic requirements rather than economic capability and willingness to contribute to regional defence. The naval power of the Sword Worlds Confederation can be considered to be entirely the equivalent of Imperial colonial forces – there is no Sword Worlds navy, other than what member worlds choose to contribute. Likewise, Vargr forces are often comprised of whatever vessels can be obtained, without much of an overall plan.
+The Zhodani Consulate takes a more rationalised approach, with the equivalent of colonial forces being heavily subsidized in border areas to create a local defence based on strategic requirements rather than economic capability and willingness to contribute to regional defence. The naval power of the Sword Worlds Confederation can be considered to be entirely the equivalent of Imperial colonial forces – there is no Sword Worlds navy, other than what member worlds choose to contribute. Likewise, Vargr forces are often comprised of whatever vessels can be obtained, without much of an overall plan.
 
 ### SPACE COMBAT
 
@@ -307,9 +307,9 @@ Concentration of force is the key to success in major fleet actions. A fleet who
 
 ### BATTLESHIPS VS BATTLERIDERS
 
-In theory, a force of non-starships will defeat an equivalent tonnage of starships, as the latter must give up some of their potential in favour of fuel tanks and jump drives. However, the argument is not that simple. A force of battle riders must include a tender to carry them if it is to be able to do more than conduct static defence and the tender must be protected. There is also the consideration that a force of battle riders cannot easily jump out if a fight is going against it. The riders must be recovered and if the tender is attacked during this process the whole force may be lost.
+In theory, a force of non-starships will defeat an equivalent tonnage of starships, as the latter must give up some of their potential in favor of fuel tanks and jump drives. However, the argument is not that simple. A force of battle riders must include a tender to carry them if it is to be able to do more than conduct static defence and the tender must be protected. There is also the consideration that a force of battle riders cannot easily jump out if a fight is going against it. The riders must be recovered and if the tender is attacked during this process the whole force may be lost.
 
-At present, Imperial thinking is in favour of the more flexible battleship as a capital unit but battle riders do have useful capabilities. They can be delivered to a fortress system to augment its defences and the tender withdrawn. This leaves the riders stranded if an overwhelming enemy force appears but in the meantime the system defences are greatly enhanced. The technique is used to bolster systems that absolutely must not be lost, freeing the tender to carry other riders into action or to deliver further reinforcements.
+At present, Imperial thinking is in favor of the more flexible battleship as a capital unit but battle riders do have useful capabilities. They can be delivered to a fortress system to augment its defences and the tender withdrawn. This leaves the riders stranded if an overwhelming enemy force appears but in the meantime the system defences are greatly enhanced. The technique is used to bolster systems that absolutely must not be lost, freeing the tender to carry other riders into action or to deliver further reinforcements.
 
 In more mobile operations, a tender/rider force has advantages if its side controls the initiative. For example, a conventional fleet might enter a system and provide screening for a battle rider force, which then leads the assault on a heavily defended world. If the enemy is pinned by a need to protect a valuable objective it cannot act against the tenders, freeing the rider force to engage as it pleases.
 
@@ -626,7 +626,7 @@ In general, if Travellers are concerned only with trading at the starport or get
 
 A gas giant, or Jovian, may or may not have a solid core but will have a central region in a liquid state as a result of the immense pressures encountered there. Higher up in the atmosphere, which is composed mainly of hydrogen compounds, pressure eventually drops to the point where human-crewed space vessels can survive. Expeditions have occasionally been mounted into the depths of a gas giant’s atmosphere but operating any deeper than the upper layers is extremely dangerous.
 
-The vicinity of any gas giant is a dangerous place. Most are high-radiation environments as a result of their strong magnetic field and winds in the atmosphere can be extreme – over 2,000 kilometres per hour in some cases. Complex systems of moons, rings and asteroidal debris can make navigation hazardous as well. At the same time, these conditions can also make a gas giant economically attractive. A variety of useful chemicals, ranging from hydrogen for starship fuel to complex petrochemicals, can be skimmed from the upper atmosphere of a gas giant, whilst the moons and rings are often rich in easily accessible minerals.
+The vicinity of any gas giant is a dangerous place. Most are high-radiation environments as a result of their strong magnetic field and winds in the atmosphere can be extreme – over 2,000 kilometers per hour in some cases. Complex systems of moons, rings and asteroidal debris can make navigation hazardous as well. At the same time, these conditions can also make a gas giant economically attractive. A variety of useful chemicals, ranging from hydrogen for starship fuel to complex petrochemicals, can be skimmed from the upper atmosphere of a gas giant, whilst the moons and rings are often rich in easily accessible minerals.
 
 The majority of gas giants are defined as ‘small’ or large’; very general terms covering a wide range of masses. A large gas giant might be the equivalent of Jupiter or Saturn in the Sol system; a small Jovian is likely to be around the size of Neptune or Uranus. It is obviously not possible to build a permanent installation on a gas giant, as there is no useable surface. However, orbital installations are not uncommon. These are often refineries for chemicals skimmed out of the Jovian’s atmosphere, which may then be transferred elsewhere in the system or shipped out directly.
 
@@ -640,7 +640,7 @@ It is common in this case to find installations throughout a gas giant’s moon 
 
 Some gas giants are extremely small (by the standards of giant planets, anyway) and fall somewhere between super-earth and gas giant in size and character. Very small gas giants are termed subjovians and similar in general nature, although they are likely to have a rocky core surrounded by a semi-liquid atmosphere. Smaller worlds might be termed ‘anomaly terrestrials’ in that they are more like rocky planets with a deep atmosphere than a true gas giant.
 
-The anomaly terrestrial category also includes worlds that do not fit into any other category. Examples include true water worlds, with oceans many kilometres deep surrounded by a dense atmosphere, or large but very low density worlds with virtually no useful resources. Such anomalous planets cannot be generated under the _Traveller_ rules; they are too rare to be included in a table. Such highly unusual worlds should be placed at the referee’s discretion and are likely to be noted throughout the surrounding region of space if there has been any significant exploration. Subjovians are far more common but still rare compared to true gas giants.
+The anomaly terrestrial category also includes worlds that do not fit into any other category. Examples include true water worlds, with oceans many kilometers deep surrounded by a dense atmosphere, or large but very low density worlds with virtually no useful resources. Such anomalous planets cannot be generated under the _Traveller_ rules; they are too rare to be included in a table. Such highly unusual worlds should be placed at the referee’s discretion and are likely to be noted throughout the surrounding region of space if there has been any significant exploration. Subjovians are far more common but still rare compared to true gas giants.
 
 ### SUPERJOVIANS AND BROWN DWARFS
 
@@ -664,7 +664,7 @@ Rogue worlds are tiny specks in a gigantic universe; no matter how many there ma
 
 ### PLANETOIDS AND DWARF PLANETS
 
-Planetoids generally occur in belts, which are usually the result of a planet almost forming then breaking up – or very occasionally being destroyed in a collision with some other body. Planetoid belts contain bodies ranging in size from dust particles to dwarf planets. Most planetoids are small – just a metre or two across at most – and tend to be widely spaced. Passing through a belt is not usually a navigational hazard, although the increased presence of dust and small particles can endanger fast-moving ships.
+Planetoids generally occur in belts, which are usually the result of a planet almost forming then breaking up – or very occasionally being destroyed in a collision with some other body. Planetoid belts contain bodies ranging in size from dust particles to dwarf planets. Most planetoids are small – just a meter or two across at most – and tend to be widely spaced. Passing through a belt is not usually a navigational hazard, although the increased presence of dust and small particles can endanger fast-moving ships.
 
 Some planetoid belts are virtually useless for exploitation, with few bodies larger than gravel, but most have at least some large (and thus potentially exploitable or habitable) bodies. Within a belt, clusters of more tightly grouped planetoids occur, attractive to prospectors and miners as well as those seeking to build a community in space.
 
@@ -692,15 +692,15 @@ Very distant objects are unlikely to be inhabited and cannot interact meaningful
 
 The Githiaskio, also known as Squids or Whooiihee in imitation of their whistling speech, are a race of intelligent aquatic sophonts who originated on Githiaski in the Antares sector. Today, they are widespread throughout Imperial space and beyond. Despite their very different physiology, their psychology is remarkably similar to that of humans.
 
-The Githiaskio are bisexual, semi homeothermic and give birth to single live young. They average two to two and a half metres in length, about half of which is tentacle, and are about 50 centimetres in diameter at their thickest point. They have roughly cylindrical bodies, which taper into a muscular swimming ‘fluke’ at one end and divide into six tentacles around a feeding orifice at the other. A cluster of sensory organs is mounted mid- way along the body. Githiaskio eyes focus poorly; their prime sense is sound. They are very sensitive to light and waterborne chemicals.
+The Githiaskio are bisexual, semi homeothermic and give birth to single live young. They average two to two and a half meters in length, about half of which is tentacle, and are about 50 centimeters in diameter at their thickest point. They have roughly cylindrical bodies, which taper into a muscular swimming ‘fluke’ at one end and divide into six tentacles around a feeding orifice at the other. A cluster of sensory organs is mounted mid- way along the body. Githiaskio eyes focus poorly; their prime sense is sound. They are very sensitive to light and waterborne chemicals.
 
 Githiaskio speech has been described as ‘whistling underwater’. It is quite complex, relying heavily on pitch intonation. Githiaskio and humans can learn to understand each other’s speech but neither can speak the other’s language other than in a very primitive manner. This is further complicated by the fact that one language is spoken underwater and the other in air, requiring microphones and speakers suitable for both environments.
 
 Since Githiaskio require oxygen for their respiration, a world with a breathable atmosphere (for humans) is necessary to support them. Most worlds with a thin or better atmosphere are acceptable and they can tolerate a high salinity. However, certain chemicals make conditions intolerable for Githiaskio.
 
-Githiaskio can tolerate depths of up to 700 metres, assuming normal 1g conditions. However, sudden drops in pressure create problems similar to nitrogen narcosis (also known as ‘the bends’) experienced by humans. Higher pressures require the use of cumbersome protection but when using such equipment Githiaskio can dive deeper than a similarly equipped human.
+Githiaskio can tolerate depths of up to 700 meters, assuming normal 1g conditions. However, sudden drops in pressure create problems similar to nitrogen narcosis (also known as ‘the bends’) experienced by humans. Higher pressures require the use of cumbersome protection but when using such equipment Githiaskio can dive deeper than a similarly equipped human.
 
-Githiaskio bodies have almost neutral buoyancy. They can swim at 15 kilometres per hour for long periods or twice that in short bursts. Exposure to air is not immediately fatal but a Githiaskio will suffocate in a few minutes if taken out of water. Irritation and dehydration also occur but can be tolerated for a time if water is available to breathe. Gravity is also a problem for Githiaskio. Deprived of the support of water they will suffer internal injuries even if an environment suit is available. However, they are entirely at home in microgravity conditions and suffer no ill-effects over prolonged periods in zero-g.
+Githiaskio bodies have almost neutral buoyancy. They can swim at 15 kilometers per hour for long periods or twice that in short bursts. Exposure to air is not immediately fatal but a Githiaskio will suffocate in a few minutes if taken out of water. Irritation and dehydration also occur but can be tolerated for a time if water is available to breathe. Gravity is also a problem for Githiaskio. Deprived of the support of water they will suffer internal injuries even if an environment suit is available. However, they are entirely at home in microgravity conditions and suffer no ill-effects over prolonged periods in zero-g.
 
 ### HISTORY
 
@@ -989,7 +989,7 @@ In this context, the time limit associated with a protective item does not repre
 
 ## JUMP SPACE
 
-The central secret of interstellar travel is the concept of jump space. Without this method of travelling around intervening space, Travellers would be restricted by the universal speed limit of 300,000 kilometres per second; the stars would be beyond the reach of most intelligent species and even the limited travel that did take place would be slow and unprofitable.
+The central secret of interstellar travel is the concept of jump space. Without this method of travelling around intervening space, Travellers would be restricted by the universal speed limit of 300,000 kilometers per second; the stars would be beyond the reach of most intelligent species and even the limited travel that did take place would be slow and unprofitable.
 
 Jump space changes all of that. It allows travel at a velocity of up to six parsecs per week, making interstellar journeys of no more inconvenience than historical Terran sea cruises.
 
@@ -1011,7 +1011,7 @@ Jumping takes 168 hours (± 10 %) to complete. This time is related to the natur
 
 The major (and most desirable effect) of the jump drive is that users exceed the speed of light. Achievement of instantaneous movement would be too much to ask; even the existence of a form of instantaneous movement would produce grave theoretical difficulties that would ultimately be reflected in the realities of the real world. Instead, jump drives allow velocities ranging from 169 to 1,000 times lightspeed.
 
-One of the benefits of the jump drive is its controllability; jumping is predictable. When known levels of energy are expended, and when certain other parameters are known with precision, jumping is accurate to less than one part per 10 billion. Over a jump distance of one parsec, the arrival point of a ship can be predicted to within perhaps 3,000 kilometres (on larger jumps, the potential error is proportionally larger). Error in arrival location is also affected by the quality of drive tuning and the accuracy of the computer controlling the jump; these factors can increase jump error by a factor of 10.
+One of the benefits of the jump drive is its controllability; jumping is predictable. When known levels of energy are expended, and when certain other parameters are known with precision, jumping is accurate to less than one part per 10 billion. Over a jump distance of one parsec, the arrival point of a ship can be predicted to within perhaps 3,000 kilometers (on larger jumps, the potential error is proportionally larger). Error in arrival location is also affected by the quality of drive tuning and the accuracy of the computer controlling the jump; these factors can increase jump error by a factor of 10.
 
 The laws of conservation of mass and energy continue to operate on ships that have jumped; when a ship exits jump space it retains the velocity and direction it had when it made the jump. Commercial ships, for safety reasons, generally reduce their velocity to zero before jumping. Such a procedure eliminates some of the danger of a high velocity collision immediately after leaving jump. Military ships and high velocity couriers often enter jump at their highest possible velocity and aim for an end- jump point that directs their vector toward their destination in the new system. Such a maneuver allows constant acceleration in the originating system, followed by constant deceleration in the destination system.
 
@@ -1096,7 +1096,7 @@ One effect of misjumps is a change in the amount of time spent in jump space. Th
 
 #### Microjumps
 
-Any jump of less than one parsec is considered to be a microjump. Sometimes, it can be advantageous to jump within a system rather than use maneuver drives. If normal acceleration and deceleration would take more than a week, a microjump is more efficient. At 1g, any distance greater than one billion kilometres would be more efficient using a microjump.
+Any jump of less than one parsec is considered to be a microjump. Sometimes, it can be advantageous to jump within a system rather than use maneuver drives. If normal acceleration and deceleration would take more than a week, a microjump is more efficient. At 1g, any distance greater than one billion kilometers would be more efficient using a microjump.
 
 Microjumps can also confuse an observer or enemy. Because a ship’s jump destination cannot be predicted, a microjump within a system still leaves an impression that the ship has left; a week later, it emerges from jump in the same system, to the observer’s confusion.
 
@@ -1256,7 +1256,7 @@ Much of the population is concentrated around the main starport, which lies clos
 >
 > When Novyx burns, it releases a mildly toxic gas that can cause disorientation. This has resulted in fatalities where victims were unable to escape endangered compartments. As a result, any ship or installation using Novyx is subject to stringent testing. CPS avoided this by claiming it had used a different, more expensive, material. Library Data The following is widely available through data terminals and standard encyclopaediae. It can be considered to be reasonably accurate, as far as it goes, but simple common sense should indicate that the publicly available information is unlikely to be the whole story.
 
-HighLines Shipping: HighLines Shipping developed from a collective bargaining agreement set-up by group of small-ship operators, gradually taking on the trappings of a formal shipping line. Today, the company has over 40 interstellar vessels among its assets, although almost all are small. Free traders, far traders and subsidised merchants make up the majority of the company’s haulage capability, with three small liners and a large freighter assigned to regular routes.
+HighLines Shipping: HighLines Shipping developed from a collective bargaining agreement set-up by group of small-ship operators, gradually taking on the trappings of a formal shipping line. Today, the company has over 40 interstellar vessels among its assets, although almost all are small. Free traders, far traders and subsidized merchants make up the majority of the company’s haulage capability, with three small liners and a large freighter assigned to regular routes.
 
 Most vessels operate on an ‘area’ rather than ‘route’ basis, essentially undertaking tramp trading in the manner of an independent free trader but with the backing of a well-established company. HighLines Shipping has agreements with some of the larger players in the local market to pick up the slack in their service. Its captains usually know when and where their services will be required and set-up an itinerary that allows them to fulfil these secondary contracts whilst retaining the freedom to chase local opportunities. This model has worked well to date and the firm is respected as reliable and honest.
 
@@ -1366,7 +1366,7 @@ There is no facility on-planet to run a detailed simulation of the conditions on
 
 ### THE WRECK
 
-The wreck is a few kilometres outside of the port and still off-limits as a crash site. The area is sparsely inhabited so there have been few visitors, although it is apparent that people have been in and out of the ship.
+The wreck is a few kilometers outside of the port and still off-limits as a crash site. The area is sparsely inhabited so there have been few visitors, although it is apparent that people have been in and out of the ship.
 
 The vessel was sealed up as much as possible after the inquiry but the smashed-in forward section permits access to anyone trying hard enough. If the Travellers manage to obtain official permission to access the wreck they can use the ship’s codes and open her airlocks. If not, they will have to find a way in.
 
@@ -1543,7 +1543,7 @@ to Deck 3
 
 ### WEAPONRY
 
-Armament is optimised for standoff attack either in support of small craft or using mid-course guidance provided by them. Ideally, the parent vessel will remain out of detection and engagement range, tracking targets by way of small craft that may avoid detection due to their small size. If an enemy vessel can be subjected to a ‘missile ambush’ it may be disabled without being able to fire back. Lesser threats and sensor blips can be checked out by flights of fighters and boarding parties sent aboard covered by the guns of the parent ship.
+Armament is optimized for standoff attack either in support of small craft or using mid-course guidance provided by them. Ideally, the parent vessel will remain out of detection and engagement range, tracking targets by way of small craft that may avoid detection due to their small size. If an enemy vessel can be subjected to a ‘missile ambush’ it may be disabled without being able to fire back. Lesser threats and sensor blips can be checked out by flights of fighters and boarding parties sent aboard covered by the guns of the parent ship.
 
 The missile bays are housed in a prominent dorsal hump, with each bay having its own magazine. Fore and aft of the missile hump are batteries of three triple pulse laser turrets, giving the Quiet Vigilance a reasonable punch in short-range combat. Five single beam laser turrets are also shipped, one on each of the aft engine pods and one on each flank just aft of the command complex. These turrets are intended to provide point- defence against missiles and small craft.
 
@@ -1573,7 +1573,7 @@ However, by far the majority of Quiet Vigilance ships are retained in their orig
 
 Until recently, Glorinna was princess and sole heiress to the throne of a planetary government near the edge of the Imperium. The government was more or less along the lines of a constitutional monarchy with a representational parliament. However, a popular front uprising, possibly inspired by off-planet interests, deposed her father, the king, and erected a military junta in his stead. Glorinna managed to escape the rebels but her father was taken and has not been heard of since. He is presumed either dead or imprisoned.
 
-Now an exile, Glorinna is bending all her efforts towards engineering a return to her world and a counter-coup against the rebels. She is also driven to learn the fate of her father and rescue him if he is still alive. The particular object of her bitter hatred is General Kang Ladro, once head of the Royal Companions regiment, who betrayed her father and brought the royalist army over to the rebels to gain power. Ladro is now part of the junta and wants Glorinna dead or (preferably) married to him in order to secure his position. Ladro aspires to a re-establishment of the monarchy, with himself as king, and sees Glorinna’s great popularity with the masses as his key to absolute power. The rest of the junta is divided, the majority desiring a popular dictatorship, a strong minority under Ladro’s leadership looking towards the renewed monarchy. The populace itself is greatly dissatisfied with the junta, which has imposed repressive military control over all phases of daily life without doing anything to keep the promises of redistribution of wealth to the impoverished. They are strongly in favour of the return of the monarchy (although much too afraid of the junta to show it) and will support the return of Glorinna, who has always (unlike her father) been a popular and charismatic figure.
+Now an exile, Glorinna is bending all her efforts towards engineering a return to her world and a counter-coup against the rebels. She is also driven to learn the fate of her father and rescue him if he is still alive. The particular object of her bitter hatred is General Kang Ladro, once head of the Royal Companions regiment, who betrayed her father and brought the royalist army over to the rebels to gain power. Ladro is now part of the junta and wants Glorinna dead or (preferably) married to him in order to secure his position. Ladro aspires to a re-establishment of the monarchy, with himself as king, and sees Glorinna’s great popularity with the masses as his key to absolute power. The rest of the junta is divided, the majority desiring a popular dictatorship, a strong minority under Ladro’s leadership looking towards the renewed monarchy. The populace itself is greatly dissatisfied with the junta, which has imposed repressive military control over all phases of daily life without doing anything to keep the promises of redistribution of wealth to the impoverished. They are strongly in favor of the return of the monarchy (although much too afraid of the junta to show it) and will support the return of Glorinna, who has always (unlike her father) been a popular and charismatic figure.
 
 Glorinna is beautiful and regal, but talented in winning the loyalty and devotion of others and in no way snobbish. She is brave and keeps a cool head in a crisis. Her strong ingrained sense of honor makes it certain that she will handsomely reward those who aid her. Her greatest weakness is a romantic, sentimental streak; there is a chance that she will fall in love with a Traveller or other individual whom she believes shares her devotion to the cause. This chance is especially improved if she meets the individual under dangerous or ‘romantic’ circumstances, such as being rescued from some hazardous situation in the course of her adventures. Her impulsive heart makes her easy prey for fortune-hunters.
 
@@ -1587,7 +1587,7 @@ Profession Noble Age 26 Terms 2 Money Cr0 -? Skills : Carouse 1, Leadership 1, M
 
 Should Glorinna fall in with a party of Travellers, she will be patient and willing to go out of her way if she feels some benefit would be won from the diversion. She will not, however, lose sight of her own goals and if need be will part company as readily as she joined. Her ultimate goal is, of course, to raise funds and troops enough to oust the junta; she will tend to assume that others attach the same degree of importance to this goal as she does. Under no circumstances will she be turned from her course, either by argument or knowledge of danger; she may postpone her plans for the sake of expediency but will never abandon them and will regard any who tries to persuade her against the enterprise as a coward or worse.
 
-Glorinna is accompanied in her travels by Ek, a more than 2 metre tall mute utterly devoted to her. He is suspicious of outsiders, and will take orders from no one except the princess. Ek is particularly suspicious of anyone showing a romantic interest in her. Glorinna will not dismiss Ek; he is kept on as her personal servant and bodyguard, because ‘he’s been in the family for years’.
+Glorinna is accompanied in her travels by Ek, a more than 2 meter tall mute utterly devoted to her. He is suspicious of outsiders, and will take orders from no one except the princess. Ek is particularly suspicious of anyone showing a romantic interest in her. Glorinna will not dismiss Ek; he is kept on as her personal servant and bodyguard, because ‘he’s been in the family for years’.
 
 Glorinna Firella may come to the attention of the Travellers in one of many ways. They might, for example, actually be involved in the coup on her homeworld and be approached for help in escaping the planet aboard their ship. There is a good chance she will approach Travellers later, recruiting them as bodyguards or hiring Travellers with military experience as advisors or officers for the army she is putting together. She may also hire mercenary units to assist in raising her army. There is also an excellent chance that she would hire a band of Travellers to learn the whereabouts of her father and then rescue him.
 
@@ -1678,7 +1678,7 @@ Magazine Magazine Cost Traits 150 Cr600 Auto 4
 
 **Cluster Bombs**
 
-Cluster bombs are a favoured antipersonnel weapon, releasing multiple bomblets that then detonate in mid-air, resulting in a rain of small fragments. Cluster bombs are considered to be area weapons but gain double the normal DM when attacking to hit a personnel target.
+Cluster bombs are a favored antipersonnel weapon, releasing multiple bomblets that then detonate in mid-air, resulting in a rain of small fragments. Cluster bombs are considered to be area weapons but gain double the normal DM when attacking to hit a personnel target.
 
 Weapon TL Range Damage Tons Spaces Cost Small Cluster Bomb
 

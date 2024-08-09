@@ -147,7 +147,7 @@ strong economic “axis” to the sector, roughly along a
 line between Mimu, Medurma and Argi, and
 Dagudashaag now exports a fair quantity of its output
 to the less-developed sectors of Gushemege and
-Zarushagar. The sector is the industrial centre of Vland
+Zarushagar. The sector is the industrial center of Vland
 Domain, and its GSP (Gross Sector Product) exceeds
 that of Vland Sector.
 
@@ -173,7 +173,7 @@ give this sector the complex social map it has today.
 ```
 The advent of the Rebellion has struck Dagudashaag
 hard, bringing death to some and hardship to many. A
-settled, industrial centre has become the battleground
+settled, industrial center has become the battleground
 for two of the greatest starfleets the Galaxy has ever
 seen. Entire planets have been laid waste -- others
 have tried to seal themselves off from the Universe in
@@ -234,7 +234,7 @@ to allow colonisation of high gravity, water worlds. A
 Scanian male will average 1.8m in height and weights
 approximately 80 kilograms. A Female averages about
 1.6m and 68 kilograms. Height-to-weight ratio for
-males is 45 kg per metre thereby increasing muscular
+males is 45 kg per meter thereby increasing muscular
 capacity. The Solomani geneers decided to use a
 planet in the Dagudashaag sector [0935], which they
 called Gaea, for their experimentation. To endure the
@@ -345,7 +345,7 @@ webbing was formed between the digits to increase
 swimming ability.
 
 Aquans have been known to have reached depths of 1
-kilometre without ill effects.
+kilometer without ill effects.
 
 When on the surface the Aquan's gill closes and the
 trachea valve opens to allow air to enter the lungs.
@@ -446,9 +446,9 @@ member of the Twin Pillars.
 ```
 Scanians have strong privacy customs yet they rarely
 abuse them. The Scanians have a social distance of 2
-metres in comparison to the Imperial average of 1.
-Aquans usually expect a minimum of 3 metres and
-Rabbinic learn to cope with 1.5 metres. In addition
+meters in comparison to the Imperial average of 1.
+Aquans usually expect a minimum of 3 meters and
+Rabbinic learn to cope with 1.5 meters. In addition
 Scanians are generally very modest and will generally
 wear clothes concealing most of the body. This varies
 though. Aquans will usually restrict clothing in their
@@ -510,7 +510,7 @@ prepared, to react to any situation. To help
 with the cross-examination of decisions, all
 Scanian are expected to spend a period of 30
 days every year (known as Yarhei Kel'a or "Time of
-Testing") at a Scanian centre of Knowledge evaluating
+Testing") at a Scanian center of Knowledge evaluating
 and cross-examining the thoughts of the local Rab'ani.
 This concept of cross-examination is known as Ve'Ima
 Iphka which translates as "Perhaps the opposite holds
@@ -721,7 +721,7 @@ considered a very slight possibility at that time, it led
 to the seeding of major aspects of Scanian culture to
 the Scanian colonies. The system of Nehutei
 (Messenger/Traders) was established so that each
-centre would be able to retain free lines of
+center would be able to retain free lines of
 communication and to prevent any of the various
 colonies from falling away from the Study and Path due
 to ignorance. In 787 it became clear to the Sanhedra
@@ -1235,11 +1235,11 @@ known as ‘Exos’ can be hired from the starport or from
 your hotel. Cost is generally about Cr.3 per day.
 
 **Skal Point** - A land of force and grandeur. Feel the
-pure power of nature as the 30 metre high waves crash
+pure power of nature as the 30 meter high waves crash
 against the thousands of dwellings clinging to the sheer
 cliff-face of the island pinnacles. A common sport at
 Skal is Wave Riding. This sport consists of surfing on
-top of these gigantic waves in 2 metre length fragile
+top of these gigantic waves in 2 meter length fragile
 self-righting trimarans, using only the twin internal
 rudders to avoid crashing into the rocks surrounding
 the islands. Be warned, the islanders have a natural
@@ -1262,7 +1262,7 @@ Try Zhoam Steaks with a fresh Sketra salad.
 
 ```
 Immortality Bay. Where the Zhoam come to die.
-Zhoam are 12 metre long predatory shark-like
+Zhoam are 12 meter long predatory shark-like
 creatures that have earned themselves the nickname
 of Coven Fish due to their schools always consisting of
 13 adults. Zhoam are extremely vicious creatures,
@@ -1347,8 +1347,8 @@ is of considerable interest since they begin life as krill
 feeding on the carcasses of their parents. Growing and
 undergoing four moults the creatures crawl out of the
 seaweed and change into grubs. These grubs are the
-favourite food, not just of Scanian chef's, but also of
-the bhari snail and the 85 metre long grag fish. Almost
+favorite food, not just of Scanian chef's, but also of
+the bhari snail and the 85 meter long grag fish. Almost
 80% of the grubs fail to survive this period of their
 existence. After 3 months they crawl up to the
 underside of the fern and enter the chrysalis stage.
@@ -1360,12 +1360,12 @@ lack of legs they are unable to take off and drown,
 thereby providing food for their hatching offspring.
 
 **Atlantis** - First city of the Aquans. Atlantis is located at
-a depth of 600 metres and consists of thousands of
+a depth of 600 meters and consists of thousands of
 circular homes surrounded by forest. Most Aquan
 homes follow a certain pattern; several circular 3
 
 ```
-metre high walls without a roof which forms the main
+meter high walls without a roof which forms the main
 living area of the family, with deep caves carved
 underneath which are the main sleeping quarters.
 ```
@@ -1377,7 +1377,7 @@ Haurm planted around the sleeping caves to encourage
 a romantic mood.
 ```
 ```
-The Golden Spire is the cultural centre of Atlantis and
+The Golden Spire is the cultural center of Atlantis and
 is the Governmental home "under the sea". The Ghari
 reservation on the outskirts is the most famous aquatic
 zoological reserve in the Imperium and several species,
@@ -1597,7 +1597,7 @@ fins; A9 F0 S2.
 IMORTALITY BAY
 ```
 ```
-The bay is in reality the centre of an extinct volcano.
+The bay is in reality the center of an extinct volcano.
 The northern cliff-face collapsed-in several millennia
 ago. The surrounding sides protect the bay against the
 elements. The beach is composed of black volcanic ash
@@ -1733,7 +1733,7 @@ have escaped.
 To by-pass Scanian Protectorate boats:
 Difficulty, Off=Sensor Ops, Def=range, 3 min
 (confrontation)
-Referee: Use the most favourable sensor scan difficulty
+Referee: Use the most favorable sensor scan difficulty
 level from among the unit's UCP. Use the range from
 the sensing unit to the target unit as a negative DM.
 Optionally the character may use his Computer skill in
@@ -2368,7 +2368,7 @@ rival company.
 REFEREE’S INTRODUCTION
 
 The Gravatics Technologies Ltd (Gravatic's or GTL)
-“Tansui” grav speeder has been the centre of recent
+“Tansui” grav speeder has been the center of recent
 interest and speculation by the grav industry. The
 rumour mill that operates within the grav vehicle trade
 has begun to spread quiet words about a new high-tech
@@ -3064,12 +3064,12 @@ guides to sail them over the seaweed-bannered towers
 _of_ the city now encrusted with multi-hued corals and
 inhabited only with the silent denizens of the sea.) At
 the same time the continent of Yakor rose to within 2
-metres of the surface forming the massive seaweed
+meters of the surface forming the massive seaweed
 covered shallow sea. The volcanic mountains of Bhaki
-erupted burying the entire region under many metres
+erupted burying the entire region under many meters
 of grey volcanic dust. A whole new continent rose up
 out of the Glass Sea (so called because the waves
-rarely grow above 10 metres) and then sank again 32
+rarely grow above 10 meters) and then sank again 32
 years later. Its place is marked only by the dangerous
 shoals of White Water Pass. The surviving Khaarkhi fled
 and Gateway was once more uninhabited.
@@ -3094,7 +3094,7 @@ A VISITOR'S GUIDE
 **Highway** - The tower is the only one of its kind in the
 sector and acts both as a means of transport and as a
 massive solar still. The base of the tower is moored
-deep within the planetary crust 6 kilometres below
+deep within the planetary crust 6 kilometers below
 sea level at Hajaan (seabed is 1 km below sea level)
 
 ```
@@ -3103,23 +3103,23 @@ whole planet. The tower itself, which is a sheath of
 foamed plastisteel covering hundreds of
 monofilaments, is divided into two main sections; the
 Still which covers the tower surface to a depth of
-three metres. This siphons water in continually
+three meters. This siphons water in continually
 through the base of the tower and uses suction to
-keep the flow up the tower. Within the centre are the
+keep the flow up the tower. Within the center are the
 vertical grav-lifts which supplies transport to each of
 the orbital platforms. The main Aquan settlements
 are based around the siphon ducts (known as Deep 1
 to 6) and the tower itself has an entire settlement
 contained within the spine. The tower tapers from 15
-kilometres across at the base to 3 kilometres at sea
+kilometers across at the base to 3 kilometers at sea
 level... From here the tower becomes a mere 2 0 0
-metres across as it stretches to the next major
-settlement, at Sky. This platform is 500 metres across
-and 300 metres high and is based five kilometres
+meters across as it stretches to the next major
+settlement, at Sky. This platform is 500 meters across
+and 300 meters high and is based five kilometers
 above sea level. The view of the world from its glass
 bottomed floor is breathtaking. From here the tower
 is purely a siphon and transport system and tapers to
-a mere 100 metre diameter. This continues to the
+a mere 100 meter diameter. This continues to the
 first orbital platform, Highway One at a distance of
 2 0 , 0 0 0 km up. Here the tower (known as the
 Highway) has been extended by using derelict Argian
@@ -3150,7 +3150,7 @@ stargate. At 55,050 km the fuel depot and Highway
 port is reached. The end of the tower is tethered to a
 hollowed out asteroid known as Anchor's End situated
 another 200 km out. As a result of the tower the sea
-level on Gateway has gone down by 78 metres since
+level on Gateway has gone down by 78 meters since
 the tower was opened and any ship visiting can obtain
 free oxygen and refined fuel courtesy of the planet.
 Each Highway city revolves round the tower to provide
@@ -3194,11 +3194,11 @@ dream; the hedonistic pleasures of the Highway
 (particularly Highway Three) and the pure, unspoiled
 paradise of the surface. The weather conditions are
 extreme with severe tidal conditions, especially round
-the equatorial regions where 160 metre waves are
+the equatorial regions where 160 meter waves are
 common. Despite this there are several places worth
 visiting. The ring of undersea volcanic mountains
 illuminates the sea around the Bhaki archipelago. The
-islands themselves are covered in several metres of
+islands themselves are covered in several meters of
 grey ash and are totally without life. Visit the
 excavated Khaarkhi settlements on Bhaki Prime. The
 islands themselves are still active volcanoes and care
@@ -3209,7 +3209,7 @@ can grow to a length of 30 cm. Visit Hajaan Major to
 the North of the Glass Sea, the only occupied
 landmass. Here the living area has been extended to
 Scanian houseboat colonies which exist, sheltered
-within the eight 25 kilometre lagoons made by the
+within the eight 25 kilometer lagoons made by the
 
 ```
 massive tidal ducks used to control the tides around
@@ -3224,26 +3224,26 @@ Rhula and dive amidst the sunken streets.
 ```
 ```
 Gateway is a naturalist's dream and wildlife includes
-the 900 metre length Hades worm and the aquatic
+the 900 meter length Hades worm and the aquatic
 Seachimp. Because of the potential damage to existing
 ecologies by the constant draining of the ocean,
 several massive reservations have been built
 surrounded by plastisteel walls which jut out of the
-water by 100 metres. These reservations are up to 100
-kilometres across and show the oceans of Gateway as
+water by 100 meters. These reservations are up to 100
+kilometers across and show the oceans of Gateway as
 they once were. The rest of the ocean has been
 extensively cultivated and the planet is self-sufficient
 in Aquaculture. Animals worth seeing are the polar
 Hades worms. These creatures dwell near undersea
 volcanoes absorbing heat through their skin. They are
-about 50 metres diameter and covered in hair-like
+about 50 meters diameter and covered in hair-like
 spines filled with an extremely poisonous toxin. The
 mouth has up to 18 sets of teeth which curve inwards
 thus preventing a prey from escaping once it’s been
 caught. The creatures are extremely fast and have
 been recorded at speeds of 13 kph when chasing prey.
 The Seachimp is an aquatic mermammal which grows
-to a length of 1 metre from head to tail. The head is
+to a length of 1 meter from head to tail. The head is
 remarkably human-like and the body covered in fine
 spine-like scales which taper off towards the fish tail.
 The creatures have a limited intelligence and can be
@@ -3456,8 +3456,8 @@ They therefore become fully developed. This fact is of
 immense importance. When we apply the TocrediV-
 Oaiylrieatow-Anderson equations and criteria to these
 figures we get some very interesting results; whereas
-on wet worlds 30 metre waves are the exception, on
-water worlds 50 metre waves become commonplace.
+on wet worlds 30 meter waves are the exception, on
+water worlds 50 meter waves become commonplace.
 
 “Now the Gateway Tower, because of its extra-V
 atmospheric nature, had to be designed to full Imperial
@@ -3473,7 +3473,7 @@ the location of the tower, on the equator, it would be
 vulnerable to hurricanes. Thus we could expect to
 regularly see waves as strong as 100 kph. By applying
 the T-O-A equations we can see that the Tower would
-regularly encounter waves of 150 metres. As an aside,
+regularly encounter waves of 150 meters. As an aside,
 were it not for the world's inhabitants being of Scanian
 origin and thus immune to motion sickness, these
 waves would prevent any use of surface transport
@@ -3502,8 +3502,8 @@ generate tidal waves, or more correctly, tsunami.
 These are products of the initial shock wave emitted
 by the erupting volcano. The size of tsunami can reach
 mythological proportions; the largest on record was
-1,000 metres high and had already travelled a distance
-of 1,500 km! Gateway, itself, has seen 600 metre
+1,000 meters high and had already travelled a distance
+of 1,500 km! Gateway, itself, has seen 600 meter
 tsunami. No wonder the Solomani legend of Atlantis
 tell of a continent disappearing overnight.
 
@@ -3577,7 +3577,7 @@ output fusion plant to charge a Jump net has an
 excellent pedigree. Adventure 1, _Annic Nova_ discusses
 a craft fitted with a device called a “solar collector”.
 However, the concept seems to have fallen into
-disfavour - in fact, I have it on good authority that
+disfavor - in fact, I have it on good authority that
 Marc regards _Annic Nova_ as “unofficial”.
 
 So, you may well come across arm-waving arguments
@@ -3696,18 +3696,18 @@ Carnot efficiency between these two reservoirs: 0.996.
 Assume 95 percent of ideal (Carnot) efficiency: 0.9462.
 
 Thus, useful energy per unit area = 1400 x 0.99 x
-0.9462 = 1311 W/sq. metre.
+0.9462 = 1311 W/sq. meter.
 
 To generate 2.43 million MW, we need 1.85 x 109 sq.
-metres of reflector. A typical sail design would be an
-annulus, outer radius 24.5 kilometres, inner radius 3
-kilometres. Naturally. the JumpSail is also an efficient
+meters of reflector. A typical sail design would be an
+annulus, outer radius 24.5 kilometers, inner radius 3
+kilometers. Naturally. the JumpSail is also an efficient
 solar sail, and would be used for maneuvering in
 realspace prior to Jump.
 
 Neomylar (produced by zero-G vacuum deposition, and
 50 times lighter than contemporary mylar) weighs 0.1
-grams per square metre. The JumpSail for our standard
+grams per square meter. The JumpSail for our standard
 ship would weigh 185 tons, plus probably 25 tons for
 monofilament cabling. Assuming highly efficient
 packing techniques, the Sail could probably displace
@@ -3801,7 +3801,7 @@ there is a fundamental limit to the output of solar cells
 - namely, the amount of light energy failing on a unit
 
 
-area (0.0014 MW per square metre, for one sol at 1
+area (0.0014 MW per square meter, for one sol at 1
 A.U.). Contemporary gallium arsenide solar cells are
 about 40% efficient. The TL12 solar cells given produce
 _fifty-eight times_ more energy than they receive. This
@@ -3809,13 +3809,13 @@ is clearly impossible.
 
 However, we have to use the figures we are given. To
 generate 243 million MW using TL12 solar cells, we
-need 30 million square metres of solar cells. The
+need 30 million square meters of solar cells. The
 StarGate illustrated would need six solar arrays, each
-one kilometre by five kilometres. The solar cells alone
+one kilometer by five kilometers. The solar cells alone
 would cost MCr.60,000 - however, I feel that the price
 figures for solar cells are outrageously high. Taking
 into account mass production in orbit, a more
-reasonable figure would be Cr.100 per square metre,
+reasonable figure would be Cr.100 per square meter,
 bringing the cost down to MCr.3,000 for the solar cells,
 or probably MCr.5,000 including the structure and cost
 of assembly. For this, we get a facility able to launch
@@ -3911,7 +3911,7 @@ The PCs meet their patron, and learn of their task.
 ```
 ```
 Scene: The Thalassa, an open-air restaurant set into
-the side of the Highway, several hundred metres
+the side of the Highway, several hundred meters
 ```
 ### GATE TO HADESGATE TO HADESGATE TO HADESGATE TO HADES
 
@@ -4106,7 +4106,7 @@ the ‘lifter breaks through a low cloud bank. Drizzle
 mists the ‘lifter's forward screen as it loses altitude.
 Glancing at the nav displays, you suddenly gain a sense
 of the majestic scale of Gateway's oceans The ‘ripples’
-you can see below are huge waves, fully 40 metres
+you can see below are huge waves, fully 40 meters
 high!
 
 The pilot leans across and grins; “ETA at Pallisar Circle
@@ -4126,9 +4126,9 @@ declaring a Cautious attempt - otherwise, implement a
 ```
 The ‘lifter comes to a hover over Pallisar Circle, a
 calm-water lagoon used as a repair and replenishment
-centre for vessels serving the north polar platforms.
+center for vessels serving the north polar platforms.
 The PCs can see waves breaking over the opposite
-seawall (fully sixty metres high), which brings home to
+seawall (fully sixty meters high), which brings home to
 them the violence of Gateway's climate. The ‘lifter
 pilot signals ready to ‘unlatch’.
 ```
@@ -4336,13 +4336,13 @@ water, like a shock wave. There's something inside
 it.... Can't make it cut clearly.. Very large. Range...
 ```
 
-Uh... three point four kilometres.. speed twelve point
+Uh... three point four kilometers.. speed twelve point
 five klicks per hour, directly towards us!”. The
 navigator looks at you anxiously.
 
 Action: It couldn't possibly.. but it is! A Hades Worn, -
 only a small one mind, a little over six hundred and
-sixty five metres long and massing close on eighteen
+sixty five meters long and massing close on eighteen
 hundred tonnes. The PCs have sixteen and a halt
 minutes to decide to do something **,** before their cute
 little submarine gives it a mild case of indigestion.
@@ -4565,7 +4565,7 @@ stage lasting 22 Local days every local year. At
 this time the female becomes agitated and
 extremely active. The anal fur changes to a dark
 blue colour as a indication of the females current
-readiness. They will endeavour to present
+readiness. They will endeavor to present
 themselves to any adult male at every
 opportunity and are extremely promiscuous.
 Males are strongly attracted to the females
@@ -4717,7 +4717,7 @@ shy yet inquisitive race
 much given to mimicry.
 They appear to have
 primitive rites which
-centre around the 250+
+center around the 250+
 “temples” spread
 throughout the forest. In
 fact out of 342 known
@@ -4810,7 +4810,7 @@ Jala'Lak carries an automatic death penalty.
 
 Duchy Capital: Argi
 
-Argi subsector is an important industrial centre, and communications link - the Dagudashaag
+Argi subsector is an important industrial center, and communications link - the Dagudashaag
 Main covers the trailward half of the region, and the waystation at Lenashuuk/Argi handles a
 great deal of traffic between Dagudashaag and Zarushagar. All of the more highly-populated sys-
 tems in the trailward region were settled during the rule of the First Imperium. The Dagudashaag
@@ -4868,7 +4868,7 @@ world. The planet’s currently best known for it’s
 settlement by several religions including the
 Scanians, Vargr Church of the Chosen Ones, The
 Church of the Stellar Divinity and the Khaarkhi Cult
-who have established a centre for religious discussion
+who have established a center for religious discussion
 on the planet.
 
 **Adakhem 1134 C434214-D Lo Ni 103 Im M5 V**
@@ -5121,7 +5121,7 @@ First Prelate who repeats his words for all to hear.
 This system was apparently established to allow
 decisions to be made on an objective basis and
 protects the ruler from both foes and would-be
-favourites. The cities are famous for being made of
+favorites. The cities are famous for being made of
 large granite blocks cut exactly to shape and size so
 that not even a needle can be inserted between the
 un-cemented blocks. Gaesh exports Greum beet
@@ -5876,7 +5876,7 @@ secure Ikabi.
 ```
 The year had seen a massive reversal in fortunes for
 Argi. The massed Ilelish forces had removed the
-early optimism. Several worlds were now under di-
+early optimizm. Several worlds were now under di-
 rect Ilelish rule, and many others had sworn alle-
 giance and neutrality in the conflict rather than be
 ‘persuaded’ by the Loyal Fleet.
@@ -6723,7 +6723,7 @@ investigation. To everyone’s disappointment, the
 artifacts were found to be of First Imperium vintage.
 Everyone, that is, except the mine installation’s
 management, which had happily been selling off 100-
-metre-square plots of unproductive land at grossly-
+meter-square plots of unproductive land at grossly-
 inflated prices to prospective artefact hunters...
 ```
 ```
@@ -6794,7 +6794,7 @@ between 0412 and Unishpiir (0311). The system of
 Diishalum has relatively little influence within the
 subsector - the region is effectively overshadowed by
 the more powerful areas of Mimu and Ushra. In recent
-years, the subsector’s economic centre of gravity has
+years, the subsector’s economic center of gravity has
 shifted to the Upag/Unishpiir region, as these worlds
 have prospered under increased trade with the
 ConSentiency. The subsector is influenced significantly
@@ -7335,7 +7335,7 @@ having several active Solomani Parties.
 Subsector N: ARGI
 Duchy Capital - Argi (1431 A330ACC-F)
 
-Argi subsector is an important industrial centre, and
+Argi subsector is an important industrial center, and
 communications link - the Dagudashaag Main covers
 the trailward half of the region, and the waystation at
 Lenashuuk/Argi handles a great deal of traffic between

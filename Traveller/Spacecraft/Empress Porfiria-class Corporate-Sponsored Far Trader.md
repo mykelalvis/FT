@@ -2,7 +2,7 @@ CORPORATE-SPONSORED FAR TRADER
 
 Empress Porfiria-class Corporate-Sponsored Far Trader
 
-Corporate sponsors for ships making [[the Annililik Run]] want results. The Empress Porfiria-class far trader has been optimised for efficient operation during the event. Its two Gs of thrust enable it to get from the 100-diameter limit to starports or gas giants considerably faster than most ships. This design sacrifices the low berths and air/raft that usually come standard in order to increase available cargo space. One of its two turrets is equipped with an intense-focus laser drill for faster acquisition of ice chunks from comets and planetoids, enabling the ship to perform wilderness refuelling even when a gas giant is not present. Variants of the class sometimes feature a high or luxury stateroom. Fame and fortune have their privileges after all.
+Corporate sponsors for ships making [[the Annililik Run]] want results. The Empress Porfiria-class far trader has been optimized for efficient operation during the event. Its two Gs of thrust enable it to get from the 100-diameter limit to starports or gas giants considerably faster than most ships. This design sacrifices the low berths and air/raft that usually come standard in order to increase available cargo space. One of its two turrets is equipped with an intense-focus laser drill for faster acquisition of ice chunks from comets and planetoids, enabling the ship to perform wilderness refuelling even when a gas giant is not present. Variants of the class sometimes feature a high or luxury stateroom. Fame and fortune have their privileges after all.
 
 ```
 

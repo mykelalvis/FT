@@ -1053,7 +1053,7 @@ reward those who expose Dr. Nafir as a fraud and ruin his reputation.
 Leight-Myer knows that Nafir is reckless in his experiments and may
 be in possession of knowledge or equipment that is dangerous in
 his hands, which must be returned or destroyed. Destroying his ship
-in a raid would be unsavoury, as Nafir tends to travel with dozens of
+in a raid would be unsavory, as Nafir tends to travel with dozens of
 scientists and Dr. Leitz-Myer does not want blood on her hands.
 
 There are maybe a dozen other scientists or researcher organizations,
@@ -1119,7 +1119,7 @@ all drives and the power plant. The staff lounge is cramped compared
 to the lounge deck, and is notorious for its small bridge, barely offering
 enough room for the four workstations of the pilot, astrogator and two
 gunners, the engineer serving one deck lower. The bridge also has
-the unusual feature of being off centre to starboard while also hosting
+the unusual feature of being off center to starboard while also hosting
 access to the dorsal turret.
 
 One feature genuinely liked by the crew of these yachts is their
@@ -1715,7 +1715,7 @@ Ithklur have paired infrared sensory organs where human nostrils are
 located. This gives them a ‘heat sense’, which operates well in all but total
 darkness. These organs alter their perception of colour, enabling them
 to perceive a broader range than humans and detect subtle temperature
-differences at a range of up to 50 metres. It can be used to detect living
+differences at a range of up to 50 meters. It can be used to detect living
 beings, individual heat maps and changes in temperature. They have highly
 sensitive olfactory senses as well, with nostrils located at each temple.
 
@@ -2323,15 +2323,15 @@ ships vary as much as any class of free traders, there are enough
 similarities, enough tried and true solutions, to group them into a
 single class – the Krungha.
 
-A Krungha is a vast cylinder, two kilometres in diameter and length,
+A Krungha is a vast cylinder, two kilometers in diameter and length,
 spun to provide 1G on its lowest deck with slowly decreasing gravity
-as one approaches the centre. The liveable space, comprising the
+as one approaches the center. The liveable space, comprising the
 outer three quarters of the ship’s volume, is arranged into 10 concentric
-rings running the length of the cylinder with 50 metre separations the
-outermost ring 1,000-metre radius, the next ring having a 950-metre
-radius and so on down to a 550-metre radius. Each ring consists of
-40 metres of open air and 10 metres of structure. There is a varying
-thickness, up to a metre, of biosphere obscuring the ceiling, which is
+rings running the length of the cylinder with 50 meter separations the
+outermost ring 1,000-meter radius, the next ring having a 950-meter
+radius and so on down to a 550-meter radius. Each ring consists of
+40 meters of open air and 10 meters of structure. There is a varying
+thickness, up to a meter, of biosphere obscuring the ceiling, which is
 sometimes further obscured by misty clouds. This results in a giant
 curved space that fulfils the psychological needs of being ‘outside’,
 even if the horizon curves up instead of down and the residents
@@ -2347,12 +2347,12 @@ but the essentials are known. The key is that there is a horizon to each
 side, where if a K’kree goes, there will be yet more land beyond the
 former horizon, with a new horizon that one can travel to in an endless
 cycle. In the other lateral direction of travel, the K’kree can see there
-is a wall to either side but the two kilometres between the walls makes
+is a wall to either side but the two kilometers between the walls makes
 them less confining. K’kree psychologists are certain the same effect
 could be achieved with smaller dimensions but have little appetite to
 explore precise lower limits.
 
-Portions of the 600- and 550-metre radius decks are set aside for
+Portions of the 600- and 550-meter radius decks are set aside for
 cargo storage. Passages through this section are somewhat cramped.
 It is common to train young K’kree here, letting them feel their genetic
 claustrophobia and learn to fight it. This is also the traditional location
@@ -2364,15 +2364,15 @@ of ores their ark shall mine and which goods it shall manufacture, not
 to mention where these goods are eventually sold off, usually to the
 G’naak whose space they are passing through.
 
-There are six more rings, from 500- to 250-metre radius, which contain
+There are six more rings, from 500- to 250-meter radius, which contain
 the majority of the ark’s systems, primarily the fuel tanks. The passages
 here are cramped and meant for robot access. Ramps and elevators
-give access from the 550-metre radius deck to the 300, where a
+give access from the 550-meter radius deck to the 300, where a
 concourse gives access to the innermost ring the docking facility.
 
 The centremost section of a Krungha is a series of horseshoe-
 shaped docking slots that can rotate independently of the ark, with a
-150-metre-radius circular hole creating a tunnel through the ark and
+150-meter-radius circular hole creating a tunnel through the ark and
 a section removed to one side ending in a telescopic landing pad.
 When a ship wishes to dock or the ark wishes to capture an asteroid,
 the incoming object matches velocity (small craft tenders adjust an
@@ -2391,7 +2391,7 @@ The asteroid processing facilities are the economic heart of a
 Krungha. The ark sails through the black looking for asteroids,
 assisted by a fleet of sensor and asteroid wrangling drones. When
 a promising rock is found that will fit in the tunnel (cross section no
-more than 300 metres across), either wrangler drones will coax the
+more than 300 meters across), either wrangler drones will coax the
 asteroid in or the Krungha sets course and lets the asteroid float
 in until it can be captured, essentially devouring it. Every bit of the
 asteroid is used if possible. Even the slag is ground up and used
@@ -2406,7 +2406,7 @@ Krunghas, these factories have been upgraded to much higher Tech
 Levels than the rest of the ark, which is kept to a relatively low Tech
 Level for ease of maintenance.
 
-Among the habitable outer decks, large ramps (typically 85–90 metres
+Among the habitable outer decks, large ramps (typically 85–90 meters
 long) are the primary means of inter-deck access, with wide elevators
 (on nearly any other ships these would be cargo elevators) alongside
 them. On the outermost deck, the otherwise-less-usable underside
@@ -2454,9 +2454,9 @@ If there is a single point of failure in the design, it is the lone bridge.
 Ruling a population of millions somewhat more diverse in thought
 than those in the Two Thousand Worlds, the Lord-of-Steppelords who
 runs the station needs a symbol of absolute, uncontested control and
-the bridge is it. Buried in the 500-metre radius deck, the only access
+the bridge is it. Buried in the 500-meter radius deck, the only access
 is through the ‘sub-bridge’, a field of remote control stations on the
-550-metre radius deck arranged in a defensive formation around the
+550-meter radius deck arranged in a defensive formation around the
 ramp up to the bridge, with more stations positioned to guard the top of
 the ramp. The sub-bridge allows control of a portion of the vast array of
 small craft a Krungha will deploy to survey asteroids and control space
@@ -2811,14 +2811,14 @@ Docking Tunnel Outer Hull
 
 The K’kree who populate these arks are collectively named for the
 arks the Krungha K’kree. Historians generally agree that arks were
-named first, then clans shed their former names in favour of ‘Krungha’
+named first, then clans shed their former names in favor of ‘Krungha’
 as a symbolic part of their exile. It is possible that the very first clan to
 use these arks (and presumably designed them) was already named
 Krungha but relevant documentation appears to have been deliberately
 destroyed shortly after the exile began. Subsequent owners are either
 small enough clans to be adopted onto an existing Krungha or will
 have one constructed for them by existing Krunghas. Either requires
-extreme degrees of connections, resources and favours, such that this
+extreme degrees of connections, resources and favors, such that this
 only happens when a Steppelord or Lord-of-Steppelords is being exiled,
 which even then is rare.
 
@@ -3092,7 +3092,7 @@ answer for him.
 ```
 1D Encounter
 1 The Imperial Interstellar Scout Service wants to establish a
-base on Blinderby’s planet. He is in favour but the villagers
+base on Blinderby’s planet. He is in favor but the villagers
 are worried that the rough-and-tumble scouts will corrupt their
 children and convince them to leave home.
 2 A visiting ship brought an invasive plant species that is growing
@@ -5085,7 +5085,7 @@ Although associations and unions of starship crew are common
 throughout Solomani history, the origins of the SFSCWU are generally
 held to have started with efforts to organise starship labour in the
 Solomani Rim. This was done in the face of the increasingly pro-
-megacorp policies favoured by Emperor Zhakirov. The union was
+megacorp policies favored by Emperor Zhakirov. The union was
 resisted by the megacorps, as well as the larger sector-wide corporations
 operating in the Rim, resulting in the unions’ increased support of the
 nascent Solomani separatist movement in the 8th and 9th centuries.
@@ -5248,7 +5248,7 @@ assuming they remain undetected in their efforts.
 
 The headquarters is in a 50-storey office tower in Uthevagogha City
 with shared tenancy. Ongozzaen Arms occupies the top 10 floors,
-with a data centre located on floor 47, although access to the required
+with a data center located on floor 47, although access to the required
 information should be available from any terminal within the office
 space. Electromagnetic shielding prevents remote access to any of the
 secure terminals.
@@ -5260,7 +5260,7 @@ use the elevators, a visitor must be escorted or pass through a TL12
 biometric scan. Spoofing the elevator system scan requires direct
 access to the panel and a successful Very Difficult (12+) Electronics
 (computers) check (1D rounds, INT). Success will generate a false
-positive match. The scanner is optimised to recognize Vargr, granting
+positive match. The scanner is optimized to recognize Vargr, granting
 DM+2 to attempts for non-Vargr to pass. The elevator security system
 could be remotely accessed by a hacker but the attempt becomes
 Formidable (14+). Any failure will trigger an alert to law enforcement,
@@ -5345,7 +5345,7 @@ aged Vargr with white streaks in his otherwise black fur. He
 maintains a dignified air in his speech but tends to use his
 hands to emphasise points. He is well-dressed to the point of
 flamboyance and has a typical Vargr love of bright colours,
-favouring shades of green, yellow and pink, often in paisley
+favoring shades of green, yellow and pink, often in paisley
 or floral patterns. Uraz walks with a distinct limp, rendering
 him unable to run for any distance, for which he blames an
 unspecified ‘boating accident’ in his youth. One ear is clearly
@@ -5371,7 +5371,7 @@ into violence as failure and is determined to reach a peaceful
 resolution even if it occurs through intimidation, although his
 threats will always be indirect.
 
-Uraz loves to be the centre of attention but strives to bring either
+Uraz loves to be the center of attention but strives to bring either
 his clients or his counterparts into the spotlight with him. At social
 gatherings he is always working the crowd; introducing people to
 each other, praising their accomplishments, although often this is
@@ -5489,7 +5489,7 @@ of the planet. Due to its inability to fly it has evolved to be a trapper,
 subsisting mainly off of grubs and other insects that larger airborne
 creatures tend to ignore.
 
-Measuring roughly 11–16 centimetres in length, with mottled brown skin
+Measuring roughly 11–16 centimeters in length, with mottled brown skin
 and quills, it has few natural predators among the airborne creatures
 inhabiting the skies above. With a miniscule average weight of 0.4 kg it
 is able to maneuver with great skill, mostly due to its eight legs. These
@@ -5497,7 +5497,7 @@ allow it to gain traction within the trees it calls home, skittering around
 at a surprising speed.
 
 Thanks to their nocturnal activity the harlari developed a form of infra-
-red vision that allows them to see up to 20 metres. They have vision
+red vision that allows them to see up to 20 meters. They have vision
 enough to protect their nests against threats from above, as often they
 will be found in only small family groups consisting of a female and
 her two or three young with only the adult females’ quills as effective
@@ -5505,7 +5505,7 @@ defence. Making their nests in the larger boughs of the trees they are
 almost impossible to spot from above at night, although would be visi-
 ble from underneath in the daytime due to the size of the nest.
 
-With a back coated in quills of roughly three centimetres in length, the
+With a back coated in quills of roughly three centimeters in length, the
 harlari makes a fierce companion for any Traveller, should they be able
 to befriend one. The quill tips are coated in poison, perhaps an evolu-
 tionary result of the near extinction of the species. With barbed ends,
@@ -5563,7 +5563,7 @@ advertised, is made known. Hopefully, if the 208th fleet is ever recalled,
 this will deter any potential attackers.
 
 IDERATI SPACE DEFENCE SUBMARINE
-This compact, 50x7x12 metre, deep dive submarine is the
+This compact, 50x7x12 meter, deep dive submarine is the
 cornerstone of the Iderati space defence system. For a rich,
 environmentally conscious – some would say obsessed – planet
 covered by uninterrupted and deep oceans, it was easier to deploy
@@ -5579,16 +5579,16 @@ this reason, the bridge and battle stations are outfitted with gravity plates.
 For close defence the submarine has two torpedo batteries on pop-up
 hardpoints, capable of launching four torpedoes at a time each, as well
 as an anti-torpedo system based on gauss technology with specialized
-projectiles optimised for underwater use.
+projectiles optimized for underwater use.
 
 The underwater sensor suite is able to reliably detect stealth
-submersibles at up to 2,500 kilometres and often used to gather
+submersibles at up to 2,500 kilometers and often used to gather
 scientific data for the onboard laboratory. Above water sensors are
 supported by drones, capable of relaying data from the surface to the
 submarine hidden deep below, while relay options include optical cord
 
 or sonic commlink. The sensors themselves can detect targets up to
-5,000 kilometres away, although the meson bays still need input from
+5,000 kilometers away, although the meson bays still need input from
 external sources to track targets on the opposite side of the world.
 
 During wartime the submarine can stay in the deep for up to 400 days,
@@ -5621,7 +5621,7 @@ hangar space as possible, usually serving as a support craft on other
 vessels. With tight dimensions, it can be stacked efficiently.
 
 The craft uses fusion powered water jets for propulsion, achieving
-a respectable speed of 200 kilometres per hour in dense fluid. Only
+a respectable speed of 200 kilometers per hour in dense fluid. Only
 lightly armored and armed with torpedoes, with a gauss cannon for
 above surface offensive capabilities, the craft is also protected with a
 gauss-based anti-missile system and decoy dispenser; the craft is not
@@ -5842,34 +5842,34 @@ TRADE CLASSIFICATION
 Each world has trade codes that make it a more or less sought-after
 home, with higher or lower standards for incoming residents. The
 following modifiers are used
-● Agricultural DM+1
-● Barren, Desert, Industrial DM+2
-● Poor DM+4
-● Garden, Rich, Vacuum DM-4
+- Agricultural DM+1
+- Barren, Desert, Industrial DM+2
+- Poor DM+4
+- Garden, Rich, Vacuum DM-4
 
 SYSTEM MODIFIERS
 The following codes of the planetary profile apply the following modifiers
-● Population 4- DM-2
-● Population 9+ DM+1
-● Law Level 3- DM+1
-● Law Level 8+ DM-2
-● Government 2–4 DM-1
-● Government 11+ DM+1
+- Population 4- DM-2
+- Population 9+ DM+1
+- Law Level 3- DM+1
+- Law Level 8+ DM-2
+- Government 2–4 DM-1
+- Government 11+ DM+1
 
 TRAVELLER APPLICATION
 Finally the Traveller themselves may be more or less appealing to the
 government of their new home
-● EDU & SOC characteristic DMs
-● MCr10+ in hand DM+1
-● MCr100+ in hand DM+3
-● Skills DM+1 for each skill level of 3+
-● Career Rank 4-5 DM+1
-● Career Rank 6 DM+2
-● Prisoner DM-4 per term
-● Wanderer DM-2 per term
-● Ally of Current Citizen DM+1
-● Enemy of Current Citizen DM-1
-● Advocate + skill level
+- EDU & SOC characteristic DMs
+- MCr10+ in hand DM+1
+- MCr100+ in hand DM+3
+- Skills DM+1 for each skill level of 3+
+- Career Rank 4-5 DM+1
+- Career Rank 6 DM+2
+- Prisoner DM-4 per term
+- Wanderer DM-2 per term
+- Ally of Current Citizen DM+1
+- Enemy of Current Citizen DM-1
+- Advocate + skill level
 
 #### PatronPatron
 
@@ -6001,8 +6001,8 @@ and guaranteed 10 local year sentence for survivors of the firefight.
 If Frog and Sheen can be extracted, they need to leave the city. They
 had planned to flee to the Whitestar Highport in orbit as the Whitestar
 clan is much more tolerant of hybrids and likely to accept them. Rupert
-Down is only one or two kilometres from the family residences and only
-100 metres from Like It Never Happened and Not a Turnip. Departure
+Down is only one or two kilometers from the family residences and only
+100 meters from Like It Never Happened and Not a Turnip. Departure
 requires an exit visa. These are usually automatically granted but
 bureaucracy and background checks require 1D local days, during
 which time the families will be searching for them. Once the visas are
@@ -6123,7 +6123,7 @@ managed to triangulate its location and discovered a signature coming
 from just within the Black Zone. After jury-rigging a surveillance drone
 and sending it in, after a few days I got some low-quality recordings
 of what looked like a miniature Saturn but with a belt made up of
-destroyed ships. It was not a planet at the centre, though, it was
+destroyed ships. It was not a planet at the center, though, it was
 something else. It was moving, writhing...’
 
 Tokashi neglected to elaborate on his findings and in a press release
@@ -6159,7 +6159,7 @@ Although far from going viral, there are pockets of ambitious salvagers
 and rag-tag spacers who have expressed interest in travelling to the
 starship graveyard. Amongst the remains of these ancient military and
 civilian vessels, brave treasure hunters may discover their fortune, or
-certain doom at the hands of whatever makes its home at the centre
+certain doom at the hands of whatever makes its home at the center
 of the belt. Whilst more sceptical minds disregard Tokashi’s claims
 that the asteroid is a living entity, some are more open to the idea of
 an eldritch horror.

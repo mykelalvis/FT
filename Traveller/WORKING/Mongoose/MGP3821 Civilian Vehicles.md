@@ -174,7 +174,7 @@ into the hull as required, which can include weapons, sensors,
 communications equipment, crew facilities and cargo space.
 
 Each component built into a vehicle takes up a certain amount
-of space. The unit used in this design system is the cubic metre
+of space. The unit used in this design system is the cubic meter
 (M^3 ). A vehicle cannot carry more than its internal volume
 allows, unless it is an open structure with items piled up on top
 or hanging out of the sides such as motorcycles, air/rafts and
@@ -261,7 +261,7 @@ remains as a fractional number so no rounding is required.
 VVEHICLEEHICLE D DESIGNESIGN
 
 STEP ONE: CAPACITY
-Capacity is measured in cubic metres (abbreviated M^3 hereafter).
+Capacity is measured in cubic meters (abbreviated M^3 hereafter).
 The shape taken by this volume is not relevant here. For large
 components, the shape will be dictated by the shape of the
 object. Smaller components or systems made up of many small
@@ -3743,7 +3743,7 @@ AIRCRAFT
 
 **AIRPLANE**
 The fi rst aircraft to be used on most worlds are small single winged vehicles powered by a propeller. For the purposes of game
-mechanics, there is no difference between monoplanes and biplanes; early designs tend to favour biplanes to increase the vehicle’s
+mechanics, there is no difference between monoplanes and biplanes; early designs tend to favor biplanes to increase the vehicle’s
 structure, but as technology improves the additional wing is unnecessary and monoplanes become commonplace.
 
 Airplane (TL 4) M^3 Mass (kg) Cost (Cr.)

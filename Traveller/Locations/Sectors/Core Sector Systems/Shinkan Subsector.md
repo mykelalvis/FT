@@ -9,7 +9,7 @@ The flow of trade from neighboring Fornast and Antares passes into the Core thro
 
 The sector-wide Achenaar Antilles line, which dominates shipping in just about every other subsector of the Core, has found it difficult to penetrate the byzantine markets of Shinkan. Their efforts to establish a regional headquarters at Dureija have met with one disaster after another. The regional director of the corporation has accused the Triad of sabotage. The powerful trade line has been lobbying the Imperial bureaucracy for assistance but so far they have received little help. It seems that the Imperium does not want to rock the boat in Shinkan, whether or not the subsector’s successes have been achieved by questionable means.
 
-The bulk of the Imperial Navy’s 76th fleet is headquartered at Sekwon with squadrons stationed throughout the subsector. The Naval Base on Iidsha includes a training facility and operational centre for Imperial Naval Intelligence. While the INI are allegedly there to monitor incoming traffic from Antares and Fornast, they are presumably also keeping a watchful eye on the Triad to make sure that their problems with one another do not boil over into something more serious.
+The bulk of the Imperial Navy’s 76th fleet is headquartered at Sekwon with squadrons stationed throughout the subsector. The Naval Base on Iidsha includes a training facility and operational center for Imperial Naval Intelligence. While the INI are allegedly there to monitor incoming traffic from Antares and Fornast, they are presumably also keeping a watchful eye on the Triad to make sure that their problems with one another do not boil over into something more serious.
 
 ```
 **Name Location Bases Statistics Trade Codes Travel Code Gas Giants**

@@ -112,7 +112,7 @@ large enough to go toe-to-toe with better armed ships. Destroyers
 ## AUTOMATED ATTACK CRAFT
 
 A light and fast fighter, the automated attack craft is an armored flying wing with a set of gun mountings attached to an intelligent
-computer. The AAC is capable of being programmed to fulfil any mission required of it. It is a favourite of planetary navies which, for
+computer. The AAC is capable of being programmed to fulfil any mission required of it. It is a favorite of planetary navies which, for
 whatever reason, are unable to produce their own pilots.
 
 Assault FighterAssault Fighter TonsTons Price (MCr)Price (MCr)
@@ -173,7 +173,7 @@ Total Tonnage & Cost 19.45 30.
 
 Large for a fighter, but expensive and useless in a space engagement; the _Bombardier_ ground attack fighter provides close air support for
 troops landing on an enemy world. It is atmospheric capable and equipped with defensive measures to survive heavy ground based fire. It
-is capable of saturating several square kilometres with its sizeable payload of explosive projectiles before needing to return to its carrier for
+is capable of saturating several square kilometers with its sizeable payload of explosive projectiles before needing to return to its carrier for
 refuelling and rearming.
 
 Ground Attack FighterGround Attack Fighter TonsTons Price (MCr)Price (MCr)
@@ -355,7 +355,7 @@ Total Tonnage & Cost 399.825 297.
 #### AGASHAAM-CLASS DESTROYER
 
 The _Agashaam_ class was rushed into the Imperial order of battle when it was originally produced, with many of its systems untested. However
-these ships proved to be reliable and soon became a favourite of the men who served upon them. These ships are fast, agile and used in
+these ships proved to be reliable and soon became a favorite of the men who served upon them. These ships are fast, agile and used in
 squadrons of ten to twenty ships, overwhelming enemy vessels of larger size through numbers and concentration of fire-power.
 
 Agashaam DestroyerAgashaam Destroyer TonsTons Price (MCr)Price (MCr)
@@ -2254,7 +2254,7 @@ Total Tonnage & Cost 199,910 134,271.828
 
 #### IMPERIAL DREADNOUGHT (PLANKWELL-CLASS)
 
-The _Plankwell_ dreadnought is a battleship designed to hold the centre of a battleline against several enemy ships, serving as the core of
+The _Plankwell_ dreadnought is a battleship designed to hold the center of a battleline against several enemy ships, serving as the core of
 a major task force. The largely component-based production methods used to build these dreadnoughts allows for a diverse armament
 spread and makes best use of the Imperium’s different planetary resources. For example, much of the ship can be built at TL13 or lower,
 allowing repairs to be made at more facilities, with high technology components limited to the main spinal mount, some secondary

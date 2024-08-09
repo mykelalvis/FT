@@ -21,7 +21,7 @@ This campaign starts on [[Regina]], in the [[Regina Subsector|Regina Subsector]]
 
 ## UNCLE VLEN BACKETT
 
-Some people are only at home when travelling and Vlen is one of these restless souls. He might visit his homeworld of Alell (in the Regina subsector of the Spinward Marches) for a few weeks or even a month or two, delighting friends and family with tales of distant planets and exotic cultures, but then the wanderlust would take hold once more and he'd be off again. He was a charming old rogue – more staid relatives might disapprove of him and his questionable, unreliable ways but he was every child's favourite uncle.
+Some people are only at home when travelling and Vlen is one of these restless souls. He might visit his homeworld of Alell (in the Regina subsector of the Spinward Marches) for a few weeks or even a month or two, delighting friends and family with tales of distant planets and exotic cultures, but then the wanderlust would take hold once more and he'd be off again. He was a charming old rogue – more staid relatives might disapprove of him and his questionable, unreliable ways but he was every child's favorite uncle.
 
 No-one was ever sure what Uncle Vlen did or if he was just a drifter amid the stars. Sometimes, he worked on tramp traders or signed on as a deckhand on freighters, yet he also dabbled in archaeology and journalism and... well, he never liked to talk about it but Vlen had quite a collection of firearms and could handle himself in a fight. He also had a lot of strange friends - mostly other space voyagers but he also received irregular communications from scientists, naval officers, corporate oligarchs, even high nobility. On at least one occasion, Vargr from outside the Imperium travelled hundreds of parsecs to consult with Vlen Backett.
 
@@ -39,7 +39,7 @@ According to scholars and historians, a race named the Ancients dominated known 
 
 The scholars are wrong.
 
-A few Ancients survived the final war – or, to be precise, the final war never ended. In the closing stages of that terrible conflict, whole stellar systems became casualties. The Ancients fought with weapons that could trigger supernovae and reduce planets to dust, that could corrode reality, self-replicate, or warp causality in horrific ways. The survivors are those who learned to hide from their foes. One-by-one, the last Ancients withdrew to hiding places like pocket universes, heat-shielded stations in the heart of stars or fortresses buried hundreds of kilometres underground.
+A few Ancients survived the final war – or, to be precise, the final war never ended. In the closing stages of that terrible conflict, whole stellar systems became casualties. The Ancients fought with weapons that could trigger supernovae and reduce planets to dust, that could corrode reality, self-replicate, or warp causality in horrific ways. The survivors are those who learned to hide from their foes. One-by-one, the last Ancients withdrew to hiding places like pocket universes, heat-shielded stations in the heart of stars or fortresses buried hundreds of kilometers underground.
 
 The war is fought slowly and quietly now, invisible to the lesser races who think that this region of space is now theirs. The Ancients employ spies and agents who scour known space for clues to the location of a rival's hiding place. Imperial intelligence is dimly aware of these alien conspiracies but the tempo of the war is incredibly slow by human terms – a millennium is nothing to the Ancients.
 
@@ -57,7 +57,7 @@ In the end, Grandfather withdrew from the war, creating a pocket universe to hid
 
 Less than 50 of the Ancient Sons of Yaskoydray survived the war and most of those travelled far beyond Charted Space. They have changed beyond recognition, as each followed a different path of scientific development. Some are still Droyne in body and mind; others uploaded their personalities to computer systems,integrated themselves with technology, engineered new forms for themselves or left behind the bonds of matter and now exist only as psionic entities. Each Son is a civilization unto himself, with his own unique beliefs and technologies.
 
-Some Ancients continue to research their own obsessions, hunting for a way to transcend reality or perfect some ultimate technology, hoping to make a breakthrough before they are found and destroyed by their siblings. Others focus their attention on constructing ever more perfect hiding places, believing that the best strategy is to wait out the war in isolation until the other Ancients have exhausted their resources. Still others have gone on the offensive, eschewing technological advancement in favour of firepower and hunters; if everyone else is wiped out, then the last Ancient survivor will rule the galaxy.
+Some Ancients continue to research their own obsessions, hunting for a way to transcend reality or perfect some ultimate technology, hoping to make a breakthrough before they are found and destroyed by their siblings. Others focus their attention on constructing ever more perfect hiding places, believing that the best strategy is to wait out the war in isolation until the other Ancients have exhausted their resources. Still others have gone on the offensive, eschewing technological advancement in favor of firepower and hunters; if everyone else is wiped out, then the last Ancient survivor will rule the galaxy.
 
 They continue to fight amongst themselves, using spies and agents to seek out their enemies, and manipulate events to suit their own incomprehensible schemes. A man suddenly butchers four total strangers... all important scientists researching new technology, and science is set back decades. A technician blanks whole sections of a newly received encyclopaedia; the next day he cannot remember what he did and the Imperial bureaucracy moves too slowly to notice that it now has no data on an interdicted system. A noble arbitrarily rejects an appeal by settlers for aid fighting an allergy plague and, within years, their world is again barren.
 
@@ -261,7 +261,7 @@ It is properly sealed and is almost certainly genuine. As the Travellers make th
 > [!info]- Read the following when the Travellers arrive at Regina
 > You jump into the Regina system, emerging from jump space some distance from the main world, as the jump shadow of the gas giant Assiniboia means that ships cannot always arrive close to the moon itself. Your navigation screen lights up with hundreds of contacts. Most are small traders and freighters but  as you come closer to the highport, you detect larger ships. Much larger ships. Up ahead, there's a convoy of megafreighters. You pass by these slow-moving titans; each one of them could swallow your ship 5, times over, at least. The names and port registrations are redolent of distant, exotic worlds far off in the Core systems. These ships have been travelling for months, jumping across the Corridor sector.
 >
-> Off to one side, there is a flotilla of Imperial warships, part of the sector fleet. They glitter in the darkness, but you cannot get too close; there is a military interdiction zone around them. Even at a distance, however, they are a sight to behold. At the centre of the formation is the 200,000-ton Korrirak -class dreadnought Pride of Efate ; your ship could fly down the barrel of that meson gun with plenty of room to spare on all sides. A constellation of smaller warships surround the Pride and you can see a swarm of troop transport shuttles making their way from the highport to the flotilla along a military flight lane.
+> Off to one side, there is a flotilla of Imperial warships, part of the sector fleet. They glitter in the darkness, but you cannot get too close; there is a military interdiction zone around them. Even at a distance, however, they are a sight to behold. At the center of the formation is the 200,000-ton Korrirak -class dreadnought Pride of Efate ; your ship could fly down the barrel of that meson gun with plenty of room to spare on all sides. A constellation of smaller warships surround the Pride and you can see a swarm of troop transport shuttles making their way from the highport to the flotilla along a military flight lane.
 >
 > Regina is one of the most heavily-trafficked systems in the Spinward Marches so as you fly closer to the highport, you are assigned an approach vector to make sure you do not interfere with the courses of any of the other thousands of ships. Usually, a small ship like yours would get put into a holding orbit for hours until a docking berth became available, or you would get sent to one of the smaller stations, but this time you are contacted directly by traffic control.
 >
@@ -316,7 +316,7 @@ Then, in Pallod's private classification system, there are the wasps. Wasps look
 ### THE PUBLIC ORDER OFFICE
 
 > [!info]- Read Text
-> _Inspector Norrim escorts you through a maze of corridors to a small shuttle. The shuttle detaches from the highport and crosses to another, smaller space station only a few kilometres away. Your shuttle nestles into a bay alongside several interceptors in police livery and docks once more. A short elevator ride takes you into the heart of the Public Order Commission offices._
+> _Inspector Norrim escorts you through a maze of corridors to a small shuttle. The shuttle detaches from the highport and crosses to another, smaller space station only a few kilometers away. Your shuttle nestles into a bay alongside several interceptors in police livery and docks once more. A short elevator ride takes you into the heart of the Public Order Commission offices._
 >
 > _Norrim shows you into his office – blandly functional, with a large holoportrait of Duke Norris on the wall – and sits down behind his desk. The hardwood desk is an imposing antique and must have cost a small fortune to ship into orbit. The inspector activates a privacy seal as he addresses you._
 >
@@ -519,7 +519,7 @@ As the Dancado region is part of the duke' s private domain, grav cars and other
 
 Call for a Difficult (10+) Recon check as the Travellers drive to Ujinka's house. If a Traveller succeeds, they catch the occasional glimpse of a POC grav car that seems to be keeping pace with them. This grav car belongs to Hargid Voss and Stej Lanner, the two Imperial Intelligence agents who are following the Travellers.
 
-Ujinka's home is surrounded by a high fence enclosing several square kilometres of garden. When the Travellers drive up to the gate, they are scanned by an automated security system that confirms their identity. A successful Recon check notes the presence of armed drones lurking in the trees; such weapon systems are illegal on Regina without extensive special permits and are certainly an impressive amount of firepower for a private residence.
+Ujinka's home is surrounded by a high fence enclosing several square kilometers of garden. When the Travellers drive up to the gate, they are scanned by an automated security system that confirms their identity. A successful Recon check notes the presence of armed drones lurking in the trees; such weapon systems are illegal on Regina without extensive special permits and are certainly an impressive amount of firepower for a private residence.
 
 > [!info]- CONTACTING INSPECTOR NORRIM
 > The Travellers may wish to contact Inspector Norrim, either to find out if there is any progress on the case or to ask him about Detective Odoy. He steadfastly refuses to comment on the investigation into Backett's death (if the Travellers volunteer information about Professor Ujinka or some other clue, then Norrim 'takes it under advisement' and passes the lead onto Imperial Intelligence). As for Detective Odoy, he tells the Travellers that Odoy is medically unfit for duty and should not be trusted.
@@ -929,7 +929,7 @@ Marid is not bluffing; at the flick of a switch, she can pump an anaesthetic gas
 
 At the far end of the tunnel is an identical concealed ramp, leading to the starport office.
 
-Via the Starport: The starport side office of Winter Shipping is shut, with a sign instructing visitors to go around to the Startown office (only a few dozen metres as the grav-belt flies but getting there requires a long walk along the fence, passing through the security checkpoint and then another long walk back down the street). The door is locked and alarmed. Olso, Marid and Exceedingly Discreet have passcards.
+Via the Starport: The starport side office of Winter Shipping is shut, with a sign instructing visitors to go around to the Startown office (only a few dozen meters as the grav-belt flies but getting there requires a long walk along the fence, passing through the security checkpoint and then another long walk back down the street). The door is locked and alarmed. Olso, Marid and Exceedingly Discreet have passcards.
 
 If the Travellers try forcing this door, the alarm will be raised. No new business is conducted via this office; it is only used for smuggling or dealing with existing clients.
 
@@ -1007,7 +1007,7 @@ Only the middle container has gravity (1g standard); the port and starboard cont
 
 The port container is where smuggled goods are stored and it is all most visitors to the station ever see. The lower half of the container is an unpressurized docking space; the upper half is a cargo hold. A cargo airlock connects the two halves.
 
-The middle container is the station's operations centre. On the middle level, connecting to the other two containers, is a long corridor connecting to living quarters, life support and other basic facilities. The lower section of the middle container contains a small fusion power plant to power the station and the defence turret. There are also four re-entry capsules. The upper section of the container is Harlen's office and living quarters.
+The middle container is the station's operations center. On the middle level, connecting to the other two containers, is a long corridor connecting to living quarters, life support and other basic facilities. The lower section of the middle container contains a small fusion power plant to power the station and the defence turret. There are also four re-entry capsules. The upper section of the container is Harlen's office and living quarters.
 
 Finally, the starboard container has the station's computer core and the communications interception technology. If the Travellers examine this Electronics (comms or computers), they quickly realise the scale and complexity of the monitoring equipment. The interception device is at least TL14 and parts of it are in advance of anything that the Travellers have even heard of (TL16 or more!). The interceptor can not only eavesdrop on every communication that goes through Regina, it can decrypt the Imperium's most secure messages.
 
@@ -1594,7 +1594,7 @@ Alternatively, the Travellers can just march out through the mister fields and h
 ## INTO THE JUNGLE
 
 > [!info]- Read the following to the Travellers:
-> Less than half a kilometre outside Vaca Goya, you could have stepped a million years back in time. The jungles of Alell are still primal wilderness and there is not a single trace of humanity here. You are surrounded on all sides by walls of golden-barked trees with blood- red leaves. You hack your way through the underbrush, cutting aside web-like ferns and vines like braided ropes. Insects – or the local analogues of insect life, ugly four-legged things with eyes on their hips – scurry away from you or crawl over your legs.
+> Less than half a kilometer outside Vaca Goya, you could have stepped a million years back in time. The jungles of Alell are still primal wilderness and there is not a single trace of humanity here. You are surrounded on all sides by walls of golden-barked trees with blood- red leaves. You hack your way through the underbrush, cutting aside web-like ferns and vines like braided ropes. Insects – or the local analogues of insect life, ugly four-legged things with eyes on their hips – scurry away from you or crawl over your legs.
 >
 > You would have thought finding Vlen's lodge would be easy but it quickly becomes apparent how swiftly the plants grow. Leave a vehicle out here overnight and you will return to find it dusted in spores; leave it for a week and it will be choked in vines. Leave it over a year and it will be indistinguishable from the forest floor. Any of these little plant-covered hillocks could be Vlen's lodge.
 
@@ -1623,7 +1623,7 @@ The Travellers run into a dangerous obstacle. Roll 1D to determine what sort of 
 
 |   1D  | Major Obstacle                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | :---: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   1   | **Steep Cliff**: A 20-metre-tall shelf of shifted rock that runs as far as the Travellers can see. The only way forward is up. This requires a Difficult (10+) DEX check (1D minutes) to climb. Failing with an Effect of -4 or less means the Traveller falls from the cliff and suffers 3D damage.                                                                                                                                                  |
+|   1   | **Steep Cliff**: A 20-meter-tall shelf of shifted rock that runs as far as the Travellers can see. The only way forward is up. This requires a Difficult (10+) DEX check (1D minutes) to climb. Failing with an Effect of -4 or less means the Traveller falls from the cliff and suffers 3D damage.                                                                                                                                                  |
 |   2   | **Quicksand**: One Traveller, chosen at random, blunders into a patch of quicksand. The Traveller must make a series of Average (8+) DEX checks to climb out. Keep track of the Traveller's cumulative Effect. Effect 5+ or more is needed to escape; if the cumulative Effect reaches -5, the Travellers slips under the surface and begins to drown. Apply DM-1 to each subsequent check after the first to represent the Traveller slowly sinking. |
 |   3   | **Poisonous Plants**: One Traveller chosen at random brushes past a dangerous plant and is stung. The Traveller must make an Average (8+) END check or suffer 1D damage to both STR and DEX.                                                                                                                                                                                                                                                          |
 |   4   | **Stinging Insects**: A swarm of hungry flesh-eating insects emerge from a dead tree stump. Terran- descended creatures taste incredibly delicious to these insects. The swarm has 50 hits; Travellers can either try to destroy the swarm with mister attacks and other area-effect weapons, or else flee. A Traveller caught in the swarm takes 1D damage per round, unless they are wearing sealed armor.                                         |
@@ -1724,7 +1724,7 @@ One wall contains books and notes on the Ancients, gathered from 100 worlds. The
 
 #### The Sceptre
 
-Wrapped in a tattered blanket is the Sceptre of Ur, the relic stolen from the Brotherhood of Humaniti. This relic is a half-metre long object made of a greenish stone that is strangely warm to the touch. It is engraved with strange markings reminiscent of Droyne glyphs.
+Wrapped in a tattered blanket is the Sceptre of Ur, the relic stolen from the Brotherhood of Humaniti. This relic is a half-meter long object made of a greenish stone that is strangely warm to the touch. It is engraved with strange markings reminiscent of Droyne glyphs.
 
 #### The Statue
 
@@ -1744,7 +1744,7 @@ One folder contains Vlen's identity papers, certificates and other documentation
 
 ### THE WILL
 
-Under a pile of old Journals of the Traveller's Aid Society, the Travellers find a copy of Vlen's will. It leaves everything to the Backett family. His spaceship goes to 'any of his kin who are willing to fly the damn thing'. The one curious thing about the will is that it specifies Backett's burial conditions – he must be interred 'as whole as possible, preferably in a non-metallic coffin, no more than two metres below the surface'.
+Under a pile of old Journals of the Traveller's Aid Society, the Travellers find a copy of Vlen's will. It leaves everything to the Backett family. His spaceship goes to 'any of his kin who are willing to fly the damn thing'. The one curious thing about the will is that it specifies Backett's burial conditions – he must be interred 'as whole as possible, preferably in a non-metallic coffin, no more than two meters below the surface'.
 
 ### THE TRAPDOOR
 
@@ -1765,7 +1765,7 @@ The cave mouth is concealed by hanging vines and roots, making it practically in
 
 Also in the cave is a computer terminal attached to a large grey metal structure. A quick examination reveals that it is the control system for a defensive network, similar to the one surrounding Professor Ujinka's house on Regina. Whatever this system is controlling, however, has a lot more firepower than Ujinka's drones.
 
-The weapon system is currently monitoring half-a-dozen small targets that are holding station 2,000 metres above the lodge.
+The weapon system is currently monitoring half-a-dozen small targets that are holding station 2,000 meters above the lodge.
 
 ## RAPIER STRIKE
 
@@ -1877,7 +1877,7 @@ A trio of light fighters (see page 188 of the _Traveller Core Rulebook_ ) dive t
 >
 > Captain Holcess hails you. 'Star Hunter, stand down now. I don't want to blow you out of the sky but if you give me no other choice...'
 >
-> You are still 100,000 kilometres away from the jump limit.
+> You are still 100,000 kilometers away from the jump limit.
 >
 > What do you do?
 
@@ -1978,7 +1978,7 @@ Not all of the inhabited systems in the Regina subsector are listed below – th
 | [[#Beck's World]] |                 5                 |      -4      |
 | [[#Enope]]        |                 5                 |      -1      |
 | [[#Wochiers]]     |                 6                 |      -4      |
-| [[Yorbind]]       |                 4                 |      -3      |
+| [[Yorbund]]       |                 4                 |      -3      |
 | [[#Shinothy]]     |                 6                 |      +0      |
 
 ### LIKELY ROUTES
@@ -2217,7 +2217,7 @@ The high pressure of the planet's atmosphere makes it ideal for crystal growing 
 
 The [[Shinothy]] system is also under interdiction; microscopic particles of antimatter exist throughout the system and are extremely hazardous to shipping. The starport is in a zone that has been cleared of antimatter but travel outside this zone is dangerous.
 
-Patron: Yorbling the Epicure Payment: Cr50000 Mission: Yorbling, a grotesquely fat creature kept alive by machinery, has decided to go out with a bang. He has eaten everything known space has to offer but there is one taste he has yet to experience – the subtle, impossible flavour of antimatter. He wants the Travellers to collect a few micrograms of antimatter for Yorbling's last meal. Twist: Yorbling is dying of an infestation of intestinal parasites, which is contracted by eating a delicacy from a world hundreds of parsecs spinward of Charted Space. What he does not know is that the parasites are growing into dog-sized predators within his capacious guts. Soon, they will explode out of his stomach and attack the Travellers.
+Patron: Yorbling the Epicure Payment: Cr50000 Mission: Yorbling, a grotesquely fat creature kept alive by machinery, has decided to go out with a bang. He has eaten everything known space has to offer but there is one taste he has yet to experience – the subtle, impossible flavor of antimatter. He wants the Travellers to collect a few micrograms of antimatter for Yorbling's last meal. Twist: Yorbling is dying of an infestation of intestinal parasites, which is contracted by eating a delicacy from a world hundreds of parsecs spinward of Charted Space. What he does not know is that the parasites are growing into dog-sized predators within his capacious guts. Soon, they will explode out of his stomach and attack the Travellers.
 
 ### BECK'S WORLD
 
@@ -2311,7 +2311,7 @@ Playing Phell
 
 The denizens of Beck's Dome are typical of this world; desperate, nasty drifters who would cut your throat for low passage offworld and a shot of rotgut whiskey. If asked about Juni Volsang or the University of Regina, they grumble about 'offworld eggheads stealing treasure' and 'the Imperium keeping the common man down'.
 
-The bartender, Fangs, is more forthcoming with useful gossip and can drunkenly explain that everyone thinks the university researchers are taking Ancients artefacts that should, by rights, belong to the good citizens of Beck's World. If asked about Volsang, Fang remembers that one of the archaeologists was a young and pretty scientist (' if you like 'em mostly hairless' adds the leering Vargr ) but he has not seen her around town. That probably means she is out at the dig site, which is off limits to anyone other than university personnel. He is not exactly sure where it is; probably several hundred kilometres north-west of the starport.
+The bartender, Fangs, is more forthcoming with useful gossip and can drunkenly explain that everyone thinks the university researchers are taking Ancients artefacts that should, by rights, belong to the good citizens of Beck's World. If asked about Volsang, Fang remembers that one of the archaeologists was a young and pretty scientist (' if you like 'em mostly hairless' adds the leering Vargr ) but he has not seen her around town. That probably means she is out at the dig site, which is off limits to anyone other than university personnel. He is not exactly sure where it is; probably several hundred kilometers north-west of the starport.
 
 Fangs can point the Travellers at a guide, another Vargr called Gvarrul who lives on his own in the mountains. Gvarrul can take the Travellers to the dig site but will charge them a Cr1000 for his services. Gvarrul is a bitter, eccentric old dog who despises everyone else and just wants to be left alone.
 
@@ -2417,7 +2417,7 @@ Kenton Wyld can tell the Travellers the following:
 
 **The locals**:  Beck's World is a hellish place. He has not left the university compound in weeks and really thinks they should just leave town entirely and establish a secondary base closer to the dig site. The locals all think the university is stealing Ancients artefacts worth Megacredits from the caves. The students have taken to sleeping in shifts after a series of break-ins.
 
-**The dig**:  The dig is in a cave system, deep underground. It is off-limits to everyone except university staff. They have established a base camp at a point one kilometre into the cavern complex.
+**The dig**:  The dig is in a cave system, deep underground. It is off-limits to everyone except university staff. They have established a base camp at a point one kilometer into the cavern complex.
 
 **Communicating with the dig**:  Normally, it should be possible to communicate with the dig but they are not answering his radio calls. He was up on the roof checking the communications dish but it is working properly, suggesting the problem is at the dig site. The camp is so far underground that conventional signals cannot penetrate the rock, so they have set up a network of relays. If one of those relays malfunctioned - a common problem in the caves – then the base camp would be unreachable until the network routed around the problem or the relay was repaired. If the Travellers want to talk to Volsang, he suggests they wait at their ship until communications are restored.
 
@@ -2446,7 +2446,7 @@ See [[#Cutting a Deal]] if the Travellers talk to Venshar.
 LANDSLIDE!
 Thirty minutes after the ship's boat departs, Eshanta's hidden demolition charge explodes, triggering a landslide. Thousands of tons of rock slide down the slope, smashing through the flimsy habitation domes of the university compound and engulfing the dome. The landslide is aimed at the archaeologist's buildings but it also hits several other buildings in Beck's Town.
 
-The cataclysmic rumble of the landslide is audible everywhere in town. The landslide throws up a thick cloud of black dust, cutting visibility to less than two metres.
+The cataclysmic rumble of the landslide is audible everywhere in town. The landslide throws up a thick cloud of black dust, cutting visibility to less than two meters.
 
 If the Travellers were unlucky enough to be in or near the university compound, they are caught in the landslide. Travellers outside must make Difficult (10+) DEX checks and suffer 1D points of damage for every point of Effect below 0. For Travellers inside a building, roll 1D. On a 1–3, the building survives but the Travellers are buried alive; on a 4–6, the building collapses and the Travellers take that many dice of damage.
 
@@ -2497,7 +2497,7 @@ Searching the debris of the university compound lets the Travellers find a map s
 #### INTO THE CAVES
 
 > [!info]- Read the following out loud to the Travellers:
-> _The surface of Beck's World is composed of endless kilometres of broken black rock. At first, it is interesting to look out at the bizarre landscape and marvel at the twisted dragons and spiked monsters and congealed stone but eventually all the shapes blur. You fly through a rainstorm of black sooty water that stains the hull of your ship an inky grey._
+> _The surface of Beck's World is composed of endless kilometers of broken black rock. At first, it is interesting to look out at the bizarre landscape and marvel at the twisted dragons and spiked monsters and congealed stone but eventually all the shapes blur. You fly through a rainstorm of black sooty water that stains the hull of your ship an inky grey._
 >
 > _After more than an hour's flight, you descend towards the dig site. Idly, you wonder how they found this cave, as it looks no different to any of 1,000 other openings you have flown over._
 >
@@ -2550,11 +2550,11 @@ The chase is on.
 
 The Big Stair is only a short distance from the base camp.
 
-It is a cliff that is more than a kilometre in height, a sheer drop into the yawning darkness.
+It is a cliff that is more than a kilometer in height, a sheer drop into the yawning darkness.
 
-If a Traveller is brave enough to look over the edge, they see four lights in the darkness, far below. These are the lights of Venshar and his team. If the Travellers want to try having a vertical firefight at a range of 500 metres, let them – the Vargr are only too happy to return fire.
+If a Traveller is brave enough to look over the edge, they see four lights in the darkness, far below. These are the lights of Venshar and his team. If the Travellers want to try having a vertical firefight at a range of 500 meters, let them – the Vargr are only too happy to return fire.
 
-Every 100 metres or so down the cliff, there is a convenient ledge. The archaeologists theorized that a flying creature like a Droyne could descend the Big Stair by gliding from ledge-to-ledge. The Stair is a natural chasm, a discontinuity between two continental plates but it has been shaped by the Ancients.
+Every 100 meters or so down the cliff, there is a convenient ledge. The archaeologists theorized that a flying creature like a Droyne could descend the Big Stair by gliding from ledge-to-ledge. The Stair is a natural chasm, a discontinuity between two continental plates but it has been shaped by the Ancients.
 
 There are three comm relays on the Big Stair – one at the top, one halfway down and one at the bottom. All three are required to relay a message from the end of the Stair to base camp.
 
@@ -2670,7 +2670,7 @@ Located on the fringes of the subsector, Boughene is a lightly inhabited system,
 
 As soon as the Travellers arrive in the system, they will be detected by the scout base and challenged. If they came straight here from Alell, then they may have arrived ahead of their arrest warrant; if they are here after Week Three, then the Alahir is waiting for them in this system. While most of the ships at the scout base are standard scouts, there are larger and better-armed vessels present.
 
-It is 400 million kilometres from the scout base at Boughene to Komesh, giving the Travellers two or three days of searching before they are intercepted by Imperial forces.
+It is 400 million kilometers from the scout base at Boughene to Komesh, giving the Travellers two or three days of searching before they are intercepted by Imperial forces.
 
 #### BAY VENSHAR
 
@@ -2699,10 +2699,10 @@ The largest gas giant in the Boughene system is named Komesh, a forbidding world
 
 Komesh is orbited by a dozen large moons and hundreds of smaller objects, all of which have been exhaustively classified by bored scouts. The deeper reaches of the planet's atmosphere, however, have never been plumbed. If the Ancients base still exists in the system, the only place it could be is deep within the gas giant.
 
-Only a fool would dive into Komesh's gravity well. The atmosphere is 89% hydrogen and 10% helium; the remainder is a mix of water vapour, methane and ammonia. There are many layers of clouds, concentrated around an altitude of 36,000 kilometres. At the upper limit of this band, the clouds are water and ice; deeper into the planet's atmosphere, the clouds are condensed ammonia and absorb almost all light.
+Only a fool would dive into Komesh's gravity well. The atmosphere is 89% hydrogen and 10% helium; the remainder is a mix of water vapour, methane and ammonia. There are many layers of clouds, concentrated around an altitude of 36,000 kilometers. At the upper limit of this band, the clouds are water and ice; deeper into the planet's atmosphere, the clouds are condensed ammonia and absorb almost all light.
 
 Most ships scooping fuel from a gas giant rarely venture below the pressure level of 0.5 atmospheres
-(an altitude of 36,500 kilometres on Komesh). Diving below this level is extremely hazardous, as the ship risks being caught in the gravity well; the amount of thrust needed to maneuver increases significantly. A skilled pilot can dive into the atmosphere and fly back out if their ship has sufficient momentum and a talented engineer can wring more thrust out of a grav plate in an emergency but it is still extremely dangerous.
+(an altitude of 36,500 kilometers on Komesh). Diving below this level is extremely hazardous, as the ship risks being caught in the gravity well; the amount of thrust needed to maneuver increases significantly. A skilled pilot can dive into the atmosphere and fly back out if their ship has sufficient momentum and a talented engineer can wring more thrust out of a grav plate in an emergency but it is still extremely dangerous.
 
 Deep in the atmosphere, the temperature also rises quickly. Pressure, heat, the raging windstorms and ammonia sleet can push even the toughest ship to the breaking point.
 
@@ -2722,7 +2722,7 @@ If the Pilot check is failed, the ship takes the amount of damage listed on the 
 #### INTO THE MAELSTROM
 
 If the Travellers make three successful Electronics
-(sensors) checks in a row, they detect an object at approximately 35,500 kilometres. It is moving in an unpredictable pattern, either under its own power or being blown by the shifting winds. Either way, it is obviously artificial and could be a floating platform or starship.
+(sensors) checks in a row, they detect an object at approximately 35,500 kilometers. It is moving in an unpredictable pattern, either under its own power or being blown by the shifting winds. Either way, it is obviously artificial and could be a floating platform or starship.
 
 If it is an Ancients artefact, then they could use it as a bargaining chip and escape the arrest warrant. The only way onwards is downwards...
 
@@ -2741,7 +2741,7 @@ The Travellers find their way into the internal compartments of the ship, which 
 SHIP
 300,000 years ago, during the wars of the Ancients, this ship was dispatched by Grandfather to retrieve one of his experiments – a human colony, on the world now known as Bilke (hex 0110 in the Trojan Reach) – before it was wiped out by his rampaging offspring. During its return, the ship was attacked by an enemy vessel and suffered severe damage. The damage to the hull and other physical systems was considerable but its self- repair systems could eventually heal these wounds by siphoning the required matter from the gas giant and assembling new components. The worst damage, however, was inflicted on the ship's mind. It was struck by an information-devouring viral weapon, a vicious attack that injured the ship's sentience directly. The virus worked by consuming the ship's intellect and using its own processing power against the ship – the more of the ship's mind that it ate, the smarter the virus became.
 
-Confused and paralysed, the shattered mind of the ship attempted to do its best for its cargo. The human and Droyne passengers were removed from suspended animation and the ship created an ecosystem on its upper hull while it reconfigured its lower decks to optimise its self-repair. It also shut down its own computing systems, to slow the advance of the virus while it searched for a way to defeat the invading program.
+Confused and paralysed, the shattered mind of the ship attempted to do its best for its cargo. The human and Droyne passengers were removed from suspended animation and the ship created an ecosystem on its upper hull while it reconfigured its lower decks to optimize its self-repair. It also shut down its own computing systems, to slow the advance of the virus while it searched for a way to defeat the invading program.
 
 Its limited runtime has been stretched for millennia. The ship's computer awakens only for an instant every few thousand years, otherwise sleeping for aeons, punctuated by brief spasms of awareness like beads strung on an infinitely long cord. Each period of wakefulness brings with it an opportunity to continue self- repair and observation but soon the virus also awakens. To preserve itself, the ship must shut down as soon as the virus is active.
 
@@ -2781,7 +2781,7 @@ Virus Actions
 - Sending subliminal messages to confuse or threaten the Travellers
 
 THE MAELSTROM
-The wrecked Ancients ship is floating at an altitude of approximately 35,500 kilometres. That is within the operating range for the Travellers' ship but with a pressure in excess of 100 atmospheres, coupled with squalls of hydrogen and high winds it is very risky to fly down that far into a gas giant. The Ancients ship is moving semi- randomly – most of the time, driven by the winds, but it sometimes activates its manoeuvring thrusters to fly against the wind or move to a different altitude.
+The wrecked Ancients ship is floating at an altitude of approximately 35,500 kilometers. That is within the operating range for the Travellers' ship but with a pressure in excess of 100 atmospheres, coupled with squalls of hydrogen and high winds it is very risky to fly down that far into a gas giant. The Ancients ship is moving semi- randomly – most of the time, driven by the winds, but it sometimes activates its manoeuvring thrusters to fly against the wind or move to a different altitude.
 
 #### NAVIGATING THE GAS GIANT
 
@@ -2796,7 +2796,7 @@ If the Travellers wait for the Ancients ship to come closer to the surface, then
 
 #### HYDROGEN SQUALL
 
-When the Travellers reach the requisite Effect, they are nearly at the Ancients ship. It is still hidden by clouds of hydrogen and ammonia sleet but G-band distortions are growing more pronounced and at this range even conventional sensors can pick up the presence of thermal and magnetic anomalies. The Travellers glimpse fragments of the wrecked ship through the pinkish-purple clouds. This far from Komesh's primary star, there is little daylight so most of the illumination comes from the _Star Hunter_ 's own running lights and the crackling of 1,000-kilometre lightning bolts deeper in the atmosphere.
+When the Travellers reach the requisite Effect, they are nearly at the Ancients ship. It is still hidden by clouds of hydrogen and ammonia sleet but G-band distortions are growing more pronounced and at this range even conventional sensors can pick up the presence of thermal and magnetic anomalies. The Travellers glimpse fragments of the wrecked ship through the pinkish-purple clouds. This far from Komesh's primary star, there is little daylight so most of the illumination comes from the _Star Hunter_ 's own running lights and the crackling of 1,000-kilometer lightning bolts deeper in the atmosphere.
 
 As the Travellers get closer, call for a Very Difficult
 (12+) Electronics (sensors) check (INT). If successful, the Travellers detect small objects, possibly organic creatures, flitting around the wreck. If the check was passed with Effect 2+, they are able to get a visual image of one of the creatures – a gas-bag trailing tentacles behind it. A successful Science (xenobiology) check lets the Travellers guess that the creature is native to the gas giant and not a survivor from the wrecked ship. The Travellers will not be alone when they board the wreck.
@@ -2813,7 +2813,7 @@ The upper half of the ship is a mostly smooth expanse of greenish metal, pock-ma
 
 Towards the prow of the ship, there is a twisted spire like a narwhal's horn mixed with the organic complexity of a banyan grove. The gas clouds part ahead of this spire, suggesting that it is projecting a magnetic field of some sort. Closer examination of the gas clouds suggests that the gas is being sucked into one of the pods in the lower section.
 
-The lower section of the hull is a tangle of silvery cords, wrapped around dozens of greenish-grey spheres. These spheres range in size from three to fifty metres in diameter. Some show clear signs of battle damage; there are blackened scars along the hull, shattered hollow spheres and twisted strands of the greenish hull metal trailing behind the wreck. Every few seconds, there is a stuttering discharge of energy, as the energy field wrapped around the upper hull extends to the lower section. The extended field lasts only a fraction of a second before snapping back to its original configuration.
+The lower section of the hull is a tangle of silvery cords, wrapped around dozens of greenish-grey spheres. These spheres range in size from three to fifty meters in diameter. Some show clear signs of battle damage; there are blackened scars along the hull, shattered hollow spheres and twisted strands of the greenish hull metal trailing behind the wreck. Every few seconds, there is a stuttering discharge of energy, as the energy field wrapped around the upper hull extends to the lower section. The extended field lasts only a fraction of a second before snapping back to its original configuration.
 
 There are no discernible fuel tanks, no thruster plates and no sign of a jump grid inlaid in the hull.
 
@@ -2887,7 +2887,7 @@ Animal Hits Speed Wreck-Darter 22 — Skills Athletics (dexterity) 2, Melee
 
 Emerging from their ship, the Travellers find themselves in a bizarre yet familiar environment. The upper deck is maintained in a state capable of supporting human life – the artificial gravity is around 1g, the air breathable and the shimmering energy shield above sheds light and heat similar to a warm spring day on Earth. If you closed your eyes, you could almost be on a garden world.
 
-Contrast this with the visual impression – the ground is a woven mesh of some green substance that feels like metal but which quivers and pulses as if alive. The sky is a flickering, glowing force screen and you can see through it to the continent-sized thunderheads and gas clouds of Komesh beyond. This whole world is only a few square kilometres in extent. It is a tiny pocket world.
+Contrast this with the visual impression – the ground is a woven mesh of some green substance that feels like metal but which quivers and pulses as if alive. The sky is a flickering, glowing force screen and you can see through it to the continent-sized thunderheads and gas clouds of Komesh beyond. This whole world is only a few square kilometers in extent. It is a tiny pocket world.
 
 The Ancients ship consists of two sections – the flat upper hull, protected by the energy shield and the lower section, composed of a web of interconnector cables attached to dozens of capsules. These pods can be swapped in and out to reconfigure the ship's capabilities, while the jump drive and maneuver drive are built into the upper hull. Fuel and energy are both provided by teleportation portals linked to a pocket universe, although the ship's connection to its power source was damaged during the Final Wars.
 
@@ -2913,13 +2913,13 @@ A close examination of the dirt under a microscope will note that it is chemical
 
 #### SENSOR ANTENNAE
 
-Near the spire at the prow of the ship is another strange structure. This is one of the Ancients ship's sensor antennae. It rises from the green hull like a bizarre crystal frond and is approximately 10 metres tall. That 'approximately' comes from the fact that the frond's branches all bifurcate over and over again. The root of the front is three metres in diameter but the upper branches are so thin and tiny that they are only a few dozen nanometres thick. Invisible but impenetrable force screens protect the frond from being damaged by air currents or inquisitive Travellers.
+Near the spire at the prow of the ship is another strange structure. This is one of the Ancients ship's sensor antennae. It rises from the green hull like a bizarre crystal frond and is approximately 10 meters tall. That 'approximately' comes from the fact that the frond's branches all bifurcate over and over again. The root of the front is three meters in diameter but the upper branches are so thin and tiny that they are only a few dozen nanometers thick. Invisible but impenetrable force screens protect the frond from being damaged by air currents or inquisitive Travellers.
 
 Upper Deck Encounters 2D Encounter 2 A darter flock passes through the energy shield. The Travellers have a short time to get under cover; if they remain in the open, they are attacked by 2D darters. 3 1D sky-sharks pass through the energy shield and hunt the Travellers. 4 A single darter passes through the energy shield and makes an attack on a randomly chosen Traveller. 5–8 No encounter. 9 The Travellers come across a small pool of water in a depression on the hull. If they remove any of the water, it refills. The water appears to be condensing out of the solid hull material – there are no visible pipes or nozzles. 10 The Travellers find a damaged section of hull. If they try to take a sample of the hull material, they can do so. 11 Non-functional Ancients gadget, possibly of value to a collector. 12 The Travellers find an Ancients artefact salvaged from the lower decks. See page 113.
 
 #### THE MAP ROOM
 
-The map room is a domed chamber with a single entrance. In the middle of the chamber is two-metre- tall pillar or plinth, while along the walls are a dozen square panels.
+The map room is a domed chamber with a single entrance. In the middle of the chamber is two-meter- tall pillar or plinth, while along the walls are a dozen square panels.
 
 Touching a panel causes it to display a map. Experimenting with the controls at the edge of the panel allows the Travellers to scroll the map, zoom in or out, or switch the planet displayed. Another control causes features on the map to shift but the display becomes increasingly fuzzy and confused when this control is used. A Traveller with Science (planetology) will realise that the map is attempting to predict erosion and continental drift patterns – this control is designed to extrapolate the past and future geography of the target planet. Whoever designed these maps took an extremely long view.
 
@@ -2927,7 +2927,7 @@ Currently, all the panels are set to display extremely detailed maps of planets 
 
 Some of these maps, when the 'time' control is set to 300,000 years ago, show the locations of Ancients bases. Worlds in this subsector with Ancients bases include Yori, Beck's World, Efate, Pixie, Knorbes and Shinothy.
 
-If the central spire is touched, the room darkens. The doorway to the outside is suddenly blocked by a grey surface (this is actually just an opaque cloud of vapour, which can be just walked through but paranoid Travellers may assume they have just been trapped). The central spire then displays a three-dimensional holographic star-chart showing the Regina subsector and some surrounding stars, as any Traveller with the Astrogation skill will recognize. The Boughene system is highlighted in the centre of the display.
+If the central spire is touched, the room darkens. The doorway to the outside is suddenly blocked by a grey surface (this is actually just an opaque cloud of vapour, which can be just walked through but paranoid Travellers may assume they have just been trapped). The central spire then displays a three-dimensional holographic star-chart showing the Regina subsector and some surrounding stars, as any Traveller with the Astrogation skill will recognize. The Boughene system is highlighted in the center of the display.
 
 Unlike the display panels, which show maps from 300,000 years ago, the star map has compensated for stellar drift and shows the current configuration of the subsector. There are, however, several differences between the Ancients map and Imperial charts. Firstly, the Shinothy system has a planet in place of the current asteroid belt, lending support to those who believe that a world was shattered there during some apocalyptic war. Secondly, and more impressively, there are three star systems that do not appear on current charts but are present on the Ancients map. This trio of systems occupied hexes 2107, 2206 and 2307. The Travellers may assume these systems suffered the same fate as Shinothy; in fact, they were taken into Grandfather's pocket universe.
 
@@ -2935,7 +2935,7 @@ Examining the controls on both the spike and the display panels shows that they 
 
 #### WEAPONS SYSTEM
 
-The weapons system consists of a free-floating sphere of metal that seems to be made of a hair-thin coil that has been wrapped around itself millions of times, like a giant ball of twine. The sphere is two metres wide and hovers three metres off the deck. Three pillars surround the metal sphere; these pillars each have a control console. If a Traveller stands close to the sphere, they hear a low humming noise and feel the presence of a strong static electric field.
+The weapons system consists of a free-floating sphere of metal that seems to be made of a hair-thin coil that has been wrapped around itself millions of times, like a giant ball of twine. The sphere is two meters wide and hovers three meters off the deck. Three pillars surround the metal sphere; these pillars each have a control console. If a Traveller stands close to the sphere, they hear a low humming noise and feel the presence of a strong static electric field.
 
 At the base of the sphere is a hexagonal white panel. This panel is icy cold to the touch and any Traveller touching it receives 2Dx10 rads.
 
@@ -2975,9 +2975,9 @@ Interconnector Damage Failed by Damage Effect -1 to -2 1D Effect -3 to -5 2D Eff
 
 #### TELEPORT CHAMBER
 
-At the stern of the upper deck is a four-level stepped ziggurat. The steps are three metres tall, making it difficult for a human to climb from step to step (a flying Droyne could easily flap from level to level). At each level, the walls are decorated with strange and untranslatable symbols.
+At the stern of the upper deck is a four-level stepped ziggurat. The steps are three meters tall, making it difficult for a human to climb from step to step (a flying Droyne could easily flap from level to level). At each level, the walls are decorated with strange and untranslatable symbols.
 
-At the top of the ziggurat is a solid cube of metal, three metres to a side. This cube is also decorated with symbols. Experimentation with these symbols allows the Travellers to open doors in three walls of the cube. The aft face of the cube has no door. These doors just melt open but an opaque haze lingers so the Travellers cannot see inside the cube. Stepping through the harmless haze lets them enter the cube.
+At the top of the ziggurat is a solid cube of metal, three meters to a side. This cube is also decorated with symbols. Experimentation with these symbols allows the Travellers to open doors in three walls of the cube. The aft face of the cube has no door. These doors just melt open but an opaque haze lingers so the Travellers cannot see inside the cube. Stepping through the harmless haze lets them enter the cube.
 
 Inside the cube, the Travellers find a dull grey panel, like a door or full-length mirror, attached to the rear wall. Next to the panel is a circular control, composed of five small buttons, one large one and a trio of medium-sized stones. Pressing the large button causes some of the smaller ones to light up and for the grey panel to flicker and turn silvery. There is a distinct change in air pressure in the cube when this happens
 
@@ -3035,7 +3035,7 @@ Capsules without teleporters: There are four Capsules, lettered A, B, C and D, w
 
 #### CAPSULES GENERAL TRAITS
 
-Each capsule is spherical but the size of the capsule varies considerably. The smallest capsules are three metres in diameter; the largest is 150 metres across. All the capsules are made out of the same greenish substance. The interior of the capsules is marked with strange glyphs, which appear to be decorative. In fact, these are intelligent control interfaces for different purposes.
+Each capsule is spherical but the size of the capsule varies considerably. The smallest capsules are three meters in diameter; the largest is 150 meters across. All the capsules are made out of the same greenish substance. The interior of the capsules is marked with strange glyphs, which appear to be decorative. In fact, these are intelligent control interfaces for different purposes.
 
 Secondary Controls Control Pushed In Neutral Pulled Out 1 (Appearance) Opaque portal Portal displays incomprehensible information about destination
 
@@ -3062,7 +3062,7 @@ Learning to fly a capsule: Very Difficult (12+) Engineer
 
 The capsules have Thrust 6 and have between 4 and 20 Hull points each. All mechanisms and subsystems are contained inside the capsule walls and cannot be accessed by the Travellers.
 
-**Capsule Environments**:  Most of the capsules have the same environmental conditions – a breathable atmosphere, 0.8g gravity and a warm but pleasant temperature. Some have been breached; in these capsules, the atmosphere is unbreathable and the air pressure lethal (2D damage per round of exposure without a sealed suit). Note that 'down' is always towards the outside of the capsule, so the Travellers can walk around the capsule normally and there is a zero-gravity point in the exact centre of each.
+**Capsule Environments**:  Most of the capsules have the same environmental conditions – a breathable atmosphere, 0.8g gravity and a warm but pleasant temperature. Some have been breached; in these capsules, the atmosphere is unbreathable and the air pressure lethal (2D damage per round of exposure without a sealed suit). Note that 'down' is always towards the outside of the capsule, so the Travellers can walk around the capsule normally and there is a zero-gravity point in the exact center of each.
 
 **Capsule Interiors**:  Unless otherwise noted, the capsules are devoid of internal furnishings. The capsule walls are mostly smooth apart from the glyphs; larger capsules have two parallel 'benches' running around the capsule walls at the midsection. Control systems allow the capsule interiors to be reshaped.
 
@@ -3100,7 +3100,7 @@ to 45 to 43 to D
 
 #### CAPSULE MAPS
 
-**16 – TELEPORT CONTROLS** This capsule contains a stack of unattached teleport portals without associated control consoles. There is also a device floating in the centre of the capsule that resembles a metal starfish that projects a constellation of lights. There are 29 lights surrounding the starfish, corresponding to the 29 functioning portals on the ship. Four of the lights have small data tags associated with them – these correspond to the locked Bridge Portal
+**16 – TELEPORT CONTROLS** This capsule contains a stack of unattached teleport portals without associated control consoles. There is also a device floating in the center of the capsule that resembles a metal starfish that projects a constellation of lights. There are 29 lights surrounding the starfish, corresponding to the 29 functioning portals on the ship. Four of the lights have small data tags associated with them – these correspond to the locked Bridge Portal
 (Capsule A), the locked Shield Array Portal (Capsule 45), the active Generator Portal (Capsule 56) and the master Ziggurat Portal. Furthermore, if the Travellers make a portal connection, it is displayed on this map.
 
 Experimenting with the device lets the Travellers activate or shut down any portal on the ship, other than the Generator Portal and the Bridge Portal. They can also bring up a directory of portal addresses – they cannot translate the meanings of the glyphs but can work out that the binary codes are destinations and that there are 26 valid code combinations available to them.
@@ -3111,11 +3111,11 @@ If the Travellers are completely stuck, a kind Referee might allow them to react
 
 **22 – NEXUS 2** Iris hatches lead to capsules B, 15, 16 and 21. The iris hatch to Capsule B is scratched. None of the Travellers' weapons or tools can make any mark on the green material, so how this damage was inflicted is a mystery.
 
-**23 – REPAIR SYSTEM** The upper half of this capsule is taken up by the ship's auto-repair system, a complex web of micro- assemblers and atomic transmuters. Millennia ago, the auto-repair system was hijacked by the intruding virus and partially disabled. Now, instead of building components the ship needs to regenerate itself, more than half of the auto-repair system is locked in a pointless loop where it produces and then destroys blocks of a highly complex heavy alloy. Examining the machinery, the Travellers can see a spinneret in the ceiling weaving strands of a black material that hangs from the ceiling. This black material looks to be as thin and delicate as gauze but a cubic centimetre of it weighs 100 tons. Another device reels in this black gauze, a millimetre at a time, and annihilates it with a disintegrator beam.
+**23 – REPAIR SYSTEM** The upper half of this capsule is taken up by the ship's auto-repair system, a complex web of micro- assemblers and atomic transmuters. Millennia ago, the auto-repair system was hijacked by the intruding virus and partially disabled. Now, instead of building components the ship needs to regenerate itself, more than half of the auto-repair system is locked in a pointless loop where it produces and then destroys blocks of a highly complex heavy alloy. Examining the machinery, the Travellers can see a spinneret in the ceiling weaving strands of a black material that hangs from the ceiling. This black material looks to be as thin and delicate as gauze but a cubic centimeter of it weighs 100 tons. Another device reels in this black gauze, a millimeter at a time, and annihilates it with a disintegrator beam.
 
 A successful Very Difficult (12+) Engineer (power) or Mechanic check (INT) lets the Travellers work out that the machinery is stuck in a loop and that disabling the spinneret or disintegrator would free up more of the ship's resources. If the Travellers find a way to disable the locked systems, the auto-repair system can turn its attention to actual damage and repair the partially damaged capsules, opening the way to the bridge.
 
-24 – PSIONIC MIRROR Laying discarded in this capsule is a broken device, consisting of a multi-faceted metre-tall crystal, inset into a hexapodal stand. Three of the stand's legs are broken and appear to have been cut with some sort of laser. The crystal device is a potent psionic mirror.
+24 – PSIONIC MIRROR Laying discarded in this capsule is a broken device, consisting of a multi-faceted meter-tall crystal, inset into a hexapodal stand. Three of the stand's legs are broken and appear to have been cut with some sort of laser. The crystal device is a potent psionic mirror.
 
 If a Traveller with a PSI characteristic looks into the crystal, they suddenly feel a presence manifest within the device. The mirror has created a psionic duplicate of the Traveller. The duplicate starts with PSI 2D and engages the Traveller in a mental duel. The Traveller must make an opposed Telepathy check (PSI) against the duplicate's PSI. If the Traveller wins, their PSI permanently increases by an amount relative to the duplicate's PSI ( 8 or less:
 +1, 9–11: +2, 12: +3). If the Traveller loses, their PSI permanently decreases by -1 and the crystal is suddenly occupied by a little visible holographic duplicate of the Traveller. This psionic homunculus cannot leave the crystal, nor can it communicate with those outside. However, it appears to be alive within its crystal prison – it moves around, gestures and seems to react to events outside the crystal.
@@ -3170,11 +3170,11 @@ Obviously, the only way in or out of this capsule is via the teleporter. If the 
 
 Note that the crush depth for the portal is greater than that of the capsule. If the Travellers dial back to this portal, they will be warned that conditions on the far side are dangerous but they can still commit suicide by teleporter if they work at it.
 
-52 – DOCK This capsule serves as a docking port for conventional spacecraft. It is the largest that the Travellers have encountered so far, with a radius of 75 metres. The wall of the sphere can open like a clamshell to take smaller ships on board. If the Travellers approach the lower decks with the Star Hunter , then this capsule opens to welcome them. Once the capsule seals itself again, it pumps the gas giant's atmosphere out and replaces it with a breathable oxygen atmosphere.
+52 – DOCK This capsule serves as a docking port for conventional spacecraft. It is the largest that the Travellers have encountered so far, with a radius of 75 meters. The wall of the sphere can open like a clamshell to take smaller ships on board. If the Travellers approach the lower decks with the Star Hunter , then this capsule opens to welcome them. Once the capsule seals itself again, it pumps the gas giant's atmosphere out and replaces it with a breathable oxygen atmosphere.
 
 There are no other vessels in this spacedock.
 
-53 – STOREROOM The Ancients ship had microfabricators that could create items on demand; the items in this storeroom are spare parts and tools that were computationally or energetically demanding, so it was easier to make them in bulk and store them instead of building individually when needed. This capsule is crammed with Ancients storage containers. These containers are cubes of a blue substance that looks like ice but is not cold or slippery to the touch. The cubes have a range of sizes, from small enough to fit on a Traveller's hand to two metres in height.
+53 – STOREROOM The Ancients ship had microfabricators that could create items on demand; the items in this storeroom are spare parts and tools that were computationally or energetically demanding, so it was easier to make them in bulk and store them instead of building individually when needed. This capsule is crammed with Ancients storage containers. These containers are cubes of a blue substance that looks like ice but is not cold or slippery to the touch. The cubes have a range of sizes, from small enough to fit on a Traveller's hand to two meters in height.
 
 If the Travellers stand next to a cube, or leave an object close by, then the blue ice starts to grow towards the object. Left unchecked, the blue ice grows to cover the object (or even a resolutely unmoving Traveller) and forms itself into a cube that contains the object. Anything left near a storage cube is assumed to be destined for storage. If a foreign object is removed before it is encased, the ice retreats back to its default cubical state.
 
@@ -3186,7 +3186,7 @@ Note that there is a random encounter (see page 101) in this room – if you rol
 
 54 – NEXUS 7 Iris hatches lead to Capsules 53, 54 and 55.
 
-55 – COMMUNICATIONS SYSTEM This capsule houses the ship's communications system. In the centre of the capsule's floor is a raised dais while around the walls are blocky machines, including one with a control console. If a Traveller stands on the dais, this console lights up and can be interacted with. The console resembles the ones used to control the teleporters – it has a set of smaller buttons to generate a binary address, a larger on/ off button and a set of secondary controls used to manipulate various aspects of the transmission. There is also another dial associated with the address buttons. This dial lets the operator select various pre- set broadcasts, such as 'all ships in the local area, report back to base' and so on.
+55 – COMMUNICATIONS SYSTEM This capsule houses the ship's communications system. In the center of the capsule's floor is a raised dais while around the walls are blocky machines, including one with a control console. If a Traveller stands on the dais, this console lights up and can be interacted with. The console resembles the ones used to control the teleporters – it has a set of smaller buttons to generate a binary address, a larger on/ off button and a set of secondary controls used to manipulate various aspects of the transmission. There is also another dial associated with the address buttons. This dial lets the operator select various pre- set broadcasts, such as 'all ships in the local area, report back to base' and so on.
 
 The Ancients used several different communications methods. Even for Grandfather, the speed of light represented an insurmountable barrier for conventional communications. The Ancients had methods of sending energy through jumpspace without needing a ship – the teleport portals use a similar principle – but this proved ineffective for two- way communication. Over short ranges, the Ancients used mesons, radio and laser communications; for faster-than-light, they relied on quantum entangled ancibles (highly effective but limited by the number of entangled bits) and psionic telepathy.
 
@@ -3226,7 +3226,7 @@ D – STOREROOM This room is identical to Capsule 53.
 
 Ancients Bases Roll 1D to determine the destination.
 
-**4.** The Traveller materialises in utter darkness. They cannot tell but this Ancients base was flooded hundreds of thousands of years ago; their psionic avatar is four kilometres below the surface.
+**4.** The Traveller materialises in utter darkness. They cannot tell but this Ancients base was flooded hundreds of thousands of years ago; their psionic avatar is four kilometers below the surface.
 
 **5.** The Traveller finds themselves floating in deep space. Looking around, there is nothing except a free-floating teleportation portal. It is impossible to determine scale without a point of reference but the Traveller gets the impression that the portal is much, much larger than the ones on the ship.
 
@@ -3238,7 +3238,7 @@ A successful Very Difficult (10+) Astrogation check (INT) lets the Traveller wor
 
 By trial and error, the Travellers find their way onto the ship's bridge. Read the following to them:
 
-Unlike the other capsules you have visited, the walls of this one are covered in thousands of glowing symbols that scroll and shift around. In the centre of the capsule is a sort of chair or perch and a holographic field of rippling colours hangs over the chair.
+Unlike the other capsules you have visited, the walls of this one are covered in thousands of glowing symbols that scroll and shift around. In the center of the capsule is a sort of chair or perch and a holographic field of rippling colours hangs over the chair.
 
 The hologram changes to project a geometric symbol in the air over your heads. A voice speaks in a strange language.
 
@@ -3334,9 +3334,9 @@ Encounter Suit: This is an Ancients spacesuit, consisting of a silver disk that 
 Operating the suit: Difficult (10+) Vacc Suit check (1D minutes, INT) Understanding the suit: Very Difficult (12+) Vacc Suit check (1D weeks, EDU)
 
 Translator Device: The translator device is a small ovoid that can be held in the palm of a hand or pressed onto a surface to which it will automatically adhere. To activate the translator, it must be held to the forehead
-(for the clearest signal) and the control stud pressed. The translator then scans the language centre of the brain and provides a translation for any speech or text it has in its databanks. It provides the translation via ultra-low-frequency subliminal sonic beams or light beams, so the user is initially unaware of the source of the translation. The translator only works on species whose brain configuration was studied by the Ancients, so only humans, Droyne and Vargr can use the device.
+(for the clearest signal) and the control stud pressed. The translator then scans the language center of the brain and provides a translation for any speech or text it has in its databanks. It provides the translation via ultra-low-frequency subliminal sonic beams or light beams, so the user is initially unaware of the source of the translation. The translator only works on species whose brain configuration was studied by the Ancients, so only humans, Droyne and Vargr can use the device.
 
-If the user does not hold the translator to their forehead when activating it, the machine can still function but does not get a clear scan of the user's language centre. Therefore, the translation it provides is incomplete or disjointed.
+If the user does not hold the translator to their forehead when activating it, the machine can still function but does not get a clear scan of the user's language center. Therefore, the translation it provides is incomplete or disjointed.
 
 _Operating the translator:_ Difficult (10+) Science
 (linguistics) check (1D minutes, INT) _Understanding the translator:_ Very Difficult (10+) Science (biology) check (1D months, EDU)
@@ -3461,7 +3461,7 @@ Form follows function. Different races have different conceptions of beauty, of 
 
 #### THE WRECKED SHIPS
 
-The graveyard stretches in all directions for many kilometres. Most of the ships are Ancients in design, and look like larger or smaller versions of the ship encountered at Komesh – huge wedges or cylinders that are frames to support modular globes. Others are dedicated warships or couriers; these ships are even more geometric, lacking apertures or visible exterior markings. A close examination shows that the hulls are decorated with symbols visible only to creatures who can see ultraviolet light; the symbols are reminiscent of Droyne script. The ships are all non-functional, gutted hulks. Useful components and, in some cases, parts of the hull have been stripped. There are no useful relics here, no salvage to be stolen, just the tombs of starfaring giants.
+The graveyard stretches in all directions for many kilometers. Most of the ships are Ancients in design, and look like larger or smaller versions of the ship encountered at Komesh – huge wedges or cylinders that are frames to support modular globes. Others are dedicated warships or couriers; these ships are even more geometric, lacking apertures or visible exterior markings. A close examination shows that the hulls are decorated with symbols visible only to creatures who can see ultraviolet light; the symbols are reminiscent of Droyne script. The ships are all non-functional, gutted hulks. Useful components and, in some cases, parts of the hull have been stripped. There are no useful relics here, no salvage to be stolen, just the tombs of starfaring giants.
 
 If the Travellers explore the graveyard, they find signs of battle damage on some of the ships. The really dangerous battle damage was repaired or erased millennia ago, so the Travellers are not in danger of being devoured by hostile nanoswarms, getting dropped into pocket voids, or having their existence dissolved by reality-bleaching weapons, but there are burn marks and scars. Some of the hulls are dangerously radioactive. The blast patterns are similar to the damage inflicted on the Travellers' ship if they were hit in the orbit of Komesh.
 
@@ -3471,7 +3471,7 @@ In the shadow of the titanic Ancients ships are other vessels, some of which are
 
 The Travellers are not alone in the starship graveyard. When pieces of their ship landed, disassembly robots were automatically activated for the first time in thousands of years. The robots' purpose is to disable any ships that land unless ordered not to do so. If the Star Hunter is still intact, then the robots intend to disable that ship too.
 
-The robots resemble three-metre-long metal insects that flit back and forth on anti-gravity suspensors. They have long multi-purpose proboscises that are used to dissect and disassemble starships. Where necessary, the robots can detach parts of themselves and transform into smaller metallic crawlers or worms to get inside ships, or combine into larger robots to attack large components. The drones move with frightening speed and single-minded intensity, chittering to each other in bursts of informationally-dense noise.
+The robots resemble three-meter-long metal insects that flit back and forth on anti-gravity suspensors. They have long multi-purpose proboscises that are used to dissect and disassemble starships. Where necessary, the robots can detach parts of themselves and transform into smaller metallic crawlers or worms to get inside ships, or combine into larger robots to attack large components. The drones move with frightening speed and single-minded intensity, chittering to each other in bursts of informationally-dense noise.
 
 Removed components are placed inside the robot's skeletal thorax for storage; they will later be processed or stored in the Graveyard (see page 128).
 
@@ -3489,7 +3489,7 @@ They are programmed to ignore living beings under most circumstances. If the Tra
 
 The starport was designed to contain and funnel large numbers of people to the transit system underground. The port consists of a series of huge waiting rooms connected by airlocks, all leading towards the central chamber. The lights in each chamber automatically activate when the Travellers enter. The huge doors can be opened or closed with a touch but only one door in a chamber can be opened at a time – all of the Travellers have to enter a chamber and close the door behind them before the door at the far end of the chamber will open.
 
-Each room is bare apart from hatches located some 10 metres up the sheer walls. If the Travellers find a way to climb up to the hatches, they discover they are locked.
+Each room is bare apart from hatches located some 10 meters up the sheer walls. If the Travellers find a way to climb up to the hatches, they discover they are locked.
 
 To reach the central chamber, the Travellers need to pass through three airlocks. Each airlock has a specific function that triggers when used.
 
@@ -3505,7 +3505,7 @@ If they do not have such a device, they are stuck in the airlock for several min
 
 #### THE TELEPORTER
 
-At the centre of the starport is a circular chamber, in the middle of which is a huge semi-circle of silver light that slowly rotates around the vertical axis. This is a large- scale teleportation portal. When the Travellers enter the room, the teleporter is offline but it automatically activates as soon as they approach.
+At the center of the starport is a circular chamber, in the middle of which is a huge semi-circle of silver light that slowly rotates around the vertical axis. This is a large- scale teleportation portal. When the Travellers enter the room, the teleporter is offline but it automatically activates as soon as they approach.
 
 #### THE HUNTERS OF MEN
 
@@ -3541,7 +3541,7 @@ Remember to keep the pressure of time on the Travellers. If they squander half a
 
 #### TELEPORTERS
 
-There is a teleporter in the centre of each of the seven habitats. These seven teleporters are identical to the one in the centre of the starport – a huge rotating portal. A small citadel surrounds each teleporter; thousands of years ago, Grandfather's servants used these citadels to monitor the ongoing experiments. These days, Grandfather's attention is elsewhere and the citadels are abandoned.
+There is a teleporter in the center of each of the seven habitats. These seven teleporters are identical to the one in the center of the starport – a huge rotating portal. A small citadel surrounds each teleporter; thousands of years ago, Grandfather's servants used these citadels to monitor the ongoing experiments. These days, Grandfather's attention is elsewhere and the citadels are abandoned.
 
 #### REFEREE ADVICE
 
@@ -3727,7 +3727,7 @@ DM-2 if the Travellers are heavily armed, accompanied by many guards or otherwis
 Trap: A random Traveller runs into a trap. If any Traveller has Recon 2+, or if the Travellers stated they are taking precautions, then an Average (8+) Recon check lets the Travellers detect the trap. Otherwise, roll 1D on the Traps table.
 
 Traps 1D Trap 1 Pit Trap. One Traveller must make a Difficult
-(10+) DEX check or fall, suffering 2D damage. 2 Swinging log. Roll 2D; the log hits a Traveller on an 8+ and inflicts 3D damage. 3 Snare. Roll 2D; the snare hits a Traveller on a 5+ and suspends them five metres in the air. The Traveller is stuck until rescued. 4 Poison darts. Roll 2D, subtracting a Traveller's Protection from the roll. On an 8+, the Traveller is poisoned and must make an Average (8+) END check or fall unconscious and lose 2D DEX. 5 Landmine. Roll 2D; the mine is triggered on an 8+ and inflicts 4D damage to one Traveller and 2D to the others. 6 Explosive tripwire. One Traveller must make a Difficult (10+) DEX check or all Travellers suffer 4D damage.
+(10+) DEX check or fall, suffering 2D damage. 2 Swinging log. Roll 2D; the log hits a Traveller on an 8+ and inflicts 3D damage. 3 Snare. Roll 2D; the snare hits a Traveller on a 5+ and suspends them five meters in the air. The Traveller is stuck until rescued. 4 Poison darts. Roll 2D, subtracting a Traveller's Protection from the roll. On an 8+, the Traveller is poisoned and must make an Average (8+) END check or fall unconscious and lose 2D DEX. 5 Landmine. Roll 2D; the mine is triggered on an 8+ and inflicts 4D damage to one Traveller and 2D to the others. 6 Explosive tripwire. One Traveller must make a Difficult (10+) DEX check or all Travellers suffer 4D damage.
 
 Sniper: A lone Hunter in the trees fires on the Travellers. The Hunter keeps sniping at them; if they pursue, he tries to lead them into a trap.
 
@@ -3754,7 +3754,7 @@ Parts of the swamp are more acidic than others. At the upper edges of the swamp,
 
 Lurking in the depths of the swamp are a breed of nameless creatures, amphibious squid-like monsters that did not evolve naturally but were engineered by Grandfather aeons ago. They are designed as living weapons. When activated, they rise up and squirm into a target habitat, killing everything and dragging the remains back to the swamp. The swamp is their digestive system. The corpses are dissolved by the acidic mud and the creatures absorb the nutrients.
 
-The creatures are made to be thorough above all else. The squid-creatures are four metres long and strong enough to rip through steel plate but are surprisingly gentle. Their dextrous tentacles are tipped with thousands of extensible cilia, allowing them to manipulate objects less than a centimetre wide and wide saucer-shaped eyespots that dot each tentacle and their central mass.
+The creatures are made to be thorough above all else. The squid-creatures are four meters long and strong enough to rip through steel plate but are surprisingly gentle. Their dextrous tentacles are tipped with thousands of extensible cilia, allowing them to manipulate objects less than a centimeter wide and wide saucer-shaped eyespots that dot each tentacle and their central mass.
 
 #### TRAVELLING THROUGH THE SWAMP
 
@@ -3825,9 +3825,9 @@ The AI is insane, babbling about random topics from its memory banks. It describ
 
 **Gravity Field**: This is a field of scattered aluminium bars, coloured a variety of shades. The gravity in this field is strangely warped. In places, there is no gravity; in others, the force of gravity exceeds 30g. Changes in gravity are visible as atmospheric distortions.
 
-**Telepathic Pillar**: This is an unmarked pillar of white metal. Travellers who come within 10 metres of the pillar feel a sense of mounting euphoria, coupled with a buzzing noise in their ears and tooth pain. Travellers who come within three metres of the pillar are overwhelmed by joy and must make a Difficult (10+) INT test to drag themselves away. This test can be repeated after 1D hours, when the Traveller's growing thirst distracts them from the wonders of the pillar.
+**Telepathic Pillar**: This is an unmarked pillar of white metal. Travellers who come within 10 meters of the pillar feel a sense of mounting euphoria, coupled with a buzzing noise in their ears and tooth pain. Travellers who come within three meters of the pillar are overwhelmed by joy and must make a Difficult (10+) INT test to drag themselves away. This test can be repeated after 1D hours, when the Traveller's growing thirst distracts them from the wonders of the pillar.
 
-**Dimensional Fold**: This is a block of green matter, marked with extremely complex geometrical features. It is surrounded by a three-metre-radius circle of perfectly smooth sand. Any Traveller who crosses the circle's edge appears on the far side, as do any objects thrown into the circle. Effectively, only energy can cross through the circle but any matter is teleported to the far side. Experimenting with the circle is hazardous - if you try inserting a long rod or other object that is partially in and partially out of the circle, the fold ends up disintegrating part of the offending item.
+**Dimensional Fold**: This is a block of green matter, marked with extremely complex geometrical features. It is surrounded by a three-meter-radius circle of perfectly smooth sand. Any Traveller who crosses the circle's edge appears on the far side, as do any objects thrown into the circle. Effectively, only energy can cross through the circle but any matter is teleported to the far side. Experimenting with the circle is hazardous - if you try inserting a long rod or other object that is partially in and partially out of the circle, the fold ends up disintegrating part of the offending item.
 
 **Null Zone**: The null zone is a scattering of small black discs on the desert floor, which cannot be moved by the Travellers. Items within the zone are drained of energy. Electronic devices and batteries are drained first, at the rate of one item per round. Once all powered items are drained, the zone starts sapping the Travellers. Travellers in the null zone lose 1D END per round. Once END hits 0, the field drains STR and finally INT. Once Intelligence hits 0, the Traveller dies.
 
@@ -3899,11 +3899,11 @@ The carnivorous ants of the Deathzone devour everything in their path. Flesh, wo
 
 #### Oxygen Generator
 
-The Travellers happen upon one of the oxygen generators that maintain the environment. It looks like a collection of wide-mouthed pipes, made of a white stone and covered in blue moss and mould.
+The Travellers happen upon one of the oxygen generators that maintain the environment. It looks like a collection of wide-mouthed pipes, made of a white stone and covered in blue moss and mold.
 
 #### Acid Fog
 
-The acidic fog is secreted by a relative of the spitter, in patches stretching for up to a kilometre at a time. The plants migrate slowly through the forest, killing everything in their path on their long circuitous migrations. An acid fog patch inflicts 1 damage per round; armor is degraded at the rate of one point every 10 rounds. On average, it takes 2Dx10 rounds to pass through a fog patch. Only sealed suits provide any protection against the fog.
+The acidic fog is secreted by a relative of the spitter, in patches stretching for up to a kilometer at a time. The plants migrate slowly through the forest, killing everything in their path on their long circuitous migrations. An acid fog patch inflicts 1 damage per round; armor is degraded at the rate of one point every 10 rounds. On average, it takes 2Dx10 rounds to pass through a fog patch. Only sealed suits provide any protection against the fog.
 
 #### Tender Robot
 
@@ -3951,7 +3951,7 @@ If the Travellers experiment with the oxygen generators, they can easily increas
 
 #### THE CUSTODIAN
 
-On the far side of the Deathzone is a tower of white stone, the only visible entrance a ledge some five metres above ground level. As they approach the tower, a Droyne emerges and glides down towards them. This is the Custodian. It is not actually a Droyne - it is a robot that looks identical to a living Droyne. The robot is more intelligent than any of the Travellers and has a wealth of defensive systems and weapons, the most notable of which is a gravity-projection field that can immobilise a Traveller and block any projectile weapon, including plasma or fusion bursts.
+On the far side of the Deathzone is a tower of white stone, the only visible entrance a ledge some five meters above ground level. As they approach the tower, a Droyne emerges and glides down towards them. This is the Custodian. It is not actually a Droyne - it is a robot that looks identical to a living Droyne. The robot is more intelligent than any of the Travellers and has a wealth of defensive systems and weapons, the most notable of which is a gravity-projection field that can immobilise a Traveller and block any projectile weapon, including plasma or fusion bursts.
 
 Attacking the Custodian is pointless. It can easily defend itself against any attack that the Travellers can deploy and there are hundreds more Custodians on the planet. If they somehow destroy this Custodian, more arrive via teleporter after a few minutes.
 
@@ -3959,7 +3959,7 @@ Initially, the Custodian assumes the Travellers are escaped Ilimdaki and questio
 
 #### THE TRANSIT HUB
 
-The transit hub looks like a larger version of the teleport citadel but without the spinning portal in the centre. Instead, there is a bowl-shaped depression surrounded by a gauzy haze that parts when the Travellers approach. On close examination, the haze consists of thousands of tiny metallic objects suspended in an anti- gravity field.
+The transit hub looks like a larger version of the teleport citadel but without the spinning portal in the center. Instead, there is a bowl-shaped depression surrounded by a gauzy haze that parts when the Travellers approach. On close examination, the haze consists of thousands of tiny metallic objects suspended in an anti- gravity field.
 
 The Travellers are placed inside the hub by the Custodian and the machine is activated. The haze turns silver and then flashes with a colour not seen in our universe. They lose consciousness for a moment - perhaps they are in hyperspace for hours, or only an instant, but they are unaware of the transition as they are flung bodily through jumpspace... to Grandfather.
 
@@ -3973,7 +3973,7 @@ A trio of robots, identical to the Custodian, arrive and surround the Travellers
 
 The robots project a force field, lifting the Travellers into the air and carrying them across the surface of the station.
 
-Up ahead, the Travellers see that the swarm of activity appears to be centered around a particular point. There is a swirl of robots coming and going, of energy flows and transmissions, and at the centre of all this is a small figure. He floats three metres off the ground, in a green sphere of energy, directing the machinery according to his grand design.
+Up ahead, the Travellers see that the swarm of activity appears to be centered around a particular point. There is a swirl of robots coming and going, of energy flows and transmissions, and at the center of all this is a small figure. He floats three meters off the ground, in a green sphere of energy, directing the machinery according to his grand design.
 
 All the Travellers feel the urge to prostrate themselves before this presence. Those steeped in the culture of a religion may perceive the figure as God; other Travellers feel overwhelming feelings of awe and terror. Even at this range, the figure's psychic weight is far beyond anything the Travellers have ever experienced before.
 
@@ -4015,7 +4015,7 @@ There are no professionals or specialists among them, nor are there teachers. Il
 
 #### THE WALL
 
-The first Queen of Rifles ordered the construction of defensive ramparts to protect the Ilimdaki against the Hunters. These fortifications are still in place, perfectly maintained and secure as they were 200 years ago. The Wall is eight metres high on average with a bastion placed every kilometre and gatling guns and rifle emplacements all along the walls. Vegetation has been cleared on either side of the Wall, creating a 200-metre wide kill zone.
+The first Queen of Rifles ordered the construction of defensive ramparts to protect the Ilimdaki against the Hunters. These fortifications are still in place, perfectly maintained and secure as they were 200 years ago. The Wall is eight meters high on average with a bastion placed every kilometer and gatling guns and rifle emplacements all along the walls. Vegetation has been cleared on either side of the Wall, creating a 200-meter wide kill zone.
 
 The Wall is not a perfect defence against the resourceful and vicious Hunters but proof against most attacks. Incursions are a rare event and the Ilimdaki have the advantage of both numbers and technology.
 
@@ -4025,7 +4025,7 @@ The city of Yas is a study in contrasts. Every building is perfectly constructed
 
 A Routine (+6) Science (archaeology or sophontology) or Craft (architecture) check (INT) notes several unusual things about the city. Firstly, architecture styles and techniques have not changed since the city was first built – the oldest buildings are identical in construction technique and design to those still under construction. Secondly, the overall aesthetic is similar to that of the starport that the Travellers arrived at.
 
-At the centre of the city is the palace, where the current 'ruler' of the Ilimdaki resides. Queen Nalu is a direct female-line descendant of the original Queen of Rifles, although she lacks her ancestors' innovative streak. Nonetheless, she takes her responsibilities seriously and as soon as she realises that the Travellers are outsiders with the capacity for original thought, she will do everything in her power to get them to aid the Ilimdaki.
+At the center of the city is the palace, where the current 'ruler' of the Ilimdaki resides. Queen Nalu is a direct female-line descendant of the original Queen of Rifles, although she lacks her ancestors' innovative streak. Nonetheless, she takes her responsibilities seriously and as soon as she realises that the Travellers are outsiders with the capacity for original thought, she will do everything in her power to get them to aid the Ilimdaki.
 
 Nalu is advised by the religious leaders of the Ilimdaki, who worship the Maker. Their genetic memory means that the Ilimdaki know that the Maker machine is a cloning facility but they worship whatever force or intelligence built the Cloning Machine in the first place. Effectively, they indirectly worship Grandfather in a hesitating, confused fashion. The leader of the priestly caste is Irkur, an elderly priest who is next in line to be sent to tend to the Maker (see page 124). He clings to his current role with all his might; he is the most ambitious and conniving Ilimdaki of the current generation.
 
@@ -4217,7 +4217,7 @@ Currently, the tribe is resident in a cave complex on a hillside. The caves offe
 
 It is up to the Precursors how they want to approach this. The _Krinyaoth_ can reconfigure itself to enter the atmosphere and land, or they can travel to the surface in shuttle-pods. The Precursors' instructions from the High Council state that the humans are not to be harmed and that they should be transplanted to their new world with as little trauma as possible. Let the Precursors decide how best to:
 
-- **Collect all 500 humans in one place.** The tribe must be kept intact. Hunting parties come and go from the cave all the time and the tribe is scattered over several kilometres of terrain. How do the Precursors corral and gather the humans?
+- **Collect all 500 humans in one place.** The tribe must be kept intact. Hunting parties come and go from the cave all the time and the tribe is scattered over several kilometers of terrain. How do the Precursors corral and gather the humans?
 - **Get them on board the** **_Krinyaoth._** The humans have not yet developed a concept of the supernatural – that comes with the development of settled culture and agriculture – but they are terrified of big, powerful things like starships and aliens. The Precursors need to either lure the humans on board or else take control of the tribe.
 - **Keep the tribe alive during the year-long journey to their destination.** There is sufficient living space on board the _Krinyaoth_ for the humans and the ship can replicate food for humans. Alternatively, the Precursors can put the humans into high-tech low berths for the duration of the voyage.
 
@@ -4345,7 +4345,7 @@ Notable power blocs and representative characters are:
 
 - Artistically, Jol is by far the most cosmopolitan of the kingdoms. Their culture is influenced by dozens of other nations.
 
-- **Suggested Encounters:** Aja mistakes the Precursors for emissaries from a distant kingdom; her advisers jostle for position by offering favours to the Precursors and end up tearing the kingdom apart; bands of rival artists stalk the boardwalks of Jol by night, fighting for the Precursors' attention in bloody rapier duels.
+- **Suggested Encounters:** Aja mistakes the Precursors for emissaries from a distant kingdom; her advisers jostle for position by offering favors to the Precursors and end up tearing the kingdom apart; bands of rival artists stalk the boardwalks of Jol by night, fighting for the Precursors' attention in bloody rapier duels.
 
 - **Perid:** Expansionist Perid is a loose coalition of hill tribes and mercenary bands who have conquered several small kingdoms in recent years.
 
@@ -4550,7 +4550,7 @@ Furthermore, Precursors who have high Culture skills know some secrets...
 
 > [!info]- Read the following to the Precursors:
 >
-> _Three thousand years have passed since the victory over the alien invaders. Cordillon is now a world of culture and art, and today marks a grand festival to celebrate the continued rise of the Droyne civilization. Hundreds of ships have come through the interstellar portal from the core worlds; everywhere you look, you see teleportals opening to disgorge Droyne, AI drones and other telepresences, as well as servant robots and uplifted pets. There is a carnival air to the whole world – and you are all at the centre of it. This festival acknowledges your contribution to the development of Cordillon._
+> _Three thousand years have passed since the victory over the alien invaders. Cordillon is now a world of culture and art, and today marks a grand festival to celebrate the continued rise of the Droyne civilization. Hundreds of ships have come through the interstellar portal from the core worlds; everywhere you look, you see teleportals opening to disgorge Droyne, AI drones and other telepresences, as well as servant robots and uplifted pets. There is a carnival air to the whole world – and you are all at the center of it. This festival acknowledges your contribution to the development of Cordillon._
 >
 > _The one guest who should be here but is conspicuously absent is One Seven Four. That Son could step through a portal at any moment but his absence is remarked on by other delegates._
 
@@ -4606,7 +4606,7 @@ Half the planet is dead already, even if the humans do not all know it yet. The 
 
 Calling for Aid: The Precursors can use that one military ansible or a jump drone to call for aid. Without the portal network, however, they have to rely on jump-capable ships and there are few of those left. Just evacuating the Droyne will take weeks; saving the humans might take months. If the Precursors could remove the source of the interference, they could use the portals instead.
 
-Evacuation: There are very few jump-capable ships on Cordillon. A Precursor can make an Average (8+) Logistics check (COO) to maximise the number of people rescued from the doomed world. Ask the Precursor what sort of refugees they favour – Droyne only, humans only, the best artists, the youngest, the healthiest, copies of mindstates and genetic samples only, and so on.
+Evacuation: There are very few jump-capable ships on Cordillon. A Precursor can make an Average (8+) Logistics check (COO) to maximise the number of people rescued from the doomed world. Ask the Precursor what sort of refugees they favor – Droyne only, humans only, the best artists, the youngest, the healthiest, copies of mindstates and genetic samples only, and so on.
 
 Building Shelters: An Average (8+) Construction check (COO) lets a Precursor assemble shelters for the human population. If the Precursor succeeds with Effect 6+, they can build enough shelters for everyone before the flare hits. Otherwise, they must choose who to exclude from the shelter.
 
@@ -5023,7 +5023,7 @@ Drop in any of these encounters as the Travellers explore the city:
 (mostly Scholars and Sports) demanding greater investment in science. Their chants call for the Church of Grandfather to have less influence over the direction of scientific research. Questioning any of the demonstrations points the Travellers towards Professor Ankor in the university.
 
 - Human Casting: A trio of humans are undergoing a casting ceremony in a public park. They are being inducted into the Technician caste; as part of this ceremony, they are permitted to eat food normally restricted to the Technician caste and have their fingers surgically altered to be more dextrous. The procedure is painful but must be endured to qualify for the caste.
-- Grandfather's Cloak: As milky night falls across Ushen, the Travellers hear the songs of the priests of Grandfather singing a hymn of thanks for another day under the heavenly protection of God. If the Travellers investigate, they meet an old Droyne priest who tells them his favourite parable, the story of how the Yaskoti were once evil and misguided, and how Grandfather washed them away in a great gamma-ray burst and then remade them. Travellers who know about the Cloning Machines (see Otherworld ) recognize the root of this myth.
+- Grandfather's Cloak: As milky night falls across Ushen, the Travellers hear the songs of the priests of Grandfather singing a hymn of thanks for another day under the heavenly protection of God. If the Travellers investigate, they meet an old Droyne priest who tells them his favorite parable, the story of how the Yaskoti were once evil and misguided, and how Grandfather washed them away in a great gamma-ray burst and then remade them. Travellers who know about the Cloning Machines (see Otherworld ) recognize the root of this myth.
 - Security Forces: The Droyne security forces conduct a drill at the edge of the city. The Travellers see armed Droyne flying overhead, escorting an armored zeppelin crammed with artillery weapons.
 - Stellar Anomaly: The Travellers see something unusual in the night sky – a strange flaring light, pulsing then fading. It could be a really big ship jumping into orbit...
 
@@ -5084,7 +5084,7 @@ This shadowy government department is dedicated to preserving the status quo in 
 
 While the Bureau has connections to the Church of Grandfather, it is a secular organization. The Church's goals and those of the Bureau do not always align; the Bureau is not wholly opposed to new technologies and beliefs, so long as their introduction is carefully managed so as not to disrupt Yaskoti culture.
 
-The Bureau's centre of operations in Ushen is an underground facility beneath the city centre. From here, Bureau agents monitor communications, spy on seditious gatherings and dispatch agents to deal with 'problems'.
+The Bureau's center of operations in Ushen is an underground facility beneath the city center. From here, Bureau agents monitor communications, spy on seditious gatherings and dispatch agents to deal with 'problems'.
 
 #### ATOS
 
@@ -5213,7 +5213,7 @@ The attack by Seven's forces do not happen according to a set timeline; instead,
 The events leading up to the invasion take place in roughly the following order:
 
 - The Travellers arrive through the teleportation portal.
-- A short time later, a half-dozen assassin drones arrive through the portal. One drone locates the nearest population centre (the village closest to Lan's farmstead) and travels there. The other five fly high into the atmosphere and locate the largest cities. They then drop capsules containing the zombie plague. The infection begins.
+- A short time later, a half-dozen assassin drones arrive through the portal. One drone locates the nearest population center (the village closest to Lan's farmstead) and travels there. The other five fly high into the atmosphere and locate the largest cities. They then drop capsules containing the zombie plague. The infection begins.
 - The assembler robots come through the portal.
 - The zombie plague spreads. The Bureau of Security becomes aware something is wrong.
 - The first attack by an assassin drone occurs when Bureau of Security forces attack zombies on the outskirts of Ushen.
@@ -5238,7 +5238,7 @@ The Travellers may be followed by zombies at this point but they will not be att
 #### THE MISSING ARCHIVE
 
 Killing Yaskoydray may be satisfying (if
-'satisfaction' is an emotion that can be ascribed to a quarter-million year old living warship) but it is an empty gesture unless Seven can also annihilate Grandfather's Family Archive. All of the Ancients had facilities in place to enable them to cheat death in one form or another, a way of resurrecting themselves. Grandfather, for example, favours cloned bodies. If his current form is mortally wounded, he psionically jumps his consciousness to another clone body.
+'satisfaction' is an emotion that can be ascribed to a quarter-million year old living warship) but it is an empty gesture unless Seven can also annihilate Grandfather's Family Archive. All of the Ancients had facilities in place to enable them to cheat death in one form or another, a way of resurrecting themselves. Grandfather, for example, favors cloned bodies. If his current form is mortally wounded, he psionically jumps his consciousness to another clone body.
 
 It is an unwritten law that each of the Ancients has only a single 'active' version of themselves at any time. All the Sons were made from Grandfather and they share in his ego. Each believes themselves to be the supreme intellect in the cosmos and the last rival they could tolerate is another version of themselves.
 
@@ -5375,7 +5375,7 @@ The western mountains are 10 hour's drive away from Ushen under normal circumsta
 
 #### THE GREAT CRATER
 
-The scourge machines have found something – not the Family Archive they seek but an Ancients structure buried deep beneath the surface. This is an old experiment of Grandfather's, abandoned for thousands of years. It is a terraforming machine, used to alter the atmosphere and gravity of the planet. The scourge machines have blasted their way down to the structure, creating a two-kilometre wide trench right across the Travellers' path.
+The scourge machines have found something – not the Family Archive they seek but an Ancients structure buried deep beneath the surface. This is an old experiment of Grandfather's, abandoned for thousands of years. It is a terraforming machine, used to alter the atmosphere and gravity of the planet. The scourge machines have blasted their way down to the structure, creating a two-kilometer wide trench right across the Travellers' path.
 
 Through the smoke and the burning rock, the Travellers can spot some sort of alien structure at the bottom of the trench but it is utterly inaccessible – the temperature at the bottom is in excess of 2,300ºK.
 
@@ -5385,9 +5385,9 @@ Checking maps, the Travellers discover there is no easy way to drive around the 
 
 The military base is a small one, used for refuelling and refitting the army's aerial artillery pieces. The plague wiped out the staff here, leaving the place undefended. A brief search of the military base finds a single semi- functional airship anchored in a hangar. The airship's control surfaces are damaged but can be repaired with an Average (8+) Mechanic check (1D hours, EDU).
 
-CAOL'S SUPPLY CACHE The Travellers may take a short detour to the small village of Galor, some 50 kilometres north of Ushen, to retrieve the supply cache mentioned by Caol. The village is empty – all the inhabitants were Droyne and their plague-infested bodies are currently radiating out from the village in a spiral search pattern, transmitting topological data back to the scourge machines as they search for the Family Archive.
+CAOL'S SUPPLY CACHE The Travellers may take a short detour to the small village of Galor, some 50 kilometers north of Ushen, to retrieve the supply cache mentioned by Caol. The village is empty – all the inhabitants were Droyne and their plague-infested bodies are currently radiating out from the village in a spiral search pattern, transmitting topological data back to the scourge machines as they search for the Family Archive.
 
-The supply cache is located beneath the small village church. It reminds the Galor, some 50 kilometres north of Ushen, to retrieve the supply cache mentioned by Caol of Uncle Vlen's hunting lodge on Alell (see page 52, in Homecoming); the cellar room is crowded with keepsakes and curiosities from dozens of cultures. There is a framed letter of commendation from a Vilani noble of the First Imperium, the robes of a Zhodani Consul, a set of holographs showing Caol with bureaucrats and adventurers from the Second Imperium, strange alien relics, an Aslan dewclaw in a case and piles of other items; old books, different sets of clothes, spare parts and high- tech gadgets. Useful items include:
+The supply cache is located beneath the small village church. It reminds the Galor, some 50 kilometers north of Ushen, to retrieve the supply cache mentioned by Caol of Uncle Vlen's hunting lodge on Alell (see page 52, in Homecoming); the cellar room is crowded with keepsakes and curiosities from dozens of cultures. There is a framed letter of commendation from a Vilani noble of the First Imperium, the robes of a Zhodani Consul, a set of holographs showing Caol with bureaucrats and adventurers from the Second Imperium, strange alien relics, an Aslan dewclaw in a case and piles of other items; old books, different sets of clothes, spare parts and high- tech gadgets. Useful items include:
 
 - Another TL22 Fusion Pistol, similar to the weapon he gave the Travellers earlier
 - A TL15 Grav Belt
@@ -5459,7 +5459,7 @@ And that means taking risks, like transferring his consciousness into a host so 
 
 1. The rocket launches. The drone strafes the launch facility, blasting it to pieces, but the Travellers are already climbing into the sky on a pillar of fire. The acceleration slams the Travellers back in their seats and rattles their bones.
 
-One-by-one, the booster stages drop away, until only the capsule is left, floating serenely in space. The Traissthurdusa is 6,000 kilometres distant and approaching quickly.
+One-by-one, the booster stages drop away, until only the capsule is left, floating serenely in space. The Traissthurdusa is 6,000 kilometers distant and approaching quickly.
 
 #### INTO ORBIT
 
@@ -5644,7 +5644,7 @@ On other Kinunir-class vessels, this middle deck contains the ship's small craft
 
 toiletries and other supplies are stacked in the cavernous wounds that were once hangars. The prison cells are on this deck; most cells were formerly crew quarters but troublesome prisoners may be placed in solitary confinement in the ship's old brig.
 
-Prisoner Quarters: Cells on board the Gash are spartan but not actively tortuous. Most prisoners share a room with another inmate. Each room contains two bunks, a sink and a small fold-out table. In some rooms, there is a display screen for watching videos – a heavily restricted library of entertainment programmes is available from the ship's computer. Large Quarters: Some cells were originally larger barracks used by the ship's marine squads. The Travellers are placed in one of these shared cells, in the hope they will talk amongst themselves and their conversations can be recorded by the guards. Each of the larger cells contains bunk beds for 12 people, a shower and bathroom facilities (concealed behind a plastic screen), a table and chairs, and a display screen. Brig: The ship's brig was the only room on this whole deck left unchanged in the decommissioning process. The brig consists of three cells and a guard's post, which is manned at all times if there is a prisoner in solitary confinement. Sickbay: While several guards are trained in basic first aid, the prison lacks a doctor. There is a high-quality autodoc in the sickbay but if a prisoner needs medical care beyond its capacity, a naval doctor is flown in from the naval base. Gym: The ship has a well-equipped gym with treadmills, weights machines, exercise bikes and even a fencing piste (for imprisoned nobles). Cargo Elevator: The elevator that links the decks still works but is very slow and makes a loud grinding noise when in operation. The crew prefer to use inter-deck ladders and iris hatches when moving from deck-to- deck; the cargo elevator is only used for moving cargo Vehicle Airlocks: These airlocks have been welded shut and cannot be opened. Drop Capsule Tubes: Once, the ship would invert itself and launch marines through these tubes. The capsule tubes are still mostly in working order but the end of each tube has been sealed with a welded cap. Aft Airlocks: The aft airlocks still function but activating them sounds an alarm on A deck. Security Control Room: This room has been stripped of furnishings and equipment but most of the internal wiring is still intact. With the right tools and a Difficult
+Prisoner Quarters: Cells on board the Gash are spartan but not actively tortuous. Most prisoners share a room with another inmate. Each room contains two bunks, a sink and a small fold-out table. In some rooms, there is a display screen for watching videos – a heavily restricted library of entertainment programs is available from the ship's computer. Large Quarters: Some cells were originally larger barracks used by the ship's marine squads. The Travellers are placed in one of these shared cells, in the hope they will talk amongst themselves and their conversations can be recorded by the guards. Each of the larger cells contains bunk beds for 12 people, a shower and bathroom facilities (concealed behind a plastic screen), a table and chairs, and a display screen. Brig: The ship's brig was the only room on this whole deck left unchanged in the decommissioning process. The brig consists of three cells and a guard's post, which is manned at all times if there is a prisoner in solitary confinement. Sickbay: While several guards are trained in basic first aid, the prison lacks a doctor. There is a high-quality autodoc in the sickbay but if a prisoner needs medical care beyond its capacity, a naval doctor is flown in from the naval base. Gym: The ship has a well-equipped gym with treadmills, weights machines, exercise bikes and even a fencing piste (for imprisoned nobles). Cargo Elevator: The elevator that links the decks still works but is very slow and makes a loud grinding noise when in operation. The crew prefer to use inter-deck ladders and iris hatches when moving from deck-to- deck; the cargo elevator is only used for moving cargo Vehicle Airlocks: These airlocks have been welded shut and cannot be opened. Drop Capsule Tubes: Once, the ship would invert itself and launch marines through these tubes. The capsule tubes are still mostly in working order but the end of each tube has been sealed with a welded cap. Aft Airlocks: The aft airlocks still function but activating them sounds an alarm on A deck. Security Control Room: This room has been stripped of furnishings and equipment but most of the internal wiring is still intact. With the right tools and a Difficult
 (10+) Electronics (computers) check (1D minutes, INT), it is possible to switch off the alarms or override any iris hatch or airlock on B deck. Pinnace Dock: The Kinunir-class vessels all carried a pinnace; the one belonging to the Gaesh was sold off when the ship was decommissioned. The pinnace dock is now the main airlock for the prison; new inmates and supplies are brought on board via this large bay.
 
 C DECK C deck was the heart of the ship when in use, containing the ship's main drives, weapon banks and crew quarters. The weapons have obviously been removed from the Gaesh , as have the ship's landing legs – the Gaesh is no longer rated for atmospheric re-entry, so the whole leg armature was removed along with the particle beams. The original intent was for crew quarters to be converted to more prison cells but the prison population never rose to anticipated levels, so C deck remains uninhabited and largely unused.
@@ -5660,7 +5660,7 @@ Suppression Device Range Options Intensity Options
 +2: 10m cone +3: Disrupts simple electrical devices (lights, heaters, TL6 or less)
 +3: 100m cone +2: Disrupts complex electronic devices (computers, microelectronics etc, TL8 or less) 0+4: 1km cone +1: Disrupts highly sensitive electronic devices (NAS detectors, high-tech computers, high-TL devices)
 
-For example, setting it to a 100 metre cone means it can only suppress complex and supersensitive devices at best.
+For example, setting it to a 100 meter cone means it can only suppress complex and supersensitive devices at best.
 
 #### ANCIENTS SUPPRESSION DEVICE
 
@@ -5714,7 +5714,7 @@ Poad could have turned up at the Gash as a prisoner or as staff. He was a clerk 
 
 Poad finds the prison intensely boring. He knows that the Imperial Navy does not trust him and that he will never be given another assignment or allowed to leave
 
-- at least, not without having his memories chemically scrubbed. He has tried to curry favour with Warden Hawberk by suggesting they use information from prisoners to advance the warden's political ambitions but, so far, Hawberk has resisted. Poad entertains himself by sneaking down to B deck and talking to prisoners in the hopes of picking up useful gossip.
+- at least, not without having his memories chemically scrubbed. He has tried to curry favor with Warden Hawberk by suggesting they use information from prisoners to advance the warden's political ambitions but, so far, Hawberk has resisted. Poad entertains himself by sneaking down to B deck and talking to prisoners in the hopes of picking up useful gossip.
 
 - Poad is an ambitious little toad. He has given up on his naval career; if the Travellers bribe him with promises of vast wealth or Ancients technology, he may well help them escape.
 
@@ -5940,7 +5940,7 @@ He shares a cell with Baronet Vulis.
 
 Thoic is a journalist and writer for newsfeeds and journals on Regina, specialising in military analysis and new technologies. Ironically, it was her series of reports on the lacklustre performance of the _Kinunir_ -class that dragged that debacle into the public eye and led to the cancellation of the four final vessels in the original production run of 24 ships. She also correctly speculated that the _Kinunir_ was being used as a test bed for a new defence system, the Ancients-derived black globe generators, although she was unable to discover the nature or provenance of the new technology.
 
-Six months ago, Abshur wrote a speculative essay on the old Longbow (Long Baseline Observation Window) project, an experiment in the 800's that linked a network of sensor platforms to replicate a sensor dish some 42 billion metres across, which permitted the Imperium to observe objects up to 1,500 parsecs away. The original Longbow was used to observe Zhodani traffic in the galactic core; Abshur speculated that a second Longbow array could use newer jump-6 couriers and cutting-edge computing to create an even more powerful telescope. Unwittingly, Abshur had stumbled upon one of the Imperium's most closely-guarded secrets – there is indeed a Longbow-2 project underway.
+Six months ago, Abshur wrote a speculative essay on the old Longbow (Long Baseline Observation Window) project, an experiment in the 800's that linked a network of sensor platforms to replicate a sensor dish some 42 billion meters across, which permitted the Imperium to observe objects up to 1,500 parsecs away. The original Longbow was used to observe Zhodani traffic in the galactic core; Abshur speculated that a second Longbow array could use newer jump-6 couriers and cutting-edge computing to create an even more powerful telescope. Unwittingly, Abshur had stumbled upon one of the Imperium's most closely-guarded secrets – there is indeed a Longbow-2 project underway.
 
 The Imperial authorities assumed someone must have leaked this ultra-secure military secret to the journalist, so Abshur was arrested and detained until she revealed her source. The article was suppressed and will never see publication. While Abshur claims she has no insider knowledge of Longbow-2, the security services are unconvinced of her innocence, so she is being detained
 'at the Emperor's pleasure' without trial and without limit on the length of her incarceration.
@@ -6048,7 +6048,7 @@ There is a scout training base at Pixie; scout ships from that base often dock a
 
 #### THE PIXIE SYSTEM
 
-The Gash is in a geostationary orbit over the north pole of the Pixie system gas giant. This region is under a traffic exclusion order – vessels coming within 10,000 kilometres of the prison hulk are automatically recorded and warned to change course.
+The Gash is in a geostationary orbit over the north pole of the Pixie system gas giant. This region is under a traffic exclusion order – vessels coming within 10,000 kilometers of the prison hulk are automatically recorded and warned to change course.
 
 The mainworld is a small vacuum world inhabited by miners. The major settlement surrounds the huge, busy starport and naval base. The base itself is defended by another _Kinunir_ -class cruiser as well as small scout ships.
 
@@ -6118,7 +6118,7 @@ Arisa escorts the Travellers to their communal cell.
 
 EQUIPMENT, SHIPS AND OTHER MATTERS The Travellers have been stripped of all equipment and have nothing except clothing and footwear. Bags, each containing a towel and other toiletries, are left on the bunks for the new prisoners. Any equipment that the Travellers brought out of the pocket universe is now being stored in the storeroom on A deck.
 
-If the Travellers left the pocket universe on the Droyne rocket, then it was abandoned and burned up in the atmosphere of Boughene. However, if they escaped on the _Star Hunter_ , then it is now in orbit five kilometres away from the Gash.
+If the Travellers left the pocket universe on the Droyne rocket, then it was abandoned and burned up in the atmosphere of Boughene. However, if they escaped on the _Star Hunter_ , then it is now in orbit five kilometers away from the Gash.
 
 #### LIFE IN PRISON
 
@@ -6293,7 +6293,7 @@ BACKING! If the Travellers are able to convince both Arisa and Galen to aid them
 
 #### STEALING A SHIP
 
-If the Star Hunter survived the pocket universe, then it is floating in orbit some five kilometres away from the prison hulk. The Travellers can cross this distance by jumping off the prison hulk and floating across to the ship, using telekinesis or manoeuvring jets to adjust their course.
+If the Star Hunter survived the pocket universe, then it is floating in orbit some five kilometers away from the prison hulk. The Travellers can cross this distance by jumping off the prison hulk and floating across to the ship, using telekinesis or manoeuvring jets to adjust their course.
 
 If the Travellers do not have their own ship, they need to steal one. Scout ships visit the prison hulk during training missions; alternatively, if the Travellers manage to seize the bridge, they can send a distress call. The prisoner and supply shuttles are not jump- capable but could be used to get the Travellers to the Pixie naval base where they can steal a ship from the orbital yards there.
 
@@ -6454,7 +6454,7 @@ Another option is to hijack Janter Riles' courier ship.
 
 #### TRADING FOR A SHIP
 
-If the Travellers are in possession of a scout ship or other vessel, they can swap it for a new, 'clean' ship that the Imperium will not recognize. Such an exchange can be completed at any non-Imperial world or at an Imperial world with Law Level 4 or less (like Dentus or Yorbind). The trade is arranged by a Vargr fixer named Gvarney, a grizzled old ex-pirate. She offers the Travellers a battered old scout ship (again, roll 1D times on the Spacecraft Quirks table on page 164 of the Traveller Main Rulebook to determine the ship's state, alternating between the military and other two columns). The cost of the scout ship is MCr36.769, minus MCr3 per roll on the Spacecraft Quirks table. If the cost of the ship is less than the value of the Travellers' vessel, Gvarney offers a straight swap; if the battered scout ship costs more than the Travellers' ship, Gvarney wants the difference in price plus Cr500000. She will accept Ancients relics in trade.
+If the Travellers are in possession of a scout ship or other vessel, they can swap it for a new, 'clean' ship that the Imperium will not recognize. Such an exchange can be completed at any non-Imperial world or at an Imperial world with Law Level 4 or less (like Dentus or Yorbund). The trade is arranged by a Vargr fixer named Gvarney, a grizzled old ex-pirate. She offers the Travellers a battered old scout ship (again, roll 1D times on the Spacecraft Quirks table on page 164 of the Traveller Main Rulebook to determine the ship's state, alternating between the military and other two columns). The cost of the scout ship is MCr36.769, minus MCr3 per roll on the Spacecraft Quirks table. If the cost of the ship is less than the value of the Travellers' vessel, Gvarney offers a straight swap; if the battered scout ship costs more than the Travellers' ship, Gvarney wants the difference in price plus Cr500000. She will accept Ancients relics in trade.
 
 #### IMPERIAL AID
 
@@ -6466,7 +6466,7 @@ En route to Vargr space, Grandfather's Host has another psionic flash and they s
 
 The cache's location is assumed to be on Pixie but can be transplanted to another world if necessary. The cache is hidden inside a shallow cave within a cliff face in the wilderness. Exploring the cave shows no sign of technology, other than a strangely flat surface at the very back of the cave. Touching this surface and sending the right psionic signal (any Traveller with the PSI characteristic can do so) causes the rock to ripple and transform, revealing a teleportation portal like the ones the Travellers have already seen.
 
-Stepping through the portal brings the Travellers into another cavern. The air in this cave is hot, but breathable, and smells of metal and chemicals. The cave is bubble-shaped, without any visible exits other than the portal. Huge metallic ribs line the walls and pulse with a dull red light. There is an underlying sense of pressure. Checking instruments reveals that the Travellers are 4,000 kilometres directly below the cave on the surface.
+Stepping through the portal brings the Travellers into another cavern. The air in this cave is hot, but breathable, and smells of metal and chemicals. The cave is bubble-shaped, without any visible exits other than the portal. Huge metallic ribs line the walls and pulse with a dull red light. There is an underlying sense of pressure. Checking instruments reveals that the Travellers are 4,000 kilometers directly below the cave on the surface.
 
 The Ancients cache is crammed with cryptic gadgets and treasures. It reminds the Travellers strongly of the hangar under Vlen Backett's hunting lodge (see Homecoming ) or Caol's weapons cache in the pocket universe (see The Death of Grandfather ) but this one has an emphasis on Imperial and Vargr items. There are suits of clothing, travel documents, personal effects and cash (Cr250000 in cash, cheques and treasure). There are also several items of immediate use.
 
@@ -6558,7 +6558,7 @@ Feri's locked in a low-intensity civil war between pro- and anti-secessionists a
 
 #### FORRODHKHOKH
 
-A typical Vargr world, Forrodhkhokh has been under the control of the 40<sup>th</sup> Squadron for generations. The garden world is divided into hundreds of estates, each owned by a single officer from the ships who fly the flag of Forrodhkhokh. A junior officer's family might hold a few square kilometres; a captain rules over a whole nation and if the Squadron Leader is Forrodhkhokh- born, they also hold the title Lord of Forrodhkhokh in addition to their naval rank. The whole planet holds the navy in the highest esteem.
+A typical Vargr world, Forrodhkhokh has been under the control of the 40<sup>th</sup> Squadron for generations. The garden world is divided into hundreds of estates, each owned by a single officer from the ships who fly the flag of Forrodhkhokh. A junior officer's family might hold a few square kilometers; a captain rules over a whole nation and if the Squadron Leader is Forrodhkhokh- born, they also hold the title Lord of Forrodhkhokh in addition to their naval rank. The whole planet holds the navy in the highest esteem.
 
 Patron: Engineer Khuegarkhu Payment: Estates on Forrodhkhokh Mission: Khuegarkhu was the assistant jump engineer on board the Vargr frigate Kuezgatho until there was an accident on board. She was blamed for failing to correctly calibrate the jump drive but is convinced that the refined hydrogen contained impurities. If they have Engineer (j-drive) 3+, she wants the Travellers to serve as expert witnesses and test a sample of the 'refined' hydrogen in their jump drive. If they assist her, she offers them land in her family estates – estates she stands to lose anyway if she loses her rank. Twist: While the hydrogen is indeed impure, the drives should have been able to handle it. Khuegarkhu was responsible for the accident – but if the Travellers admit this, they will get nothing.
 
@@ -6587,7 +6587,7 @@ sga:  Human N/A N/A
 
 #### GHISAERSAE
 
-This is a Vargr agricultural colony, with a population of some seven million (65% Vargr, 45% human) scattered thinly over the whole planet; each tiny village is surrounded by hundreds of kilometres of farmland. The planet has invested heavily in Walker Robotics agri-mechs.
+This is a Vargr agricultural colony, with a population of some seven million (65% Vargr, 45% human) scattered thinly over the whole planet; each tiny village is surrounded by hundreds of kilometers of farmland. The planet has invested heavily in Walker Robotics agri-mechs.
 
 There is a corsair base on Ghisaersae, commanded by a Vargr named Nokhu. He rules a pack of three 400- ton Ruguelka corsairs (see page 228) and five 200-ton Rradhi seekers (page 226). He also has a salvaged Gazelle close escort hull that he intends to refit as his flagship. Nokhu is a well-established raider; these days, he makes far more money in bribes than he does from stealing cargo and has 'arrangements' with several corporations and trade lines.
 
@@ -6604,7 +6604,7 @@ Escape in this situation is tricky – the three ships come from different angle
 If it were located anywhere else in the sector, Kinorb would have 100 times its population and be mentioned in the same breath as Regina and Rhylanor. It is a beautiful jewel of a garden world, with verdant plains, warm shallow oceans and a distinct lack of hostile native wildlife or pathogens. It is galactic politics, not planetology, that keeps Kinorb from being more influential. The planet is right on the edge of Vargr space and is a primary target in any border conflict.
 
 Kinorb was originally settled to support a naval base
-(since abandoned) and seeing the beauty of the world, many naval personnel retired or brought their families there. These first settlers knew the planet's precarious situation – evacuation drills and invasion preparedness are ingrained into Kinorbian culture and even a six-year old knows how to field-strip an ACR and find his way to the starport evacuation centre blindfolded. Today, Kinorb is also a key trading post for merchants dealing with the Vargr. There is a distinct social divide between navy families and traders, and between humans and ex-patriate Vargr who make up an underclass of labourers and guards.
+(since abandoned) and seeing the beauty of the world, many naval personnel retired or brought their families there. These first settlers knew the planet's precarious situation – evacuation drills and invasion preparedness are ingrained into Kinorbian culture and even a six-year old knows how to field-strip an ACR and find his way to the starport evacuation center blindfolded. Today, Kinorb is also a key trading post for merchants dealing with the Vargr. There is a distinct social divide between navy families and traders, and between humans and ex-patriate Vargr who make up an underclass of labourers and guards.
 
 Patron: Second Watchman Garik Payment: Cr20000 Mission: Garik is from one of the navy families and his duty is to keep the planet in readiness for immediate evacuation. He struts like a martinet and is always convinced the Vargr are about to invade. He wants the Travellers to take him to an old naval supply depot that orbits another world in the Kinorb system to retrieve some old surface-to-orbit mini-shuttles left there in mothballs. Twist: A band of Vargr scavengers found the depot and are looting it. They are harmless teenagers but Garik assumes they are scouts for an invasion force and wants them all shot.
 
@@ -6929,7 +6929,7 @@ Playing Kago:
 
 #### FINDING SEVEN
 
-The starport has no sensors and does not track traffic through the system. Therefore, the Travellers need to find another way to locate Seven's base. The entrance to Seven's lair is located 11,000 metres below the surface of the largest ocean on the planet; finding that entrance is the final challenge in this adventure.
+The starport has no sensors and does not track traffic through the system. Therefore, the Travellers need to find another way to locate Seven's base. The entrance to Seven's lair is located 11,000 meters below the surface of the largest ocean on the planet; finding that entrance is the final challenge in this adventure.
 
 - **Scanning from Orbit**: A Formidable (14+) Electronics (sensors) check (INT) is needed to detect the base's entrance from orbit.
 - **Questioning the Rynkatropa**: If the Travellers wish to make contact with the native sea-slugs, they have three options:
@@ -6940,9 +6940,9 @@ The starport has no sensors and does not track traffic through the system. There
 
 #### A LEAP OF FAITH
 
-Once the Travellers have located the entrance to Seven's realm, they need to get in. The entrance is 11 kilometres below the surface, far beyond the endurance of any starship. Even if the hull was able to resist being crushed, there are all sorts of weaker components (viewports, airlocks, weapon barrels, landing gear and so on) that will likely break under pressure. Just flying down into the trench is not an option.
+Once the Travellers have located the entrance to Seven's realm, they need to get in. The entrance is 11 kilometers below the surface, far beyond the endurance of any starship. Even if the hull was able to resist being crushed, there are all sorts of weaker components (viewports, airlocks, weapon barrels, landing gear and so on) that will likely break under pressure. Just flying down into the trench is not an option.
 
-However, if the Travellers have the shimmersuits, they can just... jump. The suits protect them from practically any pressure possible planetside, no matter how intense. The best way for the Travellers to reach Seven's realm is therefore to jump out of their spaceship, fall through the atmosphere, then sink for 11 kilometres straight down into darkness...
+However, if the Travellers have the shimmersuits, they can just... jump. The suits protect them from practically any pressure possible planetside, no matter how intense. The best way for the Travellers to reach Seven's realm is therefore to jump out of their spaceship, fall through the atmosphere, then sink for 11 kilometers straight down into darkness...
 
 ... and the final confrontation.
 
@@ -7152,7 +7152,7 @@ The entrance to Seven's domain is located in the depths of the ocean. The shimme
 
 If the Travellers failed to pick up shimmersuits in the previous adventure, then the best route into Seven's secret fortress is to highjack one of the Church of the Chosen Ones transports. The entry shaft can project a protective bubble of force to shield incoming ships from the pressure of the ocean.
 
-The Church of the Chosen Ones has its own enclave of the city; it is the centre of their religion. They have no understanding of the advanced technologies or purpose of the city and believe that, one day, the chosen Vargr will dwell in these cities while their enemies will be enslaved by the gods.
+The Church of the Chosen Ones has its own enclave of the city; it is the center of their religion. They have no understanding of the advanced technologies or purpose of the city and believe that, one day, the chosen Vargr will dwell in these cities while their enemies will be enslaved by the gods.
 
 Most of the worshippers are unaugmented, ordinary Vargr, not immortal super-Vargr like Nvor, the agent encountered in Aethgors' throne room. These true believers are fanatically convinced that Seven is a god and they are the chosen race who will inherit the stars. The actual servants of Seven know that the religion is just a convenient social fiction used to manipulate the Vargr population.
 
@@ -7188,7 +7188,7 @@ Grandfather informs the Travellers that he will withdraw into the mind of his Ho
 
 #### THE WORLD CITY
 
-Outside the hangar, the Travellers find themselves inside an unimaginable vast cavern. The far walls of the cavern are lost in the distance; this one space must take up several percent of the whole volume of the planet. You could wrap the land area of a sizeable continent around the inner surface of the cavern. It is illuminated by a guttering, hazy red star that must be less than 1,000 kilometres away. Any Traveller with Science (astronomy) knows that such a star is impossible – either the effective mass of the star is being warped using some bizarre gravitic manipulation, or that star is on the far side of a teleportal device. Either way, the star provides light and heat to this impossible hidden world, like a pocket Dyson sphere. As the Travellers are standing on the inside of the sphere, there must be more hidden gravity generators beneath them.
+Outside the hangar, the Travellers find themselves inside an unimaginable vast cavern. The far walls of the cavern are lost in the distance; this one space must take up several percent of the whole volume of the planet. You could wrap the land area of a sizeable continent around the inner surface of the cavern. It is illuminated by a guttering, hazy red star that must be less than 1,000 kilometers away. Any Traveller with Science (astronomy) knows that such a star is impossible – either the effective mass of the star is being warped using some bizarre gravitic manipulation, or that star is on the far side of a teleportal device. Either way, the star provides light and heat to this impossible hidden world, like a pocket Dyson sphere. As the Travellers are standing on the inside of the sphere, there must be more hidden gravity generators beneath them.
 
 Glimmering all around the inside of the cavern are factories the size of cities and other incomprehensible machines. Automated mines gnaw the planet's bones for raw materials. The planet is being devoured from the inside out to build Seven's fleet of sentient warships.
 
@@ -7345,7 +7345,7 @@ Once the Travellers reach the Floating Platforms, they can jump from platform-to
 
 #### THE FAMILY ARCHIVE
 
-Seven's archive is a spherical structure bisected by one of the floating platforms. There is a single entrance consisting of an iris hatch that leads to a tunnel and the tunnel leads to the centre of the Archive. Outside the iris hatch is a pair of scourge machines. The Travellers can either sneak past or attack the machines, which are under orders to attack any intruders.
+Seven's archive is a spherical structure bisected by one of the floating platforms. There is a single entrance consisting of an iris hatch that leads to a tunnel and the tunnel leads to the center of the Archive. Outside the iris hatch is a pair of scourge machines. The Travellers can either sneak past or attack the machines, which are under orders to attack any intruders.
 
 Inside the Archive, Grandfather takes complete control of his Host's body. 'This way!' he orders the Travellers, leading them down into the heart of the Archive.
 
@@ -7523,7 +7523,7 @@ While Ancients die, the Travellers still have to escape the City. The difficulty
 - If Grandfather is still alive and the Travellers protect him until he regains his strength, then he can teleport them to their ship in orbit.
 - A merciful Referee might let the Travellers find a convenient teleportal to the surface in the midst of chaos.
 
-Fortunately for the inhabitants of Zoe, the star trigger's chaos does not result in the protostar exploding. One of the flares destroys the Ancients machinery that permits the star to exist in the first place and it gutters out in a burst of expanding hydrogen. The devastation sends a plume of heat rising through the ocean, wiping out all life in a 1,000-kilometre cone above the entry shaft. Earthquakes wrack the planet and a tsunami surge drowns the Vargr shoreline factories (incidentally liberating the enslaved sea-slugs).
+Fortunately for the inhabitants of Zoe, the star trigger's chaos does not result in the protostar exploding. One of the flares destroys the Ancients machinery that permits the star to exist in the first place and it gutters out in a burst of expanding hydrogen. The devastation sends a plume of heat rising through the ocean, wiping out all life in a 1,000-kilometer cone above the entry shaft. Earthquakes wrack the planet and a tsunami surge drowns the Vargr shoreline factories (incidentally liberating the enslaved sea-slugs).
 
 Once the Travellers are back on the surface, they can obtain a ship or a shuttle to take them back to their own vessel in orbit. Again, if Grandfather is still alive, the Ancient can temporarily act freely and resolve almost any problem with the application of super-science or psionic mastery.
 

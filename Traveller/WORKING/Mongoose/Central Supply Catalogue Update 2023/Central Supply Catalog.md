@@ -215,7 +215,7 @@ The Fabrication Chamber Capabilities table lists fabricators of increasing compl
 
 The Time Requirement listed for each type of fabrication chamber is a minimum to complete fabrication of an object. Brains, biological or robotic, and their ‘neurological’ connections quadruple construction time and complex, highly irregularly shaped objects and objects requiring high melting temperatures and cooling, such as crystaliron and certain other metals, will also double fabrication time, meaning a highly complex electronics-laden item like a robot may require as much as eight times the listed time period to be ready for extraction.
 
-A chamber litre is a standard 10x10x10 centimetres measurement. Abbreviated as ‘cl’, it is commonly mis-attributed as ‘cubic litre’. Most fabrication chambers are at least 10 centimetres in all dimensions, meaning a chamber to produce a two-metre item in one piece would require at least 20 chamber litre capacity. Items with many parts can be created in smaller chambers and assembled later. A fully utilised chamber litre might only hold one kilogram of biological material but may form up to two kilograms of dense synthetic materials or as much as eight kilograms of steel if creating a solid chunk of material. Actual usage is limited by voids, spacing and waste material. The Referee can assume a chamber litre is able to produce items of one to two kilograms mass in most instances. One Slot, as used by suits and robots is the equivalent of about 1.5 chamber litre. For installation purposes, the volume of the fabricator itself is twice that of its chamber’s capacity.
+A chamber litre is a standard 10x10x10 centimeters measurement. Abbreviated as ‘cl’, it is commonly mis-attributed as ‘cubic litre’. Most fabrication chambers are at least 10 centimeters in all dimensions, meaning a chamber to produce a two-meter item in one piece would require at least 20 chamber litre capacity. Items with many parts can be created in smaller chambers and assembled later. A fully utilised chamber litre might only hold one kilogram of biological material but may form up to two kilograms of dense synthetic materials or as much as eight kilograms of steel if creating a solid chunk of material. Actual usage is limited by voids, spacing and waste material. The Referee can assume a chamber litre is able to produce items of one to two kilograms mass in most instances. One Slot, as used by suits and robots is the equivalent of about 1.5 chamber litre. For installation purposes, the volume of the fabricator itself is twice that of its chamber’s capacity.
 
 #### Fabrication Chamber per Chamber Litre Table
 
@@ -414,7 +414,7 @@ A complete suit of armor comprising shaped and fitted metal plates, riveted and 
 
 #### Half-Plate
 
-Favoured by heavy cavalry even after infantry have dispensed with meaningful armor themselves, half-plate consists of articulated plates backed by light mail and padding.![[CSC_Update_2023_23-04-24_1-hlafplate.jpg]]
+Favored by heavy cavalry even after infantry have dispensed with meaningful armor themselves, half-plate consists of articulated plates backed by light mail and padding.![[CSC_Update_2023_23-04-24_1-hlafplate.jpg]]
 
 #### Mail Hauberk
 
@@ -521,7 +521,7 @@ Armor
 
 #### CAMOUFLAGE, BASIC
 
-Using natural or artificial material to break up distinctive outlines of a person or equipment, camouflage makes it more difficult to detect the wearer. Camouflage suitable to its environment grants DM+2 to all Stealth checks made against visual searches, such as an opposed Recon check. Partially suitable camouflage patterns, such as a woodland pattern in an urban or desert environment, are only half as effective and totally unsuitable patterns, such as a green-brown pattern in a jungle of pink and purple foliage, are totally ineffective. Basic camouflage can be defeated by infrared and other detection systems operating beyond the visual spectrum and is ineffective at ranges of less than 100 metres unless the wearer remains stationary.
+Using natural or artificial material to break up distinctive outlines of a person or equipment, camouflage makes it more difficult to detect the wearer. Camouflage suitable to its environment grants DM+2 to all Stealth checks made against visual searches, such as an opposed Recon check. Partially suitable camouflage patterns, such as a woodland pattern in an urban or desert environment, are only half as effective and totally unsuitable patterns, such as a green-brown pattern in a jungle of pink and purple foliage, are totally ineffective. Basic camouflage can be defeated by infrared and other detection systems operating beyond the visual spectrum and is ineffective at ranges of less than 100 meters unless the wearer remains stationary.
 
 Modification TL Effect Kg Cost
 Camouflage,
@@ -548,7 +548,7 @@ Stealth checks
 
 #### CHAMELEON, FULL MOTION
 
-Full motion chameleon technology allows the surface of armor or clothing to transform into varying colours and patterns, in both static and full 2D motion modes. This grants the wearer DM+3 to all Stealth checks and can be effective for a quickly moving wearer at as close as 20 metres range. Full motion chameleon technology can also be used for non-stealth purposes; changing the colouration of clothing or turning the wearer into a live-action walking advertisement.
+Full motion chameleon technology allows the surface of armor or clothing to transform into varying colours and patterns, in both static and full 2D motion modes. This grants the wearer DM+3 to all Stealth checks and can be effective for a quickly moving wearer at as close as 20 meters range. Full motion chameleon technology can also be used for non-stealth purposes; changing the colouration of clothing or turning the wearer into a live-action walking advertisement.
 
 Modification TL Effect Kg Cost
 Chameleon,
@@ -576,7 +576,7 @@ and thermal sensors
 
 #### CHAMELEON, VISLIGHT
 
-A more advanced form of chameleonic armor, this lines the surface of the full-body armor or suit with light-bending technology, making the wearer nearly invisible to visual or thermal sensors (DM+4 to Stealth checks). Vislight chameleon provides this bonus at any range to both stationary and moving wearers to within five metres.
+A more advanced form of chameleonic armor, this lines the surface of the full-body armor or suit with light-bending technology, making the wearer nearly invisible to visual or thermal sensors (DM+4 to Stealth checks). Vislight chameleon provides this bonus at any range to both stationary and moving wearers to within five meters.
 
 Modification TL Effect Kg Cost
 Chameleon,
@@ -652,7 +652,7 @@ laser blinding
 
 #### FRIEND OR FOE HUD
 
-Several scanners and cameras implanted in the armor keep track of registered friendly transponders (the system is equipped with its own transponder) and marks targets without these as potential enemies. This information is displayed on a visor or helmet-based HUD (Heads-Up Display), allowing the user to know the exact location of allies and enemies within line of sight or up to a kilometre away, whichever is greater. As well as avoiding potential friendly fire incidents, this system grants DM+1 to any Tactics (military) checks. Extra transponders cost Cr100 for 20 units.
+Several scanners and cameras implanted in the armor keep track of registered friendly transponders (the system is equipped with its own transponder) and marks targets without these as potential enemies. This information is displayed on a visor or helmet-based HUD (Heads-Up Display), allowing the user to know the exact location of allies and enemies within line of sight or up to a kilometer away, whichever is greater. As well as avoiding potential friendly fire incidents, this system grants DM+1 to any Tactics (military) checks. Extra transponders cost Cr100 for 20 units.
 
 Modification TL Effect Kg Cost
 Friend or Foe
@@ -684,7 +684,7 @@ Armor
 
 #### GRAV ASSIST
 
-This modification adds an integral grav belt (see page 97) to a full environment suit or armor. Endurance is based on both the mass and speed of the object lifted. Although capable of 200 kilometres per hour maximum velocity, a cruising velocity of 100 kilometres per hour is assumed. Exceeding cruising speed reduces effective endurance by two to three and every minute over this speed counts as 1.5 minutes endurance. Every full 100 kilograms of suit mass will halve grav assist duration; for instance, wearing a 110 kilogram command battle dress suit will halve the duration from four to two hours; wearing a 220 kilogram logistics battle dress suits would halve it to one hour. A grav assist modification cannot lift more than 500 kilograms total mass, including the mass of the user and any other items carried.
+This modification adds an integral grav belt (see page 97) to a full environment suit or armor. Endurance is based on both the mass and speed of the object lifted. Although capable of 200 kilometers per hour maximum velocity, a cruising velocity of 100 kilometers per hour is assumed. Exceeding cruising speed reduces effective endurance by two to three and every minute over this speed counts as 1.5 minutes endurance. Every full 100 kilograms of suit mass will halve grav assist duration; for instance, wearing a 110 kilogram command battle dress suit will halve the duration from four to two hours; wearing a 220 kilogram logistics battle dress suits would halve it to one hour. A grav assist modification cannot lift more than 500 kilograms total mass, including the mass of the user and any other items carried.
 
 Grav Assist TL Effect Kg Cost
 Basic 12 Grav belt (Medium speed), 4 hours
@@ -888,17 +888,17 @@ Only available on sealed suits (such as vacc suits, combat armor and powered arm
 
 Submarine
 Functionality TL Effect Kg Cost
-Basic 9 600 metre safe
+Basic 9 600 meter safe
 submersible depth
 
 6 x Cr200
 
-Improved 12 2,000 metre safe
+Improved 12 2,000 meter safe
 submersible depth
 
 6 x Cr300
 
-Advanced 15 4,000 metre safe
+Advanced 15 4,000 meter safe
 submersible depth
 
 6 x Cr500
@@ -1027,7 +1027,7 @@ A rescue suit is a heavy vacc suit designed for emergency damage control or ente
 
 #### Shipsuit
 
-A shipsuit strikes a balance between a shipboard uniform and a light duty vacc suit. This may be worn as clothing but not in conjunction with undergarments (or a pressure sleeve) or any additional forms of armor. It is light enough for daily use; with waste collectors active it can be worn continuously for a week, with growing discomfort, and comfortable enough for sleep even in full gravity. The standard shipsuit comes equipped with boots, gloves stored in pockets and a deployable soft helmet stowed in a padded collar. The suit’s multi-layered material contains an oxygenated gel which provides life support for 30 minutes. Attachment points on the suit allow connection to external life support sources. The standard suit does not include an electronics suite but has an integral 500-kilometre range transceiver built into the collar.
+A shipsuit strikes a balance between a shipboard uniform and a light duty vacc suit. This may be worn as clothing but not in conjunction with undergarments (or a pressure sleeve) or any additional forms of armor. It is light enough for daily use; with waste collectors active it can be worn continuously for a week, with growing discomfort, and comfortable enough for sleep even in full gravity. The standard shipsuit comes equipped with boots, gloves stored in pockets and a deployable soft helmet stowed in a padded collar. The suit’s multi-layered material contains an oxygenated gel which provides life support for 30 minutes. Attachment points on the suit allow connection to external life support sources. The standard suit does not include an electronics suite but has an integral 500-kilometer range transceiver built into the collar.
 
 The deluxe version of the shipsuit includes a full electronics suite. It also includes the auto protect kit to allow automatic and selective deployment of a hard helmet, gloves and boots. This sturdier suit provides a full hour of life support capability and can be customised with any suit modification.
 
@@ -1087,7 +1087,7 @@ More frame than suit, the exoskeleton is a civilian aid to those with mobility p
 
 Some environments are too hazardous for even HEV suits. In places where the atmosphere is too dense or hazardous, deep under oceans or where gravity prevents easy motion, the extreme environment exploration (E3) suit is a requirement.
 
-This heavy powered suit uses waldos instead of arms, allowing a trained operator to manipulate items even when gravity reaches extremes of up to 5G. The suit will fully protect against temperatures from absolute zero to 1400°C and from corrosive atmospheres. After 72 hours, use in insidious atmospheres will cause the suit to lose one point of Protection every hour until destroyed; this damage can be repaired at 10% of the suit’s cost per point. The suit is rated to 10,000 metres depth in water under standard atmosphere and gravity.
+This heavy powered suit uses waldos instead of arms, allowing a trained operator to manipulate items even when gravity reaches extremes of up to 5G. The suit will fully protect against temperatures from absolute zero to 1400°C and from corrosive atmospheres. After 72 hours, use in insidious atmospheres will cause the suit to lose one point of Protection every hour until destroyed; this damage can be repaired at 10% of the suit’s cost per point. The suit is rated to 10,000 meters depth in water under standard atmosphere and gravity.
 
 An E3 suit has power and life support for eight hours of operation. Life support can be extended at additional cost but power cannot. An operator who minimises movement and actions can stretch the power to twice its rated duration or three times if operating in relatively benign environments. Once power fails, the operator feels the full weight of the suit and cannot operate the hand waldos. When powered, the suit grants STR +2 but inflicts DEX-2 in addition to any penalty imposed by lack of skill.
 
@@ -1127,7 +1127,7 @@ Battle dress is effective in conditions where a hostile environment vacc suit wo
 
 #### Logistics Battle Dress
 
-This suit is optimised for its load-carrying capability. The logistics suit allows the operator to carry small-vehicle loads of ammunition and supplies into places where only infantry can go. Standard missions include ferrying field repair kits (with spares), bulk ammunition boxes and fast-load kits for close support grenade launchers. Given suitable packaging, an operator can carry loads equal to six times their STR+END (using the battle dress’ enhanced STR) and will not count as being heavily encumbered (see page 98 of the Traveller Core Rulebook ). Logistics suits are also used by some battlefield medics.
+This suit is optimized for its load-carrying capability. The logistics suit allows the operator to carry small-vehicle loads of ammunition and supplies into places where only infantry can go. Standard missions include ferrying field repair kits (with spares), bulk ammunition boxes and fast-load kits for close support grenade launchers. Given suitable packaging, an operator can carry loads equal to six times their STR+END (using the battle dress’ enhanced STR) and will not count as being heavily encumbered (see page 98 of the Traveller Core Rulebook ). Logistics suits are also used by some battlefield medics.
 
 #### Psi-Commando Battle Dress
 
@@ -1225,7 +1225,7 @@ Modification TL Effect Slots Cost
 
 #### FLIGHT PACK
 
-Using an array of efficient rockets and turbines, the flight pack allows battle dress to take to the air. Using a flight pack requires the Flyer (wing) skill and allows the battle dress to travel at up to High speed with an Agility equal to the operator’s (battle dress-enhanced) DEX DM. It has a maximum range of 200 kilometres or one hour endurance at 200 kilometres per hour. At maximum velocity of 300 kilometres per hour, the range drops to 135 kilometres.
+Using an array of efficient rockets and turbines, the flight pack allows battle dress to take to the air. Using a flight pack requires the Flyer (wing) skill and allows the battle dress to travel at up to High speed with an Agility equal to the operator’s (battle dress-enhanced) DEX DM. It has a maximum range of 200 kilometers or one hour endurance at 200 kilometers per hour. At maximum velocity of 300 kilometers per hour, the range drops to 135 kilometers.
 
 Modification TL Effect Slots Cost
 | Flight Pack|  10|  Powered flight at High speed,200km range| 6|  Cr50000|
@@ -1357,7 +1357,7 @@ via socket
 +Cr5000,
 +25% of augment
 
-However, in addition to the option listed above, a detachable augment may be able to operate separate from the Traveller’s body for an additional Cr10000. Additionally, this augment has a grav locomotion option, allowing the augment to be controlled while detached and operated as a grav-propelled object capable of six metres movement per Minor Action. This movement range is restricted to the communications range between the interface and the augment, which is a 50 metre wireless data link unless the controller and augment have better transceivers installed.
+However, in addition to the option listed above, a detachable augment may be able to operate separate from the Traveller’s body for an additional Cr10000. Additionally, this augment has a grav locomotion option, allowing the augment to be controlled while detached and operated as a grav-propelled object capable of six meters movement per Minor Action. This movement range is restricted to the communications range between the interface and the augment, which is a 50 meter wireless data link unless the controller and augment have better transceivers installed.
 
 Option TL Effect Cost
 Remotely-operated
@@ -1429,7 +1429,7 @@ augment
 
 #### ADDITIONAL MANIPULATOR
 
-The addition of a segmented tentacle-like appendage can be useful in situations where the Traveller requires a third hand. Built with polymer plastics and non-ferrous alloys, the appendage is attached between two of the Traveller’s ribs, along the lateral side of their body. The appendage can collapse or extend from 20 centimetres to a full metre in length. It is only a few centimetres in circumference but ends in a tiny collapsible claw capable of remarkable manual control. Only one additional manipulator can be added to each side of the body without restricting lung capacity. The basic version has STR 6 and DEX 10 but more advanced versions have greater capabilities.
+The addition of a segmented tentacle-like appendage can be useful in situations where the Traveller requires a third hand. Built with polymer plastics and non-ferrous alloys, the appendage is attached between two of the Traveller’s ribs, along the lateral side of their body. The appendage can collapse or extend from 20 centimeters to a full meter in length. It is only a few centimeters in circumference but ends in a tiny collapsible claw capable of remarkable manual control. Only one additional manipulator can be added to each side of the body without restricting lung capacity. The basic version has STR 6 and DEX 10 but more advanced versions have greater capabilities.
 
 Augments
 
@@ -1469,7 +1469,7 @@ Cr2500
 
 In some situations, a Traveller might find it prudent to permanently alter their appearance. Legitimate reasons for such procedures abound but often this augment occurs in unlicensed locations aided by the transfer of untraceable funds (assume 5-10, or 4+1D x standard cost); in those situations, the surgeon or geneticist performing the procedure must succeed at a Difficult (10+) check with the relevant skills and characteristic bonus. Negative Effects are at the discretion of the Referee.
 
-At TL6, this augment is essentially plastic surgery. It can alter facial appearance, gender and make moderate changes to a person’s build. Such changes will fool a visual inspection or even facial recognition systems but will have no effect on other biometric scans including fingerprint readers, retinal scans and genetic scanners. To fool all but genetic scanners, the TL9 procedure can use transplanted eyes, laser sculpted fingerprints, melanin alterations and more advanced surgery, changing height by up to 10 centimetres in either direction by using bone grafts or removal. At TL12, retroviral techniques can change a person’s DNA to an extent that identification is impossible. This advanced procedure is illegal for private citizens on most worlds and is subject to the same risks of multiple adaptions as detailed for the genetic environmental adaption augment (see page 52). Altered appearance augmentations are not affected by attacks such as electromagnetic pulses.
+At TL6, this augment is essentially plastic surgery. It can alter facial appearance, gender and make moderate changes to a person’s build. Such changes will fool a visual inspection or even facial recognition systems but will have no effect on other biometric scans including fingerprint readers, retinal scans and genetic scanners. To fool all but genetic scanners, the TL9 procedure can use transplanted eyes, laser sculpted fingerprints, melanin alterations and more advanced surgery, changing height by up to 10 centimeters in either direction by using bone grafts or removal. At TL12, retroviral techniques can change a person’s DNA to an extent that identification is impossible. This advanced procedure is illegal for private citizens on most worlds and is subject to the same risks of multiple adaptions as detailed for the genetic environmental adaption augment (see page 52). Altered appearance augmentations are not affected by attacks such as electromagnetic pulses.
 
 Altered
 Appearance TL Effect Cost
@@ -1511,7 +1511,7 @@ Special
 
 #### GENETIC AQUAMORPH ADAPTION
 
-This genetic alteration transforms the recipient into an amphibious being, able to function both on land and under water indefinitely, with some restrictions. Aquamorphs acquire modified gills to allow indefinite breathing underwater to a safe limit of 30 metres on worlds of standard atmospheric pressure and gravity conditions. They can dive as deep as 100 metres if they take proper precautions against nitrogen narcosis. Modifications to body shape include enlarged webbed hands and feet, and denser body fat. Underwater, aquamorphs gain DM+2 to all Recon checks (and suffer DM-2 on land) and gain DM+2 for all checks related to swimming.
+This genetic alteration transforms the recipient into an amphibious being, able to function both on land and under water indefinitely, with some restrictions. Aquamorphs acquire modified gills to allow indefinite breathing underwater to a safe limit of 30 meters on worlds of standard atmospheric pressure and gravity conditions. They can dive as deep as 100 meters if they take proper precautions against nitrogen narcosis. Modifications to body shape include enlarged webbed hands and feet, and denser body fat. Underwater, aquamorphs gain DM+2 to all Recon checks (and suffer DM-2 on land) and gain DM+2 for all checks related to swimming.
 
 Survival on land is possible as long as aquamorphs keep their skin moist and remain well hydrated – they require twice the water intake of a baseline member of their species – six litres per day for humans. Effective STR is halved while on land. Both while underwater and in microgravity, all aquamorphs are considered to have Athletics (dexterity) skill of at least 0.
 
@@ -1540,7 +1540,7 @@ While some worlds require minimal adaption to survive, perhaps just a few weeks 
 
 Protection from Taint may be limited by the nature of the specific taint. Also, atmospheric adaptions to better support a Dense or Thin atmosphere will cause the opposite density to have more severe effects – a Dense adaptation will treat Thin atmospheres as Very Thin and vice versa. A Dense adaptation will allow better tolerance of Very Dense atmospheres and a Thin adaptation will allow better survival times in Very Thin atmospheres.
 
-Each of these is considered a separate modification in terms of cost but as they are tailored for a specific world, they involve one medical procedure and count as a single modification in terms of risk. Governments seeking new colonists may subsidise the cost of a procedure specific to their world.
+Each of these is considered a separate modification in terms of cost but as they are tailored for a specific world, they involve one medical procedure and count as a single modification in terms of risk. Governments seeking new colonists may subsidize the cost of a procedure specific to their world.
 
 General modifications to these are also available. Unlike the world-specific version, one general atmospheric adaptation can provide taint adaption or pressure adaption, but not both. Taint adaption provides protection from a variety of tainted environments with regards to particulates, pollutants and atmosphere gas mix but will not necessarily provide protection from biological or other unusual taints as a world-specific adaption would.
 
@@ -1609,14 +1609,14 @@ Cr25000
 
 #### MUSCULAR BRIDGING
 
-Through surgery and a long, painful recovery process lasting 1D weeks, this augment adds thousands of microscopic protein strings to the Traveller’s muscular system. Making every muscle stronger and more flexible, this increases the Traveller’s STR and DEX by +1 and movement by +3 metres per Minor Action. This augmentation is not affected by electromagnetic or detectable by electronic means.
+Through surgery and a long, painful recovery process lasting 1D weeks, this augment adds thousands of microscopic protein strings to the Traveller’s muscular system. Making every muscle stronger and more flexible, this increases the Traveller’s STR and DEX by +1 and movement by +3 meters per Minor Action. This augmentation is not affected by electromagnetic or detectable by electronic means.
 
 Augment TL Effect Cost
 Muscular
 Bridging
 
 13 STR +1, DEX +1,
-movement +3 metres
+movement +3 meters
 
 Cr250000
 
@@ -1669,7 +1669,7 @@ Augments
 
 #### SMUGGLING CONTAINER
 
-A portion of the Traveller’s body is surgically modified to house a polymer pocket, covered by what appears like normal skin. Using a trigger, usually looking like a blemish or scar to open, the pocket can hold roughly five kilograms of mass but nothing larger than 20 centimetres in any dimension. Under normal circumstances, it requires a Difficult (10+) Investigate check (1D rounds, INT) to discover the container when closed. By default, it is considered to be Natural-looking (DM-2) and is not directly affected by electromagnetic attacks, although its contents are not so protected.
+A portion of the Traveller’s body is surgically modified to house a polymer pocket, covered by what appears like normal skin. Using a trigger, usually looking like a blemish or scar to open, the pocket can hold roughly five kilograms of mass but nothing larger than 20 centimeters in any dimension. Under normal circumstances, it requires a Difficult (10+) Investigate check (1D rounds, INT) to discover the container when closed. By default, it is considered to be Natural-looking (DM-2) and is not directly affected by electromagnetic attacks, although its contents are not so protected.
 
 Augment TL Effect Cost
 Smuggling
@@ -1744,7 +1744,7 @@ Video Tattoo
 
 #### ASLAN CYBER-CLAW
 
-This augment is normally only available in Aslan cultural regions. The jointed metacarpal of the Traveller is replaced by a cybernetic mechanism and polymer sheath holding a retractable claw, similar to the natural weapon of an Aslan. With a subtle flick of the wrist the mechanism locks or unlocks the eight-centimetre-long steel claw, allowing it to be used as a deadly weapon. Some Aslan have had their natural dew-claws replaced with these as a sign of their militant mentality or to replace damaged dewclaws but most are adopted by humans trying to integrate themselves into male Aslan circles. This base augment may be upgraded with Claw Coating (Edging and Hardening options available to Aslan as described in Aliens of Charted Space: Volume 1 page 58), but does one point less damage per damage dice than the Aslan versions.
+This augment is normally only available in Aslan cultural regions. The jointed metacarpal of the Traveller is replaced by a cybernetic mechanism and polymer sheath holding a retractable claw, similar to the natural weapon of an Aslan. With a subtle flick of the wrist the mechanism locks or unlocks the eight-centimeter-long steel claw, allowing it to be used as a deadly weapon. Some Aslan have had their natural dew-claws replaced with these as a sign of their militant mentality or to replace damaged dewclaws but most are adopted by humans trying to integrate themselves into male Aslan circles. This base augment may be upgraded with Claw Coating (Edging and Hardening options available to Aslan as described in Aliens of Charted Space: Volume 1 page 58), but does one point less damage per damage dice than the Aslan versions.
 
 Augments
 
@@ -1797,34 +1797,34 @@ Cr75000
 
 #### ENHANCED MOBILITY
 
-The Traveller has both legs modified to move faster with greater stability. The basic version adds 1.5 metres to the distance the Traveller can move with a Minor Action. Additionally, all checks based on balance or ambulatory reflexes are made with DM+1.
+The Traveller has both legs modified to move faster with greater stability. The basic version adds 1.5 meters to the distance the Traveller can move with a Minor Action. Additionally, all checks based on balance or ambulatory reflexes are made with DM+1.
 
-At TL11, internal chemical pumps and fatigue-resistant fibres are added, greatly increasing ground speed and agility. This augment adds three metres to the distance the Traveller moves with a Minor Action and all checks based on balance or ambulatory reflexes are made with DM+2.
+At TL11, internal chemical pumps and fatigue-resistant fibres are added, greatly increasing ground speed and agility. This augment adds three meters to the distance the Traveller moves with a Minor Action and all checks based on balance or ambulatory reflexes are made with DM+2.
 
-At TL13, this augment is made from superior materials designed to maximise efficiency and stability. This adds six metres to the distance the Traveller moves with a Minor Action and all checks based on balance or ambulatory reflexes are made with DM+3.
+At TL13, this augment is made from superior materials designed to maximise efficiency and stability. This adds six meters to the distance the Traveller moves with a Minor Action and all checks based on balance or ambulatory reflexes are made with DM+3.
 
 As with Combat Arms, these cybernetic options represent standard models. The Robot Handbook cyborg rules allow for custom cybernetic legs, although availability may be limited.
 
 Enhanced
 Mobility TL Effect Cost
-Basic 8 +1.5 metre movement,
+Basic 8 +1.5 meter movement,
 DM+1 to relevant checks
 
 Cr10000
 
-Improved 11 +3 metre movement,
+Improved 11 +3 meter movement,
 DM+2 to relevant checks
 
 Cr15000
 
-Advanced 13 +6 metre movement,
+Advanced 13 +6 meter movement,
 DM+3 to relevant checks
 
 Cr25000
 
 #### RAZOR CLAWS
 
-Imbedded claws designed to retract under the fingernails are strong enough to cut steel. At higher Tech Levels, increasingly sharp edges cut through harder substances. The claws are adjustable, extending as far as five centimetres from the fingertips,allowing attacks to cause deep wounds and rip  deep into bodies and machinery. At TL13 these are monofilament sharp, and at TL15 they are enhanced with an arc-field whose blue glowing energy cannot be parried by anything below TL14, but which, drawing energy from the body, cannot be used for more than 10 combat rounds per day; once the Traveller’s power is expended, these claws revert to basic functionality.
+Imbedded claws designed to retract under the fingernails are strong enough to cut steel. At higher Tech Levels, increasingly sharp edges cut through harder substances. The claws are adjustable, extending as far as five centimeters from the fingertips,allowing attacks to cause deep wounds and rip  deep into bodies and machinery. At TL13 these are monofilament sharp, and at TL15 they are enhanced with an arc-field whose blue glowing energy cannot be parried by anything below TL14, but which, drawing energy from the body, cannot be used for more than 10 combat rounds per day; once the Traveller’s power is expended, these claws revert to basic functionality.
 
 Razor
 Claw TL Effect Cost
@@ -2022,7 +2022,7 @@ MCr3.5
 
 #### MECHANOSTATIC SCANNER
 
-This augments one of the Traveller’s ears with a manually activated device similar to a communications scanner. When activated, any individuals within 20 metres with augments detectable by electronic means give off a traceable buzz audible only to the Traveller. For most augments – except those normally undetectable – this is automatic but for those of higher TL, the scanner must make an Easy (4+) check with a negative DM equal to the TL difference.
+This augments one of the Traveller’s ears with a manually activated device similar to a communications scanner. When activated, any individuals within 20 meters with augments detectable by electronic means give off a traceable buzz audible only to the Traveller. For most augments – except those normally undetectable – this is automatic but for those of higher TL, the scanner must make an Easy (4+) check with a negative DM equal to the TL difference.
 
 Augment TL Effect Cost
 Mechanostatic
@@ -2034,7 +2034,7 @@ Scanner
 
 A neural comm connects the Traveller’s brain to a communications device. A neural comm has identical capacities to a mobile comm (see page 63) but the cost is much higher, as is the required Tech Level. At TL10 this connection is to the Traveller’s hearing and speech centres allowing verbal communications by thought alone. At TL12, links to the visual cortex allow a full overlay of augmented reality information and other visual data, including input from HUD devices without the need for a display unit. At TL14, further integration allows interface to the Travellers full sensory apparatus, allowing emulated sensations of smell, taste and touch and increased computing capability.
 
-A Traveller can access a neural comm by thought alone but its complicated activities still require an Electronics (comms) or Electronics (computers) check. By default, the transceiver has a five kilometre range but it can link to a more powerful transceiver relay and act as a thought-controlled terminal to a more powerful computer within range.
+A Traveller can access a neural comm by thought alone but its complicated activities still require an Electronics (comms) or Electronics (computers) check. By default, the transceiver has a five kilometer range but it can link to a more powerful transceiver relay and act as a thought-controlled terminal to a more powerful computer within range.
 
 Neural Comm TL Effect Cost
 Basic 10 Audio only Cr1000
@@ -2130,7 +2130,7 @@ Cr750000
 
 #### SHRIEKERBOX
 
-A replacement to the Traveller’s own vocal chords, the shriekerbox is an electronic magnifier and modulator. The basic shriekerbox can project the Traveller’s own voice, to the volume of an electronic megaphone. Also, the Traveller can create discordant static to unsettle those around them. Not usable while the Traveller is speaking, this static feature inflicts DM-1 on all skill checks made by anyone within 15 metres who lacks ear protection. At TL12, an improved TL12 shriekerbox is also capable of mimicking any voice.
+A replacement to the Traveller’s own vocal chords, the shriekerbox is an electronic magnifier and modulator. The basic shriekerbox can project the Traveller’s own voice, to the volume of an electronic megaphone. Also, the Traveller can create discordant static to unsettle those around them. Not usable while the Traveller is speaking, this static feature inflicts DM-1 on all skill checks made by anyone within 15 meters who lacks ear protection. At TL12, an improved TL12 shriekerbox is also capable of mimicking any voice.
 
 Shriekerbox TL Effect Cost
 Basic 10 Amplify voice and
@@ -2220,7 +2220,7 @@ A bug can be active or passive. An active bug transmits data, either constantly 
 
 #### COMMDOT
 
-A commdot is a tiny microphone/speaker and transmitter, ranging in size between a few centimetres and a few millimetres across. A commdot is capable of interfacing with another communications device and relaying messages back and forth. Commdots have a range of only a few metres and are usually used as hands-free communicators but can also be used as improvised bugs or throat microphones. At TL12 commdots are able to decipher and transmit subvocal communications and include a tiny nearly imperceptible earpiece to allow communications that are effectively silent.
+A commdot is a tiny microphone/speaker and transmitter, ranging in size between a few centimeters and a few millimeters across. A commdot is capable of interfacing with another communications device and relaying messages back and forth. Commdots have a range of only a few meters and are usually used as hands-free communicators but can also be used as improvised bugs or throat microphones. At TL12 commdots are able to decipher and transmit subvocal communications and include a tiny nearly imperceptible earpiece to allow communications that are effectively silent.
 
 Commdot TL Effect Cost
 Basic 10 Hands-free vocal commentator  Cr10
@@ -2228,7 +2228,7 @@ Improved 12 Hands-free subvocal commentator Cr10
 
 #### HOLOGRAPHIC DISPLAY
 
-A Holographic display is a smaller version of a holographic projector. The display will create a three-dimensional image in the space above it, to a range of about 30 centimetres. These displays are often integrated into other devices, especially by TL12 when their mass becomes negligible. The properties of the holograms produced by the display are detailed in the holographic projector description.
+A Holographic display is a smaller version of a holographic projector. The display will create a three-dimensional image in the space above it, to a range of about 30 centimeters. These displays are often integrated into other devices, especially by TL12 when their mass becomes negligible. The properties of the holograms produced by the display are detailed in the holographic projector description.
 
 Holographic
 Display TL Effect Kg Cost
@@ -2238,7 +2238,7 @@ Enhanced 12 True-to-life moving holograph — Cr1000
 
 #### HOLOGRAPHIC PROJECTOR
 
-A holographic projector is a briefcase-sized box that, when activated, creates a three-dimensional image in the space around it, to a range of three metres. When first introduced, the projected images are obviously not real and most often used for communication purposes. A holographic projector can be connected to any computer, comm unit or transceiver of TL9 or more. The improved version produces images realistic enough to fool anyone who fails an INT check, enhanced versions create true-to-life images, although they lack actual substance or smell. Advanced projectors are small enough to be installed as just another integral port on a hand-held electronic device.
+A holographic projector is a briefcase-sized box that, when activated, creates a three-dimensional image in the space around it, to a range of three meters. When first introduced, the projected images are obviously not real and most often used for communication purposes. A holographic projector can be connected to any computer, comm unit or transceiver of TL9 or more. The improved version produces images realistic enough to fool anyone who fails an INT check, enhanced versions create true-to-life images, although they lack actual substance or smell. Advanced projectors are small enough to be installed as just another integral port on a hand-held electronic device.
 
 Holographic
 Projector TL Effect Kg Cost
@@ -2249,7 +2249,7 @@ Advanced 14 Small form-factor — Cr25000
 
 #### MOBILE COMM
 
-A mobile comm unit is a portable telecommunications device/computer/camera, ranging in size from a bulky handset to a slim watch or pen-like cylinder – in today’s world we call them mobile phones or cell phones. Larger comms have physical controls and screens, while smaller units either project data and control displays onto nearby surfaces, have fold-out plastic screens or connect to cybernetics. Comms have only short-range transmission and reception capabilities- typically five kilometres – but most technologically advanced worlds have planetwide comm networks, allowing the user to send messages and access data anywhere. At higher Tech Levels, mobile comms merge entirely with portable computers (see page 67); a mobile comm of TL10 or greater will have the equivalent computing power of a portable computer available two Tech Levels earlier.
+A mobile comm unit is a portable telecommunications device/computer/camera, ranging in size from a bulky handset to a slim watch or pen-like cylinder – in today’s world we call them mobile phones or cell phones. Larger comms have physical controls and screens, while smaller units either project data and control displays onto nearby surfaces, have fold-out plastic screens or connect to cybernetics. Comms have only short-range transmission and reception capabilities- typically five kilometers – but most technologically advanced worlds have planetwide comm networks, allowing the user to send messages and access data anywhere. At higher Tech Levels, mobile comms merge entirely with portable computers (see page 67); a mobile comm of TL10 or greater will have the equivalent computing power of a portable computer available two Tech Levels earlier.
 
 Mobile Comm TL Effect Kg Cost
 Basic 6 Audio-only — Cr50
@@ -2260,7 +2260,7 @@ Advanced 10 Multiple forms of data, Computer/1 — Cr500
 
 A transceiver is a stand-alone communications device, in other words a two-way radio. Unlike a mobile comm, which mostly relies on the presence of an established communications network, a transceiver can send and receive often over much greater distances directly under its own power. Most transceivers are radio or laser-based. Meson communicators also exist but are generally not easily portable or available publicly.
 
-To reach orbital ranges reliably, a transceiver requires a range of 500 kilometres. With increasing Tech Levels, transceivers tend to become both more powerful and more portable. Any transceiver with negligible mass can be added to another electronic device. At TL8 and above a five kilometre range transceiver is often included at no additional cost in most electronic devices. All transceivers at TL10–12 have integral Computer/0 functionality, and all at TL13+ have Computer/1 functionality.
+To reach orbital ranges reliably, a transceiver requires a range of 500 kilometers. With increasing Tech Levels, transceivers tend to become both more powerful and more portable. Any transceiver with negligible mass can be added to another electronic device. At TL8 and above a five kilometer range transceiver is often included at no additional cost in most electronic devices. All transceivers at TL10–12 have integral Computer/0 functionality, and all at TL13+ have Computer/1 functionality.
 
 Radio Transceiver (TL) Range Kg Cost
 TL5 Distant (5km) 20 Cr225
@@ -2296,7 +2296,7 @@ TL9 Regional (500km) 1.5 Cr2500
 TL11 Regional (500km) 0.5 Cr1500
 TL13 Regional (500km) — Cr500
 
-Meson transceivers are bulky devices requiring fine-tuning and precise location information of communication nodes. They are almost impossible to jam or intercept and can communicate through solid rock or metal, making communications through the entire surface of a planet possible. Meson transceivers are normally restricted to government or military use and should be considered a Category 5 item available only with proper documentation or very good illicit connections. A meson communication stream may not be intercepted or interrupted unless blocked by a precisely positioned meson screen. Particle decay rates prevent meson communication links from exceeding 500,000 kilometres range except with the use of multi-MCr room-sized equipment.
+Meson transceivers are bulky devices requiring fine-tuning and precise location information of communication nodes. They are almost impossible to jam or intercept and can communicate through solid rock or metal, making communications through the entire surface of a planet possible. Meson transceivers are normally restricted to government or military use and should be considered a Category 5 item available only with proper documentation or very good illicit connections. A meson communication stream may not be intercepted or interrupted unless blocked by a precisely positioned meson screen. Particle decay rates prevent meson communication links from exceeding 500,000 kilometers range except with the use of multi-MCr room-sized equipment.
 
 Meson
 Transceiver (TL) Range Kg Cost
@@ -2315,7 +2315,7 @@ Encryption is very dependent on Tech Level. Decryption is normally a Very Diffic
 
 Note: By TL8 nearly all transmissions are encrypted by default but the encryption module provides a much higher degree of protection against advanced decryption methodologies which target weakness across the entire communications chain. To decrypt information protected by only the ‘default encryption’ of TL8+ transceivers requires only a Difficult (10+) check.
 
-A satellite uplink allows a radio communication system to maintain a steady link between a ship or satellite in orbit and a surface transceiver. Laser and meson transceivers do not require satellite uplinks as they have integral capability to establish point-to-point between two stationary or moving transceivers. A satellite uplink requires a transceiver capable of at least 500 kilometres inherent range but it allows the transceiver to reach a ship or satellite as far as 50,000 kilometres distant.
+A satellite uplink allows a radio communication system to maintain a steady link between a ship or satellite in orbit and a surface transceiver. Laser and meson transceivers do not require satellite uplinks as they have integral capability to establish point-to-point between two stationary or moving transceivers. A satellite uplink requires a transceiver capable of at least 500 kilometers inherent range but it allows the transceiver to reach a ship or satellite as far as 50,000 kilometers distant.
 
 The satellite uplink is a dish or flat antenna available at TL6, which doubles the mass of the transceiver or adds a minimum of two kilograms to its mass and costs half as much as the transceiver, or at least Cr1000. Static uplinks to geostationary targets or constellations of satellites are potentially cheaper, still adding 50% to the price of the transceiver but without the Cr1000 minimum.
 
@@ -2435,7 +2435,7 @@ Any computer of TL8 or above can have a built-in still and video camera with bot
 
 #### COMMS
 
-Any computer of TL8 or more can act as a comm unit or transceiver if specified at purchase. A five kilometre range comm is more than sufficient to access a planetary data network and a high-speed short-range wireless link for software and data transceiver does not increase the cost of the computer. More powerful transceivers of longer range and negligible mass (see page 64) can be added to a portable computer.
+Any computer of TL8 or more can act as a comm unit or transceiver if specified at purchase. A five kilometer range comm is more than sufficient to access a planetary data network and a high-speed short-range wireless link for software and data transceiver does not increase the cost of the computer. More powerful transceivers of longer range and negligible mass (see page 64) can be added to a portable computer.
 
 #### DATA DISPLAY/RECORDER
 
@@ -2459,7 +2459,7 @@ A portable computer and its Interface software require a physical user interface
 
 #### SPECIALIZED COMPUTER
 
-A computer can be designed for a specific purpose with a hardware-implemented Intelligent Interface or Intellect program optimised for an Expert skill. These specialized computers are available at TL8 and above. Specialized computers allow all computer bandwidth to be available for the Expert skill package, which is purchased separately. Specialized computers cannot be reprogrammed to accept a new Expert skill package.
+A computer can be designed for a specific purpose with a hardware-implemented Intelligent Interface or Intellect program optimized for an Expert skill. These specialized computers are available at TL8 and above. Specialized computers allow all computer bandwidth to be available for the Expert skill package, which is purchased separately. Specialized computers cannot be reprogrammed to accept a new Expert skill package.
 
 Specialized computers with Intelligent Interface allow a skilled individual to gain DM+1 on relevant tasks and costs five times the standard cost of a general computer of equal bandwidth.
 
@@ -2685,7 +2685,7 @@ Chemi-view Goggles 13 Detects specified chemical compound  — Cr5000
 
 #### COLD LIGHT LANTERN
 
-A fuel cell powered version of the flashlight lasts for three days of continuous use. Produces a wide cone of light up to 18 metres away with a radius of six metres. Also capable of producing a tight beam of light up to 36 metres with a one metre radius or be used to illuminate a 10 metre radius.
+A fuel cell powered version of the flashlight lasts for three days of continuous use. Produces a wide cone of light up to 18 meters away with a radius of six meters. Also capable of producing a tight beam of light up to 36 meters with a one meter radius or be used to illuminate a 10 meter radius.
 
 Item TL Effect Kg Cost
 Cold Light Lantern  6 Fuel cell powered 3 day electric torch 0.25 Cr20
@@ -2702,7 +2702,7 @@ Advanced 10 +Image processing of partially seen objects  1 Cr750
 
 #### FLASHLIGHT
 
-The common flashlight. It is battery powered and lasts six hours of continuous use. A flashlight produces a wide cone of light up to 18 metres long with a radius of six metres. TL7+ models have adjustable beams allowing them to produce a tight beam of light up to 36 metres long, with a one-metre radius or illuminate a 10 metre circle. At TL8 the efficient bulbs and batteries allow for 24 hours continuous use, quick recharging, and multiple modes including strobes and narrow beams up to 250 metres. Specialized flashlights can be mounted on helmets or weapons.
+The common flashlight. It is battery powered and lasts six hours of continuous use. A flashlight produces a wide cone of light up to 18 meters long with a radius of six meters. TL7+ models have adjustable beams allowing them to produce a tight beam of light up to 36 meters long, with a one-meter radius or illuminate a 10 meter circle. At TL8 the efficient bulbs and batteries allow for 24 hours continuous use, quick recharging, and multiple modes including strobes and narrow beams up to 250 meters. Specialized flashlights can be mounted on helmets or weapons.
 
 Flashlight TL Effect Kg Cost
 Basic 6 Flashlight: 18 x 6m cone of light, 6 hours  0.5 Cr10
@@ -2739,7 +2739,7 @@ Improved 8 Lightweight — Cr500
 
 #### LIGHT INTENSIFIER GOGGLES
 
-These goggles allow clear, monochrome vision up to 18 metres in anything less than total dark. While some light is required to produce this effect, anything approaching normal daylight conditions severely degrades the clarity. At TL9, light intensifier goggles are combined with IR goggles and adjust to normal vision in daylight conditions.
+These goggles allow clear, monochrome vision up to 18 meters in anything less than total dark. While some light is required to produce this effect, anything approaching normal daylight conditions severely degrades the clarity. At TL9, light intensifier goggles are combined with IR goggles and adjust to normal vision in daylight conditions.
 
 Light Intensifier
 Goggles TL Effect Kg Cost
@@ -2776,11 +2776,11 @@ Psi-finder Visor 17 Thin form or visor coating — Cr15000
 
 #### SPOTLIGHT
 
-A large electric light, usually vehicle, building or ground-mounted, although also available with a deployable tripod. A spotlight is a focused beam providing daytime-bright lighting in less than 30° of conical coverage to a distance of 200 metres. A floodlight version is more suitable for area lighting and has identical mass and cost. At TL9 and above this light is capable of switching between spot and flood modes. These lights are normally attached to external power sources but have internal short-term battery storage at TL9 for up to one hour of use. Larger lights are available with additional range at linear increases in mass and cost.
+A large electric light, usually vehicle, building or ground-mounted, although also available with a deployable tripod. A spotlight is a focused beam providing daytime-bright lighting in less than 30° of conical coverage to a distance of 200 meters. A floodlight version is more suitable for area lighting and has identical mass and cost. At TL9 and above this light is capable of switching between spot and flood modes. These lights are normally attached to external power sources but have internal short-term battery storage at TL9 for up to one hour of use. Larger lights are available with additional range at linear increases in mass and cost.
 
 Item TL Effect Kg Cost
-Spotlight 5 Illuminates 30° cone to 200 metres 20 Cr200
-Floodlight 5 Illuminates 120° cone to 100 metres 20 Cr200
+Spotlight 5 Illuminates 30° cone to 200 meters 20 Cr200
+Floodlight 5 Illuminates 120° cone to 100 meters 20 Cr200
 Combination Light  9 Variable beam width, 1 hour battery life 10 Cr500
 
 ### GADGETS AND ESSENTIALS
@@ -2789,13 +2789,13 @@ These devices are a small representation of various miscellaneous electronic ite
 
 #### RADIO JAMMER
 
-This device generates noise in radio frequencies to disrupt communications. The handheld version is useful for blocking surveillance devices and has a range of only 30 metres; its internal batteries last for one hour or it can be connected to a power source for longer operation. The heavy version relies upon external power; it has an adjustable range, potentially blocking all radio signals within 100 kilometres. Attempts to communicate within a jammed zone require a Difficult (10+) Electronics (comms) check every round, with TL differences applying as a DM.
+This device generates noise in radio frequencies to disrupt communications. The handheld version is useful for blocking surveillance devices and has a range of only 30 meters; its internal batteries last for one hour or it can be connected to a power source for longer operation. The heavy version relies upon external power; it has an adjustable range, potentially blocking all radio signals within 100 kilometers. Attempts to communicate within a jammed zone require a Difficult (10+) Electronics (comms) check every round, with TL differences applying as a DM.
 
 The radio jammer does not block tight-beam laser or maser communications. Privately operating a heavy radio jammer in a civilised environment is almost always illegal and even operating the handheld device may draw theattention of law enforcement if detected or reported.
 
 Item TL Effect Kg Cost
-Radio Jammer, Handheld 6+ Disrupts radio comms within 30 metres 0.5 Cr500
-Radio Jammer, Heavy  4+ Disrupts radio comms up to 100 kilometres  30 Cr50000
+Radio Jammer, Handheld 6+ Disrupts radio comms within 30 meters 0.5 Cr500
+Radio Jammer, Heavy  4+ Disrupts radio comms up to 100 kilometers  30 Cr50000
 
 #### RING LASER
 
@@ -2827,7 +2827,7 @@ Bioscanner 15 Organic molecule sensing and analysis  3.5 Cr350000
 
 #### BUG SWEEPER
 
-This handheld device scans a location for electromagnetic signatures from hidden microphones, cameras, microrobots and other surveillance devices. The difference between the detector’s Tech Level and that of the ‘bug’ provides positive DM to any Electronics (sensors) check. The check to detect an actively transmitting device is Average (8+) but for passive devices, it is a Very Difficult (12+) check. The bug detector has a range of six metres. A more expensive version provides a DM+2 to detection attempts. These are often installed room-by-room in secure facilities as part of an overall security system.
+This handheld device scans a location for electromagnetic signatures from hidden microphones, cameras, microrobots and other surveillance devices. The difference between the detector’s Tech Level and that of the ‘bug’ provides positive DM to any Electronics (sensors) check. The check to detect an actively transmitting device is Average (8+) but for passive devices, it is a Very Difficult (12+) check. The bug detector has a range of six meters. A more expensive version provides a DM+2 to detection attempts. These are often installed room-by-room in secure facilities as part of an overall security system.
 
 Item TL Effect Kg Cost
 Bug Sweeper (standard)  5+ Detects surveillance devices  0.5 Cr100
@@ -2835,7 +2835,7 @@ Bug Sweeper (deluxe)  5+ Detects surveillance devices, DM+2 0.5 Cr1000
 
 #### DENSITOMETER
 
-The densitometer uses an object’s natural gravity to measure its density, building a three-dimensional image of the object. This portable densitometer’s range depends on the mass of the object being scanned. A detailed scan of a person-sized object is possible at 100 metres, while a small starship or building can be scanned more than a kilometre distant, even through intervening obstacles.
+The densitometer uses an object’s natural gravity to measure its density, building a three-dimensional image of the object. This portable densitometer’s range depends on the mass of the object being scanned. A detailed scan of a person-sized object is possible at 100 meters, while a small starship or building can be scanned more than a kilometer distant, even through intervening obstacles.
 
 Item TL Effect Kg Cost
 Densitometer 14 Gravity imager 5 Cr20000
@@ -2852,29 +2852,29 @@ EM Probe 10 Electromagnetic detection and analysis  1 Cr1000
 A portable ground penetrating radar is able to locate items or anomalies buried in soil or loose rock. Any item of varying density or composition can be detected and identified, usually with an Average (8+) Electronics (sensors) check (INT or EDU, 1D rounds). The initial versions consist of a detector with two telescoping mounted arms connected to a control unit. The TL11 version deploys three dedicated grav-powered drones from the control unit to allow for triangulation to improve accuracy and penetration depth, providing DM+2 to detection attempts.
 
 Ground PenetratingRadar TL Effect Kg Cost
-Basic 7 Detects anomalies to 40 metres depth 5 Cr5000
-Improved 9 Detects anomalies to 80 metres depth  4 Cr8000
-Advanced 11 Detects anomalies to 160 metres depth, DM+2 2 Cr10000
+Basic 7 Detects anomalies to 40 meters depth 5 Cr5000
+Improved 9 Detects anomalies to 80 meters depth  4 Cr8000
+Advanced 11 Detects anomalies to 160 meters depth, DM+2 2 Cr10000
 
 #### METAL DETECTOR
 
 A metal detector uses magnetic fields to locate metals concealed on the surface or buried underground. It can detect underground cables of copper but not fibre optics. Ground penetration depth and ability to identify objects increases with Tech Level. The TL5 metal detector is a large  broomstick-like device, the TL7 version is slightly smaller but includes a readout estimating the composition or identity of the object detected. At TL9 the detector becomes small enough to be added as a component to another electronic device.
 
 Metal Detector TL Effect Kg Cost
-Basic 5 Detects coin-sized items to 1 metre depth  5 Cr250
-Improved 7 Detects coin-sized items to 3 metre depth 3 Cr150
-Advanced 9 Detects coin-sized items to 10 metre depth — Cr250
+Basic 5 Detects coin-sized items to 1 meter depth  5 Cr250
+Improved 7 Detects coin-sized items to 3 meter depth 3 Cr150
+Advanced 9 Detects coin-sized items to 10 meter depth — Cr250
 
 #### NAS
 
-The Neural Activity Scanner (NAS) consists of a backpack and detachable handheld unit and can detect neural activity up to 500 metres away. The device can also give a rough estimation of the intelligence level of organisms based on brainwave patterns.
+The Neural Activity Scanner (NAS) consists of a backpack and detachable handheld unit and can detect neural activity up to 500 meters away. The device can also give a rough estimation of the intelligence level of organisms based on brainwave patterns.
 
 Item TL Effect Kg Cost
 NAS 15 Neural activity detection and analysis  10 Cr35000
 
 #### PSI-DETECTOR
 
-This device is one of the earliest portable instruments for testing psionic ability. Slightly larger than a standard suitcase, it stretches the description of portable. The subject is fitted with an expandable band across their head, which wirelessly connects to the device. Wireless range is 10 metres. It not only determines whether the subject possesses a PSI score but the level of psionic strength. Operating the machine requires a Difficult (10+) Electronics (sensors) check (1D minutes, INT or EDU) with the subject’s PSI score as a positive DM. Subjects under the effect of an inhibitor drug inflict DM-2 to this check.
+This device is one of the earliest portable instruments for testing psionic ability. Slightly larger than a standard suitcase, it stretches the description of portable. The subject is fitted with an expandable band across their head, which wirelessly connects to the device. Wireless range is 10 meters. It not only determines whether the subject possesses a PSI score but the level of psionic strength. Operating the machine requires a Difficult (10+) Electronics (sensors) check (1D minutes, INT or EDU) with the subject’s PSI score as a positive DM. Subjects under the effect of an inhibitor drug inflict DM-2 to this check.
 
 Item TL Effect Kg Cost
 Psi-detector 13 Detects and evaluates PSI rating  10 Cr5000
@@ -2916,13 +2916,13 @@ Advanced 17 +Disintegration of contaminants 5 Cr1000
 
 #### BED
 
-For many a Traveller, the most important part of a home is where they sleep, a good night’s rest being directly connected to one’s success in the field. Many choose a simple mattress-based bed, although those purchased separately are usually an order of magnitude comfier than the standard stateroom model. Others prefer hammocks, which have the advantage of keeping the Traveller safe in the event of adverse gravitational effects. Beyond this, anti-grav beds hold the Traveller in suspension as they sleep, at a height of up to three metres (although most select a much lower height, in the event of power failure) and in perfect comfort.
+For many a Traveller, the most important part of a home is where they sleep, a good night’s rest being directly connected to one’s success in the field. Many choose a simple mattress-based bed, although those purchased separately are usually an order of magnitude comfier than the standard stateroom model. Others prefer hammocks, which have the advantage of keeping the Traveller safe in the event of adverse gravitational effects. Beyond this, anti-grav beds hold the Traveller in suspension as they sleep, at a height of up to three meters (although most select a much lower height, in the event of power failure) and in perfect comfort.
 
 Item TL Effect Kg Cost
-Bed (mattress)  1 Single-sized bed (~1 x 2 metres)  80 Cr200
+Bed (mattress)  1 Single-sized bed (~1 x 2 meters)  80 Cr200
 Bed (hammock)  1 Suspended and portable 1 Cr10
 Bed (anti-grav)  12 Floating suspension system 5 Cr1500
-Bed (king-sized)  — Bigger bed (up to 2.5 x 2.5 metres) x3 x5
+Bed (king-sized)  — Bigger bed (up to 2.5 x 2.5 meters) x3 x5
 
 #### CLOTHING CONSULTANT
 
@@ -3098,7 +3098,7 @@ as views from outside a ship) are available. Often
 combined with a high fidelity music system, home
 theatre and/or environment replicator of at least TL12,
 holographic wallpaper can transform a room into
-the centre of an entirely alien world or a completely
+the center of an entirely alien world or a completely
 immersive performance, although interaction with
 holographic images is not possible. The cost assumes
 a control unit and wallpaper covering the surface
@@ -3125,8 +3125,8 @@ is a bulky item up to TL8. At TL9, screens can be
 and combined with powerful but low profile speakers,
 taking up relatively little space. Beyond this, 3D and
 holographic technologies allow an entire room to
-become the centre of a home theatre, placing the
-Traveller in the centre of the action.
+become the center of a home theatre, placing the
+Traveller in the center of the action.
 
 Home Theatre TL Effect Kg Cost
 Basic 8 Flat screens
@@ -3149,7 +3149,7 @@ projection
 #### LORDS OF SPACE
 
 A spiralling craze on some worlds, Lords of Space are
-small 30-centimetre-tall animatronic toys that, when
+small 30-centimeter-tall animatronic toys that, when
 activated, are programmed to react to one another in a
 variety of patterns. They tend to be based upon various
 alien species, careers and notable personalities. While
@@ -3264,7 +3264,7 @@ locker safe
 
 This is a small device that fits easily into the palm
 which, when activated, projects a pre-programmed
-20–30 centimetre image of a person. These are often
+20–30 centimeter image of a person. These are often
 persons close and dear to the owner of the device but
 who have departed from the universe of the living, most
 often family members, although some Travellers may
@@ -3329,14 +3329,14 @@ through which only the loudest sounds are capable of
 penetrating (if a battle is going on between shipmates
 using the sphere versus the high fidelity music system,
 highest Tech Level will win...). This is used to create a
-zone over up to five metres in radius where a Traveller
+zone over up to five meters in radius where a Traveller
 can enjoy both peace and quiet.
 
 Item TL Effect Kg Cost
 Sphere of
 Solace
 
-10 Creates 5 metre radius
+10 Creates 5 meter radius
 sphere of silence
 
 1 Cr500
@@ -3346,7 +3346,7 @@ sphere of silence
 This is a self-contained living area with adjustable
 environment controls intended for the keeping of exotic
 and alien pets. Temperature, light and atmosphere are
-all selectable, allowing a Traveller to keep a favourite pet
+all selectable, allowing a Traveller to keep a favorite pet
 close by at home or in their stateroom. Vivaria come in
 different sizes, rated below as to the size of animals that
 can be kept in them by the total number of their Hits.
@@ -3643,7 +3643,7 @@ diagnostic tool
 
 #### PORTABLE MEDISCANNER
 
-This is a larger version of the personal mediscanner for use by field medics. The device is not optimised for a single individual and takes 1D minutes to calibrate itself to each new subject. It gives the same data as the personal version (although with slightly less detail), providing DM+1 on Medic checks once it has finished its analysis. Add-on chips for alien species are available for Cr500 each.
+This is a larger version of the personal mediscanner for use by field medics. The device is not optimized for a single individual and takes 1D minutes to calibrate itself to each new subject. It gives the same data as the personal version (although with slightly less detail), providing DM+1 on Medic checks once it has finished its analysis. Add-on chips for alien species are available for Cr500 each.
 
 Item TL Effect Kg Cost
 Portable
@@ -4013,11 +4013,11 @@ battery can operate for 12 hours before recharging. The
 grav belt allows the wearer to fly at up to Medium speed.
 
 Endurance is based on both the mass and speed of
-the object lifted. Maximum velocity is 200 kilometres
+the object lifted. Maximum velocity is 200 kilometers
 per hour, but duration assumes a cruising velocity of
-100 kilometres per hour. Exceeding cruising speed
+100 kilometers per hour. Exceeding cruising speed
 reduces effective endurance by 2/3 – every minute
-over 100 kilometres per hour counts as 1.5 minutes
+over 100 kilometers per hour counts as 1.5 minutes
 endurance. A grav belt cannot lift more than 500
 kilograms total mass, including the mass of the wearer
 and any other items carried; if carrying more than 250
@@ -4217,7 +4217,7 @@ implant
 
 The life-support, or ‘space’ mask, is functionally similar
 to the environment mask but can be used in a vacuum
-or underwater down to a depth of five metres. It gives
+or underwater down to a depth of five meters. It gives
 a full seal with NBC or other emergency suit such as a
 body sleeve. The mask has integral filters but is normally
 connected by a hose to a belt-mounted filter/blower
@@ -4434,7 +4434,7 @@ Heatsuit 8 Protection against cold to
 
 ## ICE AXE
 
-A small axe optimised for digging into ice when
+A small axe optimized for digging into ice when
 climbing. It adds DM+2 to any check involving
 climbing or arresting a fall on ice. Treat as a hatchet
 (see page 134) in combat.
@@ -4516,26 +4516,13 @@ hours and increase the maximum temperature for
 short-term survival by 5°.
 
 Item TL Effect Kg Cost
-Advanced
-Desert Suit
+Advanced Desert Suit 9 Protection from desert conditions (1D per 4 hours) 2 Cr1000
 
-9 Protection from
-desert conditions (1D
-per 4 hours)
-
-2 Cr1000
-
-DESERT KIT
-A basic desert outfit including loose-fitting trousers and
-shirt, a wide-brimmed hat, sunglasses, large water bottle
-(2 litres) and mineral tablets. It increases the interval for
-1D damage from heat up to 50°C to every two hours.
+#### Desert Kit
+A basic desert outfit including loose-fitting trousers and shirt, a wide-brimmed hat, sunglasses, large water bottle (2 litres) and mineral tablets. It increases the interval for 1D damage from heat up to 50°C to every two hours.
 
 Item TL Effect Kg Cost
-Desert Kit 5 Protection from desert
-conditions (1D per 2 hours)
-
-1 Cr75
+Desert Kit 5 Protection from desert conditions (1D per 2 hours) 1 Cr75
 
 Ice Terrain Kit
 
@@ -4597,7 +4584,7 @@ minute to 500°C
 ## HYDRO-COLLECTOR
 
 An oval-shaped bowl sitting atop a wide-footed tripod
-nearly a metre tall when extended, the hydro-collector
+nearly a meter tall when extended, the hydro-collector
 uses tiny electromagnetic pulses to draw moisture out of
 the air and collect it as drinkable water. One eight-hour
 collection session will provide an amount of drinking water
@@ -4655,7 +4642,7 @@ collecting moisture from the air, especially at night. It
 yields two litres of water per 24 hours in Standard or
 Dense atmospheres, one litre in Thin atmospheres, and
 half a litre in Very Thin atmospheres. The vaporator is
-stored in a compact (50 x 20 x 20 centimetres) package
+stored in a compact (50 x 20 x 20 centimeters) package
 and is unfolded for use. It can be considered an extra-
 small solar panel array (see page 119).
 
@@ -4729,7 +4716,7 @@ Survival gear
 
 ## CHEMICAL LIGHTSTICK
 
-A 10 centimetre rod of clear plastic containing
+A 10 centimeter rod of clear plastic containing
 chemicals which, when mixed by twisting the stick, give
 off a soft glow. Lightsticks last for about 24 hours and
 are bright enough to read by or to navigate a cave.
@@ -4758,7 +4745,7 @@ Flare
 ## DUCT TAPE
 
 A strong, fabric-based, multi-purpose adhesive tape. One
-roll contains a 5 centimetre x 30 metre length of tape.
+roll contains a 5 centimeter x 30 meter length of tape.
 Useful for hasty repair work as well as for restraining and
 gagging prisoners, among many other things.
 
@@ -4811,7 +4798,7 @@ are designed to be highly visible but otherwise cast little
 light. Whistling flares are similar but also emit a piercing
 whistle after it has been fired and is drifting back to the
 ground. This sound is not terribly pleasant but it can be
-heard for 3D kilometres in every direction.
+heard for 3D kilometers in every direction.
 
 Item TL Effect Kg Cost
 Illuminating
@@ -4841,7 +4828,7 @@ emitting whistle
 FLARE LAUNCHER
 A simple pistol or tube type launcher for use with flares.
 Used as a weapon, a flare gun is highly inaccurate,
-with an effective range of 5 metres, imposing DM-2
+with an effective range of 5 meters, imposing DM-2
 on all attack rolls and inflicting only 1D damage with
 illumination or signalling flares, although it may set
 flammable objects on fire. A whistling flare will inflict
@@ -4881,7 +4868,7 @@ G-Suit (liquid-filled) 8 Negates effect of +2G while seated 6 Cr3000
 
 GAS/OIL LAMP
 A lamp lasts about six hours on a half-litre of oil or gas
-and will illuminate a five metre radius to the equivalent
+and will illuminate a five meter radius to the equivalent
 of normal daylight. The fuel poses a fire hazard if
 spilled. Fuel refills cost Cr1.
 
@@ -4983,8 +4970,8 @@ shutter that allows for the rope to then be cut and used
 as normal. When finished, however, the rope can be
 balled up and reloaded into the gun to be digested by
 the bacterium colony and re-used later. A single infinite
-rope dispenser can produce up to 26 metres of rope
-before running out and must have at least one metre’s
+rope dispenser can produce up to 26 meters of rope
+before running out and must have at least one meter’s
 worth of colony left inside to reclaim old rope (a readout
 indicates how much of the colony remains in the
 gun). The rope is extremely strong, carrying up to 750
@@ -5035,7 +5022,7 @@ magnetic field
 
 POCKET SAW
 A slim but sharp collapsible saw or saw-like chain which
-can be folded into a 12 centimetre long box or a pocket.
+can be folded into a 12 centimeter long box or a pocket.
 
 Item TL Effect Kg Cost
 Pocket
@@ -5091,7 +5078,7 @@ most radiation that strikes it, saving anyone or thing
 sheltered beneath. All sources of rads being applied
 to objects beneath the blanket are reduced by 2D x 10
 rads. A rad-blanket folds into a roughly cubic package
-that is about 50 centimetres in height, width, and depth.
+that is about 50 centimeters in height, width, and depth.
 
 Item TL Effect Kg Cost
 Rad
@@ -5106,7 +5093,7 @@ REFLECTORISED TARPAULIN
 A thin and flexible metallic sheet whose shiny surface
 reduces incoming radiation by reflection, decreasing
 the exposure of anything underneath it by 40 rads. The
-standard version measures 5 x 10 metres.
+standard version measures 5 x 10 meters.
 
 Item TL Effect Kg Cost
 Reflectorised
@@ -5121,7 +5108,7 @@ Survival gear
 
 ## ROPE
 
-This is a 10-metre-long strong but light rope or cable
+This is a 10-meter-long strong but light rope or cable
 made from natural or artificial fibres, able to hold 150
 kilograms before breaking. At TL9, rope is completely
 synthetic and chemically adjusted to bear much heavier
@@ -5130,21 +5117,21 @@ TL13, the rope is based on rapidly-restructuring protein
 coats of viruses, a bio-engineered colony of proteins that
 is incredibly strong, holding up to 500 kilograms before
 breaking. Longer ropes are available at a linear increase
-in cost and mass but ropes longer than 50 metres often
+in cost and mass but ropes longer than 50 meters often
 include a spool which adds 10% to the mass.
 
 Rope TL Effect Kg Cost
-Basic 5 10 metre rope, 150kg
+Basic 5 10 meter rope, 150kg
 load
 
 5 Cr20
 
-Improved 9 10 metre rope, 250kg
+Improved 9 10 meter rope, 250kg
 load
 
 3 Cr50
 
-Advanced 13 10 metre rope, 500kg
+Advanced 13 10 meter rope, 500kg
 load
 
 2 Cr100
@@ -5183,7 +5170,7 @@ rations
 
 SURVIVAL MEAL
 A pre-packaged storable meal that comes in a variety
-of flavours. An adult human requires two a day for long-
+of flavors. An adult human requires two a day for long-
 term survival but high levels of activity such as all-day
 hiking, swimming or cold conditions may increase the
 requirement to four or more. These are designed for
@@ -5224,7 +5211,7 @@ in some cases vital nutrients will be missing.
 The still’s readout advises the Traveller as to how
 nutritional the glop will be but even the highest
 technology cannot make it taste any better. Most
-consumers carry syrupy flavours to add to the substance
+consumers carry syrupy flavors to add to the substance
 but these will eventually run out. Glop output can be
 customised as dry jaw-busting bars for portability or
 as a damp and fairly disgusting porridge for immediate
@@ -5275,7 +5262,7 @@ Advanced base and habitat modules, even
 prefabricated cabins and tents can have additional
 options installed. Unless stated otherwise the mass and
 cost of these items is based on a standard module or
-cabin size of 6 x 4 x 3 metres, which is 72 cubic metres
+cabin size of 6 x 4 x 3 meters, which is 72 cubic meters
 or about five ship displacement tons.
 
 ARMORED
@@ -5321,11 +5308,11 @@ and sensor checks
 TORCH
 A bundle of flammable materials mounted on a
 handle or stick. A torch will last about one hour and
-illuminate a six-metre radius, producing a thick,
+illuminate a six-meter radius, producing a thick,
 heavy smoke as it does so.
 
 Item TL Effect Kg Cost
-Torch 0 Lights 6-metre radius for 1 hour — Cr1
+Torch 0 Lights 6-meter radius for 1 hour — Cr1
 
 Survival Still TL Effect Kg Cost
 Basic 9 DM+2 to all Survival
@@ -5489,7 +5476,7 @@ in oxygenated water
 
 ATMOSPHERIC DIVING SUIT
 This is a rigid suit capable of allowing a diver to operate
-safely to depths of around 800 metres. The atmospheric
+safely to depths of around 800 meters. The atmospheric
 diving suit is large and clumsy but allows underwater
 expeditions of up to three hours without requiring pre-
 breathing or breathing a gel. It provides Protection +4.
@@ -5499,7 +5486,7 @@ Atmospheric
 Diving Suit
 
 7 Descend to 800
-metres without
+meters without
 pre-breathing,
 3 hours air supply,
 Protection +4
@@ -5516,9 +5503,9 @@ and is uncomfortable in both donning and removing
 the suit, as the wearer must ‘drown’ in the gel and
 then get it out of their lungs afterwards. The deep
 diving suit will allow a wearer to descend to 600
-metres below sea level, increasing by 100 metres for
+meters below sea level, increasing by 100 meters for
 each TL above 8. Extreme suits are also available,
-with each extra 100 metres diving depth adding
+with each extra 100 meters diving depth adding
 Cr5000 to cost and four kilograms to mass. It
 provides Protection +4 to the operator.
 
@@ -5527,7 +5514,7 @@ Deep-Diving
 Suit
 
 8 Descend to 600+
-metres depth,
+meters depth,
 breathing gel, 6
 hours ‘air’ supply,
 Protection +4
@@ -5597,7 +5584,7 @@ VERY DEEP OPERATION DIVING SUIT
 The Very Deep Operations (VDO) diving suit is an
 extremely tough piece of equipment that allows a
 wearer to descend safely to depths of more than
-1,200 metres. Its manipulators are clumsy (providing
+1,200 meters. Its manipulators are clumsy (providing
 DM-2 to any physical task checks) but there are few
 better choices for working outside a vessel in the deep
 ocean. The internal air supply will run for six hours. The
@@ -5615,7 +5602,7 @@ VDO
 Diving Suit
 
 8 Descend to 1,200
-metres without
+meters without
 pre-breathing,
 Protection +12
 
@@ -5670,7 +5657,7 @@ heights or to descend down steep crevasses.
 
 CLIMBING HOIST
 The hoist is a battery-powered motor which drives a
-reel with 25 metres of cable that can support up to 150
+reel with 25 meters of cable that can support up to 150
 kilograms. It has a hook on one side for attachment to a
 belt or harness and another hook on the opposite side of
 the cable. A rocker switch in the handle controls directions
@@ -5712,7 +5699,7 @@ related check
 
 GRAPNEL AND CABLE
 A hooked device used to attach a rope for climbing
-purposes, plus 10 metres of stout cord (100kg load).
+purposes, plus 10 meters of stout cord (100kg load).
 Grapnels can be thrown or propelled by a grapnel
 launcher. Getting one to attach itself can be tricky and
 requires an Average (8+) DEX check; attaching to
@@ -5731,7 +5718,7 @@ cord, 100kg load
 GRAPNEL LAUNCHER
 A grenade launcher-like device used to propel a grapnel
 to its target using gas or small explosives, with a
-maximum range of 25 metres. If used as a weapon, it
+maximum range of 25 meters. If used as a weapon, it
 deals 2D damage but has DM-2 to attack rolls. Three
 additional charges cost Cr50 and mass one kilogram. In
 locales where firearms are prohibited or heavily restricted,
@@ -5741,7 +5728,7 @@ Item TL Effect Kg Cost
 Grapnel
 Launcher
 
-7 25-metre-range grapnel
+7 25-meter-range grapnel
 launcher.
 
 3 Cr100
@@ -5847,7 +5834,7 @@ limitations are noted in their descriptions.
 
 ANTIMATTER BATTERY
 A matter/antimatter reactor built into a small cylindrical
-package, 15 centimetres thick and 30 centimetres long.
+package, 15 centimeters thick and 30 centimeters long.
 The battery operates automatically with no need for
 external maintenance and includes sufficient fuel to
 operate for over a decade while producing enough power
@@ -5874,13 +5861,13 @@ power to remote locations and hostile environments
 where other power sources are not available or reliable.
 This miniature fission unit lacks adequate shielding
 to be placed within a building. Without protection, a
-person standing one metre away will absorb one rad
+person standing one meter away will absorb one rad
 per hour, a relatively small amount that will kill within
 a few months. A fission microreactor is typically buried
 in the ground with its cooling radiator, a disk some
-three metres in diameter, exposed to the surface.
+three meters in diameter, exposed to the surface.
 Alternatively, it is placed sufficiently far away, up to
-100 metres, from a habitat to nearly eliminate the
+100 meters, from a habitat to nearly eliminate the
 radiation risk. The latter solution still causes damage to
 the surrounding environment on habitable worlds and
 risks severed power connections in any environment.
@@ -6023,7 +6010,7 @@ highly controlled, with limited private availability, as
 their active components are extremely radioactive,
 although not able to be harvested to make a nuclear
 weapon. Without protection, a person standing one
-metre from an RTG will absorb two rads per hour. As
+meter from an RTG will absorb two rads per hour. As
 with fission microreactors, these are normally buried or
 placed far from an inhabited area. Such site preparation
 requires 16-person-hours but no special tools. An RTG
@@ -6210,7 +6197,7 @@ airlock
 8 Cr1000
 
 RESCUE BUBBLE
-A two-metre-diameter inflatable plastic bubble.
+A two-meter-diameter inflatable plastic bubble.
 Piezoelectric layers in the bubble wall translate the
 Traveller’s movements into electricity to recharge the
 bubble’s own batteries and power its distress beacon,
@@ -6223,7 +6210,7 @@ Item TL Effect Kg Cost
 Rescue
 Bubble
 
-9 Inflatable 2 metre
+9 Inflatable 2 meter
 pressurised ball with 2
 hours air
 
@@ -6255,7 +6242,7 @@ someone else in the event of an accident and to
 increase the chances of a search finding them. Yanking
 a lanyard releases a tethered balloon reflector. This is
 somewhat similar to a rescue bubble but filled at very
-low pressure. It inflates into a three-metre-diameter
+low pressure. It inflates into a three-meter-diameter
 radar reflector which is tethered to the user’s belt. It
 vastly increases the user’s radar cross-section and
 makes a search more likely to find them. The kit
@@ -6313,8 +6300,8 @@ it, plus associated support equipment – fuel and water
 tanks (600 litres each), food storage containers, a small
 galley and freshers. This central unit supports up to
 four cabin modules which connect to it in a variety of
-ways. All modules are six metres long by four metres
-wide by three metres high, or 72 cubic metres, and can
+ways. All modules are six meters long by four meters
+wide by three meters high, or 72 cubic meters, and can
 be placed end-to-end, side-to-side or even stacked,
 although this can result in stability problems.
 
@@ -6482,7 +6469,7 @@ Improved 10 +Short-term life support 500 Cr20000
 Survival gear
 
 PRE-FABRICATED CABIN
-A basic 6 x 4 x 3 metre hut with windows and a door
+A basic 6 x 4 x 3 meter hut with windows and a door
 but with no heating, lighting or sanitary facilities fitted.
 The cabin is capable of withstanding light to severe
 winds, offering shelter from precipitation, storms and
@@ -6512,12 +6499,12 @@ up to four
 
 TARPAULIN
 Canvas or waterproof cloth sheet used to create a 2 x 4
-metre temporary shelter. Protects against precipitation
+meter temporary shelter. Protects against precipitation
 and can withstand light winds.
 
 Item TL Effect Kg Cost
 Tarpaulin 1 Temporary shelter: 2 x 4
-metre sheet
+meter sheet
 
 4 Cr10
 
@@ -6589,10 +6576,10 @@ Tool Set
 
 #### CHAIN
 
-A moderately heavy 10-metre chain, suitable for heavy lifting or towing, or to anchor a light water vessel. Will support up to 250 kilograms if used as a rope.
+A moderately heavy 10-meter chain, suitable for heavy lifting or towing, or to anchor a light water vessel. Will support up to 250 kilograms if used as a rope.
 
 Item TL Effect Kg Cost
-Chain 4 10 metre chain, 250 kilogram load  6 Cr100
+Chain 4 10 meter chain, 250 kilogram load  6 Cr100
 
 #### CHAINSAW
 
@@ -6653,21 +6640,21 @@ Advanced 14 DM+3 to Investigate checks 8 Cr10000
 
 #### LASER CUTTING GEAR
 
-A backpack power supply and laser or plasma cutting unit, this cutting gear is standard for use aboard starships. It can cut through most materials prior to TL16, although cutting through hull armor requires a very long time to create a breach. If used as a weapon, it inflicts DM-2 to attack rolls and has an effective range of 10 metres but deals 6D damage.
+A backpack power supply and laser or plasma cutting unit, this cutting gear is standard for use aboard starships. It can cut through most materials prior to TL16, although cutting through hull armor requires a very long time to create a breach. If used as a weapon, it inflicts DM-2 to attack rolls and has an effective range of 10 meters but deals 6D damage.
 
 Item TL Effect Kg Cost
 Laser Cutting Gear 9 Cuts through metals constructed at < TL16 4 Cr4000
 
 #### LASER DRILL
 
-A heavy-duty semi-portable laser used for mining, the laser drill is a tripod-mounted projector much more powerful than the laser rifle. It is also more cumbersome and far less accurate, being intended for work at point blank ranges. A power pack (not interchangeable with those used for lighter laser weapons) can be hooked to the drill, providing one hour of intermittent use; a cable can also be run to the power source of a ship, vehicle or prospector’s buggy which provides unlimited power at the cost of mobility. Extra powerpacks cost Cr3000 and extra tripods cost Cr250. The laser drill will eventually cut through any known material. If used as a weapon, it inflicts DM-2 to attack rolls with an effective range of 10 metres but will deal 9D damage.
+A heavy-duty semi-portable laser used for mining, the laser drill is a tripod-mounted projector much more powerful than the laser rifle. It is also more cumbersome and far less accurate, being intended for work at point blank ranges. A power pack (not interchangeable with those used for lighter laser weapons) can be hooked to the drill, providing one hour of intermittent use; a cable can also be run to the power source of a ship, vehicle or prospector’s buggy which provides unlimited power at the cost of mobility. Extra powerpacks cost Cr3000 and extra tripods cost Cr250. The laser drill will eventually cut through any known material. If used as a weapon, it inflicts DM-2 to attack rolls with an effective range of 10 meters but will deal 9D damage.
 
 Item TL Effect Kg Cost
 Laser Drill 9 Cuts through any known material, eventually. 16 Cr7500
 
 #### LASER SCALPEL
 
-A low-power but high-precision handheld laser ‘knife’ the size of a pen, used for medical and other delicate cutting purposes. It carries an internal battery which could support up to 30 minutes of continued operation and it can be hooked up (by a flexible power cord) to an external power source for longer-duration work or recharging. If used as a weapon, it has an effective range of five metres but will inflict only one point of damage. If intentionally aimed at a target’s eyes, it will cause blindness (for 1D hours but permanent in at least one eye on a six) on Effect 6+.
+A low-power but high-precision handheld laser ‘knife’ the size of a pen, used for medical and other delicate cutting purposes. It carries an internal battery which could support up to 30 minutes of continued operation and it can be hooked up (by a flexible power cord) to an external power source for longer-duration work or recharging. If used as a weapon, it has an effective range of five meters but will inflict only one point of damage. If intentionally aimed at a target’s eyes, it will cause blindness (for 1D hours but permanent in at least one eye on a six) on Effect 6+.
 
 Item TL Effect Kg Cost
 Laser Scalpel  10 Laser tool for medical or delicate cutting — Cr2000
@@ -6778,7 +6765,7 @@ mapping software
 8 Cr3000
 
 TOOL LASER
-A handheld laser welder/cutting-torch powered by a small internal powerpack (providing power for up to 20 minutes of continual use). The tool laser’s energy output is variable and thus can be used from anything from gentle electronic welding to small-scale metalwork or cutting through several centimetres of steel; anything beyond that requires a welding kit or a larger laser. At TL12 the tool laser is about the size of a large flashlight; at TL13 or above it can be as small as a pen. If used as a weapon, it inflicts DM-2 to attack rolls and has an effective range of five metres, dealing 1D damage to a target at full output. Each shot drains one minute of battery power.
+A handheld laser welder/cutting-torch powered by a small internal powerpack (providing power for up to 20 minutes of continual use). The tool laser’s energy output is variable and thus can be used from anything from gentle electronic welding to small-scale metalwork or cutting through several centimeters of steel; anything beyond that requires a welding kit or a larger laser. At TL12 the tool laser is about the size of a large flashlight; at TL13 or above it can be as small as a pen. If used as a weapon, it inflicts DM-2 to attack rolls and has an effective range of five meters, dealing 1D damage to a target at full output. Each shot drains one minute of battery power.
 
 Tool Laser TL Effect Kg Cost
 Basic 12 Handheld laser tool 0.5 Cr500
@@ -6846,7 +6833,7 @@ Some of the weapons described in these sections have additional weapons traits n
 
 Artillery weapons shoot projectiles along a ballistic trajectory, allowing them to ‘lob’ shots at targets out of sight. When firing at a target that can be seen, Artillery weapons follow the usual rules for ranged attacks.
 
-When attempting indirect fire at a target that cannot be physically seen, the attack suffers a DM-2 penalty. In addition, if the precise location of the targets is not known (enemies are behind a wall or have ducked down into a trench, for example) the attack will land 1D metres in a random direction away from them for every 100 metres the target is from the attacker, minus the Effect of the attack roll. A negative Effect will, of course, add to this distance instead.
+When attempting indirect fire at a target that cannot be physically seen, the attack suffers a DM-2 penalty. In addition, if the precise location of the targets is not known (enemies are behind a wall or have ducked down into a trench, for example) the attack will land 1D meters in a random direction away from them for every 100 meters the target is from the attacker, minus the Effect of the attack roll. A negative Effect will, of course, add to this distance instead.
 
 It is worth remembering that knowing where targets may be does not mean they need to be seen. The use of sensors, as described on page 160 of the Traveller Core _Rulebook_ , provide a good indication where enemies are lurking, as can forward observers.
 
@@ -6954,7 +6941,7 @@ A sword with a single-edged curved blade, this is the standard shipboard blade w
 
 #### DAGGER
 
-A small knife, approximately 20–30 centimetres in length.
+A small knife, approximately 20–30 centimeters in length.
 
 #### GREAT AXE
 
@@ -6974,7 +6961,7 @@ This includes most long-bladed hilt weapons, from the European ‘knightly’ lo
 
 #### MONOBLADE
 
-This is a light one-handed polymer blade that features a monofilament edge, a cutting edge just a few nanometres thick created by spinning a single-molecule strand. A monoblade is as sharp as any physical object can be.
+This is a light one-handed polymer blade that features a monofilament edge, a cutting edge just a few nanometers thick created by spinning a single-molecule strand. A monoblade is as sharp as any physical object can be.
 
 #### MONOFILAMENT AXE
 
@@ -7098,7 +7085,7 @@ A shock whip is more an instrument of torture than a useful weapon. It is normal
 
 #### WHIP
 
-This is a long whip that takes some practice and skill to use effectively. It may be used either to inflict damage or entangle an opponent at a distance of up to five metres. If the latter is desired, a successful attack will inflict no damage but instead force an immediate grapple (see page 78 of the Traveller Core Rulebook ) between the attacker and target.
+This is a long whip that takes some practice and skill to use effectively. It may be used either to inflict damage or entangle an opponent at a distance of up to five meters. If the latter is desired, a successful attack will inflict no damage but instead force an immediate grapple (see page 78 of the Traveller Core Rulebook ) between the attacker and target.
 
 ## SLUG THROWERS
 
@@ -7204,7 +7191,7 @@ This is a single shot, break-open smoothbore
 handgun designed to fire non-standard low-powered
 14mm cartridges, intended to deal with snakes and
 similar vermin in the wilderness. It is virtually useless
-beyond a few metres.
+beyond a few meters.
 
 SNUB PISTOL
 These lightweight, low-recoil weapons fire rocket-
@@ -7292,7 +7279,7 @@ Utilising gauss technology, this sniper rifle is the ultimate in long-ranged sur
 
 #### GAUSS SUBMACHINEGUN
 
-The gauss submachinegun or gauss personal defence weapon (GPDW) is a short-barrel magnetic coil weapon with an expandable telescopic stock. Designed to be more powerful than a gauss pistol, but small enough to be used by vehicle crews, it is often found in the hands of paramilitaries and less savoury fighters.
+The gauss submachinegun or gauss personal defence weapon (GPDW) is a short-barrel magnetic coil weapon with an expandable telescopic stock. Designed to be more powerful than a gauss pistol, but small enough to be used by vehicle crews, it is often found in the hands of paramilitaries and less savory fighters.
 
 #### HEAVY ADVANCED COMBAT RIFLE
 
@@ -7812,7 +7799,7 @@ A complex device about the size of a laptop computer, the neutrino detonator use
 
 #### PLASTIC EXPLOSIVE
 
-This generic, multi-purpose plastic explosive is a favourite of military units, terrorists, demolition teams and Travellers across Charted Space.
+This generic, multi-purpose plastic explosive is a favorite of military units, terrorists, demolition teams and Travellers across Charted Space.
 
 #### POCKET NUKE
 
@@ -7853,7 +7840,7 @@ extremely short barrel and no stock.
 
 All ARL weapons suffer DM-1 to attack rolls. The
 PDW variant suffers DM-2 to attack rolls made
-against targets beyond 10 metres. The ARL may use
+against targets beyond 10 meters. The ARL may use
 the rifle variant ammunition found in the Specialized
 Ammunition chapter.
 
@@ -7883,7 +7870,7 @@ This is a self-contained, disposable weapon launching
 an 80mm rocket-propelled directed plasma warhead.
 The plasma launcher is a deadly weapon able to
 destroy even high-technology armored vehicles. It
-is a favoured import with mid-tech forces that need a
+is a favored import with mid-tech forces that need a
 deterrent against higher-tech foes.
 
 #### EARLY MACHINEGUN
@@ -8004,7 +7991,7 @@ ammunition found in the Specialized Ammunition chapter.
 
 ### ARTILLERY WEAPONS
 
-All weapons described in this section require the Heavy Weapons (artillery) skill to use effectively. All ranges are listed in kilometres. Any range listed in parentheses is the minimum range the weapon can fire at – it may not attack any targets closer than this. Unless otherwise stated, artillery weapons may use the variant ammunition types found in the Specialized Ammunition chapter. See [[#Artillery Weapons Table]]
+All weapons described in this section require the Heavy Weapons (artillery) skill to use effectively. All ranges are listed in kilometers. Any range listed in parentheses is the minimum range the weapon can fire at – it may not attack any targets closer than this. Unless otherwise stated, artillery weapons may use the variant ammunition types found in the Specialized Ammunition chapter. See [[#Artillery Weapons Table]]
 
 > [!info]+ FORWARD OBSERVERS
 > On the battlefields of the far future, immense and powerful weapons can be deployed against the enemy. However, whether they be missiles or bombs from fast-flying aircraft, massive shells from artillery or apocalyptic energy blasts from orbiting spacecraft, they all still need eyes on the ground to be delivered accurately and effectively. This is where forward observers come in.
@@ -8015,7 +8002,7 @@ All weapons described in this section require the Heavy Weapons (artillery) skil
 >
 > This check is then used as the start of a task chain, to be followed by a straight attack roll by the aircraft, artillery or orbiting spacecraft. The only modifiers applied to this attack roll are from the task chain and the skill of the attacker using the weapon, not the battlefield conditions applied to the forward observer check or any DMs for the conditions applied to the distant or fast-moving attacker.
 >
-> If the attack roll misses the target, roll 1D for each point of negative Effect, then multiply the total by 10 if the attack was from aircraft or artillery and 100 if it were from a spacecraft. This is the number of metres the attack misses by. The Referee can randomly determine in which direction the attack actually lands.
+> If the attack roll misses the target, roll 1D for each point of negative Effect, then multiply the total by 10 if the attack was from aircraft or artillery and 100 if it were from a spacecraft. This is the number of meters the attack misses by. The Referee can randomly determine in which direction the attack actually lands.
 
 #### BLACK POWDER MORTAR
 
@@ -8093,7 +8080,7 @@ built on old Terra, this 800mm siege gun must be
 moved in parts and assembled in its firing position,
 making it unwieldy and prone to counter-battery fire
 by lesser, but more practical, pieces. Its awesome
-warhead can be delivered to a target many kilometres
+warhead can be delivered to a target many kilometers
 away and a direct hit from its five ton shell would flatten
 a tank, or even a maritime vessel, with ease – before
 detonating. It is extremely slow to reload, requiring 1D
@@ -8107,7 +8094,7 @@ bomb in the 120mm range over a respectable distance.
 
 ### VEHICLE HEAVY WEAPONS
 
-All weapons described in this section require the Heavy Weapons (vehicle) skill to use effectively. All ranges are listed in kilometres.  See [[#Vehicle Heavy Weapons Table]]
+All weapons described in this section require the Heavy Weapons (vehicle) skill to use effectively. All ranges are listed in kilometers.  See [[#Vehicle Heavy Weapons Table]]
 
 #### AEROSPACE DEFENCE LASER
 
@@ -8131,7 +8118,7 @@ Ammunition chapter.
 #### BLACK POWDER CANNON
 
 This is a simple smoothbore black-powder cannon
-capable of delivering shot out to a kilometre or so without
+capable of delivering shot out to a kilometer or so without
 any real degree of accuracy. Roundshot is the most
 commonly used ammunition, although canister shot is
 also popular. The black powder cannon typically requires
@@ -8194,7 +8181,7 @@ propulsion, similar to a gauss weapon and is typically
 mounted in emplacements or very large vehicles.
 Despite its range, it can be used against targets in low
 orbit if it can be elevated far enough. This extended
-range (100 kilometres) is only useful in direct fire at
+range (100 kilometers) is only useful in direct fire at
 airborne or orbital targets as this weapon cannot ‘lob’
 its projectiles like a howitzer. The hypervelocity cannon
 may use the variant ammunition types found in the
@@ -8211,7 +8198,7 @@ A battlefield-grade meson accelerator requires a huge power supply and can only 
 
 #### ORBITAL DEFENCE CANNON
 
-An extremely large hypervelocity cannon, this weapon can engage targets on the ground but, if elevated, can attack its preferred targets, low-orbiting spacecraft. If it does so, it increases its range to 1,000 kilometres.
+An extremely large hypervelocity cannon, this weapon can engage targets on the ground but, if elevated, can attack its preferred targets, low-orbiting spacecraft. If it does so, it increases its range to 1,000 kilometers.
 
 #### PLASMA GUN
 
@@ -8235,7 +8222,7 @@ This weapon is constructed from six machinegun barrels which rotate through firi
 
 ### ROCKETS, MISSILES AND BOMBS
 
-All weapons described in this section require the Heavy Weapons (vehicle) skill to use effectively. Ranges are listed in kilometres.  See [[#Rockets Missiles Bombs Table]]
+All weapons described in this section require the Heavy Weapons (vehicle) skill to use effectively. Ranges are listed in kilometers.  See [[#Rockets Missiles Bombs Table]]
 
 #### ANTI-AIR MISSILE
 
@@ -8337,7 +8324,7 @@ Chaindrive Bayonet
 Bayonet
 
 FOF SAFETY
-This is an integrated Friend-or-Foe scanner which can be added to any firearm. The scanner is built directly into the firing mechanism of any trigger-activated weapon. A transmitting tag is then worn by other personnel, emitting a signal to any FOF safeties it is coded for, up to 50 metres away. If the scanner tries to target an object within one metre of a transmitting tag, the gun will not fire. To better eliminate friendly fire incidents and other disloyal behaviour, many corporate or mercenary militaries use these devices as standard. Two transmitter tags are included in the purchase of the FOF safety and additional transmitter tags can be purchased for Cr25 each. The safety can also be integrated with a user’s visual-based Friend or Foe HUD (see page 176) if present.
+This is an integrated Friend-or-Foe scanner which can be added to any firearm. The scanner is built directly into the firing mechanism of any trigger-activated weapon. A transmitting tag is then worn by other personnel, emitting a signal to any FOF safeties it is coded for, up to 50 meters away. If the scanner tries to target an object within one meter of a transmitting tag, the gun will not fire. To better eliminate friendly fire incidents and other disloyal behaviour, many corporate or mercenary militaries use these devices as standard. Two transmitter tags are included in the purchase of the FOF safety and additional transmitter tags can be purchased for Cr25 each. The safety can also be integrated with a user’s visual-based Friend or Foe HUD (see page 176) if present.
 
 Item TL Effect Kg Cost
 FOF Safety 9 ID and protect tagged friends to 50 m + 2 tags  — Cr250
@@ -8369,7 +8356,7 @@ capacity
 x2 x3
 
 HOLOGRAPHIC SIGHTS
-Holographic sights project an aim point for the user and automatically compensate for wind, gravity and other adverse conditions. They grant the Scope trait plus DM+1 to all attack rolls made against targets 50 metres or more away.
+Holographic sights project an aim point for the user and automatically compensate for wind, gravity and other adverse conditions. They grant the Scope trait plus DM+1 to all attack rolls made against targets 50 meters or more away.
 ![[CSC_Update_2023_23-04-24_1-Holosights.jpg]]
 
 Item TL Effect Kg Cost
@@ -8386,7 +8373,7 @@ Enhanced 13 Adds Computer/2 to any weapon — Cr1200
 Advanced 15 Adds Computer/3 to any weapon  — Cr2000
 
 LASER SIGHT
-Integrated optics and laser sights grant DM+1 to any attack made at ranges of less than 50 metres. At TL10, ultraviolet lasers and improved display technology removes the tell-tale ‘red dot’ of a vislight laser.
+Integrated optics and laser sights grant DM+1 to any attack made at ranges of less than 50 meters. At TL10, ultraviolet lasers and improved display technology removes the tell-tale ‘red dot’ of a vislight laser.
 
 Item TL Effect Kg Cost
 Laser Sight
@@ -8530,7 +8517,7 @@ automatic slug thrower
 — Cr250
 
 X-RAY OUTLINING AID
-By adding an outlining element to an existing scope, the user can see exactly where their target lies behind an obscuring object. So long as the object is not made of metal, shielded or more than a metre thick, the target may not hide behind it (although it will still gain its usual Protection bonus – see page 78 of the Traveller Core Rulebook for details). The TL11 version is more powerful and can function through up to three metres of material.
+By adding an outlining element to an existing scope, the user can see exactly where their target lies behind an obscuring object. So long as the object is not made of metal, shielded or more than a meter thick, the target may not hide behind it (although it will still gain its usual Protection bonus – see page 78 of the Traveller Core Rulebook for details). The TL11 version is more powerful and can function through up to three meters of material.
 
 Item TL Effect Kg Cost
 X-Ray Outlining
@@ -8569,7 +8556,7 @@ MODIFICATIONS
 AEROSOL
 Aerosol rounds disperse a fine mist that diffuses any lasers fired into or through it but the mist does not block normal vision. Any laser attack tracing a line of sight into or through the mist has its damage reduced by -10. Laser communications are completely blocked by the mist. Multiple uses will not increase this effect, only resetting the time interval for dissipation.
 
-ARMOR PIERCING
+### ARMOR PIERCING
 These rounds are pointed projectiles of dense or very hard material designed to punch through armor. AP ammunition provides a weapon with an AP trait equal to the number of damage dice it rolls. If the weapon already has the AP trait, this is added to the final AP score.
 ![[CSC_Update_2023_23-04-24_1-ArmorPiercing.jpg]]
 
@@ -8676,7 +8663,7 @@ FRAGMENTATION
 This is an anti-personnel warhead, throwing out shards of shrapnel across a very wide area. If the weapon does not have a Blast trait, fragmentation rounds give it Blast 10.
 
 FOAM
-A foam round, when fired from grenade launchers or heavier weapons, disperses a sticky foam which temporarily incapacitates a target. If the damage inflicted exceeds a person’s STR or a vehicle’s Hull, ignoring all armor, the target is stuck to the ground or a nearby wall. Escape requires a Very Difficult (12+) STR check, which may be attempted once per round. A vehicle may be freed with a Difficult (10+) skill check, with a negative DM equal to the foam ‘damage’ divided by the vehicle’s Hits, rounding up in the foam’s favour. Foam rounds for shotguns become available at TL11 and are ineffective against vehicles with a Hull value greater than 4.
+A foam round, when fired from grenade launchers or heavier weapons, disperses a sticky foam which temporarily incapacitates a target. If the damage inflicted exceeds a person’s STR or a vehicle’s Hull, ignoring all armor, the target is stuck to the ground or a nearby wall. Escape requires a Very Difficult (12+) STR check, which may be attempted once per round. A vehicle may be freed with a Difficult (10+) skill check, with a negative DM equal to the foam ‘damage’ divided by the vehicle’s Hits, rounding up in the foam’s favor. Foam rounds for shotguns become available at TL11 and are ineffective against vehicles with a Hull value greater than 4.
 
 Specialized Ammunition
 

@@ -372,7 +372,7 @@ On a 5-6, you succeed. Gain +4 DM on a benefit throw, or +2 DM on two different 
 **53** You spend time bumming around on spaceships. Throw Intelligence 8+ to gain Mechanical 1, Steward 1 or Vacc Suit 1.
 **54** You spend time in the wilderness. Gain Survival 1, Recon 1 or Gun Combat (any) 1.
 **55** You pick up a few useful skills here and there. Gain one of Jack of All Trades, Survival, Streetwise or Melee (any).
-**56** A Patron offers you a job. If you accept, gain +4 DM on you next Qualification throw, but you owe that patron a favour.
+**56** A Patron offers you a job. If you accept, gain +4 DM on you next Qualification throw, but you owe that patron a favor.
 **61** You manage to scavenge something useful. Gain +1 DM on one benefit throw for this career.
 **62** You make the best of a bad situation. Gain +2 DM on your next Advancement throw.
 (^63) Life on the edge hones your abilities. Increase any skill you already have by one level.
@@ -1148,7 +1148,7 @@ Explorer Int 6+ Edu 7+
 (^5) Your mission ends in disaster, causing the death of at least one party member and you are blamed. Gain an Enemy.
 **6** You inadvertently cause offense to an alien species. Gain an Enemy and Diplomat 1.
 **7** Injured – throw on the Injury Table.
-**8** Your vehicle is damaged and you have to make your way across thousands of kilometres of wild terrain. Gain 1d3 Contacts and an
+**8** Your vehicle is damaged and you have to make your way across thousands of kilometers of wild terrain. Gain 1d3 Contacts and an
 Enemy.
 **9** Betrayed by a friend. One of your Contacts or Allies betrays you and leaves you for dead. Turn one of your Contacts or Allies into a Rival
 or Enemy. If you have no Contacts or Allies, then you are betrayed by a client and you gain an Enemy.
@@ -1171,7 +1171,7 @@ Deception or Dexterity 8+. If you succeed, you gain a +1 DM on one benefit throw
 the Rogue career next term without having to make the Qualification throw.
 **22** A Patron offers you a very dangerous job. If you refuse, gain nothing. If you accept, throw Dexterity 8+ or Stealth 8+. If you succeed,
 gain +1 DM on one benefit throw and gain the Patron as a Contact. If you fail, throw on the Injury Table and take the Patron as a Rival.
-**23** A Patron offers you a job. If you accept, gain +4 DM on your next Qualification throw, but you owe that Patron a favour.
+**23** A Patron offers you a job. If you accept, gain +4 DM on your next Qualification throw, but you owe that Patron a favor.
 
 (^24) You are embroiled in legal trouble. Throw Education 8+. If you succeed, gain one of Admin 1, Advocate 1, Diplomat 1 or Investigate 1.
 If you fail, lose your benefit throw for this term.

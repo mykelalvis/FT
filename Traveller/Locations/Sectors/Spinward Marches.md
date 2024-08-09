@@ -171,13 +171,13 @@ Note: Some Imperial citizens also use the term Coreward to mean
 towards the Imperial heartworlds, the ‘Imperial Core’. This usage
 is generally obvious from context. For example, it should be fairly
 obvious that a magazine called Coreward Gazette deals with matters
-in the Imperial central region and not the centre of the galaxy several
+in the Imperial central region and not the center of the galaxy several
 thousand light–years away.
 
 Distances in Space
-Concepts like metres and even kilometres are inadequate in the face
+Concepts like meters and even kilometers are inadequate in the face
 of the vast distances in space. Over relatively short distances such
-as in orbital space near a planet thousands or millions of kilometres
+as in orbital space near a planet thousands or millions of kilometers
 are used as a measure. Larger distances in–system are measured
 using the Astronomical Unit, or AU. This is based on the distance of
 Earth’s orbit from the Sun, and is about 160,000,000km.
@@ -440,7 +440,7 @@ trade routes are not profitable at standard freighting rates, but it is
 considered desirable to have vessels on the route. The result is the
 subsidized merchant.
 The ‘subbie’ is both a specific class of ship and a general activity.
-Subsidised routes are partially paid for by commercial activity and
+Subsidized routes are partially paid for by commercial activity and
 partly by government money from local worlds or trade alliances
 that feel the need for a regular service. Note that while ships of the
 class termed Subsidized Merchants are well suited to such activity,
@@ -1699,7 +1699,7 @@ certain and usually involve some negotiation.
 A world government that claims ownership of planets and moons in
 the neighboring system will have to show very good reasons for the
 claim whereas a commercial organization that wants a few square
-kilometres of real estate to build a mining installation is more likely
+kilometers of real estate to build a mining installation is more likely
 to have its request granted.
 
 As a rule smaller bodies such as planetoids tend to be wholly
@@ -1847,7 +1847,7 @@ made up of his allies and supporters. The Imperium is built upon
 economic activity, and many its leaders are captains of industry.
 
 This can create conflicts of interest, and there are laws to limit how
-far a corporate noble can favour his own and his economic allies’
+far a corporate noble can favor his own and his economic allies’
 interests. However, the simple fact is that money and power go
 together, and the Megacorporations have both in large quantities.
 
@@ -1885,7 +1885,7 @@ operate a two–tier employment system whereby a small proportion
 of employees are given high status and very good salaries while the
 rest are more or less blatantly exploited. Entry into the upper echelon
 is used as a ‘carrot’ to string hopefuls along while paying them well
-below the going rate. To those who make the jump to Favoured
+below the going rate. To those who make the jump to Favored
 Employee status, Delgado is extremely generous, but there are a
 number of contractual ‘sticks’ which are used to beat troublesome
 employees with.
@@ -1899,7 +1899,7 @@ kitchen implements which are adequate for their purpose and more
 importantly, cheap.
 
 General has dominated the cheap–and–good–enough end of
-the market for many years, but has recently been at the centre of
+the market for many years, but has recently been at the center of
 controversy as several of its starships have suffered serious defects.
 Poor build quality and lack of attention to detail have been blamed
 for the loss of several military and civilian starships, and General’s
@@ -2071,7 +2071,7 @@ that it is entirely willing to interfere in local affairs in order to
 protect its interests. It has also been accused of illegal research
 and continued involvement in psionic drugs production despite
 an Imperial injunction. To somewhat offset this bad reputation,
-SuSAG subsidises a number of medical charities and disaster–relief
+SuSAG subsidizes a number of medical charities and disaster–relief
 agencies as well as sponsoring large numbers of medical students.
 
 SHARURSHID
@@ -2155,7 +2155,7 @@ currency reserves. Essentially the firm has loaned capital to a number
 of worlds, secured against their reserves. There is nothing wrong
 with this, it being standard practice. However, persistent rumors
 suggest that Zirunkariish is somehow using its influence over these
-worlds to create a favourable investment climate elsewhere.
+worlds to create a favorable investment climate elsewhere.
 
 ###### THE IMPERIAL NOBILITY
 
@@ -2349,7 +2349,7 @@ Knights often receive a stipend rather than a fief. Most honor
 nobles receive neither; their knighthood is simply recognition
 of achievement. Those knights that do have a fief rarely receive a
 large area unless it is of low value. A knight might be given several
-hundred kilometres of wilderness, or a rather more desirable but
+hundred kilometers of wilderness, or a rather more desirable but
 smaller area on the edge of a major city.
 Some orders of knighthood can only be bestowed by the holder of a
 certain office, the Archduke of Ilelish, for example, and others only
@@ -2577,7 +2577,7 @@ centuries, coming to refer to a court of law. However, the courts of
 Imperial nobles are indeed places where matters are resolved.
 The court of a baron or even a marquis is a modest affair, if it even
 exists, but from the level of count upwards the courts of nobles
-become very important places where influence and favours are
+become very important places where influence and favors are
 traded and issues resolved between representatives.
 The usual practice is for worlds within a county (a count’s area
 of responsibility) to maintain representatives at the count’s court
@@ -3040,7 +3040,7 @@ contain several grav sleds carrying electronic warfare and artillery
 weapons, and there will usually be some tanks available unless the
 force is very small.
 
-Other common formations include light infantry (optimised for
+Other common formations include light infantry (optimized for
 peacekeeping and urban combat operations), grav cavalry (light
 armored striking and reconnaissance formations), armored
 
@@ -3466,7 +3466,7 @@ be an expression of the majority will.
 
 There are also questions of morality and expediency. Should the
 Imperium support a morally dubious government, or help overthrow
-a liberal one in favour of a regime that fits well with Imperial plans
+a liberal one in favor of a regime that fits well with Imperial plans
 for the region? For these and other reasons such as the sheer costs
 (in lives and money) involved the Imperium generally tries not to
 become involved in ‘local matters’ such as insurgencies against a
@@ -4012,7 +4012,7 @@ blocked further expansion in that direction.
 
 In 250, the Imperium had spread into those parts of the sector
 easily reachable via the Spinward Main, bypassing less accessible
-regions. Regina, settled as early as 75, became a major trade centre,
+regions. Regina, settled as early as 75, became a major trade center,
 acting as a hub for half a dozen neighboring worlds. By 250 this
 number had grown to 17, though some were very minor colonies.
 Expansion slowed still further as the easily–reached worlds were
@@ -4078,7 +4078,7 @@ inadequate. The war mainly took the form of commerce raiding by
 cruisers while the battle fleets of both sides faced off but did little.
 The Navy and the Emperor himself were censured for their lack of
 activity, and eventually, in 986, a peace agreement was reached. The
-terms were unfavourable to the Imperium and this, coupled with
+terms were unfavorable to the Imperium and this, coupled with
 general disaffection over the way the war was prosecuted, resulted
 in the abdication of Emperor Styryx.
 The settlement did eliminate some problematical border regions
@@ -4216,7 +4216,7 @@ scientific research and finding ways to improve their peaceful lives.
 Darrian itself receives fair numbers of tourists who want to see the
 high–tech wonders left behind by the Maghiz. However, the capital
 of the Confederation is at Mire, which was the first world to regain
-spaceflight and is today the centre of both government and the
+spaceflight and is today the center of both government and the
 economy.
 
 The Droyne
@@ -4577,7 +4577,7 @@ subsector duke. The position of Sector Duke, the most senior of the
 subsector dukes, which grants additional powers and responsibilities
 over the entire sector, is not officially assigned in the Marches.
 
-However, the importance of Mora as a trade centre and as the
+However, the importance of Mora as a trade center and as the
 ‘Gateway to the Marches’ grants that world and its associated
 subsector a level of importance not matched elsewhere. Thus
 the role of Sector Duke is carried out semi–officially by Duchess
@@ -5323,7 +5323,7 @@ The largest grouping of worlds centres on Cronor (sometimes
 spelled Chronor by Imperial cartographers) which is the Consulate
 capital of the subsector and also a major naval base. Cronor has the
 highest tech level and population in the subsector and is a major
-economic centre. Unsurprisingly, it is also very heavily protected.
+economic center. Unsurprisingly, it is also very heavily protected.
 There are also important Consulate naval bases at Errere, Gesentown
 and Cipango. Major fleet assets are based at these locations. The
 bases at Atsa, Ninjar and Sheyou are much smaller and play host
@@ -5887,7 +5887,7 @@ been built up steadily, literally over centuries. The massive losses of
 the Frontier Wars and more importantly the Civil War meant that
 a large percentage of the fleet needed replacing and fast. System
 defence assets also required replacement in heavily fought–over
-systems. Crash–building programmes covered the worst of the
+systems. Crash–building programs covered the worst of the
 deficit within a couple of decades but this created a second
 crisis as these ships suffered block obsolescence, they all needed
 replacement at once rather than over time.
@@ -5964,7 +5964,7 @@ slump has merely slowed it and made the decline more painful.
 Efforts are underway to improve matters. Imperial funding and
 Megacorporate loans have been requested, without much success,
 though there have been some instances of private concerns moving
-into Louzy on very favourable terms. The world government seems
+into Louzy on very favorable terms. The world government seems
 increasingly willing to entertain distinctly borderline schemes if they
 will bring in hard cash or help turn around the slow decline.
 There is also a steady exodus of people offworld. Some are the
@@ -6231,7 +6231,7 @@ incorporated into the Imperium (in 250) the world was the obvious
 choice as subsector capital.
 
 Since that time Regina has developed steadily, though more as a
-centre for trade and diplomacy than as an industrial complex. Lying
+center for trade and diplomacy than as an industrial complex. Lying
 as it does on the Spinward Main, Regina’s excellent starport is an
 important interface between regional trade and that bound for more
 distant regions. Most ships coming up the Main from Rimward turn
@@ -6274,7 +6274,7 @@ purposes rather than being independent worlds. Their social
 
 and economic importance is very small compared to that of the
 mainworld with its hundreds of millions of people and the vast
-trading centre that is the Highport.
+trading center that is the Highport.
 
 There is a sizable Scout base at Regina, co–located with the main
 Highport. Its main function is to serve the Express Boat network but
@@ -6384,7 +6384,7 @@ Kinorb 0602 A663659–8 I Ri NI G
 Beck’s World 0604 D88349D–4 I NI Lt G
 Enope 0605 C411988–6 I Hi NI In
 Wochiers 0607 EAC28CC–9 I Fl G
-Yorbind 0703 C7C6503–7 I Fl NI
+Yorbund 0703 C7C6503–7 I Fl NI
 Shionthy 0706 X000742–8 I As R G
 Algine 0708 X766977–4 I Hi Lt R G
 Yurst 0709 E7B4643–5 I Fl NI Lt G
@@ -7438,7 +7438,7 @@ the populace, numbering somewhat more than 470 million. The
 majority of the population dwell on the world’s largest continent,
 mostly around the coasts.
 
-The major population centre and capital has grown up around the
+The major population center and capital has grown up around the
 world’s large Downport, which also serves a small Imperial scout
 base. The latter is important as a communications link back into the
 Imperium via Frenzie, Denotam and thereby into Lanth subsector
@@ -7847,7 +7847,7 @@ not addressed the major issues regarding Dinom–as–home rather
 than Dinom–as–workplace.
 
 The World Board believes that it is simply not cost–effective to
-implement social programmes and to improve Dinom as a place to
+implement social programs and to improve Dinom as a place to
 live. In this, they are probably correct. The Dinom Corporation looks
 after its workers well enough but does not see the need to consider
 the long–term development of the world as something other than a
@@ -7858,7 +7858,7 @@ is a change of government. This hypothetical new government would
 of course allow the Dinom Corporation to continue its operations,
 but would spend much more on long–term social development.
 The World Board is unlikely to accept this proposal and in any case
-it is unworkable. The money for these programmes would have to
+it is unworkable. The money for these programs would have to
 come from the only real source of wealth on the planet – the Dinom
 Corporation.
 
@@ -7882,7 +7882,7 @@ processing centres for a variety of industrial uses.
 
 Operating on the cold face is hazardous. In addition to the usual
 dangers of an airless world such as dust pools that seem only
-centimetres deep, micrometeorite showers and the occasional deep
+centimeters deep, micrometeorite showers and the occasional deep
 crevasse, super–cold terrain of this sort has its own unique ways to
 harm unwary travellers.
 
@@ -7932,7 +7932,7 @@ Victoria itself is a very old world orbiting an old star, and is
 deficient in heavy minerals and metals as a result. Despite this it
 has a dense atmosphere, which carries a taint capable of defeating
 most conventional filters. Fortunately this taint exists mainly at low
-altitudes. Above 1000 metres the atmosphere is safe to breathe.
+altitudes. Above 1000 meters the atmosphere is safe to breathe.
 Below this, an oxygen supply or a fully sealed environment suit is
 needed.
 
@@ -7980,7 +7980,7 @@ cooling, creating the unusual pattern of high areas separated by
 chasms which are quite deep but often only 500–2000m wide.
 The best asteroids for planetary bombardment are rocky or, better,
 nickel–iron cored ones. Thus significant deposits of metal are
-probably available at the centre of each crater. However, most of
+probably available at the center of each crater. However, most of
 these craters are now submerged and all lie below the taint level,
 making access by the locals extremely difficult. Some craters have
 a central raised point (a common feature of impact craters) and
@@ -8295,14 +8295,14 @@ cadets that they have not chosen a cosy, safe occupation.
 
 Rhylanor also has a large Scout base, which acts as a communications
 depot for the Xboat routes as well as a regional planning and
-command centre. The facility is quite extensive and contains training
+command center. The facility is quite extensive and contains training
 facilities for some of the more specialized scout roles such as the
 use of advanced communications equipment and the Scout Service
 security teams that are occasionally called upon to rescue personnel
 who have found more trouble than they can handle.
 
 Rhylanor, with its large population base and extremely high
-technology level, is also a centre for industry, commerce and
+technology level, is also a center for industry, commerce and
 education. The Rhylanor Institute of Technology is one of the most
 prominent hard–science and technological–research institutions
 in the entire Imperium and is almost certainly the foremost such
@@ -8315,7 +8315,7 @@ owned but most are either Megacorporate subsidiaries or at least
 partially funded by Megacorp money.
 
 Rhylanor’s importance as a communications hub and industrial
-centre cannot offset the fact that it is difficult to get to. Free Traders
+center cannot offset the fact that it is difficult to get to. Free Traders
 and similar independent starships are rarely seen in the ports of
 Rhylanor, Porozlo and Jae Tellona; they tend to stay on the Spinward
 Main for the most part. The vessels that do come through are for the
@@ -8325,11 +8325,11 @@ Eqqus, Celepina and Belizo.
 Many of the ships on this route are Megacorporate–owned, though a
 couple of smaller lines make a decent profit from dedicated vessels
 plying the trans–Rhylanor routes. The most prominent, Rhylanor
-Shipping LIC, is heavily subsidised by the government of Rhylanor
+Shipping LIC, is heavily subsidized by the government of Rhylanor
 to ensure a regular service. The firm does not operate anywhere
 else, but Imperium Mail LIC does. The latter specialises in high–
 
-jump courier and subsidised trade route operations in various parts
+jump courier and subsidized trade route operations in various parts
 of the Marches as well as Deneb sector.
 
 ###### VANEJEN C686854 5
@@ -8344,7 +8344,7 @@ colonists, but became isolated during the Long Night, falling back
 to barbarism before climbing back up to a modest technological
 base. By the time the Imperium arrived in the Marches Vanejen had
 experienced centuries of cultural drift and had lost most traditional
-Vilani habits in favour of a home–grown culture. The population
+Vilani habits in favor of a home–grown culture. The population
 were initially pureblood Vilani and there has been little intermingling
 over the centuries.
 
@@ -8409,7 +8409,7 @@ a large glassed–in area forward, with powerful searchlights mounted
 alongside. This allows visually–guided manoeuvring at close range
 although it does pose a hazard in the event of a collision. Most
 boats are capable of operating at a safe maximum depth of about
-200 metres, and can survive at somewhat greater depths.
+200 meters, and can survive at somewhat greater depths.
 Vanejen also has a substantial population of Chirpers. Most seem
 to live on the northern continent, even though it is less hospitable
 than the other land masses. This may be because the Chirpers have
@@ -8440,7 +8440,7 @@ Chirpers do not understand that a human, say, 500m away can be
 a threat. They do tend to move away from humans and conceal
 themselves as soon as they become aware that people are nearby,
 but the incredible vanishing trick is not performed until intruders
-approach within a few hundred metres.
+approach within a few hundred meters.
 The human population on Vanejen has occasionally mounted
 expeditions to drive the Chirpers away from human settlements,
 and this has been generally successful. Perhaps not coincidentally,
@@ -8784,7 +8784,7 @@ characteristics and function, but altogether they contain only a
 fraction of the world population.
 
 In addition to being the spiritual home of the Darrian Confederation,
-Darrian is also the main technological centre. The IISS has assigned
+Darrian is also the main technological center. The IISS has assigned
 a tech level rating of G (16), but this is slightly misleading. TL 16
 artefacts are under study and in some cases can be duplicated and
 incorporated into devices as black–box components, but the world
@@ -9347,7 +9347,7 @@ a degree or so above freezing), an ephemeral glade may spring up.
 This is essentially an area of plant life that grows from the thawing
 soil at incredible speed. Within a few hours an area of grass–like
 plants up to 2–3m high can spring up.
-Glades tend to be 2–3 kilometres across and rapidly attract animals
+Glades tend to be 2–3 kilometers across and rapidly attract animals
 from the surrounding area, drawn to the readily available food and
 shelter of the glade. Once the temperature drops below freezing,
 the plants rapidly die and the animals depart after a last frenzy of
@@ -9720,7 +9720,7 @@ as the outbreak of the Fourth Frontier War.
 This large collection of communications and support ships is not
 based on Ianic itself but orbits one of the system’s gas giants, with
 a central station coordinating all approaches and departures as well
-as acting as an accommodation centre. This allows personnel to get
+as acting as an accommodation center. This allows personnel to get
 off their ships for a while. The station also fulfils the other important
 function of the system. Backups of all Xboat–carried messages are
 maintained at Ianic and other, similar, stations. The Scouts have
@@ -10013,7 +10013,7 @@ Palique’s Amber Zone is due to frequent meteor bombardment.
 The world is a captured body that follows a highly eccentric orbit
 which takes it through one of the system’s two dense planetoid
 belts twice a year. Although conveniently placed as an industrial
-centre for the minerals mined from the rich belts, Palique can be
+center for the minerals mined from the rich belts, Palique can be
 a hazardous destination for starships. All of the world’s cities are
 deep underground for protection and the world is justly famous
 for the quality of vacc suits and vacuum–environment survival gear
@@ -10137,7 +10137,7 @@ archipelagos breaking the surface. Nevertheless, Mora was the first
 world of the Marches to be settled, and received far more investment
 than other early colonies.
 
-Starting in 60, Mora was developed as a trading centre financed by
+Starting in 60, Mora was developed as a trading center financed by
 Ling Standard Products. This required a good starport, and that led
 naturally to the creation of yards to overhaul trade and exploration
 vessels. Soon afterward, full–scale shipbuilding began.
@@ -10626,7 +10626,7 @@ The DSES, as the name suggests, is dedicated to mapping the
 ocean beds and researching the creatures that live there. For the
 most part it is a reasonably safe occupation, but there are always
 hazards inherent in exploring caves in the side of an ocean trench
-ten kilometres beneath the surface.
+ten kilometers beneath the surface.
 Mirriam’s naval base is one of several forming a ring around the
 Droyne worlds of Andor and Candory. Due to the extremely strict
 nature of the Red Zones around those worlds, the nearest Imperial
@@ -10892,7 +10892,7 @@ Pavabidian version believes that stars are holy, but maintains that
 all stars other than Pavabid’s are evil. Offworlders are from ‘enemy
 stars’ and are highly suspect. The world is governed from a flying
 palace that the locals, who are kept in a state of mid–tech ignorance,
-are told is kept aloft by divine favour. In fact it was built on Glisten
+are told is kept aloft by divine favor. In fact it was built on Glisten
 and uses gravitic technology.
 
 Bowman is the site of one of the largest planetoid fields in existence,
@@ -11303,7 +11303,7 @@ Glisten itself is named for the capital settlement in a system
 characterised by cities built in the two asteroid belts. Originally
 called Gliss Ten (Gliss being the name of the system’s star),
 Glisten City arose to become the system capital and eventually the
-administrative centre for the subsector. There are many large cities
+administrative center for the subsector. There are many large cities
 throughout the system’s belts. Most specialise to at least a certain
 degree in one aspect of industry or economic endeavor.
 
@@ -11369,8 +11369,8 @@ any activity.
 
 The capital of the system is Glisten City, a huge metropolis that
 grew out of the much smaller Gliss Ten settlement chosen as
-administrative centre for the system long ago. Glisten City is the
-site of the huge starport and serves as the main centre for trade and
+administrative center for the system long ago. Glisten City is the
+site of the huge starport and serves as the main center for trade and
 business of all kinds as well as the administrative capital. Many other
 cities are fairly specialized in their industrial or social activities.
 
@@ -11751,7 +11751,7 @@ functions as horses and have been exported almost as widely.
 
 There are two worlds named Aramis in the Spinward Marches.
 Aramis/Aramis (ie the world named Aramis in the subsector also
-named Aramis) is an important trade centre and naval base. ‘The
+named Aramis) is an important trade center and naval base. ‘The
 Other Aramis’, ie Aramis/Trin’s Veil, is in many ways an opposite.
 
 Aramis/Trin’s Veil possesses something that its more prosperous
@@ -11935,7 +11935,7 @@ the pack that reckless growth is undesirable and carries a risk of
 damaging the world’s enviable position as one of the best and
 richest places to live this side of the Imperial Core. Trin has it good,
 and prefers to play safe to ensure things stay that way.
-However, Trin is an economic centre, and her government
+However, Trin is an economic center, and her government
 understands that flexibility and rapid responses to a changing
 situation are necessary for success in commerce. Calculated risks
 are entirely acceptable, so long as there is always enough in reserve
@@ -12260,7 +12260,7 @@ with guns and blades. Hull breaches are manually patched while the
 air blasts out around your ears. And if you want to tow something,
 you have to go over there and manually attach a line.
 This is a good thing. Traveller is about ‘people doing stuff’. Traveller
-adventures should centre on the characters, not the technology they
+adventures should center on the characters, not the technology they
 use. Anyone can push a button and tractor the distressed shuttle to
 safety or build a gizmo to fix the escaped nuclear particle problem
 in engineering. It takes a hero to don a vacc suit and leap across
@@ -12990,7 +12990,7 @@ in several ways. They might be engaged to investigate the activities
 of one side or the other, or perhaps encounter pirates working in
 conjunction with Trexalon. Their ship might be stuck in port due to
 the machinations of one world, and freed to proceed by the other in
-return for a favour later on. There is no telling when an apparently
+return for a favor later on. There is no telling when an apparently
 independent contact might not turn out to be an agent of one side
 or the other, which in turn could lead to the characters having to
 find out why their friend has been murdered, abducted or suddenly
@@ -12998,7 +12998,7 @@ wants nothing more to do with them.
 
 Expansion and Colonization
 The large Imperial corporations are always seeking new markets or
-favourable places to put new facilities. This results in a steady creep
+favorable places to put new facilities. This results in a steady creep
 outward from the Imperial core and other centres of Megacorporate
 power.
 
@@ -13060,7 +13060,7 @@ colonization for commercial purposes is undertaken with careful
 planning and good support for the mission and many private
 missions are well enough supplied and funded to have a good
 chance at success. However, there are plenty of land–seekers who,
-whether through over–optimism or lack of understanding of what
+whether through over–optimizm or lack of understanding of what
 is involved, are prepared to launch half–baked land grabs and hope
 for the best.
 Commercial expansion, whether colonial or economic in nature,
@@ -13314,7 +13314,7 @@ thing. They may even be hired to intercept a covert delivery being
 made by an adventurer group... which turns out to be themselves.
 
 This situation could become very complex, with the group at the
-centre of a web of deceit. They may be able to play off one faction
+center of a web of deceit. They may be able to play off one faction
 against the other, or may end up being squashed in the middle.
 
 Vargr, Aslan and Droyne
@@ -13553,7 +13553,7 @@ other problem is that unless every player has a noble character,
 there will be a ‘chain of command’ issue much like that encountered
 in naval or military games.
 
-The adventuring party in a noble–based game will normally centre
+The adventuring party in a noble–based game will normally center
 on a noble (obviously) but will also include his or her close retinue.
 These people will be friends or experts such as scientists, bodyguards
 and the like. While they may not have the same social advantages

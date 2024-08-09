@@ -51,11 +51,11 @@ Outside the confines of a star system, some frame of reference is needed to indi
 - Spinward means in the direction in which the galaxy is rotating.
 - Trailing is the opposite of spinward; away from the direction of galactic rotation.
 
-Some Imperial citizens also use the term coreward to mean towards the Imperial heartworlds, literally the ‘Imperial Core’. This usage is generally obvious from context. For example, it should be fairly obvious that a magazine called Coreward Gazette deals with matters in the Imperial central region and not the centre of the galaxy tens of thousands of light-years away.
+Some Imperial citizens also use the term coreward to mean towards the Imperial heartworlds, literally the ‘Imperial Core’. This usage is generally obvious from context. For example, it should be fairly obvious that a magazine called Coreward Gazette deals with matters in the Imperial central region and not the center of the galaxy tens of thousands of light-years away.
 
 #### Distances
 
-Concepts like metres and kilometres are inadequate for the vast distances in space. Over relatively short distances, such as in orbital space, thousands or millions of kilometres are used as a measure. Larger distances in-system are measured using the Astronomical Unit, or AU. This is based on the distance of Earth’s orbit from the Sun and is about 150,000,000 km.
+Concepts like meters and kilometers are inadequate for the vast distances in space. Over relatively short distances, such as in orbital space, thousands or millions of kilometers are used as a measure. Larger distances in-system are measured using the Astronomical Unit, or AU. This is based on the distance of Earth’s orbit from the Sun and is about 150,000,000 km.
 
 The light-second is also used, defined as the distance light travels within a vacuum in one second. This is 299,792.458 km, usually rounded to 300,000 km. One AU is 499 light-seconds.
 
@@ -273,7 +273,7 @@ discouraged the Imperials from moving through their territory and thus meeting t
 
 By 200, Imperial interest in new territory, especially in distant regions that were hard to reach, had waned. Expansion in the Marches proceeded in a disjointed manner, fuelled by economics and on a small scale. The presence of the Spinward Main enabled easy access to large parts of the sector but the remainder was largely ignored and there was little interest in pushing beyond, even to spinward or rimward where there were open borders. To coreward, the Zhodani Consulate blocked further expansion.
 
-In 250, the Imperium had spread into those parts of the sector easily reachable via the Spinward Main, bypassing less accessible regions. Regina, settled as early as 75, became a major trade centre, acting as a hub for half a dozen neighboring worlds. By 250, this number had grown to 17, although some were very minor colonies.
+In 250, the Imperium had spread into those parts of the sector easily reachable via the Spinward Main, bypassing less accessible regions. Regina, settled as early as 75, became a major trade center, acting as a hub for half a dozen neighboring worlds. By 250, this number had grown to 17, although some were very minor colonies.
 Expansion slowed further as easily-reached worlds were taken. Colonies grew into independent world-states in their own right and the region developed a respectable economy. However, backwaters remained exactly that; few new colonies were founded in most parts of the sector.
 
 ### War
@@ -296,7 +296,7 @@ The Second Frontier War ended in 620 and, in 622, Grand Admiral Arbellatra reach
 These events stripped the Marches of its fleet but there was no resumption of hostilities with the Zhodani for many years. Indeed, it was not until 979 that conflict broke out once again. There had been incidents, and even a few skirmishes, in the intervening time and tensions had been rising for some years.
 
 Despite this, the Imperial response was disjointed and, overall, inadequate. The war mainly took the form of commerce raiding by cruisers while the battle fleets of both sides faced off but did little. The Navy and Emperor himself were censured for their lack of activity and, eventually, in 986 a peace agreement was reached.
-The terms were unfavourable to the Imperium and this, coupled with general disaffection over the way the war was prosecuted, resulted in the abdication of Emperor Styryx.
+The terms were unfavorable to the Imperium and this, coupled with general disaffection over the way the war was prosecuted, resulted in the abdication of Emperor Styryx.
 
 The settlement eliminated problematical border regions and allowed a good defensive frontier to be set-up in accordance with the ‘thin hard crust’ strategy then in
 
@@ -346,13 +346,13 @@ The Special Arm has at least one secret base; it is not known how many ships the
 
 Being a small state, the Darrian Confederation maintains a modest but capable navy crewed by Darrian and Aslan personnel but a handful of TL16 vessels exist, relics left over from the pre- Maghiz period that cannot be replaced or even properly maintained, so they are used sparingly.
 
-Darrian ships conduct exchange training programmes with Imperial vessels and joint operations are not unknown. For the most part, the Confederation patrols and polices its own space and the Imperium does likewise. Trade ships, on the other hand, come and go as they please. However, the need to go through the unwelcoming Sword Worlds or around through neutral space limits volume of trade somewhat.
+Darrian ships conduct exchange training programs with Imperial vessels and joint operations are not unknown. For the most part, the Confederation patrols and polices its own space and the Imperium does likewise. Trade ships, on the other hand, come and go as they please. However, the need to go through the unwelcoming Sword Worlds or around through neutral space limits volume of trade somewhat.
 
 The Darrians are not at war with the Sword Worlds but a state of mutual mistrust and dislike exists, seasoned with ongoing resentment over the Entropic Worlds and other issues, although neither side wants open war.
 
 The Confederation is not expansionistic. There are many unclaimed worlds nearby but the Darrians have never showed much interest in acquiring new territories. Its people are more interested in scientific research and finding ways to improve their peaceful lives.
 
-Darrian itself receives a fair numbers of tourists who go to see the high-tech wonders left behind by the Maghiz. However, the capital of the Confederation is at Mire, the first world to regain spaceflight and is today the centre of both government and the economy.
+Darrian itself receives a fair numbers of tourists who go to see the high-tech wonders left behind by the Maghiz. However, the capital of the Confederation is at Mire, the first world to regain spaceflight and is today the center of both government and the economy.
 
 ![[BtC-5107.jpg]]
 
@@ -460,7 +460,7 @@ There is no Archduke, as there is no domain structure for the Marches to be part
 The Marches have the usual system of Imperial nobility in place, with individual worlds represented by barons or marquises and larger groupings administered by an Imperial count answering to the subsector duke.
 The position of Sector Duke, the most senior of the subsector dukes, which grants additional powers and responsibilities over the entire sector, is not officially assigned in the Marches.
 
-However, the importance of Mora as a trade centre and the ‘Gateway to the Marches’ grants it, and the associated subsector, unmatched importance and so the role of Sector Duke is carried out semi-officially by Duchess Delphine of Mora. This practice has been in place for centuries by Delphine’s ancestors and is commonly accepted as the way things should be.
+However, the importance of Mora as a trade center and the ‘Gateway to the Marches’ grants it, and the associated subsector, unmatched importance and so the role of Sector Duke is carried out semi-officially by Duchess Delphine of Mora. This practice has been in place for centuries by Delphine’s ancestors and is commonly accepted as the way things should be.
 Only those politically opposed to Delphine herself even question her primacy. She makes a point of not using the title of Sector Duke, although many of her supporters unofficially apply it.
 
 Although the Marches remains something of an undeveloped backwater, it is also a frontier region and one that has historically been troubled by threats major and minor. As a result, many nobles maintain larger household forces (huscarles) than is common practice elsewhere in the Imperium. These forces are still not, for the most part, enormous and mostly consist of a patrol vessel or two and/or a battalion-sized light infantry force.
@@ -614,7 +614,7 @@ Trade ships from the Imperium and Consulate are also active among these worlds.
 
 Astrographically, there are two main clusters of worlds in the subsector. The five worlds centered on Cipango are easier to reach from Imperial space than from Consulate holdings in the subsector, as this requires a jump-3 vessel or a roundabout trip through Whenge. This is not a problem for military ships but does make commercial shipping to this cluster and Zhodani holdings in Jewell more difficult.
 
-The largest grouping of worlds centres on Cronor (sometimes spelt Chronor by Imperial cartographers), which is the Consulate capital of the subsector and a major naval base. Cronor has the highest Tech Level and population in the subsector, and is a major economic centre. Unsurprisingly, it is also very heavily protected.
+The largest grouping of worlds centres on Cronor (sometimes spelt Chronor by Imperial cartographers), which is the Consulate capital of the subsector and a major naval base. Cronor has the highest Tech Level and population in the subsector, and is a major economic center. Unsurprisingly, it is also very heavily protected.
 
 There are also important Consulate bases at Errere, Gesentown and Cipango, and major fleet assets are based at these locations. The bases at Atsa, Ninjar and Sheyou are much smaller and play host to patrol vessels and couriers that make the run to rimward into the Querion subsector.
 
@@ -764,7 +764,7 @@ Name Location Bases Statistics Trade Codes Travel Code Allegiance Gas Giants Ara
 >
 > The following careers from the Traveller Core Rulebook are all suitable for Ebokin: Agent (law enforcement), Army, Citizen, Drifter, Merchant, Noble, Scholar, Scout.
 
-Yebab is home to the Ebokin, who have a matriarchal society with very strict laws and rarely leave their homeworld. They are bilaterally symmetrical, with four pairs of legs and two pairs of arms, and average less than a metre tall although they are about twice as long.
+Yebab is home to the Ebokin, who have a matriarchal society with very strict laws and rarely leave their homeworld. They are bilaterally symmetrical, with four pairs of legs and two pairs of arms, and average less than a meter tall although they are about twice as long.
 The Ebokin are of very little importance in Imperial affairs but Yebab is represented in the same manner as other Imperial worlds.
 
 Ten worlds in the subsector are Amber Zoned; Zila, Rugbird, Towers, Corfu, Junidy, Zykoca, Aramanx, Pysadi, Dhian and Reacher, and the only Red Zone is Lewis. As usual, the reasons for the Red Zones are not publicly available.
@@ -1187,7 +1187,7 @@ trader captains have come to an agreement with Arden, trading nominal membership
 EDININA Edinina is a moon of the very small gas giant Karimissaak, whose name is often translated as
 ‘Laughable’. The mainworld has an eccentric orbit that takes it through Karimissaak’s feeble ring system, causing meteor showers and dangerous levels of radiation. Despite this, the world is home to a few hundred souls, most of whom are employed in petrochemical extraction from the gas giant’s upper atmosphere. The Industrial Collective of Edinina, to give the world’s highly democratic society its proper title, has contracts with Imperial corporations that send refinery ships every few months. Other than these regular contacts, the system receives few visitors.
 
-A desultory campaign to have the Amber travel classification removed (awarded due to the conditions on the mainworld and surely well deserved) has been undertaken by low-end lawyers at the courts of the sector’s senior nobles. Those few ships that do pass through are routinely pestered to join the campaign, which the locals rather optimistically hope will open up their world to immigration and investment.
+A desultory campaign to have the Amber travel classification removed (awarded due to the conditions on the mainworld and surely well deserved) has been undertaken by low-end lawyers at the courts of the sector’s senior nobles. Those few ships that do pass through are routinely pestered to join the campaign, which the locals rather optimiztically hope will open up their world to immigration and investment.
 
 ### GARDA-VILIS
 
@@ -1197,7 +1197,7 @@ Ever since, Garda-Vilis has been exploited to the benefit of nearby Vilis. Agric
 
 The world itself is large, with a tainted atmosphere and extensive ocean coverage. This still leaves plenty of room for the populace, numbering somewhat more than 470 million. The majority dwell on the world’s largest continent, mostly around the coasts.
 
-The major population centre and capital has grown up around the world’s large downport, which also serves a small Imperial scout base. The latter is important as a communications link back into the Imperium via Frenzie, Denotam, and thereby into Lanth, and as a base of operations for Scout Service vessels in the region.
+The major population center and capital has grown up around the world’s large downport, which also serves a small Imperial scout base. The latter is important as a communications link back into the Imperium via Frenzie, Denotam, and thereby into Lanth, and as a base of operations for Scout Service vessels in the region.
 
 The government of Garda-Vilis takes the form of administrative apparatus answering to Vilis itself. The world is run by a council of Vilis army officers and this is not popular. A rebellion in 1103 was put down by the council, at the cost of what remaining public sympathy the colonial administration still had. Today the only pro-
 government group on Vilis is the population dwelling in and around the capital, as many of these individuals are employed by the starport or its associated industries.
@@ -1588,14 +1588,14 @@ There are an unfortunately large number of cynics on Dinom. Although wages are g
 
 At present, the unrest takes the form of grumbling, labour disputes over minor issues that would have been ignored or cleared up in minutes just a few years ago, along with the occasional strike. The World Board has made a number of concessions to the workers but has not addressed major issues regarding Dinom-as-home rather than Dinom-as-workplace.
 
-The World Board believes it is simply not cost-effective to implement social programmes and improve Dinom as a place to live. In this, they too are probably correct.
+The World Board believes it is simply not cost-effective to implement social programs and improve Dinom as a place to live. In this, they too are probably correct.
 The Dinom Corporation looks after its workers well enough but does not see the need to consider long-term development of the world.
 
-There are those who have begun suggesting that what Dinom needs is a change of government. This hypothetical new government would allow the Dinom Corporation to continue its operations but would spend much more on long-term social development. The World Board is unlikely to accept this proposal and, in any case, it is unworkable. The money for these programmes would have to come from the only real source of wealth on the planet – the Dinom Corporation.
+There are those who have begun suggesting that what Dinom needs is a change of government. This hypothetical new government would allow the Dinom Corporation to continue its operations but would spend much more on long-term social development. The World Board is unlikely to accept this proposal and, in any case, it is unworkable. The money for these programs would have to come from the only real source of wealth on the planet – the Dinom Corporation.
 
 While the major processing works are located in the equatorial cities, there are small settlements a short way into the cold and bright faces. The only reasons to venture outside the relatively safe equatorial zone are economic. On the cold face, there are veins and deposits of minerals to be dug out of the ground and it is possible to extract frozen gases from deposits. These are purified and shipped in solid form or piped as liquids back to processing centres for industrial use.
 
-Operating on the cold face is hazardous. In addition to the dangers of an airless world such as dust pools that seem only centimetres deep, micrometeorite showers and the occasional deep crevasse, super-cold terrain has its own unique ways to harm unwary Travellers.
+Operating on the cold face is hazardous. In addition to the dangers of an airless world such as dust pools that seem only centimeters deep, micrometeorite showers and the occasional deep crevasse, super-cold terrain has its own unique ways to harm unwary Travellers.
 
 Cold face hazards include lakes of frozen gas that rapidly sublimate when exposed to heat, such as that given off by an ATV. Deep crevasses are also present, where rock has been split by explosive sublimation in the past, when a deposit of frozen gas is exposed to heat.
 
@@ -1615,7 +1615,7 @@ Dinomn x-boat route. It is one of three Red Zoned worlds in the subsector and ma
 
 The guardship is usually a small vessel such as a patrol cruiser or close escort. The subsector fleet has a huge section of the Spinward Main to patrol and the Sector Fleet is mainly concerned with the Sword Worlds, just a few parsecs away. Neither can spare large numbers of vessels to monitor an unimportant planet in the middle of nowhere.
 
-Victoria is a very old world orbiting a venerable star, deficient in heavy minerals and metals. Despite this, it has a dense atmosphere, which carries a taint capable of defeating most conventional filters. Fortunately, this taint exists mainly at low altitudes and above 1,000 metres the atmosphere is safe to breathe. Below this, an oxygen supply or fully sealed environment suit is needed.
+Victoria is a very old world orbiting a venerable star, deficient in heavy minerals and metals. Despite this, it has a dense atmosphere, which carries a taint capable of defeating most conventional filters. Fortunately, this taint exists mainly at low altitudes and above 1,000 meters the atmosphere is safe to breathe. Below this, an oxygen supply or fully sealed environment suit is needed.
 
 The human population numbers about 10 million, dwelling on high ground in a region known as the Mesas. There is no world government; different groups have their own way of doing things that can range from oligarchies and dictatorships to democracies and even voluntary anarchy.
 
@@ -1628,7 +1628,7 @@ However, there is something else interesting about Victoria and this may be why 
 Around 300,000 years ago, at a time coinciding with the disappearance of the Ancients, Victoria was heavily bombarded from space by asteroids used as deadfall ordnance, the technical term for dropping a heavy object from orbit. The bombardment resulted in immense craters, some of which are seas or great lakes today.
 Others are not obvious, as they lie on the seabed. The Mesas area was caused by a strike that cracked the planetary crust and caused lava to surge up before cooling, creating the unusual pattern of high areas separated by chasms, which are quite deep but often only 500-2,000m wide.
 
-The best asteroids for planetary bombardment are rocky or, better, nickel-iron cored ones. Thus, significant deposits of metal are probably present at the centre of
+The best asteroids for planetary bombardment are rocky or, better, nickel-iron cored ones. Thus, significant deposits of metal are probably present at the center of
 
 each crater. However, most craters are now submerged and all lie below the taint level, making access extremely difficult. Some craters have a central upraised point (a common feature of large impact craters) and these could be found and mined more easily. However, the great distances involved mean that such an expedition is far beyond the means of the local population.
 
@@ -2074,22 +2074,22 @@ This is only one of Rhylanor’s many naval connections; although Macene is home
 One of the proud traditions of the Rhylanor Naval Academy is the ‘manning the boats’ ceremony held just before graduation of each class of cadets, commemorating the contribution of trainee personnel from the academy to the defence of Rhylanor in the Third Frontier War. Cadets volunteered in huge numbers to crew repaired and reactivated system defence boats from the system’s reserve fleet during the Siege of Rhylanor. Casualties were very high in the dark months of the middle of 981 before the siege was finally broken.
 The ceremony is held in memory of their sacrifice and as a reminder to cadets that they have not chosen a cosy, safe occupation.
 
-Rhylanor also has a large Scout Service base, which acts as a communications depot for x-boat routes as well as a regional planning and command centre. The facility is extensive and contains training facilities for some of the more specialized scout roles such as the use of advanced communications equipment and the security teams occasionally called upon to rescue personnel who have found more trouble than they can handle.
+Rhylanor also has a large Scout Service base, which acts as a communications depot for x-boat routes as well as a regional planning and command center. The facility is extensive and contains training facilities for some of the more specialized scout roles such as the use of advanced communications equipment and the security teams occasionally called upon to rescue personnel who have found more trouble than they can handle.
 
-Rhylanor, with its large population base and extremely high Tech Level, is also a centre for industry, commerce and education. The Rhylanor Institute of Technology is one of the most prominent hard-science and technological-research institutions in the entire Imperium and almost certainly the foremost facility this side of Corridor.
+Rhylanor, with its large population base and extremely high Tech Level, is also a center for industry, commerce and education. The Rhylanor Institute of Technology is one of the most prominent hard-science and technological-research institutions in the entire Imperium and almost certainly the foremost facility this side of Corridor.
 
 Several megacorporations have their regional headquarters on Rhylanor or at least a major installation for those who prefer to work out of Mora. Some of Rhylanor’s extensive shipyards are privately owned but most are either megacorporate subsidiaries or partially funded by their money.
 
-Rhylanor’s importance as a communications hub and industrial centre cannot offset the fact that it is difficult to get to. Free traders and similar independent starships are rarely seen in the ports of Rhylanor, Porozlo and Jae Tellona; they tend to stay on the Spinward Main.
+Rhylanor’s importance as a communications hub and industrial center cannot offset the fact that it is difficult to get to. Free traders and similar independent starships are rarely seen in the ports of Rhylanor, Porozlo and Jae Tellona; they tend to stay on the Spinward Main.
 The vessels that do come through are for the most part expensive jump-3 liners and freighters running through Eqqus, Celepina and Belizo.
 
 Many of the ships on this route are megacorporate-
-owned, although a couple of smaller lines make a decent profit from dedicated vessels plying the trans-Rhylanor routes. The most prominent, Rhylanor Shipping LIC, is heavily subsidised by the government to ensure a regular service. The firm does not operate anywhere else but Imperium Mail LIC does, specialising in high-jump courier and subsidised trade route operations in various parts of the Marches, as well as Deneb.
+owned, although a couple of smaller lines make a decent profit from dedicated vessels plying the trans-Rhylanor routes. The most prominent, Rhylanor Shipping LIC, is heavily subsidized by the government to ensure a regular service. The firm does not operate anywhere else but Imperium Mail LIC does, specialising in high-jump courier and subsidized trade route operations in various parts of the Marches, as well as Deneb.
 
 VANEJEN Vanejen is a moderate-sized planet with a dense atmosphere and about 60% water coverage. Average temperatures are low and about a third of the oceans are frozen or covered by ice caps. Although somewhat sub-
 optimal as a place to live, Vanejen can easily support humans. It was settled around -2400 by Vilani colonists but became isolated during the Long Night, falling
 
-back to barbarism before climbing back up to a modest technological base. By the time the Imperium arrived in the Marches, Vanejen had experienced centuries of cultural drift and lost most traditional Vilani habits in favour of a home-grown culture. The population were initially pureblood Vilani and there has been little intermingling over the centuries.
+back to barbarism before climbing back up to a modest technological base. By the time the Imperium arrived in the Marches, Vanejen had experienced centuries of cultural drift and lost most traditional Vilani habits in favor of a home-grown culture. The population were initially pureblood Vilani and there has been little intermingling over the centuries.
 
 Vanejen lies on the Spinward Main, a less-travelled spur running coreward from Mora. This arm offers jump-
 2 access to Jae Tellona and thereby to Rhylanor, or another arm of the main to coreward, but is otherwise unimportant to interstellar trade and political affairs.
@@ -2111,7 +2111,7 @@ Local travel is by rail, for the most part, but sea travel is commonly used for 
 
 The submersibles of Vanejen range from small personal transports to large cargo vessels and run on a diesel-
 electric system that can use a snorkel to pull in air while remaining submerged. An explosives-rigged buoy is carried to blast a hole to the surface in pack ice, allowing a boat to halt, recharge its batteries and then proceed on a long under-ice transit. These are not military boats and are unarmed, with a large glassed-
-in area forward and powerful searchlights mounted alongside. This allows visually-guided manoeuvring at close range although it does pose a hazard in the event of collision. Most boats are capable of operating at a safe maximum depth of about 200 metres, and can survive at somewhat greater depths.
+in area forward and powerful searchlights mounted alongside. This allows visually-guided manoeuvring at close range although it does pose a hazard in the event of collision. Most boats are capable of operating at a safe maximum depth of about 200 meters, and can survive at somewhat greater depths.
 
 Vanejen has a substantial population of Chirpers, most living on the northern continent, despite it being less hospitable than the other land masses. This may be because the Chirpers have moved away from humans, although that begs the question of how they crossed the seas to their new home. There are smaller populations of Chirpers on the other continents.
 
@@ -2473,7 +2473,7 @@ CAPTAIN, PILOT, ASTROGATOR, ENGINEER
 
 GAGH-CLASS TRAMP TRADER
 
-The Gagh is a common small merchant or transport vessel optimised for low-cost haulage. Although it has spare cabins when running with a small crew, it is rare to find this vessel carrying passengers in the normal manner. More commonly, the extra cabin space is used for the patron of a charter (or their representative), or as extra living space for the crew.
+The Gagh is a common small merchant or transport vessel optimized for low-cost haulage. Although it has spare cabins when running with a small crew, it is rare to find this vessel carrying passengers in the normal manner. More commonly, the extra cabin space is used for the patron of a charter (or their representative), or as extra living space for the crew.
 
 Hull 200 tons, Streamlined - 12 Armor Crystaliron, Armor 4 10 2.4 M-Drive Thrust 1 2 4 J-Drive Jump 2 15 22.5 Power Plant Fusion (TL12), Power 75
 
@@ -2560,7 +2560,7 @@ DECK 1
 
 5
 
-In addition to being the spiritual home of the Darrian Confederation, this world is also its main technological centre. The IISS designates it TL16 but this is slightly misleading. TL16 artefacts are under study and in some cases duplicated and incorporated into devices as black-box components but the world does not make use of TL16 items on a routine basis. Most of the ultra-
+In addition to being the spiritual home of the Darrian Confederation, this world is also its main technological center. The IISS designates it TL16 but this is slightly misleading. TL16 artefacts are under study and in some cases duplicated and incorporated into devices as black-box components but the world does not make use of TL16 items on a routine basis. Most of the ultra-
 high technology available on planet is in the form of pre- _Maghiz_ artefacts, which are too precious for their scientific value to be used for practical tasks.
 
 Study of pre- _Maghiz_ items, coupled with the Darrians’
@@ -2743,9 +2743,9 @@ Not everyone is so good-natured, however. There have been all-but-revolutions in
 GUNN Gunn lies on a segment of the Spinward Main that has few good ports or major economies, and consequently sees little interstellar traffic. This region is sometimes termed The Slice, in a convoluted reference to the fact that proximity to the Sword Worlds inhibits trade and development in the region.
 
 Gunn itself is primarily a mining colony, with a few dozen permanent residents and somewhat larger number of transient prospectors, miners and mineralogists.
-Gunn is lacking in iron compared to most other worlds but makes up for it with other metals – notably copper, lead and tin. Various Imperial corporations and megacorporations have investigated the possibility of opening a major mining centre at Gunn but the difficulty of reliably transporting ore back to industrial worlds has proved an obstacle. Gunn remains the province of the freelance prospecting team or small mineral extraction company.
+Gunn is lacking in iron compared to most other worlds but makes up for it with other metals – notably copper, lead and tin. Various Imperial corporations and megacorporations have investigated the possibility of opening a major mining center at Gunn but the difficulty of reliably transporting ore back to industrial worlds has proved an obstacle. Gunn remains the province of the freelance prospecting team or small mineral extraction company.
 
-HRUNTING Hrunting lies at a junction on the coreward arm of the Sword Worlds main, which is astrographically part of the Spinward Main but generally considered to be more or less separate due to local political conditions. Its port sees considerable traffic headed out into Querion and Vilis, and the naval base supports cross-border patrols into neutral space, typically by vessels optimised for a long cruise. It has been suggested that many of these ships would be well suited to commerce raiding in Imperial space to coreward-trailing but the Sword Worlds Confederation has never commented on the subject.
+HRUNTING Hrunting lies at a junction on the coreward arm of the Sword Worlds main, which is astrographically part of the Spinward Main but generally considered to be more or less separate due to local political conditions. Its port sees considerable traffic headed out into Querion and Vilis, and the naval base supports cross-border patrols into neutral space, typically by vessels optimized for a long cruise. It has been suggested that many of these ships would be well suited to commerce raiding in Imperial space to coreward-trailing but the Sword Worlds Confederation has never commented on the subject.
 
 Hrunting has a standard atmosphere, despite fairly low surface gravity, and possesses little surface water, largely due to ‘superflare’ activity on the part of Hrunting’s red dwarf primary. The star flares from time-to-time causing no ill effects but on a cycle of 10-
 15,000 years it produces superflares. The last caused much of Hrunting’s water to evaporate and be lost to space – a higher gravity world would not have suffered such a severe loss. As a result, Hrunting’s seas are small and surrounded by extensive mineral flats that make agriculture difficult. Away from the seas, much of the surface is arid.
@@ -2933,7 +2933,7 @@ can effectively hold twice as many marines for the same cost.
 
  1. Bridge 2. Armory 3. Low berths 4. Staterooms 5. Barracks 6. Double turret 7. Airlock
 
-species have taken to the mineral-rich environment left behind by the evaporating oceans. The seas have a reasonable biosphere but Hrunting is a young world without many complex creatures. One exception is the group of species known as Stone Trees, which resemble trees or bushes but are in fact a mollusc-like creature with a bark-like outer shell. The Stone Trees favour a mineral-rich environment and thrive along the shores of the shrinking seas. Some can be eaten – indeed, certain species are considered delicacies – but others are toxic to humans.
+species have taken to the mineral-rich environment left behind by the evaporating oceans. The seas have a reasonable biosphere but Hrunting is a young world without many complex creatures. One exception is the group of species known as Stone Trees, which resemble trees or bushes but are in fact a mollusc-like creature with a bark-like outer shell. The Stone Trees favor a mineral-rich environment and thrive along the shores of the shrinking seas. Some can be eaten – indeed, certain species are considered delicacies – but others are toxic to humans.
 
 JOYEUSE Named for the legendary sword of Charlemagne, which changed colour 30 times a day, Joyeuse has a standard atmosphere and 40% hydrographics. At first glance it might seem a good prospect for colonization but the numbers are deceptive. Joyeuse rotates slowly and has a year just 12 of its days long. As a result, it suffers extremes of heat and cold, with 12 days of darkness followed by 12 days of constant sunlight. Combined with a variety of fungal blights that cripple flowering plants of most species, this makes conventional agriculture difficult. In addition to producing a number of fungal foodstuffs, Joyeuse has an extensive ranching industry adapted to local conditions.
 
@@ -2983,9 +2983,9 @@ BEHAVIOUR Omnivore, Intermittent
 
 prospect for rescue if something goes wrong and they all have jobs to do at the port.
 
-Exploration teams have surveyed the world, sometimes working out of the port, often reporting an unusual phenomenon known as the ephemeral glade. Mithril is normally very cold and its ecosystem has developed to take maximum advantage of short periods of above-zero temperatures. During these very brief warm periods (warm by Mithril’s standards means a degree or so above freezing), an ephemeral glade may spring up, an area of plant life that grows from the thawing soil at incredible speed. Within a few hours, an area of grass-like plants up to 2-3 metres high can spring up.
+Exploration teams have surveyed the world, sometimes working out of the port, often reporting an unusual phenomenon known as the ephemeral glade. Mithril is normally very cold and its ecosystem has developed to take maximum advantage of short periods of above-zero temperatures. During these very brief warm periods (warm by Mithril’s standards means a degree or so above freezing), an ephemeral glade may spring up, an area of plant life that grows from the thawing soil at incredible speed. Within a few hours, an area of grass-like plants up to 2-3 meters high can spring up.
 
-Glades tend to be 2-3 kilometres across and rapidly attract animals from the surrounding area, drawn to the readily available food and shelter of the glade.
+Glades tend to be 2-3 kilometers across and rapidly attract animals from the surrounding area, drawn to the readily available food and shelter of the glade.
 Once the temperature drops below freezing, the plants die rapidly and the animals depart after a last frenzy of feeding on the dying glade’s bounty.
 
 Among the animals attracted to a glade are Calamanders, scaly burrowing creatures with a complex society. Each group is centered on a female who bears young and seems to be the ‘queen’ of the group. She resides in a burrow that she rarely leaves, attended by several drone males. A third gender, referred to as a protector, digs tunnels, forages for food and, as the name suggests, fiercely protects the burrow. They are amphibious and prone to scavenge for food or shiny objects that they take back to the female, perhaps as gifts or trophies.
@@ -3319,7 +3319,7 @@ Observers have occasionally expressed puzzlement that Ianic, a mid-tech world wi
 The Ianic system is used as a storage point for x-boats and supporting tenders not in current service, plus a number of couriers with various capabilities. There are several reasons for this; one is simply to have extra boats and tenders ready to feed into the network when needed but, more importantly, there are a number of emergency/
 urgent message protocols in place. A single courier, most likely from the naval base at Adabicci or Lunion itself, arriving in the Ianic system can trigger what some scouts refer to as the Ianic Panic, sending x-boats and fast couriers off in all directions with the message aboard. This is normally used for great emergencies, such as the outbreak of the Fourth Frontier War.
 
-This large collection of communications and support ships is not based on Ianic itself but orbits one of the system’s gas giants, with a central station coordinating all approaches and departures as well as acting as an accommodation centre. The scouts have little to do with Ianic proper, although sometimes personnel conduct desert-survival training on the surface.
+This large collection of communications and support ships is not based on Ianic itself but orbits one of the system’s gas giants, with a central station coordinating all approaches and departures as well as acting as an accommodation center. The scouts have little to do with Ianic proper, although sometimes personnel conduct desert-survival training on the surface.
 
 Creating Jonkeereen Travellers Physically, Jonkeereen are not very different to baseline humans. They were adapted about 400 years ago and have bred true ever since. Tall, lean and dark-skinned, they resemble naturally evolved desert dwellers. Their perspiration system is extremely efficient and they have membranes to protect their eyes from wind-borne sand or dust.
 
@@ -3364,7 +3364,7 @@ The scout base is located in a remote area, with mountains restricting access fr
 Spirelle is, to a great extent, the sort of world the Imperium was formed to support and protect. It is home to large numbers of people who contribute to the Imperial economy as both producers and importers of goods, and may eventually develop into a major world.
 In the meantime, Spirelle lacks the high-technology industrial base to construct an effective system defence fleet. While a few imported system defence boats can make a huge difference, a world of this kind cannot truly protect itself from large-scale interstellar threats and must rely on the Imperial Navy.
 
-WARDN Wardn is, in many ways, a typical frontier world of the Imperium. Its atmosphere is a little thin, but entirely breathable, and with plenty of water the world could be a major agricultural centre. However, its location on
+WARDN Wardn is, in many ways, a typical frontier world of the Imperium. Its atmosphere is a little thin, but entirely breathable, and with plenty of water the world could be a major agricultural center. However, its location on
 
 the fringe of Imperial space has resulted in a lack of investment and immigration, resulting in a population that has remained stable at around 50,000 for many decades. Most live in a single city adjacent to the downport, with a ring of outlying settlements tailing off into wilderness.
 
@@ -3746,7 +3746,7 @@ Mora itself is an economic and industrial powerhouse and has large megacorporate
 
 There are six worlds in the subsector (Heroni, Catuz, Jokotre, Palique, Fenl's Gren, and Duale) that are Amber Zoned and there are no Red Zones. However, access to what is left of the Imperial Research Station on Duale is not possible. Details of what the station was working on are unavailable but in 1102 a massive explosion caused heavy damage to the station and caused its temporary abandonment. Naval assets and Imperial Marines remain on station (at a curiously respectful distance) to prevent intruders from entering the site.
 
-Palique’s Amber Zone is due to frequent meteor bombardment. The world is a captured body following a highly eccentric orbit, which takes it through one of the system’s two planetoid belts twice a year. Although conveniently placed as an industrial centre for minerals mined from the rich belts, Palique can be a hazardous destination for starships. All of the world’s cities are deep underground for protection and the world is justly famous for the quality of vacc suits and vacuum-
+Palique’s Amber Zone is due to frequent meteor bombardment. The world is a captured body following a highly eccentric orbit, which takes it through one of the system’s two planetoid belts twice a year. Although conveniently placed as an industrial center for minerals mined from the rich belts, Palique can be a hazardous destination for starships. All of the world’s cities are deep underground for protection and the world is justly famous for the quality of vacc suits and vacuum-
 environment survival gear manufactured there.
 
 Pimane is an interesting astrophysical oddity. Its surface has a number of extremely deep rift valleys that contain an atmosphere dense enough to support life, although the surface is a near-vacuum.
@@ -3756,7 +3756,7 @@ CAREY A small, wet world, Carey’s ecosystem is dominated by a vast array of fu
 MORA Mora is, both historically and astrographically, the Gateway to the Marches. It is now one of the richest worlds for many parsecs and extremely important to local politics, despite the fact that technically Duchess Delphine of Mora wields no more power and has no more responsibilities than any other subsector Duke in the Marches.
 
 Mora is a large world with a dense, tainted atmosphere, almost entirely covered in oceans with only a few large islands and smaller archipelagos breaking the surface.
-Nevertheless, Mora was the first world of the Marches to be settled by the Imperium and received far more investment than other colonies; starting in 60, Mora was developed as a trading centre financed by Ling Standard Products. This required a good starport, which led to the creation of yards to overhaul trade and exploration vessels. Soon afterward, full-scale shipbuilding began.
+Nevertheless, Mora was the first world of the Marches to be settled by the Imperium and received far more investment than other colonies; starting in 60, Mora was developed as a trading center financed by Ling Standard Products. This required a good starport, which led to the creation of yards to overhaul trade and exploration vessels. Soon afterward, full-scale shipbuilding began.
 
 As early explorers pushed into the sector, Mora was the interface point where goods were marshalled for shipping back into the Imperium and settlement missions made preparations for the final leg of their journeys. It was through Mora that goods from the Sword Worlds, the Darrian Confederation and even the Zhodani Consulate came.
 
@@ -4037,7 +4037,7 @@ only rimward of the Marches and hardly a void. The term was first coined in an e
 Name Location Bases Statistics Trade Codes Travel Code Allegiance Gas Giants 769-422 0240 E754401-8 Ni G 875-496 0834 S E888421-7 Ni A 876-574 0140 E687200-3 Lo Ga G 975-452 0840 E100316-9 Lo Va G Andor 0236 C695735-9 Ag R Imperium G Candory 0336 C593634-8 Ni R Imperium Emape 0133 N B564500-B Ag Ni A Imperium G Froin 0539 C535225-9 Lo Imperium G Gohature 0632 S C754766-7 Ag Imperium G Gothe 0332 E42159B-7 Ni Po A Imperium Iderati 0732 N A887798-C Ag Ga Ri Imperium G Jinx 0440 D100133-7 Lo Va A G Jone 0433 N B792785-9 A Imperium Karin 0534 N S A767768-C Ag Ga Ri A Imperium Lakou 0638 E779454-7 Ni A Imperium G Mewey 0838 D786799-5 Ag Ga Ri G Mirriam 0333 N W B9998A6-A A Imperium G Ochecate 0837 E747569-7 Ag Ni Penelope 0533 C560642-4 De Ni Ri Imperium G Quhaiathat 0637 C31479B-9 Ic A Imperium Ralhe 0731 E424574-8 Ni G Raweh 0139 N B430300-B De Lo Po A Imperium Saxe 0231 EAA5543-8 Fl Ni Tondoul 0739 E5136A7-7 Ic Na Ni G Ucella 0532 D574654-7 Ag Ni Wonderay 0340 E88A47A-4 Ni Wa Wonstar 0538 N B555741-7 Ag A Imperium
 ![[BtC-FiveSistersSubsector.jpg]]
 FROIN Froin is an essentially insignificant world, except that it is the site of Imperial Research Station Zeta.
-The permanent population of the planet is housed almost exclusively in a small town surrounding the starport, which sees a little through traffic headed out to spinward-coreward. Most residents work in support industries for the port, which also employs a couple of hundred non-resident personnel at any given time. The research installation is located 100 or so kilometres away; a short hop by shuttle or starship but enough to prevent casual intrusions. A ship approaching the station would be sufficiently off course that its crew could not claim an honest mistake and, since the area around the research station is restricted to authorized vessels only, such an intruder would risk being fired upon by the installation’s defences. This has happened from time-to-time, although there are no records of anything but warning shots.
+The permanent population of the planet is housed almost exclusively in a small town surrounding the starport, which sees a little through traffic headed out to spinward-coreward. Most residents work in support industries for the port, which also employs a couple of hundred non-resident personnel at any given time. The research installation is located 100 or so kilometers away; a short hop by shuttle or starship but enough to prevent casual intrusions. A ship approaching the station would be sufficiently off course that its crew could not claim an honest mistake and, since the area around the research station is restricted to authorized vessels only, such an intruder would risk being fired upon by the installation’s defences. This has happened from time-to-time, although there are no records of anything but warning shots.
 
 Exactly what goes on at the research station is not common knowledge but it is guarded by a detachment of Imperial Marines and ringed with missile launchers dug into the bedrock. Navy ships routinely call there; usually auxiliaries but occasionally a heavily escorted transport.
 
@@ -4056,7 +4056,7 @@ One route to advancement is Imperial service. Mirriam has both a naval base and 
 career opportunities for veterans. Many enter service with Mirriam’s system squadron or reserve armed forces,
 while ex-scouts find a new home with the Deep Sea Exploration Service (DSES).
 
-The DSES is dedicated to mapping ocean beds and researching the creatures living there. It is a reasonably safe occupation but there are always hazards inherent when exploring caves in the side of an ocean trench 10 kilometres beneath the surface.
+The DSES is dedicated to mapping ocean beds and researching the creatures living there. It is a reasonably safe occupation but there are always hazards inherent when exploring caves in the side of an ocean trench 10 kilometers beneath the surface.
 
 Mirriam’s naval base is one of several forming a ring around the Droyne worlds of Andor and Candory. Due to the extremely strict nature of the Red Zones around those worlds, the nearest Imperial systems all have naval bases and forces there are on high alert. Caution is advised, as the Imperial Navy is more than ready to fire on vessels attempting to slip through or sneak something past the blockade.
 
@@ -4246,7 +4246,7 @@ DECK 3
 SAXE Saxe is located almost at the extreme spinward end of the Spinward Main, just beyond the Imperial border. It is a large world with an exotic atmosphere, a nitrogen-
 carbon-dioxide mix with very little oxygen. While not actively toxic to humans, it cannot support respiration; an unprotected human would breathe air in and out while they collapsed and died of anoxia. In order to avoid this unpleasant fate, a full air supply is needed although a sealed unit such as a vacc suit is not.
 
-Saxe was settled by a rather optimistic mission that pushed ahead of the spread of Imperials into the Marches and was forced to make a home on Saxe when the colony ship’s systems began to fail. The ship was used as a habitat until more permanent structures could be created and then cannibalised for parts. It was some years before other colony missions arrived in the area and longer still before trade ships began calling at the rudimentary starport constructed outside Saxe City, as the original settlement became known. By this time, several other small towns had been constructed, although the colonists never spread far from their original landing area.
+Saxe was settled by a rather optimiztic mission that pushed ahead of the spread of Imperials into the Marches and was forced to make a home on Saxe when the colony ship’s systems began to fail. The ship was used as a habitat until more permanent structures could be created and then cannibalised for parts. It was some years before other colony missions arrived in the area and longer still before trade ships began calling at the rudimentary starport constructed outside Saxe City, as the original settlement became known. By this time, several other small towns had been constructed, although the colonists never spread far from their original landing area.
 
 The world has gone through periods of oppression and internal conflict but today a liberal republican system is in place, with outlying settlements more or less independent. Vast tracts of Saxe remain untamed wildernesses which, in most areas, are entirely uncharted.
 
@@ -4278,7 +4278,7 @@ Probably the most important non-Imperial world in District 268 is Collace, a hig
 The government of Trexalon and the Trexalon Technical Consortium (TTC) it leads knows the Imperium will not tolerate armed resistance and can bring vast forces to bear if they start attacking Imperial facilities and ships.
 Resistance is thus below the level that will trigger an Imperial response. There are, however, rumors that the TTC is behind a number of insurrections and similar problems on pro-Imperial worlds.
 
-The world of Nirton is a Red Zone and there are three Amber Zones in the subsector. Pavabid is one of these, where the world government is a theocracy that follows the Pavabidian Heresy (as it is called elsewhere) of the Church of Stellar Divinity. Like other branches of the church, the Pavabidian version believes that stars are holy but maintains that all stars other than Pavabid’s are evil. Offworlders are from enemy stars and highly suspect. The world is governed from a flying palace that the locals, kept in a state of mid-tech ignorance, are told is kept aloft by divine favour. In fact, it was built on Glisten and uses gravitic technology.
+The world of Nirton is a Red Zone and there are three Amber Zones in the subsector. Pavabid is one of these, where the world government is a theocracy that follows the Pavabidian Heresy (as it is called elsewhere) of the Church of Stellar Divinity. Like other branches of the church, the Pavabidian version believes that stars are holy but maintains that all stars other than Pavabid’s are evil. Offworlders are from enemy stars and highly suspect. The world is governed from a flying palace that the locals, kept in a state of mid-tech ignorance, are told is kept aloft by divine favor. In fact, it was built on Glisten and uses gravitic technology.
 
 Bowman is the site of one of the largest planetoid fields in existence, which covers five orbital paths rather than one. The system has only one planet, a gas giant known as Bowman Prime, whose moons are inhabited, as are sections of the vast Bowman Belt. Most of the prospecting and mining in Bowman is done by independents and small firms but LSP has a large facility
 
@@ -4335,7 +4335,7 @@ Talos reached a comfortable TL9 many years ago and has seen little progress sinc
 
 someday result in an improved industrial output or more advanced technology; the present situation is good enough to support the nobility in style and to keep the population reasonably content, and there is no perceived need to change anything.
 
-Talos’ starport is extremely basic and receives little traffic – most ships turn around at Mertractor or Collace depending on their origins, with just a few making regular cross-border runs. However, there are rumors that the nobility have arrangements with a few favoured merchant captains, enabling them to get people and items across the Imperial border for those willing to pay the steep fee. This service, if it exists at all, is reserved for those favoured by the nobility. According to rumor, playing politics or winning over some of the nobles can open doors for those who know how to fit into Talos’
+Talos’ starport is extremely basic and receives little traffic – most ships turn around at Mertractor or Collace depending on their origins, with just a few making regular cross-border runs. However, there are rumors that the nobility have arrangements with a few favored merchant captains, enabling them to get people and items across the Imperial border for those willing to pay the steep fee. This service, if it exists at all, is reserved for those favored by the nobility. According to rumor, playing politics or winning over some of the nobles can open doors for those who know how to fit into Talos’
 isolationist society.
 
 # GLISTEN - SPINWARDS MARCHES-SUBSECTOR O
@@ -4355,7 +4355,7 @@ Although some prisoners are life-long exiles, there are separate areas for those
 
 Egypt is a major training base for Colonial Office personnel. Originally set up for a large-scale move into District 268, the facility has supported several operations elsewhere and offers a retraining service for ex-Imperial service personnel seeking to make a new life on a frontier world.
 
-Glisten itself is named for the capital settlement in a system characterised by cities built in the two asteroid belts. Originally called Gliss Ten (Gliss being the name of the system’s star), Glisten City rose to become the system capital and eventually the administrative centre for the subsector. There are many other large cities throughout the system’s belts, most specialising in one aspect of industry or economic endeavor.
+Glisten itself is named for the capital settlement in a system characterised by cities built in the two asteroid belts. Originally called Gliss Ten (Gliss being the name of the system’s star), Glisten City rose to become the system capital and eventually the administrative center for the subsector. There are many other large cities throughout the system’s belts, most specialising in one aspect of industry or economic endeavor.
 
 Marastan is an Imperial reserve world. Although access to the starport and associated city are unrestricted, only properly accredited academics are permitted access to the world at large, as Marastan is preserved as a showcase for plant and animal species collected by the Scout Service. Some of these are now extinct in their home environment but survive on Marastan in carefully segregated reserves.
 
@@ -4405,7 +4405,7 @@ Most traffic into Glisten comes in via the jump-2 link through Trin’s Veil or 
 The Glisten system is centered on the star Gliss, orbited by a single gas giant and no rocky planets.
 The population of the system numbers in the billions, housed in large cities built on asteroids all throughout the inner asteroid belt. Each city has its own administrative apparatus, all of which ultimately form part of the efficient, but dull, Glisten Co-ordinating Authority, a civil service government that runs the system. Laws are moderate but, with so many settlements housing vast numbers of people and scattered across an entire system, a rather stodgy administration has emerged with red tape wrapped around almost any activity.
 
-The capital is Glisten City, a huge metropolis that grew out of the much smaller Gliss Ten settlement chosen as administrative centre for the system long ago. Glisten City is the site of the huge starport and serves as the main centre for trade and business, as well as the administrative capital. Many other cities are specialized in their industrial or social activities, such as agriculture, light and heavy industry, and there is even an artists’ colony. There are a number of more general settlements but these are of much lesser economic importance than the great centres for trade and industry.
+The capital is Glisten City, a huge metropolis that grew out of the much smaller Gliss Ten settlement chosen as administrative center for the system long ago. Glisten City is the site of the huge starport and serves as the main center for trade and business, as well as the administrative capital. Many other cities are specialized in their industrial or social activities, such as agriculture, light and heavy industry, and there is even an artists’ colony. There are a number of more general settlements but these are of much lesser economic importance than the great centres for trade and industry.
 
 With its large industrial complexes and extremely high Tech Level, Glisten is an important exporter of technological goods across the sector and beyond. Its
 
@@ -4815,7 +4815,7 @@ BEHAVIOUR Herbivore, Grazer
 The Kian is a mammal, although it resembles a large flightless bird much like an ostrich. Kian are thought to have originated on Prilissa in the Spinward Marches but this is not certain. They are used as riding animals on many worlds and are more agile than horses. However, Kian cannot carry as much as a horse and, whilst faster over short distances, are slowed on a long march.
 
 Kian have fur and, in some cases, vestigial forelimbs.
-This trait is common on some worlds and completely absent on others, suggesting that distinct breeds or sub-species are beginning to appear. Kian are favoured by ranchers on many backwater worlds as they do not require the imported parts for maintenance that a vehicle would. They are herded for meat on some worlds or used to control and watch over herds of other farm
+This trait is common on some worlds and completely absent on others, suggesting that distinct breeds or sub-species are beginning to appear. Kian are favored by ranchers on many backwater worlds as they do not require the imported parts for maintenance that a vehicle would. They are herded for meat on some worlds or used to control and watch over herds of other farm
 
 and Dodds clusters. Jump-2 is also required to reach Trin itself. However, trade is conducted on a large scale within the subsector’s two main star clusters using jump-1 ships.
 
@@ -4828,7 +4828,7 @@ term project is underway to improve the world’s marginal atmosphere and hydrog
 
 The world of Prilissa is the origin of the Kian, a large flightless bird used as a beast of burden on many worlds and ceremonial mounts for the Imperial Household Cavalry. Kian fulfil many of the same functions as horses and have been exported almost as widely.
 
-ARAMIS There are two worlds named Aramis in the Spinward Marches. The world named Aramis in the subsector also named Aramis is an important trade centre and naval base. The ‘other’ Aramis, in Trin’s Veil, is in many ways the opposite.
+ARAMIS There are two worlds named Aramis in the Spinward Marches. The world named Aramis in the subsector also named Aramis is an important trade center and naval base. The ‘other’ Aramis, in Trin’s Veil, is in many ways the opposite.
 
 This Aramis possesses something its more prosperous namesake does not; a habitable ‘shirtsleeves’
 environment. Gravity is slightly lighter than Terra-normal and the air is quite thin. This is not a major problem, but un-acclimatised visitors tire quickly and can become light-headed from moderate activity. To offset this, most ships approaching Aramis gradually lower their internal air pressure during the week in jump, so most starfarers
@@ -4860,7 +4860,7 @@ Exports from the various ‘claves and island nations are modest in quantity and
 TEE-TEE-TEE The origins of Tee-Tee-Tee’s strange name are lost in the mists of time, although it is thought to be a corruption of an old astrographical designation. The locals typically call their world Threet (a contraction of ‘Three-Ts’), which permits endless variations on the theme of ‘Threet Fleet’ when referring to the world’s trade fleet. Tee-Tee-
 Tee is ruled by a consortium of hereditary trader princes, who make their money offworld on the spacelanes; the planet itself is just a base of operations and has little industry of its own. The Threet Fleet can be encountered all over the sector and beyond, with some merchant cruisers staying out for years at a time.
 
-Tee-Tee-Tee is otherwise a typical rockball planet with the merest trace of atmospheric gas. Its 900,000 or so inhabitants are mostly employed in the households of the merchant princes – Tee-Tee-Tee is said to have more accountants per square kilometre of its surface than almost any other world this side of Core sector –
+Tee-Tee-Tee is otherwise a typical rockball planet with the merest trace of atmospheric gas. Its 900,000 or so inhabitants are mostly employed in the households of the merchant princes – Tee-Tee-Tee is said to have more accountants per square kilometer of its surface than almost any other world this side of Core sector –
 or in supporting industries at the small but efficient starport. The world has a spectacular ring system thought to be the result of a collision between moons in the distant past. The spectacle is noted as one of the ‘wonders of the Marches’ and frequently visited by tourist ships. The downport makes a steady profit from catering to these vessels, although tourism is only as small sideline compared to the real business of interstellar commerce.
 
 TRIN Colonized not long after Mora, Trin is the ‘back door to the Marches’. It can be reached from Deneb by an easy jump-2 route through well-developed worlds, with good ports in the Gulf subsector. This creates a lucrative trade run into Trin, from where it is possible to head coreward and join the Spinward Main or spinward towards Glisten.
@@ -4887,7 +4887,7 @@ Trin’s effective and efficient social system tends to produce motivated and sk
 
 Trin’s government is typical of high-population worlds, in that it has a semi-corporate, bureaucratic structure that follows established practices. Stability is considered the priority in most areas of governance - Trin is so far ahead of the pack that reckless growth is undesirable and carries a risk of damaging the world’s enviable position as one of the best and richest places to live this side of the Imperial Core. Trin has it good and prefers to play safe to ensure things stay that way.
 
-However, Trin is an economic centre and her government understands that flexibility and rapid responses are necessary for success in commerce. Calculated risks are acceptable, so long as there is always enough in reserve to cover a loss and nothing is ventured that cannot be done without. Cautious speculation is the order of the day in the economic arena and other areas too, such as scientific research.
+However, Trin is an economic center and her government understands that flexibility and rapid responses are necessary for success in commerce. Calculated risks are acceptable, so long as there is always enough in reserve to cover a loss and nothing is ventured that cannot be done without. Cautious speculation is the order of the day in the economic arena and other areas too, such as scientific research.
 
 This innate caution has, oddly enough, prompted the government of Trin to invest in some very unlikely scientific projects, economic investments and exploratory missions. If there is a risk that someone else might make a big score from a project that Trin might miss, then the government is willing to invest, just in case it pays off. This attitude puzzles some outsiders but it makes sense to those who grew up on Trin. They explain that: ‘When you’re rich, you can afford to throw a little money into blue-sky projects. If it’s a bust, nothing is really lost. But once in a while you get lucky.’
 
@@ -4941,9 +4941,9 @@ Be that as it may, the Vilani colony on Deneb regressed during the Long Night bu
 Similarly, around -1700 a large group of Solomani exiles settled on Vincennes. The choice of that particular world remains a mystery; again, Vincennes was hardly the most promising prospect in the region. Conditions were tough enough that the colony died out during the Long Night.
 The legend of Vincennes continued to hold a strange fascination for the Solomani people, however. Another group of exiles would later claim it as their home.
 
-A Study in Denebian Politics Jehun is located on the trailing-rimward fringe of the Sabine subsector and therefore within the Duchy of Sabine. It is a garden world, rich and agricultural, but has a small economic base and thus little power of its own. Jehun should be able to rely on the protection of the subsector fleet but this is subject to the influence of the Duke of Sabine. The duke does not directly control the fleet’s deployments but can apply pressure for ships to be sent there or elsewhere depending on his own agenda and how favourably inclined he is towards Jehun.
+A Study in Denebian Politics Jehun is located on the trailing-rimward fringe of the Sabine subsector and therefore within the Duchy of Sabine. It is a garden world, rich and agricultural, but has a small economic base and thus little power of its own. Jehun should be able to rely on the protection of the subsector fleet but this is subject to the influence of the Duke of Sabine. The duke does not directly control the fleet’s deployments but can apply pressure for ships to be sent there or elsewhere depending on his own agenda and how favorably inclined he is towards Jehun.
 
-Jehun is closer to important worlds in the duchies of Inar and Vincennes than the centre of power in Sabine and receives more ships from these regions. Its agricultural exports are of some importance to nearby major worlds - Thengin in the Duchy of Sabine, Kubishush in the Duchy of Inar, Northammon and Vincennes in the Duchy of Vincennes. In addition, as a border system, Jehun is vulnerable to the influence of Inar and Vincennes. Both have repeatedly attempted to gain control, if only to weaken the position of Sabine or each other.
+Jehun is closer to important worlds in the duchies of Inar and Vincennes than the center of power in Sabine and receives more ships from these regions. Its agricultural exports are of some importance to nearby major worlds - Thengin in the Duchy of Sabine, Kubishush in the Duchy of Inar, Northammon and Vincennes in the Duchy of Vincennes. In addition, as a border system, Jehun is vulnerable to the influence of Inar and Vincennes. Both have repeatedly attempted to gain control, if only to weaken the position of Sabine or each other.
 
 The local TAS feeds give a feel for local politics:
 1102-110 Magash/Sabine: Magash warmly welcomes the new Vincennes ambassador to the subsector capital.
@@ -4980,7 +4980,7 @@ The local Vargr states proved to be a major obstacle to expansion, resulting in 
 
 In addition to naval operations, the Imperium deliberately targeted some areas for enhanced colonization, attempting to create lasting security by creating strong and stable enclaves that could pacify surrounding systems. One of these was the world of Vincennes, which was placed under the governance of the Humbolt family.
 
-The Humbolts were Imperial nobles of Solomani descent, with a track record for competence and intelligent leadership. They were, according to most accounts, out of favour at the time and requested to be assigned to Vincennes as part of a deal whereby they avoided censure for some failure or perhaps implication in a plot against the Emperor. Other versions of the story claim the Humbolts were clear-eyed heroes who went into what was effectively exile because it was in the best interests of the Imperium that they secure Deneb sector. There are also some distinctly whacky conspiracy theories about ancient artefacts, psionic knights and a centuries-long masterplan on the part of the Humbolts, the Emperor or both.
+The Humbolts were Imperial nobles of Solomani descent, with a track record for competence and intelligent leadership. They were, according to most accounts, out of favor at the time and requested to be assigned to Vincennes as part of a deal whereby they avoided censure for some failure or perhaps implication in a plot against the Emperor. Other versions of the story claim the Humbolts were clear-eyed heroes who went into what was effectively exile because it was in the best interests of the Imperium that they secure Deneb sector. There are also some distinctly whacky conspiracy theories about ancient artefacts, psionic knights and a centuries-long masterplan on the part of the Humbolts, the Emperor or both.
 
 Whatever the reasons, the Humbolt family came to Vincennes with a great deal of capital to invest and quickly led the world into an explosion of economic and technological progress. They were sufficiently powerful that whole worlds could be assigned to a particular function – the HRD system derives its name form Humbolt Research Division and was a cornerstone of their early success.
 
@@ -5028,7 +5028,7 @@ The landgrabs and powerplays began in 613, at the height of the Civil War. At fi
 Usually this comes to nothing; a backwater world that shifts allegiance and receives investment as a reward is not going to change the balance of power overnight.
 Occasionally, however, a minor player manages to obtain meaningful concessions by the right gambit at the right time. This is the great hope of most backwater planetary governments; to benefit from the powerplays of the dukes without attracting a backlash.
 
-DENEB TODAY Deneb is today renowned as a centre for innovation and exploration. It is home to the Jumpspace Institute, known throughout the Imperium as an innovator in starship propulsion technologies, and during the sector’s formative years, the Institute was a sponsor of major exploratory efforts into neighboring sectors. Also based in the sector is the Sklar Astrophysical Society.
+DENEB TODAY Deneb is today renowned as a center for innovation and exploration. It is home to the Jumpspace Institute, known throughout the Imperium as an innovator in starship propulsion technologies, and during the sector’s formative years, the Institute was a sponsor of major exploratory efforts into neighboring sectors. Also based in the sector is the Sklar Astrophysical Society.
 
 In addition there are six Imperial Research Stations. Few sectors can boast of similar dedication to research and development, nor such diversity. The Denebian stations pursue a wide range of activities, from experiments in theoretical physics to undersea geological studies.
 
@@ -5126,7 +5126,7 @@ previously secure position.
 The political dimension pervades all endeavors. For example, a mercenary unit might be hired to carry out an apparently simple task on a success-only contract, then have to move its schedule to a breakneck pace when peace negotiations break out. Client briefings often include an estimate of the time available before the likely political consequences occur and orders often include a requirement to complete a mission before intervention becomes a possibility. The most successful mercenaries, shipping operators and businesses are adept at forecasting the changeable political weather; those who just hope for the best usually run into trouble.
 
 Who a given company or unit does business with can have serious implications. There might be a good reason why a client is paying high salaries or offering big bonuses; often this is because anyone taking the job can expect never to work again in an entire subsector.
-This political dimension can work in favour of operators, of course. If a mercenary unit has no intention of ever working for a particular client then the big payment to take on a job against them – a job nobody else wants
+This political dimension can work in favor of operators, of course. If a mercenary unit has no intention of ever working for a particular client then the big payment to take on a job against them – a job nobody else wants
 
 - might be worth it. Likewise, the only shipping line
 
@@ -5239,14 +5239,14 @@ The Duke of Antra is particularly hostile to Inar, a result of a long history of
 By way of retaliation, Antra has taken to granting letters of marque and reprisal to corsairs and even pardoning captured raiders in return for an agreement to act against Inar. In this, the duke is sailing very close to the wind. Not only does he risk Imperial displeasure if ‘his’
 corsairs are deemed to be pirates rather than legitimate privateers but his actions risk a naval response from Inar, which will almost certainly ignite a shooting war.
 
-Antra’s ducal fleet favours multirole vessels, with room for a troop contingent aboard or to carry stores for disaster relief. Whilst this reduces the fleet’s ship-for-ship fighting power it enables a flexible response to be made in many situations and ships with generous accommodation or the ability to carry a lot of supplies can stay on station for longer than vessels with more ‘teeth’.
+Antra’s ducal fleet favors multirole vessels, with room for a troop contingent aboard or to carry stores for disaster relief. Whilst this reduces the fleet’s ship-for-ship fighting power it enables a flexible response to be made in many situations and ships with generous accommodation or the ability to carry a lot of supplies can stay on station for longer than vessels with more ‘teeth’.
 
 The Duchy of Sabine Lying to rimward of Pretoria, the Duchy of Sabine does not have an external frontier and can concentrate more fully on internal matters, which typically means power struggles with Inar and Vincennes. Relations with Pretoria, and with Rhylanor and Mora in the Spinward Marches, are generally cooperative.
 
-Sabine’s position is hampered by dissent between the ducal seat at Magash and the military centre at Thengin.
+Sabine’s position is hampered by dissent between the ducal seat at Magash and the military center at Thengin.
 Nearby world governments align themselves according to conditions – if there is a military threat then Thengin is suddenly more attractive but otherwise most governments follow the general lead of the Duke at Magash.
 
-Sabine’s ducal fleet favours a smaller number of destroyer-sized vessels over escorts. Ships are well-
+Sabine’s ducal fleet favors a smaller number of destroyer-sized vessels over escorts. Ships are well-
 maintained and their crews highly trained by ex-Imperial Navy personnel hired as instructors. It is generally supposed that Sabine hopes to offset the technological superiority of Vincennes by investing in its people.
 
 ### MAP OF THE
@@ -5262,14 +5262,14 @@ The Duchy of Inar Inar is the most powerful of Deneb’s duchies, although the c
 Inar shares a border with Vincennes, which is characterised by endless manoeuvring for position. In the past, these two powers were briefly allied but today their relationship is adversarial at best.
 
 The ducal fleet contains a handful of cruisers supported by a large number of smaller vessels. As is typical of naval forces in private service, these vessels are mostly of older design but the Duke of Inar seems to have obtained two up-to-date Amara -class heavy cruisers.
-These are shown off at every opportunity, often operating together or at the centre of a task force including light carriers as well. Inar’s ducal fleet actually outguns the local subsector fleet, although a confrontation is highly unlikely.
+These are shown off at every opportunity, often operating together or at the center of a task force including light carriers as well. Inar’s ducal fleet actually outguns the local subsector fleet, although a confrontation is highly unlikely.
 
 The Duchy of Atsah Atsah has strong trade links with Corridor and the Imperial heartland beyond, and gets first pick of goods coming into Deneb from that direction. This gives the duke considerable extra leverage, on top of an already powerful domestic position, and Atsah more or less dominates the Million subsector to coreward and can prevent rivals running trade convoys around Atsah’s territory if it chooses to do so. Influence over the Dunmag subsector is less but still considerable.
 
 One consequence of this is that whilst the Duke of Atsah has a very considerable private navy, it is stretched thin.
 Like Pretoria, Atsah cannot use the Imperial subsector fleet to pursue its own agenda – although sometimes the fleet’s commanders can be prevailed upon to assist Imperial forces in Million or Dunmag, and the duke makes sure he gets credit. Ducal forces spend a lot of their time dispersed on flag-showing missions or being seen to deal with local problems that the Imperial fleet and the other dukes have taken no notice of.
 
-Atsah’s primary naval assets are converted destroyers, most of which have had their armament reduced in favour of improved accommodation for increased time on station. These ships routinely undertake very long deployments, sweeping through several systems or accompanying large freighters, liners or convoys of smaller ships as they pass through surrounding subsectors. Maintenance of these ships tends to be skimpy due to their constant deployment but a can-do attitude prevails among their crews.
+Atsah’s primary naval assets are converted destroyers, most of which have had their armament reduced in favor of improved accommodation for increased time on station. These ships routinely undertake very long deployments, sweeping through several systems or accompanying large freighters, liners or convoys of smaller ships as they pass through surrounding subsectors. Maintenance of these ships tends to be skimpy due to their constant deployment but a can-do attitude prevails among their crews.
 
 The Duchy of Vincennes Vincennes, the ducal seat of the Vincennes subsector, is one of the single most powerful worlds in the Imperium, wielding twice the economic, industrial and military might of Starn, the next most powerful world in Deneb.
 The availability of TL16 goods allows the Duke of Vincennes to reward his supporters or weaken those relying upon equipment supplied and maintained by Vincennes. This high-tech carrot-and-stick approach works well but occasionally damages exports as end clients are reluctant to buy goods that might not be supported when they come to order spares.
@@ -5328,12 +5328,12 @@ Delgado Delgado directly operates numerous mining operations in Deneb, along wit
 invulnerability to turn the fortunes of its new acquisition around. This gambit has backfired a few times but megacorporations can afford to invest where others dare not and Delgardo is exploiting the situation to increase its share of the mining industry in Deneb.
 
 General Products General Products is active in several market sectors, notably heavy industry and starship construction. The latter has suffered lately with a series of poor designs and embarrassing failures, a situation General is keen to reverse. To this end, it has taken to offering basic warships and trade vessels at low prices, resulting in an upsurge in small-scale trading – and occasionally an increase in piracy preying on the abundant shipping.
-These vessels are not particularly good but provide an affordable patrol force to a cash-strapped client and can get goods from A to B almost as well as a more expensive ship. General Products does not have a centre of power in Deneb but maintains shipbuilding facilities at several of the region’s better starports.
+These vessels are not particularly good but provide an affordable patrol force to a cash-strapped client and can get goods from A to B almost as well as a more expensive ship. General Products does not have a center of power in Deneb but maintains shipbuilding facilities at several of the region’s better starports.
 
-GSbAG GSbAG is almost exclusively a starship manufacturer, with a reputation for high-quality vessels that command an equally high price. It has no specific centre of power but maintains shipyards at some of the high-end starports in the sector. A showcase facility is planned, at a location yet to be chosen. Naturally, most major worlds of the sector – and all of the duchies – are vying for the lucrative position of host. The facility will produce high-end military vessels for the Imperial Navy as well as yachts and liners for prestige clients.
+GSbAG GSbAG is almost exclusively a starship manufacturer, with a reputation for high-quality vessels that command an equally high price. It has no specific center of power but maintains shipyards at some of the high-end starports in the sector. A showcase facility is planned, at a location yet to be chosen. Naturally, most major worlds of the sector – and all of the duchies – are vying for the lucrative position of host. The facility will produce high-end military vessels for the Imperial Navy as well as yachts and liners for prestige clients.
 
 Hortalez et Cie Hortalez specialises in finance and banking rather than physical goods and has brokerages in most major starports. It is not clear if Hortalez is a player in the political arena or not, due to complex chains of transactions that disguise many of its major dealings.
-However, it is obvious that Hortalez et Cie is keen to support any faction that keeps trade lanes open and money flowing. To that end, the megacorporation is thought to be a stabilizing influence, exerting steady pressure for moderation on all factions. Its mediators have assisted in the negotiation of several important peace treaties, favouring fair deals that reduce chance of further conflict.
+However, it is obvious that Hortalez et Cie is keen to support any faction that keeps trade lanes open and money flowing. To that end, the megacorporation is thought to be a stabilizing influence, exerting steady pressure for moderation on all factions. Its mediators have assisted in the negotiation of several important peace treaties, favoring fair deals that reduce chance of further conflict.
 
 Instellarms Instellarms produces high-end military hardware, selling to mercenary forces, governments and similar bulk clients. It does not deal in single weapons but in high-volume equipping contracts that include weaponry, ammunition, spares and training. Instellarms supplies many of the better mercenary formations and some subsector dukes with their hardware, on a scrupulously neutral basis. Those with the cash can buy from Instellarms unless the sale would be illegal; a noble under Imperial censure or a mercenary unit with questionable paperwork will be refused a sale but those in good standing do not have to provide a reason for wanting to buy arms.
 
@@ -5358,7 +5358,7 @@ Naasirka makes no secret of the fact that this is good long-term business – if
 Schunamann und Sohn, AG LIC (SuSAG)
 SuSAG is highly active in the chemical, pharmaceutical and engineering market sectors. Most of its products are commonplace, including many trusted brands, and its engineers have assisted in the constriction of several starports and other major facilities. SuSAG is involved in research into biochemical warfare and, although its PR arm makes much of the ‘defences and protection’ aspect of this activity, the firm does attract bad press. SuSAG makes some of the best hostile environment equipment available but is widely thought to use this as a cover for weapons research. It maintains small research facilities in remote parts of various star systems, heavily guarded and very secretive.
 
-Sharurshid Sharurshid is primarily a shipping operator, although it uses these vessels to facilitate trade in a vast array of goods. Sharurshid is a constant voice for restraint in Deneb and has been known to apply economic pressure to those dukes who allow piracy and disruption of trade to interfere with business. Most of Sharurshid’s vessels are large freighters, plying the lanes right across the sector from one border to the other. It does not favour any candidates for sector duke but does lobby for the appointment of one, as a more unified sector would mean more stable trading conditions. Sharurshid has a major regional office at Deneb, although few of its ships travel there.
+Sharurshid Sharurshid is primarily a shipping operator, although it uses these vessels to facilitate trade in a vast array of goods. Sharurshid is a constant voice for restraint in Deneb and has been known to apply economic pressure to those dukes who allow piracy and disruption of trade to interfere with business. Most of Sharurshid’s vessels are large freighters, plying the lanes right across the sector from one border to the other. It does not favor any candidates for sector duke but does lobby for the appointment of one, as a more unified sector would mean more stable trading conditions. Sharurshid has a major regional office at Deneb, although few of its ships travel there.
 
 S T E R N M E TA L
 
@@ -5382,7 +5382,7 @@ Today, the Humbolts are the subject of dozens of conspiracy theories and blamed 
 ‘better get this legislation through its democratic review process before the Humbolts finish their sneaky plans to take control over the krill-protein processing industry’.
 It is known that some members of the Humbolt family fled beyond the Imperium and some of their supporters funnelled money and hardware to them. It is not clear how many of former allies and supporters were sincere in their conversion to the new order but five centuries have passed. This is long enough for the Humbolts to have carved out an empire somewhere or been wiped out by a string of misfortunes. The situation is obfuscated further by the plethora of ‘false Humbolts’.
 
-Tukera Lines Tukera Lines is a shipping operator, concerned mainly with major trade routes. It has offices on most worlds with a good port and large facilities where trade routes meet. Tukera operates a larger proportion of jump-3 and jump-4 capable vessels than most other shipping firms and has a useful sideline in getting information and people to the right place, fast. Its fast-courier network supplements the Imperial x-boat system but is made available only to those clients favoured by the megacorporation. Tukera openly supports the Duke of Atsah in his bid to become Duke of Deneb.
+Tukera Lines Tukera Lines is a shipping operator, concerned mainly with major trade routes. It has offices on most worlds with a good port and large facilities where trade routes meet. Tukera operates a larger proportion of jump-3 and jump-4 capable vessels than most other shipping firms and has a useful sideline in getting information and people to the right place, fast. Its fast-courier network supplements the Imperial x-boat system but is made available only to those clients favored by the megacorporation. Tukera openly supports the Duke of Atsah in his bid to become Duke of Deneb.
 
 Zirunkariish Zirunkariish is a financial and investment corporation, with offices at major ports on the main trade routes. It does not deal with minor clients but can put together huge investment packages for those with the resources to afford them. Zirunkariish is hard-nosed in its dealings and has shown itself quite willing to bankroll both sides in a conflict. This actually makes it a force for a sort of stability, as a crushing defeat may prevent a faction from repaying creditors. Zirunkariish is openly profiting from the state of conflict in the region and in more than one way. It provides secure currency transfer and escrow services for major purchases of military hardware, hiring of mercenary forces and so forth. This means that Zirunkariish has to move shiploads of gold, hard currency and other precious items, creating a very attractive target for pirates but mostly it deals in reliable electronic transfers of funds.
 
@@ -5419,7 +5419,7 @@ The United Followers of Augurgh (UFA)
 Despite its name, the UFA is not all that united, nor are its members all followers of the overall leader.
 It is a rather loose alliance of world governments and other organizations, some of them unofficial in nature. The UFA was founded on the world of Augurgh in the Aegaek subsector around 1090, although accounts vary as to exactly when it became a political movement to be taken seriously. It was initially a pro-Augurgh movement intended to increase control over neighboring worlds in Provence sector but grew beyond the expectations of its founders.
 
-Augurgh’s emissaries managed to gain the loyalty of various political factions, corsair bands and trading alliances, although some joined the movement more due to favours owed than allegiance to Augurgh. With this large but thinly-spread powerbase, Augurgh was able to apply pressure to other world governments in the Million and Aegeak subsectors.
+Augurgh’s emissaries managed to gain the loyalty of various political factions, corsair bands and trading alliances, although some joined the movement more due to favors owed than allegiance to Augurgh. With this large but thinly-spread powerbase, Augurgh was able to apply pressure to other world governments in the Million and Aegeak subsectors.
 
 The UFA today claims the loyalty of a chain of worlds stretching all the way to the Imperial border and has significant influence over some Imperial worlds in the Million subsector. Loyalty is claimed rather than concrete, with member worlds breaking away at times or groups withdrawing their allegiance. This sometimes leads to internal conflict or policy decisions made more with the aim of placating disaffected supporters than with the best interests of its members.
 
@@ -5517,7 +5517,7 @@ Pagamin, in Dunmag, was the site of a major naval battle in close orbit. The reg
 
 where the dead are laid to rest. Dozens of wrecked ships still orbit Pagamin, slowly being salvaged by licensed operations who must extract the bodies of their crews with due ceremony before beginning work on the vessel.
 
-It is known that unlicensed scavengers also pick over the starship graveyard, seeking components or valuables for resale. These crews are less than respectful of the living and dead alike; fights between licensed salvage crews and scavengers are not uncommon. Rumors abound that the base on Pagamin that was at the centre of the battle contained something both sides were desperate to deny the other and that Pagamin was pounded flat from orbit to eliminate it. If so, some trace of whatever it was might be found aboard one of the wrecks.
+It is known that unlicensed scavengers also pick over the starship graveyard, seeking components or valuables for resale. These crews are less than respectful of the living and dead alike; fights between licensed salvage crews and scavengers are not uncommon. Rumors abound that the base on Pagamin that was at the center of the battle contained something both sides were desperate to deny the other and that Pagamin was pounded flat from orbit to eliminate it. If so, some trace of whatever it was might be found aboard one of the wrecks.
 
 Gas-Sharks Gas-sharks are native to the atmosphere of several gas giant worlds within Deneb and elsewhere in Charted Space. They may be the same species that has somehow spread throughout the universe or could be an example of parallel evolution. Either way, gas-sharks do not resemble any form of aquatic creature; their name is fanciful but has stuck. They take the form of a cloud of dense gaseous matter or vapour, which does not appear to contain any organs or anything similar in function.
 Gas-sharks are mildly corrosive and can eat their way into a starship given time. However, they are more likely to enter through fuel scoops or attach themselves to the hull of a vessel that enters their territory.
@@ -5563,7 +5563,7 @@ The source of contamination has resisted all attempts to culture it artificially
 
 Research Station Alpha is a sealed and carefully controlled environment that studies this species and its effects. The main laboratories are in orbit, with a groundside installation run by a skeleton sample collecting and analysis staff. Occasionally a staff member is accidentally exposed, leading to a choice whether to continue working in the ‘open’ part of the groundside installation or retire among the world’s population, a stable TL6 society that does not interact with offworlders, except for a small number who undertake necessary work or volunteer as test subjects.
 
-Research Station Beta Research Station Beta is located on Starn in the Inar subsector. Since 685 it has hosted a research and development facility, although this was not always designated a full research station. The installation began as a testing facility for the Imperial Navy and later gained a tactical and analysis centre to become Research Station Beta. Additional departments dealing with large-ship construction techniques were added, catering to the corporate shipbuilding and operations marketplace.
+Research Station Beta Research Station Beta is located on Starn in the Inar subsector. Since 685 it has hosted a research and development facility, although this was not always designated a full research station. The installation began as a testing facility for the Imperial Navy and later gained a tactical and analysis center to become Research Station Beta. Additional departments dealing with large-ship construction techniques were added, catering to the corporate shipbuilding and operations marketplace.
 
 Research Station Beta is located in the ‘mainworld’
 asteroid belt and has grown to incorporate facilities on several large planetoids and dwarf planets. Some areas of the facility are strictly off-limits but others serve as a showcase for emerging technologies or are accessible to those on contract to sponsoring megacorproations. This creates a complex security situation, with the research station’s patrol vessels forever chasing off prospecting or mining ships that have wandered too close – or claim to have done so.
@@ -5580,11 +5580,11 @@ Research Station Delta was set up in 760 to study the system’s unusual composi
 Not all of the system’s bodies have these characteristics.
 Three of the four gas giants (and their moons) do not but these are all thought to be captured bodies due to their highly eccentric orbits. These orbits have perturbed the system’s three planetoid belts, causing a complex scatter of small bodies outside the belts proper and resulting in the terrestrial planets taking a pounding over the millennia. Vessels from the research station can be found all over the system, sometimes spending months searching for a planetoid that simply is not where astrophysics predicts it must be.
 
-Research Station Epsilon Research Station Epsilon is located on Saarinen, at the extreme spinward edge of the Sabine subsector. It is a major centre for underwater planetological studies and, unlike many research stations, has an extensive teaching and training arm. Indeed, Epsilon trains underwater
+Research Station Epsilon Research Station Epsilon is located on Saarinen, at the extreme spinward edge of the Sabine subsector. It is a major center for underwater planetological studies and, unlike many research stations, has an extensive teaching and training arm. Indeed, Epsilon trains underwater
 
-explorers and scientists from very different areas of expertise and is considered a centre of excellence for field science.
+explorers and scientists from very different areas of expertise and is considered a center of excellence for field science.
 
-According to the official history of the station it has always been a physical-sciences centre but records are said to exist of a time when Epsilon was a psionics research installation. Rumors tell of a connection with the semi-mythical Order of the White Star, an order of knighthood open only to members with psionic abilities.
+According to the official history of the station it has always been a physical-sciences center but records are said to exist of a time when Epsilon was a psionics research installation. Rumors tell of a connection with the semi-mythical Order of the White Star, an order of knighthood open only to members with psionic abilities.
 An order of that name did exist but details are sketchy and there is no proof that psionic knights ever existed in the Imperium, nor that Research Station Epsilon was associated with them.
 
 Research Station Zeta Research Station Zeta is located at Pashus in Zeng.
@@ -5645,7 +5645,7 @@ The Crenduthaar are native to Ghatsoki (sector map hex 0902), with communities o
 and Deneb (1925) as well as Regina (Spinward Marches 1910). Their name is commonly rendered as ‘Philosopher Kings of Thaar’, which is quite apt.
 Whilst large, with an appearance most humans find intimidating, the Crenduthaar are a peaceable and highly intelligent race.
 
-The Crenduthaar are one of the largest known sapient species, with adults measuring some 2.5 metres in length and massing up to 500kg. Exothermic, bisexual and viviparous, they share many characteristics of Terran mammals, although the young drink blood from special glands in both males and females, and their bodies are protected by scales rather than fur. Their forelegs are modified with a ridge of scales forming a razor-edged blade called a slasher, an adaptation evolved by ancient Crenduthaar to cut the tendons of large beasts on the run and cripple them; they remain formidable weapons.
+The Crenduthaar are one of the largest known sapient species, with adults measuring some 2.5 meters in length and massing up to 500kg. Exothermic, bisexual and viviparous, they share many characteristics of Terran mammals, although the young drink blood from special glands in both males and females, and their bodies are protected by scales rather than fur. Their forelegs are modified with a ridge of scales forming a razor-edged blade called a slasher, an adaptation evolved by ancient Crenduthaar to cut the tendons of large beasts on the run and cripple them; they remain formidable weapons.
 
 Crenduthaar are hexapods, with their upper limbs used for manipulation of objects and the lowest pair for walking. The middle set can be used as either arms or legs as the need arises, although they are not as dextrous as the upper limbs. The most obvious feature of the Crenduthaar is their mouth, which is filled with a double row of highly prominent teeth and surrounded by tendrils used for fine manipulation. The constant movement of these tendrils is disturbing to many humans and draws attention to their frightening mouths.
 
@@ -5853,7 +5853,7 @@ The people widely known as Martians, or sometimes Marzians, call themselves by a
 Physically, the Martians are lightly built humanoids with long arms, reflecting their evolution in the warm, spindly
 
 forests where most still make their homes. Traditional villages consist of a handful of extended families, creating a polity whose various names translate as ‘us’
-or ‘my village’ with no attempt to identify which one it is to an outsider. Martians are quite happy to travel beyond their ‘us’ but everywhere that is not the home village is foreign – they make no distinction between being in a village a few kilometres from home or on a distant moon a thousand light-years away. Anywhere that is not home, is not home; there really is nothing more to it for a Martian.
+or ‘my village’ with no attempt to identify which one it is to an outsider. Martians are quite happy to travel beyond their ‘us’ but everywhere that is not the home village is foreign – they make no distinction between being in a village a few kilometers from home or on a distant moon a thousand light-years away. Anywhere that is not home, is not home; there really is nothing more to it for a Martian.
 
 Creating Martian Travellers Martians are humanoid and can carry out any task a human can with roughly equal efficiency once they have been shown how. Their language is very difficult to pronounce and hard to follow for non-
 Martians, so they tend to use Anglic or other local languages, which they have no apparent difficulty in learning.
@@ -5881,7 +5881,7 @@ It is possible that everything a Martian ever learns is stored as a separate exp
 
 ### Segani
 
-The Segani are a more or less humanoid people, with leathery, faintly iridescent skin that hangs in folds around the head and neck in a manner reminiscent of a hood or scarf. Segani are tall by human standards, with few individuals failing to reach two metres in height.
+The Segani are a more or less humanoid people, with leathery, faintly iridescent skin that hangs in folds around the head and neck in a manner reminiscent of a hood or scarf. Segani are tall by human standards, with few individuals failing to reach two meters in height.
 They have long bones and greater skin surface area than a typical human, helping them shed heat whilst their head-skin folds protect from direct sunlight. It is not clear whether they are an engineered species or if they evolved naturally but they are known not to be native to their ‘homeworld’ of Segan.
 
 Creating Segani Travellers Segani are not very suitable as Travellers, as roleplaying may well require a slow descent into madness or desperate attempt to cling to sanity every time their ship jumps. However, Segani might be encountered in full (or more or less full) control of their faculties.
@@ -5908,13 +5908,13 @@ Characteristics Shi’awei Travellers roll 3D when generating their STR and END,
 Male Shi’awei Travellers also have the following modifiers applied to their characteristics: STR-1, END+1
 
 Traits Shi’awei Travellers all possess the following traits:
-Echolocation (30m): Shi’awei use a highly sensitive echolocation sense to navigate their environment, effectively allowing them to ‘see’ underwater or in complete darkness to a range of 30 metres.
+Echolocation (30m): Shi’awei use a highly sensitive echolocation sense to navigate their environment, effectively allowing them to ‘see’ underwater or in complete darkness to a range of 30 meters.
 
 Fast Metabolism (+1): Shi’awei have a heightened metabolism and very fast reactions. They gain DM+1 to initiative rolls.
 
 Natural Weapon (grippers, 2D): Shi’awei have large grippers on two of their arms that they can use to bludgeon enemies. The grippers do 2D damage and use the Melee (natural) skill.
 
-Swimmer (9m): Shi’awei are superb swimmers and can move through water at a speed of 9 metres.
+Swimmer (9m): Shi’awei are superb swimmers and can move through water at a speed of 9 meters.
 
 Careers The following careers from the Traveller Core Rulebook are all suitable for the Shi’awei: Drifter, Entertainer, Noble and Rogue.
 
@@ -5969,7 +5969,7 @@ Yafizethe The Yafizethe are native to Kernal (0626), an agricultural world in th
 ‘walking legs’ whilst the front part is held upright and supports two pairs of longer legs used as arms or to clear a way through difficult terrain. The brain and primary sense organs are contained in the head.
 
 Yafizethe possess above-average intelligence and the ability to ‘see’ electrical fields. They evolved in rocky badlands but have spread out to inhabit all of their world, which was gradually unified into a single world-
-state. This was achieved mainly through negotiation, requiring the creation of training programmes to create vast numbers of skilled diplomats. In recent years, Yafizethe negotiators have found employment across the sector in corporate and political positions.
+state. This was achieved mainly through negotiation, requiring the creation of training programs to create vast numbers of skilled diplomats. In recent years, Yafizethe negotiators have found employment across the sector in corporate and political positions.
 
 # JAYNE'S GUIDE TO SPACECRAFT OF DENEB
 
@@ -6009,8 +6009,8 @@ DEMILITARISED
 
 AND CONVERTED
 
-WARSHIPS There are rules in place within the Imperium regarding who is permitted to operate what sort of ship and what weapon systems can be carried. Accountability is the key factor; a world government is generally considered more accountable for its actions than a small corporation with an easily relocated centre of operations.
-There is also the level of trust to be considered; a world that has rebelled several times in the last two centuries that suddenly wants to buy battleships, will not receive a favourable response.
+WARSHIPS There are rules in place within the Imperium regarding who is permitted to operate what sort of ship and what weapon systems can be carried. Accountability is the key factor; a world government is generally considered more accountable for its actions than a small corporation with an easily relocated center of operations.
+There is also the level of trust to be considered; a world that has rebelled several times in the last two centuries that suddenly wants to buy battleships, will not receive a favorable response.
 
 Power and influence can override many rules, however, the client must be able to afford the ships. The Imperial authorities do care if the vessels are affordable to the end client, for two reasons. Firstly, there is always the risk that a world government may buy ships it cannot afford, then sell them to less than desirable operators, and secondly the purchase of ships a client cannot afford suggests they will be put to use in the near future.
 This interests intelligence services, who constantly watch for internal wars, rebellions and powerplays.
@@ -6059,7 +6059,7 @@ The Venturer is a nominally 3,200 ton design, assuming eight 100-ton lighters ar
 Passengers transfer from the interface craft to internal cabins. Typically, around 28 passenger cabins are available, plus eight high cabins, although this depends on crewing levels aboard the freightliner. Small craft crew normally live aboard their craft but spend most of their time in the main hull whilst in jump.
 
 Accommodation is of a high quality, with generous common areas and additional spaces, such as small conference rooms, for the use of passengers and crew. The ship is lightly armed for self-defence but not intended to leave well-
-patrolled spaceways. A GEM-ship might venture into the frontier but for the most part these vessels are optimised for operations on a safe, regular run and tend to stick to this role.
+patrolled spaceways. A GEM-ship might venture into the frontier but for the most part these vessels are optimized for operations on a safe, regular run and tend to stick to this role.
 
 MAINTENANCE COST Cr60308.33/month
 
@@ -6769,7 +6769,7 @@ Even without its spinal mount, a major warship is still a prestigious flagship f
 This demilitarised Gionetti has lost its spinal armament, missile capability and tractor beams.
 Laser armament has also been reduced, with standard weapons substituted for the advanced beam lasers of the original design. It is otherwise a fully capable warship.
 
-The conversion, in this case, is for the vessel to be the private yacht of a powerful noble. The space originally occupied by the spinal meson gun has been converted into a flight operations centre with hangars for up to 1,000 tons of craft. The former meson tube is now open to space for most of its length, acting as a launch/recovery deck for shuttles and rapid recovery of up to 100 tons of craft at once is possible; larger vessels can be accommodated but must make a careful approach and flight through the short remaining section of the tunnel.
+The conversion, in this case, is for the vessel to be the private yacht of a powerful noble. The space originally occupied by the spinal meson gun has been converted into a flight operations center with hangars for up to 1,000 tons of craft. The former meson tube is now open to space for most of its length, acting as a launch/recovery deck for shuttles and rapid recovery of up to 100 tons of craft at once is possible; larger vessels can be accommodated but must make a careful approach and flight through the short remaining section of the tunnel.
 
 There is an element of ego about this arrangement.
 The ship retains its original five cutters as subordinate craft but the ability to launch several fighters at once, then the owner’s private shuttle, followed by another escort flight has its uses. Rapid recovery might be useful in the event of a hurried departure from negotiations gone awry but more commonly it is used to recover a group of escorting fighters at once just for show.
@@ -7443,7 +7443,7 @@ The Imperium plans to relax martial law on Pretoria over the next 10 years, alth
 
 Pretoria is at times seen as the politico-economic equivalent of a salient in a defensive line, with (often unrelated) threats coming in from all directions. Not all are of a military nature; a trade dispute just over the border can have serious implications for local industries and ship operators, which in turn can cause dissent on other worlds. There are times when the local nobility long for something as straightforward as a military confrontation. As they say in Pretorian political circles, ‘Oh, for a clear target and nobody behind me with a noose’.
 
-The world of Pretoria lies in the centre of the subsector, well positioned for local governance but isolated from jump-1 trade by surrounding minor rifts. To overcome this problem, jump bridges were created to link Pretoria to Miwald and Caladib. These bridges are permanent deep-space stations where jump-1 ships can refuel and recalibrate their drives. It is thus possible to reach almost any world in the subsector aboard any jump-
+The world of Pretoria lies in the center of the subsector, well positioned for local governance but isolated from jump-1 trade by surrounding minor rifts. To overcome this problem, jump bridges were created to link Pretoria to Miwald and Caladib. These bridges are permanent deep-space stations where jump-1 ships can refuel and recalibrate their drives. It is thus possible to reach almost any world in the subsector aboard any jump-
 capable vessel. The stations are expensive to maintain but benefits to local trade are enormous.
 
 The subsector was originally settled on a small scale as a result of the gradual outward creep typical of Imperial borders. In the 300s the pace increased rapidly as heavy investment was made in a cluster of worlds with impressive mineral wealth. As this local industrial base grew, trade expanded rapidly to follow.
@@ -7474,11 +7474,11 @@ Trans-border trade is usually carried out by specialist shipping companies, who 
 
 PRETORIA Pretoria was settled by the Imperium around 300, although there may have been enclaves already on-
 planet from earlier, unofficial colonization efforts.
-Other than having a thin atmosphere, Pretoria was more or less ideal for colonization and rapidly became a major population and economic centre. Its position on the jump-2 link between the subsector’s two clusters ensured a great deal of through-traffic at the starport, with corresponding economic benefits. As a centre for communications it was inevitable that Pretoria would develop into a major political player and its selection as the subsector capital was a foregone conclusion.
+Other than having a thin atmosphere, Pretoria was more or less ideal for colonization and rapidly became a major population and economic center. Its position on the jump-2 link between the subsector’s two clusters ensured a great deal of through-traffic at the starport, with corresponding economic benefits. As a center for communications it was inevitable that Pretoria would develop into a major political player and its selection as the subsector capital was a foregone conclusion.
 
 Today, Pretoria exerts considerable influence over a number of worlds in the Spinward Marches. Dubbed the Aramis Trace, these worlds are connected to Pretoria by way of the x-boat route through Marz
 (0201). Although not officially part of the Duchy of Pretoria, the governments of these worlds often find it convenient to seek mediation and advice from the duke and will sometimes informally request naval assistance.
-Technically, this is a breach of many protocols and could have serious repercussions but the Dukes of Pretoria have traditionally looked out for the worlds of the Aramis Trace – albeit out of self-interest – and the niceties of protocol are sidelined in favour of getting the job done.
+Technically, this is a breach of many protocols and could have serious repercussions but the Dukes of Pretoria have traditionally looked out for the worlds of the Aramis Trace – albeit out of self-interest – and the niceties of protocol are sidelined in favor of getting the job done.
 
 Pretoria has a large and very busy starport but its shipyards are currently closed down. The facilities were ordered to cease production after a series of terrorist attacks and whilst the problem appears to have been resolved, permission has not been granted to resume production. It is widely thought that political rivals may have had a hand in this as the longer the yards are closed the more difficult and expensive it may be to restart production. Indeed, it may be that Pretoria has built its last starship.
 
@@ -7500,7 +7500,7 @@ It is not known what purpose the Ancients had on Redi, if indeed the structures 
 URNAS Urnas is an uninviting desert world but its location as a jump-1 link in the local cluster, and the presence
 
 of good mineral deposits, attracted early investment.
-Urnas had the potential to grow into a major industrial centre but its society fragmented soon after the initial colonization and has remained divided ever since.
+Urnas had the potential to grow into a major industrial center but its society fragmented soon after the initial colonization and has remained divided ever since.
 
 Urnas is balkanised, with two major states and numerous smaller ones. By far the majority of the population belong to either Sulan, a theocracy of over 1.1 billion inhabitants or Kasame Upu Uluriri. The latter is a technocracy with around 0.7 billion citizens and is slightly ahead in terms of both technological capability and strategy for implementing those technologies.
 
@@ -7930,7 +7930,7 @@ Borlund is prone to extensive volcanism which has resulted in spectacular natura
 Borlund has numerous bodies of water, some of which appear to be craters caused by ancient meteor strikes.
 Its single true ocean is surrounded on three sides by volcanic-ridged land masses, with near-vertical walls of burnt rock rising out of the water. The fourth side starts as a black sand beach gradually giving way to low plains covered in springy ground cover. The plains end in a deep rift valley, the result of a 4,000-year-
 
-old earthquake. On the other side of the rift is a high plateau, where plains were gradually lifted up 100 kilometres over the last 200 million years. Here, the ground cover is spongy rather than springy.
+old earthquake. On the other side of the rift is a high plateau, where plains were gradually lifted up 100 kilometers over the last 200 million years. Here, the ground cover is spongy rather than springy.
 
 Plant life on cliffs and ridges evolved to compete for sunlight by clinging to near-vertical surfaces and growing outward in wide, flat shelves. Complicated root structures use enzyme catalysts to bore slowly into the rock to anchor the plants, leaching chemicals directly from metabolised stone. New plants may require centuries to root. Once established, plants grow outward at an astonishing rate.
 
@@ -7953,7 +7953,7 @@ Today, the remaining settlements are run by Vargr gangs, some of which are invol
 
 Like the neighboring Lamas subsector, Antra is a border region, with nine of its 25 worlds lying outside the Imperium. Economically, the subsector is not well developed and often considered to be somewhere to be passed through or bypassed altogether rather than a destination for goods or investment. This situation is not improved by the difficult conditions in Lamas, to spinward.
 
-Antra is astrographically scattered. Although stellar density is not unusually low, there are no large mains or clusters to create favourable conditions for trade.
+Antra is astrographically scattered. Although stellar density is not unusually low, there are no large mains or clusters to create favorable conditions for trade.
 The largest local cluster is connected to the subsector capital, Antra itself, but lies mostly in Lamas with all the difficulties that entails. The handful of Imperial worlds around Ostov are connected to a main running into non-
 
 aligned space to coreward but are too underdeveloped to take advantage of cross-border trade opportunities.
@@ -8662,14 +8662,14 @@ MILLION SUBSECTOR
 
 ### D
 
-The 61st Fleet, assigned to Million, is optimised for dealing with small-scale incursions by Vargr corsairs; if ‘optimised’ is the right word. The fleet is used as a dumping-ground for obsolescent vessels and ‘plodder’
+The 61st Fleet, assigned to Million, is optimized for dealing with small-scale incursions by Vargr corsairs; if ‘optimized’ is the right word. The fleet is used as a dumping-ground for obsolescent vessels and ‘plodder’
 officers and spends most of its time on routine patrols in the systems around Taproban. Vessels are typically old, small and in need of maintenance, with spares of all kinds in short supply.
 
 Cross-border operations are carried out by far better vessels assigned to Sector Fleet command and deployed in the subsector when needed. These ships show the flag and dash back and forth across the border to deal with crises, leaving the subsector fleet to enforce customs regulations and mount sensor watches over backwater worlds. The 61st Fleet shows up poorly in joint exercises and their Sector Fleet colleagues are not kind about it.
 Real resentment is growing among the personnel of this force, although as yet it manifests only as poor morale and even poorer performance.
 
 495-524 495-524 is an unclaimed and virtually uninhabited world, although it has the potential to support large-
-scale settlement. Its starport is hardly worthy of the name, being little more than a landing field located next to the world’s only settlement. It is not clear exactly why this facility was set-up, but there is a known Ancients site a few kilometres away. It may be that 495-524 was settled by hopeful artefact-hunters but today the port is a small frontier town with virtually no industry. About half the inhabitants have ‘always been there’, as they put it, and call the town home. The rest are transients or have nowhere better to go.
+scale settlement. Its starport is hardly worthy of the name, being little more than a landing field located next to the world’s only settlement. It is not clear exactly why this facility was set-up, but there is a known Ancients site a few kilometers away. It may be that 495-524 was settled by hopeful artefact-hunters but today the port is a small frontier town with virtually no industry. About half the inhabitants have ‘always been there’, as they put it, and call the town home. The rest are transients or have nowhere better to go.
 
 The Ancients site is widely known but apparently picked clean many years ago. It consists of a set of tunnels running into a cliff face, with chambers deep inside the rock. They were emptied of anything movable long ago and whilst the occasional rumor surfaces of a hidden entrance to ‘the rest of the ruin’ these tales inevitably turn out to be false. The main importance of the ruin is that it brings bright-eyed greenhorns into the port from time-to-time, who can be fleeced by local guides offering lost secrets and great riches.
 
@@ -8685,7 +8685,7 @@ This makes food production a problem – Fel relies heavily on imports – but i
 
 Fel also builds starships, mostly commercial ships or freighters, but Fel is a primary shipyard for the UFA and produces a range of vessels ranging from fighters through escorts to the occasional cruiser. Some vessels go to less than reputable operators and whilst Fel does not openly build corsairs for pirate bands some of its ‘well-armed merchant ship’ designs are distinctly paramilitary. Fel has been known to issue Letters of Marque to the operators of these vessels although it normally distances itself from activities of corsair bands in order to maintain the façade of a civilised power. This is important if the world wishes to avoid a raid in force by the Imperial Navy.
 
-Fel’s cities are mainly underground and tend to be focussed on an industrial or mining centre with supporting infrastructure. Some structures protrude above ground level and are either pressurised or protected by a dome, however the majority are fully underground. Living quarters would be considered claustrophobic by most humans but public spaces like parks are large and well-kept.
+Fel’s cities are mainly underground and tend to be focussed on an industrial or mining center with supporting infrastructure. Some structures protrude above ground level and are either pressurised or protected by a dome, however the majority are fully underground. Living quarters would be considered claustrophobic by most humans but public spaces like parks are large and well-kept.
 
 Khoeurrroe-class FEL ARMED MERCHANT
 
@@ -8729,7 +8729,7 @@ The Khoeurrroe-class Armed Merchant Vessel is constructed at TL10 and designed t
 
 The Khoeurrroe-class is heavily armed for a merchant ship and has sufficient acceleration to chase down most commercial vessels. Its heavy torpedo armament is inefficient when attacking a small vessel but often a single torpedo fired as a warning will ensure compliance with the Khoeurrroe captain’s requests. Several features are described with polite euphemisms; the heavy-duty cargo crane and forced linkage apparatus are ‘attractive to the salvage and rescue market’ whilst the armories and brig are ‘secure transportation for passengers and high-value cargo’.
 
-In reality, this vessel is only viable as a corsair or in a subsidised role such as providing escort to other merchants – the other side of the corsair coin. Its cargo capacity is inadequate for standard freighting and even if the crew take double-occupancy, the passenger accommodation is very small – unless of course the brig is actually used to transport people.
+In reality, this vessel is only viable as a corsair or in a subsidized role such as providing escort to other merchants – the other side of the corsair coin. Its cargo capacity is inadequate for standard freighting and even if the crew take double-occupancy, the passenger accommodation is very small – unless of course the brig is actually used to transport people.
 
 LEGEND
 
@@ -8793,7 +8793,7 @@ The highport generates a great deal of revenue from trade and shipbuilding but o
 Visitors could be forgiven for thinking that Gabrael has pretensions of being an agricultural world but only a small area is intensively farmed. This provides more than enough food for the population and sale to the highport operators.
 Most craft based at the downport are agricultural haulage shuttles, with few passenger and cargo vessels.
 
-The downport has minimal facilities, serving mainly as a transfer port for agricultural goods. The world’s startown is located around 20km away, outside the immediate farming belt. It is reached by a fast and efficient rail service and caters to offworld visitors as well as acting as the centre of government. Around 500,000 people dwell in the startown or immediately around it, with the remainder of the population living in small cities wherever there are resources and sufficient water.
+The downport has minimal facilities, serving mainly as a transfer port for agricultural goods. The world’s startown is located around 20km away, outside the immediate farming belt. It is reached by a fast and efficient rail service and caters to offworld visitors as well as acting as the center of government. Around 500,000 people dwell in the startown or immediately around it, with the remainder of the population living in small cities wherever there are resources and sufficient water.
 
 IKHABA Located right on the Imperial border with the United Followers of Augurgh, Ikhaba is a world of little importance except as a buffer against UFA influence.
 The 900,000 or so inhabitants have a mature TL8 society that cannot compete economically with nearby high-tech industrial worlds. Considerable amounts of food are shipped across the border to Fel in return for industrial goods, with Ikhaba very much the junior partner in the relationship.
@@ -9217,10 +9217,10 @@ The Imperial authorities deny rumors that secret research is being undertaken on
 
 MAGASH Magash is a forbidding rockball world but in a system with no habitable planets one ball of rock is as good as another. Magash was located a convenient distance from the system’s primary and its close companion star, so was chosen as the system’s mainworld. Ease of navigation was not the only factor in the selection; Magash had good natural resources that facilitated early development.
 
-Magash was intended from the outset to be a major industrial centre and received heavy investment; incentives were offered to persuade colonists to move to the underground cities of Magash rather than one of the more pleasant worlds in the region. This was not a single-world project; Magash was to be the hub of industry in the surrounding systems, creating a self-
+Magash was intended from the outset to be a major industrial center and received heavy investment; incentives were offered to persuade colonists to move to the underground cities of Magash rather than one of the more pleasant worlds in the region. This was not a single-world project; Magash was to be the hub of industry in the surrounding systems, creating a self-
 supporting expansion program.
 
-Although the project was not a total success, Magash did indeed develop into a high-tech manufacturing centre and was soon exporting machinery and equipment to developing colonies on nearby worlds. It then became the seat of the Duke of Sabine when the subsector’s senior nobility were appointed.
+Although the project was not a total success, Magash did indeed develop into a high-tech manufacturing center and was soon exporting machinery and equipment to developing colonies on nearby worlds. It then became the seat of the Duke of Sabine when the subsector’s senior nobility were appointed.
 
 Magash has few structures visible above ground and the population of around eight billion are housed within city-
 complexes dispersed around the globe. Although each has the identity of a single city, they are built in a chain of artificial caverns. Each has its own amenities and can function independently in the event of disaster cutting off power or water supplies, although not all have access to the surface. Some cavern-cities within a complex are specialist areas, including the ducal city and several hazardous-materials handling facilities, but most are a large and diversified city in their own right, forming a module within each larger city-complex.
@@ -9242,9 +9242,9 @@ THENGIN Lying towards the spinward end of Deneb’s largest cluster-main, Thengi
 scale contracts but also the very significant individual spending of crew on liberty at Thengin’s starport. Navy and marine uniforms are commonplace in the port and surrounding cities and personnel in general are well received.
 
 Thengin has a good relationship with the navy, with serving a hitch seen as a route into a good job even by those with no aspirations towards a military career.
-Employers look favourably upon ex-naval personnel, with the result that Thengin has a large population of immigrants who finished their final term at Thengin’s naval base and settled nearby.
+Employers look favorably upon ex-naval personnel, with the result that Thengin has a large population of immigrants who finished their final term at Thengin’s naval base and settled nearby.
 
-The megacorporation GSbAG has always been heavily involved in Thengin’s economy, funding the original small naval base and its supporting colony in the early 300s, with a view to securing the region and enabling further colonization. Starships are not built at Thengin, although there are smallcraft yards that specialise in fighters and assault shuttles. GSbAG maintains extensive components factories in several of Thengin’s cities, some constructing highly classified items using imported materials, although most make mundane items like hull armor plate or fuel piping. Ex-naval personnel are favoured for the more sensitive sites but there is still plenty of work available and GSbAG is popular among the citizens.
+The megacorporation GSbAG has always been heavily involved in Thengin’s economy, funding the original small naval base and its supporting colony in the early 300s, with a view to securing the region and enabling further colonization. Starships are not built at Thengin, although there are smallcraft yards that specialise in fighters and assault shuttles. GSbAG maintains extensive components factories in several of Thengin’s cities, some constructing highly classified items using imported materials, although most make mundane items like hull armor plate or fuel piping. Ex-naval personnel are favored for the more sensitive sites but there is still plenty of work available and GSbAG is popular among the citizens.
 
 VANZETI Vanzeti is a water world with a very thin atmosphere and four moons. As a result, it suffers from rapid changes of temperature and extreme tides. Fog is very common, impeding travel and quite often interfering with routine operations at the starport but more caution is required for the ‘wallstorms’, giant walls of seawater travelling around the globe. These lie somewhere between fog, extremely heavy rain and a vaporous suspension, dragged along by the gravity of the moons. When a wallstorm arrives, it dumps large quantities of water on everything in its path but is not directly damaging due to the thinness of the world’s atmosphere. Wallstorms make using conventional compressor masks risky as intakes can fill and drown the user.
 
@@ -9338,7 +9338,7 @@ Inar is a candidate for sector capital, a fact its duke is keen to remind everyo
 
 It is probable that at some point the Emperor will appoint one of the Dukes of Deneb as sector duke, with authority over the subsector duchies. Whilst in the long term this might strengthen the sector economically and provide greater security, any such move would be so vigorously contested that it would be counterproductive in the short to medium term. Thus the present situation is allowed to continue even though it is not at all good for the region as a whole.
 
-An Imperial Navy Depot is located on the trailing side of Inar, close to the astrographical centre of the sector.
+An Imperial Navy Depot is located on the trailing side of Inar, close to the astrographical center of the sector.
 The depot is home to the Deneb Fleet, benefiting the local economy with its voracious need for high-tech components. The subsector fleet – the 257th – has its headquarters at Inar and works closely with the subsector duke but the sector fleet, on the other hand, tries to stay out of local politics. In this, it has mixed success. All major nobles in the sector have representatives at headquarters, who press for assets to be assigned to their regions or compete for naval contracts to benefit their subsector’s businesses.
 
 ASHASI Ashasi has the highest population in the subsector despite it being a hell-hole with a highly dense atmosphere. Its underground cities are overpopulated and run-down for the most part, although the ruling elite live in splendour, a result of natural decline and economic downturn, coupled with self-serving decisions.
@@ -9358,7 +9358,7 @@ The Imperial authorities are aware of the situation but do not want to get invol
 
 INAR Inar is a tidally locked rockball planet, with one face permanently baked by its primary and the other exposed to the cold of space. Its trace atmosphere does nothing to alleviate the harsh conditions. It was colonized, like many similar worlds, for administrative and economic reasons, and targeted for rapid expansion of its mining and industrial sectors.
 
-As a hub for local development, Inar was a logical choice for an administrative centre and was eventually named as the subsector capital. Its population stabilized at around 90 million a long time ago, with the vast majority of permanent citizens dwelling in subterranean cities. There are some surface settlements, most of which are mining towns whose local population is supplemented by large numbers of contracted workers and their families. These are not counted among the world’s population in most databases as they are workers, not residents.
+As a hub for local development, Inar was a logical choice for an administrative center and was eventually named as the subsector capital. Its population stabilized at around 90 million a long time ago, with the vast majority of permanent citizens dwelling in subterranean cities. There are some surface settlements, most of which are mining towns whose local population is supplemented by large numbers of contracted workers and their families. These are not counted among the world’s population in most databases as they are workers, not residents.
 
 As the seat of the subsector duke, Inar attracts petitioners, business representatives and hangers-on in large numbers. These are received at the Duke of Inar’s orbital station, built at his own expense – sort of – as a subsector capital that was ‘in the subsector rather than on the planet’. Supposedly this was a symbol of the duke’s commitment to the affairs of his whole area of interest but the reality is more complex than that.
 
@@ -9371,7 +9371,7 @@ conned the navy into building his palace and protecting it for him.
 
 This situation is not to the liking of the Imperial Navy, partially because of the way its funding board was maneuverd but mostly because it places the offices of Naval Intelligence and a number of senior naval officers within easy reach of a subsector duke who constantly interferes in what should be purely military matters, and who has no qualms about using the navy in his schemes.
 The duke makes use of the naval maintenance facilities at the base for his own ships, which are based out of the same structure. Whilst this is irregular, his influence is such that the navy has to indulge him up to a point.
-Again, the Duke of Inar is getting the navy to pay for his possessions, which causes friction with other nobles who are not so favoured. Naval attaches elsewhere find themselves defending this position, as the alternative is to acknowledge that they have been played by the duke.
+Again, the Duke of Inar is getting the navy to pay for his possessions, which causes friction with other nobles who are not so favored. Naval attaches elsewhere find themselves defending this position, as the alternative is to acknowledge that they have been played by the duke.
 
 Civilian traffic goes to the orbital starport, not the palace/naval base and only naval or ducal vessels may approach the palace. The port is extensive and
 
@@ -9803,7 +9803,7 @@ ANDALIA Andalia is a water world, with little in the way of useable land above s
 
 Today, the land is safe to visit but the population has an aversion to doing so and will not even consider growing food there. The world’s atmospheric taint was made worse by radioactive fallout, though this has long since dispersed. All the same, Andalia has a reputation as a poisoned world which is at least partially deserved.
 
-Andalia was repopulated in the years after the Civil War by people who were assigned there rather than by choice. This was one of several resettlement programmes that created resentful populations with little love for the Imperium and to this day, Andalia remains a backwater. It has been a haven for dissidents
+Andalia was repopulated in the years after the Civil War by people who were assigned there rather than by choice. This was one of several resettlement programs that created resentful populations with little love for the Imperium and to this day, Andalia remains a backwater. It has been a haven for dissidents
 
 and criminals, and is thought to have harboured corsairs based out of small, remote islands. No such bases have been found but the Imperial Navy monitors the world and conducts searches from time-to-time – which does nothing to improve relations with the locals.
 
@@ -9858,7 +9858,7 @@ Twinian has a small scout base at the starport, which supports jump-2 communicat
 The 24 star systems of Atsah are all within the Imperium, although the region has a distinct cultural identity as a result of its history. Atsah is astrographically important as a link to Corridor and thus to the Imperial heartland beyond and, as such, it is of strategic interest in regions as far away as the Spinward Marches. A more stable subsector might not draw such great attention but Atsah is prone to rather vigorous internal politics.
 
 This situation has its origins in the pre-Imperial era.
-Atsah was the centre of a loose federation of Vargr worlds when the Imperium began pushing through the sector and co-opted into Imperial membership by demonstrations of strength and incentives for local leaders. On one hand this allowed a large region to be
+Atsah was the center of a loose federation of Vargr worlds when the Imperium began pushing through the sector and co-opted into Imperial membership by demonstrations of strength and incentives for local leaders. On one hand this allowed a large region to be
 
 incorporated relatively easily; on the other it meant that the Duchy of Atsah continued in the previous tradition of turbulent politics based on personalities rather than policies.
 
@@ -10198,7 +10198,7 @@ ATSAH SUBSECTOR
 
 ATSAH (1).AI
 
-The world has strong ties with Tukera Lines, which maintains a recruitment centre and training academy at the starport. Naturally, it is a matter of pride to produce the best graduates and highest proportion of successful applicants, and thus the ‘Tukera mindset’ is prevalent throughout Atadl society. Education and art reflects spacer culture, with a strong corporate bias.
+The world has strong ties with Tukera Lines, which maintains a recruitment center and training academy at the starport. Naturally, it is a matter of pride to produce the best graduates and highest proportion of successful applicants, and thus the ‘Tukera mindset’ is prevalent throughout Atadl society. Education and art reflects spacer culture, with a strong corporate bias.
 
 This attitude is not without its opponents. There is a growing movement resisting the corporate-service lifestyle, with bohemian communities of artists, free thinkers and dropouts surrounding influential figures or frequenting certain social establishments. These
 ‘reactionary bars’ have become chic places for daring young Vargr to be seen flouting their society’s norms –
@@ -10210,16 +10210,16 @@ The money for this comes from the subsector budget’s social development funds 
 However, the policy is kept in place by regular bargaining sessions, in which one hoped-for reward is permission to move to Atsah with its very high standard of living – with an expenses subsidy from the subsector budget of course.
 
 The population includes around 55 million Vargr and 15 million members of other species, most notably humans. The majority of the population is concentrated in large, high-tech cities but there are extensive country estates and small towns scattered all over the planet.
-The former typically belong to those who have served the duke or subsector administration well and may be held in perpetuity or only as long as the duke’s favour is retained. The towns are mostly agricultural centres providing a modest income from exports.
+The former typically belong to those who have served the duke or subsector administration well and may be held in perpetuity or only as long as the duke’s favor is retained. The towns are mostly agricultural centres providing a modest income from exports.
 
-The subsector administrative centre is a small city in its own right, located in beautiful countryside with recreation areas nearby. Some of these are restricted by rank or special privilege; others are open to anyone. The duke lives at the heart of this administrative complex, which has its own spaceport manned by the duke’s
+The subsector administrative center is a small city in its own right, located in beautiful countryside with recreation areas nearby. Some of these are restricted by rank or special privilege; others are open to anyone. The duke lives at the heart of this administrative complex, which has its own spaceport manned by the duke’s
 
 Jump Bridge Atsah maintains a bridge on a single, very large ice asteroid (map hex 2814). This links 10 worlds in the Dunmag and Atsah subsectors with a jump-
 1 main, which begins in trailing Atsah and runs throughout the Ian and Khouth subsectors in Corridor. In total, this main contains 21 systems in Deneb and another 20 worlds in Corridor.
 
 The public reason for this bridge is to promote jump-1 merchant traffic in the subsector. An unstated, but generally understood, reason is to permit jump-1 access to Dunmag, the ostensible capital world of the subsector. This allows Atsah to exert influence on Dunmag with relatively cheap ships. In contrast, Inar not only needs a minimum of jump-2, but it also has a greater distance to cover: 14 parsecs instead of Atsah’s seven.
 
-The Dukes of Atsah have always put their disputes with Vincennes and Inar, and their own interests, ahead of those of the Imperium. The dukes have a history of permitting favoured factions to get away with extreme bending of rules and only intervening to stop conflicts when external pressure becomes too much or their favourites start losing. The region has become a constant low-level nuisance, with the occasional major crisis and given its strategic importance this is of grave concern to the Imperial authorities.
+The Dukes of Atsah have always put their disputes with Vincennes and Inar, and their own interests, ahead of those of the Imperium. The dukes have a history of permitting favored factions to get away with extreme bending of rules and only intervening to stop conflicts when external pressure becomes too much or their favorites start losing. The region has become a constant low-level nuisance, with the occasional major crisis and given its strategic importance this is of grave concern to the Imperial authorities.
 
 The subsector fleet – the 88th – is heavily politicised and whilst it does the job of suppressing independent pirates, it tends to become embroiled in local disputes and turn a blind eye to ‘internal’ transgressions. Sector fleet assets are routinely assigned to conduct gunboat diplomacy in the region and remind all local factions that there are limits to wayward behaviour, even if the subsector duke is willing to tolerate their actions.
 
@@ -10649,7 +10649,7 @@ ANIMAL HITS SPEED Sachupe 130 24m SKILLS Melee (natural) 1, Recon 1, Survival 1 
 TRAITS Armor (+6), Heightened Senses, Large (+6)
 BEHAVIOUR Carnivore, Hunter
 
-The Sachupe have been described as ‘horrific tentacled whales... only worse’. They are large deep-water predators capable of a surprising turn of speed, although they cannot turn quickly. Sachupe generally do not need to; their favoured attack is a rapid dash at the target with grabbing tentacles or an ambush from behind seabed cover. Smaller prey are grabbed and stuffed into the creature’s maw, whilst larger creatures may be rammed before being dragged to the mouth. Sachupe are adept at manoeuvring their prey so the first bite cripples the tail of a swimming creature.
+The Sachupe have been described as ‘horrific tentacled whales... only worse’. They are large deep-water predators capable of a surprising turn of speed, although they cannot turn quickly. Sachupe generally do not need to; their favored attack is a rapid dash at the target with grabbing tentacles or an ambush from behind seabed cover. Smaller prey are grabbed and stuffed into the creature’s maw, whilst larger creatures may be rammed before being dragged to the mouth. Sachupe are adept at manoeuvring their prey so the first bite cripples the tail of a swimming creature.
 
 Sachupe are not a threat to an underwater colony’s structures but frequently mistake seabed farming or maintenance craft for rivals, prey or potential mates.
 They are intelligent enough to know that submarines contain edible creatures and have been known to drag one down below its crush depth or ram a vessel against rocks to crack its hull. Groups will sometimes gather close to an underwater settlement and drift outside, coming right up to viewing ports to peer in and testing the surface with their tentacles.
@@ -11073,7 +11073,7 @@ permitted, and routinely refers to the 258th as the Fleet of the Duchy of Vincen
 
 In recent years, the duke has backed off a little on this approach, after a near-mutiny when the 258th Fleet was ordered to enter Sabine and carry out actions that would inevitably lead to a confrontation with the 195th Fleet based there. However, it is only a matter of time before the Duke of Vincennes tries once more to use the Imperial Navy as his personal force and another admiral is put in the position of having to flatly refuse to obey an illegal order.
 
-HRD HRD (Humbolt Research Directorate) was settled and developed to be a scientific community, although supporting industry was necessary. Association with the disgraced Humbolt family is unwelcome these days, so the world goes by its initials but remains a major centre for scientific progress.
+HRD HRD (Humbolt Research Directorate) was settled and developed to be a scientific community, although supporting industry was necessary. Association with the disgraced Humbolt family is unwelcome these days, so the world goes by its initials but remains a major center for scientific progress.
 
 HRD does not have a single remit or unified research facility. Instead, it is home to a large number of independent research corporations active in areas ranging from jump technology to archaeology of stone-
 age native sophonts on other worlds. Although HRD is within the Duchy of Vincennes and heavily associated with it, its research installations will take contracts from any bidder providing the combination of money and political expediency is right. Some jobs are simply too much trouble as they cause friction with Vincennes
@@ -11265,7 +11265,7 @@ Geniishir to conduct the usual commerce-protection and flag-showing duties and o
 DENEB The Deneb system was named for its blue-white giant primary rather than its mainworld, although eventually the name of the mainworld was changed. Deneb is the homeworld of the Nenlat, an amphibious minor race who had achieved only the most basic technology when humans arrived.
 
 The Nenlat evolved in low-lying wetlands and most still occupy these areas. Their traditional villages are capable of maintaining a TL4 society, with some imported high-
-technology items here and there. ‘High technology’ in the case of the Nenlat means around TL6-8 for the most part. Higher-tech items require too much support and do not remain functional for long in the damp conditions favoured by traditional Nenlat.
+technology items here and there. ‘High technology’ in the case of the Nenlat means around TL6-8 for the most part. Higher-tech items require too much support and do not remain functional for long in the damp conditions favored by traditional Nenlat.
 
 Some Nenlat live among the ‘interstellar’ society of Deneb, which is made up mostly of humans with some Vargr and other species scattered among them. These Nenlat are thoroughly Imperial in outlook and consider
 
@@ -11284,7 +11284,7 @@ Church of Stellar Divinity
 themselves superior to ‘traditional’ wetlands Nenlat.
 This manifests itself as contempt and a tendency towards patronising protectiveness. There is no real animosity, just a lack of understanding between the two cultures.
 
-Deneb is a major centre for the Church of Stellar Divinity, which is hardly surprising since the system’s primary is one of the most impressive stars in Charted Space. The local variant of the Church considers that
+Deneb is a major center for the Church of Stellar Divinity, which is hardly surprising since the system’s primary is one of the most impressive stars in Charted Space. The local variant of the Church considers that
 ‘their’ star-god is bigger and better than the others and that, therefore, they are the chosen people. This does not go over well with other worshippers, who consider the Denebian branch of the faith to be a bit too holier-than-thou.
 
 Religious law is very strict in the cities of Deneb and enforced with vigour. There is no secular law, other than regulations for interstellar trade and commerce.
@@ -11665,7 +11665,7 @@ GULF SUBSECTOR
 
 ### M
 
-The way station is also a major training centre, with Scout Service recruits receiving orientation and specialist training packages, and some personnel return later in their careers as instructors or to retrain for a new role. The installation’s information-collation facility is one of the main intelligence hubs in the region behind the claw, receiving a steady stream of couriers and processing their raw data. Once analysed, reports are disseminated wherever needed
+The way station is also a major training center, with Scout Service recruits receiving orientation and specialist training packages, and some personnel return later in their careers as instructors or to retrain for a new role. The installation’s information-collation facility is one of the main intelligence hubs in the region behind the claw, receiving a steady stream of couriers and processing their raw data. Once analysed, reports are disseminated wherever needed
 
 - routine census and survey data goes into the public
 
@@ -12133,14 +12133,14 @@ There are exceptions to this rule. Imperial armed forces sometimes conduct high-
 
 LILAD Like Dawn, Lilad is a system of bodies rather than a single planet. The largest moon of a gas giant, Lilad is the capital of its local moon system. The system has a total population of around 80 billion, of whom more than half live on Lilad itself.
 
-Although cold, Lilad is habitable and has a modest native ecosystem supplemented by a few imported species. Lilad is able to grow enough food locally to supply its own population and that of the other moons, although this leads to a repetitive diet composed mainly of cereals and yeast extracts. Food is a sought-after import item, particularly fruit. Even dried and preserved fruits are popular so long as they are strongly flavoured and somewhere close to ‘authentic’ in taste.
+Although cold, Lilad is habitable and has a modest native ecosystem supplemented by a few imported species. Lilad is able to grow enough food locally to supply its own population and that of the other moons, although this leads to a repetitive diet composed mainly of cereals and yeast extracts. Food is a sought-after import item, particularly fruit. Even dried and preserved fruits are popular so long as they are strongly flavored and somewhere close to ‘authentic’ in taste.
 
 The Lilad Group, as the moon system is officially named, does not have a central highport as such. Each of the moons has its own small port, with a large but
 
 rather basic commercial docking facility orbiting over Lilad itself. Shuttles and small craft flit back and forth between these installations, protected by a large force of fighters and armed small craft, backed up by missile-
 armed defence bases on the surface of the primary moons and many other smaller, uninhabited bodies.
 
-The system defence flotilla at Lilad is adept at hiding among the many moons and ring-system debris and in the upper atmosphere of the gas giant. The favoured method of dealing with intruders is a time-on-target missile salvo from several points, though the tactic of using missiles to chase a target into a close-range torpedo ambush is also practiced. The occasional corsair does try his luck, but the Lilad Group is an unhealthy place to operate and most smart raiders know it.
+The system defence flotilla at Lilad is adept at hiding among the many moons and ring-system debris and in the upper atmosphere of the gas giant. The favored method of dealing with intruders is a time-on-target missile salvo from several points, though the tactic of using missiles to chase a target into a close-range torpedo ambush is also practiced. The occasional corsair does try his luck, but the Lilad Group is an unhealthy place to operate and most smart raiders know it.
 
 PIKHA Pikha is a high-tech, high-population world, making it important to the subsector’s economy. This is unfortunate for other nearby worlds, as Pikha’s extremely bureaucratic government imposes complex regulations on all imports, exports and technology transfers. Doing business at Pikha is necessary but also painfully slow and needlessly complex.
 
@@ -12234,7 +12234,7 @@ coreward corner of Kamlar, both Kamlar and Vast Heavens are part of the Great Ri
 
 Kamlar’s worlds are part of the Imperium, with the exception of Catacomb (which still aligns itself to the Imperium). Although they lie on the fringe of the Great Rift they look ‘inward’, towards other inhabited worlds, rather than out into the darkness. There are exceptions; a few long-range ships make the trip to Catacomb or conduct deep-space research. However, for the most part these worlds are little different from any others within the Imperium, other than reduced traffic through their starports and less passing trade.
 
-The Duke of Zeng maintains a mobile embassy in Kamlar most of the time, an old demilitarised cruiser outfitted to act as a flying palace and conference centre.
+The Duke of Zeng maintains a mobile embassy in Kamlar most of the time, an old demilitarised cruiser outfitted to act as a flying palace and conference center.
 Along with a handful of escorts, the embassy ranges among the worlds of Kamlar, sometimes returning to Zeng to deal with matters requiring urgent attention.
 Court is held at the embassy by members of the Duke’s
 
@@ -12584,7 +12584,7 @@ REAR 46
 
 SIDES 48
 
-A favourite of both Vargr military forces and corsairs, the Ghoerruegh is a personnel carrier designed for
+A favorite of both Vargr military forces and corsairs, the Ghoerruegh is a personnel carrier designed for
 
 TL10
 

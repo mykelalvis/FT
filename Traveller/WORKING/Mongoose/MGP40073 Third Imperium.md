@@ -368,12 +368,12 @@ beckon elsewhere.
 
 Secondary routes and stellar clusters are also served
 by the tramp trader community but many of these
-attract mid-sized lines, which appoint subsidised
+attract mid-sized lines, which appoint subsidized
 merchant starships to serve them on an experimental
 basis. The most popular spacecraft for such trade
-missions is the 400-ton Type-R subsidised merchant,
+missions is the 400-ton Type-R subsidized merchant,
 affectionately called the ‘fat trader’ or ‘subby’ by people
-in the business. If running a subsidised merchant
+in the business. If running a subsidized merchant
 reveals that profits are there to be had, an interface or
 subsector line will eventually invest in a secondary or
 cluster route, turning its worlds into regular stops.
@@ -579,7 +579,7 @@ differences despite having evolved on different worlds
 for hundreds of thousands of years but culturally
 they are quite different. Because of the challenges
 posed by living on a world that was not their own, the
-Vilani became a conservative people who favoured
+Vilani became a conservative people who favored
 cautious resource management and tradition over
 unbridled innovation. Conversely, the Solomani were
 more aggressive, uninhibited in their advancement of
@@ -650,10 +650,10 @@ advisory roles.
 The practice of psionics was mostly viewed as an oddity
 in the Third Imperium, despite their growing usage and
 acceptance during the first centuries of Imperial history.
-Psionic institutes and programmes at universities taught
+Psionic institutes and programs at universities taught
 psionically talented individuals how to use their abilities
 to read minds, move matter and instantly teleport from
-place-to-place. These programmes reached a peak in
+place-to-place. These programs reached a peak in
 popularity from about 650 to the mid-700s. However,
 a series of psionic scandals rocked the Imperium
 in the late 700s, resulting in the public turning upon
@@ -2686,7 +2686,7 @@ what the Emperor wants. For example, if the Emperor
 is travelling with members of the Moot and visiting
 dignitaries from various worlds, the common area might
 be configured into a ballroom, a formal dining area, a
-card room, a tearoom and a conference centre. The
+card room, a tearoom and a conference center. The
 common area is adjacent to the multi-environment
 
 **PAX IMPERII**
@@ -2949,7 +2949,7 @@ the moon of a gas giant, a large hollowed out
 asteroid or even an orbital habitat. Such a capital
 is vulnerable to destruction by a large impactor.
 A bolide of significant size – perhaps only 10 or
-more kilometres in diameter – could be hurtled at
+more kilometers in diameter – could be hurtled at
 such a target at high – even relativistic – speeds
 with cataclysmic effects. To prevent such a thing
 from happening, the Short Baseline Observation
@@ -3634,7 +3634,7 @@ of an incompetent duke and actually pursue the
 revocation of his superior through various channels.
 History has shown that such bids are rarely successful
 unless incontrovertible evidence of incompetence or
-other malfeasance is provided. The system favours
+other malfeasance is provided. The system favors
 hierarchical order and stability and the Moot does not
 tolerate insubordination lightly.
 
@@ -3787,7 +3787,7 @@ maintained good standing with the Emperor may have
 held a patent for generations or even centuries. Holding
 such a patent confers great responsibilities. Rank noble
 patents almost universally include a fief, which may be
-anywhere from a few hundred square kilometres on
+anywhere from a few hundred square kilometers on
 a single world to a whole planet, multiple planets, an
 entire subsector and so on.
 
@@ -3849,8 +3849,8 @@ its ranks whom the Emperor feels he can trust. The
 Chancellorship is a much sought-after position and is
 usually a lifetime appointment.
 
-The Moot Spire is a 1.75 kilometre tall structure located
-a mere 4.25 kilometre from the Emperor’s palace.
+The Moot Spire is a 1.75 kilometer tall structure located
+a mere 4.25 kilometer from the Emperor’s palace.
 Symbolically, the peak of the spire is allowed to rise
 above the crown of the Grand Palace except on one
 day; when a new Emperor is appointed. On that day,
@@ -4602,7 +4602,7 @@ rotating 1- to 2-person crew.
 The class is named for important Imperial financial
 centres and famous corporate events and
 transactions. Intell is the largest city on Capital and
-its primary business and financial centre.
+its primary business and financial center.
 
 Crew
 Optional Pilot,
@@ -5597,8 +5597,8 @@ plains just outside the city near the marsh, taking
 care to avoid damaging crops in the fields. The crew
 wore uniforms and came out unarmed, filter masks
 protecting them from our atmospheric taint. They
-walked the two kilometres from the field to the town
-centre where they asked to speak to Port Khanuum’s
+walked the two kilometers from the field to the town
+center where they asked to speak to Port Khanuum’s
 leaders. They brought gifts with them: portable fusion
 power cells that could provide enough energy for an
 entire province. We had returned to using fossil fuels
@@ -5717,7 +5717,7 @@ level of clarity and accuracy in their psychohistorical predictions.
 While there is no direct proof, most believe that the Zhunastus also employed psions in key roles of their
 political and corporate organizations. There is little reason to believe the Zhunastus themselves had psionic
 talent but both Sylea and Rhylea (then called Udmum) hosted reputable psionic clubs and university
-programmes. The top psionic talents of the era were recruited by the noble families to serve as aides and
+programs. The top psionic talents of the era were recruited by the noble families to serve as aides and
 spies. There were laws preventing unlawful telepathic and clairvoyant intrusion, which necessitated the
 development of counter-psionics: psions trained to detect and prosecute violations. Psionics gave the
 nobility and corporate community unprecedented advantages over their competition. Rumor has it that the
@@ -5836,7 +5836,7 @@ peddled F+ technology to member and satellite worlds
 in an effort to draw them into the fold. On Sylea,
 those who worked with Cleon saw their fortunes
 grow immensely. GSbAG, which had long held a
-favourable relationship with the Zhunastus, became
+favorable relationship with the Zhunastus, became
 the Federation’s primary military contractor, building
 warships for the growing navy and freighters for its
 expanding merchant lines.
@@ -5893,7 +5893,7 @@ declared Cleon the first Emperor of the Third Imperium.
 He was crowned Cleon I on the first day of Imperial
 year 0 and Sylea was renamed Capital. No longer was
 it just the provincial capital of a pocket empire. Capital
-aspired to become the centre of the greatest interstellar
+aspired to become the center of the greatest interstellar
 empire in human history.
 
 The Emperor of the Third Imperium was given
@@ -6221,7 +6221,7 @@ Federation, the Easter Concord, the Vegan Polity, the
 Dingir League and the Old Earth Union. A softer touch
 would be required to draw the Solomani Rim into the
 Imperium, one which Artemsus himself would devise.
-Gaining the favour of such a well-established region of
+Gaining the favor of such a well-established region of
 space would require a longer game to be played.
 
 THE ANTARES CAMPAIGN
@@ -6468,7 +6468,7 @@ the worlds of Charted Space. The disappearance
 of the Ancients was a mystery to researchers who
 ascertained they had destroyed themselves in an
 enormous Final War, although the disposition of the
-winners was never determined. Researchers theorised
+winners was never determined. Researchers theorized
 they may have gone extinct or left Charted Space.
 The Ancients disappeared from the galactic scene in
 approximately -290,000, leaving only ruins and altered
@@ -6639,7 +6639,7 @@ While Charted Space is far too broad a place
 for events on one side to affect those hundreds
 of parsecs away, on Capital the Emperor and
 his court wanted to weave a narrative that cast
-the Imperium in a favourable light. The defeated
+the Imperium in a favorable light. The defeated
 fleets returned home to lick their wounds, rebuild
 the depots of Antares and Lishun and defend the
 empire from a growing list of enemies.
@@ -6686,7 +6686,7 @@ crowned Emperor and would reign for 49 years. The
 new palace was a grand structure with tall spires and
 glistening domes that invoked the medieval castles
 of Solomani fairy tales. It was supported on grav
-pylons 500 metres above the Imperial Park, the most
+pylons 500 meters above the Imperial Park, the most
 ambitious structure of its kind to date. The Emperor
 moved into the palace with great fanfare on Holiday of
 the year 200 as the citizens of the Imperium celebrated
@@ -6919,7 +6919,7 @@ bravado of the Imperium’s previous military adventures.
 The era was, historically speaking, unexciting. Imperial
 borders continued to expand, mostly via diplomacy.
 The Imperium would – a few centuries later – become
-embroiled in a Civil War. Many historians theorise that
+embroiled in a Civil War. Many historians theorize that
 without the stability and growth of the Porfirian Age,
 the Imperial experiment may have died an early death,
 becoming a mere footnote in the history of Humaniti.
@@ -7121,8 +7121,8 @@ copy of the data contained at the AAB on Vland as
 well as a cornucopia of additional data that had never
 been synchronised due to the intercession of the Rule
 of Man and the Long Night. They also discovered that
-Aadkhien was at the nominal centre of the Imperium
-and virtual centre of the galactic plane. As far as the
+Aadkhien was at the nominal center of the Imperium
+and virtual center of the galactic plane. As far as the
 scouts were concerned, it was destiny. They relocated
 the planet’s reclusive and xenophobic Vilani colony
 to a reservation world and remade Aadkhien into
@@ -7234,7 +7234,7 @@ as well, including pharmaceuticals, medical and
 surgical products, industrial chemicals, chemical and
 bacteriological weapons and geneered organisms
 for industrial and agricultural applications. Over time,
-SuSAG acquired an unfavourable reputation due to its
+SuSAG acquired an unfavorable reputation due to its
 
 History of the Third Imperium
 
@@ -7912,11 +7912,11 @@ After the dramatic crash of the palace of Martin II, a
 new one would have to be built. Arbellatra approved
 a design for a new Grand Palace and construction
 began immediately. The project was completed in 633.
-The Grand Palace of Arbellatra was a one-kilometre
+The Grand Palace of Arbellatra was a one-kilometer
 diameter sphere that floated above the Imperial Park
 
 using gravitic lifters. It looked down upon the grounded
-Palace of Martin II and stood 4.5 kilometres from the
+Palace of Martin II and stood 4.5 kilometers from the
 Moot Spire, whose peak reached just above that of the
 new palace. For a complete description of the palace,
 see The Grand Palace of Arbellatra on page 157.
@@ -7983,7 +7983,7 @@ dynastic emperors and fomented the Civil War in
 which each of the usurpers was of Solomani descent.
 Empress Arbellatra and her heir, Zhakirov, devised
 
-a seismic shift to the centre by promoting Vilani
+a seismic shift to the center by promoting Vilani
 nobles. If this was not a sure sign that the Imperium
 intended to establish greater balance, Zhakirov
 made it abundantly clear when he married Antiama
@@ -8245,7 +8245,7 @@ the Zhodani Consulate. For most of Imperial history,
 psionics had been looked upon as an oddity of sorts.
 While the practice of psionics was never fully embraced
 in the Imperium, there had been psionics clubs and
-psionicology university programmes since the age of
+psionicology university programs since the age of
 the Sylean Federation. Prior to the formation of the
 Third Imperium, there were even worlds governed by
 psionic leaders.
@@ -8268,7 +8268,7 @@ use of psionics. Were the markets fair or were they
 manipulated by telepaths and clairvoyants? Was it right
 for a powerful noble to use a psion to read the minds
 of his political adversaries or to manipulate public
-sentiment in his favour? Were the nobility the puppets
+sentiment in his favor? Were the nobility the puppets
 of psions? The practice of psionics, which had become
 an accepted, if somewhat obscure, part of Imperial
 society was now being questioned at all levels.
@@ -8292,7 +8292,7 @@ Imperium, anti-psionic fervour grew.
 In 800, Empress Paula II signed the first of 65
 suppression orders for all psionic institutes operating
 within Imperial space. All of the institutes were
-ordered to cease operations and training programmes
+ordered to cease operations and training programs
 immediately. The hysteria carried over the border into
 the Solomani Autonomous Region where a similar anti-
 psionic pogrom took place. By 826, all of the institutes
@@ -8318,7 +8318,7 @@ of archaeologists, historians and xenobiologists
 determined that their scattered populations were a
 single species. The fact that Droyne civilization was
 based on the use of psionics did not play in their
-favour. The IISS promptly interdicted the worlds of
+favor. The IISS promptly interdicted the worlds of
 Andor and Candory in the Five Sisters subsector of
 the Spinward Marches, which were considered to be
 possible homeworlds of the Droyne. The Imperial Navy
@@ -8340,7 +8340,7 @@ TRAVELLER
 CONSPIRACY THEORIES
 At the conclusion of the Psionic Suppressions,
 there were numerous conspiracy theories about
-who the ‘real’ culprits were. Many theorised that
+who the ‘real’ culprits were. Many theorized that
 the Zhodani were an all-too-convenient bad guy
 and that their base of power was far too remote to
 have infiltrated the Imperium so completely. Some
@@ -8389,7 +8389,7 @@ called Project Longbow or more accurately,
 LongBOW (Long Baseline Observation
 Window). The goal of the project was to
 create an immense radar telescope, 46 billion
-kilometres in diameter, with its collector plane at
+kilometers in diameter, with its collector plane at
 the Lishun Depot. The purpose of the elaborate
 device was to view the galactic core where
 the Zhodani had been sending expeditions for
@@ -8604,7 +8604,7 @@ Guard remained loyal to the Emperor but they were
 quickly defeated by the Aslan Guard who took point
 during the assault. Styryx, who was found hiding in a
 fresher, surrendered and consented to abdicate the
-throne in favour of his son, Gavin.
+throne in favor of his son, Gavin.
 
 Gavin’s first major act as Emperor was to
 commission the Scout Service to begin its Second
@@ -8829,7 +8829,7 @@ first administered the affairs of the domain from Muan
 Gwi, elevating the standing of the Vegans to new
 heights and then eventually moved her offices to the
 sector capital at Dingir. The manor of the Secretary-
-General on Terra was converted into a centre for
+General on Terra was converted into a center for
 diplomacy, dedicated to finding peaceful solutions to
 all of the issues that the Imperials and Solomani had
 with one another. Adair got started with the long and
@@ -8841,7 +8841,7 @@ the Imperial aegis.
 Adair formed the Vegan Autonomous District in
 1004, cementing the loyalty of a key Solomani Rim
 constituent and establishing a firm base of power in the
-centre of the sector. In 1005, the archduchess created
+center of the sector. In 1005, the archduchess created
 the Order of Muan Gwi, which was used to recruit
 honorable Vegans to the ranks of the nobility.
 
@@ -9321,7 +9321,7 @@ Iiradu system in the neighboring Dagudashaag
 sector. Restrained and conservative Apge has a
 difficult time wooing some of its more impressionable
 citizens away from Iiradu. The Apgeans are staunch
-traditionalists who favour a Vilani-style caste society
+traditionalists who favor a Vilani-style caste society
 in which everyone knows their place. Conversely,
 there is a great deal of economic mobility on Iiradu,
 both up and down the scale. The fact is most
@@ -9821,7 +9821,7 @@ Vilani-style bureaucracy reinvented itself as a key link
 between Vland and Core. While members of Apge’s
 ruling class have accepted their roles as Imperial
 citizens, the world has maintained a distinctively Vilani
-flavour. Galanglic is universally spoken but Vilani is the
+flavor. Galanglic is universally spoken but Vilani is the
 language of choice when not engaging with offworlders.
 
 Castell
@@ -9918,7 +9918,7 @@ eventually subsumed it into the cerebral biome of the
 Shingans to the point where they no longer had to
 imbibe it to achieve these effects. The shamans led
 the Shingan people in a revolt against the humans. It
-was theorised, but never proven, that the substance
+was theorized, but never proven, that the substance
 was only able to interact with the cerebral biomes of
 psionically talented Shingans. In 350, the Imperial Navy
 interdicted the world before the Shingans were able to
@@ -10141,7 +10141,7 @@ Apge but less well known elsewhere.
 Perite’s stellar density is spotty and includes several
 inconvenient gaps in its astrography. Tramp traders
 working their way into the lucrative Core market
-typically operate far traders or subsidised merchants
+typically operate far traders or subsidized merchants
 equipped with collapsible fuel tanks for crossing the
 empty space between its star clusters.
 
@@ -10616,7 +10616,7 @@ on the planet never managed to produce complex
 animal species but microbial life runs rampant in its
 oceans, seas and low-lying valleys. However, little of
 its native life may be found at an elevation of more
-than 1,000 metres. The planet has a dense, high-
+than 1,000 meters. The planet has a dense, high-
 pressure atmosphere with significant carbon dioxide,
 sulphur dioxide and hydrogen sulphide taints spewed
 from its dozens of active volcanos.
@@ -10919,7 +10919,7 @@ perite
 
 Corporate sponsors for ships making the Annililik
 Run want results. The _Empress Porfiria_ -class far
-trader has been optimised for efficient operation
+trader has been optimized for efficient operation
 during the event. Its two Gs of thrust enable it
 to get from the 100-diameter limit to starports or
 gas giants considerably faster than most ships.
@@ -11912,7 +11912,7 @@ achieved by questionable means.
 The bulk of the Imperial Navy’s 76th fleet is
 headquartered at Sekwon with squadrons stationed
 throughout the subsector. The Naval Base on Iidsha
-includes a training facility and operational centre
+includes a training facility and operational center
 for Imperial Naval Intelligence. While the INI are
 allegedly there to monitor incoming traffic from
 Antares and Fornast, they are presumably also
@@ -12456,7 +12456,7 @@ size, giving it a rotational period of about 12 standard
 days. The collision theory also explains the presence
 of a reasonably thick atmosphere and large amount
 of water, most of which is frozen to a depth of several
-hundred metres.
+hundred meters.
 
 Life on Dim is, well... not bright but the world does
 have some intrinsic value. It is located on the
@@ -12574,7 +12574,7 @@ welcomes visitors who are travelling along the Lishun
 Main but the downport scarcely rates a Class E facility.
 The scout base on the planet has its own Class B
 starport, complete with a service facility, small-craft
-manufacturing centre and refined fuel. The base is not
+manufacturing center and refined fuel. The base is not
 accessible to the public but detached duty scouts may
 use it upon request.
 
@@ -13407,7 +13407,7 @@ factors are considered as well. The makeup of
 the board can shift from day-to-day – sometimes
 hour-to-hour – which results in transition times
 that humans, even with cybernetic enhancements,
-robotic assistance, expert programmes, high-speed
+robotic assistance, expert programs, high-speed
 transportation and other technological aids are
 not always capable of making. For this reason,
 the ruling corporations have AI designates who
@@ -13521,7 +13521,7 @@ The most significant system in the subsector by far is
 Depot, which provides personnel, training, berthing and
 maintenance services for the Core Sector Fleet. The
 world of Depot Prime – or Uugnii, as the Vilani called
-it – is theorised to have been terraformed but never
+it – is theorized to have been terraformed but never
 settled by the Ancients. Perhaps even more fascinating
 are the ruins of a multi-world civilization on Adguu Uun,
 Guun and Mukiid. There is a body of evidence that
@@ -13567,7 +13567,7 @@ which was founded in 882. An initial eight-person team
 was put in place to study the anomalous gravity field
 of the system mainworld. While most of the planet has
 a consistent 0.45G, regions of Coppelia, ranging in
-size from 10,000 to 500,000 square kilometres, have
+size from 10,000 to 500,000 square kilometers, have
 been seen to fluctuate from 0.3 to 0.7G. These gravitic
 disturbances last anywhere from a few seconds to
 several hours after which the region slowly returns to
@@ -13848,7 +13848,7 @@ made its core spin to give it an electromagnetic field
 that it previously lacked, got it rotating so that it has
 a 36.7-hour day and brought in enough water to
 cover it with oceans and gases to give it a standard
-atmosphere. Scientists theorise that the project was
+atmosphere. Scientists theorize that the project was
 incomplete. Evidence indicates that they may have
 been preparing to thicken the atmosphere further and
 activate tectonic plates so islands might emerge out
@@ -13972,7 +13972,7 @@ recreational facilities are present for naval personnel
 on liberty and all sorts of entertainments and services
 are available. Over the centuries, the oceans have
 been stocked with fish and other sea life and fishing
-excursions are a favourite pastime.
+excursions are a favorite pastime.
 
 Despite the languorous aura at such facilities, the navy
 does its best to ensure productivity and engagement
@@ -14814,7 +14814,7 @@ and has hospitality facilities for millions of visitors
 who come to see the thousands of racing ships en
 route either to or from Vland. When not providing
 lodging and entertainment for fans of the race, the
-government subsidises these facilities, using them
+government subsidizes these facilities, using them
 to provide free housing for visiting traders and other
 Travellers. Ankod also provides complimentary
 refuelling for ships in the sub-1,000-ton range and a
@@ -14937,10 +14937,10 @@ for control of the planet.
 The Grand Palace of Arbellatra
 The Grand Palace is a grandiose structure, a tribute
 to the magnificence and power of the Imperium. At
-39-million tons and one kilometre in diameter, the sheer
+39-million tons and one kilometer in diameter, the sheer
 enormity of the palace never ceases to amaze visitors.
 The palace was completed in 633 after four years of
-construction. It is suspended half a kilometre from
+construction. It is suspended half a kilometer from
 the surface of Capital by a ring of gravitic suspensors
 emplaced below the grounds of the Imperial Park. The
 palace itself has backup gravitic drives within its hull
@@ -14967,9 +14967,9 @@ and power. The palace does all that and more.
 
 The central shaft of the palace contains the
 Imperial Gardens and aquarium, each of which are
-approximately 400 metres deep and contain flora
+approximately 400 meters deep and contain flora
 and fauna from places throughout the Imperium.
-Along the equator is a 25-metre wide promenade that
+Along the equator is a 25-meter wide promenade that
 encircles the entire palace sphere. The promenade
 has walkways, a tram and a narrow highway for
 small vehicles. Its inner wall is adorned with scenes
@@ -14999,7 +14999,7 @@ Onon
 Onon is an inhospitable world originally settled by
 the Vilani over 5,000 years ago. Among the planet’s
 many imposing features are high winds of over 350
-kilometres per hour, acid rain and poisonous gas
+kilometers per hour, acid rain and poisonous gas
 clouds emitted from porous and cracked volcanic
 plains. The final straw for the colony may have come
 when a violent shifting of the world’s tectonic plates
@@ -15221,7 +15221,7 @@ continents and highly unusual geography. Most of
 the accessible land on the world is in the form of
 high plateaus surrounded by sharp, craggy mountain
 ranges at the coasts that appear to jut upwards from
-the sea like daggers. At the centre of each continent
+the sea like daggers. At the center of each continent
 is a massive caldera, each of which was active
 approximately a million years ago but all of which are
 dormant now. The largest of the continents actually
@@ -15254,8 +15254,8 @@ in maintenance mode ever since.
 The syroc is an aerial reptiloid predator that hunts
 small- to mid-sized creatures on the surface of
 Syroe. An adult syroc measures approximately one
-and a half metres from head to tail and its leathery
-wings span from three to four metres, ending in
+and a half meters from head to tail and its leathery
+wings span from three to four meters, ending in
 sharp talons. Males and females use their talons
 for different purposes. Males use them to establish
 mating privileges and females to crack open hard-
@@ -15843,7 +15843,7 @@ a number of unusual characteristics that make it an
 extremely challenging environment.
 
 Indshiim Ganme is blanketed by nearly constant
-storms with winds that reach up to 1,200 kilometres per
+storms with winds that reach up to 1,200 kilometers per
 hour, scouring its land masses of all but a few hardy
 life forms. The primary factors are its axial tilt of 52o,
 rotation period of only six hours and proximity to its
@@ -15884,7 +15884,7 @@ its oceans made startling discoveries. The world is
 host to a plethora of advanced life forms, all of which
 live just beneath the surface of the water. The most
 advanced of these are an intelligent species of filter/
-scavengers that inhabit depths of 20–100 metres and
+scavengers that inhabit depths of 20–100 meters and
 appear to have achieved approximately TL1–2. The
 Syleans have named them the Ganmeids. Most of their
 structures were built in cavern systems on escarpments
@@ -15916,7 +15916,7 @@ shallows near the coasts and on sea mounts. They
 communicate by emitting high-pitched sounds when at
 a distance but typically resort to hand signals and other
 forms of non-verbal communication when within a few
-metres of each other.
+meters of each other.
 
 Kaskii
 
@@ -16021,7 +16021,7 @@ amount of mass from the smaller, making them what is
 known as a semidetached binary pair.
 
 Khiinra Ash is a massive moon with a diameter of
-nearly 17,000 kilometres and a gravity of 1.9G. It orbits
+nearly 17,000 kilometers and a gravity of 1.9G. It orbits
 its gas giant once every 63 hours, exposing both of its
 hemispheres to the twin stars of the system, thereby
 giving it some semblance of a day-night cycle. The moon
@@ -16193,7 +16193,7 @@ unclear whether the Ancients subjected them to any
 form of genetic engineering. Syleans are physically
 similar to Solomani humans with some minor
 differences. They are slightly taller with an average
-height of almost two metres. Their skin is very light,
+height of almost two meters. Their skin is very light,
 nearly white in some cases, while their hair colour
 is almost universally dark brown to black, creating
 a stunning contrast. Sylean eye colour tends to the
@@ -16920,7 +16920,7 @@ leading provider for mercenary companies throughout
 the Imperium, Instellarms was eager to become
 involved in the OMA. In return for sponsorship, the
 OMA gets reduced prices on all gear it requires as
-well as favourable lease terms for Broadsword -class
+well as favorable lease terms for Broadsword -class
 mercenary cruisers to transport troops.
 
 While the practice of employing strictly mercenaries
@@ -16937,7 +16937,7 @@ Major Grgic is a retired ex-mercenary and
 current regional manager for the bonding
 authority of the OMA. If the Travellers are
 mercenaries, he can get them the most
-favourable rates in the subsector on a
+favorable rates in the subsector on a
 repatriation bond. He is also well-connected
 with Instellarms and can hook them up with just
 about any weapons they want short of tactical
@@ -17084,7 +17084,7 @@ industrial world, Lishiruud, is located in the rimward
 portion of the subsector and sits upon a small jump-
 1 main where competing merchant companies run
 liners and megafreighters and operate a network of
-subsidised merchant routes in the surrounding markets.
+subsidized merchant routes in the surrounding markets.
 
 Innovation in Cemplas is fuelled by the Imperial Navy,
 which has ultra-high-tech research and development
@@ -17631,7 +17631,7 @@ they participate in the highport maintenance rotation.
 They converted two of the station’s four docking bays
 into a market bazaar, which visiting merchants use to
 trade speculative cargo with each other. Members of
-the co-op recently salvaged an abandoned subsidised
+the co-op recently salvaged an abandoned subsidized
 merchant, which they intend to refit and hire out to
 a crew, provided they limit their operations to the
 Lishiruud Cluster.
@@ -17683,7 +17683,7 @@ Heraldia
 Heraldia is a trinary system with three red dwarf stars,
 the largest of which is in distant circumbinary orbit
 around the smaller two, which orbit each other around
-a common centre of mass. There are two key worlds
+a common center of mass. There are two key worlds
 in the system: Heraldia and Gyga. Heraldia orbits Uli-
 Beta, the second largest star in the system, while the
 gas giant Gyga orbits Uli-Alpha, the largest of the three
@@ -17803,7 +17803,7 @@ to the contrary.
 Upon resurrection, most Khusgurluans embark upon
 a unique life experience, meaning they do not fill the
 same role or live in the same geographic location as
-their previous clone; however, a favourite pastime is
+their previous clone; however, a favorite pastime is
 looking into the Church’s extensive databases to see
 one’s past lives. The texts and holovideos are edited
 to convey the virtues of a duty-bound, pious lifestyle.
@@ -17844,7 +17844,7 @@ meticulous process.
 The Church of the Chosen Few is loyal to the Imperium
 and willingly subscribes to the notion that Capital is its
 political nexus; however, they believe that Khusgurlu is
-its spiritual centre and that the Imperium would greatly
+its spiritual center and that the Imperium would greatly
 benefit from adopting similar rituals. Missionaries from
 the Church are commonly encountered throughout
 the Core. While they do not invite offworlders to their
@@ -18123,7 +18123,7 @@ gas giants, which makes wilderness refuelling easy for
 visiting Travellers. The system primary is an orange
 subgiant, an immense star that has begun its long
 transformation process along the red-giant branch. While
-Anther is a small world, it is theorised that it once had a
+Anther is a small world, it is theorized that it once had a
 trace atmosphere and liquid water that evaporated away
 as its primary grew in size.
 
@@ -18901,7 +18901,7 @@ more involvement from the interstellar community.
 
 Of note, several of the psions at the Keep escaped
 the attack aboard a deep sea submarine. The
-marines were unable to pursue beyond 100 metres
+marines were unable to pursue beyond 100 meters
 of depth in their assault craft but did manage to
 fire weapons at the submarine and claimed that it
 was destroyed. Conspiracy theories abound that
@@ -19536,7 +19536,7 @@ the sophisticated and highly specialized augments,
 he can indeed detect a great deal about those
 with whom he communicates, including whether or
 not they are telling the truth and whether they are
-favourably disposed towards the Sovereign.
+favorably disposed towards the Sovereign.
 
 Dingtra
 
@@ -19765,7 +19765,7 @@ Located in the central chasm of Cadion, the Lia and
 Double Star Clusters are seldom visited by traders
 and only one system among them, L’rotuu, has
 planetoid belts and is therefore the only system to
-attract belters. Sharurshid has sponsored subsidised
+attract belters. Sharurshid has sponsored subsidized
 merchant routes in each cluster to explore their
 economic potential and has even installed a deep
 space refuelling depot in the empty space between
@@ -20262,7 +20262,7 @@ had only marginal resources of its own, its location
 on the trade route made it a key world. Over the
 millennia, the Ganshassians built atop the islands
 and seamounts, creating another 18 million square
-kilometres of surface area for habitation.
+kilometers of surface area for habitation.
 
 At its peak, Ganshas was host to over eight billion
 people, over half of whom died from the effects
@@ -20407,7 +20407,7 @@ Night
 Night is the origin world of the Oo-ne-beto-pon-tee
 or ‘the Whistlers’ as most humans call them. The
 Whistlers are a small species with an average mass
-of 25 kilograms and a length of 40–60 centimetres.
+of 25 kilograms and a length of 40–60 centimeters.
 They resemble large, fat and hairy caterpillars with
 up to 96 small legs, the front six of which are larger
 and more coordinated than the other 90.
@@ -20424,7 +20424,7 @@ crèche types until summoned by a matcher. Matchers
 use their well-developed olfactory senses to locate
 suitable males and females to mate and then match
 them with one another. Once found, they call them,
-sometimes over a distance of up to 20 kilometres, to
+sometimes over a distance of up to 20 kilometers, to
 travel to a designated location for mating purposes.
 Most calls are made at a frequency of 50kHz, so
 humans cannot hear them with the unaided ear.
@@ -20559,7 +20559,7 @@ High-frequency Communication and Perception: Whistlers can hear sounds from an e
 Cadion
 
 Reference
-Reference is located at the nominal centre of the
+Reference is located at the nominal center of the
 Imperium and is almost exactly on the central
 plane of the galactic disc. It is the administrative
 headquarters of the IISS and the primary data
@@ -20607,16 +20607,16 @@ but also to Core Research Station Alpha and the
 prestigious University of Aadkhien, which specializes
 in astronomy, physics, cosmology, planetology and
 sophontology. The capital city of Reference is called
-Encyclopaediopolis, the city centre including a grid of
+Encyclopaediopolis, the city center including a grid of
 towers, each of which representing an Imperial sector
 and organised in the same order that they are found
-in Charted Space. Each tower is one kilometre long,
-100 metres wide and a variable number of storeys tall,
+in Charted Space. Each tower is one kilometer long,
+100 meters wide and a variable number of storeys tall,
 
 depending on how much space is required to store the
 data, artefacts, heirlooms and samples for the sector
 it represents. Most towers are up to one and a half
-kilometres high. In some cases, the data and collected
+kilometers high. In some cases, the data and collected
 samples for several worlds can be contained on a
 single storey. In others, multiple storeys are required
 for a single world, such as Capital, Vland or Terra. Not
@@ -20624,7 +20624,7 @@ all data is publicly accessible and there are secure
 rooms and vaults that contain confidential information
 and materials, some of which have remained secret for
 centuries. The sector towers are separated by four-
-kilometre-wide spaces within which there are residential
+kilometer-wide spaces within which there are residential
 districts, shopping centres and other amenities.
 
 On the outskirts of Encyclopaediopolis, there are
@@ -21001,7 +21001,7 @@ like their chances against their oppressors. While
 Aursis has a significant technological advantage, the
 harsh desert environment of Okefir is not something
 Aursisian troops are used to and a war of attrition
-could come out in Okefir’s favour.
+could come out in Okefir’s favor.
 
 Headquartered at Aursis, the 150th Fleet consists of
 six squadrons and is heavily used as an instrument of
@@ -21675,7 +21675,7 @@ provinces focused on a unique industry. The largest
 ‘continent’ in the Gide (the word used for the planet’s
 worldwide ocean) is Lemuria, which consists of a series
 of cities built on seamounts and floating grav platforms.
-Lemuria is the primary processing centre for the Gidekis
+Lemuria is the primary processing center for the Gidekis
 fishing industry which, like most Gidekisian operations,
 is highly automated. Other continents are focused on the
 fishing operations themselves, aquaculture and deep-sea
@@ -21701,7 +21701,7 @@ prohibited worlds in Dunea subsector but have so far
 been unable to prove that anything is amiss. Despite the
 lack of a ‘smoking gun’, Aursis is pulling out all the stops
 to drive Gidekis into submission. Aursisian diplomats are
-attempting to curry favour with the government of Zimmel,
+attempting to curry favor with the government of Zimmel,
 which owns Gandar. Aursis wants Zimmel to force Gandar
 to expel Menderis’ manufacturing operations on the world
 if they continue to flout the embargo. Menderis provides
@@ -22167,7 +22167,7 @@ both the Sylean Federation and its successor
 state, the Third Imperium, and ultimately engaged
 in a 100-year war with both empires. After losing
 the war, Keshi became the cultural and spiritual
-centre of the Chanestin people and took on an
+center of the Chanestin people and took on an
 unexpected role: antiquities collector. Fearing
 that their culture would be erased from the pages
 of history, the disenfranchised Chanestin nobility
@@ -22738,7 +22738,7 @@ Senses, Large (+1)
 Behaviour Carnivore, Hunter
 
 The Khii Isis binary star system features two nearly
-identical red dwarves that orbit a common centre of
+identical red dwarves that orbit a common center of
 mass. Khii Isis is in a tidally locked orbit around the
 slightly larger of the two stars but has an unusual
 day-night cycle due to its occasional proximity to
@@ -23907,7 +23907,7 @@ six-fingered hand. Any of their digits can be made
 opposable to the others, giving the Ssienjhiovla
 heightened dexterity. They do not have a head;
 instead, their brain and sensory organs are
-located towards the centre of the trunk.
+located towards the center of the trunk.
 
 Ssienjhiovla do not hear well by human standards.
 The thin atmosphere of their homeworld does not
@@ -23917,7 +23917,7 @@ primary mode of communication is the excretion
 of various gases and pheromones from their
 porous upper bodies. Their olfactory senses can
 pick out a large array of smells simultaneously
-from a range of up to five kilometres. Reading a
+from a range of up to five kilometers. Reading a
 composite of emitted smells from their brethren
 and other natural odours gives them an almost
 clairvoyant sixth sense. When in visual range, the
@@ -23969,7 +23969,7 @@ Composite Imaging : On worlds with Atmosphere
 3–7, the Ssienjhiovla can use their senses to
 create a detailed composite image of events that
 occur out of visual range at a distance of up to one
-kilometre provided that they occur within the same
+kilometer provided that they occur within the same
 environment, similar to the psionic Clairvoyance
 talent. This ability does not work with events that
 occur within a sealed environment such as a
@@ -23977,7 +23977,7 @@ starship or behind a vault or airlock door.
 
 Non-verbal Communication : Ssienjhiovla can
 communicate with one another over a distance of
-up to five kilometres without the benefit of a radio
+up to five kilometers without the benefit of a radio
 or other device using their pheromone excretion
 abilities and heightened sense of smell.
 

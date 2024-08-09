@@ -4,41 +4,12 @@ date updated: 2024-07-31 12:08
 tags:
   - '#TODO'
   - '#UNFORMATTED'
-  - '#36]]).'
-  - '#31]]).'
-  - '#1'
-  - '#4'
-  - '#3'
-  - '#7'
-  - '#2'
-  - '#15'
-  - '#8'
-  - '#9'
-  - '#16'
-  - '#44'
-  - '#10'
-  - '#6'
-  - '#12'
-  - '#45'
-  - '#11'
-  - '#13'
-  - '#14'
-  - '#38'
-  - '#46'
-  - '#21'
-  - '#39'
-  - '#47'
-  - '#22'
-  - '#0,'
-  - '#18,'
-  - '#5'
 ---
 
-![[CT-TTA-COVER.jpg]]
+![[CT-TTA-COVER.jpg|100]]
 
-A Science Fiction Role-Playing Adventure
-
-When the crew of the merchant vessel March Harrier befriends a wolf-like alien Vargr in the underground city of Leedor, they have no reason to suspect that they are beginning a quest for the secret of a jeweled alien ornament...a quest that will take them to an asteroid mining settlement, to frontier trading stations, and to dozens of exotic worlds. But the ornament is intended for more than mere decoration, and the adventuring crew is soon marked by the extra-legal security apparatus of the giant Tukera Lines megacorporation. The crew and their Vargr companion need every skill at their disposal to discover the true secret of the ornament.
+> [!info]- Summary
+> When the crew of the merchant vessel March Harrier befriends a wolf-like alien Vargr in the underground city of Leedor, they have no reason to suspect that they are beginning a quest for the secret of a jeweled alien ornament...a quest that will take them to an asteroid mining settlement, to frontier trading stations, and to dozens of exotic worlds. But the ornament is intended for more than mere decoration, and the adventuring crew is soon marked by the extra-legal security apparatus of the giant Tukera Lines megacorporation. The crew and their Vargr companion need every skill at their disposal to discover the true secret of the ornament.
 
 # Introduction
 
@@ -65,7 +36,7 @@ One person (usually the one who has this book) is the referee. The referee is re
 
 Players have sometimes characterized the referee as a god. responsible for the creation and administration of the world and of the universe. In Traveller, this is not totally true—certainly the referee exists outside the bounds of the universe that the Travellers adventure in, but he or she is nevertheless limited by the rules and procedures of the game. Instead, think of the referee as an angel lor sometimes a devil who keeps tabs on the small party of adventurers and hovers over them, monitoring events as they happen.
 
-![[CT-TTA-029.jpg]]
+![[CT-TTA-029.jpg|200]]
 Traveller is the role-playing game of science fiction adventure in the far future. its essential rules are contained in The Traveller Book, Volume One of the Traveller bound book series. These same rules are also contained in other Traveller rules sets such as Basic Traveller. At a minimum. the referee should have a copy of the rules and be familiar with them. More conveniently, every player should have a copy of the rules. Then, everyone who wants to do something can do his or her own research into the ramifications of the rules and present cogent reasoning and references to the referee when the subject comes up.
 
 Despite the title of this book, it is a campaign. In Traveller terminology, a campaign is a string of adventures and encounters with a single thread or plot binding it all together. in order to assist the referee, a synopsis is presented later in this book. The referee’s familiarity with the synopsis will help greatly in understanding and presenting the entire campaign.
@@ -128,7 +99,7 @@ In the next two chapters, the Spinward Marches and the Aramis subsector are furt
 
 The first adventure will take the players on a tour of Aramis.
 
-![[CT-TTA-033.jpg]]
+![[CT-TTA-033.jpg|200]]
 
 # The Spinward Marches
 
@@ -187,7 +158,7 @@ The settlement map for 300 shows the progress of settlement in the Spinward Marc
 The settlement map for 400 shows the results of a flood of settlement from Deneb sector. The presence of jump-1 connections from Deneb made settlement from there easier than from Flegina. As a result, Aramis’ ethnic and cultural ties are with Deneb. not Regina or even Rhylanor.
 
 The settlement map for 500 shows settlement of Aramis to be virtually complete. The last worlds to be settled were Heguz, Focaline. Violante, and Zila. all unreachable by jump-1. Lablon and Corfu were not settled until nearly 600, after the time of this map.
-![[CT-TTA-041.jpg]]
+![[CT-TTA-041.jpg|200]]
 
 # Aramis Subsector
 
@@ -231,7 +202,7 @@ Ararnis subsector contains 26 worlds with a total popuiation of 31.3 billion. Th
 
 Notes: The column headed Name gives the worlds name. The four-digit number under Location is the hex number of the world on the subsector hex grid. UPF is the universal planetary profile. Codes under Bases indicate naval and scout bases; A indicates both a naval and a scout base: Windicates a scout way station. At the far right margin. G indicates that the system has one or more gas giants: A indicates that the world is an amber travel zone: R indicates that it is a red travel zone.
 
-![[CT-TTA-045.jpg]]
+![[CT-TTA-045.jpg|200]]
 
 ## WORLDS OF THE ARAMIS SUBSECTOR
 
@@ -307,7 +278,7 @@ After all this information is digested, the referee is ready for a synopsis of t
 
 The final section gives a brief analysis of the campaign's many elements and their game purposes.
 
-![[CT-TTA-051.jpg]]
+![[CT-TTA-051.jpg|200]]
 
 ## ASHKASHKURS PLOT
 
@@ -359,31 +330,43 @@ At this point, the adventurers have met Gvoudzon and have smuggled him and the b
 
 The following is a short description of all characters who encounter the adventurers more than once, or whose influence behind the scenes is or may become important
 
-![[CT-TTA-053.jpg]]
+### Aran Ashkashkur
+![[CT-TTA-053.jpg|200]]
 Aran Ashkashkur is the head in Aramis subsector of Tukera's covert operations agency, the Vemene. Amoral and devious (traits almost essential for anyone with his job) Ashkashkur has developed increasingly expensive tastes in life, to the point where his high salary is insufficient. For several years he has been embezzling moderate amounts from his department's budget; as his expenses have risen, it has become more difficult to conceal his crimes from the company. Now he plans one final theft. which should net enough to last the rest of his life.
 
-Jelika Chan (this name is merely the temporary alias by which the adventurers will know herl is Ash!-:ash|<ur's senior field agent, and one of the very few who are in on his entire plot. Chan considers espionage a game: she is thrilled by danger and proud of her talents; she enjoys proving her superiority to others by deceiving them, the more complex the deception the better.
+### Jelika Chan
+Jelika Chan (this name is merely the temporary alias by which the adventurers will know her) is Ashkashkur's senior field agent, and one of the very few who are in on his entire plot. Chan considers espionage a game: she is thrilled by danger and proud of her talents; she enjoys proving her superiority to others by deceiving them, the more complex the deception the better.
 
-![[CT-TTA-055-2.jpg]]
+### Roald Bulolo
+![[CT-TTA-055-2.jpg|100]]
 Roald Bulolo is director of Tukera’s operations in the subsector; he is also ex officio president of Akerut. Bulolo has risen far in Tukera's organization in thirty years with the company, and hopes to rise higher yet. He sees the entry of Oberlindes lines into the subsector as a major threat to his advancement and will use any means available to end the threat.
 
+### Marquis Leonard Holden-Tukera of Aramis
 ![[CT-TTA-055-3.jpg]]
 Marquis Leonard Holden-Tukera of Aramis, nineteenth of the line, is hereditary head of the government of Aramis (the world). This translates primarily into the ability to grant favors, concessions, or jobs. usually in return for a monetary consideration. Most of this is easily handled by a secretary, leaving the Marquis free for other pursuits. This is fortunate. for the Marquis is a useless profligate who spends most of his time enjoying his wealth and social position. The Marquis is married to the Lady Arianne Tukera, a member of the large Tukera family and heir to a large block of stock. Her connections have persuaded the Marquis to back Tukera’s attempts to maintain its position in subsector trade. He has also, from time to time, meddled in Tukera’s local business dealings, generally in an attempt to enforce his sense of fair play; Bulolo resents these incidents, which force him to spend valuable time convincing the Marquis that what Bulolo already wants to do is morally right (difficult because it usually isn’t; easy because the Marquis is gullible).
 
+### Dhurgeng
 Dhurgeng, a high-level officer of the Kforuzeng, is a Vargr of considerable and increasing charisma. He has been promised command of the Ozarr (the new ship being built to house one of the meson guns) and its supporting squadron, which will probably become the second most important position in the organization. Consequently, he is devoting his every effort to making certain that the sale proceeds without difficulty.
 Root Bannerji is captain of the far trader Wolb.-‘urn. He is not very bright, is extremely careless, and has a tendency to panic in stressful situations, making his business career a series of misfortunes, although Bannerji usually blames his "bad luck", enemies unknown, or the unfairness of the universe. He thus considers himself justified in anything he does to anyone else—-he's only evening the score. Bannerji's debts threatened to overwhelm him three years ago. and he started doing illegal jobs for Sternmetal Horizons; he is now employed full time in smuggling lanthanum for them.
 
+### Eneri Giilaan
 Eneri Giilaan is a lieutenant commander in the Imperial Navy, assigned to Naval Intelligence. He suspects that Sternmetal is engaged in something illegal. but has been told by superiors to drop the investigation. lsternmetal has influence in the government.i Giilaan, in patriotic defiance of orders, has been carrying on in secret and in his spare time. He feels that if he can obtain strong evidence, he can force his superiors to proceed. His main area of effort has been an investigation into the movements of Host Bannerji, whose carelessness has given Giilan a number of clues.
 
+### Marc hault-Oberlindes
 ![[CT-TTA-055-1.jpg]]
 Marc hault-Oberlindes. Baron Feri, is owner of E. Oberlindes Lines; he inherited . a small merchant corporation and has devoted most of his lmperium-wide megacorporation. Oberlindes Lines is based ; in the Regina subsector: present projects include increased trade with the Vargr Extents and further penetration of markets in the Aramis subsector. Oberlindes runs a paternalistic organization; he is extrerneiy loyal to his employees and expects unquestioned loyalty in return. Oberlindes delights in frustrating authority; for example, he once purchased a 60,000—ton lmperial cruiser, ostensibly for scrap. and then proceeded to put the ship (christened Emissary) into operation in the Vargr Extents; by fancy paperwork and by playing various groups of bureaucrats against each other. he was able to obtain the ship with its high—powered armaments intact, an action which is against Imperial policy but not strictly illegal provided the ship never enters the lmperium. Oberlindes also bears a grudge against the Kforuzeng. Several months ago, elements of the Emr'ssary’s crew attempted to take control of the ship and . ' "i sell it to the Kforuzeng, presumably at their instiga- ' tion. The mutiny was quelled with the aid of Arrianroughl, but Oberlindes’ son, Sergei, was iniured.
+
+### Arrlanroughl
 ![[CT-TTA-055.jpg]]
 Arrlanroughl had a long and successful career as emissary for the Thoengiing Emperor; his final mission was liaison with the Oberlindes trading mission aboard the Emissary. After the mutiny he was offered a high position in Oberlindes Lines; the Emperor, in order to strengthen his ties with Oberiindes, granted Arrlanroughl a release from service, and Arrianroughl has since become Marc hault-Oberlindes’ chief assistant. His personal ioyalties are to Oberlindes and to the Thoengling Emperor; in any conflict between the two he would be forced into a choice, but so far their interests have coincided.
 
+### Gustav Fireau
 Gustav Fireau owns Fireau et Fille, one of the largest wineries on Zila. Since the death of his wife some years ago, he has become extremely dependent upon his daughter, Lisa. Gustav devotes his time to the wine, assuring that the Fireau reputation for quality is upheld.
 
+### Lisa Firoau
 Lisa Firoau, hard-headed and sensible, runs the family business; it was her idea to break the firm's long-running exclusive export contract with Tukera Lines and attempt to gain Fireau its own interstellar markets.
 
+### Gharukh
 ![[CT-TTA-057.jpg]]
 Gharukh is a brilliant Vargr cryptographer recruited by Tukera Lines to head a business communication project. Originally affiliated with a corsair band, the Uekuez, she was drawn away by the promise of high pay, unlimited resources, and the ability to learn Imperial coding technology. She is almost the classical caricature of a scientist, interested in her work to the near exclusion of all else. Because of her work’s secret nature, there is little public recognition (very important to a Vargr), and she will greatly appreciate any accolade which her contributions to the field might earn. She currently has two other motivations worth noting: now considered a security risk, she is kept a virtual prisoner at Tukera's facility on Lewis and is searching for a way out; she also retains loyalties to the Uekuez, and would seek revenge if she were aware that they had been the object of a particularly bloody (and successful) takeover attempt by the Kforuzeng.
 
@@ -3956,7 +3939,7 @@ far back. in the hall, a familiar voice raises the bid to Cr260 per bottle. Denv
 
 The victor of the auction proves to be none other than Marc hault-Oberlindes: as he issues Lisa a check for the March Harrie-r's cargo, he comments that it was worth any price to see Tukera discomfited—especially when this plainly threatened their monopoly on Zilan wine exports. The total price for the wine is Cr54,250 per ton—10"/u of which will now go to March Harrier.
 
-Lisa, optimistic about the future for the first time, now proceeds to begin setting up local connections for further business at Aramanx, following up contacts with all of the merchants who attended the auction. She continues to stay aboard March Harrier, shuttling by launch to and from the starport each day.
+Lisa, optimiztic about the future for the first time, now proceeds to begin setting up local connections for further business at Aramanx, following up contacts with all of the merchants who attended the auction. She continues to stay aboard March Harrier, shuttling by launch to and from the starport each day.
 
 One evening, however, she fails to turn up at the starport docking bay to meet the launch.
 
@@ -5254,7 +5237,7 @@ Oberlindes Lines maintains a transport fleet ranging in tennage from 100-ton cou
 
 ### Cargo Carrier (type CT)
 
-Using the 100D~ton hull, the cargo carrier is a freight transport vessel. it mounts jump drive-0, maneuver drive-E, and power plant-Cl, giving a performance of jump-3 and 1G acceleration. Fuel tankage for 330 tons supports the power plant and one jump-3. Adja« centre the bridge is a computer l'viodell3. There are 20 staterooms and 10 low berths. The ship has ten hardpoints and ten tons allocated to fire control. installed on the hardpoints are 3 triple beam laser turrets. There is one ship's vehicle an airlraft. Cargo capacity is 409 tons. The hull is streamlined.
+Using the 100D~ton hull, the cargo carrier is a freight transport vessel. it mounts jump drive-0, maneuver drive-E, and power plant-Cl, giving a performance of jump-3 and 1G acceleration. Fuel tankage for 330 tons supports the power plant and one jump-3. Adja« center the bridge is a computer l'viodell3. There are 20 staterooms and 10 low berths. The ship has ten hardpoints and ten tons allocated to fire control. installed on the hardpoints are 3 triple beam laser turrets. There is one ship's vehicle an airlraft. Cargo capacity is 409 tons. The hull is streamlined.
 
 ![[CT-TTA-291-1.jpg]]
 

@@ -292,7 +292,7 @@ are four Imperial years (six Aslan years) each.
 The material on language gives some basic guidelines on names
 and words used by the Aslan. Players may wish to use Aslan names
 (if so, they are encouraged to pick relatively pronounceable ones!).
-There is no necessity for doing so, though it adds to the flavour and
+There is no necessity for doing so, though it adds to the flavor and
 atmosphere of the game.
 
 Even when names from the Aslan language are chosen, these are
@@ -1895,7 +1895,7 @@ profits equal to 1d6–5% of its assets per year. The character need
 not do anything to administer the corporation but may become
 involved if he wishes.
 
-Favours: Favours: Clan Shares can be kept in reserve and used to apply
+Favors: Favors: Clan Shares can be kept in reserve and used to apply
 political pressure to the clan in the future. A Clan Share can be spent
 to acquire a Contact in the clan’s upper echelons or to turn such a
 Contact into an Ally.
@@ -2063,7 +2063,7 @@ strongest male became the leader and his family received the best
 parts of kills, choice sleeping places and first drink at any waterhole.
 
 The Aslan which has evolved from those beginnings is, like humans,
-an upright biped averaging two metres in height and 100 kg in
+an upright biped averaging two meters in height and 100 kg in
 weight. There are two sexes: male and female, of which the most
 notable external difference is the male’s increased size and more
 impressive mane. Females outnumber males by a ratio of 3:1.
@@ -2607,7 +2607,7 @@ became subordinate to the winner or left to seek a new landhold
 for themselves. On large landholds, the losers became vassals to
 the winner and administered part of the landhold as their own.
 Primogeniture (the automatic passing of landholds to the eldest
-son) is a recent cultural innovation, having come into favour about
+son) is a recent cultural innovation, having come into favor about
 2300 to 2400 Aslan. Sons who do not inherit are ihatei (literally,
 second sons). With the development of starflight, ihatei became the
 vanguard of Aslan exploration and conquest of space.
@@ -2661,7 +2661,7 @@ An estate of
 considerable size,
 including a hunting
 forest of several
-square kilometres in
+square kilometers in
 extent.
 12-14 +2 Grand noble A vast estate, possibly
 covering an entire
@@ -2672,8 +2672,8 @@ Estates of size 9+ are usually partly sub-infeudated, where the ruling
 Aslan grants portions of his territory to vassal males.
 
 The physical size of a territory is important but so too is its economic
-importance. A Territory that consists of several thousand kilometres
-of airless moon is less prestigious than only a few kilometres of
+importance. A Territory that consists of several thousand kilometers
+of airless moon is less prestigious than only a few kilometers of
 a vibrant city. For a territory to be truly desirable, though, it must
 include space to run and hunt – the ruler of a city may be far
 wealthier than another noble whose territory is virgin wilderness
@@ -2737,7 +2737,7 @@ Kusyu into a planetary pressure cooker. Then, the development of
 the jump drive gave a fifth option.
 
 The young male may expand the Aslan Hierate by finding a new
-territory offworld. This is the route favoured by the Aslan in modern
+territory offworld. This is the route favored by the Aslan in modern
 times. The energies of hungry young males are redirected into
 
 exploration, into taming new worlds and into contacting new
@@ -2810,7 +2810,7 @@ worlds have fallen to the locust swarm of ihatei.
 
 The ihatei occupy a curious place in Aslan culture. They are seen as
 romantic wandering heroes and most Aslan popular entertainments
-centre around ihatei warriors and their retainers. The ihatei occupies
+center around ihatei warriors and their retainers. The ihatei occupies
 a place in Aslan society equivalent to the gunslinger or the ronin
 samurai; they are heroic outsiders, bad boys, honorable without
 being respectable. They have no formal political influence but
@@ -2988,7 +2988,7 @@ dress in silken robes and wear a heavy harness studded with jewels
 and precious metals.
 
 Aslan architecture and design tends to the organic and the rounded;
-there are few straight lines, just flowing shapes. They favour artistry
+there are few straight lines, just flowing shapes. They favor artistry
 over efficiency in the design of their buildings – every Aslan structure
 is different, with its own variations and surprises. Even in mass-
 produced housing, the residents will strive to make their territory
@@ -3105,7 +3105,7 @@ spell Kusyu as Kuzu in Anglic; Kilrai’ is often spelled Kilane.
 
 Kusyu orbits a close binary consisting of Tyeyo and its
 companion Saietaie. Saietaie orbits Tyeyo at 4.2 million
-kilometres with a period of about one eakhau.
+kilometers with a period of about one eakhau.
 
 Tyeyo is a G4 V star somewhat dimmer than and fractionally
 smaller than Sol. Luminosity is 0.77. Effective temperature is 5,600°
@@ -3118,7 +3118,7 @@ of its companion. Luminosity is 0.0003. Effective temperature is
 Kusyu orbits Tyeyo at 1 AU with a period of 320 standard days. It
 rotates on its axis once every 36 standard hours (one eakhau).
 
-Kusyu is 12,980 kilometres in diameter and has a standard
+Kusyu is 12,980 kilometers in diameter and has a standard
 atmosphere tainted with industrial pollutants. Sixty percent of
 the world is covered with water oceans. Kusyu has two major
 continents, both in the same hemisphere and both straddling
@@ -3129,8 +3129,8 @@ groups, cover about 15% of the total world surface.
 Kusyu has minimal axial tilt and orbital eccentricity. Average
 temperature for the world is about 9° C.
 
-Kusyu has two natural satellites, each about 400 kilometres in
-diameter orbiting at 51,000 kilometres and 96,000 kilometres
+Kusyu has two natural satellites, each about 400 kilometers in
+diameter orbiting at 51,000 kilometers and 96,000 kilometers
 respectively. Several artificial satellites, including two LaGrange
 stations, are also present.
 
@@ -3807,7 +3807,7 @@ Helu: Helu: Plains or fields.
 Helua:Helua: Hunting ground.
 Hisol’i:Hisol’i: Solomani.
 Hoaawli:Hoaawli: Warrior school or cult.
-Htahyu:Htahyu: Important place; capital or centre. Usually used to
+Htahyu:Htahyu: Important place; capital or center. Usually used to
 describe the seat of a clan or a family homestead.
 Htatei: Htatei: First son.
 Htoi:Htoi: Green.
@@ -3837,7 +3837,7 @@ ruled by an Aslan called Hwriayroko, who is THE Hwriayro.
 Ka’tai: Ka’tai: ‘It is fitting’, ritual response to many formal
 requests.
 Layeau: Layeau: Valley.
-Lu’uifakte:Lu’uifakte: Computer information centre or library.
+Lu’uifakte:Lu’uifakte: Computer information center or library.
 Rao: Rao: Food.
 Rukta: Rukta: Dishonorable deeds, such as treachery,
 assassination without first declaring a war of assassins,
@@ -4515,7 +4515,7 @@ never adopted the same reforms that the Tlaukhu went through
 several centuries later.
 
 Following the Cultural Purge, dozens of clans driven out of the
-Hierate made the crossing. Wishing to keep the favour of the
+Hierate made the crossing. Wishing to keep the favor of the
 Tlaukhu , the Ya’soisthea clans resisted attempts by these refugee
 clans to integrate into the existing Aslan worlds. Most of the refugees
 pressed on Spinward or Coreward, settling unexplored systems.
@@ -4623,7 +4623,7 @@ Despite their deep-seated antagonism to the Yerlyaruiwo, the two clans
 both represent the older side of the _Tlaukhu_ and so agree on many
 matters.
 
-SYOISUIS:SYOISUIS: A notoriously secretive clan, the Syoisuis favour spies
+SYOISUIS:SYOISUIS: A notoriously secretive clan, the Syoisuis favor spies
 and assassins over direct conflicts. They are also a deliberately
 moderate force in the _Tlaukhu_ , aiming for the middle ground in all
 matters to gather as many allies as possible.
@@ -4935,7 +4935,7 @@ clan’s comm is an insult. A clan comm costs Cr. 150.
 
 Slashpatch (TL6):Slashpatch (TL6): The slashpatch is a specialized bandage for
 treating dewclaw cuts. It glues the wound shut and releases
-painkillers and clotting agents at a rate optimised to deal with
+painkillers and clotting agents at a rate optimized to deal with
 slashing injuries. If a slashpatch is applied within one minute of a
 claw attack, it heals 1d6 points of damage. Obviously, the patient
 cannot regain characteristic points that were not damaged by the
@@ -5013,7 +5013,7 @@ next round. Only works on humanoids.
 
 YurletyaYurletya (Spear-Hook, TL2):(Spear-Hook, TL2): A combination of spear (at one end) and
 four-pronged grappling hook (at the other). The yurletya is 2,500
-mm in length and was a favourite duelling weapon of early Aslan
+mm in length and was a favorite duelling weapon of early Aslan
 cultures. It is still frequently used for ritual or ceremonial purposes.
 After any attack is made with the weapon, regardless of the result, a
 second attack may be made in the round at a –2 DM.
@@ -5294,7 +5294,7 @@ This Aslan main battle tank exemplifies the race’s fighting techniques. The ta
 has a crew of three – a male commander/gunner, a male driver and a female engineer/comms officer. The main weapons are a pair of turret-
 mounted plasma cannon and the tank also mounts several small anti-personnel weapons to deal with infantry.
 
-A more advanced design replaces the plasma cannons with a fusion cannon and removes the female officer in favour of a remote
+A more advanced design replaces the plasma cannons with a fusion cannon and removes the female officer in favor of a remote
 telecommunications link to base.
 
 ###### TANK 6,818,000 CR
@@ -5323,10 +5323,10 @@ Equipment: 100km Laser/Radio Comm, Advanced Military Sensors, Life Support
 
 ###### Grav Platform
 
-Grav Platforms range in size from personals discs one metre across to huge floating islands supporting whole cities. The Aslan appreciate
+Grav Platforms range in size from personals discs one meter across to huge floating islands supporting whole cities. The Aslan appreciate
 grav platforms and use them extensively on worlds capable of supporting them (TL11 for smaller platforms, TL14 for larger ones). Grav
 Platforms all consist of a slab of super-strong material supported by one or more anti-grav units similar to those used on grav belts. Power
-is provided from a battery or reactor mounted in the centre of the platform. Smaller grav platforms can be controlled by angling the body
+is provided from a battery or reactor mounted in the center of the platform. Smaller grav platforms can be controlled by angling the body
 forward and inclining the leading edge of the platform, allowing an agile user to alter course just by shifting his weight. Larger platforms
 have stability as a prime concern and so have more conventional controls.
 
@@ -5502,12 +5502,12 @@ common on smaller ships, where a smaller crew makes it more likely
 that an Aslan will have to perform duties commonly associated with the
 other gender. Ships built at TL13 or more always have reconfigurable
 controls throughout. The need to have dual mode controls often makes
-Intellect programmes very common on Aslan ships
+Intellect programs very common on Aslan ships
 
 Males dislike automated piloting and gunnery systems, so few Aslan
 ships come equipped with Evade programs. Aslan Fire Control
 programs, whilst costing the same and having the same rating as
-other Fire Control programmes, do not allow the computer to make
+other Fire Control programs, do not allow the computer to make
 attacks and only offer positive DMs to gunnery rolls.
 
 #### ASLAN STARSHIPS
@@ -6101,7 +6101,7 @@ Total Tonnage & Cost 172,404,900
 
 These heavy carriers are designed for invasions and open wars. If a _Sakhai_ appears in the skies over a world, then that world will be under
 the claw in a matter of days. The _Sakhai’_ s distinctive ‘horseshoe’ profile allows its ranks of beam and missile turrets to rake targets on either
-side, while protecting the fusion bay mounted in the centre. The normal crew consists of a captain, executive officer, 3 pilots, navigator, 4
+side, while protecting the fusion bay mounted in the center. The normal crew consists of a captain, executive officer, 3 pilots, navigator, 4
 engineers and 20 gunners.It can carry one hundred and sixty warriors in addition to its normal crew and there are another two hundred low
 berths for frozen troops or captives.While the _Sakhai_ is capable of landing on a planet, it takes a skilled hand at the controls and a dedicated
 team of engineers to keep the ship spaceworthy after a landing. A bad landing can warp the ship’s dorsal struts, crippling it. Many Aslan
@@ -6659,7 +6659,7 @@ off at various shrines and ancient battlegrounds along the way.
 ###### Rukt’hao Iaychi
 
 Required:Required: Streetwise, Investigate, Persuade.
-Reward:Reward: Cr. 1,000/day plus a favour from his clan.
+Reward:Reward: Cr. 1,000/day plus a favor from his clan.
 Player’s Information:Player’s Information: Iaychi is a rukt’hao , an Aslan law enforcement
 agent for hire. He is a hard-bitten, two-fisted private investigator
 who happens to be a seven foot tall space lion. His current cases
@@ -6779,7 +6779,7 @@ Pai may have survived down there, in the darkness...
 1. Hkeilu believes that the D’Gai Pai were more technologically
 advanced than the Aslan when first contact occurred and that in
 their zeal for conquest, her race destroyed scientific wonders.
-She has located what she believes to be a buried research centre,
+She has located what she believes to be a buried research center,
 protected by a series of security devices and robot guardians. She
 needs the characters to help her break into the facility.
 
@@ -7008,7 +7008,7 @@ the intricacies of Tlaukhu politics
 ###### Aslan Cities
 
 The defining element of Aslan cities is open space. All but the
-meanest homes are surrounded by at least a few metres of open
+meanest homes are surrounded by at least a few meters of open
 ground. Large structures are often supported on arches or at
 high tech levels built on floating platforms, leaving open ground
 beneath. The Aslan like to have room to run.
@@ -7024,7 +7024,7 @@ through the grounds of an Aslan civic structure or even a military
 base. There is very little distinction between ‘urban’ and ‘rural’ for
 the territory-loving Aslan.
 
-When a city covers thousands of square kilometres, an advanced
+When a city covers thousands of square kilometers, an advanced
 mass transit system is a necessity. Every Aslan city has an extensive
 light rail system, where fast-moving pods whisk passengers to their
 destinations. This rail system also carries cargo and livestock, sating
@@ -7441,7 +7441,7 @@ failed Second Imperium colonies, are the ferocious and fearsome
 Aslan, unrestrained by the Peace of Fthair.
 
 At least, that is the Imperial perspective. To the Aslan, the Trojan
-Reach is a feast they have only begun to savour. As far as the eye
+Reach is a feast they have only begun to savor. As far as the eye
 can see and the scout-ship can jump is a vista of worlds begging to
 be conquered. These are not lifeless, rocky wastelands – these are
 vibrant, rich worlds, living worlds. The Aslan know that expansion in
@@ -7562,7 +7562,7 @@ reputation as a haven of scum and treachery; a barbaric, chaotic
 region. This was largely accurate but the image of the sector as the
 ‘Outrim Void’, an irredeemable and downright wicked region of
 space, meant that when the Third Imperium expanded spinward
-they ignored the ‘dangerous’ Reach in favour of developing the
+they ignored the ‘dangerous’ Reach in favor of developing the
 Spinward Marches.
 
 ###### The Sindalian Empire
@@ -7608,7 +7608,7 @@ their alien masters for some time. The Floriani were the subject of a
 multi-generation experiment by the Ancients to produce specialized
 forms of Humaniti. The Floriani come in two forms – Feskals and
 Barnai. The Feskals were designed for strength and endurance; they
-are hulking brutes, standing more than two metres tall when fully
+are hulking brutes, standing more than two meters tall when fully
 grown, and capable of incredible physical labour. The Barnai were
 made to be supervisors and lab assistants. They are physically weak
 and underdeveloped but have huge heads and are highly intelligent.
@@ -8634,7 +8634,7 @@ the Florian League once every three months or so.
 The Florian League holds roughly a quarter of the sector. The worlds
 along their border – Heath, Viceroy and the Arhada domains of
 Arhada, Adhara and Hadara – are all protectorates of the League,
-having agreed to give extremely favourable trading rights to the
+having agreed to give extremely favorable trading rights to the
 Florians in exchange for defence. The Arhadans are the descendants
 of a colony that settled on a watery moon; they have a highly tribal
 culture, where respect for one’s kin and family is the highest virtue.
@@ -8715,7 +8715,7 @@ Unfortunately, the initial survey of Allemagne was incomplete – a
 species of lethal predator dwells in the deep jungles. These predators
 swarmed Burgundy in 865, overwhelming the Strend defences and
 devouring the population. Only a handful of ships escaped the
-slaughter, carrying tales of two-metre tall lizard-like humanoids with
+slaughter, carrying tales of two-meter tall lizard-like humanoids with
 a natural camouflage ability and enough intelligence or mimicry to
 use guns. Today, only the Allegmagne starport is detectable from
 orbit – all the other buildings are covered in thick jungle.
@@ -8843,13 +8843,13 @@ marble and steel. It is an art deco wonderland; it is engineering and
 science combined in tribute to thousands of years of Terran culture.
 Many of the buildings are copies of famous structures from Earth,
 rebuilt using Strend technology and vision. The _Tower Strend_ is a
-space elevator two hundred kilometres tall that is a precise scale
+space elevator two hundred kilometers tall that is a precise scale
 model of the old Eiffel tower on Earth.
 
 Unfortunately, the people of Strend are treated as little more than
 mobile adjuncts to these wonderful cities. Genetic and cybernetic
 engineering are commonplace – a child might be assigned his future
-role at birth and then physically optimised for that purpose. Strend
+role at birth and then physically optimized for that purpose. Strend
 cybernetics are both highly advanced and surprisingly beautiful,
 resembling sculptures more than prosthetics but aesthetics cannot
 excuse the crippling lack of freedom on Strend.
@@ -8874,8 +8874,8 @@ including spinal meson cannons of tremendous power.
 ###### Fomalhaut B510200-D
 
 The surface of this dry, lifeless world is criss-crossed by thousands of
-kilometres of artificial trenches. These trenches are all approximately
-six metres deep and ten metres wide and made of polished stone
+kilometers of artificial trenches. These trenches are all approximately
+six meters deep and ten meters wide and made of polished stone
 with a mirrored base. They form bizarre geometric patterns on the
 surface; most of these patterns can only be appreciated from orbit.
 Over 90% of the trenches are buried beneath layers of dust or have
@@ -8969,7 +8969,7 @@ Still, a colony of some twenty million people thrives here. The world
 was initially settled in the hope that it could be terraformed for easier
 access to its mineral resources. The terraforming effort failed but
 the industrious workers expanded the underground terraforming
-base. Today, Walei’s population dwell in thousands of kilometres
+base. Today, Walei’s population dwell in thousands of kilometers
 of buried tunnels. These are not mere shelters but beautiful wide
 avenues between vast open caverns.
 
@@ -9481,7 +9481,7 @@ the border, Pax Rulin are all militaristic marionettes, while the Gazulin
 are effete buffoons who have no idea how close they live to danger.
 
 Politically, Gazulin is balanced between the ‘Junction bloc’ in the
-centre of the subsector and the Gazulin/Mirage pair. Junction is
+center of the subsector and the Gazulin/Mirage pair. Junction is
 actually a minor member of the bloc but sits in the middle of a knot
 of rich industrial or agricultural worlds, making it a vitally important
 trade hub. Old Gazulin tries to retain its pre-eminence in the sector
@@ -9497,8 +9497,8 @@ While the official name of this planet is O’Keefe, after the Solomani
 explorer who first discovered it, millennia of linguistic drift has lead
 to the mangled pronunciation Ochkeefee. This world is mostly bog
 
-+ sea levels rose several metres in the past and are slowly receding,
-leaving behind thousands of square kilometres of stagnant, muddy,
++ sea levels rose several meters in the past and are slowly receding,
+leaving behind thousands of square kilometers of stagnant, muddy,
 worm-ridden bog land. Structures are built on tall stilts and the
 natives navigate the myriad shallow streams on flat-bottomed boats
 and rafts. There are few large cities on the planet; the largest is the
@@ -9508,7 +9508,7 @@ The fens of O’Keefe produce some useful fungi and a sweet-smelling
 moss that is used in luxury cosmetics. These items are gathered by
 the poor inhabitants and dried in long smokehouses before being
 sold through Stiltown. The chief threat to both this industry and the
-fensmen are the worms of O’Keefe, which grow up to six metres
+fensmen are the worms of O’Keefe, which grow up to six meters
 long and sometimes attack humans. The worms feed primarily on
 fungi but also instinctively kill animals to provide the rotting corpses
 that the fungal spores grow on.
@@ -9543,11 +9543,11 @@ drop shuttles. This punishment is reserved for the worst prisoners.
 ###### 627-301 E000120-A
 
 This highly restricted system is a mystery to the Imperium. The
-gravitational centre of 627-301 is not the main star; it is a tiny black hole
+gravitational center of 627-301 is not the main star; it is a tiny black hole
 that the sun orbits around. The research station orbits a gas giant that
 orbits the star. Computer projections show that this arrangement is not
 stable and that the star will be destroyed within half a million years. The
-black hole is believed by some to be artificial but others theorise that the
+black hole is believed by some to be artificial but others theorize that the
 singularity ‘collected’ the system as it travelled through space.
 
 ###### Neumann B876AA9-D
@@ -9764,12 +9764,12 @@ Florian researchers may ‘only’ be able to replicate TL15 devices using
 the Ancient manufacturing complexes and matter synthesisers but
 there are far more potent machines still functioning in the depths
 of the city. A teleport grid connects different regions of the city,
-allowing an individual to step across ten thousand kilometres as
+allowing an individual to step across ten thousand kilometers as
 easily as he walks across the room. Reactors draw power directly
 from the fabric of the universe, powering cyclopean machines
 that the Florians tend but do not understand. An Ancient warship
 + sentient and awesomely powerful – slumbers in a dock a hundred
-kilometres below the surface. It is from this vessel, not any crashed
+kilometers below the surface. It is from this vessel, not any crashed
 Aslan scout, that the Florians learned the secrets of Jump.
 
 Here, too, are the clone vats where new Floriani are produced,
@@ -9956,7 +9956,7 @@ ice caps provide some water for the famished population.
 
 In Norse myth, Yggdrasil was the world ash, a magic tree that
 supported the world. The World Ash of Yggdrasil is a space elevator:
-six thousand kilometres of carbon nanotube and glassteel that rises
+six thousand kilometers of carbon nanotube and glassteel that rises
 from a mountain on the equator into orbit. The royal family have
 their celestial palace on the counterweight atop the elevator. During
 the Sindalian Empire days, this space elevator and associated
@@ -10113,7 +10113,7 @@ Torrance as he fights to keep as many people alive as possible. He
 has a still-working spacecraft, an old scout ship from Dpres and
 plans to launch it to seek out help from other worlds. The solar
 activity is still so intense that the chances of a ship making it to the
-hundred-diametre jump limit without suffering severe damage to its
+hundred-diameter jump limit without suffering severe damage to its
 sensors are slim but without aid from offworld, Righteous John and
 his followers will be dead within a year.
 
@@ -10256,14 +10256,14 @@ artificial island bearing the planet’s spaceport and a few tiny islands too
 small to support any sort of civilization. The Thalassan cities are built on
 
 huge floating platforms of woven reeds, some of which are more than
-twenty kilometres across and support hundreds of thousands of citizens.
+twenty kilometers across and support hundreds of thousands of citizens.
 Thalassan technology is almost entirely organic – the waterworld is rich
 in life and the Thalassans have learned to use the alien biosphere to
 support their agriculture and industry.
 
 One of the chief Thalassan industries is snail farming. The sea-snails of
 Thalassa have been bred for size and strength and now grow up to six
-metres in length. Their shells are water-tight and strong as light steel and the
+meters in length. Their shells are water-tight and strong as light steel and the
 Thalassans have developed organic compounds allowing them to cut and
 bond the shell material much as other cultures cut or weld metal. Various
 forms of seaweed are cultivated for use as plastics, clothing, food or medicine.
@@ -10289,7 +10289,7 @@ might run low on food, so the Council of Cycles would arrange for
 food to be transferred along a chain of cities to one which will soon
 drift near the stranded community. The Council of Cycles effectively
 specializes in using weather and the mechanics of currents to
-optimise the planetary economy.
+optimize the planetary economy.
 
 Their experience of anticipating and co-ordinating events has given
 the Council of Cycles a talent for manipulation and subterfuge
@@ -10425,7 +10425,7 @@ the far side of the ash fields.
 The Emperor of Noricum dwells in a small hut and tends a vegetable
 garden. His ancestors once ruled a hundred worlds with an iron fist
 and a hundred miles from his garden there is a statue a hundred
-metres tall that bears his family features, the face permanently
+meters tall that bears his family features, the face permanently
 frozen into a cruel sneer. The Emperor of Noricum, though, has a
 simple smile on his face as he tends his turnips.
 
@@ -10517,7 +10517,7 @@ Tlaiowaha
 Tobia
 
 The planet is an unremarkable dustball, similar to Mars on a good
-day. The main urban centre, Blacksand City, is built on top of a series
+day. The main urban center, Blacksand City, is built on top of a series
 of plateaus linked by sealed walkways. Ships are landed out of sight
 in the chasms between the plateaus; bars and other entertainments
 are built into the sides of these chasms. Anything and everything is
@@ -10685,7 +10685,7 @@ policy – they randomly select people by lottery and throw them off
 the cliff. Despite these measures, Scaladon’s population continues
 to grow and the amount of inhabitable territory diminishes. There
 are skyscrapers a thousand floors tall built on plateaus barely fifty
-metres across, crammed with the devoted faithful.
+meters across, crammed with the devoted faithful.
 
 ###### Empire B679334-C
 
@@ -10936,7 +10936,7 @@ smuggler caches. There is no planetary government on Imisaa – the
 starport administrator is the de facto ruler of the planet.
 
 The Imisaa naval base is a prestigious assignment, one traditionally
-given to the heir to the Duke of Tobia or another favoured noble.
+given to the heir to the Duke of Tobia or another favored noble.
 In addition to providing escorts for trade convoys leaving for the
 Hierate, Imisaa base maintains a squadron of Jump-6 couriers on
 standby at all times, ready to jump for Tobia and alert the duke
@@ -10955,7 +10955,7 @@ population and is best known for the asteroids which were moved
 into position by an eccentric belter several centuries ago. These six
 nickel-iron asteroids have been sculpted and lasered and are now
 monuments to Imperial power. A ship heading to refuel at Fistport
-will pass a sixty-kilometre-wide mural showing the crowning of the
+will pass a sixty-kilometer-wide mural showing the crowning of the
 first emperor or the launch of the first jump-capable vessel from
 Vland. A seventh asteroid was sculpted, showing several notable
 human victories including the Peace of Fthair but was moved into
@@ -11131,7 +11131,7 @@ this distant subsector, they took this as the name of the subsector
 for their charts.
 
 Nora’a has several enviable agricultural zones – three major rivers,
-each of which has a flow of more than 200,000 metres per second
+each of which has a flow of more than 200,000 meters per second
 (comparable to the Amazon river on Terra), all empty into the ocean
 in a single massive river delta called the Trident, while the hills of
 the south are thickly forested with fruit trees. The Floriani have far
@@ -11411,7 +11411,7 @@ millennia.
 
 Oihyeti’he underwent a period of warming in the last fifty thousand
 years; its ice caps partially melted, causing a rise in sea level of
-approximately ten metres. The planet is more than nine-tenths
+approximately ten meters. The planet is more than nine-tenths
 covered in water but many of these seas are very shallow. The Aslan
 have found evidence that Oihyeti’he was inhabited before they
 colonized it; in some regions, ruined buildings emerge like weed-
@@ -12167,7 +12167,7 @@ Imperium/Hierate trade.
 The war shattered the Kingdom of Drinax. The other worlds had
 chafed under Drinax rule for years and the Drinaxians had resorted
 to the tactics of the Sindalian Empire of old, bombing planets to
-keep them in line. The Hierate returned the favour tenfold – Drinax
+keep them in line. The Hierate returned the favor tenfold – Drinax
 was nearly glassed by the Ahroay’if.
 
 The only surviving settlement on Drinax was the Royal Palace, which
@@ -12219,7 +12219,7 @@ is every chance the guide is spying on them.
 
 Akoaft is the site of an ongoing struggle between the Ahroay’if and
 the Hkaaiheir clans. The world itself is a low-resource cesspit with
-an ecology best described as ‘more breeds of slime and mould than
+an ecology best described as ‘more breeds of slime and mold than
 you ever dreamed existed’ and was never settled by any species. The
 war here is not for control of Akoaft – instead, it is a proxy war for
 the nearby Keaih system, currently held by the Htyowao, vassals of
@@ -12240,7 +12240,7 @@ set up an office here. The protection and stability offered by the
 corporate presence attracted more settlers from the war-torn
 Kingdom of Drinax and from other worlds in the
 
-Borderlands. Vorito rapidly expanded into a financial centre,
+Borderlands. Vorito rapidly expanded into a financial center,
 a place for human traders to gather on the edge of Aslan space.
 The Corporation invested in the planet’s infrastructure and today
 thousands of domed cities dot the planet’s surface. Increasingly,
@@ -12563,7 +12563,7 @@ glacier on top of an executive transport ship, trapping the corporate
 executives there until they agreed to negotiate.
 
 The approach to Argona’s starport is a harrowing one. The port is
-located in a huge artificial ice cavern some two hundred metres
+located in a huge artificial ice cavern some two hundred meters
 below the surface. Approaching ships must fight their way through
 the near-constant hurricanes and blizzards, then navigate down the
 right chasm in the ice and finally fly down a narrow borehole barely
@@ -12658,7 +12658,7 @@ the Jump-5 route across the Great Rift ends.
 Arriving at Ftyewirl is a confusing experience for pilots who do not
 know the system. Jump in and you can clearly see the dot of the
 mainworld on your screen – but the beacon from the starport is
-located millions of kilometres out. Ftyewirl Port orbits the fourth
+located millions of kilometers out. Ftyewirl Port orbits the fourth
 planet in the system, an uninhabited ocean world rich in hydrogen.
 Most ships dock at the port, refuel and jump out again without ever
 visiting the inhabited third planet.
@@ -12673,7 +12673,7 @@ be extremely cautious. There are approach lanes that are mostly clear
 but pilots are still advised to approach Ftyewirl at low speed.
 
 The planet bears the scars of millennia of pummelling. Huge craters
-scar all three continents; life within a kilometre of the seashore is rare
+scar all three continents; life within a kilometer of the seashore is rare
 and fragile because of repeated tsunami and the atmosphere is thick
 with dust. At night, the sky lights up as millions of meteorites streak
 through the upper atmosphere. The colony of some fifty thousand Aslan
@@ -12713,7 +12713,7 @@ and knows that everything from where he stands to the far horizon is
 his and his alone. Therefore, Ktolaihuihwouftairl could not claim his old
 social standing based on the underground base at Yekhtia.
 
-Fifty kilometres away from the starport, Ktolaihuihwouftairl discovered
+Fifty kilometers away from the starport, Ktolaihuihwouftairl discovered
 a wide crater left by some ancient asteroid impact. His engineers
 covered the crater with a tent of highly reflective foil and sealed the
 edges. The foil reflected most of the sunlight and insulated the valley.
@@ -12722,7 +12722,7 @@ environment within the crater viable for supporting Aslan life and the
 crater was wide enough to count as surface terrain. Ktolaihuihwouftairl
 could once again stand tall beside his fellow nobles.
 
-Since those days, another five thousand square kilometres of
+Since those days, another five thousand square kilometers of
 Yekhtia’s surface has been tented. The tent material is strong
 enough to hold in a thin atmosphere and can heal small cuts and
 holes automatically but the inhabitants are extremely paranoid
@@ -12881,7 +12881,7 @@ engineering and other topics without direct military applications.
 
 Deep beneath the surface of Aehahr is a second research facility,
 this one run solely by the Khaukhearl and their vassals. While
-relics of the fabled Ancients were found in Aslan space, the centre
+relics of the fabled Ancients were found in Aslan space, the center
 of Ancient activity is believed to be somewhere in the Spinward
 Marches and the Aslan have found far more traces of the Ancients
 on worlds coreward of the Great Rift. This second research facility is
@@ -12941,7 +12941,7 @@ some scattered lakes. 99% of Hkesuh’s water is either underground
 in vast aquifers or locked in the colonies of single-cell organisms
 that make up the entirety of the planet’s native biosphere. These
 hkesuhoates form reefs in the desert that stretch for thousands of
-kilometres.
+kilometers.
 
 The world is ruled by the Taukhaotuar clan, who arrived here in the
 wake of the Cultural Purge. The Taukhaotuar were driven out of the
@@ -13087,7 +13087,7 @@ Earlyu’s loss was a bitter pill for the Glorious Empire to swallow
 + the planet is rich in valuable resources, especially petrochemicals
 and an anagathic moss. _Ihatei_ warriors attacked the planet in 772,
 conquering over a third of its land area and establishing a new
-starport in the centre of the Great Swamp. The Khaukheairl clan
+starport in the center of the Great Swamp. The Khaukheairl clan
 saw the success of these _ihatei_ and offered to support their war in
 
 exchange for vassalage. In 801, the ihatei were made nobles of the
@@ -13305,7 +13305,7 @@ Ouiyloi is another world recently recaptured from the Glorious
 Empire. It was one of the Empire’s most productive agricultural
 colonies; Ouiyloi’s rolling farmlands were divided into thousands
 of small baronies and plantations. An Aslan manor house stood in
-the centre of each plantation. The slaver lords oversaw their human
+the center of each plantation. The slaver lords oversaw their human
 labourers using floating grav-platforms and skimmers. Produce
 from the farms was taken to the capital, Ouiy, using high-speed
 maglev trains. At least, that was before the war.
@@ -13349,7 +13349,7 @@ are likely to react with all-out war.
 Awaweaw is located at the fringe of Aslan space and is newly
 colonized by the Aslan. The world has a lush biosphere, dominated
 by titanic saurians, floating gasbag-like ‘sky jellyfish’ and aerial rays
-who have a wingspan of more than twenty metres and glide on
+who have a wingspan of more than twenty meters and glide on
 thermals. There is also a native sophont race, a species of scaled
 humanoids who had reached TL2 by the time the Aslan arrived.
 They call themselves the Yont and their world Yonta. There are
@@ -13483,7 +13483,7 @@ and crashed computers across the system.
 Aslan scientists ended up stripping away the rock by hand, as any
 directed energy discharge near the asteroid caused a lesser but still
 highly dangerous pulse. Beneath the rock, they found a pyramidal
-object roughly thirty metres on each axis. The object is made out
+object roughly thirty meters on each axis. The object is made out
 of a superdense substance that resists all attempts to damage or
 analyse it. There are 256 movable panels on each surface; each panel
 is marked with a glyph. Researchers suspect that the object can be
@@ -13586,7 +13586,7 @@ B
 
 Most Aslan bases on the surface are on artificial islands of ice,
 cut from the icebergs at the poles and chemically treated to resist
-melting. Some of these ice islands are hundreds of kilometres wide
+melting. Some of these ice islands are hundreds of kilometers wide
 and have lasted for centuries. Other bases are built in shallow water
 or on floating platforms.
 
@@ -13594,7 +13594,7 @@ There are also approximately a hundred thousand Aslan living in
 underwater habitats, who consider themselves the real inhabitants
 of Afeakter and often feud with the bureaucrats and corporate cats
 attached to the _Ya’soisthea_. The city of Owiykhtoih is the capital
-world and is located one hundred metres below the surface.
+world and is located one hundred meters below the surface.
 There is a large surface platform floating above the city, linked by
 flexible elevator tubes. The city is accessible by spaceship; visitors
 may either land on the surface and dock there or fly down a larger
@@ -13696,9 +13696,9 @@ blocked this trade route.
 
 Burgess colony was settled by exiles from the Kingdom of Drinax.
 The bizarre world is dominated by species of fungi – there are
-mushroom-like plants hundreds of metres tall in the fungal forests
+mushroom-like plants hundreds of meters tall in the fungal forests
 
-of Burgess. The ‘plains’ are covered in a thick carpet of mould. The
+of Burgess. The ‘plains’ are covered in a thick carpet of mold. The
 atmosphere is tainted with quadrillions of spores that can infest the
 lungs of a human; ‘bursting’ was the most common form of death
 among the first settlers. Burgess scientists managed to tame their
@@ -14270,7 +14270,7 @@ masters of other territories.
 
 #### CAMPAIGNS
 
-This section discusses campaigns that do not centre wholly on
+This section discusses campaigns that do not center wholly on
 Aslan affairs, but may include one or two Aslan Player Characters or
 have the Aslan race as a component.
 
@@ -14360,7 +14360,7 @@ Instead of having a mixed group of humans and Aslan, it is possible to run
 an all-Aslan campaign. This style of game allows the group to highlight the
 unique aspects of the Aslan race; territory and clan politics can play a central
 part of the campaign. It is also possible to run a standard Traveller game
-‘flavoured’ with Aslan culture, casting the Player Characters as traders.
+‘flavored’ with Aslan culture, casting the Player Characters as traders.
 
 ###### All Family
 
@@ -14409,7 +14409,7 @@ Emphasise:Emphasise: Animal brutality the constant danger of attack.
 Inspiration:Inspiration: The Kilrathi from Wing Commander.
 
 Characters. This means that the characters will be working together,
-but also competing for the clan’s favour. Ties of blood make inter-
+but also competing for the clan’s favor. Ties of blood make inter-
 party feuds and alliances much more interesting. The clan can be a
 long-term patron for the clan, much like the Clan Agents campaign
 idea.

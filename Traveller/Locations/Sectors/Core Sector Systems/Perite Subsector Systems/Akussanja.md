@@ -113,7 +113,7 @@ From [the wiki](https://wiki.travellerrpg.com/Akussanja_(world))
 From [[FTINVASIVE SPECIES|Invasive Species Adventure]]
 [[#Akussanja]] is a frigid world and the Travellers are going to need cold-weather clothing and gear to operate in the wilderness. Refer to Arctic and Cold Environments on page 43 of the Central Supply Catalogue for a listing of appropriate kit. In addition to any of the items listed in this section, their patron provides them with an allowance of Cr10000 apiece to acquire other items they might need.
 
-[[#Akussanja]] [[Downport]] is a utilitarian affair, designed to serve [[SuSAG]], the company that governs the planet and an array of subcontractor companies that provides services to the vastly larger megacorporation. The Scout Service maintains a base on the planet as well. The scout base was adjacent to the downport at one point in time but a falling out with [[SuSAG]] resulted in the scouts moving their operations to a new campus several kilometres away.
+[[#Akussanja]] [[Downport]] is a utilitarian affair, designed to serve [[SuSAG]], the company that governs the planet and an array of subcontractor companies that provides services to the vastly larger megacorporation. The Scout Service maintains a base on the planet as well. The scout base was adjacent to the downport at one point in time but a falling out with [[SuSAG]] resulted in the scouts moving their operations to a new campus several kilometers away.
 
 From [[Third Imperium]]
 

@@ -547,7 +547,7 @@ Total Tonnage & Cost 29.65 10.
 
 ## SPACE SURVEILLANCE CRAFT
 
-Where images of potential landing zones or information within an area of space are required, this high-tech surveillance craft is a favourite
+Where images of potential landing zones or information within an area of space are required, this high-tech surveillance craft is a favorite
 of task forces. It incorporates dozens of small cameras and sensors into its nose cone, all which feed data into the central signal processor
 for download upon the craft’s return to the host carrier or base. The space surveillance craft is a Technology Level 11 design.
 
@@ -647,7 +647,7 @@ Total Tonnage & Cost 79.79 30.129
 
 Not much to look at, few pilots would go out of their way to fl y an antique fl yer, but having some kind of fi ghter screen is better than none at
 all. This entry covers several individual types of antique fi ghter, such as the old Belter Moray-class, the long decommissioned Imperial Type
-AA Guardian, and the commercially designed Cutlass-class (a favourite to collectors for its sleek lines). The antique fighter is a Technology
+AA Guardian, and the commercially designed Cutlass-class (a favorite to collectors for its sleek lines). The antique fighter is a Technology
 Level 8 design.
 
 Antique Fighter Tons Price (MCr)
@@ -885,7 +885,7 @@ Total Tonnage & Cost 39.7 64.88
 
 ## INTERCEPTOR MK.III
 
-The standard mark III is a favourite of non-governmental forces, and is used by a great number of space-travelling mercenaries instead of
+The standard mark III is a favorite of non-governmental forces, and is used by a great number of space-travelling mercenaries instead of
 the light fi ghters. The interceptor is a Technology Level 11 design.
 
 Interceptor Tons Price (MCr)
@@ -991,7 +991,7 @@ Total Tonnage & Cost 99.95 42.82
 
 ## FAST TRADER, TYPE A3
 
-A stripped down version of the Far Trader, the A3 gives up some of its cargo space in favour of a more powerful drive and better manoeuvrability.
+A stripped down version of the Far Trader, the A3 gives up some of its cargo space in favor of a more powerful drive and better manoeuvrability.
 In areas where raiders or pirates lurk, this extra turn of speed can make all the difference.
 
 Normal crew consists of a pilot, navigator, engineer and 2 stewards. The fast trader is a Technology Level 11 design.
@@ -1078,7 +1078,7 @@ Total Tonnage & Cost 2,000 584.457
 
 ## MODULAR CLIPPER
 
-A favourite amongst organizations in need of a multi-purpose vessel, the modular clipper comes with a central section that can be changed
+A favorite amongst organizations in need of a multi-purpose vessel, the modular clipper comes with a central section that can be changed
 depending on the requirements of any mission. Keeping a few specialist mechanics on the crew means the clipper can be ready for a
 common trade run or a delivery into hostile territory after just a few hours of work in a dock or starport. Typical modules range from 25
 to 200 tons in size, but there is virtually no limit on what can carried within the modular space. On at least one occasion, an enterprising
@@ -1678,7 +1678,7 @@ Fire Control/5 Rating 25 10
 Used almost exclusively by merchant marines and planetary navies, the Q-Ship is a heavily armed mercantile vessel that falls somewhere-
 between trader and escort. It carries a squad of security personnel along with a small amount of cargo, making the Q-Ship perfect to
 ferry items and goods that require extra protection. What makes this vessel particularly dangerous to pirates is that it appears to normal
-scanning as a subsidised merchant (including a fake launch) and its weapons are hidden in pop-up turrets. For added combat effectiveness
+scanning as a subsidized merchant (including a fake launch) and its weapons are hidden in pop-up turrets. For added combat effectiveness
 fi ghter drones are occasionally used, replacing the ship’s boat.
 The crew consists of a captain, pilot, navigator, 2 engineers, 4 gunners/stewards and 10 security personnel. The Q-ship is a Technology
 Level 11 design.
@@ -1878,9 +1878,9 @@ The type M is used to ferry paying passengers from one place to another. Each ty
 comfortably in several staterooms, but many end up in low-cost berths to get from system to the next.
 
 The normal crew consists of a captain, 2 pilots, navigator, 2 engineers, 1 gunner, purser, medic and 3 stewards. Normally 51 passengers are
-carried, with 24 in low berths. The subsidised liner is a Technology Level 12 design.
+carried, with 24 in low berths. The subsidized liner is a Technology Level 12 design.
 
-Subsidised Liner Tons Price (MCr)
+Subsidized Liner Tons Price (MCr)
 Hull^600 Hull 12
 Structure 12
 
@@ -1928,7 +1928,7 @@ Total Tonnage & Cost^600 274.454
 
 ## DEFENCE FRIGATE
 
-The defence frigate is a favourite amongst subsector navies, able to bolster a system’s defence at short notice. It is designed with low jump
+The defence frigate is a favorite amongst subsector navies, able to bolster a system’s defence at short notice. It is designed with low jump
 capability in order to maximise performance in other areas. Its primary duties are in a policing role, dealing with opportunistic pirates,
 smugglers and raiders. In times of war, it will operate as an escort to supply convoys, acting in concert with larger vessels from the fl eet.
 Whilst not as manoeuvrable as an SDB and lacking the jump capability to keep pace with fl eet units, the defence frigate is still an effective
@@ -2234,7 +2234,7 @@ Total Tonnage & Cost^400 274.2
 ## BOMBARDMENT SHIP (SIEGE-CLASS)
 
 Originally designed for navies to use in smashing enemy ground forces, the Siege-class bombardment ship was quickly replaced by larger,
-more capable vessels. Few of these ships entered the order of battle, although some subsector navies favour them,
+more capable vessels. Few of these ships entered the order of battle, although some subsector navies favor them,
 
 Normal crew consists of a captain, pilot, navigator, 3 engineers and 6 gunners. The bombardment ship is a Technology Level 12 design.
 
@@ -2896,7 +2896,7 @@ Solar Sailing Yacht 20
 Space Control Router 8
 Space Surveillance Craft 17
 Strike Boat 32
-Subsidised Liner, Type M 80
+Subsidized Liner, Type M 80
 Suicide Drone 3
 Superiority Fighter, Type 7 34
 Systems Defence Boat (SDB) 92

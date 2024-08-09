@@ -70,7 +70,7 @@ ENCOUNTERS
 Dev Landrel 16
 HIGH GUARD
 Steppehauler Freighter 02
-Subsidised Merchant 32
+Subsidized Merchant 32
 Interceptors 76
 Incarnate Strike Destroyer 103
 Ambush Hunter-Killer Corvette
@@ -125,9 +125,9 @@ Vargr Extents, and eventually reach the Spinward Marches.
 ```
 
 ```
-The Steppehauler hull is a 14 metre diameter cylindrical tube with
+The Steppehauler hull is a 14 meter diameter cylindrical tube with
 spherical endcaps, able to land on worlds without a spaceport. From
-endcap tip-to-endcap tip, it measures 152 metres. The central 138 metres
+endcap tip-to-endcap tip, it measures 152 meters. The central 138 meters
 is a thin, flat spine flanked by two 500-ton hemicylindrical modules,
 covered by an armored clamshell during flight, with a retractable strip
 between the clamshell’s halves that grant module access to space. On
@@ -2343,7 +2343,7 @@ on such a world would be extreme and highly variable – living there
 would be a real challenge, although temporary camps might be set-up
 to extract minerals during the safer parts of the world’s orbit. Companion
 stars may both be orbited by a planetary system with the pair acting as
-the collective centre. This can lead to planets having complex orbits
+the collective center. This can lead to planets having complex orbits
 and variable amounts of solar radiation depending on the position
 of the companion star, which in turn can lead to extreme variance of
 conditions making native life unlikely.
@@ -3270,7 +3270,7 @@ deleterious effect on the body. There are also complicated dietary
 regulations, to assure an individual eats only those items that promote
 good health and maximum fitness. Most members of the Irklan are
 ascetic in the extreme, scorning money, power, technology and all the
-other traditional goals of other societies in favour of concentrating on the
+other traditional goals of other societies in favor of concentrating on the
 acquisition of merit by seeking out and overcoming challenges.
 
 In the absence of a code of religious morality, the personal morality of
@@ -3301,7 +3301,7 @@ the challenge it presents
 them. Irklansa killers
 are not the sort who use
 a sniper rifle from several
-hundred metres. A challenge
+hundred meters. A challenge
 requires that their victim
 be confronted directly and
 given a chance to resist in
@@ -3320,14 +3320,14 @@ escape death. This characteristic makes them extremely dangerous to
 police and security forces, and is the reason why the Irklan are careful to
 conceal their affiliation from government officials.
 
-Irklan tend to dress in dark colours, favouring black or dark shades of
+Irklan tend to dress in dark colours, favoring black or dark shades of
 green, blue and grey that disappear into the shadows. They will adopt
 local dress when it suits their purposes but not compromise their ability to
 fight or move freely with tight or over-fussy clothing, or needless frippery.
 They prefer not to be in direct sunlight; as a desert people they have an
 instinctive caution about the effects of being exposed to harsh sunlight.
 
-Irklan favour personal weapons such as knives and blowguns, often
+Irklan favor personal weapons such as knives and blowguns, often
 carrying several concealed blades. They have little use for (and openly
 scorn) technological aids, which includes firearms and advanced
 weaponry. Overall, they tend to be rather grim and may even appear
@@ -3376,19 +3376,19 @@ reliable old free trader plies the jump-1 mains seeking fortune and
 adventure, buying low and selling high, taking on passengers and
 picking up odd jobs along the way. The open-endedness of the tramp
 trader campaign has broad appeal but there is an intriguing alternative to
-the free trader that deserves its due; the subsidised merchant. Running
-a subsidised merchant campaign is similar to the tramp trader trope with
-some distinct differences and unique flavour.
+the free trader that deserves its due; the subsidized merchant. Running
+a subsidized merchant campaign is similar to the tramp trader trope with
+some distinct differences and unique flavor.
 ```
 
 ```
-The 400-ton Type-R subsidised merchant, affectionately known as a ‘fat
+The 400-ton Type-R subsidized merchant, affectionately known as a ‘fat
 trader’ or ‘subby’, has a cavernous 201-ton hold, consuming just a bit
 over half of the ship’s displacement. The hold is two and a half times
 that of a Beowulf-class free trader, enough to make a thrifty freelance
 merchant salivate at the potential profits that could be made. However,
 bigger ship means bigger expenses, putting the Type-R out of reach
-for most Travellers. For this reason, subsidised merchants are rarely
+for most Travellers. For this reason, subsidized merchants are rarely
 sold to independent traders. Instead, they are typically purchased by
 governments or corporations who then hire a qualified crew to operate
 them and the two parties share the profits.
@@ -3398,15 +3398,15 @@ them and the two parties share the profits.
 33
 ```
 
-Subsidised merchants were created to fill the gaps not addressed by
+Subsidized merchants were created to fill the gaps not addressed by
 megacorporate bulk freighters and independent free traders. Large
 freight lines tend to travel the main routes and free traders chase the
 biggest profits wherever they may be. Whilst these practices serve the
 majority of the population, they leave a significant minority underserved
-or even completely bereft of interstellar commerce. Subsidised routes
+or even completely bereft of interstellar commerce. Subsidized routes
 fill that void.
 
-The standard subsidised merchant contract includes the following
+The standard subsidized merchant contract includes the following
 provisions.
 
 ```
@@ -3421,12 +3421,12 @@ and berthing costs incurred by the ship.
 designated region 70% of the time. For the remaining 30% of the
 time, the crew may use the ship as they wish and in the region
 of their choice. However, they must have the ship back on its
-subsidised route before their time is up.
+subsidized route before their time is up.
 •  The owner receives 50% of all revenue, payable at any Class A,
 B, C or D starport.
 ```
 
-The crew of a subsidised merchant typically have shares in the enterprise.
+The crew of a subsidized merchant typically have shares in the enterprise.
 For example, a ship’s captain might have five shares, the pilot three and
 the engineer two with nominal or no shares given to other members of
 the crew. The crew constitutes a board of directors who make decisions
@@ -3446,7 +3446,7 @@ shared with the owner. Subsidy agencies often frown upon this practice
 but auditors rarely get involved unless the crew starts buying up large
 lots on an ongoing basis.
 
-The worlds visited by a subsidised merchant are usually underserved or
+The worlds visited by a subsidized merchant are usually underserved or
 off the beaten path. Most worlds will be within one parsec of each other
 to best utilise the ship’s jump-1 capability. When necessary, two-parsec
 
@@ -3466,23 +3466,23 @@ It merely has not been properly exploited yet, or so goes the thinking.
 ```
 
 ```
-Subsidised routes are sometimes purchased by outside parties. For
-example, should a freight line see potential in a subsidised route, they
+Subsidized routes are sometimes purchased by outside parties. For
+example, should a freight line see potential in a subsidized route, they
 might attempt to buy the route from the current owners. The more
 profitable the route, the more likely this is to happen.
 ```
 
 ```
-The standard arrangement has the crew plying the subsidised route
+The standard arrangement has the crew plying the subsidized route
 70% of the time, which comes to approximately 37 weeks out of each
 year. This leaves the crew only 15 weeks of independent operation per
 year. Crews may optionally amass credit with the subsidy agency by
-extending their subsidised tour. For example, in a given year, should the
+extending their subsidized tour. For example, in a given year, should the
 crew extend their tour from 37 to 50 weeks, they will build up 13 weeks
 of credit that they may add to their independent tour. In this scenario,
 the crew would have 28 weeks to operate the ship independently,
 giving them ample time to travel to a desired destination or region,
-engage in trade and then return to their subsidised route. Crews have
+engage in trade and then return to their subsidized route. Crews have
 been known to work long years of service to build up equity for a long
 independent tour. Most subsidy agencies put a cap of 80 weeks on the
 amount of independent operation time that can be earned but some
@@ -3493,7 +3493,7 @@ have no cap at all.
 
 ```
 The Trin’s Veil subsector of the Spinward Marches is a prime location
-for subsidised routes. The subsector is completely removed from the
+for subsidized routes. The subsector is completely removed from the
 Spinward Main, the vast jump-1 route that blankets much of the sector.
 However, the capital at Trin is the nexus of several small jump-1 clusters.
 One of these is the Bloodshot Cluster just to spinward of Trin. The cluster
@@ -3504,7 +3504,7 @@ that hang over the region like a pair of red eyes.
 ```
 The cluster features 11 worlds all within one parsec of each other.
 The Viscount of Edenelt enlisted the Lord of Hammermium and the
-Commandant of Katarulu to invest in a number of subsidised merchants
+Commandant of Katarulu to invest in a number of subsidized merchants
 to operate in the region; the trio would very much like to help develop
 the economies of their less well-to-do neighbors. In return for natural
 resources, foodstuffs and common goods, they hope to gradually
@@ -3550,12 +3550,12 @@ Zyra Ni – G
 ### USING SHIP SHARES
 
 If the conglomerate or corporation that owns the ship permits it, the
-Travellers can obtain more favourable terms in their contract by trading
+Travellers can obtain more favorable terms in their contract by trading
 in Ship Shares. In such cases, Travellers may spend Ship Shares to
 purchase a higher degree of route and revenue control.
 
 Route Control purchases provide additional weeks with which the
-Travellers may operate a subsidised merchant independently per year.
+Travellers may operate a subsidized merchant independently per year.
 For example, if the Travellers purchase 10 weeks of Route Control, the
 owner of the ship has 10 fewer weeks per year during which they dictate
 which systems are visited. This gives the Travellers considerably more
@@ -4153,7 +4153,7 @@ from its owner after several years of service.
 
 ### CREAM OF THE CROP
 
-Obtaining crew positions on a subsidised merchant is highly competitive.
+Obtaining crew positions on a subsidized merchant is highly competitive.
 Travellers are heavily vetted before they are even considered to crew
 such a ship. No subsidy agency is going to take a risk on a Traveller with
 a criminal history of any type. Travellers who have spent any time in the
@@ -4177,7 +4177,7 @@ led by qualified traders.
 ### MERCHANT CAMPAIGNS
 
 ```
-Campaigns based on the travels of a subsidised merchant are very much
+Campaigns based on the travels of a subsidized merchant are very much
 like tramp trader campaigns. The Travellers fly their starship from world
 to world, conducting trade and attempting to make a tidy profit. However,
 a free trader is just that – free. The Travellers own all or a portion of the
@@ -4186,10 +4186,10 @@ who they take as passengers and what cargo they speculate upon.
 ```
 
 ```
-Making a profit is of tantamount importance to the subsidised merchant
+Making a profit is of tantamount importance to the subsidized merchant
 captain as well but there is another goal that is equally important –
 establishing relationships. The more a subby crew gets to know its
-stomping grounds, the more successful they become. Subsidised
+stomping grounds, the more successful they become. Subsidized
 merchants operate in regions ripe for economic development.
 Conditions for trade are often less than ideal and the Travellers’ choices
 are narrowed to a specific set of worlds. Making a profit under these
@@ -4200,7 +4200,7 @@ about knowing the game.’
 ```
 On a free trader, you might keep on moving and never look back,
 trading as you embark upon a grand tour of a sector and beyond. On
-a subsidised merchant, the Travellers spend the majority of their time
+a subsidized merchant, the Travellers spend the majority of their time
 making the rounds and getting to know the worlds and people of a region
 until they become intimately familiar. The denizens of the starport bar on
 Zyra know the entire crew by name. The scouts at the base on Conway
@@ -4210,7 +4210,7 @@ the Travellers and wants to know how ‘our little project’ is going.
 ```
 
 ```
-The subsidised merchant campaign is very much about treading over
+The subsidized merchant campaign is very much about treading over
 familiar ground and being an agent of change in a little corner of the
 sector. This type of campaign also has a built-in device to mix things up
 and change the pace; independent tours. After their obligations to the
@@ -4384,7 +4384,7 @@ be reward. Which brings us to our next topic...
 ```
 A truly great tramp trader campaign can be given a 6-G rocket boost if it
 has great NPCs. The Travellers should have a tight relationship with their
-favourite starport bartender, startown informers and speculative cargo
+favorite starport bartender, startown informers and speculative cargo
 ```
 
 ```
@@ -4411,7 +4411,7 @@ are just a few ideas for starters:
     goods? Aspiring merchant princes will not rest until they know how
     they are being outperformed.
 - Old friends from another crew have ‘graduated to the big time’, moving
-    up from a free trader to a subsidised merchant. The Travellers look on
+    up from a free trader to a subsidized merchant. The Travellers look on
     with jealousy at that 201-ton cargo hold and the potential for wealth
     it portends, encouraging them to seek out a similar arrangement.
     Meanwhile, they find out just how tough it is to move up to the next
@@ -4454,7 +4454,7 @@ ships’ brokers make opposed checks to obtain the precious cargo. The
 Travellers should be encouraged to come up with inventive or devious
 task chains to get the jump on the competition. The tramp trader campaign
 is a dog-eat-dog world and having Travellers compete for success will
-add richness and flavour to the game whether they win or lose.
+add richness and flavor to the game whether they win or lose.
 ```
 
 ```
@@ -4494,7 +4494,7 @@ human standards and the ice crawler is a good example of Furioso’s
 unique biology.
 
 Ice crawlers have flat, low-slung bodies, reminiscent of a Terrestrial
-caterpillar in shape, measuring some three metres in length and
+caterpillar in shape, measuring some three meters in length and
 suspended between five pairs of jointed, exoskeletal legs. An eleventh
 ‘leg’ extends behind the creature; each leg ends in a polydactyl foot
 padded with microscopic grippers that ensure firm footing on any surface
@@ -4534,7 +4534,7 @@ unexpected results. This reaction serves as a chemical ‘pick-me-up’ (as
 one observer put it) that can send the usually torpid animal thundering
 across the ice in random directions at unexpectedly great speeds (swap
 the Slow Metabolism (-3) trait for Fast Metabolism (+2) and increase
-Speed to 8 metres). Over the ages, however, some species developed
+Speed to 8 meters). Over the ages, however, some species developed
 an even more unique method of using oxygen liberated during the
 breakdown of silicon from ingested rock. These creatures can store
 oxygen in nearly pure form. When threatened or frightened, they can
@@ -4547,7 +4547,7 @@ of scientists studying the animals.
 
 ```
 This most interesting defence mechanism was developed as a protection
-against another of Furioso’s life forms, the metre-long predatory
+against another of Furioso’s life forms, the meter-long predatory
 carnivores known popularly as ice spiders. These vicious pack-hunting
 carnivores are virtually identical in body chemistry but metabolise other
 life forms, rather than rocks, for supplies of carbon, oxygen and silicon.
@@ -4749,7 +4749,7 @@ planet-wide panic.
 
 ```
 Almost a week ago Brufort’s Spacewatch satellite array detected a 50
-kilometres wide asteroid coming into the system from high out of the
+kilometers wide asteroid coming into the system from high out of the
 ecliptic on a collision course with the mainworld. Initial calculations had
 the enormous bolide making impact within 10 days. An impact from
 a body of its size would cause titanic tsunamis, firestorms, an impact
@@ -4798,7 +4798,7 @@ cataclysm. Situations like these can bring out the worst in people and
 the Travellers witness a sickening degree of cowardice and desperation.
 It might provide some degree of consolation for them to note that the
 president herself intends to ‘go down with the ship’ and does not request
-any special favours. She merely wants their help to save her planet and
+any special favors. She merely wants their help to save her planet and
 its people.
 
 ### DEFLECTION
@@ -4914,9 +4914,9 @@ to deflect the asteroid in the Time to Impact table.
 54
 
 ```
-The asteroid is travelling at a rate of about 30 kilometres per second or
-108,000 kilometres per hour toward the planet at a distance of 10,368,
-kilometres as the Travellers’ arrive in the system. Use this information to
+The asteroid is travelling at a rate of about 30 kilometers per second or
+108,000 kilometers per hour toward the planet at a distance of 10,368,
+kilometers as the Travellers’ arrive in the system. Use this information to
 determine travel times to and from the asteroid for the Travellers’ ship.
 ```
 
@@ -6199,7 +6199,7 @@ as Mora, or even Trin, in order to force us to deploy there. The likely
 outcome of this plan is at least the loss of key worlds throughout the
 Jewell, Regina, Lanth and Lunion subsectors, with a real possibility that
 our reinforcements will be defeated so soundly that we lose Mora as well
-or have to negotiate an unfavourable peace to avert catastrophe.
+or have to negotiate an unfavorable peace to avert catastrophe.
 
 ### CONCLUSIONS
 
@@ -6251,7 +6251,7 @@ decent galley and a few odd corners useful for stowage of small items.
 ```
 
 ```
-Armament is typical of small patrol craft, with a pair of 25 millimetres
+Armament is typical of small patrol craft, with a pair of 25 millimeters
 light autocannon in a dual mount forward and a quad-mounted light anti-
 air missile launcher aft. Both are remotely controlled from the craft’s
 tiny bridge. Each of the open bridge wings mounts a general-purpose
@@ -6354,7 +6354,7 @@ could sink several ships from beyond the range of their guns, making
 the investment less attractive. Balkanised-world governments intending
 to fight a war in distant waters may require true warships but for the
 most part defensive craft are a more cost-effective option. Manoeuvring
-at almost 250 kilometres per hour in calm waters, missile hydrofoils are
+at almost 250 kilometers per hour in calm waters, missile hydrofoils are
 virtually unhittable with conventional guns.
 ```
 
@@ -6368,7 +6368,7 @@ guiding and the launching craft withdraws at high speed.
 ```
 
 ```
-For general patrol work, a 25 millimetres autocannon is mounted on a
+For general patrol work, a 25 millimeters autocannon is mounted on a
 remote controlled turret forward of the bridge/control space and there
 are machineguns on the bridge wings. Self-defence capability is limited
 to decoys and high speed for major threats, and light composite armor
@@ -7978,7 +7978,7 @@ weapons. The Spearwall system is designed to make orbital-defence
 available to as wide a range of users as possible. The system is built
 around the Spear missile, a starship-grade weapon modified for launch
 from ground-based platforms. On small worlds, Spear missiles are
-often used in their basic configuration but the Longspear is favoured by
+often used in their basic configuration but the Longspear is favored by
 governments of larger planets.
 
 Longspear missiles have an extra stage added to their bus, increasing
@@ -8156,7 +8156,7 @@ use the same means of getting around as the locals. There is also a
 possibility that, away from the starport, little or no provision is made for
 non-native species. This is unlikely to be due to racism as such; it is
 more that budgets are always limited and whilst it may be desirable to
-make portside transportation useable, a city 4,000 kilometres away that
+make portside transportation useable, a city 4,000 kilometers away that
 receives a handful of offworld visitors in any given decade is unlikely to
 spend money on making its rail net Virushi-friendly.
 ```
@@ -8768,7 +8768,7 @@ Glisten subsector fleet.
 
 ```
 Mertactor itself is habitable enough but lacks the mineral resources to
-be a major industrial centre. In addition to being fairly small, the world’s
+be a major industrial center. In addition to being fairly small, the world’s
 composition is primarily lighter minerals, resulting in low surface gravity.
 Despite this, Mertactor is rated as having a standard atmosphere. This is
 true at sea level but sea level is rather low on this world.
@@ -8886,7 +8886,7 @@ extracting what is needed then discarding the remainder.
 
 ```
 One method used is to strip-mine a promising area down to the depth
-of a kilometre or more. This sort of operation would not be possible with
+of a kilometer or more. This sort of operation would not be possible with
 ground vehicles but gravitic ore barges can lift huge quantities and carry
 it to the processing sites. There is always employment for skilled and
 careful grav pilots alongside the usual array of machinery operators,
@@ -8939,7 +8939,7 @@ only a small proportion descends to Mertactor’s surface.
 The orbital port is a large installation, with subdivisions according to
 function. A portion of the station is taken up with facilities for the world’s
 system protection flotilla. Not coincidentally this is located next to the
-private section reserved for the ruling elite and a small number of favoured
+private section reserved for the ruling elite and a small number of favored
 merchant ship and liner operators. The ‘Imperial Quarter’ of the station
 is in fact its largest component, serving trade ships from Glisten and ore
 transport shuttles from planetside. The ‘Border Quarter’, as it is known,
@@ -8949,7 +8949,7 @@ on vessels crossing into or out of the Imperium.
 ```
 
 ```
-Mertactor’s highport is a favoured entry point to the Imperium for
+Mertactor’s highport is a favored entry point to the Imperium for
 legitimate and large-scale commercial traffic, not least because
 its checks are stringent. A vessel that can show it came in through
 Mertactor will avoid further checks deeper in the Imperium, whereas
@@ -9092,11 +9092,11 @@ despite this occupying a hand and limits tasks that can be carried out.
 ### 115
 
 Performance is similar to a civilian unit –
-top speed is around 300 kilometres per
+top speed is around 300 kilometers per
 hour (High) in a standard atmosphere
 but this is unpleasant for the user even
 when wearing an enclosed helmet. Nap-
-of-Earth speed is officially 40 kilometres
+of-Earth speed is officially 40 kilometers
 per hour (Very Slow) but this is a safety
 
 Item TL Kg Cost
@@ -9110,7 +9110,7 @@ Transport Device
 
 limit set by the programmers of the control software. An override is
 provided, allowing the user to fly at top speed if desired but since hitting
-almost anything at over 100 kilometres per hour is likely to be both messy
+almost anything at over 100 kilometers per hour is likely to be both messy
 and fatal, sticking to the programmed limit is advised.
 
 Where the Scout Service grav belt differs from the standard civilian model
@@ -9148,7 +9148,7 @@ plates similar to those used aboard starships, although much lighter
 and less robust. These more or less cancel the motion of the vehicle,
 ensuring a smooth ride under almost any conditions. A ring of lights on
 the rim of the tube allows illumination of the ground around the tube, with
-a more powerful directional light in the centre of the ring.
+a more powerful directional light in the center of the ring.
 ```
 
 ```
@@ -9183,12 +9183,12 @@ The canopy takes the form of an elongated bubble, with little room for
 the occupants. Two Travellers can fit inside wearing light vacc suits –
 TL12 and above – along with a few small items. The canopy is very
 light and offers little resistance to damage. It is sufficiently well sealed
-to allow operation down to 15 metres underwater, after which the door
-seals will start to leak. At around 30 to 50 metres, the seals will fail
+to allow operation down to 15 meters underwater, after which the door
+seals will start to leak. At around 30 to 50 meters, the seals will fail
 completely. However, scouts wearing underwater breathing gear can
 use the tube as an underwater transport platform with the door left
 unsealed. The unit’s systems are, in theory at least, impervious to
-water down to 100 metres or perhaps more. However, this application
+water down to 100 meters or perhaps more. However, this application
 is considered inadvisable and generally discouraged.
 
 The grav tube’s batteries are good for around 120 hours of low-speed
@@ -9219,7 +9219,7 @@ The primary purpose of vehicles of this sort is reconnaissance and
 surveying. The advanced sensor package can automatically generate
 highly detailed maps including information on air pressure and
 temperature, received sunlight and similar data, even when transiting
-at several hundred kilometres per hour. The passenger can direct the
+at several hundred kilometers per hour. The passenger can direct the
 sensor package or use hand-held equipment stowed in lockers at the
 side of the fuselage. Bikes can also deliver a ground team or move
 them from one location to another very rapidly.
@@ -9306,7 +9306,7 @@ A number of air/raft designs are used by the IISS, many of them standard
 civilian designs painted grey and given a new logo. However, some
 applications require an advanced-capability vehicle. The IISS thus
 commissioned a variant of the Ling-Standard Products Venture 400 four-
-seat air/raft for its own use, assigning licenses to favoured companies to
+seat air/raft for its own use, assigning licenses to favored companies to
 produce these vehicles to the highest standard.
 ```
 

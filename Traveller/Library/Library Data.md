@@ -93,7 +93,7 @@ The creatures reproduce by depositing egg sacs in hollows in trees. The larval l
 
 # Llellewyoly
 
-The Llellewyoly are a minor race native to Junidy in the Aramis subsector of the Spinward Marches. They are nicknamed ‘Dandelions’ or ‘Dandies’, as they resemble a two-metre-tall version of a Terran plant, with five stalk-like limbs that are used for manipulation, movement and sensing. Llellewyoly are highly intelligent and have excellent memory recall and organizational skills, possibly as a result of their incredibly complex social structure. A Llellewyoly possesses dozens of formal titles simultaneously and addressing it by the wrong title is a grievous insult. They are rarely encountered outside their homeworld.
+The Llellewyoly are a minor race native to Junidy in the Aramis subsector of the Spinward Marches. They are nicknamed ‘Dandelions’ or ‘Dandies’, as they resemble a two-meter-tall version of a Terran plant, with five stalk-like limbs that are used for manipulation, movement and sensing. Llellewyoly are highly intelligent and have excellent memory recall and organizational skills, possibly as a result of their incredibly complex social structure. A Llellewyoly possesses dozens of formal titles simultaneously and addressing it by the wrong title is a grievous insult. They are rarely encountered outside their homeworld.
 
 # Maleficent
 
@@ -139,7 +139,7 @@ The theory that Humaniti originally evolved on the planet of Terra, the home of 
 
 # Startown
 
-The region around the old Regina starport, now the primary downport. This strip of bars, cheap hostelries, raucous entertainments and less savoury businesses is notoriously violent, corrupt and profitable. Technically, it is divided between the nearby cities of Credo and Atora; both blames the other for the state of Startown.
+The region around the old Regina starport, now the primary downport. This strip of bars, cheap hostelries, raucous entertainments and less savory businesses is notoriously violent, corrupt and profitable. Technically, it is divided between the nearby cities of Credo and Atora; both blames the other for the state of Startown.
 
 # Siu (Guest)
 

@@ -187,7 +187,7 @@ Referee Fiat While you can go a long, long way designing vehicles with the rules
 
 The referee, therefore, is always free to ‘jiggle’ things and smooth out any rough edges in order to create the vehicles he wants to see in his setting. We have intentionally put a lot of ‘fuzziness’ into the design system (such as with the space allocated to passengers and the Speed Bands) to make this easier but if the referee wishes to go further... he has our blessing!
 
-If, for example, you want to create a helicopter that has a special fuselage that is shaped to float on water, don’t feel you need to add the Floats option. You are free to say that ability is part of the vehicle’s natural design. If you want to build a large vehicle that can nonetheless fit inside the cargo hold of a Subsidised Merchant, again, simply tweak the Shipping Size of your final design.
+If, for example, you want to create a helicopter that has a special fuselage that is shaped to float on water, don’t feel you need to add the Floats option. You are free to say that ability is part of the vehicle’s natural design. If you want to build a large vehicle that can nonetheless fit inside the cargo hold of a Subsidized Merchant, again, simply tweak the Shipping Size of your final design.
 
 The Golden Rule is that the final designs must fit into the universe you have created. It is perfectly acceptable to adjust any characteristics of a vehicle in order to do so.
 
@@ -405,7 +405,7 @@ fast (high)
 
 CR
 
-Off-roader, Auxiliary Thrusters (10 metres), Communication System (advanced), Crane (light), Ejection Seats x 4, Wet Bar, Pintle Mount (light autocannon, front)
+Off-roader, Auxiliary Thrusters (10 meters), Communication System (advanced), Crane (light), Ejection Seats x 4, Wet Bar, Pintle Mount (light autocannon, front)
 
 ARMOR
 
@@ -514,7 +514,7 @@ Traits: Tracked
 - Do not apply this reduction if the vehicle is also an AFV.
 
 Tunneller
-By mounting large drills or other boring equipment to a Heavy Ground Vehicle, it can be turned into a tunnelling machine capable of moving through solid rock. While travelling through rock, it moves 10 metres per hour, multiplied by its Tech Level.
+By mounting large drills or other boring equipment to a Heavy Ground Vehicle, it can be turned into a tunnelling machine capable of moving through solid rock. While travelling through rock, it moves 10 meters per hour, multiplied by its Tech Level.
 
 ### Tech Level 7
 
@@ -707,7 +707,7 @@ LIGHT AEROPLANE These are propeller-driven aircraft that rely on a fixed wing fo
 
 Flyer (wing) Agility: +1 Spaces: 1-10 Cost per Space: Cr15000 Hull: 1 per 2 Spaces Shipping: 0.5 tons per Space Traits: None Examples: Fighter, light aircraft
 
-**Take-off/Landing:** Light Aeroplanes typically require 2D x 100 metres to safely take-off or land.
+**Take-off/Landing:** Light Aeroplanes typically require 2D x 100 meters to safely take-off or land.
 
 Tech Table TL Speed Range 4 Medium 300 5-6 High 600 7-8 Fast 1,200 9-10 Fast 2,400 11+ Very Fast 4,800
 
@@ -743,7 +743,7 @@ HEAVY AEROPLANE From bombers and military transports, to airliners and cargo pla
 
 Flyer (wing) Agility: -2 Spaces: 10+ Cost per Space: Cr25000 Hull: 1 per 2 Spaces Shipping: 1 ton per Space Traits: None Examples: Airliner, cargo transport, bomber
 
-Take-off/Landing: Heavy Aeroplanes typically require 4D x 100 metres to safely take-off or land.
+Take-off/Landing: Heavy Aeroplanes typically require 4D x 100 meters to safely take-off or land.
 
 Tech Table TL Speed Range 4 Slow 1,000 5-6 Medium 2,000 7-8 High 3,000 9-10 Fast 4,000 11+ Very Fast 5,000
 
@@ -775,7 +775,7 @@ LIGHT JET The appearance of jet engines, from turbofans to scramjets and hydroge
 
 Flyer (wing) Agility: +1 Spaces: 2-20 Cost per Space: Cr50000 Hull: 1 per 3 Spaces Shipping: 1 ton per Space Traits: None Examples: Business jet, fighter
 
-**Take-off/Landing:** Light Jets typically require 3D x 100 metres to safely take-off or land.
+**Take-off/Landing:** Light Jets typically require 3D x 100 meters to safely take-off or land.
 
 Tech Table TL Speed Range 5 High 750 6-8 Fast 2000 9-11 Very Fast 4000 12+ Subsonic 7000
 
@@ -817,7 +817,7 @@ HEAVY JET Large jets become the pre-eminent way of moving both passengers and ca
 
 Flyer (wing) Agility: -2 Spaces: 20+ Cost per Space: Cr75000 Hull: 1 per 2 Spaces Shipping: 2 tons per Space Traits: None Examples: Airliner, cargo-lifter, bomber, airborne early warning
 
-Take-off/Landing: Heavy Jets typically require 5D x 100 metres to safely take-off or land.
+Take-off/Landing: Heavy Jets typically require 5D x 100 meters to safely take-off or land.
 
 Tech Table TL Speed Range 5 High 1000 6-8 Fast 4000 9-11 Very Fast 7000 12+ Subsonic 10000
 
@@ -1090,11 +1090,11 @@ A modular mount will increase the cost of a mount by an additional +50%.
 
 Changing a weapon on a modular amount requires a Routine (6+) Mechanics check (1D minutes, INT or EDU).
 
-The following weapons are specifically designed to be mounted on vehicles. Unless otherwise specified, all ranges are in kilometres.
+The following weapons are specifically designed to be mounted on vehicles. Unless otherwise specified, all ranges are in kilometers.
 
 #### BOLT THROWER
 
-At lower Tech Levels, this is effectively a giant crossbow, using either tension or torsion to fire heavy bolts the size of spears at enemy infantry and cavalry. As the technology becomes available, this is likely to be changed to compressed air. The listed range is in metres.
+At lower Tech Levels, this is effectively a giant crossbow, using either tension or torsion to fire heavy bolts the size of spears at enemy infantry and cavalry. As the technology becomes available, this is likely to be changed to compressed air. The listed range is in meters.
 
 Weapon TL Range Damage Tons Spaces Cost Magazine Magazine Cost Traits Bolt Thrower 1 200 4D 0.5 2 Cr2000 1 Cr25 AP 5
 
@@ -1120,7 +1120,7 @@ Weapon TL Range Damage Tons Spaces Cost Magazine Magazine Cost Traits Anti-Tank 
 
 05/80885
 
-The following weapons are specifically designed to be mounted on vehicles. Unless otherwise specified, all ranges are in kilometres.
+The following weapons are specifically designed to be mounted on vehicles. Unless otherwise specified, all ranges are in kilometers.
 
 ### SECTION 2
 
@@ -1130,7 +1130,7 @@ CANNON A large calibre gun used to arm the heavy tanks and armored vehicles of m
 
 Weapon TL Range Damage Tons Spaces Cost Magazine Magazine Cost Traits Cannon 8 2 1DD 2.5 10 Cr400000 30 Cr5000 Blast 10
 
-EARLY MACHINEGUN Once the principles of machineguns were understood, militaries were quick to adopt them. Design flaws and tendencies to jam were overcome, leaving a weapon that ruled the battlefield utterly. The listed range is in metres.
+EARLY MACHINEGUN Once the principles of machineguns were understood, militaries were quick to adopt them. Design flaws and tendencies to jam were overcome, leaving a weapon that ruled the battlefield utterly. The listed range is in meters.
 
 Weapon TL Range Damage Tons Spaces Cost Magazine Magazine Cost Traits Early Machinegun 4 400 3D 14 1 Cr1200 30 Cr100 Auto 3
 
@@ -1393,7 +1393,7 @@ AUXILIARY THRUSTERS TL4 Any vehicle can be fitted with auxiliary thrusters, allo
 
 Instead of moving normally in a round, the vehicle can instead make a short jump.
 
-For every 5% (rounding up) of a vehicle’s total Spaces consumed by Auxiliary Thrusters, the vehicle will be able to make a vertical jump of 10 metres. Any forward momentum the vehicle had before jumping will be retained (allowing it to jump horizontally so long as it has had a run up). This will cost Cr10000 per Space.
+For every 5% (rounding up) of a vehicle’s total Spaces consumed by Auxiliary Thrusters, the vehicle will be able to make a vertical jump of 10 meters. Any forward momentum the vehicle had before jumping will be retained (allowing it to jump horizontally so long as it has had a run up). This will cost Cr10000 per Space.
 
 GROUND DRIVE Many aerial vehicles will be equipped with a simple set of wheels that allow them to maneuver at an airport or spaceport. A ground drive, however, fully converts them into road-going vehicle. Due to the rigours of travel on the ground where collisions are far more frequent, this can be an extremely extensive conversion where the exterior of the vehicle actually ‘transforms’ between aerial and ground travel.
 
@@ -1469,7 +1469,7 @@ However, decoy dispensers are completely ignored by Smart weapons that are of a 
 
 TL Spaces Cost Decoy Dispenser 5 1 Cr2500
 
-ELECTROSTATIC ARMOR This generates a powerful static field around a vehicle, vaporising any objects that come close. This field extends 1-5 metres from the vehicle’s exterior and is intended to vaporise shells and missiles before they strike the vehicle’s actual hull.
+ELECTROSTATIC ARMOR This generates a powerful static field around a vehicle, vaporising any objects that come close. This field extends 1-5 meters from the vehicle’s exterior and is intended to vaporise shells and missiles before they strike the vehicle’s actual hull.
 
 Electrostatic armor provides an additional amount of Protection equal to three times the TL of the vehicle it is installed within.
 
@@ -1741,7 +1741,7 @@ TL5
 
 #### COMMAND CENTRE
 
-Used in military, law enforcement and rescue vehicles, a command centre allows the effective monitoring and co-ordination of units in high stress operations. The command centre includes workstations and a large screen or holographic table for reports and displays. Up to two Travellers can use a command centre at any one time, and it can be increased in size, consuming 1 Space and costing Cr5000 for each extra Traveller. A command centre requires a vehicle to have at least TL8 communications systems and Improved Sensors.
+Used in military, law enforcement and rescue vehicles, a command center allows the effective monitoring and co-ordination of units in high stress operations. The command center includes workstations and a large screen or holographic table for reports and displays. Up to two Travellers can use a command center at any one time, and it can be increased in size, consuming 1 Space and costing Cr5000 for each extra Traveller. A command center requires a vehicle to have at least TL8 communications systems and Improved Sensors.
 
 Item TL Spaces Cost Command Centre 9 4 Cr75000
 
@@ -1774,7 +1774,7 @@ An ejection cocoon consumes 3 Spaces for each crew member and costs Cr10000 per 
 #### EJECTION SEAT
 
 Ejection seats are designed to blast a Traveller clear of a vehicle in demise, then deploy a parachute to bring him safely to the ground. An ejection seat can be triggered as a reaction, but those of TL6 or below require the vehicle
-(usually an aircraft) to be at an altitude of at least 500 metres. High TL ejection seats use grav chutes to bring the Traveller to rest.
+(usually an aircraft) to be at an altitude of at least 500 meters. High TL ejection seats use grav chutes to bring the Traveller to rest.
 
 An ejection seat consumes no Spaces and costs Cr5000.
 
@@ -1816,7 +1816,7 @@ GENERAL PURPOSE LABORATORY This laboratory provides no bonuses to scientific che
 
 A general purpose laboratory consumes 2 Spaces per Traveller using it and cost Cr5000 per Space.
 
-GEOLOGICAL SAMPLER This is an array of scooping devices designed for shallow ground testing, along with a hollow-core drills capable of drilling down one kilometre. An Electronics (sensors) check will be required to gain any useful information.
+GEOLOGICAL SAMPLER This is an array of scooping devices designed for shallow ground testing, along with a hollow-core drills capable of drilling down one kilometer. An Electronics (sensors) check will be required to gain any useful information.
 
 A geological sampler consumes 15 Spaces and costs Cr100000.
 
@@ -2326,7 +2326,7 @@ REAR 1
 
 SIDES 1
 
-This wind-powered vehicle is used on worlds with typically flat terrain and reliable winds. It is capable of traversing great distances with favourable winds but while a passenger can be carried, its cargo capacity while doing so is non-existent.
+This wind-powered vehicle is used on worlds with typically flat terrain and reliable winds. It is capable of traversing great distances with favorable winds but while a passenger can be carried, its cargo capacity while doing so is non-existent.
 
 DESCRIPTION
 
@@ -3119,7 +3119,7 @@ REAR 2
 
 SIDES 2
 
-Small and agile (and it will seem fast if you are a passenger), the dune buggy is a two-person, quad- wheeled vehicle designed to traverse rough terrain at a rapid rate. Though primarily a recreational vehicle, the dune buggy also serves as a favourite of explorers and adventurers on worlds that have few stable roads.
+Small and agile (and it will seem fast if you are a passenger), the dune buggy is a two-person, quad- wheeled vehicle designed to traverse rough terrain at a rapid rate. Though primarily a recreational vehicle, the dune buggy also serves as a favorite of explorers and adventurers on worlds that have few stable roads.
 
 TRAITS
 
@@ -3895,7 +3895,7 @@ CR946000
 
 Infantry Fighting Vehicle encountered on many frontier worlds, either in the hands of colony militaries or mercenary forces. Its basic design has been copied, and twins and near-twins of the Martinique are in service with many forces. The Martinique, like many military air cushion vehicles, is capable of short hops using high performance vectored thrusters, giving the vehicle a limited jump-jet capability that enables it to negotiate cliffs and similar obstructions.
 
-Auxiliary Thrusters (10 metres), Camouflage
+Auxiliary Thrusters (10 meters), Camouflage
 (improved), Communication System (improved, encrypted), Fire Extinguishers, Navigation System
 (improved), Sensor System (improved)
 
@@ -4128,7 +4128,7 @@ Communications System (improved) Manipulator Arms (improved) x 2
 
 No weapon
 
-A common sight around starports and loading bays, the cargo lifter stands around three metres high and is equipped with two heavy duty manipulator arms. The operator can use the strength of the cargo lifter to move containers and other heavy objects quickly and efficiently. A sealed version can be purchased for an extra Cr70000, which includes short term life support and vacuum protection, but this upgrade removes the small cargo space.
+A common sight around starports and loading bays, the cargo lifter stands around three meters high and is equipped with two heavy duty manipulator arms. The operator can use the strength of the cargo lifter to move containers and other heavy objects quickly and efficiently. A sealed version can be purchased for an extra Cr70000, which includes short term life support and vacuum protection, but this upgrade removes the small cargo space.
 
 CARGO LIFTER
 
@@ -5805,7 +5805,7 @@ Autopilot (skill level) 1 Communications
 
 CHAMELEON SCOUT WALKER
 
-Anti-Missile System (laser), Autopilot (improved), Auxiliary Thrusters (20 metres), Camouflage (advanced), Communication System (advanced, encrypted, tightbeam), Computer/3, Control System (advanced), Decoy Dispenser, ECM (advanced), Ejection Seat, Fire Extinguisher, Fusion Plant (advanced), Holo-Suite, Life Support (short term), Navigation System (improved), Sensor System (improved, hardened, increased fidelity, increased range, sensor mast), Stealth (improved), Vacuum Protection
+Anti-Missile System (laser), Autopilot (improved), Auxiliary Thrusters (20 meters), Camouflage (advanced), Communication System (advanced, encrypted, tightbeam), Computer/3, Control System (advanced), Decoy Dispenser, ECM (advanced), Ejection Seat, Fire Extinguisher, Fusion Plant (advanced), Holo-Suite, Life Support (short term), Navigation System (improved), Sensor System (improved, hardened, increased fidelity, increased range, sensor mast), Stealth (improved), Vacuum Protection
 
 the open battlefield, Chameleons can be seen on the far flanks, hoping not to get noticed by larger and more powerful vehicles, where they use their stealth to bypass defences and operate in groups to deliver hard-hitting assaults. Its fusion plant and energy-based weapons means its endurance in the field tends to be limited by its pilot and mechanical faults rather than fuel and ammunition.
 
@@ -5829,7 +5829,7 @@ PGMP
 
 ARMOR
 
-Using a heavy grav chassis, the Crusader is lightly armored compared to the likes of the Paladin, but its mass driver is capable of flinging shells over 40 kilometres, allowing a military force to position a vehicle or squadron far beyond the immediate combat area. From there, the Crusader can provide instant support to forward units, using its mass driver to obliterate opposition before quickly relocating to avoid counterbattery fire.
+Using a heavy grav chassis, the Crusader is lightly armored compared to the likes of the Paladin, but its mass driver is capable of flinging shells over 40 kilometers, allowing a military force to position a vehicle or squadron far beyond the immediate combat area. From there, the Crusader can provide instant support to forward units, using its mass driver to obliterate opposition before quickly relocating to avoid counterbattery fire.
 
 FRONT 70
 
@@ -5930,7 +5930,7 @@ REAR 4
 
 SIDES 4
 
-Much like its ground based predecessors, the G/bike' speed and size make it a favourite with many Travellers needing to make their own way around a strange planet. It is also the focus of many subcultures and gangs accross Charted Space.
+Much like its ground based predecessors, the G/bike' speed and size make it a favorite with many Travellers needing to make their own way around a strange planet. It is also the focus of many subcultures and gangs accross Charted Space.
 
 Communications System (improved), Navigation System (improved), Sensor System (improved)
 
@@ -6213,7 +6213,7 @@ Autocannon
 ARMOR
 
 The Hostile Environment Vehicle
-(HEV-12) is a tracked crawler well protected against environmental extremes. This fuel-cell-powered vehicle can operate in extremes from the depths of space to 300 metres under water. It is not capable of atmospheric flight, though it can make jumps of significant height and breadth with its auxiliary thrusters.
+(HEV-12) is a tracked crawler well protected against environmental extremes. This fuel-cell-powered vehicle can operate in extremes from the depths of space to 300 meters under water. It is not capable of atmospheric flight, though it can make jumps of significant height and breadth with its auxiliary thrusters.
 
 FRONT 30
 
@@ -6222,7 +6222,7 @@ REAR 30
 SIDES 30
 
 Airlock, Aquatic Drive, Autopilot (enhanced), Auxiliary Thrusters
-(40 metres), Bunk, Communication System (advanced, increased range, satellite uplink), Computer/3, Control System (improved), Fire Extinguisher, Fresher, Life Support (long term), Navigation System
+(40 meters), Bunk, Communication System (advanced, increased range, satellite uplink), Computer/3, Control System (improved), Fire Extinguisher, Fresher, Life Support (long term), Navigation System
 (improved), Prismatic Aerosol Discharger, Sensor System (improved), Sensor System (improved, underwater), Vacuum Protection
 
 ARMOR

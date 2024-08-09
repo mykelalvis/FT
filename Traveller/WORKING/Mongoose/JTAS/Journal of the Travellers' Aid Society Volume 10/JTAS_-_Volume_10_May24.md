@@ -164,7 +164,7 @@ The Evergreen is a small research vessel, with a collection of
 laboratories and libraries that focus on researching plant life. Most
 of the ship’s space is dedicated to holding samples, each at various
 stages of growth, small biospheres being dotted around the entire ship.
-The centre of the ship contains a larger version, teeming with microflora
+The center of the ship contains a larger version, teeming with microflora
 and fauna. There is space enough for the crew and four botanists, and
 most posted here are given two-term contracts due to the time required
 for cultivation.
@@ -553,15 +553,15 @@ blame onto someone else.
 PEARL PASSENGER LINER
 The Pearl passenger liner is Kraken Heavy Industries (KHI) Consortium’s
 answer to jump-3 transit between the remote Lyheric Cluster and the
-remainder of the Corellan League. Based on a 25-metre spherical hull,
+remainder of the Corellan League. Based on a 25-meter spherical hull,
 the Pearl uses advanced KHI-engineered drive and battery technology
-to optimise performance and is capable of wilderness refuelling to pass
+to optimize performance and is capable of wilderness refuelling to pass
 through such undeveloped systems as Nowhere, Dawn, Healer and
 Virtue. The Pearl is employed by the Gateway Consortium in transits not
-justifying its 40-metre Amethyst merchantmen.
+justifying its 40-meter Amethyst merchantmen.
 
-Favourably comparable in price and performance to the Third
-Imperium’s standard subsidised liner design, and with the ability to add
+Favorably comparable in price and performance to the Third
+Imperium’s standard subsidized liner design, and with the ability to add
 armament against pirate and ihatei activity, the Pearl liner is a common
 starship within and around the Corellan League. It can support 24
 passengers in relative comfort and transport an additional 16 in low
@@ -586,7 +586,7 @@ C deck is the main passenger deck with 16 staterooms and 16 low
 berths. D deck contains an additional eight staterooms, slightly larger
 and better appointed and usually reserved for high passengers. The
 cargo compartment occupies half of D and E deck, with a mezzanine
-overlooking the six-metre high open cargo area. Large cargo doors on
+overlooking the six-meter high open cargo area. Large cargo doors on
 E deck and an open lift platform can traverse D to F deck to load and
 unload passengers and cargo from the slow boat docked aft. The main
 personnel airlock is located on F deck. The cargo section is not officially
@@ -608,7 +608,7 @@ room arrangement allows the Patient Sky to transport more than 100
 aspirants to their new home in orbit of a dead star.
 
 As it allows for standardization of shipyard construction berths, the
-basic 25-metre 600-ton hull is common to several KHI ship designs for
+basic 25-meter 600-ton hull is common to several KHI ship designs for
 commercial, government and military use, including the Morningstar
 assault corvette.
 
@@ -762,7 +762,7 @@ their lower teeth they have developed a protruding lower jaw and these
 teeth need to be manually filed to prevent them puncturing the roof of
 the hasumbuk’s mouth or be worn by consuming vegetation.
 
-With a height of 120–140 centimetres at the shoulder, they are
+With a height of 120–140 centimeters at the shoulder, they are
 formidable when enraged; a common occurrence when farmhands are
 emptying the troughs used to feed them. In the wild they are usually
 docile enough although if they feel threatened, will attack using their
@@ -1159,7 +1159,7 @@ Imperium seems to have things well in hand; nevertheless, the Duchess
 daMae has been given virtual carte blanche in the establishment of a
 veritable Sword of Damocles to hang over Chanestin heads.
 
-One group of agencies that work in her favour are the militias known as
+One group of agencies that work in her favor are the militias known as
 the Aursisia Exèrciti. While the Duchess claims to have no official ties to
 them, this collection of private armies operates in virtual lockstep with
 her goals. The Exèrciti are active throughout much of the subsector
@@ -1180,7 +1180,7 @@ There are conspiracy theories afoot that make the Duchess out to
 be a more active participant in the affairs of these criminal armies, a
 ‘Madrina’ who lords it over an assembly of Exèrciti ‘soldatos’. Such
 theories are considered absurd by the majority of the populace. Most
-note that the Duchess clearly has the Emperor’s favour and could not
+note that the Duchess clearly has the Emperor’s favor and could not
 possibly be involved in such blatantly criminal affairs.
 
 For more on the Ekilati Onati, the Chanestin Kingdom, the Duchess of
@@ -1535,7 +1535,7 @@ on Tamara they must be able to lie exceedingly well. Checks made
 to access the ship are made at Routine (6+) difficulty for Deception,
 Average (8+) for Persuade or Difficult (10+) for Streetwise.
 
-Upon arrival in the 30-metre-tall bay of the T3 they will be searched
+Upon arrival in the 30-meter-tall bay of the T3 they will be searched
 again by more mercenaries in red and black vacc suits. Overseeing
 this operation is a giant man shrouded in a black hostile environment
 vacc suit, who occasionally barks orders through a voice modulator.
@@ -2197,7 +2197,7 @@ food. Also, starship-grade weaponry will not leave edible remains, nor
 trophies in most cases, unless you are hunting megafauna.
 
 CLASSIFYING YOUR PREY
-The first step is classifying the prey available, so as to optimise your
+The first step is classifying the prey available, so as to optimize your
 hunting. For instance, if you know you are going to need a large
 amount of meat, it may be worth the extra work to hunt and process
 a large herbivore rather than a herd of smaller, potentially toxic
@@ -2207,26 +2207,26 @@ time and resources fishing there.
 **Scavenger, carnivore, omnivore, herbivore or ergovore**
 This should be the top priority for classification, even if it requires a bit
 of observation. From least to most edible:
-● Scavengers can eat meat or plants but they focus on eating
+- Scavengers can eat meat or plants but they focus on eating
 whatever they come across in their environment. In doing so, they
-favour a diet of things that are unable to get away due to being
+favor a diet of things that are unable to get away due to being
 sick, unhealthy or dead. If toxins are the cause, scavengers tend to
 devour things with those toxins and concentrate them in their bodies.
 Lithovores are often immune to things toxic to most life and so
 should be placed in this category.
-● Carnivores eat only meat and are usually considered at the top of
+- Carnivores eat only meat and are usually considered at the top of
 the food chain. They prey on weaker animals, which may be more
 likely to have toxins but to a lesser degree than scavengers’ diets.
 
 ```
-● Omnivores will eat meat or plants as the opportunity arises but,
+- Omnivores will eat meat or plants as the opportunity arises but,
 unlike scavengers, they tend to distinguish between something
 that is unfit to eat and something that is fit to eat. Some herbivores
 become omnivores if there is a lack of plant material available or if
 meat is readily available.
-● Herbivores only eat a plant-based diet, avoiding poisonous plants
+- Herbivores only eat a plant-based diet, avoiding poisonous plants
 and are thus considered the safest option among most animal types.
-● Ergovores, such as photovores including most plants, are even
+- Ergovores, such as photovores including most plants, are even
 safer since their energy-based diets do not include consumption of
 toxins. Of course, even plants can be poisonous or absorb poison
 from their living conditions but this is true of any life form.
@@ -2239,19 +2239,19 @@ environment is highly toxic, filters and specific cooking methods are
 needed to make the prey safe to eat.
 
 Water:
-● When hunting land animals on worlds with tainted atmospheres, be
+- When hunting land animals on worlds with tainted atmospheres, be
 prepared to remove concentrations of the taint from their bodies.
 When hunting sea creatures, test the water for toxins: if it is in the
 water, it will be in the kill.
-● If a sea creature lives on a world with a toxic atmosphere but the
+- If a sea creature lives on a world with a toxic atmosphere but the
 oceans are relatively non-toxic, then sea creatures who only live
 below the surface will on average be less toxic than ones that come
 up for air, especially if they do not prey on air-breathing creatures.
-● If an animal’s primary drinking fluid is a non-water-based fluid such
+- If an animal’s primary drinking fluid is a non-water-based fluid such
 as ammonia or methane, assume its entire body is inedible.
 
 Food:
-● If the plants an animal feeds on have a low toxin amount, the
+- If the plants an animal feeds on have a low toxin amount, the
 herbivore may have a mild amount of the toxin in their system.
 Carnivores eat herbivores and compound the toxins they consume,
 causing it to build up in their system. Scavengers generally have
@@ -2259,7 +2259,7 @@ a higher build-up of toxins, since they will more often eat corpses
 killed by high toxin doses. If the toxin naturally decays over time,
 then carnivores may be better options as they would not have high
 concentrations for long.
-● The same chain of logic applies to carnivores and scavengers if
+- The same chain of logic applies to carnivores and scavengers if
 their prey is contaminated by a toxin. This is particularly a concern
 for wildlife near industrial sites that discharge their by-products into
 the local ecosystem, rather than using more responsible methods
@@ -2293,17 +2293,17 @@ suffice, although it should be decontaminated soon after handling the prey.
 DEFENCES
 No animal particularly wants to be eaten. Due to this, a number of
 species have evolved natural defences:
-● Evasion and physically overpowering foes are a common
+- Evasion and physically overpowering foes are a common
 defence, but do not impact edibility.
-● Bones or chitinous armor reduces the amount of edible tissue
+- Bones or chitinous armor reduces the amount of edible tissue
 but can be removed or ground into digestible powder. Ensure
 you check for bone fragments in the meat before consumption.
-● Poisons suffusing the prey can be flushed out if known to be
+- Poisons suffusing the prey can be flushed out if known to be
 present. They can generally be detected with a quick biopsy
 and a medical scanner. Even if a species has evolved a new
 version of a toxin, modern scanners are built to recognize
 such mutations.
-● Bioelectric and poisonous glands need to be removed intact.
+- Bioelectric and poisonous glands need to be removed intact.
 If punctured, nearby tissue should be thoroughly screened or
 discarded for safety.
 ```
@@ -2388,7 +2388,7 @@ Human Female
 ```
 
 Daina has recently published a paper decrying the ravaging of natural
-planetary resources in favour of industrialization on Woodrow (Fornast,
+planetary resources in favor of industrialization on Woodrow (Fornast,
 Nareshakir). This naturally led to a number of high-profile corporate
 attacks on her person as a way of putting doubt on the credibility of
 her research. Likened to a hermit incapable of highly skilled research,
@@ -2447,8 +2447,8 @@ others have become assimilated into Imperial society.
 
 PHYSICAL CHARACTERISTICS
 The Nenlat are trilateral beings with a rounded barrel-shaped body
-approximately one metre in diameter and 1.2 metres tall. From that
-body, a tripod of three dexterous legs adds another half metre to the
+approximately one meter in diameter and 1.2 meters tall. From that
+body, a tripod of three dexterous legs adds another half meter to the
 height of these beings. In addition to the legs, the Nenlat have three
 arms, three flippers and a forward-facing head with a long tentacle-
 like stringer protruding from the back of the neck. This stinger ends
@@ -2509,7 +2509,7 @@ occupation of the abandoned Ancients arcology as early as -290,000.
 LIFE CYCLE
 As with much of Denebian fauna and flora, the Nenlat have three
 genders: activator, bearer and egg layer. Reproduction is external and
-ritualised. A bearer will prepare a two-metre-diameter nesting lodge
+ritualised. A bearer will prepare a two-meter-diameter nesting lodge
 
 - an igloo-shaped structure of branches and fern-like leaves – at the
 edge of open water on a protected area of wetland and coat it with
@@ -2626,7 +2626,7 @@ billions, but little formal government organization exists above the
 village level. Various regions of Deneb have formed village collectives
 
 - a collective of villages – whose councils may coordinate activities
-among a few million Nenlat over a few thousand square kilometres,
+among a few million Nenlat over a few thousand square kilometers,
 yet larger organizations do not exist. For most Nenlat, even these
 organizations seem be unnecessary. Within the caste system, everyone
 has a duty and everyone knows their place. Age-old ritual governs most
@@ -2645,7 +2645,7 @@ intake to avoid intoxication.
 
 Nenlat are common in Denebian bureaucratic, law enforcement
 and military service. Nenlat units of Imperial army and Imperial
-Marine troops exist, often optimised for amphibious warfare. Since
+Marine troops exist, often optimized for amphibious warfare. Since
 Nenlat require specialized weapons and tools, these units are often
 homogeneous but with mixed officers. Nenlat veterans have formed
 numerous mercenary units that have a reputation for maintaining good
@@ -2708,7 +2708,7 @@ Nenlat can function indefinitely in an aquatic environment and has no
 movement penalties when submerged.
 
 **Natural Weapon (Stinger):** Nenlat have a single sharp knife-like
-stinger at the end of a metre-long tentacle protruding from the back
+stinger at the end of a meter-long tentacle protruding from the back
 of their necks. The stinger inflicts 1D damage with AP 2. The stinger
 contains a neurotoxin that causes an additional 2D damage to
 Denebian life forms.
@@ -3979,7 +3979,7 @@ and has seldom been visited.
 
 MAINWORLD
 The system mainworld, Thanber, is a mid-sized rocky world (diameter
-7,684 kilometres) that orbits Than in its innermost orbit. The orbit is
+7,684 kilometers) that orbits Than in its innermost orbit. The orbit is
 so close that Thanber is tidally-locked, with one side of the planet
 constantly facing the star; a Thanber year is only 19 standard days.
 Temperatures in the high desert of the hot pole can reach 45°C at the
@@ -4025,7 +4025,7 @@ green to blue-black, to maximise sunlight absorption.
 
 A source of much of the pollen that taints the atmosphere is the native
 tree known as the Thanber blackwood, which is common in the twilight
-belt. It is very tall, on the order of 30 metres for an average specimen,
+belt. It is very tall, on the order of 30 meters for an average specimen,
 made possible by the low gravity. Both leaves and wood are almost
 black in colour, with blossoms in summer being a very dark violet.
 Blackwood pollen is produced at an ideal height to be carried far by
@@ -4055,7 +4055,7 @@ Behaviour Herbivore, Grazer
 ```
 
 The apex predator is the Thanber condor, an avian with a wingspan
-that can reach up to 12 metres. The Thanber condor is light grey on its
+that can reach up to 12 meters. The Thanber condor is light grey on its
 belly and coal-black on its back. The feathers around the neck and face
 are thinner to allow bioluminescent cells in the condor’s skin to be used
 for communication. A full-grown condor can lift and carry away a pacer
@@ -4244,7 +4244,7 @@ foreign economic ties by far with the Imperium.
 
 Zhodani traders make planetfall on Thanber more often than might
 be expected with the jump-3 from Querion and the Imperium is of the
-opinion that many of these ‘traders’ are at least subsidised by the
+opinion that many of these ‘traders’ are at least subsidized by the
 Consulate, if not full agents. Zhodani influence on the world has been
 most noticed in the increasingly tolerant attitude of Thanbers towards
 psionic powers. It is rumored that Thanber University is the site
@@ -4299,7 +4299,7 @@ calls the trifecta: a nightstalker, some treegators and a slimetulip (see
 The Spinward Extents). Zoë got separated from the rest of the party in
 the confusion. Lost, she followed a river downstream towards a known
 plantation site. Reaching the outskirts of what passes for civilization
-on Cabranidi after three days of trekking a total of 35 kilometres, she
+on Cabranidi after three days of trekking a total of 35 kilometers, she
 was promptly arrested for trespassing, transported to Harmony on the
 
 next cargo run and sentenced to five years imprisonment. Released
@@ -4326,24 +4326,24 @@ When approaching the sites of the team’s base or the ruins they
 uncovered, it is clear the jungle has overgrown any possible landing
 zone. The terrain precludes the landing of anything as large as a
 starship or spacecraft except in the middle of the river Zoë used for her
-escape, about 10 kilometres from the base camp and 12 from the ruins.
+escape, about 10 kilometers from the base camp and 12 from the ruins.
 An air/raft-sized vehicle could navigate through the triple-canopy jungle
 and land at the base camp on a Very Difficult (12+) Flyer (grav) check
 (1D minutes, DEX) or a Difficult (10+) check for a grav bike or grav belt
-landing. A TDX charge or any explosive that can clear a 15-metre-wide
+landing. A TDX charge or any explosive that can clear a 15-meter-wide
 landing zone can make enough space for an air/raft or similarly sized
 vehicle to land with a Routine (6+) check.
 
-Progress through the jungle is at a rate of one kilometre per hour on
-foot. A grav belt or grav bike can cover one kilometre in five minutes,
+Progress through the jungle is at a rate of one kilometer per hour on
+foot. A grav belt or grav bike can cover one kilometer in five minutes,
 requiring a Difficult (10+) check, or in 20 minutes for Average (8+)
-check; a Routine check (6+) requires a full hour per kilometre, making
+check; a Routine check (6+) requires a full hour per kilometer, making
 travel on the ground less risky than trying to fly around the many
 branches, vines and other obstructions in the air. An ATV or other
 ground vehicle is unable to penetrate the jungle, although construction
-equipment could clear a path at one kilometre per day.
+equipment could clear a path at one kilometer per day.
 
-For every kilometre of travel or hour in the jungle, roll 2D for an animal
+For every kilometer of travel or hour in the jungle, roll 2D for an animal
 encounter. If a party separates, roll for each group. On a 10+ the
 party encounters a dangerous animal. Roll 1D: 1–3 = treegator, 4–5
 = nightstalker, 6 = slimetulip. Immediately roll 2D again to check for
@@ -4359,9 +4359,9 @@ challenges, unless the Travellers create additional obstacles by their
 actions. The base camp is overrun by jungle but after forcing entry to
 the unlocked habitat module, it is as Zoë remembers. As far as she can
 tell, nobody else made it back. Continuing towards the ruins reaches
-the ambush site after one kilometre. Scattered bones and a single
+the ambush site after one kilometer. Scattered bones and a single
 crushed skull are all that remains of her team. Two aluminium crates,
-each of a half metre-cubic volume, are half-buried by jungle. They
+each of a half meter-cubic volume, are half-buried by jungle. They
 remain sealed. Each has a mass of 50 kilograms – weighing about
 32 kilograms on Cabranidi – but are too bulky for a single individual
 to carry. The cases contain non-functional metal artefacts of unknown
@@ -4370,9 +4370,9 @@ and a specialized computer running Universal Translator.
 
 The ruin site is an old Sindalian era-camp with four vine-covered
 modules containing no salvageable equipment or data. One of these
-modules is home to a nightstalker. A fifth module 500 metres distant in
+modules is home to a nightstalker. A fifth module 500 meters distant in
 a small overgrown ravine connects to a tunnel dug into an underground
-maze of chambers covering a 100 x 100 metre area. This tunnel was
+maze of chambers covering a 100 x 100 meter area. This tunnel was
 rediscovered and cleared by Zoë’s expedition. If the Travellers spend
 time exploring these older ruins, they may find up to one box worth of
 saleable non-functional artefacts after six person-days of effort.
@@ -4405,7 +4405,7 @@ send out another team as a search party after 48 hours.
 
 4: As in 3 but the Cabranidi Corporation ship is in orbit. It will challenge any
 incoming vessel and launch pursuit if appropriate. The ship, Snowplum
-IV, is a cargo-only subsidised liner with a pulse laser-equipped slow
+IV, is a cargo-only subsidized liner with a pulse laser-equipped slow
 boat (Thrust 3) instead of a launch. The Snowplum IV itself will not
 actively pursue but is equipped with a double beam laser turret and a
 single sandcaster turret for self-defence and will fire upon hostile or non-
@@ -4520,7 +4520,7 @@ Travellers will gain for various actions. Note that this is a guideline only;
 it may be that some actions are considered ‘fair enough’ by observers
 or the victims may be felt to deserve what they got. A Traveller who
 shoots a known criminal terrorising the local community may not gain
-Notoriety if the population feel they have been done a favour. On the
+Notoriety if the population feel they have been done a favor. On the
 other hand, harming someone particularly vulnerable or well-regarded
 might result in additional Notoriety.
 
@@ -4851,7 +4851,7 @@ Habitat Any structure with an iris valve
 
 The Ling Standard Products internal iris valve, possibly the most common
 within the Third Imperium, have singular small windows of about 10–20
-centimetres. These will, when closed, be at about face height, although
+centimeters. These will, when closed, be at about face height, although
 other manufacturers differ in their designs. Iris valves come in standard
 size but can be made to order, so do not expect them to all be the same.
 They will certainly have a camera set above the surround, the imagery
@@ -4990,7 +4990,7 @@ BRIDGES AND ENGINE ROOMS
 I have mentioned the outside of space-valves as facing out into the
 environment the habitat is hosted by but there are exceptions, such
 as the entrance into the bridge of a ship or space station’s operations
-centre. As those who control the bridge generally control the ship, it is
+center. As those who control the bridge generally control the ship, it is
 easier to deter boarders if you control the bridge. For this purpose, the
 outside of the valve to the bridge will be as hard to get through as an
 outside space-valve. It is not unusual for the engine room to have a
@@ -5002,16 +5002,16 @@ providing they are unpowered and not mechanically locked. On derelict
 ships this is the main access method and is as simple as removing the
 valves’ surround panelling, inserting the hand-crank and turning it until
 the leaves have opened enough to get through. This usually takes 10
-minutes to create a half metre hole, so is not the most effective method.
+minutes to create a half meter hole, so is not the most effective method.
 
 If the iris valve is part of a deserted facility or derelict ship the gears
 may have corroded or be jammed with ice, making hand-cranking
 extremely hard if at all possible. This is where motorised cranks
 are used, human-portable powered motors that you connect to the
 crank-axle of the iris valve. These will crank open a well-maintained
-standard 1.5 metre iris valve in six seconds, although you still have to
+standard 1.5 meter iris valve in six seconds, although you still have to
 remove part of the surround. They are often sold as rescue equipment
-and human-portable models will open up to a three metre diameter
+and human-portable models will open up to a three meter diameter
 valve, whilst heavier non-portable models can be plugged into
 generators to open larger valves.
 
@@ -5256,7 +5256,7 @@ iris valves, which can be plugged in to provide power. It is designed to be
 strapped to an individual in a vacc suit so the operator can use it hands-
 free. Power packs are simple to jerry-rig, provided you have a suitable
 size of battery and a basic grasp of electronics. Typically, given the power
-required, it will open two standard 1.5 metre iris valves on a full charge.
+required, it will open two standard 1.5 meter iris valves on a full charge.
 
 ```
 Item TL Kg Cost
@@ -5266,8 +5266,8 @@ Iris Valve Power Pack 9 2 Cr200
 Iris Valve Crank
 This is a heavy box with a protruding shaft that can be clamped to an
 iris valve, with the shaft attaching to the crank-axle. It is manufactured
-for rescue purposes and with a full charge it will open two 1.5 metre
-iris valves or one 3 metre valve. It can alternatively be plugged into a
+for rescue purposes and with a full charge it will open two 1.5 meter
+iris valves or one 3 meter valve. It can alternatively be plugged into a
 power source. The mechanism is not powerful enough to crank open
 larger iris valves.
 
@@ -5337,11 +5337,11 @@ give away its location.
 
 Psionic communication is less useful than many non-Zhodani might
 imagine. Instant, undetectable and totally secure communication is
-easy over distances of a few kilometres and telepaths are common
+easy over distances of a few kilometers and telepaths are common
 in the Zhodani armed forces. However, large warships need to
-remain many kilometres apart even when operating as a squadron
+remain many kilometers apart even when operating as a squadron
 and communication over greater distances is tiring for the telepaths
-involved. With a maximum range of about 50,000 kilometres telepathy
+involved. With a maximum range of about 50,000 kilometers telepathy
 is not useful in assisting with targeting or guiding weapons.
 
 The advantages provided by telepathic communication are still
@@ -5380,7 +5380,7 @@ Mission: Break into a villa, recover documents and return them
 Summary: This adventure is intended for use with a band of Travellers
 serving as a crew temporarily grounded for lack of funds at Argon
 Downport. Janosz is only slightly less than average in size, measuring
-8,000 kilometres in diameter, with a standard atmosphere and water
+8,000 kilometers in diameter, with a standard atmosphere and water
 covering 40% of the planet’s surface. Janosz has a population slightly
 in excess of one billion and is listed as a balkanised world with an
 average Law Level 8. There are, in fact, 32 sovereign states on the
@@ -5417,13 +5417,13 @@ Retiring to a table in the corner where they are unlikely to be overheard,
 Grant explains he is in the employ of a public figure who is being
 blackmailed. The item in his employer’s past is personal in nature,
 not political, but public revelation of it would nevertheless destroy his
-career. As his employer is out of favour with the government at present,
+career. As his employer is out of favor with the government at present,
 discretion from the police cannot be expected. He is forced to turn to
 unofficial means of protecting his privacy.
 
 Grant and his agents have determined the source of the blackmail to
 be one Ganidiirsi Kashkanun, a local citizen of some means but with a
-slightly unsavoury reputation. Kashkanun is known to have documents
+slightly unsavory reputation. Kashkanun is known to have documents
 that form the basis of his blackmail plot in his villa, probably in his
 personal safe. Only by examining the documents can Grant’s employer
 determine whether additional supporting documents may exist elsewhere
@@ -5856,7 +5856,7 @@ The documents did prove that Arlan Samuelson’s maternal
 grandmother was, in fact, Vilani. This had previously escaped notice
 as she bore a Solomani name; she had been adopted during infancy
 by Solomani parents. No special note was taken of her race as most
-people, even this close to the centre of Solomani political strength,
+people, even this close to the center of Solomani political strength,
 simply do not care much one way or another. Kashkanun, himself
 mostly Vilani, found the documents amusing and decided to make
 some additional money on the side at the expense of the Solomani

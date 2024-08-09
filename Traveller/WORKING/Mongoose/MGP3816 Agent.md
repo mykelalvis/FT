@@ -361,7 +361,7 @@ AAAGENTGENTGENT C C CHARACTERHARACTERHARACTER G G GENERATIONENERATIONENERATION
 
 53 Your mission requires some additional combat training due to its proximity to an active battle zone. Add Comms 1, Gunner 1, Gun Combat (any) 1, Melee (any) 1 or Tactics 1.
 
-54 Augment surgery is a standard for one of your missions, subsidised by the employer. Gain the Combat Implant benefit for free.
+54 Augment surgery is a standard for one of your missions, subsidized by the employer. Gain the Combat Implant benefit for free.
 
 55 You are injured in the line of duty and your employer takes very good care of you with the highest quality of body prosthetics. Gain +1 End.
 
@@ -559,7 +559,7 @@ EVENTS
 
 d66 d66 EventsEvents 11 Disaster! Roll on the Mishaps table but you are not ejected from this career.
 12 A negotiation turns hostile and the other company’s agents resort to force to solve the problem. Roll any Gun Combat or Melee skill 8+. Fail and roll on the Injury table. Succeed and gain +2 DM on your next Advancement roll.
-13 An alien government wants to subsidise your employer. Gain Language (any) 1 or Trade (any) 1.
+13 An alien government wants to subsidize your employer. Gain Language (any) 1 or Trade (any) 1.
 14 You protect a fellow corporate agent from an enemy, earning him as an Ally.
 15 The corporation is sending your department to a primitive world to set up a new branch there, dealing with the locals if needs be. Gain Melee (any) 1, Persuade 1 or Survival 1.
 16 Life Event. Roll on the Life Events table.
@@ -577,11 +577,11 @@ d66 d66 EventsEvents 11 Disaster! Roll on the Mishaps table but you are not ejec
 
 34 A unique business opportunity lies before you. Roll Trade (any) 8+ to make 1d6 x 1,000 Credits.
 
-35 There has been a banking error in your favour due to an error in the accounts department at your company. Keep the money and gain a +1 DM bonus to any single Benefit roll for Cash. Report the error and gain +1 Trust and Broker 1.
+35 There has been a banking error in your favor due to an error in the accounts department at your company. Keep the money and gain a +1 DM bonus to any single Benefit roll for Cash. Report the error and gain +1 Trust and Broker 1.
 
 36 Life Event. Roll on the Life Events table.
 
-41 The media does a favourable exposé on your branch of the corporation. Gain +1 Social Standing.
+41 The media does a favorable exposé on your branch of the corporation. Gain +1 Social Standing.
 
 42 You are sent on a long series of branch visits that take you all over the sector. Increase any one Language, Social Science or Trade skill by 1.
 
@@ -688,7 +688,7 @@ MISHAPS
 EVENTS
 
 d66 d66 EventsEvents 11 Disaster! Roll on the Mishaps table but you are not ejected from this career. 12 The employing agency mislabels a sociopathic mark as being ‘relatively harmless’. Roll Gun Combat (any) or Melee (any) 9+ to successfully capture him and avoid rolling on the Injury table. Succeed and gain +1 on your next Benefit roll. 13 You establish a good network of contacts on the street. Gain Streetwise 1 and Network (street). 14 A renowned legal advocate attempts to get your mark off the hook by throwing your agency to the media. Roll Advocate or Persuade 8+. If you fail, lose 1 Trust and suffer a –2 DM to your next Advancement roll. If you succeed, gain 1 Trust and a +2 DM to your next Advancement roll. Either way, gain the legal advocate as a Rival. 15 You encounter aliens whilst tracking a bounty. You may attempt to use force or diplomacy to deal with the situation by rolling either Melee (any) 8+ or Persuade 10+. If you succeed using Melee, gain an alien Enemy. If you succeed using Persuade, gain an alien Contact and a +2 DM to your next Advancement roll. 16 Life Event. Roll on the Life Events table. 21 You are weighed down with a huge amount of paperwork. Gain Admin 1, Advocate 1, Computers 1 or Comms 1. 22 A dangerous former mark has escaped and now stalks you and your family. Now and in each term afterwards until the mark is caught or you leave this career, roll Investigate 10+. If you succeed, the mark is caught; gain a
-+2 DM to your next Advancement roll. If you fail by 6 or more, lose one Contact, Ally or family member. 23 You have an unexpected and scandalous romantic relationship with a mark. Gain an Ally, then roll Deception 8+ to avoid losing 1 Trust. 24 You have the chance to make a brutal example of an unruly mark, showing other criminals you mean business. If you do, roll Melee (unarmed) 7+. Succeed and you can add 1 Trust and 1 level to Persuade. If you fail, add 1 Trust and roll on the Injury table. If you choose not to use brutality, gain +1 Social Standing for your show of ‘mercy’. 25 There is an opening in the local police force and they want you to join up. You may automatically qualify for the Law Enforcement (Special Operations) career next term. 26 Life Event. Roll on the Life Events table. 31 You hitch a ride to a mark on board a Star Marine vessel that owes your employer a favour and you might be able to talk them into showing you a few things in transit. Succeed in Carouse, Gambling or Persuade 9+ and learn Battle Dress 0, Heavy Weapons (any) 1 or Vacc Suit 1.
++2 DM to your next Advancement roll. If you fail by 6 or more, lose one Contact, Ally or family member. 23 You have an unexpected and scandalous romantic relationship with a mark. Gain an Ally, then roll Deception 8+ to avoid losing 1 Trust. 24 You have the chance to make a brutal example of an unruly mark, showing other criminals you mean business. If you do, roll Melee (unarmed) 7+. Succeed and you can add 1 Trust and 1 level to Persuade. If you fail, add 1 Trust and roll on the Injury table. If you choose not to use brutality, gain +1 Social Standing for your show of ‘mercy’. 25 There is an opening in the local police force and they want you to join up. You may automatically qualify for the Law Enforcement (Special Operations) career next term. 26 Life Event. Roll on the Life Events table. 31 You hitch a ride to a mark on board a Star Marine vessel that owes your employer a favor and you might be able to talk them into showing you a few things in transit. Succeed in Carouse, Gambling or Persuade 9+ and learn Battle Dress 0, Heavy Weapons (any) 1 or Vacc Suit 1.
 
 AAAGENTGENTGENT C C CHARACTERHARACTERHARACTER G G GENERATIONENERATIONENERATION
 
@@ -1428,7 +1428,7 @@ Failure however, will force the prosecuting character to make a single 2d6 dice 
 
 Unless the case is cancelled due to the failed argument, the judicial agent will then ask the accused party to defend himself – moving on to the next part of the Justice process.
 
-_Continuing the example from above, Marchus is called to argue the case against Iklaugh, bringing forth all of the evidence. Deciding to avoid using his limited Advocate skill in favour of his natural aptitude for Deception, Marchus is caught in a misleading statement and the Argument fails. He then rolls 2d6 and adds his Social Standing modifier of +1 for a total of 10; a good argument but still sees two pieces of Marchus’ Evidence thrown out of court._
+_Continuing the example from above, Marchus is called to argue the case against Iklaugh, bringing forth all of the evidence. Deciding to avoid using his limited Advocate skill in favor of his natural aptitude for Deception, Marchus is caught in a misleading statement and the Argument fails. He then rolls 2d6 and adds his Social Standing modifier of +1 for a total of 10; a good argument but still sees two pieces of Marchus’ Evidence thrown out of court._
 
 THE DEFENCE After the prosecution’s representative has managed to get as much of his evidence allowed into the judiciary agent’s decision-making process through his Argument toward conviction, a representative for the defendant gets a chance to speak.
 
@@ -2197,7 +2197,7 @@ The Stages of a Corporate War Any war between corporate entities, from national 
 
 The first time a pair of established companies clash it is normally due to one party expanding their business into the existing territory of another. This can be a physical territory, like delivery grounds and planetary resource tracts, or it can be a more figurative territory like similar styles of weapon research or type of clientele. One company looks at the expansion of the other and takes it as a threat to their ability to do business, which sparks the unpleasant relations between them.
 
-After a corporate conflict has begun, the next step for both sides is to start gathering intelligence on the other. Bribery and favour- dealing with the competition’s employees starts the cycle of ground level research, finding out what their new ‘enemy’ is all about. What begins with innocent fact finding missions and pocket lining quickly changes into hiring professional spies to gather information illicitly.
+After a corporate conflict has begun, the next step for both sides is to start gathering intelligence on the other. Bribery and favor- dealing with the competition’s employees starts the cycle of ground level research, finding out what their new ‘enemy’ is all about. What begins with innocent fact finding missions and pocket lining quickly changes into hiring professional spies to gather information illicitly.
 
 When spying missions reveal that a competitor is becoming a greater threat (or perceived as one), the corporate conflicts evolve from mere intelligence gathering to more direct maneuvers to gain leverage. Spies are no longer restricted to just reconnaissance; data theft and corruption being called upon to hinder opposing growth while stimulating the employer’s. Active marketing to the competition’s consumer or employee base rises to a primary advertising and recruitment scheme. Anything that causes the
 
@@ -2219,7 +2219,7 @@ Once the corporate war moves to violence there is no turning back. Agents are no
 
 Some corporate wars never reach the last stage of a corporate conflict; they are content to exist in the previous stages for decades or are ended by other circumstances. Those that escalate to the final level of the war begin to emulate an actual battle. Corporations hire soldiers and mercenaries to go out and do direct battle with the martial forces of the other. Only the most powerful corporations have the clout and influence to fight their competition this way. A war that reaches this point will end in only one way; the utter defeat of one side of the conflict.
 
-Corporate Alliances Not all corporations are fighting against one competitor. Like smaller nations caught in the path of a superpower, companies that are not singularly powerful enough to deal with the competition will seek allies in the market. Adding other smaller companies to their side of a corporate war can create a unified front that may tip the scales in their favour – or cause the fall of several minor entities at once.
+Corporate Alliances Not all corporations are fighting against one competitor. Like smaller nations caught in the path of a superpower, companies that are not singularly powerful enough to deal with the competition will seek allies in the market. Adding other smaller companies to their side of a corporate war can create a unified front that may tip the scales in their favor – or cause the fall of several minor entities at once.
 
 Companies must be careful when creating or joining alliances in this way. Standing with another corporation places resources, information and other important assets in the alliance’s collective grasp. Should an ally become swayed to the side of the enemy during the course of the conflict, their treachery stands to weaken the whole alliance tremendously. Not only will they feel the loss of an ally but also the betrayal itself can be a mighty blow to the war efforts.
 
@@ -2553,7 +2553,7 @@ multiple times or used as evidence later.
 
 Skills to Bypass:Skills to Bypass: Computers, Sensors, Stealth Task Difficulty: Task Difficulty: Average (+0 DM)
 
-BIO-ANALYSIS SCANNERS – TL 8 These wire line filaments are used to pick up trace chemicals left behind by living organisms that pass within a few metres of them.
+BIO-ANALYSIS SCANNERS – TL 8 These wire line filaments are used to pick up trace chemicals left behind by living organisms that pass within a few meters of them.
 
 Skills to Bypass:Skills to Bypass: Life Sciences (Chemistry or Biology), Sensors Task Difficulty: Task Difficulty: Difficult (–2 DM)
 
@@ -2561,7 +2561,7 @@ FIELD SURVEILLANCE RADAR SUITE – TL 9 A sweeping dish apparatus that can pick 
 
 Skills to Bypass:Skills to Bypass: Athletics (Endurance), Sensors, Stealth Task Difficulty:Task Difficulty: Difficult (–2 DM)
 
-IR MOTION TRACKER PYLON – TL 10 Scanning an area of over 100 metres for anything in the Infra-red spectrum moving more than a single metre every thirty seconds, these electronic devices are planted over open territory.
+IR MOTION TRACKER PYLON – TL 10 Scanning an area of over 100 meters for anything in the Infra-red spectrum moving more than a single meter every thirty seconds, these electronic devices are planted over open territory.
 
 Skills to Bypass:Skills to Bypass: Athletics (Endurance), Sensors, Stealth Task Difficulty:Task Difficulty: Difficult (–2 DM)
 
@@ -2569,11 +2569,11 @@ ELECTROMAGNETIC FIELD SCANNER – TL 11 Everything electronic gives off a nomina
 
 Skills to Bypass:Skills to Bypass: Computers, Engineer (electronics), Sensors, Stealth Task Difficulty:Task Difficulty: Very Difficult (–4 DM)
 
-PHEROMONE TRACE ELEMENT DETECTOR – TL 12 An advanced version of the bio-analysis scanner filament in a directional format, the pheromone trace element detector can pick up any living thing within 250 metres of its mount.
+PHEROMONE TRACE ELEMENT DETECTOR – TL 12 An advanced version of the bio-analysis scanner filament in a directional format, the pheromone trace element detector can pick up any living thing within 250 meters of its mount.
 
 Skills to Bypass:Skills to Bypass: Life Sciences (Chemistry or Biology), Sensors Task Difficulty:Task Difficulty: Very Difficult (–4 DM)
 
-NEUROLOGISTIC SCAN MATRIX – TL 15 The most advanced form of security suite, this complex series of crystalline antennae actually picks up the conscious thoughts made by sentient living things within 100 metres of it, making it very difficult to avoid during intrusion.
+NEUROLOGISTIC SCAN MATRIX – TL 15 The most advanced form of security suite, this complex series of crystalline antennae actually picks up the conscious thoughts made by sentient living things within 100 meters of it, making it very difficult to avoid during intrusion.
 
 Skills to Bypass:Skills to Bypass: Science (Psionocology), Sensors, Telepathy Task Difficulty: Task Difficulty: Formidable (–6 DM)
 
@@ -2737,7 +2737,7 @@ Starting the Hunt When searching for a specific ship the hunter has the best sta
 
 If the bounty hunter needs to learn the designation and the last location of the ship, any of the following methods in game terms will grant the information:
 
-USE A KNOWLEDGEABLE CONTACT, ALLY OR NETWORK The easiest way to find out the name of a specific vessel to track down is by knowing someone that may have the information. It may cost favours or a bribe but using a Contact, Ally or Network that has roots in the spacefaring industry or is otherwise related to the target being tracked is a sure way to get the information reliably.
+USE A KNOWLEDGEABLE CONTACT, ALLY OR NETWORK The easiest way to find out the name of a specific vessel to track down is by knowing someone that may have the information. It may cost favors or a bribe but using a Contact, Ally or Network that has roots in the spacefaring industry or is otherwise related to the target being tracked is a sure way to get the information reliably.
 
 TALK TO THE SPACERS AND PILOTS IN THE AREA Not as easy or reliable as using a known informant, a bounty hunter can canvas an area on his own. He can speak to the dockworkers, pilots, outgoing and incoming passengers, spaceport security and other useful fonts of information in order to glean some details on the target in question. A stall clerk might have sold a specific passenger a meal and he remembers the face or perhaps docking staff have a story about the ship the hunter is looking for.
 
@@ -2821,7 +2821,7 @@ SHIP TRACING TIMETABLE
 
 If the time runs out before the bounty hunter(s) can gather enough Effect, the target ship has moved on to a new destination. The Referee should _not_ inform the characters that they did not make it in time; instead he should let them arrive to the calculated route to find out that they missed the target by a few days or even hours. If this happens, the Referee returns to the Tracing Timetable and the process of route elimination begins anew.
 
-Eventually the characters should get a favourable timetable roll and manage to find the target in time. If not, perhaps they should be in the market for a new line of work. Ship tracing is obviously _not_ the right career choice for this bounty hunter!
+Eventually the characters should get a favorable timetable roll and manage to find the target in time. If not, perhaps they should be in the market for a new line of work. Ship tracing is obviously _not_ the right career choice for this bounty hunter!
 
 _Continuing our example, Renton has arrived at Beta Serapoln in search of the missing scout ship and its pilot. He immediately begins combing the spacer bars and computer records, even breaking into the local security network to look for license transactions with his ID on them. He makes eight total skill checks (a total of 300 hours; just over 12 days) before reaching the 18 Effect (Difficultly Traced) the Referee claims he needs. He knows where the scout ship is; the Bongol Waystation! When he arrives there however, the Referee laughs and reveals that he rolled 14 days on the timetable and Renton only missed the ship by less than 48 hours! Renton’s player growls his discontent and begins the searching process anew as the Referee secretly rolls another result on the timetable..._
 
@@ -3247,7 +3247,7 @@ Needeletto (TL7):Needeletto (TL7): A reinforced but thin metal ‘needle’ used
 
 WeaponWeapon TLTL Required SkillRequired Skill DamageDamage HeftHeft Cost (Cr.)Cost (Cr.) Mass (Kg)Mass (Kg) SpecialSpecial Needeletto 7 Melee (Blade) 1d6+1 –1 75 0.5 Armor reduced
 
-Vocal Trigger (TL10): Vocal Trigger (TL10): Attached to any firearm of TL8 or higher, the vocal trigger is an electronic counter-safety that allows agents to ‘tell’ their weapon to fire even if the trigger cannot be depressed or the weapon’s safety is engaged. It is coded to a specific three-word phrase and tone of voice, making it very difficult (–4 DM) to mimic. It also only works in a speaking tone up to twelve metres away; not a shouted command or a whisper. Cr. 750. Vocal triggers for one weapon are not interchangeable with different types; one must be pur chased for each specific model of weapon.
+Vocal Trigger (TL10): Vocal Trigger (TL10): Attached to any firearm of TL8 or higher, the vocal trigger is an electronic counter-safety that allows agents to ‘tell’ their weapon to fire even if the trigger cannot be depressed or the weapon’s safety is engaged. It is coded to a specific three-word phrase and tone of voice, making it very difficult (–4 DM) to mimic. It also only works in a speaking tone up to twelve meters away; not a shouted command or a whisper. Cr. 750. Vocal triggers for one weapon are not interchangeable with different types; one must be pur chased for each specific model of weapon.
 
 Armor and Armor Components Stealth Bodyglove, Armored (TL10):Stealth Bodyglove, Armored (TL10): A protective bodyglove worn to cushion against impacts and potentially deflect low calibre rounds, this armor is designed to help blend into shadows and undergrowth equally well, adding a +2 bonus to all Stealth skill checks in darkness and foliage.
 
@@ -3265,9 +3265,9 @@ Mass Mass
 
 X-Ray Chameleon (TL11): X-Ray Chameleon (TL11): This technology can be applied to any vacc suit, combat environment suit, combat armor, powered armor or battle dress. Thin layers of inert radioactive materials shield the wearer from appearing on X-ray scanners, scopes or goggles. This baffles X-ray based detection and tracking systems, imposing a –4 DM on attempts to discover or track the wearer with that technology. Cr. 3,000.
 
-Field Equipment Compact Communication Suite (TL10): Compact Communication Suite (TL10): A special communications transmitter/receiver set that is worn inside the mouth and ear. Fastened around a rear tooth, the transmitter is triggered by the user clenching his teeth and then whispering barely audibly. This allows the user to keep a communication range of 3 kilometres without worrying about giving away his position, adding a +2 DM to Stealth skill checks for these purposes. Cr. 750.
+Field Equipment Compact Communication Suite (TL10): Compact Communication Suite (TL10): A special communications transmitter/receiver set that is worn inside the mouth and ear. Fastened around a rear tooth, the transmitter is triggered by the user clenching his teeth and then whispering barely audibly. This allows the user to keep a communication range of 3 kilometers without worrying about giving away his position, adding a +2 DM to Stealth skill checks for these purposes. Cr. 750.
 
-Holographic Decoy (TL9): Holographic Decoy (TL9): This small and easily hidden projector creates intermittent flickers of holographic movement throughout a nine-metre area that can be seen for over a hundred metres, attracting attention to that area and away from the user. An active holographic decoy will add a +4 DM to Stealth skill checks within fifty metres but not within nine of the projector. Cr. 800.
+Holographic Decoy (TL9): Holographic Decoy (TL9): This small and easily hidden projector creates intermittent flickers of holographic movement throughout a nine-meter area that can be seen for over a hundred meters, attracting attention to that area and away from the user. An active holographic decoy will add a +4 DM to Stealth skill checks within fifty meters but not within nine of the projector. Cr. 800.
 
 Intrusion Kit (TL5+): Intrusion Kit (TL5+): This is a collection of useful tools and implements used to break into locked perimeters. Lock picks, hinge grease, glass cutters and the like make breaking and entering much easier, granting a +1 DM bonus to all skill checks pertaining to intrusion into a building, plus an additional +1 DM for every two technology levels higher the kit is compared to the building it is being used upon. Cr. 50 multiplied by the technology level of the kit.
 
@@ -3285,13 +3285,13 @@ Personal Augments Camodermis (TL10): Camodermis (TL10): This is a layer of image
 
 Subdermal Sensor Shielding (TL11):Subdermal Sensor Shielding (TL11): Adds a mesh of reactive fibres to the skin similar to those used in IR chameleonic armors, giving the character a natural version of the same kind of stealth-increasing attributes. This imposes a –2 DM on attempts to detect or track the wearer with infra-red sensors. Subdermal sensor shielding stacks with armor but not other types of subdermal armor. Cr. 25,000.
 
-Technoscramble Emitter (TL11): Technoscramble Emitter (TL11): A wired transmitter that runs down the spinal cord, the technoscramble emitter amplifies nerve impulse energy into a wavelength discordant to those used by radio receivers. Any radio-based device of a technology level 10 within 30 metres or less is jammed by the emitter, imposing –6 DM on all skill checks using the device. The emitter is not an optional device, as it cannot be turned off once implanted. Cr. 75,000.
+Technoscramble Emitter (TL11): Technoscramble Emitter (TL11): A wired transmitter that runs down the spinal cord, the technoscramble emitter amplifies nerve impulse energy into a wavelength discordant to those used by radio receivers. Any radio-based device of a technology level 10 within 30 meters or less is jammed by the emitter, imposing –6 DM on all skill checks using the device. The emitter is not an optional device, as it cannot be turned off once implanted. Cr. 75,000.
 
 ##### SPECIALIST AGENT EQUIPMENT
 
 There is much more to the Agent career paths than sneaking around and trying not to get caught; this section is devoted to numerous pieces of equipment that can help characters perform a variety of tasks. This equipment is divided by Agent career paths but it could be obtained and used by any Traveller character.
 
-Law Enforcement Bullhorn Helm (TL8): Bullhorn Helm (TL8): An armored helmet with an electronic face grille used to amplify the wearer’s voice in the same way that a bullhorn does, allowing a police officer to project his voice with added authority. The wearer of this helmet can be heard clearly for 200 metres, gaining a +1 DM on all Persuade and Leadership rolls to targets within half that distance. 5 kg, Cr. 200.
+Law Enforcement Bullhorn Helm (TL8): Bullhorn Helm (TL8): An armored helmet with an electronic face grille used to amplify the wearer’s voice in the same way that a bullhorn does, allowing a police officer to project his voice with added authority. The wearer of this helmet can be heard clearly for 200 meters, gaining a +1 DM on all Persuade and Leadership rolls to targets within half that distance. 5 kg, Cr. 200.
 
 Charged Shield (TL11): Charged Shield (TL11): A new version of the standard riot shield. A charged shield is an advanced riot shield with a grid of conduits built onto its surface. These are powered by a small backpack which has 20 ‘power points’ available before needing to be recharged at any central recharging station. If anything crosses more than one of the sensitive wires, it erupts in a powerful burst of electricity. This costs 1 power point per burst and inflicts 1d6+2 Stun damage upon any target struck with the shield or anyone that strikes the shield with a metallic melee weapon (see page 101 of the _Traveller Core Rulebook_ for rules on stun weapons). Attacks that hit will fall on the shield on 8+; its armor value is 8.
 
@@ -3319,11 +3319,11 @@ Investigator Autocam (TL7): Autocam (TL7): This high resolution, perfect zoom ca
 
 Code Turner Software (TL9): Code Turner Software (TL9): A complex program that turns defensive software programs against themselves to create a viewable ‘window’ through the code; making computerised information gathering far easier. The drawback to this form of program is that it only works as a viewer – no data may be transmitted or downloaded while the code turner is on. This adds a +2 DM bonus to the Computers skill when dealing with an actively defended network or data stream. Cr. 5,000.
 
-DNA Sampler/Storage Kit (TL8): DNA Sampler/Storage Kit (TL8): This is a small handgun-like device that takes a cubic millimetre of living tissue from anything the muzzle is pushed against when the trigger is depressed. It is used by investigators to take and keep DNA samples bottled and logged for all justice casework. The kit automatically seals every sample in a small test tube and labels them based on what is keyed into the handle. Cr. 500.
+DNA Sampler/Storage Kit (TL8): DNA Sampler/Storage Kit (TL8): This is a small handgun-like device that takes a cubic millimeter of living tissue from anything the muzzle is pushed against when the trigger is depressed. It is used by investigators to take and keep DNA samples bottled and logged for all justice casework. The kit automatically seals every sample in a small test tube and labels them based on what is keyed into the handle. Cr. 500.
 
 Holographic Disguise Generator (TL12): Holographic Disguise Generator (TL12): An undercover agent’s best friend, the HDG is a very complex device made up of projector wrist cuffs, anklets, a waistband and a collar. These devices are wirelessly keyed in to a central data node that resembles a handheld communicator. The node is programmed with a three-dimensional image of a person (requiring a Computers skill check), which it emits through the projectors as a full-body image. This grants the wearer a +6 DM to Deception skill checks for the purposes of visual disguises. The holograph is not tangible and any physical contact will cause the image to flicker – getting rid of the bonus for any who see. Cr. 10,000.
 
-Neural Flash (TL16): Neural Flash (TL16): Used only when an undercover agent is caught in a situation that could be actionable for he or his employer, the neural flash is a small one-use device similar to a data pen or stylus. When activated, the neural flash emits an intense psionic pulse that erases the last 2d6 hours from the minds of anyone within nine metres who sees the device when it is activated. Those affected can pass a Very Difficult (–4 DM) Athletics (endurance) skill check to shrug off most of the effects, reducing the length of time to 2d6 minutes. Unauthorized use of a neural flash is an offence punishable by a steep prison sentence. Cr. 25,000.
+Neural Flash (TL16): Neural Flash (TL16): Used only when an undercover agent is caught in a situation that could be actionable for he or his employer, the neural flash is a small one-use device similar to a data pen or stylus. When activated, the neural flash emits an intense psionic pulse that erases the last 2d6 hours from the minds of anyone within nine meters who sees the device when it is activated. Those affected can pass a Very Difficult (–4 DM) Athletics (endurance) skill check to shrug off most of the effects, reducing the length of time to 2d6 minutes. Unauthorized use of a neural flash is an offence punishable by a steep prison sentence. Cr. 25,000.
 
 Spy Acidic Lockpick (TL5+): Acidic Lockpick (TL5+): Used only in cases where access is more important than secrecy, the acidic lockpick is a thin glass tube attached to a refillable latex bulb of acid. The tube is inserted into any mechanical tumbler-based lock (TL7 or less) and the bulb rapidly squeezed to spray the acid into the workings of the lock. This softens the tumblers and springs before fusing them together into one mass of metallic sludge, allowing the spy to force the lock open with ease. The tumblers will be softened in 1d6x30 seconds, allowing an Athletics (strength) check with a +6 DM modifier to open the lock. The lock parts will re-solidify in 1d6+3 minutes after application however, making the mechanism permanently stuck in its state at the time (locked/unlocked, closed/open). Cr. 50.
 
@@ -3331,9 +3331,9 @@ Facelift Mask (TL8): Facelift Mask (TL8): A masterly crafted prosthetic mask cre
 
 a second skin that bears a different visage. The mask is made from organic compounds and materials, making it almost undetectable by sight, touch or even taste. The facelift mask grants a +6 DM bonus to all Deception skill checks to hide the wearer’s features or mimic the features of the one whose image was used to create the mask. The organic compounds are time sensitive however and a facelift mask will begin to deteriorate rapidly after 2d6x5 hours after being removed from its airtight storage package. Removing the mask from one’s face at any time will invariably tear some of its sensitive fibres, ruining it prematurely. Cr. 5,000.
 
-Magnetic Intrusion Gear (TL9): Magnetic Intrusion Gear (TL9): This is a set of gloves and foot pads that contain extremely powerful electromagnets in the shape of rollers and gripping points on their palms and soles. When activated, the magnetic fields hold up to 175kg of weight against any ferrous metallic surface. The roller points allow the wearer to move, although slowly, while adhered (1.5 metres per significant action). The magnetic intrusion gear adds a +2 DM to climbing-based Athletics skill checks on a metallic surface, as well as granting the ability described above. Cr. 750.
+Magnetic Intrusion Gear (TL9): Magnetic Intrusion Gear (TL9): This is a set of gloves and foot pads that contain extremely powerful electromagnets in the shape of rollers and gripping points on their palms and soles. When activated, the magnetic fields hold up to 175kg of weight against any ferrous metallic surface. The roller points allow the wearer to move, although slowly, while adhered (1.5 meters per significant action). The magnetic intrusion gear adds a +2 DM to climbing-based Athletics skill checks on a metallic surface, as well as granting the ability described above. Cr. 750.
 
-Pocket Scrambler (TL10): Pocket Scrambler (TL10): A powerful transmission scrambler fitted into a small ovoid roughly the size and shape of a bar of soap. The pocket scrambler emits a constant cacophony of feedback and noise into most radio frequencies within 50 metres. It only functions for up to one half-hour per battery charge but any unsecured radio networks (such as the communications between security guards) will be extremely difficult to use (–4 DM to skill checks) during that time. Cr. 500.
+Pocket Scrambler (TL10): Pocket Scrambler (TL10): A powerful transmission scrambler fitted into a small ovoid roughly the size and shape of a bar of soap. The pocket scrambler emits a constant cacophony of feedback and noise into most radio frequencies within 50 meters. It only functions for up to one half-hour per battery charge but any unsecured radio networks (such as the communications between security guards) will be extremely difficult to use (–4 DM to skill checks) during that time. Cr. 500.
 
 Whisperkill Pistol (TL11): Whisperkill Pistol (TL11): An amazingly powerful sidearm that is surprisingly small, light and extremely quiet. The Whisperkill is a small, twin-barrelled slug pistol with one shot per silenced barrel. Like all suppressed or silenced weapons, the Whisperkill imposes a
 –4 DM on attempts to locate it using sound. The weapon can either be fired as two single shots or a single powerful attack using both barrels. This second firing mode uses the damage and recoil values listed in the parenthesis.
@@ -3357,7 +3357,7 @@ Ammo Cost Ammo Cost
 
 detonate while the case is open. The locks are considered Very Difficult to bypass and the explosive devices Formidable (–6 DM). If ever used as cover, the security case is worth 3 points of armor. 2kg; Cr. 500.
 
-Displacement Barrier (TL13): Displacement Barrier (TL13): It is hardest for security and bodyguards to protect their employer from the single surprising shot made by a distant sniper. The displacement barrier is a semi-mobile sheet of advanced translucent polymers that are woven with several layers of useful technology. The primary use for the barriers is that visual images seen through them are shifted by nearly a half-metre, making it impossible for shooting attacks to successfully Aim at the target
+Displacement Barrier (TL13): Displacement Barrier (TL13): It is hardest for security and bodyguards to protect their employer from the single surprising shot made by a distant sniper. The displacement barrier is a semi-mobile sheet of advanced translucent polymers that are woven with several layers of useful technology. The primary use for the barriers is that visual images seen through them are shifted by nearly a half-meter, making it impossible for shooting attacks to successfully Aim at the target
 (aiming in any form is automatically nullified). A self-polarising element in the barrier activates as soon as any projectile moving at least as fast as a thrown object strikes the polymer pane, blackening it immediately to a one-way opaqueness to grant complete cover to anyone behind it. A displacement barrier can be set up on its stand in 1d6 minutes, covering a 90 degree angle. These devices are designed to be used in multiples, offering better all-round protection and can be networked easily for all polymer panes to blacken when one is triggered. 25kg; Cr. 2,000.
 
 Dual-Holo Projection Suite (TL12): Dual-Holo Projection Suite (TL12): This pair of advanced wrist cuffs are worn by a diplomat and his bodyguard and are linked to a central imaging projector located somewhere between them. While worn and active, the projection suite casts a visually perfect hologram of each cuff’s wearer upon the body of the _other_ cuff’s wearer. This means that anyone trying to target what they believe to be the diplomat will actually be targeting the bodyguard. This item reduces Investigate skill checks by –4 DM to see through the images. Cr. 1,000 per suite.
@@ -3377,15 +3377,15 @@ programmed languages with a 0.05 second delay.
 - Convert spoken language into text file format as quickly as it
   is received.
 
-The drone is plain, matte black in colour and levitates at head level of its owner at all times, normally within six metres. Cr. 15,000.
+The drone is plain, matte black in colour and levitates at head level of its owner at all times, normally within six meters. Cr. 15,000.
 
 Corporate Chameleon Uniform (TL9): Chameleon Uniform (TL9): A simple set of clothing that has been patterned after any type of suit, uniform or other pattern. A chameleon uniform is an easy way for a corporate spy to vanish into the crowd when his mission is done. The uniform has a hidden button in one of the cuffs that sends a light current through the cloth, drastically altering its colour and pattern in seconds. This can be used to turn a normal set of clothing into a corporate uniform or vice-versa with a minor action and 1d6 seconds. Cr. 750.
 
-Data-Corer (TL8): Data-Corer (TL8): A malicious item used by corporate agents sent on data-destruction missions, the data-corer is a handheld electronic device that resembles a pistol with no barrel. When the trigger is pulled the device emits a short-ranged (1.5 metres) cone of intense electromagnetic and microwave pulses. This does very little to its environment but will invariably wipe out or corrupt all computer data on storage systems within that cone. The erasure is powerful and extremely difficult to repair, requiring a total of 30 Effect on a Formidable level Computers skill checks. A side benefit of the data- corer’s effect is the ability to inflict 1d6 damage on any cybernetically augmented target caught in the area of effect as well, ignoring armor. Firing the data-corer is a significant action and it can be used for ten pulses before needing to be recharged. Cr. 1,000.
+Data-Corer (TL8): Data-Corer (TL8): A malicious item used by corporate agents sent on data-destruction missions, the data-corer is a handheld electronic device that resembles a pistol with no barrel. When the trigger is pulled the device emits a short-ranged (1.5 meters) cone of intense electromagnetic and microwave pulses. This does very little to its environment but will invariably wipe out or corrupt all computer data on storage systems within that cone. The erasure is powerful and extremely difficult to repair, requiring a total of 30 Effect on a Formidable level Computers skill checks. A side benefit of the data- corer’s effect is the ability to inflict 1d6 damage on any cybernetically augmented target caught in the area of effect as well, ignoring armor. Firing the data-corer is a significant action and it can be used for ten pulses before needing to be recharged. Cr. 1,000.
 
-Networking Adhesion Modem (Hacktape) (TL10): Networking Adhesion Modem (Hacktape) (TL10): A flat, 5cm piece of molecularly adhesive plastic containing a web of sensitive broadcasting filaments. Any computer the hacktape is stuck directly to (no more than six centimetres barrier between the tape and circuitry) is considered to be in direct networked connection with another pre-programmed computing device. The hacktape has a linking range of only 30 metres. This expensive and advanced computer accessory was originally designed to allow technicians to monitor vehicular computers without having to take the vehicle offline to do so. The technology has fallen into the hands of data- hackers and now is used to make stealthy connections to corporate networks without having to maintain a hard-link. Cr. 5,000.
+Networking Adhesion Modem (Hacktape) (TL10): Networking Adhesion Modem (Hacktape) (TL10): A flat, 5cm piece of molecularly adhesive plastic containing a web of sensitive broadcasting filaments. Any computer the hacktape is stuck directly to (no more than six centimeters barrier between the tape and circuitry) is considered to be in direct networked connection with another pre-programmed computing device. The hacktape has a linking range of only 30 meters. This expensive and advanced computer accessory was originally designed to allow technicians to monitor vehicular computers without having to take the vehicle offline to do so. The technology has fallen into the hands of data- hackers and now is used to make stealthy connections to corporate networks without having to maintain a hard-link. Cr. 5,000.
 
-Surveillance-Hub Helmet Rig (TL8): Surveillance-Hub Helmet Rig (TL8): Keeping good security at expansive corporate grounds with several square kilometres to cover can be difficult. Setting up dozens of surveillance cameras can help increase video coverage but still requires personnel to monitor them.
+Surveillance-Hub Helmet Rig (TL8): Surveillance-Hub Helmet Rig (TL8): Keeping good security at expansive corporate grounds with several square kilometers to cover can be difficult. Setting up dozens of surveillance cameras can help increase video coverage but still requires personnel to monitor them.
 
 Armor TypeArmor Type TLTL ProtectionProtection Required SkillRequired Skill Cost (Cr.)Cost (Cr.) Mass (Kg)Mass (Kg) Advanced Protec 11 3 None 1,750 1
 
@@ -3406,7 +3406,7 @@ Cost Cost
 8 Ranged
 (Thrown)
 
-N/A 1 3 metres
+N/A 1 3 meters
 
 85
 
@@ -3414,7 +3414,7 @@ Jump Filters (TL11): Jump Filters (TL11): A very expensive hardware and software
 
 may have taken. This is very useful for ship tracers and using jump filters to track a vessel automatically adds 2d6 Effect to the total needed to find a vessel if the rules for Ship Tracing are being used. Cr. 250,000.
 
-Mind-Brig (TL15): Mind-Brig (TL15): An expensive and powerful detainment device used by high-end bounty hunters only, the mind-brig is a centimetre- wide circlet of a golden alloy speckled with neuron-sensitive crystal nodes. While the circlet is placed around the head (or other brain- containing area) of a living being, it nullifies the ability to make conscious thought. This effectively ‘turns off’ the wearer, allowing a hunter to move his bounty freely without fear of it escaping, fighting or even talking. Beings with a Psi characteristic may attempt to pass a 10+ Psi test (adding in their strongest Psion skill rating) to fight the mind-brig; success overloads the sensitive crystals and breaks the mind-brig. Cr. 100,000.
+Mind-Brig (TL15): Mind-Brig (TL15): An expensive and powerful detainment device used by high-end bounty hunters only, the mind-brig is a centimeter- wide circlet of a golden alloy speckled with neuron-sensitive crystal nodes. While the circlet is placed around the head (or other brain- containing area) of a living being, it nullifies the ability to make conscious thought. This effectively ‘turns off’ the wearer, allowing a hunter to move his bounty freely without fear of it escaping, fighting or even talking. Beings with a Psi characteristic may attempt to pass a 10+ Psi test (adding in their strongest Psion skill rating) to fight the mind-brig; success overloads the sensitive crystals and breaks the mind-brig. Cr. 100,000.
 
 Stun-Cuffs (TL8): Stun-Cuffs (TL8): Effective methods for hunters to keep their bounties under control, stun-cuffs are sometimes viewed as sadistic or cruel. A target placed in stun-cuffs is detained in the same way as normal handcuffs or shackles but is administered a powerful stunning shock if he attempts to pull the cuffs taught for any reason. This automatically inflicts 1d6+1 Stun damage to the wearer. Stun-cuffs can inflict 100 of these charges before the battery needs replacing and are considered Very Difficult to remove without the proper key code. Cr. 200.
 
@@ -3465,7 +3465,7 @@ Covert Operations FighterCovert Operations Fighter TonsTons Price (MCr.)Price (M
 
 AGENT TECHNOLOGY
 
-Prisoner Ferry Prison planets or Imperial detention centres will occasionally need to take prisoners from one facility to another. They can do so with ease and safety through the use of prisoner ferry vessels. This ship is a favourite of prolific bounty hunters, who can fill their brig with multiple bounties at once to deliver them across long distances. The crew consists of a captain, pilot, navigator, 2 engineers, 3 gunners and 4 security guards. Prisoners are usually carried in low berths, although for short trips (or less scrupulous operators) additional cabin space is available for more prisoners. For prisoners requiring special treatment, there are two staterooms available.
+Prisoner Ferry Prison planets or Imperial detention centres will occasionally need to take prisoners from one facility to another. They can do so with ease and safety through the use of prisoner ferry vessels. This ship is a favorite of prolific bounty hunters, who can fill their brig with multiple bounties at once to deliver them across long distances. The crew consists of a captain, pilot, navigator, 2 engineers, 3 gunners and 4 security guards. Prisoners are usually carried in low berths, although for short trips (or less scrupulous operators) additional cabin space is available for more prisoners. For prisoners requiring special treatment, there are two staterooms available.
 
 Prisoner FerryPrisoner Ferry TonsTons Price (MCr.)Price (MCr.) HullHull 300 Hull 6 Structure 6
 

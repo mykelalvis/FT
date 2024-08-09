@@ -38,8 +38,10 @@ As a result of this economic and physical isolation, Keng receives almost no not
 
 > [!info]- KENG LONG-GUN
 >
-> One of the more distinctive weapons found on Keng is the long-gun, a double-barrelled black powder weapon with outwardly identical side-by-side barrels. However, one of these barrels is rifled and the other smoothbore. Favoured by opportunistic hunters, the standard long-gun is chambered for modestly powerful rifle ammunition suitable for game as large as deer. The shotgun barrel is loaded with lighter shot suitable for small game birds. A more powerful version is used by some hunters who go after more dangerous prey.
+> One of the more distinctive weapons found on Keng is the long-gun, a double-barrelled black powder weapon with outwardly identical side-by-side barrels. However, one of these barrels is rifled and the other smoothbore. Favored by opportunistic hunters, the standard long-gun is chambered for modestly powerful rifle ammunition suitable for game as large as deer. The shotgun barrel is loaded with lighter shot suitable for small game birds. A more powerful version is used by some hunters who go after more dangerous prey.
 >
 > Those made in the outback are typically flintlocks, with percussion cap versions used by those with access to a more developed chemical industry. Conversion from one mode of ignition to the other is not difficult for a competent gunsmith.
 > Weapon TL Range Damage Kg Cost Magazine Magazine Cost Traits Keng Long-Gun 3 100 (rifle)
 > #TODO
+
+The Keng system has two gas giants, a large one much closer to the primary, and the small one very far out. As a result, starship traffic to the small gas giant is minimal, and there is little chance that anyone would normally be anywhere near it.  Keng, of interest only because it is the nearest habitable world, is a small world with a high population and a charismatic oligarchic government.

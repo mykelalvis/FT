@@ -188,7 +188,7 @@ into the hull as required, which can include weapons, sensors,
 communications equipment, crew facilities and cargo space.
 
 Each component built into a vehicle takes up a certain amount
-of space. The unit used in this design system is the cubic metre
+of space. The unit used in this design system is the cubic meter
 (M^3 ). A vehicle cannot carry more than its internal volume
 allows, unless it is an open structure with items piled up on top
 or hanging out of the sides such as motorcycles, air/rafts and
@@ -302,7 +302,7 @@ Base Structure: 26 ÷ 4 = 6.5 round up to 7
 ```
 
 STEP ONE: CAPACITY
-Capacity is measured in cubic metres (abbreviated M^3 hereafter).
+Capacity is measured in cubic meters (abbreviated M^3 hereafter).
 The shape taken by this volume is not relevant here. For large
 components, the shape will be dictated by the shape of the
 object. Smaller components or systems made up of many small
@@ -3860,7 +3860,7 @@ Ground Pressure 2.16 — — —
 
 **SURVEILLANCE ALL TERRAIN VEHICLE**
 The Surveillance All Terrain Vehicle is a small and lightly armored vehicle with advanced sensors and stealth technology. Its
-primary role is for reconnaissance, but it is also used as a tactical command centre where MCCs (see page 42) are not available
+primary role is for reconnaissance, but it is also used as a tactical command center where MCCs (see page 42) are not available
 or practical.
 
 ```
@@ -4970,7 +4970,7 @@ GGGRRAVRAAVV V VVEEHICLESEHHIICCLLEESS
 
 **GUNSKIFF**
 A mobile gun platform that allows passengers to fi re their weaponry over a somewhat precarious railing. Sometimes used to ferry
-troops, but most often used as fi repower platforms. Gunskiffs are a favourite of the Aslan, who also use them to deploy assault
+troops, but most often used as fi repower platforms. Gunskiffs are a favorite of the Aslan, who also use them to deploy assault
 troops.
 
 ```
@@ -5442,7 +5442,7 @@ Total — 16.19 6,892 42,140
 
 **LIGHT BOMBER**
 Light bombers are designed to attack enemy ground troops in a tactical role and tend to have a limited payload. They are phased
-out in favour of fi ghter-bombers which excel in the ground attack role.
+out in favor of fi ghter-bombers which excel in the ground attack role.
 
 ```
 Light Bomber (TL 4) M^3 Mass (kg) Cost (Cr.)

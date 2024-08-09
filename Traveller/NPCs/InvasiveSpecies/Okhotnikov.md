@@ -6,6 +6,8 @@ tags:
   - Mongoose
   - Invasive_Species
   - NPC
+  - House_Alekvadin
+date updated: 2024-08-09 10:30
 ---
 
 ## Okhotnikov
@@ -13,11 +15,14 @@ tags:
 HIS GRACE, THE DUCAL HEIR, ARVINEN ELIOS OKHOTNIKOV
 [[Vilani]] Male 32 (87AA9F)
 
-![[Okhotinikov_Portrait.jpg]]
+![[Okhotinikov_Portrait.jpg|200]]
+[[Okhotinikov_Portrait.jpg|Image]]
+
 The ducal heir, or ‘your grace’ as the Travellers are permitted to call him, is a competent outdoorsman, although by no means an expert, and an excellent shot.
+
 He is obviously not a person who has ever wanted for anything in his life and he tends to inflict his elevated status upon those around him.
 
-TRAITS — SKILLS
+TRAITS
 STR 8 INT 7
 DEX 10 EDU 10
 END 9 SOC 15

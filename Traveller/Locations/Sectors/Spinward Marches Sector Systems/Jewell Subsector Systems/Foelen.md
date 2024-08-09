@@ -76,9 +76,9 @@ Some Chokari are taken for experimentation and, although this is typically a fai
 > ### Traits
 >
 > Dolphin Travellers all possess the following traits:
-> **Deep Diver (300m):** Foelen Dolphins can dive deep underwater, to a depth of 300 metres without risk and can hold their breath for up to 15 minutes.
-> **Echolocation (100m):** Dolphins use a highly sensitive echolocation sense to navigate their environment, effectively allowing them to ‘see’ underwater or in complete darkness to a range of 100 metres.
-> **Swimmer (12m):** Dolphins are superb swimmers and can move through water at a speed of 12 metres.
+> **Deep Diver (300m):** Foelen Dolphins can dive deep underwater, to a depth of 300 meters without risk and can hold their breath for up to 15 minutes.
+> **Echolocation (100m):** Dolphins use a highly sensitive echolocation sense to navigate their environment, effectively allowing them to ‘see’ underwater or in complete darkness to a range of 100 meters.
+> **Swimmer (12m):** Dolphins are superb swimmers and can move through water at a speed of 12 meters.
 >
 > ### Careers
 >
@@ -100,8 +100,8 @@ Some Chokari are taken for experimentation and, although this is typically a fai
 >
 > ###Traits
 > Chokari Travellers all possess the following traits:
-> Deep Diver (100m): Chokari can dive deep underwater, to a depth of 100 metres without risk and can hold their breath for up to 10 minutes.
-> Swimmer (6m): Chokari are superb swimmers and can move through water at a speed of 6 metres.
+> Deep Diver (100m): Chokari can dive deep underwater, to a depth of 100 meters without risk and can hold their breath for up to 10 minutes.
+> Swimmer (6m): Chokari are superb swimmers and can move through water at a speed of 6 meters.
 >
 > ### Careers
 >

@@ -261,8 +261,8 @@ will be sent to establish the colony: a low berth module, a downport
 module, a habitation module and a cargo module.
 
 Those who wish to draw maps of the colony should start here. The
-modules are slightly flattened half-cylinders 138 metres long by 18
-metres wide by six metres high. Three of the modules will be left behind
+modules are slightly flattened half-cylinders 138 meters long by 18
+meters wide by six meters high. Three of the modules will be left behind
 when the Steppehaulers depart, forming the initial colony.
 
 The Steppehaulers will take the low berth module with them once the
@@ -392,8 +392,8 @@ then filled with 500 tons of ore.
 
 If the world’s Atmosphere is other than Thin (5), Standard (6) or
 Dense (8), a set of transparent panels will be provided that deploy
-to form an atmosphere dome roughly 30 metres by 300 metres by
-300 metres, taking up 200 tons of the cargo module when packaged
+to form an atmosphere dome roughly 30 meters by 300 meters by
+300 meters, taking up 200 tons of the cargo module when packaged
 away. It will include an airlock sized to fit one Steppehauler, as well as
 smaller airlocks to admit grav vehicles and people in environmental
 suits. If an ice asteroid had to be provided due to low Hydrographics,
@@ -462,12 +462,12 @@ would be worth about MCr0.5. In this case, goods are transported in
 Tijians to track in terms of container modules.
 
 Only six types of goods are accepted from the colonies:
-● 500 tons of common ore is worth 1 container.
-● 500 tons of uncommon ore or common raw materials is worth 5
+- 500 tons of common ore is worth 1 container.
+- 500 tons of uncommon ore or common raw materials is worth 5
 containers.
-● 500 tons of uncommon raw materials or crystals and gems is worth
+- 500 tons of uncommon raw materials or crystals and gems is worth
 20 containers.
-● 500 tons of radioactive materials is worth 1,000 containers.
+- 500 tons of radioactive materials is worth 1,000 containers.
 
 Each container sent back to the Tijian Expanse adds to the colony’s
 credit. While there are several Steppehaulers available, a colony
@@ -1216,7 +1216,7 @@ dissuaded industrious workers from landing here.
 The Shushakan moon’s surface is divided into megacity-sized
 compounds of construction sites, management quarters, production
 centres, automated factories and squalid dormitories, making Shushaka
-a nonstop industrial centre. Outside the production centres, the blasted
+a nonstop industrial center. Outside the production centres, the blasted
 surface is pocked by innumerable mining sites and pits of chemical
 waste. With no concern given for pollution or ecological damage,
 corrosives and toxic by-products befoul the wastelands, to be salvaged
@@ -1242,7 +1242,7 @@ controlled by the company, with complete self-sufficiency its goal.
 HISTORY
 Despite not being as habitable as its neighbor Kaasu, settlers came
 to the Shushaka system for its rich mineral deposits and eschewed
-creature comforts in favour of the vast wealth that could be made from
+creature comforts in favor of the vast wealth that could be made from
 the system’s untapped resources. Over time, the system attracted
 more of that type of rugged colonist, eager to enrich themselves in
 this frontier even if that meant depriving themselves of the domestic
@@ -1258,7 +1258,7 @@ opinion) did not deserve its greater success made the Shushaka
 inhabitants both strongly allied with each other and xenophobic to
 outsiders. Shushakans continued to work tirelessly with the goal to
 eventually out-produce their more successful neighbors and assert
-their home as the rightful capital and economic centre of the subsector.
+their home as the rightful capital and economic center of the subsector.
 Shushakan inhabitants have a contemptuous view of those from
 Kaasu, seeing them as less industrious and leading a charmed life to
 which they are undeserving. Their view of those from other systems is
@@ -1282,7 +1282,7 @@ rotation, factory shifts are typically 12 hours or longer.
 
 Those working in the corporate sector are highly competitive and
 exhibit the culture’s signature mistrust of outsiders. Accelerated burnout
-and poor quality of work is overlooked in favour of the company’s
+and poor quality of work is overlooked in favor of the company’s
 staggering year-over-year growth and there are always eager workers
 to take a fallen one’s place.
 
@@ -1300,7 +1300,7 @@ practical level.
 
 The capital city of Emptor sits at the downport of Shushaka’s Class
 A starport. It is an efficient and highly trafficked shipping and service
-centre, transporting goods across the entire sector. Supporting this
+center, transporting goods across the entire sector. Supporting this
 vast demand for goods, its cities are bleak landscapes of cavernous
 warehouses, enormous factories and cramped office buildings. In this
 industrial amalgam, the only recreational areas are the commons in the
@@ -2019,7 +2019,7 @@ details on the Eli marauder network and will entrust this information
 to Quadrireme both in encrypted data form and on specially secured
 diplomatic data canisters. Eli spies are aware of this and will attempt to
 intercept Quadrireme at Inhio, stationing a ship at the system’s single
-gas giant. Inhio is a moon of the gas giant, orbiting 500,000 kilometres
+gas giant. Inhio is a moon of the gas giant, orbiting 500,000 kilometers
 distant. It has few defensive capabilities beyond surface-mounted laser
 and missile turrets, a flight of five aging light fighters and two pinnaces
 armed with pulse lasers. It will not normally defend ships attacked
@@ -2700,8 +2700,8 @@ each end in feet with four thicker tentacles covered in gecko-like ridges
 capable of supporting the Aezorgh when hanging from branches,
 walls or ceilings. The four ‘wrists’ of Aezorgh hands have similar
 ridges to facilitate vertical movement. An adult Aezorgh measures 1.5
-metres head to tentacle toe pad but tends to stand with stooped legs,
-shortening actual height to 1.2 metres. Adults of the spindly sophont
+meters head to tentacle toe pad but tends to stand with stooped legs,
+shortening actual height to 1.2 meters. Adults of the spindly sophont
 species average less than 40 kilograms mass.
 
 The head of an Aezorgh contains a brain and sensory clusters,
@@ -2759,7 +2759,7 @@ local year of 590 standard days. A few days prior to egg-laying the
 female’s pheromones change, indicating availability to mate, although
 often a female will not be receptive to attempts by males to initiate
 courtship. Regardless of fertilization status, a single egg is produced,
-approximately 10 centimetres in diameter and massing one kilogram.
+approximately 10 centimeters in diameter and massing one kilogram.
 
 The female will do as she pleases with the egg. She may incubate, discard
 or eat it. An unfertilised egg will still hatch as a genetic clone of the mother
@@ -2989,7 +2989,7 @@ Diameter: 11,745km
 
 THE FLAG OF VRAYNE
 The flag is a horizontal duotone gradient with the upper section being
-ivory and the lower teal. In the centre lays an emblem of a human hand
+ivory and the lower teal. In the center lays an emblem of a human hand
 holding a golden goblet, raising it to the sky. The goblet is a depiction
 of those used in religious ceremonies on the sparsely populated planet,
 specifically in fertility rites.
@@ -3165,7 +3165,7 @@ Locals refer to the religion of Vrayne as ‘Oshnare’ and no Anglic
 translation of this word has been attempted.
 
 Religion is an integral part of daily life on the planet, with all offworlders
-passing through an anointment pool in the centre of the downport. The
+passing through an anointment pool in the center of the downport. The
 process involves a ritual chant and a member of the church offering a
 drop of blood to the Traveller by slicing the tip of their forefinger with a
 ceremonial blade. When reading the scripture of the church it becomes
@@ -3271,7 +3271,7 @@ House Poltar was once considered the most devout of all the vying
 families, although this has become less evident in recent years. Alder
 Trimmel is known to have a variety of concubines throughout his lands
 
-and has fallen out of favour with the more devoted members of House
+and has fallen out of favor with the more devoted members of House
 Senar. Every member of the Poltar oligarchy have the hand of the flag
 tattooed onto their collarbones, done as a display of faith with each being
 live streamed across the planet. These are done only when the family
@@ -3291,7 +3291,7 @@ Trimmel’s recent departure from piety.
 
 Wishing to retain the old ways is admirable to most but as it is done to
 spite technological advancement Alder Trimmel is quickly falling out
-of favour with the other heads of houses, specifically Mikra Laynora.
+of favor with the other heads of houses, specifically Mikra Laynora.
 His deviation from Oshnare is a point of contention to Frell Senar,
 chosen to lead her house specifically for her commitment to religion.
 Travellers will be unlikely to meet a member of the oligarchy outside of
@@ -3333,7 +3333,7 @@ technological advancement, those educated under House Senar receiving
 grants to enter scientific fields such as robotics, genetics and physics.
 Engineering is one of the most commonly entered areas of study, with
 those who become proficient regarded as the future of Senar and indeed
-Vrayne itself. Being the centre of research has its advantages and the fertility
+Vrayne itself. Being the center of research has its advantages and the fertility
 rates here are the highest on the planet, with a variety of low-tech genetic
 modification practises in place. Nutrition has been widely studied by the
 scientists here and House Senar retains much of the best food for itself.
@@ -3734,7 +3734,7 @@ Software Broad Spectrum EW — 14
 ```
 Electronic Warfare/2 — 18
 Launch Solution/3 — 16
-Screen Optimiser — 5
+Screen Optimizer — 5
 Virtual Crew/1 — 5
 ```
 
@@ -3941,7 +3941,7 @@ to strike and hide, having no additional armor but equipped with
 eight legs. Designed to look like an arachnid, the Ragno is capable of
 extracting spies from dangerous situations before covertly blending
 back into the wilds. Built for two crew, team leaders can sometimes be
-ensconced within the command centre, provided they remain there for
+ensconced within the command center, provided they remain there for
 the duration of the mission. As the main use of this vehicle is in covert
 operations, the rotary autocannon exists simply as a means of self-
 defence in case the mission goes awry. It was only used for a small
@@ -4350,7 +4350,7 @@ specific information about the station, its districts, shops or inhabitants.
 The highport is formed of concentric rings, with an innermost residential
 level, a middle layer dedicated to commercial space and an outermost
 deck for shipping and docking. The outer is connected to the station’s
-administrative centre via elevator shafts. The administration core is
+administrative center via elevator shafts. The administration core is
 restricted to the public and the residential deck is limited to residents
 with key cards but the commercial and freight levels are open to all.
 
@@ -4362,7 +4362,7 @@ Hartmann will not negotiate with the Travellers on prices or extra
 expenses, nor will his assistant Sisi.
 
 Sisi furnishes each Traveller with a backstage pass, which can be traded
-to sweeten any deal in the Traveller’s favour using a Very Difficult (12+)
+to sweeten any deal in the Traveller’s favor using a Very Difficult (12+)
 Persuade check. Once this has been done the pass is lost.
 
 Nefarious Travellers attempting to short-circuit the adventure by
@@ -4409,12 +4409,12 @@ minutes. Afterwards, Travellers must transport the parts to Sisi.
 ```
 RIDER ON THE STORM
 Zéno Paradise requires the following items in order to perform tonight:
-● One ton starship repair parts
-● Six bottles Dom Lishun ‘63 champagne
-● Five bags Starchocs (no green ones)
-● Chromatophone, finely tuned
-● Exotic party guests
-● Recreational drugs
+- One ton starship repair parts
+- Six bottles Dom Lishun ‘63 champagne
+- Five bags Starchocs (no green ones)
+- Chromatophone, finely tuned
+- Exotic party guests
+- Recreational drugs
 ```
 
 **Six Bottles of Champagne**
@@ -4519,12 +4519,12 @@ steal the stash.
 RESOLUTION
 When it approaches 20:00 and all the items are in, Sisi pays the
 Travellers, including the following bonuses:
-● Cr2000 for one ton of parts
-● Cr200/bottle of champagne
-● Cr1500 for Starchocs
-● Cr3000 for the chromatophone
-● Cr100 + Cr100/SOC 9+ per party guest
-● Cr2000 for drugs
+- Cr2000 for one ton of parts
+- Cr200/bottle of champagne
+- Cr1500 for Starchocs
+- Cr3000 for the chromatophone
+- Cr100 + Cr100/SOC 9+ per party guest
+- Cr2000 for drugs
 
 The Travellers are then free to enjoy the show and mingle backstage
 afterwards, where they meet one of the sector’s biggest musicians and
@@ -4598,9 +4598,9 @@ Compact Excavator 7 5 Cr2500
 ```
 
 DEEP DRILL
-Designed to drill through the earth to depths in excess of 250 metres, this
-drill creates shallow shafts of 10 centimetres wide. To create shafts deeper
-than a few metres, the drill can be paused in operation to insert new
+Designed to drill through the earth to depths in excess of 250 meters, this
+drill creates shallow shafts of 10 centimeters wide. To create shafts deeper
+than a few meters, the drill can be paused in operation to insert new
 lengths into the mechanism, literally lengthening the drill as work goes on.
 
 ```
@@ -4699,7 +4699,7 @@ and cargo access doors are designed to load and offload from the
 Hauler shuttle, requiring the shuttle to undock to allow direct access to
 the cargo bay doors. When operating in conjunction with its shuttle, the
 cargo cranes allow quick access and cargo movement across the split
-six metre high lower cargo holds.
+six meter high lower cargo holds.
 
 The Conestoga’s power plant can support maneuver or jump drives
 but not both, requiring the ship to coast during final jump preparations.
@@ -4895,7 +4895,7 @@ both a forward loading ramp and side cargo doors for rapid
 movement of cargo. The forward section can accommodate
 eight passengers even in cargo configuration, and is often
 converted to long term cabin space when a Hauler is tasked
-with longer duration intersystem operations. While optimised
+with longer duration intersystem operations. While optimized
 for cargo handling, design compromises affect performance.
 ```
 
@@ -5001,12 +5001,12 @@ Commercial Financing Corporation – Allarton Yards produces the 400-
 ton Stellaris liner and derivative Polaris freighter.
 
 The streamlined Stellaris, capable of jump-2 and 2G thrust, is roughly
-based on the Third Imperium’s Type-R subsidised merchant. Rather than
+based on the Third Imperium’s Type-R subsidized merchant. Rather than
 providing a generalised freightliner, Allarton has a distinct split between the
 Stellaris and Polaris in terms of commercial capabilities. The Stellaris lacks
 the Type R’s launch, focusing on planetary landings or highport rendezvous
 to provide transfer capabilities. The ship is broader than the Type-R with its
-half-cylindrical cross-section fully 12 metres in diameter and correspondingly
+half-cylindrical cross-section fully 12 meters in diameter and correspondingly
 shorter with a lesser wingspan to accommodate narrower downport landing
 berths. It features rear cargo doors, but with barely 36 tons cargo capacity
 this bay is very limited on the Stellaris.
@@ -5017,7 +5017,7 @@ in high-end travel, with two high stateroom suites and an additional
 accommodate additional passengers if the four stewards double-bunk
 in the crew staterooms on the upper deck.
 
-The Stellaris carries optimised maneuver and jump drives, the latter
+The Stellaris carries optimized maneuver and jump drives, the latter
 produced on Coos for maximum fuel efficiency. These drives provide
 superior power and fuel management but require specialized spares
 and maintenance available at Allarton-owned shipyards. Advanced
@@ -5202,7 +5202,7 @@ ammunition bunkers.
 The spacious bridge highlights the Royal Navy’s design doctrine. Fully
 nine bridge stations are available, allowing gunnery and engineering
 functions to occur within sight of the commander at all times. The
-captain’s chair sits alone, elevated in the centre of the bridge, giving a
+captain’s chair sits alone, elevated in the center of the bridge, giving a
 commanding view of operations.
 
 The current conflict at Balleau, three parsecs distant from both Bruhkarr

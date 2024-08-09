@@ -1,17 +1,19 @@
 ---
 date created: 2024-07-01 19:26
-date updated: 2024-07-02 08:55
+date updated: 2024-08-09 09:46
 tags:
-  - '#UNFORMATTED'
-  - '#Traveller-Adventures'
+  - "#UNFORMATTED"
+  - "#Traveller-Adventures"
+  - Regina_Subsector
+  - Keng
 ---
-![[Annic_Nova_cover.jpg]]
 
-# Table of Contents
+![[Annic_Nova_cover.jpg|100]]
 
-# INTRODUCTION
+# Introduction
 
 This booklet contains two comprehensive adventures for Traveller printed back-to-back. Each adventure is complete and independent. This adventure, titled Annie Nova, deals with a derelict starship encountered orbiting a small gas giant in the Keng stellar system.
+
 It is assumed that this adventure will be administered by a referee who has read through this adventure, and who is familiar with both it and the rules for Traveller. This situation calls for only the basic Requires only Traveller booklets (Books 1, 2, and 3), and no additional Basic Traveller supplements, books, or other information. As usual, paper, pencils, six-sided dice, and square-grid graph paper will prove necessary during the course of the adventure.
 
 ## Standards and Assumptions
@@ -19,9 +21,13 @@ It is assumed that this adventure will be administered by a referee who has read
 The following standards and assumptions are used in the text of this adventure.
 The referee may alter them as necessary to correspond to a local situation.
 
-Dates: All dates herein correspond to the Imperial calendar. The date for this situation is sometime in 1105; that is, sometime in the 1105th year following the founding of the lmperium. The referee should indicate the exact date based on the local situation. Once the adventure starts, time should flow normally.
+### Dates
 
-Place: This adventure takes place in the Regina subsector within the Spinward Marches of the lmperium, in space near a small gas giant in a stellar system with only one significant inhabited planet- Keng (0805-E2718CA-3). The Keng system has two gas giants, a large one much closer to the primary, and the small one very far out. As a result, starship traffic to the small gas giant is minimal, and there is little chance that anyone would normally be anywhere near it.  Keng, of interest only because it is the nearest habitable world, is a small world with a high population and a charsimatic oligarchic government.
+All dates herein correspond to the Imperial calendar. The date for this situation is sometime in 1105; that is, sometime in the 1105th year following the founding of the lmperium. The referee should indicate the exact date based on the local situation. Once the adventure starts, time should flow normally.
+
+### Place
+
+This adventure takes place in the [[Regina subsector]] within the [[Spinward Marches]] of the [[lmperium]], in space near a small gas giant in a stellar system with only one significant inhabited planet- [[Keng]] (0805-E2718CA-3). The Keng system has two gas giants, a large one much closer to the primary, and the small one very far out. As a result, starship traffic to the small gas giant is minimal, and there is little chance that anyone would normally be anywhere near it.  Keng, of interest only because it is the nearest habitable world, is a small world with a high population and a charismatic oligarchic government.
 
 ## Using This Adventure
 
@@ -34,13 +40,11 @@ REFEREE'S CHECKLIST
 3. State situation.
 4. Guide characters through situation based on their actions.
 
-Referee's Checklist: The steps shown in the referee's checklist should guide the referee through the elements of administering this adventure. Characters are covered next in this section, as is equipment purchase. The situation is stated on page 4, with additional materials contained in the remainder of the adventure.
+Referee's Checklist: The steps shown in the referee's checklist should guide the referee through the elements of administering this adventure. Characters are covered next in this section, as is equipment purchase. [[#The situation]] is stated, with additional materials contained in the remainder of the adventure.
 
-## Characters
+### Characters
 
-This adventure is intended for a band of adventurers numbering at least two and
-no more than eight. A group of pre-generated characters is supplied below, although
-the referee may allow other individuals instead.
+This adventure is intended for a band of adventurers numbering at least two and no more than eight. A group of pre-generated characters is supplied below, although the referee may allow other individuals instead.
 
 |  #  | Character                         |   UPP  | Age | Terms | Money  |                                    Skills                                    | Possessions |
 | :-: | --------------------------------- | :----: | :-: | :---: | :----- | :--------------------------------------------------------------------------: | ----------: |
@@ -53,23 +57,25 @@ the referee may allow other individuals instead.
 |  7  | Ex-navy Lieutenant (high passage) | 89C7B7 |  30 |   3   | Cr800  |                  Ship's Boat-2, Vacc-1, Gunnery-2, Shotgun-1                 | Traveller's |
 |  8  | Ex-scout (middle passage)         | 684387 |  26 |   2   | Cr900  |                       Pilot-1, Vacc-1, SMG-1, Gunnery-1                      |             |
 
-A skill level of 0 {for example, Vacc-0) has been assigned to show some familiarity with a skill, sufficient to allow use, but no expertise.
+A skill level of 0 (for example, Vacc-0) has been assigned to show some familiarity with a skill, sufficient to allow use, but no expertise.
 
-A skill level of 0 (for example, vacc-0) has been assigned to show some familiar-
-ity with a skill, sufficient to allow use, but no real expertise. A skill level of 0 with a
-gun (for example, carbine-DI shows the preferred, or best, weapon for an individual
-otherwise without weapon skill.
+A skill level of 0 (for example, vacc-0) has been assigned to show some familiarity with a skill, sufficient to allow use, but no real expertise. A skill level of 0 with a gun (for example, carbine-0) shows the preferred, or best, weapon for an individual otherwise without weapon skill.
 
-## Equipment
+### Equipment
 
-Referees using an on-going campaign should ignore the remainder of this section, with the possible exception of the available equipment table on page 3.
+Referees using an on-going campaign should ignore the remainder of this section, with the possible exception of the [[#Available Equipment Table]].
 
 Characters should review their equipment, and may purchase more. However, it is essential that one of the characters be the merchant captain (character number1 ), because he provides the ship which serves as transport for the adventurers. The merchant captain has possession of a far trader, the Empress Nicholle (a type A2, 200 tons).It's ship's locker contains the equipment loaded shown on the table. Before the char-acters are told the details of the ad-venture, they should be allowed to purchase any other equipment they feel will be necessary or desirable. Any equipment available may be purchased,subject to the following restrictions:
 
-1. It must be described in Books 1 or 3 of Traveller or on the available equipment table on the facing page. Items from other Traveller materials are not available.
+1. It must be described in Books 1 or 3 of Traveller or on the [[#Available Equipment Table]]. Items from other Traveller materials are not available.
 2. The price indicated must be paid. Since the only assets available to the characters are the credit balances above, some items (battle dress, for example) are precluded because of expense.
 
-Merchant Ship Equipment: The _Empress Nicholle_ is a type A2 far trader, 200 tons, now fifty years old and finally without a mortgage. It has six staterooms and four low berths; cargo capacity is 61 tons. It is streamlined and can refuel by skimming gas giants or drawing water from oceans. Armament consists of one triple turret fitted with a heterogeneous mix-one missile rack, one beam laser, and one sandcaster. The ship carries an air/raft in a fitted hull compartment.
+> [!Info]- Merchant Ship Equipment
+> The _Empress Nicholle_ is a type A2 far trader, 200 tons, now fifty years old and finally without a mortgage.
+> It has six staterooms and four low berths; cargo capacity is 61 tons.
+> It is streamlined and can refuel by skimming gas giants or drawing water from oceans.
+> Armament consists of one triple turret fitted with a heterogeneous mix-one missile rack, one beam laser, and one sandcaster.
+> The ship carries an air/raft in a fitted hull compartment.
 
 > [!info]- SHIP'S LOCKER
 >
@@ -79,7 +85,7 @@ Merchant Ship Equipment: The _Empress Nicholle_ is a type A2 far trader, 200 ton
 > - four cutlasses, each with a belt scabbard.
 > - one long range communicator
 
-### AVAILABLE EQUIPMENT TABLE
+### Available Equipment Table
 
 | Item                                     | Description                                                                                                                                                                                                                                                                                                   | Weight |            Price |
 | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----: | ---------------: |
@@ -95,17 +101,21 @@ The referee should allow 10 minutes for equipment purchase before beginning.
 
 The information in this adventure is intended for the use of the referee. Only specific items of information should be made available to the players.
 
-Introductory Material: The data on pages 1 through 3 should be made available to the players through the referee, rather than allowing them to read it directly. Traveller's Advisory: The illustration and advisory report on pages 4 and 5 should be shown to the players, and should be available for reference throughout the adventure.
-Inside the Starship: The material dealing with the interior features of the ship, and with its details, pages 6 through 16, is for the referee alone, and becomes divulged only through the course of the adventure.
-Referee's Notes: Pages 17 and 18 are concerned with the starship Annic Nova, and are for the use of the referee alone.
-Library Data: A variety of information is provided in the library data section; it should become available when adventurers consult data files.
+1. [[Annic Nova#Introduction|Introductory Material]] should be made available to the players through the referee, rather than allowing them to read it directly. Traveller's Advisory: [[AnnicNova- ship.jpg|The illustration]] and [[#Travellers' Aid Society Advisory Report 02-183-1105|advisory report]] should be shown to the players, and should be available for reference throughout the adventure.
+2. [[#Aboard The Starship]] deals with the interior features of the ship, and with its details.  It is for the referee alone, and becomes divulged only through the course of the adventure.
+3. [[#Referee's Notes]] are concerned with the starship Annic Nova, and are for the use of the referee alone.
+4. Library Data: A variety of information is provided in the [[#Library Data]] section; it should become available when adventurers consult data files.
+
+# The Situation
 
 ## Travellers' Aid Society Advisory Report 02-183-1105
 
-![[AnnicNova- ship.jpg]]
+![[AnnicNova- ship.jpg|100]]
+[[AnnicNova- ship.jpg|Link]]
+
 Reports received from the [[Regina Subsector]] in the [[The Spinward Marches]] tell of an unidentified starship of markedly unorthodox design which has been making use of unauthorized transmission frequencies.
 
-Originally sighted in 1103, the ship immediately came to Imperial attention by standing off [[Heya]] (0802-8687745-A) and transmitting on a restricted military band. Interceptors scrambled immediately, but the ship jumped outsystem while the fighters were at extreme range.
+Originally sighted in [[IY1103]], the ship immediately came to Imperial attention by standing off [[Heya]] (0802-8687745-A) and transmitting on a restricted military band. Interceptors scrambled immediately, but the ship jumped outsystem while the fighters were at extreme range.
 
 Later reports have placed the ship at [[Kinorb]] (0602-A663659-5) where it stood off for nearly five weeks without any contact, then jumped. The lack of local bases or traffic made interception impossible. Last known contact took place off [[Dentus]] (0601-C979500-A) where the local scout base immediately set five Type S scouts on contact duty. Although the unknown immediately jumped, some basic data was recovered from scanners. Reports of additional sightings should be forwarded to the local Travellers' Aid Society for central consolidation.
 
@@ -115,7 +125,7 @@ Later reports have placed the ship at [[Kinorb]] (0602-A663659-5) where it stood
 > Maneuver: 2G(?)
 > Armament: unknown
 
-# ABOARD THE STARSHIP
+# Aboard The Starship
 
 This derelict starship stands as an obvious object for investigation. Once it is boarded, checked out, and fully understood, it promises to be a useful starship for nearly any type of adventurer. The ship appears to be in good condition, and can probably be made functional in a reasonably short period of time.
 
@@ -148,83 +158,31 @@ The starship interior is initially dark, and its intruders will be in vacc suits
 
 ### Power
 
-The ship is at low power, sufficient only for standby lighting on the
-bridge, and for emergency operation of the iris valves within. All locations are at
-zero-G. The starship is dark, and individuals will find their actions doubly clumsy-
-from zero-G and from their encumbering vacc suits.
-A prominent power-on switch is situated on the bridge; and another is on the
-cantilever platform at the rear which will turn power on (but cannot turn power
-off). Power-on puts all interior lights on and activates the grav plates.
-When the grav plates go on, any individual not specifically stating that he or she
-is standing with feet on the floor, or sitting in a chair, is subject to a fall. Each
-throws 8+ to avoid an injurious fall; DM +2 if dexterity 8+, +1 if strength 10+,
+The ship is at low power, sufficient only for standby lighting on the bridge, and for emergency operation of the iris valves within. All locations are at zero-G. The starship is dark, and individuals will find their actions doubly clumsy- from zero-G and from their encumbering vacc suits.
 
-- vacc suit skill. If the fall occurs, the individual receives 20 hits.
+A prominent power-on switch is situated on the bridge; and another is on the cantilever platform at the rear which will turn power on (but cannot turn power off). Power-on puts all interior lights on and activates the grav plates. When the grav plates go on, any individual not specifically stating that he or she is standing with feet on the floor, or sitting in a chair, is subject to a fall. Each throws 8+ to avoid an injurious fall; DM +2 if dexterity 8+, +1 if strength 10+, - vacc suit skill. If the fall occurs, the individual receives 20 hits.
 
-Atmosphere: The interior of the ship is fully pressurized, and an atmosphere
-tester will indicate breathable gases; there is no apparent (or real) danger of losing
-pressure. Fracture of domes, or other decompression activity will render a specific
-area in vacuum; its extent can be traced on the diagrams. Iris valves will automatic-
-ally close to limit this effect whenever possible.
-Vacc suit discipline should be broken as soon as possible, either by reassuring
-the adventurers that there appears to be no danger, or emphasizing the clumsi-
-ness of the vacc suits. Apply a DM -2 on weapon use by individuals without vacc
-suit skill, and reduce personal dexterity by -2. In addition, the ship is oriented to
+### Atmosphere
 
-47
+The interior of the ship is fully pressurized, and an atmosphere tester will indicate breathable gases; there is no apparent (or real) danger of losing pressure. Fracture of domes, or other decompression activity will render a specific area in vacuum; its extent can be traced on the diagrams. Iris valves will automatically close to limit this effect whenever possible.
 
-- BULKHEAD. Airtight.
+Vacc suit discipline should be broken as soon as possible, either by reassuring the adventurers that there appears to be no danger, or emphasizing the clumsiness of the vacc suits. Apply a DM -2 on weapon use by individuals without vacc suit skill, and reduce personal dexterity by -2. In addition, the ship is oriented to the small stature of the original crew, and passage through iris valves in vacc suit runs the danger of ripping the suit (throw 8+ to rip; OM+ vacc suit skill).
 
----INTERIOR WALL.
----SLIDING DOOR.
-)lo-< HORIZONTAL IRIS VALVE.
+### Temperature
 
-> T-( HORIZONTAL HATCH.
+The interior temperature of the ship is about 25 degrees C.
 
-0 FLOOR HATCH.
-(e:} CEILING HATCH.
-@cEILING HATCH
-" OVER FLOOR HATCH.
+### Iris Valves
 
-Annie
+Automatic, airtight doorways are installed in bulkhead throughout the ship. These portals open and shut much like the shutter of a camera; they do not swing. Valves are difficult to force once fully closed (throw 9+ to open a closed iris valve; DM +1 if strength 10+, +2 if dexterity 10+, -3 if in vacc suit). Gunfire will simply lock a valve tighter. Valves are impossible to force if open. Any strong object (metal bar or rod) placed in the valve when open will prevent full closure, and allow a partially closed valve to be opened with ease. Iris valves are operated by pressing a stud on the wall near the valve. As long as the ship has any power (the power accumulators have not actually been disconnected at the source), iris valves will function automatically if pressure drops.
 
-novA
+### Hatches
 
-421
+Hinged solid airtight doors are mounted in some locations. These portals function manually.
 
-32
+### Doors
 
-36
-37 38
-39 41
-
-0 1.5 3 45
--=-
-
-46
-
-:~} ~
-
-the small stature of the original crew, and passage through iris valves in vacc suit
-runs the danger of ripping the suit (throw 8+ to rip; OM+ vacc suit skill).
-Temperature: The interior temperature of the ship is about 25 degrees C.
-Iris Valves: Automatic, airtight doorways are installed in bulkhead through-
-out the ship. These portals open and shut much like the shutter of a camera; they
-do not swing. Valves are difficult to force once fully closed (throw 9+ to open a
-closed iris valve; DM +1 if strength 10+, +2 if dexterity 10+, -3 if in vacc suit).
-Gunfire will simply lock a valve tighter. Valves are impossible to force if open. Any
-strong object (metal bar or rod) placed in the valve when open will prevent full
-closure, and allow a partially closed valve to be opened with ease. Iris valves are
-operated by pressing a stud on the wall near the valve. As long as the ship has any
-power (the power accumulators have not actually been disconnected at the source),
-iris valves will function automatically if pressure drops.
-Hatches: Hinged solid airtight doors are mounted in some locations. These
-portals function manually.
-Doors: Any doorway not a valve or hatch is a sliding door. Such are not air-
-tight (and easily visible as such), and open at the touch of a stud on the wall. If
-locked (all locks are controlled by the computer, even at low power), the door
-will not open unless broken down, shot open, or pried open with a prybar (all
-rather easy tasks, as the doors are not too substantial).
+Any doorway not a valve or hatch is a sliding door. Such are not airtight (and easily visible as such), and open at the touch of a stud on the wall. If locked (all locks are controlled by the computer, even at low power), the door will not open unless broken down, shot open, or pried open with a prybar (all rather easy tasks, as the doors are not too substantial).
 
 ## Within The Starship
 
@@ -250,20 +208,20 @@ Painted on the iris valve at this level is the figure I. The valve opens into a 
 Painted on the iris valve at this level is the figure V,
 
 6. Living Area. This lounge is spacious and carpeted, and several comfortable  chairs are scattered about around small tables. On the wall to starboard is a bar, while to port is a floor-to-ceiling visor screen. Each side wall has a hallway leading off laterally. The bar is well stocked with liquors, most having indecipherable labels. A close check (to take perhaps 15 minutes) will reveal at least one bottle labelled in anglic, and a date about 20 years ago. The quality of the liquors is excellent (by reputation to a connoiseur, and by taste if tasted). If this deck has been rendered airless, all the bottles will be broken, and the contents spilled and evaporated. The visor screen responds to the controls (on-off) on the wall next to it, or will come on (with sound at full volume) if someone sits down in the lounge chair directly facing it. The program shown is (throw 1D)
- 1. an animated film with a great deal of violence, but no apparent injuries,
- 2. an abstract color projection with an accompanying soothing music soundtrack,
- 3. a head and shoulders view of a bald, eyebrowless, humanoid talking in an unknown language while graphic maps projected behind him constantly change,
- 4. an apparent travelogue showing a variety of animals in their natural habitats
- 5. an animated lecture on the chemical elements, with accompanying text and voice-over
- 6. static.
-  
-  Close investigation of the visor will show a concealed set of controls (in a sliding panel on the wall), including a volume control, a channel dial marked `IV7 AJU`, and a speed control. The channel control will select among the six channels indicated. The speed control will slow down or speed up the program being shown; if channel 6 (U) is slowed down, it becomes a children's illustrated dictionary. Studying channel U or channel J will teach the ship's language (studying 12 hours per day) on a throw of 14+, OM +1 per day spent, OM +1 if intelligence 11+. ^area6
+   1. an animated film with a great deal of violence, but no apparent injuries,
+   2. an abstract color projection with an accompanying soothing music soundtrack
+   3. a head and shoulders view of a bald, eyebrowless, humanoid talking in an unknown language while graphic maps projected behind him constantly change,
+   4. an apparent travelogue showing a variety of animals in their natural habitats
+   5. an animated lecture on the chemical elements, with accompanying text and voice-over
+   6. static.
 
-7. Sleeping Room. This small room is obviously sleeping quarters, and contains a bunk, fold-out desk, several drawers, mirror, and reclining chair. There are, however, no clothing, and no sign of personal articles.
+Close investigation of the visor will show a concealed set of controls (in a sliding panel on the wall), including a volume control, a channel dial marked `IV7 AJU`, and a speed control. The channel control will select among the six channels indicated. The speed control will slow down or speed up the program being shown; if channel 6 (U) is slowed down, it becomes a children's illustrated dictionary. Studying channel U or channel J will teach the ship's language (studying 12 hours per day) on a throw of 14+, OM +1 per day spent, OM +1 if intelligence 11+. ^area6
 
-8. Sleeping Room. This small room is similar to room 7, but has a lived-in look. In the top drawer is a box containing several rings mounted with gemstones (each with an apparent value of Cr500). Under the bunk's matress is an envelope containing several bills (apparently money), marked JO, IN, and INO, as well as various statements and phrases in the ship's language. A full length mirror is mounted on the wall. If power is on low level, it is indeed a mirror. If power is on full, the mirror is an operating color retransmitter screen, which means that it acts like a mirror, but presents an unreversed image. A person standing in front of it would see himself or herself as others do, rather than as a mirror image. Unless someone actually stands in front of the mirror  nd indicates that he or she is checking it out, the effect will be than anyone in the room will have an undefined, uneasy feeling. The mechanism for the retransmitter is behind the screen, accessible if a concealed latch is located and tripped.
+7. Sleeping Room. This small room is obviously sleeping quarters, and contains a bunk, fold-out desk, several drawers, mirror, and reclining chair. There are, however, no clothing, and no sign of personal articles. ^room-7
 
-9. Sleeping Room. This room is larger, and contains a double bed rather than bunks. Personal effects for both male and female individuals are present in the drawers.
+8. Sleeping Room. This small room is similar to [[#^room-7|room 7]], but has a lived-in look. In the top drawer is a box containing several rings mounted with gemstones (each with an apparent value of Cr500). Under the bunk's matress is an envelope containing several bills (apparently money), marked JO, IN, and INO, as well as various statements and phrases in the ship's language. A full length mirror is mounted on the wall. If power is on low level, it is indeed a mirror. If power is on full, the mirror is an operating color retransmitter screen, which means that it acts like a mirror, but presents an unreversed image. A person standing in front of it would see himself or herself as others do, rather than as a mirror image. Unless someone actually stands in front of the mirror  nd indicates that he or she is checking it out, the effect will be than anyone in the room will have an undefined, uneasy feeling. The mechanism for the retransmitter is behind the screen, accessible if a concealed latch is located and tripped. ^room-8
+
+9. Sleeping Room. This room is larger, and contains a double bed rather than bunks. Personal effects for both male and female individuals are present in the drawers. ^room-9
 
 10. Bedroom. In this room, the most obvious feature is the presence of the four small beds along the walls. Several small pieces of furniture are scattered about, and a lot of clothing is strewn in disorder. Aside from a few small toys, there is nothing of value here. However, after all have left the lateral hallway, a small robot-like device (about 300mm high, cylindrical, and emitting small peeping noises while an electric blue spark wanders around its head/top) will emerge. It will orient on one person, and follow him/her around anywhere on this deck, the sparks getting more violent whenver it approaches closer than one meter. This device is actually a child's toy, easily broken by a kick or blow; it can be turned off by touching it with an ungloved hand, and will turn on again at the next touch.
 
@@ -271,12 +229,12 @@ Painted on the iris valve at this level is the figure V,
 
 12. Probably a Bedroom. The interior of this room has been charred black, as if by flame (possibly by a plasma gun). Nothing remains of its original furnishings.
 
-13. Bedroom. This room is much like room 8, but the full length mirror is cracked. If the latch (concealed) is found, the the area behind the mirror is found to be empty, the retransmitter having been removed. The area is now used for storage, and contains several cartons of books with garish covers. In addition, a map box with a chip installed for a specific world ([[Victoria]], located in the [[Lanth Subsector]] in the [[The Spinward Marches]]; Victoria is covered in greater detail in an article in The Journal of the Travellers' Aid Society, No. 3).
+13. Bedroom. This room is much like [[#^room-8|room 8]], but the full length mirror is cracked. If the latch (concealed) is found, the the area behind the mirror is found to be empty, the retransmitter having been removed. The area is now used for storage, and contains several cartons of books with garish covers. In addition, a map box with a chip installed for a specific world ([[Victoria]], located in the [[Lanth Subsector]] in the [[The Spinward Marches]]).
 
 ![[AN-50Diagram3.jpg]]
 
-14. Bedroom. This room is much like room 9, but contains two bunks rather than the double bed. Aside from ordinary articles of clothing, the only items of interest are an instant print camera, and a battery powered typewriter. Close examination of the typewriter reveals that it can be used as a remote (up to 500km distant) terminal for the ship's computer.
-15. Locked Bedroom Door. Taped to the door is a crayon drawing (as if by a child) of a coiled snake. When the door is forced, a terribly foul odor and considerable quantities of dust roil from the room. Inside are four dead bodies, three adults and one child, all exhibiting considerable corruption. In addition, dirty linen is piled in the corners of the rooms, and the floor is filthy. Breathing the unfiltered air of the room exposes an individual to an extreme chance of infection. The dust will slowly spread to the entire deck (within ten minutes). after which anyone on the deck is subject to a strong chance of infection. If an iris valve is opened to another level, that level becomes a possible source of contamination (with a low chance of infection). The effects of this disease are covered on page 21.
+14. Bedroom. This room is much like [[#^room-9|room 9]], but contains two bunks rather than the double bed. Aside from ordinary articles of clothing, the only items of interest are an instant print camera, and a battery powered typewriter. Close examination of the typewriter reveals that it can be used as a remote (up to 500km distant) terminal for the ship's computer.
+15. Locked Bedroom Door. Taped to the door is a crayon drawing (as if by a child) of a coiled snake. When the door is forced, a terribly foul odor and considerable quantities of dust roil from the room. Inside are four dead bodies, three adults and one child, all exhibiting considerable corruption. In addition, dirty linen is piled in the corners of the rooms, and the floor is filthy. Breathing the unfiltered air of the room exposes an individual to an extreme chance of infection. The dust will slowly spread to the entire deck (within ten minutes). after which anyone on the deck is subject to a strong chance of infection. If an iris valve is opened to another level, that level becomes a possible source of contamination (with a low chance of infection). The effects of this disease are covered [[#The Disease|here]].
 16. Bathroom. This small room contains toilet facilities and a shower.
 17. Kitchen or Galley. This area is studded with tables and chairs, between kitchen facilities along the lateral walls. The tables and chairs are collapsible, and the kitchen areas have sliding screens which can be used to conceal and protect them. The floor of this area is uncarpeted, and bears markings similar to that of a basketball court, obviously for some sort of game. This concept is furthered by the contents of one drawer in the kitchen area: several resilient balls and some handball gloves. A remote control switch in the drawer will turn off (and on) the grav plates in the galley/kitchen area.
 18. Maintenance Area. Behind the cold box (it swivels out) on the port side is a maintenance area filled with life support systems, such as main temperature and air circulation ducts.
@@ -314,7 +272,8 @@ The iris valve on this level is marked with the numeral A.
 
 31. Gangway. Sloping at an angle upward, this corridor leads to the next deck.
 
-DRIVE DECK (Locations 32-42)
+## Drive Deck (Locations 32-42)
+
 This deck is accessed within the ship only through the gangway leading from the Engineering Deck.
 
 32. Hydroponics Area. This entire area is overgrown with plants. An iris valve is obvious aft, but the two corridors leading forward are not, being concealed by the extensive growth. Overhead, the area is roofed by transparent sloping ceiling panels, and banks of lights. The vegetation is covered with thorns, but is not especially dangerous unless a person were to actually fall into a group of plants, in which case about 1D hits would be inflicted.
@@ -322,19 +281,19 @@ This deck is accessed within the ship only through the gangway leading from the 
 34. Jump-2 Pod. This engineering area contains a jump drive mechanism for the ship, and outwardly appears to be identical with the mechanism on the other side of the ship. An individual with engineering-3 or better will see that this drive is capable of jump-2.
 35. Jump-3 Pod. This area is similar to location 34, and is administered in a similar manner. However, this equipment is capable of jump-3.
 36. Air Lock. The iris valve at the aft end of the hydroponics area opens into an air lock. The valve itself is in a nearly closed position, but held open by a scratched and corroded metal rod wedged in place apparently by accident. Beyond the valve is a short corridor leading to another iris valve held open by a similar metal rod. Along the corridor, the attraction of the grav plates (assuming they are on) gradually diminishes from full (at the forward end) to zero (at the aft end).
-37. Cabinet. Concealed behind a bulkhead to port, accessible from location 39,  is a cabinet, with a concealed switch behind the upholstery on the wall. The cabinet itself contains a transmitter/receiver, with audio, video, and telemetry capability.
+37. Cabinet. Concealed behind a bulkhead to port, accessible from [[#^location-39|location 39]],  is a cabinet, with a concealed switch behind the upholstery on the wall. The cabinet itself contains a transmitter/receiver, with audio, video, and telemetry capability.
 38. Cabinet. This cabinet is similar to location 37, but contains miniaturized  communicators keyed to the equipment in location 37. These devices may be carried in world surface exploration, and used to communicate with personnel aboard ship. Access to the ship's computer will reveal (when asked) that there are also several remote missiles fitted with audio, visual, and telemetric devices. The missiles are launched by computer from exterior racks in the hub area; each is a responsive discretionary missile of 12G12. There are four, each of which is reusable.
-39. Lounge Area. This area is finished with a fur-like carpeting on floor, ceiling, and walls. Concealed panels in the forward bulkhead contain cabinets which are locations 37, and 38. This area is in zero-G.
+39. Lounge Area. This area is finished with a fur-like carpeting on floor, ceiling, and walls. Concealed panels in the forward bulkhead contain cabinets which are locations 37, and 38. This area is in zero-G. ^location-39
 40. Observation Deck. This area is covered by a transparent observation dome facing aft, and contains a cantilevered platform with four fixed chairs and a small control panel. It is finished in the same style as location 39, and is in zero-G.
 41. Lateral Shaft. This corridor slants upward at an angle and ends in a hatch. Beyond the hatch is another, plus another hatch leading out of the tube. It is in zero-G.
-42. Lateral Shaft. This tube is similar to location 41.
+42. Lateral Shaft. This tube is similar to location 41. ^location-42
 
 ## The Pinnaces (Locations 43 - 50)
 
 The two trailing pods visible at the ends of the shafts connected to the hub on the Drive Deck appear to be maneuver drive pods from a distance, but are actually 40 ton pinnaces. Normally transported in this position, they are detachable, and may be used for errands or missions. These small craft are laid out in opposite handedness, and will only attach on their proper shafts. Each is streamlined, and has fuel skimmers (for refuelling at a gas giant), and has provision for fuel transfer. Each also has a cable connection which automatically mates with ship power connections when in docking position.
 
 43. Pinnace Controls. This area contains standard design controls usable by an individual with ship's boat skill. With seating for two, the port seat also has aiming and firing controls for the single pulse laser mounted on the boat.
-44. Pinnace Controls. This area is similar to location 42.
+44. Pinnace Controls. This area is similar to [[#^location-42|location 42]].
 45. Pinnace Cargo Bay. The port pinnace is a cargo boat, and can carry bulk cargo totalling 12 tons. Collapsible seating can fill the area and carry up to 16 passengers instead. A large sliding cargo door is visible in the exterior bulkhead.
 46. Pinnace Passenger Area. The starboard pinnace is a passenger vessel, with four half-sized staterooms complete with bunks and storage areas. This pinnace could carry up to five persons on relatively long (30 day) flightswith only minimal discomfort. There is no provision for cargo, although conceivably about two tons could be crammed into the central aisle.
 47. Bathroom. This area contains toilet facilities and a shower.
@@ -342,7 +301,7 @@ The two trailing pods visible at the ends of the shafts connected to the hub on 
 49. Drive Room. The maneuver drives for this pinnace are contained in this area.
 50. Drive Room. The maneuver drives for this pinnace are contained in this area.
 
-# REFEREE'S NOTES
+# Referee's Notes
 
 The following should enhance the referee's understanding of the Annie Nova.
 
@@ -387,26 +346,50 @@ If the number on the table is rolled or exceeded, the individual has contracted 
 
 ## The Ship
 
-The following is a description of the Annie Nova in the same format as the ship
-descriptions in Traveller Book 2, pages 18-20.
+The following is a description of the Annic Nova in the same format as the Traveller ship descriptions.
 
-Free Trader (Non-Standard Classified Type NS18): Using an unorthodox 600 ton frame and hull, this artifact is allowed in Imperial commerce under the salvage laws provided the ship is registered with Imperial authorities (typical registration fee: Cr100,000). The ship has 8 staterooms (of non-standard sizes) for the crew (captain/ navigator, chief engineer, two ordinary engineers, and medic). With provision for ordinary members (gunners, pinnace pilots, or passengers). There are no low berths. The ship has two jump-drives (jump drive-F, and jump drive-J which operate independently (at J-2, and J-3, respectively). but may not sum their power. There are no maneuver drives (the pinances act as tugs to a minor extent); there is no power plant. A stellar collector absorbs and collects energy for internal power and jump drives. Two single turrets each mount a single laser cannon. Cargo bays hold up to 150 tons. The computer is a non-standard model equivalent to a Model/3, but with nearly three times normal mass. The ship is not streamlined.
+Free Trader (Non-Standard Classified Type NS18):
+Using an unorthodox 600 ton frame and hull, this artifact is allowed in Imperial commerce under the salvage laws provided the ship is registered with Imperial authorities (typical registration fee: Cr100,000).
+
+The ship has 8 staterooms (of non-standard sizes) for the crew (captain/ navigator, chief engineer, two ordinary engineers, and medic), with provision for ordinary members (gunners, pinnace pilots, or passengers). There are no low berths.
+
+The ship has two jump-drives (jump drive-F, and jump drive-J which operate independently (at J-2, and J-3, respectively). but may not sum their power. There are no maneuver drives (the pinances act as tugs to a minor extent); there is no power plant.
+
+A stellar collector absorbs and collects energy for internal power and jump drives.
+
+Two single turrets each mount a single laser cannon. Cargo bays hold up to 150 tons.
+
+The computer is a non-standard model equivalent to a Model/3, but with nearly three times normal mass.
+
+The ship is not streamlined.
 
 Two 40 ton pinnaces travel in trailing positions. Each holds 12 tons of fuel. One is equipped to carry four passengers for relatively long periods of time; the other can shuttle up to 16 passengers or 12 tons of cargo.
 
 Construction cost is impossible to calculate, but current market value can be placed at approximately Cr200,000,000.
 
-# LIBRARY DATA
+# Library Data
 
 Library data is information obtainable from any ship's computer (although probably not from the Annie Nova's) in response to correct keywords. Only the specific information requested should be given to the players; care should be taken not to reveal additional data as the information is made known.
 
 ## Atmosphere Tester
 
 The Survival Products "Sniffer" Atmosphere Tester is a solid state miniaturized gaseous analyzer incorporating microprocessor circuitry to detect and indicate the molecular components in gas samples passing its detector head. The Sniffer is typical of most atmosphere testers on the market today.
-Specifications: One kilogram weight, and measuring 100mm by 175mm by 20mm. Corrosion resistant case of phenolic plastic. 8.7 to 9.3 volt power supply, from rechargable battery pack. Estimated charge life: 100 hours. Belt attachment available, optional. Sling carrying strap standard. Price: Cr150. TL 9.
-Operation: The device is in constant operation, with LEDs indicating chemical symbol for the three major components in the gas sample, with percentage of total shown. Pressing the button labelled "More" replaces this with the next three components. Up to 30 components and percentages may be read in this manner. in addition, three lights (red, amber, and green) are mounted on the face of the device. Whenever the light (or lights) showing changes, an audible beep indicates the change. Red indicates that the atmosphere is not breathable. Green indicates that it is. Green and amber indicates that it is breathable but tainted. Red and amber indicates that the atmosphere is not breathable and also contains material considered to be taint. Amber alone indicates a lack of pressure, but breathable mixture. The exact mixtures which trigger the lights are set at the factory, but may be adjusted to fit personal preference.
-Serial Numbers: Sniffers are numbered in the format nnnn-xxxx-y. N is the model year number; the year of production. X is the serial number. Y is a check digit to insure the correct serial number is stated.
-Recall Notice: Sniffers in the 4000 serial number range may have been assembled with a faulty detector head casing; this, in combination with the plastic case, allows gas to infiltrate onto the interior of the case. In some cases (insidious atmosphere) this may result in the contamination of the solid state electronics, and result in faulty readings, or outright failure. Such items should be returned to a factory representative for repair. Those with a two-digit check digit have already been recalled and repaired.
+
+### Specifications
+
+One kilogram weight, and measuring 100mm by 175mm by 20mm. Corrosion resistant case of phenolic plastic. 8.7 to 9.3 volt power supply, from rechargable battery pack. Estimated charge life: 100 hours. Belt attachment available, optional. Sling carrying strap standard. Price: Cr150. TL 9.
+
+### Operation
+
+The device is in constant operation, with LEDs indicating chemical symbol for the three major components in the gas sample, with percentage of total shown. Pressing the button labelled "More" replaces this with the next three components. Up to 30 components and percentages may be read in this manner. in addition, three lights (red, amber, and green) are mounted on the face of the device. Whenever the light (or lights) showing changes, an audible beep indicates the change. Red indicates that the atmosphere is not breathable. Green indicates that it is. Green and amber indicates that it is breathable but tainted. Red and amber indicates that the atmosphere is not breathable and also contains material considered to be taint. Amber alone indicates a lack of pressure, but breathable mixture. The exact mixtures which trigger the lights are set at the factory, but may be adjusted to fit personal preference.
+
+### Serial Numbers
+
+Sniffers are numbered in the format nnnn-xxxx-y. N is the model year number; the year of production. X is the serial number. Y is a check digit to insure the correct serial number is stated.
+
+### Recall Notice
+
+Sniffers in the 4000 serial number range may have been assembled with a faulty detector head casing; this, in combination with the plastic case, allows gas to infiltrate onto the interior of the case. In some cases (insidious atmosphere) this may result in the contamination of the solid state electronics, and result in faulty readings, or outright failure. Such items should be returned to a factory representative for repair. Those with a two-digit check digit have already been recalled and repaired.
 
 ## Battle Dress
 

@@ -194,7 +194,7 @@ The melee skill covers attacking in hand-to-hand combat.
 - **Unarmed Combat**: Whether it is trained martial arts or street fighting learned the hard way, this is the skill for using your body as a weapon.
 - **Blade**: Attacking with swords, rapiers, blades and other edged weapons.
 - **Bludgeon**: Attacking with maces, clubs, staves and so on.
-- **Natural Weapons**: The favoured combat skill of wild animals, this covers fighting with claws, teeth, and other weapons that are a part of you.
+- **Natural Weapons**: The favored combat skill of wild animals, this covers fighting with claws, teeth, and other weapons that are a part of you.
 
 #### Navigation
 

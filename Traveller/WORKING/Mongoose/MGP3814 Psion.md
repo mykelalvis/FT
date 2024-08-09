@@ -198,7 +198,7 @@ potential.
 become available, as do devices for enhancing (and restricting) psionic powers.
 12 Average Stellar Advanced psionic talents are understood, trained and developed.
 13 Basic psionic talents and powers replace certain conventional techniques, skills and practices in
-everyday life. Advanced talents and powers are optimised.
+everyday life. Advanced talents and powers are optimized.
 14 Advanced psionic talents and powers replace certain conventional techniques, skills and practices in
 everyday life. Higher states of being (Transcendence or Sublimation) are examined for the first time.
 Psionically-powered starships are developed.
@@ -1851,7 +1851,7 @@ If you fail, roll 1d6:
 Regardless of the result, you are rescued and gain a +2 DM on your Benefit roll for this term.
 63 Gain a further roll on the Personal Development table.
 64 A contact offers you a chance at a job. If you accept, you gain a +4 DM to your next Qualification roll but you owe that contact
-a favour.
+a favor.
 65 Gain an additional roll on any of the skill tables for this career.
 66 You may train in a new Talent. The Learning DM for the Talent is 1 less than that listed.
 
@@ -3533,7 +3533,7 @@ suitable Contacts) is a member of the pirate crew. If you intercede on their beh
 keep the contact. Fail and they are imprisoned and blame you, becoming an Enemy.
 21 Life Event. Roll on the Life Events table.
 22 Roll Psi 8+ If you succeed, you successfully predict the appearance of an armed enemy in an area of space you are about to enter.
-Your foresight leads to victory and a promotion. If you fail, the encounter with the enemy still goes in your favour but you gain no
+Your foresight leads to victory and a promotion. If you fail, the encounter with the enemy still goes in your favor but you gain no
 special accolades for the engagement.
 23 Roll Machine Symbiosis 8+. If you succeed, you determine a malfunction with the ship; gain either Engineer (any) or Computers.
 24 You are invited to dine at the captain’s table. Roll Social + Steward, Carouse or Diplomat. If you succeed, gain a Contact in the
@@ -3942,16 +3942,16 @@ all-consuming concern but a question considered in the light of a new
 power’s effects and consequences for the Players Characters.
 PSIONIC RANGE CHART
 Range Distance to Target Telepathy or Clairvoyance Telekinesis Teleportation
-Personal Less than 1.5 metres 0 1 1
-Close 1.5 to 3 metres 0 1 1
-Short 3 to 12 metres 1 2 2
-Medium 12 to 50 metres 1 4 2
-Long 50 to 250 metres 2 8 4
-Very Long 250 to 500 metres 2 — 4
-Distant 500 metres to 5 kilometres 3 — 6
-Very Distant 5 kilometres to 500 kilometres 3 — 6
-Continental 500 to 5,000 kilometres 4 — 8
-Planetary 5,000 to 50,000 kilometres 4 — 8
+Personal Less than 1.5 meters 0 1 1
+Close 1.5 to 3 meters 0 1 1
+Short 3 to 12 meters 1 2 2
+Medium 12 to 50 meters 1 4 2
+Long 50 to 250 meters 2 8 4
+Very Long 250 to 500 meters 2 — 4
+Distant 500 meters to 5 kilometers 3 — 6
+Very Distant 5 kilometers to 500 kilometers 3 — 6
+Continental 500 to 5,000 kilometers 4 — 8
+Planetary 5,000 to 50,000 kilometers 4 — 8
 
 PPSIONICSIONIC P POWERSOWERS PSIONIC POWERS
 
@@ -4166,7 +4166,7 @@ FLIGHT
 By applying telekinesis to his own body the character can fly, or
 at least levitate, over short distances. The character can fly for a
 number of rounds equal to the Effect of the check at a speed of up
-to six metres per round.
+to six meters per round.
 
 _Telekinesis, Psionic Strength, 1-6 seconds, Average (+0).
 Costs 5._
@@ -4318,13 +4318,13 @@ him at its current speed (see Traveller Core Rulebook , page 66).
 Changes in altitude (actually all movement to locations of differing
 gravitational potential) will result in potential energy changes,
 manifesting themselves as changes in body temperature. A jump of
-one kilometre straight down will result in a temperature increase of
+one kilometer straight down will result in a temperature increase of
 2.5 degrees Celsius; this is sufficient to cause extreme fever, brain
 damage and even death. A jump up will cool the body by the same
 amount, with equally serious results. To be safe, a jump may not
-involve an elevation change of more than 400 metres and multiple
+involve an elevation change of more than 400 meters and multiple
 jumps should not involve a cumulative elevation change of more
-than 600 metres in one hour. These problems may be gotten around
+than 600 meters in one hour. These problems may be gotten around
 through the use of technological devices: energy compensators,
 heated suits and other means. Characters may feel driven to invent
 such materials, commission their invention or seek them out from
@@ -4377,16 +4377,16 @@ Costs 3.
 PROJECT AURA
 Through this power the psion can project his aura to a distance and
 even overlay his aura onto another organism. The distance of the
-projection is a base of 10 metres + the psion’s Psi DM; however,
+projection is a base of 10 meters + the psion’s Psi DM; however,
 for a further investment of Psi points, this range can be extended.
-The psion can project his aura a further 10 + Psi DM metres for
+The psion can project his aura a further 10 + Psi DM meters for
 every additional Psi point above the base cost. The projected aura
 moves as the psion moves, whilst ever the projection is maintained.
 The psion’s personal aura still surrounds his physical person and is
 visible to other psions if read directly.
 
 Aura Perception, Psionic Strength, 1d6+Psi DM minutes, Difficult (–2).
-Costs 4 + 1 additional point per 10+ Psi DM metres.
+Costs 4 + 1 additional point per 10+ Psi DM meters.
 
 Dimensional Manipulation
 This talent governs the perception and manipulation of parallel
@@ -4411,7 +4411,7 @@ applied as a negative DM to the psion’s Dimensional Manipulation
 powers, as noted below.
 
 LOCATE PORTAL
-The psion can scan his local area (a radius of 10 x Psi DM in metres)
+The psion can scan his local area (a radius of 10 x Psi DM in meters)
 to see if a portal exists. If successful, the psion can gain an idea of
 the portal’s Barrier Strength depending on the Effect of his roll:
 
@@ -4924,7 +4924,7 @@ Costs: 3 plus range.
 
 GLAMOUR
 This power allows the psion to project a subtle distraction within a
-radius in metres equal to the number of Psi points invested in the
+radius in meters equal to the number of Psi points invested in the
 power. Those within the radius cease to pay the psion any attention,
 
 completely forgetting his presence, becoming temporarily distracted
@@ -4933,7 +4933,7 @@ becomes, effectively, invisible, edited-out of the short-term memory
 of those affected.
 
 Projection, Psionic Strength, 1-6 rounds, Difficult (–2).
-Costs: 1 per metre of radius.
+Costs: 1 per meter of radius.
 
 Psionic Attack
 The ability to use the mind as a weapon has long interested those
@@ -5014,7 +5014,7 @@ If directed at a specific target, the Mind Blast delivers 3d6 + Effect
 damage for every 2 Psi invested in the power.
 
 If used to affect an area, 2d6 + Effect damage is delivered to _every_
-living thing in a radius of 1 metre for every 1 Psi invested in the
+living thing in a radius of 1 meter for every 1 Psi invested in the
 power.
 
 Damage is directed as any physical damage, being applied to Str,
@@ -5428,7 +5428,7 @@ psion must have physical contact with the object at the moment the
 Time Shift is executed.
 
 If the psion wishes to take additional people with him, he can extend
-the range of his Time Shift field to encompass a 1 metre radius for
+the range of his Time Shift field to encompass a 1 meter radius for
 every additional Psi point invested in the shift. However, he suffers a
 –1 DM to the Temporal Manipulation roll for every individual within
 the area of effect.
@@ -5458,7 +5458,7 @@ TIME FREEZE
 Using this power the psion freezes time, yet is unfrozen himself.
 Time can only be frozen for short periods; 1d6 seconds per Psi
 point invested in the power. For each additional Psi point invested
-the psion can extend the unfrozen bubble by 1 metre radius, with
+the psion can extend the unfrozen bubble by 1 meter radius, with
 anyone within that radius remaining unfrozen.
 
 During the time freeze characters are at liberty to make changes to
@@ -5477,7 +5477,7 @@ changes taking whatever effect they will have on whatever actions
 were being performed before the freeze.
 
 Temporal Manipulation, Psionic Strength, Variable, Very Difficult (–4).
-Cost: 1 point per 1d6 seconds of frozen time plus 1 point per metre radius
+Cost: 1 point per 1d6 seconds of frozen time plus 1 point per meter radius
 extended.
 
 PARADOX ADJUSTMENT
@@ -6704,7 +6704,7 @@ Psionic Shield Cost: Cr. 40,000.
 
 Anti-Psi Spray
 Available at TL 12+. An aerosol neutraliser, the Ant-Psi Spray projects a cloud
-of nano-particles, 1 metre in diameter, into the air. The nano particles are
+of nano-particles, 1 meter in diameter, into the air. The nano particles are
 molecularly calibrated to absorb psionic energy and dissipate it harmlessly.
 Every blast of the spray neutralises 3+1d6 Psionic Strength points placed
 into an active power that must be directed through the cloud’s area of
@@ -6721,18 +6721,18 @@ carries a 100 point charge, with its operation drawing on this charge
 at the rate of 1 point per minute. The maximum setting is variable
 between 1 and 6 points, with each point applying a negative DM
 to all psionic use equal to the points setting. The disruption unit
-affects an area of a 3 metre radius. The unit can be recharged from a
+affects an area of a 3 meter radius. The unit can be recharged from a
 standard power source, taking 1 minute per point to recharge.
 
 Disruption Unit Cost: Cr. 20,000.
 
 WEAPONS
 Psionic Energy Sword
-Available at TL 14+ and a favoured weapon of some mystical orders.
+Available at TL 14+ and a favored weapon of some mystical orders.
 The haft of this weapon is a tube of about 30cm in length and
 equipped with either heat sinks or heat dispersing fins at the base
 of the haft. It is psionically calibrated to psionic users and, when
-activated, generates an energy blade of about a metre in length.
+activated, generates an energy blade of about a meter in length.
 The psion unconsciously limits the blade length, preventing it from
 operating as a conventional, ranged, energy weapon: its costs the
 psion 1 Psi point per hour to maintain the blade’s integrity.
@@ -6773,7 +6773,7 @@ can be set to activate on a timer (up to 2 minutes) and either set in
 place or hurled.
 
 When the bomb goes off, it unleashes the stored psionic energy
-in an instantaneous wave that affects a radius of 3+1d6 metres.
+in an instantaneous wave that affects a radius of 3+1d6 meters.
 Everything caught in that radius experiences a negative DM to skills
 equal to the bomb’s stored Psi points for 1d6 rounds.
 
@@ -6782,7 +6782,7 @@ Mind Bomb Cost: Cr. 1,000.
 Trauma Grenade
 A specifically anti-psion device, this psychoactive grenade, when it
 explodes, induces Psionic Trauma in any psions caught in its blast
-radius of 3+1d6 metres. Psions must throw End + Psionic Strength
+radius of 3+1d6 meters. Psions must throw End + Psionic Strength
 10+ to withstand the unleashing of the trauma-inducing energy or
 suffer 1+1d3 levels of Psionic Trauma.
 
@@ -6810,12 +6810,12 @@ Weapon TL Range Damage Mass (kg) Blast Radius Cost (Cr.)
 Mind Bomb 12 Ranged (thrown) –1 DM to skills per
 point of stored Psi
 
-0.5 3+1d6 metres 1,000
+0.5 3+1d6 meters 1,000
 
 Trauma Grenade 12 Ranged (thrown) 1d3+1 levels of Psionic
 Trauma
 
-0.5 3+1d6 metres 3,000
+0.5 3+1d6 meters 3,000
 
 VEHICLES
 Any vehicle can be equipped with a Psi interface to enhance its
@@ -6830,7 +6830,7 @@ enhance the Fly power of the Telekinesis talent. The throne can have
 many configurations; from an ornate chair, through to an enclosed
 bubble but is usually a personal transportation device. Psionically
 calibrated sensors built into the throne amplify Psionic Strength,
-allowing the user to fly at 6 metres per round for a number of hours
+allowing the user to fly at 6 meters per round for a number of hours
 (rather than rounds) per Psi point drawn from the user. The psion
 needs to be trained in Telekinesis but does not need to make a
 Telekinesis roll to activate and use the throne; all that is necessary
@@ -6904,9 +6904,9 @@ attempt must first be successfully detected; this is an automated
 system function that successfully locates the psionic power output
 on a roll of 8+. Next, the device must successfully redirect the
 teleporter, again on a roll of 8+ but reduced by a DM equal to the
-psion’s Psionic Strength DM, plus a –1 DM for every kilometre of
+psion’s Psionic Strength DM, plus a –1 DM for every kilometer of
 distance between it and the teleporter. The machine has a maximum
-range of 6 kilometres.
+range of 6 kilometers.
 
 If the detection and redirection attempts are successful, the
 teleporter arrives in the predetermined destination instead of the
@@ -6925,7 +6925,7 @@ or worn as a form-hugging bodysuit. It rapidly cools or warms the
 
 body after a teleport, minimising the damage from sudden energy
 gains or losses. The suit allows a character to jump up to 600
-metres up or down in a single teleport or up to 10 kilometres in a
+meters up or down in a single teleport or up to 10 kilometers in a
 single hour when using successive jumps.
 
 Teleportation Suit Cost: Cr. 50,000.
@@ -6933,7 +6933,7 @@ Teleportation Suit Cost: Cr. 50,000.
 MISCELLANEOUS EQUIPMENT
 Psi Detector
 For use by non-psionics, the psi detector is a hand-held device that
-detects residual or active psi energy within a radius of 500 metres.
+detects residual or active psi energy within a radius of 500 meters.
 Where active psi energy is detected (in other words, psionic powers
 under use), the detector can provide an indication of the amount of
 psi energy involved; the indication is low, medium and high, relating
@@ -7003,13 +7003,13 @@ skills.
 At TL 9, the scanner also provides an indication of Psionic Strength
 but it does not provide a precise figure (within +/– 2 points of actual
 Psionic Strength). The device can remote scan up to a range of 10
-metres.
+meters.
 
 At TL10, the scanner provides an accurate Psionic Strength reading
 and also indicates which talents the subject has a propensity for
 
 learning (these specifics will need to be adjudicated by the Referee).
-The device can remote scan up to a range of 20 metres.
+The device can remote scan up to a range of 20 meters.
 
 Psi Scanner Cost: TL8 Cr. 10,000; TL 9+ Cr. 8,000.
 

@@ -654,7 +654,7 @@ Cost
 
 30 tons. The Salvage module is built exclusively by Spinward Salvage, and consists of a modified Utility Module
 with an attached grappling arm for handling components externally and the staterooms ripped out to make room for
-storage of salvaged parts. A cockpit is fitted to control the grappling arm, which can telescope out to 250 metres,
+storage of salvaged parts. A cockpit is fitted to control the grappling arm, which can telescope out to 250 meters,
 providing great flexibility during operations. The pulse laser is retained as at a lower power setting, the laser can
 be useful if metal needs to be cut during a salvage operation.
 
@@ -831,7 +831,7 @@ space
 tool storage with
 ladder
 4 Vehicle Bay with
-centre ramp
+center ramp
 5 Work area with
 storage
 
@@ -1057,7 +1057,7 @@ months, so they are adamant the ship is not in the system. Their lifeboat has be
 sweeps of the 4 AU gas giant orbit, as well as the Grant orbit, but nothing has been found.
 
 However, such a search is the domain of a ship like the _Jeramiah_. Within a one light year volume of a star lies 9.46
-trillion cubic kilometres of space, so there is a lot of volume to search.
+trillion cubic kilometers of space, so there is a lot of volume to search.
 
 **THE DISCOVERY**
 The _Machii_ is in fact in the Grant system. It is however, drifting without power in the outer asteroid field. Depend-
@@ -1244,7 +1244,7 @@ orbiting Efate, to present to the local Scout Service officials. The meeting las
 Way Station commander points out that it is highly unlikely LSP will be building any more scout ships of any kind
 for the Service in the Marches, and they will probably have the contract to build the _Machii_ ships cancelled. As for
 Salvage Factors, he would make sure the Scout Service in the Marches would never undertake work with them
-again. Their favoured company would remain Spinward Salvage.
+again. Their favored company would remain Spinward Salvage.
 
 Derren and Hertzog can barely contain their glee at the stupidity of LSP and Salvage Factors. Derren points out
 that it is a tough market, and any kind of edge over Salvage Factors is a huge advantage.

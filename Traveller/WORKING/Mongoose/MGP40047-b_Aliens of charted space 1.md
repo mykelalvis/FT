@@ -134,7 +134,7 @@ kills, choice sleeping places and were first in line at
 any waterhole.
 
 The Aslan that has evolved from those beginnings is,
-like a human, an upright biped averaging two metres
+like a human, an upright biped averaging two meters
 in height and 100 kilograms in mass. There are two
 sexes: male and female, of which the most notable
 external difference is the male’s increased size and more
@@ -1359,7 +1359,7 @@ guidelines on names and words used by the Aslan.
 Travellers may wish to use Aslan names (if so, they are
 encouraged to pick relatively pronounceable ones!).
 There is no necessity for doing so, although it adds
-flavour and atmosphere to a campaign.
+flavor and atmosphere to a campaign.
 
 Even when names from the Aslan language are chosen,
 these are unlikely to be the individual’s full names,
@@ -3165,7 +3165,7 @@ combine Clan Shares.
     1D-5% of its assets per year. The Traveller need not
     do anything to administer the corporation but may
     become involved if desired.
-**- Favours:** Clan Shares can be kept in reserve, and
+**- Favors:** Clan Shares can be kept in reserve, and
     used to apply political pressure to the clan in the
     future. A Clan Share can be spent to acquire a
     Contact in the clan’s upper echelons, or turn such a
@@ -3613,7 +3613,7 @@ Bio-adjustment Pills 8 — Cr20
 **SLASHPATCH**
 The slashpatch is a specialized bandage designed to treat
 dewclaw cuts. It glues the wound shut and releases painkillers
-and clotting agents at a rate optimised to deal with slashing
+and clotting agents at a rate optimized to deal with slashing
 injuries. If a slashpatch is applied within one minute of a claw
 attack, it immediately heals 1D points of damage.
 
@@ -3792,7 +3792,7 @@ Reaver’s Axe 4 Melee 4D 5 Cr500 —
 
 **SPEAR-HOOK**
 A combination of spear (at one end) and four-pronged grappling hook
-(at the other), the yurletya is 250cm in length and was a favourite
+(at the other), the yurletya is 250cm in length and was a favorite
 duelling weapon of early Aslan cultures. It is still frequently used for
 ritual or ceremonial purposes. After any attack is made with the weapon,
 regardless of the result, a second attack may be made immediately after
@@ -5817,7 +5817,7 @@ The Sakhai’s distinctive ‘horseshoe’ profile
 allows its batteries of beam lasers and
 missile racks to rake targets on either side,
 while protecting the mighty fusion bay
-mounted in the centre. It can carry 160
+mounted in the center. It can carry 160
 marines in addition to its normal 40-person
 crew; there are another 200 low berths for
 frozen troops or captives.
@@ -6758,7 +6758,7 @@ K’kree should live their life. The ancestors showed the
 present generation how to live and struggled against
 great odds to ensure the survival of the species. This is
 true throughout all of K’kree history – most families have
-favoured ancestors they particularly venerate but respect
+favored ancestors they particularly venerate but respect
 all those who came before, right back to the dawn of
 K’kree civilization.
 
@@ -6866,7 +6866,7 @@ beautiful grassy plains.
 
 **Conservatism:** K’kree are conservative to the point of
 being violently reactionary. Traditional dress, weapons
-and modes of speech are favoured wherever possible.
+and modes of speech are favored wherever possible.
 K’kree warriors will happily use the latest weaponry but
 will like it a lot better if it is styled after the armament
 of their forefathers.
@@ -7096,7 +7096,7 @@ them, except filthy outcasts) would consider breaking
 that bond. Thus rather than being formally designated in
 the manner of other militaries, a warring-band would be
 recorded and spoken of as ‘the warring-band of Aux!vur,
-which is known to favour rapid maneuver and correctly
+which is known to favor rapid maneuver and correctly
 equipped for this style of combat’. Such designations
 make operational planning a long-winded and complex
 matter but are traditional, and that is far more important
@@ -7322,11 +7322,11 @@ tasked with isolating parts of an enemy force for assault
 and protecting infantry from countermeasures that
 would make them ineffective. In short, the K’kree deploy
 equipment that enables them to fight the way they want
-to rather than weaponry optimised to bring a pragmatic
+to rather than weaponry optimized to bring a pragmatic
 victory at the price of abandoning traditional methods.
 
 K’kree infantry are armed with personal and light
-support weapons, favouring lasers over projectile
+support weapons, favoring lasers over projectile
 weapons. Infantry are supported by vehicles and
 artillery, much as in any armed force. However, the
 K’kree make extensive use of drones and robotic combat
@@ -7345,7 +7345,7 @@ confinement in a small (by K’kree standards) space.
 Where possible, forces are supported from orbit and
 make only limited use of vehicular transportation in
 the face of the enemy. For groundside logistics, open-
-topped or open-sided vehicles are favoured, often with
+topped or open-sided vehicles are favored, often with
 retractable armored sections to protect the occupants
 at need.
 
@@ -7479,7 +7479,7 @@ another. Coupled with the difficulty of getting such a large
 creature into a vacc suit quickly, this makes K’kree ships
 more susceptible to damage than those of other species.
 
-As a result, K’kree naval architects favour standoff
+As a result, K’kree naval architects favor standoff
 weapons such as missiles and remote-controlled
 fighter craft. Not only does this permit an enemy to
 be engaged before it can close to decisive range but
@@ -7687,7 +7687,7 @@ The capability of vessels generally increases alongside
 the size of formation they are assigned to. Since most
 major K’kree warships carry a complement of robotic
 fighters and can thus provide their own close escort,
-there are relatively few ships optimised for the escort
+there are relatively few ships optimized for the escort
 role. This leads to the deployment of all-big-ship forces
 at times, with smaller vessels operating elsewhere as
 scouts or security elements.
@@ -9062,7 +9062,7 @@ outside your herd.
 
 10 Your clanlord selects you to be a member of a special delegation providing hospitality to a powerful rival. You
 have to quickly learn to lead the servants. Gain one level of Steward skill and make an Average (8+) Profession
-(K’kree ritual) check. If successful, gain SOC+1 and your clanlord’s favour. If you fail, you gain your clanlord’s
+(K’kree ritual) check. If successful, gain SOC+1 and your clanlord’s favor. If you fail, you gain your clanlord’s
 rival as an Enemy.
 
 11 You serve aboard a warship with your herdlord. Gain one level in Pilot, Electronics (remote ops) or Gunner.
@@ -9186,7 +9186,7 @@ outside your herd.
 10 You are charged with a complex and distasteful mission by your superior. Gain 1 level of Diplomat, Persuade or
 Streetwise.
 
-11 You serve at the side of your superior during a difficult challenge and gain his favour. Gain one level of Carouse
+11 You serve at the side of your superior during a difficult challenge and gain his favor. Gain one level of Carouse
 and your superior as an Ally.
 
 12 A superior noble offers you one of his daughters in marriage. Gain an extra wife, SOC+1 and enter the new
@@ -9226,7 +9226,7 @@ for other species.
 weapons of the K’kree warrior; a lance, a short sword
 (called a hand-blade) and a small shield. The highly
 ornate version presented is perfectly serviceable
-but more importantly represents the favour of the
+but more importantly represents the favor of the
 Traveller’s superiors. It is considered a compliment
 to the superior to carry the presentation weapons
 into action and bringing them back with the blood
@@ -9549,7 +9549,7 @@ command)
 The traditional weaponry of the K’kree warrior consists of a lance, a
 small shield and a weapon known as a hand-blade that resembles a
 curved and deeply bellied machete. The hand-blade is almost useless
-for thrusting but delivers a devastating cut optimised for the ‘running
+for thrusting but delivers a devastating cut optimized for the ‘running
 pass’ style of attack. Nobles sometimes carry a smaller variant of the
 hand-blade, which is still a useful weapon but generally considered an
 item of dress. A noble’s hand-blade is by tradition exempt from weapon
@@ -9573,7 +9573,7 @@ Hand-Blade
 2 Melee 1D+1 0.6 Cr250 —
 
 PERSONAL WEAPONS
-Although laser weapons are favoured by most K’kree troops, some use is made of slugthrowers, especially in regions
+Although laser weapons are favored by most K’kree troops, some use is made of slugthrowers, especially in regions
 where high-tech weaponry is hard to maintain or even obtain. Many designs resemble traditional close combat
 weapons, which is in general less efficient but pleases the K’kree sense of aesthetics. Weapon names are also less
 pragmatic than those used by other species.
@@ -9632,7 +9632,7 @@ Incorporating the same highly robust laser system as the
 lance-of-length, the weapon-of-length is a conventional laser
 rifle. It has a vastly better effective range than the lance
 version since it is designed to be held in both hands and
-braced against the shoulder. Rifles of this sort are favoured
+braced against the shoulder. Rifles of this sort are favored
 by sharpshooters whereas those preferring to get stuck in use
 the lance-of-length. Most fighting-bands contain members
 equipped with a mix of both, though specialist bands do exist.
@@ -10237,7 +10237,7 @@ atop the front of the main superstructure. Here, a noble
 K’kree can command his vehicle and enjoy the air rushing
 past his face – at least until heavy fire drives him inside
 the armored section. The vehicle’s pilot stands alongside
-his master, a position of great favour and no little danger.
+his master, a position of great favor and no little danger.
 
 The MFP also mounts four anti-missile laser systems.
 These are normally controlled by the vehicle’s automated
@@ -10573,7 +10573,7 @@ owners status is correctly conveyed.
 Military Operations Package: Military Operations
 Packages permit the replacement of any crewmember,
 including gunners and screens operators. Military
-packages are optimised for small craft and tailored to
+packages are optimized for small craft and tailored to
 their expected role. Packages may be tailored to their
 intended role or a more general package may be used to
 save costs. Tailored packages give additional bonuses, at
@@ -10656,7 +10656,7 @@ Package
 
 20 2 +1 15 MCr24 20
 
-Optimised
+Optimized
 Military
 Operations
 Package (fighter)
@@ -10664,7 +10664,7 @@ Package (fighter)
 +1 12 MCr+6 +5 DM+2 on Pilot and Gunner
 checks at Short range or less
 
-Optimised
+Optimized
 Military
 Operations
 Package (escort)
@@ -10672,7 +10672,7 @@ Package (escort)
 +1 13 MCr+8 +5 DM+2 on Electronic Warfare
 and Point-Defence checks
 
-Optimised
+Optimized
 Military
 Operations
 Package (recon)
@@ -10680,7 +10680,7 @@ Package (recon)
 +1 13 MCr+10 +5 DM+2 on Sensor and
 Electronic Warfare checks
 
-Optimised
+Optimized
 Military
 Operations
 Package (assault)
@@ -11445,8 +11445,8 @@ the conditions on Lair without further manipulation by
 the Ancients.
 
 Male Vargr typically are 60 kilograms in mass and
-stand 1.6 metres high. Females tend to be smaller and
-average 1.5 metres in height and 55 kilograms in mass.
+stand 1.6 meters high. Females tend to be smaller and
+average 1.5 meters in height and 55 kilograms in mass.
 
 SPINWARD
 
@@ -11641,7 +11641,7 @@ outcast from society so long ago.
 Urzaeng: The Urzaeng are one of the few subspecies
 known to the Imperium and the only subspecies not
 outcast by Vargr society due to their superior physical
-prowess. Urzaeng average 1.85 metres in height and
+prowess. Urzaeng average 1.85 meters in height and
 weigh 70 kilograms. They are more powerfully built than
 the average human and physically a match for Aslan.
 The Urzaeng were originally bred by the Ancients for
@@ -11656,8 +11656,8 @@ the Trenchans sector in the Imperium). They are the
 smallest of the subspecies and were engineered by the
 Ancients to have heightened mental faculties at the
 expense of physical attributes. Kokasha are typically
-1.45 metres high and weigh 50 kilograms. Females are
-slightly smaller, averaging 1.4 metres high and weighing
+1.45 meters high and weigh 50 kilograms. Females are
+slightly smaller, averaging 1.4 meters high and weighing
 45 kilograms.
 
 **Akumgeda:** Like most other subspecies, the Akumgeda
@@ -11679,7 +11679,7 @@ reintegrated with their society.
 **Nakagun:** This outcast subspecies lives in exile in the
 Nakagun sector and are known to possess strange
 psionic powers. Males and females are similar in
-size averaging 1.5 metres in height and weighing 55
+size averaging 1.5 meters in height and weighing 55
 kilograms. Little else is known of this group since they
 fled from Lair over a 1,000 years ago.
 
@@ -12336,7 +12336,7 @@ NAMING
 The diversity of Vargr society extends to their language.
 There are hundreds of different languages and dialects
 spoken throughout the Extents. Governments tend
-to favour a particular language but this is not always
+to favor a particular language but this is not always
 the case and in some regions a common language is
 adopted to aid in trade and negotiations.
 
@@ -12982,7 +12982,7 @@ refuse, your current employer becomes an Ally and you gain DM+2 to your next Sur
 10 Your continued success has earned you much respect from your pack. Roll CHA 10+ to become pack leader
 and gain an automatic promotion.
 
-11 Your successful career has placed you in a favourable position. Gain one Benefit roll or DM+4 to your next
+11 Your successful career has placed you in a favorable position. Gain one Benefit roll or DM+4 to your next
 Advancement roll.
 
 12 You have done exemplary work for your pack and organization. Gain an automatic promotion and CHA +1.
@@ -13660,7 +13660,7 @@ PSION
 2 You make telepathic contact with an unknown entity. You go missing for 1D days and have no memory of the
 event. If the roll for number of days was 5 or 6 you also lose PSI –1.
 
-3 Your pack discovers you are a psion and do not look favourably on your kind. You are humiliated and outcast
+3 Your pack discovers you are a psion and do not look favorably on your kind. You are humiliated and outcast
 from the pack and the community. You lose CHA –1 and your next Survival roll suffers DM-2 penalty.
 
 4 You visit a world where psionics are outlawed. You are arrested and your time in prison forces you to leave
@@ -14096,7 +14096,7 @@ rigid ballistic materials while heavy guards are made of
 metal/ceramic composites.
 
 **Chest Guard (Dhinourraksa):** The traditional chest guard
-is favoured by those who need to move fast or engage
+is favored by those who need to move fast or engage
 in complex tasks – it is popular with pilots and vehicle
 crewmembers. It takes the form of an upper-torso and
 shoulder guard, sometimes with a loose fringe covering
@@ -14142,7 +14142,7 @@ energy only
 **LIMB ARMOR**
 Limb armor is usually light, to facilitate fast and agile
 movement in combat. There are exceptions, however,
-notably among Vargr who favour a head-on close combat
+notably among Vargr who favor a head-on close combat
 approach or those worried about floor-level threats. The
 ability to crash right through a set of spiked foot traps
 or even anti-personnel mines is useful when leading a
@@ -14207,7 +14207,7 @@ anti-personnel minefields. A very heavy armored boot
 covers the lower leg, with a flexible section above the
 knee augmented by light plates on the front of the
 thigh. Stomping boots reduce movement speed by one
-metre and impose DM-1 on checks requiring delicate
+meter and impose DM-1 on checks requiring delicate
 placement of the feet.
 
 **ARMOR SETS**
@@ -14222,20 +14222,20 @@ sometimes have quite a history to it and be worn with
 pride by its owner.
 
 **Fighter Set (Kforzhazuk):** The lightest fighter set is
-favoured by warriors who need to move fast but want
+favored by warriors who need to move fast but want
 some protection. It consists of a set of shoulder guards
 and light bracers, used by those who expect hand-to-
 hand combat.
 
 **Fighter Set (Kforzgong):** A variant on the fighter set, this
 kit consists of a set of charging boots and light bracers,
-is favoured by scouts or those expecting to encounter
+is favored by scouts or those expecting to encounter
 ground-level hazards.
 
 **Leader-Fighter Set (Vhezkforz):** Consisting of a set of
 shoulder guards fitted to a light ballistic cloth jacket,
 with an additional fireproof cloak for gravitas and
-protection, the fighter-leader set is favoured by many
+protection, the fighter-leader set is favored by many
 Vargr officers. Bracers or boots may be easily added.
 
 Warrior Set (Zuurku-Azuk): The lightest of the warrior
@@ -14244,18 +14244,18 @@ bracers. It is used, for the most part, by pilots and
 vehicle crew.
 
 Warrior Set (Zurrku-Ekdho): Consisting of a heavy vest
-and bracers, this warrior set is favoured by those who
+and bracers, this warrior set is favored by those who
 move in and out of vehicles on a frequent basis and by
 urban combat specialists.
 
 Warrior Set (Zurrku-Oengga): Adding a set of fighting
 boots and an arm shield to the Zurrku-Ekdho, this set
-is favoured by lightly equipped assault troops or whose
+is favored by lightly equipped assault troops or whose
 who prefer highly mobile hand-to hand combat.
 
 Warrior-Leader Set (Vhezk-Zurrku): A heavy vest and
 bracers attached to a suitably ostentatious lightly
-armored jacket, this loadout is favoured by those who
+armored jacket, this loadout is favored by those who
 hope to lead others in the thickest of the fight
 
 Assault Set (Kungedz-Udhvarr): Although intended for
@@ -14505,7 +14505,7 @@ months) and painful, requiring a combination of
 genetic manipulation and surgery. Travellers with
 this augment gain the following modifications: STR
 +1, END +1 and INT –1. The Traveller’s body also
-increases in size, gaining 2D+6 centimetres in height
+increases in size, gaining 2D+6 centimeters in height
 and 1D+4 kg in weight.
 
 MODIFICATION TL KG COST
@@ -14563,7 +14563,7 @@ listed in the _Traveller Core Rulebook_.
 A11/58231 CLAW FIST
 A spiked fist weapon that fits over the hand, is designed to
 look like claws and is a good example of the types of weapon
-favoured by corsairs for both practical and aesthetic purposes.
+favored by corsairs for both practical and aesthetic purposes.
 It is a very effective close combat weapon but the claw fist
 must be strapped firmly to the hand and takes D3 rounds to
 attach or remove. The wearer also suffers DM-2 to any task
@@ -14844,7 +14844,7 @@ Control System (enhanced), ECM (advanced), Fire Extinguisher, Hostile
 Environment, Life Support (short term), Navigation System (improved),
 Prismatic Aerosol Discharger, Sensor System (improved, hardened,
 increased range), Stealth (basic)
-A favourite of both the military and corsair
+A favorite of both the military and corsair
 raiders, the Wulfenite is a personnel carrier
 designed for stealth and speed. The G-Carrier
 is perfect for swift planetary assaults and
@@ -16239,7 +16239,7 @@ PHYSIOLOGY
 While human in all respects, the Zhodani differ slightly
 in appearance from those of Solomani or Vilani ancestry.
 They tend to be tall and lithe, averaging close to two
-metres in height and massing roughly 90 kilograms.
+meters in height and massing roughly 90 kilograms.
 Complexions are predominantly swarthy and hair colour
 usually black or brown. Blond hair is uncommon but a
 mutation that occurred on Zhdant in the last 10,000
@@ -16683,7 +16683,7 @@ those involved. If necessary, the Noble may dispatch
 Thought Police investigators to locate evidence,
 suspects or additional witnesses. A judgment is made
 and the decision recorded, usually sent telepathically to
-an Intendant clerk in the local records centre.
+an Intendant clerk in the local records center.
 
 Crimes committed by Nobles and Intendants are
 treated as special cases, since a Noble of higher rank
@@ -16811,7 +16811,7 @@ work under.
 DRESS
 The most distinctive elements of Zhodani dress are the
 turbans and cloaks worn by the Nobility, along with the
-stylish beards male Nobles favour and the headbands
+stylish beards male Nobles favor and the headbands
 worn by Intendants. However, there is much more to
 Zhodani dress than this.
 
@@ -17256,7 +17256,7 @@ who engage in unhealthy activities. However, Gambling
 is unknown in Zhodani society.
 
 Commission and Advancement
-Zhodani society favours the careers of Intendants and,
+Zhodani society favors the careers of Intendants and,
 especially, Nobles. The following rules apply to all
 Zhodani Travellers.
 
@@ -17647,7 +17647,7 @@ RANKS AND BONUSES CONT...
 
 1D MISHAP
 1 Injured. Roll on the Injury table.
-2 Your art becomes the centre of a scandal. Gain one level of Carouse, Diplomat, or Persuade. If SOC 10+, you
+2 Your art becomes the center of a scandal. Gain one level of Carouse, Diplomat, or Persuade. If SOC 10+, you
 are forced to move to another world. Roll on the Re-education Events table (page 274) but you may remain in
 this career.
 3 You commit a grievous breach of protocol and public opinion turns against you, ruining your career. Roll
@@ -18741,7 +18741,7 @@ or military units.
 Zhodani can use equipment and facilities designed for
 other human races with little difficulty. One exception
 comes from Zhodani height; as they average two
-metres tall, low doors and ceilings can occasionally
+meters tall, low doors and ceilings can occasionally
 be awkward, and clothes or armor designed for other
 humans may require re-tailoring (add +5% to cost) in
 order to fit properly. Aside from trousers possibly too
@@ -18774,7 +18774,7 @@ or import into the Imperium.
 **Psi-sensitive Switch:** Technological devices produced in
 Zhodani territory contain integral psi-sensitive controls
 (in addition to regular controls), which allow operation
-from a distance of up to 50 metres by mentally
+from a distance of up to 50 meters by mentally
 
 CENTRAL SUPPLY CATALOGUE
 
@@ -18835,8 +18835,8 @@ This device can be worn as a form-hugging body-suit
 integrated or into a suit of armor. It rapidly cools or warms
 the body after teleportation, minimising damage from sudden
 energy gains or losses. The suit allows a Traveller to jump up
-to 600 metres up or down in a single teleport or up to 10
-kilometres in a single hour when using successive jumps.
+to 600 meters up or down in a single teleport or up to 10
+kilometers in a single hour when using successive jumps.
 
 Armor Type Protection TL Rad Kg Cost Required Skill
 Teleportation
@@ -18987,7 +18987,7 @@ PROGRAMMING Advanced
 This warbot is light enough to be carried as equipment by a
 Zhodani commando team – massing a total of 9kg, a skilled
 teleporter can even carry one with him when he teleports. A
-favourite tactic of Zhodani commandos is to teleport deep into
+favorite tactic of Zhodani commandos is to teleport deep into
 enemy territory, leave several light warbots behind and then
 teleport back to safety while the warbots wreak havoc on an
 unsuspecting enemy encampment, thoroughly demoralising
@@ -20013,7 +20013,7 @@ are the most prolific operators Zdebr-class
 traders and these ships are a common sight
 in frontier regions of the Consulate. They
 are more general-purpose vessels than
-the 400-ton subsidised merchant used in
+the 400-ton subsidized merchant used in
 the Imperium, being closer in concept to
 an oversized free trader. Atypically for a
 Zhodani commercial vessel the Zdebr is

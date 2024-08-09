@@ -192,7 +192,7 @@ _Homeworld_ : Sacnoth A775956-C Hi In (Spinward Marches 1325)
 _Skills_ : Diplomacy 2, Astrogation 1, Engineer (electronics) 1, Gun Combat (any) 1, Persuade 1, Pilot (spacecraft) 1, Admin 0, Electronics (computers) 0 , Engineer (life support) 0, Mechanic 0, Pilot (small craft) 0, Streetwise 0, Vacc Suit 0 _Equipment_ : Weapon, Rival
 [Appendix 4 gives an older version of Karl after he’s mustered out for potential use as a PC.]
 
-If the PCs bypass the gas giants in favour of refuelling on the ground, this encounter could still take place either as they leave Dawnworld orbit, or head out to the Jump limit.
+If the PCs bypass the gas giants in favor of refuelling on the ground, this encounter could still take place either as they leave Dawnworld orbit, or head out to the Jump limit.
 
 **Refuelling on the ground**
 Dawnworld is a beautiful garden world but there is no population. The Zhodani might be curious why. Library Data entries should give them the background which has been known for the last five centuries or more. The Darrians, the Sacnoth Dominate, Imperial utopians and Vargr have all tried to set up colonies in the last two thousand years, but all have encountered the same problem: any males born on the planet are sterile. None of the colonies have lasted more than fifty years. The PCs will be unlikely to stumble across the solution to this in the short amount of time that they’re there, but it would be safe enough to visit the surface, stretch their legs and refuel.
@@ -244,7 +244,7 @@ The Referee can elide over the time in Jumpspace or give the players opportuniti
 
 ##### Act Two
 
-These scenes can be handled in any order after the first. They are also optional after the first scene and give the PCs a flavour of both life in District 268 and the varying attitudes to psionics generally and Zhodani specifically.
+These scenes can be handled in any order after the first. They are also optional after the first scene and give the PCs a flavor of both life in District 268 and the varying attitudes to psionics generally and Zhodani specifically.
 
 ##### Scene 1: Out and about in District 268
 
@@ -325,7 +325,7 @@ Other passenger interactions can occur as desired to flesh out something of the 
 ##### Scene 3 : Noctocol Collapse
 
 This scene is designed to take place at Noctocol (
-E7A5747-8 Fl) and the Referee can wait until the players choose that as a destination, inserting any other side adventures or activities as desired, or the PCs can be encouraged to travel that way by, for example, favourable trade deals or a specific commission to ship cargo or a patron to the world. Alternatively, it could be set on another world with suitable conditions and population.
+E7A5747-8 Fl) and the Referee can wait until the players choose that as a destination, inserting any other side adventures or activities as desired, or the PCs can be encouraged to travel that way by, for example, favorable trade deals or a specific commission to ship cargo or a patron to the world. Alternatively, it could be set on another world with suitable conditions and population.
 
 The PC or PCs tending to the mlok will notice that the creatures seem to have recovered and are once again thriving.
 
@@ -337,13 +337,13 @@ If the PCs are willing to get involved various psionic skills can be brought to 
 
 Armins won’t lead on this, but if the PCs are mercenary enough to ask about payment she’ll be a bit taken aback but add “the government has authorized me to say that we would, it goes without saying, waive port fees and refuelling charges were you able to help. We’ll probably be able to get you a top broker for any cargo you might want to buy or sell and cover their fees as well.” Bear in mind, however, the relative poverty of the inhabitants regarding the purchase of any cargo the PCs might want to sell.
 
-Assuming the PCs are willing to help, it will be a great way to present an extremely positive image of the Zhodani. The population of Noctocol are isolationist enough to be suspicious of anyone, psionic or not, but as soon as they see any of the crew actively assisting, they’ll certainly be curious but also be favourably impressed. The crew may get questions as they work alongside any locals, but assuming they’re competent and really do make a difference, will gain respect as well. If they were to voluntarily donate any of their cargo this would obviously raise their cachet even further.
+Assuming the PCs are willing to help, it will be a great way to present an extremely positive image of the Zhodani. The population of Noctocol are isolationist enough to be suspicious of anyone, psionic or not, but as soon as they see any of the crew actively assisting, they’ll certainly be curious but also be favorably impressed. The crew may get questions as they work alongside any locals, but assuming they’re competent and really do make a difference, will gain respect as well. If they were to voluntarily donate any of their cargo this would obviously raise their cachet even further.
 
 At the scene, and Armins can join the PCs to act as translator with the local commander if necessary, there is a fair bit of chaos, but some hours have passed since the disaster and emergency services are on the scene and coordinating the rescue efforts. There are collapsed buildings on the surface that can be searched and although access is difficult, there is the old rail line tunnel to check as well. A train has been caught in the collapse and there could be passengers to locate and extricate.
 
 Events may further be complicated by either additional tremors making precarious emergency excavations collapse further, or accumulated damage then affecting the atmospheric integrity of the main cave they’re in risking ingress of the toxic atmosphere. Of course, both happening might further add to the pressure and expand the disaster relief necessary. Efforts will be further hampered by the broken or highly accented Galanglic many of the Noctocolians will speak. The PCs may be asked, or may volunteer, to visit the city at the other end of the rail line. This will be perfectly possible and will give them access to the tunnel from the other end. In such an event the Referee should play up the differences between the cities with yet more communications difficulties and a contrasting culture.
 
-If the PCs refuse to help, Armins won’t press them although she’ll be obviously disappointed. The world has more pressing matters to get on with and the PCs will essentially be left to their own devices. However, they won’t be able to buy or sell cargo – everyone is too preoccupied either with the rescue work itself or trying to ensure that everything, or more particularly everyone, is secure against any further damage. The PCs won’t be able to refuel either and will be forced to refuel from one of the gas giants in the system. Should they return to the world, they won’t be very favourably received.
+If the PCs refuse to help, Armins won’t press them although she’ll be obviously disappointed. The world has more pressing matters to get on with and the PCs will essentially be left to their own devices. However, they won’t be able to buy or sell cargo – everyone is too preoccupied either with the rescue work itself or trying to ensure that everything, or more particularly everyone, is secure against any further damage. The PCs won’t be able to refuel either and will be forced to refuel from one of the gas giants in the system. Should they return to the world, they won’t be very favorably received.
 
 If the PCs help out but are unsuccessful in making much of a difference, they’ll be thanked for their efforts and receive the promised incentives.
 
@@ -360,7 +360,7 @@ even outside the Imperium – that the crew of the _Zarvae’_ will be received 
 (12+) Streetwise OR Broker, 1D days. For worlds with a population of >8 this task can be reduced to Difficult
 (10+) Streetwise OR Broker, 1 D x 10 hours. Without a broker who is willing to represent them, selling cargo will be very difficult as buyers won’t even trust the goods they’re purchasing never mind the Zhodani themselves, and buying cargo will be difficult.
 
-The PCs will minimally be getting the cold shoulder, brush offs and unfavourable rates – even in stores with marked prices, but may also be on the receiving end of racist remarks and insults. This might be a good opportunity for the encounter with the crew of the Ganymede Express (see Act Three Scene 1 ).
+The PCs will minimally be getting the cold shoulder, brush offs and unfavorable rates – even in stores with marked prices, but may also be on the receiving end of racist remarks and insults. This might be a good opportunity for the encounter with the crew of the Ganymede Express (see Act Three Scene 1 ).
 
 It maybe that the crew of the Zarvae’ want to actively look for opportunities to present the positives of psionics or the Zhodani Consulate specifically and there should be occasions when this is possible. However, it may not always have any beneficial effect and the Referee can make as little or as much of this as desired. The crew may also wish to deny, or at least downplay having any psionic powers at all in order to try and set the locals’ minds at rest; perhaps literally.
 
@@ -637,7 +637,7 @@ Down on her luck Imperial war veteran trying to get back to Imperium
 **Locations (see also potential bars and nightclubs above)**
 Credit Krissy’s – loose network of small run-down accommodation conversions done on the cheap where the dregs of society can find poor quality entertainment on tiny stages; performers may well be available for more intimate entertainment following a show. Snort baiting – The <insert government leader title here> Arms, a run-down pub has a back room with a pit some 2m in diameter. Snorts are put in to fight each other; bets are taken. Snorts are 20cm rat type creatures with a snout, and teeth, like a crocodile. The smell of sweat, meat and blood is heavy – and to some, intoxicating. The Quantum – a gentlesophont’s club where matters of the day – e.g. the possibility of a Fifth Frontier War are discussed. Good food, special membership for transient travellers? Or an introduction from some Zhodani noble on world?
 Coffee shop of some kind – trade goods rumors; an idea of Acceptance levels. Animal sanctuary rescuing wildlife – entertainment but may also be educational (e.g. subtle difference between two similar creatures which could come in useful for a future cargo opportunity)
-Greenhouses – flora and small fauna, renowned in sector for hydroponic excellence. Happen to see – or perhaps detect rather – some act of sabotage going on and curry favour with authorities
+Greenhouses – flora and small fauna, renowned in sector for hydroponic excellence. Happen to see – or perhaps detect rather – some act of sabotage going on and curry favor with authorities
 
 2 for 1 offer at local gym/pool/Anti-gravity hall (also Advert) – another chance to pick up rumors, meet people or perhaps have a pickup game of some sport or other & make contacts Kindergarten outing passing by (or the children in danger at the collapse site in Act II) – a teacher, teaching assistant and perhaps 15-20 children
 
@@ -762,7 +762,7 @@ The Consulate is remarkably stable, having retained a single form of government 
 
 **Physiology**
 The lower gravity of their homeworld Zhdant (0.85 Imperial
-‘standard’ gravities) has led to the Zhodani being taller and more lithe than the Vilani and Solomani. Males average 2.1 metres (7 feet) in height and 90 kg (200 Ibs) in weight. They have 28 teeth, four less than Imperials. Though their homeworid’s KO star is less bright than that of Sol, most Zhodani are quite dark-skinned or swarthy.
+‘standard’ gravities) has led to the Zhodani being taller and more lithe than the Vilani and Solomani. Males average 2.1 meters (7 feet) in height and 90 kg (200 Ibs) in weight. They have 28 teeth, four less than Imperials. Though their homeworid’s KO star is less bright than that of Sol, most Zhodani are quite dark-skinned or swarthy.
 
 **Time**
 The standard Zhodani zhdanstial [day; 27.02 Imperial hours] is divided into 20 zhdina [‘hours’]. The chten [year] is 244.44 zhdanstial [275.2 Imperial days]. Every three chten is one thequzdij [Olympiad; 2.25 Imperial years]. Zhodani year zero marks the first Psionic Games (-6731 Imperial).
@@ -809,7 +809,7 @@ The Tavrchedl’ do not constantly monitor the thoughts of the populace: privacy
 The judicial system considers the offender’s mental health as important as the offence itself. Those who are mentally confused (e.g. by a major change in their circumstances or the loss of a loved one) are helped to adjust. Those who require punishment rarely suffer more than a fine, but repeated or severe offences may lead to enforced re-education.
 
 Clothing is a visible manifestation of Zhodani conformity. All clothing styles are similar, with peculiarities for each caste:
-Nobles will often wear a turban and cloak, with males favouring a stylish beard; Intendants wear headbands, which often distinguish them from the non-psionic proles. However, the Zhodani should not be stereotyped - they have the same natural variation in the patterns and length of facial hair as Imperials; not all male nobles sport beards; they have just as great a degree of creativity, divergence of opinion and freedom of expression as the Imperials, though the Zhodani focus these abilities for the common good, whereas the Imperials...
+Nobles will often wear a turban and cloak, with males favoring a stylish beard; Intendants wear headbands, which often distinguish them from the non-psionic proles. However, the Zhodani should not be stereotyped - they have the same natural variation in the patterns and length of facial hair as Imperials; not all male nobles sport beards; they have just as great a degree of creativity, divergence of opinion and freedom of expression as the Imperials, though the Zhodani focus these abilities for the common good, whereas the Imperials...
 
 Competition is acceptable, both in teams and as individuals, though primarily in physical sports. The Psionic Games are strongly competitive as they provide a means for the most promising Intendants to achieve Noble status.
 

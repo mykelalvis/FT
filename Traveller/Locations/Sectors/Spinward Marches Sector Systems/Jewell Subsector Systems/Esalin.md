@@ -20,4 +20,4 @@ All travellers are permitted to land at the Esalin starport or other authorized 
 
 # PLACES OF INTEREST
 
-Due to the variety and abundance of food grown on Esalin, most towns and cities will have a range of fine quality restaurants and affordable eating establishments. As the saying goes, ‘No-one ever goes hungry on Esalin’.
+Due to the variety and abundance of food grown on Esalin, most towns and cities will have a range of fine quality restaurants and affordable eating establishments. As the saying goes, 'No-one ever goes hungry on Esalin'.

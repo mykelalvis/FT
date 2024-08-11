@@ -13,7 +13,7 @@ RILL DUNKNEVER
 [[Vilani]] Male 51 (667859)
 ![[Rill_Portrait.jpg]]
 
-Rill is the ducal heir’s personal steward and attends to his every need during the expedition. During the jumps from [[Sirma]] to [[Tinea-Fabre]], the Travellers come to know and appreciate old Rilly’s excellent cooking. Even when the _Superb Starling_ is sputtering and stalling due to poor maintenance, at least they get to eat well.
+Rill is the ducal heir's personal steward and attends to his every need during the expedition. During the jumps from [[Sirma]] to [[Tinea-Fabre]], the Travellers come to know and appreciate old Rilly's excellent cooking. Even when the _Superb Starling_ is sputtering and stalling due to poor maintenance, at least they get to eat well.
 
 TRAITS — SKILLS
 STR 6 INT 6

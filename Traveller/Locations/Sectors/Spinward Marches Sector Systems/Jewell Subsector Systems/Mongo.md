@@ -16,7 +16,7 @@ In 989 several corporations, backed with funding from Jewell, rebuilt the minera
 
 # ATTITUDES
 
-Mongo has a population of five million, consisting mainly of Human and Vargr. The colonists’ ancestors had to endure much before Mongo became the prosperous world that it is today and this heritage is important to them. The people of Mongo are friendly and amenable to most but tend be hostile toward the Zhodani.
+Mongo has a population of five million, consisting mainly of Human and Vargr. The colonists' ancestors had to endure much before Mongo became the prosperous world that it is today and this heritage is important to them. The people of Mongo are friendly and amenable to most but tend be hostile toward the Zhodani.
 
 # LAWS
 
@@ -32,5 +32,5 @@ This is the only land based facility operated by MagnetoDynamics. It has a prime
 ![[Trip-346.jpg|100]]
 ## MagnetoDynamics Platforms
 
-Referred to as MDP 1, MDP 2, and MDP 3 (short for ‘MagnetoDynamics Platform’), these three platforms travel the oceans to extract the mineral deposits. Refer to the MDP 1 encounter for details.
+Referred to as MDP 1, MDP 2, and MDP 3 (short for 'MagnetoDynamics Platform'), these three platforms travel the oceans to extract the mineral deposits. Refer to the MDP 1 encounter for details.
 

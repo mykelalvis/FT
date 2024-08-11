@@ -14,7 +14,7 @@ The [[Imperium]] has classed Utoland as non-industrial but the technology and re
 
 # ATTITUDES
 
-Due to the current social and political climate on Utoland, attitudes vary greatly. Whilst many people oppose the [[Federation of Arden]]’s takeover of Utoland, others have welcomed it. The economy is certainly improving but many feel this has come at the cost of personal freedoms.
+Due to the current social and political climate on Utoland, attitudes vary greatly. Whilst many people oppose the [[Federation of Arden]]'s takeover of Utoland, others have welcomed it. The economy is certainly improving but many feel this has come at the cost of personal freedoms.
 
 # LAWS
 
@@ -43,7 +43,7 @@ If one fails to get valid permits, they will either have to move on to the next 
 
 ## Utane
 
-The capital city is home to the majority of the planet’s population. The city is split into two levels. The upper level is located within a large dome on the planets surface and is primarily a commercial area. The lower level is underground where most of the houses have been built.
+The capital city is home to the majority of the planet's population. The city is split into two levels. The upper level is located within a large dome on the planets surface and is primarily a commercial area. The lower level is underground where most of the houses have been built.
 
 ## Starport
 
@@ -55,4 +55,4 @@ The facility consists of a number of mines located 100 km south of [[#Utane]]. U
 
 ## The Blue Room
 
-This bar is located on the lower city level and is frequented by individuals who make it quite clear that they are not happy with the federation’s rule. The federation are aware of the activities here but have not gotten involved, partly to avoid unnecessary conflict but it also allows them to monitor and identify potential trouble makers.
+This bar is located on the lower city level and is frequented by individuals who make it quite clear that they are not happy with the federation's rule. The federation are aware of the activities here but have not gotten involved, partly to avoid unnecessary conflict but it also allows them to monitor and identify potential trouble makers.

@@ -14,7 +14,7 @@ Until recently, Zenopit had regular trade routes with the Federation of Arden wh
 
 The inhabitants of Zenopit are a proud people. They work hard to survive and through the greatest adversary, their colony still struggles on. Many Zenopians are not afraid to speak their mind and more than anything else, they value their freedom and independence.
 
-It is also important to note that the Zenopians’ belief in independence is not an isolationist or xenophobic reaction but a resistance to being subjugated or dictated to. Relationships with other worlds are important to the Zenopians and they fully understand that trade is essential to the survival of many colonies, including their own.
+It is also important to note that the Zenopians' belief in independence is not an isolationist or xenophobic reaction but a resistance to being subjugated or dictated to. Relationships with other worlds are important to the Zenopians and they fully understand that trade is essential to the survival of many colonies, including their own.
 
 The [[Imperium]] is not held in high esteem on Zenopit, for not only has the [[Imperium]] ignored requests for aid but some Zenopians blame the [[Imperium]] for strip-mining their world due to the demand for [[lanthanum]] at the time.
 
@@ -28,7 +28,7 @@ Anyone is permitted to land on Zenopit. All weapons, except for shotguns, stunne
 
 ## Xenoport
 
-Situated close to the starport, Xenoport has become the trade hub of Zenopit. Many consider it to be the capital but there is no official status in this regard. The southern region of the city is dominated by the ore processing plant. [[lanthanum]] ore is shipped here from Orelia and Lacuna. Once processed, the ore is ready to be exported by Xenoport’s small fleet of ships and other merchants.
+Situated close to the starport, Xenoport has become the trade hub of Zenopit. Many consider it to be the capital but there is no official status in this regard. The southern region of the city is dominated by the ore processing plant. [[lanthanum]] ore is shipped here from Orelia and Lacuna. Once processed, the ore is ready to be exported by Xenoport's small fleet of ships and other merchants.
 
 ## Orelia
 

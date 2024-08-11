@@ -35,7 +35,7 @@ The collapse of the Confederation followed, isolating Darrian colonies and forci
 
 The Darrians descend from human stock relocated to Daryen over 300,000 years ago by the Ancients. The new world the transplants found themselves on was of low gravity but otherwise hospitable to human life. Initially free from the pathogens and diseases of their new world, they developed new ones from the bacterium and viruses within their own bodies. The combination of lighter gravity, arid environment and increased level of ozone led to unique adaptations not found in other humans.
 
-The reduced gravity of Daryen led to the development of a taller and slighter build, with an equal reduction in strength. Freed from the shackles of restricting gravity, the physiology adapted by ‘stretching’ the body, making them much lither. This stretching also gave somewhat sharper features and an exotic look that has been described as almost elfin. Reduced air pressure caused a slight elongation and tapering of the ears to improve audio capacity.
+The reduced gravity of Daryen led to the development of a taller and slighter build, with an equal reduction in strength. Freed from the shackles of restricting gravity, the physiology adapted by 'stretching' the body, making them much lither. This stretching also gave somewhat sharper features and an exotic look that has been described as almost elfin. Reduced air pressure caused a slight elongation and tapering of the ears to improve audio capacity.
 
 Most pure-blood Darrians grow to a height of 2.10–2. meters tall, while those of mixed blood tend to be a little shorter. Males average 78 kilograms in weight while females average 71 kilograms, somewhat lighter than an average human of similar height.
 
@@ -49,7 +49,7 @@ An interesting adaption with no clear cause is the widening of the pelvis in bot
 
 gait but they have some difficulty balancing on narrow surfaces. The wider pelvis has also led to significantly fewer difficulties in childbirth and allows for a longer gestation period and slightly more developed babies with greater brain development.
 
-Darrians do not possess melanin to protect them from ultraviolet radiation. Instead, they have a chemical called protremelanin, which absorbs UV radiation without tanning, giving them a golden skin tone and much greater protection from the ultraviolet spectrum. Their skin also has a glowing quality that others refer to as their ‘inner light’. Stressed or unhealthy Darrians lose this glow and their complexion becomes a greyish-yellow. To complement their skin tone, Darrian hair ranges from white to platinum-blonde and exhibits the same slight glowing nature. The introduction of Solomani genetics has given rise to a somewhat ruddier appearance amongst Darrians of mixed heritage but an individual will either have melanin or protremelanin in their skin, never both.
+Darrians do not possess melanin to protect them from ultraviolet radiation. Instead, they have a chemical called protremelanin, which absorbs UV radiation without tanning, giving them a golden skin tone and much greater protection from the ultraviolet spectrum. Their skin also has a glowing quality that others refer to as their 'inner light'. Stressed or unhealthy Darrians lose this glow and their complexion becomes a greyish-yellow. To complement their skin tone, Darrian hair ranges from white to platinum-blonde and exhibits the same slight glowing nature. The introduction of Solomani genetics has given rise to a somewhat ruddier appearance amongst Darrians of mixed heritage but an individual will either have melanin or protremelanin in their skin, never both.
 
 Darrians are unable to store subcutaneous fat, hence metabolising everything they eat to be used for energy or internal heat. They have a variable appetite based on their environmental requirements. If too many calories are consumed, they are just expelled as waste product. Although an autonomous process, this has led other humans to be somewhat envious of Darrians, who never have a need to diet.
 
@@ -78,7 +78,7 @@ While certainly not a monoculture across the entire Darrian Confederation, socie
 
 As a pacifistic society, Darrians are viewed with contempt by more militaristic races. They prefer to settle disputes and conflicts via negotiation or clever ruse but there is more to Darrian pacifism than meets the eye. Darrian society is based on the wellbeing of the community rather than gratification of the self, with a strong emphasis on scientific and artistic excellence, stringent self-control, acceptance of others and stoic persistence.
 
-Darrian culture is also influenced by member races of the Confederation. Citizens are treated equally regardless of race or origin. The breakdown of the collected world’s populace is 75% pure strain Darrian, 12% mixed strain Darrian, 8% Aslan, 3% pure strain Solomani and 2% other races. Since their arrival on the Darrian homeworld, the Solomani have been absorbed into the culture but in return they introduced novel concepts such as personal freedom and ambition. The Aslan, with their more alien society, continue to follow Aslan traditions but have been slowly and voluntarily adopting Darrian characteristics such as monogamy, prohibition against unnecessary killing and pursuit of intellectual rather than militaristic pursuits. Non-
+Darrian culture is also influenced by member races of the Confederation. Citizens are treated equally regardless of race or origin. The breakdown of the collected world's populace is 75% pure strain Darrian, 12% mixed strain Darrian, 8% Aslan, 3% pure strain Solomani and 2% other races. Since their arrival on the Darrian homeworld, the Solomani have been absorbed into the culture but in return they introduced novel concepts such as personal freedom and ambition. The Aslan, with their more alien society, continue to follow Aslan traditions but have been slowly and voluntarily adopting Darrian characteristics such as monogamy, prohibition against unnecessary killing and pursuit of intellectual rather than militaristic pursuits. Non-
 Darrian Aslan see this as a betrayal of traditional ideals, considering their brethren to be barbarians and traitors to the true Aslan way.
 
 ### FAMILY
@@ -89,7 +89,7 @@ Once married, Darrians are expected to remain faithful to their partner for the 
 
 - romantic extramarital affairs, be they emotional or physical, are disapproved of.
 
-Marriages normally produce an average of two or three children. Family names are descended from the paternal line but in return the mother has the right to give the child it’s birth name.
+Marriages normally produce an average of two or three children. Family names are descended from the paternal line but in return the mother has the right to give the child it's birth name.
 
 Children are raised to be respectful of their elders and the community, to seek knowledge and be open-
 minded to opposing thoughts. Behaviour is re-enforced through social ostracism – antisocial, non-communal and selfish acts are punished with exile of the perpetrator from their peers.
@@ -105,7 +105,7 @@ grandchildren, often cycling between them to reduce unnecessary strain.
 **COMMUNITY**
 Darrians have no concept of tribe, clan or nation. Instead, they think of themselves as a unified world and even that is second to the identity of the Confederation. Each member world of the Confederation has its own minor variations in culture and tradition but this is to be expected from a polity splintered for a significant amount of time. Since their return to interstellar travel, the worlds have knitted together into a surprisingly homogenous civilization. No matter who they are, Darrian, Solomani, Aslan; they are all members of the Confederation and they are all Darrian.
 
-Darrian societies aim to be egalitarian meritocracies, where everyone is treated equally. Nothing stands in a citizen’s way of attaining authority except their own capabilities. Social services and governance are structured in suitably sized authorities, based on geography and population of each world. Some operate on the level of a village, others may be city level, while others may be continental or planetary. Naturally, some worlds come closer to this ideal than others but it is always the goal.
+Darrian societies aim to be egalitarian meritocracies, where everyone is treated equally. Nothing stands in a citizen's way of attaining authority except their own capabilities. Social services and governance are structured in suitably sized authorities, based on geography and population of each world. Some operate on the level of a village, others may be city level, while others may be continental or planetary. Naturally, some worlds come closer to this ideal than others but it is always the goal.
 
 ### PERSONAL EXCELLENCE
 
@@ -147,7 +147,7 @@ This stoicism has led the Darrians to developing an innate foresight, always pla
 
 Religion to Darrians is a matter of philosophy, a personal belief of divinities and the universe. All Darrians are free to worship or believe in whatever they choose, as long as it brings harm to no one and causes no inconvenience. The social functions that a religion is expected to perform, such as charity work, emotional support, youth assistance and counselling are all fulfilled by a number of associations and organizations unaffiliated with religion.
 
-Most schools of philosophy are based on courtesy, open mindedness, rationality and respect for intelligence. Many have a wide following but the common societal approach of encouraging multiple and diverse views also prevents them from achieving political power. Most Darrians tend to make a distinction between an individuals’ philosophy or religious beliefs and their political leaning; many philosophical teachers have large followers who subscribe to their views but do not form political power blocks.
+Most schools of philosophy are based on courtesy, open mindedness, rationality and respect for intelligence. Many have a wide following but the common societal approach of encouraging multiple and diverse views also prevents them from achieving political power. Most Darrians tend to make a distinction between an individuals' philosophy or religious beliefs and their political leaning; many philosophical teachers have large followers who subscribe to their views but do not form political power blocks.
 
 The introduction of new races into the Confederation has naturally brought new philosophies and beliefs. These new ideas are not considered any less valid than those traditionally Darrian in origin. All are equally accepted as long as they adhere to freedom from harm and inconvenience; it is not unusual to find a wide variety of philosophies and faiths in any community, regardless of size.
 
@@ -174,7 +174,7 @@ From birth or acceptance of Darrian citizenship, all personal records and financ
 
 structure and design. Crosschecking data on a citizen from another planet is a formality, merely requiring a delay of however long it takes for the next data update to arrive from that world. Citizens who anticipate a need to perform bureaucratic business offworld usually request copies of their records to be sent ahead before leaving.
 
-The Confederation is a cashless society and accounts are indelibly linked to a citizen’s biometric ID – all financial transactions are easily traced by the authorities and automated programs run checks within other records to detect fraudulent activity, such as welfare, employment and education databases to ensure no oversights or mistakes are made.
+The Confederation is a cashless society and accounts are indelibly linked to a citizen's biometric ID – all financial transactions are easily traced by the authorities and automated programs run checks within other records to detect fraudulent activity, such as welfare, employment and education databases to ensure no oversights or mistakes are made.
 
 With most administration tasks being fulfilled by citizens themselves and doublechecked by software, what few bureaucratic staff remain are usually assigned the role of aiding politicians to adjudicate problems, revise old systems or manage work schedules. Most bureaucrats have no set responsibilities but are assigned to new ones once a project is completed. Bureaucratic staff are selected for their versatility, a good grounding in statistics, administration, data analysis and up to half a dozen other social, financial and natural sciences. Their task is not to be a better specialist than the elected politician but to convey to the politician the effects any policy will have on other areas of society and the environment.
 
@@ -476,7 +476,7 @@ The number of taxes in the Confederation are few but applied to all. A sliding s
 
 The Ministry also sets the minimum wage for different careers. Wages are weighted in terms of value towards society, personal danger and distastefulness of the work; sanitation engineers and military personnel have some of the highest pay rates in the Confederation. As a symbol of faith and loyalty to the Darrian people, politicians and bureaucrats are paid a salary equal to the average wage on their homeworld.
 
-Since it is almost impossible to hide credit flow, Darrians are typically honest and Confederation taxes are relatively low compared to other polities. As a general guideline, income tax starts at a base of 10% of earnings beyond a tax-free allowance. Planetary taxes are in addition to this, and can vary according to the inclination of that world’s government, but rarely exceeds the Confederation tax level. In addition, Travellers arriving at any Confederation port are subject to a Cr25 arrival tax. Hauled cargo is charged a Cr50 per ton transit fee when delivered to a starport, although speculative trade is only taxed at half the going rate, making the Confederation a lucrative market.
+Since it is almost impossible to hide credit flow, Darrians are typically honest and Confederation taxes are relatively low compared to other polities. As a general guideline, income tax starts at a base of 10% of earnings beyond a tax-free allowance. Planetary taxes are in addition to this, and can vary according to the inclination of that world's government, but rarely exceeds the Confederation tax level. In addition, Travellers arriving at any Confederation port are subject to a Cr25 arrival tax. Hauled cargo is charged a Cr50 per ton transit fee when delivered to a starport, although speculative trade is only taxed at half the going rate, making the Confederation a lucrative market.
 
 ### MINISTRY OF TRADE
 
@@ -500,11 +500,11 @@ The Ministry of Confederation Appeals is the supreme arbiter of disputes in the 
 
 ### CONFEDERATION COUNCIL
 
-Sitting above the five Ministries is the Confederation Council, composed of one representative for each system in the Confederation, selected by the government of each system in whatever manner they deem appropriate. For example, the representative of Zamine (a balkanised world) is elected by the leadership of all nations of Zamine. The representative of Terant 340 (a charismatic dictatorship) is appointed by that world’s dictator. Since Engrange is currently a colony of Ilium, it does not get a separate representative. Each representative is appointed for a term of four years and may be reappointed any number of times. The Confederation Council meets in weekly sessions.
+Sitting above the five Ministries is the Confederation Council, composed of one representative for each system in the Confederation, selected by the government of each system in whatever manner they deem appropriate. For example, the representative of Zamine (a balkanised world) is elected by the leadership of all nations of Zamine. The representative of Terant 340 (a charismatic dictatorship) is appointed by that world's dictator. Since Engrange is currently a colony of Ilium, it does not get a separate representative. Each representative is appointed for a term of four years and may be reappointed any number of times. The Confederation Council meets in weekly sessions.
 
 The Council is nominally led by a President, representatives voting one of their cohort to take the role. The President sits a term of four years and then another vote is held. Unlike representatives, a President may not hold office for a contiguous term but may be voted into the position for other terms. The President of the Confederation Council acts as signatory of all legislation passed by the Council and has the deciding vote on tied matters.
 
-The capital of the Confederation is Mire. The Confederation’s bureaucracies are all based on Mire, as is the Confederation Council. Each Council member is accorded an office with supporting staff to handle details that must be dealt with by major political figures.
+The capital of the Confederation is Mire. The Confederation's bureaucracies are all based on Mire, as is the Confederation Council. Each Council member is accorded an office with supporting staff to handle details that must be dealt with by major political figures.
 
 ### LAW
 
@@ -522,25 +522,25 @@ Arbitration is the normal form of seeking justice in Darrian society, due to the
 
 Courts require at least three government councillors
 
-- or local officers on smaller worlds – to hear cases that may result in punishments such as imprisonment, exile or death. The plaintiff in most court cases is the government itself, either law enforcement or one of the Ministries. The court is presided over by a respected arbitration scholar of many years’ experience, who first vets the case to ensure it is serious enough to warrant a full court. Government employed advocates are randomly selected to serve as either prosecution or defence. The case is limited to one day in which the prosecution and defence have equal time to present
+- or local officers on smaller worlds – to hear cases that may result in punishments such as imprisonment, exile or death. The plaintiff in most court cases is the government itself, either law enforcement or one of the Ministries. The court is presided over by a respected arbitration scholar of many years' experience, who first vets the case to ensure it is serious enough to warrant a full court. Government employed advocates are randomly selected to serve as either prosecution or defence. The case is limited to one day in which the prosecution and defence have equal time to present
 
 their case. The witnessing councillors are given until the end of the following day to reach a unanimous guilty or not guilty verdict. If no unanimous decision is reached in this period, which can occur with large numbers of witnessing councillors, a vote is held and the majority opinion carried. The sentence is set by the scholar.
 
 Court cases are held no more than once a week, and usually more intermittently, often leading to a backlog of cases to be heard.
 
-Between the length of time waiting for a full court case or the sometimes ‘random’ nature of arbitration judgements, there is a third form of dealing with disputes. Private Settlement is the consensual agreement between individuals to prevent more serious penalties of a threatened arbitration or court hearing. In such cases, an ‘eye for an eye’ methodology is most commonly used instead of financial reimbursement or compensation, so the perpetrator of an injustice experiences what they have inflicted on the plaintiff. Such settlements are usually presided over by envoys that remain scrupulously neutral during negotiations.
+Between the length of time waiting for a full court case or the sometimes 'random' nature of arbitration judgements, there is a third form of dealing with disputes. Private Settlement is the consensual agreement between individuals to prevent more serious penalties of a threatened arbitration or court hearing. In such cases, an 'eye for an eye' methodology is most commonly used instead of financial reimbursement or compensation, so the perpetrator of an injustice experiences what they have inflicted on the plaintiff. Such settlements are usually presided over by envoys that remain scrupulously neutral during negotiations.
 
 **DARRIAN EXILE**
-Exile is a form of punishment rarely seen outside the Confederation and one that fascinates sociologists from the Imperium. Its use is reserved for ‘criminals’ who transgress socially accepted codes of conduct but pose no direct threat of physical harm or potential sabotage. In general, those who refuse to willingly work within or contribute towards Darrian society are ejected from the care of that society.
+Exile is a form of punishment rarely seen outside the Confederation and one that fascinates sociologists from the Imperium. Its use is reserved for 'criminals' who transgress socially accepted codes of conduct but pose no direct threat of physical harm or potential sabotage. In general, those who refuse to willingly work within or contribute towards Darrian society are ejected from the care of that society.
 
-Such offences can vary wildly and no rigid list exists. Consistently avoiding taxes, persistent public rudeness or avoiding an initial term of service in the military if dropping out of graduate education are all common causes of suffering exile. The effect of being exiled is the immediate freezing of the exile’s bank accounts and computer access, followed by being ignored by those aware of the sentence. Lacking credit access soon makes life extremely difficult for an exile, being unable to buy food, pay rent or use public transport. More are forced to move into rural areas to live as scavengers until the sentence expires or they accept a one-way ticket out of the Confederation entirely.
+Such offences can vary wildly and no rigid list exists. Consistently avoiding taxes, persistent public rudeness or avoiding an initial term of service in the military if dropping out of graduate education are all common causes of suffering exile. The effect of being exiled is the immediate freezing of the exile's bank accounts and computer access, followed by being ignored by those aware of the sentence. Lacking credit access soon makes life extremely difficult for an exile, being unable to buy food, pay rent or use public transport. More are forced to move into rural areas to live as scavengers until the sentence expires or they accept a one-way ticket out of the Confederation entirely.
 
 The duration of exile can vary according to the severity of the misdemeanour. Minor transgressions last for a week or a month, enough time to show the exile they cannot survive long outside of society and it is better to conform to its modest requirements instead of trying to cheat or rebel against the system. More serious
 
 transgressions such as large-scale theft or industrial negligence resulting in injury to others can result in a term of exile lasting years or decades. Only the most serious of crimes like treason or sedition results in being exiled for life.
 
 Those sentenced to exile are completely outside the law and have no way to access social services. An exile can be mistreated with impunity, frequently being
-‘encouraged’ to move on by local inhabitants who use an escalating series of methods ranging from politely ignoring the individual up to physical assault. Exiles considered to be a threat to property or life are at risk of serious injury as they are barred from hospitals and doctors, and cannot receive medical treatment. Most exiles are identifiable by their unkept appearance, poor hygiene and unhealthy greyish cast to their complexion.
+'encouraged' to move on by local inhabitants who use an escalating series of methods ranging from politely ignoring the individual up to physical assault. Exiles considered to be a threat to property or life are at risk of serious injury as they are barred from hospitals and doctors, and cannot receive medical treatment. Most exiles are identifiable by their unkept appearance, poor hygiene and unhealthy greyish cast to their complexion.
 
 Such sentencing seems inhumane to other cultures, even out of character with Darrian philosophical beliefs, but becoming exiled is considered an education. Those who serve their time in exile are welcomed back into society, their past misdeeds cleared by the purging experience. During their exile however, no aid or consideration can be extended to them, for fear of undermining the purpose of the punishment. Anyone caught aiding an exile is vulnerable to being charged with a criminal act, although this does not always prevent a subtle act of kindness now and then to help an exile survive their term.
 
@@ -698,7 +698,7 @@ As part of their primary responsibility of manning the Star Trigger strategic de
 
 As part of the natural tendency towards unification, the Darrians have a standard common language. Prior to the Maghiz, the Darrians had five separate languages in concurrent use, one from each basin of their homeworld. Only one, _te-zlodh_ , was specifically used for colonization protocols, since it had reached ascendency as the language that best expressed scientific and technological concepts. In an ironic stroke of fate, the majority of Maghiz survivors on Daryen were in the undersea cities in the Zlodh Basin where _te-zlodh_ was the primary language.
 
-Modern _te-zlodh_ is known as _te-zapet_ , which translates as ‘the home language’.
+Modern _te-zlodh_ is known as _te-zapet_ , which translates as 'the home language'.
 
 While _te-zlodh_ is spoken and understood on all Confederation worlds, it has gradually evolved specific vocabularies and dialects. It is possible to identify the planet a Darrian is from, and sometimes even the region, just from their accent or colloquialisms. Since many technical terminologies and slang are unique, identifying the profession of the speaker is potentially quite feasible.
 
@@ -708,9 +708,9 @@ Aslan citizens of the Confederation cling to Trokh among themselves but have inc
 
 ### DARRIAN SCRIPT
 
-Technically there are five original Darrian scripts, one for each of the basins that had independently developed its own writing system. The eventual supremacy of the Zlodh priesthood subsumed the peoples of other basins and forced them to adopt the script used by the scholarly priests while retaining their own language. The system uses a syllabary – symbols representing syllables, much like a shorthand script. The glyphs look like jagged squiggles, the simple flowing symbols fast to scrive, assuming they did not have to be carved. This written form is called yaser te-yulep – ‘the old script’.
+Technically there are five original Darrian scripts, one for each of the basins that had independently developed its own writing system. The eventual supremacy of the Zlodh priesthood subsumed the peoples of other basins and forced them to adopt the script used by the scholarly priests while retaining their own language. The system uses a syllabary – symbols representing syllables, much like a shorthand script. The glyphs look like jagged squiggles, the simple flowing symbols fast to scrive, assuming they did not have to be carved. This written form is called yaser te-yulep – 'the old script'.
 
-When the Solomani arrived and made their presence known, the Latin alphabet was introduced. Known as the rome te-yulep , ‘the Roman script’, it was introduced to ease linguistic difficulties faced by settlers. Although this alphabet grew in importance due to its ability to represent phonetic sounds of Solomani technical terminology unknown in te-zlodh , it did not replace the old script completely. Currently yaser te-yulep remains in use for legal documentation, classical literature, poetry and news feeds, where speed and efficiency of the syllabary allow for rapid reading. Scientific and educational documentation remain written in rome te-yulep. On Rorre, whose population adhere to a pre-Solomani way of life, the Latin alphabet is legally forbidden.
+When the Solomani arrived and made their presence known, the Latin alphabet was introduced. Known as the rome te-yulep , 'the Roman script', it was introduced to ease linguistic difficulties faced by settlers. Although this alphabet grew in importance due to its ability to represent phonetic sounds of Solomani technical terminology unknown in te-zlodh , it did not replace the old script completely. Currently yaser te-yulep remains in use for legal documentation, classical literature, poetry and news feeds, where speed and efficiency of the syllabary allow for rapid reading. Scientific and educational documentation remain written in rome te-yulep. On Rorre, whose population adhere to a pre-Solomani way of life, the Latin alphabet is legally forbidden.
 
 ### ASLAN IN THE CONFEDERATION
 
@@ -772,7 +772,7 @@ Extending in a radius of approximately 10 kilometers, the Orchards surrounded th
 
 Each Orchard numbered about 250,000 trees. Theoretically, the Orchards could support a population of a million humans; in practice, over the course of the next 1,000 years, communities reached populations of about 100,000 and remained stable at that level.
 
-The five communities, named Boyr, Zlodh, Nyadh, Rimb and Abh, were established shortly before the Ancients War began. Being virtually indistinguishable from the native forest, the Orchards avoided the bombings and planetary devastation characteristic of the Ancients’
+The five communities, named Boyr, Zlodh, Nyadh, Rimb and Abh, were established shortly before the Ancients War began. Being virtually indistinguishable from the native forest, the Orchards avoided the bombings and planetary devastation characteristic of the Ancients'
 battle tactics. Onsorick was either killed or fled. Left to their own devices, the primitive Darrians spent the next several thousand years in idyllic peace in their Orchards.
 
 ### EARLY DEVELOPMENT
@@ -785,7 +785,7 @@ The fact that the Darrians lived for so long in such a densely populated area ha
 
 Between 80,000 and 100,000 years after the Ancients War, the Fire Pits began to fail. Flammable gases became intermittent, belching out noxious fumes and ash instead. Volcanic tubes below the surface began to cool and the replenishment of burning coals stopped. The Darrians knew how to make fire but the Orchard Trees suffered from the lack of geothermal heat that aided their lifecycle. The gradual dying off of trees led to terrible population strain on the Darrians, forcing them to move in an attempt
 
-to find new Orchards. None were ever found but the Darrians’ practicality and basic handcrafts allowed them to adapt to new environments, learning to create new shelters and preserve foods throughout the seasons.
+to find new Orchards. None were ever found but the Darrians' practicality and basic handcrafts allowed them to adapt to new environments, learning to create new shelters and preserve foods throughout the seasons.
 
 The pits at Boyr and Nyadh ultimately burned out completely. The Rimb Orchard suffered a terrible plague born from bacterium brought to Daryen by the humans, which mutated into a deadly pathogen that swept through the settlement. Knowledge and society fractured. The sedentary Darrian civilization abandoned the Orchards and scattered across the basins.
 
@@ -810,9 +810,9 @@ Hostilities lasted for thousands of years, as conflicts rose and fell along with
 
 - traders, philosophers and scholars also made the crossings during infrequent peaceful periods.
 
-Circa -23,000 in the Boyr Basin, the philosopher-king Derir Lipit first formally stated the philosophical premise that shaped Darrian thought ever since – ‘Every living thing has a right to live according to its own nature.’ In the Nyadh Basin 1,000 years later, the hermit-philosopher Yikan Yikan declared the basic commandment – ‘all living things must be allowed to live their lives’. The interpretation in Nyadh was an extreme one. Strict followers refused to take a life, ate only fruit, burned only wood from dead trees and wore only plant fibres or shorn wool. Interpretation in the Boyr Basin was more flexible.
+Circa -23,000 in the Boyr Basin, the philosopher-king Derir Lipit first formally stated the philosophical premise that shaped Darrian thought ever since – 'Every living thing has a right to live according to its own nature.' In the Nyadh Basin 1,000 years later, the hermit-philosopher Yikan Yikan declared the basic commandment – 'all living things must be allowed to live their lives'. The interpretation in Nyadh was an extreme one. Strict followers refused to take a life, ate only fruit, burned only wood from dead trees and wore only plant fibres or shorn wool. Interpretation in the Boyr Basin was more flexible.
 
-Darrians were at the top of the food chain and accepted as a fact of life that animals needed to be killed for food to eat but the Boyr philosophy dictated that all creatures, animals included, be treated humanely. Values advanced and various philosophies evolved. Eventually the Rimb law-giver Notan Taledh distilled and combined the two philosophies into one – ‘Animals live by predation but humans, because of their intelligence, live by production. Thus, a human who lives as a predator is living as an animal and not fulfilling their true nature as a human. Humans may use the lower animals for labour or for food but cruelty to them is not allowed. No human may prey upon another human.’
+Darrians were at the top of the food chain and accepted as a fact of life that animals needed to be killed for food to eat but the Boyr philosophy dictated that all creatures, animals included, be treated humanely. Values advanced and various philosophies evolved. Eventually the Rimb law-giver Notan Taledh distilled and combined the two philosophies into one – 'Animals live by predation but humans, because of their intelligence, live by production. Thus, a human who lives as a predator is living as an animal and not fulfilling their true nature as a human. Humans may use the lower animals for labour or for food but cruelty to them is not allowed. No human may prey upon another human.'
 
 The great Taledh taught that rationality was the true nature of humans. Instinct and raw emotion are lesser, vestigial parts, which must not be allowed to take control. Darrian society is based upon this school of thought, tending to be even-tempered, lucid and difficult to alarm. They are not, however, self-repressive, instead freely able to express emotion as long as their expression does not cause offence or harm.
 
@@ -859,7 +859,7 @@ In -1520, the Itzin fleet of 35 transports and 10 armed escorts departed from Di
 
 The Solomani came clandestinely to Daryen. The world was first surveyed from orbit, then a base located in an inaccessible area of the mountains at the junction of where Rimb, Boyr and Abh met. Once finished, the settlers relocated to the base and the ships were hidden in orbit. After a full analysis of the world and its people, the Solomani where ready to make themselves known.
 
-In -1511, the people of the Itzin fleet appeared in the Rimb Basin. Their previous research had shown the Darrians where secular, so instead of appearing as sky gods, they made their presence known as ordinary terrestrial voyagers from a far-off land. To most, the Solomani were just another group of wandering Darrians, albeit rather short and stocky. It was the technology the arriving Solomani carried with them, their knowledge and equipment, that drew the Darrians’
+In -1511, the people of the Itzin fleet appeared in the Rimb Basin. Their previous research had shown the Darrians where secular, so instead of appearing as sky gods, they made their presence known as ordinary terrestrial voyagers from a far-off land. To most, the Solomani were just another group of wandering Darrians, albeit rather short and stocky. It was the technology the arriving Solomani carried with them, their knowledge and equipment, that drew the Darrians'
 attention. The Solomani freely traded equipment and knowledge, cementing lasting friendships and fortunes.
 
 Using a combination of subtle dissemination and honest enthusiasm, the Darrians extracted whole new technological concepts from their offworld friends, gaining a broad new base of novel scientific concepts. Once the Solomani realised how quickly the Darrians embraced this new knowledge, the Izten leadership decided to enter into open partnership. The synergy between the fresh Darrian culture and strongly driven, more engineering and technology focused Solomani was explosive. The Darrians quickly adopted wholesale Solomani theories and engineering, exponentially accelerating their Tech Level and industrial base.
@@ -867,7 +867,7 @@ Using a combination of subtle dissemination and honest enthusiasm, the Darrians 
 Darrian History
 
 **THE DARRIAN SURGE**
-Soon after revealing themselves to the Darrians the Solomani quickly integrated into their society, merging themselves into the mainstream of Darrian life and forming interracial marriages, which to everyone’s surprise produced healthy children, although Darrian genes proved dominant. Darrians were hired to work for Solomani companies and, once native manufacturing capacity began to operate, Solomani became valued employees of Darrian companies.
+Soon after revealing themselves to the Darrians the Solomani quickly integrated into their society, merging themselves into the mainstream of Darrian life and forming interracial marriages, which to everyone's surprise produced healthy children, although Darrian genes proved dominant. Darrians were hired to work for Solomani companies and, once native manufacturing capacity began to operate, Solomani became valued employees of Darrian companies.
 
 The assimilation of the Solomani into Darrian society took approximately 100 years. The total number of Solomani arriving at Daryen was no more than 300,000. Their knowledge, expertise and experience where shared freely, benefiting both Darrians and Solomani alike. Once the Darrians mastered Solomani technology, they applied their own higher mathematical abilities to take them to their logical conclusions and began to make leaps beyond them.
 
@@ -927,7 +927,7 @@ In a fraction of a second, a TL16 society was plunged into the Stone Age but wor
 
 An extinction-level wavefront of expanding incandescent gas exploded from Tarnis, travelling at a little under nine million kilometers per hour and crossing the distance to Daryen in just under a day. The Darrians were unaware of their approaching doom and unable to prepare for it even if they were.
 
-The superheated plasma struck Daryen like a blowtorch, buckling the planet’s magnetic field. The ionised particles sheeted through the atmosphere, which was already weakened by the previous gamma ray burst, causing the whole sky to erupt with both auroras and titanic lightning bolts. Absorbing overwhelming quantities of energy, the upper layers of the atmosphere themselves exploded into plasma, irradiating everything on the surface with doses of soft x-rays and unfiltered UV radiation, blinding those unfortunate to be outside.
+The superheated plasma struck Daryen like a blowtorch, buckling the planet's magnetic field. The ionised particles sheeted through the atmosphere, which was already weakened by the previous gamma ray burst, causing the whole sky to erupt with both auroras and titanic lightning bolts. Absorbing overwhelming quantities of energy, the upper layers of the atmosphere themselves exploded into plasma, irradiating everything on the surface with doses of soft x-rays and unfiltered UV radiation, blinding those unfortunate to be outside.
 
 Darrian History
 
@@ -938,7 +938,7 @@ The only remaining Darrians were those trapped in a few subterranean installatio
 The hyper-flares did not stop at Daryen. They continued on throughout the system, devastating already functionless orbital manufacturing plants, drifting spaceships and a few outlying research outposts. In an unlikely chance of fate, the Abh Project station in the asteroid belt was located within a vast nickel-iron planetoid, heavily shielded to prevent stray signals interfering with sensitive equipment. The base, but not its surface communications or shuttles, survived the initial pulse. Nevertheless, the following flares caught most of the research team as they attempted repairs on both. The handful of survivors spent four years cannibalising remaining equipment to jury-
 rig a single gig to take them back to the devastated nightmare on Daryen.
 
-The gamma rays from Tarnis continued outwards into interstellar space, hitting each Darrian colony world in turn. Even with forewarning of ‘Pulse Day’, it was impossible to shield every piece of electronic equipment from the radiation wave – many colonies simply lacked the materials or machinery to construct enough protective cages. As it arrived in each system, electronic devices were powered down and earthed, but many still fried. Eventually, after nearly six parsecs, the wave front dissipated, unable to generate further EMP effect.
+The gamma rays from Tarnis continued outwards into interstellar space, hitting each Darrian colony world in turn. Even with forewarning of 'Pulse Day', it was impossible to shield every piece of electronic equipment from the radiation wave – many colonies simply lacked the materials or machinery to construct enough protective cages. As it arrived in each system, electronic devices were powered down and earthed, but many still fried. Eventually, after nearly six parsecs, the wave front dissipated, unable to generate further EMP effect.
 
 ### NIGHT TIME
 
@@ -946,9 +946,9 @@ At the time of the Maghiz, colonies were still highly dependent upon Daryen as a
 
 maintain full databases of scientific information, each world possessing only a small subset of knowledge and whatever research materials their specialists brought with them. The idea that the homeworld could be destroyed had been inconceivable. No one had planned for it.
 
-Over weeks, those transports fortunate enough to be outsystem when the Maghiz occurred jumped back to Daryen and discovered the devastation that had been wrought. Sensor officers scoured the world for signs of survivors and, by chance, re-established meson communications with the surviving Zlodh undersea cities, but realised they could provide no relief for the stricken citizens. The flash-heated surface of Daryen was now suffering violent storms and torrential rainfall from gigatons of condensing water vapour. Without hydrogen available to refuel them, the transports’ own survival was in question until the arrival of a vessel capable of skimming fuel from the system’s gas giants.
+Over weeks, those transports fortunate enough to be outsystem when the Maghiz occurred jumped back to Daryen and discovered the devastation that had been wrought. Sensor officers scoured the world for signs of survivors and, by chance, re-established meson communications with the surviving Zlodh undersea cities, but realised they could provide no relief for the stricken citizens. The flash-heated surface of Daryen was now suffering violent storms and torrential rainfall from gigatons of condensing water vapour. Without hydrogen available to refuel them, the transports' own survival was in question until the arrival of a vessel capable of skimming fuel from the system's gas giants.
 
-Faced with the harsh reality that almost all of Daryen’s scientific community was annihilated and with no way to safely descend through the storms, the transports exchanged navigational data and returned to their homes.
+Faced with the harsh reality that almost all of Daryen's scientific community was annihilated and with no way to safely descend through the storms, the transports exchanged navigational data and returned to their homes.
 
 For approximately two decades, Daryen and its colonies tried to continue with the barest communication and traded whatever surplus materials they had available. Rescue and relief missions were sent back to Daryen, with mixed successes. With few ships on hand and most useful equipment being hoarded against eventual failure, it soon became clear that it was not possible to continue as before.
 
@@ -1007,13 +1007,13 @@ The previous disasters that befell the Confederation led it to make preparations
 The size of the distrusted Zhodani Consulate coreward dictated that the Darrians could not defend themselves against the larger polity without outside assistance. To protect its interests, the Confederation entered the diplomatic arena.
 
 The Darrian Confederation and the Sword Worlds traded warily and tentatively – their relationship was never satisfactory due to the contempt and hostility Sword Worlders held towards Darrian culture. At the same time, the two Confederations found themselves competing for the same external markets –
-independent worlds within the Spinward Marches and systems along the Imperium’s border. Taken together with the looming threat of the Consulate, the Darrians naturally searched for diplomatic means of neutralising its two natural adversaries. The only major power with the ability to achieve that was the Imperium.
+independent worlds within the Spinward Marches and systems along the Imperium's border. Taken together with the looming threat of the Consulate, the Darrians naturally searched for diplomatic means of neutralising its two natural adversaries. The only major power with the ability to achieve that was the Imperium.
 
 For 800 years after it returned to the stars, the Darrian Confederation was content to pursue an independent course. Trade ties with the Imperium were inevitable but the Darrians maintained strict neutrality with regard
 
 to military matters. In the 400s, Darrians began to see a need for greater military security within their sphere and so established the Special Arm and deployed the Star Trigger as a deterrent to aggression.
 
-For the next 100 years there was an uneasy peace. The Zhodani and Sword Worlds made overtures to the Darrians, proposing alliances against the Imperium. The Darrians insisted on pursuing a neutral course and turned them down, then further reinforced their stance with a demonstration of the Star Trigger on a star near Stern-Stern. The Darrians explained that the Star Trigger could not be operated at full power, due to the damage it would cause to nearby systems, but the invited delegates were horrified to view the eruption of an unusually large solar flare, cementing the Confederation’s desire to be left in peace.
+For the next 100 years there was an uneasy peace. The Zhodani and Sword Worlds made overtures to the Darrians, proposing alliances against the Imperium. The Darrians insisted on pursuing a neutral course and turned them down, then further reinforced their stance with a demonstration of the Star Trigger on a star near Stern-Stern. The Darrians explained that the Star Trigger could not be operated at full power, due to the damage it would cause to nearby systems, but the invited delegates were horrified to view the eruption of an unusually large solar flare, cementing the Confederation's desire to be left in peace.
 
 The Darrians soon began to see that the Star Trigger was not the perfect deterrent they had hoped it would be. The threat of destroying whole star systems was enough to stop most aggression but it would not be enough if the entire region were engulfed in war. The threat of destabilizing stars might keep forces out of Darrian territory but it was unrealistic to assume the Star Trigger could be used to ban all warfare in the sector.
 
@@ -1034,11 +1034,11 @@ Aslan loyalty was not bought with money but with the promise of the most valuabl
 
 ### THE SECRET OF THE STAR TRIGGER
 
-Of all the misleading cover stories that shield the Darrians, the Star Trigger is the most pervasive. The Confederation Council realised they needed a way to hold off an invasion from the larger and more powerful Zhodani Consulate. The Council’s solution was to build a weapon that would act as the ultimate deterrent, one capable of causing another Maghiz. Yet, despite access to fragmented journal entries written by one of the surviving Abh team members in which personal notes about the probe had been made, the best scientists of the Confederation failed to replicate the effect.
+Of all the misleading cover stories that shield the Darrians, the Star Trigger is the most pervasive. The Confederation Council realised they needed a way to hold off an invasion from the larger and more powerful Zhodani Consulate. The Council's solution was to build a weapon that would act as the ultimate deterrent, one capable of causing another Maghiz. Yet, despite access to fragmented journal entries written by one of the surviving Abh team members in which personal notes about the probe had been made, the best scientists of the Confederation failed to replicate the effect.
 
 Left with little choice, a small cadre of scientist used their advanced astronomical knowledge and sensors to precisely predict a major series of solar flares of an obscure star near Stern-Stern. A completely fake Star Trigger weapon was constructed and the Special Arm was formed to guard it and were trained in its use. Once preparations where complete, observers from the Zhodani Consulate, Imperium and Sword Worlds were invited to watch the carefully orchestrated demonstration. The ruse worked and the delegates were horrified by the results.
 
-The Sword Worlders where not so easily fooled however, and doubted that the Darrians would have the courage to deploy such a weapon. Calling the Confederation’s bluff, the Sword Worlders annexed the Entropic Worlds during the First Frontier War. After the cease fire, Zhodani analysis noted that the Star Trigger had not been deployed, despite it being obvious that such an action would have affected the Darrians’ own systems as well.
+The Sword Worlders where not so easily fooled however, and doubted that the Darrians would have the courage to deploy such a weapon. Calling the Confederation's bluff, the Sword Worlders annexed the Entropic Worlds during the First Frontier War. After the cease fire, Zhodani analysis noted that the Star Trigger had not been deployed, despite it being obvious that such an action would have affected the Darrians' own systems as well.
 
 Taking their lack of resolve as a sign of moral weakness, the Zhodani decided to penetrate Confederation space during the Second Frontier War. Alarmed, the Confederation Council ordered the deployment of the Star Trigger, completely unaware that it did not work. Faced with disaster, the handful of Special Arm agents privy to the truth were helpless to influence Council members, so they connived to briefly withdraw, allowing a small opportunity for Zhodani agents to detect the determination of the Confederation government. The ploy worked and the Zhodani incursion was rapidly recalled.
 
@@ -1074,7 +1074,7 @@ out assault on the world, supported morally by their Zhodani allies. The surpris
 
 Suffering significant losses from the attack, the Darrian Navy was forced to withdraw from the Entropic Worlds, abandoning the outflanked penal colony on Torment in the process. Later reconnaissance revealed the penal installation to be empty, the fate of prisoners housed within unknown. Shortly afterwards, a spate of vicious pirate attacks was launched on merchant shipping and supply lines deep within the Confederation, which prevented a Darrian counterattack from relieving annexed worlds before peace was signed between the Imperium and the Zhodani.
 
-The last 10 years has seen the arrival of the new generation of TL15 cruisers from the Imperium and the gradual build-up of Darrian forces in anticipation of further Zhodani or Sword Worlds aggression. The Confederation remains a close ally of the Imperium, although opinions are beginning to be voiced over Emperor Strephon’s lack of effort or assistance in regaining the Entropic Worlds and the mistreatment of subjugated Darrian populations.
+The last 10 years has seen the arrival of the new generation of TL15 cruisers from the Imperium and the gradual build-up of Darrian forces in anticipation of further Zhodani or Sword Worlds aggression. The Confederation remains a close ally of the Imperium, although opinions are beginning to be voiced over Emperor Strephon's lack of effort or assistance in regaining the Entropic Worlds and the mistreatment of subjugated Darrian populations.
 
 Darrian History
 
@@ -1087,7 +1087,7 @@ Date Event
 -200,000 Daryen flame pits begin to burn out.
 -100,000 Extensive migrations on Daryen. Basins settled.
 -23,000 Philosopher-king Derir lepit of Boyr Basin states the philosophy that dominates Darrian Culture.
--22,000 Hermit philosopher Yikan of Nyadh Basin creates the basic commandment – ‘All living things must be allowed to live their own lives.’
+-22,000 Hermit philosopher Yikan of Nyadh Basin creates the basic commandment – 'All living things must be allowed to live their own lives.'
 -20,000 People of Abh Basin begin migrating through the mountains to the neighboring equatorial Nyadh, Rimb and Boyr Basins.
 -16,000 Explorers cross the mountain ranges isolating the north polar Zlodh Basin on Daryen.
 -15,000 Rise of the Zlodh Empire.
@@ -1220,7 +1220,7 @@ career education options from the _Traveller Core Rulebook,_ choosing university
 ### THE DRAFT
 
 Darrians who fail to successfully enter pre-career education or the military for their first term will be forced to apply to the draft and be randomly sent to pre-
-career education or one of the military services. After a Traveller’s first term, if a Darrian fails to qualify for a career of their choice, they may enter the Wanderer career or apply to the draft again.
+career education or one of the military services. After a Traveller's first term, if a Darrian fails to qualify for a career of their choice, they may enter the Wanderer career or apply to the draft again.
 
 Darrian Draft 1D Career 1–2 University 3 Military Academy 4 Guard 5 Militia 6 Navy
 
@@ -1235,7 +1235,7 @@ Entertainer: The range of Darrian arts is comprehensive, from the simplest songs
 
 Envoy: Darrians have long used envoys to prevent unnecessary war and avoid disagreements from deteriorating into long feuds. They can be found at all levels of society, from the lowliest marriage councillors to the lofty heights of the Confederate government.
 
-Guard: The Guard are the Confederation’s heavy troops, who form regiments independent of home world. The Guard are generally equipped with the heaviest armor available, specialising in assault and fortification tactics. They train in conjunction with militia units so as to complement each other’s strengths. The Guard are the functional equivalent of the Imperium’s ground assault marines.
+Guard: The Guard are the Confederation's heavy troops, who form regiments independent of home world. The Guard are generally equipped with the heaviest armor available, specialising in assault and fortification tactics. They train in conjunction with militia units so as to complement each other's strengths. The Guard are the functional equivalent of the Imperium's ground assault marines.
 
 Merchant: Members of commercial enterprise, Darrian merchants crew ships of the large trading corporations or they may work as independent traders that carry chance cargos and passengers between worlds.
 
@@ -1255,7 +1255,7 @@ Wanderer: Some Darrians move about the Confederation without putting down roots 
 
 ### AGING
 
-Darrian aging is the same for standard humans in its onset but generally less severe. The first roll on the aging table is made after four terms of service at 34. Thereafter, it is checked every four years and half the number of the Traveller’s terms served is applied as a negative DM to the roll.
+Darrian aging is the same for standard humans in its onset but generally less severe. The first roll on the aging table is made after four terms of service at 34. Thereafter, it is checked every four years and half the number of the Traveller's terms served is applied as a negative DM to the roll.
 
 Careers Table Career Assignment Qualification Survival Advancement Agent INT 7+
 Police END 6+ INT 6+
@@ -1457,7 +1457,7 @@ RANK ARTIST/AUTHOR/PERFORMER SKILL OR BONUS 0 Hobbyist —
 
 1D MISHAP 1 Injured. Roll on the Injury table. 2 You commit a grievous breach of protocol and are outcast. Lose SOC -1. 3 Your art becomes the center of a scandal and you are forced to move to another world. Gain one of Diplomat 1, Flyer 1, Persuade 1 or Streetwise 1. 4 You are betrayed by a peer. One of your Contacts or Allies betrays you, ending your career. That Contact or Ally becomes a Rival or Enemy. If you have no Contacts or Allies, then you are betrayed by someone you never saw coming and gain a Rival or Enemy. 5 You are forced out because of censorship or controversy. What truth did you get too close to? You gain DM+2 to the qualification roll of your next career. 6 You are embroiled in a rivalry with an official, who ends your career. Gain them as a Rival.
 
-2D EVENT 2 Disaster! Roll on the Mishap table but you are not ejected form this career. 3 You uncover an embarrassing secret concerning a Rival. Either trade it for D3 extra Benefit rolls and convert your Rival into an Enemy or you may inform the Rival that their secret is safe and gain them as an Ally instead. 4 You gain a patron in the arts. Gain DM+2 to your next advancement roll and a Contact. 5 You are assigned a challenging task. Roll Art, Investigate or Persuade 8+. If you succeed, gain DM+2 to your next advancement roll. If you fail, you suffer DM-2 to your next advancement roll. 6 You are given advanced training in a specialist field. Roll EDU 8+ to gain any skill. 7 Life Event. Roll on the Life Events table. 8 One of your works is especially well received and popular, making you a minor celebrity. Gain DM+1 to any one Benefit roll. 9 You are a part of your homeworld’s celebrity circles. Gain one of Carouse 1, Persuade 1, Steward 1 or a Contact. 10 Long hours spent studying for a piece you want to create or perform broadens your mind. Gain either EDU +1 or one level of a Science skill. 11 You go on a tour of the sector, visiting several worlds. Gain D3 Contacts. 12 You are publicly acclaimed for your work by a high ranking Confederation official. You are automatically promoted.
+2D EVENT 2 Disaster! Roll on the Mishap table but you are not ejected form this career. 3 You uncover an embarrassing secret concerning a Rival. Either trade it for D3 extra Benefit rolls and convert your Rival into an Enemy or you may inform the Rival that their secret is safe and gain them as an Ally instead. 4 You gain a patron in the arts. Gain DM+2 to your next advancement roll and a Contact. 5 You are assigned a challenging task. Roll Art, Investigate or Persuade 8+. If you succeed, gain DM+2 to your next advancement roll. If you fail, you suffer DM-2 to your next advancement roll. 6 You are given advanced training in a specialist field. Roll EDU 8+ to gain any skill. 7 Life Event. Roll on the Life Events table. 8 One of your works is especially well received and popular, making you a minor celebrity. Gain DM+1 to any one Benefit roll. 9 You are a part of your homeworld's celebrity circles. Gain one of Carouse 1, Persuade 1, Steward 1 or a Contact. 10 Long hours spent studying for a piece you want to create or perform broadens your mind. Gain either EDU +1 or one level of a Science skill. 11 You go on a tour of the sector, visiting several worlds. Gain D3 Contacts. 12 You are publicly acclaimed for your work by a high ranking Confederation official. You are automatically promoted.
 
 2
 
@@ -1620,7 +1620,7 @@ Broker EDU 7+ INT 5+
 
 1D CASH BENEFITS 1 Cr5000 Contact 2 Cr5000 INT +1 3 Cr10000 EDU +1 4 Cr20000 Blade 5 Cr20000 Gun 6 Cr40000 Ally 7 Cr100000 10 Ship Shares
 
-1D MISHAP 1 Injured. Roll on the Injury table. 2 You are accused of stealing from your employer. If this is true, gain three Benefit rolls and take the Wanderer (exile) career in your next term. If it is false, roll Advocate 8+ to defend yourself. If you succeed, you may remain in this career. If you roll a 2, you must take the Wanderer (exile) career in your next term. 3 You are bankrupted by a rival trader. You lose all Benefit rolls from this career and gain the other trader as a Rival. 4 Your ship’s or company’s fortunes decline. You may continue in this career if you wish but will gain no Benefit rolls this term or next. 5 You are sent to a border world where your career stagnates. Gain Flyer 1, Navigate 1, Survival 1 or Profession 1. 6 A superior takes a dislike to you. Gain a Rival.
+1D MISHAP 1 Injured. Roll on the Injury table. 2 You are accused of stealing from your employer. If this is true, gain three Benefit rolls and take the Wanderer (exile) career in your next term. If it is false, roll Advocate 8+ to defend yourself. If you succeed, you may remain in this career. If you roll a 2, you must take the Wanderer (exile) career in your next term. 3 You are bankrupted by a rival trader. You lose all Benefit rolls from this career and gain the other trader as a Rival. 4 Your ship's or company's fortunes decline. You may continue in this career if you wish but will gain no Benefit rolls this term or next. 5 You are sent to a border world where your career stagnates. Gain Flyer 1, Navigate 1, Survival 1 or Profession 1. 6 A superior takes a dislike to you. Gain a Rival.
 
 Members of this career can be found anywhere, shipping freight or trying their luck with speculative trade.
 
@@ -1674,7 +1674,7 @@ Support END 5+ EDU 7+
 
 1D CASH BENEFITS 1 Cr500 INT +1 2 Cr1000 END +1 3 Cr2000 EDU +1 4 Cr5000 Weapon 5 Cr10000 Armor 6 Cr20000 Vehicle 7 Cr50000 Weapon
 
-1D MISHAP 1 Severely injured (this is the same as a result of 2 on the Injury table). Alternatively, roll twice on the Injury Table and take the lower result. 2 A superior officer has you drummed out of the service. Gain a Rival. 3 During an exercise you become lost behind ‘enemy’ lines. Gain Gun Combat, Stealth, Streetwise or Survival. 4 Whilst training you shoot a superior officer and are exiled from your unit. Lose SOC -1. 5 You risk severe injury in a dangerous live fire skirmish. If you fight bravely, roll Gun Combat or Athletics 8+. If you fail, roll on the Injury table and leave this career. If you succeed, you may remain in this career. If you refuse to fight bravely, you must leave this career. 6 Injured. Roll on the Injury table.
+1D MISHAP 1 Severely injured (this is the same as a result of 2 on the Injury table). Alternatively, roll twice on the Injury Table and take the lower result. 2 A superior officer has you drummed out of the service. Gain a Rival. 3 During an exercise you become lost behind 'enemy' lines. Gain Gun Combat, Stealth, Streetwise or Survival. 4 Whilst training you shoot a superior officer and are exiled from your unit. Lose SOC -1. 5 You risk severe injury in a dangerous live fire skirmish. If you fight bravely, roll Gun Combat or Athletics 8+. If you fail, roll on the Injury table and leave this career. If you succeed, you may remain in this career. If you refuse to fight bravely, you must leave this career. 6 Injured. Roll on the Injury table.
 
 Members of a planetary armed force, militia serve to defend their homeworld using guerrilla warfare.
 
@@ -1720,7 +1720,7 @@ RANK OFFICER SKILL OR BONUS 0 Lieutenant Leadership 1 1 Captain —
 4 Brigadier Diplomat 1 5 General —
 6 Director Leadership 1
 
-2D EVENT 2 Disaster! Roll on the Mishap table but you are not ejected from this career. 3 Your unit is temporarily assigned to an Imperium peace keeping force that sees conflict. Roll Recon or Gun Combat 8+ to avoid being injured and gain one level of Heavy Weapons, Leadership, Medic or Stealth. 4 You are assigned garrison duty on an isolated Confederation outpost. Gain a Contact there or one level of Electronics (comms), Mechanic or Streetwise. 5 You are involved in a skirmish when a pirate ship misjumps and mistakenly raids your world. Gain one level of Gun Combat, Melee, Recon or Survival, then roll that skill. If you get 8+, your unit was victorious, granting DM+2 to your next advancement roll. 6 You are given advanced training in a specialist skill. Roll EDU 8+ to gain any one skill available to your career. 7 Life Event. Roll on the Life Event table. 8 You are sent to Cunnonic to help the Aslan garrison cull the hostile life forms. Increase a skill of your choice by one level but lose INT -1 from the repeated nightmares you have suffered since. 9 A mission goes disastrously wrong due to your commander’s error or incompetence but you survive. If you report your commanding officer for their failure, gain DM+2 to your next advancement roll and gain them as an Enemy. If you say nothing and protect them, you gain them as an Ally. 10 You are considered for promotion to the Confederation Guard. You may add the terms spent in this career as a DM if you attempt to qualify for that career next term and preserve your rank by transferring over to the Guard equivalent. 11 You serve under an Aslan hero of the clan, who likes your attitude. Either gain Tactics (military) or DM+4 to your next advancement roll thanks to their aid. 12 Your ceaseless high performance comes to the attention of the upper echelons. You are either promoted or automatically commissioned to officer rank.
+2D EVENT 2 Disaster! Roll on the Mishap table but you are not ejected from this career. 3 Your unit is temporarily assigned to an Imperium peace keeping force that sees conflict. Roll Recon or Gun Combat 8+ to avoid being injured and gain one level of Heavy Weapons, Leadership, Medic or Stealth. 4 You are assigned garrison duty on an isolated Confederation outpost. Gain a Contact there or one level of Electronics (comms), Mechanic or Streetwise. 5 You are involved in a skirmish when a pirate ship misjumps and mistakenly raids your world. Gain one level of Gun Combat, Melee, Recon or Survival, then roll that skill. If you get 8+, your unit was victorious, granting DM+2 to your next advancement roll. 6 You are given advanced training in a specialist skill. Roll EDU 8+ to gain any one skill available to your career. 7 Life Event. Roll on the Life Event table. 8 You are sent to Cunnonic to help the Aslan garrison cull the hostile life forms. Increase a skill of your choice by one level but lose INT -1 from the repeated nightmares you have suffered since. 9 A mission goes disastrously wrong due to your commander's error or incompetence but you survive. If you report your commanding officer for their failure, gain DM+2 to your next advancement roll and gain them as an Enemy. If you say nothing and protect them, you gain them as an Ally. 10 You are considered for promotion to the Confederation Guard. You may add the terms spent in this career as a DM if you attempt to qualify for that career next term and preserve your rank by transferring over to the Guard equivalent. 11 You serve under an Aslan hero of the clan, who likes your attitude. Either gain Tactics (military) or DM+4 to your next advancement roll thanks to their aid. 12 Your ceaseless high performance comes to the attention of the upper echelons. You are either promoted or automatically commissioned to officer rank.
 
 6
 
@@ -1750,7 +1750,7 @@ DM-1 for every previous career Commission: INT 8+
 ### ASSIGNMENTS
 
 Choose one of the following:
-Bridge: You are part of the bridge crew who control the ship and coordinate its different functions during battle. Engineering: You are the mechanics, engineers and repair crews who ensure the ship remains functional both in and out of battle. Marine: You are part of the ship’s troops who repel borders or are sent to pacify resistance on crippled enemy vessels.
+Bridge: You are part of the bridge crew who control the ship and coordinate its different functions during battle. Engineering: You are the mechanics, engineers and repair crews who ensure the ship remains functional both in and out of battle. Marine: You are part of the ship's troops who repel borders or are sent to pacify resistance on crippled enemy vessels.
 
 Skills and training
 
@@ -1866,7 +1866,7 @@ RANK RESEARCHER/ TECHNICIAN SKILL OR BONUS 0 Aid Science (computers) 1 1 Scholar
 3 Doctor Admin 1 4 — —
 5 Specialist SOC +1 6 — —
 
-2D EVENT 2 Disaster! Roll on the Mishap table but you are not ejected from this career. 3 You decide to take a sabbatical from study, to recharge your flagging mind. Gain one of Carouse 1, Streetwise, 1, Survival 1 or a Contact. 4 You are assigned to work on weapons technology for the Confederation. Gain one of Engineer 1, Gun Combat 1, Gunner 1 or Science (astronomy, cosmology or planetology) 1. 5 You work closely with a scientist from another species. Gain a Contact. 6 The university head or department decides you should be given advanced training in a specialist field. Roll EDU 8+ to gain any skill. 7 Life Event; Roll on the Life Event table. 8 You teach young students at your university or local school. Gain Admin 1, Persuade 1, Science 1 or a Contact. 9 A researcher working for another university is close to making a breakthrough you covet. You can try to complete your research first, attempt to sabotage their work or do nothing. If you try to complete your work first, roll Science 10+. Fail and you lose any Benefit rolls from this term. Succeed and you gain a DM+2 to your next advancement roll and gain the researcher as a Rival. If you try to sabotage their work, roll Stealth or Deception 8+. Fail and you lose SOC -2. Succeed and you gain DM+2 to your next advancement roll, in addition to gaining the researcher as your Enemy. If you roll a 2, you must take the Wanderer (exile) career in your next term. 10 You obtain a rare pre-Maghiz artefact to study. Roll Science 8+. If you succeed, you uncover the artefact’s secrets and the Special Arm arrives to remove the object and offer you a job, allowing you to transfer to the Special Arm (scientist) career with equivalent rank next term. If you fail, the agents still turn up but simply take the artefact and disappear. Your protests avail you nothing. 11 You are invited to study at one of the great universities or research facilities on Daryen. With the research facilities available, you may either gain a level of Science or DM+4 to your next advancement roll. 12 You make a scientific breakthrough. In addition to being automatically promoted, your best Science, Engineer or Medic skill improves by one level.
+2D EVENT 2 Disaster! Roll on the Mishap table but you are not ejected from this career. 3 You decide to take a sabbatical from study, to recharge your flagging mind. Gain one of Carouse 1, Streetwise, 1, Survival 1 or a Contact. 4 You are assigned to work on weapons technology for the Confederation. Gain one of Engineer 1, Gun Combat 1, Gunner 1 or Science (astronomy, cosmology or planetology) 1. 5 You work closely with a scientist from another species. Gain a Contact. 6 The university head or department decides you should be given advanced training in a specialist field. Roll EDU 8+ to gain any skill. 7 Life Event; Roll on the Life Event table. 8 You teach young students at your university or local school. Gain Admin 1, Persuade 1, Science 1 or a Contact. 9 A researcher working for another university is close to making a breakthrough you covet. You can try to complete your research first, attempt to sabotage their work or do nothing. If you try to complete your work first, roll Science 10+. Fail and you lose any Benefit rolls from this term. Succeed and you gain a DM+2 to your next advancement roll and gain the researcher as a Rival. If you try to sabotage their work, roll Stealth or Deception 8+. Fail and you lose SOC -2. Succeed and you gain DM+2 to your next advancement roll, in addition to gaining the researcher as your Enemy. If you roll a 2, you must take the Wanderer (exile) career in your next term. 10 You obtain a rare pre-Maghiz artefact to study. Roll Science 8+. If you succeed, you uncover the artefact's secrets and the Special Arm arrives to remove the object and offer you a job, allowing you to transfer to the Special Arm (scientist) career with equivalent rank next term. If you fail, the agents still turn up but simply take the artefact and disappear. Your protests avail you nothing. 11 You are invited to study at one of the great universities or research facilities on Daryen. With the research facilities available, you may either gain a level of Science or DM+4 to your next advancement roll. 12 You make a scientific breakthrough. In addition to being automatically promoted, your best Science, Engineer or Medic skill improves by one level.
 
 ###### Special Arm
 
@@ -1951,7 +1951,7 @@ Events
 
 2D EVENT
 2 Disaster! Roll on the Mishap table but you are not ejected from this career. 
-3 A misjump leaves you stranded in hostile foreign space. When ‘rescued’ you are forced to escape before your identity is discovered. Gain Deception 1, Pilot 1 or Stealth 1. 
+3 A misjump leaves you stranded in hostile foreign space. When 'rescued' you are forced to escape before your identity is discovered. Gain Deception 1, Pilot 1 or Stealth 1. 
 4 You must discipline a disobedient junior officer. Roll Leadership or Melee 8+. If you succeed, gain them as an Ally. If you fail, lose SOC -1 and they become a Rival. 
 5 You are caught by your superiors doing private research into restricted files. You are forced to quickly bury your stolen data in a computer system – roll Electronics (computers) 8+. If you succeed, you have hidden the information so you may recover it properly, using the information to gain DM+2 on your next advancement roll. If you fail, the data is found and you are retired unless you lie your way out of the situation with a Deception or Persuade 8+ roll. If you roll a 2, you must take the Wanderer (exile) career in your next term. 
 6 Your senior officer or department head wishes to fast track your development. You are given advanced training in a specialist field. Roll EDU 8+ to increase any one skill for your career. 
@@ -1997,7 +1997,7 @@ Industrial END 7+ EDU 5+
 
 1D CASH BENEFITS 1 Cr1000 EDU +1 2 Cr5000 INT +1 3 Cr10000 Ally 4 Cr20000 Vehicle 5 Cr30000 Passage to anywhere in the Confederation 6 Cr50000 Passage to anywhere in a neighboring sector 7 Cr80000 Ship Share 8 Cr100000 Two Ship Shares
 
-1D MISHAP 1 Injured. Roll on the Injury table. 2 A family member or lover is killed in an accident. You fall apart and begin to act strangely. 3 A shift in office politics ruins your career. Lose SOC -1. 4 Excess stress takes its toll. Lose END -1. 5 You are framed by a rival and although later proven innocent, the disgrace had already ended your career. Gain a Rival. 6 Your company’s fortunes decline. You may continue in this career if you wish but will gain no Benefit rolls this term or next.
+1D MISHAP 1 Injured. Roll on the Injury table. 2 A family member or lover is killed in an accident. You fall apart and begin to act strangely. 3 A shift in office politics ruins your career. Lose SOC -1. 4 Excess stress takes its toll. Lose END -1. 5 You are framed by a rival and although later proven innocent, the disgrace had already ended your career. Gain a Rival. 6 Your company's fortunes decline. You may continue in this career if you wish but will gain no Benefit rolls this term or next.
 
 The backbone of the Confederation, building and working in the bureaucracies and infrastructures that run worlds.
 
@@ -2060,13 +2060,13 @@ RANK SKILL OR BONUS 0 —
 Individuals in this career wander from place-to-place and job-
 to-job, never quite putting down roots anywhere.
 
-Qualification: Automatic for Drifter and Nomad. One does not ‘qualify’ for Exile; you got exiled as a sentence for a crime you may or may not have committed. Travellers entering the Exile assignment lose SOC -2.
+Qualification: Automatic for Drifter and Nomad. One does not 'qualify' for Exile; you got exiled as a sentence for a crime you may or may not have committed. Travellers entering the Exile assignment lose SOC -2.
 
 ### LEAVING THE EXILE ASSIGNMENT A
 
-Traveller may not normally leave or be ejected from the Exile assignment – not even Mishaps will force them to leave. Instead, they have a value called a Parole Threshold. At the end of each term in the Exile assignment, if the Traveller’s advancement roll is greater than their Parole Threshold, it means their Exile has come to an end and they may leave this career to return to normal Darrian society. Otherwise, they may not leave this career and must either continue in it for another term, take a career in another area of space (such as the Imperium) or muster out and begin adventuring.
+Traveller may not normally leave or be ejected from the Exile assignment – not even Mishaps will force them to leave. Instead, they have a value called a Parole Threshold. At the end of each term in the Exile assignment, if the Traveller's advancement roll is greater than their Parole Threshold, it means their Exile has come to an end and they may leave this career to return to normal Darrian society. Otherwise, they may not leave this career and must either continue in it for another term, take a career in another area of space (such as the Imperium) or muster out and begin adventuring.
 
-A Traveller’s Parole Threshold starts at 1D+4. A Traveller’s Parole Threshold can never go above 12. For each term a Traveller spends as an Exile, their Parole Threshold is reduced by -1.
+A Traveller's Parole Threshold starts at 1D+4. A Traveller's Parole Threshold can never go above 12. For each term a Traveller spends as an Exile, their Parole Threshold is reduced by -1.
 
 ### ASSIGNMENTS
 
@@ -2104,19 +2104,19 @@ All Darrian equipment is built to last, partly due to the severe lessons learned
 
 This cultural bias has a significant effect on Darrian economics. The base cost of any device is extremely high when compared to its Imperium counterpart - often 150% to 200% more – with further income generated from servicing and repairs. However, the lifespan of a device is decades rather than a handful of years for Imperium equivalents. When viewed over time, Darrian goods are actually cheaper. Confederation exports, however, struggle to find a market in the rapid turnover, materialistic markets outside its own borders, save in the province of military or high-quality luxury items.
 
-Since most Darrian goods have been extrapolated to the maximum possible utility of their Tech Level, there is little scope for ‘improved’ versions or new functionality. Instead, Darrians venerate age in their devices. The older an operable piece of equipment is, the more aesthetically valuable it becomes.
+Since most Darrian goods have been extrapolated to the maximum possible utility of their Tech Level, there is little scope for 'improved' versions or new functionality. Instead, Darrians venerate age in their devices. The older an operable piece of equipment is, the more aesthetically valuable it becomes.
 
 In the event that a new technological advancement is made, a plethora of new designs appear, taking advantage of the performance increase. For many products, however, there is little that science can do to better the basic purpose.
 
-Equipment in this chapter with a cost listed as ‘not available’ cannot be found on the open market but may be available on the black market.
+Equipment in this chapter with a cost listed as 'not available' cannot be found on the open market but may be available on the black market.
 
 ### PERSONAL PROTECTION
 
-Armor is rarely seen on most Darrian worlds, its use generally reserved for militia or special armed police units. Most Darrians prefer the freedom to move quickly and with stealth, using natural cover. However, battlefield conditions often leave little option since secondary effects of some weapons require a sealed suit for protection. Of course, the Confederation manufactures their own high end combat armor and battle dress, rivalling the Imperium’s own but incorporating slightly different tactical specifications.
+Armor is rarely seen on most Darrian worlds, its use generally reserved for militia or special armed police units. Most Darrians prefer the freedom to move quickly and with stealth, using natural cover. However, battlefield conditions often leave little option since secondary effects of some weapons require a sealed suit for protection. Of course, the Confederation manufactures their own high end combat armor and battle dress, rivalling the Imperium's own but incorporating slightly different tactical specifications.
 
 Civilian armor is sometimes used in hostile roles, such as vacuum mining, or with exoskeletal support when Darrians visit worlds of uncomfortably high gravity.
 
-Gel Suit: Primarily used for recreation such as vehicle racing or contact sports, the gel suit is a skin tight body glove, similar to a wetsuit. It comprises a reactive gel sandwiched between two layers of ballistic cloth. Violent impacts cause the gel to solidify, distributing the force of the blow across a wider surface. Although the suit permits full mobility, it momentarily hardens when blocking damage, reducing the wearer’s initiative by -1 for each attack it blocks in a round. The cost includes separate gloves and hood.
+Gel Suit: Primarily used for recreation such as vehicle racing or contact sports, the gel suit is a skin tight body glove, similar to a wetsuit. It comprises a reactive gel sandwiched between two layers of ballistic cloth. Violent impacts cause the gel to solidify, distributing the force of the blow across a wider surface. Although the suit permits full mobility, it momentarily hardens when blocking damage, reducing the wearer's initiative by -1 for each attack it blocks in a round. The cost includes separate gloves and hood.
 
 Guard Armor: Issued to infantry forces of Darrian worlds, guard armor is designed for direct conflict but still versatile enough for guerrilla tactics. A combat armor equivalent, guard armor acts as a normal vacc suit against pressure and radiation but carries an improved camouflage system, using an advanced bio-engineered molecular surface, which mimics its surroundings. Attempts to detect the wearer suffer DM-4 to Recon checks in both the visible and infrared spectrum. The entire suit is powered by bio-
 mechanical motion, such as breathing or walking, to prevent extraneous electrical signals. Although the armor is stripped of electronic components, it remains expensive due to the unique hydraulic and biochemical technologies used in its construction.
@@ -2182,7 +2182,7 @@ Anti-Armor: Heavy support uses the FGMP (TL15) with similar internal firing mech
 
 Item TL Kg Cost Anti-Armor Module 15 15 Not Available
 
-Anti-Personnel: The standard weapons unit is a VRF gauss rifle with backpack mounted ammunition storage, carrying the equivalent of 20 magazines. Due to the mitten-like armor of Darrian battle dress gauntlets, the gun has no external firing mechanism, relying instead on the suit’s internal finger sensors as triggers or the onboard computer to fire.
+Anti-Personnel: The standard weapons unit is a VRF gauss rifle with backpack mounted ammunition storage, carrying the equivalent of 20 magazines. Due to the mitten-like armor of Darrian battle dress gauntlets, the gun has no external firing mechanism, relying instead on the suit's internal finger sensors as triggers or the onboard computer to fire.
 
 Ite m TL Kg Cost Anti-Personnel Module 15 15 Not Available
 
@@ -2205,7 +2205,7 @@ TL Electronics Suites 15 Advanced Holographic Camera, Atmosphere Tester, Compute
 16 Advanced Holographic Camera, Atmosphere Tester, Bioscanner, Computer/8, Eye Protection, Geiger Counter, Improved Neural Activity Detector, IR Goggles, Light Intensifier Goggles, Motion Sensor, NBC Combination Analysis Unit, PRIS Binoculars, Radio Transceiver
 (10,000km range), Scope, Surveillance Radar (10km range)
 
-Air Suppression: An air defence module containing an advanced anti-missile laser system, which is tied into the suit’s sensor system for target identification. This allows the Traveller to ignore all negative DMs incurred for attacking a fast moving target. The module is also equipped with a rocket pod or heavy rocket pod (see page 133 of the Central Supply Catalogue ).
+Air Suppression: An air defence module containing an advanced anti-missile laser system, which is tied into the suit's sensor system for target identification. This allows the Traveller to ignore all negative DMs incurred for attacking a fast moving target. The module is also equipped with a rocket pod or heavy rocket pod (see page 133 of the Central Supply Catalogue ).
 
 Item TL Kg Cost Air Suppression Module 15 15 Not Available
 
@@ -2221,7 +2221,7 @@ Powered by synthetic electro-contracting muscles, the exoskeleton removes skill 
 
 Item TL Kg Cost Exoskeleton 10 10 Cr10000
 
-**Pressure Respirator:** A respirator that allows the wearer to breathe on worlds with atmospheric pressures higher than their own. Most models come as a full-face mask connected to a large belt mounted pump, which lowers internal pressure and makes gas mixture changes required to keep the wearer comfortable. At TL9 the mask is resized to cover just the nose and mouth, with the pumping device minimised to the size of half a pack of cards. At TL11 the micro pumps and exhausts can be woven into a fine mesh net, either incorporated subtly into clothing or worn next to the skull – the air flow used to waft the wearer’s hair in interesting patterns.
+**Pressure Respirator:** A respirator that allows the wearer to breathe on worlds with atmospheric pressures higher than their own. Most models come as a full-face mask connected to a large belt mounted pump, which lowers internal pressure and makes gas mixture changes required to keep the wearer comfortable. At TL9 the mask is resized to cover just the nose and mouth, with the pumping device minimised to the size of half a pack of cards. At TL11 the micro pumps and exhausts can be woven into a fine mesh net, either incorporated subtly into clothing or worn next to the skull – the air flow used to waft the wearer's hair in interesting patterns.
 
 Item TL Kg Cost Pressure Respirator 8 10 Cr2000 Pressure Respirator 9 5 Cr1500 Pressure Respirator 11 — Cr800
 
@@ -2250,7 +2250,7 @@ Item TL Kg Cost Motion Sensor 7 1 Cr1000 Motion Sensor 9 1 Cr2000
 ### NBC
 
 Combination Analysis Unit: A personal alarm that automatically monitors for radiation, biological and chemical threats, and gives both an alarm and an indication of severity (mild-moderate-high-severe-
-extreme). The standard model does not indicate the specific threat but will inform the user if the hazard is radiation, biological or chemical. The advanced model will indicate the specific threat if known to the unit’s database.
+extreme). The standard model does not indicate the specific threat but will inform the user if the hazard is radiation, biological or chemical. The advanced model will indicate the specific threat if known to the unit's database.
 
 Ite m TL Kg Cost NBC Combination Analysis Unit 7 1 Cr500 Advanced NBC Combination Analysis Unit
 
@@ -2295,7 +2295,7 @@ CSC: Darrian
 
 ### MEDICAL SUPPLIES
 
-The majority of Darrian drugs are grown directly from small herbs and bushes. A few plants containing mild pain killers and antacids are freely available for purchase, with detailed consumption guidelines. More dangerous drugs are strictly controlled, requiring specialized soil additives, specific light wavelengths or for the plant to be tailored to the patient’s genetic profile. Darrian apothecaries usually comprise a small arboretum tended by botanical pharmacologists.
+The majority of Darrian drugs are grown directly from small herbs and bushes. A few plants containing mild pain killers and antacids are freely available for purchase, with detailed consumption guidelines. More dangerous drugs are strictly controlled, requiring specialized soil additives, specific light wavelengths or for the plant to be tailored to the patient's genetic profile. Darrian apothecaries usually comprise a small arboretum tended by botanical pharmacologists.
 
 Medicines are sold in a variety of forms:
 •  Leaves, applied to an area to naturally defuse medications into the skin.
@@ -2306,7 +2306,7 @@ Medicines are sold in a variety of forms:
 
 All drugs in the _Traveller Core Rulebook_ and _Central Supply Catalogue_ up to TL14 are available in Darrian space at the listed price. Unless specifically loaded into a device for automated delivery, all medical supplies come in the form of plant material. Anagathics are not available at all off the shelf but can be specially imported.
 
-**Lizard Juice:** Only a few intact ampoules of lizard juice have been discovered in pre-Maghiz Darrian research bases and were rapidly confiscated by the Special Arm for analysis. Consumed by an injured individual, the silvery liquid heals all damage at the rate of END DM+1 per hour. Moreover, the elixir remains in the patient’s body, continuing to heal wounds for years after being taken. It can even regenerate missing non-vital organs at a rate of one kilogram of tissue per day.
+**Lizard Juice:** Only a few intact ampoules of lizard juice have been discovered in pre-Maghiz Darrian research bases and were rapidly confiscated by the Special Arm for analysis. Consumed by an injured individual, the silvery liquid heals all damage at the rate of END DM+1 per hour. Moreover, the elixir remains in the patient's body, continuing to heal wounds for years after being taken. It can even regenerate missing non-vital organs at a rate of one kilogram of tissue per day.
 
 Such wondrous effects come at a significant cost. The nutritional requirements of the imbiber increase dramatically when injured, inflicting an unceasing hunger. Amputations are particularly dangerous, since a patient who is not conscious can starve to death during the regrowing process as their body is cannibalised for energy and building material. Any ampoule of Lizard juice is effectively priceless but brings the attention of the Special Arm upon anyone rumored to possess or, worse still, have consumed it.
 
@@ -2486,7 +2486,7 @@ In similar fashion, all electronics, communications and computers are hardened, 
 
 ### COMPUTER INTERFACES
 
-Darrian shipboard computers are all capable of verbal communication in te-zlodh , Trokh and Galanglic. Passenger entertainment suites are a separate computer system with no physical connection to the vessel’s engineering, life support or flight computers. The communication and sensor computers are only accessible from the bridge or flight deck.
+Darrian shipboard computers are all capable of verbal communication in te-zlodh , Trokh and Galanglic. Passenger entertainment suites are a separate computer system with no physical connection to the vessel's engineering, life support or flight computers. The communication and sensor computers are only accessible from the bridge or flight deck.
 
 ### STATEROOMS
 
@@ -2646,13 +2646,13 @@ Bridge 10 1 Computer Computer/10fib — 0.24 Sensors Military 2 4.1 Armored Bulk
 
 Bridge 1 0.2
 
-Systems Docking Space (30 tons) 33 8.25 Ship’s Boat — 7.272 Repair Drones 8 1.6 Fuel Processor (20 tons/day) 1 0.05 Fuel Scoops — —
+Systems Docking Space (30 tons) 33 8.25 Ship's Boat — 7.272 Repair Drones 8 1.6 Fuel Processor (20 tons/day) 1 0.05 Fuel Scoops — —
 Medical Bays x2 8 4 Staterooms Standard x6 24 3 Acceleration Benches x12 12 0.12 Low Berths x20 10 1 Common Areas 6 0.6 Software Auto-repair/1 — 5 Intellect — —
 Library — —
 Jump Control/1 — 0.1 Maneuver/0 — —
 Cargo 12 —
 
-Rapid response ships possess very fast maneuver drives. Onboard are emergency teams capable of compartmentalising damaged sections of a ship, extracting trapped passengers and providing top quality medical care. Each ship has two fully equipped surgical bays. Also carried is a ship’s boat, which fits in the Yehng’s spine for remote offloading of injured survivors. Four oversized repair drones are also standard equipment, able to patch damage
+Rapid response ships possess very fast maneuver drives. Onboard are emergency teams capable of compartmentalising damaged sections of a ship, extracting trapped passengers and providing top quality medical care. Each ship has two fully equipped surgical bays. Also carried is a ship's boat, which fits in the Yehng's spine for remote offloading of injured survivors. Four oversized repair drones are also standard equipment, able to patch damage
 
 on vessels up to 800 tons. The ample cargo bay is normally packed with rescue equipment ranging from portable airlocks and thruster packs, to cutting torches and fire extinguishers. Anything an emergency crew could possibly need is included, be it hand tools, reinforcing girders, arc lights, rope, demolition explosives, rescue bubbles, NAS scanners or the eternally useful duct tape.
 
@@ -2898,7 +2898,7 @@ DECK 2
 
 # THE GEONEE
 
-The Geonee are a curious race whose belief that they are the descendants of the Ancients has influenced every decision they have ever made. When first encountered, the Geonee’s possession of the jump drive shook the proud Vilani to the core. Their claims of being the Ancients’ descendants and discovery of jump technology marked them as a Major Race, and one which could shape the face of interstellar politics.
+The Geonee are a curious race whose belief that they are the descendants of the Ancients has influenced every decision they have ever made. When first encountered, the Geonee's possession of the jump drive shook the proud Vilani to the core. Their claims of being the Ancients' descendants and discovery of jump technology marked them as a Major Race, and one which could shape the face of interstellar politics.
 
 All that changed when it was discovered the Geonee had copied their jump technology from a derelict Ancients vessel. The loss of status as a Major Race was a blow to the collective Geonee psyche from which they have never recovered. The Geonee reject the Minor Race label, adamant they had only reclaimed technology they had lost, but their objections have fallen upon deaf ears.
 
@@ -2914,13 +2914,13 @@ Skin tones range from fair to light brown, and they tan or burn when exposed to 
 
 Geonee have slightly shorter arms and legs than Terran humans, and their heads are slightly larger. These larger heads have led to increased difficulty in childbirth, meaning a greater number of birthing fatalities.
 
-Geonee have a greater percentage of muscle tissue than other humans, making them exceptionally strong on worlds with lower gravity than that of their homeworld. They store very little subcutaneous fat and are therefore more susceptible to cold environments, though they store visceral fat as effectively as other humans. This leads to Geonee having a very ‘muscular’ appearance.
+Geonee have a greater percentage of muscle tissue than other humans, making them exceptionally strong on worlds with lower gravity than that of their homeworld. They store very little subcutaneous fat and are therefore more susceptible to cold environments, though they store visceral fat as effectively as other humans. This leads to Geonee having a very 'muscular' appearance.
 
 Internal differences in the Geonee are minor, but noticeable under inspection. Their hearts are proportionally larger than those of other humans, resisting high gravity and providing an adequate blood supply to the brain. Pulse rate is low, ranging from 40-60 beats per minute in healthy adults. While their hearts beat more slowly than those of other humans, a greater volume of blood is pumped with each heartbeat. Geonee also have a larger volume of blood in their bodies – approximately 40% to 60% greater than other humans – leading to significantly higher blood pressure.
 
 The valves in Geonee veins are stronger than those of other humans, assisting in the prevention of blood pooling. Furthermore, muscle fibres surrounding veins constrict autonomously, further assisting in returning blood to the heart.
 
-The diaphragm is somewhat weaker in Geonee, as less effort is required to draw in the dense atmosphere on Shiwonee. This makes them susceptible to ‘altitude sickness’ when exposed to less dense atmospheres which other human species might find comfortable. Despite this disadvantage, Geonee are able to adapt faster to most new environments.
+The diaphragm is somewhat weaker in Geonee, as less effort is required to draw in the dense atmosphere on Shiwonee. This makes them susceptible to 'altitude sickness' when exposed to less dense atmospheres which other human species might find comfortable. Despite this disadvantage, Geonee are able to adapt faster to most new environments.
 
 Geonee possess an internal skeletal structure that has evolved to be naturally denser and stronger compared to those of other humans. A dense bone structure makes them less susceptible to fractures and breaks on worlds with gravity lower than their homeworld. Breaks on worlds with similar gravity to their homeworld are statistically similar to those of humans from other gravities. Geonee joints are protected by significantly thicker cartilage, leading them to remain limber in their home gravity far longer than other humans. Likewise, their ligaments are also significantly thicker to prevent excessive wear and tear in high gravity.
 
@@ -2950,7 +2950,7 @@ While there is considerable cultural diversity among the Geonee, there are a num
 
 The Geonee are naturally a conservative people, finding great comfort in traditions passed down from antiquity and still practiced in the modern day. Tradition covers almost every aspect of Geonee life, and those who stray from conservative values are viewed in a suspicious light.
 
-The tradition of conservativism can be traced to the harsh environment of Shiwonee, forcing the Geonee to adopt behaviours that maximised chances of survival, and deviation from those behaviours could prove detrimental to both individual and society. This has led to traditions being seen as the ‘right’ way to do things and going against tradition the ‘wrong’ way, reckless and foolhardy.
+The tradition of conservativism can be traced to the harsh environment of Shiwonee, forcing the Geonee to adopt behaviours that maximised chances of survival, and deviation from those behaviours could prove detrimental to both individual and society. This has led to traditions being seen as the 'right' way to do things and going against tradition the 'wrong' way, reckless and foolhardy.
 
 This sense of conservatism should not be confused with lack of ambition or innovation. The Geonee value both highly, but they must be bound by tradition and the right way of doing things.
 
@@ -2959,22 +2959,22 @@ This sense of conservatism should not be confused with lack of ambition or innov
 Nothing shows this conservative nature better than the strictly patriarchal society exhibited on most Geonee worlds. In traditional Geonee society, only males may own property, conduct business, or enter politics;
 females have almost no rights. Every female must be under the protection of a male relative. In extreme cases, this protection extends to keeping females under lock and key, but this exclusion is more common on Shiwonee than other Geonee worlds where necessity often overcomes traditional values.
 
-When not in the protective enclosure of the home, female Geonee are expected to be accompanied by a male relative, who serves to protect her both physically and morally. Women are forbidden to interact with unrelated men unless permission is first sought by the male from the woman’s guardian. If permission is granted, it is expected that the male guardian remains present at all times to act as chaperone. Traditionally, an unrelated male will only interact with a woman through her guardian.
+When not in the protective enclosure of the home, female Geonee are expected to be accompanied by a male relative, who serves to protect her both physically and morally. Women are forbidden to interact with unrelated men unless permission is first sought by the male from the woman's guardian. If permission is granted, it is expected that the male guardian remains present at all times to act as chaperone. Traditionally, an unrelated male will only interact with a woman through her guardian.
 
-Every aspect of a woman’s life is governed by her male protector, giving them little power in Geonee society except within the home. Women control all aspects of running a household, from controlling finances to making decisions that affect the household as a whole. They are provided the same educational opportunities as males, albeit normally via a combination of home-based and virtual learning. A well-educated woman is a great asset to her family, able to exert significant influence over male relatives to the point of controlling businesses or having political impact through advice and manipulation.
+Every aspect of a woman's life is governed by her male protector, giving them little power in Geonee society except within the home. Women control all aspects of running a household, from controlling finances to making decisions that affect the household as a whole. They are provided the same educational opportunities as males, albeit normally via a combination of home-based and virtual learning. A well-educated woman is a great asset to her family, able to exert significant influence over male relatives to the point of controlling businesses or having political impact through advice and manipulation.
 
-CHIRPERS A subspecies of Chirper is native to Shiwonee, sharing an almost symbiotic relationship with the Geonee. Called selweeda or ‘matchmaker’ in native Geonee, these Chirpers have been integrated into every aspect of society and taken to every Geonee-
+CHIRPERS A subspecies of Chirper is native to Shiwonee, sharing an almost symbiotic relationship with the Geonee. Called selweeda or 'matchmaker' in native Geonee, these Chirpers have been integrated into every aspect of society and taken to every Geonee-
 settled world. They are seen as something between pet and friend, and play an important role in Geonee marriage tradition.
 
 When a Geonee male feels he is ready to marry, he must attract and befriend a Chirper, which then becomes a symbol of the marriage. Chirpers are by nature very shy, and have the psionic ability to become invisible in the minds of others in order to avoid being seen. Establishing a lasting relationship with a Chirper is therefore a considerable challenge.
 
-To prepare for marriage, a Geonee male will build a small dwelling on his property suitable for a Chirper, and begin leaving fresh food, water, and whatever he thinks might attract a selweeda. By diligently caring for this abode, a Chirper may begin using the dwelling as a home. After much anxious waiting, and when the Chirper feels safe and comfortable with its Geonee benefactor, it may choose to reveal itself. After a few months the selweeda may be happy enough in its new home that the Geonee can perform a special ceremony known as a krandee, or ‘calling out’. In this ceremony, the Geonee must convince the Chirper to reveal itself for a few seconds to its benefactor’s closest relatives. Only after the selweeda has been seen by the Geonee’s male relatives – his father, uncles, and brothers, can he then marry.
+To prepare for marriage, a Geonee male will build a small dwelling on his property suitable for a Chirper, and begin leaving fresh food, water, and whatever he thinks might attract a selweeda. By diligently caring for this abode, a Chirper may begin using the dwelling as a home. After much anxious waiting, and when the Chirper feels safe and comfortable with its Geonee benefactor, it may choose to reveal itself. After a few months the selweeda may be happy enough in its new home that the Geonee can perform a special ceremony known as a krandee, or 'calling out'. In this ceremony, the Geonee must convince the Chirper to reveal itself for a few seconds to its benefactor's closest relatives. Only after the selweeda has been seen by the Geonee's male relatives – his father, uncles, and brothers, can he then marry.
 
 Logically, the selweeda could be seen at night while it was sleeping, as its natural ability to become invisible is not active, but this goes against Geonee tradition.
 
 ### SELWEEDA
 
-The Chirpers on Geonee worlds belong to a distinct subspecies, which differ from those encountered elsewhere in Charted Space. They have unusually low intelligence, putting them on the boundary of dull sophonts and bright animals, are stronger than other Chirpers and have larger wingspans that allow them to fly in Shiwonee’s dense atmosphere despite its high gravity.
+The Chirpers on Geonee worlds belong to a distinct subspecies, which differ from those encountered elsewhere in Charted Space. They have unusually low intelligence, putting them on the boundary of dull sophonts and bright animals, are stronger than other Chirpers and have larger wingspans that allow them to fly in Shiwonee's dense atmosphere despite its high gravity.
 
 Like other Chirpers, they possess limited psionic capabilities, especially the ability to become invisible to other beings when feeling endangered.
 
@@ -2985,18 +2985,18 @@ Skills Athletics (dexterity) 1, Flight 1, Melee 0, Recon 2, Stealth 3, Survival 
 Traits Flyer (very slow), Psionic (6), Small (-1)
 Behaviour Gatherer, Omnivore
 
-After the krandee, the Geonee male and his male relatives are permitted to approach the male relatives of the woman he would like to marry, and make his intentions known. The decision to allow the woman to marry is based on many things, not least of which is his social position, ability to care for her, provide shelter, and career potential. If the head of the woman’s household agrees to the union, an appropriate dowry is arranged, and the woman’s male relatives are taken to the selweeda to witness the krandee. If all goes well, the dowry and woman are exchanged and the marriage sealed.
+After the krandee, the Geonee male and his male relatives are permitted to approach the male relatives of the woman he would like to marry, and make his intentions known. The decision to allow the woman to marry is based on many things, not least of which is his social position, ability to care for her, provide shelter, and career potential. If the head of the woman's household agrees to the union, an appropriate dowry is arranged, and the woman's male relatives are taken to the selweeda to witness the krandee. If all goes well, the dowry and woman are exchanged and the marriage sealed.
 
-The Chirper’s trust is seen as a crucial symbol of the marriage bond. Indeed, if the husband ever loses his Chirper’s confidence to the point that it leaves him, the marriage is instantly dissolved. It makes no difference if the marriage is brand new or well established, if there are children or not, or whether the couple are themselves happy with the marriage. According to Geonee tradition, it is the presence of the selweeda which determines the validity of the marriage. In fact, the absence of the selweeda is the only way, other than death of a spouse, to dissolve a marriage.
+The Chirper's trust is seen as a crucial symbol of the marriage bond. Indeed, if the husband ever loses his Chirper's confidence to the point that it leaves him, the marriage is instantly dissolved. It makes no difference if the marriage is brand new or well established, if there are children or not, or whether the couple are themselves happy with the marriage. According to Geonee tradition, it is the presence of the selweeda which determines the validity of the marriage. In fact, the absence of the selweeda is the only way, other than death of a spouse, to dissolve a marriage.
 
 Of course, the disappearance of the Chirper is seldom noticed by any other than its benefactor, given its ability to become invisible. Regardless, most Geonee take the relationship between selweeda and marriage very seriously. While this makes it easy for a disgruntled husband to divorce his wife (just abuse the Chirper a little), happily married men take extra care in keeping their selweeda satisfied.
 
 For most male Geonee, this is simply a matter of providing good food and a comfortable abode. For those who travel the stars, the only way to guarantee a happy selweeda is to take the Chirper along. A Geonee will never entrust another to care for his selweeda, so the Chirper follows him wherever he travels.
 
 **MARRIAGE BY CAPTURE**
-An unusual custom is the ekrondee, or marriage by capture. Under some circumstances, a female may be abducted or ‘captured’ by a male by forcing a female’s relatives to give her up in marriage. When this is attempted, it usually results in bloody violence, because it assumes the husband-to-be must be desperate, and such a capture brings great shame upon the female’s family, though it does serve to bypass the need to befriend a selweeda as a precursor to marriage. This form of marriage is recognized in Geonee law, but is very different from the standard form; the woman is seen as chattel rather than a full wife.
+An unusual custom is the ekrondee, or marriage by capture. Under some circumstances, a female may be abducted or 'captured' by a male by forcing a female's relatives to give her up in marriage. When this is attempted, it usually results in bloody violence, because it assumes the husband-to-be must be desperate, and such a capture brings great shame upon the female's family, though it does serve to bypass the need to befriend a selweeda as a precursor to marriage. This form of marriage is recognized in Geonee law, but is very different from the standard form; the woman is seen as chattel rather than a full wife.
 
-This marriage can also be achieved when a family voluntarily gives up unmarried females. This can occur when there are no living male relatives, or the family finds it can no longer afford the upkeep of their single women. If there are living male relatives, they will put up a nominal display of protecting the women, as the shame of not being able to afford the upkeep the family’s women is even greater than having them abducted.
+This marriage can also be achieved when a family voluntarily gives up unmarried females. This can occur when there are no living male relatives, or the family finds it can no longer afford the upkeep of their single women. If there are living male relatives, they will put up a nominal display of protecting the women, as the shame of not being able to afford the upkeep the family's women is even greater than having them abducted.
 
 Naturally, the existence of this does nothing to discourage Geonee men from overprotecting their female relatives.
 
@@ -3004,12 +3004,12 @@ Naturally, the existence of this does nothing to discourage Geonee men from over
 
 Geonee families normally consist of a married couple, their adult unmarried daughters, and any children below the age of adulthood. While a male Geonee may only be married to a single woman through krandee, there is no limit to the number of wives obtained via ekrandee. In fact, it is a matter of great pride to be able to afford to upkeep a large number of women, but having more than they are able to afford is a source of great shame. Therefore, a Geonee will undertake some forethought before he undertakes ekrandee.
 
-The head of the family is the eldest married male, responsible for all other family members. The patriarch is the ultimate authority. His position is followed by his unmarried sons, in order of birth, followed by the sons’
+The head of the family is the eldest married male, responsible for all other family members. The patriarch is the ultimate authority. His position is followed by his unmarried sons, in order of birth, followed by the sons'
 mother – if they are from krandee birth – his krandee wife, his ekrandee wives, and finally his daughters. It is unusual for there to be more than one married couple living in same household. Orders and demands of males are to be obeyed, unless countermanded by a male of greater authority.
 
 A couple will normally only have one child, assuming a male child is born. Inheritance is only through male offspring, and having a male heir is of paramount importance to Geonee fathers. Despite this, a family will hesitate to produce more children than they can afford, to prevent the shame of having to give up unmarried woman due to financial hardship.
 
-Offspring produced though ekrandee are viewed slightly differently to those conceived within krandee. Males are seen as legitimate sons, and enjoy treatment equal to any produced in krandee. They are fully entitled to a share of inheritance upon their father’s death, though a son born of krandee marriage will always have seniority, regardless of order of birth, to those of ekrandee.
+Offspring produced though ekrandee are viewed slightly differently to those conceived within krandee. Males are seen as legitimate sons, and enjoy treatment equal to any produced in krandee. They are fully entitled to a share of inheritance upon their father's death, though a son born of krandee marriage will always have seniority, regardless of order of birth, to those of ekrandee.
 
 Females of ekrandee are seen as their mother is seen – little more than chattel. They are effectively illegitimate, and never treated as equal to daughters produced within krandee.
 
@@ -3017,16 +3017,16 @@ In the past, Geonee have been known to practice infanticide of female babies. Th
 
 While the practice of female infanticide is publicly scorned, it still occurs on the core Geonee worlds in rural areas and among fundamentalist traditionalists. The practice causes a great deal of strife because of the sexual imbalances that it creates. Unwed young males often become a source of instability in society, a situation that is exacerbated by the practice of polygamy.
 
-Formal education is required by law, except for illegitimate daughters who are only allowed what education their father deems appropriate. Children begin schooling at the age of five. Boys are normally sent to a boarding institution and only visit the family on holidays. Girls are educated at home, either by their mother, a tutor, or via virtual classes. Education must continue until a child is 18, at which point they are considered adults. Young men are free to continue their education or begin pursuing a career. Young women are no longer required to be educated by law, but many fathers choose to continue their daughters’ education to improve desirability for marriage.
+Formal education is required by law, except for illegitimate daughters who are only allowed what education their father deems appropriate. Children begin schooling at the age of five. Boys are normally sent to a boarding institution and only visit the family on holidays. Girls are educated at home, either by their mother, a tutor, or via virtual classes. Education must continue until a child is 18, at which point they are considered adults. Young men are free to continue their education or begin pursuing a career. Young women are no longer required to be educated by law, but many fathers choose to continue their daughters' education to improve desirability for marriage.
 
-Traditionally, men enter the same occupation as their father, seen as an indication of a son’s respect for his father and continuation of the family heritage. Many occupations have remained within the same families for countless generations, and it is a matter of great pride to be in a trade with a long familial tradition.
+Traditionally, men enter the same occupation as their father, seen as an indication of a son's respect for his father and continuation of the family heritage. Many occupations have remained within the same families for countless generations, and it is a matter of great pride to be in a trade with a long familial tradition.
 
 In traditional Geonee societies, women are not permitted to work outside the home, but it is not unusual for them to practice some sort of craft or industry that brings more income into the family. Some of the finest crafts created by the Geonee are produced by women, who have passed down knowledge from mother to daughter for generations. Traditionally, money produced by these products belongs to the patriarch of the family, but it is not unusual for women to receive an allowance for their efforts.
 
 Males are free to leave home once they have turned 18, but many remain in the family home until they marry. Women are only permitted to leave home once they have been married.
 
 **NOMADISM**
-Shiwonee is not only geologically unstable, but also exhibits several climate peculiarities. In effect, the entire temperate zone moves across the planet’s surface, following a 95-year cycle. All native life has adapted to this cycle by adopting nomadic and migratory patterns, and the Geonee are no exception. Even in eras of high technology, entire Geonee cities move to follow climatic changes.
+Shiwonee is not only geologically unstable, but also exhibits several climate peculiarities. In effect, the entire temperate zone moves across the planet's surface, following a 95-year cycle. All native life has adapted to this cycle by adopting nomadic and migratory patterns, and the Geonee are no exception. Even in eras of high technology, entire Geonee cities move to follow climatic changes.
 
 Nomadism is a key aspect of Geonee culture. In the past, they have preferred to form small communities that can be quickly packed up and moved. In the face of necessity, they swiftly abandon their estates – but not their property rights – and move to find more hospitable locations. This has led to wealthy Geonee owning a large number of traditional properties and estates scattered across the surface of the world, inhabited when the climate was favorable and then abandoned, only to return a century or more later to take up residence once again.
 
@@ -3035,7 +3035,7 @@ Geonee living off their homeworld are similarly rootless. They willingly move fr
 **COMMUNITY**
 The patriarchal mindset of the family is mirrored in the greater Geonee community. The patriarch of an extended family is the oldest male relative directly related to any younger Geonee. Extended families can become quite large, and hence hold significant weight within the community. While a married man is the head of his own household, he will still treat any older married men in his extended family with great respect.
 
-Each family is a member of a nomadic group, expected to follow the traditions of and work towards their group’s success. Each belongs to a nation, each nation a world, and each world to the Geonee Cultural Region. A complex web of community interconnections exists. Each stratum of the community is expected to work for the betterment of the larger whole, and failure to do so is shameful.
+Each family is a member of a nomadic group, expected to follow the traditions of and work towards their group's success. Each belongs to a nation, each nation a world, and each world to the Geonee Cultural Region. A complex web of community interconnections exists. Each stratum of the community is expected to work for the betterment of the larger whole, and failure to do so is shameful.
 
 Regardless of the governmental structure of a Geonee world, there exists a class structure which strongly effects those within. At the top of this are the traditional noble families whose members have access to the best
 
@@ -3071,7 +3071,7 @@ Nearly every facet of society is related to this basic trait, which in turn infl
 
 Pride and self-image are inexorably tied to group membership. Geonee feel a sense of belonging to their race, social class, profession, nomad group, and to any other group they identify with. This pride gives value to individual actions.
 
-In Geonee society, an individual’s position is tied directly to the position of the groups they belong to; an inferior group must be composed of inferior individuals. Thus, every Geonee constantly strives to demonstrate the superiority of their profession, their planet, their race.
+In Geonee society, an individual's position is tied directly to the position of the groups they belong to; an inferior group must be composed of inferior individuals. Thus, every Geonee constantly strives to demonstrate the superiority of their profession, their planet, their race.
 
 ### PSIONIC TOLERANCE
 
@@ -3081,9 +3081,9 @@ This attitude caused significant friction between the Geonee and the Imperium du
 
 When evidence of Zhodani funding psionic institutes was made public, a panic swept over the Imperium. Psionic witch hunts were reported on hundreds of worlds, and public opinion of psionically talented individuals soured. The Geonee core worlds could not turn a blind eye this change.
 
-The Meeralo Council made a public show of closing down Geonee psionic institutes and sent all psionically talented individuals to internment camps, strongly advising all other Geonee core worlds do the same. Naturally, this caused an uproar among the population, just as the Council knew it would. The public on all core worlds rallied in mass protests against the treatment of the psionically gifted. The Meeralo Council mobilised the army to contain the protests and military action provoked riots among the protesters, which caused the Council to respond with issuing martial law to contain the violence. From the outside, it appeared the Geonee were acting in good faith to put an end to the ‘psionic scourge’.
+The Meeralo Council made a public show of closing down Geonee psionic institutes and sent all psionically talented individuals to internment camps, strongly advising all other Geonee core worlds do the same. Naturally, this caused an uproar among the population, just as the Council knew it would. The public on all core worlds rallied in mass protests against the treatment of the psionically gifted. The Meeralo Council mobilised the army to contain the protests and military action provoked riots among the protesters, which caused the Council to respond with issuing martial law to contain the violence. From the outside, it appeared the Geonee were acting in good faith to put an end to the 'psionic scourge'.
 
-Behind the scenes though, the Meeralo Council used the unrest to remove psionic institutes from public view and into clandestine operation. Secretly, word was sent out to far flung colonies that safety from the psionic persecutions could be found in the Geonee Cultural Region. Word continued to be spread by Geonee traders far from the core worlds. Gradually, underground ‘railroads’ sprung up all across the Imperium, taking psions to Geonee worlds where they could be hidden and trained safely.
+Behind the scenes though, the Meeralo Council used the unrest to remove psionic institutes from public view and into clandestine operation. Secretly, word was sent out to far flung colonies that safety from the psionic persecutions could be found in the Geonee Cultural Region. Word continued to be spread by Geonee traders far from the core worlds. Gradually, underground 'railroads' sprung up all across the Imperium, taking psions to Geonee worlds where they could be hidden and trained safely.
 
 The riots on Geonee worlds were eventually quelled, and most of those arrested found their charges quietly dropped. Those who did go to trial and found guilty were issued remarkably lenient sentences.
 
@@ -3092,11 +3092,11 @@ The institutes were no more, and the use of psionics outlawed. The Geonee were s
 **BELIEFS**
 The Geonee do not view themselves as human, and reject the usual taxonomic classification of Homo sapiens geonesis. Rather, they firmly believe themselves to be the Ancients. In some Geonee, this belief reaches an almost zealous belief. In others, it is simply an irrefutable fact which the rest of the galaxy has no choice but to ultimately accept.
 
-In their own language, the word geonee means ‘old ones’. The singular, adonee, is seldom used to refer to an individual member of the race, and can be construed as an insult when spoken by another, serving to isolate the individual from the group, and hence their sense of self-worth. Instead, a Geonee will refer to themselves as Geonee-draveera or ‘descendant of the old ones.’
+In their own language, the word geonee means 'old ones'. The singular, adonee, is seldom used to refer to an individual member of the race, and can be construed as an insult when spoken by another, serving to isolate the individual from the group, and hence their sense of self-worth. Instead, a Geonee will refer to themselves as Geonee-draveera or 'descendant of the old ones.'
 
-They believe their ancestors came from the stars after a cataclysmic galactic war. ‘Official’ history claims the core Geonee worlds have been inhabited ever since the Final War, when their ancestors sought refuge.
+They believe their ancestors came from the stars after a cataclysmic galactic war. 'Official' history claims the core Geonee worlds have been inhabited ever since the Final War, when their ancestors sought refuge.
 
-According to Geonee, their ancestors possessed god-like technology and uplifted several species to sophont status, including the Vilani and Solomani. These species formed the basis for Humaniti. The Geonee also believe their ancestors uplifted Chirpers into Droyne and distributed them across the galaxy. The Vargr are another example of their ancestor’s experiments.
+According to Geonee, their ancestors possessed god-like technology and uplifted several species to sophont status, including the Vilani and Solomani. These species formed the basis for Humaniti. The Geonee also believe their ancestors uplifted Chirpers into Droyne and distributed them across the galaxy. The Vargr are another example of their ancestor's experiments.
 
 These claims have found little support among independent scholars. However, some surprising facts have to be taken into account. All of the Geonee core systems have extensive asteroid belts, which arguably have their origin in the Final War. There are numerous Ancients sites in these systems, which include facilities obviously built with the Geonee in mind. Lastly, Geonee technology throughout history has been among the most advanced known.
 
@@ -3112,11 +3112,11 @@ The ancient Geonee became nomads, constantly on the move from one place to the n
 (Chirpers) and marriage by capture. This was a survival adaptation. Related males go to war with each other less often and tend to work together to defeat common foes or tackle environmental challenges. A byproduct of these behaviours was patrilineal descent lines and the relegation of women to the role of property.
 
 Most modern human societies shed such barbaric cultural trappings, but for various reasons, Geonee oppression of women had not, until recently, shown signs of abating. The Geonee are an anomaly. Overachieving technological societies usually require significant contributions from all of their population, not just the members of one of its sexes. To compete on a galactic level, a species simply cannot perform well with
-‘one hand tied behind its back’. However, the Geonee were gifted most of their technology by the Ancients, who left enough intact relics to jump start their civilization, enabling them to maintain oppressive traditions long after they became impractical. The Vilani, who rightfully perceived the starfaring Geonee as a threat, did what they could to perpetuate traditional practises among the Geonee in order to suppress their advancement. After the fall of the Ziru Sirka and subsequent Rule of Man, the Long Night sent Geonee technological advancement into deep decline for nearly two millennia, perpetuating traditional behaviours even longer.
+'one hand tied behind its back'. However, the Geonee were gifted most of their technology by the Ancients, who left enough intact relics to jump start their civilization, enabling them to maintain oppressive traditions long after they became impractical. The Vilani, who rightfully perceived the starfaring Geonee as a threat, did what they could to perpetuate traditional practises among the Geonee in order to suppress their advancement. After the fall of the Ziru Sirka and subsequent Rule of Man, the Long Night sent Geonee technological advancement into deep decline for nearly two millennia, perpetuating traditional behaviours even longer.
 
 In modern times, Geonee culture has undergone revolutionary changes. While traditional practises are still enforced on the core Geonee worlds – such as Shiwonee and Lagna – many new settlements and colonies have done away with impractical traditions in favor of more expedient ones. Chief among these is the oppression of women. While women living on the core Geonee worlds can expect a life of domestic servitude, those on the frontiers of Geonee expansion live quite independent lives. Careers usually limited only to males are taken by females with varying levels of participation. Some worlds, even on the frontier, maintain the old traditions as best they can, keeping women in the home and out of sight from society; however, most allow a significant portion of their female population partial or complete autonomy in selecting a career outside the home. Independent females who have chosen not to wed a male become the heads of their households, a practice forbidden on the core worlds.
 
-While women rarely occupy the top ranks of most careers, female admirals, generals and chief executive officers are not unheard of. These more liberal practices are enabled by the long reach of Geonee settlement. Not just any world can serve as a viable Geonee habitation; they prefer large worlds with high gravity and dense atmospheres, where they are most comfortable. They also prefer worlds touched by the Ancients, whom they believe to be their ancestors. Geonee particularity has resulted in a far-flung ‘pseudo empire’ of sorts with long tendrils reaching throughout the Massilia sector and deep into the Core, Diaspora, the Old Expanses and other neighboring sectors. Modern Geonee have access to the greatest technology available in the Imperium, but the distance between the settlements and the core worlds has resulted in greater cultural diversity. The settlements are like distant ‘islands’ of Geonee culture, many of which are free to chart their own paths and change traditions as they see fit.
+While women rarely occupy the top ranks of most careers, female admirals, generals and chief executive officers are not unheard of. These more liberal practices are enabled by the long reach of Geonee settlement. Not just any world can serve as a viable Geonee habitation; they prefer large worlds with high gravity and dense atmospheres, where they are most comfortable. They also prefer worlds touched by the Ancients, whom they believe to be their ancestors. Geonee particularity has resulted in a far-flung 'pseudo empire' of sorts with long tendrils reaching throughout the Massilia sector and deep into the Core, Diaspora, the Old Expanses and other neighboring sectors. Modern Geonee have access to the greatest technology available in the Imperium, but the distance between the settlements and the core worlds has resulted in greater cultural diversity. The settlements are like distant 'islands' of Geonee culture, many of which are free to chart their own paths and change traditions as they see fit.
 
 The Geonee have great aspirations and believe that a supreme destiny lies ahead of them. Ironically, it might be the people of their most distant settlements and colonies who serve as the catalysts to achieve that destiny. To compete with the great powers of Charted Space, to walk among its giants, will require all of the Geonee, not just the male portion of their population.
 
@@ -3145,7 +3145,7 @@ The Law Council is the legislative authority of the Geonee Cultural Region. It r
 
 Suggested new and revised interstellar laws are created in the Law Council, which are then ratified by the Meeralo Council before coming into effect. These laws cannot supersede Imperial Law.
 
-In its capacity of oversight of laws, the Law Council reviews proposed laws raised by governments of member worlds to determine if they fall within the best interests of the Geonee as a whole, and then within the best interests of the world in particular. Proposed laws the Council deems as suitable are permitted to be ratified by the member world’s government. Laws deemed not conducive to Geonee interests may be brought to the attention of the Meeralo Council for consideration. In these cases, a three quarters majority vote is required for the law to pass.
+In its capacity of oversight of laws, the Law Council reviews proposed laws raised by governments of member worlds to determine if they fall within the best interests of the Geonee as a whole, and then within the best interests of the world in particular. Proposed laws the Council deems as suitable are permitted to be ratified by the member world's government. Laws deemed not conducive to Geonee interests may be brought to the attention of the Meeralo Council for consideration. In these cases, a three quarters majority vote is required for the law to pass.
 
 The Law Council also oversees the appointment of the judiciary which presides over breaches of Geonee interstellar law. In addition to hearing Geonee Cultural Region cases, the judiciary presides over cases brought to the Meeralo Council in its role as the supreme court of the region. Decisions made by the judiciary in these cases must be approved by majority vote of the Meeralo Council. In effect, the Council normally abides by the decisions of the judiciary, but there have been occasions where it has declined the decision of the judiciary and the case has been reheard.
 
@@ -3155,19 +3155,19 @@ The Technology Council is the body which directly oversees the Association for t
 
 ### COLONISATION COUNCIL
 
-During the period of the first Geonee Confederation, the Colonization Council was deeply involved in establishing and monitoring new colonization efforts. When the Council was re-established during the Long Night, its role was been significantly altered to be responsible for contacting lost Geonee colonies and bringing them back under the oversight of the Confederation. With the formation of the Third Imperium and dissolution of the Confederation, the Council’s focus was again changed to one of overseeing trade and diplomacy between Geonee worlds.
+During the period of the first Geonee Confederation, the Colonization Council was deeply involved in establishing and monitoring new colonization efforts. When the Council was re-established during the Long Night, its role was been significantly altered to be responsible for contacting lost Geonee colonies and bringing them back under the oversight of the Confederation. With the formation of the Third Imperium and dissolution of the Confederation, the Council's focus was again changed to one of overseeing trade and diplomacy between Geonee worlds.
 
 The current Colonization Council has two major mandates. The first is to maintain contact between far-flung Geonee colonies and encourage trade and cooperation between them and the Geonee Cultural Region. The second is to oversee the governance of the colony world Tlasov and the technological exchange between the Geonee and Llyrnians.
 
 ### FINANCE COUNCIL
 
-The Finance Council is responsible for creating and administering the Geonee Cultural Region’s annual budget, overseeing expenditure, and distributing funds to governing councils and agencies. It sets annual tax requirements for member worlds based on economic importance from which the annual budget is funded. It would come as no surprise that the majority of the funding is directed to the Geonee Self Defence Force and ADRAT, but the Finance Council also provides funding to many other institutions, not the least of which is the Meeralo Council itself. Each annual budget must be ratified by a simple majority vote of the Meeralo Council before it can come into effect.
+The Finance Council is responsible for creating and administering the Geonee Cultural Region's annual budget, overseeing expenditure, and distributing funds to governing councils and agencies. It sets annual tax requirements for member worlds based on economic importance from which the annual budget is funded. It would come as no surprise that the majority of the funding is directed to the Geonee Self Defence Force and ADRAT, but the Finance Council also provides funding to many other institutions, not the least of which is the Meeralo Council itself. Each annual budget must be ratified by a simple majority vote of the Meeralo Council before it can come into effect.
 
 ### ADRAT
 
-Arguably the most important Geonee institution is the Gradeea Bresaal Adonee Gaal, or ‘Association for the Development and Retrieval of Advanced Technology’. To non-Geonee, the organization is simply known as ADRAT.
+Arguably the most important Geonee institution is the Gradeea Bresaal Adonee Gaal, or 'Association for the Development and Retrieval of Advanced Technology'. To non-Geonee, the organization is simply known as ADRAT.
 
-Originally, ADRAT was formed in -175 with a charter to coordinate technical research and antique technology retrieval. It was dissolved under Imperial rules but revived again after the Civil War and given an Imperial charter to ‘foster technical knowledge and market technical innovation’. A combination of corporation and altruistic organization, ADRAT possesses a network of over 500 offices throughout Imperial territory and beyond, with more being opened yearly. The ADRAT headquarters and main office is located on Shiwonee and directly overseen by the Technological and Meeralo Councils.
+Originally, ADRAT was formed in -175 with a charter to coordinate technical research and antique technology retrieval. It was dissolved under Imperial rules but revived again after the Civil War and given an Imperial charter to 'foster technical knowledge and market technical innovation'. A combination of corporation and altruistic organization, ADRAT possesses a network of over 500 offices throughout Imperial territory and beyond, with more being opened yearly. The ADRAT headquarters and main office is located on Shiwonee and directly overseen by the Technological and Meeralo Councils.
 
 An ADRAT office has three departments. The first is the Technical School and Academy, an institution devoted to educating technicians and expanding technical knowledge through research. In any ADRAT technical college, at least half of the instructors are Geonee. ADRAT colleges are renowned for the high-quality training they offer; any graduate will easily find well paid employment ranging from starship engineer to computer programmer.
 
@@ -3187,7 +3187,7 @@ The punishment issued to those who steal property is somewhat harsher, with the 
 
 - a fine issued by the courts including court fees, their right hand removed, and their identity placed on a property offenders list. Those who make a second offence are treated as if they had stolen the wife of another Geonee.
 
-Those found guilty of stealing another Geonee’s wife are punished the most severely of all. The victim must be recompensed in Credits to a value decided by the court – normally twice the amount of the initial dowry, adjusted for inflation. All property owned by the perpetrator is seized by the state, and the perpetrator publicly executed.
+Those found guilty of stealing another Geonee's wife are punished the most severely of all. The victim must be recompensed in Credits to a value decided by the court – normally twice the amount of the initial dowry, adjusted for inflation. All property owned by the perpetrator is seized by the state, and the perpetrator publicly executed.
 
 The Geonee also have stringent laws against premarital sex and adultery, with both parties involved being punished with public caning. Male Geonee are also issued a fine to cover court costs and must compensate the male protector of the female an additional sum equal to the assumed dowry of the female, as issued by the court.
 
@@ -3199,9 +3199,9 @@ In the past, this preference has led to periods of legal infanticide of female o
 
 ### DRESS, ART AND ARCHITECTURE
 
-On most Geonee worlds, clothing is dependent on gender. Two cultural norms effect fashion; first, the Geonee have a cultural taboo regarding being seen with a bare head. Secondly, another taboo prevents excessive bare skin. It is expected for males be seen publicly with long sleeves and trousers – only face, ears, and hands are permitted to be exposed. Females on traditional worlds are expected to be completely covered in public, with only their eyes and hands exposed. In the home, it is permissible for a female’s face to be seen by her husband and other relatives. Clothing is made from tough sturdy material which resists wear and tear.
+On most Geonee worlds, clothing is dependent on gender. Two cultural norms effect fashion; first, the Geonee have a cultural taboo regarding being seen with a bare head. Secondly, another taboo prevents excessive bare skin. It is expected for males be seen publicly with long sleeves and trousers – only face, ears, and hands are permitted to be exposed. Females on traditional worlds are expected to be completely covered in public, with only their eyes and hands exposed. In the home, it is permissible for a female's face to be seen by her husband and other relatives. Clothing is made from tough sturdy material which resists wear and tear.
 
-Males prefer long-sleeved tunics and trousers over which is worn a vest secured with a broad belt. Tunics are often decorated with simple bold geometric shapes. Decorative collars, shoulder guards, and cuffs are common. Shoes are often pointed and curled upwards. A helmet-like hat with long ‘sideburns’ is worn in public, with the height of the helmet indicating the male’s position in society. In private, males tend to do away with this and wear a simple cloth secured with a headband.
+Males prefer long-sleeved tunics and trousers over which is worn a vest secured with a broad belt. Tunics are often decorated with simple bold geometric shapes. Decorative collars, shoulder guards, and cuffs are common. Shoes are often pointed and curled upwards. A helmet-like hat with long 'sideburns' is worn in public, with the height of the helmet indicating the male's position in society. In private, males tend to do away with this and wear a simple cloth secured with a headband.
 
 Traditionally females wear long-sleeved tunics with baggy sleeves cuffed tightly at the wrist over loose baggy pants cuffed tightly at the ankles, often with a long skirt over the pants. At home or away from prying eyes, it is permissible for a woman to wear a scarf or veil. Shoes are similar in design to those worn by males. When in public, a single flowing over-garment is worn over tunic and pants, covering them from head to foot, leaving only the eyes and hands exposed. The over-garment is often
 
@@ -3217,7 +3217,7 @@ Architecture tends to be big and bold, featuring minimalist constructions which 
 
 Like most other Geonee architecture, homes are angular and squat in nature, built to survive. Family housing is traditionally designed to be two separate wings, joined by a central courtyard.
 
-The front part of the house is known as the ‘public home’, the abode of a male and any unmarried sons or relatives who live with him. This is where visitors are received and males enjoy rest and recreation. Only the wife of the owner is permitted in this part of the house, and here she must be covered as if she were in public. If strangers were to visit, not even the wife would be found in the public home.
+The front part of the house is known as the 'public home', the abode of a male and any unmarried sons or relatives who live with him. This is where visitors are received and males enjoy rest and recreation. Only the wife of the owner is permitted in this part of the house, and here she must be covered as if she were in public. If strangers were to visit, not even the wife would be found in the public home.
 
 The courtyard is often decorated with simple gardens which include flowering plants and trees. Ponds are also common. The courtyard is equally enjoyed by both men and women of the family. Children are allowed to
 
@@ -3225,13 +3225,13 @@ play together. Trusted male visitors are also permitted here, but only if any fe
 
 A secluded section of the courtyard is kept aside for the home of the selweeda. This area is normally only visited by the owner, and kept in a wild state for the comfort of the Chirper.
 
-Rear of the courtyard is the ‘private home’, where the women live. The only male permitted in this part of the house is the husband – as all the women are under his protection – and immediate male relatives. The women here are permitted to interact freely, and girls are educated. Young boys too young for school also reside in this part of the home with their mother.
+Rear of the courtyard is the 'private home', where the women live. The only male permitted in this part of the house is the husband – as all the women are under his protection – and immediate male relatives. The women here are permitted to interact freely, and girls are educated. Young boys too young for school also reside in this part of the home with their mother.
 
 Wealthy men can afford large sprawling estates and impressive homes with many rooms. Poor men can sometimes only afford a small home with the bare minimum number of rooms traditionally expected. Such a small abode is unlikely to show him in any favorable light to the relatives of a woman who wishes to marry.
 
 Bachelors often dwell in apartments, either singly or shared, with no room to attract a selweeda and are therefore not suitable to house women at all.
 
-Due to the volatile nature of Shiwonee’s geology and climate, settlements tend to be much smaller than those of other advanced races. All cities, even the most modern, is designed with rapid and smooth evacuation in mind. Wide streets and avenues are the norm, and all buildings are easily accessible. Vegetation is kept to a bare minimum, found primarily within private courtyards of homes, where it is closely maintained and cared for. Where the technology is available, the Geonee have taken to building grav-cities which can easily move across the countryside to avoid environmental disasters and shifting climates.
+Due to the volatile nature of Shiwonee's geology and climate, settlements tend to be much smaller than those of other advanced races. All cities, even the most modern, is designed with rapid and smooth evacuation in mind. Wide streets and avenues are the norm, and all buildings are easily accessible. Vegetation is kept to a bare minimum, found primarily within private courtyards of homes, where it is closely maintained and cared for. Where the technology is available, the Geonee have taken to building grav-cities which can easily move across the countryside to avoid environmental disasters and shifting climates.
 
 ### RECREATION
 
@@ -3239,7 +3239,7 @@ Geonee enjoy a large variety of recreational activities. Team sports are very po
 
 Kundro keh has three teams of nine players facing off against each other. Three balls of different colours are used, and each team must pass their ball through a ring to score points, while at the same time prevent the other teams from doing the same. The rules are somewhat complicated, but teams are permitted to
 
-handle both their own and opposing teams’ balls, and play consists of a team trying to keep their opponent’s ball off them while protecting their own. The game is a full contact sport, and injuries are common, played both as a casual sport and professionally.
+handle both their own and opposing teams' balls, and play consists of a team trying to keep their opponent's ball off them while protecting their own. The game is a full contact sport, and injuries are common, played both as a casual sport and professionally.
 
 Geonee also enjoy strategic board games. Women in particular find these games enjoyable, but it is very common to find elderly males playing Giroto in the equivalent of coffee houses. Other common boardgames played are Solomani chess and backgammon, and the Vilani shukiimu.
 
@@ -3273,7 +3273,7 @@ The Geonee Self Defence Navy follows a similar structure to the Imperial Navy. T
 
 ### NAVY OPERATIONS
 
-The Geonee have a preference for battle riders over larger jump-capable warships, and naval tactics are geared towards the use of battle riders overwhelming enemy forces while smaller assets ensure the safety of battle tenders and support vessels. Capital assets are used primarily as command posts and only brought into combat when defending retreating battle riders and tenders. Geonee naval tactics also favor swarming an enemy force with smaller vessels over large unit engagements.
+The Geonee have a preference for battle riders over larger jump-capable warships, and naval tactics are geared towards the use of battle riders overwhelming enemy forces while smaller assets ensure the safety of battle tenders and support vessels. [[Capital]] assets are used primarily as command posts and only brought into combat when defending retreating battle riders and tenders. Geonee naval tactics also favor swarming an enemy force with smaller vessels over large unit engagements.
 
 Joint maneuvers are routinely undertaken and rotated between squadrons assigned to different worlds to ensure all units work seamlessly together. In a similar fashion, squadrons and fleet components are often rotated throughout the Geonee Cultural Region.
 
@@ -3284,25 +3284,25 @@ The Geonee Self Defence Army is a specialist force drawn from the ranks of armie
 
 Units from the Self Defence Army are regularly rotated out with battalions from planetary armies to ensure uniform training and experience, leading to a large force which can be drawn upon in times of crisis. Army units are organised into brigades named after their planet of origin.
 
-Unlike similar military forces, the Geonee Self Defence Force does not have a marine branch. Instead, the Space Assault Force serves a similar duty and while they are a separate arm, they work very closely with the navy. The Space Assault Force normally acts as security on spacecraft navel installations, as well as an elite military and boarding force. It is also the Duke of Shiwonee’s personal guard.
+Unlike similar military forces, the Geonee Self Defence Force does not have a marine branch. Instead, the Space Assault Force serves a similar duty and while they are a separate arm, they work very closely with the navy. The Space Assault Force normally acts as security on spacecraft navel installations, as well as an elite military and boarding force. It is also the Duke of Shiwonee's personal guard.
 
 An interesting aspect of the Space Assault Force is their use of Llyrnians as shock troops. Equipped with TL15 arms and armor, Llyrnian shock troops present a terrifying front. Llyrnian and Geonee units train together to build cohesion, but Llyrnian units are normally commanded by Llyrnian officers, with only the highest level of the command structure consisting of Geonee officers. Llyrnian troops are treated as valued equals by the Geonee, who regard their combat capabilities highly.
 
 **ARMY OPERATIONS**
 The Geonee Self Defence Army has a reputation for its use of cutting-edge technology and brute force tactics backed by electronic expertise. Overall strategy is to overwhelm opposing forces with superior numbers and technology on two fronts; physical assaults with simultaneous cyberattacks. Once ground has been taken, the army will reinforce its position in preparation for another advance. Meanwhile, electronic and technological assets will be appropriated and used to support advancing troops.
 
-The army favors heavy armored warfare, making great use of a variety of tanks of their own design. These range from the relatively small and agile Gorta light tank to Branak superheavy tanks, which are essentially enormous mobile weapon platforms. Supporting the heavy armored units are ‘light’
+The army favors heavy armored warfare, making great use of a variety of tanks of their own design. These range from the relatively small and agile Gorta light tank to Branak superheavy tanks, which are essentially enormous mobile weapon platforms. Supporting the heavy armored units are 'light'
 armored units comprising battle dress-clad soldiers.
 
 The Geonee have a dislike of jump troops, feeling the potential attrition rate during jump operations to be untenable. Instead, they use heavily armed and armored dropships supported by escort vessels to deliver troops to ground theatres.
 
-Space Assault Forces are found primarily on starships, acting as ship’s security, boarding prevention, and active boarders. They can be found at key points in ship access ways, and there are always two marines stationed on the bridge and in engineering at all times. Marines on spacecraft fall into the fleet chain of command, normally with an individual ranked as major or above answering directly to the captain. Shipboard troops are issued with weapons which will cause the least damage to delicate ship infrastructure and, like Imperial Marines, are always issued with a blade. When conducting boarding actions, Space Assault Forces are issued with more powerful weaponry.
+Space Assault Forces are found primarily on starships, acting as ship's security, boarding prevention, and active boarders. They can be found at key points in ship access ways, and there are always two marines stationed on the bridge and in engineering at all times. Marines on spacecraft fall into the fleet chain of command, normally with an individual ranked as major or above answering directly to the captain. Shipboard troops are issued with weapons which will cause the least damage to delicate ship infrastructure and, like Imperial Marines, are always issued with a blade. When conducting boarding actions, Space Assault Forces are issued with more powerful weaponry.
 
 The Space Assault Force is also responsible for piloting fighter craft and other support vehicles, as required.
 
 ### LANGUAGE
 
-The most widespread Geonee language is Irkonee , or ‘the language of the old ones’, and is the official language on all Geonee worlds. The origin of the language is lost in time, and linguistic studies have failed to show it has any similarities to other human languages. Most Geonee only speak Irkonee , and those who choose to learn other languages typically learn Galanglic.
+The most widespread Geonee language is Irkonee , or 'the language of the old ones', and is the official language on all Geonee worlds. The origin of the language is lost in time, and linguistic studies have failed to show it has any similarities to other human languages. Most Geonee only speak Irkonee , and those who choose to learn other languages typically learn Galanglic.
 
 Naming conventions are heavily influenced by tradition. Fathers always name their children with no input from the mother. The name consists of four parts to identify an individual. The first part, or name, is a personal name, given to a child shortly after it is born.
 
@@ -3330,18 +3330,18 @@ The Geonee language uses a written alphabet which can trace its origin to their 
 
 # GEONEE HISTORY
 
-Although the Geonee are adamant that they are the Ancients, the most widely accepted idea states they were brought from Terra by the Ancients approximately 300,000 years ago. Their world, Shiwonee, has an eccentric orbit and is geologically unstable, with many active volcanoes and frequent quakes. Some geological evidence suggests Shiwonee’s instability is not natural, but perhaps the result of manipulation during the Final War.
+Although the Geonee are adamant that they are the Ancients, the most widely accepted idea states they were brought from Terra by the Ancients approximately 300,000 years ago. Their world, Shiwonee, has an eccentric orbit and is geologically unstable, with many active volcanoes and frequent quakes. Some geological evidence suggests Shiwonee's instability is not natural, but perhaps the result of manipulation during the Final War.
 
 ### ORIGINS
-Archaeological remains strongly suggest the original humans abandoned on Shiwonee by the Ancients were only slightly genetically modified, and continued to evolve naturally. Evidence indicates modern Geonee, _Homo sapiens geonensis_ , emerged close to -15000. Several other human subspecies have also been noted, with various adaptions to Shiwonee’s heavy gravity and dense atmosphere, but all became extinct around the same time modern Geonee appeared in the geological record. Genetic testing has revealed DNA traces of the extinct species within the Geonee genome, suggesting significant interbreeding, and the Geonee are the successful descendants.
+Archaeological remains strongly suggest the original humans abandoned on Shiwonee by the Ancients were only slightly genetically modified, and continued to evolve naturally. Evidence indicates modern Geonee, _Homo sapiens geonensis_ , emerged close to -15000. Several other human subspecies have also been noted, with various adaptions to Shiwonee's heavy gravity and dense atmosphere, but all became extinct around the same time modern Geonee appeared in the geological record. Genetic testing has revealed DNA traces of the extinct species within the Geonee genome, suggesting significant interbreeding, and the Geonee are the successful descendants.
 
-Shiwonee’s instability had drastic impacts on Geonee culture as it developed, particularly on their inclination toward technology. Early tribal communities were often affected by natural disasters, a situation which gave value to technical skills and advantage to tribes which embraced them. Drastic climate changes added pressure to maintain a nomadic culture, and it was advantageous to keep populations focussed in small semi-nomadic communities which moved when areas were devastated by natural disasters and climatic vagaries.
+Shiwonee's instability had drastic impacts on Geonee culture as it developed, particularly on their inclination toward technology. Early tribal communities were often affected by natural disasters, a situation which gave value to technical skills and advantage to tribes which embraced them. Drastic climate changes added pressure to maintain a nomadic culture, and it was advantageous to keep populations focussed in small semi-nomadic communities which moved when areas were devastated by natural disasters and climatic vagaries.
 
 Animal husbandry developed around -14500, allowing larger communities to develop with the acceleration of technological innovation. The first small semi-permanent communities were built during this period. The wheel was soon invented, which led to many more innovations.
 
 The Geonee developed agriculture around -14000, primarily as a food source for livestock, but this soon extended to providing grains and vegetables for themselves. This milestone discovery led to
 
-the founding, around -13800, of the earliest known Geonee civilization, the Pordongee Empire. This was still a semi-nomadic culture, but ruled by a single hereditary leader. The gathering of a large group of like-minded people quickly led to the invention of writing and mathematics. The earliest written record discovered in this period, known as the ‘Chronicle of the Collapse’, is a text which gathers legends from earlier periods. According to this text, the Geonee were the children of gods from ‘beyond the stars’ who were destroyed in a great war.
+the founding, around -13800, of the earliest known Geonee civilization, the Pordongee Empire. This was still a semi-nomadic culture, but ruled by a single hereditary leader. The gathering of a large group of like-minded people quickly led to the invention of writing and mathematics. The earliest written record discovered in this period, known as the 'Chronicle of the Collapse', is a text which gathers legends from earlier periods. According to this text, the Geonee were the children of gods from 'beyond the stars' who were destroyed in a great war.
 
 While the Porgondee Empire was the first nomadic empire, it was not the last and other empires and kingdoms arose. Due to their nomadic nature, civilizations met frequently, and conflict naturally ensued. The Porgondee Empire eventually collapsed around -12000, conquered by a smaller but more technologically advanced civilization from the north called the Eowaree Republic. By -12750, the effort to control the vast territories of the fallen Porgondee Empire caused the Eowaree Republic to collapse. No evidence of any further great civilizations has been found in the archaeological record until -11695 when the earliest signs of the Dowaree Republic can be found.
 
@@ -3353,7 +3353,7 @@ Technology continued to rise steadily, peaking at TL3 by -11000. Exploration was
 
 In -10700 disaster struck in the form of a winter caused by the simultaneous eruption of several large volcanoes. Dust and ash polluted the atmosphere, blocking solar heat, temperatures plummeted, and acid rain poisoned the seas and rivers. As crops withered and livestock starved, the Dowaree Republic collapsed, plunging the Geonee into a dark age which nearly drove their species to extinction.
 
-The volcanic winter caused havoc with Shiwonee’s ecology and biodiversity with thousands of species of becoming extinct. The Geonee managed to save a small number from extinction – mainly domesticated plants and animals – but were too focussed on their own survival to consider the welfare of wildlife. Still, some of the more forward thinking Geonee scientists managed to preserve tissue samples of a significant number of animal and plant species in well protected subterranean ‘arks’ in the hopes future Geonee would find them. Many arks were lost, but some were eventually rediscovered centuries later and the tissue samples used to successfully clone preserved species. Nevertheless, vast numbers of animal and plant species remained lost and have never been recovered.
+The volcanic winter caused havoc with Shiwonee's ecology and biodiversity with thousands of species of becoming extinct. The Geonee managed to save a small number from extinction – mainly domesticated plants and animals – but were too focussed on their own survival to consider the welfare of wildlife. Still, some of the more forward thinking Geonee scientists managed to preserve tissue samples of a significant number of animal and plant species in well protected subterranean 'arks' in the hopes future Geonee would find them. Many arks were lost, but some were eventually rediscovered centuries later and the tissue samples used to successfully clone preserved species. Nevertheless, vast numbers of animal and plant species remained lost and have never been recovered.
 
 By -10500, the effects of the volcanic winter diminished and survivors started to reconstruct their culture. Technical knowledge and expertise had been crucial for their survival during this Collapse, and was even more important for the reconstruction of civilization. Technicians had become some of the most important members of society, a position they retain today.
 
@@ -3363,11 +3363,11 @@ The Collapse forced the Geonee to return to small independent semi-nomadic commu
 
 By -9500, the Geonee had regained their previous technical expertise and advanced their civilization to TL5. Despite their independent nature, the Geonee knew coordination between communities was not only advantageous but conducive to further advancement. With this in mind, nomadic communities formed the Meeralo Council. The Council was only a forum of unity between communities, with no authority to command, but as a method of coordinating movement, knowledge, and communication.
 
-The council proved to be a success, and by -9300 the Geonee had achieved early TL9. The Council had sponsored a space service which explored the majority of the Shiwonee system. Colonies had been established on other planets, and the vast wealth in the asteroid belts was being exploited. The Meeralo Council felt it was time for the Geonee to spread beyond their world and declared the goal to ‘travel again among the stars’.
+The council proved to be a success, and by -9300 the Geonee had achieved early TL9. The Council had sponsored a space service which explored the majority of the Shiwonee system. Colonies had been established on other planets, and the vast wealth in the asteroid belts was being exploited. The Meeralo Council felt it was time for the Geonee to spread beyond their world and declared the goal to 'travel again among the stars'.
 
 In -9270, an expedition made a momentous discovery in one of the asteroid belts – a derelict Ancients starship. After 30 years of research, the Geonee were able to duplicate jump drive technology and built starships of their own.
 
-The only system within reach of their first ships was visited, and the most habitable planet found was named Prindee, which means ‘promise’. Despite the unappealing conditions on Prindee – low gravity and a tainted atmosphere – the Geonee established a small colony. Using Prindee as a waypoint, a small fleet of jump-1 starships explored and colonized the nearby Stenardee Cluster.
+The only system within reach of their first ships was visited, and the most habitable planet found was named Prindee, which means 'promise'. Despite the unappealing conditions on Prindee – low gravity and a tainted atmosphere – the Geonee established a small colony. Using Prindee as a waypoint, a small fleet of jump-1 starships explored and colonized the nearby Stenardee Cluster.
 
 It was during this period when another discovery was made – the colonists at Lagna uncovered relics of Ancients origin, including Geonee and Chirper skulls. This portentous find was taken as evidence finally proving the interstellar origin of the Geonee.
 
@@ -3392,11 +3392,11 @@ In -8600, Massilia was under the formal supervision of the Sharurshid. Traders f
 The Geonee took offence at the presumption that the derelict was of unknown origin, arguing it was an antique ship from the time of the first Geonee civilization. Regardless, the issue was not of great import to the Geonee – they had an interstellar society of advanced technology, active exploration, expanding trade, and progressive technical research. Vilani opinion, no matter how ridiculous and offensive, was irrelevant.
 
 **THE FIRST CONFEDERATION**
-For some time, Geonee emperors had become both more redolent and corrupt, while at the same time more tyrannical in their rule. Many colonies were being heavily taxed, and those which failed to pay taxes were placed under the authority of a governor who acted in the emperor’s interest. The populace on the more remote colonies were forced to live in poverty as most were ruthlessly taxed and the resources of their worlds stripped away to support the decadent inner worlds.
+For some time, Geonee emperors had become both more redolent and corrupt, while at the same time more tyrannical in their rule. Many colonies were being heavily taxed, and those which failed to pay taxes were placed under the authority of a governor who acted in the emperor's interest. The populace on the more remote colonies were forced to live in poverty as most were ruthlessly taxed and the resources of their worlds stripped away to support the decadent inner worlds.
 
 Finally, in -8300, a colonial revolution raged through the remote colonies, leading to the execution of the emperor and many of his closest allies. The empire was recast as a loose confederation. The Meeralo Council
 
-continued to administer the ‘original worlds’, while more distant colonies like Forque and Parahee were given almost complete autonomy.
+continued to administer the 'original worlds', while more distant colonies like Forque and Parahee were given almost complete autonomy.
 
 The Vilani remained neutral during the colonial revolt, but Sharurshid increased commercial activity in Massilia, aggressively competing with Geonee commercial interests. In the following centuries, the Vilani and Geonee stood as rivals for interstellar power. Both competed in the exploration and development of worlds in the Massilia, Zarushagar, Core, Diaspora, and Delphi sectors. While occasional military skirmishes erupted, the relationship between the two starfaring powers remained generally peaceful, at least on the surface.
 
@@ -3417,7 +3417,7 @@ For 200 years, the Geonee were a subject race of the Ziru Sirka. Military occupa
 
 ### THE INTERSTELLAR WARS
 
-In -2408, the Interstellar Wars plunged the Ziru Sirka into conflict with a recently contacted human race from Terra. The Geonee welcomed the Terrans as liberators and when war approached their worlds, they rebelled against the Vilani oppressors and allied with the Terrans. Quickly organised Geonee forces made up a significant portion of Terran forces in Massilia during the later wars and Geonee communities became advance bases and safe ports for Terran military. During this period, Geonee naval forces used thousands of Llyrnians as ship’s troops, starting a long tradition of ‘Llyrnian Devil Marines’ and mercenaries serving on Geonee spacecraft.
+In -2408, the Interstellar Wars plunged the Ziru Sirka into conflict with a recently contacted human race from Terra. The Geonee welcomed the Terrans as liberators and when war approached their worlds, they rebelled against the Vilani oppressors and allied with the Terrans. Quickly organised Geonee forces made up a significant portion of Terran forces in Massilia during the later wars and Geonee communities became advance bases and safe ports for Terran military. During this period, Geonee naval forces used thousands of Llyrnians as ship's troops, starting a long tradition of 'Llyrnian Devil Marines' and mercenaries serving on Geonee spacecraft.
 
 After 200 years of intermittent warfare, the declining Vilani Empire was conquered by the Terrans. With the war ended, the Terrans were left in control of a vast territory they were ill prepared to manage. They soon came to rely heavily on Geonee advisors in Massilia.
 
@@ -3429,7 +3429,7 @@ For the Geonee, the early Rule of Man was a time of jubilation. The Vilani burea
 
 By -2000, several Geonee worlds had achieved TL12, then the cutting edge of technology. Interstellar trade was booming, and the long Vilani occupation all but forgotten. Once again, the Geonee had become a
 
-common sight throughout Massilia and beyond. In the following centuries, significant numbers of Geonee joined the Second Imperium’s navy, army, and scouts where they gained a well-deserved reputation for technical expertise.
+common sight throughout Massilia and beyond. In the following centuries, significant numbers of Geonee joined the Second Imperium's navy, army, and scouts where they gained a well-deserved reputation for technical expertise.
 
 ### THE LONG NIGHT
 
@@ -3442,16 +3442,16 @@ Only three Geonee worlds survived the Long Night, falling from TL12 to TL4. Once
 ### THE SECOND CONFEDERATION
 
 In -190, a collection of Geonee representatives, again coordinated by the traditional Meeralo Council, met at Prindee and declared the Second Geonee Confederation, renewing their goal to
-‘reclaim the stars’.
+'reclaim the stars'.
 
-The Confederation was founded as an agreement between different dominant classes of the three Geonee worlds – the high-ranking bureaucrats of Hiponee, the industrial backers of Lagna, and the Meeralo Council and nation-state leaders of Shiwonee. It was natural in the early stages for all these classes to recognize each other’s authority on equal terms to establish a system of nobility. The Confederation issued titles to the most powerful families, creating the nobility which would continue to rule the Geonee worlds, in one form or another, to the present day.
+The Confederation was founded as an agreement between different dominant classes of the three Geonee worlds – the high-ranking bureaucrats of Hiponee, the industrial backers of Lagna, and the Meeralo Council and nation-state leaders of Shiwonee. It was natural in the early stages for all these classes to recognize each other's authority on equal terms to establish a system of nobility. The Confederation issued titles to the most powerful families, creating the nobility which would continue to rule the Geonee worlds, in one form or another, to the present day.
 
 
 ### LLYRNIANS
 
 The Llyrian are a Minor Race native to the subterranean environment of a cold satellite orbiting a gas giant in the Shokee subsector. They play an important role throughout Massilia. Their homeworld, Llyrn, is a member of the Duchy of Shiwonee. By tradition, the Llynians serve as security troops on many Geonee ships and in return, the Geonee do much of the work of maintaining a high technology civilization on Llyrn.
 
-Llyrnians are tunnel dwellers. Their cylindrical bodies are trilaterally symmetrical, with three locomotive limbs on the bottom and three manipulative limbs spreading from the top. The arms contain hearing organs, which are the Llyrnians’ primary sense. They are able to sense both vibrations in rock and the faintest sounds transmitted through thin atmosphere. Three mouths open under the arms that are used for nutrient consumption. The body is covered with a tough external coat of organic silicates and the arms end in tough claws, with three vibratory membranes positioned on the upper body permitting a limited sonar capability. The body ends in a structure that contains three breathing orifices, which also act as olfactory senses, and a visual band which encircles the entire structure. Llyrnian vision centres on the infrared portion of the spectrum.
+Llyrnians are tunnel dwellers. Their cylindrical bodies are trilaterally symmetrical, with three locomotive limbs on the bottom and three manipulative limbs spreading from the top. The arms contain hearing organs, which are the Llyrnians' primary sense. They are able to sense both vibrations in rock and the faintest sounds transmitted through thin atmosphere. Three mouths open under the arms that are used for nutrient consumption. The body is covered with a tough external coat of organic silicates and the arms end in tough claws, with three vibratory membranes positioned on the upper body permitting a limited sonar capability. The body ends in a structure that contains three breathing orifices, which also act as olfactory senses, and a visual band which encircles the entire structure. Llyrnian vision centres on the infrared portion of the spectrum.
 
 Lyrnians are trisexual, with Delver, Feeder and Warrior genders. Delvers build and maintain tunnels, Warriors defend the community and Feeders bear and care for offspring. Adult Llyrnians vary in size by gender but most Delvers and Warriors are approximately 1.67 meters long and weigh about 63.5 kilograms.
 
@@ -3468,12 +3468,12 @@ Llyrnian Travellers all possess the following traits.
 
 Claws: Llyrnians have three arms, which end with heavily clawed three-digit hands. When used offensively, Lyrian claws deal 3D damage. Furthermore, unless a device is specifically designed for Llyrians, they suffer a DM-2 for any checks related to using it.
 
-Echolocation (25m): Llyrnians rudimentary echolocation sense permits them to navigate their environment, effectively allowing them to ‘see’ in complete darkness or through soil to a range of 25 meters.
+Echolocation (25m): Llyrnians rudimentary echolocation sense permits them to navigate their environment, effectively allowing them to 'see' in complete darkness or through soil to a range of 25 meters.
 
 Enhanced Senses: Llyrnian hearing is acute and they are able to detect vibrations. Llyrians gain DM+2 when making Recon checks to hear or sense vibrations. Llyrnian vision is based on the infrared spectrum, allowing them to see objects by the heat emitted. Their optical organs gives 360o vision, making any attempt to sneak up on them suffer DM-4.
 
 
-In -180, the Confederation commenced a program to reclaim all former Geonee systems. The empty worlds of the Stenardee Cluster were surveyed again, and small colonies established. On these worlds, the Geonee found remnants of the former inhabitants. Newly recovered relic technologies from the Rule of Man were efficiently reverse engineered and replicated, improving the Geonee’s technological recovery.
+In -180, the Confederation commenced a program to reclaim all former Geonee systems. The empty worlds of the Stenardee Cluster were surveyed again, and small colonies established. On these worlds, the Geonee found remnants of the former inhabitants. Newly recovered relic technologies from the Rule of Man were efficiently reverse engineered and replicated, improving the Geonee's technological recovery.
 
 ### SYLEAN CONTACT
 
@@ -3496,13 +3496,13 @@ Integration with the Imperium proved difficult. In 120, a major anti-Imperial in
 
 ### THE IMPERIAL CIVIL WAR
 
-The political situation dramatically altered during the Imperial Civil War. Kaner, a Geonee admiral, was an early aspirant to the Imperial Throne and managed for years to maintain a stronghold around Shiwonee. When Kaner was killed in battle in 615, Geonee troops and starships fought against Kaner’s enemies, supporting several other candidates for the Imperial Throne.
+The political situation dramatically altered during the Imperial Civil War. Kaner, a Geonee admiral, was an early aspirant to the Imperial Throne and managed for years to maintain a stronghold around Shiwonee. When Kaner was killed in battle in 615, Geonee troops and starships fought against Kaner's enemies, supporting several other candidates for the Imperial Throne.
 
-In 622, a Geonee fleet intervened decisively for the future Empress Arbellatra in the Second Battle of Zhimaway. The fact that the male-chauvinist Geonee supported an Empress become something of a common joke, but Arbellatra repaid their assistance by creating the Duchy of Shiwonee in 625 and moving the subsector capital to the Geonee homeworld. Kaner’s young son Brakor was made the first duke, and become the principal representative for the eight Geonee ‘core’ worlds. Duke Brakor was eventually accepted by all Geonee as the representative of their entire race.
+In 622, a Geonee fleet intervened decisively for the future Empress Arbellatra in the Second Battle of Zhimaway. The fact that the male-chauvinist Geonee supported an Empress become something of a common joke, but Arbellatra repaid their assistance by creating the Duchy of Shiwonee in 625 and moving the subsector capital to the Geonee homeworld. Kaner's young son Brakor was made the first duke, and become the principal representative for the eight Geonee 'core' worlds. Duke Brakor was eventually accepted by all Geonee as the representative of their entire race.
 
 After the Civil War, Geonee integration into Imperial society proceed much more smoothly. Old colonies across the whole Imperium soon sent ambassadors to the duke, and new commercial networks were established.
 
-In 729 the Geonee petitioned Empress Margaret to re-establish the Geonee Autonomous Region. To fortify their petition, the Geonee obtained proxies to vote in their favor at the Imperial Moot, guaranteeing even if the empress disapproved of the request, she would have no choice but to grant it. The empress sent a fleet of warships to Shiwonee which arrived in 736 bearing the empress’s respect for the Geonee people as members of the Imperium along with a gift of the Imperial flag. Once the message and gift were delivered, the fleet promptly jumped out of the system, denying Shiwonee the millions of Credits which would have been spent by spacers granted shore leave. The Geonee understood the thinly veiled threat and promptly retracted their petition.
+In 729 the Geonee petitioned Empress Margaret to re-establish the Geonee Autonomous Region. To fortify their petition, the Geonee obtained proxies to vote in their favor at the Imperial Moot, guaranteeing even if the empress disapproved of the request, she would have no choice but to grant it. The empress sent a fleet of warships to Shiwonee which arrived in 736 bearing the empress's respect for the Geonee people as members of the Imperium along with a gift of the Imperial flag. Once the message and gift were delivered, the fleet promptly jumped out of the system, denying Shiwonee the millions of Credits which would have been spent by spacers granted shore leave. The Geonee understood the thinly veiled threat and promptly retracted their petition.
 
 
 **RECENT HISTORY**
@@ -3517,7 +3517,7 @@ Shiwonee for the Geonee Self Defence Navy to assist Imperial forces. The duke ag
 The Self Defence Navy proved to be a valuable addition to Imperial forces, seeing major action along the front. In 994, the Self Defence Army assisted in forcing a stalemate between the Solomani and Imperium as both struggled to rebuild their forces. In 998, the Self Defence Navy drove into the Solomani Sphere to assist in liberating several worlds from Solomani control, and in 1002 was an integral component in the destruction and routing of the Grand Solomani Fleet at the Battle of Dingir. The Solomani Rim War concluded in 1002 with the conquest and occupation of Terra by Imperial forces.
 
 In 1105, the Duchy of Shiwonee, also known as the Geonee Cultural Region, is composed of ten worlds –
-the eight core worlds (Bisk’s Planet, Dreva, Hiponee, Lagna, Prindee, Rigaal, Shiwonee, and Sternadee), the Tlasov protectorate, and Llyrn. Duke Karnordo Neowashee holds the title of Geonee-Irkaveera , and is viewed not only as the ultimate authority in the duchy, but representative of all Geonee before the Imperium.
+the eight core worlds (Bisk's Planet, Dreva, Hiponee, Lagna, Prindee, Rigaal, Shiwonee, and Sternadee), the Tlasov protectorate, and Llyrn. Duke Karnordo Neowashee holds the title of Geonee-Irkaveera , and is viewed not only as the ultimate authority in the duchy, but representative of all Geonee before the Imperium.
 
 
 ### GEONEE TIMELINE
@@ -3581,7 +3581,7 @@ Date Event
 
 350 Geonee nobility finally recognized by the Third Imperium after a delay of over 200 years.
 
-615 Kaner is killed in battle but Geonee troops and naval forces continue to fight against Kanar’s enemies and support several other candidates for the Iridium Throne.
+615 Kaner is killed in battle but Geonee troops and naval forces continue to fight against Kanar's enemies and support several other candidates for the Iridium Throne.
 
 622 A Geonee fleet intervenes decisively for Grand Admiral Arbellatra Alkhalikoi in the Second Battle of Zhimaway.
 
@@ -3597,7 +3597,7 @@ Date Event
 
 806 Duke Valreega Neowahsee of Shiwonee sues the Imperial Navy in an attempt to claim a rumored Ancients starship, the _Bradeeva_ , as Geonee property.
 
-806 A special Moot commission ultimately determines the _Bradeeva_ does not exist and closes Duke Valreega’s case. The Geonee maintain the incident was covered up.
+806 A special Moot commission ultimately determines the _Bradeeva_ does not exist and closes Duke Valreega's case. The Geonee maintain the incident was covered up.
 
 990 Solomani Rim War begins.
 
@@ -3646,7 +3646,7 @@ In addition to their usual background skills, Geonee also gain one of Electronic
 Geonee Travellers use the careers in the Traveller Core Rulebook with the following changes:
 •  Geonee are practical scientists, preferring a hands-on approach to research than an academic or studious method. Therefore, they suffer DM-2 when attempting to qualify for the Scholar career.
 •  The ADRAT career is available to all Geonee Travellers, who gain DM+2 when attempting to qualify. Any other Traveller can attempt to join the ADRAT with the listed qualification roll.
-•  The Self Defence Army is the Duchy of Shiwonee’s heavy troops. Each regiment is formed from the forces of the Geonee homeworlds. They are armed and armored in the highest technology available and specialise in full frontal assaults and overwhelming tactics. Geonee Travellers can attempt to enter this career.
+•  The Self Defence Army is the Duchy of Shiwonee's heavy troops. Each regiment is formed from the forces of the Geonee homeworlds. They are armed and armored in the highest technology available and specialise in full frontal assaults and overwhelming tactics. Geonee Travellers can attempt to enter this career.
 •  The Geonee Self Defence Navy patrols the Geonee Cultural Region, protecting the area against invasion and deterring piracy and other illegal interstellar operations. Geonee Travellers can attempt to enter this career.
 
 ### ROLE PLAYING GEONEE
@@ -3655,7 +3655,7 @@ Almost all Geonee Travellers will be male; females are kept secluded and protect
 
 Married Geonee males will always have their invisible Chirper companion with them most of the time. The Geonee will be able to see it but nobody else will. This will make the Geonee seem to act in a peculiar manner, staring at or speaking to apparently empty air. On board a spacecraft, the Geonee Traveller will insist on a large stateroom for himself, which is shared with the Chirper.
 
-Ownership is a defining trait of all Geonee Travellers, who clearly mark their belongings and constantly try to clarify issues of property. ‘Who owns this?’ will be a frequently asked question.
+Ownership is a defining trait of all Geonee Travellers, who clearly mark their belongings and constantly try to clarify issues of property. 'Who owns this?' will be a frequently asked question.
 
 **Geonee Careers**
 
@@ -3678,7 +3678,7 @@ They are very concerned with personal success and prestige within the community.
 
 own prestige, be it positive or negative. Geonee will strive to high achievements and great successes and encourage companions to do the same, both as a group and as individuals.
 
-Geonee do not consider themselves as ‘human’ and use the term rather disparagingly. Geonee tend to take offence at being called human and will quickly correct those who label them as such. When speaking in languages other than their own, they usually translate Geonee as ‘Ancients’.
+Geonee do not consider themselves as 'human' and use the term rather disparagingly. Geonee tend to take offence at being called human and will quickly correct those who label them as such. When speaking in languages other than their own, they usually translate Geonee as 'Ancients'.
 
 Geonee Travellers
 
@@ -3703,7 +3703,7 @@ Retrieval END 6+ EDU 7+
 
 1D CASH BENEFITS 1 Cr20000 INT +1 2 Cr20000 EDU +1 3 Cr30000 Weapon 4 Cr30000 Two Ship Shares 5 Cr50000 SOC +1 6 Cr50000 Two Ship Shares 7 Cr75000 Free Trader
 
-1D MISHAP 1 Severely injured (this is the same as a result of 2 on the Injury table). Alternatively, roll twice on the Injury table and take the lower result. 2 You find an Ancients artefact but a disaster in recovering it leaves several injured and others blame you, forcing you to leave this career. Roll on the Injury table twice, taking the highest result and gain an Enemy. 3 An expedition goes wrong, leaving you stranded on a low-tech planet. Gain Streetwise 1 or Persuasion 1. By the time you find your way home, your career has ended. 4 You find yourself involved in a cover-up involving the Imperial Scouts and ADRAT, and you are made the scapegoat. You salvage what you can of reputation (leave the career but retain this term’s Benefit roll) or start from scratch (lose all Benefit rolls from this career but you do not have to leave). 5 Your ship is damaged and you have to make your way home as best you can. Gain 1D Contacts and D3 Enemies. 6 Injured. Roll on the Injury table.
+1D MISHAP 1 Severely injured (this is the same as a result of 2 on the Injury table). Alternatively, roll twice on the Injury table and take the lower result. 2 You find an Ancients artefact but a disaster in recovering it leaves several injured and others blame you, forcing you to leave this career. Roll on the Injury table twice, taking the highest result and gain an Enemy. 3 An expedition goes wrong, leaving you stranded on a low-tech planet. Gain Streetwise 1 or Persuasion 1. By the time you find your way home, your career has ended. 4 You find yourself involved in a cover-up involving the Imperial Scouts and ADRAT, and you are made the scapegoat. You salvage what you can of reputation (leave the career but retain this term's Benefit roll) or start from scratch (lose all Benefit rolls from this career but you do not have to leave). 5 Your ship is damaged and you have to make your way home as best you can. Gain 1D Contacts and D3 Enemies. 6 Injured. Roll on the Injury table.
 
 This career embraces your Ancients heritage by training upcoming youth, trading Geonee technology to others or looking for artefacts left by your ancestors.
 
@@ -3725,7 +3725,7 @@ Ranks and bonuses
 
 Events
 
-RANK TECHNICAL SCHOOL AND ACADEMY SKILL OR BONUS 0 Teacher’s Aid —
+RANK TECHNICAL SCHOOL AND ACADEMY SKILL OR BONUS 0 Teacher's Aid —
 1 Teacher Science 1 2 — Electronics (computers) 1 3 Assistant Professor —
 4 Professor Science 2 5 — —
 6 Fellow Admin 1 RANK COMMERCIAL SERVICE SKILL OR BONUS 0 Crewman —
@@ -3759,9 +3759,9 @@ Ground Assault STR 6+ EDU 6+
 
 1D CASH BENEFITS 1 Cr2000 INT +1 2 Cr5000 EDU +1 3 Cr10000 Weapon 4 Cr10000 Armor 5 Cr20000 END +1 6 Cr25000 STR +1 7 Cr30000 SOC +1
 
-1D MISHAP 1 Severely injured (this is the same as a result of 2 on the Injury table). Alternatively, roll twice on the Injury table and take the lower result. 2 Your unit is slaughtered in a disastrous battle, for which you blame your commanding officer. Gain them as an Enemy as they have you removed from the service. 3 You are ordered to take part in a black ops mission that goes against your conscience. You refuse and are ejected from the service. 4 You quarrel with a superior officer. Gain the officer as a Rival as they drive you out of the service. 5 You accidently kill a fellow soldier in a friendly fire situation. Roll Advocate 8+. If you succeed you are not charged but forced out of the service. If you fail, you are charged and forced from the service. If you roll a 2, you must take the Prisoner career for your next term. Regardless of the result, gain one of the dead soldier’s relatives as an enemy. 6 You are wounded in the line of duty. Roll on the Injury table.
+1D MISHAP 1 Severely injured (this is the same as a result of 2 on the Injury table). Alternatively, roll twice on the Injury table and take the lower result. 2 Your unit is slaughtered in a disastrous battle, for which you blame your commanding officer. Gain them as an Enemy as they have you removed from the service. 3 You are ordered to take part in a black ops mission that goes against your conscience. You refuse and are ejected from the service. 4 You quarrel with a superior officer. Gain the officer as a Rival as they drive you out of the service. 5 You accidently kill a fellow soldier in a friendly fire situation. Roll Advocate 8+. If you succeed you are not charged but forced out of the service. If you fail, you are charged and forced from the service. If you roll a 2, you must take the Prisoner career for your next term. Regardless of the result, gain one of the dead soldier's relatives as an enemy. 6 You are wounded in the line of duty. Roll on the Injury table.
 
-Members of the elite Geonee armed fighting forces. Soldiers who deal with planetary surface actions, battles and campaigns, or act as ship’s troops in the Geonee Self Defence Navy.
+Members of the elite Geonee armed fighting forces. Soldiers who deal with planetary surface actions, battles and campaigns, or act as ship's troops in the Geonee Self Defence Navy.
 
 Qualification: END 6+
 DM-1 for every previous career Commission: EDU 8+
@@ -3805,7 +3805,7 @@ RANK ENLISTED SKILL OR BONUS 0 Ta n Gun Combat 1 1 Pantan —
 5 Raltar —
 6 Jeetar SOC 10 or SOC +1, whichever is higher
 
-2D EVENT 2 Disaster! Roll on the Mishap table but you are not ejected from this career. 3 You garrison one of the major military bases that has access to a wide range of recreational facilities. Gain one of Carouse, Gambler, Streetwise or Survival. 4 You are stationed at a boring billet and take up gambling to pass the time. Roll Gamble 8+. If you succeed, gain D3 additional Benefit rolls this term. If you fail, lose your Benefit roll for this term. In either case, gain one level in Gambler. 5 You are caught between two fighting units. If you choose to stand your ground and fight your way roll Gun Combat 8+. If you succeed, gain one of Drive, Gun Combat or Heavy Weapons. If you fail, roll on the Injury table. 6 Your commanding officer selects you for advanced training. Roll EDU 8+ to gain one of Admin 1, Advocate 1, Electronics 1, Engineer 1 or Mechanic 1. 7 Life Event. Roll on the Life Events table. 8 You lead a surgical strike of great importance and your judgement is commended. Gain one level of Leadership, Tactics (military) or DM+4 on your next advancement roll. 9 You discover your superior officer is involved in criminal activities. If you choose to cover for them, gain them as an Ally. If you wish to turn them in, roll Advocate 8+. If you succeed you are commended for you actions and automatically advance or gain a commission. If you fail, you cannot roll for advancement or commission this term. In either case, you gain the officer as an Enemy. 10 You spend time acting as your commanding officer’s executive assistant. Roll EDU 6+ to gain Admin 1. 11 You are challenged to a test of skill by a rival. If you refuse, lose SOC -1. Accept and roll your best skill 8+. If you fail, lose all Benefit rolls from this term. If you succeed, gain DM+2 to your next advancement roll. 12 You come up with an innovative tactic during an exercise that proves to be exceptionally effective. You are either promoted or automatically commissioned to officer rank.
+2D EVENT 2 Disaster! Roll on the Mishap table but you are not ejected from this career. 3 You garrison one of the major military bases that has access to a wide range of recreational facilities. Gain one of Carouse, Gambler, Streetwise or Survival. 4 You are stationed at a boring billet and take up gambling to pass the time. Roll Gamble 8+. If you succeed, gain D3 additional Benefit rolls this term. If you fail, lose your Benefit roll for this term. In either case, gain one level in Gambler. 5 You are caught between two fighting units. If you choose to stand your ground and fight your way roll Gun Combat 8+. If you succeed, gain one of Drive, Gun Combat or Heavy Weapons. If you fail, roll on the Injury table. 6 Your commanding officer selects you for advanced training. Roll EDU 8+ to gain one of Admin 1, Advocate 1, Electronics 1, Engineer 1 or Mechanic 1. 7 Life Event. Roll on the Life Events table. 8 You lead a surgical strike of great importance and your judgement is commended. Gain one level of Leadership, Tactics (military) or DM+4 on your next advancement roll. 9 You discover your superior officer is involved in criminal activities. If you choose to cover for them, gain them as an Ally. If you wish to turn them in, roll Advocate 8+. If you succeed you are commended for you actions and automatically advance or gain a commission. If you fail, you cannot roll for advancement or commission this term. In either case, you gain the officer as an Enemy. 10 You spend time acting as your commanding officer's executive assistant. Roll EDU 6+ to gain Admin 1. 11 You are challenged to a test of skill by a rival. If you refuse, lose SOC -1. Accept and roll your best skill 8+. If you fail, lose all Benefit rolls from this term. If you succeed, gain DM+2 to your next advancement roll. 12 You come up with an innovative tactic during an exercise that proves to be exceptionally effective. You are either promoted or automatically commissioned to officer rank.
 
 2
 
@@ -3821,7 +3821,7 @@ RANK ENLISTED SKILL OR BONUS 0 Kempar Vacc Suit 1 1 Kemtan Mechanic 1 2 Tandot �
 RANK OFFICER SKILL OR BONUS 1 Kantor Gun Combat (slug) 1 2 Kantorxat Leadership 1 3 Xat —
 4 Adorxat Tactics (naval) 1 5 To r EDU 10 or EDU +1, whichever is higher 6 Torxat SOC 10 or SOC +1, whichever is higher
 
-Members of the interstellar navy who patrol the space between the stars. The Geonee Self Defence Navy’s responsibilities include the protection of the Geonee Cultural Region from enemy powers and depredations of lawless elements in space.
+Members of the interstellar navy who patrol the space between the stars. The Geonee Self Defence Navy's responsibilities include the protection of the Geonee Cultural Region from enemy powers and depredations of lawless elements in space.
 
 Qualification: EDU 6+
 DM-1 for every previous career Commission: EDU 8+
@@ -3946,7 +3946,7 @@ CSC: Geonee
 Geonee are quite comfortable with the presence of robots and make significant use of them in their communities. Robots are usually assigned to tasks which Geonee find tedious or hazardous situations where a sophont risks injury or worse.
 
 Agrobot: The agrobot is a large, open-frame robot with little intelligence, yet it capably performs its duties –
-farming and tending the fruit and vegetables. Equipped with a heavy grav-module, the agrobot can travel anywhere on a world’s surface while carrying several hundred kilograms of supplies. A variety of peripheral devices enable it to plough, irrigate, plant, weed and harvest crops. An agrobot is able to clear an appropriate area and tend it by itself through the entire growing cycle.
+farming and tending the fruit and vegetables. Equipped with a heavy grav-module, the agrobot can travel anywhere on a world's surface while carrying several hundred kilograms of supplies. A variety of peripheral devices enable it to plough, irrigate, plant, weed and harvest crops. An agrobot is able to clear an appropriate area and tend it by itself through the entire growing cycle.
 
 Radio can be used by a home base to relay instructions and other information to far ranging agrobots, normally with a central computer that coordinates the actions of any agrobot assigned to it. Unless ordered otherwise, an agrobot only returns to its home base to recharge, carry supplies to or from the field, or seek repairs.
 
@@ -3958,7 +3958,7 @@ x100, Quick Charger, Transceiver 5000 km (enhanced), Visual Spectrum Sensor, Vod
 
 CSC: Geonee
 
-**Animal Care Robot:** The animal care robot is programmed to feed and tend a variety of creatures, regardless of the environment they live in. It is often found in research labs, zoos and even agricultural installations. The animal care robot is able to assist in tracking and recovering any creatures that escape, using its heightened vision and snub pistol. The pistol uses tranquiliser darts and the robot’s programming allows it to estimate the size and metabolism of the target to automatically adjust the dosage required.
+**Animal Care Robot:** The animal care robot is programmed to feed and tend a variety of creatures, regardless of the environment they live in. It is often found in research labs, zoos and even agricultural installations. The animal care robot is able to assist in tracking and recovering any creatures that escape, using its heightened vision and snub pistol. The pistol uses tranquiliser darts and the robot's programming allows it to estimate the size and metabolism of the target to automatically adjust the dosage required.
 
 Some facilities will have several of these robots, which communicate with a central computer. The computer can give special instructions for the treatment of unusual animals and the robots can inform it of animal escapees or intruders.
 
@@ -4024,7 +4024,7 @@ Options Auditory Sensor (broad spectrum), Drone Interface, Encryption Module, PR
 
 CSC: Geonee
 
-**Luggage Bot:** Luggage bots are a common sight in almost every starport. They are essentially a suitcase mounted on a simple robot chassis. Sensors and basic programming allow the robot to identify its owner and obey simple tasks such as ‘follow me’, ‘stay’, ‘open’ and so forth. Slightly more complex commands can be given if the robot is loaded with site floor plans, allowing it to deliver itself to a room or meet its owner somewhere.
+**Luggage Bot:** Luggage bots are a common sight in almost every starport. They are essentially a suitcase mounted on a simple robot chassis. Sensors and basic programming allow the robot to identify its owner and obey simple tasks such as 'follow me', 'stay', 'open' and so forth. Slightly more complex commands can be given if the robot is loaded with site floor plans, allowing it to deliver itself to a room or meet its owner somewhere.
 
 More expensive models come with other features, such as additional security or an ability to pack or unpack themselves.
 
@@ -4048,7 +4048,7 @@ CSC: Geonee
 
 The Geonoee have full access to all drugs and medical advances available within the Imperium. They have also made significant medical discoveries of their own.
 
-Focus Drug: Primarily used during interrogations or debriefs, focus drug sharpens the senses, allowing the user to notice even the smallest changes in facial expressions or body language, increasing the chance to detect lies. The drug is taken orally and provides DM+2 bonus to Perception checks. While under the effect of the drug, the imbiber’s pupils will dilate slightly. The benefits last approximately 10 minutes, after which the imbiber suffers DM-2 to Perception checks for one hour. Further doses of focus drag are ineffective if taken within this hour. The drag is normally only available to military or law enforcement but can be found on the black market, although the price will be significantly increased.
+Focus Drug: Primarily used during interrogations or debriefs, focus drug sharpens the senses, allowing the user to notice even the smallest changes in facial expressions or body language, increasing the chance to detect lies. The drug is taken orally and provides DM+2 bonus to Perception checks. While under the effect of the drug, the imbiber's pupils will dilate slightly. The benefits last approximately 10 minutes, after which the imbiber suffers DM-2 to Perception checks for one hour. Further doses of focus drag are ineffective if taken within this hour. The drag is normally only available to military or law enforcement but can be found on the black market, although the price will be significantly increased.
 
 Ite m TL Kg Cost Focus Drug 10 — Cr800
 
@@ -4083,7 +4083,7 @@ Weapon TL Range Damage Kg Cost Magazine Magazine Cost Traits Magrail Carbine 14 
 
 Weapon TL Range Damage Kg Cost Magazine Magazine Cost Traits CBR 14 500 5D+4 5 Cr10000 15 Cr2500 AP 8, Zero-G
 
-**Magrail Support Weapon:** Sometimes referred to as a ‘magrail minigun’, this weapon uses electromagnetic induction to launch clouds of ovoid projectiles from its multiple bores. Range is relatively short for a support weapon but the projectiles hit hard.
+**Magrail Support Weapon:** Sometimes referred to as a 'magrail minigun', this weapon uses electromagnetic induction to launch clouds of ovoid projectiles from its multiple bores. Range is relatively short for a support weapon but the projectiles hit hard.
 
 ENERGY RIFLES
 **Convergence Beam Rifle:** The CBR is an advanced laser weapon, which uses four beam emitters configured to strike a single point on a target. The four beams are calibrated to strike in the same square centimeter of the target, each beam a nanosecond after the last.
@@ -4092,7 +4092,7 @@ CSC: Geonee
 
 ### VEHICLE WEAPONS
 
-Gravitic Cannon: This cannon uses gravitics to launch non-ferromagnetic ammunition at targets, creating an unparalleled delivery system. The magazine is actually a ‘smart-matter bank’, which contains a dense and malleable polymer that forms ammunition of various masses on the fly. This allows the damage of the weapon to be finely adjusted from a minimum of 1D to the maximum of 2DD. The AP trait can also be adjusted downwards by altering the shape and mass distribution of the projectile.
+Gravitic Cannon: This cannon uses gravitics to launch non-ferromagnetic ammunition at targets, creating an unparalleled delivery system. The magazine is actually a 'smart-matter bank', which contains a dense and malleable polymer that forms ammunition of various masses on the fly. This allows the damage of the weapon to be finely adjusted from a minimum of 1D to the maximum of 2DD. The AP trait can also be adjusted downwards by altering the shape and mass distribution of the projectile.
 
 Weapon TL Range Damage Tons Cost Magazine Magazine Cost Traits Heavy Gravitic Cannon 14 10 1D-4DD 15 MCr5 80 Cr6000 AP 20
 
@@ -4215,7 +4215,7 @@ Library — —
 Intellect — —
 Cargo 0.15 —
 
-Boarding pods are a popular feature on Geonee military ships. They consist of a small hull with powerful maneuver drives to deliver a payload of up to 12 marines as quickly as possible. Neither armed nor armored, Imperial marines have taken to calling boarding pods ‘fish barrels’, in reference to a Solomani saying regarding easy targets. Outfitted with acceleration couches, seating can be folded away to provide enough room to carry 10 Geonee
+Boarding pods are a popular feature on Geonee military ships. They consist of a small hull with powerful maneuver drives to deliver a payload of up to 12 marines as quickly as possible. Neither armed nor armored, Imperial marines have taken to calling boarding pods 'fish barrels', in reference to a Solomani saying regarding easy targets. Outfitted with acceleration couches, seating can be folded away to provide enough room to carry 10 Geonee
 
 Crew Pilot
 
@@ -4600,7 +4600,7 @@ After a few initial missteps, one of which almost destroyed the natural ecology 
 
 While scientists at GenAssist were hard at work making physiological modification to Terran livestock, agricultural crops and even humans, a splinter group within the organization began to look at other possibilities. Over the next several decades, under the guidance of Dr Francisco Montes and, later, Dr Victor Haerinck, modifications were made to the brains of several Terran life forms such as cetaceans, pachyderms, ursines and canines. By far, the most successful improvements were made to various cetacean species.
 
-Early in their research, they abandoned work with the species Orinus orca which, although progressing towards true intelligence very rapidly, was deemed far too large to be easily transported off world. Although some fought the decision, GenAssist directors held fast; the firm’s charter specified work was to be aimed at the promotion of offworld colonization.
+Early in their research, they abandoned work with the species Orinus orca which, although progressing towards true intelligence very rapidly, was deemed far too large to be easily transported off world. Although some fought the decision, GenAssist directors held fast; the firm's charter specified work was to be aimed at the promotion of offworld colonization.
 
 One-by-one, other programs fell behind in progress and were dropped from the project. In the end, only the species Tursiops truncates was left. With the full attention of the GenAssist Sophontology
 
@@ -4646,11 +4646,11 @@ Whiteside Dolphins have the same career options as their bottlenose cousins as d
 
 Dolphins have a form of sonar known as echolocation, which locates objects by producing sounds and listening for echoes. A broadband burst pulse of clicking sounds is produced in a focused beam in front of the Dolphin and when the clicking sounds hit an object in the water, they bounce off and come back to the Dolphin as echoes. Echolocation tells the Dolphin the shape, size, speed, distance and location of the object. They can hear the echoes through their ears but most sound waves are transmitted to the inner ear through the lower jaw. As the object of interest is approached, the echo becomes booming and the Dolphin adjusts by decreasing the intensity of the emitted sounds. The interclick interval also decreases as the Dolphin nears the target, as they wait for each
 
-click’s echo to return before clicking again. Dolphins are also able to extract shape information, suggesting they are able to form an ‘echoic image’ or sound picture of their targets.
+click's echo to return before clicking again. Dolphins are also able to extract shape information, suggesting they are able to form an 'echoic image' or sound picture of their targets.
 
-Around the blowhole and rostrum is a structure known as a ‘melon’. A bioacoustic component, the melon provides a means of focusing sounds used in echolocation as well as creating a similarity between the characteristics of its tissue and surrounding water so acoustic energy can flow out of the head and into the environment with the least amount of energy loss.
+Around the blowhole and rostrum is a structure known as a 'melon'. A bioacoustic component, the melon provides a means of focusing sounds used in echolocation as well as creating a similarity between the characteristics of its tissue and surrounding water so acoustic energy can flow out of the head and into the environment with the least amount of energy loss.
 
-Dolphins have acute vision both in and out of the water, with eyes on the side of the head. They have a double split pupil, allowing for similar visual acuity in air and water, and the eye is adapted to mitigate varying light intensities. In air, the lens and cornea of the eye correct for refraction of light caused by transition from aquatic to aerial vision. Without this adaptation, Dolphins would be near-sighted in air. They see somewhat better in the dark than humans, having a well-developed tapetum lacidum , which reflects light through the retina a second time to allow low light vision. Due to this adaptation, a Dolphin’s eyes glow in the dark.
+Dolphins have acute vision both in and out of the water, with eyes on the side of the head. They have a double split pupil, allowing for similar visual acuity in air and water, and the eye is adapted to mitigate varying light intensities. In air, the lens and cornea of the eye correct for refraction of light caused by transition from aquatic to aerial vision. Without this adaptation, Dolphins would be near-sighted in air. They see somewhat better in the dark than humans, having a well-developed tapetum lacidum , which reflects light through the retina a second time to allow low light vision. Due to this adaptation, a Dolphin's eyes glow in the dark.
 
 Their skin is sensitive to vibrations and concentrated nerve endings around the eyes, blowhole, genitals and rostrum lead these areas to be more sensitive to vibrations than elsewhere on their body. Dolphins have a limited capacity to taste, only being able to detect flavors of sweet, bitter, sour and salty. Additionally, they have no sense of smell.
 
@@ -4681,7 +4681,7 @@ exactly the leaders of a particular clan, although their opinion is respected an
 **CLANS AND PODS**
 Clans are best thought of by humans as a city or town of Dolphins, consisting of as few as 100 individuals or as many as 100,000. Clans interact with each other and members of one clan are free to join another as they choose, much as humans are able to move between cities or towns. Clans are associated with a territory such as a bay, estuary or other coastal feature. The term territory is somewhat misleading however, as Dolphins in no way feel they own this area. The term more accurately applies to the territory as it is able to support the number of Dolphins living within it and territories can grow and shrink with the size of the clan inhabiting it.
 
-Clans are broken up into pods, which normally consist of two to 30 individuals, although superpods are not unheard of and can have over 1,000 members. Pods provide various functions within the clan and fall into four main types; nursery pods juvenile pods, bachelor pods, and elder pods. These groupings are open structures and Dolphins will often freely move between pods in their vicinity with no permanent ‘membership’ in any. While pods have no rigid structure, there is a social order amongst the members; the Dolphin with the highest SOC holding perceived influence over those with lower SOC.
+Clans are broken up into pods, which normally consist of two to 30 individuals, although superpods are not unheard of and can have over 1,000 members. Pods provide various functions within the clan and fall into four main types; nursery pods juvenile pods, bachelor pods, and elder pods. These groupings are open structures and Dolphins will often freely move between pods in their vicinity with no permanent 'membership' in any. While pods have no rigid structure, there is a social order amongst the members; the Dolphin with the highest SOC holding perceived influence over those with lower SOC.
 
 Nursery pods consist of mothers, their still nursing calves and pregnant females, with a number of midwives who assist with the birthing and caring of young. Mothers and young will remain in the pod until the calves no longer need to be under direct care, normally at the age of three or four. Midwives remain as members until they are too old or infirm to be a useful member.
 
@@ -4731,7 +4731,7 @@ Intellectual jokes told by Dolphins tend to fall flat amongst other races, who c
 Dolphins are a naturally gregarious race. They find comfort and pleasure in the company of other Dolphins and also enjoy the company of many other races but are particularly fond of humans. It is not unusual to find Dolphins forming strong bonds with humans and wanting to spend as much time with them as possible. These relations can also move into the realm of intimacy and while Dolphins are not averse to forming strong intimate bonds with other humans, the majority of humans find this distasteful.
 
 This sense of gregariousness extends to the Dolphin love of play, which is an important part of their social interaction. Play helps form bonds with other Dolphins and this extends to other races; nothing will encourage friendship with a Dolphin more than an invitation to play a game. They find joy in games as simple as catch or tag, to impromptu sessions of
-‘keeping off’, all the way to complex team sports and tabletop games. Game playing is an important form of stress release for Dolphins.
+'keeping off', all the way to complex team sports and tabletop games. Game playing is an important form of stress release for Dolphins.
 
 Despite this general gregariousness, there are several races that Dolphins do not like to associate with. They generally detest Gurungan – and the feeling is mutual – and do not get on at all well with Luriani where, again, this dislike is reciprocated. Dolphins tend to avoid and distrust Orca.
 
@@ -4739,24 +4739,24 @@ When Dolphins are forced to be alone, they often fall into a depressive state an
 
 ### SUCCOURING
 
-Dolphins have a natural instinctive reflex to go to the aid of injured or endangered cetaceans. Known as ‘rescue fever’ or ‘succour syndrome’, this natural reaction to the distress calls of another Dolphin can be wholly overpowering. Although a Dolphin may be able to wilfully escape the effects of a distress call, it is not easy. When a Dolphin succumbs to this, they effectively revert to a pre-sentient state and race to the side of the cetacean in need.
+Dolphins have a natural instinctive reflex to go to the aid of injured or endangered cetaceans. Known as 'rescue fever' or 'succour syndrome', this natural reaction to the distress calls of another Dolphin can be wholly overpowering. Although a Dolphin may be able to wilfully escape the effects of a distress call, it is not easy. When a Dolphin succumbs to this, they effectively revert to a pre-sentient state and race to the side of the cetacean in need.
 
 If a Dolphin manages to avoid the syndrome, they may act in a normal manner and take whatever steps they wish to secure the rescue of their endangered peer (or abandon them, if it seems the best thing to do).
 
 ### BELIEFS
 
-Dolphins believe in total equality – everything is shared with all and each individual is entitled to the full benefits of all the clan’s assets. For example, Dolphins are confused and even appalled at the importance other races place on ownership. Even the concept of becoming attached to an object often eludes them. If a Dolphin needs a tool or item and it is not being used by another, they will quite happily take it and return it when finished.
+Dolphins believe in total equality – everything is shared with all and each individual is entitled to the full benefits of all the clan's assets. For example, Dolphins are confused and even appalled at the importance other races place on ownership. Even the concept of becoming attached to an object often eludes them. If a Dolphin needs a tool or item and it is not being used by another, they will quite happily take it and return it when finished.
 
-This attitude can cause some conflict with other races who see the Dolphins’ lackadaisical approach as akin to stealing. For example, if a Dolphin sees a piece of unattended jewellery they like and wish to wear it to an event, they will take it for their own use and return it afterwards. If they are then confronted with the apparent ‘theft’, they will openly admit to their action, not really understanding what all the fuss is about.
+This attitude can cause some conflict with other races who see the Dolphins' lackadaisical approach as akin to stealing. For example, if a Dolphin sees a piece of unattended jewellery they like and wish to wear it to an event, they will take it for their own use and return it afterwards. If they are then confronted with the apparent 'theft', they will openly admit to their action, not really understanding what all the fuss is about.
 
-Dolphins who spend time among races who value material ownership learn to understand that others do not have the same concepts of equality and will at least ask to borrow an item before taking it. Dolphins often see this a game where they must play ‘fitting in’. Even so, it is not unusual for a Dolphin to combine personal generosity with a rather cavalier attitude towards their friends and co-worker’s property.
+Dolphins who spend time among races who value material ownership learn to understand that others do not have the same concepts of equality and will at least ask to borrow an item before taking it. Dolphins often see this a game where they must play 'fitting in'. Even so, it is not unusual for a Dolphin to combine personal generosity with a rather cavalier attitude towards their friends and co-worker's property.
 
 The concept of money and trade is also completely foreign to Dolphins. They just do not understand the point of giving or taking something completely useless (such as money) in exchange for a desired item or service. Although some Dolphins who spend a lot of time among other races develop an understanding of the value money holds for others, to them Credits have no value whatsoever.
 
-The concept of owning land is particularly confusing to Dolphins. As a marine lifeform, the medium in which they live is constantly moving, so they do not understand how anyone can own anything so transitory. They point out that ‘the sea is always in motion, so how can you claim a portion of it?’ In the same way, Dolphins will point out the land is also in motion (although far more slowly). Dolphin have a concept of territory, although this is based on resource management of an area and has nothing to do with possession or ownership.
+The concept of owning land is particularly confusing to Dolphins. As a marine lifeform, the medium in which they live is constantly moving, so they do not understand how anyone can own anything so transitory. They point out that 'the sea is always in motion, so how can you claim a portion of it?' In the same way, Dolphins will point out the land is also in motion (although far more slowly). Dolphin have a concept of territory, although this is based on resource management of an area and has nothing to do with possession or ownership.
 
 Dolphins well integrated into other societies still only have a theoretical understanding of concepts like
-‘ownership’ and ‘borders’. Trying to explain human views on such concepts is both irritating (to human and Dolphin alike) and futile.
+'ownership' and 'borders'. Trying to explain human views on such concepts is both irritating (to human and Dolphin alike) and futile.
 
 They believe strongly in balancing their lives with the environment and the health of the environment reflects on the health of those living within it. Dolphins support the preservation, restoration and improvement of the natural environment and in control of pollution and protection of plant and animal diversity. They will only take from nature what they need to survive and will not place undue stress on the environment with overpopulation. As a result of these beliefs, Dolphins are quite active in environmental movements.
 
@@ -4773,7 +4773,7 @@ Like others, Dolphins follow a number of different religions, both of their own 
 
 Eee-Squee-Kikik has no central organization or hierarchy. Each clan follows the religion according to its own tradition and as suggested by its shaman.
 
-The followers of Eee-Squee-Kikik tend to favor particular spirits over others, feeling certain spirits have greater impact on their world. Spirits such as Ocean, Sun, Moon and Earth are particularly revered. Ocean and Moon are seen as intertwined spirits, siblings or lovers who are forever separated and yet forever struggling to come together again. Earth is revered as the spirit on which Ocean is supported, working together to give life and support to all other spirits, yet can also be a dangerous spirit, trapping Dolphins that have beached themselves and leave them at the mercy of Sun. Sun is seen as a dangerous spirit, jealous of Ocean and Moon’s relationship and forever keeping them apart. Sun is also seen as a retribution spirit, the one which dries out the skin of Dolphins who have been beached, killing them slowly and painfully. The exact relationships between these spirits varies between groups of Dolphin and differences are common.
+The followers of Eee-Squee-Kikik tend to favor particular spirits over others, feeling certain spirits have greater impact on their world. Spirits such as Ocean, Sun, Moon and Earth are particularly revered. Ocean and Moon are seen as intertwined spirits, siblings or lovers who are forever separated and yet forever struggling to come together again. Earth is revered as the spirit on which Ocean is supported, working together to give life and support to all other spirits, yet can also be a dangerous spirit, trapping Dolphins that have beached themselves and leave them at the mercy of Sun. Sun is seen as a dangerous spirit, jealous of Ocean and Moon's relationship and forever keeping them apart. Sun is also seen as a retribution spirit, the one which dries out the skin of Dolphins who have been beached, killing them slowly and painfully. The exact relationships between these spirits varies between groups of Dolphin and differences are common.
 
 The spirits of animals are also acknowledged. Before a hunt, spirits are asked to be generous and to attract the prey they watch over. After the hunt the spirit is thanked for the lives taken. Likewise, the spirits of animals that hunt or injure Dolphins are also acknowledged and appeased to avoid confrontation.
 
@@ -4800,15 +4800,15 @@ internal cavities, textures invisible to the naked eye and hollows which cause s
 
 Dolphins have a particular love for theatre, both of their own and other races' creation. Dolphin theatre tends to be of the comedic variety and will have a moral lesson intertwined into the play. Traditionally a protagonist is featured suffering a number of humorous misadventures as they ignore tradition, go against nature or ignore the wise words of elders. Dolphins do not remain quiet to enjoy plays but like to join in, catcalling and heckling the performers, all in good humor. While humans may find these plays somewhat contrived and naive, Dolphins take great pride in them.
 
-They have also developed an impressive appreciation for the works of the Terran playwright, William Shakespeare, finding great joy in the perceived follies of the protagonists. All of Shakespeare’s works have been translated into the Dolphin language and renditions of these plays draw huge audiences of both Dolphin and human alike, especially those put on by renowned troupes.
+They have also developed an impressive appreciation for the works of the Terran playwright, William Shakespeare, finding great joy in the perceived follies of the protagonists. All of Shakespeare's works have been translated into the Dolphin language and renditions of these plays draw huge audiences of both Dolphin and human alike, especially those put on by renowned troupes.
 
-Dolphins also enjoy watching human performances of Shakespeare’s classics but other viewers and the actors themselves can find the Dolphin viewing experience to be rather distracting.
+Dolphins also enjoy watching human performances of Shakespeare's classics but other viewers and the actors themselves can find the Dolphin viewing experience to be rather distracting.
 
 Just as Dolphins enjoy comedy in their theatre, they enjoy almost all comedy in general, regardless of its source. They tend to prefer stand-up or slapstick style humor; stand-up for its apparent spontaneity and slapstick for its exaggerated physical activity and inept use of props.
 
 Song and poetry hold a significant place in Dolphin culture. Dolphins sing for comfort, joy, to pass on information, record their history, entreat spirits to provide a good hunt, thank their prey for their sacrifice and communicate over long distances, among other things. All Dolphins compose their own songs and poems, although some are better at it than others. Song holds a much deeper place in the Dolphin heart than just a source of entertainment but as the very core of their existence and who they are as a people.
 
-Dolphins have only maintained their history orally, passed on through the use of both poetry and song. Important lessons are taught to young Dolphins through song to assist them in memorising the teachings. All Dolphin parents are expected to pass on the most common ‘learning songs’ to their young but a dedicated profession has arisen to maintain the oral history and traditions of the Dolphin race; the Historian-poet.
+Dolphins have only maintained their history orally, passed on through the use of both poetry and song. Important lessons are taught to young Dolphins through song to assist them in memorising the teachings. All Dolphin parents are expected to pass on the most common 'learning songs' to their young but a dedicated profession has arisen to maintain the oral history and traditions of the Dolphin race; the Historian-poet.
 
 HISTORIAN-POETS Dolphins have a long and rich history, which is recorded in song and is remarkable as it records events that occurred before Dolphins achieved full sophoncy. Human historians have made incredible discoveries through the study of these history songs;
 there is evidence that Dolphin historical records extend back as far as the Ancients' first visit to Terra but songs from that far back are so intertwined with mythology and folklore that it is difficult to be certain.
@@ -4817,7 +4817,7 @@ Historian-poets hold a unique position within clans. Seen as an intermediary bet
 
 The training of these remarkable individuals begins at an early age when a talent for singing and memory is noted. Once identified, the young Dolphin is assigned to a Historian-poet master who undertakes their assessment and training for the role as a candidate. Learning the traditional basics of composition, melody and song, the apprentice is also taught the basics of poetry and how, for Dolphins, history, song and poetry are intertwined and shape their outlook and guides everyday lives.
 
-If the Historian-poet master feels the candidate has potential, they will take the young Dolphin as an apprentice and their training begins in earnest. The apprentice’s education continues until the teacher has imparted all their knowledge, taking approximately eight years. Once their training is complete, the Dolphin is considered a Historian-poet in their own right. At this point, they are expected to travel from clan-to-clan, teaching history and philosophy to juvenile Dolphins and lending knowledge and wisdom to clans and pods as needed.
+If the Historian-poet master feels the candidate has potential, they will take the young Dolphin as an apprentice and their training begins in earnest. The apprentice's education continues until the teacher has imparted all their knowledge, taking approximately eight years. Once their training is complete, the Dolphin is considered a Historian-poet in their own right. At this point, they are expected to travel from clan-to-clan, teaching history and philosophy to juvenile Dolphins and lending knowledge and wisdom to clans and pods as needed.
 
 It is not unusual for Historian-poets to travel to clans on different worlds. This allows them to learn the local history of other clans and to incorporate it into the overall record of the Dolphin race.
 
@@ -4835,7 +4835,7 @@ Despite this, some clans have had to create businesses to deal with the needs of
 
 Dolphin businesses bear no real resemblance to similar human endeavors, as they have no internal hierarchy or structure humans understand. Employees tend to come and go as they will and business management seems to be handled as a consensus rather than being directed. Money made through business belongs to the clan as a whole and is spent on items the clan requires but cannot manufacture. Despite these obvious differences, Dolphin businesses tend to do well where they are established.
 
-Dolphins employ members of other races – normally humans but exceptions occur – to oversee their businesses’ financial concerns, especially on worlds where the maintaining of monetary accounts are mandated by law. Their lack of understanding of money and accounting makes it difficult for them to perform those tasks for themselves, exposing Dolphin businesses to risk of exploitation. Dolphins generally do not understand why they would be taken advantage of in this manner but are not naive and will vet individuals (or businesses) they hire to take on the financial concerns of their business closely.
+Dolphins employ members of other races – normally humans but exceptions occur – to oversee their businesses' financial concerns, especially on worlds where the maintaining of monetary accounts are mandated by law. Their lack of understanding of money and accounting makes it difficult for them to perform those tasks for themselves, exposing Dolphin businesses to risk of exploitation. Dolphins generally do not understand why they would be taken advantage of in this manner but are not naive and will vet individuals (or businesses) they hire to take on the financial concerns of their business closely.
 
 Dolphins often become employees of businesses owned by other races, where they are valued for their expertise and skills, tending to work for businesses that have similar values to their own regarding preservation of the environment. Many businesses hire Dolphins to provide environmental advice, such as mining companies seeking to avoid environmental damage or to repair environmental damage that has accrued through past practices.
 
@@ -4860,17 +4860,17 @@ Dolphins use a language known as Delphinese among themselves, composed of variou
 Due to the spread of Dolphins across Charted Space, Delphinese has evolved into a multitude of dialects. It can take a Dolphin some time to learn a new dialect and errors can be made during the adjustment process but Dolphins rarely find these to be offensive. In fact, errors are often seen as humorous, providing countless hours of amusement at the expense of the equally amused Dolphin who makes them.
 
 For communication with humans and other races, most Dolphins speak ordinary, if somewhat flowery, Anglic. Their voices are high-pitched and somewhat child-like and they tend to repeat clicking sounds
-(like ‘k’ or ‘t’) several times, making it sound like stuttering, and sounds made for letter ‘w’ tend to turn into high-pitched whistles or squeals.
+(like 'k' or 't') several times, making it sound like stuttering, and sounds made for letter 'w' tend to turn into high-pitched whistles or squeals.
 
 Dolphins are given a name at birth by their mother, traditionally a derivative of the name the mother was given when she was born. This tradition enables Dolphins to trace their genealogy back for hundreds of generations. Birth names have no direct Anglic translation, as they originate from when Dolphins were pre-sentient. This birth name is used until a Dolphin reaches adulthood at 14, at which point they take on their adult name.
 
-Adult names are either chosen by the Dolphin themselves or given to them by close companions. The adult name is always descriptive in nature, identifying something particular to the Dolphin in question. A name can refer to a Dolphin’s colouration, habits or preferences, such as Dawn Wave Jumper, Dances Under Moon, Skin Like Glacier, Scar Under Eye and Laughs at Elders.
+Adult names are either chosen by the Dolphin themselves or given to them by close companions. The adult name is always descriptive in nature, identifying something particular to the Dolphin in question. A name can refer to a Dolphin's colouration, habits or preferences, such as Dawn Wave Jumper, Dances Under Moon, Skin Like Glacier, Scar Under Eye and Laughs at Elders.
 
 Once a Dolphin has chosen or accepted an adult name, their birth name is never used to refer to them again.
 
-Dolphins will use their name when greeting others in a traditional manner; this is important as Dolphin features are rarely as individual as those of humans, so a formal announcement of who they are avoids any confusion. When translated into Anglic, the greeting is quite simply ‘It is I, Bitten Fluke’, for example. Dolphins will announce themselves in the same way to other races.
+Dolphins will use their name when greeting others in a traditional manner; this is important as Dolphin features are rarely as individual as those of humans, so a formal announcement of who they are avoids any confusion. When translated into Anglic, the greeting is quite simply 'It is I, Bitten Fluke', for example. Dolphins will announce themselves in the same way to other races.
 
-To humans, Dolphin names sound like whistles and clicks, such as Teree’ee or Kikilln. The syllables can extend into the ultrasonic, causing humans to miss the complete name. Dolphins are happy with humans and other races who use the Anglic interpretation of their name but do appreciate an attempt for their name to be pronounced in Delphinese, if possible.
+To humans, Dolphin names sound like whistles and clicks, such as Teree'ee or Kikilln. The syllables can extend into the ultrasonic, causing humans to miss the complete name. Dolphins are happy with humans and other races who use the Anglic interpretation of their name but do appreciate an attempt for their name to be pronounced in Delphinese, if possible.
 
 NON-VERBAL COMMUNICATION Before sophoncy was achieved, humans communicated with Dolphins using a simplified combination of sign language and verbalization. This language is largely lost among humans but Dolphins (especially Historian-poets) remember it. It was mainly a single-direction language, from human to Dolphin, and although understanding would be imparted by the Dolphin with head movements or flipper gestures but they could impart nothing even remotely complex back to humans.
 
@@ -4889,7 +4889,7 @@ Dolphin Travellers all possess the following traits.
 
 **Deep Diver (300m):** Dolphins can dive deep underwater, to a depth of 300 meters without risk and can hold their breath for up to 15 minutes.
 
-**Echolocation (100m):** Dolphins use a highly sensitive echolocation sense to navigate their environment, effectively allowing them to ‘see’ underwater or in complete darkness to a range of 100 meters.
+**Echolocation (100m):** Dolphins use a highly sensitive echolocation sense to navigate their environment, effectively allowing them to 'see' underwater or in complete darkness to a range of 100 meters.
 
 **Succour Syndrome:** When Dolphins hear the distress calls of other cetaceans they risk suffering from succour syndrome. If they fail a Very Difficult (12+) Gun Combat or Melee check (1D seconds, INT) both their INT and EDU temporarily drop to 0 and they must immediately swim as fast as possible to the side of the distressed cetacean.
 
@@ -4907,7 +4907,7 @@ Dolphin who live closely with humans in societies at TL7+ have the same access t
 
 Dolphin careers, in general, are used as described in the Traveller Core Rulebook. However, there are exceptions:
 •  There are two Dolphin-specific careers: Dolphin Citizen and Dolphin Military. A Dolphin may attempt to qualify for careers described in the Traveller Core Rulebook but only after first acquiring the Vacc Suit skill.
-•  Dolphin Rogues are usually the last survivors of a family that has been wiped out, an outcast, or are acting as terrorists defending the heritage of their Solomani ‘creators’ behind Imperial lines.
+•  Dolphin Rogues are usually the last survivors of a family that has been wiped out, an outcast, or are acting as terrorists defending the heritage of their Solomani 'creators' behind Imperial lines.
 •  Dolphins cannot become Drifters. Instead, the nomad assignment for Dolphin Civilian replaces Drifter for Dolphins. A Dolphin may automatically enlist as a Dolphin Civilian nomad.
 •  Dolphins are unable to become Merchants since the concept of trade and commerce is unfathomable to them or Nobles since they believe in the absolute equality of all.
 •  Dolphins enjoy the freedom of space and are naturally curious, finding careers as Scholars and Scouts to be exceptionally rewarding. Dolphins gain DM+1 when attempting to enlist in these careers.
@@ -4921,7 +4921,7 @@ Dolphins are as capable as humans in psychic potential, although it is rarely te
 
 Dolphin with a waldo set can perform just about any skill a human can. Those without are limited to skills that do not require hands or legs. A few other special considerations apply to Dolphins.
 
-**Athletics:** Dolphins use Athletics (dexterity) only for high jumping or long jumping if it begins in the water. Sprinting means fast swimming. Use the normal rules except that a sprinting Dolphin can cover 72 + twice their Effect meters with every check. A Dolphin may not climb. Athletics (dexterity) is also used for catching things with a Dolphin’s teeth or rostum. Use Athletics (endurance)
+**Athletics:** Dolphins use Athletics (dexterity) only for high jumping or long jumping if it begins in the water. Sprinting means fast swimming. Use the normal rules except that a sprinting Dolphin can cover 72 + twice their Effect meters with every check. A Dolphin may not climb. Athletics (dexterity) is also used for catching things with a Dolphin's teeth or rostum. Use Athletics (endurance)
 for long distance swimming and Athletics (strength) for tasks such as swatting with a tail or ramming with a rostrum, although actual attacks use Melee (natural).
 
 **Vacc Suit:** This is a very common skill among civilised Dolphins even if they do not serve in space. Dolphins may use their Vacc Suit skill to offset any negative DM inflicted by waldos but may not increase the DM above +0.
@@ -4937,7 +4937,7 @@ When in careers other than Dolphin Civilian and Dolphin Military, within the Sol
 
 ### MUSTERING OUT
 
-When rolling on the Benefits table, Referees must keep in mind that items received do not belong to the specific Traveller but rather are considered to be in their possession. Although the difference may seem trivial, it is actually very important. Consider the following: A Dolphin Traveller receives a starship as a mustering out benefit and, after using it for some time, the Traveller encounters a pod of Dolphins, which have been stranded on a world and now lack the resources to return to their home. It would not be out of character for the Dolphin Traveller to turn the ship over to them if the pods’ need for it seems greater than their own.
+When rolling on the Benefits table, Referees must keep in mind that items received do not belong to the specific Traveller but rather are considered to be in their possession. Although the difference may seem trivial, it is actually very important. Consider the following: A Dolphin Traveller receives a starship as a mustering out benefit and, after using it for some time, the Traveller encounters a pod of Dolphins, which have been stranded on a world and now lack the resources to return to their home. It would not be out of character for the Dolphin Traveller to turn the ship over to them if the pods' need for it seems greater than their own.
 
 Any Benefit rolls from careers other than Dolphin Citizen or Dolphin Military that result in Armor or Weapon may instead be taken as a travel suit (without waldo). Additional results of the same type can be taken as a waldo or additional travel suits. If a Dolphin already possessing a travel suit and waldo receives an Armor or Weapon result, they may instead raise their Vacc Suit skill by one level.
 
@@ -4981,7 +4981,7 @@ DM-1 for every previous career.
 ### ASSIGNMENTS
 
 Choose one of the following:
-Liaison: You are acting as an intermediary between human and Dolphin cultures or as a guide to humans working underwater. Nomad: You are living the ‘barbarian’ life of an ancestral feral Dolphin, eschewing most technology and interaction with other races. Historian-poet: You are a keeper of Dolphin history and a student of Dolphin philosophy.
+Liaison: You are acting as an intermediary between human and Dolphin cultures or as a guide to humans working underwater. Nomad: You are living the 'barbarian' life of an ancestral feral Dolphin, eschewing most technology and interaction with other races. Historian-poet: You are a keeper of Dolphin history and a student of Dolphin philosophy.
 
 1
 
@@ -5004,7 +5004,7 @@ RANK HISTORIAN-POET SKILL OR BONUS 0 Candidate Art (performer) 1 1 Apprentice Sc
 4 — SOC 8 or SOC +1 5 — —
 6 Master SOC 10 or SOC +1
 
-2D EVENT 2 Disaster! Roll on the Mishap table but you are not ejected from this career. 3 Rivalries between another race and Dolphins over your world’s ocean resources lead to conflict. Do you choose violence or diplomacy? If you chose diplomacy roll Advocate or Diplomat 8+. Success means your faction was vindicated and you gain DM+2 on your next advancement roll;
+2D EVENT 2 Disaster! Roll on the Mishap table but you are not ejected from this career. 3 Rivalries between another race and Dolphins over your world's ocean resources lead to conflict. Do you choose violence or diplomacy? If you chose diplomacy roll Advocate or Diplomat 8+. Success means your faction was vindicated and you gain DM+2 on your next advancement roll;
 failure means a loss of one Benefit roll. If you chose violence roll Explosives, Gun Combat or Tactics 8+. Failure results in DM-2 on your next advancement roll and you must roll on the Injury Table. Whichever path you chose, raise Leadership or the skill you rolled on by one level. 4 You volunteer for a research project to test new waldo equipment or cybernetics to improve the lives of other Dolphins. Gain a Contact in the research field and roll EDU 7+ to gain Science (cybernetics) 1. 5 You have a chance to travel offworld on business and spend a long time in space. Increase your choice of either Athletics (dexterity), Electronics (comms) or Electronics (sensors) by 1 or gain Pilot 1. 6 You rescue a high-status swimmer who was lost at sea. Roll STR 7+; if successful gain a SOC 10+ sophont as an Ally. 7 Life Event. Roll on the Life Events table. 8 Spend an extensive period living out of water among humans. Increase Vacc Suit or Diplomat by 1. 9 Your companions are attacked by fierce sea creatures! Do you fight or flee? If you flee gain one of the survivors as an Enemy. If you stay and fight, roll Melee (natural) or Gun Combat 7+ to rescue them; if successful, gain one as an Ally; if you fail roll on the Injury table. 10 You are asked to volunteer for a dangerous mission to rescue people in a sinking vessel or underwater city. Roll Survival or END 8+. If successful you are granted DM+2 on your next advancement roll and gain an extra Benefit roll. If you fail, roll on the Injury table. 11 You discover a sunken vessel that contains valuable salvage. Gain one extra Benefit roll. 12 You rise to a position of responsibility. Your next advancement roll automatically succeeds.
 
 1
@@ -5025,7 +5025,7 @@ Historian-poet END 7+ STR 7+
 
 1D CASH BENEFITS 1 Cr1000 EDU +1 2 Cr2500 Walker Suit 3 Cr5000 Waldo 4 Cr5000 Weapon 5 Cr5000 Travel Suit 6 Cr10000 Combat Implant or END +1 7 Cr15000 SOC +1
 
-Both the Imperial Marines and Confederation Army maintain Dolphin Commando units and most planetary armies and Home Guards on worlds with a ‘wet navy’ and Dolphin populations have professional units open to Dolphins.
+Both the Imperial Marines and Confederation Army maintain Dolphin Commando units and most planetary armies and Home Guards on worlds with a 'wet navy' and Dolphin populations have professional units open to Dolphins.
 
 Qualification: EDU 6+
 DM-1 for every previous career Commission: SOC 8+
@@ -5061,9 +5061,9 @@ Mishaps
 
 Events
 
-1D MISHAP 1 Injured. Roll on the Injury table. 2 You encounter anti-Dolphin prejudice from the force you are working with. You resign in disgust. 3 Your unit is involved in a savage campaign against primitive indigenous aquatic aliens that troubles your conscience. If you refuse to participate you are ejected from this career. If you participate in the massacre you may ignore the Mishap and remain in the career but instead you gain an Enemy. They may be one of the few survivors or an embittered Dolphin ex-member of your unit who chose to leave. 4 An ambitious planetary operation goes badly wrong leaving you beached ashore without functional protective gear. Dehydration and skin damage requires lengthy recovery and loses END -2. 5 An investigation uncovers links between your unit’s commander and a radical faction. You are given a chance to denounce your commander. If you do so, remain in the career but instead gain one of his allies as an Enemy. 6 Injured. Roll on the Injury table.
+1D MISHAP 1 Injured. Roll on the Injury table. 2 You encounter anti-Dolphin prejudice from the force you are working with. You resign in disgust. 3 Your unit is involved in a savage campaign against primitive indigenous aquatic aliens that troubles your conscience. If you refuse to participate you are ejected from this career. If you participate in the massacre you may ignore the Mishap and remain in the career but instead you gain an Enemy. They may be one of the few survivors or an embittered Dolphin ex-member of your unit who chose to leave. 4 An ambitious planetary operation goes badly wrong leaving you beached ashore without functional protective gear. Dehydration and skin damage requires lengthy recovery and loses END -2. 5 An investigation uncovers links between your unit's commander and a radical faction. You are given a chance to denounce your commander. If you do so, remain in the career but instead gain one of his allies as an Enemy. 6 Injured. Roll on the Injury table.
 
-2D EVENT 2 Disaster! Roll on the Mishap table but you are not ejected from this career. 3 You perform well during a black ops commando mission. Gain DM+2 on your next advancement roll and a Contact in an elite military unit. 4 Receive special training in underwater mine disposal. Roll Vacc Suit 4+ to avoid injury; if successful increase Explosives by 1. If you fail roll on the Injury table. 5 Spend a lengthy period serving as an auxiliary aboard a spacecraft operating underwater, such as a system defence boat. Roll EDU 7+ to gain your choice of Pilot (small craft or spacecraft) 1 or Electronics (sensors) 1. 6 A brutal amphibious warfare campaign forces you to spend as much time fighting out of water as in. Roll Vacc Suit 7+; if successful, gain one level in Gun Combat, Leadership or Tactics (military). 7 Life Event! Roll on the Life Event table. 8 Participate in a major sea battle. Raise Vacc Suit, Melee or Gun Combat by 1 or gain Tactics (military) 1. 9 You are assigned to a joint mission with an intelligence agency to catch spies or insurgents operating near underwater base facilities. Gain an intelligence agent as a Contact and roll 7+ to gain 1 level in Recon or Stealth. 10 A mission goes badly wrong when a human leader disregards your advice because you are ‘just a Dolphin’ and then blames you for their mistake. If you accept this suffer DM-1 on your next advancement roll. If you protest, roll Advocate or SOC 8+; success means they are dismissed and you gain DM+1 to your next Advancement roll and gain 1 level in Leadership or Advocate. Failure results in DM-2 on your next advancement roll. 11 A senior officer takes an interest in your career. Either gain DM+2 on your next advancement roll and Admin 1 or Tactics (military) 1. 12 Display heroism in battle. Your next advancement roll is automatically successful.
+2D EVENT 2 Disaster! Roll on the Mishap table but you are not ejected from this career. 3 You perform well during a black ops commando mission. Gain DM+2 on your next advancement roll and a Contact in an elite military unit. 4 Receive special training in underwater mine disposal. Roll Vacc Suit 4+ to avoid injury; if successful increase Explosives by 1. If you fail roll on the Injury table. 5 Spend a lengthy period serving as an auxiliary aboard a spacecraft operating underwater, such as a system defence boat. Roll EDU 7+ to gain your choice of Pilot (small craft or spacecraft) 1 or Electronics (sensors) 1. 6 A brutal amphibious warfare campaign forces you to spend as much time fighting out of water as in. Roll Vacc Suit 7+; if successful, gain one level in Gun Combat, Leadership or Tactics (military). 7 Life Event! Roll on the Life Event table. 8 Participate in a major sea battle. Raise Vacc Suit, Melee or Gun Combat by 1 or gain Tactics (military) 1. 9 You are assigned to a joint mission with an intelligence agency to catch spies or insurgents operating near underwater base facilities. Gain an intelligence agent as a Contact and roll 7+ to gain 1 level in Recon or Stealth. 10 A mission goes badly wrong when a human leader disregards your advice because you are 'just a Dolphin' and then blames you for their mistake. If you accept this suffer DM-1 on your next advancement roll. If you protest, roll Advocate or SOC 8+; success means they are dismissed and you gain DM+1 to your next Advancement roll and gain 1 level in Leadership or Advocate. Failure results in DM-2 on your next advancement roll. 11 A senior officer takes an interest in your career. Either gain DM+2 on your next advancement roll and Admin 1 or Tactics (military) 1. 12 Display heroism in battle. Your next advancement roll is automatically successful.
 
 **RANK ENLISTED GUARDIAN SKILL OR BONUS**
 
@@ -5088,7 +5088,7 @@ Dolphin Travellers
 
 Due to their anatomy, Dolphins are unable to use many items designed for humans without penalty.
 
-Items which require hands or fingers cannot be used at all unless a Dolphin is equipped with waldos or cybernetic hands. Likewise, any equipment requiring legs or feet are impossible for Dolphins to use. A Dolphin may be able to use some equipment that requires fingers, like a keyboard, by holding a probe in its mouth or using its modified flippers, at the Referee’s discretion. This causes any check to go slower without decreasing the Difficulty (see page 60 of the Traveller Core Rulebook ).
+Items which require hands or fingers cannot be used at all unless a Dolphin is equipped with waldos or cybernetic hands. Likewise, any equipment requiring legs or feet are impossible for Dolphins to use. A Dolphin may be able to use some equipment that requires fingers, like a keyboard, by holding a probe in its mouth or using its modified flippers, at the Referee's discretion. This causes any check to go slower without decreasing the Difficulty (see page 60 of the Traveller Core Rulebook ).
 
 In general, other equipment designed for humans may be found or modified for Dolphin use. Protective equipment such as vacc suits, combat armor, rebreathers and so on, must be specifically designed for an individual race and are not interchangeable between species. Such equipment for Dolphins will cost 200% of the normal price.
 
@@ -5163,13 +5163,13 @@ communications array equal to a Computer/2 with a 500km audio/visual transceiver
 
 Travel suits can be fitted with a waldo for the manipulation of objects built for human hands. The cost and mass for such modification is simply added to that of the travel suit itself.
 
-At TL12, a travel suit has life support for 12 hours of use and weighs 12kg when the grav units are inactive. The travel suit is able to take to the air at up to Slow speed with an Agility equal to the Dolphin’s DEX DM. It has a maximum range of 25km. By TL15, the suit provides life support for 48 hours and weighs 7kg. The travel suit is able to take to the air at up to Medium speed with an Agility equal to the Dolphin’s DEX DM. It has a maximum range of 50km.
+At TL12, a travel suit has life support for 12 hours of use and weighs 12kg when the grav units are inactive. The travel suit is able to take to the air at up to Slow speed with an Agility equal to the Dolphin's DEX DM. It has a maximum range of 25km. By TL15, the suit provides life support for 48 hours and weighs 7kg. The travel suit is able to take to the air at up to Medium speed with an Agility equal to the Dolphin's DEX DM. It has a maximum range of 50km.
 
 **Type D Battle Dress:** This battle dress includes all the facilities of the travel suit. However, it is extremely well armored and adds waldos, the full electronics suite for battle dress from page 30 of the _Central Supply Catalogue_ and a sonar-based system with a range of one kilometer which grants DM+2 to Electronic (sensors) checks.
 
 Dolphin battle dress is equipped with waldos at the same TL. Any STR enhancements provided by the battle dress is also afforded to the waldos.
 
-Walker Suit: Walker Suits – also known simply as ‘Walkers’ – are earlier versions of Travel Suits, providing the same advantages and features as a Travel Suit excluding the gravitic propulsion. Instead, Walkers utilise two pairs of mechanical legs, allowing a Dolphin to move at an equivalent speed to a human
+Walker Suit: Walker Suits – also known simply as 'Walkers' – are earlier versions of Travel Suits, providing the same advantages and features as a Travel Suit excluding the gravitic propulsion. Instead, Walkers utilise two pairs of mechanical legs, allowing a Dolphin to move at an equivalent speed to a human
 (six meters) outside of water. Like Travel Suits, the interior of the Walker is padded with a cushioning gel that protects the Dolphin from the effects of up to 2-Gs. Walker Suits come with a helmet, visor, heads up display and can be fitted with waldos if desired. The computer/communications array are equal to a computer at the same TL as the Walker, with a 500km range audio/visual transceiver capability. At TL9, a Walker provides life support for up to nine hours of use. At TL11 life support extends to 18 hours of use. At TL14 a Walker provides life support to 36 hours of use.
 
 Walker Suit
@@ -5186,11 +5186,11 @@ CSC: Dolphins
 
 The use of survival gear is common among Dolphins who spend a lot of their time out of water. Most other types of survival gear in the Traveller Core Ruleboo k or Central Supply Catalogue are available to Dolphins but cost 150% the normal price.
 
-Grav Belt: A standard issue TL12 grav belt resembles a parachute harness with support, which runs down the back and a series of artificial gravity modules around the waist. The grav belt masses 10 kilograms but once activated this weight is eliminated. A grav belt is able to take to the air at up to Slow speed with an Agility equal to the Dolphin’s DEX DM. It has a maximum range of 25 kilometers.
+Grav Belt: A standard issue TL12 grav belt resembles a parachute harness with support, which runs down the back and a series of artificial gravity modules around the waist. The grav belt masses 10 kilograms but once activated this weight is eliminated. A grav belt is able to take to the air at up to Slow speed with an Agility equal to the Dolphin's DEX DM. It has a maximum range of 25 kilometers.
 
 Item TL Kg Cost Grav Belt 12 10 Cr100000
 
-Grav Couch: A grav couch is a contoured gravitic sled with padded gel lining providing a comfortable experience for a single Dolphin user. The couch provides no other protection to the Dolphin. Simple controls within flipper reach allow the Dolphin to steer the couch easily and a safety harness ensures the passenger does not come off the device. A grav couch weighs 10 kilograms when the grav units are inactive. It can take to the air at up to Slow speed with an Agility equal to the Dolphin’s DEX DM. It has a maximum range of 25 kilometers.
+Grav Couch: A grav couch is a contoured gravitic sled with padded gel lining providing a comfortable experience for a single Dolphin user. The couch provides no other protection to the Dolphin. Simple controls within flipper reach allow the Dolphin to steer the couch easily and a safety harness ensures the passenger does not come off the device. A grav couch weighs 10 kilograms when the grav units are inactive. It can take to the air at up to Slow speed with an Agility equal to the Dolphin's DEX DM. It has a maximum range of 25 kilometers.
 
 Item TL Kg Cost Grav Couch 10 15 Cr50000
 
@@ -5276,7 +5276,7 @@ Item TL Cost Deep Dive Augmentation 12 Cr500000
 
 Item TL Cost Oxygen Reserve 10 Cr10000 Oxygen Reserve 12 Cr25000
 
-**Prosthetic Arms:** Arms are a permanent artificial prosthetic, which are attached in front of and just below the flippers of a Dolphin. Even when held against the body when swimming to improve streamlining, prosthetic arms produce some drag, reducing a Dolphin’s movement to 10 meters and their sprint to 60
+**Prosthetic Arms:** Arms are a permanent artificial prosthetic, which are attached in front of and just below the flippers of a Dolphin. Even when held against the body when swimming to improve streamlining, prosthetic arms produce some drag, reducing a Dolphin's movement to 10 meters and their sprint to 60
 
 - twice their Effect meters with every check.
 
@@ -5294,9 +5294,9 @@ Sonar Enhancement: This modification reinforces the larynx, airways and melon, a
 
 Item TL Cost Sonar Enhancement 9 Cr500
 
-Swift Fluke Augmentation: This modification reinforces the spine, musculature and nervous system in a Dolphin’s tail, increasing swimming speed significantly. The augmentation adds three meters to a Dolphin’s speed and increases sprinting to 90 + twice their Effect of an Athletics (dexterity) check in meters.
+Swift Fluke Augmentation: This modification reinforces the spine, musculature and nervous system in a Dolphin's tail, increasing swimming speed significantly. The augmentation adds three meters to a Dolphin's speed and increases sprinting to 90 + twice their Effect of an Athletics (dexterity) check in meters.
 
-At TL12, this augment is made from superior materials designed to maximise efficiency. This augment adds six meters to a Dolphin’s speed and increases sprinting to 108 + twice their Effect of an Athletics (dexterity) check
+At TL12, this augment is made from superior materials designed to maximise efficiency. This augment adds six meters to a Dolphin's speed and increases sprinting to 108 + twice their Effect of an Athletics (dexterity) check
 
 Item TL Cost Swift Fluke Augmentation 10 Cr20000 Swift Fluke Augmentation 12 Cr35000
 
@@ -5308,9 +5308,9 @@ Weapons work quite differently under water. The following adjustments should be 
 
 Melee Weapons: Only stabbing and thrust weapons work underwater.
 
-Ranged Weapons: Firearms that use gunpowder or similar propellants do not work unless otherwise specified in the weapon’s description.
+Ranged Weapons: Firearms that use gunpowder or similar propellants do not work unless otherwise specified in the weapon's description.
 
-Laser Weapons: These weapons have 10% of their normal range underwater. Blue/green lasers are an exception. They cost 120% of the listed price and have 50% normal range under water and normal range in atmosphere. All laser weapons generate a cloud of steam bubbles, which makes the user easier to detect, giving DM+4 to anybody trying to spot the weapon’s user.
+Laser Weapons: These weapons have 10% of their normal range underwater. Blue/green lasers are an exception. They cost 120% of the listed price and have 50% normal range under water and normal range in atmosphere. All laser weapons generate a cloud of steam bubbles, which makes the user easier to detect, giving DM+4 to anybody trying to spot the weapon's user.
 
 Gauss Weapons: Do not work underwater unless specified in their description.
 
@@ -5324,7 +5324,7 @@ if successful, the target is unaffected. However, if the target fails, for the n
 
 Sonic weapons can only work in atmosphere or underwater. Races with acute hearing are particularly vulnerable to Sonic weapons – the effect lasts an additional two rounds for them.
 
-Waldo: A waldo is a mechanical manipulation device used by Dolphins as substitute hands and arms. They are typically worn as a harness but can be built into a travel suit. They consist of two robotic arms with three fingers and a thumb, worn as a harness just forward of the dorsal fin. Waldos first appear at TL9 and are controlled physically by the dolphin’s rudimentary thumb and forefinger. They are clumsy and lack strength (DM-2 to all checks involving their use).
+Waldo: A waldo is a mechanical manipulation device used by Dolphins as substitute hands and arms. They are typically worn as a harness but can be built into a travel suit. They consist of two robotic arms with three fingers and a thumb, worn as a harness just forward of the dorsal fin. Waldos first appear at TL9 and are controlled physically by the dolphin's rudimentary thumb and forefinger. They are clumsy and lack strength (DM-2 to all checks involving their use).
 
 At TL12, a surgically implanted neural control plug is used, reducing the penalty in their use to DM-1 and increasing STR+2. At TL15 waldos inflict no penalty in their use and STR is increased by +4.
 
@@ -5345,7 +5345,7 @@ Weapon TL Range Damage Kg Cost Magazine Magazine Cost Traits Sonic Amplifier 9 5
 
 Weapon TL Range Damage Kg Cost Magazine Magazine Cost Traits Sonic Booster 9 25 2D 6 Cr1200 30 Cr1000 Burst 3, Sonic (-4), Stun, Zero-G
 
-**Sonic Amplifier:** The sonic amplifier increases the decibels of a Dolphin’s ultrasonic click, turning it into a ranged sonic weapon that can render targets unconscious. The weapon is normally strapped to the front of the melon, with the amplifier magnifying the sound and focusing it into a tight beam.
+**Sonic Amplifier:** The sonic amplifier increases the decibels of a Dolphin's ultrasonic click, turning it into a ranged sonic weapon that can render targets unconscious. The weapon is normally strapped to the front of the melon, with the amplifier magnifying the sound and focusing it into a tight beam.
 
 **Sonic Booster:** The sonic booster is similar to the shorter ranged sonic amplifier, increasing the decibels of the clicks a Dolphin makes for echolocation. With a longer range and a greater effective radius, this weapon sees common usage in Dolphin military units.
 
@@ -5494,7 +5494,7 @@ within Dolphin ships is maintained at an extremely high level of humidity to pre
 Open Spaces Dolphins do not enjoy being confined in small spaces. This has led to Dolphin ships to be designed as openly as possible with very few doors or even corridors breaking up the interior of the vessel. Only areas such as airlocks and cargo bays, which need to be isolated for safety reasons, are separated from the open design.
 
 Staterooms Dolphins require more room than humans, both to move around and to relax. Dolphins require double-
-sized staterooms which consume eight tons and cost MCr1. Dolphins do not require the same level of privacy as humans, so their staterooms are not walled off or isolated but designed to be open to the ship’s common areas. Dolphins also have no need for bunks. Dolphins understand some races require more privacy and will occasionally add staterooms with walls and hatches for their use.
+sized staterooms which consume eight tons and cost MCr1. Dolphins do not require the same level of privacy as humans, so their staterooms are not walled off or isolated but designed to be open to the ship's common areas. Dolphins also have no need for bunks. Dolphins understand some races require more privacy and will occasionally add staterooms with walls and hatches for their use.
 
 Crew Pilot, Astrogator, Engineer
 
@@ -5654,7 +5654,7 @@ day Orca diverged from other cetaceans during the Miocene Epoch (23 million to 5
 **GENASSIST**
 GenAssist, a Solomani corporation responsible for the uplifting of many Terran species, was responsible for the modern Orca, a program designed to produce companions suitable to assist the Solomani in the colonization of alien worlds. An offshoot of the same project that eventually resulted in the sophont Dolphin, the Orca project was begun on Terra but cancelled only eight years later. Officially, the cancellation of the project was due to the cost of the program and size of the animal, which would cause problems when transporting them off planet. Rumors persist however, that fear of such a large creature capable of independent thought and action was the real reason for the cancellation.
 
-The project’s lead scientist, Rene Hodge, successfully convinced a number of dedicated followers on Sufren (Diaspora sector) to fund the relocation of the project to that planet’s unusually (and some say Ancients-manufactured) Terran-like biosphere. There, the project not only thrived but proved to be highly successful and its progeny became a distinctive part of Sufren’s culture and heritage.
+The project's lead scientist, Rene Hodge, successfully convinced a number of dedicated followers on Sufren (Diaspora sector) to fund the relocation of the project to that planet's unusually (and some say Ancients-manufactured) Terran-like biosphere. There, the project not only thrived but proved to be highly successful and its progeny became a distinctive part of Sufren's culture and heritage.
 
 ### PHYSIOLOGY
 
@@ -5662,7 +5662,7 @@ Orca share much of the same anatomy and physiology as Dolphins. Orca are carbon-
 
 Orca have a single blowhole and powerful upper and lower jaws lined on each side with sharp teeth. Their teeth are curved slightly inward to allow them to capture live marine prey, are very strong and the jaws exert a powerful grip; the upper teeth fall into the gaps between the lower teeth when the mouth is closed. The firm middle and back teeth hold prey in place, while the front teeth are inclined slightly forward and outward to protect them from powerful jerking movements.
 
-Orca exhibit dramatic colouring, with glossy black upper surfaces and brilliant white patches on the belly and above and behind the eyes. Behind the dorsal fin, they have a dark grey ‘saddle patch’
+Orca exhibit dramatic colouring, with glossy black upper surfaces and brilliant white patches on the belly and above and behind the eyes. Behind the dorsal fin, they have a dark grey 'saddle patch'
 across the back, although some Orca have pale grey to nearly white backs. By appearing lighter from
 
 below and darker from above this colouring allows the Orca to blend into the ocean environment and camouflage itself from prey.
@@ -5675,17 +5675,17 @@ Calves are born tail first, are about 2.8 meter long and 120–160 kilograms in 
 
 The mother nurses the young and the calf feeds frequently through day and night. Calves continue to suckle for three to four years and will remain with the mother for a few more years after being weaned. Orca are considered adults at the age of 20 and the rearing and educating of young is performed exclusively by females.
 
-Orca generally take four short breaths, called ‘blows’, 10 to 30 seconds apart and then dive for 15 minutes. They normally dive to a depth of 100 meters but are capable of diving down as deep as 260 meters without ill effect. Unlike humans, Orca do not breathe automatically and must have conscious control or risk drowning. While resting, all members of a pod take approximately the same number of breaths before diving. The blows of mother and young are tightly linked and continue in respiratory synchrony throughout their lives.
+Orca generally take four short breaths, called 'blows', 10 to 30 seconds apart and then dive for 15 minutes. They normally dive to a depth of 100 meters but are capable of diving down as deep as 260 meters without ill effect. Unlike humans, Orca do not breathe automatically and must have conscious control or risk drowning. While resting, all members of a pod take approximately the same number of breaths before diving. The blows of mother and young are tightly linked and continue in respiratory synchrony throughout their lives.
 
-Eyesight is equally effective in or out of water. In fact, Orca use their eyesight when ‘spyhopping’, a technique used when the Orca bobs its head above the surface of the water to spot boats, navigate by shoreline objects and locate terrestrial prey. However, underwater visibility is often less than 50
+Eyesight is equally effective in or out of water. In fact, Orca use their eyesight when 'spyhopping', a technique used when the Orca bobs its head above the surface of the water to spot boats, navigate by shoreline objects and locate terrestrial prey. However, underwater visibility is often less than 50
 
 meters and at night is negligible. Orca have evolved to take advantage of the superiority of sound, which travels four times faster in water than in air and is equally effective day or night.
 
-Orca possess sophisticated underwater sonar, which enables them to perceive their surroundings. Their nasal passages produce a series of extremely fast, high frequency sounds, which bounce off objects and give important clues about their distance, speed, shape, texture and composition. Orca are even able to ‘zoom in’ on objects by varying the pitch, loudness, duration, angle and breadth of this sonar and then use this information to navigate or locate and chase prey. In addition, Orca use sound to communicate with each other and keep pods together. Different individuals and pods produce distinctively different acoustic signals.
+Orca possess sophisticated underwater sonar, which enables them to perceive their surroundings. Their nasal passages produce a series of extremely fast, high frequency sounds, which bounce off objects and give important clues about their distance, speed, shape, texture and composition. Orca are even able to 'zoom in' on objects by varying the pitch, loudness, duration, angle and breadth of this sonar and then use this information to navigate or locate and chase prey. In addition, Orca use sound to communicate with each other and keep pods together. Different individuals and pods produce distinctively different acoustic signals.
 
 The circulatory system utilises many arteries and veins in the flippers, flukes and dorsal fin, which allow it to transfer heat from the body in warm conditions or conserve heat as they swim in icy seas. Its sheer size also helps conserve heat as its surface area to volume ratio is lower than other mammals. A high metabolic rate increases heat production while a coating of blubber reduces heat loss, streamlines its body to conserve energy and serves as food storage.
 
-An Orca’s skin is extremely sensitive to touch and plays an important role in maintaining social connectivity. Orca are extremely sensual creatures and often engage in touching behaviour. Mothers and calves frolic and caress each other regularly from birth and adult males wrestle and roll with each other.
+An Orca's skin is extremely sensitive to touch and plays an important role in maintaining social connectivity. Orca are extremely sensual creatures and often engage in touching behaviour. Mothers and calves frolic and caress each other regularly from birth and adult males wrestle and roll with each other.
 
 Male Orca typically weigh five or six tons and measure six to eight meters in length. Females tend to be somewhat smaller, weighing three or four tons and measuring between five and seven meters in length. Orca also display a measure of sexual dimorphism, with the dorsal fin of males being significantly larger than those of females, growing up to 1.8 meters and resembling tall elongated isosceles triangles in appearance. Female dorsal fins reach a height of one meter at most and are more curved than those of the male.
 
@@ -5710,7 +5710,7 @@ The smallest social structure is the family group. This consists of the eldest f
 
 - and her sons and daughters, and the descendants of her daughters. As females can reach an age of 95, family groups can have many generations living together and number up to 40 individuals, although average 5–10 individuals. Family groups are highly stable with individuals separating only for a few hours at a time to hunt or mate.
 
-When the Matriarch of a family group dies, her eldest daughter assumes her mantle. Any other daughters split away and become Matriarchs of their own family groups, along with their sons, daughters and daughters’
+When the Matriarch of a family group dies, her eldest daughter assumes her mantle. Any other daughters split away and become Matriarchs of their own family groups, along with their sons, daughters and daughters'
 offspring. The sons of the deceased Matriarch will form a bachelor family group with their brothers.
 
 Those Orca who do not have any living direct relatives will often form a close bond with humans or another sophont. While this is not ideal, it does relieve some of the loneliness felt by an isolated individual.
@@ -5725,7 +5725,7 @@ The next largest social structure is the community, a group of clans which regul
 
 Philosopher-elders have great responsibilities. They hold unquestioned authority within their community and are expected to think of the community as a
 
-whole before the needs of herself or those of her own family group. Philosopher-elders are required to know the familial relationships held among the clans and also expected to attend to matters that effect the entire community and act accordingly in the community’s best interest. In matters of dispute which cannot be satisfactorily resolved by clan Matriarchs, they are expected to make a final ruling on the matter.
+whole before the needs of herself or those of her own family group. Philosopher-elders are required to know the familial relationships held among the clans and also expected to attend to matters that effect the entire community and act accordingly in the community's best interest. In matters of dispute which cannot be satisfactorily resolved by clan Matriarchs, they are expected to make a final ruling on the matter.
 
 The Great Pod is the last and largest Orca social structure, though in reality is just a term used as a catch-all for all the Orca on a planet. The Great Pod is led by a council of the Philosopher-elders of each community; traditionally work together for the benefit of every Orca on the planet but just like any other political structure, rivalries and enmities can grow and factions develop, putting Philosopher-elders at odds with each other.
 
@@ -5749,9 +5749,9 @@ The oldest female in any group of Orca takes up the role of Matriarch, considere
 
 Touch is extremely important for Orca. Mother and calf will touch each other frequently with a brush of the flipper or trunk, strengthening their bond. This preference for frequent physical contact does not diminish as the calf ages and continues throughout adulthood.
 
-When seeing each other after a period of separation, Orca perform a complex greeting ceremony by swimming closely together and rubbing their bodies against each other. Each family group’s ceremony differs slightly from those of other families, serving to help Orca identify from which group another comes from and how closely or distantly related they are. The length and complexity of this ceremony depends on how long the Orca have been apart, lasting from a few minutes to many hours after a long separation.
+When seeing each other after a period of separation, Orca perform a complex greeting ceremony by swimming closely together and rubbing their bodies against each other. Each family group's ceremony differs slightly from those of other families, serving to help Orca identify from which group another comes from and how closely or distantly related they are. The length and complexity of this ceremony depends on how long the Orca have been apart, lasting from a few minutes to many hours after a long separation.
 
-Orca also enjoy wrestling each other. While it is normally a male activity, females are not actively discouraged from the sport. Wrestling among clans is performed for fun and bonding, and can continue on into adulthood. It has been developed into a sport, enjoyed not only by Orca but by many other sophonts as well. A match between well-known wrestlers will draw Orca from across a world’s oceans and be televised to surface dwellers. On planets where Orca have a significant population, wrestling matches are a huge tourist attraction with arenas built to accommodate non-aquatic spectators comfortably.
+Orca also enjoy wrestling each other. While it is normally a male activity, females are not actively discouraged from the sport. Wrestling among clans is performed for fun and bonding, and can continue on into adulthood. It has been developed into a sport, enjoyed not only by Orca but by many other sophonts as well. A match between well-known wrestlers will draw Orca from across a world's oceans and be televised to surface dwellers. On planets where Orca have a significant population, wrestling matches are a huge tourist attraction with arenas built to accommodate non-aquatic spectators comfortably.
 
 ### ZEN
 
@@ -5768,32 +5768,32 @@ This leads others to view Orca as at best single minded and at worst frustrating
 ### ALOOFNESS
 
 While Orca are extremely friendly towards each other –
-they not only desire but require each other’s company
+they not only desire but require each other's company
 
 - the same cannot be said of their relationship towards other sophonts. Orca are less friendly than Dolphins and prefer to live apart from humans and other sophonts. They hold no special awe or gratitude to humans for uplifting them, stating solemnly their uplifting occurred when and how it should.
 
 They are not unwilling to cooperate with land dwelling creatures but neither do they have any great interest in developing relations with other beings. They get along with other aquatic sophonts as well as with any other; in other words, they are distantly courteous but have no natural antipathy either. Their relationship with Luriani and Gurungan are the same as that of Dolphins.
 
-Orca who do work closely with other beings treat the relationship in a professional manner, keeping non-Orca at ‘arms’ length’, so to speak. This is not to say their professional relationship suffers due to their standoffish nature, only that Orca will condescend to operate as closely with another sophont as their task or occupation requires and no closer.
+Orca who do work closely with other beings treat the relationship in a professional manner, keeping non-Orca at 'arms' length', so to speak. This is not to say their professional relationship suffers due to their standoffish nature, only that Orca will condescend to operate as closely with another sophont as their task or occupation requires and no closer.
 
-Despite their aloofness, Orca see themselves as Solomani, although the majority of them do not hold to the Solomani schema of supremacy. Orca view of their Solomani heritage purely as the origin of their species and a planet of origin in no way indicates an individuals’ worth or ability.
+Despite their aloofness, Orca see themselves as Solomani, although the majority of them do not hold to the Solomani schema of supremacy. Orca view of their Solomani heritage purely as the origin of their species and a planet of origin in no way indicates an individuals' worth or ability.
 
 **HOMEBODIES**
 Orca have not spread far beyond the seas of Sufren, primarily due to their size and the expense of transporting them. Generally, this does not bother most Orca as they rarely seem interested in going anywhere else. There are two major exceptions to this mind frame.
 
 Occasionally the Philosopher-elders of the community will decide that the population on a planet has reached its limit and it is time for a Grand Migration. The clans are asked for volunteers who are prepared to colonize a new world. This is a huge undertaking often requiring millions of Credits for the necessary transport to be chartered. The migrating clan will often be required to borrow money from financial institutions to meet their needs so potential colony sites are closely evaluated for valuable resources to pay back the debt before a destination is chosen.
 
-The other exception is Orca who have lost their mother and have no other maternal ancestor or descendant to attach themselves to. With nothing to hold them back, these Orca will often attempt to leave their home planet to ‘see the galaxy’, adopting a career that allows them to travel in the company of other sophonts.
+The other exception is Orca who have lost their mother and have no other maternal ancestor or descendant to attach themselves to. With nothing to hold them back, these Orca will often attempt to leave their home planet to 'see the galaxy', adopting a career that allows them to travel in the company of other sophonts.
 
 ### SUCCOURING
 
-Orca have a natural instinctive reflex to go to the aid of injured or endangered Orca. Known as ‘rescue fever’ or ‘succour syndrome’, this natural reaction to distress calls of another Orca can be wholly overpowering. Although an Orca may be able to wilfully escape the effects of a distress call, it is not easy. When an Orca succumbs to this syndrome, they effectively revert to a pre-sentient state and race to the side of the Orca in need.
+Orca have a natural instinctive reflex to go to the aid of injured or endangered Orca. Known as 'rescue fever' or 'succour syndrome', this natural reaction to distress calls of another Orca can be wholly overpowering. Although an Orca may be able to wilfully escape the effects of a distress call, it is not easy. When an Orca succumbs to this syndrome, they effectively revert to a pre-sentient state and race to the side of the Orca in need.
 
 If an Orca manages to avoid the syndrome, they may act in a normal manner and take whatever steps they wish to secure the rescue of their endangered peer (or abandon them, if it seems the best thing to do).
 
 ### BELIEFS
 
-Like Dolphins, the concept of money and trade is completely foreign to Orca. They just do not understand the point of giving or taking something completely useless (such as money) in exchange for a desired item or service. Trade with Orca can be exceedingly frustrating, for both trader and Orca alike. For this reason, many Orca who trade with other races use a third party to represent them, usually a company or organization that conducts trade on the Orca’s behalf and manages their financial affairs.
+Like Dolphins, the concept of money and trade is completely foreign to Orca. They just do not understand the point of giving or taking something completely useless (such as money) in exchange for a desired item or service. Trade with Orca can be exceedingly frustrating, for both trader and Orca alike. For this reason, many Orca who trade with other races use a third party to represent them, usually a company or organization that conducts trade on the Orca's behalf and manages their financial affairs.
 
 Much like their smaller cousins, Orca are also strong advocates for environmental preservation. They believe all things have a natural cycle, which should be interfered with as little as possible. For example, it is perfectly normal and acceptable for a kelp field to die back due to shift in water temperature, overgrazing of herbivores or through natural accident. On the other hand, if the death of the kelp field is due to outside interference, such as pollution or artificial climate change, all measures should be taken to prevent it. For this reason, Orca are careful not to overtax hunting grounds by overuse, moving from one to another regularly and changing what they prey on to allow the environment to achieve balance.
 
@@ -5818,19 +5818,19 @@ If hunting for sport, the hunt is a competition to prove bravery, skill and quic
 
 Orca hold great reverence for their ancestors, in particular female ancestors. They use a number of rituals to venerate ancestors, the number of which and how and when they are performed depending on the particular beliefs of the pod, clan and community the
 
-Orca belongs to. Most commonly, Orca will enter a mourning period on the death of a female – normally lasting one year, which represents the period an Orca calf is completely reliant on the care of their mother. During this time, an Orca will eat sparingly, spend time in quiet contemplation of their departed love one and sing mournful songs espousing the sadness they feel at their relative’s loss.
+Orca belongs to. Most commonly, Orca will enter a mourning period on the death of a female – normally lasting one year, which represents the period an Orca calf is completely reliant on the care of their mother. During this time, an Orca will eat sparingly, spend time in quiet contemplation of their departed love one and sing mournful songs espousing the sadness they feel at their relative's loss.
 
-Orca have no burial rituals as such. When one of their number dies, the corpse is protected from scavengers for a period of time to give surviving descendants a chance to offer their final farewells. Once this period has passed, the body is pushed into the deepest part of the ocean within the community’s territory and then allowed to sink and disappear into the depths where it will provide food for scavengers and return to the environment.
+Orca have no burial rituals as such. When one of their number dies, the corpse is protected from scavengers for a period of time to give surviving descendants a chance to offer their final farewells. Once this period has passed, the body is pushed into the deepest part of the ocean within the community's territory and then allowed to sink and disappear into the depths where it will provide food for scavengers and return to the environment.
 
-The name of the deceased Orca is added to the family group’s mourning song, forever commemorating the family line and venerating each ancestor when the song is sung.
+The name of the deceased Orca is added to the family group's mourning song, forever commemorating the family line and venerating each ancestor when the song is sung.
 
 After the body has been disposed of, families will honor the deceased by dedicating hunts to them. Once a kill is made, the tastiest and desired portion, like the liver, is not eaten but allowed to sink to the ocean floor as an offering for the ancestor.
 
 The death of a Matriarch or Philosopher-elder will bring mourners from far and wide to pay their respects.
 
-In contrast, Orca do not mourn the death of a male in any significant manner. A mother will mourn the loss of her son or grandson but his name is not added to the mourning songs. It is the responsibility of a deceased male Orca’s female relatives to dispose of the body.
+In contrast, Orca do not mourn the death of a male in any significant manner. A mother will mourn the loss of her son or grandson but his name is not added to the mourning songs. It is the responsibility of a deceased male Orca's female relatives to dispose of the body.
 
-Orca follow no one single religious belief. Some Orca follow religions naturally developed from the veneration of their ancestors into a fully realised system of worship. This religion's name is impossible for non-cetaceans to pronounce but it is most closely translated as ‘the Way’. Orca believe that after death, the spirit or soul of female Orca continue to watch over their descendants and bring fortune or misfortune to the family based on how they are honored.
+Orca follow no one single religious belief. Some Orca follow religions naturally developed from the veneration of their ancestors into a fully realised system of worship. This religion's name is impossible for non-cetaceans to pronounce but it is most closely translated as 'the Way'. Orca believe that after death, the spirit or soul of female Orca continue to watch over their descendants and bring fortune or misfortune to the family based on how they are honored.
 
 Other Orca have found Terran religions of Asian origin, such as Daoism and Buddhism, to fit with their particular worldview and psychology.
 
@@ -5879,7 +5879,7 @@ Conversely, Orca have no compunction with working with robots. They will have ma
 
 Orca can be quite militant and conflict between clans and communities are not unheard of. Due to their hierarchical society, Orca find adapting to life in the military of other races to be surprisingly easy, although they can sometimes have difficulty accepting orders from male commanders.
 
-Orca societies often form their own militaries, although unlike many other cultures, their militaries tend to be along family lines, with mothers commanding sons and daughters and their daughters’ offspring. Among themselves, Orca associate rank with the position an Orca holds in its family group, pod and clan. Their rank structure has been adopted from human structures and modified to suit their needs. Orca forces of this type are extensively trained in both armed and unarmed conflict, utilising artificial limbs to aid in manipulation and weapons designed for vehicles mounted on armored harnesses. Some forces are even trained in the Orca equivalent of battle dress and have proven to be devastating opponents.
+Orca societies often form their own militaries, although unlike many other cultures, their militaries tend to be along family lines, with mothers commanding sons and daughters and their daughters' offspring. Among themselves, Orca associate rank with the position an Orca holds in its family group, pod and clan. Their rank structure has been adopted from human structures and modified to suit their needs. Orca forces of this type are extensively trained in both armed and unarmed conflict, utilising artificial limbs to aid in manipulation and weapons designed for vehicles mounted on armored harnesses. Some forces are even trained in the Orca equivalent of battle dress and have proven to be devastating opponents.
 
 It is rare for Orca to join the forces of other races, although it is certainly not unheard of for an entire Orca family group to be enlisted into a military organization, especially on worlds with large oceans. Even more rarely does an Orca join a terrestrial or starfaring contingent but when it has happened the Orca have universally been without a family.
 
@@ -5891,11 +5891,11 @@ Dolphins will make light of Orca accents and dialects, they never do so in their
 
 Orca are able to understand other languages as well and, thanks to modifications to their vocal apparatus, are able to learn to speak other languages as well. An Orca voice is high pitched and they are prone to over pronounce clicking and sibilant sounds, which some races can find rather amusing. Orca do not tolerate their voices or pronunciation being made light of.
 
-They name their calves at birth, which remains with them their entire lives. Orca names are composed of a number of components. The first is their birth name, given to them by their mother. Their second name is their family name, which will be the same as all members of a family group and pod. The third component of their name is the name of their clan. This name can change as Orca move from clan-to-clan and back again. The last component of their name is that of their community. Like their clan name, an Orca’s community name can change as they themselves move among communities. An Orca that is not part of a community will often take the name of the organization they work for as their community name.
+They name their calves at birth, which remains with them their entire lives. Orca names are composed of a number of components. The first is their birth name, given to them by their mother. Their second name is their family name, which will be the same as all members of a family group and pod. The third component of their name is the name of their clan. This name can change as Orca move from clan-to-clan and back again. The last component of their name is that of their community. Like their clan name, an Orca's community name can change as they themselves move among communities. An Orca that is not part of a community will often take the name of the organization they work for as their community name.
 
 Orca tend to just go by their first and second names, except on formal occasions, when they will use their full name.
 
-To humans, Orca names sound like whistles and clicks, such as ‘Squeee-k-k-kee’ or ‘Ki-keee-k’. The syllables can sometimes extend into the ultrasonic and subsonic, causing humans to miss the complete name. Orca who commonly deal with humans and other races will adopt a first and second name in Anglic for ease of communication. They are impressed however, when other races try to use an Orca’s name in their native Delphanese and appreciate the attempt.
+To humans, Orca names sound like whistles and clicks, such as 'Squeee-k-k-kee' or 'Ki-keee-k'. The syllables can sometimes extend into the ultrasonic and subsonic, causing humans to miss the complete name. Orca who commonly deal with humans and other races will adopt a first and second name in Anglic for ease of communication. They are impressed however, when other races try to use an Orca's name in their native Delphanese and appreciate the attempt.
 
 NON-VERBAL COMMUNICATION Before sophoncy was achieved, humans communicated with Orca using a simplified combination of sign language and verbalization. This language is largely lost among humans but Orca remember tales of it. This was primarily a single-direction language, from human to Orca;
 understanding would be imparted by the Orca with head movements or flipper gestures but they could impart nothing even remotely complex back to humans. Modern Orca take great offence if another race tries to use this language with them today, seeing it as an obvious affront to their sophoncy.
@@ -5910,7 +5910,7 @@ The nature of Sufren has posed significant questions among scientific communitie
 
 Sufren has a temperate and hospitable climate, with average temperatures averaging 12 degrees Celsius and a sea-level air pressure of 1.59 standard atmospheres. The atmosphere consists primarily of nitrogen, oxygen and water vapour with trace amounts of carbon-dioxide and other gaseous molecules. The atmosphere is breathable without assistance, although some visitors may experience some difficulties breathing at lower altitudes until they become acclimatised.
 
-A native lifeform known locally as Marsdust has a significant impact on the planet’s atmosphere. A simple airborne spore, Marsdust is a photosynthetic, oxygen producing organism, which thrives on the red spectrum of visible light and reflects orange light. It pervades the stratosphere and mesosphere of Sufren’s atmosphere and not only boosts oxygen pressure by almost 0.25%
+A native lifeform known locally as Marsdust has a significant impact on the planet's atmosphere. A simple airborne spore, Marsdust is a photosynthetic, oxygen producing organism, which thrives on the red spectrum of visible light and reflects orange light. It pervades the stratosphere and mesosphere of Sufren's atmosphere and not only boosts oxygen pressure by almost 0.25%
 but changes the quality of light that penetrates to the surface. By removing much of the red wavelength and reflecting a significant percentage of orange, Marsdust functions as a colour filter. The resulting surface light of Sufren is more white-amber, producing the appearance of a perpetually bright dusk to eyes accustomed to Terran equivalents. The sky of the planet changes colours dramatically as morning and evening approaches, fading from bright greenish-blue to deep blues, greens and purples.
 
 ### GEOGRAPHY AND TOPOGRAPHY
@@ -6271,11 +6271,11 @@ If taking numbers into consideration, insect analogues with external skeletons w
 
 Sufren hosts the estates of a number of Imperial nobles, as would be expected of a subsector capital. These include Duchess Marinda Piri von Zlata, Countess Alinessa Herais von Zlata and Baronet Ozlem Tobia Kyou.
 
-Duchess Marinda Piri von Zlata is the duchess of the subsector of Sufren and eldest daughter of the previous duke, Justyn Tayshaun von Zlata. Marinda, the only surviving issue of the previous duke, was a sickly child and as such was pampered and spoiled. When Miranda turned 16, she was ensconced as the Countess of Navar, which was passed down from her father as was the tradition in the von Zlata dynasty, although her duties were undertaken by a staff of regents until she turned 21. On completion of her education at the University of Sufren, Marinda embarked on her Grand Tour of the sector. The tour was expected to last four years but she was called back early to assume the role of duchess at the untimely death of her father. Furious at her early recall, Marinda returned to accept her inheritance and then promptly left the duties to be overseen by her father’s, and now her own, advisors while she returned to her tour. The duchess, familiar with the comfort of noble life, continues to leave her duties to be undertaken by her administration and pays little attention to it. Instead, she prefers to enjoy the advantages of her fortuitous birth, living a life of luxury while her every need and desire is seen to by others.
+Duchess Marinda Piri von Zlata is the duchess of the subsector of Sufren and eldest daughter of the previous duke, Justyn Tayshaun von Zlata. Marinda, the only surviving issue of the previous duke, was a sickly child and as such was pampered and spoiled. When Miranda turned 16, she was ensconced as the Countess of Navar, which was passed down from her father as was the tradition in the von Zlata dynasty, although her duties were undertaken by a staff of regents until she turned 21. On completion of her education at the University of Sufren, Marinda embarked on her Grand Tour of the sector. The tour was expected to last four years but she was called back early to assume the role of duchess at the untimely death of her father. Furious at her early recall, Marinda returned to accept her inheritance and then promptly left the duties to be overseen by her father's, and now her own, advisors while she returned to her tour. The duchess, familiar with the comfort of noble life, continues to leave her duties to be undertaken by her administration and pays little attention to it. Instead, she prefers to enjoy the advantages of her fortuitous birth, living a life of luxury while her every need and desire is seen to by others.
 
 The duchess was courted by many suitors almost as soon as she was raised to her position but she had little interest in committing to any. It was not until she turned 35 when her heart was captured by the dashing third son of the Subsector Duke of Khavle. They undertook a whirlwind courtship and were married scarcely six months later; shortly thereafter the duchess announced her pregnancy with their first child. The happy announcement soon turned to dismay when the duchess suffered a miscarriage but 12 months later she again announced she was pregnant. This time the pregnancy was carried to term and their daughter was named Alinessa Herais von Zlata. Alinessa was followed by three other siblings – Roman Audrick and the twins Cadwanllon Hanson and Ethelred Angevin.
 
-Duchess von Zlata stands at 5’1” but is morbidly obese, unable to stand or walk for any period of time. She spends most of her time reclining on a gravitic sedan. Marinda keeps her hair dyed at its natural black and has undergone a number of treatments in an attempt to reclaim her youthful appearance, none of which have been terribly successful. She is short-tempered and petty and her advisors and staff cater to her every whim, taking great measures not to raise her ire as her punishments can be punitive and disproportionate. The duchess rarely made public appearances in her youth and less so now she is elderly. She delegates all such duties to her son Roman. The Orca Homeworld
+Duchess von Zlata stands at 5'1” but is morbidly obese, unable to stand or walk for any period of time. She spends most of her time reclining on a gravitic sedan. Marinda keeps her hair dyed at its natural black and has undergone a number of treatments in an attempt to reclaim her youthful appearance, none of which have been terribly successful. She is short-tempered and petty and her advisors and staff cater to her every whim, taking great measures not to raise her ire as her punishments can be punitive and disproportionate. The duchess rarely made public appearances in her youth and less so now she is elderly. She delegates all such duties to her son Roman. The Orca Homeworld
 
 Countess Alinessa Herais von Zlata is the Countess of Navar, which includes under its title the worlds of Houstar and Maelstrom. Alinessa was born prematurely and thanks to the advanced medical techniques available on Sufrin, Alinessa not only survived but thrived. She was raised largely by a staff of nannies and educators, and received little of the same pampering her mother enjoyed. An excellent student, she continued her studies at the University of Sufren, majoring in political and economic sciences. It was while at university Alinessa was exposed to the Authentic Movement, which she immediately adopted.
 
@@ -6283,9 +6283,9 @@ Like her mother before her, Alinessa was granted the title of countess at 16 but
 
 As countess, Alinessa has a sizable fief on Sufren as well as one on Navar. Alinessa only visits her fief on Navar occasionally, as she feels she can best dispatch her duties on the subsector capital. Her duties on Navar are left in the care of her seneschal, Baronet Jory Hanover.
 
-Countess Alinessa is a handsome woman in her early 30’s, patient and thoughtful, slow to anger and prone to explore every aspect of a problem before making a decision. She maintains a constant hand in the duties of her position and is known as a hardworking and diligent noble well loved by the people of Sufren.
+Countess Alinessa is a handsome woman in her early 30's, patient and thoughtful, slow to anger and prone to explore every aspect of a problem before making a decision. She maintains a constant hand in the duties of her position and is known as a hardworking and diligent noble well loved by the people of Sufren.
 
-Baronet Ozlem Tobia Kyou, is Sufren’s planetary representative at the Moot and a knight of the Order of the Emperor’s Guard. Despite his responsibilities, he has only visited Capital once and only to delegate his proxy. He is rather unconcerned with the politics of his fiefdom, delegating his responsibilities to his younger brother Sir Dawid, a retired Imperial Navy commodore. Meanwhile, the baronet enjoys the hospitality of Duchess von Zlata and her palace. Ozlem is a prominent member of the Duchess's court and has manoeuvered himself into the position of the Duchess's most favored adviser. Ozlem uses his position in the subsector court to his own advantage.
+Baronet Ozlem Tobia Kyou, is Sufren's planetary representative at the Moot and a knight of the Order of the Emperor's Guard. Despite his responsibilities, he has only visited [[Capital]] once and only to delegate his proxy. He is rather unconcerned with the politics of his fiefdom, delegating his responsibilities to his younger brother Sir Dawid, a retired Imperial Navy commodore. Meanwhile, the baronet enjoys the hospitality of Duchess von Zlata and her palace. Ozlem is a prominent member of the Duchess's court and has manoeuvered himself into the position of the Duchess's most favored adviser. Ozlem uses his position in the subsector court to his own advantage.
 
 ### STARPORT
 
@@ -6315,7 +6315,7 @@ dedicating Imperial funds to the expansion of the facilities, leaving it up to l
 
 The Tech Level on Sufren is a mature TL15, verging on TL16, which is one of the highest in the subsector.
 
-Sufren’s medical technology, particularly in the fields of genetic manipulation and engineering are at an early TL16 level of sophistication due to research made available by GenAssist, which has major facilities in the system. Genetic therapy and modification for not only congenital issues but cosmetic desires, is easily and readily available and genetic engineering is available for all manner of applications. Anagathics are freely available, although remain expensive.
+Sufren's medical technology, particularly in the fields of genetic manipulation and engineering are at an early TL16 level of sophistication due to research made available by GenAssist, which has major facilities in the system. Genetic therapy and modification for not only congenital issues but cosmetic desires, is easily and readily available and genetic engineering is available for all manner of applications. Anagathics are freely available, although remain expensive.
 
 The Orca Homeworld
 
@@ -6327,7 +6327,7 @@ All other technologies are at a mature TL15 level of sophistication.
 
 Sufren has no single government. Instead, several separate governments operate together to govern the world.
 
-The first and largest is the Protectorate of Sufren, a representative democracy, overseen in theory by Duchess von Zlata as the nation’s nominal head of state. The duchess has no direct control over the government except to act as signatory to legislation and to legitimise or dissolve government. The Protectorate of Sufren takes great pains to maintain a democratic tradition, possible by the world’s relatively high technology that allows extensive electronic input from the electorate, including frequent referenda, and confidence and recall votes.
+The first and largest is the Protectorate of Sufren, a representative democracy, overseen in theory by Duchess von Zlata as the nation's nominal head of state. The duchess has no direct control over the government except to act as signatory to legislation and to legitimise or dissolve government. The Protectorate of Sufren takes great pains to maintain a democratic tradition, possible by the world's relatively high technology that allows extensive electronic input from the electorate, including frequent referenda, and confidence and recall votes.
 
 The other two governments are the United Orca Communities and the Combined Dolphin Clans, both of which are charismatic oligarchies.
 
@@ -6338,11 +6338,11 @@ sided open water pool known as the Think Tank to allow the representatives of th
 
 The System Congress is overseen and chaired by Lady Alinessa Marinida von Zlata, the duchess's eldest daughter.
 
-As subsector capital, Sufren also houses the infrastructure and administrative apparatus necessary for such tasks, the majority of which can be found in Clester, a city built specifically to house the machinery of subsector government and those employed by it. Duchess von Zlata has ‘modest’ accommodations in the clester, where she resides for half the year. Clester is an independent city state under the direct rule of Duchess von Zlata, protected by her personal huscarles, which also operate as a police force within the city’s jurisdiction. When not in residence in Clester, the duchess resides in Zrosa Palace, an impressive grav-lifted ducal abode with vast and immaculately manicured gardens.
+As subsector capital, Sufren also houses the infrastructure and administrative apparatus necessary for such tasks, the majority of which can be found in Clester, a city built specifically to house the machinery of subsector government and those employed by it. Duchess von Zlata has 'modest' accommodations in the clester, where she resides for half the year. Clester is an independent city state under the direct rule of Duchess von Zlata, protected by her personal huscarles, which also operate as a police force within the city's jurisdiction. When not in residence in Clester, the duchess resides in Zrosa Palace, an impressive grav-lifted ducal abode with vast and immaculately manicured gardens.
 
 ### LAW LEVEL
 
-As a balkanised world, Sufren’s Law level is by necessity an average of the combined political entities on the planet. As an average, the Law Level is relatively low at 3, making military weapons and mesh armor prohibited. Dangerous poisons are also outlawed. Personal freedoms are highly protected by the law, such as freedom of speech, the right to worship, right to travel, right to own property and right to bear children. Civil law protects the rights and freedoms of the individual over those of businesses and corporations, while criminal law against individuals is relatively relaxed. Most crimes will attract a fine if convicted, with custodial sentences only handed down for actions causing the intended death of an individual.
+As a balkanised world, Sufren's Law level is by necessity an average of the combined political entities on the planet. As an average, the Law Level is relatively low at 3, making military weapons and mesh armor prohibited. Dangerous poisons are also outlawed. Personal freedoms are highly protected by the law, such as freedom of speech, the right to worship, right to travel, right to own property and right to bear children. Civil law protects the rights and freedoms of the individual over those of businesses and corporations, while criminal law against individuals is relatively relaxed. Most crimes will attract a fine if convicted, with custodial sentences only handed down for actions causing the intended death of an individual.
 
 Environmental laws, conversely, are extremely harsh on Sufren, with convicted criminals handed down steep fines, long prison sentences and even execution. In the most severe cases, corporations have been forced to undergo forced closure with the board of directors executed and upper management serving long terms in prison. Many offworlders consider punishment for even small transgressions to be excessive – Cr10000 fines for any littering, even of biodegradable objects.
 
@@ -6386,7 +6386,7 @@ Making up less than 0.1% of the population are a variety of other races which ha
 
 ### CULTURE
 
-As it stands, it is difficult to summarise Sufren’s cultural outlook, considering its balkanised nature. Suffice to say, with the vast majority of citizens freed from the need to work, there is strong encouragement for self-improvement. This can take many forms, from improving knowledge through further education, to physical ability, to achieving excellence in a field of work. For this reason, Sufren has a disproportionate number of universities considering its population and is recognized as a center for learning and education.
+As it stands, it is difficult to summarise Sufren's cultural outlook, considering its balkanised nature. Suffice to say, with the vast majority of citizens freed from the need to work, there is strong encouragement for self-improvement. This can take many forms, from improving knowledge through further education, to physical ability, to achieving excellence in a field of work. For this reason, Sufren has a disproportionate number of universities considering its population and is recognized as a center for learning and education.
 
 This cultural pressure towards self-improvement has led to a broad acceptance of the Authentic Movement. Citizens are encouraged to look into their heritage, either as a personal project or with the aid of any number of business enterprises which assist in such searches. Local councils frequently hold festivals to celebrate
 
@@ -6396,20 +6396,20 @@ cultural heritage and large areas of cities and town have grown around single or
 
 While the planetary government strongly supports the Authentic Movement, the duchess and other nobles maintain some distance from it, holding instead to a cultural loyalty to the Imperium as a whole. Lady Alinessa is the exception. She openly and enthusiastically supports the Authentic Movement and is a sponsor for the Authentic Festival, a celebration of cultural heritage held annually across the planet. When not seeing to her responsibilities to the System Congress she is attending and/or sponsoring one of the numerous smaller Authentic cultural celebrations, which are held across the globe.
 
-With the Protectorate’s strong stance on democracy and representation, the people of Sufren are encouraged to develop strong views on subjects they find interesting or important to them. Children are taught from a young age to form an educated opinion and how to defend their opinion using facts and logic. The art of debate is greatly enjoyed by the people of Sufren, becoming something of a sport with debating teams achieving fame and recognition. Suffice to say, the tendency for strong opinions have led to the people of Sufren developing a reputation of stubbornness within the subsector.
+With the Protectorate's strong stance on democracy and representation, the people of Sufren are encouraged to develop strong views on subjects they find interesting or important to them. Children are taught from a young age to form an educated opinion and how to defend their opinion using facts and logic. The art of debate is greatly enjoyed by the people of Sufren, becoming something of a sport with debating teams achieving fame and recognition. Suffice to say, the tendency for strong opinions have led to the people of Sufren developing a reputation of stubbornness within the subsector.
 
 ### URBANISATION
 
-Despite its large population, Sufren is far from overcrowded. The vast majority of the population resides within large cities surrounded by small rural settlements. The population has access to advanced fusion power generation and each building has its own fusion generator, which provides more than sufficient power for the residents with no need for an extensive energy infrastructure. Even the poorest among the Sufren’s citizens live comfortably and in a manner some may consider luxurious.
+Despite its large population, Sufren is far from overcrowded. The vast majority of the population resides within large cities surrounded by small rural settlements. The population has access to advanced fusion power generation and each building has its own fusion generator, which provides more than sufficient power for the residents with no need for an extensive energy infrastructure. Even the poorest among the Sufren's citizens live comfortably and in a manner some may consider luxurious.
 
 Buildings are constructed tall, to minimise disruption to the environment. Green areas are common within the boundaries of cities and many buildings support vegetation both internally and externally. Decorative and food bearing trees and shrubs grow along
 
 sidewalks, helping to cool microclimates within city environs and provide a habitat and food source for wildlife that has adapted to urban living. Buildings are designed in an almost uniform pattern with businesses located on lower floors and residences above, with those of greater wealth living on higher floors. The truly wealthy live on the rooves of skyscrapers in enclaves that have manicured gardens and domiciles, which are apart from the rest of the building proper.
 
-On many worlds where there is stratification of wealth and living space, a culture has grown which includes an ‘upper city’ for the wealthy and an ‘under city’ for the poor. On Sufren, this has been largely avoided by not having a class that is considered poor by introduction of the universal basic income.
+On many worlds where there is stratification of wealth and living space, a culture has grown which includes an 'upper city' for the wealthy and an 'under city' for the poor. On Sufren, this has been largely avoided by not having a class that is considered poor by introduction of the universal basic income.
 
 Ground level traffic consists of pedestrians and muscle-
-powered vehicles such as bicycles, with powered vehicles and public transport consigned to traffic-ways several levels above. The majority of industrial traffic is still wheeled and utilises ‘sky roads’ five stories above ground level. Powered public and private transport is largely gravitic and confined to 10 to 15 stories above ground level depending on direction. All powered transport is controlled by a computerised traffic control system that has practically eliminated congestion and accidents.
+powered vehicles such as bicycles, with powered vehicles and public transport consigned to traffic-ways several levels above. The majority of industrial traffic is still wheeled and utilises 'sky roads' five stories above ground level. Powered public and private transport is largely gravitic and confined to 10 to 15 stories above ground level depending on direction. All powered transport is controlled by a computerised traffic control system that has practically eliminated congestion and accidents.
 
 A comprehensive network of underground hypertubes provides rapid public transport within cities, between cities, farming communities and nature reserves in a worldwide network. Anyone can travel almost anywhere on Sufren in less than six hours.
 
@@ -6425,7 +6425,7 @@ Like many planets, Sufren has places and events of interest to tourists and as t
 
 ### THE GREAT ZIGGURAT OF SUFREN
 
-Sufren is the site of some ruins that are believed to be of Ancients origin. The site consists of ruins of a small village surrounding a ziggurat 96 meters in length, 68 meters in width and 45 meters in height. Constructed of an unknown alloy, the ziggurat sits in the exact center of the village and is perfectly aligned with the planet’s north/south/east/west axes. It is impeccably preserved and shows no effects of erosion or weathering. A single entrance has been discovered leading into the massive structure, which gives access to a number of chambers, constructed at a massive scale, suggesting the builders may have been at least twice if not three times taller than humans.
+Sufren is the site of some ruins that are believed to be of Ancients origin. The site consists of ruins of a small village surrounding a ziggurat 96 meters in length, 68 meters in width and 45 meters in height. Constructed of an unknown alloy, the ziggurat sits in the exact center of the village and is perfectly aligned with the planet's north/south/east/west axes. It is impeccably preserved and shows no effects of erosion or weathering. A single entrance has been discovered leading into the massive structure, which gives access to a number of chambers, constructed at a massive scale, suggesting the builders may have been at least twice if not three times taller than humans.
 
 One chamber in particular has raised significant interest in researchers as on its walls are highly stylised images depicting the Major Races of Charted Space, along with Orca and Dolphins, undertaking a variety of activities. The style of the images is simple and in contrast with the elegance of the ziggurat leading some researchers to hypothesise the images were added some time after the erection of the ziggurat, and perhaps by a race other than the original builders, although the manner of applying the images is under debate as researchers have found no way to mark or damage the material the ziggurat is made from. There is a significant amount of disagreement among researchers as to the meaning of the diagrams, the least of which is how the builders knew of Orca and Dolphins hundreds of thousands of years before their arrival on Sufren.
 
@@ -6433,7 +6433,7 @@ Densitometer readings of the area below the ziggurat indicate an intricate and c
 
 The Orca Homeworld
 
-what it is powering. Some researchers have postulated it is an Ancients power source, which is somehow maintaining Sufren’s rotation and axial stability but this hypothesis is not widely accepted.
+what it is powering. Some researchers have postulated it is an Ancients power source, which is somehow maintaining Sufren's rotation and axial stability but this hypothesis is not widely accepted.
 
 Several attempts have been made to access the tunnels. The ziggurat does not appear to have an entrance to them, nor has any forced entry into the tunnels been successful.
 
@@ -6466,7 +6466,7 @@ The Orca Homeworld
 
 ### CRESTED SNAGGLEPUSS
 
-The crested snagglepuss is a domestic feline-like predator, one of a small number of snagglepuss species found on the planet, the largest of which approaches the size of a Terran tiger. While very feline in appearance, snagglepi are more like canines in behaviour. They enjoy each other’s company and bond well with their owners. Snagglepi do not have retractable claws and capture prey primarily with their bite, gaining their name for their wide mouths, which extend back past their eyes, and by the way their needle-like teeth extend from their lips. The crested snagglepuss has a mohawk growth of hair starting from its head, extending along its back and terminating at the base of its tail. The wild crested snagglepus has a brown and black mottled short coat but the domesticated variety has been bred into a large variety of colours and patterns.
+The crested snagglepuss is a domestic feline-like predator, one of a small number of snagglepuss species found on the planet, the largest of which approaches the size of a Terran tiger. While very feline in appearance, snagglepi are more like canines in behaviour. They enjoy each other's company and bond well with their owners. Snagglepi do not have retractable claws and capture prey primarily with their bite, gaining their name for their wide mouths, which extend back past their eyes, and by the way their needle-like teeth extend from their lips. The crested snagglepuss has a mohawk growth of hair starting from its head, extending along its back and terminating at the base of its tail. The wild crested snagglepus has a brown and black mottled short coat but the domesticated variety has been bred into a large variety of colours and patterns.
 
 Animal Hits Speed Crested Snagglepuss
 
@@ -6528,7 +6528,7 @@ of physical activity. Lastly, due to their size, Orca take up 12 times as much r
 
 **Deep Diver (260m):** Orca can dive deep underwater, to a depth of 260 meters without risk and can hold their breath for up to 15 minutes.
 
-**Echolocation (100m):** Orca use a highly sensitive echolocation sense to navigate their environment, effectively allowing them to ‘see’ underwater or in complete darkness to a range of 100 meters.
+**Echolocation (100m):** Orca use a highly sensitive echolocation sense to navigate their environment, effectively allowing them to 'see' underwater or in complete darkness to a range of 100 meters.
 
 **Succour Syndrome:** When Orca hear the distress calls of other Orca they risk suffering from succour syndrome. If they fail a Very Difficult (12+) Gun Combat or Melee check
 (1D seconds, INT) both their INT and EDU temporarily drop to zero and they must immediately swim as fast as possible to the side of the distressed cetacean.
@@ -6563,7 +6563,7 @@ Orca are as capable as humans in psychic potential but it is something which is 
 
 Orca with a waldo set can perform just about any skill a human can. Those without are limited to skills which do not require hands or legs. A few other special considerations apply to Orca.
 
-**Athletics:** Orca use Athletics (dexterity) only for high jumping or long jumping if it begins in the water. Sprinting means fast swimming. Use the normal rules except that a sprinting Orca can cover 96 + twice their Effect meters with every check. An Orca may not climb. Athletics (dexterity) is also used for catching things with an Orca’s teeth or rostum. Use Athletics (endurance)
+**Athletics:** Orca use Athletics (dexterity) only for high jumping or long jumping if it begins in the water. Sprinting means fast swimming. Use the normal rules except that a sprinting Orca can cover 96 + twice their Effect meters with every check. An Orca may not climb. Athletics (dexterity) is also used for catching things with an Orca's teeth or rostum. Use Athletics (endurance)
 for long distance swimming and Athletics (strength) for tasks such as swatting with a tail or ramming with a rostrum, although actual attacks use Melee (natural).
 
 **Vacc Suit:** This is a very common skill among Orca even if they do not serve in space. Orca may use their Vacc Suit skill to offset any negative DM inflicted by waldos but may not increase the DM above +0.
@@ -6627,7 +6627,7 @@ Events
 
 1D MISHAP 1 Injured. Roll on the Injury table. 2 One of your friends becomes involved with a revolutionary political faction advocating Orca rights. You are caught up in the investigation and lose your job. 3 A war or insurgency erupts on your world. Roll Gun Combat or Melee 8+; if you succeed you are automatically drafted into the Dolphin Military. If you fail your home is destroyed, forcing you into exile. 4 A purist political party comes to power on your world making trouble for uplifted Orca and costing you your job. Lose SOC-1 and gain a purist political militant as an Enemy. 5 An accident leaves you caught on land without a Travel Suit. You suffer serious dehydration and require lengthy hospitalization. Lose END-2. 6 You are accidently trapped or shot by fishermen. Roll on the Injury table. In addition, also roll SOC 8+ or Advocate 8+; if successful you sue and instead of losing a Benefit roll you gain an extra roll on the Cash table during the settlement.
 
-2D EVENT 2 Disaster! Roll on the Mishap table but you are not ejected from this career. 3 Rivalries between another race and Orca on your world’s ocean resources lead to conflict. Do you choose violence or diplomacy? If you choose diplomacy roll Advocate or Diplomat 8+. Success means your faction was vindicated and you gain DM+2 on your next advancement roll; failure means a loss of one Benefit roll. If you chose violence roll Explosives, Gun Combat or Tactics 8+. Failure results in DM-2 on your next advancement roll and you must roll on the Injury table. Whichever path you choose, raise your Leadership or the skill you rolled on by +1. 4 You volunteer for a research project to test new waldo equipment or cybernetics to improve the lives of Orca. Gain a Contact in the research field and roll EDU 7+ to gain Science (cybernetics) 1. 5 You have a chance to travel offworld and spend a long period of time in space. Increase your choice of either Athletics (dexterity), Electronics (comms) or Electronics (sensors) by +1 or gain Pilot 1. 6 You rescue a high-status swimmer who was lost at sea. Roll STR 7+; if successful gain a SOC 10+ sophont as an Ally. 7 Life Event. Roll on the Life Events table. 8 Spend an extensive period living out of water among humans. Raise Vacc Suit or Diplomat by +1. 9 Your companions are attached by fierce sea creatures! Do you fight or flee? If you flee gain one of survivors as an Enemy. If you stay and fight, roll Melee (natural) or Gun Combat 7+ to rescue them; if successful, gain one of them as an Ally. If you fail roll on the Injury table. 10 You are asked to volunteer for a dangerous mission to rescue people in a sinking vessel or underwater city. Roll Survival or END 8+. If successful gain DM+2 on your next advancement roll and gain an extra Benefit roll. If you fail, roll on the Injury table. 11 You discover a sunken vessel that contains valuable salvage. Gain one Benefit roll. 12 Rise to a position of responsibility. Your next advancement roll automatically succeeds.
+2D EVENT 2 Disaster! Roll on the Mishap table but you are not ejected from this career. 3 Rivalries between another race and Orca on your world's ocean resources lead to conflict. Do you choose violence or diplomacy? If you choose diplomacy roll Advocate or Diplomat 8+. Success means your faction was vindicated and you gain DM+2 on your next advancement roll; failure means a loss of one Benefit roll. If you chose violence roll Explosives, Gun Combat or Tactics 8+. Failure results in DM-2 on your next advancement roll and you must roll on the Injury table. Whichever path you choose, raise your Leadership or the skill you rolled on by +1. 4 You volunteer for a research project to test new waldo equipment or cybernetics to improve the lives of Orca. Gain a Contact in the research field and roll EDU 7+ to gain Science (cybernetics) 1. 5 You have a chance to travel offworld and spend a long period of time in space. Increase your choice of either Athletics (dexterity), Electronics (comms) or Electronics (sensors) by +1 or gain Pilot 1. 6 You rescue a high-status swimmer who was lost at sea. Roll STR 7+; if successful gain a SOC 10+ sophont as an Ally. 7 Life Event. Roll on the Life Events table. 8 Spend an extensive period living out of water among humans. Raise Vacc Suit or Diplomat by +1. 9 Your companions are attached by fierce sea creatures! Do you fight or flee? If you flee gain one of survivors as an Enemy. If you stay and fight, roll Melee (natural) or Gun Combat 7+ to rescue them; if successful, gain one of them as an Ally. If you fail roll on the Injury table. 10 You are asked to volunteer for a dangerous mission to rescue people in a sinking vessel or underwater city. Roll Survival or END 8+. If successful gain DM+2 on your next advancement roll and gain an extra Benefit roll. If you fail, roll on the Injury table. 11 You discover a sunken vessel that contains valuable salvage. Gain one Benefit roll. 12 Rise to a position of responsibility. Your next advancement roll automatically succeeds.
 
 1
 
@@ -6689,7 +6689,7 @@ Orca Travellers
 
 Due to their anatomy, Orca are unable to use many items designed for humans without penalty.
 
-Items which require hands or fingers cannot be used at all unless an Orca is equipped with waldos or cybernetic hands. Likewise, any equipment requiring legs or feet are impossible for Orca to use. An Orca may be able to use some equipment that requires fingers, like a keyboard, by holding a probe in its mouth or using its modified flippers, at the Referee’s discretion. This causes any check to go slower without decreasing the Difficulty (see page 60 of the Traveller Core Rulebook ).
+Items which require hands or fingers cannot be used at all unless an Orca is equipped with waldos or cybernetic hands. Likewise, any equipment requiring legs or feet are impossible for Orca to use. An Orca may be able to use some equipment that requires fingers, like a keyboard, by holding a probe in its mouth or using its modified flippers, at the Referee's discretion. This causes any check to go slower without decreasing the Difficulty (see page 60 of the Traveller Core Rulebook ).
 
 In general, other equipment designed for humans may be found or modified for Orca use. Protective equipment such as vacc suits, combat armor, rebreathers and so on, must be specifically designed for an individual race and are not interchangeable between species. Such equipment for Orca will cost 300% of the normal price.
 
@@ -6731,7 +6731,7 @@ communications array equal to a Computer/2 with a 500 kilometer audio/visual tra
 
 Travel suits can be fitted with a waldo for the manipulation of objects built for human hands. The cost and mass for such modification is simply added to that of the travel suit itself.
 
-At TL12, a travel suit has life support for 12 hours of use and weighs 150 kilograms when the grav units are inactive. The travel suit is able to take to the air at up to Medium speed and an Agility equal to the Orca’s DEX DM. It has a maximum range of 25 kilometers. By TL15, the suit provides life support for 48 hours and weighs 100 kilograms. The travel suit is able to take to the air at up to Medium speed and an Agility equal to the Orca’s DEX DM. It has a maximum range of 50 kilometers.
+At TL12, a travel suit has life support for 12 hours of use and weighs 150 kilograms when the grav units are inactive. The travel suit is able to take to the air at up to Medium speed and an Agility equal to the Orca's DEX DM. It has a maximum range of 25 kilometers. By TL15, the suit provides life support for 48 hours and weighs 100 kilograms. The travel suit is able to take to the air at up to Medium speed and an Agility equal to the Orca's DEX DM. It has a maximum range of 50 kilometers.
 
 ### PERSONAL PROTECTION
 
@@ -6757,7 +6757,7 @@ Utility Harness: The utility harness is used by Orca to carry tools, equipment a
 
 Ite m TL Kg Cost Utility Harness 7 25 Cr500
 
-Weapon Harness: A weapon harness is similar to the utility harness in fit but has special mounts for weapons to be attached. In early versions of the weapon harness, sensor pads are placed against the Orca’s skin to detect minute muscle twitches to fire the weapons but at higher TL these may be replaced with a neural jack. Weapon harnesses are able to mount heavy weaponry; two heavy weapons or up to four rifle-
+Weapon Harness: A weapon harness is similar to the utility harness in fit but has special mounts for weapons to be attached. In early versions of the weapon harness, sensor pads are placed against the Orca's skin to detect minute muscle twitches to fire the weapons but at higher TL these may be replaced with a neural jack. Weapon harnesses are able to mount heavy weaponry; two heavy weapons or up to four rifle-
 sized weapons are able to be attached to the harness with a combined weight of no more than 100 kilograms. All weapons of the same type fitted to a weapon harness may be fired simultaneously.
 
 Ite m TL Kg Cost Weapon Harness 7 40 Cr1000
@@ -6804,7 +6804,7 @@ The Bwaps, (derived from their full name, the Bawapakerwa-a-a-awapawab), also kn
 
 ### PHYSIOLOGY
 
-Proto-Bwaps were semi amphibious and lived in densely wooded, mangrove-like swamps. They burrowed under and among the root systems of large trees to form dens for the communal protection of themselves and their young. A shift in their home world’s weather patterns saw swamps shrink to half their size. Increased population pressures and competition with other animals forced the newts into a semi-arboreal lifestyle. The increased challenges of the alteration of their normal environment and increased competition led to sophoncy, tool use and agriculture, permitting them a tremendous advantage over the competition.
+Proto-Bwaps were semi amphibious and lived in densely wooded, mangrove-like swamps. They burrowed under and among the root systems of large trees to form dens for the communal protection of themselves and their young. A shift in their home world's weather patterns saw swamps shrink to half their size. Increased population pressures and competition with other animals forced the newts into a semi-arboreal lifestyle. The increased challenges of the alteration of their normal environment and increased competition led to sophoncy, tool use and agriculture, permitting them a tremendous advantage over the competition.
 
 Bwaps are an upright, bipedal, semi-humanoid species that are endothermic, possess an internal skeleton, closed circulatory system and consist of two sexes:
 male and female. They range in height from 1.2 to 1.5 meters and weigh between 34 and 68 kilograms with no discernible differences between males and females. Bwaps are a carbon-based lifeform with a copper-
@@ -6819,7 +6819,7 @@ On their feet, Bwaps have three toes with no nails. The toes are webbed to the f
 
 Bwaps possess the same senses as humans although hearing is slightly inferior to humans; their stereo perception is somewhat limited due to having no external ear structure. Eyesight, smell and taste is comparable to humans.
 
-Skin bears a distinctive pattern and colouring, which is unique to individuals but similar on those who belong to the same crèche; each crèche bears different patterns and colours. The pattern is determined by genetic factors but colours are influenced in part by genetics and partly by careful manipulation of the mother’s diet during the development of the egg before it is laid. Bwap skin is significantly more porous than that of many other sophonts, allowing them to absorb some of the oxygen they require through their skin but also makes them susceptible to losing moisture quickly and must be kept constantly damp. Bwaps feel uncomfortable in humidity less than 98%. With special clothing they can exist comfortably indefinitely in humidity as low as 25% as long as they have adequate drinking water. In conditions of less than 25% humidity, Bwaps must rely on sealed environment suits or spray their skin with water every few minutes. If these conditions are not met, the Bwap’s skin will quickly dry out leading to inflexibility, painful lesions, dehydration and ultimately, death.
+Skin bears a distinctive pattern and colouring, which is unique to individuals but similar on those who belong to the same crèche; each crèche bears different patterns and colours. The pattern is determined by genetic factors but colours are influenced in part by genetics and partly by careful manipulation of the mother's diet during the development of the egg before it is laid. Bwap skin is significantly more porous than that of many other sophonts, allowing them to absorb some of the oxygen they require through their skin but also makes them susceptible to losing moisture quickly and must be kept constantly damp. Bwaps feel uncomfortable in humidity less than 98%. With special clothing they can exist comfortably indefinitely in humidity as low as 25% as long as they have adequate drinking water. In conditions of less than 25% humidity, Bwaps must rely on sealed environment suits or spray their skin with water every few minutes. If these conditions are not met, the Bwap's skin will quickly dry out leading to inflexibility, painful lesions, dehydration and ultimately, death.
 
 Bwaps have the ability to regenerate their limbs and tails repeatedly. This is an evolutionary advantage that Bwap ancestors used as a defence mechanism to escape predators. When in danger, Bwap ancestors were able to drop their tail to confuse predators. In the
 
@@ -6827,7 +6827,7 @@ case that they were captured by a limb, the ancient Bwap could also drop the lim
 
 Certain types of injury can prevent regeneration from occurring, such as damage from fire or acid. Additionally, on rare occasions, some Bwaps are born with the inability to regenerate. In such cases, injured Bwaps have had to resort to artificial augments or cloned replacements to replace their amputated extremities. Bwaps not able to regenerate, regardless of the cause, are seen as handicapped by others of their race.
 
-Sex in Bwaps is determined by the combination of ZW chromosomes; males possess two W chromosomes while females possess both a Z and W chromosome. Additionally, temperature can affect the sex of a Bwap while it is still developing in the egg. Lower temperatures will produce males while higher temperatures produce females. When eggs are allowed to develop naturally at the body temperature of the mother, the chance of female offspring developing is only 30%. Bwaps never manipulate the temperature of eggs intentionally to produce a specific sex but outside conditions such as humidity, heat, stress, exercise and health can have an effect on a female’s body which can affect the sex of her young.
+Sex in Bwaps is determined by the combination of ZW chromosomes; males possess two W chromosomes while females possess both a Z and W chromosome. Additionally, temperature can affect the sex of a Bwap while it is still developing in the egg. Lower temperatures will produce males while higher temperatures produce females. When eggs are allowed to develop naturally at the body temperature of the mother, the chance of female offspring developing is only 30%. Bwaps never manipulate the temperature of eggs intentionally to produce a specific sex but outside conditions such as humidity, heat, stress, exercise and health can have an effect on a female's body which can affect the sex of her young.
 
 The reproductive organs of the Bwaps are internal in both the male and female, sharing a single vent (known as a cloaca) with the digestive tract. Fertilization occurs internally and the female lays a single soft shelled non-
 amniotic egg. Multiple eggs are not unheard of, with two eggs being uncommon and three eggs rarely laid. The eggs are incubated by the female in her pouch until they hatch. The young are practically helpless when they first hatched, being blind with limbs not completely developed. The mother does not produce milk but excretes a nutritious mucus from pores in the pouch that the young is able to ingest easily. At four weeks of age the young Bwap has developed sufficiently to leave the pouch intermittently for short periods of time. At this point, the mother stops producing the nutritious mucus and instead provides food to the young that has been chewed into an easily swallowed paste and passed directly mouth-to-mouth.
@@ -6858,34 +6858,34 @@ sitters and spiritual advisors to juvenile Bwaps.
 
 Crèches can come in many sizes ranging from a small affair supporting only a few dozen Bwaps to enormous organizations serving hundreds of thousands of Bwaps. The crèche is where the Satha-a-atta-wabapawab
 (Elders of the Crèche) sit. The Satha-a-atta-
-wabapawab serve their crèche by combining aspects of mentors, seekers, diplomats and philosophical leaders. One of their primary duties is to teach young Bwaps about the Wepawab philosophy, which governs a Bwap’s existence. Additionally, Satha-a-atta-
-wapawab provide mediation and guidance for crèches and explore nearby worlds to gather information and experience that will aid their people and the pursuit of the Wapawab. To make matters more confusing, Satha-a-atta-wapawab is the same term given to informal groups of elder Bwaps that serve as leaders, high government officials and the repository of ‘law’ (the traditional way of doing things).
+wabapawab serve their crèche by combining aspects of mentors, seekers, diplomats and philosophical leaders. One of their primary duties is to teach young Bwaps about the Wepawab philosophy, which governs a Bwap's existence. Additionally, Satha-a-atta-
+wapawab provide mediation and guidance for crèches and explore nearby worlds to gather information and experience that will aid their people and the pursuit of the Wapawab. To make matters more confusing, Satha-a-atta-wapawab is the same term given to informal groups of elder Bwaps that serve as leaders, high government officials and the repository of 'law' (the traditional way of doing things).
 
 Females in Bwap society are held in high regard. The natural reproductive processes of Bwaps will only result in a female 30% of the time, making the population heavily-biased towards the male. This has resulted in females being protected and rarely seen in public. Nearly all females reside in the crèches where they assist in the raising and educating of the young, act as record keepers, assistants to the Elders and similar tasks. Only females that are, for whatever reason, unable to reproduce tend to be found outside the crèche.
 
-Crèches form the center of a Bwap’s identity and they never leave their crèche voluntarily; to even consider leaving a crèche is believed to be a sign of profound insanity. In rare cases, a Bwap is forcibly expelled from their crèche but this is always as the result of extreme criminal behaviour. When this does occur, the records of the Bwap's existence in the crèche are wiped clean, essentially removing the individual from existence. Those who suffer such an ejection are viewed as ‘unclean’, outcasts and no longer a member of the Bwap race.
+Crèches form the center of a Bwap's identity and they never leave their crèche voluntarily; to even consider leaving a crèche is believed to be a sign of profound insanity. In rare cases, a Bwap is forcibly expelled from their crèche but this is always as the result of extreme criminal behaviour. When this does occur, the records of the Bwap's existence in the crèche are wiped clean, essentially removing the individual from existence. Those who suffer such an ejection are viewed as 'unclean', outcasts and no longer a member of the Bwap race.
 
 ### FAMILY
 
 Bwaps do not hold family relationships in any high regard, feeling their position in the clan and crèche has greater importance. They consider their ties to occupation, duty and crèche to be of overwhelming importance while viewing the relationship of parent and sibling to be relatively insignificant. It is not that they do not care about their family relationships; they have been taught from early childhood that the crèche and clan is of far greater importance and the thought of parents or siblings rarely, if ever, crosses their minds.
 
-Bwaps have no concept of marriage and no social convention that resembles pair-bonding. Several adult Bwaps may come together in what other races would comprehend as a familial group, known as a ‘wapawab’
-or just ‘wab’. To Bwaps, this form of wapawab is a grouping of convenience and not of love or reproduction. It is a network of individuals that live in the same abode, support each other emotionally and share in financial expenses. Like a marriage, the wab is a legally binding institution and contracts are signed on the commencement of such a grouping. Individuals may join a wab with the consent of a majority of the existing members or leave in accordance with their contract, taking what possessions they entered into the grouping and a share of assets and debts accrued as a group.
+Bwaps have no concept of marriage and no social convention that resembles pair-bonding. Several adult Bwaps may come together in what other races would comprehend as a familial group, known as a 'wapawab'
+or just 'wab'. To Bwaps, this form of wapawab is a grouping of convenience and not of love or reproduction. It is a network of individuals that live in the same abode, support each other emotionally and share in financial expenses. Like a marriage, the wab is a legally binding institution and contracts are signed on the commencement of such a grouping. Individuals may join a wab with the consent of a majority of the existing members or leave in accordance with their contract, taking what possessions they entered into the grouping and a share of assets and debts accrued as a group.
 
 ### THE WAPAWAB
 
 Originally the Wapawab referred to a collection of loosely-connected creches, forming a clan or tribal group, which approximated the city state in other cultures. To make matters more confusing, there appears to be an infinite number of lesser
-‘trees’, also called wapawabs (lowercase w). Wapawabs can consist of only a few individuals or many and ultimately billions in the case of the ultimate Tree of Life. Even non-Bwaps may belong to some wapawabs.
+'trees', also called wapawabs (lowercase w). Wapawabs can consist of only a few individuals or many and ultimately billions in the case of the ultimate Tree of Life. Even non-Bwaps may belong to some wapawabs.
 
 Reproduction, on the other hand, is a function of the crèche. Every year, the crèche elders (Satha-a-atta-wapawab) come together to decide on breeding pairs for that mating season. This process requires the meticulous examination of genealogical records, medical records, previous breeding partners and resultant offspring to ensure that the best possible genetic outcome is obtained and close relatives are not inadvertently paired. When the matched pair are ready, mating occurs in a private mud bath within the crèche. Once mating has been successful, the pair separate and the father generally has nothing more to do with the mother or offspring in a paternal role.
 
 ### BELIEFS
 
-Bwap society is based on the Wapawab philosophy that dominates their lives. While not a religion in the normal sense, it governs almost every aspect of the Bwaps’ lives and is followed with an intensity normally reserved for religious beliefs in other cultures. The philosophy holds that each individual has a place in the clan or pawab (tree).
+Bwap society is based on the Wapawab philosophy that dominates their lives. While not a religion in the normal sense, it governs almost every aspect of the Bwaps' lives and is followed with an intensity normally reserved for religious beliefs in other cultures. The philosophy holds that each individual has a place in the clan or pawab (tree).
 
-The literal tree is an important part of the ecology, intimately connected to the planet and providing food and shelter for hundreds of different species, providing the Bwaps with materials, absorbing carbon dioxide and releasing oxygen, converting sunlight and minerals to sustain itself and so on. The figurative tree, called the Wapawab or Tree of Life, is harder to describe. The term has its origins in the Bwaps’ primordial habitat but has been expanded to include a place of work or duty, native country, planet and bloodlines. Loosely translated, the Wapawab details the Bwap’s place and occupation within the crèche, which identifies their place and part in the planetary society and ecosystem, and then interstellar society, and finally the cosmos. Everything Bwaps do reflects this complex wheel-within-wheels, patterns-within-patterns point of view. Each individual is raised and educated to value and take great pride in being a small cog in the greater, ever-changing, growing and expanding universe of interlocking cogs and patterns.
+The literal tree is an important part of the ecology, intimately connected to the planet and providing food and shelter for hundreds of different species, providing the Bwaps with materials, absorbing carbon dioxide and releasing oxygen, converting sunlight and minerals to sustain itself and so on. The figurative tree, called the Wapawab or Tree of Life, is harder to describe. The term has its origins in the Bwaps' primordial habitat but has been expanded to include a place of work or duty, native country, planet and bloodlines. Loosely translated, the Wapawab details the Bwap's place and occupation within the crèche, which identifies their place and part in the planetary society and ecosystem, and then interstellar society, and finally the cosmos. Everything Bwaps do reflects this complex wheel-within-wheels, patterns-within-patterns point of view. Each individual is raised and educated to value and take great pride in being a small cog in the greater, ever-changing, growing and expanding universe of interlocking cogs and patterns.
 
-Bwaps have no concept of a spiritual soul. They believe that after death the energy and matter they are composed of is absorbed by the Tree of Life and redistributed among Bwaps yet to be born. There are no particular funerary customs except for those specific to each clans’ tradition. The clan members ensure the body is buried as soon as is practical after death. Some clans practice cremation with ashes scattered in the nearest undeveloped area, usually a jungle or swamp.
+Bwaps have no concept of a spiritual soul. They believe that after death the energy and matter they are composed of is absorbed by the Tree of Life and redistributed among Bwaps yet to be born. There are no particular funerary customs except for those specific to each clans' tradition. The clan members ensure the body is buried as soon as is practical after death. Some clans practice cremation with ashes scattered in the nearest undeveloped area, usually a jungle or swamp.
 
 Those born with full webbing between their fingers are believed to be marked for some special purpose despite the webbing being removed as soon as possible. It is up to the individual Bwap to discover and determine what that future will be, perhaps with assistance from instructors and elders.
 
@@ -6897,22 +6897,22 @@ Considering the subtleties of Wapawab philosophy and the mysterious workings of 
 
 Bwaps are highly focused on, and some would say obsessed with, minutiae, ritual and proper conduct. Driven by this desire to ensure that everything is in its proper place, Bwaps make excellent bureaucrats, officials, mathematicians and scientists. This fixation is what makes them such highly prized employees in corporations and governments throughout Charted Space. Bwaps seek this perfection in the organization of everything they do and to do otherwise would disrupt the efficient functioning of their part of the universe. All Bwaps are motivated to ensure that nothing in their lives, be that public, private or personal is out of place or disorganised. Furthermore, Bwaps believe that it is only through their direct action that they can bring order to the universe and it is their priority to see universal order achieved.
 
-Their obsession with ritual and proper conduct make Bwaps difficult to deal with. The way they greet each other is viewed as overly chatty and long-winded by non-Bwaps but essentially imparts ‘ I am in this place and doing this job to keep the Cosmos operating properly. Where are you and what do you do to keep the Cosmos operating properly? ’ Those who go against the ‘proper way of doing things’ will often find themselves lectured at great length on the importance and proprieties of doing things in the correct and proper fashion. Dealing with Bwaps can be time consuming but trying to hurry a Bwap will only cause both parties aggravation and frustration, taking up even more time.
+Their obsession with ritual and proper conduct make Bwaps difficult to deal with. The way they greet each other is viewed as overly chatty and long-winded by non-Bwaps but essentially imparts ' I am in this place and doing this job to keep the Cosmos operating properly. Where are you and what do you do to keep the Cosmos operating properly? ' Those who go against the 'proper way of doing things' will often find themselves lectured at great length on the importance and proprieties of doing things in the correct and proper fashion. Dealing with Bwaps can be time consuming but trying to hurry a Bwap will only cause both parties aggravation and frustration, taking up even more time.
 
-Mud bathing is an important Bwap ritual, playing a major part in their culture and society. Mud bathing is one of the most common daily activities in Bwap lives and practiced across the entire strata of Bwap society be they cleaners, businessmen, bureaucrats, officials or elders. Mud baths range the gamut of small rooms intended for the use of just wapawab members and their guests, to large public buildings open to all. While many sophonts think of bathing as a private affair, Bwaps see the mud bath as a meeting point, a place of discussion, business and politics. Elders will gather in the mud baths to deliberate over issues at hand, form alliances and debate mating pairs. Merchants will haggle and seal deals in mud baths while others will relax and unwind from a long day’s work. Rumor, knowledge and power are all valuable currencies and complex ritual revolves around mud bath interactions. It is rare for those who are not knowledgeable in Bwap interaction to be invited to the baths.
+Mud bathing is an important Bwap ritual, playing a major part in their culture and society. Mud bathing is one of the most common daily activities in Bwap lives and practiced across the entire strata of Bwap society be they cleaners, businessmen, bureaucrats, officials or elders. Mud baths range the gamut of small rooms intended for the use of just wapawab members and their guests, to large public buildings open to all. While many sophonts think of bathing as a private affair, Bwaps see the mud bath as a meeting point, a place of discussion, business and politics. Elders will gather in the mud baths to deliberate over issues at hand, form alliances and debate mating pairs. Merchants will haggle and seal deals in mud baths while others will relax and unwind from a long day's work. Rumor, knowledge and power are all valuable currencies and complex ritual revolves around mud bath interactions. It is rare for those who are not knowledgeable in Bwap interaction to be invited to the baths.
 
 **CONSERVATISM**
 Bwaps are a conservative race. Innovation is not something they seek and they are not known for inspiration or leaps of intuition. This conservative nature can be seen throughout the Bwap race. Even Bwap communities that have been isolated for hundreds of years, as occurred during the Long Night, were discovered to have hardly changed their social structure, language or philosophy, even if they had fallen back into barbarism. This has led some researchers to consider that Bwap conservatism is in at least some part genetic.
 
 **GOVERNMENT**
 Bwaps have no official over-arching governing body. Each Bwap planet governs itself without recourse to other worlds apart from the sense that they all follow the same set of general principles. Planets that are completely controlled by Bwaps are designated with either Government code 11 (non-charismatic dictatorship) or 13
-(religious dictatorship) because the Bwap world view and philosophy is pursued with such vigour. Law Levels are also equally high, typically Law Level 10+, with high levels of official harassment of citizenry reflecting the Bwaps obsession with ‘proper’ behaviour.
+(religious dictatorship) because the Bwap world view and philosophy is pursued with such vigour. Law Levels are also equally high, typically Law Level 10+, with high levels of official harassment of citizenry reflecting the Bwaps obsession with 'proper' behaviour.
 
 The Atapas-atta-wapabab (the Great Council of Crèches) presides over the formation and continued existence of Bwap crèches. Imperial authorities view the Atapas-atta-wapawab more as an administrative
 
 department within Bwap culture than an actual political entity and therefore have allowed it to exist without outside interference. A popular misconception is that the Great Council only rules Marhaban and the nearest colonies but has jurisdiction over all Bwap crèches no matter how near or far they are.
 
-All public officials, judges, bureaucrats, inspectors and so on are appointed by the Great Council of Crèches with no terms of office, no elections, no checks or balances, in fact no limits on power at all except for the Bwap adherence to clan and tradition. This may seem a chaotic way of doing things to outsiders but the sense of tradition among Bwaps holds the weight of law and it is almost unheard of for officials to take advantage of their positions. A Bwap who feels they are no longer able to ‘fulfil their part to keep the cosmos operating properly’ will resign their position and retire.
+All public officials, judges, bureaucrats, inspectors and so on are appointed by the Great Council of Crèches with no terms of office, no elections, no checks or balances, in fact no limits on power at all except for the Bwap adherence to clan and tradition. This may seem a chaotic way of doing things to outsiders but the sense of tradition among Bwaps holds the weight of law and it is almost unheard of for officials to take advantage of their positions. A Bwap who feels they are no longer able to 'fulfil their part to keep the cosmos operating properly' will resign their position and retire.
 
 Another wide-ranging Bwap organization is the Wewaka-
 atapas or Council of Seemly Order. In the distant past of Marhaban, the Council of Seemly Order would be best described by other races as a religious order, serving as the overseers of ethics and right thinking. Over the centuries since contact with the Vilani, the Council of Seemly Order evolved due to the influence of Vilani bureaucracy and business structures. The Council gradually took on the responsibilities of managing the bureaucratic and accounting practices as observed by the Bwaps. Since the Bwaps became heavily involved in Vilani bureaucracy, the Council of Seemly Order expanded its portfolio to include the overseeing of generally accepted accounting practices within the Ziru Sirka, the Rule of Man and eventually the Third Imperium.
@@ -6923,9 +6923,9 @@ Criminal behaviour is rare among Bwaps. They consider it the worst form of menta
 
 ### DRESS, ART AND ARCHITECTURE
 
-Bwaps have no taboos concerning nudity and only require clothing as a way to keep their skin moist, a means of identification and a source of pockets to store necessary equipment. Bwaps normally wear a comfortable loose-fitting kaftan-like garment covering most of the body and a hood or covering for the head, a garment consisting of three layers; an internal layer permeated with a network of fine tubes through which water flows to keep the skin moist, an intermediate water-proof layer that prevents moisture from evaporating and keeping the outer flowing layer dry and an outer layer coloured with a stylised representation of the individual’s body markings as the recognition of body patterns is an important aspect of the greeting ritual. In occupations where the Bwap must handle objects that can be damaged by moisture they wear long thin waterproof gloves covering their arms and hands. In extremely dry conditions Bwaps carry a mist sprayer with which to moisten their face.
+Bwaps have no taboos concerning nudity and only require clothing as a way to keep their skin moist, a means of identification and a source of pockets to store necessary equipment. Bwaps normally wear a comfortable loose-fitting kaftan-like garment covering most of the body and a hood or covering for the head, a garment consisting of three layers; an internal layer permeated with a network of fine tubes through which water flows to keep the skin moist, an intermediate water-proof layer that prevents moisture from evaporating and keeping the outer flowing layer dry and an outer layer coloured with a stylised representation of the individual's body markings as the recognition of body patterns is an important aspect of the greeting ritual. In occupations where the Bwap must handle objects that can be damaged by moisture they wear long thin waterproof gloves covering their arms and hands. In extremely dry conditions Bwaps carry a mist sprayer with which to moisten their face.
 
-Like the kaftan, all additional clothing, vacc suits, hostile environment suits and other body coverings are coloured in the stylised pattern of the Bwap’s body markings. The only exception to this is military combat uniforms that maintain the need for camouflage and concealment. This makes Bwaps’ clothing highly individual and Bwap vacc suits, hostile environment suits and other outfits are slightly more expensive as a result. Full dress military uniforms are permitted to have some individual markings to help identify crèche and clan.
+Like the kaftan, all additional clothing, vacc suits, hostile environment suits and other body coverings are coloured in the stylised pattern of the Bwap's body markings. The only exception to this is military combat uniforms that maintain the need for camouflage and concealment. This makes Bwaps' clothing highly individual and Bwap vacc suits, hostile environment suits and other outfits are slightly more expensive as a result. Full dress military uniforms are permitted to have some individual markings to help identify crèche and clan.
 
 Art and architecture, like everything associated with Bwaps, follows a traditional and socially accepted style that has remained essentially unchanged for thousands of years. Painting, drawing, sculpture and architecture all have standard protocols that are followed precisely by Bwap artists.
 
@@ -6944,13 +6944,13 @@ There are no Bwap cities outside of those planets that are totally controlled by
 With the advent of suitable gravitic technology, sky-
 cities became common in an attempt to reduce any negative effect on native ecologies further.
 
-On worlds that do not meet the Bwaps’ environmental needs, cities can be large and sprawling affairs, with little attention paid to the effect it may have on the environment. Artificial means are used to increase heat and humidity, and often the cities are enclosed or sealed in some way. In these environments, archologies are a favored housing system.
+On worlds that do not meet the Bwaps' environmental needs, cities can be large and sprawling affairs, with little attention paid to the effect it may have on the environment. Artificial means are used to increase heat and humidity, and often the cities are enclosed or sealed in some way. In these environments, archologies are a favored housing system.
 
 Bwap archologies and sealed cities often have amazingly complex environments of their own. Nearly all have artificial swamps complete with animals and plants imported from Marhaban to allow Bwaps to reconnect with their natural habitat, as a reminder of where they have come from. In some cases, just like on Marhaban, it can be difficult to ascertain exactly where the artificial swamp ends and the city begins.
 
-In larger starports and major planets, particularly along the x-boat routes, there will be a ‘Bwap Quarter’ where Bwap employees make their homes either temporarily or permanently. These quarters are normally the province of a single crèche and will have its own elders, nursery, artificial swamp and whatever else Bwaps
+In larger starports and major planets, particularly along the x-boat routes, there will be a 'Bwap Quarter' where Bwap employees make their homes either temporarily or permanently. These quarters are normally the province of a single crèche and will have its own elders, nursery, artificial swamp and whatever else Bwaps
 
-require for a ‘proper’ home environment. They require little in the way of unusual habitations other than high humidity and occasional fungal treatments.
+require for a 'proper' home environment. They require little in the way of unusual habitations other than high humidity and occasional fungal treatments.
 
 ### BUSINESS
 
@@ -6967,13 +6967,13 @@ The Guardians of Order are not broken up into separate services, although they a
 ### LANGUAGE AND NUMBERS
 
 The Bwap language, Wawa-pakekeke-wawa (literally
-‘sounds of knowledge’), has been described as thick and melodic, the words sounding like the plops of bursting mud bubbles. It is not unpleasant to listen to but proves to be rather difficult for other races to master. Conversely, Bwaps have little trouble learning the languages of others, although their accent can be thick and a little hard to understand.
+'sounds of knowledge'), has been described as thick and melodic, the words sounding like the plops of bursting mud bubbles. It is not unpleasant to listen to but proves to be rather difficult for other races to master. Conversely, Bwaps have little trouble learning the languages of others, although their accent can be thick and a little hard to understand.
 
-The language has only two vowels and 12 consonants as well as a click represented by ‘-’ in Anglic. Wawa-pakekeke-
+The language has only two vowels and 12 consonants as well as a click represented by '-' in Anglic. Wawa-pakekeke-
 wawa is the only living Bwap language, although there are several minor dialects of interest only to scholars. Several languages were in existence prior to Vilani contact but their use was quickly superseded or absorbed into Wawa-
 pakekeke-wawa and died out in the Long Night.
 
-Verbs are always placed at the end of a sentence, making a running translation of the Bwap language difficult; the entire sentence needs to be heard or read completely before the full meaning can be ascertained. The difference between ‘ Your cargo manifest correct ’ and ‘ Your cargo manifest correct not ’ illustrates this problem perfectly. Mechanical translations of the Bwap language tend to be slower than others as a result, further exasperating the difficulty of dealing with Bwap bureaucrats.
+Verbs are always placed at the end of a sentence, making a running translation of the Bwap language difficult; the entire sentence needs to be heard or read completely before the full meaning can be ascertained. The difference between ' Your cargo manifest correct ' and ' Your cargo manifest correct not ' illustrates this problem perfectly. Mechanical translations of the Bwap language tend to be slower than others as a result, further exasperating the difficulty of dealing with Bwap bureaucrats.
 
 Bwap modules for electronic translators are available wherever Bwaps are common.
 
@@ -7009,8 +7009,8 @@ A BWAP GLOSSARY
 **Awe-wa:** Vilani.
 **Bapawa-a-a-bap:** Thick trunked tree with blue leaves. Bears a large edible purple fruit.
 **Bawapakerwa-a-a-awapawab:** Bwaps: the dwellers in the limbs of the Tree of Life.
-**Bawapkaerwa-a-awapa:** A female Bwap. Traditionally ‘life giver’.
-**Bawapakerwa-a-bawpa:** A male Bwap. Traditionally ‘not life giver’.
+**Bawapkaerwa-a-awapa:** A female Bwap. Traditionally 'life giver'.
+**Bawapakerwa-a-bawpa:** A male Bwap. Traditionally 'not life giver'.
 **Bawabkaerwa-paaba-a:** Humaniti, also any sophont that is not Bwap.
 **Bawewa-bawap:** Informal alphabet.
 **Dawa-daw** : Bamboo-like swamp plant.
@@ -7034,8 +7034,8 @@ atapas.
 **Pawbawa-a-pawa:** Marsh grass with long tangled leaves that grows below the water.
 **Pawathe-a-webab-paesab:** The ritual of mud bathing.
 
-Pewakwa: The time alone a pair of Bwaps spend before mating. Pefoba: Stars. Peka-wapawab: Informal name for the Bwap homeworld. Pepasa-babbaba: Rain. Pe-wapawab-pefoba: Constellations, traditionally the ‘patterns in the night sky’. Reepa-reep: Winged reptile native to Marhaban often kept as pets. Satha-a-atta-wabapawab: Great Council of Crèche, leaders, government officials. Tabbe-e-a: Lighting. Taesweb: Ceremonial staff-like weapon used by the Tap-a-wewaka-atapas Tapapath-a-a-pawatapas: Whip sword. Tap-a-wewaka-atapas: Guardians of Order. Bwap military. Taswabwapeaspa: Professional or business term for the Bwap homeworld. Tatwawa: Food. Te-wekath: Webbing worn on the body to carry or store personal items. Wa-bawapakerwa-a-a-a-awa-pawabawabawaba:
-Formal name for the Bwap homeworld. Wabwe-ebta-paseb: Swamp ambush predator native to Marhaban. Waebpo-sas-a-a-pase: Knowledge is not found in Wapawab. Wak-a-wekapak: Sprawling vine with deep green leaves that bears an edible fruit. Wapawab: The Tree of Life, a philosophy, a grouping of Bwaps. Wapawab-wea-fe: A scroll holding the writings of the Bwap philosophy. Wawa-ewa: A superstition. Traditionally an evil spirit that stole the knowledge of the Wapawab from sleeping Bwaps. Wawa-pakekeke-wawa: Sounds of knowledge. The Bwap language. Wea-fe: Book. Traditionally a scroll. Webebta: Loss of focus. Traditionally an evil spirit that took one’s attention from the Wapawab. Wepasab: Ceremonial armor. Wewaka-atapas: Overseeing body of accountants. Wawathwa-pabessab: Ritual. The proper way of doing things in an ordered manner. Waweta: Nonsense. Not making sense.
+Pewakwa: The time alone a pair of Bwaps spend before mating. Pefoba: Stars. Peka-wapawab: Informal name for the Bwap homeworld. Pepasa-babbaba: Rain. Pe-wapawab-pefoba: Constellations, traditionally the 'patterns in the night sky'. Reepa-reep: Winged reptile native to Marhaban often kept as pets. Satha-a-atta-wabapawab: Great Council of Crèche, leaders, government officials. Tabbe-e-a: Lighting. Taesweb: Ceremonial staff-like weapon used by the Tap-a-wewaka-atapas Tapapath-a-a-pawatapas: Whip sword. Tap-a-wewaka-atapas: Guardians of Order. Bwap military. Taswabwapeaspa: Professional or business term for the Bwap homeworld. Tatwawa: Food. Te-wekath: Webbing worn on the body to carry or store personal items. Wa-bawapakerwa-a-a-a-awa-pawabawabawaba:
+Formal name for the Bwap homeworld. Wabwe-ebta-paseb: Swamp ambush predator native to Marhaban. Waebpo-sas-a-a-pase: Knowledge is not found in Wapawab. Wak-a-wekapak: Sprawling vine with deep green leaves that bears an edible fruit. Wapawab: The Tree of Life, a philosophy, a grouping of Bwaps. Wapawab-wea-fe: A scroll holding the writings of the Bwap philosophy. Wawa-ewa: A superstition. Traditionally an evil spirit that stole the knowledge of the Wapawab from sleeping Bwaps. Wawa-pakekeke-wawa: Sounds of knowledge. The Bwap language. Wea-fe: Book. Traditionally a scroll. Webebta: Loss of focus. Traditionally an evil spirit that took one's attention from the Wapawab. Wepasab: Ceremonial armor. Wewaka-atapas: Overseeing body of accountants. Wawathwa-pabessab: Ritual. The proper way of doing things in an ordered manner. Waweta: Nonsense. Not making sense.
 
 into trees to find food. They continued to return to their communal burrows to rear their young. The development of simple communication and co-operation led to the beginnings of culture. Climate change saw the shrinking of the swamps and forced Bwaps into increased competition with other animals in the region, leading to the evolution of sentience. The discovery of simple stone tools, agriculture and animal husbandry gave them a significant competitive advantage and led to the formation of the first crèche groups.
 
@@ -7056,7 +7056,7 @@ Bwap civilization formed a world government as it advanced to TL7 where it stabi
 The Vilani discovered the Bwap homeworld early during their exploration of the Empty Quarter. The Bwaps were quickly assimilated and their world given the Vilani name of Lentuli. Exposure to the Vilani brought a technological renaissance to the Bwaps and within only 75 years had advanced into, and stabilized, at a TL10 society. With their conservative outlook and traditional attitude, the Vilani found kindred spirits and useful allies in the Bwaps. Their attention to detail and desire to follow protocol led to Bwaps being employed within the retinues of senior Vilani nobles where they quickly made themselves indispensable. Over the next millennium this policy was extended to mid-level nobles and administration of the Vilani bureau. The heartless Vilani bureaucracy that ground other races into dust lifted the Bwaps into a golden age and they filled every position available to them, making them one of the most wide-spread Minor Races in Charted Space.
 
 The Consolidation Wars and formation of the Ziru Sirka
-(Grand Empire of the Stars, historically known as the First Imperium) saw no resistance from Bwaps who viewed the empire as a natural ordering of the universe. Considering the Bwap’s place within Vilani society, their part in the administration of the Ziru Sirka was a perfectly natural development for their race. They moved further out into space, aiding the Vilani in their exploration and governance of new territories and species.
+(Grand Empire of the Stars, historically known as the First Imperium) saw no resistance from Bwaps who viewed the empire as a natural ordering of the universe. Considering the Bwap's place within Vilani society, their part in the administration of the Ziru Sirka was a perfectly natural development for their race. They moved further out into space, aiding the Vilani in their exploration and governance of new territories and species.
 
 As they grew in position and power, Bwaps were able to find loopholes and exceptions to the restrictions of jump technology imposed on other Minor Races and were able to obtain permission to build their own fleet of jump-
 1 vessels. The secret of the jump drive allowed Bwaps to explore the stars under their own power. Colonists first settled the world of Wesawek and then established footholds on other new worlds. Merchants plied their wares along the mains, finding new opportunities and returning wealth to Lentuli. In less than 300 years Bwaps were granted a license to build jump-2 vessels by the Ishimkarun (Shadow Emperor), a privilege bestowed on a Minor Race completely unheard of in the past and never repeated again by the Vilani.
@@ -7064,9 +7064,9 @@ As they grew in position and power, Bwaps were able to find loopholes and except
 Co-operation between Bwaps and the Ziru Sirka would continue until the discovery of a race of humans from the planet Terra who resisted Vilani control and instigated the Interstellar Wars, a series of nine conflicts that lasted more than 200 years and eventually saw the demise of the Great Empire of the Stars.
 
 **THE LONG NIGHT**
-With the culmination of the Interstellar Wars and the fall of the Ziru Sirka, a power vacuum was left that the Terrans, now known as the Solomani, immediately stepped into. This new era, the Rule of Man (historically referred to as the Second Imperium or, less graciously, the Ramshackle Empire), had practically no effect on the Bwaps, who saw it as just the ‘proper’ unfolding of events. The Solomani had no experience in running an empire the size of the Ziru Sirka and relied on Bwaps to assist in the administration of what they had conquered. Even so, the Gushgus sector remained ungoverned for nine years and interstellar commerce dwindled to almost nothing. A new regional government was established with the arrival of a Terran frigate but the results were generally poor, primarily because the new government had little experience. Only Bwap worlds managed to regain their former positions but this had less to do with the new governance and more to do with Bwap obsession with order.
+With the culmination of the Interstellar Wars and the fall of the Ziru Sirka, a power vacuum was left that the Terrans, now known as the Solomani, immediately stepped into. This new era, the Rule of Man (historically referred to as the Second Imperium or, less graciously, the Ramshackle Empire), had practically no effect on the Bwaps, who saw it as just the 'proper' unfolding of events. The Solomani had no experience in running an empire the size of the Ziru Sirka and relied on Bwaps to assist in the administration of what they had conquered. Even so, the Gushgus sector remained ungoverned for nine years and interstellar commerce dwindled to almost nothing. A new regional government was established with the arrival of a Terran frigate but the results were generally poor, primarily because the new government had little experience. Only Bwap worlds managed to regain their former positions but this had less to do with the new governance and more to do with Bwap obsession with order.
 
-Terran settlers eventually arrived in the area, the first wave consisting of Solomani primarily of Arab descent. It was during this time that Lentuli was renamed Marhaban, the Arabic word for ‘hello’. These settlers became the nobles of the area. Duke Mus’ad eventually renamed the Gushgus sector the Empty Quarter after a barren region from his native Arabia.
+Terran settlers eventually arrived in the area, the first wave consisting of Solomani primarily of Arab descent. It was during this time that Lentuli was renamed Marhaban, the Arabic word for 'hello'. These settlers became the nobles of the area. Duke Mus'ad eventually renamed the Gushgus sector the Empty Quarter after a barren region from his native Arabia.
 
 Bwap worlds were becoming increasingly subject to Vargr pillaging during this period. The Solomani government created more and more money to fight off the incursions, which in turn caused inflation to skyrocket and plunged many worlds into financial ruin. Bwap worlds, used to strong Vilani economic policy,
 
@@ -7075,7 +7075,7 @@ Bwap worlds were becoming increasingly subject to Vargr pillaging during this pe
 The exact method that Bwaps used to obtain jump-
 2 technology remains a mystery to this day. The fact that the Shadow Emperor granted the race a licence to build jump-2 drives was completely unheard of and rumor prevails as to how it was achieved. Some believe that Bwaps used bureaucratic trickery to obtain the licence, where others believe the Shadow Emperor provided the technology as a reward for Bwap services to the Imperium. Whatever the truth is, or even if the truth is still known, is up for contention and if the Bwaps know, they are keeping it to themselves.
 
-failed to adapt to this new reality and suffered badly. However, through concentrated effort, the Guardians of Order had grown strong enough to shield four worlds from Vargr aggression while Bwap communities established a stable ‘hard-money’ currency regime that would outlast the Rule of Man.
+failed to adapt to this new reality and suffered badly. However, through concentrated effort, the Guardians of Order had grown strong enough to shield four worlds from Vargr aggression while Bwap communities established a stable 'hard-money' currency regime that would outlast the Rule of Man.
 
 Human worlds were not as lucky. In addition to suffering runaway inflation and economic hardship, the abolishment of the Vilani caste system proved to be too much. Rebellion became almost as common as Vargr incursions and with the conflict between the Central Bank at Hub and the Bank of Antares, the Rule of Man collapsed and the Long Night fell, seeing the withdrawal of the Second Imperium and an increase of Vargr corsair incursions.
 
@@ -7104,21 +7104,21 @@ advanced technology and vast interstellar distances, there was virtually no cult
 ### THIRD IMPERIUM
 
 With the declaration of Imperial Rule the Slylean Federation became the Third Imperium, Marhaban had become a minor trade nexus with the Sylean, Vargr and Vilani. The Menderes Corporation traders routinely made annual and semi-annual visits although most trade was with Bwaps from the Vargr Extents. Satha-a-atta-
-wapawab (‘Elders of the crèche’) from every Bwap colony with sufficient resources visited Marhaban to consult with the Atapas-atta-wapawab for legal rulings and counsel on matters of protocol and policy. The Tap-a-wewaka-atapas protected Marhaban and a few nearby systems from the now rare but still dangerous Vargr pirate bands.
+wapawab ('Elders of the crèche') from every Bwap colony with sufficient resources visited Marhaban to consult with the Atapas-atta-wapawab for legal rulings and counsel on matters of protocol and policy. The Tap-a-wewaka-atapas protected Marhaban and a few nearby systems from the now rare but still dangerous Vargr pirate bands.
 
 Marhaban soon received an invitation to join the third Imperium and accepted eagerly, followed by every other Bwap dominated world. Quickly they made themselves as indispensable to the new stellar government as they were to the Ziru Sirka, stepping into the same roles they once held.
 
 Bwap presence in the Imperium was elevated when A-estaka-sespa of the Sathwawafa Clan was selected by the Emperor to govern as subsector duke. A-estaka-
-sespa was the first Bwap to be raised to ducal status and one of only a few non-human dukes in the Imperium. He used his position to petition the Emperor to rename the subsector Lentuli in honor of Marhaban’s Vilani designation and for the further glory of the Lentuli family’s dynasty. The request was granted and the subsector has been known as Lentuli ever since.
+sespa was the first Bwap to be raised to ducal status and one of only a few non-human dukes in the Imperium. He used his position to petition the Emperor to rename the subsector Lentuli in honor of Marhaban's Vilani designation and for the further glory of the Lentuli family's dynasty. The request was granted and the subsector has been known as Lentuli ever since.
 
 The advent of the Imperial Civil War saw chaos again descend on the Bwaps and the dissolution of Imperial governance in the sector saw the return of Vargr pirates. For almost two decades, the Tep-awewaka-atapas held the line and defended the subsector from the worst of Vargr incursions. The conclusion of the war saw the restoration of Imperial rule to the sector as well as the edict that only Bwaps were to sit as subsector dukes of Lentuli as a reward for their perseverance in maintaining order throughout the absence of Imperial oversight.
 
-The ducal seat of the Empty Quarter became vacant in the last decade of the Third Imperium’s first millennium. Upon the death of the heirless aging sector duke, the
+The ducal seat of the Empty Quarter became vacant in the last decade of the Third Imperium's first millennium. Upon the death of the heirless aging sector duke, the
 
 senior nobility could not agree on whom to select as a successor. Eventually, it became obvious that none of the human dukes or duchesses would allow any other to rise to the sector throne. To prevent the interference of the archduke, a meeting of senior nobility was called to decide on a nomination for the sector seat. This became an exercise of finding the least hated noble to nominate, as opposed to the most popular or qualified. With no other options available to them, the sector peerage nominated Subsector Duke Dethwab-
 takebwebwakawa of the Bebewebboekebseb clan to become the first Bwap sector duke of Empty Quarter, on the proviso that he would name as his heir a human of Solomani descent. The Emperor was delighted with the suggestion and after weeks of discussions with the Grand Council of Crèches and deep introspection, Duke Dethwab-takebwebwakawa accepted the position offered. While many human nobles of the sector outwardly embraced the new duke, secretly they were less than satisfied. Under the rule of the new duke, Imperial law became increasingly inflexible and enforced to the last subclause regardless of facts on the ground. This strict adherence became to be seen as arbitrary, untrustworthy and essentially tyrannical, especially by the Solomani population.
 
-Duke Dethwab-takebwebwakawa proved to be an efficient leader, known for sticking strictly to the letter of the law. During his reign, he was responsible for reducing piracy in the Empty Quarter considerably, not through overwhelming forces but his race’s natural ability to see patterns within the order of things. On the duke’s death, the sector throne fell to the heir of his choice, one of Solomani decent as was stipulated.
+Duke Dethwab-takebwebwakawa proved to be an efficient leader, known for sticking strictly to the letter of the law. During his reign, he was responsible for reducing piracy in the Empty Quarter considerably, not through overwhelming forces but his race's natural ability to see patterns within the order of things. On the duke's death, the sector throne fell to the heir of his choice, one of Solomani decent as was stipulated.
 
 Bwaps have spread to every corner of the Third Imperium but are most common in the Empty Quarter. The Bwap core worlds are places of intense, if not maddening, bureaucracy but it cannot be denied that without their expertise and desire for order, the Third Imperium would be much worse for wear. Besides Humaniti in all its diversity, Bwaps are one of the most common races encountered within the Imperium and can be found well beyond its borders. Corporations are eager to add Bwaps to their payroll and governments find them indispensable administrators. They have become synonymous with excessive bureaucracy, adherence to rules and a devotion to formalities.
 
@@ -7135,9 +7135,9 @@ Date Event
 -2219 Terrans defeat the Ziru Sirka and found the Rule of Man.
 -2145 Lentule is renamed Marhaban.
 -1850 Tap-awewaka-atapas become strong enough to protect the four core Bwap worlds of Marhaban, Wesawek, Tapawa and Ka-aswa from Vargr incursions.
--1850 Bwaps introduce a system of ‘hard currency’ that outlasts the Rule of Man.
+-1850 Bwaps introduce a system of 'hard currency' that outlasts the Rule of Man.
 -1776 The Rule of Man collapses and the Long Night quickly descends.
--1600 Marhaban and Wesawek’s technology stabilizes at TL9.
+-1600 Marhaban and Wesawek's technology stabilizes at TL9.
 -1500 Anti-Bwap purges begin on many human-dominated worlds.
 -1300 Marhaban re-attains TL10.
 -1300 The Grand Council of Crèches decides to contact scattered crèches.
@@ -7146,7 +7146,7 @@ Date Event
 -1163 The legendary journey of Watwapebpepaeb from Marhaban to the Old Expanses begins.
 -1141 Watwapebpepaeb returns triumphantly to Marhaban.
 -1100 Bwaps regain interstellar flight.
--1000 Start of the ‘Bwap Diaspora’ – Bwap merchant vessels travel further and further from Marhaban, re-
+-1000 Start of the 'Bwap Diaspora' – Bwap merchant vessels travel further and further from Marhaban, re-
 opening markets closed for centuries of barbarism and decay.
 -990 The Tap-awewaka-atapas requests permission from the Grand Council of Crèches to destroy from orbit those human cities that threaten Bwap clans. The request is denied.
 -940 The Tap-awewaka-atapas evacuate the last of the clans from dying or marginal systems.
@@ -7163,14 +7163,14 @@ opening markets closed for centuries of barbarism and decay.
 Bwaps evolved on Marhaban (A5697AB-D), in the Lentuli subsector of the Empty Quarter. The homeworld of the Bwaps is occasionally confused with another world of the same name located in the Lishun sector which is a desert world completely devoid of moisture. This has been a source of some puzzlement to casual astrographic chart readers.
 
 Marhaban was the name given to the system by the Solomani but the word has its roots in the Arabic language. The Bwap have several names for their world including Wa-bawapakerwa-a-a-a-awa-
-pawabawabawaba, loosely meaning ‘small branch of the large and great tree that floats in the endlessly vast ocean’, Peka-wapawab, loosely meaning ‘beloved, small branch of the great tree’, and TaswaBwapeaspa, loosely meaning ‘fruitful branch of the great tree’.
+pawabawabawaba, loosely meaning 'small branch of the large and great tree that floats in the endlessly vast ocean', Peka-wapawab, loosely meaning 'beloved, small branch of the great tree', and TaswaBwapeaspa, loosely meaning 'fruitful branch of the great tree'.
 
 Bwaps use each of the three names for their planet under very particular circumstances. Wa-bawapakerwa-
 a-a-a-awa-pawabawabawaba is only used on formal occasions whereas Peka-wapawab is used only in an informal manner. TaswaBwapeaspa is used primarily in a professional manner when the Bwaps refer to their world in a business sense.
 
 ### MAINWORLD DATA
 
-Marhaban has a 21 hour day and a 358 day year, which is remarkably close to the Terran standard. Marhaban’s axial tilt is very small but its orbit is slightly erratic leading to frequent (in geological terms) climate shifts that have had a major impact on Bwaps and their development. The planet has no moon but the suns generate tides of 30–60 centimeters.
+Marhaban has a 21 hour day and a 358 day year, which is remarkably close to the Terran standard. Marhaban's axial tilt is very small but its orbit is slightly erratic leading to frequent (in geological terms) climate shifts that have had a major impact on Bwaps and their development. The planet has no moon but the suns generate tides of 30–60 centimeters.
 
 Marhaban has a warm and hospitable climate with temperatures averaging 32oC and a sea-level air pressure of 1.05 standard atmospheres. The atmosphere is composed primarily of nitrogen, oxygen and water vapour, with trace amounts of carbon dioxide and other gaseous molecules making it breathable with humidity averaging 98%. There are no major pollutants or other oddities. Due to the high humidity, weather patterns include a heavy amount of precipitation, with rain occurring on most days throughout the year depending on topographical and seasonal variations.
 
@@ -7485,7 +7485,7 @@ Dame Jinda Sachdev was awarded her fiefdom for services to the Imperial Marines.
 
 The Marhaban starport is one of the largest Class A ports in the Lentuli subsector, second only to the massive starport at Wesaswek. The port is a major trade center and a crossroad on the x-boat communication route. As such, it is visited by millions of sophonts every year.
 
-The highport orbits Marhaban in a geosynchronous position above the equator of the main continent. Constructed as a huge squat cylinder with a diameter of four kilometers and four kilometers tall, it has four large spheres, bisecting the cylinder in quarters, attached to the outer rim. Each sphere is a kilometer in diameter, making the whole structure six kilometers in diameter. The ‘bottom’ of the port faces the planet while the top faces the stars. From the center of the top of the cylinder juts the administration and traffic control towers.
+The highport orbits Marhaban in a geosynchronous position above the equator of the main continent. Constructed as a huge squat cylinder with a diameter of four kilometers and four kilometers tall, it has four large spheres, bisecting the cylinder in quarters, attached to the outer rim. Each sphere is a kilometer in diameter, making the whole structure six kilometers in diameter. The 'bottom' of the port faces the planet while the top faces the stars. From the center of the top of the cylinder juts the administration and traffic control towers.
 
 From the center of the bottom of the port extends the space elevator with cars suitable for personnel and cargo transport. Elevator cars arrive and depart at 10 minute intervals throughout the day and night.
 
@@ -7494,7 +7494,7 @@ Each sphere is used for docking purposes and local administration. There is one 
 
 Internally, the highport is divided into individual, self-sufficient districts such as public, commercial and military docking, with multiple administrative, residential, commercial, entertainment and industrial zones as redundancy measures. Each zone has its own life support, power and infrastructure, enabling it to continue on its own in the case of isolation or damage to other sections of the port.
 
-Accommodation is available for transient populations, ranging from cheap ‘capsule’ hotels to large and luxurious hotels that boast the very best of amenities. The highport also boasts a busy Travellers’ Aid Society facility and hostel.
+Accommodation is available for transient populations, ranging from cheap 'capsule' hotels to large and luxurious hotels that boast the very best of amenities. The highport also boasts a busy Travellers' Aid Society facility and hostel.
 
 Life support in the highport is set with Bwap comfort in mind, so most other sophonts are likely to find the temperature somewhat warmer than is comfortable and the humidity to be almost suffocatingly high. Enclaves have been set aside for the comfort of other races, with the human enclave being the largest.
 
@@ -7540,7 +7540,7 @@ As the subsector capital, Marhaban also houses all infrastructure and administra
 The legal structure on Marhaban is notably convoluted
 (for outsiders) and inextricably intertwined with ritual and the Wapawab philosophy. Weapons and armor of any description are highly regulated on the planet and only permitted to authorized forces. All drugs are restricted and recreational drugs such as nicotine, cannabis, alcohol and so on are prohibited. Live animal and plant imports are completely prohibited. Entertainment is closely scrutinised for its suitability to be introduced to the community. Adult entertainment of any type is prohibited.
 
-Starships not of Marhaban origin are not permitted to land on planet except at the starport. Before docking, visitors must present a bill of clean health; papers of starship registration, crew and cargo manifests, and astrogation data from the last four jumps. Customs inspections are conducted electronically as ships emerge from jump and approach the planet, physical inspections through customs patrols before docking and then again physical inspection by port officials on docking. Finally, before being permitted to leave the ship or unload cargo, the crew and ship must be subjected to vermin eradicating procedures to ensure that no foreign species are introduced to Marhaban’s ecosystem.
+Starships not of Marhaban origin are not permitted to land on planet except at the starport. Before docking, visitors must present a bill of clean health; papers of starship registration, crew and cargo manifests, and astrogation data from the last four jumps. Customs inspections are conducted electronically as ships emerge from jump and approach the planet, physical inspections through customs patrols before docking and then again physical inspection by port officials on docking. Finally, before being permitted to leave the ship or unload cargo, the crew and ship must be subjected to vermin eradicating procedures to ensure that no foreign species are introduced to Marhaban's ecosystem.
 
 Due to the intricacies of the law and internal bureaucracy, Marhaban is rated as an Amber Zone, with visitors highly advised to remain within the confines of the starport. It is recommended that any Travellers intending to venture beyond the starport seek a local guide to ensure they do not inadvertently run afoul of any laws.
 
@@ -7559,7 +7559,7 @@ The Bank of Marhaban is a powerful force throughout the Lentuli subsector and st
 
 Marhaban is best known for its export of TL14 weather control technology, used across the sector and beyond to make less than viable worlds habitable. Weather control stations are not purchased but leased, the massive systems shipped as parts and constructed on site. Weather stations can only be crewed by Bwaps and knowledge of weather control technology also restricted to Bwaps. A lucrative spare parts and repair industry also exists to support the maintenance of purchased stations.
 
-Another major export of Marhaban is economic and administrative expertise. Large personnel companies have grown up around the Bwaps’ natural abilities in these areas, which act as intermediaries in finding skilled prospective employees or hiring temporary staff for short term contracts.
+Another major export of Marhaban is economic and administrative expertise. Large personnel companies have grown up around the Bwaps' natural abilities in these areas, which act as intermediaries in finding skilled prospective employees or hiring temporary staff for short term contracts.
 
 Other major exports include copper, tin, iron, electronics and software.
 
@@ -7567,13 +7567,13 @@ The Bwap Homeworld
 
 ### DEMOGRAPHICS
 
-As their homeworld, Marhaban’s population is almost exclusively Bwap. There is a small human population concentrated in the capital city with a few other human populations located in the far north near the small arctic zone. They are the descendants of Vilani corporate personnel stranded on the planet after the collapse of the Rule of Man, as well as some Solomani settlers and colonial supervisors. These have been largely subsumed into Bwap culture and society but do not display all of the psychological and cultural values.
+As their homeworld, Marhaban's population is almost exclusively Bwap. There is a small human population concentrated in the capital city with a few other human populations located in the far north near the small arctic zone. They are the descendants of Vilani corporate personnel stranded on the planet after the collapse of the Rule of Man, as well as some Solomani settlers and colonial supervisors. These have been largely subsumed into Bwap culture and society but do not display all of the psychological and cultural values.
 
 Within the startown can be found a more cosmopolitan population but it is still predominately Bwap. Most permanent inhabitants of other species prefer to live within enclaves where they can pursue their own culture. Within the startown, many species of sophont can be found but most common beside Bwaps are humans and Vargr, with the occasional Lutini and even Sydite.
 
 ### CULTURE
 
-The Bwaps of Marhaban are deeply traditional, more so than any other Bwap dominated world. They see themselves as the center of Bwap civilization, culture and education. They are rightfully proud of their world’s history and heritage, and how they had struggled and endured during the Long Night to bring civilization and peace back to the Lentuli subsector.
+The Bwaps of Marhaban are deeply traditional, more so than any other Bwap dominated world. They see themselves as the center of Bwap civilization, culture and education. They are rightfully proud of their world's history and heritage, and how they had struggled and endured during the Long Night to bring civilization and peace back to the Lentuli subsector.
 
 ### URBANISATION
 
@@ -7585,7 +7585,7 @@ hence they restrict themselves to living in the remaining swamplands, taking gre
 There are many places and events of interest on the homeworld. A few are noted here:
 •  The first would undoubtedly be the space elevator situated on the equatorial mountains of the major continent. The elevator connects the Marhaban downport with the highport in orbit. Travellers and
 
-cargo are delivered to the planet’s surface via the elevator. From the downport Travellers may remain at the extensive star town or, with the correct permit, venture further out.
+cargo are delivered to the planet's surface via the elevator. From the downport Travellers may remain at the extensive star town or, with the correct permit, venture further out.
 •  During the last two weeks of spring, the plants in the Pesabebawa-peba Valley release their pollen into the air. Most of the pollen finds its way into the river system within the valley, colouring the water with a rainbow of hues and creating a major tourist attraction.
 •  Bawapakerawa-a-aperwapa-vilani-pa is a festival held on the ninth day of the ninth month and lasts for nine days. It commemorates the first contact between Bwap and Vilani cultures. All businesses on Marhaban close during these nine days as re-enactments of the first contact play out across every city. Fairs are common and representations of the first Vilani visitors and their vessels are paraded through the streets. The festival ends with a rich feast of Vilani-inspired foods and a mock battle involving coloured dyes that represent the diversity that Vilani contact brought to Marhaban.
 •  The capital city hosts a particularly vivid First Contact festival annually in the central town square where a giant monument of a Bwap and Vilani bowing to each other is located. A temporary fairground is constructed and stretch over several kilometers. Attractions include a variety of markets, entertainments, rides and re-enactments, the most popular being the landing of the first Vilani scoutship to visit Marhaban.
@@ -7596,18 +7596,18 @@ As Bwaps spread across Charted Space, they took with them that which they found 
 
 ### NEW TRAIT
 
-The following trait is new to Traveller and may be applied to animals at the Referee’s discretion.
+The following trait is new to Traveller and may be applied to animals at the Referee's discretion.
 
 **Aquatic:** The animal is at home in the water but unable to function on land and will begin to suffocate if removed from the water. Its movement is not affected underwater but its speed is reduced to 0m on land. The Bwap Homeworld
 
 **AWAHALLAPAH**
-The awahallapah is a large marine primitive amphibianoid found in shallow waters near lightly inhabited coastlines. It resembles a prehistoric plesiosaur with an elongated neck and six large flippers; four true flippers and a pair of false flippers with a membrane that extends down to the tip of the tail and used for territorial and courtship displays. The true flippers are the awahallapah’s main form of locomotion, using them in an alternating flapping motion and giving the appearance of the creature flying through the water. The tail is primarily a rudder but can also be used defensively if needed. Short feathery gills extend from the sides of the awahallapah’s head, giving it the ability to breathe water.
+The awahallapah is a large marine primitive amphibianoid found in shallow waters near lightly inhabited coastlines. It resembles a prehistoric plesiosaur with an elongated neck and six large flippers; four true flippers and a pair of false flippers with a membrane that extends down to the tip of the tail and used for territorial and courtship displays. The true flippers are the awahallapah's main form of locomotion, using them in an alternating flapping motion and giving the appearance of the creature flying through the water. The tail is primarily a rudder but can also be used defensively if needed. Short feathery gills extend from the sides of the awahallapah's head, giving it the ability to breathe water.
 
-Awahallapah are carnivorous, feeding on numerous small creatures near the water’s surface or preying on larger creatures that dwell on or near the sea floor. Its long neck allows it to also feed on aerial lifeforms, snatching prey mid-flight and swallowing it whole. An adult awahallapah is able to easily take prey the size of a Bwap or human and caution is advised to those visiting known hunting grounds. The awahallapah is highly protected and anyone harming or killing a specimen faces extreme penalties.
+Awahallapah are carnivorous, feeding on numerous small creatures near the water's surface or preying on larger creatures that dwell on or near the sea floor. Its long neck allows it to also feed on aerial lifeforms, snatching prey mid-flight and swallowing it whole. An adult awahallapah is able to easily take prey the size of a Bwap or human and caution is advised to those visiting known hunting grounds. The awahallapah is highly protected and anyone harming or killing a specimen faces extreme penalties.
 
 ### DEPWETHAWA
 
-Depwethawa (known as ‘marsh lions’ to humans) are primitive amphibianoid predators found in swamps and shallow waterways. They have a large heavily armored head, long razor-sharp teeth, a low slung furless feline-like body and long thick tail. Depwethawa use their tails as their main locomotive force when swimming, their limbs kept close to their sides and occasionally used as rudders. The creature is an ambush hunter, lying in wait just below the surface for unsuspecting prey to approach before it launches itself explosively at its target and then drags it below the surface to drown and be consumed at its leisure. Depwethawa have no fear and have been known to aggressively attack prey many times their size. They can be found even in heavily populated areas where they can prove to be a significant risk. Areas known to possess a population of depwethawa are cordoned off and signs are liberally displayed to warn passers-by of the danger. Depwethawa that become a serial menace are relocated unharmed in less inhabited regions.
+Depwethawa (known as 'marsh lions' to humans) are primitive amphibianoid predators found in swamps and shallow waterways. They have a large heavily armored head, long razor-sharp teeth, a low slung furless feline-like body and long thick tail. Depwethawa use their tails as their main locomotive force when swimming, their limbs kept close to their sides and occasionally used as rudders. The creature is an ambush hunter, lying in wait just below the surface for unsuspecting prey to approach before it launches itself explosively at its target and then drags it below the surface to drown and be consumed at its leisure. Depwethawa have no fear and have been known to aggressively attack prey many times their size. They can be found even in heavily populated areas where they can prove to be a significant risk. Areas known to possess a population of depwethawa are cordoned off and signs are liberally displayed to warn passers-by of the danger. Depwethawa that become a serial menace are relocated unharmed in less inhabited regions.
 
 Animal Hits Speed Depwethawa 49 8m Skills Athletics (strength) 3, Recon 3, Stealth 4, Survival 2 Attacks Bite (4D)
 Traits Amphibious, Armor (+8), Heightened Senses, Large (+2)
@@ -7621,12 +7621,12 @@ The Bwap Homeworld
 
 KAPA-BAWABAW The kapa-bawabaw is a large semiaquatic molluscoid the size of a Terran cow that lives in the swamps of Marhaban. They have a thick yellow hide speckled with orange markings and six eyes; two large eyes and four smaller ones. Inside its wide shell-like mouth are three rows of hardened ridges that the kapa-bawabaw uses to chew the vegetation it lives on. Along its underside it has multiple pairs of flipper-like pseudopods that it uses to propel itself through water. In the water the kapa-bawabaw is a graceful swimmer but on land it moves with an awkward humping motion. The kapa-bawabaw was domesticated early in Bwap history and are in general docile. The only exception to this is when the hermaphroditic kapa-bawabaw come into rut and become aggressive and territorial.
 
-Bwaps have a number of uses for kapa-bawabaw. They use the mucus from the kapa-bawbaw’s hide as both pickling agent and preservative in cooking, the fertilised eggs are considered a delicacy and the hide, when tanned and prepared correctly, is used as material for clothing. Collecting the eggs is a risky endeavor, as brooding kapa-bawabaw are extremely protective. Primitive Bwaps would use the collection of kapa-
+Bwaps have a number of uses for kapa-bawabaw. They use the mucus from the kapa-bawbaw's hide as both pickling agent and preservative in cooking, the fertilised eggs are considered a delicacy and the hide, when tanned and prepared correctly, is used as material for clothing. Collecting the eggs is a risky endeavor, as brooding kapa-bawabaw are extremely protective. Primitive Bwaps would use the collection of kapa-
 bawabaw eggs as a rite of passage for young males entering adulthood and the rite is still practiced today in a less dangerous, figurative fashion.
 
 ### PAWBAWEPKA
 
-The pawbawepka (known as a ‘salamander pug’ by humans) is a medium-sized modern amphibianoid carnivore that has become a companion animal to Bwaps, although several related species remain in the wild. Domesticated late in Bwap prehistory, pawbawepka serve the same role for Bwaps that dogs do for humans. They are the height of a medium dog with a brown hide covered with blue markings, four short legs and a long flattened tail that is used for motive force when swimming. Their face is rather flattened, much like a Terran bulldog or pug, but possess no external ears. They feed through the use of a long sticky tongue that captures prey and draws it into their mouth where it is chewed with several rows of sharp teeth before being swallowed. Female pawbawepka lay up to four eggs annually which she keeps in her pouch. When the young hatch they remain in the pouch being fed by their mother until they reach a month old, at which point they leave the pouch. The pups may be removed from the mother at this point but in the wild the young remain with the mother for six months, learning how to hunt and fend for themselves before they are chased away to live a solitary life.
+The pawbawepka (known as a 'salamander pug' by humans) is a medium-sized modern amphibianoid carnivore that has become a companion animal to Bwaps, although several related species remain in the wild. Domesticated late in Bwap prehistory, pawbawepka serve the same role for Bwaps that dogs do for humans. They are the height of a medium dog with a brown hide covered with blue markings, four short legs and a long flattened tail that is used for motive force when swimming. Their face is rather flattened, much like a Terran bulldog or pug, but possess no external ears. They feed through the use of a long sticky tongue that captures prey and draws it into their mouth where it is chewed with several rows of sharp teeth before being swallowed. Female pawbawepka lay up to four eggs annually which she keeps in her pouch. When the young hatch they remain in the pouch being fed by their mother until they reach a month old, at which point they leave the pouch. The pups may be removed from the mother at this point but in the wild the young remain with the mother for six months, learning how to hunt and fend for themselves before they are chased away to live a solitary life.
 
 Pawbawepka are covered with a thick layer of fat, which makes them look somewhat plump. Coupled with their tendency to enjoy sleeping most of the day, they are often mistaken as slothful creatures. In reality, while a pawbawepka can sleep upwards of 18 hours a day, they are capable of sudden bursts of speed that belies their short legs and rotund appearance. Domesticated pawbawepka are exceptionally affectionate with their owner but tend to be aloof towards others.
 
@@ -7648,7 +7648,7 @@ Reepa-reep are gifted mimics and known for their boisterous and mischievous pers
 
 ### PARAWBA
 
-The parawba (known as a ‘swamp-donkey’ by humans) is a primitive amphibianoid used as a riding animal and beast of burden. It has a long three meter body with a four meter tail. The head is boomerang shaped with its eyes located at the sides of the head, giving it excellent peripheral vision but poor forward vision. The head sports two frills starting at the top of the nostrils at the front of the head and progressing down to the thick neck where they join and then end just over the shoulder blades. The tail is also broadly frilled on both the dorsal and ventral sides. Males have an additional frill that begins just after the shoulder blades and extends to the end of the tail. Males have larger frills than females, which are brightly coloured to attract mates and act as threat displays and also possess a throat pouch, which they can expand to produce calls to attract mates and for courtship displays. The legs are slightly splayed out from the body and end in broad, webbed, three-toed feet. The skin is smooth and soft. Female parawba are drably coloured with a splotched pattern to aid in camouflage in the swamps on Marhaban, while males are brightly coloured in reds, blues and yellows.
+The parawba (known as a 'swamp-donkey' by humans) is a primitive amphibianoid used as a riding animal and beast of burden. It has a long three meter body with a four meter tail. The head is boomerang shaped with its eyes located at the sides of the head, giving it excellent peripheral vision but poor forward vision. The head sports two frills starting at the top of the nostrils at the front of the head and progressing down to the thick neck where they join and then end just over the shoulder blades. The tail is also broadly frilled on both the dorsal and ventral sides. Males have an additional frill that begins just after the shoulder blades and extends to the end of the tail. Males have larger frills than females, which are brightly coloured to attract mates and act as threat displays and also possess a throat pouch, which they can expand to produce calls to attract mates and for courtship displays. The legs are slightly splayed out from the body and end in broad, webbed, three-toed feet. The skin is smooth and soft. Female parawba are drably coloured with a splotched pattern to aid in camouflage in the swamps on Marhaban, while males are brightly coloured in reds, blues and yellows.
 
 The parawba is a strong swimmer, equally capable on land and water. They are most comfortable living along the fringes of swamps where they feed on copious amounts of vegetation. Parawba will flee into deeper water when frightened and can remain submerged for extended periods of time until danger has passed. If they are unable to flee, Parawba will kick their attackers or use their tail to deliver a surprisingly accurate and damaging swipe.
 
@@ -7719,7 +7719,7 @@ While Bwap criminals are rare and are considered to be mentally unwell, making l
 
 ### ARMY, MARINE, MERCENARY AND NAVY
 
-The majority of Bwaps in the military serve as a defensive force on Bwap controlled planets or large Bwap enclaves. Those that serve in other militaries, especially in the massive bureaucracy that controls each of the Imperium’s services, tend to have administrative roles, operate as medical personnel or military researchers. Those Bwaps that do serve in active units often serve in the Imperial Navy and more rarely the Imperial Army, Marines or mercenary units. They are seen as unusual by other Bwaps and as reliable, if not tediously by-the-book, servicemen by their comrades in arms.
+The majority of Bwaps in the military serve as a defensive force on Bwap controlled planets or large Bwap enclaves. Those that serve in other militaries, especially in the massive bureaucracy that controls each of the Imperium's services, tend to have administrative roles, operate as medical personnel or military researchers. Those Bwaps that do serve in active units often serve in the Imperial Navy and more rarely the Imperial Army, Marines or mercenary units. They are seen as unusual by other Bwaps and as reliable, if not tediously by-the-book, servicemen by their comrades in arms.
 
 ### SCOUT
 
@@ -7727,7 +7727,7 @@ Bwaps are no less curious than humans. They are far more cautious, sometimes inf
 
 ### MERCHANT
 
-Bwap merchants have plied the stars for centuries and are seen across Charted Space from the Solomani Confederation and Hiver Federation to the Spinward Marches and Zhodani Consulate. Bwaps normally command ships crewed by their own race as their personality precludes them from acting as captain to other, less disciplined races. Those found on mixed vessels often assume the position of ship’s purser or broker, although sometimes as administrative assistant or legal adviser. Those ships that have a Bwap as a first officer ensure their ship will effortlessly find its way through the myriad of rules and regulations found on each world it visits.
+Bwap merchants have plied the stars for centuries and are seen across Charted Space from the Solomani Confederation and Hiver Federation to the Spinward Marches and Zhodani Consulate. Bwaps normally command ships crewed by their own race as their personality precludes them from acting as captain to other, less disciplined races. Those found on mixed vessels often assume the position of ship's purser or broker, although sometimes as administrative assistant or legal adviser. Those ships that have a Bwap as a first officer ensure their ship will effortlessly find its way through the myriad of rules and regulations found on each world it visits.
 
 ### SCHOLAR
 
@@ -7762,7 +7762,7 @@ All suits of Bwap armor are decorated to resemble their colouration and patterni
 
 Armored Kaftan: A heavy-duty kaftan-like garment and head covering tailored from ballistic cloth, suffused with small tubes to circulate water around the skin of a Bwap to keep them moist. Like cloth armor, the fabric absorbs impact energy and disperses the blow over the body of the target. The fabric is obviously armored but at TL12 it becomes light enough to require a Routine (6+) Investigate or Recon check to recognize it as such.
 
-Bwap Powered Plate: A large and bulky suit of insulated powered armor made up of metallic plates forming a complete body shell designed specifically for Bwaps that is both tough and inflexible. As long as the suit’s 80-hour power cell (Cr200 to replace)
+Bwap Powered Plate: A large and bulky suit of insulated powered armor made up of metallic plates forming a complete body shell designed specifically for Bwaps that is both tough and inflexible. As long as the suit's 80-hour power cell (Cr200 to replace)
 has energy, the suit grants STR+2 but inflicts DEX-
 
 2. Additionally, enhanced actuators along the spine allow the Bwap to articulate their tail and use it a striking weapon in combat, inflicting the same damage as an unarmed strike. The TL14 version has a 160-hour power supply, is made of ceramic composites and adds STR+3 but only inflicts DEX-1.
@@ -7827,11 +7827,11 @@ Bwaps have a requirement to keep their skin moist in dry environments. This has 
 
 Item TL Kg Cost Equipment Webbing 2 — Cr50
 
-**Hydrosuit:** A hydrosuit is a full body suit including a covering for the head that maintains the correct humidity for Bwap comfort. The suit is designed to recycle all the body’s fluids, which can then be reused in maintaining humidity and is able to maintain a suitable environment for a Bwap for up to 30 days without being replenished and having the internal scrubbers replaced.
+**Hydrosuit:** A hydrosuit is a full body suit including a covering for the head that maintains the correct humidity for Bwap comfort. The suit is designed to recycle all the body's fluids, which can then be reused in maintaining humidity and is able to maintain a suitable environment for a Bwap for up to 30 days without being replenished and having the internal scrubbers replaced.
 
 Item TL Kg Cost Hydrosuit 11 4 Cr12500
 
-**Kaftan:** A loose-fitting garment, including head covering that is suffused with narrow tubing that delivers moisture directly to the skin of the wearer, keeping them moist in dry environments. Kaftans are patterned in the identifiable markings of the wearer’s crèche.
+**Kaftan:** A loose-fitting garment, including head covering that is suffused with narrow tubing that delivers moisture directly to the skin of the wearer, keeping them moist in dry environments. Kaftans are patterned in the identifiable markings of the wearer's crèche.
 
 At TL9 the kaftan is composed of two layers; an inner water absorbent layer and an outer water repellent layer. This keeps the outer surface of the garment dry, unlike earlier models.
 
@@ -7886,7 +7886,7 @@ Item TL Kg Cost Regenerax 12 — Cr10000
 
 ### PERSONAL AUGMENTATION
 
-As a whole, Bwaps do not embrace personal augmentation as a matter of principle. The Wapawab philosophy is quite clear that Bwaps are as they should be and any personal alterations are not the ‘way of things’. This does not include cybernetics to replace body functions or organs that have been lost but does include adding functionality that was not part of the Bwap physiology to begin with.
+As a whole, Bwaps do not embrace personal augmentation as a matter of principle. The Wapawab philosophy is quite clear that Bwaps are as they should be and any personal alterations are not the 'way of things'. This does not include cybernetics to replace body functions or organs that have been lost but does include adding functionality that was not part of the Bwap physiology to begin with.
 
 **Tail:** This augmentation is used to replace the tails of Bwaps that have not been able to regenerate on their own. The modification is largely cosmetic, although it is fully functional.
 
@@ -7936,7 +7936,7 @@ CSC: Bwaps
 
 Most Bwap vehicles are much like their human counterparts in ability and function but the aesthetics of the Bwap lead to much more round and organic-like form. Features like wings, fins or other types of decoration are rare, unless they serve a functional use
 
-A-AWAB AIR TRAM Air trams are ubiquitous on Imperial worlds of TL9 and above, providing fast, cheap and comfortable public transport for billions of passengers annually. The sturdy air tram seats 40 passengers. The majority of air trams are controlled by robot brains (making them essentially drones) and monitored by a central traffic control system but provision for a pilot is made. Routes are pre-programmed into the air tram’s robot brain and pilot or remote intervention is required to alter routes.
+A-AWAB AIR TRAM Air trams are ubiquitous on Imperial worlds of TL9 and above, providing fast, cheap and comfortable public transport for billions of passengers annually. The sturdy air tram seats 40 passengers. The majority of air trams are controlled by robot brains (making them essentially drones) and monitored by a central traffic control system but provision for a pilot is made. Routes are pre-programmed into the air tram's robot brain and pilot or remote intervention is required to alter routes.
 
 TL 12 SKILL Flyer (grav)
 AGILITY -1 SPEED (CRUISE) Fast (High)
@@ -8160,7 +8160,7 @@ Library — —
 Intellect — —
 Cargo 7.32 —
 
-The Apa-pakwa is a common sight around Bwap dominated worlds. A fast fighter with 7G of thrust makes this ship agile and swift. The fighter is normally crewed by two; a pilot/gunner and a sensor operator. Heavily armored, the fighter also provides significant protection for its crew, although realistically it is no threat to larger military starships or monitors. The dual cockpit can also double as a re-entry pod, allowing the crew to escape from a damaged vessel and either land safely on a planet’s surface if combat occurs in the atmosphere or orbit, or await rescue if in deep space.
+The Apa-pakwa is a common sight around Bwap dominated worlds. A fast fighter with 7G of thrust makes this ship agile and swift. The fighter is normally crewed by two; a pilot/gunner and a sensor operator. Heavily armored, the fighter also provides significant protection for its crew, although realistically it is no threat to larger military starships or monitors. The dual cockpit can also double as a re-entry pod, allowing the crew to escape from a damaged vessel and either land safely on a planet's surface if combat occurs in the atmosphere or orbit, or await rescue if in deep space.
 
 The fighter is normally operated in squads of six vessels, which patrol Bwap holdings and protect space lanes from the 100-diameter jump point up to docking at a highport or landing on the surface of a planet. The ship operates very well in an atmosphere, serving as both a COACC asset and space superiority fighter.
 
@@ -8305,14 +8305,14 @@ TL15 TONS COST (MCr)
 Hull 600 tons, Sphere — 33 Reinforced — 16.5 Armor Titanium Steel, Armor: 9 122 6.08 M-Drive Thrust 7 42 84 Power Plant Fusion (TL 12), Power: 570 38 38 Fuel Tanks 16 weeks of operation 16 —
 Bridge 20 3 Computer Computer/20 fib — 7.5 Backup Computer/5 — 0.03 Sensors Military 2 4.1 Weapons Fusion Barbette 5 4 Triple Turret (pulse lasers) x2 2 8 Triple Turret (missile racks) x2 2 6.5 Triple Turret (sandcasters) 1 1.75 Ammunition Missile Storage (144 missiles) 12 —
 Sandcaster Storage (144 sand canisters) 7 —
-Armored Bridge 2 0.4 Bulkheads Engineering 4.2 0.84 Power Plant 3.8 1.52 Systems Docking Space (60 tons) 66 16.5 Ship’s Boats x2 — 13.644 Armory 3 0.75 Briefing Room 4 0.5 Brig 4 0.25 Fuel Scoops — 1 Workshop 6 0.9 Staterooms Standard x19 76 9.5 Barracks (10 passengers) 20 0.5 Common 19 1.9 Areas Mud Bath 16 2 Software Anti-hijack/2 — 8 Electronic Warfare/1 — 15 Evade/2 — 2 Fire Control/2 — 4 Library — —
+Armored Bridge 2 0.4 Bulkheads Engineering 4.2 0.84 Power Plant 3.8 1.52 Systems Docking Space (60 tons) 66 16.5 Ship's Boats x2 — 13.644 Armory 3 0.75 Briefing Room 4 0.5 Brig 4 0.25 Fuel Scoops — 1 Workshop 6 0.9 Staterooms Standard x19 76 9.5 Barracks (10 passengers) 20 0.5 Common 19 1.9 Areas Mud Bath 16 2 Software Anti-hijack/2 — 8 Electronic Warfare/1 — 15 Evade/2 — 2 Fire Control/2 — 4 Library — —
 Maneuver/0 — —
 Intellect — —
 Cargo 103.5 —
 
 The Tabewarke defence boat is an example of a lower tech combat vessel that proves to be an effective asset. Its low Tech Level makes it easy to maintain and its larger size helps it carry an
 
-impressive weapon loadout. The addition of a marine force helps to support the gunnery crew as well as provide pilots for the ship’s boats.
+impressive weapon loadout. The addition of a marine force helps to support the gunnery crew as well as provide pilots for the ship's boats.
 
 **Tabewarke Class**
 
@@ -8366,7 +8366,7 @@ Power Requirements Basic Ship Systems 400 Maneuver Drive 800 Jump Drive 800 Sens
 
 The Pese-teko-we class destroyer is based on the Kargash Class light cruiser used by the Vilani during the Interstellar War period against the Solomani. The 2,000 ton hull is armed with two small missile bays, two fusion barbettes and four double plasma turrets. Point defence is provided by five triple
 
-sandcaster turrets. A marine contingent supports boarding actions as well as piloting the ship’s boat and acting as backup gunners. This well-armed and well defended destroyer normally acts in squadrons of up to 10 vessels, which have been given the deceptively comical name of Bwap Packs.
+sandcaster turrets. A marine contingent supports boarding actions as well as piloting the ship's boat and acting as backup gunners. This well-armed and well defended destroyer normally acts in squadrons of up to 10 vessels, which have been given the deceptively comical name of Bwap Packs.
 
 TL15 TONS COST (MCr)
 Hull 2,000 tons, Standard — 100 Reinforced — 50 Armor Crystaliron, Armor: 7 175 35 M-Drive Thrust 4 80 160 J-Drive Jump 4 205 307.5 Power Plant Fusion (TL12), Power: 2,055 137 137 Fuel Tanks J-4, 8 weeks of operation 828 —
@@ -8375,7 +8375,7 @@ Bridge 40 10 Computer Computer/25 fib — 15 Computer/15 bis — 3 Sensors Impro
 4 22
 
 Triple Turrets (sandcasters) x5 5 8.75 Ammunition Missile Storage (288 missiles) 24 —
-Armored Bridge 4 0.8 Bulkheads Engineering 28.5 5.7 Power Plant 13.7 2.74 Systems Docking Space (30 tons) 33 8.25 Ship’s Boat — 6.822 Armory 5 1.25 Briefing Room x2 8 1 Brig 4 0.25 Repair Drones 20 4 Fuel Processor (800 tons/day) 40 2 Fuel Scoop — 1 Workshop x2 12 1.8 Staterooms Standard x30 120 15 Barracks (15 passengers) 30 3 Common Area 30 3 Mud Baths 8 1
+Armored Bridge 4 0.8 Bulkheads Engineering 28.5 5.7 Power Plant 13.7 2.74 Systems Docking Space (30 tons) 33 8.25 Ship's Boat — 6.822 Armory 5 1.25 Briefing Room x2 8 1 Brig 4 0.25 Repair Drones 20 4 Fuel Processor (800 tons/day) 40 2 Fuel Scoop — 1 Workshop x2 12 1.8 Staterooms Standard x30 120 15 Barracks (15 passengers) 30 3 Common Area 30 3 Mud Baths 8 1
 
 **Pese-Teko-We Class**
 
@@ -8440,7 +8440,7 @@ Each Eaaetatka-ka possesses a command bridge as they are often assigned to lead 
 TL15 TONS COST (MCr)
 Hull 5,000 tons, Standard — 250 Reinforced — 125 Armor Crystaliron, Armor: 13 813 162.5 M-Drive Thrust 6 300 600 Power Plant Fusion (TL12), Power: 4,125 275 275 Fuel Tanks 16 weeks of operation 112 —
 Bridge Command 60 25 Computer Core/50 fib — 90 Computer/15 fib — 3 Sensors Improved 3 4.3 Sensor Stations x3 3 1.5 Countermeasures Suite 2 4 Distributed Array 6 8.6 Weapons Large Missile Bays x4 2,000 100 Fusion Barbettes x4 20 16 Triple Turrets (beam laser) x6 6 15 Triple Turrets (pulse laser) x10 10 40 Point Defence (type II) x10 200 100 Ammunition Missile Storage (2,880 missiles) 240 —
-Armored Bridge 6 1.6 Bulkheads Engineering 30 6 Power Plant 27.5 5.5 Sensors 1.1 0.22 Systems Docking Space (340 tons) 374 93.5 Apa-paka Medium Fighters x8 — 404.592 Ship’s Boats x2 — 13.644 Armory 7 1.75 Briefing Room x3 12 1.5 Brig 4 0.25 Repair Drones 50 10 Fuel Scoop — 1
+Armored Bridge 6 1.6 Bulkheads Engineering 30 6 Power Plant 27.5 5.5 Sensors 1.1 0.22 Systems Docking Space (340 tons) 374 93.5 Apa-paka Medium Fighters x8 — 404.592 Ship's Boats x2 — 13.644 Armory 7 1.75 Briefing Room x3 12 1.5 Brig 4 0.25 Repair Drones 50 10 Fuel Scoop — 1
 
 **Systems** Medical Bay x2 8 4
 
@@ -8544,7 +8544,7 @@ Armored Bulkheads
 
 Bridge 6 1.2
 
-Systems Docking Space (150 tons) 121 30.25 Ship’s Boats x3 — 20.466 Military Gig — 13.6683 Armory 17 4.25 Briefing Room x5 20 2.5 Brig 4 0.25 Repair Drones 250 50 Fuel Processor (10,440 tons/day) 522 26.1 Fuel Scoop — 1 Workshop x6 48 7.2 Staterooms Standard x129 516 64.5 Barracks (25 passengers) 50 1.25 Common Area 141 14.1 Mud Bath 40 5
+Systems Docking Space (150 tons) 121 30.25 Ship's Boats x3 — 20.466 Military Gig — 13.6683 Armory 17 4.25 Briefing Room x5 20 2.5 Brig 4 0.25 Repair Drones 250 50 Fuel Processor (10,440 tons/day) 522 26.1 Fuel Scoop — 1 Workshop x6 48 7.2 Staterooms Standard x129 516 64.5 Barracks (25 passengers) 50 1.25 Common Area 141 14.1 Mud Bath 40 5
 
 **Software** Advanced Fire Control/2 — 15
 
@@ -8629,7 +8629,7 @@ Power Requirements Basic Ship Systems 30,000 Maneuver Drive 60,000 Jump Drive 60
 
 Defences feature significant armor, meson screens, nuclear dampers and a point defence system.
 
-Three ship’s boats and a troop transport provides mobility for marine units and a gig is also available for the use of officers.
+Three ship's boats and a troop transport provides mobility for marine units and a gig is also available for the use of officers.
 
 The class does have some shortcomings, such as the extended time it takes to process fuel, taking in excess of 48 hours to process full tanks. Furthermore, the vessel only carries enough fuel for four weeks of operation, somewhat restricting its use.
 
@@ -8637,7 +8637,7 @@ TL15 TONS COST (MCr)
 Hull 150,000 tons, Standard — 7500 Reinforced — 3750 Armor Bonded Superdense, Armor: 11 13,200 6600 M-Drive Thrust 4 6,000 12000 J-Drive Jump 4 15,005 22507.5 Power Plant Fusion (TL12), Power: 153,075 10,205 10205 Fuel Tanks J-4, 4 weeks of operation 61,021 —
 Bridge 60 750 Holographic Controls — 187.5 Computer Core/90 fib — 180 Core/50 — 60 Sensors Improved 3 4.3 Distributed Arrays 6 8.6 Enhanced Signal Processing 2 8 Weapons Meson Spinal Mount (TL14) 31,875 12000 Large Particle Beam Bays x4 2,000 240 Medium Torpedo Bays x4 400 24 Fusion Barbettes x10 50 40 Triple Turrets (pulse laser) x30 30 120 Point Defence Laser Batteries
 (type III) x50 1,000 1000 Ammunition Torpedo Storage (990 torpedoes) 960 —
-Armored Bulkheads Bridge 6 12 Screens Meson Screens x5 50 100 Nuclear Dampers x5 50 50 Systems Docking Space (160 tons) 176 44 Ship’s Boats x3 — 20.466 Troop Transport — 45.45 Military Gig — 13.6683 Armory 79 19.75
+Armored Bulkheads Bridge 6 12 Screens Meson Screens x5 50 100 Nuclear Dampers x5 50 50 Systems Docking Space (160 tons) 176 44 Ship's Boats x3 — 20.466 Troop Transport — 45.45 Military Gig — 13.6683 Armory 79 19.75
 
 **Systems** Brig 16 1
 

@@ -1,4 +1,4 @@
-Welcome to the Journal of the Travellers’ Aid Society, your indispensable
+Welcome to the Journal of the Travellers' Aid Society, your indispensable
 guide to adventuring in the Far Future.
 
 Each volume is a treasure trove of information and game additions for
@@ -39,10 +39,10 @@ The
 The
 ```
 
-of the Travellers’ Aid Society
+of the Travellers' Aid Society
 
 ```
-of the Travellers’ Aid Society
+of the Travellers' Aid Society
 ```
 
 ## JJJournal
@@ -54,7 +54,7 @@ The
 ```
 
 ```
-of the Travellers’ Aid Society - Volume 11
+of the Travellers' Aid Society - Volume 11
 ```
 
 9 781913 076740
@@ -152,7 +152,7 @@ Printed in China.
 
 The
 
-of the Travellers’ Aid Society
+of the Travellers' Aid Society
 
 ## JJ
 
@@ -168,7 +168,7 @@ The rimward portion of the Datsatl sector holds many worlds that Tiji,
 ruler of the Tijian Khaganate, has long coveted. The Pirian Domain had
 set up a thick line of outposts to keep him from these worlds but Tiji
 found a way around them; the Steppehauler class of freighters able to
-jump 10 parsecs at once (see The Journal of the Travellers’ Aid Society
+jump 10 parsecs at once (see The Journal of the Travellers' Aid Society
 Volume 6). As the Empress Wave passed through Datsatl wreaking
 havoc, Tiji prepared.
 
@@ -178,7 +178,7 @@ his freighters to hop right over the Pirian blockade and establish
 colonies, so the worlds would be his before the Pirians could react.
 He named this new area the Tijian Expanse. Officially, these were to
 be mining colonies, providing ore and raw materials to fuel the Tijian
-Khaganate’s rebuilding efforts. In truth, Tiji wished to establish an
+Khaganate's rebuilding efforts. In truth, Tiji wished to establish an
 inhabited zone as a de facto barrier against potential colonization by
 the Zhodani Consulate.
 
@@ -217,7 +217,7 @@ game would be had by starting with a garden world (such as with a
 UWP of X-866000-0), use that instead.
 
 Second, how far away is this world from the Pirian Domain? All worlds
-in the Tijian Expanse are within 10 parsecs of the Expanse’s capital
+in the Tijian Expanse are within 10 parsecs of the Expanse's capital
 of Buudal, so they are all tied into the Tijian supply chain. The Pirian
 Domain offers an alternate market but also a source of potential
 raiders. Some worlds are three parsecs away from the nearest Pirian
@@ -241,11 +241,11 @@ Hydrographics 0 or 1, one or more large ice asteroids will have been
 landed near the colony site, roughly 250,000 tons worth, enough to last
 the initial colonists a bit more than two years.
 
-If the world’s Atmosphere is Thin (5) or Dense (8), the colony will be
+If the world's Atmosphere is Thin (5) or Dense (8), the colony will be
 located in highlands or lowlands respectively, to provide a local equivalent
-of Standard (6). If the world’s Atmosphere is other than Thin (5), Standard
+of Standard (6). If the world's Atmosphere is other than Thin (5), Standard
 (6) or Dense (8), an atmosphere dome will be provided so the colony itself
-is in Standard (6) Atmosphere. If the world’s Atmosphere is at least 4 but
+is in Standard (6) Atmosphere. If the world's Atmosphere is at least 4 but
 no more than 9 and Hydrographics is at least 1, it may have grasses, trees
 and fauna up to insects, otherwise the world has no biosphere.
 
@@ -270,11 +270,11 @@ colony is set up, leaving behind the 988 colonists it carries. Medics will
 be woken first, followed by those who will unpack and set up the other
 three modules and, if needed, the atmosphere dome. In most cases
 one quarter to half of the colonists will be children, elderly or otherwise
-unable to meaningfully contribute to a colony’s initial workforce, who
+unable to meaningfully contribute to a colony's initial workforce, who
 are revived last for this reason.
 
-Refer to The Journal of the Travellers’ Aid Society Volume 6 (page 9)
-for the downport module’s statistics. This module forms the colony’s
+Refer to The Journal of the Travellers' Aid Society Volume 6 (page 9)
+for the downport module's statistics. This module forms the colony's
 initial headquarters. Most functions are intended to eventually be
 replaced with more advanced, locally constructed buildings. The
 internal fuel tank contains enough fuel for a Steppehauler and the
@@ -287,8 +287,8 @@ two astronomers, five police, two mechanics, one steward and one
 judge. Many of these will either be Travellers or important characters,
 which ones depending on the campaign.
 
-If the downport module is the colony’s brains and stomach, the
-habitation module is the colony’s heart and lungs. It is a collapsed
+If the downport module is the colony's brains and stomach, the
+habitation module is the colony's heart and lungs. It is a collapsed
 habitat able to provide the equivalent of single occupancy staterooms
 for all 988 colonists, once expanded fully. The habitat provides light,
 heat and sealed life support, regardless of whether the world is
@@ -374,7 +374,7 @@ STEPPEHAULER DOWNPORT MODULE
 12. Fuel Tank
 
 This all consumes 800 Power, which is provided in one of two ways by
-the third module’s remaining contents.
+the third module's remaining contents.
 
 Primary power comes from eight tons of solar panels. As a backup, 80
 tons of TL8 fusion provides the same 800 Power, to be switched on
@@ -386,11 +386,11 @@ habitation module, able to power the agricultural manufacturing plant
 and keep the colony fed while the colony either repairs the solar panels
 or waits until evacuation can be arranged.
 
-Most of the cargo module’s contents are selected at the colony leaders’
+Most of the cargo module's contents are selected at the colony leaders'
 discretion. It is to be completely emptied once the colony is established,
 then filled with 500 tons of ore.
 
-If the world’s Atmosphere is other than Thin (5), Standard (6) or
+If the world's Atmosphere is other than Thin (5), Standard (6) or
 Dense (8), a set of transparent panels will be provided that deploy
 to form an atmosphere dome roughly 30 meters by 300 meters by
 300 meters, taking up 200 tons of the cargo module when packaged
@@ -411,7 +411,7 @@ mining equipment is automatically rejected. The list is technically
 limited by tonnage but equipment that costs too many megacredits will
 also be rejected, since the Tijian Khaganate is paying for all of this.
 
-The typical single big-ticket item is usually an Ajilchin (‘Worker’)
+The typical single big-ticket item is usually an Ajilchin ('Worker')
 class ship, which can prospect, mine and carry a message to Buudal
 if needed. It will require spare parts that the colony will not be able
 to manufacture right away, so it is typical to also request one ton of
@@ -455,7 +455,7 @@ swept aside once the Zhodani to rimward learn of them, which Tiji and
 his advisors know will happen within a century. Thus, Tiji is generous
 toward mining failures but intolerant of failures to survive and expand.
 
-Colonies are supplied using a ‘company store’ system, measured in
+Colonies are supplied using a 'company store' system, measured in
 units of 500-ton containers of common ore. In a normal market these
 would be worth about MCr0.5. In this case, goods are transported in
 500-ton modules via Steppehaulers, so it is more convenient for the
@@ -469,11 +469,11 @@ containers.
 20 containers.
 - 500 tons of radioactive materials is worth 1,000 containers.
 
-Each container sent back to the Tijian Expanse adds to the colony’s
+Each container sent back to the Tijian Expanse adds to the colony's
 credit. While there are several Steppehaulers available, a colony
 producing 10 or more containers per month is expected to eventually
 construct its own transport ships. Any colony with a positive credit
-balance can send a message requesting a purchase using the colony’s
+balance can send a message requesting a purchase using the colony's
 credit, taking D3 months. To reflect a more mercantile Tijian Khaganate,
 double or triple the prices. Any manufactured goods not on the list may
 be purchased in lots of 500 tons, at a cost in containers equal to the
@@ -543,7 +543,7 @@ Spare Parts 100 500 tons of spare parts.
 ```
 
 A second downport may not be purchased. The downport is intended
-to be the colony’s headquarters. Installing a second downport would be
+to be the colony's headquarters. Installing a second downport would be
 tantamount to splitting the colony, which Tiji disapproves of.
 
 RESOURCES AND MAINTENANCE
@@ -586,7 +586,7 @@ by a request for a new habitation module for said colonists. There
 must also be evidence that at least a quarter of the colonists will have
 something to do within a month of arrival and that at least 90% of the
 current colonists are employed, with training and education counting as
-‘employment’ for this purpose.
+'employment' for this purpose.
 
 Alternatively, immigrants can be recruited directly from the Pirian
 Domain or the Yaskoydri Technocracy. Results are highly variable but
@@ -598,7 +598,7 @@ month, since any longer risks inviting enforcement actions.
 
 Immigration can boost a small colony toward 100,000 people but that is
 well short of the 1,000,000 goal many hold. Natural births, on average,
-increase a colony’s population by one percent per year. A common
+increase a colony's population by one percent per year. A common
 solution to grow faster is cloning.
 
 Cloning is a well-established technology in the Tijian Khaganate, no
@@ -611,8 +611,8 @@ justifying tanks easier.
 
 Cloning tanks are a specialized form of metabolic chamber that starts
 with a genetic sample and a known maturation sequence. The tank
-runs this sequence on fast-forward in a process known as ‘forced
-growth’, printing cells and simulating the known effects of hormones at
+runs this sequence on fast-forward in a process known as 'forced
+growth', printing cells and simulating the known effects of hormones at
 various stages of life, taking one week per year of life. For sophonts,
 this includes neural development, so a cloned adult human produced
 will know how to walk and talk.
@@ -628,7 +628,7 @@ parent is able to simultaneously raise two children per level of Steward
 skill, while a part time parent can contribute half of this. This is usually
 provided in groups; a teacher, a nursery worker and a nutritionist
 with Steward-1 would have different foci for their Steward skills, each
-providing their specialty for each other’s children. If they were each
+providing their specialty for each other's children. If they were each
 partnered with someone with another job to provide resources for the
 families but also having Steward-1 and contributing part time, these six
 people would collectively be able to raise nine children at once.
@@ -706,10 +706,10 @@ Due to the measures needed for a colony to survive and grow, there
 are few choices to deal with lawbreakers. A colony cannot afford long
 term incarceration and thus turns toward more productive methods
 including re-education, rehabilitation or removal of the offender from the
-colony. For violent crimes, the offender can also be ‘recycled’. This is a
-manner of execution following which the offender’s body parts may be
+colony. For violent crimes, the offender can also be 'recycled'. This is a
+manner of execution following which the offender's body parts may be
 reused to benefit the colony. Visiting non-colonists who break the laws
-of the colony may be removed from the colony or ‘recycled’.
+of the colony may be removed from the colony or 'recycled'.
 
 TRADE AND MILITARY
 Trade is a complex operation, illegal for any colony to perform with
@@ -729,7 +729,7 @@ goods can be obtained.
 
 Trade also invites piracy and raiders. For any colony that insists on trading
 with the Pirians, it is advisable that a military presence is established
-ahead of time. Some partake in ‘pilgrimage trade’, where a ship makes four
+ahead of time. Some partake in 'pilgrimage trade', where a ship makes four
 or more jumps in order to trade before returning. All colonists are warned
 extensively against making any expeditions rimward. There is nothing for
 a few jumps in that direction but there are horror stories about a species
@@ -740,7 +740,7 @@ When piracy does happen, it starts with a Pirian scout ship jumping into the
 system, getting as close to the colony as it dares, taking detailed scans and
 leaving. Within a few months, if the colony is not heavily armed, a small fleet
 will arrive. The freighters will carry collapsible fuel tanks with enough spare
-fuel for the entire fleet, so it can jump away without refuelling in the colony’s
+fuel for the entire fleet, so it can jump away without refuelling in the colony's
 system. The transports will attempt to force their way into the colony and
 disgorge troops, who will seize the highest value cargoes they can quickly
 identify. The troops will not be needlessly destructive, mostly ignoring anyone
@@ -761,9 +761,9 @@ pilots and 2 cargo air/raft pilots can mine a combined average of 200
 tons of ore per day, including downtime from incidents, if everything
 goes okay. Things not going okay is a common basis for adventures.
 A large gas eruption may injure hundreds of workers. The agricultural
-plant could break down and the colony’s lone starship must travel to
+plant could break down and the colony's lone starship must travel to
 beg for help. The colony may do suspiciously well and someone must
-parley with investigators looking for signs of illegal Pirian ‘help’.
+parley with investigators looking for signs of illegal Pirian 'help'.
 
 The alternative is to use the colony as a home base for a crew travelling
 the Tijian Expanse. Options include visiting the Pirians, trading with
@@ -771,7 +771,7 @@ other colonies or engaging in pilgrimage trade. The Travellers may be
 troubleshooters based in Buudal, sent to colonies to deal with arising
 issues, such as searching for signs of Pirian trade. Options for this style
 of play also provide Referees with the ability to call Travellers back to
-‘defend their home’, if desired.
+'defend their home', if desired.
 
 #### High guardHigh guard
 
@@ -779,15 +779,15 @@ of play also provide Referees with the ability to call Travellers back to
 
 By Adrian Tymes
 
-The Ajilchin (Worker) was designed in the 1040s, as Tiji’s plans to
+The Ajilchin (Worker) was designed in the 1040s, as Tiji's plans to
 colonize what would become the Tijian Expanse took shape. It became
 evident the new colonies would need ships to carry mail, such as
 if there was some disaster and the colonists needed rescue. This
 emergency just-in-case need would not justify keeping a capable crew
 trained and ready, so a secondary purpose was added: prospecting and
-mining, in direct support of the colony’s official goals. The ship would
-also have to fit within a Steppehauler’s cargo module (see Journal of
-the Travellers’ Aid Society Volume 6), as that was the most practical
+mining, in direct support of the colony's official goals. The ship would
+also have to fit within a Steppehauler's cargo module (see Journal of
+the Travellers' Aid Society Volume 6), as that was the most practical
 way to get a ship to the colonies.
 
 It was not known at first whether Ajilchins would be primarily mining
@@ -802,7 +802,7 @@ assets better able to perform the actual mining, thus leaving their turrets
 empty or with small weapons equipped for self-defence. The model
 presented here is for a weaponless Ajilchin fresh from the factory.
 
-This multi-purpose nature extends to an Ajilchin’s mining drones. They
+This multi-purpose nature extends to an Ajilchin's mining drones. They
 can mine but are often used as sensor extensions while prospecting,
 as well as to load cargo. The primary ship entrance leads through the
 hangar, leading a number of crew to enter and exit by hanging onto
@@ -824,7 +824,7 @@ fitted, to allow an Ajilchin to perform two jumps in a row and take a four-
 parsec straight path before refuelling.
 
 Crew accommodations are provided by a pair of staterooms, with open
-space between them often pressed into service as a ship’s locker, with
+space between them often pressed into service as a ship's locker, with
 a makeshift galley on the bridge. Double occupancy is expected; a crew
 of four allows around-the-clock scanning, using six-hour shifts. The
 applicant numbers for positions aboard Tijian Expanse Ajilchins easily
@@ -850,8 +850,8 @@ space than to their home colony.
 Each colony with such crews
 has come up with their own
 name for these groups. One
-famous example is the ‘Lonely
-Nuggets Club’, who made
+famous example is the 'Lonely
+Nuggets Club', who made
 themselves popular on many
 colony worlds by conducting
 regular mail trips to Buudal.
@@ -972,16 +972,16 @@ Location: Any starport in The Beyond
 **Required Skills:** Ship skills, at least Pilot and Astrogation
 Reward: Up to half of a Cr500000 bounty
 
-Mission: Recover the far trader Reginald’s Purse and return it to any
+Mission: Recover the far trader Reginald's Purse and return it to any
 Class A or B starport
 
-Summary: The Empress Marava-class far trader Reginald’s Purse,
+Summary: The Empress Marava-class far trader Reginald's Purse,
 registered and financed out of Collace in District 268 of the Spinward
 Marches, has not made a mortgage payment in over two years. The First
 Merchants Bank of Collace has declared the ship in forfeiture of its loan
 and set a bounty of Cr500000 for its return to any authorized agency with
 which it has a reciprocal agreement, basically any Class A or B starport
-on Humaniti’s worlds of The Beyond, or MCr2 if it is returned to Collace,
+on Humaniti's worlds of The Beyond, or MCr2 if it is returned to Collace,
 which is at best seven jumps distance, at worst nearly 40.
 
 Trista Galibaan is a registered skip tracer from Collace who believes
@@ -1007,12 +1007,12 @@ cybernetic eyes with infrared, ultraviolet, light application and peripheral
 vision enhancements (Recon DM+1) tied to a TL14 neural comm and
 HUD for her weapons.
 
-Trista’s goal is to recover the ship. She does not care what happens
-to the crew but states ‘there will be less trouble if we leave as little
-mess as possible’.
+Trista's goal is to recover the ship. She does not care what happens
+to the crew but states 'there will be less trouble if we leave as little
+mess as possible'.
 
-REFEREE’S INFORMATION
-1: All is as stated. Reginald’s Purse is still stuck at the frontier spaceport,
+REFEREE'S INFORMATION
+1: All is as stated. Reginald's Purse is still stuck at the frontier spaceport,
 waiting on a part for its power plant. An engineer could rig a temporary
 replacement on a Difficult Engineer check, although the power plant will
 leak radiation (see Poor Maintenance, Traveller Core Rulebook, page
@@ -1023,7 +1023,7 @@ prepaid, will arrive at the port five days after the Trista and the Travellers,
 or could be acquired at any Class C or above starport for 1D x Cr10000.
 The ship has skipped six months of maintenance and has six quirks.
 
-The four crew of Reginald’s Purse are tired of running and will surrender
+The four crew of Reginald's Purse are tired of running and will surrender
 their ship once one of them is incapacitated in a fight, assuming they
 believe they would be spared and the Travellers would just take the ship
 and leave them be. If threatened with arrest or death, they will reluctantly
@@ -1049,7 +1049,7 @@ is testing systems with the intention of leaving the next morning.
 are armed with TL11 laser carbines and their jumpsuits are TL12 cloth
 armor (Protection +4). They will fight on the ground or in space.
 
-4: As 3 but the crew of Reginald’s Purse knowns Trista and the
+4: As 3 but the crew of Reginald's Purse knowns Trista and the
 Travellers are coming and have set an ambush. They wear both their
 vacc suits and cloth (Protection +12) and the captain has the Tactics
 (military) 1 skill and INT 9.
@@ -1081,18 +1081,18 @@ Trista is not diplomatic. She speaks her mind clearly and to the
 point, sometimes punctuated by expletives. Whilst she appears
 to be a straightforward simple character to understand, she has
 years of undercover experience and can pass even sophisticated
-lie detectors. If pressed and feeling in control, she will state ‘It’s
-easy for a sociopath to pass these things’ but never directly claims
+lie detectors. If pressed and feeling in control, she will state 'It's
+easy for a sociopath to pass these things' but never directly claims
 to be a sociopath. She does have some concern for the opinion of
 others and wonders if she really is a sociopath. So far, she has not
 decided whether she is, or whether it matters.
 
-Trista is an example of the adage ‘to catch a thief, you need a thief’.
-Growing up on the lower levels of Collace’s arcologies, she fell into
+Trista is an example of the adage 'to catch a thief, you need a thief'.
+Growing up on the lower levels of Collace's arcologies, she fell into
 a life of crime while still in her teens. Running guns and drugs for
-a gang and working her way up to its ‘soft crime’ computer fraud
+a gang and working her way up to its 'soft crime' computer fraud
 team, she established a reputation for staying one step ahead of the
-law. Unfortunately, a police raid on her gang’s headquarters turned
+law. Unfortunately, a police raid on her gang's headquarters turned
 violent and she ended up blinded by laser fire.
 
 The government offered her a deal: new eyes in exchange for
@@ -1105,7 +1105,7 @@ a contract basis and she became a skip tracer, first of ground
 and grav vehicles and finally working on a team that took down
 starship scofflaws. A run-in with her old gang left her with the
 desire to leave Collace for good and she accepted the contact
-from First Merchants to search for the far trader Reginald’s Purse,
+from First Merchants to search for the far trader Reginald's Purse,
 last reported position Vrel, in the Marrakesh subsector of The
 Beyond. Granted enough middle passage vouchers to take her to
 Marrakesh itself, she set out alone to make her big score.
@@ -1213,7 +1213,7 @@ a strip of ocean winding down one side its only source of water.
 Nevertheless, the extremely rich resources of this system have not
 dissuaded industrious workers from landing here.
 
-The Shushakan moon’s surface is divided into megacity-sized
+The Shushakan moon's surface is divided into megacity-sized
 compounds of construction sites, management quarters, production
 centres, automated factories and squalid dormitories, making Shushaka
 a nonstop industrial center. Outside the production centres, the blasted
@@ -1243,7 +1243,7 @@ HISTORY
 Despite not being as habitable as its neighbor Kaasu, settlers came
 to the Shushaka system for its rich mineral deposits and eschewed
 creature comforts in favor of the vast wealth that could be made from
-the system’s untapped resources. Over time, the system attracted
+the system's untapped resources. Over time, the system attracted
 more of that type of rugged colonist, eager to enrich themselves in
 this frontier even if that meant depriving themselves of the domestic
 comforts of their more affluent neighbors.
@@ -1262,7 +1262,7 @@ their home as the rightful capital and economic center of the subsector.
 Shushakan inhabitants have a contemptuous view of those from
 Kaasu, seeing them as less industrious and leading a charmed life to
 which they are undeserving. Their view of those from other systems is
-invariably as ‘soft’ or weak, incapable or unwilling to do what it takes to
+invariably as 'soft' or weak, incapable or unwilling to do what it takes to
 get ahead, either by taking risks, working more or through deception.
 
 This bitter rivalry (ironically one not shared by Kaasu) led to further
@@ -1277,14 +1277,14 @@ SOCIETY
 Somehow, in their fervour to increase their economic output,
 Shushakans began to work themselves to death. At the bottom of the
 workforce are grim, burned-out husks of people, who stay productive
-through the widespread use of legal stims. Due to the moon’s slower
+through the widespread use of legal stims. Due to the moon's slower
 rotation, factory shifts are typically 12 hours or longer.
 
 Those working in the corporate sector are highly competitive and
-exhibit the culture’s signature mistrust of outsiders. Accelerated burnout
-and poor quality of work is overlooked in favor of the company’s
+exhibit the culture's signature mistrust of outsiders. Accelerated burnout
+and poor quality of work is overlooked in favor of the company's
 staggering year-over-year growth and there are always eager workers
-to take a fallen one’s place.
+to take a fallen one's place.
 
 Executive workers are unethical in their ambition, making under-the-
 table bargains, cutting corners and contracting mercenaries to engage
@@ -1298,7 +1298,7 @@ that exists to manage and protect the interests of the Sebokea
 Corporation, which itself manages all resources and economics on a
 practical level.
 
-The capital city of Emptor sits at the downport of Shushaka’s Class
+The capital city of Emptor sits at the downport of Shushaka's Class
 A starport. It is an efficient and highly trafficked shipping and service
 center, transporting goods across the entire sector. Supporting this
 vast demand for goods, its cities are bleak landscapes of cavernous
@@ -1312,9 +1312,9 @@ is because every city block looks like every other one.
 
 THE FIVE VIRTUES
 Named after the original explorers of the system, the management of
-Sebokea has co-opted the symbolism of the system’s five gas giants
+Sebokea has co-opted the symbolism of the system's five gas giants
 as the foundations for their corporate values. Originally, the gas giants
-were named for five archetypes from the culture’s early roots:
+were named for five archetypes from the culture's early roots:
 •  Shushaka: an explorer who leads
 •  Muhr: the miser who guards resources
 •  Ikös: a navigator who plans ahead
@@ -1347,7 +1347,7 @@ acid rain and a thick, ashy atmosphere that persists for 2D hours. Roll
 ```
 
 CHEAP, UBIQUITOUS MARKET GOODS
-The corporation’s success lies in its ability to efficiently turn out plain,
+The corporation's success lies in its ability to efficiently turn out plain,
 functional consumer goods of low cost and quality. Disposable goods
 mean more repeat customers and low prices keep them coming back.
 Market goods are diverse in keeping with the Law Level and all buying
@@ -1361,7 +1361,7 @@ sophonts and AIs.
 
 Goods are shipped flat-packed and must be assembled by making
 a relevant Mechanic, Electronics or Gun Combat check equal to the
-equipment’s Tech Level. A failure means the equipment is somehow
+equipment's Tech Level. A failure means the equipment is somehow
 faulty or broken, causing it to malfunction if a check falls under the
 Effect of the roll (rolling a 5 to build a TL8 item means it will break on
 Effect -3 or below, rendering it useless).
@@ -1371,7 +1371,7 @@ Functional gear is always cheap, uncomfortable or shoddy-looking but
 can always be improved with a flashy coat of spray paint.
 
 Shipping from the Sebokea starport confers a 15% bonus to tonnage,
-due to the corporation’s efficient packing methods. A ship with 20 tons
+due to the corporation's efficient packing methods. A ship with 20 tons
 of cargo space can transport 23 tons of goods.
 
 VEHICLE CONSTRUCTION, REPAIRS AND MODIFICATIONS
@@ -1380,19 +1380,19 @@ DM+2 to Broker checks. However, the results will suffer D3-1 quirks. A
 vehicle purchased from Sebokea will be 20% cheaper than listed but will
 ship unassembled in a crate, taking hours or days of work in a hanger
 with proper tools before it is functional. As above, assembling the vehicle
-requires a Mechanic check with a difficulty of the vehicle’s Tech Level. A
+requires a Mechanic check with a difficulty of the vehicle's Tech Level. A
 failed check means the vehicle will break down, sustaining a critical hit
 to the affected system, whereas upon a successful Mechanic check the
 vehicle suffers no ill effects and functions as expected.
 
 BUDGET SHIPYARDS AND REPAIRS
-The moon’s primary downport is constantly abuzz with repairs,
+The moon's primary downport is constantly abuzz with repairs,
 transportation and construction performed with the sort of rushed
 abandon that would paralyse a safety inspector. Ships are constructed
 on the surface, then blasted into space where the low gravity makes
 working on big iron a breeze.
 
-Ships built on Shushaka’s moon are 20% cheaper but suffer D3
+Ships built on Shushaka's moon are 20% cheaper but suffer D3
 additional quirks. Due to weaker, inadequately recycled materials,
 repairs are done at one level of repair less than claimed on the Critical
 Hits table and will suffer one additional failure if a critical hit is scored
@@ -1402,7 +1402,7 @@ STIMS
 The system permits an active, legal stims market. Despite exports
 being completely legal, rival dealers still violently clash for control of this
 lucrative market. External cartels will limit the ability of traders to export
-Sebokea’s stims, which are produced in industrial quantities for lower
+Sebokea's stims, which are produced in industrial quantities for lower
 prices and can fetch a higher price in nearby systems.
 
 INDUSTRIAL ESPIONAGE
@@ -1443,14 +1443,14 @@ Atmospheric Conditioner 10 40 Cr135000
 **Autovalet Walk-in Wardrobe** : This marvellous item consumes an entire
 standard stateroom. It takes clothing discarded into its pull-out hopper,
 cleans and presses it, then carefully stores it in the hanging area. When
-the owner wishes to dress, they can stand in front of the wardrobe’s
-mirror doors and verbally request a particular garment. The wardrobe’s
+the owner wishes to dress, they can stand in front of the wardrobe's
+mirror doors and verbally request a particular garment. The wardrobe's
 computer uses word matching to recognize the specified item and
-projects an image of it in the mirror over the owner’s reflection. If the
+projects an image of it in the mirror over the owner's reflection. If the
 selection is agreeable, the article is retrieved from climate-controlled
-storage and left hanging behind the wardrobe’s doors along with a
+storage and left hanging behind the wardrobe's doors along with a
 selection of footwear, undergarments and complimentary clothing. More
-sophisticated models access their owner’s diary to refine selections.
+sophisticated models access their owner's diary to refine selections.
 
 ```
 Item TL Tons Cost
@@ -1465,7 +1465,7 @@ its energy via photosynthesis, but also digests any organic material that
 
 works its way down through the base matting, dealing with small pests
 or dropped food. Particularly clean staterooms need to occasionally
-supplement the bio carpet’s nutrition.
+supplement the bio carpet's nutrition.
 
 ```
 Item TL Kg Cost
@@ -1561,7 +1561,7 @@ Massage Chair 7 14 Cr12000
 
 Ultrabath (TL 8): The ultimate in personal hygiene, the ultrabath can
 keep the water at a specific temperature, run massaging power-jets and
-bubbles to relax the user’s body, add perfumes, oils and detergents,
+bubbles to relax the user's body, add perfumes, oils and detergents,
 and even fill itself with any fluid it has a connection to – anything from
 asses milk to champagne. It also fills itself in advance and self-cleans
 after. More luxurious models incorporate communicators, computers
@@ -1602,20 +1602,20 @@ Travellers are to get the package from Long Tooth first, preferably without
 the would-be thieves spotting the switch, then transport the package to
 the client using their own vehicle or a rental that she will provide. Angelik
 will expect the Travellers to follow local laws and use only non-lethal
-weapons in self-defence – no ‘holovid cowboys’! Travellers who do
+weapons in self-defence – no 'holovid cowboys'! Travellers who do
 otherwise will not get paid and may end up in jail.
 
-The ‘package’ is a pair of large blue security cases massing roughly 20
+The 'package' is a pair of large blue security cases massing roughly 20
 kilograms each. Under no circumstances will Angelik divulge the identity
 of the client or the contents of the cases, although she will assure any
 who ask that whatever is inside is legal, inert and will not outgas, burn or
 explode. The cases are fitted with electronic locks and anti-tamper alarms.
 
-Long Tooth’s shuttle has already left the high port and will land in about
+Long Tooth's shuttle has already left the high port and will land in about
 an hour, so there is no time for elaborate planning. The default plan is
 to have Long Tooth spill his luggage from a grav baggage pallet. The
 Travellers can then simply drop two identical cases (which Angelik will
-provide) in the confusion and pick up Long Tooth’s cases. They should
+provide) in the confusion and pick up Long Tooth's cases. They should
 feel free to modify or add to the plan however they wish and Angelik
 will provide holoimages of Long Tooth. The Travellers will have an
 hour at most to position themselves in the concourse or make other
@@ -1632,7 +1632,7 @@ before the passengers actually get to baggage claim. Passengers use
 a scan code (loaded in their comm or on a disposable fob) to claim
 luggage from the carousels. Tags on the baggage will trigger a security
 alert if someone tries to remove it from the area without the code.
-‘Dumb’ grav pallets are available for a nominal fee (Cr5) to help visitors
+'Dumb' grav pallets are available for a nominal fee (Cr5) to help visitors
 transport their baggage around the terminal. The claim area will be filled
 with passengers when shuttles have recently arrived but may be almost
 empty in between landings. A security guard is always present to deter
@@ -1654,9 +1654,9 @@ a starport security guard circulating through the concourse and security
 cameras and sensors cover both areas thoroughly.
 
 THE LIFT
-Angelik’s information is incomplete – there are actually three separate
+Angelik's information is incomplete – there are actually three separate
 crews hired by various parties (or perhaps only one party at the
-Referee’s discretion) to ‘lift’ the cases from Long Tooth once he leaves
+Referee's discretion) to 'lift' the cases from Long Tooth once he leaves
 baggage claim. Each crew will consist of two to three thieves, all of
 whom are initially unaware of the others. The thieves are, at most,
 lightly armed with non-lethal weapons (stun sticks or stunners) and are
@@ -1669,18 +1669,18 @@ larger box (or crate) on a second grav pallet and makes for the nearest
 exit. A third acts as spotter and will generate false alerts and other
 distractions to confuse and delay security.
 
-The second crew plan on hacking into Long Tooth’s grav pallet and
+The second crew plan on hacking into Long Tooth's grav pallet and
 commandeering it, sending it down a side corridor where the crew will
 grab the cases and hide them in a hollowed-out floor maintenance drone.
 
-The third’s plan is simpler yet. They have acquired starport security
-uniforms and will simply ‘detain’ Long Tooth for a ‘random customs
-inspection’, pulling into a small side room just off the concourse. There
+The third's plan is simpler yet. They have acquired starport security
+uniforms and will simply 'detain' Long Tooth for a 'random customs
+inspection', pulling into a small side room just off the concourse. There
 they will simply take the cases and drive off with them in an open-frame
 electric utility cart, depending on their IDs to get them clear.
 
 The Referee is free to reduce (or increase) the number of crews.
-Each will act independently and not hesitate to ‘liberate’ the cases
+Each will act independently and not hesitate to 'liberate' the cases
 from a competing crew – or the Travellers – given the opportunity. The
 Travellers may find themselves chasing the cases from one crew to
 another throughout the concourse or might find themselves pursued by
@@ -1719,7 +1719,7 @@ in TCA. It is possible the people behind one or more of the crews
 involved in the attempted theft might hold a grudge.
 
 Should they run into Long Tooth again he will laugh as he remembers
-the look on their faces when they saw the buttons – ‘is good joke, no?’
+the look on their faces when they saw the buttons – 'is good joke, no?'
 
 Grav Pallets: Grav pallets are a less expensive alternative to carrybots
 for moving small loads around. There are a number of common designs
@@ -1747,26 +1747,26 @@ Programming Basic (porter)
 
 By C. Urs Wohlthat
 
-‘The agreement between Clans Galcu and Drushu is as thus: each will
+'The agreement between Clans Galcu and Drushu is as thus: each will
 exile one of every 10 of their warriors for one year and one day. So that
-there will be peace between the kinsfolk of both.’
+there will be peace between the kinsfolk of both.'
 
 Born into the clan of Chieftain Galx, Connte Monson grew up to become
 a hunter and protector of his clan. He is of squat physique with ebony
 skin and unusually healthy for a Vespexer, owing to his time off-planet
 as much as his childhood in a comparatively untainted environment. He
 earned his knife at the age of eight, his bow two years later and had his
-armor constructed by Clan Galcu’s armorer before turning 18 years
-old. Chieftain Galx – literally meaning ‘the chief of Clan Galcu’ – began to
+armor constructed by Clan Galcu's armorer before turning 18 years
+old. Chieftain Galx – literally meaning 'the chief of Clan Galcu' – began to
 call upon his skills when assembling hunting parties that day.
 
-For several years, Connte’s star rose steadily. He was allowed to visit
-the Scholar’s Tower in the palace of King Oleb XVI twice and was even
-taught to read and write. It was here that Connte’s luck began to turn.
+For several years, Connte's star rose steadily. He was allowed to visit
+the Scholar's Tower in the palace of King Oleb XVI twice and was even
+taught to read and write. It was here that Connte's luck began to turn.
 Part of the same class of Vespexer students was a ranger of Clan
 Drushu named Sihaloho. Clans Drushu and Galcu had enjoyed a long
 relationship as neighbors at that time and their leaders were even
-related by blood but Sihaloho’s father, the leader of Clan Drushu – and
+related by blood but Sihaloho's father, the leader of Clan Drushu – and
 consequently called Chieftain Drux – began aiming for higher prizes
 than hunting the largest game or expanding clan borders into more
 prosperous hunting grounds.
@@ -1826,10 +1826,10 @@ his homeworld.
 
 Connte Monson knew
 nothing of all these plans
-by Sihaloho’s father and so
+by Sihaloho's father and so
 concentrated on learning
 as much as possible while
-staying in the Scholar’s
+staying in the Scholar's
 Tower. His assiduity
 eventually paid off, when
 he was lauded by Scholar
@@ -1899,13 +1899,13 @@ Patchwork Suit
 +4 7 15 12 Cr3000 Vacc Suit 0
 ```
 
-Finally, it seemed Connte’s time had come as Chieftain Galx tasked him
-with retrieving the kidnapped clan members but this time Connte’s luck
+Finally, it seemed Connte's time had come as Chieftain Galx tasked him
+with retrieving the kidnapped clan members but this time Connte's luck
 and skill fell short. Sihaloho had placed a small radio beacon onto his
 armor and so Chieftain Drux and his warriors saw Connte and his band
 approach. Connte barely survived the ensuing ambush and Chieftain
 Galx refrained from further rescue attempts. Instead, she asked for help
-from the Floating Palace. The king’s help however, did not take the form
+from the Floating Palace. The king's help however, did not take the form
 Galx had hoped for; the royal diplomat proposed a mere ceasefire and
 called for exiling a tenth of the warriors of each clan.
 
@@ -1913,8 +1913,8 @@ The idea of the king – or at least his diplomats – behind this was to
 remain impartial but defuse a situation which could easily spill over and
 cause a war between two large Vespexer factions, potentially souring
 relations between Vespexers and the Floating Palace. This would not
-only make the king’s hunting parties a much more difficult undertaking
-(a major concern!) but might also cut off the Scholar’s Tower from future
+only make the king's hunting parties a much more difficult undertaking
+(a major concern!) but might also cut off the Scholar's Tower from future
 missions of relic hunting; since ancient Sindalian artefacts are still a
 major source of revenue for the royal household, paying for trade goods
 from across the sector, peace could not be disturbed.
@@ -1943,7 +1943,7 @@ as they walk. Perela are carrion-eaters and consume anything hard
 like bone or dried jreine-guano, scraping it off the bare ground with a
 single hard tooth that can gnaw through a vacc suit in short order. They
 amble about in herds of 1D but under duress they summon 1D more by
-emitting a high-pitched ‘peep-peep’ noise.
+emitting a high-pitched 'peep-peep' noise.
 
 Perela can see in the infrared spectrum and sense vibration and sound
 acutely; Travellers will appear to be tall piles of carrion to them.
@@ -1983,7 +1983,7 @@ packages to the Imperial embassy at Ardesh Downport. Unfortunately,
 the crew passed through Obykla and may have inadvertently been
 exposed to Emerling Plague. With the crew in mandatory six-month
 quarantine and messages to pass on to Imperial embassies at Telleria
-and Baixing, the embassy’s IISS attaché Del Madrin needs a crew to
+and Baixing, the embassy's IISS attaché Del Madrin needs a crew to
 take him and communications to these worlds.
 
 Madrin would prefer a crew of Imperial origin but at this point he
@@ -2018,7 +2018,7 @@ operating out of the Imperial embassy at Telleria have uncovered
 details on the Eli marauder network and will entrust this information
 to Quadrireme both in encrypted data form and on specially secured
 diplomatic data canisters. Eli spies are aware of this and will attempt to
-intercept Quadrireme at Inhio, stationing a ship at the system’s single
+intercept Quadrireme at Inhio, stationing a ship at the system's single
 gas giant. Inhio is a moon of the gas giant, orbiting 500,000 kilometers
 distant. It has few defensive capabilities beyond surface-mounted laser
 and missile turrets, a flight of five aging light fighters and two pinnaces
@@ -2032,22 +2032,22 @@ transit systems for the return journey. In each case, the intercepting
 force will consist of a single 400-ton Eli Marauder corsair with crew
 and boarding pinnace.
 
-REFEREE’S INFORMATION
+REFEREE'S INFORMATION
 Roll 1D or choose from one of the options below.
 
 1 – 4: The Eli Marauder corsairs have no names. The crews refer to
-them by number. The one at Inhio’s gas giant is Seven. The crew uses
+them by number. The one at Inhio's gas giant is Seven. The crew uses
 pseudonyms even with each other. The captain is a fiftyish female
-Vargr who goes by ‘Patch’ and has augmented eyes able to see into
+Vargr who goes by 'Patch' and has augmented eyes able to see into
 infrared and ultraviolet. The first officer and commander of the boarding
-team is a male Aslan outcast who calls himself ‘Fluffy’. He is not. The
+team is a male Aslan outcast who calls himself 'Fluffy'. He is not. The
 ship is running silent in orbit around the gas giant. When Quadrireme
 is detected, Patch will launch the pinnace with pilot, Fluffy and eight
 troops, all equipped with laser rifles and vacc suits. The pinnace will
 emulate a ship plying a route between the gas giant and its inner moon
 and will respond to hails as a civilian craft. As Quadrireme approaches
 to refuel the pinnace will feign an emergency and ask for assistance
-while Seven takes up position ‘above’ the incoming courier. Seven will
+while Seven takes up position 'above' the incoming courier. Seven will
 launch a surprise attack with lasers and missiles prior to announcing its
 presence and demanding surrender. It will deactivate the missiles if the
 Quadrireme surrenders and allows the pinnace to board.
@@ -2055,11 +2055,11 @@ Quadrireme surrenders and allows the pinnace to board.
 Once Seven begins to move, Quadrireme sensor operators will spot
 it with an Average (8+) Electronics (sensors) check (1 round, INT)
 with DM-4 for Stealth but DM+2 for Advanced sensors. Note that if no
-crewmember is explicitly performing the sensor check, the ship’s Virtual
+crewmember is explicitly performing the sensor check, the ship's Virtual
 Crew/1 program is running scans in the background and will detect
 Seven on a 9+ each round.
 
-If Quadrireme refuels at Inhio’s port, Seven will use that time to shift its
+If Quadrireme refuels at Inhio's port, Seven will use that time to shift its
 position out to 10 planetary diameters from the gas giant on the likely
 departure vector of Quadrireme and wait, hoping to achieve an ambush.
 
@@ -2070,13 +2070,13 @@ missile salvos at the fleeing ship until the racks run dry, then reload and
 keep firing. The Eli will not surrender their ship but might flee if badly
 damaged. Every Eli starship carries one nuclear charge beneath its
 bridge for scuttling, although the crew will evacuate in assault capsules
-aimed at the nearest world before triggering the device’s six-minute
+aimed at the nearest world before triggering the device's six-minute
 fuse. Individual Eli might surrender if faced with certain death but Patch
 and Fluffy will go down fighting.
 
 5: The Eli are determined to prevent Quadrireme from escaping. If
 the courier does not immediately surrender, the Marauder will fire a
-full salvo of six missiles. The Marauder’s turrets are fully loaded with
+full salvo of six missiles. The Marauder's turrets are fully loaded with
 long range missiles but the ammunition stores hold mostly standard
 missiles. The pinnace is armed with long range missiles as well. Seven
 also has six nuclear missiles. It will use these to destroy Quadrireme if
@@ -2088,9 +2088,9 @@ expense of the primary objective.
 by locking out the crew and possibly alerting the Marauder if the
 Quadrireme is attempting to hide. As a last resort, if the Eli have failed
 to ambush the courier at Inhio and Corymb, he will insist on refuelling
-at Anhinga’s starport and attempt to lock the crew out of the ship while
-they are on shore leave and then allow an Eli squad to ‘hijack’ the ship
-and depart. The ship itself will resist Del’s attempt to aid the Eli and
+at Anhinga's starport and attempt to lock the crew out of the ship while
+they are on shore leave and then allow an Eli squad to 'hijack' the ship
+and depart. The ship itself will resist Del's attempt to aid the Eli and
 alert and aid the crew if it is able, at least until Del realises this and
 switches over to the backup computer.
 
@@ -2108,15 +2108,15 @@ by attack ships, will attempt to storm the base to gather intelligence but
 locating and rescuing captives are secondary objectives.
 
 ```
-Del Madrin is by his own admission a ‘glorified clerk’ working the
+Del Madrin is by his own admission a 'glorified clerk' working the
 IISS desk at the Imperial embassy on Trelyn Vrra. His tenure as an
 x-boat pilot has left him with a rather introverted personality but he
 wears his uniform well and tries to project a professional image of
 the Scout Service to his peers and the Trelyns. After eight years of
 desk jobs, he is initially enthusiastic about the idea of returning to
-service as a courier, especially aboard a ‘much more interesting’
+service as a courier, especially aboard a 'much more interesting'
 Marathon courier, but he also knows he is out of his depth. By his
-own admission, he knows nothing but ‘chapter headings’ about
+own admission, he knows nothing but 'chapter headings' about
 starship engineering and will be totally reliant on outside expertise.
 He is also a little agoraphobic and would really just prefer to stay in
 his stateroom or at a bridge station out of the way.
@@ -2165,7 +2165,7 @@ that includes large x-boat tenders and the assumption of secure star
 systems supported by the might of the Imperial Navy. Beyond the
 Imperium, this infrastructure becomes less reliable and on those few
 routes that extend into or around foreign territories, the x-courier is
-often the Express Boat Service’s vehicle of choice. Based on a 200-ton
+often the Express Boat Service's vehicle of choice. Based on a 200-ton
 streamlined hull, the jump-4 Marathon Mk III x-courier is a state-of-the-
 art communications starship capable of operation without supporting
 infrastructure. Armed, armored and capable of 4G acceleration, the
@@ -2187,13 +2187,13 @@ rendezvous point, before returning to base with new messages.
 The Marathon utilises custom maneuver and jump drives designed
 and licensed by Ling Standard Products and relies on high efficiency
 batteries for jump drive operations. Although on-board repair drones
-are capable of maintaining the ship’s systems and spares are normally
+are capable of maintaining the ship's systems and spares are normally
 carried in the cargo hold, maintenance, especially beyond the frontier
 can be problematic. Widespread adoption of the Marathon has been
 limited by the need to return to Imperial space for annual maintenance.
 
 ELI MARAUDER CORSAIR
-The Eli have historically utilised captured ships and ‘standard’ corsair
+The Eli have historically utilised captured ships and 'standard' corsair
 models but since 1100 some Eli have begun appearing in custom
 Marauder ships. The ship is a black flying wing, angular for stealth
 but highly manoeuvrable. Limited by its modest Tech Level, it is still
@@ -2207,7 +2207,7 @@ damage an escort and leave its charges undefended. Limited to one
 parsec jumps, the Marauder can jump twice without refuelling, an
 advantage when operating along the Tellerian Main.
 
-Detailed descriptions of the ship’s interior are based on the reports of
+Detailed descriptions of the ship's interior are based on the reports of
 a few hostages ransomed from Eli captivity. The ship is equipped with
 a wedge-shaped boarding pinnace and captives are unloaded into a
 prison area capable of holding a fair number of hostages. A medical
@@ -2218,13 +2218,13 @@ constructions and well maintained.
 
 ELI BOARDING PINNACE
 The Eli Boarding Pinnace seems designed to fit within the recently
-spotted Eli Marauder. The pinnace’s wedge-shaped body and triangular
+spotted Eli Marauder. The pinnace's wedge-shaped body and triangular
 cross section fit into a custom rear docking bay on the corsair. The
 pinnace itself is limited to 3G acceleration but is highly manoeuvrable
 and, like its parent craft, stealth-coated, allowing it to close on
 unsuspecting ships. Equipped with a breaching tube and forced-linkage
 apparatus, the pinnace can board a resisting vessel and quickly transfer
-its squad of raiders. Inside the pinnace’s passenger compartment, the
+its squad of raiders. Inside the pinnace's passenger compartment, the
 raiders maintain a full brig and armory. While capable of storing cargo,
 the pinnace generally awaits its mothership before stripping captured
 ships of valuable cargo.
@@ -2453,7 +2453,7 @@ Common Areas 10 1
 Captain, Officer, Pilots
 x3, Astrogator, Medic,
 Engineers x2, Gunners x4,
-Ship’s Troops x8
+Ship's Troops x8
 
 **Hull: 160**
 
@@ -2693,12 +2693,12 @@ Imperium and the Vargr Extents.
 
 PHYSICAL CHARACTERISTICS
 Iridescent down feathers cover the body of the bilateral hexapod
-Aezorgh. Adapted for life in Soghzalghag’s long-lost temperate
+Aezorgh. Adapted for life in Soghzalghag's long-lost temperate
 rainforests, the Aezorgh are extremely dexterous, with four arms ending
 in hands equipped with four delicate tentacles. Two multi-jointed legs
 each end in feet with four thicker tentacles covered in gecko-like ridges
 capable of supporting the Aezorgh when hanging from branches,
-walls or ceilings. The four ‘wrists’ of Aezorgh hands have similar
+walls or ceilings. The four 'wrists' of Aezorgh hands have similar
 ridges to facilitate vertical movement. An adult Aezorgh measures 1.5
 meters head to tentacle toe pad but tends to stand with stooped legs,
 shortening actual height to 1.2 meters. Adults of the spindly sophont
@@ -2713,13 +2713,13 @@ head and do not provide colour or detail vision but allow sight at night,
 expand the total field of vision to 300° and allow the Aezorgh to see
 almost directly overhead. Two ears protrude near the jaw hinge directly
 under the secondary eyes and provided hearing similar in range and
-acuity to a human’s ears. Aezorgh breathe through two large ‘nostrils’
+acuity to a human's ears. Aezorgh breathe through two large 'nostrils'
 on either side of the rounded mouth. These nostrils independently feed
-the Aezorgh’s two lungs. The mouth contains 70–80 small sharp teeth.
+the Aezorgh's two lungs. The mouth contains 70–80 small sharp teeth.
 The Aezorgh are omnivores but the teeth also allow them to attach
 themselves to feed from both sap-filled flora and blood-filled fauna.
-An Aezorgh’s sense of smell is controlled by minute sensors in the
-head’s down feathers. The head sits atop a stubby neck and has limited
+An Aezorgh's sense of smell is controlled by minute sensors in the
+head's down feathers. The head sits atop a stubby neck and has limited
 motion, relying on a wide field of view rather than movement to visually
 observe the environment.
 
@@ -2741,7 +2741,7 @@ and digging up roots.
 
 Intelligence likely arose in response to complex group dynamics and to
 the constant improvization and experimentation with food sources. Tool
-use was evident by -200,000 with specialist tools developing to ‘solve’
+use was evident by -200,000 with specialist tools developing to 'solve'
 different food problems. By the time of first contact with Vilani explorers
 in -5000, the Aezorgh were still TL0 and written off as inconsequential
 primitives. Contact with the expanding Vargr in -2400 was much more
@@ -2756,7 +2756,7 @@ can determine gender by pheromones undetectable to Humaniti or
 Vargr. Environmental conditions of the developing Aezorgh egg and
 not genetics determine gender. An adult female lays one egg every
 local year of 590 standard days. A few days prior to egg-laying the
-female’s pheromones change, indicating availability to mate, although
+female's pheromones change, indicating availability to mate, although
 often a female will not be receptive to attempts by males to initiate
 courtship. Regardless of fertilization status, a single egg is produced,
 approximately 10 centimeters in diameter and massing one kilogram.
@@ -2774,7 +2774,7 @@ An Aezorgh has a long development period but grows to full size and
 maturity by the age of 18 standard years. Females are more likely to
 remain with their matriarchal birth band but males often set out for
 
-‘adventure’ before eventually joining a band, although in pre-contact
+'adventure' before eventually joining a band, although in pre-contact
 times, more than half are thought to have eventually return to the band
 of their mother.
 
@@ -2795,7 +2795,7 @@ interest in the Aezorgh but most of the newcomers had little interest in the
 natives, until interactions began to become contentious.
 
 Official Vargr histories contend that interaction started with Aezorgh
-‘thieving’ in outlying settlements. The Aezorgh have no competing
+'thieving' in outlying settlements. The Aezorgh have no competing
 histories as they had no written language at the time and their original
 languages and mythologies are long since extinct. For the first century,
 Vargr policy varied from forced removal, to extermination, to kidnapping
@@ -2828,11 +2828,11 @@ means but its members must agree to certain principles, including the
 abolition of slavery and citizenship for all sophonts. As a result, nearly
 every Aezorgh became a free sophont in principle. In reality, the process
 took decades, with existing owners unwilling to surrender their property
-without compensation and continued discrimination against the ‘vermin’.
+without compensation and continued discrimination against the 'vermin'.
 
 SOCIETY
 After 3,500 years of oppression and furtive existence, little remains
-of the Aezorgh’s original culture and language. While some Aezorgh
+of the Aezorgh's original culture and language. While some Aezorgh
 have been free for thousands of years, others still remember growing
 up in slavery. The Aezorgh have adopted Vargr languages, speaking
 mostly Ovaghoun, Aekhu and Gvegh. Those Aezorgh living beyond the
@@ -2854,10 +2854,10 @@ Many sophonts find Aezorgh eating habits disturbing. An Aezorgh is
 a true omnivore and will try eating just about anything at least once.
 Cooking is not required and small prey is sometimes eaten alive,
 although this is often done specifically to disturb others rather than as
-a preferred method of consumption. More disturbing is the Aezorgh’s
+a preferred method of consumption. More disturbing is the Aezorgh's
 ability to cling to the body of a large animal and attach their sharp teeth
 to the skin, penetrating flesh to suck blood or other fluids like a large
-leech. An anaesthetic in the Aezorgh’s saliva works to prevent the
+leech. An anaesthetic in the Aezorgh's saliva works to prevent the
 victim from feeling the bite and acts as a sedative or mild euphoric on
 some species but not on all; an Aezorgh can suck blood from a Terran
 cow for hours but attempting the trick on a Kian will lead to a rather
@@ -2878,7 +2878,7 @@ knowledge or fortune.
 
 EXTERNAL RELATIONS
 The name Aezorgh derives from an early Ovaghoun dialect, meaning
-‘vermin’. The Aezorgh keep this name as an ironic badge of honor to
+'vermin'. The Aezorgh keep this name as an ironic badge of honor to
 spite the Vargr. Relations with Vargr vary greatly. On some worlds, the
 Aezorgh have long become part of society, even respectable. On other
 worlds, they are still considered vermin. Aezorgh opinion of Vargr varies
@@ -2928,13 +2928,13 @@ their choice.
 Traits
 Aezorgh Travellers all possess the following traits:
 
-**Gecko Travel:** Ridges on an Aezorgh’s feet and wrists allow the
+**Gecko Travel:** Ridges on an Aezorgh's feet and wrists allow the
 Traveller to climb walls at full movement speed and to cross ceilings at
 half movement speed in gravity up to 1.5 standard.
 
 **Heightened Senses** : Wide infrared vision and innate situational
 awareness allow Aezorgh to receive DM+1 to Recon or Survival
-checks. If a heat source is present, the Aezorgh’s infrared vision
+checks. If a heat source is present, the Aezorgh's infrared vision
 negates any penalty for darkness.
 
 Multi-limbed: Aezorgh have four dexterous arms, allowing them
@@ -2962,7 +2962,7 @@ DM no longer applies.
 By Isabella Treccani-Chinelli
 
 Vrayne is a secondary world designed to be placed in a system of
-the Referee’s discretion. It is a planet upon which rival families vie for
+the Referee's discretion. It is a planet upon which rival families vie for
 power, their centuries-long disagreements coming to light in the wake
 of modern technology brought by visiting brokers. The startling contrast
 of the different Tech Level equipment within the downport of Vrayne
@@ -2997,7 +2997,7 @@ specifically in fertility rites.
 Flags are less commonplace here than other planets, having changed a
 significant amount during the tumultuous era of constant rebellions. The
 current flag has been in place for 263 years, created after what is now
-known as ‘Ripod’s Rebellion’. The then leader of House Poltar wanted
+known as 'Ripod's Rebellion'. The then leader of House Poltar wanted
 to encapsulate the ideals of his revolution in the flag itself, as others
 had been decidedly lacking, including one featuring only a white dagger
 on a field of black.
@@ -3100,15 +3100,15 @@ prices, with sales heavily monitored to ensure the populace remains in
 hand. Society functions as it has for hundreds of years, the feudalistic
 nature having locked most of the population in poverty, with little room
 for social advancement within the Poltar and Laynora lands. Senar
-provides more leeway for its’ subjects and most are either farmhands,
+provides more leeway for its' subjects and most are either farmhands,
 scientists or soldiers.
 
 There is no centralised government on the planet, with the ruling family
 instead granting swathes of land at the time of their installation to
-power. The current government is the longest running in the planet’s
+power. The current government is the longest running in the planet's
 history, having lasted for 263 standard years. This has allowed the
 populace to become complacent and the government no longer sees
-a threat in revolution. During the ‘forgotten era’ of the planet, rebellions
+a threat in revolution. During the 'forgotten era' of the planet, rebellions
 were near-constant, occurring every four months on average.
 
 THE FORGOTTEN ERA
@@ -3138,7 +3138,7 @@ the current leader has been in power for more than 40 years. The head
 of the family, Alder Trimmel Poltar, has installed the rest of his family
 as councilmembers and the second day of each month is dedicated to
 hosting the leaders of the other families. This is a point of controversy
-as the previous three months’ audiences have been cancelled, leaving
+as the previous three months' audiences have been cancelled, leaving
 them without a formal platform for grievances to be heard.
 
 ```
@@ -3157,11 +3157,11 @@ the window before the customary eight months drove her to
 complete madness. She rebelled with 120,000 militiamen and
 mercenaries, who proceeded to overthrow her after realising
 quite how insane she had become. Her reign lasted only five
-days and 5,000 ‘offenders’ were killed during this time.
+days and 5,000 'offenders' were killed during this time.
 ```
 
 RELIGION
-Locals refer to the religion of Vrayne as ‘Oshnare’ and no Anglic
+Locals refer to the religion of Vrayne as 'Oshnare' and no Anglic
 translation of this word has been attempted.
 
 Religion is an integral part of daily life on the planet, with all offworlders
@@ -3181,7 +3181,7 @@ if mentioned they will profusely apologise and proffer more blood.
 
 Daily services are mandatory but this is largely unenforced due to
 the scattered population, instead relying on community members to
-‘snitch’ on their neighbors for non-attendance. This has created an
+'snitch' on their neighbors for non-attendance. This has created an
 untrusting attitude within townships and offworlders are still expected
 to attend daily services. Not doing so might result in the local militia
 being called, who have been known to haul disobedient parties off to
@@ -3205,7 +3205,7 @@ their own hands. Travellers should be aware of this when attending a
 church service as even minor noises such as coughing could class as an
 interruption, depending on how easily distracted the speaker is.
 
-There is no ‘divine being’ in Oshnare and the religion has placed
+There is no 'divine being' in Oshnare and the religion has placed
 nature above any single or multifaceted deity. In this way, Oshnare
 may be categorised as animistic. The church has no strict hierarchy,
 although there is a sect of women chosen as mouthpieces who travel
@@ -3234,7 +3234,7 @@ their local communities.
 ```
 OSHNARE AND TRAVELLERS
 Travellers should be aware of the sometimes-disproportionate
-responses to waste given by followers of Oshnare. The religion’s
+responses to waste given by followers of Oshnare. The religion's
 pervasive grip on the population has a widespread effect on
 how they see the world, especially in regard to those visiting the
 planet. Whilst on other planets stepping on some moss or plucking
@@ -3249,7 +3249,7 @@ ground after he had finished eating.
 
 ```
 However, this intolerance of natural destruction becomes more
-reasonable when you take the planet’s natural resources and
+reasonable when you take the planet's natural resources and
 cultural/religious history into account. Despite the tumultuous
 relationship with the toxic spores in the air, the planet has abundant
 natural resources available to the population and as of yet they
@@ -3287,7 +3287,7 @@ and many no longer trust they understand the daily issues faced by
 the populace. Food shortages have become common due to more
 aggressive varieties of fungal spores, to which the crops grown are no
 longer resistant. This is seen by some as a curse resulting from Alder
-Trimmel’s recent departure from piety.
+Trimmel's recent departure from piety.
 
 Wishing to retain the old ways is admirable to most but as it is done to
 spite technological advancement Alder Trimmel is quickly falling out
@@ -3344,7 +3344,7 @@ Increased restrictions are being enacted upon the populace here, with
 even the younger society members being trained as soldiers. This provides
 a greater amount of risk to Trimmel, as he is now potentially facing a
 rather more perilous fighting force. Four generals have been appointed
-under Frell’s rule, each leading a section of the Senar army and imposing
+under Frell's rule, each leading a section of the Senar army and imposing
 their own protocols upon them. The constant military drills are becoming
 impossible to ignore, with the inhabitants of the Poltar lands discussing the
 possibility of rebellion when they believe they will not be overheard.
@@ -3432,9 +3432,9 @@ change their mind about those visiting the planet.
 
 The Sword of Oberon may only be a myth, based on little more than
 a clerical error and some wishful thinking, or it may be part of a
-grand conspiracy. The only known ‘fact’ is that a mothballed Cemplas
+grand conspiracy. The only known 'fact' is that a mothballed Cemplas
 dreadnaught named Kaskii disappeared from the inventory of the
-Imperial Navy’s Deneb Sector Depot sometime around the year 1100.
+Imperial Navy's Deneb Sector Depot sometime around the year 1100.
 The 288,000-ton warship was active in the last years of the Solomani
 Rim War a century earlier. The ship – designed around a massive
 spinal mount mass driver gun, supplemented by 16 large missile and
@@ -4027,7 +4027,7 @@ Asteroid Ship – High Guard
 Scout Ship
 Serpent-class Scout – High Guard
 
-Ship’s Boat
+Ship's Boat
 Cosmic Mako Racing Craft – The Great Rift
 Modular Cutter – Traveller Core Rulebook
 Pinnace – Traveller Core Rulebook
@@ -4049,9 +4049,9 @@ By Tim Heiderich
 Neandor was only a boy when the visitor dropped from the sky. It was a giant
 stone but fell like a feather. Its surface was polished and smooth as if it had
 _lain in some majestic river for eons. It spewed fire and smoke as it touched_
-the shore of his tribe’s settlement. While the elders deliberated into the night
+the shore of his tribe's settlement. While the elders deliberated into the night
 over what to do with it, Neandor was entranced by the lights that shone out
-of the holes in the gigantic gemstone. He crept from his family’s reed shelter
+of the holes in the gigantic gemstone. He crept from his family's reed shelter
 and down to the shoreline where the strange monolith lay.
 
 _He could see the light of a campfire escaping through a hole in the rock
@@ -4060,7 +4060,7 @@ He saw a man, dressed in ornate hides that shimmered like fish scales,
 staring into a box of embers that flashed and danced as he touched the_
 surface in front of him.
 
-Neandor’s gasp caused the visitor to whirl around and he started to run
+Neandor's gasp caused the visitor to whirl around and he started to run
 before tripping over the opening in the rock entrance. The visitor dashed
 out after Neandor, making low whooping sounds and holding his hands out
 to show he was unarmed. The visitor produced a small packet wrapped in
@@ -4074,7 +4074,7 @@ The visitor held out his hand and helped Neandor back inside the stone
 vessel, to tend to his injury. The visitor shared gifts of tools and textiles,
 spending many days speaking to the elders, asking questions about
 the tribe and their history. Neandor learned the visitor called himself a
-‘sole man’, evidently the last of his people. It was after the next cycle of
+'sole man', evidently the last of his people. It was after the next cycle of
 seasons, during the new growth, when the visitor returned. The tribe took
 pity on the lonesome wanderer, giving him supplies for what they believed
 was a fruitless search for his own kind. He would spend days listening to
@@ -4096,7 +4096,7 @@ Neandor could never have been prepared for the variety of cultures and
 lifeforms he and the visitor encountered in the vast black sea outside his
 _home world. Many were much like himself, others more different than he_
 could have imagined. It was when they landed on a water world similar to his
-own that the visitor’s travels came to an end. The worn vessel malfunctioned
+own that the visitor's travels came to an end. The worn vessel malfunctioned
 during descent; the visitor tried his best to land the crippled boat, bringing it
 to a skidding halt on an island on a red-zoned world. The only survivor of the
 crash, Neandor understood he was now the lonely wanderer.
@@ -4105,7 +4105,7 @@ He buried his old friend and set up an encampment from the downed
 craft. In the following weeks, he fashioned an outrigger canoe to
 venture further from the shipwreck and discovered a pod of Githiaskio;
 intelligent cephalopods who had chosen this world as their new home.
-It has been many years since Neandor’s ship crashed and he used
+It has been many years since Neandor's ship crashed and he used
 the skills in Xenology the visitor had taught him to communicate with
 the Githiaskio, having befriended two adolescents, Achoblaata and
 Nuurekhuloo, who are his companions and defenders.
@@ -4114,7 +4114,7 @@ Travellers may meet Neandor on an aquatic world in a red zone, with
 his outrigger canoe and spear. He leads Travellers to the wreck of a
 crashed starship – it is unsalvageable after sitting in ocean water for
 years. Inside are a number of mostly empty crates, pilfered of food and
-clothes. Some trinkets and basic tools remain. On the ship’s computer
+clothes. Some trinkets and basic tools remain. On the ship's computer
 are several ethnographic logs from a variety of worlds and the walls are
 covered in drawings depicting his personal history. He speaks broken
 Anglic, his speech punctuated with squeaks and clicks, the sounds
@@ -4200,9 +4200,9 @@ Hurdy-gurdy 4 0.5 Cr700
 
 KAKAXXEER
 This is a set of percussive drums designed to rest on a harness on the
-forward torso of the K’kree. Three drums rest under the arms, each with
-a differing pitch. Used when hunting G’naak, these war-drums inspire
-fear in those who hear them shortly before the onslaught of K’kree
+forward torso of the K'kree. Three drums rest under the arms, each with
+a differing pitch. Used when hunting G'naak, these war-drums inspire
+fear in those who hear them shortly before the onslaught of K'kree
 warriors. The drum head is made from woven vines, which can also be
 plucked to emit distorted notes.
 
@@ -4224,7 +4224,7 @@ Yaverkvyuss 12 5 Cr2500
 ```
 
 AUNTRUPUKYULK
-Oft carried by Droyne whilst they ‘do the things that they are doing’,
+Oft carried by Droyne whilst they 'do the things that they are doing',
 this is a miniature synthesiser designed to keep morale high on
 longer journeys. It has 10 keys and although it has a smaller number
 of features, tone, pitch, reverb and looping buttons are still common.
@@ -4270,7 +4270,7 @@ newer models feature upwards of 25 and can be programmed with
 different sounds. This music appears discordant to most other species
 but Hiver larvae and yearlings appear to enjoy it. When without a Voder,
 Hivers may use the Glilman to convey simple thoughts and ideas by
-way of ‘dancing’ on the instrument.
+way of 'dancing' on the instrument.
 
 ```
 Item TL Kg Cost
@@ -4289,44 +4289,44 @@ Reward: Cr2000 (additional bonuses available)
 
 After 80 years, rock god Zéno Paradise, the androgynous musician
 from the Lancian Cultural Region, is on his farewell tour, playing
-concerts at sector capitals between the Gushemege and Core sectors.
+concerts at sector capitals between the Gushemege and [[Core sector]] s.
 Zéno, his band, their manager and promoter, have been touring the
 sector in Fairlight, a far trader modified with a recording studio, luxury
 amenities and storage.
 
 A miscommunication at their last stop in Loshad means several tons of
-cargo containers are missing and Zéno is refusing to perform tonight’s
+cargo containers are missing and Zéno is refusing to perform tonight's
 show without his equipment. The tour has been wildly successful, with
 prime seats selling for over Cr8000 and his promoter Kip Hartmann is
 frantically looking for solutions.
 
-The Travellers’ ship is indisposed, either being refuelled, repaired or loaded
+The Travellers' ship is indisposed, either being refuelled, repaired or loaded
 with freight, making this a great opportunity to earn some quick cash.
 
 BACKGROUND
 As the crew arrives at the highport, the comms channels are abuzz with
-excitement over tonight’s show. There are several nobles, dilettantes
+excitement over tonight's show. There are several nobles, dilettantes
 and members of high society at the station, indicated by the vast
 number of yachts and pleasure craft in the docking bay. Holovids carry
-more information about tonight’s show, with details about the illustrious
+more information about tonight's show, with details about the illustrious
 career of this enigmatic, genre-defining – and genre-defying – musician.
 
 A message comes through the open starship comms from tour manager
-Kip Hartmann: there are some problems with tonight’s show. He is
-recruiting Travellers for a few hours’ work assisting him finding some
+Kip Hartmann: there are some problems with tonight's show. He is
+recruiting Travellers for a few hours' work assisting him finding some
 missing equipment vital to the performance. He is offering Cr2000, plus
-bonuses, for less than a day’s work.
+bonuses, for less than a day's work.
 
 THE SITUATION
 Once the Travellers have agreed to assist Mr. Hartmann, he transmits
-to them a ‘rider’ – a list of requirements an artist makes that must be
+to them a 'rider' – a list of requirements an artist makes that must be
 met before they agree to perform. He then transfers the purchase
 
-proxy program (3P or ‘threep’) to their personal computers. Kip uses
-the software to transfer Cr1000 to each of the Travellers’ personal
+proxy program (3P or 'threep') to their personal computers. Kip uses
+the software to transfer Cr1000 to each of the Travellers' personal
 accounts, with more to come at the end of the day.
 
-As the Travellers are not the only ones helping find missing items, Kip’s
+As the Travellers are not the only ones helping find missing items, Kip's
 assistant Sisi will work with the group, approving purchases, receiving
 goods and paying the Travellers at the end of the mission. She can
 be found at the stage door of the venue, a woman in her thirties with
@@ -4339,30 +4339,30 @@ It is 12:00 station time and Zéno is scheduled to perform in eight hours.
 EXPLORING THE HIGHPORT
 The highport has a medium Law Level, meaning visitors can move
 about freely but no one is walking around heavily armed or armored.
-Anyone seen causing a disturbance is met by the station’s security
+Anyone seen causing a disturbance is met by the station's security
 team, who wear flak jackets and are armed with autopistols and stun
 batons. Security is tighter today because of the presence of nobility.
 
-There is a central directory of the station’s commercial and residential
+There is a central directory of the station's commercial and residential
 areas, which can be navigated with a Routine (6+) Admin check to find
 specific information about the station, its districts, shops or inhabitants.
 
 The highport is formed of concentric rings, with an innermost residential
 level, a middle layer dedicated to commercial space and an outermost
-deck for shipping and docking. The outer is connected to the station’s
+deck for shipping and docking. The outer is connected to the station's
 administrative center via elevator shafts. The administration core is
 restricted to the public and the residential deck is limited to residents
 with key cards but the commercial and freight levels are open to all.
 
 Zéno will be playing a 6,000-seat venue in the entertainment complex
-that evening when the station enters the planet’s shadow.
+that evening when the station enters the planet's shadow.
 
 NEGOTIATING AND SHOPPING
 Hartmann will not negotiate with the Travellers on prices or extra
 expenses, nor will his assistant Sisi.
 
 Sisi furnishes each Traveller with a backstage pass, which can be traded
-to sweeten any deal in the Traveller’s favor using a Very Difficult (12+)
+to sweeten any deal in the Traveller's favor using a Very Difficult (12+)
 Persuade check. Once this has been done the pass is lost.
 
 Nefarious Travellers attempting to short-circuit the adventure by
@@ -4378,7 +4378,7 @@ hours to complete their tasks before the show. Items can be pursued in
 any order, either individually or as a group.
 
 Starship Repair Parts
-Purchasing one ton of starship parts from the station’s commercial
+Purchasing one ton of starship parts from the station's commercial
 shipyards should easy but the clerk at the desk says there has
 been high demand with all the ships in port and regrets to inform
 Travellers that they are sold out until tomorrow. He points out a
@@ -4391,7 +4391,7 @@ needs to be repaired fast or the late fees on this run negate his profits.
 He does not have time to lose.
 
 His crew is green and he gripes that his young engineer is always
-asking to ‘take extra time’ when making repairs. He would like
+asking to 'take extra time' when making repairs. He would like
 someone more skilled to repair his craft. He needs at most 0.5 tons to
 fix his ship and exchanging repair work for any leftover parts sounds
 like a fair deal to him. The repairs take 1D hours; use the rules for
@@ -4410,7 +4410,7 @@ minutes. Afterwards, Travellers must transport the parts to Sisi.
 RIDER ON THE STORM
 Zéno Paradise requires the following items in order to perform tonight:
 - One ton starship repair parts
-- Six bottles Dom Lishun ‘63 champagne
+- Six bottles Dom Lishun '63 champagne
 - Five bags Starchocs (no green ones)
 - Chromatophone, finely tuned
 - Exotic party guests
@@ -4425,9 +4425,9 @@ named DeLantis, who hosts wine tastings for noble clients.
 
 DeLantis is snobbish and requires a Difficult (10+) SOC check to
 improve his disdain for the lowly Travellers. He tuts at the Cr200 bottles
-of Dom Lishun ‘63 champagne the Travellers ask for, stating ‘If it’s not
-from the Parsi subsector of Vland, it’s just sparkling wine. Perhaps a
-Brut de Vland, Coreward Crémant or Liradu Blanc?’ These cost Cr300
+of Dom Lishun '63 champagne the Travellers ask for, stating 'If it's not
+from the Parsi subsector of Vland, it's just sparkling wine. Perhaps a
+Brut de Vland, Coreward Crémant or Liradu Blanc?' These cost Cr300
 and are not what was requested.
 
 An Average (8+) Steward check alerts the Travellers that DeLantis
@@ -4467,7 +4467,7 @@ Investigate check shows the store does have a security system, which
 requires a Formidable (14+) Electronics (computers) check (INT) to
 bypass. If the silent alarm is tripped, armed security will respond. The
 Travellers can break in and run off with the instrument but a stolen
-chromatophone suddenly appearing in tonight’s show is very suspicious
+chromatophone suddenly appearing in tonight's show is very suspicious
 and will surely lead back to them.
 
 An Average (8+) Carouse or Admin check finds the shop owner, Ikri
@@ -4477,7 +4477,7 @@ shows up to the cafe to play for two hours before going home. He is
 recognizable by the vibrant blue guitar case he carries. He is a big fan
 of Zéno and can be persuaded to cancel his gig to tune and rent out the
 chromatophone for a fee (paid by Hartmann), plus another Cr500 for
-cancelling tonight’s gig but he would much rather have a backstage pass.
+cancelling tonight's gig but he would much rather have a backstage pass.
 
 Exotic Party Guests
 Zéno likes to mingle with exotic, beautiful sophonts of any gender and
@@ -4491,7 +4491,7 @@ check. A check may be attempted on each guest every 15 minutes.
 Give the names of the guests to Sisi and she will record them on the
 guest list, awarding a Cr100 bonus for each point of SOC a guest has
 above 8 – so it may be wise to be fussy. There are several venues on
-the station to visit: Power Port, Starfield’s, Jumpspace Lounge, Vargr
+the station to visit: Power Port, Starfield's, Jumpspace Lounge, Vargr
 Room and Core.
 
 **Recreational Drugs**
@@ -4527,7 +4527,7 @@ Travellers, including the following bonuses:
 - Cr2000 for drugs
 
 The Travellers are then free to enjoy the show and mingle backstage
-afterwards, where they meet one of the sector’s biggest musicians and
+afterwards, where they meet one of the sector's biggest musicians and
 party all night. Guests, including Travellers, then retire to Fairlight for
 continued festivities.
 
@@ -4555,7 +4555,7 @@ pincers before ripping it apart. Tentacles that are lost do not grow back and
 the enythba has been known to cannibalise these lost limbs.
 
 Enythba are able to sequester themselves in surprisingly small places.
-Their limbs fold close to their body and they appear to ‘deflate’,
+Their limbs fold close to their body and they appear to 'deflate',
 drastically reducing their size. The only solid part on their body are
 the pincers, which can be seen protruding from underwater caves.
 Adult males are the larger of the species and mating displays are often
@@ -4611,7 +4611,7 @@ Deep Drill 7 14 Cr80000
 DUMPER
 An open box bed, typically found at the rear of a vehicle, this
 attachment allows a vehicle to be filled with a cargo and then literally
-‘dump’ it out at a destination by hydraulically raising one end of the bed.
+'dump' it out at a destination by hydraulically raising one end of the bed.
 This is typically used to move earth, minerals or rubbish from one site
 to another. The cost is per Space designated for cargo.
 
@@ -4691,17 +4691,17 @@ shuttle for cargo transfer and refuelling operations on worlds without
 adequate highports or worlds with atmospheres making the blocky
 freighter difficult to land.
 
-The ship’s advertised 400-ton cargo capacity includes 69 tons of
+The ship's advertised 400-ton cargo capacity includes 69 tons of
 shuttle cargo capacity, which is unavailable during wilderness refuelling
 operations. Although equipped with lifters and capable of belly landing
-on worlds with little or no atmosphere, the Conestoga’s cargo handling
+on worlds with little or no atmosphere, the Conestoga's cargo handling
 and cargo access doors are designed to load and offload from the
 Hauler shuttle, requiring the shuttle to undock to allow direct access to
 the cargo bay doors. When operating in conjunction with its shuttle, the
 cargo cranes allow quick access and cargo movement across the split
 six meter high lower cargo holds.
 
-The Conestoga’s power plant can support maneuver or jump drives
+The Conestoga's power plant can support maneuver or jump drives
 but not both, requiring the ship to coast during final jump preparations.
 The three-level engineering compartment is partially open with lattice
 metal floors and access portals allowing easy maintenance access to
@@ -5001,10 +5001,10 @@ Commercial Financing Corporation – Allarton Yards produces the 400-
 ton Stellaris liner and derivative Polaris freighter.
 
 The streamlined Stellaris, capable of jump-2 and 2G thrust, is roughly
-based on the Third Imperium’s Type-R subsidized merchant. Rather than
+based on the Third Imperium's Type-R subsidized merchant. Rather than
 providing a generalised freightliner, Allarton has a distinct split between the
 Stellaris and Polaris in terms of commercial capabilities. The Stellaris lacks
-the Type R’s launch, focusing on planetary landings or highport rendezvous
+the Type R's launch, focusing on planetary landings or highport rendezvous
 to provide transfer capabilities. The ship is broader than the Type-R with its
 half-cylindrical cross-section fully 12 meters in diameter and correspondingly
 shorter with a lesser wingspan to accommodate narrower downport landing
@@ -5170,10 +5170,10 @@ DECK 2
 DECK 1
 
 THORN CORVETTE
-The Royal Navy of Bruhkarr’s main external function is commerce
+The Royal Navy of Bruhkarr's main external function is commerce
 protection and to accomplish this mission it conducts anti-piracy patrols
 and provides escort services to Bruhkarri-flagged merchant vessels
-travelling beyond the Principality’s borders.
+travelling beyond the Principality's borders.
 
 The newest vessel tasked with this duty is the Thorn corvette.
 Developed specifically to counter the threat posed by non-
@@ -5195,14 +5195,14 @@ Nail allows the Thorn to thicken its armor and increase crew to include
 an eight-person boarding squad, a full medical bay and a brig to house
 prisoners. Acceleration of 5G comes nowhere near matching a Viper
 interceptor but is more than adequate against pirates and smugglers.
-The Thorn’s main armaments are a pair of long-ranged pulse
+The Thorn's main armaments are a pair of long-ranged pulse
 laser triple turrets and a pair of triple missile turrets with expanded
 ammunition bunkers.
 
-The spacious bridge highlights the Royal Navy’s design doctrine. Fully
+The spacious bridge highlights the Royal Navy's design doctrine. Fully
 nine bridge stations are available, allowing gunnery and engineering
 functions to occur within sight of the commander at all times. The
-captain’s chair sits alone, elevated in the center of the bridge, giving a
+captain's chair sits alone, elevated in the center of the bridge, giving a
 commanding view of operations.
 
 The current conflict at Balleau, three parsecs distant from both Bruhkarr
@@ -5302,7 +5302,7 @@ Virtual Crew/0 — 1
 Crew
 Captain, Officer, Pilots
 x3, Astrogator, Medic,
-Engineers x2, Ship’s
+Engineers x2, Ship's
 Troops x8, Gunners x4
 ```
 
@@ -5378,7 +5378,7 @@ DECK 1
 9. Brig
 10. Cargo Bay
 
-Welcome to the Journal of the Travellers’ Aid Society, your indispensable
+Welcome to the Journal of the Travellers' Aid Society, your indispensable
 guide to adventuring in the Far Future.
 
 Each volume is a treasure trove of information and game additions for
@@ -5419,10 +5419,10 @@ The
 The
 ```
 
-of the Travellers’ Aid Society
+of the Travellers' Aid Society
 
 ```
-of the Travellers’ Aid Society
+of the Travellers' Aid Society
 ```
 
 ## JJJournal
@@ -5434,7 +5434,7 @@ The
 ```
 
 ```
-of the Travellers’ Aid Society - Volume 11
+of the Travellers' Aid Society - Volume 11
 ```
 
 9 781913 076740

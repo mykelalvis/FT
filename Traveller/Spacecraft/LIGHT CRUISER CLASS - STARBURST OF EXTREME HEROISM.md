@@ -9,7 +9,7 @@ tags:
 
 ### LIGHT CRUISER CLASS: STARBURST OF EXTREME HEROISM
 
-The Starburst of Extreme Heroism -class, or SEH - class for short, is a common sight throughout Imperial space and may be found serving in many of the empire’s numbered fleets. It is essentially a more rounded and streamlined version of the larger Ghalalk -class cruiser. The form factor of the two ships is basically the same with less space for bays and other accoutrements on the SEH.
+The Starburst of Extreme Heroism -class, or SEH - class for short, is a common sight throughout Imperial space and may be found serving in many of the empire's numbered fleets. It is essentially a more rounded and streamlined version of the larger Ghalalk -class cruiser. The form factor of the two ships is basically the same with less space for bays and other accoutrements on the SEH.
 
 TL15 TONS COST (MCR)
 Hull 30,000 tons, Streamlined — 1800

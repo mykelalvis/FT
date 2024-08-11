@@ -27,7 +27,7 @@ Consulate and its allies; innumerable skirmishes with Vargr raiders
 from Trailing. It was here that Admiral Plankwell began his bloody
 bid for the Iridium Throne and ushered in the Imperial Civil War,
 and it was his successor as Sector Admiral of the Spinward Marches,
-Admiral Arbellatera, who took the sector fleet to Capital and ended
+Admiral Arbellatera, who took the sector fleet to [[Capital]] and ended
 the matter. Further back in history, it was the Marches that gave a
 home to the ancestors of the Sword Worlders, and it was here that
 a Darrian experiment caused their star to go nova.
@@ -48,7 +48,7 @@ a job going... cash in hand and do not ask questions.
 
 It is 1105 by the Imperial calendar, a time of subtle change and great
 potential. Events here in the Marches may resound all the way to
-Capital, but this is where it’ll happen. This is where the opportunities
+Capital, but this is where it'll happen. This is where the opportunities
 are to be had; this is the place to be.
 
 Welcome to the Spinward Marches!
@@ -57,7 +57,7 @@ Welcome to the Spinward Marches!
 
 This book uses certain concepts which will be explained below. Most
 of these are standard throughout all Traveller material published
-during the game’s long history and apply equally to any other
+during the game's long history and apply equally to any other
 Traveller material.
 
 ## The Official Traveller Universe (OTU)
@@ -66,12 +66,12 @@ The Official Traveller Universe (OTU) was first created in the
 1970s. It was gradually added to and developed through many
 years to become the standard setting for Traveller games. The
 body of information set in the OTU published over the years has
-become known as the ‘Traveller Canon’. However, since canon was
+become known as the 'Traveller Canon'. However, since canon was
 developed by different people at different times there are inevitably
 a few inconsistencies and even contradictions.
 
 This means that at times it was necessary to choose between
-conflicting versions of ‘canon’ or to eliminate concepts that jarred
+conflicting versions of 'canon' or to eliminate concepts that jarred
 with either the remainder of the setting or with common sense.
 Where this was done any changes made as a result are as subtle
 as possible.
@@ -80,7 +80,7 @@ However, canon is something that game designers worry about. It
 is a baseline used to ensure that published materials do not clash
 or contradict one another. Once an individual Traveller Referee
 starts running a game, the Official Traveller Universe becomes that
-Referee’s Traveller Universe. Fans often use abbreviations like MTU
+Referee's Traveller Universe. Fans often use abbreviations like MTU
 (My Traveller Universe) and YTU (Your Traveller Universe) when
 discussing this.
 
@@ -105,9 +105,9 @@ About the Author
 Martin J Dougherty has been at times an engineer, a teacher, a de-
 fence analyst and a self–defence instructor. These days he makes
 his living as a freelance writer for the games industry and in some-
-thing calling itself the ‘real world’.
+thing calling itself the 'real world'.
 
-Martins’ books include volumes on weaponry, space exploration,
+Martins' books include volumes on weaponry, space exploration,
 self–defence and military history. He has written numerous
 Traveller supplements for various publishers as well as other game
 materials for Mongoose.
@@ -142,13 +142,13 @@ on a relatively small scale. Within a star system most objects move
 in orbit about the star or a planet, and movement can be defined
 with reference to a suitable point. Most bodies in a star system orbit
 in the same general plane, known as the Ecliptic. One direction at
-ninety degrees to the ecliptic is defined by convention as ‘System
-North’ or ‘Up’ and the other as ‘System South’ or ’Down’.
+ninety degrees to the ecliptic is defined by convention as 'System
+North' or 'Up' and the other as 'System South' or 'Down'.
 
 Most movement within a system is defined in terms of being
 towards or away from a given body, usually the main world of the
-system or the star itself. The terms ‘In–System’ (towards the inner
-planets of the star system and the star itself) or ‘Out–System’ (away
+system or the star itself. The terms 'In–System' (towards the inner
+planets of the star system and the star itself) or 'Out–System' (away
 from the star) are also used. These are rather general terms but as
 navigation in three dimensions, whether along an orbital path or
 a straight line, is a complex business they serve well enough for
@@ -168,7 +168,7 @@ terms are used:
     galactic rotation.
 
 Note: Some Imperial citizens also use the term Coreward to mean
-towards the Imperial heartworlds, the ‘Imperial Core’. This usage
+towards the Imperial heartworlds, the 'Imperial Core'. This usage
 is generally obvious from context. For example, it should be fairly
 obvious that a magazine called Coreward Gazette deals with matters
 in the Imperial central region and not the center of the galaxy several
@@ -180,7 +180,7 @@ of the vast distances in space. Over relatively short distances such
 as in orbital space near a planet thousands or millions of kilometers
 are used as a measure. Larger distances in–system are measured
 using the Astronomical Unit, or AU. This is based on the distance of
-Earth’s orbit from the Sun, and is about 160,000,000km.
+Earth's orbit from the Sun, and is about 160,000,000km.
 
 The light–second is sometimes also used, defined as the distance
 light travels in a vacuum in one second. This is 299,792,458m,
@@ -217,7 +217,7 @@ between spiral arms of the galaxy. However, they are a significant
 navigational obstacle to vessels using Jump drive.
 
 A few odd features have been reported, though some may be nothing
-more than wild spacers’ tales. They include a rosette system of five
+more than wild spacers' tales. They include a rosette system of five
 equidistant worlds orbiting a common star. This could not have
 occurred naturally. Nor could the rumored ringworld located in
 the Vargr Extents. There are also a number of broken planets and
@@ -245,14 +245,14 @@ above–board, scattered about the various bodies and planets of a
 given system.
 Starports and Spaceports
 By convention, a world has only one Starport but can have many
-Spaceports. The designation Starport is given to the world’s main
+Spaceports. The designation Starport is given to the world's main
 port, where most commercial and passenger traffic goes. Any
 other port is designated a Spaceport. This can cause problems on
 Balkanized worlds where several governments exist; most will claim
 that their port is the main one.
 Usually, but not always, the Starport is the best port on the planet
 and others will be of inferior types. Normally there will be a main
-port accompanied by a ‘Startown’ which is often the planetary
+port accompanied by a 'Startown' which is often the planetary
 capital. The Startown is usually geared to offworld visitors and
 doing business with other star systems, and may have more relaxed
 attitudes or even laws than other regions of the planet. This is not
@@ -270,7 +270,7 @@ often a buffer zone between world and port, and if there are radical
 differences in law level then sometimes the Startown has a special
 set of laws in place within its limits.
 The groundside part of a starport or spaceport is termed the
-‘Downport’. There may also be an orbital component termed the
+'Downport'. There may also be an orbital component termed the
 Highport. In some cases this is big enough to be a city in space, in
 which case there may be no need to go groundside at all if business
 can be conducted in orbit.
@@ -290,12 +290,12 @@ tions
 In the Traveller universe there is no Faster–Than–Light (FTL) radio
 or other instantaneous communication medium. The only way to
 get a message to a given point is to send a starship there. In civilised
-areas a system of courier ships and ‘express boats’ (Xboats) is used
+areas a system of courier ships and 'express boats' (Xboats) is used
 to maintain communications, with mail and additional information
 moving aboard commercial starships.
 This creates a system not unlike Earth in the Age of Sail, whereby a
 vessel on a distant station might be months from base and the orders
-of its captain’s superiors. Colonial governors, corporate officials,
+of its captain's superiors. Colonial governors, corporate officials,
 lawmen and all sorts of other individuals find themselves waiting for
 literally weeks if instructions are requested. Thus individuals have to
 take responsibility and act as they think best.
@@ -319,7 +319,7 @@ and distance.
 
 There are no reliable reports of a vessel surviving a Misjump that
 carried it more than 36 parsecs, though there are the usual wild
-spacers’ tales. It is assumed that those vessels that Misjumped and
+spacers' tales. It is assumed that those vessels that Misjumped and
 were not seen again were destroyed. It is definitely known that some
 vessels have been destroyed by Misjump accidents since in some
 cases debris was found.
@@ -427,7 +427,7 @@ something similar but slightly different. The term is applied in
 different contexts to a class of starship and to the personnel that
 crew them. It is also loosely applied to anyone or any ship engaging
 in a general type of activity.
-Thus ‘Free Trader’ can define a specific type of starship, a small
+Thus 'Free Trader' can define a specific type of starship, a small
 merchant craft suitable for free–trading operations, or it could refer
 to any ship or crew engaging in opportunistic independent tramp
 trading without a set route.
@@ -439,7 +439,7 @@ less profitable ones, picking up the slack in the system. Many minor
 trade routes are not profitable at standard freighting rates, but it is
 considered desirable to have vessels on the route. The result is the
 subsidized merchant.
-The ‘subbie’ is both a specific class of ship and a general activity.
+The 'subbie' is both a specific class of ship and a general activity.
 Subsidized routes are partially paid for by commercial activity and
 partly by government money from local worlds or trade alliances
 that feel the need for a regular service. Note that while ships of the
@@ -456,7 +456,7 @@ prospects. This could be a charter to deliver something or carry out
 a mission, standard–rate freighting, a mail contract, a short–term
 naval auxiliary commission or speculative trade whereby the crew
 buy a cargo and try to sell it at a profit, rather than shipping other
-people’s goods for a fee.
+people's goods for a fee.
 Most of the time a Free Trader can get by, with lean patches and the
 occasional bonanza caused by a good speculative investment or a
 lucrative urgent job. However, it does not take much to drive a Free
@@ -465,14 +465,14 @@ to take risks or break the law. They might go down the route of risky
 high–stakes speculative trade in restricted items or take a job they
 know is going to be trouble.
 Some crews may cross the line into illegal activity ranging from the
-relatively minor such as smuggling (the ‘small package trade’) or
+relatively minor such as smuggling (the 'small package trade') or
 trafficking in illegal but not very harmful items all the way through
 to outright piracy. The majority of pirates are not career buccaneers
-but are ‘ethically challenged merchants’ who cross the line between
+but are 'ethically challenged merchants' who cross the line between
 legitimate commerce and piracy when it suits them.
 Free Traders tend to frequent backwater ports where the markets
 are not sewn up by the big shipping lines. These can be dangerous
-places so crews are usually made up of clued–up and ‘handy’
+places so crews are usually made up of clued–up and 'handy'
 individuals. Armament (personal and ship–mounted) is common,
 as is a willingness to use it at need.
 This does not mean that all Free Trader crews are down–at–heel
@@ -480,9 +480,9 @@ desperadoes one step removed from pirates; most are professional
 spacers who sometimes frequent dubious places and take
 appropriate precautions. However, it can be hard to tell streetwise
 good guys from the bad apples.
-The Travellers’ Aid Society
+The Travellers' Aid Society
 Ironically, while many Travellers are members of and make use of
-The Travellers’ Aid Society (TAS), it was set up to assist the more
+The Travellers' Aid Society (TAS), it was set up to assist the more
 mundane traveller (no capital T). TAS maintains a chain of hostels
 which vary considerably in quality from excellent hotels to draughty
 shacks, and provides information to its members about local
@@ -490,24 +490,24 @@ conditions.
 While TAS was created with the needs (and money) of well–off
 businesspersons and minor nobles in mind, it has gradually come
 to cater to a more ordinary class of person. Anyone can rent a room
-in most TAS facilities, but the Member’s Lounge and the special
+in most TAS facilities, but the Member's Lounge and the special
 facilities (which generally include accurate and up to date local
-information on what’s really going on) are reserved for members.
+information on what's really going on) are reserved for members.
 Membership can be awarded for service or, as cynics claim, for
 being someone TAS would like to have as a member. It can also be
 bought for a straight one million Credits, though some candidates
-are ‘blackballed’ after paying for various reasons.
+are 'blackballed' after paying for various reasons.
 
-TAS publishes JTAS – the Journal of the Travellers’ Aid Society.
+TAS publishes JTAS – the Journal of the Travellers' Aid Society.
 This is a well–respected news and current events journal, with
 features on interesting people and places across Charted Space.
-The ‘open’ version can be bought by anyone and helps fund the
+The 'open' version can be bought by anyone and helps fund the
 reporters and the society itself. Members have access to a slightly
 more comprehensive version and the JTAS archives, which are very
 extensive and contain information on a wide range of subjects.
 
-TAS is in no way a secret society, nor is it a ‘universal siblinghood of
-Travellers’. There is no guarantee that an influential person staying
+TAS is in no way a secret society, nor is it a 'universal siblinghood of
+Travellers'. There is no guarantee that an influential person staying
 in a TAS hostel will want to talk to a down–at–heel adventurer just
 because they are both TAS members. However, it at least provides
 a place where interesting and perhaps useful people can be met if
@@ -524,7 +524,7 @@ Humans, of one sort or another, are the main intelligent race in the
 Spinward Marches and much of Charted Space in general. There
 are, however, several other major and minor intelligent species.
 
-The term ‘Major Race’ has two meanings. Imperial scientists apply
+The term 'Major Race' has two meanings. Imperial scientists apply
 the term precisely to mean any race or species that invented the
 Jump Drive independently. In this context a Minor Race is a species
 that either received Jump–drive technology from another source
@@ -533,12 +533,12 @@ or has not developed interstellar travel at all.
 
 However, the terms are sometimes used rather more loosely to refer
 to the power and prominence of a species. By this definition some
-‘major’ races are actually quite unimportant while some ‘minor’
+'major' races are actually quite unimportant while some 'minor'
 species are very influential.
 
 Humaniti
-Exactly when ‘Humanity’ became ‘Humaniti’ is no longer known.
-While the word ‘humanity’ has various meanings, ‘Humaniti’ has
+Exactly when 'Humanity' became 'Humaniti' is no longer known.
+While the word 'humanity' has various meanings, 'Humaniti' has
 only one – it is the name of the dominant species in the Third
 Imperium.
 
@@ -587,10 +587,10 @@ is because the originally transplanted humans were very diverse.
 It does mean that it is not possible to tell by looking at someone
 whether he or she belongs to any given racial group unless there are
 cultural clues. Dress, mannerisms, accents and such like will usually
-indicate a person’s cultural origin.
+indicate a person's cultural origin.
 
 SOLOMANI
-The Solomani often claim to be the true ‘root stock’ of Humaniti as
+The Solomani often claim to be the true 'root stock' of Humaniti as
 they developed on Terra itself. Others point out that these are the
 people who were left behind when humans went or were taken to
 the stars during the Ancients period.
@@ -611,8 +611,8 @@ created the Solomani Confederation, which has its own cultural
 outlook.
 Most humans of Solomani descent feel little sympathy with the
 Solomani Confederation. It is physically and culturally distant.
-Indeed, the Solomani Confederation is sometimes seen as ‘the bad
-guys’ by Imperial citizens as it fought a war against the Imperium
+Indeed, the Solomani Confederation is sometimes seen as 'the bad
+guys' by Imperial citizens as it fought a war against the Imperium
 in recent history.
 Solomani Confederation influence is low to non–existent in the
 Spinward Marches, though there are many Solomani cultural groups.
@@ -652,12 +652,12 @@ Pure–blood racial Vilani tend to live very long lives. However, this
 trait is heavily diluted by interbreeding. Mixed–blooded Vilani will
 tend to live only marginally longer than Solomani or any other
 mixed–race human. Most cultural Vilani are not pure–blooded
-members of the Vilani ‘race’.
+members of the Vilani 'race'.
 Typical Vilani view scientific and technological progress with disdain.
 Stability is more important than progress, and societies dominated
 by Vilani culture will be very resistant to change. The Vilani culture
 is dominant in a fairly large area of the Imperium. In these areas
-new initiatives from Capital tend to meet considerable resistance.
+new initiatives from [[Capital]] tend to meet considerable resistance.
 Conversely, Vilani regions tend to be stable, orderly and, usually,
 prosperous.
 Within the Spinward Marches, the Vilani culture is not dominant
@@ -681,7 +681,7 @@ is available to Imperial analysts. It is known that the Zhodani are
 active in one area. Several large and many small expeditions have
 been launched over the centuries, all aimed down a corridor of
 space leading directly towards the Galactic Core. The purpose and
-result of these ‘Core Expeditions’ remains unknown.
+result of these 'Core Expeditions' remains unknown.
 
 The Zhodani are the only major human group to make extensive
 and open use of psionic powers. Testing for abilities is routine
@@ -714,10 +714,10 @@ and Nobles.
 
 Here, too, the average Imperial finds Zhodani society a bit sinister.
 Not only are social sciences developed to a high level but there is an
-organization named _‘Tvarchedl_ dedicated to finding unhappy people
-and ‘curing’ them of what is seen as a disease. Although their name
+organization named _'Tvarchedl_ dedicated to finding unhappy people
+and 'curing' them of what is seen as a disease. Although their name
 translates as Guardians of Morality, most Imperials refer to the
-_‘Tvarchedl_ as ‘thought police’.
+_'Tvarchedl_ as 'thought police'.
 
 To the Zhodani, unhappiness is a disease and it is a comfort to
 know that there are people whose job it is to find out what is making
@@ -725,7 +725,7 @@ the person miserable and either help him adjust his life to eliminate
 the cause of his unhappiness or else to make the mental adjustment
 needed to overcome him.
 
-Most often, _‘Tvarchedl_ operations take the form of helpful advice
+Most often, _'Tvarchedl_ operations take the form of helpful advice
 and psionically–assisted counselling. Mind–altering is actually
 much less common than Imperials imagine. It is usually reserved
 for those who are resistant to the gentler processes, such as those
@@ -746,12 +746,12 @@ free to get a different one, but may find it impossible. He or she
 might also not realise exactly what it is that is causing their distress
 and end up pursuing pointless goals in the mistaken belief that this
 will help. A Zhodani in the same position would receive a visitor
-from the ‘Tvarchedl , who would help him or her figure out exactly
-what was causing the unhappiness. The ‘thought policeman’ would
+from the 'Tvarchedl , who would help him or her figure out exactly
+what was causing the unhappiness. The 'thought policeman' would
 then either offer advice on how to eliminate that factor from the
-person’s life, or would actively help the person find a different job
+person's life, or would actively help the person find a different job
 where they would be happier. If that required retraining, then the
-‘Tvarchedl would fund or even provide it.
+'Tvarchedl would fund or even provide it.
 
 It might be that wider factors were at work, in which case a
 troublesome colleague might be reassigned or offered advice on
@@ -782,7 +782,7 @@ OTHER HUMANS
 Most humans within the Marches (and the rest of the Imperium,
 with some exceptions) tend to be of mixed blood. Solomani, Vilani
 and many of the minor human groups have been interbreeding for
-centuries, creating a fairly ‘generic’ human type.
+centuries, creating a fairly 'generic' human type.
 Cultural influences are generally more important than racial ones,
 though local conditions will influence the general characteristics of
 a planetary population over the centuries. Thus as already noted
@@ -837,7 +837,7 @@ enclaves living in remote areas. They are rarely encountered away
 from their homes, though the occasional Ape does turn up in an
 unexpected place.
 It is also generally accepted that Solomani genetic experimentation
-created enhanced humans. These ‘Supermen’ were few in number
+created enhanced humans. These 'Supermen' were few in number
 and do not exist today. The Solomani Confederation is strangely
 reticent on the subject.
 Other Intelligent Species
@@ -849,7 +849,7 @@ needs with humans and can be encountered on the same worlds or
 even living in the same communities.
 ASLAN
 The first human explorers to encounter this humanoid race thought
-they looked somewhat lion–like and used the name ‘Aslan’ (Turkish
+they looked somewhat lion–like and used the name 'Aslan' (Turkish
 for lion) to describe them. The label stuck and has been in use ever
 since, though the similarity is vague and Aslan have no connection
 with any Terran species, let alone the great cats.
@@ -870,9 +870,9 @@ Aslan society is divided along strict male/female lines. Males are
 leaders and warriors; females are businesspersons, scientists and
 technicians. The divide is so ingrained that some Aslan males are
 unable to understand the concept of money (or so they claim) and
-will address a female human soldier as male (fighting is a ‘male’
+will address a female human soldier as male (fighting is a 'male'
 preserve) or a male scientist as a female (since the individual is in
-a ‘female’ role).
+a 'female' role).
 
 Aslan culture holds that only the first son inherits, so landless second
 sons ( _Ihatei_ ) often go adventuring in search of land and glory. This
@@ -907,27 +907,27 @@ Hivers resemble very large six–armed starfish and communicate
 visually by waggling their digits. Most wear a device called a Voder,
 which translates the waggles into Galanglic.
 
-The Hivers are the ‘first among equals’ (or so they claim) in the
+The Hivers are the 'first among equals' (or so they claim) in the
 Hive Federation, leading a wide assortment of other races. The
 Federation is far to Trailing–Rimward of the Marches on the far side
 of Imperial space, with a neutral area in between. Hivers are thus
 rare in the Marches, though they have been sighted.
 
-K’KREE
-The K’Kree, or Centaurs, also dwell far to Trailing of the Marches
+K'KREE
+The K'Kree, or Centaurs, also dwell far to Trailing of the Marches
 across the entire Imperium and also a region of independent space.
 They are even more rarely seen in the Marches than the Hivers.
 
-K’Kree are militant herbivores who have never made any secret of
-their ‘manifest destiny’ to wipe out all meat–eaters in the universe.
+K'Kree are militant herbivores who have never made any secret of
+their 'manifest destiny' to wipe out all meat–eaters in the universe.
 This puts a strain on relations, though there is some trade and
 diplomatic contact between the Imperium and the 2000 Worlds of
-the K’Kree.
+the K'Kree.
 
 VARGR
-Vargr are candidates for the ‘Other Terrans’ label, but as a Major
+Vargr are candidates for the 'Other Terrans' label, but as a Major
 Race they are dealt with here instead. The Vargr were genetically
-engineered from Terran carnivores (the word Vargr means ‘Wolf’)
+engineered from Terran carnivores (the word Vargr means 'Wolf')
 in the distant past, presumably by the Ancients.
 
 The Vargr dwell mainly to Coreward, in the Vargr Extents. This is a
@@ -937,7 +937,7 @@ Vargr live in the Imperium; they are the second commonest species
 in the Spinward Marches.
 
 Vargr are pack creatures whose culture and civilization are based
-around the concept of individuals with ‘Charisma’; that is Alpha
+around the concept of individuals with 'Charisma'; that is Alpha
 individuals. Vargr will give their loyalty to charismatic individuals
 and thus gain reflected glory, but a leader who loses face may find
 himself without followers rather quickly. Vargr society tends to be
@@ -1028,7 +1028,7 @@ reach that great age. The Imperium claims direct lineage from both
 the First (Vilani) and the Second (Solomani) Imperium, giving it a
 legitimacy going back several thousand years.
 
-The secret of the Imperium’s longevity is its ability to absorb changes
+The secret of the Imperium's longevity is its ability to absorb changes
 and even the occasional hard knock. Worlds have occasionally been
 captured by outside powers, wars both internal and external have
 caused great destruction in some areas, and crises have threatened
@@ -1037,9 +1037,9 @@ why, it is necessary to comprehend both the nature of the Imperium
 and the long history of human empires in Charted Space.
 
 The Third Imperium does not actually govern many worlds, at
-least not directly. Instead it rules ‘the space between the stars’ and
+least not directly. Instead it rules 'the space between the stars' and
 has holdings on some worlds of which a small number are owned
-outright. However, even Capital is technically a member world of
+outright. However, even [[Capital]] is technically a member world of
 the Imperium rather than a possession of it.
 
 Most of the territory claimed directly by the Imperium takes the
@@ -1071,7 +1071,7 @@ given threat.
 
 The Imperial military and other services are paid for from the tax
 quotas of worlds and also from interstellar commerce. The Imperium
-‘owns space’ beyond the immediate environs of a given world, and
+'owns space' beyond the immediate environs of a given world, and
 commercial traffic must pass through that space. Revenue from
 commercial taxes, license fees and the like go into the Imperial
 coffers.
@@ -1106,7 +1106,7 @@ history of the Third Imperium is, to a great extent, the history of
 this region.
 
 Antiquity
-Little is known about the very distant past, and what is ‘known’
+Little is known about the very distant past, and what is 'known'
 is actually inferred from archeological finds and other data that
 is very much open to interpretation. Thus it may be that what is
 today accepted as fact could turn out to be entirely wrong. The only
@@ -1129,7 +1129,7 @@ the Ancients.
 The unsuitability of many Ancient devices for human or Vargr use
 undermines these theories, however, but Ancient sites and artefacts
 have been found that are obviously intended for humans or Vargr.
-Proponents of the ‘we are the Ancients’ theories take this as proof of
+Proponents of the 'we are the Ancients' theories take this as proof of
 their claims and suggest that the other artefacts were created for the
 use of alien allies or servitors, or perhaps even for sale.
 However, this is all conjecture. There is little proof that the scattering
@@ -1168,7 +1168,7 @@ to arise on Vland for a long time, but once they were gone the Vilani
 began the long climb back to the stars.
 The Vilani explored nearby worlds and then began to forge an
 empire for themselves. This was the First Imperium, or the Ziru
-Sirka (‘Grand Empire of Stars’). It dominated both the humans
+Sirka ('Grand Empire of Stars'). It dominated both the humans
 and non–humans of the region, and maintained its power through
 ruthless use of economic and military might.
 Upstart civilizations on the borders of the Ziru Sirka were kept down
@@ -1278,9 +1278,9 @@ most disappeared into the darkness before the Long Night finally
 ended.
 
 The Third Imperium
-The Third Imperium was not founded as such but was ‘restored’
+The Third Imperium was not founded as such but was 'restored'
 on Sylea by the arch–businessman Cleon Zhunastu, later Emperor
-Cleon I. Cleon’s Third Imperium claimed legitimacy via direct
+Cleon I. Cleon's Third Imperium claimed legitimacy via direct
 descent from the Second and First, a claim generally accepted to
 be valid. More importantly, the Third Imperium had the military
 and economic capability to overcome the challenges it faced and
@@ -1291,12 +1291,12 @@ these formed the basis of the new Imperium. Their charter, which
 was largely a free–trade agreement with collective–defence clauses,
 formed the basis of the Imperial Charter. The planetary and business
 leaders of the Federation became the early nobility of the Imperium
-and many of today’s noble families can trace their ancestry back to
+and many of today's noble families can trace their ancestry back to
 these individuals.
 
 The new Imperium launched a military campaign to crush the
 warlords that nibbled at its borders, then began to reintegrate the
-worlds of what is now Core Sector. This was mostly a diplomatic
+worlds of what is now [[Core sector]] . This was mostly a diplomatic
 and economic exercise, though there was some fighting.
 
 Other sectors followed, and as the years rolled by the Third
@@ -1305,15 +1305,15 @@ years were not without their troubles and eventually the Imperium
 decided upon a massive effort to find permanent solutions to its
 problems. Beginning in 76, the Pacification Campaigns as they
 became known were a combination of economic, diplomatic and
-military operations which brought many ‘holdout’ worlds into the
+military operations which brought many 'holdout' worlds into the
 Imperium and found solutions to most of the long–term problems
 plaguing Imperial expansion.
 
 The Pacification Campaigns were over by 120, and marked the end
 of the rapid growth of the Imperium. From then on expansion was
-gradual, by a process referred to as ‘border creep’. Eventually the
+gradual, by a process referred to as 'border creep'. Eventually the
 borders came up against natural or political obstacles such as rifts
-or the outer edge of another polity’s territory.
+or the outer edge of another polity's territory.
 
 Numerous conflicts have erupted, mostly along the borders, since
 the end of the Pacification Campaigns. Some have even threatened
@@ -1339,10 +1339,10 @@ Meanwhile Imperial explorers and colonists had rounded the
 Coreward end of the Great Rift (in Corridor sector) and contacted
 the Zhodani. Tensions eventually led to a series of frontier wars. The
 first was from 589–604 and immediately afterwards the disaffected
-Admiral Olav Plankwell led his fleet to Capital and seized the
+Admiral Olav Plankwell led his fleet to [[Capital]] and seized the
 throne.
 The period from 604 to 622 is known as the Civil War or the
-‘Barracks Emperors’ period. The Iridium Throne changed hands
+'Barracks Emperors' period. The Iridium Throne changed hands
 seventeen times in total – six times in 619 alone. The war was ended
 by Admiral Arbellatera Alkhalikoi, founder of the current ruling
 dynasty. Arbellatera did not seize the throne but instead appointed
@@ -1391,7 +1391,7 @@ The Confederation had hoped that the Imperium would be too
 distracted by internal events to act decisively. Emperor Styryx had
 just abdicated as a consequence of the mishandled Third Frontier
 War to Spinward–Coreward, but this did not prevent Emperor
-Gavin, Styryx’ successor, from declaring war against the Solomani
+Gavin, Styryx' successor, from declaring war against the Solomani
 Confederation.
 The Solomani Rim War began in 990 and initially went well for
 the Solomani. However, after a period of stalemate the tide
@@ -1404,12 +1404,12 @@ Since 1002, there have been plenty of incidents and the occasional
 crisis, but only one major war. This was the Fourth Frontier War of
 1082–84, which is sometimes referred to as the False War as the
 Zhodani advances mostly stalled at the border. By the time news
-of the war had reached Capital and instructions for its conduct had
+of the war had reached [[Capital]] and instructions for its conduct had
 been sent back to the Spinward Marches an armistice was already
 in place.
 The past few years have been fairly stable and there seems to be no
 reason to suppose that this might change. Some observers have
-suggested that the Imperium is enjoying a ‘golden age’ of peace
+suggested that the Imperium is enjoying a 'golden age' of peace
 and prosperity.
 The Imperium Today
 The modern Imperium is the result of centuries of history, and
@@ -1536,7 +1536,7 @@ These representatives deal with one another at various levels, directly
 or at the courts of counts, dukes, archdukes and even the emperor
 himself. If an issue cannot be resolved at one level, it is taken higher
 until a solution can be found. It is not always possible to obtain a
-perfect resolution but the representative’s job is to get the best deal
+perfect resolution but the representative's job is to get the best deal
 he can for his world whilst being mindful of greater issues.
 Imperial High Law
 The Imperium has formulated a body of law that applies all across
@@ -1586,11 +1586,11 @@ balances accountability against requirements. Almost anyone can
 buy and carry a civilian hand weapon for self–defence, provided
 the item is legal in their current locale. More powerful weapons
 are restricted for several reasons, not least because the Imperium
-prefers not to have weapons that can put holes in its troops’ combat
+prefers not to have weapons that can put holes in its troops' combat
 armor lying about everywhere.
 As a general rule, more powerful weapons require greater
 accountability. It is relatively easy to obtain a permit for an assault
-rifle or submachinegun; all that is needed is a ‘demonstrated need’
+rifle or submachinegun; all that is needed is a 'demonstrated need'
 such as security aboard a free trader. High–tech military weapons
 are more strictly controlled and generally require that the prospective
 owner be a member of a recognized mercenary unit. Very powerful
@@ -1603,7 +1603,7 @@ There are various ways around this – a powerful patron might
 provide a license for military hardware, for example, or the weapons
 could simply be obtained illegally and kept hidden.
 When a serviceperson leaves the Imperial armed forces, they
-often receive a ‘weapon’ benefit. This is more than simply being
+often receive a 'weapon' benefit. This is more than simply being
 presented with their service rifle as a momento. The weapon comes
 with a permit to own the weapon, making it possible to obtain
 spares and ammunition legally. Service–weapon permits do not
@@ -1623,7 +1623,7 @@ this at least means they will not end up with the Ministry of Justice
 chasing them.
 Worlds of the Imperium
 Every world within the border of the Imperium is a member, though
-the exact terms of each world’s treaty of membership can vary. Most
+the exact terms of each world's treaty of membership can vary. Most
 worlds have a unified government that claims jurisdiction over the
 
 TTHHEE TTHHIRDIRD IIMMPERIUMPERIUM^19
@@ -1642,13 +1642,13 @@ On Balkanized worlds, that is those with multiple governments, each
 state is recognized by the Imperium and has treaties with it. There
 are numerous worlds where not all of the planetary governments
 are Imperial members. The Imperium takes a long view; in time the
-member governments’ increased prosperity will entice the others
+member governments' increased prosperity will entice the others
 to join.
 
 All member worlds have the right to provide for their own defence
 and to make whatever laws seem necessary, within certain broad
 limits. However, the Imperium retains the right to impose sanctions
-against a world whose government is taking ‘inappropriate’
+against a world whose government is taking 'inappropriate'
 actions, the definition of which can vary considerably according
 to circumstances. Worlds can face travel restrictions, economic
 sanctions or even total interdiction. In the latter case the Imperial
@@ -1666,7 +1666,7 @@ However, member worlds have a right of navigation in their own
 star system (and throughout the rest of Imperial space too) and
 their system defence forces are of course free to range throughout
 the system. However, beyond the 100–diameter limit all actions
-are undertaken ‘with Imperial permission’. Unless this has been
+are undertaken 'with Imperial permission'. Unless this has been
 formally withdrawn as part of a package of sanctions it is assumed
 to be in place.
 
@@ -1682,7 +1682,7 @@ they are banned by Imperial law. Only the most rabidly high–law
 worlds will interfere with commerce in this manner, and they risk
 Imperial displeasure by doing so.
 
-There is normally only one ‘mainworld’ in a star system. Other bodies
+There is normally only one 'mainworld' in a star system. Other bodies
 (asteroids, moons and planets) may be home to small outposts or
 colonies but these are more likely to be possessions than states in
 their own right. Some of the outposts in a system may be owned by
@@ -1714,11 +1714,11 @@ which can be very different from that on the mainworld.
 ###### PLANETARY ARMED FORCES
 
 Most worlds have some kind of armed forces. This can range from
-a tribal chieftain’s bodyguards armed with the finest in stone–axe
+a tribal chieftain's bodyguards armed with the finest in stone–axe
 technology to a major fleet of starships.
 
 In practice, very few worlds maintain Jump–capable warships but
-many have some kind of ‘system squadron’ using locally built or
+many have some kind of 'system squadron' using locally built or
 imported vessels. Most system squadrons are basically patrol forces
 capable of policing the local spaceways and enforcing customs
 regulations. These are not usually able to defeat a serious military
@@ -1728,10 +1728,10 @@ several squadrons of monitors.
 
 Whether or not a system defence force is available, most worlds
 have some kind of planetary army. This is normally divided into
-three ‘commands’.
+three 'commands'.
 
 Close Orbit and Airspace Control Command (COACC) forces
-exist to defend the world’s immediate orbital space as well as its
+exist to defend the world's immediate orbital space as well as its
 atmospheric space. COACC forces generally operate a mix of
 ground–based weapons and aircraft as well as orbital combat craft.
 
@@ -1783,13 +1783,13 @@ these are outsystem rockballs used as naval installations or similar
 facilities. However, there are a few mainworlds that are Imperial
 territories rather than member worlds. Some are prison worlds,
 others are the personal fiefs of archdukes or the Emperor. There are
-also a number of ‘reserve worlds’ which are off–limits to outsiders
+also a number of 'reserve worlds' which are off–limits to outsiders
 for various reasons. Each of these types has its own regulations and
 in many cases access is restricted.
 
 The Imperium also maintains large areas of territory on mainworlds.
 The most well–known example is the starport of each mainworld,
-which is technically Imperial territory. Outside the ‘extrality line’
+which is technically Imperial territory. Outside the 'extrality line'
 local law and custom applies; within it a slightly different system
 is in force.
 
@@ -1802,7 +1802,7 @@ world that has a lower law level than the port.
 Law enforcement is generally performed by employees of the Port
 Authority, who usually have extradition agreements with local law
 enforcement agencies and various courtesies in place such as the
-‘right of close pursuit’. This permits law enforcers from either side
+'right of close pursuit'. This permits law enforcers from either side
 to pursue offenders across the extrality line and make an arrest. This
 is not always the case; on some worlds it really is possible to run
 across the extrality line to escape local police.
@@ -1847,12 +1847,12 @@ made up of his allies and supporters. The Imperium is built upon
 economic activity, and many its leaders are captains of industry.
 
 This can create conflicts of interest, and there are laws to limit how
-far a corporate noble can favor his own and his economic allies’
+far a corporate noble can favor his own and his economic allies'
 interests. However, the simple fact is that money and power go
 together, and the Megacorporations have both in large quantities.
 
 There are 13 Megacorporations within the Imperium, plus many
-more huge corporate entities. All are entitled to use the suffix ‘LIC’,
+more huge corporate entities. All are entitled to use the suffix 'LIC',
 which stands for Limited–liability Imperial Charter and designates
 corporate status. However, some corporations use a different suffix
 for stylistic or historical reasons. For example GSb uses the ancient
@@ -1880,21 +1880,21 @@ heavy minerals, publishing, antiquities and toys. Delgado is well
 known for its work in miniaturization and for its distinctly suspect
 employment practices.
 
-Many of Delgado’s subsidiaries, notably Delgado Shipping LIC,
+Many of Delgado's subsidiaries, notably Delgado Shipping LIC,
 operate a two–tier employment system whereby a small proportion
 of employees are given high status and very good salaries while the
 rest are more or less blatantly exploited. Entry into the upper echelon
-is used as a ‘carrot’ to string hopefuls along while paying them well
+is used as a 'carrot' to string hopefuls along while paying them well
 below the going rate. To those who make the jump to Favored
 Employee status, Delgado is extremely generous, but there are a
-number of contractual ‘sticks’ which are used to beat troublesome
+number of contractual 'sticks' which are used to beat troublesome
 employees with.
 
 GENERAL PRODUCTS, LIC
 General was formed by the merger of several manufacturing
 concerns after the Civil War. It is primarily concerned with heavy
 industry; notably the construction of starships and heavy machinery.
-It also manufactures a range of ‘general basics’ such as tools and
+It also manufactures a range of 'general basics' such as tools and
 kitchen implements which are adequate for their purpose and more
 importantly, cheap.
 
@@ -1902,13 +1902,13 @@ General has dominated the cheap–and–good–enough end of
 the market for many years, but has recently been at the center of
 controversy as several of its starships have suffered serious defects.
 Poor build quality and lack of attention to detail have been blamed
-for the loss of several military and civilian starships, and General’s
+for the loss of several military and civilian starships, and General's
 fortunes have declined accordingly. There are rumors that General
 may shed its shipbuilding interests in some regions or may lose its
 Navy contracts if it does not meet new tighter standards.
 
 GESCHICHTKREIS STERNSCIFFBAU AG
-Abbreviated to GSbAG and commonly referred to as ‘Gasbag’
+Abbreviated to GSbAG and commonly referred to as 'Gasbag'
 Geschichtkreis Sternschiffbau AG claims to have been founded in
 –2438 by the amalgamation of several Terran manufacturing firms.
 The earliest record of its existence is a contract with the Sylean
@@ -1948,22 +1948,22 @@ exceptions to this rule.
 INSTELLARMS, LIC
 Founded just after the Civil War by a former mercenary commander,
 Instellarms deals in weaponry and trained mercenary personnel.
-‘Excellent and only slightly overpriced’ is the usual impression
-consumers gain of Instellarms’ products.
-It is still not clear how the firm’s initial stocks of arms and equipment
+'Excellent and only slightly overpriced' is the usual impression
+consumers gain of Instellarms' products.
+It is still not clear how the firm's initial stocks of arms and equipment
 were obtained. There was a lot of surplus equipment on the market
 after the Civil War, of that there is no doubt. However, exactly where
-the money came from to buy it remains a mystery. The firm’s early
+the money came from to buy it remains a mystery. The firm's early
 history is riddled with infractions and outright flouting of Imperial
 regulations on mercenary activities.
-However, today Instellarms is almost disappointingly ’clean’. It deals
+However, today Instellarms is almost disappointingly 'clean'. It deals
 in large–quantity sales to legitimate governments and even has an
-‘ethical arms sales’ policy in some regions. There are more than
+'ethical arms sales' policy in some regions. There are more than
 ethical reasons why Instellarms will not sell to certain governments
 and organizations, however. Instellarms has several very lucrative
 contracts with the Imperial armed forces and these greatly outweigh
 the benefits of sales to rogue states.
-Instellarms does not normally operate ‘gun shops’, though some
+Instellarms does not normally operate 'gun shops', though some
 of its subsidiaries do. A firm with contracts to provide hundreds of
 thousands of gauss rifles to the Imperial Army need not concern
 itself with selling a handgun to a passing Free Trader crewman.
@@ -1997,7 +1997,7 @@ MAKHIDKARUN
 Makhidkarun is one of three Megacorporations (Naasirka and
 Sharurshid being the others) that have their origins in the First
 Imperium. None was exactly a corporation during that period; they
-were termed ‘Bureaus’, each of which was responsible for overseeing
+were termed 'Bureaus', each of which was responsible for overseeing
 a part of the Ziru Sirka. Economic activity was one of the key means
 by which the Vilani Imperium maintained its control over subject
 worlds, so the Bureaus were heavily involved in trade, commerce
@@ -2078,7 +2078,7 @@ SHARURSHID
 The third of the Vilani Bureaus, Sharurshid was founded by the
 merchant caste and became a trading rather than manufacturing
 concern. To this day Sharurshid produces little but makes a vast
-amount of money buying and selling other firms’ produce. In
+amount of money buying and selling other firms' produce. In
 particular Sharurshid is famous for luxury goods, a sector where it
 competes vigorously with Makhidkarun.
 
@@ -2105,7 +2105,7 @@ uses. Sternmetal is also the foremost producer of food synthesis
 equipment in the Imperium.
 
 Sternmetal tends to do things on a large scale if they are worth
-doing at all. ‘Corp Towns’ are not uncommon where Sternmetal has
+doing at all. 'Corp Towns' are not uncommon where Sternmetal has
 brought an entire colony of workers and their families into an area
 or recruited them and provided a ready–made settlement. Living
 conditions are generally very good in the corp–towns, and in many
@@ -2117,12 +2117,12 @@ Tukera is the premier Imperial shipping corporation. In some areas
 it has a virtual monopoly on large–scale freighting and passenger
 
 (^24) TTTHHEHEE T TTHHIRDHIIRRDD I IIMMPERIUMMPPEERRIIUUMM
-travel. Tukera’s assets range from huge bulk freighters and
+travel. Tukera's assets range from huge bulk freighters and
 impressive liners to specialized fast couriers and mid–sized mail
 ships.
-The firm’s revenue mostly comes from regular, dependable routes
+The firm's revenue mostly comes from regular, dependable routes
 rather than speculative trade. Where Sharurshid has ships to enable
-it to trade, Tukera’s vessels are the main source of its prosperity.
+it to trade, Tukera's vessels are the main source of its prosperity.
 Tukera protects its assets, personnel and interests quite aggressively.
 Most ships are armed and carry a well–trained security detail.
 Tukera also operates a number of starports or sections of larger
@@ -2147,10 +2147,10 @@ The firm is content to provide capital and take its profit, leaving
 management to others who are (hopefully) experts in the field.
 Exactly how much Zirunkariish is worth, and how much influence
 it has, is open to speculation. With few physical assets it is difficult
-to make even a general estimate of the firm’s value. However, the
+to make even a general estimate of the firm's value. However, the
 amount is staggeringly large – that much is certain.
 In recent years Zirunkariish has been accused of manipulating the
-money markets due to its effective ownership of many worlds’ hard
+money markets due to its effective ownership of many worlds' hard
 currency reserves. Essentially the firm has loaned capital to a number
 of worlds, secured against their reserves. There is nothing wrong
 with this, it being standard practice. However, persistent rumors
@@ -2168,7 +2168,7 @@ act as representatives of the various worlds (and also commercial
 interests, political and religious groups and the like) to the
 Imperium. In the case where an entire world is the personal fief of
 an Imperial noble, it is likely that there will still be some kind of local
-government and the world’s Imperial representative will not usually
+government and the world's Imperial representative will not usually
 be the fief–holding noble himself but a member of his retinue or a
 subordinate.
 
@@ -2187,7 +2187,7 @@ amounts of power.
 Note that the nobility do not dictate to the worlds of the Imperium.
 They represent their associated world, and advise its government,
 but if the world chooses to take a different path then the noble can
-only protest and advise of the likely consequences. If the world’s
+only protest and advise of the likely consequences. If the world's
 actions are detrimental to the Imperium then the consequences
 may include economic sanctions or even interdiction by the Navy.
 In extreme cases the Imperium may even invade a world and replace
@@ -2208,13 +2208,13 @@ Grand Cross of the Order of the Arrow, but there are really only two
 levels – knight and baronet.
 
 Almost all ranks in the peerage are hereditary, passing to the
-holder’s heir upon his or her death. Multiple titles can be split up
+holder's heir upon his or her death. Multiple titles can be split up
 among several heirs. Some orders of knighthood are hereditary,
 others are not. As a general rule the heir of a baronet becomes a
 hereditary knight.
 
 The close family of a peer are considered to be members of the
-nobility and are often addressed by the title ‘lord’ or ‘lady’ followed
+nobility and are often addressed by the title 'lord' or 'lady' followed
 by their name if they do not hold a title of their own. Many close
 
 TTHHEE TTHHIRDIRD IIMMPERIUMPERIUM^25
@@ -2229,17 +2229,17 @@ Inheriting a title is one way to gain one. Individuals can also be
 knighted or elevated to the peerage for merit or service, or in order to
 hold a particular job. Each year two lists of new nobles are published
 by the Emperor. The Holiday List is published on day 1 of the new
-year and the Birthday List on the Emperor’s birthday. Most of the
+year and the Birthday List on the Emperor's birthday. Most of the
 nobles created on these days are non–hereditary knights, though
 promotions to the peerage are also made at this time. Additional
-nobles can be created at any time if that suits the Emperor’s needs.
+nobles can be created at any time if that suits the Emperor's needs.
 
 When an individual is elevated to noble rank, they receive a patent
 of nobility which indicates their status, rank, and duties, and a
 letter of enfeoffment which confers ownership of any property that
 comes with the rank. They also swear loyalty to the Imperium and
 its Emperor. Noble rank can be revoked or suspended until the
-noble’s heir is ready to receive it. A noble with multiple titles can
+noble's heir is ready to receive it. A noble with multiple titles can
 lose one yet keep others, depending upon the infraction he or she
 has committed.
 
@@ -2268,7 +2268,7 @@ Sometimes a fief is given as part of a task. For example a knight
 might be assigned a large area of wilderness on a frontier world
 as his personal estate, and assigned the task of colonising it with
 the eventual goal of creating an industrial city. If successful, the
-knight’s family would eventually become very wealthy and probably
+knight's family would eventually become very wealthy and probably
 be elevated to the peerage.
 
 It is not necessary to be a noble to hold most Imperial offices.
@@ -2301,18 +2301,18 @@ knighthood or, less often, one of the lower ranks of the peerage
 (baron, marquis or count).
 
 Individuals who hold a position are termed Rank Nobles. There are
-two subtypes. The term ‘Local Nobility’ is given to relatively minor
+two subtypes. The term 'Local Nobility' is given to relatively minor
 nobles who represent worlds and other interests such as business
 groups. The rank is usually hereditary. Most local nobles are barons
 or, occasionally, marquises. Individuals who hold a non–hereditary
 Imperial office (e.g. an ambassador) and have been granted a title
-for that purpose are termed ‘Administrators’. They retain their noble
+for that purpose are termed 'Administrators'. They retain their noble
 title after leaving the post but it is not hereditary unless of course
 the noble already held the requisite rank when the administrative
 post was assigned.
 
-The smallest group, but the most powerful, are termed ‘High
-Nobles’ or the ‘Great Nobility’. These are the most powerful Imperial
+The smallest group, but the most powerful, are termed 'High
+Nobles' or the 'Great Nobility'. These are the most powerful Imperial
 families, who head the great Megacorporations or administer large
 areas of space. Most are dukes or archdukes, though there are a few
 very powerful counts among this select group. These individuals
@@ -2324,24 +2324,24 @@ them. In theory two nobles of the same rank are equals, though they
 may have very different roles and levels of power.
 
 THE ORDERS OF KNIGHTHOOD
-A knighthood entitles the holder to use the prefix ‘Sir’ before his or
-her name. Some females prefer the archaic ‘Dame’ and certain orders
+A knighthood entitles the holder to use the prefix 'Sir' before his or
+her name. Some females prefer the archaic 'Dame' and certain orders
 use this prefix for male and other genders as well, for traditional
-reasons. The initials of the knight’s order are often listed after his
-or her name, and/or a location, such as ‘Sir Alexandr of Skiddir’.
-Locations normally denote the knight’s fief but occasionally refer
+reasons. The initials of the knight's order are often listed after his
+or her name, and/or a location, such as 'Sir Alexandr of Skiddir'.
+Locations normally denote the knight's fief but occasionally refer
 
 (^26) TTTHHEHEE T TTHHIRDHIIRRDD I IIMMPERIUMMPPEERRIIUUMM
 to the event that won their knighthood. This is usually the name
-of a city or world but can be something more unusual, such as ‘Sir
-Andrea of Two Suns’ which refers to a knighthood won at the Battle
+of a city or world but can be something more unusual, such as 'Sir
+Andrea of Two Suns' which refers to a knighthood won at the Battle
 of Two Suns.
 There are various orders of knighthood associated with regions or
 activities, all of which are considered to be generally equal in the
 grand scheme of things. Within a given order there may be ranks,
 in which case the Grand Master of an order obviously outranks
 someone recently inducted into it.
-Examples include the Order of the Emperor’s Household, the
+Examples include the Order of the Emperor's Household, the
 Order of the Starship and Crown and regional orders named for the
 domains, such as The Order of Antares. There is no Order of Deneb
 as no Archduke was ever appointed to that region.
@@ -2359,11 +2359,11 @@ Technically a rank of knighthood, Baronet is sometimes considered
 the lowest peer rank instead. The name comes from an archaic
 Terran practice; a senior knight who led others in battle was
 permitted to display a banner for them to rally to, and was known as
-a ‘Banneret’. The term was gradually corrupted to Baronet, though
+a 'Banneret'. The term was gradually corrupted to Baronet, though
 both are used in some regions.
 A Baronet is essentially a highly ranked hereditary knight, who may
-or may not be given a fief. Baronets use the prefix ‘Baronet’ or
-occasionally ‘Banneret’ before their name and usually the location
+or may not be given a fief. Baronets use the prefix 'Baronet' or
+occasionally 'Banneret' before their name and usually the location
 of their fief afterwards, for example Baronet Mikhal Danilo of
 Slovenos.
 BARON
@@ -2377,20 +2377,20 @@ a fief on one. One baron might have received his rank for service
 and another because she heads a small but important shipping
 corporation. All are equal in precedence at the Imperial court as
 each has contributed to the Imperium in different ways.
-Barons use the prefix ‘Baron’ or ‘Baroness’ and often a range of
-other honorifics such as ‘hault’, ‘ap’ or ‘von’ before their surname.
-As with knights, the Baron’s fief location is often used as a suffix.
+Barons use the prefix 'Baron' or 'Baroness' and often a range of
+other honorifics such as 'hault', 'ap' or 'von' before their surname.
+As with knights, the Baron's fief location is often used as a suffix.
 MARQUIS
 An imperial Marquis is usually either a powerful businessperson
 or the representative of an important world. In the latter case
-the world’s name is used after the noble’s rank title, for example
+the world's name is used after the noble's rank title, for example
 Marquis of Aramis or Marquis Aramis. Both usages are correct.
 COUNT
 A Count may be an extremely important Imperial officer, such as
 the ambassador to the Solomani Confederation, or the head of
 an important corporate body. Alternatively, a Count may be the
 Imperial administrator for a group of 2–3 worlds within a subsector.
-In the latter case the count’s title is followed by the name of one of
+In the latter case the count's title is followed by the name of one of
 the worlds he or she is responsible for.
 DUKE
 Imperial dukes oversee an entire subsector of space and give
@@ -2405,7 +2405,7 @@ TTHHEE TTHHIRDIRD IIMMPERIUMPERIUM^27
 All dukes use the subsector they are associated with as a suffix, for
 example Duke of Rhylanor. This also applies to the Sector Duke
 who retains direct responsibility for his or her subsector as well as
-sector–wide concerns. Usually a member of the duke’s family is
+sector–wide concerns. Usually a member of the duke's family is
 appointed to deal with subsector matters.
 
 ARCHDUKE
@@ -2424,7 +2424,7 @@ Deneb which has no Archduke.
 An Archduke uses his or her Domain name as a suffix and is assigned
 an entire world as a personal fief. Technically the Emperor is also
 the Archduke of Sylea, and uses this title on some occasions, but
-Capital is not the Emperor’s fief. Instead this is Usdiki in Gushemege
+[[Capital]] is not the Emperor's fief. Instead this is Usdiki in Gushemege
 sector; the Emperor can sometimes use the title Marquis Usdiki if
 he chooses.
 
@@ -2439,14 +2439,14 @@ of the Emperor and his close relatives are granted the rank of Prince
 or Princess, with the heir–apparent holding either the title of Imperial
 Prince/Princess or sometimes the archaic Grand Prince/Princess.
 
-The Emperor’s consort may be given the rank of prince or princess,
+The Emperor's consort may be given the rank of prince or princess,
 or may retain their own noble title. It is fairly common, though
 incorrect, to refer to a consort as Emperor/Empress. Other
 members of the household use whatever noble rank they hold in
-their own right or else are knighted into the Order of the Emperor’s
+their own right or else are knighted into the Order of the Emperor's
 Household.
 
-Whilst technically the Emperor’s son or daughter holds a higher
+Whilst technically the Emperor's son or daughter holds a higher
 station than a sector duke or even an archduke, the Imperial
 household are not in the political chain of command unless they
 hold specific titles in their own right. They are, however, hugely
@@ -2481,7 +2481,7 @@ Imperial nobility works. The sector duke is a political leader who tells
 the naval commanders assigned to his sector what he needs doing
 and then lets them decide how to do it. He does not command the
 fleet in person and indeed cannot legally do so, though he can stand
-at the admiral’s elbow offering ‘advice’.
+at the admiral's elbow offering 'advice'.
 
 The same applies throughout the nobility. A noble who is the head
 of a corporation gives orders to the corporation as its head, not as
@@ -2527,21 +2527,21 @@ could not be assigned ahead of time. For example, a noble might
 be issued a warrant to investigate allegations of corruption in the
 subsector bureaucracy. The warrant for this task would give the noble
 the right of access to local police and Ministry of Justice records
-and to ‘borrow’ personnel as needed. It might make provision for
+and to 'borrow' personnel as needed. It might make provision for
 the noble to suspend government officials or even Imperial nobles.
 Trying to use this warrant to take command of an Imperial Navy
 cruiser would be pointless.
 Some warrants are more open than others. There are rumors
-that ‘blank warrants’ exist, which essentially state that the bearer
-speaks with the Emperor’s direct authority and can essentially
+that 'blank warrants' exist, which essentially state that the bearer
+speaks with the Emperor's direct authority and can essentially
 take command of any assets, up to and including the Imperial
 bureaucracy or an entire battle fleet, if he feels the need. Only a
 handful have ever been reported and most of these were proven to
-be fakes. It may be that the ‘blank warrant’ never actually existed,
+be fakes. It may be that the 'blank warrant' never actually existed,
 though there are a number of entertainment vids on the subject.
-The third circumstance is where a noble ‘presumes authority’ in
+The third circumstance is where a noble 'presumes authority' in
 a crisis. Technically, and by long precedent, those elevated to the
-nobility hold the Emperor’s trust and are his direct representatives.
+nobility hold the Emperor's trust and are his direct representatives.
 Although they may have no official power in a given situation, a noble
 may step forward and start giving orders if it seems necessary.
 The Imperium is based on traditions of individuals acting decisively
@@ -2555,23 +2555,23 @@ This is as much a matter of personality as anything else; a natural or
 trained leader will lead, noble or not. However, when the question
 of chain of command comes up, noble rank can be important. No
 military officer will place his troops under the command of some
-random person in an expensive suit but a noble, as the emperor’s
+random person in an expensive suit but a noble, as the emperor's
 representative, might be able to persuade others to accept his
 authority over the situation for the duration of the crisis. All involved
 will have to justify their actions, of course.
 Thus taking control of a situation depends very much on the rank of
 the noble, his reputation, and his ability to persuade others to follow
-him. And of course, how much sense he’s talking. As a general rule,
+him. And of course, how much sense he's talking. As a general rule,
 an Imperial knight passing through a small backwater town when a
 major disaster breaks is more likely to be able to take charge – and
 to need to do so – than if he is caught up in a crisis somewhere that
 has a well–organised hierarchy in place.
-Noble power is thus rather limited outside the noble’s own sphere
+Noble power is thus rather limited outside the noble's own sphere
 of influence. Many nobles do not even have a sphere of influence
 outside their own estates, though they may be able to exert influence
 through contacts, money and their name.
 Noble Courts and The Imperial Moot
-Traditionally the term ‘court’ meant a place where issues were
+Traditionally the term 'court' meant a place where issues were
 resolved and disputes settled. The meaning drifted over the
 centuries, coming to refer to a court of law. However, the courts of
 Imperial nobles are indeed places where matters are resolved.
@@ -2579,8 +2579,8 @@ The court of a baron or even a marquis is a modest affair, if it even
 exists, but from the level of count upwards the courts of nobles
 become very important places where influence and favors are
 traded and issues resolved between representatives.
-The usual practice is for worlds within a county (a count’s area
-of responsibility) to maintain representatives at the count’s court
+The usual practice is for worlds within a county (a count's area
+of responsibility) to maintain representatives at the count's court
 where they interact with liaison officers of major businesses active
 in the area, the Imperial armed forces, the Ministry of Justice and
 the Colonial Office as well as the ever–present Bureaucracy.
@@ -2591,16 +2591,16 @@ but it is expensive and not usually necessary. The hierarchy exists
 to filter out matters that can be dealt with at any given level from
 those that need to be taken to the next higher level. Imperium–wide
 matters are resolved at the Imperial court, which also serves as an
-Archducal court for the core sectors.
+Archducal court for the [[Core sector]] s.
 Each world of the Imperium is also entitled to representation in the
-Imperial Moot, which is distinct and different from the Emperor’s
+Imperial Moot, which is distinct and different from the Emperor's
 court. The Moot is an advisory body which debates major issues and
 tries to present the Emperor with one or more workable solutions
 to choose from. It does not have many direct powers other than
 to ratify a claimant to the throne and the ability to dissolve the
 Imperium. This is not something to be done lightly, but it does
 provide a counterbalance to the power of the Emperor if necessary.
-In practice, a wise Emperor listens to the Moot’s recommendations.
+In practice, a wise Emperor listens to the Moot's recommendations.
 Going against them means ignoring the advice of a large gathering
 of the Imperial nobility (or their representatives), and these are
 the people who wield much of the power in the Imperium. Thus
@@ -2615,7 +2615,7 @@ Moot.
 
 Noble Houses
 The family, close retainers and some of the holdings of a noble
-are often referred to as a ‘noble house’. Houses are sometimes
+are often referred to as a 'noble house'. Houses are sometimes
 identified by the family surname, for example House Miracru. The
 term is somewhat vague but generally encompasses family members
 and core interests. Thus the name House Miracru refers to Count
@@ -2627,7 +2627,7 @@ considered part of House Miracru as it is not directly owned.
 
 A noble house can have many direct assets and tends to have
 other holdings which are owned but not directly controlled. There
-will usually be a ‘household’ of variable size which includes family
+will usually be a 'household' of variable size which includes family
 members, unrelated people who are closely involved with the house
 and a number of retainers.
 
@@ -2641,9 +2641,9 @@ knight or baron.
 The retinue of a noble, though often non–nobles themselves, enjoy
 a special status by association with a prestigious noble house. They
 will accompany their noble to events and may even stand in for him
-or her at some of them. This position of trust gives a noble’s retinue
+or her at some of them. This position of trust gives a noble's retinue
 great power. It has been wisely said that the non–noble captain of
-a duke’s bodyguards is a more influential individual than many
+a duke's bodyguards is a more influential individual than many
 Imperial barons.
 
 The retinue will normally contain one or more bodyguards or officers
@@ -2652,7 +2652,7 @@ part of the household. This can range from a couple of bodyguards
 through the crew of an armed yacht to several regiments of household
 troops. The latter are, in most regions, named Huscarles. This word
 derives from an ancient Terran term for professional soldiers of
-high status who were part of a noble’s household. The meaning has
+high status who were part of a noble's household. The meaning has
 not changed much.
 
 Outside the immediate retinue there are many retainers. These are
@@ -2673,10 +2673,10 @@ performing beyond the level its numbers would indicate.
 
 Huscarles are permitted in the Imperium under the same laws that
 allow for corporate security forces, mercenary units and the like.
-They are supposedly for the protection of the noble house’s estate
+They are supposedly for the protection of the noble house's estate
 and assets, but are sometimes deployed for other purposes. Some
 sector and subsector dukes maintain a large force equipped as
-regular combat troops, and use them as a personal ‘hammer’ to back
+regular combat troops, and use them as a personal 'hammer' to back
 up Imperial forces at need or fill in when they are not available.
 
 However, the huscarles of most noble houses are normally limited
@@ -2697,7 +2697,7 @@ head of a great household. It is normally better to assume that the
 character is away from the support of his family or house. Perhaps
 he belongs to an impoverished house, or is in disgrace. Perhaps
 he is a younger child who will not inherit, in which case he will not
-have the title his social standing implies but would go by ‘Lord...’
+have the title his social standing implies but would go by 'Lord...'
 or possibly he will have a knighthood by virtue of his kinship to a
 great lord.
 
@@ -2709,7 +2709,7 @@ adventure fodder.
 
 Thus a player–character noble will not be able to command armies
 or Imperial ministries, nor bring to bear the resources of a noble
-house. However, he/she has a ‘name’ and with a bit of clever talking
+house. However, he/she has a 'name' and with a bit of clever talking
 might be able to use that to advantage.
 
 ###### THE IMPERIAL ARMED FORCES
@@ -2737,14 +2737,14 @@ are not permitted to short–circuit the chain of command and give
 direct orders to military forces. The sector duke must go through
 the sector admiral rather than simply ordering a ship captain to
 perform a task. However, in a crisis some leeway is permitted; the
-captain might agree to follow the duke’s ‘suggestion’ if it seemed
+captain might agree to follow the duke's 'suggestion' if it seemed
 like a good idea or if sufficient influence was brought to bear.
 The chain of command is fairly simple. Political direction comes
 from the nobility, with the military as its instrument. The sector
-duke might say something like, ‘Admiral, please be so good as to
+duke might say something like, 'Admiral, please be so good as to
 strengthen our naval presence along the Spinward–Coreward edge
 of the sector; I recommend at least another battle squadron and two
-or more cruiser squadrons’.
+or more cruiser squadrons'.
 The admiral would then decide if this is possible and perhaps put
 forward a counter–recommendation or indicate why the deployment
 is not a good idea. Once a deployment is agreed, the admiral then
@@ -2762,7 +2762,7 @@ will usually be present at high–level planning sessions. However, the
 distinction comes down to this: The armed forces are commanded
 by their own officers. Military operations are ordered by senior
 military officers in accordance with the political direction supplied by
-the Emperor’s representatives, ie the nobility – in short, the nobility
+the Emperor's representatives, ie the nobility – in short, the nobility
 indicates what needs to be done and the military decides how and
 what assets will be used. There is of course always communication
 and an element of joint planning involved.
@@ -2773,8 +2773,8 @@ command, while a noble who is a retired naval officer advising the
 sector duke is not. His advice may be well worth listening to but he
 cannot give direct orders.
 The system works like this. The sector duke says something like:
-“We’re being invaded. These key worlds must not fall and that trade
-route must stay open. I’d like to think we could halt the attackers
+“We're being invaded. These key worlds must not fall and that trade
+route must stay open. I'd like to think we could halt the attackers
 about here...” The Navy responds by offering a plan which, after
 some discussion, is approved. The admiral then orders his fleet
 assets to their new locations and reports on progress to the sector
@@ -2786,13 +2786,13 @@ decision so the nobility needs to be consulted. However, purely
 military matters such as specific unit deployment are the sole
 province of military officers.
 The Imperial Navy
-The Imperial Navy is the ‘Senior Service’ in the Imperium. It is the
+The Imperial Navy is the 'Senior Service' in the Imperium. It is the
 most prestigious of services and is considered a good route to social
 advancement as well as a training–ground for young nobles.
 The Navy is primarily concerned with maintaining the security of
 the spacelanes and defending the Imperium from invasion or
 lesser threats such as rebellion. It also upholds and enforces the
-law, conducts emergency relief operations and ‘shows the flag’ to
+law, conducts emergency relief operations and 'shows the flag' to
 remind member worlds that they belong to and are protected by the
 might of the Imperium.
 To carry out these roles the Imperial Navy uses a wide array of
@@ -2803,13 +2803,13 @@ dreadnoughts.
 Cruisers are the workhorse of the fleets. Smaller and less powerful
 than a capital ship (a battleship or dreadnought) they nevertheless
 carry extremely potent weapons. Virtually all cruisers and capital
-ships are built around a ‘spinal mount’, a super–huge weapon that
+ships are built around a 'spinal mount', a super–huge weapon that
 runs the length of the vessel. The spinal mounts of cruisers are
 of necessity smaller than those of battleships but are capable of
 damaging even a capital vessel.
 There are many types of cruisers. As well as heavy and light general–
 purpose cruisers, the navy makes use of strike cruisers, armored
-cruisers, long–range ‘rift’ cruisers and a range of specialist vessels
+cruisers, long–range 'rift' cruisers and a range of specialist vessels
 for various purposes. Most fleets include numerous cruisers but
 they can also be found operating alone or at the head of a task force.
 An Imperial Navy cruiser is a very potent vessel and can deal with
@@ -2829,7 +2829,7 @@ ships commonly encountered on patrol.
 Smaller escorts do exist, right down to ships like the Close Escort
 or Patrol Cruiser (a long–standing misnomer; this tiny vessel is an
 escort rather than a cruiser). These are the ships that do most of
-the navy’s work; patrol, piracy suppression, guardship duty and the
+the navy's work; patrol, piracy suppression, guardship duty and the
 like. They also escort and protect larger vessels. There are never
 enough escorts; the navy budget is huge but most of it is spent on
 the capital ships and cruisers needed to prevent invasion by major
@@ -2846,7 +2846,7 @@ an escort–sized warship.
 
 Another class of vessel, the battle tender, carries fighters, though
 these are not its main striking arm. That distinction goes to a
-squadron (3–5 usually) of ‘battle riders’. These are non–Jump
+squadron (3–5 usually) of 'battle riders'. These are non–Jump
 capable warships which do not need to devote space to Jump drives
 or fuel and so can carry the same weapons fit as a battleship on a
 much smaller hull.
@@ -2875,12 +2875,12 @@ There are also normally several naval bases throughout a sector.
 These are more modest and can vary from a small installation serving
 a patrol flotilla to the home port of several battle squadrons.
 
-Most of the sector fleet’s capital ships, those capable of fighting a
+Most of the sector fleet's capital ships, those capable of fighting a
 major action such as battleships, dreadnoughts and fleet carriers,
 are concentrated at the depot, with the remainder deployed in
-smaller battle forces at naval bases across the region. Capital ships
+smaller battle forces at naval bases across the region. [[Capital]] ships
 are kept concentrated to deal with major threats and are rarely seen
-away from a major fleet. Most of the sector fleet’s cruiser strength
+away from a major fleet. Most of the sector fleet's cruiser strength
 is also kept concentrated, though cruiser squadrons (CruRons)
 are more often deployed to smaller bases than battle squadrons
 (BatRons).
@@ -2902,11 +2902,11 @@ For this reason a subsector fleet usually has a single cruiser as
 flagship and deploys mainly escorts and destroyers for patrol and
 commerce–protection work. Of course, if a major incident arises,
 the sector fleet is there to deal with it, and often vessels are loaned
-from sector command to the subsector admiral’s control.
+from sector command to the subsector admiral's control.
 Other fleet types can be created. For example, in wartime strike
 fleets or battle fleets might be formed. Often the assets to create
 these are loaned by other sector fleets, with the vessels returning to
-their ‘home’ sectors when the war is over.
+their 'home' sectors when the war is over.
 Most of the time, travellers will encounter the smaller vessels of
 the navy on patrol, conducting boardings and customs inspections,
 and in port between missions. Personnel on liberty can be found
@@ -2918,9 +2918,9 @@ such as logistics staging posts, repair yards or training grounds for
 new recruits.
 Occasionally travellers might see a fleet on exercise or encounter an
 interdiction patrol. The latter exists to keep unauthorized personnel
-and ships away from a ‘red zoned’ world, ie one to which civilian
+and ships away from a 'red zoned' world, ie one to which civilian
 access is restricted. Most naval installations can also be considered
-‘red zones’; ships approaching are usually boarded and searched
+'red zones'; ships approaching are usually boarded and searched
 if they cannot explain their presence and will normally be turned
 around and sent on their way unless they have the correct permits.
 Ignoring a red zone is grounds for the navy to fire on a vessel,
@@ -2935,8 +2935,8 @@ of various worlds and organizations to be called up to assist the
 Imperial Navy at need.
 Worlds are permitted to maintain their own fleets for local defence.
 Most settle for an orbital defence force and possibly a force capable
-of patrolling their home system (collectively termed a ‘system
-squadron’), possibly backed up by a Jump–capable patrol vessel or
+of patrolling their home system (collectively termed a 'system
+squadron'), possibly backed up by a Jump–capable patrol vessel or
 two as status symbols and/or for commerce protection.
 However, some worlds maintain rather larger naval forces. There
 are various reasons for this, with status being the main one. Almost
@@ -2964,10 +2964,10 @@ Larger colonial–fleet vessels such as cruisers and destroyers are
 generally grouped into combat squadrons in wartime. They tend to
 be older ships bought as surplus by their new owners and in less
 than ideal condition, but extra hulls are always welcome.
-The colonial fleet also keeps track of the ‘Reserve Fleet’. This
+The colonial fleet also keeps track of the 'Reserve Fleet'. This
 consists of a pool of naval reservists and personnel who have left
 the service but remain available for reactivation, and a collection
-of ‘mothballed’ warships maintained at the depot and naval bases.
+of 'mothballed' warships maintained at the depot and naval bases.
 Surplus capital ships tend to end up in mothballs rather than being
 bought up by private users as escorts. Thus the navy has a pool of
 capital ships and cruisers (and also some smaller vessels) that can
@@ -2983,8 +2983,8 @@ assets. The reserve fleet has however fought some tough actions,
 and probably will again.
 The Imperial Marine Corps
 The Marine Corps has two main functions. On the one hand it is a
-‘hammer’ to smash problems flat with overwhelming firepower. On
-the other, its personnel act as ship’s troops for naval vessels and
+'hammer' to smash problems flat with overwhelming firepower. On
+the other, its personnel act as ship's troops for naval vessels and
 guard important installations. By tradition, marines guard Imperial
 embassies and provide an honor–guard to ambassadors.
 
@@ -3001,7 +3001,7 @@ wherever they are deployed.
 
 Marines are most commonly encountered guarding the Imperial
 embassy at a starport or conducting boardings to inspect cargo or
-ship’s papers. All naval bases have a contingent of marines assigned
+ship's papers. All naval bases have a contingent of marines assigned
 for both the defence of the base and any missions that may require
 a rapid–reaction force.
 
@@ -3046,7 +3046,7 @@ armored striking and reconnaissance formations), armored
 
 The Marine Corps does not possess warships of its own, but it does
 operate armed troopships and assault transports. These have flight
-crews ‘on loan’ from the navy but are under Marine Corps direction.
+crews 'on loan' from the navy but are under Marine Corps direction.
 Marines do fly fighters and shuttles, and are trained in interface
 operations wherein they might provide close support to ground
 troops before climbing back to orbit to defend the transports.
@@ -3055,7 +3055,7 @@ The Marine Corps is primarily an infantry force. Every marine is
 trained as a rifleman and learns cutlass drill for ceremonial purposes.
 The cutlass is carried during boardings as a broad hint more than
 anything else; if trouble erupts then firearms are normally preferred.
-Marines serving as ship’s troops provide security for the vessel and
+Marines serving as ship's troops provide security for the vessel and
 act as escorts for officers undertaking liaison tasks or work parties
 if it seems necessary. Most ships, like most embassies, have only a
 small detachment of marines available.
@@ -3078,9 +3078,9 @@ mutual support). In addition, the army maintains among its ground
 forces a range of support formations such as electronic warfare
 units, field hospitals and engineering formations.
 However, there is more to the Imperial Army than this. The term
-‘army’ might better be replaced with something like ‘planetside
-combat force’, as the army also fights on and under the surface of
-water. Maritime forces tend to be smaller than ‘ground’ forces but
+'army' might better be replaced with something like 'planetside
+combat force', as the army also fights on and under the surface of
+water. Maritime forces tend to be smaller than 'ground' forces but
 this depends on the nature of the world being fought on. Maritime
 formations range from combat divers or aquatic–species infantry to
 surface ships and submarines.
@@ -3102,14 +3102,14 @@ protect an installation or estate. However, larger military units do
 exist.
 Some worlds maintain military formations equipped and trained to
 Imperial Army standards. There are various reasons for this, such
-as status, but the commonest is to ensure that the world’s armed
+as status, but the commonest is to ensure that the world's armed
 forces gain some operational experience even in peacetime. Some
 powerful nobles maintain units for a similar purpose.
 Thus it is possible to encounter an imperial army force which
 contains a battalion on loan from a corporation, noble house or
 planetary government, or a mercenary unit on contract to the
 Imperial Army. In all such cases the unit will have been sworn in
-(perhaps temporarily) as a unit of the Emperor’s armed forces and
+(perhaps temporarily) as a unit of the Emperor's armed forces and
 will be under the command of regular army generals.
 Mercenary forces range from individuals and small teams through
 platoon, company and even battalion sized units. Larger formations
@@ -3163,8 +3163,8 @@ statues to records clerks and accountants, but there are those in the
 Bureaucracy whose names are known to billions.
 
 The Imperial Colonial Office
-The Colonial Office (usually abbreviated ICO) administers ‘colonial
-territories’, a catch–all term for Imperial possessions and worlds
+The Colonial Office (usually abbreviated ICO) administers 'colonial
+territories', a catch–all term for Imperial possessions and worlds
 that are being opened up for colonization. As such, its main areas
 of interest are along the borders. However, it is also responsible for
 overseeing areas within the Imperium such as prison worlds, reserve
@@ -3187,7 +3187,7 @@ communities that are not citizens of any given world. In practice
 this is restricted to registering births and deaths if and when they
 are reported and assigning Imperial ID to Belters who do not have a
 homeworld government to do it for them. Such people are assigned
-ID as ‘Imperial Citizens’ rather than as citizens of any given world.
+ID as 'Imperial Citizens' rather than as citizens of any given world.
 This is usually the last involvement ICO has with them before filing
 a death certificate some time later. Many Belters are very lax about
 this, so accurate records are not possible.
@@ -3199,7 +3199,7 @@ diplomatic service acts as liaison between world governments,
 corporate bodies, external states and the Imperium itself. It
 provides an ambassador or liaison official and a small staff to many
 worlds. These personnel are normally located at the capital and/or
-the starport. Some of them assist the planet’s noble representative
+the starport. Some of them assist the planet's noble representative
 while others have a different role.
 
 The main function of diplomatic service personnel is to help
@@ -3230,7 +3230,7 @@ other services on legal matters. Laws are made such by Imperial
 decree but it is the IMOJ that drafts them and advises on their
 implications. Secondly, the Ministry of Justice acts as an Imperium–
 wide enforcement agency, dealing with major and high–level issues.
-Personnel operating at this level are termed ‘Agents’. The third
+Personnel operating at this level are termed 'Agents'. The third
 facet is street–level enforcement carried out by marshals and their
 deputies.
 
@@ -3251,7 +3251,7 @@ personnel if the deployment is large enough to require them.
 
 IMOJ personnel are always tasked with upholding Imperial law and,
 where appropriate, local laws. The Ministry will not assign teams to
-a world whose laws are considered ‘inappropriate’ even if they do
+a world whose laws are considered 'inappropriate' even if they do
 not violate the Imperial Charter – the IMOJ needs to maintain its
 image and integrity, and its personnel are not required to enforce
 the extreme laws of some Imperial member worlds.
@@ -3285,7 +3285,7 @@ capable of functioning as escorts.
 (^36) TTTHHEHEE T TTHHIRDHIIRRDD I IIMMPERIUMMPPEERRIIUUMM
 Most of the time, however, the Scout Service has a more peaceful
 role. There are three main branches of the service, overseen by
-the bureaucracy (that is, the scout service’s bureaucracy, not the
+the bureaucracy (that is, the scout service's bureaucracy, not the
 Imperial administration). Within each branch there are various
 subdivisions, such as contact & liaison or security. However,
 personnel move between specialisms and even branches on a fairly
@@ -3293,8 +3293,8 @@ frequent basis. It is not uncommon for a scout to become bored with
 communications duty and request a stint with the survey branch. If
 a suitable berth is available and the comms branch can spare the
 scout, a transfer will usually be forthcoming.
-Scouts never actually leave the service. Instead they go on ‘detached
-duty’ and are subject to reactivation at need. In practice younger,
+Scouts never actually leave the service. Instead they go on 'detached
+duty' and are subject to reactivation at need. In practice younger,
 more recently detached scouts are far more likely to be reactivated
 than elderly men and women or those with families. Detached duty
 can be requested at any time and is often approved – the Scout
@@ -3305,12 +3305,12 @@ Detached scouts do not receive a salary or support, though they
 can usually get a bunk and a meal in any scout service installation
 they visit. Occasionally a detached scout may be assigned a small
 starship, though this often comes with strings attached. The usual
-requirement is to file a short ‘user report’ on every starport the ship
+requirement is to file a short 'user report' on every starport the ship
 visits for inclusion in the Scout Service files. Many detached scouts
 return voluntarily to the service after a period doing something else.
 The detached duty office also acts as a two–way clearing house
 for personnel. It helps other agencies (Imperial and private) that
-want to hire or ‘borrow’ scout personnel for a particular task find
+want to hire or 'borrow' scout personnel for a particular task find
 someone suitable.
 Conversely, the detached duty office also maintains records of
 and pays salaries to non–scout personnel who are involved with
@@ -3319,7 +3319,7 @@ out mundane work for the service but more commonly deals with
 the scientists, engineers and consultants that the Scout Service
 sometimes hires to round out a mission. These personnel are not
 considered to be scouts and are not subject to reactivation, though
-they remain on the detached duty office’s books and may be called
+they remain on the detached duty office's books and may be called
 upon again in preference to a complete outsider.
 The three main branches to which most scouts belong are
 the communications, exploration and survey offices. Comm–
@@ -3336,7 +3336,7 @@ up–to–date charts as well as population census figures, records of
 starport types and quality, and all manner of other data–collection
 tasks within the Imperium and just beyond it. Survey branch is
 also responsible for monitoring many of the worlds that are under
-Imperial interdiction. Some ‘red zones’ are imposed and monitored
+Imperial interdiction. Some 'red zones' are imposed and monitored
 by the navy (to punish a world for breaking High Law, for example)
 but those that are imposed for other reasons (including dangerous
 conditions or something of scientific interest) are normally
@@ -3361,7 +3361,7 @@ positions.
 The scout service administrative and planning arm is known as the
 Bureaucracy but is entirely different from the Imperial service of
 the same name. The Bureaucracy does have a rank and promotion
-structure, which is viewed with suspicion by many ‘field’ scouts.
+structure, which is viewed with suspicion by many 'field' scouts.
 Most scouts serve their entire career in the field; some spend a
 token period in the field and apply for a Bureaucracy job at one of the
 regional scout bases or way stations. However, both the Bureaucracy
@@ -3414,7 +3414,7 @@ the bigger lines, or work in a way that complements their activities,
 these small lines can get by. If they tread on the toes of the shipping
 giants they tend to be edged out rather rapidly.
 
-Below the level of these ‘subsector’ shipping lines there are various
+Below the level of these 'subsector' shipping lines there are various
 alliances of free traders and such like, which sometimes mature
 into shipping corporations but more commonly break up after a
 time. Alliances of this sort have little political power and get their
@@ -3432,7 +3432,7 @@ operated by a minor company. This may be accompanied by a pay
 cut, however, and it is difficult to move in the opposite direction
 without taking a demotion.
 
-There is also the risk that the character may ‘move down’ too much
+There is also the risk that the character may 'move down' too much
 and end up working aboard a semi–legal vessel or broken–down free
 trader. However, some people prefer to be a senior crew member
 of a minor vessel to a life of luxury as a junior member of a more
@@ -3444,11 +3444,11 @@ all carry at least a few weapons in a locker. Some shipping lines,
 however, take this a bit further and maintain a large security arm
 that is almost a private army and even have a number of small
 warships which are used to patrol dangerous systems or escort the
-line’s commercial vessels. Warships do not make a profit, so this
+line's commercial vessels. Warships do not make a profit, so this
 practice is only followed where the need is greatest.
 
 Insurgents and Terrorists
-While it is convenient to slap the label ‘terrorist’ on anyone whose
+While it is convenient to slap the label 'terrorist' on anyone whose
 actions are disapproved of, the Imperium recognizes that there is a
 difference between insurgents and terrorists. By definition, a terrorist
 is someone who uses terror for political ends. The Imperium takes
@@ -3469,8 +3469,8 @@ Imperium support a morally dubious government, or help overthrow
 a liberal one in favor of a regime that fits well with Imperial plans
 for the region? For these and other reasons such as the sheer costs
 (in lives and money) involved the Imperium generally tries not to
-become involved in ‘local matters’ such as insurgencies against a
-world’s government.
+become involved in 'local matters' such as insurgencies against a
+world's government.
 
 However, if the insurgents are anti–Imperium in outlook, plan
 to secede, or if they are damaging Imperial assets and causing
@@ -3513,7 +3513,7 @@ trial.
 The Imperial authorities tend to become involved when an individual
 commits many crimes on various worlds and is clearly a serious
 threat, or when a crime assumes political or economic significance.
-Organised crime falls into this category, though normally if a group’s
+Organised crime falls into this category, though normally if a group's
 activities are restricted to one world then they are left for the local
 police to deal with.
 Organised crime on a multiworld scale is a threat to the stability of
@@ -3530,7 +3530,7 @@ basis, sometimes by mercenary units or armed merchant ships
 down on their luck and needing a quick source of cash. Some attacks
 are relatively genteel and take the form of extortion more than true
 piracy, but others are vicious indeed.
-There are very few ‘career’ pirates in the Imperium. It is possible
+There are very few 'career' pirates in the Imperium. It is possible
 to make a few raids and then move on, but brazen buccaneering is
 not far short of suicide. The occasional pirate attack may not draw a
 reaction from the navy or Ministry of Justice, but repeated attacks in
@@ -3553,7 +3553,7 @@ political significance.
 Religious Groups
 The Imperium has no official religion. It is tolerant and respectful
 of all religions and belief systems, other than those that contravene
-the basic sentients’ rights that the Imperium grants to all self–aware
+the basic sentients' rights that the Imperium grants to all self–aware
 people. In short, Imperial citizens are free to believe what they like,
 or nothing, so long as it does not harm anyone else.
 There are a great many religions within Charted Space. Some are
@@ -3763,7 +3763,7 @@ psionic individuals in each generation. The period between games
 For example, it is the term served by most elected officials.
 
 The Zhodani are thought to have begun (though some sources say
-‘regained’, which has interesting implications) space travel around
+'regained', which has interesting implications) space travel around
 –6400. Within 400 years they were launching sublight exploration
 missions to neighboring systems. The Zhodani were apparently
 willing to undertake very long–term operations; they created colonies
@@ -3792,7 +3792,7 @@ very important.
 
 The Zhodani Consulate expanded fairly rapidly from about –4,000
 to –1,000, at which point it halted. Unlike the Imperium, there is
-no ‘border creep’; the Consulate has been stable for two thousand
+no 'border creep'; the Consulate has been stable for two thousand
 years. According to Zhodani sources, it has reached the largest
 size that can be effectively governed and further expansion is both
 unnecessary and counterproductive in the long term.
@@ -3805,7 +3805,7 @@ The Rise and Fall of the Darrians
 Meanwhile, another transplanted group of humans was becoming
 active in the region. Like the Zhodani, the Darrians were settled on
 a habitable world by the Ancients for reasons unknown and were
-then abandoned there when the Ancients ‘departed’. Darrian was
+then abandoned there when the Ancients 'departed'. Darrian was
 a very habitable world and there was thus less impetus to develop
 technology than elsewhere. The Darrians developed slowly and
 peacefully.
@@ -3824,7 +3824,7 @@ Both groups were capable of interbreeding and within 400 years
 there was only one Darrian race and culture. Moreover, it possessed
 technology rated at TL16 on the Imperial scale – better than the
 Imperium itself has managed to create to date. However, this was
-the Darrians’ undoing. They began to experiment on Tanis, Darrian’s
+the Darrians' undoing. They began to experiment on Tanis, Darrian's
 sun, in –1000 and in –924 the star destabilized.
 
 It is thought that the event known as Mahgiz, (Chaos, in the
@@ -3879,7 +3879,7 @@ In –164 the Sword Worlders, as they were now known, encountered
 the re–emerging Darrians, much to mutual surprise. The two
 cultures were very different; the Darrians egalitarian and intellectual,
 the Sword Worlders chauvinistic, obsessed with personal honor
-and above all far too ‘manly’ for their own good. Cultural and
+and above all far too 'manly' for their own good. Cultural and
 occasionally military conflict flared up from time to time between
 the Darrians and the Sword Worlders, and has never really ceased.
 However, the Sword Worlders spent most of their time bickering
@@ -3955,7 +3955,7 @@ Imperium as an entity was no longer particularly concerned with
 expansion. It was entirely willing to accept new members and for
 corporations and other bodies to launch expeditions beyond the
 borders, but the initial deliberate expansion had been replaced by a
-gradual ‘border creep’.
+gradual 'border creep'.
 
 Expansion to Coreward was curtailed by the Vargr Extents, a large
 area filled with small states and independent worlds with mostly
@@ -3964,7 +3964,7 @@ directions, or rifts created natural barriers. However, there was a
 narrow corridor between the Coreward end of the Great Rift and the
 Vargr extents, and through this bottleneck the Imperium gradually
 expanded into the region beyond. This area is often referred to as
-lying ‘behind the claw’ as the shape of the Great Rift resembles a
+lying 'behind the claw' as the shape of the Great Rift resembles a
 lobster claw to most observers.
 
 When they began exploring behind the claw, the early Imperial
@@ -4041,14 +4041,14 @@ make.
 The Imperial commander in the Marches, Grand Admiral Olav
 hault–Plankwell, was deeply disgusted at the lack of support he had
 received during the war. Desperately needed reinforcements were
-not released from other sector fleets despite Plankwell’s entreaties.
+not released from other sector fleets despite Plankwell's entreaties.
 When they finally arrived, the reinforcements were enough to force a
 stalemate, after which Plankwell used them for another purpose.
 
 With his fleet at his back, Plankwell advanced on Capital, assassinated
 Empress Jacqueline and took the Iridium Throne for himself. This
 began the Civil War, during which a series of emperors ruled for
-brief periods. These ‘Emperors of the Flag’ or ‘Barracks Emperors’
+brief periods. These 'Emperors of the Flag' or 'Barracks Emperors'
 were almost all naval commanders who defeated the last claimant
 only to fall in battle themselves.
 While the Civil War was raging, the Outworld Coalition reformed
@@ -4060,9 +4060,9 @@ from a crash–building program intended to replace the losses
 incurred in the Frontier and Civil wars, Arbellatera was able to
 fight the Outworld Coalition to a bloody standstill. She unilaterally
 negotiated an armistice that ceded more Imperial territory to the
-Zhodani and, as Plankwell before her, advanced on Capital.
+Zhodani and, as Plankwell before her, advanced on [[Capital]].
 The Second Frontier War ended in 620, and in 622 Grand Admiral
-Arbellatera reached Capital and defeated the fleet of Emperor
+Arbellatera reached [[Capital]] and defeated the fleet of Emperor
 Gustus. Rather than simply take the crown, she appointed herself
 Regent, holding the throne in trust until the Imperial Moot could
 settle the matter of succession. Arbellatera was crowned Emperor
@@ -4083,7 +4083,7 @@ general disaffection over the way the war was prosecuted, resulted
 in the abdication of Emperor Styryx.
 The settlement did eliminate some problematical border regions
 and allowed a good defensive frontier to be set up in accordance with
-the ‘thin hard crust’ strategy then in use. This strategic model called
+the 'thin hard crust' strategy then in use. This strategic model called
 for a forward defensive zone to held as strongly as possible and was
 later replaced by a more flexible system of defence in depth.
 Peace returned to the Marches, though elsewhere the Solomani
@@ -4091,10 +4091,10 @@ Rim War distracted Imperial attention for some time. Then, in
 1082, the Fourth Frontier War erupted. This conflict was triggered
 by an unintentional incident and took the form of a series of naval
 battles along the frontier. It was over quickly; peace was made in
-1084, before the Emperor’s orders for conduct of the war, or any
+1084, before the Emperor's orders for conduct of the war, or any
 significant reinforcements, reached the Marches. Again there was
 some slight realignment of borders.
-Since the end of the ‘False War’ as it is sometimes known, the region
+Since the end of the 'False War' as it is sometimes known, the region
 has been at relative peace. There are troubles on various worlds, the
 occasional Imperial intervention or trade war between corporations
 and so forth but there are no indications that major troubles are
@@ -4128,7 +4128,7 @@ others remain aloof in their own settlements. Some are present
 legally and with the blessings of the world government; some are
 squatters who have simply grabbed some land and set up a home.
 
-This is a common practice among Aslan ihatei, or ‘second sons’.
+This is a common practice among Aslan ihatei, or 'second sons'.
 Aslan males value land ownership very highly, but only the primary
 heir inherits. Some Aslan males are happy to serve their clan in a
 subordinate role. The ihatei are the others; those who have set out
@@ -4175,7 +4175,7 @@ Sword Worlder invasions, but otherwise the Confederation is very
 stable. However, some Imperial citizens view the Darrians with a
 certain amount of suspicion.
 
-The reason for this is the Darrians’ possession of the Star Trigger, a
+The reason for this is the Darrians' possession of the Star Trigger, a
 doomsday weapon based on the probe that caused their own near–
 extinction in the Maghiz (Chaos). A version of the Star Trigger was
 reportedly deployed around 400 and is carried aboard vessels of the
@@ -4247,21 +4247,21 @@ The Federation of Arden
 The Federation of Arden does not, technically, exist. Arden is
 one of several independent worlds lying between the Imperial/
 Zhodani borders that have been influenced by both powers over
-the centuries. In recent years Arden has begun proposing a ‘local
-defence association’ among nearby worlds with a view to creating a
+the centuries. In recent years Arden has begun proposing a 'local
+defence association' among nearby worlds with a view to creating a
 formal alliance neutral to both Zhodani and Imperial interests.
 Although this idea has not met with great enthusiasm, a number
 of political pressure groups, businesses and very minor shipping
-lines have recently begun making a lot of noise about a ‘Federation
-of Arden’. Exactly what is meant by this term depends on who is
+lines have recently begun making a lot of noise about a 'Federation
+of Arden'. Exactly what is meant by this term depends on who is
 using it. It seems to commonly be used to describe a loose alliance
 of businesses and other groups attached to the political coat–tails
 of Arden.
 There are those who predict that some kind of trade or even military
 alliance may emerge in time. This would require other world
 governments to sign up, which does not seem imminently likely. It
-is probable that the whole thing is just talk, but the term ‘Federation
-of Arden’ has now passed into common use in the surrounding
+is probable that the whole thing is just talk, but the term 'Federation
+of Arden' has now passed into common use in the surrounding
 region. Time will tell what form the Federation eventually takes.
 The Sword Worlds
 One of the big questions in the Marches is: which is correct: The
@@ -4300,7 +4300,7 @@ find it hard to accept Imperial females in positions of responsibility
 or power. They tend to come over as haughty and arrogant, and look
 down on those who do not meet their standards.
 The Sword Worlds Confederation as a whole is politically unfriendly to
-the Imperium and the Darrian Confederation. Note that ‘unfriendly’
+the Imperium and the Darrian Confederation. Note that 'unfriendly'
 does not mean actively hostile nor stupid. The Sword Worlders do
 not want a war with the Imperium, in which their vessels would
 be over matched in terms of numbers and technology, and do not
@@ -4316,7 +4316,7 @@ It is not possible to describe an over–arching Sword Worlds
 Confederation plan for the future, other than to say that the Sword
 Worlds want to be left alone to captain their own fate. Exactly what
 each world is planning at any given time varies greatly.
-The Sword Worlds owns the four so–called ‘Metal Worlds’ (Iron,
+The Sword Worlds owns the four so–called 'Metal Worlds' (Iron,
 Bronze, Mithril and Steel), but has not done much with them.
 
 They are designated as reserve worlds in much the same way
@@ -4353,7 +4353,7 @@ can change on a short time frame, making cross–border politics
 somewhat more interesting.
 
 Vargr of all origins show their pack–animal roots in a tendency to
-gravitate to individuals or ideas with ‘Charisma’. Charisma is hard
+gravitate to individuals or ideas with 'Charisma'. Charisma is hard
 to define exactly; each individual Vargr has his own idea of what
 constitutes a worthy cause or leader. Status and recognition tend
 to be more important to Vargr than an equivalent human, especially
@@ -4389,7 +4389,7 @@ Zhodani military ships are unlikely to be encountered in Imperial
 territory except as escorts for consulate officials or valuable cargoes.
 They are occasionally active in neutral areas and routinely transit a
 narrow corridor through Imperial space to the Sword Worlds for
-‘diplomatic purposes’. Access is permitted by treaty for a small
+'diplomatic purposes'. Access is permitted by treaty for a small
 tonnage of vessels each year. Imperial Navy ships shadow the
 Zhodani vessels during their transit.
 
@@ -4473,7 +4473,7 @@ worlds.
 Within the Imperium, various groups have their own languages
 which include High Sylean, Vilani and the languages of various minor
 races. Worlds that were settled or came to be dominated by people
-originating among one of Earth’s many non–English–speaking
+originating among one of Earth's many non–English–speaking
 cultures may speak very unusual forms of Galanglic but more often
 have their own tongues based on the language of their forefathers.
 Of course, centuries of offworld influences and linguistic drift may
@@ -4481,7 +4481,7 @@ have changed this language beyond all recognition.
 Thus on some worlds, although Galanglic may be spoken as a
 second language, the locals may use some other tongue entirely
 for daily business. Further confusion can be created by the fact
-that what one group calls ‘German’ or ‘Chinese’ may have drifted
+that what one group calls 'German' or 'Chinese' may have drifted
 so much that another group would identify these with an entirely
 different ethnicity.
 In addition, other cultural groups will have their own, entirely
@@ -4494,23 +4494,23 @@ their original Darrian tongue and Turkish, the language of the
 first Solomani to join them. Similarly, the Sword Worlders speak
 a language that varies somewhat from system to system but is
 broadly based in the North European and Scandinavian languages
-of old Earth. It is termed ‘Sword Worlder’ by outsiders just as the
-Darrian language is referred to simply as ‘Darrian’ by outsiders.
+of old Earth. It is termed 'Sword Worlder' by outsiders just as the
+Darrian language is referred to simply as 'Darrian' by outsiders.
 The Zhodani have a single language spoken throughout the Zhodani
 Consulate with almost no variation other than a few technical terms.
 Most Zhodani who have extensive contact with Imperials speak
 Galanglic, though there is a fair amount of unintentional cultural
 exchange along the borders which means that it is not hard to
 learn to speak Zhodani. However, most Galanglic speakers sound
-‘wrong’ when speaking Zhodani even if their pronunciation is good.
-It is as if they fail to ‘get’ the ideas behind the words they are trying
+'wrong' when speaking Zhodani even if their pronunciation is good.
+It is as if they fail to 'get' the ideas behind the words they are trying
 to say. This does not affect the ability to be understood but is a
 major barrier to fluency.
 
 Most Aslan encountered in the Marches speak Galanglic. Their own
-language is Trokh, though many humans just refer to it as ‘Aslan’,
+language is Trokh, though many humans just refer to it as 'Aslan',
 which annoys native Trokh speakers in the same way that calling
-Galanglic ‘Human–speak’ might irritate an Imperial citizen.
+Galanglic 'Human–speak' might irritate an Imperial citizen.
 
 The Vargr have literally dozens of languages, possibly hundreds.
 The most common in the Marches is Gvegh, which is gradually
@@ -4554,7 +4554,7 @@ often operate across the border without much regard to whether a
 world is in the Imperium or not. Local regulations vary considerably
 and matter more than the allegiance of the world.
 
-In this respect the border is a ‘soft’ one, in that although worlds on
+In this respect the border is a 'soft' one, in that although worlds on
 the border conduct the same customs checks as any others, they
 have no obligation to treat trans–border shipping any differently to
 that coming from within the Imperium. As always, local conditions
@@ -4578,11 +4578,11 @@ subsector dukes, which grants additional powers and responsibilities
 over the entire sector, is not officially assigned in the Marches.
 
 However, the importance of Mora as a trade center and as the
-‘Gateway to the Marches’ grants that world and its associated
+'Gateway to the Marches' grants that world and its associated
 subsector a level of importance not matched elsewhere. Thus
 the role of Sector Duke is carried out semi–officially by Duchess
 Delphine of Mora. This practice has been in place for centuries by
-Delphine’s ancestors and is commonly accepted as the way things
+Delphine's ancestors and is commonly accepted as the way things
 should be. Only those politically opposed to Delphine for whatever
 reason even question her primacy. She makes a point of not using
 the title of Sector Duke herself, though many of her supporters
@@ -4603,7 +4603,7 @@ Navy and remains dedicated to protecting the frontier from whatever
 threats may emerge. Some would call him paranoid, but his personal
 forces have more than once been the first–response formations in
 a crisis and have a good record. Among them is a unit also known
-as the 4518th Lift Infantry (Duke Norris’ Own Huscarles), raised by
+as the 4518th Lift Infantry (Duke Norris' Own Huscarles), raised by
 Duke Norris as part of his personal forces but which spends most
 of the time on loan to the Imperial Army.
 Other nobles loan part of their personal forces to the Imperial army
@@ -4612,21 +4612,21 @@ governments do, though this practice is relatively rare even in the
 Marches.
 Among the other notable members of the Nobility in the Marches
 is Leonard Fratelli Bolden–Tukera, Marquis of Aramis. Although
-‘merely’ a Marquis associated with a single world, his association
+'merely' a Marquis associated with a single world, his association
 with the powerful Tukera family gives him great power. The Tukera
 family are of course the founders of Tukera Lines, one of the Imperial
 Megacorporations, and remain principal shareholders.
 Although Tukera, like most Megacorporations, has only a limited
 interest in the Marches this does translate to a large number of
 ships passing through the bigger ports and a very large amount of
-money changing hands. Thus far Tukera’s interests are to not push
+money changing hands. Thus far Tukera's interests are to not push
 far into the sector but there are rumors of investment in starports
-which surely presages an expansion of the firm’s operations.
+which surely presages an expansion of the firm's operations.
 Military
 The Spinward Marches is defended by the Spinward Marches sector
 fleet of the Imperial Navy under the command of Sector Admiral
 Santanocheev who is based at Mora. Unusually, there is no Depot
-system in the Marches. Instead the Sector Fleet’s major battle
+system in the Marches. Instead the Sector Fleet's major battle
 squadrons are mostly deployed well forward at bases in the Regina,
 Vilis, Lanth and Lunion subsectors, with a strategic reserve in the
 Trin and Mora subsectors.
@@ -4634,7 +4634,7 @@ Cruiser forces are similarly deployed for the most part, though a
 significant number are based further back to counter raids like
 those carried out in the Third Frontier War. Support vessels such as
 tankers are mainly deployed in the rearward bases along with a fair
-proportion of the sector fleet’s destroyer strength.
+proportion of the sector fleet's destroyer strength.
 Light vessels such as escorts are largely deployed with the major
 battle squadrons. The remainder are dispersed throughout the
 sector for patrol and security work. In this capacity they back up
@@ -4650,7 +4650,7 @@ Candory, and to launch the occasional sweep out to Spinward or
 Rimward of Imperial territory.
 This somewhat dispersed deployment has been criticized in some
 quarters but there are justifications. One is the maintenance of a
-‘fierce face’ to deter aggression. There is also a perceived need to
+'fierce face' to deter aggression. There is also a perceived need to
 meet any incursion well forward to prevent a repeat of the Third
 Frontier War, in which the Navy was censured for its perceived lack
 of activity. There are those who fear that these deployments are
@@ -4680,7 +4680,7 @@ governments.
 In time of war, some subsector commands could expect to receive
 cruisers or even battleships transferred from Sector command
 or brought in as reinforcements for important subsectors. The
-‘fortress’ worlds with their own powerful forces should be able to
+'fortress' worlds with their own powerful forces should be able to
 provide for their own defence, but the rest of the subsector would be
 vulnerable until the Sector Fleet could drive any invaders out.
 A significant Marine force is maintained at the naval bases of
@@ -4704,7 +4704,7 @@ a whole is on a peacetime footing.
 Shipping and Communications
 Information and goods both move in much the same manner. They
 are carried along the major trade routes between the larger ports
-then spread out to worlds along ‘feeder’ routes, usually aboard
+then spread out to worlds along 'feeder' routes, usually aboard
 smaller ships as distance from the major routes increases. This is
 fine for routine cargo, but priority items and important messages
 are often sent aboard small, fast courier ships that cannot make a
@@ -4723,7 +4723,7 @@ Non–urgent and civilian communications across the Marches are
 carried in several ways. The Express Boat (Xboat) network carries
 routine messages in electronic format between the Xboat stations,
 from where the information spreads out like ripples on a pond.
-Scout Service vessels and commercial couriers carry ‘mail dumps’,
+Scout Service vessels and commercial couriers carry 'mail dumps',
 which are duplicates of all the electronic media to arrive in the past
 few weeks, to nearby worlds on a regular basis. This means that
 any given message tends to arrive several times, ensuring that a
@@ -4737,12 +4737,12 @@ apocryphal, but it is a fact that backwater systems do not get updates
 very often.
 
 Physical mail and freight can be even less common on some worlds.
-Many small merchant vessels supplement their income as ‘mail
-ships’, which simply means having a dedicated cargo area that must
+Many small merchant vessels supplement their income as 'mail
+ships', which simply means having a dedicated cargo area that must
 be made available for small packages intended for the destination
 world if any are waiting to go there. If there are none, mail space
-can be used for any other purpose. Many worlds are part of ‘postal
-unions’ that have a dedicated mail ship (or several) plying between
+can be used for any other purpose. Many worlds are part of 'postal
+unions' that have a dedicated mail ship (or several) plying between
 them, which ensures that electronic mail arrives in a timely fashion
 and physical items reach their destination sooner or later.
 
@@ -4803,7 +4803,7 @@ Thus the big firms are mainly restricted to major worlds with good
 communications links to the rest of the Imperium. This creates a
 market niche for smaller corporations and minor firms including
 freelance outfits to make a profit in the gaps between the major
-players’ fields of interest.
+players' fields of interest.
 
 Some of the lesser firms and organizations operating in the Marches
 are listed below:
@@ -4814,25 +4814,25 @@ in that sector, based out of District 268. The Combine is little more
 than a collective–bargaining organization that obtains the use of
 bulk freighters (usually from McClellan Factors) for its members.
 AKERUT
-An anagram of ‘Tukera’, Akerut is a wholly–owned subsidiary of
+An anagram of 'Tukera', Akerut is a wholly–owned subsidiary of
 that Megacorporation. It operates a fleet of vessels based out of the
 Aramis subsector, plying routes into the Imperium and across the
 border into the Vargr Extents. Akerut, like its parent corporation,
 maintains facilities within commercial starports, allowing its ships
 preferential docking at private berths. This has led to a couple of
-‘customs irregularities’ in the past but there have been no recent
+'customs irregularities' in the past but there have been no recent
 allegations.
 AL MORAI
 One of the larger non–Megacorporations of the region, Al Morai
 is a shipping firm based out of Mora and is often referred to as a
-‘sector line’ in merchant–service parlance. This simply means that
+'sector line' in merchant–service parlance. This simply means that
 it serves an area roughly a sector in size. Al Morai vessels operate
 in Deneb sector as well as much of the Spinward Marches. The firm
 also conducts exploratory trade, which is more usually the province
 of smaller lines. It is also one of the few shipping lines to own
-specialized warships. These ‘route protectors’ are small escort–
+specialized warships. These 'route protectors' are small escort–
 sized ships that patrol the routes used by Al Morai and accompany
-some flights. Less well known is the firm’s extensive network of
+some flights. Less well known is the firm's extensive network of
 information–gathering assets which pass along what they learn
 about smuggling and piracy to the Imperial Navy.
 ARKESH SPACERS
@@ -4847,8 +4847,8 @@ members have been prosecuted.
 BARACCAI TECHNUM
 The Baraccai Technum (BT) is based out of Trin. It is primarily a
 manufacturing and transport firm with interests in freighting, cargo
-brokerage and general shipping. BT maintains a number of ‘trade
-scouts’ and merchant cruisers set up for exploratory trade cruises
+brokerage and general shipping. BT maintains a number of 'trade
+scouts' and merchant cruisers set up for exploratory trade cruises
 beyond the Imperium.
 BILSTEIN YARDS
 Bilstein Yards are based on Glisten where they manufacture one–off
@@ -4878,8 +4878,8 @@ MAGNETODYNAMICS
 A mid–sized corporation specialising in the extraction of useful
 chemicals from gas or water suspension, MagnetoDynamics
 operates a range of facilities across the Marches. These include
-Jovian Atmosphere Processing Units (JAPU), better known as ‘Sky
-Rigs’. The latter are grav–suspended platforms which filter and
+Jovian Atmosphere Processing Units (JAPU), better known as 'Sky
+Rigs'. The latter are grav–suspended platforms which filter and
 process the atmosphere of gas giant worlds for various useful
 chemicals. These range from petrochemicals and liquid hydrogen to
 exotic compounds. MagnetoDynamics also operates on a number
@@ -4905,10 +4905,10 @@ worlds. Products are mostly budget and mid–range utility vehicles
 ranging from Air/Rafts through ATVs to more humble work trucks.
 
 OBERLINDES
-A ‘fledgling’ shipping line operating a handful of vessels across
+A 'fledgling' shipping line operating a handful of vessels across
 Regina and Aramis subsectors and out into the Vargr Extents,
 Oberlindes is a family concern which has been known to take in
-free traders seeking a ‘home’. As its operations increase in size,
+free traders seeking a 'home'. As its operations increase in size,
 Oberlindes risks treading on the toes of Akerut, which operates in
 the same areas on a much larger scale.
 
@@ -4950,8 +4950,8 @@ or less came to an end.
 It is an open secret that the Imperium continues to conduct psionics
 research in order to counter the use of psionic powers by foreign
 agents (such as the Zhodani) or illegal users. It is also widely
-believed that psionic skills are still taught in underground ‘psionics
-institutes’ in the Imperium.
+believed that psionic skills are still taught in underground 'psionics
+institutes' in the Imperium.
 
 Exactly what constitutes an Institute varies from one case to the
 next. Some are academic in nature, operating quietly on the fringes
@@ -4959,7 +4959,7 @@ of society or under the guise of more legitimate activities. Some are
 secret societies and some are crazy old hermits or other oddball
 
 characters who occasionally teach their skills to an apprentice. All
-these ‘institutes’ have one thing in common – they are illegal and
+these 'institutes' have one thing in common – they are illegal and
 unregulated. There is no guarantee that what appears to be a source
 of psionic training is not a scam, con, cover for something else, or
 a genuinely crazy person. It might even be something quite sinister
@@ -4968,7 +4968,7 @@ like a cult.
 Even where psionics training is genuinely available, it may be flawed
 or incomplete. Three centuries of underground teaching might have
 resulted in some serious misconceptions creeping in. There is no–
-one to complain to if an individual’s quest for training in the psionic
+one to complain to if an individual's quest for training in the psionic
 arts ends badly.
 
 This does not stop a minority of individuals from seeking such
@@ -5002,7 +5002,7 @@ These installations are located in remote areas of inhabited planets
 or on outsystem worlds. They are designated by a Greek letter, for
 example Research Station Gamma is located on Vanejen in Rhylanor
 subsector. Access is restricted; the surrounding area is normally
-considered a ‘red zone’, anyone present without a permit is liable
+considered a 'red zone', anyone present without a permit is liable
 to be arrested and possibly punished for the violation. Lethal force
 is liable to be used against anyone declining to surrender and be
 arrested.
@@ -5027,7 +5027,7 @@ enforcement and punishment of offenders, and the Imperium
 only deals with Imperial felons. Most of the latter are guilty of
 extremely serious crimes, of which many carry the death penalty.
 These hardcore prisoners are detained in extremely high–security
-installations on asteroids, in remote areas or aboard ‘prison hulks’
+installations on asteroids, in remote areas or aboard 'prison hulks'
 created by gutting a surplus starship of its drives and weapons.
 Less dangerous perpetrators of significant crimes such as large–
 scale embezzlement are also detained in these installations.
@@ -5049,7 +5049,7 @@ are only used when necessary.
 ###### THE MARCHES
 
 Other than in the most isolated cultures, available technology is
-rarely uniform. The tech level given in a world’s UWP represents
+rarely uniform. The tech level given in a world's UWP represents
 what can be locally supported. Usually, but not always, this also
 means what can be locally made. However, some worlds have the
 technological base to maintain high–tech items but lack the industry
@@ -5131,10 +5131,10 @@ As a general rule, a mix of local and offworld technology can be
 encountered in the Startown and regions close to the Starport,
 but the further one goes from this area the less offworld tech is
 encountered. The local tech level tends to apply to most of a world
-although there may be ‘outback’ areas that are below this level.
+although there may be 'outback' areas that are below this level.
 
 Even in fairly remote areas, however, it is possible to encounter
-items of higher technological level than the world’s rating would
+items of higher technological level than the world's rating would
 suggest. A mid–tech town might have an imported fusion reactor to
 power its industry, or a military installation might possess advanced
 aerospace tracking equipment. Exactly what, if anything, is present
@@ -5147,7 +5147,7 @@ technology and industry, and industry needs people. A high–tech
 world with a low population will probably have a few items available
 for sale but not in large quantities.
 
-It is not always possible to predict from a world’s tech level what
+It is not always possible to predict from a world's tech level what
 items will be encountered in private or government hands. Some
 worlds do have a fairly uniform tech distribution. On others people
 may be talking on their imported personal comms while stepping
@@ -5164,13 +5164,13 @@ must–have imported technology.
 This chapter presents details of the individual subsectors of the
 Spinward Marches and some of the worlds therein. Subsectors
 are presented in order from left to right, top to bottom, starting
-with Cronor subsector in the ‘top left’ of the map and finishing with
-Trin’s Veil in the ‘bottom right’. The layout of these subsectors is
+with Cronor subsector in the 'top left' of the map and finishing with
+Trin's Veil in the 'bottom right'. The layout of these subsectors is
 shown on page 57.
 
 Of course, the concept of a subsector is an arbitrary one invented by
-the Imperium for administrative purposes. There are no ‘subsector
-borders’ as such and nothing to indicate the precise moment when
+the Imperium for administrative purposes. There are no 'subsector
+borders' as such and nothing to indicate the precise moment when
 a group of travellers crosses into a new subsector, other perhaps
 than emergence from Jump in a system that is part of a different
 
@@ -5191,7 +5191,7 @@ the Spinward Marches for their players.
 
 ## SUBSECTORS
 
-Spinward Marches’ Subsectors
+Spinward Marches' Subsectors
 
 ### ABCD
 
@@ -5216,7 +5216,7 @@ L Mora
 M Five Sisters
 N District 268
 O Glisten
-P Trin’s Veil
+P Trin's Veil
 
 The Spinward Marches uses Universal World Profiles (UWPs)
 as set out in the Traveller Core Rulebook on page 170 with some
@@ -5235,7 +5235,7 @@ M Independent Military Base
 The remarks section includes the trade codes for the system plus any
 unusual facilities and political affiliation. These facilities include:
 
-Cap The Capital system for that subsector
+Cap The [[Capital]] system for that subsector
 IWS Imperial Way Station
 IRS Imperial Research Station
 IP Imperial Prison
@@ -5249,7 +5249,7 @@ D Darrian
 S Sword Worlder
 
 If a system has a gas giant present this is also now included in the
-UWP as the letter ‘G’ at the end of the profile.
+UWP as the letter 'G' at the end of the profile.
 
 The system hex format has also been amended to reflect this
 additional information.
@@ -5376,7 +5376,7 @@ frontier but most are genuine scientific vessels. Although lightly
 armed and part of the navy these are not combat assets and are no
 match for a warship of comparable size.
 
-Cronor Naval Base is located on one of Cronor’s moons and is very
+Cronor Naval Base is located on one of Cronor's moons and is very
 extensive. Not only does it have formidable fortifications for its own
 defence but there are numerous long–range missile batteries on the
 surface for the defence of the planet proper. Civilian access to the
@@ -5424,14 +5424,14 @@ entirely free of crime. Law level is moderately low by Imperial
 standards and to an outsider there seems to be little in the way of
 enforcement. Consulate officials explain that this is because rather
 than policing an unruly population, the Zhodani prefer to solve the
-problems that lead to crime and unhappiness, making ‘fire brigade’
+problems that lead to crime and unhappiness, making 'fire brigade'
 style enforcement much less necessary.
 
 The people themselves seem for the most part to not merely be
 contented but often enthusiastic about what they do for a living
 or for recreation. Rampant materialism is uncommon; there is
-an underlying philosophy of ‘Don’t show me what you have, tell
-me what you’ve done’ among the Proles and Intendants of the
+an underlying philosophy of 'Don't show me what you have, tell
+me what you've done' among the Proles and Intendants of the
 Consulate. Personal achievements count for more than things
 bought with money.
 
@@ -5444,7 +5444,7 @@ nobles. This is not really a democratic setup as the franchised class
 is so small, but nor is it quite the same thing as direct oligarchical
 rule.
 
-Outside the cities much of Cronor’s surface is uninhabited. The
+Outside the cities much of Cronor's surface is uninhabited. The
 population is more concentrated than on many Imperial worlds
 and this leaves considerable amounts of wilderness between
 settlements. There is a fair amount of plant life in the wilderness
@@ -5475,9 +5475,9 @@ else joined up with other bands and shared their fortunes. The
 various tiny colonies never reached the critical mass necessary to
 become stable and to grow, nor to pull in offworld trade.
 
-As a result Plaven’s small population struggled on at the subsistence
+As a result Plaven's small population struggled on at the subsistence
 level. High–tech gear wore out and though the colonists adapted to
-the world’s tainted atmosphere, their numbers dwindled steadily.
+the world's tainted atmosphere, their numbers dwindled steadily.
 Plaven was passed over by the four Frontier Wars, its nominal
 allegiance changing hands in treaty negotiations without any
 effect on the population. Plaven is officially independent and part
@@ -5485,7 +5485,7 @@ of the demilitarised zone between the Imperium and the Zhodani
 Consulate. If the locals even know about this, chances are they do
 not care.
 
-Today, Plaven’s population is officially listed by the IISS as several
+Today, Plaven's population is officially listed by the IISS as several
 hundred people subsisting without formal government, in a number
 of tiny hamlets and homesteads capable of supporting a steam–
 powered economy of sorts. There is no law as such, though the
@@ -5498,7 +5498,7 @@ place for the occasional starship. Water from a nearby stream can be
 cracked for hydrogen to make fuel. However, there are few reasons
 for anyone to visit Plaven – it is not even on the way to anywhere
 
-- so what might be termed a ‘Starport’ receives very few ships.
+- so what might be termed a 'Starport' receives very few ships.
 
 (^60) CCCRRONORROONNOORR
 The official IISS figures for the population of Plaven may not be
@@ -5535,8 +5535,8 @@ Plaven briefly came to the attention of the Imperial authorities in
 in starship–borne raids on isolated communities along the frontier
 were using the world as a base. Although the sort of loot that can be
 obtained by raiding such minor targets is fairly minimal, the risks are
-also very small, so what are sometimes referred to as ‘spacegoing
-poultry thieves’ sometimes engage in such activity between more
+also very small, so what are sometimes referred to as 'spacegoing
+poultry thieves' sometimes engage in such activity between more
 lucrative operations. Be that as it may, the band using a valley high
 in the Varnis Mountains as a base evaded capture for a long time
 before finally being eliminated in an action by Naval and Marine
@@ -5546,7 +5546,7 @@ Imperial patrols from Quar and vessels from the Zhodani Consular
 Navy occasionally sweep the system. This is infrequent enough
 that patrols rarely encounter one another. When they do, polite but
 guarded comms exchanges are normally made before the vessels go
-about their own business. Harassment and similar ‘cold war’ tactics
+about their own business. Harassment and similar 'cold war' tactics
 are avoided to reduce the chance of another accidental war.
 Cronor Subsector
 Name Statistics Remarks
@@ -5700,13 +5700,13 @@ Consulate. This group of six worlds form a thin strip of Zhodani
 territory projecting into the subsector. Farreach, Clan and
 Chwistyoch are heavily fortified as naval bases and, along with
 Cipango in Cronor subsector, form what many Imperial observers
-call the ‘Riverland Wall’.
+call the 'Riverland Wall'.
 
 Imperial holdings in the subsector are limited to eight worlds in
 the middle of the subsector (in Rimward–Coreward terms). Like the
 Zhodani equivalents, these are heavily protected for the most part,
 with forward naval bases at Jewell and Mongo and Scout Service
-bases (known as ‘way stations’) at Ruby, Emerald, Jewell, Mongo
+bases (known as 'way stations') at Ruby, Emerald, Jewell, Mongo
 and Lysen.
 
 The scout bases include maintenance facilities for the Xboat service
@@ -5725,13 +5725,13 @@ intended for raiding operations into Consulate space if war breaks
 out again.
 
 The exposed nature of the deployment has earned the 212th the
-nickname of ‘Santanocheev’s Tripwire’ and the suggestion that
+nickname of 'Santanocheev's Tripwire' and the suggestion that
 its role is simply to find out if the Zhodani are serious this time.
 The latter is a reference to the last two Frontier Wars, in which the
 Zhodani battle fleets were generally held at the frontier.
 
 The remainder of the subsector is ostensibly neutral, though Imperial
-access to worlds ‘behind the Riverland Wall’ is very limited, allowing
+access to worlds 'behind the Riverland Wall' is very limited, allowing
 the Zhodani Consulate much greater influence over Condyole and
 Puparkin as well as non–aligned worlds in Cronor subsector.
 
@@ -5777,8 +5777,8 @@ A larger scout base was set up a few years later, and the original naval
 facility was abandoned for a long time. Scout vessels from this base
 worked the communications route back into the Regina subsector
 via Efate and conducted both exploration and intelligence–gathering
-operations along the frontier. The Navy meanwhile engaged in ‘Cold
-War’ operations along the border, shadowing Zhodani ships and
+operations along the frontier. The Navy meanwhile engaged in 'Cold
+War' operations along the border, shadowing Zhodani ships and
 trying to intimidate the Consulate.
 
 When the inevitable conflict finally happened, Jewell was on the
@@ -5796,21 +5796,21 @@ so ever since. During the Second Frontier War the world came
 JJEEWELLWELL^63
 
 under siege for several months (in 617) but held out successfully.
-Afterward the scale of the world’s defences was increased yet again,
+Afterward the scale of the world's defences was increased yet again,
 with the original naval base re–opened and several other facilities
 constructed throughout the system. Although attacked in the Third
 and Fourth Frontier Wars, Jewell was able to not only repel the
 assault fleets but to act as a base for operations into the Zhodani
 rear, gaining the world the somewhat fanciful media nickname
-of ‘Jewell: Shining Bastion of the Marches’ or the rather more
-mundane ‘Imperial Breakwater’. The latter refers to the role of Jewell
+of 'Jewell: Shining Bastion of the Marches' or the rather more
+mundane 'Imperial Breakwater'. The latter refers to the role of Jewell
 in blunting Zhodani advances into the Marches.
 
 Today, Jewell is something of an armed camp. Small naval bases
 throughout the system support squadrons of monitors and system
-defence boats to deny an intruder access to the system’s gas giants
+defence boats to deny an intruder access to the system's gas giants
 for refuelling, while the immediate defence of Jewell itself is entrusted
-to one of the largest non–Jump capable fleets outside Core sector.
+to one of the largest non–Jump capable fleets outside [[Core sector]] .
 In addition, the naval base is home to the heavier elements of the
 212 th Fleet as well as battle and cruiser squadrons from the Sector
 Fleet.
@@ -5821,7 +5821,7 @@ on–planet. Pollution from the latter is now much worse than
 the original atmospheric taint. Breathing without a filter mask is
 possible, if unpleasant, and short–term exposure is not a serious
 problem. However, respiratory diseases and a range of cancers can
-result from even a few hours’ exposure.
+result from even a few hours' exposure.
 
 Clouds of brown smog are a common sight, and a layer of grime
 quickly develops on all external surfaces. For this reason the exterior
@@ -5835,7 +5835,7 @@ The towns and cities of Jewell are like the people to some extent
 When they are able to shed their masks and coveralls the people
 of Jewell are friendly and hospitable, though not to Zhodani. Vargr
 are also viewed with suspicion in some quarters. That aside, the
-typical Jewellite (the term ‘Jeweller’ is both incorrect and liable to
+typical Jewellite (the term 'Jeweller' is both incorrect and liable to
 provoke a series of centuries–old puns that nobody finds funny but
 have become something of a social ritual) is demonstrative, loud
 and fond of strong drink, especially if there are others to share it
@@ -5845,12 +5845,12 @@ once, accompanied by a barrage of booze.
 
 The six billion or so inhabitants are ruled by a bureaucratic
 government based on the highly structured system implemented
-during the rapid–colonization phase of Jewell’s history. Laws are
+during the rapid–colonization phase of Jewell's history. Laws are
 strict and quite robustly enforced, but this causes little resentment.
 Jewell has been on the front lines in several major wars and its
 population has a rather unique outlook as a result.
 
-The majority of citizens are members of one or another of the world’s
+The majority of citizens are members of one or another of the world's
 reserve military, medical or civil defence organizations. These vary
 from highly efficient organizations to social clubs, but all share the
 same general outlook, the feeling that with their traditional enemies
@@ -5864,7 +5864,7 @@ Plaven and Emerald. As a result the worlds around Jewell have their
 own microculture to some extent, which also has local variations. It
 is coloured by Zhodani influences on some worlds, whereas others
 are vigorously opposed to anything even remotely associated with
-the ‘Joes’ as the Zhodani are sometimes known.
+the 'Joes' as the Zhodani are sometimes known.
 
 ###### LOUZY D322A88 8
 
@@ -5875,7 +5875,7 @@ for colonization.
 
 Nevertheless, Louzy was indeed colonized, and the colonies grew
 rapidly. The world proved to be rich in mineral resources, and
-enjoyed something of a ‘gold rush’ in the mid 600s as the sector’s
+enjoyed something of a 'gold rush' in the mid 600s as the sector's
 industrial base was hugely expanded to meet the needs of the Fleet
 Asset Replacement Program. FARP was implemented in several
 sectors which had lost a large proportion of their naval assets in
@@ -5902,7 +5902,7 @@ The expansion was extremely rapid; Louzy was a metaphorical
 goldmine of minerals and the industry of the Marches could not get
 enough of its riches. Wages were high and living conditions in the
 mining towns were as good as the corporations could make them.
-The best ‘Corp Towns’ were operated by Sternmetal Horizons but
+The best 'Corp Towns' were operated by Sternmetal Horizons but
 other firms followed a similar practice, in order to attract people to
 the jobs on offer.
 
@@ -5914,7 +5914,7 @@ Seemingly every week there was a new mine or processing plant
 opening up, with new arrivals coming to operate it and seasoned
 hands taking promotions to head up work gangs in the new facility.
 It had to end sooner or later, and by the early 700s the voracious
-demand for minerals had tailed off somewhat. So had Louzy’s
+demand for minerals had tailed off somewhat. So had Louzy's
 massive productivity; the easy–to–access deposits were mined out
 and some installations had to close. Plus many industrial centres
 were getting their raw materials elsewhere, at a better price.
@@ -5926,7 +5926,7 @@ sustaining. These former corp–towns ended up in better shape than
 most settlements as their former corporate owners helped set up a
 modest industrial base. Most other settlements had little industry
 outside of the repair workshops for their mining equipment.
-The Louzy Slump followed inevitably. The world’s riches had come
+The Louzy Slump followed inevitably. The world's riches had come
 from exporting processed ore and not only was that more difficult to
 get at, there was little in the way of local manufacturing capacity to
 make use of the raw materials now that the interstellar market was
@@ -5950,13 +5950,13 @@ rather than a drain on it.
 Today, Louzy is strictly–regulated but stable, with a modest mid–
 tech industrial base exporting some raw materials and an increasing
 amount of finished goods through the remains of what was once a
-very extensive starport. The latter is currently rated as a ‘D’ class port
+very extensive starport. The latter is currently rated as a 'D' class port
 could be refurbished to C or even B class with suitable investment.
-The world’s main problem is overpopulation in its sprawling cities,
+The world's main problem is overpopulation in its sprawling cities,
 which are constructed largely underground to maintain atmospheric
 integrity. Money is tight and there is little available for investment,
 but investment is desperately needed in order to get more from the
-world’s huge population base. Needing money to be able to generate
+world's huge population base. Needing money to be able to generate
 wealth and not being able to get it, Louzy is facing a downward
 spiral. Crime is on the increase and most citizens feel they have few
 prospects. It may be that the valiant effort made to halt the great
@@ -6142,7 +6142,7 @@ Regina subsector is the responsibility of the 213th Fleet, which has
 its headquarters at Efate Naval Base. Elements of the Sector Fleet are
 also deployed at Efate, Regina and Pixie, making Regina subsector
 one of the best places to spot Imperial capital ships. Indeed, there
-is a deliberate policy of ‘flag–showing’ in place, using cruisers and
+is a deliberate policy of 'flag–showing' in place, using cruisers and
 even capital ships rather than the usual smaller vessels.
 
 Almost the entire subsector is Imperial territory; only Ruie is not.
@@ -6161,7 +6161,7 @@ subsector, and restrictions are in place regarding access to these. It
 is possible to find out why a world is Red Zoned – in many cases it is
 an open secret – and even to obtain a permit to go there. However,
 this can be quite hazardous. For example Shionthy is generally
-‘known’ (common knowledge may not actually be true) to have
+'known' (common knowledge may not actually be true) to have
 particles of antimatter floating free about the system. Contact with
 one could cause massive damage to a starship, making a Red Zone
 a sensible precaution.
@@ -6191,7 +6191,7 @@ star orbited by a dwarf companion named Speck. The third star is
 Darida, an M6 Red Dwarf star in a very distant orbit.
 
 Darida has its own planetary system including a gas giant and several
-‘rockball’ worlds of varying sizes. There are no habitable planets in
+'rockball' worlds of varying sizes. There are no habitable planets in
 the Darida system though there are a few scientific outposts and a
 small Navy base located on various bodies. The latter is home to
 a squadron of the Sector Fleet and supporting assets, as well as a
@@ -6210,19 +6210,19 @@ Vargr borders and with a background in the Navy, Duke Norris is
 more vocal than most in his calls for greater military strength to be
 deployed to the Marches.
 
-He is also very critical of what he calls ‘over–politicization’ of the
+He is also very critical of what he calls 'over–politicization' of the
 Sector Fleet and has repeatedly asked for forward–deployed battle
 squadrons to be pulled back into Lunion or Mora subsectors to
-create a more elastic defence. This would leave the ‘forward’ worlds,
+create a more elastic defence. This would leave the 'forward' worlds,
 including Regina, vulnerable but Duke Norris maintains that strong
 system defence fleets at major worlds should be enough to hold out
-until a relief force arrives. Thus far Norris’ entreaties have fallen on
+until a relief force arrives. Thus far Norris' entreaties have fallen on
 deaf ears, and he is thought to be considering a direct appeal to the
 Emperor himself.
 
 Regina itself is an earth–sized body with a dense atmosphere
 and a high surface coverage of water. This made it easy to settle,
-and within a few years of the first colonists arriving in 75 Regina’s
+and within a few years of the first colonists arriving in 75 Regina's
 
 RREEGINAGINA^67
 
@@ -6232,7 +6232,7 @@ choice as subsector capital.
 
 Since that time Regina has developed steadily, though more as a
 center for trade and diplomacy than as an industrial complex. Lying
-as it does on the Spinward Main, Regina’s excellent starport is an
+as it does on the Spinward Main, Regina's excellent starport is an
 important interface between regional trade and that bound for more
 distant regions. Most ships coming up the Main from Rimward turn
 around at Regina. A few push on to Extolay or Efate, but for the most
@@ -6291,7 +6291,7 @@ Keng is one of the outer worlds of the Imperium. With the Vargr
 Extents only a few parsecs away and no really viable destinations to
 travel onward to, Keng is a dead end as far as travel goes.
 
-For this reason, among others, Keng’s colonists never emerged
+For this reason, among others, Keng's colonists never emerged
 onto the interstellar stage. Although the world was settled by several
 colony missions, none of the groups that came to Keng really
 made a go of it. The population increased and spread out, but the
@@ -6334,8 +6334,8 @@ agricultural produce for industrial items.
 Most of the cities are linked by a vast rail network. Steam trains labour
 across huge areas of wilderness to maintain contact between the
 towns and cities. This enables what passes for a world government
-to maintain control despite the world’s low tech level. The ruling
-elite are sometimes referred to as ‘rail barons’ by offworlders.
+to maintain control despite the world's low tech level. The ruling
+elite are sometimes referred to as 'rail barons' by offworlders.
 Only a few cities have the industrial and technical ability to build
 and maintain the locomotives, rail manufacturing factories and
 telegraph stations needed to participate in the work of governance.
@@ -6381,7 +6381,7 @@ Pscias 0506 X355423–1 I NI Lt R G
 Yori 0510 C360757–A I De IRS G
 Dentus 0601 C979500–A S I NI
 Kinorb 0602 A663659–8 I Ri NI G
-Beck’s World 0604 D88349D–4 I NI Lt G
+Beck's World 0604 D88349D–4 I NI Lt G
 Enope 0605 C411988–6 I Hi NI In
 Wochiers 0607 EAC28CC–9 I Fl G
 Yorbund 0703 C7C6503–7 I Fl NI
@@ -6530,7 +6530,7 @@ KKinorbinorb
 
 A
 
-BBeck’s Worldeck’s World
+BBeck's Worldeck's World
 
 D
 
@@ -6584,8 +6584,8 @@ tasked with the protection of the subsector, attempts to control
 access through to the rest of the sector.
 
 This activity is mainly concentrated on the Rimward end of the
-subsector. The fleet is based out of Paya, Natoko and L’Oeul d’Dieu,
-clearly demonstrating the Navy’s lack of interest in the relatively
+subsector. The fleet is based out of Paya, Natoko and L'Oeul d'Dieu,
+clearly demonstrating the Navy's lack of interest in the relatively
 unimportant worlds further Coreward. Navy ships do sweep the
 more Coreward systems, but not anything like as frequently as the
 Rimward ones.
@@ -6599,7 +6599,7 @@ Marquis of Aramis) dismiss this as a typical example of paranoid
 anti–Establishment ranting.
 
 Junidy is the homeworld of a minor race called the Llellewyoly, but
-colloquially known as ‘Dandelions’ as a result of their appearance.
+colloquially known as 'Dandelions' as a result of their appearance.
 They are an oddball species falling somewhere between plants and
 animals, with a highly complex social order that routinely baffles
 outsiders.
@@ -6630,7 +6630,7 @@ been cracking down recently on Illegal winemaking operations in
 remote areas and while this is strictly an internal matter, the lure of
 big money for Pysadian Atrake wine (made on–planet from Trake
 fruits) has brought many offworld entrepreneurs to Pysadi in search
-of their fortune. Recent newscasts about the ‘Pysadian Booze Wars’
+of their fortune. Recent newscasts about the 'Pysadian Booze Wars'
 are massively exaggerated but nonetheless offworlders must be
 careful not to accidentally become involved.
 
@@ -6705,7 +6705,7 @@ important to the Imperium, so what is so special about Aramis?
 
 The answer, at least as far as most cynics are concerned, is that
 Aramis is the fief of a senior member of a Megacorporate family and
-is given naval protection as a result of his firm’s importance to the
+is given naval protection as a result of his firm's importance to the
 economy of the Imperium.
 
 Whether or not this is true, the location of Aramis at the Coreward
@@ -6773,8 +6773,8 @@ proceeds homeward after hiding their ship again.
 Junidy and similar worlds are on the front line of this sort of activity,
 and their system defence commanders routinely complain that they
 receive very little help from the Imperial Navy and yet come in for
-criticism every time a Vargr corsair vessel that they ‘allowed to get
-through’ makes a successful attack. Patrols from the Imperial Navy
+criticism every time a Vargr corsair vessel that they 'allowed to get
+through' makes a successful attack. Patrols from the Imperial Navy
 base at Riacon in Pretoria subsector occasionally cross into the
 Marches to help out, though this creates a command–jurisdiction
 issue which is routinely ignored in the name of getting the job
@@ -6796,12 +6796,12 @@ The base is often used as a jumping–off point for long–range Scout
 missions into the Vargr Extents or even through them and into the
 relatively unexplored space beyond. A range of support vessels and
 scout cruisers are based there, though some have been known to
-depart on missions of several years’ duration and are rarely seen
+depart on missions of several years' duration and are rarely seen
 in port.
 Junidy itself is a small world with a very thin atmosphere, home
 to a population numbering around thirty billion of whom about
-half belong to the minor race normally nicknamed ‘Dandelions’
-or ‘Dandies’. Their correct name is Llellewyoly, as near as humans
+half belong to the minor race normally nicknamed 'Dandelions'
+or 'Dandies'. Their correct name is Llellewyoly, as near as humans
 can pronounce it. The Dandies are adapted to the extremes of
 temperature experienced by Junidy in the course of its day and
 display traits of both plant and animal.
@@ -6811,7 +6811,7 @@ central, spherical, body is covered with long, coarse hair. These
 rather odd beings have a tech level 3 culture which is extremely
 complex. Individuals hold a number of different social ranks each
 with its own forms of address, depending on the current situation.
-Using the wrong form of address for an individual’s current social
+Using the wrong form of address for an individual's current social
 status (which can literally change from one minute to the next) is a
 major social gaffe and can result in ostracism.
 The human population has a tech level nine civilization which is,
@@ -6837,7 +6837,7 @@ Nasemin 0603 B98A422–B S I Wa G
 Zykoca 0604 X994542–6 I Ag Ga NI R
 Aramanx 0605 B657974–6 I Hi
 Pysadi 0608 C4766D7–4 I Ag NI Lt G
-L’oeul d’Dieu 0610 B98A510–B N I NI Wa G
+L'oeul d'Dieu 0610 B98A510–B N I NI Wa G
 Rugbird 0702 BAC5634–A I Fl NI A G
 Towers 0703 B444448–A S I NI A G
 Feneteman 0704 C222200–C I Ht Lo Po NI
@@ -6960,7 +6960,7 @@ PPysadiysadi
 
 C
 
-LL’oeul d’Dieu’oeul d’Dieu RReachereacher
+LL'oeul d'Dieu'oeul d'Dieu RReachereacher
 
  B AAramisramis
 
@@ -6978,8 +6978,8 @@ A
 ## QQUUERIONERION SSUUBSECTORBSECTOR
 
 Querion subsector lies entirely outside the Imperium. Most of
-the subsector is claimed by the Zhodani Consulate as an ‘area of
-interest’ though if expansion into the area was desired it would have
+the subsector is claimed by the Zhodani Consulate as an 'area of
+interest' though if expansion into the area was desired it would have
 been carried out long ago. Much of this territory was gained at the
 end of the Third Frontier War. More accurately perhaps, it was given
 up by the Imperium as the Zhodani Consulate has little interest in
@@ -6987,7 +6987,7 @@ acquiring more worlds.
 
 Six worlds in the subsector are formally part of the Consulate and are
 linked to it by a narrow strip of territory running Coreward through
-Cronor subsector. The Zhodani naval bases at Rapp’s World and
+Cronor subsector. The Zhodani naval bases at Rapp's World and
 Querion represent the most Rimward Zhodani possessions in the
 Marches.
 
@@ -7012,7 +7012,7 @@ One exception is Bael, which is rumored to be the site of large
 deposits of Lanthanum, which is vital to the manufacture of Jump
 drives. This has attracted commercial interest from various quarters
 and a certain amount of competition among freelance prospectors.
-The world’s remote location, requiring a Jump–3 vessel for access,
+The world's remote location, requiring a Jump–3 vessel for access,
 is a barrier to exploitation.
 
 Critics of the Zhodani Consulate and its political system point to the
@@ -7025,8 +7025,8 @@ anything left to fight over than anything else. The Consulate finally
 beginning a reconstruction effort as the radioactive dust settles, but
 as the conflict ended a century ago there is little left to rebuild.
 
-The Imperial authorities and the Travellers’ Aid Society routinely
-assign an ‘Amber’ classification to all star systems outside the
+The Imperial authorities and the Travellers' Aid Society routinely
+assign an 'Amber' classification to all star systems outside the
 Imperial borders, as Imperial citizens do not enjoy the full protection
 of Imperial High Law on such worlds. Querion subsector can thus
 be considered an Amber Zone to all Imperials desiring to travel
@@ -7061,10 +7061,10 @@ extensively used.
 
 The cities are heavily and harshly policed both to deal with the
 inevitable pressures caused by having so many people in close
-proximity and to try to keep a lid on the world’s internal troubles.
+proximity and to try to keep a lid on the world's internal troubles.
 Society is heavily factionalised, with alliances between power groups
 forever changing and violence more or less the norm. Usually this
-is ‘kept in the family’, in that real efforts are made not to cause
+is 'kept in the family', in that real efforts are made not to cause
 collateral damage when attacking members or facilities of a rival
 faction. This is a pragmatic measure as much as anything else –
 collateral casualties result in resentment and no faction needs any
@@ -7089,7 +7089,7 @@ Darrian, some pro–Sword Worlds and some are sufficiently anti–
 the others that they would rather side with offworlders than see their
 rivals in power.
 
-The present dictator’s faction have held power more or less
+The present dictator's faction have held power more or less
 constantly since 1084, though there have been several leaders in
 that time. Revolutions and counter–coups have been put down with
 assistance from Sword Worlder troops, though not always quickly or
@@ -7110,7 +7110,7 @@ city segments during political infighting.
 The Starport was a casualty of the 1084 Sword Worlder takeover. A
 short bombardment wrecked the facility. Although it could be rebuilt
 using salvaged materials, the occupation forces and the current
-‘popular dictator’ have not made this a priority. The Sword Worlders
+'popular dictator' have not made this a priority. The Sword Worlders
 have annexed a former industrial spaceport for their military use
 and do not permit access to any other vessels. Non Sword–Worlder
 ships must land among the rubble of the former port and make do
@@ -7133,7 +7133,7 @@ One problem with deep–space salvage in the Entrope system is
 that the system has no gas giants. Obtaining fuel without visiting
 the starport can be a problem. A Jump–2 ship can carry enough to
 make two Jump–1s, but the more usual solution is to melt ice from a
-suitable asteroid in the system’s belt, than go looking for a suitable
+suitable asteroid in the system's belt, than go looking for a suitable
 wreck with full tanks. This allows a fast escape in the event of a
 patrol passing by and noticing the salvage ship.
 
@@ -7163,7 +7163,7 @@ flying creatures; the air is too thin to support them. Most larger
 animals are water–breathers, with few species on land. These are
 mostly fairly primitive crawling creatures, with few species larger
 than a cat or small dog.
-Much of Prinx’ surface is entirely uninhabitable. With such a thin
+Much of Prinx' surface is entirely uninhabitable. With such a thin
 atmosphere, mountains tend not to be eroded and remain sharp–
 toothed barriers to exploration. There is less soil than on worlds
 with thicker atmospheres, and while this does not greatly affect life
@@ -7187,7 +7187,7 @@ inhabitants was reached. Equilibrium was reached some time ago
 and, with no population pressure to force expansion, movement
 outward came to a more or less complete halt.
 The subcontinent today know as Lesser Dantterland is thus fairly
-well settled and ‘tamed’ for agriculture, and there are scattered
+well settled and 'tamed' for agriculture, and there are scattered
 settlements out across Greater Dantterland. The rest of the planet
 is uninhabited and more or less virgin territory.
 Within Lesser Dantterland government is by a semi–hereditary
@@ -7224,7 +7224,7 @@ Lebeau 0603 B869554–C Z Ht NI G
 Querion 0604 B254788–9 Z Z Ag G
 Dekalb 0608 EA8A799–6 Ri Wa
 Winston 0610 E887573–6 S Ag Ga NI G
-Rapp’s World 0702 C592320–8 Z Z Lo NI G
+Rapp's World 0702 C592320–8 Z Z Lo NI G
 Thanber 0707 B243653–C Ht Po NI
 Entrope 0710 E336AAA–C S Hi Ht
 Anselhome 0810 C110588–8 S NI G
@@ -7243,8 +7243,8 @@ presumably headed for the Coreward end of the sector. The third
 group appear to be exploration vessels. They stop over at Prinxport
 then conduct some kind of surveying operations over the uninhabited
 continents of the planet. Queries about what these vessels are
-looking for are met with politely vague answers about ‘ongoing
-survey projects’ and ‘researching planetary crust behaviour’ that do
+looking for are met with politely vague answers about 'ongoing
+survey projects' and 'researching planetary crust behaviour' that do
 not serve to enlighten and are obviously not meant to.
 Whatever the Darrians may be up to on Prinx, the locals are not
 greatly bothered by it. The Darrian crews that come through
@@ -7252,7 +7252,7 @@ Prinxport are friendly and courteous, bring in a little offworld cash,
 and do no harm while they are there. If they want to go surveying ice
 sheets or mountain ranges that is their business. The locals have
 all the land they need and a fair bit more; the rest of the planet is
-somebody else’s problem.
+somebody else's problem.
 
 
 
@@ -7308,7 +7308,7 @@ E
 
 PPrinxrinx SSansibaransibar
 
-RRapp’s Worldapp’s World
+RRapp's Worldapp's World
 
 C
 
@@ -7365,7 +7365,7 @@ However, there is a threat from Rimward in the form of the Sword
 Worlders, who have aligned with the Zhodani on several occasions
 in the past. This guides strategic thinking to some extent. However
 the distribution of stars systems in Vilis subsector provides a
-‘firebreak’ to Trailing, ensuring that any defeat in Vilis is likely to be
+'firebreak' to Trailing, ensuring that any defeat in Vilis is likely to be
 a local one.
 
 Preventing such a defeat is the responsibility of the 193rd Fleet
@@ -7401,7 +7401,7 @@ and would normally be considered Amber Zones anyway. Travellers
 should therefore use extra caution as conditions must be unusually
 hazardous to require a specific advisory to be issued. The third
 Amber Zone, Margesi, lies on the border with the Sword Worlds and
-is often troubled by incidents spilling out from the Confederation’s
+is often troubled by incidents spilling out from the Confederation's
 rather vigorous internal politics.
 
 Asgard is Red Zoned, and has been for many years. As usual the
@@ -7424,8 +7424,8 @@ Garda–Vilis was originally named Tanoose when it was settled in
 worse until the situation could at best be described as disastrous.
 At this point the government of the nearby world of Vilis came to the
 rescue and bailed out the failing colony, at the price of becoming a
-possession of Vilis. The world’s name was changed to Garda–Vilis,
-which means ‘New Vilis’ in one of the local dialects.
+possession of Vilis. The world's name was changed to Garda–Vilis,
+which means 'New Vilis' in one of the local dialects.
 
 Ever since, Garda–Vilis has been exploited to the benefit of nearby
 Vilis. Agriculture was encouraged but heavy industry was kept under
@@ -7435,11 +7435,11 @@ Vilis, keeping the colony economically dependent.
 The world itself is fairly large, with a standard, tainted atmosphere
 and extensive ocean coverage. This still leaves plenty of room for
 the populace, numbering somewhat more than 470 million. The
-majority of the population dwell on the world’s largest continent,
+majority of the population dwell on the world's largest continent,
 mostly around the coasts.
 
 The major population center and capital has grown up around the
-world’s large Downport, which also serves a small Imperial scout
+world's large Downport, which also serves a small Imperial scout
 base. The latter is important as a communications link back into the
 Imperium via Frenzie, Denotam and thereby into Lanth subsector
 and as a base of operations for Scout Service vessels in the region.
@@ -7467,7 +7467,7 @@ bring a free Garda–Vilis (or more accurately, a world named
 Tanoose) into the Imperium. In 1083 the anti–Imperial terrorist Ine
 Givar organization approached the TFL with offers of an alliance.
 The bodies of the Ine Givar agents were found outside the scout
-base. This was taken as a reminder of both the TFL’s pro–Imperial
+base. This was taken as a reminder of both the TFL's pro–Imperial
 stance and its rejection of the Ine Givar proposal.
 
 However the region around Garda–Vilis is of interest not only to
@@ -7518,7 +7518,7 @@ world never quite became an economic or industrial powerhouse.
 Nevertheless a solid TL8 economy emerged, finding markets for its
 goods among lower–tech worlds nearby.
 
-Along the way Arden’s governmental structure ossified. Although
+Along the way Arden's governmental structure ossified. Although
 officially government personnel are elected in practice they can only
 be elected from among the ranks of the Arden Society, a select group
 whose members earn their place through financial contributions or
@@ -7532,7 +7532,7 @@ beyond Arden itself.
 
 (^80) VVVIILISILLIISS
 The Society has openly imperialist aspirations, and is currently
-working to create a ‘Federation of Arden’ from businesses and
+working to create a 'Federation of Arden' from businesses and
 shipping lines. In time this federation will, its members hope,
 include the governments of nearby worlds. Although the project is
 in its infancy already the Federation has major business assets on
@@ -7548,7 +7548,7 @@ by bringing in machinery and techniques from Arden itself. The
 farmers can continue to raise their crops as before but what passes
 through the port for export is increasingly under the control of the
 Federation.
-Both Zircon and Utoland are rated as ‘non–industrial’ by the
+Both Zircon and Utoland are rated as 'non–industrial' by the
 Imperial Interstellar Scout Service. Arden–backed industrial
 concerns, operated by personnel brought in for the purpose,
 are currently operating on both worlds. The aim is to corner the
@@ -7561,7 +7561,7 @@ converted into political influence. In short, Arden is building a
 political alliance by creating economic dependency.
 On Arden itself extremely strict laws and bureaucratic procedures
 are in place. Enforcement is efficient and vigorous, not least because
-the Arden Society uses the laws its ‘elected’ officials pass to keep
+the Arden Society uses the laws its 'elected' officials pass to keep
 any prospective rivals from making any sort of credible challenge.
 Meanwhile the world is undergoing a steady industrial growth,
 accompanied by investment in an expanded technological base.
@@ -7759,15 +7759,15 @@ dramatic name.
 Curious Jump–related phenomena have been reported in this region
 for centuries, often by reliable witnesses. Scout Service Xboat pilots
 plying the Trans–Abyss Rift route have filed reports ranging from
-radio signals received (impossible) to ‘something on the hull, trying
-to get in’ (positively crazed) while in Jumpspace. This does beg
+radio signals received (impossible) to 'something on the hull, trying
+to get in' (positively crazed) while in Jumpspace. This does beg
 the question of whether someone who has spent a week alone in
 Jumpspace is a reliable witness or not.
 
 Despite the bad reputation of the region, the main naval bases for
 the subsector fleet (the 18th) and those elements of the Sector Fleet
 that are deployed to Lanth subsector are located in the Rift or along
-its edge at Ivendo, D’Ganzio, Lanth and Ghandi.
+its edge at Ivendo, D'Ganzio, Lanth and Ghandi.
 
 All the worlds in Lanth subsector are Imperial members. Three
 (Wypoc, Quopist and Rhise) are Amber Zoned at present for various
@@ -7781,7 +7781,7 @@ habitable world on the Spinward Main. The Red Zone makes access
 to Yori in the Regina subsector problematical for Jump–1 ships.
 
 Vessels approaching the world are warned off and directed to the
-system’s gas giants to skim fuel. Those which cannot do this are
+system's gas giants to skim fuel. Those which cannot do this are
 permitted to refuel from a small tanker kept on standby for the
 purpose, though they are charged over the odds for the privilege. As
 usual the Imperial authorities are not forthcoming about why they
@@ -7789,7 +7789,7 @@ go to such trouble to keep visitors away from Djinni.
 
 ###### DINOM D100535 A
 
-Dinom is a typical ‘rockball’ world. It is a member of the Imperium
+Dinom is a typical 'rockball' world. It is a member of the Imperium
 under the governance of the Dinom Corporation. Settled for
 economic reasons it is officially listed as an oligarchy in the IISS
 database but could be considered a corporate state in which the
@@ -7808,23 +7808,23 @@ in the Dinom Corporation.
 Orbiting at a considerable distance from a very bright star, Dinom
 is far too small to retain an atmosphere of any kind, and therefore
 lacking in liquid water. It is a rogue planet, which was once a moon
-of the system’s gas giant. Having been perturbed out of its orbit,
-it was then captured in the gas giant’s trailing Trojan point and
+of the system's gas giant. Having been perturbed out of its orbit,
+it was then captured in the gas giant's trailing Trojan point and
 follows the much bigger world around in its orbit.
 
-Dinom’s polar axis points towards the star, which is little more than
+Dinom's polar axis points towards the star, which is little more than
 a bright disc in the sky. It does put out enough energy to make
 the pole pointed towards the star very hot, while the other pole is
-constantly exposed to the cold of space. Dinom thus has a ‘bright
-face’ and a ‘cold face’ as well as a zone of twilight along the equator
+constantly exposed to the cold of space. Dinom thus has a 'bright
+face' and a 'cold face' as well as a zone of twilight along the equator
 where temperatures are less extreme. All major settlements are built
 in this zone.
 
 There are three major cities on Dinom, with a total population of
 somewhat less than 250,000. Most of the population live and work
 in these cities, which are connected by a monorail link, Or rather,
-will be connected by it ‘very soon’. The monorail system has been
-due for completion ‘very soon’ for what seems like an inordinately
+will be connected by it 'very soon'. The monorail system has been
+due for completion 'very soon' for what seems like an inordinately
 long time and cynics suggest that it will never be completed.
 
 There are an unfortunately large number of cynics on Dinom.
@@ -7890,8 +7890,8 @@ Cold face hazards include lakes of frozen gas that will rapidly sublime
 when exposed to heat, such as that inevitably given off by an ATV.
 Deep crevasses are also possible, where the rock has been split by
 explosive sublimation in the past. This occurs when a deposit of
-frozen gas is exposed to heat, such as that from the system’s star.
-Dinom’s orientation towards the star is gradually changing so this
+frozen gas is exposed to heat, such as that from the system's star.
+Dinom's orientation towards the star is gradually changing so this
 occurs at regular but very infrequent intervals.
 
 The bright face is, if anything, more dangerous. However, the
@@ -7918,7 +7918,7 @@ Lanth or Ghandi. There is almost always a guardship in the vicinity
 of the world, plus interdiction satellites that monitor traffic in and
 out. Occasionally additional vessels sweep other parts of the system,
 but this is no more frequent than any other system and is probably
-part of the Navy’s routine internal security operation. Official naval
+part of the Navy's routine internal security operation. Official naval
 sources, as usual, refuse to comment.
 
 The guardship is usually a small vessel such as a Patrol Cruiser or
@@ -7970,7 +7970,7 @@ importance to the Imperium.
 It appears that around 300,000 years ago, at a time coinciding with
 the disappearance of the Ancients, Victoria was heavily bombarded
 from space using a variety of weapons but most notably asteroids
-as ‘deadfall ordnance’. This is a technical term for dropping a heavy
+as 'deadfall ordnance'. This is a technical term for dropping a heavy
 object from orbit.
 The bombardment resulted in a number of immense craters, some
 of which are today seas or great lakes. Others are not obvious as
@@ -7990,17 +7990,17 @@ means of the unaided local population.
 It is possible to obtain a permit to visit Victoria, though not by any
 means easy. Such a permit includes strict clauses about trading
 metal or metal goods to the locals, and specifically prohibits access
-to Victoria’s moon, Albert. Permits make it perfectly clear that
+to Victoria's moon, Albert. Permits make it perfectly clear that
 permission to visit the moon has not been granted and that lethal
 force may be used without warning against any vessel approaching.
 No reason has ever been given.
 Albert is large enough to have an atmosphere and appears to
 even have some surface water. It is officially listed as uninhabited
 but there have been reports of a stone–built (or, more fancifully,
-‘crystalline’) city on the surface. Official charts make no mention of
+'crystalline') city on the surface. Official charts make no mention of
 this, nor of any colonization effort or history of habitation on Albert.
 Official sources will not even discuss the matter, and suggest that
-chasing wild tales is not a very useful way to spend one’s time.
+chasing wild tales is not a very useful way to spend one's time.
 Lanth Subsector
 Name Statistics Remarks
 Extolay 0101 B45589A–A N I
@@ -8011,7 +8011,7 @@ Victoria 0207 X697772–2 I Ag Ga Lt R G
 Dinomn 0302 B674632–9 S I Ag Ga NI G
 Ylaven 0306 X587552–4 I Ag Ga NI Lt R G
 Sonthert 0308 X6266AB–3 I NI Lt R G
-D’Ganzio 0310 B120410–D N I Ht Po NI G
+D'Ganzio 0310 B120410–D N I Ht Po NI G
 Wypoc 0401 E9C4547–8 I Fl NI A G
 Djinni 0501 E459000–0 I Ba NI R G
 Rech 0502 D9957AA–6 I Ag Ga G
@@ -8025,7 +8025,7 @@ Ivendo 0709 B324659–A 2 I NI G
 Keanou 0801 C792348–7 S I De Lo G
 Turedad 0804 C465540–9 I Ag NI G
 Vreibefger 0805 E481542–3 I Lt IRS G
-La’Belle 0806 C564112–4 I Lo NI Lt G
+La'Belle 0806 C564112–4 I Lo NI Lt G
 Equus 0807 B55A858–B S I Wa G
 Icetina 0808 B5245A9–7 N I NI G
 Cogri 0809 CA6A643–9 I Ri Wa G
@@ -8113,7 +8113,7 @@ TTuredaduredad
 
 VVreibefgerreibefger
 
-LLa’Bellea’Belle
+LLa'Bellea'Belle
 
 QQuopistuopist
 
@@ -8140,7 +8140,7 @@ cc
 
 B
 
-DD’Ganzio’Ganzio
+DD'Ganzio'Ganzio
 
  B
 
@@ -8233,7 +8233,7 @@ capital was one reason for the construction of an excellent A–class
 starport at the otherwise rather unimportant world of Fulacin.
 
 Rhylanor is home to several billion people, mostly humans, and
-has a fairly moderate society with liberal laws. Entry to the world’s
+has a fairly moderate society with liberal laws. Entry to the world's
 ruling elite by those not born to the right families is not easy but
 it is possible to join the ruling class by a variety of methods. The
 commonest routes are power and achievement.
@@ -8249,7 +8249,7 @@ system; others maintain that Rhylanor is a meritocracy where those
 who deserve a say in government are given it.
 
 Elevation for achievement is generally linked with service to the
-Imperium or to Rhylanor’s armed forces. Retired naval, marine
+Imperium or to Rhylanor's armed forces. Retired naval, marine
 and army officers are frequently offered generous inducements
 to take up government posts or simply to be associated with the
 government as advisors and public supporters. Achievements in
@@ -8258,24 +8258,24 @@ this way, ensuring that Rhylanor attracts the best and brightest, and
 that when they come to live there, they join the establishment and
 thereby strengthen it.
 
-Rhylanor’s most famous citizen was Grand Admiral Olav hault–
+Rhylanor's most famous citizen was Grand Admiral Olav hault–
 Plankwell, who not only defeated the Outworld Coalition in the First
-Frontier War but then advanced on Capital and took the throne for
+Frontier War but then advanced on [[Capital]] and took the throne for
 himself. This is sometimes described as the ultimate expression
 of Rhylanor–style meritocracy. Plankwell had achieved great things
 as a naval officer and he wielded great power, fulfilling both the
 requirements for elevation. He thus deserved to be made part of the
 ruling elite, perhaps as Archduke of the Domain of Deneb. Empress
-Jacqueline was foolish not to reward Plankwell’s greatness, and
+Jacqueline was foolish not to reward Plankwell's greatness, and
 paid the price when he took what he deserved by his own efforts.
 Reminders that Plankwell did not manage to keep his position very
 long do not go down well on Rhylanor.
 
 RRHHYLANORYLANOR^87
 
-Admiral Plankwell’s birthplace is today a small museum which
+Admiral Plankwell's birthplace is today a small museum which
 attracts large numbers of visitors every year. This is only one of
-Rhylanor’s many naval connections. Although Macene is home to
+Rhylanor's many naval connections. Although Macene is home to
 those heavy units of the Sector Fleet that are based in the subsector,
 the subsector fleet has its headquarters at Rhylanor, and there is a
 very powerful system squadron. Rhylanor also boasts a large naval
@@ -8283,11 +8283,11 @@ academy where young officers–to–be undergo their education and
 training.
 
 One of the proud traditions of the Rhylanor Naval Academy is the
-‘manning the boats’ ceremony held just before the graduation of
+'manning the boats' ceremony held just before the graduation of
 each class of cadets. This commemorates the contribution of trainee
 personnel from the academy to the defence of Rhylanor in the Third
 Frontier War. Cadets volunteered in huge numbers to crew repaired
-and reactivated system defence boats from the system’s reserve fleet
+and reactivated system defence boats from the system's reserve fleet
 during the Siege of Rhylanor. Casualties were very high in the dark
 months of the middle of 981 before the siege was finally broken. The
 ceremony is held in memory of their sacrifice and as a reminder to
@@ -8310,11 +8310,11 @@ facility this side of Corridor sector.
 
 Several Megacorporations have their regional headquarters on
 Rhylanor, or at least a major installation for those that prefer to work
-out of Mora. Some of Rhylanor’s extensive shipyards are privately
+out of Mora. Some of Rhylanor's extensive shipyards are privately
 owned but most are either Megacorporate subsidiaries or at least
 partially funded by Megacorp money.
 
-Rhylanor’s importance as a communications hub and industrial
+Rhylanor's importance as a communications hub and industrial
 center cannot offset the fact that it is difficult to get to. Free Traders
 and similar independent starships are rarely seen in the ports of
 Rhylanor, Porozlo and Jae Tellona; they tend to stay on the Spinward
@@ -8358,7 +8358,7 @@ This region has been a backwater for centuries and has never
 received much in the way of investment. It might have remained
 entirely underdeveloped but for the events of the Third Frontier War,
 which required the Imperial Navy to create a temporary base on
-Vanejen and brought interstellar affairs onto the locals’ doorstep.
+Vanejen and brought interstellar affairs onto the locals' doorstep.
 
 Prior to this Vanejen was a more or less forgotten colony world,
 whose inhabitants managed to create a stable tech level 2 society.
@@ -8387,7 +8387,7 @@ example sea transport, are divided between several families.
 
 (^88) RRRHHYLANORHYYLLAANNOORR
 Today, Vanejen has a population of just over 540 million, scattered
-across three of the world’s four continents. The fourth is barren and
+across three of the world's four continents. The fourth is barren and
 more or less uninhabited. Government is by a stable semi–feudal
 system based on control of critical industries. The ruling families
 were firmly entrenched in power even before they gained their
@@ -8652,7 +8652,7 @@ the aftermath of the Maghiz, they remained culturally Darrian and
 were peaceably re–integrated into the Darrian Confederation.
 
 Technically this cluster lies on the Spinward Main but since access
-to the rest of the Main requires transiting through the ‘Gram Arm’
+to the rest of the Main requires transiting through the 'Gram Arm'
 of the Sword Worlds, astrographical convenience is overruled by
 local politics. Uniqua and Garoo are also on the Spinward Main,
 though they lie at the extreme outer end, where the Main passes out
@@ -8722,7 +8722,7 @@ and philosophy.
 Over the centuries, the Darrians adapted to their homeworld,
 gradually acquiring a distinctive appearance. Although recognizably
 human and capable of interbreeding with other humans, the
-Darrians developed what some refer to as an ‘elfin’ appearance.
+Darrians developed what some refer to as an 'elfin' appearance.
 They are tall and slender as a result of the lower gravity on their
 homeworld, and tend to be more dextrous, if a little weaker, than
 mainstream humans. Their skin has a golden colour and hair is
@@ -8740,11 +8740,11 @@ Sacnoth, the Itzin fleet chose Darrian as its final destination.
 
 Whatever the new arrivals did next, Darrian and its people were
 going to be changed forever. However, to the great good fortune
-of the Darrian people the newcomers did not take the obvious ‘sky
+of the Darrian people the newcomers did not take the obvious 'sky
 
 DDAARRIANRRIAN^91
 
-gods’ route, nor did they use their superior technology to dominate
+gods' route, nor did they use their superior technology to dominate
 or marginalise the Darrians. Instead they made a careful and friendly
 approach, trading fairly with their new friends who in turn welcomed
 the Terrans into Darrian society.
@@ -8759,7 +8759,7 @@ began a period of explosive technological growth and reached TL16
 within just 400 years.
 
 Curiosity very nearly killed the metaphorical cat when an experiment
-on Darrian’s sun Tarnis resulted in the Maghiz, or Chaos. Darrian
+on Darrian's sun Tarnis resulted in the Maghiz, or Chaos. Darrian
 itself was badly burned by the resulting explosion of star–hot gases,
 and has never completely recovered. Most of the population died in
 the solar flares or soon afterward, and the remainder were too busy
@@ -8770,14 +8770,14 @@ Mire rather than Darrian itself.
 Today, Darrian still bears the scars of the Maghiz. There are extensive
 ruins of former TL 16 cites. These attract tourists and visitors with
 a scientific interest from quite far afield, as do the remains of what
-are now normally called ‘orchards’; the Ancients–built gardens that
+are now normally called 'orchards'; the Ancients–built gardens that
 were home to the original Darrian civilization. Trade in artefacts
 from these sites is very strictly controlled.
 
 Modern Darrian has a population numbering in the billions. Most
 of these people live on the surface, contrary to popular images of
 Darrian as a world of flying cities. The surface is divided more by
-mountain ranges than by seas, creating five great ‘basins’ which
+mountain ranges than by seas, creating five great 'basins' which
 are the equivalent of continents. In addition there are four flying
 cities, held aloft by gravitic technology. Each has its own unique
 characteristics and function, but altogether they contain only a
@@ -8793,7 +8793,7 @@ Most of the ultra–high technology available on planet is in the form
 of pre–Maghiz artefacts which are too precious for their scientific
 value to be used for practical tasks.
 
-Study of the pre–Maghiz items, coupled with the Darrians’ natural
+Study of the pre–Maghiz items, coupled with the Darrians' natural
 aptitude for technology, will undoubtedly result in technological
 growth to surpass that of the Imperium and perhaps even the pre–
 Maghiz Darrians. However, even though the government of Darrian
@@ -8850,7 +8850,7 @@ most Imperial businesses. The mines make a fairly modest profit
 but never enough to really put Dorannia on the economic map.
 
 In recent years, a new industry has emerged on Dorannia. Rather
-than simply mining and exporting radioactives, the world’s industrial
+than simply mining and exporting radioactives, the world's industrial
 base now constructs a range of fission–based power systems.
 These include full–sized nuclear powerplants suitable to power a
 large town or major industrial complex as well as smaller plants for
@@ -8864,12 +8864,12 @@ reliability are good, although fission power will never be as safe as
 fusion, nor can fission match the output per unit mass of a fusion
 plant. Nevertheless it is a viable alternative for mid–tech worlds that
 want a power system that can be maintained with local resources.
-Thus far Dorannia’s products have found a few buyers and the
+Thus far Dorannia's products have found a few buyers and the
 future seems promising. A recent ad campaign run on several
-worlds invited prospective buyers to visit ‘Atomic Dorannia’ and
+worlds invited prospective buyers to visit 'Atomic Dorannia' and
 showcased a range of quite novel nuclear energy applications.
 All is not entirely well on Dorannia, however. The scattered nature
-of the world’s settlements makes them ideal targets for planetary
+of the world's settlements makes them ideal targets for planetary
 raiders. These are groups of spaceborne thugs that either raid
 settlements for whatever they can grab or else hold them hostage
 under the guns of their ship, demanding tribute in return for
@@ -8895,7 +8895,7 @@ and the circumstances under which they can be used. Normal ship–
 to–ship missiles, even aboard warships, are non–nuclear. Dorannia,
 on the other hand, has launched more nuclear munitions under
 combat conditions since 1103 than most planetary navies in their
-entire history. The fact of the matter is that ‘Atomic Dorannia’ has
+entire history. The fact of the matter is that 'Atomic Dorannia' has
 become trigger–happy with its new arsenal.
 Since Dorannia has no real capability to conduct a boarding and
 search in space, the only option is to use the threat of annihilation.
@@ -8910,7 +8910,7 @@ not be attacked. However, that was not common knowledge and
 in recent months a stock of short–range non–nuclear missiles has
 been obtained.
 Several vessels have been fired upon, and as the guidance
-systems of Dorannia’s missile arsenal are not the best, accuracy
+systems of Dorannia's missile arsenal are not the best, accuracy
 is problematical. The answer is, of course, to fire large salvoes in
 the hope of a hit. As a result a typical Dorannia PAD (Planetary
 Aerospace Defence) missile consists of a large ground–to–orbit bus
@@ -9130,8 +9130,8 @@ as rightful overlords of the region, and tend to deal with foreign
 (Darrian or Imperial) ships passing through in a high–handed and
 arrogant manner.
 
-The four ‘Metal Worlds’ (Iron, Bronze, Mithril and Steel) are
-‘reserve worlds’ held in trust by the Sword Worlds Confederation
+The four 'Metal Worlds' (Iron, Bronze, Mithril and Steel) are
+'reserve worlds' held in trust by the Sword Worlds Confederation
 against future need. Until recently the Confederation has vigorously
 resisted Imperial efforts to exploit these worlds, but that attitude
 has recently changed. A theoretically joint project to develop Steel
@@ -9158,12 +9158,12 @@ usual, all non–Imperial worlds should be considered Amber and the
 Sword Worlds, with their generally negative outlook on all things
 Imperial, particularly so. The fact that Joyeuse has been awarded
 an explicit Amber rating leads Imperial wags to describe the world
-as ‘especially particularly Amber’. Imperial travellers are advised to
+as 'especially particularly Amber'. Imperial travellers are advised to
 avoid Joyeuse altogether.
 
 ###### GRAM A895957 B B
 
-Located on what is now known as the ‘Gram Arm’ of the Sword
+Located on what is now known as the 'Gram Arm' of the Sword
 Worlds section of the Spinward Main, Gram is a moderate sized
 world with a dense, tainted atmosphere and about 50% coverage of
 seas. The world is remarkable in that this 50/50 coverage is almost
@@ -9187,7 +9187,7 @@ Gram has held on to power in the Sword Worlds since 852, a
 remarkable achievement in such a turbulent political environment.
 Somewhat over a century ago the administrative apparatus of the
 Confederation was moved to a purpose–built city located on the far
-side of the planet from Gram’s own capital.
+side of the planet from Gram's own capital.
 
 Gram is a heavily populated and industrialised world whose
 aristocracy are mainly the owners of major industrial and commercial
@@ -9208,16 +9208,16 @@ of the population live in large cities and work either in industry or
 the services that support a large population.
 
 There are also many legal restrictions, in part made necessary by
-having such a large urban population. Thus Gram’s billions are
+having such a large urban population. Thus Gram's billions are
 governed by a fairly high law level that prohibits private ownership
 of firearms. This would be unthinkable to the rugged frontiersman
 of Sword Worlder ideals, but it is a fact of life for the populace of
 Gram.
 
-One of Gram’s most important industries is shipbuilding, especially
+One of Gram's most important industries is shipbuilding, especially
 for the navies of the Confederation. Sword Worlder ships are of a
 lower technological level than those of the Imperium, and are not
-capable of high Jump numbers. Gram’s yards turn out two basic
+capable of high Jump numbers. Gram's yards turn out two basic
 types of warship.
 
 Since it is possible to reach almost any point in the Sword Worlds
@@ -9245,7 +9245,7 @@ and electronic equipment.
 
 Despite a certain amount of pride at being the capital of the
 Confederation, the first of the Sword Worlds and the source of much
-of the Confederation’s military equipment, there is considerable
+of the Confederation's military equipment, there is considerable
 disaffection among the workers of Gram. The cities are somewhat
 grim and there are few opportunities for personal advancement.
 Some of the mid–level aristocracy have begun to champion these
@@ -9285,13 +9285,13 @@ would be hugely expensive if it were possible at all.
 
 ###### MITHRIL E568000 0
 
-Mithril is one of the four ‘metal worlds’ claimed by the Sword
+Mithril is one of the four 'metal worlds' claimed by the Sword
 Worlds Confederation but not yet developed or colonized. The world
 is very suitable in most ways for colonization – it has a standard
 atmosphere and about 80% ocean coverage. However, Mithril is
 more than a little cold.
 
-Much of Mithril’s ocean surface is either frozen or prone to drifting
+Much of Mithril's ocean surface is either frozen or prone to drifting
 ice. The land is swept by harsh winds and often blanketed by ice
 and snow. While this would not pose too much of a problem to
 high–technology settlers, it does make agriculture something of a
@@ -9318,7 +9318,7 @@ Worlder sovereign territory, but so long as Imperial vessels just
 refuel and go the Sword Worlders are not sufficiently outraged to
 confront the Imperium over the matter, which might result from
 actions against Imperial–registered starships.
-Relatively few ships land at the port. This is an ‘E’ class installation,
+Relatively few ships land at the port. This is an 'E' class installation,
 which is to say little more than a marked landing area with beacons
 and a cluster of huts nearby. Outsiders are not welcome at the port.
 Fuel and resupply are not available for passing vessels, though
@@ -9330,7 +9330,7 @@ is no permanent population, a handful of Sword Worlders operate
 the tiny port. This is one of the loneliest jobs in Charted Space – to
 be stationed with just a couple of companions on a planet several
 weeks from any sort of assistance if disaster strikes.
-This tiny presence serves to support the Confederation’s claim to
+This tiny presence serves to support the Confederation's claim to
 ownership of the world. It is necessary for political reasons but it
 is not a pleasant posting. Few of the personnel to be deployed to
 Mithril Starport have ever ventured far into the arctic wilderness
@@ -9339,10 +9339,10 @@ for rescue if something goes wrong and the staff all have jobs to do
 at the port.
 Exploration teams have surveyed the world of course, sometimes
 working out of the port. These report an unusual phenomenon
-known as the ‘ephemeral glade’. Mithril is normally very cold and
+known as the 'ephemeral glade'. Mithril is normally very cold and
 its ecosystem has developed to take maximum advantage of the
 short periods of above–zero temperatures that occur. During one of
-these very brief warm periods (warm by Mithril’s standards means
+these very brief warm periods (warm by Mithril's standards means
 a degree or so above freezing), an ephemeral glade may spring up.
 This is essentially an area of plant life that grows from the thawing
 soil at incredible speed. Within a few hours an area of grass–like
@@ -9351,10 +9351,10 @@ Glades tend to be 2–3 kilometers across and rapidly attract animals
 from the surrounding area, drawn to the readily available food and
 shelter of the glade. Once the temperature drops below freezing,
 the plants rapidly die and the animals depart after a last frenzy of
-feeding on the dying glade’s bounty.
+feeding on the dying glade's bounty.
 Among the animals attracted to a glade are Calamanders, scaly
 burrowing creatures with a complex society. Each group is centered
-on a female who bears young and seems to be the ‘queen’ of the
+on a female who bears young and seems to be the 'queen' of the
 group. She resides in a burrow which she rarely leaves and is
 attended by several drone males. A third gender, referred to as a
 Protector, digs tunnels, forages for food and, as the name suggests,
@@ -9591,7 +9591,7 @@ Not coincidentally, the main naval bases for the subsector are at
 Lunion and Strouden, with light patrol forces based out of Shirene
 and Capon. Subsector assets belong to the 43rd Fleet, which is
 mainly concerned with keeping its section of the Spinward Main
-safe for navigation. Long–term ‘guardship’ deployments are not
+safe for navigation. Long–term 'guardship' deployments are not
 uncommon even in systems with lesser starports. While boring
 for the crews involved, such deployments go a long way towards
 deterring both piracy and smuggling.
@@ -9603,18 +9603,18 @@ more normal. There is nothing particularly strange about the sparse
 area Rimward of the Wardn–Strouden line although it is quite
 extensive and runs into neighboring subsectors.
 
-The subsector’s planetoid belts are something of a economic
+The subsector's planetoid belts are something of a economic
 disappointment. Gandr is particularly poor, though the discovery
 of superheavy elements there in 1040 caused a number of firms to
 move in, only to pull out again when the deposits proved unviable.
 Zaibon once had the largest deposit of copper on record, but this
 has been played out and few new deposits are being found. As a
-result the system’s mining–based economy is in decline.
+result the system's mining–based economy is in decline.
 
 Ianic has a sizable minority of Jonkeereen (about 30%) among its
 population. The Jonkeereen are humans genetically engineered to
 thrive in desert environments. They generally live apart from the
-world’s normal humans but get along well enough with them.
+world's normal humans but get along well enough with them.
 
 Less harmonious is Quiru, where a recent coup using mercenary
 forces toppled the government and put a military junta in its place.
@@ -9638,7 +9638,7 @@ devoid of surface water although it has a standard atmosphere.
 Ianic, like most desert worlds, is not an endless sea of dunes. There
 are plenty of such regions but in between are mountains, rocky
 badlands and areas of semi–desert where there is just enough water
-to support life. There are even a couple of very small ‘seas’ which
+to support life. There are even a couple of very small 'seas' which
 would be lakes on any other world. Oases are not uncommon where
 underground water reserves well up close to the surface.
 
@@ -9660,7 +9660,7 @@ from the saltwater lake nearby and processed to make liquid
 hydrogen. A hefty Cr250 landing fee, higher than is usual even
 at some high–quality ports, is levied at the port. This is payable
 whether or not ships take on water, as the locals view water as one
-of their world’s most precious resources and feel the need to tax all
+of their world's most precious resources and feel the need to tax all
 visitors to offset the loss.
 
 The Jonkeereen, live separately to the mainstream humans for
@@ -9712,13 +9712,13 @@ and tenders ready to feed into the system when they are needed,
 but more importantly there are a number of emergency/urgent
 message protocols in place. A single courier, most likely from the
 naval base at Adabicci or from Lunion itself, arriving in the Ianic
-system can trigger what some Scout personnel refer to as the ‘Ianic
-Panic’, sending Xboats and fast couriers off in all directions with the
+system can trigger what some Scout personnel refer to as the 'Ianic
+Panic', sending Xboats and fast couriers off in all directions with the
 message aboard. This is normally used for great emergencies, such
 as the outbreak of the Fourth Frontier War.
 
 This large collection of communications and support ships is not
-based on Ianic itself but orbits one of the system’s gas giants, with
+based on Ianic itself but orbits one of the system's gas giants, with
 a central station coordinating all approaches and departures as well
 as acting as an accommodation center. This allows personnel to get
 off their ships for a while. The station also fulfils the other important
@@ -9744,14 +9744,14 @@ transportation is relatively cheap which makes it attractive for non–
 urgent goods.
 
 Spirelle exports large quantities of tech level 8 goods to nearby
-worlds. Much of the world’s industry is geared to the export market,
+worlds. Much of the world's industry is geared to the export market,
 producing rugged items that are easy to maintain with only limited
 facilities. Produce aimed at the local market tends to be more
 complex and sophisticated.
 
 There is a reasonably good starport, with government–licensed
 traders handling most negotiations for private cargoes. The starport
-is, not surprisingly, co–located with the world’s largest seaport, with
+is, not surprisingly, co–located with the world's largest seaport, with
 
 (^100) LLLUUNIONUNNIIOONN
 huge container ships delivering cargoes from all around Spirelle for
@@ -9771,7 +9771,7 @@ has been settled for centuries, so there are few areas that are truly
 uncharted, and most localities have at least a few scattered villages.
 However, there is a fair amount of wilderness in the interior of the
 continents. Mountains, rain forests and tundra cover much of this
-area, making it relatively useless to the world’s inhabitants.
+area, making it relatively useless to the world's inhabitants.
 The Scout Service has a base on Spirelle. This facility mainly exists
 as a training establishment, making use of the extensive wilderness
 areas to conduct survival training as well as exercises such as
@@ -9786,14 +9786,14 @@ basic and refresher courses for a broad cross–section of personnel.
 They are also the scene of much more advanced training.
 The Scout Service also maintains a security arm to protect its bases
 and personnel. Normally these teams simply act as guards, but
-some are trained in the hostage–rescue and ‘object retrieval’ role.
+some are trained in the hostage–rescue and 'object retrieval' role.
 The latter is a catch–all term for everything from getting a valuable
 alien artefact back from thieves to storming a hijacked Scout Service
 vessel.
 Within the leased areas are mock–ups of various Scout Service
 vessels and other common starships, most with internal gravity
 equipment so that they can be stormed in a range of conditions
-from zero–gravity to a ‘shirtsleeves’ environment.
+from zero–gravity to a 'shirtsleeves' environment.
 Lunion Subsector
 Name Statistics Remarks
 Arba 0101 C200200–C I Ht Lo NI
@@ -9982,7 +9982,7 @@ facto sector ducal court has been criticized for creating an over–
 politicised fleet. Other observers suggest that it enables better
 cooperation between the political structure of the Imperium and the
 Navy, its main military arm. Either way, the Marches is behind the
-times in retaining a ‘crust’ defensive strategy when the move to an
+times in retaining a 'crust' defensive strategy when the move to an
 elastic defence began elsewhere a decade ago.
 
 The Imperial Navy has additional bases at Mercury, Moran and
@@ -10000,7 +10000,7 @@ is Al Morai, a moderately sized shipping line that provides a
 reliable service through to the Darrian Confederation via the Vilis
 subsector.
 
-Only two worlds in the subsector (Palique and Fen’s Gren) are Amber
+Only two worlds in the subsector (Palique and Fen's Gren) are Amber
 Zoned and there are no Red Zones. However, access to what is left
 of the Imperial Research Station on Duale is not possible. Details
 of what the station was working on are unavailable but in 1102 a
@@ -10009,12 +10009,12 @@ its temporary abandonment. Naval assets and Imperial Marines
 remain on station (though at a curiously respectful distance) to
 prevent intruders from entering the site.
 
-Palique’s Amber Zone is due to frequent meteor bombardment.
+Palique's Amber Zone is due to frequent meteor bombardment.
 The world is a captured body that follows a highly eccentric orbit
-which takes it through one of the system’s two dense planetoid
+which takes it through one of the system's two dense planetoid
 belts twice a year. Although conveniently placed as an industrial
 center for the minerals mined from the rich belts, Palique can be
-a hazardous destination for starships. All of the world’s cities are
+a hazardous destination for starships. All of the world's cities are
 deep underground for protection and the world is justly famous
 for the quality of vacc suits and vacuum–environment survival gear
 manufactured there.
@@ -10033,7 +10033,7 @@ Nexine is a large world, almost entirely covered in oceans. The
 atmosphere is of a fairly standard composition and density but its
 taint makes the use of a filter mask necessary. The world is part of
 the Palique Cluster, on both the Coreward Xboat route form Mora
-and also the Jump–2 route into Trin’s Veil and ultimately Glisten
+and also the Jump–2 route into Trin's Veil and ultimately Glisten
 subsectors.
 
 Several attempts have been made to settle Nexine at various times,
@@ -10053,7 +10053,7 @@ goods.
 There are a few larger settlements, notably the capital which is
 co–located with the Starport and the Scout base. Even here, the
 population is not large enough to support much in the way of heavy
-industry and it is the Scout base that is the mainstay of Nexine’s
+industry and it is the Scout base that is the mainstay of Nexine's
 economy. The Scout Service contracts with local businesses for
 everything from food supplies to cleaning services, as does the
 starport.
@@ -10065,21 +10065,21 @@ the system and there is an extensive communications suite. In all,
 there are no more than two hundred Scout Service personnel in the
 system at any one time, even counting the crews working offworld.
 
-Trade ships do come through Nexine but the world’s tiny economy
+Trade ships do come through Nexine but the world's tiny economy
 cannot support buying and selling, nor produce enough of anything
 to be worth freighting. Thus the port makes only a little money
 
 MMOORARA^103
 
 from services to ships, such as berthing fees, rations and the like.
-Crews do spend a significant amount of money in the capital’s bars,
+Crews do spend a significant amount of money in the capital's bars,
 restaurants and shops.
 
 This dependence on the port for income has in many ways crippled
-the growth of Nexine’s own economy. A disproportionate percentage
-of the world’s population is employed in service industries around
+the growth of Nexine's own economy. A disproportionate percentage
+of the world's population is employed in service industries around
 the port, leaving too few to develop other sectors. Were this source
-of income to dry up then Nexine’s economy would almost certainly
+of income to dry up then Nexine's economy would almost certainly
 crash. This situation is all too common on worlds with a fairly low
 population. If the port generates enough income to allow investment
 in other methods of generating wealth then the economy can grow.
@@ -10091,7 +10091,7 @@ have been attempts to bring in immigrants using schemes ranging
 from generous land grants to refugee–relocation projects, but so far
 nothing has worked well enough to make a difference. The current
 idea is to see if genetically engineered humans could be seeded on
-Nexine, making use of the oceans that make up 99% of the world’s
+Nexine, making use of the oceans that make up 99% of the world's
 surface.
 
 As yet the project consists of little more than a few scientific
@@ -10103,7 +10103,7 @@ from mineral content in the oceans to current conditions. Extensive
 seabed mapping is also underway, presumably to locate suitable
 regions for an aquatic or semi–aquatic population to be settled in.
 
-Some of the Imperial scientists working in Nexine’s oceans are
+Some of the Imperial scientists working in Nexine's oceans are
 Dolphins. These were uplifted to sentience long ago and are now
 a species apart from their lesser cousins. Their unique insight into
 the aquatic conditions of Nexine will likely prove invaluable to the
@@ -10153,7 +10153,7 @@ Eventually, Trin became important as a secondary route into the
 Marches but for many decades everything and everyone came
 through Mora. Some of the colonists never went any further,
 choosing to settle on Mora rather than advance further into
-unexplored territory. The world’s population grew rapidly and with
+unexplored territory. The world's population grew rapidly and with
 it, the amount of industry it could support.
 
 Today, Mora has a population numbering in tens of billions, dwelling
@@ -10170,14 +10170,14 @@ main belt by oceanic trenches.
 Most of what little dry land Mora possesses is given over to high–
 technology intensive agriculture, with additional food production
 provided by seabed farming. There are, however, a few exceptions.
-One is Mora’s massive Downport, which takes up most of an
+One is Mora's massive Downport, which takes up most of an
 equatorial island. Another is the World Park, a large nature reserve.
 There is also an island reserved as a private estate for the high
 officials of the world government.
 
-Mora’s system of government is unusual, in that Duchess Delphine
-is not just the world’s official representative but also the head of
-Mora’s government. In practice the duchess delegates her role of
+Mora's system of government is unusual, in that Duchess Delphine
+is not just the world's official representative but also the head of
+Mora's government. In practice the duchess delegates her role of
 representative to the Imperium to a deputy, except when she feels
 that personal intervention is necessary.
 
@@ -10208,7 +10208,7 @@ administration vessels.
 Mora is, of course, highly industrialised, and has a very high
 technology level. This makes the world one of the most important
 economic players not just in the Marches but also in Deneb sector,
-where a significant proportion of Mora’s goods are sold.
+where a significant proportion of Mora's goods are sold.
 High–technology industry is heavily supported by the Mora
 Technical Institute, which performs cutting–edge research into
 gravitics, electronics and manufacturing technology as well as
@@ -10225,7 +10225,7 @@ moons of both gas giants are also heavily mined, with scientific
 installations scattered here and there. The belt is also the site of
 major biotechnology industries, conducting both research and
 production.
-The system’s scout and naval bases, located on large planetoids
+The system's scout and naval bases, located on large planetoids
 in the belt, are both huge. The Scout base is the IISS regional
 headquarters for the Spinward Marches and marshals a huge
 communications fleet in addition to a flotilla of scout/couriers,
@@ -10252,7 +10252,7 @@ will be directed. If the worst comes to pass, it might be that Mora
 could be the last bastion of the Imperium in the Spinward Marches.
 Certainly it would be held with great determination. Were Mora
 to be lost, the Marches would either have already fallen or defeat
-would become inevitable. Unsurprisingly, Mora’s system defence
+would become inevitable. Unsurprisingly, Mora's system defence
 squadron is one of the most powerful in the Imperium.
 Mora Subsector
 Name Statistics Remarks
@@ -10281,7 +10281,7 @@ Nexine 0610 C97A443–8 S I NI Wa G
 Nadrin 0703 D120203–6 S I Lo Po NI
 Mora 0704 AA99AC7–F 2 I Hi Ht In Cap G
 Dojodo 0803 C512311–7 S I Lo NI
-Fen’s Gren 0808 C647346–9 I Lo NI A G
+Fen's Gren 0808 C647346–9 I Lo NI A G
 
 π
 
@@ -10295,7 +10295,7 @@ Rhylanor
 
 Lunion
 
-Trin’sVeil
+Trin'sVeil
 
 HHeronieroni A
 
@@ -10417,7 +10417,7 @@ cc
 
 C
 
-FFen’s Grenen’s Gren
+FFen's Grenen's Gren
 
 (^106) FFFIIVEIVVEE S SSIISTERSISSTTEERRSS
 
@@ -10469,11 +10469,11 @@ confirm, deny or even comment.
 
 There are 10 non–Imperial worlds in the subsector, not counting
 the Droyne ones. Most are located to Rimward of the Imperial zone,
-in the direction of what some Imperials call the ‘Outrim Void’ even
+in the direction of what some Imperials call the 'Outrim Void' even
 though it is only Rimward of the Marches and is hardly a void. The
 term was probably first coined in an entertainment show and seems
 
-to have stuck. In any case, travel ‘outrim’ into Menorial subsector
+to have stuck. In any case, travel 'outrim' into Menorial subsector
 via Five Sisters is discouraged by the authorities. Despite this,
 exploratory trade missions do occasionally crawl along the Spinward
 Main all the way to Five Sisters and then head out into the relative
@@ -10490,13 +10490,13 @@ unassisted humans.
 In the case of Saxe, the atmosphere is a nitrogen–carbon–dioxide
 mix, with very little oxygen. While not actively toxic to humans, this
 gas mix cannot support respiration. An unprotected person would
-breathe the ‘air’ in and out while they collapsed and died of anoxia.
+breathe the 'air' in and out while they collapsed and died of anoxia.
 In order to avoid this unpleasant fate, a full air supply is needed
 although a sealed unit such as a vacc suit is not.
 
 Saxe was settled by a rather optimistic mission that pushed out
 ahead of the general spread of Imperials into the Marches and was
-forced to make a home on Saxe when the colony ship’s systems
+forced to make a home on Saxe when the colony ship's systems
 began to fail. The ship was used as a habitat until more permanent
 structures could be created, and was then cannibalised for spare
 parts.
@@ -10517,7 +10517,7 @@ of that continent, and the whole of the others, remains untamed
 wilderness which, in the majority of cases, is entirely uncharted.
 
 It is possible that there are other groups on Saxe, perhaps later
-arrivals, though there has never been any contact with the ‘official’
+arrivals, though there has never been any contact with the 'official'
 residents. On a large world like this, a small enclave could go
 entirely unnoticed – especially if it were deliberately concealed. The
 only people likely to do something of that sort would be pirates
@@ -10526,8 +10526,8 @@ possible, it is not likely.
 
 FFIIVEVE SSIISTERSSTERS^107
 
-There are also rumors of a ‘lost colony’ of Darrians who dwell in a
-sealed city floating in the world’s oceans somewhere. This seems to
+There are also rumors of a 'lost colony' of Darrians who dwell in a
+sealed city floating in the world's oceans somewhere. This seems to
 be even less likely than other hidden–inhabitant claims, though the
 rumor is quite persistent.
 
@@ -10573,7 +10573,7 @@ quarters just outside one of the smaller local towns. It was hurriedly
 evacuated in the early months of the Fourth Frontier War and has
 not been re–staffed. If this ever happens, the Darrians will need to
 completely restock the facility. It still stands, but the ever–pragmatic
-Saxans stripped the place within hours of the Darrians’ departure. It
+Saxans stripped the place within hours of the Darrians' departure. It
 is not known whether permission was given, but the Darrians were
 apparently friendly with the locals and certainly interacted with them
 on a daily basis, so it does seem likely.
@@ -10582,7 +10582,7 @@ on a daily basis, so it does seem likely.
 
 Mirriam is a large world with a dense, tainted atmosphere with
 somewhat more than 90% of the surface is covered by oceans. A
-considerable amount of Mirriam’s land takes the form of mountain
+considerable amount of Mirriam's land takes the form of mountain
 ranges, small islands or else is unusable due to other conditions.
 This includes most of the arctic and sub–arctic regions.
 
@@ -10599,13 +10599,13 @@ Mirriam is a commercial exporter of foodstuffs to the surrounding
 worlds, but this is of fairly minor importance to the local economy.
 Most of the food shipped out of Mirriam goes to the naval bases
 in the surrounding area. Imperial–navy ration contracts pay better
-than commercial sales most of the time, so much of the world’s
+than commercial sales most of the time, so much of the world's
 output is tied into fulfilling these requirements.
 
 (^108) FFFIIVEIVVEE S SSIISTERSISSTTEERRSS
-Most of Mirriam’s income comes from exports of industrial and
+Most of Mirriam's income comes from exports of industrial and
 technological items. Only two worlds in the subsector (Iderati and
-Karin) have better technology available for export, and Mirriam’s
+Karin) have better technology available for export, and Mirriam's
 population base is big enough to allow for large–scale industrial
 production of tech level 10 items. Grav vehicles and electronics for
 various applications are exported across the subsector.
@@ -10616,10 +10616,10 @@ for personal advancement, all of which contributes to a contented
 population and a popular government.
 One of the routes to advancement is Imperial service. Mirriam
 has both a naval base and a Scout Service Way Station, and both
-recruit extensively from among the world’s population. Mirriam
+recruit extensively from among the world's population. Mirriam
 has a generous system of tax breaks and enhanced second–career
 opportunities for veterans of the Imperial services. Many veterans
-enter service with Mirriam’s system squadron or the reserve armed
+enter service with Mirriam's system squadron or the reserve armed
 forces, while ex–Scouts often find a new home with the Deep Sea
 Exploration Service (DSES).
 The DSES, as the name suggests, is dedicated to mapping the
@@ -10627,7 +10627,7 @@ ocean beds and researching the creatures that live there. For the
 most part it is a reasonably safe occupation, but there are always
 hazards inherent in exploring caves in the side of an ocean trench
 ten kilometers beneath the surface.
-Mirriam’s naval base is one of several forming a ring around the
+Mirriam's naval base is one of several forming a ring around the
 Droyne worlds of Andor and Candory. Due to the extremely strict
 nature of the Red Zones around those worlds, the nearest Imperial
 systems all have naval bases and the forces there are on high alert.
@@ -10642,7 +10642,7 @@ three–parsec transit are viewed with more suspicion than those that
 obviously could not reach Candory.
 There are two ways to cross the gap to Candory. The simplest is
 to use a Jump–3 capable vessel. However, it is also possible to fit
-extra fuel tanks in a ship’s hold. Collapsible ‘fuel bladders’ and more
+extra fuel tanks in a ship's hold. Collapsible 'fuel bladders' and more
 permanent conversions are both commercially available. Using this
 system, the ship Jumps as far as possible and emerges in deep
 space. Fuel is then pumped from the extra tanks to the main ones,
@@ -10679,7 +10679,7 @@ Tondoul 0709 E5136A7–4 NA NI Lt G
 Ochecate 0807 E747569–7 Ag Ga NI
 Mewey 0808 D786799–5 Ri Ag Ga Lt G
 975–452 0810 E100316–9 Lo NI G
-Mirriam’s Scout base is a full Way Station, serving as a repository
+Mirriam's Scout base is a full Way Station, serving as a repository
 for communications vessels serving the long route back into the
 Imperium as well as plying between the Imperial base worlds in the
 subsector. A sizable fleet of survey and exploration vessels is also
@@ -10691,10 +10691,10 @@ tankers and Dromedaries (ships that carry both fuel and dry stores).
 Some of these support scout missions in their original capacity,
 ie as resupply vessels. This is rapidly becoming known as the
 most boring job in the Scout Service apart form Xboat–pilot duty.
-As Xboat pilots joke; at least aboard an Xboat you’ve always got
+As Xboat pilots joke; at least aboard an Xboat you've always got
 someone interesting to talk to.
-Other tankers and dromedaries have been converted to ‘Scout Base
-Ships’ which can carry a flock of smaller vessels such as Scout/
+Other tankers and dromedaries have been converted to 'Scout Base
+Ships' which can carry a flock of smaller vessels such as Scout/
 Couriers, Survey Scouts and the like. They are designed to make
 use of the high Jump capacity of naval tankers (jump–4 typically)
 to reach an area quickly, then remain on station as a mobile base
@@ -10886,11 +10886,11 @@ and similar problems on pro–imperial worlds.
 
 The world of Nirton is Red Zoned, and there are three Amber Zones.
 Pavabid is one of these, where the world government is a theocracy
-which follows the ‘Pavabidian Heresy’ (as it is called elsewhere) of
+which follows the 'Pavabidian Heresy' (as it is called elsewhere) of
 the Church of Stellar Divinity. Like other branches of the church, the
 Pavabidian version believes that stars are holy, but maintains that
-all stars other than Pavabid’s are evil. Offworlders are from ‘enemy
-stars’ and are highly suspect. The world is governed from a flying
+all stars other than Pavabid's are evil. Offworlders are from 'enemy
+stars' and are highly suspect. The world is governed from a flying
 palace that the locals, who are kept in a state of mid–tech ignorance,
 are told is kept aloft by divine favor. In fact it was built on Glisten
 and uses gravitic technology.
@@ -10915,15 +10915,15 @@ what it is investigating remains a mystery outside the corporation.
 
 ###### BOWMAN D000300 9 S
 
-Most star systems have a ‘mainworld’, which is the world with
+Most star systems have a 'mainworld', which is the world with
 the highest population in the system. Usually this is a rocky
 planet which may or may not have an atmosphere, water and so
-forth. Sometimes, however, the ‘mainworld’ is an asteroid belt. By
+forth. Sometimes, however, the 'mainworld' is an asteroid belt. By
 convention, an asteroid belt that is not the mainworld of a system is
 referred to as a planetoid belt, although in astrographical terms the
 two words are more or less interchangeable.
 
-Bowman’s presents something of a classification problem, simply
+Bowman's presents something of a classification problem, simply
 because it is so huge. The Bowman Belt does not fill the usual one
 orbit that most belts do, but several. There are separate zones
 within the belt and there has been some debate as to whether these
@@ -10946,15 +10946,15 @@ people live on planets, not stars, so it is the world that it most
 important to makers of charts. In addition to the star and the vast
 Bowman Belt, there is one planet. This is the gas giant Bowman
 Prime and its gaggle of moons. Clusters of planetoids are found at
-Bowman Prime’s Trojan points (ahead of it and behind it in its orbit.
+Bowman Prime's Trojan points (ahead of it and behind it in its orbit.
 There are no normal–sized planets in the Bowman system.
 
 The Bowman system is unusual in other ways. Normally the starport
-is located on the mainworld, but Bowman’s port is actually on Alpha,
+is located on the mainworld, but Bowman's port is actually on Alpha,
 the innermost moon of Bowman Prime. A Scout base of sorts is also
 located there. This is a very small installation which operates a few
 ships on various missions in the local systems as well as Bowman
-itself. These are often of the ‘rock plotting’ sort, necessary for the
+itself. These are often of the 'rock plotting' sort, necessary for the
 maintenance of accurate charts but boring and unglamorous.
 
 The population, numbering about 8500, refer to themselves as
@@ -10963,22 +10963,22 @@ some it means the inhabitants of an asteroid or planetoid belt.
 Others take it to mean those who make their living from the
 asteroid–mining and prospecting industries, often but not always
 in a belt. Here in Bowman it simply means the local population as
-opposed to ‘company men’.
+opposed to 'company men'.
 
 There is no government structure in the Bowman Belt, nor any
 real body of law as such. The Belters live in small communities or
 family groups and are scattered quite widely. The main population
 concentrations, such as they are, can be found at the town of
 Garrison which has grown up around the starport and at some of
-the larger asteroids. The most important of these is Koenig’s Rock
+the larger asteroids. The most important of these is Koenig's Rock
 in the main belt.
 
 In addition to the Belter population there are about 2500–3000
-‘company men’ in the system at any one time. These are not
+'company men' in the system at any one time. These are not
 residents or Belters but are well–paid employees of Ling Standard
 Products. LSP has more or less taken over the Trailing Trojan
 cluster of asteroids, and runs off independents with armed cutters
-and mercenary security troopers. There is an LSP ‘company town’
+and mercenary security troopers. There is an LSP 'company town'
 in the cluster, from which mining platforms are sent out to nearby
 asteroids to extract whatever minerals can be found there. Ingots of
 ore are then launched by mass driver to the two LSP stations near
@@ -10990,18 +10990,18 @@ They orbit Bowman Prime at the Trojan points of Alpha, from where
 it is easy to transport the processed ore to the port for shipment out
 of the system.
 
-A third station orbits at the outer edge of Bowman Prime’s ring
+A third station orbits at the outer edge of Bowman Prime's ring
 system, but does not mine for ore. Instead it extracts a range of
 chemicals as well as oxygen and hydrogen from ice chunks collected
-from Bowman Prime’s extensive ring system.
+from Bowman Prime's extensive ring system.
 
 There are also two other operations taking place in the Bowman
 system. A small archaeological dig is underway on Epsilon, one of
-Bowman Prime’s larger moons. This was discovered in 1093 to be
+Bowman Prime's larger moons. This was discovered in 1093 to be
 the site of a pre–Maghiz Darrian outpost.
 
 Meanwhile salvage crews continue to pick over the extensive field of
-starship wreckage drifting among the asteroids of Bowman Prime’s
+starship wreckage drifting among the asteroids of Bowman Prime's
 Leading Trojan cluster. This dates from the period just after the
 Second Frontier War, when a Sword Worlder fleet that had refused
 to surrender and carried out a highly successful commerce–raiding
@@ -11018,8 +11018,8 @@ Earth, a standard atmosphere and plenty of water. Unsurprisingly,
 Pavabid was settled early in the history of the Marches and the
 population steadily grew to its present level, about 700 million.
 
-At some point in the world’s history, the Church of Stellar Divinity
-became the world’s most widely practised religion, and later on the
+At some point in the world's history, the Church of Stellar Divinity
+became the world's most widely practised religion, and later on the
 official state religion worldwide. It is somewhat unusual for worlds
 within the Imperium to have a state religion but not unknown – if the
 population want a state religion then the Imperium will not interfere.
@@ -11035,8 +11035,8 @@ official heresy and condemns the actions of the world government.
 
 (^112) DDDIISTRICTISSTTRRIICCTT 268 226688
 The Pavabidian Heresy maintains that while all stars are indeed
-gods, only Pavabid’s star is good and benign. In order to protect
-them from the influences of these ‘enemy stars’, the population are
+gods, only Pavabid's star is good and benign. In order to protect
+them from the influences of these 'enemy stars', the population are
 kept isolated and not permitted contact with offworlders. Travel to
 other systems is out of the question.
 Offworld visitors to Pavabid are restricted to a trade enclave around
@@ -11052,10 +11052,10 @@ covered in small towns built around light industry, with agricultural
 regions in between. Most Pavabidians simply cannot conceive of
 any other life even if they were to try.
 The head of the Pavabidian government is known as the Son of the
-Star, and is considered to be the embodiment of part of the star’s
+Star, and is considered to be the embodiment of part of the star's
 consciousness. This makes him both divine and infallible. He dwells
 in a floating palace that moves around Pavabid at the Son of the
-Star’s whim and is allegedly held aloft by the hand of god. In fact it
+Star's whim and is allegedly held aloft by the hand of god. In fact it
 is a technological construct using impressive but mundane gravitic
 technology.
 Pavabid lies directly between Collace and Trexalon, two worlds that
@@ -11063,7 +11063,7 @@ are bitter rivals and hold diametrically opposed views about the
 Imperium. Collace supports Imperial expansion into District 268
 and hopes to become the subsector capital while Trexalon is doing
 everything it can to hamper Imperial advancement and delay or
-even prevent the region’s incorporation into the Imperium.
+even prevent the region's incorporation into the Imperium.
 Since both Collace and Trexalon ships come to trade at the port,
 clashes of interests have occurred from time to time on Pavabid.
 However, in recent months things have taken a turn for the worse.
@@ -11274,7 +11274,7 @@ Many of the worlds in the subsector lie on the Spinward Main,
 though the Glisten Arm is a relatively lightly travelled part of the
 Main. It terminates at Bendor, though a Jump–2 capable ship can
 reach any world in the subsector and can proceed beyond, into
-Trin’s Veil and finally back to Mora.
+Trin's Veil and finally back to Mora.
 
 Glisten is the responsibility of the 100th Fleet, with its headquarters
 at Glisten itself. The subsector fleet is understrength and contains
@@ -11301,10 +11301,10 @@ a new life on a frontier world or in more mundane surroundings.
 
 Glisten itself is named for the capital settlement in a system
 characterised by cities built in the two asteroid belts. Originally
-called Gliss Ten (Gliss being the name of the system’s star),
+called Gliss Ten (Gliss being the name of the system's star),
 Glisten City arose to become the system capital and eventually the
 administrative center for the subsector. There are many large cities
-throughout the system’s belts. Most specialise to at least a certain
+throughout the system's belts. Most specialise to at least a certain
 degree in one aspect of industry or economic endeavor.
 
 Marastan is an Imperial reserve world. Although access to the
@@ -11317,7 +11317,7 @@ now extinct in their home environment but survive on Marastan in
 carefully segregated reserves.
 
 Other worlds of interest in Glisten subsector include Romar, source
-of ‘dust–spice’, a narcotic valued by the Aslan, and Melior, whose
+of 'dust–spice', a narcotic valued by the Aslan, and Melior, whose
 population is about 50% made up of Jonkeereen. Callia also has a
 significant Jonkeereen minority, numbering about 25% of the total
 population.
@@ -11326,15 +11326,15 @@ population.
 
 The Glisten system is well placed to act as a communications and
 trade hub for the surrounding subsector; one reason why it was
-chosen as the subsector capital. Glisten is located at the ‘wrong
-end’ of the Spinward Main. Getting there down the Main requires
+chosen as the subsector capital. Glisten is located at the 'wrong
+end' of the Spinward Main. Getting there down the Main requires
 a long trip meandering through several subsectors, some of which
 are hazardous while others are backwaters. For commercial traffic
 this is simply not viable, and as a means to move information it is
 extremely slow.
 
 Most traffic into Glisten comes in via the Jump–2 link through
-Trin’s Veil subsector or the Jump–3 link to Strouden in the Lunion
+Trin's Veil subsector or the Jump–3 link to Strouden in the Lunion
 subsector. What Jump–1 traffic there is tends to be confined to the
 local cluster and perhaps the nearby sections of the Main in District
 
@@ -11346,13 +11346,13 @@ noticeable to outsiders.
 The Glisten system is centered on the star Gliss. It has a single gas
 giant and no rocky planets. There are two planetoid belts, of which
 one is designated as the mainworld. This belt is home to most of the
-system’s population, who would not normally refer to themselves
+system's population, who would not normally refer to themselves
 as Belters. That term carries with it connotations of small mining
 habitats and semi–nomadic prospectors whereas the people of
 Glisten live in large cities. The fact that their homeworld happens to
 be a belt does not give them any sort of kinship with Belters proper
 
-- and most ‘real’ Belters would agree wholeheartedly.
+- and most 'real' Belters would agree wholeheartedly.
 
 The population of the Glisten system numbers in the billions, housed
 in large cities built on asteroids all through the belt. Each city has its
@@ -11375,7 +11375,7 @@ business of all kinds as well as the administrative capital. Many other
 cities are fairly specialized in their industrial or social activities.
 
 There are several cities each specialising in agriculture, light and
-heavy industry, and even an artists’ colony. However this is not taken
+heavy industry, and even an artists' colony. However this is not taken
 to extremes. Almost all settlements have some industry, some food
 production and some technical capabilities. There are a number of
 more general settlements, but these are of much lesser economic
@@ -11389,7 +11389,7 @@ installations there are an enormous yard owned and operated by
 Ling Standard Products as well as smaller and more specialized
 shipbuilders such as Bilstein Yards.
 
-The Pluvis Belt is also the site of Glisten’s naval base, home port
+The Pluvis Belt is also the site of Glisten's naval base, home port
 of the subsector fleet. The immediate region around the base
 is a restricted area and is heavily patrolled, with sensor outposts
 constructed on a number of asteroids to give better coverage.
@@ -11411,7 +11411,7 @@ Ex–students are recruited in large numbers by mining corporations
 across the sector.
 
 There is also a community of what could be called true Belters within
-the system. Although not officially part of Glisten’s population and
+the system. Although not officially part of Glisten's population and
 not counted among it, the Belters are subject to local laws while
 they are in–system and most are willing to comply. However,
 there are groups who routinely ignore comm–channel restrictions,
@@ -11430,7 +11430,7 @@ in remote corners of the belt anyway. Only those making a real
 nuisance of themselves attract the attention of law enforcement or
 the navy.
 
-For the Belters’ part, most are just trying to make their way in
+For the Belters' part, most are just trying to make their way in
 the universe with a little prospecting or working a claim on some
 outsystem asteroid. The shiny cities of the main belt are built on
 asteroids but the people who live there are no more Belters than
@@ -11474,7 +11474,7 @@ some ways more or less autonomous.
 
 (^116) GGGLLISTENLIISSTTEENN
 The humans on Craw are descended from the early colonists who
-came to set up a home and exploit Craw’s mineral resources. The
+came to set up a home and exploit Craw's mineral resources. The
 mission was not a great success and due to a number of factors the
 colony went through a survival/subsistence phase that lasted for
 centuries before finally beginning to recover. Today, as a backwater
@@ -11496,7 +11496,7 @@ short of slavery on them. Native workers (some come right out and
 call them slaves) are subject to very strict restrictions as they labour
 for the benefit of the human population. This has led to a state of
 near–constant conflict between the human population and their
-‘allied’ natives, versus the ‘wild’ natives who have greater numbers
+'allied' natives, versus the 'wild' natives who have greater numbers
 but lower–tech equipment.
 Slavery is of course illegal in the Imperium, but there has been no
 Imperial intervention. One reason for this is that demolishing the
@@ -11574,7 +11574,7 @@ A
 
 GGroterote
 
-Trin’s Veil
+Trin's Veil
 
 Lunion
 
@@ -11709,9 +11709,9 @@ BBicornnicornn
 
 (^118) TTTRRINRIINN'''SSS V VVEEILEIILL
 
-## TTRRININ’’SS VVEEILIL SSUUBSECTORBSECTOR
+## TTRRININ''SS VVEEILIL SSUUBSECTORBSECTOR
 
-The Trin’s Veil subsector gets its name from the reflective debris
+The Trin's Veil subsector gets its name from the reflective debris
 cloud that surrounds Trin, the subsector capital. This is the remains
 of a shattered moon, and makes the night–time view on Trin a
 glorious sight. It also interferes somewhat with navigation close to
@@ -11719,14 +11719,14 @@ the world.
 
 The subsector is entirely within the Imperium and backs onto Gulf
 subsector of Deneb sector to Trailing. Although the Spinward Main
-does not run through Trin’s Veil, a Jump–2 ship can connect to it
+does not run through Trin's Veil, a Jump–2 ship can connect to it
 at Hexos (in Mora subsector) or Bendor (in Glisten) after a simple
 transit via the Palique, Katarulu and Dodds clusters. Jump–2 is also
 required to reach Trin itself. However, trade is conducted on a large
-scale within the subsector’s two main star clusters using Jump–1
+scale within the subsector's two main star clusters using Jump–1
 ships.
 
-Trin’s Veil subsector is the responsibility of the 207th Fleet which,
+Trin's Veil subsector is the responsibility of the 207th Fleet which,
 like the 100th in Glisten, is somewhat understrength. Patrols are
 maintained from the fleet headquarters at Katarulu and from bases
 on Murchison and Trin. The Sector Fleet maintains a reserve at Trin
@@ -11735,7 +11735,7 @@ work.
 
 There is one Red Zone in the subsector (Zephyr) and one Amber
 Zone (Hazel). Thisbe is not amber zoned but can upon occasion be
-dangerous. A long–term project is underway to improve the world’s
+dangerous. A long–term project is underway to improve the world's
 marginal atmosphere and hydrographics by bringing in ice asteroids
 from the outsystem. Most are simply broken into small chunks and
 set in a decaying orbit that will cause them to burn up in what little
@@ -11751,11 +11751,11 @@ functions as horses and have been exported almost as widely.
 
 There are two worlds named Aramis in the Spinward Marches.
 Aramis/Aramis (ie the world named Aramis in the subsector also
-named Aramis) is an important trade center and naval base. ‘The
-Other Aramis’, ie Aramis/Trin’s Veil, is in many ways an opposite.
+named Aramis) is an important trade center and naval base. 'The
+Other Aramis', ie Aramis/Trin's Veil, is in many ways an opposite.
 
-Aramis/Trin’s Veil possesses something that its more prosperous
-namesake does not, however, in the form of a habitable ‘shirtsleeves’
+Aramis/Trin's Veil possesses something that its more prosperous
+namesake does not, however, in the form of a habitable 'shirtsleeves'
 environment. Gravity is slightly lighter than Terra–normal and the air
 is quite thin. This is not a major problem, but unacclimatised visitors
 tire quickly and can become light–headed from quite moderate
@@ -11773,7 +11773,7 @@ Most of the latter have their own small nations which vary
 considerably in terms of government and characteristics but mostly
 conform to a tech level of 5–6.
 
-One ‘island nation’ is in fact an industrial enclave on long–term
+One 'island nation' is in fact an industrial enclave on long–term
 lease to Peabody Instrument, a firm specialising in the manufacture
 of scientific apparatus and instrumentation components for
 vehicles and industrial applications. The Peabody enclave has a
@@ -11784,10 +11784,10 @@ Peabody enclave, which takes up the entire mass of a large island,
 Aramis is a mess of small mid–tech societies.
 
 The mainland is home to the majority of the population. There
-are several states along the coastal strip, mostly known as ‘claves
+are several states along the coastal strip, mostly known as 'claves
 (corrupted from enclave) and usually named for their founders.
 These are independent and often unfriendly if not downright hostile
-to one another. Each ‘clave consists of a few small towns or a couple
+to one another. Each 'clave consists of a few small towns or a couple
 of larger ones, surrounded by an area of villages and farms.
 
 Inland is a wide outback region which is thinly populated and has
@@ -11795,14 +11795,14 @@ no formal government. Most outbackers live in steads which are
 protected by a simple earth rampart with firing positions cut in
 it. Raids and feuds are not uncommon, and the outbacker towns
 are similarly protected. As a general rule outbackers do not like
-coasters (or ‘clavers as they are sometimes known) and have little
+coasters (or 'clavers as they are sometimes known) and have little
 contact with them. There is some trade between the coasters and
-the outbackers, just as there is some trade between different ‘claves.
+the outbackers, just as there is some trade between different 'claves.
 For the most part, wary, armed mistrust is the order of the day as a
 result of old feuds.
 
-From time to time the ‘claves come into conflict, usually over a
-disputed border region or a resource–rich area. Similarly the ‘claves
+From time to time the 'claves come into conflict, usually over a
+disputed border region or a resource–rich area. Similarly the 'claves
 will sometimes drive nearby outbackers off their land, either in order
 to seize their resources or to improve the security of the region.
 Hostility between the coasters and the outbackers probably began
@@ -11811,9 +11811,9 @@ are in many cases long forgotten.
 
 TTRRININ''SS VVEEILIL^119
 
-Naturally the various ‘claves are entirely willing to use the outbackers
+Naturally the various 'claves are entirely willing to use the outbackers
 against one another, either by inciting a group of outbackers to
-harass another ‘clave or by raising units of irregular troops from
+harass another 'clave or by raising units of irregular troops from
 among the outbackers for a more direct confrontation. This has
 served to ensure that the cycle of violence and mistrust is not
 broken.
@@ -11835,25 +11835,25 @@ amount of high–tech manufacturing equipment this is used for its
 own business applications and is not available to generate trade
 goods for the world in general.
 
-Exports from the various ‘claves and island nations are modest in
+Exports from the various 'claves and island nations are modest in
 quantity and constructed at tech level 6, making it difficult to bring
-in much offworld cash. Those ‘claves and nations that can find
+in much offworld cash. Those 'claves and nations that can find
 something offworlders want, and who invest the proceeds wisely,
 will eventually leave their rivals behind or absorb them.
 
 ###### TRIN A894A96 F 2
 
-Colonized not long after Mora, Trin is viewed by some as the ‘back
-door to the Marches’. It can be reached from Deneb sector by an
+Colonized not long after Mora, Trin is viewed by some as the 'back
+door to the Marches'. It can be reached from Deneb sector by an
 easy Jump–2 route through well–developed worlds with good ports
 in Gulf subsector. This creates a lucrative trade run into Trin, from
 where it is possible to head Coreward and join the Spinward Main
 or Spinward towards Glisten.
 
-Large quantities of goods move through Trin’s excellent Highport,
+Large quantities of goods move through Trin's excellent Highport,
 which has many brokerages and commercial dispute resolution
 firms. Most ships are larger types; corporate freighters and liners
-rather than small, privately–owned ships, but Trin’s shipyards are
+rather than small, privately–owned ships, but Trin's shipyards are
 used for refits by many smaller operators – at least, the ones that
 can afford the fees.
 
@@ -11861,12 +11861,12 @@ Trin Highport also hosts a very large independent merchant
 academy, the Imperial Trin Institute of Commerce (ITIC). ITIC
 trains merchant spacer crews, but also offers courses in related
 areas such as brokerage and business law. Many of the personnel
-on the ‘spacer’ side of the institute also undertake Naval Reservist
+on the 'spacer' side of the institute also undertake Naval Reservist
 training at the Imperial Navy base in the system.
 
 As already noted, the Imperial Navy has a base in the Trin system
 which serves as headquarters for the subsector fleet and a base for
-heavy squadrons of the Sector Fleet. Trin’s system defences are
+heavy squadrons of the Sector Fleet. Trin's system defences are
 commanded from a ground installation on Trin itself, but many of
 the system defence vessels berth at the naval base. Trin also has a
 small scout base to serve the communications network.
@@ -11885,11 +11885,11 @@ that makes dawn and sunset so spectacular on Trin is the remnant
 of this satellite, which presumably broke up due to gravitational
 stresses.
 
-The world’s population numbers in tens of billions. As with many
-very high population worlds, Trin’s people are concentrated in very
+The world's population numbers in tens of billions. As with many
+very high population worlds, Trin's people are concentrated in very
 large cities surrounded by agricultural areas. Even with such a large
 population, there is plenty of land and well–regulated agriculture
-using high–technology methods is quite capable of feeding Trin’s
+using high–technology methods is quite capable of feeding Trin's
 billions without resorting to bulk food imports or low–quality
 subsistence rations. Indeed, Trin is a strong contender for one of
 the best places to live in Charted Space.
@@ -11922,17 +11922,17 @@ who has genuinely fallen on hard times rather than wanting to be a
 career bum to start climbing back to relative prosperity. Being flat
 broke on Trin is not quite the same as being down and out on some
 frontier world or mid–tech industrial hellhole.
-Trin’s effective and efficient social system tends to produce motivated
+Trin's effective and efficient social system tends to produce motivated
 and skilled people. Coupled with a tech level as high as anywhere in
 the Imperium, this has made Trin an industrial powerhouse whose
 goods are exported across the sector and far beyond. That in turn
 generates a level of wealth only dreamed of on many worlds.
-Trin’s government is fairly typical of high–population worlds, in
+Trin's government is fairly typical of high–population worlds, in
 that it has a semi–corporate, bureaucratic structure that follows
 established practices for the most part. Stability is considered very
 important in most areas of governance – Trin is so far ahead of
 the pack that reckless growth is undesirable and carries a risk of
-damaging the world’s enviable position as one of the best and
+damaging the world's enviable position as one of the best and
 richest places to live this side of the Imperial Core. Trin has it good,
 and prefers to play safe to ensure things stay that way.
 However, Trin is an economic center, and her government
@@ -11949,15 +11949,15 @@ someone else might make a big score out of a project and that Trin
 might miss out, then the government is willing to invest a little in
 it, just in case it pays off. This attitude puzzles some outsiders, but
 it makes sense to those who grew up in Trin society. They explain
-that ‘When you’re rich, you can afford to throw a little money into
-blue–sky projects. If it’s a bust, nothing is really lost. But once in a
-while you get lucky.’
+that 'When you're rich, you can afford to throw a little money into
+blue–sky projects. If it's a bust, nothing is really lost. But once in a
+while you get lucky.'
 This means that it is often possible to get a small investment out
 of the government of Trin for any project that already has someone
-else’s backing and looks like a reasonable prospect. The concept
-is semi–seriously referred to as ‘insurance against someone else’s
-success’.
-Trin’s Veil Subsector
+else's backing and looks like a reasonable prospect. The concept
+is semi–seriously referred to as 'insurance against someone else's
+success'.
+Trin's Veil Subsector
 Name Statistics Remarks
 Burtson 0104 C462667–8 I Ri NI G
 Squanine 0106 A300550–B I NI G
@@ -11966,7 +11966,7 @@ Pyramus 0108 E566335–2 I Lo NI Lt G
 Thisbe 0109 E4305AD–5 I Po NI De G
 Aramis 0110 B659772–6 I NI G
 Robin 0207 C00059C–C I Ht As G
-D’Mara 0208 E75A798–5 I Wa Lt
+D'Mara 0208 E75A798–5 I Wa Lt
 Kletcher 0209 C525567–9 I NI G
 Tussinian 0301 B678324–7 I Lo NI
 Edenelt 0303 A4638BD–B I G
@@ -12099,7 +12099,7 @@ cc
 
 E
 
-DD’Mara’Mara
+DD'Mara'Mara
 
 E
 
@@ -12152,8 +12152,8 @@ With a little bit of imagination, the possibilities for adventure within
 the Marches is limitless.
 
 Many adventures fall into one of several general types, some of
-which are uniquely ‘Traveller’ whilst others are more generic. Exactly
-what ‘feels right’ to any given Referee or group of players can vary
+which are uniquely 'Traveller' whilst others are more generic. Exactly
+what 'feels right' to any given Referee or group of players can vary
 considerably. Some adventure types are outside the usual Traveller
 experience and may jar with the setting as it is perceived by many
 players. This does not mean that playing a game of this type is
@@ -12168,7 +12168,7 @@ are happy with it, do it.
 
 Motivation, Science and Technology
 Although Traveller has starships, FTL travel and psionic powers, it
-is basically a ‘hard science’ setting. This means that there should
+is basically a 'hard science' setting. This means that there should
 be a reason for everything, even if that reason is unknown or even
 incomprehensible to the players.
 
@@ -12176,7 +12176,7 @@ Where the motivation of non–player characters, even very alien
 ones, follow some kind of logic, the setting becomes that much
 richer and more believable. This does not mean that the players
 will understand everything that happens, nor that the Referee needs
-to have detailed notes on every character’s personality. However,
+to have detailed notes on every character's personality. However,
 the game universe needs to be sufficiently consistent that odd
 behaviour attracts interest.
 
@@ -12214,7 +12214,7 @@ in order to make it both believable and possible to make plans in.
 
 Thus, as an example, unless an artificial gravity field is in use,
 gravity should always work as advertised. Planets and moons will
-follow predictable orbits. This means that when a ship’s sensors
+follow predictable orbits. This means that when a ship's sensors
 pick up an asteroid in an orbit that cannot possibly exist naturally,
 the players know that something odd is going on.
 
@@ -12222,10 +12222,10 @@ This also makes it possible to use logic and good planning to
 assist raw die rolls. If the characters are searching for a lost scout
 vessel and find an asteroid that is off its normal path, a smart
 player may conclude that it has been disturbed by a collision and
-decide to check the charts for the asteroid’s normal orbit and match
+decide to check the charts for the asteroid's normal orbit and match
 its current path with that orbit. The difference will be due to the
 collision and that will give the characters a starting point for their
-search, as their ship’s computer should be able to model possible
+search, as their ship's computer should be able to model possible
 collision parameters and suggest possible vectors for the wreck to
 have bounced off at.
 
@@ -12237,7 +12237,7 @@ arguably, what hard–science games are all about.
 
 Certain kinds of technology are usually downplayed in Traveller.
 These include, but are not limited to, cybertechnology and neural/
-physical enhancements, nanotechnology and ‘magical’ technologies
+physical enhancements, nanotechnology and 'magical' technologies
 like hard holograms. The latter might be possible at extremely high
 technologies but for the most part Traveller takes the view that
 holograms are just light. You can see them, and hear the sounds
@@ -12259,7 +12259,7 @@ orbit travel is by shuttle or landing the ship. Boarders are repelled
 with guns and blades. Hull breaches are manually patched while the
 air blasts out around your ears. And if you want to tow something,
 you have to go over there and manually attach a line.
-This is a good thing. Traveller is about ‘people doing stuff’. Traveller
+This is a good thing. Traveller is about 'people doing stuff'. Traveller
 adventures should center on the characters, not the technology they
 use. Anyone can push a button and tractor the distressed shuttle to
 safety or build a gizmo to fix the escaped nuclear particle problem
@@ -12268,7 +12268,7 @@ the gap to haul the crew out of their wrecked shuttle, or to climb
 carefully past the venting coolant pipes as the radiation counter
 creeps towards a lethal dose.
 As to cybertech and nanotechnology, the general assumption is that
-they are present but not the focus of an adventure. A given Referee’s
+they are present but not the focus of an adventure. A given Referee's
 Traveller universe may make use of neural jacking and cyberware, but
 once again it is far less interesting to jack into a computer system
 from a motel somewhere and obtain the necessary information than
@@ -12279,8 +12279,8 @@ dull game universe, or at least one where the characters are not
 captains of their own fate. A short–term nanotech virus shield
 that allows characters to enter a quarantine zone to perform their
 mission sounds like a useful plot device, and incidentally imposes a
-‘clock’ on the characters. Total immunity to disease due to nanotech,
-or the ability to gulp down nanotech ‘healing potions’ to quick–fix
+'clock' on the characters. Total immunity to disease due to nanotech,
+or the ability to gulp down nanotech 'healing potions' to quick–fix
 combat damage are outside the mainstream Traveller experience.
 That is not to say that your games cannot run like that, merely that
 the baseline Traveller universe does not use these things.
@@ -12289,7 +12289,7 @@ fun. There is no need to undertake interstellar commerce if anything
 needed can be easily produced by nanites. Characters can become
 more or less redundant in a universe where their ship is fixed by
 nanobots every time they crash it or get shot at, or where the super–
-smart ship’s computer can handle the crew’s jobs. What is left for
+smart ship's computer can handle the crew's jobs. What is left for
 the characters to do in such a universe? They will find something, no
 doubt, but a universe where people have to do things for themselves
 has so many more opportunities for adventure.
@@ -12330,7 +12330,7 @@ code is simply the one that best fit, chosen from a list by a survey
 team and possibly not updated in a very long time. Even when the
 code is accurate, it may be misleading.
 For example, travellers may visit a world listed as a dictatorship, to
-find that in fact the ‘dictator’ is in fact a figurehead monarch who
+find that in fact the 'dictator' is in fact a figurehead monarch who
 carries out state functions and ratifies the democratically elected
 government as a nicety of law. Although the world calls itself a
 kingdom and has an actual king, leading the survey team to enter it
@@ -12361,14 +12361,14 @@ of behaviour. People are not suicidally stupid; they may have no
 laws against people marching down the main street in powered
 armor armed with advanced military weapons, but if it seems
 likely that someone is going to start randomly shooting people or
-taking property away from others (‘It’s not stealing if there’s no law,
-right?’) then they may encounter a very robust response.
+taking property away from others ('It's not stealing if there's no law,
+right?') then they may encounter a very robust response.
 
 Zero law can occur in different ways and mean entirely different
 things. Some places are genuine and voluntary anarchies or are
 frontier societies with no formal law or enforcement system. In
 such places it may well be accepted that nobody has a right to give
-orders to anyone else. However, most such places have a ‘code’ of
+orders to anyone else. However, most such places have a 'code' of
 some kind and this normally includes respect for property and other
 people. Going outside the range of acceptable behaviour may not
 be illegal but it may result in the whole town turning against the
@@ -12382,7 +12382,7 @@ are ultimately self–correcting in many cases. Whoever emerges on
 top in the lawless period will usually set some rules and in time this
 becomes the new body of law, however rough and ready it may be.
 
-A world’s population digit gives an indication of the amount of
+A world's population digit gives an indication of the amount of
 people on a planet, but little more than that. It is not possible to tell
 from a UWP code how the population is distributed. A population in
 the tens of millions is normally required for a significant industrial
@@ -12428,7 +12428,7 @@ other adventures, each in a different setting.
 There is a tendency among players to be blinded by the UWP, and
 to treat each dot on the star system hex map as a single location.
 Many times adventurers visit a world and have an adventure there,
-then move on thinking they have ‘done’ that world. To do so is to
+then move on thinking they have 'done' that world. To do so is to
 miss out on the vast potential that each star system offers. There is,
 after all, only so much information that can be conveyed by a UWP
 code and the closer the adventurers get to something, the more
@@ -12446,7 +12446,7 @@ orbital craft or space vessels are available. Thus any moons of the
 mainworld, as well as orbital stations and the Highport, if any, will
 be closely associated with the mainworld. Commercial and scientific
 installations, mining colonies, military bases and similar facilities are
-likely to be set up on a world’s moons. It is not uncommon to mount
+likely to be set up on a world's moons. It is not uncommon to mount
 tracking stations and missile or other weapon platforms on a moon.
 However, further out in the system, different conditions apply.
 Gas giants, if any are present, may have several moons that can
@@ -12476,7 +12476,7 @@ Some star systems contain more than one star, and occasionally
 these companion stars have objects orbiting them. A planet more
 habitable than the mainworld is unlikely, as this would probably
 have been settled instead. However, there may be gas giants (with
-or without moons), planetoids and rocky planets in the ‘companion’
+or without moons), planetoids and rocky planets in the 'companion'
 system, though often there is little more than a few comets. Many of
 these companion systems are uninhabited, but they do make good
 places to hide precisely because they are off the beaten track, and
@@ -12513,7 +12513,7 @@ regular normal–space shipping lanes served by in–system freighters
 and protected by patrol craft.
 
 Unless there is some obvious reason for being in the outsystem, a
-vessel’s presence there is often seen as suspicious by patrol ships.
+vessel's presence there is often seen as suspicious by patrol ships.
 It is always possible (though unlikely) to encounter an Imperial
 Navy vessel making a sweep of the outsystem region as part of a
 patrol deployment.
@@ -12568,7 +12568,7 @@ a cliff is not usually a problem, but what about doing it in vacuum?
 
 Whenever the characters are forced to use suits or breathing
 apparatus, the risk of suit damage adds an extra layer of suspense
-to an adventure, and the finite nature of air supply is a good ‘clock’
+to an adventure, and the finite nature of air supply is a good 'clock'
 to keep the adventure moving. Conflict can be provoked by putting
 the characters in a position where they have almost, but not quite,
 enough life support equipment for everyone.
@@ -12603,7 +12603,7 @@ criminal charges (trumped–up or entirely real) might be dropped in
 return for making some other problem quietly go away.
 
 For shipowners with a cargo to deliver, delay can be devastating.
-The threat of a lawsuit or a similar reason why the characters’ ship
+The threat of a lawsuit or a similar reason why the characters' ship
 will have to stay in port until the matter is resolved can be a potent
 one as a commercial ship sitting on the ground is haemorrhaging
 money even if cargoes and passengers are not lost to vessels that
@@ -12616,14 +12616,14 @@ removing the obstacle can become a major character motivation,
 causing the players to generate plots on behalf of the Referee.
 
 Legal and administrative opposition has one other advantage for the
-‘bad guys’; their dirty work is done by innocent cops, port workers
+'bad guys'; their dirty work is done by innocent cops, port workers
 and customs officials. If the characters take the direct approach and
 try to intimidate these people or simply shoot them, they will come
 into conflict with law enforcement, port authority security and maybe
 even the planetary army or the Imperial Marine Corps. Even if they
 survive the results, this creates new problems for the travellers with
 no effort needed on the part of their enemies. If the Travellers are on
-a Ministry of Justice ‘most wanted’ list and the Navy is searching for
+a Ministry of Justice 'most wanted' list and the Navy is searching for
 their ship, their task (whatever it is) becomes virtually impossible.
 
 (^128) AAADDVENTURINGDVVEENNTTUURRIINNGG
@@ -12646,9 +12646,9 @@ waterfall.
 Similarly most animals will not attack a human unless provoked,
 frightened or challenged. Characters who insist on shooting at the
 local wildlife may be recognized as a threat and attacked by some
-creatures or may attract predators to the sounds of their victims’
+creatures or may attract predators to the sounds of their victims'
 distress. It is often possible to avoid conflict with animals or frighten
-them off with noise, fire or simply by waving one’s arms about.
+them off with noise, fire or simply by waving one's arms about.
 Characters who are not paying attention may blunder into the lair
 of a concealed creature or find that they have managed to corner
 a savage predator without meaning to. A little bit of research at a
@@ -12663,7 +12663,7 @@ around and trust takes time to build, but a little simple courtesy
 and respect for local customs can help a lot in avoiding trouble
 and obtaining cooperation. Characters sometimes forget this and
 upset the people they meet – often the only consequence of this is
-an increase in the locals’ antipathy towards offworlders... but not
+an increase in the locals' antipathy towards offworlders... but not
 always.
 The people met by the travellers should respond to what they do
 and say in a logical fashion. If the characters give offence and
@@ -12675,8 +12675,8 @@ lone attacks. Most people will be unwilling to get involved in a fight
 lead to escalation, of course, and as soon as the travellers start
 threatening locals with weapons, things are liable to turn nasty.
 
-Traveller does not concern itself unduly with concepts like ‘play
-balance’. Instead, the opposition that presents itself will be logical –
+Traveller does not concern itself unduly with concepts like 'play
+balance'. Instead, the opposition that presents itself will be logical –
 though things will not always be exactly as the players suppose. This
 means that if the characters attack an isolated farm for some reason
 they are likely to be dealing with a bunch of surprised, frightened
@@ -12688,10 +12688,10 @@ his Advanced Combat Rifle.
 A fair way to deal with this sort of thing, if it happens at random, is
 for the Referee to decide what the likely level of opposition would be
 and then secretly roll two dice. The dice give the answer to a question.
-In this case the question is ‘how dangerous is this situation?’
+In this case the question is 'how dangerous is this situation?'
 
 A roll of near to 7 means that the situation is more or less as would
-be expected. Low is ‘less’ and high is ‘more’. So on a result of 3 on
+be expected. Low is 'less' and high is 'more'. So on a result of 3 on
 this roll, the opposition is totally clueless and panics at the first sign
 of trouble. An 11, on the other hand, suggests that this is indeed the
 home of Corporal Deadly, ex–army trooper turned survivalist and
@@ -12707,7 +12707,7 @@ through customs by walking through with a live grenade held with
 the pin out, but the character doing this is not going to be allowed
 to get away with it.
 
-Exactly what the response might be depends on the world’s law
+Exactly what the response might be depends on the world's law
 and tech levels, and a range of other factors that can be abstracted
 by using the above dice throw method. There will be some sort of
 response though, and it will be logical, not play–balanced. This means
@@ -12780,8 +12780,8 @@ Ine Givar methods vary, and they work through a variety of front
 organizations. Some of these are legal and act as support networks,
 gathering information and funds, and providing a cover for the active
 cells to use when moving around. Others are overtly anti–Imperial
-but take the guise of honorable ‘freedom fighters’ and ‘resistance
-movements’ rather than terrorists. This is a useful cover as there
+but take the guise of honorable 'freedom fighters' and 'resistance
+movements' rather than terrorists. This is a useful cover as there
 are many dissident groups and active rebellions that would never
 deal with terrorists but are willing to accept help from similarly
 inclined fellow revolutionaries. These fronts allow other groups to
@@ -12801,8 +12801,8 @@ indiscriminate; that would alienate the people that the organization
 hopes to win over. Instead the organization generally targets
 establishment figures and those who support the Imperium. The
 Ine Givar is willing to blow up a school bus if it contains the children
-of Imperial personnel, but always tries to spin its attacks as ‘made
-necessary by illegal Imperial occupation of our world’.
+of Imperial personnel, but always tries to spin its attacks as 'made
+necessary by illegal Imperial occupation of our world'.
 
 The Ine Givar is dangerous because it is both local and widespread.
 That is, it has considerable resources and can reach areas thought
@@ -12832,9 +12832,9 @@ reveals a rather more serious situation.
 Arden is working towards acquiring a small TL9 industrial base to
 allow the construction of Jump–capable vessels, but in the meantime
 starships can be obtained offworld. Much more important is the
-fact that Arden’s position between the Imperium and the Zhodani
+fact that Arden's position between the Imperium and the Zhodani
 Consulate could be of great significance in any future conflict. Jump–
-4 is the standard for many navies’ warships, and Zhodani jump–4
+4 is the standard for many navies' warships, and Zhodani jump–4
 ships could refuel at Arden and be in the Denotam system before
 the Imperials knew they had left their bases in Querion subsector.
 While this scenario is not likely, it is a potential threat and the
@@ -12881,12 +12881,12 @@ foreigners can interfere with the navigation rights of vessels.
 Of course, none of the regional powers is a monolithic organization,
 especially not the Sword Worlds. As a result there may be factions
 who actually do want a war, or who will pursue their own agenda
-without regard to the ‘big picture’. Incidents are fairly common,
+without regard to the 'big picture'. Incidents are fairly common,
 creating a full–time job for diplomats and nobles as they try to keep
 the peace without giving away too much. This sometimes requires
 covert black–ops missions to deal with a situation that cannot be
 publicly acknowledged, let alone handled.
-There are also numerous ‘haters’ in the mix. One example is an
+There are also numerous 'haters' in the mix. One example is an
 ex–Imperial Navy officer who lost comrades to Zhodani action
 in the Fourth Frontier War and now leads a raider group striking
 across the border at the enemy. They are not pirates though, never
@@ -12898,11 +12898,11 @@ live on the border and have reasons to resent old enemies. They tend
 to regard anyone who is not with them as an enemy sympathiser and
 are dangerous to the stability of the region. But the Imperium must
 tread carefully in dealing with these people because acting against
-them can be seen as acting for the ‘enemy’. And there are those who
+them can be seen as acting for the 'enemy'. And there are those who
 think that such groups are covertly approved by the Imperial nobility
 since they cause damage to historical and potentially future enemies.
 It suits the purposes of foreign diplomats to say they believe this,
-too. Note that the Zhodani Consulate has far less ‘haters’ than the
+too. Note that the Zhodani Consulate has far less 'haters' than the
 Imperium or the Sword Worlders.
 There are also significant tensions between the Darrians and the
 Sword Worlders, not least over the ownership of the Entropic
@@ -12918,7 +12918,7 @@ AADDVENTURINGVENTURING^131
 
 Travellers operating in the border region can run afoul of all kinds of
 trouble caused by incidents they have no control over or did not even
-know about, but there are opportunities too. ‘Hater’ groups need
+know about, but there are opportunities too. 'Hater' groups need
 weapons and supplies, and will pay well for military–grade supplies.
 Meanwhile the authorities may want information on haters on their
 own side, and may offer a bounty for bringing down foreign ones so
@@ -12938,7 +12938,7 @@ Trexalon and Collace have for many years now been involved in
 a cold war. This started out as a cooling of relations caused by
 differing attitudes towards the prospect of Imperial expansion into
 District 268, but has now reached the point of outright enmity. Both
-worlds routinely blacken the other’s reputation with propaganda,
+worlds routinely blacken the other's reputation with propaganda,
 yet officially claim that relations are cordial and that there is nothing
 more going on than a perfectly understandable difference in
 viewpoints.
@@ -12957,8 +12957,8 @@ by the use of influence or less legal means.
 Collace has the advantage of being friendly to the immensely powerful
 Imperium, but this also places restrictions on what Collace can get
 caught doing. Collace must be seen to play at least somewhat fair,
-or at a minimum to only do what is justified by Trexalon’s actions.
-Many of Collace’s long–term plans involve putting Trexalon in a
+or at a minimum to only do what is justified by Trexalon's actions.
+Many of Collace's long–term plans involve putting Trexalon in a
 position where her agents must do something that the Imperium
 will disapprove of, thus clearing the way for more direct action that
 is now seen as justified.
@@ -13019,7 +13019,7 @@ invest in their own economy.
 However, this situation is not always to the liking of the local
 government or population. On many frontier worlds and outside
 the Imperium, the corporations play fast and loose with the rules. A
-‘world government’ that actually rules only a few thousand people in
+'world government' that actually rules only a few thousand people in
 a small corner of the planet can do little about a major corporation
 that sets up a mining base containing a town with hundreds of
 employees in it, on an entirely different continent. While illegal in
@@ -13033,7 +13033,7 @@ sufficient to make a good port a lucrative investment. Of course,
 better ports tend to be soon followed by larger ships operated by
 bigger companies, causing the smaller operators to move on to
 more marginal routes where they can still compete.
-This phenomenon has been referred to as ‘corporation creep’ and is
+This phenomenon has been referred to as 'corporation creep' and is
 a natural consequence of a developing economy in a given region.
 The Imperium as a whole benefits from such improvements in the
 economic situation, but it can be bad for local businesses and even
@@ -13089,23 +13089,23 @@ Megacorporations or world governments. As a rule, intrigue and
 industrial espionage are more common than large–scale violence
 in such disputes.
 On a grander scale, there is a high–level dispute ongoing in the
-Marches which can spill over into other affairs. The ‘Mora–Regina
-Split’ as it is known has to do with how the sector is governed and
-defended. Ironically, the ‘Regina’ faction, headed by Duke Norris of
+Marches which can spill over into other affairs. The 'Mora–Regina
+Split' as it is known has to do with how the sector is governed and
+defended. Ironically, the 'Regina' faction, headed by Duke Norris of
 Regina, wants the fleet pulled back from the border and concentrated
-in a rear position near Mora, while the ‘Mora’ faction wants to keep
+in a rear position near Mora, while the 'Mora' faction wants to keep
 most of the heavy units well forward in the border region, including
 the area around Regina.
 
 AADDVENTURINGVENTURING^133
 
-The dispute is much deeper than whether a ‘crust’ or ‘elastic’
+The dispute is much deeper than whether a 'crust' or 'elastic'
 defence strategy is most appropriate, however. The Regina faction,
 which has supporters all over the sector and especially in less
 developed regions, maintains that resources, investment and
 military assets are all unfairly concentrated around Mora, while
 the Mora faction dismisses this as a pointless quibble. Mora and
-Trin are more developed than Regina and Jewell because that’s how
+Trin are more developed than Regina and Jewell because that's how
 history happened, say the Mora–ites, and the provincials should
 spend more time on managing their investments better and less
 on moaning about a situation that developed as a consequence of
@@ -13199,7 +13199,7 @@ big questions about the Ancients could retire on the proceeds, and
 even lesser finds are likely to be very valuable. They may also lead to
 a world of trouble.
 
-The other common mystery is the ‘lost ship’. Some legends are
+The other common mystery is the 'lost ship'. Some legends are
 well known, such as the loss of the INS Kinunir on an apparently
 routine cruise in 1088. Documentaries, video dramas and even a
 popular song have been made about this vessel, even though no
@@ -13212,10 +13212,10 @@ Cadiz task force, a multiship supply convoy that failed to reach its
 (^134) AAADDVENTURINGDVVEENNTTUURRIINNGG
 destination in 984, during the Third Frontier War. One ship of the
 task force turned up wrecked by hostile action in a system well off
-the task force’s route. The only clue to the fate of the remainder of
-the group was an epic poem written by one of the wrecked ship’s
+the task force's route. The only clue to the fate of the remainder of
+the group was an epic poem written by one of the wrecked ship's
 crew, which spoke of shipwreck and a winter spent somewhere
-referred to as Twilight’s Peak. The Gyro Cadiz’ cargo was allegedly
+referred to as Twilight's Peak. The Gyro Cadiz' cargo was allegedly
 worth a fortune and has never been found.
 However, the most well–known rumor about starship losses
 concerns the Abyss Rift in Lanth and Vilis subsectors. Numerous
@@ -13223,7 +13223,7 @@ vessels have been lost without trace in that region, and others have
 reported anomalous conditions, minor Misjumps and a number of
 other strange phenomena which, statistically, make the Abyss Rift
 one of the most dangerous regions of space to transit. Despite this,
-the legend of ‘lost treasure ships of the Abyss Rift’ draws bands of
+the legend of 'lost treasure ships of the Abyss Rift' draws bands of
 adventurers from time to time.
 Travellers can encounter mysteries by accident, stumbling on odd
 artefacts or strange places while engaged in some entirely different
@@ -13298,7 +13298,7 @@ equipment sabotaged and the contracted delivery starship detained
 in port a parsec away for three weeks fighting off a spurious legal
 challenge.
 
-Although these measures will not kill the opposition’s operation
+Although these measures will not kill the opposition's operation
 in a given market sector, it will disrupt it and reduce consumer
 confidence, hopefully creating an opportunity for a competitor to
 steal a chunk of the marketplace.
@@ -13321,7 +13321,7 @@ Vargr, Aslan and Droyne
 Most Vargr within the Marches are Imperial citizens and are involved
 in all the same sort of activities as other Imperial people. However,
 there are groups within the Marches dedicated to various causes,
-most notably the advancement of their affiliated states ‘back home’
+most notably the advancement of their affiliated states 'back home'
 in the Vargr Extents.
 
 Most of these groups are fairly harmless, being concerned with
@@ -13347,8 +13347,8 @@ criminal groups who happen to be Vargr.
 The vast majority of Vargr in the Imperium are as loyal as anyone else
 and have nothing to do with corsairs, smugglers and assorted bad
 sorts described above. It should be noted, however, that few Vargr
-find ‘doggy’ jokes funny, and racist humor of this sort is frowned
-on in most places. This does not stop racist Vargr making ‘monkey’
+find 'doggy' jokes funny, and racist humor of this sort is frowned
+on in most places. This does not stop racist Vargr making 'monkey'
 references when talking to humans. However, for the most part
 Vargr and humans get along and recognize one another as people
 first and foremost, with species coming a long way second.
@@ -13357,7 +13357,7 @@ There are some populations of Aslan within the Marches. Some
 are citizens of non–Aslan worlds, having settled there and been
 integrated into the local culture. The Darrian Confederation has
 a sizable minority of Aslan absorbed in this way. Other worlds
-have small enclaves of ‘unofficial colonists’ where ihatei groups
+have small enclaves of 'unofficial colonists' where ihatei groups
 have landed in a remote location and claimed it for their own.
 Dislodging them can cause problems with their clan, so many world
 governments just let them stay or even offer to recognize their claim
@@ -13421,7 +13421,7 @@ ships of this kind.
 Some characters will fulfil important crew positions such as engineers
 or pilots but others might be aboard for different reasons. Strong,
 tough guys may double as cargo handlers, streetwise characters
-can help find cargo or ‘scrounge’ spare parts when they are needed.
+can help find cargo or 'scrounge' spare parts when they are needed.
 Everyone can contribute in some way to keeping the ship flying.
 
 It is not always possible to make a profit by carrying freight or
@@ -13448,7 +13448,7 @@ Referee to introduce adventures, while leaving the characters free to
 do as they please the rest of the time.
 
 A variant on this theme might be to impose conditions on an ex–
-Scout character’s ownership of a scout ship. Again, most of the time
+Scout character's ownership of a scout ship. Again, most of the time
 the crew are free to do as they wish but the Scout Service will require
 either the fulfilment of tasks from time to time or the return of the
 ship.
@@ -13465,7 +13465,7 @@ A well–run game can be very entertaining, as a rule most players
 find it more interesting to play aboard a starship than in an army
 unit and using fairly small ships are usually best. Tooling around
 the sector in a heavy cruiser, sending the marines in to deal with
-problems rather than getting in amongst it, is not to everyone’s
+problems rather than getting in amongst it, is not to everyone's
 taste.
 
 Naval games of this sort often involve a lot of politics and difficult
@@ -13486,12 +13486,12 @@ AADDVENTURINGVENTURING^137
 intelligence, a prototype vessel undergoing testing, or a ship used
 to dump misfit or no–hoper officers and given a range of odd jobs
 to keep them out of trouble. The converse of the latter is also a
-possibility – the sector admiral’s elite trouble–shooter squad,
+possibility – the sector admiral's elite trouble–shooter squad,
 handling the dirty jobs that the rest of the Navy can not be trusted
 with. Such a vessel might even carry oddball characters who do not
 fit in the chain of command but prove useful from time to time.
 
-A ‘Scout Cruiser’ game could also run in this manner. The advantage
+A 'Scout Cruiser' game could also run in this manner. The advantage
 there is that Scout Service ships tend to be run on a much more
 informal basis than naval ones, and may well have civilian experts
 aboard as part of the mission. Scout ships tend also to be much
@@ -13545,12 +13545,12 @@ squad that deals with the things that the mainstream mercs cannot
 Noble/Diplomatic
 Player–character nobles can be accommodated in almost any sort of
 Traveller game, but adventures dealing specifically with the nobility
-are a different proposition. This sort of game is not to everyone’s
-taste as it tends to involve a lot of intrigue and ‘talking adventures’.
+are a different proposition. This sort of game is not to everyone's
+taste as it tends to involve a lot of intrigue and 'talking adventures'.
 Opportunities for direct action are not always present and the need
 to follow etiquette can be rather frustrating for some players. The
 other problem is that unless every player has a noble character,
-there will be a ‘chain of command’ issue much like that encountered
+there will be a 'chain of command' issue much like that encountered
 in naval or military games.
 
 The adventuring party in a noble–based game will normally center
@@ -13563,7 +13563,7 @@ their unique skills.
 However, being a noble is not all about intrigue at court. Nobles are
 often given difficult tasks to carry out. Sometimes but not always,
 they are also assigned resources to use. The rest of the time they
-must simply cope. Whether simply ‘on their travels’ or assigned to a
+must simply cope. Whether simply 'on their travels' or assigned to a
 particular job, a noble and his or her retinue can end up confronting
 a wide range of situations.
 A noble campaign can thus range from investigating allegations of
@@ -13573,12 +13573,12 @@ in a disaster zone and having to cobble together a plan to save lives
 or leading an impromptu assault on a pirate stronghold to rescue
 hostages before the corsairs can make good their escape.
 Freelance
-The other classic Traveller campaign is the ‘team of freelance
-experts’ game. This differs from a Free Trader game in that the team
+The other classic Traveller campaign is the 'team of freelance
+experts' game. This differs from a Free Trader game in that the team
 does not need to concern itself with making enough money to keep
 a ship flying. This may suit players who do not like keeping track of
-the ship’s accounts. This does not mean that the team will not have
-a vessel. They may, and it could be anything from a noble’s yacht to
+the ship's accounts. This does not mean that the team will not have
+a vessel. They may, and it could be anything from a noble's yacht to
 a laboratory ship. The humble scout/courier is also a good choice.
 If a ship is involved, then some of the Free Trader comments apply,
 however – the ship may provide too much freedom to suit the game
@@ -13593,7 +13593,7 @@ be able to circumvent problems a combat–heavy team chooses to
 steamroller. There is, in the final analysis, no one way to succeed in
 a good Traveller adventure. A team that plays to its strengths will
 ultimately be successful.
-The ‘Freelance’ style of game can take characters anywhere in
+The 'Freelance' style of game can take characters anywhere in
 the Marches. They might spend time on the frontier surveying
 prospective colonies, search for lost starships further into the
 Imperium and end up at the sector capital involved in a complex
@@ -13621,10 +13621,10 @@ own take on what a given world looks like, it becomes YTU. Only game designers n
 only in official products. Everyone else is free to do whatever they like with it, including game designers playing around with different
 concepts.
 
-Is this a good time to mention that I ran a one–off a little while back where the Darrians blew up Biter’s sun with the Star Trigger? It was
+Is this a good time to mention that I ran a one–off a little while back where the Darrians blew up Biter's sun with the Star Trigger? It was
 the reason WHY that made it interesting...
 
-Nobody has the right to tell you what’s right or wrong for your own Traveller setting. You want a black hole in the Abyss Rift? No problem.
+Nobody has the right to tell you what's right or wrong for your own Traveller setting. You want a black hole in the Abyss Rift? No problem.
 There is not one in the OTU and my physics degree is squealing in protest, but it is YTU. You want a wormhole from the Marches to
 the Solomani Rim? Why not? Blow up a couple of stars with the Star Trigger? Knock yourself out. Add a few extra worlds or move them
 around? Feel free. Heck, you can dress the Imperial Navy in pink and orange stripes if you like.
@@ -13779,7 +13779,7 @@ Junidy 71
 
 ###### K
 
-K’Kree 11
+K'Kree 11
 Keng 67
 
 ###### L
@@ -13948,7 +13948,7 @@ Travellers and Travelling 5
 Traveller Adventures 122
 Trexalon Technical Consortium 53
 Trin 119
-Trin’s Veil Subsector 118
+Trin's Veil Subsector 118
 Tukera Lines, LIC 23
 
 ###### V
@@ -13978,13 +13978,13 @@ SIGNS AND PORTENTS
 # NNEEEDED EEVENVEN MMOREORE TTRRAVELLERAVELLER??
 
 RELEASED EVERY MONTH AND FULL OF FRESH AND EXCITING MATERIAL FOR YOUR FAVOURITE ROLEPLAYING GAMES, SIGNS
-AND PORTENTS IS MONGOOSE PUBLISHING’S ONLINE MAGAZINE. NOT ONLY IS IT THE FIRST AND BEST PLACE TO LOOK FOR
+AND PORTENTS IS MONGOOSE PUBLISHING'S ONLINE MAGAZINE. NOT ONLY IS IT THE FIRST AND BEST PLACE TO LOOK FOR
 BREAKING NEWS ABOUT TRAVELLER PRODUCTS BUT YOU CAN FIND NEW MATERIAL FOR YOUR TRAVELLER GAMES RIGHT THERE
-IN ITS DIGITAL PAGES. AND IT’S FREE.
+IN ITS DIGITAL PAGES. AND IT'S FREE.
 
 FREE.
 
-BECAUSE WHEN YOU’VE GOT A CR. 200,000 MORTGAGE TO PAY ON THAT SHINY NEW STARSHIP, FREE MEANS A LOT.
+BECAUSE WHEN YOU'VE GOT A CR. 200,000 MORTGAGE TO PAY ON THAT SHINY NEW STARSHIP, FREE MEANS A LOT.
 
 [http://www.mongoosepublishing.com](http://www.mongoosepublishing.com)
 

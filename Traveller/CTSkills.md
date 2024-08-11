@@ -99,11 +99,11 @@ The Engineer skill is used to operate and maintain spacecraft and advanced vehic
 
 #### Specialities
 
-- **Maneuver Drive (M-Drive)**: Maintaining and operating a spacecraft’s maneuver drive, as well as its artificial gravity.
-- **Jump Drive (J-Drive)**: Maintaining and operating a spacecraft’s Jump drive.
+- **Maneuver Drive (M-Drive)**: Maintaining and operating a spacecraft's maneuver drive, as well as its artificial gravity.
+- **Jump Drive (J-Drive)**: Maintaining and operating a spacecraft's Jump drive.
 - **Electronics**: All forms of computing hardware, sensors and other electronics and electrics.
 - **Life Support**: Covers oxygen generators, heating and lighting and other necessary life support
-- **Power**: Maintaining and operating a spacecraft’s power plant.
+- **Power**: Maintaining and operating a spacecraft's power plant.
 
 #### Explosives
 
@@ -129,9 +129,9 @@ The various specialities of this skill deal with the operation of ship-mounted w
 #### Specialities
 
 - **Turrets**: Operating turret-mounted weapons on board a ship.
-- **Ortillery**: An abbreviation of Orbital artillery – using a ship’s weapons for planetary bombardment or attacks on stationary targets.
-- **Screens**: Activating and using a ship’s energy screens like Black Globe generators or meson screens.
-- **Capital Weapons**: Operating bay or spinal mount weapons on board a ship.
+- **Ortillery**: An abbreviation of Orbital artillery – using a ship's weapons for planetary bombardment or attacks on stationary targets.
+- **Screens**: Activating and using a ship's energy screens like Black Globe generators or meson screens.
+- **[[Capital]] Weapons**: Operating bay or spinal mount weapons on board a ship.
 
 #### Gun Combat
 
@@ -212,7 +212,7 @@ The Pilot skill specialities cover different forms of spacecraft.
 
 - **Small Craft**: Shuttles and other craft under 100 tons.
 - **Spacecraft**: Trade ships and other vessels between 100 and 5,000 tons.
-- **Capital Ships**: Battleships and other ships over 5,000 tons.
+- **[[Capital]] Ships**: Battleships and other ships over 5,000 tons.
 
 #### Physical Sciences
 

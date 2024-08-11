@@ -1,4 +1,4 @@
-This alliance of free traders offers many benefits to independent merchants, including increased buying power, client networking, increased sales and a wider customer base. The more members that join, the greater the benefits. Members pay an annual fee to be in the Arkesh Spacers and they have to follow the traders’ code of conduct. This means that anyone dealing with the member company can be confident that they are dealing with a legitimate and trusted business.
+This alliance of free traders offers many benefits to independent merchants, including increased buying power, client networking, increased sales and a wider customer base. The more members that join, the greater the benefits. Members pay an annual fee to be in the Arkesh Spacers and they have to follow the traders' code of conduct. This means that anyone dealing with the member company can be confident that they are dealing with a legitimate and trusted business.
 
 The code of conduct that all members must adhere to is in place to ensure that all members remain politically neutral and operate in accordance with both Imperial High Law and the local laws of the worlds on which they trade. The code also states that members should log their planned travel routes where possible at Arkesh Spacer facilities. This allows the Arkesh Spacers to analyse trade routes and ultimately provide better services and facilities where trade is most common.
 
@@ -16,7 +16,7 @@ The Arkesh Spacers Operations Centre is the main corporate office on [[Gougeste]
 
 > [!info]+ ASOC SECURITY ^asocsecurity
 >
-> There are two [[#ASOC SECURITY GUARDS]] who patrol the building and another two inside the security room who monitor the security cameras. For every attempt made to bypass the locks or security systems there is a one in six chance of the guards patrolling that area. If the guards are injured, it will reduce the players’ chance of getting any cooperation from the Arkesh Spacers later on.
+> There are two [[#ASOC SECURITY GUARDS]] who patrol the building and another two inside the security room who monitor the security cameras. For every attempt made to bypass the locks or security systems there is a one in six chance of the guards patrolling that area. If the guards are injured, it will reduce the players' chance of getting any cooperation from the Arkesh Spacers later on.
 >
 > With a successful Computers check DM –4, the blueprints to the building can be obtained from the construction company. Other security procedures can be found out by subtle observation and talking to employees. With enough information the players should be able to determine a security flaw and gain access without being detected.
 >
@@ -36,7 +36,7 @@ One of the most popular bars for employees of the Arkesh Spacers, this large est
 
 ## Oasis
 
-This drinking establishment can be found in the Commercial Dome near the access tunnels to the starport and is popular with travellers and traders. It is often the first stop for people who have recently arrived but it does have a fair amount of regulars too. The atmosphere inside ‘The Spacers’ is usually loud and a little rough but the place does have a certain charm. Due to the free traders and merchants who can always be found here, it is a good place to make contacts.
+This drinking establishment can be found in the Commercial Dome near the access tunnels to the starport and is popular with travellers and traders. It is often the first stop for people who have recently arrived but it does have a fair amount of regulars too. The atmosphere inside 'The Spacers' is usually loud and a little rough but the place does have a certain charm. Due to the free traders and merchants who can always be found here, it is a good place to make contacts.
 
 ---
 

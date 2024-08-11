@@ -18,7 +18,7 @@ HIS GRACE, THE DUCAL HEIR, ARVINEN ELIOS OKHOTNIKOV
 ![[Okhotinikov_Portrait.jpg|200]]
 [[Okhotinikov_Portrait.jpg|Image]]
 
-The ducal heir, or ‘your grace’ as the Travellers are permitted to call him, is a competent outdoorsman, although by no means an expert, and an excellent shot.
+The ducal heir, or 'your grace' as the Travellers are permitted to call him, is a competent outdoorsman, although by no means an expert, and an excellent shot.
 
 He is obviously not a person who has ever wanted for anything in his life and he tends to inflict his elevated status upon those around him.
 
@@ -31,4 +31,4 @@ Admin 1, Animals (handling) 3, Athletics (endurance) 1, Carouse 2, Gun Combat (s
 
 EQUIPMENT
 Binoculars, Canteen, Portable Hammock, Survival Kit, Sleeping Bag, Tarpaulin Weapons: Revolver (3D-3), V-Rifle (variable), Machete (2D)
-Armor: Hunter’s Field Garb (+4)
+Armor: Hunter's Field Garb (+4)

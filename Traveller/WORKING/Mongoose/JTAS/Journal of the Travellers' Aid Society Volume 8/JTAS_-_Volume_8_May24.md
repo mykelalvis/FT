@@ -1,4 +1,4 @@
-Welcome to the Journal of the Travellers’ Aid Society, your indispensable
+Welcome to the Journal of the Travellers' Aid Society, your indispensable
 guide to adventuring in the Far Future.
 
 Each volume is a treasure trove of information and game additions for
@@ -40,10 +40,10 @@ The
 The
 ```
 
-of the Travellers’ Aid Society
+of the Travellers' Aid Society
 
 ```
-of the Travellers’ Aid Society
+of the Travellers' Aid Society
 ```
 
 ## JJJournal
@@ -55,7 +55,7 @@ The
 ```
 
 ```
-of the Travellers’ Aid Society - Volume 8
+of the Travellers' Aid Society - Volume 8
 ```
 
 9 781913 076719
@@ -113,7 +113,7 @@ Atichnae 33
 Ynchaeir 79
 Giant Scuttlefish 127
 CENTRAL SUPPLY
-The Gauss Rifle’s Big Brother 19
+The Gauss Rifle's Big Brother 19
 Omicron: The Mythical Weaponsmith 71
 CHARTED SPACE
 Caldos: Lost Oasis 2
@@ -125,7 +125,7 @@ Sojourner Light Trader 13
 Talking About Turrets 76
 The Pink Diamond 81
 PATRONS
-Guerraedzahkhue ‘Ed’ Zhaerdeng 27
+Guerraedzahkhue 'Ed' Zhaerdeng 27
 TRAVELLING
 The Hunter Career 35
 VEHICLE HANDBOOK
@@ -150,7 +150,7 @@ Printed in China.
 
 The
 
-of the Travellers’ Aid Society
+of the Travellers' Aid Society
 
 ## JJ
 
@@ -327,7 +327,7 @@ would be nothing more than gas giant stopovers on a jump-1 main
 in the Imperium, might have hidden value in the wilds of the Void.
 Caldos (Dpres subsector in the Trojan Reach: B530879-6) is just that
 type of system. Despite its rather humble appearance, it is a nexus
-through which fortunes flow. Caldos’ location in the region known as
+through which fortunes flow. Caldos' location in the region known as
 the Dustbelt, and proximity to regional powers Acis and Tyr, have given
 it strategic importance that it would otherwise not possess. Without
 control of Caldos, one cannot dominate the Dustbelt.
@@ -344,7 +344,7 @@ was like 2,500 years ago. Much of this history is lost but chronicles of
 the great works and ambitions of its first ruler have survived the ages.
 
 Most of the artefacts of the Sindalian epoch have been buried in the
-dust of Caldos’ countless sandstorms, fallen into the gravity wells of its
+dust of Caldos' countless sandstorms, fallen into the gravity wells of its
 gas giants or plunged into the fiery heart of its bright star, Caurchlan
 Contigo. Those that remain are evidence of a progressive and
 ambitious leader who sought to create a paradise among the stars.
@@ -352,7 +352,7 @@ ambitious leader who sought to create a paradise among the stars.
 When Terran colonists poured into the Trojan Reach thousands of years
 ago, its most habitable planets were settled first. Colonists claimed
 worlds that had plentiful liquid water, a breathable atmosphere and a
-stable primary star. The region’s less optimal systems were bypassed
+stable primary star. The region's less optimal systems were bypassed
 during the first wave.
 
 Early in the second wave, in approximately -2025, an industrialist by
@@ -361,10 +361,10 @@ Caldos as the place where she would build paradise. Where others saw
 an abysmal ball of rock and sand with a paltry atmosphere and a star
 that was too bright and hot, she saw the cradle of utopia.
 
-Madjiyb was drawn to the deep scar that ran along Caldos’ equator.
+Madjiyb was drawn to the deep scar that ran along Caldos' equator.
 This massive crag, nearly encircling the planet, was named the Valles
 Caldos. Its average depth was five kilometers but it ran as deep as 10
-kilometers in some places. The Valles’ tributary canyons run north and
+kilometers in some places. The Valles' tributary canyons run north and
 south like stitches along the edge of a great gash.
 
 Madjiyb had been a belter by trade, making her fortune mining the
@@ -386,28 +386,28 @@ feed billions.
 As Madjiyb oversaw her pet project at Valles, her delegates were
 given wide latitude to create industry and housing for the masses of
 colonists who would come to Caldos. They came in droves, settling the
-planet and prospering under its liberal financial rules. Caldos’ fortuitous
+planet and prospering under its liberal financial rules. Caldos' fortuitous
 position in the Sindalian Main made it an optimal trade hub.
 
 Madjiyb sought to build a society as generous as it was prosperous
 and she made sure that quality services, education and welfare were
 available to all Caldosian citizens. Where she saw corruption, she
 appointed trusted ministers to ferret it out. When a project failed, she
-scuttled it and tried something different. She recruited the region’s
+scuttled it and tried something different. She recruited the region's
 best and brightest to oversee her public works projects. Having made
 a vast fortune in belt mining, Madjiyb showed little interest in new
 entrepreneurial ventures, instead focusing on the creation of what she
 imagined to be a perfect society.
 
-At the system’s largest gas giant, Burge Velgut, she built massive
+At the system's largest gas giant, Burge Velgut, she built massive
 refuelling barges that provided wilderness refuelling assistance to
-starships. Velgut’s gravity is too great for ships with less than 3G of
+starships. Velgut's gravity is too great for ships with less than 3G of
 thrust to use for skimming. Madjiyb was afraid that the inability of
 starships to refuel at the gas giant nearest the system mainworld
 would prevent visitors from coming. Visiting ships docked with the
 barges much like they would an orbital starport. Starship captains
 would open their fuel skimmers as the barges descended into the
-upper atmosphere of Velgut, basically ‘dipping’ the attached starships
+upper atmosphere of Velgut, basically 'dipping' the attached starships
 into an ocean of fuel. Many historians have balked at this eccentric
 
 creation. Why had Madjiyb not simply created a refuelling station at
@@ -419,7 +419,7 @@ crews and transient communities who lived on the immense refuelling
 craft. You did not just stop over at Caldos. You were welcomed and
 drawn into a community and embraced by its culture.
 
-In close orbit of Caurchlan Contigo, the system’s solitary star, engineers
+In close orbit of Caurchlan Contigo, the system's solitary star, engineers
 built immense stellar battery platforms, each over 200,000 tonnes in
 displacement. Speckled with thousands of capacitors, they collected
 stellar energy that was relayed to Caldos using laser arrays. The
@@ -436,7 +436,7 @@ Terra, were cloned from their DNA and housed in these complexes.
 THE GOLDEN AGE OF CALDOS: CA. -
 Maglev trains and gliders provided public transit and two downports
 were constructed to manage the interstellar traffic. A specialized
-underground transportation system shipped the planet’s agricultural
+underground transportation system shipped the planet's agricultural
 products from automated farming facilities at the equator to the cities
 and starports in the northern climes for consumption by the population
 or shipment offworld.
@@ -445,7 +445,7 @@ Like any society Caldos had its problems, yet the vast majority of
 Caldosian citizens led peaceful, prosperous lives. Being a cutting-edge
 interstellar society was a source of great pride for most. Caldos enjoyed
 a rather harmonious existence in the Sindalian Empire, reaping the
-benefits of membership, fortuitous astrography and ‘herd protection’ of
+benefits of membership, fortuitous astrography and 'herd protection' of
 neighboring martial worlds.
 
 As things began to take a turn for the worse in the Sindalian Empire,
@@ -462,20 +462,20 @@ Things went from bad to worse when Caldos began to be targeted
 militarily. The people and government of the planet had done little to
 offend the Empire but Noricum eventually decided that Caldos had
 strategic value. While Caldos posed no direct threat, the Empire felt it
-was necessary to deny Caldos’ riches to all potential enemies.
+was necessary to deny Caldos' riches to all potential enemies.
 
 One wickedly clever Sindalian admiral revived the dormant drones that
 had once towed ice to Caldos from the belts, this time using them to
-drop planetoids on Caldos’ agricultural plantations, starports and major
+drop planetoids on Caldos' agricultural plantations, starports and major
 population centres. Hundreds of millions of people were vaporised
 in the bombardment. Those not so lucky were fated to endure the
 aftermath. The destruction of its infrastructure coupled with the nearly
 complete loss of interstellar trade and transportation brought about
-Caldos’ death knell. While Madjiyb’s modifications to the planet had
+Caldos' death knell. While Madjiyb's modifications to the planet had
 made it habitable for billions, this habitability hinged on its delicately
 balanced agricultural systems and constant influx of goods and
 materials to keep the life support systems running. Without the lifeblood
-of trade, Caldos’ shining civilization degraded into a Hobbesian
+of trade, Caldos' shining civilization degraded into a Hobbesian
 nightmare in a matter of weeks.
 
 The massive amounts of fallout from the bombardment made any
@@ -499,7 +499,7 @@ fall of the Empire and that it miraculously rose from the ashes like the
 phoenix of myth, yet that would be grossly inaccurate.
 
 After the fall, the survivors went through dozens of wars, battling for
-their share of the planet’s dwindling resources. Two hundred years after
+their share of the planet's dwindling resources. Two hundred years after
 the fall, just as the fallout had more or less cleared from the previous
 bombardment, the isolated world endured insult to injury as one final
 planetoid fell to ground. No one is quite sure how it happened but the
@@ -549,20 +549,20 @@ another two centuries of dim starlight and diminished agricultural output.
 
 The ensuing years have been an epic struggle fraught with setbacks
 and disasters that would bring down the spirits of even the most
-universal optimizt. The remnants of Madjiyb’s ambitious projects are
+universal optimizt. The remnants of Madjiyb's ambitious projects are
 now either lost for eternity or bristle out of the ground like the jagged
 teeth of a bygone civilization.
 
 Despite all this, the population has recovered to approximately
 800 million people. That this happened at all is a testament to their
-resilience. Even after two and a half millennia, Caldos’ culture of
+resilience. Even after two and a half millennia, Caldos' culture of
 innovation and pragmatism persists.
 
 The equatorial canal that once ran along the circumference of the
 planet has been virtually dry for 2,000 years. The gigatons of water
-brought from the belt have been absorbed into the planet’s crust,
+brought from the belt have been absorbed into the planet's crust,
 subsumed into its meagre atmosphere or burned away into the cosmos
-by Caurchlan’s unrelenting stellar rays.
+by Caurchlan's unrelenting stellar rays.
 
 In the golden age, few people lived in the equatorial region. The
 plantations at the valles were almost entirely run by robots but there
@@ -573,15 +573,15 @@ cities. Millions of people live in the nooks and crannies that dot the
 escarpments, using airships to travel from city-to-city along the length
 and depth of the canyon.
 
-The ‘Equatorials’, as they are called, have rebuilt a modest agricultural
+The 'Equatorials', as they are called, have rebuilt a modest agricultural
 center on the fringes of the valles. Moisture collection is a hallowed
 science among the Equatorials. Gone are the maglev and antigravity
 transports that once efficiently distributed produce to the north; now
 it is transported by electric rail and massive airships. The output is
-not nearly enough to serve all of the planet’s inhabitants and most
-of Caldos’ sustenance is provided by aid packages and trade with
+not nearly enough to serve all of the planet's inhabitants and most
+of Caldos' sustenance is provided by aid packages and trade with
 neighboring systems. Nevertheless, the fact they produce any of
-their own food provides a psychological boon to the people. Caldos’
+their own food provides a psychological boon to the people. Caldos'
 culture feeds on its desire for independence and self-sufficiency. The
 resurrection of farming in the canyon has had a positive effect on
 morale that cannot be overstated.
@@ -611,12 +611,12 @@ day. The haphazard reuse of these materials gives many urban areas
 an unusual patchwork look, mixing low and high-tech building materials
 in an odd mish-mash of architectural flourish.
 
-Transportation between Caldos’ cities occurs in myriad ways; dirigibles,
+Transportation between Caldos' cities occurs in myriad ways; dirigibles,
 passenger gliders, solar-powered ground cars, railways and, perhaps
 most unusual of all, sand skiffs, the primary vehicle used to cross the
-planet’s dangerous dune seas. Sand skiffs come in various sizes but
+planet's dangerous dune seas. Sand skiffs come in various sizes but
 most are designed to carry one to six individuals. They typically include
-an auxiliary engine that enables them to ‘jump’ sand traps and sinkholes.
+an auxiliary engine that enables them to 'jump' sand traps and sinkholes.
 
 SOFT OPPRESSION
 Under the current arrangement, the Caldos system is stagnant.
@@ -672,11 +672,11 @@ Rather than manufacturing an authoritarian regime to oppress a
 potentially restless populace, the neighboring powers have sought to
 destabilize Caldos. To wit:
 •  When Caldos began to move toward a unified technocratic
-government, Tyr’s espionage services intervened, casting doubt on
-the movement’s leaders and quashing its credibility.
+government, Tyr's espionage services intervened, casting doubt on
+the movement's leaders and quashing its credibility.
 •  A grass-roots democratic movement became stillborn when an
 unexpected famine occurred in the equatorial region and a greater
-level of ‘external management’ was deemed necessary until the
+level of 'external management' was deemed necessary until the
 crisis passed.
 •  Just as Caldos attempted to implement a tax for using its highport and
 downport, a sharp increase in piracy occurred in the system, reducing
@@ -693,7 +693,7 @@ will to rise up en masse and break the chains of oppression.
 
 While fomenting internecine squabbling and gridlock has worked for the
 most part, there are two rather significant things that rankle Caldosians
-to the bone; the planet’s Class B orbital starport and the controlled flow
+to the bone; the planet's Class B orbital starport and the controlled flow
 of water from the belts.
 
 The immense highport was initially built by the Tyrian Lordships over
@@ -761,7 +761,7 @@ first glance. The Sojourner is however not a true variant of the famous
 Type-S but most ships of the class are indeed former scouts. Most
 were salvaged or bought in a derelict state and completely refurbished
 and rebuilt, often reassembling whole sections or modifying large parts
-of the hull’s interior. While this legally makes a Sojourner a new ship,
+of the hull's interior. While this legally makes a Sojourner a new ship,
 technically many parts of it are already decades or even centuries old,
 leading to many quirks picked up along the way.
 
@@ -770,7 +770,7 @@ of the class. Most commonly however, a Type-S will see its docking
 space, drone hangar and several tons of its fuel tank converted to a
 cramped common area of four tons, a twin low berth chamber and
 small biosphere for maximum autonomy. Additionally, some of the
-bridge components (usually the computer and astrogator’s station) will
+bridge components (usually the computer and astrogator's station) will
 move into the nose of the ship, where a downgraded sensor module
 frees up space. The bridge bulkhead can then be moved forward, too,
 allowing for one stateroom to be repositioned directly next to the office
@@ -862,7 +862,7 @@ rooms go to passengers. To let the family squeeze every possible
 Credit out of the Sojourner, the ship features a common area that can
 seat up to 12 around a large table, which can be raised and lowered
 from the ceiling. Many passengers in the outback of the Trojan Reach
-tell stories of a trip they ‘enjoyed’ on a Sojourner, where they booked
+tell stories of a trip they 'enjoyed' on a Sojourner, where they booked
 steerage passage and ended up sharing three staterooms with 11
 others for a total of 18 souls aboard, counting the family crew of four
 and two passengers in the low berths.
@@ -885,19 +885,19 @@ The renowned or even notorious self-reliance and outright autarky of
 their crews, with the dubious nature of their trades and undertakings
 puts many crews of a Sojourner into a similar social niche as belters
 or other drifters at the fringes of interstellar society. In fact, the
-term ‘Sojourner’ has been applied to the crews themselves and, in
+term 'Sojourner' has been applied to the crews themselves and, in
 extension, to crews of other tramp traders in the Trojan Reach. The
 denomination is rarely positive however, and can fuel fisticuffs in a
 belter bar if understood as a denigration.
 
 Sojourner light traders are usually converted from Type-S starships
-and such a conversion will result in ‘used as new’ vessels. The
+and such a conversion will result in 'used as new' vessels. The
 facilities needed for a conversion like this are present at most Class
 B starports, provided the original ship has a running jump drive. In
 theory, hulls in any state of deterioration can be converted so long as
 they are structurally sound. Cases in which scavengers have towed
 multiple derelict hulls into a shipyard, asking for a single Sojourner
-to be built out of the wreckage, are common yarns in Travellers’ Aid
+to be built out of the wreckage, are common yarns in Travellers' Aid
 Society hostels.
 
 TL12 Tons Cost (MCr)
@@ -1013,7 +1013,7 @@ DECK 2
 
 #### Central SupplyCentral Supply
 
-##### The Gauss Rifle’s Big Brother
+##### The Gauss Rifle's Big Brother
 
 By Jeremy Rector
 
@@ -1021,7 +1021,7 @@ By Jeremy Rector
 mass drivers designed to accurately and quietly deliver small munitions.
 Its variable power, controlled by an onboard computer, provides up to
 300m/s muzzle velocity. This flexibility allows direct-fire or can arc a
-payload over hard cover to drop it right on a target’s head.
+payload over hard cover to drop it right on a target's head.
 
 The mag cannon can take data from its onboard range finder, a
 battlefield sensor web, or other data sources, to identify and target
@@ -1037,7 +1037,7 @@ not requiring the additional propellant, or casing to withstand barrel
 pressures associated with propellant based weapons. RAM grenades
 cannot be used in this weapon.
 
-The mag cannon can be fed from a magazine, belt or ‘Smart’ box with
+The mag cannon can be fed from a magazine, belt or 'Smart' box with
 up to four different types of round, selected at time of firing. When
 using the 12-round magazine, the weapon is human portable, the
 belt or Smart box generally requiring the weapon to be stationary or
@@ -1087,7 +1087,7 @@ All that Imperial Naval Intelligence (INI) knows for certain about former
 Corporal Zarca is that he started as one of theirs. As an Imperial
 Starmarine, he was transferred to Dostoevsky Station (Dpres, Trojan
 Reach) over 20 years ago, shortly before the defection of future
-arch-pirate Admiral Darokyn. Shortly afterwards, Zarca’s future wife
+arch-pirate Admiral Darokyn. Shortly afterwards, Zarca's future wife
 transferred to the Dostoevsky system as well being part of the crew of
 the Eviscerator, an Imperial ship detached to the 203rd Colonial Fleet
 at Dpres. Sometime later, when the couple had just become parents,
@@ -1100,7 +1100,7 @@ debacle – and the end of many careers for flag officers of the fleet.
 
 Corporal Zarca never returned but his journey through the Outrim Void
 had only begun. Now, almost one and a half decades later, the INI
-has recovered Zarca’s personal video-log from an unknown source.
+has recovered Zarca's personal video-log from an unknown source.
 The whereabouts of the renegade pirate are unknown and it is even
 uncertain if he still lives. Word has it that the INI is paying premium for
 leads on him and has contracted several bounty hunters: preferring
@@ -1108,10 +1108,10 @@ a cold return. It seems what they read from his log has set in motion
 bigger cogwheels.
 
 MORE THAN 14 YEARS AGO
-We’ve been huntin’ Darokyn for almost a year now. Damn, I hate this
+We've been huntin' Darokyn for almost a year now. Damn, I hate this
 guy! Not only did he make me miss Kal and the kids but his defection
 has already cost us at least a dozen marines plus an escort. Regal
-Pride, fancy name. She burnt a full 24 hours after Darokyn’s trap
+Pride, fancy name. She burnt a full 24 hours after Darokyn's trap
 sprung... Man, the navy guys at poker tonight will be pissed. Especially
 that dude Yerzey. I think he had a girl on the Pride.
 
@@ -1160,84 +1160,84 @@ Human Male
 ```
 
 14 YEARS AGO
-We’re on to him now. Our CO got the green light from the old man
-himself: Admiral Deacon Roberts. The legend himself. We’ve been
-huntin’ Darokyn for a year now and not once have I seen Admiral
-Roberts relaxed. He’s always looking like a bloodhound carrying all the
+We're on to him now. Our CO got the green light from the old man
+himself: Admiral Deacon Roberts. The legend himself. We've been
+huntin' Darokyn for a year now and not once have I seen Admiral
+Roberts relaxed. He's always looking like a bloodhound carrying all the
 weight of the world on his shoulders.
 
-That was the claxon. We’ll board the shuttles now. In four hours, we
+That was the claxon. We'll board the shuttles now. In four hours, we
 should have taken over our target: Potlicker, an old Magenta repair
-ship. That’ll be our trojan horse to get to Darokyn’s flagship.
+ship. That'll be our trojan horse to get to Darokyn's flagship.
 
 6 YEARS AGO
-... I, I, don’t know where to begin... I remember, we were boarding the
+... I, I, don't know where to begin... I remember, we were boarding the
 Potlicker. When we started advancing through the docking section, we
 heard claxons screeching as the general alarms went off. We thought
 that would be about us, but then the ship started shaking as if hit by
-weapons fire. That couldn’t be us our shuttle was only lightly armed.
+weapons fire. That couldn't be us our shuttle was only lightly armed.
 Next, we lost the feed to the shuttle and then these figures appeared:
-marines, but not ours. Definitely not Darokyn’s either... Their helmets
-were all bug-eyed. It all goes blank then. I don’t mean we were subdued.
-Although, maybe we were. But I don’t remember, like... nothing.
+marines, but not ours. Definitely not Darokyn's either... Their helmets
+were all bug-eyed. It all goes blank then. I don't mean we were subdued.
+Although, maybe we were. But I don't remember, like... nothing.
 
 The next thing I know is waking up. Here. Hearing that strange
-woman’s noise. She calls herself ‘Golden Queen’. On Yggdrasil,
+woman's noise. She calls herself 'Golden Queen'. On Yggdrasil,
 apparently. Calling that a backwater dustball would not be an
-insult... What a piece... She says she ‘bought’ our cryo-berths from
-a wandering Aslan merchant. Screw her! Those weren’t Aslans who
+insult... What a piece... She says she 'bought' our cryo-berths from
+a wandering Aslan merchant. Screw her! Those weren't Aslans who
 engaged us. Maybe human mercenaries working for Aslan but how
 likely is that? And what about boarding the Potlicker, precisely when we
 were boarding, too?
 
 Anyway, this tool of a queen demands I earn my freedom back. Yeah,
 right... She gave me time to think about it: work for her for one year,
-then be free to do whatever I like. Meanwhile, she’ll be looking out for
-me... I don’t like it. She also gave me another piece of information: I’ve
-been in the ice box for eight years. So, that’s a gamechanger... Screw
-Darokyn! And screw these headaches! I’ve been vomiting and feeling
+then be free to do whatever I like. Meanwhile, she'll be looking out for
+me... I don't like it. She also gave me another piece of information: I've
+been in the ice box for eight years. So, that's a gamechanger... Screw
+Darokyn! And screw these headaches! I've been vomiting and feeling
 like my head will explode for a solid hour now.
 
-Her deal is easy: I’ll be her problem solver and, in return, she will help
-me find my family and pay me a wage... Damn! That’s bleak. It’s only
-just dawning on me... Kalassa, Kolomy and Hastir. I haven’t been
+Her deal is easy: I'll be her problem solver and, in return, she will help
+me find my family and pay me a wage... Damn! That's bleak. It's only
+just dawning on me... Kalassa, Kolomy and Hastir. I haven't been
 there for years now. Where are they now? If only these headaches
 would go away...
 
 MORE THAN 5 YEARS AGO
-I’m beginning to settle in. The ‘Supreme Goddess Incarnate’ and ‘Mother
-of Water’ is giving me time and space to accustom. But yeah, it’s still
+I'm beginning to settle in. The 'Supreme Goddess Incarnate' and 'Mother
+of Water' is giving me time and space to accustom. But yeah, it's still
 looking bleak. She also told me she was having her Imperial contacts
-look into my matter. This could take time of course... I probably shouldn’t
+look into my matter. This could take time of course... I probably shouldn't
 expect anything from her before my contract time is up.
 
 5 YEARS AGO
-Still got these headaches. And yesterday I woke up but I wasn’t in my
-bed. I was lying in a bed, yes, but it belonged to Herbert’s, a cheap
+Still got these headaches. And yesterday I woke up but I wasn't in my
+bed. I was lying in a bed, yes, but it belonged to Herbert's, a cheap
 hotel here in the palace space station.
 
 Also, my year with her majesty is up but I decided to stay. She offered
-it; I didn’t have to ask. I think she needs my services at least as much
+it; I didn't have to ask. I think she needs my services at least as much
 as I need her money and resources. These knuckleheads are really far
 behind in almost everything. My headaches are getting worse again...
 And I keep on having these dreams about soldiers in bug-eyed armor.
 
-Her majesty, the queen, has also ‘confided’ that her investigations
+Her majesty, the queen, has also 'confided' that her investigations
 about my family never led anywhere. At least not those she sent over
 official Imperial channels. She offered me the services of one of her
 sleuths. The sleuth is charging moderate rates but travelling expanses
 will add up, once that needs to happen.
 
 MORE THAN 4 YEARS AGO
-Those blasted headaches won’t disappear. The queen’s doc couldn’t
-find anything. Said it’s probably post-traumatic. Yeah, smart boy. I told
+Those blasted headaches won't disappear. The queen's doc couldn't
+find anything. Said it's probably post-traumatic. Yeah, smart boy. I told
 him, I keep waking up in different places every other month or so. He
-just looked at me and told me to drink less. Drekhead! I haven’t drunk
+just looked at me and told me to drink less. Drekhead! I haven't drunk
 so little since I was a boy. He gave me some pills then. Nice stuff.
 Makes me feel special, bursting head or not.
 
-I had an interesting encounter today here in her majesty’s palace. I met
-one of the queen’s relatives, or shall I say ‘business partners’? A young
+I had an interesting encounter today here in her majesty's palace. I met
+one of the queen's relatives, or shall I say 'business partners'? A young
 trader named Sal. She might be valuable, as she seems to have her
 own ship and good contacts.
 
@@ -1249,20 +1249,20 @@ before jumping to Gabriel... The Eviscerator never arrived over Janus
 but her hulk was found drifting above the largest gas giant several
 weeks after she was due. With big, radiating holes in her belly and
 rumors of alien raiders preying on some of the smaller settlements
-on Janus, it’s pretty obvious what happened: Aslan! Probably a light
-warship with some of their Elar Kha’yaheh fighters that surprised the
-Eviscerator, when she was skimming... I don’t know what to feel...
-just numb... It’s unlikely the twins were onboard with her. But where
+on Janus, it's pretty obvious what happened: Aslan! Probably a light
+warship with some of their Elar Kha'yaheh fighters that surprised the
+Eviscerator, when she was skimming... I don't know what to feel...
+just numb... It's unlikely the twins were onboard with her. But where
 could they be without their mother? Her majesty has already expressed
-her condolences to me. This just feels wrong. I’m the one who was
+her condolences to me. This just feels wrong. I'm the one who was
 supposedly killed in action. But here I am... Alive, forgotten and a
 bloody widower...
 
 3 YEARS AGO
 Big changes are coming for my services unto the queen. The planetary
-government of Yggdrasil, with whom the queen is ‘not on speaking
-terms’ just seized her most prized ore-freighter to ‘settle debts of the
-crown’. That pretty much tanked the queen’s funds for the future...
+government of Yggdrasil, with whom the queen is 'not on speaking
+terms' just seized her most prized ore-freighter to 'settle debts of the
+crown'. That pretty much tanked the queen's funds for the future...
 
 Thus, the queen will release me from my duties and contract me on
 a case-by-case basis. I hope I trained my replacements well. She
@@ -1282,22 +1282,22 @@ MORE THAN 1 YEAR AGO
 After becoming pirates, we stayed on the main a while. But today, our
 cruise ended, and I came to Theev for the first time in my life. Never
 had I thought, as an Imperial Marine, that I would come here. Nor that
-I would get an offer by one of Darokyn’s captains to join his crew. Life’s
-a joke, really, isn’t it? I get hired by the man who started all of this.
+I would get an offer by one of Darokyn's captains to join his crew. Life's
+a joke, really, isn't it? I get hired by the man who started all of this.
 Including my headaches... They get worse again.
 
-Seriously, I haven’t had headaches and nightmares so bad since...
-Well, since I learned of Kalassa’s demise. I woke up not in my bunk
+Seriously, I haven't had headaches and nightmares so bad since...
+Well, since I learned of Kalassa's demise. I woke up not in my bunk
 but in a storage space. I have no idea how I got there. I remember my
 face hurting. Being swollen, too... And my knuckles hurt. Almost like I
-was in fight. But with whom? I can’t remember one thing about having a
+was in fight. But with whom? I can't remember one thing about having a
 fight with someone... I was asleep! Anyway, some of the other marines
 aboard the Sorrowful Maiden keep looking at me full of hatred. Like I
-crossed them the wrong way or something. I don’t know what’s going
+crossed them the wrong way or something. I don't know what's going
 on here...
 
 The Admiral wanted to have a word with me. In person. That got my
-blood pumping. It’s not something that normally happens. I answered
+blood pumping. It's not something that normally happens. I answered
 that I cannot remember getting in a fight with anyone aboard. When I
 was standing to attention in his office... Boom! My head starts hurting,
 like someone was twisting a plasma torch down my right eye and
@@ -1308,13 +1308,13 @@ of our medic... He was holding a wrench in his right, one eye bloodshot
 and swollen... Told me I had punched him right in the face, when they
 wrestled me to the ground. With four men.
 
-Naturally, Darokyn kicked me out. Well, luckily not out of the airlock. I’m
+Naturally, Darokyn kicked me out. Well, luckily not out of the airlock. I'm
 back on Theev now. I caught up with that captain I met the other time
 we were here. One Ferrick Redthane...
 
 #### PatronPatron
 
-##### Guerraedzahkhue ‘Ed’ Zhaerdeng, Pilot
+##### Guerraedzahkhue 'Ed' Zhaerdeng, Pilot
 
 **By Geir Lanesskog**
 
@@ -1325,22 +1325,22 @@ primary or secondary pilot
 
 **Mission:** Offer working passage to a pilot
 
-Guerraedzahkhue ‘Ed’ Zhaerdeng (‘call me Ed’) is an out of work Vargr
+Guerraedzahkhue 'Ed' Zhaerdeng ('call me Ed') is an out of work Vargr
 starship pilot. He will spin a story (verifiable, although the details are a little
 fuzzy) of his former employers going out of business after a drive failure
-grounded their starship. Ed wants to ‘get off this heap’ and is willing to take
+grounded their starship. Ed wants to 'get off this heap' and is willing to take
 working passage with anyone who will accommodate him and his custom
-Stinger SZ-100 g/bike, ‘Baby’. The g/bike will either fit with Ed in a single
+Stinger SZ-100 g/bike, 'Baby'. The g/bike will either fit with Ed in a single
 occupancy stateroom or occupy one ton of cargo space.
 
-Referee’s Information
+Referee's Information
 Roll 1D or choose from one of the options below:
 
 **1:** All is as stated. With his skills and dexterity Ed has DM+5 when
-piloting, making him close to his billing of ‘the best starship pilot you’ll
-ever see’, and he is willing to take working passage for up to three
+piloting, making him close to his billing of 'the best starship pilot you'll
+ever see', and he is willing to take working passage for up to three
 jumps, after which he will negotiate for a permanent position or leave
-the Travellers’ ship. He is a reliable pilot, whose drinking is more an
+the Travellers' ship. He is a reliable pilot, whose drinking is more an
 act than an affliction, but he is extremely dyslexic and has trouble
 with written instructions and displays. He also lacks any knowledge of
 astrogation and is generally useless outside the cockpit or the g/bike
@@ -1348,12 +1348,12 @@ seat. While vague about his past, Ed is little trouble unless someone
 calls him a liar or criticizes his flying skills; then he is liable to bite.
 
 **2–3:** As above but Ed has several traffic infractions resulting in suspended
-pilot’s certifications in the Monarchy of Lod and Stormhaven Republic. If
+pilot's certifications in the Monarchy of Lod and Stormhaven Republic. If
 fines of Cr10000 are paid in each jurisdiction his license can be reinstated
-but if found piloting in Lod or Stormhaven space, the Travellers’ ship will be
+but if found piloting in Lod or Stormhaven space, the Travellers' ship will be
 grounded until the fines are paid or Ed is released from employment.
 
-**4:** As all above but Ed’s drinking problem is beginning to affect his
+**4:** As all above but Ed's drinking problem is beginning to affect his
 performance. On any given flight day – generally arrival and departure
 from a starport or during gas giant refuelling – Ed will be intoxicated on
 a 2D roll of 9+. This will remove his DEX modifier and change his INT
@@ -1365,47 +1365,47 @@ Travellers can overcome or subvert the local legal authorities.
 **5–6:** As all above but Ed is associated with the Sequoia Nasirim, a
 Soho-class light freighter (see JTAS Volume 1, page 76) that dabbles
 in smuggling and piracy. In an out-of-the-way location – a Class D or
-worse starport or a lonely gas giant – the Travellers’ ship will encounter
+worse starport or a lonely gas giant – the Travellers' ship will encounter
 the Sequoia Nasirim. Ed will attempt to lock the Travellers out of the
 bridge and maneuver to allow the pirates to board the vessel. Ed is
 only armed with a TL12 stunner and will surrender to the Travellers if
 they threaten Baby.
 
-GUERRAEDZAHKHUE ‘ED’ ZHAERDENG
+GUERRAEDZAHKHUE 'ED' ZHAERDENG
 Guerraedzahkhue Zhaerdeng (Goor-ed-zha-koo Zhaer-dung) begins
-most conversations by stating his full name and then saying, ‘call me
-Ed’. He is a dark brown-furred, slightly built, relatively tall Vargr with a
+most conversations by stating his full name and then saying, 'call me
+Ed'. He is a dark brown-furred, slightly built, relatively tall Vargr with a
 sharp muzzle and protruding canines. When first encountered, often in
 a starport bar, he is typically wearing a black leather trench coat over a
 black body suit. The outfit doubles as ballistic armor, providing overall
 Protection +7 or +3 with just the bodysuit. A black and very bright yellow
-grav cycle helmet with flourishes making it resemble a dragon’s head
+grav cycle helmet with flourishes making it resemble a dragon's head
 usually sits on the countertop or hangs from a clip on his coat.
 
 Ed is the best pilot you will ever meet, or so he says. He is currently
-‘between employers’ and is vague about his origins: ‘I grew up in a
-bad neighborhood’. His Galanglic has a definite Imperial, Spinward
+'between employers' and is vague about his origins: 'I grew up in a
+bad neighborhood'. His Galanglic has a definite Imperial, Spinward
 Marches accent and his Gvegh is poor, with a clear Galanglic accent
-and random grammar. He also speaks a ‘smidgen’ of Zdetl, Trokh and
+and random grammar. He also speaks a 'smidgen' of Zdetl, Trokh and
 very mangled Vilani.
 
 Ed has only two possessions he cares about: his custom Aeon Flyer
-Stinger SZ-100 g/bike ‘Baby’ and his custom TL12 vacc suit, whose
+Stinger SZ-100 g/bike 'Baby' and his custom TL12 vacc suit, whose
 headpiece doubles as his grav cycle helmet. Both sport a bright yellow
-and black ‘bumble bee’ colour scheme. While he wears his leathers for
-‘local rides’, he dons his vacc suit for ‘serious runs’, including rides to
+and black 'bumble bee' colour scheme. While he wears his leathers for
+'local rides', he dons his vacc suit for 'serious runs', including rides to
 and from orbit. He will go on at length to describe how to make flights to
-nearby moons by the ‘fly fast and coast’ method using just Baby’s lifters
+nearby moons by the 'fly fast and coast' method using just Baby's lifters
 and limited only by his air supply. He claims to have done this twice.
 
-Ed’s main vocation is as a starship pilot. He is willing to take working
+Ed's main vocation is as a starship pilot. He is willing to take working
 passage on any ship, provided he can take along Baby. He forgets
 to mention that he does not know astrogation, although will admit it
 if asked. He is very dyslexic and flies by instinct, not instruction, and
 really cannot understand written manuals or detailed warning displays.
 If asked for references from former employers, he gets vague and
-inconsistent, generally saying ‘they’re no longer in business’ or ‘they
-had a mishap – not my flying, mind you, but bad engines’.
+inconsistent, generally saying 'they're no longer in business' or 'they
+had a mishap – not my flying, mind you, but bad engines'.
 
 He is a reliable pilot. He normally does not drink as much as he lets on
 and really can fly just about anything, although he likes to showboat
@@ -1416,7 +1416,7 @@ however, and while most are at least partially true, details vary with
 each telling but, if someone calls him a liar or denigrates his skills, he is
 likely to fight and he has a nasty bite.
 
-###### GUERRAEDZAHKHUE ‘ED’ ZHAERDENGGUERRAEDZAHKHUE ‘ED’ ZHAERDENG
+###### GUERRAEDZAHKHUE 'ED' ZHAERDENGGUERRAEDZAHKHUE 'ED' ZHAERDENG
 
 ```
 TRAITS — SKILLS
@@ -1450,7 +1450,7 @@ Vargr Male
 AEON FLYER STINGER G/BIKE SERIES
 The Aeon Flyer Consortium specialises in high-performance stylish
 grav vehicles, which are as much status symbol as transport. The
-Stinger series of g/bike has been Aeon’s premiere model line for more
+Stinger series of g/bike has been Aeon's premiere model line for more
 than two centuries.
 
 The entry level SZ-100 is an old design but the base unit costs more
@@ -1466,7 +1466,7 @@ carries a base price of more than Cr200000. The SZ-580Z is capable of
 supersonic flight and comes standard with an advanced autopilot and
 sophisticated customisable personality unit. The vehicle can literally fly
 itself and can be instructed to perform complex tasks autonomously.
-Enthusiasts are loath to admit it but the autopilot’s skill is superior to
+Enthusiasts are loath to admit it but the autopilot's skill is superior to
 most riders and only a machine is capable of avoidance maneuvers
 at supersonic speed. The rider is more passenger than driver in most
 circumstances. The ability to exceed the speed of sound in most
@@ -1598,7 +1598,7 @@ consume whatever living creature it encounters, its large swarm size
 reducing even the largest of creatures to nothing more than bone and
 viscera. At approximately 30 centimeters in height with a weight of one
 kilogram, they are formidable when spotted in the distance. This is
-compounded by the ‘whispering’ of their wings and constant chittering
+compounded by the 'whispering' of their wings and constant chittering
 to one another.
 
 Due to the proportion of their wings in relation to their body (2:1) they travel
@@ -1832,7 +1832,7 @@ on it. This ship is identical to the one featured on page 122 of High
 Guard but you must roll 1D times on the Spacecraft Quirks table on
 page 188 of Traveller Core Rulebook. If you roll this Benefit again,
 an additional 25% of the mortgage has been paid off – if you roll this
-benefit four times the safari ship’s mortgage has been fully paid and it is
+benefit four times the safari ship's mortgage has been fully paid and it is
 all yours!
 
 PROFESSION (HUNTING)
@@ -1874,7 +1874,7 @@ hard for offworlders to collect one to cultivate.
 
 Needing a temperate climate of 23o–30oC for optimal growth, the plant
 must be misted every six hours with nutrient rich water heated to pre-
-cisely 17oC. Sometimes found within a botanist’s shower thanks to its
+cisely 17oC. Sometimes found within a botanist's shower thanks to its
 evolutionary necessity for humidity, it is impossible to overwater it per
 its natural oceanic habitat. The usual cause of wilting is a lack of water,
 a common occurrence for those unused to its natural growth conditions.
@@ -1896,7 +1896,7 @@ manner. Any dead flowers should be removed, as they can cause the
 stem holding them to rot.
 
 The plant can only be duplicated by means of water propagation, as
-the roots’ only purpose is to hold the plant in place in the oceans of
+the roots' only purpose is to hold the plant in place in the oceans of
 Noricum. It will detach flourishing parts, dropping them into the water
 below. It takes seven to eight months to grow a viable plant from this
 point, including a new root system able to reach soil. Other methods of
@@ -1953,13 +1953,13 @@ contamination of pure Pavabidian society. It is staffed by only the most
 loyal members of the thearchy and guarded by church troops.
 
 The Law Level in the trade enclave is 8; in normal Pavabid society it is
-9 or even 10. The Travellers’ Aid Society classifies Pavabid as amber
+9 or even 10. The Travellers' Aid Society classifies Pavabid as amber
 (dangerous) because it is easy to run afoul of its many laws, even in
 the trade enclave. Pavabid is potentially a rich world but its severe trade
-restrictions have kept its’ wealth and Tech Level lower than those of its
-neighbors, Collace and Trexalon. Pavabid’s near-average gravity, standard
+restrictions have kept its' wealth and Tech Level lower than those of its
+neighbors, Collace and Trexalon. Pavabid's near-average gravity, standard
 atmosphere, temperate weather-systems and bountiful water make for
-a physically pleasant world. However, Pavabid’s population of about
+a physically pleasant world. However, Pavabid's population of about
 700 million people live in a stagnant, rigid society. Since immigration and
 emigration are illegal and information is strictly controlled, the majority of the
 inhabitants can conceive of no other style of life. Most live in small towns built
@@ -1988,11 +1988,11 @@ gods, conscious beings of transcendental power. If a man worships
 his sun, lives a good life and follows the teachings of the church, his
 soul will acquire spiritual mass and upon his death will be drawn into
 his sun, where it will join with the deity. The church is popular in the
-Imperium, where it makes few demands on a worshipper’s life and does
+Imperium, where it makes few demands on a worshipper's life and does
 not compete with the government. The church on Pavabid subscribes
 to what is known as the Pavabidian Heresy, claiming that a star-god
 sometimes sends part of its consciousness to inhabit the body of a
-man, who is called the ‘Son of the Star’ and who is therefore divine and
+man, who is called the 'Son of the Star' and who is therefore divine and
 infallible. The first Son of the Star was Pavabid, who conquered his
 world in a religious war and renamed it for himself.
 
@@ -2000,10 +2000,10 @@ A further tenet of the Pavabidian church is that the stars are not
 brothers but enemies; people from other stars are enemies of God
 and contact with offworlders is therefore forbidden to all except a
 faithful few. Pavabid is only one jump from Collace. The industrialists
-of Collace have always been frustrated by Pavabid’s refusal to allow
+of Collace have always been frustrated by Pavabid's refusal to allow
 outside exploitation of her abundant heavy metals but it was only
 a minor irritation in the past, as Tarsus, Avastan and Inchin provide
-enough raw materials to satisfy Collace’s factories. Recently, however,
+enough raw materials to satisfy Collace's factories. Recently, however,
 it became known through certain unorthodox channels that the
 Pavabidians had discovered massive deposits of iridium (with some
 platinum) on their world.
@@ -2031,12 +2031,12 @@ device to the inner sanctum of Orobid himself!
 The Travellers will be taken to Pavabid aboard a freighter making
 a routine jump. Except for the one spaceport, Pavabid is a closed
 world but the Travellers must be put down near the current location
-of Orobid’s palace without being detected. Pavabid’s satellite warning
+of Orobid's palace without being detected. Pavabid's satellite warning
 system was built by TTC (the Trexalon Technical Consortium), since the
-thearchy’s technology was not up to the task. Unbeknownst to Pavabid,
+thearchy's technology was not up to the task. Unbeknownst to Pavabid,
 the Trexalonians built secret override circuits into the satellite system.
 
-Unbeknownst to Trexalon, the interests on Collace, Trexalon’s biggest
+Unbeknownst to Trexalon, the interests on Collace, Trexalon's biggest
 rival, have acquired full knowledge of the override system. Technicians
 aboard the freighter will use this knowledge to override the defences of
 the satellite that covers the area of the planet they will be penetrating. It
@@ -2052,7 +2052,7 @@ palace radar. The group should reach the palace after flying due east
 for approximately two hours. Strict radio silence is to be observed at all
 times while on-planet.
 
-Orobid’s palace is a floating building, suspended in the air by hundreds
+Orobid's palace is a floating building, suspended in the air by hundreds
 of null gravity modules. Anti-gravity is otherwise unknown on Pavabid,
 so the palace guards should not be expecting a silent infiltration from
 
@@ -2061,7 +2061,7 @@ of the palace – the group will just have to find their own way around.
 The Travellers should arrive at the palace one hour into the Pavabidian
 sleep period, so all but a few guards should be asleep (native
 Pavabidians live on a cycle of 10 hours asleep, 20 hours awake).
-The Travellers must find Orobid’s sleep chamber, place the message
+The Travellers must find Orobid's sleep chamber, place the message
 device, activate it and leave. The real trick is that the group must leave
 no physical evidence that they were ever in the palace. Anybody who
 sees or detects the presence of the intruders must be stunned and
@@ -2075,7 +2075,7 @@ is a divine gift to be exploited in the most efficient manner, the voice of
 God will mention that he may choose to elevate some of the members
 of the palace staff immediately and take them with him upon his return
 to the Star. Also, the holy presence of the divine messenger may cause
-some of Orobid’s servants to have hallucinations of strange happenings
+some of Orobid's servants to have hallucinations of strange happenings
 in the night. These minor distractions should be ignored. After the
 message is delivered, the holographic projector will utterly destroy itself
 in a blinding flash.
@@ -2092,7 +2092,7 @@ will come to regret it.
 ##### Equipment
 
 If Travellers desire further equipment, they should inform the Collacians.
-Using the Travellers’ money, an official will be sent to purchase whatever
+Using the Travellers' money, an official will be sent to purchase whatever
 equipment they desire, and can afford, provided it is available.
 
 **Individual Equipment:** Each Traveller will be given one of the following
@@ -2101,22 +2101,22 @@ for use on the mission:
 null gravity module and a personal harness (see Traveller Core
 Rulebook, page 118). The harness is equipped with four extensible
 straps and folding mini-harnesses for carrying additional loads. Such
-additional loads are awkward and may inhibit the flyer’s freedom of
+additional loads are awkward and may inhibit the flyer's freedom of
 movement, inflicting DM-1 to DEX checks whilst encumbered.
 
 ```
 •  Helmet Recorder: Each individual must wear a black crash helmet
 with a microsensor video and audio recorder built into the crown.
-Recordings of the mission will be viewed after the Travellers’ return
+Recordings of the mission will be viewed after the Travellers' return
 to assess their success or failure and to gather information about
-the interior of Orobid’s palace in case a follow-up mission should
+the interior of Orobid's palace in case a follow-up mission should
 prove necessary.
 •  TL8 Stunner: As shown on page 129 of the Traveller Core Rulebook.
 ```
 
 ##### Referee Information
 
-The ‘unnamed interests’ on Collace that want to see the Pavabid
+The 'unnamed interests' on Collace that want to see the Pavabid
 iridium deposits opened up are several. The first is Colmetal, Inc., a
 huge industrial combine that operates mines throughout the subsector.
 Second is the government of Collace, which wants to make sure
@@ -2142,7 +2142,7 @@ renegade techpriest on the staff of the Pavabid Starport. He provided
 the news about the iridium/platinum deposits and gave the Collacians
 enough information about the church and Orobid that they could
 confidently create the message from God. The techpriest was then
-supposed to provide them with the plans for Orobid’s palace but he has
+supposed to provide them with the plans for Orobid's palace but he has
 now disappeared. The Collacians theorize that he was caught by the
 thearchy and executed.
 
@@ -2255,7 +2255,7 @@ in the floors and ceilings of the palace. These allow maintenance
 personnel access to the utility systems that run through the
 bulkheads between decks. They also serve as emergency
 passages in case of power or lift failure, so they are unlocked. All
-are labelled ‘Maintenance or Emergency Only’.
+are labelled 'Maintenance or Emergency Only'.
 •  **Iris Valves:** Iris valves are pressure-tight automatic portals set in
 bulkheads. A valve functions much like the iris of a camera; many
 panels retract into the frame to leave an open passage or extend
@@ -2291,7 +2291,7 @@ enough to notice the camera lenses, which are set flush into the
 hull. Travellers floating around outside the palace on gravbelts
 might be noticed by those inside and never realise it. At the time
 of the mission, the only people who might notice the intruders are
-the 2nd officer on the bridge (1) and the guard in Orobid’s living
+the 2nd officer on the bridge (1) and the guard in Orobid's living
 chamber (62). If any Travellers pass in front of these rooms on the
 outside, they must succeed a Very Difficult (12+) Stealth check.
 ```
@@ -2309,31 +2309,31 @@ sick bay and quarters for most of the crew.
     adjusted to show views from any side of the palace, above or below,
     including the copter deck. There are two control couches, each
     surrounded by instrument panels and controls. On the starboard
-    wall is an aviator’s map of Pavabid and on the port wall is a diagram
-    of the palace (which shows the location of Orobid’s chambers on
+    wall is an aviator's map of Pavabid and on the port wall is a diagram
+    of the palace (which shows the location of Orobid's chambers on
     deck 3). If the palace is not under way, the only person on the bridge
     during the sleep period is the 2nd officer.
 **2. Guard Post:** Standing in a small pool of light outside the door to
     the bridge is a palace guard wearing cloth armor and armed with
     a submachinegun. He is not particularly alert and will have DM-2
     on initiative, unless he knows there is some kind of trouble afoot.
-**3. Datapriest’s Stateroom:** This is a standard stateroom, occupied
+**3. Datapriest's Stateroom:** This is a standard stateroom, occupied
     by the primary datapriest. In the event of fighting or an alarm, he
     will stay in his stateroom, avoiding conflict.
 
-**4. Communicator’s Stateroom:** This is a standard stateroom,
+**4. Communicator's Stateroom:** This is a standard stateroom,
     occupied by the palace communications officer. He is a non-
     combatant but is very curious. If there is sufficient noise nearby to
     wake him, he will undoubtedly poke his head out the door to see
     what is going on.
-**5. Captain’s Stateroom:** On the outer wall of the stateroom is a large
+**5. Captain's Stateroom:** On the outer wall of the stateroom is a large
     viewscreen. When it is activated, it shows what is directly outside
     the palace at this point, giving the appearance of a window. These
-    ‘window’ viewscreens are common in the staterooms of officers and
+    'window' viewscreens are common in the staterooms of officers and
     high officials. Each is connected to a sensor on the outside hull. The
     captain is asleep. If he hears or is informed of any trouble he will
     head straight for the bridge, taking his automatic pistol as he goes.
-**6. 1st Officer’s Stateroom:** This is a standard stateroom, with
+**6. 1st Officer's Stateroom:** This is a standard stateroom, with
     furnishings fancier than average. The 1st officer is asleep here.
     He is somewhat impetuous; if aroused by trouble, he will head
     for the source of the trouble rather than the bridge, taking his
@@ -2342,18 +2342,18 @@ sick bay and quarters for most of the crew.
     room is crowded with tools, spare parts, maintenance equipment
     and personal belongings. Both good cover and good hiding places
     may be found in his room.
-**8. 2nd Officer’s Stateroom:** This is a standard stateroom, currently
+**8. 2nd Officer's Stateroom:** This is a standard stateroom, currently
     unoccupied, as the 2nd officer is standing watch on the bridge.
-**9. Maintenance:** Door is labelled ‘Maintenance’ and ‘Emergency
-    Exit’ and is unlocked. In this room equipment is stored for adjusting
+**9. Maintenance:** Door is labelled 'Maintenance' and 'Emergency
+    Exit' and is unlocked. In this room equipment is stored for adjusting
     and repairing the null grav modules that lift the palace. In the floor
-    is a hatch, labelled ‘Maintenance or Emergency Only’ that leads
+    is a hatch, labelled 'Maintenance or Emergency Only' that leads
     through the bulkhead to the underside of the palace. Underneath is
     the metal safety grid that enables workers to service the null grav
     modules. The gaps in the grid are large enough for one person to
     pass through. Opening the hatch from the inside is no problem;
     from the outside, it requires a Difficult (10+) Mechanic check.
-**10. Chief Engineer’s Stateroom:** Standard stateroom. The engineer
+**10. Chief Engineer's Stateroom:** Standard stateroom. The engineer
     is asleep. If he is awakened by trouble, he will go to the starboard
     power plant (11) to protect it. He will attack anybody who tries to
     damage it, using brass knuckles stored under his pillow.
@@ -2369,14 +2369,14 @@ sick bay and quarters for most of the crew.
 
 **13. Maintenance Personnel Stateroom:** Standard stateroom with
     double bunk. Contains two more janitors, as previous.
-**14.** Guards’ Stateroom: Standard stateroom with double bunk. This
+**14.** Guards' Stateroom: Standard stateroom with double bunk. This
     stateroom is empty, as both guards are on duty.
-**15. Guards’ Stateroom:** Standard stateroom with double bunk,
+**15. Guards' Stateroom:** Standard stateroom with double bunk,
     currently occupied by two sleeping guards. Each has a
     submachinegun and cloth armor in a locker near the door. If
     alerted, each will grab a gun but will only don the cloth armor on a
     2D roll of 8+.
-**16. Guards’ Stateroom:** Standard stateroom with double bunk,
+**16. Guards' Stateroom:** Standard stateroom with double bunk,
     occupied by two sleeping guards. Each has a submachinegun and
     cloth armor in a locker near the door. If alerted, each will grab a
     gun (and the first his dagger) but will only don the cloth armor on
@@ -2389,7 +2389,7 @@ sick bay and quarters for most of the crew.
 **19. Kitchen Personnel Stateroom:** Standard stateroom with double
     bunk, currently occupied by two sleeping kitchen workers. Both will
     avoid trouble if they can.
-**20. Kitchen and Staff Mess:** Labelled door. Most of the palace’s
+**20. Kitchen and Staff Mess:** Labelled door. Most of the palace's
     needs are usually supplied by whatever area it is passing over.
     Thus, most meals are catered from outside the palace, however
     all food is organised and dispensed from the kitchen complex.
@@ -2400,13 +2400,13 @@ sick bay and quarters for most of the crew.
     rooms. The large room doubles as the staff mess and here the
     lesser palace workers eat their four meals a day in rotating shifts.
     The room is currently occupied by two kitchen workers who are
-    beginning to prepare for tomorrow’s breakfast. If they hear any
+    beginning to prepare for tomorrow's breakfast. If they hear any
     trouble, or if they are intruded upon, the first worker will try to reach
     the intercom by the door to alert the bridge. The second worker will
     attempt to hide in a food prep room, in a large bread cabinet.
-**21. Steward’s Stateroom:** Standard stateroom, fancy. The head
+**21. Steward's Stateroom:** Standard stateroom, fancy. The head
     steward is awake. He is worried because the kitchen supply of zao
-    kibbles, Orobid’s favorite snack, is running low. If he hears any
+    kibbles, Orobid's favorite snack, is running low. If he hears any
     excitement, he will stay in his stateroom for five minutes, trying
     to decide what to do, and then finally poke his head out into the
     corridor to see what is going on. If he sees nothing, he will go back
@@ -2416,38 +2416,38 @@ sick bay and quarters for most of the crew.
 **22. Kitchen Personnel Stateroom:** Standard stateroom with double
     bunk, currently occupied by two sleeping kitchen workers. Both will
     avoid trouble if possible.
-**23. Stewards’ Stateroom:** Standard stateroom with double bunk.
+**23. Stewards' Stateroom:** Standard stateroom with double bunk.
     Two stewards sleep here. They are responsible for serving upper
     deck guests and staff. If awakened by trouble, the first will hide in
     the stateroom but the second will panic, convinced that the palace
     is going down. He will flee for the emergency exit (9), taking the
     easiest route around the deck.
-**24. Guards’ Stateroom:** Standard stateroom with double bunk, currently
+**24. Guards' Stateroom:** Standard stateroom with double bunk, currently
     occupied by two sleeping guards. Each has a submachinegun and
     cloth armor in a locker near the door. If alerted, each will grab a gun
     but will only don the cloth armor on a 2D roll of 8+.
-**25. Guards’ Stateroom:** Standard stateroom with double bunk. This
+**25. Guards' Stateroom:** Standard stateroom with double bunk. This
     stateroom is empty, as both guards are on duty.
-**26. Guards’ Stateroom:** Standard stateroom with double bunk,
+**26. Guards' Stateroom:** Standard stateroom with double bunk,
     currently occupied by two sleeping guards. Each has a
     submachinegun and cloth armor in a locker near the door. If
     alerted, each will grab a gun but will only don the cloth armor on a
     2D roll of 8+.
-**27. Engineer’s Stateroom:** Standard stateroom. If awakened by trouble,
+**27. Engineer's Stateroom:** Standard stateroom. If awakened by trouble,
     the engineer will stay in his stateroom and try to avoid conflict.
-**28. Engineer’s Stateroom:** Standard stateroom, currently empty, as
+**28. Engineer's Stateroom:** Standard stateroom, currently empty, as
     the engineer is in sickbay.
 **29. Port Power Plant:** Labelled door. Identical to the starboard power
     plant (see 11).
-**30. Pilot’s Stateroom:** Standard stateroom with double bunk. This is
+**30. Pilot's Stateroom:** Standard stateroom with double bunk. This is
     where helicopter pilots are put up overnight. One pilot is asleep
     here; he has dosed himself with an illegal drug and nothing will
     wake him before morning. The pilot is a secretive and untrusting
-    fellow. He has removed the distributor cap from ‘his’ helicopter and
+    fellow. He has removed the distributor cap from 'his' helicopter and
     hidden it in the dresser under some clothes.
-**31. Medic’s Stateroom:** Standard stateroom. Here sleeps the doctor’s
+**31. Medic's Stateroom:** Standard stateroom. Here sleeps the doctor's
     assistant. In an emergency, he will run to the sick bay (35).
-**32. Guards’ Stateroom:** Standard stateroom with double bunk,
+**32. Guards' Stateroom:** Standard stateroom with double bunk,
     currently occupied by one sleeping guard as the other is on duty. A
     submachinegun and a suit of cloth armor are in a locker near the
     door. If alerted, the guard will put on the cloth armor before leaving
@@ -2455,7 +2455,7 @@ sick bay and quarters for most of the crew.
     firefight for the first time, this guard will have a sudden stunning
     realization that he could be killed. Consequently, he will throw away
     his weapon, lie down and surrender.
-**33. Guard Captain’s Stateroom:** Standard stateroom, fancy. If
+**33. Guard Captain's Stateroom:** Standard stateroom, fancy. If
     alerted, the guard captain will grab his submachinegun and blade,
     ignoring time-consuming armor.
 
@@ -2463,7 +2463,7 @@ DECK 2
 This deck consists mostly of the helicopter landing pad, plus offices and
 the library. The floor of the dome is also on this level.
 
-**34. Guards’ Stateroom:** Standard stateroom with double bunk,
+**34. Guards' Stateroom:** Standard stateroom with double bunk,
     currently occupied by two sleeping guards. Each has a
     submachinegun and cloth armor in a locker near the door. If
     alerted, each will grab a gun but will only don the cloth armor on a
@@ -2475,19 +2475,19 @@ the library. The floor of the dome is also on this level.
     the beds, attached to various diagnostic equipment. The doctor
     believes that the engineer may have suffered a minor stroke
     during the day.
-**36. Doctor’s Stateroom:** Standard stateroom, fancy. If awakened
+**36. Doctor's Stateroom:** Standard stateroom, fancy. If awakened
     by an emergency, the doctor will proceed directly to the sick bay
     and stay there.
-**37. Datapriest’s Stateroom:** Standard stateroom. The secondary
+**37. Datapriest's Stateroom:** Standard stateroom. The secondary
     datapriest is asleep here. If awakened, he will try to avoid trouble.
-**38. Communicator’s Stateroom:** Standard stateroom. The secondary
+**38. Communicator's Stateroom:** Standard stateroom. The secondary
     ship communications officer sleeps here. If awakened by trouble,
     she will stay in her room and hope it passes.
 **39. Forward Lift Shafts:** These lift shafts are non-standard; a
     hydraulic lift raises and lowers a square platform through the lift
     shaft. The platform is usually on deck 1. When the platform rises,
-    a sliding hatch on the open ‘copter deck above opens to reveal the
-    lift shaft. The platform rises until flush with the ‘copter deck. The
+    a sliding hatch on the open 'copter deck above opens to reveal the
+    lift shaft. The platform rises until flush with the 'copter deck. The
     entire process takes 30 seconds.
 **40. Aft Lift Shafts:** These are standard spaceship lift shafts; pressure-
     tight lift cars that move in a shaft between decks. The doors of
@@ -2497,7 +2497,7 @@ the library. The floor of the dome is also on this level.
     3 hallway; no code is required). The inner lock can be electronically
     unlocked in the same manner as those of standard sliding doors.
     In the ceiling next to each of the aft lift shafts on deck 1 is a hatch
-    labelled ‘Maintenance or Emergency Only’.
+    labelled 'Maintenance or Emergency Only'.
 **41. Guard Post, Hatch and Helicopter:** A guard paces this area,
     wearing cloth armor and armed with a submachinegun. He moves
     in a regular routine, from the hatch to the lift shaft (where he can
@@ -2567,7 +2567,7 @@ would be a good idea to impress. Orobid, Son of the Star, appears
 at the iris door and steps out into space to bless his flock, supported
 only by his faith and holiness (and the hidden gravbelt under his
 robes). A pocket amplifier and the acoustic properties of the dome
-give the Thearch’s voice great power and authority. Hidden in the
+give the Thearch's voice great power and authority. Hidden in the
 designs at the roof of the dome are many powerful lights. When
 turned up all the way, these send a great golden beam down from
 the palace to the ground below. This holy light is reputed to have
@@ -2575,7 +2575,7 @@ beneficial properties for whatever area it blesses. It also looks very
 impressive as it lances down from the floating palace.
 ```
 
-**45. Mens’ Washroom:** Labelled door, unlocked.
+**45. Mens' Washroom:** Labelled door, unlocked.
 **46. Meeting Room:** Labelled door. A polished wood table dominates
     this room. There are 20 wood chairs around the table and several
     other matching pieces of furniture line the walls. The outer wall is
@@ -2583,14 +2583,14 @@ impressive as it lances down from the floating palace.
     of the view outside the palace at this point.
 **47. Anteroom:** Unlocked. This room is used for storage of furniture
     and materials not currently in use in the meeting room.
-**48. Minister’s Office:** This is the office of the minister of conformity
+**48. Minister's Office:** This is the office of the minister of conformity
     (see 59) and his staff. There are four desks in here, including the
-    minister’s large desk, each accompanied by an appropriate chair.
+    minister's large desk, each accompanied by an appropriate chair.
     The port wall is lined with filing cabinets. All sensitive information
     therein is written in the ministry code.
 **49. Audience Chamber:** Labelled door. This is where Orobid conducts
     actual business with those important enough to see him. The entire
-    outer wall of the room is a huge ‘window’ viewscreen. The port and
+    outer wall of the room is a huge 'window' viewscreen. The port and
     starboard walls are lined with comfortable chairs, which may be
     brought forward for important visitors or long sessions.
 **50. Guard Post:** Here a lone guard sits on a stool, waiting out his
@@ -2611,22 +2611,22 @@ information of real value to be found in or on them.
 ```
 
 **52. Library:** Labelled door. The library is actually a storage area for
-    the data needed by the executives of Pavabid’s government. It
+    the data needed by the executives of Pavabid's government. It
     contains a desk for the librarian Datapriest, a half-dozen microfilm
     viewers and many storage shelves. A person trying to find specific
-    types of microfile reels would first have to figure out the library’s
+    types of microfile reels would first have to figure out the library's
     numerical filing system. This information is contained in the film
-    reader on the librarian’s desk. Sensitive materials are listed with
-    the notation ‘Special Section’.
-**53. Special Section:** Door labelled ‘Authorised Personnel Only’. The
+    reader on the librarian's desk. Sensitive materials are listed with
+    the notation 'Special Section'.
+**53. Special Section:** Door labelled 'Authorised Personnel Only'. The
     door lock has an alarm attached to it. Normally, a separate code
     must be punched in first to bypass the alarm before the lock can
     be opened. A person tampering with the lock will notice the alarm
     circuit only if he is looking for one, on a Difficult (10+) Recon check.
     If the alarm is tripped, the bridge will be alerted and a loud bell will
     start ringing in the library.
-**54. Womens’ Washroom:** Labelled door. The hatch in the ceiling
-    outside this room is labelled ‘Maintenance or Emergency Only’.
+**54. Womens' Washroom:** Labelled door. The hatch in the ceiling
+    outside this room is labelled 'Maintenance or Emergency Only'.
 
 DECK 3
 This deck is furnished much more luxuriously than the other decks and
@@ -2636,23 +2636,23 @@ contains the quarters of Orobid and his chief minister.
     covered with detailed historical murals. It is also patrolled at night
     by three trained wahroos.
 **56. Wahroo Kennels:** Labelled door. Here sleeps three more wahroos
-    and their trainer. These animals form part of the Thearch’s personal
+    and their trainer. These animals form part of the Thearch's personal
     guard during the day. Orobid is particularly fond of the smallest
     wahroo. If the trainer is awakened by trouble, he will let out these
     three wahroos. The hatches in and outside his room are labelled
-    ‘Maintenance or Emergency Only’.
+    'Maintenance or Emergency Only'.
 **57. Guest Room:** This finely-furnished stateroom serves as a guest
     room for any ministers of state that may have to stay overnight at
     the palace. It is currently unoccupied.
 **58. Guest Room:** Identical to 57.
-**59. Kanaleb’s Quarters:** This is the living chamber of Kanaleb, the
+**59. Kanaleb's Quarters:** This is the living chamber of Kanaleb, the
     Minister of Conformity, Prime Satellite of the Thearch. His position
-    is as hereditary as the Thearch’s; Kanaleb’s ancestors have been
-    chief advisors to Orobid’s ancestors for centuries. Kanaleb is the
+    is as hereditary as the Thearch's; Kanaleb's ancestors have been
+    chief advisors to Orobid's ancestors for centuries. Kanaleb is the
     chief of all police on the planet, including the feared Attitude Police.
     Through them, Kanaleb wields great power; those whose attitudes
-    are determined to be counter-productive or ‘dangerous to social
-    morale’ are simply terminated, without appeal. The Ministry of
+    are determined to be counter-productive or 'dangerous to social
+    morale' are simply terminated, without appeal. The Ministry of
 
 ```
 Conformity has grown in power under each successive Thearch,
@@ -2660,32 +2660,32 @@ until now Kanaleb is responsible to none but Orobid. The Ministry
 of Conformity has made fear and paranoia a way of life for every
 person on Pavabid. This carpeted room contains several chairs, a
 couch, a desk, two bookcases, a television and a large viewscreen
-on the outer wall. Various objets d’art decorate the walls and
+on the outer wall. Various objets d'art decorate the walls and
 bookcases. Several minor decrees, signed by Kanaleb, rest on the
 desk. These should indicate to smart Travellers that these are not
-Orobid’s quarters.
+Orobid's quarters.
 ```
 
-**60. Kanaleb’s Bedchamber:** There is a large viewscreen and more
-    comfortable furniture in this room. Kanaleb’s large bed sits in the
+**60. Kanaleb's Bedchamber:** There is a large viewscreen and more
+    comfortable furniture in this room. Kanaleb's large bed sits in the
     opposite corner from the door. Just inside the door, at ankle-level,
-    is Kanaleb’s night defence: a thin electrically charged tripwire.
+    is Kanaleb's night defence: a thin electrically charged tripwire.
     Anyone touching it will suffer 1D damage and an alarm will wake
     Kanaleb. The Minister of Fear lives in fear of assassination, so
     sleeps lightly, with an autopistol in his hand. If the tripwire alarm
     is set off, Kanaleb will come up firing. The tripwire will be broken if
     anybody actually trips over it.
-**61. Valet’s Room:** Standard stateroom, fancy. This is the stateroom
-    of Orobid’s now sleeping personal valet and servant. If he is
+**61. Valet's Room:** Standard stateroom, fancy. This is the stateroom
+    of Orobid's now sleeping personal valet and servant. If he is
     awakened by trouble, the old man will look out to see what is
     going on but will then stay in his stateroom. This room also
-    serves as Orobid’s dressing room for those times when he
+    serves as Orobid's dressing room for those times when he
     dresses in his robes of state to impress the citizens. In addition to
-    the valet’s meagre furnishings there is a large open wardrobe full
-    of Orobid’s golden robes. Hanging behind the robes is Orobid’s
+    the valet's meagre furnishings there is a large open wardrobe full
+    of Orobid's golden robes. Hanging behind the robes is Orobid's
     grav belt, the only one on the planet. Only Orobid, the valet and
     Kanaleb know about it.
-**62. Orobid’s Living Chamber:** The door to this room has no alarm
+**62. Orobid's Living Chamber:** The door to this room has no alarm
     on it but inside is an alert guard wearing cloth armor and armed
     with a submachinegun. He reports to the bridge by intercom every
     half hour. Under no conditions will he leave his post. If he hears
@@ -2694,7 +2694,7 @@ Orobid’s quarters.
     dining table, chairs, bookshelves, a couch and a miniature garden
     in one corner. The entire outer wall is a huge viewscreen showing
     the outside world.
-**63. Orobid’s Bedchamber:** For extra protection, the walls of this room
+**63. Orobid's Bedchamber:** For extra protection, the walls of this room
     are made of bulkhead material. As a result, the room is completely
     soundproofed from whatever happens outside of it. Orobid sleeps
     heavily on a large circular gold-coloured flotation bed in the center
@@ -2712,17 +2712,17 @@ that show the outside. Both are now turned off.
 ```
 
 DECK 4
-The small upper deck includes quarters for Kanaleb’s staff, a TV studio
+The small upper deck includes quarters for Kanaleb's staff, a TV studio
 and quarters for the Techpriests who run the studio.
 
 **64. Staff Stateroom:** Standard stateroom, luxury. A member of
-    Kanaleb’s staff sleeps here. He will avoid trouble if possible.
+    Kanaleb's staff sleeps here. He will avoid trouble if possible.
 **65. Staff Stateroom:** Standard stateroom, luxury. Another member
-    of Kanaleb’s staff sleeps here. He began his career in the regular
+    of Kanaleb's staff sleeps here. He began his career in the regular
     police. If he is awakened by trouble, he will grab his auto pistol and
     go out to arrest the troublemakers.
 **66. Staff Stateroom:** Standard stateroom, luxury. Another member
-    of Kanaleb’s staff sleeps here. He was once in the Attitude
+    of Kanaleb's staff sleeps here. He was once in the Attitude
     Police. If he is awakened by trouble, he will try to spy out who the
     troublemakers are, report to the bridge and then keep on their trail.
     He will run if confronted.
@@ -2730,8 +2730,8 @@ and quarters for the Techpriests who run the studio.
     announcements from this room. In here are backdrops, cameras,
     lights, microphone booms and so forth.
 **68. Control Room:** The wall between this room and the studio has
-    a large glass window set in it. From here the technicians’ control,
-    monitor, produce and edit Orobid’s TV messages.
+    a large glass window set in it. From here the technicians' control,
+    monitor, produce and edit Orobid's TV messages.
 **69. Storeroom:** Equipment not currently in use is stored here. The
     room is about half full and has many good hiding places.
 **70. TV Staff Stateroom:** Standard stateroom. A TV techpriest sleeps
@@ -2744,7 +2744,7 @@ and quarters for the Techpriests who run the studio.
     unreliable. If he hears any trouble, he will poke his head out of his
     stateroom to see what is going on. If he sees intruders, he will run to
     them, begging to be taken along when they leave. He is fully familiar
-    with the layout of the palace and can lead the group to Orobid’s
+    with the layout of the palace and can lead the group to Orobid's
     chambers if they so desire. However, he is no good in a fight.
 
 ```
@@ -2760,42 +2760,42 @@ DECK ONE
 
 1. Bridge
 2. Guard Post
-3. Datapriest’s Stateroom
-4. Communicator’s Stateroom
-5. Captain’s Stateroom
-6. 1st Ocer’s Stateroom
+3. Datapriest's Stateroom
+4. Communicator's Stateroom
+5. Captain's Stateroom
+6. 1st Ocer's Stateroom
 7. Storage Room
-8. 2nd Ocer’s Stateroom
+8. 2nd Ocer's Stateroom
 9. Maintenance
-10. Chief Engineer’s Stateroom
+10. Chief Engineer's Stateroom
 11. Starboard Power Plant
 12. Maintenance Personnel Stateroom
 13. Maintenance Personnel Stateroom
-14. Guards’ Stateroom
-15. Guards’ Stateroom
-16. Guards’ Stateroom
+14. Guards' Stateroom
+15. Guards' Stateroom
+16. Guards' Stateroom
 17. Kitchen Personnel Stateroom
 18. Kitchen Personnel Stateroom
 19. Kitchen Personnel Stateroom
 20. Kitchen and Staff Mess
-21. Steward’s Stateroom
+21. Steward's Stateroom
 22. Kitchen Personnel Stateroom
-23. Stewards’ Stateroom
-    24. Guards’ Stateroom
-    25. Guards’ Stateroom
-    26. Guards’ Stateroom
-    27. Engineer’s Stateroom
-    28. Engineer’s Stateroom
+23. Stewards' Stateroom
+    24. Guards' Stateroom
+    25. Guards' Stateroom
+    26. Guards' Stateroom
+    27. Engineer's Stateroom
+    28. Engineer's Stateroom
     29. Port Power Plant
-    30. Pilot’s Stateroom
-    31. Medic’s Stateroom
-    32. Guards’ Stateroom
-    33. Guard Captain’s Stateroom
-    34. Guards’ Stateroom
+    30. Pilot's Stateroom
+    31. Medic's Stateroom
+    32. Guards' Stateroom
+    33. Guard Captain's Stateroom
+    34. Guards' Stateroom
     35. Sick Bay
-    36. Doctor’s Stateroom
-    37. Datapriest’s Stateroom
-    38. Communicator’s Stateroom
+    36. Doctor's Stateroom
+    37. Datapriest's Stateroom
+    38. Communicator's Stateroom
     39. Forward Lift Shafts
     40. Aft Lift Shafts
 
@@ -2917,16 +2917,16 @@ DECK TWO
 42. Lift Shaft Access
 43. Guard Post and Hatch
 44. The Dome
-45. Mens’ Washroom
+45. Mens' Washroom
 46. Meeting Room
 47. Anteroom
-48. Minister’s Oce
+48. Minister's Oce
 49. Audience Chamber
 50. Guard Post
 51. Ministry Oce
 52. Library
 53. Special Section
-54. Womens’ Washroom
+54. Womens' Washroom
 
 ```
 41
@@ -2985,11 +2985,11 @@ DECK THREE
 56. Wahroo Kennels
 57. Guest Room
 58. Guest Room
-59. Kanaleb’s Quarters
-60. Kanaleb’s Bedchamber
-61. Valet’s Room
-62. Orobid’s Living Chamber
-63. Orobid’s Bedchamber
+59. Kanaleb's Quarters
+60. Kanaleb's Bedchamber
+61. Valet's Room
+62. Orobid's Living Chamber
+63. Orobid's Bedchamber
 
 ```
 55
@@ -3072,21 +3072,21 @@ DECK FOUR
 72
 ```
 
-##### Referee’s Information
+##### Referee's Information
 
 This adventure presents two very different challenges to the Travellers.
-The attempt to plant the message projector in Orobid’s palace requires
+The attempt to plant the message projector in Orobid's palace requires
 stealth and restraint; the goal is to avoid being seen or heard. The
 attack of the TTC hitmen during the return journey, on the other hand, is
 a simple test of combat skills.
 
 AROUSING THE PALACE
-The Travellers’ first difficulty in completing their mission is the danger of
+The Travellers' first difficulty in completing their mission is the danger of
 someone in the palace becoming aware of their presence:
 •  **Awakening the Sleepers:** If the Travellers encounter any of the
 palace personnel, this could result in noise that may awaken
 nearby sleepers, even through interior walls. Gunfire outside a
-sleeper’s door will awaken them on a 2D roll of 6+, with DM-1 for
+sleeper's door will awaken them on a 2D roll of 6+, with DM-1 for
 each meter the noise is distant from the door. Shouting will wake
 someone upon a 2D roll of 8+, with the same DM. Most walls and
 ceilings in the palace are covered with sound-deadening materials
@@ -3264,7 +3264,7 @@ STR 5 DEX 7 END 6 INT 9 EDU 12 SOC 15
 Carouse 3, Deception 1, Diplomat 2, Jack-of-All-Trades 1,
 Leadership 1, Tactics (military) 1
 
-**Kanaleb’s Staff (64, 65, 66)**
+**Kanaleb's Staff (64, 65, 66)**
 STR 4 DEX 8 END 7 INT 12 EDU 12 SOC 10
 Deception 2, Gun Combat (slug) 1, Melee (unarmed) 2,
 Persuade 1, Stealth 2
@@ -3345,7 +3345,7 @@ users without high technology manufacturing capabilities.
 
 Decryption methods so far have failed to break the firmware of
 the weapon but gather some data, including a trademark called
-‘Omicron’. Some believe this is one of the first products of the mythical
+'Omicron'. Some believe this is one of the first products of the mythical
 weaponsmith; others that the mechanism was stolen and repurposed.
 Either way, experts agree that the designer made sure the decryption is
 top drawer – something uncommon in improvised weaponry.
@@ -3362,7 +3362,7 @@ AN-154 30 Cr30 AP 3*, Auto 2, Smart
 when the operator fires in burst mode.
 
 **Omicron Laser Carbine:** The Omicron laser carbine is three weapons
-in one. The major advantages to the user are convenience and ‘swag’.
+in one. The major advantages to the user are convenience and 'swag'.
 The weapon catches the eye with its custom design made from
 selected rare alloys. While it is arguable if the flashiness brings any
 utility or what message it coneys, owners of the carbine wield it proudly.
@@ -3483,47 +3483,47 @@ _distance off, he expertly spun his large exosuit cargo loader in my_
 direction and chased me down so fast that the electric motor sounded
 like it was pleading for mercy. Pulling up alongside as I was making
 my determined march by foot to the nearest landing terminal he called
-out ‘Those holes are goin’ ta cost yee more than a few pints mate,’
+out 'Those holes are goin' ta cost yee more than a few pints mate,'
 displaying one of his patented grisly toothy smiles. I just kept walking,
-pretending I didn’t hear him, knowing full well it was not going to work.
+pretending I didn't hear him, knowing full well it was not going to work.
 Liam, undeterred in the slightest, easily matched my speedy pace with
-_his equipment now whirring at a sane level and offered ‘Yee know I
-got folks that can fix that up right like... and for a good price mind yee’,
-he added in attempt to make the offer sound better. ‘I need a drink,’ I_
+_his equipment now whirring at a sane level and offered 'Yee know I
+got folks that can fix that up right like... and for a good price mind yee',
+he added in attempt to make the offer sound better. 'I need a drink,' I_
 replied, not slowing my pace one bit.
 
-‘How dem new turrets work out fer yee?’ Liam pressed switching
+'How dem new turrets work out fer yee?' Liam pressed switching
 topics deftly. I stopped suddenly. To his credit Liam did too after only a
 _couple more steps, clearing showing his expertise with his machine. I_
 looked up at him with a straight face as he rotated towards me and said
-‘They saved my butt Liam. I’ll meet ya at the bar.’ If Liam’s smile was
+'They saved my butt Liam. I'll meet ya at the bar.' If Liam's smile was
 any bigger it would have wrapped around his head. He spun around
 _and took off so fast I felt a whoosh of air from the maneuver while I_
 resumed my march to the local watering hole we both knew well. This
-time, I’d be buying.
+time, I'd be buying.
 
 _Showing a little kindness to those around you can really pay off in
 unexpected ways. Take Liam for instance. In shooting the breeze_
 over some drinks a few months ago, he recommended that I upgrade
-my turrets to popup quads. ‘Single, double, triple, quad, what’s the
-_difference?’ I asked, not convinced it was worth the cost. Liam smoothly_
-replied ‘Punching power, mate’.
+my turrets to popup quads. 'Single, double, triple, quad, what's the
+_difference?' I asked, not convinced it was worth the cost. Liam smoothly_
+replied 'Punching power, mate'.
 
 _Giving him my best questioning raised eyebrow look he explained_
-further. ‘Look, even pirates with unarmored ships are willing tee take
-a few shots te get what they want but they don’t want te lose their
-ship. Ships cost big Credits. So, what I’m sayin’ here is that even with
+further. 'Look, even pirates with unarmored ships are willing tee take
+a few shots te get what they want but they don't want te lose their
+ship. Ships cost big Credits. So, what I'm sayin' here is that even with
 a couple of quad turrets and the right weapons you can hit them hard
 enough that they are going to rethink about you being easy prey. And
-_even pirates that ain’t so smart can see the difference between two,_
+_even pirates that ain't so smart can see the difference between two,_
 
 _four, six or eight weapons firing at them. Even a small 200-ton trader_
-that suddenly pops up eight weapons ready tee go and it’s like, whoah,
-we might not come out of this so well, aye?’ He paused to take a long
-draw on his frosty beer before continuing ‘And if the lads are bold
+that suddenly pops up eight weapons ready tee go and it's like, whoah,
+we might not come out of this so well, aye?' He paused to take a long
+draw on his frosty beer before continuing 'And if the lads are bold
 enough to try... well, a few broadsides should do enough damage
-where they start thinkin’ that if they’d like tee keep breathin’ air and
-make it back alive then your cargo might not be worth diein’ for aye?’
+where they start thinkin' that if they'd like tee keep breathin' air and
+make it back alive then your cargo might not be worth diein' for aye?'
 
 You may be wondering what weapons you should put in your quad
 turret. That depends. A lot depends on personal preference but some
@@ -3538,12 +3538,12 @@ the chances are pretty good that you will hit with multiple warheads.
 Fusion guns come in as a close second and can dish out an impressive
 4D+12 plus radiation damage for a set of four of these puppies. Double
 that for two quad turrets. They use a lot of power and range is limited,
-so keep that in mind. Hank, a gunner friend of mine, says that he’s
+so keep that in mind. Hank, a gunner friend of mine, says that he's
 started glowing at night after manning fusion guns for several months
 so if you are engaging in some family planning it may be worth paying
-for a gunner or computer software. Just sayin’.
+for a gunner or computer software. Just sayin'.
 
-For maximum range, you can’t beat particle beams. If your ship has
+For maximum range, you can't beat particle beams. If your ship has
 the thrust to keep your opponent at distance this may be your best
 option. These babies do cost mucho Megacredits. As with most things,
 however, you tend to get what you pay for.
@@ -3568,13 +3568,13 @@ weapon in a turret for extra damage, there is nothing wrong with putting
 different weapons in the same turret; for example, having a long range
 weapon, short range weapon and maybe a defensive weapon. Another
 consideration is balancing between weapons that use power and those
-that don’t. Missiles don’t use power and is a sort of ‘fire and go get
-a snack’ strategy. Tech Level could be a limiting factor in addition to
-power and cost so you’ll need to carefully consider the best options with
+that don't. Missiles don't use power and is a sort of 'fire and go get
+a snack' strategy. Tech Level could be a limiting factor in addition to
+power and cost so you'll need to carefully consider the best options with
 what is feasible for you.
 
-Now I get questions like ‘If quad turrets are so good then why isn’t the
-mighty Imperial Navy using them?’ Good question and I’m glad you
+Now I get questions like 'If quad turrets are so good then why isn't the
+mighty Imperial Navy using them?' Good question and I'm glad you
 asked. Some years back a successful GeDeCo (General Development
 Corporation) navy sales rep was singing the praises of the new quad
 turret. As luck would have it, the annual Navy Ship and Armament show
@@ -3583,18 +3583,18 @@ the quad turret in action before making a purchase decision. Go figure.
 
 At any rate, par for the course, our sales guy was selling essentially
 vapourware. Technically speaking, there was a quad turret being
-developed in GeDeCo’s R&D department but, more often than not,
+developed in GeDeCo's R&D department but, more often than not,
 money and profits drive corporate decisions and not always for the best.
 So, push came to shove and GeDeCo installed a couple of quad turrets
 on a small escort ship in time for the show. During the demonstration
 some sort of mishap occurred with the turret system, overloading the
 power plant, which then critically failed resulting in an explosion that
-ignited the ship’s fuel and destroyed the vessel. Needless to say this
-wasn’t the result GeDeCo was looking for and, to nobody’s surprise,
-there wasn’t any interest in purchasing the quad turret system.
+ignited the ship's fuel and destroyed the vessel. Needless to say this
+wasn't the result GeDeCo was looking for and, to nobody's surprise,
+there wasn't any interest in purchasing the quad turret system.
 
 The rumor mill suggests this event may have had something to do
-with why GeDeCo was ‘volunteered’ to receive a contract working in the
+with why GeDeCo was 'volunteered' to receive a contract working in the
 Imperial Fringes; pure speculation, of course. Further rumors, which
 perhaps peg closer to the truth, suggest that GeDeCo sold the patent
 for the quad turret to a small ship design company that posed no real
@@ -3640,7 +3640,7 @@ this in order to entice a mate, who will often watch three or four displays
 before settling on a partner. The small feathers of the wings can be
 puffed up in order to increase perceived size and common practise is to
 extend the neck as much as possible to increase height. Displays begin
-in the second year of the ynchaeir’s life, with the species able to mate
+in the second year of the ynchaeir's life, with the species able to mate
 once or twice. Clutches of 7–10 eggs are constantly supervised by the
 male whilst the female hunts.
 
@@ -3669,14 +3669,14 @@ The Pink Diamond is a modified Type-Y yacht, with the hull painted to
 represent a pink diamond and its name emblazoned in platinum. The
 Pink, as its crew refer to it, can be encountered in any starport.
 
-As well as the alterations made to the Pink itself, the ship’s boat is
-painted platinum with the logo ‘Baby Pink’ stamped on the front. The ATV
-is pale pink with the logo ‘Baby Pink Two’ in platinum and features an
+As well as the alterations made to the Pink itself, the ship's boat is
+painted platinum with the logo 'Baby Pink' stamped on the front. The ATV
+is pale pink with the logo 'Baby Pink Two' in platinum and features an
 expensive entertainment suite, wet bar and three pools in the work area.
 The turret contains a mount for a vulcan machinegun, usually stored
 in a secured locker in the docking bay along with three magazines of
 ammunition. The neon pink air/raft also has an entertainment suite and
-wet bar, with the logo ‘Baby Pink Three’ on the side.
+wet bar, with the logo 'Baby Pink Three' on the side.
 
 OWNERSHIP AND CREW
 Having had many owners throughout her years, the Pink Diamond
@@ -3756,7 +3756,7 @@ status deserves. The Marquis
 surrounds himself with people
 who defer to him, using them
 to feed his ego. Occupying
-the yacht’s luxury stateroom,
+the yacht's luxury stateroom,
 the walls are adorned with
 blades of all kinds, along with
 many curios won in gambling
@@ -3772,9 +3772,9 @@ contains a boarding vacc suit.
 
 LUCY ROGERISTTEIN
 Lucy is intelligent, attractive,
-5’ 6’’, blonde, blue eyed
+5' 6'', blonde, blue eyed
 and fair skinned. She is
-Zander’s lover and shares
+Zander's lover and shares
 his stateroom. Lucy started
 out as a corporate worker,
 in which she was successful
@@ -3790,7 +3790,7 @@ behind bars. Six months
 ago, she met Zander in a
 casino and they have been
 inseparable since. Whilst she
-may appear as Zander’s eye
+may appear as Zander's eye
 candy, she is actually the
 more intelligent of the couple,
 often advising him on the
@@ -3831,21 +3831,21 @@ Human Female
 
 TREVOR GYTE
 Trevor is a gargantuan man with
-a weightlifter’s physique and a
+a weightlifter's physique and a
 shaven head. His olive skin is
 covered in prison tattoos, with
 only his golden-brown eyes
 shining through. Won from
 another noble at a gambling
 table, Trevor has been in
-Zander’s service for six months
+Zander's service for six months
 now; an experience beginning
 only a day after his release
 from prison. Before prison he
 was an enforcer for one of his
-home planet’s most notorious
+home planet's most notorious
 gangs, although he now counts
-himself as the ships ‘first mate’.
+himself as the ships 'first mate'.
 Trevor likes life aboard the Pink,
 it being easy in comparison to
 his previous way of life and with
@@ -3890,7 +3890,7 @@ Human Male
 ```
 
 ANDON BLISOR
-The Pink’s pilot is a willowy man
+The Pink's pilot is a willowy man
 with a crop of bright blue hair,
 which contrasts sharply with
 his almost translucent skin. His
@@ -3900,14 +3900,14 @@ up behind them when they are
 not paying attention. A pirate by
 trade, Andon was offered the
 position by Zander after hearing
-word of the young man’s skill.
+word of the young man's skill.
 When working, Andon wears
 TL10 cloth armor and carries
 a laser pistol and dagger. The
 rest of the time, he can be seen
 sporting a jewelled cutlass on a
 belt worn over an exaggerated
-‘pirate’ costume. Andon spends a
+'pirate' costume. Andon spends a
 lot of time with Candy and fancies
 himself as her partner, despite
 the fact she is a skinjob.
@@ -3940,7 +3940,7 @@ Human Male
 
 BAV FUALKS
 Headhunted by Zander, Bav
-is the ship’s engineer, tasked
+is the ship's engineer, tasked
 with ensuring that the years of
 modifications are in working order.
 With her grey hair pulled back into
@@ -3992,7 +3992,7 @@ SPECIES GENDER
 Human Female
 ```
 
-###### ‘DOC’ JULIAN HARTARN‘DOC’ JULIAN HARTARN
+###### 'DOC' JULIAN HARTARN'DOC' JULIAN HARTARN
 
 ```
 CHARACTERISTICS SKILLS
@@ -4020,8 +4020,8 @@ SPECIES GENDER
 Human Male
 ```
 
-‘DOC’ JULIAN HARTARN
-‘Doc’ is short and fat, with an ill pallor to his skin, his blue eyes stained
+'DOC' JULIAN HARTARN
+'Doc' is short and fat, with an ill pallor to his skin, his blue eyes stained
 with age. Taking the position on the Pink after losing a bet to Zander,
 he has been working aboard the ship for two years, in which time his
 hairline has receded at a great rate. After university, Julian spent 24
@@ -4035,7 +4035,7 @@ he will try to obtain funds at any chance he gets to sit at a gambling
 table. In a vain attempt to try and remain fit he spars with Zander and
 Bav but this is merely an exercise in futility. He wears a diplo vest, and
 can arm himself with a rapier from his stateroom, but normally carries
-a body pistol. Friendly and well mannered, ‘Doc’ is liked by all aboard
+a body pistol. Friendly and well mannered, 'Doc' is liked by all aboard
 the Pink. Unbeknownst to the rest of the crew, he is secretly planning
 to steal the ship, sell it and abscond with the Credits needed to buy an
 exorbitant amount of anagathics.
@@ -4046,7 +4046,7 @@ frame surprisingly adept with a large amount of weaponry. She worked
 a few years on a free trader, then found religion; The Gospel of Free
 Expression. The church taught her the ineptitude of other organised
 religions and after a number of years of service was promoted into the
-militant sect known as the ‘Release’. This sect takes a more direct route
+militant sect known as the 'Release'. This sect takes a more direct route
 against other religions by assassinating their preachers. In her work
 gear of an old pair of coveralls, scruffy hair and plethora of various dirt
 and grime on her face, Missy often stands out against the rest of the
@@ -4093,7 +4093,7 @@ CANDY
 Candy is a skinjob who has
 become the steward of the
 Pink. Won by Zander five
-years ago, Candy’s pink
+years ago, Candy's pink
 hair matches the exterior of
 the ship, accented by her
 platinum jumpsuit. She has
@@ -4131,7 +4131,7 @@ Programming Very Advanced
 ```
 
 THE PINK DIAMOND (TYPE-Y YACHT)
-Different to your usual noble’s pleasure-liner, the interior is pink
+Different to your usual noble's pleasure-liner, the interior is pink
 and platinum, soft furnishings are silk and velvet, and three extra
 staterooms have been added, replacing some of the common areas.
 Equipped with two pop-up turrets, one dorsal and one ventral, these
@@ -4148,7 +4148,7 @@ sandcaster, missile rack and pulse laser.
 - The Travellers upset Zander and will be expected to duel
     him. Whatever the outcome, the Pink Diamond can become
     a recurring encounter.
-- ‘Doc’ Julian attempts to convince the Travellers to assist him
+- 'Doc' Julian attempts to convince the Travellers to assist him
     in stealing and selling the ship.
 - Missy attempts to convert the Travellers to her cause or attempts
     to assassinate a Traveller if they have a religious belief.
@@ -4158,7 +4158,7 @@ sandcaster, missile rack and pulse laser.
     staff the spare gun, amongst other things.
 
 ```
-‘Baby Pink Two’
+'Baby Pink Two'
 ```
 
 ###### THE PINK DIAMOND
@@ -4174,7 +4174,7 @@ J-Drive Jump-1 10 15
 Power Plant Fusion, Power 120 8 8
 
 Fuel Tanks 4 weeks operation, J-1, plus
-Ship’s Boat
+Ship's Boat
 
 ```
 22 —
@@ -4208,8 +4208,8 @@ Systems Docking Space (4 tons) 5 1.25
 ```
 Air/Raft — 0.25
 Docking Space (30 tons) 33 8.25
-Ship’s Boat — 7.272
-ATV (on ship’s boat) — 0.54
+Ship's Boat — 7.272
+ATV (on ship's boat) — 0.54
 ```
 
 Staterooms Standard x15 60 7.5
@@ -4290,7 +4290,7 @@ Fuel Processor
 
 1. Bridge
 2. Air/Raft Docking Space
-3. Ship’s Boat Docking Space
+3. Ship's Boat Docking Space
 4. Cargo Bay
 4. Cargo Bay
 5. Luxury Stateroom
@@ -4389,7 +4389,7 @@ branch over billions of years, consuming its inner planets and cooling
 considerably. As in other star systems, its expansion has warmed what
 were once its frigid outer planets, including Halka, which is perched
 in what is now the habitable zone of the system, nearly 40 AU from
-Wuak’s core.
+Wuak's core.
 
 Whilst most outer-system planets and gas-giant satellites are far too
 cold to develop life of their own, Halka is rife with living things and
@@ -4434,13 +4434,13 @@ proved that the two shared a common genome and were indeed two
 separate branches of Humaniti.
 
 For more about the Florians, refer to Volume 4 of the Journal of the
-Travellers’ Aid Society.
+Travellers' Aid Society.
 
 The Halkans were enslaved by the Florians and made to work the
 fields, much as they had for millennia, and their pastoral existence
 became a thing of the past. Their labour was now for the benefit of the
 Florian League and most of its largesse shipped off world for the benefit
-of the League’s numerous colonial expeditions. While Feskals willingly
+of the League's numerous colonial expeditions. While Feskals willingly
 accepted their role as subordinates to the Barnai, the Halkans did not
 believe that it was their intended role to serve. However, their inclination
 was to accept subjugation with minimal resistance. Other than toothless
@@ -4507,7 +4507,7 @@ prospects and suicide are rife in Halkan communities, especially those
 that have developed off Halka itself. Halkan ghettos are depressing
 places, seemingly bereft of hope. For their part, the Florians do not
 seek to hide these blemishes on their society. Most are rather upbeat
-about the Halkans, believing that there is ‘nowhere to go but up’ for
+about the Halkans, believing that there is 'nowhere to go but up' for
 most of them.
 
 The Halkans on Halka itself seem to have the brightest prospects. The
@@ -4562,7 +4562,7 @@ Despite their outward appearances, Halkans are not terribly unlike
 standard Vilani or Solomani humans. The Ancients brought them to
 Halka from Terra and much like the many other human Minor Races,
 they have evolved to survive on their adoptive homeworld. As described
-above, Halkans’ skin is virtually devoid of pigment, making them look
+above, Halkans' skin is virtually devoid of pigment, making them look
 almost albino. They are taller than the average human but slenderer
 and with a tendency to hunch when standing.
 
@@ -4613,7 +4613,7 @@ By David Sansom
 **Location:** Canisus (0330 C4317BA-8), Star Lane subsector, Deneb
 **Recommended Skills:** Mechanic, Persuade and Recon
 **Reward:** Cr100000 (potential bonus of Cr100000 for additional
-information of Mandal’s release)
+information of Mandal's release)
 
 **Mission:** Deliver the care package to the SMH Operative, collect
 the recorded video and deliver it to the SMH office on Aosta (0332
@@ -4639,7 +4639,7 @@ throughout the years of operation. Most of its workforce are locals
 employed by the state and subcontracted to SMH so it has little control
 over their compensation or rights, which are being alarmingly eroded.
 The ruling dictatorship has been struggling with increasingly more
-militant workers’ rights movements, some of which have developed into
+militant workers' rights movements, some of which have developed into
 domestic terrorist groups. To counter this the intransigent leader, First
 Minister Leopert Anttisaari, is pushing an ever more hard-line stance in
 dealing with the dissidents. This is exemplified by the construction of a
@@ -4650,7 +4650,7 @@ The Travellers are approached by Reve Salla of Sternmetal Horizons
 (SMH) with an offer. They need independent consultants to help with
 the imprisonment of one of their employees on Canisus. One of their
 SMH worker relations operatives, Mandal Mahalla, had been working
-with a peaceful protest group called the Miners’ Rights League.
+with a peaceful protest group called the Miners' Rights League.
 
 Unfortunately, she was arrested during a clampdown on worker
 gatherings and incarcerated on Krida. Mahalla has been cut off from
@@ -4664,7 +4664,7 @@ their operative. They are to deliver a care package and request Mandal
 record a video message for proof of her wellbeing. Afterwards, the
 recording needs to be delivered to an SMH office on Aosta as quickly
 as possible. Completing this task will net the Travellers Cr100000.
-Additional information leading to Mandal’s release will net a bonus,
+Additional information leading to Mandal's release will net a bonus,
 depending on its value, of up to a further Cr100000.
 
 Sternmetal Horizons will provide medium passage or running costs
@@ -4688,13 +4688,13 @@ and luggage scanners and physical spot checks common. Offworld
 visitors are permitted with suitable paperwork, with limitations imposed
 on where they are permitted to travel. Generally, this means that
 access to government facilities, mining operations and any regions
-considered ‘unsafe’ due to terrorist activity are off-limits without specific
+considered 'unsafe' due to terrorist activity are off-limits without specific
 permits. Additionally, apart from designated visitor enclaves in the city
-centres, they will need a ‘guide’ provided by the state. Surveillance and
+centres, they will need a 'guide' provided by the state. Surveillance and
 propaganda are ever-present, drones and state police are a frequent
-reminder of the state’s control.
+reminder of the state's control.
 
-The Travellers’ documents, which SMH have provided, will be
+The Travellers' documents, which SMH have provided, will be
 thoroughly scrutinised on arrival. This leads to a considerable, and
 possibly nerve-wracking, delay but they will eventually be approved and
 even given a permit to visit the prison at Krida.
@@ -4711,7 +4711,7 @@ they will be very expensive and of limited availability. Black market
 items will be difficult to find, with a high cost and low Tech Level,
 typically TL6 or less.
 
-If the Travellers try to contact the Miners’ Rights League, they will find
+If the Travellers try to contact the Miners' Rights League, they will find
 the small office in town is closed with a government order posted on the
 door declaring it a banned organization. Asking around, a successful
 Streetwise check will reveal members of the group are all either
@@ -5014,8 +5014,8 @@ to the upper cell block level and a visitation room. The room is divided
 in two by a thick Perspex wall, with a microphone and speaker system
 to allow communication between the two sides. A locked hatch on one
 side, controlled by guards, allows sanctioned care package items to be
-passed through. Several chairs are arranged on the visitors’ side and
-one on the inmates’ side.
+passed through. Several chairs are arranged on the visitors' side and
+one on the inmates' side.
 
 Once the Travellers are seated, Mandal will be brought in and they will
 be allowed to communicate with her. One guard will remain on duty on
@@ -5032,7 +5032,7 @@ to the missing but the end result is that they do not return... She will not
 voice these concerns whilst a guard is present.
 
 The video message she records has a number of pre-arranged code
-phrases weaved into an otherwise innocuous ‘proof of wellbeing’
+phrases weaved into an otherwise innocuous 'proof of wellbeing'
 message. The Travellers listening notice some odd phrases with an
 INT check and can derive the intent behind the phrases. The meaning
 remains unknown but the intent to pass information clandestinely is clear.
@@ -5040,7 +5040,7 @@ remains unknown but the intent to pass information clandestinely is clear.
 THE KICKER
 An extremist group called the Canisus Freedom Fighters (CFF) have
 planned an audacious jailbreak, which will unfortunately derail the
-Travellers’ plans. The CFF have been earning a reputation through a
+Travellers' plans. The CFF have been earning a reputation through a
 number of retaliatory attacks on state security forces and branded a
 terrorist group by the government.
 
@@ -5050,9 +5050,9 @@ recovery. They have pushed several sizeable rocky asteroids out of
 their orbits into a sling shot aimed at Krida, specifically at the prison;
 there is a considerable margin of error, hence several rocks.
 
-The CFF’s intention is to knock out the communication antennae, the
+The CFF's intention is to knock out the communication antennae, the
 defence turrets and to breach the terminal building. A flotilla of mining
-ships carrying CFF fighters following in the rocks’ shadow will then land
+ships carrying CFF fighters following in the rocks' shadow will then land
 and stage the escape. The craft are typically small, old and repurposed
 for hauling ore but can still generate a good 3G of thrust. Once the
 rocks have done their job, CFF forces will advance into the prison
@@ -5119,13 +5119,13 @@ several square kilometers.
 
 TIMING OF EVENTS
 The impacts start as the meeting with Mandal is concluding. A gentle
-tremor shaking the room and then a distant, repeating, ‘thump’
+tremor shaking the room and then a distant, repeating, 'thump'
 noise are the initial signs of something being amiss. A Routine
 (6+) Recon or Heavy Weapons check recognizes it as autocannon
 fire. The entire prison shakes with each impact, gently at first but
 successively more dramatically.
 
-The guard on Mandal’s side steps out at this point to find out what is
+The guard on Mandal's side steps out at this point to find out what is
 going on, locking the door behind him.
 
 On the first main impact an alarm starts to sound (for the lockdown,
@@ -5156,7 +5156,7 @@ it. Once awake, the guard will not unlock the door unless convinced
 they are in imminent danger (or receives orders to do so). His radio is
 not able to reach control as it was heavily damaged.
 
-The guard’s name is Matatrik Aosaari. He has a stunstick, a stunner
+The guard's name is Matatrik Aosaari. He has a stunstick, a stunner
 sidearm, a set of restraints and a radio with earpiece. If Mandal has
 been released, he will insist on putting the restraints on her.
 
@@ -5166,7 +5166,7 @@ operational on emergency power. The lift itself is locked in place as the
 automatic braking system kicked in halfway between the first and second
 
 level. Four guards changing shifts are trapped in the lift. Over time
-they get desperate and will try to escape. The lift’s roof and floor have
+they get desperate and will try to escape. The lift's roof and floor have
 maintenance access panels but without proper tools it takes the guards
 two hours of determined effort before they can open the roof panel. If
 anyone breaks through the floor during that time, they will assume it is
@@ -5179,12 +5179,12 @@ and rooms are littered with debris from the ceiling, blocking some
 routes. However, most of the area can be reached one way or another
 (breaking partition walls or smashing windows).
 
-The doors between the guards’ area and the cell blocks or stairwell
+The doors between the guards' area and the cell blocks or stairwell
 are locked tight with dead bolts that were thrown when the first alarm
 went off. This means manually retracting them or breaking the door
 down. The latter is only viable where impact damage has weakened the
 frames. To be released manually, the dead bolts require specific tools,
-stored in the barracks armory or guards’ stations. Without this tool, a
+stored in the barracks armory or guards' stations. Without this tool, a
 good mechanic with decent tools can figure out a way to open them but
 it is harder and takes longer.
 
@@ -5210,7 +5210,7 @@ and a full riot has broken out.
 
 At this point most of the guards will head down to respond to the riot,
 leaving just two guards to escort the visitors out. The route up passes the
-‘hidden’ section of the complex and the exposed door has an emergency
+'hidden' section of the complex and the exposed door has an emergency
 light over it. The guards will be reluctant to enter and if the Travellers
 insist, they will refuse to accompany them and continue the evacuation.
 
@@ -5229,12 +5229,12 @@ The second level is mostly intact but passing through risks conflict with
 the CFF and/or prison security. Also, there are many areas in which
 rooms and corridors have partially or completely collapsed.
 
-If Traveller’s can safely reach the first level, they find it in a bad way.
+If Traveller's can safely reach the first level, they find it in a bad way.
 Many sections are sealed off by emergency pressure seals or blocked
 with debris. CFF forces and the remaining security have sporadic
 clashes, making finding a way out even harder.
 
-The following incidents can be used during the Travellers’ escape
+The following incidents can be used during the Travellers' escape
 through this level.
 
 INCIDENT 1
@@ -5305,7 +5305,7 @@ the check.
 
 Checking the bodies uncovers two autopistols with spent magazines
 and three full spare clips. There are also two stunners (TL8) with
-full magazines. If the Travellers wait for the ‘terrorist’ group to leave
+full magazines. If the Travellers wait for the 'terrorist' group to leave
 before approaching, the dying guard has expired and the spare clips
 are gone. Either way, a key card can be found in the front pocket of
 one of the guards.
@@ -5371,7 +5371,7 @@ a way offplanet, the final challenge is to get to safety (see Flight from
 Krida on page 122).
 
 THE EASTER EGG
-Some of the Krida prison guards are aware of the ‘hidden’ section to
+Some of the Krida prison guards are aware of the 'hidden' section to
 the complex. They have no idea what goes on inside but it may offer an
 alternative exit or safer shelter. After the pounding of the bombardment,
 the panel hiding the door on the stairwell will have buckled and shifted,
@@ -5381,7 +5381,7 @@ The buckled panels will allow access to RFID wiring and the door
 frame. Opening the door can be achieved by various means. For any
 attempt, other Travellers can help as part of a task chain.
 
-Once through the door Travellers enter what appears to be a guards’
+Once through the door Travellers enter what appears to be a guards'
 station but the guard has clearly left. A discarded magazine lies by
 the desk with the monitor showing static. The security door into the
 complex beyond is ajar.
@@ -5404,8 +5404,8 @@ The battered bodies of scientists will be found in rooms that have
 clearly been trashed by someone or something, perhaps in rage or
 panic. A wounded man in a white coat with the nametag Tullus Rophas
 can be discovered hiding in a store cupboard. He will not divulge details
-but be panicked enough to reveal that ‘some of the subjects escaped
-containment’ and ‘they tore out their restraint modules’. If questioned
+but be panicked enough to reveal that 'some of the subjects escaped
+containment' and 'they tore out their restraint modules'. If questioned
 about exits, he will recall an emergency evacuation exit but insist on
 being taken rather than revealing the location.
 
@@ -5465,7 +5465,7 @@ The area beyond is less damaged than other parts of the level. Through a
 window in the first door, the Travellers can see a laboratory with a scientist
 at a workstation, behind whom lies a sedated and secured patient. The
 patient has several experimental augmentations connected to monitors.
-Opposite the laboratory is another door labelled ‘morgue’. This holds the
+Opposite the laboratory is another door labelled 'morgue'. This holds the
 remains of about a dozen people, victims of earlier experiments.
 
 GETTING OUT
@@ -5530,11 +5530,11 @@ they may be able to convince the commander there to quietly take them
 in one of their scout ships to a nearby system.
 
 MISSION COMPLETION
-The Travellers’ primary task was to deliver the care package and return
-with the ‘proof of wellbeing’ evidence. However, the actions of the CFF
+The Travellers' primary task was to deliver the care package and return
+with the 'proof of wellbeing' evidence. However, the actions of the CFF
 have changed the situation and Mandal will want to use the opportunity
 to escape the system. Ideally, she wants to return with evidence of the
-mistreatments of the miners, specifically of effective ‘chattel slavery’,
+mistreatments of the miners, specifically of effective 'chattel slavery',
 which is forbidden by Imperial High Law (under Article VI of the Warrant
 of Restoration).
 
@@ -5547,9 +5547,9 @@ advantage but has no desire to get mired in allegations of complicity in
 slavery. If presented with this evidence, it takes a strong public stance
 of supporting Imperial led actions against the regime.
 
-Getting back to the SMH offices at Aosta with ‘proof of wellbeing’ will
-fulfil the Travellers’ contract and net their expected pay-out. Returning
-with credible evidence of ‘chattel slavery’ would trigger the bonus of
+Getting back to the SMH offices at Aosta with 'proof of wellbeing' will
+fulfil the Travellers' contract and net their expected pay-out. Returning
+with credible evidence of 'chattel slavery' would trigger the bonus of
 Cr100000 and bringing Mandal home would receive a similar bonus.
 
 TL12 Tons Cost (MCr)
@@ -5734,7 +5734,7 @@ nourishment. This includes the dense accumulation of liquid hydrogen
 that makes up starship fuel. Scuttlefish have been known to adhere to a
 starship in an attempt to penetrate fuel tanks with their rasping tongue.
 
-Due to their method of propagation, the species’ origin is unknown.
+Due to their method of propagation, the species' origin is unknown.
 Upon encountering a solid object, an adult scuttlefish sprays out a
 cloud of 2Dx10 gelatinous polyps, each about 50 centimeters wide,
 which attach themselves like barnacles to any available surface. There
@@ -5762,7 +5762,7 @@ Ectothermic (stealth +1)
 Behaviour Filter, Grazer
 ```
 
-Welcome to the Journal of the Travellers’ Aid Society, your indispensable
+Welcome to the Journal of the Travellers' Aid Society, your indispensable
 guide to adventuring in the Far Future.
 
 Each volume is a treasure trove of information and game additions for
@@ -5804,10 +5804,10 @@ The
 The
 ```
 
-of the Travellers’ Aid Society
+of the Travellers' Aid Society
 
 ```
-of the Travellers’ Aid Society
+of the Travellers' Aid Society
 ```
 
 ## JJJournal
@@ -5819,7 +5819,7 @@ The
 ```
 
 ```
-of the Travellers’ Aid Society - Volume 8
+of the Travellers' Aid Society - Volume 8
 ```
 
 9 781913 076719

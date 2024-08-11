@@ -77,7 +77,7 @@ craft will be required.
 Battleships
 Detailing large ships which are more powerful than entire fleets
 of smaller craft, battleships are enormous jump-capable warships
-often called ‘dreadnoughts’. They are offensive powerhouses
+often called 'dreadnoughts'. They are offensive powerhouses
 covered in secondary batteries and arrays, making them almost
 impervious to small craft and missile fire.
 
@@ -256,7 +256,7 @@ strange but innovative fighter. Two pilots are belted into the central core cock
 wing struts. Manoeuvring thrusters are positioned on armored facets over its surface, giving it effectively a full range of directional control
 by simply spinning the cockpit to face the direction the ship is to move.
 
-Note: Due to the _Gyro_ -class fighter’s unique shape and design it can ONLY be launched from a ship equipped with Launch Tubes.
+Note: Due to the _Gyro_ -class fighter's unique shape and design it can ONLY be launched from a ship equipped with Launch Tubes.
 
 Turret Wing FighterTurret Wing Fighter TonsTons Price (MCr)Price (MCr)
 Hull 40 Tons Hull 1
@@ -709,7 +709,7 @@ measure
 
 Now considered obsolete by the Imperial navy, the Azhanti High Lightning -class cruiser was built to fill several different roles, rather than
 specialising in one. Its ability to make jump 5 gives it tremendous range, but robs overall fuel efficiency. Many of these ships ended up in
-the Scout Service due to their ‘ship-of-many-trades’ design, refurbished to their needs.
+the Scout Service due to their 'ship-of-many-trades' design, refurbished to their needs.
 
 Frontier CruiserFrontier Cruiser TonsTons Price (MCr)Price (MCr)
 Hull 60 ktons
@@ -1407,7 +1407,7 @@ measure
 
 A huge carrier design, the Antiama class is a key component of the Imperial navy. It is a hulking vessel that tends to stay relatively stationary in
 battle, relying on its numerous heavy attack fighters and bombers. That is not to say the Antiama -class carrier is not without its own offensive
-capabilities, boasting numerous weapon bays and point-defence systems, but it is not expected to fill a battleship’s role.
+capabilities, boasting numerous weapon bays and point-defence systems, but it is not expected to fill a battleship's role.
 
 Fleet CarrierFleet Carrier TonsTons Price (MCr)Price (MCr)
 Hull 100 ktons
@@ -1666,8 +1666,8 @@ Fighters
 #### STRIKE CARRIER (WIND-CLASS)
 
 The Wind -class strike carrier is one of the most common carriers used in the Imperial navy, mixing the offensive power of a strike cruiser
-with the ability to ferry eight squadrons of fighters. Its ‘long-necked’ style of launch and recovery areas are not as efficient as those found in
-larger, dedicated carriers, but the Wind ’s powerful meson gun mount makes up for any time lost in launching sorties.
+with the ability to ferry eight squadrons of fighters. Its 'long-necked' style of launch and recovery areas are not as efficient as those found in
+larger, dedicated carriers, but the Wind 's powerful meson gun mount makes up for any time lost in launching sorties.
 
 Strike CarrierStrike Carrier TonsTons Price (MCr)Price (MCr)
 Hull 75 ktons
@@ -2256,7 +2256,7 @@ Total Tonnage & Cost 199,910 134,271.828
 
 The _Plankwell_ dreadnought is a battleship designed to hold the center of a battleline against several enemy ships, serving as the core of
 a major task force. The largely component-based production methods used to build these dreadnoughts allows for a diverse armament
-spread and makes best use of the Imperium’s different planetary resources. For example, much of the ship can be built at TL13 or lower,
+spread and makes best use of the Imperium's different planetary resources. For example, much of the ship can be built at TL13 or lower,
 allowing repairs to be made at more facilities, with high technology components limited to the main spinal mount, some secondary
 weapons, screens and electronics.
 

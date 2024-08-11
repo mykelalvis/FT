@@ -2,7 +2,7 @@
 
 by Loren K. Wiseman 
 
-The 20-ton launch is among the smallest general utility craft in common use, manufactured in many configurations throughout known  space.  This  publication  deals  with nine common variants (including an armed version normally called a gig to distinguish it from the others). The vehicle’s low price and simple construction make it a very popular basis  for  conversions  and  add-ons.  Modifications can be carried out at any starport.
+The 20-ton launch is among the smallest general utility craft in common use, manufactured in many configurations throughout known  space.  This  publication  deals  with nine common variants (including an armed version normally called a gig to distinguish it from the others). The vehicle's low price and simple construction make it a very popular basis  for  conversions  and  add-ons.  Modifications can be carried out at any starport.
 
 Launches are normally used for trips of 12- 18 hours. Longer durations are possible, but most  do  not  make  provision  for  overnight trips.  On-board  life  support  is  good  for considerably  longer  than  that,  but  no provision is made for extra crew or the long- term comfort of the crew or passengers. 
 
@@ -20,7 +20,7 @@ The  engineering  section  is  not  normally manned while in flight – the flig
 
 In  most  variants,  the  cockpit  and  engineering  sections  are  identical,  and  their descriptions are not repeated unless some- thing changes significantly. 
 
-Emergency exit panels are located on the boat’s dorsal and ventral surfaces, every two meters – these are explained in more detail in the engineering section. 
+Emergency exit panels are located on the boat's dorsal and ventral surfaces, every two meters – these are explained in more detail in the engineering section. 
 
 ### Cockpit
 
@@ -30,10 +30,10 @@ The cockpit consists of the area forward of the  airlock  and  fresher,  and  is
 
 `1` - A standard avionics package is  fitted  to  all  models  (passive  and  active sensors, commo, and navigation systems). 
 
-#### Pilot’s Station
+#### Pilot's Station
 `2` - The pilot occupies this station during flight. 
 
-#### Flight  Engineer’s  Station
+#### Flight  Engineer's  Station
 `3` - The  flight engineer  monitors  all  systems  from  this station during flight. 
 
 #### Supply Locker
@@ -58,14 +58,14 @@ The  passenger  section  and  cargo  sections  can  be  reconfigured  by  adding
 ### Fuel Section
 
 #### Fuel Tanks (P/S)
-`9` - The boat’s fuel tanks are  conventional `Lhyd `tanks,  normally refilled through standard fittings on the part, starboard, dorsal, and ventral sides. Some variants of the 30-ton ship’s boat have a fuel skimmer installed at the expense of part of the passenger/cargo sections. 
+`9` - The boat's fuel tanks are  conventional `Lhyd `tanks,  normally refilled through standard fittings on the part, starboard, dorsal, and ventral sides. Some variants of the 30-ton ship's boat have a fuel skimmer installed at the expense of part of the passenger/cargo sections. 
 
 #### Access Hallway
 `10` - This passage connects  the  cargo  and  engineering  sections, and has pressure-tight doors at both ends. Both  of  these  doors  can  be  locked  for security purposes.  It generally has an [[#Emergency Exit]] (`14`).
 
 ### Engineering Section
 
-Engineering  contains  standard  tools  and spares  for  the  life  support  and  drive machinery,  extra  air  tanks  and  a  OSFA (one-size-fits-all)  vacc  suit  for  emergency EVAs (in case none of the crews’ suits are functional), and two more rescue balls. 
+Engineering  contains  standard  tools  and spares  for  the  life  support  and  drive machinery,  extra  air  tanks  and  a  OSFA (one-size-fits-all)  vacc  suit  for  emergency EVAs (in case none of the crews' suits are functional), and two more rescue balls. 
 
 #### Crew  Access
 `11` - This  space  allows maintenance  access  to  life  support  machinery and maneuver drive monitoring instruments. It is used for in-flight monitoring and maintenance by the flight engineer.  
@@ -74,7 +74,7 @@ Engineering  contains  standard  tools  and spares  for  the  life  support  and
 `12` - Life support systems are automated, and require only periodic mon- itoring during normal operations. 
 
 #### Maneuver  Drives
-`13` - The  vessel’s maneuver drives are rated at 2 Gs. They are not normally accessed during flight, but are monitored  from  the  cockpit  at  the  pilot’s station. 
+`13` - The  vessel's maneuver drives are rated at 2 Gs. They are not normally accessed during flight, but are monitored  from  the  cockpit  at  the  pilot's station. 
 
 #### Emergency Exit
 `14` - These are located at  intervals  on  the  dorsal  and  ventral  sur- faces. These are not airlocks, so they are for use  only  in  breathable  atmospheres,  or when  all  occupants  are  in  [[Vacc Suit]]s  or [[rescue ball]]s. Emergency exits have variable shapes  (some  are  square,  some  rectangular, circular or oval), but all are large enough  to  permit  a  rescue  ball  to  pass through  readily.  The  exits  are  (usually) clearly marked, and labeled with instructions and warnings in several languages. In some vessels,  the  emergency  exits  cannot  be opened  unless  an  activation  switch  in  the cockpit  is  thrown  (to  prevent  them  from being opened accidentally). 
@@ -115,7 +115,7 @@ This section is equipped to serve as a mobile  office/headquarters,  with  commu
 `7` - Four roomy passenger seats are installed, folding into the floor if necessary. A conference table can be stowed  during  transit,  and  erected  as needed.  Holographic  technology  allows  a wide variety of maps and other information to be displayed, in two or three dimensions as necessary. 
 
 #### Cargo
-`8` - Cargo consists of consumables and the passengers’ luggage. 
+`8` - Cargo consists of consumables and the passengers' luggage. 
 
 ## 20-ton Survey Launch 
 
@@ -128,13 +128,13 @@ The cockpit, fuel and engineering sections are  identical  to  those  of  the  s
 
 The passenger section has been fitted with workstations  and  a  sensor  package  that varies with the overall mission of the vessel. 
 #### Workstations
-`7` - The  nature  of  the vessel’s workstations depends on the nature of the research required. 
+`7` - The  nature  of  the vessel's workstations depends on the nature of the research required. 
 
 ## 20-ton S & R Launch 
 ![](20tonsearchandrescue.png)
 The search and rescue version incorporates medical and rescue gear and carries a four-person rescue team in addition to the crew.  Floodlights  have  been  fitted  to  the  exterior  to  illuminate  the  scene  of  any rescue.  S&R  launches  are  assigned  to starports,  bases  (both  deep  space  and planetary),  and  anywhere  else  where  they  may be needed.
 ### Cockpit Section
-Cockpit Section The main modification to the cockpit section is on the outside: a rescue hoist with a capacity of 250 kilograms has been fitted over the [[#airlock]], with controls both at the outer airlock door and in the cockpit at the [[#Flight Engineer’s Station]]. Sensor sweeps are managed from the [[#Flight Engineer’s Station]], and are focused on locating victims by finding crash sites, heat signatures, or distress beacons.
+Cockpit Section The main modification to the cockpit section is on the outside: a rescue hoist with a capacity of 250 kilograms has been fitted over the [[#airlock]], with controls both at the outer airlock door and in the cockpit at the [[#Flight Engineer's Station]]. Sensor sweeps are managed from the [[#Flight Engineer's Station]], and are focused on locating victims by finding crash sites, heat signatures, or distress beacons.
 ### Passenger/Cargo Section 
 
 Four roomy passenger seats are retained for the search and rescue team assigned to the  vessel.  The  remaining  cargo  space  is taken  up  by  rescue  and  medical  supplies and  a  single  emergency  low  berth  for extreme casualties.  
@@ -203,7 +203,7 @@ The engineering section is identical to the standard version, but fuel capacity 
 
 ### Cockpit
 
-The [[#fresher]] (`6`) and the starboard [[#Supply Locker]] (`4a`) have been relocated to the rear in order to make room for a single [[beam laser]] (`7a`) in a fixed mount. The weapon can be fired from either the [[#Pilot’s Station]] or the [[#Flight Engineer’s Station]].
+The [[#fresher]] (`6`) and the starboard [[#Supply Locker]] (`4a`) have been relocated to the rear in order to make room for a single [[beam laser]] (`7a`) in a fixed mount. The weapon can be fired from either the [[#Pilot's Station]] or the [[#Flight Engineer's Station]].
 ### Passenger/Cargo Section
 
 #### Passenger Seating Modifications

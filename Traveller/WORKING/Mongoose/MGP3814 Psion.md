@@ -121,7 +121,7 @@ for general convenience. The rest of the book expands and develops
 those rules, adding a plethora of new talents, powers, options and
 other considerations.
 
-The book’s structure is as follows:
+The book's structure is as follows:
 
 Chapter 1: Defining Psionics
 The basic psionics rules, plus an
@@ -221,8 +221,8 @@ Consulate, psionics are an accepted part of the human condition._
 CORE PSIONIC RULES
 Psionics are powered by the Psionic Strength characteristic
 (abbreviation Psi). This characteristic cannot be rolled or bought
-during character creation without the Referee’s permission. To
-determine a character’s Psionic Strength, roll 2d6 and subtract
+during character creation without the Referee's permission. To
+determine a character's Psionic Strength, roll 2d6 and subtract
 the number of terms served by the character in any career (Psionic
 Strength diminishes over time unless actively used). For example,
 a 38 year old character (five terms served) would roll 2d6–5 to
@@ -230,10 +230,10 @@ determine his Psionic Strength. A character with a Psionic Strength
 of 0 has no potential for psionic powers.
 
 Using a psionic talent costs a number of Psionic Strength points,
-temporarily reducing the character’s total. As the Characteristic DM
-for all Psionic skill checks is determined by the characters’ current
+temporarily reducing the character's total. As the Characteristic DM
+for all Psionic skill checks is determined by the characters' current
 Psionic Strength total, it gets harder and harder to use powers as
-the character’s strength declines.
+the character's strength declines.
 
 Recovering Psionic Strength Points: Expended Psionic Strength
 points are recovered at the rate of one point per hour, beginning
@@ -243,7 +243,7 @@ Campaign Level and Psi Points
 Campaigns that have a heavy emphasis on psionics or where
 advanced talents are used regularly, may find that the method of
 calculating Psi offers too low a pool of Psi Strength to cope with the
-campaign or genre’s demands.
+campaign or genre's demands.
 
 Referees may therefore increase the Psi characteristic if they so
 wish. Determine the Psionic Strength as per above and then apply a
@@ -260,7 +260,7 @@ campaigns
 
 Babylon 5 Psi + Int DM
 
-Space Opera; Anime Hammer’s
+Space Opera; Anime Hammer's
 Slammers
 
 Psi x 1.
@@ -279,7 +279,7 @@ SF
 Dune, The Culture Psi x 2.
 
 When applying a multiplier as the modifier, always round up. For
-example, a psionically trained super-soldier in a Hammer’s Slammers
+example, a psionically trained super-soldier in a Hammer's Slammers
 type game has a base Psi of 7. Applying the modifier of x1.5 would give a
 Psi Strength of 7+3.5, rounded to 4 – so 11.
 
@@ -295,8 +295,8 @@ Any character who wishes to develop psionic abilities requires
 training. In settings where psionics are uncommon or illegal
 he must find a teacher. Finding such an instructor may be an
 adventure in itself. Most teachers will charge at least Cr. 5,000 to
-test the character’s abilities. Testing takes two weeks. The first step
-is testing a character’s Psionic Strength, which is determined as
+test the character's abilities. Testing takes two weeks. The first step
+is testing a character's Psionic Strength, which is determined as
 described above (2d6 – number of terms served, plus any modifiers
 for campaign type). If the character still has any Psionic Strength
 remaining, he can be trained. Training requires four months of
@@ -340,7 +340,7 @@ untrained. The most common talents are:
 - Telepathy – reading minds and mental communication.
 - Clairvoyance – perceiving at a distance.
 - Telekinesis – mind over matter.
-- Awareness – control over one’s own mind and body.
+- Awareness – control over one's own mind and body.
 - Teleportation – moving from one point to another instantly.
 
 Each talent grants access to all of its powers – a character with Telepathy 0 can
@@ -375,7 +375,7 @@ DDEFININGEFINING P PSIONICSSIONICS
 
 - Ship Integration – integrating psionic capabilities with a
     starship, augmenting or even replacing certain functions.
-- Tapping – drawing psionic power from others and from one’s
+- Tapping – drawing psionic power from others and from one's
     own physical characteristics.
 - Temporal manipulation – the mental manipulation of time,
     allowing time travel.
@@ -480,7 +480,7 @@ permission). Another way is to randomly determine Latent Psionic
 Potential, as detailed here.
 
 - Roll 2d6 and apply the appropriate DMs, according to your
-    character’s background, campaign type and so on
+    character's background, campaign type and so on
 - If the result is 11+, the character is psionic and Psionic Strength
     is determined as per page 152 of the _Traveller Core Rulebook_
     and the notes regarding Psionic Strength on page 4 of the first
@@ -514,10 +514,10 @@ DDOORSOORS OFOF P PERCEPTIONERCEPTION DOORS OF PERCEPTION
 LATENT PSIONIC POTENTIAL MODIFIERS
 
 History/Circumstances Modifier Notes
-One parent is a trained psion +1 to +4 Roll 2d6 for the parent’s Psionic Strength; DM is equal to their
+One parent is a trained psion +1 to +4 Roll 2d6 for the parent's Psionic Strength; DM is equal to their
 Psionic Strength divided by 3 (round to nearest and always with a
 minimum of 1)
-Both parents are trained psions +1 to +8 Roll 2d6 for the both parents’ Psionic Strength; DM is equal to
+Both parents are trained psions +1 to +8 Roll 2d6 for the both parents' Psionic Strength; DM is equal to
 their combined Psionic Strength divided by 3 (round to nearest
 and always with a minimum of 1)
 Character has been exposed to mutagens leading to
@@ -557,7 +557,7 @@ treats psionic abilities. An order of justice-upholding knights in
 an ancient galactic republic might, for example, exclusively train
 young acolytes in developing their potential, resulting in a +5 or
 +6 DM. Others may only skirt the possibilities.
-Character has always been aware of being ‘different’
+Character has always been aware of being 'different'
 and has trained himself in developing Latent Psionic
 Potential
 
@@ -581,7 +581,7 @@ Potential
 +2 to +7 Roll 1d6+1 to determine how much the sophisticated race
 enhances psionic potential; or the Referee decides the value of
 the DM
-A career path has explored the character’s Latent
+A career path has explored the character's Latent
 Psionic Potential, yet never fully exploited it
 
 +2 The character has undergone some training but never in a
@@ -744,7 +744,7 @@ scientific establishments have in abundance, relying on traditional
 methods for developing talents.
 
 The first procedure is to gain acceptance to the order; this is generally
-Edu 8+, reflecting the character’s ability to show the appropriate
+Edu 8+, reflecting the character's ability to show the appropriate
 devotion and understanding of practices and requirements. A DM
 
 MYSTICAL ORDER PSIONICS APPROACH
@@ -776,7 +776,7 @@ the order.
 +3 1d3+2 1d3+1 +
 
 12 Extremely devout. Psionic powers
-are fundamental to the order’s belief
+are fundamental to the order's belief
 system. All members are trained.
 
 +4 1d3+2 1d3+2 +
@@ -789,16 +789,16 @@ psionic potential.
 
 Training in psionic talents takes 4 months, under the tutelage of
 trained mentors, however training costs may be negligible or nil,
-on the understanding that the character then serves the order’s
+on the understanding that the character then serves the order's
 needs in some capacity. Training costs should be no higher than Cr.
 100,000 for a basic talent but may be considerably less.
 
-The talents on offer depend largely on the order’s nature. Some may
+The talents on offer depend largely on the order's nature. Some may
 be taboo and some advanced talents may be trained as basic talents
-if they are a standard part of the order’s belief and practice system.
+if they are a standard part of the order's belief and practice system.
 
 The Mystical Order Psionics Approach table (on page 10) can be
-used to determine an order’s approach to psionics on-the-fly.
+used to determine an order's approach to psionics on-the-fly.
 
 Psionic Mentor
 A mentor takes on a student and trains him in developing his Latent
@@ -820,7 +820,7 @@ craft, eager to pass-on his knowledge for ends good or ill.
 The amount of time a mentor needs to spend in training his
 apprentice is always a minimum of 4 months. To calculate how
 many additional months must be spent in training, subtract the
-mentor’s skill in the psionics talent being trained from 8 and add
+mentor's skill in the psionics talent being trained from 8 and add
 the difference to the base of 4 months.
 
 For example, old Ben is training his naive young apprentice in the art
@@ -840,7 +840,7 @@ The simple act of constant exposure to other psions can result in
 Latent Psionic Potential being realised and talents being developed.
 This is neither an easy nor guaranteed process; psionics are not
 contagious, however by observing and experiencing active psionics
-on a daily basis, one may realise one’s own latent potential and
+on a daily basis, one may realise one's own latent potential and
 develop a psionic talent.
 
 If a character is taken and deliberately trained, then use either the
@@ -867,7 +867,7 @@ talent. The Raw Talent psion has a number of powers equal to
 1+ his Psionic Strength DM (of course, he cannot exceed the
 maximum number of powers associated with a talent). Full
 training to bring him up to level 0 may not grant access to all of
-the talent’s powers.
+the talent's powers.
 
 Personal Experimentation/Development/
 Trauma
@@ -952,7 +952,7 @@ DOORS OF PERCEPTION
 
 This chapter provides career paths for psions: both psions who are
 part of a dedicated psionics agency (such as the Psi Corp of Babylon
-5’s universe) and psions as part of the established career paths
+5's universe) and psions as part of the established career paths
 detailed in the Traveller Core Rulebook.
 
 In the case of psions in established careers, it is assumed that the
@@ -965,7 +965,7 @@ in your Traveller campaign make active use of psions: if they do not
 need not use the career tables and options presented in this chapter
 and stick with those of the Traveller Core Rulebook.
 
-If you are using one of Mongoose’s licensed Traveller settings, such
+If you are using one of Mongoose's licensed Traveller settings, such
 as Babylon 5 or Judge Dredd , then the rules for psions presented
 in that setting should take precedence over those presented here,
 although you will find, by and large, that licensed settings follow
@@ -993,7 +993,7 @@ sanctioned by a state or government, depending on the campaign
 type. Recruits to the Psi Agency are all potentially psionic and Psi
 Strength should be determined for the character (with modifications
 for age and previous career terms), although Talents should not
-be determined before the career starts, if this is the character’s
+be determined before the career starts, if this is the character's
 inaugural career. Any Talents already determined as a result of
 previous careers are permissible.
 
@@ -1166,7 +1166,7 @@ for the number of years your love affair lasts. If this takes you into your adve
 lover when play begins and the relationship may continue indefinitely. Your lover is also an Ally.
 31 You are selected for specialist Psionics Training. Throw Psi 9+. If you succeed, choose either to: Increase a Talent by 1 level;
 or, Gain a Power from any other Talent you are not capable of using. You may use this Power by rolling against your Psi but
-always at –3 until you are competent with that Power’s Talent.
+always at –3 until you are competent with that Power's Talent.
 32 You are given specialist training in firearms. Gain Gun Combat (any) 1.
 33 Life Event. Roll on the Life Events table (page 34 of the Traveller Core Rulebook ).
 34 Your work hardens you to the effects of Psionic Trauma. If you have accrued any levels of Psionic Trauma, reduce it by 1. If you
@@ -1234,7 +1234,7 @@ PSION CAREERS PSION CAREERS
 PSION AGENTS
 Psion Agents are recruited, trained and used by government
 agencies, such as the police. Psions in this career use their abilities
-in the service of the agency’s agenda, which may have little to do
+in the service of the agency's agenda, which may have little to do
 with direct psionic capabilities; for example, the character might act
 as a profiler or interrogator for a police agency.
 
@@ -1376,7 +1376,7 @@ for the number of years your love affair lasts. If this takes you into your adve
 lover when play begins and the relationship may continue indefinitely. Your lover is also an Ally.
 31 You are selected for specialist Psionics Training. Throw Psi 9+. If you succeed, choose either to: Increase a Talent by 1 level; or,
 Gain a Power from any other Talent you are not capable of using. You may use this Power by rolling against your Psi but always
-at –3 until you are competent with that Power’s Talent.
+at –3 until you are competent with that Power's Talent.
 32 You are given specialist training in firearms. Gain Gun Combat (any) 1
 33 Life Event. Roll on the Life Events table (page 34 of the Traveller Core Rulebook )
 34 Your work hardens you to the effects of Psionic Trauma. If you have accrued any levels of Psionic Trauma, reduce it by 1. If you
@@ -1602,7 +1602,7 @@ PPSIONSION C CAREERSAREERS PSION CAREERS
 your lover when play begins and the relationship may continue indefinitely. Your lover is also an Ally.
 31 You are selected for specialist Psionics Training. Throw Psi 9+. If you succeed, choose either to: Increase a Talent by 1 level;
 or, Gain a Power from any other Talent you are not capable of using. You may use this Power by rolling against your Psi but
-always at –3 until you are competent with that Power’s Talent.
+always at –3 until you are competent with that Power's Talent.
 32 You are given specialist training in firearms. Gain Gun Combat (any) 1.
 33 Life Event. Roll on the Life Events table (page 34 of the Traveller Core Rulebook).
 34 You are seconded to the Navy. Resolve your next term using the Psion Naval tables on page 26.
@@ -1814,7 +1814,7 @@ guilt.
 from either a Psionic Agency, a Mystical Order or other drifters.
 42 Your powers bring you into contact with a Mystical Order. If your Referee permits it, you may join this order next term.
 43 Your travels bring you into contact with a Secret. Roll Psi 8+. If you succeed, the secret relates to one of your powers and you
-gain a +1DM to its use. If you fail, the secret relates to the powers of a Rival or an Enemy (if you have one; if you don’t, then once
+gain a +1DM to its use. If you fail, the secret relates to the powers of a Rival or an Enemy (if you have one; if you don't, then once
 you gain one during play, this event will apply). When that Person tries to use one Power against you, it will be at a –1 DM. The
 Referee will decide which Power is affected.
 44 Your abilities mark you out as some form of messiah or saviour. Gain +1 Social and 1d6 Allies.
@@ -1955,7 +1955,7 @@ unreciprocated leaving you feeling bitter towards that individual.
 4 Your ship is destroyed in a naval battle. You survive in an escape pod but the ensuing inquiries and post-mortems end your
 career.
 5 A serious accident occurs on your watch and you are blamed for it. The accident is not your fault and is the result of another
-crew-member’s negligence. Suffer a –2 DM to your next promotion roll and gain an Enemy.
+crew-member's negligence. Suffer a –2 DM to your next promotion roll and gain an Enemy.
 6 A disaster is blamed on your powers – either for not preventing the disaster or for contributing towards it. Forfeit your next
 promotion and lose 1 Social Standing
 7 Fear and loathing for psions amongst your crewmates leads to a series of situations that harm your career this term. Suffer a
@@ -2239,7 +2239,7 @@ PSION CAREERS PPSIONSION C CAREERSAREERS
 42 A space-based criminal mission leads you into contact with an alien intelligence or artefact. Roll Endurance 8+. If you succeed,
 you may test for one Advanced Talent in the usual way. If you fail, gain the aliens or alien intelligence as a Contact.
 43 Your travels bring you into contact with a Secret. Roll Psi 8+. If you succeed, the secret relates to one of your powers and you
-gain a +1 DM to its use. If you fail, the secret relates to the powers of a Rival or an Enemy (if you have one; if you don’t, then once
+gain a +1 DM to its use. If you fail, the secret relates to the powers of a Rival or an Enemy (if you have one; if you don't, then once
 you gain one during play, this event will apply). When that Person tries to use one Power against you, it will be at a –1 DM. The
 Referee will decide which Power is affected.
 44 You are arrested and imprisoned in a prison geared towards dealing with psions. Lose all benefits for this term. You may choose
@@ -2259,8 +2259,8 @@ what it really was:
 2 Cash 3 A lure to lead the authorities to you
 3 Vehicle 4 Psionic nulling device – lose 1 Psi
 4 Psionic Equipment 5 A clue to a bigger haul elsewhere
-5 Weapons 6 Referee’s choice
-6 Referee’s Choice
+5 Weapons 6 Referee's choice
+6 Referee's Choice
 53 Using your powers during a heist, swindle or other criminal activity results in some form of psychic aberration. You gain a + 2
 DM to any one power you have but suffer a –1 DM to two other, separate powers.
 54 You are plagued by dreams, visions and premonitions of being captured. Throw Psi 9+ (with DMs for Clairvoyance) and note
@@ -2472,7 +2472,7 @@ use them, as a result of studying with your alien counterparts. The Powers can b
 42 Your psionic abilities save the life of someone. Change any Enemy into a Rival, any Rival into a Contact and any Contact into an
 Ally.
 43 Your studies bring you into contact with a Secret. Roll Psi 8+. If you succeed, the secret relates to one of your powers and you
-gain a +1 DM to its use. If you fail, the secret relates to the powers of a Rival or an Enemy (if you have one; if you don’t, then once
+gain a +1 DM to its use. If you fail, the secret relates to the powers of a Rival or an Enemy (if you have one; if you don't, then once
 you gain one during play, this event will apply). When that Person tries to use one Power against you, it will be at a –1 DM. The
 Referee will decide which Power is affected.
 44 Government edicts turn against psions and your research funding is withdrawn. Roll Social 9+. If you succeed you gain private
@@ -2490,7 +2490,7 @@ roll:
 –1-0: The premonitions trouble you but you can find nothing that will make the a reality.
 +1: You identify factors at work that will lead to the premonitions coming to pass. Gain +1 Int as you eliminate them.
 +2 or higher: As above but also gain +1 Psi Strength.
-55 You have the opportunity to cheat in some fashion, advancing your career and research by stealing another’s work, using your
+55 You have the opportunity to cheat in some fashion, advancing your career and research by stealing another's work, using your
 powers, taking a shortcut and so forth. If you refuse, you gain nothing. If you accept, roll Psi + Deception 10+ or Admin 10+. If
 you succeed, you gain a +2 DM to any one Benefits roll and any one skill but you also gain an Enemy.
 56 Life Event. Roll on the Life Events table.
@@ -2624,7 +2624,7 @@ whilst you remain in this career is way too dangerous but is something you know 
 6 Your swift and decisive action earns you the respect of your superiors. Gain an additional Muster benefit when you leave the
 career
 13 You are assigned as the chief point of liaison for an alien ambassador during an important summit where the Scout Service is
-involved in acting as a neutral diplomatic chaperone for the alien delegation. Roll 1d6 for the outcome of your time in the alien’s
+involved in acting as a neutral diplomatic chaperone for the alien delegation. Roll 1d6 for the outcome of your time in the alien's
 company:
 1 You fall out with the ambassador following a breach of etiquette. He becomes your Enemy and you gain a deep distrust of all
 aliens of this species.
@@ -2636,9 +2636,9 @@ feelings become known and the ambassador reciprocates. Gain an Ally (who is now 
 career under a cloud of shame.
 4 Roll Psi 8+. If you succeed, you uncover a plot to discredit the ambassador. He or she is deeply impressed and reports this
 to your superiors. Gain an Ally and +1 to your next promotion roll.
-5 You learn much from your time with the alien. Gain either Language 0 in the alien’s tongue or a Life Science 0 in a relevant
+5 You learn much from your time with the alien. Gain either Language 0 in the alien's tongue or a Life Science 0 in a relevant
 science pertaining to the alien.
-6 You foil an attempt on the ambassador’s life. Gain an Ally, +2 to your next promotion and one additional Muster benefit when
+6 You foil an attempt on the ambassador's life. Gain an Ally, +2 to your next promotion and one additional Muster benefit when
 you leave this career.
 14 A courier mission you are involved with goes wrong and you find yourself stranded deep in hostile territory. Roll End + Psi 8+ with
 a DM for Survival. If you succeed, you survive unscathed and are rescued. If you fail, roll on the Injury table but gain Survival 1.
@@ -2699,7 +2699,7 @@ and enlist in a career that avoids space travel or transfer to admin.
 others to your new-found faith. Roll 2d6 and on 7+ lose an ally or contact but gain a contact who you have converted.
 43 Roll Psi 8+. If you succeed you gain, via a psychic vision, a view of a star system that has not yet been discovered. The lure of this
 system is undeniable and you must, in some way, engineer a plan to travel to this area of space. You cannot plot the coordinates
-using standard means; you just know how to guide someone else (a ship’s pilot or navigator, say). If you fail, the dream is a
+using standard means; you just know how to guide someone else (a ship's pilot or navigator, say). If you fail, the dream is a
 tantalising glimpse of a place you are drawn to. These dreams and visions will keep occurring until, by chance, you stumble upon
 the star system that haunts you.
 
@@ -2759,7 +2759,7 @@ launch a detailed investigative mission that you will be involved with. Gain an 
 65 Roll Astrogation 8+. If you succeed, there is no other event. If you fail, a misjump takes your ship too close to the gravity well of a
 gas giant and your ship struggles to free itself. Roll Psi + Pilot (Spacecraft) 9+ to successfully break free of the gravitational pull. If
 you fail you, your crew and your ship are lost for 1d3 terms. At the end of this period you suddenly reappear in known space and
-are rescued. You recall nothing of your time away but you have developed one Advanced Talent of the Referee’s choosing.
+are rescued. You recall nothing of your time away but you have developed one Advanced Talent of the Referee's choosing.
 66 You make a significant research breakthrough. You are automatically promoted.
 
 PSION CAREERS PSION CAREERS
@@ -2769,7 +2769,7 @@ This career is for those campaigns where psions are outlawed and
 hunted by the authorities. The underground psion network supports
 and hides psions through its own clandestine infrastructure.
 Characters who follow this career may be hunted themselves
-already and need the network’s help or be part of the network,
+already and need the network's help or be part of the network,
 helping hunted psions evade the insidious and bigoted reach of the
 authorities.
 
@@ -2781,7 +2781,7 @@ Assignments: Choose one of the following:
 
 - Resistance: You formed part of an active resistance movement,
     assisting other psions to safety.
-- Fifth Columnist: You remain a respectable ‘norm’ in society,
+- Fifth Columnist: You remain a respectable 'norm' in society,
     working secretly to aid other psions.
 - Saboteur: You were a guerrilla fighter undertaking hazardous
     missions against the repressive regime.
@@ -2910,7 +2910,7 @@ to let the target live, you gain the respect of some of your peers and may incre
 the target, throw either Gun Combat 7+ or Melee 8+. If you succeed, you may add +2 DM to your next Advancement check. If
 you fail, you gain an Enemy.
 42 You are assigned to lead your team against a local private target and requested to turn up the violence as much as possible to
-make your employers’ point. Throw either Gun Combat 8+ or any Melee skill 8+ to reach the proper level of bloodshed required.
+make your employers' point. Throw either Gun Combat 8+ or any Melee skill 8+ to reach the proper level of bloodshed required.
 If successful, gain any combat skill, take a +4 DM to your next Advancement roll or gain an extra Benefit roll when you muster
 out of this career.
 43 You uncover a secret about the network you serve, learning that either its activities or its beliefs are exaggerated or twisted into
@@ -3118,9 +3118,9 @@ your Survival throw.
 32 You come into possession of a time travel device. Your Referee will choose from one of the devices listed in the Equipment chapter. However, is
 this a legitimate acquisition?
 1-2 Yes it is – assigned to you by the agency but on temporary loan
-3-5 No – it was stolen or ‘borrowed’ without permission
+3-5 No – it was stolen or 'borrowed' without permission
 6 You acquired it from outside the agency
-If the result was 3-6, then the owners of the device are looking for it – and you. Gain 1d3 Rivals in the shape of the machine’s owners.
+If the result was 3-6, then the owners of the device are looking for it – and you. Gain 1d3 Rivals in the shape of the machine's owners.
 33 Life Event. Roll on the Life Events table.
 34 Through investigation you find that an Enemy is really on your side: either gain an Ally or convert one Enemy into an Ally.
 35 You are given an especially difficult assignment. Roll Psi + Time Manipulation, Comms or Stealth 8+. If you succeed you are
@@ -3268,7 +3268,7 @@ MISHAPS
 6 Years.
 Lose all skill and benefits rolls for this term but gain 1d3 Contacts and an Ally. Apply any ageing effects, as described on page 36 of the
 Traveller Core Rulebook , if you are stranded for years.
-4 Your ability to perceive and understand the dimensions invisible to ‘normal’ people take their toll: roll End 8+. If you succeed, gain 1 level
+4 Your ability to perceive and understand the dimensions invisible to 'normal' people take their toll: roll End 8+. If you succeed, gain 1 level
 of Psionic Trauma; if you fail, gain 2 levels.
 5 Your adventures across the parallels make you enemies; gain 1d3 Enemies.
 6 You succumb to a destructive vice:
@@ -3350,7 +3350,7 @@ number of years your love affair lasts. If this takes you into your adventuring 
 begins and the relationship may continue indefinitely. Your lover is also an Ally.
 52 You are selected for specialist Psionics Training. Throw Psi 9+. If you succeed, choose either to: Increase a Talent by 1 level; or, Gain a
 Power from any other Talent you are not capable of using. You may use this Power by rolling against your Psi but always at –3 until you
-are competent with that Power’s Talent.
+are competent with that Power's Talent.
 53 You make contact with 1d3 alternative versions of yourself, forming a psychic bond. Gain these alternative versions of you as Allies.
 54 A parallel world that you visit regularly comes to feel more like home than the dimension of your birth. You retire to this dimension
 whenever you can and dedicate yourself and your powers to its defence and well-being.
@@ -3415,7 +3415,7 @@ Enlistment: Machine Symbiosis Talent 7+.
 
 Assignments: Choose one of the following:
 
-- Pilot: You are a ship’s pilot, using your psionic powers to
+- Pilot: You are a ship's pilot, using your psionic powers to
     enhance and push the capabilities of your starship.
 - Navigator: Your psionic powers enhanced the navigational
     capabilities of your ship.
@@ -3520,7 +3520,7 @@ d66 Event
 11 Disaster! Roll on the Mishap table but you are not ejected from this career.
 12 Your psionic abilities help extend the capabilities of your ship. Gain +4 to your next advancement roll.
 13 A mission takes you into an uncharted region of space. Throw Psi + either Pilot or Astrogation, 8+. If you succeed, you make a
-discovery that greatly benefits your ship’s reputation; gain an additional Benefit roll. If you fail, you find nothing of interest in this
+discovery that greatly benefits your ship's reputation; gain an additional Benefit roll. If you fail, you find nothing of interest in this
 uncharted area.
 14 Your ship is involved in a first contact with an alien species. Gain Life Science 1, Diplomat 1, Remote Operations 1 or a Contact.
 15 You participate in a series of wargames. Roll Intelligence + Tactics (Naval) to win. If you succeed, you get a Citation for Meritorious
@@ -3536,7 +3536,7 @@ keep the contact. Fail and they are imprisoned and blame you, becoming an Enemy.
 Your foresight leads to victory and a promotion. If you fail, the encounter with the enemy still goes in your favor but you gain no
 special accolades for the engagement.
 23 Roll Machine Symbiosis 8+. If you succeed, you determine a malfunction with the ship; gain either Engineer (any) or Computers.
-24 You are invited to dine at the captain’s table. Roll Social + Steward, Carouse or Diplomat. If you succeed, gain a Contact in the
+24 You are invited to dine at the captain's table. Roll Social + Steward, Carouse or Diplomat. If you succeed, gain a Contact in the
 crew.
 25 You find yourself taking command when a bridge hit incapacitates senior staff.
 Either gain Leadership or take a +4 DM to your next Advancement roll (in any naval career).
@@ -3565,7 +3565,7 @@ the number of years your love affair lasts. If this takes you into your adventur
 when play begins and the relationship may continue indefinitely. Your lover is also an Ally.
 51 You are selected for specialist Psionics Training. Throw Psi 9+. If you succeed, choose either to: Increase a Talent by 1 level _or_ gain
 a Power from any other Talent that you are not capable of using. You may use this Power by rolling against your Psi but always at
-–3 until you are competent with that Power’s Talent.
+–3 until you are competent with that Power's Talent.
 52 Your work raises your awareness of your psionic powers. Roll Psi 8+. If successful, gain +1 DM to any one power in any of your
 trained Talents.
 53 Gain any skill from the tables in this career at level 1. However, one of your Psionic Powers in any one Talent of your choice
@@ -3734,12 +3734,12 @@ your re-enlistment throw.
 34 You are selected for advanced training. Roll Edu 10+ to gain a roll on the Advanced Education table.
 35 Your order requires you to retest your faith and commitment. Roll Psi + Social 10+; if you succeed, gain either a roll on the
 Advanced Education table or a +4 DM to your next Advancement roll.
-36 You are made the custodian of one of the order’s secrets. This gains you a Rival but it also gains you Investigate 1. Your Referee
+36 You are made the custodian of one of the order's secrets. This gains you a Rival but it also gains you Investigate 1. Your Referee
 will decide what that secret is.
 41 Life Event. Roll on the Life Events table.
 42 You must face a trial against the forces of darkness. Roll Endurance + Survival 9+. If you succeed you are promoted. If you fail, you
 are demoted one rank but gain +1 Edu.
-43 Your order’s reputation suffers due to a cultural misunderstanding. Roll Int + Advocate 9+ to redeem its reputation. If you succeed
+43 Your order's reputation suffers due to a cultural misunderstanding. Roll Int + Advocate 9+ to redeem its reputation. If you succeed
 you gain an Ally. If you fail, roll on the Mishap table but you are not ejected from this career.
 44 Temptation comes your way. What is it?
 1 An additional Benefit roll.
@@ -3903,7 +3903,7 @@ to be followed.
     diametrically opposed.
 - No talent should have more than six powers; ideally three to four.
   - The Learning DM for a talent is always based on the most
-       difficult Learning DM for a power’s talent. _For example, mixing_
+       difficult Learning DM for a power's talent. _For example, mixing_
        _the Telepathy and Ship Integration powers into a single talent_
        _would mean this talent has a Learning DM of –4 (the Learning_
        _DM for the Ship Integration-sourced powers)._
@@ -3920,7 +3920,7 @@ However, if creating an entirely new power is necessary, several
 questions need to be considered:
 
 - What is the effect of the power and what does it achieve?
-- Is the power in keeping with the campaign’s power-level and
+- Is the power in keeping with the campaign's power-level and
     setting type?
 - To what degree will the power overbalance characters working
     together?
@@ -3939,7 +3939,7 @@ degree of game imbalance – and that can be part of the enjoyment.
 Psions are special individuals, signalled to be above the norm by dint
 of their abilities. Striving for perfect game balance should not be an
 all-consuming concern but a question considered in the light of a new
-power’s effects and consequences for the Players Characters.
+power's effects and consequences for the Players Characters.
 PSIONIC RANGE CHART
 Range Distance to Target Telepathy or Clairvoyance Telekinesis Teleportation
 Personal Less than 1.5 meters 0 1 1
@@ -3958,7 +3958,7 @@ PPSIONICSIONIC P POWERSOWERS PSIONIC POWERS
 BASIC TALENTS
 Basic talents are the common psionic talents and cover the
 most familiar psychic territory; telepathy, ESP, telekinesis and
-teleportation. The word ‘basic’ is a misnomer; the powers found
+teleportation. The word 'basic' is a misnomer; the powers found
 in these talents can be every bit as potent as those found in the
 advanced talents, tackled later.
 
@@ -3986,8 +3986,8 @@ approximate location. Life detection is reasonably sophisticated
 and can distinguish intelligent beings from bacteria or unimportant
 animals in the area. It functions best at detecting intelligent minds.
 Shielded minds are undetectable (whether the shield is natural or
-artificial in origin). If an individual whom the telepath knows is ‘life
-detected’ he or she will be recognized.
+artificial in origin). If an individual whom the telepath knows is 'life
+detected' he or she will be recognized.
 
 _Telepathy, Psionic Strength, 10-60 seconds, Easy (+4).
 Costs 1+Range_
@@ -4017,7 +4017,7 @@ by this ability, with the subject (if himself not a telepath) unaware
 of the activity. Individuals with telepathic ability cannot be read due
 to the presence of their natural shields, unless they willingly lower
 their shielding. The Effect of the check determines the clarity of the
-telepath’s perceptions.
+telepath's perceptions.
 
 Telepathy, Psionic Strength, 10-60 seconds, Average (+0).
 Costs 2+Range.
@@ -4048,7 +4048,7 @@ the Effect of
 the check
 determines
 the clarity of
-the telepath’s
+the telepath's
 perceptions.
 
 PSIONIC POWERS PPSIONICSIONIC P POWERSOWERS
@@ -4093,9 +4093,9 @@ SENSE
 The basic ability to sense things at some point in the distance. A
 character will become aware of the most rudimentary characteristics
 of a location when applying this ability. For example, the Referee
-will give a basic description, without detail: ‘a room containing
-four dogs’ or ‘an open plain with a tree and no animals or men
-present’. The clairvoyant character must state the range at which he
+will give a basic description, without detail: 'a room containing
+four dogs' or 'an open plain with a tree and no animals or men
+present'. The clairvoyant character must state the range at which he
 is applying his talent and will generally sense the most interesting or
 important feature at that range. The Effect of the check determines
 the level of accuracy and clarity.
@@ -4117,7 +4117,7 @@ Costs 2+Range
 
 CLAIRVOYANCE
 This specific ability allows actual remote viewing of a situation
-at some displaced point. Rather than the ‘snapshot’ that sense
+at some displaced point. Rather than the 'snapshot' that sense
 gives, clairvoyance allows the psion to observe as if he was there
 in person. The clairvoyant character must state the range at which
 he is applying his talent. The Effect of the check determines the
@@ -4201,7 +4201,7 @@ _Telekinesis, Psionic Strength, 10-60 seconds, Difficult (–2).
 Costs 3+Range._
 
 Awareness
-Awareness is the psionic talent which allows control of one’s own
+Awareness is the psionic talent which allows control of one's own
 body. Awareness powers never have a range – they are used only
 on yourself.
 
@@ -4235,14 +4235,14 @@ points on a temporary basis. The character makes the commitment,
 reduces his Psionic Strength by a specific number of points and
 increases his physical Strength characteristic by that number. In
 no case may the number of Strength points gained exceed the
-character’s current level in Awareness and Strength may not be
-increased beyond the character’s racial maximum. Psionically
+character's current level in Awareness and Strength may not be
+increased beyond the character's racial maximum. Psionically
 enhanced strength reaches its new level immediately, remains at
 that peak for ten minutes and then declines at the rate of 1 Strength
 point per minute until the normal Strength level is reached. This
 power works as normal on wounded characters but their Strength
 returns to the wounded level rather than the normal value. It
-cannot be used as a ‘quick heal’.
+cannot be used as a 'quick heal'.
 
 Awareness, Psionic Strength, 1-6 seconds, Average (+0).
 Costs boosted Strength.
@@ -4286,7 +4286,7 @@ with worn armor as normal.
 Awareness, Psionic Strength, 1-6 seconds, Very Difficult (–4).
 Costs amount healed.
 
-Teleportation always involves the movement of one’s body to
+Teleportation always involves the movement of one's body to
 another location. Independent items or other individuals may not
 be moved. Teleportation involves certain requirements in order to
 be accurate and to insure obedience of the laws of physics.
@@ -4294,7 +4294,7 @@ be accurate and to insure obedience of the laws of physics.
 Preknowledge of Destination: A character must always have a mental
 image of his or her destination before teleporting. This mental image
 is acquired by personally visiting the location first (or viewing it from
-a distance), having the mental image implanted in one’s mind (by
+a distance), having the mental image implanted in one's mind (by
 telepathy) by another person who has visited the destination or by
 viewing the location through clairvoyance. The key is to remember
 that someone has to actually view the location – recorded images
@@ -4307,7 +4307,7 @@ jumps of Very Distant range or less. Jumps at Very Distant range
 involve disorientation for a period of 20 to 120 seconds (2d6 x10)
 after arrival. This restriction results from the law of conservation of
 momentum: on a rotating planet, two locations will have different
-rotational speeds and directions. A jump from a point on the Earth’s
+rotational speeds and directions. A jump from a point on the Earth's
 equator to one of its poles would result in a total velocity difference
 between the character and his surroundings of over 3,300 kph,
 which would lead to a messy death in short order. Teleporting to
@@ -4345,7 +4345,7 @@ Teleportation
 Teleportation is a talent that allows effectively instantaneous
 movement from one point to another point without regard to
 intervening matter. Psionic teleportation is limited to the movement
-of the teleported character’s body and (for highly skilled teleporters)
+of the teleported character's body and (for highly skilled teleporters)
 their clothing and weapons. Unlike the other talents, Teleportation
 has only a single power: the ability to teleport yourself. Teleporting
 without any equipment or clothing uses the Teleportation talent
@@ -4363,12 +4363,12 @@ PPSIONICSIONIC P POWERSOWERS
 PSIONIC POWERS
 
 MANIPULATE AURA
-With this power the psion can manipulate his aura’s appearance.
+With this power the psion can manipulate his aura's appearance.
 On a successful Aura Perception roll he can convey perfect health,
 appear to be more powerful than he is actually is or manipulate any
 other condition that his aura signifies. A psion reading his aura will
 only be aware that Manipulate Aura is being used if his attempt to
-Read Aura has a higher Effect than the manipulating psion’s own
+Read Aura has a higher Effect than the manipulating psion's own
 Aura Perception roll.
 
 Aura Perception, Psionic Strength, 1d6+Psi DM minutes, Difficult (–2).
@@ -4377,12 +4377,12 @@ Costs 3.
 PROJECT AURA
 Through this power the psion can project his aura to a distance and
 even overlay his aura onto another organism. The distance of the
-projection is a base of 10 meters + the psion’s Psi DM; however,
+projection is a base of 10 meters + the psion's Psi DM; however,
 for a further investment of Psi points, this range can be extended.
 The psion can project his aura a further 10 + Psi DM meters for
 every additional Psi point above the base cost. The projected aura
 moves as the psion moves, whilst ever the projection is maintained.
-The psion’s personal aura still surrounds his physical person and is
+The psion's personal aura still surrounds his physical person and is
 visible to other psions if read directly.
 
 Aura Perception, Psionic Strength, 1d6+Psi DM minutes, Difficult (–2).
@@ -4407,13 +4407,13 @@ Portal is available. This may be a rift in time/space or an artificially
 generated break in the dimensional barriers. Every portal is
 assigned a Barrier Strength of between 0 and 6, with 0 being a
 very weak barrier and 6 a very strong one. The Barrier Strength is
-applied as a negative DM to the psion’s Dimensional Manipulation
+applied as a negative DM to the psion's Dimensional Manipulation
 powers, as noted below.
 
 LOCATE PORTAL
 The psion can scan his local area (a radius of 10 x Psi DM in meters)
 to see if a portal exists. If successful, the psion can gain an idea of
-the portal’s Barrier Strength depending on the Effect of his roll:
+the portal's Barrier Strength depending on the Effect of his roll:
 
 ADVANCED PSIONIC TALENTS
 
@@ -4455,7 +4455,7 @@ and/or mentally and to what degree, even if physical symptoms are
 not present. He can also determine if the organism is psionically
 trained, although it is not possible to determine the specific talents
 available to the organism. The psion can, however, gauge the
-organism’s Psionic Strength relative to his own (i.e. much stronger,
+organism's Psionic Strength relative to his own (i.e. much stronger,
 much weaker, equal and so forth).
 
 _Aura Perception, Psionic Strength, 10-60 seconds, Easy (+4).
@@ -4465,7 +4465,7 @@ MASK AURA
 The psion can successfully mask his aura from other, aura-perceptive
 psions. When masked, the psion produces no perceptible aura,
 effectively becoming psychically invisible. Masking lasts for 1d6
-minutes + the psion’s Psi DM before it needs to be re-masked.
+minutes + the psion's Psi DM before it needs to be re-masked.
 
 _Aura Perception, Psionic Strength, 1d6+Psi DM minutes, Average (+0).
 Costs 2._
@@ -4513,7 +4513,7 @@ and another dimension. This is always a Very Difficult task (–4)
 and the created portal has a Barrier Strength equal to the number
 of additional Psi points that the psion invests in its creation, with
 the base Psi cost establishing a Barrier Strength 0 portal. A created
-portal lasts for a number of hours equal to the psion’s Psi DM x
+portal lasts for a number of hours equal to the psion's Psi DM x
 1d6 – after which the portal must be re-established. The psion who
 created the portal always treats it as Barrier Strength 0.
 
@@ -4540,7 +4540,7 @@ Costs Variable.
 Energy Kinesis
 Energy Kinesis is the talent governing the manipulation of energy
 
-- principally electricity but also temperature and light. The psion’s
+- principally electricity but also temperature and light. The psion's
 powers manipulate energy streams on a particular spectrum and
 wavelength to achieve a particular effect.
 
@@ -4662,14 +4662,14 @@ flammable or freeze if a freezable substance.
 
 Where temperature in an organic creature is reduced and the Effect
 is 5+, the Referee may rule that hypothermia results. Hypothermia
-is the reduction of the body’s operating temperature and it does
+is the reduction of the body's operating temperature and it does
 not require a large drop in temperature for hypothermia to have a
 profound effect.
 
 PORTALS AND NON-PSIONS
 Any portal between dimensions with a Barrier Strength of 0 can be
 passed through freely by both psions and non-psions. If a psion
-can overcome a portal’s Barrier Strength he can take through a
+can overcome a portal's Barrier Strength he can take through a
 number of individuals equal to his Psi DM, increasing this by an
 additional person for every Psi point he expended per trip.
 
@@ -4750,7 +4750,7 @@ substituting their Psi DM; the specifics of the talent are discussed
 in the description of each power.
 
 INTERROGATE
-The psion can ‘communicate’ psychically with a machine,
+The psion can 'communicate' psychically with a machine,
 determining its physical state of repair, properties, age, programming
 and so forth. The psion effectively reads the psychometric aura that
 accompanies every device in much the same way that an organic
@@ -4772,7 +4772,7 @@ Any machine that is fitted with a Psionic Interface offers no resistance
 to Interrogation. However, anti-Interrogation software can be fitted
 to a device, limiting the ability of psionic communication. Every
 strength of anti-interrogation built into the interface is applied as a
-–1 DM to the psion’s skill roll, increasing the device’s cost by 2%.
+–1 DM to the psion's skill roll, increasing the device's cost by 2%.
 
 If a device has no Psionic Interface, a psion may still attempt to
 interrogate the machine but at a standard –2 DM.
@@ -4782,7 +4782,7 @@ with modifiers for anti-interrogation, if present).
 Costs: 2.
 
 CONTROL
-The psion is able to control a machine’s functions, overriding
+The psion is able to control a machine's functions, overriding
 fixed settings, program routines and so forth. Machines can be
 switched on or off and their functions changed, as long as the device
 is capable of performing the instruction the psion gives to it. The
@@ -4796,8 +4796,8 @@ Only one instruction at a time can be given to a machine.
 
 As with machines that are shielded against interrogation, so can
 they be shielded against Control. Every level of anti-Control strength
-applies a –1 DM to the psion’s control attempt (and adds 2% to the
-machine’s cost).
+applies a –1 DM to the psion's control attempt (and adds 2% to the
+machine's cost).
 
 Machines with no Psionic Interface apply a standard –2 DM to the
 Control attempt.
@@ -4819,7 +4819,7 @@ Costs: 2 points per 1 level of Athletics skill.
 
 ENHANCED ART
 Through entering a trance-like state, for every 2 Psi points invested,
-the character’s Art skill is temporarily increased by 1 level, with
+the character's Art skill is temporarily increased by 1 level, with
 the duration of the power lasting for the physical activity being
 undertaken. If Art is not possessed as a skill, then the first 2 Psi
 points provides the psion with a skill level of 0.
@@ -4853,7 +4853,7 @@ astral projection or astral travelling but the talent also governs the
 powers of projecting emotions and the entire personality.
 
 OUT OF BODY EXPERIENCE
-The psion’s psyche leaves the body and is able to travel for a
+The psion's psyche leaves the body and is able to travel for a
 distance determined by the Psionic Range table on page 55 (using
 the Telepathy column). The speed of travel is as fast or as slow as
 the psion wishes it be and can be instantaneous, as long as the
@@ -4867,7 +4867,7 @@ certain physical capabilities, in much the same way that Psionic
 Strength points are used to augment Strength and Dexterity.
 
 ENHANCED ACROBATICS
-For every 2 Psi points invested, the character’s Athletics skill is
+For every 2 Psi points invested, the character's Athletics skill is
 temporarily increased by 1 level, with the duration of the power
 
 PSIONIC POWERS PPSIONICSIONIC P POWERSOWERS
@@ -4907,7 +4907,7 @@ The psion is able to project his emotions into the psyche of another.
 The target only experiences the same emotional state as that being
 experienced by the psion and, unless the target is a willing recipient
 of the projection, he resists the projection attempt with his Int DM
-(if positive). The Effect of the psion’s Project Emotion determines
+(if positive). The Effect of the psion's Project Emotion determines
 the intensity of the emotional experience felt by the target; an Effect
 of 0 or 1 indicates that the target feels the emotions at the same
 intensity as the psion; a higher Effect indicates a more intense
@@ -4951,7 +4951,7 @@ touch his intended victim.
 PAIN
 The psion overloads the pain receptors of his intended victim with
 psychic energy, causing either great or subtle pain to flood the
-target’s body. The pain attack causes no lasting physical damage
+target's body. The pain attack causes no lasting physical damage
 but whilst it is being experienced the victim may believe that his
 entire body is being mentally shredded, such is the intense agony.
 
@@ -5029,7 +5029,7 @@ Psionic Trauma rather than immediate damage. If the attack is
 successful, the target psion sustains 1 level of Psionic Trauma, plus
 an additional level equal to the Effect of the attack. The defending
 psion may use his own Psionic Strength DM as a negative DM
-against the attacker’s roll.
+against the attacker's roll.
 
 _Psionic Attack, Psionic Strength, Variable, Average (+0).
 Costs: 3, plus range._
@@ -5037,10 +5037,10 @@ Costs: 3, plus range._
 UNLOCK
 The Unlock power uses the subconscious of the target as the weapon.
 The psion unlocks those parts of the brain where nightmares,
-fears and dark secrets are stored, filling the target’s psyche with
+fears and dark secrets are stored, filling the target's psyche with
 
 nightmarish visions, uncontrollable terror, paralysing panic attacks
-or deep-seated guilt. The target’s Int + Psi DMs act against the psion
+or deep-seated guilt. The target's Int + Psi DMs act against the psion
 as a negative DM but if the attack is successful, the target suffers
 a negative DM to all skills equal to the Psi points invested in the
 attack, for a period determined by the Effect of the attack:
@@ -5081,7 +5081,7 @@ Psionic Defence, Psionic Strength, Int in minutes, Average (+0).
 Costs: 1.
 
 MIND MIRROR
-This powerful ability turns the psion’s mind into a mirror, reflecting
+This powerful ability turns the psion's mind into a mirror, reflecting
 any psionic attack back at the attacker. It is, however, dangerous
 as the defending psion does not know how many Psi points will be
 required to make Mind Mirror effective.
@@ -5103,7 +5103,7 @@ Psionic Defence, Psionic Strength, 1-6 seconds, Difficult (–2).
 Costs: 1+Psi Points of attacking power.
 
 PSYCHIC ARMOR
-Psychic Armor places a psionic barrier in front of the psion’s mind,
+Psychic Armor places a psionic barrier in front of the psion's mind,
 absorbing damage from psionic attacks in the same way physical
 armor protects against physical damage. The amount of damage
 reduced is equal to the Psi points invested in the power.
@@ -5129,7 +5129,7 @@ The Mind Ships chapter, starting on page 89, provides more detail
 
 on the equipment necessary for Ship Integration but essentially the
 talent calls for one or more psions to become a physical part of the
-ship’s fabric, connecting directly to its control and drive systems and
+ship's fabric, connecting directly to its control and drive systems and
 using their psionic powers to influence its performance. Such a high
 degree of integration may come at a cost: Ship Integrated psions
 may have to commit to surgical procedures to become wired-in to
@@ -5152,7 +5152,7 @@ points. Space is literally folded; a portal opened between the fold
 and the ship moved through it, achieving travel distances akin to
 those achieved using Jump drives or other FTL engines or jump
 gates. However, the distances that can be achieved through folding
-space are dependent on both the ship’s tonnage and the psionic
+space are dependent on both the ship's tonnage and the psionic
 reserves of the integrated psion.
 
 The maximum tonnage any psion can move through folded space is
@@ -5167,9 +5167,9 @@ this way does not require a Jump or FTL drive, however it does need
 a Maneuver drive to shift through folded space and emerge at its
 destination. Theoretically, Fold Space travel can be instantaneous;
 however, as this may not suit all campaign types, it is at the
-Referee’s discretion if instantaneous travel is possible (‘travelling
-without moving’). However, one rule that is easily applied is that
-the Effect of the psion’s Ship Integration roll is deducted from the
+Referee's discretion if instantaneous travel is possible ('travelling
+without moving'). However, one rule that is easily applied is that
+the Effect of the psion's Ship Integration roll is deducted from the
 equivalent, conventional travelling time. So, for example, a standard
 Traveller ship using a Jump engine would occupy one week in Jump
 space, regardless of the length of the jump; a psion who folds space
@@ -5179,7 +5179,7 @@ time, a Jump 6 fold would result in 6 days of elapsed travel time.
 
 A psion can work in tandem with a Jump drive to achieve long
 distance jumps but the two cannot be applied together. Thus, a
-psion could not fold space for a Jump 4 equivalent, with the ship’s
+psion could not fold space for a Jump 4 equivalent, with the ship's
 Jump 4 drive also being spun-up to achieve Jump 8. Instead, either
 
 PPSIONICSIONIC P POWERSOWERS PSIONIC POWERS
@@ -5215,11 +5215,11 @@ Costs: 2 per Jump 1 equivalent._
 DRIVE AUGMENTATION
 This power enables a psion to augment the capabilities of a
 conventional J or M drive. He does not fold space but provides
-psionic power to increase the ship’s speed whilst the conventional
+psionic power to increase the ship's speed whilst the conventional
 drives are used, resulting in reduced fuel usage.
 
 Every 2 Psi points used to augment an operating drive increases
-the ship’s jump range by 1 or its Thrust by 1. Every 200 tons of hull
+the ship's jump range by 1 or its Thrust by 1. Every 200 tons of hull
 displacement imposes a –1 DM to the Ship Integration roll, which must
 be made to successfully augment the drive in use. When used with a
 Jump drive, the amount of time spent in jump space is not decreased
@@ -5242,7 +5242,7 @@ Ship Integration, Psionic Strength, 10-60 minutes, Average (+0).
 Costs: 1 per Jump 1 equivalent.
 
 SHIP OPERATION ENHANCEMENT
-Being integrated with a ship’s control systems, a psion can enhance
+Being integrated with a ship's control systems, a psion can enhance
 engineering, maintenance and combat activities. An integrated psion
 can therefore add his Psionic Strength DM to any of the following
 skills at no Psi point cost: Engineer (all), Gunner (all), Mechanic, Pilot
@@ -5253,7 +5253,7 @@ However, if the integrated psion wishes or it is needed, he may spend
 a further 2 Psi points to increase the skill roll by +1. Multiple skills
 can be augmented simultaneously, as long as the psion has the Psi
 points to fund the operations; however, each additional operation
-being augmented imposes a –1 DM to the integrated psion’s Ship
+being augmented imposes a –1 DM to the integrated psion's Ship
 Integration roll.
 
 Ship Integration, Psionic Strength, variable, –1 per additional augmented
@@ -5315,13 +5315,13 @@ cannot tap his own emotions; and he must be in physical contact
 with the target.
 
 The power only works with powerful, deeply-affecting emotions such
-as love, hate, fear, anger and envy. Someone in a ‘normal’ placid
+as love, hate, fear, anger and envy. Someone in a 'normal' placid
 state cannot be affected. The Referee should assign the emotion with
 a strength of between 2 and 12, reflecting the depth of feeling. All
 consuming anger, for instance, would warrant a strength of 12, whilst
 mild jealousy only 3 or 4. The strength of the emotion is the limit that
 the psion can tap. Tapping emotions has its own difficulties, so there
-are no DMs for the emotion’s strength and as the emotion is tapped
+are no DMs for the emotion's strength and as the emotion is tapped
 its strength decreases in proportion with what the psion leaches.
 Thus, a psion could use this power to transform an all-consuming
 rage into mild anger; or sap a target of his deep, abiding love.
@@ -5333,10 +5333,10 @@ MIND SWITCH
 This power allows the psion to swap minds with another. Physical
 contact must be maintained as the switch occurs.
 
-The target applies his Int DM as a negative DM to the psion’s mind
-switch attempt and the cost in Psi points is equal to half the subject’s
-Int, rounded up. Once swapped, the psion’s mind occupies and
-controls that of the subject’s body and vice versa. The psion has no
+The target applies his Int DM as a negative DM to the psion's mind
+switch attempt and the cost in Psi points is equal to half the subject's
+Int, rounded up. Once swapped, the psion's mind occupies and
+controls that of the subject's body and vice versa. The psion has no
 access to the memories or experiences of the subject but does take
 on the physical characteristics. Therefore, the psion and subject
 swap Int and Edu characteristics but retain Str, Dex and End.
@@ -5489,9 +5489,9 @@ catastrophic changes are mitigated and the future remains,
 essentially, on its previous course.
 
 The Referee should assign any potential paradox a strength of
-between 2 and 12, with 2 being a very minor ‘blip’ and 12 being a
+between 2 and 12, with 2 being a very minor 'blip' and 12 being a
 catastrophic change to future events. To correct the paradox the
-psion must spend a number of Psi points equal to the paradox’s
+psion must spend a number of Psi points equal to the paradox's
 strength and make a successful Temporal Manipulation roll. If
 successful, then the paradox is either completely mitigated or its
 strength (and therefore consequences) reduced by the amount of
@@ -5509,7 +5509,7 @@ The Referee needs to decide on the nature of time in order to explain, resolve o
 into detail on the subject but some options for consideration are presented here:
 
 Mutable Time
-The past can be altered but certain alterations may result in the character’s present and future being altered in accordance with that
+The past can be altered but certain alterations may result in the character's present and future being altered in accordance with that
 change. The change might be so profound that the characters cannot return to their present because, the present they left, has simply
 ceased to exist. The best illustration of this is the character who travels back in time and does something that prevents him from being
 born (killing his great, great grandfather, for example). In the present he would no longer exist and so time changes to compensate.
@@ -5523,9 +5523,9 @@ The Bradbury Effect
 Here, any change, no matter how tiny, reverberates through the timestreams like ripples of water on a still lake. Stepping on an insect in
 the distant past has consequences that magnify through the timestreams, profoundly affecting the future in some way. The characters
 still exist but their present is very different to the one they left, because they change they initiated has been profoundly magnified as
-it has reverberated down through history. This is named the Bradbury Effect after Ray Bradbury’s celebrated short story ‘A Sound of
-Thunder’ in which the accidental death of a butterfly in Earth’s prehistory vastly alters the future; the butterfly’s contribution to the
-ecology influenced whole ecosystems and without it, changes knock-on and amplify to the point that the character’s future is totally
+it has reverberated down through history. This is named the Bradbury Effect after Ray Bradbury's celebrated short story 'A Sound of
+Thunder' in which the accidental death of a butterfly in Earth's prehistory vastly alters the future; the butterfly's contribution to the
+ecology influenced whole ecosystems and without it, changes knock-on and amplify to the point that the character's future is totally
 altered when they return. If using this as the basis for time travel, then the characters will need to find ways of isolating themselves from
 interacting with the past in any way, shape or form, because even their mere presence could be damaging.
 
@@ -5533,9 +5533,9 @@ Time Forgives
 The nature of time is one of constant adjustment; changes to the past result in time itself compensating for those changes to ensure
 that the future maintains a predetermined course – much like a river flows around an obstacle, eddies but still ends-up at the sea. Any
 changes the characters make have immediate and short-term consequences – and these may reverberate to the present – but essentially
-the present remains unaltered. Killing one’s great, great grandfather might mean that the character is born, as he is, to someone else:
-time compensates to maintain continuity but with obvious consequences for the character’s personal history – but not the flow of time
-itself. This may be an ‘unrealistic’ way of portraying the nature of time but makes the handling of paradox much easier for the Referee.
+the present remains unaltered. Killing one's great, great grandfather might mean that the character is born, as he is, to someone else:
+time compensates to maintain continuity but with obvious consequences for the character's personal history – but not the flow of time
+itself. This may be an 'unrealistic' way of portraying the nature of time but makes the handling of paradox much easier for the Referee.
 
 Immutable Time
 The past simply cannot be altered, no matter how small or great the intended change. Events will always intercede that prevent the
@@ -5549,7 +5549,7 @@ Changes in the past create a rift in the fabric of reality that creates a separa
 altered, however the alteration is a separate dimension created as a result of their actions. They can therefore either travel to an alternate
 present or they may have access to the present they left behind by crossing the dimensional boundaries to reach the branch of time
 where their interference never took place. This option therefore introduces parallel dimensions into the campaign, which may or may
-not fit with the campaign’s aims.
+not fit with the campaign's aims.
 
 Intolerant Time
 A similar concept to immutable time but any profound change that would impact significantly on the present sees the characters
@@ -5563,14 +5563,14 @@ characters is immutable and instead they can only reach a past that follows a pa
 sustained. When they return to the present, they return to their own, unchanged, reality.
 
 The Past Denied
-Perhaps the most ‘realistic’ option, travel into the past is simply impossible and only travel into the future, because it is not yet a fixed
+Perhaps the most 'realistic' option, travel into the past is simply impossible and only travel into the future, because it is not yet a fixed
 thing, can be achieved. Yet this, in itself, creates another paradox: if travel to the past is impossible, travel to the future immediately
 locks the character into that timespace because his point of origin is denied to him.
 
 Passive Observers
 Any time traveller can only observe events but not interact with them. The characters do not physically travel in time but do so mentally,
 able to watch events, yet do nothing to influence them. This option fits a psionic campaign quite neatly and prevents paradox from
-occurring but limits characters’ options to that of merely reporting them.
+occurring but limits characters' options to that of merely reporting them.
 
 PSIONIC POWERS
 
@@ -5586,10 +5586,10 @@ Psionic Trauma
 Unleashing the powers of the subconscious mind risks damaging
 the conscious mind and the personality. Even the most seasoned
 psion is dealing with forces that can have a profound effect on
-one’s character and mental outlook. At its most basic level, Psionic
+one's character and mental outlook. At its most basic level, Psionic
 Trauma is a weakening of the mind to deal with the powers being
 consciously channelled; as it grows, Psionic Trauma leads to a
-weakening of the mind’s immune system, exposing the psion to the
+weakening of the mind's immune system, exposing the psion to the
 risk of mental illness and psychosis.
 
 Mental Instability
@@ -5677,7 +5677,7 @@ equal to his Int, two levels are gained and so forth.
 
 PSIONIC STRENGTH POINTS ARE EXCEEDED
 Psions may use all their Psionic Strength points and draw upon the
-Int and End characteristics to provide ‘reserve’ points on a like-for-
+Int and End characteristics to provide 'reserve' points on a like-for-
 
 PPSIONICSIONIC T TRAUMARAUMA
 PSIONIC TRAUMA
@@ -5867,7 +5867,7 @@ to react calmly and rationally around it. If he fails, the character will go
 out of his way to avoid the subject, with the Effect determining the degree
 of reaction (hysterics, tears, panic attacks and so forth) and the DM that
 must be applied to any skills the character wishes to use whilst in the
-presence of the phobia’s source.
+presence of the phobia's source.
 3 Compulsion/
 Obsession
 
@@ -5876,7 +5876,7 @@ a certain person, place, situation,
 routine and so on. The compulsion
 drives behaviour to the exclusion
 of all else and, if particularly acute,
-dominates the character’s life.
+dominates the character's life.
 
 Assign the condition an intensity of between 2 and 12 (or roll 2d6). The
 character must roll this number or higher, with a DM for Endurance or
@@ -5905,7 +5905,7 @@ then the paranoia subsides. The Effect also indicates the level of behaviour
 the character exhibits when faced with a potential source of paranoia
 (mistrust, anger, panic attacks, flight response and so forth).
 5 Bipolar Disorder Extreme mood swings, veering
-between high elation, ‘normal’
+between high elation, 'normal'
 behaviour and deep depression. A
 mood swing can occur at any time
 but typically in response to events
@@ -5947,7 +5947,7 @@ abilities.
 their capabilities are far higher
 and greater than they are and
 generally far greater and higher
-than anyone else’s. Delusions of
+than anyone else's. Delusions of
 power, attractiveness or prowess
 in a particular skill and so on,
 lead them to make wild boasts,
@@ -6053,7 +6053,7 @@ PPSIONICSIONIC T TRAUMARAUMA PSIONIC TRAUMA
 TREATING MENTAL INSTABILITY
 Mental instability typically requires long-term treatment,
 convalescence and drugs. Many sufferers go through life without
-requiring treatment, depending on the condition’s intensity but
+requiring treatment, depending on the condition's intensity but
 those who struggle to control the condition require detailed care.
 
 Where a condition has been assigned an intensity, it takes a number
@@ -6067,12 +6067,12 @@ No rolls are required to remove the condition but expertise in Medic
 and Life Sciences (Psychology) reduce the number of months required
 for treatment by their skill levels. Treatment must be undergone for
 the full term; if it is broken, then the sufferer is not cured and suffers
-a relapse to the condition’s previous intensity. At the end of the term,
+a relapse to the condition's previous intensity. At the end of the term,
 the character must roll Int + End 9+. If successful, then condition
 has been successfully cured. If unsuccessful, then the character is
 cured but requires drugs to keep the condition fully at bay. If drugs
 are not taken, there is an End 9+ chance that the condition will
-return with a new intensity (but reduced by the character’s End +
+return with a new intensity (but reduced by the character's End +
 Int DMs).
 
 Insanity
@@ -6093,7 +6093,7 @@ intensity level of the condition, +2d6, in years. Some insane
 characters may never be cured.
 
 Player Characters in a truly insane condition may be retired from
-play at the Referee’s discretion – although insane characters do
+play at the Referee's discretion – although insane characters do
 provide some interesting opportunities for roleplaying (and insane
 Non-Player Characters always do).
 
@@ -6382,7 +6382,7 @@ Oneirophobia- Fear of dreams.
 Onomatophobia- Fear of hearing a certain word.
 Ophidiophobia- Fear of snakes.
 Ophthalmophobia- Fear of being stared at.
-Optophobia- Fear of opening one’s eyes.
+Optophobia- Fear of opening one's eyes.
 Ornithophobia- Fear of birds.
 Orthophobia- Fear of property.
 Osmophobia - Fear of smells or odours.
@@ -6417,7 +6417,7 @@ PSIONIC TRAUMA
 
 Photoaugliaphobia- Fear of glaring lights.
 Photophobia- Fear of light.
-Phonophobia- Fear of noises or voices or one’s own voice.
+Phonophobia- Fear of noises or voices or one's own voice.
 Phronemophobia- Fear of thinking.
 Phthiriophobia- Fear of lice (Pediculophobia).
 Plutophobia- Fear of wealth.
@@ -6534,7 +6534,7 @@ manipulates it or enhances it.
 
 Any piece of equipment that uses psionic energy in some way must
 be psi-calibrated; that is, circuited to receive, adapt and manipulate
-psi energy as the psion’s mind produces it. Note that this is not the
+psi energy as the psion's mind produces it. Note that this is not the
 same as using the Machine Symbiosis talent; psionically-calibrated
 equipment is designed to work with any psion, regardless of talents
 trained; the important component is psionic energy and the ability
@@ -6543,7 +6543,7 @@ to harness it.
 Any psionic device has a specific function or set of functions. This
 might be to enhance a particular talent or power or to replicate one.
 Every device requires Psionic Strength points to power it and achieve
-its effects; this cost is stipulated in the item’s description.
+its effects; this cost is stipulated in the item's description.
 
 Not all of the devices listed here will be suitable for every campaign.
 Referees need to decide what types of devices are available, both at
@@ -6554,7 +6554,7 @@ falls ill with a serious fever, suffering 3d6 damage and permanently
 reducing his Psionic Strength by one.
 
 Inhibitor Drug
-Psionic inhibitors dampen the brain’s ability to generate psychic
+Psionic inhibitors dampen the brain's ability to generate psychic
 effects. A character who takes (or, more often, is forcibly injected
 with) an inhibitor drug suffers a –4 DM to all Psionic Strength
 checks and cannot regain Psionic Strength points. Each hour the
@@ -6573,14 +6573,14 @@ needs to be taken.
 
 The drug does not cure Psionic Trauma; it merely controls its effects
 allowing a psion to live a normal, everyday life. However, the body
-and mind can become inured to the drug’s effects; for every month,
+and mind can become inured to the drug's effects; for every month,
 roll End + Psi 9+. If the roll succeeds then the body begins to resist
-the drug’s effects and it will require a strength of suppressant one
+the drug's effects and it will require a strength of suppressant one
 level higher than actually needed or desired to suppress trauma.
 
 Trauma Suppressants have some physical side effects. These start
 to manifest within a month of taking the drug. Roll 1d6 and add the
-drug’s strength to determine the specific side effect. The side effect
+drug's strength to determine the specific side effect. The side effect
 only needs to be rolled once but as stronger levels of the drug are
 taken, the side effects become more acute and evident.
 
@@ -6610,7 +6610,7 @@ DRUGS
 Psi-Drugs
 These drugs restore Psionic Strength if taken when the character
 has already spent Psionic Strength points or temporarily increase
-the character’s Psionic Strength if taken when he is at full Psionic
+the character's Psionic Strength if taken when he is at full Psionic
 Strength.
 
 Drug TL
@@ -6635,7 +6635,7 @@ PPSIONICSIONIC E EQUIPMENTQUIPMENT PSIONIC EQUIPMENT
 
 ENHANCERS
 Enhancers are technical devices, psionically calibrated, to enhance either
-the overall performance of a psion’s capabilities or a specific talent.
+the overall performance of a psion's capabilities or a specific talent.
 
 Psi Enhancer
 Available either as a skull implant (in which the enhancer circuits are
@@ -6668,7 +6668,7 @@ either a Psi Enhancer or a standard neural interface. Note that a talent
 chip will not confer a psionic talent on someone who is none psionic.
 
 The chip gives the psion the talent at level 0. The cost is based on
-how many powers are included as part of the chip’s data array.
+how many powers are included as part of the chip's data array.
 
 Talent Chip Cost: Basic Talent, Cr. 20,000 + Cr. 2,000 per power;
 Advanced Talent, Cr. 50,000 + Cr. 3,000 per power.
@@ -6677,7 +6677,7 @@ Personal Psi Battery (PPB)
 A Personal Psi Battery stores Psionic Strength points for later use.
 A battery can hold up to 10 Psi Points and is charged by the psion
 during rest periods. Psi Points channelled into the battery, rather
-than into the psion’s own mind, will therefore increase the length
+than into the psion's own mind, will therefore increase the length
 of any rest period if the psion wants to regain his full Psi points
 compliment.
 
@@ -6707,7 +6707,7 @@ Available at TL 12+. An aerosol neutraliser, the Ant-Psi Spray projects a cloud
 of nano-particles, 1 meter in diameter, into the air. The nano particles are
 molecularly calibrated to absorb psionic energy and dissipate it harmlessly.
 Every blast of the spray neutralises 3+1d6 Psionic Strength points placed
-into an active power that must be directed through the cloud’s area of
+into an active power that must be directed through the cloud's area of
 effect. The cloud itself dissipates after 1d6 Combat Rounds.
 
 A standard canister of spray provides 5 bursts.
@@ -6735,9 +6735,9 @@ of the haft. It is psionically calibrated to psionic users and, when
 activated, generates an energy blade of about a meter in length.
 The psion unconsciously limits the blade length, preventing it from
 operating as a conventional, ranged, energy weapon: its costs the
-psion 1 Psi point per hour to maintain the blade’s integrity.
+psion 1 Psi point per hour to maintain the blade's integrity.
 
-The weapon’s damage is 4d6, plus the Effect of a successful Psionic Strength
+The weapon's damage is 4d6, plus the Effect of a successful Psionic Strength
 8+ roll. The haft contains a battery that provides up to 4 hours of continuous
 operation. The skill required to use the weapon is Melee (blade).
 
@@ -6775,7 +6775,7 @@ place or hurled.
 When the bomb goes off, it unleashes the stored psionic energy
 in an instantaneous wave that affects a radius of 3+1d6 meters.
 Everything caught in that radius experiences a negative DM to skills
-equal to the bomb’s stored Psi points for 1d6 rounds.
+equal to the bomb's stored Psi points for 1d6 rounds.
 
 Mind Bomb Cost: Cr. 1,000.
 
@@ -6904,7 +6904,7 @@ attempt must first be successfully detected; this is an automated
 system function that successfully locates the psionic power output
 on a roll of 8+. Next, the device must successfully redirect the
 teleporter, again on a roll of 8+ but reduced by a DM equal to the
-psion’s Psionic Strength DM, plus a –1 DM for every kilometer of
+psion's Psionic Strength DM, plus a –1 DM for every kilometer of
 distance between it and the teleporter. The machine has a maximum
 range of 6 kilometers.
 
@@ -6984,7 +6984,7 @@ that are connected to the temples or skull of the subject. The device
 provides the user with temporary psionic abilities, allowing him to
 read thoughts and emotions as though a psion with a skill level
 of 0 in Telepathy. The item grants virtual Psi points equal to the
-character’s current End score.
+character's current End score.
 
 Mind Reader Cost: Cr. 50,000.
 
@@ -7018,7 +7018,7 @@ Available at TL10+. This headset device can be used by non-psions
 and replicates the Read Aura power of the Aura Perception talent
 at level 0. The user can see and interpret psionic auras but cannot
 manipulate, mask or project them. The item grants virtual Psi points
-equal to the character’s current End score.
+equal to the character's current End score.
 
 Aura Array Cost: Cr. 10,000.
 
@@ -7041,10 +7041,10 @@ Mind Switch Device Cost: Cr. 250,000 (limited availability).
 PSIONIC EQUIPMENT
 
 Ships powered by the mind figure large in science fiction stories:
-Anne McAffrey’s Helva ( The Ship Who Sang ) and M John Harrison’s
+Anne McAffrey's Helva ( The Ship Who Sang ) and M John Harrison's
 Seria Mau Genlicher ( Light ) being two obvious examples; there
 are many others – the Cylon Hybrid from Battlestar Galactica and
-the semi-psionic Mass Detectors from Larry Niven’s Known Space
+the semi-psionic Mass Detectors from Larry Niven's Known Space
 series, for instance.
 
 The Psionic Powers chapter includes the psionic rules for mind-
@@ -7056,14 +7056,14 @@ the basic rules or High Guard ) to support psionic integration.
 
 DEGREE OF INTEGRATION
 The rules in Traveller: Psions assumes that, at the least, a psionic pilot
-will be highly integrated with the ship’s architecture and systems.
+will be highly integrated with the ship's architecture and systems.
 The reason for this is simple; even in small ships requiring just a
 single pilot, flying a starship is a complex business and rarely the
 responsibility of one person. Helm positions traditionally include
 a pilot and co-pilot, comms officer, sensors officer, astrogator/
 navigator and, sometimes, an engineering position. A psion can
 assume all these functions, handling them simultaneously, if he is
-integrated with the ship’s systems. Drives, sensors, avionics, life
+integrated with the ship's systems. Drives, sensors, avionics, life
 support – all these functions can be controlled and monitored by a
 single mind, depending on the size and complexity of the ship.
 
@@ -7076,7 +7076,7 @@ your campaign.
 
 Whilst a single psion could, feasibly, control a whole ship, from
 all the helm positions through to gunnery, it will put an enormous
-strain on that psion’s capabilities – not least from the amount of Psi
+strain on that psion's capabilities – not least from the amount of Psi
 points needed to fuel the powers required. For this reason larger
 ships may have multiple psions, integrated to greater or lesser
 degrees, to share the workload and allow rest and regeneration.
@@ -7122,7 +7122,7 @@ again, campaign type will dictate what is required.
 
 Psion Integration Chamber
 A Psion Integration Chamber is the life support system and interface
-for an integrated psion pilot. It can be built directly into a ship’s
+for an integrated psion pilot. It can be built directly into a ship's
 hull, at a reduced tonnage and cost but removing the integrated
 psion from it is a surgical procedure requiring specialist surgical
 knowledge and apparatus (Medic 3 or higher); or it can be modular,
@@ -7198,11 +7198,11 @@ using the K Vault results in the psion suffering a level of Psionic
 Trauma for every 5 points drawn, if he cannot succeed in a Psi +
 End roll of 10+.
 
-The K Vault discharges psionic energy in ‘blocks’ of 1, 3 or 5 Psi
+The K Vault discharges psionic energy in 'blocks' of 1, 3 or 5 Psi
 Points, the psion controlling how much is drawn and when, though
 they can never draw more than their maximum Psi points at any one
 time. It is common for most psions to rely on their own Psi reserves
-before drawing on the vault’s but this is not a requisite for use.
+before drawing on the vault's but this is not a requisite for use.
 
 K Vaults come in capacities of 10, 20, 50, 80 and 100 points at a cost
 of 1 MCr. per 10 points of storage. The Vault displaces a number of
@@ -7273,7 +7273,7 @@ The K-Web generates and channels, 1 Psi point for every 20 (non-
 psion) people aboard the ship. This is not a continuous activity
 as the process drains Psionic Strength from the crew and it takes
 the same length of time to regenerate the latent Psi points as
-for a psion. Psions can, if they wish, resist the K-Web’s draw by
+for a psion. Psions can, if they wish, resist the K-Web's draw by
 rolling Psionic Strength + End 8+; alternatively, they can regulate
 how much Psionic Strength they donate – either be volunteering a
 certain number of points or agreeing an amount with the integrated
@@ -7284,7 +7284,7 @@ Psionic Strength generated through a K-Web cannot be battery
 stored; it must be used immediately by the integrated psions. Any
 unused energy naturally dissipates.
 
-Ordinarily, all non-psions are subject to the K-Web’s draw but
+Ordinarily, all non-psions are subject to the K-Web's draw but
 insulators, in the form of bracelets or headbands, can be made
 
 available which prevent latent Psionic Strength from being taken
@@ -7455,18 +7455,18 @@ similar sized structures surrounding it.
 Ambient Environment Cloak Costs: Cr. 250,000 per ton.
 
 Time Cannon: The Time Cannon channels the time travel properties
-of a ship’s T drive and directs them at an external target: in other
+of a ship's T drive and directs them at an external target: in other
 words, an external target can be moved through time instead of the
 time ship.
 
-The maximum increment is equal to the vessel’s own time travel
+The maximum increment is equal to the vessel's own time travel
 capability and the fuel used is the same as if the ship itself had
 completed the time jump. The time cannon can also not influence a
 ship of a greater hull tonnage than that of its own vessel – so a 200
 ton time ship could not transport a 300 ton ship several hours back
 in time to avoid a conflict, for example.
 
-A time cannon displaces 10% of the T drive’s tonnage. It operates
+A time cannon displaces 10% of the T drive's tonnage. It operates
 only at Short ship combat range.
 
 Time Cannon Cost: MCr. 1 per ton.
@@ -7479,9 +7479,9 @@ designs and textures that pass for the real thing. It cannot fabricate
 armor or apparel that requires a technology component (such as a
 vacc suit) but everyday garb is well within its capabilities.
 
-The fabricator hooks to the ship’s visual sensors and requires a
+The fabricator hooks to the ship's visual sensors and requires a
 representative sample of current fashions to be able to extrapolate
-what will be appropriate. It also hooks into the ship’s Library program
+what will be appropriate. It also hooks into the ship's Library program
 and analyses historical databases to refine designs and styles. A
 catalogue of clothing is then presented on a holographic screen so
 that the wearer can choose his or her preferred style. Manufacture
@@ -7531,7 +7531,7 @@ capacity of a vessel to vastly exceed its external capacity. The
 maximum increase in capacity is 50%, so a 300 ton external hull
 could have an internal capacity of 450 tons.
 
-The IRDA displaces 2% of the original hull’s volume and needs to
+The IRDA displaces 2% of the original hull's volume and needs to
 draw on the power plant for continuous operation. If the P plant
 is interrupted, then the dimensional adjustment field collapses –
 which may have catastrophic results for the occupants of the ship.
@@ -7700,7 +7700,7 @@ Weapons 84
 Spanning the entire First World Wa r, Age of Dreadnoughts is a complete naval
 miniatures game based on the hit Victory at Sea rules system. Now you can play
 out these confrontations on the tabletop with entire fl eets drawn from the Royal
-Navy’s Grand Fleet, the Kaiserliche Marine’s Hochseefl otte or any one of the
+Navy's Grand Fleet, the Kaiserliche Marine's Hochseefl otte or any one of the
 many other nations featured. From skirmishes involving single cruisers hunting
 down merchantmen and surface raiders
 to the clashing of fl eets against
@@ -7722,11 +7722,11 @@ Dredd and, of course, the Original Traveller Universe.
 
 Available from
 
-‘
+'
 
 Download Signs & Portents, Mongoose Download Signs & Portents, Mongoose
 
-Publishing’s very own free, in-house Publishing’s very own free, in-house
+Publishing's very own free, in-house Publishing's very own free, in-house
 
 magazine!magazine!
 

@@ -51,23 +51,23 @@ The Imperium commands the space between the stars, ensuring that civilization en
 
 While Traveller can be used to model almost any science fiction novel, movie or setting, the traditional setting for adventures is the Third Imperium of Humaniti, the third great empire to stretch across the stars. In the Charted Space universe, players take on the roles of tramp traders and mercenaries, wandering the galaxy in search of profit and adventure.
 
-Players and Travellers Most participants in a Traveller game will be players. Usually, each player generates a character using the Traveller Creation rules; that character becomes the player’s avatar in the game world and is called a Traveller. These Travellers are the central protagonists of the game and scenarios revolve around their adventures and actions.
+Players and Travellers Most participants in a Traveller game will be players. Usually, each player generates a character using the Traveller Creation rules; that character becomes the player's avatar in the game world and is called a Traveller. These Travellers are the central protagonists of the game and scenarios revolve around their adventures and actions.
 
 Throughout this rulebook, the terms player and Traveller are synonymous. The term character is used to describe those in the game controlled by the referee rather than the players – what are often called non-player characters. However, rules that apply to Travellers are usually applicable to characters and vice versa.
 
 THE REFEREE One of the participants is the referee, who describes the world around the Travellers, presents them with challenges and dangers, and takes on the role of the supporting cast and antagonists. The referee creates the basic outline of the adventures that the Travellers encounter and resolves the results of their actions using the rules in this book as a guideline.
 
-TRAVELLER RULE ZERO Many roleplaying games have a ‘rule zero’, which marks out a referee’s fiat, the notion that the referee is free to ignore or change any rule to fit in with their campaign. This is true of Traveller as well but it is worth making a special note about this game.
+TRAVELLER RULE ZERO Many roleplaying games have a 'rule zero', which marks out a referee's fiat, the notion that the referee is free to ignore or change any rule to fit in with their campaign. This is true of Traveller as well but it is worth making a special note about this game.
 
-Traveller comprises several ‘mini-games’ such as world creation, trade and character creation that allows much of the game to run on ‘autopilot’. In many circumstances, the referee is able to make a few rolls on a few tables and generate characters, battles, even a sizeable part of the known universe – this is great news for the busy referee who can then concentrate on the adventure. However, while these tools are in place, the referee should never feel bound by them and has the latitude to ignore any generated results in preference to their own creations.
+Traveller comprises several 'mini-games' such as world creation, trade and character creation that allows much of the game to run on 'autopilot'. In many circumstances, the referee is able to make a few rolls on a few tables and generate characters, battles, even a sizeable part of the known universe – this is great news for the busy referee who can then concentrate on the adventure. However, while these tools are in place, the referee should never feel bound by them and has the latitude to ignore any generated results in preference to their own creations.
 
-Traveller Rule Zero is this: The rules in this book, indeed in every Traveller book, provide merely a framework. If any rules conflict with a referee’s vision for their universe, even if that universe is the official Charted Space setting, then they must give way and be altered to fit.
+Traveller Rule Zero is this: The rules in this book, indeed in every Traveller book, provide merely a framework. If any rules conflict with a referee's vision for their universe, even if that universe is the official Charted Space setting, then they must give way and be altered to fit.
 
-ADVENTURES AND CAMPAIGNS In an adventure, the Travellers embark on a journey or scenario overseen by the referee. The referee determines what dangers the Travellers will face, from hostile aliens and criminals to solar flares and automated defence systems or even political intrigue and deception. The Travellers decide how they will react and overcome these obstacles. For example, the Travellers may be hired to bring a cargo from one world to another but a rival merchant is trying to stop them and has hired a band of mercenaries to attack the Travellers’ ship en route. The Travellers have to get the cargo through safely.
+ADVENTURES AND CAMPAIGNS In an adventure, the Travellers embark on a journey or scenario overseen by the referee. The referee determines what dangers the Travellers will face, from hostile aliens and criminals to solar flares and automated defence systems or even political intrigue and deception. The Travellers decide how they will react and overcome these obstacles. For example, the Travellers may be hired to bring a cargo from one world to another but a rival merchant is trying to stop them and has hired a band of mercenaries to attack the Travellers' ship en route. The Travellers have to get the cargo through safely.
 
 An adventure can be a one-off game, using Travellers created by the referee specifically for that game and discarded afterwards or it can be part of a campaign. An adventure takes one or more game sessions to complete.
 
-A campaign is a series of adventures, charting the continuing escapades of a group of Travellers, and is the most common form of Traveller – mainly because it is the most fun and rewarding! A campaign can be continuous or episodic. In a continuous campaign, each adventure follows on almost immediately from the end of the last and the fuel, resources and money available to the Travellers is carefully tracked. In an episodic campaign, there are longer gaps between adventures and the game focuses only on the exciting and conflict- filled parts of the Travellers’ lives.
+A campaign is a series of adventures, charting the continuing escapades of a group of Travellers, and is the most common form of Traveller – mainly because it is the most fun and rewarding! A campaign can be continuous or episodic. In a continuous campaign, each adventure follows on almost immediately from the end of the last and the fuel, resources and money available to the Travellers is carefully tracked. In an episodic campaign, there are longer gaps between adventures and the game focuses only on the exciting and conflict- filled parts of the Travellers' lives.
 
 CAMPAIGN IDEAS These are a few common types of campaign that are often used in Traveller.
 
@@ -80,7 +80,7 @@ The Explorer Campaign: In a campaign of this type the Travellers go beyond the b
 The Traveller Campaign: The traditional Traveller campaign features a little of everything. The Travellers will go from exploring abandoned alien ziggurats to rescuing missing pets to taking on the local crime lord in a protracted gang war. Inspiration could come from anywhere.
 
 Specialised types of campaign are detailed in two expansions – Mercenary and Element Class Cruisers. Mercenary shows Travellers how to recruit, run and fight with a dedicated military unit, allowing them to make their fortune with a platoon or company of soldiers. Meanwhile, Element Class Cruisers includes the Naval Campaign Sourcebook, which provides everything needed to run a
-‘bridge crew’ style of campaign, where the Travellers will be the senior officers of a mighty capital ship!
+'bridge crew' style of campaign, where the Travellers will be the senior officers of a mighty capital ship!
 
 FURTHER READING Throughout this book, mention is made of other titles available in the Traveller series. Each of these books concentrates on a particular aspect of Traveller, allowing you to expand your game into new realms of play. However, none are vital or necessary to the game and are presented only for your continued enjoyment
 
@@ -88,9 +88,9 @@ FURTHER READING Throughout this book, mention is made of other titles available 
 
 Traveller Companion: Space is big and there was only so much we could squeeze into the pages of the Traveller Core Rulebook. The Traveller Companion is a book dedicated to alternative methods of play, differing technologies and the experimentation of expanded genres. From environmental hazards on alien worlds to alternate career creation, the Traveller Companion is a massive toolkit allowing you to tailor your campaign exactly how you want it.
 
-High Guard: For campaigns that include a great amount of space travel, High Guard is invaluable. Including a complete spacecraft design system, this book allows Travellers and referees to create their own ships from scratch or customise those already designed. As well as featuring a veritable fleet of new ships, High Guard also introduces a brand new scale of combat – Capital scale, where giant dreadnoughts and battleships clash across entire star systems.
+High Guard: For campaigns that include a great amount of space travel, High Guard is invaluable. Including a complete spacecraft design system, this book allows Travellers and referees to create their own ships from scratch or customise those already designed. As well as featuring a veritable fleet of new ships, High Guard also introduces a brand new scale of combat – [[Capital]] scale, where giant dreadnoughts and battleships clash across entire star systems.
 
-The Third Imperium: The Third Imperium is the greatest interstellar empire in the history of Charted Space. This book contains everything Travellers and referees need to explore the Third Imperium, including descriptions of its people, society, military forces and power brokers, and a complete exploration of the Core sector - the heart of the entire empire.
+The Third Imperium: The Third Imperium is the greatest interstellar empire in the history of Charted Space. This book contains everything Travellers and referees need to explore the Third Imperium, including descriptions of its people, society, military forces and power brokers, and a complete exploration of the [[Core sector]]  - the heart of the entire empire.
 
 Behind the Claw: Covering two complete sectors on the frontier of the Third Imperium (the Spinward Marches and Deneb), this book lays out a classic area of the Charted Space universe. Here you will find worlds, megacorporations, alien species and powerful factions all ready to be explored in your adventures and forming a backdrop to entire campaigns.
 
@@ -104,19 +104,19 @@ Pirates of Drinax: If you are looking for an exciting and in-depth campaign that
 
 GAME CONVENTIONS A quick discussion of terminology and conventions is needed before proceeding. Traveller uses two six-sided dice to resolve most actions. Some situations involve fewer or more dice.
 
-1D/2D: To avoid writing ‘roll two six-sided dice and add them together’ over and over again, Traveller uses the abbreviation ‘roll 2D’. Where you see ‘roll 2D’ read ‘roll two six-sided dice and add them together’. Sometimes you may also see ‘1D’, ‘3D’ or other numbers of ‘D’. This simply means roll one six-sided dice, three six-sided dice, or however many six-sided dice are indicated, and add them together to gain the final result.
+1D/2D: To avoid writing 'roll two six-sided dice and add them together' over and over again, Traveller uses the abbreviation 'roll 2D'. Where you see 'roll 2D' read 'roll two six-sided dice and add them together'. Sometimes you may also see '1D', '3D' or other numbers of 'D'. This simply means roll one six-sided dice, three six-sided dice, or however many six-sided dice are indicated, and add them together to gain the final result.
 
-2D+3/3D-2: If an addition or subtraction appears after the normal dice abbreviation, that simply means add or subtract the number shown to the total rolled. So, for example, 2D+3 means ‘roll two dice, add them together and then add three’.
+2D+3/3D-2: If an addition or subtraction appears after the normal dice abbreviation, that simply means add or subtract the number shown to the total rolled. So, for example, 2D+3 means 'roll two dice, add them together and then add three'.
 
-D3: Occasionally, you may see a reference to D3. This means we treat the dice as if they have only three sides each, by dividing the number rolled by two and rounding upwards. So, a roll of 1–2 means one, a roll of 3–4 means two and a roll of 5–6 means three. If a number appears before the ‘D’ (such as 2D3, for example), this means roll two dice and divide the results of both by two before adding them together.
+D3: Occasionally, you may see a reference to D3. This means we treat the dice as if they have only three sides each, by dividing the number rolled by two and rounding upwards. So, a roll of 1–2 means one, a roll of 3–4 means two and a roll of 5–6 means three. If a number appears before the 'D' (such as 2D3, for example), this means roll two dice and divide the results of both by two before adding them together.
 
-D66: This is shorthand for a special way of rolling two six-sided dice. Before rolling nominate one dice as the ‘tens’ die and one as the ‘units’ die, to give you a two-digit number between 11 and 66. Some numbers cannot be rolled on a D66 (any number with a 7 or higher in it), giving you a total of 36 possible outcomes.
+D66: This is shorthand for a special way of rolling two six-sided dice. Before rolling nominate one dice as the 'tens' die and one as the 'units' die, to give you a two-digit number between 11 and 66. Some numbers cannot be rolled on a D66 (any number with a 7 or higher in it), giving you a total of 36 possible outcomes.
 
 Rolls: To determine if a Traveller succeeds or fails at a particular task, you must make a roll. A roll is always done by rolling 2D and adding any appropriate Dice Modifiers. If the total is equal to or greater than the target number for that roll, they succeed. The target number for a roll will always be listed in its description. For example, you may be asked to roll for STR 10+. This would mean roll two dice, add your Strength modifier and get 10 or more to succeed.
 
 Checks: A check is exactly the same as a roll but the Dice Modifier will always be a characteristic or skill. Thus, you will be asked for a characteristic check or skill check. For most characteristic or skill checks, you will need to get an 8 or more after all Dice Modifiers have been applied in order to succeed.
 
-Natural 2/Natural 12: Some rolls refer to a ‘natural’ number – this is the actual number rolled on the dice before any modifiers are applied.
+Natural 2/Natural 12: Some rolls refer to a 'natural' number – this is the actual number rolled on the dice before any modifiers are applied.
 
 Dice Modifier (DM) : A number to be applied to a dice roll before it is used. Dice Modifiers are always followed by a sign, which indicates if the number is to be added to or subtracted from the roll. For example, DM-2 indicates that two is to be subtracted from the roll; DM+4 indicates that four is to be added to the roll.
 
@@ -126,7 +126,7 @@ TECH LEVELS The concept of Tech Levels (or TL) runs through Traveller in most of
 
 Even on a less advanced world, there might be examples of higher technology. A warlord on a primitive planet might enforce their rule with advanced weapons imported from offworld; colony worlds are often dependent on their sponsor civilization for supplies and support. Some low-technology worlds are aware of the larger universe and have consciously decided to reject advanced technology.
 
-TL0 (Primitive) No technology. TL0 worlds have only discovered the simplest tools and principles and are on par with Earth’s Stone Age.
+TL0 (Primitive) No technology. TL0 worlds have only discovered the simplest tools and principles and are on par with Earth's Stone Age.
 
 TL1 (Primitive) Roughly on a par with Bronze or Iron age technology. TL1 science is mostly superstition but manufacture weapons and work metals.
 
@@ -142,7 +142,7 @@ TL6 (Industrial) TL6 brings the development of fission power and more advanced c
 
 TL7 (Pre-Stellar) A pre-stellar society can reach orbit reliably and has telecommunications satellites. Computers and integrated circuits become ubiquitous. At the time of writing, Earth is currently somewhere between TL and TL8.
 
-TL8 (Pre-Stellar) At TL8, it is possible to reach other worlds in the same star system, although terraforming or full colonization are not within the culture’s capacity. Permanent space habitats become possible. Fusion power becomes commercially viable.
+TL8 (Pre-Stellar) At TL8, it is possible to reach other worlds in the same star system, although terraforming or full colonization are not within the culture's capacity. Permanent space habitats become possible. Fusion power becomes commercially viable.
 
 TL9 (Pre-Stellar) The defining element of TL9 is the development of gravity manipulation, which makes space travel vastly safer and faster. This research leads to development of the jump drive, which occurs near the end of this Tech Level. TL9 cultures can colonize other worlds, although travelling to a colony is often a one-way trip.
 
@@ -162,31 +162,31 @@ Higher Tech Levels exist (indeed, there is no theoretical upper limit) and may a
 
 # TRAVELLER CREATION
 
-Instead of choosing a class and various skills or abilities, in Traveller you start off as a bright-eyed 18 year old with the whole universe at your feet. You will then decide what kind of career you might want to pursue and then watch as your Traveller’s life unfolds – very possibly in a completely different direction!
+Instead of choosing a class and various skills or abilities, in Traveller you start off as a bright-eyed 18 year old with the whole universe at your feet. You will then decide what kind of career you might want to pursue and then watch as your Traveller's life unfolds – very possibly in a completely different direction!
 
 When you have finished this process, you will be ready for play with a Traveller who has history and a full career (successful or otherwise) behind them. They will now be ready for the next phase of their life, one full of excitement and adventure...
 
-It should be noted that there are no ‘super’ characters in Traveller. This game is very much based around the idea of putting ordinary people in extraordinary situations and of playing with the cards that the universe has dealt you. Be ready to make the best of what you get – much like real life (although real life tends to lack starships, exploding suns and eight foot tall intelligent lion-like aliens).
+It should be noted that there are no 'super' characters in Traveller. This game is very much based around the idea of putting ordinary people in extraordinary situations and of playing with the cards that the universe has dealt you. Be ready to make the best of what you get – much like real life (although real life tends to lack starships, exploding suns and eight foot tall intelligent lion-like aliens).
 
-So, another Traveller may end up as a battle-hardened marine who can shoot out a fox’s eye at 100 paces with any weapon in Charted Space but your failed rock star who never managed to get anywhere in their career may well have more to contribute to the group. After all, not every problem can be solved with a gun. In fact, in Traveller, a gun may cause more issues than it solves.
+So, another Traveller may end up as a battle-hardened marine who can shoot out a fox's eye at 100 paces with any weapon in Charted Space but your failed rock star who never managed to get anywhere in their career may well have more to contribute to the group. After all, not every problem can be solved with a gun. In fact, in Traveller, a gun may cause more issues than it solves.
 
-CREATION SUMMARY A Traveller’s abilities and skills are determined by training and past experience. Traveller creation begins with rolling characteristics, six values that describe your initial physical and mental capabilities. After determining characteristics and a few background skills from adolescent life, it is time to embark on a career. Each Traveller goes through one or more four-year career terms, which grant various skills and benefits. There are risks associated with each career – serving a tour of duty in the Imperial Marines may give a Traveller a good grounding in combat and weapons use but there is always the risk of injury in battle. A term spent in a corporation is unlikely to get a Traveller injured or killed but will not usually provide skills valuable in combat.
+CREATION SUMMARY A Traveller's abilities and skills are determined by training and past experience. Traveller creation begins with rolling characteristics, six values that describe your initial physical and mental capabilities. After determining characteristics and a few background skills from adolescent life, it is time to embark on a career. Each Traveller goes through one or more four-year career terms, which grant various skills and benefits. There are risks associated with each career – serving a tour of duty in the Imperial Marines may give a Traveller a good grounding in combat and weapons use but there is always the risk of injury in battle. A term spent in a corporation is unlikely to get a Traveller injured or killed but will not usually provide skills valuable in combat.
 
 In addition to skills, Travellers pick up benefits such as cash, equipment or contacts from a career. However, there are limits on how many career terms a Traveller can go through – the risks of aging or injury mount up over time and some Travellers will move between two or three careers in their lives. At some point, you will decide to leave your career for a new life of adventure before your Traveller gets too old.
 
-While going through a career, you can establish ties between your Traveller and those of the other players, so everyone will be old friends (or rivals!) before play begins. You will also be able to pick a skills package after everyone has finished creating their Travellers, which will allow you to fill any gaps in the group’s skill range.
+While going through a career, you can establish ties between your Traveller and those of the other players, so everyone will be old friends (or rivals!) before play begins. You will also be able to pick a skills package after everyone has finished creating their Travellers, which will allow you to fill any gaps in the group's skill range.
 
 For alternate forms of Traveller creation such as point allocation systems, consult the Traveller Companion.
 
 GROUP CREATION It is common in roleplaying games for players to create their characters before play begins, so everyone turns up on the first day of a campaign ready to go. It is rare for us to say this but, in Traveller, this is the Wrong Thing to do.
 
-Traveller creation is intended as a group activity, partly because of the Connections Rule (see page 19) but also because it was specifically designed to be done as a group activity, with players able to see how one another’s Travellers are progressing and get a deeper understanding of what they were doing before the campaign begins.
+Traveller creation is intended as a group activity, partly because of the Connections Rule (see page 19) but also because it was specifically designed to be done as a group activity, with players able to see how one another's Travellers are progressing and get a deeper understanding of what they were doing before the campaign begins.
 
-So, treat Traveller creation as a kind of ‘mini’ game that takes place in the first session of every new campaign. Your enjoyment of Traveller will increase greatly, we promise you!
+So, treat Traveller creation as a kind of 'mini' game that takes place in the first session of every new campaign. Your enjoyment of Traveller will increase greatly, we promise you!
 
 CHARACTERISTICS Every person in Traveller, human and alien, has several characteristics that describe their base mental and physical potential. The basic characteristics for humans are shown here.
 
-**ROLLING CHARACTERISTICS** To determine your Traveller’s characteristics, roll 2D one after another and assign the scores in any order you wish to the six characteristics, starting with STR. Record them on your character sheet.
+**ROLLING CHARACTERISTICS** To determine your Traveller's characteristics, roll 2D one after another and assign the scores in any order you wish to the six characteristics, starting with STR. Record them on your character sheet.
 
 Alternatively, you may wish instead to assign each score to the characteristics in order, starting with STR, then DEX, then END and so on. After all, we do not get to decide how strong or smart we are before we are born!
 
@@ -215,11 +215,11 @@ As you progress through your career, you may find your characteristics change.
 
 The maximum score for a characteristic is 15 for an unaugmented Traveller. There are exceptions to this but they will be covered later for specific rules and circumstances.
 
-PHYSICAL CHARACTERISTICS Strength (STR): A Traveller’s physical strength, fitness and forcefulness. Dexterity (DEX): Physical co-ordination and agility, reflexes. Endurance (END): A Traveller’s stamina, determination and ability to sustain damage.
+PHYSICAL CHARACTERISTICS Strength (STR): A Traveller's physical strength, fitness and forcefulness. Dexterity (DEX): Physical co-ordination and agility, reflexes. Endurance (END): A Traveller's stamina, determination and ability to sustain damage.
 
-MENTAL CHARACTERISTICS Intellect (INT): A Traveller’s intelligence and quickness of mind. Education (EDU): A measure of a Traveller’s learning and experience. Social Standing (SOC): A Traveller’s place in society.
+MENTAL CHARACTERISTICS Intellect (INT): A Traveller's intelligence and quickness of mind. Education (EDU): A measure of a Traveller's learning and experience. Social Standing (SOC): A Traveller's place in society.
 
-SKILLS Skills are the most important aspect of a Traveller and discussed in detail on page 58. A Traveller’s proficiency in any skill is denoted by their level in that skill.
+SKILLS Skills are the most important aspect of a Traveller and discussed in detail on page 58. A Traveller's proficiency in any skill is denoted by their level in that skill.
 
 BACKGROUND SKILLS Before embarking on your careers, you receive a number of background skills equal to your EDU DM
 +3 (so, 0 to 6, depending on your EDU score), chosen from the list here. This represents the knowledge you have picked up during adolescence and will allow you to function at a basic level in a technological society.
@@ -228,7 +228,7 @@ Admin 0 Electronics 0 Science 0 Animals 0 Flyer 0 Seafarer 0 Art 0 Language 0 St
 
 At this point, you are 18 years old and ready to take on the universe!
 
-**WHERE DO I COME FROM?** While knowledge of a Traveller’s homeworld is not necessary, it is a very nice tool to start shaping the character from the outset. Background skills can be picked to help suggest the kind of world the Traveller grew up on. For example, a Traveller coming from a naturalistic, agricultural world may well have Animals, Seafarer and Survival skills, whereas one whose childhood was spent in an asteroid belt would likely have Vacc Suit, Electronics and Flyer, representing a life in space surrounded by high technology.
+**WHERE DO I COME FROM?** While knowledge of a Traveller's homeworld is not necessary, it is a very nice tool to start shaping the character from the outset. Background skills can be picked to help suggest the kind of world the Traveller grew up on. For example, a Traveller coming from a naturalistic, agricultural world may well have Animals, Seafarer and Survival skills, whereas one whose childhood was spent in an asteroid belt would likely have Vacc Suit, Electronics and Flyer, representing a life in space surrounded by high technology.
 
 This is by no means compulsory but you may find the Traveller you create starts to come alive much faster.
 
@@ -236,11 +236,11 @@ CAREERS Next, your Traveller engages in one or more career terms, representing t
 
 At many points during a career, a Traveller will have to make a dice roll of some sort. Many of these rolls are based on characteristics – simply roll 2D, add the DM from the listed characteristic and try to get a total higher than or equal to the listed value.
 
-So, a roll of INT 8+ means ‘roll 2D, add your Intellect DM and you succeed if you roll an 8 or more’.
+So, a roll of INT 8+ means 'roll 2D, add your Intellect DM and you succeed if you roll an 8 or more'.
 
 SOCIAL STANDING AND NOBILITY Travellers with a high SOC are the cream of their civilizations and may be very well known on their world and possibly across vast swathes of Charted Space. However, while the Third Imperium maintains a system of nobility recognised across most of its worlds, not everyone with a high SOC necessarily has a noble title – or is even a noble at all. Nobles of very high rank have many duties and obligations that may preclude them from a life of adventure. After all, a typical duke will reign over many worlds and Travellers will generally want to explore the universe rather than be engaged in constant administration.
 
-A few rolls are skill checks, where you add any levels in that skill. For example, a roll of Gun Combat 8+ would mean ‘roll 2D, add your Gun Combat skill level and get 8 or more to succeed’.
+A few rolls are skill checks, where you add any levels in that skill. For example, a roll of Gun Combat 8+ would mean 'roll 2D, add your Gun Combat skill level and get 8 or more to succeed'.
 
 Note that later in the rules, you are able to add further modifiers to checks like this (for example, when using the Gun Combat skill to shoot, you can often add your DEX DM). However, these other modifiers are never applied during Traveller creation.
 
@@ -250,7 +250,7 @@ If the group includes a Traveller with a high SOC, we recommend one of the follo
 
 •  Sons, daughters and more distant relations to a named noble may carry a great deal of social weight without actually having a title themselves (although they may well inherit later, depending on how far down the line of succession they are).
 •  The Traveller may well be a high-ranking noble – but has been deposed or otherwise ousted from their position. Perhaps they will someday regain their seat or maybe they will spend the rest of their life trying to escape those who removed them.
-•  SOC need not be tied to nobility – celebrities will also command a high score in this characteristic. A Traveller’s career might point the way to why a SOC is so high, perhaps as a war hero or famous writer. However, it is also possible that the Traveller is simply known for being known, much like some celebrities in our own world.
+•  SOC need not be tied to nobility – celebrities will also command a high score in this characteristic. A Traveller's career might point the way to why a SOC is so high, perhaps as a war hero or famous writer. However, it is also possible that the Traveller is simply known for being known, much like some celebrities in our own world.
 
 If a title is desired, the Noble Titles table provides a suitable link between specific noble titles and SOC.
 
@@ -288,7 +288,7 @@ Your character sheet can be folded into a neat little booklet!
 
 PRE-CAREER EDUCATION Before a Traveller embarks on a lifelong career, there are educational options that may be worth considering. These are going to university or attending a military academy.
 
-This usually takes place in a Traveller’s first term (in place of a career), although it can be delayed up until the third term if a term or two in a career is desired. From term four onwards, pre-career education is no longer available.
+This usually takes place in a Traveller's first term (in place of a career), although it can be delayed up until the third term if a term or two in a career is desired. From term four onwards, pre-career education is no longer available.
 
 A Traveller can select university or military academy, making a roll for successful entry. If this is failed, the Traveller must immediately attempt entry into a career and, failing that, be drafted as normal. Further attempts can be made in terms two and three if desired but only one attempt can be made for entry to one of these pre- career options in any one term.
 
@@ -296,7 +296,7 @@ Once successful entry has been achieved, the Traveller will gain any skills note
 
 After successful graduation, a Traveller may attempt to enter a career of their choice as normal, although they may have earned bonuses or automatic entry to certain careers, as listed under graduation benefits.
 
-UNIVERSITY Many worlds have one or more universities within their major settlements but even citizens of the most remote system can engage in university education through the use of computer networks and interstellar communications. A university education will channel a Traveller’s efforts into a narrow range of skills but there are few other ways to become more skilful within them so quickly.
+UNIVERSITY Many worlds have one or more universities within their major settlements but even citizens of the most remote system can engage in university education through the use of computer networks and interstellar communications. A university education will channel a Traveller's efforts into a narrow range of skills but there are few other ways to become more skilful within them so quickly.
 
 Entry: EDU 6+ DM-1 if in Term Two, DM-2 if in Term Three DM+1 if SOC 9 or higher
 
@@ -316,7 +316,7 @@ Graduation Benefits
 (journalist), Marines, Navy, Scholar, Scouts.
 •  Graduation allows a commission roll to be taken before the first term of a military career, so long as it is the first career chosen after university. Success will mean the Traveller enters the career at officer rank 1. If graduation was with honors, DM+2 is granted on this first commission roll.
 
-MILITARY ACADEMY For those looking to dedicate their lives to military service, there is no better option than joining an academy to round out an education. This is a popular choice for those coming from ‘military’ families or those having grown up never considering anything other than a life in uniform. A term within a military academy can set a recruit’s career for great things, so competition to gain one of the limited number of open student slots is fierce.
+MILITARY ACADEMY For those looking to dedicate their lives to military service, there is no better option than joining an academy to round out an education. This is a popular choice for those coming from 'military' families or those having grown up never considering anything other than a life in uniform. A term within a military academy can set a recruit's career for great things, so competition to gain one of the limited number of open student slots is fierce.
 
 Before joining a military academy, you must decide whether it is an academy of the Army, Marines or Navy.
 
@@ -384,7 +384,7 @@ Citizens and Drifters are an exception to this. They both use their appropriate 
 
 SURVIVAL Each career has a survival roll. If you fail this roll, you must immediately roll on the Mishap table for the career. This mishap will force you to leave the career immediately unless otherwise stated. You will also lose the Benefit roll for the current term. A natural 2 on the survival roll is always a failure.
 
-EVENTS If you are still in your career after resolving the survival roll, roll on the career’s Events table to see what interesting things befall you this term.
+EVENTS If you are still in your career after resolving the survival roll, roll on the career's Events table to see what interesting things befall you this term.
 
 ADVANCEMENT Each career has an advancement roll to represent your successful (or otherwise) path through the career. You start each career at rank 0.
 
@@ -394,7 +394,7 @@ If your advancement roll is equal to or less than the number of terms you have s
 
 If you roll a natural 12, then you must continue in this career. You are too valuable to lose and will be strong- armed into staying.
 
-COMMISSION This only applies to the military careers of Army, Navy and Marines. A Traveller who succeeds at a commission roll becomes a rank 1 officer in that career and progresses on the officer’s rank table from then on. Trying for a commission is optional.
+COMMISSION This only applies to the military careers of Army, Navy and Marines. A Traveller who succeeds at a commission roll becomes a rank 1 officer in that career and progresses on the officer's rank table from then on. Trying for a commission is optional.
 
 You may only attempt to gain a commission in your first term unless your SOC is 9 or higher, in which case you may try for a commission in any term. However, there is DM-1 applied to commission rolls for every term after the first.
 
@@ -412,13 +412,13 @@ Benefits are described fully on page 46.
 
 DRIFTERS AND THE DRAFT You may attempt to enlist in one career each term if you are not continuing with an existing career. If you fail to qualify for a new career, you have two options. You can either apply to the draft, and be randomly sent to one of the military services, or you may spend that term travelling as a Drifter, without true career or purpose. A Traveller may only enter the draft once in their lifetime unless otherwise stated.
 
-THE CONNECTIONS RULE During Traveller creation, the aim is to not only to create interesting histories for Travellers through career decisions, events and mishaps but also to ensure Travellers know one another before the campaign begins. This avoids every campaign starting with the words ‘right, you all meet in the starport bar...’. In Traveller, you will all know one another to some degree and can get stuck into adventuring straight away.
+THE CONNECTIONS RULE During Traveller creation, the aim is to not only to create interesting histories for Travellers through career decisions, events and mishaps but also to ensure Travellers know one another before the campaign begins. This avoids every campaign starting with the words 'right, you all meet in the starport bar...'. In Traveller, you will all know one another to some degree and can get stuck into adventuring straight away.
 
 If two Travellers agree, then any event rolled for one Traveller can involve another. Only one Traveller needs to have rolled the specific event, though you will find it more exciting if Travellers can link events together (this is why it is best to create Travellers as a group activity, going through terms one-by-one together).
 
 If an event can be linked between two Travellers in this way, then they both get one extra skill of their choice. You may gain a maximum of two free skills from the connections rule and each connection must be with a different Traveller. For each connection you make, you may gain any skill but cannot bring a skill above level 3 using this rule nor may you take the Jack-of-all- Trades skill.
 
-For example, Erik is working as an Agent and he rolls an undercover mission (event number 8 on the Agent Events table). Erik’s player suggests that Erik could have met Kathya while on this mission and Kathya’s player agrees. They then discuss exactly what happened during the mission and this begins to form previous history for both Travellers. Both Erik and Kathya will then gain an extra skill because of this.
+For example, Erik is working as an Agent and he rolls an undercover mission (event number 8 on the Agent Events table). Erik's player suggests that Erik could have met Kathya while on this mission and Kathya's player agrees. They then discuss exactly what happened during the mission and this begins to form previous history for both Travellers. Both Erik and Kathya will then gain an extra skill because of this.
 
 Draft Table 1D Career (assignment)
 | 1 | Navy (any) |
@@ -450,7 +450,7 @@ Rivals: These are people who hate or oppose the Traveller and will attempt to in
 
 Enemies: These are even worse than Rivals – a Rival will normally work within the law but an Enemy wants the Traveller dead, imprisoned or otherwise doomed.
 
-When you gain an associate from a random event, note it on your character sheet. You can give as much detail as you wish, from the sketchy (‘Rival in Navy’) to the detailed (‘Captain Harrick, the Pride of Sylea, is my Rival, because I disobeyed his orders while on a mission. He had me drummed out of the Navy, damn him! I’ll yet have my revenge!’.)
+When you gain an associate from a random event, note it on your character sheet. You can give as much detail as you wish, from the sketchy ('Rival in Navy') to the detailed ('Captain Harrick, the Pride of Sylea, is my Rival, because I disobeyed his orders while on a mission. He had me drummed out of the Navy, damn him! I'll yet have my revenge!'.)
 
 Other Travellers can be Contacts, Allies or even Rivals and doing this qualifies for taking advantage of the connections rule.
 
@@ -916,7 +916,7 @@ SOC +1
 2D EVENT
 | 2 | Disaster! Roll on the Mishap table but you are not ejected from this career. |
 | 3 | You are invited to take part in a controversial event or exhibition. Roll Art or Investigate 8+. If you succeed, gain one SOC. If you fail, lose one SOC. |
-| 4 | You are a part of your homeworld’s celebrity circles. Gain one of Carouse 1, Persuade 1, Steward 1 or a Contact. |
+| 4 | You are a part of your homeworld's celebrity circles. Gain one of Carouse 1, Persuade 1, Steward 1 or a Contact. |
 | 5 | One of your works is especially well received and popular, making you a minor celebrity. Gain DM+1 to any one Benefit roll. |
 | 6 | You gain a patron in the arts. Gain DM+2 to your next advancement roll and an Ally. |
 | 7 | Life Event. Roll on the Life Events table (see page 46). |
@@ -949,7 +949,7 @@ Commission: SOC 8+
 
 ASSIGNMENTS Choose one of the following:
 
-Support: You are a quartermaster, engineer or battlefield medic in the marines. Star Marine: You are trained to fight boarding actions and capture enemy vessels. Ground Assault: You are kicked out of a spacecraft in high orbit and told to ‘capture that planet’.
+Support: You are a quartermaster, engineer or battlefield medic in the marines. Star Marine: You are trained to fight boarding actions and capture enemy vessels. Ground Assault: You are kicked out of a spacecraft in high orbit and told to 'capture that planet'.
 
 SURVIVAL ADVANCEMENT Support END 5+ EDU 7+ Star Marine END 6+ EDU 6+ Ground Assault END 7+ EDU 5+
 
@@ -1010,7 +1010,7 @@ RANK ENLISTED SKILL OR BONUS
 1D MISHAP
 | 1 | Severely injured in action (this is the same as a result of 2 on the Injury table). Alternatively, roll twice on the Injury table and take the lower result. |
 | 2 | A mission goes wrong; you and several others are captured and mistreated by the enemy. Due to your injuries, you are discharged early. Gain your jailer as an Enemy and reduce your STR and DEX by one because of your injuries. |
-| 3 | A mission goes wrong and you are stranded behind enemy lines. Increase Stealth or Survival by one level but, due to the mission’s failure, you are ejected from the service. |
+| 3 | A mission goes wrong and you are stranded behind enemy lines. Increase Stealth or Survival by one level but, due to the mission's failure, you are ejected from the service. |
 | 4 | You are ordered to take part in a black ops mission that goes against your conscience. If you refuse you are ejected from the service. If you accept you may stay with the marines but gain the lone survivor as an Enemy. |
 | 5 | You are tormented by or quarrel with an officer or fellow marine. Gain that character as a Rival as they drive you out of the service. |
 | 6 | Injured. Roll on the Injury table (see page 49). |
@@ -1023,7 +1023,7 @@ RANK ENLISTED SKILL OR BONUS
 | 6 | You are assigned to an assault on an enemy fortress. Roll Melee or Gun Combat 8+ and gain Tactics (military) or Leadership if you succeed. If you fail, you are injured and lose 1 point from any physical characteristic. |
 | 7 | Life Event. Roll on the Life Events table (see page 46). |
 | 8 | You are on the front lines of a planetary assault and occupation. Gain one of Recon 1, Gun Combat 1, Leadership 1 or Electronics (comms) 1. |
-| 9 | A mission goes disastrously wrong due to your commander’s error or incompetence but you survive. If you report your commanding officer for their failure then you gain DM+2 to your next advancement roll and gain the officer as an Enemy. If you say nothing and protect them, gain them as an Ally. |
+| 9 | A mission goes disastrously wrong due to your commander's error or incompetence but you survive. If you report your commanding officer for their failure then you gain DM+2 to your next advancement roll and gain the officer as an Enemy. If you say nothing and protect them, gain them as an Ally. |
 | 10 | You are assigned to a black ops mission. Gain DM+2 to your next advancement roll. |
 | 11 | Your commanding officer takes an interest in your career. Either gain Tactics 1 or DM+4 to your next advancement roll thanks to their aid. |
 | 12 | You display heroism in battle. You may gain a promotion or a commission automatically. |
@@ -1152,7 +1152,7 @@ SURVIVAL ADVANCEMENT Line/Crew INT 5+ EDU 7+ Engineer/Gunner INT 6+ EDU 6+ Fligh
 | 3 | Cr5000 EDU +1 or two Ship Shares |
 | 4 | Cr10000 Weapon |
 | 5 | Cr20000 TAS Membership |
-| 6 | Cr50000 Ship’s Boat or two Ship Shares |
+| 6 | Cr50000 Ship's Boat or two Ship Shares |
 | 7 | Cr50000 SOC +2 |
 
 1D PERSONAL DEVELOPMENT SERVICE SKILLS
@@ -1314,7 +1314,7 @@ RANK DIPLOMAT SKILL OR BONUS
 | 6 | You become deeply involved in politics on your world of residence, becoming a player in the political intrigues of government. Gain one level in Advocate, Admin, Diplomacy or Persuade but also gain a Rival. |
 | 7 | Life Event. Roll on the Life Events table (see page 46). |
 | 8 | A conspiracy of nobles attempts to recruit you. If you refuse, gain the conspiracy as an Enemy. If you accept, roll Deception 8+ or Persuade 8+. If you fail, roll on the Mishap table as the conspiracy collapses. If you succeed, Gain one level of Deception, Persuade, Tactics or Carouse. |
-| 9 | Your reign is acclaimed by all as being fair and wise – or in the case of a dilettante, you sponge off your family’s wealth a while longer. Gain either a jealous relative or an unhappy subject as an Enemy. Gain DM+2 to your next advancement roll. |
+| 9 | Your reign is acclaimed by all as being fair and wise – or in the case of a dilettante, you sponge off your family's wealth a while longer. Gain either a jealous relative or an unhappy subject as an Enemy. Gain DM+2 to your next advancement roll. |
 | 10 | You manipulate and charm your way through high society. Gain one level of Carouse, Diplomat, Persuade or Steward, as well as a Rival and an Ally. |
 | 11 | You make an alliance with a powerful and charismatic noble, who becomes an Ally. Either gain one level of Leadership or DM+4 to your next advancement roll thanks to their aid. |
 | 12 | Your efforts do not go unnoticed by the Imperium. You are automatically promoted. |
@@ -1500,7 +1500,7 @@ RANK SCIENTIST SKILL OR BONUS
 | 2 | A disaster leaves several injured and others blame you, forcing you to leave your career. Roll on the Injury table twice, taking the higher result and gain a Rival. |
 | 3 | The planetary government interferes with your research for political or religious reasons. If you continue with your work openly, increase Science by one level and gain an Enemy. If you continue with your work secretly, increase Science by one level and reduce your SOC by 2. This mishap does not cause you to leave this career. |
 | 4 | An expedition or voyage goes wrong, leaving you stranded in the wilderness. Gain Survival 1 or Athletics (dexterity or endurance) 1. By the time you find your way home, your job is gone. |
-| 5 | Your work is sabotaged by unknown parties. You may salvage what you can and give up (leave the career but retain this term’s Benefit roll) or start again from scratch (lose all Benefit rolls from this career but you do not have to leave). |
+| 5 | Your work is sabotaged by unknown parties. You may salvage what you can and give up (leave the career but retain this term's Benefit roll) or start again from scratch (lose all Benefit rolls from this career but you do not have to leave). |
 | 6 | A rival researcher blackens your name or steals your research. Gain a Rival but you do not have to leave this career. |
 
 2D EVENT
@@ -1510,7 +1510,7 @@ RANK SCIENTIST SKILL OR BONUS
 | 5 | You win a prestigious prize for your work, garnering both the praise and envy of your peers. Gain DM+1 to any one Benefit roll. |
 | 6 | You are given advanced training in a specialist field. Roll EDU 8+ to gain any one skill of your choice at level 1. |
 | 7 | Life Event. Roll on the Life Events table (see page 46). |
-| 8 | You have the opportunity to cheat in some fashion, advancing your career and research by stealing another’s work, using an alien device, taking a shortcut and so forth. If you refuse, you gain nothing. If you accept, roll Deception 8+ or Admin 8+. If you succeed, you gain DM+2 to any one Benefit roll and may increase any skill by one level but also gain an Enemy. If you fail, gain an Enemy and lose one Benefit roll from this career. |
+| 8 | You have the opportunity to cheat in some fashion, advancing your career and research by stealing another's work, using an alien device, taking a shortcut and so forth. If you refuse, you gain nothing. If you accept, roll Deception 8+ or Admin 8+. If you succeed, you gain DM+2 to any one Benefit roll and may increase any skill by one level but also gain an Enemy. If you fail, gain an Enemy and lose one Benefit roll from this career. |
 | 9 | You make a breakthrough in your field. Gain DM+2 to your next advancement roll. |
 | 10 | You become entangled in a bureaucratic or legal morass that distracts you from your work. Gain one of Admin 1, Advocate 1, Persuade 1 or Diplomat 1. |
 | 11 | You work for an eccentric but brilliant mentor, who becomes an Ally. Either increase Science by one level or DM+4 to your next advancement roll thanks to their aid. |
@@ -1607,7 +1607,7 @@ Events
 LIFE EVENTS Even in the distant future, humans are still people
 (in fact, some non-humans are also people...). They work, they quarrel, they get sick, they fall in love, they complain about their in-laws... in short, life goes on. If you roll up a Life Event during your career, roll on the Life Events table.
 
-BENEFITS In the course of a Traveller’s career, they may manage to save some money. They may also acquire equipment and other benefits from their previous employers – a Scout might be mustered out of the service with a reserve Scout Ship, for example, or a Marine might get to keep their combat armor and so on. These are determined by Benefit rolls.
+BENEFITS In the course of a Traveller's career, they may manage to save some money. They may also acquire equipment and other benefits from their previous employers – a Scout might be mustered out of the service with a reserve Scout Ship, for example, or a Marine might get to keep their combat armor and so on. These are determined by Benefit rolls.
 
 Benefits are gained when a Traveller leaves a career. A Traveller gets one Benefit roll for every full term served in that career. You also get extra Benefit rolls if you reached a high rank.
 
@@ -1673,16 +1673,16 @@ Scientific Equipment: Gain any one piece of scientific equipment with a limit of
 
 Scout Ship: You receive a scout ship. You have full use of the ship and can modify it as you see fit but it still belongs to the Scout Service and can (and will!) be recalled back into service as needed. This means you will be expected to complete missions for the Scout Service from time-to-time. If you roll this Benefit more than once, re-roll the result.
 
-Ship’s Boat: You receive a ship’s boat or other small craft with a limit of MCr10 and TL12. If you roll this Benefit again, gain Pilot (small craft). Alternatively, receive a Ship Share instead.
+Ship's Boat: You receive a ship's boat or other small craft with a limit of MCr10 and TL12. If you roll this Benefit again, gain Pilot (small craft). Alternatively, receive a Ship Share instead.
 
 Ship Shares: You obtain one or more Ship Shares that can be put towards obtaining a ship. Each share is worth MCr1 but cannot be redeemed for cash.
 
 Weapon: Select any weapon with a limit of Cr3000 and TL12. If you roll this benefit again, you may take another weapon or one level in the appropriate Melee or Gun Combat skill for a weapon already received as a Benefit.
 
-TAS Membership: You are a member of the Traveller’s Aid Society (TAS), a private organization that maintains hostels and facilities at all Class A and B starports in many parts of human space. Facilities are available
-(at reasonable cost) to members and their guests. Receipt of membership in the Traveller’s Aid Society as a benefit may be construed as a reward for heroism or extraordinary service to the Society rather than an official benefit from a career. Membership is for life and not transferable.
+TAS Membership: You are a member of the Traveller's Aid Society (TAS), a private organization that maintains hostels and facilities at all Class A and B starports in many parts of human space. Facilities are available
+(at reasonable cost) to members and their guests. Receipt of membership in the Traveller's Aid Society as a benefit may be construed as a reward for heroism or extraordinary service to the Society rather than an official benefit from a career. Membership is for life and not transferable.
 
-Membership may also be purchased for MCr1, although it is possible for an application to be ‘black-balled’ by an existing member. The Traveller’s Aid Society is an exclusive organization, made up of those who are truly citizens of the galaxy, not just a single world.
+Membership may also be purchased for MCr1, although it is possible for an application to be 'black-balled' by an existing member. The Traveller's Aid Society is an exclusive organization, made up of those who are truly citizens of the galaxy, not just a single world.
 
 The TAS invests its membership fees and other incomes; it uses its capital and return to provide benefits to its members. Every two months, it pays dividends in the form of one high passage (see page 158) to each member. This passage may be used, retained or sold.
 
@@ -1703,7 +1703,7 @@ Terms Pay
 | 7 | Cr14000 |
 | 8 | Cr16000 | 9+ Cr2000 per term beyond 8
 
-AGEING The effects of ageing begin when a Traveller reaches 34 years of age (at the end of their fourth career term). At the end of the fourth term and at the end of every term thereafter, the Traveller must roll 2D on the Ageing table. Use the Traveller’s total number of terms as a negative DM on this table; the older you are, the heavier the effects of ageing will weigh upon you.
+AGEING The effects of ageing begin when a Traveller reaches 34 years of age (at the end of their fourth career term). At the end of the fourth term and at the end of every term thereafter, the Traveller must roll 2D on the Ageing table. Use the Traveller's total number of terms as a negative DM on this table; the older you are, the heavier the effects of ageing will weigh upon you.
 
 The Traveller may choose which characteristics are affected by ageing.
 
@@ -1727,7 +1727,7 @@ While individual Ship Shares cannot be redeemed for cash either, if they are not
 
 Anagathics have two drawbacks. First, the combined risk of trying to obtain a reliable supply and the disruption to their biochemistry means the Traveller must make two Survival checks in each term instead of one. If either or both checks are failed, the Traveller suffers a Mishap.
 
-Second, the drugs cost 1D x Cr25000 for each term the Traveller uses the drugs. These costs are paid out of the Traveller’s eventual cash benefits. If the Traveller cannot pay these bills, they go into debt – see Medical Bills.
+Second, the drugs cost 1D x Cr25000 for each term the Traveller uses the drugs. These costs are paid out of the Traveller's eventual cash benefits. If the Traveller cannot pay these bills, they go into debt – see Medical Bills.
 
 **Ageing and Anagathics During Play:** If your campaign lasts long enough, Travellers will have to make further ageing rolls every four years. Travellers may also seek out anagathic drugs during a campaign – in fact, if a Traveller started using anagathics during creation, they may be driven to seek them out as a matter of necessity or be faced with sudden rapid ageing. See Anagathic Drugs on page 115 for more details.
 
@@ -1777,7 +1777,7 @@ CRIMINAL SKILLS PACKAGE For campaigns involving crime and elaborate heists. Skil
 
 MEDICAL DEBT After you have finished creating your Traveller, but before the campaign begins, you must pay any outstanding costs from medical care or anagathic drugs out of your Benefits. Any debt left is hanging over you at the start of the game and you can be sure it will be collected, likely with interest.
 
-WHY ARE YOU TRAVELLING? The final step of creation is to choose your Traveller’s initial goal – why are they travelling? The lure of the unknown? The chance to strike it rich? Running from their past? Loyalty to another Traveller?
+WHY ARE YOU TRAVELLING? The final step of creation is to choose your Traveller's initial goal – why are they travelling? The lure of the unknown? The chance to strike it rich? Running from their past? Loyalty to another Traveller?
 
 At this stage of creation, you have guided your Traveller from their teenage years to the present day. Who are they? How has their past shaped their beliefs? What cause are they willing to fight for? Do they have any odd tics or habits? What do they want?
 
@@ -1797,9 +1797,9 @@ You can find out more on playing aliens in the Aliens of Charted Space books but
 
 PRISONER CAREERS The Prisoner is a special career that Travellers cannot enter voluntarily. Instead, they may be forced to spend time in this career through various events in other careers. A Traveller is free to pick a new assignment in the career every term.
 
-LEAVING THE PRISONER CAREER A Traveller may not normally leave or be ejected from this career – not even Mishaps will force them to leave. Instead, they have a value called a Parole Threshold. At the end of each term in the prisoner career, if the Traveller’s advancement roll is greater than their Parole Threshold, it means their prison sentence has come to an end and they leave this career. Otherwise, they may not leave this career and must continue in it for another term.
+LEAVING THE PRISONER CAREER A Traveller may not normally leave or be ejected from this career – not even Mishaps will force them to leave. Instead, they have a value called a Parole Threshold. At the end of each term in the prisoner career, if the Traveller's advancement roll is greater than their Parole Threshold, it means their prison sentence has come to an end and they leave this career. Otherwise, they may not leave this career and must continue in it for another term.
 
-A Traveller’s Parole Threshold starts at 1D+2. A Traveller’s Parole Threshold can never go above 12.
+A Traveller's Parole Threshold starts at 1D+2. A Traveller's Parole Threshold can never go above 12.
 
 ANAGATHICS Travellers may not use Anagathics in prison.
 
@@ -1809,7 +1809,7 @@ Aslan Dewclaw
 
 than that manageable by humans. They also have slightly superior hearing and night vision. Otherwise, they are one of the most human-like of all alien species, excepting, of course, the Vargr (who are, after all, genetically-altered mammalian stock originally from Earth).
 
-Early Terran explorers regarded the Aslan as ‘lion- like’ and the simile has stuck ever since, although the Aslan bear only a passing resemblance to terrestrial lions. Nonetheless, this early misnomer has influenced a great deal of human thinking about the Aslan, including terminology (the use of pride to translate ahriy, for instance) and ascribed behaviour – which is not at all leonine.
+Early Terran explorers regarded the Aslan as 'lion- like' and the simile has stuck ever since, although the Aslan bear only a passing resemblance to terrestrial lions. Nonetheless, this early misnomer has influenced a great deal of human thinking about the Aslan, including terminology (the use of pride to translate ahriy, for instance) and ascribed behaviour – which is not at all leonine.
 
 Characteristics Aslan Travellers have the following modifiers applied to their characteristics: STR+2, DEX-2.
 
@@ -1874,7 +1874,7 @@ Mustering out benefits
 
 Every society has its bad apples and even in the far future punishments usually take place within faceless institutions where criminals can be conveniently forgotten.
 
-Qualification : Special. One does not ‘qualify’ for prison; you got sentenced there for a crime you may or may not have committed.
+Qualification : Special. One does not 'qualify' for prison; you got sentenced there for a crime you may or may not have committed.
 
 ASSIGNMENTS Choose one of the following:
 
@@ -1945,7 +1945,7 @@ Events
 | 5 | Good Behaviour. Reduce your Parole Threshold by -2. |
 | 6 | You are attacked by another prisoner. Roll Melee (unarmed) 8+. If you fail, roll on the Injury table. |
 | 8 | Parole hearing. Reduce your Parole Threshold by -1. |
-| 9 | You have the opportunity to hire a new lawyer, with your choice of Advocate skill. They cost Cr1000 x their Advocate level squared. Roll 2D + your lawyer’s Advocate skill; on an 8+, reduce your Parole Threshold by 1D. |
+| 9 | You have the opportunity to hire a new lawyer, with your choice of Advocate skill. They cost Cr1000 x their Advocate level squared. Roll 2D + your lawyer's Advocate skill; on an 8+, reduce your Parole Threshold by 1D. |
 | 10 | Special Duty. You are given a special responsibility in the prison. Gain one of Admin, Advocate, Electronics (computers) or Steward. |
 | 11 | The warden takes an interest in your case. Reduce your Parole Threshold by -2. |
 | 12 | Heroism. You have the opportunity to save a guard or prison officer. If you take the risk, roll 2D. On a 7 or less, roll on the Injury table. On 8+, gain an Ally and reduce your Parole Threshold by -2. |
@@ -1969,7 +1969,7 @@ If they choose j-drive, they would record this on their character sheet as Engin
 DM+1 but would still make all other Engineer checks at DM+0 (in other words, with no penalty). A Traveller can have multiple specialities in a skill – they might have Engineer (j-drive) 1 and Engineer (power plant) 2. They would therefore make checks related to jump drives with DM+1, checks related to power plants with DM+2 and all other Engineer checks with DM+0.
 
 TASK CHECKS Most actions undertaken by Travellers do not require a skill check. A Traveller does not have to make an Athletics check to run through a forest or Electronics
-(computers) to access information from their ship’s library. Some actions will require the Traveller to have a particular skill but will still not require a check. A Traveller with Flyer 0, for example, can fly an air/raft under normal conditions without having to make a check.
+(computers) to access information from their ship's library. Some actions will require the Traveller to have a particular skill but will still not require a check. A Traveller with Flyer 0, for example, can fly an air/raft under normal conditions without having to make a check.
 
 The referee should only call for checks when:
 
@@ -1994,7 +1994,7 @@ CHARACTERISTIC CHECKS The Traveller adds their characteristic DM. For example:
 
 **SKILL CHECKS** For a skill check, the Traveller adds both their skill level and, if appropriate, a characteristic DM. The combination of skill and characteristic varies depending on the situation, as chosen by the referee:
 
-•  Shooting a gun would use the appropriate Gun Combat skill and the Traveller’s DEX Dice Modifier.
+•  Shooting a gun would use the appropriate Gun Combat skill and the Traveller's DEX Dice Modifier.
 •  Repairing a damaged gun might use Gun Combat and EDU.
 •  Trying to work out what sort of gun caused a particular wound might use Gun Combat and INT
 (or perhaps Investigate and INT).
@@ -2025,7 +2025,7 @@ A Routine task is trivial for a trained professional and relatively easy even fo
 
 An Average task is a moderate obstacle to a trained professional. Shooting a gun accurately at range, plotting the jump calculations for a starship, repairing a damaged circuit board or finding a buyer for a cargo bay full of machine parts on an industrial world are all examples of Average tasks, which require the normal 8 or more to be rolled for the check.
 
-A Difficult task is tough even for a trained professional. Examples might be making an accurate shot in the middle of a ferocious storm, defending a client in court when they are clearly guilty, hacking into a secure computer network or spotting the flash of sunlight reflecting off a sniper’s scope. Difficult tasks require a 10 or more to be rolled for the check.
+A Difficult task is tough even for a trained professional. Examples might be making an accurate shot in the middle of a ferocious storm, defending a client in court when they are clearly guilty, hacking into a secure computer network or spotting the flash of sunlight reflecting off a sniper's scope. Difficult tasks require a 10 or more to be rolled for the check.
 
 Very Difficult tasks are hard for a trained professional and nearly impossible for an amateur. They require a 12 or more to be rolled for the check.
 
@@ -2051,7 +2051,7 @@ If a Traveller is hindered in a check, such as with poor tools, a dimly lit envi
 
 A Traveller can only be under the influence of one Boon or Bane during any one check. If they receive both a Boon and a Bane for the same check, they cancel out and no extra dice are rolled. At the same time, if they receive multiple Boons or Banes, they will only be subject to one.
 
-EFFECT For most situations, the only thing that needs to be determined is whether or not the Traveller succeeds. If the Traveller’s total throw after applying all Dice Modifiers equals or exceeds the target difficulty (eight or more for an Average check), they succeed. If it is less, they fail.
+EFFECT For most situations, the only thing that needs to be determined is whether or not the Traveller succeeds. If the Traveller's total throw after applying all Dice Modifiers equals or exceeds the target difficulty (eight or more for an Average check), they succeed. If it is less, they fail.
 
 Often, however, it is important to know how well the Traveller did – or how bad. To do this, subtract the target number from the dice roll of the check, including any modifiers. This margin of success (or failure) is the Effect that can be consulted on the Effect Results table. This is also used in combat to calculate damage (see below).
 
@@ -2070,7 +2070,7 @@ OPPOSED CHECKS If two or more Travellers are opposing one another directly in a 
 
 In the case of a draw, the two opponents are locked into standstill with neither gaining an advantage – they may try again or events may overtake them rendering the opposed check meaningless.
 
-MULTIPLE TASKS A Traveller can try to do two or more things at once, like firing a spacecraft’s weapons while also flying, or disarming a bomb while hiding from guards. For every extra thing the Traveller is doing, the level of difficulty for each task is made one level harder. So, an Easy task becomes Routine, while a Very Difficult task becomes Formidable.
+MULTIPLE TASKS A Traveller can try to do two or more things at once, like firing a spacecraft's weapons while also flying, or disarming a bomb while hiding from guards. For every extra thing the Traveller is doing, the level of difficulty for each task is made one level harder. So, an Easy task becomes Routine, while a Very Difficult task becomes Formidable.
 
 TIMEFRAMES Each task has a random timeframe of one to six time units. The unit depends on the task – shooting someone or throwing a punch takes 1D seconds, while prepping an air/raft for flight might take 1D minutes,
 
@@ -2130,28 +2130,28 @@ Failed With Effect -1
 +3
 
 For example, Erik and Kathya are trying to locate a hidden base on an icy moon. Erik has Electronics
-(computers) and suggests trying to augment their ship’s scanners. Kathya has the Electronics (sensors) skill and stays on the bridge while Erik goes down to the sensor pods with his toolkit.
+(computers) and suggests trying to augment their ship's scanners. Kathya has the Electronics (sensors) skill and stays on the bridge while Erik goes down to the sensor pods with his toolkit.
 
 Firstly, Erik makes his Electronics (computers) check. He gets Effect 5, which grants DM+2 to the next task in the chain. Kathya will now make her Electronics
-(sensors) check with DM+2 thanks to Erik’s efforts.
+(sensors) check with DM+2 thanks to Erik's efforts.
 
 Chains of linked task checks can be formed.
 
-To continue the previous example, if Morn were then to use his Science (geology) skill to determine which of the heat traces from Kathya’s sensor readings were the result of natural geological activity and which were heat exhausts from a hidden base, then Kathya’s Sensors check would be the previous check in the chain leading to his Science (geology) check and so her Effect would grant a DM for his check.
+To continue the previous example, if Morn were then to use his Science (geology) skill to determine which of the heat traces from Kathya's sensor readings were the result of natural geological activity and which were heat exhausts from a hidden base, then Kathya's Sensors check would be the previous check in the chain leading to his Science (geology) check and so her Effect would grant a DM for his check.
 
 Travellers need not rely on one another to create a task chain. One Traveller working diligently on something that requires multiple checks can potentially link them together into a task chain if the referee agrees that one check can affect the next.
 
 WORKING TOGETHER Task chains usually assume that while Travellers are working together, they are waiting for the results of one check in order to affect the next. However, there will be times when Travellers are working at the same time on exactly the same task and will wish to combine their efforts.
 
-In these situations, the task chain rules can still be used but with one Traveller making the ‘final’ check and the others making checks to add task chain modifiers.
+In these situations, the task chain rules can still be used but with one Traveller making the 'final' check and the others making checks to add task chain modifiers.
 
-For example, Erik and Kathya are trying to force open a locked door within a smuggler’s asteroid lair with brute strength. Erik is the strongest with STR 9 and so he puts his shoulder into the door but fears he alone mighty not be enough. Kathya has STR 7 and helps. Kathya makes an STR check and consults the Task Chain table in order to provide a DM to Erik’s STR check, which will determine whether the door is forced open or not.
+For example, Erik and Kathya are trying to force open a locked door within a smuggler's asteroid lair with brute strength. Erik is the strongest with STR 9 and so he puts his shoulder into the door but fears he alone mighty not be enough. Kathya has STR 7 and helps. Kathya makes an STR check and consults the Task Chain table in order to provide a DM to Erik's STR check, which will determine whether the door is forced open or not.
 
 DIFFICULTY, BOON/BANE AND DMS There are three factors that can affect a check in Traveller; Task Difficulty, Boons and Banes, and Dice Modifiers. However, all three are used in very specific circumstances and referees should use the following principles when applying them.
 
 Difficulty: Before any other factors are taken into account, the referee should set the difficulty of a task, based on how hard they believe the task should be without any exterior effects. For example, making a phone call is a Simple task and remains so, even if a Traveller is hanging upside down from a spacecraft flying through a storm.
 
-Dice Modifiers: In general, these should be regarded as being ‘hard-wired’ into the rules and only applied if they are listed in a Traveller rulebook or supplement.
+Dice Modifiers: In general, these should be regarded as being 'hard-wired' into the rules and only applied if they are listed in a Traveller rulebook or supplement.
 
 Boon and Bane: If an exterior factor is influencing the task, for better or worse, then a Boon or Bane is applied to the check. Making a phone call while hanging upside down from a spacecraft is a good example of a Bane being applied. Boons and Banes are applied only at the prerogative of the referee and will never appear within any rulebook or published adventure. They are intended to be used on the fly to quickly provide an advantage or disadvantage to Travellers.
 
@@ -2189,7 +2189,7 @@ The Traveller is trained in a type of creative art.
 •  Instrument: Playing a particular musical instrument, such a flute, piano or organ. Playing a Concerto: Difficult (10+) Art (instrument) check (1D x 10 minutes, EDU).
 •  **Visual Media:** Making artistic or abstract paintings or sculptures in a variety of media. Making a Statue of Someone: Difficult (10+) Art
 (visual media) check (1D days, INT).
-•  Write: Composing inspiring or interesting pieces of text. Rousing the People of a Planet by Exposing Their Government’s Corruption: Difficult (10+) Art (write) check (1D hours, INT or EDU). Writing the Update of Traveller: Formidable (14+) Art (write) check (1D months, INT).
+•  Write: Composing inspiring or interesting pieces of text. Rousing the People of a Planet by Exposing Their Government's Corruption: Difficult (10+) Art (write) check (1D hours, INT or EDU). Writing the Update of Traveller: Formidable (14+) Art (write) check (1D months, INT).
 
 **Astrogation**
 
@@ -2198,10 +2198,10 @@ This skill is for plotting the courses of starships and calculating accurate jum
 Plotting Course to a Target World Using a Gas Giant for a Gravity Slingshot: Difficult (10+) Astrogation check
 (1D x 10 minutes, EDU). Plotting a Standard Jump: Easy (4+) Astrogation check (1D x 10 minutes, EDU), with DM- equal to the Jump distance.
 
-Athletics The Traveller is a trained athlete and is physically fit. The Athletics skill effectively augments a Traveller’s physical characteristics; whatever you can do with Strength alone you can also add your Athletics (strength) DM to, for example. Athletics is also the principal skill used in adverse gravitational environments, specifically Athletics (dexterity) in low or zero-G and Athletics (strength) in high-G locations.
+Athletics The Traveller is a trained athlete and is physically fit. The Athletics skill effectively augments a Traveller's physical characteristics; whatever you can do with Strength alone you can also add your Athletics (strength) DM to, for example. Athletics is also the principal skill used in adverse gravitational environments, specifically Athletics (dexterity) in low or zero-G and Athletics (strength) in high-G locations.
 
 Specialities
-•  Dexterity: Climbing, Juggling, Throwing. For alien species with wings, this also includes flying. Climbing: Difficulty varies. Athletics (dexterity) check (1D x 10 seconds, DEX). So long as they succeed, the Traveller’s Effect is usually irrelevant unless they are trying to do something while climbing, in which case the climbing is part of a task chain or multiple action. Sprinting: Average (8+) Athletics (dexterity) check
+•  Dexterity: Climbing, Juggling, Throwing. For alien species with wings, this also includes flying. Climbing: Difficulty varies. Athletics (dexterity) check (1D x 10 seconds, DEX). So long as they succeed, the Traveller's Effect is usually irrelevant unless they are trying to do something while climbing, in which case the climbing is part of a task chain or multiple action. Sprinting: Average (8+) Athletics (dexterity) check
 (1D seconds, DEX). If the Traveller does nothing but sprint flat out they can cover 24 + Effect meters with every check. Avoiding obstacles while sprinting requires another Athletics (dexterity) check (Difficult, because they are performing a multiple action). High Jumping: Average (8+) Athletics (dexterity) check
 (1D seconds, DEX). The Traveller jumps a number of meters straight up equal to the Effect halved. Long Jumping: Average (8+) Athletics (dexterity) check (1D seconds, DEX). The Traveller jumps a number of meters forward equal to the Effect with a running start. Righting Yourself When Artificial Gravity Suddenly Fails on Board a Ship: Average (8+) Athletics
 (dexterity) check (1D seconds, DEX).
@@ -2251,7 +2251,7 @@ Specialities
 Accessing Publicly Available but Obscure Data Over Comms: Average (8+) Electronic (comms) check (1D x 10 minutes, EDU). _Bouncing a Signal off Orbiting Satellite to Hide Your_ Transmitter: Difficult (10+) Electronics (comms) check (1D x 10 minutes, INT). Jamming a Comms System: Opposed Electronics
 (comms) check (1D minutes, INT). Difficult (10+) for radio, Very Difficult (12+) for laser and Formidable
 (14+) for masers. A Traveller using a comms system with a higher Technology Level than their opponent gains DM+1 for every TL of difference.
-•  Computers: Using and controlling computer systems and similar electronics and electrics. Accessing Publicly Available Data: Easy (4+) Electronics (computers) check (1D minutes, INT or EDU). Activating a Computer Program on a Ship’s Computer: Routine (6+) Electronics (computers) check (1D x 10 seconds, INT or EDU). Searching a Corporate Database for Evidence of Illegal Activity: Difficult (10+) Electronics
+•  Computers: Using and controlling computer systems and similar electronics and electrics. Accessing Publicly Available Data: Easy (4+) Electronics (computers) check (1D minutes, INT or EDU). Activating a Computer Program on a Ship's Computer: Routine (6+) Electronics (computers) check (1D x 10 seconds, INT or EDU). Searching a Corporate Database for Evidence of Illegal Activity: Difficult (10+) Electronics
 (computers) check (1D hours, INT). Hacking into a Secure Computer Network: Formidable (14+) Electronics (computers) check
 (1D x 10 hours, INT). Hacking is aided by Intrusion programs and made more difficult by Security programs. The Effect determines the amount of data retrieved; failure means the targeted system may be able to trace the hacking attempt.
 •  **Remote Ops:** Using telepresence to remotely control drones, missiles, robots and other devices. Using a Mining Drone to Excavate an Asteroid: Routine (6+) Electronics (remote ops) check (1D hours, DEX).
@@ -2261,11 +2261,11 @@ Accessing Publicly Available but Obscure Data Over Comms: Average (8+) Electroni
 Engineer The Engineer skill is used to operate and maintain spacecraft and advanced vehicles. Engineer can be used to make repairs on damaged systems on spacecraft and advanced vehicles. For repairs on simpler machines and systems, use the Mechanic skill.
 
 Specialities
-•  M-drive: Maintaining and operating a spacecraft’s maneuver drive, as well as its artificial gravity. Overcharging a Thruster Plate to Increase a Ship’s Agility: Difficult (10+) Engineer (m-drive) check (1D minutes, INT). Estimating a Ship’s Tonnage From its Observed Performance: Average (8+) Engineer (m-drive) check (1D x 10 seconds, INT).
-•  J-drive: Maintaining and operating a spacecraft’s jump drive. Making a Jump: Easy (4+) Engineer (j-drive) check
+•  M-drive: Maintaining and operating a spacecraft's maneuver drive, as well as its artificial gravity. Overcharging a Thruster Plate to Increase a Ship's Agility: Difficult (10+) Engineer (m-drive) check (1D minutes, INT). Estimating a Ship's Tonnage From its Observed Performance: Average (8+) Engineer (m-drive) check (1D x 10 seconds, INT).
+•  J-drive: Maintaining and operating a spacecraft's jump drive. Making a Jump: Easy (4+) Engineer (j-drive) check
 (1D x 10 minutes, EDU).
-•  Life Support: Covers oxygen generators, heating and lighting and other necessary life support systems. Safely Reducing Power to Life Support to Prolong a Ship’s Battery Life: Average (8+) Engineer (life support) check (1D minutes, EDU).
-•  Power: Maintaining and operating a spacecraft’s power plant. Monitoring an Enemy ship’s Power Output to Determine its Capabilities: Difficult (10+) Engineer
+•  Life Support: Covers oxygen generators, heating and lighting and other necessary life support systems. Safely Reducing Power to Life Support to Prolong a Ship's Battery Life: Average (8+) Engineer (life support) check (1D minutes, EDU).
+•  Power: Maintaining and operating a spacecraft's power plant. Monitoring an Enemy ship's Power Output to Determine its Capabilities: Difficult (10+) Engineer
 (power) check (1D minutes, INT).
 
 Explosives The Explosives skill covers the use of demolition charges and other explosive devices, including assembling or disarming bombs. A failed Explosives check with an Effect of -4 or less can result in a bomb detonating prematurely.
@@ -2291,9 +2291,9 @@ Gunner The various specialities of this skill deal with the operation of ship-mo
 
 Specialities
 •  Turret: Operating turret-mounted weapons on board a ship. Firing a Turret at an Enemy Ship: Average (8+) Gunner (turret) check (1D seconds, DEX).
-•  Ortillery: A contraction of Orbital Artillery – using a ship’s weapons for planetary bombardment or attacks on stationary targets. Firing Ortillery: Average (8+) Gunner (ortillery) check (1D minutes, INT).
+•  Ortillery: A contraction of Orbital Artillery – using a ship's weapons for planetary bombardment or attacks on stationary targets. Firing Ortillery: Average (8+) Gunner (ortillery) check (1D minutes, INT).
 
-•  Screen: Activating and using a ship’s energy screens like Black Globe generators or meson screens. Activating a Screen to Intercept Enemy Fire: Difficult
+•  Screen: Activating and using a ship's energy screens like Black Globe generators or meson screens. Activating a Screen to Intercept Enemy Fire: Difficult
 (10+) Gunner (screen) check (1D seconds, DEX).
 •  Capital: Operating bay or spinal mount weapons on board a ship. Firing a Spinal Mount Weapon: Average (8+) Gunner (capital) check (1D minutes, INT).
 
@@ -2328,7 +2328,7 @@ There is no benefit for having Jack-of-All-Trades 0 or Jack-of-All-Trades 4 or h
 
 **Specialities** There are, of course, as many specialities of Language as there are actual languages. Those presented here are examples from the Third Imperium setting.
 •  Galanglic: The common trade language of the Third Imperium, derived originally from the English spoken in the Rule of Man.
-•  **Vilani:** The language spoken by the Vilani of the First Imperium; the ‘Latin’ of the Third Imperium.
+•  **Vilani:** The language spoken by the Vilani of the First Imperium; the 'Latin' of the Third Imperium.
 •  Zdetl: The Zhodani spoken language.
 •  **Oynprith:** The Droyne ritual language.
 •  Trokh: The Aslan spoken language.
@@ -2377,7 +2377,7 @@ Pilot The Pilot skill specialities cover different forms of spacecraft. See the 
 Specialities
 •  Small Craft: Shuttles and other craft under 100 tons.
 •  Spacecraft: Trade ships and other vessels between 100 and 5,000 tons.
-•  Capital Ships: Battleships and other ships over 5,000 tons.
+•  [[Capital]] Ships: Battleships and other ships over 5,000 tons.
 
 Profession A Traveller with a Profession skill is trained in producing useful goods or services. There are many different Profession specialities but each one works the same way – the Traveller can make a Profession check to earn money on a planet that supports that trade. The amount of money raised is Cr250 x the Effect of the check per month. Unlike other skills with specialties, levels in the Profession skill do not grant the ability to use other specialties at level 0. Each specialty must be learned individually. Someone with a Profession skill of 0 has a general grasp of working for a living but little experience beyond the most menial jobs.
 
@@ -2485,7 +2485,7 @@ If one side is aware of the presence of the other but the other is unaware that 
 
 The side that is aware that combat is about to begin gains DM+6 to its Initiative check for the first round only. The side that is not aware it is about to be attacked suffers DM-6 for the first round only.
 
-TACTICS So long as they are not surprised, one Traveller (or character under the referee’s control) may make a Tactics check at the start of a combat. The Effect of this check is then applied to the Initiative of everyone on the same side.
+TACTICS So long as they are not surprised, one Traveller (or character under the referee's control) may make a Tactics check at the start of a combat. The Effect of this check is then applied to the Initiative of everyone on the same side.
 
 MAPS The referee may prepare detailed maps or even models of battlefields and encounter areas or just use sketch maps or descriptions. However, in most simple firefights, you should find this is not necessary.
 
@@ -2497,7 +2497,7 @@ THE COMBAT ROUND Each combat round lasts around six seconds of game time.
 
 In each combat round, each Traveller may perform a Minor Action and a Significant Action. Travellers take these actions in Initiative order, starting with those who rolled the highest Initiative check. If two or more Travellers are acting on the same Initiative order, the one with the highest DEX score will go first. If they are still tied, they will act simultaneously.
 
-When it is a Traveller’s turn to act, they take both their Minor and Significant Actions at the same time before play moves onto another Traveller.
+When it is a Traveller's turn to act, they take both their Minor and Significant Actions at the same time before play moves onto another Traveller.
 
 Once every Traveller has had a chance to act the combat round is over and a new combat round begins. Every Traveller retains the same Initiative score for every combat round.
 
@@ -2535,7 +2535,7 @@ Common Modifiers to Ranged Attacks Dice Modifiers (DM) are commonly used to infl
 
 LEADERSHIP The Traveller can pass orders, commands and suggestions to comrades fighting on the same side. To do this, the Traveller makes a Leadership check (INT, EDU or SOC). The Effect of this check is the number of bonuses (each equal to DM+1) the Traveller can give to any skill checks, including attack rolls, to other Travellers on the same side. The Traveller must be able to freely communicate to another Traveller in order to grant a bonus and no Traveller can benefit from more than one DM+1 bonus for any single check.
 
-However, bad leadership can end a battle quicker than good leadership can win one. If the Effect of the Leadership check is negative, the opposing side may inflict a number of penalties equal to the Effect to combatants on the Traveller’s side. Each penalty is equal to DM-1 and is applied in the same way as the bonuses for good leadership.
+However, bad leadership can end a battle quicker than good leadership can win one. If the Effect of the Leadership check is negative, the opposing side may inflict a number of penalties equal to the Effect to combatants on the Traveller's side. Each penalty is equal to DM-1 and is applied in the same way as the bonuses for good leadership.
 
 MINOR ACTIONS Instead of performing a Significant Action, a Traveller may instead perform two Minor Actions in its place, giving them a total of three Minor Actions in that combat
 
@@ -2561,7 +2561,7 @@ MINOR ACTIONS A Traveller can normally perform a single Minor Action in a combat
 
 **DRAWING/RELOADING** Most weapons require a Minor Action to draw or otherwise make ready for combat and a Minor Action to reload once they have run out of ammunition. If a weapon requires a longer time for either, this will be noted in its description.
 
-**MOVEMENT** The Traveller may move a number of meters up to their Movement score (for humans and most humanoid Travellers, this will be six meters) for each Minor Action. Difficult terrain, such as ruins or mud will halve a Traveller’s Movement. Being prone will quarter a Traveller’s Movement score.
+**MOVEMENT** The Traveller may move a number of meters up to their Movement score (for humans and most humanoid Travellers, this will be six meters) for each Minor Action. Difficult terrain, such as ruins or mud will halve a Traveller's Movement. Being prone will quarter a Traveller's Movement score.
 
 Some aliens and animals have different Movement scores and this will be noted in their descriptions.
 
@@ -2579,7 +2579,7 @@ EXTENDED ACTIONS Some skill checks take longer than a single combat round to com
 
 When performing a skill check that will take longer than a combat round, roll for a suitable timeframe, as shown on page 62. This will indicate how long it will take to complete the skill check. Note that a Traveller can sometimes opt to go faster or slower on such a check as also shown on the same page.
 
-If a Traveller sustains damage while performing an Extended Action, they must make an immediate check with the skill they are currently using, with the amount of damage sustained as a negative DM. If they fail the skill check, this round’s work will not count towards the completion of the task. Failure with an Effect of -6 or less will ruin the task completely and the Traveller will have to start again from scratch.
+If a Traveller sustains damage while performing an Extended Action, they must make an immediate check with the skill they are currently using, with the amount of damage sustained as a negative DM. If they fail the skill check, this round's work will not count towards the completion of the task. Failure with an Effect of -6 or less will ruin the task completely and the Traveller will have to start again from scratch.
 
 REACTIONS A Traveller who is about to be attacked can react, either dodging a shot or parrying a blow.
 
@@ -2587,7 +2587,7 @@ This is called a Reaction and a Traveller can perform an unlimited amount of Rea
 
 combat round. However, every time a Traveller performs a Reaction, they will suffer DM-1 on their next set of actions.
 
-DODGING A Traveller who is dodging will inflict a penalty equal to their DEX DM or Athletics (dexterity), whichever is higher, to their attacker’s attack roll. Every attack must be dodged separately, so if a Traveller is shot at by two enemies in the same round, they can dodge both but will suffer DM-2 on their next actions.
+DODGING A Traveller who is dodging will inflict a penalty equal to their DEX DM or Athletics (dexterity), whichever is higher, to their attacker's attack roll. Every attack must be dodged separately, so if a Traveller is shot at by two enemies in the same round, they can dodge both but will suffer DM-2 on their next actions.
 
 Both ranged and melee attacks may be dodged.
 
@@ -2599,7 +2599,7 @@ They may dive behind any object within 1.5 meters of their current position. If 
 
 However, a Traveller diving for cover will forgo their next actions completely – they are too busy trying to avoid being hurt!
 
-PARRYING A Traveller in close combat may attempt to parry an opponent’s melee attack as a Reaction. In so doing, they will inflict their Melee skill as a negative DM to the attacker’s attack roll.
+PARRYING A Traveller in close combat may attempt to parry an opponent's melee attack as a Reaction. In so doing, they will inflict their Melee skill as a negative DM to the attacker's attack roll.
 
 MELEE ATTACKS When a Traveller is within two meters of an enemy, they are said to be locked in close combat. At this very short range, certain rules apply.
 
@@ -2608,7 +2608,7 @@ MELEE ATTACKS When a Traveller is within two meters of an enemy, they are said t
 •  Only single-handed ranged weapons, such as pistols, may make ranged attacks against a target in close combat. Note that a pistol can be parried in close combat, representing the weapon getting knocked aside.
 •  Larger weapons, such as rifles, may only be used as clubs (see page 125).
 •  If one combatant moves while locked in close combat, their enemy may make an immediate (and
-‘free’) attack with DM+2 to the attack roll.
+'free') attack with DM+2 to the attack roll.
 
 WEAPONS A variety of weapons are available to Travellers, from humble knives and clubs, to high-powered laser rifles and plasma guns. All these weapons share some common characteristics.
 
@@ -2618,11 +2618,11 @@ TL: This is the Tech Level that the weapon first appears. Generally speaking, it
 
 Range: This is the effective range of a weapon, the range at which an average user might have a chance of getting a shot on target.
 
-Short Range: If a target lies within one quarter of a weapon’s Range score, the attacker will gain DM+1 to all attack rolls made with it as they will be within the weapon’s Short Range.
+Short Range: If a target lies within one quarter of a weapon's Range score, the attacker will gain DM+1 to all attack rolls made with it as they will be within the weapon's Short Range.
 
-Long Range: If a target is beyond the weapon’s Range but less than twice the Range away, it is at Long Range. The attacker will suffer DM-2 when making an attack roll.
+Long Range: If a target is beyond the weapon's Range but less than twice the Range away, it is at Long Range. The attacker will suffer DM-2 when making an attack roll.
 
-Extreme Range: If a target is beyond the weapon’s Long Range but less than four times the Range away, it is at Extreme Range. The attacker will suffer DM-4 when making an attack roll.
+Extreme Range: If a target is beyond the weapon's Long Range but less than four times the Range away, it is at Extreme Range. The attacker will suffer DM-4 when making an attack roll.
 
 Weapon TL Range Damage Kg Cost Magazine Magazine Cost Traits Dagger 1 Melee 1D+2 0.2 Cr10 — — — Rifle 5 500 m 3D 3 Cr200 20 10 —
 
@@ -2644,10 +2644,10 @@ DAMAGE Each weapon in Traveller lists the damage it inflicts as a number of dice
 
 - Upon a successful attack, damage is rolled for, with
     the Effect of the attack roll added to the total.
-- Damage is initially applied to a target’s END. If
+- Damage is initially applied to a target's END. If
     a target is reduced to 0 END, then any excess
-    damage is deducted from either the target’s STR or
-    DEX (target’s choice of which).
+    damage is deducted from either the target's STR or
+    DEX (target's choice of which).
 - If either STR or DEX are reduced to 0, the Traveller
     becomes unconscious and any further damage is
     deducted from the remaining physical characteristic.
@@ -2671,7 +2671,7 @@ A Traveller using cover to shield themselves while engaging in combat inflicts D
 
 HIDING If a Traveller is able to position themselves completely in cover so the enemy cannot see them, and chooses not to make any attacks, they can hide.
 
-However, if an enemy is aware of the Traveller’s presence, they can still be attacked. The Traveller gains all the benefits of cover but also gains a bonus to their armor’s Protection (or giving the Traveller Protection if they did not already have one). The amount of bonus Protection a target receives depends on the type of cover it is hiding behind.
+However, if an enemy is aware of the Traveller's presence, they can still be attacked. The Traveller gains all the benefits of cover but also gains a bonus to their armor's Protection (or giving the Traveller Protection if they did not already have one). The amount of bonus Protection a target receives depends on the type of cover it is hiding behind.
 
 If a Traveller could potentially claim cover from two different types of cover (for example, they have ducked down behind a ground car within a forest and also has trees between themselves and their attacker) then they only receive a Protection bonus from the most effective cover.
 
@@ -2690,7 +2690,7 @@ GRAPPLING In close combat, a Traveller may try to wrestle or restrain their enem
 To grapple an enemy, the Traveller makes an opposed Melee (unarmed) check with their target, each using either STR or DEX DM. The winner of this check may choose to do one of the following:
 
 •  Force an opponent prone on the ground.
-•  Disarm an opponent. If the Effect is 6+, they may take their opponent’s weapon.
+•  Disarm an opponent. If the Effect is 6+, they may take their opponent's weapon.
 •  Throw an opponent 1D meters, causing 1D damage. This automatically ends the grapple.
 •  Inflict damage equal to 2 + the Effect of the Melee check. This damage ignores any armor.
 •  Inflict damage using a pistol or small blade- sized weapon.
@@ -2704,7 +2704,7 @@ DUAL WEAPONS Under some circumstances, a referee may allow a Traveller to use tw
 
 If a Traveller is using two weapons at the same time, they may attack with both in the same combat round. However, they may not aim with either and will suffer DM-2 to the attack rolls of both. This penalty will not apply if the Traveller is carrying two weapons but only attacks with one.
 
-WEAPON TRAITS Some weapons have additional special rules that will greatly affect their use. These special rules are listed under the Traits section of a weapon’s description and are detailed here.
+WEAPON TRAITS Some weapons have additional special rules that will greatly affect their use. These special rules are listed under the Traits section of a weapon's description and are detailed here.
 
 **AP X:** This weapon has the ability to punch through armor through the use of specially shaped ammunition or high technology. It will ignore an amount of Protection equal to the AP score listed. Spacecraft scale targets (see page 167) ignore the AP trait unless the weapon making the attack is also Spacecraft scale.
 
@@ -2716,7 +2716,7 @@ WEAPON TRAITS Some weapons have additional special rules that will greatly affec
 
 A weapon cannot use the Auto trait in the same action as the Scope trait or an aiming action.
 
-**Blast X:** This weapon has an explosive component or is otherwise able to affect targets spread across a wide area. Upon a successful attack, damage is rolled against every target within the weapon’s Blast score in meters. Dodge Reactions may not be made against a Blast weapon but targets may dive for cover. Cover may be taken advantage of if it lies between a target and the center of the weapon’s Blast.
+**Blast X:** This weapon has an explosive component or is otherwise able to affect targets spread across a wide area. Upon a successful attack, damage is rolled against every target within the weapon's Blast score in meters. Dodge Reactions may not be made against a Blast weapon but targets may dive for cover. Cover may be taken advantage of if it lies between a target and the center of the weapon's Blast.
 
 Bulky: A Bulky weapon has a powerful recoil or is simply extremely heavy – this makes it difficult to use effectively in combat by someone of a weak physical stature. A Traveller using a Bulky weapon must have STR 9 or higher to use it without penalty. Otherwise, all attack rolls will have a negative DM equal to the difference between their STR DM and +1.
 
@@ -2726,7 +2726,7 @@ Scope: The weapon has been fitted with vision- enhancing sights, allowing it to 
 
 Smart: This weapon has intelligent or semi-intelligent rounds able to guide themselves to a target. They gain a DM to their attack rolls equal to the difference between their TL and that of the target (usually their armor or vehicle, although Smart weapons can also home in on communications devices, computers and weapons). This DM will be a minimum of DM+1 and a maximum of DM+6.
 
-Stun: These weapons are designed to deal non-lethal damage, incapacitating a living target rather than killing it. Damage is only deducted from END, taking into account any Protection. If the target’s END is reduced to 0, the target will be incapacitated and unable to perform any actions for a number of rounds by which the damage exceeded their END. Damage received from Stun weapons is completely healed by one hour of rest.
+Stun: These weapons are designed to deal non-lethal damage, incapacitating a living target rather than killing it. Damage is only deducted from END, taking into account any Protection. If the target's END is reduced to 0, the target will be incapacitated and unable to perform any actions for a number of rounds by which the damage exceeded their END. Damage received from Stun weapons is completely healed by one hour of rest.
 
 Very Bulky: Some weapons are designed only for the strongest combatants. A Traveller using a Very Bulky weapon must have STR 12 or higher to use it without penalty. Otherwise, all attack rolls will have a negative DM equal to the difference between their STR DM and +2.
 
@@ -2738,7 +2738,7 @@ When adventuring through the universe, a Traveller has a great deal more to be w
 
 ENVIRONMENTAL DANGERS Most life-bearing worlds feature biology completely incompatible with alien visitors, so Travellers are utterly unaffected by their native pathogens. The exceptions are typically planets where everything is inimical to human life. Alien diseases that affect humans are comparatively rare, most of which are mutations or engineered variants of diseases originally from Earth. Panacea drugs can help the immune system resist infection on unfamiliar worlds. Poisons are rarer but more dangerous – injecting an unfamiliar chemical into your bloodstream is never a good idea.
 
-DISEASES Diseases reduce a Traveller’s characteristics, starting with END. The Traveller must make a series of END checks to resist the effects of the disease. If the Traveller fails an END check, they take the listed damage and must make another END check a few hours or days later, depending on the Interval of the disease. Once an END check has been passed, the Traveller has fought off the disease. At the referee’s discretion, some more tenacious diseases may require multiple successful checks to shake off.
+DISEASES Diseases reduce a Traveller's characteristics, starting with END. The Traveller must make a series of END checks to resist the effects of the disease. If the Traveller fails an END check, they take the listed damage and must make another END check a few hours or days later, depending on the Interval of the disease. Once an END check has been passed, the Traveller has fought off the disease. At the referee's discretion, some more tenacious diseases may require multiple successful checks to shake off.
 
 Disease END check Difficulty Damage Interval Anthrax Very Difficult (12+) 2D 1D days Biological Weapon
 
@@ -2758,7 +2758,7 @@ FATIGUE A Traveller can become fatigued in several ways:
 •  After performing heavy labour for a number of hours greater than their END.
 •  After making a number of consecutive melee attacks greater than their END in a single combat.
 
-A fatigued Traveller suffers DM-2 to all checks until they rest. At the referee’s discretion, continuing exhausting work while already fatigued can result in the Traveller falling unconscious. Various drugs and treatments can relieve fatigue.
+A fatigued Traveller suffers DM-2 to all checks until they rest. At the referee's discretion, continuing exhausting work while already fatigued can result in the Traveller falling unconscious. Various drugs and treatments can relieve fatigue.
 
 POISONS Poisons operate in the same way as diseases but generally work much faster and often have a wider range of effects.
 
@@ -2790,7 +2790,7 @@ A Traveller spinning out of control in zero gravity may regain control with an A
 
 to a star or with breached hulls or damaged reactors do risk exposure and the presence of harmful radiation on worlds or in combat means Travellers must be wary when they step off their ships.
 
-Radiation exposure is measured in rads. Once a Traveller has absorbed a certain number of rads, they will suffer the effects of radiation. One problem with radiation exposure is that while physical symptoms can be treated and may heal, the cumulative effects of the radiation itself never go away. The Traveller’s rads must be kept track of and further exposure adds to what the Traveller is already suffering until a deadly level is reached. Accumulated rads can only be removed by using anti-rad drugs.
+Radiation exposure is measured in rads. Once a Traveller has absorbed a certain number of rads, they will suffer the effects of radiation. One problem with radiation exposure is that while physical symptoms can be treated and may heal, the cumulative effects of the radiation itself never go away. The Traveller's rads must be kept track of and further exposure adds to what the Traveller is already suffering until a deadly level is reached. Accumulated rads can only be removed by using anti-rad drugs.
 
 Radiation effects are suffered each time a Traveller is exposed to radiation, and as a result of cumulative rads over time. Thus a Traveller who has absorbed 75 rads in the past and subsequently recovered from the effects, who then absorbs another 20 rads from a solar flare, now has a total of 95 rads, whether they suffer any serious effects this time or not. They are fast approaching a moderate dose, as shown on the Radiation Effects table.
 
@@ -2823,7 +2823,7 @@ Any air in the lungs will be expelled violently, blood will boil and skin will b
 
 Any Traveller exposed to vacuum will suffer a cumulative 1D damage every round. Thus, the Traveller will suffer 1D damage in the first round, 2D damage in the second round, 3D damage in the third and so on.
 
-WEATHER High winds and torrential rain inflict DM-1 to all skill checks made in the teeth of the weather, depending on the intensity of conditions. Unusual weather effects include flammable methane clouds, rain of sulphuric acid, mists of poisonous gas, flash floods, and carbon dioxide glaciers subliming to gas in the heat of the Traveller’s footsteps...
+WEATHER High winds and torrential rain inflict DM-1 to all skill checks made in the teeth of the weather, depending on the intensity of conditions. Unusual weather effects include flammable methane clouds, rain of sulphuric acid, mists of poisonous gas, flash floods, and carbon dioxide glaciers subliming to gas in the heat of the Traveller's footsteps...
 
 HEALING With all the dangers present throughout the galaxy, it is inevitable that Travellers will get hurt. Fortunately, there are several options to heal and repair oneself.
 
@@ -2835,13 +2835,13 @@ Surgery: A Traveller who still has three damaged characteristics after first aid
 
 Temperature Table Heat Effect Cold Effect 50º (very hot desert) 1D/hour -25º (Arctic) 1D/hour 200º (~Mercury) 1D/round -50º (~Mars) 2D/hour 500º (~Venus) 2D/round -200º (~Pluto) 1D/round Burning Torch 1D/round Industrial Freezer 1D/round Welding Torch 2D/round Liquid Nitrogen 2D/round Inferno 3D/round — —
 
-Medical Care: A Traveller who has only one or two damaged characteristics after first aid has been applied, or who has had one of their three physical characteristics restored to normal through surgery, can benefit from medical care. Medical care restores 3+ the Traveller’s END DM + the doctor’s Medic skill in characteristic points per day, divided evenly among all damaged characteristics. Medical care requires a hospital or sickbay and for the Traveller to undergo full bed rest.
+Medical Care: A Traveller who has only one or two damaged characteristics after first aid has been applied, or who has had one of their three physical characteristics restored to normal through surgery, can benefit from medical care. Medical care restores 3+ the Traveller's END DM + the doctor's Medic skill in characteristic points per day, divided evenly among all damaged characteristics. Medical care requires a hospital or sickbay and for the Traveller to undergo full bed rest.
 
 In high technology hospitals, standard procedure in most cases is to use the Slow Drug (see page 115) to hasten healing.
 
-For example, Morn is mauled by an alien predator while exploring a strange moon. He is able to drive _the predator off with his pistol, wounding it. Morn has suffered damage to all three of his characteristics – he_ has lost 10 END, 5 DEX and 3 STR. Kathya applies _first aid, bringing Morn’s STR back up to its maximum_ level. With only two characteristics now wounded, _Morn qualifies for medical care and, once in their ship’s_ sickbay, is quickly restored to health.
+For example, Morn is mauled by an alien predator while exploring a strange moon. He is able to drive _the predator off with his pistol, wounding it. Morn has suffered damage to all three of his characteristics – he_ has lost 10 END, 5 DEX and 3 STR. Kathya applies _first aid, bringing Morn's STR back up to its maximum_ level. With only two characteristics now wounded, _Morn qualifies for medical care and, once in their ship's_ sickbay, is quickly restored to health.
 
-**Augmentation and Medical Care:** Cybernetic or genetic augments can interfere with medical treatment. All medical care or surgery Medic checks treating a Traveller suffer a negative DM equal to the difference in Tech Level between the medical facility and the highest relevant implant. For example, a Traveller with TL13 Enhanced Vision being treated in a TL10 hospital would inflict DM-3 to the surgeon’s Medic checks.
+**Augmentation and Medical Care:** Cybernetic or genetic augments can interfere with medical treatment. All medical care or surgery Medic checks treating a Traveller suffer a negative DM equal to the difference in Tech Level between the medical facility and the highest relevant implant. For example, a Traveller with TL13 Enhanced Vision being treated in a TL10 hospital would inflict DM-3 to the surgeon's Medic checks.
 
 Mental Characteristics: Other than PSI, characters may also suffer damage to their INT or EDU (the latter reflecting loss of memory). Unless otherwise specified, each mental characteristic heals at a rate of one point each per day.
 
@@ -2869,12 +2869,12 @@ Clear Terrain DM+3 Forest or Woods DM-2 Crowded Area DM-2 In Space DM+4 Target i
 
 Under normal circumstances, Travellers will automatically spot the target as an item of interest (at least) and be able to start taking appropriate action. However, if the target is attempting to remain hidden, perhaps get closer before launching an attack or simply to remain in place to observe passers-by, the Travellers will need to spot the target before they can take any action against it.
 
-This is normally accomplished by a simple Recon check opposed by the target’s Stealth. Use of basic optical devices by the Travellers or camouflage by the target can impose modifiers of DM+1 to +3 at the referee’s discretion.
+This is normally accomplished by a simple Recon check opposed by the target's Stealth. Use of basic optical devices by the Travellers or camouflage by the target can impose modifiers of DM+1 to +3 at the referee's discretion.
 
 However, in the technological universes of Traveller, there is always the option to use sophisticated electronic sensors, some of which are detailed in the Equipment chapter.
 
 When using any kind of sensor, the Electronics
-(sensors) skill is used, opposed by the target’s Stealth. More advanced uses of sensors and stealth are detailed in the Vehicle Handbook.
+(sensors) skill is used, opposed by the target's Stealth. More advanced uses of sensors and stealth are detailed in the Vehicle Handbook.
 
 ANIMALS Many worlds in the galaxy are capable of bearing life and across the galaxy evolution (or genetic engineering) has produced bizarre creatures, forming complex ecosystems very different from those of the worlds the Travellers are used to.
 
@@ -2883,7 +2883,7 @@ Animal Hits Speed Larker 100 9 m Skills Athletics (endurance) 2, Athletics
 
 Animals are defined by a handful of characteristics as shown in the example here, a larker – a massive but gentle insect found on the open grassy plains where it grazes on long foliage.
 
-Hits: How much damage the animal can sustain before it is killed. All damage is applied to Hits, rather than STR, DEX and END as for Travellers. When an animal’s Hits are reduced to zero, it is dead.
+Hits: How much damage the animal can sustain before it is killed. All damage is applied to Hits, rather than STR, DEX and END as for Travellers. When an animal's Hits are reduced to zero, it is dead.
 
 Speed: How far the animal can move in a single combat round with a Minor Action.
 
@@ -2893,11 +2893,11 @@ Attacks: Any attacks the animal is capable of are listed here, together with the
 
 Traits: These are special rules the animal has that determine its abilities beyond Hits, Skills and Attacks. Some animals are Amphibious, for example, while others are Very Large.
 
-Behaviour: Animals tend to act in very specific ways according to their place within an ecosystem and will aid a referee in determining its actions. An animal’s behavioural characteristics are detailed further on page 89.
+Behaviour: Animals tend to act in very specific ways according to their place within an ecosystem and will aid a referee in determining its actions. An animal's behavioural characteristics are detailed further on page 89.
 
-TRAITS The following traits may be applied to animals of the referee’s creation:
+TRAITS The following traits may be applied to animals of the referee's creation:
 
-Alarm: When panicked or under threat, this animal emits a powerful screech, odour or makes a bright visual display, alerting others of its kind to danger. At the referee’s option, this will either cause all animals of the same type in the immediate area to flee or will bring an additional 2D of them into combat.
+Alarm: When panicked or under threat, this animal emits a powerful screech, odour or makes a bright visual display, alerting others of its kind to danger. At the referee's option, this will either cause all animals of the same type in the immediate area to flee or will bring an additional 2D of them into combat.
 
 Amphibious: The animal is equally at home on land or in the water. It will not suffocate while submerged and its movement is not affected underwater.
 
@@ -2907,9 +2907,9 @@ Armor (+X): The animal has dense layers of fat, horny plates or some other form 
 
 **Camouflaged:** The animal has physical adaptations that allow it to blend into its environment, such as chameleonic skin or psionic shielding. It gains DM+2 to all Stealth checks.
 
-**Diseased (Difficulty/Damage/Interval):** The animal is a carrier of disease and will infect any creature it comes into physical contact with. At the referee’s option, merely being in the animal’s lair may cause exposure. The difficulty, damage and interval of the disease is noted within the Diseased trait.
+**Diseased (Difficulty/Damage/Interval):** The animal is a carrier of disease and will infect any creature it comes into physical contact with. At the referee's option, merely being in the animal's lair may cause exposure. The difficulty, damage and interval of the disease is noted within the Diseased trait.
 
-Echolocation: This animal has organs adapted to emit high-frequency sounds, which it uses to pinpoint objects and ‘observe’ its surroundings with high precision. It can operate in complete darkness, although two-dimensional details (such as writing on a page) cannot be made out. Echolocation can operate in noisy environments but can be completely blocked by sounds operating at similar high frequencies.
+Echolocation: This animal has organs adapted to emit high-frequency sounds, which it uses to pinpoint objects and 'observe' its surroundings with high precision. It can operate in complete darkness, although two-dimensional details (such as writing on a page) cannot be made out. Echolocation can operate in noisy environments but can be completely blocked by sounds operating at similar high frequencies.
 
 **Fast Metabolism (+X):** The animal has a heightened metabolism and very fast reactions. It gains a DM to Initiative rolls equal to the figure shown in the Fast Metabolism trait.
 
@@ -2917,19 +2917,19 @@ Echolocation: This animal has organs adapted to emit high-frequency sounds, whic
 
 **Heightened Senses:** The animal has better hearing and sense of smell than humans. It receives DM+1 to any Recon and Survival checks it has to make.
 
-**IR/UV Vision:** The animal views the world at a greatly extended electromagnetic range, encompassing at least infrared or ultraviolet wavelengths and perhaps more. This allows it to see clearly in darkness and, at the referee’s option, it may notice certain electromagnetic emissions from the equipment of Travellers.
+**IR/UV Vision:** The animal views the world at a greatly extended electromagnetic range, encompassing at least infrared or ultraviolet wavelengths and perhaps more. This allows it to see clearly in darkness and, at the referee's option, it may notice certain electromagnetic emissions from the equipment of Travellers.
 
 **Large (+X):** The animal is extremely large and presents a huge target. All ranged attacks made against the animal gain a DM equal to the score listed in the Large trait.
 
 ANIMAL HITS The Hits characteristic provides a quick and easy method for a referee to keep track of whether an animal is alive or dead. For most encounters, this will be sufficient but situations may arise when the players need to have a little more detail, such as when they are hunting.
 
-Driven Off: At the referee’s option, an animal may be driven off and forced to retreat if it is reduced to half of its Hits or less.
+Driven Off: At the referee's option, an animal may be driven off and forced to retreat if it is reduced to half of its Hits or less.
 
 Unconscious: If an animal is reduced to a tenth of its starting Hits or less, it will be rendered unconscious (and seriously injured!).
 
 Destroyed: If an animal suffers enough damage to reduce its Hits to a negative equal to or less than its starting Hits, its body is completely destroyed and will have little or no value for harvesting hides, meat or other materials.
 
-Poison (Difficulty/Damage/Interval): The animal’s attacks are poisoned, making them much deadlier. The difficulty, damage and interval of the poison is noted within the Poison trait.
+Poison (Difficulty/Damage/Interval): The animal's attacks are poisoned, making them much deadlier. The difficulty, damage and interval of the poison is noted within the Poison trait.
 
 Psionic (X): The animal has a PSI characteristic equal to the score listed in the Psionic trait. The referee should determine which talents it has access to as shown in the Psionics chapter.
 
@@ -2999,7 +2999,7 @@ Remember, these are just guidelines. A giant floating gaseous jellyfish may be l
 
 ANIMAL REACTIONS Non-domesticated animals usually react to threats or provocation by either fighting or fleeing. When Travellers disturb an animal or otherwise draw attention to themselves while within its territory, roll 2D and consult the Fight or Flight table. If the result is high enough to indicate hostility, the creature attacks. If the result is low enough to indicate flight, it flees, although may return later. If the result on the table is neither attack nor flee, then the animal continues its natural behaviour until provoked, in which case roll again.
 
-OTHER CHARACTERS During the course of the Travellers’ adventures, the referee will play a huge variety of characters – starport staff and guards, traders, Imperial bureaucrats and nobles, dangerous criminals, archaeologists and
+OTHER CHARACTERS During the course of the Travellers' adventures, the referee will play a huge variety of characters – starport staff and guards, traders, Imperial bureaucrats and nobles, dangerous criminals, archaeologists and
 
 scientists, naval officers, alien diplomats, untrustworthy brokers, primitive tribesmen, deranged artificial intelligences, alien hive-minds and whoever else the Travellers encounter. Most of these characters will appear only for a single scene, so there is no need to lavish detail on a trader or guard. Just come up with a personality trait or two and a name, and jot them down. If a character is to appear multiple times in the campaign, then the referee should determine characteristics, skills and a fuller personality. While the focus of the game is always on the Travellers, important characters do not exist solely to serve as allies or antagonists. They have their own agendas and desires and will pursue their own goals. Sometimes, their schemes might just enmesh the Travellers!
 
@@ -3013,13 +3013,13 @@ professional has two or three levels in skills related to their occupation and z
 
 There are five types of character who are likely to show up throughout a typical campaign; Allies, Contacts, Rivals, Enemies and Patrons.
 
-**Allies:** These people are willing to go out of their way to help the Travellers. An Ally is willing to risk their reputation, status and even life for their friends but will expect equal consideration from the Travellers. Allies are actively looking to further the careers of the Travellers, passing on useful information and rumors. In general, Travellers can call on an Ally’s aid once per year without penalty but expecting more will stress the Ally’s resources. The Ally will still give help if asked but this may result in the Ally losing position or influence.
+**Allies:** These people are willing to go out of their way to help the Travellers. An Ally is willing to risk their reputation, status and even life for their friends but will expect equal consideration from the Travellers. Allies are actively looking to further the careers of the Travellers, passing on useful information and rumors. In general, Travellers can call on an Ally's aid once per year without penalty but expecting more will stress the Ally's resources. The Ally will still give help if asked but this may result in the Ally losing position or influence.
 
-Erik’s Ally is his old Naval commander, Jan Halos, who mustered out of the Navy around the same time as Erik. Halos is now a wandering free trader with his _own starship. In the past, Halos has flown in to rescue_ Erik’s ship from attack and aided Erik in a dangerous smuggling mission. If Erik asked, Halos would risk anything for him.
+Erik's Ally is his old Naval commander, Jan Halos, who mustered out of the Navy around the same time as Erik. Halos is now a wandering free trader with his _own starship. In the past, Halos has flown in to rescue_ Erik's ship from attack and aided Erik in a dangerous smuggling mission. If Erik asked, Halos would risk anything for him.
 
 Contacts: These people are willing to help the Traveller when they can but only in a limited fashion. An Ally would give the Travellers a weapon but a Contact would only tell the Travellers where they could purchase it.
 
-Erik’s Contact is Tarel Paragi, a diplomat. Tarel will pass on useful information to Erik, in exchange for other rumors and bits of data. Tarel will advise Erik when dealing with the Imperial bureaucracy but will not endanger himself. Theirs is an alliance of convenience as far as the diplomat is concerned.
+Erik's Contact is Tarel Paragi, a diplomat. Tarel will pass on useful information to Erik, in exchange for other rumors and bits of data. Tarel will advise Erik when dealing with the Imperial bureaucracy but will not endanger himself. Theirs is an alliance of convenience as far as the diplomat is concerned.
 
 **Rivals and Enemies:** These are both adversaries of the Travellers – Enemies are just willing to go further. While adventures can revolve around the efforts of a Rival to discredit or kill the Travellers, the referee should also drop Rivals and Enemies into other plots. For example, if the Travellers are trying to find a starport willing to repair their damaged ship, a Rival might show up in the system and poach passengers.
 
@@ -3027,7 +3027,7 @@ Enemies, and especially Rivals, should be mobile. If the Travellers are going to
 
 them again and again. Enemies can be stationary but should have a long enough reach to affect the Travellers. Totalitarian governments, evil conspiracies or interstellar corporations all make great Enemies.
 
-Erik’s Rival is Manfred Greel, a notorious corsair and thief. Greel has a grudge against Erik and takes great pleasure in tormenting or sabotaging anything Erik does. Greel has come to enjoy their little contests, however, and greatly prefers to humiliate and provoke Erik instead of trying to kill him.
+Erik's Rival is Manfred Greel, a notorious corsair and thief. Greel has a grudge against Erik and takes great pleasure in tormenting or sabotaging anything Erik does. Greel has come to enjoy their little contests, however, and greatly prefers to humiliate and provoke Erik instead of trying to kill him.
 
 Patrons: These people supply the Travellers with work and adventure, and are covered in greater detail later in this chapter.
 
@@ -3128,7 +3128,7 @@ In addition to rolling on the tables to create quick characters, the referee may
 
 Green characters have completely average characteristics (a score of 7 for each one). More experienced characters have modified characteristics, adding +1 to a single characteristic if they are Average, another +1 to any two characteristics if they are Experienced and so on, as shown on the Experience table. The characteristics increased in this way should relate to the occupation of the character (so, a scientist would likely have increased INT and EDU, while a mercenary would likely have increased DEX and END).
 
-Additional skills can be added to further specialize a character. A scientist, for example, will likely have Electronics (computers) and Science, while a navy fighter pilot will have Pilot (small craft). The referee can add skills and equipment as they feel appropriate to the character’s role in the adventure.
+Additional skills can be added to further specialize a character. A scientist, for example, will likely have Electronics (computers) and Science, while a navy fighter pilot will have Pilot (small craft). The referee can add skills and equipment as they feel appropriate to the character's role in the adventure.
 
 PATRONS AND MISSIONS Patrons are characters in positions of power, authority, influence or dire need who employ the Travellers and give them missions. Sometimes, the reward from a mission will be purely financial – the Travellers might be hired as bodyguards, mercenaries, couriers, thieves or scouts for a few hundred or a few thousand Credits. Other missions will have less tangible rewards, such as being owed a favor by the patron, acquisition of status or influence, or just the knowledge of having done the right thing.
 
@@ -3309,7 +3309,7 @@ Random Opposition D66 Opposition D66 Opposition
 
 RANDOM ENCOUNTERS These random encounter tables for settled planets cover a wide cross-section of society and can be used by referees in emergencies or when the Travellers do something unexpected. Encounters should be adjusted based on the culture and technology of the planet. The referee should roll for a new encounter every six hours on average (more often if the Travellers are moving great distances or attracting attention).
 
-PAYMENT FOR MISSIONS The scale of payment for missions varies depending on how difficult the mission is but also on the Travellers’ circumstances. A band of penniless Travellers who make their way from system-to-system in low berths might be happy to be paid Cr5000 each for two weeks’ work but the crew of a free trader can make hundreds of thousands of Credits by spending that time shipping cargo. In fact, Travellers with huge ship mortgages to maintain may have to turn down unprofitable missions.
+PAYMENT FOR MISSIONS The scale of payment for missions varies depending on how difficult the mission is but also on the Travellers' circumstances. A band of penniless Travellers who make their way from system-to-system in low berths might be happy to be paid Cr5000 each for two weeks' work but the crew of a free trader can make hundreds of thousands of Credits by spending that time shipping cargo. In fact, Travellers with huge ship mortgages to maintain may have to turn down unprofitable missions.
 
 A wise patron, therefore, will always offer the Travellers a little more than they can get by trading.
 
@@ -3430,9 +3430,9 @@ Urban Encounters D66 Encounter D66 Encounter
 
 # EQUIPMENT
 
-The vast number of tools and devices in the universe and the variation in potential costs and values defy classification; it is impossible to note and define them all. The objects in this chapter are presented as indications of common qualities and values. Different worlds use different manufacturing techniques, design styles and even physical principles to achieve the same effect. A pistol on one world might resemble a conventional firearm; on another, the same type of gun might be elaborately decorated and coloured to reflect its importance in that world’s martial culture; elsewhere, it might be heavily integrated with computers to aid targeting, use bullets formed from ice mixed with plastic polymers or be constructed from sensor-baffling materials and treated woods to avoid detection by security sensors.
+The vast number of tools and devices in the universe and the variation in potential costs and values defy classification; it is impossible to note and define them all. The objects in this chapter are presented as indications of common qualities and values. Different worlds use different manufacturing techniques, design styles and even physical principles to achieve the same effect. A pistol on one world might resemble a conventional firearm; on another, the same type of gun might be elaborately decorated and coloured to reflect its importance in that world's martial culture; elsewhere, it might be heavily integrated with computers to aid targeting, use bullets formed from ice mixed with plastic polymers or be constructed from sensor-baffling materials and treated woods to avoid detection by security sensors.
 
-Each item is listed with the Tech Level needed to manufacture it, its mass (in kg) and its cost. If an item’s weight or cost is not listed, then its weight or cost is negligible. In this case, you can assume that 10 such items would mass one kg or cost Cr1 respectively.
+Each item is listed with the Tech Level needed to manufacture it, its mass (in kg) and its cost. If an item's weight or cost is not listed, then its weight or cost is negligible. In this case, you can assume that 10 such items would mass one kg or cost Cr1 respectively.
 
 You should note that items are available for several Tech Levels after they first appear but it is often quite hard to find a low-tech item on a high-tech world (few TL13 spacefaring civilizations are going to produce a lot of crossbows or backpack radios).
 
@@ -3441,23 +3441,23 @@ CREDITS The Credit (Cr) is the standard unit of currency in Traveller. Larger de
 
 In other settings, other currencies may be used. In 2300AD, for example, the base currency is the Livre, or Lv. However, that actual value of the Livre or any other currency used in any other universe is assumed to be identical to that of a Credit so you will be able to make direct comparisons (and purchases) between the two. For example, Tech Level 10 Combat Armor costs Cr96000 in Traveller. In 2300AD, it would cost Lv96000.
 
-SPENDING CREDITS Citizens of high-technology (TL8 or higher) planets often use electronic Credits. Transactions are authenticated and managed using computers or personal comms. While electronic Credits work perfectly well in-system, lack of faster than light communications in some universes means it is possible for a Traveller to outrun their Credits – having a million Credits in one’s bank account on Sylea is all well and good but if you are 20 parsecs away and the data has not caught up with you, then it is inaccessible. Large banks, corporations and other financial institutions use x-boat networks or similar facilities to synchronise important financial records but private citizens must make arrangements to keep Credits available.
+SPENDING CREDITS Citizens of high-technology (TL8 or higher) planets often use electronic Credits. Transactions are authenticated and managed using computers or personal comms. While electronic Credits work perfectly well in-system, lack of faster than light communications in some universes means it is possible for a Traveller to outrun their Credits – having a million Credits in one's bank account on Sylea is all well and good but if you are 20 parsecs away and the data has not caught up with you, then it is inaccessible. Large banks, corporations and other financial institutions use x-boat networks or similar facilities to synchronise important financial records but private citizens must make arrangements to keep Credits available.
 
-It is possible to notify one’s bank and have a line of Credit sent ahead (or at least sent at the same time) if you know your destination but wandering Travellers must sometimes default to using physical cash or trade goods. In addition to physical Credits, precious metals, gemstones, radioactive elements or technological wonders are sometimes used in barter on many worlds.
+It is possible to notify one's bank and have a line of Credit sent ahead (or at least sent at the same time) if you know your destination but wandering Travellers must sometimes default to using physical cash or trade goods. In addition to physical Credits, precious metals, gemstones, radioactive elements or technological wonders are sometimes used in barter on many worlds.
 
 SELLING EQUIPMENT Travellers are likely to accumulate equipment they cannot use, either taken from defeated enemies or replaced by more advanced items. In these cases, they will want to sell equipment for ready cash.
 
 For a quick and simple measure, a referee can presume a Traveller can sell an undamaged item for half its purchase price. There may be times when the referee will want to impose limits on this, perhaps when a Traveller tries to sell a highly advanced technological device on a world with a low Tech Level that has no means of generating electricity, for example.
 
-STANDARDS OF LIVING A standard meal typically costs Cr5–50 or more per person, depending on quality and service. A burger of unidentifiable meat-like substances eaten standing up in a fast-food joint may cost just Cr2–3; a fine meal at a Traveller’s Aid Society hostel could cost Cr20, while a sybaritic feast of a dozen courses and entertainments costs Cr500 or more.
+STANDARDS OF LIVING A standard meal typically costs Cr5–50 or more per person, depending on quality and service. A burger of unidentifiable meat-like substances eaten standing up in a fast-food joint may cost just Cr2–3; a fine meal at a Traveller's Aid Society hostel could cost Cr20, while a sybaritic feast of a dozen courses and entertainments costs Cr500 or more.
 
-Accommodation for a night in a cheap hotel costs Cr10; a good hotel can be found for Cr50–100. Luxury hotels cost Cr300 or more per night. Traveller’s Aid Society hostels is available to members and their guests for Cr20 per night.
+Accommodation for a night in a cheap hotel costs Cr10; a good hotel can be found for Cr50–100. Luxury hotels cost Cr300 or more per night. Traveller's Aid Society hostels is available to members and their guests for Cr20 per night.
 
 A Traveller living on board ship is assumed to have their food and lodging taken care of. A Traveller living on a planet or orbital for a long period must spend money on living costs – the amount depends on the quality of life desired. A Traveller who does not live at the standard listed for their SOC risks being embarrassed and perhaps even losing their standing.
 
 Standard of Living Cost/Month Suitable For Very Poor Cr400 SOC 2 Poor Cr800 SOC 4 Low Cr1000 SOC 5 Average Cr1200 SOC 6 Good Cr1500 SOC 7 High Cr2000 SOC 8 Very High Cr2500 SOC 10 Rich Cr5000 SOC 12 Very Rich Cr12000 SOC 14 Ludicrously Rich Cr20000+ SOC 15
 
-ENCUMBRANCE Under most circumstances, the referee can simply rule that Travellers can carry a ‘reasonable’ amount of equipment without actually tracking it – armor, a main weapon, a pistol, a few grenades and items in a backpack are all reasonable.
+ENCUMBRANCE Under most circumstances, the referee can simply rule that Travellers can carry a 'reasonable' amount of equipment without actually tracking it – armor, a main weapon, a pistol, a few grenades and items in a backpack are all reasonable.
 
 However, Travellers being who they are, there may be times when they attempt to carry an unreasonable load.
 
@@ -3539,7 +3539,7 @@ ablat Armor
 
 Ablat: A cheap alternative to reflec, ablat armor is made from a material that ablates (vaporises) when hit by laser fire. Each laser hit on ablat armor reduces its Protection value against lasers by one but the armor is cheap and easily replaceable.
 
-Battle Dress: The premier personal armor, battle dress is a powered form of combat armor but much tougher. The servomotors vastly increase the user’s speed and strength, increasing STR and DEX by +4 while wearing the armor. Damage to the wearer’s characteristics is calculated as normal but the bonus values from the armor are used for all other purposes such as melee damage or skill checks. An on-board Computer/2 gives tactical advice and updates, and the suit is commonly outfitted with numerous upgrades. The suit is fully enclosed, with a six-hour air supply and gives substantial protection against NBC (nuclear/ biological/chemical) hazards. All weapons used while wearing battle dress count as having the Scope trait. TL14 : This more advanced battle dress is considerably stronger, granting STR +6 and upgrades the internal systems to Computer/3.
+Battle Dress: The premier personal armor, battle dress is a powered form of combat armor but much tougher. The servomotors vastly increase the user's speed and strength, increasing STR and DEX by +4 while wearing the armor. Damage to the wearer's characteristics is calculated as normal but the bonus values from the armor are used for all other purposes such as melee damage or skill checks. An on-board Computer/2 gives tactical advice and updates, and the suit is commonly outfitted with numerous upgrades. The suit is fully enclosed, with a six-hour air supply and gives substantial protection against NBC (nuclear/ biological/chemical) hazards. All weapons used while wearing battle dress count as having the Scope trait. TL14 : This more advanced battle dress is considerably stronger, granting STR +6 and upgrades the internal systems to Computer/3.
 
 Cloth: A heavy duty body suit tailored from ballistic cloth. The fabric absorbs impact energy and spreads it over the body, which can result in bruising. However, cloth armor is highly useful and versatile. TL10 : This armor is lighter and more flexible, and can be indistinguishable from ordinary clothing under normal circumstances.
 
@@ -3555,7 +3555,7 @@ Mesh: A jacket or body suit lined with a flexible metal or plastic mesh that giv
 
 Reflec: Reflec armor is a flexible plastic suit with layers of reflective material and heat-dispersing gel. It is highly effective against lasers but provides no protection against other attacks. Reflec can be worn with other armor but is hard to obtain, quite expensive and imposes DM-2 on any Stealth checks the wearer attempts.
 
-Vacc Suit: The vacc suit or space suit is the spacer’s best friend, providing life support and protection when in space. Early vacc suits are unwieldy and uncomfortable but quickly shrink as technology advances. A vacc suit provides life support for six hours. TL10: An improved version that masses a lot less. TL12: At this Tech Level, ‘tailored’ vacc suits feel like ordinary clothing with a flexible hood and face mask.
+Vacc Suit: The vacc suit or space suit is the spacer's best friend, providing life support and protection when in space. Early vacc suits are unwieldy and uncomfortable but quickly shrink as technology advances. A vacc suit provides life support for six hours. TL10: An improved version that masses a lot less. TL12: At this Tech Level, 'tailored' vacc suits feel like ordinary clothing with a flexible hood and face mask.
 
 ARMOR OPTIONS Chameleon, IR (TL 12) : This technology can be added to any full-body suit. It selectively bleeds heat to match background infrared levels and effectively renders the wearer invisible to infrared detection (DM-4 to detect with sensors). IR chameleon costs Cr5000.
 
@@ -3599,7 +3599,7 @@ While humans can be altered to survive on hostile worlds
 
 Most of the items in this category can be cybernetic
 (mechanical or electronic implants and prostheses) or biological (genetic engineering and surgical alternation) or both (a more common solution) but the general term of
-‘augment’ is used for all of them.
+'augment' is used for all of them.
 
 ##### Augments
 
@@ -3607,19 +3607,19 @@ AUGMENT IMPROVEMENTS TL COST Cognitive Augmentation INT +1 12 Cr500000 Cognitive
 
 Cybernetic Eye
 
-Augmentations can take characteristics above the normal maximums for a Traveller’s species.
+Augmentations can take characteristics above the normal maximums for a Traveller's species.
 
-Augments can interfere with medical treatment. All long-term care or surgery Medic checks treating an augmented Traveller suffer a negative DM equal to the difference in Tech Level between the medical facility and the highest relevant implant. For example, a Traveller with TL15 Endurance Augmentation implants being treated in a TL10 hospital would inflict DM-5 to the surgeon’s Medic skill checks.
+Augments can interfere with medical treatment. All long-term care or surgery Medic checks treating an augmented Traveller suffer a negative DM equal to the difference in Tech Level between the medical facility and the highest relevant implant. For example, a Traveller with TL15 Endurance Augmentation implants being treated in a TL10 hospital would inflict DM-5 to the surgeon's Medic skill checks.
 
 Cognitive Augmentation: Replacing slow nerve cells with faster synthetic substrates and implanting optoelectronic boosters can increase the speed at which a Traveller thinks, effectively boosting their intelligence.
 
 Neural Comm: A neural comm has identical capacities to a standard comm but the cost is much higher as is the required TL. A Traveller can access the capabilities of a neural comm by thought alone but it still takes a skill check to use for complicated activities.
 
-Physical Characteristic Augmentation: A Traveller’s END, STR or DEX can be increased in various ways, from replacing motor neurons with faster synthetic cells, to reinforcing bones and replacing organs with tougher vat-grown clones. Augmentations must be purchased for each characteristic separately.
+Physical Characteristic Augmentation: A Traveller's END, STR or DEX can be increased in various ways, from replacing motor neurons with faster synthetic cells, to reinforcing bones and replacing organs with tougher vat-grown clones. Augmentations must be purchased for each characteristic separately.
 
 Subdermal Armor : Adds a mesh of ballistic fibres to the skin and reinforces the bones, giving the Traveller extra armor. Subdermal armor stacks with other protection.
 
-Skill Augmentation: The Traveller’s nervous system is rewired to be more suited to a particular task. A pilot might have their reflexes and sense of balance improved; a broker might be made capable of controlling their pupil responses and smelling pheromones and skin salinity of others. A skill augmentation gives the Traveller DM+1 when using that specific skill. A Traveller can only have one skill augmentation and must initially possess that skill at least at level 0 to benefit from the augmentation.
+Skill Augmentation: The Traveller's nervous system is rewired to be more suited to a particular task. A pilot might have their reflexes and sense of balance improved; a broker might be made capable of controlling their pupil responses and smelling pheromones and skin salinity of others. A skill augmentation gives the Traveller DM+1 when using that specific skill. A Traveller can only have one skill augmentation and must initially possess that skill at least at level 0 to benefit from the augmentation.
 
 Wafer Jack: A wafer jack is a computer system implanted into the base of the skull that contains a physical data socket and processor running an interface program. A Traveller with a wafer jack can use Expert programs for tasks relying on INT or EDU only. The main benefit of the jack is that it is much smaller and more discrete than a hand computer and the user can access the Expert program by thought alone. A wafer jack has Computer/2 for Expert programs only and is always running Intelligence Interface.
 
@@ -3642,7 +3642,7 @@ TL FEATURES COST TL5 Audio only Cr50 TL7 Audio or Visual Cr100 TL9 Audio or Visu
 Cr500
 
 **Audio:** The bug records anything it hears.
-**Visual:** The bug records anything it sees. Data: If attached to a computer system, the bug can search and copy data from the computer. The bug cannot breach computer security on its own but if a user accesses the computer in the bug’s presence, the bug can read their data. Bioscan: The bug has a basic biological scanner, allowing it to sample the area for DNA traces, chemical taint and so forth. Computer/1: The bug has an onboard computer system rated Computer/1.
+**Visual:** The bug records anything it sees. Data: If attached to a computer system, the bug can search and copy data from the computer. The bug cannot breach computer security on its own but if a user accesses the computer in the bug's presence, the bug can read their data. Bioscan: The bug has a basic biological scanner, allowing it to sample the area for DNA traces, chemical taint and so forth. Computer/1: The bug has an onboard computer system rated Computer/1.
 
 A bug can be active or passive. An active bug transmits data (either constantly, or when triggered). Passive bugs just record until activated.
 
@@ -3651,7 +3651,7 @@ A bug can be active or passive. An active bug transmits data (either constantly,
 **ITEM TL MASS COST**
 
 Commdot (^10) — Cr10
-**Mobile Comm:** A mobile comm unit is a portable telecommunications device/computer/camera, ranging in size from a bulky handset to a slim watch or pen-like cylinder – in today’s world we call them mobile phones or cell phones. Larger comms have physical controls and screens while smaller units either project data and control displays onto nearby surfaces, have fold-out plastic screens, or connect to cybernetics. Comms have only short-range transmission and reception capabilities but most technologically advanced worlds will have planetwide comm networks allowing the user to send messages and access data anywhere.
+**Mobile Comm:** A mobile comm unit is a portable telecommunications device/computer/camera, ranging in size from a bulky handset to a slim watch or pen-like cylinder – in today's world we call them mobile phones or cell phones. Larger comms have physical controls and screens while smaller units either project data and control displays onto nearby surfaces, have fold-out plastic screens, or connect to cybernetics. Comms have only short-range transmission and reception capabilities but most technologically advanced worlds will have planetwide comm networks allowing the user to send messages and access data anywhere.
 **TL FEATURES COST** TL6 Audio only Cr50 TL8 Audio and visual, Computer/0 Cr150 TL10 Multiple forms of data, Computer/1 Cr500
 **Transceiver:** A transceiver is a stand-alone communications device, what today we would call a two-way radio. Unlike a mobile comm, which relies on the presence of an established communications network, a transceiver can send and receive directly under its own power. Most transceivers are radio or laser-based. Meson communicators are possible but generally not easily portable or available. To reach orbital ranges reliably, a transceiver requires a range of 500 kilometers. Mobile Comm
 
@@ -3706,7 +3706,7 @@ TL11 TL12 TL13
 
 Cr1000 Cr10000 Cr100000
 
-Expert software packages mimic skills. A Traveller using Expert may make a skill check as if they had the skill at the software’s Bandwidth -1. Only INT and EDU-based checks can be attempted. If a Traveller already has the skill, then Expert grants DM+1 to their check. Translator 0
+Expert software packages mimic skills. A Traveller using Expert may make a skill check as if they had the skill at the software's Bandwidth -1. Only INT and EDU-based checks can be attempted. If a Traveller already has the skill, then Expert grants DM+1 to their check. Translator 0
 
 TL9 TL10
 
@@ -3731,11 +3731,11 @@ Intellect is an improved Agent, which can use Expert systems. For example, a rob
 
 **SHIP-BASED COMPUTERS** The computers used on spacecraft to calculate jump travel and combat solutions are much more powerful than those typically found planetside and can run much more sophisticated software. These are covered on page 161 and in detail within High Guard.
 
-Computer Terminal: This is a ‘dumb’ terminal with only limited processing power. It serves as an interface to a more powerful computer such as a ship’s computer or planetary network. Terminals range in size depending on their control method – a holographic display terminal can be much smaller than one with a physical keyboard and screen. These terminals are treated as Computer/0.
+Computer Terminal: This is a 'dumb' terminal with only limited processing power. It serves as an interface to a more powerful computer such as a ship's computer or planetary network. Terminals range in size depending on their control method – a holographic display terminal can be much smaller than one with a physical keyboard and screen. These terminals are treated as Computer/0.
 
 ITEM TL MASS COST Computer Terminal 7 2 Cr200
 
-Portable Computer: A portable computer is a computer system with considerable processing power, yet able to be easily carried – in today’s world, this covers laptops and tablets of all sizes. It is more powerful than a computer terminal and can be used without access to a network.
+Portable Computer: A portable computer is a computer system with considerable processing power, yet able to be easily carried – in today's world, this covers laptops and tablets of all sizes. It is more powerful than a computer terminal and can be used without access to a network.
 
 TL PROCESSING MASS COST TL7 Computer/0 5kg Cr500 TL8 Computer/1 2kg Cr250 TL9 Computer/1 1kg Cr100 TL10 Computer/2 0.5kg Cr500 TL11 Computer/2 0.5kg Cr300 TL12 Computer/3 0.5kg Cr1000 TL13 Computer/4 0.5kg Cr1500 TL14 Computer/5 0.5kg Cr5000
 
@@ -3758,13 +3758,13 @@ Data Display/Recorder
 •  If you are just using the computer for general tasks, then all you need is a basic Interface/0.
 •  If you are using the computer to access an Expert program, then you need Intelligent Interface to get the benefit. If you want the computer to do the work for you, then you need to run an Intellect program.
 
-**COMPUTER VARIANTS** A computer’s optimum Tech Level is the level at which it reaches standard production and is no longer considered a prototype or experiment. Most computing systems will be built at the optimal level or higher, to allow utilization of higher TL programs. Computers may be built at lower than optimum Tech Levels (Prototech) or reduced Tech Levels (Retrotech).
+**COMPUTER VARIANTS** A computer's optimum Tech Level is the level at which it reaches standard production and is no longer considered a prototype or experiment. Most computing systems will be built at the optimal level or higher, to allow utilization of higher TL programs. Computers may be built at lower than optimum Tech Levels (Prototech) or reduced Tech Levels (Retrotech).
 
 **Prototech:** A computer type may be produced at up to 2 levels below its optimum TL as a prototype (or reverse engineered experiment) or as a substandard but cheaper model. The system has its Processing and TL at normal values but cost and mass are multiplied by 10 for construction at one TL lower and 100 for construction at two TL lower.
 
 For example, a TL10 Computer/2 salvaged from a mysterious alien wreck could be used to reverse engineer a Computer/2 by a TL8 society. It would run as a TL10 Computer/2, but would cost Cr50000 and mass 50kg.
 
-RetroTech: While computers may be built at, and rated as, any TL above the optimum TL, a higher TL society may produce a lower rated TL system for reduced cost and mass. Any system may be built at any TL below the society’s current level but not below the optimum TL for the model. Each reduced level halves the cost and mass of the basic model.
+RetroTech: While computers may be built at, and rated as, any TL above the optimum TL, a higher TL society may produce a lower rated TL system for reduced cost and mass. Any system may be built at any TL below the society's current level but not below the optimum TL for the model. Each reduced level halves the cost and mass of the basic model.
 
 **EXPERT SKILLS** Having a tool or weapon with the appropriate Expert program and an Intelligent Interface can grant a Traveller DM+1 to relevant checks. However, the program can only help if the difficulty of the task is less than a certain value. In combat, add up any negative DMs to determine the effective difficulty of the attack or action.
 
@@ -3776,13 +3776,13 @@ Replacements: A Traveller whose injuries require cloning limbs or cybernetic rep
 
 ##### medical & care supplies
 
-Cryoberth (TL10): A cryoberth, or ‘icebox’, is a coffin-like machine similar to the low or frozen berths used on some spacecraft. The main difference is that a cryoberth works much faster than a low berth, freezing and preserving its occupant almost instantly. A cryoberth can therefore be used to place a severely injured Traveller into stasis until they receive medical treatment. A cryoberth’s internal power system can function for up to one week on its own but a berth is usually connected to a vehicle’s or ship’s power supply. Costs Cr50000 with a mass of 200kg.
+Cryoberth (TL10): A cryoberth, or 'icebox', is a coffin-like machine similar to the low or frozen berths used on some spacecraft. The main difference is that a cryoberth works much faster than a low berth, freezing and preserving its occupant almost instantly. A cryoberth can therefore be used to place a severely injured Traveller into stasis until they receive medical treatment. A cryoberth's internal power system can function for up to one week on its own but a berth is usually connected to a vehicle's or ship's power supply. Costs Cr50000 with a mass of 200kg.
 
-Medikit (TL8+): There are different types of medikit available at different Tech Levels. All medikits contain diagnostic devices and scanners, surgical tools and a panoply of drugs and antibiotics, allowing a medic to practise their art in the field. Advanced medikits can help with more exotic problems or when treating augmented individuals. For example, a TL8 medikit can test blood pressure and temperature, while a TL14 kit has a medical densitometer to create a three-dimensional view of the patient’s body and can scan brain activity on the quantum level. All medikits mass 1kg, except at TL14 where they have an effective mass of 0kg. TL8: Costs Cr1000. TL10: Grants DM+1 on Medic checks performed for first aid. Costs Cr1500. TL12: Grants DM+2 on Medic checks performed for first aid. Costs Cr5000. TL14: Grants DM+3 on Medic checks performed for first aid. Costs Cr10000.
+Medikit (TL8+): There are different types of medikit available at different Tech Levels. All medikits contain diagnostic devices and scanners, surgical tools and a panoply of drugs and antibiotics, allowing a medic to practise their art in the field. Advanced medikits can help with more exotic problems or when treating augmented individuals. For example, a TL8 medikit can test blood pressure and temperature, while a TL14 kit has a medical densitometer to create a three-dimensional view of the patient's body and can scan brain activity on the quantum level. All medikits mass 1kg, except at TL14 where they have an effective mass of 0kg. TL8: Costs Cr1000. TL10: Grants DM+1 on Medic checks performed for first aid. Costs Cr1500. TL12: Grants DM+2 on Medic checks performed for first aid. Costs Cr5000. TL14: Grants DM+3 on Medic checks performed for first aid. Costs Cr10000.
 
 Medikit
 
-Metabolic Accelerator (TL10): These boost the user’s reaction time to superhuman levels. To the user, everyone else appears to be moving much slower. A Traveller using a metabolic accelerator in combat gains DM+8 to all Initiative rolls. They also gain two free Reactions every round with no penalties applied for either. The drug kicks in 45 seconds after ingestion or injection and lasts for around 10 minutes. When the drug wears off, the user’s system crashes. They suffer 2D points of damage and is Fatigued (see page 80). Metabolic accelerator costs Cr500 per dose.
+Metabolic Accelerator (TL10): These boost the user's reaction time to superhuman levels. To the user, everyone else appears to be moving much slower. A Traveller using a metabolic accelerator in combat gains DM+8 to all Initiative rolls. They also gain two free Reactions every round with no penalties applied for either. The drug kicks in 45 seconds after ingestion or injection and lasts for around 10 minutes. When the drug wears off, the user's system crashes. They suffer 2D points of damage and is Fatigued (see page 80). Metabolic accelerator costs Cr500 per dose.
 
 Panaceas (TL8+): These are wide-spectrum medicinal drugs specifically designed not to interact harmfully. They can therefore be used on any wound or illness and are guaranteed not to make things worse. A Traveller using panaceas may make a Medic check as if they had Medic 0 when treating an infection or disease. Panaceas cost Cr200 per dose.
 
@@ -3791,19 +3791,19 @@ Slow Drug (TL11): This is a variant of the metabolic accelerator. It can only be
 Stims (TL8): These relieve fatigue, although at a cost. A Traveller who uses stims removes Fatigue
 (see page 80) but also sustains one point of damage. If stims are used repeatedly without natural sleep in between, the user suffers a cumulative additional point of damage every time (so, on the second use, two points of damage are sustained, on the third, three points and so on). Costs Cr50 per dose.
 
-**DRUGS** There are several drugs (or ‘meds’) in standard use.
+**DRUGS** There are several drugs (or 'meds') in standard use.
 
-Anagathics (TL15): These slow the user’s ageing process. Synthetic anagathics become possible at TL15 but there are natural spices and other rare compounds that have comparable effects. Anagathics are illegal or heavily controlled on many worlds. One dose must be taken each month to maintain the anti- aging effect. They cost Cr20000 per dose.
+Anagathics (TL15): These slow the user's ageing process. Synthetic anagathics become possible at TL15 but there are natural spices and other rare compounds that have comparable effects. Anagathics are illegal or heavily controlled on many worlds. One dose must be taken each month to maintain the anti- aging effect. They cost Cr20000 per dose.
 
 Anti-rad (TL8): Anti-rad drugs must be administered before or immediately (within 10 minutes) after radiation exposure. They absorb up to 100 rads per dose. A Traveller may only use anti-rad drugs once per day – taking any more causes permanent END damage of 1D per dose. Costs Cr1000 per dose.
 
-Combat Drugs (TL10): Combat drugs increase reaction times and improve a body’s responses to trauma. A Traveller using combat drugs gains DM+4 to all Initiative rolls. They also gain a free Reaction every round with no penalty applied and reduces all damage sustained by -2 points. The drug kicks in around 20 seconds (three rounds) after ingestion or injection and lasts for around 10 minutes. When the drug wears off, the user is Fatigued (see page 80). Combat drugs cost Cr1000 per dose.
+Combat Drugs (TL10): Combat drugs increase reaction times and improve a body's responses to trauma. A Traveller using combat drugs gains DM+4 to all Initiative rolls. They also gain a free Reaction every round with no penalty applied and reduces all damage sustained by -2 points. The drug kicks in around 20 seconds (three rounds) after ingestion or injection and lasts for around 10 minutes. When the drug wears off, the user is Fatigued (see page 80). Combat drugs cost Cr1000 per dose.
 
 Fast Drug (TL10): Also called Hibernation, this drug puts the user into a state akin to suspended animation, slowing their metabolic rate down to a ratio of 60:1 – a subjective day for the user is actually two months. Fast drug is normally used to prolong life support reserves or as a cheap substitute for a cryoberth. Fast drug costs Cr200 per dose.
 
 Medicinal Drugs (TL5+): Includes vaccines, antitoxins and antibiotics. They range in cost from Cr5 to several thousand Credits, depending on the rarity and complexity. Medicinal drugs require the Medic skill to use properly – using the wrong drug can be worse than doing nothing.
 
-Most sensors are designed to be plugged into a computer system but can display the data directly to the user on built-in screens or by feeding it to the user’s suit display.
+Most sensors are designed to be plugged into a computer system but can display the data directly to the user on built-in screens or by feeding it to the user's suit display.
 
 ##### sensors
 
@@ -3815,9 +3815,9 @@ IR Goggles Light Intensifier Goggles
 
 **Binoculars:** Allow the user to see further. TL8: Electronic enhancement allows images to be captured; light-intensification allows them to be used in the dark. TL12: PRIS (Portable Radiation Imaging System) allows the user to observe a large section of the EM- spectrum, from infrared to gamma rays.
 
-**Bioscanner:** The bioscanner ‘sniffs’ for organic molecules and tests chemical samples, analysing the make-up of whatever it is focused on. It can be used to detect poisons or bacteria, analyse organic matter, search for life signs and classify unfamiliar organisms.
+**Bioscanner:** The bioscanner 'sniffs' for organic molecules and tests chemical samples, analysing the make-up of whatever it is focused on. It can be used to detect poisons or bacteria, analyse organic matter, search for life signs and classify unfamiliar organisms.
 
-**Densitometer:** The remote densitometer uses an object’s natural gravity to measure its density, building up a three-dimensional image of the inside and outside of an object.
+**Densitometer:** The remote densitometer uses an object's natural gravity to measure its density, building up a three-dimensional image of the inside and outside of an object.
 
 **EM Probe:** This handy device detects the electro- magnetic emissions of technological devices and can be used as a diagnostic tool when examining equipment or when searching for hidden bugs or devices.
 
@@ -3870,7 +3870,7 @@ Portable Fusion Generator: This is a light-duty portable fusion generator, capab
 
 Radiation Suit: A radiation suit protects the Traveller against direct radiation, such as solar flares or a reactor breach. A vacc suit will offer some protection but for areas of hard radiation a dedicated radiation suit is required, reducing exposure by 100 rads.
 
-Rescue Bubble: A large (two meter diameter) plastic bubble. Piezoelectric layers in the bubble wall translate the user’s movements into electricity to recharge the bubble’s batteries and power its distress beacon and a small oxygen tank both inflates the bubble and provides two person/hours of life support. A self-repairing plastic seal serves as an emergency airlock. Rescue bubbles are found on both space and sea vessels as emergency lifeboats.
+Rescue Bubble: A large (two meter diameter) plastic bubble. Piezoelectric layers in the bubble wall translate the user's movements into electricity to recharge the bubble's batteries and power its distress beacon and a small oxygen tank both inflates the bubble and provides two person/hours of life support. A self-repairing plastic seal serves as an emergency airlock. Rescue bubbles are found on both space and sea vessels as emergency lifeboats.
 
 Respirator: This rebreather concentrates inhaled oxygen, allowing a Traveller to breathe on worlds with a thin atmosphere. Respirators take the form of a face mask or mouthpiece initially. TL10: The more advanced respirator is small enough to fit into the nose or can even be a lung implant.
 
@@ -3898,12 +3898,12 @@ Respirator
 
 Breather Mask
 
-SCIENTIFIC TOOLKITS A scientific toolkit is a set of instruments and dedicated expert computer packaged to help a professional perform specific science-related tasks. The combination of tools and expert computer provides DM+2 to Science checks related to the toolkit’s science-related speciality.
+SCIENTIFIC TOOLKITS A scientific toolkit is a set of instruments and dedicated expert computer packaged to help a professional perform specific science-related tasks. The combination of tools and expert computer provides DM+2 to Science checks related to the toolkit's science-related speciality.
 
 Toolkit instruments are specific to a speciality or related specialties of scientific endeavors. The tools alone will provide DM+1 to checks related to their specialities for Travellers who have at least Science 0 but will not aid an unskilled individual. Toolkit computers are tablets running Intellect and Expert software in the specified speciality. On their own they provide DM+1 to checks related to their specialities for Travellers who have at least Science 0 or allow unskilled Travellers to attempt Difficult (10+) or easier checks associated with the science speciality without an unskilled penalty.
 
 Archaeology Science Toolkit: The archaeology toolkit provides tools for recovering and understanding the relics of past civilizations using the Science
-(archaeology) skill. The kit does not contain large-scale excavating tools but includes deployable sensors for locating and observing buried objects, including small radar and lidar sensors, remote camera controllers and small observation drones. The toolkit’s computing resources contain extensive databases of known relics and their context and a library of published papers. In addition, the archaeology toolkits will provide DM+1 to Science (history) checks related to archaeological finds.
+(archaeology) skill. The kit does not contain large-scale excavating tools but includes deployable sensors for locating and observing buried objects, including small radar and lidar sensors, remote camera controllers and small observation drones. The toolkit's computing resources contain extensive databases of known relics and their context and a library of published papers. In addition, the archaeology toolkits will provide DM+1 to Science (history) checks related to archaeological finds.
 
 Cybernetics Science Toolkit: This provides instruments to analyse, troubleshoot and repair cybernetic components using the Science (cybernetics) skill. These tools do not include equipment to construct new cybernetic components but do allow for the installation or reattachment of cybernetic components on a living being. The cybernetic toolkit also provides DM+1 to Medic checks involving the intersection of biological and cybernetic components. The toolkit also provides DM+1 to Electronics (computers) or Profession (robotics) checks to repair cybernetic components.
 
@@ -3931,12 +3931,12 @@ Robotics Science Toolkit: For use with the Science
 
 Space Sciences Toolkit: The space sciences toolkit contains sensors and analytic tools valuable to performance of the Science skill specialities of astronomy and cosmology. It does not contain telescopes or other large sensors but does have equipment such as spectroscopic analysers and
 
-interferometer calibrators, which aid in the use of those instruments and correlation of results. The toolkit’s analytic engine allows an expert to predict conditions and locate planets around distant stars and allows for modelling of the risks of stellar activities such as flares and other magnetic disturbances, plus it can help identify the source of faint emissions across the electromagnetic spectrum. Within a solar system, the toolkit is focused on the properties of the system’s stellar objects and general organization and development of smaller system bodies. When used in conjunction with tasks related to the study of planetary and smaller system bodies using the Science
+interferometer calibrators, which aid in the use of those instruments and correlation of results. The toolkit's analytic engine allows an expert to predict conditions and locate planets around distant stars and allows for modelling of the risks of stellar activities such as flares and other magnetic disturbances, plus it can help identify the source of faint emissions across the electromagnetic spectrum. Within a solar system, the toolkit is focused on the properties of the system's stellar objects and general organization and development of smaller system bodies. When used in conjunction with tasks related to the study of planetary and smaller system bodies using the Science
 (planetology) skill this toolkit provides DM+1.
 
 **Physical Sciences Toolkit:** This toolkit provides instruments and analytic tools for the performance of the Science skill specialities of chemistry and physics. These tools including sampling equipment, chemical analysis tools, sensors to detect electromagnetic or gravitic radiation and ultrasensitive measurement equipment. The toolkit can help a specialist analyse unknown minerals, physical phenomena and the basic composition and properties of everything from atoms to stars. The toolkit can also aid the Science specialities of astronomy and planetology by providing DM+1 in tasks which directly involve the measurement of physical and chemical properties.
 
-**Social Science Expert Packages:** Social sciences do not generally require tools but access to methodologies, data collection algorithms and large libraries of information, both qualitative and quantitative. Social science expert packages are installed on specialized dedicated computer tablets running Intellect and Expert software in the speciality. These computers contain extensive databases and analysis engines for social science specialities and provide DM+2 to checks in the speciality. Travellers unskilled in the Science speciality of the Expert system may interact with the computer to understand or complete tasks of up to Very Difficult (12+) complexity with effective skill level 1 in the system’s speciality. Specific library packages apply to the economics, history, linguistics, philosophy, psychology and sophontology specialities.
+**Social Science Expert Packages:** Social sciences do not generally require tools but access to methodologies, data collection algorithms and large libraries of information, both qualitative and quantitative. Social science expert packages are installed on specialized dedicated computer tablets running Intellect and Expert software in the speciality. These computers contain extensive databases and analysis engines for social science specialities and provide DM+2 to checks in the speciality. Travellers unskilled in the Science speciality of the Expert system may interact with the computer to understand or complete tasks of up to Very Difficult (12+) complexity with effective skill level 1 in the system's speciality. Specific library packages apply to the economics, history, linguistics, philosophy, psychology and sophontology specialities.
 
 More obscure packages for esoteric social science specialties may also exist, but may be difficult to locate, expensive, or of questionable reliability.
 
@@ -4030,7 +4030,7 @@ Shotgun: Shotguns are smoothbore weapons that typically fire ammunition containi
 
 Snub Pistol: These lightweight, low-recoil weapons were designed for use aboard spacecraft and in zero gravity.
 
-Submachine Gun: A short weapon capable of automatic fire, it puts the power of an assault rifle into a small package. However, it lacks a rifle’s accuracy at range.
+Submachine Gun: A short weapon capable of automatic fire, it puts the power of an assault rifle into a small package. However, it lacks a rifle's accuracy at range.
 
 Accelerator Rifle
 
@@ -4064,7 +4064,7 @@ Assault Rifle
 
 Directed-energy weapons first enter the battlefield as target designators and range-finders but by TL9 weapons capable of inflicting damage directly appear. Laser weapons require a power supply – pistols come with a belt- or wrist-mounted power pack, while rifles come with backpacks connected by a cable. As the Tech Level increases, power packs gradually become integrated into the weapons themselves.
 
-All energy weapons come with a power pack that can be recharged using a ship’s power plant or another power source. It takes eight hours to recharge a power pack and switching from one pack to another is a Minor Action.
+All energy weapons come with a power pack that can be recharged using a ship's power plant or another power source. It takes eight hours to recharge a power pack and switching from one pack to another is a Minor Action.
 
 These weapons require the Gun Combat (energy) skill.
 
@@ -4161,7 +4161,7 @@ Grenade Launcher
 
 **Machinegun:** A larger and less portable version of the autorifle, the machinegun may be relatively low tech but it is capable of sawing even armored targets in half.
 
-**PGHP:** The Plasma Gun, Human Portable is the standard assault weapon of the marines. It is so heavy and bulky that it can only be used easily by a trooper in battle dress. It is powered by a built-in micro-fusion generator and fires a high-energy plasma stream. More advanced plasma guns adjust the weapon’s optimum range and plasma temperature.
+**PGHP:** The Plasma Gun, Human Portable is the standard assault weapon of the marines. It is so heavy and bulky that it can only be used easily by a trooper in battle dress. It is powered by a built-in micro-fusion generator and fires a high-energy plasma stream. More advanced plasma guns adjust the weapon's optimum range and plasma temperature.
 
 **RAM Grenade Launcher:** Rocket Assisted Multi- purpose grenade launchers have a longer range and are capable of firing up to three grenades with a single attack. They may be equipped with any normal type of grenade.
 
@@ -4207,11 +4207,11 @@ Weapons can be customised to a massive degree. Listed here are just some of the 
 
 **Intelligent Weapon (TL11):** This adds Computer/0 to any weapon. Costs Cr1000. TL13: This adds Computer/1 to any weapon. Costs Cr5000.
 
-**Laser Sight (TL8):** Integrated optics and laser sights grant DM+1 to any attack made at less than 50 meters. Costs Cr200. TL10: Ultraviolet lasers and improved display technology removes the tell-tale ‘red dot’ of a vislight laser.
+**Laser Sight (TL8):** Integrated optics and laser sights grant DM+1 to any attack made at less than 50 meters. Costs Cr200. TL10: Ultraviolet lasers and improved display technology removes the tell-tale 'red dot' of a vislight laser.
 
 Scope (TL5): A high-quality telescopic scope for attachment to a rifle or heavy weapon, allowing accurate shots to be made at extreme ranges. Any rifle or heavy weapon equipped with this gains the Scope trait. Costs Cr50. TL7: Adds image enhancement and light intensification, allowing the scope to be used in low- light environments without penalty.
 
-Secure Weapon (TL10): A secure weapon requires authentication in some fashion (scanning the user’s DNA or iris patterns, entering a password, transmission of an unlocking code from a comm) before it can be fired. Costs Cr250.
+Secure Weapon (TL10): A secure weapon requires authentication in some fashion (scanning the user's DNA or iris patterns, entering a password, transmission of an unlocking code from a comm) before it can be fired. Costs Cr250.
 
 Suppressor (TL8): A suppressor can be added to any non-automatic slug thrower, masking the sound produced by firing. Costs Cr250.
 
@@ -4286,12 +4286,12 @@ Cost: How much it costs to purchase the vehicle.
 
 CRUISING SPEED The Speed of vehicles in Traveller shows the maximum rate at which the vehicle can normally travel. The Range will show the distance they can travel while at this maximum speed.
 
-However, most vehicles will rarely travel at their maximum speed and will instead cruise to maintain a better balance of speed and endurance. The cruising speed of any vehicle is assumed to be one Speed Band lower than the vehicle’s maximum speed and if it maintains this rate of movement, its Range will increase by 50%.
+However, most vehicles will rarely travel at their maximum speed and will instead cruise to maintain a better balance of speed and endurance. The cruising speed of any vehicle is assumed to be one Speed Band lower than the vehicle's maximum speed and if it maintains this rate of movement, its Range will increase by 50%.
 
 COMBAT Combat in and on vehicles is much the same as ordinary combat, although there are some differences.
 
 •  Unlike people, who are mobile and manoeuvrable, careful track must be kept of which way a vehicle is facing. Vehicle-mounted weapons and to a lesser extent armed passengers, are restricted to certain fire arcs.
-•  Vehicles are considered to move on the driver’s Initiative. The driver must spend a Minor Action every round to keep control of the vehicle under normal circumstances – a straight road or simple maneuvers – or a Significant Action to navigate obstacles, conduct evasion or pursue a target.
+•  Vehicles are considered to move on the driver's Initiative. The driver must spend a Minor Action every round to keep control of the vehicle under normal circumstances – a straight road or simple maneuvers – or a Significant Action to navigate obstacles, conduct evasion or pursue a target.
 
 CLOSED VEHICLES Closed vehicles include typical cars, g/carriers, tanks and other vehicles with crew and passengers within a protective enclosed hull. All vehicles are assumed to be closed unless otherwise stated.
 
@@ -4308,17 +4308,17 @@ VEHICULAR ACTIONS These are all significant actions that the driver (or pilot) o
 
 Dogfight: A vehicle within one kilometer and within one Speed Band of another may initiate a dogfight. This is a series of maneuvers whereby the driver of one vehicle attempts to gain a position of advantage over another and, hopefully, destroy it.
 
-The drivers of both vehicles make opposed skill checks using the skill appropriate to their vehicle (Drive, Flyer, or Seafarer), modified by their vehicle’s Agility as normal. For every additional enemy engaging in the dogfight, DM-1 is applied.
+The drivers of both vehicles make opposed skill checks using the skill appropriate to their vehicle (Drive, Flyer, or Seafarer), modified by their vehicle's Agility as normal. For every additional enemy engaging in the dogfight, DM-1 is applied.
 
-A draw means that neither vehicle may attack the other unless it possesses a weapon in a turret. The winner may choose to place their opponent’s vehicle in a fire arc of their choice and may choose which of the opposing vehicle’s fire arcs their own vehicle lies in.
+A draw means that neither vehicle may attack the other unless it possesses a weapon in a turret. The winner may choose to place their opponent's vehicle in a fire arc of their choice and may choose which of the opposing vehicle's fire arcs their own vehicle lies in.
 
-In this way, the winner of a dogfight can ensure all their forward facing weapons can attack their enemy while ensuring they stay out of their opponent’s forward facing (and the weapons present there). In addition, the winner of a dogfight gains DM+2 to all their attack rolls for this round while the loser suffers DM-2.
+In this way, the winner of a dogfight can ensure all their forward facing weapons can attack their enemy while ensuring they stay out of their opponent's forward facing (and the weapons present there). In addition, the winner of a dogfight gains DM+2 to all their attack rolls for this round while the loser suffers DM-2.
 
-If one of the vehicles’ drivers chooses to initiate a dogfight again in the following combat round, the winner of the previous dogfight applies the difference between that round’s opposed check as a positive DM to this round’s opposed check.
+If one of the vehicles' drivers chooses to initiate a dogfight again in the following combat round, the winner of the previous dogfight applies the difference between that round's opposed check as a positive DM to this round's opposed check.
 
-Evasive Action: The driver may declare they are taking evasive action when their turn arrives. They make a skill check (the skill being determined by the type of vehicle and do not forget to apply the vehicle’s Agility!) and the Effect acts as a negative DM to all attacks against the vehicle or its passengers. The Effect also acts as a negative DM to any attacks made
+Evasive Action: The driver may declare they are taking evasive action when their turn arrives. They make a skill check (the skill being determined by the type of vehicle and do not forget to apply the vehicle's Agility!) and the Effect acts as a negative DM to all attacks against the vehicle or its passengers. The Effect also acts as a negative DM to any attacks made
 
-from the vehicle too, as the sudden movement will make aimed attacks difficult. This lasts until the driver’s next action.
+from the vehicle too, as the sudden movement will make aimed attacks difficult. This lasts until the driver's next action.
 
 **Maneuver:** A driver can maneuver their vehicle without making any skill checks. This allows the vehicle to avoid large or obvious obstacles, get to where it is going, move out of one fire arc of an enemy vehicle and into a different one, or change the fire arc a single target is in. More extreme maneuvers are covered by the Stunt action.
 
@@ -4332,7 +4332,7 @@ VEHICLE WEAPONS Attacking with ranged weapons mounted upon a vehicle uses the sa
 
 •  Firing a vehicle-mounted weapon uses the Heavy Weapons (vehicle) skill.
 •  The Range of weapons designed to be mounted on vehicles is noted in kilometers, not meters.
-•  All weapons mounted on a closed vehicle may not be used to attack targets within 5% of the weapon’s Range. They are simply not designed to engage close targets.
+•  All weapons mounted on a closed vehicle may not be used to attack targets within 5% of the weapon's Range. They are simply not designed to engage close targets.
 •  Note that unless a vehicle-mounted weapon has the Scope trait (see page 79), all attacks made at a range greater than one kilometer (as opposed to 100 meters for Travellers shooting on foot) are automatically considered to be Extreme range.
 •  Weapons mounted on vehicles are subject to fire arcs.
 •  An additional DM-1 is imposed on all attack rolls for every Speed Band difference between the attacker and its target. This applies to Passengers firing from the vehicle as well.
@@ -4359,7 +4359,7 @@ Fixed Mount Rear Facing Fire Arc
 
 DAMAGING VEHICLES Once the total amount of damage a weapon is causing has been calculated, any armor the vehicle has is deducted from it. Some vehicles have different armor scores on different facings – the armor used against a weapon is always the facing the attack is made from. Basically, if an attack is made to the side of a vehicle, the vehicle will use its side armor against the attack.
 
-The remaining damage is the total that is removed from the vehicle’s Hull. Once a vehicle has been reduced to zero Hull, it is wrecked and becomes totally inoperable and is normally beyond any repair although parts may be salvaged.
+The remaining damage is the total that is removed from the vehicle's Hull. Once a vehicle has been reduced to zero Hull, it is wrecked and becomes totally inoperable and is normally beyond any repair although parts may be salvaged.
 
 VEHICLE ARMOR Even on dedicated military vehicles, the roof and floor tend to be weak points in their structure that a canny enemy can exploit. Unless otherwise stated, all vehicles will use half the value of their side armor against attacks on the roof and half the value of their rear armor against attacks on the floor.
 
@@ -4375,7 +4375,7 @@ If a critical hit has been inflicted upon a vehicle, roll 2D and then consult th
 
 The Severity of the critical hit is equal to the Effect of the attack roll minus 5. Consult the Critical Hit Effects table to determine the nature of the critical hit and how
 
-it affects the vehicle. Any extra damage caused by the effects of critical hits ignores the vehicle’s Armor.
+it affects the vehicle. Any extra damage caused by the effects of critical hits ignores the vehicle's Armor.
 
 If a vehicle has already sustained a critical hit to a location that receives another, use the Severity of the new critical hit or the original plus one, whichever is higher and immediately apply any new effects. Once a location has reached Severity 6, it cannot suffer any more critical hits. Instead, the vehicle will receive 6D extra damage every time the location suffers another critical hit.
 
@@ -4527,9 +4527,9 @@ Vehicle Weapons Weapon TL Range Damage Tons Cost Magazine Magazine Cost Traits C
 
 communicators become possible. The standard range of the communications system is five kilometers but the range of any communicator can be multiplied by itself by doubling the cost. TL6 : Range increases to 50km. TL8 : Range increases to 500km and can communicate with overhead satellites. Can also use lasers or masers to precisely aim a signal so it cannot be intercepted. TL15 : Range increase to 5,000km.
 
-Entertainment System : At lower Tech Levels this will be purely audio but video becomes possible very quickly. The cost indicated represents a basic entertainment system found on many stock civilian vehicles but Travellers are welcome to spend almost any amount to create a custom entertainment system that could be fairly described as ‘well banging, innit’.
+Entertainment System : At lower Tech Levels this will be purely audio but video becomes possible very quickly. The cost indicated represents a basic entertainment system found on many stock civilian vehicles but Travellers are welcome to spend almost any amount to create a custom entertainment system that could be fairly described as 'well banging, innit'.
 
-Navigation : From simple GPS systems to intelligent location-scanning guidance systems, this equipment helps a vehicle’s crew find their way around. Provides DM+1 to all Navigation checks. Improved: Provides DM+2 to all Navigation checks. Advanced: Provides DM+3 to all Navigation checks.
+Navigation : From simple GPS systems to intelligent location-scanning guidance systems, this equipment helps a vehicle's crew find their way around. Provides DM+1 to all Navigation checks. Improved: Provides DM+2 to all Navigation checks. Advanced: Provides DM+3 to all Navigation checks.
 
 Off-road : Any vehicle that uses the Drive skill may be modified to go off-road. This lowers the Speed of the vehicle by one Speed Band and costs 50% of what the vehicle itself originally cost.
 
@@ -4674,7 +4674,7 @@ This chapter covers operations and encounters in space, other than combat betwee
 
 SPACECRAFT The term spacecraft covers any interplanetary or interstellar vehicle – anything that can travel through space under its own power. There are subdivisions of spacecraft that further define these vessels.
 
-Ship: A spacecraft of 100 tons or more. Small Craft: A spacecraft of less than 100 tons. Small craft are incapable of jumping to other star systems. Capital Ship: A ship of more than 5,000 tons. System Ship: A ship without jump drives. Streamlined Hull: A ship designed to fly through atmosphere – will feature a wing or lifting body. Partially Streamlined Hull: These ships may enter atmospheres but are not specifically designed to do so and are extremely ungainly. Unstreamlined Hull: These ships are completely non-aerodynamic. While they can potentially enter atmospheres, this tends to be very dangerous.
+Ship: A spacecraft of 100 tons or more. Small Craft: A spacecraft of less than 100 tons. Small craft are incapable of jumping to other star systems. [[Capital]] Ship: A ship of more than 5,000 tons. System Ship: A ship without jump drives. Streamlined Hull: A ship designed to fly through atmosphere – will feature a wing or lifting body. Partially Streamlined Hull: These ships may enter atmospheres but are not specifically designed to do so and are extremely ungainly. Unstreamlined Hull: These ships are completely non-aerodynamic. While they can potentially enter atmospheres, this tends to be very dangerous.
 
 The size of a ship, its components and cargo is measured in displacement tons or simply tons. A displacement ton displaces a volume equal to one ton of liquid hydrogen. One displacement ton is roughly equal to 14 cubic meters.
 
@@ -4736,7 +4736,7 @@ LANDING Landing at a starport requires a Routine (6+) Pilot check
 (1D x 10 seconds) but most pilots will take 1D minutes to perform a landing and gain DM+2 on the task.
 
 Ships have landing gear, allowing them to touch down
-‘in the wild’, which requires an Average (8+), Difficult
+'in the wild', which requires an Average (8+), Difficult
 (10+) or even Very Difficult (12+) Pilot check, depending
 
 on local terrain. They can also land on bodies of water. Failing a Pilot check while attempting a landing means the ship has landed improperly or even crashed.
@@ -4753,9 +4753,9 @@ A ship needs the following Power points available for each of these listed syste
 
 Basic Ship Systems: This includes everything a ship needs for day-to-day operations, including artificial gravity, heating, lighting and life support. The amount of Power needed for basic ship systems is equal to 20% of the total tonnage of the hull.
 
-Maneuver Drive: In order to use the maneuver drive, the ship requires an amount of Power equal to 10% of the hull’s total tonnage multiplied by the ship’s maximum Thrust.
+Maneuver Drive: In order to use the maneuver drive, the ship requires an amount of Power equal to 10% of the hull's total tonnage multiplied by the ship's maximum Thrust.
 
-Jump Drive: In order to use the jump drive, the ship requires an amount of Power equal to 10% of the hull’s total tonnage multiplied by the ship’s maximum jump range. Note that this Power requirement is only needed when the ship actually initiates a jump – at all other times, the jump drive remains inert.
+Jump Drive: In order to use the jump drive, the ship requires an amount of Power equal to 10% of the hull's total tonnage multiplied by the ship's maximum jump range. Note that this Power requirement is only needed when the ship actually initiates a jump – at all other times, the jump drive remains inert.
 
 Weapons: The Weapons and Power table summarises the requirements for various spacecraft armaments included in this book.
 
@@ -4763,21 +4763,21 @@ Weapons: The Weapons and Power table summarises the requirements for various spa
 
 System Power Required Beam Laser 4 Missile Rack 0 Particle Beam 8 Pulse Laser 4 Sandcaster 0 Turret 1
 
-**RUNNING OUT OF POWER** So long as a ship’s power plant is producing enough Power to run all systems, the spacecraft can operate normally. If, for any reason, the amount of Power available drops below this, the crew need to make some tough decisions, shutting down various systems so they are no longer a drain on the power plant.
+**RUNNING OUT OF POWER** So long as a ship's power plant is producing enough Power to run all systems, the spacecraft can operate normally. If, for any reason, the amount of Power available drops below this, the crew need to make some tough decisions, shutting down various systems so they are no longer a drain on the power plant.
 
 The consequences of shutting down various systems are detailed here. See the Space Combat chapter for ways a crew can shut down systems in battle and, potentially, increase the output of the power plant.
 
-Basic Ship Systems: Basic ship systems cover essentials such as life support, the ship’s computer and the gravitic systems providing artificial gravity, which are absolutely vital to the continued running of a ship. However, there are many non-essential systems that can be shut down on a temporary basis (the chicken soup dispenser on deck C is unlikely to be needed in battle, for example), which will halve the amount of Power needed for basic ship systems.
+Basic Ship Systems: Basic ship systems cover essentials such as life support, the ship's computer and the gravitic systems providing artificial gravity, which are absolutely vital to the continued running of a ship. However, there are many non-essential systems that can be shut down on a temporary basis (the chicken soup dispenser on deck C is unlikely to be needed in battle, for example), which will halve the amount of Power needed for basic ship systems.
 
-**Maneuver Drive:** The maneuver drive can be throttled back or shut off altogether. This will save an amount of Power equal to 10% of the ship’s total tonnage multiplied by the Thrust being deducted.
+**Maneuver Drive:** The maneuver drive can be throttled back or shut off altogether. This will save an amount of Power equal to 10% of the ship's total tonnage multiplied by the Thrust being deducted.
 
-**Jump Drive:** The jump drive does not ordinarily drain any Power until it is used – however, it is when a crisis has developed that has reduced a ship’s Power that the crew usually want to jump, so it will be more common for other systems to be shut down in order to allow the jump drive to function!
+**Jump Drive:** The jump drive does not ordinarily drain any Power until it is used – however, it is when a crisis has developed that has reduced a ship's Power that the crew usually want to jump, so it will be more common for other systems to be shut down in order to allow the jump drive to function!
 
 Weapons and Systems: Individual weapons and systems can be switched off on a temporary basis, regaining the amount of Power listed on the Weapons and Systems table.
 
 RUNNING COSTS
 
-AND MAINTENANCE A starship operator faces many costs every four weeks, which must be paid in order to carry on flying. This four week ‘block’ is often known as a Maintenance Period.
+AND MAINTENANCE A starship operator faces many costs every four weeks, which must be paid in order to carry on flying. This four week 'block' is often known as a Maintenance Period.
 
 Commercial starships usually make two jumps per Maintenance Period. They spend one week in jump, followed by one week in the star system, travelling from the jump point to the local world, refuelling, marketing cargo, finding passengers, leaving the starport and proceeding to a jump point again. The week in the system usually provides some time for crew recreation and exploring the planet.
 
@@ -4797,7 +4797,7 @@ Each occupied low berth costs Cr100 every Maintenance Period.
 
 Fuel: Fuel costs Cr500 per ton for refined fuel or Cr100 per ton for unrefined fuel. Fuel is required for both the jump drive and power plant.
 
-Repairs and Maintenance: A ship needs maintenance, which costs 0.1% of the total purchase price of the ship per year. Maintenance should be carried out every Maintenance Period (divide the year’s maintenance cost by 12 to find the Maintenance Period cost. Once per year this should be performed at a shipyard.
+Repairs and Maintenance: A ship needs maintenance, which costs 0.1% of the total purchase price of the ship per year. Maintenance should be carried out every Maintenance Period (divide the year's maintenance cost by 12 to find the Maintenance Period cost. Once per year this should be performed at a shipyard.
 
 If maintenance is skipped or skimped on, roll 2D every subsequent Maintenance Period, with a DM equal to the number of Maintenance Periods skipped. On 8+, the ship suffers a critical hit. Roll 2D on the Poor Maintenance table and apply the effects.
 
@@ -4807,7 +4807,7 @@ Crew Salaries: Salaries for hired crew members must be paid every Maintenance Pe
 
 Berthing Costs: Landing at a starport incurs a weekly cost, which varies wildly from world to world. See Starports on page 257.
 
-Poor Maintenance 2D Critical Hit Effect 2–4 Fuel Leak The spacecraft loses 1D x 10% of its fuel capacity. 5–7 Drive Damaged Roll 1D. On 1–3, the maneuver drive is hit; reduce Thrust by -1 and all Pilot checks suffer DM-1. On 4–6, the jump drive is hit and disabled – it may not be used until repaired. 8–9 Weapon Faulty One random turret (or weapon, if no turrets are present) is damaged DM-1 on all attack rolls made with it. 10–12 Power Plant The spacecraft’s Power is reduced by 25% and it takes 1D extra damage, ignoring armor. All crew suffer 2D x 10 rads per week.
+Poor Maintenance 2D Critical Hit Effect 2–4 Fuel Leak The spacecraft loses 1D x 10% of its fuel capacity. 5–7 Drive Damaged Roll 1D. On 1–3, the maneuver drive is hit; reduce Thrust by -1 and all Pilot checks suffer DM-1. On 4–6, the jump drive is hit and disabled – it may not be used until repaired. 8–9 Weapon Faulty One random turret (or weapon, if no turrets are present) is damaged DM-1 on all attack rolls made with it. 10–12 Power Plant The spacecraft's Power is reduced by 25% and it takes 1D extra damage, ignoring armor. All crew suffer 2D x 10 rads per week.
 
 Running Cost Summary Item Maintenance Period Cost Mortgage Varies on ship Life Support Cr1000 per stateroom, Cr100 per low berth, Cr1000 per person Fuel Cr500 per refined ton, Cr100 per unrefined ton Repairs and Maintenance 0.1% of purchase price, divided by 12 Salary: Pilot Cr6000 Salary: Astrogator Cr5000 Salary: Engineer Cr4000 Salary: Steward Cr2000 Salary: Medic Cr3000 Salary: Gunner Cr1000 Salary: Marine Cr1000
 
@@ -4910,14 +4910,14 @@ Some out-of-the-way places only offer unrefined fuel, at the bargain price of ju
 Either way, it typically takes 1D hours to refuel a typical ship.
 
 Salvage 2D Salvage 2D Salvage
-| 3 | or less Hazard! The ship’s reactor is damaged, the ship is about to break up, there is a virus loose aboard ship, an alien monster killed the crew... |
-| 4 | No Salvage: Nothing useful can be recovered. 9 Considerable Cargo: 2D x 10 tons of cargo (up to the derelict’s maximum cargo). |
+| 3 | or less Hazard! The ship's reactor is damaged, the ship is about to break up, there is a virus loose aboard ship, an alien monster killed the crew... |
+| 4 | No Salvage: Nothing useful can be recovered. 9 Considerable Cargo: 2D x 10 tons of cargo (up to the derelict's maximum cargo). |
 | 5 | Junk: Minor personal effects, spare parts, trophies and other junk. |
-| 6 | Fuel: 2D x 10 tons of fuel can be extracted from the salvage (not exceeding the derelict’s maximum capacity) |
+| 6 | Fuel: 2D x 10 tons of fuel can be extracted from the salvage (not exceeding the derelict's maximum capacity) |
 | 7 | Equipment: Items such as vacc suits, medical supplies, weapons, with a total value of 2D x Cr2000. |
-| 8 | Cargo: 2D tons of the derelict’s cargo. Roll D66 on the Trade Goods table (page 244) to determine the type. |
+| 8 | Cargo: 2D tons of the derelict's cargo. Roll D66 on the Trade Goods table (page 244) to determine the type. |
 | 10 | Interesting Artefact: An alien relic, useful personal data, mail cannister or other adventure hook – or maybe a survivor in a low berth. |
-| 11 | Fittings: Weapons turrets, ship’s computers or air/raft, with a total value of 2D x Cr250000 |
+| 11 | Fittings: Weapons turrets, ship's computers or air/raft, with a total value of 2D x Cr250000 |
 | 12 | Ship: The ship is potentially repairable. |
 
 A ship with fuel scoops may gather fuel from bodies of water using hoses. It may also scoop hydrogen from a gas giant, requiring a Difficult (10+) Pilot check (1D hours, DEX). Fuel gathered in the wild is unrefined but a ship with fuel processors may refine it. More notes on fuel scooping are covered in the Traveller Companion.
@@ -4943,7 +4943,7 @@ Jump!: Firing the jump drive requires an Easy (4+) Engineer (j-drive) check (1D 
 
 If this check is failed, then the ship misjumps.
 
-Divert Power: A jump drive requires a tremendous amount of power to function, which must be supplied by the ship’s power plant. On many vessels, especially older ships, the power plant strains to provide this much, leading to the tradition of ‘jump dimming’ where non-essential systems including lighting is shut down to allow for jump. If insufficient Power is available, the jump drive cannot be activated.
+Divert Power: A jump drive requires a tremendous amount of power to function, which must be supplied by the ship's power plant. On many vessels, especially older ships, the power plant strains to provide this much, leading to the tradition of 'jump dimming' where non-essential systems including lighting is shut down to allow for jump. If insufficient Power is available, the jump drive cannot be activated.
 
 JUMP TRAVEL When making a jump, a ship will use an amount of fuel equal to 10% of its hull tonnage for every parsec jumped. For example, if a 200-ton ship makes a two parsec jump, it will require 40 tons of fuel (10% of 200 tons = 20, multiplied by two parsecs = 40 tons).
 
@@ -4958,7 +4958,7 @@ MISJUMPS On rare occasions, normally because of a lack of maintenance or using u
 
 differently, so that trillions of subjective years pass inside the bubble and all that comes out the other end is hard radiation caused by protons exceeding their half-life.
 
-If the Engineer (j-drive) check made to initiate a jump is failed by an Effect of -1, the ship will arrive in the target system but appear 1D days later than normal. At the referee’s option, roll an additional 1D – this is the number of extra days the ship spends in jumpspace from the point of view of the crew (the relativity error generated by this misjump causes a difference in perceived time aboard the ship and the rest of the universe).
+If the Engineer (j-drive) check made to initiate a jump is failed by an Effect of -1, the ship will arrive in the target system but appear 1D days later than normal. At the referee's option, roll an additional 1D – this is the number of extra days the ship spends in jumpspace from the point of view of the crew (the relativity error generated by this misjump causes a difference in perceived time aboard the ship and the rest of the universe).
 
 If the Engineer (j-drive) check made to initiate a jump is failed by an Effect of -2, the ship will arrive in the target system but find itself a number of 100-diameters away from the intended world multiplied by 1D.
 
@@ -4971,19 +4971,19 @@ The process of finding paying passengers is detailed in the Trade chapter. Howev
 High Passage: The passenger gets the best possible treatment. The passenger receives a stateroom and one ton of cargo space for baggage and can expect high-quality entertainment. One level of the Steward skill is required for every 10 high passengers.
 
 Middle Passage: Middle passage is generally sold on a stand-by basis so middle passengers can be
-‘bumped’ by high passengers who arrive later – many ships will only take middle passengers if they cannot fill staterooms with high passage clients or lack enough stewards. Baggage allowance is 100kg. One level of the Steward skill is required for every 100 middle passengers. A Traveller with Steward 0 can provide suitable services for 10 middle passengers.
+'bumped' by high passengers who arrive later – many ships will only take middle passengers if they cannot fill staterooms with high passage clients or lack enough stewards. Baggage allowance is 100kg. One level of the Steward skill is required for every 100 middle passengers. A Traveller with Steward 0 can provide suitable services for 10 middle passengers.
 
-Basic Passage: Also called steerage, this is where a ship’s captain tries to fill all available space with low-paying passengers. It is generally considered more trouble than it is worth but there is nearly always someone desperate enough to use basic passage. Two basic passengers can be crammed into one stateroom and other areas of the ship can be kitted out with simple bunks to carry more – two tons of space is required for every basic passenger not in a stateroom. Baggage allowance is 10kg.
+Basic Passage: Also called steerage, this is where a ship's captain tries to fill all available space with low-paying passengers. It is generally considered more trouble than it is worth but there is nearly always someone desperate enough to use basic passage. Two basic passengers can be crammed into one stateroom and other areas of the ship can be kitted out with simple bunks to carry more – two tons of space is required for every basic passenger not in a stateroom. Baggage allowance is 10kg.
 
 Working Passage: This is identical to middle passage but the passenger pays their way by serving on board ship in some capacity, usually fulfilling one of the crew positions.
 
-Low Passage: A low passenger is frozen in a low berth and counts as cargo. There is real danger to the passenger, as a Routine (6+) Medic check (1D x 10 minutes, INT) is required upon opening the capsule, applying the passenger’s END DM to the check.
+Low Passage: A low passenger is frozen in a low berth and counts as cargo. There is real danger to the passenger, as a Routine (6+) Medic check (1D x 10 minutes, INT) is required upon opening the capsule, applying the passenger's END DM to the check.
 
 A further DM+1 is applied if the ship is TL12 or higher, while non-humans suffer DM-2. An emergency low berth inflicts DM-1 on this check.
 
 If the check failed, the passenger does not survive.
 
-It is customary for the ship’s captain to contribute Cr10 from every low passage towards a lottery in which each low passenger randomly guesses how many will survive the trip. If the winner is among the dead, the captain collects the prize. The lottery is administered by a ship’s steward.
+It is customary for the ship's captain to contribute Cr10 from every low passage towards a lottery in which each low passenger randomly guesses how many will survive the trip. If the winner is among the dead, the captain collects the prize. The lottery is administered by a ship's steward.
 
 REMOTE OPERATIONS Some ships carry a variety of drones to enable their crew to perform tasks without leaving their ship or manoeuvring their vessel into hostile territory. Drones are piloted from their mother ship with the Electronics
 (remote ops) skill and can operate at up to Medium range (see page 165).
@@ -5066,7 +5066,7 @@ SPACECRAFT SECURITY Hijacking is one of the biggest threats faced by independent
 
 CAMERAS & SENSORS Most vessels have security cameras in public areas, such as the galley, cargo bay and lounge but not in private staterooms (although these can be added). Cameras can be viewed from any terminal by an authorized person. Internal sensors on a ship are limited to environmental detectors like smoke alarms and most ships are not calibrated to, say, detect heat traces or life signs within their own hull. It is possible to detect when a door is opened or closed, although these sensors can easily be disabled.
 
-COMPUTERS The difficulty to hack into a ship’s computer depends on what is being accessed and from where. Few ships require anything less than Very Difficult (12+) Electronics (computers) checks to access critical systems from outside the ship but often the security system will apply only to these external connections and a hacker inside the ship will only face Average (8+) Electronics (computers) checks.
+COMPUTERS The difficulty to hack into a ship's computer depends on what is being accessed and from where. Few ships require anything less than Very Difficult (12+) Electronics (computers) checks to access critical systems from outside the ship but often the security system will apply only to these external connections and a hacker inside the ship will only face Average (8+) Electronics (computers) checks.
 
 **Ship Software**
 
@@ -5078,7 +5078,7 @@ Allows jumps of up to the specified number. Incorporates astrogation software an
 
 Evade/1 Evade/2 Evade/3
 
-The computer reacts automatically to incoming fire, applying a negative DM equal to the Evade program’s score to all attacks.
+The computer reacts automatically to incoming fire, applying a negative DM equal to the Evade program's score to all attacks.
 
 Fire Control/1 Fire Control/2 Fire Control/3 Fire Control/4 Fire Control/5
 
@@ -5086,13 +5086,13 @@ Allows the computer to fire a number of turrets per round equal to the listed nu
 
 Allows the computer to make a number of repair attempts per round equal to the listed number. Alternatively, it can give a positive DM to a repair attempt equal to the listed number or any combination of the two. Requires the ship to carry repair drones. Library 8 0 Included Contains a wealth of data on numerous subjects.
 
-Gaining access to the ship’s records requires an Average (8+) Electronics (computers) check. Convincing the computer you are a member of the crew is Difficult (10+). Overriding security systems is Very Difficult (12+) and gaining control of key systems like navigation or power is Formidable (14+).
+Gaining access to the ship's records requires an Average (8+) Electronics (computers) check. Convincing the computer you are a member of the crew is Difficult (10+). Overriding security systems is Very Difficult (12+) and gaining control of key systems like navigation or power is Formidable (14+).
 
-Note that Security software (see page 110) can be installed on a ship’s computer to make a hacker’s job even harder.
+Note that Security software (see page 110) can be installed on a ship's computer to make a hacker's job even harder.
 
 LOCKS Doors, airlocks, lockers and other secure panels are locked. In general, external locks are tougher than internal ones (increasing the difficulty by one level). Locks used on spacecraft are generally electronic but other types are possible.
 
-Mechanical: Requiring a key or combination. These can be opened with an Average (8+) Mechanics check or by stealing a key/learning the combination. Electronic: Requiring a keycard or combination. These can be opened with a Difficult (10+) Electronics (computers) check or by stealing a key/ learning the combination. Biometric: Requiring a voiceprint, DNA test, palm print or retina scan. These can be opened with a Very Difficult (12+) Electronics (computers) check or by stealing a sample from an authorized person. Intelligent: Intelligent locks recognise authorized crew. These can be opened with a Very Difficult (12+) Electronics (computers) check or by hacking the ship’s computer.
+Mechanical: Requiring a key or combination. These can be opened with an Average (8+) Mechanics check or by stealing a key/learning the combination. Electronic: Requiring a keycard or combination. These can be opened with a Difficult (10+) Electronics (computers) check or by stealing a key/ learning the combination. Biometric: Requiring a voiceprint, DNA test, palm print or retina scan. These can be opened with a Very Difficult (12+) Electronics (computers) check or by stealing a sample from an authorized person. Intelligent: Intelligent locks recognise authorized crew. These can be opened with a Very Difficult (12+) Electronics (computers) check or by hacking the ship's computer.
 
 Any non-mechanical lock can be opened or closed remotely if the crew wishes to allow this option (but then the doors can also be hacked). Bulkhead doors
 (also called iris valves) on a ship are airtight but others, such as those leading to staterooms, are not.
@@ -5101,7 +5101,7 @@ SECURITY SYSTEMS If a ship finds itself the target of hijacking or boarding, the
 
 Alarms: If an alarm is tripped (hull breach, fire, door being forced open, alarm button pressed), it will alert the crew. The location of the alarm will be shown on computer displays. A passenger ship may have several crew trained in combat; military ships will carry dedicated marines. Some vessels may even have security robots who respond automatically to alarms. Gravity: It is possible to alter the artificial gravity on board. Reducing gravity to zero will limit actions to
 
-the level of an attacker’s Athletics (dexterity) skill (see Zero Gravity on page 81). Gravity can also safely be increased up to 3G with an Electronics (computers) check, which will count as high gravity (see page 80). Tranq Gas: Some ships carry tranq gas canisters in the air vents, which can be released automatically. These flood a compartment with gas that forces END checks, with a cumulative DM-1 every round. Any Traveller who fails the END check is knocked unconscious for 2D minutes. Venting Atmosphere : If a compartment is connected to an airlock, then the air can be vented from that area. Travellers in that area must make a STR check to hang on and not be blown out into space and will also begin to suffocate.
+the level of an attacker's Athletics (dexterity) skill (see Zero Gravity on page 81). Gravity can also safely be increased up to 3G with an Electronics (computers) check, which will count as high gravity (see page 80). Tranq Gas: Some ships carry tranq gas canisters in the air vents, which can be released automatically. These flood a compartment with gas that forces END checks, with a cumulative DM-1 every round. Any Traveller who fails the END check is knocked unconscious for 2D minutes. Venting Atmosphere : If a compartment is connected to an airlock, then the air can be vented from that area. Travellers in that area must make a STR check to hang on and not be blown out into space and will also begin to suffocate.
 
 TRAVEL TIMES Spacecraft are extremely fast – however, space is very large and even with all their advanced technology, it still takes a long time to reach destinations. Worlds orbiting the same star are accessible by interplanetary travel, on ships operated by local entrepreneurs or with a variety of small craft.
 
@@ -5133,7 +5133,7 @@ Common Distances for Traders Object to Object Distance Time at 1G Time at 2G Wor
 Clashes between spacecraft in Traveller can involve small, faster craft, zipping between asteroids as they snap laser blasts off at one another or battles taking place over distances of thousands of kilometers, sometimes over long hours. These battles are slow, calculated affairs, with spears of brilliant light lancing out into the darkness across relativistic distances, aimed at where the enemy is predicted to be.
 
 The former type of battle takes place at short range, often close enough for crews to visually sight their enemy through a viewport. This kind of close ranged
-‘knife fight’ uses rules very similar to those used between vehicles and is summarized on page 138. It can be likened to swirling aerial dogfights where pilots are flying by the seat of their pants in order to get a shot at the enemy.
+'knife fight' uses rules very similar to those used between vehicles and is summarized on page 138. It can be likened to swirling aerial dogfights where pilots are flying by the seat of their pants in order to get a shot at the enemy.
 
 Most space combat, however, will take place at ranges far beyond the visual, where distances are so great that even weapons that function at the speed of light have to adjust for relative motion. This kind of battle can be likened to submarine warfare, where decisions have to be weighed and the environment is both methodical and claustrophobic.
 
@@ -5155,7 +5155,7 @@ Pilot: Flies the ship, responsible for changing course and making evasive maneuv
 
 A list of possible actions related to each duty can be found on page 171.
 
-AUTOMATED DUTIES A ship’s computer can cover several duties if it is running the appropriate software.
+AUTOMATED DUTIES A ship's computer can cover several duties if it is running the appropriate software.
 
 •  Fire Control programs can either act as gunners or assist gunners.
 •  A ship equipped with repair drones and Auto-Repair software can perform damage control.
@@ -5176,7 +5176,7 @@ Most hostile encounters in space will start at Very Long or Distant ranges, when
 
 INITIATIVE Once the relative positions of ships have been determined and crew assigned to duties, the battle begins. Initiative is rolled once for each ship as usual when the combat begins but with spacecraft you roll the following:
 
-2D + the pilot’s Pilot skill + the ship’s Thrust score
+2D + the pilot's Pilot skill + the ship's Thrust score
 
 Ships with better pilots and faster maneuver drives will therefore be quicker to act in space combat.
 
@@ -5296,7 +5296,7 @@ Sandcaster: Although mounted in turrets and of use against boarders, the sandcas
 
 MOUNTING WEAPONS A spacecraft weapon can be attached to a fixed mount or a turret. Fixed mounts can only be fired directly forward and, where present, are noted in the Common Spacecraft chapter.
 
-Turrets are sometimes fitted to a spacecraft as standard but may be added to any ship that has a hull of 100 tons or more. Every 100 tons of the ship’s hull allows one turret to be installed so, for example, a 600 ton ship could have up to six turrets installed.
+Turrets are sometimes fitted to a spacecraft as standard but may be added to any ship that has a hull of 100 tons or more. Every 100 tons of the ship's hull allows one turret to be installed so, for example, a 600 ton ship could have up to six turrets installed.
 
 Turrets Mount TL Tons Cost Single Turret 7 1 MCr0.2 Double Turret 8 1 MCr0.5 Triple Turret 9 1 MCr1
 
@@ -5315,14 +5315,14 @@ Missiles are handled differently when in double or triple turrets, so do not get
 
 DAMAGING SPACECRAFT Once the total amount of damage a weapon is causing has been calculated, applying the Effect of the attack roll to the damage rolled as normal, the Armor of the spacecraft is deducted.
 
-The remaining damage is the total that is removed from the spacecraft’s Hull. Once a spacecraft has been reduced to zero Hull, it is wrecked and becomes totally inoperable and is beyond any economic repair
+The remaining damage is the total that is removed from the spacecraft's Hull. Once a spacecraft has been reduced to zero Hull, it is wrecked and becomes totally inoperable and is beyond any economic repair
 (although see the guidelines for salvage on page 156). Those on board will find themselves without power or life support.
 
 CRITICAL HITS If an attack roll against a spacecraft has an Effect of 6 or higher and it causes damage (rather than just bouncing off armor), a critical hit has been scored – some vital system has been damaged by the attack, reducing the effectiveness of the spacecraft.
 
 If a critical hit has been inflicted upon a spacecraft, roll 2D and then consult the Critical Hits Location table. If a particular location does not apply to this spacecraft, roll again.
 
-The Severity of the critical hit is equal to the Effect of the attack roll minus 5. Consult the Critical Hit Effects table to determine the nature of the critical hit and how it affects the spacecraft. Any extra damage caused by the effects of critical hits ignores the spacecraft’s Armor.
+The Severity of the critical hit is equal to the Effect of the attack roll minus 5. Consult the Critical Hit Effects table to determine the nature of the critical hit and how it affects the spacecraft. Any extra damage caused by the effects of critical hits ignores the spacecraft's Armor.
 
 If a spacecraft has already sustained a critical hit to a location that receives another, use the Severity of the new critical hit or the original plus one, whichever is higher and immediately apply any new effects. Once a location has reached Severity 6, it cannot suffer any more critical hits. Instead, the spacecraft will receive 6D extra damage every time the location suffers another critical hit.
 
@@ -5470,7 +5470,7 @@ REACTIONS Just as in other forms of combat, those on board a spacecraft can perf
 
 **EVASIVE ACTION (PILOT)** The pilot of a spacecraft may dodge incoming attacks, so long as the spacecraft has unspent Thrust after movement and combat manoeuvring.
 
-Each point of unspent Thrust will allow the spacecraft to attempt to dodge one attack. The attack suffers a negative DM equal to the pilot’s skill.
+Each point of unspent Thrust will allow the spacecraft to attempt to dodge one attack. The attack suffers a negative DM equal to the pilot's skill.
 
 **POINT DEFENCE (GUNNER)** Using a turret-mounted laser (beam or pulse), a gunner can destroy incoming missiles. Note that a weapon used for point defence cannot be used to make attacks in the same combat round and vice versa. Point Defence may only be performed against missile salvos
 (see page 172) as they are about to make their attack roll against a target – missiles are too small and too fast to be targeted at greater ranges. A gunner may only attempt Point Defence once every round.
@@ -5479,7 +5479,7 @@ The gunner must succeed at a Gunner (turret) check against any missile salvo tha
 
 **DISPERSE SAND (GUNNER)** While cheap and versatile, laser weapons are easily foiled by dispersed particles or sand as it is often called. Sandcasters are designed to create temporary defences against incoming laser attacks.
 
-Using a turret-mounted sandcaster, a gunner can attempt to block laser attacks. The gunner must succeed at a Gunner (turret) check against a laser weapon and, if successful, will add 1D plus the Effect of the check to the ship’s armor against that laser attack only. Each Disperse Sand reaction uses one canister of sand.
+Using a turret-mounted sandcaster, a gunner can attempt to block laser attacks. The gunner must succeed at a Gunner (turret) check against a laser weapon and, if successful, will add 1D plus the Effect of the check to the ship's armor against that laser attack only. Each Disperse Sand reaction uses one canister of sand.
 
 Sand may also be directed against incoming boarding parties. If the Gunner (turret) check is successful, each target in the boarding party suffers 8D point of damage at Ground scale (so do not multiply it).
 
@@ -5491,9 +5491,9 @@ JUMP (ENGINEER) See Jump Travel on page 157. Jumping in combat is the same as ju
 
 OFFLINE SYSTEM (ENGINEER) Specific systems and weapons on board the ship can be powered down to reduce the energy requirement from the power plant, allowing Power to be used for other systems. A successful Engineer (power) check (1 round, EDU) will allow the engineer to shut down any number of systems, freeing up Power for subsequent rounds. It requires another round to bring any of these systems back online.
 
-OVERLOAD DRIVE (ENGINEER) By overloading the maneuver drive, the engineer can lend the ship extra speed and manoeuvrability. A successful Difficult (10+) Engineer (m-drive) check (1 round, INT) will increase the ship’s Thrust by +1 during the next round. If the check fails with an Effect of –6 or less, the maneuver drive suffers a critical hit with Severity 1, as detailed on page 168. This check suffers a cumulative DM–2 each time it is attempted after the first. This penalty can be removed by performing maintenance on the drive, a procedure that requires Engineer (m-drive) and 1D hours.
+OVERLOAD DRIVE (ENGINEER) By overloading the maneuver drive, the engineer can lend the ship extra speed and manoeuvrability. A successful Difficult (10+) Engineer (m-drive) check (1 round, INT) will increase the ship's Thrust by +1 during the next round. If the check fails with an Effect of –6 or less, the maneuver drive suffers a critical hit with Severity 1, as detailed on page 168. This check suffers a cumulative DM–2 each time it is attempted after the first. This penalty can be removed by performing maintenance on the drive, a procedure that requires Engineer (m-drive) and 1D hours.
 
-OVERLOAD PLANT (ENGINEER) A favorite of engineers on action vids, the power plant can be overstressed on a temporary basis to provide the ship with more Power. A successful Difficult (10+) Engineer (power) check (1 round, INT) will increase the ship’s current Power by +10% during the next round. If the check fails with an Effect of –6 or less, the power plant suffers a critical hit with Severity 1, as detailed on page 168. This check suffers a cumulative DM–2
+OVERLOAD PLANT (ENGINEER) A favorite of engineers on action vids, the power plant can be overstressed on a temporary basis to provide the ship with more Power. A successful Difficult (10+) Engineer (power) check (1 round, INT) will increase the ship's current Power by +10% during the next round. If the check fails with an Effect of –6 or less, the power plant suffers a critical hit with Severity 1, as detailed on page 168. This check suffers a cumulative DM–2
 
 each time it is attempted after the first. This penalty can be removed by performing maintenance on the power plant, a procedure that requires Engineer (power) and 1D hours.
 
@@ -5505,7 +5505,7 @@ RELOAD TURRET (GUNNER) During prolonged battles, turrets mounted with sandcaster
 
 SENSOR LOCK (SENSOR OPERATOR) An improved target lock may be obtained on an enemy spacecraft with a successful Electronics (sensors) check. Attacks made by the spacecraft against this target gain DM+2 until the sensor lock is broken (see Electronic Warfare).
 
-ELECTRONIC WARFARE (SENSOR OPERATOR) A ship’s sensor operator may attempt to jam the communications of an enemy by making an opposed Electronics (comms) check against the sensor operator in the target spacecraft. The same process may also be used with the Electronics (sensors) skill to break a sensor lock.
+ELECTRONIC WARFARE (SENSOR OPERATOR) A ship's sensor operator may attempt to jam the communications of an enemy by making an opposed Electronics (comms) check against the sensor operator in the target spacecraft. The same process may also be used with the Electronics (sensors) skill to break a sensor lock.
 
 BOARDING ACTION (MARINE) If two ships are at Adjacent range, it is possible to launch a boarding party to storm an enemy ship. Boarding actions are covered on page 175.
 
@@ -5554,9 +5554,9 @@ Instead, the number of missiles remaining in the salvo greatly affects their cha
 Note that missiles almost always have the Smart trait
 (see page 79). For missiles, use the TL of the missile itself or that of the attacking ship, whichever is greater.
 
-Finally, missiles launched at Distant range expend most of their fuel just reaching their target, leaving little to counter the target’s maneuvers. Missile salvos launched at Distant range suffer DM–2 to their attack rolls.
+Finally, missiles launched at Distant range expend most of their fuel just reaching their target, leaving little to counter the target's maneuvers. Missile salvos launched at Distant range suffer DM–2 to their attack rolls.
 
-IMPACT If an attack roll for a missile salvo is successful, the target will sustain damage. Roll for damage as if for a single missile and deduct the target’s armor as normal but do not apply the Effect of the attack roll. Instead, any damage is multiplied by the Effect of the attack roll but the Effect cannot be higher than the number of remaining missiles in the salvo.
+IMPACT If an attack roll for a missile salvo is successful, the target will sustain damage. Roll for damage as if for a single missile and deduct the target's armor as normal but do not apply the Effect of the attack roll. Instead, any damage is multiplied by the Effect of the attack roll but the Effect cannot be higher than the number of remaining missiles in the salvo.
 
 VARIANT MISSILES High Guard introduces different types of missiles that are more accurate, carry more fuel or are faster but these rules suit the missiles included in the Traveller Core Rulebook. If a ship launches different types of missile at the same target in the same round, then all the missiles of each type are counted as a different salvo.
 
@@ -5568,7 +5568,7 @@ Dogfighting does not cost an action – it is automatic if two hostile vessels w
 
 Escaping from a Dogfight requires having greater Thrust than your enemy or for your enemy to be willing to let you leave. If neither of these conditions are true, then your only choice is to win the dogfight!
 
-DOGFIGHTS Battling spacecraft within Close or Adjacent range of one another use these ‘dogfight’ rules. This is a series of maneuvers whereby the pilot of one ship attempts to gain a position of advantage over another.
+DOGFIGHTS Battling spacecraft within Close or Adjacent range of one another use these 'dogfight' rules. This is a series of maneuvers whereby the pilot of one ship attempts to gain a position of advantage over another.
 
 Combat rounds in dogfights are six seconds long and follow the normal combat rules as detailed on page
 
@@ -5584,19 +5584,19 @@ For every additional enemy in the dogfight after the first
 
 -1
 
-Ship’s Thrust +1 per point of Thrust dedicated to dogfighting
+Ship's Thrust +1 per point of Thrust dedicated to dogfighting
 
-A draw means that neither ship may attack the other with fixed weapons. The winner may choose to place their opponent’s ship in a fire arc of their choice and may choose which of the opposing ship’s fire arcs their own vehicle lies in.
+A draw means that neither ship may attack the other with fixed weapons. The winner may choose to place their opponent's ship in a fire arc of their choice and may choose which of the opposing ship's fire arcs their own vehicle lies in.
 
-In this way, the winner of a dogfight can ensure all their forward facing weapons can attack their enemy while ensuring they stays out of their opponent’s forward facing (and the weapons present there). In addition, the winner of a dogfight gains DM+2 to all their attack rolls for this round while the loser suffers DM–2.
+In this way, the winner of a dogfight can ensure all their forward facing weapons can attack their enemy while ensuring they stays out of their opponent's forward facing (and the weapons present there). In addition, the winner of a dogfight gains DM+2 to all their attack rolls for this round while the loser suffers DM–2.
 
 Note that many weapons mounted on spacecraft are in turrets and are able to fire into any facing, meaning that dogfights will normally only force a penalty to the attack rolls of the loser, not remove their ability to fight.
 
-If the dogfight continues into the following combat round, the winner of the previous dogfight applies the difference between that round’s opposed Pilot check as a positive DM to this round’s opposed check.
+If the dogfight continues into the following combat round, the winner of the previous dogfight applies the difference between that round's opposed Pilot check as a positive DM to this round's opposed check.
 
 DOGFIGHTING VEHICLES The dogfighting rules used for spacecraft are compatible with those used for vehicles and may be used when a spacecraft enters an atmosphere and, perhaps, is forced to engage with jet or grav fighters. However, even relatively nimble space fighters are designed for battle across enormous distances in the void of space and will find themselves at a disadvantage against smaller and more nimble vehicles.
 
-In addition to the dogfighting modifiers listed, spacecraft suffer an additional DM–2 when dogfighting vehicles. In the spacecraft’s favor, very powerful engines can counter this, although a typical merchant will be very ponderous in a dogfight.
+In addition to the dogfighting modifiers listed, spacecraft suffer an additional DM–2 when dogfighting vehicles. In the spacecraft's favor, very powerful engines can counter this, although a typical merchant will be very ponderous in a dogfight.
 
 Spacecraft are capable of any Speed Band listed in the Vehicles chapter and will typically be going at Hypersonic speeds when entering an atmosphere.
 
@@ -5604,7 +5604,7 @@ DOGFIGHTING AND DISTANT ENEMIES Under normal circumstances, spacecraft involved 
 
 A dogfight will normally be over long before spacecraft outside it are able to act, as dogfights use six second rounds while space combat usually uses six minute rounds, so resolve the dogfight fully before moving back to space combat rounds.
 
-BOARDING ACTIONS There is little in space combat more exciting and terrifying than a boarding action. Marines launch themselves from a closely manoeuvring ship or dedicated small craft and hurl themselves at an enemy vessel in an attempt to gain entry and pacify the crew. These actions lead to vicious firefights with high- powered weaponry being used in the tight confines of a ship’s corridors.
+BOARDING ACTIONS There is little in space combat more exciting and terrifying than a boarding action. Marines launch themselves from a closely manoeuvring ship or dedicated small craft and hurl themselves at an enemy vessel in an attempt to gain entry and pacify the crew. These actions lead to vicious firefights with high- powered weaponry being used in the tight confines of a ship's corridors.
 
 Once two ships are within less than one kilometer of each other (Adjacent range), any marines on board can launch a boarding action during the Actions Step. A boarding action takes 2D rounds to complete, after which its results are decided.
 
@@ -5613,10 +5613,10 @@ Once two ships are within less than one kilometer of each other (Adjacent range)
 **Boarding Actions** Superior Armor +1 Superior Weaponry +1 Superior Skills and Tactics +2 Superior Numbers +1 Vastly Superior Numbers +3 Defender has no Marines on duty -2
 
 At their option, the referee may like to continue playing out the boarding action at the Ground scale on any
-‘fighting continues’ result. The attackers will have successfully gained entry to the enemy ship and will now be desperately trying to expand their way out of the beachhead. This will be an opportunity for the Travellers to make their own decisions when fighting the crew of the enemy ship and of what targets they will try to reach.
+'fighting continues' result. The attackers will have successfully gained entry to the enemy ship and will now be desperately trying to expand their way out of the beachhead. This will be an opportunity for the Travellers to make their own decisions when fighting the crew of the enemy ship and of what targets they will try to reach.
 
 Boarding Actions Total Result
--7 or less The attackers are soundly defeated. If the attacker’s ship is docked with the defender’s, the defenders may mount a new boarding action of their own and gain DM+4 on the roll to resolve it.
+-7 or less The attackers are soundly defeated. If the attacker's ship is docked with the defender's, the defenders may mount a new boarding action of their own and gain DM+4 on the roll to resolve it.
 -4 to -6 The attackers are defeated. The attackers must retreat back to their own ship or space – if they are unable to do so, they are killed or captured.
 -1 to -3 Fighting continues. Resolve the boarding again in another 1D rounds but the defender gains DM+2 to their roll. The ship being boarded loses 2D Hull. 0 Fighting continues. Resolve the boarding again in another 1D rounds. 1 to 3 Fighting continues. Resolve the boarding again in another 1D rounds but the attacker gains DM+2 to their roll. The ship being boarded loses 2D Hull. 4 to 6 The boarding action is successful and the ship being boarded suffers 1D damage, ignoring any armor. The attackers may take control of the ship after another 2D rounds of pacification. 7 or more The attackers storm the enemy ship and take control of it immediately.
 
@@ -5650,7 +5650,7 @@ INSTALL ARMOR All hulls provide some protection from celestial hazards but it is
 
 All hulls start with armor Protection +0, although this can be improved upon. Dispersed structure ships cannot be given increased armor.
 
-The Hull Armor table shows how much of the hull’s tonnage is consumed per point of Protection added, along with its costs. A minimum TL is required for each type of armor and there is a maximum amount that can be attached to a hull – this includes any armor the ship had prior to modification.
+The Hull Armor table shows how much of the hull's tonnage is consumed per point of Protection added, along with its costs. A minimum TL is required for each type of armor and there is a maximum amount that can be attached to a hull – this includes any armor the ship had prior to modification.
 
 Hull Armor Armor TL Tonnage Consumed Cost (as percentage of hull cost) Max. Protection Crystaliron 10 1.25% 5% TL or 13, (whichever is less) Bonded Superdense
 
@@ -5706,13 +5706,13 @@ spacecraft construction
 
 STEP 2: INSTALL DRIVES Once you have your basic hull complete, it is time to start filling it! The first items to add are the engines so the ship is able to move through space. These are divided into maneuver and jump drives. Maneuver drives use gravitic technology that pushes the ship through space – it is these that give a ship its Thrust score. Jump drives are special systems that allow a ship to travel faster-than-light across interstellar distances.
 
-To fit a maneuver drive, consult the Thrust Potential table and decide what Thrust score you want your ship to have. The figure below that Thrust score shows what percentage of the ship’s hull the maneuver drive requires.
+To fit a maneuver drive, consult the Thrust Potential table and decide what Thrust score you want your ship to have. The figure below that Thrust score shows what percentage of the ship's hull the maneuver drive requires.
 
 Maneuver drives are limited by TL, as shown on the table. You cannot select a maneuver or reaction drive with a higher TL than the shipyard that is building it. So, for example, a TL9 shipyard can only install maneuver drives that are a maximum of Thrust 1.
 
 Maneuver drives cost MCr2 per ton.
 
-Jump drives follow a very similar pattern. Select the jump score you wish your ship to have and use the Jump Potential table to find the percentage of the ship’s hull that the jump drive will consume, then add 5 tons.
+Jump drives follow a very similar pattern. Select the jump score you wish your ship to have and use the Jump Potential table to find the percentage of the ship's hull that the jump drive will consume, then add 5 tons.
 
 A jump drive must be a minimum of 10 tons.
 
@@ -5730,7 +5730,7 @@ Maneuver Drive Rating^123456789
 Rating 1 2 3 4 5 6
 % of Hull 2.5% 5% 7.5% 10% 12.5% 15% Jump TL 9 11 12 13 14 15
 
-STEP 3: INSTALL POWER PLANT The heart of a spacecraft is the power plant. Typically fusion-based, the power plant meets all the energy requirements for every system on the ship, from the massive amounts required for jump and maneuver drives to the expresso machine in the captain’s stateroom. Ships are typically built with power plants large enough to supply energy to all systems on a ship without interruption, although some cheaper vessels may require weapons and other systems to be off-lined while making a jump, for example.
+STEP 3: INSTALL POWER PLANT The heart of a spacecraft is the power plant. Typically fusion-based, the power plant meets all the energy requirements for every system on the ship, from the massive amounts required for jump and maneuver drives to the expresso machine in the captain's stateroom. Ships are typically built with power plants large enough to supply energy to all systems on a ship without interruption, although some cheaper vessels may require weapons and other systems to be off-lined while making a jump, for example.
 
 The Power Plant table illustrates the types of power plant available, how much Power they generate and their cost.
 
@@ -5740,9 +5740,9 @@ POWER REQUIREMENTS There are three main requirements a power plant must meet in 
 
 Basic Ship Systems: This includes everything a ship needs for day-to-day operations, including artificial gravity, heating, lighting and life support. The amount of Power needed for basic ship systems is equal to 20% of the total tonnage of the hull.
 
-Maneuver Drive: In order to use the maneuver drive, the ship requires an amount of Power equal to 10% of the hull’s total tonnage multiplied by the maximum Thrust the drive is capable of.
+Maneuver Drive: In order to use the maneuver drive, the ship requires an amount of Power equal to 10% of the hull's total tonnage multiplied by the maximum Thrust the drive is capable of.
 
-Jump Drive: In order to use the jump drive, the ship requires an amount of Power equal to 10% of the hull’s total tonnage multiplied by the maximum jump number the drive is capable of.
+Jump Drive: In order to use the jump drive, the ship requires an amount of Power equal to 10% of the hull's total tonnage multiplied by the maximum jump number the drive is capable of.
 
 spacecraft construction
 
@@ -5790,7 +5790,7 @@ Computers do not consume any tonnage on a ship
 
 - while they do have a physical presence, they are distributed throughout the ship and considered part of other components such as the bridge, staterooms and drives.
 
-**Jump Control Specialization (/bis):** A computer’s Processing score can be increased by +5 for the purposes of running Jump Control programs only by selecting this option. This increases the computer’s cost by +50%.
+**Jump Control Specialization (/bis):** A computer's Processing score can be increased by +5 for the purposes of running Jump Control programs only by selecting this option. This increases the computer's cost by +50%.
 
 STEP 7: INSTALL SENSORS All ships come equipped with basic communications, sensor and emission-control suites, usually as part of their bridge. However, specialized or military ships often benefit from more advanced systems that are far more sensitive and resistant to jamming.
 
@@ -5901,17 +5901,17 @@ Turrets and Fixed Mounts Mount TL Power Tons Cost Fixed Mount — 0 0 MCr0.1 Sin
 
 SPACECRAFT EQUIPMENT Beyond the basic drives, sensors and weapon systems, spacecraft can be customised to perform specialized functions in many different ways, giving rise to an unlimited amount of variation. These optional systems are covered here and many more can be found within High Guard. While they will be considered during the design of a spacecraft, most can be retrofitted to existing designs by any capable shipyard of sufficient Tech Level.
 
-While many options can be accommodated by any shipyard capable of building or repairing spacecraft, some require far more advanced technology. Where a minimum Tech Level is required for an option, this is listed in the option’s title.
+While many options can be accommodated by any shipyard capable of building or repairing spacecraft, some require far more advanced technology. Where a minimum Tech Level is required for an option, this is listed in the option's title.
 
-AEROFINS Extendible aerofins improve a spacecraft’s manoeuvrability in atmosphere, giving a far greater degree of control over its movements.
+AEROFINS Extendible aerofins improve a spacecraft's manoeuvrability in atmosphere, giving a far greater degree of control over its movements.
 
 A ship with aerofins deployed gains DM+2 to all Pilot checks when within an atmosphere.
 
-Aerofins consume 5% of the ship’s tonnage and cost MCr0.1 per ton.
+Aerofins consume 5% of the ship's tonnage and cost MCr0.1 per ton.
 
 Turret Weapons Weapon TL Range Power Damage Cost Traits Beam Laser 10 Medium 4 1D MCr0.5 — Missile Rack 7 Special 0 4D MCr0.75 Smart Particle Barbette 11 Very Long 15 4D MCr8 Radiation Pulse Laser 9 Long 4 2D MCr1 — Sandcaster 9 Special 0 Special MCr0.25 —
 
-CARGO CRANE Built into the ceiling of a cargo hold, this overhead gantry crane is designed to shift cargo containers in and out of the ship. The crane’s mechanism moves about the bay on a sliding jig and can extend beyond the cargo door on a gibbet to deposit freight directly onto a dockside or vehicle. The crane is strong enough to lift fully loaded 32 and 65 ton containers and can couple to most types of pallets or creates.
+CARGO CRANE Built into the ceiling of a cargo hold, this overhead gantry crane is designed to shift cargo containers in and out of the ship. The crane's mechanism moves about the bay on a sliding jig and can extend beyond the cargo door on a gibbet to deposit freight directly onto a dockside or vehicle. The crane is strong enough to lift fully loaded 32 and 65 ton containers and can couple to most types of pallets or creates.
 
 The traversing lift mechanism of a cargo crane consumes 2.5 tons but the gantry jigs require a further 0.5 tons per 150 tons of cargo space. Cargo cranes cost MCr1 per ton.
 
@@ -5927,9 +5927,9 @@ spacecraft construction
 
 When empty, collapsible tanks take up 1% of the tonnage they use when full. They cost Cr500 per ton.
 
-**CONCEALED COMPARTMENT** A smuggler’s favorite, concealed compartments are cunningly hidden from visual searches and shielded against sensors, allowing them to be used to transport contraband or other questionable items.
+**CONCEALED COMPARTMENT** A smuggler's favorite, concealed compartments are cunningly hidden from visual searches and shielded against sensors, allowing them to be used to transport contraband or other questionable items.
 
-Up to 5% of a ship’s tonnage may be designated as a concealed compartment and inflicts DM–2 to Electronics (sensors) checks and DM–4 to Investigate checks made to search for it.
+Up to 5% of a ship's tonnage may be designated as a concealed compartment and inflicts DM–2 to Electronics (sensors) checks and DM–4 to Investigate checks made to search for it.
 
 Concealed compartments cost Cr20000 per ton.
 
@@ -5979,7 +5979,7 @@ HOLOGRAPHIC CONTROLS (TL9) This bridge design incorporates advanced interactive 
 
 Holographic controls add +25% to the cost of the bridge.
 
-Holographic Hull (TL10) Multiple holographic projectors are embedded within the hull allowing the ship to change hull colours, add graphics and adopt a different appearance (although its shape remains the same). Changing the hull colour or adding a stored graphic can be done by anyone with access to the ship’s computer. Creating a complex colour scheme from scratch requires the talents of a skilled artist. Some young nobles try to outdo one another by changing the schemes daily or hiring artists to create the most complex scenes imaginable. Some pirates have made use of this system to simulate visual hull damage and lure other ships in with a GK distress call. However, most ship owner’s use it for the purposes of advertising.
+Holographic Hull (TL10) Multiple holographic projectors are embedded within the hull allowing the ship to change hull colours, add graphics and adopt a different appearance (although its shape remains the same). Changing the hull colour or adding a stored graphic can be done by anyone with access to the ship's computer. Creating a complex colour scheme from scratch requires the talents of a skilled artist. Some young nobles try to outdo one another by changing the schemes daily or hiring artists to create the most complex scenes imaginable. Some pirates have made use of this system to simulate visual hull damage and lure other ships in with a GK distress call. However, most ship owner's use it for the purposes of advertising.
 
 A holographic hull system costs Cr100000 per ton of hull and uses 1 Power for every two tons of hull. The projectors are small enough that they do not consume tonnage themselves.
 
@@ -6013,7 +6013,7 @@ One ton of environmental equipment is needed for every 20 tons of space designat
 
 spacecraft construction
 
-**SENSOR STATION** While every bridge has equipment dedicated to monitoring and controlling the ship’s sensors (even if this is tied into the pilot’s own screens), some ships benefit from having additional stations to handle an increased number of sensor operators. Some scout and survey ships feature additional sensor stations, while military vessels may feature similar stations dedicated to locating the enemy and electronic warfare.
+**SENSOR STATION** While every bridge has equipment dedicated to monitoring and controlling the ship's sensors (even if this is tied into the pilot's own screens), some ships benefit from having additional stations to handle an increased number of sensor operators. Some scout and survey ships feature additional sensor stations, while military vessels may feature similar stations dedicated to locating the enemy and electronic warfare.
 
 Each sensor station allows an additional sensor operator to perform actions, costs MCr0.5 and consumes one ton.
 
@@ -6051,7 +6051,7 @@ Spacecraft Quirks 2D Trader Military Other
 
 All the spacecraft in this chapter are in common use throughout the Third Imperium and equivalent designs will be found in most other universes too.
 
-OLDER SHIPS Many ships serve for decades or even centuries before being scrapped. Travellers and free traders are often forced by necessity to purchase outdated and damaged vessels instead of new and pristine ships. Travellers purchasing an outdated ship may do so by rolling on the Outdated Ships table. Older ships will have a number of ‘quirks’ that may affect their operation, rolled for on the Spacecraft Quirks table.
+OLDER SHIPS Many ships serve for decades or even centuries before being scrapped. Travellers and free traders are often forced by necessity to purchase outdated and damaged vessels instead of new and pristine ships. Travellers purchasing an outdated ship may do so by rolling on the Outdated Ships table. Older ships will have a number of 'quirks' that may affect their operation, rolled for on the Spacecraft Quirks table.
 
 **DECKPLAN LEGEND:**
 
@@ -6896,19 +6896,19 @@ Normally only the passenger area is accessible to non-crew and operations are su
 
 In Traveller, a few humans (and aliens) have developed potent psionic abilities such as telepathy, telekinesis and even teleportation. Learning to properly control psionics is never easy and their use cannot always be relied upon but they are guaranteed to provide their practitioners with a dangerous edge simply not possible for normal humans.
 
-THE IMPERIUM: PSIONICS AND THE LAW In the Charted Space universe, learning to harness psionics is a difficult process, made harder by the Third Imperium’s ban on psionics. The Psionics Institutes that study mental powers have gone underground, following a disastrous attempt to guide human development centuries ago. In other civilizations, such as the Zhodani Consulate, psionics are a fully accepted part of the human condition.
+THE IMPERIUM: PSIONICS AND THE LAW In the Charted Space universe, learning to harness psionics is a difficult process, made harder by the Third Imperium's ban on psionics. The Psionics Institutes that study mental powers have gone underground, following a disastrous attempt to guide human development centuries ago. In other civilizations, such as the Zhodani Consulate, psionics are a fully accepted part of the human condition.
 
 PSIONIC STRENGTH Psionics are powered by the Psionic Strength
-(PSI) characteristic. This characteristic cannot be rolled during Traveller creation without the referee’s permission and even then it is quite rare. To determine a Traveller’s PSI, roll 2D and subtract the number of terms served by the Traveller in all careers thus far
+(PSI) characteristic. This characteristic cannot be rolled during Traveller creation without the referee's permission and even then it is quite rare. To determine a Traveller's PSI, roll 2D and subtract the number of terms served by the Traveller in all careers thus far
 (PSI diminishes over time unless actively used). For example, a 38 year old Traveller (five terms served) would roll 2D–5 to determine their PSI. A Traveller with PSI 0 has no potential for psionic talents.
 
-Using a psionic power costs a number of PSI points, temporarily reducing the Traveller’s total. As the characteristic DM for all psionic skill checks is determined by the Travellers’ current PSI total, it gets harder and harder to use powers as the Traveller’s PSI declines.
+Using a psionic power costs a number of PSI points, temporarily reducing the Traveller's total. As the characteristic DM for all psionic skill checks is determined by the Travellers' current PSI total, it gets harder and harder to use powers as the Traveller's PSI declines.
 
 RECOVERING PSI Expended PSI points are recovered at the rate of one point per hour, beginning three hours after the Traveller last used a psionic talent.
 
-INSTITUTE TESTING A Traveller who wishes to develop psionic abilities requires training. In settings where psionics are uncommon or illegal, the Traveller must find a teacher, normally an underground Psionics Institute. Finding such an instructor can be an adventure in itself. Most teachers will charge at least Cr5000 to test the Traveller’s abilities. Testing takes two weeks.
+INSTITUTE TESTING A Traveller who wishes to develop psionic abilities requires training. In settings where psionics are uncommon or illegal, the Traveller must find a teacher, normally an underground Psionics Institute. Finding such an instructor can be an adventure in itself. Most teachers will charge at least Cr5000 to test the Traveller's abilities. Testing takes two weeks.
 
-The first step is testing a Traveller’s PSI, which is determined as described before (2D minus the number of terms served). If the Traveller has any PSI remaining, they can be trained.
+The first step is testing a Traveller's PSI, which is determined as described before (2D minus the number of terms served). If the Traveller has any PSI remaining, they can be trained.
 
 Training requires four months of work and costs Cr100000. As part of training, the Traveller may attempt to learn any of the common psionic talents on the Psionic Training table by making a PSI check. They may attempt the talents in any order but suffer DM–1 per check attempted. If a Traveller learns a talent, they gain it at skill level 0.
 
@@ -6924,7 +6924,7 @@ PSIONIC TALENTS There are several psionic talents, each of which is controlled b
 
 Telepathy: Reading minds & communicating
 **Clairvoyance:** Perceiving at a distance Telekinesis: Mind over matter
-**Awareness:** Control over one’s own mind and body Teleportation: Moving from one point to another instantly
+**Awareness:** Control over one's own mind and body Teleportation: Moving from one point to another instantly
 
 **USING PSIONIC POWERS** To activate a power, the Traveller must make a skill check using the appropriate skill (Telepathy, Telekinesis and so on), adding their PSI DM, along with any other appropriate DMs. They must also spend the listed number of PSI points if they succeed or one point if they fail. If this cost brings them below zero PSI, then any excess points are applied as damage. A Traveller with no PSI points cannot attempt to activate a power.
 
@@ -6964,7 +6964,7 @@ Other telepaths will always recognise when someone is using telempathy to bend t
 
 Check: Routine (6+) Telepathy check (1D x 10 seconds, PSI) Reach: Long PSI Cost: 1
 
-Read Surface Thoughts The most commonly known feature of telepathy is the ability to read the thoughts of other individuals. Only active and current thoughts are read by this ability, with the subject (if themselves not a telepath) unaware of the activity. Individuals with telepathic ability cannot be read due to the presence of their natural shields, unless they willingly lower their shielding. The Effect of the check determines the clarity of the telepath’s perceptions.
+Read Surface Thoughts The most commonly known feature of telepathy is the ability to read the thoughts of other individuals. Only active and current thoughts are read by this ability, with the subject (if themselves not a telepath) unaware of the activity. Individuals with telepathic ability cannot be read due to the presence of their natural shields, unless they willingly lower their shielding. The Effect of the check determines the clarity of the telepath's perceptions.
 
 Check: Average (8+) Telepathy check (1D x 10 seconds, PSI) Reach: Long PSI Cost: 2
 
@@ -6979,7 +6979,7 @@ SPECIAL POWERS The psionic powers described here are not the only manifestations
 Check: Very Difficult (12+) Telepathy check (1D x 10 seconds, PSI) Reach: Short
 **PSI Cost:** 3
 
-**Probe** The application of great psionic strength will enable a telepath to delve deep into the mind of a subject and to then read their innermost thoughts. Questioning can be used in the procedure to force the subject to divulge specific information. The telepath can easily determine deliberate untruths told (thought) by the subject. Probe cannot be used against a shielded mind. Again, the Effect of the check determines the clarity of the telepath’s perceptions.
+**Probe** The application of great psionic strength will enable a telepath to delve deep into the mind of a subject and to then read their innermost thoughts. Questioning can be used in the procedure to force the subject to divulge specific information. The telepath can easily determine deliberate untruths told (thought) by the subject. Probe cannot be used against a shielded mind. Again, the Effect of the check determines the clarity of the telepath's perceptions.
 
 Check: Very Difficult (12+) Telepathy check (1D minutes, PSI) Reach: Close
 **PSI Cost:** 4
@@ -6997,7 +6997,7 @@ CLAIRVOYANCE Clairvoyance is a talent that allows a person to sense events at so
 
 Clairvoyance powers allow eavesdropping activities as well as spying and detection-free exploration of situations. While telepathic life detection will determine the presence of living minds in a closed room, for example, sense will determine if a room is occupied or empty. Clairvoyant activity cannot be sensed by others, including by other psionic talented individuals.
 
-Sense The basic power to sense things at some point in the distance. A Traveller will become aware of the most rudimentary characteristics of a location when applying this ability. For example, the referee will give a basic description, without detail: ‘a room, containing four dogs’ or ‘an open plain with a tree and no animals or men present’. The clairvoyant Traveller must state the range at which they are applying the power and will generally sense the most interesting or important feature at that range. The Effect of the check determines the level of accuracy and clarity.
+Sense The basic power to sense things at some point in the distance. A Traveller will become aware of the most rudimentary characteristics of a location when applying this ability. For example, the referee will give a basic description, without detail: 'a room, containing four dogs' or 'an open plain with a tree and no animals or men present'. The clairvoyant Traveller must state the range at which they are applying the power and will generally sense the most interesting or important feature at that range. The Effect of the check determines the level of accuracy and clarity.
 
 Check: Routine (6+) Clairvoyance check (1D x 10 seconds, PSI) Reach: Very Distant PSI Cost: 1
 
@@ -7043,18 +7043,18 @@ Telekinesis Effect Target... 0–4 becomes warmer but is undamaged. 5–8 is bur
 Check: Routine (6+) Telekinesis check (1D x 10 seconds, PSI) Reach: Short
 **PSI Cost:** 3
 
-AWARENESS Awareness is the psionic talent that allows fine control of one’s own body. Awareness powers never have Reach – they are used only on the Traveller themselves. Awareness is not capable of affecting others and may never be used for healing or enhancing other Travellers.
+AWARENESS Awareness is the psionic talent that allows fine control of one's own body. Awareness powers never have Reach – they are used only on the Traveller themselves. Awareness is not capable of affecting others and may never be used for healing or enhancing other Travellers.
 
 **Suspended Animation** Personal body activity may be suspended for varying periods of time. A Traveller with awareness may enter a suspended animation state (similar to cold sleep but without the intrinsic danger of death) by willing themselves into it. Such a state continues for seven days, without need for food or water and with minimal air needs. The Traveller could effectively travel in a cold sleep berth, without actually undergoing cold sleep and its dangers. Suspended animation may be stopped at any time, provided external stimulus is given to awaken the sleeper (such as a friend nudging them or a mechanical alarm).
 
 Check: Average (8+) Awareness check (1D minutes, PSI)
 **PSI Cost:** 3
 
-Enhanced Strength PSI points may be converted to STR points on a temporary basis. The Traveller makes the commitment, reduces their available PSI by a specified number of points and increases their STR characteristic by the same amount. STR reaches its new level immediately, remains at that peak for number of minutes equal to the Effect of the Awareness check x 10 and then declines at the rate of one point per minute until the Traveller’s normal STR is reached.
+Enhanced Strength PSI points may be converted to STR points on a temporary basis. The Traveller makes the commitment, reduces their available PSI by a specified number of points and increases their STR characteristic by the same amount. STR reaches its new level immediately, remains at that peak for number of minutes equal to the Effect of the Awareness check x 10 and then declines at the rate of one point per minute until the Traveller's normal STR is reached.
 
 Check: Average (8+) Awareness check (1D seconds, PSI) PSI Cost: STR increase
 
-Enhanced Endurance PSI points may be converted to END points on a temporary basis. The Traveller makes the commitment, reduces their available PSI by a specified number of points and increases their END characteristic by the same amount. END reaches its new level immediately, remains at that peak for number of minutes equal to the Effect of the Awareness check x 10 and then declines at the rate of one point per minute until the Traveller’s normal END is reached.
+Enhanced Endurance PSI points may be converted to END points on a temporary basis. The Traveller makes the commitment, reduces their available PSI by a specified number of points and increases their END characteristic by the same amount. END reaches its new level immediately, remains at that peak for number of minutes equal to the Effect of the Awareness check x 10 and then declines at the rate of one point per minute until the Traveller's normal END is reached.
 
 Check: Average (8+) Awareness check (1D seconds, PSI) PSI Cost: END increase
 
@@ -7070,7 +7070,7 @@ Regeneration Wounds may be healed by the application of this power, exchanging o
 
 Check: Difficult (10+) Awareness check (1D x 10 seconds, PSI) PSI Cost: Amount healed
 
-Teleportation Teleportation is a talent that allows effectively instantaneous movement from one point to another point, without regard to intervening matter. Psionic teleportation is limited to the movement of the teleported Traveller’s body and (for highly skilled teleports) their clothing and equipment.
+Teleportation Teleportation is a talent that allows effectively instantaneous movement from one point to another point, without regard to intervening matter. Psionic teleportation is limited to the movement of the teleported Traveller's body and (for highly skilled teleports) their clothing and equipment.
 
 Check: Average (8+) Teleportation check (1D seconds, PSI) Reach: Distant PSI Cost: 2
 
@@ -7078,27 +7078,27 @@ To teleport with clothing (but not armor) and up to 10kg of equipment, the Telep
 
 To teleport with clothing (but not armor) and up to 500kg of equipment, the Teleportation check is increased to Very Difficult (12+) and costs an additional 4 PSI.
 
-Teleportation always involves the movement of one’s body to another location. Independent items or other individuals may not be moved. Teleportation involves certain requirements in order to be accurate and to ensure obedience of the laws of physics.
+Teleportation always involves the movement of one's body to another location. Independent items or other individuals may not be moved. Teleportation involves certain requirements in order to be accurate and to ensure obedience of the laws of physics.
 
-Pre-knowledge of Destination: A Traveller must always have a mental image of their destination before teleporting. This mental image is acquired by personally visiting the location first (this includes viewing it from a distance), having the mental image implanted in one’s mind (via telepathy) by another person who has visited the destination or by viewing the location through clairvoyance.
+Pre-knowledge of Destination: A Traveller must always have a mental image of their destination before teleporting. This mental image is acquired by personally visiting the location first (this includes viewing it from a distance), having the mental image implanted in one's mind (via telepathy) by another person who has visited the destination or by viewing the location through clairvoyance.
 
 Energy and Momentum: Teleportation involves serious restrictions on movement in order to ensure the conservation of energy and momentum, two laws of physics that can cause teleporting Travellers serious issues.
 
 On planetary surfaces, teleportation is restricted to jumps of no more than Very Distant ranges. Jumps beyond visual range involve disorientation for a period of 2D – Effect of Teleportation check x 10 seconds.
 
-This restriction results from the law of conservation of momentum; on a rotating planet, two locations will have different rotational speeds and directions. A jump from a point on the Earth’s equator to its antipode would result in a total velocity difference between the Traveller and their surroundings of over 3,300 kilometers per hour.
+This restriction results from the law of conservation of momentum; on a rotating planet, two locations will have different rotational speeds and directions. A jump from a point on the Earth's equator to its antipode would result in a total velocity difference between the Traveller and their surroundings of over 3,300 kilometers per hour.
 
 Changes in altitude (actually all movement to locations of differing gravitational potential) will result in potential energy changes, manifesting themselves as alterations in body temperature. A jump of one kilometer straight down will result in an internal temperature increase of 2.5oC; this is sufficient to cause extreme fever, brain damage and even death. A jump upwards will cool the body by the same amount, with equally serious results. To be safe, a jump may not involve an elevation change of more than 400 meters and multiple jumps should not involve a cumulative elevation change or more than 600 meters in one hour. These problems may be circumvented somewhat through the use of technological devices such as energy compensators, heated suits and other means. Travellers may feel driven to invent such materials, commission their invention or seek them out from those who already have them.
 
 PSIONIC TECHNOLOGY The ban on psionics within the Imperium means that most of these technologies are illegal in the Charted Space universe. The exceptions are anti-psionic devices like the psionic shield.
 
-Psi-Drugs (TL8): These drugs restore PSI if taken when the Traveller has already spent PSI points or temporarily increase the Traveller’s PSI if taken when they are at full strength.
+Psi-Drugs (TL8): These drugs restore PSI if taken when the Traveller has already spent PSI points or temporarily increase the Traveller's PSI if taken when they are at full strength.
 
 Psi-Drug PSI Restored PSI Boosted Cost Standard 6 +4 Cr1000 Double 9 +6 Cr4000 Special 12 +10 Cr10000
 
 A Traveller who takes more than one dose of Standard or Double psi-drug, or a single dose of the Special psi-drug must make an END check, with DM-1 per dose of psi-drug taken in the last week. If the check is failed, the Traveller falls ill, suffering 3D damage and permanently reducing their PSI by one.
 
-**Inhibitor Drug (TL9):** Psionic inhibitors dampen the brain’s ability to generate psychic effects. A Traveller who takes (or, more often, is forcibly injected with) an inhibitor drug suffers DM-3 to all PSI-related checks and cannot regain PSI points. Each hour, the Traveller may make an END check to throw off the effects of the drug. Inhibitor drugs have no effect on non-psionic individuals. The drugs cost Cr500 per dose.
+**Inhibitor Drug (TL9):** Psionic inhibitors dampen the brain's ability to generate psychic effects. A Traveller who takes (or, more often, is forcibly injected with) an inhibitor drug suffers DM-3 to all PSI-related checks and cannot regain PSI points. Each hour, the Traveller may make an END check to throw off the effects of the drug. Inhibitor drugs have no effect on non-psionic individuals. The drugs cost Cr500 per dose.
 
 **Psionic Shield (TL12):** Any armor incorporating a helmet or hood can be outfitted with a psionic shield, automatically blocking all telepathy powers. This costs Cr4000. Buildings and vehicles can also be psionically shielded but this is much more costly, increasing the cost of the vehicle by 10%.
 
@@ -7216,7 +7216,7 @@ Travellers traditionally deal in three forms of commerce; taking on passengers, 
 
 ON TRADE At first glance, the trading rules in this chapter may look like they will take time away from adventuring and involve a lot of dice rolling. However, a canny referee can use them to their advantage without increasing their workload.
 
-We recommend that, for most campaigns, referees hand over this entire chapter to the Travellers and simply let them get on with it. You will find they should be able to generate a fairly regular amount of cash, which will cover their ship expenses and perhaps allow them some new equipment. Occasionally they will get a ‘big score’ and occasionally they will make a loss. However, overall there should be a steady progression upwards in their bank balance.
+We recommend that, for most campaigns, referees hand over this entire chapter to the Travellers and simply let them get on with it. You will find they should be able to generate a fairly regular amount of cash, which will cover their ship expenses and perhaps allow them some new equipment. Occasionally they will get a 'big score' and occasionally they will make a loss. However, overall there should be a steady progression upwards in their bank balance.
 
 Letting the Travellers handle all their own trading allows the referee to concentrate on their own adventure, perhaps quickly revising the next section or prepping a new encounter while the Travellers work out what they want to trade next and where. It also encourages the Travellers to consult star maps and read planetary descriptions, which helps immerse themselves in the universe.
 
@@ -7226,7 +7226,7 @@ PASSENGERS Passage on board any ship is standardised into three categories; high
 
 High Passage: This is the equivalent of a luxury cruise or flight in first class. Comfortable quarters, good food and staff to wait on hand and foot are expected. It requires a stateroom, one ton of cargo space and one level of Steward per 10 passengers.
 
-Middle Passage: This is ‘standard’ class. There will be a stateroom for every passenger and occasional service from the steward but it is considered more functional than enjoyable as an experience. It requires a stateroom, 100kg of cargo and one level of Steward per 100 passengers
+Middle Passage: This is 'standard' class. There will be a stateroom for every passenger and occasional service from the steward but it is considered more functional than enjoyable as an experience. It requires a stateroom, 100kg of cargo and one level of Steward per 100 passengers
 
 Basic Passage: For those not willing to risk low berths, the option of basic passage, or steerage as it is often called, exists. Staterooms will be shared (typically two people to a stateroom) or, on some less scrupulous ships, areas in the cargo bay or engineering will be set aside for very basic accommodation and services (which may only extend to two meals a day and meagre washroom facilities). This requires two tons of spare room on the spacecraft, a resilient personality on the part of the passenger and comes with a 10kg baggage allowance.
 
@@ -7316,7 +7316,7 @@ Each parsec of destination past the first DM-1
 
 EXCITING PASSENGERS Referees on the ball will have already spotted the possibility of using passengers as a way to spice up the lives of their Travellers. This is in perfect keeping with Traveller and has our wholehearted support.
 
-For example, passengers may be wanted criminals, a runaway couple hoping to escape their cruel parents, a desperate escapee from prison looking to hijack a ship to freedom, a rogue psion... or anything else the referee can devise to make life ‘interesting’ for the Travellers.
+For example, passengers may be wanted criminals, a runaway couple hoping to escape their cruel parents, a desperate escapee from prison looking to hijack a ship to freedom, a rogue psion... or anything else the referee can devise to make life 'interesting' for the Travellers.
 
 While this is not recommended for every time the Travellers take passengers on board their ship, referees might like to use the Random Passenger table as a starting point to creating passengers the Travellers will remember or perhaps even the Allies and Enemies or Random Quirks and Personalities tables on page 92.
 
@@ -7355,7 +7355,7 @@ Random Passenger D66 Passenger D66 Passenger
 
 | 64 | On the Run |
 | 35 | Unusually Pretty or Handsome  |
-| 65 | Wants to be on Board the Travellers’ Ship for Some Reason |
+| 65 | Wants to be on Board the Travellers' Ship for Some Reason |
 | 36 | Engineer (Mechanic and Engineer 1D–1 each)  |
 | 66 | Hijacker or Pirate Agent |
 
@@ -7389,10 +7389,10 @@ A freight lot cannot be broken up. Cargo is paid for upon delivery, assuming it 
 
 **MAIL** Mail is a special form of freight, consisting of large data storage drums that contain a vast amount of information, as well as physical packages, which must be transported from one world to another but not vital enough to be entrusted to the x-boat service or a private courier. To determine if there is mail available, roll 2D and then apply the modifiers on the Mail table.
 
-Mail Freight Traffic DM–10 or less: DM-2 Freight Traffic DM–9 to –5: DM-1 Freight Traffic DM–4 to +4: DM+0 Freight Traffic DM 5 to 9: DM+1 Freight Traffic DM 10 or more: DM+2 Travellers’ ship is armed: DM+2 World is TL of 5 or less: DM-4
+Mail Freight Traffic DM–10 or less: DM-2 Freight Traffic DM–9 to –5: DM-1 Freight Traffic DM–4 to +4: DM+0 Freight Traffic DM 5 to 9: DM+1 Freight Traffic DM 10 or more: DM+2 Travellers' ship is armed: DM+2 World is TL of 5 or less: DM-4
 
-- Travellers’ highest Naval or Scout rank
-- Travellers’ highest SOC DM
+- Travellers' highest Naval or Scout rank
+- Travellers' highest SOC DM
 
 On 12 or more, the Travellers are chosen to transport mail to the destination world. Mail containers take up five tons of space and the Travellers will be paid Cr25000 for transporting the container. There will be 1D containers available to transport and the Travellers must take them all or none at all.
 
@@ -7420,35 +7420,35 @@ DETERMINE GOODS AVAILABLE Goods are divided into two categories; Common and Trad
 
 Availability is influenced by the size of the market. On Population 3– apply DM–3 to the roll for quantity. This can result in a number of zero or less, reflecting no availability of even common goods. Conversely, Population 9+ worlds have vast economies and grant DM+3 on the roll for lot quantities.
 
-A supplier will have all Common Goods available, the Trade Goods that match the world’s Trade codes and a quantity of randomly determined goods equal to the
+A supplier will have all Common Goods available, the Trade Goods that match the world's Trade codes and a quantity of randomly determined goods equal to the
 
 LOCAL BROKERS A trader can hire a local broker to help find goods and negotiate a deal. Local brokers will have a Broker skill of 2D/3 and will normally charge a flat fee of 10% of the gross proceeds of a transaction. Local brokers gain DM+2 on negotiations, since their local knowledge helps them find the best deal and avoid the pitfalls of dealing with outsiders.
 
-For illegal goods, a local broker or fixer will have a Streetwise skill of 2D/3 and gain DM+2 on negotiations but charge 20% of the gross proceeds, possibly higher for highly illegal or dangerous cargos. If the roll to determine the fixer’s skill is a natural 2, they are an informer, government agent or double-crosser. The referee should determine resulting events, which should remind the Travellers why it is best to tread carefully when dealing in illegal goods.
+For illegal goods, a local broker or fixer will have a Streetwise skill of 2D/3 and gain DM+2 on negotiations but charge 20% of the gross proceeds, possibly higher for highly illegal or dangerous cargos. If the roll to determine the fixer's skill is a natural 2, they are an informer, government agent or double-crosser. The referee should determine resulting events, which should remind the Travellers why it is best to tread carefully when dealing in illegal goods.
 
 MAKING A LIVING Speculative trading can be harsh to the newcomer, especially if they are unskilled, and even the most experienced broker can be caught by a bad trade and lose tens of thousands of Credits – or more.
 
 It may occur to some Travellers to ask how can the big shipping corporations even survive, let alone make a profit, if they are doing the same risky speculative trading as everyone else. The answer is simple.
 
-They don’t.
+They don't.
 
 Just as in our world, the big boys follow different rules to the little guy. A big, interstellar corporation not only has far larger ships that can carry far more cargo but also government contracts, the ability to bribe their way ahead of small competitors, contacts among suppliers, tax breaks and many other ploys that keep them one step ahead.
 
 Population code of the world. Roll on the Trade Goods table to randomly determine the goods available, re- rolling results 61–65 unless dealing with a black market supplier. If you roll the same type of goods multiple times, then the supplier has extra amounts of those goods available.
 
-Some goods are illegal and can be purchased only through a black market supplier. A black market supplier has whatever illegal goods match world’s Trade codes, as well as any randomly rolled illegal goods. Roll 1D on the Trade Goods table and use ‘6’ as the leading digit. Illegal goods can include illegal exotics, which may not be strictly illegal but have
-‘questionable’ providence.
+Some goods are illegal and can be purchased only through a black market supplier. A black market supplier has whatever illegal goods match world's Trade codes, as well as any randomly rolled illegal goods. Roll 1D on the Trade Goods table and use '6' as the leading digit. Illegal goods can include illegal exotics, which may not be strictly illegal but have
+'questionable' providence.
 
 For example, the Travellers have contacted a supplier on an Industrial world. Consulting the Trade Goods table, the supplier has the following goods available: Common Electronics, Common Machine Parts, Common Manufactured Goods, Common Raw Materials, Common Vehicles, Common Ore, Advanced
 
-Electronics, Advanced Machine Parts, Advanced Manufactured Goods, Advanced Weapons, Advanced Vehicles, Polymers & Robots, as all those goods are Common or Industrial. The referee can now generate an additional number of goods equal to the world’s _Population code to reflect the random items the_ supplier has.
+Electronics, Advanced Machine Parts, Advanced Manufactured Goods, Advanced Weapons, Advanced Vehicles, Polymers & Robots, as all those goods are Common or Industrial. The referee can now generate an additional number of goods equal to the world's _Population code to reflect the random items the_ supplier has.
 
 **DETERMINE PURCHASE PRICE** To determine the purchase price, roll 3D and apply the following modifiers:
 
-+The Traveller’s Broker skill (or the local broker’s skill)
++The Traveller's Broker skill (or the local broker's skill)
 +any DM from the Purchase DM column
 –any DM from the Sale DM column
-–the supplier’s Broker skill (this is assumed to be Broker 2, but may vary)
+–the supplier's Broker skill (this is assumed to be Broker 2, but may vary)
 
 In cases where multiple Purchase or Sale DMs apply, use only the largest from each column.
 
@@ -7494,7 +7494,7 @@ Modified Price Result Purchase Price Sale Price
 
 SELLING GOODS Selling goods works just like purchasing goods, with the following changes. A Traveller must find a buyer, instead of a supplier. The same rules apply.
 
-When selling goods, add the Sale DMs for the world’s Trade codes and subtract the Purchase DMs. Deduct the purchaser's Broker skill (this is assumed to be Broker 2, but may vary).
+When selling goods, add the Sale DMs for the world's Trade codes and subtract the Purchase DMs. Deduct the purchaser's Broker skill (this is assumed to be Broker 2, but may vary).
 
 If a Traveller does not accept the price offered for their goods, they must find another buyer or wait a month.
 
@@ -8020,7 +8020,7 @@ SECTORS AND SUBSECTORS A universe is mapped in convenient segments, called subse
 
 Sixteen subsectors (arranged in four rows of four subsectors each) form a sector, about the largest size practical for a continuing Traveller campaign.
 
-Mapping subsectors consists of two sequences: star mapping and world design. Star mapping examines each hexagon in the subsector grid and determines if there is a star system present. It also determines the presence or absence of starports, bases and fuel for starships. All of this information is coded onto the subsector hexes and serves as a guide to the referee and Travellers during interstellar travel. World design examines the single most important world in each system and determines basic characteristics for it. This information is retained for use during adventures on the world’s surface.
+Mapping subsectors consists of two sequences: star mapping and world design. Star mapping examines each hexagon in the subsector grid and determines if there is a star system present. It also determines the presence or absence of starports, bases and fuel for starships. All of this information is coded onto the subsector hexes and serves as a guide to the referee and Travellers during interstellar travel. World design examines the single most important world in each system and determines basic characteristics for it. This information is retained for use during adventures on the world's surface.
 
 Note that not all universes will require the creation of a subsector or sector. Indeed, entire campaigns can be set in just one star system or on a single world, or even within a single city.
 
@@ -8111,13 +8111,13 @@ When creating worlds, a subsector table containing world name, location, profile
 
 Creating an entire universe is a fun process and can be as detailed as you like!
 
-SIZE The Size code for worlds ranges from 0 to 10 and is determined by rolling 2D-2. Size measures a world’s diameter in thousands of kilometers and the bigger a planet, the higher its gravity. The values for gravity in the Size table assume that the world has a density similar to that of Earth. Worlds like gas giants have a lower gravity than their size would indicate, while extremely dense worlds would have a higher gravity.
+SIZE The Size code for worlds ranges from 0 to 10 and is determined by rolling 2D-2. Size measures a world's diameter in thousands of kilometers and the bigger a planet, the higher its gravity. The values for gravity in the Size table assume that the world has a density similar to that of Earth. Worlds like gas giants have a lower gravity than their size would indicate, while extremely dense worlds would have a higher gravity.
 
 Intelligent species (sophonts) are unlikely to evolve naturally on worlds smaller than Size 4 or 5. Larger planets tend to imply larger populations, as there is more room for expansion.
 
 CHARTED SPACE: ROUTES AND JUMPS In the Charted Space universe, communication and trade routes are classified by the type of jump drive necessary to travel them. This is simply because of refuelling issues – few starships carry enough fuel to make multiple jumps in succession, so they must make sure to jump only to systems where they can refuel; either to a starport or a system with a gas giant or water-bearing worlds where unrefined fuel can be skimmed.
 
-A jump-1 route has a starport or gas giant in every hex, a jump-2 route has at least one one-hex ‘gap’ between refuelling points (either an empty hex or one without a starport or gas giant), while a jump-3 route has at least one two-hex gap and so on. In this way, a ship’s captain will know that any route classified at less than or equal to their ship’s jump capability can be travelled with no risk of becoming stranded in deep space.
+A jump-1 route has a starport or gas giant in every hex, a jump-2 route has at least one one-hex 'gap' between refuelling points (either an empty hex or one without a starport or gas giant), while a jump-3 route has at least one two-hex gap and so on. In this way, a ship's captain will know that any route classified at less than or equal to their ship's jump capability can be travelled with no risk of becoming stranded in deep space.
 
 Size
 
@@ -8160,7 +8160,7 @@ HIGH & LOW GRAVITY WORLDS Worlds where the gravity is 0.7G or less (Size 6 or le
 
 High-gravity worlds have a gravity of 1.4G or more. They tend to be extremely dense worlds; common features include wide rocky plains, squat, muscular creatures and plant life that spreads out like lichen instead of growing up. Crawling, burrowing or swimming are the most common forms of locomotion. The effect on Travellers is detailed on page 80.
 
-ATMOSPHERE The Atmosphere code measures the type of atmosphere present. A planet’s Atmosphere is generated by rolling 2D-7 and adding the planet’s Size. Consult the Atmosphere table for specifics.
+ATMOSPHERE The Atmosphere code measures the type of atmosphere present. A planet's Atmosphere is generated by rolling 2D-7 and adding the planet's Size. Consult the Atmosphere table for specifics.
 
 ATMOSPHERE TYPES Tainted: Tainted atmospheres contain some element harmful to humans, such as an unusually high proportion of carbon dioxide. A Traveller who breathes a tainted atmosphere without a filter will suffer 1D damage every few minutes (or potentially hours, depending on the level of taint), in addition to any other effects.
 
@@ -8168,13 +8168,13 @@ Exotic: An exotic atmosphere is unbreathable by humans but not otherwise hazardo
 
 Corrosive: Corrosive atmospheres are highly dangerous. A Traveller who breathes in a corrosive atmosphere will suffer 1D damage each round.
 
-Insidious: An insidious atmosphere is like a corrosive one but is so potent that it attacks equipment as well. The chief danger in an insidious atmosphere is that the toxic gases will destroy the seals and filters on the Traveller’s protective gear. An insidious atmosphere worms its way past protection after 2D hours on average, although vigilant maintenance or advanced protective gear can prolong survival times.
+Insidious: An insidious atmosphere is like a corrosive one but is so potent that it attacks equipment as well. The chief danger in an insidious atmosphere is that the toxic gases will destroy the seals and filters on the Traveller's protective gear. An insidious atmosphere worms its way past protection after 2D hours on average, although vigilant maintenance or advanced protective gear can prolong survival times.
 
 Very Dense: These worlds have thick N 2 /O 2 atmospheres but their mean surface pressure is too high to support unprotected human life (high pressure nitrogen and oxygen are deadly to humans). However, pressure naturally decreases with increasing altitude, so if there are highlands at the right altitude the pressure may drop enough to support human life. Alternatively, there may not be any topography high enough for humans to inhabit, necessitating floating gravitic or dirigible habitats or sealed habitats on the surface.
 
 Low: The opposite of a Very Dense atmosphere, these massive worlds have thin N 2 /O 2 atmospheres that settle in the lowlands and depressions and are only
 
-WORLD TEMPERATURE A planet’s surface temperature is primarily dependent on its distance from its primary star (how much solar radiation it receives) and how thick its atmosphere is (how much of this heat it can retain). The habitable zone is the area around a star most conducive to the development of Earth-like, habitable worlds and it is assumed that most colonized worlds will be in this habitable zone. Roll 2D for the planet’s temperature, applying the DMs listed below for the Temperature table:
+WORLD TEMPERATURE A planet's surface temperature is primarily dependent on its distance from its primary star (how much solar radiation it receives) and how thick its atmosphere is (how much of this heat it can retain). The habitable zone is the area around a star most conducive to the development of Earth-like, habitable worlds and it is assumed that most colonized worlds will be in this habitable zone. Roll 2D for the planet's temperature, applying the DMs listed below for the Temperature table:
 
 Atmosphere 0 or 1: No modifiers, but temperature swings from roasting during the day to frozen at night. Atmosphere 2 or 3: DM-2 Atmosphere 4, 5 or E: DM-1 Atmosphere 6 or 7: DM+0 Atmosphere 8 or 9: DM+1 Atmosphere A, D or F: DM+2 Atmosphere B or C: DM+6
 
@@ -8203,11 +8203,11 @@ breathable there – the pressure drops off so rapidly with altitude that the hi
 
 HYDROGRAPHICS The Hydrographic code measures the amount of surface liquid and hence the amount of dry land on the world. Hydrographic percentage goes from 0 to 10, measuring the surface liquid in increments of 10%. For normal worlds, this will be water; on other worlds with corrosive or exotic atmospheres, it could be a corrosive or exotic liquid like ammonia or methane.
 
-Hydrographic code is obtained by rolling 2D-7 and adding the planet’s Atmosphere. Some Atmospheres use the modifier below:
+Hydrographic code is obtained by rolling 2D-7 and adding the planet's Atmosphere. Some Atmospheres use the modifier below:
 
 Size 0 or 1: Hydrographic 0 Atmosphere 0, 1, A-F: DM-4
 
-If the planet’s Atmosphere is not D or Panthalassic F (and thick enough to retain water under extreme circumstances), then you can also apply DMs for temperature:
+If the planet's Atmosphere is not D or Panthalassic F (and thick enough to retain water under extreme circumstances), then you can also apply DMs for temperature:
 
 Hot Temperature: DM-2 Boiling Temperature: DM-6
 
@@ -8228,7 +8228,7 @@ Hydrographic Percentage Description
 | 9 | 86%–95% Almost entirely water |
 | 10 | (A) 96%–100% Waterworld |
 
-POPULATION The Population code measures the planet’s intelligent population. The Population code can be generalised as the number of zeroes following a one, so Population 6 indicates a population in the millions (1,000,000).
+POPULATION The Population code measures the planet's intelligent population. The Population code can be generalised as the number of zeroes following a one, so Population 6 indicates a population in the millions (1,000,000).
 
 Population is generated with 2D–2. However, the referee may like to introduce extremely high population worlds (Population B or C) at their discretion.
 
@@ -8236,7 +8236,7 @@ LOW-POPULATION WORLDS Planets with Population 3 or less are very small colonies 
 
 If a world has Population 0, it is uninhabited and so has a Government, Law Level and Technology Level of 0.
 
-GOVERNMENT The Government code indicates a range of possible ruling systems, determined by rolling 2D–7 and adding the planet’s Population code.
+GOVERNMENT The Government code indicates a range of possible ruling systems, determined by rolling 2D–7 and adding the planet's Population code.
 
 The Common Contraband column on the Government table determines goods such a government is likely to restrict but should not be taken as a universal rule.
 
@@ -8375,7 +8375,7 @@ Cultural Differences D66 Culture
 | 21 | Taboo – a particular topic is forbidden and cannot be discussed. Travellers who unwittingly mention this topic will be ostracised. |
 | 22 | Deceptive – trickery and equivocation are considered acceptable. Honesty is a sign of weakness. |
 | 23 | Liberal – the culture welcomes change and offworld influence. Travellers who bring new and strange ideas will be welcomed. |
-| 24 | Honorable – one’s word is one’s bond in the culture. Lying is both rare and despised. |
+| 24 | Honorable – one's word is one's bond in the culture. Lying is both rare and despised. |
 | 25 | Influenced – the culture is heavily influenced by another, neighboring world. Roll again for a cultural quirk that has been inherited from the culture. |
 | 26 | Fusion – the culture is a merger of two distinct cultures. Roll again twice to determine the quirks inherited from these cultures. If the quirks are incompatible, then the culture is likely divided. |
 | 31 | Barbaric – physical strength and combat prowess are highly valued in the culture. Travellers may be challenged to a fight or dismissed if they seem incapable of defending themselves. Sports tend towards the bloody and violent. |
@@ -8390,8 +8390,8 @@ Cultural Differences D66 Culture
 | 44 | Obsessed – everyone is obsessed with or addicted to a substance, personality, act or item. This monomania pervades every aspect of the culture. |
 | 45 | Fashion – fine clothing and decoration are considered vitally important in the culture. Underdressed Travellers have no standing here. |
 | 46 | At war – the culture is at war, either with another planet or polity, or is troubled by terrorists or rebels. |
-| 51 | Unusual Custom: Offworlders – space travellers hold a unique position in the culture’s mythology or beliefs and travellers will be expected to live up to these myths. |
-| 52 | Unusual Custom: Starport – the planet’s starport is more than a commercial center; it might be a religious temple or be seen as highly controversial and surrounded by protestors. |
+| 51 | Unusual Custom: Offworlders – space travellers hold a unique position in the culture's mythology or beliefs and travellers will be expected to live up to these myths. |
+| 52 | Unusual Custom: Starport – the planet's starport is more than a commercial center; it might be a religious temple or be seen as highly controversial and surrounded by protestors. |
 | 53 | Unusual Custom: Media – news agencies and telecommunications channels are especially strange here. Getting accurate information may be difficult. |
 | 54 | Unusual Customs: Technology – the culture interacts with technology in an unusual way. Telecommunications might be banned, robots might have civil rights or cyborgs might be property. |
 | 55 | Unusual Customs: Lifecycle – there might be a mandatory age of termination or anagathics might be widely used. Family units might be different, with children being raised by the state or banned in favor of cloning. |
@@ -8435,7 +8435,7 @@ Law Level Law Level Weapons Banned Armor
 | 8 | All bladed weapons, stunners| All visible armor |
 |9+| All weapons| All armor
 
-THE LAW & TRAVELLERS A planet’s Law Level can be used to determine the Travellers’ interactions with the law. In each of the following situations, roll 2D, add the listed modifiers and if the total is equal to or lower than the planet’s Law Level, the Travellers are investigated or challenged by agents of planetary law enforcement.
+THE LAW & TRAVELLERS A planet's Law Level can be used to determine the Travellers' interactions with the law. In each of the following situations, roll 2D, add the listed modifiers and if the total is equal to or lower than the planet's Law Level, the Travellers are investigated or challenged by agents of planetary law enforcement.
 
 Situation DM Response First approach to a planet +0 Check Offworlders wandering the streets of a city (once per day)
 
@@ -8451,15 +8451,15 @@ Bar fight -1 Apprehended Shots fired -2 Apprehended Breaking and entering -2 Inv
 
 Murder and carnage -4 Investigate
 
-Check: This result means the Travellers’ travel documents and identities are checked, either by a police officer or guard, or electronically by querying the Travellers’ comms. A successful Admin or Streetwise check can allay suspicion but if it is failed, the planetary authorities move on to Investigation.
+Check: This result means the Travellers' travel documents and identities are checked, either by a police officer or guard, or electronically by querying the Travellers' comms. A successful Admin or Streetwise check can allay suspicion but if it is failed, the planetary authorities move on to Investigation.
 
-Investigate: This results in a detective or bureaucrat probing deeper into the Travellers’ backgrounds. If the Travellers have a ship, it will be searched. They may be followed or have their communications tapped. They may also be questioned closely.
+Investigate: This results in a detective or bureaucrat probing deeper into the Travellers' backgrounds. If the Travellers have a ship, it will be searched. They may be followed or have their communications tapped. They may also be questioned closely.
 
-Apprehended: The police show up ready for a fight. Their response will generally be proportional to the threat posed by the Travellers; if the Travellers are just making trouble in a bar, then most police forces will use batons, stunners, tranq gas and other non-lethal weapons. On the other hand, if the Travellers are in battle dress and firing PGHPs at the palace of the planetary duke, then the police will show up with the best weapons and armor available at the planet’s Tech Level (or even a few levels higher), possibly with the army not far behind them.
+Apprehended: The police show up ready for a fight. Their response will generally be proportional to the threat posed by the Travellers; if the Travellers are just making trouble in a bar, then most police forces will use batons, stunners, tranq gas and other non-lethal weapons. On the other hand, if the Travellers are in battle dress and firing PGHPs at the palace of the planetary duke, then the police will show up with the best weapons and armor available at the planet's Tech Level (or even a few levels higher), possibly with the army not far behind them.
 
 Travellers arrested for a crime will face punishment, determined by rolling 2D+DMs on the Sentencing table.
 
-For crimes involving smuggling banned goods, the DM is equal to the difference between the planet’s Law Level and the banned goods in question (for example, laser weapons are banned at Law Level 2, so a Traveller found with a laser weapon on a Law Level 6 world would have DM+4 on the Sentencing table).
+For crimes involving smuggling banned goods, the DM is equal to the difference between the planet's Law Level and the banned goods in question (for example, laser weapons are banned at Law Level 2, so a Traveller found with a laser weapon on a Law Level 6 world would have DM+4 on the Sentencing table).
 
 Other crimes have a set DM.
 
@@ -8477,7 +8477,7 @@ STARPORT Starports are the arteries of interstellar commerce. These ports for sp
 
 Starports are classed from A to E. To determine the level of a starport on a planet, roll 2D and apply these DMs to the Starport Class table:
 
-DM+1 if the planet’s Population is 8-9 DM+2 if the planet’s Population is 10+ DM–1 if the planet’s Population is 3-4 DM–2 if the planet’s Population is 2–
+DM+1 if the planet's Population is 8-9 DM+2 if the planet's Population is 10+ DM–1 if the planet's Population is 3-4 DM–2 if the planet's Population is 2–
 
 Starport Class 2D+DM Starport Class
 | 2  or less| X |
@@ -8513,7 +8513,7 @@ Berthing Cost: This is the price paid by any ship that wants to land or dock at 
 
 Fuel: This refers to the fuel available for purchase – either refined or unrefined. Refined fuel costs Cr500 per ton; unrefined fuel costs Cr100 per ton but is risky to use when jumping. Bases have their own fuel-refining ability – see Bases on page 259.
 
-Facilities: These are the starport’s repair and construction ability. A shipyard allows for the construction of new vessels. A shipyard capable of building all types of ships can construct small craft (less than 100 tons), spacecraft (100 to 5,000 tons) and capital ships (more than 5,000 tons). However only a Class A starport can construct jump-capable spacecraft.
+Facilities: These are the starport's repair and construction ability. A shipyard allows for the construction of new vessels. A shipyard capable of building all types of ships can construct small craft (less than 100 tons), spacecraft (100 to 5,000 tons) and capital ships (more than 5,000 tons). However only a Class A starport can construct jump-capable spacecraft.
 
 Repair facilities allow a damaged ship to be repaired and have plenty of spare parts for most common systems.
 
@@ -8529,11 +8529,11 @@ TECH LEVEL The Tech Level of the planet is determined by rolling 1D and adding D
 
 The Tech Level measures the average technology presence on the planet and gives an idea of local production and repair capability. Trade with offworlders may bring in advanced technology; on average, a rich individual can afford technology two or more levels higher than the planetary average. The government may also have access to higher-technology items.
 
-A planet’s technology may be one or more levels higher or lower in a particular field, such as Medicine, Communications, Weaponry, Ship Construction, Power Generation, Computers and so forth.
+A planet's technology may be one or more levels higher or lower in a particular field, such as Medicine, Communications, Weaponry, Ship Construction, Power Generation, Computers and so forth.
 
 COMMUNICATIONS If the planet is below Tech Level 3, then there will be no telecommunication system whatsoever except for whatever facilities the starport offers. If it is between TL4 and TL6, then it has radio and telephone communications between major cities at least but
 
-CHARTED SPACE: STARPORTS AND THE LAW Technically, a starport is Imperial territory and not under the jurisdiction of the planetary government. The local government may share in the construction costs, running costs and profits of the starport but the port is extraterritorial and run by an Imperium-appointed governor. This means that Travellers can carry locally illegal goods onto a planet so long as they do not leave the starport. It also means that criminals and refugees often claim sanctuary in a starport and that a starport’s Tech Level may be considerably higher than that of the rest of the planet. Starports operate according to Imperial Law
+CHARTED SPACE: STARPORTS AND THE LAW Technically, a starport is Imperial territory and not under the jurisdiction of the planetary government. The local government may share in the construction costs, running costs and profits of the starport but the port is extraterritorial and run by an Imperium-appointed governor. This means that Travellers can carry locally illegal goods onto a planet so long as they do not leave the starport. It also means that criminals and refugees often claim sanctuary in a starport and that a starport's Tech Level may be considerably higher than that of the rest of the planet. Starports operate according to Imperial Law
 (equivalent to Law Level 1 for most items and forbidding all use of psionics).
 
 However, Travellers should be aware that not every world honors this approach and paranoid governments have been known to forcibly board and inspect ships to root out what they see as unpleasant influences.
@@ -8558,7 +8558,7 @@ other secret operations. Some are specific to the Charted Space universe but the
 
 Corsair Base (C): Popularized by Vargr, corsair bases do not have the full range of facilities as naval bases but provide enough to refuel and maintain corsair ships. A corsair base is often the main staging point from which raids are conducted.
 
-Depot (D): Used by the Imperium’s sector fleets, a depot is a massive naval base, often consuming an entire star system. It can support a sizeable fraction of a sector fleet’s ships at once, offering building, repairing, rearming and experimental facilities. As well as servicing ships, depots also have command and control facilities, academies and mothballed ships.
+Depot (D): Used by the Imperium's sector fleets, a depot is a massive naval base, often consuming an entire star system. It can support a sizeable fraction of a sector fleet's ships at once, offering building, repairing, rearming and experimental facilities. As well as servicing ships, depots also have command and control facilities, academies and mothballed ships.
 
 Military Base (M): These are planetary facilities for the support, maintenance, repair and refit of ground vehicles and troops.
 

@@ -55,7 +55,7 @@ IMPERIAL MILITARY FORCES 12
 THE NOBILITY 45
 CORPORATIONS AND MEGACORPORATIONS 55
 HISTORY OF THE THIRD IMPERIUM 59
-CORE SECTOR 106
+[[Core sector]]  106
 APGE 108
 PERITE 115
 AMEROS 124
@@ -84,7 +84,7 @@ various human and alien races.
 Many Travellers are familiar with the Spinward
 Marches and its neighboring sectors, Deneb, the
 Trojan Reach and Reft. These sectors are on the
-frontier, located ‘behind the Claw’ of the Great Rift,
+frontier, located 'behind the Claw' of the Great Rift,
 a massive region devoid of stars that separates the
 domain from the heart of the Imperium. While the
 Marches are mostly Imperial territory, they are far
@@ -96,7 +96,7 @@ the Solomani, conquering a quarter of its territory
 including Terra itself. In modern times, the Imperium
 remains in Solomani space as an occupying force.
 
-Core sector, the seat of empire, is a far different place.
+[[Core sector]] , the seat of empire, is a far different place.
 These are the hallowed grounds where the Third
 Imperium was born from the ashes of the Long Night.
 The drama of Imperial history has played out in this
@@ -123,7 +123,7 @@ descriptions of its military forces, the feudal nobility
 who administer its worlds, the megacorporations that
 dominate its economy and other aspects of Imperial
 society. Also contained herein is a complete description
-of Core sector, the heart of the Imperium and the
+of [[Core sector]] , the heart of the Imperium and the
 location of its grandiose capital. Core is a remarkably
 diverse and turbulent place where Travellers will find
 abundant opportunities for adventure.
@@ -153,10 +153,10 @@ session might enhance their experience and prevent the
 Referee from having to narrate the various bits of history,
 library data and other factoids. For Travellers who want
 to read _The Third Imperium_ , most of the sections leading
-up to Core sector are safe territory. Avoid reading any
+up to [[Core sector]]  are safe territory. Avoid reading any
 patron encounters or NPC descriptions so that the
 Referee may use them. Most of the world descriptions in
-the Core sector section are safe to read as well but there
+the [[Core sector]]  section are safe to read as well but there
 are secrets and interesting facts sprinkled within those
 pages that Referees might want to surprise Travellers
 with. Consult the Referee before delving into the various
@@ -229,7 +229,7 @@ right of the map.
 
 While there are hundreds of alien races, there are
 only six that are considered to be Major Races. These
-are Humaniti, Aslan, Vargr, K’kree, Hivers and Droyne.
+are Humaniti, Aslan, Vargr, K'kree, Hivers and Droyne.
 Hundreds of Minor alien races, most of which have
 been gifted jump technology by the Major Races over
 the centuries, also travel the stars but none have large
@@ -372,7 +372,7 @@ attract mid-sized lines, which appoint subsidized
 merchant starships to serve them on an experimental
 basis. The most popular spacecraft for such trade
 missions is the 400-ton Type-R subsidized merchant,
-affectionately called the ‘fat trader’ or ‘subby’ by people
+affectionately called the 'fat trader' or 'subby' by people
 in the business. If running a subsidized merchant
 reveals that profits are there to be had, an interface or
 subsector line will eventually invest in a secondary or
@@ -446,7 +446,7 @@ before their competitors see it coming.
 Technology
 The Imperium benefits from the highest technology
 in Charted Space. They are in rare company, having
-achieved TL15. Only the K’kree of the Two Thousand
+achieved TL15. Only the K'kree of the Two Thousand
 Worlds, Hive Federation and some polities of the
 Vargr Extents have matched this level of achievement.
 The Aslan Hierate, Zhodani Consulate and Solomani
@@ -494,7 +494,7 @@ and use of technology; meanwhile the Solomani
 have always emphasised continuous innovation and
 advancement. The two are at cross purposes but their
 divergent philosophies have found ways to coexist.
-Both Vland and Terra are at the Imperium’s maximum
+Both Vland and Terra are at the Imperium's maximum
 Tech Level of 15. Despite the constant drumbeat of
 progress, the Imperium does exercise caution in key
 fields of research and development in an effort to keep
@@ -559,7 +559,7 @@ and mediation between opposed sides. Should a
 conflict escalate to war, it is not above the Imperium
 to pick sides. Assistance to one side or the other
 may sometimes be granted when it is deemed in the
-empire’s best interests.
+empire's best interests.
 
 Solomani and Vilani
 The majority of Imperial citizens are human and come
@@ -572,7 +572,7 @@ empire began to falter, the Terrans aggressively came
 onto the scene and swept the Ziru Sirka away during
 the Interstellar Wars. Having become an interstellar
 people themselves, the descendants of the Terrans
-became known as the Solomani, meaning ‘men of Sol’.
+became known as the Solomani, meaning 'men of Sol'.
 
 The Vilani and Solomani have slight physical
 differences despite having evolved on different worlds
@@ -611,8 +611,8 @@ gruel compared with the ancient and highly structured
 Vilani civilization. The Rule of Man raped and looted the
 First Imperium but were ultimately made students of its
 conservative, empire-building ways. To paraphrase the
-ancient Terran poet, Horace, ‘Captive Vland captured
-her rude conqueror’.
+ancient Terran poet, Horace, 'Captive Vland captured
+her rude conqueror'.
 
 While the Vilani certainly knew a lot about empire
 building, the Solomani knew how to give an empire
@@ -754,7 +754,7 @@ REACH
 RIFTSPAN
 REACHES
 
-**REAVER’SDEEP**
+**REAVER'SDEEP**
 
 DARK
 NEBULA
@@ -804,7 +804,7 @@ HINTERWORLDS
 
 **HLAKHOI**
 
-**STAIHAIA’YO**
+**STAIHAIA'YO**
 
 **AKTTIFAO UISTILRAO CANOPUS ALDEBARAN NEWWORLD LANGERE**
 
@@ -899,7 +899,7 @@ poses a daunting opponent.
 
 The Imperium has a history of conflict with two of the
 Major Races – the Aslan and Vargr – and no major
-conflicts with the K’kree, Hivers or Droyne. Of the
+conflicts with the K'kree, Hivers or Droyne. Of the
 Major Races, the Imperium shares a border with only
 the Vargr Extents. There are comfortable buffer zones
 with the rest, most of which contain collections of
@@ -1033,7 +1033,7 @@ superior noble or even the Emperor becomes involved.
 Noble patents and fiefs are not distributed equitably, nor
 are worlds or lands granted under enfeoffment always
 equivalent in value or prestige. It is not uncommon
-for nobles to become envious of each other’s fiefs.
+for nobles to become envious of each other's fiefs.
 Conflicts are usually resolved through official channels,
 but some degree of skulduggery sometimes happens.
 Rival nobles are not permitted to declare war on one
@@ -1048,9 +1048,9 @@ There are a few hot spots in the Imperium worthy of
 mention. The Domain of Deneb has always been a
 hotbed for conflict. The duchies of Deneb are highly
 contentious with one another and the Spinward
-Marches has always felt a bit neglected by Capital. To
+Marches has always felt a bit neglected by [[Capital]]. To
 express their grievances, not one but two of its Grand
-Admirals travelled to Capital during the Civil War to
+Admirals travelled to [[Capital]] during the Civil War to
 claim the throne by force. The League of Antares has
 always had a strong independent streak. The region
 changed hands multiple times during the Pacification
@@ -1064,7 +1064,7 @@ done essentially what they set out to do – build a
 massive empire based on free trade and the defence
 of the space between its worlds – there are many
 more issues to deal with. Maintaining unity has
-always been the bane of the Emperor’s role and he
+always been the bane of the Emperor's role and he
 must be vigilant lest it slip from his grasp.
 
 Imperial Society and Culture
@@ -1082,7 +1082,7 @@ Imperium together, responsible for the defence of its
 borders and the enforcement of Imperial law.
 
 The marines are an adjunct to the navy, serving as its
-ship’s troops. Starship battles alone do not always win
+ship's troops. Starship battles alone do not always win
 wars. When the Imperium attacks terrestrial targets, the
 marines are its primary assault force the shock troops
 who descend from space to establish a landing zone
@@ -1100,7 +1100,7 @@ current form. The bold explorers of the Scout Service
 recontacted hundreds of isolated worlds and pocket
 empires during and after the Long Night, and paved
 the way for their integration into the Imperium. Today
-they continue to survey the Imperium’s many member
+they continue to survey the Imperium's many member
 worlds, explore outside the Imperium to further its
 knowledge and maintain the communications links vital
 to maintaining the Imperium itself.
@@ -1119,7 +1119,7 @@ administrative nervous system of the Imperium. The
 Imperial Navy patrols its borders and interior, enforces
 
 Imperial law and ensures the secure flow of commerce
-between its worlds. In short, the navy’s jobs are to
+between its worlds. In short, the navy's jobs are to
 defend the Imperium from external enemies, rid it of
 internal threats such as pirates and smugglers, and
 protect the worlds of the Imperium from each other
@@ -1128,7 +1128,7 @@ when necessary.
 The Imperial Navy is a vast interstellar military force
 with bases spread throughout Imperial space. Most
 sectors have a Naval Depot, a dedicated star system
-where the navy’s starships are built and serviced.
+where the navy's starships are built and serviced.
 Generally speaking, the Imperial Navy reserves its
 larger ships – carriers, battleships, dreadnoughts
 and so forth – for the defence of a sector against
@@ -1280,7 +1280,7 @@ personnel and civilian contractors only. New starship
 prototypes are often being built and tested at depots,
 so access is highly restricted. One must be a member
 of the navy or have special permission to enter a depot
-system. For a complete description of Core sector
+system. For a complete description of [[Core sector]] 
 Depot, located in the Mekee subsector, see page 144.
 
 IMPERIAL QUARANTINE AGENCY
@@ -1294,7 +1294,7 @@ an independent service with its own fleet of ships but it
 was eventually thought more cost-effective to make it a
 
 branch of the navy. At its height, the agency commanded
-approximately 10 percent of the navy’s ships but that
+approximately 10 percent of the navy's ships but that
 number has since dwindled. With increasing technology
 and automation, fleet elements can easily be annexed
 by the agency as needed and assigned to handle
@@ -1307,7 +1307,7 @@ administrative side.
 
 During the early centuries of Imperial history, the
 Quarantine Agency was involved in many operations
-that required the ‘cleansing’ of entire worlds. If a world
+that required the 'cleansing' of entire worlds. If a world
 was determined to be an existential threat to the
 empire, naval elements interdicted the affected planet
 and then bombarded it with capital ship armaments
@@ -1338,7 +1338,7 @@ by serving terms in the Citizen (corporate) or
 Noble (administrator) career. While the two
 branches are intertwined, their ranks are not
 interchangeable. When transferring from one
-branch to the other, the Traveller’s rank returns
+branch to the other, the Traveller's rank returns
 to 0 in the new branch, effectively starting a
 new career.
 
@@ -1663,8 +1663,8 @@ surrender or might be armed to the teeth and intent
 on repelling boarders. Marines are always ready to
 fight their way into a ship but must also be prepared
 to fight their way back out if necessary. As a famous
-marine once said, ‘there’s no such thing as retreat but
-sometimes you can shoot in all directions’.
+marine once said, 'there's no such thing as retreat but
+sometimes you can shoot in all directions'.
 
 Jump troops drop from space with re-entry
 capsules, ablative shields, deployment shuttles or other
@@ -1673,8 +1673,8 @@ information about re-entry capsules, see page 46 of
 High Guard. After a successful landing, the marines
 usually give way to the army, who come in to secure
 strategic targets and occupy worlds. In some cases,
-marines stay to help. As the saying goes, ‘All marines
-are riflemen’ and they are capable infantry.
+marines stay to help. As the saying goes, 'All marines
+are riflemen' and they are capable infantry.
 
 IMPERIAL MILITARY FORCES
 
@@ -1762,7 +1762,7 @@ A CASE OF MISTAKEN IDENTITY
 Patron: Sergeant Laon Kantil, Imperial Marines
 103 rd Provisional Expeditionary Force
 Mission: After coming out of jump at the
-100-diameter limit, the Travellers’ ship is hailed
+100-diameter limit, the Travellers' ship is hailed
 by a naval cutter, which demands they stand
 down and prepare for boarding. The Travellers
 might be rattled by the aggressiveness of the
@@ -1774,7 +1774,7 @@ Sergeant Kantil meets with the Travellers to
 extend his apologies. Their ship was identified
 on a list of possible smugglers; apparently, a
 criminal operation on a nearby world has found a
-way to ‘spoof’ transponder codes and has been
+way to 'spoof' transponder codes and has been
 using them to impersonate law-abiding starship
 crews. The sergeant informs the Travellers that
 there is a reward for any information that leads to
@@ -1810,7 +1810,7 @@ IMPERIAL MARINE ASSAULT BATTLE DRESS
 Imperial Marine battle dress maintains its distinctive
 look at all Tech Levels. The suit described here is
 the top-of-the-line model worn by most marines in
-the Core sector and other important regions of the
+the [[Core sector]]  and other important regions of the
 Imperium. While it contains 20 slots for customization,
 most of them are filled with the standard equipment
 shown here.
@@ -1837,8 +1837,8 @@ Disposable re-entry kit 10 11 Flyer (any) 1 Cr12000
 Disposable re-entry kit 13 8 Flyer (any) 0 Cr10000
 
 **DISPOSABLE RE-ENTRY KIT**
-Sometimes referred to as the ‘poor man’s escape
-pod’, disposable re-entry kits are a suitable backup
+Sometimes referred to as the 'poor man's escape
+pod', disposable re-entry kits are a suitable backup
 tool for jump troops who do not have access to a
 reentry capsule or other means of conducting an orbital
 assault. The kit consists of an ablative shield, harness,
@@ -1896,11 +1896,11 @@ military solutions. Some worlds with no army have an
 arrangement with one that does, thereby gaining a
 portion of its soldiers for their own defence. Others rely
 on mercenary forces. Some simply do without one,
-passively benefitting from ‘herd immunity’ by being
+passively benefitting from 'herd immunity' by being
 among neighbors who have them.
 
 The primary reason to have an army is to defend
-one’s world, although many worlds, especially those
+one's world, although many worlds, especially those
 far from Imperial borders, do not see the need for one
 in the civilised Imperium. This can be a mistake since
 the Imperium does allow limited conquest to occur
@@ -2031,7 +2031,7 @@ infantry are typically equipped with combat armor and
 light weaponry. Jump troops in the army are special
 forces as opposed to the marines, all of whom are
 trained for such operations. Notably, jump-trained army
-units post ‘drop wings’ on their uniforms while marines
+units post 'drop wings' on their uniforms while marines
 retain a space for wings but do not post them since all
 marines are jump troops.
 
@@ -2053,7 +2053,7 @@ infantry and destroy other vehicles and tanks.
 
 Support roles are many and varied in a high-tech
 army, including artillery, combat engineers, medics
-and staff. Artillery are trained in the use of the army’s
+and staff. Artillery are trained in the use of the army's
 field weapons. At low- to mid-Tech Levels, artillery
 is composed of large-calibre slug-throwing weapons
 that fire explosive munitions. As Tech Levels increase,
@@ -2065,7 +2065,7 @@ Imperial Military Forces
 TRAVELLER
 
 to enemy structures and personnel alike. Artillery is often
-referred to as simply ‘the killer’ for its astounding ability
+referred to as simply 'the killer' for its astounding ability
 to suppress mobility and inflict casualties.
 
 BUILDING IMPERIAL ARMY UNITS
@@ -2096,7 +2096,7 @@ together. Despite his objection to the use of force to
 coerce worlds into accepting Imperial membership, he
 realised that an Imperial Army would be required. Not
 every world in Charted Space could be expected to
-accept the Imperium’s offer and there would come a
+accept the Imperium's offer and there would come a
 day when it would be unacceptable, even dangerous,
 to have islands of independence in the midst of
 the empire. Furthermore, once the Imperium was
@@ -2131,7 +2131,7 @@ an Imperial Army division, attached formations are
 generally segregated from units that are built from
 contributed formations. Likewise, attached formations
 are given suitable assignments for units that do not
-regularly ‘play for the team’. Contributed formations
+regularly 'play for the team'. Contributed formations
 regularly train with one another and have an array of
 standards that make it easy to mix and match troops
 from multiple worlds into a cohesive subsector or
@@ -2182,14 +2182,14 @@ tech worlds with large populations, low-tech worlds with
 medium populations, mid-tech worlds with middling
 populations and every other combination in between.
 The Tech Level differences between armies can be
-significant. In the Core sector alone, there are massive
+significant. In the [[Core sector]]  alone, there are massive
 disparities. For example, the high-population world of
 Shiirand has an army of 34 million soldiers, all of whom
 use TL7 equipment. Meanwhile, three parsecs away,
 the army of Ushra has 105 million soldiers armed to a
 much higher TL12 standard. The Imperium mitigates
 this imbalance with joint training exercises. Several
-battalions of Shiirand’s army are regularly deployed
+battalions of Shiirand's army are regularly deployed
 to Ushra to train with weapons and vehicles of higher
 
 Population Imperial Army Presence
@@ -2218,7 +2218,7 @@ A or higher Higher Law Levels may indicate the presence of a larger, more invasi
 Law Level almost certainly indicates the presence of a larger, more intrusive police force. In some
 cases, the two go hand-in-hand.
 
-technology. Likewise, soldiers in Ushra’s army might be
+technology. Likewise, soldiers in Ushra's army might be
 rotated to TL14 Alekvadin to learn how to use man-
 portable fusion weapons in a separate cross-training
 program. It is not cost-effective for every soldier
@@ -2233,12 +2233,12 @@ equipment but chances are that most of the soldiers in
 a subsector army have been exposed to high-tech gear
 at some point during their careers. Therefore, when
 called upon to serve in an interstellar deployment, the
-soldiers of any world’s army are generally proficient at
+soldiers of any world's army are generally proficient at
 the technological standard that is provided.
 
 ENCOUNTERS WITH THE IMPERIAL ARMY
 The Imperial Army is almost everywhere in the
-Imperium. Use a world’s Universal World Profile as a
+Imperium. Use a world's Universal World Profile as a
 guide with the following caveats. Note that this applies
 strictly to worlds within the boundaries of the Imperium.
 
@@ -2279,7 +2279,7 @@ by giving them a little taste of home. Military
 budgets are tight but Odom has been given
 a reasonable discretionary fund to acquire
 foods, entertainment products and other goods
-from each of the regiment’s homeworlds.
+from each of the regiment's homeworlds.
 The Travellers are hired to pick up 30 tons of
 freight and an additional 20 tons of goods (the
 portions from each world to be determined
@@ -2392,8 +2392,8 @@ Fusion Gun-RFY 5 3DD AP 15, Auto 2, Blast 10, Radiation +4
 Currently available as a prototype, the _Trepida_ is
 intended to become the standard-issue heavy grav tank
 in the Imperium. The _Trepida_ is in trials at the moment
-and has been deployed on Capital and other key
-worlds of the Core sector. The tank has a crew of two,
+and has been deployed on [[Capital]] and other key
+worlds of the [[Core sector]] . The tank has a crew of two,
 a commander and driver/gunner.
 
 **Rapid-Fire Fusion Guns:** The _Trepida_ and other
@@ -2402,7 +2402,7 @@ gun instead of the standard fusion gun installed on its
 predecessor, the _Invader_. Rapid-fire fusion weapons
 
 become available at TL14, are designated with the
-prefix ‘RF’ and preclude the need for an auxiliary
+prefix 'RF' and preclude the need for an auxiliary
 automatic weapon.
 
 EQUIPMENT AND WEAPONS
@@ -2474,7 +2474,7 @@ TRAVELLER
 Lift Infantry Regiments
 
 and the Imperial Guard
-Lift infantry regiments or ‘Huscarles’ are the private
+Lift infantry regiments or 'Huscarles' are the private
 armies of the Imperial nobility. The greatest of
 these armies is the Imperial Guard, composed of 11
 regiments of crack troops and other support units.
@@ -2485,7 +2485,7 @@ houses established personal bodyguard regiments,
 some of which were later converted into regular
 Imperial Army units. Perhaps the most famous of these
 is the 4518th Imperial Lift Infantry Regiment, the Duke
-of Regina’s Own Huscarles. This unit was initially
+of Regina's Own Huscarles. This unit was initially
 assembled for the protection of Baron Caranda of
 Regina, who modified the force into a fighting unit. The
 Huscarles were used to quell dissent among the worlds
@@ -2537,11 +2537,11 @@ forces formed from local armies and mercenaries
 doing the actual fighting.
 
 For more information on Huscarles, refer to the article
-on the 4518th Lift Infantry in Journal of the Travellers’
+on the 4518th Lift Infantry in Journal of the Travellers'
 Aid Society Volume 2.
 
 THE IMPERIAL GUARD
-The greatest of all household troops are the Emperor’s
+The greatest of all household troops are the Emperor's
 Imperial Guard. Headquartered on Capital, the Imperial
 Guard are responsible for the defence of the Imperial
 Palace and its Emperor. The Guard was officially
@@ -2577,7 +2577,7 @@ Force, the Scout Service Protection Detail and the
 Imperial Navy Escort Squadron. The primary duty of
 the Marine Escort Force is to serve aboard the Pax
 Imperii , the 10,000-ton yacht that serves as the flagship
-of the Emperor’s personal fleet. Members of the
+of the Emperor's personal fleet. Members of the
 
 IMPERIAL MILITARY FORCES
 
@@ -2592,7 +2592,7 @@ Imperial Guard Service Skills
 
 Imperial Guard and its supporting forces are bestowed
 the honor of membership in the Knightly Order of the
-Emperor’s Guard.
+Emperor's Guard.
 
 The Imperial Guard are regularly seen by the public
 when performing the popular changing of the guard
@@ -2624,7 +2624,7 @@ Guard has the following prerequisites:
 •  Received a promotion in the term just prior
 to application
 •  No Mishaps have been incurred during the
-Traveller’s career
+Traveller's career
 
 **Qualification:** 11+.
 DM+1 if STR 10+. DM+1 if END 10+. DM+1 if SOC 9+.
@@ -2654,14 +2654,14 @@ Guard receive DM+1 on all non-cash Benefit rolls and
 may automatically choose TAS Membership as one
 of their Benefits. In addition, the value of any material
 Benefit received (e.g., Gun, Blade, Implant) may be
-up to twice the value listed in the Benefit’s description.
+up to twice the value listed in the Benefit's description.
 The Traveller also receives SOC+2 from having served
 in the most hallowed and decorated service of the
 Imperial military forces.
 
 Imperial Military Forces
 
-_Pax Imperii_ is the Imperial family’s 10,000-ton yacht.
+_Pax Imperii_ is the Imperial family's 10,000-ton yacht.
 This spacecraft is one of a kind and serves as both a
 luxurious conveyance for the Emperor and a mobile
 platform to travel with friends, fellow heads of state
@@ -2678,7 +2678,7 @@ impressive than its common areas. The 40-ton crew
 commons are pedestrian but the 440-ton commons
 for the Imperial family and their guests is highly
 configurable. Before each voyage, a team that reports
-to the Emperor’s private secretary uses specialized
+to the Emperor's private secretary uses specialized
 software to program the commons configuration. The
 space is apportioned based on who the guests are,
 what the purpose of the voyage is and, of course,
@@ -2699,7 +2699,7 @@ Configuring the common area requires a task check
 of varying difficulty, depending on the
 configuration requested.
 
-Configure the common area for Princess Iphegenia’s
+Configure the common area for Princess Iphegenia's
 16 th Birthday Party Bash: Average (8+) Electronics
 (remote ops) check (1D hours, SOC).
 
@@ -2718,7 +2718,7 @@ make its guests feel at home. The crew sections are
 sequestered so that visitors are unlikely to see them
 unless they are taken on a tour of the ship. The Marine
 Escort barracks are located above and below the
-Emperor’s quarters and near the configurable commons.
+Emperor's quarters and near the configurable commons.
 
 TL15 TONS COST (MCR)
 Hull 10,000 tons, Streamlined — 600
@@ -2963,7 +2963,7 @@ Navy Science Division. The technology created
 by the project is essentially a collection of sensor
 devices and an immense telescopic array that
 watches for potentially hostile anomalies that
-might be directed towards Capital. Similar, less
+might be directed towards [[Capital]]. Similar, less
 expansive systems exist on other Imperial worlds
 of great import, including Reference and the
 majority of Imperial Depots.
@@ -3090,15 +3090,15 @@ other equipment. Scouts from each branch are
 expected to be technically competent and repair their
 own gear if possible, so Technical Services are only
 called upon for the most difficult jobs. The Detached
-Duty office maintains and assigns the service’s
+Duty office maintains and assigns the service's
 immense fleet of retired starships. They also keep
 track of the ex-scouts to which these ships have been
-assigned. The phrase ‘Once a scout, always a scout’ is
+assigned. The phrase 'Once a scout, always a scout' is
 the credo of Detached Duty who track down and assign
 missions to scouts who have been blessed with the
 possession of a hardy scout/courier for their own use.
 
-The Operations division of each branch – called ‘Ops’
+The Operations division of each branch – called 'Ops'
 by members of the service – evaluates and assigns all
 scout missions. Jobs in Operations are often thought
 to be mundane; they are, in fact, anything but. Ops
@@ -3112,8 +3112,8 @@ vaunted Security division, which protects valuable
 service assets and engages in espionage activities.
 
 While the scouts are often viewed as only a scientific
-service or perhaps ‘paramilitary’ at best, they do put
-themselves in harm’s way and also provide some
+service or perhaps 'paramilitary' at best, they do put
+themselves in harm's way and also provide some
 distinctly military services. The Scout Service Imperial
 Protection Detail has served the Emperor for centuries,
 operating as a lightly armed secret service whose sole
@@ -3228,7 +3228,7 @@ are largely left to govern themselves. The power
 vacuum sometimes creates conflicts between industrial
 concerns on the planet. A conglomeration of mining
 firms confidentially established the contract with ZRC,
-going over the heads of its own miners’ union. The
+going over the heads of its own miners' union. The
 project was intended to be confidential but there was
 a leak. ZRC considered scuttling the operation but
 a lanthanum shortage in the Shesh belt made them
@@ -3243,10 +3243,10 @@ ZRC needs a platoon-sized mercenary unit to provide
 security for a multiple-phase ticket. They are offering
 Cr100000 per month plus standard salaries for the unit
 for the duration of the ticket. An additional bonus of
-Cr50000 will be given if none of ZRC’s equipment is
+Cr50000 will be given if none of ZRC's equipment is
 damaged by the opposition.
 
-REFEREE’S INFORMATION
+REFEREE'S INFORMATION
 There are a number of issues at play here. On the
 surface, a ragtag group of miners should pose no
 threat to a well-trained and equipped platoon of
@@ -3268,7 +3268,7 @@ MISSION PHASES
 The first phase of the mission is to secure the starport
 on Gaen Luum while mining equipment and vehicles
 are loaded onto Achenaar Antilles freighters. The
-Arvlaa Gam Miners’ Union is not thought to have the
+Arvlaa Gam Miners' Union is not thought to have the
 resources or reach to sabotage the mission at this
 point but ZRC is a somewhat paranoid company and
 does not want to take chances.
@@ -3296,7 +3296,7 @@ TRAVELLER
 The final phase is to provide cover for ZRC during the
 return jump to Gaen Luum.
 
-THE MINERS’ UNION
+THE MINERS' UNION
 The union are a rough-and-tumble bunch, many of
 whom are former soldiers. They are not in the business
 of fighting wars but Arvlaa Gam is a tough world and its
@@ -3309,7 +3309,7 @@ Their morale is initially high but drops quickly if they
 encounter setbacks.
 
 CHARACTERISTIC VALUE DM
-Force Name Miners’ Union —
+Force Name Miners' Union —
 Unit Size Two platoons —
 Unit Type Infantry —
 Unit TL 10 +1
@@ -3323,12 +3323,12 @@ Morale 8 0
 Reputation 3 -2
 
 THE OPPOSITION
-The goal of the miner’s union is to disrupt the ZRC
+The goal of the miner's union is to disrupt the ZRC
 operation on Arvlaa Gam and to prevent it from
 extracting lanthanum from the mine. If they can
 accomplish this with sabotage, thereby avoiding armed
 conflict, they will do so. However, if the mercenaries
-do their jobs well, and they prevent the miners’ union
+do their jobs well, and they prevent the miners' union
 from accomplishing their goals, the union will become
 increasingly frustrated, eventually resorting to a more
 direct approach.
@@ -3395,7 +3395,7 @@ IMPERIAL MILITARY FORCES
 Perhaps the best-known spy agency is Imperial
 Naval Intelligence (INI). The INI has officers posted
 to most Imperial Navy bases. The vast majority of
-INI officers are administrators who use the navy’s
+INI officers are administrators who use the navy's
 considerable reach to surveil and collect data on
 everything from current events on Imperial worlds,
 interplanetary incidents, interstellar anomalies,
@@ -3410,17 +3410,17 @@ free trader community from time-to-time.
 
 INI administrators are given broad discretionary
 powers, including the ability to hire and train
-agents. Mid-level INI officers, often called ‘minders’,
+agents. Mid-level INI officers, often called 'minders',
 are permitted to build intelligence networks with
 certain guidelines and limitations. These networks
 are composed of smaller units called cells, which
 typically include 4–12 individual agents. Cells are
 carefully cultivated and managed by their minders
 and a given cell might not even be aware of
-another’s existence within the same organization
+another's existence within the same organization
 or that of another minder. Minders are careful to
 prevent their cells from working at cross purposes or
-inadvertently interfering with each other’s missions.
+inadvertently interfering with each other's missions.
 The technology available to INI administrators makes
 managing a complex array of cells relatively trivial
 but care must be taken nonetheless.
@@ -3445,7 +3445,7 @@ scout ships by the Detached Duty division. Obligated
 by the Scout Service to serve when called upon to
 do so, detached duty scouts and their ships make
 
-ON HIS IMPERIAL MAJESTY’S SECRET SERVICE
+ON HIS IMPERIAL MAJESTY'S SECRET SERVICE
 Most INI officers stay in administrative roles and
 operatives are rarely drawn from long-term career
 ranks of the navy itself. However, naval officers
@@ -3476,7 +3476,7 @@ To become an INI field agent, the Traveller must
 first serve at least one term in the Navy career,
 then successfully qualify for the Agent career,
 selecting the intelligence assignment. Failure to
-qualify indicates that the Traveller’s request to
+qualify indicates that the Traveller's request to
 receive a field agent posting has been denied.
 Terms served as a field agent are carried out as a
 separate career. However, if the Traveller opts to
@@ -3500,8 +3500,8 @@ number of less-official nicknames, some of which are
 a little derisive. Den mother, trail boss and cat herder
 are some of the more popular ones.
 
-Agents in the Scout Service are often seen as ‘the
-foreign office’ whereas INI agents operate within the
+Agents in the Scout Service are often seen as 'the
+foreign office' whereas INI agents operate within the
 Imperium most of the time. Many scouts, especially
 those in the Exploration branch, have travelled beyond
 Imperial borders, giving them a greater understanding
@@ -3519,7 +3519,7 @@ authority that they are a trustworthy group loyal to
 the Imperium.
 Location: Rorpa Din/Chant.
 Pre-requisites: This patron encounter is based
-on Marc Miller’s Traveller novel, Agent of the
+on Marc Miller's Traveller novel, Agent of the
 Imperium. Ideally, the Traveller who installs the
 Angin wafer will have read the book in order to
 play the role of Jonathan Bland, the Decider.
@@ -3531,7 +3531,7 @@ Angin wafer, he becomes Jonathan Bland for the
 duration of the patron encounter and subsequent
 adventure. Bland will go through his standard
 operating procedure, first asking the group,
-‘Who is senior?’ and then proceeding to conduct
+'Who is senior?' and then proceeding to conduct
 the operation, applying Rules 1–6 of the Agent
 Standing Orders, as described in Agent of the
 Imperium. Lt. Tence informs him that a group
@@ -3544,7 +3544,7 @@ believed they have obtained nuclear weapons
 that they intend to use to attack either against
 Rorpa Din itself or some of the most populous
 asteroids of the Traa system. Lt. Tence had
-a cell of agents monitoring the insurgents’
+a cell of agents monitoring the insurgents'
 activities and they found out what was going
 on. Unfortunately, he has lost contact with
 the members of his cell and fears the worst.
@@ -3565,7 +3565,7 @@ the user is taken over by a Decider agent,
 one of several coded personalities based on
 a previously living servant of the Imperium
 named Jonathan Bland. The Traveller is under
-Bland’s control as long as the wafer is in place.
+Bland's control as long as the wafer is in place.
 
 IMPERIAL MILITARY FORCES
 
@@ -3603,7 +3603,7 @@ barons and marquises are granted by the Emperor but
 baronets are traditionally granted only by archdukes.
 Noble patents are granted twice per year, once on
 Holiday (the first day of the year) and again on the
-Emperor’s birthday. Most honor patents do not lead
+Emperor's birthday. Most honor patents do not lead
 to enfeoffment (land acquisition). The title of marquis
 is an exception as it typically includes a fief but
 landless marquises are not unknown. When a fief is not
@@ -3626,7 +3626,7 @@ intended to prevent such things from happening
 but not every archduke watches their dukes like a
 hawk, nor does every duke keep a close eye on their
 counts and so forth. The temptation to defy Imperial
-law or the dictates of one’s superiors is apparently
+law or the dictates of one's superiors is apparently
 too great to resist for some among the noble ranks.
 There are times when such resistance is justified.
 For example, a count may refuse to follow the orders
@@ -3647,7 +3647,7 @@ or even decades, depending on the seriousness of
 the infraction and follows when the noble in question
 refuses to make amends or shows no remorse for the
 actions that caused the suspension. A contrite noble
-can usually get their title back at the Emperor’s mercy.
+can usually get their title back at the Emperor's mercy.
 Even if there is a lack of contrition on the part of the
 offender, if the remainder of their family continues
 to serve the Imperium in good will, reinstatement
@@ -3671,15 +3671,15 @@ ensure a peaceful transition of power.
 TRAVELLER
 
 In addition to the more formal appellations listed above,
-‘Your Grace’ or ‘Your Majesty’ may be used in reference
+'Your Grace' or 'Your Majesty' may be used in reference
 to nobles ranked Baron or above. For Knights, simply
-‘My Lord’ or ‘Madam’ will suffice.
+'My Lord' or 'Madam' will suffice.
 
 It should be noted that the Imperium is a vast place and
 there is a great deal of variation among its worlds. In
 some societies, noble titles may be conflated to convey
-immense importance (for example, ‘Your Most Illustrious
-and Accomplished Eminence’) while on more egalitarian
+immense importance (for example, 'Your Most Illustrious
+and Accomplished Eminence') while on more egalitarian
 worlds, such appellations are often done away with
 altogether. Variety is the spice of life and Travellers
 are likely to encounter many different situations when
@@ -3734,7 +3734,7 @@ example, the Right Honorable Count Ganad.
 One powerful star system or 2–3
 systems of various power and prestige.
 
-15 Duke Your Grace, followed by the prefix ‘of’ and the
+15 Duke Your Grace, followed by the prefix 'of' and the
 name of the subsector or sector over which the
 Duke (or Duchess) presides. For example, Your
 Grace, the Duke of Aramis.
@@ -3792,7 +3792,7 @@ a single world to a whole planet, multiple planets, an
 entire subsector and so on.
 
 Merely holding land is not enough to maintain prestige
-when one’s family holds a patent of high precedence.
+when one's family holds a patent of high precedence.
 This is where the concept of high nobility comes into
 play. The great noble families carry a responsibility of
 service to the Imperium and typically hold positions
@@ -3826,7 +3826,7 @@ result in the breakup of the Imperium should things get
 bad enough. It is a powerful but dangerous tool and its
 usage is not to be taken lightly.
 
-Although dissolution is the Moot’s only actual ability,
+Although dissolution is the Moot's only actual ability,
 this does not mean that it is the only thing the nobility
 discusses within the chambers of the Moot Spire.
 All manner of subjects pertaining to the Imperium
@@ -3842,7 +3842,7 @@ information is often factual, unemotional and lacks
 context. For accurate, more nuanced information, he
 must rely upon his nobles, each of whom can give him
 a detailed account about what is actually happening in
-each of the Imperium’s sectors, right down to events
+each of the Imperium's sectors, right down to events
 on individual worlds if need be. The de facto leader of
 the Moot is the Chancellor, a high noble drawn from
 its ranks whom the Emperor feels he can trust. The
@@ -3850,21 +3850,21 @@ Chancellorship is a much sought-after position and is
 usually a lifetime appointment.
 
 The Moot Spire is a 1.75 kilometer tall structure located
-a mere 4.25 kilometer from the Emperor’s palace.
+a mere 4.25 kilometer from the Emperor's palace.
 Symbolically, the peak of the spire is allowed to rise
 above the crown of the Grand Palace except on one
 day; when a new Emperor is appointed. On that day,
 the subterranean gravitic compensators raise the
 altitude of the place so that its crown is 100m above
-the peak of the Moot Spire, indicating the ‘Emperor
-Ascendant’. More information about the Moot Spire is
-provided in the description of Capital on page 155.
+the peak of the Moot Spire, indicating the 'Emperor
+Ascendant'. More information about the Moot Spire is
+provided in the description of [[Capital]] on page 155.
 
 ORDERS OF KNIGHTHOOD
 Among the most lively institutions within the nobility are
 its many orders of knighthood. Upon achieving the rank
 of knight, recipients of the title are granted membership
-in one of the Imperium’s dozens of orders. The most
+in one of the Imperium's dozens of orders. The most
 common orders are those of each domain: The Order
 of Antares, the Order of Gateway, the Order of Sol, the
 Order of Sylea and the Order of Vland. Assignment to
@@ -3887,7 +3887,7 @@ other deep-space explorers are granted membership
 in the Order of the Arrow. Knights who achieved their
 rank by accomplishment in the sciences become
 members of the Order of Fusion. The Order of the
-Emperor’s Guard is by nature a rather exclusive order
+Emperor's Guard is by nature a rather exclusive order
 since membership is only granted to soldiers who
 serve in the ranks of the Guard. There are also orders
 for loyal alien citizens who have been made knights,
@@ -3918,7 +3918,7 @@ surrounded by a ring (representing the crown) in gold
 on a black background.
 
 Membership in an order confers several benefits that
-are similar to those who possess a Travellers’ Aid
+are similar to those who possess a Travellers' Aid
 Society membership. Knights of a certain domain
 can often obtain free high passage aboard starships
 provided they travel within the realm of their title.
@@ -3928,10 +3928,10 @@ community, sometimes only those of certain orders.
 Membership in an order provides a ready pool of
 potential contacts and patrons for knighted Travellers.
 Meeting or simply coming into contact with other
-members of one’s order might also result in a request
+members of one's order might also result in a request
 for assistance. When another knight of the order
 asks for help, it is expected that their fellow knight
-will comply. To do otherwise risks damage to one’s
+will comply. To do otherwise risks damage to one's
 reputation and possibly expulsion from the order.
 
 The bonds of fellowship that develop between
@@ -3945,8 +3945,8 @@ time-to-time by a baron or higher to accomplish a task
 in service to the Imperium. The peerage knows and
 trusts knighted women and men, all of whom have
 sworn their loyalty to the Emperor. Much like a plea
-for help from a fellow knight of one’s order, requests
-from the peerage are defied or resisted at one’s peril.
+for help from a fellow knight of one's order, requests
+from the peerage are defied or resisted at one's peril.
 Despite the responsibilities entailed, many knights
 enjoy their noble rank and do not desire promotion.
 Higher noble ranks confer levels of responsibility that
@@ -4115,7 +4115,7 @@ to Imperial authority were dealt with in a number of
 ways. Some were forcibly taken, some convinced to
 join via diplomacy and some given the leisure to join
 whenever they were ready with the caveat that the
-Emperor’s patience was not infinite. Stragglers were
+Emperor's patience was not infinite. Stragglers were
 also integrated into the Imperium, even if only at the
 bureaucratic level, and distributed as provisional fiefs.
 Recipients of such fiefs were often disappointed since
@@ -4133,7 +4133,7 @@ Confederacy are chided for their provincial accents and
 culture. The Chanestin nobles are the haughtiest of
 
 the bunch and look down their noses at the rest of the
-peerage. Nobles from Core’s most powerful industrial
+peerage. Nobles from Core's most powerful industrial
 subsectors attempt to lord it over their less well-heeled
 peers but are given short shrift by those with older
 dynastic heritage. A nouveau elite among the peerage
@@ -4203,7 +4203,7 @@ of the Imperium and has recently taken an interest
 in its security as well. The Empress has become an
 advocate for the cultural diversity of the Imperium,
 which on its surface would seem to be opposed to her
-husband’s efforts to bring its people closer together.
+husband's efforts to bring its people closer together.
 In fact, the two work quite well hand in hand, with the
 Emperor taking the role of wise but heavy-handed ruler
 when necessary, while his wife assures the cultures
@@ -4213,9 +4213,9 @@ patron of the IISS, spending a great deal of her time
 visiting its bases, promoting its services and ensuring
 that the best technology and resources are made
 available to its personnel. Ciencia Iphegenia spends
-much of her time away from Capital in the Reference
+much of her time away from [[Capital]] in the Reference
 system, where she studies at the University of
-Aadkhien and works closely with the scouts’ top brass.
+Aadkhien and works closely with the scouts' top brass.
 
 Following the death of his father, Emperor Strephon
 was crowned the 43rd Emperor of the Third Imperium
@@ -4227,7 +4227,7 @@ after reaching adulthood is a tall order for anyone but
 Strephon managed it surprisingly well, exhibiting grace
 and aplomb at every turn.
 
-The first great challenge of Strephon’s reign was the
+The first great challenge of Strephon's reign was the
 Fourth Frontier War. The war, conducted entirely within
 the confines of the Spinward Marches, was over in a
 mere 16 months. The Imperium made modest territorial
@@ -4278,7 +4278,7 @@ reality that the Imperium was becoming too broad and
 unwieldy. Its disparate sectors are too far apart for
 communication to be practical. In defiance of the Moot,
 Strephon re-established the domains and appointed
-archdukes to most of them to enhance the Imperium’s
+archdukes to most of them to enhance the Imperium's
 abilities to respond to crises such as those seen in the
 Domain of Deneb whose borders with the Zhodani,
 Vargr and the upstart Sword Worlds were a constant
@@ -4299,7 +4299,7 @@ Emperor Strephon travels Core and its neighboring
 sectors frequently, mostly on official business. He
 has also recently become involved in several highly
 secretive enterprises, which have something to do with
-the security of Capital and the Imperium at large.
+the security of [[Capital]] and the Imperium at large.
 
 When he can, the Emperor likes to get away to the
 northern seas of Capital, the reserve world of Crompton
@@ -4398,7 +4398,7 @@ Iolanthe, Ciencia Iphegenia is the Grand Princess of
 the Imperium. As heir to the Iridium Throne, Ciencia
 has been educated from birth to eventually assume the
 mantle of authority, much like her father did before her.
-She shares her mother’s keen intellect and has been
+She shares her mother's keen intellect and has been
 imbued with a strong sense of duty to the Imperium by
 her father.
 
@@ -4409,14 +4409,14 @@ by the age of five. Her aptitudes in the realms of the
 space sciences have many historians likening her
 to her ancestor, Arbellatra Alkhalikoi, who became a
 naval captain at the age of 16. After graduating from
-the prestigious Karbiili School on Capital at the age of
+the prestigious Karbiili School on [[Capital]] at the age of
 10, Ciencia joined the Scout Service and completed
 basic training at the age of 12. She has since become
 the leading patron of the IISS and travels frequently to
 Core scout bases and their operational headquarters
 at Reference where she also attends courses at the
 University of Aadkhien. Whether or not she becomes
-the ‘Arbellatra of the Scout Service’ remains to be seen
+the 'Arbellatra of the Scout Service' remains to be seen
 but there is ample reason to believe she will have an
 illustrious career with the IISS, possibly following it up
 with a stint at one or more of the Imperial Research
@@ -4601,7 +4601,7 @@ rotating 1- to 2-person crew.
 
 The class is named for important Imperial financial
 centres and famous corporate events and
-transactions. Intell is the largest city on Capital and
+transactions. Intell is the largest city on [[Capital]] and
 its primary business and financial center.
 
 Crew
@@ -4845,8 +4845,8 @@ politics and rivalries, Hiroshi moved the capital to
 Hub (now called Kaggushus) in the Massilia sector.
 When announcing this to the empire in a speech in
 High Vilani, Hiroshi introduced himself and his people
-for the first time as the ‘Solomani’. After 200 years of
-expansion, the invaders were no longer strictly ‘Terran’
+for the first time as the 'Solomani'. After 200 years of
+expansion, the invaders were no longer strictly 'Terran'
 anymore. Generations had been born on conquered
 and colonized worlds. Many were newly made clones
 or the descendants of clones who had been mass
@@ -4854,7 +4854,7 @@ produced in an effort to achieve greater parity with the
 Vilani. The Terrans had also uplifted many species
 native to their homeworld in a desperate effort to fill
 vacant roles in their military and on their starships.
-The word ‘Solomani’ reflected their origin in the Sol
+The word 'Solomani' reflected their origin in the Sol
 system but was inclusive of those who had not been
 born on Terra itself. Although Hiroshi never declared
 himself Emperor, his son accepted the title and was
@@ -4889,10 +4889,10 @@ Historians cite -1776 as the beginning of the end
 when the Central Treasury on Hub refused to
 honor a monetary issue from the branch treasury
 of Antares. This caused a general collapse of the
-financial system and the government’s ability to make
+financial system and the government's ability to make
 or control policy. The last claimant to the throne of
 the Rule of Man made their capital on Sylea in the
-Core sector.
+[[Core sector]] .
 
 The onset of what became known as the Long Night
 brought about a decline in interstellar trade, diplomacy
@@ -4924,13 +4924,13 @@ History of the Third Imperium
 **THE THREE IMPERIUMS**
 In reality, there has only ever been a _Third_
 Imperium. Its predecessors, the Ziru Sirka and Rule
-of Man were never referred to as ‘imperiums’ during
+of Man were never referred to as 'imperiums' during
 the eras in which they existed but using the terms
 First, Second and Third Imperium simplifies the
 terminology and makes for a convenient narrative.
 
-The First Imperium was the Ziru Sirka or ‘Grand
-Empire of the Stars’ of the Vilani. After the Terrans
+The First Imperium was the Ziru Sirka or 'Grand
+Empire of the Stars' of the Vilani. After the Terrans
 defeated the Vilani in the Interstellar Wars, the
 victorious successor state has been given several
 names over the course of history. Terran Admiral
@@ -4940,7 +4940,7 @@ heritage of Humaniti whether they be of Solomani,
 Vilani or other origin. Many academics still use the
 term since it is indeed the title that the conquerors
 gave to themselves, adding validity to the old adage
-that ‘History is told by the victors’.
+that 'History is told by the victors'.
 
 Over time, this term was politicised and Rule of
 Man became the Solomani-supremacist name
@@ -4987,7 +4987,7 @@ A Brief Timeline of Imperial History
 Year Event
 -650 Sylean Federation founded.
 -495 Vland recontacted.
--30 Felix Zhunastu dies. Cleon assumes his father’s political and industrial leadership roles at the age of 27.
+-30 Felix Zhunastu dies. Cleon assumes his father's political and industrial leadership roles at the age of 27.
 0 Third Imperium founded.
 76–120 Pacification Campaigns.
 114 Solomani Hypothesis published in the Imperium.
@@ -5018,7 +5018,7 @@ reavers roamed and took what they wanted without
 consequences. Despite the darkness of the era,
 civilization managed to eke out a perilous existence,
 first on thousands of isolated worlds and eventually
-among dozens of ‘pocket empires’, small collections
+among dozens of 'pocket empires', small collections
 of worlds that had somehow managed to maintain –
 or, in some cases, reobtain – jump drive technology,
 enabling them to establish tenuous links between
@@ -5028,7 +5028,7 @@ of the great empires of the past but nonetheless
 managed to keep the fragile flame of interstellar
 civilization alive.
 
-In the Core sector, there were three prominent
+In the [[Core sector]] , there were three prominent
 pocket empires, several smaller ones and scores
 of isolated worlds that had managed to survive.
 The three dominant polities of the sector were the
@@ -5112,7 +5112,7 @@ to build upon it, expanding ever outward to worlds
 with which contact had been lost during the Long
 Night. By the mid -350s a third faction developed:
 the Industrialists, who sought a more equitable
-distribution of the Federation’s growing wealth. Things
+distribution of the Federation's growing wealth. Things
 were changing rapidly and the Grand Senate and its
 president struggled to keep up with the pace.
 
@@ -5120,17 +5120,17 @@ Up to this point, Sylean scout and naval fleets were
 a ragtag bunch of starships, cobbled together by
 fledgling manufacturing firms. The ship-building firm
 Gesellschaft feur Sternschiffbau AG – abbreviated as
-GSbAG or ‘Gas Bag’ as it is popularly known – was
+GSbAG or 'Gas Bag' as it is popularly known – was
 financed by a group of wealthy senators and quickly
 rose to the top of the ship construction industry.
-GSbAG’s contract to build Federation Navy ships in
+GSbAG's contract to build Federation Navy ships in
 -334 cemented its position, making it a near monopoly.
 
-Sylea’s rapidly advancing industrial concerns carried
+Sylea's rapidly advancing industrial concerns carried
 them to Tech Level 11. Its starships acquired jump-2
-capability, extending the Federation’s reach. Sylean
+capability, extending the Federation's reach. Sylean
 scouts discovered that their growing empire was
-not alone in the Core sector when they visited the
+not alone in the [[Core sector]]  when they visited the
 Heraldia system in -301 and encountered ships
 from the Interstellar Confederacy. The Syleans
 desperately wanted access to the spinward trade
@@ -5152,8 +5152,8 @@ there were a string of worlds known collectively as
 the Great Spiral that managed to survive the Long
 Night relatively intact. Not every world along this
 string had made it through unscathed but over time,
-outposts and small starports were built on ‘gap
-worlds’ so that eventually they had a serviceable
+outposts and small starports were built on 'gap
+worlds' so that eventually they had a serviceable
 jump-1 main established.
 
 In -684, a politician from Sketola by the name of Rom
@@ -5162,8 +5162,8 @@ the Interstellar Confederacy. The primary goal of
 this union was to restore interstellar trade, provide
 for mutual self-defence and preserve the technology
 of the four or five systems that had achieved TL12.
-The leaders of the Interstellar Confederacy ‘met as
-equals’ in a Grand Senate on Sketola.
+The leaders of the Interstellar Confederacy 'met as
+equals' in a Grand Senate on Sketola.
 
 In -623, after expanding to 32 star systems, the
 Interstellar Confederacy abruptly stopped accepting
@@ -5178,7 +5178,7 @@ scouts from the Sylean Federation in -301.
 Relations started poorly and the two quickly became
 enemies. Initially, the conflicts between them were
 limited to commerce raiding but by -260, they
-engaged in open war. In one of the war’s more
+engaged in open war. In one of the war's more
 famous battles, a Sylean naval squadron routed
 the Confederacy Navy at Velpare in -258 but failed
 to occupy the planet after an ill-advised and poorly
@@ -5219,7 +5219,7 @@ Confederacy worlds of Bunkeria and Cemplas
 proudly celebrate their history and its famous
 personalities. Perhaps the greatest living remnant
 of the Confederacy is the Achenaar Antilles Line, a
-merchant firm founded on F’rnow in -567 by Rualto
+merchant firm founded on F'rnow in -567 by Rualto
 Achenaar and Jofan Antilles. In modern times, the
 corporation remains a highly successful sector-wide
 line, which has fared well against larger competitors.
@@ -5287,7 +5287,7 @@ OORPIC
 GISHALEM
 BENTAX
 HELLHOLE
-F’RNOW
+F'RNOW
 ONTAR
 ANTAR
 LALANDRA DUNLEK ESS NUUR
@@ -5380,7 +5380,7 @@ Kingdom managed to govern its empire for over
 Unlike the Interstellar Confederacy, the Chanestin
 people were not plagued by divisiveness
 but likewise they were not blessed with the
-Confederacy’s advanced technology.
+Confederacy's advanced technology.
 
 The Sylean Federation established contact with
 Chanestin Kingdom border worlds in -108 and
@@ -5470,7 +5470,7 @@ History of the Third Imperium
 2238
 2335 2340
 2435 2437
-Ch’naar
+Ch'naar
 Chanestin Kingdom
 Planet (dry)
 Planet (water present)
@@ -5531,12 +5531,12 @@ own sector during this era. Federation scouts were
 sent in all directions to re-establish contact with other
 worlds and pocket empires that had weathered the
 Long Night. During the last century of Federation rule,
-its scouts had extended Sylea’s reach 30–40 parsecs
+its scouts had extended Sylea's reach 30–40 parsecs
 in all directions. The corridor to Vland, now called the
 Annililik Run, was a long and dangerous route, used
 by only the boldest of traders. Piracy plagued all of
 the major trade routes, a problem which would soon
-expose the Sylean Federation’s weaknesses.
+expose the Sylean Federation's weaknesses.
 
 While it had yet to develop a supporting bureaucracy
 or official structure, the prototype of the modern scout
@@ -5573,7 +5573,7 @@ deep pockets. Missions of a purely exploratory nature
 were postponed if there were possible trade ties to be
 had in a different region. When the IISS was formed,
 commercial interests were struck from the Scout
-Service’s list of responsibilities and handed over to
+Service's list of responsibilities and handed over to
 individual corporations.
 
 History of the Third Imperium
@@ -5598,7 +5598,7 @@ care to avoid damaging crops in the fields. The crew
 wore uniforms and came out unarmed, filter masks
 protecting them from our atmospheric taint. They
 walked the two kilometers from the field to the town
-center where they asked to speak to Port Khanuum’s
+center where they asked to speak to Port Khanuum's
 leaders. They brought gifts with them: portable fusion
 power cells that could provide enough energy for an
 entire province. We had returned to using fossil fuels
@@ -5631,7 +5631,7 @@ parsecs in all directions from Sylea, acquiring an
 increasing number of member systems, the strain of
 interstellar government began to show. Just as it was
 
-for the Federation’s much larger predecessors, it was
+for the Federation's much larger predecessors, it was
 becoming clear that centralised governments were poor
 at managing large expanses of space. The limiting factor
 was the reach of the jump drive, just as it had always
@@ -5663,11 +5663,11 @@ Cleon was born to a noble father, Grand Duke Felix
 Zhunastu of Sylea and his Vilani consort, Denkhumi.
 The Zhunastu family were exorbitantly wealthy,
 having achieved great success in the fields of energy
-production and spacecraft manufacturing. Cleon’s
+production and spacecraft manufacturing. Cleon's
 Uncle Aldin was an ingenious engineer in the field
 of fusion energy systems. Fusion power plants had
 existed before the Long Night but most worlds had
-lost the ability to manufacture them. Aldin’s patented
+lost the ability to manufacture them. Aldin's patented
 designs improved upon existing fusion technology and
 were implemented in a line of products called Fusion
 Plus (F+). F+ plants were small, tidy and energy
@@ -5677,7 +5677,7 @@ in distant star systems.
 As the Grand Duke of Sylea, Felix Zhunastu dreamed
 that the Sylean Federation would one day become
 an enormous trade empire, one which would create
-wealth for all of its citizens. Felix’s hands were tied
+wealth for all of its citizens. Felix's hands were tied
 by politics during his reign but he could foresee a
 time when that would change. He groomed Cleon
 to be ready for that day and set plans in motion that
@@ -5708,10 +5708,10 @@ so goes the conventional wisdom. Vilani psychohistorians predicted the long, dra
 Sirka. Solomani psychohistorians saw the demise of the Rule of Man coming like a high-speed freight
 train. These were enormous empires with populations in the trillions. The Sylean Federation was a tiny
 polity in comparison, yet its leaders increasingly leaned on psychohistory as their empire grew in size
-and population. This was at least one of the reasons for the Syleans’ eagerness to reunite with Vland. By
+and population. This was at least one of the reasons for the Syleans' eagerness to reunite with Vland. By
 reconnecting with the capital of the old empire, the Syleans increased their sample size immensely, making
 psychohistorical predictions much more accurate. By the time Cleon took the role of Grand Duke upon his
-father’s death, the Federation and its allies had achieved a certain critical mass, providing an increasing
+father's death, the Federation and its allies had achieved a certain critical mass, providing an increasing
 level of clarity and accuracy in their psychohistorical predictions.
 
 While there is no direct proof, most believe that the Zhunastus also employed psions in key roles of their
@@ -5727,17 +5727,17 @@ In -32 Cleon returned from a long journey during
 which he had visited Antares, Amdukan and finally
 Vland, where he stayed for over a year to study at the
 Argushiigi Admegulasha Bilanidin (AAB), the Vilani
-‘repository of all knowledge’. In a public statement,
-Cleon expressed admiration for the world’s history
+'repository of all knowledge'. In a public statement,
+Cleon expressed admiration for the world's history
 and customs. While studying at the AAB, he published
-a dissertation: ‘The Vilani Imperative: Lessons of the
-Shudusham Concords’. Within the Core sector in the
+a dissertation: 'The Vilani Imperative: Lessons of the
+Shudusham Concords'. Within the [[Core sector]]  in the
 year -112, terrorists detonated a bomb on a courier
 robot that killed the premier of Fornol and several
-Sylean nobles while aboard the Empire’s Banner ,
+Sylean nobles while aboard the Empire's Banner ,
 a Sylean warship. The incident nearly caused a
 
-civil war. Cleon’s scholarly paper hypothesised that
+civil war. Cleon's scholarly paper hypothesised that
 the Shudusham Concords, which limited the use of
 weaponry on robots, were evidence of the enduring
 Vilani legacy in the modern Core. Cautious and limited
@@ -5755,12 +5755,12 @@ History of the Third Imperium
 Cleon kept a close eye on the family business but
 appointed his Uncle Aldin as chief executive officer to
 perform the day-to-day management of the company.
-During Cleon’s first year as president of the Grand
+During Cleon's first year as president of the Grand
 Senate, the Syleans began to actively recruit more
 worlds to the Federation. The recruitment drive was
 anchored by Vland, which committed its worlds.
 Stronger diplomatic and trade ties between Sylea and
-Vland had been developing for centuries and Cleon’s
+Vland had been developing for centuries and Cleon's
 presence and scholarly work at the AAB was the
 decisive factor in the Vilani decision to join. In a public
 statement on Sylea, Cleon expressed his gratitude for
@@ -5781,7 +5781,7 @@ effort, noble and corporate influence had corrupted
 it. Instead of extending the reach of the Federation, it
 had become a tool of the wealthy. High-ranking nobles
 and business leaders were effectively selecting the
-Scout Service’s missions and sanctioning only those
+Scout Service's missions and sanctioning only those
 which served their narrow business interests. While
 developing trade routes was certainly a key goal,
 Cleon felt that the Scout Service must be focused
@@ -5804,13 +5804,13 @@ was a major public relations victory for the Federation.
 It gave the frontier worlds the confidence that the
 Federation was going to help them.
 
-Cleon’s actions during the pre-Imperial era were
+Cleon's actions during the pre-Imperial era were
 often maddening to his peers. One week he would be
 working on diplomatic relations with the monarch of
 
 Adguu Uun, the next he would be off to Nimluin to be
-present for Zhunastu Industries’ latest factory opening
-and then back to Capital to discuss the future of the
+present for Zhunastu Industries' latest factory opening
+and then back to [[Capital]] to discuss the future of the
 Federation. Historical records of the era make him
 appear to be a madman but when one steps back to
 look at the big picture, it was almost as if Cleon already
@@ -5831,13 +5831,13 @@ Cleon spent the last years of the Sylean Federation
 building and consolidating power. He established
 allegiances with trusted corporate executives and
 members of the nobility. The SFSS continued to
-extend the Federation’s reach and Zhunastu Industries
+extend the Federation's reach and Zhunastu Industries
 peddled F+ technology to member and satellite worlds
 in an effort to draw them into the fold. On Sylea,
 those who worked with Cleon saw their fortunes
 grow immensely. GSbAG, which had long held a
 favorable relationship with the Zhunastus, became
-the Federation’s primary military contractor, building
+the Federation's primary military contractor, building
 warships for the growing navy and freighters for its
 expanding merchant lines.
 
@@ -5862,7 +5862,7 @@ foresaw a future in which there was a place for all of
 them under the umbrella of a new and powerful empire,
 one which transcended all that had come before.
 
-Cleon’s final act as president and Grand Duke of
+Cleon's final act as president and Grand Duke of
 Sylea was to issue the Warrant for the Restoration
 of the Imperium. This document declared that the
 Sylean Federation and its associated worlds would
@@ -5891,19 +5891,19 @@ day of the 650th year of the Sylean Federation, the
 Grand Senate ratified the Warrant for Restoration and
 declared Cleon the first Emperor of the Third Imperium.
 He was crowned Cleon I on the first day of Imperial
-year 0 and Sylea was renamed Capital. No longer was
+year 0 and Sylea was renamed [[Capital]]. No longer was
 it just the provincial capital of a pocket empire. Capital
 aspired to become the center of the greatest interstellar
 empire in human history.
 
 The Emperor of the Third Imperium was given
-sweeping powers, far more than the leader of Sylea’s
+sweeping powers, far more than the leader of Sylea's
 Grand Senate or its president and a feudal nobility was
 established that would become an extension of the
-Emperor’s will. Members of the nobility were granted
+Emperor's will. Members of the nobility were granted
 patents that established their titles. Many would be
 granted fiefs to administer. Nobles would serve at the
-Emperor’s leisure and could have their patents revoked
+Emperor's leisure and could have their patents revoked
 if they did not perform to expectations.
 
 The Grand Senate was dissolved and replaced by the
@@ -5918,7 +5918,7 @@ Imperium. Provisional fiefs were assigned to the new
 nobility. These would be altered and consolidated in the
 months and years ahead as the Imperium took shape.
 
-The Moot convened on Capital in state offices
+The Moot convened on [[Capital]] in state offices
 separate from the Imperial Grand Palace. In addition
 to its primary powers, the Moot served in an advisory
 role to the Emperor. A senior member of the Moot
@@ -5934,7 +5934,7 @@ this shortcoming by sharing the responsibility with a
 trusted hierarchy of noble bureaucrats.
 
 The Imperial Guard was formed to protect the Emperor
-on Capital. At first its only regiment was the Sylean
+on [[Capital]]. At first its only regiment was the Sylean
 Guard but many more regiments would be added over
 time. The Federation Navy became the Imperial Navy,
 whose role was to defend the space between worlds
@@ -5996,7 +5996,7 @@ and Rule of Man.
 
 Having such lofty aspirations is commendable but
 actually achieving them another thing altogether.
-Cleon’s method was to kill them with kindness. After the
+Cleon's method was to kill them with kindness. After the
 residents of each world were contacted – by the scouts
 or otherwise – Imperial merchants would attempt to
 trade with them in order to show the value that the
@@ -6023,7 +6023,7 @@ rulers had to understand that there might not be a
 big payoff during their lifetimes. The reward would
 be to see the explosive growth of the empire and a
 future made bright by burgeoning trade. Cleon spent
-most of his time on Capital during this era, justifying
+most of his time on [[Capital]] during this era, justifying
 the existence of the Imperium to a divided Moot and
 carefully cultivating his political relationships. The
 success of this monumental venture was by no means
@@ -6035,10 +6035,10 @@ subtle if persistent threat.
 
 A constant battle that Cleon had to fight with the
 Imperial court was a tendency towards conservatism
-in the worlds close to Capital. As the space between
+in the worlds close to [[Capital]]. As the space between
 the Core worlds became increasingly safe and its trade
 routes more lucrative, there was less of a desire to
-take chances lest they ‘tip the apple cart’. The only way
+take chances lest they 'tip the apple cart'. The only way
 Cleon could combat this tendency was by extending
 Imperial borders ever outward.
 
@@ -6050,7 +6050,7 @@ membership of the Moot was expanded to incorporate
 the new barons, marquises, counts and dukes
 assigned to these territories. Local administrative
 control was given to new members of the peerage,
-providing an acid test for the Emperor’s distributed
+providing an acid test for the Emperor's distributed
 management model.
 
 Pirates and reavers still roamed much of Imperial
@@ -6068,7 +6068,7 @@ it would over time. They had only to look at the Core
 worlds to see the proof. The Wayward Worlds and
 their ilk began to see the signs of progress passing
 them by at jump speed. Traders who had established
-connections to the Imperium’s growing system of
+connections to the Imperium's growing system of
 links and branches were the first to reap the benefits
 of Imperial expansion. Many of the worlds that had
 resisted joining thus far came to their senses and
@@ -6078,7 +6078,7 @@ With a growing number of worlds joining the Imperium,
 Emperor Cleon declared in the year 17 that Imperial
 citizenship would be granted to all sophonts within
 Imperial borders, not just humans. There is some
-debate among academics about the timing of Cleon’s
+debate among academics about the timing of Cleon's
 declaration. Scouts had begun to make contact with
 worlds as far as the Ley and Gateway sectors, and
 there were rumors of missions to the uncharted
@@ -6103,20 +6103,20 @@ an heir with his consort, Medi Ahn Thon, a woman of
 mostly Sylean heritage whose family were wealthy
 industrialists from Zimiin (now Knabbib). His son, who
 would one day take the crown as Cleon II, was born
-in the year 21 and was Cleon’s only offspring. Unlike
+in the year 21 and was Cleon's only offspring. Unlike
 his father Felix before him, Cleon the elder did little
 to apprentice his son for the leadership role that he
-would eventually be asked to take. He left the boy’s
+would eventually be asked to take. He left the boy's
 education in the hands of his tutors and university
 professors. Bereft of a strong father figure, young
 Cleon turned to Artemsus Lentuli, Chancellor of the
-Moot and his father’s most trusted advisor. Artemsus
+Moot and his father's most trusted advisor. Artemsus
 was the son of Djugashvili Lentuli, who had served
-as Cleon’s intelligence chief in the first years of the
+as Cleon's intelligence chief in the first years of the
 Imperium. The younger Lentuli had already lived an
 
 eventful life and was famous for helping to fight off a
-pirate attack on one of his family’s ships at the age of
+pirate attack on one of his family's ships at the age of
 
 17. He went on to have a distinguished career in the
 newly created Imperial Navy, followed by a stint as a
@@ -6124,7 +6124,7 @@ diplomat for the Moot.
 
 As Chancellor, Artemsus sought to integrate the
 worlds that had thus far resisted incorporation into the
-Imperium. He coined the term ‘Quarantine Worlds’,
+Imperium. He coined the term 'Quarantine Worlds',
 likening them to viruses or parasites, which must either
 be treated or cut off from the interstellar community of
 the Imperium. Quarantine Worlds reaped the benefits
@@ -6140,8 +6140,8 @@ With the dream of the Third Imperium in only its
 nascent stages, Cleon I died in the year 53. His son
 was crowned Cleon II but quickly decided that he was
 unfit for the role. After an ignominious year on the
-throne, during which he became known as ‘Cleon the
-Weak’, he abdicated without an heir, expressing his
+throne, during which he became known as 'Cleon the
+Weak', he abdicated without an heir, expressing his
 preference that his highly capable Chancellor should
 become Emperor. The brief but eventful Zhunastu
 Dynasty had come to an end – for now – to be
@@ -6174,14 +6174,14 @@ _THE PACIFICATION_
 
 _CAMPAIGNS_
 The Pacification Campaigns were the first great test
-of the Third Imperium’s approach to government. The
-archdukes were given broad powers to ‘pacify’ their
+of the Third Imperium's approach to government. The
+archdukes were given broad powers to 'pacify' their
 worlds. Unlike the traditional approach used by the
 Vilani bureaux or the chaotic management style of the
-Rule of Man, Artemsus’ archdukes were given clear
+Rule of Man, Artemsus' archdukes were given clear
 guidelines and then told to get the job done. They were
 not forced to wait for a central authority figure to tell
-them what to do each step of the way. The archdukes’
+them what to do each step of the way. The archdukes'
 methods met with varying results.
 
 The guidelines that the archdukes were given
@@ -6282,7 +6282,7 @@ most of the Dagudashaag sector, much of which
 already benefited from Imperial largesse. The trade
 corridor developed between Sylea and Vland in the
 previous centuries had already touched many of
-the sector’s worlds and slowly drawn them into the
+the sector's worlds and slowly drawn them into the
 
 fold over time. Any worlds that continued to resist
 Imperial authority were given simple demonstrations
@@ -6321,14 +6321,14 @@ Delphi. As the architect of the Pacification Campaigns,
 Artemsus brought the full range of Imperial powers to
 bear upon these worlds with great success. Artemsus
 used diplomacy wherever possible but quickly
-accelerated the methods used to inciting coups d’état
+accelerated the methods used to inciting coups d'état
 and revolutions, establishing blockades, threatening
 orbital bombardment and – when necessary –
 invading and occupying. Core was entirely integrated
 into the Third Imperium by the year 111 and significant
 portions of Fornast and Delphi were acquired as well.
 It was crucial to the future of the Imperium that the
-Emperor’s own domain be effectively pacified and
+Emperor's own domain be effectively pacified and
 Artemsus made certain that it was. A further goal of
 the Sylean Campaign was to pacify the worlds of
 Massilia but it would be centuries before that sector
@@ -6346,14 +6346,14 @@ its worlds, living among its people and cultivating
 diplomatic ties with them. Kerr opposed the use of
 force as a method of coercion, preferring instead the
 peaceful approach that had been fostered by Cleon
-I. Alas, Kerr died in 67, paving the way for Artemsus’
-campaigns to begin. It was a testament to Kerr’s
+I. Alas, Kerr died in 67, paving the way for Artemsus'
+campaigns to begin. It was a testament to Kerr's
 influence that it took Artemsus another decade to win
 the Moot over. However, following the violence of the
 Pacification Campaigns, Kerr would again become a
 pivotal figure, even posthumously, among those who
 did not wish to see the Imperium take the path of a
-belligerent conqueror. Kerr’s erudite pleas against
+belligerent conqueror. Kerr's erudite pleas against
 the injudicious use of violence changed the way the
 Imperium approached conflicts.
 
@@ -6384,7 +6384,7 @@ other colonial expeditions would spring.
 
 The Emperor was eager to get the IISS involved and
 sent several scout fleets across the Rift, each of which
-contained 10 or more of the Scout Service’s Iiken -class
+contained 10 or more of the Scout Service's Iiken -class
 scout/couriers. Just as in the days of old, when the Ziru
 Sirka was expanding its borders, these ships travelled
 far and wide, collecting survey data of the entire region
@@ -6442,7 +6442,7 @@ Space was the seemingly simultaneous appearance
 of human species on dozens of worlds. Haut-Devroe
 travelled extensively throughout the Imperium,
 performing exhaustive research of the fossil records of
-many worlds and examined Humaniti’s place in their
+many worlds and examined Humaniti's place in their
 respective ecosystems. After eliminating Urunishu in
 Antares as a candidate, it became clear to haut-Devroe
 and his team that Terra was clearly the homeworld
@@ -6489,7 +6489,7 @@ had retained jump technology and were impeded from
 expanding into the Imperial Core by the much more
 severe collapse of the worlds coreward of the Rim.
 
-There was some trepidation on Artemsus’ part that
+There was some trepidation on Artemsus' part that
 if not handled carefully, the Solomani empires could
 unite in some way before membership in the Imperium
 was even offered. Many of the worlds of the new
@@ -6516,7 +6516,7 @@ impressive number for most humans but typical for the
 Lentuli line. His son succeeded him and was crowned
 Martin I. Artemsus had been careful not to neglect
 his son as had Cleon I before him. Martin was fully
-indoctrinated in his father’s philosophy and strategies
+indoctrinated in his father's philosophy and strategies
 for establishing a greater Imperium, perhaps to excess.
 
 History of the Third Imperium
@@ -6525,7 +6525,7 @@ The Julian War
 It must have been frustrating for Emperor Martin to
 have spent his entire life being prepared for the role
 of Emperor only to have his father live for 183 years.
-Martin’s destiny was put on hold until he had reached
+Martin's destiny was put on hold until he had reached
 the age of 154. To put that in perspective, Martin had
 more than a century _after_ retiring from a distinguished
 military career to think about what he might do as
@@ -6574,7 +6574,7 @@ in two columns, one of which drove towards Lasla
 
 in Mendan and the other towards the much more
 ambitious target of Asimikigir in Amdukan, the capital
-of Julian Menderes’ state of origin. Within three years,
+of Julian Menderes' state of origin. Within three years,
 it appeared as if the Imperium had accomplished
 its goals, with most of Mendan and Amdukan under
 Imperial control and the Lasla system as its base of
@@ -6593,7 +6593,7 @@ lacerating the flank of the Imperial column. The other
 fleet crossed the Empty Quarter Rift and struck from
 behind the Imperial fleet into Antares and Ley. The Star
 Legion destroyed the poorly defended naval depots in
-both sectors, crippling the Imperium’s chances. The
+both sectors, crippling the Imperium's chances. The
 Imperium was forced to retreat in order to defend the
 gains they had paid for so dearly during the Pacification
 Campaigns. With memories of the Antares Campaign
@@ -6637,7 +6637,7 @@ Imperial honor and pride.
 
 While Charted Space is far too broad a place
 for events on one side to affect those hundreds
-of parsecs away, on Capital the Emperor and
+of parsecs away, on [[Capital]] the Emperor and
 his court wanted to weave a narrative that cast
 the Imperium in a favorable light. The defeated
 fleets returned home to lick their wounds, rebuild
@@ -6654,7 +6654,7 @@ Campaigns and their aftermath, the Imperium
 had become more unified. While the Imperial
 Navy had been off making war in Antares, the
 interior of the Imperium was consolidating and
-its economy was improving. Cleon’s dream was
+its economy was improving. Cleon's dream was
 coming true despite there being a few missteps
 along the way. It was time to guide the young
 empire to its next phase.
@@ -6662,12 +6662,12 @@ empire to its next phase.
 Outreach and Growth
 Despite the unmitigated disaster that was the Julian
 War, the foundations of the Imperium were not shaken.
-There were no cries for the Emperor’s head and no
+There were no cries for the Emperor's head and no
 discussion in the Moot about dissolving the Imperium.
 In fact, quite the opposite. Trade had begun to
 flourish, the piracy threat within Imperial borders was
 dissipating and the Imperial Navy started to take shape
-as the ubiquitous force that it is today. Capital became
+as the ubiquitous force that it is today. [[Capital]] became
 secure and the wealth of the Imperial family, the
 nobles of the Moot and megacorporate leaders grew
 exponentially. Any feelings of malaise were quickly
@@ -6690,7 +6690,7 @@ pylons 500 meters above the Imperial Park, the most
 ambitious structure of its kind to date. The Emperor
 moved into the palace with great fanfare on Holiday of
 the year 200 as the citizens of the Imperium celebrated
-the bicentennial of Cleon’s grand experiment.
+the bicentennial of Cleon's grand experiment.
 
 Imperial scouts and members of the diplomatic core
 had by this time established relations with all five
@@ -6720,8 +6720,8 @@ expanded to include more star systems, bumping up
 against and, in some cases, pushing out the previous
 inhabitants. The growing importance of the region
 had become clear and the Emperor was resolved
-to improve access to the frontier sectors ‘behind the
-Claw’. Transporting the needed materiel across the
+to improve access to the frontier sectors 'behind the
+Claw'. Transporting the needed materiel across the
 Great Rift through the Ishirdu system had become
 impractical and it was time for the Imperium to establish
 a more easily traversable route. A confrontation with the
@@ -6760,7 +6760,7 @@ take his place.
 
 There were two opposed forces at work in the early
 part of the Vargr Campaigns. The first was the bad
-memories of the Imperium’s most recent wars. Martin II
+memories of the Imperium's most recent wars. Martin II
 desperately wanted to avoid the ignominy suffered by
 his grandfather and father for their involvement in the
 Pacification Campaigns and Julian War, respectively.
@@ -6793,7 +6793,7 @@ operation as well, assessing the political situation
 between the various Vargr states present, making
 contact with them and establishing allegiances when
 possible. Naval officers who negotiated well and were
-seen to be of ‘high charisma’ successfully recruited
+seen to be of 'high charisma' successfully recruited
 many of these small polities and colonies, especially
 those that were oppressed by larger Vargr states or
 bands of corsairs. These Vargr served as translators
@@ -6861,8 +6861,8 @@ behaviours, none more severe than his penchant for
 murdering those who disagreed with him. Cleon III
 shot, stabbed, impaled and threw members of the Moot
 off the ledges of the Grand Palace if they were found
-to be ‘disagreeable’. It did not take long for the Moot to
-realise their error. ‘Cleon the Mad’, as he had become
+to be 'disagreeable'. It did not take long for the Moot to
+realise their error. 'Cleon the Mad', as he had become
 known, had to be dealt with. Unfortunately, there were
 no devices for addressing this unprecedented situation.
 Desperate times called for desperate measures.
@@ -6879,7 +6879,7 @@ combatant is largely overlooked by modern historians.
 
 Some claim that Cleon was mortally wounded by a
 Moot-sponsored hit team, a combat veteran in service
-to one of the high nobles or possibly even Porfiria’s
+to one of the high nobles or possibly even Porfiria's
 own bodyguard, after which Porfiria herself came onto
 the scene and delivered the coup de grâce. Whatever
 the case may be, the Moot approved the action and
@@ -6909,13 +6909,13 @@ court of law depending on the circumstances.
 History of the Third Imperium
 
 The Porfirian Age
-The circumstances of Porfiria’s rise to power were
+The circumstances of Porfiria's rise to power were
 unusual but she proved to be a dignified and admirable
 Empress. The Porfirian Age is often understated in
 history texts. She had been reluctant to take charge,
 yet did so and ruled for over eight decades. There was
 war but it was handled methodically and without the
-bravado of the Imperium’s previous military adventures.
+bravado of the Imperium's previous military adventures.
 The era was, historically speaking, unexciting. Imperial
 borders continued to expand, mostly via diplomacy.
 The Imperium would – a few centuries later – become
@@ -6933,7 +6933,7 @@ expanded to include artillery and cavalry regiments
 and proved highly effective in its new role, serving as a
 jump division in some of the most dangerous missions
 of the war. The deployment of Imperial Guard troops
-had a positive effect on morale as well. The navy’s
+had a positive effect on morale as well. The navy's
 communications department created holovideos of
 their exploits, which were seen by the rank and file
 everywhere. Each film included segments celebrating
@@ -6942,14 +6942,14 @@ units as well. The Guard deployment left the Empress
 vulnerable to an insurrection but this was a heady time
 for the Imperium. The Moot, the peerage and indeed
 billions of Imperial citizens were reaping the benefits
-of Cleon’s dream. Free trade and the security of the
+of Cleon's dream. Free trade and the security of the
 empire were making people rich beyond their wildest
 imagination and giving them a level of stability that
 neither they nor their ancestors had seen since before
 the Long Night.
 
 The Vargr Campaigns continued successfully during
-Porfiria’s reign. With a serviceable route through
+Porfiria's reign. With a serviceable route through
 Corridor, the Imperium established a strong foothold
 in Deneb and the Spinward Marches, pushing out
 Zhodani colonies on the spinward-coreward corner of
@@ -6982,7 +6982,7 @@ Diaspora and the Old Expanses, it became easier to
 develop long-distance trade and diplomatic ties with the
 Rim. Solomani nobles in the Moot had never given up
 on their desire to reunite with their ancestors. Porfiria
-sent a mission to confirm haut-Devroe’s Solomani
+sent a mission to confirm haut-Devroe's Solomani
 Hypothesis in 305, nearly two full centuries after its
 initial publication. The mission was well received and
 the Easter Concord agreed to become an Imperial
@@ -7001,7 +7001,7 @@ settle worlds with insidious atmospheres, opening up a
 bounty of new territory for development.
 
 As the Porfirian Age came to a close, its primary
-events occurred far from Capital. The spinward
+events occurred far from [[Capital]]. The spinward
 colonies continued to flourish with Regina growing in
 importance and becoming the capital of its subsector.
 The powerful but controversial Humboldt family was
@@ -7023,14 +7023,14 @@ History of the Third Imperium
 
 TRAVELLER
 
-Upon her death in 326, Porfiria’s son Anguistus was
+Upon her death in 326, Porfiria's son Anguistus was
 crowned Emperor. Anguistus was much loved by the
 people. He had been born during the first year of his
-mother’s reign and the public had watched him grow
+mother's reign and the public had watched him grow
 up from infancy. He pledged to continue what his
 mother had started. While his reign was brief for a
 Lentuli Emperor, he was credited for being a wise ruler;
-Anguistus’ steady hand helped to expand Imperial
+Anguistus' steady hand helped to expand Imperial
 borders and consolidate power, fully incorporating all
 of the Ilelish, Massilia and Zarushagar sectors. Ilelish
 had proven to be the most contentious of the three. The
@@ -7050,7 +7050,7 @@ pacifying the remaining Vargr.
 
 After the death of Anguistus, his second-born son – the
 first had died during childhood – was crowned Emperor
-Martin III in 365. Like his father before him, Martin’s
+Martin III in 365. Like his father before him, Martin's
 rule was a steady one – at least in its early decades
 
 * marked by the consolidation of power, development
@@ -7124,7 +7124,7 @@ of Man and the Long Night. They also discovered that
 Aadkhien was at the nominal center of the Imperium
 and virtual center of the galactic plane. As far as the
 scouts were concerned, it was destiny. They relocated
-the planet’s reclusive and xenophobic Vilani colony
+the planet's reclusive and xenophobic Vilani colony
 to a reservation world and remade Aadkhien into
 History of the Third Imperium
 
@@ -7148,7 +7148,7 @@ tons of speculative cargo booked, we were planning
 on a big windfall. Our broker told us we had to come to
 the Downport to get it. My crew and I spend most of our
 time on the Sylean Main but we like to shake things up
-every so often. We’d come to the Maaruur Cluster to
+every so often. We'd come to the Maaruur Cluster to
 check it out. Maaruur itself was the crown jewel with a
 high-quality starport, lots of products to move and eight
 billion people living on the planet. Some were Vilani but
@@ -7161,25 +7161,25 @@ saw three of the dreadnoughts position themselves
 in equidistant spots over the mainworld while the
 other two went heaven knows where. I tried to calm
 my crew down any way I could but they were losing
-it. We’d all heard stories about situations like this
-but we never thought we’d become involved in one.
+it. We'd all heard stories about situations like this
+but we never thought we'd become involved in one.
 Some kind of revolt or a viral outbreak or something.
-We figured they were interdicting the planet. I’d
+We figured they were interdicting the planet. I'd
 met Shingans before on other worlds and always
 thought they seemed fine but maybe they were up to
 something. We had no way of knowing.
 
 The Imperial Navy never told us a thing and they
-blocked radio transmissions so we couldn’t find out
+blocked radio transmissions so we couldn't find out
 what was going on. After a few days, we got inspected
 by a team in hazmat suits, accompanied by some
 Imperial Marines. We overheard that there were 1,300
 people on the Highport and no one was being let off the
-planet. Obviously, I couldn’t contact my broker for the
+planet. Obviously, I couldn't contact my broker for the
 freight or cargo but it was looking less and less like that
-was going to be a thing anyway. I had the Downport’s
+was going to be a thing anyway. I had the Downport's
 tightbeam coordinates but I thought better of trying
-it. You just don’t mess with the navy, especially when
+it. You just don't mess with the navy, especially when
 something serious like this was going down.
 
 When they finally let us go, we saw a different world
@@ -7194,7 +7194,7 @@ those of us at the highport who passed quarantine. The
 only Credits we made on that trip were from a few mid
 passages booked by folks stuck at the highport. We
 even took a few Shingans on our jump to Khuumiam.
-It didn’t occur to me at the time but the ones we took
+It didn't occur to me at the time but the ones we took
 were some of the last of their kind. They must have
 been devastated. Most just stayed in their staterooms
 during jump and we respected their privacy. We gave
@@ -7212,7 +7212,7 @@ Imperium were not unheard of. Comparisons to the
 Silk Road of ancient Terra were made. The network of
 trade routes that connected East Asia with Southern
 Europe were likened to those that stretched from Terra
-to Capital and onward to Antares, Vland and Regina.
+to [[Capital]] and onward to Antares, Vland and Regina.
 
 The monumental growth of the Imperium resulted in
 the creation of new megacorporations. Lucien Hortalez
@@ -7250,7 +7250,7 @@ The efficiency with which the Imperial bureaucracy
 managed the domains increased. Individual worlds
 were allowed to govern themselves as they saw fit,
 resulting in unique cultural and societal flavors.
-Cleon’s dream of a massive trade empire, defended by
+Cleon's dream of a massive trade empire, defended by
 the most powerful and well-equipped navy in history,
 had come to fruition. While all Imperial worlds enjoyed
 the benefits of unity, there were those who saw the
@@ -7281,7 +7281,7 @@ affairs, standardising Law Levels, governance and
 access to technology. This was a crime that invoked the
 high justice clause, enforced by Imperial military forces.
 
-In exile, the Archduke of Ilelish called Capital for
+In exile, the Archduke of Ilelish called [[Capital]] for
 assistance. The Imperium reinforced the Ilelish
 Sector Fleet with elements of the Dagudashaag and
 Gushemege fleets and blockaded the worlds involved
@@ -7318,7 +7318,7 @@ Without it, we have nothing._
 
 The Ilelish Revolt had been brewing for decades before
 it occurred. There were rumblings as early as 399 when
-several of the domain’s high-population worlds had
+several of the domain's high-population worlds had
 begun negotiating for an autonomous region, similar to
 that of the League of Antares. The Emperor knew about
 this but did nothing, placing his faith in the peerage to
@@ -7335,7 +7335,7 @@ was just the beginning.
 Martin III was killed in an air/raft accident on the
 Imperial reserve world of Crompton in 456. The
 Emperor was reportedly taking an evening ride with his
-consort just as the planet’s two moons were rising on
+consort just as the planet's two moons were rising on
 the eastern horizon. He died at the age of 167, once
 again exhibiting the longevity of the Lentuli line. He
 outlived his heir, who would have been crowned Martin
@@ -7343,11 +7343,11 @@ IV, so his grandson ascended to the throne as Martin
 V. Unfortunately, the new Emperor did not have the
 hearty constitution of his ancestors and died of natural
 causes the following year at 100, middle age by Lentuli
-standards. Martin’s daughter, Nicholle, was confirmed
+standards. Martin's daughter, Nicholle, was confirmed
 by the Moot and crowned the second Empress of the
 Imperium in 457.
 
-Empress Nicholle’s reign was brief and
+Empress Nicholle's reign was brief and
 undistinguished. She did oversee the absorption of the
 Easter Concord into the Imperium in 426, strengthening
 ties with the Solomani Rim and coming ever closer
@@ -7366,7 +7366,7 @@ any sort of directed plan. If recent events were any
 indication, sleepwalking through history was not an
 advisable approach. However, the Empress showed
 little interest in developments that were far from the
-Imperial Court on Capital. Pressed by the Chancellor to
+Imperial Court on [[Capital]]. Pressed by the Chancellor to
 appease the burgeoning frontier, the Empress declared
 Aosta in Deneb to be an Imperial reserve world in 474,
 the first water world to receive the distinction. The
@@ -7376,7 +7376,7 @@ Moot was hoping for.
 Despite the continued expansion of the Imperium,
 the Moot and its Chancellor were frustrated by
 the unwillingness of the Empress to address the
-Imperium’s most pressing issues. Nicholle’s great-
+Imperium's most pressing issues. Nicholle's great-
 grandfather had left unfinished business to his heirs.
 The Peace of Ftahalr was a singular achievement but
 most believed it merely delayed confrontation with the
@@ -7405,8 +7405,8 @@ was crowned Cleon IV in 475, setting a dangerous
 precedent for the Imperium. While the previous use of
 the Right of Assassination was arguably justified since
 it rid the throne of Cleon the Mad, the assassination of
-Nicholle merely for being disinterested in the job or ‘too
-weak’ as Shaster himself had said, would come back to
+Nicholle merely for being disinterested in the job or 'too
+weak' as Shaster himself had said, would come back to
 haunt the Imperium.
 
 The reign of Cleon IV was corrupt from the beginning.
@@ -7449,7 +7449,7 @@ not take kindly to intrusions of their sovereign space
 and used terrorism and hired Vargr corsairs to harry
 scouts wherever they could. The Imperium responded
 by sending Imperial Naval Intelligence (INI) agents
-to counter the threat. This ‘Hidden War’ was initially
+to counter the threat. This 'Hidden War' was initially
 classified by the Imperium but received a great deal of
 media attention in the Julian Protectorate, news of which
 inevitably found its way back to the Imperium. Emperor
@@ -7513,7 +7513,7 @@ and one of the most powerful economic forces in
 Charted Space, its destiny was undeniable; yet its
 integration into the Imperium had been dreaded for
 centuries. Terra would immediately pose a political
-threat to Capital. Regardless of its distance from
+threat to [[Capital]]. Regardless of its distance from
 the Imperial Core, the legacy and symbolic power of
 Terra could not be denied. The integration of Terra
 had to happen, yet it posed a threat to everything the
@@ -7583,7 +7583,7 @@ civil war that broke the Vargr state apart. The Darrians
 pushed the Sword Worlds out of the Entropic Worlds
 with help from the Imperium. An enraged Admiral
 Plankwell collected elements of his fleet and made his
-way to Capital.
+way to [[Capital]].
 
 The respite between the First and Second Frontier
 Wars was brief. By 609, the Gzolakhgha Empire and
@@ -7645,7 +7645,7 @@ possible: by usurping the throne. He arrived at Capital
 in 606, purportedly to celebrate the victorious efforts
 of the First Frontier War but promptly murdered
 Jacqueline and declared himself Emperor Olav I by
-Right of Assassination. Olav’s ascendance ended
+Right of Assassination. Olav's ascendance ended
 the era of the non-dynastic Emperors but did little
 to quell the instability of their reign. His brief run
 as Emperor was cut short when his most trusted
@@ -7656,8 +7656,8 @@ confirmed by the Moot, beginning the disastrous era of
 the Emperors of the Flag.
 
 A succession of Emperors of the Flag ruled the
-Imperium for 13 years. Power was acquired by ‘Fleet
-Control’, in which a prospective claimant to the throne
+Imperium for 13 years. Power was acquired by 'Fleet
+Control', in which a prospective claimant to the throne
 assembled portions of the Imperial Navy, came to
 Capital, imposed their will upon the current Emperor
 by defeating loyalist naval forces and then either
@@ -7665,7 +7665,7 @@ assassinated or killed him or her in battle.
 
 All of this was arguably made possible by the era of
 the non-dynastic Emperors who gradually centralised
-power around Capital and ignored the burgeoning
+power around [[Capital]] and ignored the burgeoning
 Imperial frontiers. The citizens of the Imperium
 had come to expect more from their Emperor. The
 bureaucracy had been appointed by Cleon I to serve
@@ -7674,7 +7674,7 @@ of the peerage were to perform as extensions of the
 Emperor. The untimely assassination of Empress
 Nicholle 131 years prior to the Civil War had started
 a chain of events that unravelled the very fabric of
-Cleon’s Imperium and untethered the strands of duty
+Cleon's Imperium and untethered the strands of duty
 and honor upon which it was built. It was time for the
 Imperium to pay the consequences.
 
@@ -7694,19 +7694,19 @@ dissolution of the Imperium.
 
 **Emperor Reign Events**
 
-Olav 606–609 The hero of the First Frontier War arrived at Capital under the pretence of celebrating
+Olav 606–609 The hero of the First Frontier War arrived at [[Capital]] under the pretence of celebrating
 the victory and broke the non-dynastic line of Emperors by assassinating Empress
 Jacqueline I. Confirmed by the Moot. Olav disbanded the Imperial Guard and Marine
 Escort Service.
 
-Ramon I 609 Protégé of Olav who convinced a large portion of the fleet to revolt. Ramon’s forces
-appeared to have lost in the Battle of Tricanus but his destruction of Olav’s flagship
+Ramon I 609 Protégé of Olav who convinced a large portion of the fleet to revolt. Ramon's forces
+appeared to have lost in the Battle of Tricanus but his destruction of Olav's flagship
 turned the tide. Olav was killed during the boarding action. Credited with the invention
 of the Right of Fleet Control. Confirmed by the Moot after some deliberation only to be
 assassinated by Constantus.
 
 Constantus 609–610 Claimed the throne by Right of Assassination. Not confirmed by the Moot. The IISS
-declared neutrality during Constantus’ brief reign.
+declared neutrality during Constantus' brief reign.
 
 Nicolai 610–612 Defeated Constantus in the Battle of Rakakaka, killing him in battle and then claiming
 the throne by Right of Fleet Control. Not confirmed by the Moot.
@@ -7740,7 +7740,7 @@ Catherine 619 Exhausted by the string of pretenders, the Moot nominated Catherin
 the vacant throne. Allegedly she murdered Emdiri, becoming Empress by Right of
 Assassination. Catherine only survived for a few months.
 
-Ramon II 619 The Moot’s puppet, Catherine, was given short shrift. Ramon II assassinated her
+Ramon II 619 The Moot's puppet, Catherine, was given short shrift. Ramon II assassinated her
 and ascended to the throne. A reluctant but exhausted Moot confirmed him, hoping
 for peace.
 
@@ -7751,7 +7751,7 @@ Usuti 619–620 Defeated Jacqueline II in the Second Battle of Arakoine, killing
 confirmed him as Emperor.
 
 Marava 620 Defeated Usuti in the Third Battle of Arakoine, killing him in battle. Destroyed the
-Grand Palace of Martin II during the final assault on Capital. The palace remains
+Grand Palace of Martin II during the final assault on [[Capital]]. The palace remains
 on the grounds of the Imperial Park where it crashed during the conflict. The Moot
 confirmed Marava as Empress.
 
@@ -7775,10 +7775,10 @@ Doing so is a disservice to her legacy.
 Like Admiral Plankwell, Arbellatra assembled elements
 of her fleet at the conclusion of a Frontier War and
 promptly embarked upon an epic journey of nearly 150
-parsecs from Rhylanor to Capital. Emperor Gustus
+parsecs from Rhylanor to [[Capital]]. Emperor Gustus
 awaited her arrival with the might of the 1st Fleet at
 his disposal. Arbellatra defeated the bulk of his forces
-at the Second Battle of Zhimaway, the system’s most
+at the Second Battle of Zhimaway, the system's most
 prominent gas giant, and then proceeded to Capital
 where she assassinated Gustus. Unlike the previous 17
 usurpers, Arbellatra did not claim the throne. She asked
@@ -7801,7 +7801,7 @@ Arbellatra promoted the Marquis Caranda, making him
 the first Duke of Regina. For their loyal service during
 the Civil War, she rewarded the Geonee by creating the
 Duchy of Shiwonee and moving its subsector capital
-to Shiwonee. Arbellatra’s generosity did not extend
+to Shiwonee. Arbellatra's generosity did not extend
 to all domains. In Antares, she revoked the patent
 of Archduke Glazdon Deirdin for not supporting the
 Regency, installing Admiral Soegz in his place, the
@@ -7816,7 +7816,7 @@ themselves somewhere beyond Imperial borders.
 
 In 624, Arbellatra established the Imperial X-Boat
 Network, which would hasten communications between
-all of the domains and most importantly to Capital itself.
+all of the domains and most importantly to [[Capital]] itself.
 The IISS would manage the system with a network of
 way stations. Over time, the function of these bases
 would expand from mere maintenance facilities to
@@ -7856,29 +7856,29 @@ after nearly 500 years of stability.
 In the first year of her reign, Arbellatra established
 the Sylean Worlds cultural zone at the request of
 the Sylean Concord. The combined leadership of its
-worlds reminded the Empress that at the Imperium’s
+worlds reminded the Empress that at the Imperium's
 darkest hour, they allowed their worlds to become an
 autonomous state so the empire might survive. They
 expressed their desire that their worlds should never
 be used in such fashion again and began the process
 of demilitarization shortly thereafter. To this day, of all
-the Sylean Worlds, only Capital maintains a permanent
+the Sylean Worlds, only [[Capital]] maintains a permanent
 military presence.
 
 History of the Third Imperium
 
 A TALE OF TRAMP TRADERS
 A curious historical sidenote from the Civil War era was the creation of the Empress Marava -class far
-trader. While Marava’s reign was a short one, lasting less than a year, her singular achievement was the
+trader. While Marava's reign was a short one, lasting less than a year, her singular achievement was the
 felling of the Grand Palace of Martin II, destroying its gravitic suspensors and bringing the fairy tale-style
 castle crashing into the Imperial Park where it remains to this day. For some, this event signified a new
-beginning for the Imperium and while there was no reason to believe that Marava’s reign would last any
+beginning for the Imperium and while there was no reason to believe that Marava's reign would last any
 longer than the previous 13 Emperors of the Flag, there was a great deal of excitement about it on her
 homeworld of Kaskii.
 
 A small and struggling starship architecture firm on Kaskii called Bilitig und Dottir commemorated
-Marava’s rise to power with the design of the 200-ton jump-2 Empress Marava. The ship featured
-distinctly Solomani lines, employing the ‘bomber-nose’ look used on some of their bulk freighters. The
+Marava's rise to power with the design of the 200-ton jump-2 Empress Marava. The ship featured
+distinctly Solomani lines, employing the 'bomber-nose' look used on some of their bulk freighters. The
 firm boasted that its jump-2 drive would liberate the ship from the jump-1 mains plied by the ubiquitous
 Type-A free trader. Never mind that savvy Type-A owners had been fitting their ships with jump-2
 drives for centuries; Bilitig brazenly marketed their ship as the first of its kind and boasted that it would
@@ -7956,14 +7956,14 @@ the death of Arbellatra by natural causes and the
 subsequent ascendance of her son, Zhakirov.
 
 Distant Thunder
-The early years of Emperor Zhakirov’s reign featured
-a continuation of his mother’s policies, emphasising
+The early years of Emperor Zhakirov's reign featured
+a continuation of his mother's policies, emphasising
 security, economic growth and above all, peace. If
 the 20 sectors of the Imperium were the branches
 of a tree, withered by the Civil War, those branches
 were reinvigorated during the post-war era, given
 bright new leaves, solid branches and a healthy
-trunk. The central authority of Capital was once again
+trunk. The central authority of [[Capital]] was once again
 reinforced by an honor-bound nobility. Dissenting
 dukes and archdukes had their patents revoked
 and were replaced by those who fully supported the
@@ -7999,7 +7999,7 @@ and subsequent failure to complete the acquisition
 of all Solomani territories to rimward made the
 Solomani Movement dangerous to the empire.
 
-Zhakirov’s death in 688 should have been followed
+Zhakirov's death in 688 should have been followed
 by a smooth transition to the next Imperial heir but
 the situation was unprecedented: the ascendant
 Empress Margaret was only four years old at the
@@ -8068,7 +8068,7 @@ another major conflict so soon after the Civil War. The
 mixed results of the Pacification Campaigns hung
 over the Imperium like a spectre. While they had been
 successful by and large, most of the peerage felt that
-Artemsus’ crowning achievement was a slap in the face
+Artemsus' crowning achievement was a slap in the face
 to Cleon I, who advocated diplomacy, not force of arms,
 to incorporate worlds into the empire. Furthermore, the
 failure of the Antarean campaign would always haunt
@@ -8097,7 +8097,7 @@ His seat is left vacant.
 the title and joins the Solomani Movement.
 •  760: Most noble patents are vacated. Violent
 coups force many into exile. Some are recalled
-to Capital.
+to [[Capital]].
 
 REVOLUTION
 The Solomani Movement sweeps over the Rim.
@@ -8113,7 +8113,7 @@ genetically pure Solomani.
 •  780: The Pontiffs of Tonopah join the
 Solomani Movement but preach that all
 sophonts are equal.
-•  786: SolSec-supported rebels topple Jardin’s
+•  786: SolSec-supported rebels topple Jardin's
 government. The remaining systems in the
 subsector fall in line.
 •  860: Momentum grows for the creation of a fully
@@ -8134,7 +8134,7 @@ Solomani Confederation. The Imperium ignores
 the declaration.
 •  The Palace of the Secretary-General is
 completed on Terra in 876.
-•  Laurence Trinoch’s The Solomani Destiny
+•  Laurence Trinoch's The Solomani Destiny
 published on Home in Aldebaran in 881.
 
 History of the Third Imperium
@@ -8169,13 +8169,13 @@ to the other at jump-4 speed. While the prospect of
 governing such a vast expanse of space was and
 continues to be a daunting task, the Imperial X-boat
 Network ensures that its remote fiefs remain in
-communication with Capital.
+communication with [[Capital]].
 
 Speaking of Capital, its grandiosity continued to
 grow. The Grand Palace of Arbellatra acquired
 several annexes. In 729, Empress Margaret had the
 Consortium Trinary built, a trio of smaller spheres that
-would appear to ‘orbit’ the Grand Palace. The three
+would appear to 'orbit' the Grand Palace. The three
 spheres contained museums dedicated to the Ziru
 Sirka, Rule of Man and Third Imperium, respectively.
 Access to the public was limited but the Trinary was
@@ -8184,7 +8184,7 @@ made available to academics year round.
 Tragically, Empress Margaret died in a tunnel collapse
 while visiting the Imperial Reserve World of Onon in
 
-736. Margaret’s reign was unremarkable on the whole,
+736. Margaret's reign was unremarkable on the whole,
 remembered more as an era of stability than for grand
 achievements. Her twin brother, Paulo, was confirmed
 by the Moot as the new Emperor. Margaret left no heir,
@@ -8195,18 +8195,18 @@ well-prepared for the role despite having suffered the
 cruel hand of fate by being born a mere 22 minutes
 after his twin sister.
 
-Paulo’s reign was similar to that of Margaret. He
+Paulo's reign was similar to that of Margaret. He
 continued to cultivate relationships with the peerage
 and kept the peace on Imperial borders, most notably
 with the Zhodani Consulate. Other than putting down a
 few minor revolts, Paulo did not embroil the Imperium
 in conflicts. In 740, he left his mark on Capital, adding
-yet another annex to the Grand Palace. Paulo’s Annex
+yet another annex to the Grand Palace. Paulo's Annex
 was a pleasure palace, a place where visitors could
 indulge in myriad forms of entertainment. Fine dining,
 the performing arts, sporting events and countless
 other diversions were featured. Beginning in 740 the
-annex would serve as the primary site of the Emperor’s
+annex would serve as the primary site of the Emperor's
 Games, a decennial sporting event.
 
 The greater inclusion of Vilani nobles in the Moot
@@ -8227,19 +8227,19 @@ Emperor Paulo died of natural causes in 767, and his
 son, Tomutov, ascended to the throne. Alas, the weight
 of the crown was too much for Tomutov, who abdicated
 after two years. His sole legacy was the construction of
-Tomutov’s Palace, another annex to the Grand Palace.
-Tomutov’s Palace was a place of welcome, where
-esteemed visitors to Capital could stay when they came
+Tomutov's Palace, another annex to the Grand Palace.
+Tomutov's Palace was a place of welcome, where
+esteemed visitors to [[Capital]] could stay when they came
 to see the Emperor.
 
-Tomutov’s oldest offspring ascended to the throne
+Tomutov's oldest offspring ascended to the throne
 as Paula II in 768, beginning another era of steady
 Alkhalikoi rule. Paula was only 16 when she took the
 throne but took to the role quickly. Her first test of
 leadership would come a mere four years into her reign.
 
 The Psionic Suppressions
-In 772, it was discovered that many of the Imperium’s
+In 772, it was discovered that many of the Imperium's
 65 chartered psionic institutes had been infiltrated by
 the Zhodani Consulate. For most of Imperial history,
 psionics had been looked upon as an oddity of sorts.
@@ -8340,7 +8340,7 @@ TRAVELLER
 CONSPIRACY THEORIES
 At the conclusion of the Psionic Suppressions,
 there were numerous conspiracy theories about
-who the ‘real’ culprits were. Many theorized that
+who the 'real' culprits were. Many theorized that
 the Zhodani were an all-too-convenient bad guy
 and that their base of power was far too remote to
 have infiltrated the Imperium so completely. Some
@@ -8408,7 +8408,7 @@ leaving the throne to her third child, who was crowned
 Tomutova II. Paula had held the Imperium together
 through a crisis and it was now time for her daughter
 to see it through yet another challenging phase of
-history. Tomutova’s reign was almost deliberately
+history. Tomutova's reign was almost deliberately
 bland with its only notable event being the creation of
 the Imperial Academy of Science and Medicine in the
 Core in 845. A seemingly innocuous development, the
@@ -8422,7 +8422,7 @@ her, was an avid adherent of psychohistory. She was
 confident that the hand she played would enable the
 Imperium to win its eventual conflict with the Solomani.
 She also knew that it would occur long after her death
-but in Tomutova’s mind the outcome was certain. It was
+but in Tomutova's mind the outcome was certain. It was
 satisfying enough to know that she played her part,
 preparing and arming for the conflict to come despite
 having to endure the lashes of public opinion as one
@@ -8487,7 +8487,7 @@ would be the Empress whose role it would be to pacify
 
 the Solomani. Alas, Tomolin died in 944 after exposure
 to an alien pathogen. Margaret feared that this single
-event might derail centuries of planning. Tomolin’s son
+event might derail centuries of planning. Tomolin's son
 Styryx, then an officer in the Imperial Marines, was
 headstrong and had many connections with Solomani
 factions in the military. She was leery about whether
@@ -8509,7 +8509,7 @@ attention to events in the Marches but Styryx was
 obsessed with the Solomani crisis.
 
 Styryx and his wife were quick to produce an heir,
-Gavin, born in 946, just one year after Styryx’s
+Gavin, born in 946, just one year after Styryx's
 ascension to the throne. Styryx was young, healthy and
 hale after his brief career in the marines and expected
 to have a long life but now was not the time for the
@@ -8523,7 +8523,7 @@ Level 15 with early prototypes of weapons, electronics
 and starships already in circulation.
 
 As tensions continued to rise, Styryx stoked the flames
-by appointing a naval commission in 970 to ‘manage’
+by appointing a naval commission in 970 to 'manage'
 the Solomani Autonomous Region, a sure-fire sign that
 an invasion was being planned. He channelled the
 majority of the Imperial military budget to the navy at
@@ -8606,7 +8606,7 @@ during the assault. Styryx, who was found hiding in a
 fresher, surrendered and consented to abdicate the
 throne in favor of his son, Gavin.
 
-Gavin’s first major act as Emperor was to
+Gavin's first major act as Emperor was to
 commission the Scout Service to begin its Second
 Survey of Imperial space in 990. The maps and
 demographic data collected during the First Survey
@@ -8621,7 +8621,7 @@ published the First Survey in 420. Subsequent
 starships in the class would be named for other
 famous scouts.
 
-One of Gavin’s final pre-war acts was to disband the
+One of Gavin's final pre-war acts was to disband the
 Solomani Regiment of the Imperial Guard, vowing to
 reinstate it after the crisis in the Rim was addressed.
 
@@ -8629,16 +8629,16 @@ Brother vs. Brother
 Leule left Exage on a liner bound for Asmera at the
 crack of dawn. He spent all of his scholarship money
 on a mid passage. Mother and Father refused to see
-him off but I went. I didn’t want my last memory of him
+him off but I went. I didn't want my last memory of him
 to be the angry shouting match at the dinner table
 the night before. When I begged him to reconsider,
 he just spouted more of that Solomani Movement
 stuff. About how being of Solomani blood makes you
 special and how you have a unique destiny. The last
 straw for him was when Mr. Dimaakhuna assigned
-him to lathing duty at the plant. Leule said he couldn’t
+him to lathing duty at the plant. Leule said he couldn't
 stand another day of working for that Vilani... well, I
-don’t want to repeat the next word. It’s impolite and
+don't want to repeat the next word. It's impolite and
 besides, I always thought Mr. Dimaakhuna was a fair
 and reasonable boss.
 
@@ -8653,20 +8653,20 @@ History of the Third Imperium
 
 to the Rule of Man. I tried to convince Leule that
 there was no way he could know if we were really
-‘genetically pure’ Solomani or not. Our homeworld
+'genetically pure' Solomani or not. Our homeworld
 was a place where Vilani and Solomani had mixed for
 thousands of years. The tests were inconclusive but
-he said he could feel it in his blood that he was ‘pure’.
+he said he could feel it in his blood that he was 'pure'.
 
 Military service is mandatory on Exage and I got
 conscripted into the army in 989, right before the
 Rim War. I was assigned to mobile infantry. I was
-one of the ‘boots on the ground’ as they say. The
+one of the 'boots on the ground' as they say. The
 Imperial Navy comes in, beats up enemy squadrons,
 the marines hit the ground first and then we come
 in on transports to secure and hold the place down.
 I fought in the Battle of Martham Prime in the first
-year of the war. Things didn’t go well early on and
+year of the war. Things didn't go well early on and
 we got pushed back. The thought of retreating to
 my homeworld and defending it against Solomani
 invaders terrified me. The idea that Mother, Father
@@ -8683,7 +8683,7 @@ we were never closer than 10 parsecs from each
 other. As for Leule, I never saw him again. I heard
 that he fought in the Battle of Gresham, where
 I was stationed for a while, but even although I
-tried, I couldn’t find him. I will always wonder what
+tried, I couldn't find him. I will always wonder what
 happened to him.
 
 The Solomani Rim War
@@ -8740,7 +8740,7 @@ Solomani space.
 
 Admiral Ivan Wolfe took charge of the Solomani Grand
 Fleet and prepared for a last-ditch effort to preserve
-the heart of the Confederation. ‘Grand’ may have
+the heart of the Confederation. 'Grand' may have
 been a bit of a misnomer. After four years of retreat,
 what was left was a ragtag assemblage of capital
 ships bolstered by replacements from the rimward
@@ -8761,8 +8761,8 @@ on the Imperial 17th Fleet at Agidda before moving
 on to attempt a similar attack on the 1st Fleet in the
 Vegan District. However, the reconstituted 17th Fleet
 regrouped and proceeded to Dingir where it delivered
-decisive blows on Wolfe’s rear guard, cutting off his
-fleet’s supply lines and essentially destroying its
+decisive blows on Wolfe's rear guard, cutting off his
+fleet's supply lines and essentially destroying its
 ability to function. Wolfe was forced to withdraw and
 was harried by the Imperial 1st Fleet during his retreat
 to Aldebaran.
@@ -8780,7 +8780,7 @@ Many found the Solomani Movement to be distasteful. Adherents of the movement de
 not just humans but only Solomani humans whose destiny it was to rule the stars. The Imperium had
 long moved on from such notions. In the Declaration of 17, Emperor Cleon I had declared that Imperial
 citizenship was extended to all sophonts. Furthermore, the Imperium had already been a hybrid state of
-Solomani, Vilani and, of course, Syleans even before Cleon’s declaration. The Imperium had come to
+Solomani, Vilani and, of course, Syleans even before Cleon's declaration. The Imperium had come to
 include Aslan, Vargr and dozens of Minor Races among its citizenry as well. Aslan served in the Imperial
 Guard. A Vargr had been appointed Archduke of Antares. The notion of Solomani supremacy seemed
 barbaric and outdated to most Imperial citizens no matter their heritage.
@@ -8873,7 +8873,7 @@ A fortuitous development of the Gavinian Age was
 the advent of the Authentic Movement. The principles
 of the movement were developed in 988 by Dr.
 Johann Kramm at a university on Shudusham, only
-four parsecs from Capital. This movement posited
+four parsecs from [[Capital]]. This movement posited
 that the human spirit was diminished in high-
 technology societies but that it could be replenished
 by celebrating one or more of the myriad cultures
@@ -8906,7 +8906,7 @@ Authentic Movement helped to pacify the Solomani
 Rim and eased the integration of the occupied worlds
 into the Imperium.
 
-Upon Gavin’s death in 1031, the throne was passed
+Upon Gavin's death in 1031, the throne was passed
 to his oldest issue who was crowned Paulo III.
 Paulo inherited a stable Imperium and dedicated
 his reign to the maintenance of peace. The Meson
@@ -8930,22 +8930,22 @@ TRAVELLER
 
 brought to the negotiating table and pacified. This event
 was celebrated by the reestablishment of the Solomani
-Guard Regiment on Capital. Paulo wanted his time as
+Guard Regiment on [[Capital]]. Paulo wanted his time as
 Emperor to be remembered as another glorious period
 of peace and economic growth. Any problems that
 came up were handled as efficiently as possible and
 without fanfare.
 
-Paulo’s wife Elbet gave birth to their first child,
+Paulo's wife Elbet gave birth to their first child,
 Strephon Aella Alkhalikoi, in 1049. At the age of 58,
 Paulo was old for a first-time parent but he was far
 from a doting one. Strephon was the heir that the
 Imperium demanded but he meant little else to his
-father. Strephon’s sister, Lydia, was born three years
+father. Strephon's sister, Lydia, was born three years
 later in 1052 and was equally neglected. Unfortunately,
 Empress Elbet died under mysterious circumstances
-in 1053, leaving her two toddlers motherless. Paulo’s
-brother, James, was implicated in Elbet’s death but
+in 1053, leaving her two toddlers motherless. Paulo's
+brother, James, was implicated in Elbet's death but
 committed suicide within the year, before he could be
 properly tried for his involvement. With their mother
 dead and their father indisposed with the burdens of
@@ -8955,7 +8955,7 @@ were only brought together when Imperial events
 required it. The two were raised more by their tutors
 than any member of the Imperial family.
 
-One of the final acts of Paulo’s reign was the
+One of the final acts of Paulo's reign was the
 completion of the Second Grand Survey in 1065.
 The 75-year project was completed in the Reference
 system when data from the survey was downloaded
@@ -8971,7 +8971,7 @@ Unlike so many of his predecessors in the Alkhalikoi
 line, Strephon was ill-prepared for the throne. Serving
 as a midshipman in the Imperial Navy, Strephon was
 called home when his father had been reported ill;
-he arrived on Capital three days after his father’s
+he arrived on [[Capital]] three days after his father's
 death. Only 21 years old at the time of his coronation,
 Strephon had a lot of catching up to do. He had hoped
 to have an illustrious naval career before ascending
@@ -9006,7 +9006,7 @@ systems. Losses to both sides were so devastating
 that both Imperium and Zhodani Consulate forces sued
 for peace. The fighting lasted only 18 months before
 an armistice was signed in 1084, causing the war to
-be nicknamed the ‘False War’. By the time word had
+be nicknamed the 'False War'. By the time word had
 arrived at Capital, the fighting was essentially over.
 Nevertheless, clever messaging was devised to make
 Strephon look like a highly capable commander-in-
@@ -9047,12 +9047,12 @@ is less inclined towards the senior Duchess of the
 Marches, Delphine Adoriana Muudashir. Born in 979,
 the august Duchess Delphine was a child during the
 Solomani Rim War and was knighted to the Order of
-Starship and Crown in 1018 by Strephon’s grandfather,
+Starship and Crown in 1018 by Strephon's grandfather,
 Gavin. Regardless of their shared history, Strephon
 and Delphine have little in common. He has privately
 remarked that she seems a bit too devoted to her
 protégé, Admiral Frederick Santanocheev. Now, nearly
-126 years old, the duchess’ ambitions seem to be at
+126 years old, the duchess' ambitions seem to be at
 odds with those of Norris.
 
 The Domain of Deneb is the future of the Imperium and
@@ -9062,7 +9062,7 @@ from Rhylanor in the Spinward Marches and Strephon
 intends to honor the memory of Arbellatra by being
 a better custodian of his ancestral homeland. To this
 end, Imperial naval strategists have adopted a new
-‘elastic defence’ strategy in which colonial reserves are
+'elastic defence' strategy in which colonial reserves are
 strengthened and more powerful reinforcements are
 stationed nearby in Corridor. Should another Frontier
 War occur, the colonial forces need only hold on until
@@ -9121,14 +9121,14 @@ allowed so that peace may continue.
 While the Imperium has its jump-4 x-boat network, and
 the navy its jump-6 courier system to communicate
 urgent issues, Emperor Strephon still fears a
-fragmentation of the empire. Cleon’s dream of a
+fragmentation of the empire. Cleon's dream of a
 loyal, honorable and dutiful feudal nobility seems
 to be working as intended but there is reason to be
 concerned. Strephon is afraid that the disparate
 regions of the Imperium desire more localised
 government to better serve their needs. He is staunchly
 committed to a unified empire and seeks ways to
-enhance the bonds that the domains have with Capital.
+enhance the bonds that the domains have with [[Capital]].
 To this end, he has appointed progressive archdukes
 such as Dulinor Astrin Ilethian, men and women who
 he believes share his vision and know how best to
@@ -9137,7 +9137,7 @@ commitment to the Imperium as a whole.
 
 History of the Third Imperium
 
-# CORE SECTOR
+# [[Core sector]] 
 
 Visitors to Core often find that it is not at all what they
 expected. There is a common misconception that the
@@ -9146,7 +9146,7 @@ that all of its inhabitants are exorbitantly wealthy with
 robots and computers running every aspect of their
 lives and that Imperial patriotism runs thicker than
 blood in their veins. While there certainly is wealth
-to be had in the Core, and Capital does wield a wide
+to be had in the Core, and [[Capital]] does wield a wide
 sphere of influence, not every world is a bastion of
 technological development, covered in arcologies and
 industry, nor does everyone fly the Imperial flag with
@@ -9180,7 +9180,7 @@ has technological wonders aplenty but there are worlds
 elsewhere in the Imperium that have achieved levels
 beyond those of the Core. The sector certainly has a
 distinct character and unique features. It is home to
-Capital where the current and all former Emperors have
+[[Capital]] where the current and all former Emperors have
 sat upon the Iridium Throne and where the nobility
 meet at the Moot Spire. It is home to Reference, a
 world dedicated to the retention of all information ever
@@ -9188,26 +9188,26 @@ collected by Humaniti. Some of the most powerful
 starships in existence have been built at its Imperial
 
 Navy Depot in a star system that was touched by the
-Ancients. Even after over 1,000 years, the Core’s
+Ancients. Even after over 1,000 years, the Core's
 economy is among the mightiest in the Imperium. More
 goods are exported from its industrial worlds than from
 those of any other sector.
 
-The Sylean Main is the Core’s richest trade route,
-connecting Capital to the majority of the sector.
+The Sylean Main is the Core's richest trade route,
+connecting [[Capital]] to the majority of the sector.
 Achenaar Antilles currently dominates shipping in
 the sector but the megacorporate lines are engaged
 with them in fierce economic combat for control
-of the sector’s rich export business. While the big
+of the sector's rich export business. While the big
 corporations duke it out for control, there is plenty of
 business for enterprising free traders to make a living.
 
 Several alien races hail from the Core, including the
 Ssienjhiovla, an aquatic species who have integrated
 themselves into Imperial society and the sagely but
-bloviating Bhu’oovaakaylaa, large and phlegmatic
+bloviating Bhu'oovaakaylaa, large and phlegmatic
 and virtually unseen beyond the confines of their
-homeworld. The Oo-ne-beto-pon-tee or ‘whistlers’ as
+homeworld. The Oo-ne-beto-pon-tee or 'whistlers' as
 some call them, a strange and potentially dangerous
 species, are under the watchful eye of the Imperial
 Navy on the isolated world of Night. Their ability to
@@ -9217,7 +9217,7 @@ wiped from existence nearly 800 years ago, allegedly
 for having similar abilities. A recently discovered race
 called the Ganmeids have been found in the oceans of
 the windswept world of Indshiim Ganme, a mere seven
-parsecs from Capital. The Core is also home to several
+parsecs from [[Capital]]. The Core is also home to several
 human Minor Races, none more famous or influential
 than the Syleans, whose unique philosophy enabled
 Humaniti to arise from the ashes of the Long Night.
@@ -9231,7 +9231,7 @@ obvious than the many Vilani-named star systems.
 During the Interstellar Wars, the Terrans invaded
 and renamed many worlds, left some names intact
 and corrupted others with Galanglic influences. To
-some extent, the names of the Core’s worlds tell
+some extent, the names of the Core's worlds tell
 the tale. The Terrans burst into the First Imperium in
 leaps and bounds, annexing and conquering high-
 
@@ -9268,11 +9268,11 @@ evident. The burden of serving and protecting the
 Imperial throne world creates political and military
 
 intrigue throughout most of the Core and Kaskii
-subsectors. Branches extend from Capital like the
+subsectors. Branches extend from [[Capital]] like the
 nervous system of some great organism, making
 neighboring worlds an extension of its will. Nobles
 jockey for position in fiefs near the throne world.
-Because of their proximity to Capital and easy
+Because of their proximity to [[Capital]] and easy
 access to the Moot, the nobility here wield an
 outsized influence.
 
@@ -9291,21 +9291,21 @@ Imperium can be tenuous.
 
 The Core is well defended by its numbered and
 sector fleets, which are the most powerful in all of the
-Imperium. The Core Sector Fleet is headquartered at
+Imperium. The [[Core sector]]  Fleet is headquartered at
 Depot with a goodly portion of its fleet elements based
-at Capital. The Imperial Interstellar Scout Service has
+at [[Capital]]. The Imperial Interstellar Scout Service has
 its bureaucratic headquarters at Reference, where
 it also berths multiple scout cruisers. Reference is
 also well-defended by the Imperial Navy due to its
 strategic importance.
 
-CORE SECTOR
+[[Core sector]] 
 
 # APGE
 
 The Apge subsector is dominated by the Apge
 system, which contains over 80 percent of the
-subsector’s inhabitants. Apge is the capital and is
+subsector's inhabitants. Apge is the capital and is
 situated along a ring of star systems that are fittingly
 called the Apge Cluster, which is a tributary of a
 longer jump-1 main that extends into neighboring
@@ -9332,8 +9332,8 @@ Duchess Ashushashmi does what she can to offer an
 alternative life path in which tradition, stability and
 service have greater value than obtaining riches. She
 puts immense pressure on the Apge Bureau of Life,
-Environment and Resources (ABLER) to ‘get out
-and spread the word’ about how wonderful the Apge
+Environment and Resources (ABLER) to 'get out
+and spread the word' about how wonderful the Apge
 Cluster is and how it is absolutely brimming with
 economic potential. Despite their catchy acronym,
 ABLER is in fact a traditionalist-style Vilani bureau,
@@ -9363,7 +9363,7 @@ of the FGMP-15.
 
 Technological innovation has always been part of the
 lifeblood of Apge. At the dawn of the Third Imperium,
-Cleon Zhunastu’s patented Fusion Plus technology
+Cleon Zhunastu's patented Fusion Plus technology
 was first employed in the Azimuth system, where it
 was successfully used to provide power for a light
 carrier and squadron of gunships deployed to combat
@@ -9807,7 +9807,7 @@ only its twilight zone has a mild climate with its bright
 and dark sides less so. Nevertheless, billions of people
 were forced to live in all regions of the world as well as
 numerous orbital and Lagrange point artificial habitats.
-Apgeans have also settled the majority of the system’s
+Apgeans have also settled the majority of the system's
 other worlds and even today a large belter community
 mines the planetoids of the Pukushkilaam Belt in the
 outer system, despite the fact that it has been largely
@@ -9816,9 +9816,9 @@ tapped out from thousands of years of exploitation.
 While Apge has once again arisen as a powerful
 interstellar high-technology society, it retains a
 disciplined and reserved culture. The advent of the
-Third Imperium resurrected Apge’s importance and its
+Third Imperium resurrected Apge's importance and its
 Vilani-style bureaucracy reinvented itself as a key link
-between Vland and Core. While members of Apge’s
+between Vland and Core. While members of Apge's
 ruling class have accepted their roles as Imperial
 citizens, the world has maintained a distinctively Vilani
 flavor. Galanglic is universally spoken but Vilani is the
@@ -9829,21 +9829,21 @@ Over 90 percent of the surface of Castell is covered
 by water. While its land masses are unremarkable and
 have only a few small settlements, its ocean floors
 are rich in valuable minerals and metals. For most of
-the world’s history, the majority of the population has
+the world's history, the majority of the population has
 lived in undersea arcologies. After a large seismic
 disturbance in 758, the Myteria-Seru arcology
 flooded and crumbled, tragically killing all 1.5 million
 inhabitants. To prevent a recurrence, the government
 established draconian laws governing all aspects of
-life in the world’s remaining undersea cities. Despite
-the overly rigorous laws, the world’s leader retains the
+life in the world's remaining undersea cities. Despite
+the overly rigorous laws, the world's leader retains the
 confidence of his people. Citizens are educated from
 birth to respect the artificial environments in which they
 live and to believe that strict control of every action is
 necessary to ensure their safety.
 
 The overzealous safety regulations have had an
-adverse effect on population growth. Among Castell’s
+adverse effect on population growth. Among Castell's
 many laws are some that strictly control reproduction.
 The goal was to maintain replacement level population
 numbers but instead they have seen a steady decline.
@@ -9854,9 +9854,9 @@ the government has begun to allow offworlders to
 immigrate to Castell, allowing them to build floating
 cities, mining submarines and establish a nomadic
 ocean-going culture. The one requirement is that they
-participate in Castell’s essential mining industries. The
-newcomers are virtually unrestricted by Castell’s high
-Law Level. The state-run media restricts the natives’
+participate in Castell's essential mining industries. The
+newcomers are virtually unrestricted by Castell's high
+Law Level. The state-run media restricts the natives'
 knowledge of how the immigrants live but some of them
 have found out nonetheless. The government is now
 engaged in a two-prong attack to set things right: on the
@@ -9927,7 +9927,7 @@ export the mind-controlling agents. Five dreadnoughts
 were brought into the system, three of which orbitally
 assaulted population centres with particle weapons
 and mass drivers while the other two bombarded the
-planet with planetoids gathered from the system’s
+planet with planetoids gathered from the system's
 belts. Maaruur was cleansed of virtually all life forms
 within weeks. The 1,300 people at the highport – 400
 of whom were Shingans – were quarantined and
@@ -10085,7 +10085,7 @@ apge
 ## PERITE
 
 The motto of the Perite subsector might very well
-be ‘Look to Spinward’. Regardless of its proximity
+be 'Look to Spinward'. Regardless of its proximity
 to Capital, Perite has a distinctly Vilani flavor. After
 the fall of the Rule of Man three millennia ago, many
 of the worlds in Perite shook off the yolk of Terran
@@ -10102,9 +10102,9 @@ of a hybrid culture but even today visitors can see the
 tension that exists between cosmopolitan Imperial
 society and traditional Vilani boroughs.
 
-The Karnika system is called the ‘Gateway to Core’
+The Karnika system is called the 'Gateway to Core'
 and serves as an important link on the route between
-Vland and Capital. Duke Dagalu Kiinlarsuush
+Vland and [[Capital]]. Duke Dagalu Kiinlarsuush
 Rikhummi makes his home there but spends a great
 deal of time travelling the worlds of the subsector with
 his charismatic wife, Asasshaa, a woman of noble
@@ -10126,11 +10126,11 @@ the economy of Perite is much more heavily linked with
 that of the Lishun sector.
 
 A popular entertainment trend in the subsector is a
-rash of ‘Shugilii shows’, holovideo series that celebrate
+rash of 'Shugilii shows', holovideo series that celebrate
 the Vilani tradition of food processing. The hosts of
 the shows travel the subsector, showing people how
 to process flora and fauna from its worlds. The most
-popular of them is ‘Shugilii Shimiirkhuki’, in which the
+popular of them is 'Shugilii Shimiirkhuki', in which the
 host hunts a multitude of animal species and shows
 
 how to field process the animals, using each and every
@@ -10138,7 +10138,7 @@ bit for consumption and other uses. The hosts of the
 most popular shows are huge celebrities in Perite and
 Apge but less well known elsewhere.
 
-Perite’s stellar density is spotty and includes several
+Perite's stellar density is spotty and includes several
 inconvenient gaps in its astrography. Tramp traders
 working their way into the lucrative Core market
 typically operate far traders or subsidized merchants
@@ -10151,7 +10151,7 @@ posted at numerous systems. All of the ships of the
 fleet bear Vilani names, which makes them easy to
 pick out during joint exercises elsewhere in the Core.
 The flagship of the fleet is a heavy cruiser that is called
-Khidenuum iru Argukege , the ‘Duty of the Wise’.
+Khidenuum iru Argukege , the 'Duty of the Wise'.
 
 TRAVELLER
 
@@ -10568,23 +10568,23 @@ while the other faces away. Iona has an eccentric
 orbit, approximately 45o off the plane of the ecliptic.
 Approximately every 2.5 standard years, Iona comes
 close enough to Akussanja to have a significant
-effect on the planet. When distant, Akussanja’s
+effect on the planet. When distant, Akussanja's
 hydrosphere is frozen, creating ice caps nearly the
 
-world over. The planet’s abundant sea life is mostly
+world over. The planet's abundant sea life is mostly
 dormant during this period but when Iona is close,
 its frozen oceans partially melt and the seas come to
 life. Akussanjan fish hibernate during the cold periods
 and become active only when they have significant
 heat from both stars. In addition, Iona casts its dim
-light on what is otherwise Akussanja’s dark side.
+light on what is otherwise Akussanja's dark side.
 
 The Scout Service maintains a base in the system
 to observe the unusual Akussanjan life forms. IISS
 scientists believe that studies of the biochemistry
 of these creatures might have applications in the
 cryogenics field. After failed attempts to involve the
-Core sector’s Research Stations Beta and Gamma,
+[[Core sector]] 's Research Stations Beta and Gamma,
 
 perite
 
@@ -10627,7 +10627,7 @@ The starport is rudimentary, little more than terraces
 and pueblo-like structures carved out of limestone.
 The landing pads are too small and unstable to
 dock a starship but many can support small craft
-and gravitic vehicles. A tourist service in the planet’s
+and gravitic vehicles. A tourist service in the planet's
 northern hemisphere offers transportation via airship
 between some of its more popular mountain ranges.
 Trained guides and mountaineers are available to
@@ -10638,7 +10638,7 @@ olivine and pyroxene stones that have been cleansed
 of dust and regolith by various bacterial species. The
 canyons glisten with the green and purple hues of
 the stones and cast a hypnotic prismatic effect when
-Gakxaal’s star shines directly upon them.
+Gakxaal's star shines directly upon them.
 
 Shazeku
 During the Long Night, Shazeku was governed by a
@@ -10655,7 +10655,7 @@ museums and historical sites for tourists.
 
 There were 14 deities in the Bamshimbakkada
 pantheon, each of whom were represented by a
-planet or star in the Shazeku system. Shazeku’s two
+planet or star in the Shazeku system. Shazeku's two
 red dwarf stars, Aadii and Kuusi, are approximately
 one light year apart and each orbited by six planets.
 The Bamshimbakkadans believed that the worlds of
@@ -10675,12 +10675,12 @@ The Imperial Navy Base on Shazeku is an
 important one. The world is host to several small
 craft construction yards that manufacture fighters,
 armed pinnaces and modular cutters for the navy.
-Shazeku’s solitary moon is a test site for new
-prototypes where some of the sector’s top test pilots
+Shazeku's solitary moon is a test site for new
+prototypes where some of the sector's top test pilots
 put these spacecraft through their paces before they
 are sold to the Imperial Navy and various planetary
 navies. Naval architects have recently been seen
-at the ‘Black Cube’, a highly secure research
+at the 'Black Cube', a highly secure research
 installation where the navy is said to be working
 with sector-wide corporation Hodan-Barley on a new
 breed of starfighter.
@@ -10690,7 +10690,7 @@ perite
 TRAVELLER
 
 The Annililik Run
-The legendary ‘silk road’ between Vland and Capital
+The legendary 'silk road' between Vland and Capital
 is known as the Annililik Run. The route between the
 two worlds was of great importance at the dawn of the
 Third Imperium, linking the two capitals during an era
@@ -10725,17 +10725,17 @@ exposure to potential pirate attacks, equipment failure
 or other perils. Many traders became lost along the
 route, some never to be seen or heard from again.
 Lost traders were often said to have vanished into
-the ‘Annililik Pyramid’, a mysterious phenomenon that
+the 'Annililik Pyramid', a mysterious phenomenon that
 mercilessly gobbled up wayward starships.
 
 The Annililik Run became somewhat safer as the Long
-Night came to an end and Capital benefited immensely
+Night came to an end and [[Capital]] benefited immensely
 from increased traffic along the route. Linking old
-Vland with newly minted Capital lent the fledgling Third
+Vland with newly minted [[Capital]] lent the fledgling Third
 Imperium an air of validity at a time when its prospects
 for success were very much in doubt. It also enabled
-Capital to seed Vland with Fusion Plus technology,
-one of the cornerstones of Cleon Zhunastu’s outreach
+[[Capital]] to seed Vland with Fusion Plus technology,
+one of the cornerstones of Cleon Zhunastu's outreach
 program to the worlds around Sylea. As the route
 became safer, larger and more capable merchant
 convoys began to make the Run. This resulted not only
@@ -10746,17 +10746,17 @@ the groundwork for the eventual incorporation of Vland
 into the Third Imperium.
 
 In modern times, a race between Vland and Capital
-is held once every four gurkula (a Vilani ‘year’, each
+is held once every four gurkula (a Vilani 'year', each
 of which is approximately 478.7 standard days) to
 commemorate the Annililik Run. The two worlds alternate
 as starting and finish lines for the race; after an Annililik
 Run is completed in one direction, it reverses course the
 next time the event is held. If ever there were a fitting
 interstellar analogue to the ancient Terran fable of the
-‘Tortoise and the Hare’, this race is it. Ships are limited to
+'Tortoise and the Hare', this race is it. Ships are limited to
 jump-2 and up to 600 tons. The race has dual objectives,
 the first of which is to make the Run in an allotted period
-of time. The distance between Vland and Capital is 60
+of time. The distance between Vland and [[Capital]] is 60
 parsecs and a jump-2 ship can make it between the
 two systems in about 31 jumps if the most direct route
 is taken. Contestants are expected to make the run in
@@ -10778,7 +10778,7 @@ Each jump must be to an inhabited star system, so
 leapfrogging between worlds by jumping into empty
 space and using fuel from a collapsible fuel tank is not
 allowed. Fuel costs are recorded and subtracted from
-one’s totals at the end of the race. Some star systems
+one's totals at the end of the race. Some star systems
 along the route are backwaters that see little traffic
 when the race is not being run. Not surprisingly, many
 of them take advantage of the situation and have been
@@ -10856,7 +10856,7 @@ contestants and others are failing companies that fail
 to provide the promised support. Travellers must take
 caution when establishing a relationship with a potential
 sponsor. There are private investigation firms on both
-Vland and Capital whose specialty is investigating
+Vland and [[Capital]] whose specialty is investigating
 sponsors but their services do not come cheap.
 
 There are many distractions for the contestants,
@@ -10866,7 +10866,7 @@ the latest news and many worlds roll out the proverbial
 red carpet as the ships make their way along the Run.
 Worlds like Karnika – generally considered the gateway
 to the Core for race participants – create a festive
-environment including armed escorts and a ‘parade path’
+environment including armed escorts and a 'parade path'
 from the 100-diameter limit to the highport or downport.
 With all the pomp and circumstance, it is easy for a
 contestant to get side-tracked; only those with the utmost
@@ -10878,7 +10878,7 @@ Petulant captains and crews can lose their sponsorships
 if they are overly curt or rude.
 
 Reaching the finish line is just the beginning. Until the
-75 th week has passed, the locals at Capital or Vland
+75 th week has passed, the locals at [[Capital]] or Vland
 watch and wait as more and more contestants roll in.
 A leader board forms, ranking the contestants with an
 algorithm based on the speed and efficiency with which
@@ -10897,9 +10897,9 @@ crewmembers on liners, freighters and tramp traders.
 For others, the Annililik Run is a way of life. Many of
 them establish a migratory lifestyle around the event.
 For example, a contestant might make the Run to
-Capital and then spend the intervening years before
+[[Capital]] and then spend the intervening years before
 the next race plying the trade routes of the Core, only
-to come back to Capital to prepare for the next race.
+to come back to [[Capital]] to prepare for the next race.
 When they arrive in Vland, more than four garkula
 later, they ply the routes of Vland for a while and so
 forth. The Annililik Run has a culture and tradition all
@@ -11061,15 +11061,15 @@ The coreward portion of the subsector is dominated
 by the capital at Khizuun. The Khizuuni see
 themselves as the rock upon which the Lishun sector
 breaks and Core begins. To be a world of the Core is
-to be an extension of Capital as far as the Khizuuni
+to be an extension of [[Capital]] as far as the Khizuuni
 are concerned and they believe that Lishunians
-must be ‘cleansed’ before entering the hallowed
+must be 'cleansed' before entering the hallowed
 worlds of the Core. Entering at Khizuun – which
 many Travellers do because of its rich markets and
 convenient location – foreign starships are reminded
-that they are no longer in ‘the provinces’ but have
+that they are no longer in 'the provinces' but have
 entered the proverbial gatehouse of the Emperor.
-Khizuun’s intrusive planetary navy, whose uniform
+Khizuun's intrusive planetary navy, whose uniform
 is intentionally similar to that of the Imperial Navy,
 attempts to inspect every single ship that enters the
 realm, despite the impossibility of actually doing
@@ -11082,7 +11082,7 @@ that is entirely unfamiliar; Lishun is no stranger to
 authoritarian governments and most just see it as a
 cost of doing business.
 
-The Imperial Navy’s 69th Fleet is headquartered at
+The Imperial Navy's 69th Fleet is headquartered at
 Khizuun with squadrons in several other systems
 and two BatRons semi-permanently stationed at
 Nimluin. Likewise, the Scout Service maintains a
@@ -11103,7 +11103,7 @@ governments, foster insurgencies and assassinate
 political opponents in an effort to bring them in line with
 Khizunni dictates. The High Captain of the Khizuuni
 Supreme Council has made veiled threats that he might
-authorise the invasion of some of the subsector’s more
+authorise the invasion of some of the subsector's more
 troublesome worlds, all for the cause of establishing a
 safer, more prosperous Imperial order, of course.
 
@@ -11142,7 +11142,7 @@ and that the majority of the results will not appear until
 the very end of the project.
 
 A competing firm has recently offered to come in and
-finish the job, proposing to scour the system’s Oort cloud
+finish the job, proposing to scour the system's Oort cloud
 for cometary bodies and other material with which to
 bombard Ameros, thereby thickening its atmosphere
 and providing water. Using less fancy technology, they
@@ -11585,7 +11585,7 @@ E000230-9
 ###### AMEROS subsector
 
 aquifers and even add spin to Ameros, which would
-otherwise be tidally locked to the system’s circumbinary
+otherwise be tidally locked to the system's circumbinary
 pair. Hortalez is considering their pitch but Metamorph
 has expressed concerns that mixing the two approaches
 could have unexpected and possibly disastrous results.
@@ -11611,7 +11611,7 @@ passed by again. As the Third Imperium came about,
 one of its key tenets was respecting Vilani culture and
 traditions. While the Vilani had probably long forgotten
 that Lagaashin was ever a reserve world at this point,
-the Syleans’ historical records indicated otherwise and
+the Syleans' historical records indicated otherwise and
 so, once again, Lagaashin was left undisturbed.
 
 In the ensuing centuries, the notion of Lagaashin
@@ -11645,7 +11645,7 @@ environment that had been gifted to them. Above all,
 they sought to achieve balance, using technology and
 planning to create a sustainable society.
 
-As Lagaashin’s government matured and its people
+As Lagaashin's government matured and its people
 became aware of the universe around them, they saw
 the opportunity to make their world an experiment in
 which resources were not ravenously gobbled up but
@@ -11665,8 +11665,8 @@ successfully created a sustainable and peaceful
 society. Alas, the Lagaashinians have fallen on
 troubled times. Ninua has once again asserted its
 authority over the planet, sending troops to the world
-under the pretence that they were present to ‘keep the
-peace’ despite there being little evidence of conflict.
+under the pretence that they were present to 'keep the
+peace' despite there being little evidence of conflict.
 Ninua has also asserted that they require greater
 agricultural output from Lagaashin to address the
 needs of their growing population. Ninua is pushing
@@ -11678,15 +11678,15 @@ use lower-cost agricultural extraction technology
 that would threaten the delicate ecological balance
 that they have achieved. Many Lagaashinians are
 pushing back the only way that they can: by peacefully
-protesting Ninua’s unbidden and jackbooted assault
+protesting Ninua's unbidden and jackbooted assault
 on their world. General strikes by agricultural workers,
 hunger strikes and large demonstrations have become
-the norm in Lagaashin’s cities and towns. Authoritarian
+the norm in Lagaashin's cities and towns. Authoritarian
 Ninua is intolerant of all forms of civil disobedience
 and has begun to oppress the Lagaashinians with the
 same methods used on their own world.
 
-Of all the species native to Lagaashin, Kovil’s
+Of all the species native to Lagaashin, Kovil's
 ox – or simply, the kovil – has been the easiest
 to domesticate. This gentle, elephantine creature
 showed little fear of the early colonists and settled
@@ -11729,10 +11729,10 @@ as they arise and scouring the belt for new strikes
 with arrays of mining drones. Things got nasty when
 the two corporations started deploying weaponised
 drones to disable and often outright destroy each
-other’s drones and other equipment. They kept their
+other's drones and other equipment. They kept their
 little war a secret until one of them inadvertently
 destroyed a seeker starship that was owned by
-an independent belter. Unnagilu’s government got
+an independent belter. Unnagilu's government got
 involved but its representative democracy had been
 corrupted by the influential megacorporations and was
 unable to resolve the dispute. The government was
@@ -11742,7 +11742,7 @@ got out of hand so the two firms hired mercenary
 forces to secure their strikes and keep the peace. The
 mercenaries have been put into the unlikely role of de
 facto governors of the system and established military
-rule in the belt and on the system’s other worlds and
+rule in the belt and on the system's other worlds and
 gas giant moons. Mercenary commanders working
 for both sides effectively collude with one another
 in order to maintain the status quo. While they are
@@ -11753,7 +11753,7 @@ Zone designation to Unnagilu, which would likely be
 disastrous for all involved.
 
 Animal Hits Speed
-Kovil’s Ox 85 8m
+Kovil's Ox 85 8m
 Skills Melee (natural) 2, Recon 1, Survival 1
 Attacks Trample (4D)
 Traits Armor (+6), Tough, Large (+2)
@@ -11761,7 +11761,7 @@ Behaviour Herbivore, Grazer
 
 It is difficult to make a living as an independent belter
 in this environment but that does not deter many from
-trying. Independents – or ‘indies’ as they are known
+trying. Independents – or 'indies' as they are known
 
 * make up 8–10 percent of the belter population in
 Unnagilu. The indies chafe at the arbitrary interference
@@ -11769,17 +11769,17 @@ of mercenary security forces but there is little they can
 do about it. Many are taking their seekers elsewhere to
 avoid getting caught in the crossfire but dreams of hitting
 a big beltstrike have kept the indie community alive in
-Unnagilu’s belt.
+Unnagilu's belt.
 
 ameros
 
 The scout base on Unnagilu includes one of the
-service’s primary zero-G training facilities. The scouts
+service's primary zero-G training facilities. The scouts
 have sectioned off a region of the belt for the purpose
 of training its members in the finer points of vacc suit
 and zero-G operations. While its official designation
 is IISS Base 096G-1117, the scouts affectionately
-refer to it as ‘Camp Space Jockey’. The majority
+refer to it as 'Camp Space Jockey'. The majority
 of scouts present for training are from the
 Exploration and Survey branches with a
 minority from the Communications branch.
@@ -11788,9 +11788,9 @@ been tapped of their most valuable metals
 and minerals, which prevents them from being
 contested by the megacorporations or indies.
 The scouts also have a base on Ordri, one of
-the moons of the system’s innermost gas giant.
+the moons of the system's innermost gas giant.
 
-Despite Unnagilu’s problems, centuries of
+Despite Unnagilu's problems, centuries of
 settlement have created a thriving civilization
 in the belt. Hundreds of hollowed out asteroids
 are now home to populations of belters,
@@ -11821,7 +11821,7 @@ The rig includes a set of waldos for sample collection
 and several sealed storage containers to store them
 in. Its advanced life-support gear is designed to make
 operating in the suit very comfortable. The suit closely
-monitors the occupant’s vital signs and has internal
+monitors the occupant's vital signs and has internal
 injectors to provide first aid, anti-rad medicine and
 stimulants for long EVAs.
 
@@ -11840,7 +11840,7 @@ the nexus of four major Imperial sectors, it has the
 potential to become a shining pearl of the realm but
 things simply have not played out that way thus far.
 
-Shinkan was the site of many Vilani ‘reserve worlds’,
+Shinkan was the site of many Vilani 'reserve worlds',
 planets that – thousands of years ago – were marked
 for future development. Few of them were even
 given a proper name other than an alphanumeric
@@ -11864,7 +11864,7 @@ constantly struggling with their own internal political
 problems and generally regarded as a nuisance by
 their neighbors. Ninua is jokingly referred to as
 the anshikaam naimiiu saarpuhii , loosely translated
-as ‘the world which looks away’. Indeed it does but
+as 'the world which looks away'. Indeed it does but
 Ninua just might find that while its attentions are
 diverted inward, the remainder of its worlds have
 moved on without it.
@@ -11878,7 +11878,7 @@ Main are signs of its burgeoning economy. Ishnuunar,
 
 despite appearances, channels more wealth into
 the Core than any other world in the subsector.
-Ishnuunar’s kleptocratic government, collapsing
+Ishnuunar's kleptocratic government, collapsing
 infrastructure and disastrous Tech Level seem to be
 signs of a world in freefall but in fact opportunities
 abound there. The powerful and exorbitantly wealth
@@ -11890,7 +11890,7 @@ other star systems. The fastidious landed gentry of
 Gekhuu and Derku have done what they can to stave
 off guild infiltration but have not proven to be up to the
 task thus far. The three worlds – which have become
-known as ‘the Triad` – have begun to fight proxy wars
+known as 'the Triad` – have begun to fight proxy wars
 on the hapless smaller worlds of the subsector. Most
 believe that it is only a matter of time before these
 conflicts spread to the Triad worlds themselves.
@@ -11906,10 +11906,10 @@ Triad of sabotage. The powerful trade line has been
 lobbying the Imperial bureaucracy for assistance but
 so far they have received little help. It seems that the
 Imperium does not want to rock the boat in Shinkan,
-whether or not the subsector’s successes have been
+whether or not the subsector's successes have been
 achieved by questionable means.
 
-The bulk of the Imperial Navy’s 76th fleet is
+The bulk of the Imperial Navy's 76th fleet is
 headquartered at Sekwon with squadrons stationed
 throughout the subsector. The Naval Base on Iidsha
 includes a training facility and operational center
@@ -12408,7 +12408,7 @@ TRAVELLER
 In most sectors, the Ekilati Onati are an afterthought,
 low-level thugs who extort protection money from
 the bottom-feeding Irilitok castes but in Shinkan –
-where they are referred to simply as ‘the Antareans’
+where they are referred to simply as 'the Antareans'
 
 * they are a force to be reckoned with in the criminal
 underworld. The Triad War between the guilds of
@@ -12425,7 +12425,7 @@ respond with violent retribution. They often employ
 humans as enforcers and assassins to prevent law-
 enforcement officers from easily implicating them.
 Their signature act of retribution is to perform a
-‘defanging’ before offing someone. The bodies of their
+'defanging' before offing someone. The bodies of their
 victims are found with their incisors and often their
 claws – or fingernails if they are human – removed.
 Mid-level gangsters sometimes wear collected teeth
@@ -12440,7 +12440,7 @@ luminosity and the planet for the prospects of its
 citizens. Dim is a cold, mostly barren world, far
 outside the habitable zone of the system, its star a
 distant speck that provides little in the way of light
-or heat. The system’s largest gas giant, Oaf, is at
+or heat. The system's largest gas giant, Oaf, is at
 the tipping point of becoming a brown dwarf and
 approaches the size of Dim, the star. Oaf and Dim
 orbit a close common barycentre, the two cosmic
@@ -12463,7 +12463,7 @@ have some intrinsic value. It is located on the
 extensive Lishun Main, which wends its way from
 Ameros into Shinkan and continues two subsectors
 into Fornast sector before it finally terminates. Traffic
-on the main is high and Dim’s modest starport is
+on the main is high and Dim's modest starport is
 designed to facilitate trade as best it can. The central
 pod of its highport is a busy thoroughfare where
 freight and speculative cargo flows from ship-to-
@@ -12473,13 +12473,13 @@ pods and other materials between wheeling and
 dealing merchants. Visitors learn to watch their step
 lest they be run down in its narrow streets.
 
-Free-market shenanigans aside, Dim’s top commodity
+Free-market shenanigans aside, Dim's top commodity
 is information. Dim is an entry point into the Core and
 as such serves as a launchpad into the markets of
 the sector. Some may dismiss borders as ultimately
 just imaginary lines but most tramp traders are quick
 to point out that there is something different about
-the Core’s worlds. They have a unique culture and
+the Core's worlds. They have a unique culture and
 way of doing business. Newcomers to the sector or
 Travellers who have returned after being away in
 Fornast or Antares for a while come to Dim to get the
@@ -12489,7 +12489,7 @@ taverns, speakeasies and dive bars are crowded with
 Travellers who trade information on any number
 of topics.
 
-The surface of Dim is barely populated. The world’s
+The surface of Dim is barely populated. The world's
 metal and mineral reserves are poor although there
 are a few small operations that scratch out a living
 mining copper, aluminium and tungsten. Its main
@@ -12546,7 +12546,7 @@ shadow government, some of whom were exiled
 members of the monarchy. This was toppled as well
 and the Maeghenians, despite repeated attempts,
 proved unable to build a lasting government. After
-several failed experiments with self-rule, the People’s
+several failed experiments with self-rule, the People's
 Army took control of the planet and established a
 modicum of stability. While military rule is considered
 
@@ -12578,7 +12578,7 @@ manufacturing center and refined fuel. The base is not
 accessible to the public but detached duty scouts may
 use it upon request.
 
-The scouts’ reason for being on Maeghen is to study its
+The scouts' reason for being on Maeghen is to study its
 unusual native plant and animal life. Based on the fossil
 record, over 75 percent of the species on the planet
 have been present for over a billion years without a
@@ -12592,7 +12592,7 @@ are inconclusive but they have noticed several curious
 gaps in the taxonomy of the planet, which might be a
 contributing factor.
 
-The molecular structure of Maeghen’s native plant
+The molecular structure of Maeghen's native plant
 life makes it indigestible for humans. Over thousands
 of years of habitation, the Vilani genetically altered
 select species to make them nutritious for humans.
@@ -12619,7 +12619,7 @@ key components in the construction of jump drives.
 The initial plan was for a conglomerate of local
 companies to ship the materials offworld on mid-
 to long-range freighters, to be used in shipyards
-located elsewhere. Much to everyone’s surprise, the
+located elsewhere. Much to everyone's surprise, the
 megacorporation GSbAG orchestrated a hostile takeover
 
 of the publicly listed companies in the conglomerate and
@@ -12636,9 +12636,9 @@ the locals even after GSbAG promised to employ them
 at its newly built shipyard. GSbAG made assurances
 that it had no designs on corporate control of the system,
 just its industries. However, the megacorporation
-seems to be quite cosy with Minos’ civilian dictator
-who gives in to GSbAG’s every demand. In spite of the
-apparent conflict of interest, Minos’ shipyards are highly
+seems to be quite cosy with Minos' civilian dictator
+who gives in to GSbAG's every demand. In spite of the
+apparent conflict of interest, Minos' shipyards are highly
 productive, producing starships for the Imperial Navy
 and several planetary navies. They also manufacture
 starships of civilian design but only at premium prices.
@@ -12652,7 +12652,7 @@ takeover. Minos was a Quarantine World until late in
 the Sylean Pacification Campaign and surrendered
 to Imperial authority only after being threatened with
 orbital bombardment. Time and the hostile acquisition
-of their system’s resources has not imbued them with
+of their system's resources has not imbued them with
 any degree of humility whatsoever. By and large,
 Minosians see themselves as bold wildcatters, making
 their way on a frontier system when in fact, they are
@@ -12662,7 +12662,7 @@ Man fell long ago and that they are citizens of the Third
 Imperium, not the Second.
 
 Rumor has it that Minos is what one might call a
-‘double Amber Zone’. While the Imperial Navy is
+'double Amber Zone'. While the Imperial Navy is
 allegedly present to ensure the loyalty of the Minosians
 and to guarantee safe transit across the Shinkan Gap,
 they seem to be preoccupied with something else
@@ -12687,7 +12687,7 @@ Prime Worlds – the high-population cluster of worlds
 centred around the Sanches system itself – are
 primarily focused on serving the Core. Its two industrial
 worlds, Alekvadin and Dudin, manufacture many of
-the sector’s consumer electronics and entertainment
+the sector's consumer electronics and entertainment
 devices. Sanches brings in a great deal of wealth from
 the sales of its products to the other worlds of the
 Core and exports to other sectors. The business of the
@@ -12720,17 +12720,17 @@ remainder of world names in the subsector intact.
 The subsector economy is bolstered by two small
 jump-1 mains: the Sanches Cluster to spinward and
 the Quadrant I Main, which dips into Apge, Perite
-and Mekee. Sanches’ high-population worlds have
+and Mekee. Sanches' high-population worlds have
 economies that far outstrip those of its neighbors
 and Sanchesian traders rarely pass up the chance
-to remind them of this. Sanches’ well-to-do worlds
+to remind them of this. Sanches' well-to-do worlds
 sees themselves as powerful engines of prosperity for
 which their neighbors should be thankful. Sanchesian
 arrogance is mostly tolerated as long as the Credits
 keep flowing into their coffers.
 
 The Sanches subsector is defended by the Imperial
-Navy’s 200th Fleet with headquarters at the Sanches
+Navy's 200th Fleet with headquarters at the Sanches
 Navy Base. The navy has a large presence in the
 subsector and regularly harbours squadrons in the Gir,
 Khid and Neki systems in order to quell problems on
@@ -13171,7 +13171,7 @@ TRAVELLER
 
 Arla Un
 Arla Un orbits a bright blue-white subgiant star called
-Kir Aikhalingas. The Arla Un ‘day’ is 263.8 standard
+Kir Aikhalingas. The Arla Un 'day' is 263.8 standard
 days long. The bright side of the planet heats up to a
 white-hot 365o Celsius and its dark side can drop to as
 low as 125o below zero. Arla Un appears to have been
@@ -13188,7 +13188,7 @@ lava plains with each passing year.
 
 Arla Un posed a technical challenge to the conservative
 Vilani that they chose to pass up. It was deemed better
-to go after the ‘low-hanging fruit’ than to brave the
+to go after the 'low-hanging fruit' than to brave the
 dangers of a half-molten planet. The system was left
 uninhabited until the Rule of Man and even then, only
 survey outposts were established on the world. Only
@@ -13197,7 +13197,7 @@ appear on Arla Un. There are three types of inhabited
 structures on the planet: subterranean, surface and
 gravitic. Underground cities have been emplaced in
 relatively stable pockets, far away from volcanism
-and underground acid oceans. Its surface ‘cities’ are
+and underground acid oceans. Its surface 'cities' are
 actually wheeled or tracked platforms that slowly rove
 around the planet, while the gravitic habitations float
 close to its surface to avoid direct exposure to the
@@ -13219,7 +13219,7 @@ massive linked caravan of tracked platforms, which
 provides housing for over 200,000 people.
 
 The highport is an industrial facility, mostly concerned
-with shipping Arla Un’s metals and minerals off planet
+with shipping Arla Un's metals and minerals off planet
 and importing the many goods and services that its
 citizens need. There is a residential and hospitality
 district but for the most part, the highport is quite
@@ -13227,7 +13227,7 @@ utilitarian. The majority of permanent residences are on
 (or just above) the planet itself. The world is governed
 by the Arla Un Mining Consortium, a federal union
 of representatives from its mobile and subterranean
-cities, which manages the exploitation of the planet’s
+cities, which manages the exploitation of the planet's
 natural resources and acts as a mediator with large,
 off-world mining concerns. Megacorporate and sector-
 wide corporate mining and resource-extraction firms
@@ -13246,12 +13246,12 @@ As much as they might try to avoid it, there are times
 when a mission to the bright side of Arla Un is necessary.
 The bright-side crawler is just the vehicle for the job. The
 crawler is designed to withstand the intense heat of Arla
-Un’s beaming blue-white subgiant star and can transport
+Un's beaming blue-white subgiant star and can transport
 a crew of six (one driver and five passengers) across the
-bright face in safety. Arla Un’s mercurial landscape requires
+bright face in safety. Arla Un's mercurial landscape requires
 caution, so the crawler is outfitted with top-notch sensory
 and navigation systems. Its satellite uplink provides
-constant and secure communications with the world’s
+constant and secure communications with the world's
 roving cities and starports.
 
 TL 11
@@ -13305,9 +13305,9 @@ Makhidkarun, the Vilani megacorporation that once
 ruled this region of space during the reign of the era
 of the Ziru Sirka. While the influence of Makhidkarun
 is obvious to those familiar with the company, the
-origins of Dudin’s rather unique application of its
+origins of Dudin's rather unique application of its
 culture and techniques has been lost in the annals
-of time. Dudin’s current modus operandi has been
+of time. Dudin's current modus operandi has been
 practiced since the dark ages of the Long Night.
 
 Dudin strictly manages its population to ensure
@@ -13348,8 +13348,8 @@ While most live solitary lives, there are also families
 on Dudin, married couples who have children just
 like anywhere else in Imperial space; however, once
 born, children are subjected to a litany of genetic
-engineering procedures to ensure they ‘meet the
-standards’ of the Executive Bureaux. More often
+engineering procedures to ensure they 'meet the
+standards' of the Executive Bureaux. More often
 than not, they do; after all, the vast majority of them
 were born to Dudinian parents and ancestors who
 were genetically treated themselves. The Executive
@@ -13381,17 +13381,17 @@ and Sanches is tidally locked to Eniiluim. However,
 Sanches orbits the gas giant once every 48.3 hours,
 giving it with a reasonably standard day-to-night cycle
 when light from Khaslar is not obscured by Eniiluim
-itself. Sanches’ proximity to Eniiluim and its other
+itself. Sanches' proximity to Eniiluim and its other
 Sanches
 
 moons give the world complex tidal effects. Sanches
 is a cold world but not terribly so, except when in the
 shadow of Eniiluim. Its inhabitants can spend time
-outdoors with only a light covering during its ‘summer’,
-which occurs every few weeks because of Eniiluim’s
+outdoors with only a light covering during its 'summer',
+which occurs every few weeks because of Eniiluim's
 rapid orbit around Khaslar. Sanches is the beneficiary
 of extensive terraforming that occurred during the
-brief reign of the Rule of Man. The world’s atmosphere
+brief reign of the Rule of Man. The world's atmosphere
 was thickened and its hydrosphere enhanced by
 bombarding it with icy planetoids and cometary bodies
 in what were then desolate regions of the planet.
@@ -13411,7 +13411,7 @@ robotic assistance, expert programs, high-speed
 transportation and other technological aids are
 not always capable of making. For this reason,
 the ruling corporations have AI designates who
-take interim control on their biological designate’s
+take interim control on their biological designate's
 behalf. The period of interim control can be as little
 as a few seconds to several days, depending on
 the circumstances. The bottom rungs of the board
@@ -13423,7 +13423,7 @@ lose it to the next designate. Others have jockeyed
 themselves into positions for months, sometimes
 even years, to have the opportunity to obtain a board
 position. It is sometimes considered to be a strategic
-move to allow one’s AI to occupy the position for a
+move to allow one's AI to occupy the position for a
 number of days or weeks in order to befuddle the
 competition. The top 11 board positions have been
 held by the same corporations for over a decade,
@@ -13466,7 +13466,7 @@ term position on the board.
 
 The Imperial Navy and Scout Service both have
 bases in the system. Each service has administrative
-and recruiting offices on Sanches’ highport and
+and recruiting offices on Sanches' highport and
 downport but also have more extravagant bases on
 other satellites of Eniiluim. The main scout base is
 on the virtually airless rockball moon, Daashadkiu, a
@@ -13482,8 +13482,8 @@ Sanches
 
 Mekee is a sparsely populated subsector marked by
 two stellar chasms and no fewer than eight small stellar
-clusters, each of which is referred to as a ‘county’
-by the vacant office of the subsector duke. Mekee’s
+clusters, each of which is referred to as a 'county'
+by the vacant office of the subsector duke. Mekee's
 previous duke was killed in a duel with a high-ranking
 member of the peerage from Fornast. Duelling is
 frowned upon in the Core but reversion to the barbaric
@@ -13500,14 +13500,14 @@ was concerned.
 
 The subsector is now managed by the eight nobles
 who represent each of the counties. In truth, most
-of Mekee’s clusters are far too small to warrant the
+of Mekee's clusters are far too small to warrant the
 assignment of a count so several are barons and
-knights. By Imperial law the duke’s heir should have
+knights. By Imperial law the duke's heir should have
 succeeded him as subsector duke but the ducal family
 had been besmirched by scandal and the Emperor
 temporarily suspended their patent. The leading nobles
 of each county come to Ushra once every 100 days
-in order to manage the subsector’s affairs. It is rare
+in order to manage the subsector's affairs. It is rare
 that all eight can make it to the meeting every time,
 so the rules have recently been adjusted so that a
 quorum is declared if six are present, although there is
@@ -13519,7 +13519,7 @@ rules and the peers of the realm have obligations.
 
 The most significant system in the subsector by far is
 Depot, which provides personnel, training, berthing and
-maintenance services for the Core Sector Fleet. The
+maintenance services for the [[Core sector]]  Fleet. The
 world of Depot Prime – or Uugnii, as the Vilani called
 it – is theorized to have been terraformed but never
 settled by the Ancients. Perhaps even more fascinating
@@ -13553,7 +13553,7 @@ goods that they need.
 The Imperial Navy 3rd Fleet, headquartered at
 Muskoxah, has only three squadrons but a large
 number of auxiliary ships, mostly fleet couriers used
-to carry news rapidly to Capital from the spinward
+to carry news rapidly to [[Capital]] from the spinward
 subsectors of the Core and beyond. Two of the
 squadrons are typical BatRons, which patrol the
 subsector when not otherwise engaged and one
@@ -13608,7 +13608,7 @@ be involved. A great deal of their technology was so
 advanced and was developed by a culture so different
 than that of Humaniti that the assumption is natural.
 However, there is no hard evidence that the Ancients
-had anything to do with the world’s gravitic anomalies.
+had anything to do with the world's gravitic anomalies.
 No actual Ancients sites have been discovered on
 Coppelia and none of the other tell-tale signs of their
 passing are present.
@@ -13867,7 +13867,7 @@ rediscovering the world, the Imperium relocated the
 survivors so they could claim it for their own and make
 it into the first Depot of the Imperial Navy.
 
-Depot system is the headquarters of the Core Sector
+Depot system is the headquarters of the [[Core sector]] 
 Fleet. Most Sector Fleet assets are deployed elsewhere
 but a number of its battleships and dreadnoughts are
 always present in the system, even in peacetime. It is
@@ -13897,10 +13897,10 @@ Assignment to an Adversary Squadron is highly
 desired by members of the officer corps. Some
 of the most battle-ready officers of the line
 learned their craft by having served aboard the
-‘enemy ships’ of an Adversary Squadron.
+'enemy ships' of an Adversary Squadron.
 •  Mothball Fleet – The last stop for many of the
-navy’s starships is the Depot Mothball Fleet.
-Ships are brought to one of Depot’s maintenance
+navy's starships is the Depot Mothball Fleet.
+Ships are brought to one of Depot's maintenance
 hangars for a thorough inspection, given
 preservative treatment and then designated
 for one of the following: refit and reassignment
@@ -13925,7 +13925,7 @@ boats, jump-capable early-warning squadrons,
 decommissioned battle riders that function
 essentially as large SDBs and armored
 planetoid monitors. The latter are composed of
-planetoids drawn from Depot’s two belts and
+planetoids drawn from Depot's two belts and
 include some absolutely massive specimens.
 Depot-PM1A is a 1.5-million ton buffered
 planetoid, equipped with a top-of-the-line
@@ -13942,7 +13942,7 @@ stations are reserved for training purposes and contain
 simulators, vacc suit and EVA training grounds and
 zero-G firing ranges.
 
-The navy’s primary administration, personnel and
+The navy's primary administration, personnel and
 training facilities are on the surface of Depot Prime.
 While the world has no land masses to speak of, it does
 have many sea mounts that approach the surface of its
@@ -13963,7 +13963,7 @@ Life at Depot Prime can be a pleasant experience
 during peacetime. While there is always work to be
 done, shore duty is also a time to take a break from
 long tours aboard a naval starship. Living in one of the
-world’s many residential districts or artificial islands,
+world's many residential districts or artificial islands,
 one might even forget they were in the navy if not for
 
 the uniforms, flyovers and the blinking lights of the
@@ -13986,7 +13986,7 @@ contested battlegrounds.
 Sher
 The Sher system was virtually uninhabited until the
 early years of the Third Imperium when it became
-host to the Core’s largest prison system. There are
+host to the Core's largest prison system. There are
 several facilities, each designed to house criminals of
 various stripes, from organised crime bosses to mass
 murderers. The prisons are reserved only for those
@@ -14002,10 +14002,10 @@ oxygen in the lungs, causing asphyxiation. As if the
 environment alone were not sufficient to prevent
 escape attempts, the prisons use high-technology
 surveillance and access systems to monitor and limit
-each prisoner’s every move.
+each prisoner's every move.
 
 The civilian population of the planet are housed in
-cities on the planet’s mountains and plateaus, where
+cities on the planet's mountains and plateaus, where
 the atmosphere is a breathable oxygen-nitrogen mix.
 Workers take the high-speed maglev train to work in
 the dismal prison facilities below. There is no naval
@@ -14022,7 +14022,7 @@ Core is home to Capital, the world where the Emperor
 of the Third Imperium sits upon the Iridium Throne.
 Because of their proximity to Capital, the worlds of the
 Core subsector are scrutinised closely and modifications
-are made when it is deemed that the safety of Capital is at
+are made when it is deemed that the safety of [[Capital]] is at
 stake. Some of these alterations are subtle and some are
 blunt. Unrequested surveillance software might be added
 to a starport security system or the Imperial Guard might
@@ -14042,7 +14042,7 @@ all the stops to defend the Emperor.
 
 Most of the worlds of the Core subsector understand their
 unique place in the Imperium and tolerate a more intrusive
-government presence. Capital does what it can to remind
+government presence. [[Capital]] does what it can to remind
 them how unique and important they are. The fact that
 there are a number of Sylean worlds goes a long way to
 ensure a cooperative environment. The Syleans were
@@ -14055,38 +14055,38 @@ Core contains 11 of the 25 worlds that form the Sylean
 Worlds cultural zone. These worlds were settled by
 pureblood Syleans and people of mixed Sylean blood
 after the formation of the Third Imperium and were
-casually referred to as ‘the Sylean Worlds’ long before
+casually referred to as 'the Sylean Worlds' long before
 they acquired the official designation. During the Civil
 War, the Moot refused to endorse many of the pretenders
 who laid claim to the throne. Naval battles were fought
-in Capital and other nearby star systems. The Sylean
-Worlds called upon the Imperial Navy’s 1st and 4th Fleets
-to protect Capital and the heart of the Imperium. The Moot
+in [[Capital]] and other nearby star systems. The Sylean
+Worlds called upon the Imperial Navy's 1st and 4th Fleets
+to protect [[Capital]] and the heart of the Imperium. The Moot
 waited for a proper candidate to appear and, for a time,
 the Sylean worlds became an autonomous region. To
 a degree, this event inoculated the rest of the Imperium
 from the chaos of the Civil War. The move localised the
 conflict and enabled the remainder of the Imperium to
 
-carry on, unaffected by events on Capital. The region was
+carry on, unaffected by events on [[Capital]]. The region was
 later converted into an official cultural zone to harbour
 and preserve Sylean culture and serve as a reminder that
 when things get tough, the Imperium closes ranks and
 safeguards its capital.
 
 The subsector has two reserve worlds, Lectorsen and
-Crompton. Lectorsen’s unique twilight-band jungles
+Crompton. Lectorsen's unique twilight-band jungles
 caught the interest of Emperor Martin II, an avid naturalist
 who made it an Imperial protectorate and emplaced a
 soft interdiction to strictly control access to the planet.
-The world’s extensive staff of administrative and wildlife
+The world's extensive staff of administrative and wildlife
 maintenance professionals carefully cultivate the planet
 to preserve its pristine state. With a far smaller staff,
 Crompton has been reserved as a playground for the
 Imperial family and other high-ranking nobles who come
-for rest and recreation. Crompton’s hardy ecosphere is
+for rest and recreation. Crompton's hardy ecosphere is
 stocked with game from throughout the Imperium. Its staff
-conducts, extensive safaris for the world’s guests, during
+conducts, extensive safaris for the world's guests, during
 which they may hunt or simply observe its animals.
 
 There is a cultural rift between the Sylean Worlds and
@@ -14103,7 +14103,7 @@ Wayward Worlds became increasingly isolated and were
 ultimately forced to accept Imperial membership. It is
 said that time heals all wounds and such is the case with
 the Wayward Worlds. The descendants of the traitorous
-powers who rejected Cleon’s advances no longer pay for
+powers who rejected Cleon's advances no longer pay for
 the sins of their ancestors; however, the schism did result
 in a distinct, non-Sylean culture that is still evident among
 these worlds to this day.
@@ -14123,7 +14123,7 @@ TRAVELLER
 sectors like Massilia or Ilelish. Savvy traders contend that
 any shortcomings the Sylean Main may have are more
 than made up for by the sheer quantity of development
-opportunities present. While Capital has always sought
+opportunities present. While [[Capital]] has always sought
 to avoid becoming directly involved in the affairs of its
 worlds, it has been somewhat of an embarrassment that
 the trade main upon which it sits is so utterly provincial
@@ -14131,11 +14131,11 @@ and underdeveloped. There are those among the nobility
 and megacorporate community who seek to change that.
 
 The Core subsector is defended by the hallowed 1st Fleet,
-which is headquartered on Capital itself with squadrons
+which is headquartered on [[Capital]] itself with squadrons
 spread throughout the subsector. The fleet consists
 of eight full squadrons including five BatRons, two
 AssaultRons and a TankRon to assist with deployments
-and training exercises. The Core’s Subsector Fleet is
+and training exercises. The Core's Subsector Fleet is
 supported by large elements of the Sector Fleet, which
 are rotated into service in the subsector regularly. In
 addition to its many bases, there is the Imperial Marine
@@ -14147,7 +14147,7 @@ other facilities are present, which hint at the challenging
 environment that lies before trainees.
 
 The Wayward Worlds
-At the dawn of the Third Imperium, Cleon Zhunastu’s
+At the dawn of the Third Imperium, Cleon Zhunastu's
 appeal to the worlds of the Sylean Federation were
 not accepted by all. Thirteen worlds initially rejected
 membership in the new Imperium. Cleon managed to
@@ -14158,7 +14158,7 @@ systems of the new empire outright. The founding worlds
 were Kiiri (now Nesdo), Lauursha (Shudusham), Khash
 (Rhylea), Laairer (Rib), Idmum (Ercan), Gikuu (Codsen),
 Kuunen Ish (Yirsh Poy) and of course Sylea itself,
-which became Capital. The Syleans had deep cultural
+which became [[Capital]]. The Syleans had deep cultural
 resentment of the Vilani after a millennium of oppression
 and were quick to shed the Vilani names of most of their
 worlds. Only Shudusham, which had already changed
@@ -14214,7 +14214,7 @@ Planet (water present)
 Kaskii
 Wayward Worlds
 Asteroids (no atmoshpere/water)
-N’DAO
+N'DAO
 SISTAR
 KISHKEIIM
 LEER
@@ -14283,7 +14283,7 @@ Balpan 1819 N S B505345-A Ic Lo Va
 
 Capion 2413 B651864-7 Po G
 
-Capital 2118 N W A586A98-F Hi Ht G
+[[Capital]] 2118 N W A586A98-F Hi Ht G
 
 Codsen 2317 E571568-5 Lt Ni
 
@@ -14309,7 +14309,7 @@ Lectorsen 1813 D554765-6 Ag A
 
 Morii 2014 B62A644-A Ni G
 
-N’dao 1711 S D1007B8-9 Na Va G
+N'dao 1711 S D1007B8-9 Na Va G
 
 Nesdo 2213 B541231-7 Lo Po G
 
@@ -14556,7 +14556,7 @@ XALM
 
 UMGADIN
 
-N’DAO
+N'DAO
 
 CURAST
 
@@ -14797,12 +14797,12 @@ C200342-B
 ###### CORE subsector
 
 Ankod
-Reverently referred to as the ‘Gateway to Capital’,
+Reverently referred to as the 'Gateway to Capital',
 Ankod is a key stop on the route into the subsector
 from Vland and Lishun. The Imperial Navy base
 at Ankod has a partnership with universities on
 neighboring Knabbib to develop security technology
-that provides a protective cordon for Capital and
+that provides a protective cordon for [[Capital]] and
 the subsector at large. Naval astronomers and
 technologists come to Ankod to work on the ultra-
 secret Project Shortbow at its secure training and
@@ -14827,22 +14827,22 @@ trade that it brings to the system, which is near the
 terminus of the Sylean Main.
 
 Capital
-Capital is the seat of government of the Third Imperium
+[[Capital]] is the seat of government of the Third Imperium
 and home to both the Emperor – who resides at the
 Grand Palace of Arbellatra – and members of the
 peerage, who assemble at the Moot Spire.
 
-Capital is a pleasant world with a varied climate,
+[[Capital]] is a pleasant world with a varied climate,
 oceans that cover almost two thirds of its surface
 and a dense atmosphere of a suitable oxygen-
-nitrogen mix. The residents of Capital have gotten
+nitrogen mix. The residents of [[Capital]] have gotten
 used to the density of its air over time but the
 atmospheric pressure at high levels of elevation
 are more comfortable for un-adapted humans. The
 world has five continents and many large islands and
 archipelagos. Its system primary is Zan Ki Ond, a
 type-G2 main sequence star, nearly identical to that
-of Terra in size and luminosity. However, Capital’s
+of Terra in size and luminosity. However, [[Capital]]'s
 slightly closer proximity to the star has made the
 world marginally hotter, giving it a large temperate
 zone with immense rainforests and river valleys. Its
@@ -14853,37 +14853,37 @@ some extreme weather effects including strong inland
 storms and hurricanes along the coasts. Technology
 is used to mitigate meteorological effects to ensure
 a pleasant and fruitful stay for visitors to the world.
-Capital has two small moons, neither of which are
+[[Capital]] has two small moons, neither of which are
 near enough to create significant tidal forces. Despite
-its middling size, Capital has higher-than-expected
+its middling size, [[Capital]] has higher-than-expected
 gravity at 0.69G due to its thin mantle and larger-than-
 normal nickel-iron core.
 
-The world’s 20 billion inhabitants are well-distributed
+The world's 20 billion inhabitants are well-distributed
 among its land masses and oceans, with residential
 arcologies located mostly in the coastal regions, but
 several cities are in its mountain ranges and oceans
-as well. Cleon’s residential zones are home to 450
+as well. Cleon's residential zones are home to 450
 million people, which does not take into account the
 millions of visiting dignitaries, diplomats, business
 people and tourists who are present at any given time.
 Travellers may be surprised to discover that Intell is
-actually Capital’s largest city with a total population of
+actually [[Capital]]'s largest city with a total population of
 562 million citizens living within its urban sprawl. The
-city of Intell is where Capital’s primary administrative
+city of Intell is where [[Capital]]'s primary administrative
 centres and light industry are located. It is often said
-that while the heart of Capital is Cleon, its mind is
-at Intell. Despite the fact that Capital has 20 billion
+that while the heart of [[Capital]] is Cleon, its mind is
+at Intell. Despite the fact that [[Capital]] has 20 billion
 sophonts living on its surface and orbital habitats,
 judicious use has been made of its available land.
 Large expanses of territory have been restored to their
 original states, including millions of hectares of jungle,
 open plains and mountains. Most of these regions
 have been inhabited at one point or another during
-Capital’s long history but have been painstakingly
+[[Capital]]'s long history but have been painstakingly
 returned to their original condition.
 
-Capital was once known as Sylea and has been
+[[Capital]] was once known as Sylea and has been
 inhabited by humans for hundreds of thousands of
 years. The Syleans, a human Minor Race, were seeded
 on the world by the Ancients. After thousands of years
@@ -14898,12 +14898,12 @@ who claim Sylean heritage, many of whom proudly
 participate in cultural events, traditions and religious
 rituals that were practiced by their ancestors.
 
-Capital is well defended with three full BatRons
+[[Capital]] is well defended with three full BatRons
 present in the system at all times. The planet is also
 defended by squadrons of smaller system-defence
 spacecraft, dozens of orbital batteries of lasers and
 missiles, particle weapons, ground-based aerial
-defences and deep-site meson guns. Capital makes
+defences and deep-site meson guns. [[Capital]] makes
 more of an effort than most worlds to conceal its
 
 Core
@@ -14916,22 +14916,22 @@ defences. While the Imperium wants its capital to be
 safe, it does not want to project the image that it is a
 militarised bunker anticipating attack.
 
-The most popular destinations on Capital are in
+The most popular destinations on [[Capital]] are in
 Cleon, where tourists go to see its many museums,
 shopping districts, the Grand Plaza of Heroes and
 the palace grounds where they can see the lofty Moot
-Spire, Cleon’s Tomb, the Crescent Lake (where the
+Spire, Cleon's Tomb, the Crescent Lake (where the
 second Imperial Palace crash landed during the Civil
 War) and of course the Grand Palace of Arbellatra
-itself and its attending structures: Paulo’s Annex,
-Tomutov’s Palace and the Trinary Consortium. Visitors
+itself and its attending structures: Paulo's Annex,
+Tomutov's Palace and the Trinary Consortium. Visitors
 of a more academic bent go to the Imperial Archives
 where thousands of original documents and scholarly
 works are on display. There are many more popular
 destinations throughout the world and elsewhere in
 the system. War history aficionados make pilgrimages
 to the gas giant Zhimaway where retired capital ships
-perform re-enactments of Arbellatra’s famous battle
+perform re-enactments of Arbellatra's famous battle
 for control of the planet.
 
 The Grand Palace of Arbellatra
@@ -14941,7 +14941,7 @@ to the magnificence and power of the Imperium. At
 enormity of the palace never ceases to amaze visitors.
 The palace was completed in 633 after four years of
 construction. It is suspended half a kilometer from
-the surface of Capital by a ring of gravitic suspensors
+the surface of [[Capital]] by a ring of gravitic suspensors
 emplaced below the grounds of the Imperial Park. The
 palace itself has backup gravitic drives within its hull
 but should they ever be required, they have limited
@@ -14989,20 +14989,20 @@ The Grand Palace of Arbellatra is attended by several
 smaller floating gravitic structures, including the
 following: the Consortium Trinary, which is a trio of
 small spheres, each of which contains a museum with
-exhibits dedicated to the three Imperiums; Paulo’s
+exhibits dedicated to the three Imperiums; Paulo's
 Annex, a pleasure palace that contains all sorts of
 entertainments and is often used for sporting events;
-and Tomutov’s Palace, which is used to house
+and Tomutov's Palace, which is used to house
 esteemed guests of the Emperor.
 
 Onon
 Onon is an inhospitable world originally settled by
-the Vilani over 5,000 years ago. Among the planet’s
+the Vilani over 5,000 years ago. Among the planet's
 many imposing features are high winds of over 350
 kilometers per hour, acid rain and poisonous gas
 clouds emitted from porous and cracked volcanic
 plains. The final straw for the colony may have come
-when a violent shifting of the world’s tectonic plates
+when a violent shifting of the world's tectonic plates
 massively increased the volcanism. So much volcanic
 effluvium was emitted into the atmosphere that
 Onon was concealed in worldwide dust-cloud cover
@@ -15010,7 +15010,7 @@ for over two centuries. Onon has ample resources
 but ultimately proved to be too challenging an
 environment to sustain a long-term settlement. The
 only colonists who remained were belters who settled
-the system’s two planetoid belts. The belts were never
+the system's two planetoid belts. The belts were never
 especially rich and were eventually tapped of what
 valuable metals they had.
 
@@ -15078,13 +15078,13 @@ team of geological researchers. While not technically
 an Imperial Reserve, the Emperor does use it as a
 solemn refuge from time-to-time in order to get away
 from the stresses of managing an empire. Much of
-the world’s infrastructure has fallen into ruin and is
+the world's infrastructure has fallen into ruin and is
 being reclaimed by native flora and the elements.
 The major Imperial retreat is the central palace and
 surrounding government buildings, poised on a sheer
 cliff overlooking a scum-choked sea; much of the
 surrounding city is also in ruin. An obsidian fortress
-has been built for the Emperor on one of Onon’s mid-
+has been built for the Emperor on one of Onon's mid-
 size mountains, overlooking a wide basalt plain. Its
 stark vistas and noxious black cloud cover make it an
 excellent place for brooding and deep contemplation.
@@ -15098,13 +15098,13 @@ and several hundred types of oceanic algae, coastal
 lichens and low-lying shrubbery, which have been
 catalogued by naturalists who explored the world in
 hostile environment suits. Like most F-type stars,
-Rhylea’s primary simply will not have a long enough
+Rhylea's primary simply will not have a long enough
 lifespan for the world to evolve a broader range of
 flora and fauna.
 
 The world was barren until a few centuries ago when
 Sylean colonists built a cultural and religious refuge
-there. The name of the world means ‘new home’.
+there. The name of the world means 'new home'.
 The colony is governed by a council of priests,
 philosophers and academics and has no law to
 speak of. While the facilities are intended for people
@@ -15132,7 +15132,7 @@ hike. The chlorine in the atmosphere gives it a fumy
 green colour and visibility is limited. The colony has
 begun to keep close tabs on explorers with tracking
 and communications devices after a few expeditions
-were lost in the world’s murky mountain ranges.
+were lost in the world's murky mountain ranges.
 
 Shudusham
 A water world with only a few small land masses,
@@ -15144,7 +15144,7 @@ Shudusham is rich in natural resources but presents
 a challenging environment that requires reasonably
 high technology to survive. When the flow of
 interstellar trade abruptly came to a halt, many of the
-world’s thousands of undersea arcologies floundered
+world's thousands of undersea arcologies floundered
 and died. Small groups of cities and in many cases
 individual arcologies became isolated city states.
 Radio contact was retained and used by oceangoing
@@ -15174,7 +15174,7 @@ For over 700 years, Shudusham has been the site
 of the famous Shudusham Robotics Conference.
 Held once every 10 years, this year-long conference
 attracts academics and technologists from
-throughout the Core sector and beyond. New
+throughout the [[Core sector]]  and beyond. New
 discoveries, product demonstrations and thousands
 of panels are held during the year-long event.
 Shudusham was selected to host the event due to
@@ -15195,10 +15195,10 @@ environmental damage it was causing. Its industrial
 concerns were producing toxic atmospheric taints,
 which threatened the lives of its inhabitants. In
 addition, careless development projects had done
-a great deal of damage to the world’s surface by
+a great deal of damage to the world's surface by
 speeding up the erosion of delicate coastal land
 masses. Martin could not stomach having such
-a collapse occur right on Capital’s doorstep. He
+a collapse occur right on [[Capital]]'s doorstep. He
 initiated a deindustrialization and emigration program
 that sought to reverse the seemingly inevitable
 disaster and relocate millions of its most endangered
@@ -15262,7 +15262,7 @@ mating privileges and females to crack open hard-
 shelled or skinned prey for their young to eat and to
 ward off males when they are not ovulating. Syrocs
 are graceful and precise flyers and are often seen in
-flocks of two to five, slicing their way through Syroe’s
+flocks of two to five, slicing their way through Syroe's
 canyons. The air above the canyons is too thin to
 support their flight capabilities so they are rarely
 seen on the plateaus. However, they are occasionally
@@ -15305,7 +15305,7 @@ crops. Tiwathans are avid naturalists and enjoy hiking
 into their marshes and forests to watch the wildlife re-
 emerge from its dormant state.
 
-Every few centuries, the flare cycle has a ‘hiccup’ of
+Every few centuries, the flare cycle has a 'hiccup' of
 sorts in which the star breaks its rhythm, producing
 shorter or longer flare-and-growth cycles. This presents
 enormous challenges for the Tiwathans who gauge the
@@ -15324,7 +15324,7 @@ The Kaskii subsector has a low stellar density but
 a surprisingly high population. With only 24 star
 systems – the fewest in all of the Core – it is home to
 the second-highest number of people in the sector,
-second only to Saregon. Of Kaskii’s seven high-
+second only to Saregon. Of Kaskii's seven high-
 population worlds, three are classified as industrial.
 Of these, Kaskii and Khuir are models of efficiency;
 the other, Markasher, is plagued with problems that
@@ -15339,7 +15339,7 @@ this changed as rapidly as it did. The first was the
 betrayal of the Wayward Worlds. When 10 systems
 from the original Sylean Federation refused to join
 the fledgling Third Imperium, the Syleans expanded
-their presence to trailing of Capital. The second
+their presence to trailing of [[Capital]]. The second
 was the desire of the Syleans to build a cultural
 legacy, which they felt they could only do if there
 were significantly more Syleans and more worlds on
@@ -15379,7 +15379,7 @@ boundaries of the cultural region. Within these
 borders, the Syleans are allowed to be Syleans.
 
 There are no navy or scout bases within its borders,
-except on two worlds: Capital and Yirsh Poy, both
+except on two worlds: [[Capital]] and Yirsh Poy, both
 of which are in the Core subsector. The defence of
 the cultural region is left to external star systems
 along its borders. It was not always this way. The
@@ -15429,14 +15429,14 @@ place of peace.
 Because of the demilitarization of the cultural zone,
 Kaskii has few military bases. There is only one
 scout base and three navy bases. The Imperial
-Navy’s 4th Fleet is concentrated on few worlds
+Navy's 4th Fleet is concentrated on few worlds
 but has an active presence in the subsector. Its
 personnel are by regulation over three quarters
 Sylean and each of its ships are given traditional
 
 Sylean names above the banner of Kaskii, a trio of
 three crimson Imperial sunbursts. The sunbursts
-represent ‘The Belt of Cleon,’ a constellation of
+represent 'The Belt of Cleon,' a constellation of
 red giants visible just to coreward, the stars of the
 Uungip, Kuuir Am and Kishkeiim systems.
 
@@ -15801,7 +15801,7 @@ to near-relativistic speeds to impact on Sevan, thereby destroying the world. Wh
 everything they could to maintain the secrecy of their mission, Imperial Naval Intelligence agents
 intercepted them in the Shashuua system and prevented the catastrophic event from happening. The
 Imperium had long feared that terrorists or insurgent organizations might try something like this, perhaps
-with Capital itself as the target. The event resulted in the immediate funding of Project Shortbow, which is
+with [[Capital]] itself as the target. The event resulted in the immediate funding of Project Shortbow, which is
 intended to prevent an attack like this from happening.
 
 Because of the threat to security that the Chasmata present, these deep-space regions and others like
@@ -15820,7 +15820,7 @@ a major catastrophe from taking place. Meanwhile, the Imperial Navy has catalogu
 space objects within the Chasmata, the locations of which are classified.
 
 Indshiim Ganme
-When looking at the Core sector, one of its notable
+When looking at the [[Core sector]] , one of its notable
 features is a complete lack of Red Zone worlds. A
 Red Zone designation indicates that a world or even
 entire star system has been interdicted for some
@@ -15859,7 +15859,7 @@ Kaskii
 TRAVELLER
 
 suitable to support life but the added stellar energy
-exacerbates the world’s meteorological conditions,
+exacerbates the world's meteorological conditions,
 making it difficult for land-based life to exist.
 
 This extreme environment was enough to deter
@@ -16014,7 +16014,7 @@ FRONT 4 REAR 4 SIDES 4
 
 Khiinra Ash
 Khiinra Ash is a moon of a circumbinary gas giant called
-Khamikurde Anku, which orbits the system’s pair of red
+Khamikurde Anku, which orbits the system's pair of red
 dwarf stars. The two stars have similar mass and they orbit
 one another closely. The larger of the two accretes a small
 amount of mass from the smaller, making them what is
@@ -16037,12 +16037,12 @@ Not surprisingly, this is also where its complex land-based
 life resides. Khiinra Ash is an unlikely candidate to harbour
 life and yet it has a teeming biosphere.
 
-At the apex of the world’s life forms are the
-Bhu’oovaakaylaa, an immense species that defies strict
+At the apex of the world's life forms are the
+Bhu'oovaakaylaa, an immense species that defies strict
 definition. The species has two sexes, each of which weigh
 about four tons with females slightly larger than males.
 They bear live young, usually in litters of two or three,
-which are immediately mobile upon birth. Bhu’oovaakaylaa
+which are immediately mobile upon birth. Bhu'oovaakaylaa
 have a thick, elongated body with rear flippers for
 swimming, an armored carapace on their dorsal surface
 like that of a crustacean, two dextrous appendages that
@@ -16052,24 +16052,24 @@ wrap most of the way around it to provide 270o vision. The
 species is omnivorous with a large mouth that contains a
 dozen large molar-like teeth to masticate plant food and
 sharp incisors in the front to bite off chunks of meat from
-animals. The Bhu’oovaakaylaa have an internal bladder
+animals. The Bhu'oovaakaylaa have an internal bladder
 with which they extract gaseous elements from the
 atmosphere for various purposes. When filled, the bladder
 enables them to float short distances.
 
-The Bhu’oovaakaylaa are classified as a Minor Race
+The Bhu'oovaakaylaa are classified as a Minor Race
 with human-level intelligence. They are currently at
 approximately TL2 with some tool manufacturing
 that extend to TL3. They are by and large a friendly
 species and were initially contacted by Vilani scouts
 thousands of years ago. The worldwide population of the
-Bhu’oovaakaylaa is difficult to determine but the Scout
+Bhu'oovaakaylaa is difficult to determine but the Scout
 Services estimates that there are probably about 12
 million of them. The listed population figure for the world
 represents only the humans present.
 
 Alien Hits Speed
-Bhu’oovaakaylaa 70 6m (aquatic),
+Bhu'oovaakaylaa 70 6m (aquatic),
 4m (flight)
 Skills Athletics (dexterity) 2, Flyer
 (natural) 2, Melee (natural) 1,
@@ -16086,14 +16086,14 @@ TRAVELLER
 While it is not classified as such, Khiinra Ash
 is effectively a reserve, with few humans living
 permanently on its surface. The high gravity makes it
-uncomfortable for humans but the Bhu’oovaakaylaa
+uncomfortable for humans but the Bhu'oovaakaylaa
 welcome expeditions when they come. When
 offered Red Zone status, they declined. They are a
 philosophical species and while few have ever left
 the planet – due to their size and highly specified
 adaptations – they welcome the idea that they
 are members of an interstellar community. The
-Bhu’oovaakaylaa enjoy speaking with visitors of all
+Bhu'oovaakaylaa enjoy speaking with visitors of all
 races, learning more about them and engaging in
 spirited debates. They speak in deep bellows and
 communication with them is loud and ponderous. They
@@ -16103,7 +16103,7 @@ through a conversation.
 
 Khiinra Ash Highport is a serviceable and friendly
 facility but its technology is outdated. The staff see
-themselves as ambassadors to the Bhu’oovaakaylaa
+themselves as ambassadors to the Bhu'oovaakaylaa
 civilization and are helpful to offworlders, for whom
 they maintain a selection of high-G apparatuses and
 exoskeletons to make wandering the surface of Khiinra
@@ -16113,23 +16113,23 @@ Markasher
 The mainworld of the Markasher system is not a
 planet at all but simply one of the larger planetoids
 of its two belts, Markasher α (the inner belt) and
-Markasher β (the outer belt). This ‘world’ is fortuitously
+Markasher β (the outer belt). This 'world' is fortuitously
 located in a less dense region between the two belts
-where collisions are rare. Most of the system’s actual
+where collisions are rare. Most of the system's actual
 terrestrial planets are far into the outer zone of the
-system’s orange giant star, Kalyptus. This star is
+system's orange giant star, Kalyptus. This star is
 well on its way along the red giant branch and will
 one day swell to enormous size, consuming both
-belts. Fortunately for Markasher’s residents, this will
+belts. Fortunately for Markasher's residents, this will
 not occur for many millions of years. The system
 has no gas giants so there are no ready sources for
 wilderness refuelling.
 
-Markasher’s rich belts have been exploited for
+Markasher's rich belts have been exploited for
 centuries by the Conglomerate, a collection of mostly
 Sylean mining concerns whose leadership positions
 are passed on hereditarily or by the appointment of
-the previous owner. Markasheri mining ‘clans’ work in
+the previous owner. Markasheri mining 'clans' work in
 
 concert to extract the resources from the belts that are
 needed to build infrastructure for the high-population
@@ -16146,8 +16146,8 @@ medicine but the austere Conglomerate does little to
 provide treatment. Aid groups from Mikhag Kuu have
 come to the system to purchase abandoned planetoid
 habitations, which they intend to outfit with artificial
-gravity so they can be used to provide ‘regeneration
-intervals’ for the Markasheri. The self-reliant
+gravity so they can be used to provide 'regeneration
+intervals' for the Markasheri. The self-reliant
 government is not pleased with this development, as it
 could create unrest among the masses who might start
 to demand such services.
@@ -16173,9 +16173,9 @@ spacecraft. Visitors who enter the Markasher system
 without making arrangements ahead of time have no
 place to go. Unscheduled visitors have been known to
 sit in docking queues for weeks before being allowed
-to park their ships at one of the system’s rudimentary
+to park their ships at one of the system's rudimentary
 spaceports. Stranded craft sometimes resort to
-‘ice cracking’, finding a planetoid with frozen water,
+'ice cracking', finding a planetoid with frozen water,
 breaking it down and refining it for hydrogen fuel. This
 practice is forbidden and violators can expect anything
 from an extremely stiff fine to incarceration on a zero-G
@@ -16228,7 +16228,7 @@ Cooperation** : Syleans are exceptionally cooperative
 with others of their species. When on a Sylean World
 (one with a Sylean population of 50 percent or more),
 Sylean Travellers receive DM+2 on Admin, Diplomat
-and Streetwise checks. This reflects the Syleans’ innate
+and Streetwise checks. This reflects the Syleans' innate
 ability to close ranks and cooperate with one another to
 achieve a desired goal.
 
@@ -16249,7 +16249,7 @@ there could be exceptions.
 As for the Rogue career, most Syleans gravitate
 towards honorable professions that provide them
 with financial and spiritual prosperity, avoiding
-those that directly involve them in crime for crime’s
+those that directly involve them in crime for crime's
 sake. That said, they are no more or less ethical
 than humans of any other kind and might indulge in
 underworld-oriented activities if there are extenuating
@@ -16284,7 +16284,7 @@ worlds extended from the Hektalus system in Bunkeria
 to Velpare in Cemplas, encompassing 32 star systems
 at its peak. The Confederacy looked as if it would
 pose a major challenge to the Sylean Federation for
-supremacy in the Core sector but its lack of unity was
+supremacy in the [[Core sector]]  but its lack of unity was
 ultimately its downfall. Two wars determined the destiny
 of the Confederation, the first of which was lost to better
 organised Sylean squadrons who routed disjointed
@@ -16336,7 +16336,7 @@ Dunlek 0822 N B540365-B De Lo Po G
 
 Ess Nuur 0827 B550400-C De Ht Ni Po G
 
-F’rnow 0722 B561576-B Ni G
+F'rnow 0722 B561576-B Ni G
 
 Ferot 0328 B553532-B Ni Po G
 
@@ -16585,7 +16585,7 @@ BENTAX
 
 HELLHOLE
 
-F’RNOW
+F'RNOW
 
 ONTAR
 
@@ -16765,15 +16765,15 @@ E200301-A
 
 ###### BUNKERIA subsector
 
-Bunkeria is defended by the Imperial Navy’s 217th
+Bunkeria is defended by the Imperial Navy's 217th
 Fleet, one of the smallest numbered fleets in all of the
 Core with only two full-time squadrons. A rarity in the
-Imperium, Bunkeria’s 217th Colonial Fleet is actually
+Imperium, Bunkeria's 217th Colonial Fleet is actually
 larger than its numbered fleet with four full squadrons
 at its disposal. The ships of the official 217th are highly
 capable TL15 spacecraft with jump-4 capability while
 the Colonial 217th is composed of locally built ships that
-average TL13 and jump-3. Bunkeria’s Colonial Navy
+average TL13 and jump-3. Bunkeria's Colonial Navy
 ships are some of the most colourful in the fleet, adorned
 with the martial regalia and names of heroes from their
 vibrant historical past. Because of how few squadrons
@@ -16783,21 +16783,21 @@ of Bunkeria including the Irlu and Dral Clusters.
 
 Sketola is the capital of the subsector and headquarters
 of both the subsector and Colonial fleets. The economic
-powerhouse of Bunkeria is the F’rnow system, home
+powerhouse of Bunkeria is the F'rnow system, home
 of the sector-wide Achenaar Antilles Line, which was
 founded during the era of the Interstellar Confederacy
 and remains one of the most powerful corporations in
 all of the Core. Achenaar Antilles has over 1,000 ships
 in its fleet, most of which operate on the Sylean Main.
 
-The Imperium is leery of Bunkeria’s independent
+The Imperium is leery of Bunkeria's independent
 streak but have been cautious not to spoil a good
 thing. In spite of its relatively small population, the
 spirited worlds of Bunkeria have done their part to help
 grow the traffic along the Sylean Main. Furthermore,
 the subsector is remarkably stable with only one
 world classified as an Amber Zone. While Bunkeria is
-certainly not the Core’s best and brightest locale, it has
+certainly not the Core's best and brightest locale, it has
 undeniable appeal and a seemingly bright future.
 
 Hellhole
@@ -16813,11 +16813,11 @@ when its miners only had access to TL12 safety gear.
 Now under Imperial management, there are very few
 human miners on its surface with most of the work being
 done by high-tech radiation-shielded robots. Almost all
-of Hellhole’s population lives on the close-orbit highport
+of Hellhole's population lives on the close-orbit highport
 or one of its Lagrange-point processing and shipping
 centres. Mining activity is performed remotely by well-paid
 remote operations engineers who do the delicate work
-of extracting Hellhole’s abundant resources from a safe
+of extracting Hellhole's abundant resources from a safe
 distance of 1,000km.
 
 While gifted with a placid, long-lived star, the entire
@@ -16831,7 +16831,7 @@ the standard price for fuel, all of which is refined at
 the highport.
 
 The Revived Grand Senate on Sketola snaps up as
-much of Hellhole’s product as it can using loans from
+much of Hellhole's product as it can using loans from
 the Achenaar Antilles Line. Sketola claims that these
 resources are used to maintain the Colonial Navy but
 the Imperium has begun to cry foul. There simply is
@@ -16866,7 +16866,7 @@ their arms and were occupied first by Sylean forces
 and later by the Imperial Army.
 
 The young Imperium was unable to sustain the
-occupation and sought to return Bunkeria’s pacified
+occupation and sought to return Bunkeria's pacified
 worlds to local control. During the Confederacy
 Era, the world of Marsus was a renowned exporter
 of mercenary forces. Unfortunately, Marsus had
@@ -16910,7 +16910,7 @@ were given to trusted mercenary companies but as the
 scope of the job became larger, they were eventually
 forced to recruit talent from neighboring subsectors.
 Over time, the practice of employing professional
-soldiers to serve in its worlds’ armies took hold.
+soldiers to serve in its worlds' armies took hold.
 
 The OMA had help, of course. The management of
 a subsector-wide bureaucracy was a bit beyond its
@@ -16930,7 +16930,7 @@ high level of professionalism and have become sought
 after outside the subsector. The vaunted OMA Seal of
 Approval is given to the best mercenary companies,
 a practice which thus far has not been corrupted by
-Irlu’s disingenuous meritocracy.
+Irlu's disingenuous meritocracy.
 
 MAJOR RAYNIER GRGIC
 Major Grgic is a retired ex-mercenary and
@@ -16963,8 +16963,8 @@ of doing so when it mattered most. Regardless of
 the truth, the Lalandra Museum of Naval History is
 a popular attraction for both Bunkerians and foreign
 tourists alike. It includes two departments: an indoor
-facility located in one of the Lalandra Belt’s largest
-planetoids and ‘The Shipyard’, a large collection of
+facility located in one of the Lalandra Belt's largest
+planetoids and 'The Shipyard', a large collection of
 now ancient naval starships that have been arranged
 for the viewing pleasure of its visitors. Tourists may
 spend days or even weeks, travelling from ship-to-
@@ -16975,18 +16975,18 @@ naval museum are the cryogenically preserved body
 of Admiral Moshe Halfview – the cyborg military hero
 credited with quashing the rebellion at Sketola – and
 the _Exatar_ , an espionage ship that used unique
-‘ramscoop’ technology.
+'ramscoop' technology.
 
 In addition to its normal duties, the Lalandra Scout
 Base has liaison officers who work with the local ship-
-building industry. Some of the scouts’ most advanced
+building industry. Some of the scouts' most advanced
 craft are assembled here, including advanced
 versions of its _Suleiman_ - and _Donosev_ -class
 starships. For years, the Colonial Naval Administration
-on Sketola has sought to expand Lalandra’s facilities
+on Sketola has sought to expand Lalandra's facilities
 to include the construction of naval vessels but they
 have been turned down by the Imperial government
-thus far. If anything, Sketola’s frequent entreaties only
+thus far. If anything, Sketola's frequent entreaties only
 make the Imperium more nervous about Bunkerian
 naval independence. While their TL13 Colonial Navy
 is of little concern to the Admiralty, the thought of
@@ -17010,7 +17010,7 @@ technology is that it enables a starship to make
 as many jumps as desired without ever visiting a
 starport or gas giant for refuelling purposes.
 
-Ramscoops require one percent of a ship’s
+Ramscoops require one percent of a ship's
 available tonnage plus five tons, with a minimum
 overall size of 10 tons and can collect five tons of
 hydrogen per week for every ton attributed to the
@@ -17075,11 +17075,11 @@ to Capital, these worlds are of great importance to
 Cemplas and the region at large. Bendo and Keplo
 manufacture low- to mid-tech consumer goods and
 the factories of Shibashliim – which cover the majority
-of the planet’s surface and sprawling swaths of its
+of the planet's surface and sprawling swaths of its
 sea bed – produce high-end computer systems and
 electronics. The governors of Shibashliim have large
 stakes in the megacorporation Naasirka, which holds
-a monopoly of the planet’s industrial capital. The fourth
+a monopoly of the planet's industrial capital. The fourth
 industrial world, Lishiruud, is located in the rimward
 portion of the subsector and sits upon a small jump-
 1 main where competing merchant companies run
@@ -17104,7 +17104,7 @@ to transmit small amounts of matter across continental
 distances, a few niche companies are attempting to use
 the technology to teleport radio waves across an entire
 star system. If successful, they will have invented the
-Imperium’s first working FTL communications device.
+Imperium's first working FTL communications device.
 
 **Name Location Bases Statistics Trade Codes Travel Code Gas Giants**
 
@@ -17350,7 +17350,7 @@ Cemplas
 
 To Chant
 
-To Ch’naar
+To Ch'naar
 
 To Mekee
 
@@ -17599,14 +17599,14 @@ E541766-6
 Biirke
 In a frontier sector, Biirke is the type of system that
 might be left barren but in the Core there are no such
-places. The system’s bright white main sequence star
+places. The system's bright white main sequence star
 and its unstable red dwarf companion have swept most
 of the resource-poor planets clean of atmospheres and
 water, leaving little reason for settlers to stay. Biirke
 itself is a cold dustball chosen by a small resource-
 development company to host an automated Class D
 highport. Small craft pilots were hired to fly tankers to
-and from the system’s gas giants, bringing unrefined
+and from the system's gas giants, bringing unrefined
 liquid hydrogen to be sold as fuel. Robots would
 be there to help visiting Travellers refuel their ships
 quickly and efficiently so they could move on to more
@@ -17618,17 +17618,17 @@ rather than travel to the out-of-the-way starport.
 
 About a decade later, the mothballed starport was
 salvaged and refurbished by belters who had been
-fruitlessly searching Biirke’s planetoid belts for
+fruitlessly searching Biirke's planetoid belts for
 prospects. The savvy belters stripped the idle robots
 of their brains, reprogrammed them and fitted them
 into the tankers, which now make perpetual fuel runs
 to and from the gas giants, constantly replenishing
-the station’s fuel supply. While Biirke’s appeal has
+the station's fuel supply. While Biirke's appeal has
 scarcely improved, traffic to the port has experienced
 a noticeable uptick. The belters turned it into a co-op,
 offering a share to others in their profession provided
 they participate in the highport maintenance rotation.
-They converted two of the station’s four docking bays
+They converted two of the station's four docking bays
 into a market bazaar, which visiting merchants use to
 trade speculative cargo with each other. Members of
 the co-op recently salvaged an abandoned subsidized
@@ -17637,7 +17637,7 @@ a crew, provided they limit their operations to the
 Lishiruud Cluster.
 
 Ehok-ta
-Virtually all of Ehok-ta’s 10,000 inhabitants are in the
+Virtually all of Ehok-ta's 10,000 inhabitants are in the
 employ of Ne-ka-otabi, an entrepreneurial venture
 run by Syleans and Bwaps (refer to the _Traveller
 Companion_ or _Aliens of Charted Space Volume 3_ for
@@ -17667,7 +17667,7 @@ an opportunity to do extremely well, making the
 company and its employees rich. However, despite
 bringing in impressive resource hauls, Ne-ka-otabi has
 struggled to make a profit thus far. To make matters
-worse, the city’s gravitic pylons have been failing at
+worse, the city's gravitic pylons have been failing at
 an alarming rate. The extraction bots, purchased on
 Shibashliim, have been performing to expectations
 but the technology that keeps the city afloat has been
@@ -17675,7 +17675,7 @@ subpar. Its gravitic support system has multi-redundant
 safeguards, so there is no imminent danger of it
 plunging into the crushing depths of Ehok-ta but the
 frequent failure alarms and subsequent costs incurred
-for repairs are unnerving for the city’s residents. Many
+for repairs are unnerving for the city's residents. Many
 question the decision making of the Ne-ka-otabi
 executives and have petitioned to have them replaced.
 
@@ -17698,7 +17698,7 @@ entered the fray at Heraldia. Confederacy forces were
 stretched thin trying to defend both Heraldia and
 Gyga. The battles around Gyga left dozens of wrecks
 behind, most of which have plummeted into the gas
-giant’s gravity well over the centuries. The few that
+giant's gravity well over the centuries. The few that
 remain have been preserved and converted into war
 memorials and tourist attractions. Heraldia itself also
 bears the scars of the war. Its atmosphere was tainted
@@ -17732,7 +17732,7 @@ with fallout from the orbital bombardment of its cities
 and its hydrosphere was virtually eliminated, leaving
 the world a desert wasteland. Heraldians were forced
 into domed and subterranean structures to survive the
-intense stellar radiation from the system’s three suns.
+intense stellar radiation from the system's three suns.
 Life is hard on Heraldia but even after 1,200 years the
 descendants of those who fought here have a solemn
 pride in their ancestry.
@@ -17746,20 +17746,20 @@ of combat armor worn by key war heroes have been
 preserved under transparent plasteel right where they
 fell in action. Heraldians chafe at the suggestion that
 they have gone overboard worshipping the sites of
-their ancestors’ sacrifices. Martyrdom is big business
+their ancestors' sacrifices. Martyrdom is big business
 on Heraldia and the world attracts millions of tourists
 each year. During peak months, the tourist population
-outnumbers the planet’s permanent residents.
+outnumbers the planet's permanent residents.
 
 Khusgurlu
 The supreme pontiff of Khusgurlu is Aulonn Jhourdan-
-Valestin. While this particular ‘instance’ of the man has
+Valestin. While this particular 'instance' of the man has
 led the Church of the Chosen Few for only the last
 two decades, he has in a way led it for the last 2,000
 years. Jhourdan-Valestin and virtually all 20 billion
 of his parishioners are clones. The Church keeps a
 catalogue of approximately 12 billion approved DNA
-templates, each of which is a permanent ‘citizen’
+templates, each of which is a permanent 'citizen'
 of the planet. Some twins are allowed to occur
 but triplets are prevented by the cloning process.
 Approximately five billion Khusgurluans are duplicates,
@@ -17769,7 +17769,7 @@ life and dies a natural death – anagathics are strictly
 forbidden – they are `resurrected` by having their
 template implanted into and taken to term by a female.
 The Church is monotheistic and the people believe
-that God protects them and grants them ‘immortality’
+that God protects them and grants them 'immortality'
 in exchange for strict adherence to its rituals. While
 coital behaviour between couples is allowed as a
 
@@ -17783,9 +17783,9 @@ contraception, natural childbirths do occur from time-
 to-time. Natural reproduction is a high crime and
 punishable by the death of both parents and their
 naturally created child. The parents are referred to as
-‘heretics’ and children as ‘abominations’.
+'heretics' and children as 'abominations'.
 
-It should be noted that Khusgurlu’s use of cloning
+It should be noted that Khusgurlu's use of cloning
 technology and consciousness templates treads a
 fine line with recent Imperial law. In 1070, Emperor
 Paulo III ruled that consciousness transfer is a crime
@@ -17804,8 +17804,8 @@ Upon resurrection, most Khusgurluans embark upon
 a unique life experience, meaning they do not fill the
 same role or live in the same geographic location as
 their previous clone; however, a favorite pastime is
-looking into the Church’s extensive databases to see
-one’s past lives. The texts and holovideos are edited
+looking into the Church's extensive databases to see
+one's past lives. The texts and holovideos are edited
 to convey the virtues of a duty-bound, pious lifestyle.
 While they may have filled many roles during previous
 lives – perhaps a genetic scientist in one life, a soldier
@@ -17819,7 +17819,7 @@ independent thoughts.
 While its origins are lost in the murk of history, the
 Church of the Chosen Few is thought to have resulted
 from the struggles of the Long Night. Khusgurlu,
-a moon of the system’s innermost gas giant, was
+a moon of the system's innermost gas giant, was
 the site of a Vilani colony that was left intact by the
 Terrans during the Rule of Man. The system has
 reasonably rich resources in its planetoid belt and
@@ -17831,7 +17831,7 @@ last a few hours. When Khusgurlu is occluded by
 
 its gas giant, it suffers few effects. When it is not,
 the flares strip away much of its atmosphere which
-is, over time, restored by the world’s abundant
+is, over time, restored by the world's abundant
 genetically engineered plant life. The flares had
 historically caused a large number of deaths and
 genetic mutations, endangering the viability of the
@@ -17842,7 +17842,7 @@ It is likely that the Church is an outgrowth of this
 meticulous process.
 
 The Church of the Chosen Few is loyal to the Imperium
-and willingly subscribes to the notion that Capital is its
+and willingly subscribes to the notion that [[Capital]] is its
 political nexus; however, they believe that Khusgurlu is
 its spiritual center and that the Imperium would greatly
 benefit from adopting similar rituals. Missionaries from
@@ -17861,7 +17861,7 @@ Velpare
 Velpare is a key stop along the Sylean Main, linking
 the Keplo and Vvrin Clusters. The system primary is a
 long-lived orange main sequence star called Auroralari.
-The richness of Auroralari’s planetary disk gave birth
+The richness of Auroralari's planetary disk gave birth
 to several worlds and gas giant moons with a diverse
 array of atmospheric compositions. Velpare itself is
 gifted with a breathable oxygen-nitrogen mix and a
@@ -17907,7 +17907,7 @@ the system and self-rule was restored.
 
 The exiled duke is still the official representative of
 Velpare but the world is now effectively governed
-by five baronies, which oversee the world’s cities,
+by five baronies, which oversee the world's cities,
 agricultural districts and wildlife preserves. Ironically,
 Velpare was made capital of Cemplas one month after
 the coup, thereby promoting the exiled noble to the
@@ -17920,7 +17920,7 @@ allow for a great many personal freedoms including
 the possession of non-military weapons for self-
 defence. House militias may legally use military
 weapons provided they pledge to engage in joint
-exercises and assist with the planet’s defence
+exercises and assist with the planet's defence
 should the need arise. Unfortunately, the spectre of
 dictatorship and the occupation still haunts Velpare.
 The ousted duke remains in hiding, using superior
@@ -17967,7 +17967,7 @@ the Imperial Navy, the other being Celetron. Ye-lu is a
 tiny airless rockball that serves as the testing ground
 for an automated conscious intelligence that runs the
 entire planet. This software, which answers to the name
-‘Mother’, uses advanced, nearly instantaneous meson
+'Mother', uses advanced, nearly instantaneous meson
 communicators for all of its instructions.
 
 The Imperial government and – to a lesser degree –
@@ -17994,14 +17994,14 @@ Cemplas
 
 to the human staff but it is difficult to keep up with
 her myriad projects. At present, Mother has covered
-approximately 35 percent of Ye-lu’s surface with
+approximately 35 percent of Ye-lu's surface with
 various structures but this percentage ebbs and flows
 depending on what she has been asked to do and
 what she is working on independently.
 
 The naval staff are present at Ye-lu in a primarily
 scientific role. They are there to guide and monitor
-Mother’s activities in order to determine if her advanced
+Mother's activities in order to determine if her advanced
 technology can be applied elsewhere. If things go well,
 more automation at Imperial military facilities could
 become the norm.
@@ -18009,10 +18009,10 @@ become the norm.
 Shipwreck Hunters
 The Sylean Main has been travelled by starships for thousands of years. It was a provincial route for the
 Vilani, a major artery into the First Imperium for Terran conquerors, the site of numerous battles during
-the Sylean Federation-Interstellar Confederacy War and now hosts the Core’s most valuable trade route.
+the Sylean Federation-Interstellar Confederacy War and now hosts the Core's most valuable trade route.
 Over the millennia, hundreds of ships on the route have been lost during battles, wilderness refuelling
 operations gone wrong, misjumps and other calamities. Celebrity shipwreck hunters ply the route searching
-these old hulks for salvage and adventure. The few dozen that have been found have captured the public’s
+these old hulks for salvage and adventure. The few dozen that have been found have captured the public's
 imagination. Imperial citizens are fascinated with their long, complicated histories and a great deal of
 excitement and media attention surrounds the discovery of each old wreck. Holovideo documentaries about
 newly discovered wrecks are among the most popular entertainments available in the Core and each new
@@ -18027,7 +18027,7 @@ captain. Beau-Ta-Quitala and all hands of the Regal Voyager were lost in action 
 travelling from Keplo to Sketola where the heroic captain was to engage in a final showdown with the
 rebel leader, Baron Rolf von Toerbach of Protalus.
 
-There are many mysterious theories about Beau-Ta-Quitala’s disappearance, some quite outlandish, but
+There are many mysterious theories about Beau-Ta-Quitala's disappearance, some quite outlandish, but
 few solid clues as to where his famous starship may have ended up. Most people believe it must have
 misjumped somewhere into the Bunkeria-Cemplas Gap, the stellar chasm between the two subsectors. If
 anyone were to find the lost ship, fame and fortune beyond imagination would surely follow.
@@ -18051,8 +18051,8 @@ reclaimed the ruins and new cities have sprung up in
 the temperate latitudes to take their place.
 
 Some have compared Chant to the picked over
-remains of a long-dead carcass. Others call it ‘the sick
-man of the Core’. Its resources have been plundered
+remains of a long-dead carcass. Others call it 'the sick
+man of the Core'. Its resources have been plundered
 for thousands of years and it has been a bloody
 battlefield more times than anyone cares to remember.
 Perhaps the greatest killer of all was the Plague of
@@ -18074,9 +18074,9 @@ Main. Emperor Strephon himself has invested a portion
 of his personal wealth in the region and solicited
 trillions more from the megacorporations. As far as the
 Emperor is concerned, it simply will not do to have an
-economic disaster of this scale on Capital’s doorstep.
+economic disaster of this scale on [[Capital]]'s doorstep.
 
-Chant is defended by the Imperial Navy’s 2nd Fleet,
+Chant is defended by the Imperial Navy's 2nd Fleet,
 which consists of only three squadrons. The ships of the
 2 nd are outdated, underfunded and desperately in need
 of a refit. Fortunately, the fleet has more than its share
@@ -18091,7 +18091,7 @@ close to the throne world is an embarrassment and if
 word were to get out to the greater Imperium, it would
 be a public relations nightmare. Piracy results from
 economic strife and the Imperium hopes to rejuvenate
-Chant’s ailing worlds. While the navy is not averse to
+Chant's ailing worlds. While the navy is not averse to
 using force, they are attempting to win hearts and minds
 instead. They hope to provide viable alternatives for
 those who have turned to piracy.
@@ -18143,7 +18143,7 @@ Basilling 2028 N A543104-E Ht Lo Po G
 
 Braned 1727 N B8B3411-C Fl Ht Ni G
 
-C’re 1725 N S B545885-A G
+C're 1725 N S B545885-A G
 
 Chant 2224 W A560688-C De Ht Ni Ri G
 
@@ -18440,7 +18440,7 @@ ROUSTAMI AKIN AKUN
 
 WADUUKA
 
-C’RE
+C'RE
 
 MANDHEM
 
@@ -18644,11 +18644,11 @@ upgrades to its facilities, Anther experienced a high
 volume of traffic and things have gotten noticeably
 better since the work was completed. Unfortunately,
 most ships are just passing through and that is a
-problem. People currently see Chant as a ‘highway’
+problem. People currently see Chant as a 'highway'
 of sorts, an obstacle to get through to reach more
 lucrative markets elsewhere. The Imperium wants to
 see more traffic going rimward where the benefits of
-trade might revitalise the subsector’s fortunes.
+trade might revitalise the subsector's fortunes.
 
 The CSRP has two key roles: economic evangelism
 and public relations, both of which are to be achieved
@@ -18656,7 +18656,7 @@ by teams of administrators who flit about to the other
 worlds of Chant. The evangelism component seeks
 to entice the trader community to travel off the beaten
 path and go to worlds they might otherwise ignore. The
-public relations component consists of ‘Outrider’ teams,
+public relations component consists of 'Outrider' teams,
 which go to the underserved systems of Chant and
 help them to become more attractive markets. Getting
 these systems to cooperate is often more difficult than
@@ -18667,15 +18667,15 @@ brighter future.
 
 CSRP agents are frequently encountered while travelling
 through Chant, providing incentives for Travellers to take
-the rimward route to the subsector’s less-developed
+the rimward route to the subsector's less-developed
 systems. Unfortunately, not all CSRP employees have
-Chant’s best interests in mind. As with many well-funded
+Chant's best interests in mind. As with many well-funded
 bureaucracies, corruption is an ever-present problem.
 CSRP accounts have been raided by embezzlers and
 hackers, many of whom have been given back-door
 access by insiders. While the problem has not yet gotten
 out of hand, if it gets much worse, it will begin to have
-a deleterious effect on the agency’s efforts. High-level
+a deleterious effect on the agency's efforts. High-level
 officers at CSRP headquarters have been tasked with
 addressing the issue.
 
@@ -18708,7 +18708,7 @@ request a working or basic passage aboard their
 starship provided that they are travelling rimward
 towards the more troubled worlds. Alma is a
 determined, if inexperienced, auditor/detective
-and could use the Travellers’ help seeking out
+and could use the Travellers' help seeking out
 those who misappropriate Imperial funds. She is a
 bit of a blunderer and more than a little naïve, and
 is therefore likely to run into all sorts of trouble,
@@ -18727,13 +18727,13 @@ underground reservoirs. These resources support
 thousands of troglodytic animal species, mosses
 and fungi, most of which never see the light of day.
 The majority of desert worlds have little in the way
-of atmosphere but Chant’s plant species employ
+of atmosphere but Chant's plant species employ
 photosynthesis to provide one that is 28 percent
 oxygen, 71 percent nitrogen with trace amounts of
 carbon dioxide and other gases. The plants wind
-their way upward through Chant’s porous crust to
+their way upward through Chant's porous crust to
 the surface where they protrude with large flowering
-surfaces to absorb the light of Ami, the system’s
+surfaces to absorb the light of Ami, the system's
 orange main sequence star. Chant has a slow
 rotation of 196.2 hours, making the local day well
 over a standard week long. Photosynthesis on Chant
@@ -18744,9 +18744,9 @@ flowering plant life, while on the dark side the plants
 retract into the earth to drink from its subterranean
 water sources. The higher oxygen level means
 that things catch fire more easily and burn longer.
-Lightning strikes from Chant’s eerie ‘dry storms’ burn
+Lightning strikes from Chant's eerie 'dry storms' burn
 desiccated plant life, creating sprawling wildfires that
-can last for weeks and are part of the planet’s cycle
+can last for weeks and are part of the planet's cycle
 of life and death.
 
 The sensitive ecology of the planet has been
@@ -18765,8 +18765,8 @@ participant in Moot deliberations.
 
 Chant Downport is a high-quality but austere facility,
 designed to accommodate diplomatic visitors to
-the duke’s estate and tourists who come to roam
-the world’s deserts. The downport has only a few
+the duke's estate and tourists who come to roam
+the world's deserts. The downport has only a few
 docking bays and is not equipped to handle large
 amounts of traffic. The Scout Service has a small
 
@@ -18784,11 +18784,11 @@ detached duty mission. There is plenty of work to be
 done in the subsector and retired scouts make an
 excellent auxiliary work force.
 
-Chant’s low-key government is primarily concerned
-with the preservation and maintenance of the world’s
+Chant's low-key government is primarily concerned
+with the preservation and maintenance of the world's
 delicate ecological balance but also manages the
 Civilian Service Bureau, an agency that provides
-services for the world’s nine million inhabitants.
+services for the world's nine million inhabitants.
 
 Farhome
 Farhome is one of the failing worlds of the rimward
@@ -18799,7 +18799,7 @@ during the Long Night and a second colony that
 was established in 667. The second go-around
 got off to a fair to middling start, exploiting the
 untapped resources of both the mainworld and the
-system’s two planetoid belts. In more recent times,
+system's two planetoid belts. In more recent times,
 poor planning and subsequent financial struggles
 have slowly and painfully choked any prospects
 for success that the colony might have had. While
@@ -18809,7 +18809,7 @@ eventually found a way off of Farhome but some
 descendants of the original colonists remain, living
 out a bleak and seemingly pointless existence.
 
-If there is a silver lining to Farhome’s dark cloud,
+If there is a silver lining to Farhome's dark cloud,
 it is its invention of a musical style called altDirge.
 It is performed by a live band, usually with three to
 five musicians and always includes a bass drum, a
@@ -18828,7 +18828,7 @@ tour the interstellar region, making a decent living and
 raising awareness of the struggles of their respective
 homeworlds. The altDirge band No Prospects is
 currently making waves with the political protest song,
-‘Take it as it comes’, which draws attention to the fact
+'Take it as it comes', which draws attention to the fact
 that some of their people have turned to piracy out of
 desperation. The song rather bluntly blames corrupt
 Imperial bureaucrats for their suffering.
@@ -18848,19 +18848,19 @@ been converted for recreational use and now host
 myriad artificial habitats including zoos, spas,
 environmental simulations, amusement parks, urban
 settings with fine dining and opportunities for social
-interaction and ‘pleasure asteroids’, which promise
-experiences beyond Travellers’ wildest dreams.
+interaction and 'pleasure asteroids', which promise
+experiences beyond Travellers' wildest dreams.
 Vacationers from industrial Raami and Skeen are
 frequent visitors.
 
-The starport is housed in Kala-an-Vodi, Traa’s largest
+The starport is housed in Kala-an-Vodi, Traa's largest
 planetoid. Its high-tech shipyard only manufactures
 civilian spacecraft and is known for producing
 many custom designs. Its financial success has
 garnered the interest of investors including the
 megacorporation GSbAG, which has purchased a
 minority stake. Imperial authorities have expressed
-concern about the shipyard’s willingness to install
+concern about the shipyard's willingness to install
 all manner of weaponry, stealth coatings and other
 typically military features on so-called civilian
 starships but has thus far resisted the temptation
@@ -18874,8 +18874,8 @@ training institute, which was grooming psionic aides
 to serve high nobles. Initiates in the program were
 the cream of the crop, selected from thousands of
 candidates within the Core. The group trained at
-a secure facility known as ‘the Keep’, located on a
-high seamount in the world’s northern hemisphere.
+a secure facility known as 'the Keep', located on a
+high seamount in the world's northern hemisphere.
 When the Psionic Suppressions occurred, the group
 resisted dissolution and incarceration, resulting in
 a bloody confrontation with a battalion of Imperial
@@ -18886,7 +18886,7 @@ during the assault.
 
 In an effort to ingratiate themselves with the locals,
 initiates from the Keep were regularly parcelled out
-to members of Wrebil’s ruling bureaucracy, where
+to members of Wrebil's ruling bureaucracy, where
 they made themselves invaluable members of
 Wrebilian society. When the marines came down
 from the heavens and the Keep was destroyed,
@@ -18914,7 +18914,7 @@ the name of Marak Ilyaman, has been able to use
 a unique Awareness talent to maintain his youth,
 thereby making him immortal. Allegedly he continues
 to lead and teach psions from a secret training
-facility, far beneath the water world’s ocean surface.
+facility, far beneath the water world's ocean surface.
 
 Chant
 
@@ -18951,8 +18951,8 @@ large Dingtra is an insular subsector more focused
 on maintaining what it has than trying to become
 something it is not. In short, Dingtra has not strayed
 far from its conservative Vilani heritage. Visitors to
-Dingtra sometimes jokingly refer to it as ‘The land that
-the Third Imperium forgot’.
+Dingtra sometimes jokingly refer to it as 'The land that
+the Third Imperium forgot'.
 
 With more resources and industrial output than
 it needs, Dingtraians have an adequate but not
@@ -19430,7 +19430,7 @@ A541632-C
 
 ###### DINGTRA subsector
 
-years either at Kamsii the ‘pleasure planet’ or another
+years either at Kamsii the 'pleasure planet' or another
 suitable world in the subsector. In addition, most
 Dingtraian societies are members of one traditional
 Vilani religion or another with almost no Solomani-
@@ -19438,12 +19438,12 @@ inspired faiths among them.
 
 Offworlders often find Dingtraians to be aloof or
 perhaps even a bit hostile. With the exception of
-Kadushii, all of Dingtra’s high-population worlds
+Kadushii, all of Dingtra's high-population worlds
 have high Law Levels, showing their preference for
 strict, orderly societies. Unfortunately, it also reflects
 intolerance towards foreigners. Dingtraians do not
 much care for behaviour that strays outside the norm
-and Travellers to Dingtra’s high-population worlds
+and Travellers to Dingtra's high-population worlds
 often get into trouble with law enforcement officers.
 For this reason, most of these worlds have been
 given Amber Zone designations. Dingtraian justice is
@@ -19451,13 +19451,13 @@ harsh and the court system often assigns long prison
 sentences for petty infractions. However, Dingtra is
 after all a part of the Imperium and usually commutes
 sentences provided that foreign diplomats intercede
-on an incarcerated Traveller’s behalf. Commuted
+on an incarcerated Traveller's behalf. Commuted
 sentences are usually accompanied by deportation
 and a lifetime expulsion from the system where the
-‘crime’ occurred.
+'crime' occurred.
 
 Dingtra is defended by the squadrons of the
-Imperial Navy’s 274th Fleet, which maintains an alert
+Imperial Navy's 274th Fleet, which maintains an alert
 if standoffish presence at the navy bases in the
 subsector. The Imperial credo is to protect the space
 between worlds without interfering in their affairs.
@@ -19470,7 +19470,7 @@ is neither celebrated nor reviled but merely looked upon
 as a necessity for membership in the empire.
 
 There is a flipside to that Imperial creed; systems
-under the Imperium’s protection must abide by its
+under the Imperium's protection must abide by its
 laws and must not move to restrict free trade. Dingtra
 appears to have a problem with the latter. So little
 commerce moves into and out of the subsector that
@@ -19480,16 +19480,16 @@ the worlds under their purview are adhering to the
 rules but even they have run into trouble penetrating
 the monolithic Dingtraian culture. Sharurshid
 maintains an ominous presence in Dingtra and may
-well be propping up a ‘shadow monopoly’ in which
+well be propping up a 'shadow monopoly' in which
 the megacorporation and its shell companies hold
 all the cards. Imperial inspectors sent to investigate
 
-the situation have all too frequently ‘run afoul of the
-law’ and subsequently found themselves serving
+the situation have all too frequently 'run afoul of the
+law' and subsequently found themselves serving
 time in a gulag. The Imperium is attempting to
 resolve the problem without making too heavy a
 play. The age of orbital bombardment and planetary
-‘cleansings’ has long passed and officials hope to find
+'cleansings' has long passed and officials hope to find
 a diplomatic solution. Recently they have begun to
 make inroads with some of the less-populated worlds
 of the subsector, specifically those which have less
@@ -19516,7 +19516,7 @@ high-ranking members of the secret police to render
 an individual unconscious or – in extreme cases –
 given a painful and fatal cerebral aneurism.
 
-The Sovereign of Idas serves as the world’s
+The Sovereign of Idas serves as the world's
 executive authority and is allegedly selected
 under the advisement of the Ruling Council. In
 fact, the role is solely appointed by the previous
@@ -19542,7 +19542,7 @@ Dingtra
 
 TRAVELLER
 
-Idas’ roughly one billion citizens are equipped with
+Idas' roughly one billion citizens are equipped with
 internal devices at birth that track their whereabouts
 and record all of their experiences into a sprawling
 data substrate. These recordings are rarely accessed
@@ -19560,9 +19560,9 @@ the secret police and intrusive surveillance technology,
 the people are controlled by the twin pillars of the Free
 Party of Idas and the Indenturate, a quasi-religious
 authority that harbours the belief that achieving
-perfection in one’s works shall set them free in the
+perfection in one's works shall set them free in the
 afterlife. This afterlife is not spiritual but technological.
-After a life of labour, the sum total of one’s recorded
+After a life of labour, the sum total of one's recorded
 experiences are assembled as a unique identity
 and set free in a virtual world where none of the
 trappings of authoritarianism exist. Idasians spend
@@ -19575,13 +19575,13 @@ While TL12 is formidable, there is certainly higher
 technology to be had in the Imperium. The security
 apparatus on Idas is acutely aware of this fact
 and spends a great deal of its time worrying about
-‘infections’ by higher technology. They are desperately
+'infections' by higher technology. They are desperately
 afraid of what might happen should rebellious
 members of society – rare as those may be – obtain
 technology that enables them to thwart Idasian
 safeguards and expose the lies that prop up the
 ruling authorities. There are rumors of an insurgent
-organization known simply as ‘The Anarchy’ that
+organization known simply as 'The Anarchy' that
 seeks to do just that, although no actual proof of their
 existence has been found.
 
@@ -19619,7 +19619,7 @@ located in orbital space stations and on the surfaces
 of other worlds in the system.
 
 Kamsii is also the site of sizeable Hiver, Droyne
-and most recently K’kree enclaves. While these are
+and most recently K'kree enclaves. While these are
 ostensibly tourist attractions of a sort, the government
 is careful to nurture relationships with each of them in
 an effort to prevent their inhabitants from feeling like
@@ -19635,7 +19635,7 @@ mass extinctions on many of its worlds and was
 determined to reverse the damage. His successors
 never managed to replenish the worlds of Dingtra
 with species that had gone extinct but they did
-convert Ushba Sind into a ‘Noah’s Ark’ of sorts,
+convert Ushba Sind into a 'Noah's Ark' of sorts,
 with thousands of alien animals transplanted to its
 surface. Ushba Sind itself had no native life forms of
 its own but thousands of years of soil treatment and
@@ -19647,10 +19647,10 @@ Dingtra
 
 The modern Ushba Sindi people are the inheritors
 of this conservationist approach. There are strict
-Vilani-style laws in place that protect the world’s
+Vilani-style laws in place that protect the world's
 artificial habitats and severely limit the use of land
 for agricultural purposes. There is essentially just
-enough farmland to support the planet’s 400 million
+enough farmland to support the planet's 400 million
 sophonts with the remainder reserved for the
 animals. Where possible, these disparate groups
 of animals have been united into shared habitats,
@@ -19691,7 +19691,7 @@ society. Sometime in the last century, they began to
 import a pharmaceutical treatment from Brangwen
 in nearby Fornast, which enables users to develop
 animal empathy. Users can customise the treatment to
-alter one’s nervous system and that of an associated
+alter one's nervous system and that of an associated
 animal so the two species develop an emotional
 connection. This has enabled the Ushba Sindi to have
 an unusually close association with their animals
@@ -19716,7 +19716,7 @@ expedite the application process for those who prove
 that their visit to the world is for altruistic purposes.
 Select traders have also been given access to the
 planet but they are usually limited to the market zone
-of Ushba Sind’s austere downport.
+of Ushba Sind's austere downport.
 
 Dingtra
 
@@ -19729,7 +19729,7 @@ commercial communities. There are three or four
 distinct clusters of stars – depending on how they are
 grouped – and one outlier in the Night system. Imperial
 astrocartographers refer to subsectors like Cadion as
-‘assistive’, meaning that their disparate clusters seem
+'assistive', meaning that their disparate clusters seem
 less associated with one another and more with those
 of outlying subsectors. While gaps of three parsecs
 are by no means insurmountable, most trading ships
@@ -19741,13 +19741,13 @@ Cadion do remain in communication with one another.
 The cluster to spinward-coreward, which includes the
 Cadion system itself, contains the rimward spur of the
 Sylean Main. Not all traders who ply the main come all
-the way to Cadion before turning back to Capital but
+the way to Cadion before turning back to [[Capital]] but
 those who do have the option of continuing onward to
 the densely populated Shardi Cluster in neighboring
 Dagudashaag. Naasirka has recently made Reel a
 regional R&D and manufacturing hub, which has made
 the long journey to the spur worthwhile for merchants
-who want to obtain the megacorporation’s popular high-
+who want to obtain the megacorporation's popular high-
 tech products.
 
 The spinward-rimward (lower left) corner of Cadion also
@@ -19763,7 +19763,7 @@ security reasons.
 
 Located in the central chasm of Cadion, the Lia and
 Double Star Clusters are seldom visited by traders
-and only one system among them, L’rotuu, has
+and only one system among them, L'rotuu, has
 planetoid belts and is therefore the only system to
 attract belters. Sharurshid has sponsored subsidized
 merchant routes in each cluster to explore their
@@ -19784,7 +19784,7 @@ charged with defending the subsector. Stellar chasms
 pose a security concern and the squadrons of the
 fleet monitor the empty space between worlds as best
 they can. The navy bases at Double Star and Markun
-share the bulk of this duty. The remainder of Cadion’s
+share the bulk of this duty. The remainder of Cadion's
 squadrons are based on its periphery and are tasked
 with defending its holdings from the troubled worlds of
 neighboring sectors. In the galactic scheme of things,
@@ -19835,7 +19835,7 @@ Ferré 0734 S C797778-6 Ag
 Holt 0133 N B8D7346-C Ht Lo G
 Kiiris 0331 E10059C-8 Ni Va A G
 Kysizi 0440 A53A777-F Ht Wa Ht G
-L’rotuu 0737 B898674-9 Ag Ni G
+L'rotuu 0737 B898674-9 Ag Ni G
 Lia 0537 E654A88-A Hi G
 Lytras 0437 B400643-B Na Ni Va G
 Markun 0338 N S B887236-A Ga Lo
@@ -20019,7 +20019,7 @@ Cadion
 
 0838
 
-To Ch’naar
+To Ch'naar
 
 To Kerr
 
@@ -20072,7 +20072,7 @@ BREKIN KYSIZI
 
 LYTRAS
 
-L’ROTUU
+L'ROTUU
 
 PATU
 
@@ -20246,7 +20246,7 @@ that jut upward from the sea floor, striving to reach
 the surface. The few that actually made it above the
 waves formed several large islands and hundreds
 of smaller ones, covering less than two percent of
-the planet’s surface. However, Kysizi’s natural land
+the planet's surface. However, Kysizi's natural land
 masses are only part of its story.
 
 Kysizi was once Ganshas, an important Ziru Sirka
@@ -20293,15 +20293,15 @@ seavines. The fact that so many still remain is a
 testament to the durability of the high-tech materials
 used to build them.
 
-While not technically an agricultural world, Kysizi’s
+While not technically an agricultural world, Kysizi's
 primary products are genetically engineered crops
 grown under translucent domes. The domes are
-made from a patented ‘hyperpolymer’ designed by
+made from a patented 'hyperpolymer' designed by
 engineers from the Naasirka megacorporation. This
-material extracts the desired nutrients of a system’s
+material extracts the desired nutrients of a system's
 star and filters out excessive radiation.
 
-The majority of Kysizi’s land masses are uninhabited
+The majority of Kysizi's land masses are uninhabited
 but being picked over by millions of salvage robots
 who recycle materials found for incorporation into
 new buildings and other structures. Thanks to the
@@ -20325,15 +20325,15 @@ newcomers live in floating seasteads, some of
 which are anchored to uninhabited seamounts.
 The instability of the crumbling structures along the
 coasts has made it difficult to settle them. Seasteader
-interaction with the world’s land-locked cities is mostly
+interaction with the world's land-locked cities is mostly
 achieved by grav vehicle. There are projects under
 foot to clear and rebuild the crumbling foundations
 of several coastal areas in order to create bona fide
 cities and harbours for ocean-going vessels.
 
 Lia
-Lia is known throughout the Core as ‘the world of
-planned progress’ where a complex terraforming,
+Lia is known throughout the Core as 'the world of
+planned progress' where a complex terraforming,
 colonization and civilization-development project
 has been under way for millennia. Formerly an
 uninhabited Vilani reserve world with a thick, high-
@@ -20342,9 +20342,9 @@ been transformed into a habitable, self-sufficient
 society with one of the highest populations in the
 sector. During the Rule of Man, the world was
 selected from among several candidates by Terran
-colonists and was originally dubbed ‘51 Alpha’ using
+colonists and was originally dubbed '51 Alpha' using
 the Roman numeral LI and the Greek letter α, which
-was eventually simplified to ‘Lia’.
+was eventually simplified to 'Lia'.
 
 The colony was initially funded by the exorbitantly
 wealthy Corwin Corporation of Terra, which sought
@@ -20365,14 +20365,14 @@ government or Law Level to speak of.
 Utopia continues to elude them but the Lians have
 indeed achieved a great deal during the nearly
 3,000-year-long project. In the early going, colonists
-temporarily inhabited the system’s airless rockball
+temporarily inhabited the system's airless rockball
 worlds while the initial terraforming stages were
 completed. An immense shield-mirror was installed to
-reflect the light of Lia’s bright, whitish-yellow F-type
+reflect the light of Lia's bright, whitish-yellow F-type
 star in order to cool the planet, thereby reducing its
 heat and atmospheric pressure, carbon dioxide was
 bled off by various methods, enormous amounts of
-hydrogen were imported from the system’s gas giants
+hydrogen were imported from the system's gas giants
 to help create liquid water and a magnetic shield was
 built to prevent the thinned atmosphere from being
 stripped away. The real marvel is that most of this
@@ -20405,7 +20405,7 @@ society together.
 
 Night
 Night is the origin world of the Oo-ne-beto-pon-tee
-or ‘the Whistlers’ as most humans call them. The
+or 'the Whistlers' as most humans call them. The
 Whistlers are a small species with an average mass
 of 25 kilograms and a length of 40–60 centimeters.
 They resemble large, fat and hairy caterpillars with
@@ -20444,7 +20444,7 @@ reproduction. Neuters are the most industrious of
 all Whistlers and responsible for the construction
 of crèches, mating pagodas, airsails and just about
 any of the other contraptions the species uses.
-Neuters are the only sex that can ‘whistle’ in the
+Neuters are the only sex that can 'whistle' in the
 lower frequencies and therefore the only ones who
 can speak with humans without the assistance of
 a frequency modulation device. In fact, neuters
@@ -20473,15 +20473,15 @@ ailments or other disabilities that prevent it, long-
 term exposure to the Whistlers causes humans to
 segment themselves into breeding groups. Males
 and females devote themselves to the practice of
-reproduction, aided by the skills of ‘matchers’ who
+reproduction, aided by the skills of 'matchers' who
 
 * in the human adaptation of the practice – form
 the third part of a polyamorous threesome, which
 contain two males and a female or two females and
-a male. The ‘neuters’ among Night’s humans are
+a male. The 'neuters' among Night's humans are
 physically capable of mating but choose a life of
 celibacy, focusing instead on the construction and
-maintenance of Night’s rather well-developed high-
+maintenance of Night's rather well-developed high-
 tech society. An interesting side effect enjoyed by
 the human neuters is a virtually unmatched ability
 to focus and concentrate on a task at hand. This
@@ -20490,7 +20490,7 @@ Imperial maximum Tech Level in spite of the fact that
 the world receives relatively few visitors due to its
 isolated location.
 
-The ‘Whistler effect’ wears off of most humans after
+The 'Whistler effect' wears off of most humans after
 a few months off planet. Those who leave Night
 often have a difficult time readjusting. Being born
 with strong biological imperatives and then having
@@ -20501,7 +20501,7 @@ withdrawal effects that can take weeks to overcome.
 
 Night is designated as an Amber Zone to warn visiting
 Travellers of the effects that come from cohabitation
-with the world’s native intelligent species. The Imperial
+with the world's native intelligent species. The Imperial
 Navy base in the system maintains a mostly separate
 existence for obvious reasons but naval personnel
 may sometimes be found on planet for short periods
@@ -20517,10 +20517,10 @@ a mutation occur or some other happenstance by
 which the effects became permanent and could be
 exported to neighboring worlds, the Imperium could
 have a huge problem on its hands. The developing
-Imperium used to ‘cleanse’ such worlds in the past
+Imperium used to 'cleanse' such worlds in the past
 but now tries to manage them more carefully. At
 the very least, a Red Zone designation might be
-warranted should any changes occur in Night’s
+warranted should any changes occur in Night's
 unique ecosystem.
 
 Cadion
@@ -20656,16 +20656,16 @@ ships and a decommissioned Azhanti High Lightning -
 class cruiser that is reserved for important operations.
 The official name of the cruiser is that of the ancient
 Vilani archives, Argushiigi Admegulasha Bilanidin , but
-the scouts call her the Librarian or ‘Libby’ for short. In
+the scouts call her the Librarian or 'Libby' for short. In
 addition to these, there are almost always elements
-from the Core Sector Fleet present in the system.
+from the [[Core sector]]  Fleet present in the system.
 
 In addition to serving as custodians of
 Encyclopaediopolis, the scout base includes extensive
 training facilities and a specialized fleet of x-boats and
 tenders. When new and important discoveries are
 made, the x-boat fleet is activated and its spacecraft
-are sent to Capital and other key worlds. The last major
+are sent to [[Capital]] and other key worlds. The last major
 data dump to Reference occurred in 1065 when the
 Second Grand Imperial Survey was completed.
 
@@ -20676,19 +20676,19 @@ Cadion
 Second Reference
 Reference contains the largest body of information and artefacts ever collected by Humaniti. The planet,
 and more specifically the data it contains, is of immense strategic importance to the Imperium. For that
-reason, the Imperium allegedly keeps a ‘Second Reference’ at some undisclosed location. Many x-boats
+reason, the Imperium allegedly keeps a 'Second Reference' at some undisclosed location. Many x-boats
 and long-range scout/couriers are said to carry secure, encrypted updates to Second Reference frequently
 in order to keep the two facilities as synchronised as possible.
 
-Information travels at the speed of jump and the same can be said for the preservation of Reference’s data
+Information travels at the speed of jump and the same can be said for the preservation of Reference's data
 stores. There is no other practical way to ensure this happens other than for starships to physically carry
 it there. That said, the location of this alleged Second Reference is a mystery. There are many rumors
 about its location, none of which have been confirmed by physical evidence. No starships have been
 directly tracked making the journey to Second Reference but then the scouts would do everything in their
-power to maintain its confidentiality. Some believe that a complete copy of Reference’s data is on Zikhi, the
+power to maintain its confidentiality. Some believe that a complete copy of Reference's data is on Zikhi, the
 system at the exact opposite corner of the Core. Others believe it is far away on a remote system in the
 Empty Quarter. There are those who think it is not in the Imperium at all but in fact on an unincorporated
-world in Star’s End, perhaps Enola or Miramon.
+world in Star's End, perhaps Enola or Miramon.
 
 The idea of a backup with a nearly complete copy of the data is entirely conceivable but there is simply
 no way to replicate the artefacts and samples at Reference. However, some surmise that Second
@@ -20745,7 +20745,7 @@ Fuel Shuttles x4 — 360.828
 
 **ADMEGULASHA BILANIDIN**
 
-**(THE LIBRARIAN OR ‘LIBBY’)**
+**(THE LIBRARIAN OR 'LIBBY')**
 
 **CLASS: AZHANTI HIGH**
 
@@ -20782,7 +20782,7 @@ Fuel Processor
 
 **ADMEGULASHA BILANIDIN**
 
-**(THE LIBRARIAN OR ‘LIBBY’)**
+**(THE LIBRARIAN OR 'LIBBY')**
 
 **CLASS: AZHANTI HIGH**
 
@@ -20811,8 +20811,8 @@ Virtual Gunner/2 — 10
 Common Areas 401 40.1
 Cargo 317 —
 
-*The ship’s Intellect program is a TL15 prototype that approaches the
-functionality of a Conscious Intelligence. It answers to the name ‘Libby’
+*The ship's Intellect program is a TL15 prototype that approaches the
+functionality of a Conscious Intelligence. It answers to the name 'Libby'
 and may be treated as a computer-bound NPC with INT 13 and EDU
 13, with a range of skills that can be uploaded, changed and improved
 (typically in the skill level 2–4 range).
@@ -20948,19 +20948,19 @@ Spinal Mount
 
 # CH'NAAR
 
-Ch’naar is dominated by its capital, Aursis, which
+Ch'naar is dominated by its capital, Aursis, which
 owns four other worlds in the subsector. Aursis
 has owned Okefir and Vala since they were initially
 colonized in the year 57 but more recently acquired
 Diam Kani and Siniir Sa. Aursis allegedly has its
 sights set on Anshar as well. Duchess daMae of
-Aursis claims that Aursis’ presence on so many
+Aursis claims that Aursis' presence on so many
 worlds is necessary to prevent a full-blown Chanestin
-insurgency from the Dunea subsector. Dubious
-Imperial intelligence officials and the Duchess’ rivals
+insurgency from the [[Dunea subsector]]. Dubious
+Imperial intelligence officials and the Duchess' rivals
 in the Moot have expressed concern that she is
 overstepping her boundaries and attempting to carve
-out an empire within the empire. Despite the Duchess’
+out an empire within the empire. Despite the Duchess'
 ravenous appetite for worlds, the Imperium has thus
 far resisted the urge to rein her in. The Sector Fleet
 has made some noise about sending squadrons to
@@ -20973,9 +20973,9 @@ The threat of a Chanestin insurgency is real and the
 presence of a bold and boisterous counterweight
 in the region might actually serve the Imperium
 well. While the Imperial Navy Admiralty has often
-expressed concern about Aursis’ aggression towards
-its neighbors, it could be a case of ‘they doth protest
-too much’. Aursis’ strong presence in Ch’naar might
+expressed concern about Aursis' aggression towards
+its neighbors, it could be a case of 'they doth protest
+too much'. Aursis' strong presence in Ch'naar might
 block the Chanestin from further expansion. It might
 well be that the Imperium is wilfully letting Aursis flex
 its muscles in the region so that the Imperial Navy
@@ -21001,7 +21001,7 @@ like their chances against their oppressors. While
 Aursis has a significant technological advantage, the
 harsh desert environment of Okefir is not something
 Aursisian troops are used to and a war of attrition
-could come out in Okefir’s favor.
+could come out in Okefir's favor.
 
 Headquartered at Aursis, the 150th Fleet consists of
 six squadrons and is heavily used as an instrument of
@@ -21016,9 +21016,9 @@ of the 150th is a hardy prototype of the new Voroshilef -
 class battleship which the shipyards at Dimanaam
 hope to make a staple of the Sector Fleet. The less-
 well-appointed 150th Colonial Fleet is tasked with
-patrolling Ch’naar’s spinward flank.
+patrolling Ch'naar's spinward flank.
 
-Tensions run high in Ch’naar, with nine systems
+Tensions run high in Ch'naar, with nine systems
 designated as Amber Zones. Many of these worlds
 have been spurred into action to help prevent
 Chanestin incursions and their Amber Zone
@@ -21495,12 +21495,12 @@ BAF5579-B
 Even in an empire with trillions of sophonts, there
 are outsized personalities who dominate worlds,
 subsectors and sometimes even entire sectors.
-Such is the case in the Ch’naar subsector where
+Such is the case in the Ch'naar subsector where
 the Duchess Colyere Hajesta daMae rules the
 roost. The duchess has had a distinguished – if
 controversial – career, starting with her military
 service. Born to the nobility on Cobham in the Old
-Expanses, daMae’s family had a multi-generational
+Expanses, daMae's family had a multi-generational
 history of service in the Imperial Navy. Young
 Colyere created a stir by breaking tradition and
 opting for service in the Imperial Marines where
@@ -21512,7 +21512,7 @@ that Colyere was a born leader.
 
 After retirement from the military, she became
 the matriarch of her family and countess of her
-homeworld. She was sent to Capital to join the
+homeworld. She was sent to [[Capital]] to join the
 deliberative body of the Moot. Colyere had a
 talent – some would say a misguided one – for
 boiling issues down to their basic elements and
@@ -21530,7 +21530,7 @@ style. Most of the peerage kowtow to the Emperor
 and there are few among them willing to tell him
 exactly what they think, which makes nobles like
 Colyere invaluable. After problems with Chanestin
-insurgents began to plague Ch’naar, the Moot
+insurgents began to plague Ch'naar, the Moot
 reassigned its subsector duke and put Colyere in
 his place, purportedly at the behest of the Emperor.
 That was 20 years ago and things have changed
@@ -21578,9 +21578,9 @@ TRAVELLER
 
 Diam Kani
 Diam Kani is the site of a failed terraforming experiment
-in which genetically engineered ‘airplants’ – a collection
+in which genetically engineered 'airplants' – a collection
 of oxygen-producing purplish-black plants, fungi and
-lichen – were strategically spread over the desert world’s
+lichen – were strategically spread over the desert world's
 surface in an effort to thicken its atmosphere. The original
 expedition to the world failed to find aquifers or other
 sources of liquid water and funding dried up before
@@ -21588,8 +21588,8 @@ they could import the needed hydrogen and nitrogen to
 make things work. Nevertheless, the resilient genetically
 engineered airplants have grown in abundance, extracting
 nitrogen and oxygen from the soil and distributing it
-into Diam Kani’s otherwise inhospitable atmosphere.
-Unfortunately, the planet’s lack of a magnetic field, small
+into Diam Kani's otherwise inhospitable atmosphere.
+Unfortunately, the planet's lack of a magnetic field, small
 size and proximity to its orange main sequence primary
 means oxygen generated by the airplants is bled off at
 a slightly slower rate than it is generated. In time, the
@@ -21601,7 +21601,7 @@ When Aursis acquired Diam Kani, it was assumed they
 would find a way to jumpstart the terraforming project
 and get things back on track. However, this was far from
 their intentions. Aursis has converted Diam Kani into a
-‘war world’, a place where squabbling systems in Ch’naar
+'war world', a place where squabbling systems in Ch'naar
 come to air out their grievances with one another so they
 do not have to wreak havoc on their own environments.
 Apparently, the idea originated from a chance encounter
@@ -21627,7 +21627,7 @@ geared crews from doing so.
 While the war world concept has yet to fully catch on,
 megacorporation Instellarms and other weapons dealers
 have set up shop at Diam Kani to sell their wares. Diam
-Kani’s atmosphere is very thin but rich in oxygen, which
+Kani's atmosphere is very thin but rich in oxygen, which
 means that demonstrations of mid-tech conventional
 
 arms produce impressive pyrotechnical displays. The
@@ -21672,21 +21672,21 @@ duchess, he finds himself considerably more restrained.
 Gidekisian government is based on a high degree
 of specialization with each of its widespread oceanic
 provinces focused on a unique industry. The largest
-‘continent’ in the Gide (the word used for the planet’s
+'continent' in the Gide (the word used for the planet's
 worldwide ocean) is Lemuria, which consists of a series
 of cities built on seamounts and floating grav platforms.
 Lemuria is the primary processing center for the Gidekis
 fishing industry which, like most Gidekisian operations,
 is highly automated. Other continents are focused on the
 fishing operations themselves, aquaculture and deep-sea
-mining. The high technology at Gidekis’ disposal means
+mining. The high technology at Gidekis' disposal means
 that little labour is performed by human hands but instead
 done remotely using specialized robots. These robots are
 designed on Gidekis and manufactured on Gandar.
 
 Ch'naar
 
-Menderis’ operations have recently come under scrutiny
+Menderis' operations have recently come under scrutiny
 by Aursisian authorities who have threatened to impose
 a subsector-wide embargo on trade with the Chanestin
 worlds. However, evidence suggests that Menderis has
@@ -21697,13 +21697,13 @@ Credits of business with Aursis and does not want to
 jeopardise his contracts with the subsector capital.
 Aursisian government agents and auditors are trying
 to catch Menderis in the act of smuggling goods to
-prohibited worlds in Dunea subsector but have so far
+prohibited worlds in [[Dunea subsector]] but have so far
 been unable to prove that anything is amiss. Despite the
-lack of a ‘smoking gun’, Aursis is pulling out all the stops
+lack of a 'smoking gun', Aursis is pulling out all the stops
 to drive Gidekis into submission. Aursisian diplomats are
 attempting to curry favor with the government of Zimmel,
 which owns Gandar. Aursis wants Zimmel to force Gandar
-to expel Menderis’ manufacturing operations on the world
+to expel Menderis' manufacturing operations on the world
 if they continue to flout the embargo. Menderis provides
 a lot of jobs on Gandar and Zimmel is hesitant to rock
 the boat; however, the Duchess of Aursis has promised
@@ -21718,19 +21718,19 @@ Hiilev is home to a human Minor Race of sorts but not
 one seeded there by the Ancients. The Hiidamo are
 descended from Vilani colonists who came to the world
 during the early settlement of Ukan (the Vilani name for
-the Core sector). It seems likely that they were genetically
+the [[Core sector]] ). It seems likely that they were genetically
 engineered to survive the conditions of the planet. They
-settled the lowlands of Hiilev’s richest river valley and
+settled the lowlands of Hiilev's richest river valley and
 developed dark and leathery skin that protects them from
-exposure to the harsh rays of the system’s primary star.
+exposure to the harsh rays of the system's primary star.
 The Hiidamo have large, overdeveloped lungs that can
-extract oxygen from the planet’s very thin atmosphere and
+extract oxygen from the planet's very thin atmosphere and
 filter out its sulphur-dioxide taint.
 
 The Hiidamo have a xenophobic culture and did not
 take well to the arrival of Imperial colonists in 420. The
 newcomers were more interested in gaining access to
-the world’s rich sea life than encroaching on Hiidamo
+the world's rich sea life than encroaching on Hiidamo
 territory but conflicts between the two groups occurred
 nonetheless. The colonists had superior technology and
 some factions among them wanted to commit genocide
@@ -21748,7 +21748,7 @@ sector has been buying up property and industrial capital
 on Krain and Mirror, two worlds with suitable environments
 for the high-gravity-oriented human Minor Race. The
 Geonee are eager to get a foothold in the Core market
-and an overemphasis on military matters in Ch’naar has
+and an overemphasis on military matters in Ch'naar has
 them believing they can make a splash by focusing on
 commercial pursuits by rapidly increasing the Tech Levels
 of both worlds and making them viable players in the
@@ -21804,8 +21804,8 @@ The pride of Dimanaam Shipyards is the
 _Voroshilef_ -class battleship, a hardy, versatile,
 well-armed capital ship that is built to last. The
 _Voroshilef_ is designed with a war of attrition in
-mind. In naval circles, it is called the ‘doomsday
-dreadnought’ not because it is more capable
+mind. In naval circles, it is called the 'doomsday
+dreadnought' not because it is more capable
 than other ships but more so because it is not.
 Its designers assert that its slightly lower Tech
 Level makes it invaluable in the event of a large,
@@ -22146,7 +22146,7 @@ Uundizi, Zimmel and Bussirka starports. This trio
 would very much like to incorporate the Chanestin
 worlds into what could become a vibrant subsector
 economy. While the Chanestin buy goods from
-coreward Dunea, many of them levy ‘phantom taxes’
+coreward Dunea, many of them levy 'phantom taxes'
 on visiting traders. It is against Imperial law to hinder
 free trade but making things inconvenient by charging
 exorbitant prices for routine services and fuel and
@@ -22181,7 +22181,7 @@ have been reconstructed for the public to marvel at.
 
 **Name Location Bases Statistics Trade Codes Travel Code Gas Giants**
 
-Adan 2336 D661696-6 Ni Ri G
+[[Adan]] 2336 D661696-6 Ni Ri G
 
 Adkhi 2138 E88876A-6 Ag Ri A
 
@@ -22444,7 +22444,7 @@ Planet (dry)
 Planet (water present)
 Scout Way Station
 
-To Ch’naar
+To Ch'naar
 
 MAASAANIN
 
@@ -22673,7 +22673,7 @@ BAB5423-A
 
 **CORE**
 
-###### DUNEA subsector
+###### [[Dunea subsector]]
 
 Over the centuries, Keshi amassed such an
 impressive collection of Chanestin Kingdom
@@ -22693,12 +22693,12 @@ brought in or how equitably it is distributed.
 
 Keshi has partnered with industrial Khea to capitalise
 on the pilgrimage and tourism industry, which brings
-in a large portion of Keshi’s total wealth. Part of
+in a large portion of Keshi's total wealth. Part of
 the appeal of Keshi to the Chanestin people is the
-world’s unwillingness to accept Imperial authority.
+world's unwillingness to accept Imperial authority.
 Keshi and Khea advocate the establishment of a
 Chanestin Worlds cultural zone and have actively
-stirred up insurgent groups on many of the kingdom’s
+stirred up insurgent groups on many of the kingdom's
 former worlds to help support their cause.
 
 Those with Chanestin heritage are not the only
@@ -22707,20 +22707,20 @@ are a big tourist draw for foreigners as well. The
 unique art, architecture and culture appeals to many
 people from elsewhere in the Core and millions of
 them make pilgrimages to the region to see the
-world’s wonders.
+world's wonders.
 
 Khii Isis
 This world has been called many things. During the
 era of the First Imperium, it was known as Gikhii
-Iis, roughly translated as ‘desolation’ or ‘dry death’,
+Iis, roughly translated as 'desolation' or 'dry death',
 which makes sense considering that its original Vilani
 colony died out during the Long Night. The world was
 resettled during the Chanestin era, who maintained
 the tradition of giving it a Vilani name but subtly
-changed it to Khii Isis, meaning ‘dry home’. There is
-a movement to change the world’s name yet again
+changed it to Khii Isis, meaning 'dry home'. There is
+a movement to change the world's name yet again
 to Ekal, which comes from the old Terran language
-of Hindi and means ‘solo’. The majority of the world’s
+of Hindi and means 'solo'. The majority of the world's
 current inhabitants are the descendants of Terran
 immigrants who came from the Indian subcontinent.
 
@@ -22755,10 +22755,10 @@ definitive studies that prove this to be the case. While
 there are no permanent bodies of water on the surface
 of the planet, Khii Isis has liquid water underground
 in artesian wells and aquifers, percolating to the
-surface due to tidal forces from the world’s moon and
-companion star. The world’s population expansion over
+surface due to tidal forces from the world's moon and
+companion star. The world's population expansion over
 the past few centuries has necessitated the drilling of
-hundreds of additional wells, co-located with the world’s
+hundreds of additional wells, co-located with the world's
 cities, towns and settlements.
 
 After the Chanestin yolk was thrown off, the locals
@@ -22780,16 +22780,16 @@ culture of Khii Isis had made its people intolerant of
 the nobility. While the world is technically under the
 administration of the Marquis Dauve-Oloi Dubois,
 he rarely visits Khii Isis, spending the majority of his
-time at his manor on Nadir or at Capital.
+time at his manor on Nadir or at [[Capital]].
 
 One term of military service is mandatory for all Khii
 Isisian citizens after which most go into farming
 or resource extraction. Hardy outdoors-people
 sometimes become wilderness and safari guides
-for tourists who come to see the planet’s stark and
+for tourists who come to see the planet's stark and
 beautiful vistas, and hunt its unusual animals. The
 most elusive of these creatures is the dunvic, also
-known as the ‘sandlion’. This 100 kilogram four-
+known as the 'sandlion'. This 100 kilogram four-
 legged predator resembles a Terran lion in form
 but is more similar to an armadillo in other regards.
 The dunvic is a stealthy animal with a carapace that
@@ -22839,13 +22839,13 @@ Uundizian traders continue to reach out to Keshi,
 Khea and other Chanestin worlds but even after
 a millennium there is little enthusiasm to join the
 Imperium. Uundizi commerce primarily flows to
-spinward where trade with Ch’naar is strong and to
-trailing where Uundizi’s high-tech wares compete with
+spinward where trade with Ch'naar is strong and to
+trailing where Uundizi's high-tech wares compete with
 those of Saregon. Subsector Duke Halaris Olchetomi
 has been encouraged to invest in trade junkets to the
 ailing Basilling Cluster in Chant but has seen little
 in the way of profit there. The duke has a number of
-estates along the profitable route towards Ch’naar but
+estates along the profitable route towards Ch'naar but
 only grudgingly visits the depressing and wayward
 Chanestin worlds to rimward.
 
@@ -22907,12 +22907,12 @@ orange star and two large stars, one red and
 one orange, representing the stars of Zimmel,
 Gandar and Shaaram. Orange bars connect the
 stars to each other. Salo is a multi-subsector
-line with its foot in both Dunea and Ch’naar.
+line with its foot in both Dunea and Ch'naar.
 While its logo is intended to express the
-corporation’s desire to unite the two subsectors,
+corporation's desire to unite the two subsectors,
 there is little evidence that either side embraces
 the notion. Dunea is largely a refuge for the
-Chanestin worlds and Ch’naar is under the
+Chanestin worlds and Ch'naar is under the
 direction of the decidedly anti-Chanestin
 Aursisians. The two sides often scoff at the
 blind idealism that the logo represents but Salo
@@ -22937,13 +22937,13 @@ the entire system could break down.
 
 To ensure the continued viability of the experiment,
 Salo has linked their operation to the vibrant
-economy of Ch’naar. A few decades ago, Salo
+economy of Ch'naar. A few decades ago, Salo
 purchased Gandar, the largest moon of the
-neighboring system’s only gas giant. Salo upgraded
-Gandar’s starport, invested in a fleet of automated
+neighboring system's only gas giant. Salo upgraded
+Gandar's starport, invested in a fleet of automated
 gas giant-skimming drones and converted the
 port into a refuelling station for traders who make
-their way to and from Ch’naar. While the move has
+their way to and from Ch'naar. While the move has
 significantly enhanced their fortunes, Gandarians
 have not entirely taken to the egalitarian anarchy
 concept and broken ranks with their parent world.
@@ -22955,7 +22955,7 @@ Dunea
 
 ## SAREGON
 
-Saregon is the Core’s most populated subsector with
+Saregon is the Core's most populated subsector with
 286 billion sophonts living on 39 worlds. It has nine high-
 population worlds, four of which are industrial. Saregon
 is one of the most powerful subsectors in the Core,
@@ -22967,7 +22967,7 @@ the Imperial dream. In others, it is a dystopian nightmare.
 Saregon has more than its share of police states and
 technologically enforced authoritarian regimes. There
 are eight worlds with Law Levels A+, all of which use and
-abuse surveillance technology to watch their people’s
+abuse surveillance technology to watch their people's
 every move. The draconian states on Dishadshii, Igla,
 Milpa and Dinad take the concept to another level;
 citizens are fitted with tracking devices at birth and
@@ -23007,12 +23007,12 @@ instructed the Imperial Navy to keep a close eye on
 events to ensure they do not boil over into a full-blown
 mercantile conflict.
 
-The Imperial Navy’s 273rd Fleet has its hands full in
-Saregon, patrolling the Core’s borders, defending
+The Imperial Navy's 273rd Fleet has its hands full in
+Saregon, patrolling the Core's borders, defending
 trade routes, quelling problems on its nine Amber Zone
 worlds, ensuring corporate conflicts do not escalate
 into something more and keeping a watchful eye on
-the Chanestin worlds on Saregon’s spinward flank.
+the Chanestin worlds on Saregon's spinward flank.
 The 273rd has 10 full squadrons at its disposal and has
 appointed highly regarded officers from the Admiralty
 to command them. Saregon has an aggressive,
@@ -23030,7 +23030,7 @@ some of the chaos.
 The _Starburst of Extreme Heroism_ -class, or _SEH_ -
 class for short, is a common sight throughout
 Imperial space and may be found serving in many
-of the empire’s numbered fleets. It is essentially a
+of the empire's numbered fleets. It is essentially a
 
 more rounded and streamlined version of the larger
 Ghalalk -class cruiser. The form factor of the two
@@ -23715,7 +23715,7 @@ TRAVELLER
 
 Dinenruum
 Dinenruum is a Trojan planet, perched in the L4
-Lagrange point of the system’s orange subgiant primary
+Lagrange point of the system's orange subgiant primary
 and the larger of its two red dwarf companions. The
 rarity of this phenomenon makes Dinenruum a natural
 wonder of Charted Space.
@@ -23736,7 +23736,7 @@ soon abandoned without the infrastructure to support it.
 
 The remaining population are mostly transient
 corporate workers on Dinenruum to extract mineral
-resources. The system’s two planetoid belts are
+resources. The system's two planetoid belts are
 reasonably rich and have a decently sized belter
 community. The University of Ashga is attempting to
 raise funds to restore the research station so that local
@@ -23762,9 +23762,9 @@ Iglan society has multiple castes, each of which has
 access to different levels of technology. The lowest
 caste is only given access to facilities and equipment
 of approximately TL7. The church uses surveillance
-technology to monitor how ‘devout’ its citizens are and
+technology to monitor how 'devout' its citizens are and
 grants access to ever-greater levels of technology to
-those who show sufficient levels of ‘enlightenment’
+those who show sufficient levels of 'enlightenment'
 with TL14 restricted to the priesthood and the Order
 of Fusion, the armed and armored guardians of Igla.
 The order pledges fealty to the Imperial Army and are
@@ -23791,7 +23791,7 @@ must always be given a long, hard look.
 
 Saregon
 The Anarque of Saregon is a powerful computer
-network that manages the lives of the planet’s 10 billion
+network that manages the lives of the planet's 10 billion
 inhabitants. All of their basic needs are provided by
 automated and sustainable systems so the motivation
 to work is limited. In order to provide for everyone,
@@ -23806,7 +23806,7 @@ authorities but Saregonian culture is open and allows
 the Imperium to probe and analyse the system as much
 as they like.
 
-The Anarque subdivides the world’s inhabitants
+The Anarque subdivides the world's inhabitants
 according to needs, so provincial borders vary from
 day-to-day even if the location of residents does not.
 Most Saregonians do not engage in work as most
@@ -23822,7 +23822,7 @@ which appears to be absolutely necessary. Some have
 joked that the Saregonians are on a life-long scavenger
 hunt forced upon them by its ruling computer system.
 
-The world’s opportune location on a sizable jump-
+The world's opportune location on a sizable jump-
 1 main has made it rich from trade, the bounties of
 which are shared among its populace. Wealth is not
 shared equally but according to need and relatively
@@ -23838,7 +23838,7 @@ one lacks self-determination. Should one province or
 another exceed its quota of citizens, sonic inhibitors
 in the arcologies impede further conception until the
 numbers balance out again. Critics of these techniques
-have called them ‘soft eugenics’ but most Saregonians
+have called them 'soft eugenics' but most Saregonians
 just see it as the Anarque being practical. Neighbouring
 systems such as Sinad, Ganad, Igla and Shakiiga have
 runaway population crises that result in an endless
@@ -24001,7 +24001,7 @@ Bright-Side Crawler ................................................ 141
 Brygella................................................................... 198
 Bunkeria ................................................................. 172
 Cadion .................................................................... 198
-Capital .................................................................... 155
+[[Capital]] .................................................................... 155
 Castell..................................................................... 111
 Cemplas ................................................................. 178
 Chant ...................................................................... 186

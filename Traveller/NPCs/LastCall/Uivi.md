@@ -12,7 +12,7 @@ tags:
 
 SENESCHAL BETRO Uivi
 
-Uivi is the spokesman and chief administrator for [[Countess Tranard]]. He would very much like to see her take a more activist role in Imperial politics. Uivi is a regular at Eneri’s Cantina.
+Uivi is the spokesman and chief administrator for [[Countess Tranard]]. He would very much like to see her take a more activist role in Imperial politics. Uivi is a regular at Eneri's Cantina.
 
 ![[CA2-50_1476396048.jpg]]
 

@@ -1109,7 +1109,7 @@ On the Trade tables, row 31, Crystals and Gems, can be bought and sold here. The
 
 (Sonchi)
 
-The most famous landmark in Castrobancla, the Great Spinward Hotel is also Castrobancla’s biggest building.
+The most famous landmark in Castrobancla, the Great Spinward Hotel is also Castrobancla's biggest building.
 
 Dominating the wide, palm-tree lined central boulevard that is Sonchi Ward's Celeresteral Avenue ( the place to shop if your Social Standing is 13 or higher), the Great Spinward is a truncated glass-sided pyramid nearly a kilometer high and a full kilometer across at ground level.
 

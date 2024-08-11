@@ -86,7 +86,7 @@ These features have been standardized since the days of the [Ziru Sirka](https:/
 This [Institution](https://wiki.travellerrpg.com/Institution "Institution") is currently located in the following astrographic regions:  
 **[Charted Space](https://wiki.travellerrpg.com/Charted_Space "Charted Space"):**
 
-*   [Core Sector](https://wiki.travellerrpg.com/Core_Sector "Core Sector")
+*   [[[Core sector]] ](https://wiki.travellerrpg.com/Core_Sector "[[Core sector]] ")
     *   [Cemplas Subsector](https://wiki.travellerrpg.com/Cemplas_Subsector "Cemplas Subsector")
         *   [Shalam](https://wiki.travellerrpg.com/Shalam_(world) "Shalam (world)") - The AAB Branch on [Shalam](https://wiki.travellerrpg.com/Shalam_(world) "Shalam (world)") is a repository and research laboratory dedicated to the study of the ancient [Memory Alpha](https://wiki.travellerrpg.com/Memory_Alpha "Memory Alpha") [artifact](https://wiki.travellerrpg.com/Artifact "Artifact"). There is no [University of Kasiiga](https://wiki.travellerrpg.com/University_of_Kasiiga "University of Kasiiga") branch on Shalam.
 *   [Dagudashaag Sector](https://wiki.travellerrpg.com/Dagudashaag_Sector "Dagudashaag Sector")

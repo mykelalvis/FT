@@ -5,6 +5,7 @@ date created: 2024-08-10 07:14 tags:
   - Tktk
   - Dpres_Subsector
   - Trojan_Reach
+  - TkTk
 ---
 
 ![[TktTkt-015.jpg|200]]
@@ -12,23 +13,23 @@ date created: 2024-08-10 07:14 tags:
 Rimward Void Adventure 1
 ©2018 Christopher Griffen, <cgriffen67@gmail.com>
 
-# INTRODUCTION
+# Introduction
 
-“The Tktk Convergence” is a story of entrapment. The travellers are invited by Dr. Jayne [[Bledsoe]], a notable psionicist and Ancients researcher, to participate in a scientific expedition on the seemingly inconsequential world of Tktk in the Trojan Reach sector. They unwittingly become embroiled in an alien plot to capture and enslave technical talent to help rebuild a declining interstellar society several parsecs away.
+“The Tktk Convergence” is a story of entrapment. The travellers are invited by Dr. Jayne [[Bledsoe]], a notable psionicist and Ancients researcher, to participate in a scientific expedition on the seemingly inconsequential world of [[Tktk]] in the [[Trojan Reach]] sector. They unwittingly become embroiled in an alien plot to capture and enslave technical talent to help rebuild a declining interstellar society several parsecs away.
 
 This adventure is structured as a series of events that occur over a specified period of time. How the travellers participate in those events and the possible outcomes is up to you, the referee. While there are varying degrees of success the travellers can have at the conclusion of this adventure, the goal is to set up the second adventure in a three-part series. Because of that, "The Tktk Convergence" ends on a cliffhanger.
 
 If you would prefer to run "The Tktk Convergence" as a standalone adventure, there are many ways you can alter it so that the story's outcome is more conclusive.
 
-This adventure should start in the vicinity of the Tktk system; however, travelling to Tktk can be part of the story. The travellers’ initial goal is to reach a remote settlement on Tktk where an Ancients site is purported to be. They may have been summoned by a contact, called to action as detached-duty scouts, hired as a small mercenary security team, or arrive on the planet via another plot device that suits your campaign.
+This adventure should start in the vicinity of the [[Tktk]] system; however, travelling to [[Tktk]] can be part of the story. The travellers' initial goal is to reach a remote settlement on [[Tktk]] where an Ancients site is purported to be. They may have been summoned by a contact, called to action as detached-duty scouts, hired as a small mercenary security team, or arrive on the planet via another plot device that suits your campaign.
 
 While the initial signs at the dig site are encouraging, it becomes apparent that a ruse has been planted to make the site look as if the Ancients once dwelled there, when in fact they did not.
 
-Behind the scenes and unbeknownst to the travellers is an agreement between a vassal clan of Glorious Empire Aslan and agents from the Acis system. Acis has become newly empowered in the region after Aslan mercenaries from the Empire have helped them defeat Tyr, which had dominated the region for centuries. Acis’ victory is tenuous at best due to multiple factors...
+Behind the scenes and unbeknownst to the travellers is an agreement between a vassal clan of Glorious Empire Aslan and agents from the Acis system. Acis has become newly empowered in the region after Aslan mercenaries from the Empire have helped them defeat Tyr, which had dominated the region for centuries. Acis' victory is tenuous at best due to multiple factors...
 
 # Tyr
 
-Acis’ perennial adversary is down but not out. For centuries, Tyr’s technological advantages and starship-manufacturing capabilities enabled them to oppress the other star systems of the region known as the Dustbelt
+Acis' perennial adversary is down but not out. For centuries, Tyr's technological advantages and starship-manufacturing capabilities enabled them to oppress the other star systems of the region known as the Dustbelt
 (a.k.a., the Sindalian Main).
 
 Now in tatters after losing a series of space and ground battles to Acis and the Aslan, Tyr desperately defends its shipyards with all of its remaining strength. They hope to rise from the ashes and once again dominate the region, but it might be too late to regain what they have lost.
@@ -41,7 +42,7 @@ It turns out that Thalassans on both sides are secretly colluding to ensure that
 
 # The Glorious Empire
 
-Acis has opened a Pandora’s Box by employing Aslan mercenaries. The Aslan have tipped the balance of power toward Acis, but their proliferation in the region has given them a taste of the things they most desire: new lands to conquer and the survival of their empire.
+Acis has opened a Pandora's Box by employing Aslan mercenaries. The Aslan have tipped the balance of power toward Acis, but their proliferation in the region has given them a taste of the things they most desire: new lands to conquer and the survival of their empire.
 
 After decades of losing one system after another to the Aslan Hierate, the Glorious Empire has become emboldened by their success in the Dustbelt Wars.
 
@@ -51,18 +52,18 @@ The clans of the Empire are now eyeing several worlds in the Dustbelt for possib
 
 The defeat of Tyr has created a power vacuum. While the systems of the Dustbelt chafed under the cruel tyranny of the Tyrian Lordships, a semblance of order had fallen upon the region. Economies had become stagnant, governments became apathetic, and the people of the region had become resigned to life under Tyrian oppression. With Tyr's diminished status, the winds of change are blowing. To wit:
 
-- Basking in victory, Acis seems uncertain what to do with its newfound power, but they have a more pressing matter: legions of land-hungry Aslan mercenaries who aren’t eager to go back home to the Glorious Empire.
-- The citizens of Janus endured the worst of Tyr’s assaults a century ago. Thousands of Janusians died, and many more fled the system, forming refugee communities on Solaris, Dpres, Lacidaeus, and Caldos. With Tyr defeated, the refugees of Janus are returning from their diaspora and they want their homeworld back.
+- Basking in victory, Acis seems uncertain what to do with its newfound power, but they have a more pressing matter: legions of land-hungry Aslan mercenaries who aren't eager to go back home to the Glorious Empire.
+- The citizens of Janus endured the worst of Tyr's assaults a century ago. Thousands of Janusians died, and many more fled the system, forming refugee communities on Solaris, Dpres, Lacidaeus, and Caldos. With Tyr defeated, the refugees of Janus are returning from their diaspora and they want their homeworld back.
 - A Thalassan advisor serving the ruling bureaucracy of Acis was recently discovered visiting the Tyr system. The situation has escalated into a scandal and is receiving attention by local journalists.
 - The Sages of Ace have predicted that an offworlder will become their new king. Acian acolytes are roving the Dustbelt, searching for their messiah.
 
-There is no shortage of trouble in the region and the travellers have unwittingly stepped into a hornet’s nest.
+There is no shortage of trouble in the region and the travellers have unwittingly stepped into a hornet's nest.
 
 ### Why Tktk?
 
 Tktk has largely been spared from the mayhem of the Dustbelt. It is a world of little consequence with a dismal economy, low technology, and a populace that is disinterested in events happening outside their system.
 
-While Tktk has been victimized by raiders from time to time, they have mostly been left alone because the system is of so little worth. Visitors usually skim Tktk’s gas giants for fuel and move on to the next star system.
+While Tktk has been victimized by raiders from time to time, they have mostly been left alone because the system is of so little worth. Visitors usually skim Tktk's gas giants for fuel and move on to the next star system.
 
 Recent events have threatened to change things for Tktk, and not in a good way. A faction of the Acisian Intelligence Agency (AIA) has concocted a plan to divert some of their unwanted Aslan guests to neighboring systems. Unable to get the Aslan to go back home, they have encouraged them to engage in various enterprises on some of the less occupied worlds of the Dustbelt. One of those worlds is Tktk.
 
@@ -70,7 +71,7 @@ The ruling bureaucracy of Acis is a fairly benign agency. Smarting from centurie
 
 While they foresaw the day when they would defeat Tyr, they had no plan for what to do next.
 
-Despite Acis’ vague notions of regional prosperity and their desire to be a force for good, oversight has its limitations. A rogue element in the AIA has cooked up a plan to give an Aslan clan something they crave almost as much as land: technical talent to revitalize the ailing Glorious Empire.
+Despite Acis' vague notions of regional prosperity and their desire to be a force for good, oversight has its limitations. A rogue element in the AIA has cooked up a plan to give an Aslan clan something they crave almost as much as land: technical talent to revitalize the ailing Glorious Empire.
 
 ### Entry Points
 
@@ -88,7 +89,7 @@ The travellers are summoned to Dostoevsky by Dr. Jayne [[Bledsoe]], a renowned A
 
 While visiting Thalassa or a neighboring system, the travellers are approached by Madrina Lapoor, chief emissary of the Kokhapadrikhassa clan from Thalassa. She seeks passage to the Tyr system.
 
-Lapoor has signed a contract to serve as Vice Vizier to the Tyrant of Tyr and must get to the system as soon as possible. Thalassa’s dearth of starships means that even their advisors must hitch a ride on commercial spacecraft from time to time.
+Lapoor has signed a contract to serve as Vice Vizier to the Tyrant of Tyr and must get to the system as soon as possible. Thalassa's dearth of starships means that even their advisors must hitch a ride on commercial spacecraft from time to time.
 
 Lapoor wants to purchase a high passage for herself, mid passages for her bodyguards and aides, and low passages for her clerks.
 
@@ -116,9 +117,9 @@ With the tumult in the Dustbelt and the increasingly intrusive presence of Acis,
 
 If one or more of the travellers in your group are ex- scouts, “The Tktk Convergence” makes an excellent detached-duty assignment, especially for travellers in possession of a loaned scout/courier.
 
-## RUMORS, EVENTS, AND ENCOUNTERS
+## Rumors, Events, and Encounters
 
-During the travellers’ journey to Tktk, there are many opportunities to glean information from the systems they visit. Conversations at a starport bar, small talk with a broker, or radio chatter can reveal many things.
+During the travellers' journey to Tktk, there are many opportunities to glean information from the systems they visit. Conversations at a starport bar, small talk with a broker, or radio chatter can reveal many things.
 
 The sections below deal with three categories of rumors the travellers are likely to encounter: general rumors that may be heard anywhere along the Dustbelt, rumors from Tyr, and rumors from Acis. In addition to each of these, there is a scripted encounter with the Aslan from the Tktk-bound slaver flotilla that must occur before the travellers get to Tktk. This encounter is intended to convey that the latent Aslan mercenary forces have become a problem on par with all the other hazards in the region.
 
@@ -131,21 +132,21 @@ Roll on this table for rumors in any system of the Dustbelt other than Tyr or Ac
 | 1D  | Result                                                                                                                                                                                                                                                                      |
 | :-: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |  1  | A sensor op on a GeDeCo freighter overheard some chatter in Trokh (the primary language of the Aslan) while his ship was performing wilderness refueling at a gas giant. While Aslan traders are not uncommon, the clandestine nature of the communications was unsettling. |
-|  2  | Pirate activity has been more common at the system’s gas giants since Acis defeated Tyr. During Tyr's reign, _they_ were the primary perpetrators of piracy and raiding. Now the pirate crews are independent.                                                              |
+|  2  | Pirate activity has been more common at the system's gas giants since Acis defeated Tyr. During Tyr's reign, _they_ were the primary perpetrators of piracy and raiding. Now the pirate crews are independent.                                                              |
 |  3  | A denizen of one of the local systems expresses happiness with the new status quo. With no side having dominance over the region, everybody wins.                                                                                                                           |
 |  4  | Aslan mercenaries on leave have been seen setting up camps in the outback near the down starport. No one is quite sure if they are training camps or ihatei.                                                                                                                |
 |  5  | The travellers meet Yásoisthea Aslan traders: “We have seen more Glorious Empire traders at Goertel recently. I am not sure why. They have so little to trade and their manufactured goods are unreliable.”                                                                 |
-|  6  | The travellers meet a group of barnai Florian traders: “I don’t know what the Acisians are talking about. We do _not_ have an arrangement with Tyr and there isn’t one in the works. I would know. I’m very well connected.”                                                |
+|  6  | The travellers meet a group of barnai Florian traders: “I don't know what the Acisians are talking about. We do _not_ have an arrangement with Tyr and there isn't one in the works. I would know. I'm very well connected.”                                                |
 
 ### Tyr: System On Fire
 
-Should the travellers stop at Tyr enroute to Tktk, they find themselves in a besieged system. Several brushfire battles alight its orbitals and the mainworld surface, some of which are being fought by the vaunted Aslan mercenaries. The Tyrant of Tyr is doing her level best to manage the chaos, but it’s clear that the system has descended into chaos.
+Should the travellers stop at Tyr enroute to Tktk, they find themselves in a besieged system. Several brushfire battles alight its orbitals and the mainworld surface, some of which are being fought by the vaunted Aslan mercenaries. The Tyrant of Tyr is doing her level best to manage the chaos, but it's clear that the system has descended into chaos.
 
 If the travellers only go to the gas giant for wilderness refueling, they discover they are in the middle of an ongoing battle between Tyrian system defense forces and Aslan mercenary starships. They can skim if they like, but the risk of being mistaken as any enemy ship by one side or the other is high.
 
 If the travellers arrive at the system mainworld, they are immediately hailed by a Tyrian commerce raider serving as a patrol corvette. The crew of the ship requests that the travellers decelerate for inspection before they proceed to the orbital starport.
 
-The inspection is carried out rapidly but as thoroughly as possible. The boarding party appears to be exhausted and overworked. Provided they don’t discover any contraband or supplies bound for the enemy during the inspection, the travellers are allowed to go their merry way...after they pay the "toll," of course: The Tyrians demand 2–4 tons of cargo from the travellers as the price for entry into the Tyr system. What can we say? Raider and pirate culture dies hard. If the travellers balk, the Tyrians will accept a small bribe of Cr5,000-10,000.
+The inspection is carried out rapidly but as thoroughly as possible. The boarding party appears to be exhausted and overworked. Provided they don't discover any contraband or supplies bound for the enemy during the inspection, the travellers are allowed to go their merry way...after they pay the "toll," of course: The Tyrians demand 2–4 tons of cargo from the travellers as the price for entry into the Tyr system. What can we say? Raider and pirate culture dies hard. If the travellers balk, the Tyrians will accept a small bribe of Cr5,000-10,000.
 
 As they reach visual range, the travellers see that the starport has been assaulted. The structure has suffered multiple attacks using missiles and particle accelerators. Several Tyrian warships (two destroyers and a dozen or so smaller ships) are stationed in defense of the starport.
 
@@ -171,16 +172,16 @@ As they interact with locals and visitors, the travellers may check for rumors u
 | 1-2 | Tyr is a buyer on the arms market, legal and otherwise. _Referee's note:_ This rumor is true and given the current chaos, the travellers can make a pretty penny selling weaponry to the beleaguered Tyrians.                                                                                                                                                               |
 |  3  | The travellers are contacted by Tyrian intelligence agents who want to know what systems they have been to recently. They offer to pay for useful information.                                                                                                                                                                                                              |
 |  4  | A Tyrian trader at a starport bar laments that ever since Acis has been hiring Aslan mercenaries to “fight their wars” Tyr has been effectively cut off from the trailing Sindalian main.                                                                                                                                                                                   |
-|  5  | “Acis might be planning an all-out assault on our orbital starport using their Aslan mercenaries. They plan to completely destroy it.” If the travellers pursue this lead, they’ll hear the alternative position from offworlders: “Yeah, the Tyrians have been saying that for years. Sure, Acis did a lot of damage, but they don’t have the guns to wipe the place out.” |
-|  6  | “It’s no secret we’re trying to shore up our ties with Floria. Word has it Acis doesn’t have the forces for an all-out attack, so they’re planning on cutting us off at Sagan. Acis has a zillion spies in that port and plan to sabotage anything we get going there.”                                                                                                     |
+|  5  | “Acis might be planning an all-out assault on our orbital starport using their Aslan mercenaries. They plan to completely destroy it.” If the travellers pursue this lead, they'll hear the alternative position from offworlders: “Yeah, the Tyrians have been saying that for years. Sure, Acis did a lot of damage, but they don't have the guns to wipe the place out.” |
+|  6  | “It's no secret we're trying to shore up our ties with Floria. Word has it Acis doesn't have the forces for an all-out attack, so they're planning on cutting us off at Sagan. Acis has a zillion spies in that port and plan to sabotage anything we get going there.”                                                                                                     |
 
 ### Acis: Unwanted Guests
 
-After defeating Tyr, Acis has exhibited what might best be called political paralysis. Some argue that it is Acis’ time to shine. Acis is a rich world with a significant population and healthy industries. With Tyr out of the way, many on Acis believe it is their time to dominate the Dustbelt.
+After defeating Tyr, Acis has exhibited what might best be called political paralysis. Some argue that it is Acis' time to shine. Acis is a rich world with a significant population and healthy industries. With Tyr out of the way, many on Acis believe it is their time to dominate the Dustbelt.
 
 Others, however, smart at the prospect of emulating their former oppressors. The counter-culture movement on Acis has taken on a subversive tone. There have been riots and an uptick in anti-government rhetoric.
 
-In addition, Acis has more pressing matters at hand with legions of Aslan mercenaries setting up makeshift camps on Acis and Hecarda, more or less making themselves at home. It was expected that the Aslan would leave after the fighting was over, but it hasn’t played out that way.
+In addition, Acis has more pressing matters at hand with legions of Aslan mercenaries setting up makeshift camps on Acis and Hecarda, more or less making themselves at home. It was expected that the Aslan would leave after the fighting was over, but it hasn't played out that way.
 
 Acis finds itself at a crossroads: enjoying its newfound strength and trying to pave a way forward, but the road seems to have some bumps in it.
 
@@ -193,10 +194,10 @@ After successful Streetwise or Carouse check, roll 2D on the [[#Acis Rumor Table
 | 2-3  | The Acisian defense forces have been on heightened alert recently. Is Tyr planning an offensive?                                                                                                                                                                                                                                                                                              |     |
 |  3   | Trade traffic from the Aslan Hierate has been noticeably higher recently.                                                                                                                                                                                                                                                                                                                     |     |
 | 4-5  | Officials from the IISS were recently seen at Acis orbital starport. They did not appear to be an official delegation. After a meeting with government officials, they returned to their ship and jumped out of system.<br/>**Referee's note**: Further investigation reveals that the courier had the ID, C-006992. Turns out it is a detached duty scout that jumped into system from Tktk. |     |
-|  6   | There’s money in smuggling weapons to Tktk for aspiring traders. Strange since Tktk is a peaceful world with no outward signs of instability or insurrection.                                                                                                                                                                                                                                 |     |
+|  6   | There's money in smuggling weapons to Tktk for aspiring traders. Strange since Tktk is a peaceful world with no outward signs of instability or insurrection.                                                                                                                                                                                                                                 |     |
 | 7-8  | A shipment of TL-10 arms, minus trigger mechanisms, were recently sold to an unknown party.<br/>**Referee's note**: Triggerless weaponry is typical when selling to an alien race with a different digital array (i.e., fingers) than humans.                                                                                                                                                 |     |
 | 9-10 | Acis is concerned that Tyr might be getting military aid from the Florian League and planning a counter- attack in the near future.                                                                                                                                                                                                                                                           |     |
-|  11  | “The Aslan presence is no big deal. We’ve been strengthening ties with the Aslan for years. They’re good trading partners.”<br/>Further investigation reveals that, yes, Acis has previously employed Aslan from the Yásoisthea before, but never from the Glorious Empire...until now.                                                                                                       |     |
+|  11  | “The Aslan presence is no big deal. We've been strengthening ties with the Aslan for years. They're good trading partners.”<br/>Further investigation reveals that, yes, Acis has previously employed Aslan from the Yásoisthea before, but never from the Glorious Empire...until now.                                                                                                       |     |
 |  12  | There has been an increased presence of freebooters (independent pirates) since Tyr was vanquished.                                                                                                                                                                                                                                                                                           |     |
 ### Run-In with the Aslan
 
@@ -206,26 +207,26 @@ The travellers most likely meet _Eikhalr_ -class corvette starship crews or a sq
 
 Find a way to make the encounter contentious. Remember: These Aslan are from the Glorious Empire, the most Aslan of all Aslan! Despite their declining empire and waning technology, they still see theirs as the one, true way. All other Aslan pale in comparison and other sentient races rate even lower...much lower!
 
-The dispute might result in a duel with one or more of the Aslan if it goes far enough. If the Aslan win the duel, there will be a great deal of banter and celebration, essentially rubbing the travellers’ noses in it. If the travellers manage to win, the Aslan are bound by honor to accept the results of the contest, but that doesn’t mean they have to like it. They will grudgingly skulk off, accepting the result, but declaring that the next time they meet, the human mongrels won’t be so lucky!
+The dispute might result in a duel with one or more of the Aslan if it goes far enough. If the Aslan win the duel, there will be a great deal of banter and celebration, essentially rubbing the travellers' noses in it. If the travellers manage to win, the Aslan are bound by honor to accept the results of the contest, but that doesn't mean they have to like it. They will grudgingly skulk off, accepting the result, but declaring that the next time they meet, the human mongrels won't be so lucky!
 
-## TKTK TOCK
+## Tktk Tock
 
 ![[TktTkt-051.jpg|100]]
 [[TktTkt-051.jpg|TktTkt Image]]
 
-Everything leading up to this point is intended to set up the travellers’ experience on Tktk. After the rumors they hear, and the things they see on the other worlds of the Dustbelt, they might notice what a precarious position Tktk is in.
+Everything leading up to this point is intended to set up the travellers' experience on Tktk. After the rumors they hear, and the things they see on the other worlds of the Dustbelt, they might notice what a precarious position Tktk is in.
 
 Tktk might best be described as the Pollyanna of the Dustbelt. Despite the chaos and destruction in the region, the denizens of this backwater world go about their business as if none of it is happening.
 
-Tktk is a non-aligned system and despite the current presence of the IISS, the planet cannot count on the Imperium’s assistance should things go badly.
+Tktk is a non-aligned system and despite the current presence of the IISS, the planet cannot count on the Imperium's assistance should things go badly.
 
 For decades, Tktk has counted on the protection of Tyr. The Tyrian lordships mostly left Tktk alone. As long as access to its gas giants and meager orbital starport was unfettered, Tyr was committed to the security and independence of the planet.
 
 That has changed.
 
-With the recent slew of victories by Acis over Tyr, many of them facilitated by the legions of Aslan mercenaries that Acis has employed, Tktk’s security has come into question.
+With the recent slew of victories by Acis over Tyr, many of them facilitated by the legions of Aslan mercenaries that Acis has employed, Tktk's security has come into question.
 
-Acis, currently pressing for a ceasefire with Tyr, is in need of diversions for the Aslan mercenaries who are squatting in the Dustbelt, waiting for their next ticket. The Glorious Empire has been whittled away by the Hierate for decades and sees the current situation as an invitation to plunder. The Glorious Empire isn’t likely to conquer highly populated or technologically advanced worlds like Tyr, Acis, Caldos, or Ace, but the smaller, more backwater worlds in the region are ripe for the picking as far as they are concerned.
+Acis, currently pressing for a ceasefire with Tyr, is in need of diversions for the Aslan mercenaries who are squatting in the Dustbelt, waiting for their next ticket. The Glorious Empire has been whittled away by the Hierate for decades and sees the current situation as an invitation to plunder. The Glorious Empire isn't likely to conquer highly populated or technologically advanced worlds like Tyr, Acis, Caldos, or Ace, but the smaller, more backwater worlds in the region are ripe for the picking as far as they are concerned.
 
 The Empire has no master plan at the moment but they see the increased presence of their mercenaries in the region as a foothold for the coreward expansion for their beleaguered state.
 
@@ -234,15 +235,15 @@ Having multiple regiments of restless Aslan among their ranks has become a big n
 Case in point: The AIA is allowing the Aslan to make limited slaving runs on Tktk and Hecarda while Acis
 “looks the other way” as long as the mercenaries promise to take their new acquisitions back home to Glorious Empire space immediately thereafter.
 
-Members of Acis’ ruling bureaucracy are blissfully unaware that any of this is happening...by design. It wouldn’t do to be involved in something so unseemly when you are ensconced in the role of “savior of the Dustbelt.”
+Members of Acis' ruling bureaucracy are blissfully unaware that any of this is happening...by design. It wouldn't do to be involved in something so unseemly when you are ensconced in the role of “savior of the Dustbelt.”
 
-Acis’ sharp division of labor, with positions assigned based on gender and talent, enables this fiction to take place. When the right hand does not know what the left hand is doing (and implicitly trusts the left hand to do it), it is much easier to absolve oneself of guilt.
+Acis' sharp division of labor, with positions assigned based on gender and talent, enables this fiction to take place. When the right hand does not know what the left hand is doing (and implicitly trusts the left hand to do it), it is much easier to absolve oneself of guilt.
 
 ### Sentient Trafficking
 
-Ferlyewá Yetrai is the grizzled patriarch of the Yetrai clan of Yeróilra/Goertel. The Yetrai have been in the employ of Acis for years and have been murderously successful. They have enjoyed fighting Acis’ battles so much that they would rather wait for the next ticket than return to their dismal rockball world in the Glorious Empire.
+Ferlyewá Yetrai is the grizzled patriarch of the Yetrai clan of Yeróilra/Goertel. The Yetrai have been in the employ of Acis for years and have been murderously successful. They have enjoyed fighting Acis' battles so much that they would rather wait for the next ticket than return to their dismal rockball world in the Glorious Empire.
 
-AIA agents approached the Yetrai with the Tktk offer several months ago. Ferlyewá’s primary wife, Ahfoisa, was immediately interested but sought to sweeten the deal. The Glorious Empire is struggling to hold territory in large part because of its lack of technical innovation and Yeróilra is feeling the sting worse than most. They have plenty of slave labor, but what they really need is technical talent, which is in short supply in the Empire. Ahfoisa posited that if Acis could guarantee access to technically skilled slaves for the Yetrai to capture on Tktk, they would be more interested in the deal.
+AIA agents approached the Yetrai with the Tktk offer several months ago. Ferlyewá's primary wife, Ahfoisa, was immediately interested but sought to sweeten the deal. The Glorious Empire is struggling to hold territory in large part because of its lack of technical innovation and Yeróilra is feeling the sting worse than most. They have plenty of slave labor, but what they really need is technical talent, which is in short supply in the Empire. Ahfoisa posited that if Acis could guarantee access to technically skilled slaves for the Yetrai to capture on Tktk, they would be more interested in the deal.
 
 Creating a honey trap to catch scientists and engineers on a backwater like Tktk would be no easy task. It would require a certain degree of cunning. One of the AIA agents suggested that if only the planet were an Ancients site, like Dostoevsky or Akhwohkyal, there would be an incentive for geologists, archaeologists, and other academics to go there. Many Chirper worlds have Ancients sites, but no significant finds have been made on Tktk so far.
 
@@ -254,28 +255,28 @@ Unable to determine the purpose of the artifact, Ahfoisa kept it in her collecti
 
 Ahfoisa has given the artifact to the AIA to use as bait to lure academics to Tktk. After quietly burying it in the Tktk outback, the AIA spread rumors of its presence. With the aid of the IISS, the Tktk academic community sent secure communiques to several academic institutions, foremost among them Imperial Research Station Delta on Dostoevsky. Acis sought to avoid entangling the Imperium, but academics from Dostoevsky contacted colleagues from the University of Tobia and a Droyne group from Ayldem, both of which have sent teams to assist with the research.
 
-Meanwhile the Yetrai clan sent home for one of the clan's _Hkisyeleaa_ -class slavers. Posing as a grain hauler bound for the agricultural world of Acis, the slaver is enroute to Tktk to join two of the Yetrai’s _Eikhalr_ -class corvettes (see "Aslan Corvette" on page 24 for statistics and deck plans).
+Meanwhile the Yetrai clan sent home for one of the clan's _Hkisyeleaa_ -class slavers. Posing as a grain hauler bound for the agricultural world of Acis, the slaver is enroute to Tktk to join two of the Yetrai's _Eikhalr_ -class corvettes (see "Aslan Corvette" on page 24 for statistics and deck plans).
 
 The _Hkisyeleaa_ has enough space to take hundreds of slaves. The plan is in motion and the Aslan are preparing to strike just as the travellers are arriving in system.
 
 ### Planetfall: Tktk
 
-After jumping into the system, the travellers are contacted by Tktk’s class-D orbital starport. The facility is about as simple as can be with minimal services and staff. The bays on the orbital are currently filled with three scout/couriers and one free trader. After cursory radio contact with starport personnel, the travellers are permitted to proceed to the downport.
+After jumping into the system, the travellers are contacted by Tktk's class-D orbital starport. The facility is about as simple as can be with minimal services and staff. The bays on the orbital are currently filled with three scout/couriers and one free trader. After cursory radio contact with starport personnel, the travellers are permitted to proceed to the downport.
 
 The downport is even more spartan, barely qualifying as a D-level facility. Most docking bays are little more than concrete platforms with walkways to the simple, bunker-like building that serves as Tktk Down.
 
 The first thing the travellers notice when they disembark is the low gravity. At only 0.28 G, it will likely take some time to adjust, given that they probably spend most of their time on 1-G grav plates.
 
-Before setting foot outside, they must don filter masks to breathe the thin tainted atmosphere. Even then, they might feel a little oxygen starved. Most of the planet’s atmosphere has settled into the porous array of caves and canyons that permeates its crust like veins. While there is breathable air at sea level, it is at the lower end of the “thin” qualification.
+Before setting foot outside, they must don filter masks to breathe the thin tainted atmosphere. Even then, they might feel a little oxygen starved. Most of the planet's atmosphere has settled into the porous array of caves and canyons that permeates its crust like veins. While there is breathable air at sea level, it is at the lower end of the “thin” qualification.
 
 Have each traveller make an Average (8+) Endurance check. If a traveller has the Athletics (Endurance) skill, use that instead and reduce the check to Simple (6+). If the check fails, the traveller feels lightheaded and requires a respirator or combo mask, both of which are available from a starport vendor if needed.
 
 Once outdoors, the travellers can see the ubiquitous spires of Tktk. Gravitational forces, the material composition of the planet, and the dank climate have conspired to produce calcified spires that jut out of its surface. In addition to thousands of lesser spires, the planet has a few dozen “grand spires,” basically mammoth spikes jutting kilometers into the sky, in many cases piercing the upper atmosphere. The grand spires are a natural wonder and major tourist attraction. See
-"Tktk World Map and Library Data" on page 21 for the locations of Tktk’s majestic grand spires as well as a complete description of the Tktk system.
+"Tktk World Map and Library Data" on page 21 for the locations of Tktk's majestic grand spires as well as a complete description of the Tktk system.
 
-There are placards and billboards reminding travellers that starships and small craft are not permitted 10 km outside the borders of the starport. Signs read “Please make alternative travel arrangements if you intend to go ‘back country.’” The dig site is nearly 4,000 km away, east by southeast from the starport.
+There are placards and billboards reminding travellers that starships and small craft are not permitted 10 km outside the borders of the starport. Signs read “Please make alternative travel arrangements if you intend to go 'back country.'” The dig site is nearly 4,000 km away, east by southeast from the starport.
 
-If it’s any consolation, the scenery should be quite beautiful as the travellers journey over one of the planet’s transient rivers, past one of its grand spires, along the southern ridge of a mountain range, and skirting along the edge of a broad sea, finally arriving at the dig site, which is located in a hilly region just west of yet another grand spire.
+If it's any consolation, the scenery should be quite beautiful as the travellers journey over one of the planet's transient rivers, past one of its grand spires, along the southern ridge of a mountain range, and skirting along the edge of a broad sea, finally arriving at the dig site, which is located in a hilly region just west of yet another grand spire.
 
 ##### Journey to the Outback
 
@@ -289,11 +290,11 @@ The rental agency encourages the travellers to stock up on extra batteries or th
 
 Air/rafts are equipped with two failsafes to prevent travellers from frightening or aggressively intruding upon tktk communities in the outback.
 
-The first is a GPS device that gently reduces air/raft speed to about 15 kph when approaching and driving through a known tktk community. The craft’s navigation system presents a serpentine course through the dry steppes of the outback, avoiding most tktk settlements.
+The first is a GPS device that gently reduces air/raft speed to about 15 kph when approaching and driving through a known tktk community. The craft's navigation system presents a serpentine course through the dry steppes of the outback, avoiding most tktk settlements.
 
-If the travellers allow the air/raft’s autopilot to conduct all or most of the journey, it will automatically make the appropriate course corrections and avoid any known tktk communities. They can drive manually, of course, but any attempt to cut through a tktk community will be met with automatic speed reduction to a slow crawl.
+If the travellers allow the air/raft's autopilot to conduct all or most of the journey, it will automatically make the appropriate course corrections and avoid any known tktk communities. They can drive manually, of course, but any attempt to cut through a tktk community will be met with automatic speed reduction to a slow crawl.
 
-The tktks, being nomadic, don’t always adhere to the current maps, and the navigation systems on the air/ rafts are not updated frequently enough to account for all of their migrations; therefore, the travellers are quite likely to see a settlement or two on the way to their destination regardless of whether they use the autopilot or not. If an air/raft’s navigation system leads the travellers into an uncharted tktk community, motion sensors on the craft queue the onboard computer to reduce their speed to 15 kph.
+The tktks, being nomadic, don't always adhere to the current maps, and the navigation systems on the air/ rafts are not updated frequently enough to account for all of their migrations; therefore, the travellers are quite likely to see a settlement or two on the way to their destination regardless of whether they use the autopilot or not. If an air/raft's navigation system leads the travellers into an uncharted tktk community, motion sensors on the craft queue the onboard computer to reduce their speed to 15 kph.
 
 Both of these failsafes can be hacked (fairly easily, really given the low tech level) but the starport authority and the IISS are not going to be happy about it if they find out.
 
@@ -301,7 +302,7 @@ The 4,000 km is not a short romp and the dilapidated navigation system on the ai
 
 On a failure, multiply the negative effect of a failed roll by 25 km to determine how far off course they are. Add the aggregate distance of all failures to determine how much additional travel is required. For example, if the navigator fails a check with an effect of -2, the travellers are 50 km off course for that day (2 x 25 km). Any additional failures over the course of the journey are added to this amount, so as the travellers approach their destination, they might have a little additional ground to make up.
 
-Tktk is a very dry world, with little vegetation. It would be an exaggeration to describe any Tktk environment as “lush,” but there is much more plant life near rivers and lakes (Tktk’s hydrographic percentage is only 20%). The environment gets more arid as you venture into the steppes and mountain ranges.
+Tktk is a very dry world, with little vegetation. It would be an exaggeration to describe any Tktk environment as “lush,” but there is much more plant life near rivers and lakes (Tktk's hydrographic percentage is only 20%). The environment gets more arid as you venture into the steppes and mountain ranges.
 
 ##### Bomb Bugs
 
@@ -313,20 +314,20 @@ Tktk is a very dry world, with little vegetation. It would be an exaggeration to
 
 **In lower species (such as a tktk ground vole), this usually causes the animal to flee the scene and hence exit the bomb bug habitat.**
 
-**In species with higher intelligence (e.g., humans, vargr, etc.) it typically causes audible hallucinations, manifesting in voices that are heard in the victim’s head. These voices typically say things to make the victim uncomfortable or insecure. For example, if the individual feels badly about his appearance, the voices might say, “You’re ugly!”**
+**In species with higher intelligence (e.g., humans, vargr, etc.) it typically causes audible hallucinations, manifesting in voices that are heard in the victim's head. These voices typically say things to make the victim uncomfortable or insecure. For example, if the individual feels badly about his appearance, the voices might say, “You're ugly!”**
 
 **The voices continue to explore uncomfortable psychological avenues until the invasive species leaves the bomb bug habitat.**
 
 **If the invaders persist and refuse to leave, the bomb bugs exhibit their namesake, randomly selecting an individual, congregating near his or her body, and exploding in an act of self-sacrificial defense for the hive. The explosion is fairly loud and gooey, releasing a mild acid, and causing 3D damage to the victim. Armor protects the individual, but the acid will slowly eat through the armor, rendering it ineffective, over the course of a few days unless an industrial solvent is used to clean it off.**
 
 Tktk has several rodent and reptile species, but nothing much larger than a Terran iguana. A few of the reptilian species are poisonous. There are also several insect species, some of which sustain themselves on blood
-(e.g., the Tktk tic) and one highly unusual hive-based insect (known as “the bomb bug”) that the travellers might encounter (see "Bomb Bugs," on this page). There are no large predatory animals to speak of, but the planet’s harsh conditions and the omnivorous tktk seem to successfully keep the fauna population at bay.
+(e.g., the Tktk tic) and one highly unusual hive-based insect (known as “the bomb bug”) that the travellers might encounter (see "Bomb Bugs," on this page). There are no large predatory animals to speak of, but the planet's harsh conditions and the omnivorous tktk seem to successfully keep the fauna population at bay.
 
 As the travellers are likely to spend at least one night in the outback on their way to the dig site, they might encounter either a poisonous reptile, the Tktk tic, or the bomb bug. A first aid application addresses any wound received, but a traveller with Survival skill endures the experience better. If bitten or otherwise injured by any of the listed creatures, have the traveller make an Average (8+) Survival check. If the roll is made, the traveller is able to tough it out with no lingering effects provided they receive first aid.
 
-In addition, an examination of their surroundings reveals that several of the indigenous plants have adapted to survive the predations of Tktk’s little creatures, and some have natural salves for insect bites and stings. A Difficult (10+) Survival check reveals the presence of such plants and enables the survivalist to recognize not only their medicinal value but that they also serve as an effective insect repellent.
+In addition, an examination of their surroundings reveals that several of the indigenous plants have adapted to survive the predations of Tktk's little creatures, and some have natural salves for insect bites and stings. A Difficult (10+) Survival check reveals the presence of such plants and enables the survivalist to recognize not only their medicinal value but that they also serve as an effective insect repellent.
 
-Another aspect of their journey is Tktk’s fast rotation. Tktk’s day is only 13.4 hours long, giving it a day and night of roughly 6.7 hours each. Living on a standard 24-hour clock, as most humans do, one can hardly become accustomed to a new day before it is night again, and vice versa. Tktk’s companion star is quite distant and contributes little additional light; however, it is noticeable (when present in the night sky), appearing as a rather large reddish dot.
+Another aspect of their journey is Tktk's fast rotation. Tktk's day is only 13.4 hours long, giving it a day and night of roughly 6.7 hours each. Living on a standard 24-hour clock, as most humans do, one can hardly become accustomed to a new day before it is night again, and vice versa. Tktk's companion star is quite distant and contributes little additional light; however, it is noticeable (when present in the night sky), appearing as a rather large reddish dot.
 
 The journey to the dig site can be as long or short as the referee wishes, though it should be long enough for the travellers to get a sense that they have crossed a great distance on a barren and only marginally habitable world.
 
@@ -337,17 +338,17 @@ At last the travellers arrive at the dig site after a long and possibly harrowin
 When the travellers arrive, Dr. [[Bledsoe]] is not present. One of the researchers at the site tells the travellers that she has gone north to investigate something with members of the University of Tobia Geology Department. She will be back in a few days. The travellers are welcomed to the camp by an enthusiastic community of academics.
 
 If the travellers are ready and willing, they are put to work. If they balk, the research team is perplexed.
-“You’re not here to work? I thought that was why Dr. [[Bledsoe]] invited you.”
+“You're not here to work? I thought that was why Dr. [[Bledsoe]] invited you.”
 
-It’s likely that none of the travellers are professional archaeologists or miners, but it doesn’t take a whole lot of expertise to swing a mattock, so off to work they go! They can resist if they like, but they become pariahs in a camp of otherwise highly motivated people.
+It's likely that none of the travellers are professional archaeologists or miners, but it doesn't take a whole lot of expertise to swing a mattock, so off to work they go! They can resist if they like, but they become pariahs in a camp of otherwise highly motivated people.
 
-The physical labor is exhausting for starship-dwelling people, but they might derive a certain satisfaction from the work. Their muscles are tired and sore at the end of each day, and there is camaraderie between the travellers and researchers. As you might imagine, the research team brought many cases of alcoholic beverages, of which they partake heartily in the evenings when the day’s digging is done. It won’t require a difficult Carouse check to get them to share, but it couldn’t hurt!
+The physical labor is exhausting for starship-dwelling people, but they might derive a certain satisfaction from the work. Their muscles are tired and sore at the end of each day, and there is camaraderie between the travellers and researchers. As you might imagine, the research team brought many cases of alcoholic beverages, of which they partake heartily in the evenings when the day's digging is done. It won't require a difficult Carouse check to get them to share, but it couldn't hurt!
 
-In addition to the research team, the travellers get to know the tktks, many of whom curiously look on at the project, and some of whom offer to participate for what it’s worth. They are friendly and cheerful and at times even entertaining.
+In addition to the research team, the travellers get to know the tktks, many of whom curiously look on at the project, and some of whom offer to participate for what it's worth. They are friendly and cheerful and at times even entertaining.
 
 ##### Sol-ee-ah sel-ee! Wa hey-la hey-la
 
-Dr. [[Bledsoe]]’s assistants, Klaaves, Trint, and Mina, are in charge of the dig. Klaaves is [[Bledsoe]]’s senior assistant and no one seems to argue with his authority. He gives a brief overview to the travellers of what they’re there to do:
+Dr. [[Bledsoe]]'s assistants, Klaaves, Trint, and Mina, are in charge of the dig. Klaaves is [[Bledsoe]]'s senior assistant and no one seems to argue with his authority. He gives a brief overview to the travellers of what they're there to do:
 
 - Make a plan–Dr. [[Bledsoe]] is a meticulous scientist and she never skimps on the first step of a dig.
   “Contemplate before you excavate,” she always says. Klaaves eagerly quotes her before the travellers start a new dig. If this results in a little eye rolling, all the better.
@@ -358,17 +359,17 @@ Klaaves and his crew distribute what are essentially TL1 digging implements and 
 
 - Identify artifacts–Some grids have little or nothing of interest and some have interesting finds. Tktk has been settled for hundreds of thousands of years by the tktks so they have had eons to create, use, and eventually abandon various stone and metal tools.
 
-The travellers find a lot of this detritus as they perform their dig. Some things are artifacts, and some things aren’t. It’s important to distinguish one from the other. As they dig, make sure to have the travellers find some things that they might think are important, but are probably just rudimentary tools discarded by some tktks that cruised through the area a few years ago. In truth, there is only one item worth finding here, and that’s the marble puzzle. Make sure one of the travellers finds it. “Beginner’s luck!” exclaims Klaaves. “Well done.”
+The travellers find a lot of this detritus as they perform their dig. Some things are artifacts, and some things aren't. It's important to distinguish one from the other. As they dig, make sure to have the travellers find some things that they might think are important, but are probably just rudimentary tools discarded by some tktks that cruised through the area a few years ago. In truth, there is only one item worth finding here, and that's the marble puzzle. Make sure one of the travellers finds it. “Beginner's luck!” exclaims Klaaves. “Well done.”
 
 - Determine value and meaning–Of all the items they find, it will be clear that only one stands head and shoulders above the rest: the marble puzzle. But why is it here? What is its purpose? And more importantly, why is it the only thing of value in the entire dig site?
 
-Additional excavation might be necessary, but that requires a second plan, thus starting the process all over again. Klaaves and the team are more than willing to do that, but it doesn’t excuse the notion that finding such an isolated and strange artifact is unusual. “There’s no continuity to this site," says Klaaves. "Just piles of refuse for the most part, and then, bingo! An amazing find.”
+Additional excavation might be necessary, but that requires a second plan, thus starting the process all over again. Klaaves and the team are more than willing to do that, but it doesn't excuse the notion that finding such an isolated and strange artifact is unusual. “There's no continuity to this site," says Klaaves. "Just piles of refuse for the most part, and then, bingo! An amazing find.”
 
-Working at Dostoevsky’s Ancients site, Klaaves is accustomed to making interesting finds. In addition to his time on “Dost,” Klaaves spent a year examining sites and artifacts on Floria, so he knows his stuff.
+Working at Dostoevsky's Ancients site, Klaaves is accustomed to making interesting finds. In addition to his time on “Dost,” Klaaves spent a year examining sites and artifacts on Floria, so he knows his stuff.
 
-After a cursory examination, Klaaves lets the travellers examine the marble puzzle. He’s seen its type before: indestructible material, unknown function.
+After a cursory examination, Klaaves lets the travellers examine the marble puzzle. He's seen its type before: indestructible material, unknown function.
 
-“When Dr. [[Bledsoe]] gets back, she’s likely to put it under lock and key, so take as much time as you want with it before then.”
+“When Dr. [[Bledsoe]] gets back, she's likely to put it under lock and key, so take as much time as you want with it before then.”
 
 ##### The Marble Puzzle
 ![[TktTkt-085.jpg|100]]
@@ -380,12 +381,12 @@ Essentially the object is a flat rectangular board, approximately 15x12 cm, with
 
 Many of the grid spaces contain small, colored spheres, each of which is about a centimeter in diameter. The spheres are black, blue, yellow, and purple. The colors in the spheres seem to shift and undulate, a little bit like a lava lamp. They look as if they can be extracted from the grid, but they can not. No matter how much physical force is applied, the “marbles” stay put.
 
-**Referee’s Note:** The grid is a starmap of the local region that uses a grid in lieu of the typical hex map. For reference, the sphere at the bottom is Akhwohkyal
+**Referee's Note:** The grid is a starmap of the local region that uses a grid in lieu of the typical hex map. For reference, the sphere at the bottom is Akhwohkyal
 (Trojan Reach hex 1621 in Goertel Subsector) and the one two spaces above it is Acis (1619 in Dpres Subsector). The colors of the spheres indicate the type of mainworld planet: blue for the presence of water, yellow for desert worlds, black for vacuum worlds, and purple for exotic atmospheres. Note that there is no obvious "right side up" to the object, so you might want to print a copy of the image and give it to the players without specifying which side is the top.
 
 Activating a sphere requires a simple telekinetic or telepathic action directed toward the object by a psion. When a psion activates a sphere, it rises approximately half a meter above the board and morphs into a beautifully rendered map of the stellar system it represents. The map is not to scale, but does provide examples of all the major stellar and planetary objects in the system (stars, planets, gas giants, planetoid belts, comets, etc.).
 
-The board depicts the region as it was 300,000 years ago during the Ancients’ heyday. Curiously, it shows a star system in hex 1616, which is empty in modern records. Be sure not to point this out to the travellers. Let them figure out the discrepancy themselves.
+The board depicts the region as it was 300,000 years ago during the Ancients' heyday. Curiously, it shows a star system in hex 1616, which is empty in modern records. Be sure not to point this out to the travellers. Let them figure out the discrepancy themselves.
 
 If one of the travellers has psionic abilities, they might discover the nature of the marble puzzle. Otherwise, allow this part of the mystery to be unearthed by Bomeyo or one of the other Droyne when they arrive in
 "The Ayldem Delegation" on page 15. Alternatively, you can have the spheres activated another way if you want the travellers to be the ones to make the discovery instead of an NPC.
@@ -407,7 +408,7 @@ Whether or not the travellers figure any of this out is of little consequence in
 
 A community of tktks maintain a constant presence at the dig site since the site is right next to their home. There approximately 400 tktks present, give or take a few dozen who are off hunting game for the group.
 
-The tktks are omnivores, leading a nomadic hunter/ gatherer existence. They occupy an area for a while, scour it of plant and animal life, and then move on to a new place, usually 5-20 km from the previous one. By the time the travellers’ visit occurs, the local band of tktks have been present at the site for some time and intend to migrate soon.
+The tktks are omnivores, leading a nomadic hunter/ gatherer existence. They occupy an area for a while, scour it of plant and animal life, and then move on to a new place, usually 5-20 km from the previous one. By the time the travellers' visit occurs, the local band of tktks have been present at the site for some time and intend to migrate soon.
 
 Anyone who spends time observing the tktks notices that they are rarely seen flying. The tktks' wings are larger and more developed than most chirper species. If one or more of the travellers bother to follow a tktk hunting or scouting party, they will discover when and how the tktks using their flight ability.
 
@@ -419,7 +420,7 @@ Tktks do not cook their meat, so the travellers see them consuming ground voles 
 
 The travellers have many opportunities to interact with the tktks and find them friendly and cooperative. Young tktks, seldom supervised and quite precocious, are very curious about the expedition and they hover about, watching what the humans do with great interest. At times their presence borders on intrusiveness. If brushed aside, they do not respond with hostility, but casually step back and then, moments later, persistently return to roughly the same spot.
 
-While tktks do not appear to have any formal religion, they do have a very active oral storytelling tradition that is central to their culture. After the day’s activities are done, the Tktk are seen in groupings of various size, telling tales both mundane and tall.
+While tktks do not appear to have any formal religion, they do have a very active oral storytelling tradition that is central to their culture. After the day's activities are done, the Tktk are seen in groupings of various size, telling tales both mundane and tall.
 
 A linguists from one of the research teams can translate if the travellers want them to. At some point the tktks tell a tale of the Ancients whose war “blacked out some of the stars” and made the night darker. This is a popular yarn among the tktks as are many other epic stories from their distant ancestors.
 
@@ -429,7 +430,7 @@ A few days after the discovery of the marble puzzle, a Droyne delegation arrives
 
 After they arrive, they interact with both the human and tktk populations. The Droyne were called upon to educate the tktks, but the methods they use do not look like traditional instruction.
 
-To the human outsider, they don’t seem to be doing much at all. They chat with the tktks, show them holos of Droyne tech and their life on Ayldem, and they show them some tools and curiosities that they brought with them on their starship, the Iyuksimin.
+To the human outsider, they don't seem to be doing much at all. They chat with the tktks, show them holos of Droyne tech and their life on Ayldem, and they show them some tools and curiosities that they brought with them on their starship, the Iyuksimin.
 
 After a few days, the Droyne begin to teach the tktks the concept of Iskyar, the coyn ceremony. The Droyne iyuksimin leader, Bomeyo and their drone, Soyhsoy, begin to engage in what appears to be games and mock ceremonies using the coyns.
 
@@ -440,7 +441,7 @@ If asked why they are so persistent or pressed to change their teaching style, B
 ##### Not Interested
 
 The Droyne have little insight or interest in the marble puzzle. If pressed, Bomeyo gets snarky about it:
-“Whenever one of you digs up one of those fossils, you come running to us to figure out what it is. We have no idea! We’re as much in the dark as you are when it comes to these things you keep digging up!”
+“Whenever one of you digs up one of those fossils, you come running to us to figure out what it is. We have no idea! We're as much in the dark as you are when it comes to these things you keep digging up!”
 
 Bomeyo and his delegation should be played as additional color at the dig site. Their activities often seem to be at cross purposes with the goals of the expedition. This will frustrate some of the archaeology team, but there is little to be done about it.
 
@@ -450,7 +451,7 @@ The Droyne have their own motives and goals and they will not be deterred from d
 
 Bomeyo often asks Soyhsoy to read the coyns when a decision must be made. The types of decisions requiring the coyns can range anywhere from whether or not to engage in negotiations, what a daily lesson plan should be for the tktks, or even what to eat on a given day.
 
-On the other hand, the Droyne do not seem shackled by the practice either. They make most routine decisions without consulting the coyns, but from a human-centric position, it is difficult to determine what constitutes a coyn-worthy decision, and what doesn’t.
+On the other hand, the Droyne do not seem shackled by the practice either. They make most routine decisions without consulting the coyns, but from a human-centric position, it is difficult to determine what constitutes a coyn-worthy decision, and what doesn't.
 
 If one or more of the travellers ask the Droyne to do it, Soyhsoy performs “a coyn reading” for them. If this happens, select a coyn from the coyn diagram below that best represents the traveller in question, and then, using the diagram, start selecting coyns with die rolls. Use dice of different colors (one red and one white in the diagram). Record which coyns are selected and stop selecting once the coyn that represents the traveller is selected. Use the progression of coyns to
 "tell a story" about the traveller's future.
@@ -467,9 +468,9 @@ Dr. [[Bledsoe]] (remotely over a communications device) and Klaaves deny them ac
 
 To make matters worse, a Tktkian human environmental activist group gets winds of the events happening at the dig site and sends protesters to demonstrate. The locals are not fond of offworlders poking and prodding their planet.
 
-This situation could get out of hand if it’s not managed right and the travellers can help using whatever social skills they have at their disposal (e.g., Persuade, Diplomat). Being rude to the protesters or insinuating that they have no right to be present will only exacerbate the situation.
+This situation could get out of hand if it's not managed right and the travellers can help using whatever social skills they have at their disposal (e.g., Persuade, Diplomat). Being rude to the protesters or insinuating that they have no right to be present will only exacerbate the situation.
 
-The tensions between the various groups escalates but does not explode into a full conflagration before the events of the [[#THE YETRAI ATTACK]].
+The tensions between the various groups escalates but does not explode into a full conflagration before the events of the [[#The Yentrai Attack]].
 
 
 ![[TktTkt-112.jpg|100]]
@@ -478,13 +479,13 @@ The tensions between the various groups escalates but does not explode into a fu
 
 In the first few days after the travellers arrive at the camp and particpate in the discovery of the marble puzzle, they are able to speak with Dr. [[Bledsoe]] via radio; however, after several days, they lose contact with her. In fact, the radio (in fact, all radios at the camp) cease to work. An astute traveller might figure out that they are being jammed. This situation persists until the events described in The Yetrai Attack, below.
 
-Before the attack occurs, Dr. [[Bledsoe]] finally arrives at the dig site. She has startling news: After examining all the data, the “marble puzzle” isn’t from Tktk at all. For the entire time the travellers have been onsite, Dr. [[Bledsoe]] and a small subteam of scientists were performing a geological survey of several sites on Tktk and obtaining a cross section of soil samples to compare with those of the dig site.
+Before the attack occurs, Dr. [[Bledsoe]] finally arrives at the dig site. She has startling news: After examining all the data, the “marble puzzle” isn't from Tktk at all. For the entire time the travellers have been onsite, Dr. [[Bledsoe]] and a small subteam of scientists were performing a geological survey of several sites on Tktk and obtaining a cross section of soil samples to compare with those of the dig site.
 
-Microscopic soil remnants found on the marble puzzle are more likely from a world whose star has either lower metallicity or perhaps less exposure to stellar radiation. The prevailing theory is that the artifact’s origin is three parsecs away at Akhwohkyal, which has a verified Ancients site.
+Microscopic soil remnants found on the marble puzzle are more likely from a world whose star has either lower metallicity or perhaps less exposure to stellar radiation. The prevailing theory is that the artifact's origin is three parsecs away at Akhwohkyal, which has a verified Ancients site.
 
 Akhwohkyal is in the Aslan Hierate and confirmation of this theory will require an expedition to the planet, or at the very least examination of other artifacts recovered from Akhwohkyal sites and perhaps other Ancients sites in the region.
 
-## THE YETRAI ATTACK
+## The Yentrai Attack
 
 The culmination of this adventure occurs when the Yetrai clan attacks the dig site with the intention of collecting as many slaves as they can. The clan primarily uses non-lethal weaponry to round up the scientists and tktks. They are also equipped with slug weapons and armor in case there is resistance.
 
@@ -496,9 +497,9 @@ Discovering the recon squads, or even identifying their presence, requires a suc
 
 Read a successful check with effect as follows:
 
-Effect 0: “Someone’s been watching us.” There are recent tracks in the surrounding territory.
+Effect 0: “Someone's been watching us.” There are recent tracks in the surrounding territory.
 
-Effect 2+: As above, but evidence is found of the recon squad’s presence, perhaps a boot print or signs of track covering.
+Effect 2+: As above, but evidence is found of the recon squad's presence, perhaps a boot print or signs of track covering.
 
 Effect 4+: As above, but the tracks are identified as Aslan.
 
@@ -510,7 +511,7 @@ The paralysis of the research team means that most if not all of them will be pr
 
 Just before dawn on the following morning, the Yetrai land their ships a few kilometers from the dig site, load up their gear in eight Heirai riot suppression vehicles, and assault the camp.
 
-Note that the primary goal of the Aslan is not to kill people, but to round up slaves. A dead sentient can’t mine Yeróilran ore, service a Tokoueáwe starship, or (in the case of an enslaved Tktk) dust the vases in a manor or entertain an Aslan child. The Yetrai are armed with armor and lethal weaponry as well, but their primary motive is to capture, not kill.
+Note that the primary goal of the Aslan is not to kill people, but to round up slaves. A dead sentient can't mine Yeróilran ore, service a Tokoueáwe starship, or (in the case of an enslaved Tktk) dust the vases in a manor or entertain an Aslan child. The Yetrai are armed with armor and lethal weaponry as well, but their primary motive is to capture, not kill.
 
 The Yetrai use the riot hoses on their vehicles, taser prods, tranq and stun grenades, and throw nets to capture as many slaves as they can. Violence is only inflicted upon those who resist. And when this happens, the Aslan ruthlessly attempt to squelch it.
 
@@ -536,7 +537,7 @@ The caves are not a permanent solution since the Aslan are adept hunters and wil
 
 ### Dusting Off
 
-After the slave run is complete, the Aslan do not immediately take off, head to 100 diameters, and jump out of the system. They have to take stock of their inventory, "separate the wheat from the chaff," and get rid of any undesirables. This includes any IISS personnel that they might have rounded up since the Aslan don’t want to get embroiled with the Imperium.
+After the slave run is complete, the Aslan do not immediately take off, head to 100 diameters, and jump out of the system. They have to take stock of their inventory, "separate the wheat from the chaff," and get rid of any undesirables. This includes any IISS personnel that they might have rounded up since the Aslan don't want to get embroiled with the Imperium.
 
 The process of going through their captives takes several hours. During this time, their soldiers will vigilantly stand guard outside their ships, using the riot vehicles as cover near the airlocks and cargo doors. This might seem to be an impenetrable obstacle, but creative travellers can find a way to break through their ranks before the slavers dust off and head home to the Glorious Empire.
 
@@ -552,7 +553,7 @@ No matter how successful the travellers are at fighting back against the slavers
 
 This can optionally lead to a starship battle if the travellers successfully contact the starport for assistance from the scouts. After the Aslan leave with their captives, they are no longer radio jamming the site and the travellers may freely use their communications equipment.
 
-In addition to the scouts’ two armed scout/couriers, Bomeyo offers to include his tyafelm's Droyne scout.
+In addition to the scouts' two armed scout/couriers, Bomeyo offers to include his tyafelm's Droyne scout.
 
 Note that the Droyne might have taken casualties and require the assistance of either the travellers or the IISS to fill empty positions on their starship. The gunnery positions are always manned by warriors and sports.
 
@@ -606,20 +607,20 @@ No matter what the outcome is of this adventure, it stands to reason that things
 
 Whether or not you proceed from "The Tktk Convergence" to the next chapter in the story or not, the Dustbelt will never be the same after the events in this story, and your travellers play a big part in the event and where things go from here.
 
-If you look closely at Tktk while approaching from afar, you can see the planet’s bristly spires jutting from its surface. The most magnificent of these, the “Grand Spires of Tktk” extend all the way into the vacuum of space. The spires, comprised of calcified metal and graphite, ascend many kilometers upward, the largest of which give the world a fuzzy or hairy appearance from close orbit. Some liken it to a Terran kiwi or coconut. Also noticeable is the planet’s oblong shape. Tktk is a flattened sphere, approximately 8% wider along its equatorial axis than its polar one.
+If you look closely at Tktk while approaching from afar, you can see the planet's bristly spires jutting from its surface. The most magnificent of these, the “Grand Spires of Tktk” extend all the way into the vacuum of space. The spires, comprised of calcified metal and graphite, ascend many kilometers upward, the largest of which give the world a fuzzy or hairy appearance from close orbit. Some liken it to a Terran kiwi or coconut. Also noticeable is the planet's oblong shape. Tktk is a flattened sphere, approximately 8% wider along its equatorial axis than its polar one.
 
-Tktk’s thin and clingy atmosphere resides mostly in its numerous river valleys and cave systems, with a dusty taint that gives it a misty, fog-like appearance in places. When climbing Tktk’s larger hills or mountains, the atmospheric pressure dissipates precipitously, necessitating an upgrade in breathing apparatus from filter mask to respirator. If travelling in the outback, it’s wise to carry both.
+Tktk's thin and clingy atmosphere resides mostly in its numerous river valleys and cave systems, with a dusty taint that gives it a misty, fog-like appearance in places. When climbing Tktk's larger hills or mountains, the atmospheric pressure dissipates precipitously, necessitating an upgrade in breathing apparatus from filter mask to respirator. If travelling in the outback, it's wise to carry both.
 
-When outdoors, it is absolutely necessary to don protective clothing. Mubitthu, the system primary, is a bright main sequence star that emits a great deal of ultraviolet radiation. Tktk’s lack of a magnetic field and atmosphere do little to mitigate its effects. The planet’s day is only 13.4 hours long, so exposure to the system primary is virtually assured for all but the briefest of expeditions.
+When outdoors, it is absolutely necessary to don protective clothing. Mubitthu, the system primary, is a bright main sequence star that emits a great deal of ultraviolet radiation. Tktk's lack of a magnetic field and atmosphere do little to mitigate its effects. The planet's day is only 13.4 hours long, so exposure to the system primary is virtually assured for all but the briefest of expeditions.
 
-While the system is rated as having a thin tainted atmosphere, its dusty and poisonous composition dissipates underground and the thin air becomes breathable in some of the deeper trenches and caverns. Visiting travellers beware, though: pockets of poisonous sulfur dioxide and oxygen-poor nitrogen nestle in some of the cave nodes and can present a hazard when spelunking Tktk’s sinuous depths.
+While the system is rated as having a thin tainted atmosphere, its dusty and poisonous composition dissipates underground and the thin air becomes breathable in some of the deeper trenches and caverns. Visiting travellers beware, though: pockets of poisonous sulfur dioxide and oxygen-poor nitrogen nestle in some of the cave nodes and can present a hazard when spelunking Tktk's sinuous depths.
 
 For a world of middling size, Tktk has remarkably low gravity due to its porous mantle and low metallicity. Its 0.28G is extremely light and causes offworlders to acquire what is colloquially known as the “Tktk prance.”
 
-Another unusual feature of Tktk is its volatile river system. Broad streaks of water line the planet, typically covering 18-22% of its surface. The gravitational tug- of-war between the system’s primary star, large gas giant, and companion star causes the waterways to change frequently. For an up-to-date depiction of Tktk’s hydrosphere, visiting travellers must download the most current map upon arrival in system.
+Another unusual feature of Tktk is its volatile river system. Broad streaks of water line the planet, typically covering 18-22% of its surface. The gravitational tug- of-war between the system's primary star, large gas giant, and companion star causes the waterways to change frequently. For an up-to-date depiction of Tktk's hydrosphere, visiting travellers must download the most current map upon arrival in system.
 
 
-# ASLAN CORVETTE
+# Aslan Corvette
 
 ![[TktTkt-160.jpg|100]]
 [[TktTkt-160.jpg|Aslan Corvette]]
@@ -629,7 +630,7 @@ CAPTAIN (MALE PILOT), FIRST OFFICER (FEMALE ASTROGATOR), PILOT X1, ENGINEER X2, 
 
 **TOTAL: MCr109.44**
 
-Utilizing the Aow’iw -class light trader hull, the Eikhalr -class corvette provides an economical solution when the clan needs firepower and troop transportation.
+Utilizing the Aow'iw -class light trader hull, the Eikhalr -class corvette provides an economical solution when the clan needs firepower and troop transportation.
 
 In the border worlds, many ahriys own one or more Eikhalrs and use them for system defense and anti-piracy operations.
 
@@ -717,9 +718,9 @@ Bomeyo is the leader of the droyne iyuksamin. He is in charge of an entire dresk
 
 He frequently defers to his sport and warrior on various matters but might appear to be dismissive of them. Bomeyo, like most Droyne leaders, lacks neither conviction nor confidence. He was caste to lead and does so with great alacrity.
 
-Wherever Bomeyo goes, the tyafelm’s drone, Soyhsoy, is not far behind. Soyhsoy’s primary occupation appears to be performing coyn ceremonies.
+Wherever Bomeyo goes, the tyafelm's drone, Soyhsoy, is not far behind. Soyhsoy's primary occupation appears to be performing coyn ceremonies.
 
-Bomeyo's confidence and enthusiasm extends to outsiders as well. The travellers might be put off by Bomeyo’s brusque, bossy mannerisms, but they might come to see him as a devoted and caring paternal figure to his tyafelm.
+Bomeyo's confidence and enthusiasm extends to outsiders as well. The travellers might be put off by Bomeyo's brusque, bossy mannerisms, but they might come to see him as a devoted and caring paternal figure to his tyafelm.
 
 ## Ferlyewá Yetrai
 

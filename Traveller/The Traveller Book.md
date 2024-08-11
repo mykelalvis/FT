@@ -1,7 +1,7 @@
 The Traveller Book
 Vol. I
 201
-Game Designer’s Workshop
+Game Designer's Workshop
 TRAVELLER Science-Fiction Adventure®
 in the Far Future
 by Marc W. Miller
@@ -8406,11 +8406,11 @@ have no water. An ice-capped world has an atmosphere of
 0 or 1 and a hydrographic percentage of 1 or greater.
 Subsector capital is the term given to the single most
 important world in the subsector, especially if the entire
-sector is under one interstellar government. Capital is the
+sector is under one interstellar government. [[Capital]] is the
 term given to a world which is the seat of an interstellar
 government. If there are several interstellar governments
 within a subsector, each will probably have a capital.
-Capital designations are assigned by the referee.
+[[Capital]] designations are assigned by the referee.
 Other notations are possible as well. The referee may
 elect to note the presence of prison worlds, exile worlds,
 preserves or reserves for various purposes, and so on.
@@ -10597,6 +10597,7 @@ example, attacks by reacting characters may not be physi·
 cal; they may instead be verbal or psychological, depending
 on local law level, the situation, and the appropriateness of
 the action to the character.
+
 REFEREE'S RESPONSIBILITIES
 In administering any encounter, the referee must be
 responsible for the details of the situation and of the
@@ -15205,10 +15206,10 @@ system used by the Imperium is based on rings of longitude,
 rays of latitude, and parsecs. Rays of latitude extend from
 the galactic core, while concentric rings of longitude are
 placed at one parsec intervals. By convention, the concentric
-ring passing through Reference/Capital is labeled
+ring passing through Reference/[[Capital]] is labeled
 the 10,000th ring, and is used as a baseline. Similarly, the
 ray of latitude extending from the center of the Galaxy
-through Reference/Capital is designated as the first ray.
+through Reference/[[Capital]] is designated as the first ray.
 Measurement is in parsecs, counting in the trailing direction.
 Computation reveals that the circumference of the
 10,000th ring (r=10,000) is 62,832 parsecs. Counting
@@ -15228,9 +15229,9 @@ client-states, human and otherwise. This mapping
 system breaks down and is prone to error beyond certain
 limits. It does serve admirably for a band approximately
 400 parsecs wide at a longitude of 10,000 parsecs.
-Capital (Core Sector 0508 A586A98-F): Central world
+[[Capital]] ([[Core sector]]  0508 A586A98-F): Central world
 of the Imperium and $eat of government since its founding.
-Situated in the center of the Imperium, Capital's astrographical
+Situated in the center of the Imperium, [[Capital]]'s astrographical
 position has proven of prime importance, as a
 communications hub, a cultural center, afld an industrial
 focus.
@@ -15250,7 +15251,7 @@ forced the Marches to conduct most of the war on its own,
 with little additional help or support from the Imperium.
 After Grand Admiral of the Marches Olav hault-Piankwell
 forced the war to an end, he found solid support for a new
-government. Marching on the Capital with his war fleet, he
+government. Marching on the [[Capital]] with his war fleet, he
 forced an audience with Empress Jacqueline I, supposedly
 for recognition of his war effort. In the course of the
 meeting (in 606) he personally murdered the Empress, then
@@ -15707,7 +15708,7 @@ ward Marches, and to 223 of the sector's 431 worlds. The
 Spinward Main has a cul-de-sac branch which enters Regina
 subsector at Jenghe and extends as far as Efate.
 Spinward Marches: Imperial border sector extremely
-spinward of Capital. Currently a frontier area undergoing
+spinward of [[Capital]]. Currently a frontier area undergoing
 exploration and development.
 Strephon: Current reigning emperor of the Third lm·
 perium. Oldest surviving issue of Paulo Ill. Born 1049,

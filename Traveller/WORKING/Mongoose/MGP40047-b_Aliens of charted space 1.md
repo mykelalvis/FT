@@ -8,12 +8,12 @@ ASLAN TRAVELLERS 15
 ASLAN EQUIPMENT 46
 VEHICLES OF THE ASLAN 64
 HIGH GUARD: ASLAN 68
-THE K’KREE 106
-K’KREE TRAVELLERS 124
-K’KREE EQUIPMENT 140
-VEHICLES OF THE K’KREE 148
-HIGH GUARD: K’KREE 154
-K’KREE IN TRAVELLER 168
+THE K'KREE 106
+K'KREE TRAVELLERS 124
+K'KREE EQUIPMENT 140
+VEHICLES OF THE K'KREE 148
+HIGH GUARD: K'KREE 154
+K'KREE IN TRAVELLER 168
 VARGR 169
 VARGR TRAVELLERS 179
 VARGR EQUIPMENT 207
@@ -51,7 +51,7 @@ This is not dissimilar to someone who has left behind
 the desire for material things upon finding religious
 revelation and his happier for it.
 
-It is worth considering the implications of a culture’s
+It is worth considering the implications of a culture's
 beliefs in terms of what they think of others. The
 Zhodani are likely to view advertising in the Imperium as
 a crude and rather nasty way of modifying the thinking
@@ -87,14 +87,14 @@ developed notion of honor. The need to behave in an
 acceptable manner regulates ambition and ensures
 that any conflict has purpose.
 
-Likewise, the strict hierarchy of the K’Kree gives
+Likewise, the strict hierarchy of the K'Kree gives
 strength to their society. As herd creatures who cannot
 stand to be apart, they need a strong social order.
 Theirs is based upon the leadership of a noble class
 raised to lead and command rather than the turbulent
 meritocracy of the Vargr or the rigid demands of Aslan
 clan society, but it serves the same purpose. As a
-herbivore species, K’Kree are determined to destroy all
+herbivore species, K'Kree are determined to destroy all
 carnivores because otherwise sooner or later they will
 become prey. It is an extreme viewpoint, but one that
 has a certain logic to it.
@@ -120,9 +120,9 @@ PHYSIOLOGY
 Aslan are descended from four-limbed carnivorous
 pouncer stock, which was originally near the top of
 the food chain in the forests of their homeworld,
-Kusyu. About 1.8 million years ago Kusyu’s climate
+Kusyu. About 1.8 million years ago Kusyu's climate
 shifted, with the result that the extensive forests of
-Tafohti (Kusyu’s largest continent) almost completely
+Tafohti (Kusyu's largest continent) almost completely
 disappeared. As the forests dwindled, so did the small
 fauna upon which the Aslan had preyed, forcing them
 to venture out into the expanding grassland plains. The
@@ -137,7 +137,7 @@ The Aslan that has evolved from those beginnings is,
 like a human, an upright biped averaging two meters
 in height and 100 kilograms in mass. There are two
 sexes: male and female, of which the most notable
-external difference is the male’s increased size and more
+external difference is the male's increased size and more
 impressive mane. Females outnumber males by a ratio
 of three to one.
 
@@ -157,8 +157,8 @@ appendage has diminished over time and is now little
 more than a vestigial stump in some bloodlines.
 
 Aslan sleep about one-third of the time; shaped by their
-homeworld’s rotation period, their sleeping time is roughly
-10 to 11 hours (one-third of Kusyu’s 32-hour day). Like
+homeworld's rotation period, their sleeping time is roughly
+10 to 11 hours (one-third of Kusyu's 32-hour day). Like
 humans, lack of sleep degrades their abilities drastically.
 
 The Aslan gestation period is roughly one _ftahea_ , or 10
@@ -167,7 +167,7 @@ are virtually unheard of and are almost always female.
 Male twins are rare enough to be virtually unknown. The
 young are born encapsulated in tough embryonic cauls,
 which are then cut away by the mother using a claw (or
-in modern times, by a surgeon’s laser). Cubs mature
+in modern times, by a surgeon's laser). Cubs mature
 quickly, learning to walk in only two months.
 
 True to their pouncer ancestry, Aslan are capable of
@@ -178,7 +178,7 @@ the most human-like of all alien races, excepting, of
 course, the Vargr (who are, after all, genetically-altered
 mammalian stock originally from Earth).
 
-Early Terran explorers regarded Aslan as ‘lion-like’ and
+Early Terran explorers regarded Aslan as 'lion-like' and
 the simile has stuck ever since, although Aslan bear
 little resemblance to Terrestrial lions. Nonetheless, this
 early misnomer has influenced a great deal of human
@@ -202,7 +202,7 @@ DIET
 The Aslan are almost exclusively carnivorous. They
 consume a few nuts, fruits and berries but scorn root
 vegetables, grains and other plant-based foods as being
-fit only for ‘herd animals’. The Aslan practise extensive
+fit only for 'herd animals'. The Aslan practise extensive
 agriculture to maintain their vast herds of livestock and
 there is some archaeological evidence to suggest that
 early Aslan had a diet higher in vegetable matter but
@@ -255,19 +255,19 @@ aged surviving parents no longer maintaining separate
 families, adopted orphans of blood relatives).
 
 The Aslan do not distinguish between mothers – all cubs
-sired by a male are cared for equally by all the male’s
+sired by a male are cared for equally by all the male's
 wives. Patrilinear descent is all that is important in Aslan
 society. Cubs are more capable than human infants and
 grow more quickly. A cub can walk by the age of three
 months and can speak within five or six months.
 
-A child is considered part of the father’s family until:
+A child is considered part of the father's family until:
 
 - She is married off to a male (if female)
 - He acquires Territory (if male)
 - The father dies
 
-In the latter case, the father’s Territory passes to the
+In the latter case, the father's Territory passes to the
 eldest son. The eldest son may choose to include his
 siblings in his family but is under no formal obligation to
 do so.
@@ -277,7 +277,7 @@ one family dominant. The leader of that family is also
 the leader of the pride. Other families owe him and
 his family their fealty. A number of prides form a clan
 (huiha), with one pride dominant. Again, prides in the
-clan owe fealty to the clan’s leader. The clan’s leader is
+clan owe fealty to the clan's leader. The clan's leader is
 expected, in turn, to protect and provide for members
 of the clan settling disputes between prides within the
 clan, and administering his holdings wisely and well.
@@ -346,7 +346,7 @@ permission is an instance of familiarity.
 Impoliteness stems from a lack of proper education
 or upbringing; it might include failure to address a
 social superior by the correct honorifics, failure to
-respond promptly when addressed or losing one’s
+respond promptly when addressed or losing one's
 temper in public.
 
 Discourtesy is a deliberate insult and springs from
@@ -357,7 +357,7 @@ not meant to be so by someone alien to Aslan culture.
 Failing to immediately apologise for familiarity is
 impolite; failing to apologise for impoliteness when
 corrected is discourteous. An Aslan may apologise
-verbally or by making signs of submission (offering one’s
+verbally or by making signs of submission (offering one's
 throat to the offended party or abasing oneself). Without
 an apology, any of these three behaviours can give
 offence and an offended Aslan becomes an enemy.
@@ -385,7 +385,7 @@ slights by the opposite sex are dismissed with the
 excuse that males (or females) do not understand
 female (or male) honor. When a transgression
 becomes too blatant, too extreme or too unacceptable,
-then a member of the insulted Aslan’s immediate
+then a member of the insulted Aslan's immediate
 family (and of the correct sex) will respond to the
 discourtesy with a challenge.
 
@@ -426,14 +426,14 @@ to fight for those clan members who cannot duel but
 in a pinch, any Aslan of the correct gender can be
 nominated as champion.
 
-For non-Aslan, one way to gain an Aslan’s respect is
+For non-Aslan, one way to gain an Aslan's respect is
 to be willing to challenge when required and to duel if
 challenged. Aslan consider those who do not embrace
 their culture to be tahiwihteakhtau (barbarians).
 Willingness to behave in the honorable fashion is an
 indication that one is not a completely ignorant barbarian.
 
-Since Aslan respect prowess in battle, upholding one’s
+Since Aslan respect prowess in battle, upholding one's
 honor in a duel is especially respected. However,
 if both parties agree, the duel can be replaced by a
 contest of a different kind, such as a debate, board
@@ -453,13 +453,13 @@ A duel ends when the loser is wounded (or slain, in
 the case of duels to the death). The victor may not
 deliberately slay the loser but (if male) is within his rights
 to scalp the loser. Duels can also be fought challenging
-one party’s right to breed (this is normally done in
+one party's right to breed (this is normally done in
 response to one Aslan male having sex with the wife of
 another), in which case the victor may geld the loser.
 
 **Duels and SOC**
 Most duels are over trivial matters and do not affect the
-Aslan’s SOC. However, formal or especially notable duels
+Aslan's SOC. However, formal or especially notable duels
 can make or break the reputation of an Aslan. A Traveller
 who wins a formal duel against another Aslan of equal
 or higher SOC gains DM+1 to any SOC-based check with
@@ -502,7 +502,7 @@ his strength and ambition, and show his neighbors how
 far they can push him.
 
 Respect even informs how the Aslan conduct their wars.
-An Aslan ‘respects’ his neighbor’s territory by taking
+An Aslan 'respects' his neighbor's territory by taking
 as much of it as he can in times of war. Whatever the
 neighbor manages to hold onto, however, is sacrosanct.
 An honorable man holds everything he can and not a
@@ -528,7 +528,7 @@ of tradition. The teachings of the priests and poets must
 be obeyed, especially those relating to war and duelling.
 
 An honorable Aslan keeps to the traditions of his sire
-and his sire’s sires. He fights their feuds and helps their
+and his sire's sires. He fights their feuds and helps their
 allies. He fights duels fairly and makes war according to
 the limitations agreed on by both sides in the presence
 of an earleatrais. He keeps his word when he gives it
@@ -549,7 +549,7 @@ Feuds
 Disputes between families or prides usually take
 place because of slights, insults, mistreatments
 or problems that have not been resolved to both
-parties’ satisfaction. The families may back different
+parties' satisfaction. The families may back different
 scientific theories; one family member may have won
 a competition which the other family had traditionally
 won; a family may have rejected a proposed marriage
@@ -599,7 +599,7 @@ has Tolerance, per level +
 is Outcast –
 
 **Reaction Table Results**
-Hostile reactions usually lead to ‘discourtesy’ rather than violence. In such an instance, the response
+Hostile reactions usually lead to 'discourtesy' rather than violence. In such an instance, the response
 given by that reaction would be one that normally would provoke hostility in return. Treat discourtesy as
 grounds for a formal challenge (but Travellers need not issue such a challenge – although this would take an
 enormous amount of restraint on the part of Aslan Travellers).
@@ -662,14 +662,14 @@ generally sees to business. This individual accompanies
 the unit headquarters and is the ultimate source of
 decisions regarding the employment of the unit. In
 practice, however, she lets the (male) commander make
-the combat decisions, intervening only when the male’s
+the combat decisions, intervening only when the male's
 lack of a balanced viewpoint threatens the best business
 interests of the unit.
 
 The profession of mercenary is an honorable one,
 since there are usually more landless males (lower-
 class and ihatei alike) than there are positions in a
-clan’s military force. Mercenaries win land, honor
+clan's military force. Mercenaries win land, honor
 and glory through their actions and females have run
 mercenary units as a source of wealth since long before
 the Aslan went into space.
@@ -694,18 +694,18 @@ highly complex and custom-bound, and individual names
 and words can become rather unwieldy.
 
 The clan head of an independent clan (vassal to no
-other clan) is known simply by the clan’s name; where
+other clan) is known simply by the clan's name; where
 differentiation is necessary, the particle ko (himself)
 is added. For example, the head of clan Hlyueawi
 would be known as Hlyueawi or Hlyueawiko. At the
 opposite extreme, an Aslan lower in the social order
-(but still a noble) might be named HlyueawifiyAhroay’
+(but still a noble) might be named HlyueawifiyAhroay'
 ifiyWahtoiLayeauiwahfeaktelihlalikhtyeiteyahahtateisiyu ,
-roughly meaning, ‘unmarried first son of the third son
+roughly meaning, 'unmarried first son of the third son
 of the grandfather of the head of the pride which holds
 the valley in the fork of the Iwahfeal River, part of clan
-Wahtoi , which is a vassal of clan Aroaye’i , itself a vassal
-of clan Hlyueawi .’
+Wahtoi , which is a vassal of clan Aroaye'i , itself a vassal
+of clan Hlyueawi .'
 
 Females are named for their husbands, fathers or
 brothers, depending on circumstances. Non-nobles
@@ -723,15 +723,15 @@ Aslan-sounding words is provided. This neatly avoids all
 
 considerations of syntax and vocabulary. Simply generate
 a word as desired and assign a suitable meaning to it,
-such as ‘Killer of Ten Thousand’ or, less bloodthirstily,
-‘He Honors His Ancestors’ or ‘Place of the North
-Wind’. Since Aslan does not translate well into English
+such as 'Killer of Ten Thousand' or, less bloodthirstily,
+'He Honors His Ancestors' or 'Place of the North
+Wind'. Since Aslan does not translate well into English
 (most Aslan words are an entire phrase of meaning,
 much like written Chinese ideograms), meanings can
 vary considerably. Tehleikhoi is the name of an Aslan
-mercenary regiment; it can be translated as ‘Soldiers
-of the Falling Night’, ‘Knights of the Setting Sun’, or
-‘Warriors of the Evening Star’. There is a great deal of
+mercenary regiment; it can be translated as 'Soldiers
+of the Falling Night', 'Knights of the Setting Sun', or
+'Warriors of the Evening Star'. There is a great deal of
 latitude in the development of Aslan words and names.
 
 **Aslan Language**
@@ -880,7 +880,7 @@ initial consonant, a vowel and a final consonant.
 The Aslan sound frequency table shows the relative
 frequencies to be expected for various sounds in the
 Aslan language. For example, the relative frequency of
-‘f’ as an initial consonant is 5:87 and that of ‘h’ as a
+'f' as an initial consonant is 5:87 and that of 'h' as a
 final consonant is 10:47.
 
 Pronunciations: This table is a guide to Aslan speech
@@ -908,18 +908,18 @@ or even aeei, could.
 ASLAN ANIMALS
 The Aslan regularly import creatures from their
 homeworld of Kusyu to their new colonies. Most imported
-creatures are livestock, brought to supply the race’s
+creatures are livestock, brought to supply the race's
 ceaseless hunger for fresh meat. A few are predators
 hunted by the Aslan for sport or creatures useful for other
 products or their place in the ecosystem.
 
 AUA (HOOFMEAT)
 
-AUA’KA
+AUA'KA
 
 ATEKTEIA (SCORPION)
 
-_Aua_ are large herbivores that have been the Aslan’s main
+_Aua_ are large herbivores that have been the Aslan's main
 prey for millions of years. Modern _Aua_ have been bred and
 genetically engineered to grow quickly, to thrive in a variety
 of environments and to consume a wide range of vegetable
@@ -928,8 +928,8 @@ cow. They are quite docile under most circumstances.
 
 These huge animals are rare on Kusyu outside reservations
 but have been successfully transplanted to numerous
-colony worlds. The _aua’ka_ are titanic creatures, more like
-walking tanks than animals. Hunting an _Aua’ka_ is a difficult
+colony worlds. The _aua'ka_ are titanic creatures, more like
+walking tanks than animals. Hunting an _Aua'ka_ is a difficult
 prospect, and best accomplished with a rocket launcher, but
 they are part of many Aslan ceremonial feasts.
 
@@ -948,7 +948,7 @@ TRAITS Armor (+1)
 BEHAVIOUR Herbivore, Grazer
 
 ANIMAL HITS SPEED
-Aua’ka 64 5m
+Aua'ka 64 5m
 SKILLS Athletics (strength) 3, Melee
 (natural) 2, Recon 1, Survival 3
 ATTACKS Horns (3D+3), Trample (6D)
@@ -1023,8 +1023,8 @@ raised within the Hierate. Unless otherwise stated
 in this chapter, use all the creation and career rules
 described in the _Traveller Core Rulebook_.
 
-As you will discover, an Aslan’s gender and clan have
-far more bearing on the Traveller’s career choices than
+As you will discover, an Aslan's gender and clan have
+far more bearing on the Traveller's career choices than
 those of a human.
 
 INITIAL TRAVELLER
@@ -1062,7 +1062,7 @@ that Aslan male. It is the foundation of Aslan SOC
 
 - for a landless male or female, his or her SOC is
 derived from the TER of his or her sire. A mated
-female’s SOC is based on her mate’s TER.
+female's SOC is based on her mate's TER.
 
 TER can be used in place of SOC. For example,
 instead of rolling Diplomat using his SOC DM, an
@@ -1284,7 +1284,7 @@ Vacc Suit
 1 Your ancestor shamed the clan and you come
 from a branch long dishonored. +0 Ancestral
 Territory
-2 Your family’s glory days are long gone, all that
+2 Your family's glory days are long gone, all that
 is left is the tales of great landholdings now
 lost to upstarts. +0 Ancestral Territory
 3 Your family made its fortune in the great
@@ -1294,7 +1294,7 @@ Ancestral Territory
 4 Your family are the descendants of an ancient
 hero forgotten by most Aslan. +1 Ancestral
 Territory
-5 Your family’s ancestor was a trickster who
+5 Your family's ancestor was a trickster who
 deceived his enemies. +2 Ancestral Territory
 6 Your ancestors were conquerors and great
 warriors. +2 Ancestral Territory
@@ -1330,7 +1330,7 @@ landhold. –1 Ancestral Territory
 12 +6 Ancestral Territory
 
 Only the first son in the family inherits the family
-Territory. Next, determine your Traveller’s place in
+Territory. Next, determine your Traveller's place in
 the family. In the case of multiple Travellers from the
 same family, only the eldest need roll on the Family
 Inheritance table – all other Travellers in that family are
@@ -1343,7 +1343,7 @@ Family Inheritance
 11–12 Third Son Youngest Daughter
 
 Finally, at the start of Traveller creation, the Traveller
-has left their parent’s pride. The Traveller may become
+has left their parent's pride. The Traveller may become
 part of another pride through Life Events or form one
 during a campaign.
 
@@ -1362,7 +1362,7 @@ There is no necessity for doing so, although it adds
 flavor and atmosphere to a campaign.
 
 Even when names from the Aslan language are chosen,
-these are unlikely to be the individual’s full names,
+these are unlikely to be the individual's full names,
 since an Aslan name is a long, sonorous and intricate
 structure that changes to note the background,
 accomplishments and life of its owner. Names for game
@@ -1377,7 +1377,7 @@ clan (usually SOC 16).
 Titles
 Aslan do not have titles, as such, although a high
 social standing may be denoted by certain portions of
-the individual’s name. In Aslan society, the social level
+the individual's name. In Aslan society, the social level
 characteristic denotes the relative status of both the
 individual and his or her family but no special titles are
 applied for specific social levels.
@@ -1390,10 +1390,10 @@ AKUAEUHREKHYEH
 (RITE OF PASSAGE)
 At the age of 15 (Aslan years), all Aslan Travellers
 undergo a rite of passage, the _Akhuaeuhrekhyeh_. This
-rite tests the individual’s fitness to enter society and has
+rite tests the individual's fitness to enter society and has
 an impact on careers.
 
-The actual rite is a test that examines the Traveller’s
+The actual rite is a test that examines the Traveller's
 abilities and qualities, and males and females undergo
 different rites.
 
@@ -1407,8 +1407,8 @@ both have the same characteristics: STR 10, DEX 7,
 END 8, INT 6, EDU 5, SOC 7. Hwelyr rolls a 6 for his
 rite of passage; Karinvyr rolls a 10._
 
-_Hwelyr’s Rite of Passage number is +4 (+STR, +DEX,
-+END, +SOC). Karinvyr’s Rite of Passage number is +0._
+_Hwelyr's Rite of Passage number is +4 (+STR, +DEX,
++END, +SOC). Karinvyr's Rite of Passage number is +0._
 
 A female Aslan rolls 2D which is compared to INT, EDU
 and SOC. A Rite of Passage score is created by adding
@@ -1468,7 +1468,7 @@ equivalent to both Army and Marine in the Traveller
 Core Rulebook. They represent clan military forces
 that may be employed in interclan warfare, on
 Hierate service, as mercenaries or as adjuncts to a
-corporation’s activities where the military force is
+corporation's activities where the military force is
 needed for security or other purposes.
 
 Males in Military service are fighters or combatants;
@@ -1577,7 +1577,7 @@ fact will usually be kept secret; for the fact to be
 revealed would be shameful. Further, Aslan society is
 rigid enough on the subject of skills that no respectable
 Aslan would hire someone for a job that required a skill
-inappropriate to the employee’s gender.
+inappropriate to the employee's gender.
 
 At times, Aslan are forced to learn what they consider
 inappropriate skills in order to survive. For example, it
@@ -1654,7 +1654,7 @@ only by males; females have no need of it. When
 Independence skill appears, males must roll 2D
 and score higher than their SOC to acquire the
 skill. Independence is a guide governing the
-Traveller’s ability to function without supervision.
+Traveller's ability to function without supervision.
 Lack of the skill indicates no concept of money
 at all; the Traveller must be looked after by a
 wife or companion who can pay for things and
@@ -1676,7 +1676,7 @@ others outside of the family, pride, clan and race.
 An Aslan without Tolerance is unlikely to be found
 in the company of non-Aslan.
 
-In any Aslan’s dealings with others, Tolerance
+In any Aslan's dealings with others, Tolerance
 offsets the negative DM called for under the
 reaction rules (see page 9).
 
@@ -1736,7 +1736,7 @@ Aslan aging is slower in its onset but more severe in
 effects than in human Travellers. The first roll on the
 Aging table is not made until age 40 (after six terms of
 service have been completed); thereafter, it is checked
-every term and _twice_ the Traveller’s number of terms
+every term and _twice_ the Traveller's number of terms
 served is applied as a negative DM to the roll.
 
 CEREMONIAL
@@ -1946,7 +1946,7 @@ injured; roll on the Injury table. If you succeed, you may continue in this care
 someone younger and more ambitious. Gain one of Survival 1, Pilot 1, Carouse 1 or Independence 1.
 
 6 A human ambassador insults you. Roll Tolerance 8+ to avoid eating him. If you succeed, you may continue in
-this career. If you fail, gain one of the human’s allies as an Enemy.
+this career. If you fail, gain one of the human's allies as an Enemy.
 
 **2D EVENT**
 
@@ -2061,7 +2061,7 @@ you succeed, you may remain in this career.
 
 3 A shift in clan politics leaves you shut out in the cold. Gain a Contact who stays in touch despite your new status.
 
-4 Your clan’s fortunes decline. You may continue in this career if you wish but you will gain no Benefit rolls this
+4 Your clan's fortunes decline. You may continue in this career if you wish but you will gain no Benefit rolls this
 term or the next.
 
 5 You are sent to a border world, where your career stagnates. Gain Survival 1, Flyer 1, Profession 1 or Navi-gate 1.
@@ -2471,7 +2471,7 @@ roll. Gain the researcher as a Rival. If you instead try to sabotage his work, r
 and lose SOC –2. Succeed and gain DM+2 to your next advancement roll. Gain the researcher as an Enemy.
 
 10 You obtain a rare alien artefact or life form to study. Roll any Science 8+. If you succeed, you uncover the
-subject’s secrets and gain DM+2 to your next advancement roll. If you fail, suffer DM-2 to your next ad-
+subject's secrets and gain DM+2 to your next advancement roll. If you fail, suffer DM-2 to your next ad-
 vancement roll.
 
 11 You study at one of the great universities or research facilities. Gain Investigate, or gain a +4DM to your next
@@ -2652,7 +2652,7 @@ Qualification: Rite of Passage 10+
 
 Choose one of the following.
 
-Commander: You command one of your clan’s
+Commander: You command one of your clan's
 mighty starships.
 Shipmaster: You advise the captain on
 technical matters and administer a ship.
@@ -2979,7 +2979,7 @@ the Injury table. Succeed and you gain an extra Benefit roll or SOC +1.
 
 10 You are offered employment by a clan to perform some deed that they want accomplished covertly. If you
 accept, roll Stealth 8+. Fail and you gain nothing. Succeed and you gain an extra Benefit roll. Alternatively, you
-can inform the clan’s enemies; gain a Benefit roll but also gain the clan as an Enemy.
+can inform the clan's enemies; gain a Benefit roll but also gain the clan as an Enemy.
 
 11 If male, you have the opportunity to reclaim your standing in society. Gain TER +1 and restore your SOC but
 you must leave this career after this term. If female and unmarried, then you may marry a male of good family.
@@ -3120,7 +3120,7 @@ Kinships are secret societies and trade guilds within
 Aslan society. A Traveller given membership in a kinship
 may ask other members of the kinship for aid, learn
 skills or obtain funding for further studies related to
-the kinship’s purpose. There are scientific kinships,
+the kinship's purpose. There are scientific kinships,
 engineering kinships, warrior secret schools and so forth.
 
 **Pensions**
@@ -3150,7 +3150,7 @@ Aslan hierarchy.
 **Clan Shares:** Aslan Travellers do not receive Ship Shares.
 Instead, they receive Clan Shares, which represent
 the clan placing an increasing amount of trust in the
-Traveller’s abilities and the Traveller gaining more
+Traveller's abilities and the Traveller gaining more
 control over the assets of the clan.
 
 A Traveller may trade Clan Shares for any of the
@@ -3168,13 +3168,13 @@ combine Clan Shares.
 **- Favors:** Clan Shares can be kept in reserve, and
     used to apply political pressure to the clan in the
     future. A Clan Share can be spent to acquire a
-    Contact in the clan’s upper echelons, or turn such a
+    Contact in the clan's upper echelons, or turn such a
     Contact into an Ally.
 **- Land:** This option can only be taken by a male Aslan
     with SOC 9+. The Traveller receives a landhold.
     Owning lands is the dream of all Aslan males, the
     chief ambition which drives them. To determine
-    the landholding’s quality and size, first select or
+    the landholding's quality and size, first select or
     generate the world where the landhold is located.
     The size of the holding on that world is then
     determined based on the number of Clan Shares
@@ -3213,7 +3213,7 @@ to attack rolls in any one of the following situations:
 2 Sickness or Injury: You are injured or become sick. Roll on the Injury table
 3 Birth or Death: Someone close you dies, like a friend or pride member. Alternatively, someone close to you
 gives birth (or is born!). You are involved in some fashion (father or mother, pridekin, honor guard).
-4 Territory Challenge: A rival attempts to claim some of your Territory (or your sire’s or mate’s Territory,
+4 Territory Challenge: A rival attempts to claim some of your Territory (or your sire's or mate's Territory,
 if you have none of your own). Make a Diplomat, Broker, Melee (natural) or Gun Combat check and
 increase or decrease your TER (or SOC, if you have no Territory) by the Effect of the roll.
 5 Change in Marriage Status: If not married, you are now married (either to an existing Ally or Contact,
@@ -3244,7 +3244,7 @@ yourself, you drop to SOC 2 and become Outcast.
 1D Event
 1 Prosperous Times: The clan acquires new Territories or trade routes. Gain an extra Benefit roll or DM+2
 to your next advancement roll.
-2 Rising Fortunes: Your clan’s political standing improves. Gain SOC +1.
+2 Rising Fortunes: Your clan's political standing improves. Gain SOC +1.
 3 New Ally: A member of your clan rises to an influential position. Gain him or her as an Ally.
 4 Feud: Your family is now feuding with another Aslan family. Gain the enemy family as an Enemy.
 5 War: Your clan goes to war. If male, you suffer DM-2 to survival rolls next term. If female, lose one
@@ -3269,7 +3269,7 @@ Aslan males and those made for females. Male items, such
 as most weapons, are simplified to the point of elegance
 (or beyond). A human laser rifle has a wealth of options
 and controls, allowing the user to set power consumption
-rates, adjust the weapon’s focus, connect the weapon
+rates, adjust the weapon's focus, connect the weapon
 to different types of heads-up-displays or diagnostic
 equipment and conduct field repairs. An Aslan laser rifle
 has an on-off switch and a trigger. Nothing comes between
@@ -3330,7 +3330,7 @@ A03/75674
 Aua-hide clothing is the traditional garb of most Aslan warriors and the
 heavy, musky stench of the leather is part of the bouquet of every Aslan
 world and starship. The Aslan produce so much aua-hide that it is used for
-everything from armor to cargo restraints to children’s toys.
+everything from armor to cargo restraints to children's toys.
 
 Armor Type Protection TL Rad Kg Cost Required Skill
 Aua-leather +1 2 — 2 Cr40 None
@@ -3351,8 +3351,8 @@ Armor Type Protection TL Rad STR DEX Slots Kg Cost Required Skill
 Aslan Battle Dress +19 14 265 +6 +3 (^20105) MCr1 Vacc Suit 2
 
 **A03/48956
-ASSASSIN’S GARB**
-Assassin’s garb consists of a form-fitting body glove studded
+ASSASSIN'S GARB**
+Assassin's garb consists of a form-fitting body glove studded
 with small armor plates. It is designed for stealth rather
 than protection and granting the wearer DM+1 to Stealth
 checks. An Aslan may not use a dewclaw while wearing this
@@ -3362,8 +3362,8 @@ incorporates the Vislight Chameleon option (see _Traveller Core
 Rulebook_ , page 96).
 
 Armor Type Protection TL Rad Kg Cost Required Skill
-Assassin’s Garb +3 8 — 1 Cr10000 None
-Assassin’s Garb +6 13 — 1 Cr100000 None
+Assassin's Garb +3 8 — 1 Cr10000 None
+Assassin's Garb +6 13 — 1 Cr100000 None
 
 A03/48956
 CEREMONIAL
@@ -3394,13 +3394,13 @@ Ceremonial Armor +4 3 — 6 Cr2000 None
 
 A03/75674
 COMBAT ARMOR
-Su’yerl armor is a common sight on the battlefields of the
+Su'yerl armor is a common sight on the battlefields of the
 Hierate. It uses a sandwich of composite materials over a 0.5cm
 layer of bonded superdense plating and is then coated in a
 reflec lacquer. The armor is too heavy for most humans to wear
-and even Aslan warriors find long fights in su’yerl to be difficult
+and even Aslan warriors find long fights in su'yerl to be difficult
 propositions. Travellers with STR 8- suffer DM-2 to all checks
-involving physical actions while wearing su’yerl.
+involving physical actions while wearing su'yerl.
 
 Armor Type Protection TL Rad Kg Cost Required Skill
 Combat Armor +15 12 120 14 Cr180000 Vacc Suit 1
@@ -3417,7 +3417,7 @@ Combat Flex +4 6 — 4 Cr300 None
 **A03/48956
 HEAVY COMBAT ARMOR**
 Only the strongest and most worthy warriors can bear the weight of
-_su’yerlva_ armor. The armor is even thicker and stronger than basic
+_su'yerlva_ armor. The armor is even thicker and stronger than basic
 combat armor and normally augmented with grav assist equipment.
 Travellers with STR 11- suffer DM-2 to all checks involving physical
 actions while wearing this armor.
@@ -3427,10 +3427,10 @@ Heavy Combat Armor +17 12 150 20 Cr300000 Vacc Suit 2
 
 **A03/75674
 COMBAT VACC SUIT**
-The _suya’uiyekhyerl_ is a combat variant of the standard heavy
+The _suya'uiyekhyerl_ is a combat variant of the standard heavy
 vacc suit, incorporating extra armor plating and weapon mounts.
 Aslan fighters and dropships are all designed with the bulky
-_suya’uiyekhyerl_ in mind. It has life support for six hours, although
+_suya'uiyekhyerl_ in mind. It has life support for six hours, although
 an Aslan may not use a dewclaw while wearing this armor.
 
 Armor Type Protection TL Rad Kg Cost Required Skill
@@ -3459,8 +3459,8 @@ addition, some are unique to the Hierate.
 **A03/75674
 HEAVY VACC SUIT**
 Heavy vacc suits are designed for use in hostile environments,
-much like the human HEV suit. The _suya’uiyekhva_ includes powered
-actuators to aid the wearer’s movements, as well as a limited built-
+much like the human HEV suit. The _suya'uiyekhva_ includes powered
+actuators to aid the wearer's movements, as well as a limited built-
 in artificial intelligence to advise male wearers on correct operation.
 It offers 12 hours of life support, although an Aslan may not use a
 dewclaw while wearing this armor.
@@ -3511,10 +3511,10 @@ A11/58231
 
 BOUNDARY BOX
 A necessity for any Traveller on an Aslan world, the boundary
-box contains maps of the planet’s surface as well as a
+box contains maps of the planet's surface as well as a
 database demonstrating which territory is owned by which
 Aslan noble. The box signals the Traveller when he is about
-to cross into an Aslan’s territory, ensuring he does not
+to cross into an Aslan's territory, ensuring he does not
 inadvertently cause offence. Additional maps for a boundary
 box cost Cr25.
 
@@ -3523,10 +3523,10 @@ Boundary Box 7 — Cr150
 
 **CLAN COMM**
 The standard Aslan personal communicator has dedicated
-channels for the owner’s family, pride and clan in addition to
+channels for the owner's family, pride and clan in addition to
 normal comm features. The gift of a clan comm to an outsider
 is an expression of trust and honor; illegal possession of
-another clan’s comm is an insult.
+another clan's comm is an insult.
 
 Modification TL Kg Cost
 Clan Comm 7 — Cr150
@@ -3548,7 +3548,7 @@ A11/58231
 These little drones are mobile food carriers, designed to
 remind Aslan of natural prey on Kusyu. They are used where
 live food would be impractical. Freshly heated meat is
-attached to the _khyeseir’s_ spikes and the drone is released to
+attached to the _khyeseir's_ spikes and the drone is released to
 run around the dining area.
 
 Hits Speed TL Cost
@@ -3575,11 +3575,11 @@ Programming Basic (labourer)
 ROBOTS
 
 **A11/58231 TECHNICIAN**
-A personal robot of great sophistication, the _hikare’_ is
+A personal robot of great sophistication, the _hikare'_ is
 capable of serving as an engineer on a one-man scout
 ship or as a personal servant. On larger ships, they are
-used to replace or aid female crew members. The _hikare’_
-design has evolved over time and older _hikare’_ are often
+used to replace or aid female crew members. The _hikare'_
+design has evolved over time and older _hikare'_ are often
 encountered on backward Aslan colonies. These robots are
 equipped with functioning, although limited, grav drives
 and completed technical and engineering toolkits
@@ -3601,7 +3601,7 @@ A11/58231
 A11/58231
 
 **BIO-ADJUSTMENT PILL**
-Bio-adjustment pills alter an Aslan’s digestion, allowing them
+Bio-adjustment pills alter an Aslan's digestion, allowing them
 to metabolise alien meats. Different planets require different
 types of pill, although broad-spectrum pills exist that are
 suitable for a variety of worlds. Cr20 will buy enough pills to
@@ -3631,7 +3631,7 @@ a cost of at least 50% higher than normal.
 
 **A11/58231 CLAW COATING**
 
-This augmentation covers the Aslan’s dewclaw in a polymer
+This augmentation covers the Aslan's dewclaw in a polymer
 seal that protects it from environmental damage such as
 extremes of temperature and pressure.
 
@@ -3672,7 +3672,7 @@ A11/58231
 
 **CLAW IMPLANT**
 Human Travellers living in Aslan space are at a disadvantage
-as they lack dewclaws. They can carry _hi’a’soi_ blades or,
+as they lack dewclaws. They can carry _hi'a'soi_ blades or,
 alternatively, can go all the way and have an artificial dewclaw
 implanted into the forearm. The human claw is embedded into
 the forearm; when unsheathed, it slides forward and projects
@@ -3686,10 +3686,10 @@ Claw Implant 10 Cr5000
 This enhancement was developed by the _Awyraolr_ clan
 during the Kinstrife and is banned throughout Aslan space.
 Nonetheless, some clans have kept the technology and even
-refined it. The predator suite sharpens the recipient’s senses
+refined it. The predator suite sharpens the recipient's senses
 and tweaks the endocrine system, enhancing the predator
 instincts of the Aslan. This augmentation increases the
-recipient’s STR, DEX and END by +2 permanently, although
+recipient's STR, DEX and END by +2 permanently, although
 INT and EDU are both reduced by –2, and DM-4 is applied to
 all Tolerance checks.
 
@@ -3723,25 +3723,25 @@ Tail Implant 9 Cr4000
 WEAPONS OF HONOUR
 Unless otherwise stated, all the weapons here use the Melee (blade) skill.
 
-**A11/58231 ASSASSIN’S BLADE**
+**A11/58231 ASSASSIN'S BLADE**
 The traditional weapon of an assassin is a curved blade,
 often with funnels in the blade containing poison. The
-delivery of a _soisu’soi_ is part of the ceremony that begins a
+delivery of a _soisu'soi_ is part of the ceremony that begins a
 War of Assassins. Modern blades are made of sensor-baffling
 materials, fold down to the size of a small coin and contain
 poison tailored to the metabolism and genetics of the
 intended family. An Aslan of the target genetic family who is
-struck by a modern assassin’s blade must make a Difficult
+struck by a modern assassin's blade must make a Difficult
 (10+) END check or suffer another 1D damage every hour for
 the next 1D hours.
 
 Weapon TL Range Damage Kg Cost Traits
-Assassin’s Blade 3 Melee 2D 0.5 Cr500 —
-Assassin’s Blade 10 Melee 2D+3 — Cr5000 —
+Assassin's Blade 3 Melee 2D 0.5 Cr500 —
+Assassin's Blade 10 Melee 2D+3 — Cr5000 —
 
 **A11/58231 CRESCENT BLADE**
 
-The _taleryu_ is a symbol of a noble’s authority; it was
+The _taleryu_ is a symbol of a noble's authority; it was
 traditionally used to execute trespassers but works well as a
 combat weapon. _Taleryu_ are sometimes used in zero-gravity
 combat in the same way cutlasses are used by humans of
@@ -3772,7 +3772,7 @@ A11/58231
 A11/58231
 
 **MONKEY KNIFE**
-_Hi’asoi_ are ceremonial weapons used by humans who have
+_Hi'asoi_ are ceremonial weapons used by humans who have
 integrated into Aslan society. The blade resembles a dewclaw,
 and is worn strapped to the wrist, allowing a human to fight in
 duels, using the blade as a proxy claw. The chances of survival
@@ -3781,14 +3781,14 @@ against an Aslan male are, of course, minimal.
 Weapon TL Range Damage Kg Cost Traits
 Monkey Knife 3 Melee 1D — Cr150 —
 
-**REAVER’S AXE**
+**REAVER'S AXE**
 An oversized great-axe, the _yuhaih_ is a weapon of terror, as it makes a thunderous noise
 as it is whirled through the air. Dewclaws are needed to wield the _yuhaih_ properly, as the
-wielder’s claws slot into a round hole in the shaft, allowing him to spin it at great speed
-before he drives it into a foe’s skull.
+wielder's claws slot into a round hole in the shaft, allowing him to spin it at great speed
+before he drives it into a foe's skull.
 
 Weapon TL Range Damage Kg Cost Traits
-Reaver’s Axe 4 Melee 4D 5 Cr500 —
+Reaver's Axe 4 Melee 4D 5 Cr500 —
 
 **SPEAR-HOOK**
 A combination of spear (at one end) and four-pronged grappling hook
@@ -3823,9 +3823,9 @@ Yeheal Autorifle 6 275 3D 7 Cr850 64 Cr40 Auto 2
 **GRAVITY SPEAR**
 This weapon is a recent breakthrough by the Aslan and still largely
 experimental. It works on the same principle as a gravity plate or repulsor,
-projecting a ‘lance’ of gravitational force forward. Anything within the path
+projecting a 'lance' of gravitational force forward. Anything within the path
 of the beam is subjected to a 10G force, pulling it towards or away from the
-_hlaulrakh_. The _hlaulrakh’s_ beam flickers on and off a dozen times a second
+_hlaulrakh_. The _hlaulrakh's_ beam flickers on and off a dozen times a second
 and circles around a small area, causing thousands of tears and fractures in
 the internal organs of the target. Armor is never counted against the damage
 caused by the gravity spear.
@@ -3854,9 +3854,9 @@ A11/58231
 **PLASMA STREAMER**
 A primitive version of the human PGMP, this weapon lacks the magnetic
 containment needed to focus the plasma blast into a coherent beam. The
-_wye’oiheasarl_ is fired much like a flamethrower, vomiting a stream of star-
-hot matter over a wide area. Proper use of the wye’oiheasarl requires proper
-protective gear (the operator takes 1D damage when the _wye’oiheasarl_ is fired,
+_wye'oiheasarl_ is fired much like a flamethrower, vomiting a stream of star-
+hot matter over a wide area. Proper use of the wye'oiheasarl requires proper
+protective gear (the operator takes 1D damage when the _wye'oiheasarl_ is fired,
 although this damage can be reduced by armor).
 
 Weapon TL Range Damage Kg Cost Magazine Power Pack Cost Traits
@@ -3982,7 +3982,7 @@ added complexity. The body of the crawler is
 akin to a flattened dome but is divided into
 sections with a healthy amount of space for
 passengers to make long journeys comfortable.
-The driver’s cab is located in the front third of
+The driver's cab is located in the front third of
 the dome.
 
 A successful Mechanics check and a suitable
@@ -4194,7 +4194,7 @@ chariot. Most grav barges can actually move
 under their own power but it is considered
 gauche to actually fly a grav barge; the
 whole point of the vehicle is to slowly tour
-one’s territory in a traditional manner.
+one's territory in a traditional manner.
 Understandably, grav barges tend to undergo
 a great deal of customization – fortunately,
 space is the one thing they do not lack.
@@ -4230,7 +4230,7 @@ reflected in their design.
 Aslan have no special regard for luxury and the Hierate
 does not have separate High Passage tickets. All paid
 passages are Middle, Basic or Low. However, any
-Aslan of SOC 9+ will receive the services of the ship’s
+Aslan of SOC 9+ will receive the services of the ship's
 steward automatically and the Middle Passage baggage
 allowance increases to 500 kilograms. Aslan nobles
 always have precedence and usually bump passengers
@@ -4245,15 +4245,15 @@ enter any region of space – but before he puts a single
 foot on the ground, he must give all traditional honors
 to the landowner.
 
-**Clan Hospitality:** There is a strong tradition that ‘the
-clan takes care of its own’. If members of a Traveller’s
+**Clan Hospitality:** There is a strong tradition that 'the
+clan takes care of its own'. If members of a Traveller's
 clan live on a particular world, they will offer free
 food and lodging and provide a Middle Passage ticket
 upon a Difficult (10+) Persuade check. Outcasts or
 Travellers who have been Outcasts are not extended
 this hospitality.
 
-Referees can determine the presence of an Aslan’s
+Referees can determine the presence of an Aslan's
 clan on a world through materials they have previously
 prepared; alternatively, roll 10+ on 2D, modified by the
 Clan Presence table.
@@ -4302,15 +4302,15 @@ ship thus provides a steward in order to avoid losing an
 engineer or astrogator at the wrong moment.
 
 Medics are not required either; the position of medic is
-filled when the ship’s owner feels it necessary or when
+filled when the ship's owner feels it necessary or when
 the crew demands it forcefully enough.
 
 Because of the nature of Aslan society and upbringing,
 most ships have a male in formal command of the ship
 and a female who deals with many details (specifically
-finances) that are beneath the male’s dignity. The male
+finances) that are beneath the male's dignity. The male
 captain is almost always the pilot. On military ships,
-the female is the captain’s executive officer, while on
+the female is the captain's executive officer, while on
 commercial ships, she will be the purser. In both cases,
 she may also be the astrogator.
 
@@ -4460,7 +4460,7 @@ space). This ship requires a crew of two,
 pilot and engineer/astrogator (although
 one individual with pilot, engineer and
 astrogator skills can handle the ship alone).
-The Hraye’s cheap running cost means
+The Hraye's cheap running cost means
 these vessels are often found serving as
 couriers or transports in small colonies.
 
@@ -4834,10 +4834,10 @@ Using a 600-ton hull, this clan transport
 is a large freight and passenger vessel
 used by clans and companies upon major
 trade routes. A 95-ton shuttle is carried
-as ship’s vehicle which, with a generous
+as ship's vehicle which, with a generous
 passenger or cargo capacity means the
 transport does not require a streamlined
-hull itself and the shuttle’s cargo bay is
+hull itself and the shuttle's cargo bay is
 often utilised to increase the total tonnage
 this ship can carry.
 
@@ -5813,7 +5813,7 @@ These heavy carriers are designed for
 invasions and open wars. If a Sakhai
 appears in the skies over a world, then it
 will be under the claw in a matter of days.
-The Sakhai’s distinctive ‘horseshoe’ profile
+The Sakhai's distinctive 'horseshoe' profile
 allows its batteries of beam lasers and
 missile racks to rake targets on either side,
 while protecting the mighty fusion bay
@@ -5827,7 +5827,7 @@ on a planet, it takes a skilled hand at the
 controls and a dedicated team of engineers
 to keep the ship spaceworthy after
 touching down. A bad landing can warp the
-ship’s dorsal struts, effectively crippling
+ship's dorsal struts, effectively crippling
 it. Many far flung Aslan outposts have a
 downed Sakhai at their hearts.
 
@@ -6103,19 +6103,19 @@ LEGEND
 PILOT, ASTROGATOR, PURSER,
 ENGINEER, GUNNERS X 2
 
-AOA’IW-CLASS LIGHT TRADER
+AOA'IW-CLASS LIGHT TRADER
 
 A popular design inside the Hierate,
 especially within the Trojan Reach, the
-little Aoa’iw is a 300-ton trader that
+little Aoa'iw is a 300-ton trader that
 combines a sizable cargo bay with space
 for passengers, enough firepower to serve
 as a raider or defend itself from piracy
 and vehicles to support a flexible mission
-profile. Aoa’iws are often owned by clans,
+profile. Aoa'iws are often owned by clans,
 as they are capable of performing a wide
 variety of tasks. On the border worlds, the
-Aoa’iw is nicknamed the ‘pouncer’, as it
+Aoa'iw is nicknamed the 'pouncer', as it
 does resemble a crouching animal from
 certain angles.
 
@@ -6226,7 +6226,7 @@ GUNNERS X 12
 
 HALAHEIKE-CLASS POCKET WARSHIP
 
-This so-called ‘pocket warship’ is a 1,200-ton
+This so-called 'pocket warship' is a 1,200-ton
 spacecraft used by smaller clans for military
 operations. The Halaheike is heavily armed for
 its size, with a range of missile racks, lasers and
@@ -6238,7 +6238,7 @@ low berths (although this will put a serious strain
 on the power plant), allowing the Halaheike to
 serve as a troop transport.
 The design is known for maintenance issues and
-jump drive failures but the vessel’s main problem
+jump drive failures but the vessel's main problem
 is that it tries to do too much in one package,
 requiring the most advanced Aslan technology
 just to function. The Halaheike might be a
@@ -6356,108 +6356,108 @@ sandcaster)
 66
 44
 
-# THE K’KREE
+# THE K'KREE
 
 **CHAPTER-SIX**
 
-The K’kree are a race of herbivorous herd-creatures
+The K'kree are a race of herbivorous herd-creatures
 whose home lies to trailing of the Imperium. They are
 quite possibly the greatest threat to the survival of
 Humaniti as a species.
 
-The K’kree are sometimes colloquially referred to
+The K'kree are sometimes colloquially referred to
 as Centaurs, after ancient Terran myth. They have a
 quadruped main body and hindquarters, with an upright
 frontal torso; well suited to roaming the plains of their
 homeworld, their large bodies impede the ability to
-carry out highly technical tasks. In particular, the K’kree
+carry out highly technical tasks. In particular, the K'kree
 are not natural spacefarers as, in addition to their
 considerable size and bulk, they are psychologically
-dependent on the support of the herd. A K’kree isolated
+dependent on the support of the herd. A K'kree isolated
 from its friends will soon go mad with loneliness.
 
-The K’kree are militant herbivores. Millenia of battling
+The K'kree are militant herbivores. Millenia of battling
 for survival against the predators of their homeworld
 has left them with a pathological hatred for what they
-call G’naak – meat-eaters or, more properly translated,
-vermin. This is how the K’kree view most other species:
+call G'naak – meat-eaters or, more properly translated,
+vermin. This is how the K'kree view most other species:
 inferior, threatening and worthy only of extermination.
-K’kree folk tales contain many references to trampling
-G’naak under the massed hooves of the herd and they
+K'kree folk tales contain many references to trampling
+G'naak under the massed hooves of the herd and they
 have taken this manifest destiny with them to the stars.
 
-This makes K’kree rather difficult to get along with,
+This makes K'kree rather difficult to get along with,
 both on a personal and political scale. They are realistic
-enough to realise they cannot exterminate all G’naak
+enough to realise they cannot exterminate all G'naak
 in the universe, not all at once, but that does not stop
-them wanting to. K’kree can and do build friendships
-with non-K’kree but this is very rare and usually on the
-K’kree’s terms. G’naak who have been subjugated and
+them wanting to. K'kree can and do build friendships
+with non-K'kree but this is very rare and usually on the
+K'kree's terms. G'naak who have been subjugated and
 follow a herbivorous diet are tolerable; everyone else is
 somewhere on the to-kill list.
 
-This section contains details of K’kree society and
+This section contains details of K'kree society and
 culture, including their critically important family and
-herd structures and presents rules for playing a K’kree
-Traveller. In almost all cases a K’kree Traveller will not
+herd structures and presents rules for playing a K'kree
+Traveller. In almost all cases a K'kree Traveller will not
 be alone; they will be part of a small group which, in
-many ways, acts as an individual. There is no ‘hive
-mind’ for K’kree but they have such strong family
+many ways, acts as an individual. There is no 'hive
+mind' for K'kree but they have such strong family
 identity and clearly defined roles that often a family
 can be thought of in much the same way as a human
 individual... only taking up a lot more space.
 
-Also detailed are K’kree technology, weaponry
+Also detailed are K'kree technology, weaponry
 and starships. Their unusual physical and social
 characteristics require a very different approach to
 vehicles and vessels. Nevertheless, they are considered
 to be one of the Major Races as they developed the
 jump drive independently of all other species.
 
-The K’kree are very different to other aliens and should
+The K'kree are very different to other aliens and should
 be approached with caution (both in-game and around
 the gaming table) as they are utterly inflexible in some
 ways and some characteristics can make them hard
-to play. As herd creatures, K’kree absolutely must
+to play. As herd creatures, K'kree absolutely must
 be close to others of their own kind or they become
-distressed and, eventually, insane. A ‘lone wolf’ K’kree
+distressed and, eventually, insane. A 'lone wolf' K'kree
 Traveller could conceivably exist with a suitable
-backstory but they would have ceased to be K’kree
+backstory but they would have ceased to be K'kree
 in the eyes of their fellows and probably could not
 function for long between breakdowns.
 
-This is reflected in K’kree Traveller creation, where a
-K’kree gains a family as well as skills and it is the group
+This is reflected in K'kree Traveller creation, where a
+K'kree gains a family as well as skills and it is the group
 rather than the individual that is played. This is open
 to exploitation, perhaps using the extra family members
 as cannon fodder or to carry out dangerous tasks but
-such acts would be out of character for K’kree, who are
+such acts would be out of character for K'kree, who are
 instinctively compelled to safeguard and protect their
 family and herd. Playing the patriarch of a group of
-K’kree rather than a conventional Traveller is a challenge
+K'kree rather than a conventional Traveller is a challenge
 that should only be attempted by experienced players
 who understand what they are getting into.
 
-K’kree are also strict traditionalists who have a
+K'kree are also strict traditionalists who have a
 pathological hatred of meat-eaters of all kinds. There
 is no flexibility here; meat-eaters are the enemy,
-always, and the strict hierarchy of K’kree society must
+always, and the strict hierarchy of K'kree society must
 be obeyed. Travellers are typically characterised by a
-desire to ‘do their own thing’, often in disregard for
+desire to 'do their own thing', often in disregard for
 social norms and rules. Such individualism is something
-K’kree _just don’t do_. There is no such thing as a ‘bit of a
-rebel’ in K’kree society; an individual who behaved that
+K'kree _just don't do_. There is no such thing as a 'bit of a
+rebel' in K'kree society; an individual who behaved that
 way would be outcast or perhaps just killed as a threat
 to the herd – changes to traditional values and way of
-life are as big a threat to the K’kree as casualties among
+life are as big a threat to the K'kree as casualties among
 the population – and once outcast would be subject to
 the ill-effects of isolation.
 
-K’kree can be played as Travellers but doing so is a
+K'kree can be played as Travellers but doing so is a
 unique experience that requires exploring the mindset
 of a totally alien race. That is a rewarding experience
 because it is difficult and the Referee should ensure
-anyone wanting to play a K’kree family as a Traveller
+anyone wanting to play a K'kree family as a Traveller
 knows what will be required. It is not a good idea to
 allow play of more than one family member unless
 the subordinates know they are required to obey in all
@@ -6465,74 +6465,74 @@ things and are willing to do so. If the Travellers want to
 
 give it a try anyway, good for them! The Referee should
 have no mercy on those who stray from the tenets of
-K’kree existence. The K’kree themselves have none, as
+K'kree existence. The K'kree themselves have none, as
 we shall see...
 
 PHYSIOLOGY
-The K’kree are described by scientists as herbivorous,
+The K'kree are described by scientists as herbivorous,
 homeothermic (warm-blooded), bilaterally symmetrical
 hexapods, breathing an oxygen-nitrogen mix. A typical
 adult is around 2-2.4m tall and masses about 550kg –
-about eight times the average human. K’kree bodies are
+about eight times the average human. K'kree bodies are
 covered in thick fur, which is usually grey or black.
 
 The two forelimbs end in manipulatory organs similar,
-but different in construction, to the human hand. K’kree
-‘fingers’ are actually tubes of cartilage, with only the
+but different in construction, to the human hand. K'kree
+'fingers' are actually tubes of cartilage, with only the
 opposable thumb containing bone. This allows the
 fingers to be pulled out of the way for the hand to be
 used as a surprisingly effective blunt instrument. The
-K’kree hand is highly dextrous but generally weaker in
+K'kree hand is highly dextrous but generally weaker in
 grip strength than a human hand.
 
 The four rear limbs are proportioned for walking and
 end in feet often colloquially referred to as hooves. In
 fact the rear feet combine the function of a hoof with a
-less dextrous version of their hands. The ‘toes’ (which
+less dextrous version of their hands. The 'toes' (which
 are again cartilaginous rather than bony) begin well
 short of the sole, allowing them to be retracted whilst
 the sole is being used as a hoof. By extending its toes,
-a K’kree can improve its ability to feel the ground or
+a K'kree can improve its ability to feel the ground or
 even manipulate objects.
 
-K’kree feet are capable of limited gripping and
+K'kree feet are capable of limited gripping and
 significant changes of shape, making them much more
 sure-footed in rough terrain than might be expected.
 The ability to grip objects with their fees is not sufficient
 to manipulate anything complex but it does allow an
-item to be held ready in a middle foot whilst the K’kree
+item to be held ready in a middle foot whilst the K'kree
 stands on the other three and can be used to secure
-a K’kree in low gravity. This gives rise to the ability to
+a K'kree in low gravity. This gives rise to the ability to
 rush through a starship or installation with no artificial
 gravity, using whatever hand and footholds present
 themselves. The effect can be amusing or utterly
-terrifying for observers depending on why the K’kree is
+terrifying for observers depending on why the K'kree is
 moving in such haste.
 
-K’kree have two genders, male and female, and give
+K'kree have two genders, male and female, and give
 birth to live young. Family groups usually comprise a
 male and on average four females, with additional non-
 breeding family members of both sexes. This family unit
-is the building block of K’kree society and has political
+is the building block of K'kree society and has political
 as well as social significance. Herds are built up of
-multiple families owing allegiance to the herd’s leaders
+multiple families owing allegiance to the herd's leaders
 through layers of sub-leaders.
 
-It is widely believed that the K’kree underwent rapid
+It is widely believed that the K'kree underwent rapid
 evolutionary development as a result of disaster
 striking their homeworld of Kirur. A supernova event in
 nearby space caused significant ecological and climate
-changes, forcing the surviving K’kree to develop in
+changes, forcing the surviving K'kree to develop in
 response. Sophisticated tool use and the ability to
-communicate complex plans allowed the K’kree to turn
+communicate complex plans allowed the K'kree to turn
 the tables on the predators that had previously kept their
 numbers down. From semi-intelligent herd creatures and
-prey for their world’s carnivores, the K’kree became first
+prey for their world's carnivores, the K'kree became first
 warriors and then exterminators.
 
-The social order of the K’kree was established in this
+The social order of the K'kree was established in this
 time. The most successful warriors and leaders in the
-fight against the carnivores became lords of the K’kree
+fight against the carnivores became lords of the K'kree
 herds. Since then, physical prowess and charisma
 never went out of fashion. Those who can protect a
 family and their herd are the most attractive mates and
@@ -6541,38 +6541,38 @@ family connections. Weaker individuals are relegated
 to the fringes of the herd and are to some extent
 considered expendable.
 
-At the same time as the K’kree were evolving
+At the same time as the K'kree were evolving
 intelligence, at least one carnivorous species on their
 homeworld of Kirur was undergoing the same process.
 The result was a long period of warfare that stimulated
 technological growth on both sides. Although the
-K’kree gained the upper hand, their enemies developed
+K'kree gained the upper hand, their enemies developed
 primitive spaceflight technology before their final doom
-became apparent. Some were able to escape to Kirur’s
-moon where they built a colony. Eventually the K’kree
+became apparent. Some were able to escape to Kirur's
+moon where they built a colony. Eventually the K'kree
 followed them there and exterminated their foes at last.
 
 The name of this enemy is not known. It seems that
-the early K’kree were not content with eradicating them
+the early K'kree were not content with eradicating them
 but wanted to destroy even their memory. Today they
-are simply known as G’naak like all other meat-eaters,
-although those with a familiarity with K’kree speech
+are simply known as G'naak like all other meat-eaters,
+although those with a familiarity with K'kree speech
 claim to detect a slight change in inflection when this
 particular species of vermin are mentioned. Outsiders
-refer to the K’kree’s great foe as the Kirrixurians but
+refer to the K'kree's great foe as the Kirrixurians but
 generally find it safest not to mention them at all – by
-any name – when dealing with K’kree.
+any name – when dealing with K'kree.
 
 SOCIETY
 Once they had become the dominant society of their
-homeworld and removed the G’naak threat from their
-moon, there was less impetus for the K’kree to develop
+homeworld and removed the G'naak threat from their
+moon, there was less impetus for the K'kree to develop
 technology and move away from the free-roaming
 lifestyle of their ancestors. Progress did occur but was
 balanced by social conservatism in a way that resulted
 in cultural features being retained where other species
 would have forgotten them. Among these traditions was
-the highly complex caste system of the ancient K’kree,
+the highly complex caste system of the ancient K'kree,
 based upon dominance of a leader and value to the
 
 herd of an individual. Although at times not well fitted
@@ -6581,73 +6581,73 @@ present day and is unlikely to be altered much by the
 passing of time.
 
 The caste system is subtle and contains many nuances
-too complex to be understood by non-K’kree but in
+too complex to be understood by non-K'kree but in
 broad terns there are four commonly understood
-echelons within K’kree society. Only males have caste;
+echelons within K'kree society. Only males have caste;
 females are casteless until they join the household of
 a husband. Outsiders consider casteless unmarried
 females to be grouped with outcast males and orphans
-in the ‘casteless’ category, although there are many
+in the 'casteless' category, although there are many
 distinctions – one unmarried female will be treated
 differently to another for reasons not immediately
-apparent to non-K’kree.
+apparent to non-K'kree.
 
 Within casted society, the lowest status group is
-generally referred to as ‘servants’ by non-K’kree. The
+generally referred to as 'servants' by non-K'kree. The
 servant caste includes some actual servants but is
 mostly made up of physical workers and those whose
 professions traditionally require little or no education.
 Thus despite a modern factory worker, functionary or
 farmer needing to be highly knowledgeable about their
-field, they will belong to the ‘servant’ caste and be
-considered of low importance in K’kree society.
+field, they will belong to the 'servant' caste and be
+considered of low importance in K'kree society.
 
 Educated professions traditionally formed the
-‘merchant’ caste, including scientists, technicians,
+'merchant' caste, including scientists, technicians,
 administrators and actual merchants. In ancient times
-a K’kree needed a certain level of wealth and status
+a K'kree needed a certain level of wealth and status
 to enter an educated profession, so these positions
 became hereditary. Nothing has changed; despite it
 possible to provide a good education and chances of
 advancement in society, the very idea is ridiculous to a
-K’kree. Caste determines caste and other requirements
+K'kree. Caste determines caste and other requirements
 such as education must be provided to permit the next
 generation to maintain their status.
 
-The highest caste is commonly referred to as ‘nobles’
+The highest caste is commonly referred to as 'nobles'
 by outsiders and includes military commanders as
 well as diplomats, governors and those few who have
 transcended the upper boundaries of the merchant
 caste. Social mobility in a downward direction is not
-uncommon and is a constant threat to any K’kree family
+uncommon and is a constant threat to any K'kree family
 struggling to maintain its status. Upward movement is
 much rarer but does happen. Sometimes this is due to a
-K’kree emerging as a leader in a crisis or being rewarded
+K'kree emerging as a leader in a crisis or being rewarded
 for actions that impressed superiors. Others have
 become so successful in their field they have ceased to
-be merchants and become nobles. K’kree society has
+be merchants and become nobles. K'kree society has
 many wealthy traders within the merchant caste but the
 leaders of a major commercial or industrial group will be
 nobles rather than merchants. The defining point seems
-to be where a K’kree ceases to carry out the function of
+to be where a K'kree ceases to carry out the function of
 his caste and instead commands those who do.
 
-- Casteless K’kree are essentially expendable. They
+- Casteless K'kree are essentially expendable. They
     include unmarried females and males who are not
     part of a casted household.
 - Servants serve and support the herd by undertaking
     work that may require specific skills but involves
     little decision-making and thus no real understanding
     of wider issues. The servant caste is sometimes
-    described using a K’kree word that translates as
+    described using a K'kree word that translates as
     _those who obey the Steppelord in all things_.
-- Merchants are the backbone of the herd’s economic,
+- Merchants are the backbone of the herd's economic,
     scientific, technical and political life. They are
     expected to obey their superiors without question
     but know their business sufficiently well as to be
     able to carry out orders effectively even in complex
     situations. Their title reflects their importance in
-    K’kree society; it can be translated as _those who are_
+    K'kree society; it can be translated as _those who are_
     _the herd_.
 - Nobles lead and govern. The least important of them
     handle specific tasks on behalf of the herd. More
@@ -6656,10 +6656,10 @@ his caste and instead commands those who do.
     numerous titles for nobles, varying with importance
     and specific areas of authority.
 
-Social organization begins with the ‘little family’,
+Social organization begins with the 'little family',
 which can contain as few as half a dozen individuals.
 The caste of the family is determined by its dominant
-male. Other family members include the male’s wives
+male. Other family members include the male's wives
 and children, with some unmarried males, usually
 related to the dominant male. They carry out whatever
 functions are required, from drivers and guards to clerks
@@ -6671,8 +6671,8 @@ is a little leeway for those who cannot do this due to
 circumstances and an unmarried female eventually
 becomes casteless and is driven out of her family.
 
-Several little families are usually grouped into a ‘big
-family’. Many members will be related to other little
+Several little families are usually grouped into a 'big
+family'. Many members will be related to other little
 families within the grouping and often it is obvious when
 
 a child is born whose little family she will eventually
@@ -6683,68 +6683,68 @@ extended family will be the same; big family is the
 highest social grouping where this is the case.
 
 Several big families, of differing caste, are organised
-into a ‘field-family’ – more commonly referred to as a
-herd. A herd will be led by a noble K’kree and supported
+into a 'field-family' – more commonly referred to as a
+herd. A herd will be led by a noble K'kree and supported
 by big families from the merchant and servant castes. A
 herd might have some casteless individuals associated
 with it; these have a nebulous status, not part of the
 herd but receiving protection and condescending
 support from it. They are likely to be sacrificed in a
-crisis and are sometimes referred to as ‘decoys’ or
+crisis and are sometimes referred to as 'decoys' or
 similar terms implying they are kept around to distract
 predators (possibly of a metaphorical sort) from the
-herd’s real members.
+herd's real members.
 
 Multiple herds are grouped into clans, sometimes
-referred to as ‘pasture-families’. A clan will have a
+referred to as 'pasture-families'. A clan will have a
 dominant noble (clanlord) who rules the clan as a whole,
 plus additional noble families who carry out specific
 tasks as well as the ruling nobles of the member herds.
-A small K’kree city is the modern equivalent of a clan
+A small K'kree city is the modern equivalent of a clan
 and will be governed by a clanlord. Larger cities may
 contain several clans and will either be ruled by the
 most senior clanlord or, if large enough, be considered a
-‘plain-family’.
+'plain-family'.
 
 Multiple clans or small cities will be grouped into a
-‘plain-family’ led by a senior noble and several such
-plain-families make up the equivalent of a K’kree
+'plain-family' led by a senior noble and several such
+plain-families make up the equivalent of a K'kree
 nation. These groupings are ruled by an individual
 known as a Steppelord, with subordinate plain-families
 led by nobles holding the title of Lieutenants-of-
 the-Steppelord. Above the Steppelords are planetary
 governors and rulers of groups of worlds, while above
 them stands the Grand Steppelord of the Two Thousand
-Worlds, ruler of all K’kree.
+Worlds, ruler of all K'kree.
 
-**K’kree Groupings**
+**K'kree Groupings**
 
-Grouping Number of K’kree Ruler
+Grouping Number of K'kree Ruler
 Little Family 6–24 Dominant Male
 Big Family 100–200 Dominant Male
 Herd 300–800 Herdlord
 Clan 1000+ Clanlord
 Plain-Family 10,000+ Lieutenant-of-the-Steppelord
 Steppe-Family 25,000+, often far more Steppelord
-All K’kree on a given world Possibly millions Lord-Of-Steppelords
-All K’kree Grand Steppelord of the 2,000 Worlds
+All K'kree on a given world Possibly millions Lord-Of-Steppelords
+All K'kree Grand Steppelord of the 2,000 Worlds
 
 Politics between nobles of similar rank can be complex
-but all noble K’kree understand the subtle nuances
+but all noble K'kree understand the subtle nuances
 that dictate their exact place in the hierarchy of nobles.
 One Steppelord may rule a far larger area and number
-of K’kree than another and will be ranked more highly
+of K'kree than another and will be ranked more highly
 despite an outsider potentially not being able to tell
 the difference. Attempts have been made by human
 observers to assign additional levels of Steppelordship
-based on the nature and size of holdings but the K’kree
+based on the nature and size of holdings but the K'kree
 themselves do not need such things; everyone knows
-their place – and everyone else’s place too.
+their place – and everyone else's place too.
 
 SOCIAL VALUES
-The herd mentality is strong in all K’kree and defines
+The herd mentality is strong in all K'kree and defines
 many of their social and cultural values. Their social
-hierarchy is so deeply ingrained that few K’kree ever
+hierarchy is so deeply ingrained that few K'kree ever
 wonder what it would be like to question authority, let
 alone do it. The head of a household is the absolute
 master of its members and his superior in the herd
@@ -6754,38 +6754,38 @@ distant Steppelord is law throughout his entire domain.
 This respect for authority extends to the worship of
 ancestors. They are not gods in the usual sense but a
 combination of cultural heroes and paragons of how a
-K’kree should live their life. The ancestors showed the
+K'kree should live their life. The ancestors showed the
 present generation how to live and struggled against
 great odds to ensure the survival of the species. This is
-true throughout all of K’kree history – most families have
+true throughout all of K'kree history – most families have
 favored ancestors they particularly venerate but respect
 all those who came before, right back to the dawn of
-K’kree civilization.
+K'kree civilization.
 
-This mentality is in part due to the status of K’kree as
+This mentality is in part due to the status of K'kree as
 prey animals. Most intelligent species are predators to
 at least some extent and have deep-rooted instincts that
-tell them they can dominate other creatures. The K’kree
+tell them they can dominate other creatures. The K'kree
 think prey-if-we-let-ourselves-be-prey and are constantly
 mindful that if they fail to impose their will on the
-universe they will once again become food for G’naak.
+universe they will once again become food for G'naak.
 
-K’kree responses to problems are thus often rather
+K'kree responses to problems are thus often rather
 extreme. Once a threat crosses the threshold to become
 significant then it must be stomped out of existence;
 there is no middle ground. An intelligent predator tends
-to think – at an instinctive level – in terms of ‘not hungry
-right now, no need to do anything until I am’ whereas
-the K’kree mindset is more like ‘that thing will kill me
+to think – at an instinctive level – in terms of 'not hungry
+right now, no need to do anything until I am' whereas
+the K'kree mindset is more like 'that thing will kill me
 and eat me when it gets hungry, which will happen
-sooner or later’. This refusal-of-prey-status mindset was
-one of the fundamental changes the K’kree underwent,
+sooner or later'. This refusal-of-prey-status mindset was
+one of the fundamental changes the K'kree underwent,
 and drives their response to almost every situation.
 
-K’kree are highly social and cannot function without the
+K'kree are highly social and cannot function without the
 proximity of their kind. They display great hospitality
 to strangers, providing those strangers are considered
-friendly. Other K’kree almost always fall into this
+friendly. Other K'kree almost always fall into this
 category, as do some other species. Their property
 is subject to an unusual system of family ownership
 
@@ -6798,93 +6798,93 @@ to simply take items without asking but someone who
 failed to return or replace them would be breaking the
 social code, which is virtually unthinkable. Likewise,
 taking something that is needed or which the owning
-family considers ‘not available’ is also a major breach
+family considers 'not available' is also a major breach
 of social norms. Exactly how outsiders are to know what
 is available for communal use and what is not, is a
-question that has baffled non-K’kree for many years.
+question that has baffled non-K'kree for many years.
 
-K’kree have a pathological hatred of carnivores and
+K'kree have a pathological hatred of carnivores and
 omnivores who have not converted to a herbivorous
-diet. Being an eater of meat means being G’naak and
-G’naak are the enemy. There are no exceptions and
-there is no tolerance. K’kree can detect faint traces of
+diet. Being an eater of meat means being G'naak and
+G'naak are the enemy. There are no exceptions and
+there is no tolerance. K'kree can detect faint traces of
 pheromones that indicate recent meat-eating, so anyone
 who has consumed an animal in the past few days will
-experience the ‘G’naak reaction’. This is an instinctive
+experience the 'G'naak reaction'. This is an instinctive
 unease or revulsion, depending on how strongly the
-Traveller smells of flesh consumption. Some K’kree can
+Traveller smells of flesh consumption. Some K'kree can
 fail to recognize the cause of their unease and may not
-immediately realise they are in the presence of G’naak.
+immediately realise they are in the presence of G'naak.
 Those that do tend to react violently.
 
 A common rule of thumb is to avoid meat products for
-30 days before going anywhere near K’kree, although
+30 days before going anywhere near K'kree, although
 it is rumored there are those who can tell if a person
 has ever eaten meat. It is not clear if these claims are
-true or just an excuse for K’kree zealots to attack anyone
+true or just an excuse for K'kree zealots to attack anyone
 they please.
 
 PSYCHOLOGICAL
 
 TRAITS
-The following traits are common to almost all K’kree and
+The following traits are common to almost all K'kree and
 should be borne in mind when portraying members of
-the K’kree race.
+the K'kree race.
 
-Herd Creatures: K’kree are more than just gregarious. They
+Herd Creatures: K'kree are more than just gregarious. They
 quite literally cannot cope with being alone and will suffer
 severe mental trauma leading to madness if separated
-from others of their kind. The minimum number of K’kree
+from others of their kind. The minimum number of K'kree
 for comfort is four; any less is not a herd.
 
-**Group Identity:** K’kree think of themselves as a member
+**Group Identity:** K'kree think of themselves as a member
 of a family, herd, clan and so forth, rather than an
 individual. Property belongs to the group rather than an
-individual. A visit from a K’kree means a visit from his
+individual. A visit from a K'kree means a visit from his
 whole family, which can be two dozen individuals.
 
-**Claustrophobia:** K’kree are extremely claustrophobic and
+**Claustrophobia:** K'kree are extremely claustrophobic and
 cannot stand being confined. Even being in a large room
 with the door shut is troubling to them. Their vehicles
 and structures are large and open, often with the
 capability to retract walls.
 
 **Conformity:** There is virtually no concept of individuality
-or individual worth in K’kree society and little deviation
-from social norms is permitted. A K’kree who does not
+or individual worth in K'kree society and little deviation
+from social norms is permitted. A K'kree who does not
 want to venerate his ancestors and do the bidding of the
 Steppelord is worthless and will be cast out from the
 herd or even killed.
 
-**Veneration of Ancestors and the Environment:** K’kree
+**Veneration of Ancestors and the Environment:** K'kree
 honor their ancestors with many complex rituals and
 are highly respectful of the natural world. They find most
-‘planet-taming’ operations at best distasteful (except
+'planet-taming' operations at best distasteful (except
 the massacre of predators; that is right and proper) and
 are moved to anger by construction projects that destroy
 beautiful grassy plains.
 
-**Conservatism:** K’kree are conservative to the point of
+**Conservatism:** K'kree are conservative to the point of
 being violently reactionary. Traditional dress, weapons
 and modes of speech are favored wherever possible.
-K’kree warriors will happily use the latest weaponry but
+K'kree warriors will happily use the latest weaponry but
 will like it a lot better if it is styled after the armament
 of their forefathers.
 
-Militant Vegetarianism: K’kree view all meat-eaters as
-G’naak and there are only three kinds of G’naak – those
+Militant Vegetarianism: K'kree view all meat-eaters as
+G'naak and there are only three kinds of G'naak – those
 that have already been exterminated, those that can
 be exterminated in the near future and those powerful
-enough that the K’kree must wait for the day they are
+enough that the K'kree must wait for the day they are
 strong enough. Interstellar political relations are based
 on this concept – every meat-eater in the universe must
 be converted to a vegetarian diet or wiped out. Those
 that will not change will someday be destroyed but in
-the meantime the K’kree must co-exist and perhaps
+the meantime the K'kree must co-exist and perhaps
 even cooperate.
 
 DAILY LIFE
-K’kree live and work in social groups and although
+K'kree live and work in social groups and although
 society has become urbanised the wide plains of Kirur
 still hold a spiritual attraction. Cities are usually small,
 with dispersed buildings and open spaces between and
@@ -6897,36 +6897,36 @@ sometimes referred to as herds-of-cities.
 Structures in general tend to be low and broad, and
 spaced out allowing the horizon to be seen between
 them. Greenery is common and enclosed spaces are
-built on an open-plan basis as far as possible. K’kree like
+built on an open-plan basis as far as possible. K'kree like
 natural light, which can be provided by large windows or
-retractable outside walls. K’kree need to be able to see,
+retractable outside walls. K'kree need to be able to see,
 hear and smell others of their kind and artificial attempts
 to create the illusion of a herd have generally failed. Thus
-K’kree workspaces tend to be very open and their tasks
+K'kree workspaces tend to be very open and their tasks
 
 designed to allow movement. This is partly for the comfort
-of the individual – K’kree evolved from wandering grazers
+of the individual – K'kree evolved from wandering grazers
 and do not like being still for long – but also for the
-benefit of colleagues. Having a fellow K’kree wander by
+benefit of colleagues. Having a fellow K'kree wander by
 from time-to-time is comforting and helps keep workers
 relaxed and productive.
 
-K’kree do settle airless worlds and other planets that
+K'kree do settle airless worlds and other planets that
 require a sealed environment but even with large indoor
 parks they find the lack of natural wind and open spaces
 to be draining. Society is noticeably more fractious than
 on Kirur-like worlds and the situation is even worse
-aboard spacecraft or orbital installations. K’kree are
+aboard spacecraft or orbital installations. K'kree are
 capable of operating these for an extended period but
 it is unnatural to them. Whereas humans and other
 sophonts have taken to life in space and to some extent
-made it their home, K’kree are always out of place away
+made it their home, K'kree are always out of place away
 from the plains of a Kirur-like world.
 
 Many daily tasks are performed by robots or semi-
-autonomous machines. K’kree are big creatures,
+autonomous machines. K'kree are big creatures,
 ill-suited to crawling along an inspection conduit or
-undertaking work close to the ground. Thus K’kree of all
+undertaking work close to the ground. Thus K'kree of all
 castes grow up using robotic assistants and tend to have
 an aptitude for it. The exception is those lucky few who
 live a traditional lifestyle on a mid or low-tech world.
@@ -6934,31 +6934,31 @@ live a traditional lifestyle on a mid or low-tech world.
 THE TWO THOUSAND
 
 WORLDS
-Today’s K’kree control a large interstellar state,
+Today's K'kree control a large interstellar state,
 organised on the same family/herd/herd-of-herds
 basis as their ancient existence on Kirur. Segments
 of a herd, or a single family group, can be broken
-off and dispatched to carry out a task but K’kree are
+off and dispatched to carry out a task but K'kree are
 uncomfortable unless close to their herd and distressed
 by any situation where they are not in close proximity
 to others of their kind. Thus it is families led by an
 individual rather than individuals themselves who
-conduct the business of the K’kree and their response to
+conduct the business of the K'kree and their response to
 a situation is often on a very large-scale basis.
 
-The politics of the K’kree race as a whole tend to
+The politics of the K'kree race as a whole tend to
 reflect their origins. It is a fact of life that the odd herd
 member will fall to predators and someone who cannot
 protect close family members is of little value to the
 herd. However, when it is possible to deal with a threat
-or when the herd as a whole is threatened the K’kree will
+or when the herd as a whole is threatened the K'kree will
 act decisively, sometimes to a genocidal extreme.
 
-The region dominated by the K’kree is known in their
+The region dominated by the K'kree is known in their
 own language as T't'tkahk Xeng Kirr , which translates as
 the Two Thousand Worlds. This is a metaphorical rather
 than precise figure; it is not clear how many star systems
-the K’kree rule nor how many planets are inhabited
+the K'kree rule nor how many planets are inhabited
 within them. The Two Thousand Worlds is one of the
 oldest political entities in Charted Space and one of
 the most stable. There have been occasional rebellions
@@ -6966,58 +6966,58 @@ against the Steppelords but these are rare and localised.
 
 Those who might challenge the authority of the Grand
 Steppelord are either eliminated or exiled to frontier
-regions and reabsorbed into mainstream K’kree society
+regions and reabsorbed into mainstream K'kree society
 after a few hundred years or collapse due to internal
 dissent. At the present time there is one such group
 of major importance – known as the Lords of Thunder
 
 - and possibly other, smaller polities along the fringes
-of K’kree space. It is widely thought that these exiled
+of K'kree space. It is widely thought that these exiled
 groups serve a similar purpose in the grand scheme
 as casteless males do in a herd – predators will fall on
 them first, in which case nothing has been lost.
 
-K’kree Language
-The K’kree language, like their society, is wrapped
+K'kree Language
+The K'kree language, like their society, is wrapped
 up in tradition to the point where it changes only
 imperceptibly over time. This has advantages; all
-K’kree speak the same language with virtually no
+K'kree speak the same language with virtually no
 cultural drift despite living on worlds dozens of
-parsecs apart. On the other hand, K’kree routinely
+parsecs apart. On the other hand, K'kree routinely
 use archaic phrases in a context that did not exist
 when their language was formulated, leading to
 sometimes clumsy and roundabout wording. The
 introduction of words from other languages is
-anathema to K’kree, no matter how much simpler
+anathema to K'kree, no matter how much simpler
 the situation would be if they are adopted.
 
-The K’kree language includes a number of glottal
-stops, clicks and other sounds suited to K’kree
+The K'kree language includes a number of glottal
+stops, clicks and other sounds suited to K'kree
 mouthparts but difficult for most other species
 to pronounce. This is a source of pride to most
-K’kree, who see their native tongue as too good for
+K'kree, who see their native tongue as too good for
 anyone but them to use.
 
-The K’kree call their language !xeng’ri but since
+The K'kree call their language !xeng'ri but since
 most humans and other intelligent species cannot
 even pronounce its name, it is typically known
 by the title of its commonest dialect. Thus most
-humans think the K’kree tongue is named Raxkiir
+humans think the K'kree tongue is named Raxkiir
 and may be unaware that this is a dialect of the
-true K’kree language.
+true K'kree language.
 
 THE MILITARY
-All K’kree males have an obligation to serve as warriors
+All K'kree males have an obligation to serve as warriors
 for a time upon coming of age. It is usually during
-this period that a young K’kree establishes his status
+this period that a young K'kree establishes his status
 and demonstrates fitness to lead a family or hold an
-important position within one. Not all K’kree warriors
+important position within one. Not all K'kree warriors
 serve in the armed forces of the Two Thousand Worlds,
 however. Some are taken into the service of a clanlord
 or Steppelord where they may be soldiers or bodyguards
 depending on the needs of their master.
 
-A K’kree enters his military service at a level determined
+A K'kree enters his military service at a level determined
 by his caste. Servants make up the rank-and-file,
 merchants begin training to become low-level leaders
 (equivalent to a sergeant or junior lieutenant in human
@@ -7030,21 +7030,21 @@ trying to live up to this expectation.
 
 Units are occasionally formed from casteless males,
 usually for near-suicidal operations. This kind of service
-is actually desirable to many casteless K’kree as it offers
+is actually desirable to many casteless K'kree as it offers
 a win-win situation; either the warrior distinguishes
 himself sufficiently that he is elevated into casted
 society or he dies in the service of the herd and earns
 his place in the ancestor-songs. This is a far better
-outcome than lingering on in the misery of ‘walking in
-the footprints of the herd’ as the saying goes.
+outcome than lingering on in the misery of 'walking in
+the footprints of the herd' as the saying goes.
 
-K’kree are large creatures, not well suited to operating
+K'kree are large creatures, not well suited to operating
 vehicles or engaging in urban combat. They are,
 however, excellent infantry (or perhaps a sort of
 cavalry). Their quadruped hindquarters provide a highly
 stable firing platform for dextrous front arms and their
 unassisted movement over open ground is second to
-none. K’kree infantry typically use weapons based on
+none. K'kree infantry typically use weapons based on
 those of the ancient past. Lances are the traditional
 armament of the clan warrior and used for more than
 ceremonial purposes. Modern versions of the lance are
@@ -7054,7 +7054,7 @@ lances are also carried into action, along with a small
 shield which is carried on a sling when not in use.
 
 **Military Organization**
-The organization of the K’kree military reflects a strange
+The organization of the K'kree military reflects a strange
 mix of traditionalism and pragmatic adaptation to the
 modern combat environment. The emphasis is on small
 groups of warriors on foot earning glory and status by
@@ -7065,10 +7065,10 @@ There is no prescribed organization in the manner of
 more formal militaries but strict traditional precedents
 must be followed, which leads by a different route to
 a certain uniformity. The lowest level of organization
-is a small force known as a ‘fighting-band’ of 4–10
+is a small force known as a 'fighting-band' of 4–10
 servant-class warriors led by a merchant-caste leader. A
 fellow member of such a band is a friend for life, with
-a bond known as ‘sharing grass’, which refers both to
+a bond known as 'sharing grass', which refers both to
 eating together and being laid to rest in the same grave.
 Members usually carry a mix of equipment, although any
 given band will be biased towards an infantry function
@@ -7076,34 +7076,34 @@ such as close assault, long-range sharpshooting or other
 specific battlefield task.
 
 Several bands are assigned to a noble-caste leader and
-his immediate retinue, creating a ‘warring-band’, which
+his immediate retinue, creating a 'warring-band', which
 is roughly equivalent to a platoon in other militaries.
-The warring-band leader’s retinue normally contains
+The warring-band leader's retinue normally contains
 one or more drone operators, who control and direct
 robotic fire support platforms. Equipment for doing so is
 designed to be used on the move, even at full gallop, so
 an entire warring-band can undertake rapid maneuvers
 or a headlong charge at the enemy. Warring bands can
 contain up to six or more fighting-bands, with a typical
-strength of about 30–40 K’kree and an average of one or
+strength of about 30–40 K'kree and an average of one or
 two fire support platforms per fighting-band.
 
 Warring-bands are a near-permanent formation, although
 there are no regulations regarding this. Once formed,
 a fighting-band and the warring-band it is part of are
-bonded and no right-thinking K’kree (which is all of
+bonded and no right-thinking K'kree (which is all of
 them, except filthy outcasts) would consider breaking
 that bond. Thus rather than being formally designated in
 the manner of other militaries, a warring-band would be
-recorded and spoken of as ‘the warring-band of Aux!vur,
+recorded and spoken of as 'the warring-band of Aux!vur,
 which is known to favor rapid maneuver and correctly
-equipped for this style of combat’. Such designations
+equipped for this style of combat'. Such designations
 make operational planning a long-winded and complex
 matter but are traditional, and that is far more important
 than efficiency.
 
 Joining a fighting-band or a warring-band is an occasion
-for great ceremony, for the young K’kree is joining a
+for great ceremony, for the young K'kree is joining a
 family he will leave only upon death – and perhaps even
 then he will lie forever beneath the bloody grass with
 his comrades. All members of the band share in its
@@ -7125,12 +7125,12 @@ the band. Most warriors would beg to be allowed to stay
 together and undertake a suicide mission to salvage the
 honor of their forebears, even if their own is forfeit.
 
-‘Redemption-bands’ of this sort are useful as shock
+'Redemption-bands' of this sort are useful as shock
 troops or cannon fodder, although wise commanders
 are more likely to use them as rearguards in a retreat
 or to carry out missions from which no retreat is
 possible. The use of such troops has given rise to the
-K’kree reputation for mindless fanaticism, although the
+K'kree reputation for mindless fanaticism, although the
 motivations of the warriors involved are more complex.
 A redemption-band might be sent well forward to trip
 a suspected ambush, identify a minefield or similar
@@ -7183,7 +7183,7 @@ the integration of additional units. They also provide
 administrative services for support units, which can
 create a situation where a campaigning-force goes to
 war with artillery and specialist supports that would
-normally be assigned to several such formations. K’kree
+normally be assigned to several such formations. K'kree
 commanders are quite happy with this; overkill is more
 commonly a goal than a flaw.
 
@@ -7200,7 +7200,7 @@ weapons is capable of subjugating a lower-tech world
 and slaughtering its predators.
 
 If the need arises, a lord captain will assemble a
-‘grand force’ for a major campaign. Lord captains and
+'grand force' for a major campaign. Lord captains and
 the grand captains who stand above them also have
 responsibility for the security of an area – typically
 several minor star systems or part of a major world – and
@@ -7234,7 +7234,7 @@ an act of rebellion.
 Force Composition
 
 Average Number
-of K’kree
+of K'kree
 
 Commander
 Rank Equivalent
@@ -7276,10 +7276,10 @@ Two or more Warring-Forces 10,000 or more Great Captain Division
 Grand-Force Everything that can be mustered 50,000 or more Lord Captain Corps or higher
 formation
 
-The K’kree Charge
+The K'kree Charge
 The terror inspired by a warring band at the
 charge is not to be underestimated. Up to 50
-K’kree warriors screaming traditional slaying-
+K'kree warriors screaming traditional slaying-
 cries, the ground shaking with the thunder of
 their hooves, lance points levelled and lasers
 flashing would be terrifying enough but among
@@ -7292,8 +7292,8 @@ resistance with pinpoint precision.
 Physically, this is enough to reduce hardened
 soldiers to panic but the physical dimension is
 only a part of it. The most frightening aspect of
-a K’kree charge, according to those who have
-survived one, is the intent. The K’kree are coming
+a K'kree charge, according to those who have
+survived one, is the intent. The K'kree are coming
 at the gallop, they will not be stopped and they
 will kill everything in their path.
 
@@ -7304,32 +7304,32 @@ lord captain. If a situation requires a larger unified force,
 it qualifies as a major emergency and subject to drastic
 measures. This means switching from conventional
 overkill to space-based warfare, breaking up the
-cohesion of the enemy’s forces or just plain destroying
-them with the use of orbital weaponry. The K’kree make
+cohesion of the enemy's forces or just plain destroying
+them with the use of orbital weaponry. The K'kree make
 no distinction between military and civilian targets;
 as far as they are concerned the general population of
-an enemy herd or G’naak species is a source of more
+an enemy herd or G'naak species is a source of more
 enemies and a legitimate target for all weapons.
 
 **Military Hardware**
-The K’kree fight few large-scale conventional wars,
+The K'kree fight few large-scale conventional wars,
 mostly engaging with light infantry and a few robotic
 weapon carriers. More serious threats are met with
 overkill, using artillery, robotic weapons platforms and
-orbital bombardment. The armed forces of the K’kree
+orbital bombardment. The armed forces of the K'kree
 are built around infantry tactics, with heavier weapons
 tasked with isolating parts of an enemy force for assault
 and protecting infantry from countermeasures that
-would make them ineffective. In short, the K’kree deploy
+would make them ineffective. In short, the K'kree deploy
 equipment that enables them to fight the way they want
 to rather than weaponry optimized to bring a pragmatic
 victory at the price of abandoning traditional methods.
 
-K’kree infantry are armed with personal and light
+K'kree infantry are armed with personal and light
 support weapons, favoring lasers over projectile
 weapons. Infantry are supported by vehicles and
 artillery, much as in any armed force. However, the
-K’kree make extensive use of drones and robotic combat
+K'kree make extensive use of drones and robotic combat
 devices rather than crewed vehicles to carry their heavy
 weapons into action. These platforms typically mount air
 and missile defence weaponry to offset the vulnerability
@@ -7338,10 +7338,10 @@ artillery munitions.
 
 Vehicles are large and make easy targets but their
 critical systems are heavily protected to offset this.
-K’kree vehicle crews are exposed to severe psychological
+K'kree vehicle crews are exposed to severe psychological
 stress on a constant basis, as combat vehicles combine
-isolation from all but a handful of other K’kree with
-confinement in a small (by K’kree standards) space.
+isolation from all but a handful of other K'kree with
+confinement in a small (by K'kree standards) space.
 Where possible, forces are supported from orbit and
 make only limited use of vehicular transportation in
 the face of the enemy. For groundside logistics, open-
@@ -7350,14 +7350,14 @@ retractable armored sections to protect the occupants
 at need.
 
 Ground Combat Tactics
-All K’kree infantry dream of taking part in a massed
+All K'kree infantry dream of taking part in a massed
 headlong charge and sweeping their enemies before
 them. More commonly, they skirmish in small groups,
 much like low-tech light cavalry using horses or similar
 riding animals. Groups tend to be loosely organised on
 the battlefield but still highly cohesive, as a mini-herd
-beset by G’naak must be. This is the environment where
-K’kree footsoldiers are at their best; a fluid situation
+beset by G'naak must be. This is the environment where
+K'kree footsoldiers are at their best; a fluid situation
 where aggression and teamwork can overcome almost
 any foe.
 
@@ -7369,11 +7369,11 @@ specialist yards, using the best technology available. The
 majority of warships are constructed to TL12 standards
 and are similar in many ways to vehicles and buildings.
 
-K’kree warships are extremely wasteful of space by
+K'kree warships are extremely wasteful of space by
 human standards but this is necessary to accommodate
 their large bulk and need for open areas. Most warships
 are designed to deploy or control robotic subordinate
-craft, either as crewed ‘herdmasters’ controlling a group
+craft, either as crewed 'herdmasters' controlling a group
 of similarly sized robotic craft or acting as a carrier and
 tender for large numbers of semi-autonomous robot
 fighters. These are piloted remotely from the carrier,
@@ -7382,7 +7382,7 @@ of the herd-protector into a three-dimensional space
 combat environment.
 
 **Formations**
-K’kree often use a five-part formation in military
+K'kree often use a five-part formation in military
 operations. It is equally applicable to a large
 ground force or warring-band on the march and
 is based on the ancient defensive formation used
@@ -7392,7 +7392,7 @@ The Head can be considered the vanguard of a
 herd or force. It contains the best warriors and
 most potent direct-fire weapons. The force or
 herd leader is normally located at the rear of the
-‘head’, well forward to make decisions on the
+'head', well forward to make decisions on the
 march or direct an initial encounter with hostiles.
 
 The Body marches behind the head, separated
@@ -7444,7 +7444,7 @@ which have a traditional name and long history
 of success.
 
 This approach to space warfare is inefficient in some
-ways but K’kree warships are built to be tough and
+ways but K'kree warships are built to be tough and
 survivable and can often escape a losing battle by
 fleeing behind a screen of expendable robot craft. As
 communication lag becomes an issue or if the parent
@@ -7456,8 +7456,8 @@ craft are considered already lost and always tasked with
 causing as much damage to the enemy as possible with
 no regard to survival.
 
-This has led to a deliberate ‘throw down’ combat
-technique whereby K’kree carriers launch their fighters
+This has led to a deliberate 'throw down' combat
+technique whereby K'kree carriers launch their fighters
 at the enemy, do as much damage as possible under
 direct control and then abandon them to fight on whilst
 the carrier withdraws to reload more craft. At need,
@@ -7465,46 +7465,46 @@ the carriers themselves can be expended – losses
 are unimportant so long as the threat to the herd is
 eliminated and crews will obey an order to fight to the
 last if necessary. This willingness is often mistaken for
-fanaticism but in truth it is a facet of the K’kree psyche.
+fanaticism but in truth it is a facet of the K'kree psyche.
 Life is worthless without the herd and dying to protect it
 is preferable to being cast out for disobedience or seeing
 the herd destroyed.
 
-Most K’kree warships are large for their role and tend
+Most K'kree warships are large for their role and tend
 to be well-armored at the expense of manoeuvrability
 and even firepower. Internal compartmentalization is
 generally poor, due to the need for large crewmembers
 to move around and maintain physical contact with one
 another. Coupled with the difficulty of getting such a large
-creature into a vacc suit quickly, this makes K’kree ships
+creature into a vacc suit quickly, this makes K'kree ships
 more susceptible to damage than those of other species.
 
-As a result, K’kree naval architects favor standoff
+As a result, K'kree naval architects favor standoff
 weapons such as missiles and remote-controlled
 fighter craft. Not only does this permit an enemy to
 be engaged before it can close to decisive range but
 a ship that is shooting at missiles and fighters is not
-putting holes in the parent vessel’s hull. Some observers
+putting holes in the parent vessel's hull. Some observers
 have suggested that faster and more lightly armored
 vessels would be better suited to this style of combat,
 enabling them to stay at long range, but there is no sign
 of a move towards such designs. This is partly due to
 the difficulties of producing a large vessel with enough
 thrust to be an agile combatant and partly because
-K’kree ships have always been built this way.
+K'kree ships have always been built this way.
 
-For short-ranged combat K’kree prefer large, powerful
+For short-ranged combat K'kree prefer large, powerful
 weapons mounted in bays and barbettes rather than
 turrets. Turreted weaponry is mounted on most ships
 
 for close defence but as usual overkill is the preferred
-option. Besides, bay mounts allow a team of K’kree
+option. Besides, bay mounts allow a team of K'kree
 to work together. Control of barbettes and turrets is
 normally centralised in one or more chambers, again
 allowing crew to work in proximity to one another.
 
 **Naval Organization**
-The K’kree space forces, like their armies, follow a
+The K'kree space forces, like their armies, follow a
 feudal pattern. Few leaders below the rank of Steppelord
 have significant naval forces of their own, although
 many have a few ships for transportation and diplomatic
@@ -7514,23 +7514,23 @@ according to their status and local political needs. These
 are paid for from central funds and constructed at one
 of the major naval yards operated by the Two Thousand
 Worlds but are crewed by personnel raised within the
-Steppelord’s territory.
+Steppelord's territory.
 
 A Steppelord may send some of his ships to assist
 another leader, placing them temporarily under his
-command but they remain part of their original lord’s
+command but they remain part of their original lord's
 holdings. The permanent reallocation of ships is taken
 as an insult or punishment and if it occurs then the ship
 itself is transferred but the crew remain part of their
 herd. This is not an efficient system but an artefact of
-K’kree social organization and traditional values and
+K'kree social organization and traditional values and
 changing it would be unthinkable.
 
 The local forces commanded by Steppelords are
 augmented by a much larger pool of vessels loyal to
 the Grand Steppelord of the Two Thousand Worlds,
 either directly or through subordinates. These leaders
-represent one of the few changes to K’kree society to
+represent one of the few changes to K'kree society to
 have occurred since the invention of spaceflight. They
 have holdings like any other Steppelord but receive
 funds from the central treasury. With this extra income
@@ -7550,10 +7550,10 @@ steppe
 Single Ship Leader of the
 outer steppe
 
-‘Vessel-of-the-outer-steppe’ is usually abbreviated
-to ‘vessel’ by non-K’kree but the term is a single
+'Vessel-of-the-outer-steppe' is usually abbreviated
+to 'vessel' by non-K'kree but the term is a single
 word in their own language and always used by
-the K’kree themselves.
+the K'kree themselves.
 Great vessel-of-the-
 outer-steppe
 
@@ -7571,7 +7571,7 @@ Single capital ship Grand leader
 of the outer
 steppe
 
-Capital ships are commanded by an extremely
+[[Capital]] ships are commanded by an extremely
 senior officer, who is greater in importance than
 the commander of a force of lesser ships.
 Vessel-Band 2–8 vessels on a
@@ -7590,7 +7590,7 @@ commander
 of the outer
 steppe
 
-‘Small commander’ is a temporary rank but most
+'Small commander' is a temporary rank but most
 officers who have commanded a vessel-herd go
 on to command other naval forces and thus retain
 their rank.
@@ -7658,7 +7658,7 @@ there is no embarrassment or dishonor in having their
 forces assigned for protection.
 
 The upshot of this system is that every region of space
-occupied by K’kree has local forces tied to particular
+occupied by K'kree has local forces tied to particular
 areas, often on a patchy and inefficient basis, whilst
 task forces and fleets loyal to the lords-of-the-outer-
 steppe conduct major naval operations either under their
@@ -7674,7 +7674,7 @@ squadrons and fleets like those of the Imperium; they
 are assigned to leaders who organise them as necessary
 using layers of command and organization.
 
-A ‘significant vessel’ means any ship with respectable
+A 'significant vessel' means any ship with respectable
 combat capability, including relatively small patrol
 and escort ships. Ships in the cruiser class are rarely
 assigned to formations smaller than a herd of the outer
@@ -7685,7 +7685,7 @@ quite a small force if appropriate.
 
 The capability of vessels generally increases alongside
 the size of formation they are assigned to. Since most
-major K’kree warships carry a complement of robotic
+major K'kree warships carry a complement of robotic
 fighters and can thus provide their own close escort,
 there are relatively few ships optimized for the escort
 role. This leads to the deployment of all-big-ship forces
@@ -7695,89 +7695,89 @@ scouts or security elements.
 A HISTORY OF THE TWO
 
 THOUSAND WORLDS
-To the K’kree, the history of their interstellar state –
-the Two Thousand Worlds – is the history of all K’kree.
+To the K'kree, the history of their interstellar state –
+the Two Thousand Worlds – is the history of all K'kree.
 Occasionally a Steppelord has led his people out of the
 Two Thousand Worlds and colonized a far-off region but
 as far as the official histories go these groups became
 irrelevant as soon as they moved beyond easy contact
-range. Those that reject the Great Steppelord’s authority
+range. Those that reject the Great Steppelord's authority
 
-and turn their backs on the great herd of the K’kree
+and turn their backs on the great herd of the K'kree
 are no longer part of its history unless they return as
 enemies or come home to beg re-inclusion.
 
 The Distant Past
-Creatures that are recognizably ‘proto-K’kree’ appeared
+Creatures that are recognizably 'proto-K'kree' appeared
 on Kirur around 10 million years ago. They are thought
 to have begun developing intelligence in response to
 ecological disasters caused by a supernova event and
 by 10 million years before the present were tool-using
-cooperative animals. It is not clear when the K’kree
+cooperative animals. It is not clear when the K'kree
 developed full sentience.
 
 The Ancients are known to have seeded humans and
 other creatures across Charted Space around 300,000
-years ago. By this time, behaviourally modern K’kree
+years ago. By this time, behaviourally modern K'kree
 existed on Kirur. They were engaged in a constant fight
-for survival against their homeworld’s predators, a fight
+for survival against their homeworld's predators, a fight
 that might have remained stalemated forever but for
 climatic changes that began over 100,000 years ago.
 Little is known outside the Two Thousand Worlds about
 what tipped the balance but the stalemate was broken
-and the K’kree declined in number.
+and the K'kree declined in number.
 
 It is thought that destruction of habitats affected other
-prey species more than the K’kree, who were able to
+prey species more than the K'kree, who were able to
 plan ahead and move great distances to viable areas. As
 other sources of food were predated to extinction, the
-carnivores of Kirur targeted the K’kree. Legends speak of
-a ‘shadowed time of nightmare’ from around 100,000 to
-30,000 years ago, during which the K’kree fought a war
+carnivores of Kirur targeted the K'kree. Legends speak of
+a 'shadowed time of nightmare' from around 100,000 to
+30,000 years ago, during which the K'kree fought a war
 against extinction.
 
-The first K’kree cities were constructed around 80,000
+The first K'kree cities were constructed around 80,000
 years ago. These were initially more like defended
-laagers where the K’kree could rest and care for their
+laagers where the K'kree could rest and care for their
 wounded but over time developed into true cities with
 workshops, storehouses and administrative complexes.
-Despite the security these new cities offered, the K’kree
+Despite the security these new cities offered, the K'kree
 still almost became extinct. What saved them was a
 combination of desperate effort and scarcity of food for
-their enemies. The surviving K’kree were hard targets
+their enemies. The surviving K'kree were hard targets
 and could retire to their laagers, living off stored food,
 when predators concentrated in their area.
 
 It may be that confinement imposed by such sieges
-was the worst of the ‘nightmare’ referred to in legend,
+was the worst of the 'nightmare' referred to in legend,
 especially since herds were cut off from one another and
 at times did not know if their neighbors had survived.
-K’kree scouts might come upon a broken laager, with
+K'kree scouts might come upon a broken laager, with
 nothing but the bones of their kind bleaching in the
 sun. It was in this time that the desire to exterminate all
-G’naak became a driving force in the K’kree psyche.
+G'naak became a driving force in the K'kree psyche.
 
 **The Time of Shed Blood**
 The war for Kirur teetered one way then the other for a
-time but as predator numbers fell the surviving K’kree
+time but as predator numbers fell the surviving K'kree
 were able to push out from their laager-cities, linking
 together multiple herds and engaging in sweeps to clear
 all predators from a region. By -30,000 what had begun
 as a small-scale security operation had expanded into a
 crusade to eliminate all meat-eaters on Kirur. It is today
-referred to as the ‘time of shed blood’.
+referred to as the 'time of shed blood'.
 
-The K’kree were not the only intelligent species on Kirur
+The K'kree were not the only intelligent species on Kirur
 at that time. A race of carnivores had also developed
 intelligence and the ability to use tools. It is not clear to
 what extent the war between the two species followed
 the conventional pattern. It may be that the carnivores
 preferred easier prey or had reservations about eating
 sentient people. They may have tried to make peace
-or even cooperate with the K’kree but were driven into
+or even cooperate with the K'kree but were driven into
 remote areas nonetheless.
 
-The K’kree almost certainly took the view that an
+The K'kree almost certainly took the view that an
 intelligent species of predator would sooner or later
 plunge them back into their time of nightmare. The
 
@@ -7786,16 +7786,16 @@ exterminate the threat. The most remote predator cities
 proved hard to access and the predators themselves
 underwent a rapid technological explosion as they fought
 for survival. At some point they began an incredible
-endeavor; an evacuation to Kirur’s moon.
+endeavor; an evacuation to Kirur's moon.
 
 The evacuation was a slow process, undertaken with
 primitive craft but it went on for centuries as cities fell
 one–by–one. By the time the last was overrun a large
-population were dwelling on Kirur’s moon, unknown to
-the K’kree whose technology had lagged far behind.
-K’kree written records began around -10,000 and initially
+population were dwelling on Kirur's moon, unknown to
+the K'kree whose technology had lagged far behind.
+K'kree written records began around -10,000 and initially
 contain no references to these predators. It is likely that
-the K’kree thought them defeated and gone forever.
+the K'kree thought them defeated and gone forever.
 
 The Unification of Kirur
 The cities of Kirur gradually expanded and became
@@ -7804,12 +7804,12 @@ following a more traditional lifestyle. A habit of
 cooperation grew into the rudiments of a world
 government by -8175, and around 1,000 years later
 
-K’kree society reached a recognizable version of its
-modern form. This was the result of the ‘Law of Reason’,
+K'kree society reached a recognizable version of its
+modern form. This was the result of the 'Law of Reason',
 a philosophical and ethical system, which to this day
-forms the basis of modern K’kree thinking.
+forms the basis of modern K'kree thinking.
 
-Progress continued and by -4305 the K’kree had fully
+Progress continued and by -4305 the K'kree had fully
 unified Kirur under a single government. By this time
 they were aware of the predators living on their moon
 and the introduction of grav vehicles in -4228 made a
@@ -7820,25 +7820,25 @@ destroyed and the entire species exterminated – for real
 this time.
 
 Renewed conflict with the predator species led to
-the enunciation of the _Axavktrr!xur_ or ‘Fundamental
-Principles of Survival’, which amounted to a declaration
+the enunciation of the _Axavktrr!xur_ or 'Fundamental
+Principles of Survival', which amounted to a declaration
 that all carnivorous species that would not or could not
 convert to vegetarianism would be eliminated. Whilst
-making perfect sense from a K’kree point of view, this
+making perfect sense from a K'kree point of view, this
 was a declaration of war – to a genocidal degree –
 against almost every intelligent species in the cosmos.
 
 **Early Expansion**
-The K’kree expanded throughout their own star system,
+The K'kree expanded throughout their own star system,
 developing robotic systems for extracting resources
 from difficult environments and building outposts to
 operate them. The invention of the jump drive in -4142
 permitted exploration of nearby star systems, where
-the K’kree were not surprised to discover carnivorous
+the K'kree were not surprised to discover carnivorous
 species on worlds they wanted to colonize.
 
 Small bases were built on low-value worlds to facilitate
-expansion but the K’kree wanted Kirur-like planets
+expansion but the K'kree wanted Kirur-like planets
 where they could roam outside without artificial
 assistance. In almost all cases they had to fight for
 them, although usually against animals that stood no
@@ -7846,31 +7846,31 @@ chance when energy weapons and artillery were brought
 to bear. The extermination of carnivores on a whole
 world was a lengthy undertaking, undertaken on a
 cordon-and-sweep basis. More efficient methods were
-available but the K’kree were unwilling to damage the
+available but the K'kree were unwilling to damage the
 natural environment; habitat destruction or tailored
 plagues were used only as a last resort.
 
-The K’kree encountered a few sentient species but none
+The K'kree encountered a few sentient species but none
 that could resist an assault by their armed forces. Those
-willing to accept K’kree rule were permitted to live,
+willing to accept K'kree rule were permitted to live,
 albeit under strict supervision. Those that tried to fight
 were exterminated.
 
 Contact with the Hivers
-The K’kree contacted their first major interstellar
+The K'kree contacted their first major interstellar
 power in -2045, although they did not at the time
 realise what was happening. The first worlds of the
 Hive Federation they attacked were assumed to be just
-like any other G’naak-infested planet, although it soon
+like any other G'naak-infested planet, although it soon
 became apparent that they were linked by starships and
 possessed advanced technology. This in no way deterred
-the K’kree – indeed, it may have spurred them to greater
+the K'kree – indeed, it may have spurred them to greater
 efforts – and they launched a campaign of destruction
 and conquest against the Hive Federation.
 
 The war formally began in -2029. At that time the
 Hiver fleet was little more than a security force and
-unprepared for the onslaught of the K’kree. Losing many
+unprepared for the onslaught of the K'kree. Losing many
 battles, the Hivers were pushed back deep into their
 territory and might have faced total defeat.
 
@@ -7879,40 +7879,40 @@ of Manipulation – with a capital M. The Hivers pride
 themselves on their ability to manipulate others, with
 specific Manipulations recorded in the same way as
 great victories in war by other species. The Hivers claim
-they demonstrated to the K’kree that they could, at
-will, manipulate K’kree to become G’naak, creating a
+they demonstrated to the K'kree that they could, at
+will, manipulate K'kree to become G'naak, creating a
 taste for meat, and they were willing to do so on a grand
-scale. In this version of events the K’kree fled Hiver
+scale. In this version of events the K'kree fled Hiver
 space in terror, proving that Hiver manipulation was
 more potent than all the battlefleets in space.
 
-The K’kree version is vague and couched in terms that
+The K'kree version is vague and couched in terms that
 suggest it would be unwise to ask further. The overall
 impression is that a combination of the fighting power of
 Hive Federation member races and underhand tactics by
 the Hivers themselves necessitated a withdrawal, which
 made possible a truce beginning in -2103. A change in
-K’kree philosophy permitted the truce to become more
+K'kree philosophy permitted the truce to become more
 or less permanent.
 
-The Hiver-K’kree war resulted in the overturn of the
+The Hiver-K'kree war resulted in the overturn of the
 Fundamental Principles of Survival, although the Law
-of Reason remained intact. In short, not all G’naak had
+of Reason remained intact. In short, not all G'naak had
 to be exterminated immediately and if the cost to the
 herd of destroying an enemy was too great then it was
-not in the interests of the K’kree to make the effort. This
-attitude has been paraphrased by outsiders as ‘we’re
-going to destroy all the G’naak sooner or later but those
-ones are too much trouble right now’.
+not in the interests of the K'kree to make the effort. This
+attitude has been paraphrased by outsiders as 'we're
+going to destroy all the G'naak sooner or later but those
+ones are too much trouble right now'.
 
 **Contact With Humaniti**
-Although modern K’kree society can seem extreme,
+Although modern K'kree society can seem extreme,
 given open threats of extermination towards all meat-
 eating species, it is a more moderate version of their
-original philosophy. Co-existence with G’naak has been
+original philosophy. Co-existence with G'naak has been
 possible since -2013, although it is uncomfortable for
 all concerned. This was just as well for the first humans
-who met the K’kree, in -200.
+who met the K'kree, in -200.
 
 Before the Long Night, humans from the Vilani
 Imperium and the Rule of Man had colonized worlds
@@ -7921,51 +7921,51 @@ making contact inevitable at some point. The first
 known contact was between personnel of the Galastrian
 Metals corporation, based out of Tharver in the Gateway
 sector. This produced no new trade opportunities and a
-great deal of friction, as the K’kree had little interest in
+great deal of friction, as the K'kree had little interest in
 conducting commerce with vermin.
 
 The human states close to the Two Thousand Worlds
 were mostly small multi-planet polities, corporations or
 single-world governments and posed little threat to the
-K’kree. However, once scouts from the emerging Third
+K'kree. However, once scouts from the emerging Third
 Imperium arrived in the region the situation changed.
-Formal contact was made in 103 and the K’kree quickly
+Formal contact was made in 103 and the K'kree quickly
 became aware that this was an empire that might rival
 their own.
 
 The spinward frontier of the Two Thousand Worlds
 remained troublesome. The small states of Gateway
 included several pirate kingdoms whose raiders were
-quite willing to prey on K’kree vessels. At the same time,
+quite willing to prey on K'kree vessels. At the same time,
 the Two Thousand Worlds was reaching the maximum
-size governable under its system – and the K’kree had
+size governable under its system – and the K'kree had
 no interest in changing. Thus interaction with humans
 was limited to the occasional punitive expedition.
 
 **The Lords of Thunder**
-The antics of the G’naak in Gateway and along the
+The antics of the G'naak in Gateway and along the
 frontiers caused considerable alarm and voices began
 to demand a return to the Fundamental Principles of
 Survival. This was an unusual level of dissent for the
 Two Thousand Worlds, prompted by a feeling that sooner
 or later hungry humans would come trailingwards in
 force. Better to act now; sterilise their worlds if they
-could not be taken and create a zone where no G’naak
-could find sustenance, as the K’kree of old had done
+could not be taken and create a zone where no G'naak
+could find sustenance, as the K'kree of old had done
 when in desperate need.
 
 Eventually dissent became focussed on a leader named
-L’lluii!pri’vguurlg, who embodied the Fundamental
+L'lluii!pri'vguurlg, who embodied the Fundamental
 Principles and questioned the authority of Steppelords
-who would not embrace them. L’lluii!pri’vguurlg formally
+who would not embrace them. L'lluii!pri'vguurlg formally
 declared a return to the Fundamental Principles – on
 
-behalf of the whole K’kree species – in 874, a challenge
+behalf of the whole K'kree species – in 874, a challenge
 that could not be allowed to pass. In 885 he and his
 followers were exiled from the Two Thousand Worlds.
 
-L’lluii!pri’vguurlg and his people founded
-Xuruk’xaar’keer! , which roughly translates to Anglic
+L'lluii!pri'vguurlg and his people founded
+Xuruk'xaar'keer! , which roughly translates to Anglic
 as Lords of Thunder. They set up a powerbase on the
 fringes of human space, which is sometimes known
 as the Xuruk Empire and more commonly as the Lords
@@ -7975,7 +7975,7 @@ appear there only when they do something that affects
 mainstream society but it is notable that their own
 histories include everything they know about affairs
 within the Two Thousand Worlds. The implications of
-that are worrying to human and K’kree alike.
+that are worrying to human and K'kree alike.
 
 THE TWO THOUSAND
 
@@ -7989,36 +7989,36 @@ Thousand Worlds in order to increase their status. Others
 will conspire against rivals out of disapproval of the way
 they push those boundaries. Any significant threat will
 cause those involved to shelve their schemes, however,
-partly for the good of the K’kree as a whole and partly
+partly for the good of the K'kree as a whole and partly
 because the Grand Steppelord does not tolerate those
 who put their own agenda ahead of his orders.
 
-The majority of K’kree worlds are within the TL7 to
+The majority of K'kree worlds are within the TL7 to
 TL11 range and thus capable of playing an active part
 in the interstellar economy. However, this technological
 capability refers to the cities. On worlds with a
-‘shirtsleeve’ environment there will always be a segment
+'shirtsleeve' environment there will always be a segment
 of the population living a simpler life on a semi-nomadic
 basis. These herds make use of advanced technology but
 cannot produce it. They wander within large preserves,
 more or less following – and thus preserving – the ancient
-lifestyle of the K’kree of Kirur. Laager-towns exist within
+lifestyle of the K'kree of Kirur. Laager-towns exist within
 these preserves, offering comfort when desirable but
 allowing the herd to camp in the countryside.
 
-The K’kree name for their state is T’t’tkakh Xeng Kiir ,
-which is normally translated as ‘Two Thousand Worlds’
-but can also be rendered as ‘the universe’ or ‘the night
-sky’. The latter is a reference to the stars that could
-be seen from Kirur’s surface at night and the former to
-the fact that nothing really matters outside of K’kree
+The K'kree name for their state is T't'tkakh Xeng Kiir ,
+which is normally translated as 'Two Thousand Worlds'
+but can also be rendered as 'the universe' or 'the night
+sky'. The latter is a reference to the stars that could
+be seen from Kirur's surface at night and the former to
+the fact that nothing really matters outside of K'kree
 dominions. There is no literal meaning to Two Thousand
 Worlds; it is a figure of speech only. Usually it is applied
 
 to the area directly ruled by the Grande Steppelord but
 there are also outposts, client states and enclaves that
-are not contiguous with but considered to be ‘of the Two
-Thousand Worlds’.
+are not contiguous with but considered to be 'of the Two
+Thousand Worlds'.
 
 The Two Thousand Worlds and outlying territories are
 linked by a large merchant fleet. Some vessels are
@@ -8029,7 +8029,7 @@ found in other states but they tend to be the property
 of noble families rather than corporate bodies in their
 own right.
 
-Some worlds have non-K’kree populations, all of
+Some worlds have non-K'kree populations, all of
 whom are required to follow a herbivorous diet. Many
 indigenous sentient races within the Two Thousand
 Worlds were exterminated and those that remain know
@@ -8041,7 +8041,7 @@ are entirely unknown to other races outside the Two
 Thousand Worlds.
 
 The Lords of Thunder
-The Lords of Thunder are the best-known of K’kree
+The Lords of Thunder are the best-known of K'kree
 splinter groups, not least because their home region is
 close to human space. Upon their exile in 885, they
 moved into Luretir!girr sector and conquered a region to
@@ -8059,7 +8059,7 @@ Imperial officials, although at present a large buffer
 zone still exists.
 
 Although firmly committed to the eventual extermination
-of all G’naak, the Lords of Thunder are willing to
+of all G'naak, the Lords of Thunder are willing to
 undertake peaceful diplomacy and trade. The matter-of-
 fact way they refer to eventually wiping out the people
 they are trading with can be unsettling but their money
@@ -8068,16 +8068,16 @@ not uncommon however, as the Lords of Thunder are
 utterly inflexible in their outlook and intolerant of many
 behaviours considered normal elsewhere.
 
-### K’KREE TRAVELLERS
+### K'KREE TRAVELLERS
 
 **CHAPTER-SEVEN**
 
-K’kree Traveller creation follows the same format as all
+K'kree Traveller creation follows the same format as all
 other races, although with a few unique considerations
 imposed by their herd-creature nature. The process
-of creating a K’kree Traveller generates not just an
+of creating a K'kree Traveller generates not just an
 individual (the leader of the group) but his whole family
-and associated servants. The caste of these K’kree
+and associated servants. The caste of these K'kree
 is considered to be that of the patriarch but they are
 nothing without him.
 
@@ -8087,29 +8087,29 @@ an heir exists, he is summoned or formally installed
 if already present. The heir might be a son or younger
 brother, or possibly a friend of the same social caste. If
 no heir is available to take over the family its members
-either join another patriarch’s family as a group or are
+either join another patriarch's family as a group or are
 separated to join several. This is a traumatic experience
 for all concerned and usually results in a dysfunctional
 family for a time until the patriarch can get his house in
-order. This is one way a K’kree Traveller can end up with
+order. This is one way a K'kree Traveller can end up with
 more family members than he can support or control.
 
 INITIAL TRAVELLER
 
 GENERATION
-The following applies to all K’kree Travellers.
+The following applies to all K'kree Travellers.
 
 **Patriarchy**
-K’kree have a unique skill called Patriarchy that
+K'kree have a unique skill called Patriarchy that
 replaces both Diplomacy and Leadership when dealing
-with other K’kree. This is in part an understanding
+with other K'kree. This is in part an understanding
 of how to control a small herd of relatives and in
 part the ability to play the role of patriarch. Leading
 rituals correctly, using the right form of address for
 other patriarchs with a subtly different social position,
 delivering the traditional condescending epithets
 towards ambassadors from lesser species... Patriarchy
-is the skill of being the head of a K’kree household
+is the skill of being the head of a K'kree household
 and doing it right. It also allows control over a suitably
 sized household.
 
@@ -8126,7 +8126,7 @@ Family Size
 4 +D3 13
 Every +1 +D3 +2
 
-A K’kree can fully control and command a number of
+A K'kree can fully control and command a number of
 family members and hangers-on determined by his
 level in Patriarchy. This increases when Patriarchy does
 but some patriarchs are just better at running their
@@ -8136,27 +8136,27 @@ every additional family member the patriarch suffers
 DM-1 to all Patriarchy checks.
 
 Patriarchy checks are normally made in routine-
-diplomacy situations, such as when other K’kree are
+diplomacy situations, such as when other K'kree are
 encountered. Success indicates the patriarch has
 performed the correct rituals and established the right
 social positioning, allowing interaction to proceed
 normally. The Effect of a failed check is applied to all
-attempts to interact with the K’kree he has just failed
+attempts to interact with the K'kree he has just failed
 to impress. This will result in condescension at least; at
 worst it can lead to serious offence. The Patriarchy skill
 can also be used to get a family organised for a task,
 movement or ceremony, or any other situation where the
 family head is exercising his routine authority.
 
-Leadership and Diplomacy skills still exist for K’kree,
-but are used only when dealing with non-K’kree.
+Leadership and Diplomacy skills still exist for K'kree,
+but are used only when dealing with non-K'kree.
 
 Social Standing
-K’kree determine SOC the same way as other species,
+K'kree determine SOC the same way as other species,
 and it in turn indicates caste. Certain levels of SOC
 align with ranks such as clanlord or Steppelord but do
-not mean the K’kree personally holds this rank. SOC
-indicates the K’kree is of this social level, either as a
+not mean the K'kree personally holds this rank. SOC
+indicates the K'kree is of this social level, either as a
 relative of someone who does hold the rank or in service
 to them.
 
@@ -8170,25 +8170,25 @@ kin hold this rank.
 those who have served long and well, and are thought of
 as almost-kin.
 
-**Rankholder:** The K’kree actually holds this rank.
+**Rankholder:** The K'kree actually holds this rank.
 
-When a K’kree achieves a new social level, he begins
+When a K'kree achieves a new social level, he begins
 at servant-of-rankholder. Each term he may make a
 Patriarchy check at the difficulty level indicated on the
 SOC Rank table to be elevated one degree. Note that
-increases in SOC are rare for K’kree, so elevation within
-the Traveller’s starting social class is normally the only
-advancement possible. If a K’kree does rise in social
+increases in SOC are rare for K'kree, so elevation within
+the Traveller's starting social class is normally the only
+advancement possible. If a K'kree does rise in social
 class, he begins again at servant-of-rankholder level but
 gains DM+1 on Patriarchy checks for advancement if he
 was a kinsman, or DM+2 if he was a rankholder.
 
 The exception is the lowest end of the nobility spectrum;
-patriarch of a small family. A K’kree holding this rank is
+patriarch of a small family. A K'kree holding this rank is
 automatically the head of his household and therefore
 the rankholder. At all other levels, the assumption is
 that the rankholder is the head of the big family of
-which the K’kree’s small family is part. Thus a servant-
+which the K'kree's small family is part. Thus a servant-
 to-rankholder in a Merchant caste big-family heads one
 of the lowest-status small-families within the group
 and can aspire to being elevated to kin-to-rankholder
@@ -8222,81 +8222,81 @@ Average (8+)
 15 Steppelord Formidable
 (14+)
 
-K’KREE TRAITS
-K’kree make use of the following traits.
+K'KREE TRAITS
+K'kree make use of the following traits.
 
-Big and Tough: K’kree are much bigger than humans
+Big and Tough: K'kree are much bigger than humans
 and can soak up a lot more damage unless a vulnerable
-location such as the head is struck. Whenever a K’kree
+location such as the head is struck. Whenever a K'kree
 is subject to an effect that reduces END, whether
 through physical damage or exertion, END reduction
 is halved, dropping any fractions. For example, a
-K’kree who is hit for seven points of damage reduces
+K'kree who is hit for seven points of damage reduces
 END 3 points. END is also treated as being doubled
 for the purposes of determining the duration (but not
 effectiveness) of physical activity.
 
-Claustrophobic: K’kree are intensely claustrophobic and
+Claustrophobic: K'kree are intensely claustrophobic and
 will often refuse to enter fully enclosed spaces. If forced
-to do so, or upon discovering they are confined, a K’kree
+to do so, or upon discovering they are confined, a K'kree
 may panic or collapse. A Difficult (10+) END check is
 required to enter a confined space. Small spaces like a
 starship stateroom impose DM-2 and very tight spaces
 like a crawlway impose DM-4.
 
-A K’kree who fails the check will not enter, no matter
+A K'kree who fails the check will not enter, no matter
 what. If already in the confined space, they will wriggle
 out with no regard to whom they squash. If this is not
-possible, roll 1D. On a 4+ the K’kree will freeze in
+possible, roll 1D. On a 4+ the K'kree will freeze in
 place and refuse to move, or else will begin to thrash
 about in a panic.
 
 New claustrophobia checks are made every time the
-K’kree encounters something unsettling or is hurt.
+K'kree encounters something unsettling or is hurt.
 Noises up ahead or something as minor as snagging a
 piece of clothing on a projection can trigger a psychotic
 episode – which in turn can make it very difficult to help
-a trapped K’kree.
+a trapped K'kree.
 
-A K’kree leader may make a Difficult (10+) Patriarchy
+A K'kree leader may make a Difficult (10+) Patriarchy
 check to lead his family or warband into the space,
 provided he passes his own END check first.
 
-Gregarious: K’kree need others of their own kind
-around them at all times. A K’kree deprived of such
+Gregarious: K'kree need others of their own kind
+around them at all times. A K'kree deprived of such
 companionship is likely to flee towards the nearest herd
 (or wherever he thinks a herd could be found) or become
-either violently agitated or all but catatonic. If a K’kree
+either violently agitated or all but catatonic. If a K'kree
 is cut off from others by a confined space the effect is
 intensified and checks for both claustrophobia and lack
 of contact must be made. Failing both will lead to a
 mental breakdown which may have long-term effects.
 
-A K’kree suddenly deprived of company must make
+A K'kree suddenly deprived of company must make
 an Average (8+) END check to cope in the short term,
 with a DM of anything up to –6 if the incident is very
-violent. For example, a K’kree who sees his family hit by
+violent. For example, a K'kree who sees his family hit by
 a speeding truck is likely to flee in panic immediately
 and suffer long-term effects when he realises he will be
 forever without them. A Effect of –6 or worse indicates
 permanent madness that may or may not be treatable.
 
-In the longer term, a K’kree who is alone, whether as
+In the longer term, a K'kree who is alone, whether as
 an outcast or having become lost, may be able to cope
 if there is some hope of a return to the herd – even as a
 casteless hanger-on at the fringes. Each day, a Difficult
 (10+) END check is required. Success indicates the
-K’kree can act rationally and productively that day
+K'kree can act rationally and productively that day
 without penalty. A DM equal to any negative Effect is
-applied to all tasks on days the K’kree fails the check,
-and the K’kree will be nervous, irritable and likely to
+applied to all tasks on days the K'kree fails the check,
+and the K'kree will be nervous, irritable and likely to
 rage-quit on any task that seems remotely difficult.
 An Effect of –6 or worse results in a collapse into
-despair for D3 days, during which the K’kree will just
+despair for D3 days, during which the K'kree will just
 wander aimlessly, destroy things he has created and
 contemplate suicide.
 
-**Speed of Hoof:** If a K’kree performs three minor actions
+**Speed of Hoof:** If a K'kree performs three minor actions
 in a round and all three are used for movement (as
 described on page 72 of the _Traveller Core Rulebook_ ),
 then it gains a bonus minor action, which can also be
@@ -8305,96 +8305,96 @@ used for movement.
 SURVIVING
 
 LONELINESS
-There are ways a K’kree can survive the loneliness of
+There are ways a K'kree can survive the loneliness of
 isolation. One is to enter a state of temporary madness
-known as ‘kin-to-the-grass’. A K’kree in this state ceases
+known as 'kin-to-the-grass'. A K'kree in this state ceases
 to be rational and will do no more than wander around,
 nibbling listlessly at vegetation. In effect, he will revert
 to the non-sentient state of his distant ancestors.
 Revival from a kin-to-the-grass state is not certain even
-if the K’kree is rescued but it is possible that once
+if the K'kree is rescued but it is possible that once
 surrounded by a friendly herd he will slowly regain his
 senses over a period of days, weeks or even months. In
 some cases the state is permanent.
 
-In a few rare cases, isolated K’kree are struck with what
+In a few rare cases, isolated K'kree are struck with what
 can seem to others as divine inspiration. Rather than
-becoming kin-to-the-grass they become ‘kin-to-the-sky’,
-a rapturous state in which the K’kree can see and hear
+becoming kin-to-the-grass they become 'kin-to-the-sky',
+a rapturous state in which the K'kree can see and hear
 his ancestors – both direct kin and cultural heroes.
-Only an already unhinged or desperate K’kree would
+Only an already unhinged or desperate K'kree would
 deliberately isolate himself and try to become kin-to-the-
 sky but there have been those who made the attempt.
 Most ended their days in gibbering madness but a few
 achieved the holy state with enough of their faculties
 remaining to cope with daily life.
 
-A K’kree who is kin-to-the-sky needs no herd around
+A K'kree who is kin-to-the-sky needs no herd around
 him because his ancestors walk beside him. They also
 convey their wisdom, which may or may not make sense
-to anyone but the holy K’kree. Most kin-to-the-sky are
+to anyone but the holy K'kree. Most kin-to-the-sky are
 unable to function as more than wandering oracular
 prophets speaking in riddles but some emerge with a
 vision and give out chillingly precise advice on matters
 they could not possibly know anything about.
 
-K’kree who work in an environment where confinement
+K'kree who work in an environment where confinement
 is inevitable eventually become used to it or seek some
-less upsetting line of work. A K’kree who lives and works
+less upsetting line of work. A K'kree who lives and works
 aboard a starship can use his highest shipboard skill
 (such as Pilot, Astrogation or Engineer) as a DM when
 determining if he panics upon being confined. Even the
-most hardened K’kree spacer can suffer a panic attack
+most hardened K'kree spacer can suffer a panic attack
 when boarding his ship and may have to choose between
 forcing himself to enter or being left behind.
 
-NON-K’KREE K’KREE
-Very occasionally, a K’kree will, for whatever reason,
-be brought up outside a traditional K’kree family. This
-results in a status called A ux!Rraak G’naak or ‘probably
-just vermin’ among ‘real’ K’kree. Species is irrelevant
+NON-K'KREE K'KREE
+Very occasionally, a K'kree will, for whatever reason,
+be brought up outside a traditional K'kree family. This
+results in a status called A ux!Rraak G'naak or 'probably
+just vermin' among 'real' K'kree. Species is irrelevant
 here; what is important is whether the Traveller knows
-how to act like a ‘proper’ K’kree, which is unlikely. Even
+how to act like a 'proper' K'kree, which is unlikely. Even
 then, the outsider is unlikely to be fully accepted and at
 best live at the fringes of a herd.
 
-An outsider K’kree of this kind still has the Gregarious
+An outsider K'kree of this kind still has the Gregarious
 and Claustrophobic traits, which are instinctive rather
-than learned. However, the not-K’kree gains a special
+than learned. However, the not-K'kree gains a special
 skill called Outsider at level 0 in addition to other
 background skills. The Outsider skill can be increased
 instead of any event that increases a characteristic
 during their careers. Thus if an outsider known
-affectionately as ‘Little Jim Horsey’ to his friends gains
+affectionately as 'Little Jim Horsey' to his friends gains
 INT+1 during his career in the Imperial Bureaucracy, he
 may swap this for a level of Outsider.
 
 The Outsider skill is used in checks to overcome
 claustrophobia and loneliness but becomes a negative
-DM on interactions with ‘real’ K’kree. Thus Jim Horsey,
+DM on interactions with 'real' K'kree. Thus Jim Horsey,
 with Outsider 3 suffers DM-3 on all checks when trying
-to get along with ‘real’ K’kree.
+to get along with 'real' K'kree.
 
-A K’kree with Outsider 0 or better makes checks to deal
-with loneliness less often than an isolated ‘real’ K’kree.
+A K'kree with Outsider 0 or better makes checks to deal
+with loneliness less often than an isolated 'real' K'kree.
 At skill level 0 the check is made every D3 days. Skill
 level 1 raises this to 1D days; level 2 to 2D days level 3
 to 3D days and so forth. In addition, if a check is failed,
-the K’kree Traveller can try to pull himself together the
+the K'kree Traveller can try to pull himself together the
 next day with a new check.
 
-The Outsider skill even allows a K’kree to tolerate meat-
+The Outsider skill even allows a K'kree to tolerate meat-
 eaters, although not to consume it himself. At level 1
 and above he is not instinctively revulsed by the smell of
 meat consumption from another person and a successful
-Average (8+) Outsider check allows the K’kree to remain
+Average (8+) Outsider check allows the K'kree to remain
 in the presence of someone eating meat without losing
 his temper. Seeing raw meat being prepared or, worse,
 animals being killed for food will still be repellent and
-those who do not respect the outsider’s sensibilities will
+those who do not respect the outsider's sensibilities will
 cease to be his friends.
 
-Outsider K’kree retain the herd instinct and will
+Outsider K'kree retain the herd instinct and will
 usually find a surrogate herd to join. This might be a
 group of Travellers but sometimes manifests in bizarre
 ways. The least of these are the acquisition of pets or
@@ -8404,26 +8404,26 @@ might be anything from stuffed animals to rare coins.
 
 The Referee should always remember that behaviour of
 this sort is contrary to the fundamental nature of the
-K’kree. ‘Real’ K’kree would consider an outsider to be
+K'kree. 'Real' K'kree would consider an outsider to be
 insane, potentially dangerously so, and there is some
-truth in this. No matter what career an outsider K’kree
+truth in this. No matter what career an outsider K'kree
 follows, no matter how successful he is or how high his
 Outsider skill gets, he is in denial of his nature. Other
-K’kree will hate him even more if he is successful in
+K'kree will hate him even more if he is successful in
 denying his heritage and he will always be a troubled
 individual. The companionship of a surrogate herd of
 mismatched starfarers might be enough to keep him
-more or less sane but this individual will never be ‘quite
-right’. This may drive him to excel in all manner of
+more or less sane but this individual will never be 'quite
+right'. This may drive him to excel in all manner of
 fields but can also lead to self-destructive or irrational
-behaviour. Anyone wanting to play an outsider K’kree
+behaviour. Anyone wanting to play an outsider K'kree
 must be prepared for this challenge.
 
-With these provisos in mind, an outsider K’kree with a
+With these provisos in mind, an outsider K'kree with a
 suitable backstory can enter any career a human could,
 although there are some occupations that would be
 repellent. A merchant or soldier is much the same from
-one culture to another but even outsider K’kree would
+one culture to another but even outsider K'kree would
 be unlikely to take a job than requires working in small
 spaces. One who spent a lot of time alone in a vacc suit
 repairing the exterior of space stations might one day
@@ -8432,36 +8432,36 @@ interesting roleplaying challenge.
 
 CREATING A
 
-K’KREE TRAVELLER
-K’kree are created using a similar process to other
+K'KREE TRAVELLER
+K'kree are created using a similar process to other
 Travellers, although unless an outsider is being created
 the Traveller will be the head of a household rather than
 an individual and gain additional family members.
 
-Use the characteristics and traits for K’kree Travellers
+Use the characteristics and traits for K'kree Travellers
 shown below:
 
 Characteristics: STR+6, INT+2, EDU+2
 Traits: Big and Tough, Claustrophobic, Gregarious
 
 Note that these characteristics assume a patriarch of
-a family is being created. All other male K’kree have
-STR+6, but also INT-4 and EDU-4. Female K’kree have
+a family is being created. All other male K'kree have
+STR+6, but also INT-4 and EDU-4. Female K'kree have
 STR+3 and EDU-5.
 
 If the Traveller is an outsider, his SOC is rolled for
-normally. It is considered to be 0 in K’kree society –
-little different to that of any other non-K’kree. If the
+normally. It is considered to be 0 in K'kree society –
+little different to that of any other non-K'kree. If the
 Traveller is to be an outsider, they gain Outsider 0 and
 begin Traveller creation as normal for the adopted home
 society. An outsider cannot gain wives, family members
-and other K’kree as followers.
+and other K'kree as followers.
 
-If traditional K’kree Traveller creation is used instead,
-the Traveller’s caste is determined by his SOC score
+If traditional K'kree Traveller creation is used instead,
+the Traveller's caste is determined by his SOC score
 and is unlikely to change unless a Life Event occurs.
 The Traveller begins at the level of servant-of-
-rankholder in his caste. His family’s specialist area is
+rankholder in his caste. His family's specialist area is
 determined using the Specialist Area table with the
 following modifiers:
 
@@ -8477,18 +8477,18 @@ Specialist Area
 9 Naval
 10+ Leader/Diplomatic
 
-Casteless K’kree do not determine a specialist area, for
+Casteless K'kree do not determine a specialist area, for
 obvious reasons. Instead they, along with very traditional
-K’kree who live a pastoral life apart from spacefaring
-society, use the K’kree career on page 130.
+K'kree who live a pastoral life apart from spacefaring
+society, use the K'kree career on page 130.
 
-All K’kree males, regardless of caste, spend their first
+All K'kree males, regardless of caste, spend their first
 term as warriors, proving their worth to the herd before
-embarking upon their intended career. A K’kree’s career is
+embarking upon their intended career. A K'kree's career is
 determined by his caste: Servant, Merchant or Noble. An
-additional career, known simply as K’kree, is available to
-any casted K’kree. This has a very limited skill selection
-and little prospect for advancement. Any K’kree Traveller
+additional career, known simply as K'kree, is available to
+any casted K'kree. This has a very limited skill selection
+and little prospect for advancement. Any K'kree Traveller
 who can make a case for it – perhaps time spent with
 the traditionalist herds of Kirur itself – can serve terms
 in this career. It could also be used to create casteless
@@ -8496,7 +8496,7 @@ Travellers, althought by definition they cannot have wives
 and usually meet an untimely end as decoys.
 
 **Background Skills**
-All K’kree family patriarchs (or patriarchs-to-be) gain the
+All K'kree family patriarchs (or patriarchs-to-be) gain the
 following background skills:
 
 Melee Combat 0
@@ -8505,8 +8505,8 @@ Recon 0
 Survival 0
 
 **Terms**
-Each term, K’kree have similar opportunities to non-
-K’kree, paralleling the chance for commission or
+Each term, K'kree have similar opportunities to non-
+K'kree, paralleling the chance for commission or
 promotion. In addition, they may gain family members
 or extra skills on the Household Development table.
 
@@ -8548,14 +8548,14 @@ an increase in SOC and is very rare. There is no roll for
 elevation each term; it is determined only by events.
 
 Household Development
-In mainstream K’kree society, some events are almost
-certain to take place at key points in a male’s life. His
+In mainstream K'kree society, some events are almost
+certain to take place at key points in a male's life. His
 first term will be spent as a warrior serving his clanlord
 or – if he is very lucky – his Steppelord. At the end
 of this term he will almost certainly be married, after
 which his household will develop as he serves more
 terms. By the time he is ready to venture to the stars, a
-K’kree patriarch may command quite a force of warriors,
+K'kree patriarch may command quite a force of warriors,
 technicians and servants, and be followed by his
 attentive and adoring wives.
 
@@ -8567,8 +8567,8 @@ members may die or otherwise be lost during a career.
 
 Gaining wives is not certain. Each time a possible
 acquisition is indicated, a Patriarchy check must be
-made. More wives means greater status, so K’kree
-males will try hard to gain as many as possible. A K’kree
+made. More wives means greater status, so K'kree
+males will try hard to gain as many as possible. A K'kree
 male who has not yet married will be accompanied by
 an entourage of other bachelors, servants and the like
 
@@ -8743,7 +8743,7 @@ Tactics
 Tactics
 Vacc Suit
 
-K’KREE
+K'KREE
 
 MUSTERING OUT BENEFITS
 
@@ -8752,15 +8752,15 @@ they go under the grass and those who do are rewarded enough by
 having been able to live the traditional life for a time.
 
 This career is normally used for the (many
-K’kree would say ‘extremely fortunate’)
+K'kree would say 'extremely fortunate')
 herds who live a pastoral lifestyle on
 the most habitable of planets and the
 homeworld of Kirur itself. They have little
 to do with the outside world and do not
 much care about wider events but are
-extremely important to K’kree society
-as they preserve the traditional ‘way-
-we-were’ on behalf of those who must
+extremely important to K'kree society
+as they preserve the traditional 'way-
+we-were' on behalf of those who must
 venture forth in starships and meet alien
 creatures. Retirement to a pastoral life
 with traditional herds is a reward for those
@@ -8768,7 +8768,7 @@ whose families have given great service,
 whilst their sons build a new family and
 start carving out their own legends.
 
-Qualification: None. Any K’kree can follow
+Qualification: None. Any K'kree can follow
 this career
 
 **ASSIGNMENTS**
@@ -8779,13 +8779,13 @@ Entry: Automatic
 
 SKILLS AND TRAINING
 
-**1D PERSONAL DEVELOPMENT K’KREE SKILLS SERVICE SKILLS**
-1 Patriarchy Patriarchy Profession (K’kree ritual)
+**1D PERSONAL DEVELOPMENT K'KREE SKILLS SERVICE SKILLS**
+1 Patriarchy Patriarchy Profession (K'kree ritual)
 2 STR +1 Profession Survival
 3 DEX +1 Melee or Gun Combat Recon
 4 END +1 Admin or Steward Melee
 5 END +1 Carouse Athletics (endurance)
-6 Survival Athletics (endurance) K’kree Life Event
+6 Survival Athletics (endurance) K'kree Life Event
 
 **1D MISHAP**
 
@@ -8795,7 +8795,7 @@ career.
 2 You anger your herdlord and are punished with a period of ostracism. Gain one level of Outsider. You do not
 leave the career.
 
-3 One of your wives dies or is otherwise taken from you. In your grief you offend many other K’kree. Gain D3
+3 One of your wives dies or is otherwise taken from you. In your grief you offend many other K'kree. Gain D3
 Rivals or one Enemy and lose a wife. You do not leave the career.
 
 4 After a dispute whose origins are way over your head, your herd now has powerful enemies. You gain an Enemy.
@@ -8805,7 +8805,7 @@ You do not leave the career.
 8+ you survive the fight but are not rewarded. Otherwise, lose –1 point from STR or END and still receive no
 reward. You do not leave the career.
 
-6 You are ejected from the herd. Gain 1 level of Outsider. You are no longer a K’kree; you are nothing. Survive as
+6 You are ejected from the herd. Gain 1 level of Outsider. You are no longer a K'kree; you are nothing. Survive as
 best you can or die. Nobody cares either way.
 
 **2D EVENT**
@@ -8815,7 +8815,7 @@ best you can or die. Nobody cares either way.
 3 Your herd is involved in a vigorous or even violent dispute with another. You do your part with honor, earning
 deserved praise from your herdlord. You also gain D3 Enemies.
 
-4 You are part of a diplomatic mission to a non-K’kree group. Gain 1 level of Diplomat or a non-K’kree Contact for
+4 You are part of a diplomatic mission to a non-K'kree group. Gain 1 level of Diplomat or a non-K'kree Contact for
 this weird and unsettling experience.
 
 5 You have to undertake tasks outside the normal pastoral existence and are very glad to get back to the correct
@@ -8824,16 +8824,16 @@ and proper life you wanted. Gain 1 level in any skill.
 6 Your herd undertakes a long trek for reasons that presumably makes sense to your leaders. Gain 1 level of
 Navigation or Survival kill.
 
-7 Life Event. Roll on the K’kree Life Events table on page 138.
+7 Life Event. Roll on the K'kree Life Events table on page 138.
 
-8 Your herd meets with many others for a great ceremony. Gain 1 level of Profession (K’kree ritual) and a Contact
+8 Your herd meets with many others for a great ceremony. Gain 1 level of Profession (K'kree ritual) and a Contact
 outside your herd.
 
 9 Defending your family and herd bravely, you suffer an injury that reduces END by -1, but you gain 1 level of
 Melee or Gun Combat.
 
 10 You serve well and are personally commended by the Steppelord. Gain SOC+1 and a Contact at the
-Steppelord’s court (who may or may not be K’kree).
+Steppelord's court (who may or may not be K'kree).
 
 11 You are offered the chance to be adopted into the big family of a herdlord or clanlord, perhaps by marrying one
 of his female offspring. If you agree, your SOC jumps to 13 and you enter the Noble career as a servant-of-
@@ -8861,7 +8861,7 @@ Drive or Flyer
 6 Cr15000 DEX +1
 7 Cr25000 SOC +1
 
-Servants are the lowest caste in K’kree
+Servants are the lowest caste in K'kree
 society. They fulfil necessary but low-
 status functions such as farming, carrying
 out basic maintenance and providing the
@@ -8870,12 +8870,12 @@ Merchant caste is possible but very rare;
 most servants are content to be part of a
 successful and prosperous herd.
 
-Servant-caste K’kree have only two
+Servant-caste K'kree have only two
 specialist areas: Service, which represents
 supporting tasks such as farming and
 vehicle maintenance as well as direct
 service to a higher-caste family, and Warrior.
-Servant-caste K’kree exist to support the
+Servant-caste K'kree exist to support the
 herd and die for it if necessary.
 
 Qualification: SOC 1–6
@@ -8888,15 +8888,15 @@ Entry: Automatic
 
 SKILLS AND TRAINING
 
-**1D PERSONAL DEVELOPMENT K’KREE SKILLS SERVICE**
+**1D PERSONAL DEVELOPMENT K'KREE SKILLS SERVICE**
 1 STR +1 Patriarchy STR +1
 2 DEX +1 Profession END +1
 3 END +1 Melee or Gun Combat Profession
 4 Patriarchy Admin or Steward Admin
-5 Profession (K’kree ritual) Carouse Drive or Flyer
-6 K’kree Life Event Athletics (endurance) Steward
+5 Profession (K'kree ritual) Carouse Drive or Flyer
+6 K'kree Life Event Athletics (endurance) Steward
 **1D WARRIOR TECHNICAL/SCIENTIFIC**
-1 Melee Profession (K’kree ritual) —
+1 Melee Profession (K'kree ritual) —
 2 Gun Combat Mechanical —
 3 Heavy Weapons Electronics —
 4 Athletics (endurance) Steward —
@@ -8915,7 +8915,7 @@ career.
 2 You anger your herdlord and are punished with a period of ostracism. Gain one level of Outsider. You do not
 leave the career.
 
-3 One of your wives dies or is otherwise taken from you. In your grief you offend many other K’kree. Gain D3
+3 One of your wives dies or is otherwise taken from you. In your grief you offend many other K'kree. Gain D3
 Rivals or one Enemy and lose a wife. You do not leave the career.
 
 4 Your status in the herd is diminished. If you accept this, SOC is reduced by –1 and you gain an Ally who
@@ -8925,7 +8925,7 @@ do not leave the career.
 5 D3 of your family members are killed or otherwise lost to the herd. Their sacrifice is compensated by an
 increase of SOC+1, which may elevate you into the next caste. You do not leave the career.
 
-6 You were ejected from the herd. Gain 1 level of Outsider. You are no longer a K’kree; you are nothing. Survive as
+6 You were ejected from the herd. Gain 1 level of Outsider. You are no longer a K'kree; you are nothing. Survive as
 best you can, or die. Nobody cares either way.
 
 **2D EVENT**
@@ -8935,7 +8935,7 @@ best you can, or die. Nobody cares either way.
 3 Your herd is involved in a vigorous or even violent dispute with another. You do your part with honor, earning
 deserved praise from your herdlord and an additional Benefits roll. You also gain D3 Enemies.
 
-4 Your herd goes on a mission. You complete your tasks to the herdlord’s satisfaction. Gain 1 Contact or one level
+4 Your herd goes on a mission. You complete your tasks to the herdlord's satisfaction. Gain 1 Contact or one level
 in any skill available on the tables of this caste.
 
 5 You are given an onerous task you do not know how to complete. Make an INT check. On 10+ you gain 1 level
@@ -8943,16 +8943,16 @@ of Jack-of-all-Trades and a Rival made to look stupid by your success. If not, y
 
 6 Your herd needs to prepare for war. Gain 1 level in Melee or Gun Combat.
 
-7 Life Event. Roll on the K’kree Life Events table on page 138.
+7 Life Event. Roll on the K'kree Life Events table on page 138.
 
-8 Your herd meets with many others for a great ceremony. Gain 1 level of Profession (K’kree ritual) and a Contact
+8 Your herd meets with many others for a great ceremony. Gain 1 level of Profession (K'kree ritual) and a Contact
 outside your herd.
 
 9 You have to follow your herdlord on a space voyage. It is unpleasant, especially when they make you practice
 wearing a vacc suit. Gain 1 level of Vacc Suit.
 
 10 You serve well and are personally commended by the Steppelord. Gain SOC+1 and a Contact at the
-Steppelord’s court (who may or may not be a K’kree).
+Steppelord's court (who may or may not be a K'kree).
 
 11 An important Merchant caste leader offers you one of his daughters in marriage. Gain an extra wife, SOC 7,
 elevation to servant-of-rankholder in the Merchant caste and the admiration of your former peers.
@@ -8977,19 +8977,19 @@ Science or Profession
 
 The Merchant caste carry out most of the
 administrative, economic and technical
-work within K’kree society. They also provide
+work within K'kree society. They also provide
 junior leadership to the military and handle
 technical tasks in ground combat as well as
 aboard starships.
 
-Merchant caste K’kree may specialize
+Merchant caste K'kree may specialize
 in mercantile, spacegoing, scientific or
 technical areas, or may serve as warriors.
 Once a skill has been rolled on one of the
 Warrior, Mercantile/Economic, Technical/
 Scientific or Naval skill tables, only that
 table and the Personal Development and
-K’kree Skills tables may be used while the
+K'kree Skills tables may be used while the
 Traveller remains in this career. In all cases
 their role requires more learning than that of
 a servant caste worker.
@@ -9004,13 +9004,13 @@ Entry: Automatic
 
 SKILLS AND TRAINING
 
-**1D PERSONAL DEVELOPMENT K’KREE SKILLS MERCANTILE/ECONOMIC**
+**1D PERSONAL DEVELOPMENT K'KREE SKILLS MERCANTILE/ECONOMIC**
 1 DEX +1 Patriarchy Profession
 2 INT +1 Profession Admin
 3 EDU +1 Melee or Gun Combat Advocate
 4 Patriarchy Admin or Steward Broker
-5 Profession (K’kree ritual) Carouse Electronics (computer)
-6 K’kree Life Event Athletics (endurance) Persuade
+5 Profession (K'kree ritual) Carouse Electronics (computer)
+6 K'kree Life Event Athletics (endurance) Persuade
 **1D WARRIOR TECHNICAL/SCIENTIFIC NAVAL**
 1 Melee Profession Pilot
 2 Gun Combat Electronics Astrogator
@@ -9026,7 +9026,7 @@ SKILLS AND TRAINING
 2 You anger your herdlord and are punished with reduced status. SOC is lowered by –D3 which may drop you into
 the Servant caste. You do not leave the career.
 
-3 One of your wives dies or is otherwise taken from you. In your grief you offend many other K’kree. Gain D3
+3 One of your wives dies or is otherwise taken from you. In your grief you offend many other K'kree. Gain D3
 Rivals or one Enemy and lose a wife. You do not leave the career.
 
 4 You exceed your status when offering advice to your superiors. Lose one benefits roll and gain a Rival who
@@ -9036,7 +9036,7 @@ profited from your eclipse. You do not leave the career.
 you pass, you marry a new wife quickly enough to avoid embarrassment. If not, lose SOC-1. You do not leave
 the career.
 
-6 You were ejected from the herd. Gain 1 level of Outsider. You are no longer a K’kree; you are nothing. Survive as
+6 You were ejected from the herd. Gain 1 level of Outsider. You are no longer a K'kree; you are nothing. Survive as
 best you can or die. Nobody cares either way.
 
 **2D EVENT**
@@ -9053,16 +9053,16 @@ words of praise from your herdlord.
 
 6 Your herd needs to prepare for war. Gain 1 level in Electronics (remote ops) or Gun Combat.
 
-7 Life Event. Roll on the K’kree Life Events table on page 138.
+7 Life Event. Roll on the K'kree Life Events table on page 138.
 
-8 Your herd meets with many others for a great ceremony. Gain 1 level of Profession (K’kree ritual) and a Contact
+8 Your herd meets with many others for a great ceremony. Gain 1 level of Profession (K'kree ritual) and a Contact
 outside your herd.
 
 9 Your clan journeys among the stars. Gain one level of Engineer, Astrogator or Electronics.
 
 10 Your clanlord selects you to be a member of a special delegation providing hospitality to a powerful rival. You
 have to quickly learn to lead the servants. Gain one level of Steward skill and make an Average (8+) Profession
-(K’kree ritual) check. If successful, gain SOC+1 and your clanlord’s favor. If you fail, you gain your clanlord’s
+(K'kree ritual) check. If successful, gain SOC+1 and your clanlord's favor. If you fail, you gain your clanlord's
 rival as an Enemy.
 
 11 You serve aboard a warship with your herdlord. Gain one level in Pilot, Electronics (remote ops) or Gunner.
@@ -9089,14 +9089,14 @@ Science or Profession
 7 MCr5 SOC+1
 
 The Noble caste lead the key endeavors
-of the K’kree, whether those be military,
+of the K'kree, whether those be military,
 spacegoing, economic, scientific or
-technical. Some noble K’kree conduct
+technical. Some noble K'kree conduct
 diplomacy on behalf of their people –
 internally and with outsiders – whilst the
-greatest of all lead the K’kree as a whole.
+greatest of all lead the K'kree as a whole.
 
-Noble K’kree families may specialize
+Noble K'kree families may specialize
 in mercantile, spacegoing, scientific,
 technical, diplomatic or military areas
 (choosing to use only one of the Warrior,
@@ -9118,13 +9118,13 @@ Entry: Automatic
 
 SKILLS AND TRAINING
 
-**1D PERSONAL DEVELOPMENT K’KREE SKILLS WARRIOR**
+**1D PERSONAL DEVELOPMENT K'KREE SKILLS WARRIOR**
 1 SOC +1 Patriarchy Melee or Gun Combat
 2 INT +1 Profession Tactics
 3 EDU +1 Melee or Gun Combat Patriarchy
 4 Patriarchy Admin or Steward Carouse
-5 Profession (K’kree ritual) Carouse END +1
-6 K’kree Life Event Athletics (endurance) Vacc Suit
+5 Profession (K'kree ritual) Carouse END +1
+6 K'kree Life Event Athletics (endurance) Vacc Suit
 **1D MERCANTILE/ECONOMIC TECHNICAL/SCIENTIFIC NAVAL**
 1 Profession Science Pilot
 2 Patriarchy Patriarchy Astrogator
@@ -9157,7 +9157,7 @@ you prevented the situation getting any worse. Gain an Ally from outside your cl
 and every third one is a wife. You face criticism for failing to protect your family and lose a number of SOC
 points equal to the number of wives slain. You do not leave the career unless you drop into the Merchant caste.
 
-6 You were ejected from the herd. Gain 1 level of Outsider. You are no longer a K’kree; you are nothing. Survive as
+6 You were ejected from the herd. Gain 1 level of Outsider. You are no longer a K'kree; you are nothing. Survive as
 best you can, or die. Nobody cares either way.
 
 **2D EVENT**
@@ -9176,9 +9176,9 @@ earns you an Ally who admires your skills and noble bearing.
 6 You lead your people in conflict, even if this was not your normal role. Gain 1 level in Melee, Gun Combat or
 Tactics.
 
-7 Life Event. Roll on the K’kree Life Events table on page 138.
+7 Life Event. Roll on the K'kree Life Events table on page 138.
 
-8 Your herd meets with many others for a great ceremony. Gain 1 level of Profession (K’kree ritual) and a Contact
+8 Your herd meets with many others for a great ceremony. Gain 1 level of Profession (K'kree ritual) and a Contact
 outside your herd.
 
 9 Your clan journeys among the stars. Gain one level of Astrogation or Pilot.
@@ -9196,7 +9196,7 @@ MISHAPS TABLE
 
 EVENTS TABLE
 
-**K’kree Life Events**
+**K'kree Life Events**
 
 2D Event
 2 Sickness or Injury: Roll on the Injury table of the Core Rulebook (page 47).
@@ -9219,26 +9219,26 @@ among your own people.
 Core Rulebook ) or consult the Referee for something truly out of the ordinary.
 
 BENEFITS
-Most K’kree mustering-out benefits are similar to those
+Most K'kree mustering-out benefits are similar to those
 for other species.
 
 **Weapon:** The Traveller will receive the traditional
-weapons of the K’kree warrior; a lance, a short sword
+weapons of the K'kree warrior; a lance, a short sword
 (called a hand-blade) and a small shield. The highly
 ornate version presented is perfectly serviceable
 but more importantly represents the favor of the
-Traveller’s superiors. It is considered a compliment
+Traveller's superiors. It is considered a compliment
 to the superior to carry the presentation weapons
 into action and bringing them back with the blood
 of enemies upon them is grounds for triumphant
 celebrations and further reward.
 
 THE FAMILY
-A K’kree Traveller will be the head of a small family as
+A K'kree Traveller will be the head of a small family as
 the basic unit is called and part of (or even the head of)
 a larger grouping ranging from a big family ruling over
 several small families all the way up to an entire world.
-The immediate family of a K’kree patriarch is considered
+The immediate family of a K'kree patriarch is considered
 to have the same SOC as he does, although as kin-
 to-rankholder and servant-to-rankholder respective to
 their patriarch. The final stage of Traveller creation is to
@@ -9251,18 +9251,18 @@ undertake a task alone but usually order it to be carried
 out then either supervise or lead depending on the task
 at hand.
 
-A patriarch’s wives do nothing except look after their
+A patriarch's wives do nothing except look after their
 children, at least as far as the patriarch is concerned.
 How much politicking and infighting goes on in a
 family is not a public matter and it may be that some
 patriarchs are given good advice by their wives – but
 never in public. Thus the skills of wives are not relevant.
-Such is K’kree society. Other cultures have words for
+Such is K'kree society. Other cultures have words for
 this sort of thing, usually uncomplimentary ones, but the
-K’kree consider it is the right and proper order of things
+K'kree consider it is the right and proper order of things
 and are not receptive to criticism.
 
-A family will contain D3-1 immature K’kree for every
+A family will contain D3-1 immature K'kree for every
 wife. Not all of these are the children of the wives; some
 families have a child or two they are raising for others,
 either out of social custom or on the orders of a superior.
@@ -9270,15 +9270,15 @@ The herd takes care of orphans in this way. These
 juveniles are also irrelevant in terms skills, not least
 since their main role in a crisis is to run away.
 
-In a family group there will be a number of adult K’kree
+In a family group there will be a number of adult K'kree
 (in addition to the patriarch and his wives) who carry out
-the patriarch’s orders. These are non-breeding relatives
+the patriarch's orders. These are non-breeding relatives
 and servants of the patriarch, who may someday be
 released from service to start their own families or
 even inherit leadership of the family – along with any
 surviving wives. In the meantime, they serve as ordered.
 
-In general, when a K’kree patriarch orders an action to be
+In general, when a K'kree patriarch orders an action to be
 taken, his skill is used no matter who actually carries out
 the task. He is the leader and he knows best; to ignore his
 orders because a subordinate thinks they are more skilled
@@ -9286,7 +9286,7 @@ would be defiance and defiance is not acceptable!
 
 There are exceptions, however. When a physical task
 such as driving a vehicle or fighting is carried out,
-the Referee may allow the skill of the K’kree actually
+the Referee may allow the skill of the K'kree actually
 performing the task to be used but more commonly
 warriors or workers in a family are simply treated as
 extra hands for the patriarch.
@@ -9296,7 +9296,7 @@ equal to 2D3 + his Patriarchy skill. Their roles can be
 selected as follows.
 
 **Warriors:** No more than half the entourage of a noble
-K’kree can be warriors. No more than two warriors can
+K'kree can be warriors. No more than two warriors can
 follow a Merchant caste leader and no more than one
 can be present in a Servant caste family.
 **Specialists:** A family may have as many specialist
@@ -9304,26 +9304,26 @@ administrators, drivers, technicians and general
 functionaries as the patriarch thinks fit. If he does not
 have a relevant skill but one of his subordinates does,
 the family as a whole is assumed to have DM+2 to carry
-out the task. If there are more than one K’kree in the
+out the task. If there are more than one K'kree in the
 family with the same skill, each additional functionary
 adds an additional DM+1. However, if the patriarch has
 a relevant skill then it must be used even if his staff are
 better able to carry out the task.
-**Workers and Servants:** At least one-third of the K’kree
+**Workers and Servants:** At least one-third of the K'kree
 in a family must be servants or workers. These do not
 supply skills but carry out many functions necessary to
-maintaining their patriarch’s status in K’kree society.
+maintaining their patriarch's status in K'kree society.
 
 FAMILY MEMBERS
 
 IN COMBAT
-A family’s warriors and patriarch can be treated as a
+A family's warriors and patriarch can be treated as a
 small-unit fighting force and run independently but this is
 time consuming. It is often desirable to treat the patriarch
 and his family as a single unit, with extra abilities.
 
 - Each warrior fighting for the patriarch is treated as
-    an extra attack at the patriarch’s skill level and with
+    an extra attack at the patriarch's skill level and with
     his weapon.
 - Warriors will take a bullet for their lord. When the
     patriarch takes damage, up to 15 points (after
@@ -9333,7 +9333,7 @@ and his family as a single unit, with extra abilities.
     injured, perhaps dead, and his extra attack is lost.
     Only one warrior can do this per attack.
        - A servant or functionary can be traded for 10
-          points of damage, though a K’kree patriarch who
+          points of damage, though a K'kree patriarch who
           hides among his servants will eventually face
           censure or ostracism.
        - If a family member is injured in combat in this
@@ -9348,7 +9348,7 @@ and his family as a single unit, with extra abilities.
           condescending they may be – would die to defend
           their wives and families.
 
-For example, a minor K’kree noble has five adult males
+For example, a minor K'kree noble has five adult males
 in his entourage, plus his wives and children. For
 colour, he decides that two of the males are his younger
 brothers, two are unrelated but sworn to his service and
@@ -9362,33 +9362,33 @@ in this case – to handle his finances.
 
 The patriarch has no Admin skill of his own, so when he
 orders that an administrative task be accomplished, his
-expert’s DM+2 is used. The servants are directed by the
+expert's DM+2 is used. The servants are directed by the
 patriarch via this functionary and can be assumed to be
-competent at combing their lord’s mane or passing his
+competent at combing their lord's mane or passing his
 wine. The warriors mostly stand about looking tough and
-enjoying their status as their noble brother’s protectors.
+enjoying their status as their noble brother's protectors.
 
 In combat, the patriarch and his brothers are treated
 as a single unit, which makes three attacks with the
-patriarch’s weapons each round. Attacks are directed
+patriarch's weapons each round. Attacks are directed
 at the patriarch himself but if hit he has the option of
 trading one of his bodyguards for 15 points of damage.
-This will deprive him of the warrior’s firepower in later
+This will deprive him of the warrior's firepower in later
 rounds (and possibly of his brother on a permanent
-basis!) but it is the way of the K’kree. Warriors have a
+basis!) but it is the way of the K'kree. Warriors have a
 role to play, as do leaders. A wise leader knows what he
 can purchase with the lives of his followers and pays the
 price when necessary.
 
-The body form of K’kree imposes considerations upon
+The body form of K'kree imposes considerations upon
 equipment intended for their use. Consoles and controls
-are at a height suitable for use by a standing K’kree
+are at a height suitable for use by a standing K'kree
 and controls are often dispersed. This is to ensure the
 operator has to move around whilst working; being
-entirely still is unnatural to a K’kree.
+entirely still is unnatural to a K'kree.
 
-K’kree devices are generally usable by other species
-unless intended to be worn. K’kree hands have a
+K'kree devices are generally usable by other species
+unless intended to be worn. K'kree hands have a
 similar configuration and reach to those of most other
 
 spacefaring races. Their equipment is rarely of a
@@ -9397,20 +9397,20 @@ serve one function whereas most other species build
 controls that can be swapped from one task to another
 at need. Whereas a human might sit down at the
 nearest console and reconfigure it for astronavigation
-or gunnery, a K’kree would consider this unsettling.
+or gunnery, a K'kree would consider this unsettling.
 It is the nature of a tool to do a particular job, so if a
-different function is required then the K’kree must get a
+different function is required then the K'kree must get a
 different tool and move to the correct workstation.
 
 CENTRAL SUPPLY CATALOGUE
 
 X
 
-###### K’KREE
+###### K'KREE
 
 **A03/48956
 WARRIOR PANOPLY**
-K’kree warriors wear a costume that is part armor and part
+K'kree warriors wear a costume that is part armor and part
 statement of allegiance. The frontal torso is protected by a
 breastplate worn over a tunic in traditional colours, often with
 forearm guards. A helmet is worn by some but not all warriors and
@@ -9467,27 +9467,27 @@ A03/48956
 A03/75674
 
 **VACC SUIT**
-K’kree do not fit well into one-piece armor, for psychological as well
+K'kree do not fit well into one-piece armor, for psychological as well
 as physical reasons. Being fully enclosed is claustrophobic and creates
-a feeling of isolation rather than protection. Thus for a K’kree, the
+a feeling of isolation rather than protection. Thus for a K'kree, the
 Vacc Suit skill is not just about taking care of a suit and learning to
 operate in it; it includes an element of mental conditioning that allows
-the K’kree to think of their suit as clothing rather than an oppressive,
+the K'kree to think of their suit as clothing rather than an oppressive,
 all-enclosing encumbrance that threatens to crush the life out of them.
 
-Any K’kree forced to don a vacc suit or similar fully enclosed armor
+Any K'kree forced to don a vacc suit or similar fully enclosed armor
 must make an Average (8+) Vacc Suit check. If the Effect of the check
 is negative, it is applied as a DM to all actions taken until the suit is
 removed. If at any time a Vacc Suit skill check produces an Effect of
-–6 or worse, the K’kree will be overcome with panic and unable to act
+–6 or worse, the K'kree will be overcome with panic and unable to act
 until the suit is removed. In extreme cases, he may tear his suit off,
 regardless of the consequences.
 
 Standard vacc suits are similar to those made for other species, at
 least in terms of function and construction, but military vacc suits are
-designed to parallel the panoply of the K’kree warrior or noble. They
+designed to parallel the panoply of the K'kree warrior or noble. They
 look fanciful to outsiders and have various projections that can snag in
-a tight space... but K’kree prefer not to go into those spaces anyway.
+a tight space... but K'kree prefer not to go into those spaces anyway.
 
 Armor Type Protection TL Rad Kg Cost Required Skill
 Emergency Vacc Suit 0 9 0 22 Cr3500 Vacc Suit 0
@@ -9496,7 +9496,7 @@ Military Vacc Suit +8 10 50 40 Cr50000 Vacc Suit 1
 Noble Vacc Suit +10 12 75 30 Cr100000 Vacc Suit 0
 
 **COMBAT ARMOR**
-K’kree combat armor is constructed along the same lines as a
+K'kree combat armor is constructed along the same lines as a
 military vacc suit, although with much more protection.
 
 Armor Type Protection TL Rad Kg Cost Required Skill
@@ -9520,14 +9520,14 @@ A03/48956
 A03/75674
 
 **BATTLE DRESS**
-K’kree suffer the same problems using battle dress as
+K'kree suffer the same problems using battle dress as
 unpowered combat armor, only more so. The Vacc Suit
 check to avoid panic when wearing battle dress is Difficult
 (10+). Battle dress is uncommon and generally used only
 by special-purpose units. These tend to be small and are
 attached to other forces as a spearhead or assault force.
 
-K’kree battle dress tends to be clumsy compared to that of
+K'kree battle dress tends to be clumsy compared to that of
 other species and imposes DM-1 on all actions that require
 movement or agility.
 
@@ -9546,17 +9546,17 @@ command)
 **TRADITIONAL**
 
 **WEAPONRY**
-The traditional weaponry of the K’kree warrior consists of a lance, a
+The traditional weaponry of the K'kree warrior consists of a lance, a
 small shield and a weapon known as a hand-blade that resembles a
 curved and deeply bellied machete. The hand-blade is almost useless
-for thrusting but delivers a devastating cut optimized for the ‘running
-pass’ style of attack. Nobles sometimes carry a smaller variant of the
+for thrusting but delivers a devastating cut optimized for the 'running
+pass' style of attack. Nobles sometimes carry a smaller variant of the
 hand-blade, which is still a useful weapon but generally considered an
-item of dress. A noble’s hand-blade is by tradition exempt from weapon
+item of dress. A noble's hand-blade is by tradition exempt from weapon
 restrictions – a fact that has caused a great deal of friction on non-
-K’kree worlds where laws are strict.
+K'kree worlds where laws are strict.
 
-The K’kree shield is a little larger than a human buckler but covers only
+The K'kree shield is a little larger than a human buckler but covers only
 about half the forearm when held in the hand. It is otherwise treated as
 a standard shield.
 
@@ -9573,9 +9573,9 @@ Hand-Blade
 2 Melee 1D+1 0.6 Cr250 —
 
 PERSONAL WEAPONS
-Although laser weapons are favored by most K’kree troops, some use is made of slugthrowers, especially in regions
+Although laser weapons are favored by most K'kree troops, some use is made of slugthrowers, especially in regions
 where high-tech weaponry is hard to maintain or even obtain. Many designs resemble traditional close combat
-weapons, which is in general less efficient but pleases the K’kree sense of aesthetics. Weapon names are also less
+weapons, which is in general less efficient but pleases the K'kree sense of aesthetics. Weapon names are also less
 pragmatic than those used by other species.
 
 A11/58231
@@ -9591,10 +9591,10 @@ of the shaft. Power is fed by means of a cord from a small
 backpack that will supply sufficient energy for 200 shots.
 A lance-of-length that has been plunged into the body of
 an enemy will be coated in blood, which will prevent proper
-firing, and to counter this a low-powered ‘cleaning pulse’
+firing, and to counter this a low-powered 'cleaning pulse'
 can be triggered with a minor action. The resulting cloud of
 vapourised body fluids and small pieces of tissue is known as
-a ‘flower of battle’, giving rise to the term ‘raisers-of-flowers’
+a 'flower of battle', giving rise to the term 'raisers-of-flowers'
 for those with a reputation for hard fighting.
 
 Weapon TL Range Damage Kg Cost Magazine Power Pack Cost Traits
@@ -9604,7 +9604,7 @@ Lance-of-Length 10 50 5D 9 Cr4500 200 Cr1500 Zero-G
 The short-hand is essentially a compact laser pistol intended
 for use by nobles and those unable to carry a full-sized battle
 weapon. It has belt-mounted power supply good for a 100
-shots. To ‘strike with the short hand’ is a euphemism for both
+shots. To 'strike with the short hand' is a euphemism for both
 exerting authority in a graphic manner and getting involved in
 a close-range firefight.
 
@@ -9613,11 +9613,11 @@ Short-Hand 10 20 3D 3 Cr2000 100 Cr1500 Zero-G
 
 **HAND-OF-LENGTH**
 The hand-of-length is a rapid-fire laser carbine designed to
-be used in one hand by a charging K’kree. Its internal power
+be used in one hand by a charging K'kree. Its internal power
 supply will deliver 20 bursts when fully charged but the
 weapon is normally powered by a small backpack unit with a
 capacity of 200 bursts. A short-hand powerpack can also be
-used, but each burst from the hand-of-length drains six shots’
+used, but each burst from the hand-of-length drains six shots'
 worth of power.
 
 Weapon TL Range Damage Kg Cost Magazine Power Pack Cost Traits
@@ -9642,10 +9642,10 @@ Weapon-of-Length 10 300 5D 9 Cr4000 200 Cr2000 Zero-G
 
 **WEAPON-OF-DESTRUCTION**
 The standard heavy squad support weapon in most
-K’kree forces is equivalent to a PGMP-12. The K’kree
+K'kree forces is equivalent to a PGMP-12. The K'kree
 version is just as bulky as human TL12 plasma weapons
 but the mass is distributed such that it can be used by
-a K’kree without the need for battle dress, providing
+a K'kree without the need for battle dress, providing
 the gunner adopts a braced stance. The weapon-of-
 destruction uses a backpack power supply good for 40
 shots and is only considered Very Bulky if the user is
@@ -9660,12 +9660,12 @@ Destruction
 WEAPONS
 
 CARRIERS
-K’kree forces make extensive use of grav-powered
+K'kree forces make extensive use of grav-powered
 weapon platforms, which operate semi-autonomously
 under the direction of a handler. Usually a handler
 operates a single platform but at need a skilled handler
 can control more than one. A number of additional
-platforms equal to the handler’s Electronics (remote
+platforms equal to the handler's Electronics (remote
 ops) skill can be run without penalty. Any more imposes
 DM-2 on all actions per additional platform due to the
 possibility of confused or sub-optimal directions.
@@ -9680,17 +9680,17 @@ weaving around in an automatic pseudorandom evasion
 pattern. Commands are selected from a menu and/or
 designation system, enabling the unit to be directed
 to attack the nearest target, the last target to fire on
-the handler’s band, the heaviest weapon the enemy is
+the handler's band, the heaviest weapon the enemy is
 using and so forth.
 
 All weapons carriers have an effective skill that is used
 when operating in semi-autonomous mode. The handler
 can directly control one of his weapons carriers, using
-his Electronics (remote ops) skill instead of the unit’s
+his Electronics (remote ops) skill instead of the unit's
 own programming, although this can only be done
 when stationary and carrying out no other actions. The
 standard sensor package includes radar, low-light and
-thermal sensors, all of which feed to the handler’s
+thermal sensors, all of which feed to the handler's
 heads-up display. Data can then be pushed to other
 band members.
 
@@ -9703,7 +9703,7 @@ A11/58231
 **WEAPONS CARRIER INTERFACE**
 An interface unit can be worn separately or built into a
 standard battle helmet or other headgear, providing a heads-
-up display that overlays data from the unit’s weapons carriers.
+up display that overlays data from the unit's weapons carriers.
 The interface unit does not allow control of the carriers.
 
 Unit TL Kg Cost
@@ -9721,7 +9721,7 @@ including orders to rally at a pre-arranged point, to defend
 a position until destroyed or go head-on at the enemy and
 cause as much damage as possible before being destroyed.
 Some nobles pre-set their carriers to make a final stand over
-their body if they fall in combat. A noble’s unit will override
+their body if they fall in combat. A noble's unit will override
 commands from a mere Merchant caste handler.
 
 Unit TL Kg Cost
@@ -9731,10 +9731,10 @@ Command Unit
 10 1 Cr1000
 
 **FRIEND-OF-THE-LOWLY**
-The Friend is the most basic of standard K’kree weapons
+The Friend is the most basic of standard K'kree weapons
 carriers, using the same ovoid body shape as most others,
 with a laser rifle along the main axis. The unit is neither agile
-nor quick and cannot keep up with a band of charging K’kree
+nor quick and cannot keep up with a band of charging K'kree
 if firing at the same time but does provide accurate light fire
 support on the move. Internal fuel cells provide an effectively
 infinite number of shots but movement rate is halved while
@@ -9800,7 +9800,7 @@ its frontal section, creating a mobile position of cover for an
 advancing warrior band. It is armed with a laser rifle along its
 main axis and a rapid-fire stagger laser weapon in an ovoid
 turret well forward on the torso. The effect is intentionally
-to create the impression of a noble K’kree, cloak flying out
+to create the impression of a noble K'kree, cloak flying out
 to the sides. The turret has all-round firepower; the heavy
 laser requires pivoting the whole unit and can deprive those
 behind it of cover when engaging targets to the side. Under
@@ -9866,17 +9866,17 @@ of-Destruction (1DD) x 2
 TRAITS Armor (+24)
 PROGRAMMING Hunter/Killer
 
-K’kree vehicles must be large enough to accommodate
-multiple K’kree, each of whom is of a considerable
+K'kree vehicles must be large enough to accommodate
+multiple K'kree, each of whom is of a considerable
 size. The smallest feasible enclosed vehicle carries
-four K’kree and any less risks panic and madness.
+four K'kree and any less risks panic and madness.
 Similarly, it is not possible to assign a single driver to
 a vehicle intended to carry passengers or cargo. Thus
 most vehicles are either driven by a semi-autonomous
 robotic unit similar to that used in weapons carriers or
 are owned by a family and driven directly by a family
 member. Groups of single-occupant open platforms are
-used in some areas but as a rule K’kree walk short (by
+used in some areas but as a rule K'kree walk short (by
 the standards of quadruped grazers) distances or use
 large transports to move the whole family at once. Even
 splitting a family group between two or more enclosed
@@ -9885,20 +9885,20 @@ distressing, so travel is usually aboard a single, open-
 sided vehicle.
 
 **Crew and Passengers**
-K’kree vehicles must allocate five times as many Spaces
+K'kree vehicles must allocate five times as many Spaces
 to passengers and crew as an equivalent human-
-operated vehicle would have (so, a K’kree will require
+operated vehicle would have (so, a K'kree will require
 a minimum of five Spaces on a vehicle). This includes
-supports to allow K’kree to stand in comfort and
+supports to allow K'kree to stand in comfort and
 emergency restraints used in the event of a crash.
 
 **Open Vehicles**
-K’kree vehicles are built with partial sides and rails for
+K'kree vehicles are built with partial sides and rails for
 safety, with an open top. A light covering can be drawn
 or unfolded over the top for weather protection and is
 included as standard on most vehicles.
 
-All K’kree vehicles have the Open trait and reduce their
+All K'kree vehicles have the Open trait and reduce their
 Speed by one Speed Band.
 
 Combat vehicles often use folding panels that, when
@@ -9924,7 +9924,7 @@ than a small turret – up to 6 Spaces – while consuming
 1 Space inside the vehicle. A controlled mount costs
 Cr3000 for every Space of installed weaponry.
 
-**VEHICLES OF THE K’KREE**
+**VEHICLES OF THE K'KREE**
 
 **CHAPTER-NINE**
 
@@ -9953,7 +9953,7 @@ indicate a destination (either on a map or chosen
 from a menu) and have the vehicle carry them
 there. So long as the skimmers remain close
 together, discomfort is kept to a minimum,
-although it is customary to tie the skimmers’
+although it is customary to tie the skimmers'
 basic communication systems together so the
 family can chat or sing hymns to their ancestors
 to keep fear at bay.
@@ -10018,7 +10018,7 @@ None
 have the vehicle carry them there. So long as the
 skimmers remain close together, discomfort is
 kept to a minimum, although it is customary to
-tie the skimmers’ basic communication systems
+tie the skimmers' basic communication systems
 together so the family can chat or sing hymns to
 their ancestors to keep fear at bay. The skimmer
 provides enough room to move around or allow a
@@ -10039,8 +10039,8 @@ and will add custom decoration matched to the
 status of the user – senior wife, administration
 expert and so forth. If so, the skimmers usually
 come with a pre-programmed formation and set
-of ‘come close alongside and receive wisdom
-or instruction from the Patriarch’ function
+of 'come close alongside and receive wisdom
+or instruction from the Patriarch' function
 on the control module. Note that the lead
 skimmer can be flown directly or act as what is
 
@@ -10175,13 +10175,13 @@ None
 Open
 
 This standard transport vehicle, used
-throughout K’kree space, is designed to ferry
-10 K’kree. It follows the same general design
+throughout K'kree space, is designed to ferry
+10 K'kree. It follows the same general design
 as the individual skimmer, with a curved
 frontal windshield and low safety barrier
 topped by rails or a clear screen. Weather
 cover is provided by a retractable tent-like
-‘roof’. Almost all vehicles of this sort are
+'roof'. Almost all vehicles of this sort are
 designed for autonomous select-and-go
 operations but can be driven manually. They
 are often used for cargo delivery, without
@@ -10196,16 +10196,16 @@ MOBILE FIGHTING
 PLATFORM
 Somewhere between personnel carriers, oversized tanks
 and mobile command posts. This medium-sized MFP
-operates with a crew of up to 12 K’kree warriors. Its high
+operates with a crew of up to 12 K'kree warriors. Its high
 level of automation permits a single individual to set up
 movement and fire patterns, and all weapons can be fired
 semi-autonomously. As a rule, one Merchant-class operator
 will be carried for each major weapon system, plus the
 commanding Noble.
 
-Basic hull form is oval like many other K’kree vehicles but
+Basic hull form is oval like many other K'kree vehicles but
 with a greater length-to-beam ratio and tapering tail that
-makes the MFP seem less like a ‘flying saucer’ than some
+makes the MFP seem less like a 'flying saucer' than some
 designs. Underside and top armor are fixed but there are
 folding panels in the all-round armor, which allow the
 crew relief from confinement and the ability to directly
@@ -10219,7 +10219,7 @@ panels and close them, using the weaponry remotely.
 It is possible to run right around the outside of the
 MFP, although this requires stepping over the barrel of
 
-the forward-firing plasma gun. This, the MFP’s primary
+the forward-firing plasma gun. This, the MFP's primary
 weapon, is located in a limited-traverse mount facing
 forward and protected by heavy frontal armor.
 
@@ -10228,22 +10228,22 @@ sponsons projecting from the walkway. Two are mounted
 on the forward quarters and two aft, on the walkway
 alongside the narrow tail. The cannon are on open mounts
 and can be fired manually from outside the armor (this is
-preferred by most crews) or from the safety of the vehicle’s
+preferred by most crews) or from the safety of the vehicle's
 remote fighting stations. There is another on a platform
 where the top of the armored hull begins to round down
 into the tail. A sixth light laser cannon, for the use of the
 vehicle commander, is located on the command platform
 atop the front of the main superstructure. Here, a noble
-K’kree can command his vehicle and enjoy the air rushing
+K'kree can command his vehicle and enjoy the air rushing
 past his face – at least until heavy fire drives him inside
-the armored section. The vehicle’s pilot stands alongside
+the armored section. The vehicle's pilot stands alongside
 his master, a position of great favor and no little danger.
 
 The MFP also mounts four anti-missile laser systems.
-These are normally controlled by the vehicle’s automated
+These are normally controlled by the vehicle's automated
 defensive systems but can be fired from a station inside
 the armored section at need. One is located on the rear
-of the commander’s station and one on the aft platform,
+of the commander's station and one on the aft platform,
 with two more on the underside of the midships sponsons
 for all-round coverage. These are sometimes used as anti-
 personnel weapons when the MFP is close to the ground.
@@ -10331,19 +10331,19 @@ NO
 PLA
 SMA^ GUN
 
-##### HIGH GUARD: K’KREE
+##### HIGH GUARD: K'KREE
 
 **CHAPTER-TEN**
 
-Most starships operating within K’kree space are built
+Most starships operating within K'kree space are built
 to TL9–11 standards. More advanced craft are available
 to those with money and connections but for interstellar
 commerce and routine travel a sedate pace is the norm.
 
-The unique characteristics of the K’kree – their size
+The unique characteristics of the K'kree – their size
 and need for the company of others – mean that their
 vessels are built differently to those used by humans
-and other small creatures. A K’kree engineer literally
+and other small creatures. A K'kree engineer literally
 cannot crawl into a narrow space to find a problem and
 if they can physically fit into a tight space, being alone
 and confined would make carrying out complex tasks
@@ -10355,44 +10355,44 @@ console, and wherever possible an open-plan mode of
 construction is used. This means that pipes and wiring
 conduits are highly exposed compared to human ships.
 Spacecraft crews are still exposed to considerable stress
-by the nature of their environment and many K’kree
+by the nature of their environment and many K'kree
 simply cannot handle the pressure. Some are unable to
 even travel as passengers and must remain confined to a
 single world or be transported in low berths.
 
 Accommodation is the most obvious area where designs
-differ from other species. K’kree need a communal
+differ from other species. K'kree need a communal
 living area but it must be properly delineated – it
 would not do for a mere Merchant-caste family to
-wander amongst a Noble’s entourage! Thus rather than
-staterooms, K’kree vessels use enclosures. These are
+wander amongst a Noble's entourage! Thus rather than
+staterooms, K'kree vessels use enclosures. These are
 not normally fully enclosed, although some have the
 capability to be sealed off in an emergency. Enclosures
 are rated by their quality, which determines which caste
 will deign to travel in them, as well as capacity. As a
-general rule, K’kree need at least three to four times as
+general rule, K'kree need at least three to four times as
 much living and working space as a human, although a
 family or fighting-band can occupy a smaller space on a
 communal basis.
 
 DESIGN FEATURES
-The lack of internal compartmentalization within K’kree
+The lack of internal compartmentalization within K'kree
 ships weakens their structure. To reflect this, reduce
 Hull points by 25% for any craft or vessel that carries
 
 live crew or passengers. Robotic craft are not affected.
 There is no cost saving for this; it is merely the way
-K’kree build their ships. This feature should be borne
-in mind when designing deck plans; K’kree ships are
+K'kree build their ships. This feature should be borne
+in mind when designing deck plans; K'kree ships are
 frighteningly open-plan by human standards – but then
 human ships are claustrophobic nightmare spaces fit
-only for G’naak.
+only for G'naak.
 
 Enclosures
 At their most basic, enclosures provide sleeping,
 hygiene and minimal recreation facilities for a group of
-K’kree of the appropriate social caste, as shown on the
-Enclosure table. K’kree have little concept of privacy
+K'kree of the appropriate social caste, as shown on the
+Enclosure table. K'kree have little concept of privacy
 but need space apart from other families to maintain
 their own bonds. An enclosure will be one of two basic
 types; minimal or secure. Minimal enclosures have no
@@ -10409,24 +10409,24 @@ permit a group to use both.
 
 For small craft intended only for short hops between
 ships, installations and planets, enclosures are not
-needed. Instead, the K’kree equivalent of cabin space
-is used. Acceleration benches for K’kree cost the same
+needed. Instead, the K'kree equivalent of cabin space
+is used. Acceleration benches for K'kree cost the same
 as for humans (Cr10000 per ton) but each ton only
-provides accommodation for one K’kree. In addition,
+provides accommodation for one K'kree. In addition,
 cabin space is required at the rate of four tons per
-K’kree. This includes basic sanitary and hospitality
+K'kree. This includes basic sanitary and hospitality
 facilities but most importantly just enough space to turn
-around, take a couple of steps and ‘be a K’kree rather
-than a lump of cargo strapped to a bench’. Cabin space
+around, take a couple of steps and 'be a K'kree rather
+than a lump of cargo strapped to a bench'. Cabin space
 costs the same as for humans (Cr50000 per ton). At a
-minimum, a K’kree small craft must allocate five tons
+minimum, a K'kree small craft must allocate five tons
 per passenger at a cost of Cr210000. If comfort and
 prestige are desired, this increases considerably.
 
 **Enclosures**
 
 Type Size (tons) Cost Notes
-Low berth, communal 1 per occupant Cr75000 K’kree low berths consume 1
+Low berth, communal 1 per occupant Cr75000 K'kree low berths consume 1
 Power for every 5 berths
 Servant-caste, minimal 4+2 per occupant MCr0.2+0.1
 per occupant
@@ -10462,8 +10462,8 @@ occupant
 
 Short-haul craft only
 
-to carry K’kree, robotic craft are found in most of the
-roles carried out by small craft elsewhere. K’kree do not
+to carry K'kree, robotic craft are found in most of the
+roles carried out by small craft elsewhere. K'kree do not
 question the wisdom of placing their lives in the hands
 of robotic devices; it is quite normal and has been going
 on long enough to be considered traditional.
@@ -10473,7 +10473,7 @@ software package (see page 64 of High Guard ). Note
 that no bridge is necessary if the craft is not intended to
 be flown manually by crew inside.
 
-K’kree Virtual Crew packages are not created to replace
+K'kree Virtual Crew packages are not created to replace
 single crewmembers but are a complete system allowing
 the craft to carry out its intended role without any
 personnel aboard. For this reason they take up space
@@ -10482,7 +10482,7 @@ than being purely a software system. A Virtual Crew
 package requires a computer with sufficient Bandwidth
 to run successfully.
 
-K’kree Virtual Crew packages allow normal functions
+K'kree Virtual Crew packages allow normal functions
 of the crew positions they replace to be carried out
 without requiring additional software. A basic operations
 package replaces pilots, engineers and astrogators and
@@ -10491,7 +10491,7 @@ operate its sensors (pilot or astrogator) and control its
 power systems (engineer) without requiring additional
 
 **Common Areas**
-Common areas are necessary aboard K’kree starships,
+Common areas are necessary aboard K'kree starships,
 bought for the same price as aboard other ships (MCr0.1
 per ton). However, a greater proportion of common space
 is required for comfort; typically tonnage equal to half
@@ -10512,7 +10512,7 @@ least a small exercise garden.
 **Robotic Craft**
 Very small robotic craft are normally termed drones but
 as size increases these autonomous or semi-autonomous
-vessels become something more capable. To the K’kree,
+vessels become something more capable. To the K'kree,
 there really is no difference between a fighter crewed
 by sentient people and a robotic fighter directed from a
 parent ship. Since it is unfeasible to build small fighters
@@ -10521,7 +10521,7 @@ software. This vessel could not fire weapons, however as
 this is a gunner function and not covered by the basic
 operations package.
 
-K’Kree ships cannot use standard virtual crew or
+K'Kree ships cannot use standard virtual crew or
 specialist software in combination with an operations
 package. If the ability to operate weapons is desired a
 military operations package is requires and a specialized
@@ -10534,8 +10534,8 @@ manner as vessels produced by any other species.
 Package is designed to replace up to five crewmembers
 aboard a craft carrying out simple tasks such as surface-
 to-orbit shuttling, sensor flybys and cargo transfers.
-The simplest of these is sometimes termed a ‘Standard
-Shuttle’ package and is quite adequate for routine work
+The simplest of these is sometimes termed a 'Standard
+Shuttle' package and is quite adequate for routine work
 but requires an operator to assume manual control for
 complex tasks. More advanced packages are capable of
 dealing with problems like wind shear or using optimal
@@ -10626,7 +10626,7 @@ Operations
 crewmembers
 
 The minimum acceptable for
-a Noble’s personal shuttle
+a Noble's personal shuttle
 Improved Full
 Operations
 
@@ -10699,12 +10699,12 @@ NONE
 
 BEARER-OF-CARGOES SHUTTLE
 
-One of the most common small craft in K’kree
+One of the most common small craft in K'kree
 space, the Bearer-of-Cargoes is designed to
 carry out basic interface work between orbital
 installations and starships or planetside facilities.
 It is entirely robotic, with no provision for manual
-control aboard the craft; like most K’kree vessels
+control aboard the craft; like most K'kree vessels
 it can be remotely operated from another craft or
 an installation.
 As a freight-only craft, the Bearer-of-Cargoes
@@ -10828,8 +10828,8 @@ BEARER-OF-FAMILIES ORBITAL SHUTTLE
 
 Built on the same hull as the Bearer-of-
 Cargoes, this shuttle is designed to carry
-up to 12 K’kree passengers over a short
-distance. It is very cramped by K’kree
+up to 12 K'kree passengers over a short
+distance. It is very cramped by K'kree
 standards and most find it unpleasant to
 ride one. However, the Bearer-of-Families
 is cheap and reliable. It has artificial
@@ -10865,7 +10865,7 @@ Operations
 
 Cargo Crane 3 3
 Software Library
-Staterooms K’kree
+Staterooms K'kree
 Acceleration
 Bench x12
 
@@ -10940,16 +10940,16 @@ AND OTHER CREW AS NEEDED
 
 TRADER OF THE OUTER STEPPE MERCHANT
 
-Small by the standards of K’kree vessels,
+Small by the standards of K'kree vessels,
 the Trader of the Outer Steppe can be
-encountered within and beyond K’kree
+encountered within and beyond K'kree
 space. Jump performance is very modest,
 since much of the Two Thousand Worlds
 region is accessible by jump-1 ships. The
 Trader of the Outer Steppe is hideously
 inefficient as a cargo carrier by human
 standards but it is one of the smallest
-ships a K’kree can stand being aboard on
+ships a K'kree can stand being aboard on
 an extended basis.
 
 Hull 1,200 tons,
@@ -11063,14 +11063,14 @@ space fighter craft and older designs using the
 same name are still in service in some areas.
 Built on a rugged 40-ton hull, the Quickening
 Thunder would be designated a medium
-fighter by most navies but K’kree refer to it as
-a ‘versatile-combat-craft-of-the-outer-steppe’
+fighter by most navies but K'kree refer to it as
+a 'versatile-combat-craft-of-the-outer-steppe'
 without reference to size or role.
 
 Fighters of this type are carried by warships
 and deployed to defend installations. Fittings
 and control systems are standardised, making
-replacement of losses or alteration of a vessel’s
+replacement of losses or alteration of a vessel's
 fighter complement a simple matter. The
 Quickening Thunder exists for the sole purpose
 of carrying a fusion gun barbette into action,and
@@ -11295,105 +11295,105 @@ LEGEND
 
 66
 
-###### K’KREE IN TRAVELLER
+###### K'KREE IN TRAVELLER
 
 **CHAPTER-ELEVEN**
 
-Whenever K’kree are encountered, whether as Travellers
+Whenever K'kree are encountered, whether as Travellers
 or played by the referee the same considerations apply.
-To others of his kind, a K’kree who deviates from these
-principles is not K’kree at all even if he looks like one.
-Tales of G’naak in the guise of K’kree are told to the
+To others of his kind, a K'kree who deviates from these
+principles is not K'kree at all even if he looks like one.
+Tales of G'naak in the guise of K'kree are told to the
 young and form part of their cultural heritage and no
-matter how rational a K’kree might be there is always an
-underlying fear that one who is ‘not of the herd’, either
+matter how rational a K'kree might be there is always an
+underlying fear that one who is 'not of the herd', either
 socially or mentally, might be more than just a deviant.
 
-**K’kree do not deviate from their nature:** K’kree redefine
-the word ‘hidebound’ with their strict adherence to
+**K'kree do not deviate from their nature:** K'kree redefine
+the word 'hidebound' with their strict adherence to
 tradition and obedience to the social order. Their rituals
 of veneration to the ancestors are near-constant and
 have to be done just right. Disrespect towards their way
-of life and social order cannot be tolerated. And G’naak
-are G’naak. No exceptions, no mercy, no tolerance.
+of life and social order cannot be tolerated. And G'naak
+are G'naak. No exceptions, no mercy, no tolerance.
 
-**Solo K’kree do not exist:** ‘Rogue’ or ‘maverick’ K’kree
+**Solo K'kree do not exist:** 'Rogue' or 'maverick' K'kree
 can only exist as a result of serious mental illness and
 cannot be played as rational people. They are also
-likely to be killed or else forcibly taken back into K’kree
-society if they encounter other K’kree – being alone
+likely to be killed or else forcibly taken back into K'kree
+society if they encounter other K'kree – being alone
 causes madness, madness causes a desire to act alone,
 both are wrong, wrong, wrong! An outcast or orphaned
-K’kree might appear in an adventure but this is a tragic,
+K'kree might appear in an adventure but this is a tragic,
 troubled and doomed character best suited to be played
 by the Referee or an experienced player who knows
 where the story is leading.
 
-**K’kree are big:** The difficulties of carrying out many tasks
+**K'kree are big:** The difficulties of carrying out many tasks
 when you are the size of a horse cannot be over-stated.
-This is why K’kree make so much use of robotic craft,
+This is why K'kree make so much use of robotic craft,
 vehicles and technical-assistance devices that can
 actually get into the places they are to work.
 
-**K’kree operate in groups:** Although tasks are generally
-carried out by a single K’kree they are not really
+**K'kree operate in groups:** Although tasks are generally
+carried out by a single K'kree they are not really
 performed by an individual so much as by a family or
 fighting-band. The head of the group dictates who will
 carry out the task and they do the work. Thus a noble
-K’kree might describe himself as piloting his ship – and
+K'kree might describe himself as piloting his ship – and
 in his terms he is – but in fact he is giving his pilot
 instructions. A single human or Vargr Traveller might
-dash to assist her downed comrade but if a K’kree did it
+dash to assist her downed comrade but if a K'kree did it
 would resemble a stampede of up to a dozen horse-sized
 people, most of whom would then stand around offering
 
 praise, encouragement and prayers to the ancestors
 rather than actually doing anything to help.
 
-These factors make K’kree both interesting and very
+These factors make K'kree both interesting and very
 difficult to play. They could be presented as generic
 homicidal baddies but there is much more to them
-than this. Everything the K’kree do makes sense from
+than this. Everything the K'kree do makes sense from
 their own perspective, even if an outsider cannot
 comprehend what just happened. For example, a
-K’kree family might be on the verge of success (or
+K'kree family might be on the verge of success (or
 victory over the Travellers perhaps) and then just...
 stop. Orders from their clanlord or some important
 piece of tradition that requires rituals and rest before
 continuing, might derail an otherwise promising
-endeavor. The K’kree would not be disappointed by
+endeavor. The K'kree would not be disappointed by
 this; it is how things are and should be.
 
-K’kree are all connected. Small families are part of
+K'kree are all connected. Small families are part of
 a big family and they are part of a herd and a clan.
-The actions of a K’kree family patriarch affect his
+The actions of a K'kree family patriarch affect his
 whole herd and actions toward him are likely to have
 repercussions if they come to the attention of his
-clanlord. The curious, loose unity of the K’kree at times
+clanlord. The curious, loose unity of the K'kree at times
 holds back their progress but is also a source of great
 strength and can be a powerful factor in diplomacy.
 
-When a noble K’kree arrives in his starship and
+When a noble K'kree arrives in his starship and
 announces he intends to conduct trade or negotiations,
 there is no doubt – as there might be with other species
 
 - that he is there with the approval and backing of his
-clan. There are no K’kree ‘rogue traders’ or con-men
+clan. There are no K'kree 'rogue traders' or con-men
 motivated by self-interest pretending to speak on behalf
 of a greater power. However, that does not mean the
-K’kree play straight by outsiders. There is no shame
+K'kree play straight by outsiders. There is no shame
 in deceiving a foreigner with a rigged deal or insincere
 promise and no reason not to tear up a treaty if it is no
 longer beneficial.
 
-This is the reality of dealing with K’kree. All their
+This is the reality of dealing with K'kree. All their
 agreements are one-sided; they do not care about
 outsiders unless they are powerful enough to be a real
-threat. K’kree will only make a deal if it benefits them
+threat. K'kree will only make a deal if it benefits them
 and they will certainly stick to it if it continues to do
 so. Internal politics or shifting conditions elsewhere
 can affect a treaty or agreement but the same factors
-that make the K’kree implacable enemies make them
+that make the K'kree implacable enemies make them
 dependable treaty partners and steadfast friends to
 those fortunate enough to win their approval.
 
@@ -11479,7 +11479,7 @@ MENDAN
 
 AMDUKAN
 
-KTIIN’GZAT ARZUL
+KTIIN'GZAT ARZUL
 
 TRENCHANS
 
@@ -11527,7 +11527,7 @@ EMPTY
 
 QUARTER
 
-STAR’S
+STAR'S
 
 END
 
@@ -11558,7 +11558,7 @@ significant being stance, forepaws and muzzle. Vargr
 adopt a digitigrade stance (putting weight on their
 toes rather than the soles of their feet) and many
 have a slight stoop although most Vargr would call it
-a ‘relaxed stance’. Vargr hands are similar in size and
+a 'relaxed stance'. Vargr hands are similar in size and
 functionality to human hands but the internal structure
 is quite different and unique to Vargr. Muzzles are
 shorter than that of their canine ancestors, largely due
@@ -11586,10 +11586,10 @@ care of themselves, around the age of six.
 
 Vargr share the same senses as humans but they tend
 to be more acute. Olfactory receptors develop very
-quickly to compensate for a pup’s lack of sight and
+quickly to compensate for a pup's lack of sight and
 sound, resulting in a keen sense of smell that Vargr
 use to recognize each other. Vargr hearing is also much
-better than a human’s, able to detect a greater range
+better than a human's, able to detect a greater range
 of frequencies over longer distances; humans are more
 sensitive to low frequencies and Vargr are able to hear
 high frequency sounds that are inaudible to humans.
@@ -11630,7 +11630,7 @@ Subspecies
 A little known fact to most outsiders is the number of
 Vargr subspecies that exist within the Extents. Most
 ethnic minorities were seen as deviations from the
-‘perfected’ Vargr race developed by the Ancients and
+'perfected' Vargr race developed by the Ancients and
 became the victims of prejudice and racial abuse that
 prompted many to leave Vargr society and settle in
 the unpopulated regions of Vargr space. Most of these
@@ -11671,7 +11671,7 @@ throughout the Extents.
 The Akumgeda appear much like normal Vargr but tend
 to have spotted fur. Although unusual, spots are not
 unknown and the Akumgeda found it easy to blend in
-with ‘normal’ Vargr. What set the Akumgeda apart was
+with 'normal' Vargr. What set the Akumgeda apart was
 their strong psionic ability and some postulate that the
 Vargr only developed psionic powers after the Akumgeda
 reintegrated with their society.
@@ -11709,7 +11709,7 @@ sentient canines constantly crave approval, much more
 
 so than humans and most other races. This can be seen
 in nature where wild dogs or wolves seek approval from
-the pack’s leader, where the cooperative nature greatly
+the pack's leader, where the cooperative nature greatly
 improves their chance of survival. Likewise, domestic
 canines seek approval from their master, which makes
 them very loyal and easy to train.
@@ -11741,7 +11741,7 @@ loyal brethren.
 
 Individuality is still important within the pack and each
 member strives to become the most dominant. This
-contest for leadership is based upon an individual’s
+contest for leadership is based upon an individual's
 charisma and influence but although members of a
 pack are competitive, the good of the pack comes first
 and members know they can always count on their
@@ -11761,7 +11761,7 @@ the organization.
 
 Charisma & Loyalty
 At the heart of Vargr psychology is the concept of
-charisma, which Vargr define as an individual’s prestige
+charisma, which Vargr define as an individual's prestige
 and force of personality that attracts other Vargr.
 
 This, combined with pack mentality, is the foundation
@@ -11793,12 +11793,12 @@ charisma who submit to their authority.
 
 A leader might not have the skills to effectively lead the
 pack but charisma gains them the loyalty of everyone in
-the group. Contrary to popular belief, a Vargr’s loyalty
+the group. Contrary to popular belief, a Vargr's loyalty
 is very strong and will only waver if the pack leader
 fails to meet the needs of their people and thus lose
 charisma. Loyalties may change but never quickly and
 never without reason. It is this that seems to have gone
-unnoticed by outsiders who regard the Vargr’s loyalty as
+unnoticed by outsiders who regard the Vargr's loyalty as
 volatile at best and mutinous at worst.
 
 Should a leader be found to lack the skills to lead
@@ -11817,11 +11817,11 @@ such esteemed origins.
 
 Some Vargr believe in racial superiority, which has led to
 two schools of thought on the subject. Those who follow
-the so called ‘high superiority’ school propose that Vargr
+the so called 'high superiority' school propose that Vargr
 were designed to be better than other races, that the
 Ancients designed them to be nothing less than perfect.
 
-Proponents of the ‘low superiority’ school maintain they
+Proponents of the 'low superiority' school maintain they
 were the original sapient race on Terra and the Ancients
 moved them to Lair so the Vargr would not interfere with
 the genetic engineering of humans from Terran apes.
@@ -11854,7 +11854,7 @@ In agrarian or pre-industrial societies, the family
 pack tends to be larger than those of more advanced
 cultures. On a low technology world, a larger family
 means a greater number of hunters, essential to the
-pack’s survival. However, if a pack grows too large
+pack's survival. However, if a pack grows too large
 it becomes less effective, especially if the pups and
 elderly outnumber more able-bodied members as it
 places an additional burden on the hunters, threatening
@@ -11879,7 +11879,7 @@ industrial societies.
 
 **Beliefs**
 Religion is as diverse and varied as every other aspect of
-Vargr society. Many religions stem from the Vargr’s pride
+Vargr society. Many religions stem from the Vargr's pride
 in their origins and the Ancients are venerated as gods
 by many groups. What humans would consider orthodox
 religions also exist in great numbers but they are not as
@@ -11981,7 +11981,7 @@ remain superior to their subordinates.
 
 Individuals who constantly challenge their comrades will
 usually lose charisma and in some cases are cast out
-from the pack. Exploiting one’s prowess in combat as an
+from the pack. Exploiting one's prowess in combat as an
 easy way of gaining charisma is seen as un-Vargr and not
 tolerated. Infighting has its rightful place but it is not an
 alternative to charisma; it is just one of many aspects of
@@ -12079,7 +12079,7 @@ dealings as they are for political negotiations.
 Other races on the borders of Vargr territories are often
 subject to raids by independent corsair bands. This
 has led to misunderstandings and political disputes
-since few outsiders understand the Vargr’s apparent
+since few outsiders understand the Vargr's apparent
 lack of respect for authority. In these situations
 emissaries are frequently called to mediate on behalf
 of Vargr governments. Emissaries are usually successful
@@ -12352,7 +12352,7 @@ in Vargr communication. However, Vargr have a limited
 range of facial expressions so they use posture, bearing,
 ears and tails to convey unspoken meaning.
 
-Much of a Vargr’s body language is subconscious and
+Much of a Vargr's body language is subconscious and
 can often give a clear indication as to their emotional
 state. This can obviously make Vargr quite vulnerable,
 so they will often use additional gestures to distract
@@ -12526,7 +12526,7 @@ MUSTERING OUT BENEFITS
 7 Cr25000 Ally
 
 The army includes all members of a
-government’s planetary armed fighting
+government's planetary armed fighting
 forces. Soldiers deal with planetary
 surface actions, battles and campaigns.
 Such individuals may also be mercenaries
@@ -12618,7 +12618,7 @@ CHA +1.
 
 10 You are assigned to a peacekeeping role. Gain one of Admin 1, Investigate 1, Recon 1 or CHA +1.
 
-11 You save your pack leader’s life in battle. Gain them as an Ally and receive DM+2 to your next Advancement roll.
+11 You save your pack leader's life in battle. Gain them as an Ally and receive DM+2 to your next Advancement roll.
 
 12 You perform a heroic deed in battle. Gain CHA +1 and an automatic promotion.
 
@@ -12782,7 +12782,7 @@ in your band, specialising in boarding and looting
 ships.
 Pilot: You are one of the pilots or navigators in
 your corsair band.
-Reaver: You are part of the ship’s crew and
+Reaver: You are part of the ship's crew and
 function as an engineer, gunner or other
 supporting role.
 
@@ -13218,8 +13218,8 @@ refuse their offer, roll on the Injury table.
 
 9 You have a successful expedition. Gain DM+1 to one Benefit roll for this career.
 
-10 You thrive on adversity and learn the wisdom of the old saying ‘What doesn’t kill you will only make you
-stronger’. Roll Survival 8+. If you succeed, gain +1 to STR, DEX or END. If you fail, roll on the Injury table.
+10 You thrive on adversity and learn the wisdom of the old saying 'What doesn't kill you will only make you
+stronger'. Roll Survival 8+. If you succeed, gain +1 to STR, DEX or END. If you fail, roll on the Injury table.
 
 11 You excel at your career. Gain DM+2 to your next Survival roll and DM+2 to your next Advancement roll.
 
@@ -13481,7 +13481,7 @@ MUSTERING OUT BENEFITS
 4 Cr7500 Ally
 5 Cr10000 Weapon
 6 Cr25000 CHA +1
-7 Cr50000 Ship’s Boat or two Ship Shares
+7 Cr50000 Ship's Boat or two Ship Shares
 
 This career includes all members of an
 interstellar navy that patrols space between
@@ -13822,7 +13822,7 @@ EVENTS TABLE
 
 VARGR LIFE EVENTS
 The life events of a Vargr Traveller are similar to those of a human, with the addition of pack events. The pack is an
-important part of a Vargr’s life and events that affect the pack will often impact on the character.
+important part of a Vargr's life and events that affect the pack will often impact on the character.
 
 **Life Events**
 
@@ -13860,7 +13860,7 @@ come true or another stroke of good fortune. Gain a Benefit roll in your current
     brought the Vargr to Lair.
 
 **Pack Events**
-These events affect the Traveller’s pack and
+These events affect the Traveller's pack and
 their position.
 
 1D Event
@@ -13876,7 +13876,7 @@ you look to other members to replace them. Roll 1D. On a roll of 1–3 the curre
 position; gain a Rival. On a roll of 4–6 a new leader takes charge of the pack; gain an Ally.
 5 Success: You are successful at a particularly difficult task and exceed all expectations. Gain CHA +1.
 6 Leadership Challenge: The leader of your pack fails in their role and the pack looks for a new leader. Roll
-Leadership or CHA 10+ to become the pack’s new leader. If you fail, another member is chosen and you
+Leadership or CHA 10+ to become the pack's new leader. If you fail, another member is chosen and you
 gain a Rival.
 
 MUSTERING OUT
@@ -13903,7 +13903,7 @@ benefit four times, the trader will have no mortgage
 and it will be all yours!
 
 **Gaining and Losing Charisma**
-A Vargr’s CHA can change many times during the course of an adventure, as long as they are responsible for the
+A Vargr's CHA can change many times during the course of an adventure, as long as they are responsible for the
 success or failure of any given task; if a Traveller is using their initiative and making choices, the outcome of
 those decisions can raise or lower their CHA.
 
@@ -13959,7 +13959,7 @@ naturally more comfortable.
 A large amount of Vargr equipment is second hand. There
 is no status attached to buying new or second hand; the
 abundance of second hand goods from failed companies
-is simply part of Vargr life that creates a buyer’s market.
+is simply part of Vargr life that creates a buyer's market.
 Junk dealers usually trade out of a warehouse, bulk
 selling to corporations, but most have an open door policy
 allowing anyone to browse their stock and purchase goods
@@ -14033,8 +14033,8 @@ and out of the whole suit. Base garments are made of
 flexible materials.
 
 The standard base garment is a coverall, usually
-decorated in patterns of the user’s choice. Camouflage
-is rare; garish designs that scream ‘here I am!’ are the
+decorated in patterns of the user's choice. Camouflage
+is rare; garish designs that scream 'here I am!' are the
 norm. These attract as much fire as attention but are
 part of the Vargr way of life. Jacket-style base garments
 are also available, although they usually come with
@@ -14066,7 +14066,7 @@ the armor. For this reason, helmets are less common
 than for other races, although they are required as part
 of sealed suits.
 
-Armor is as much an expression of a Vargr’s personality
+Armor is as much an expression of a Vargr's personality
 and achievements as it is for protection and is usually
 customised by each individual with ornamentation and
 personalised symbols. This is especially true of corsairs
@@ -14115,7 +14115,7 @@ is usually a single unit shaped to deflect bullets and
 
 blows. A heavy version, with thicker armor over the
 vital organs and enhanced shoulder protection, as well
-as a short ‘skirt’ of linked plates to protect the upper
+as a short 'skirt' of linked plates to protect the upper
 legs, is available for those wanting additional protection.
 
 Cloaks: Some torso protection (typically shoulder
@@ -14178,7 +14178,7 @@ reduced by one for each damage dice rolled against the
 user that comes up a 5 or 6. Eventually the shield will
 be shot away or its remains can be discarded by the
 user. The shield is big enough to cover the whole of the
-wearer’s front but makes it impossible to carry out tasks
+wearer's front but makes it impossible to carry out tasks
 requiring both hands.
 
 Fighting Boots (Ogzkua): Fighting boots are the standard
@@ -14470,7 +14470,7 @@ and related augments see little use in Vargr society.
 
 All augments listed in the Traveller Core Rulebook can be
 used by Vargr characters but availability depends on the
-type of augment required at the Referee’s discretion.
+type of augment required at the Referee's discretion.
 
 Aural Filter: This works much like the audio filter
 option fitted to armor to prevent loud and high
@@ -14504,7 +14504,7 @@ The procedure for Urzaeng modification is long (D3
 months) and painful, requiring a combination of
 genetic manipulation and surgery. Travellers with
 this augment gain the following modifications: STR
-+1, END +1 and INT –1. The Traveller’s body also
++1, END +1 and INT –1. The Traveller's body also
 increases in size, gaining 2D+6 centimeters in height
 and 1D+4 kg in weight.
 
@@ -15044,18 +15044,18 @@ the Vargr Extents.
 Passage Types
 Passage on Vargr ships has the same three categories
 as on human vessels: low, basic, middle and high
-passage. Travellers can be ‘bumped’ from a berth by
+passage. Travellers can be 'bumped' from a berth by
 another passenger with higher CHA, regardless of the
 class of ticket they have. This often has a chain effect of
 bumped passengers consequently bumping others else
 with lower CHA.
 
 The Low Lottery: This custom is practiced by some Vargr
-captains but not by others. To determine if a ship’s
+captains but not by others. To determine if a ship's
 captain runs a lottery, roll 1D; on a 1–4 they not, a roll
 of 5–6 they do.
 
-The Traveller’s Aid Society: There is no Vargr institution
+The Traveller's Aid Society: There is no Vargr institution
 comparable to the TAS that covers the Vargr Extents in
 its entirety but smaller organizations do exist that offer
 similar services on a smaller scale. They vary in size,
@@ -15071,7 +15071,7 @@ Piracy: Piracy, hijacking, raiding and similar crimes are
 more frequent in Vargr space than in the Imperium. Roll
 on the Corsair Encounters table once per trip using the
 Encounter Modifiers table (modifiers are cumulative
-and applied to the ‘tens’ dice only) to determine
+and applied to the 'tens' dice only) to determine
 what vessels are encountered. If a corsair band is
 encountered, use the Encounter Distance table on page
 79 of the Traveller Core Rulebook to determine the
@@ -15111,7 +15111,7 @@ leader constantly fails in his duties.
 
 The hierarchies and dynamics of the pack are also more
 varied onboard starships. As with all packs, there is
-always a leader but an individual’s CHA rises and falls
+always a leader but an individual's CHA rises and falls
 depend on how important their role is perceived by
 the rest of the crew. Priorities can change according to
 events; for example, medics might not be considered
@@ -15492,7 +15492,7 @@ x 2
 **Systems** Fuel Processor (60 tons/day) 3 0.15
 Fuel Scoops — —
 Docking Space (30 tons) 33 8.25
-Ship’s Boat — 7.272
+Ship's Boat — 7.272
 **Staterooms** Standard x 4 16 2
 High x 1 6 0.8
 **Software** Maneuver/0 — —
@@ -15593,7 +15593,7 @@ Power Plant Fusion (TL8), Power 70 7 3.5
 **Systems** Fuel Processor (20 tons/day) 1 0.05
 Fuel Scoops — —
 Docking Space (30 tons) 33 8.25
-Ship’s Boat — 7.272
+Ship's Boat — 7.272
 Mining Drones (10) 20 2
 **Staterooms** Standard x 4 16 2
 Emergency Low Berth x 1 1 1
@@ -16181,7 +16181,7 @@ LEGEND
 **CHAPTER-SEVENTEEN**
 
 The Six Major Races are considered to be the Aslan,
-Droyne, Hivers, K’kree, Vargr and Humaniti (merging
+Droyne, Hivers, K'kree, Vargr and Humaniti (merging
 the Vilani, Solomani and Zhodani branches of the
 human race into one). However, the Solomani and Vilani
 branches would prefer to forget their Zhodani brethren
@@ -16257,7 +16257,7 @@ of two factors; the original gene pool of humans who first
 inhabited Zhdant and minor mutations or developments
 that took place during the 300,000 years they lived on
 their new homeworld. Their height and physical build are
-both consequences of Zhdant’s 0.85 g surface gravity.
+both consequences of Zhdant's 0.85 g surface gravity.
 
 An evolutionary adaptation allows Zhodani to digest
 certain proteins native to Zhdant, which are indigestible
@@ -16306,8 +16306,8 @@ most bureaucrats, business and project managers,
 merchant captains and officers, teachers, psychologists
 and doctors, police and journalists (although some
 Nobles may also be found in these positions). Many
-serve as psionic troops (technically ‘commissioned
-specialists’) or military officers. Intendants also act as
+serve as psionic troops (technically 'commissioned
+specialists') or military officers. Intendants also act as
 personal aides to individual Nobles. They make up about
 15% of the population.
 
@@ -16330,7 +16330,7 @@ to have high psionic strength, they are adopted into
 an Intendant family and raised as an Intendant. Note
 that children of Intendants and Nobles who have a low
 degree of talent still receive psionic training and inherit
-their parents’ social status. Similarly, Intendants and
+their parents' social status. Similarly, Intendants and
 Nobles who suffer a permanent loss of talent (such as
 from an accident) do not lose their standing.
 
@@ -16349,29 +16349,29 @@ acknowledge, let alone worship, any sort of supreme
 being, nor do they believe in an afterlife in any
 conventional sense. Instead, they have what some
 Imperial academics have termed a vaguely Buddhist/
-vaguely ‘green’ philosophy. Tavrziansh (Morality’s Path)
+vaguely 'green' philosophy. Tavrziansh (Morality's Path)
 is taught in schools as fact and endorsed by the state
-as a component of ‘proper thought’. It is governed
+as a component of 'proper thought'. It is governed
 by a small organization, academic and secular, the
-Fevranzhtavrchedl’ (Guardians of the Book), which every
+Fevranzhtavrchedl' (Guardians of the Book), which every
 50 years or so releases a slightly modified version of the
 Fevranzhtavr (the Book of Morality).
 
-Morality’s Path holds that life is a matter of duty. Duty
+Morality's Path holds that life is a matter of duty. Duty
 arose with life; even the humblest creatures have and
-perform their duty, in an unconscious ‘state of grace’.
+perform their duty, in an unconscious 'state of grace'.
 Nevertheless, even unintelligent life can fail in its
 duty. A plague of rodents, philosophically, indicates
 the rodents have forgotten their place and corrective
 measures would be justified.
 
 With intelligence comes the ability to understand
-one’s duty to all life and most especially to one’s
+one's duty to all life and most especially to one's
 own people. Duty to race takes priority over all other
-duties but it is most praiseworthy to keep one’s duties
+duties but it is most praiseworthy to keep one's duties
 from coming into conflict. Zhodani can contemplate
 war, even genocide, to protect their people but they
-follow Morality’s Path better if they protect other life,
+follow Morality's Path better if they protect other life,
 especially intelligent life, as well.
 
 Duty is also the watchword of the individual. Everyone
@@ -16388,13 +16388,13 @@ to another Zhodani. The more dutiful the spirit, the more
 personality (and possibly even memory) will remain; this
 resembles reincarnation. An undutiful spirit diminishes
 in proportion to its failures. However, actual demotion
-on the ‘chain of being’ is rare. It would be a very bad
+on the 'chain of being' is rare. It would be a very bad
 Noble who returned as a Prole and a very bad Prole who
 returned as, for instance, an Imperial or rodent.
 
-Dutiful spirits advance. Merit in Morality’s Path, is tied
+Dutiful spirits advance. Merit in Morality's Path, is tied
 with psionic power, at least as far as Zhodani spirits are
-concerned (Morality’s Path recognizes spirits and duty
+concerned (Morality's Path recognizes spirits and duty
 
 of other races but has little to say about them). When
 a Prole displays psionic power, it means they showed
@@ -16414,15 +16414,15 @@ well and that the Zhodani as a whole are performing
 their duty to all life.
 
 Imperial scholars and political scientists feel certain
-that Morality’s Path and its brief holy book, the Book
+that Morality's Path and its brief holy book, the Book
 of Morality, were not organic developments of Zhodani
 belief. Later versions of the book do not reflect
 development of philosophy but rather a more skilled
-presentation of the underlying message: ‘Conform, be
-good and you might be a Noble someday.’
+presentation of the underlying message: 'Conform, be
+good and you might be a Noble someday.'
 
 CUSTOMS
-Zhodani society’s acceptance and use of psionics
+Zhodani society's acceptance and use of psionics
 strongly influences the way they think. It differs from
 that of the average Imperial citizen in many respects.
 
@@ -16452,14 +16452,14 @@ and then offer that. Obviously, a psionic negotiator has
 a tremendous advantage but this model is simplistic. A
 
 Zhodani does not approach a negotiation with thoughts
-of ‘what can I get out of this deal’ but rather ‘what do
-I believe my work is truly worth’ or ‘what do I believe I
-deserve for my labour and skill’. Anyone reading those
+of 'what can I get out of this deal' but rather 'what do
+I believe my work is truly worth' or 'what do I believe I
+deserve for my labour and skill'. Anyone reading those
 thoughts may still disagree and negotiate but there is no
 dishonesty in the process.
 
 In any case, Zhodani view the use of psionics in such a
-situation as unfair, much like reading a teacher’s mind
+situation as unfair, much like reading a teacher's mind
 for answers to test questions.
 
 Regard for social superiors is a natural part of Zhodani
@@ -16491,7 +16491,7 @@ to mental privacy, they have been thoroughly integrated
 into Zhodani cultural mores.
 
 Zhodani feel uncomfortable outside the Consulate,
-where ‘liars and thieves are allowed to wander’ and
+where 'liars and thieves are allowed to wander' and
 fundamental values of Zhodani society are not enforced.
 Moreover, as Zhodani lack racial diversity, the average
 Zhodani has had little experience with other types of
@@ -16526,11 +16526,11 @@ grandchildren) will have great enough psionic power to
 warrant training and elevation into the Intendant class.
 
 INTENDANTS
-As with Proles, an Intendant’s childhood education
+As with Proles, an Intendant's childhood education
 will result from natural aptitudes being identified
 and trained for a suitable and necessary career.
 Additionally, psionic training is an important part of an
-Intendant’s education.
+Intendant's education.
 
 After their studies (which may include education at
 a local or off-world university or college), records will
@@ -16540,7 +16540,7 @@ with that career path. Usually, an Intendant will have
 already made such contacts during their studies and
 there will be a job waiting. Often, there will be a
 number of choices, some of which may require travel
-and interviews. Because the Intendant’s education is
+and interviews. Because the Intendant's education is
 geared toward the career, there is rarely any difficulty
 finding a position.
 
@@ -16574,10 +16574,10 @@ NOBLES
 Nobles have more freedom to shape their own destiny
 than Intendants. From childhood, their education has
 a focus on psionic training and fostering proper social
-attitudes, with a more generalised ‘classical’ education
+attitudes, with a more generalised 'classical' education
 on leadership, psychology and personnel management.
 
-From the Noble’s perspective, the most important skill
+From the Noble's perspective, the most important skill
 is to be a good manager, to know which Intendants are
 doing a good job and which are simply time-servers,
 and how to motivate them. Since Intendants are also
@@ -16599,7 +16599,7 @@ easily to higher office.
 LAW
 The character of crime in the Consulate is markedly
 different from that of other societies. Responsibility
-for law enforcement is maintained by the Tavrchedl’
+for law enforcement is maintained by the Tavrchedl'
 (the Thought Police), who are as much concerned with
 mental health as actual deeds.
 
@@ -16649,7 +16649,7 @@ individuals, including theft, rape, premeditated assault,
 treason and murder. Zhodani believe that any individual
 who commits such a crime must be insane and sentences
 for insane crimes call for re-education until the insanity
-is cured. Sometimes the offender’s personality must
+is cured. Sometimes the offender's personality must
 be rebuilt and, in rare instances, an execution will be
 ordered if the individual appears incurable.
 
@@ -16695,7 +16695,7 @@ further promotion.
 
 Nobles are believed, under the law, to be incapable
 of incited crimes. Insane crimes reflect a breakdown
-in a Noble’s personality (portrayed to Proles as the
+in a Noble's personality (portrayed to Proles as the
 result of overwork and demands of responsibility).
 Minor violations may be let off with a warning and
 usually a short or lengthy enforced vacation from work:
@@ -16729,7 +16729,7 @@ They are subject to the jurisdiction of the Consulate, as
 manifested through the local government council in the
 region they reside or, in the case of individuals working
 directly for a consular agency (such as the military), that
-organization’s hierarchy.
+organization's hierarchy.
 
 Proles are not serfs owned by a Noble family but are
 considered dependents of the Consulate as a whole. If a
@@ -16742,18 +16742,18 @@ bureaucrat. If they have a good reason to do so, such as
 an opportunity for a new, better-paying job or a region
 whose schools better suit the aptitudes of their children,
 the request will be routinely approved. If the decision
-seems frivolous, or not in the Prole’s own best interest,
+seems frivolous, or not in the Prole's own best interest,
 the council may not grant it and the Thought Police will
 inquire into their mental health – why are they unhappy
 enough to want to change their job and move to a
 different location?
 
-This is an important fact to remember; all of a Prole’s
+This is an important fact to remember; all of a Prole's
 major decisions are subject to the scrutiny of the
 Thought Police and upper classes (or superior officers,
 if the Prole is in the military). If their actions seem ill
 considered or unhealthy, the government may intervene
-for the Prole’s own good.
+for the Prole's own good.
 
 Intendants and Nobles
 Privacy of thought is highly respected by Intendants and
@@ -16838,11 +16838,11 @@ The fact that robots do not have minds that can be
 communicated with through ordinary telepathy means
 that Zhodani do not try to anthropomorphise robots
 to the same degree as the Imperium. An Intendant or
-Noble need only to try to touch a robot’s mind to know
-it is not ‘alive’ or see inside the machine’s body with
+Noble need only to try to touch a robot's mind to know
+it is not 'alive' or see inside the machine's body with
 ESP to reveal its workings. Nor, in closely monitored
 Zhodani society, are the fears and prejudices other
-races have about a ‘robot revolt’ or ‘android doubles’
+races have about a 'robot revolt' or 'android doubles'
 likely to occur – at least, not without swift treatment by
 the Thought Police.
 
@@ -16912,7 +16912,7 @@ cruisers and battle rider squadrons held back in reserve
 fleets within the Consulate.
 
 The biggest difference between the Consular and
-Imperial Navy is that a good percentage of the former’s
+Imperial Navy is that a good percentage of the former's
 ships are occupied with exploration duties, which in the
 Imperium would be the province of the Scout Service.
 Some Zhodani ships are dedicated exploration vessels
@@ -16922,7 +16922,7 @@ Many are tasked with supporting the core expeditions
 but exploration also continues in other directions, albeit
 at a much slower pace.
 
-This ‘warrior-explorer ethic’ has a strong effect on
+This 'warrior-explorer ethic' has a strong effect on
 Zhodani naval culture. Many Zhodani officers possess
 advanced degrees in sophontology or other scientific
 fields, as well as engineering and naval tactics, and
@@ -16937,7 +16937,7 @@ The Zhodani Army comprises the planetary-armed
 fighting forces of individual worlds and subsectors within
 the Consulate, dealing with planetary surface actions,
 battles and campaigns. Where necessary, they may serve
-as ship’s troops aboard naval vessels. The army, like the
+as ship's troops aboard naval vessels. The army, like the
 navy, has its own command structure, which parallels
 governmental council structure. Consular Guard units,
 however, are under direct authority of the Qlomdlabr, the
@@ -16975,28 +16975,28 @@ contingent. Whilst this is not a particularly noteworthy
 position it is a portent of things to come and Zhof
 hopes one day to become an instructor to the family of
 a noble, perhaps by way of serving as a member of the
-Close Guard surrounding a senior officer. The ship’s
+Close Guard surrounding a senior officer. The ship's
 Mentor-of-Aspirations team has noted this ambition
 and pronounced it both worthy and attainable.
 
 PRIMARY WEAPON
 The primary weapon of most Consular Marines is the
 Personal Energy Weapon Riebchi, generally referred to
-as the ‘Consular carbine’ by non-Zhodani observers. A
+as the 'Consular carbine' by non-Zhodani observers. A
 standard direct-feed laser device, the Riebchi varies
 mainly in its inclusion of a rechargeable battery pack
 under the collimator tube. This permits 6–7 shots from
 the weapon if its backpack power supply is disconnected.
 The battery pack can be disconnected and used as an
 emergency power source for a damaged combat armor
-suit’s life support or other light equipment.
+suit's life support or other light equipment.
 
 SECONDARY
 
 WEAPON
 Zhof Ievrepl is equipped for close combat with a
 Standardised Medium Blade Weapon Vranz, typically
-known as the ‘Vranz pattern boarding sword’ outside the
+known as the 'Vranz pattern boarding sword' outside the
 Consulate. The Vranz is a straight-bladed cut-and-thrust
 weapon which, despite its appearance, is primarily
 used for thrusting actions, which give a better chance
@@ -17016,10 +17016,10 @@ designed to permit maximum agility at the expense of
 some physical protection.
 
 HELMET
-Zhof’s helmet uses the standard Consulate ‘big eyes’
+Zhof's helmet uses the standard Consulate 'big eyes'
 design – as many Imperials call it – which incorporates
 multispectral emitters/sensors and user displays in the
-lower part of the ‘eyes’. Although the design of the eyes is
+lower part of the 'eyes'. Although the design of the eyes is
 considered by some to create weak points in the helmet
 front, the difference from a single faceplate design is
 so small as to be negligible. The helmet also contains
@@ -17044,8 +17044,8 @@ mission-specific items.
 SECURITY AND
 
 INTELLIGENCE
-The Tozjabr (literally, ‘the eye and the hand’) is the
-Consulate’s primary intelligence and covert operations
+The Tozjabr (literally, 'the eye and the hand') is the
+Consulate's primary intelligence and covert operations
 agency. The institution is relatively young, having been
 established during the period of tension that led to the
 First Frontier War. Prior to establishment of the Tozjabr,
@@ -17114,7 +17114,7 @@ and Intendants receive better educations than Proles.
     EDU to 8.
 
 These adjustments apply only at the start of Traveller
-generation. They do not apply if a Traveller’s SOC
+generation. They do not apply if a Traveller's SOC
 changes because of career events or if PSI changes due
 to aging effects.
 
@@ -17142,7 +17142,7 @@ SOC Title Suffix Translation
 11 -atl Aspirant
 12 -stebr Wellborn
 13 -tlas Highborn
-14 -tlasche’ Noble Born
+14 -tlasche' Noble Born
 15 -iashav Princely Lord
 
 While these do not directly correlate to Imperial
@@ -17182,7 +17182,7 @@ Games, by making a PSI check. If successful,
 the Intendant devotes that term of service to
 competition in the Psionic Games instead of a
 career. The term still counts as a term in the
-Traveller’s current career, except no survival or
+Traveller's current career, except no survival or
 advancement checks are made, nor are skills
 gained from career skill tables.
 
@@ -17437,7 +17437,7 @@ MUSTERING OUT BENEFITS
 6 20000 Nenj
 7 30000 SOC +1
 
-Members of the Consulate’s ground-based armed
+Members of the Consulate's ground-based armed
 fighting forces or the ground forces of individual
 worlds. Zhodani soldiers fight in planetary
 surface actions, battles, and campaigns.
@@ -17924,7 +17924,7 @@ SOC 10+, you may leave this career (mustering out as normal) and then automatica
 roll Survival or END 8+. If successful, you are granted DM+2 to your next Advancement roll and gain an extra
 Benefit roll. If failed, roll on the Injury table.
 
-10 A mission goes disastrously wrong due to your commander’s error or incompetence but you survive. If you report
+10 A mission goes disastrously wrong due to your commander's error or incompetence but you survive. If you report
 your commanding officer for the failure, gain DM+2 to your next Advancement roll. If you report nothing and
 protect your commander, gain the commander as an Ally.
 
@@ -18152,7 +18152,7 @@ drives you out of the Navy. Otherwise, roll on the Re-education Event table (pag
 4 Your ship suffers heavy damage in battle and you are injured. Roll twice on the Injury table, taking the lower
 result. However your actions help save the lives of several colleagues, gaining you an additional Benefit roll.
 5 A serious accident occurs on your watch and you are blamed for it, despite it being the result of another crew
-member’s negligence. If SOC 10+, suffer DM-2 to your next Advancement Roll and gain an Enemy. Otherwise,
+member's negligence. If SOC 10+, suffer DM-2 to your next Advancement Roll and gain an Enemy. Otherwise,
 roll on the Re-education Events table (page 274).
 6 Injured. Roll on the Injury table.
 
@@ -18166,7 +18166,7 @@ already possessed.
 6 You work helping with a refit of your ship. Gain one level in Engineer, Mechanic or Science.
 7 Life Event. Roll on the Zhodani Life Events table (page 274).
 8 You perform a tour of border worlds. Roll SOC 8+ to gain one level in Animals, Recon or Survival, or a Contact.
-9 You spend this term in the asteroid belts of a system, showing the navy’s presence and deterring pirates and
+9 You spend this term in the asteroid belts of a system, showing the navy's presence and deterring pirates and
 claim jumpers. Gain one level in Athletics (dexterity), Electronics (sensors) or Vacc Suit.
 10 An explosion occurs in your section. Roll Mechanic or Engineer 8+ to help the damage control party to
 bring the situation under control. If failed, roll on the Injury table. If successful, gain DM+2 to your next
@@ -18199,7 +18199,7 @@ MUSTERING OUT BENEFITS
 6 50000 Nenj
 7 100000 SOC +1 (max. 9)
 
-The lower classes or ‘commoners’ in Zhodani society,
+The lower classes or 'commoners' in Zhodani society,
 performing ordinary but satisfying jobs in the service
 of the Consulate.
 
@@ -18420,7 +18420,7 @@ skill by one level but lose all Benefit rolls for this term. If SOC 9-, roll on 
 4 An expedition or voyage goes wrong, leaving you stranded in the wilderness. Gain a level of Survival or Athletics.
 By the time you find your way home, your job is gone.
 5 Your work is sabotaged by unknown parties. You may salvage what you can and give up (leave the career but
-retain this term’s Benefit roll) or start again from scratch (not leaving the career but losing all Benefit rolls for
+retain this term's Benefit roll) or start again from scratch (not leaving the career but losing all Benefit rolls for
 this term).
 6 You are assigned to an off-world laboratory but your ship crashes en route. Gain one level of Survival and roll
 END 8+. If failed, roll on the Injury table.
@@ -18530,7 +18530,7 @@ Rulebook_. If you roll this benefit again, an additional
 benefit four times, the courier will have no mortgage and
 it will be all yours!
 
-**Nenj:** The Nenjchinzhe’driante (the Consular Legion of
+**Nenj:** The Nenjchinzhe'driante (the Consular Legion of
 Merit) is a post-career recognition of valuable service
 to all Zhodani. Membership in the Consular Legion of
 
@@ -18558,7 +18558,7 @@ has been paid off – if you roll this benefit four times, the
 scout will have no mortgage and it will be all yours!
 
 SOC: SOC may never be increased if it would raise
-a Prole character’s SOC above 9. An unusable SOC
+a Prole character's SOC above 9. An unusable SOC
 increase is taken as a bonus Ship Share.
 
 Trader: You receive a Zdebr trader with 25% of the
@@ -18616,12 +18616,12 @@ within, a psionic shield.
 
 **Blocking**
 Psions with this talent are capable of broadcasting
-psionic ‘static’ over some considerable distance,
+psionic 'static' over some considerable distance,
 which effectively blocks the use of telepathic abilities,
 rendering weak telepaths powerless. While a psion
 maintains blocking, all psions within range (not
 including himself) suffer a penalty to Telepathy skill
-checks equal to half the blocking psion’s current PSI
+checks equal to half the blocking psion's current PSI
 (rounding down).
 
 A psion entering an area being blocked in this way may
@@ -18633,7 +18633,7 @@ referee may make this check in secret.
 **PSI Cost:** 4
 
 **Control**
-The psion is able to control a machine’s functions,
+The psion is able to control a machine's functions,
 overriding fixed settings, programming routines and
 so forth. Machines can be switched on or off and their
 
@@ -18671,7 +18671,7 @@ Reach: Close
 PSI Cost: 1
 
 Interrogate
-The psion can ‘communicate’ psychically with a
+The psion can 'communicate' psychically with a
 machine, determining its physical state of repair,
 properties, age, programming and so forth. The
 psion effectively reads the psychometric aura that
@@ -18703,8 +18703,8 @@ must make opposed PSI checks to succeed. If this
 check is failed, a telepath perceives an unshielded
 mind having a personality fabricated by the mimic.
 Clairvoyants will see and/or hear images appropriate
-to the mimic’s fabricated personality, instead of the
-mimic’s true personality.
+to the mimic's fabricated personality, instead of the
+mimic's true personality.
 
 Psychic Transfer
 The psion may transfer some or all of his PSI to another.
@@ -18782,7 +18782,7 @@ X
 
 ###### ZHODANI
 
-‘flicking’; telekinetic psions can double this distance.
+'flicking'; telekinetic psions can double this distance.
 These switches are elementary on-off devices used to
 respond to a command by shifting from one state to the
 other and can be tripped by anyone psionically trained
@@ -19005,10 +19005,10 @@ ZHODANI WARBOTS
 The Zhodani traditionally use mobile robots as part
 of their armed forces. These robots are not sapient
 and form a cheap substitute for ordinary soldiers.
-Imperial propaganda paints the Zhodani use of ‘death
-machines’ as one more example of their soulless
+Imperial propaganda paints the Zhodani use of 'death
+machines' as one more example of their soulless
 culture. The Zhodani have a different view; war is
-necessary but not glamorous and their soldiers’ lives
+necessary but not glamorous and their soldiers' lives
 are too valuable to waste.
 
 Warbots are normal parts of many Zhodani units
@@ -19028,7 +19028,7 @@ vertical envelopments.
 Warbots are programmed to recognize and ignore friendly
 troops and are programmed with terrain maps, battle
 plans and threat criteria. They are all installed with
-transponders for battlefield ‘friend or foe’ recognition.
+transponders for battlefield 'friend or foe' recognition.
 
 A11/58231
 
@@ -19354,7 +19354,7 @@ the Unity AFV, it mounts the same weaponry of
 gauss cannon supplemented with a tac missile
 to engage other light vehicles, combined with
 a manoeuvrability that has been described as
-‘fighter-like’.
+'fighter-like'.
 
 FRONT 60
 
@@ -19697,8 +19697,8 @@ Navigation System (improved), Prismatic Aerosol Discharger, Sensor System
 (improved, sensor mast), Stealth (improved), Vacuum Protection
 
 The Qiknavra (named after the smaller
-of Zhdant’s continents) is one of the
-Consulate’s latest grav tank designs. The
+of Zhdant's continents) is one of the
+Consulate's latest grav tank designs. The
 craft is intended to be a small, relatively
 inexpensive, yet highly survivable vehicle
 on the battlefield. To date, the Imperium
@@ -19906,7 +19906,7 @@ often after similar creatures on other
 worlds. The courier design gives priority
 to transport of important personnel, such
 as government officials on diplomatic
-missions. The Yetsasl’s role often
+missions. The Yetsasl's role often
 takes it outside the Consulate and it
 is the Zhodani vessel most commonly
 encountered in the Imperium. Yetsasls are
@@ -20040,7 +20040,7 @@ Ammunition Sandcaster Barrel Storage
 Systems Fuel Processor (80 tons/day) 4 0.2
 Fuel Scoops — —
 Docking Space (30 tons) 33 8.25
-Ship’s Boat — 7.272
+Ship's Boat — 7.272
 Staterooms Standard x 16 64 8
 Low Berths x 32 16 1.6
 Software Maneuver/0 — —
@@ -20128,7 +20128,7 @@ SHIANJO-CLASS LINER
 
 A passenger liner used in the core regions
 of the Consulate and along most of its main
-trade routes, the Shianjo (‘Good Journey’)
+trade routes, the Shianjo ('Good Journey')
 has a reputation for its stylish interior
 design and high jump range. Nobles and
 Intendants typically occupy staterooms,

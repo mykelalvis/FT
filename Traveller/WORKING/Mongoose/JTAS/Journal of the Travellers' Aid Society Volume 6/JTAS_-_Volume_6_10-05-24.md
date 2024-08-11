@@ -32,7 +32,7 @@ Sandrine Thirache, Carlos
 Nunez, Jon Torres, German
 Ponce, Anderson Maia, Tomislav
 Tikulin, Takashi Tan, Biago
-d’Alessandro, Michael Leonard
+d'Alessandro, Michael Leonard
 ```
 
 #### Vol. 6
@@ -90,7 +90,7 @@ Vehicles of the IISS 114
 
 ### The
 
-### of the Travellers’ Aid Society
+### of the Travellers' Aid Society
 
 Mykel Alvis (Order #43737402)
 
@@ -107,10 +107,10 @@ rival, the Pirian Domain, had placed those worlds off limits and claimed
 systems between the Khaganate and Ognar to block these worlds off.
 Tiji, master of his empire, knew that higher technology could bypass
 this obstacle, so he launched a crash development project. For a short
-time his capital world’s starports operated at TL16. An unrelated disaster
+time his capital world's starports operated at TL16. An unrelated disaster
 soon struck, crippling his technological base but not before he had a
-small fleet of modular ‘exploration freighters’ capable of ferrying people
-and equipment to Ognar, equipped with prototype ‘hop’ drives that could
+small fleet of modular 'exploration freighters' capable of ferrying people
+and equipment to Ognar, equipped with prototype 'hop' drives that could
 jump 10 parsecs. They proceeded to set-up a route right over the Pirians,
 who maintained their patrols with no inkling they were now obsolete.
 Even once the Pirians discovered they had been simply bypassed, they
@@ -120,7 +120,7 @@ were unable to find out how for centuries after.
 ```
 It would take longer for usable data on the hop drive to spread into the
 Gakghang sector and further trailing, make its way across the venerable
-Cheaters’ Route, filter rimward sector-by-sector across the war-riven
+Cheaters' Route, filter rimward sector-by-sector across the war-riven
 Vargr Extents, and eventually reach the Spinward Marches.
 ```
 
@@ -130,7 +130,7 @@ spherical endcaps, able to land on worlds without a spaceport. From
 endcap tip-to-endcap tip, it measures 152 meters. The central 138 meters
 is a thin, flat spine flanked by two 500-ton hemicylindrical modules,
 covered by an armored clamshell during flight, with a retractable strip
-between the clamshell’s halves that grant module access to space. On
+between the clamshell's halves that grant module access to space. On
 the ground with the clamshell open, the upper portion opens high to let
 two pop-up cranes (folded into the hull during flight) mounted fore and aft
 of the modules to load and unload, while the lower portion rests on the
@@ -156,7 +156,7 @@ Mykel Alvis (Order #43737402)
 ## 3
 
 ```
-power loss or hull breach), the top deck’s worth of which double as the
+power loss or hull breach), the top deck's worth of which double as the
 dorsal airlocks and control rooms for the cranes. Primary access to the
 ship is through ventral airlocks, which contain ramps that can unfold to
 the ground when the ship is landed.
@@ -177,7 +177,7 @@ modules include:
     constructed buildings as the colony grows) and an observatory
     to further survey its system. A downport module is emplaced flat
     side down by the Steppehauler when unloaded at the destination,
-    preferably near a source of water. Most of the Khaganate’s land-
+    preferably near a source of water. Most of the Khaganate's land-
     grabbed colonies started with one downport module, one low berth
     module with colonists and 1,000 tons split between construction,
     mining and agricultural vehicles, prefabricated shelters, supplies
@@ -202,8 +202,8 @@ modules include:
     parts (the intent had been to set-up modules within pipe distance
     of a downport, providing additional fuel processing and a pipeline
     for supplies while keeping ortillery strikes away from the starport).
-    Unlike staterooms in the ship and torpedo module, this module’s
-    staterooms are double occupancy, each holding one fighter’s crew.
+    Unlike staterooms in the ship and torpedo module, this module's
+    staterooms are double occupancy, each holding one fighter's crew.
 
 Mykel Alvis (Order #43737402)
 
@@ -276,7 +276,7 @@ Hop Control/1 – –
 Library – –
 Common Areas 9.5 0.
 Cargo Modular (500-ton modules x2) 1000 96
-Ship’s Locker 14 –
+Ship's Locker 14 –
 Total: 835.
 ```
 
@@ -315,10 +315,10 @@ Mykel Alvis (Order #43737402)
 
                            -
                -
-                                          - ‘Landing deck’Deck 8. Fuel processor
-                                                   - ‘Spine deck’Deck
-                                             - ‘Control deck’Deck
-                                                - ‘Crane deck’Deck
+                                          - 'Landing deck'Deck 8. Fuel processor
+                                                   - 'Spine deck'Deck
+                                             - 'Control deck'Deck
+                                                - 'Crane deck'Deck
 
 ### 7
 
@@ -435,10 +435,10 @@ cargo hold
 
 ### 4
 
-1. ‘Landing deck’
-2. ‘Spine deck’
-3. ‘Control deck’
-4. ‘Crane deck’
+1. 'Landing deck'
+2. 'Spine deck'
+3. 'Control deck'
+4. 'Crane deck'
 
 Mykel Alvis (Order #43737402)
 
@@ -1546,10 +1546,10 @@ Low Berths 99
 
 ### 4
 
-1. ‘Landing deck’
-2. ‘ Spine deck’
-3. ‘Control deck’
-4. ‘Crane deck’
+1. 'Landing deck'
+2. ' Spine deck'
+3. 'Control deck'
+4. 'Crane deck'
 
 ```
 Low berths
@@ -1605,10 +1605,10 @@ Low Berths 99
 
 ### 4
 
-1. ‘Landing deck’
-2. ‘ Spine deck’
-3. ‘Control deck’
-4. ‘Crane deck’
+1. 'Landing deck'
+2. ' Spine deck'
+3. 'Control deck'
+4. 'Crane deck'
 
 ```
 Low berths
@@ -1789,7 +1789,7 @@ Mykel Alvis (Order #43737402)
 
 ```
 Even with advanced technology, the jump drive has its limits. The next step
-up, commonly called the ‘hop’ drive, is capable of much further distances.
+up, commonly called the 'hop' drive, is capable of much further distances.
 ```
 
 ```
@@ -1819,7 +1819,7 @@ exactly like a jump drive of the same rating (such as Jump-1) except:
 ```
 That last point means it is barely possible for talented sophonts to
 astrogate a Hop-1, let alone higher. The usual response is to let the
-computer do it, taking advantage of a computer’s ability to run simulation
+computer do it, taking advantage of a computer's ability to run simulation
 after simulation until it narrows to an optimal solution. The computation
 cannot begin until the starship is in the system it wishes to jump from
 and someone tells the computer where the starship will jump next (which
@@ -1836,9 +1836,9 @@ The need for an astrogator does not completely disappear, as the software
 must still be monitored, mostly at the start and finish of the process.
 This is an Easy (4+) Astrogation (1D x 10 hours, EDU) check, with DM-
 for each 10 parsecs or fraction thereof and the astrogator can do other
-things during this check (the astrogator’s actual time spent is 1D minutes
+things during this check (the astrogator's actual time spent is 1D minutes
 each at the commencement and conclusion). The high variability comes
-from the simulations’ randomness; sometimes the computer finds the
+from the simulations' randomness; sometimes the computer finds the
 solution quickly; sometimes it takes a few days. A skilled astrogator can
 ```
 
@@ -1892,7 +1892,7 @@ Software Bandwidth 70 80 90
 
 ## MCr1.5 per ton (after adding the extra five and any other modifications
 
-## that change size) and need power and fuel equal to 10% of the ship’s
+## that change size) and need power and fuel equal to 10% of the ship's
 
 ## tonnage multiplied by the hop rating used
 
@@ -1900,7 +1900,7 @@ Software Bandwidth 70 80 90
 
 ## drives, the former to cross entire subsectors (always aiming for an
 
-## outsystem gas giant outside the star’s hop shadow), the latter to jump
+## outsystem gas giant outside the star's hop shadow), the latter to jump
 
 ## directly to individual worlds within the subsector. The same fuel tank and
 
@@ -1908,7 +1908,7 @@ Software Bandwidth 70 80 90
 
 ## drives must be purchased individually
 
-## Some speak of even more powerful ‘skip’ drives, that jump 100 parsecs
+## Some speak of even more powerful 'skip' drives, that jump 100 parsecs
 
 ## per rating and require even higher technology (and more complex
 
@@ -1947,7 +1947,7 @@ archaeologists or representatives of officialdom.
 ```
 
 ```
-Landrel’s lack of patience is typified by his tendency to rush into jobs
+Landrel's lack of patience is typified by his tendency to rush into jobs
 without preparation or precaution, often on the spur of the moment and
 with only the slightest excuse. He tends to feel that he, and he alone, is
 competent in the field of the Ancients; all others, especially recognized
@@ -1966,7 +1966,7 @@ government for criminal destruction of public historical treasures.
 ```
 
 ```
-Two basic urges lie at the root of Landrel’s activities. First and foremost
+Two basic urges lie at the root of Landrel's activities. First and foremost
 is the desire to have his theories, which have received considerable
 criticism, vindicated. Among his more controversial ideas, Landrel
 refuses to accept the popular consensus that holds the Ancients to be
@@ -2025,7 +2025,7 @@ discovery. He is known to have smuggled artifacts off planets where local
 law would otherwise have limited his access to them; it is rumored that
 he has engaged in out-and-out plundering of priceless storehouses of
 archaeological lore merely to satisfy his own interest in antiquities. His
-colleagues disdainfully refer to him as ‘the Treasure Hunter’ when they
+colleagues disdainfully refer to him as 'the Treasure Hunter' when they
 mention his name at all.
 ```
 
@@ -2042,7 +2042,7 @@ On the other hand, agents from the Sword Worlds or some other
 defrauded government might approach the Travellers, asking them
 to locate Landrel and bring him to justice. Personal enemies from the
 scientific community may desire revenge for some slight or injury, or they
-might seek to ‘plant’ the Travellers on one of Landrel’s expeditions in
+might seek to 'plant' the Travellers on one of Landrel's expeditions in
 order to discredit him in some way.
 ```
 
@@ -2063,7 +2063,7 @@ in this case, there is a possibility that the Travellers will want to rob him
 interesting). It should be pointed out that the relics Landrel is usually
 able to find are valuable for their artistic or historical interest rather
 than being miracle gadgets of high technology. Referees should avoid
-introducing gratuitous ‘magical’ items, as these will tend to upset the
+introducing gratuitous 'magical' items, as these will tend to upset the
 balance of a campaign.
 ```
 
@@ -2097,7 +2097,7 @@ environment and how worlds in the system will have developed.
 ```
 The way that Traveller designs star systems begins with a mainworld,
 so by definition any system on sector maps includes at least some
-planets. However, an ‘empty’ system can certainly exist. One way to
+planets. However, an 'empty' system can certainly exist. One way to
 explain this is to say that the navigation databases show only systems
 with planets, since there is no economic or political reason for visiting
 a lonely star in deep space. A region of space generated using rules
@@ -2116,7 +2116,7 @@ an empty hex, which has implications for local trade and politics.
 ```
 An empty system may not be completely barren; a lonely star might
 have a few comets or dust clouds orbiting it. However, the vast size
-of a star’s neighborhood means that such bodies are unlikely to be
+of a star's neighborhood means that such bodies are unlikely to be
 reachable by ships jumping into the vicinity of the star, effectively
 making the system useless.
 ```
@@ -2137,7 +2137,7 @@ Mykel Alvis (Order #43737402)
 
 ```
 Whether or not the Referee chooses to place such systems on the map
-is a matter of personal choice. A ‘mainworld-centric’ map does not really
+is a matter of personal choice. A 'mainworld-centric' map does not really
 need them unless they are the subject of an adventure but an exploration-
 based game where the Travellers may not be able to detect whether the
 star has planets might require many stars to be plotted and their system
@@ -2154,7 +2154,7 @@ Explorers need to know about stars.
 # AND STELLAR BODIES
 
 ```
-The term ‘stellar body’ is used here a little loosely to refer to anything with
+The term 'stellar body' is used here a little loosely to refer to anything with
 mass on a similar scale to a star. Most stellar bodies are stars but a brown
 dwarf (properly referred to as a sub-stellar body since it has much lower
 mass and energy output) can fulfil the same role in some circumstances.
@@ -2165,7 +2165,7 @@ collection of planets and other bodies in the manner of a star system.
 ```
 A star system will contain one or more stellar bodies, one of which
 is considered to be the main star of the system and known as the
-primary. Mainworlds almost always orbit the system’s primary, although
+primary. Mainworlds almost always orbit the system's primary, although
 sometimes they are moons of a gas giant. If a system has more than one
 star, the secondary system(s) will tend to have a much smaller number
 of planets and other bodies than the primary.
@@ -2200,7 +2200,7 @@ Mykel Alvis (Order #43737402)
 
 ## factors give rise to two classifications; spectral class and luminosity. A
 
-## combination of these two systems allows a star’s characteristics to be
+## combination of these two systems allows a star's characteristics to be
 
 ## presented in a form of shorthand
 
@@ -2230,11 +2230,11 @@ Mykel Alvis (Order #43737402)
 
 ## and one Kelvin is equal to one degree Celsius. Mass, Radius and
 
-## Luminosity are relative to Sol, Earth’s sun, which is given a nominal
+## Luminosity are relative to Sol, Earth's sun, which is given a nominal
 
 ## value of one for all three. Thus an average A type star, as shown on the
 
-## Spectral Classes table, is about three times the mass of Earth’s sun and
+## Spectral Classes table, is about three times the mass of Earth's sun and
 
 ## vastly brighter. A world orbiting at the same distance from this star as
 
@@ -2306,7 +2306,7 @@ Mykel Alvis (Order #43737402)
 
 ```
 The Yerkes Luminosity Class groups stars of the same temperature
-range into size classes, which gives a general indication of the star’s
+range into size classes, which gives a general indication of the star's
 energy output as well as volume of space it occupies.
 ```
 
@@ -2326,7 +2326,7 @@ VII White Dwarfs
 
 ```
 A combination of luminosity class and spectral class is used as a
-shorthand for a star’s general characteristics. A type AII star would be a
+shorthand for a star's general characteristics. A type AII star would be a
 bright blue giant while a type G2 V would be main-sequence yellow star.
 The Referee can use this data much like the UWP codes for mainworlds,
 to give a quick indication of conditions within a solar system.
@@ -2341,7 +2341,7 @@ defined by their relative mass. A planetary system might conceivably
 include bodies that pass between loose companion stars but conditions
 on such a world would be extreme and highly variable – living there
 would be a real challenge, although temporary camps might be set-up
-to extract minerals during the safer parts of the world’s orbit. Companion
+to extract minerals during the safer parts of the world's orbit. Companion
 stars may both be orbited by a planetary system with the pair acting as
 the collective center. This can lead to planets having complex orbits
 and variable amounts of solar radiation depending on the position
@@ -2354,7 +2354,7 @@ conditions making native life unlikely.
 ```
 A distant companion orbits at a great distance from the primary, often so
 far out that it contributes relatively little stellar radiation to the main system.
-Orbits may be perturbed to some degree by the companion’s gravity but
+Orbits may be perturbed to some degree by the companion's gravity but
 on the whole a distant companion system can be treated as essentially
 two separate star systems. The secondary may or may not have planets
 of its own; if it does there might be multiple habitable worlds in the same
@@ -2395,7 +2395,7 @@ truly a part of it.
 Main sequence stars make up the majority of stellar objects the
 Travellers encounter. Characteristics can vary in terms of energy output
 but the size and mass of these stars fall within a fairly narrow range and
-conditions in their star systems are ‘normal’. Earth’s primary Sol is a
+conditions in their star systems are 'normal'. Earth's primary Sol is a
 main sequence star.
 ```
 
@@ -2408,12 +2408,12 @@ A main-sequence star system will be laid out in a simple manner compared
 to other star types. Planets in the inner zone will receive too much stellar
 energy for liquid water to exist and are thus unlikely to have life of a
 sort familiar to humans. A zone exists in which the amount of energy is
-about right and how far out this ‘warm’ or ‘goldilocks’ zone lies from the
+about right and how far out this 'warm' or 'goldilocks' zone lies from the
 star depends upon its energy output – a habitable planet orbiting a dim
 red dwarf will be much closer than one orbiting a hotter star. Beyond the
-warm zone is a ‘cool’ zone where a useful amount of energy reaches
+warm zone is a 'cool' zone where a useful amount of energy reaches
 planets located there and where exotic life is possible. Beyond this is a
-much larger ‘cold’ zone where little stellar energy is received.
+much larger 'cold' zone where little stellar energy is received.
 ```
 
 ```
@@ -2447,7 +2447,7 @@ be placed first. Additional bodies such as planetoid belts, gas giants
 and non-mainworlds can be placed wherever the Referee prefers,
 in the inner, cool or cold zones. A mainworld that does not have a
 breathable atmosphere and/or life can be placed anywhere in the
-system at the Referee’s preference.
+system at the Referee's preference.
 ```
 
 ```
@@ -2509,8 +2509,8 @@ Mykel Alvis (Order #43737402)
 # WHITE DWARF STARS
 
 ```
-‘Cool’ subdwarf stars are similar to a main-sequence star of the same
-class but are smaller and hotter due to their composition. ‘Hot’ subdwarf
+'Cool' subdwarf stars are similar to a main-sequence star of the same
+class but are smaller and hotter due to their composition. 'Hot' subdwarf
 stars are sometimes formed as a giant star begins its collapse or as a
 result of interactions in a multiple star system. Hot subdwarfs are highly
 unlikely to have habitable planets orbiting them. Both are indicated by
@@ -2531,12 +2531,12 @@ indicated by stellar type VII.
 
 ```
 A brown dwarf is not really a stellar object, being more properly considered
-a ‘failed star’. It is essentially a body possessing far greater mass than a
+a 'failed star'. It is essentially a body possessing far greater mass than a
 gas giant but not enough to begin stellar fusion and become a star. A brown
 dwarf gives out sufficient energy to warm any moons it may have and
 could serve as the underpowered primary of a planetary system. Brown
 dwarf bodies are hard to detect due to their lower energy output compared
-to stars and may exist as companions to ‘proper’ stars – possibly in a very
+to stars and may exist as companions to 'proper' stars – possibly in a very
 distant orbit – or as independent brown dwarf systems in deep space. A
 brown dwarf system can be used by the Referee to place an adventure
 location wherever desired, without altering existing starmaps.
@@ -2582,7 +2582,7 @@ the Mojave Desert on Terra.
 
 Few criminals survived expulsion and some who did seem to have
 formed a group that became the nucleus of the Irklan. The derivation of
-their name is not certain but Iraklion means ‘band of brothers’ in one of
+their name is not certain but Iraklion means 'band of brothers' in one of
 the early dialects of Rhylanor, from which many settlers of Menorb had
 their origins. This is the suspected root of the name.
 
@@ -3382,9 +3382,9 @@ some distinct differences and unique flavor.
 ```
 
 ```
-The 400-ton Type-R subsidized merchant, affectionately known as a ‘fat
-trader’ or ‘subby’, has a cavernous 201-ton hold, consuming just a bit
-over half of the ship’s displacement. The hold is two and a half times
+The 400-ton Type-R subsidized merchant, affectionately known as a 'fat
+trader' or 'subby', has a cavernous 201-ton hold, consuming just a bit
+over half of the ship's displacement. The hold is two and a half times
 that of a Beowulf-class free trader, enough to make a thrifty freelance
 merchant salivate at the potential profits that could be made. However,
 bigger ship means bigger expenses, putting the Type-R out of reach
@@ -3427,17 +3427,17 @@ B, C or D starport.
 ```
 
 The crew of a subsidized merchant typically have shares in the enterprise.
-For example, a ship’s captain might have five shares, the pilot three and
+For example, a ship's captain might have five shares, the pilot three and
 the engineer two with nominal or no shares given to other members of
 the crew. The crew constitutes a board of directors who make decisions
-regarding the use of the crew’s portion of the revenues.
+regarding the use of the crew's portion of the revenues.
 
 An operating fund is maintained to cover expected costs. Any
 surpluses that remain after operating expenses are paid may be given
 as dividends to shareholders or used for other purchases that are
 approved by the board.
 
-Some crews also maintain a ‘shadow fund’, which is kept separate from
+Some crews also maintain a 'shadow fund', which is kept separate from
 the operating fund and may be used for such things as purchasing cargo
 space on their own ship for the purpose of transporting speculative
 cargo. Such cargo falls outside the realm of their contract and therefore
@@ -3448,7 +3448,7 @@ lots on an ongoing basis.
 
 The worlds visited by a subsidized merchant are usually underserved or
 off the beaten path. Most worlds will be within one parsec of each other
-to best utilise the ship’s jump-1 capability. When necessary, two-parsec
+to best utilise the ship's jump-1 capability. When necessary, two-parsec
 
 34
 
@@ -3492,7 +3492,7 @@ have no cap at all.
 ### THE BLOODSHOT CLUSTER
 
 ```
-The Trin’s Veil subsector of the Spinward Marches is a prime location
+The Trin's Veil subsector of the Spinward Marches is a prime location
 for subsidized routes. The subsector is completely removed from the
 Spinward Main, the vast jump-1 route that blankets much of the sector.
 However, the capital at Trin is the nexus of several small jump-1 clusters.
@@ -4130,7 +4130,7 @@ Shares the Travellers invest. For example, the standard contract gives
 the owner 50% of all revenue year-round. If the Travellers spend 10 Ship
 Shares on Revenue Control, they gain 5% more of the revenue. This
 means that the owner receives only 45% of the total revenue and the
-Travellers’ share increases to 55%.
+Travellers' share increases to 55%.
 
 Ship Shares
 
@@ -4163,7 +4163,7 @@ Furthermore, any Mishaps incurred during Traveller generation that
 resulted in termination from a career will be investigated by the agency.
 If a Traveller exited a career due to a Mishap, any Traveller can make an
 Average (8+) Admin check (INT or SOC, 1D days) to clear the offending
-Traveller’s name so the hiring process can move forward.
+Traveller's name so the hiring process can move forward.
 
 In addition, at least one Traveller in a prospective crew must have
 served in one of the three Merchant careers and achieved a Rank of
@@ -4191,10 +4191,10 @@ captain as well but there is another goal that is equally important –
 establishing relationships. The more a subby crew gets to know its
 stomping grounds, the more successful they become. Subsidized
 merchants operate in regions ripe for economic development.
-Conditions for trade are often less than ideal and the Travellers’ choices
+Conditions for trade are often less than ideal and the Travellers' choices
 are narrowed to a specific set of worlds. Making a profit under these
-conditions can be a challenge but subby captains have a saying: ‘It’s all
-about knowing the game.’
+conditions can be a challenge but subby captains have a saying: 'It's all
+about knowing the game.'
 ```
 
 ```
@@ -4206,7 +4206,7 @@ until they become intimately familiar. The denizens of the starport bar on
 Zyra know the entire crew by name. The scouts at the base on Conway
 are excited to see the crew again and fill them in on all the rumors
 going around. When they return to Edenelt, the marquis himself greets
-the Travellers and wants to know how ‘our little project’ is going.
+the Travellers and wants to know how 'our little project' is going.
 ```
 
 ```
@@ -4234,7 +4234,7 @@ mortgage. Once they factor in crew salaries, life support costs, monthly
 and annual maintenance, and occasional battle damage, they might start
 to wonder if ownership was really such a good idea.
 
-Take heart, weary Travellers! Your ship’s most important assets are
+Take heart, weary Travellers! Your ship's most important assets are
 the cavernous space on the lower deck, where all manner of valuable
 goods may be stored, and the empty staterooms on its upper deck. Both
 promise to deliver wealth and prosperity beyond your wildest dreams.
@@ -4279,7 +4279,7 @@ Referees may portray High Passengers as difficult and demanding from
 time-to-time. Most human societies are class-based on some level and
 people like to enjoy the benefits of higher status. As a rule of thumb, the
 more obvious differences there are in the levels of passage aboard a
-ship, the easier the steward’s job will be. For example, if the meals given
+ship, the easier the steward's job will be. For example, if the meals given
 to Middle and High Passengers are identical, complaints are likely to be
 more common from the upper tier of passengers. The more obvious the
 distinctions between each level of passage, and therefore the greater
@@ -4293,7 +4293,7 @@ passengers who grace the hallways and commons of their ship but only
 in moderation. If every batch of passengers contains a Zhodani spy,
 eccentric noble or stowaway, the Travellers will quickly see passengers
 as more of a liability than source of income. Passengers do not need to
-be excessively ‘exciting’ to be interesting additions to your game.
+be excessively 'exciting' to be interesting additions to your game.
 ```
 
 ```
@@ -4306,17 +4306,17 @@ requiring them to be eccentric or disruptive:
 - Ship Tours: One or more of the passengers requests a tour of the
     ship. Showing off the engine room, turrets, bridge or even cargo hold
     can provide an interesting aside. Have the more inquisitive among
-    them ask lots of newbie questions. The event will test the Travellers’
+    them ask lots of newbie questions. The event will test the Travellers'
     knowledge of their ship and make them feel more ownership over it.
 - Card Games: Got a Traveller with the Gambler skill? What better
     way to bilk your passengers of more Credits than to hustle them in
     a game of cards. Beware, however, as this may limit good word of
-    mouth and repeat passengers. ‘I took Mid Passage aboard that ship
-    once. The astrogator cleaned me out in a game of Gaashkhamla.’
+    mouth and repeat passengers. 'I took Mid Passage aboard that ship
+    once. The astrogator cleaned me out in a game of Gaashkhamla.'
 - The Jump Space Monologues: Put that Art (performer, holography
     or instrument) skill to work! Jumps take a week and there is a lot
     of idle time for passengers. Entertain them with a combination of
-    your Travellers’ dramatic skills combined with the technology of
+    your Travellers' dramatic skills combined with the technology of
     the ship. Holographic controls and an Intellect program can go a
     long way to produce an entertaining experience for the passengers
     and Referee alike. Depending on the Effect of the Art check, a
@@ -4355,7 +4355,7 @@ a sudden need for advanced machine parts and biochemicals. Rumor
 
 ```
 has it some prospectors have found previously undiscovered lanthanum
-nodes in the desert world’s outback and need gear to support a lengthy
+nodes in the desert world's outback and need gear to support a lengthy
 expedition. But hurry! The Travellers will not be the only ones to learn this
 rumor and they might have to race to the site to get the DM+4 on sale
 price that is there for the taking.
@@ -4371,7 +4371,7 @@ tool for a Referee to get his Travellers to the site of an adventure.
 
 ```
 Referees should take a moment to consider each and every star
-system’s UWP to consider what might be going on there. Low-population,
+system's UWP to consider what might be going on there. Low-population,
 low-grade starports and low-tech worlds have the potential to be as
 interesting as a highfalutin trade hub, if not more so. Opportunities for
 trade should abound along the mains but they should not be limited to
@@ -4391,7 +4391,7 @@ favorite starport bartender, startown informers and speculative cargo
 43
 ```
 
-brokers. Such characters become part of the ‘astrography’ of the game.
+brokers. Such characters become part of the 'astrography' of the game.
 The Travellers will be excited to get back to Tarsus where their good
 friend the Planetary Tourism Advisor awaits them with a cold brew and
 fresh rumors about developments along the main. Conversely... there
@@ -4410,7 +4410,7 @@ are just a few ideas for starters:
     some kind of genius AI robot broker? Are they smuggling illegal
     goods? Aspiring merchant princes will not rest until they know how
     they are being outperformed.
-- Old friends from another crew have ‘graduated to the big time’, moving
+- Old friends from another crew have 'graduated to the big time', moving
     up from a free trader to a subsidized merchant. The Travellers look on
     with jealousy at that 201-ton cargo hold and the potential for wealth
     it portends, encouraging them to seek out a similar arrangement.
@@ -4421,7 +4421,7 @@ are just a few ideas for starters:
     certain worlds they may have skipped when independent. Have the
     Travellers feel a sting as their old chums eat into profits by swiping
     large lots of freight or speculative cargo out from under them but
-    also convey that it comes with a cost. Running a ‘subby’ means you
+    also convey that it comes with a cost. Running a 'subby' means you
     become a company agent on some level.
 - The Travellers discover that one of their trade nemeses is also an
     opportunistic pirate, using a double pulse laser turret to terrorise and
@@ -4430,7 +4430,7 @@ are just a few ideas for starters:
     steps to keep the Credits flowing, or maybe are just wicked and enjoy
     stealing from merchant brethren. Whatever the reason, they now pose
     a double threat; competition for trade goods and the possibility that
-    they will attempt to steal from the Travellers. The pirates’ actions are
+    they will attempt to steal from the Travellers. The pirates' actions are
     also causing a general distrust of tramp trader crews in the region, so
     it behoves the Travellers to set things straight... one way or another!
 
@@ -4450,7 +4450,7 @@ Slower rules on page 60 of the Traveller Core Rulebook as the astrogator
 and engineer work quickly to give their team a competitive edge. Even
 after making every effort possible, the race to the site might result in
 a tie, pitting the Travellers directly against their competition. Have the
-ships’ brokers make opposed checks to obtain the precious cargo. The
+ships' brokers make opposed checks to obtain the precious cargo. The
 Travellers should be encouraged to come up with inventive or devious
 task chains to get the jump on the competition. The tramp trader campaign
 is a dog-eat-dog world and having Travellers compete for success will
@@ -4466,7 +4466,7 @@ to transport a large block of freight that otherwise would have required a
 bigger ship... perhaps only to have those self-same NPCs compete with
 or betray the Travellers on another job. Events like these establish a level
 of camaraderie and sometimes enmity that enhances the communal feel
-of the Travellers’ chosen trade route or stellar main. They add colour and
+of the Travellers' chosen trade route or stellar main. They add colour and
 depth to the dots, lines and UWP codes on the starmap.
 ```
 
@@ -4490,28 +4490,28 @@ on orthodox worlds.
 Furioso is a giant, frozen world with an insidious atmosphere consisting
 largely of hydrogen but with significant amounts of methane and
 ammonia present as well. Life in this strange environment is bizarre by
-human standards and the ice crawler is a good example of Furioso’s
+human standards and the ice crawler is a good example of Furioso's
 unique biology.
 
 Ice crawlers have flat, low-slung bodies, reminiscent of a Terrestrial
 caterpillar in shape, measuring some three meters in length and
 suspended between five pairs of jointed, exoskeletal legs. An eleventh
-‘leg’ extends behind the creature; each leg ends in a polydactyl foot
+'leg' extends behind the creature; each leg ends in a polydactyl foot
 padded with microscopic grippers that ensure firm footing on any surface
 
 - even glass-smooth ice.
 
-Four modified legs ring the creature’s anterior end (there is no head
+Four modified legs ring the creature's anterior end (there is no head
 as such) and act as shovels, scrapers and rock lifters, throwing rocks
-into a ventral ‘hopper’ ringed by muscular rock crushing ‘teeth’. The
+into a ventral 'hopper' ringed by muscular rock crushing 'teeth'. The
 creatures are sheathed in a glittering, steel-hard exo skeletal armor; this
 gives them the almost artificial appearance that so confused the first
 observers. However, spongy organs are present all along each side of
 the creature, just above the leg body joints. These organs, ranging in
 colour from brown to dull orange to bright red, are the analogues to lungs
-for the ice crawler; which ‘breathes’ hydrogen. No muscular action is
+for the ice crawler; which 'breathes' hydrogen. No muscular action is
 involved in this process; hydrogen is diffused through the spongy tissue
-and sequestered and collected chemically within the creature’s body.
+and sequestered and collected chemically within the creature's body.
 
 The ice crawler metabolises rock. They have a dual poly-chain silicon-
 carbon biochemistry, using silicon in some biochemical reactions and
@@ -4528,9 +4528,9 @@ the most part, ice crawlers immediately combine this liberated oxygen
 ```
 with atmospheric hydrogen in special organic reaction chambers within
 the body. The exothermic reaction, although apparently not essential to
-their body chemistries, acts as a sort of organic ‘supercharger’. As the
+their body chemistries, acts as a sort of organic 'supercharger'. As the
 animal is, at best, sluggish and slow-moving, this process brings about
-unexpected results. This reaction serves as a chemical ‘pick-me-up’ (as
+unexpected results. This reaction serves as a chemical 'pick-me-up' (as
 one observer put it) that can send the usually torpid animal thundering
 across the ice in random directions at unexpectedly great speeds (swap
 the Slow Metabolism (-3) trait for Fast Metabolism (+2) and increase
@@ -4547,7 +4547,7 @@ of scientists studying the animals.
 
 ```
 This most interesting defence mechanism was developed as a protection
-against another of Furioso’s life forms, the meter-long predatory
+against another of Furioso's life forms, the meter-long predatory
 carnivores known popularly as ice spiders. These vicious pack-hunting
 carnivores are virtually identical in body chemistry but metabolise other
 life forms, rather than rocks, for supplies of carbon, oxygen and silicon.
@@ -4557,7 +4557,7 @@ life forms, rather than rocks, for supplies of carbon, oxygen and silicon.
 Both creatures will ingest humans (and anything else slow enough to get
 in their way) and are considered quite hazardous. At this time, nothing
 is known of their life cycles, since researchers cannot study them for
-prolonged periods of time in Furioso’s insidious atmosphere. There have
+prolonged periods of time in Furioso's insidious atmosphere. There have
 been growing speculations, however, that the ice spider may actually
 possess a form of rudimentary intelligence, a possibility that has intrigued
 many xenosophontological investigators in recent years and inspired
@@ -4598,34 +4598,34 @@ BEHAVIOUR Omnivore, Grazer
 
 48
 
-### SAQ’SE’QAN
+### SAQ'SE'QAN
 
 ```
-The saq’se’qan is an extremely intelligent alien parasite that feeds on
+The saq'se'qan is an extremely intelligent alien parasite that feeds on
 the mental waves generated by ill will and aggression. While unable to
 verbally communicate with members of other species, it has significant
 psionic powers that enable it to manipulate its victims into hatred and
-strife. Nothing brings the saq’se’qan more joy and substance than a
+strife. Nothing brings the saq'se'qan more joy and substance than a
 domestic murder-suicide.
 ```
 
 ```
-An adult saq’se’qan resembles a fat and grumpy purple hyrax whose
+An adult saq'se'qan resembles a fat and grumpy purple hyrax whose
 mood swings tend to be more comical than intimidating. This amusing
-appearance combined with the creature’s high intelligence, apparent
+appearance combined with the creature's high intelligence, apparent
 fondness of children and longevity can lead the uninformed buyer to
 consider it the perfect pet – a mistake that will cost at the very least
 marital happiness and possibly the lives of the entire family.
 ```
 
 ```
-A healthy saq’se’qan can fetch a price of up to Cr2000 from a client who
-is unaware of the creature’s sinister nature and up to Cr10000 from a
+A healthy saq'se'qan can fetch a price of up to Cr2000 from a client who
+is unaware of the creature's sinister nature and up to Cr10000 from a
 client who is aware of it and intends to use it for unwholesome purposes.
 ```
 
 ```
-NAME Saq’se’qan
+NAME Saq'se'qan
 HITS 6
 SPEED 2m
 SKILLS Deception 2, Persuade 2, Survival 2, Telekinesis 2,
@@ -4639,34 +4639,34 @@ BEHAVIOUR Other, Siren
 49
 ```
 
-### KHAL’OMAN
+### KHAL'OMAN
 
-The khal’oman is a bizarre creature that can cause dreams to manifest
-by gently touching a sleeping creature. In the wild, khal’omans prey on
+The khal'oman is a bizarre creature that can cause dreams to manifest
+by gently touching a sleeping creature. In the wild, khal'omans prey on
 the dreams they summon, which makes them popular pets for people
 who suffer from night terrors and insomnia.
 
-The latest rage, however, is to immobilise khal’omans in such a way that
+The latest rage, however, is to immobilise khal'omans in such a way that
 will enable them to create dreams but not to devour them. The results
 are phantasmagorical parties where dreams and reality intermingle to
 create an experience survivors will never forget. These parties are not
 only illegal due to their frequent fatalities and mental traumas but also a
-common target for animal rights groups’ raids because of the stress and
-pain it inflicts on the captured khal’oman. This has led most governments
-to ban khal’oman import for non-medical purposes.
+common target for animal rights groups' raids because of the stress and
+pain it inflicts on the captured khal'oman. This has led most governments
+to ban khal'oman import for non-medical purposes.
 
-An adult khal’oman looks like a melon-sized jumble of colourful and
+An adult khal'oman looks like a melon-sized jumble of colourful and
 luminescent strings that pulsate with ever-changing ghostly lights. Some
-strings hang loosely from the creature’s body; their touch will end dreams
+strings hang loosely from the creature's body; their touch will end dreams
 but is quite harmless to real creatures.
 
 It is unknown where or how these creatures multiply and all attempts to
 cause them to reproduce outside their native planet have failed.
 
-A healthy khal’oman can fetch a price of up to Cr10000.
+A healthy khal'oman can fetch a price of up to Cr10000.
 
 ```
-NAME Khal’oman
+NAME Khal'oman
 HITS 7
 SPEED 0m
 SKILLS Recon 0, Stealth 1, Survival 1
@@ -4732,7 +4732,7 @@ AL**
 ```
 The Brufort system (Deneb 0368, C669642-6) is off the beaten path.
 It is a rich world, flush with natural resources but its location far from
-the sector’s trade routes has isolated it from the majority of interstellar
+the sector's trade routes has isolated it from the majority of interstellar
 traffic. The best it can hope for is the occasional visit by a wandering
 free trader or the punctual arrival of a bulk freighter on the tail end of its
 route. Nevertheless, the Travellers find themselves jumping to Brufort
@@ -4748,7 +4748,7 @@ planet-wide panic.
 ```
 
 ```
-Almost a week ago Brufort’s Spacewatch satellite array detected a 50
+Almost a week ago Brufort's Spacewatch satellite array detected a 50
 kilometers wide asteroid coming into the system from high out of the
 ecliptic on a collision course with the mainworld. Initial calculations had
 the enormous bolide making impact within 10 days. An impact from
@@ -4757,7 +4757,7 @@ winter and the death of every last person on the planet.
 ```
 
 ```
-President Emyla Gharja hastily dispatched the system’s two aging
+President Emyla Gharja hastily dispatched the system's two aging
 corvettes to tackle the problem. The crews of the corvettes took a great
 deal of explosives with them, intending to redirect the asteroid using
 strategically placed detonations. Radio transmissions indicated the
@@ -4768,12 +4768,12 @@ was seen from the surface of the planet.
 
 ```
 In an extreme stroke of bad luck there were no other ships in the
-system who could help. Five days later, the Travellers’ ship has arrived
+system who could help. Five days later, the Travellers' ship has arrived
 in system. Its detection by Spacewatch has been quickly relayed to
 the planetary government and leaked to the press. The desperate
 populace see the Travellers as their last hope for survival. After a brief
 conversation with starport control the Travellers are contacted by none
-other than President Gharja who begs them to act on Brufort’s behalf.
+other than President Gharja who begs them to act on Brufort's behalf.
 She informs them that if they are able to somehow deflect the asteroid,
 thereby saving the lives of its four million inhabitants, they will be able
 to name any price the planet can pay.
@@ -4783,7 +4783,7 @@ to name any price the planet can pay.
 51
 ```
 
-##### REFEREE’S INFORMATION
+##### REFEREE'S INFORMATION
 
 Brufort is experiencing an existential crisis of epic proportions. The sleepy
 backwater has become a chaotic free–for–all with rioting in the streets
@@ -4797,7 +4797,7 @@ exorbitant sums to get them and their families off world before the
 cataclysm. Situations like these can bring out the worst in people and
 the Travellers witness a sickening degree of cowardice and desperation.
 It might provide some degree of consolation for them to note that the
-president herself intends to ‘go down with the ship’ and does not request
+president herself intends to 'go down with the ship' and does not request
 any special favors. She merely wants their help to save her planet and
 its people.
 
@@ -4809,20 +4809,20 @@ dangerous and opt to simply save whoever they can. This will be a
 difficult undertaking since any landing on the planet results in a panicked
 rush to the landing site and hordes of people attempting to get aboard.
 The richest people on Brufort will pay MCr1 or more per person to get off
-planet but the poor security of Brufort’s low-tech communications network
+planet but the poor security of Brufort's low-tech communications network
 means that any attempts to coordinate an escape are intercepted by
 other members of the population. The scene on the ground is desperate
 and frightening. Should the Travellers attempt to land, there is a high
 probability that their ship will be mobbed and damaged or destroyed.
 
 The best thing the Travellers can do is to attempt to deflect the asteroid.
-The crisis is too far along to use more subtle means of ‘nudging’ it into
+The crisis is too far along to use more subtle means of 'nudging' it into
 a new course but it is not too late to use more forceful methods. With
 a large enough explosion or series of explosions, the Travellers might
 be able to deflect or even fragment the asteroid, saving Brufort from its
 impending doom.
 
-If the Travellers’ ship carries missiles, they may be fired at calculated
+If the Travellers' ship carries missiles, they may be fired at calculated
 points on the surface of the asteroid in an attempt to redirect it. Roll 1D
 for each missile fired, add up the total and consult the Time to Impact
 table. The closer the asteroid is to Brufort, the more points must be
@@ -4842,7 +4842,7 @@ this were incinerated. The Travellers should approach with caution.
 ```
 
 ```
-Have the ship’s sensor operator make an Average (8+) Electronics
+Have the ship's sensor operator make an Average (8+) Electronics
 (sensors) check upon approach. A successful check reveals the
 asteroid has loose bodies of rubble orbiting it. This may have been what
 destroyed the corvettes. To fly close to the asteroid, apply the Effect of
@@ -4869,7 +4869,7 @@ from the sensors table on page 19 of High Guard, doubling the DM for
 Improved or Advanced sensors since those include densitometers. Apply
 the effect of the Electronics (sensors) check to a Difficult (10+) Science
 (planetology) or Profession (belter) check (INT, 1D+1 hours). This time
-is spent surveying the asteroid using the ship’s sensors to determine
+is spent surveying the asteroid using the ship's sensors to determine
 which placement is optimal. Failure means the Travellers must start the
 procedure over, starting with the initial Electronics (sensors) check.
 
@@ -4899,14 +4899,14 @@ for every six used.
 ### FUSION EXPLOSION
 
 An alternative method of deflecting the asteroid is to create a fusion
-explosion. For the Travellers’ purposes, this more than likely means
-detonating their ship’s power plant. Whilst this generates a great deal of
+explosion. For the Travellers' purposes, this more than likely means
+detonating their ship's power plant. Whilst this generates a great deal of
 energy for deflection and is highly effective, it means the destruction of
 their starship and should only be considered as a last resort.
 
 ### TIME TO IMPACT
 
-At the time of the Travellers’ arrival, there are only four standard days (96
+At the time of the Travellers' arrival, there are only four standard days (96
 hours) remaining before the asteroid hits Brufort, divided into eight 12-
 hour periods that are used to determine the effectiveness of any attempts
 to deflect the asteroid in the Time to Impact table.
@@ -4916,12 +4916,12 @@ to deflect the asteroid in the Time to Impact table.
 ```
 The asteroid is travelling at a rate of about 30 kilometers per second or
 108,000 kilometers per hour toward the planet at a distance of 10,368,
-kilometers as the Travellers’ arrive in the system. Use this information to
-determine travel times to and from the asteroid for the Travellers’ ship.
+kilometers as the Travellers' arrive in the system. Use this information to
+determine travel times to and from the asteroid for the Travellers' ship.
 ```
 
 ```
-Roll 2D to determine the success or failure of the Travellers’ attempts
+Roll 2D to determine the success or failure of the Travellers' attempts
 based on the periods remaining before impact and the method of
 deflection attempted. In the case of a missile attack, simply add the total
 points as described earlier.
@@ -5027,7 +5027,7 @@ violence may be required.
 
 If the Travellers successfully deflect the asteroid, they are showered
 with great rewards for saving the day. Jubilant crowds meet them at
-the starport with a heroes’ welcome and parade, provided no loss of
+the starport with a heroes' welcome and parade, provided no loss of
 life occurred. Even if they only partially save Brufort and fragments hit
 the planet, causing some destruction, the survivors will be grateful for
 their efforts.
@@ -5044,8 +5044,8 @@ nickel-iron riches it contains! This may well be an adventure in itself.
 
 ```
 The following document has been declared Unclassified and Unrestricted.
-It is reprinted in its entirety from the 1105 Compilation of ‘Proceedings:
-The Journal of the Imperial Navy Staff College’. Opinions are those of the
+It is reprinted in its entirety from the 1105 Compilation of 'Proceedings:
+The Journal of the Imperial Navy Staff College'. Opinions are those of the
 original author and do not represent any official policy or position of the
 Staff College or the Imperial Navy.
 ```
@@ -5093,7 +5093,7 @@ threat to Deneb would be enough to force a negotiated settlement.
 Zhodani planners might even be ambitious enough to try for Corridor.
 This would give them control of the choke point created by the Great Rift.
 A powerful fleet based forward in that region would cut off all Imperial
-territory ‘behind the claw’ and allow the Zhodani Consulate to create a
+territory 'behind the claw' and allow the Zhodani Consulate to create a
 heavily defended exclusion zone.
 ```
 
@@ -5106,9 +5106,9 @@ the natural astrographic features of the region to permanently block out
 57
 ```
 
-Imperial expansion. Areas behind this ‘Corridor Barrier’ need not be directly
+Imperial expansion. Areas behind this 'Corridor Barrier' need not be directly
 controlled; a region of small non-aligned states just powerful enough to
-resist Vargr incursions would suit the Zhodani Consulate’s purposes.
+resist Vargr incursions would suit the Zhodani Consulate's purposes.
 
 Be that as it may, it is unlikely that Consulate planners would expect to
 punch all the way through to Corridor in a single campaign. A more limited
@@ -5188,8 +5188,8 @@ against impossible odds.
 ```
 There are two possible strategies for holding the Spinward Marches.
 Both require concentration of heavy assets. A forward strategy places
-a significant part of the sector fleet’s capital ships close to the border,
-acting as heavy reinforcements for the defences of ‘fortress worlds’
+a significant part of the sector fleet's capital ships close to the border,
+acting as heavy reinforcements for the defences of 'fortress worlds'
 along the frontier. This permits a rapid counterattack that might blunt the
 enemy advance and allow forces from other sectors to reach the combat
 zone. However, there is a real risk that forward-deployed forces might be
@@ -5211,7 +5211,7 @@ Both strategies have their risks and advantages, whereas our present
 deployments have neither. Warship deployments are currently dictated
 more by internal politics than strategic necessity. Powerful dukes routinely
 demand a battleship – or a battleship squadron – to be deployed in their
-subsector for reasons of prestige, or ‘request’ cruisers to patrol safe
+subsector for reasons of prestige, or 'request' cruisers to patrol safe
 trade lanes for the sake of demonstrating influence. At the outbreak of
 war these ships have to be summoned to a concentration point, delaying
 or weakening our response to an invasion.
@@ -5220,7 +5220,7 @@ It may be that our internal political situation is so bad that we need to
 pander to the whims of senior nobles who are putting their egos and own
 interests before those of the Imperium. If so, it would appear to be the case
 that in order to have a Spinward Marches sector to defend, we must render
-it indefensible by dispersing the fleet in these ‘political deployments’.
+it indefensible by dispersing the fleet in these 'political deployments'.
 
 Our admirals must tread a fine line between antagonising nobles,
 and thereby creating dissent, and remaining ready to protect the
@@ -5550,8 +5550,8 @@ INTHE
 ARAMIS
 PAYA
 NATOKO
-L’OEUL
-D’DIEU**
+L'OEUL
+D'DIEU**
 Secure System
 Amber Zone
 Red Zone
@@ -5796,7 +5796,7 @@ NATOKO
 ```
 
 ```
-L’OEUL D’DIEU
+L'OEUL D'DIEU
 ```
 
 ```
@@ -6024,7 +6024,7 @@ RISEK
 ```
 
 ```
-D’GANZIO
+D'GANZIO
 ```
 
 ```
@@ -6125,20 +6125,20 @@ ships do not penetrate so far.
 
 ```
 Zhodani interest in the Aramis subsector is unlikely to be great and the
-‘long left hook’ scenario is highly unlikely. In theory, a large force could
+'long left hook' scenario is highly unlikely. In theory, a large force could
 transit through Vargr space and hook into the rear of Imperial forces
 by way of Aramis or Deneb. However, this would take the force out of
 contact with its base for a very long period. A change in plans could derail
 this strategy or make war inevitable when decisions to abort the attack
 would be more beneficial. Significant numbers of Vargr raiders and the
 occasional Zhodani ship will be encountered in this region but Aramis will
-be essentially a ‘destroyer theatre’ at most.
+be essentially a 'destroyer theatre' at most.
 ```
 
 ```
 A drive on the major Imperial Navy base at Macene in the Rhylanor
 subsector, and perhaps Rhylanor itself, is a possibility. The loss of the
-repair yards at Macene would greatly reduce the navy’s capability to
+repair yards at Macene would greatly reduce the navy's capability to
 sustain a protracted engagement. An advance in this direction would pull
 Imperial reinforcements from other theatres, perhaps fatally weakening
 the Jewell/Efate campaign.
@@ -6146,7 +6146,7 @@ the Jewell/Efate campaign.
 
 ```
 Involvement by the Sword Worlds Coalition is likely. If so, their initial
-targets will be the three ‘Abyss’ naval bases at Lanth, D’Ganzio and
+targets will be the three 'Abyss' naval bases at Lanth, D'Ganzio and
 Ghandi. This will effectively isolate the Vilis subsector and allow it to be
 annexed in due course, whilst clearing the flank of an advance towards
 Lunion and ultimately Mora. If this were to happen, the minimal result
@@ -6161,7 +6161,7 @@ All these major offensives will be made against a backdrop of commerce
 raiding and attacks on the ships, ports and holdings of the great nobility
 of the sector. If the fleet continues to bow to political pressure in wartime
 as it has in peace, we can expect to lose a significant number of the
-sector fleet’s major warships to guardship deployments and politically
+sector fleet's major warships to guardship deployments and politically
 expedient detachments. These ships will be effectively out of the fight
 until it is time to mop them up and the Zhodani know it. Their strategy
 will involve manipulation of our internal politics to weaken the fleet in
@@ -6189,7 +6189,7 @@ Cluster and Efate; the rimward one will need to clear its flank at Lanth.
 This, therefore, is where the first fleet actions will occur. If these assaults
 are not successful we can expect an attempt to cut off these regions and
 force us to counterattack before they are taken – drawing our fleet into
-an engagement on the enemy’s terms.
+an engagement on the enemy's terms.
 
 If these campaigns are successful we can expect a second-stage
 offensive against Macene and Rhylanor in the coreward theatre, and
@@ -6207,7 +6207,7 @@ There will be a Fifth Frontier War and we will lose it.
 
 How badly we lose depends on measures taken today. Our admirals are
 so entangled in the political webs of the sector nobility that they are doing
-the enemy’s work for them. If war never comes, this will have been the
+the enemy's work for them. If war never comes, this will have been the
 correct strategy as it reduced internal tensions. If war does come... when
 war does come... it will be the ruin of us all.
 
@@ -6234,7 +6234,7 @@ crews who have hidden their ship underwater may also be useful.
 ```
 The ADB-602 is a standard design used, with local modifications, on
 many worlds. Its primary tasks are coastal patrol, territorial and fishery
-protection plus general law enforcement. The ADB-602 is used by ‘wet’
+protection plus general law enforcement. The ADB-602 is used by 'wet'
 navies, coast guard and maritime law enforcement agencies. It is lightly
 armed and thus not well suited to a straight combat role but on many
 worlds vessels of this sort are the only maritime combatants available.
@@ -6253,7 +6253,7 @@ decent galley and a few odd corners useful for stowage of small items.
 ```
 Armament is typical of small patrol craft, with a pair of 25 millimeters
 light autocannon in a dual mount forward and a quad-mounted light anti-
-air missile launcher aft. Both are remotely controlled from the craft’s
+air missile launcher aft. Both are remotely controlled from the craft's
 tiny bridge. Each of the open bridge wings mounts a general-purpose
 machinegun for law enforcement self-defence purposes. The hull is
 lightly armored with flexible composite materials, giving reasonable
@@ -6482,7 +6482,7 @@ missile capability in an unnecessary fight.
 
 ```
 A high degree of automation permits a relatively low crew requirement but
-all the same the vessel is as cramped as any submarine in any world’s
+all the same the vessel is as cramped as any submarine in any world's
 history, with the exception of the large missile bay that takes up half the
 hull tonnage. Much of the rest is given over to a fusion power plant that
 allows the vessel to remain submerged more or less indefinitely. It is
@@ -6585,16 +6585,16 @@ Torpedo AP 50, One Use, Smart +
 ```
 Starship pilots normally prefer to land their craft in the same place and
 with it roughly the same shape as before touchdown. The old adage that
-‘any landing you walk away from is a good one’ is probably setting the
-bar a bit low. A better guideline might be ‘a landing that does not cost you
-money or repair time is acceptable’. However, there are those for whom
+'any landing you walk away from is a good one' is probably setting the
+bar a bit low. A better guideline might be 'a landing that does not cost you
+money or repair time is acceptable'. However, there are those for whom
 the dings in their ship and the starport fines clocked up for taking divots
 out of the landing pad are a badge of honor.
 ```
 
 ```
 There are many ways to damage a starship without the slightest hostile
-intent on anyone’s part. Most are relatively minor but any situation
+intent on anyone's part. Most are relatively minor but any situation
 involving hundreds of tons of out-of-control metal has the potential to
 make a very bad day for everyone concerned.
 ```
@@ -6602,14 +6602,14 @@ make a very bad day for everyone concerned.
 ```
 In the parlance of pilots, a ding is an incident that causes minor physical
 damage, usually to the outside of a vessel. The actual damage is also
-referred to as a ‘ding’ if it takes the form of a dent or other physical
+referred to as a 'ding' if it takes the form of a dent or other physical
 scar on the hull. A prang, to most pilots, is an incident that causes
 physical damage to the vessel or its occupants but does not reduce the
 functionality of the vessel by any significant degree. A crash is a situation
 that does impair functionality or poses significant threat to life and limb.
 Accident investigators have different terms for these situations, of course,
-but ‘prang’ sounds better in a pilot’s bar than a ‘class four unscheduled
-foreign-body interaction’.
+but 'prang' sounds better in a pilot's bar than a 'class four unscheduled
+foreign-body interaction'.
 ```
 
 ```
@@ -6620,7 +6620,7 @@ speed manoeuvring and not intent on causing catastrophic damage
 to themselves or any other vessel. Collisions and mishaps of this sort
 typically occur in orbital space or close to a port, in areas where ships
 are expected to slow down to a sensible speed. The following speed
-categories are used as a general indication of a vessel’s velocity and the
+categories are used as a general indication of a vessel's velocity and the
 amount of damage it is likely to do to itself.
 ```
 
@@ -6639,7 +6639,7 @@ run (such as a smuggler or fast courier), might be travelling at this rate.
 ```
 
 Transit: A vessel moving in or out between jump point and orbital space
-will normally be moving at ‘transit’ speed.
+will normally be moving at 'transit' speed.
 Slow Transit: Slower vessels or ones moving cautiously will typically
 be manoeuvring at this rate. Traffic control will normally object to ships
 moving faster than this pace within its controlled area.
@@ -6727,10 +6727,10 @@ Prangs table.
 ```
 There are few circumstances under which a ship would or even could
 deliberately ram another with the intent of causing serious damage,
-however there have been instances of pilots ‘giving another vessel a nudge’
+however there have been instances of pilots 'giving another vessel a nudge'
 in crowded areas. Most collisions are accidental and occur at relatively low
 speed, however. A low-speed bump can occur when docking at an arm or
-boom, or clipping the side of an orbital port’s docking bays. This is unlikely
+boom, or clipping the side of an orbital port's docking bays. This is unlikely
 to do much harm, although it may dent the hull or scrape off an antenna
 and will more than likely earn the pilot the displeasure of the port operator.
 ```
@@ -6740,7 +6740,7 @@ In the event of a minor collision, the speed of the fastest-moving vessel
 is used unless it is obviously inappropriate, such as when a vessel
 sideswipes another travelling at the same speed in the same direction.
 Such a collision would normally be taken as occurring at Creep or Slow
-Port speed. In the event that one ship ‘nudges’ another to move it or
+Port speed. In the event that one ship 'nudges' another to move it or
 shake the occupants about, the same Severity is used for both craft but
 the results may be different if one crew are braced and prepared and the
 other is not. Collisions with buildings, the ground or large animals are
@@ -6934,7 +6934,7 @@ Very Difficult (12+),
 ```
 
 ```
-22-24 The vessel suffers a ‘mild crash’, losing
+22-24 The vessel suffers a 'mild crash', losing
 2Dx3% of its Hull and taking 1D Critical
 Hits.
 ```
@@ -6991,7 +6991,7 @@ that of a 200-ton SDB.
 
 ```
 The Javelin is built around the Atlatl Boost System, which was designed
-as an integrated part of the hull. The vessel’s standard maneuver drive
+as an integrated part of the hull. The vessel's standard maneuver drive
 is impressive on its own, being capable of sustained 6g thrust, but under
 maximum boost the Javelin can overhaul almost any vessel. A Javelin
 that uses all of its reaction fuel will take much longer to get home than it
@@ -7001,7 +7001,7 @@ rapid interception and high-speed firing passes.
 
 ```
 The reaction drive can be used in combat, enabling the Javelin to engage in
-a series of rapid ‘one pass and haul ass’ strikes against a hostile vessel or
+a series of rapid 'one pass and haul ass' strikes against a hostile vessel or
 streak away from danger. The primary armament is a fusion gun barbette,
 with a dual pulse laser turret for use against smaller targets. The hull is
 lightly armored to withstand weapons fire from fighters; the Javelin can
@@ -7092,7 +7092,7 @@ Weapons
 
 ##### 80
 
-1. Sensors2. Bridge3. High burn thruster4. Fresher5. Ship’s locker6. Air lock7. Stateroom
+1. Sensors2. Bridge3. High burn thruster4. Fresher5. Ship's locker6. Air lock7. Stateroom
 
 ```
 1
@@ -7180,7 +7180,7 @@ Weapons
 The Dart interceptor is one of the most exciting craft to fly but not always
 in a good way. Its incredible acceleration is certainly exhilarating but the
 prospect of having insufficient reaction fuel to cancel a high velocity is a
-constant source of stress. Automated systems warn the pilot of ‘bingo’
+constant source of stress. Automated systems warn the pilot of 'bingo'
 fuel on a dynamic basis, ensuring they know where the limit of endurance
 lies and can get back to base.
 ```
@@ -7192,7 +7192,7 @@ pilot would want to be in the cockpit – but all fuel is available for drive
 and power plant functions. In theory this means the craft could power
 its systems for almost a week without manoeuvring, although more
 commonly the power plant allocation is used as a last reserve – a Dart
-that can get home in three hours by using up all but three hours’ worth of
+that can get home in three hours by using up all but three hours' worth of
 power plant fuel has no real reason to keep much more in reserve.
 ```
 
@@ -7203,7 +7203,7 @@ power plant fuel has no real reason to keep much more in reserve.
 Similarly, reaction fuel calculations are not as simple as they might at first
 appear. One hour at maximum thrust translates to 16 hours of constant
 1g acceleration. A Dart will normally undertake short patrols of under
-four hours’ duration or be launched from a ship or ground station as an
+four hours' duration or be launched from a ship or ground station as an
 interceptor. In the latter case high acceleration will be applied early to
 ensure a rapid climb to orbit and intercept, but most maneuvers will be
 made at a more modest rate. By coasting much of the way a Dart can
@@ -7216,7 +7216,7 @@ high-speed maneuvers.
 The simple way to calculate fuel is to use g-hours (one hour of
 continuous 1g thrust) and g-turns (one turn of 1g thrust). A Dart sets
 out with 16g-hours of thrust at the beginning of a mission. There
-are 10 turns in an hour, so the fighter has 160 ‘g-turns’. If the pilot
+are 10 turns in an hour, so the fighter has 160 'g-turns'. If the pilot
 engages in maximum power manoeuvring for five turns of space
 combat, they use 16 g-turns every turn or 80 g-turns total. At the end
 of the fight they have 80 g-turns of fuel left, minus whatever it took to
@@ -7227,7 +7227,7 @@ get to the combat area.
 Alternatively, combat endurance can be calculated using fuel tonnage.
 One hour (10 turns) at Thrust 16 requires 8 tons of fuel, so one g-turn
 requires 0.05 tons of fuel. That is to say, fuel is expended per turn at
-a rate of 0.05 tons times the amount of Thrust the pilot uses’ if they
+a rate of 0.05 tons times the amount of Thrust the pilot uses' if they
 maneuver at Thrust 7 one turn this costs 0.35 tons of fuel. If the pilot
 was desperate, they could draw on the power plant reserve; 0.1 tons
 of power plant fuel gives 1.6 hours of power plant operation, which is
@@ -7401,12 +7401,12 @@ blundering into the area but if things go to plan the regulations will be
 followed and the contact team will have a clear plan to follow.
 
 The first stage is to conduct a physical and electromagnetic observation
-of the target species’ homeworld or the worlds they frequent. Standard
+of the target species' homeworld or the worlds they frequent. Standard
 survey equipment will give an indication of the conditions the new
 species prefers, its requirements for life support and a general idea of its
 technological sophistication. It may be possible to create a framework for
 communication out of intercepted transmissions or even to decode the
-species’ language if sufficient time is available.
+species' language if sufficient time is available.
 
 If communications are possible – even just an exchange of indecipherable
 signals – this is the preferred method of initiating contact. Standard
@@ -7464,7 +7464,7 @@ heard by captors who thought they were the ones in control.
 
 ```
 If the ground team were to be taken hostage, retrieval is not guaranteed.
-All scouts have a ‘no hostage’ clause in their contract for this situation
+All scouts have a 'no hostage' clause in their contract for this situation
 and their superiors will not enter into a bad agreement to save the lives
 of a contact team. They might, on the other hand, conduct a rescue in
 a manner that makes the contacted species realise they have bitten off
@@ -7514,7 +7514,7 @@ cities might indicate balkanization, for example, although evidence of
 warfare is usually a clearer indication.
 
 Technological capability combined with settlement pattern will give an
-indication of the world’s government type. A centralised bureaucratic
+indication of the world's government type. A centralised bureaucratic
 government is not possible unless the population are concentrated or
 electronic communications are available. A low-tech world with scattered
 settlements probably has a decentralised government system such as
@@ -7552,8 +7552,8 @@ Language is not in and of itself a certain indicator of sentience. Many
 animal species are capable of communicating in various ways and can
 often indicate objects or locations by distinct names. What is relevant is
 the indication of conscious thought and transmission of concepts. At its
-most basic level, ‘language’ is merely an indication of emotional state.
-A cat’s purr is a means of communicating contentment and happiness;
+most basic level, 'language' is merely an indication of emotional state.
+A cat's purr is a means of communicating contentment and happiness;
 a snort of alarm from a deer is more sophisticated and conveys useful
 information to other animals – but it is not an indication of thought.
 ```
@@ -7582,7 +7582,7 @@ which might someday lead to a technological civilization.
 ```
 
 ```
-What might be termed ‘stupidity’ is also sometimes an indicator of
+What might be termed 'stupidity' is also sometimes an indicator of
 sentience. Animals react to stimuli in a predictable manner. If there is
 little competition for resources and no obvious need, yet members of a
 race leave a fertile and pleasant area to struggle across badlands, there
@@ -7595,7 +7595,7 @@ must be a reason. Such activity is not necessarily proof of sentience
 
 but animals do not as a rule leave habitable places for less habitable
 ones without obvious necessity. People, on the other hand, explore for
-exploring’s sake or leave their homes due to social issues that would
+exploring's sake or leave their homes due to social issues that would
 never arise among animals.
 
 Complex social structures are not necessarily an indication of sentience,
@@ -7619,7 +7619,7 @@ thought is required to figure out how to make a better one.
 #### ONCE SENTIENCE IS DETERMINED
 
 Ultimately, the decision as to whether a species should be considered
-sentient or not is made on a ‘big picture’ basis. If sentience is proven, it is
+sentient or not is made on a 'big picture' basis. If sentience is proven, it is
 necessary to decide how to proceed. Low-tech societies are, in general,
 contacted discreetly and measures taken to ensure interactions are kept
 low-key. It is not usual to inform such a society of the existence of a large
@@ -7667,7 +7667,7 @@ engines or gravitic drives but these are far less common.
 Casing: The main body of the missile is termed its casing. Normally
 the casing has movable fins or directable propulsion for guidance. The
 combination of casing and propulsion system is sometimes called a
-‘bus’. It is not uncommon for the bus of a military missile system to be
+'bus'. It is not uncommon for the bus of a military missile system to be
 adapted to carry civilian payloads such as satellites or scientific probes.
 ```
 
@@ -7678,7 +7678,7 @@ weapon to a defined location, or an advanced seeker system capable of
 selecting its own targets once it reaches the target zone. Many missiles
 receive external guidance, either as direct control signals or in the form
 of a designator whose target point is followed by the missile. An unguided
-‘missile’ is typically referred to as a rocket, even if it uses some other
+'missile' is typically referred to as a rocket, even if it uses some other
 form of propulsion, to differentiate it from a guided weapon.
 ```
 
@@ -7701,7 +7701,7 @@ remains switched on, the weapon will follow it and hit an unintended target.
 ```
 
 ```
-Use of suitable guidance allows the weapon’s operator or the operator
+Use of suitable guidance allows the weapon's operator or the operator
 of a designator to target a weapon very precisely, with no penalties for
 range. Hand-held or vehicle mounted designators can be used with the
 Heavy Weapons or Gunner skills; missile control/guidance systems
@@ -7730,7 +7730,7 @@ be launched on an indirect trajectory, such as over intervening terrain.
 However, range is halved as these weapons are designed to be air-
 launched and do not have the thrust required to climb to great altitude.
 
-The ‘Blue Fantail’ designation comes from the brand name of a leading
+The 'Blue Fantail' designation comes from the brand name of a leading
 guided rocket system. It is generically applied to all rocket systems of
 this sort, although most have their own codenames. The Blue Fantail
 designator is designed to be fitted in a fixed mount on an aircraft or a
@@ -7823,10 +7823,10 @@ reloaded on the ground but not in flight.
 ```
 
 ```
-The GLMM-128 uses a missile prosaically designated ‘Project 414’
+The GLMM-128 uses a missile prosaically designated 'Project 414'
 but better known by its marketing title as Jorden-Hurade-Hammare, a
 corruption of a phrase from an old Terran language roughly translating
-as ‘Earth-Flung-Hammer’. The JHH missile normally carries a high
+as 'Earth-Flung-Hammer'. The JHH missile normally carries a high
 explosive shaped-charge warhead but its bus can be used to deliver
 other munitions. Multiple high explosive/fragmentation submunitions can
 be scattered across a small area by the anti-personnel payload package
@@ -7911,7 +7911,7 @@ If a direct hit can be obtained – and the target merits it – the warhead
 94
 
 ```
-will attempt to punch through the target’s hull. In this case the tungsten
+will attempt to punch through the target's hull. In this case the tungsten
 sheath protects the warhead until it detonates inside the target, flinging
 white-hot tungsten cubes around inside.
 ```
@@ -8093,7 +8093,7 @@ the local military by a wide margin.
 
 There is also the problem of finding a suitable landing spot to consider.
 Instruments can do so much but the only ways to tell if a piece of ground
-really can support a starship’s weight is to survey it at ground level or land
+really can support a starship's weight is to survey it at ground level or land
 and hope for the best. Leaving aside the possibility of causing damage
 with a bad or ill-advised landing, there is a real possibility that Travellers
 might touch down on soft or unexpectedly uneven ground. One way to
@@ -8361,7 +8361,7 @@ immediate area around them generally have a light transportation hub
 but anything moving over any distance goes up first, then down to
 the destination. It may be virtually impossible to get from one city to
 another without going through an orbital shuttle terminal. At this point,
-the world’s cities are often more connected to the wider universe than
+the world's cities are often more connected to the wider universe than
 to one another; and citizens may visit other planets more often than
 other cities of their homeworld.
 ```
@@ -8375,7 +8375,7 @@ are built as floating modules, reconfiguring as required, and by TL14
 whole cities may be supported by gravitic lifters. Such a city can go
 anywhere on the planet, making ground transportation outside city limits
 meaningless other than for the rural population. Society is almost entirely
-‘vertical’ by this point, with small ground transport hubs around landing
+'vertical' by this point, with small ground transport hubs around landing
 areas but most transits are made by grav vehicle.
 ```
 
@@ -8421,7 +8421,7 @@ between Makhidkarun and GSbAG.
 Engineers at Makhidkarun had designed an advanced gunnery artificial
 narrow intelligence system. Their attempts to market it to the Imperial
 Navy had met with, at best, lukewarm responses. In an attempt to prove
-the software’s value, executives of the company in the Deneb sector
+the software's value, executives of the company in the Deneb sector
 approached their counterparts at GSbAG to craft a starship specifically
 designed to utilise their advanced software. Instead of requiring 20
 gunners, as other vessels of this size did, the design would incorporate
@@ -8442,8 +8442,8 @@ late 1087 and headed corewards to perform anti-piracy patrols. While
 escorting a convoy of merchantmen, they were set upon by a pair of
 800-ton Vargr frigates shortly after emerging from jump space. With
 her stealth jump drives dampening her exit signature, they had failed
-to notice the Retribution Incarnate’s presence in the flotilla. Both Vargr
-ships were well within her fusion bay’s range before she opened up. The
+to notice the Retribution Incarnate's presence in the flotilla. Both Vargr
+ships were well within her fusion bay's range before she opened up. The
 fight lasted less than 10 minutes, ending with the complete destruction
 of both corsairs. While the Retribution Incarnate did not escape without
 being struck, she did escape unscathed. Her heavy armor protected
@@ -8458,7 +8458,7 @@ synaptic processors in the gunnery system, the Imperial Navy chose
 104
 
 ```
-not to order any more. Others, however, had taken note of the vessel’s
+not to order any more. Others, however, had taken note of the vessel's
 power and survivability. Orders started coming in from several private
 concerns, particularly other megacorporations, looking for an escort
 vessel. Several dozen were built and examples can be found throughout
@@ -8466,7 +8466,7 @@ the spinward reaches of the Imperium.
 ```
 
 ```
-Of note, some of GSbAG’s customers expressed concern with the
+Of note, some of GSbAG's customers expressed concern with the
 gunnery software. A variant of the class was built that replaced the heavy
 fighter and its docking bay with a dozen additional staterooms. This
 change, coupled with reducing the capabilities of the main computer and
@@ -8754,21 +8754,21 @@ countermeasures
 
 ### 108
 
-## MERTACTOR: GLISTEN’S GATEKEEPER
+## MERTACTOR: GLISTEN'S GATEKEEPER
 
 ```
 Mertactor (B562732-B) is a small, low-gravity world on the trailing side
 of District 268. Its close links with the powerful economy of Glisten, and
 position at the border of Imperial space, have earned it the nickname
-‘Glisten’s Gatekeeper’. Whilst insignificant in its own right, Mertactor’s
+'Glisten's Gatekeeper'. Whilst insignificant in its own right, Mertactor's
 location makes it a strategic asset. It is generally considered to be part
-of Glisten subsector’s administrative apparatus and protected by the
+of Glisten subsector's administrative apparatus and protected by the
 Glisten subsector fleet.
 ```
 
 ```
 Mertactor itself is habitable enough but lacks the mineral resources to
-be a major industrial center. In addition to being fairly small, the world’s
+be a major industrial center. In addition to being fairly small, the world's
 composition is primarily lighter minerals, resulting in low surface gravity.
 Despite this, Mertactor is rated as having a standard atmosphere. This is
 true at sea level but sea level is rather low on this world.
@@ -8809,14 +8809,14 @@ of proto-nation. Conflict was uncommon but destructive when it did occur.
 
 ### 109
 
-The beginnings of ‘modern Mertactor’ lay in the discovery that whilst the
+The beginnings of 'modern Mertactor' lay in the discovery that whilst the
 world lacked the sort of mineral wealth necessary for heavy industry –
 iron, copper and the like – its surface rocks contained a high percentage
 of compounds useful in electronics and light fabrication. These minerals
 found a ready market in the asteroid communities of Glisten, beginning
 a long economic and cultural partnership. A collective bargaining
 agreement among colony directors became a world government that
-regulated offworld exploitation of Mertactor’s light-mineral wealth.
+regulated offworld exploitation of Mertactor's light-mineral wealth.
 
 Income from mining operations funded a technological advancement
 program, which also benefited from funds supplied by the Glisten
@@ -8826,16 +8826,16 @@ trade initiative. A secondary, and probably unintentional, outcome of this
 project was the curtailment of expansion into District 268. With a robust
 border control and trade hub in place at Mertactor, further expansion
 would mean repeating the expense and was deemed undesirable. Thus
-Mertactor became the ‘gatekeeper’ for District 268.
+Mertactor became the 'gatekeeper' for District 268.
 
 SOCIETY
 
 The people of Mertactor are mostly humans of mixed stock, plus a
 scattering of various alien races. All are Imperial citizens and culture
-is very much ‘standard interstellar’ for the most part. This stems from
-the amount of traffic passing through Mertactor’s starport and close ties
+is very much 'standard interstellar' for the most part. This stems from
+the amount of traffic passing through Mertactor's starport and close ties
 with Glisten, ensuring the latest fashions, fads and social foibles reach
-Mertactor’s populace.
+Mertactor's populace.
 
 Society is, on the whole, well integrated and peaceable. The ruling
 oligarchy is not particularly well liked but laws are liberal and standards of
@@ -8848,7 +8848,7 @@ the way of status or social elevation.
 Most of the population, numbering around 10 million, are concentrated
 in the cities of the ocean basins. Bulk movement of goods uses sea
 transport but most people travel between the cities in large grav transports
-operated by one or another of the world’s transportation companies.
+operated by one or another of the world's transportation companies.
 Movement of this sort is commonplace, with the result that people from
 one city will often take a job in another and settle down there. Over time
 this has created a very even – some would say bland – social distribution.
@@ -8869,7 +8869,7 @@ vessels on the local spacelanes, however.
 ```
 
 ```
-The majority of Mertactor’s population are employed by businesses
+The majority of Mertactor's population are employed by businesses
 connected with interstellar commerce or the support of installations.
 Recruiters from merchant lines are always active at the starport, providing
 a glamorous route out of the cities for those who want it.
@@ -8879,7 +8879,7 @@ a glamorous route out of the cities for those who want it.
 Mining has become a major industry, although it is carried out in an unusual
 manner. Rather than seeking veins of metals and heavy minerals, mining
 on Mertactor is based around extraction processes applied to bulk ore.
-The light minerals and compounds that make up most of the world’s
+The light minerals and compounds that make up most of the world's
 exports are obtained by crushing and processing large quantities of rock,
 extracting what is needed then discarding the remainder.
 ```
@@ -8891,7 +8891,7 @@ ground vehicles but gravitic ore barges can lift huge quantities and carry
 it to the processing sites. There is always employment for skilled and
 careful grav pilots alongside the usual array of machinery operators,
 chemists and explosives experts. The mines do not employ many
-unskilled workers but Mertactor’s good education system ensures that
+unskilled workers but Mertactor's good education system ensures that
 anyone wanting to learn a skill has the opportunity.
 ```
 
@@ -8910,14 +8910,14 @@ time and are a hazardous workplace. Serious accidents are rare
 largely because strict rules are in place about air quality and protective
 equipment. Explosives and laser operators in particular are confined to
 air-conditioned control rooms during their shifts and anyone going outside
-is required to wear a compressor mask unless ‘good air’ indicators are
+is required to wear a compressor mask unless 'good air' indicators are
 clearly visible.
 ```
 
 ```
 STARPORTS
 AND SPACEPORTS
-The world’s ruling elite have their own spaceports, small installations
+The world's ruling elite have their own spaceports, small installations
 off-limits to almost all traffic. Other traffic goes through the main Class
 B starport. Mertactor has a central downport, divided into industrial,
 commercial and public sectors. The latter also serves as a grav-port
@@ -8928,37 +8928,37 @@ commercial and public sectors. The latter also serves as a grav-port
 ### 112
 
 ```
-for the world’s transportation hub, linking to grav-ports at other cities.
+for the world's transportation hub, linking to grav-ports at other cities.
 The commercial sector is not large at the downport, as most business is
 conducted in orbit. The majority of cargoes that pass through the highport
 are split up and loaded onto ships to be taken to distant destinations;
-only a small proportion descends to Mertactor’s surface.
+only a small proportion descends to Mertactor's surface.
 ```
 
 ```
 The orbital port is a large installation, with subdivisions according to
-function. A portion of the station is taken up with facilities for the world’s
+function. A portion of the station is taken up with facilities for the world's
 system protection flotilla. Not coincidentally this is located next to the
 private section reserved for the ruling elite and a small number of favored
-merchant ship and liner operators. The ‘Imperial Quarter’ of the station
+merchant ship and liner operators. The 'Imperial Quarter' of the station
 is in fact its largest component, serving trade ships from Glisten and ore
-transport shuttles from planetside. The ‘Border Quarter’, as it is known,
+transport shuttles from planetside. The 'Border Quarter', as it is known,
 is dedicated to serving cross-border traffic. It is well secured and smartly
 operated, carrying out customs checks and spaceworthiness inspections
 on vessels crossing into or out of the Imperium.
 ```
 
 ```
-Mertactor’s highport is a favored entry point to the Imperium for
+Mertactor's highport is a favored entry point to the Imperium for
 legitimate and large-scale commercial traffic, not least because
 its checks are stringent. A vessel that can show it came in through
 Mertactor will avoid further checks deeper in the Imperium, whereas
-one that bypassed the ‘gatekeeper’ might have its paperwork inspected
+one that bypassed the 'gatekeeper' might have its paperwork inspected
 on several occasions thereafter.
 ```
 
 ```
-Mertactor’s yards and repair works are likewise a popular place for
+Mertactor's yards and repair works are likewise a popular place for
 non-Imperial vessels to receive maintenance or have new components
 fitted. Work is always done to a high standard and Mertactor stamps on
 the component listing can help a vessel retain its resale value. Just as
@@ -9021,17 +9021,17 @@ strong deterrent to piracy and raiding.
 The Mertactor system is also patrolled by the Glisten subsector fleet,
 which tries to maintain a guardship over the world and push patrols
 through the system and into District 268. The subsector fleet is stretched
-thin, however, and is not of high quality. Glisten is a ‘safe’ posting – both
+thin, however, and is not of high quality. Glisten is a 'safe' posting – both
 in terms of action and the damage an incompetent officer can do – and
 has long been something of a dumping-ground for personnel who cannot
 be dismissed but cannot be put in charge of a warship in a sensitive area.
 
 The majority of officers commanding ships in this region are not
-incompetent but do tend to be over-promoted ‘plodders’ who achieved
+incompetent but do tend to be over-promoted 'plodders' who achieved
 command due to political connections. There are exceptions – the
 Glisten subsector fleet has some really excellent officers, like all such
 forces – but it is not uncommon to hear a port official wearily state that
-‘someone’s cousin passed through today’ when a visit by the navy has
+'someone's cousin passed through today' when a visit by the navy has
 been particularly tiresome and unproductive.
 
 # VEHICLE HANDBOOKVEHICLE HANDBOOK
@@ -9054,17 +9054,17 @@ Most IISS vehicles are clearly marked and use colour schemes associated
 with the Scouts; typically mid-grey with yellow or high-visibility orange
 for general-purpose vehicles and a darker shade without obvious high-
 vis panels or decoration for operations in more dangerous areas. The
-IISS ‘Galloping Poni’ logo is usually prominently displayed, although its
+IISS 'Galloping Poni' logo is usually prominently displayed, although its
 colouring and vibrancy are toned down where appropriate.
 ```
 
 ```
-For covert or ‘low-observable’ operations the IISS prefers to use locally
+For covert or 'low-observable' operations the IISS prefers to use locally
 obtained vehicles or generic designs that blend in with traffic in the target
 area, or more stealthy versions of its standard vehicles. Equipment
 assigned to these missions will not be marked with the Scout Service
 logo, although it is usually traceable back to the IISS. The Scout Service
-rarely engages in ‘deniable’ missions, although its personnel often seek
+rarely engages in 'deniable' missions, although its personnel often seek
 to avoid attracting attention.
 ```
 
@@ -9073,7 +9073,7 @@ IISS PERSONAL FIELD
 ## TRANSPORT DEVICE, GRAVITIC
 
 ```
-Better known as a ‘Scout grav belt’, the PFTSD has many applications,
+Better known as a 'Scout grav belt', the PFTSD has many applications,
 from safety when operating in high places or from open-topped vehicles,
 to slipping into an area unnoticed. It is similar in many ways to a TL
 civilian grav belt but has a few additional features.
@@ -9152,7 +9152,7 @@ a more powerful directional light in the center of the ring.
 ```
 
 ```
-The pilots stand rather than sit, leaning against a ‘seating post’ with their
+The pilots stand rather than sit, leaning against a 'seating post' with their
 feet secured by straps. The tube can be controlled by one person, so
 occasionally an equipment package is
 jury-rigged into the other position. In
@@ -9187,11 +9187,11 @@ to allow operation down to 15 meters underwater, after which the door
 seals will start to leak. At around 30 to 50 meters, the seals will fail
 completely. However, scouts wearing underwater breathing gear can
 use the tube as an underwater transport platform with the door left
-unsealed. The unit’s systems are, in theory at least, impervious to
+unsealed. The unit's systems are, in theory at least, impervious to
 water down to 100 meters or perhaps more. However, this application
 is considered inadvisable and generally discouraged.
 
-The grav tube’s batteries are good for around 120 hours of low-speed
+The grav tube's batteries are good for around 120 hours of low-speed
 mobility, with a performance equivalent to that of the Scout Service grav
 belt. During this time the unit can provide life support to two Travellers,
 whilst recharging their personal vacc suits. However, endurance of the
@@ -9208,7 +9208,7 @@ accidents are a significant contributor to Scout Service mortality rates.
 
 The IISS grav bike is a very expensive vehicle for its type. It is based on
 the Ling-Standard Products Kaivii performance model, using a slightly
-elongated frame and additional electronics. The bike is quite ‘chunky’ in
+elongated frame and additional electronics. The bike is quite 'chunky' in
 appearance but highly streamlined with a powerful yet efficient engine
 capable of driving it at high subsonic speeds. Use of the autopilot is
 highly recommended when operating at low altitude and the pilot and
@@ -9234,7 +9234,7 @@ a mission in a hostile environment by a considerable margin. A set of
 emergency life-support clothing is carried for the pilot and passenger;
 similar to softsuits used aboard may starships, these suits will hold up for
 a nerve-wracking ride back to base after an incident but not much more
-than that. If sealed helmets are used, the bike’s life support equipment
+than that. If sealed helmets are used, the bike's life support equipment
 allows users to operate at high altitudes or in very thin atmospheres
 without a vacc suit.
 ```
@@ -9311,8 +9311,8 @@ produce these vehicles to the highest standard.
 ```
 
 ```
-The IISS ‘raft is a solid-body design, sealed against vacuum and can
-provide life support to the vehicle’s occupants for up to four days. There
+The IISS 'raft is a solid-body design, sealed against vacuum and can
+provide life support to the vehicle's occupants for up to four days. There
 is no airlock, however. Crewmembers will normally wear Scout field
 dress and can don helmets before the doors are opened. The access
 points are designed to mount to external doorways on Scout Service field
@@ -9322,8 +9322,8 @@ their base without needing to suit up.
 
 ```
 The IISS air/raft is a powerful communications, sensor and processing
-platform, often used to provide support to ‘lesser’ vehicles such as
-ordinary (cheaper) air/rafts used by most of a mission’s personnel. In
+platform, often used to provide support to 'lesser' vehicles such as
+ordinary (cheaper) air/rafts used by most of a mission's personnel. In
 this role it is sometimes referred to as a command raft or support raft but
 this does not mean any changes have been made – the IISS air/raft is
 capable of fulfilling this role and more, as standard.
@@ -9335,7 +9335,7 @@ who have less room to work. Indeed, anything requiring more movement
 than tapping keys on a laptop console requires getting out of the back
 seat. The small internal equipment locker is designed to be removable,
 creating a small additional working space in the rear of the vehicle for
-‘backseaters’ to use.
+'backseaters' to use.
 ```
 
 ### 121
@@ -9422,11 +9422,11 @@ complement must be reduced.
 
 ```
 The IISS G/carrier has an airlock, unlike the air/raft, and a basic fresher
-that sometimes serves as a ‘light decontamination unit’. It is not suitable
+that sometimes serves as a 'light decontamination unit'. It is not suitable
 for much more than washing dust off a suit but the heavy-duty filtration
 and recycling unit can get rid of particles that would otherwise get into
 all corners of the vehicle. This is important when operating on airless
-worlds; ‘dust’ in this case is small rock fragments that can be sharp.
+worlds; 'dust' in this case is small rock fragments that can be sharp.
 Personnel can be injured by such particles getting inside clothing and
 equipment damaged by abrasion.
 ```
@@ -9525,7 +9525,7 @@ operations, sometimes with an assigned supply vessel. In this role they
 live up to their designation, hunting down small raiders and pirates.
 Given that the average pirate vessel is a converted trader, few stand
 any chance and even a small squadron can be scattered and dispatched
-whilst its weapons do little more than char the corvette’s paintwork.
+whilst its weapons do little more than char the corvette's paintwork.
 ```
 
 ```
@@ -9548,7 +9548,7 @@ and more powerful vessel.
 The vessel is built as three cylinders, with the primary hull containing
 living and working areas, fuel, main power plant and control spaces
 whilst the smaller, shorter cylinders are given over mostly to a single
-weapon and its supporting systems. The ‘weapon’ cylinders contain an
+weapon and its supporting systems. The 'weapon' cylinders contain an
 armored bay holding a miniaturised high-yield particle accelerator and
 compact three ton fusion power plant capable of supporting its function
 even if power feeds from the main hull are compromised. The power
@@ -9559,15 +9559,15 @@ even if power feeds from the main hull are compromised. The power
 plant and weapon bay are surrounded by armored bulkheads and a
 small amount of fuel tankage.
 
-The main hull contains around 75% of the vessel’s tonnage. The
+The main hull contains around 75% of the vessel's tonnage. The
 bridge is located forward, with an electronic warfare/fire direction room
 immediately aft. Accommodation for senior crewmembers is provided
 by three standard cabins and one high cabin, which also serves as an
-office for the ship’s commanding officer. The armory and briefing room
+office for the ship's commanding officer. The armory and briefing room
 lie aft of this block, with a further group of cabins and the medical bay
 accommodating the rest of the crew.
 
-The ship’s main power plant is surrounded by additional bulkheads,
+The ship's main power plant is surrounded by additional bulkheads,
 although the jump and maneuver drives are not. This represents the
 emphasis of the vessel – keeping the big guns in action is considered all-
 important; survivability less so. However, with triple pulse laser turrets in
@@ -9724,7 +9724,7 @@ HULL POINTS
 193
 
 1. Sensors2. Bridge3. Sensor station4. Countermeasures suite5. Enhanced signal processing6. Airlock7. Stateroom (high)8. Fresher9. Armory10. Staterooms
-    11. Ship’s locker12. Briefing room13. Medical bay14. Particle beam bay15. Repair drones16. Fuel processor17. Cargo hold18. Power plant19. Jump Drive20. Maneuver drive21. Triple turret22. Common area
+    11. Ship's locker12. Briefing room13. Medical bay14. Particle beam bay15. Repair drones16. Fuel processor17. Cargo hold18. Power plant19. Jump Drive20. Maneuver drive21. Triple turret22. Common area
 
 ```
 1

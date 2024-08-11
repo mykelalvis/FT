@@ -40,8 +40,8 @@ Fusion Gun-RFY 5 3DD AP 15, Auto 2, Blast 10, Radiation +4
 Currently available as a prototype, the Trepida is
 intended to become the standard-issue heavy grav tank
 in the Imperium. The Trepida is in trials at the moment
-and has been deployed on Capital and other key
-worlds of the Core sector. The tank has a crew of two,
+and has been deployed on [[Capital]] and other key
+worlds of the [[Core sector]] . The tank has a crew of two,
 a commander and driver/gunner.
 
 Rapid-Fire Fusion Guns: The Trepida and other
@@ -50,7 +50,7 @@ gun instead of the standard fusion gun installed on its
 predecessor, the Invader. Rapid-fire fusion weapons
 
 become available at TL14, are designated with the
-prefix ‘RF’ and preclude the need for an auxiliary
+prefix 'RF' and preclude the need for an auxiliary
 automatic weapon.
 
 EQUIPMENT AND WEAPONS

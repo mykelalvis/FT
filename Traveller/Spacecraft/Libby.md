@@ -45,7 +45,7 @@ Hangars (100 tons) x2 400 80
 Docking Spaces (400 tons) x4 1,760 440
 Fuel Shuttles x4 — 360.828
 
-ARGUSHIIGI ADMEGULASHA BILANIDIN (THE LIBRARIAN OR ‘LIBBY’)
+ARGUSHIIGI ADMEGULASHA BILANIDIN (THE LIBRARIAN OR 'LIBBY')
 
 CLASS: AZHANTI HIGH LIGHTNING CRUISER
 
@@ -74,7 +74,7 @@ Fuel Processor
 
 **ADMEGULASHA BILANIDIN**
 
-**(THE LIBRARIAN OR ‘LIBBY’)**
+**(THE LIBRARIAN OR 'LIBBY')**
 
 **CLASS: AZHANTI HIGH**
 
@@ -103,8 +103,8 @@ Virtual Gunner/2 — 10
 Common Areas 401 40.1
 Cargo 317 —
 
-*The ship’s Intellect program is a TL15 prototype that approaches the
-functionality of a Conscious Intelligence. It answers to the name ‘Libby’
+*The ship's Intellect program is a TL15 prototype that approaches the
+functionality of a Conscious Intelligence. It answers to the name 'Libby'
 and may be treated as a computer-bound NPC with INT 13 and EDU
 13, with a range of skills that can be uploaded, changed and improved
 (typically in the skill level 2–4 range).

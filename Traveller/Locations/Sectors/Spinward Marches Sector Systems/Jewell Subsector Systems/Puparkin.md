@@ -21,4 +21,4 @@ Travellers are permitted to land on Puparkin. Carrying personal weapons is disco
 # PLACES OF INTEREST
 
 ## Garok
-The only settlement on Puparkin is connected to the nearby starport by a transport tube. Garok may not produce much in the way of food but the factories produce quality goods that have become popular with merchants. Energy is harnessed from the planet’s lava flows and used to power the dome.
+The only settlement on Puparkin is connected to the nearby starport by a transport tube. Garok may not produce much in the way of food but the factories produce quality goods that have become popular with merchants. Energy is harnessed from the planet's lava flows and used to power the dome.

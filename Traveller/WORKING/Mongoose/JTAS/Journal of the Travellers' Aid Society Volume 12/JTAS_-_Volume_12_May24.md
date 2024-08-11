@@ -1,4 +1,4 @@
-Welcome to the Journal of the Travellers’ Aid Society, your indispensable
+Welcome to the Journal of the Travellers' Aid Society, your indispensable
 guide to adventuring in the Far Future.
 
 Each volume is a treasure trove of information and game additions for
@@ -42,10 +42,10 @@ The
 The
 ```
 
-of the Travellers’ Aid Society
+of the Travellers' Aid Society
 
 ```
-of the Travellers’ Aid Society
+of the Travellers' Aid Society
 ```
 
 ## JJJournal
@@ -57,7 +57,7 @@ The
 ```
 
 ```
-of the Travellers’ Aid Society - Volume 12
+of the Travellers' Aid Society - Volume 12
 ```
 
 9 781913 076757
@@ -151,7 +151,7 @@ Printed in China.
 
 The
 
-of the Travellers’ Aid Society
+of the Travellers' Aid Society
 
 ## JJ
 
@@ -184,7 +184,7 @@ blacks and blues.
 
 Despite their classification as vermin, some people keep them as pets
 as they have a relatively high intelligence and require little in the way
-of care. They will eat almost anything, favouring strong flavours and
+of care. They will eat almost anything, favoring strong flavors and
 scents, and are incredibly easy to clean due to both urine and faeces
 being expelled in a single membrane-coated pellet.
 
@@ -227,21 +227,21 @@ Rumors
 
 ```
 Check Effect Information
-Investigate +0 ‘I may know a thing or two. If you have the coin...’
+Investigate +0 'I may know a thing or two. If you have the coin...'
 Investigate +2 The Travellers notice one of their possessions
 is missing. Something small and shiny. They
 see Mao scuttling away with it. With an Average
 Animals (8+) check, they might be able to track
 him back to the ship.
-Streetwise +0 ‘Information is pricy these days. Tell you what I’ll
-do, you do a little errand for me and I’ll point you
-in the right direction.’
-Streetwise +2 ‘So, you’re looking for her are ya? Last I saw
-she was rollin’ dice at the casino but that was a
+Streetwise +0 'Information is pricy these days. Tell you what I'll
+do, you do a little errand for me and I'll point you
+in the right direction.'
+Streetwise +2 'So, you're looking for her are ya? Last I saw
+she was rollin' dice at the casino but that was a
 couple of days ago. She might still be in port. If
-you see her, tell her she still owes me...’
-Streetwise +4 ‘I spotted the Wolf just recently at a local port.
-Here, let me give you directions.’
+you see her, tell her she still owes me...'
+Streetwise +4 'I spotted the Wolf just recently at a local port.
+Here, let me give you directions.'
 ```
 
 POSSIBLE ADVENTURES
@@ -253,14 +253,14 @@ give you a head start if you offer her enough coin.
 •  The Triplebrick has been grounded at a local port and the crew
 need someone who is savvy with bureaucratic matters to get the
 ship out before Kyriani returns.
-•  ‘O’ is after a specific bottle of aged whisky but the only person to own a
+•  'O' is after a specific bottle of aged whisky but the only person to own a
 bottle is a local noble who has it locked away in his private collection.
 
-KYRIANI ‘THE WOLF OF THE MARCHES’ NAKAMURA
+KYRIANI 'THE WOLF OF THE MARCHES' NAKAMURA
 
 When looking at Kyriani,
 one would never expect
-the ‘Wolf of the Marches’
+the 'Wolf of the Marches'
 to be standing before
 them. She walks with
 confidence and dresses
@@ -282,7 +282,7 @@ last 17 years working exclusively within the Spinward Marches, she
 is utterly mercenary by nature. When it comes to business, Kyriani
 is ruthless and seems to care little about who hands out the contract
 as long as the Credits are flowing in the right direction; her direction.
-Favouring an occasional visit to the local gambling establishments of
+Favoring an occasional visit to the local gambling establishments of
 whatever port she is passing through, Kyriani won the Triplebrick in a
 game of lunion stud. Her disgruntled opponent later tried to muscle and
 threaten Kyriani with a small group of hired thugs in an effort to regain
@@ -296,7 +296,7 @@ herself. Valuing the loyalty of her crew above all else, Kyriani has come
 to trust them to not only get the job done without question but have no
 qualms about getting their hands dirty in the process.
 
-###### KYRIANI ‘THE WOLF OF THE MARCHES’ NAKAMURAKYRIANI ‘THE WOLF OF THE MARCHES’ NAKAMURA
+###### KYRIANI 'THE WOLF OF THE MARCHES' NAKAMURAKYRIANI 'THE WOLF OF THE MARCHES' NAKAMURA
 
 ```
 SPECIES GENDER
@@ -323,7 +323,7 @@ EQUIPMENT Weapons: Gauntlet Laser, Laser Sniper Rifle
 Armor: Diplo Vest (+3), Protec Suit (+4)
 ```
 
-NATAYA ‘NAT’ CLASS
+NATAYA 'NAT' CLASS
 The youngest sophont of
 the crew, Nat is the main
 pilot and astrogator of the
@@ -362,14 +362,14 @@ way when she accrued enough knowledge to make it on her own.
 That was seven years ago.
 
 With long dark hair tied back into a ponytail, an old leather jacket
-which she insists ‘looks cool’, and still young at the age of 23, Nat is
+which she insists 'looks cool', and still young at the age of 23, Nat is
 now an integral part of the crew. She spends her free time soaking
 up as much knowledge as she can about Charted Space and has
 shown a natural affinity for piloting starships. She idolises Kyriani
 and despite sometimes trying to imitate her cold demeanour, she
 often fails miserably and reverts to child-like excitement.
 
-###### NATAYA ‘NAT’ CLASSNATAYA ‘NAT’ CLASS
+###### NATAYA 'NAT' CLASSNATAYA 'NAT' CLASS
 
 ```
 SPECIES GENDER
@@ -396,7 +396,7 @@ Equipment: Pocket Computer/3 with Database
 and Digital Friend
 ```
 
-ODUGARRESSAK ‘O’ VAKULLAKKEGUNG
+ODUGARRESSAK 'O' VAKULLAKKEGUNG
 Odugarressak has spent
 most of his life as a pirate,
 despite the fact that as an
@@ -431,7 +431,7 @@ In dire need of a crew for her ship, Kyriani demanded his services
 in exchange for her wounded ego and, since that day 16 years ago,
 Odugarressak has been the engineer of the Triplebrick. With his
 greying hair and consistent grumbling, the Vargr has been adopted as
-the ‘father’ of the ship. Affectionately known as ‘O’, the crew frequently
+the 'father' of the ship. Affectionately known as 'O', the crew frequently
 go to him for his no-holds-barred advice. Even Kyriani appreciates
 his experience and council and, over the years, Odugarressak has
 grown to respect her deeply. In fact, she is the only person to whom
@@ -444,7 +444,7 @@ ship, he can usually be found in his hammock, lounging with Mao on
 his lap, a hip flask of expensive whisky in hand and watching whatever
 holovid movies he can find.
 
-###### ODUGARRESSAK ‘O’ VAKULLAKKEGUNGODUGARRESSAK ‘O’ VAKULLAKKEGUNG
+###### ODUGARRESSAK 'O' VAKULLAKKEGUNGODUGARRESSAK 'O' VAKULLAKKEGUNG
 
 ```
 SPECIES GENDER
@@ -471,7 +471,7 @@ Armor: Diplo Vest (+3), Cloth Armor (+8)
 Equipment: Engineering Toolkit
 ```
 
-ESRIANKA ‘ESRI’ ERLING
+ESRIANKA 'ESRI' ERLING
 Born and raised on Joyeuse
 in the Sword Worlds, Esri was
 conscripted into the military
@@ -501,7 +501,7 @@ was sheer luck that the one
 she found was also offering
 a job for a decent gunner.
 
-Standing at a height of 6’4” and with a brawny build, Esri is an imposing
+Standing at a height of 6'4” and with a brawny build, Esri is an imposing
 woman. Whilst she does not always agree with the nature of some
 of the contracts the Triplebrick takes, she has found a home and
 extended family amongst the ship and its crew. Her acceptance has
@@ -509,7 +509,7 @@ only solidified her decision and, despite the occasional run-in with the
 authorities when doing jobs within the Sword Worlds Confederation,
 Kyriani considers this a small price to pay for such an effective soldier.
 
-###### ESRIANKA ‘ESRI’ ERLINGESRIANKA ‘ESRI’ ERLING
+###### ESRIANKA 'ESRI' ERLINGESRIANKA 'ESRI' ERLING
 
 ```
 SPECIES GENDER
@@ -548,15 +548,15 @@ It was almost three months before Mao would take food from his hand
 and another two before Mao would let himself be stroked without
 screaming and puffing O in the face with an obnoxious cloud of vapour.
 Despite several attempts to vacate him from the ship, O has recently
-put his foot down on the matter, stating that ‘If the rat goes, I go!’ After
+put his foot down on the matter, stating that 'If the rat goes, I go!' After
 this declaration, no more attempts have been made to remove Mao
 from the Triplebrick.
 
-Despite the crew’s eagerness to throw him out of the nearest airlock,
+Despite the crew's eagerness to throw him out of the nearest airlock,
 attempts have been made on his part to make more friends out of the
 people who frequent the area around his home. He regularly brings
 Kyriani bits of dead bug, which he leaves in her bed in case she gets
-hungry during the night, he dips his tentacles in Esri’s morning coffee
+hungry during the night, he dips his tentacles in Esri's morning coffee
 to make sure it is not too hot for her, which she never appreciates, and
 
 some evenings he will just sit in the corner of a room and sing to Nat.
@@ -567,17 +567,17 @@ Magpie-like in nature, Mao is a thief and infatuated with anything
 shiny. He steals trinkets from throughout the ship to decorate his nest,
 usually the possessions of the crew or baubles from whatever port the
 ship is currently frequenting. Once or twice a month, O needs to climb
-into the bowels of the ship to clean out Mao’s ‘lair’ and on numerous
+into the bowels of the ship to clean out Mao's 'lair' and on numerous
 occasions some very odd things have been found, including a Cr
 casino chip from a casino that nobody remembers visiting, a solid
 gold button with what looks like a royal emblem embossed into it and
-somebody’s cybernetic eye.
+somebody's cybernetic eye.
 
 These days, Mao has learned to recognize his name when called but
-he only ever comes scuttling along when it is O’s voice that calls him.
-He spends most evenings laid on O’s chest, sleeping off a full belly
+he only ever comes scuttling along when it is O's voice that calls him.
+He spends most evenings laid on O's chest, sleeping off a full belly
 of whatever spicy food that O had decided to cook that evening and
-making soft, happy ‘nyeek nyeek’ noises whilst O rants about how
+making soft, happy 'nyeek nyeek' noises whilst O rants about how
 terrible the acting is in the holovid he is watching.
 
 Mao
@@ -608,8 +608,8 @@ When scanned by Imperial ships, the true nature of this ship is not
 clear but the forced linkage apparatus and breaching tube imply a
 darker purpose. Charismatic as ever, Captain Nakamura is a delight
 when dealing with any officials she encounters but the underworld
-knows another side of her. Dubbed the ‘Wolf of the Marches’,
-Nakamura’s reputation precedes her wherever she travels.
+knows another side of her. Dubbed the 'Wolf of the Marches',
+Nakamura's reputation precedes her wherever she travels.
 
 **The Triplebrick**
 
@@ -816,7 +816,7 @@ grow horns from their temples, about half as long, to as long, as their
 heads, although some Caprisaps shorten or entirely remove them.
 Buds appear around six months to a year, with full length achieved
 around puberty, making short but extant horns a symbol of childhood.
-Horns continue to grow throughout a Caprisap’s lifetime but become
+Horns continue to grow throughout a Caprisap's lifetime but become
 thicker each year instead of longer. If damaged but not permanently
 removed, they grow back to the original length over the course of a
 year but may not be as thick until many years later.
@@ -901,11 +901,11 @@ is credited as a by-product of their low reproduction rate (despite
 fraternal twins and triplets being common), rarely becoming a sizeable
 portion of any colony. Most Caprisaps are born in space and, including
 time in jumpspace and on space stations, spend the majority of their
-lives off planet. What few large Caprisap ships exist are primarily ‘herd
-arks’, essentially large migratory residences that act as motherships for
+lives off planet. What few large Caprisap ships exist are primarily 'herd
+arks', essentially large migratory residences that act as motherships for
 workers that venture across a system to support their family.
 
-Caprisaps have been pejoratively labelled ‘garbage disposals’ due
+Caprisaps have been pejoratively labelled 'garbage disposals' due
 to their ability to digest a staggeringly broad range of substances.
 When left to their own devices, Caprisap chefs tend to come up
 with dishes that other species judge anywhere from unappetising to
@@ -978,43 +978,43 @@ crewmembers with skills matching the Travellers are violently ill and
 out of action for at least two weeks. Milo needs to finish his practice
 run and return to Corella via Chulte in time for the start of the rally. The
 Travellers are the best crew available at the port and Milo promises
-them employment at least back to Corella, with one month’s salary paid
+them employment at least back to Corella, with one month's salary paid
 in advance and two months total salary as a minimum. Well-qualified
-crewmembers who ‘work out’ may be asked to remain as crew for the
+crewmembers who 'work out' may be asked to remain as crew for the
 rally but this is entirely optional, as Milo says he is sure to be able to
 find qualified crew back at Corella.
 
-The ship’s normal complement is six crew: pilot, astrogator, medic, two
+The ship's normal complement is six crew: pilot, astrogator, medic, two
 engineers and a steward. The yacht has two turrets for self-defence
 but does not carry dedicated gunners. Milo is a good pilot, passible
 astrogator and can operate the turrets and drives in a pinch. The
 ship has six staterooms for the crew, a luxury suite for Milo and two
 unoccupied high staterooms for guests.
 
-The jump-2 ship’s itinerary from Centrum is for gas giant refuelling at
+The jump-2 ship's itinerary from Centrum is for gas giant refuelling at
 Garr (diverted to the planet if the Travellers sign up there), a gas giant
-refuelling at Chulte and then a jump in towards Corella’s orbital starport.
+refuelling at Chulte and then a jump in towards Corella's orbital starport.
 The ship is capable of early jumps and 9G acceleration, and Milo
 intends to push Excelsior II to its limits all the way back.
 
 Emerging at Chulte, the ship dives in for a fast refuelling at the medium-
-sized gas giant that sits inside the edge of the M1-type star’s 100
+sized gas giant that sits inside the edge of the M1-type star's 100
 diameter limit but Excelsior II can jump safely at 80 diameters and
-emerges seven million kilometres from the gas giant, a five-hour flight in.
+emerges seven million kilometers from the gas giant, a five-hour flight in.
 
 Chulte (B310555-B) is a moon of this gas giant and orbits 1,500,000
-kilometres above its clouds. As Excelsior II enters the gas giant’s
+kilometers above its clouds. As Excelsior II enters the gas giant's
 atmosphere and begins a rapid refuelling run in the Deep region, it
-receives a distress call from the trader Brannigan’s Virtue, which has
+receives a distress call from the trader Brannigan's Virtue, which has
 experienced turbulence and engine trouble during refuelling. Excelsior
-II is within 5,000 kilometres and the only hope of rescuing the crew or
+II is within 5,000 kilometers and the only hope of rescuing the crew or
 saving the ship.
 
-REFEREE’S INFORMATION
+REFEREE'S INFORMATION
 Roll 1D or choose from one of the options below:
 
-1: All is as stated. Flying within the gas giant’s atmosphere limits even
-the aerofin-equipped Excelsior II to 2,500 kilometres per hour but if
+1: All is as stated. Flying within the gas giant's atmosphere limits even
+the aerofin-equipped Excelsior II to 2,500 kilometers per hour but if
 the Travellers do not suggest it, Milo will insist on performing a ballistic
 hop in and out of the atmosphere, which will cut travel time from two
 hours down to 18 minutes (three space combat rounds). Hopping
@@ -1029,7 +1029,7 @@ another attempt to cross the level after considering the time lost by the
 Effect. See the Traveller Companion pages 155–157 for more detailed
 rules on gas giant flight dynamics but the gist is covered here.
 
-Brannigan’s Virtue is a Soho-class light freighter (see JTAS Volume
+Brannigan's Virtue is a Soho-class light freighter (see JTAS Volume
 1 , page 76). The crew has managed to restart the fusion plant at half
 power, which is not enough to do more than maintain minimal life
 support and less than 1G acceleration. The power plant is currently
@@ -1049,8 +1049,8 @@ turbulence and pressure.
 
 The ships can manage a docking attempt with an Average (8+) Pilot
 check (1D minutes, DEX), with negative DMs associated with the gas
-giant layer. It is a Difficult (10+) task if Brannigan’s Virtue loses power
-completely. The Brannigan’s five crewmembers can be evacuated in a
+giant layer. It is a Difficult (10+) task if Brannigan's Virtue loses power
+completely. The Brannigan's five crewmembers can be evacuated in a
 single space Combat Round.
 
 Each Attempt to repair the power plant takes one round using rules in
@@ -1068,12 +1068,12 @@ with an Average (8+) Pilot check at each level with appropriate DMs
 at each layer: Depths (-4), Extreme Deep (-3), Deep (-2), Shallow
 (-1), Extreme Shallow (DM+0) and Wisp (no check assuming at least
 Thrust 1 available). Reaching the Extreme Shallows allows enough
-time for a rescue craft from the starport to arrive and put Brannigan’s
+time for a rescue craft from the starport to arrive and put Brannigan's
 Virtue under tow.
 
 If the Travellers assist in rescuing the crew but do not save the ship,
 they will receive the thanks of crew and starport authority and get free
-drinks in bars for some time. If they assist in recovering Brannigan’s
+drinks in bars for some time. If they assist in recovering Brannigan's
 Virtue, they will receive Cr10000 each from the owners and temporarily
 be treated as heroes throughout the Corellan League as the news
 spreads. Exceptional work in the rescue will make Milo likely to offer
@@ -1081,11 +1081,11 @@ them a permanent position even if they are not the most skilled
 individuals available for the next Navarre Rally.
 
 2: All is stated as in 1 but there are also five passengers aboard
-Brannigan’s Virtue, doubling the time required for evacuation. The
+Brannigan's Virtue, doubling the time required for evacuation. The
 passengers may panic in the process, adding further complications.
 
 3–4: All is as stated in 2 but there are also four low passengers aboard
-Brannigan’s Virtue. To physically remove the low berths requires an
+Brannigan's Virtue. To physically remove the low berths requires an
 Average (8+) Mechanic check (1D hour, INT or EDU). To revive a low
 passenger requires a Medic check as per the Traveller Core Rulebook,
 page 149, which can be rushed by making it one level more difficult.
@@ -1093,11 +1093,11 @@ The low berths are TL12. Rescuing the low passengers from a failing
 ship is the right thing to do but adds no additional reward beyond the
 gratitude of those passengers rescued.
 
-5: The entire incident is a ruse. Once aboard the Brannigan’s Virtue,
-the ship’s engineer is able to completely ‘fix’ the power plant, although
+5: The entire incident is a ruse. Once aboard the Brannigan's Virtue,
+the ship's engineer is able to completely 'fix' the power plant, although
 the ship really has taken 16 points of damage and Severity 1 critical hits
 to a turret and its armor, so it is possible the incident could become
-real if it takes too long to begin the ‘rescue’. The entire purpose of the
+real if it takes too long to begin the 'rescue'. The entire purpose of the
 operation is to allow the transfer of 20 kilograms of illicit drugs onto
 Excelsior II, since the ship was cleared through to Corella by customs
 officials at its last departure as it was not expected to make any stops
@@ -1105,18 +1105,18 @@ officials at its last departure as it was not expected to make any stops
 before reaching Corella. Milo will board the Brannigan and make the
 transfer by replacing his life support unit with the hidden drugs. This
 allows him only 15 minutes of breathable air, which could become an
-issue if the ruse goes awry. The Travellers may notice the Brannigan’s
+issue if the ruse goes awry. The Travellers may notice the Brannigan's
 power plant was not really damaged – with a Difficult (10+) Engineer
 (power) check – or the transfer on a Difficult (10+) Recon check, or may
 otherwise become suspicious. In any event, Milo is likely to try some
 other smuggling ruse in the future if the Travellers remain in his employ.
 
-6: The entire incident is a ruse. The crew of the Brannigan’s Virtue are
+6: The entire incident is a ruse. The crew of the Brannigan's Virtue are
 mercenaries hired to remove Excelsior II from the race. Their ship is
 partially damaged as in 5 but they will attempt to hijack and scuttle the
 Excelsior II and kill its crew. The six mercenaries are equipped with
 boarding vacc suits and accelerator rifles. The Excelsior II has standard
-TL12 vacc suits for each crewmember. The Excelsior II’s ship’s locker is
+TL12 vacc suits for each crewmember. The Excelsior II's ship's locker is
 equipped with one shotgun, one accelerator rifle, four snub pistols and
 four TL12 stunners. Milo is armed with a diamond-tipped duelling foil.
 
@@ -1124,12 +1124,12 @@ MILO VAN ULRIK
 Milo Van Ulrik is the son of Rupert Van Ulrik of House Ulrik – the
 famed five-time winner of the Navarre Rally who was lost with his
 ship Excelsior in 1087 while attempting a risky jump above Hilkiah,
-Jeremiah’s gas giant.
+Jeremiah's gas giant.
 
-The head of House Ulrik is Milo’s Aunt Eveline Van Ulrik and although
+The head of House Ulrik is Milo's Aunt Eveline Van Ulrik and although
 Milo has an executive position in the Ulrik-Passergin Shipping
 Consortium, he is unlikely to gain a leadership position in the family
-enterprise. He is, however, extremely wealthy. Following in his father’s
+enterprise. He is, however, extremely wealthy. Following in his father's
 footsteps, he commissioned the Excelsior II racing yacht and used it to
 win six of the seven Navarre Rallies he has contested since 1095.
 
@@ -1179,7 +1179,7 @@ When Milo drinks, he
 begins to grow paranoid,
 blaming the deaths of his
 father and his fiancé on
-unspecified ‘enemies’ and
+unspecified 'enemies' and
 muttering about revenge.
 
 ###### MILO VAN ULRIKMILO VAN ULRIK
@@ -1215,13 +1215,13 @@ The Excelsior II is a ship built with a single purpose; winning the
 Navarre Rally, an annual seven-jump race between Corella and
 Navarre. Designed by the famed Heraklion Yard, it is a state-of-the-art
 replacement for the original Excelsior, lost in 1087 after a presumed
-misjump from 12 diameters above Jeremiah’s gas giant Hilkiah.
+misjump from 12 diameters above Jeremiah's gas giant Hilkiah.
 
 Completed in 1093, Excelsior II – as it is commonly known – defeated
 its nearest rival by nearly three full days in its first Navarre Rally in 1095
 utilising a combination of an extremely fast maneuver drive, rapid
 atmospheric transits, fast fuel processing and a custom-tuned jump
-drive. While Milo has not repeated his father’s rashness of jumping far
+drive. While Milo has not repeated his father's rashness of jumping far
 too close to a planet with only partially refined fuel, he has used every
 technological advantage and an expert crew to win six of the seven
 rallies in which he competed, only prevented from a perfect record
@@ -1239,14 +1239,14 @@ from the bottom of a gravity well.
 
 Heraklion architects did not neglect design considerations with the
 Excelsior II. The ship resembles a sleek sunfish, with vertical fins
-stretching 78 metres tip-to-tip a body only 56 metres long. The hull is
+stretching 78 meters tip-to-tip a body only 56 meters long. The hull is
 essentially an extremely elongated sphere with a varying-width cylindrical
-cross-section, reaching nine metres maximum diameter, with two decks
-accessible from the bridge by stair. The bridge and forward owner’s suite
+cross-section, reaching nine meters maximum diameter, with two decks
+accessible from the bridge by stair. The bridge and forward owner's suite
 on the upper deck are topped with transparent crystaliron, delivering
 an uninterrupted view of space. The lower deck is cramped, with crew
 staterooms abutting the curved hull but the upper deck is spacious, with
-two high staterooms in addition to the owner’s luxury suite.
+two high staterooms in addition to the owner's luxury suite.
 
 A small pressurised cargo bay with vehicle loading lift separates the
 lower deck living quarters from the engineering compartment. The
@@ -1456,7 +1456,7 @@ The Valiant series of grav saloons – basically fancy enclosed grav
 cars – benefits from cross-over with some combat lines, providing
 basic armor and security systems as well as an active multi-chromatic
 camouflage system normally programmed for flashy colour schemes,
-artwork or logos on the saloon’s sleek hull.
+artwork or logos on the saloon's sleek hull.
 
 The base model provides life support, vacuum protection, grav chute
 ejection systems and a sophisticated electronics suite. Available
@@ -1544,9 +1544,9 @@ alpha particle every few seconds. This alpha particle collides with one
 of the facets of the crystal, causing that facet to fluoresce. Gamblers
 bet on which facet will be the next to flash.
 
-Hiver’s Chess: Technically, this is a game of skill from Hiver space but
+Hiver's Chess: Technically, this is a game of skill from Hiver space but
 the rules are so complex as to be utterly incomprehensible to humans.
-Therefore, Hiver’s chess is normally played as a game of chance, with
+Therefore, Hiver's chess is normally played as a game of chance, with
 players moving pieces almost at random until one of them wins.
 
 GAMES OF SKILL
@@ -1557,7 +1557,7 @@ the tablet. Two players put the tablet between them and both try to push
 it over using the power of their mind alone.
 
 A common variant of this game replaces the tablet with a playing card
-and puts the playing card on top of a bottle of alcohol (typically, that ‘ol
+and puts the playing card on top of a bottle of alcohol (typically, that 'ol
 Janx spirit). The loser takes a drink.
 
 **Zero-G Dicing:** Dice games are games of pure chance, except in zero
@@ -1565,7 +1565,7 @@ gravity. It takes tremendous skill and dexterity to throw a pair of dice so
 they come to rest on a surface instead of just bouncing around the cabin.
 
 Lunion Stud: A variant on poker, Lunion Stud is played using the standard
-spacer’s deck (suits of Ships, Suns, Blades and Coins, cards from Ace (or
+spacer's deck (suits of Ships, Suns, Blades and Coins, cards from Ace (or
 Low), 2, 3, 4, 5, 6, 7, 8, 9, 10, Knight, Empress and Emperor).
 
 WAGERS
@@ -1606,8 +1606,8 @@ clothing cannot match.
 
 None of the garments listed here are described in particular detail
 because the range of styles, patterns and colours is effectively limitless.
-Where one culture’s suit may comprise of shirt, jacket and trousers,
-another may favour wearing kilts or one-piece jumpsuits.
+Where one culture's suit may comprise of shirt, jacket and trousers,
+another may favor wearing kilts or one-piece jumpsuits.
 
 NOBLES AND CLOTHING
 Travellers with noble rank, or who enjoy celebrity, must look the part
@@ -1638,7 +1638,7 @@ Ball Gown 3 6 Cr1500
 
 Business Suit: Whether attending meetings or working at the office,
 the business suit is ubiquitous with white collar workers throughout
-the galaxy. Wearing a suit automatically demonstrates one’s rank and
+the galaxy. Wearing a suit automatically demonstrates one's rank and
 position in the workplace.
 
 ```
@@ -1932,7 +1932,7 @@ this versatile platform is capable of bombing targets from high altitude
 whilst remaining undetected. It is faster and cheaper to operate than an
 aircraft carrier, with the ability to strike targets further inland.
 
-One third of the airship’s cabin is hangar space, which can deploy and
+One third of the airship's cabin is hangar space, which can deploy and
 retrieve six light fighters or three conventional dropships via its heavy
 crane or be converted to a bomb bay with a capacity for 30 medium
 bombs, 15 heavy bombs or one devastating earthquake bomb.
@@ -2056,7 +2056,7 @@ surface and climate.
 
 A dedicated laboratory is available for conducting atmospheric
 experiments, while a full-time engineer maintains the seals vital to
-protecting the crew during a 90-day tour. Afterwards, the crew’s data is
+protecting the crew during a 90-day tour. Afterwards, the crew's data is
 collected and the balloon is retrieved or discarded.
 
 #### TravellingTravelling
@@ -2079,7 +2079,7 @@ characters to do tomorrow?
 The equivalent in Traveller can occur when the Travellers are all
 equipped with battle dress and a full set of psionic powers, flying
 around in a super-starship or leading a veritable army of minions. One
-question that leaps to mind is ‘why are these people Travelling?’. They
+question that leaps to mind is 'why are these people Travelling?'. They
 could be doing something safer and more productive whilst their vast
 wealth pays for someone to do whatever it is needs doing. Assuming
 the Travellers want to continue adventuring, what is there for them to
@@ -2105,7 +2105,7 @@ can thus be countered by paying attention to what can realistically be
 achieved by a given check.
 
 It is worth considering the implications of a given check. Causing a
-relatively minor change in the subject’s outlook seems entirely plausible
+relatively minor change in the subject's outlook seems entirely plausible
 and this could be built upon over time. Likewise, defeating the security
 on a door is entirely acceptable as the outcome of a single check.
 However, it is not reasonable to use a single check to open all the
@@ -2118,7 +2118,7 @@ actively work against the Travellers.
 The bigger picture must also be considered. The Travellers might
 convince a government official to help them but that official is part of
 a much larger organization. This creates inertia, in the sense that the
-official’s actions will be noticed and opposed by others. The Travellers
+official's actions will be noticed and opposed by others. The Travellers
 might somehow talk the planetary defence minister into giving them the
 exclusive contract to ship arms into the world but that does not mean
 they will actually get the contract. It must still be pushed through the
@@ -2133,13 +2133,13 @@ and others will produce rather minor results. However, working towards
 a goal in a gradual manner will spawn adventures and roleplaying
 opportunities. Travellers who are permitted to cause enemy warships to
 defect with a single skill check will soon begin to suffer campaign bloat,
-whereas those who work to suborn the vessel’s officers over time will
-eventually achieve a result without breaking the game’s setting.
+whereas those who work to suborn the vessel's officers over time will
+eventually achieve a result without breaking the game's setting.
 
 The second reason for campaign bloat is allowing Travellers to have
 everything they want, usually as a result of too much money. One
 common cause of death for campaigns is the deadlock between
-Travellers refusing to do anything without asking ‘what’s in it for me?’
+Travellers refusing to do anything without asking 'what's in it for me?'
 and the need to give them ever-increasing amounts of money. This in
 turn leads to a situation where the Travellers can buy anything they
 need and require even more cash to motivate them.
@@ -2157,7 +2157,7 @@ The Travellers may have a pile of Credits but they must either part with
 an eye-wateringly high percentage of it – which might still require the
 right connections – or obtain some other component of the procurement
 process such as permits or contacts. This small shift in mindset from
-success as the ‘ability to buy things’ to ‘ability to obtain things’ can
+success as the 'ability to buy things' to 'ability to obtain things' can
 change the value of Credits and creates a whole new array of possible
 rewards. Travellers might be flying a starship crammed full of money
 but if they still cannot get the upgrades they want, the Credits have a
@@ -2171,7 +2171,7 @@ desirable items, the Referee can implement a whole new set of possible
 rewards for the Travellers, requiring them to undertake missions in
 order to obtain a contact, then more missions to develop a relationship
 with the contact before finally they can buy what they want – at an
-inflated price of course. This is not in any way ‘robbing’ the Travellers; it
+inflated price of course. This is not in any way 'robbing' the Travellers; it
 is a reflection of reality. A rich real-world person might be able to afford
 to have an expensive car imported but would realistically expect to pay
 more for it than if it were common in their home region. No matter how
@@ -2198,19 +2198,19 @@ path, perhaps having extra adventures along the way. If there is no way
 to survive the coming ice storm in the open, the Travellers may decide
 to take shelter in the curiously-shaped building they have found. If they
 cannot resist the advancing enemy platoon, they will have to take their
-chances with the alien base’s defence systems.
+chances with the alien base's defence systems.
 
 This sort of push, clock or barrier is a staple of Traveller adventures,
 and fiction in general, but can be impossible to implement if the
 Travellers are overpowered. The Travellers might be up against a tight
 time frame if they have to reach the starport before the overpowering
 enemy force gets there... but if they outgun the entire planetary army
-there is no urgency and therefore little drama. By limiting the Travellers’
+there is no urgency and therefore little drama. By limiting the Travellers'
 resources, the Referee can create more plot opportunities or limit the
 ability of the Travellers to simply push them aside.
 
-This is not to say the Travellers should not have access to the ‘big
-toys’. If they want psionics or battle dress, getting them can spawn
+This is not to say the Travellers should not have access to the 'big
+toys'. If they want psionics or battle dress, getting them can spawn
 adventures without much creative effort on the part of the Referee.
 Battle dress is heavily restricted, so the Travellers will have to decide
 whether to go down the legal path or get armor any way they can.
@@ -2252,7 +2252,7 @@ generating their own adventures.
 Eventually, if the Travellers put in enough effort, they will get what
 they want or at least a part of it. This represents growth rather than
 bloat, if it is handled correctly. It will also lead to new adventures.
-The Travellers’ quest for psionic testing might lead on to a new mini-
+The Travellers' quest for psionic testing might lead on to a new mini-
 campaign where they follow rumors of lost techniques or obscure
 teachers. This represents a curious situation in which the Travellers
 have set themselves a goal, achieved it and become sufficiently
@@ -2263,9 +2263,9 @@ their new advantages. The reason this is growth rather than bloat is that
 the process is gradual and the Travellers have had to work hard to get
 where they wanted to be.
 
-Ultimately, putting the brakes on campaign bloat is in everyone’s interest.
+Ultimately, putting the brakes on campaign bloat is in everyone's interest.
 Almost everyone, anyway. There will always be those who just want to
-‘win’ the current adventure and move on to the next set of loot drops.
+'win' the current adventure and move on to the next set of loot drops.
 
 #### AdventureAdventure
 
@@ -2278,7 +2278,7 @@ after its position has been extracted from the citadel database captured
 in the Alpha 0607 system. The events take place in the Near Side
 of Yonder chapter of the Deepnight Revelation campaign. After the
 conquest, the position of the lost Erline home planet is found deep
-within the ship’s data banks. As the Prime Citadel was built here, it can
+within the ship's data banks. As the Prime Citadel was built here, it can
 be assumed that knowledge surrounding the issues met by the Erline
 may remain.
 
@@ -2336,7 +2336,7 @@ taking all measures possible to preserve the Erline species. Other
 citadels are still being built with the goal of eradicating the disease
 suffered by the Erline and once completed will begin their patrol
 flights catapulting between stars. Never being designed to multiply
-systematically, the shipyard it built was not optimised for efficiency,
+systematically, the shipyard it built was not optimized for efficiency,
 taking decades to complete a new citadel. Due to their lack of a natural
 lifespan and careless respect for time, over the last millennia over 100
 newer citadels have been built, the majority of which are still active.
@@ -2371,7 +2371,7 @@ not allow for it to deduce the nature of the problem, instead it devised
 new protocols through trial and error to communicate with those inside.
 Once it was clear what the inhabitants lacked, it was easy to produce
 the necessary items for their survival. In the course of the mutual
-communication efforts, the remaining information from the colonies’
+communication efforts, the remaining information from the colonies'
 databases was copied to the Prime Citadel.
 
 Analysis of this data revealed that the colonists did not exist in ideal
@@ -2389,14 +2389,14 @@ THE HABITAT
 To create an ideal living space for the colonists, the Citadel drew on
 concepts found in old Erline databases; a cylindrical artificial habitat
 created inside a large asteroid. The chunk of rock chosen to realise its
-endeavor is ellipsoidal with a diameter of 3.4 kilometres and a length
-of 5.7 kilometres. The cylindrical cavity measures just over a kilometre
-in diameter and is over three kilometres long. Work to complete it took
-more than a century, followed by decades of optimising life support and
+endeavor is ellipsoidal with a diameter of 3.4 kilometers and a length
+of 5.7 kilometers. The cylindrical cavity measures just over a kilometer
+in diameter and is over three kilometers long. Work to complete it took
+more than a century, followed by decades of optimizing life support and
 cultivating vegetation suitable for sustaining life.
 
 Lighting within the habitat comes from a tubular filament pulled through
-the centre of the cavity, with no natural light reaching the interior. There is
+the center of the cavity, with no natural light reaching the interior. There is
 no artificial gravity, with external thrusters keeping the asteroid in a precise
 rotation that creates the illusion of such within at a measurement of 0.9G.
 
@@ -2441,7 +2441,7 @@ similarities to Erline ships, and one could be from the Sovreigndoms,
 but the other ship types are unknown.
 
 Should the Travellers wish to examine these spaceships more closely,
-the Prime Citadel will not prevent them from doing so. Four of the ship’s
+the Prime Citadel will not prevent them from doing so. Four of the ship's
 engines have been destroyed by targeted fire and traces of a battle can
 be found onboard. From the data memories their age and origin can be
 determined with some effort; the oldest has apparently been here for
@@ -2483,11 +2483,11 @@ oriented analysis of the data.
 Some time after the delegation has made contact, the Citadel demands
 that the Erline – after a quarantine period of at least two years – move
 to the safety of the habitat. A negative answer is not accepted, because
-only in the habitat are the Erline truly safe. The Travellers’ ship sensors
+only in the habitat are the Erline truly safe. The Travellers' ship sensors
 detect a sudden appearance of energy signatures all over the asteroid
 belt, as many pieces of rock have been rigged into small armed drones
 and are now being activated. These drones try to cut off the Deepnight
-Revelation’s path and shoot it out of maneuver but they are slow
+Revelation's path and shoot it out of maneuver but they are slow
 compared to the ship and the Citadel is more concerned with pressing
 its case than causing serious damage.
 
@@ -2495,7 +2495,7 @@ DEALING WITH THE CITADEL
 An armed confrontation with the Prime Citadel would of course be
 conceivable but it has so many resources in the system that such
 an option would be lengthy and dangerous, despite the Deepnight
-Revelation’s technical superiority.
+Revelation's technical superiority.
 
 One possibility would be to hack into the Citadel, as by now the
 Travellers know the computer code of the citadels and could smuggle
@@ -2516,7 +2516,7 @@ Citadel. This can only be done by feeding it extensive data material,
 that when analysed might lead to a change of its assessment of the
 situation. For example, Travellers could share earlier findings on
 the Deepnight Entity, pointing to the data that rests unused in the
-Citadel’s databases. Alternatively, they could share knowledge on
+Citadel's databases. Alternatively, they could share knowledge on
 how to detect infections with the Deepnight Entity, using observation
 of an ecosphere and measuring biochemical and medical cues.
 This would allow the Citadel to improve its detection routines of an
@@ -2525,7 +2525,7 @@ uncompromisingly violent approach.
 
 WHAT COULD BE GAINED
 The Erline people stand to gain the history of their origins, for much
-of this information can be recovered from the Citadel’s data stores.
+of this information can be recovered from the Citadel's data stores.
 Additionally, the mentally neglected Erline of the habitat could be freed
 from their captivity or at least slowly brought back into a caring society
 through intensive psychological care.
@@ -2562,7 +2562,7 @@ possible to fulfil their own mission?
 
 By Carl Walmsley
 
-Starports fit into one of five classifications designated by the Travellers’
+Starports fit into one of five classifications designated by the Travellers'
 Aid Society. Within each class, they share certain features, allowing
 visitors to anticipate the types and levels of service available.
 
@@ -2634,7 +2634,7 @@ space for traders to store cargo – 1,000 tons capacity is standard.
 Simple repair work may be carried out, although there is often a
 delay of a few hours before this can begin. A few of the more down-
 at-heel starports will maintain a scrap yard but this lends the port an
-unfortunate ‘Class E air’ and is therefore usually avoided.
+unfortunate 'Class E air' and is therefore usually avoided.
 
 CLASS C
 Starports in this class see a regular flow of traffic and are equipped
@@ -2655,7 +2655,7 @@ there is an atmosphere.
 
 A starport in this Class will be equipped with a purpose-built HQ
 complex, housing flight and traffic control, customs and other essential
-services. The port’s communications and radar network is sophisticated
+services. The port's communications and radar network is sophisticated
 enough to facilitate multiple take-offs and landings, and offer guidance
 to incoming ships.
 
@@ -2679,7 +2679,7 @@ slows down the process.
 CLASS B
 Once a starport reaches this size, it becomes a significant hub within
 the local – and even planetary – economy. Many Class B starports
-are at the centre of a major, and possibly capital, city. They contain
+are at the center of a major, and possibly capital, city. They contain
 hundreds of landing pads of various shapes and sizes, most of which
 have hangers fitted with dedicated storage and unloading facilities.
 A Class B starport is large enough to be a settlement in itself and
@@ -2692,7 +2692,7 @@ shipyard, capable of producing spacecraft and small craft. This, in turn,
 provides excellent repair facilities.
 
 There is no standard design for a Class B starport but the downport
-usually spans an area of at least one square kilometre and may well
+usually spans an area of at least one square kilometer and may well
 include a range of underground areas. Around this a startown will
 almost certainly have sprung-up, covering an area that is at least as
 large as the port itself.
@@ -2717,7 +2717,7 @@ destinations in their own right.
 
 At this size, some starports begin to suffer problems with organised
 crime. The mixture of profitable businesses and a steady supply of
-‘easy marks’ provides an attractive environment for all sorts of illegal
+'easy marks' provides an attractive environment for all sorts of illegal
 activity. Accordingly, the port will operate a range of undercover
 operations to deter or unearth organised crime.
 
@@ -2758,7 +2758,7 @@ unlimited supply of spare parts is readily available, often at a reduced
 price. This is a result of the fierce competition and the never-ending
 scale of demand.
 
-The starport’s commercial shipyard ensures that all sorts of ships are
+The starport's commercial shipyard ensures that all sorts of ships are
 available for purchase – from compact lighters to colossal capital ships.
 Alongside these gleaming new models, a healthy trade in reconditioned
 and second-hand craft tends to thrive, with ships available to suit every
@@ -2780,7 +2780,7 @@ amazing what you can find.
 
 Accommodation is readily available, often at a reasonable rate. Many
 hotels include super-casinos and make enough profit at the gaming
-tables to subsidise the price of rooms. There are, of course, more
+tables to subsidize the price of rooms. There are, of course, more
 exclusive suites that will set guests back thousands of Credits a night. In
 return, visitors can enjoy an exceptional quality of service, with access to
 exotic delicacies that only a hub of galactic trade can hope to provide.
@@ -2798,18 +2798,18 @@ Such people invariably end up in a startown – a shabby, generally
 unplanned settlement that rises from the dust surrounding a starport.
 Lacking the glitz or respectability of most starports, these towns provide
 cheaper versions of the goods and services available within the port.
-Many of these are only ‘semi-legal’ (a popular phrase among those who
+Many of these are only 'semi-legal' (a popular phrase among those who
 ply their trade in a startown) and available at knock-down prices. It is
 fair to say that most are stolen or faulty and there are no guarantees
 included – at least, none worth the paper they are written on. Still, in a
-startown the old adage ‘buyer beware’ is a maxim that people live by.
+startown the old adage 'buyer beware' is a maxim that people live by.
 
 In an effort to prevent the growth of a startown, some governments
 liaise with starport authorities to set up a perimeter area where a
 properly planned and managed conurbation can be established. With
 enough political will and funding, this can work. All too often, however,
 this official area is simply seen as part of the starport and an unplanned
-startown springs up around this, housing all the ne’er-do-wells and
+startown springs up around this, housing all the ne'er-do-wells and
 shoddy businesses the government was seeking to eliminate.
 
 Whatever the feelings about startowns, they present a number of
@@ -2824,8 +2824,8 @@ By Darren Bulmer
 
 ZORKOTE LIGHT CRUISER
 At 17,500 tons, the Zorkote stretches the boundaries of a light
-cruiser but has been more than favourably accepted by those who
-have served aboard one. A spinal meson mount is the ship’s main
+cruiser but has been more than favorably accepted by those who
+have served aboard one. A spinal meson mount is the ship's main
 weapon, with secondary batteries consisting of four missile bays and
 three high technology particle bays. Defensively, it boasts both triple
 beam turrets and sandcasters, providing excellent protection against
@@ -3080,7 +3080,7 @@ DECK 2
 1 sq. = 10 tons
 
 GORTE-CLASS BATTLE RIDER
-Deemed obsolete by the Imperial Navy in favour of newer, more
+Deemed obsolete by the Imperial Navy in favor of newer, more
 advanced versions, the Geonee Self Defence Force purchased 15
 such vessels along with their two associated tenders and proceeded
 to upgrade them. The Gorte-class TL15 refit successfully extended the
@@ -3767,7 +3767,7 @@ unknown, as do the chances of another Hhkar armada arriving at some
 unsuspecting world.
 
 PHYSICAL CHARACTERISTICS
-With a tail for balance, an adult Hhkar averages 2.5 metres in height
+With a tail for balance, an adult Hhkar averages 2.5 meters in height
 with a mass of 250 kilograms. Aesthetic variations are common,
 although within a ssaaahk, a family or clan grouping, individuals retain
 similar features. Hhkar have no external sexual characteristics and
@@ -3788,7 +3788,7 @@ magnetically and other sophonts are often oblivious to interactions
 occurring between Hhkar.
 
 Hhkar hands each have three fingers and one opposable thumb. Legs
-end in four clawed toes and their tail’s end can be whip or club-like
+end in four clawed toes and their tail's end can be whip or club-like
 or, less commonly, spiked. A variety of features are present in Hhkar
 encountered outside their homeworlds. While the appearance within
 any one ssaaahk is essentially without variation, the features tables
@@ -3870,9 +3870,9 @@ information, see page 100). In addition, Hhkar do not require regular
 sleep. Hhkar dream states are a major part of Hhkar spirituality. They
 are lucid dreamers and can use sleep for recreational or practical
 purposes. Deep dream states are spiritual aspects of Hhkar religions,
-which involve varying ‘planes’ of existence, although different religions
+which involve varying 'planes' of existence, although different religions
 often interpret or define these differently. The Hhkar interpret their
-waking existence as the lowest plane but this ‘reality’ is the plane that
+waking existence as the lowest plane but this 'reality' is the plane that
 links to all the others. Pahhkirs – Hhkar priests – can guide spiritual
 journeys using magnetic sense and body fields. This is often done in a
 communal setting allowing many Hhkar to serve as guides.
@@ -3886,7 +3886,7 @@ witchcraft but for the Hhkar, this is the technique that works best to heal
 both body and mind.
 
 EVOLUTIONARY DEVELOPMENT
-Little is known of the Hhkar’s lost homeworld of Ssrar. Evolving from
+Little is known of the Hhkar's lost homeworld of Ssrar. Evolving from
 carnivorous hunters, the Hhkar are thought to have developed a semi-
 nomadic existence, migrating over the course of generations as climatic
 conditions changed. Ssrar is known to have been very geologically active
@@ -3906,14 +3906,14 @@ communal area, where they remain for 21 weeks until hatching.
 
 At birth, Hhkar are capable of locomotion and soon put to work,
 supervised by females and older children. Whilst females provide
-guidance, they do not favour their own children and raise the young
+guidance, they do not favor their own children and raise the young
 in a harsh regimented manner. Young who do not conform to ssaaahk
 features or who are too slow or too difficult to control are often culled.
 The juveniles start by performing simple tasks, such as weeding, and
 graduate to more complex tasks, eventually learning useful skills. After
 22 standard years a Hhkar is considered an adult.
 
-The Hhkar male will leave his communal home – an ahr!guuhrt’k or cave
+The Hhkar male will leave his communal home – an ahr!guuhrt'k or cave
 of life – and set out on a career, sometimes wandering to join a military
 service, Hhkar or Julian, a local merchant service or even travelling
 beyond the Julian Protectorate in search of adventure. These males are
@@ -3929,7 +3929,7 @@ take on female roles, raising children and performing other services
 within the community. When she is ready, she may transform again to
 male, regaining many of the skills and memories of his former male
 life within a few weeks. These gender cycles can occur as often as
-six times over the course of a Hhkar’s life. With each transformation
+six times over the course of a Hhkar's life. With each transformation
 comes regeneration but the Hhkar are not immortal. Their natural
 life span is approximately 200 active years, sometimes stretched to
 centuries or millennia by the ability to enter a hibernation state called
@@ -3989,30 +3989,30 @@ came to realise they had psionic abilities. These gifted Hhkar
 learned to control their talents and enhance them by technological
 means. Over the next 9,000 years, they transformed their society
 and learned to heal their world using their newfound powers.
-These ‘new’ Hhkar lacked the wanderlust of their predecessors
+These 'new' Hhkar lacked the wanderlust of their predecessors
 and were content to remain on their restored home.
 ```
 
 ```
 In about -50,000, a fleet of migrating Hhkar returned to Ssrar. The
-‘new’ and ‘old’ Hhkar met each other with mutual incomprehension.
-To the ‘old’ Hhkar, psionics was a perversion that introduced ‘hells’
-into the spiritual planes. The ‘new’ Hhkar recognized the threat to
+'new' and 'old' Hhkar met each other with mutual incomprehension.
+To the 'old' Hhkar, psionics was a perversion that introduced 'hells'
+into the spiritual planes. The 'new' Hhkar recognized the threat to
 their very existence and a war of mutual annihilation began. The
-‘new’ Hhkar disrupted the minds of the ‘old’, causing chaos aboard
+'new' Hhkar disrupted the minds of the 'old', causing chaos aboard
 their ships, but the once the fleets were beyond the range of psionic
 influence they retaliated by tossing asteroids at the world. The
 powers of the psionic Hhkar were strong enough to divert some
 of these rocks but those pushed faster by mass drivers often got
-through. Eventually enough ordinance fell to heat the planet’s
+through. Eventually enough ordinance fell to heat the planet's
 atmosphere and surface beyond the melting point of lead. Ssrar and
-the ‘new’ Hhkar species were irrevocably dead.
+the 'new' Hhkar species were irrevocably dead.
 ```
 
 ```
 Those who know the story feel shame at the death of their world and
 horror at the thought of psionics poisoning the mind. After the war,
-the story of Ssrar’s death spread among select priests of the far-flung
+the story of Ssrar's death spread among select priests of the far-flung
 Hhkar fleets and none have returned to the grave of their world.
 ```
 
@@ -4027,7 +4027,7 @@ settled the world, naming it Urinir. The Vargr population eventually
 reached more than 10 million.
 
 In -222 a fleet of huge Hhkar sublight ships arrived at Urinir, laying
-siege to the world. Urinir’s defenders had a technological advantage
+siege to the world. Urinir's defenders had a technological advantage
 over the invaders but the Hhkar had numbers and the ships kept
 coming. By -219 the Vargr of Urinir surrendered. Their emissaries were
 able to negotiate a fate only slightly better than extermination for the
@@ -4153,7 +4153,7 @@ Hhkarn, the human name for the Hhkar language, is difficult for non-
 Hhkar to speak as it involves loud punctuated sounds such as hisses,
 growls, coughs, snarls and sharp inhalations and exhalations. The
 Hhkar speak with mouth wide open and pronounce some words with
-a jaw snap translated as a ‘!’. Hhkar have poor hearing, often not
+a jaw snap translated as a '!'. Hhkar have poor hearing, often not
 understanding everything a human, Vargr or other sophont says, even
 if they understand the language. Translator pads (see page 102) are
 often required for successful communications. Written Hhkarn is a
@@ -4221,7 +4221,7 @@ and will have a DM-2 to any Recon checks.
 Oration In this state, the Hhkar gains great oratory skill. This
 equates to DM+2 to Carouse checks among other Hhkar.
 Amongst other species, this grants DM+1 to reactions
-to the Hhkar but does nothing to alleviate the Hhkar’s
+to the Hhkar but does nothing to alleviate the Hhkar's
 reaction to them.
 ```
 
@@ -4231,7 +4231,7 @@ allows the Hhkar to achieve DM+2 to checks related to the event.
 
 Tolerance Skill: The Hhkar do not relate well to other sophonts. By
 default, any interaction between Hhkar and other sophonts will result in
-DM-2 to reaction checks. This can be offset by the Hhkar’s Tolerance
+DM-2 to reaction checks. This can be offset by the Hhkar's Tolerance
 skill but an unskilled individual will suffer the usual DM-3. During
 Traveller creation, Hhkar in careers that interact with non-Hhkar earn
 the skill of Tolerance rather than Carouse and whenever EDU+1 is
@@ -4273,7 +4273,7 @@ often eschew advanced medical procedures.
 Armor
 Hhkar armor and protective suits are customised for their species. They
 do not like to wear restrictive clothing and metal clothing or fasteners
-‘itch’ their magnetic sense. Hhkar favour poly carapace and ceramic
+'itch' their magnetic sense. Hhkar favor poly carapace and ceramic
 armor and none of their armor is equipped with gravitic technology.
 
 Translator Pad
@@ -4290,7 +4290,7 @@ Improved 10 — Cr500
 ```
 
 Hrrak!k Battle-axe
-A curved great axe nearly two metres long, the mass and sharpness of
+A curved great axe nearly two meters long, the mass and sharpness of
 these blades can cause catastrophic wounds, meaning they are often
 used in Srriikka!ki death duels and boarding actions. These axes are
 sometimes crude weapons stamped from industrial machines but can
@@ -4305,7 +4305,7 @@ Smasher
 
 Sraaa!k **Gauss Rifle**
 The sraaa!k is a heavy battle rifle firing a 6mm projectile along a
-two-metre barrel, able to penetrate armor at considerable distance.
+two-meter barrel, able to penetrate armor at considerable distance.
 These are available through the Menderes Corporation to qualified
 non-Hhkar buyers certified as mercenary units by the Julian
 Protectorate at twice standard cost.
@@ -4366,8 +4366,8 @@ arrive in some distant system with only this technology available.
 
 In cooperation with the Hhkar, the Menderes Corporation manufactures
 magnetic and fusion drives by special order. Neither is operable within
-a planet’s atmosphere. A magnetic drive cannot be easily retrofitted;
-they are generally installed during a ship’s construction. All ships
+a planet's atmosphere. A magnetic drive cannot be easily retrofitted;
+they are generally installed during a ship's construction. All ships
 with a magnetic drive installed are at double cost and considered
 unstreamlined. Whilst invented at TL9, Menderes Corporation
 manufactured drive units are considered TL13 and cannot use advanced
@@ -4388,7 +4388,7 @@ or both (using tilting segments).
 fusion drives to cross vast distances at sublight speed.
 
 WEAPONRY
-Hhkar ships favour railguns and mass drivers, and produce superior
+Hhkar ships favor railguns and mass drivers, and produce superior
 versions of these weapons at all scales, including spinal mounts. All
 Hhkar railguns and mass drivers are TL15. Compared to baseline
 models, these weapons (including spinal mounts) are double the cost
@@ -4406,7 +4406,7 @@ full hour of drive inactivity whilst the spines reconfigure.
 The drive consists of the controller/collector/containment (3C) unit and
 an array of flexible spines extending from the spacecraft. The magnetic
 drive requires installation of a 40-ton 3C unit and dedication of 1% of
-a ship’s displacement tons to spines for each unit of Thrust produced.
+a ship's displacement tons to spines for each unit of Thrust produced.
 The effects of a Thrust Unit vary by mode.
 
 **Magnetic Drive Requirements**
@@ -4431,7 +4431,7 @@ per ton
 **In System Propulsion Mode (Magnetic Sail)**
 Within a solar system, the magnetic drive can operate as a magnetic
 sail, creating a bubble of plasma around the spacecraft and using it
-to ‘sail’ the solar wind and/or the magnetic fields created by the stellar
+to 'sail' the solar wind and/or the magnetic fields created by the stellar
 bodies in the system. The magnetic sail cannot operate once the
 spacecraft reaches interstellar space. For simplicity, interstellar space
 can be assumed to begin at 100 AU from a star.
@@ -4439,8 +4439,8 @@ can be assumed to begin at 100 AU from a star.
 To initiate the plasma bubble, the magnetic sail requires a one-time
 expenditure of hydrogen fuel equal to 1% of ship tonnage per Thrust Unit.
 Each Thrust Unit provides 0.01 of Thrust while within the region dominated
-by a star system’s solar wind and magnetic fields. While in operation, the
-magnetic sail requires power points equal to 1% of the ship’s tonnage per
+by a star system's solar wind and magnetic fields. While in operation, the
+magnetic sail requires power points equal to 1% of the ship's tonnage per
 Thrust Unit but uses no additional fuel after initiation. Once in interstellar
 space, the magnetic sail provides no Thrust and the bubble dissipates.
 
@@ -4455,7 +4455,7 @@ Thrust Fuel (to initiate only) Power required (operating)
 The magnetic sail can act as a powerful brake by creating drag both
 within the interstellar medium and within a star system. This braking
 mode requires no fuel and produces 0.1G braking effect per Thrust
-Unit, requiring 1% of the ship’s tonnage per Thrust Unit.
+Unit, requiring 1% of the ship's tonnage per Thrust Unit.
 
 **Magnetic Braking Requirements (per Thrust Unit)**
 
@@ -4475,7 +4475,7 @@ gas collector generates too much drag to continue operation, effectively
 limiting the spacecraft to that velocity if it wants to continue to fuel
 its power plant during a long voyage. Gas collection mode gathers
 rather than expends fuel, with each Thrust Unit collecting 1% of a
-ship’s tonnage in hydrogen gas per day of operation. It requires power
+ship's tonnage in hydrogen gas per day of operation. It requires power
 equivalent to its other modes to continue collection.
 
 Gas Collection Mode Requirements (per Thrust Unit)
@@ -4493,7 +4493,7 @@ conventional reaction drive but requires a large amount of energy to
 operate and produces a much smaller amount of thrust.
 
 A fusion drive requires 1% of ship tonnage for each 0.1G of Thrust
-generated. A full 1G unit requires 10% of a ship’s tonnage but few
+generated. A full 1G unit requires 10% of a ship's tonnage but few
 fusion drive ships operate at this Thrust. Each ton of fusion drive costs
 MCr2, requires 20 Power Points per ton installed while operating and
 uses two tons of fuel per day of operation.
@@ -4577,7 +4577,7 @@ are required for physical activities done under pressure. For example,
 navigating around the ship or performing simple actions will not require a
 check but moving at speed or making a melee attack would.
 
-All ship locations are numbered, for the Amaranthine Haven’s deck
+All ship locations are numbered, for the Amaranthine Haven's deck
 plans see page 113.
 
 **The Amaranthine**
@@ -4740,7 +4740,7 @@ supplies to aid reviving passengers.
 
 **2. Low Passage Locker**
 Several secure wall mounted lockers are found in or near the crew
-areas. The Travellers’ equipment and other possessions are stored
+areas. The Travellers' equipment and other possessions are stored
 here during the voyage. These are all locked and require either a key or
 an Average (8+) Mechanic check to open.
 **3. Engineering (Drives)**
@@ -4777,7 +4777,7 @@ a maintenance crawl space and is well hidden from view. As soon as
 he hears anyone except Marcus, he calls out softly, hoping they have
 come to the rescue.
 
-Oliver can start the power plant but is afraid of attracting ‘him’ and needs to
+Oliver can start the power plant but is afraid of attracting 'him' and needs to
 be cajoled or forced into doing so. He is terrified and close to a complete
 breakdown but can be easily intimidated or convinced to help, only
 requiring a Routine (6+) Persuade check. If questioned, he explains all
@@ -4787,7 +4787,7 @@ leave the compartment and retreats to his hiding place as soon as he can.
 **5. Bridge**
 The bridge door is closed but the manual override still works. Inside,
 the body of the pilot is sprawled across the console. It is clear from his
-wounds that he was shot and died of blood loss. Nearby is the pilot’s
+wounds that he was shot and died of blood loss. Nearby is the pilot's
 empty snub pistol.
 
 The console shows the ship is on lockdown. Until the lockdown is
@@ -4848,7 +4848,7 @@ berth wrapped in some woven metallic material, recognizable to anyone
 with Engineer or Electronics skills as being useful for sensor shielding.
 
 8. Crew Common Area
-In the area between the main hold and the bridge lies the captain’s
+In the area between the main hold and the bridge lies the captain's
 body. He has a serious bullet wound but anyone with the Medic skill
 will see there is not enough blood for him to have bled out and that
 it is more likely his heart stopped before then. His heart was actually
@@ -4857,41 +4857,41 @@ stopped by a psionic assault from Marcus.
 The captain still has a revolver gripped in his hand; all chambers spent.
 He has one spare magazine in his coat pocket.
 
-9. Captain’s Stateroom
+9. Captain's Stateroom
 The room is clean and tidy, and a collection of mementos is arrayed
 on shelves. A wall safe is mounted on one wall with a mechanical
 combination, which only the captain knew. Cracking the safe requires a
 Very Difficult (12+) Mechanic check (1D hours).
 
-If opened, the safe contains deeds to the ship and other ship’s papers.
+If opened, the safe contains deeds to the ship and other ship's papers.
 There is also Cr33400.
 
 A drawer under the desk holds some general odds and ends, including
 Cr375 and an opened box of shells for a revolver, with 38 left.
 
-10. Pilot’s Stateroom
-The room looks ‘lived in’, with a number of personal effects on display.
+10. Pilot's Stateroom
+The room looks 'lived in', with a number of personal effects on display.
 Searching the room finds Cr400, 100 autopistol rounds (boxed) and an
 empty clip for an autopistol.
-**11. Engineer and Steward’s Stateroom**
+**11. Engineer and Steward's Stateroom**
 This room is set up as a double-occupancy room. It is reasonably tidy
 and there are a few personal effects on view. It has the look of a room
 only recently occupied.
-**12. Medical Officer’s Stateroom**
+**12. Medical Officer's Stateroom**
 The door to this room has been locked from inside.
 
 Dr Kavenor is hiding inside, he is terrified and will not come out or
 unlock it without some tempting. A Difficult (10+) Persuade check will
 be needed to coax him out. If left alone, the doctor will become one of
-Marcus’ victims ‘off screen’.
+Marcus' victims 'off screen'.
 
 He has a body pistol and two full spare magazines. Cr2700 can be
 found stashed in a locker.
 
-13. Ship’s Locker
-The ship’s locker is located near the bridge and kept locked unless needed.
+13. Ship's Locker
+The ship's locker is located near the bridge and kept locked unless needed.
 
-The Amaranthine Haven’s locker contains; four vacc suits (TL12), spare
+The Amaranthine Haven's locker contains; four vacc suits (TL12), spare
 tools appropriate for the ship, four mobile comms (TL10), two medikits
 (TL12), two shotguns, four snub pistols, 50 shotgun shells and eight
 magazines for the pistols.
@@ -4926,14 +4926,14 @@ XG-1734 is a non-intelligent larva, driven entirely by simple instincts.
 Its primary instinct is to find a suitable host, then to invade the body
 through any available orifice, wound or burrowing through the skin then
 following the neural pathways to the brain. Once there it releases a flood
-of psiactive chemicals to subjugate the host’s brain, allowing it to develop
+of psiactive chemicals to subjugate the host's brain, allowing it to develop
 greater psionic abilities, albeit at significant physical cost to the host.
 ```
 
 ```
 Without a host, the larva can only live for a few days. Once established
-in the host’s brain, it will quickly develop its psionic strength calculated
-by adding XG-1734’s Psionic trait and the hosts INT. The parasite’s
+in the host's brain, it will quickly develop its psionic strength calculated
+by adding XG-1734's Psionic trait and the hosts INT. The parasite's
 psioactive excretions mean the host recovers 2 PSI per hour, after one
 hour has passed since the last use of a psionic talent.
 ```
@@ -4941,8 +4941,8 @@ hour has passed since the last use of a psionic talent.
 ```
 In addition, the host can feed on the mind of intelligent living
 beings, killing them to regain 2D PSI or implanting parasitic larva
-into new hosts. This involves extending tendrils from the host’s
-nose and mouth into the victim’s eyes, ears, nose and mouth,
+into new hosts. This involves extending tendrils from the host's
+nose and mouth into the victim's eyes, ears, nose and mouth,
 leaving feint marks on the skin. It takes three minutes to feed or
 one minute to infect a victim, during which time sedatives released
 by the tendrils keep the victim unconscious.
@@ -4978,7 +4978,7 @@ and extremely guilty about, Marcus. She will not leave her stateroom
 without some careful coaxing.
 
 **16. Boarding Small Craft**
-The Vargr ship’s boat is attached to the Amaranthine Haven via
+The Vargr ship's boat is attached to the Amaranthine Haven via
 a breaching tube and both vessels are tumbling together. If the
 Amaranthine Haven attempts to stop its tumble or maneuver quickly,
 the strain shears the docking connections. This seriously damages
@@ -4992,14 +4992,14 @@ tube is damaged while the airlock doors are still open this results in
 a serious decompression of the Amaranthine Haven and a complete
 decompression of the small craft.
 
-The main cabin of the ship’s boat is fitted with just two rows of jump seats
+The main cabin of the ship's boat is fitted with just two rows of jump seats
 and is clearly a military vessel. Basic systems are working in the small
 craft, including life support and artificial gravity. At the front of the main
 cabin the door to the bridge is open and blood can be seen coating the
 floor. In the bridge, a dead Vargr is still strapped into their seat. There are
 signs of bleeding from their eyes, nose, mouth and ears.
 
-The small craft’s power plant is running and the maneuver drive is on
+The small craft's power plant is running and the maneuver drive is on
 standby. In principle this craft could be used to escape the ship. However,
 all the controls are designed for a Vargr and all control panels and labels
 are in a Vargr dialect. Any non-Vargr Traveller attempting to use the craft
@@ -5008,13 +5008,13 @@ approaching corsair attempts to hail and intercept it.
 
 THE STORY SO FAR
 The Travellers boarded 12 hours before departure, attended by the
-ship’s medical officer. They saw next to nothing of the ship, crew or
+ship's medical officer. They saw next to nothing of the ship, crew or
 other passengers when boarding, being taken straight from the main
 passenger airlock to the low berths. Unknown to the rest of the crew,
 the engineer Oliver Vincent is deep in debt to the wrong people. To
 clear his debt, he has made a deal with a Vargr captain to smuggle a
 shipment of stolen anagathics aboard. These are hidden in the hold
-and Oliver has been well paid to arrange a ‘mis-jump’, leaving them
+and Oliver has been well paid to arrange a 'mis-jump', leaving them
 in Grant. There it will be met by the patrol corvette Raersthog (see
 Traveller Core Rulebook, page 174), which will relieve the Amaranthine
 Haven of the shipment.
@@ -5025,18 +5025,18 @@ Carpenter, has arranged for passage to Regina for herself and some
 extra cargo. Disguised as a non-descript container, the cargo actually
 contains a portable low berth, shielded from prying scanners. Within
 the berth lies her husband, Marcus. For a substantial sum, Joyce
-arranged for her husband’s berth to be ‘lost’ and discretely delivered
+arranged for her husband's berth to be 'lost' and discretely delivered
 to a downport warehouse on Alell for her to collect. Joyce is not aware
 of the details of his condition, other than he needs specialist care,
 which she is hoping to find at Regina.
 
-Unbeknownst to Joyce, the ‘good samaritan’ who aided her sold the
+Unbeknownst to Joyce, the 'good samaritan' who aided her sold the
 information on Marcus to a Zhodani spy. This resulted in the Zhodani
 agent activating a sleeper unit, which is now tailing Joyce. When Joyce
 boarded the Amaranthine Haven, the unit shadowed her in a well-
-equipped Type-RQ Subsidised Merchant (Pirates of Drinax: Ships of
+equipped Type-RQ Subsidized Merchant (Pirates of Drinax: Ships of
 the Reach, page 18), the Hopeful Wanderer. The Hopeful Wanderer
-used their advanced sensors to analyse their quarry’s jump flash and
+used their advanced sensors to analyse their quarry's jump flash and
 followed the Amaranthine Haven to Grant.
 
 Seven days later, the Amaranthine Haven drops out of jump into
@@ -5049,13 +5049,13 @@ the ship. The captain negotiates with the pirates but a jittery steward
 accidently discharges his sidearm, starting a brief firefight. Marcus
 wakes in his hidden berth in the express cargo hold and escapes from
 the container. The mortally wounded pilot escapes to the bridge and
-locks down all the ship’s systems including, by accident, all life support
+locks down all the ship's systems including, by accident, all life support
 and the power plant.
 
 Over the next hours, using maintenance crawl spaces, Marcus prowls the
 ship looking for prey. He kills some of the crew, passengers and boarding
 party, including the Vargr pilot. He infects one passenger but when he
-discovers Joyce, vestiges of Marcus’ mind recognize her causing him to
+discovers Joyce, vestiges of Marcus' mind recognize her causing him to
 retreat into hiding. The remaining Vargr take up a defensive position in
 the hold to wait for the Raersthog to come to their rescue.
 
@@ -5063,7 +5063,7 @@ During this time, with atmospheric drag in the lower orbit and without
 crew or a navigation system active to compensate, the ship and
 the attached small craft start to tumble. If control of the ship is not
 regained within 24 hours, it begins to fall in towards the gas giant
-and its destruction. About 12 hours after shutdown, with the ship’s
+and its destruction. About 12 hours after shutdown, with the ship's
 old batteries fading, low power triggers the automated emergency
 revival of the low berth passengers. The Travellers awake, confused
 and alone. Meanwhile, the Zhodani Q-Ship emerges from jump
@@ -5085,10 +5085,10 @@ lockers aboard the Amaranthine Haven.
 
 A quick assessment identifies there is no main power, no artificial
 gravity and the life support is offline. The flashing red light warns them
-of low emergency power reserves from the ship’s batteries. A security
+of low emergency power reserves from the ship's batteries. A security
 alert indicator reports the ship is in full lockdown.
 
-Restoring the ship’s functions will require the Travellers to reach two
+Restoring the ship's functions will require the Travellers to reach two
 compartments, engineering and the bridge. Due to the mishandled
 lockdown, the bridge systems will be inaccessible until power is
 restored from engineering. However, the Travellers will have no way
@@ -5103,7 +5103,7 @@ from a distant planet would be the pinnacle of his career and a
 launch pad for his advancement in the Xenogene Enterprises
 Corporation. His hubris was his downfall however, leading to a
 containment breach in his laboratory in which he was infected by
-the specimen under investigation, ‘XG-1734’.
+the specimen under investigation, 'XG-1734'.
 
 Now his appearance is
 of a gaunt, dishevelled
@@ -5139,8 +5139,8 @@ recurring encounters may occur anywhere in the ship.
 
 His previous victims can be found across the ship and any surviving
 crew run the risk of being victims of a psionic or physical assault,
-using psionic enhancement of his strength. At first, this should be ‘off
-screen’ for the Travellers, who perhaps rush to the sound of a scream
+using psionic enhancement of his strength. At first, this should be 'off
+screen' for the Travellers, who perhaps rush to the sound of a scream
 to see Marcus disappearing into a crawl space and the victim dead or
 unconscious. If an attack is out of view of the Travellers roll 2D for the
 result. On an 9+ they are killed, on 6–8 they are used to feed and on 5
@@ -5211,7 +5211,7 @@ If unaware of the presence of Marcus, during the recovery operation
 the Vargr captain has one of his crew sabotage the engines, nothing
 dangerous but enough to prevent the ship following them. As the
 Vargr engineer is completing the sabotage, Marcus attempts an attack
-starting with a psionic assault. The engineer’s cries quickly bring help
+starting with a psionic assault. The engineer's cries quickly bring help
 and Marcus retreats. On hearing of an aggressive creature on board,
 the captain orders a rapid evacuation of his crew and the remaining
 contraband. Repairing requires an Average (8+) Mechanic or Engineer
@@ -5220,7 +5220,7 @@ check to fix and takes 1D hours.
 If informed about Marcus, the captain performs the recovery as fast as
 possible, gathering only as much of the contraband as can be easily
 obtained, leaving about 20% behind. He also forgoes trying to sabotage
-the ship’s engines and will rely on the corsair’s fire power to deter any
+the ship's engines and will rely on the corsair's fire power to deter any
 attempt to follow them.
 
 Hopeful Wanderer
@@ -5237,7 +5237,7 @@ life; if power has not been restored, they dock with the ship and board
 it. If the hail gets a response, they announce they are aware of the
 bio-hazard onboard the Amaranthine Haven and want to negotiate
 for the recovery of any infected individuals, dead or alive. In return for
-the Travellers’ cooperation, they offer assistance and possibly some
+the Travellers' cooperation, they offer assistance and possibly some
 compensation for their trouble, up to Cr50000.
 
 An agent, going by the name of Zaran Hekia, states they are working on
@@ -5271,13 +5271,13 @@ with a group heading to Whanga seeking work in the mining colony.
 There is something valuable to the Consulate aboard the ship and if
 the Amaranthine Haven does not arrive at the expected destination,
 you must signal your location. To do so, you have been given a
-storage device with a Trojan virus to use on the ship’s computer or
+storage device with a Trojan virus to use on the ship's computer or
 communications system.
 
 You suspect another agent or sleeper may be on the mission but you
 cannot be sure. If you need it, you can use a challenge phrase to
-identify a fellow agent. The phrase ‘nothing but fire and ice in the night’.
-should receive the response ‘and souls gone to an early reward’.
+identify a fellow agent. The phrase 'nothing but fire and ice in the night'.
+should receive the response 'and souls gone to an early reward'.
 
 **Imperium Agent**
 During your last army term, your talents and loyalty lead to recruitment
@@ -5286,12 +5286,12 @@ agents infiltrating ships within Imperial space. Your orders are to join a
 group travelling to the Whanga system for work in the mining colony.
 There is reason to believe a Zhodani agent may be among them.
 Find out who and what their mission is, then report it. They may use a
-challenge to identify collaborators, possibly mentioning ‘fire and ice’.
-The response should include ‘reward for lost spirits’.
+challenge to identify collaborators, possibly mentioning 'fire and ice'.
+The response should include 'reward for lost spirits'.
 
 You do not need to intercede unless you think action is required. You
 have been given an encrypted comms device, which should be able to
-piggy-back messages on any commercial vessel’s comms equipment to
+piggy-back messages on any commercial vessel's comms equipment to
 send reports or request help.
 
 Diehard Military
@@ -5331,7 +5331,7 @@ happens, the important thing is to keep your eyes peeled for an
 opportunity to make some good money, preferably a lot of it.
 
 CONCLUSION
-Ultimately, the Travellers’ main goal is survival but they may be able
+Ultimately, the Travellers' main goal is survival but they may be able
 to make the most of a bad situation and come out on top. Dealing with
 the Vargr and Zhodani could be a case of keeping out of their way and
 hoping to be left alive with the Amaranthine Haven intact.
@@ -5354,7 +5354,7 @@ be reward enough.
 
 These are duvet-sized creeping masses of translucent grey-brown
 tissue that slide across the ground digesting anything biological. They
-have three-metre-long adhesive pseudopods, which whip out to snare
+have three-meter-long adhesive pseudopods, which whip out to snare
 anything they sense is close and draw the prey onto their central mass
 to be suffocated and digested. They can creep up the walls and cling
 to the underside of the causeways as well as swim across water. If the
@@ -5376,7 +5376,7 @@ Traits Amphibious, Camouflage (+2)
 Behaviour Omnivore, Eater
 ```
 
-Welcome to the Journal of the Travellers’ Aid Society, your indispensable
+Welcome to the Journal of the Travellers' Aid Society, your indispensable
 guide to adventuring in the Far Future.
 
 Each volume is a treasure trove of information and game additions for
@@ -5420,10 +5420,10 @@ The
 The
 ```
 
-of the Travellers’ Aid Society
+of the Travellers' Aid Society
 
 ```
-of the Travellers’ Aid Society
+of the Travellers' Aid Society
 ```
 
 ## JJJournal
@@ -5435,7 +5435,7 @@ The
 ```
 
 ```
-of the Travellers’ Aid Society - Volume 12
+of the Travellers' Aid Society - Volume 12
 ```
 
 9 781913 076757

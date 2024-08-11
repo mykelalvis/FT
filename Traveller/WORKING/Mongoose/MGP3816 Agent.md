@@ -10,11 +10,11 @@ tags:
 
 Despite the notion that an agent will work for anyone, there are a handful of powerful agencies that are always looking for new blood to pump into their veins. The next chapter is dedicated to four types of organizations that regularly use agents to achieve their goals.
 
-There are many times where an agent’s role brings him into direct contact with the legal system, officers of the law and criminals. This book has a chapter dedicated to the various degrees of law and legal authority in the Traveller settings. Through the many law levels of standard designations and the people to talk to in order to serve or avoid them, this book lays the groundwork of the Traveller law system.
+There are many times where an agent's role brings him into direct contact with the legal system, officers of the law and criminals. This book has a chapter dedicated to the various degrees of law and legal authority in the Traveller settings. Through the many law levels of standard designations and the people to talk to in order to serve or avoid them, this book lays the groundwork of the Traveller law system.
 
 Governments are one of the leading employers of freelance agents, often sending them against one another in subtle ways; using information as much as bullets or lasers. The next chapter in the sourcebook covers the various levels of agent espionage. Computer warfare, the servants of lesser governments and counter-spy intelligence gathering are all facets of what an agent may be called upon to do. This chapter shows them how.
 
-The most lucrative employment options for an agent normally come from behind the table of a megacorporation’s board of directors. The chapter focussed upon corporate dealings and contracts is an agent’s guide to working under the multi-trillion Credit powerhouses without getting swallowed up and digested.
+The most lucrative employment options for an agent normally come from behind the table of a megacorporation's board of directors. The chapter focussed upon corporate dealings and contracts is an agent's guide to working under the multi-trillion Credit powerhouses without getting swallowed up and digested.
 
 Some agents work within the legal system... but not for it. These dedicated folk are called bounty hunters and this book gives them a small chapter of their own. This section looks at how an agent can make a living hunting down bounties and bond jumpers.
 
@@ -24,7 +24,7 @@ The book comes to a close with an armory of agent-related goods and technologies
 
 The greater universe of _Traveller_ is a vast place that contains countless people with an infinite number of schemes, plots and agendas. Some of these agendas are personal things that are undertaken by a single individual but most are larger affairs that affect tens of thousands of employees, constituents or co-workers. When clandestine methods are needed to complete a task, an employer will call on third parties to expedite his needs – _Agents_.
 
-Agents are a lot of different things for their employers but most of all they are problem solvers. They accept contracts that range from the simple policing of a neighborhood or investigating a rival corporation to the secret assassination of a wayward Imperial duke. They have to be smart, cunning, skilled and ready for the kinds of obstacles the galaxy has to offer. Hired by the likes of corporations, governments and nobles, an agent’s job is infinitely easier to define than it is to perform.
+Agents are a lot of different things for their employers but most of all they are problem solvers. They accept contracts that range from the simple policing of a neighborhood or investigating a rival corporation to the secret assassination of a wayward Imperial duke. They have to be smart, cunning, skilled and ready for the kinds of obstacles the galaxy has to offer. Hired by the likes of corporations, governments and nobles, an agent's job is infinitely easier to define than it is to perform.
 
 An agent does whatever the employer requires of him.
 
@@ -32,7 +32,7 @@ _Traveller: Agent_ is one in a series of career path sourcebooks that expand gre
 
 This book not only holds the key to fleshing out Agent characters but also adds several new elements to the entirety of the _Traveller_ gaming system. In most _Traveller_ settings you will find powerful corporations, criminals and conspiracy-laden governments to interact with. Putting their own agents in play like the pieces of a chessboard, this book gives Referees a collection of new narrative items, rules and ideas to use in their own games.
 
-With the information found in this book, all _Traveller_ fans can discover the real benefits and drawbacks of the game’s most mysterious career path, the world they live in and the people they work for. _Traveller: Agent_ is the guidebook to everything revolving around the agent career.
+With the information found in this book, all _Traveller_ fans can discover the real benefits and drawbacks of the game's most mysterious career path, the world they live in and the people they work for. _Traveller: Agent_ is the guidebook to everything revolving around the agent career.
 
 ##### USING THIS BOOK
 
@@ -48,11 +48,11 @@ Agents are the clearest example of this capacity for embodiment. They are litera
 
 Education and Intelligence are the key attributes for an agent. Agencies recruit the best-educated and most self-sufficient people they can find, especially those with useful or unusual backgrounds. A moderate Social Standing is useful to some agents, although agents may be trained in constructing cover identities from a variety of social standings. Strength, Dexterity and Endurance are important only to field agents.
 
-The Agency Almost every agent works for a larger organization of some sort – a government department, a corporation, a world’s law enforcement agency, a spy network – and it is this agency that recruits and trains the agent. Successful agents can request more support from the agency; agents who fail the agency will be left out in the cold.
+The Agency Almost every agent works for a larger organization of some sort – a government department, a corporation, a world's law enforcement agency, a spy network – and it is this agency that recruits and trains the agent. Successful agents can request more support from the agency; agents who fail the agency will be left out in the cold.
 
 In the game, the agency functions much like a patron, assigning missions to the agent. The agency may also be able to provide help such as money, transport, equipment or support during a mission.
 
-Trust In game terms, a character’s standing with his agency is determined by both his rank and his Trust, which measures how much his superiors trust and rely on him. Trust is acquired like a skill during character creation and through roleplaying thereafter.
+Trust In game terms, a character's standing with his agency is determined by both his rank and his Trust, which measures how much his superiors trust and rely on him. Trust is acquired like a skill during character creation and through roleplaying thereafter.
 
 _For example, Agent Yan has a Rank of 3 in the Ministry of Justice and a Trust score of 3. He can only request Rank 3 or lower assets from the agency but has a +3 DM when rolling to determine if he receives the assets._
 
@@ -85,7 +85,7 @@ AGENT CHARACTER GENERATION
 
 ##### LAW ENFORCEMENT
 
-You were a uniformed police officer or security guard in a planet’s law enforcement branch.
+You were a uniformed police officer or security guard in a planet's law enforcement branch.
 
 Qualification:Qualification: Int 5+
 
@@ -128,7 +128,7 @@ d66 d66 EventsEvents
 36 Life Event. Roll on the Life Events table.
 41 Your new commanding officer is an incompetent idiot; if you follow his bad decisions, you suffer a –1 DM to your next Advancement roll. Alternatively, you can try to work around him by rolling Admin 8+. Succeed and you shine in a bad department; gain a +2 DM to your next Advancement roll. Fail and you lose 1 Trust and suffer a –2 DM to your next Advancement roll.
 42 You have an ill-considered romantic relationship with a suspect. Gain an Ally, then roll Deception 8+ to avoid losing 1 Trust.
-43 You learn something you shouldn’t have about a senior officer. If you keep quiet, gain 1 Trust. If you report him, gain an Enemy and a +2 DM to your next Advancement roll.
+43 You learn something you shouldn't have about a senior officer. If you keep quiet, gain 1 Trust. If you report him, gain an Enemy and a +2 DM to your next Advancement roll.
 44 There is an opening in the investigative branch. You may automatically qualify for the Investigator (Inspector) career next term.
 45 Your commanding officer thinks you are a loose cannon and demands you turn in your badge and gun, and take a leave of absence. If you accept, you suffer a –2 DM to your next Advancement roll. If you refuse, roll Investigate 8+ or Gun Combat (any) 8+. If you succeed, you break the case wide open; gain a +4 DM to your next Advancement roll and any one skill. If you fail, lose 1 Trust and suffer a –2 DM to your next Advancement roll.
 46 Life Event. Roll on the Life Events table.
@@ -205,12 +205,12 @@ Private DetectivePrivate Detective InspectorInspector Undercover AgentUndercover
 
 MISHAPS
 
-2d62d6 MishapMishap 2 Severely Injured. Roll twice on the Injury table and take the lower result. 3 Someone tries to kill you and your family or friends. Roll on the Injury table and lose one family member, Ally or Contact. Gain an Enemy. 4 You blunder during an investigation, letting a dangerous criminal walk free. Lose 1 Trust – if your Trust is above 0, you are not ejected from this career. Gain the criminal as an Enemy. 5 A megacorp official uses political pressure to have you fired. Gain him as Rival. 6 A seemingly routine investigation leads into the upper echelons of power. If you drop this investigation immediately, you are not ejected from this career. If you continue, you learn that a senior official or noble is corrupt in some fashion. He has you fired before you can bring him to justice – gain him as an Enemy. 7 It’s a trap! Gunmen were waiting for you at a supposedly secure crime scene. Roll Gun Combat (any) 8+. If you succeed, roll on the Injury table. If you fail, roll twice on the Injury table and take the lowest result. Either way, you are ejected from this career as several other officers are shot dead in the ambush. 8 A criminal walks free, causing you to lose faith in the system. Lose 1 Trust as you exit the career. 9 A crusading reporter stalks you, convinced that you are corrupt. He publishes an exposé on you. If you were accepting bribes, gain 5,000 Cr. and the reporter as an Enemy. If you were not accepting bribes, he later sees that he was misled; gain him as an Ally. 10 A criminal offers you a deal. If you accept, you must leave this career but gain 1 extra benefit roll. If you refuse, roll twice on the Injury table and take the lower result but you do not have to leave the career. 11 Your partner is killed and you want revenge. Lose an Ally, if you have any, and gain his killer as an Enemy. 12 You are wounded in the line of duty. Roll on the Injury table.
+2d62d6 MishapMishap 2 Severely Injured. Roll twice on the Injury table and take the lower result. 3 Someone tries to kill you and your family or friends. Roll on the Injury table and lose one family member, Ally or Contact. Gain an Enemy. 4 You blunder during an investigation, letting a dangerous criminal walk free. Lose 1 Trust – if your Trust is above 0, you are not ejected from this career. Gain the criminal as an Enemy. 5 A megacorp official uses political pressure to have you fired. Gain him as Rival. 6 A seemingly routine investigation leads into the upper echelons of power. If you drop this investigation immediately, you are not ejected from this career. If you continue, you learn that a senior official or noble is corrupt in some fashion. He has you fired before you can bring him to justice – gain him as an Enemy. 7 It's a trap! Gunmen were waiting for you at a supposedly secure crime scene. Roll Gun Combat (any) 8+. If you succeed, roll on the Injury table. If you fail, roll twice on the Injury table and take the lowest result. Either way, you are ejected from this career as several other officers are shot dead in the ambush. 8 A criminal walks free, causing you to lose faith in the system. Lose 1 Trust as you exit the career. 9 A crusading reporter stalks you, convinced that you are corrupt. He publishes an exposé on you. If you were accepting bribes, gain 5,000 Cr. and the reporter as an Enemy. If you were not accepting bribes, he later sees that he was misled; gain him as an Ally. 10 A criminal offers you a deal. If you accept, you must leave this career but gain 1 extra benefit roll. If you refuse, roll twice on the Injury table and take the lower result but you do not have to leave the career. 11 Your partner is killed and you want revenge. Lose an Ally, if you have any, and gain his killer as an Enemy. 12 You are wounded in the line of duty. Roll on the Injury table.
 
 EVENTS
 
 d66 d66 EventsEvents 11 Disaster! Roll on the Mishaps table but you are not ejected from this career. 12 You investigate a ring of smugglers. Gain one of Broker 1, Pilot (any) 1, Zero-G 1 or Vacc Suit 1. One of the smugglers is willing to turn informant for you. If you accept, gain him as a Contact. If you refuse, gain one Trust. 13 You are assigned to help provide security for the visit of an alien diplomat. Roll either Steward 8+, Diplomat 8+ or Recon 8+. If you succeed, you gain a +2 DM to your next Advancement roll. 14 An investigation threatens to consume your whole life. If you follow your obsession, lose one Contact, Ally or family member. If you choose your personal life over your career, you suffer a –2 DM to your next Advancement roll. 15 You are given advanced training in investigative techniques. Gain any one of Investigate 1, Sensors 1, Science
-(any) 1 or Computers 1. 16 Life Event. Roll on the Life Events table. 21 You establish a network of contacts. Gain Network (any). 22 You are transferred to another planet to learn their policing methods. Roll Education 10+ to gain any one skill. 23 You become good friends with your partner. Gain him or her as an Ally. 24 A case involving illegal experimentation leads to a megacorporation’s planetary office. If you follow this investigation to its end, it will drive the corporation off world and severely embarrass the local authorities (gain a Rival in both the corporation and the government and +1 Trust). If you give up your investigation, gain an extra Benefit roll and a Contact in the corporation. 25 Your supervisor questions your judgement in a case and orders you to back off. If you do so, nothing happens. If you continue, roll Investigate 8+. Succeed and your hunch was correct – gain a +2 DM to your next Advancement roll. Fail and you end up getting another officer hurt and suffer a –2 DM to your next Advancement roll. 26 Life Event. Roll on the Life Events table.
+(any) 1 or Computers 1. 16 Life Event. Roll on the Life Events table. 21 You establish a network of contacts. Gain Network (any). 22 You are transferred to another planet to learn their policing methods. Roll Education 10+ to gain any one skill. 23 You become good friends with your partner. Gain him or her as an Ally. 24 A case involving illegal experimentation leads to a megacorporation's planetary office. If you follow this investigation to its end, it will drive the corporation off world and severely embarrass the local authorities (gain a Rival in both the corporation and the government and +1 Trust). If you give up your investigation, gain an extra Benefit roll and a Contact in the corporation. 25 Your supervisor questions your judgement in a case and orders you to back off. If you do so, nothing happens. If you continue, roll Investigate 8+. Succeed and your hunch was correct – gain a +2 DM to your next Advancement roll. Fail and you end up getting another officer hurt and suffer a –2 DM to your next Advancement roll. 26 Life Event. Roll on the Life Events table.
 
 AAAGENTGENTGENT C C CHARACTERHARACTERHARACTER G G GENERATIONENERATIONENERATION
 
@@ -220,7 +220,7 @@ AAAGENTGENTGENT C C CHARACTERHARACTERHARACTER G G GENERATIONENERATIONENERATION
 
 33 You are sent undercover to infiltrate a criminal syndicate. Roll Deception 8+ (if you have a criminal Cover Identity, you succeed automatically). Fail and roll on the Injury table as you are unmasked and attacked. Succeed and you may either arrest the syndicate and gain a +2 DM to your next Advancement roll or you may continue to spy on them and increase your Cover Identity by one step.
 
-34 You are called in to solve the murder of a wealthy noble, who was killed inside his sealed personal shuttle during re-entry. You discover that the killer managed to remotely subvert the noble’s personal robot and use it as murder weapon. Gain any one of Comms 1, Computers 1, Remote Operations 1 or Investigate 1.
+34 You are called in to solve the murder of a wealthy noble, who was killed inside his sealed personal shuttle during re-entry. You discover that the killer managed to remotely subvert the noble's personal robot and use it as murder weapon. Gain any one of Comms 1, Computers 1, Remote Operations 1 or Investigate 1.
 
 35 You have the opportunity to play department politics or you can ignore it all and just focus on the case at hand. If you choose to play politics, roll Deception 8+. Succeed and you gain 1 Trust. Fail and you lose 1 Trust.
 
@@ -323,7 +323,7 @@ Field AgentField Agent OperativeOperative InfiltratorInfiltrator SurvivalSurviva
 
 MISHAPS
 
-2d62d6 MishapMishap 2 Severely Injured. Roll twice on the Injury table and take the lower result. 3 You learn something you shouldn’t have and now you are on the run from your own agency. Lose all Trust and gain the organization as an Enemy. 4 You are identified as a spy. Lose any one Cover Identity. If you have no Cover Identity to lose, you are ejected from this career. 5 An assassin targets you. Roll Gun Combat (any) 8+; if you fail, roll on the Injury table. Either way, you must leave this career. 6 A shift in politics and a thaw in interstellar relations means your services are no longer required. You are dismissed from the service but gain an extra benefit roll this term. 7 You quarrel with a superior. Lose 1 Trust. If your Trust is above 0, you are not ejected from this career. 8 A mission goes wrong and you are held responsible for it. You may accept your fate and leave this career with an extra benefit roll as compensation or you may argue. If you argue, roll Advocate 8+. If you succeed, you may stay in this career. If you fail, lose one Trust and leave this career. 9 You are betrayed by a friend. Lose one Ally or Contact or lose one Trust. If you have no Allies or Contacts gain an Enemy instead. 10 The other side attempts to turn you. If you accept, gain 1 extra benefit roll as you leave this career. Gain +1 Trust if you do not. 11 You discover everything you thought about your organization is a lie. 12 You are wounded in the line of duty. Roll on the Injury table.
+2d62d6 MishapMishap 2 Severely Injured. Roll twice on the Injury table and take the lower result. 3 You learn something you shouldn't have and now you are on the run from your own agency. Lose all Trust and gain the organization as an Enemy. 4 You are identified as a spy. Lose any one Cover Identity. If you have no Cover Identity to lose, you are ejected from this career. 5 An assassin targets you. Roll Gun Combat (any) 8+; if you fail, roll on the Injury table. Either way, you must leave this career. 6 A shift in politics and a thaw in interstellar relations means your services are no longer required. You are dismissed from the service but gain an extra benefit roll this term. 7 You quarrel with a superior. Lose 1 Trust. If your Trust is above 0, you are not ejected from this career. 8 A mission goes wrong and you are held responsible for it. You may accept your fate and leave this career with an extra benefit roll as compensation or you may argue. If you argue, roll Advocate 8+. If you succeed, you may stay in this career. If you fail, lose one Trust and leave this career. 9 You are betrayed by a friend. Lose one Ally or Contact or lose one Trust. If you have no Allies or Contacts gain an Enemy instead. 10 The other side attempts to turn you. If you accept, gain 1 extra benefit roll as you leave this career. Gain +1 Trust if you do not. 11 You discover everything you thought about your organization is a lie. 12 You are wounded in the line of duty. Roll on the Injury table.
 
 EVENTS
 
@@ -361,7 +361,7 @@ AAAGENTGENTGENT C C CHARACTERHARACTERHARACTER G G GENERATIONENERATIONENERATION
 
 53 Your mission requires some additional combat training due to its proximity to an active battle zone. Add Comms 1, Gunner 1, Gun Combat (any) 1, Melee (any) 1 or Tactics 1.
 
-54 Augment surgery is a standard for one of your missions, subsidised by the employer. Gain the Combat Implant benefit for free.
+54 Augment surgery is a standard for one of your missions, subsidized by the employer. Gain the Combat Implant benefit for free.
 
 55 You are injured in the line of duty and your employer takes very good care of you with the highest quality of body prosthetics. Gain +1 End.
 
@@ -386,7 +386,7 @@ Qualification: Qualification: Soc 8+
 - Technical Expert:Technical Expert: You were an expert with the assorted gear
   needed to keep the political machine running smoothly.
 - Handler: Handler: A polite term for bodyguard, you were hired to protect
-  a member of your employer’s government.
+  a member of your employer's government.
 
 SKILLS AND TRAINING
 
@@ -431,13 +431,13 @@ MISHAPS
 
 EVENTS
 
-d66 d66 EventsEvents 11 Disaster! Roll on the Mishaps table but you are not ejected from this career. 12 You have a chance to siphon off some slush fund money. If you do, gain 1d6 x 1,000 Credits and your agency’s accountant as a Rival. If you do not, gain +1 Trust. 13 Your face has been plastered all over the local media as a respected member of society. Gain +1 Soc. 14 You have a lead on an information leak within the government. If you help conceal it, gain Deception 1. If you help to uncover it, gain +1 Trust or a level of Investigate. 15 The government you are working for makes some good changes to the local economy. Gain Trade (any) 1 and + Trust. 16 Life Event. Roll on the Life Events table. 21 Your actions clear the name of a famous criminal that was wrongly incarcerated. Gain Advocate 1 or the ex- convict as a Contact. 22 The agency puts you in charge of dealing with several target groups, gaining one of them as a Network. 23 It is an election year for your employers and you spend many months campaigning at their side, rolling Persuade 8+. If successful, your employer wins and you gain +1 Soc. If the roll fails, your employer is voted out of office and you learn the harshness of politics, gaining Admin 1. 24 One of your more radical ideas is put to the test by your employer. Roll Intelligence 7+. Success means your abstract idea worked and you are rewarded with +4 DM to your next Advancement roll. Failure results in the idea doing poorly and you are blamed; lose 1 Soc. 25 You were all that stood between your employer and a crazed fanatic, rolling Melee (any) 8+ to stop him if you wish. If successful, gain +1 Trust and your employer as an Ally. If you fail, roll on the Injury table. 26 Life Event. Roll on the Life Events table. 31 An unforeseen incident forces you to live as someone else for a few months. Increase an existing Cover Identity by +1 or create a new Cover Identity.
+d66 d66 EventsEvents 11 Disaster! Roll on the Mishaps table but you are not ejected from this career. 12 You have a chance to siphon off some slush fund money. If you do, gain 1d6 x 1,000 Credits and your agency's accountant as a Rival. If you do not, gain +1 Trust. 13 Your face has been plastered all over the local media as a respected member of society. Gain +1 Soc. 14 You have a lead on an information leak within the government. If you help conceal it, gain Deception 1. If you help to uncover it, gain +1 Trust or a level of Investigate. 15 The government you are working for makes some good changes to the local economy. Gain Trade (any) 1 and + Trust. 16 Life Event. Roll on the Life Events table. 21 Your actions clear the name of a famous criminal that was wrongly incarcerated. Gain Advocate 1 or the ex- convict as a Contact. 22 The agency puts you in charge of dealing with several target groups, gaining one of them as a Network. 23 It is an election year for your employers and you spend many months campaigning at their side, rolling Persuade 8+. If successful, your employer wins and you gain +1 Soc. If the roll fails, your employer is voted out of office and you learn the harshness of politics, gaining Admin 1. 24 One of your more radical ideas is put to the test by your employer. Roll Intelligence 7+. Success means your abstract idea worked and you are rewarded with +4 DM to your next Advancement roll. Failure results in the idea doing poorly and you are blamed; lose 1 Soc. 25 You were all that stood between your employer and a crazed fanatic, rolling Melee (any) 8+ to stop him if you wish. If successful, gain +1 Trust and your employer as an Ally. If you fail, roll on the Injury table. 26 Life Event. Roll on the Life Events table. 31 An unforeseen incident forces you to live as someone else for a few months. Increase an existing Cover Identity by +1 or create a new Cover Identity.
 
 32 Soldiers occupy your offices of employment and you pick up a few things from them. Gain Gun Combat (any) 1, Melee (any) 1 or Tactics 1.
 
 33 Your agency sends you as part of a natural disaster relief force to a frontier zone. Gain Animals (farming) 1, Medic 1 or Survival 1.
 
-34 Scandal tears through your employer’s offices but there is no such thing as bad publicity. Gain +1 Soc but lose 1 Trust.
+34 Scandal tears through your employer's offices but there is no such thing as bad publicity. Gain +1 Soc but lose 1 Trust.
 
 35 An important visiting dignitary hires your services mid-term, you can either gain them as a Network or add 1 level to any alien Language.
 
@@ -447,7 +447,7 @@ d66 d66 EventsEvents 11 Disaster! Roll on the Mishaps table but you are not ejec
 
 42 Your employer is killed in a starship crash, forcing you to act like him for over a year to get the job done. Increase either Deception or a Cover Identity by 1.
 
-43 You learn something that could destroy your immediate employer’s career instantly, allowing you to take his place. Withhold the information and gain +1 Trust or exploit the information and gain +2 DM on your next Advancement roll but gain the governing officer as an Enemy.
+43 You learn something that could destroy your immediate employer's career instantly, allowing you to take his place. Withhold the information and gain +1 Trust or exploit the information and gain +2 DM on your next Advancement roll but gain the governing officer as an Enemy.
 
 44 The governmental officer you are employed by asks you to do something vicious and immoral on his behalf. Go through with it and gain him as an Ally, refuse and he becomes a Rival.
 
@@ -455,7 +455,7 @@ d66 d66 EventsEvents 11 Disaster! Roll on the Mishaps table but you are not ejec
 
 46 Life Event. Roll on the Life Events table.
 
-51 You are assigned to take care of a very important official’s pet for the duration of a contract. Gain Animals
+51 You are assigned to take care of a very important official's pet for the duration of a contract. Gain Animals
 (training) 1 or Steward 1.
 
 52 The government you served was at war the entire term. Gain Gun Combat (any) 1, Medic 1 or Tactics 1.
@@ -553,19 +553,19 @@ SecuritySecurity EspionageEspionage BodyguardBodyguard SurvivalSurvival Intellig
 MISHAPS
 
 2d62d6 MishapMishap
-2 Severely Injured. Roll twice on the Injury table and take the lower result. 3 Bankruptcy! Your corporation goes under midway through your term. You must leave this career. Although you may muster out normally, you may not roll for Cash. 4 A rival agent double-crosses you and gets you fired from the agency. 5 You are injured in an act of sabotage. Roll on the Injury table but gain a Contact in the medical field. 6 A visiting executive ends up being killed while you were on duty. Lose 1 Trust. But you may continue as an Agent. 7 Your face is posted by accident in relation to a terrible mistake made by the employing corporation. Lose 1 Social Standing. 8 A new and villainous CEO of the megacorps moves in and decides he does not need you anymore, arranging for you to be on a malfunctioning ship. Roll on the Injury table and gain him as an Enemy. 9 Your corporation is bought out by an alien firm, you are ejected from the Agent career unless you have Language (any) 1 or Diplomat 2 or higher. 10 You are blamed for a massive loss of funds in the local branch. You are allowed to continue as an Agent but add 10,000 Credits to your debts to the company. 11 A long message delivery takes you far out of your corporation’s area of influence and you return to find your job held by someone else! 12 You are wounded in the line of duty. Roll on the Injury table.
+2 Severely Injured. Roll twice on the Injury table and take the lower result. 3 Bankruptcy! Your corporation goes under midway through your term. You must leave this career. Although you may muster out normally, you may not roll for Cash. 4 A rival agent double-crosses you and gets you fired from the agency. 5 You are injured in an act of sabotage. Roll on the Injury table but gain a Contact in the medical field. 6 A visiting executive ends up being killed while you were on duty. Lose 1 Trust. But you may continue as an Agent. 7 Your face is posted by accident in relation to a terrible mistake made by the employing corporation. Lose 1 Social Standing. 8 A new and villainous CEO of the megacorps moves in and decides he does not need you anymore, arranging for you to be on a malfunctioning ship. Roll on the Injury table and gain him as an Enemy. 9 Your corporation is bought out by an alien firm, you are ejected from the Agent career unless you have Language (any) 1 or Diplomat 2 or higher. 10 You are blamed for a massive loss of funds in the local branch. You are allowed to continue as an Agent but add 10,000 Credits to your debts to the company. 11 A long message delivery takes you far out of your corporation's area of influence and you return to find your job held by someone else! 12 You are wounded in the line of duty. Roll on the Injury table.
 
 EVENTS
 
 d66 d66 EventsEvents 11 Disaster! Roll on the Mishaps table but you are not ejected from this career.
-12 A negotiation turns hostile and the other company’s agents resort to force to solve the problem. Roll any Gun Combat or Melee skill 8+. Fail and roll on the Injury table. Succeed and gain +2 DM on your next Advancement roll.
-13 An alien government wants to subsidise your employer. Gain Language (any) 1 or Trade (any) 1.
+12 A negotiation turns hostile and the other company's agents resort to force to solve the problem. Roll any Gun Combat or Melee skill 8+. Fail and roll on the Injury table. Succeed and gain +2 DM on your next Advancement roll.
+13 An alien government wants to subsidize your employer. Gain Language (any) 1 or Trade (any) 1.
 14 You protect a fellow corporate agent from an enemy, earning him as an Ally.
 15 The corporation is sending your department to a primitive world to set up a new branch there, dealing with the locals if needs be. Gain Melee (any) 1, Persuade 1 or Survival 1.
 16 Life Event. Roll on the Life Events table.
 21 Someone in a commons room mistakes you for an important executive. If you tell him the truth before he says too much, gain 1 Trust. If you play along, roll Deception 7+. Succeed and you learn a powerful rumor enabling you to blackmail a senior executive, gaining you a +1 DM on your next benefit roll, fail and you are found out – lose 1 Trust.
 22 You are asked to test a prototype weapon for the R&D department. Roll Gun Combat (any) 9+ to use it successfully, gaining +1 Trust.
-23 The security manager of your company asks you to go undercover in a competitor’s firm. Increase the level of one of your Cover Identities or create a new one.
+23 The security manager of your company asks you to go undercover in a competitor's firm. Increase the level of one of your Cover Identities or create a new one.
 24 Your megacorp is put under the media microscope, making your job more difficult. Roll Deception or Stealth 8+ to avoid being seen doing something illicit on camera. Succeed and your boss commends you, gaining +1 Trust. Fail and you cannot advance in Rank this term.
 25 Special training officers have come to work at your corporation. You may increase any one skill you have at Level 0 to Level 1.
 26 Life Event. Roll on the Life Events table.
@@ -577,11 +577,11 @@ d66 d66 EventsEvents 11 Disaster! Roll on the Mishaps table but you are not ejec
 
 34 A unique business opportunity lies before you. Roll Trade (any) 8+ to make 1d6 x 1,000 Credits.
 
-35 There has been a banking error in your favour due to an error in the accounts department at your company. Keep the money and gain a +1 DM bonus to any single Benefit roll for Cash. Report the error and gain +1 Trust and Broker 1.
+35 There has been a banking error in your favor due to an error in the accounts department at your company. Keep the money and gain a +1 DM bonus to any single Benefit roll for Cash. Report the error and gain +1 Trust and Broker 1.
 
 36 Life Event. Roll on the Life Events table.
 
-41 The media does a favourable exposé on your branch of the corporation. Gain +1 Social Standing.
+41 The media does a favorable exposé on your branch of the corporation. Gain +1 Social Standing.
 
 42 You are sent on a long series of branch visits that take you all over the sector. Increase any one Language, Social Science or Trade skill by 1.
 
@@ -687,8 +687,8 @@ MISHAPS
 
 EVENTS
 
-d66 d66 EventsEvents 11 Disaster! Roll on the Mishaps table but you are not ejected from this career. 12 The employing agency mislabels a sociopathic mark as being ‘relatively harmless’. Roll Gun Combat (any) or Melee (any) 9+ to successfully capture him and avoid rolling on the Injury table. Succeed and gain +1 on your next Benefit roll. 13 You establish a good network of contacts on the street. Gain Streetwise 1 and Network (street). 14 A renowned legal advocate attempts to get your mark off the hook by throwing your agency to the media. Roll Advocate or Persuade 8+. If you fail, lose 1 Trust and suffer a –2 DM to your next Advancement roll. If you succeed, gain 1 Trust and a +2 DM to your next Advancement roll. Either way, gain the legal advocate as a Rival. 15 You encounter aliens whilst tracking a bounty. You may attempt to use force or diplomacy to deal with the situation by rolling either Melee (any) 8+ or Persuade 10+. If you succeed using Melee, gain an alien Enemy. If you succeed using Persuade, gain an alien Contact and a +2 DM to your next Advancement roll. 16 Life Event. Roll on the Life Events table. 21 You are weighed down with a huge amount of paperwork. Gain Admin 1, Advocate 1, Computers 1 or Comms 1. 22 A dangerous former mark has escaped and now stalks you and your family. Now and in each term afterwards until the mark is caught or you leave this career, roll Investigate 10+. If you succeed, the mark is caught; gain a
-+2 DM to your next Advancement roll. If you fail by 6 or more, lose one Contact, Ally or family member. 23 You have an unexpected and scandalous romantic relationship with a mark. Gain an Ally, then roll Deception 8+ to avoid losing 1 Trust. 24 You have the chance to make a brutal example of an unruly mark, showing other criminals you mean business. If you do, roll Melee (unarmed) 7+. Succeed and you can add 1 Trust and 1 level to Persuade. If you fail, add 1 Trust and roll on the Injury table. If you choose not to use brutality, gain +1 Social Standing for your show of ‘mercy’. 25 There is an opening in the local police force and they want you to join up. You may automatically qualify for the Law Enforcement (Special Operations) career next term. 26 Life Event. Roll on the Life Events table. 31 You hitch a ride to a mark on board a Star Marine vessel that owes your employer a favour and you might be able to talk them into showing you a few things in transit. Succeed in Carouse, Gambling or Persuade 9+ and learn Battle Dress 0, Heavy Weapons (any) 1 or Vacc Suit 1.
+d66 d66 EventsEvents 11 Disaster! Roll on the Mishaps table but you are not ejected from this career. 12 The employing agency mislabels a sociopathic mark as being 'relatively harmless'. Roll Gun Combat (any) or Melee (any) 9+ to successfully capture him and avoid rolling on the Injury table. Succeed and gain +1 on your next Benefit roll. 13 You establish a good network of contacts on the street. Gain Streetwise 1 and Network (street). 14 A renowned legal advocate attempts to get your mark off the hook by throwing your agency to the media. Roll Advocate or Persuade 8+. If you fail, lose 1 Trust and suffer a –2 DM to your next Advancement roll. If you succeed, gain 1 Trust and a +2 DM to your next Advancement roll. Either way, gain the legal advocate as a Rival. 15 You encounter aliens whilst tracking a bounty. You may attempt to use force or diplomacy to deal with the situation by rolling either Melee (any) 8+ or Persuade 10+. If you succeed using Melee, gain an alien Enemy. If you succeed using Persuade, gain an alien Contact and a +2 DM to your next Advancement roll. 16 Life Event. Roll on the Life Events table. 21 You are weighed down with a huge amount of paperwork. Gain Admin 1, Advocate 1, Computers 1 or Comms 1. 22 A dangerous former mark has escaped and now stalks you and your family. Now and in each term afterwards until the mark is caught or you leave this career, roll Investigate 10+. If you succeed, the mark is caught; gain a
++2 DM to your next Advancement roll. If you fail by 6 or more, lose one Contact, Ally or family member. 23 You have an unexpected and scandalous romantic relationship with a mark. Gain an Ally, then roll Deception 8+ to avoid losing 1 Trust. 24 You have the chance to make a brutal example of an unruly mark, showing other criminals you mean business. If you do, roll Melee (unarmed) 7+. Succeed and you can add 1 Trust and 1 level to Persuade. If you fail, add 1 Trust and roll on the Injury table. If you choose not to use brutality, gain +1 Social Standing for your show of 'mercy'. 25 There is an opening in the local police force and they want you to join up. You may automatically qualify for the Law Enforcement (Special Operations) career next term. 26 Life Event. Roll on the Life Events table. 31 You hitch a ride to a mark on board a Star Marine vessel that owes your employer a favor and you might be able to talk them into showing you a few things in transit. Succeed in Carouse, Gambling or Persuade 9+ and learn Battle Dress 0, Heavy Weapons (any) 1 or Vacc Suit 1.
 
 AAAGENTGENTGENT C C CHARACTERHARACTERHARACTER G G GENERATIONENERATIONENERATION
 
@@ -696,14 +696,14 @@ AAAGENTGENTGENT C C CHARACTERHARACTERHARACTER G G GENERATIONENERATIONENERATION
 
 33 A powerful criminal syndicate offers you a bribe. You may gain one extra Benefit roll each term you remain in this career if you accept. If you refuse, gain 1 Trust.
 
-34 A charming mark tries to talk you into ‘losing him’ for a substantial payoff. If you accept, lose 1 Trust but gain an additional Benefit roll worth of Cash. If you deny him, gain the mark as an Enemy.
+34 A charming mark tries to talk you into 'losing him' for a substantial payoff. If you accept, lose 1 Trust but gain an additional Benefit roll worth of Cash. If you deny him, gain the mark as an Enemy.
 
 35 Your mark is killed illegally by a rival, forcing you to go after them. Roll Investigate 8+, if you succeed you gain a
 +1 DM on your next Advancement roll for tying up loose ends.
 
 36 Life Event. Roll on the Life Events table.
 
-41 An incident with your employer’s spouse forces you to live as someone else for a few months or at least until he stops looking for you. Increase an existing Cover Identity by +1 or create a new Cover Identity.
+41 An incident with your employer's spouse forces you to live as someone else for a few months or at least until he stops looking for you. Increase an existing Cover Identity by +1 or create a new Cover Identity.
 
 42 The local military police are looking for the same mark as you are, aiding you with your search. You can learn a few things from their techniques. Gain Gun Combat (any) 1, Investigate 1 or Tactics 1.
 
@@ -770,7 +770,7 @@ Within the Ministry, the judges, wardens and their appointed arbiters are not as
 
 This is where the hiring of agents is important. For every subsector duke that has arranged for a judge to be appointed and a ducal court created, there are no less than two dozen agents working for that ducal office and the Ministry of Justice.
 
-Ministry agents tend to be enforcers of the legal system themselves, sometimes police officers, investigators or bounty hunters that have been pulled into the Ministry’s employ on account of their exemplary records or reputations. Whether they are honest and upstanding is another matter but their positions require them to at least pay lip service to Imperial Law.
+Ministry agents tend to be enforcers of the legal system themselves, sometimes police officers, investigators or bounty hunters that have been pulled into the Ministry's employ on account of their exemplary records or reputations. Whether they are honest and upstanding is another matter but their positions require them to at least pay lip service to Imperial Law.
 
 Agents employed by the Ministry of Justice are used in a variety of ways. They can expect their duties to include serving as stand-in tribunal members, travelling between planets or systems to serve as a Ministry notary, investigating the veracity of claims or evidence and even the acquisition and ferrying of criminals and convicts. When the judges do not have the manpower or resources, they will lean on their contracted agents to fulfil the necessary tasks. These agents carry credentials that make them the extension of a particular subsector duke and the ducal court.
 
@@ -778,12 +778,12 @@ In very rare cases, some agents of the Ministry of Justice are appointed or empl
 
 Working with the Imperial Ministry of Justice is lucrative and rarely dull because of the size and scope of the jurisdictions each ducal court covers. Never wanting for assignments, Imperial agents can look forward to dangerous missions and lengthy trips across entire sectors in the name of their employer. These agents are given a much broader scope of freedom to do their jobs; a by-product of being a cog in a judiciary machine that spans an empire.
 
-This loosely monitored system sometimes breeds corruption amongst Ministry agents, as it becomes easier to accept bribes and ‘lose’ evidence when the closest supervisory officer might be ten parsecs away. Agents that bend or break the edicts they are being paid to adhere to play a risky game with their careers and their lives.
+This loosely monitored system sometimes breeds corruption amongst Ministry agents, as it becomes easier to accept bribes and 'lose' evidence when the closest supervisory officer might be ten parsecs away. Agents that bend or break the edicts they are being paid to adhere to play a risky game with their careers and their lives.
 
 > [!info]+ WORKING WITHIN AN AGENCY
 > The major agencies discussed in this chapter are a good source of direction and information for anyone with terms in any of the Agent career paths but can represent something more for any character that ended its Character Creation as an active Agent.
 >
-> At the end of each agency section there are a handful of special actions that can be taken by characters who qualify for them. To qualify for these actions, the character must have the listed Rank in an Agent career path and ended their Character Creation as an active Agent. The actions are then listed like any other skill tests found in a Traveller sourcebook, all based on the character’s effective Trust score.
+> At the end of each agency section there are a handful of special actions that can be taken by characters who qualify for them. To qualify for these actions, the character must have the listed Rank in an Agent career path and ended their Character Creation as an active Agent. The actions are then listed like any other skill tests found in a Traveller sourcebook, all based on the character's effective Trust score.
 >
 > If an Agent does not have the prerequisite Rank to perform the action as listed, they instead suffer a negative Dice Modifier equal to double the difference in Rank. Similarly, if the Agent is of a higher Rank than what is listed they gain the difference as a positive Dice Modifier.
 >
@@ -795,17 +795,17 @@ Agents working for the Imperial Ministry of Justice...
 
 ...can work abroad with the power of the Imperium backing them.
 ...have a greater degree of freedom with how they interact with assets and resources due to the lack of direct supervision.
-...have better access to information that crosses star systems through their employers’ Imperial courier services.
+...have better access to information that crosses star systems through their employers' Imperial courier services.
 ...can expect to be accepted by most Imperial nobles at court or in their homes while on official business.
 ...can aspire to eventually carry an Imperial Warrant of Justice.
-...must pay close attention to the Imperial Edicts to stay within the Ministry’s graces.
+...must pay close attention to the Imperial Edicts to stay within the Ministry's graces.
 ...have the stigma attached to them as all Imperial officers and nobles do.
 ...are on a list of possible problem-solvers from which the Ministry could draft them at any time.
-...are common targets for anti-Imperial actions; as they are less likely to have military escorts but are just as ‘Imperial’ to their assailants.
+...are common targets for anti-Imperial actions; as they are less likely to have military escorts but are just as 'Imperial' to their assailants.
 
 ### Imperial Ministry of Justice Special Actions
 
-The following are special actions based on the Trust level of the Agent currently employed by the agency, marked by the requirements of the Agent’s current Rank.
+The following are special actions based on the Trust level of the Agent currently employed by the agency, marked by the requirements of the Agent's current Rank.
 
 RANK 0 _Temporary acquisition of personal Imperial assets (weapon, armor, etc.) worth up to Cr. 5,000:_ 1-6 Hours, Social Standing, Average
 (+0).
@@ -841,7 +841,7 @@ Police forces are localised (i.e. not interplanetary) agencies that exist to ser
 
 Every person in the service of the force is, technically speaking, an agent of the police. From the middle-aged beat cop to the rookie with a heart of gold, police of all sorts can be (and probably are) Agents. Depending on the legal structure for the local area, these agents can work openly and in uniform (or at least carry a badge) instead of behind closed doors and in secrecy. Agents working for a local police force are not always so upstanding or forthcoming but most police agents tend to be working for the greater communal good.
 
-Leaving larger and more influential Imperial High Law in the hands of the Ministry, local police forces focus their attentions on keeping their own community safe and law abiding. A planetary constabulary will not worry about catching an Imperial traitor unless asked to do so by a higher department but might have an entire task force dedicated to keeping street gangs under control or dangerous drugs out of circulation. Just as the Ministry of Justice could not care any less about the miniscule happenings of some town on the far side of a subsector, the local police agents do not need to stress about that ducal magistrate’s treasonous appropriation of funds.
+Leaving larger and more influential Imperial High Law in the hands of the Ministry, local police forces focus their attentions on keeping their own community safe and law abiding. A planetary constabulary will not worry about catching an Imperial traitor unless asked to do so by a higher department but might have an entire task force dedicated to keeping street gangs under control or dangerous drugs out of circulation. Just as the Ministry of Justice could not care any less about the miniscule happenings of some town on the far side of a subsector, the local police agents do not need to stress about that ducal magistrate's treasonous appropriation of funds.
 
 The agents working for a local police force must have three main considerations in mind when taking the job – the legal code they will be upholding, the public opinion of the police force and the severity of the criminal element they will be opposing.
 
@@ -849,7 +849,7 @@ The first consideration is what the local populace considers their level of law 
 
 The next consideration an agent must pay attention to before hiring on with a local police force is the least vital of the three but important nonetheless. Police agents are always in direct contact with the populace of their communities, interacting with them as individuals just as often as they do as agents. This can be made much more difficult if the locals dislike the law enforcement agents, making it harder upon them to work within the confines of a populated area. Tyrannical governments that appoint hard-edged soldiers as their police agents may find the people are not helpful or even a hindrance out in the streets. Police agents do not ever want to have to fight their entire community, leaving the criminals to work their illegal trades at their leisure. Every police agent with common sense knows he needs the help of the civilians he is set to protect and serve in order to carry out job effectively and safely.
 
-The last and most important consideration is the state of criminal affairs in the police force’s jurisdiction. There is a great deal of sway either way, with some communities having almost no regular crime and others seemingly ruled by criminal gangs and underworld syndicates. Areas with lighter criminal concentrations tend to be safer and lower-waged assignments that are somewhat dull to an agent looking for excitement in his career. Conversely, highly criminalized communities can have a better compensation scale due to hazard pay at the possible risk of one’s life. An agent looking to get hired onto a police force must know what they are getting into.
+The last and most important consideration is the state of criminal affairs in the police force's jurisdiction. There is a great deal of sway either way, with some communities having almost no regular crime and others seemingly ruled by criminal gangs and underworld syndicates. Areas with lighter criminal concentrations tend to be safer and lower-waged assignments that are somewhat dull to an agent looking for excitement in his career. Conversely, highly criminalized communities can have a better compensation scale due to hazard pay at the possible risk of one's life. An agent looking to get hired onto a police force must know what they are getting into.
 
 There are two main types of police force agents; those who believe wholly in the legal system and those who take advantage of their role within it. The former are the upstanding agents that do their best to make a law-abiding society they can be happy to live within. The latter are opportunistic and selfish, looking to only make the most for themselves and their friends at the expense of the legal system. Both types of police agents have a place in the greater universe, making interesting personalities to interact with on both sides.
 
@@ -868,12 +868,12 @@ Agents working for a local Police Force...
 ...have excellent access to avenues for training skills, gaining Contacts and researching Enemies.
 ...are frequently targeted by violent criminals.
 ...make people nervous when they are around and in uniform (if any).
-...might be called on by their government to act against their own community’s people.
+...might be called on by their government to act against their own community's people.
 ...are controlled and commanded by a single officer or small collection of officers; all of whom could be corrupted.
 
 ### Local Police Forces Special Actions
 
-The following are special actions based on the Trust level of the Agent currently employed by the agency, marked by the requirements of the Agent’s current Rank.
+The following are special actions based on the Trust level of the Agent currently employed by the agency, marked by the requirements of the Agent's current Rank.
 
 RANK 0 _Learn about local legal and criminal activity:_ 10-60 Minutes, Easy
 (+2).
@@ -904,9 +904,9 @@ RANK 6 _Petition Imperial Ministry of Justice for employment membership:_ 10- 60
 
 ## THE MEGACORPORATIONS
 
-Megacorporations are massive concerns which employ many agents, they are economic, commercial and occasionally political powerhouses that run entire subsectors through trillion-Credit deals and businesses. These ‘megacorps’ are like galactic empires in their own right; bowing to the company insignia and kissing the hand of their CEO instead of a nation’s flag or a king’s crown. Within some of these tremendously powerful organizations there are more employees and assets than many worlds.
+Megacorporations are massive concerns which employ many agents, they are economic, commercial and occasionally political powerhouses that run entire subsectors through trillion-Credit deals and businesses. These 'megacorps' are like galactic empires in their own right; bowing to the company insignia and kissing the hand of their CEO instead of a nation's flag or a king's crown. Within some of these tremendously powerful organizations there are more employees and assets than many worlds.
 
-In the same fashion as a galactic government or nation, the megacorps have their own laws, territories and managerial hierarchies that exist within the boundaries of each corporation’s ‘ruling’ board of directors. Instead of keeping track of a sovereign currency they watch the rise and fall of their stock prices. Knowing the lengths that some rivals would go to, the megacorps hire private armies and mercenaries to protect their assets and holdings while seeking out ways to take advantage of their rivals. They fight most of their wars with ledgers, publicity and advertising; though bullets and blades do come into play between the megacorps often enough. Megacorps have one basic rule they must follow – make profit for the company. If this means resorting to corporate espionage, sabotage and even violence; so be it.
+In the same fashion as a galactic government or nation, the megacorps have their own laws, territories and managerial hierarchies that exist within the boundaries of each corporation's 'ruling' board of directors. Instead of keeping track of a sovereign currency they watch the rise and fall of their stock prices. Knowing the lengths that some rivals would go to, the megacorps hire private armies and mercenaries to protect their assets and holdings while seeking out ways to take advantage of their rivals. They fight most of their wars with ledgers, publicity and advertising; though bullets and blades do come into play between the megacorps often enough. Megacorps have one basic rule they must follow – make profit for the company. If this means resorting to corporate espionage, sabotage and even violence; so be it.
 
 Megacorporations employ hundreds of millions, even _billions_ , of workers throughout their various factories, offices, foundries and the like. These employees perform the majority of the tasks required to keep the business running and the profits coming. It falls upon the shoulders of additional agents to perform the assorted other duties the megacorp needs accomplished. Depending on the megacorp, these duties could be menial and benign; or they could be more demanding and of a highly questionable moral intent.
 
@@ -914,15 +914,15 @@ Agents working for a megacorp must ask themselves one question - what are they w
 
 Some of the largest megacorporations in Charted Space, like Ling- Standard Products or Instellarms, have tens thousands of agents on their payroll. They are expected to report between missions to local branches or officers for new instructions, receiving their pay and perhaps bonuses based on the duties they perform. Retained agents like this are similar to how some private armies keep mercenaries on hand for special missions; the difference is that a mercenary is normally working a _legal_ ticket and the agent is being sent in to do something a common employee could not – or would not.
 
-All of the megacorps carry a ‘Limited liability Imperial Charter’ or LIC. This Imperially petitioned, sanctioned and notarised license allows the corporation to travel and trade freely throughout the Imperium. They are allowed to house their own military forces to protect their worksites and merchant ships, so long as the number of capable troops and standard equipment issued is kept on record at the Ministry of Defence just in case the Imperial armed forces have to make a move against them.
+All of the megacorps carry a 'Limited liability Imperial Charter' or LIC. This Imperially petitioned, sanctioned and notarised license allows the corporation to travel and trade freely throughout the Imperium. They are allowed to house their own military forces to protect their worksites and merchant ships, so long as the number of capable troops and standard equipment issued is kept on record at the Ministry of Defence just in case the Imperial armed forces have to make a move against them.
 
 Inter-corporation espionage and spying is commonplace; sending agents undercover into the workplaces of other megacorps in order to find out what they are doing, expecting and planning. In a conflict across red tape, writs and measures of profit, information is a better weapon than a meson projector on a traditional battlefield.
 
-A megacorp agent signs a contract, non-disclosure agreement and privatization record with his chosen employer. These are what keep the agent (hopefully) from simply selling everything he learns from his employer to the next competitor, making a quick score before disappearing into thin air. Those who dare double-cross the megacorps are targeted with extreme prejudice. The kinds of researchers, investigators and bounty hunters a wronged megacorp can afford are not going to give up easily. A foolish agent who breaks his contract with a megacorp is rarely one that is ‘missing’ for long.
+A megacorp agent signs a contract, non-disclosure agreement and privatization record with his chosen employer. These are what keep the agent (hopefully) from simply selling everything he learns from his employer to the next competitor, making a quick score before disappearing into thin air. Those who dare double-cross the megacorps are targeted with extreme prejudice. The kinds of researchers, investigators and bounty hunters a wronged megacorp can afford are not going to give up easily. A foolish agent who breaks his contract with a megacorp is rarely one that is 'missing' for long.
 
-Not all megacorp agents are assigned underhanded company tactics or missions based on illegal activities. They are sometimes requested to serve as private, classified couriers or even testers for a corporate prototype the company’s research teams recently came up with. Agents are also tapped for their particular skills at times, sent out to find vital resources, information or asset leads that other employees may not be able to arrange.
+Not all megacorp agents are assigned underhanded company tactics or missions based on illegal activities. They are sometimes requested to serve as private, classified couriers or even testers for a corporate prototype the company's research teams recently came up with. Agents are also tapped for their particular skills at times, sent out to find vital resources, information or asset leads that other employees may not be able to arrange.
 
-Despite the fact legal actions are important to any company, most megacorps rarely utilise their agents solely in such a way. There is simply more money to be made by waging hidden wars against rival companies and competing megacorps. The use of agents to steal secrets from a competitor can greatly aid a megacorporation’s operations, and can provide an inexpensive shortcut, helping to avoid months of expensive research and development. Such actions are illegal in most civilizations but what government has the influence or money to commit a megacorporation to a trial? Even the Imperium often turns a blind eye to the despicable things that take place between the megacorps unless it directly affects their major assets.
+Despite the fact legal actions are important to any company, most megacorps rarely utilise their agents solely in such a way. There is simply more money to be made by waging hidden wars against rival companies and competing megacorps. The use of agents to steal secrets from a competitor can greatly aid a megacorporation's operations, and can provide an inexpensive shortcut, helping to avoid months of expensive research and development. Such actions are illegal in most civilizations but what government has the influence or money to commit a megacorporation to a trial? Even the Imperium often turns a blind eye to the despicable things that take place between the megacorps unless it directly affects their major assets.
 
 Some of the major megacorporations that frequently hire agents are:
 
@@ -940,7 +940,7 @@ A massive organization with Ling-Standard Products, LIC –   a wide portfolio o
 
 ### Naasirka
 
-A high-tech research, development and trading firm of robotics, cybernetics and computer goods, this megacorp is of Vilani origin and management. This company is also the source for the X-Boat program’s powerful communications and sensor equipment.
+A high-tech research, development and trading firm of robotics, cybernetics and computer goods, this megacorp is of Vilani origin and management. This company is also the source for the X-Boat program's powerful communications and sensor equipment.
 
 ### Agency Employment Summary
 
@@ -953,12 +953,12 @@ Agents working for a Megacorporation...
 ...are well rewarded for exemplary service.
 ...will be asked to perform unscrupulous acts.
 ...are expected to stay employed for an as-to-be-determined amount of time.
-...cannot talk about some of their work for fear of having their contract ‘violently terminated’.
+...cannot talk about some of their work for fear of having their contract 'violently terminated'.
 ...will only be told what the corporation feels they need to know and nothing more.
 
 ### Megacorporation Special Actions
 
-The following are special actions based on the Trust level of the Agent currently employed by the agency, marked by the requirements of the Agent’s current Rank.
+The following are special actions based on the Trust level of the Agent currently employed by the agency, marked by the requirements of the Agent's current Rank.
 
 RANK 0 _Find a local affiliate of the megacorp:_ 10-60 Minutes, Easy (+2).
 
@@ -998,13 +998,13 @@ Indefinite use of megacorp planetary vehicular asset: 1-6 Days, Average
 
 ## THE ESCHATON MOVEMENT
 
-The galaxy is a very large place populated by people whose beliefs range from the commonplace ideology of a higher power to the nihilistic view of an eternal nothingness and everything in between. Many cultures have some kind of prophesised ‘end’ to Creation and many of these beliefs point toward a strange root similarity. These similarities, over the centuries, have meshed into one collective ideal. This ideal is called the Eschaton Movement – the lifelong search for the final destiny of the universe; the end of everything.
+The galaxy is a very large place populated by people whose beliefs range from the commonplace ideology of a higher power to the nihilistic view of an eternal nothingness and everything in between. Many cultures have some kind of prophesised 'end' to Creation and many of these beliefs point toward a strange root similarity. These similarities, over the centuries, have meshed into one collective ideal. This ideal is called the Eschaton Movement – the lifelong search for the final destiny of the universe; the end of everything.
 
 The various galactic religions and belief structures all tend to view their own set of eschatological thoughts as the perfect way to end Existence. This collective thought pushes the religious forward in their actions, always believing that they will find eternal peace, nirvana or their own version of paradise when everything comes to an end. Some of these people actively work _toward_ that final moment. These are agents that are part of the Eschaton Movement.
 
 Unlike those that work specifically for a company or organization, Eschaton agents work to uphold the ideals and beliefs of their own faith in order to ensure that their views of the End will be waiting for them when it comes to a close. This is not an easy path to follow but for those that truly believe in its message it is the only real choice.
 
-Agents that serve their faith’s eschatological teachings are sometimes seen as zealots or fanatics but many work toward the end of all things with even heads and logical choices. For them, their decision to urge the universe toward its end is simply the right thing to do and acting upon that decision is matter-of-fact. Some of the most successful Eschaton agents never mention to anyone what their final goal is – they simply work toward the End as if they were any other normal galactic agent.
+Agents that serve their faith's eschatological teachings are sometimes seen as zealots or fanatics but many work toward the end of all things with even heads and logical choices. For them, their decision to urge the universe toward its end is simply the right thing to do and acting upon that decision is matter-of-fact. Some of the most successful Eschaton agents never mention to anyone what their final goal is – they simply work toward the End as if they were any other normal galactic agent.
 
 Unless an organised faith or church actually employs them, Eschaton agents are treated very similarly as freelancers. They work for whoever can help them set up their mission assignments and earn enough money to continue working toward their goals. Sometimes they must accept assignments that are not in the greater plan to reach the awaited End but an agent knows that he must be able to afford living and working if he is to continue his work.
 
@@ -1022,7 +1022,7 @@ Originating with the Esyyat (minor alien) on account of a prophet Sansdantka, th
 
 ### The Universal Truth Engine
 
-A strange and convoluted religion, the believers of the UTE claim all of Creation is an unbalanced equation. They believe the actions of the inherently good and the inherently evil throw off the balance of things and only when true equality is reached will the equation be solved and the universe will transcend into perfection. UTE members believe in utter neutrality; including battling for or against the sides of good or evil depending on which side is currently throwing off the ‘balance’.
+A strange and convoluted religion, the believers of the UTE claim all of Creation is an unbalanced equation. They believe the actions of the inherently good and the inherently evil throw off the balance of things and only when true equality is reached will the equation be solved and the universe will transcend into perfection. UTE members believe in utter neutrality; including battling for or against the sides of good or evil depending on which side is currently throwing off the 'balance'.
 
 ### Agency Employment Summary
 
@@ -1039,13 +1039,13 @@ Agents working for the Eschaton Movement...
 
 ### Eschaton Agent Special Actions
 
-The following are special actions based on the Trust level of the Agent currently employed by the agency, marked by the requirements of the Agent’s current Rank.
+The following are special actions based on the Trust level of the Agent currently employed by the agency, marked by the requirements of the Agent's current Rank.
 
 RANK 0 _Discover a friendly member of the faith:_ 1-6 Days, Average (+0).
 
 RANK 1 _Determine whether a mission or action works for or against the greater Eschaton:_ 1-6 Hours, Education, Average (+0).
 
-_Request the use of the faith’s local headquarters as shelter, hospice, etc:_ 1-6 Hours, Easy (+2).
+_Request the use of the faith's local headquarters as shelter, hospice, etc:_ 1-6 Hours, Easy (+2).
 
 RANK 2 _Get church/faith permission to meet another local Eschaton agent:_ 10- 60 Hours, Average (+0).
 
@@ -1069,9 +1069,9 @@ There are many agents out in the galaxy that do not have one specific employer. 
 
 Freelance agents have the freedom of not having to follow a set of rules consistently; their individual codes of conduct change from employer to employer. One assignment might have the freelancer stopping a smuggler from bringing drugs across planetary lines; the next might require him to sell those same types of drugs to a local population. It is a varied and spontaneous life they lead but it also requires a flexibility that some people just do not have.
 
-Most freelancers advertise in planetary bulletins or ensure their contact information ends up travelling by word of mouth to potential clientele. A single mission assignment might keep the agent’s power packs charged and vehicles running for a few weeks at a time – but the money always runs out eventually.
+Most freelancers advertise in planetary bulletins or ensure their contact information ends up travelling by word of mouth to potential clientele. A single mission assignment might keep the agent's power packs charged and vehicles running for a few weeks at a time – but the money always runs out eventually.
 
-Some freelancers might claim that they specialize in a particular field or assignment style but the good ones make no promises or exceptions. A wealthy freelance agent is the one that never says ‘no’, taking on multiple jobs at once. It is a freelancer’s role to take on the jobs that others either cannot perform or do not want.
+Some freelancers might claim that they specialize in a particular field or assignment style but the good ones make no promises or exceptions. A wealthy freelance agent is the one that never says 'no', taking on multiple jobs at once. It is a freelancer's role to take on the jobs that others either cannot perform or do not want.
 
 Agency Employment Summary Agents working as freelancers...
 
@@ -1082,7 +1082,7 @@ Agency Employment Summary Agents working as freelancers...
 ...have no employer-contracted allies to call upon in an emergency.
 ...are considered less loyal or trustworthy than a contracted agent.
 
-Freelance Agent Special Actions The following are special actions based on the Trust level of the Agent currently unemployed by any specific agency, marked by the requirements of the Agent’s current Rank.
+Freelance Agent Special Actions The following are special actions based on the Trust level of the Agent currently unemployed by any specific agency, marked by the requirements of the Agent's current Rank.
 
 RANK 0 _Arrange to meet with a former employer:_ 10-60 Hours, Easy (+2).
 
@@ -1112,15 +1112,15 @@ Petition a megacorporation for contracted employment: 1-6 Weeks, Social Standing
 
 Where there is civilization in the galaxy, there are laws designed to protect it and make it operate safely and smoothly. The laws of each civilization differ a little from one to the next but there tends to be a pattern of similarities that outline what most sentient species consider to be right, just or at least tolerable enough to be _legal_.
 
-In _Traveller_ , a planet’s primary culture has the strictness of its laws described by a code – the planet’s Law Level. While to some this is just a digit found in the long string of letters and numerals for a planet’s UWP, it can actually say a great deal about the cultural impact that crime and punishment have upon that world’s peoples.
+In _Traveller_ , a planet's primary culture has the strictness of its laws described by a code – the planet's Law Level. While to some this is just a digit found in the long string of letters and numerals for a planet's UWP, it can actually say a great deal about the cultural impact that crime and punishment have upon that world's peoples.
 
-This chapter is devoted to helping define how the law is handled across the galaxy, especially by the Agents that a culture or community may have on hand to help turn the wheels of legal justice. Agents tend to work on the razor’s edge of the law, hopping back and forth over what is necessary and what is legal in an effort to get their assignments done without finding themselves in restraints before the local judge. We have chosen to use this book to better detail the workings of the _Traveller_ legal system – from both sides of the law.
+This chapter is devoted to helping define how the law is handled across the galaxy, especially by the Agents that a culture or community may have on hand to help turn the wheels of legal justice. Agents tend to work on the razor's edge of the law, hopping back and forth over what is necessary and what is legal in an effort to get their assignments done without finding themselves in restraints before the local judge. We have chosen to use this book to better detail the workings of the _Traveller_ legal system – from both sides of the law.
 
 ## LAW LEVEL
 
-In the game system of _Traveller_ , there is a standardised rule put into effect that explains what is considered legal or not on specific planets and to what extent. This rule is called ‘Law Level’ and it is a relatively simple idea on the surface.
+In the game system of _Traveller_ , there is a standardised rule put into effect that explains what is considered legal or not on specific planets and to what extent. This rule is called 'Law Level' and it is a relatively simple idea on the surface.
 
-As it was presented in the _Traveller Core Rulebook_ (starting on page 173), a planet’s Law Level is randomly determined by rolling 2d6–7 and adding another piece of the UWP, the Government characteristic. This results in a listed number that shows how strict the laws concerning that class of item or circumstance truly are; the higher the number (ranging from 0 to 9) the more tightly policed or controlled it is.
+As it was presented in the _Traveller Core Rulebook_ (starting on page 173), a planet's Law Level is randomly determined by rolling 2d6–7 and adding another piece of the UWP, the Government characteristic. This results in a listed number that shows how strict the laws concerning that class of item or circumstance truly are; the higher the number (ranging from 0 to 9) the more tightly policed or controlled it is.
 
 A quick description of the ten Law Levels is as follows:
 
@@ -1132,7 +1132,7 @@ A quick description of the ten Law Levels is as follows:
 
 3 (Standard Limited):3 (Standard Limited): Safety laws begin to appear at this level, with the governing power trying to limit what is readily available to protect the general populace.
 
-4 (Heavy Limited):4 (Heavy Limited): The first appearance of ‘common sense’ laws, this Law Level has thick restrictions on anything that might cause undue or irreparable harm to the common people.
+4 (Heavy Limited):4 (Heavy Limited): The first appearance of 'common sense' laws, this Law Level has thick restrictions on anything that might cause undue or irreparable harm to the common people.
 
 5 (Strict):5 (Strict): The governing power has begun to set arbitrary limitations on things and situations now; likely based on personal politics rather than the good of the whole.
 
@@ -1147,17 +1147,17 @@ A quick description of the ten Law Levels is as follows:
 > [!info]+ PLAYER CHARACTERS AND LEGAL TROUBLES
 > Unless a Referee has a group of the most upstanding and morally abiding players and characters in his game, there will come a time when legal trouble is assured. Someone will hijack a car, hold up a merchant or simply commit a heinous act like murder in a way that cannot be ignored.
 >
-> Traveller is not a game that coddles characters that make foolish errors but rather a game that can punish those with little foresight when considering their actions. Few Referees want to respond to their Player Characters’ illegal behaviours by tossing them into a brutal shootout with the local police or spend the rest of their years trying to escape an Imperial prison but what happens when the players give the Referee no other choice?
+> Traveller is not a game that coddles characters that make foolish errors but rather a game that can punish those with little foresight when considering their actions. Few Referees want to respond to their Player Characters' illegal behaviours by tossing them into a brutal shootout with the local police or spend the rest of their years trying to escape an Imperial prison but what happens when the players give the Referee no other choice?
 
 > [!info]+ Legal Troubles
 > Here are a few ideas on how to make Player Character legal troubles into interesting plotlines and gaming sessions:
 >
 > - A wealthy noble could buy them out of their legal troubles in order to force them into service for him. Perhaps this noble is a villain that needs them to do other nefarious acts on his behalf or maybe he has other reasons for helping them.
 > - An entire campaign could be based around the survival of the Player Characters in a hardcore Imperial prison, especially as they slowly work their way toward escape. Player Character arrests could be a good lead-in to our _Adventure 2: Prison Planet_.
-> - The Player Characters could be asked to become informants within the criminal element of the world, receiving adjusted prison sentences in exchange for what they can learn from their ‘peers’.
+> - The Player Characters could be asked to become informants within the criminal element of the world, receiving adjusted prison sentences in exchange for what they can learn from their 'peers'.
 
 Types of Contraband and Illegal Activities
-Added as an expansion to the table found on page 176 in the _Traveller Core Rulebook,_ the following sections explain in greater detail what the Law Levels mean in respect to each of the potentially regulated items, services and other facets of a culture. These are general views that might see a slight bit of variance from culture to culture but are good guidelines to follow when dealing with a _Traveller_ setting’s legal system.
+Added as an expansion to the table found on page 176 in the _Traveller Core Rulebook,_ the following sections explain in greater detail what the Law Levels mean in respect to each of the potentially regulated items, services and other facets of a culture. These are general views that might see a slight bit of variance from culture to culture but are good guidelines to follow when dealing with a _Traveller_ setting's legal system.
 
 The Law Level 0 has no descriptions, as there are no legal restrictions at that level to discuss.
 
@@ -1187,7 +1187,7 @@ DRUGS 1 – 1 – Only the most dangerous and physically addictive drugs are dis
 
 4 – 4 – Anything with an addictive property to its chemical structure is added to the illegal category of drugs by the government, who want to keep its citizens from becoming dependant on them.
 
-5 – 5 – Powerful drugs that stem the effects of aging, anagathics are now considered dangerous in the hands of common citizens. At this Law Level they are governmentally controlled and kept watch over to ensure ‘safe’ usage.
+5 – 5 – Powerful drugs that stem the effects of aging, anagathics are now considered dangerous in the hands of common citizens. At this Law Level they are governmentally controlled and kept watch over to ensure 'safe' usage.
 
 6 – 6 – The potential for recreational use of medicinal drugs like Fast and Slow are brought into suspicion of abuse at this Law Level. The government feels that only medical professionals should make use of such chemical stimulants and depressants.
 
@@ -1197,13 +1197,13 @@ DRUGS 1 – 1 – Only the most dangerous and physically addictive drugs are dis
 
 9 – 9 – All chemical additives of any kind are restricted by the government. No medicines, no vitamins, no anagathics; nothing of the sort are considered legal in any way.
 
-INFORMATION 1 – 1 – The government only cares about the use of artificial intelligences and intellect programming; anything that can make an inorganic thing seem sentient. Robots with lifelike programming that still remain non-heuristic are generally viewed as ‘optionally legal’.
+INFORMATION 1 – 1 – The government only cares about the use of artificial intelligences and intellect programming; anything that can make an inorganic thing seem sentient. Robots with lifelike programming that still remain non-heuristic are generally viewed as 'optionally legal'.
 
 2 – 2 – Software that hides codes, information and smuggled data in a normal computer is rarely used for upstanding purposes to begin with but this Law Level forces all Agent programming of that sort to be considered illegal. Even if being used to send encrypted messages or store classified data, these programs are not to be used.
 
 3 – 3 – Adding software packages designed to break through other encryption software to the illegal list at this Law Level is supposed to help protect the government from hackers and data thieves. The government begins to set up censorship protocols to keep abti-government activists from learning too much about classified goings on.
 
-4 – 4 – At this Law Level the government no longer wants the citizen public to have access to software that could keep them from seeing what the people are doing electronically. Security programs are solely owned by officials and spies, with everyone else’s data being public access.
+4 – 4 – At this Law Level the government no longer wants the citizen public to have access to software that could keep them from seeing what the people are doing electronically. Security programs are solely owned by officials and spies, with everyone else's data being public access.
 
 5 – 5 – Technology is severely restricted. The usage of any professional software programs is tightly limited.
 
@@ -1217,7 +1217,7 @@ INFORMATION 1 – 1 – The government only cares about the use of artificial in
 
 TECHNOLOGY 1 – 1 – Making only the most dangerous and invasive technologies illegal, like full-body replacement cybernetics and self-replicating nanotech, the government keeps these devices out of the hands of those who could not handle the power or responsibility.
 
-2 – 2 – Watching out for technologies that are designed and manufactured by alien species, the government sets laws against the use of alien sciences. This could be due to a protectionist view of their people’s goods or perhaps on account of some kind of xenophobia.
+2 – 2 – Watching out for technologies that are designed and manufactured by alien species, the government sets laws against the use of alien sciences. This could be due to a protectionist view of their people's goods or perhaps on account of some kind of xenophobia.
 
 3 – 3 – Fearing that the common citizen cannot handle the responsibility for themselves, the government claims that all ultra-science technology (TL 15) is restricted without their clearance.
 
@@ -1254,7 +1254,7 @@ TRAVELLERS 1 – 1 – The government keeps open borders and allows free travel 
 
 PSIONICS 1 – 1 – With only the basest regulations on psionic abilities, the government feels it necessary to keep track of convicted psi-offenders or psions with particularly dangerous talents. The government does not restrict these abilities but needs to know who has access to them.
 
-2 – 2 – Governmental control over psionic abilities is increased to a standard registration of all psions, noting who has access to which abilities in case they are to be utilised, monitored or apprehended. A new set of ‘psi-laws’ is put into place that seriously punishes those who use dangerous or overly invasive psionic abilities.
+2 – 2 – Governmental control over psionic abilities is increased to a standard registration of all psions, noting who has access to which abilities in case they are to be utilised, monitored or apprehended. A new set of 'psi-laws' is put into place that seriously punishes those who use dangerous or overly invasive psionic abilities.
 
 3 – 3 – This Law Level further restricts the psionic members of a population by requiring any and all practicing psions with the telepathy talent to be employed by the government. Telepathic use outside of government-approved services will be punished by anti- psi chemicals and inhibiting drug treatments.
 
@@ -1262,13 +1262,13 @@ PSIONICS 1 – 1 – With only the basest regulations on psionic abilities, the 
 
 5 – 5 – No longer seeing any distinction between the psionic talents, the government claims complete control over psions. Only those employed by the governing agency can use their talents, all others are chemically or surgically inhibited.
 
-6 – 6 – This Law Level treats psionic-enhancing drugs and chemicals like any other dangerous narcotic substance. Possessing such substances is considered reason enough to prosecute the individual for ‘intention to break psi-restrictions’.
+6 – 6 – This Law Level treats psionic-enhancing drugs and chemicals like any other dangerous narcotic substance. Possessing such substances is considered reason enough to prosecute the individual for 'intention to break psi-restrictions'.
 
-7 – 7 – The government no longer caters to psionic abilities in any way, seeing any use of them as a dangerous crime against the populace. Being a natural psion is likely to mean being forced to take chemical inhibitors by the state or being deported from the common population for ‘mental safekeeping’.
+7 – 7 – The government no longer caters to psionic abilities in any way, seeing any use of them as a dangerous crime against the populace. Being a natural psion is likely to mean being forced to take chemical inhibitors by the state or being deported from the common population for 'mental safekeeping'.
 
-8 – 8 – This Law Level sees the use or manufacture of anything involving psionic technologies as a precursor to psionic revolution, banning their very existence under strict penalties. The only exception is often a government ‘anti-psi’ agency, which is likely armed with technologies aimed at nullifying psions.
+8 – 8 – This Law Level sees the use or manufacture of anything involving psionic technologies as a precursor to psionic revolution, banning their very existence under strict penalties. The only exception is often a government 'anti-psi' agency, which is likely armed with technologies aimed at nullifying psions.
 
-9 – 9 – The government has a strict ‘no tolerance’ policy for anything at all related to psionic ability, technology or genetics. Psions are sterilised, lobotomised or worse.
+9 – 9 – The government has a strict 'no tolerance' policy for anything at all related to psionic ability, technology or genetics. Psions are sterilised, lobotomised or worse.
 
 ##### LEGAL INVESTIGATION
 
@@ -1286,10 +1286,10 @@ The investigator must make sure he is looking into the right crimes, criminals o
 It takes three successful consecutive Research-related skill tasks to ensure the investigator is looking into things properly. The investigating character may not progress into Discovery without them.
 
 ASTROGATION
-Tracing a ship’s potential travel route: 1-6 Hours, Education, Difficult (–2).
+Tracing a ship's potential travel route: 1-6 Hours, Education, Difficult (–2).
 
 CAROUSE
-Learning the basic information to begin the investigation from the target’s peers: 1-6 Days, Intelligence, Difficult (–2).
+Learning the basic information to begin the investigation from the target's peers: 1-6 Days, Intelligence, Difficult (–2).
 
 COMPUTERS
 Finding an electronic signature to start researching: 10-60 Hours, Education, Average (+0).
@@ -1305,12 +1305,12 @@ _Find the root of the investigation:_ 10-60 Minutes, Intelligence, Average (+0).
 SENSORS
 _Looking through sensor data to find the root of the investigation:_ 1-6 Hours, Intelligence, Average (+0).
 
-_As an example, Marchus has been tasked by his commissioner to uncover the truth behind a missing person’s case that has just been upgraded to murder. He chooses to use his extensive background in technology, rolling at first a Sensors skill test that takes him all night... which he sadly fails. Seeing that only putting in personal face time will work with this criminal, he instead tries Carouse, Investigate and Recon; all of which he succeeds at. He now knows where he must begin to seek out the criminal in question, an Aslan called Iklaugh._
+_As an example, Marchus has been tasked by his commissioner to uncover the truth behind a missing person's case that has just been upgraded to murder. He chooses to use his extensive background in technology, rolling at first a Sensors skill test that takes him all night... which he sadly fails. Seeing that only putting in personal face time will work with this criminal, he instead tries Carouse, Investigate and Recon; all of which he succeeds at. He now knows where he must begin to seek out the criminal in question, an Aslan called Iklaugh._
 
 Discovery
-The majority of the investigation is made up of ‘discovery’. This is the physical process of the investigator going out and looking for clues, evidence or other factors that will eventually lead to the unveiling and capture of the target in question. During the discovery process of an investigation, every facet of the target must be pored over. Missing one small detail or clue could cost the investigator many days’ worth of travel and legwork; even the case altogether if the clue is important enough. Discovery is the most important part of the investigation process and can take weeks, months or even years to come to fruition depending on the case in question.
+The majority of the investigation is made up of 'discovery'. This is the physical process of the investigator going out and looking for clues, evidence or other factors that will eventually lead to the unveiling and capture of the target in question. During the discovery process of an investigation, every facet of the target must be pored over. Missing one small detail or clue could cost the investigator many days' worth of travel and legwork; even the case altogether if the clue is important enough. Discovery is the most important part of the investigation process and can take weeks, months or even years to come to fruition depending on the case in question.
 
-Each successful Discovery-related skill task (including common uses of the Investigate skill) will add a single piece of Evidence to the investigator’s case. The final Evidence number is important for the application of Justice, covered later in this chapter.
+Each successful Discovery-related skill task (including common uses of the Investigate skill) will add a single piece of Evidence to the investigator's case. The final Evidence number is important for the application of Justice, covered later in this chapter.
 
 ADMIN _Searching through bureaucratic files and memos for clues:_ 1-6 Hours, Intelligence, Difficult (–2).
 
@@ -1327,7 +1327,7 @@ Eavesdropping on comms signals: 1-6 Minutes, Education, Difficult
 
 COMPUTERS Finding electronic connections that lead to the target: 10-60 Hours, Intelligence, Difficult (–2).
 
-Write a search program that finds the target’s use of specific electronic devices: 1-6 Days, Education, Very Difficult (–4). This skill task will produce two pieces of Evidence.
+Write a search program that finds the target's use of specific electronic devices: 1-6 Days, Education, Very Difficult (–4). This skill task will produce two pieces of Evidence.
 
 DECEPTION Fast-talking a law enforcement agent to give you information: 1-6 Minutes, Intelligence, Average (+0).
 
@@ -1341,7 +1341,7 @@ PERSUADE Intimidate a witness to give over information: 1-6 Minutes, Intelligenc
 
 Convince bystanders to explain what they might know or have seen: 10- 60 Minutes, Social Standing, Difficult (–2).
 
-Convincing target’s peers or relatives to help case: 1-6 Hours, Intelligence or Social Standing, Very Difficult (–4). This skill task will produce two pieces of Evidence.
+Convincing target's peers or relatives to help case: 1-6 Hours, Intelligence or Social Standing, Very Difficult (–4). This skill task will produce two pieces of Evidence.
 
 RECON Follow a successful visual cue at the crime scene: 10-60 Minutes, Intelligence, Difficult (–2).
 
@@ -1365,7 +1365,7 @@ _As an example, Marchus continues his hunt for Iklaugh. Using Advocate, Carouse,
 
 Verification Once the investigator has everything he needs he can then present his case to the authority that has jurisdiction over the target. This can be a local constabulary, an Imperial agent, the leader of a criminal syndicate or a noble family patriarch, depending on why the investigator has put together the case in the first place. The verification component is where the investigator double-checks all of his findings, making sure he has the right target and nothing obvious has gotten past him. Effectively, this component to an investigation is proper fact-checking, data cleaning and editing out what is not needed to make the case.
 
-The investigating character must attempt three of the following Verification skill tasks to make sure his Evidence will affect the Justice the target will receive. Each failed Verification skill task will remove 1d6 pieces of Evidence from the character’s overall case.
+The investigating character must attempt three of the following Verification skill tasks to make sure his Evidence will affect the Justice the target will receive. Each failed Verification skill task will remove 1d6 pieces of Evidence from the character's overall case.
 
 ADMIN _Fact checking with a bureaucratic assistant:_ 1-6 Hours, Intelligence, Difficult (–2).
 
@@ -1408,11 +1408,11 @@ Determining what the justice system finds in a specific case is a five step proc
 
 Other than the Investigation, which was covered in an earlier section of this chapter, the steps to determining the findings are detailed in their own subsections below. They are listed in the order they take place, making it easy for Referees to move through the process page by page to achieve a final outcome.
 
-The Argument Once the case has officially been opened and brought before some form of judicial power, the representative of the prosecuting party must try to convince the judge, justice, arbiter, or other court authority, of the accused party’s guilt. The prosecuting individual must bring forth the evidence and explain what it is, where it was gathered and why it is relevant to a conviction.
+The Argument Once the case has officially been opened and brought before some form of judicial power, the representative of the prosecuting party must try to convince the judge, justice, arbiter, or other court authority, of the accused party's guilt. The prosecuting individual must bring forth the evidence and explain what it is, where it was gathered and why it is relevant to a conviction.
 
-It is the prosecution’s hope that the evidence gathered is enough to sway the judiciary, get the conviction and then qualify for the relevant punishment. Most importantly however, is that the argument made toward convicting the accused party can go a long way in making up the judge’s mind.
+It is the prosecution's hope that the evidence gathered is enough to sway the judiciary, get the conviction and then qualify for the relevant punishment. Most importantly however, is that the argument made toward convicting the accused party can go a long way in making up the judge's mind.
 
-The simplest part of the judicial process in game mechanics, the prosecution’s Argument can be summed up by a single skill task chosen from the ones below:
+The simplest part of the judicial process in game mechanics, the prosecution's Argument can be summed up by a single skill task chosen from the ones below:
 
 ADVOCATE Argue your evidence properly to a judicial agent: 10-60 Minutes, Education, Average (+0).
 
@@ -1422,19 +1422,19 @@ PERSUADE Appeal to personal beliefs or thoughts to get evidence accepted by a ju
 
 The result of this skill check is important to how well the rest of the case will proceed. Success means that the Argument was persuasive and all of the Evidence discovered during the Investigation is accepted and will carry on toward the next part of the Justice process.
 
-Failure however, will force the prosecuting character to make a single 2d6 dice roll, adding their Social Standing DM (or alien equivalent) to the result, consulting the table below to see how much of the prosecution’s Evidence has been thrown out by the judiciary agent’s reactions to the failed Argument.
+Failure however, will force the prosecuting character to make a single 2d6 dice roll, adding their Social Standing DM (or alien equivalent) to the result, consulting the table below to see how much of the prosecution's Evidence has been thrown out by the judiciary agent's reactions to the failed Argument.
 
 2d6 + 2d6 + Social Social Standing Standing ResultResult Failed Argument ResultsFailed Argument Results 0 or less Evidence is null and void; case is cancelled and the accused is released. 2-3 –2d6 pieces of Evidence. 3-4 –1d6+3 pieces of Evidence. 5-6 –1d6+2 pieces of Evidence. 7 –1d6+1 pieces of Evidence. 8-9 –3 pieces of Evidence. 10-11 –2 pieces of Evidence. 12 –1 piece of Evidence. 13+ Judiciary agent is unconvinced; re-roll Argument skill task using different skill.
 
 Unless the case is cancelled due to the failed argument, the judicial agent will then ask the accused party to defend himself – moving on to the next part of the Justice process.
 
-_Continuing the example from above, Marchus is called to argue the case against Iklaugh, bringing forth all of the evidence. Deciding to avoid using his limited Advocate skill in favour of his natural aptitude for Deception, Marchus is caught in a misleading statement and the Argument fails. He then rolls 2d6 and adds his Social Standing modifier of +1 for a total of 10; a good argument but still sees two pieces of Marchus’ Evidence thrown out of court._
+_Continuing the example from above, Marchus is called to argue the case against Iklaugh, bringing forth all of the evidence. Deciding to avoid using his limited Advocate skill in favor of his natural aptitude for Deception, Marchus is caught in a misleading statement and the Argument fails. He then rolls 2d6 and adds his Social Standing modifier of +1 for a total of 10; a good argument but still sees two pieces of Marchus' Evidence thrown out of court._
 
-THE DEFENCE After the prosecution’s representative has managed to get as much of his evidence allowed into the judiciary agent’s decision-making process through his Argument toward conviction, a representative for the defendant gets a chance to speak.
+THE DEFENCE After the prosecution's representative has managed to get as much of his evidence allowed into the judiciary agent's decision-making process through his Argument toward conviction, a representative for the defendant gets a chance to speak.
 
-Trying to sway the judicial agent against some of the evidence, this representative (which could be the accused party himself) can take several standpoints against specific pieces of Evidence being used to make the case. Unlike the prosecution, which must try to convince the judicial agent of the evidence’s worth to the case, the defending representative merely has to explain why certain things are invalid, do not apply here or are otherwise useless in determining the accused party’s guilt.
+Trying to sway the judicial agent against some of the evidence, this representative (which could be the accused party himself) can take several standpoints against specific pieces of Evidence being used to make the case. Unlike the prosecution, which must try to convince the judicial agent of the evidence's worth to the case, the defending representative merely has to explain why certain things are invalid, do not apply here or are otherwise useless in determining the accused party's guilt.
 
-In game terms, the Defence is made up of a number of individual motions brought up by the accused party’s representative. The number of these motions is dependant on the Social Standing of the representative, the Social Standing of the accused party and the Law Level of the society the accused party is said to have wronged.
+In game terms, the Defence is made up of a number of individual motions brought up by the accused party's representative. The number of these motions is dependant on the Social Standing of the representative, the Social Standing of the accused party and the Law Level of the society the accused party is said to have wronged.
 
 Use the table below to determine how many motions the Defence will be made of.
 
@@ -1446,7 +1446,7 @@ Law Level Law Level being being Applied to Applied to CaseCase
 
 Number Number of Motions of Motions GrantedGranted 1 1-2 9 –5 2-3 3-4 8 –2 4-5 5-6 7 0 6-7 7-10 6 1 8-9 11 5 2 10-11 12 4 3 12-13 13 3 4 14 14 2 5 15 15 1 6
 
-(^1) Both of these columns still apply individually if the Representative and the Accused Party are the same person. _Iklaugh sits in the court, hands in thumb-cuffed manacles but his appointed advocate stands and bows deeply to the court, particularly to the Imperial justice sitting at the stand before him. The advocate has a Social Standing of 8 (2 Motions) and is being tried for crimes against Law Level 5 (2 Motions). Iklaugh’s Social Standing is a miserable 4 (_ – _2 Motions). Looking at the table, the appointed advocate will have a net total of 2 Motions to try and get some of Marchus’ evidence thrown out of the case._ Once the defending representative has determined how many Motions with which he has to defend the accused, he can decide how to use them. Motions can be spent for the following effects:
+(^1) Both of these columns still apply individually if the Representative and the Accused Party are the same person. _Iklaugh sits in the court, hands in thumb-cuffed manacles but his appointed advocate stands and bows deeply to the court, particularly to the Imperial justice sitting at the stand before him. The advocate has a Social Standing of 8 (2 Motions) and is being tried for crimes against Law Level 5 (2 Motions). Iklaugh's Social Standing is a miserable 4 (_ – _2 Motions). Looking at the table, the appointed advocate will have a net total of 2 Motions to try and get some of Marchus' evidence thrown out of the case._ Once the defending representative has determined how many Motions with which he has to defend the accused, he can decide how to use them. Motions can be spent for the following effects:
 
 - Spending 1 Motion can have a case cancelled if the number of
   Evidence pieces is currently 0.
@@ -1462,9 +1462,9 @@ Number Number of Motions of Motions GrantedGranted 1 1-2 9 –5 2-3 3-4 8 –2 4
 
 After the defending representative has used up all his Motions and the final number of Evidence pieces has been determined, if the case is still active the judicial agent (arbiter, judge, jury, or other court official) will then have to take all remaining evidence and begin its Deliberation.
 
-Iklaugh’s advocate talks it over with him on how best to use their 2 Motions and they decide to gamble. Spending both remaining
+Iklaugh's advocate talks it over with him on how best to use their 2 Motions and they decide to gamble. Spending both remaining
 
-_Motions on the Advocate roll, the representative succeeds! His 1d6 roll unfortunately only comes up a 2 but that reduces Marchus’ Evidence pieces to only 4 before deliberation begins._
+_Motions on the Advocate roll, the representative succeeds! His 1d6 roll unfortunately only comes up a 2 but that reduces Marchus' Evidence pieces to only 4 before deliberation begins._
 
 THE DELIBERATION After the Defence uses its Motions, the case is left in the hands of the judicial agent to be deliberated over to ultimately determine the guilt or innocence of the accused individual. This is the Deliberation; the last and most tense moments someone has before the system lays down its final judgement.
 
@@ -1472,7 +1472,7 @@ Depending on the culture or government of the area, this can be as fast as a sum
 
 The time that the judicial agent(s) are in Deliberation is decided at random. This is partly for completeness of the justice process but it also gives characters a chance to possibly make some kind of non-case related difference. A long Deliberation could give someone enough time to find the real offender, bribe the judicial agents involved or even break out the accused. It might not mean anything to some situations but having all the facts about the Justice process can be a useful bit of information for players and Referees alike.
 
-To determine how long the Deliberation is, roll the dice listed on the table below based on the case’s Law Level modified by the number of Evidence pieces that the prosecution got past the Defence. The harsher the Law Level is, the faster the judiciary agent will come to its decision but the more Evidence presented can lengthen that time dramatically.
+To determine how long the Deliberation is, roll the dice listed on the table below based on the case's Law Level modified by the number of Evidence pieces that the prosecution got past the Defence. The harsher the Law Level is, the faster the judiciary agent will come to its decision but the more Evidence presented can lengthen that time dramatically.
 
 Marchus sits down after the Ducal Justice gathers up his papers and exits the room, leaving the two sides of the case to stare at their chronographs. As the Justice serves a Law Level 5 court and the prosecution had only 4 pieces of Evidence left, the table shows that the justice will be in deliberation for 1d6 hours. The Referee rolls the maximum, a 6 and explains to Marchus that he will be waiting for the verdict for quite a while.
 
@@ -1485,7 +1485,7 @@ In a perfectly balanced situation, there will be even odds that the judicial age
 
 2d6 Result2d6 Result VerdictVerdict 2-6 Not Guilty 7-8 Guilty – Minimal Punishment 9-10 Guilty – Common Punishment 11+ Guilty – Maximum Punishment
 
-There are a number of modifiers that can affect the verdict die roll, helping sway the judicial agent’s final say.
+There are a number of modifiers that can affect the verdict die roll, helping sway the judicial agent's final say.
 
 Number of Evidence Pieces in DeliberationNumber of Evidence Pieces in Deliberation Law Law LevelLevel
 
@@ -1499,18 +1499,18 @@ Number of Evidence Pieces in DeliberationNumber of Evidence Pieces in Deliberati
 
 Once the judicial agent has reached a verdict and the time for deliberation has passed, the case is either judged as Not Guilty and no further proceedings are necessary or Guilty and the case must then be passed down into the next stage of Justice – the Punishment.
 
-_In the continued example, the court waits with baited breath as the Imperial justice returns to the room. The Referee gives a long sigh and explains that he rolled initially 6, a Not Guilty result but Marchus’ 4 pieces of Evidence pushed the justice over the limit. Although Iklaugh will only be getting the minimal amount of punishment, he is still found Guilty._
+_In the continued example, the court waits with baited breath as the Imperial justice returns to the room. The Referee gives a long sigh and explains that he rolled initially 6, a Not Guilty result but Marchus' 4 pieces of Evidence pushed the justice over the limit. Although Iklaugh will only be getting the minimal amount of punishment, he is still found Guilty._
 
 THE PUNISHMENT A Guilty verdict in a case brings about the next and final stage of _Traveller_ Justice – the Punishment of the offender. This is possibly the fastest and simplest part of a case, as it requires really only one die roll modified by the case circumstances.
 
-The _Traveller_ Justice system will allow the guilty party to either pay a hefty fine directly to the judiciary agent immediately for some crimes. Listed on the tables below as an ‘Equivalent Fine’, these financial penalties essentially eliminate the need for the listed Punishment. Some crimes do not have an Equivalent Fine, as noted below; these punishments cannot be avoided.
+The _Traveller_ Justice system will allow the guilty party to either pay a hefty fine directly to the judiciary agent immediately for some crimes. Listed on the tables below as an 'Equivalent Fine', these financial penalties essentially eliminate the need for the listed Punishment. Some crimes do not have an Equivalent Fine, as noted below; these punishments cannot be avoided.
 
 When the guilty party does not have access to the listed amount, they may seek the aid of a bail bondsman. A bondsman forces the guilty party to pay 10% of the Equivalent Fine, of which he puts up the remaining 90%. After 30 days, if the guilty party has not come forward and paid off the loaned balance, the bondsman turns them into the judicial agent as
-‘delinquent’ and bounty hunters are sent to fetch them. Once captured, the listed Punishment immediately goes into effect.
+'delinquent' and bounty hunters are sent to fetch them. Once captured, the listed Punishment immediately goes into effect.
 
 To determine what sort of punishment a guilty offender receives, the Referee rolls 2d6 on the relevant table below (determined during Deliberation) and applies the following modifiers (if any apply).
 
-- –2 if the crime was classed as ‘petty’ (non-violent, thefts worth
+- –2 if the crime was classed as 'petty' (non-violent, thefts worth
   less than 10,001 Credits).
 - –1 if the crime was non-violent but worth more than 10,000
   Credits.
@@ -1607,23 +1607,23 @@ Imprisonment – Imprisonment – The convict is sent off the world, station or 
 
 Genetic Tagging – Genetic Tagging – The convict has a full biological workup done and put on file with the correctional facility. This information automatically counts as 10 pieces of Evidence toward any future Justice processes made against the convict.
 
-Life Sentence/Double Life Sentence – Life Sentence/Double Life Sentence – The convict is sentenced to a specific number of year’s worth of imprisonment in a maximum- security facility. Convict earns two days worth of imprisonment for every ten-hour enforced work day he puts in without incident.
+Life Sentence/Double Life Sentence – Life Sentence/Double Life Sentence – The convict is sentenced to a specific number of year's worth of imprisonment in a maximum- security facility. Convict earns two days worth of imprisonment for every ten-hour enforced work day he puts in without incident.
 
 Chemical Sterilization – Chemical Sterilization – The convict is drugged heavily to nullify any potential problems. Psions are given psionic dulling injections, physically strong convicts are given tranquillisers and the overly cunning are given heavy anti-psychotics to numb their minds. Receiving the injections every seven days, they are potent up to 1d6+6 days after each dose.
 
 Psionic Solitary Confinement – Psionic Solitary Confinement – Also called mind-wiping, the convict is telepathically scoured of free thought. They become a living automaton, barely aware of their surroundings and answering to simple commands. In cultures where psionics are banned even for government use, treat this as a Death Sentence instead.
 
-As the example concludes, Iklaugh stands and awaits his punishment with a snarl on his face – giving an evil eye toward Marchus and the prosecuting team. The Imperial justice sees this unspoken threat and gives his sentencing with extreme prejudice. The Referee rolls 2d6 on the Minimal Punishments table and laughs as he rolls a ‘10’. This, adjusted by the +2 for Iklaugh’s murder charge, makes the result a ‘12’, a roll on the next table! The Referee rolls a 7 (+2 again for the murder charge resulting in a 9) and the resulting 2d6x10 years gives Marchus satisfaction for a long, long time. The justice grins at the shocked Aslan, explaining that he will be spending 80 years in an Imperial prison out on the galactic frontier.
+As the example concludes, Iklaugh stands and awaits his punishment with a snarl on his face – giving an evil eye toward Marchus and the prosecuting team. The Imperial justice sees this unspoken threat and gives his sentencing with extreme prejudice. The Referee rolls 2d6 on the Minimal Punishments table and laughs as he rolls a '10'. This, adjusted by the +2 for Iklaugh's murder charge, makes the result a '12', a roll on the next table! The Referee rolls a 7 (+2 again for the murder charge resulting in a 9) and the resulting 2d6x10 years gives Marchus satisfaction for a long, long time. The justice grins at the shocked Aslan, explaining that he will be spending 80 years in an Imperial prison out on the galactic frontier.
 
 ### INFORMANTS
 
-In the greater scope of law enforcement throughout _Traveller_ , there is nothing more useful than some person willing to hand over details to an investigation, providing invaluable aid towards capturing a criminal. These loose-lipped individuals are collectively called ‘Informants’.
+In the greater scope of law enforcement throughout _Traveller_ , there is nothing more useful than some person willing to hand over details to an investigation, providing invaluable aid towards capturing a criminal. These loose-lipped individuals are collectively called 'Informants'.
 
 Informants are a specialized version of Contact available only to characters with the proper skill prerequisites. They are fonts of knowledge about a specific set of skills and backgrounds, offering bonuses to the character calling upon them. Unlike Contacts however, Informants do not always help the character out of altruism. Most often they require some form of monetary compensation.
 
-A character can choose to utilise any of his active Informants by first paying the ‘costs’ listed next to the skill benefit desired. Once paid, the character gains the listed benefit to that skill for up to 3 tests made in the current and following day. This is to signify that the information given by the Informant is not always the most recent or precise and quickly becomes outdated.
+A character can choose to utilise any of his active Informants by first paying the 'costs' listed next to the skill benefit desired. Once paid, the character gains the listed benefit to that skill for up to 3 tests made in the current and following day. This is to signify that the information given by the Informant is not always the most recent or precise and quickly becomes outdated.
 
-Whenever a character receives a new Contact, whether it is in character creation or during play, they may decide to try and make them an Informant instead of a common Contact. This requires the character to pass a required ‘Relationship Roll’; a particular skill test at a set difficulty that will either chase the potential Informant away _or_ seal the relationship with them, adding them to the character’s stable of Contacts, Allies and now Informants.
+Whenever a character receives a new Contact, whether it is in character creation or during play, they may decide to try and make them an Informant instead of a common Contact. This requires the character to pass a required 'Relationship Roll'; a particular skill test at a set difficulty that will either chase the potential Informant away _or_ seal the relationship with them, adding them to the character's stable of Contacts, Allies and now Informants.
 
 Each Informant entry below is made up of the following information:
 
@@ -1663,7 +1663,7 @@ Investigate: Investigate: +1 DM (50 Credits or any dose of drug) Streetwise: Str
 
 MARKET ASSISTANT Broker (7+)Broker (7+)
 
-Always happy to sell some insider trade information to a trusted source, this stressed-out financial aide breaks his employers’ trust all of the time for a few credits.
+Always happy to sell some insider trade information to a trusted source, this stressed-out financial aide breaks his employers' trust all of the time for a few credits.
 
 Broker: Broker: +1 DM (50 Credits) Social Science (economics): Social Science (economics): +2 DM (100 Credits) Trade (any): Trade (any): +1 DM (100 Credits) Trade (any): Trade (any): +2 DM (250 Credits)
 
@@ -1725,32 +1725,32 @@ Wanted For – Wanted For – The crime or crimes the accused is being investiga
 
 Description – Description – A brief narrative description of the case in general
 
-ETC – ETC – ‘Estimated Time to Capture’; the amount of time the character(s) have to fully complete the Legal Investigation portion of the case.
+ETC – ETC – 'Estimated Time to Capture'; the amount of time the character(s) have to fully complete the Legal Investigation portion of the case.
 
 # ESPIONAGE
 
-It is an agent’s role to perform duties for his employer that might otherwise seem underhanded, shady or illegal. Amongst the most common of these less moral of practices is espionage. For some employers, agents are just useful tools with a high (or not so high) price tag attached to them – making it very easy to send them into dangerous or morally questionable situations.
+It is an agent's role to perform duties for his employer that might otherwise seem underhanded, shady or illegal. Amongst the most common of these less moral of practices is espionage. For some employers, agents are just useful tools with a high (or not so high) price tag attached to them – making it very easy to send them into dangerous or morally questionable situations.
 
 Espionage is defined as being the systematic use of spies and other operatives to acquire government, commercial or military secrets. In _Traveller_ , secrets can be just as deadly or powerful as a laser rifle, killing careers and making heroes just as easily.
 
-This chapter is dedicated to the use of agents in the role of spies, data thieves or other providers of illicit services; specifically in a position that works against a government. With the information revealed here, any agent on a government’s payroll gains new tactics, schemes and ways to get away with doing the questionable.
+This chapter is dedicated to the use of agents in the role of spies, data thieves or other providers of illicit services; specifically in a position that works against a government. With the information revealed here, any agent on a government's payroll gains new tactics, schemes and ways to get away with doing the questionable.
 
 ## SPY VERSUS SPY
 
-In the ultra-competitive arena of agent-based espionage, it is inevitable that these manipulators and obfuscators will clash against one another at some point. This is the nature of an agent’s career choice and sometimes they have no idea what or who they are really up against.
+In the ultra-competitive arena of agent-based espionage, it is inevitable that these manipulators and obfuscators will clash against one another at some point. This is the nature of an agent's career choice and sometimes they have no idea what or who they are really up against.
 
 This section details how agents can work against one another in Traveller. Unlike the army infantryman or a naval fighter jock who merely have to out-shoot or out-fly their foes, an agent often has to
-‘out-spy’ his enemies. An agent’s skill base is his primary weapon; here we explain how opposing agents duel with the potent weapons at their disposal.
+'out-spy' his enemies. An agent's skill base is his primary weapon; here we explain how opposing agents duel with the potent weapons at their disposal.
 
-One of the most efficient and ‘hands free’ methods of protecting one’s own assets from intrusion by enemies is to hire a professional intruder to set up your defences. There is a large market for professional defence specialists, ‘white hat’ hackers, security system testers and other professions based solely on getting past someone’s defences to show where they need bolstering.
+One of the most efficient and 'hands free' methods of protecting one's own assets from intrusion by enemies is to hire a professional intruder to set up your defences. There is a large market for professional defence specialists, 'white hat' hackers, security system testers and other professions based solely on getting past someone's defences to show where they need bolstering.
 
-These infiltration professionals are used to set up amazing lines of anti-agent defences. This sets the bar a little higher for opposing agents to have to bypass their peers’ work, constantly testing and adapting to the evolving defensive arenas they must work within.
+These infiltration professionals are used to set up amazing lines of anti-agent defences. This sets the bar a little higher for opposing agents to have to bypass their peers' work, constantly testing and adapting to the evolving defensive arenas they must work within.
 
-This style of how agents work against one another puts the character at odds with the environment itself. Alternatively, this could place a Player Character agent in the role of setting up their employer’s defences against other operatives. Whether the character is being hired to arrange for, or safeguard against, infiltration could make for an interesting mission for any agent in Traveller.
+This style of how agents work against one another puts the character at odds with the environment itself. Alternatively, this could place a Player Character agent in the role of setting up their employer's defences against other operatives. Whether the character is being hired to arrange for, or safeguard against, infiltration could make for an interesting mission for any agent in Traveller.
 
 No matter which side of the contest the character is on, most skill checks used in these situations are going to be Opposed skill checks. The character arranging for the defence of the area or item in question makes note of what skills he is using to protect the target, explaining each one to the Referee as he does so. When finished, the defensive environment is considered set.
 
-When another character tries to get past the defensive environment, the Referee may not want to have an entire gaming session based around the Agent working his way through these defensive obstacles one at a time. Player Character groups consisting of many different character types may not want to spend too much time watching the Agent get all of the Referee’s attention. To make a scene like this easier to deal with, he can use a faster system to narrate the process. While it is possible for each individual measure of the defensive environment to be overcome with a single skill check, this combined testing system allows a Referee to run a series of singular events in a shorter amount of time. This creates a more openly narrative approach to the intrusion but still retains the varied elements involved.
+When another character tries to get past the defensive environment, the Referee may not want to have an entire gaming session based around the Agent working his way through these defensive obstacles one at a time. Player Character groups consisting of many different character types may not want to spend too much time watching the Agent get all of the Referee's attention. To make a scene like this easier to deal with, he can use a faster system to narrate the process. While it is possible for each individual measure of the defensive environment to be overcome with a single skill check, this combined testing system allows a Referee to run a series of singular events in a shorter amount of time. This creates a more openly narrative approach to the intrusion but still retains the varied elements involved.
 
 The Referee creates a list of skills that will oppose those used by the defending character. When the list is complete the Referee has the characters battle one another in an extended contest of Opposed skill checks; one for each skill used to set the defences. The party
 
@@ -1762,21 +1762,21 @@ _As an example, Sergia, the corporate spy, is preparing to break into the secure
 
 The best method of thwarting an agent is to ensure you have a more skilled agent on your payroll. This time-tested approach to counter- agent measures is demonstrated in the number of skills that can be used to oppose each skill used. If a talented and well-trained operative is in charge of making sure other agents or spies do not get past them or their obstacles, the employer is safe – until his enemies hire someone even more skilled or well-trained!
 
-The Opposed Skills table shows many of the skills commonly used by agents, operatives and spies in their line of work. It shows what sorts of skills can be used in an Opposed check to foil another character’s successes in that skill and gives an example or two to describe how they would work. This table is by no means complete but it is a good reference point for Referees and players.
+The Opposed Skills table shows many of the skills commonly used by agents, operatives and spies in their line of work. It shows what sorts of skills can be used in an Opposed check to foil another character's successes in that skill and gives an example or two to describe how they would work. This table is by no means complete but it is a good reference point for Referees and players.
 
 ## DATA ANALYSIS – A GUIDE TO EXCELLENCE IN ESPIONAGE
 
-The goal of espionage is to acquire information. This can come in the form visual surveillance, hardcopy memos, data files or even scientific research collation. Anything that can be learned from the target by the operative can be the goal of the spying effort; the more valuable to the spy’s employer, the more successful the agent has been. It all depends on exactly what the spy manages to acquire, what it means to his employer and how it fits into the greater scope of their schemes.
+The goal of espionage is to acquire information. This can come in the form visual surveillance, hardcopy memos, data files or even scientific research collation. Anything that can be learned from the target by the operative can be the goal of the spying effort; the more valuable to the spy's employer, the more successful the agent has been. It all depends on exactly what the spy manages to acquire, what it means to his employer and how it fits into the greater scope of their schemes.
 
-Any agent can be told to break into someplace and steal ‘the green box from the CEO’s desk’ or ‘plant a listening device in the men’s room’. These elite espionage agents are good at data analysis while on a mission, giving them better options to steal the best secrets in the same amount of time it would take a lesser spy.
+Any agent can be told to break into someplace and steal 'the green box from the CEO's desk' or 'plant a listening device in the men's room'. These elite espionage agents are good at data analysis while on a mission, giving them better options to steal the best secrets in the same amount of time it would take a lesser spy.
 
-The key to data analysis is a wide basis of knowledge and a trained eye that can spot what others might not. Knowing the best communications line to tap, seeing the most profitable files to take from a safe, grabbing up additional prototype schematics while in a competitor’s R&D department; these are the sorts of actions good data analysis skills bring to the mission. Performing the extra work on a mission can be the difference between getting the job done and getting a bonus from your employer for exemplary service.
+The key to data analysis is a wide basis of knowledge and a trained eye that can spot what others might not. Knowing the best communications line to tap, seeing the most profitable files to take from a safe, grabbing up additional prototype schematics while in a competitor's R&D department; these are the sorts of actions good data analysis skills bring to the mission. Performing the extra work on a mission can be the difference between getting the job done and getting a bonus from your employer for exemplary service.
 
-Data analysis is a two-step process. It requires foreknowledge of the types of information the agent is looking at and the ability to extrapolate its worth to his employer. Just because a concealed file is priceless to its current owner does not mean the agent’s employer will be able to make any profit from it. A good spy knows what to take and what not to take; it is a fine line between acquiring good intelligence and accidentally leaving a trail behind.
+Data analysis is a two-step process. It requires foreknowledge of the types of information the agent is looking at and the ability to extrapolate its worth to his employer. Just because a concealed file is priceless to its current owner does not mean the agent's employer will be able to make any profit from it. A good spy knows what to take and what not to take; it is a fine line between acquiring good intelligence and accidentally leaving a trail behind.
 
-In game mechanics, any agent placed on an Espionage mission targeting a specific kind of ‘data’ will need to have the right skills to analyse the information he is gathering if he wishes to better profit from the mission. The targeted type of data for each mission will match to a specific skill used to analyse it, detailed below.
+In game mechanics, any agent placed on an Espionage mission targeting a specific kind of 'data' will need to have the right skills to analyse the information he is gathering if he wishes to better profit from the mission. The targeted type of data for each mission will match to a specific skill used to analyse it, detailed below.
 
-This table shows what skills are used to analyse the importance of data and the skills used to determine its secondary worth to the agent’s employer.
+This table shows what skills are used to analyse the importance of data and the skills used to determine its secondary worth to the agent's employer.
 
 Targeted Data Targeted Data TypeType^1 Primary Analysis SkillPrimary Analysis Skill
 
@@ -1787,7 +1787,7 @@ Trade
 
 Illegal Advocate Streetwise Organizational Steward Admin Personnel Investigate Admin Research Any related Science^2 Any related Science^2
 
-(^1) Determined randomly for any Espionage Mission targeting ‘data’.
+(^1) Determined randomly for any Espionage Mission targeting 'data'.
 (^2) The Science must be connected logically to the targeted field of data Research. Using the above skills as the basis for the checks, any character on an Espionage mission may try to bolster his mission bonus by analysing data discovered _before_ adding it to the docket turned in to the employer. This process requires two skill checks: _Primary Espionage Data Analysis_ ; 10-60 seconds; Intelligence or Education; Average (+0 DM)
 
 OPPOSED SKILLS
@@ -1802,12 +1802,12 @@ Computers Computers Hacking, planting and encrypting data; creating IC programs.
 
 Create hardware walls that stop networking.
 
-Deception Carouse Convince strangers to side with you despite the weight of opposing agent’s untruths. Deception Tell a bigger lie to sway listeners. Investigate Find all of the logical holes in opposing agent’s untruths. Persuade Talk listeners into siding with you instead of the opposition. Investigate Deception Hide the truth from opposing inquisition. Stealth Physically avoid being seen by the opposition. Streetwise Know how best to confuse or befuddle opposition through the use of street-level politics and gangs. Persuade Carouse Get people to like you better than the opposition. Deception Use trickery to sway others against the opposition. Persuade Make listeners loyal to your views instead of opposing ones. Streetwise Know what the street-level people want to hear in order to oppose current arguments. Sensors Comms Trigger ghost readings on sensors with tight-beam communication wavelengths. Computers Flood sensor caches with false or heavy data, slowing down the opposing sensor operator. Physical Sciences
+Deception Carouse Convince strangers to side with you despite the weight of opposing agent's untruths. Deception Tell a bigger lie to sway listeners. Investigate Find all of the logical holes in opposing agent's untruths. Persuade Talk listeners into siding with you instead of the opposition. Investigate Deception Hide the truth from opposing inquisition. Stealth Physically avoid being seen by the opposition. Streetwise Know how best to confuse or befuddle opposition through the use of street-level politics and gangs. Persuade Carouse Get people to like you better than the opposition. Deception Use trickery to sway others against the opposition. Persuade Make listeners loyal to your views instead of opposing ones. Streetwise Know what the street-level people want to hear in order to oppose current arguments. Sensors Comms Trigger ghost readings on sensors with tight-beam communication wavelengths. Computers Flood sensor caches with false or heavy data, slowing down the opposing sensor operator. Physical Sciences
 (Electronics)
 
 Hardwire a transmission loop directly at the sensor.
 
-Sensors Alter data in a functioning sensor device. Stealth Know where to be or what to do to thwart an active sensor. Stealth Investigate Look for clues as to opponent’s whereabouts. Recon Look for opponent or signs of opponent’s passage. Remote Operations Program remotes to ‘look’ for opponent. Sensors Widen or sharpen sensor fields to better find opponent. Streetwise Convince street-level locals to look out for opposing agent. Streetwise Advocate Manipulate law enforcement to stop opposing street agents. Carouse Win the trust of the street-level locals away from the opposition. Deception Use lies and trickery to get street-level locals to distrust the opposition. Persuade Convince other parties to become involved, neutralising the opponent’s street contacts. Streetwise Use inter-gang conflicts to stir up opposition on the street.
+Sensors Alter data in a functioning sensor device. Stealth Know where to be or what to do to thwart an active sensor. Stealth Investigate Look for clues as to opponent's whereabouts. Recon Look for opponent or signs of opponent's passage. Remote Operations Program remotes to 'look' for opponent. Sensors Widen or sharpen sensor fields to better find opponent. Streetwise Convince street-level locals to look out for opposing agent. Streetwise Advocate Manipulate law enforcement to stop opposing street agents. Carouse Win the trust of the street-level locals away from the opposition. Deception Use lies and trickery to get street-level locals to distrust the opposition. Persuade Convince other parties to become involved, neutralising the opponent's street contacts. Streetwise Use inter-gang conflicts to stir up opposition on the street.
 
 EEESPIONAGESPIONAGESPIONAGE
 
@@ -1832,9 +1832,9 @@ It should be noted that the rules for Data Analysis can also apply to agents und
 
 ## HACKING – PIRATES ON A SEA OF DATA
 
-A society’s inevitable move into the computing age manifests in many important ways. Information transfers from pages in a book to electrons stored on a hard drive, vaults full of hard currency turn into a flash of digits in formless online bank accounts and virtual lives spring up in an invisible world connected by fibre optics and transmission airwaves. As this evolution of computer technology grows, it adapts to encompass more and more of society’s needs.
+A society's inevitable move into the computing age manifests in many important ways. Information transfers from pages in a book to electrons stored on a hard drive, vaults full of hard currency turn into a flash of digits in formless online bank accounts and virtual lives spring up in an invisible world connected by fibre optics and transmission airwaves. As this evolution of computer technology grows, it adapts to encompass more and more of society's needs.
 
-Eventually the use and reliance of computer technology permeates the commercial and governmental arenas of a culture. The vast stores of data that exist within the invisible ‘network’ is more than any physical library could ever hope to hold and more wealth exists as ones and zeroes in the ether than has ever been minted in the ages previously. These advances in computer technology make the world a better place in most regards but it also creates new problems. Just as petty crimes evolve to match how the world works, so too does the world of computers.
+Eventually the use and reliance of computer technology permeates the commercial and governmental arenas of a culture. The vast stores of data that exist within the invisible 'network' is more than any physical library could ever hope to hold and more wealth exists as ones and zeroes in the ether than has ever been minted in the ages previously. These advances in computer technology make the world a better place in most regards but it also creates new problems. Just as petty crimes evolve to match how the world works, so too does the world of computers.
 
 Once a culture in _Traveller_ reaches a high enough technology to begin using computers for many of their day to day activities (around TL 8) a new type of agent that arises. As companies change their business practices to use computers for data storage, communication and
 
@@ -1842,21 +1842,21 @@ other routine utilities, the need for skilled computer technicians rises at the 
 
 Hackers are specialized computer experts that make a living by cruising the superhighway of cyberspace wherever and whenever they want, breaking through protective firewalls with ease to navigate the virtual world. Like agents that specialize in physical infiltrations, hackers have their own repertoire of individual practices that help them succeed. Some are subtle and stealthy, like a computerised cat burglar. Others are far more direct, ploughing through opposing encryptions like a battering ram.
 
-There are four classifications of hackers that exist in computerised societies: black hats, white hats, hacktivists and apocalysts. Each of these four types has individual reasons for devoting so much of their lives to breaking codes, inventing software loops and eavesdropping on other networks’ data streams. Their various methodologies set them distinctly apart from one another.
+There are four classifications of hackers that exist in computerised societies: black hats, white hats, hacktivists and apocalysts. Each of these four types has individual reasons for devoting so much of their lives to breaking codes, inventing software loops and eavesdropping on other networks' data streams. Their various methodologies set them distinctly apart from one another.
 
-Black hatsBlack hats or ‘crackers’, use their impressive computer skills to break into other networks for their own desires. Data theft, bank fraud, identity alteration/theft or just malicious vandalism of other people’s software are their common arenas of expertise. Most black hats begin their careers by playing pranks and seeing what they can accomplish as a hobby. Once they begin to make advances that can earn them money, fame or power they turn it into a profitable job. They begin stealing money from bank accounts, selling fake identities and stealing proprietary information from behind their keyboards. Black hat hackers are rarely ever hired for anything other than their ability to break encryption and firewalls, stealing whatever it is their employer requires.
+Black hatsBlack hats or 'crackers', use their impressive computer skills to break into other networks for their own desires. Data theft, bank fraud, identity alteration/theft or just malicious vandalism of other people's software are their common arenas of expertise. Most black hats begin their careers by playing pranks and seeing what they can accomplish as a hobby. Once they begin to make advances that can earn them money, fame or power they turn it into a profitable job. They begin stealing money from bank accounts, selling fake identities and stealing proprietary information from behind their keyboards. Black hat hackers are rarely ever hired for anything other than their ability to break encryption and firewalls, stealing whatever it is their employer requires.
 
-White hatsWhite hats, also known as ‘white knights’, are the opposite of black hats. Instead of using their aptitude for electronic intrusion and software breaking for illicit gains or malice, they help others protect their networks from criminal hacking. Knowing all the best ways to get past computer security allows a white hat to test a network’s defences, making notes where holes and weaknesses need to be ‘patched up’. A white hat agent has a plethora of private contracts and security positions waiting for them if they are open to employment. Despised by all other types of computerised criminals for being turncoats against the ‘hacker way’, these helpful hackers are constantly persecuted by their peers.
+White hatsWhite hats, also known as 'white knights', are the opposite of black hats. Instead of using their aptitude for electronic intrusion and software breaking for illicit gains or malice, they help others protect their networks from criminal hacking. Knowing all the best ways to get past computer security allows a white hat to test a network's defences, making notes where holes and weaknesses need to be 'patched up'. A white hat agent has a plethora of private contracts and security positions waiting for them if they are open to employment. Despised by all other types of computerised criminals for being turncoats against the 'hacker way', these helpful hackers are constantly persecuted by their peers.
 
 HacktivistsHacktivists are cyberspace propaganda experts that are fighting a war against a specific agency, group or idea. Committing criminal computer intrusions in order to broadcast political messages, silence propaganda sites, corrupt data streams that are contrary to their agendas; hacktivists are similar to black hats in that regard. They stick to a code of electronic ethics that targets the government, media or corporate authority that they are trying desperately to change. They are not above stealing or erasing funds from their
 
-‘enemies’ but they are not common thieves – everything they do is aimed at their foes. Unlike both types of ‘hats’, hacktivists are not normally hired by outside agencies. Unless their employer is also angled against their targets, they act alone.
+'enemies' but they are not common thieves – everything they do is aimed at their foes. Unlike both types of 'hats', hacktivists are not normally hired by outside agencies. Unless their employer is also angled against their targets, they act alone.
 
 ApocalystsApocalysts are the terrorists of the hacker world. These much-hated computer specialists spend all of their time designing and devising new and terrible ways to corrupt, erase or otherwise destroy the computers of the world around them. They are technological cannibals, using computer viruses and one-way decryption programs to get into restricted networks and then taking the parts of the software and code they find there. Like a cyberspace strip miner, the apocalyst destroys all unused data or code left behind in the networks they go to. They live for ruining the computerised assets of others, caring only for what they can use to inflict more damage upon their next hapless victims. Few employers would ever support the use of an apocalyst agent; they are too erratic and careless in their work. Agencies that do set these cyber-berserkers on their enemies do so at their own risk; an apocalyst rarely cares if the consequences of his actions do harm to his employer.
 
 Hackers are the villains and heroes of the computer world and a skilled agent that knows how to apply these skills in his missions properly can become very wealthy and powerful.
 
-Characters as Hackers Any character that is adept at the Computers skill can technically attempt to ‘hack’ using the basic skill check system described in the core rules (see page 54 of _Traveller Core Rulebook_ ) but true Hackers have access to special skill tasks and bonuses that other mere dabblers do not.
+Characters as Hackers Any character that is adept at the Computers skill can technically attempt to 'hack' using the basic skill check system described in the core rules (see page 54 of _Traveller Core Rulebook_ ) but true Hackers have access to special skill tasks and bonuses that other mere dabblers do not.
 
 To be considered a Hacker, a character must have all the following prerequisites:
 
@@ -1894,7 +1894,7 @@ EEESPIONAGESPIONAGESPIONAGE
 
 _Discover the source and/or electronic signature of a current or past hacking:_ 1-6 Minutes, Education or Intelligence, Average (+0).
 
-Boon: Boon: +1 DM on all Computers skill checks made on a network with the creators’ permission.
+Boon: Boon: +1 DM on all Computers skill checks made on a network with the creators' permission.
 
 Drawback:Drawback: –1 DM on all Computers skill checks made on illegal
 (non-permitted) processes.
@@ -1917,7 +1917,7 @@ Drawback:Drawback: –1 DM on all Social Standing checks made with potential emp
 
 ## IMPERIAL AGENTS
 
-The Third Imperium of Man did not grow to an epic interstellar governmental powerhouse by laying all of its cards on the table and not keeping its own secrets. Important and influential information is found, gathered and kept safe by the Imperium’s most well travelled, respected and universally feared agents.
+The Third Imperium of Man did not grow to an epic interstellar governmental powerhouse by laying all of its cards on the table and not keeping its own secrets. Important and influential information is found, gathered and kept safe by the Imperium's most well travelled, respected and universally feared agents.
 
 Imperial agents are permanent employees of the Imperium, sworn loyal to the Emperor himself and given the legal documentation to perform their business anywhere within his vast territory. Empowered in such a way, these agents are considered a direct extension of the Ministries of the Imperium even if their methods go beyond those which would be considered legal under Imperial law.
 
@@ -1929,9 +1929,9 @@ Law EnforcementLaw Enforcement agents are the long arm of Imperial law, falling 
 
 Imperial investigator agents, called InquisitorsInquisitors, uncover anything hidden from the eyes of the Emperor and the Ministries. Inquisitors are in charge of making sure Imperial agents remain loyal, testing them constantly to ensure they are not traitors in disguise. They are employed equally by the Ministry of Information and Communication as well as the Ministry of Justice, serving them as their prying eyes in the galaxy.
 
-Corporate AgentsCorporate Agents within the Imperium’s employ are employees of the Ministry of Commerce. These licensed agents keep track of the megacorporations, ensuring that these financial and economic superpowers do not work against the greater good of the Imperium. These agents are universally feared by the business community; it is upon their recommendations that companies lose their LIC (Limited liability Imperial Charter) if their reports reveal any anti-Imperial findings. Imperial corporate agents are not common but they are a steadfast reminder to the megacorporations of the Emperor’s ability to neutralise them if they must.
+Corporate AgentsCorporate Agents within the Imperium's employ are employees of the Ministry of Commerce. These licensed agents keep track of the megacorporations, ensuring that these financial and economic superpowers do not work against the greater good of the Imperium. These agents are universally feared by the business community; it is upon their recommendations that companies lose their LIC (Limited liability Imperial Charter) if their reports reveal any anti-Imperial findings. Imperial corporate agents are not common but they are a steadfast reminder to the megacorporations of the Emperor's ability to neutralise them if they must.
 
-Thought of as the most powerful of agents, Imperial SpiesImperial Spies are the secret workforce of the Ministry of State. Suitably called ‘Shadows’ by those who know of their existence, Imperial Spy agents serve one primary role – Know Thy Neighbour’s Secrets. Used to keep tabs upon Imperial citizens as often as they are deployed in foreign space, Shadows are allowed to do whatever they must to gather the information they need. If they have to lie, cheat, steal or even kill matters not at all to the Ministry, so long as the job is done.
+Thought of as the most powerful of agents, Imperial SpiesImperial Spies are the secret workforce of the Ministry of State. Suitably called 'Shadows' by those who know of their existence, Imperial Spy agents serve one primary role – Know Thy Neighbour's Secrets. Used to keep tabs upon Imperial citizens as often as they are deployed in foreign space, Shadows are allowed to do whatever they must to gather the information they need. If they have to lie, cheat, steal or even kill matters not at all to the Ministry, so long as the job is done.
 
 Imperial AnalystsImperial Analysts are given an elevated amount of personal power and social influence to keep them active and recognized within the circles of nobility and planetary governments. Imperial political analysts are the chief agents sent to work within a newly acquired
 (or re-acquired) Imperial colony, bringing the new regime to power hopefully without dissent.
@@ -1946,9 +1946,9 @@ The Power of Imperial Credentials Upon employment, the agents of the Imperium ar
 
 Granted only by the power of a Subsector Duke or higher, the four Imperial agency licences, their descriptions, requirements and benefits, are found below:
 
-THE IMPERIAL SANCTIONING Representing the root of Imperial legal powers, the Imperial Sanctioning is the badge of office used by law enforcement agents. It allows the agent to exact justice in the Emperor’s name, doing
+THE IMPERIAL SANCTIONING Representing the root of Imperial legal powers, the Imperial Sanctioning is the badge of office used by law enforcement agents. It allows the agent to exact justice in the Emperor's name, doing
 
-whatever is necessary to see Imperial law upheld. It is the Imperium- wide equivalent of a sheriff’s badge.
+whatever is necessary to see Imperial law upheld. It is the Imperium- wide equivalent of a sheriff's badge.
 
 Requirements: Requirements: Trust 2+, Advocate 2, Investigate 2, at least one term in a Law Enforcement Agent career path.
 
@@ -1988,19 +1988,19 @@ There are four steps to becoming an Imperial licensed agent. They are listed bel
 
 **Step Three – The Testing Grounds** 1d6x5 days after a successful interview, the agent is shipped off to an Imperial testing ground to be subjected to dozens of gruelling examinations of his body, mind and aptitudes. The agent may choose six Skills and two Characteristics. He must then take normal checks (all 8+) on all of these, hoping to pass no less than five of the tests. Failure results in the agent being rejected and sent back for a new interview (see Step Two). Success grants the agent a limited agency agreement with the Imperium.
 
-**Step Four – Qualify for an Imperial Licence** Once given a limited agency agreement, the agent officially has 2d6 standard months to meet the requirements of any of the Imperial Credentials (see above). During that period (2-12 months) the agent may ‘call in’ his qualifications to receive any of the Imperial
+**Step Four – Qualify for an Imperial Licence** Once given a limited agency agreement, the agent officially has 2d6 standard months to meet the requirements of any of the Imperial Credentials (see above). During that period (2-12 months) the agent may 'call in' his qualifications to receive any of the Imperial
 
-Credential licences he currently meets the requirements for. In order to gain new Credential licenses later in the agent’s career he must return to Step Two and re-apply for a new interview.
+Credential licences he currently meets the requirements for. In order to gain new Credential licenses later in the agent's career he must return to Step Two and re-apply for a new interview.
 
 ## GOVERNMENT AGENTS – THE LOCAL AUTHORITARIANS
 
-On a citywide, national or planetary scale, there are ‘localised’ governmental structures put into place to serve as the authority of the local populace. Even in nominally Imperial territories there is a local power structure that serves as the ‘grass roots’ power base in the area. The local government is merely a stand-in for proper representation of the nobility and governing forces – especially when there are Imperialists nearby.
+On a citywide, national or planetary scale, there are 'localised' governmental structures put into place to serve as the authority of the local populace. Even in nominally Imperial territories there is a local power structure that serves as the 'grass roots' power base in the area. The local government is merely a stand-in for proper representation of the nobility and governing forces – especially when there are Imperialists nearby.
 
 Just as the Imperium needs far-reaching hands to manipulate its territories, a local governmental agency needs employees to manage their own affairs. While they do not require the stable of agents that the Imperium keeps, they still need operatives to cover their needs. A city government might only need a few law enforcement agents and an investigator; whereas a planetary agency will want numerous spies and analysts to help them work with neighboring planets. Each government finds room for those with the skills and the will to use them.
 
-Agents are granted the responsibility to undertake missions for their government, no matter how small. Their roles diminish rapidly when an Imperial agent comes to the area, sometimes sent to operate in league with the locals, but the local agent still remains the true authoritarian to the people. Unless there is a significant Imperial presence to support them, the citizenry will always side with ‘their own’ instead of an ‘foreign agent’. This is what makes local governmental agents so important.
+Agents are granted the responsibility to undertake missions for their government, no matter how small. Their roles diminish rapidly when an Imperial agent comes to the area, sometimes sent to operate in league with the locals, but the local agent still remains the true authoritarian to the people. Unless there is a significant Imperial presence to support them, the citizenry will always side with 'their own' instead of an 'foreign agent'. This is what makes local governmental agents so important.
 
-It is variable as to what sorts of agent will be called upon to work for a specific government. The local agency’s ethics and social or technological advancement can influence exactly what kind of agent they need to hire at any given time. Even the most pious or seemingly moral governmental office may find themselves in need of a ruthless spy if the situation was dire enough. There are three groups of local government operatives most agents can be categorised into: Domestic, Foreign and Classified.
+It is variable as to what sorts of agent will be called upon to work for a specific government. The local agency's ethics and social or technological advancement can influence exactly what kind of agent they need to hire at any given time. Even the most pious or seemingly moral governmental office may find themselves in need of a ruthless spy if the situation was dire enough. There are three groups of local government operatives most agents can be categorised into: Domestic, Foreign and Classified.
 
 Domestic Agents A government that wants to be secure employs operatives to serve as its eyes and ears at home. The politicians may not be personally equipped or trained to manipulate the masses directly, so they hire agents. There are several different jobs that can be fulfilled to reinforce the local authority. These jobs require several types of agent, varying based on role.
 
@@ -2008,19 +2008,19 @@ The most numerous and commonplace of domestic agents are Law Law EnforcementEnfo
 
 general safety of the population, protecting them from the criminal element as well as other dangers from within.
 
-Working hand in hand with law enforcement, InvestigatorInvestigator agents solve the government’s issues by revealing the unknown about the populace. Sometimes seen as meddlesome snoops by the local police forces, these agents are not paid to be liked – just provide information.
+Working hand in hand with law enforcement, InvestigatorInvestigator agents solve the government's issues by revealing the unknown about the populace. Sometimes seen as meddlesome snoops by the local police forces, these agents are not paid to be liked – just provide information.
 
-There are always a number of CorporateCorporate agents working with any highly commercialised government, making sure business practices stay fair and safe for the general population, at least from the government’s point of view. A Corporate agent is less useful when businesses are not large or powerful but a local government _must_ watch its economic foundations.
+There are always a number of CorporateCorporate agents working with any highly commercialised government, making sure business practices stay fair and safe for the general population, at least from the government's point of view. A Corporate agent is less useful when businesses are not large or powerful but a local government _must_ watch its economic foundations.
 
-SpiesSpies do not turn their abilities inward upon the government’s own people as often as they are deployed as foreign agents, but they still exist as domestic agents. These undercover operatives keep the politicians apprised of secrets and scandals occurring between their borders. Revolutions, coups and other acts of sedition are thwarted by domestic spies.
+SpiesSpies do not turn their abilities inward upon the government's own people as often as they are deployed as foreign agents, but they still exist as domestic agents. These undercover operatives keep the politicians apprised of secrets and scandals occurring between their borders. Revolutions, coups and other acts of sedition are thwarted by domestic spies.
 
 Important to a localised governmental agency, AnalystsAnalysts are the direct servants of the politicians. They help the government officials operate more efficiently and protect them from harm, both physical and political. Anyone who holds an office in the public eye will want to have at least one Analyst agent on his payroll.
 
-Appearing when the legal system cannot handle its own workload, domestic Bounty HuntersBounty Hunters fill very specific roles within the government’s employ. They become more plentiful as the government becomes larger, a reflection of the increased need for criminal-tracking abilities within the increased territory. Governments with high Law Levels or strict punishments will need agents to plug the holes in their justice system, and often use Bounty Hunters. They keep law enforcement from getting bogged down with the tasks of chasing down fugitives or bail jumpers, and keep the system functioning efficiently.
+Appearing when the legal system cannot handle its own workload, domestic Bounty HuntersBounty Hunters fill very specific roles within the government's employ. They become more plentiful as the government becomes larger, a reflection of the increased need for criminal-tracking abilities within the increased territory. Governments with high Law Levels or strict punishments will need agents to plug the holes in their justice system, and often use Bounty Hunters. They keep law enforcement from getting bogged down with the tasks of chasing down fugitives or bail jumpers, and keep the system functioning efficiently.
 
 Domestic agents are how the government watches, manipulates and protects itself from the people it was formed to protect, serve and lead. Without them, it would not be able to govern effectively.
 
-Foreign Agents Larger or better-connected governments use their agents abroad, sending them to function within other governments’ territories. This is not always done as a subversive or espionage-based function, especially when that other government is a close neighbor. The trading of active agents between borders is a sign of honest trust between allies and is conducted to maintain relations.
+Foreign Agents Larger or better-connected governments use their agents abroad, sending them to function within other governments' territories. This is not always done as a subversive or espionage-based function, especially when that other government is a close neighbor. The trading of active agents between borders is a sign of honest trust between allies and is conducted to maintain relations.
 
 Unlike their domestic version, there are few foreign Law EnforcementLaw Enforcement agents. Other cultures and territories are bound to have their own legal systems and justice agencies to police their peoples. This
 
@@ -2028,15 +2028,15 @@ makes additional foreign agents an unwanted presence, sometimes implying the ine
 
 Foreign InvestigatorsForeign Investigators are more commonly used than their Law Enforcement brethren. They are deployed outside of domestic borders to gather information for their employers about foreign territories. When they are used uninvited in foreign lands, Investigators are seen as no better than spies. This is an exaggeration; they are rarely used for anything malicious or underhanded. Foreign Investigators are for the gathering of the public information that a government does not have direct access to from within their own borders.
 
-Governmental economics require constant attention as to what the market and competitors are doing, having a profound effect on the commercial entities within a society or culture. Guessing what outside corporate personnel are doing in the market is not good business, making the use of foreign CorporateCorporate agents a necessity for any commercially or economically sound government. They travel away from their employer’s areas of influence, learning about what the competition is doing and reporting back to adjust economic plans accordingly.
+Governmental economics require constant attention as to what the market and competitors are doing, having a profound effect on the commercial entities within a society or culture. Guessing what outside corporate personnel are doing in the market is not good business, making the use of foreign CorporateCorporate agents a necessity for any commercially or economically sound government. They travel away from their employer's areas of influence, learning about what the competition is doing and reporting back to adjust economic plans accordingly.
 
 There are not any foreign SpySpy agents – those are all reserved for the Classified Agents grouping (see page 64). Spying is simply not a field open to scrutiny by outsiders.
 
 EEESPIONAGESPIONAGESPIONAGE
 
-AnalystAnalyst agents working with foreign governments are hired in two main varieties – aides and adjustors. Aides are agents sent to help an allied government work with the employing one. Making treaties, arranging for diplomatic trades and serving as loyal bodyguards on foreign soil are what analysts are empowered to do, helping strengthen governmental relations. Adjustors are Analyst agents that are tasked with taking over the reins of a lesser or smaller government being subsumed by the agent’s employer. Aides are used to work better with allies; adjustors are used with governments that _will be_ allies.
+AnalystAnalyst agents working with foreign governments are hired in two main varieties – aides and adjustors. Aides are agents sent to help an allied government work with the employing one. Making treaties, arranging for diplomatic trades and serving as loyal bodyguards on foreign soil are what analysts are empowered to do, helping strengthen governmental relations. Adjustors are Analyst agents that are tasked with taking over the reins of a lesser or smaller government being subsumed by the agent's employer. Aides are used to work better with allies; adjustors are used with governments that _will be_ allies.
 
-Bounty HunterBounty Hunter agents are popular in foreign climes. They venture out into other governments’ jurisdictions with their permission in order to catch runaway criminals, ships and bail jumpers. There are thankfully few governing powers that actually want criminals and troublemakers hiding within their borders, so allowing Bounty Hunters to come and do their jobs is commonplace. Just as these agents help keep the legal system flowing well at home, they can do the same abroad.
+Bounty HunterBounty Hunter agents are popular in foreign climes. They venture out into other governments' jurisdictions with their permission in order to catch runaway criminals, ships and bail jumpers. There are thankfully few governing powers that actually want criminals and troublemakers hiding within their borders, so allowing Bounty Hunters to come and do their jobs is commonplace. Just as these agents help keep the legal system flowing well at home, they can do the same abroad.
 
 The use of agents in foreign territories is not the cloak and dagger espionage that people think of when the topic arises. Many times they are requested by the other government in order to reinforce relations between neighbors or allies or even create alliances where there were none before. Trading agents with foreign powers can turn a budding alliance into an ironclad union.
 
@@ -2048,11 +2048,11 @@ Used in similar classified roles are InvestigatorInvestigator agents. These agen
 
 Bounty HuntersBounty Hunters see a surprising amount of classified action. They are sent as classified agents into places from which the employer needs targets extradited – without anyone knowing who has arranged it. The agent must track down the target, capture it and then return back to the employer without getting caught or killed.
 
-CorporateCorporate agents take on a new persona when they are sent on a classified mission. They become commercial spies of a sort, breaking into the competition’s headquarters physically or electronically to gather the secrets they find there for their employer. Many Black Hat hackers are classified agents due to the inherent illegality of their careers. For more on what corporate ‘spies’ do for their employers, see the next chapter.
+CorporateCorporate agents take on a new persona when they are sent on a classified mission. They become commercial spies of a sort, breaking into the competition's headquarters physically or electronically to gather the secrets they find there for their employer. Many Black Hat hackers are classified agents due to the inherent illegality of their careers. For more on what corporate 'spies' do for their employers, see the next chapter.
 
 AnalystAnalyst agents are not suited to work in classified fields, as their role and training requires them to work with politicians and government agents. Only if the politician they were working for was also considered classified or secret would this assignment make any sense. There have been spies that have portrayed Analysts in order to get closer to a governmental target, performing their true duties behind closed doors and acting the part of Analyst while under open scrutiny.
 
-The only Law EnforcementLaw Enforcement agents that end up working on classified missions are those with special operations training and moral flexibility. They are not sent to uphold the law as much as they are sent to enforce their employers’ idea of the law. When another government will not punish its own criminals enough for the tastes of the employer, these agents are sent in to exact justice as the law dictates. Such actions might be considered illegal to the targeted society but the agent’s government believes it is a small price to pay.
+The only Law EnforcementLaw Enforcement agents that end up working on classified missions are those with special operations training and moral flexibility. They are not sent to uphold the law as much as they are sent to enforce their employers' idea of the law. When another government will not punish its own criminals enough for the tastes of the employer, these agents are sent in to exact justice as the law dictates. Such actions might be considered illegal to the targeted society but the agent's government believes it is a small price to pay.
 
 Classified agents are the backbone of any espionage campaign undertaken by a smaller government; performing the missions that are too risky or amoral for other types of agents. The government could be infiltrated by foreign agents at any time, especially if they are not prepared to deal with such intrusions.
 
@@ -2064,9 +2064,9 @@ The new regime that has taken over has to consider two things when looking at th
 
 If an agent was only loosely affiliated with the old government, they can still be trusted to work with the new authority. Average agents might need to prove their loyalty through a series of tests. The staunchly loyal will need to be tracked down and dealt with before they can inflict any harm upon the new regime with their extensive knowledge of the system.
 
-In gaming terms, whenever an existing governmental power or corporate entity for which agents actively work is overthrown or taken over, all employed agents will immediately be brought into question. The results of the new authority’s views upon old agents are based on the agent’s Trust rating with their recently overthrown employer.
+In gaming terms, whenever an existing governmental power or corporate entity for which agents actively work is overthrown or taken over, all employed agents will immediately be brought into question. The results of the new authority's views upon old agents are based on the agent's Trust rating with their recently overthrown employer.
 
-The following tables are based on the Agent’s Trust level. Roll 1d6 on the appropriate table, subtracting 1 for each Ally or Network the character possesses that is related somehow to the former employer.
+The following tables are based on the Agent's Trust level. Roll 1d6 on the appropriate table, subtracting 1 for each Ally or Network the character possesses that is related somehow to the former employer.
 
 TRUST 0
 
@@ -2095,7 +2095,7 @@ Continued Employment: Continued Employment: The agent is allowed to continue wor
 Interview: Interview: There is a question as to the potential loyalty of the agent to the new regime. They must sit down with a representative of the new authority and prove their worth. The character in question must pass two of three skill tests taken from the following list: Admin, Carouse, Deception, Persuade or Streetwise. No skill may be tested twice during the interview. Failure means the agent is let go, as per Terminate Employment (see page 66). Success means the character is allowed to maintain his contract as per Continued Employment
 (see above). If there is a Dice Modifier listed in the table entry, these skill tests are made with that modifier.
 
-Test Mission: Test Mission: The agent must be put to the test directly, ensuring his loyalty and helping establish the new regime’s power base in the process. The agent must roll a random Espionage Mission (see page 66), adding their Trust to the Mission Difficulty table to determine how challenging a mission is required. If the agent fails the mission, they are fired from employment as per Terminate Employment (and suffer the Failed Mission Mishap!). If they succeed, they are allowed to maintain their contract as per Continued Employment but still do NOT get to roll on the Mission Payout table.
+Test Mission: Test Mission: The agent must be put to the test directly, ensuring his loyalty and helping establish the new regime's power base in the process. The agent must roll a random Espionage Mission (see page 66), adding their Trust to the Mission Difficulty table to determine how challenging a mission is required. If the agent fails the mission, they are fired from employment as per Terminate Employment (and suffer the Failed Mission Mishap!). If they succeed, they are allowed to maintain their contract as per Continued Employment but still do NOT get to roll on the Mission Payout table.
 
 Test of Loyalty: Test of Loyalty: The agent is required to perform a questionable or reprehensible act for the new regime to ensure they are going to work well with them. If the agent chooses to do this, he sacrifices either an Ally or Network (any), for his new employers. If the agent does not have access to one of these to sacrifice, they must instead sacrifice a family member, reducing their Social Standing by 1.
 
@@ -2105,7 +2105,7 @@ The agent may alternatively try to fool the new regime into thinking that they h
 
 Terminate Employment: Terminate Employment: The agent is seen as too much of a liability due to his connections to his past employer. His contract is immediately terminated, he must return any items of equipment owned by the former employer and has ten days to repay any debts outstanding. Failure to do these things will result in this result being upgraded to _Exile Employee_.
 
-Exile Employee: Exile Employee: The agent is seen as too great a problem or threat to be allowed to live locally. He is granted a single week to leave the new regime’s territory and never return. Failure to do this for whatever reason will upgrade this result to _Terminate Employee_.
+Exile Employee: Exile Employee: The agent is seen as too great a problem or threat to be allowed to live locally. He is granted a single week to leave the new regime's territory and never return. Failure to do this for whatever reason will upgrade this result to _Terminate Employee_.
 
 Terminate Employee: Terminate Employee: The new regime cannot allow the agent to live. Assassins, bounty hunters and freelance hit men are dispatched to kill the agent and will do so for 1d6 years; or until reports say the agent is dead.
 
@@ -2115,7 +2115,7 @@ Agents make their livings by completing missions for their employers, sometimes 
 
 In Traveller , a mission can be a long series of gaming sessions that allow the Referee to narrate and maneuver his players through his pre-planned plotline. Conversely, a mission might take only a few hours of a single game session to portray. It is up to the Referee to decide what is right for his own Traveller game.
 
-This section reveals a quick format for agent-based missions in the field. In many Traveller games there tends to be a lot of ‘down time’ for some characters while others are training, performing mercenary tickets or are otherwise occupied. We have created a simple system that allows agents to roll up a single mission to perform while they are in between gaming sessions or perhaps during the down time created by other characters.
+This section reveals a quick format for agent-based missions in the field. In many Traveller games there tends to be a lot of 'down time' for some characters while others are training, performing mercenary tickets or are otherwise occupied. We have created a simple system that allows agents to roll up a single mission to perform while they are in between gaming sessions or perhaps during the down time created by other characters.
 
 How to Generate a Mission The Referee should walk the agent through the following steps, in order:
 
@@ -2135,7 +2135,7 @@ Each of the Mission Types is defined by a group of four listed skills. The agent
 
 Legal Action: Legal Action: This is a mission based around the law enforcement agencies of the area. This mission will put the agent in contact with the justice system and its elements, perhaps dealing with convicts or local law enforcement. The agent will be using Advocate, Investigate, Persuade and Streetwise.
 
-Ongoing Investigation: Ongoing Investigation: This is a mission that requires the agent to aid with the information gathering or surveillance of another agent’s mission. This mission will force the agent to deal with others in order to gain data on the target. The agent will be using Carouse, Deception, Investigate and Recon.
+Ongoing Investigation: Ongoing Investigation: This is a mission that requires the agent to aid with the information gathering or surveillance of another agent's mission. This mission will force the agent to deal with others in order to gain data on the target. The agent will be using Carouse, Deception, Investigate and Recon.
 
 Corporate Action: Corporate Action: This mission requires the agent to work within the ruthless world of inter-corporate warfare. The agent will need to be able to blend in with the company men and get around within the corporate system to work the target properly. The agent will be using Admin, Computers, Deception and Trade.
 
@@ -2174,10 +2174,10 @@ Determine Length of Mission The following table shows how long the Espionage mis
 1d6 Result1d6 Result Espionage Mission LengthEspionage Mission Length^1 1 1d6x3 weeks 2 1d6x2 weeks 3 1d6 weeks 4 1d6x5 days 5 1d6x3 days 6 1d6+1 days
 
 (^1) The amount is doubled if the mission is interplanetary in nature
-(Referee’s discretion) Determine Difficulty of Mission The following table shows how difficult the Espionage mission will be for the agent to accomplish. This is measured in a total amount of Effect the agent character should have to generate from his successful skill checks (based on the Mission Type, above) during the Mission. The Referee should roll 1d6 or choose on the following table to determine how difficult the agent’s mission will be in terms of Effect necessary. Additionally, the difficulty may or may not have a modifier to the Mission Payout if successful. 1d6 Result1d6 Result Espionage Mission DifficultyEspionage Mission Difficulty Mission Payout Mission Payout ModifierModifier 0 Training Level (1 Effect) –3 DM 1 Very Easy (3 Effect) –2 DM 2 Easy (5 Effect) –1 DM 3 Routine (7 Effect) — 4 Medium (9 Effect) — 5 Challenging (11 Effect) +1 DM 6 Difficult (13 Effect) +2 DM 7 Arduous (15 Effect) +3 DM Determine Agent Success/Failure Once the agent has determined how difficult the Espionage Mission will be for him to complete, he must then attempt all four of the skill checks listed in the Mission Type category. These checks are made with the standard 8+ difficulty required of them but can be modified with any characteristic; so long as the agent can describe the check sufficiently in regards to the Mission Target. For example, a physically-minded agent placed on an Underworld Action targeting a Person might attempt to modify his Carouse, Persuade and Streetwise rolls all with his superior Strength modifier. He does this satisfactorily by saying that he is using his muscular bulk to show off in a bar (Carouse), intimidate an informant
+(Referee's discretion) Determine Difficulty of Mission The following table shows how difficult the Espionage mission will be for the agent to accomplish. This is measured in a total amount of Effect the agent character should have to generate from his successful skill checks (based on the Mission Type, above) during the Mission. The Referee should roll 1d6 or choose on the following table to determine how difficult the agent's mission will be in terms of Effect necessary. Additionally, the difficulty may or may not have a modifier to the Mission Payout if successful. 1d6 Result1d6 Result Espionage Mission DifficultyEspionage Mission Difficulty Mission Payout Mission Payout ModifierModifier 0 Training Level (1 Effect) –3 DM 1 Very Easy (3 Effect) –2 DM 2 Easy (5 Effect) –1 DM 3 Routine (7 Effect) — 4 Medium (9 Effect) — 5 Challenging (11 Effect) +1 DM 6 Difficult (13 Effect) +2 DM 7 Arduous (15 Effect) +3 DM Determine Agent Success/Failure Once the agent has determined how difficult the Espionage Mission will be for him to complete, he must then attempt all four of the skill checks listed in the Mission Type category. These checks are made with the standard 8+ difficulty required of them but can be modified with any characteristic; so long as the agent can describe the check sufficiently in regards to the Mission Target. For example, a physically-minded agent placed on an Underworld Action targeting a Person might attempt to modify his Carouse, Persuade and Streetwise rolls all with his superior Strength modifier. He does this satisfactorily by saying that he is using his muscular bulk to show off in a bar (Carouse), intimidate an informant
 (Persuade) and rough up a local gang member (Streetwise). Once these skill checks are rolled and the total Effect is calculated, the agent checks his total against the amount required by the Mission Difficulty. If the total is equal to or more than the amount required, the mission is a success and the agent may now Determine Mission Payout. If the total is less than that required for success however, the agent has failed and must instead roll upon the Failure Mishap table, subtracting –1 for each point of Effect they were lower than the required amount for success. Determine Mission Payout The following table shows how well the agent will be paid for his successful Espionage Mission. Most of the mission payouts come in the form of a cash bonus but some have additional benefits attached to them similar to the Mustering-Out Benefit Rolls gained during _Traveller_ character creation. The Referee should roll 2d6 or choose on the following table to determine how well the agent is compensated for a job well done, remembering all modifiers from the earliest parts of the mission, character adjustments and so forth.
 
-2d62d6 Espionage Mission PayoutEspionage Mission Payout 1 or less Nothing – Mission is Written Off as ‘Required Training’ 2 1d6x100 Credits 3 2d6x100 Credits 4 2d6x200 Credits 5 2d6x300 Credits 6 2d6x400 Credits 7 2d6x500 Credits 8 3d6x500 Credits 9 2d6x1,000 Credits; +1 Trust 10 2d6x1,000 Credits; One Ship Share 11 2d6x2,000 Credits; +1 Trust 12 2d6x2,000 Credits; Network (any) 13 2d6x5,000 Credits; +1 Trust 14+ 2d6x10,000 Credits; +1 Trust
+2d62d6 Espionage Mission PayoutEspionage Mission Payout 1 or less Nothing – Mission is Written Off as 'Required Training' 2 1d6x100 Credits 3 2d6x100 Credits 4 2d6x200 Credits 5 2d6x300 Credits 6 2d6x400 Credits 7 2d6x500 Credits 8 3d6x500 Credits 9 2d6x1,000 Credits; +1 Trust 10 2d6x1,000 Credits; One Ship Share 11 2d6x2,000 Credits; +1 Trust 12 2d6x2,000 Credits; Network (any) 13 2d6x5,000 Credits; +1 Trust 14+ 2d6x10,000 Credits; +1 Trust
 
 Determine Failure Mishap The following table shows what has happened to an agent when he fails an Espionage mission. The Referee should roll 2d6 or choose on the following table to determine the fate of the agent in question, remembering the modifier for a lower mission Effect total.
 
@@ -2197,31 +2197,31 @@ The Stages of a Corporate War Any war between corporate entities, from national 
 
 The first time a pair of established companies clash it is normally due to one party expanding their business into the existing territory of another. This can be a physical territory, like delivery grounds and planetary resource tracts, or it can be a more figurative territory like similar styles of weapon research or type of clientele. One company looks at the expansion of the other and takes it as a threat to their ability to do business, which sparks the unpleasant relations between them.
 
-After a corporate conflict has begun, the next step for both sides is to start gathering intelligence on the other. Bribery and favour- dealing with the competition’s employees starts the cycle of ground level research, finding out what their new ‘enemy’ is all about. What begins with innocent fact finding missions and pocket lining quickly changes into hiring professional spies to gather information illicitly.
+After a corporate conflict has begun, the next step for both sides is to start gathering intelligence on the other. Bribery and favor- dealing with the competition's employees starts the cycle of ground level research, finding out what their new 'enemy' is all about. What begins with innocent fact finding missions and pocket lining quickly changes into hiring professional spies to gather information illicitly.
 
-When spying missions reveal that a competitor is becoming a greater threat (or perceived as one), the corporate conflicts evolve from mere intelligence gathering to more direct maneuvers to gain leverage. Spies are no longer restricted to just reconnaissance; data theft and corruption being called upon to hinder opposing growth while stimulating the employer’s. Active marketing to the competition’s consumer or employee base rises to a primary advertising and recruitment scheme. Anything that causes the
+When spying missions reveal that a competitor is becoming a greater threat (or perceived as one), the corporate conflicts evolve from mere intelligence gathering to more direct maneuvers to gain leverage. Spies are no longer restricted to just reconnaissance; data theft and corruption being called upon to hinder opposing growth while stimulating the employer's. Active marketing to the competition's consumer or employee base rises to a primary advertising and recruitment scheme. Anything that causes the
 
 ## CORPORATE WARS
 
 Just as the nations of a fractious planet might do, corporations also wage their own wars with one another. Unlike the wars of a battlefield or naval engagement, corporations attack each other with weapons of information, sabotage and covertness in order to inflict casualties. Heroes are made, lives are crushed and casualties occur. The soldiers of these corporate wars are their ranks of loyal agents, ready to go out and fight the good fight in their own way.
 
-The battle for higher market share is a distinctly different atmosphere than a blood-and-bullets conflict. That is not to imply there are no physical engagements between corporations; it is just not as common. The majority of corporate conflicts are performed under the table, away from plain sight where a corporation’s image could be harmed in the public eye.
+The battle for higher market share is a distinctly different atmosphere than a blood-and-bullets conflict. That is not to imply there are no physical engagements between corporations; it is just not as common. The majority of corporate conflicts are performed under the table, away from plain sight where a corporation's image could be harmed in the public eye.
 
 TTHEHE D DARKARK S SIDEIDE OFOF C CORPORATIONSORPORATIONS
 
-opposition to lose market share and profits is a useful tool in this stage of the corporate ‘war’, but neither side is ready yet to inflict physical damage upon the other.
+opposition to lose market share and profits is a useful tool in this stage of the corporate 'war', but neither side is ready yet to inflict physical damage upon the other.
 
 For a corporate conflict at this level to take the next step into sabotage and industrial warfare there has to be an unexpected shift by one side. One of the competitors must suddenly feel threatened by their opponents; threatened enough to escalate to malicious action. When that happens, the first sabotage or industrial vandalism starts a chain reaction of retributive missions by the other party. These sorts of underhanded attacks go back and forth between the competing companies, the damage incurred on both sides adds up. Each mission pushes the line of tolerance a little further and eventually one side reaches their breaking point and takes the first violent action toward the competition.
 
-Once the corporate war moves to violence there is no turning back. Agents are no longer sent into ‘enemy territory’ to take or destroy data; they are tasked with inflicting real damage upon the company. Attacks on key employees or destruction of important property fill mission dockets. Local authorities must be bribed or avoided, employees begin to wear armor to work and damage reports become part of the CEO’s morning meetings. This is not the final stage of a corporate war but it is the most dangerous to both sides’ employees. Missions target the company’s most important resource
+Once the corporate war moves to violence there is no turning back. Agents are no longer sent into 'enemy territory' to take or destroy data; they are tasked with inflicting real damage upon the company. Attacks on key employees or destruction of important property fill mission dockets. Local authorities must be bribed or avoided, employees begin to wear armor to work and damage reports become part of the CEO's morning meetings. This is not the final stage of a corporate war but it is the most dangerous to both sides' employees. Missions target the company's most important resource
 
 - its workers.
 
 Some corporate wars never reach the last stage of a corporate conflict; they are content to exist in the previous stages for decades or are ended by other circumstances. Those that escalate to the final level of the war begin to emulate an actual battle. Corporations hire soldiers and mercenaries to go out and do direct battle with the martial forces of the other. Only the most powerful corporations have the clout and influence to fight their competition this way. A war that reaches this point will end in only one way; the utter defeat of one side of the conflict.
 
-Corporate Alliances Not all corporations are fighting against one competitor. Like smaller nations caught in the path of a superpower, companies that are not singularly powerful enough to deal with the competition will seek allies in the market. Adding other smaller companies to their side of a corporate war can create a unified front that may tip the scales in their favour – or cause the fall of several minor entities at once.
+Corporate Alliances Not all corporations are fighting against one competitor. Like smaller nations caught in the path of a superpower, companies that are not singularly powerful enough to deal with the competition will seek allies in the market. Adding other smaller companies to their side of a corporate war can create a unified front that may tip the scales in their favor – or cause the fall of several minor entities at once.
 
-Companies must be careful when creating or joining alliances in this way. Standing with another corporation places resources, information and other important assets in the alliance’s collective grasp. Should an ally become swayed to the side of the enemy during the course of the conflict, their treachery stands to weaken the whole alliance tremendously. Not only will they feel the loss of an ally but also the betrayal itself can be a mighty blow to the war efforts.
+Companies must be careful when creating or joining alliances in this way. Standing with another corporation places resources, information and other important assets in the alliance's collective grasp. Should an ally become swayed to the side of the enemy during the course of the conflict, their treachery stands to weaken the whole alliance tremendously. Not only will they feel the loss of an ally but also the betrayal itself can be a mighty blow to the war efforts.
 
 It is common practice for any corporate entity to thoroughly investigate a prospective ally, sending agents into their midst like they would any other corporate target. These spies are expected to be thorough and careful not to do any harm in case the company does become an ally but they must also be fast enough to make a decision quickly as to whether or not the alliance should be offered.
 
@@ -2229,9 +2229,9 @@ For the companies that are suitable and become part of the war, the newly formed
 
 Corporate Militaries or Commercial Mercenaries Most corporate wars never reach the stage of open conflict, remaining at the level of subversive missions and employee harassment for the duration. The rare instances where a corporation moves to direct violence require the acquisition of a skilled military unit. Most companies cannot simply arm their employees and hope to win a shooting match with most enemies. This requires the hiring of professional fighters. A company involved in open warfare has two options if they want to continue doing business and not simply give in to the opposition.
 
-The first option is the easiest but most expensive. Hiring temporary mercenary fighters with a legally-binding mission ticket (for more on tickets see, Traveller: Mercenary ) means placing the company’s trust in the skills of professional guns-for-hire. This means the employer will be spending a high amount of funds to acquire talented mercenaries and bind them to their role within the war. Unfortunately this practice comes with its own worries and flaws. A ticketed mercenary company cannot work for the opposing company but will be exposed to company secrets and potential information that might be tempting for them to later sell – once the ticket is fulfilled. Hiring mercenaries to fight the violent battles of an escalated corporate war is expensive and risky but they are skilled enough to do the job properly.
+The first option is the easiest but most expensive. Hiring temporary mercenary fighters with a legally-binding mission ticket (for more on tickets see, Traveller: Mercenary ) means placing the company's trust in the skills of professional guns-for-hire. This means the employer will be spending a high amount of funds to acquire talented mercenaries and bind them to their role within the war. Unfortunately this practice comes with its own worries and flaws. A ticketed mercenary company cannot work for the opposing company but will be exposed to company secrets and potential information that might be tempting for them to later sell – once the ticket is fulfilled. Hiring mercenaries to fight the violent battles of an escalated corporate war is expensive and risky but they are skilled enough to do the job properly.
 
-The second option may be more time consuming and risks more company assets but can be less expensive. Some companies hire, train and maintain a standing military force within the corporate structure. Normally hired on officially as ‘special task force security’, the company hires and trains a capable military unit and keeps them ready to serve their various needs. In times of peace the corporate military units are used to protect company assets and real estate, only gearing up and going to battle if their employer gets into a real war. Corporations that have offices in hostile territories or war-torn areas will hire military units as a constant presence. There are some megacorporations that have standing armies larger than those of small nations; a point of interest to the actual governments that they do business within. Having a corporate military is not as expensive as
+The second option may be more time consuming and risks more company assets but can be less expensive. Some companies hire, train and maintain a standing military force within the corporate structure. Normally hired on officially as 'special task force security', the company hires and trains a capable military unit and keeps them ready to serve their various needs. In times of peace the corporate military units are used to protect company assets and real estate, only gearing up and going to battle if their employer gets into a real war. Corporations that have offices in hostile territories or war-torn areas will hire military units as a constant presence. There are some megacorporations that have standing armies larger than those of small nations; a point of interest to the actual governments that they do business within. Having a corporate military is not as expensive as
 
 TTTHEHEHE D D DARKARKARK S S SIDEIDEIDE OFOFOF C C CORPORATIONSORPORATIONSORPORATIONS
 
@@ -2299,21 +2299,21 @@ Corporate Support Soldier: Corporate Support Soldier: An upgraded member of a st
 
 The Aftermath – Higher Profit Margins or
 
-Hostile Takeover? Unless a corporate war is too evenly matched, permitting it to go on indefinitely, one side will eventually get the better of the other and the conflict will come to a close. The end of a corporate war leaves the victor asking itself many questions as to what to do with their defeated competitor. To the victor goes the spoils, but there are times where taking on a broken and battered company’s resources also means taking on their debts and shortcomings.
+Hostile Takeover? Unless a corporate war is too evenly matched, permitting it to go on indefinitely, one side will eventually get the better of the other and the conflict will come to a close. The end of a corporate war leaves the victor asking itself many questions as to what to do with their defeated competitor. To the victor goes the spoils, but there are times where taking on a broken and battered company's resources also means taking on their debts and shortcomings.
 
-Once a clear victor has been declared, the aftermath of the war must be determined for business to resume as normal. Every bit of manpower dedicated to the war effort is a slight loss to the company’s overall profitability, making the change to post-war functions a marketable necessity.
+Once a clear victor has been declared, the aftermath of the war must be determined for business to resume as normal. Every bit of manpower dedicated to the war effort is a slight loss to the company's overall profitability, making the change to post-war functions a marketable necessity.
 
-The winning corporate entity has several options they can choose from; shaping what is to become of the losing side’s employees, assets and identity.
+The winning corporate entity has several options they can choose from; shaping what is to become of the losing side's employees, assets and identity.
 
 ACQUISITION When a company defeats another in a corporate war and believes that their former opponent(s) still have a future in their industry, the victorious corporation can choose to consume the other into part of their collective being. The old company no longer exists in the same form that it once did; it instead is now a part of the greater corporation. This is the most common result of a corporate war.
 
 DISSOLUTION Sometimes a corporation defeats its competition so solidly and completely there is not much of a company remaining to make use of. Some malicious corporations relish the thought of utterly destroying a rival company. Resources are scattered, employees are let go and forgotten and all records of the company are frozen or destroyed.
 
-PARENTING Thought of as the most merciful of aftermaths, the choice to take on a defeated company as a separate entity within the influence of the victor is called ‘parenting’. The victorious corporation believes it can stand to make good profits from the defeated competition
+PARENTING Thought of as the most merciful of aftermaths, the choice to take on a defeated company as a separate entity within the influence of the victor is called 'parenting'. The victorious corporation believes it can stand to make good profits from the defeated competition
 
-by keeping its identity and sovereign management as long as it continues to answer to the parent company’s CEO or board of directors. Only wars that end before the violent stage of conflict have this as their outcome.
+by keeping its identity and sovereign management as long as it continues to answer to the parent company's CEO or board of directors. Only wars that end before the violent stage of conflict have this as their outcome.
 
-RESOURCE COMPENSATION It is common for a short corporate conflict to end with one side demanding the other pay for any damages, spent resources or lost income they incurred during the war. This option is normally offered as part of an ultimatum made by the victorious company; ‘Pay for all our repairs plus 25% or we will dissolve your Imperial charter’. Resource compensation is considered to be part of several other aftermath decisions, so it is rarely used on its own by a clever victor unless they are trying to make a point.
+RESOURCE COMPENSATION It is common for a short corporate conflict to end with one side demanding the other pay for any damages, spent resources or lost income they incurred during the war. This option is normally offered as part of an ultimatum made by the victorious company; 'Pay for all our repairs plus 25% or we will dissolve your Imperial charter'. Resource compensation is considered to be part of several other aftermath decisions, so it is rarely used on its own by a clever victor unless they are trying to make a point.
 
 WITHDRAWAL Some companies fight their corporate wars just to extend or protect their territorial boundaries; they are satisfied making sure that the defeated competition leaves their area. Enforcing a complete corporate withdrawal can be difficult and costly but the security of knowing that a former enemy and competitor cannot do business in any areas that your company is profiting is well worth it. Companies that call for opponents to withdraw in such a fashion will assuredly have standing security or military forces to remind their defeated enemies of what awaits them if they ever encroach again.
 
@@ -2321,7 +2321,7 @@ TTTHEHEHE D D DARKARKARK S S SIDEIDEIDE OFOFOF C C CORPORATIONSORPORATIONSORPORA
 
 ## INDUSTRIAL SABOTAGE
 
-The single largest reason why corporations employ agents is to counteract the intrusion of other companies’ agents. The reason for that is the constant threat of industrial espionage. Agents sent to a corporation’s worksite or other facility with intentions of inflicting material damage upon them is a huge cost to the targeted company. A few successful sabotage missions can all but cripple a company’s profits for that quarter, perhaps longer.
+The single largest reason why corporations employ agents is to counteract the intrusion of other companies' agents. The reason for that is the constant threat of industrial espionage. Agents sent to a corporation's worksite or other facility with intentions of inflicting material damage upon them is a huge cost to the targeted company. A few successful sabotage missions can all but cripple a company's profits for that quarter, perhaps longer.
 
 The arena of industrial sabotage is brutal, cold-hearted and requires dedication to the mission goal at all times. It is easy for an agent to take on a job that was described to him as simply disengaging a few coolant lines at a manufacturing plant; but will he have the tenacity to go through with it when he sees that dozens of workers could be hurt or killed? Would he have taken the job if he knew innocent people would die? What if he was given a huge salary bonus to do so? These are all questions that arise when dealing with agents that perform industrial missions of destruction.
 
@@ -2358,19 +2358,19 @@ An agent sent on a specific type of industrial sabotage mission will have his op
 
 ## MANIPULATING GOVERNMENTS
 
-When a company evolves into a larger entity and eventually into a licensed megacorporation, they become more and more influential with the growth of their industry. As their share and control of the market increases, the local economy begins to become directly attached to the corporation’s success. At some point the local economy becomes the province of the company itself, leaving the local government at the mercy of the company.
+When a company evolves into a larger entity and eventually into a licensed megacorporation, they become more and more influential with the growth of their industry. As their share and control of the market increases, the local economy begins to become directly attached to the corporation's success. At some point the local economy becomes the province of the company itself, leaving the local government at the mercy of the company.
 
-Corporations that gather this much power and control over the governments that ‘allow’ them to do business within their territories realize quickly they can manipulate the economy to their own needs
+Corporations that gather this much power and control over the governments that 'allow' them to do business within their territories realize quickly they can manipulate the economy to their own needs
 
 - and therefore manipulate the government itself. Depending on how
 
 strong the government is, a powerful corporation can perform specific actions within their market structure to urge it to do as they wish.
 
-INDUSTRIAL TERRORISM AND EMPLOYEE ASSASSINATION Industrial sabotage is aimed mainly at machinery, data or resources – but not completely. Some amoral or callous corporate employers view the employees and officers of a competitor as nothing more than ‘living resources’ to be hindered or destroyed. These companies have no qualms about hurting the competition’s employees or workers through industrial terrorism or assassination.
+INDUSTRIAL TERRORISM AND EMPLOYEE ASSASSINATION Industrial sabotage is aimed mainly at machinery, data or resources – but not completely. Some amoral or callous corporate employers view the employees and officers of a competitor as nothing more than 'living resources' to be hindered or destroyed. These companies have no qualms about hurting the competition's employees or workers through industrial terrorism or assassination.
 
 Industrial terrorism is the wanton destruction of corporate assets through violent actions. Explosives, chemical warfare and automatic weaponry are commonly used to enact industrial terrorism.
 
-Employee assassinations are precision strikes at key members of the competition’s staff. Killing these important officers, executives and foremen stalls projects, spreads fear and severely hurts department profitability.
+Employee assassinations are precision strikes at key members of the competition's staff. Killing these important officers, executives and foremen stalls projects, spreads fear and severely hurts department profitability.
 
 The use of Industrial Terrorism is considered a general anathema to business dealings and any agent caught or successfully linked to Industrial Terrorism immediately loses 1 Social Standing.
 
@@ -2378,13 +2378,13 @@ In a narrative sense, there are countless different forms of sabotage that can b
 
 TTHEHE D DARKARK S SIDEIDE OFOF C CORPORATIONSORPORATIONS
 
-Rating a Corporation’s Political Power Every corporate entity has an economic footprint they cover in the local political scene, from the extremely minor to the ultra-powerful. Not every megacorp will have the clout to push around their local government and some small industries might have a stranglehold on their leaders’ main export. Whatever the situation, a corporation bears a standard Influence Rating that is used to determine just how influential they are in the local political scene.
+Rating a Corporation's Political Power Every corporate entity has an economic footprint they cover in the local political scene, from the extremely minor to the ultra-powerful. Not every megacorp will have the clout to push around their local government and some small industries might have a stranglehold on their leaders' main export. Whatever the situation, a corporation bears a standard Influence Rating that is used to determine just how influential they are in the local political scene.
 
-Influence Rating is calculated using the background information of the local area, the type of government, the size of the corporate entity and finally the average profit margin of the representative branches of the corporation. These statistics all add up to form the corporation’s Influence Rating and should either be chosen by the Referee (to better suit his game) or rolled randomly on the tables below.
+Influence Rating is calculated using the background information of the local area, the type of government, the size of the corporate entity and finally the average profit margin of the representative branches of the corporation. These statistics all add up to form the corporation's Influence Rating and should either be chosen by the Referee (to better suit his game) or rolled randomly on the tables below.
 
-A corporation’s Influence Rating starts effectively at 1.
+A corporation's Influence Rating starts effectively at 1.
 
-LOCAL AREA DEPENDENCY The Dependency table shows how much the local government’s constituency needs or desires the corporation’s services, employment or goods.
+LOCAL AREA DEPENDENCY The Dependency table shows how much the local government's constituency needs or desires the corporation's services, employment or goods.
 
 DEPENDENCY
 
@@ -2394,7 +2394,7 @@ DEPENDENCY
 
 12 Essential – Essential – Corporation is the hub of economic and employment stability in the local area. +4
 
-TYPE OF GOVERNMENT The following list shows how the local government’s style of leadership affects how influential a corporation can be, as noted by the government’s type (see page 175 of the _Traveller Core Rulebook_ ).
+TYPE OF GOVERNMENT The following list shows how the local government's style of leadership affects how influential a corporation can be, as noted by the government's type (see page 175 of the _Traveller Core Rulebook_ ).
 
 Company/corporation Company/corporation (+3), Participating democracy , Participating democracy (+0), Self-perpetuating oligarchy Self-perpetuating oligarchy (+1), Representative democracy Representative democracy (+1), Feudal Feudal technocracy technocracy (+2), Captive government Captive government (–2), Balkanization Balkanization (–1), Civil service bureaucracy Civil service bureaucracy (+1), Impersonal bureaucracy Impersonal bureaucracy (+1), Charismatic Charismatic dictator dictator (+1d6–3), Non-charismatic leader Non-charismatic leader (+1d6–3), Charismatic oligarchy Charismatic oligarchy (+2), Religious dictatorship Religious dictatorship (–3)
 
@@ -2404,11 +2404,11 @@ SIZE OF CORPORATE ENTITY The following table shows how large the total corporate
 
 TTTHEHEHE D D DARKARKARK S S SIDEIDEIDE OFOFOF C C CORPORATIONSORPORATIONSORPORATIONS
 
-Wealth is an important factor when dealing with a governmental office. The officers in a given government will make special exceptions or inclusions for a ‘generous corporate investor’ in regards to things that the average interest or social group must all but beg for. This is the power of the almighty credit; in the hands of a crafty corporation it can make or break small governments.
+Wealth is an important factor when dealing with a governmental office. The officers in a given government will make special exceptions or inclusions for a 'generous corporate investor' in regards to things that the average interest or social group must all but beg for. This is the power of the almighty credit; in the hands of a crafty corporation it can make or break small governments.
 
 Using the tables above to build this example, we are looking at determining the Influence Rating of a localised branch of a J-Drive manufacturer. Knowing exactly what we are building for our game setting, we will choose all of the acceptable modifiers, although we could have just as easily rolled them randomly.
 
-_Starting at the standard Influence Rating 1, our company is considered to have an Above Average dependency from the local populace due to its high employment rates (+1). Working steadily with the acceptance of the local self-perpetuating oligarchy, the company is somewhat friendly with the ruling party (+1). The company, Allspace Drives, is a multi- national corporation classed as ‘Large’, making it more powerful in the eyes of economists (+2) but it has run into hard times lately and has only seen Minor Profits for the last year (+0). The local branch of Allspace Drives has a total Influence Rating of 5 (1+1+1+2+0= 5)_.
+_Starting at the standard Influence Rating 1, our company is considered to have an Above Average dependency from the local populace due to its high employment rates (+1). Working steadily with the acceptance of the local self-perpetuating oligarchy, the company is somewhat friendly with the ruling party (+1). The company, Allspace Drives, is a multi- national corporation classed as 'Large', making it more powerful in the eyes of economists (+2) but it has run into hard times lately and has only seen Minor Profits for the last year (+0). The local branch of Allspace Drives has a total Influence Rating of 5 (1+1+1+2+0= 5)_.
 
 Using Influence Rating to Sway
 
@@ -2434,7 +2434,7 @@ LOCAL CORPORATE PROFIT MARGIN The following table shows how much liquid profits 
 
 11 High Profits – High Profits – Corporation gains between 25 and 40% of invested capital each quarter. +4 12 Market-stacking Profits – Market-stacking Profits – Corporation gains 45% or more of invested capital each quarter. +6
 
-In game mechanics the corporation’s Influence Rating represents a pool of d6s that the company receives each financial quarter to use in any way they choose to. When a corporate entity wants to manipulate the local government in some way, they choose a number of dice from their Influence rating pool and roll them all, adding the results together. For the purposes of ‘game time’, every die rolled represents a single week of lobbying, carousing and other forms of influencing local governmental officials.
+In game mechanics the corporation's Influence Rating represents a pool of d6s that the company receives each financial quarter to use in any way they choose to. When a corporate entity wants to manipulate the local government in some way, they choose a number of dice from their Influence rating pool and roll them all, adding the results together. For the purposes of 'game time', every die rolled represents a single week of lobbying, carousing and other forms of influencing local governmental officials.
 
 Once this narrative time has passed and the dice have been rolled, if the total equals or exceeds the target number for the desired action, the company succeeds in their task. If the total is lower than what was needed, the manipulation fails and the company will need to try again.
 
@@ -2460,7 +2460,7 @@ Samples of Minor Requests Minor Requests are:
 
 Samples of Lesser Requests Lesser Requests are:
 
-- Alter a political speech to include a specific ‘thank you’ to the
+- Alter a political speech to include a specific 'thank you' to the
   company.
 - Arrange for media exposure or advertising.
 - Have a social event for many political figures thrown.
@@ -2498,11 +2498,11 @@ Samples of Impossible Requests Impossible Requests are:
 - Arrange for a violent action to be undertaken against a
   competitor or enemy government.
 
-_As a continuation of the example above, Allspace Drives decides that it needs one of its executives to avoid prison time by having some smuggling charges dropped (a Common Request; target is 15). Spending four full weeks campaigning, wining and dining the local magistrate, the Referee grabs 4d6 from Allspace Drives’ Influence Rating pool of 5 and rolls them. The results are 5, 5, 3 and 4; 17! In one short month of manipulation, the magistrate sees ‘new evidence’ come to light and drops the charges._
+_As a continuation of the example above, Allspace Drives decides that it needs one of its executives to avoid prison time by having some smuggling charges dropped (a Common Request; target is 15). Spending four full weeks campaigning, wining and dining the local magistrate, the Referee grabs 4d6 from Allspace Drives' Influence Rating pool of 5 and rolls them. The results are 5, 5, 3 and 4; 17! In one short month of manipulation, the magistrate sees 'new evidence' come to light and drops the charges._
 
 ## INFILTRATION
 
-Agents that work within the buildings and facilities of opposing corporations always run the risk of getting caught and either arrested as a trespasser, exposed as an enemy agent or worse. It takes real skill to successfully infiltrate a potentially hostile compound. The agent must get in; do whatever it is they are tasked to do, then get back out – hopefully without raising anyone’s suspicions.
+Agents that work within the buildings and facilities of opposing corporations always run the risk of getting caught and either arrested as a trespasser, exposed as an enemy agent or worse. It takes real skill to successfully infiltrate a potentially hostile compound. The agent must get in; do whatever it is they are tasked to do, then get back out – hopefully without raising anyone's suspicions.
 
 There are as many ways to successfully infiltrate a corporate facility as a crafty agent can dream up but there are only a handful of time- tested methods that most agents rely upon. These methods are reflected in the basic skills the more intrusion-based Agent career paths offer, but any character can use accordingly. With the right plan and the right skills and equipment at their disposal, any agent can be a good infiltrator.
 
@@ -2516,13 +2516,13 @@ OBSCURE FEATURES OROR WEAR A DISGUISE? Even the stealthiest of agents looking to
 
 TTTHEHEHE D D DARKARKARK S S SIDEIDEIDE OFOFOF C C CORPORATIONSORPORATIONSORPORATIONS
 
-DO NO HARM OROR TERRORISE THE STAFF? Most infiltration missions onto corporate grounds are only as violent as the agent involved, with a vast majority of them preferring to avoid conflict when possible. They may go on their missions armed for self-defence but many agents prefer to stay out of violent situations altogether. There are those that believe quite the opposite however and will wave their guns or blades at their victims just to shake them up and to keep them from trying anything against the agent’s wishes. No agent can be ready for every situation laid before them but they can make the choice whether or not to use fear and violence on their missions.
+DO NO HARM OROR TERRORISE THE STAFF? Most infiltration missions onto corporate grounds are only as violent as the agent involved, with a vast majority of them preferring to avoid conflict when possible. They may go on their missions armed for self-defence but many agents prefer to stay out of violent situations altogether. There are those that believe quite the opposite however and will wave their guns or blades at their victims just to shake them up and to keep them from trying anything against the agent's wishes. No agent can be ready for every situation laid before them but they can make the choice whether or not to use fear and violence on their missions.
 
 Ghost in the Machine –
 
-Electronic Infiltrations There is a new type of infiltration that occurs once a society reaches the computer age (TL7-8), known as electronic infiltration. This is more than just pirating software or leaving behind viruses in the wake of a talented hack, these sorts of intrusions are long-term relationships that are formed by the computer-savvy agent with other computerised personas that work for the corporate entity the agent is ‘infiltrating’.
+Electronic Infiltrations There is a new type of infiltration that occurs once a society reaches the computer age (TL7-8), known as electronic infiltration. This is more than just pirating software or leaving behind viruses in the wake of a talented hack, these sorts of intrusions are long-term relationships that are formed by the computer-savvy agent with other computerised personas that work for the corporate entity the agent is 'infiltrating'.
 
-By forging electronic friendships, alliances and even pseudo-loves with people that exist on the inside of the target network, the agent can worm his way into sensitive files and information using e-mails, instant messaging and real-time chat programs. It is like breaking into a company’s offices one cubicle at a time without ever even having to set foot in the building. By gaining the trust of employees, perhaps even by faking being a co-worker, the agent learns about the company, its facilities and potentially its secrets.
+By forging electronic friendships, alliances and even pseudo-loves with people that exist on the inside of the target network, the agent can worm his way into sensitive files and information using e-mails, instant messaging and real-time chat programs. It is like breaking into a company's offices one cubicle at a time without ever even having to set foot in the building. By gaining the trust of employees, perhaps even by faking being a co-worker, the agent learns about the company, its facilities and potentially its secrets.
 
 This sort of infiltration is not a quick hack or an overnight pilfering of data. It is something that an agent will create slowly and methodically until he is sure that he has cyber-tendrils woven throughout the target company. Only then will he spring his trap and reap the benefits of all his close friends and allies.
 
@@ -2533,7 +2533,7 @@ Create a network of computer-based allies to electronically infiltrate a corpora
 
 Success on this skill will add the Effect of their successful check as a Dice Modifier to the total Effect needed to determine the success of failure of an Anti-Corporate Mission.
 
-Security Systems Agents that base their missions on infiltration and intrusion have to overcome many obstacles in their line of work, namely security systems. From the ‘mark one eyeball’ on a beat walking security guard to the IR sensitive motion tracker pylons of Imperial prison yards, there are many different ways for an agent to get caught being somewhere he is not supposed to be.
+Security Systems Agents that base their missions on infiltration and intrusion have to overcome many obstacles in their line of work, namely security systems. From the 'mark one eyeball' on a beat walking security guard to the IR sensitive motion tracker pylons of Imperial prison yards, there are many different ways for an agent to get caught being somewhere he is not supposed to be.
 
 This section shows several different sample security system elements that corporations combine and typically use at their facilities and office grounds. The systems are divided by entry, each entry bearing a specific minimum technology level, a narrative description of the system element, the skills that can be used to circumvent them and the Dice Modifiers placed upon those skills to do so. These, of course, are just examples and Referees are encouraged to devise their own and combine them to create new and interesting security system packages.
 
@@ -2553,7 +2553,7 @@ multiple times or used as evidence later.
 
 Skills to Bypass:Skills to Bypass: Computers, Sensors, Stealth Task Difficulty: Task Difficulty: Average (+0 DM)
 
-BIO-ANALYSIS SCANNERS – TL 8 These wire line filaments are used to pick up trace chemicals left behind by living organisms that pass within a few metres of them.
+BIO-ANALYSIS SCANNERS – TL 8 These wire line filaments are used to pick up trace chemicals left behind by living organisms that pass within a few meters of them.
 
 Skills to Bypass:Skills to Bypass: Life Sciences (Chemistry or Biology), Sensors Task Difficulty: Task Difficulty: Difficult (–2 DM)
 
@@ -2561,7 +2561,7 @@ FIELD SURVEILLANCE RADAR SUITE – TL 9 A sweeping dish apparatus that can pick 
 
 Skills to Bypass:Skills to Bypass: Athletics (Endurance), Sensors, Stealth Task Difficulty:Task Difficulty: Difficult (–2 DM)
 
-IR MOTION TRACKER PYLON – TL 10 Scanning an area of over 100 metres for anything in the Infra-red spectrum moving more than a single metre every thirty seconds, these electronic devices are planted over open territory.
+IR MOTION TRACKER PYLON – TL 10 Scanning an area of over 100 meters for anything in the Infra-red spectrum moving more than a single meter every thirty seconds, these electronic devices are planted over open territory.
 
 Skills to Bypass:Skills to Bypass: Athletics (Endurance), Sensors, Stealth Task Difficulty:Task Difficulty: Difficult (–2 DM)
 
@@ -2569,11 +2569,11 @@ ELECTROMAGNETIC FIELD SCANNER – TL 11 Everything electronic gives off a nomina
 
 Skills to Bypass:Skills to Bypass: Computers, Engineer (electronics), Sensors, Stealth Task Difficulty:Task Difficulty: Very Difficult (–4 DM)
 
-PHEROMONE TRACE ELEMENT DETECTOR – TL 12 An advanced version of the bio-analysis scanner filament in a directional format, the pheromone trace element detector can pick up any living thing within 250 metres of its mount.
+PHEROMONE TRACE ELEMENT DETECTOR – TL 12 An advanced version of the bio-analysis scanner filament in a directional format, the pheromone trace element detector can pick up any living thing within 250 meters of its mount.
 
 Skills to Bypass:Skills to Bypass: Life Sciences (Chemistry or Biology), Sensors Task Difficulty:Task Difficulty: Very Difficult (–4 DM)
 
-NEUROLOGISTIC SCAN MATRIX – TL 15 The most advanced form of security suite, this complex series of crystalline antennae actually picks up the conscious thoughts made by sentient living things within 100 metres of it, making it very difficult to avoid during intrusion.
+NEUROLOGISTIC SCAN MATRIX – TL 15 The most advanced form of security suite, this complex series of crystalline antennae actually picks up the conscious thoughts made by sentient living things within 100 meters of it, making it very difficult to avoid during intrusion.
 
 Skills to Bypass:Skills to Bypass: Science (Psionocology), Sensors, Telepathy Task Difficulty: Task Difficulty: Formidable (–6 DM)
 
@@ -2607,7 +2607,7 @@ Executive: Executive: This mission targets someone of worth within the corporati
 
 1d6 Result1d6 Result Anti-Corporate Mission LengthAnti-Corporate Mission Length^1 1 1d6 weeks 2 1d6 x 2 weeks 3 3d6 days 4 1d6 x 2 days 5 2d6 days 6 1d6 days
 
-(^1) The amount is multiplied by five if the mission is interplanetary in nature (Referee’s discretion). DETERMINE DIFFICULTY OF MISSION The following table shows how difficult the Anti-Corporate mission will be. This is decided by the total amount of Effect the agent character will have to generate from successful skill checks during the Mission. These skill checks are based on the types of Security Systems and anti-personnel skill checks made during the course of the mission. The Referee should roll 1d6 or choose on the following table to determine how difficult the agent’s mission will be in terms of Effect necessary. The difficulty may or may not have a modifier to the Mission Payout if successful. 1d6 Result1d6 Result Anti-Corporate Mission Anti-Corporate Mission DifficultyDifficulty Mission Payout Mission Payout ModifierModifier 0 Simple (5 Effect) –3 DM 1 Very Easy (7 Effect) –2 DM 2 Easy (9 Effect) –1 DM 3 Routine (10 Effect) — 4 Medium (14 Effect) +1 DM 5 Challenging (16 Effect) +2 DM 6 Difficult (18 Effect) +3 DM 7 Arduous (20 Effect) +4 DM DETERMINE AGENT SUCCESS/FAILURE Once the agent has determined how difficult the Anti-Corporate Mission will be for him to accomplish, he must then attempt to bypass the personnel and security systems at the corporate site, arranged for by the Referee. These checks are made with the standard 8+ difficulty required of them but can be modified with any applicable characteristic. To randomly determine how many checks may be necessary, roll on the following table. 2d6 Result2d6 Result Number of Applicable Agent Skill ChecksNumber of Applicable Agent Skill Checks 23 34 4-5 5 6-8 6 9-10 7 11 8 12 10 DETERMINE LENGTH OF MISSION The following table shows how long the Anti-Corporate mission will take for the agent to fulfil. The Referee should roll 1d6 or choose on the following table to determine how long the agent will be working on their new mission.
+(^1) The amount is multiplied by five if the mission is interplanetary in nature (Referee's discretion). DETERMINE DIFFICULTY OF MISSION The following table shows how difficult the Anti-Corporate mission will be. This is decided by the total amount of Effect the agent character will have to generate from successful skill checks during the Mission. These skill checks are based on the types of Security Systems and anti-personnel skill checks made during the course of the mission. The Referee should roll 1d6 or choose on the following table to determine how difficult the agent's mission will be in terms of Effect necessary. The difficulty may or may not have a modifier to the Mission Payout if successful. 1d6 Result1d6 Result Anti-Corporate Mission Anti-Corporate Mission DifficultyDifficulty Mission Payout Mission Payout ModifierModifier 0 Simple (5 Effect) –3 DM 1 Very Easy (7 Effect) –2 DM 2 Easy (9 Effect) –1 DM 3 Routine (10 Effect) — 4 Medium (14 Effect) +1 DM 5 Challenging (16 Effect) +2 DM 6 Difficult (18 Effect) +3 DM 7 Arduous (20 Effect) +4 DM DETERMINE AGENT SUCCESS/FAILURE Once the agent has determined how difficult the Anti-Corporate Mission will be for him to accomplish, he must then attempt to bypass the personnel and security systems at the corporate site, arranged for by the Referee. These checks are made with the standard 8+ difficulty required of them but can be modified with any applicable characteristic. To randomly determine how many checks may be necessary, roll on the following table. 2d6 Result2d6 Result Number of Applicable Agent Skill ChecksNumber of Applicable Agent Skill Checks 23 34 4-5 5 6-8 6 9-10 7 11 8 12 10 DETERMINE LENGTH OF MISSION The following table shows how long the Anti-Corporate mission will take for the agent to fulfil. The Referee should roll 1d6 or choose on the following table to determine how long the agent will be working on their new mission.
 
 Once these skill checks are done and the total Effect (weighing losses against successes) is calculated, the agent checks his total against the amount required by the Mission Difficulty.
 
@@ -2622,7 +2622,7 @@ DETERMINE FAILURE MISHAP
 The following table shows what has happened to an agent when he fails an Anti-Corporate mission. The Referee should roll 2d6 or choose on the following table to determine what happened to the agent in question, remembering to include the modifier for a lower mission Effect total.
 
 2d6 Result2d6 Result Anti-Corporate Failure MishapAnti-Corporate Failure Mishap
-0 or less You suffered a terrible injury; roll twice on the Injury table (see page 37 of the Traveller Core Rulebook ), taking the lower result. 1 You were injured; roll on the Injury table. 2 You are the reason corporate information is lost; lose –1 Trust. 3 Your arrested and acquitted but the media knows your face; lose any one Cover Identity or –1 Social Standing. 4 You are caught and held until your employer bails you out; –1 Trust or –1 Social Standing. 5 A co-worker is killed by an enemy agent working against you; lose one Ally, Contact or Network. 6 You suffer a light wound escaping from gun-happy security guards; roll twice on the Injury table, taking the higher result. 7 An opposing executive has set his sights upon you; gain him as an Enemy. 8 You lose something important to your employer; lose –1 Trust and gain your direct employing supervisor as a Rival. 9 You are set against an old comrade and he finds out your role in the mission; an Ally turns into a Rival. 10 You are captured on your target’s security footage; lose a Cover Identity and –1 Trust.
+0 or less You suffered a terrible injury; roll twice on the Injury table (see page 37 of the Traveller Core Rulebook ), taking the lower result. 1 You were injured; roll on the Injury table. 2 You are the reason corporate information is lost; lose –1 Trust. 3 Your arrested and acquitted but the media knows your face; lose any one Cover Identity or –1 Social Standing. 4 You are caught and held until your employer bails you out; –1 Trust or –1 Social Standing. 5 A co-worker is killed by an enemy agent working against you; lose one Ally, Contact or Network. 6 You suffer a light wound escaping from gun-happy security guards; roll twice on the Injury table, taking the higher result. 7 An opposing executive has set his sights upon you; gain him as an Enemy. 8 You lose something important to your employer; lose –1 Trust and gain your direct employing supervisor as a Rival. 9 You are set against an old comrade and he finds out your role in the mission; an Ally turns into a Rival. 10 You are captured on your target's security footage; lose a Cover Identity and –1 Trust.
 11+ You are arrested in the line of your mission but turn the story into a positive spin for your employer in the media. You do not get paid but you gain +1 Trust.
 
 2d6 Result2d6 Result Anti-Corporate Mission PayoutAnti-Corporate Mission Payout 1 or less Nothing – Mission does not profit. 2 1d6x200 Credits 3 2d6x200 Credits 4 2d6x400 Credits 5 2d6x600 Credits 6 3d6x600 Credits 7 2d6x1,000 Credits 8 3d6x1,000 Credits; +1 Trust 9 3d6x2,000 Credits; +1 Trust 10 3d6x5,000 Credits; +1 Trust 11 3d6x5,000 Credits; Two Ship Shares 12 2d6x10,000 Credits; Network (Corporate) 13 3d6x10,000 Credits; +1 Trust 14+ 1d6x50,000 Credits; +1 Trust; One Ship Share
@@ -2639,11 +2639,11 @@ This chapter details the use of bounties and bounty hunting in _Traveller_. Suit
 
 Professionals that focus on collecting bounties are called bounty hunters. They are a special type of agent that does not necessarily sell his services to one specific employer but rather sells them on a case by case basis.
 
-When someone says ‘bounty hunter’, they immediately think of weapon-strewn mercenary types clad in armor, jetting around the galaxy in search of the big score. Most bounty hunters do not fit this description; most are simply spacefaring folk that get paid for a special service. A career in bounty hunting may sound glamorous, soaring across the stars in search of an escaped killer worth hundreds of thousands of credits to the Imperium, but the reality of things tends to be quite different. For every big money, high profile bounty that is posted there are a thousand petty payouts based on finding common bail jumpers, missing persons or small-time criminals. A professional bounty hunter is not likely to be famous for his work.
+When someone says 'bounty hunter', they immediately think of weapon-strewn mercenary types clad in armor, jetting around the galaxy in search of the big score. Most bounty hunters do not fit this description; most are simply spacefaring folk that get paid for a special service. A career in bounty hunting may sound glamorous, soaring across the stars in search of an escaped killer worth hundreds of thousands of credits to the Imperium, but the reality of things tends to be quite different. For every big money, high profile bounty that is posted there are a thousand petty payouts based on finding common bail jumpers, missing persons or small-time criminals. A professional bounty hunter is not likely to be famous for his work.
 
 Like most agents, bounty hunters do not want to be recognizable or famous for their career choice. If their potential targets know who they are because of seeing them on a media wire they could flee at first sign of the hunter. This would make getting close enough to apprehend them extremely difficult. The proper use of stealth, disguises and misdirection is paramount to a successful hunt.
 
-Bounty hunters that want to be successful in their chosen field need to remember the five ‘golden rules’ of bounty hunting:
+Bounty hunters that want to be successful in their chosen field need to remember the five 'golden rules' of bounty hunting:
 
 ### SHARPEN YOUR SKILLS
 
@@ -2653,7 +2653,7 @@ Honing their abilities in skills such as Advocate, Astrogation, Computers, Gun C
 
 ### RESEARCH THE EMPLOYER AS MUCH AS THE TARGET
 
-Bounties are only as good as the payout they promise but a contract taken out with a bad employer might not be worth the additional zeroes on the wage amount. Some bounty contracts are not as easy as they read, the employing party having padded the facts to make it seem more attractive to potential hunters. Knowing which bounties are not worth the possible risk, physical or financial, is key to a hunter’s success.
+Bounties are only as good as the payout they promise but a contract taken out with a bad employer might not be worth the additional zeroes on the wage amount. Some bounty contracts are not as easy as they read, the employing party having padded the facts to make it seem more attractive to potential hunters. Knowing which bounties are not worth the possible risk, physical or financial, is key to a hunter's success.
 
 A bounty hunter wants to be sure that he is getting into a contract that will be worth the pay offered. This requires some background checking on both the target and the employing agencies (or individual) if the hunter wants to better comprehend what he is getting involved with. Background checks like these require either a related Contact or a few difficult (–2 DM) Admin, Carouse or Streetwise skill checks.
 
@@ -2661,7 +2661,7 @@ A bounty hunter wants to be sure that he is getting into a contract that will be
 
 Bounty hunters find most of their work through local law enforcement agencies, picking up their investigations and fugitive cases directly from the local police. Any hunter that is going to spend a significant time around the judiciary agents of a given location will need to know the ins and outs of their legal codes. The last thing a bounty hunter needs is to pay a hefty amount of fines after they get paid because they did not know the laws of the area.
 
-Sometimes a contract forces a hunter to skirt, bend or break the law to get the job done. They may not be bound to do so by some compelling force but they will if it means getting the bounty and being paid. A hunter that understands the law system of his surroundings can adjust what he can do to alleviate his own guilt or find a loophole to avoid arrest. Knowing the area’s laws well enough to avoid inadvertently breaking them while working a bounty requires a routine (+2 DM) Advocate skill check.
+Sometimes a contract forces a hunter to skirt, bend or break the law to get the job done. They may not be bound to do so by some compelling force but they will if it means getting the bounty and being paid. A hunter that understands the law system of his surroundings can adjust what he can do to alleviate his own guilt or find a loophole to avoid arrest. Knowing the area's laws well enough to avoid inadvertently breaking them while working a bounty requires a routine (+2 DM) Advocate skill check.
 
 ### THE TARGET IS NOT FRIEND OR ENEMY
 
@@ -2671,7 +2671,7 @@ It is best for any bounty hunter to segregate his personal feelings from any bus
 
 ### ALWAYS PREPARE FOR THE WORST SITUATION
 
-Soldiers have a saying, ‘No engagement plan survives contact with the enemy.’ Bounty hunters have a similar adage toward their missions. Every hunter knows that he must have a plan for completing his contracts but also must be aware that external situations will never allow that plan to go unchanged. It is the nature of their job.
+Soldiers have a saying, 'No engagement plan survives contact with the enemy.' Bounty hunters have a similar adage toward their missions. Every hunter knows that he must have a plan for completing his contracts but also must be aware that external situations will never allow that plan to go unchanged. It is the nature of their job.
 
 Bounty hunters will do well in their career if they enter every contract as if it will go terribly wrong at every given point. It is better to have something and not need it than it is to need something and not have it.
 
@@ -2704,7 +2704,7 @@ The third type of bounty is rare and not commonly advertised openly
 
 - assassinations. The sort of employer that is willing to put a defined
 
-price on a sentient life does not tolerate failure and only hires the best. Assassination contracts require the hunter to set aside any moral feelings and only think about how he will end his target’s life within the parameters specified by the employer. There is no room for ambiguity or hesitation.
+price on a sentient life does not tolerate failure and only hires the best. Assassination contracts require the hunter to set aside any moral feelings and only think about how he will end his target's life within the parameters specified by the employer. There is no room for ambiguity or hesitation.
 
 Bounty hunters that specialize in one type of contract over the others have the benefit of getting exceptionally good at fulfilling that one type but will eventually become known only for those missions. A well-known manhunter will stop getting offers to find a lost shuttle, whereas a dedicated tracer will rarely find contracts to track down runaways. Every bounty hunter must make his own decisions but the most successful rarely turn down a job.
 
@@ -2717,7 +2717,7 @@ In order to stay somewhat secretive but still efficient about open bounty contra
 
 PRIVATE BOUNTIES Only established and (in)famous bounty hunters ever get realistically approached to take on a private bounty contract. The kinds of targets that require private contracts are going to be reserved for those hunters that have reputations that precede them. A hunter that is well known for his past successes can be trusted with these sorts of bounties and the higher wages that come with them.
 
-To be considered for a private contract bounty a character must meet three requirements. They must have reached at least a Rank of 3 in the Bounty Hunter Agent career paths, completed at least five Bounty Missions successfully and have at least one Network at a rating of 1 or higher. If a bounty hunter meets all of these requirements he may always choose to perform a Bounty Mission as a ‘Private Contract’, using the alternate column on the Mission Payout table when successful.
+To be considered for a private contract bounty a character must meet three requirements. They must have reached at least a Rank of 3 in the Bounty Hunter Agent career paths, completed at least five Bounty Missions successfully and have at least one Network at a rating of 1 or higher. If a bounty hunter meets all of these requirements he may always choose to perform a Bounty Mission as a 'Private Contract', using the alternate column on the Mission Payout table when successful.
 
 Working the Contract The hunter must get into contact with the employer to accept the terms of a contract if they plan on getting paid for its completion. Once the employer knows the bounty is being worked they can stop seeking other hunters but they are not required to do so. Many employers leave their contracts open to multiple hunters to increase the chances it will be fulfilled. Knowing that a contract might have more bounty hunters working on it should help push them all a little harder; getting the target first is the only way to get paid.
 
@@ -2727,17 +2727,17 @@ The following sections of the chapter explain how the different components of bo
 
 ### SHIP TRACING
 
-Contracts from employers of a high enough technology level (TL 8+) may include the need to track a target’s route off planet, across a star system or even several jumps away. Unlike following an escaped prisoner’s tracks in the mud or the electronic signature of a data thief, tracking a target across the stars is a great deal more skill intensive.
+Contracts from employers of a high enough technology level (TL 8+) may include the need to track a target's route off planet, across a star system or even several jumps away. Unlike following an escaped prisoner's tracks in the mud or the electronic signature of a data thief, tracking a target across the stars is a great deal more skill intensive.
 
 Ship tracing is the practice of locating a specific vessel or route of a passenger over one or many starship voyages. It requires a good understanding of the space transit system, commercial and private travel methods and knowledge as to where the target was last seen or tracked to. It is not an easy task to track someone travelling anonymously across several star systems but if the money is worth the work a bounty hunter must try to do just that.
 
-The task of tracing a ship’s whereabouts is a matter of knowing the past location of the ship in question, researching the directions it could have travelled to, narrowing down where it might have gone and then investigating those possibilities. The hunter then has to eliminate bad leads until he finds the ship’s location – or past location. More often than not a ship tracer has to use this process several times, following verified paths to new optional routes, which he will then investigate and eliminate. Eventually this process of elimination will leave one avenue of the ship’s journey and hopefully the ship itself.
+The task of tracing a ship's whereabouts is a matter of knowing the past location of the ship in question, researching the directions it could have travelled to, narrowing down where it might have gone and then investigating those possibilities. The hunter then has to eliminate bad leads until he finds the ship's location – or past location. More often than not a ship tracer has to use this process several times, following verified paths to new optional routes, which he will then investigate and eliminate. Eventually this process of elimination will leave one avenue of the ship's journey and hopefully the ship itself.
 
-Starting the Hunt When searching for a specific ship the hunter has the best starting information he can – the ship’s name or designation code. As long as he was not given bad information he can begin looking for that specific ship, where it has been and what might have happened to it. This detail is often part of the employing contract and therefore requires no special research. In some cases, specifically when the hunter is looking for what ship a person travelled on instead of the ship itself, this can be much more difficult.
+Starting the Hunt When searching for a specific ship the hunter has the best starting information he can – the ship's name or designation code. As long as he was not given bad information he can begin looking for that specific ship, where it has been and what might have happened to it. This detail is often part of the employing contract and therefore requires no special research. In some cases, specifically when the hunter is looking for what ship a person travelled on instead of the ship itself, this can be much more difficult.
 
 If the bounty hunter needs to learn the designation and the last location of the ship, any of the following methods in game terms will grant the information:
 
-USE A KNOWLEDGEABLE CONTACT, ALLY OR NETWORK The easiest way to find out the name of a specific vessel to track down is by knowing someone that may have the information. It may cost favours or a bribe but using a Contact, Ally or Network that has roots in the spacefaring industry or is otherwise related to the target being tracked is a sure way to get the information reliably.
+USE A KNOWLEDGEABLE CONTACT, ALLY OR NETWORK The easiest way to find out the name of a specific vessel to track down is by knowing someone that may have the information. It may cost favors or a bribe but using a Contact, Ally or Network that has roots in the spacefaring industry or is otherwise related to the target being tracked is a sure way to get the information reliably.
 
 TALK TO THE SPACERS AND PILOTS IN THE AREA Not as easy or reliable as using a known informant, a bounty hunter can canvas an area on his own. He can speak to the dockworkers, pilots, outgoing and incoming passengers, spaceport security and other useful fonts of information in order to glean some details on the target in question. A stall clerk might have sold a specific passenger a meal and he remembers the face or perhaps docking staff have a story about the ship the hunter is looking for.
 
@@ -2769,7 +2769,7 @@ SENSORS Tap into spaceport sensing suites to find target designation codes: 10-6
 
 Once the bounty hunter has the location (or recent location) of the starship he needs to trace in order to acquire his contracted quarry, he must begin the process of narrowing down where it went to next.
 
-Renton, a bounty hunter in search of an AWOL pilot from the Imperial navy on board his missing scout ship, uses his impressive technical skills to hack into the flight base data stream and find everything he needs to know. It takes him several days of software sifting and code hacking but he eventually amasses the 12 Effect in skill successes to know that the pilot’s ship last landed officially at the Beta Serapoln starbase, just a few jumps from where he went missing.
+Renton, a bounty hunter in search of an AWOL pilot from the Imperial navy on board his missing scout ship, uses his impressive technical skills to hack into the flight base data stream and find everything he needs to know. It takes him several days of software sifting and code hacking but he eventually amasses the 12 Effect in skill successes to know that the pilot's ship last landed officially at the Beta Serapoln starbase, just a few jumps from where he went missing.
 
 BBBOUNTIESOUNTIESOUNTIES
 
@@ -2779,7 +2779,7 @@ Once the hunter knows where to begin his search for the target ship, he then kno
 
 Unlike searching for a starting point, the right path a target ship has taken could always be changing. The bounty hunter has to win a race against time as he eliminates faulty information and unlikely avenues of travel. If he reaches the right conclusion and gets to where the ship had travelled a day too late he will then have to start researching routes all over again but from a different starting location!
 
-In game terms, every ‘leg’ of the ship trace has the potential for the hunter to find his target – if he is fast enough with his research and investigating. This is calculated by the Referee rolling a random time limit that the bounty hunter has to find the correct route, keeping that amount of time secret from the players until they acquire enough successful Effect to know which route to take to follow the target.
+In game terms, every 'leg' of the ship trace has the potential for the hunter to find his target – if he is fast enough with his research and investigating. This is calculated by the Referee rolling a random time limit that the bounty hunter has to find the correct route, keeping that amount of time secret from the players until they acquire enough successful Effect to know which route to take to follow the target.
 
 Before rolling on the timing table below, the Referee must decide what category the target ship falls into:
 
@@ -2795,7 +2795,7 @@ Before rolling on the timing table below, the Referee must decide what category 
   warships, any ship that is aware of the bounty making it a
   target.
 
-Once the ship’s general category is decided, the Referee then rolls 2d6 and consults the table below to determine how long the bounty hunter(s) have before the target moves on to a new destination.
+Once the ship's general category is decided, the Referee then rolls 2d6 and consults the table below to determine how long the bounty hunter(s) have before the target moves on to a new destination.
 
 The Referee, having determined how long before the target moves on, must allow the bounty hunter(s) to use their skills, contacts and other ideas to work out where the target went.
 
@@ -2803,7 +2803,7 @@ The characters can figure out which route is the correct one by collecting Effec
 
 The Referee has final say as to the difficulty levels of the skill checks the hunter(s) are taking based on how well he believes it would garner any useful information but we encourage most checks to be of an Average or Difficult (–2 DM) challenge level. These checks should take 10 to 60 hours each.
 
-Some bounty hunters will have useful Contacts, Allies or Networks they might want to tap for information as well; requiring the Referee’s approval. For every Contact a character uses for information, 2d6 Effect is gained toward finding the target. Networks also give a gain of 2d6 Effect but the character may re-roll one of the dice if he wishes. Allies grant 1d6+6 Effect when used in this fashion.
+Some bounty hunters will have useful Contacts, Allies or Networks they might want to tap for information as well; requiring the Referee's approval. For every Contact a character uses for information, 2d6 Effect is gained toward finding the target. Networks also give a gain of 2d6 Effect but the character may re-roll one of the dice if he wishes. Allies grant 1d6+6 Effect when used in this fashion.
 
 The amount of Effect that the bounty hunter(s) must acquire in the secret allotted time limit is based on the previously chosen ship category.
 
@@ -2821,20 +2821,20 @@ SHIP TRACING TIMETABLE
 
 If the time runs out before the bounty hunter(s) can gather enough Effect, the target ship has moved on to a new destination. The Referee should _not_ inform the characters that they did not make it in time; instead he should let them arrive to the calculated route to find out that they missed the target by a few days or even hours. If this happens, the Referee returns to the Tracing Timetable and the process of route elimination begins anew.
 
-Eventually the characters should get a favourable timetable roll and manage to find the target in time. If not, perhaps they should be in the market for a new line of work. Ship tracing is obviously _not_ the right career choice for this bounty hunter!
+Eventually the characters should get a favorable timetable roll and manage to find the target in time. If not, perhaps they should be in the market for a new line of work. Ship tracing is obviously _not_ the right career choice for this bounty hunter!
 
-_Continuing our example, Renton has arrived at Beta Serapoln in search of the missing scout ship and its pilot. He immediately begins combing the spacer bars and computer records, even breaking into the local security network to look for license transactions with his ID on them. He makes eight total skill checks (a total of 300 hours; just over 12 days) before reaching the 18 Effect (Difficultly Traced) the Referee claims he needs. He knows where the scout ship is; the Bongol Waystation! When he arrives there however, the Referee laughs and reveals that he rolled 14 days on the timetable and Renton only missed the ship by less than 48 hours! Renton’s player growls his discontent and begins the searching process anew as the Referee secretly rolls another result on the timetable..._
+_Continuing our example, Renton has arrived at Beta Serapoln in search of the missing scout ship and its pilot. He immediately begins combing the spacer bars and computer records, even breaking into the local security network to look for license transactions with his ID on them. He makes eight total skill checks (a total of 300 hours; just over 12 days) before reaching the 18 Effect (Difficultly Traced) the Referee claims he needs. He knows where the scout ship is; the Bongol Waystation! When he arrives there however, the Referee laughs and reveals that he rolled 14 days on the timetable and Renton only missed the ship by less than 48 hours! Renton's player growls his discontent and begins the searching process anew as the Referee secretly rolls another result on the timetable..._
 
 ### CRIMINALS
 
-The large majority of bounties placed in _Traveller_ are those classed as ‘criminal bounties’, even though not all of the targets are actually criminals. What the category of criminal bounty actually means is
-‘an individual who must be located, captured and returned to the employing agency or individual’. Runaway slaves, bail jumpers, debtors and hardened murderers all fall into this greater category.
+The large majority of bounties placed in _Traveller_ are those classed as 'criminal bounties', even though not all of the targets are actually criminals. What the category of criminal bounty actually means is
+'an individual who must be located, captured and returned to the employing agency or individual'. Runaway slaves, bail jumpers, debtors and hardened murderers all fall into this greater category.
 
-Criminal targets are harder to track down on the larger scale because of how easy it is for a single person to blend in with his surroundings and ‘fall off the grid’ if they wish to. Once cornered however, it is much easier to find a face or a description in a city or space station than finding a spaceship in the great void of Charted Space.
+Criminal targets are harder to track down on the larger scale because of how easy it is for a single person to blend in with his surroundings and 'fall off the grid' if they wish to. Once cornered however, it is much easier to find a face or a description in a city or space station than finding a spaceship in the great void of Charted Space.
 
 Bounty hunters that take on criminal contracts that have travelled offworld will use the Ship Tracing (see earlier in this chapter) rules to find the location of their specific target but then add the additional step of cornering the criminal target somewhere on the planet/space station in order to confront and hopefully capture them.
 
-Cornering the Criminal Target When the bounty hunter knows exactly where his target is, he then has to make sure he approaches the upcoming interaction properly. Moving openly and headlong toward a criminal target is a good way to give away the hunter’s intentions and possibly scare the target into flight. Using stealth, misdirection and good tactical knowledge will result in the target having nowhere to go – and only the bounty hunter to deal with.
+Cornering the Criminal Target When the bounty hunter knows exactly where his target is, he then has to make sure he approaches the upcoming interaction properly. Moving openly and headlong toward a criminal target is a good way to give away the hunter's intentions and possibly scare the target into flight. Using stealth, misdirection and good tactical knowledge will result in the target having nowhere to go – and only the bounty hunter to deal with.
 
 In game terms, the bounty hunter must work his way into the perfect interaction with the target before the target moves into a new position. Similar to how ship tracing works, this is calculated by the Referee rolling a secret random time limit in which the hunter(s) must acquire enough successful Effect to set up the interaction with the target.
 
@@ -2849,7 +2849,7 @@ Before rolling on the timing table below, the Referee must decide what category 
   convicts.
 - Dangerously Volatile – Dangerously Volatile – Sociopaths, lunatics, mass murderers.
 
-Once the target’s criminality category is determined, the Referee then rolls 2d6 and consults the table below to determine how long the bounty hunter(s) have before the target moves to a new location.
+Once the target's criminality category is determined, the Referee then rolls 2d6 and consults the table below to determine how long the bounty hunter(s) have before the target moves to a new location.
 
 The Referee, having determined how long before the target moves local hideouts, now gives the bounty hunter(s) a chance to use their skills, Contacts and other ideas to close in on the target and deal with them.
 
@@ -2859,9 +2859,9 @@ CRIMINAL CORNERING TIMETABLE
 
 2d6 Result2d6 Result Non-CriminalNon-Criminal Non-ViolentNon-Violent Potentially ViolentPotentially Violent ViolentViolent Dangerously VolatileDangerously Volatile 2 6d6 hours 5d6 hours 4d6 hours 3d6 hours 2d6 hours 3-4 1d6 days 6d6 hours 5d6 hours 4d6 hours 3d6 hours 5-6 2d6 days 1d6 days 6d6 hours 5d6 hours 4d6 hours 7-8 3d6 days 2d6 days 1d6 days 6d6 hours 5d6 hours 9-10 4d6 days 3d6 days 2d6 days 1d6 days 6d6 hours 11-12 5d6 days 4d6 days 3d6 days 2d6 days 1d6 days
 
-Identity’s rating (Weak, Strong, etc) to the Effect of _each_ successful skill check.
+Identity's rating (Weak, Strong, etc) to the Effect of _each_ successful skill check.
 
-Some hunter characters will have useful local Contacts or Allies they might want to tap for good territorial information. For every Contact a character uses for information, 1d6 Effect is gained toward learning the target’s current hideout; Allies grant 1d6+3 Effect instead.
+Some hunter characters will have useful local Contacts or Allies they might want to tap for good territorial information. For every Contact a character uses for information, 1d6 Effect is gained toward learning the target's current hideout; Allies grant 1d6+3 Effect instead.
 
 The amount of Effect that the bounty hunter(s) must gain in the secret time limit is based on the previously chosen criminality category.
 
@@ -2873,7 +2873,7 @@ The amount of Effect that the bounty hunter(s) must gain in the secret time limi
 
 If the hunter(s) accumulate the listed Effect before the secret time allotment is up, they have successfully cornered the target in a suitable place to initiate an interaction with them. Whether this is a negotiation, conversation, kidnapping or all-out gunfight is down to the bounty hunter, the target and the contract.
 
-If the time runs out before the character(s) gain enough Effect, the target has moved on to a new hideout and might even be made aware the bounty hunter is after them. The Referee should _not_ inform the characters that they did not corner their target successfully; rather he should let them get to the target’s expected location and compare the amount of Effect the hunter was short by on the following table – explaining what the characters find at the target’s previous hideout.
+If the time runs out before the character(s) gain enough Effect, the target has moved on to a new hideout and might even be made aware the bounty hunter is after them. The Referee should _not_ inform the characters that they did not corner their target successfully; rather he should let them get to the target's expected location and compare the amount of Effect the hunter was short by on the following table – explaining what the characters find at the target's previous hideout.
 
 Effect Amount Effect Amount ShortageShortage The Target...The Target... Game EffectsGame Effects 1-3 ...just barely got out in time and did not have time to grab all of their possessions.
 
@@ -2929,7 +2929,7 @@ Admin 1, Broker 2, Computers 2, Deception 2, Persuade 2, Trade 3 Revolver (3d6�
 
 Embezzler: Embezzler: This is a professional, executive or financial officer that has made a small fortune by stealing from his employers. He will use his Persuade skill to try and get his captors to accept a bribe in exchange for his continued freedom.
 
-Petty Thief: Petty Thief: Making money by stealing somewhat insignificant items or amounts of cash at a time, this thief is a ‘small time’ player in the local criminal scene.
+Petty Thief: Petty Thief: Making money by stealing somewhat insignificant items or amounts of cash at a time, this thief is a 'small time' player in the local criminal scene.
 
 POTENTIALLY VIOLENT CRIMINAL ARCHETYPES
 
@@ -2998,9 +2998,9 @@ Sociopath/Lunatic: Sociopath/Lunatic: Deranged, detached and flooded with danger
 
 ### ASSASSINATION
 
-The main rule of assassinations is that the target must be dispatched in a very specific way by the chosen bounty hunter, as denoted by the employer in the contract. Some targets must look like they died of natural causes; others might want bloody shows of exploding craniums on public television. It is the employer’s money, so any good assassin will carry out their wishes for the right wages.
+The main rule of assassinations is that the target must be dispatched in a very specific way by the chosen bounty hunter, as denoted by the employer in the contract. Some targets must look like they died of natural causes; others might want bloody shows of exploding craniums on public television. It is the employer's money, so any good assassin will carry out their wishes for the right wages.
 
-Assassination contracts are predominantly private bounties offered to reputable hunters that have earned the title of ‘assassin’ by taking on these murderous jobs in the past. Beginning with easy kills for small payoffs from street gangs and criminal syndicates, a bounty hunter can get his name in the kinds of circles employers go to for a hired killer. Professional assassins are frighteningly good at their job and never work for cheap.
+Assassination contracts are predominantly private bounties offered to reputable hunters that have earned the title of 'assassin' by taking on these murderous jobs in the past. Beginning with easy kills for small payoffs from street gangs and criminal syndicates, a bounty hunter can get his name in the kinds of circles employers go to for a hired killer. Professional assassins are frighteningly good at their job and never work for cheap.
 
 Taking Assassination Contracts Not all bounty hunters have what it takes to be a professional killer. Anyone can earn a few hundred credits for putting a bullet in someone but a true assassin does so while protecting his own assets and the wishes of his employer. It can take years of low-wage deals and hired hits before employers come looking for the bounty hunter with an offer for an assassination bounty.
 
@@ -3030,17 +3030,17 @@ BBBOUNTIESOUNTIESOUNTIES
 
 assassin to get close to the target and deliver the blows in melee range. There is a +1 bonus to the Mission Payout roll for achieving this.
 
-Public Display – Public Display – The target must be killed in a violent and public manner, in front of as many witnesses as possible. There is no bonus to the Mission Payout but the assassin can re-roll any ‘1’ result instead.
+Public Display – Public Display – The target must be killed in a violent and public manner, in front of as many witnesses as possible. There is no bonus to the Mission Payout but the assassin can re-roll any '1' result instead.
 
-Accidental Death – Accidental Death – The employer wants the target’s death to look like an accident. Car accidents, equipment failures and similar situations can be arranged for with the Engineer or Mechanic skills, perhaps using Deception or Stealth to ensure the death takes place at the right moment. This will add +2 to the Mission Payout roll.
+Accidental Death – Accidental Death – The employer wants the target's death to look like an accident. Car accidents, equipment failures and similar situations can be arranged for with the Engineer or Mechanic skills, perhaps using Deception or Stealth to ensure the death takes place at the right moment. This will add +2 to the Mission Payout roll.
 
 No Remains – No Remains – The employer does not care at all how the target dies, just that no bodily remains ever resurface. The assassin may use special equipment or ingenuity to make this happen, earning a +2 bonus to the Mission Payout if they succeed.
 
-Explosion/Arson – Explosion/Arson – The target is to be blown to bits or burnt to a cinder, preferably in his own home or workplace. This can inflict serious collateral damage and potentially injure non-contracted lives, requiring difficult Explosives skill rolls to ensure the target dies without flattening the neighborhood in the process. A successful assassin will add +2 to his Mission Payout roll and re-roll any natural ‘1’ results.
+Explosion/Arson – Explosion/Arson – The target is to be blown to bits or burnt to a cinder, preferably in his own home or workplace. This can inflict serious collateral damage and potentially injure non-contracted lives, requiring difficult Explosives skill rolls to ensure the target dies without flattening the neighborhood in the process. A successful assassin will add +2 to his Mission Payout roll and re-roll any natural '1' results.
 
 ### BOUNTY MISSIONS
 
-We encourage Referees to use actual gaming sessions to narrate their Player Character’s bounty hunting escapades using the methods detailed in the rest of this chapter, but some mixed-career _Traveller_ groups might not find the time to do so. In order to give bounty hunter characters the same fast-track mission options as we have for Espionage and Corporate-based Agents, this section reveals another version of the quick format for missions based on bounty hunters.
+We encourage Referees to use actual gaming sessions to narrate their Player Character's bounty hunting escapades using the methods detailed in the rest of this chapter, but some mixed-career _Traveller_ groups might not find the time to do so. In order to give bounty hunter characters the same fast-track mission options as we have for Espionage and Corporate-based Agents, this section reveals another version of the quick format for missions based on bounty hunters.
 
 How to Generate a Bounty Mission The Referee should walk the agent going on the mission through the following steps in order:
 
@@ -3073,7 +3073,7 @@ Assassination: Assassination: Reserved only for tested and well-known assassins,
 
 Determine Difficulty of Mission The following table shows how difficult each type of mission will be for the bounty hunter to accomplish. This is measured in a total amount of Effect the agent character will have to generate from his successful skill and Cover Identity checks (based on the Mission Type, above) during the Mission.
 
-The Referee should roll 1d6 or choose on the following table to determine how difficult the agent’s mission will be in terms of
+The Referee should roll 1d6 or choose on the following table to determine how difficult the agent's mission will be in terms of
 
 Effect necessary. Bounty hunters with a Trust rating of 2 or less will add +1 to the die roll, whereas a Trust of 4 or higher may subtract –1 if they choose to do so. The difficulty may or may not have a modifier to the Mission Payout if successful, as detailed on a secondary table below.
 
@@ -3105,8 +3105,8 @@ Criminal, Criminal, Paid HitPaid Hit AssassinationAssassination 0 - Training 2 E
 
 1d6 Result1d6 Result Assassination MishapAssassination Mishap
 0 or less You suffer a terrible injury; roll twice on the Injury table (see page 37 of the Traveller Core Rulebook ), taking the lower result.
-1 You are forced to abandon the contract in order to avoid legal persecution; lose 1 Trust and all Contacts, Allies or Networks involving the law enforcement or justice system (Referee’s discretion).
-2 The target’s security finds you and tries to kill you; roll on the Injury table and subtract 1 (minimum of 1).
+1 You are forced to abandon the contract in order to avoid legal persecution; lose 1 Trust and all Contacts, Allies or Networks involving the law enforcement or justice system (Referee's discretion).
+2 The target's security finds you and tries to kill you; roll on the Injury table and subtract 1 (minimum of 1).
 3 The target becomes unreachable and the employer is unhappy with your services; lose 1 Trust.
 4 You are caught on a security system recording; lose any one Cover Identity or –1 Social Standing.
 5 Your target turns out to have had an excellent body double that you killed; lose 1 Trust and gain the target as an Enemy.
@@ -3124,10 +3124,10 @@ Determine Failure Mishap The following tables show what has happened to a bounty
 1 You are injured; roll on the Injury table.
 2 Your bounty is nowhere to be found; lose 1 Trust.
 3 A competing bounty hunter gets to the target first and takes the wages; gain him as a Rival.
-4 Someone affiliated with the target confronts you about ‘wrongful harassment’; you are dragged through litigation that harms your reputation and costs you –1 Social Standing.
+4 Someone affiliated with the target confronts you about 'wrongful harassment'; you are dragged through litigation that harms your reputation and costs you –1 Social Standing.
 5 You chase your target into a high-radiation area; roll on the Injury table or lose 1 Endurance from radiation poisoning.
 6 Your target does not like being hunted and sets up many traps and dangers; roll twice on the Injury table, taking the higher result.
-7 You manage to anger your employer through ‘sloppy work’; lose 1 Trust or gain the employer as a Rival.
+7 You manage to anger your employer through 'sloppy work'; lose 1 Trust or gain the employer as a Rival.
 8 The target writes a letter to the media about you and your bounty hunting business; lower all of your Cover Identity levels by one stage (minimum of Weak rating).
 9 A competing bounty hunter barely beats you to the target and you react unprofessionally; gain a new Rival or turn an existing Rival into an Enemy.
 10 You endanger one of your allied informants in order to get to the target; turn a Contact or Informant into an Enemy. Gain a Rival if you do not have any Contacts or Informants.
@@ -3141,9 +3141,9 @@ This chapter details equipment and vehicles specific to the agent career.
 
 ## TECHNOLOGICAL PROTOTYPES
 
-Agents in _Traveller_ that work with certain agencies will come in contact with new and potentially powerful devices. They might have stolen an untested product from a corporate research lab, been given a device to do field research upon or tasked with smuggling unique software to an employer’s mainframe. Agents are constantly exposed to these technological prototypes in their line of work.
+Agents in _Traveller_ that work with certain agencies will come in contact with new and potentially powerful devices. They might have stolen an untested product from a corporate research lab, been given a device to do field research upon or tasked with smuggling unique software to an employer's mainframe. Agents are constantly exposed to these technological prototypes in their line of work.
 
-A prototype is a new or improved piece of technology that an agent comes into contact with for a variety of reasons based on their employer’s wishes. Exactly what the prototype does or what the employer wants done with it depends on the situation.
+A prototype is a new or improved piece of technology that an agent comes into contact with for a variety of reasons based on their employer's wishes. Exactly what the prototype does or what the employer wants done with it depends on the situation.
 
 This section details a quick system for Referees to design prototype pieces of technology. This creates devices that can be used in Agent missions or other _Traveller_ scenarios.
 
@@ -3157,25 +3157,25 @@ Weapons: Weapons: All melee, personal and support firearms, including energy wea
 
 Medical: Medical: All first aid, surgical and medical-grade pharmaceutical equipment. Drugs: Drugs: All non-medical chemicals, narcotics and combat stimulants. Communications: Communications: All sensors and electronic communication devices. Computers: Computers: All computer hardware. Software: Software: All computer software, data packages and programs. Robotics: Robotics: All drones androids and self-contained robotic equipment. Augments: Augments: All bionics, cybernetics and bodily-augmenting devices. Psionics: Psionics: All equipment based on the use or effect of psionic abilities.
 
-Step Two – Determine the Prototype’s Distinction The Referee must roll or choose on the following table as to what makes the prototype equipment new or unique. This will determine how the prototype is different from other pieces of technology in the same type category.
+Step Two – Determine the Prototype's Distinction The Referee must roll or choose on the following table as to what makes the prototype equipment new or unique. This will determine how the prototype is different from other pieces of technology in the same type category.
 
 RollRoll Prototype DistinctionPrototype Distinction 1 Characteristic Reduction 2 Characteristic Increase 3 Skill Penalty 4 Skill Bonus 5 Extensive Damage Potential 6 Special Ability
 
 Characteristic Reduction/Increase: Characteristic Reduction/Increase: The prototype somehow reduces or increases a base Characteristic of either the user or a given target.
 
-Skill Penalty/Bonus: Skill Penalty/Bonus: The prototype either imposes a Skill penalty to a specific target or grants a bonus to one or more of the user’s Skills.
+Skill Penalty/Bonus: Skill Penalty/Bonus: The prototype either imposes a Skill penalty to a specific target or grants a bonus to one or more of the user's Skills.
 
 Extensive Damage Potential: Extensive Damage Potential: Something about the prototype gives it the ability to inflict heavy damage upon targets when used.
 
 Special Ability: Special Ability: The prototype has the ability to grant otherwise unheard of powers, effects or skills to the user of the device.
 
-Step Three – Determine the Prototype’s Power Level The Referee must roll or choose on the following table to determine how powerful the prototype’s will be. This will affect the financial worth of the item, noted on the table below as a modifier to the Prototype Value roll (see below).
+Step Three – Determine the Prototype's Power Level The Referee must roll or choose on the following table to determine how powerful the prototype's will be. This will affect the financial worth of the item, noted on the table below as a modifier to the Prototype Value roll (see below).
 
 RollRoll Prototype Power LevelPrototype Power Level Prototype Value DMPrototype Value DM 1 Menial –2 (minimum 0) 2 Mundane –1 (minimum 0) 3 Moderate +0 4 Strong +0 5 Impressive +1 6 Unbelievable +2
 
 The power level of the prototype will be instrumental in figuring out exactly what the device does for its user.
 
-Step Four – Decide the Prototype’s Effects Now knowing what power level the prototype device is supposed to have, the Referee can decide what the device does for the user. This is a somewhat generic description, allowing the Referee to come up with the specifics to best fit his own game setting.
+Step Four – Decide the Prototype's Effects Now knowing what power level the prototype device is supposed to have, the Referee can decide what the device does for the user. This is a somewhat generic description, allowing the Referee to come up with the specifics to best fit his own game setting.
 
 The Effects table shows examples for each of the Prototype Distinctions at the Power Levels possible for any device. These are not the only effects that a prototype could have; we encourage Referees to come up with their own to work within their own games.
 
@@ -3219,7 +3219,7 @@ Inflicts 3d6 additional damage
 
 (^1) The dice listed are rolled on the Special Ability table below. PROTOTYPE SPECIAL ABILITIES Roll Roll Special AbilitySpecial Ability ExampleExample 0 Lesser Gimmick Performs useless task (changes colour, produces odour, and so on). 1 Gimmick Performs minor task (cancels noise, recognizes vocal commands, and so on). 2 Greater Gimmick Performs useful task (becomes weightless, self-repairs, and so on). 3 Utility Performs useful set of tasks (opens locks, fixes broken machinery, and so on). 4 Greater Utility Performs highly useful set of tasks (solves computer encryption, aims and fires weaponry, and so on). 5 Boon Performs a beneficial service (produces drinkable water, cools ambient temperatures, and so on). 6 Greater Boon Performs a highly beneficial service (knits wounds, extends Jump Drive ranges, and so on). 7 Bends Reality Performs an action that defies most logical reasoning (teleports, is seemingly indestructible, and so on). 8 Breaks Reality Defies all forms of known logic and science (creates matter, time travel, and so on).
 
-#### STEP FIVE – DETERMINE THE PROTOTYPE’S VALUE
+#### STEP FIVE – DETERMINE THE PROTOTYPE'S VALUE
 
 The Referee must roll or choose on the following table to determine how much prototype is actually worth on the open market. This is what the device would sell for if the Agent found a neutral party to purchase it.
 
@@ -3231,7 +3231,7 @@ Agents oftentimes must try to perform their activities without others seeing, he
 
 This section is devoted to a number of new pieces of technology aimed directly at being stealthy or dealing with those occasions when an agent cannot avoid detection.
 
-Weaponry and Related Equipment Firearm Sound-Baffle (TL12): Firearm Sound-Baffle (TL12): An electronic device fitted to the barrel of a firearm, the sound-baffle emits the exact opposite wavelength of sound that the report of the weapon being fired causes. This reduces the sound the weapon makes to a dull ‘click’. A sound- baffled weapon imposes a –6 DM on attempts to detect to locate it using sound. Cr. 500. Sound-baffles for one weapon are not interchangeable with different types; one must be pur chased for each specific model of weapon.
+Weaponry and Related Equipment Firearm Sound-Baffle (TL12): Firearm Sound-Baffle (TL12): An electronic device fitted to the barrel of a firearm, the sound-baffle emits the exact opposite wavelength of sound that the report of the weapon being fired causes. This reduces the sound the weapon makes to a dull 'click'. A sound- baffled weapon imposes a –6 DM on attempts to detect to locate it using sound. Cr. 500. Sound-baffles for one weapon are not interchangeable with different types; one must be pur chased for each specific model of weapon.
 
 Laser Pistol, Invisibeam (TL12): Laser Pistol, Invisibeam (TL12): Using special lenses and computerised goggles to aim with the output, the Invisibeam technology creates a completely visually undetectable streak of coherent light. This grants the firer a +4 DM bonus to Stealth checks for the purposes of hiding where an attack comes from. The weapon is still dependent on a bulky belt power pack, which costs Cr. 1,000 and weighs 2kg and is good for 75 shots.
 
@@ -3243,11 +3243,11 @@ WeaponWeapon TLTL RangeRange Required SkillRequired Skill DamageDamage MagazineM
 
 Invisibeam Laser Rifle 12 Rifle Gun Combat (Energy Rifle) 5d6+1 75 No 10,000 6 2,500
 
-Needeletto (TL7):Needeletto (TL7): A reinforced but thin metal ‘needle’ used for precision killing strikes. Needelettos have no edge but have a very sharp point with an angled tip for severing nerves and arteries. Non-rigid armor (such as jack, cloth, mesh and the like) is not very effective against a needeletto; their value is halved (rounding down). The Effect of this weapon is always considered to be one point higher for the purposes of damage.
+Needeletto (TL7):Needeletto (TL7): A reinforced but thin metal 'needle' used for precision killing strikes. Needelettos have no edge but have a very sharp point with an angled tip for severing nerves and arteries. Non-rigid armor (such as jack, cloth, mesh and the like) is not very effective against a needeletto; their value is halved (rounding down). The Effect of this weapon is always considered to be one point higher for the purposes of damage.
 
 WeaponWeapon TLTL Required SkillRequired Skill DamageDamage HeftHeft Cost (Cr.)Cost (Cr.) Mass (Kg)Mass (Kg) SpecialSpecial Needeletto 7 Melee (Blade) 1d6+1 –1 75 0.5 Armor reduced
 
-Vocal Trigger (TL10): Vocal Trigger (TL10): Attached to any firearm of TL8 or higher, the vocal trigger is an electronic counter-safety that allows agents to ‘tell’ their weapon to fire even if the trigger cannot be depressed or the weapon’s safety is engaged. It is coded to a specific three-word phrase and tone of voice, making it very difficult (–4 DM) to mimic. It also only works in a speaking tone up to twelve metres away; not a shouted command or a whisper. Cr. 750. Vocal triggers for one weapon are not interchangeable with different types; one must be pur chased for each specific model of weapon.
+Vocal Trigger (TL10): Vocal Trigger (TL10): Attached to any firearm of TL8 or higher, the vocal trigger is an electronic counter-safety that allows agents to 'tell' their weapon to fire even if the trigger cannot be depressed or the weapon's safety is engaged. It is coded to a specific three-word phrase and tone of voice, making it very difficult (–4 DM) to mimic. It also only works in a speaking tone up to twelve meters away; not a shouted command or a whisper. Cr. 750. Vocal triggers for one weapon are not interchangeable with different types; one must be pur chased for each specific model of weapon.
 
 Armor and Armor Components Stealth Bodyglove, Armored (TL10):Stealth Bodyglove, Armored (TL10): A protective bodyglove worn to cushion against impacts and potentially deflect low calibre rounds, this armor is designed to help blend into shadows and undergrowth equally well, adding a +2 bonus to all Stealth skill checks in darkness and foliage.
 
@@ -3265,9 +3265,9 @@ Mass Mass
 
 X-Ray Chameleon (TL11): X-Ray Chameleon (TL11): This technology can be applied to any vacc suit, combat environment suit, combat armor, powered armor or battle dress. Thin layers of inert radioactive materials shield the wearer from appearing on X-ray scanners, scopes or goggles. This baffles X-ray based detection and tracking systems, imposing a –4 DM on attempts to discover or track the wearer with that technology. Cr. 3,000.
 
-Field Equipment Compact Communication Suite (TL10): Compact Communication Suite (TL10): A special communications transmitter/receiver set that is worn inside the mouth and ear. Fastened around a rear tooth, the transmitter is triggered by the user clenching his teeth and then whispering barely audibly. This allows the user to keep a communication range of 3 kilometres without worrying about giving away his position, adding a +2 DM to Stealth skill checks for these purposes. Cr. 750.
+Field Equipment Compact Communication Suite (TL10): Compact Communication Suite (TL10): A special communications transmitter/receiver set that is worn inside the mouth and ear. Fastened around a rear tooth, the transmitter is triggered by the user clenching his teeth and then whispering barely audibly. This allows the user to keep a communication range of 3 kilometers without worrying about giving away his position, adding a +2 DM to Stealth skill checks for these purposes. Cr. 750.
 
-Holographic Decoy (TL9): Holographic Decoy (TL9): This small and easily hidden projector creates intermittent flickers of holographic movement throughout a nine-metre area that can be seen for over a hundred metres, attracting attention to that area and away from the user. An active holographic decoy will add a +4 DM to Stealth skill checks within fifty metres but not within nine of the projector. Cr. 800.
+Holographic Decoy (TL9): Holographic Decoy (TL9): This small and easily hidden projector creates intermittent flickers of holographic movement throughout a nine-meter area that can be seen for over a hundred meters, attracting attention to that area and away from the user. An active holographic decoy will add a +4 DM to Stealth skill checks within fifty meters but not within nine of the projector. Cr. 800.
 
 Intrusion Kit (TL5+): Intrusion Kit (TL5+): This is a collection of useful tools and implements used to break into locked perimeters. Lock picks, hinge grease, glass cutters and the like make breaking and entering much easier, granting a +1 DM bonus to all skill checks pertaining to intrusion into a building, plus an additional +1 DM for every two technology levels higher the kit is compared to the building it is being used upon. Cr. 50 multiplied by the technology level of the kit.
 
@@ -3277,7 +3277,7 @@ Sensor Goggles (TL7): Sensor Goggles (TL7): Special polarised lenses with altern
 
 for seeing the otherwise invisible beams of motion sensors and IR trackers. Wearing the sensor goggles add a +2 DM to any skill checks made to avoid security systems that use these components. Cr. 1,000.
 
-Medical Equipment Body Stall Injector (TL8): Body Stall Injector (TL8): This one-use, disposable syringe contains a potent toxin that renders the recipient’s bodily functions and bio- electric activity to almost nothing for several hours. Taking effect in 1d6 minutes after being injected, just one dose will put the recipient in a deathlike state for 3d6 hours. During this state it requires a Difficult (–2 DM) Medic check or a similar procedure to sense life in the body. One dose costs Cr. 500.
+Medical Equipment Body Stall Injector (TL8): Body Stall Injector (TL8): This one-use, disposable syringe contains a potent toxin that renders the recipient's bodily functions and bio- electric activity to almost nothing for several hours. Taking effect in 1d6 minutes after being injected, just one dose will put the recipient in a deathlike state for 3d6 hours. During this state it requires a Difficult (–2 DM) Medic check or a similar procedure to sense life in the body. One dose costs Cr. 500.
 
 Chemi-Mute (TL6): Chemi-Mute (TL6): Stored in a chewable gelatine capsule, this disgusting chemical robs the imbiber of any use of his vocal chords for 3d6 days. This is useful for an operative that has been caught by the enemy and needs to ensure that he cannot be forced to leak information via truth serums and torture. A set of five capsules is Cr. 250.
 
@@ -3285,19 +3285,19 @@ Personal Augments Camodermis (TL10): Camodermis (TL10): This is a layer of image
 
 Subdermal Sensor Shielding (TL11):Subdermal Sensor Shielding (TL11): Adds a mesh of reactive fibres to the skin similar to those used in IR chameleonic armors, giving the character a natural version of the same kind of stealth-increasing attributes. This imposes a –2 DM on attempts to detect or track the wearer with infra-red sensors. Subdermal sensor shielding stacks with armor but not other types of subdermal armor. Cr. 25,000.
 
-Technoscramble Emitter (TL11): Technoscramble Emitter (TL11): A wired transmitter that runs down the spinal cord, the technoscramble emitter amplifies nerve impulse energy into a wavelength discordant to those used by radio receivers. Any radio-based device of a technology level 10 within 30 metres or less is jammed by the emitter, imposing –6 DM on all skill checks using the device. The emitter is not an optional device, as it cannot be turned off once implanted. Cr. 75,000.
+Technoscramble Emitter (TL11): Technoscramble Emitter (TL11): A wired transmitter that runs down the spinal cord, the technoscramble emitter amplifies nerve impulse energy into a wavelength discordant to those used by radio receivers. Any radio-based device of a technology level 10 within 30 meters or less is jammed by the emitter, imposing –6 DM on all skill checks using the device. The emitter is not an optional device, as it cannot be turned off once implanted. Cr. 75,000.
 
 ##### SPECIALIST AGENT EQUIPMENT
 
 There is much more to the Agent career paths than sneaking around and trying not to get caught; this section is devoted to numerous pieces of equipment that can help characters perform a variety of tasks. This equipment is divided by Agent career paths but it could be obtained and used by any Traveller character.
 
-Law Enforcement Bullhorn Helm (TL8): Bullhorn Helm (TL8): An armored helmet with an electronic face grille used to amplify the wearer’s voice in the same way that a bullhorn does, allowing a police officer to project his voice with added authority. The wearer of this helmet can be heard clearly for 200 metres, gaining a +1 DM on all Persuade and Leadership rolls to targets within half that distance. 5 kg, Cr. 200.
+Law Enforcement Bullhorn Helm (TL8): Bullhorn Helm (TL8): An armored helmet with an electronic face grille used to amplify the wearer's voice in the same way that a bullhorn does, allowing a police officer to project his voice with added authority. The wearer of this helmet can be heard clearly for 200 meters, gaining a +1 DM on all Persuade and Leadership rolls to targets within half that distance. 5 kg, Cr. 200.
 
-Charged Shield (TL11): Charged Shield (TL11): A new version of the standard riot shield. A charged shield is an advanced riot shield with a grid of conduits built onto its surface. These are powered by a small backpack which has 20 ‘power points’ available before needing to be recharged at any central recharging station. If anything crosses more than one of the sensitive wires, it erupts in a powerful burst of electricity. This costs 1 power point per burst and inflicts 1d6+2 Stun damage upon any target struck with the shield or anyone that strikes the shield with a metallic melee weapon (see page 101 of the _Traveller Core Rulebook_ for rules on stun weapons). Attacks that hit will fall on the shield on 8+; its armor value is 8.
+Charged Shield (TL11): Charged Shield (TL11): A new version of the standard riot shield. A charged shield is an advanced riot shield with a grid of conduits built onto its surface. These are powered by a small backpack which has 20 'power points' available before needing to be recharged at any central recharging station. If anything crosses more than one of the sensitive wires, it erupts in a powerful burst of electricity. This costs 1 power point per burst and inflicts 1d6+2 Stun damage upon any target struck with the shield or anyone that strikes the shield with a metallic melee weapon (see page 101 of the _Traveller Core Rulebook_ for rules on stun weapons). Attacks that hit will fall on the shield on 8+; its armor value is 8.
 
 WeaponWeapon TLTL Required SkillRequired Skill Parry Value or Armor ValueParry Value or Armor Value HeftHeft Cost (Cr.)Cost (Cr.) Mass (Kg)Mass (Kg) SpecialSpecial Charged Shield 11 Varies 8 1 2,000 3 Shield, Special
 
-Cyberstunner (TL12): Cyberstunner (TL12): One of the most frightening suspects a peace officer has to deal with is one that has been heavily augmented with cybernetics. The cyberstunner is a modified stun carbine that is keyed to affect the advanced neurotransmitters that are used to connect a living being with its cybernetics. When a hit is scored upon a target, roll 1d6 (2d6 if the target has subdermal augments) – if this is greater than the target’s armor rating, the stun effect is rolled. The stun damage is doubled against a cybernetically augmented target.
+Cyberstunner (TL12): Cyberstunner (TL12): One of the most frightening suspects a peace officer has to deal with is one that has been heavily augmented with cybernetics. The cyberstunner is a modified stun carbine that is keyed to affect the advanced neurotransmitters that are used to connect a living being with its cybernetics. When a hit is scored upon a target, roll 1d6 (2d6 if the target has subdermal augments) – if this is greater than the target's armor rating, the stun effect is rolled. The stun damage is doubled against a cybernetically augmented target.
 
 WeaponWeapon TLTL RangeRange Required SkillRequired Skill DamageDamage MagazineMagazine AutoAuto RecoilRecoil Cost (Cr.)Cost (Cr.) Mass (Kg)Mass (Kg) Ammo Cost Ammo Cost
 (Cr)(Cr) Cyberstunner 12 Thrown Gun Combat
@@ -3309,31 +3309,31 @@ WeaponWeapon TLTL RangeRange Required SkillRequired Skill DamageDamage MagazineM
 
 Law Enforcement Package (TL8): Law Enforcement Package (TL8): This is the standard Law Enforcement Agent equipment package that comes with several different and useful items. It includes: a Flak Jacket (TL7), standard collar-mounted Commdot, Stunstick, Autopistol with two magazines (standard ammunition) or Stunner (TL8) and two Smoke Grenades. Total cost is Cr. 500.
 
-Nausea Baton (TL8): Nausea Baton (TL8): The so-called ‘sick stick’ looks like a light security baton but with a luminescent tip that produces a specific wavelength of vibration that froths and curdles stomach acid upon contact. In addition to the normal damage, 1d6+1 stun damage is delivered to any unarmored target from stomach cramps and vomiting. The baton’s generator takes 1d6+1 rounds to recharge after this but the baton can still be used as a club in this period.
+Nausea Baton (TL8): Nausea Baton (TL8): The so-called 'sick stick' looks like a light security baton but with a luminescent tip that produces a specific wavelength of vibration that froths and curdles stomach acid upon contact. In addition to the normal damage, 1d6+1 stun damage is delivered to any unarmored target from stomach cramps and vomiting. The baton's generator takes 1d6+1 rounds to recharge after this but the baton can still be used as a club in this period.
 
 WeaponWeapon TLTL Required SkillRequired Skill DamageDamage HeftHeft Cost (Cr.)Cost (Cr.) Mass (Kg)Mass (Kg) SpecialSpecial Nausea Baton 8 Melee (Bludgeon) 2d6 + 1d6+1 Stun) 0 400 0.85 Stun
 
 Scan Baton (TL9): Scan Baton (TL9): Used primarily by customs agents to verify the contents of cargo containers, the scan baton is a handheld electronic chemical sweeper that can be programmed to look for an assortment of chemicals, drugs or explosives. Using the baton adds a +4 DM bonus to the Investigate skill check to search for contraband. 1kg. Cr. 150.
 
-Investigator Autocam (TL7): Autocam (TL7): This high resolution, perfect zoom camera is a private detective’s best choice for setting up an investigative stakeout. With a successful Routine Sensors skill test the camera can be programmed to take pictures in specific intervals, allowing the character to make Investigate skill checks regularly despite being elsewhere. Cr. 150.
+Investigator Autocam (TL7): Autocam (TL7): This high resolution, perfect zoom camera is a private detective's best choice for setting up an investigative stakeout. With a successful Routine Sensors skill test the camera can be programmed to take pictures in specific intervals, allowing the character to make Investigate skill checks regularly despite being elsewhere. Cr. 150.
 
-Code Turner Software (TL9): Code Turner Software (TL9): A complex program that turns defensive software programs against themselves to create a viewable ‘window’ through the code; making computerised information gathering far easier. The drawback to this form of program is that it only works as a viewer – no data may be transmitted or downloaded while the code turner is on. This adds a +2 DM bonus to the Computers skill when dealing with an actively defended network or data stream. Cr. 5,000.
+Code Turner Software (TL9): Code Turner Software (TL9): A complex program that turns defensive software programs against themselves to create a viewable 'window' through the code; making computerised information gathering far easier. The drawback to this form of program is that it only works as a viewer – no data may be transmitted or downloaded while the code turner is on. This adds a +2 DM bonus to the Computers skill when dealing with an actively defended network or data stream. Cr. 5,000.
 
-DNA Sampler/Storage Kit (TL8): DNA Sampler/Storage Kit (TL8): This is a small handgun-like device that takes a cubic millimetre of living tissue from anything the muzzle is pushed against when the trigger is depressed. It is used by investigators to take and keep DNA samples bottled and logged for all justice casework. The kit automatically seals every sample in a small test tube and labels them based on what is keyed into the handle. Cr. 500.
+DNA Sampler/Storage Kit (TL8): DNA Sampler/Storage Kit (TL8): This is a small handgun-like device that takes a cubic millimeter of living tissue from anything the muzzle is pushed against when the trigger is depressed. It is used by investigators to take and keep DNA samples bottled and logged for all justice casework. The kit automatically seals every sample in a small test tube and labels them based on what is keyed into the handle. Cr. 500.
 
-Holographic Disguise Generator (TL12): Holographic Disguise Generator (TL12): An undercover agent’s best friend, the HDG is a very complex device made up of projector wrist cuffs, anklets, a waistband and a collar. These devices are wirelessly keyed in to a central data node that resembles a handheld communicator. The node is programmed with a three-dimensional image of a person (requiring a Computers skill check), which it emits through the projectors as a full-body image. This grants the wearer a +6 DM to Deception skill checks for the purposes of visual disguises. The holograph is not tangible and any physical contact will cause the image to flicker – getting rid of the bonus for any who see. Cr. 10,000.
+Holographic Disguise Generator (TL12): Holographic Disguise Generator (TL12): An undercover agent's best friend, the HDG is a very complex device made up of projector wrist cuffs, anklets, a waistband and a collar. These devices are wirelessly keyed in to a central data node that resembles a handheld communicator. The node is programmed with a three-dimensional image of a person (requiring a Computers skill check), which it emits through the projectors as a full-body image. This grants the wearer a +6 DM to Deception skill checks for the purposes of visual disguises. The holograph is not tangible and any physical contact will cause the image to flicker – getting rid of the bonus for any who see. Cr. 10,000.
 
-Neural Flash (TL16): Neural Flash (TL16): Used only when an undercover agent is caught in a situation that could be actionable for he or his employer, the neural flash is a small one-use device similar to a data pen or stylus. When activated, the neural flash emits an intense psionic pulse that erases the last 2d6 hours from the minds of anyone within nine metres who sees the device when it is activated. Those affected can pass a Very Difficult (–4 DM) Athletics (endurance) skill check to shrug off most of the effects, reducing the length of time to 2d6 minutes. Unauthorized use of a neural flash is an offence punishable by a steep prison sentence. Cr. 25,000.
+Neural Flash (TL16): Neural Flash (TL16): Used only when an undercover agent is caught in a situation that could be actionable for he or his employer, the neural flash is a small one-use device similar to a data pen or stylus. When activated, the neural flash emits an intense psionic pulse that erases the last 2d6 hours from the minds of anyone within nine meters who sees the device when it is activated. Those affected can pass a Very Difficult (–4 DM) Athletics (endurance) skill check to shrug off most of the effects, reducing the length of time to 2d6 minutes. Unauthorized use of a neural flash is an offence punishable by a steep prison sentence. Cr. 25,000.
 
 Spy Acidic Lockpick (TL5+): Acidic Lockpick (TL5+): Used only in cases where access is more important than secrecy, the acidic lockpick is a thin glass tube attached to a refillable latex bulb of acid. The tube is inserted into any mechanical tumbler-based lock (TL7 or less) and the bulb rapidly squeezed to spray the acid into the workings of the lock. This softens the tumblers and springs before fusing them together into one mass of metallic sludge, allowing the spy to force the lock open with ease. The tumblers will be softened in 1d6x30 seconds, allowing an Athletics (strength) check with a +6 DM modifier to open the lock. The lock parts will re-solidify in 1d6+3 minutes after application however, making the mechanism permanently stuck in its state at the time (locked/unlocked, closed/open). Cr. 50.
 
 Facelift Mask (TL8): Facelift Mask (TL8): A masterly crafted prosthetic mask created by a computerised image system, the facelift mask is a one-use application that perfectly adheres to the face of the wearer, effectively creating
 
-a second skin that bears a different visage. The mask is made from organic compounds and materials, making it almost undetectable by sight, touch or even taste. The facelift mask grants a +6 DM bonus to all Deception skill checks to hide the wearer’s features or mimic the features of the one whose image was used to create the mask. The organic compounds are time sensitive however and a facelift mask will begin to deteriorate rapidly after 2d6x5 hours after being removed from its airtight storage package. Removing the mask from one’s face at any time will invariably tear some of its sensitive fibres, ruining it prematurely. Cr. 5,000.
+a second skin that bears a different visage. The mask is made from organic compounds and materials, making it almost undetectable by sight, touch or even taste. The facelift mask grants a +6 DM bonus to all Deception skill checks to hide the wearer's features or mimic the features of the one whose image was used to create the mask. The organic compounds are time sensitive however and a facelift mask will begin to deteriorate rapidly after 2d6x5 hours after being removed from its airtight storage package. Removing the mask from one's face at any time will invariably tear some of its sensitive fibres, ruining it prematurely. Cr. 5,000.
 
-Magnetic Intrusion Gear (TL9): Magnetic Intrusion Gear (TL9): This is a set of gloves and foot pads that contain extremely powerful electromagnets in the shape of rollers and gripping points on their palms and soles. When activated, the magnetic fields hold up to 175kg of weight against any ferrous metallic surface. The roller points allow the wearer to move, although slowly, while adhered (1.5 metres per significant action). The magnetic intrusion gear adds a +2 DM to climbing-based Athletics skill checks on a metallic surface, as well as granting the ability described above. Cr. 750.
+Magnetic Intrusion Gear (TL9): Magnetic Intrusion Gear (TL9): This is a set of gloves and foot pads that contain extremely powerful electromagnets in the shape of rollers and gripping points on their palms and soles. When activated, the magnetic fields hold up to 175kg of weight against any ferrous metallic surface. The roller points allow the wearer to move, although slowly, while adhered (1.5 meters per significant action). The magnetic intrusion gear adds a +2 DM to climbing-based Athletics skill checks on a metallic surface, as well as granting the ability described above. Cr. 750.
 
-Pocket Scrambler (TL10): Pocket Scrambler (TL10): A powerful transmission scrambler fitted into a small ovoid roughly the size and shape of a bar of soap. The pocket scrambler emits a constant cacophony of feedback and noise into most radio frequencies within 50 metres. It only functions for up to one half-hour per battery charge but any unsecured radio networks (such as the communications between security guards) will be extremely difficult to use (–4 DM to skill checks) during that time. Cr. 500.
+Pocket Scrambler (TL10): Pocket Scrambler (TL10): A powerful transmission scrambler fitted into a small ovoid roughly the size and shape of a bar of soap. The pocket scrambler emits a constant cacophony of feedback and noise into most radio frequencies within 50 meters. It only functions for up to one half-hour per battery charge but any unsecured radio networks (such as the communications between security guards) will be extremely difficult to use (–4 DM to skill checks) during that time. Cr. 500.
 
 Whisperkill Pistol (TL11): Whisperkill Pistol (TL11): An amazingly powerful sidearm that is surprisingly small, light and extremely quiet. The Whisperkill is a small, twin-barrelled slug pistol with one shot per silenced barrel. Like all suppressed or silenced weapons, the Whisperkill imposes a
 –4 DM on attempts to locate it using sound. The weapon can either be fired as two single shots or a single powerful attack using both barrels. This second firing mode uses the damage and recoil values listed in the parenthesis.
@@ -3357,10 +3357,10 @@ Ammo Cost Ammo Cost
 
 detonate while the case is open. The locks are considered Very Difficult to bypass and the explosive devices Formidable (–6 DM). If ever used as cover, the security case is worth 3 points of armor. 2kg; Cr. 500.
 
-Displacement Barrier (TL13): Displacement Barrier (TL13): It is hardest for security and bodyguards to protect their employer from the single surprising shot made by a distant sniper. The displacement barrier is a semi-mobile sheet of advanced translucent polymers that are woven with several layers of useful technology. The primary use for the barriers is that visual images seen through them are shifted by nearly a half-metre, making it impossible for shooting attacks to successfully Aim at the target
+Displacement Barrier (TL13): Displacement Barrier (TL13): It is hardest for security and bodyguards to protect their employer from the single surprising shot made by a distant sniper. The displacement barrier is a semi-mobile sheet of advanced translucent polymers that are woven with several layers of useful technology. The primary use for the barriers is that visual images seen through them are shifted by nearly a half-meter, making it impossible for shooting attacks to successfully Aim at the target
 (aiming in any form is automatically nullified). A self-polarising element in the barrier activates as soon as any projectile moving at least as fast as a thrown object strikes the polymer pane, blackening it immediately to a one-way opaqueness to grant complete cover to anyone behind it. A displacement barrier can be set up on its stand in 1d6 minutes, covering a 90 degree angle. These devices are designed to be used in multiples, offering better all-round protection and can be networked easily for all polymer panes to blacken when one is triggered. 25kg; Cr. 2,000.
 
-Dual-Holo Projection Suite (TL12): Dual-Holo Projection Suite (TL12): This pair of advanced wrist cuffs are worn by a diplomat and his bodyguard and are linked to a central imaging projector located somewhere between them. While worn and active, the projection suite casts a visually perfect hologram of each cuff’s wearer upon the body of the _other_ cuff’s wearer. This means that anyone trying to target what they believe to be the diplomat will actually be targeting the bodyguard. This item reduces Investigate skill checks by –4 DM to see through the images. Cr. 1,000 per suite.
+Dual-Holo Projection Suite (TL12): Dual-Holo Projection Suite (TL12): This pair of advanced wrist cuffs are worn by a diplomat and his bodyguard and are linked to a central imaging projector located somewhere between them. While worn and active, the projection suite casts a visually perfect hologram of each cuff's wearer upon the body of the _other_ cuff's wearer. This means that anyone trying to target what they believe to be the diplomat will actually be targeting the bodyguard. This item reduces Investigate skill checks by –4 DM to see through the images. Cr. 1,000 per suite.
 
 Protec Suit, Advanced (TL11):Protec Suit, Advanced (TL11): An enhanced version of the standard slim-fitting business suit, this protective armor is commonly used by political agents or socialite bodyguards. Can be worn under other types of armor.
 
@@ -3377,21 +3377,21 @@ programmed languages with a 0.05 second delay.
 - Convert spoken language into text file format as quickly as it
   is received.
 
-The drone is plain, matte black in colour and levitates at head level of its owner at all times, normally within six metres. Cr. 15,000.
+The drone is plain, matte black in colour and levitates at head level of its owner at all times, normally within six meters. Cr. 15,000.
 
 Corporate Chameleon Uniform (TL9): Chameleon Uniform (TL9): A simple set of clothing that has been patterned after any type of suit, uniform or other pattern. A chameleon uniform is an easy way for a corporate spy to vanish into the crowd when his mission is done. The uniform has a hidden button in one of the cuffs that sends a light current through the cloth, drastically altering its colour and pattern in seconds. This can be used to turn a normal set of clothing into a corporate uniform or vice-versa with a minor action and 1d6 seconds. Cr. 750.
 
-Data-Corer (TL8): Data-Corer (TL8): A malicious item used by corporate agents sent on data-destruction missions, the data-corer is a handheld electronic device that resembles a pistol with no barrel. When the trigger is pulled the device emits a short-ranged (1.5 metres) cone of intense electromagnetic and microwave pulses. This does very little to its environment but will invariably wipe out or corrupt all computer data on storage systems within that cone. The erasure is powerful and extremely difficult to repair, requiring a total of 30 Effect on a Formidable level Computers skill checks. A side benefit of the data- corer’s effect is the ability to inflict 1d6 damage on any cybernetically augmented target caught in the area of effect as well, ignoring armor. Firing the data-corer is a significant action and it can be used for ten pulses before needing to be recharged. Cr. 1,000.
+Data-Corer (TL8): Data-Corer (TL8): A malicious item used by corporate agents sent on data-destruction missions, the data-corer is a handheld electronic device that resembles a pistol with no barrel. When the trigger is pulled the device emits a short-ranged (1.5 meters) cone of intense electromagnetic and microwave pulses. This does very little to its environment but will invariably wipe out or corrupt all computer data on storage systems within that cone. The erasure is powerful and extremely difficult to repair, requiring a total of 30 Effect on a Formidable level Computers skill checks. A side benefit of the data- corer's effect is the ability to inflict 1d6 damage on any cybernetically augmented target caught in the area of effect as well, ignoring armor. Firing the data-corer is a significant action and it can be used for ten pulses before needing to be recharged. Cr. 1,000.
 
-Networking Adhesion Modem (Hacktape) (TL10): Networking Adhesion Modem (Hacktape) (TL10): A flat, 5cm piece of molecularly adhesive plastic containing a web of sensitive broadcasting filaments. Any computer the hacktape is stuck directly to (no more than six centimetres barrier between the tape and circuitry) is considered to be in direct networked connection with another pre-programmed computing device. The hacktape has a linking range of only 30 metres. This expensive and advanced computer accessory was originally designed to allow technicians to monitor vehicular computers without having to take the vehicle offline to do so. The technology has fallen into the hands of data- hackers and now is used to make stealthy connections to corporate networks without having to maintain a hard-link. Cr. 5,000.
+Networking Adhesion Modem (Hacktape) (TL10): Networking Adhesion Modem (Hacktape) (TL10): A flat, 5cm piece of molecularly adhesive plastic containing a web of sensitive broadcasting filaments. Any computer the hacktape is stuck directly to (no more than six centimeters barrier between the tape and circuitry) is considered to be in direct networked connection with another pre-programmed computing device. The hacktape has a linking range of only 30 meters. This expensive and advanced computer accessory was originally designed to allow technicians to monitor vehicular computers without having to take the vehicle offline to do so. The technology has fallen into the hands of data- hackers and now is used to make stealthy connections to corporate networks without having to maintain a hard-link. Cr. 5,000.
 
-Surveillance-Hub Helmet Rig (TL8): Surveillance-Hub Helmet Rig (TL8): Keeping good security at expansive corporate grounds with several square kilometres to cover can be difficult. Setting up dozens of surveillance cameras can help increase video coverage but still requires personnel to monitor them.
+Surveillance-Hub Helmet Rig (TL8): Surveillance-Hub Helmet Rig (TL8): Keeping good security at expansive corporate grounds with several square kilometers to cover can be difficult. Setting up dozens of surveillance cameras can help increase video coverage but still requires personnel to monitor them.
 
 Armor TypeArmor Type TLTL ProtectionProtection Required SkillRequired Skill Cost (Cr.)Cost (Cr.) Mass (Kg)Mass (Kg) Advanced Protec 11 3 None 1,750 1
 
-This enclosed helmet rig allows for up to fifty different surveillance cameras to be wired into the viewing HUD of the helmet, and the wearer may flip through the channels, zooming in and saving certain images with the press of a button on the requisite glove-set. While wearing this rig decreases the user’s local perception-based skill tests by –2 DM, it increases all video-based checks by +2 DM. 5 kg; Cr. 500.
+This enclosed helmet rig allows for up to fifty different surveillance cameras to be wired into the viewing HUD of the helmet, and the wearer may flip through the channels, zooming in and saving certain images with the press of a button on the requisite glove-set. While wearing this rig decreases the user's local perception-based skill tests by –2 DM, it increases all video-based checks by +2 DM. 5 kg; Cr. 500.
 
-Bounty Hunter Foam Grenade (TL8): Foam Grenade (TL8): This is a non-lethal concussive delivery system of rapidly-expanding oxygenated foam. The foam is thick and dense, making movement difficult while not impeding breathing. When used, the grenade fills a 3m-cubed area with the dense foam, which becomes stringy and thick in the round following. This substance is similar to what is fired from a web rifle (see below) but is not as viscous or physically limiting. Anything caught in the grenade’s area must pass an Athletics (strength) skill check to wipe away the foam before it thickens. Those that fail move at half speed and suffer a –2 DM penalty to all Dexterity-based skill checks for 2d6 minutes, until the foam evaporates. Foam grenades may be fired from all common grenade and RAM launchers.
+Bounty Hunter Foam Grenade (TL8): Foam Grenade (TL8): This is a non-lethal concussive delivery system of rapidly-expanding oxygenated foam. The foam is thick and dense, making movement difficult while not impeding breathing. When used, the grenade fills a 3m-cubed area with the dense foam, which becomes stringy and thick in the round following. This substance is similar to what is fired from a web rifle (see below) but is not as viscous or physically limiting. Anything caught in the grenade's area must pass an Athletics (strength) skill check to wipe away the foam before it thickens. Those that fail move at half speed and suffer a –2 DM penalty to all Dexterity-based skill checks for 2d6 minutes, until the foam evaporates. Foam grenades may be fired from all common grenade and RAM launchers.
 
 WeaponWeapon TLTL RangeRange DamageDamage
 
@@ -3406,20 +3406,20 @@ Cost Cost
 8 Ranged
 (Thrown)
 
-N/A 1 3 metres
+N/A 1 3 meters
 
 85
 
-Jump Filters (TL11): Jump Filters (TL11): A very expensive hardware and software kit attached to any starship or satellite sensor suite, jump filters allow the sensor package to look for very specific element traces in space. Seeking the remnants of used fuel and a broken jump envelope, the jump filters add a +4 DM bonus to the sensor operator’s skill check to discover where a ship jumped from and potentially the route it
+Jump Filters (TL11): Jump Filters (TL11): A very expensive hardware and software kit attached to any starship or satellite sensor suite, jump filters allow the sensor package to look for very specific element traces in space. Seeking the remnants of used fuel and a broken jump envelope, the jump filters add a +4 DM bonus to the sensor operator's skill check to discover where a ship jumped from and potentially the route it
 
 may have taken. This is very useful for ship tracers and using jump filters to track a vessel automatically adds 2d6 Effect to the total needed to find a vessel if the rules for Ship Tracing are being used. Cr. 250,000.
 
-Mind-Brig (TL15): Mind-Brig (TL15): An expensive and powerful detainment device used by high-end bounty hunters only, the mind-brig is a centimetre- wide circlet of a golden alloy speckled with neuron-sensitive crystal nodes. While the circlet is placed around the head (or other brain- containing area) of a living being, it nullifies the ability to make conscious thought. This effectively ‘turns off’ the wearer, allowing a hunter to move his bounty freely without fear of it escaping, fighting or even talking. Beings with a Psi characteristic may attempt to pass a 10+ Psi test (adding in their strongest Psion skill rating) to fight the mind-brig; success overloads the sensitive crystals and breaks the mind-brig. Cr. 100,000.
+Mind-Brig (TL15): Mind-Brig (TL15): An expensive and powerful detainment device used by high-end bounty hunters only, the mind-brig is a centimeter- wide circlet of a golden alloy speckled with neuron-sensitive crystal nodes. While the circlet is placed around the head (or other brain- containing area) of a living being, it nullifies the ability to make conscious thought. This effectively 'turns off' the wearer, allowing a hunter to move his bounty freely without fear of it escaping, fighting or even talking. Beings with a Psi characteristic may attempt to pass a 10+ Psi test (adding in their strongest Psion skill rating) to fight the mind-brig; success overloads the sensitive crystals and breaks the mind-brig. Cr. 100,000.
 
 Stun-Cuffs (TL8): Stun-Cuffs (TL8): Effective methods for hunters to keep their bounties under control, stun-cuffs are sometimes viewed as sadistic or cruel. A target placed in stun-cuffs is detained in the same way as normal handcuffs or shackles but is administered a powerful stunning shock if he attempts to pull the cuffs taught for any reason. This automatically inflicts 1d6+1 Stun damage to the wearer. Stun-cuffs can inflict 100 of these charges before the battery needs replacing and are considered Very Difficult to remove without the proper key code. Cr. 200.
 
 Web Rifle (TL10): Web Rifle (TL10): A large and intimidating weapon that hurls an expanding sphere of extremely viscous material, the web rifle is used to bring down hostile targets without worrying about lethal force. Anything successfully shot by a web rifle must pass an Athletics
-(strength) skill check each round in order to perform any actions. The ‘web’ fluid lasts for 2d6 minutes before it becomes brittle and easily removed. Webbed targets move at half speed and suffer a –2 DM penalty to all Dexterity-based skill checks.
+(strength) skill check each round in order to perform any actions. The 'web' fluid lasts for 2d6 minutes before it becomes brittle and easily removed. Webbed targets move at half speed and suffer a –2 DM penalty to all Dexterity-based skill checks.
 
 WeaponWeapon TLTL RangeRange Required SkillRequired Skill DamageDamage MagazineMagazine AutoAuto RecoilRecoil Cost (Cr)Cost (Cr) Mass (Kg)Mass (Kg)
 
@@ -3459,13 +3459,13 @@ AmmunitionAmmunition 40 Railgun Rounds 2 60 sandcaster barrels 3 FuelFuel 144 to
 
 AGENT TECHNOLOGY
 
-Jester-Class Covert Operations Fighter Designed originally by a genius in the space-aerodynamics industry, the _Jester_ -class fighter is a fast, stealthy and sleek ship that can be used to zip in and out of dangerous situations while on spying missions. This fighter is thin, flat and very fast for the amount of firepower it contains. Its twin lasers make short work of surveillance satellites and sensor drones; a spacefaring spy’s hated enemy. Its principal drawback is that it is so expensive that it very rarely (if at all) seen outside of covert operations.
+Jester-Class Covert Operations Fighter Designed originally by a genius in the space-aerodynamics industry, the _Jester_ -class fighter is a fast, stealthy and sleek ship that can be used to zip in and out of dangerous situations while on spying missions. This fighter is thin, flat and very fast for the amount of firepower it contains. Its twin lasers make short work of surveillance satellites and sensor drones; a spacefaring spy's hated enemy. Its principal drawback is that it is so expensive that it very rarely (if at all) seen outside of covert operations.
 
 Covert Operations FighterCovert Operations Fighter TonsTons Price (MCr.)Price (MCr.) HullHull 40 Tons Hull 1 1.4 Streamlined Structure 1 0.14 Stealth Hull 4 Aerofins 4 0.04 ArmorArmor Crystaliron 8 points 4 0.56 Maneuver DriveManeuver Drive sT (TL 12) Thrust 9 9.75 52 Power PlantPower Plant sT Rating 9 8.7 20 BridgeBridge Cockpit for 2 3 0.2 ComputerComputer Model 4/fib Rating 20 7.5 ElectronicsElectronics Advanced DM +1 3 2 WeaponsWeapons Dual Pop-Up Turret Beam Laser-11 x2(accurate) 2 4 Anti-Personnel Mount PGMP-13 x 2 1 0.04 FuelFuel 1.5 ton One week of operation 1.5 CargoCargo 3 tons 3 tons SoftwareSoftware Maneuver/0 Intellect Rating 10 1 Evade/2 Rating 15 2 Fire Control/4 Rating 20 8 Total Tonnage & CostTotal Tonnage & Cost 39.9539.95 115.88115.88
 
 AGENT TECHNOLOGY
 
-Prisoner Ferry Prison planets or Imperial detention centres will occasionally need to take prisoners from one facility to another. They can do so with ease and safety through the use of prisoner ferry vessels. This ship is a favourite of prolific bounty hunters, who can fill their brig with multiple bounties at once to deliver them across long distances. The crew consists of a captain, pilot, navigator, 2 engineers, 3 gunners and 4 security guards. Prisoners are usually carried in low berths, although for short trips (or less scrupulous operators) additional cabin space is available for more prisoners. For prisoners requiring special treatment, there are two staterooms available.
+Prisoner Ferry Prison planets or Imperial detention centres will occasionally need to take prisoners from one facility to another. They can do so with ease and safety through the use of prisoner ferry vessels. This ship is a favorite of prolific bounty hunters, who can fill their brig with multiple bounties at once to deliver them across long distances. The crew consists of a captain, pilot, navigator, 2 engineers, 3 gunners and 4 security guards. Prisoners are usually carried in low berths, although for short trips (or less scrupulous operators) additional cabin space is available for more prisoners. For prisoners requiring special treatment, there are two staterooms available.
 
 Prisoner FerryPrisoner Ferry TonsTons Price (MCr.)Price (MCr.) HullHull 300 Hull 6 Structure 6
 

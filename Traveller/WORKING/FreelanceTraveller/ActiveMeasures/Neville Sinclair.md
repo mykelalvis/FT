@@ -33,7 +33,7 @@ Neville is a noted author whose first monograph, an analysis of the possibility 
 
 #### Important Possessions
 
-Blank [[Imperial Stationery]], an Artifact Vac Suit that does not require air tanks, Cr. several million, corporate stock certificates worth several tens of millions, lots (Cr. 500,000 or so) of fancy clothes, a card permitting him to carry controlled drugs, several fancy swords, residences on Wypoc, Mora, [[Capital]]/Core, and Miigashkushkur, a jump 4 Baronial Yacht, TAS Membership, a Psi SHield Helmet, etc.
+Blank [[Imperial Stationery]], an Artifact Vac Suit that does not require air tanks, Cr. several million, corporate stock certificates worth several tens of millions, lots (Cr. 500,000 or so) of fancy clothes, a card permitting him to carry controlled drugs, several fancy swords, residences on Wypoc, Mora, Capital/Core, and Miigashkushkur, a jump 4 Baronial Yacht, TAS Membership, a Psi SHield Helmet, etc.
 
 Academic 1/Navy 4/ Noble 6 Level 11  
 Race: Humaniti

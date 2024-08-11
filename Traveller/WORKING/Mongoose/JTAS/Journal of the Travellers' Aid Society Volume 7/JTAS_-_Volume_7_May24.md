@@ -1,4 +1,4 @@
-Welcome to the Journal of the Travellers’ Aid Society, your indispensable
+Welcome to the Journal of the Travellers' Aid Society, your indispensable
 guide to adventuring in the Far Future.
 
 Each volume is a treasure trove of information and game additions for
@@ -12,10 +12,10 @@ Amongst the many articles in Volume Seven, you will find
 - A Week in Jump - Exploring the not-normal
 - Acis The Devil You Know - One of the most continuously settled
     planets in all of the Dustbelt
-- Krungha Processing Ark - 465 million tons of spinning K’kree
+- Krungha Processing Ark - 465 million tons of spinning K'kree
     space-metal
 - Stellar Cartography - The universe from a different perspective
-- Patron ‘Lightning’, Alien – Also known as Rupert Feather-Red-
+- Patron 'Lightning', Alien – Also known as Rupert Feather-Red-
     Bird Dark-Storm-Cloud and he is not a Chef
 - The Black Zone Astro-Tomb - On the distant edge of Solomani
     Confederation Space, dark things lurk in the abyss
@@ -36,14 +36,14 @@ _Vol. 7_
 
 The
 
-_Vol. 7_ of the Travellers’ Aid Society
+_Vol. 7_ of the Travellers' Aid Society
 
 ```
 The
 ```
 
 ```
-of the Travellers’ Aid Society
+of the Travellers' Aid Society
 ```
 
 ## JJJournal
@@ -55,7 +55,7 @@ The
 ```
 
 ```
-of the Travellers’ Aid Society - Volume 7
+of the Travellers' Aid Society - Volume 7
 ```
 
 9 781913 076702
@@ -112,16 +112,16 @@ Ithklur 37
 BESTIARY
 Harlari 110
 CENTRAL SUPPLY
-Initial 24 Armaments ‘Go’ Cases 31
+Initial 24 Armaments 'Go' Cases 31
 Infiniti Arms Energy Weapons 108
 CHARTED SPACE
 Acis The Devil You Know 7
 Stellar Cartography 71
-The Spacer’s Union 99
+The Spacer's Union 99
 The Black Zone Astro-Tomb 126
 ENCOUNTERS
 Dr. Izikai Nafir 22
-Kar’wyikh and Lord Afle Urelad 47
+Kar'wyikh and Lord Afle Urelad 47
 HIGH GUARD
 Advanced Lasers 16
 Golden Dawn Yacht 25
@@ -129,7 +129,7 @@ Krungha Processing Ark 52
 PATRONS
 Ramona Raskin 81
 Uraz Gnoezdanu 103
-‘Lightning’ 120
+'Lightning' 120
 TRAVELLING
 Deepnight Character Creation 17
 Immigration in the Imperium 118
@@ -155,7 +155,7 @@ Vol. 7
 
 The
 
-of the Travellers’ Aid Society
+of the Travellers' Aid Society
 
 ## JJ
 
@@ -167,12 +167,12 @@ of the Travellers’ Aid Society
 
 By Peter Simon
 
-‘Okay. The ship enters jumpspace...’
+'Okay. The ship enters jumpspace...'
 
-While making a transit through jumpspace the Travellers’ ship is in a
+While making a transit through jumpspace the Travellers' ship is in a
 bubble, unreachable and untouchable for a week. At the gaming table,
-this time is often glossed over or only slightly remarked upon ‘Does
-anyone do anything besides maintenance and studying during jump’
+this time is often glossed over or only slightly remarked upon 'Does
+anyone do anything besides maintenance and studying during jump'
 Usually the ship transits from jumpspace without a hitch and onto its
 next adventure.
 
@@ -182,7 +182,7 @@ can randomly spice up that time in jump.
 THE ROUTINE OCCURRENCES
 When a ship transits jumpspace there is a routine followed by crew
 and passengers. The power plant is humming along, energising the
-ship’s computer, gravitics, internal comms and life support systems.
+ship's computer, gravitics, internal comms and life support systems.
 The business of the ship is taking place; anyone injured is being tended
 to, crewmembers are standing watch, inspecting and maintaining
 equipment, and honing ship-relevant skills.
@@ -190,7 +190,7 @@ equipment, and honing ship-relevant skills.
 Passengers and off-duty crew are also filling the hours; some are
 exercising, working through study courses, plotting and scheming,
 consuming media, immersing in games, enjoying hobbies or imbibing.
-The truly self-motivated might be running ‘do at home’ businesses while
+The truly self-motivated might be running 'do at home' businesses while
 in jump. There might be socialising like a movie night, a story or lecture
 from the steward, or a friendly card game.
 
@@ -207,7 +207,7 @@ catches your eye.
 
 Some of the events have origins in activities that took place prior to
 jump and were only discovered at some point during the transit. There
-are a few instances where possible ‘big stuff’ shows up in the results;
+are a few instances where possible 'big stuff' shows up in the results;
 these events probably require roleplaying. If you would rather not do
 this, feel free to ignore or dial-down the result.
 
@@ -228,11 +228,11 @@ Out of the Ordinary
 D66 Event
 11 The protein seems... off. Edible but different for some reason.
 12 A small stowaway animal is discovered.
-13 A particular ship system develops a ‘personality’. Either
+13 A particular ship system develops a 'personality'. Either
 it starts performing in an unusual but harmless way, or a
 previously-unknown talking user interface starts to engage
 passers-by.
-14 Ship’s main persona or computer program reveals
+14 Ship's main persona or computer program reveals
 something surprising.
 15 A physical item of interest is discovered on the ship; some
 definitely new item no one remembers or admits bringing on
@@ -247,15 +247,15 @@ an extra vacc suit or toolbox.
 
 ```
 25 Slightly wrong cargo tally, you actually have +1% value.
-26 Ship’s paperwork out of order, for the worse. 
-31 Ship’s paperwork out of order, for the better.
+26 Ship's paperwork out of order, for the worse. 
+31 Ship's paperwork out of order, for the better.
 32 Best meal in a very long time is prepared and enjoyed.
 33 New discovery made about destination. 
 34 Strange occurrence in jumpspace more than one person
 experiences tapping, voices, strange shapes, bizarre dreams
 or a shared vision.
 35 Some kind of mass-strike at jump entry, signalled by a loud
-‘whang’ and a minor alert indicator on the bridge.
+'whang' and a minor alert indicator on the bridge.
 36 Passenger identity discovered. Pick one of famous, relative,
 infamous, former service mate, wanted or bizarre.
 41 Random crewmember grabbed wrong bag at last port of call.
@@ -263,7 +263,7 @@ infamous, former service mate, wanted or bizarre.
 43 Previously unknown weapon discovered in locker.
 44 Ship develops a new quirk (see page 188 of the Traveller Core
 Rulebook).
-45 Random non-critical program in the ship’s computer
+45 Random non-critical program in the ship's computer
 becomes corrupted and needs updating.
 46 Strange, vague message discovered.
 51 Hole in a vacc suit discovered.
@@ -271,12 +271,12 @@ becomes corrupted and needs updating.
 53 Two crewmembers discover an eclectic shared hobby or interest.
 54 Life support keeps resetting to match the environment for a
 destination several jumps ago.
-55 After an audit, ammunition count is off by ‘a bit’.
+55 After an audit, ammunition count is off by 'a bit'.
 56 Crewmembers discover a shared friend (not on board).
 61 Crewmembers discover a shared past experience.
 62 A random cargo container is definitely not on the manifest.
 63 Random cargo container keeps leakingfailing.
-64 A crewmember’s nemesis has their machinations revealed. 
+64 A crewmember's nemesis has their machinations revealed. 
 65 Anonymous secret admirer letter for a crew member is
 discovered by someone else on the ship.
 66 Roll on the Stranger Things table.
@@ -293,14 +293,14 @@ D66 Event
 12 All shipboard non-emergency alarms go off at the same time.
 13 New concealable space discovered – empty or full.
 14 Contraband discovered in a non-stateroom space. 
-15 Positive error in the ship’s ledger; we’re richer!
+15 Positive error in the ship's ledger; we're richer!
 16 Misjump – jump is instantaneous but otherwise has no effect.
-21 Negative error in the ship’s ledger; we’re poorer!
+21 Negative error in the ship's ledger; we're poorer!
 22 A location tracker device is found on ship.
 23 Premium media delivered in error is discovered.
 24 Star charts have been updated in error.
 25 Random software updated in error.
-26 Random ship’s program goes down one level in capability.
+26 Random ship's program goes down one level in capability.
 31 Charts of a random nearby system corrupted somehow;
 information is unreadable, clearly wrong or a jump cannot be
 plotted there until the data is corrected.
@@ -313,7 +313,7 @@ acquaintance is mentioned in a story.
 36 Random crewmember loses three hours of memory.
 41 Accident, with injuries. 
 42 All mail taken aboard is discovered to be unencrypted.
-43 Old ‘thank you’ note discovered aboard or in ship files,
+43 Old 'thank you' note discovered aboard or in ship files,
 possibly with a small boon or lead for another opportunity.
 44 Random emergency system fails catastrophically and will not
 work until fixed at a Class C starport or better.
@@ -324,8 +324,8 @@ falling off, getting drier and so on.
 52 Wrong food stocked in galley.
 53 Food poisoning – a whole day lost by D3 people aboard.
 54 Small unnoticed bonus from a prior job located in logs and
-ship’s accounts.
-55 Minor ‘mystery’ discovered.
+ship's accounts.
+55 Minor 'mystery' discovered.
 56 Shared dream experience, for some as yet unknown reason.
 ```
 
@@ -370,7 +370,7 @@ breathable atmosphere, pleasant climate and active biosphere has
 made it a welcoming home to humans for over 2,500 years, since it was
 initially settled by Terran colonists.
 
-The first settlers landed at the southern shores of the planet’s largest
+The first settlers landed at the southern shores of the planet's largest
 continent where the mouth of a river empties into one of its oceans.
 The river was reddish brown due to the high iron and red phosphorus
 content in the runoff of a nearby mountain range, the bloody colour of
@@ -379,30 +379,30 @@ itself. In ancient Terran mythology, Acis, who loved the nereid Galatea,
 was crushed by a boulder thrown by the jealous cyclops, Polyphemus.
 Galatea, lamenting the loss of her lover, transformed his blood into
 the River Acis. The mythological lore of Acis was extended to the
-system’s primary and secondary stars, which were named Galatea
+system's primary and secondary stars, which were named Galatea
 and Polyphemus.
 
 Galatea, a white-hot F7 V star, will have a shorter life span than
 cooler dwarf stars. Most F-type stars burn their fuels too quickly to
 develop the complex array of conditions required to foster life, even
-when hospitable planets are in the star’s habitable zone. Acis has
+when hospitable planets are in the star's habitable zone. Acis has
 bucked that trend.
 
 Prior to colonization, an advance team of planetologists studied
-Acis and determined that the closest approximation of the planet’s
+Acis and determined that the closest approximation of the planet's
 geological age was the Devonian period of Terra (~400 million years
 ago). The planet featured abundant sea life and a fairly complex
 land-based ecosystem, dominated by amphibians. The flora was
-rich, supported by Acis’ size, hydrography and dense atmosphere.
+rich, supported by Acis' size, hydrography and dense atmosphere.
 In addition to its native biosphere, the presence of rich minerals and
-nutrients in the planet’s soil made it an ideal candidate to host a
+nutrients in the planet's soil made it an ideal candidate to host a
 veritable bounty of agricultural products.
 
-Acis’ 35o axial tilt exposes its poles to extreme temperature shifts and
+Acis' 35o axial tilt exposes its poles to extreme temperature shifts and
 results in distinct seasons in the temperate zones and a propensity for
 deserts and steppes in the far northern and southern latitudes.
 
-Galatea’s far companion, Polyphemus, is a smouldering M2 V red
+Galatea's far companion, Polyphemus, is a smouldering M2 V red
 dwarf. The star is quite distant from the system primary, perched
 far in the outer zone. With no planets of its own, Polyphemus rarely
 receives visitors, leading a forlorn existence much like the creature from
@@ -413,7 +413,7 @@ HE SAID, SHE SAID
 In modern times, Acisian society is notable for its regimented gender
 stratification. Occupations and appointed positions in society are strictly
 managed by the Central Authority – the ruling government of Acis –
-which determines each citizen’s ability to perform a certain task or hold
+which determines each citizen's ability to perform a certain task or hold
 a specific station based on their qualifications and gender.
 
 For example, positions in government and politics are almost
@@ -463,7 +463,7 @@ at the educational facilities have a difficult time adjusting to cultural
 norms if and when they join greater Acisian society.
 
 The agricultural sector features a greater and more meticulous degree
-of stratification and hierarchy than any other. Roles in Acis’ lucrative
+of stratification and hierarchy than any other. Roles in Acis' lucrative
 agribusiness are highly sought after and there is a great deal of
 pressure to make many of the positions gender-neutral, regardless of
 what the regulations dictate. Whilst the planting, fertilization and picking
@@ -493,7 +493,7 @@ plaintiffs; sex-change surgery.
 
 Sex-change surgeries are common on Acis and are not merely
 cosmetic; they are complete physical alterations including the
-removal and replacement of one’s sex organs with those of the
+removal and replacement of one's sex organs with those of the
 other sex. This procedure is completely reversible and people often
 have their sex changed multiple times during their lives. Acisian
 medical technology has mastered these procedures, making them
@@ -519,18 +519,18 @@ believe that their stratified and carefully managed society represents a
 sea of calm amongst an otherwise chaotic and dysfunctional community
 of star systems.
 
-WHO’S THE BOSS
-Acis’ obsession with gender and occupational assignments has resulted
+WHO'S THE BOSS
+Acis' obsession with gender and occupational assignments has resulted
 in a bloated, inefficient bureaucracy, that has offices for everything
 from the development of irrigation resources to a Czar of Scaled
 Murmins, a highly fecund amphibious species that requires a great deal
 of management. In a society driven by the urge to assign everyone a
 role, it is easy to go overboard. The overindulgent appointment of the
 population to management roles is diametrically opposed to an alleged
-culture of ‘individuality and liberty’. Despite the apparent contradictions,
+culture of 'individuality and liberty'. Despite the apparent contradictions,
 Acisians manage to make it work.
 
-Economists at Acis City’s Miglardia University believe that the
+Economists at Acis City's Miglardia University believe that the
 dichotomy of Acisian culture is a symptom of a post-scarcity society
 caught in the throes of interstellar capitalism and colonial avarice.
 While most Acisians live a nice life and want for little, their presence in
@@ -541,8 +541,8 @@ In addition to their own highly overstaffed government, Acis is well known
 for employing councillors from Thalassa. Thalassans are renowned for
 their ability to predict the future using a complex array of closely guarded
 algorithms and have been employed in politics and business. They have
-however been shunned by the military, who see them as ‘fortune tellers
-and charlatans’. Nevertheless, many power brokers on Acis attribute
+however been shunned by the military, who see them as 'fortune tellers
+and charlatans'. Nevertheless, many power brokers on Acis attribute
 much of their success to the use of Thalassan counsel.
 
 ##### Mortal Enemies
@@ -552,22 +552,22 @@ vastly grown in recent decades. Acis, like most worlds of the
 Dustbelt, was oppressed by the Tyrian Lordships for centuries.
 Over the course of history, Acis had mostly resisted the urge to fight
 their imperialistic and ravenous neighbor, preferring instead to
-acquiesce to the raiders’ demands.
+acquiesce to the raiders' demands.
 
-Tyr’s dominance of the region was only sporadically and incidentally
-felt on Acis. As the ‘golden child’ of the Sindalian Main, Acis was rarely
+Tyr's dominance of the region was only sporadically and incidentally
+felt on Acis. As the 'golden child' of the Sindalian Main, Acis was rarely
 raided and was allowed to be relatively autonomous, provided that
 gratuitous shipments of agricultural products were donated to the Tyrian
 Lordships on a regular basis.
 
 The Central Authority did what it could to maintain a buffer zone
 between the people of Acis and their Tyrian oppressors. Under the ruse
-that they were ‘establishing reserves’, the government collected product
+that they were 'establishing reserves', the government collected product
 from the agricorps, neatly tucking it away at the downport so that it
-could be surreptitiously ‘donated’ to Tyrian raiding ships whenever they
-made planetfall to collect their ‘tribute’. The true cost was hidden from
+could be surreptitiously 'donated' to Tyrian raiding ships whenever they
+made planetfall to collect their 'tribute'. The true cost was hidden from
 the majority of the populace until a large volcanic eruption on one of
-Acis’ island chains put enough particulate matter into the atmosphere to
+Acis' island chains put enough particulate matter into the atmosphere to
 cause a decades long decrease in agricultural output.
 
 When the people called for the government to use the reserves to
@@ -580,8 +580,8 @@ A resistance movement began to develop on Acis, which after being
 mostly ignored by Tyr eventually became perilous. Tyr would occasionally
 recruit skilled and able-bodied spacers from worlds of the Dustbelt to
 serve on the starships of the Tyrian Main Defence Forces, really just a
-euphemism for ‘raiders with capital ships’. This practice became Tyr’s
-Achilles’ heel when conscripted Acisian NCOs serving on a Kæsia-class
+euphemism for 'raiders with capital ships'. This practice became Tyr's
+Achilles' heel when conscripted Acisian NCOs serving on a Kæsia-class
 destroyer mutinied and took control of the ship as it orbited Acis (see
 Naval Adventure 3 Fire On The Sindalian Main, page 44). Tyr deployed
 three other Kæsias to the system in short order, leaving their defences
@@ -596,8 +596,8 @@ history, Tyr opted to occupy and actively oppress a world instead of
 punitively bombing it from orbit. Despite the fury of the Tyrian officer
 
 corps, the Lordships recognized that Acis was too valuable to destroy.
-As an agricultural powerhouse and key to Tyr’s survival, destroying or
-disabling Acis would have been like cutting off one’s own foot.
+As an agricultural powerhouse and key to Tyr's survival, destroying or
+disabling Acis would have been like cutting off one's own foot.
 
 Tyr implemented a brutal counterinsurgency program on Acis,
 prosecuting their officer corps, government officials and business
@@ -610,10 +610,10 @@ mercenary bands for the job, often employing the lowest of the low,
 some of whom barely more than aggrandised thugs, which is only a
 slight downgrade from the Tyrian raiders themselves.
 
-Far from quashing the resistance, these actions only steeled Acis’
+Far from quashing the resistance, these actions only steeled Acis'
 resolve to rid themselves of the Tyrians once and for all. Working with
 the exiled militia officers and politicians, the Acis resistance schemed
-for years, seeking a way to rid themselves of Tyr’s yoke. They appealed
+for years, seeking a way to rid themselves of Tyr's yoke. They appealed
 to the Imperium, seeking Client State status, but were rebuffed. Having
 only recently ended the Fourth Frontier War, the Imperium was not
 keen on investing in dubious independent systems in the Outrim
@@ -622,11 +622,11 @@ hatched a plan to hire Aslan mercenaries from the Glorious Empire to
 aid their cause.
 
 After some early setbacks, the Aslan were magnificently successful,
-decimating Tyr’s forces wherever they found them and ultimately taking
+decimating Tyr's forces wherever they found them and ultimately taking
 the battle to the Tyr system itself. Here they effectively crippled the
 government and nearly dismantled the vaunted Tyrian shipyards, the
 only facility along the entire Dustbelt that could build jump-capable
-spacecraft. During the course of the war, Acis’ military forces became
+spacecraft. During the course of the war, Acis' military forces became
 gradually more powerful, aiding and abetting the Aslan war effort
 where they could. While the Acis Defence Forces have since become
 reasonably capable of defending their homeworld, they cannot claim to
@@ -639,11 +639,11 @@ to turn. Their centuries-old culture had begun to recognize that the
 distant murmur they were hearing was the approach of their own death
 knell. The victorious campaigns of their mercenaries in the Dustbelt
 gave them new life, with the mercenary forces contributing to the
-Empire’s economy and giving its people something to aspire to.
+Empire's economy and giving its people something to aspire to.
 
 Basking in the glow of victory and liberated from Tyrian authority, this
 should be a golden age for Acis. However, it appears that Acis has
-gradually opened a Pandora’s Box of sorts. The newly inspired Glorious
+gradually opened a Pandora's Box of sorts. The newly inspired Glorious
 
 Empire has been given a taste of conquest. While Empire mercenaries
 have had to sublimate their desire for new lands with monetary riches,
@@ -785,9 +785,9 @@ ton Amara-class cruiser for the voyage and a select crew of 500 are
 gathered for this epic adventure.
 
 After surviving their initial encounter with the threat, the Travellers are
-now the ‘experts’ in dealing with it. They can choose whatever roles
+now the 'experts' in dealing with it. They can choose whatever roles
 they want on the expedition, from command to mid-level officers, to a
-group of trouble-shooting ‘Ripleys’ embedded in the crew.
+group of trouble-shooting 'Ripleys' embedded in the crew.
 
 THE CHALLENGES
 The expected roles for the Travellers may take a certain amount of
@@ -798,7 +798,7 @@ fun for them to make the major expedition decisions.
 
 After the incident that triggers the expedition, it takes time for scientists
 to work out the source of the problem. Then the Imperium has to find
-a suitable ship and retrofit it. According to the campaign’s description
+a suitable ship and retrofit it. According to the campaign's description
 of the ship, retrofit work starts in 1098, trials start in 1102 and the
 expedition starts in 1105. Tack a year onto the beginning for the
 research and there is an eight-year span between the Imperium starting
@@ -850,7 +850,7 @@ advantage of this with the following adjustments
 5. Survivors drop back into Travellers creation. As survivors of the
     incident, the Imperium and Deepnight Corporation recruit the Travellers
     for the mission. The Travellers can discuss what roles they want on the
-    ship. They essentially have a ‘golden ticket’ to the career assignment of
+    ship. They essentially have a 'golden ticket' to the career assignment of
     their choice, as they are groomed for that role. That golden ticket means
     their Qualification roll to enter a new career automatically succeeds.
     They also receive DM+2 to any one commission roll. Referees might
@@ -876,7 +876,7 @@ Here are a few more optional tweaks you can apply.
 
 MOTIVATED BY THE MISSION
 The events of Deepnight Legacy could really motivate a Traveller for
-the mission. During the Traveller’s final two terms, they can choose
+the mission. During the Traveller's final two terms, they can choose
 to receive DM+1 for advancement rolls and can make skill rolls twice,
 taking whichever result they prefer. On the downside, they suffer DM-1
 to Survival rolls because of the extra risks they are taking.
@@ -893,8 +893,8 @@ Standing does not necessarily mean as much as it normally would.
 Referees might want to consider replacing SOC with Charm (CHA)
 as described on page 10 of the Traveller Companion. Any reference
 to SOC during Traveller creation becomes CHA. If a Traveller wants
-to be a charismatic ‘face’, they can replace one item on the Personal
-Development skill table with CHA +1, if their career’s table does not
+to be a charismatic 'face', they can replace one item on the Personal
+Development skill table with CHA +1, if their career's table does not
 already have a SOC +1 entry. Rogues and Merchants in particular
 might warrant this treatment.
 
@@ -914,7 +914,7 @@ Medic 1, Science 1, Survival 1, Vacc Suit 1
 
 There are three ways to integrate the Great Rift Adventure 2 Deepnight
 Endeavor. The first, and probably least appealing, would be to have
-it occur during the first reach of Deepnight Revelation’s voyage. This
+it occur during the first reach of Deepnight Revelation's voyage. This
 could give a sense of urgency to the mission but may not be a good
 thing if it dissuades exploration along the way.
 
@@ -946,12 +946,12 @@ You may not know his name but you know the work of cyberneticist Dr.
 Izikai Nafir. Despite an early and unremarkable career as a physician,
 the doctor single-handedly developed a neural integration technique,
 years ahead of current research, which took the cybernetics world by
-storm. You’re probably using his invention right now!
+storm. You're probably using his invention right now!
 
-The researcher you may not have heard of is Dr. Leitz-Myer. Dr. Nafir’s
+The researcher you may not have heard of is Dr. Leitz-Myer. Dr. Nafir's
 residency at a planetary hospital in the Imperium would have been a
 historical footnote were it not for the intervention of his close university
-colleague. It was Dr. Leitz-Myer who requested Nafir’s participation
+colleague. It was Dr. Leitz-Myer who requested Nafir's participation
 in a secretive research project on advanced cybernetic cellular
 augmentation but, when the project was concluded, her name was
 curiously absent from any resulting patents.
@@ -966,9 +966,9 @@ turn earned him a large portion of credit and profits. Using these
 spoils to purchase a laboratory ship he christened Honeywell, the
 entrepreneurial Dr. Nafir was undiscerning in attracting his own clients
 the desperate and foolhardy, scientists short on funding, researchers
-with fringe theories, those looking for ‘miracle’ cures or scientists
+with fringe theories, those looking for 'miracle' cures or scientists
 performing research either unsavory or illegal. Hopping from system-
-to-system for new ‘marks’, Nafir continues his career supplementing his
+to-system for new 'marks', Nafir continues his career supplementing his
 own work with research stolen from others, making him a successful,
 prestigious scientist with a suspicious history.
 
@@ -1000,8 +1000,8 @@ to cut a deal for passage or
 access to his laboratory ship
 for people with interesting
 data, artifacts or research.
-Often he will have ‘just the
-thing’ that a researcher in a
+Often he will have 'just the
+thing' that a researcher in a
 tight spot will need.
 
 His ship boasts state-of-the-art
@@ -1010,11 +1010,11 @@ himself and his passengers
 but what his passengers do
 not know is that all sensors,
 data monitors and networks
-are wired back into the ship’s
+are wired back into the ship's
 main computer, for Dr. Nafir
 to cherry-pick as he pleases,
 either to take credit for his
-passengers’ work or sell to
+passengers' work or sell to
 interested parties by way of his
 diplomatic connections.
 
@@ -1045,7 +1045,7 @@ SPECIES GENDER
 Human Male
 ```
 
-Despite always being on the move, Dr. Nafir’s past does sometimes
+Despite always being on the move, Dr. Nafir's past does sometimes
 catch up with him and Travellers in his wake are likely to meet his
 nemesis Dr. Leight-Myer, an unassuming and introverted woman with
 a desperate plea that the more famous doctor stole her work. She will
@@ -1053,7 +1053,7 @@ reward those who expose Dr. Nafir as a fraud and ruin his reputation.
 Leight-Myer knows that Nafir is reckless in his experiments and may
 be in possession of knowledge or equipment that is dangerous in
 his hands, which must be returned or destroyed. Destroying his ship
-in a raid would be unsavoury, as Nafir tends to travel with dozens of
+in a raid would be unsavory, as Nafir tends to travel with dozens of
 scientists and Dr. Leitz-Myer does not want blood on her hands.
 
 There are maybe a dozen other scientists or researcher organizations,
@@ -1062,7 +1062,7 @@ for the return of stolen data and information on what he might have
 done with it. This can lead Travellers to an infiltration mission on
 the Honeywell and then onto deeper intrigue once the stolen data
 is uncovered. The temptation to resell this data may be great or its
-implications may change the Travellers’ goals.
+implications may change the Travellers' goals.
 
 #### High guardHigh guard
 
@@ -1077,7 +1077,7 @@ accommodations as they are notorious for their design choices in the
 crew areas. Their iconic step-level design features the splendid glass
 prow followed by the lounge deck. On the rear of the lounge deck is a
 corridor connecting the bridge and engineering deck which are stacked
-above each other in the ship’s aft-section.
+above each other in the ship's aft-section.
 
 Initially designed during the last days of the Sindalian Empire, they were
 built to TL12 standard, featuring matured technologies such as energy
@@ -1119,7 +1119,7 @@ all drives and the power plant. The staff lounge is cramped compared
 to the lounge deck, and is notorious for its small bridge, barely offering
 enough room for the four workstations of the pilot, astrogator and two
 gunners, the engineer serving one deck lower. The bridge also has
-the unusual feature of being off centre to starboard while also hosting
+the unusual feature of being off center to starboard while also hosting
 access to the dorsal turret.
 
 One feature genuinely liked by the crew of these yachts is their
@@ -1152,11 +1152,11 @@ Golden Queen herself. The current Supreme Goddess Incarnate and
 Mother of Water, as her other titles go, owns not one but two ships
 of this class, one of which she apparently had to permanently lend
 to her greatest rival, the Humble Representative of Yggdrasil, a title
-which denominates the envoy of the planet’s population to her court.
+which denominates the envoy of the planet's population to her court.
 In the past, most of these representatives have not been so humble
 but instead used taxes levied from Imperial commerce and the strong
 support of their people to wrestle most control over politics from the
-Golden Queen’s ancestors. Unfortunately, the queen’s own yacht
+Golden Queen's ancestors. Unfortunately, the queen's own yacht
 seems to be in a state of disrepair.
 
 Rumors also report the type being used as a pirate vessel, a role for
@@ -1308,14 +1308,14 @@ DECK 2
 
 #### Central SupplyCentral Supply
 
-##### Initial 24 Armaments ‘Go’ Cases
+##### Initial 24 Armaments 'Go' Cases
 
 By Andy Sykes
 
 Initial 24 specialises in providing immediate armament kits for those
 who find themselves in a life-threatening situation, whether that be
 natural disaster, national power outage, or societal collapse. Simply
-grab your ‘Go’ case and you have the gear necessary for even the
+grab your 'Go' case and you have the gear necessary for even the
 worst of scenarios!
 
 WEAPONS, ATTACHMENTS AND AMMUNITION
@@ -1326,7 +1326,7 @@ time. The tables contain details for the custom weapons, attachments,
 and ammunition magazines provided in the Initial 24 armaments
 cases (see Central Supply Catalogue for standard weapons). Any
 attachments or magazines needed are available at an extra cost if not
-included in the ‘Go’ case purchased.
+included in the 'Go' case purchased.
 
 REVCART PISTOL
 This is a heavy revolver chambered to fire both standard ammunition
@@ -1388,7 +1388,7 @@ with suppressor.
 
 CASES
 There are a number of cases available from Initial 24 Armaments, and
-each can be customised to the Traveller’s whims. They come with a
+each can be customised to the Traveller's whims. They come with a
 combination of weapons, attachments and assorted miscellaneous
 items that would be useful for anyone having a rough time within
 Charted Space. All cases come with a handy booklet guide to the
@@ -1399,7 +1399,7 @@ Potential customers should check with local law enforcement, as on
 many planets the cases are classified as survival equipment instead
 of weaponry. As long as they are locked or sealed, they may be kept
 in homes or vehicles until disaster strikes. A small licence fee may
-apply. This may not apply to ‘Go Tactical’ cases, which have stricter
+apply. This may not apply to 'Go Tactical' cases, which have stricter
 restrictions on ownership and usage.
 
 STANDARD CASES
@@ -1410,7 +1410,7 @@ combinationkey lock. Initial 24 cases are available in any colour
 desired, as well as being armored and internally structured such that
 they can be driven over by an ATV and receive minimal damage.
 
-All standard cases can be upgraded to a ‘Pro’ case which includes a TL8
+All standard cases can be upgraded to a 'Pro' case which includes a TL8
 laser sight for an additional Cr200. If the case already contains a TL8
 laser sight, at a supplementary cost of Cr280, Travellers can upgrade the
 case to incorporate a suppressor and two smoke grenades.
@@ -1501,12 +1501,12 @@ Equipment As Go Carbine
 
 EXECUTIVE CASES
 For the businessperson on the move, executive cases provide a
-bespoke ‘Go’ case. With a metal case instead of the standard plastic,
+bespoke 'Go' case. With a metal case instead of the standard plastic,
 they are designed in either chrome, gold, or an animal skin of your
 choice. This design of case will aid you in your endeavors without
 giving up the comforts you expect.
 
-Further attachments for the ‘Go Executive’ cases are an added Cr200
+Further attachments for the 'Go Executive' cases are an added Cr200
 to the standard cost in order for their finish to match the case chosen.
 Those who buy this case will also receive the guide included at
 standard levels as an electronic version for any viable communication
@@ -1580,11 +1580,11 @@ TACTICAL CASES
 For those who are more violently inclined, Initial 24 Armaments tactical
 cases supply the best possible weaponry for any covert operations you
 may be undertaking. With less of a focus on surviving whatever you
-are facing, these cases are designed for you to thrive! All ‘Go Tactical’
+are facing, these cases are designed for you to thrive! All 'Go Tactical'
 cases come in a camouflaged finish of your choice, whether that be to
 match a forest, desert, or biohazardous wasteland.
 
-A ballistic vest can be added to any ‘Go Tactical’ case that does not
+A ballistic vest can be added to any 'Go Tactical' case that does not
 already hold one for an added cost of Cr450. Other attachments are at
 standard cost, or can be painted to match for an additional Cr50.
 
@@ -1624,7 +1624,7 @@ By Christopher Griffen
 The Hive Federation truly lives up to its name. Dominated by the Hivers
 themselves, who make up nearly half of its population, the Federation
 consists of 170 sophont species and counting, most of whom have
-been ‘manipulated’ to serve one purpose or another. While some
+been 'manipulated' to serve one purpose or another. While some
 ascribe a degree of nefarious intent to Hivers and their manipulations,
 one might argue that they are merely effective facilitators. Each
 Federation species has a role to fulfil, often overlapping those of other
@@ -1634,7 +1634,7 @@ other major interstellar polity in Charted Space so fully embraces the
 notions of diversity and collaboration.
 
 Among the most populous of its member species are the Ithklur, who
-serve as the Federation’s primary ground forces and ship’s troops. The
+serve as the Federation's primary ground forces and ship's troops. The
 Ithklur are fearsome warriors, known for their effectiveness, toughness
 and ruthlessness in battle. However, to dismiss the Ithklur as simply
 soldiers of the Federation would be an understatement. Everything
@@ -1661,7 +1661,7 @@ surrounding star systems via sublight generation ships but, for whatever
 reason, this did not occur. After a few centuries, they were pacified by the
 Hivers and brought into the Federation peacefully.
 
-Ithklur is the Gurvin word for ‘shock troops’, which describes the
+Ithklur is the Gurvin word for 'shock troops', which describes the
 role they fill for the Federation. Whilst other species also serve in
 the Federation military, the Ithklur are its primary army and marine
 
@@ -1669,7 +1669,7 @@ forces. Accepting this role seems to suit the Ithklur well, although they
 did make cultural sacrifices in the process, as shall be seen in the
 following passages. As far as the Ithklur are concerned, it is they who
 manipulated the Hivers, not the other way around. By being resistant
-to pacification, the Hivers were ‘forced’ to accept the aggressive nature
+to pacification, the Hivers were 'forced' to accept the aggressive nature
 of the Ithklur and the most expedient solution was to allow them to do
 what they do best in service to the Federation.
 
@@ -1682,7 +1682,7 @@ dominate two cultural zones, one surrounding Tryylin, which includes
 of 40 star systems spread across four sectors just outside the borders
 of the Federation. The latter serves the dual purpose of giving the
 Ithklur an independent polity and buffer state against potential human
-or K’kree aggression on the spinward-coreward frontier.
+or K'kree aggression on the spinward-coreward frontier.
 
 NATURAL BORN KILLERS
 The Ithklur are descended from arboreal carnivorepouncers. Their rather
@@ -1693,7 +1693,7 @@ resembled Mesozoic-era Terran fauna. As the climate of their homeworld
 changed and they were forced out of their forested homelands, the Ithklur
 adapted well to new and more varied environments.
 
-Ithklur are often described as ‘reptilian’, due to their tails and scaly skin,
+Ithklur are often described as 'reptilian', due to their tails and scaly skin,
 but they are in fact more similar to mammals in most regards, including
 the fact that they are homeothermic and have internal skeletons. They
 have two sexes but other than reproductive organs, females and males
@@ -1712,10 +1712,10 @@ Each of the fingers and toes is clawed and may be used as a weapon.
 Their legs are digitigrade.
 
 Ithklur have paired infrared sensory organs where human nostrils are
-located. This gives them a ‘heat sense’, which operates well in all but total
+located. This gives them a 'heat sense', which operates well in all but total
 darkness. These organs alter their perception of colour, enabling them
 to perceive a broader range than humans and detect subtle temperature
-differences at a range of up to 50 metres. It can be used to detect living
+differences at a range of up to 50 meters. It can be used to detect living
 beings, individual heat maps and changes in temperature. They have highly
 sensitive olfactory senses as well, with nostrils located at each temple.
 
@@ -1779,7 +1779,7 @@ trinkets. Their military garb often lacks what humans would consider
 appropriate camouflage. The Ithklur rely more upon their senses of
 smell and infrared than vision. Overly focusing on colour alone seems
 pointless to them, whilst proper ornamentation is vital. It is both a
-morale booster and a way to establish one’s unique identity.
+morale booster and a way to establish one's unique identity.
 
 There are two perceivable social strata in Ithklur society the
 Elementary and the Enlightened. The vast majority of Ithklur are
@@ -1790,9 +1790,9 @@ Enlightened have reached a higher plateau of wisdom and are looked
 upon as leaders, although all members of Ithklur society have the ability
 to become Enlightened.
 
-Despite the alleged effectiveness of the Hivers’ manipulation of the
+Despite the alleged effectiveness of the Hivers' manipulation of the
 Ithklur, the two species have a somewhat adverse relationship. While
-the Ithklur are quite willing to serve as the Federation’s shock troops,
+the Ithklur are quite willing to serve as the Federation's shock troops,
 they are often insubordinate and derisive towards the Hivers. Ithklur
 continue to speak their native language in spite of Federation decrees
 to adopt Gurvin. They flout Hiver authority by alternately pranking
@@ -1895,7 +1895,7 @@ RADIALISTS AND HOLISTS
 Before choosing a path on the Fourfold Way, Ithklur must determine
 which philosophical approach to follow radialism or holism. Radialists
 believe that frequently changing paths over the course of their lives is
-the best way to reach the state of what they call the ‘Blissful Warrior’.
+the best way to reach the state of what they call the 'Blissful Warrior'.
 Holists believe that the best way to reach this state is to adhere to a
 single path.
 
@@ -1956,7 +1956,7 @@ Career Options Drifter, Merchant or Scout.
 
 SEEKER
 The seeker looks for internally accessible knowledge, whether that be
-discovering the deeper meaning of ‘the ultimate concern’ (the closest
+discovering the deeper meaning of 'the ultimate concern' (the closest
 thing the Ithklur have to a supreme being) or by engaging in scientific or
 artistic discovery.
 
@@ -1999,7 +1999,7 @@ a holist Ithklur on the Guardian path, serving in the army, must make
 an Easy (4+) check after the first term to stay in that career. After two
 terms, the check becomes Routine (6+); after three terms, Average (8+)
 and so on. Any involuntary interruption and transfer to a new career or
-path results in the loss of that term’s RES +1.
+path results in the loss of that term's RES +1.
 
 THE ELEMENTARY, THE ENLIGHTENED AND RANKS
 The commission roll is made to determine whether an Elementary Ithklur
@@ -2081,51 +2081,51 @@ Guardian path.
 
 #### EncounterEncounter
 
-##### Kar’wyikh of Clan Syoisius
+##### Kar'wyikh of Clan Syoisius
 
 By Christian Urs Wohlthat
 
-The Aslan properly named Loatuakar’wyikh in Trokh, learned early
+The Aslan properly named Loatuakar'wyikh in Trokh, learned early
 in his career that humans misunderstand his name to be Lord Ua
-Kar’wyikh. He usually does not mind humans thinking of him as a
+Kar'wyikh. He usually does not mind humans thinking of him as a
 lord of something but acknowledges that certain humans prefer not
 dealing with nobility for cultural reasons he does not fully understand.
 So, he follows the advice of his most knowledgeable wife and deals
-with human captains and prospectors by the alias of Kar’wyikh. He will
-stylise himself as Lord Kar’wyikh however, when dealing with diplomats,
+with human captains and prospectors by the alias of Kar'wyikh. He will
+stylise himself as Lord Kar'wyikh however, when dealing with diplomats,
 Imperial or corporate agents and Vargr, these groups responding well to
 titles of nobility.
 
-Kar’wyikh is an envoy of his clan and falls into the grey area between
+Kar'wyikh is an envoy of his clan and falls into the grey area between
 spy and negotiator for Clan Syoisius. He is aided by his three wives in
 financial and administrative matters, as is prudent for an Aslan male of
-his rank and status. However, Kar’wyikh is quite capable of negotiating
+his rank and status. However, Kar'wyikh is quite capable of negotiating
 on his own behalf, especially when dealing with humans or Vargr
 who belong to the lower strata of their societies. He maintains a large
 network of loose business associates among the prospectors, tramp
 freighter captains and smugglers of the Borderlands.
 
-As is usual for Aslan, Kar’wyikh’s personal occupation and that of his
+As is usual for Aslan, Kar'wyikh's personal occupation and that of his
 wives are intertwined heavily with clan and corporate politics. While
-Kar’wyikh captains the Kteiroa seeker Sisakh’tul, he does not actually
+Kar'wyikh captains the Kteiroa seeker Sisakh'tul, he does not actually
 own it. The ship is registered to the Company of Grandmotherly
 Kindness, one of his wives being a corporate manager of the company.
-Kar’wyikh’s wealth comes from two sources what he and his wives
+Kar'wyikh's wealth comes from two sources what he and his wives
 make off prospecting and small trade business, as well as revenue
 from his corporation on Arunisiir (The Borderland, Trojan Reach). It is
-here that Kar’wyikh holds territory, albeit small; it comprises a city block
+here that Kar'wyikh holds territory, albeit small; it comprises a city block
 in Port Amalgo, the old industrial capital of the planet. Additionally, he
 owns a collection of mostly hollowed out asteroids in the field of Trojans
-leading Arunisiir’s moon.
+leading Arunisiir's moon.
 
-While the Aslan Loatuakar’wyikh is proud to have gained such territory,
-the trader Kar’wyikh understands the precarious situation of Aslan
+While the Aslan Loatuakar'wyikh is proud to have gained such territory,
+the trader Kar'wyikh understands the precarious situation of Aslan
 rule on Arunisiir. Hence, he is willing to trade territory on Arunisiir for
 an equivalent on another world, in a duel if need be. Those who can
 find him a partner for that deal would surely be named in his personal
 collection of epic poetry.
 
-Kar’wyikh even has contacts within
+Kar'wyikh even has contacts within
 the moderate forces of human
 resistance but excluding the neo-
 Sindalian hardliners. He tries to use
@@ -2143,7 +2143,7 @@ to any customer, sometimes
 offering a suit for a reduced
 price as incentive for another
 deal. All suits bought from
-Kar’wyikh will automatically
+Kar'wyikh will automatically
 register on his private
 boundary box and comms,
 should the wearer be
@@ -2185,7 +2185,7 @@ Suit
 +10 12 100 25 Cr22000 Vacc Suit 0
 ```
 
-###### KAR’WYIKH OF CLAN SYOISIUSKAR’WYIKH OF CLAN SYOISIUS
+###### KAR'WYIKH OF CLAN SYOISIUSKAR'WYIKH OF CLAN SYOISIUS
 
 ```
 CHARACTERISTICS SKILLS
@@ -2241,7 +2241,7 @@ Lord Urelad is not simply a pretender fighting to restore his rule over
 the capital of some frontier world in the Borderland. He is also a
 close follower and – so he claims – personal representative of the
 self-stylised Prince Richter Grehai. Where Prince Grehai speaks of
-Humaniti’s Aslan cousins and leaves it vague as to their future on
+Humaniti's Aslan cousins and leaves it vague as to their future on
 former Sindalian worlds, Lord Urelad is much less subtle. His clear
 standpoint is that Aslan are aliens to these worlds and can never rule
 them or be citizens of equal rights. Although Lord Urelad is diplomatic
@@ -2266,7 +2266,7 @@ Aslan investments around Arunisiir. His hope is that they will bleed their
 finances quicker than he does, while hardliner friends of the Grehai and
 Bastion movement go into direct action. The only problem is that Grehai
 
-followers need to be convinced of Lord Urelad’s legitimacy when he
+followers need to be convinced of Lord Urelad's legitimacy when he
 gives the orders. But surely this can be arranged If needed, external
 agents might be helpful...
 
@@ -2310,73 +2310,73 @@ Human Male
 
 By Adrian Tymes
 
-Not all K’kree agree with the Steppelords of the Two Thousand Worlds.
+Not all K'kree agree with the Steppelords of the Two Thousand Worlds.
 Some believe that survival is best assured by charging forever through
 the endless black sky, even if that requires changes from traditional
 practices. The Two Thousand Worlds considers these clans to be
-exiles, never to be thought of again; the ‘exiles’ consider the Two
-Thousand Worlds to be prey, waiting for G’naak to devour them.
+exiles, never to be thought of again; the 'exiles' consider the Two
+Thousand Worlds to be prey, waiting for G'naak to devour them.
 
 Several of these exiled clans live aboard vast starships, what
-some call the very definition of ‘World Class Ships’. Although these
+some call the very definition of 'World Class Ships'. Although these
 ships vary as much as any class of free traders, there are enough
 similarities, enough tried and true solutions, to group them into a
 single class – the Krungha.
 
-A Krungha is a vast cylinder, two kilometres in diameter and length,
+A Krungha is a vast cylinder, two kilometers in diameter and length,
 spun to provide 1G on its lowest deck with slowly decreasing gravity
-as one approaches the centre. The liveable space, comprising the
-outer three quarters of the ship’s volume, is arranged into 10 concentric
-rings running the length of the cylinder with 50 metre separations the
-outermost ring 1,000-metre radius, the next ring having a 950-metre
-radius and so on down to a 550-metre radius. Each ring consists of
-40 metres of open air and 10 metres of structure. There is a varying
-thickness, up to a metre, of biosphere obscuring the ceiling, which is
+as one approaches the center. The liveable space, comprising the
+outer three quarters of the ship's volume, is arranged into 10 concentric
+rings running the length of the cylinder with 50 meter separations the
+outermost ring 1,000-meter radius, the next ring having a 950-meter
+radius and so on down to a 550-meter radius. Each ring consists of
+40 meters of open air and 10 meters of structure. There is a varying
+thickness, up to a meter, of biosphere obscuring the ceiling, which is
 sometimes further obscured by misty clouds. This results in a giant
-curved space that fulfils the psychological needs of being ‘outside’,
+curved space that fulfils the psychological needs of being 'outside',
 even if the horizon curves up instead of down and the residents
-intellectually know they are aboard a starship. Like most K’kree
+intellectually know they are aboard a starship. Like most K'kree
 designs, this is space-inefficient compared to most other races a little
-over half of a Krungha’s 465,000,000-ton volume is open air that serves
-little purpose save aesthetics but these aesthetics allow the K’kree to
+over half of a Krungha's 465,000,000-ton volume is open air that serves
+little purpose save aesthetics but these aesthetics allow the K'kree to
 have a permanent home in space.
 
 How exactly this works has not been explored in depth in any research
-shared by the K’kree. Research by non-K’kree is mostly speculation
+shared by the K'kree. Research by non-K'kree is mostly speculation
 but the essentials are known. The key is that there is a horizon to each
-side, where if a K’kree goes, there will be yet more land beyond the
+side, where if a K'kree goes, there will be yet more land beyond the
 former horizon, with a new horizon that one can travel to in an endless
-cycle. In the other lateral direction of travel, the K’kree can see there
-is a wall to either side but the two kilometres between the walls makes
-them less confining. K’kree psychologists are certain the same effect
+cycle. In the other lateral direction of travel, the K'kree can see there
+is a wall to either side but the two kilometers between the walls makes
+them less confining. K'kree psychologists are certain the same effect
 could be achieved with smaller dimensions but have little appetite to
 explore precise lower limits.
 
-Portions of the 600- and 550-metre radius decks are set aside for
+Portions of the 600- and 550-meter radius decks are set aside for
 cargo storage. Passages through this section are somewhat cramped.
-It is common to train young K’kree here, letting them feel their genetic
+It is common to train young K'kree here, letting them feel their genetic
 claustrophobia and learn to fight it. This is also the traditional location
-where adolescent K’kree are left alone for a while to find their ancestors
-so they need never again be alone, a status known as ‘kin-to-the-
-sky’. This is seen as somewhat holy; that this happens on the cargo
+where adolescent K'kree are left alone for a while to find their ancestors
+so they need never again be alone, a status known as 'kin-to-the-
+sky'. This is seen as somewhat holy; that this happens on the cargo
 decks leads to religious overtones when residents discuss what sort
 of ores their ark shall mine and which goods it shall manufacture, not
 to mention where these goods are eventually sold off, usually to the
-G’naak whose space they are passing through.
+G'naak whose space they are passing through.
 
-There are six more rings, from 500- to 250-metre radius, which contain
-the majority of the ark’s systems, primarily the fuel tanks. The passages
+There are six more rings, from 500- to 250-meter radius, which contain
+the majority of the ark's systems, primarily the fuel tanks. The passages
 here are cramped and meant for robot access. Ramps and elevators
-give access from the 550-metre radius deck to the 300, where a
+give access from the 550-meter radius deck to the 300, where a
 concourse gives access to the innermost ring the docking facility.
 
 The centremost section of a Krungha is a series of horseshoe-
 shaped docking slots that can rotate independently of the ark, with a
-150-metre-radius circular hole creating a tunnel through the ark and
+150-meter-radius circular hole creating a tunnel through the ark and
 a section removed to one side ending in a telescopic landing pad.
 When a ship wishes to dock or the ark wishes to capture an asteroid,
 the incoming object matches velocity (small craft tenders adjust an
-asteroids’ velocity), enters and drifts through the tunnel until it comes
+asteroids' velocity), enters and drifts through the tunnel until it comes
 to an unoccupied docking slot, which extends up to grab the object
 and bring it out of the tunnel. The docking slot then starts to spin until
 it matches the rotational velocity of the Krungha. Ships wind up above
@@ -2391,32 +2391,32 @@ The asteroid processing facilities are the economic heart of a
 Krungha. The ark sails through the black looking for asteroids,
 assisted by a fleet of sensor and asteroid wrangling drones. When
 a promising rock is found that will fit in the tunnel (cross section no
-more than 300 metres across), either wrangler drones will coax the
+more than 300 meters across), either wrangler drones will coax the
 asteroid in or the Krungha sets course and lets the asteroid float
 in until it can be captured, essentially devouring it. Every bit of the
 asteroid is used if possible. Even the slag is ground up and used
-to shore up failing parts of the Krungha’s structure or added to the
+to shore up failing parts of the Krungha's structure or added to the
 radiation shielding. Ore is fed into smelters that transform them into
 raw materials. The results are then routed to manufacturing plants to
 make a wide variety of goods (including feedstock used to sustain the
-ark’s biospheres, supplementing recycled biomass to provide food to
-the ark’s population). A dedicated subunit allows for construction of
+ark's biospheres, supplementing recycled biomass to provide food to
+the ark's population). A dedicated subunit allows for construction of
 starships up to 30,000 tons (or larger if made in sections). On many
 Krunghas, these factories have been upgraded to much higher Tech
 Levels than the rest of the ark, which is kept to a relatively low Tech
 Level for ease of maintenance.
 
-Among the habitable outer decks, large ramps (typically 85–90 metres
+Among the habitable outer decks, large ramps (typically 85–90 meters
 long) are the primary means of inter-deck access, with wide elevators
 (on nearly any other ships these would be cargo elevators) alongside
 them. On the outermost deck, the otherwise-less-usable underside
 of these ramps are walled off and used as airlocks, big enough for
 entire families to board and leave while staying together. Most of the
 rest of the space is marked-off enclosures, open grass and common
-facilities with few walls taller than an adult K’kree. This can support
-almost 2,600,000 K’kree but is usually measured in terms of families a
+facilities with few walls taller than an adult K'kree. This can support
+almost 2,600,000 K'kree but is usually measured in terms of families a
 Krungha has 216,000 enclosures capable of supporting families of an
-average size of 12 K’kree. The enclosures are not uniformly sized, so
+average size of 12 K'kree. The enclosures are not uniformly sized, so
 as to allocate complete enclosures for larger or smaller families.
 
 A Krungha has a hefty maneuver drive for such a large ship, able
@@ -2425,14 +2425,14 @@ while under spin when it must. While changing direction of travel is
 done readily enough so long as maneuver drive units distributed
 around the hull act in a degree of unity approaching that of a jump
 drive (this synchronous action is what Krungha engineers refer to
-when they speak of ‘our herd of maneuver drives’), changing actual
+when they speak of 'our herd of maneuver drives'), changing actual
 facing must not only keep the massive frame stable but work around
 titanic gyroscopic forces, resulting in alterations occurring at 0.003G.
-The inertial compensation is also key to a Krungha’s continued
+The inertial compensation is also key to a Krungha's continued
 integrity, accelerating each part to stay roughly where it should be
-relative to the rest of the ark. If a Krungha’s maneuver drive suffers
+relative to the rest of the ark. If a Krungha's maneuver drive suffers
 a Severity 6 critical hit or loses all Power (only 4,650,000 is needed to
-maintain inertial compensation, subsumed in the maneuver drive’s
+maintain inertial compensation, subsumed in the maneuver drive's
 requirements when under thrust) the ark suffers damage equal to
 10% of its initial Hull each round, until this situation is remedied (the
 hit is repaired or power is restored; temporary repairs to a critical hit
@@ -2454,9 +2454,9 @@ If there is a single point of failure in the design, it is the lone bridge.
 Ruling a population of millions somewhat more diverse in thought
 than those in the Two Thousand Worlds, the Lord-of-Steppelords who
 runs the station needs a symbol of absolute, uncontested control and
-the bridge is it. Buried in the 500-metre radius deck, the only access
-is through the ‘sub-bridge’, a field of remote control stations on the
-550-metre radius deck arranged in a defensive formation around the
+the bridge is it. Buried in the 500-meter radius deck, the only access
+is through the 'sub-bridge', a field of remote control stations on the
+550-meter radius deck arranged in a defensive formation around the
 ramp up to the bridge, with more stations positioned to guard the top of
 the ramp. The sub-bridge allows control of a portion of the vast array of
 small craft a Krungha will deploy to survey asteroids and control space
@@ -2468,12 +2468,12 @@ sub-bridge to make ritual obeisance to the Lord-of-Steppelords as their
 ultimate master, as a one-time part of their coming-of-age rites.
 
 The systems area contains over one million displacement tons for
-expansion according to the crew’s needs. The easiest way to gauge a
-Krungha’s crew’s experience and temperament is to see what occupies
+expansion according to the crew's needs. The easiest way to gauge a
+Krungha's crew's experience and temperament is to see what occupies
 most of this space weapons, laboratories, studios or something else.
 Only a Krungha less than half a century old will still have this space
 mostly empty. Regardless of whether or not there are weapons here,
-a Krungha’s first line of defence is its many small craft, guided from
+a Krungha's first line of defence is its many small craft, guided from
 the sub-bridge. There are many more small craft than can be directly
 controlled from the sub-bridge; ones directly controlled take roles akin
 to leaders in a cavalry charge, with uncontrolled robots taking cues
@@ -2525,7 +2525,7 @@ Imperial citizens and stay within Imperial borders), meaning pirate
 bands are free to take down and loot any Krungha that tarries. It is
 a tradition on Regina, when a Krungha reaches its vicinity, to send
 a diplomatic party to congratulate its crew and try to convince them
-the Zhodani are G’naak among G’naak, preying on sentient minds
+the Zhodani are G'naak among G'naak, preying on sentient minds
 as well as meat, so as to ally the Krungha with Imperial interests
 should war break out.
 ```
@@ -2537,10 +2537,10 @@ growing or stable as of 1105. If left alone, one Krungha will construct
 another at roughly 100-year intervals, when its internal population
 nears capacity. This rate would be faster save for the occasional
 family permanently taking a newly-built starship to trade with and
-survey the local G’naak, becoming friends and allies of any Krunghas
+survey the local G'naak, becoming friends and allies of any Krunghas
 in the area but never re-joining them. The process to make a new
 Krungha generally takes 15–20 years, wherein a Krungha will make
-its descendant in parts stockpiled in a guarded ‘nest’ in a system, then
+its descendant in parts stockpiled in a guarded 'nest' in a system, then
 assembles the pieces. To save on construction time, a new Krungha
 lacks radiation shielding (the population does not use the outer two
 decks at first, letting them act as temporary radiation shielding) and two
@@ -2557,16 +2557,16 @@ celebrations and festivals like many throughout Charted Space, despite
 taking place in deep space. One Krungha may come out of it agreeing
 to help the other manufacture its successor, hastening construction
 time to 7–10 years. More often, the two will help manufacture each
-other’s successor, which reduces the manufacturing time to 14–18
+other's successor, which reduces the manufacturing time to 14–18
 years as mass manufacturing efficiencies are realised. Making three or
 more at once this way seems unlikely to accelerate construction further
 and, more importantly, would require three Krunghas to be in the same
 system at the same time and to cooperate long-term.
 
-Like most K’kree ships, the crew of a Krungha is heavily assisted by
+Like most K'kree ships, the crew of a Krungha is heavily assisted by
 robots; most listed crew billings can be fulfilled by robots if needed. The
-ratio of K’kree to robots varies from Krungha-to-Krungha but most with
-nearly all positions filled by K’kree have a high enough population that they
+ratio of K'kree to robots varies from Krungha-to-Krungha but most with
+nearly all positions filled by K'kree have a high enough population that they
 either are building a new Krungha or plan to start soon. This is in addition
 to the efficient centralization of systems a Krungha gets from its size.
 
@@ -2674,7 +2674,7 @@ Plant
 ```
 Shipyard (30,000 tons) 60,000 30000
 Biosphere (for 2,592,000
-K’kree)
+K'kree)
 ```
 
 ```
@@ -2807,42 +2807,42 @@ Processing, Economic and Drive Decks
 
 Docking Tunnel Outer Hull
 
-##### Krungha K’kree Clans
+##### Krungha K'kree Clans
 
-The K’kree who populate these arks are collectively named for the
-arks the Krungha K’kree. Historians generally agree that arks were
-named first, then clans shed their former names in favour of ‘Krungha’
+The K'kree who populate these arks are collectively named for the
+arks the Krungha K'kree. Historians generally agree that arks were
+named first, then clans shed their former names in favor of 'Krungha'
 as a symbolic part of their exile. It is possible that the very first clan to
 use these arks (and presumably designed them) was already named
 Krungha but relevant documentation appears to have been deliberately
 destroyed shortly after the exile began. Subsequent owners are either
 small enough clans to be adopted onto an existing Krungha or will
 have one constructed for them by existing Krunghas. Either requires
-extreme degrees of connections, resources and favours, such that this
+extreme degrees of connections, resources and favors, such that this
 only happens when a Steppelord or Lord-of-Steppelords is being exiled,
 which even then is rare.
 
-A Krungha K’kree family (whether part of a Krungha ark or split off to find
-their own fortune), as well as a lone outsider K’kree whose ancestors
+A Krungha K'kree family (whether part of a Krungha ark or split off to find
+their own fortune), as well as a lone outsider K'kree whose ancestors
 were among these families, can be played as Travellers using the rules
 from Aliens of Charted Space Volume 1 with a few revisions
 •  With a greater emphasis on utility in a technological civilization,
-Krungha K’kree are recognizable for being slightly smaller than
-Two Thousand Worlds K’kree and having less pronounced sexual
-dimorphism. Krungha K’kree gain STR+3 regardless of gender.
+Krungha K'kree are recognizable for being slightly smaller than
+Two Thousand Worlds K'kree and having less pronounced sexual
+dimorphism. Krungha K'kree gain STR+3 regardless of gender.
 Patriarchs and patriarchs-to-be gain INT+3 and EDU+3; others
-have no initial INT or EDU adjustment. When rolling a family’s
+have no initial INT or EDU adjustment. When rolling a family's
 specialist area, rolls up to 5 are Service and Warrior is only on
 a 6. Service-specialized Merchant families may select any other
 Merchant specialization for their career. Non-outsider Krungha
-K’kree do not automatically spend their first term as warriors,
-instead acquiring basic training for K’kree Skills in their first term,
+K'kree do not automatically spend their first term as warriors,
+instead acquiring basic training for K'kree Skills in their first term,
 gaining Vacc Suit 0 instead of Patriarchy 0 from this training. They
 still acquire no wives in their first term and acquire basic training for
 their career skills in their second term.
-•  Krungha K’kree are uncomfortable in tight spaces but build up
+•  Krungha K'kree are uncomfortable in tight spaces but build up
 a tolerance. Instead of using the Claustrophobic trait as written,
-Krungha K’kree suffer DM-2 to all checks when in any space less
+Krungha K'kree suffer DM-2 to all checks when in any space less
 than four times as tall, wide and long as they are (or any space
 less than 32 displacement tons). This becomes DM-4 if the space
 is less than twice their size in at least one dimension, such as a
@@ -2850,38 +2850,38 @@ typical stateroom (or any space under four displacement tons).
 For any space less than their normal upright size in at least one
 dimension, such as a crawlway (or any space less than half
 a displacement ton, if they can fit at all), this becomes DM-6.
-Convincing illusions can mitigate this but only if the K’kree does
+Convincing illusions can mitigate this but only if the K'kree does
 not know it is an illusion moving through a crawlway that looks like
-an open field will still have the K’kree touching ‘illusionary’ walls,
+an open field will still have the K'kree touching 'illusionary' walls,
 
-ruining the effect. This only applies to the K’kree’s own body a
-K’kree can wear virtual-reality goggles to pilot a drone through a
+ruining the effect. This only applies to the K'kree's own body a
+K'kree can wear virtual-reality goggles to pilot a drone through a
 crawlway with no ill effect.
-o Krungha K’kree crewing a vehicle they can see out of (most
-commonly by using goggles to see via the vehicle’s sensors,
+o Krungha K'kree crewing a vehicle they can see out of (most
+commonly by using goggles to see via the vehicle's sensors,
 so their eyes do not keep reminding them they are in a
-vehicle) consider themselves ‘one-with-the-vehicle’ while
+vehicle) consider themselves 'one-with-the-vehicle' while
 crewing it, so they are only penalised if the vehicle enters
-a confined space relative to the vehicle’s dimensions or
-they lose the ability to see through the vehicle’s sensors.
-Passengers not involved in any part of the vehicle’s operations
+a confined space relative to the vehicle's dimensions or
+they lose the ability to see through the vehicle's sensors.
+Passengers not involved in any part of the vehicle's operations
 do not gain this benefit, putting up with the discomfort for the
 duration of the ride. In theory this applies to spaceships too
-but Krungha K’kree, like most K’kree, prefer not to use crewed
+but Krungha K'kree, like most K'kree, prefer not to use crewed
 spaceships tiny enough to induce claustrophobia.
-o All adult Krungha K’kree have donned vacc suits often enough
+o All adult Krungha K'kree have donned vacc suits often enough
 that they need not make a Vacc Suit check to put one on under
 ordinary conditions. Children usually have vacc suits put on
 them by adults and thus likewise do not make Vacc Suit checks.
 •  While the Gregarious trait still technically applies, it is moot for
-adults. Krungha K’kree become one-with-the-sky as a coming-
-of-age rite. Even if all living K’kree around them are abruptly and
-messily slain, such a K’kree is never alone. As far as Imperial
+adults. Krungha K'kree become one-with-the-sky as a coming-
+of-age rite. Even if all living K'kree around them are abruptly and
+messily slain, such a K'kree is never alone. As far as Imperial
 agents have been able to determine, this does not equate
 to psionic training, despite suggestive anecdotes. Inventing
-procedures to do this safely, retaining one’s facilities and ability
-to function normally with one’s ancestors in one’s mind, are
-considered among the Krungha’s greatest achievements; even
+procedures to do this safely, retaining one's facilities and ability
+to function normally with one's ancestors in one's mind, are
+considered among the Krungha's greatest achievements; even
 exiles from the Krungha are traditionally allowed to take a copy of
 the texts with them. The Two Thousand Worlds prefers not to admit
 the existence of these techniques.
@@ -2889,14 +2889,14 @@ the existence of these techniques.
 ranks do not exist, as they would require a large fleet of Krunghas
 to travel together for an extended period under one commander. As
 of 1105, the Third Imperium has yet to hear of such a fleet existing.
-•  Krungha K’kree wives may advise their patriarchs in public, so long
-as they are only advising. Krungha K’kree families also tend to be
+•  Krungha K'kree wives may advise their patriarchs in public, so long
+as they are only advising. Krungha K'kree families also tend to be
 smaller, as technical capability is more highly prized aboard an
 ark, so technically capable servants more often have at least one
 wife. One effect is that the D3 additional family members gained
 upon acquiring a wife includes the wife. Further, one or more (up
 to the number of wives the patriarch has) specialist, worker and
-servant family members may be the patriarch’s wives (allowing
+servant family members may be the patriarch's wives (allowing
 for the same number of extra hands while reducing the number of
 bodies that must be transported, fed and protected), although they
 
@@ -2904,53 +2904,53 @@ may not be traded for damage in combat. The Krungha see warrior
 wives as inherently counterproductive. Then again, the Krungha
 have less use for warriors; when they must fight, they sometimes
 send remote-piloted drones backed up by robots.
-•  Krungha K’kree do not share the Two Thousand Worlds’ view
-that all G’naak can eventually be converted or slain. They are
+•  Krungha K'kree do not share the Two Thousand Worlds' view
+that all G'naak can eventually be converted or slain. They are
 more willing to be among and trade with meat-eaters, preferably
 at a safe enough distance that they can run if attacked. While
 they find preparation and consumption of meat in their presence
 to be distasteful and offensive, it is not always cause for
 immediate violence, especially without evidence it is being done
-to provoke the K’kree.
+to provoke the K'kree.
 •  Outsiders are outsiders, even to the exiled clans. Even with
 Krungha adaptations, there are still rules to follow to being a true
-K’kree. K’kree from the Krungha and the Two Thousand Worlds
+K'kree. K'kree from the Krungha and the Two Thousand Worlds
 treat each other as outsiders should they ever meet, with SOC 0
-in each other’s area of influence. Krungha K’kree are not treated
+in each other's area of influence. Krungha K'kree are not treated
 as outsiders for purposes of Traveller creation if they are raised
-in Krungha K’kree society, despite being outsiders to the Two
+in Krungha K'kree society, despite being outsiders to the Two
 Thousand Worlds.
-•  Krungha K’kree who leave the ark-herds (willingly or not) do not
+•  Krungha K'kree who leave the ark-herds (willingly or not) do not
 gain the Outsider skill as they would not benefit from it being one-
 with-the-sky prevents loneliness, they make no Claustrophobia
 checks and so on. The same is true of their descendants, so long
 as they are raised with the same cultural adaptations (one-with-
 the-sky upon adolescence, learning to tolerate cramped spaces
 and not immediately attacking meat-eaters).
-o A Krungha K’kree family that just left a Krungha will often
-(at the Referee’s determination) have a Trader of the Outer
+o A Krungha K'kree family that just left a Krungha will often
+(at the Referee's determination) have a Trader of the Outer
 Steppe or similar ship able to carry the entire family, in addition
 to any other mustering out benefits. Nobles who mustered out
 with Ship Shares can spend them on ship upgrades.
-o There exist small Krungha K’kree settlements outside the
+o There exist small Krungha K'kree settlements outside the
 arks, which rarely last more than a century. Travellers from
 these settlements use the same creation rules as those
 raised on arks.
 •  Officially, the Two Thousand Worlds dismisses the notion that the
 Krungha could possibly see themselves as potential prey of the
-Two Thousand Worlds, for how could the true K’kree of the Two
+Two Thousand Worlds, for how could the true K'kree of the Two
 Thousand Worlds ever be predators The Krungha do not share
 this assurance and sometimes point out that many statements
-issued by the Two Thousand Worlds about what all K’kree are like
+issued by the Two Thousand Worlds about what all K'kree are like
 only apply to the Two Thousand Worlds. For instance, the Krungha
 admit with much revulsion the fact that Hivers once managed to
-manipulate some K’kree into eating meat on a regular basis and
+manipulate some K'kree into eating meat on a regular basis and
 
-that this did not make them something other than corrupted K’kree.
+that this did not make them something other than corrupted K'kree.
 On more than one occasion, heresies such as acknowledging that
-K’kree sometimes deviate from their natures or that some really
+K'kree sometimes deviate from their natures or that some really
 are better off apart from the herd, have caused the Two Thousand
-Worlds to send a war fleet to ‘correct’ the Krungha from which the
+Worlds to send a war fleet to 'correct' the Krungha from which the
 objectionable statement came, only for the ark to jump away when
 the war fleet reached it, beginning a game of cat-and-mouse with
 millions of lives on the line, which the ark only sometimes wins.
@@ -2961,7 +2961,7 @@ millions of lives on the line, which the ark only sometimes wins.
 
 By Michael Witry
 
-Lord Penford Ffarnham Blinderby – ‘Penny’ to his old school chums –
+Lord Penford Ffarnham Blinderby – 'Penny' to his old school chums –
 is the feudal lord of a peaceful backwater agricultural planet, such as
 Ficant (Spinward Marches 1417) or Pichot (Trojan Reach 3015). He
 is well-educated but dim-witted and naïve. His family has controlled
@@ -2970,15 +2970,15 @@ Manor, is a prefabricated house ordered out of a catalogue centuries
 ago. It remains the largest building on the planet.
 
 Blinderby returned home from university five years ago and is dreadfully
-bored. He is well-off financially but his world’s isolation means he has
+bored. He is well-off financially but his world's isolation means he has
 few opportunities to spend that money. He rushes to the landing field
 to greet any starship that arrives and asks Travellers to pop round to
 Blinderby Manor for tea. Should they impress Blinderby, he is willing to
 offer them a monthly salary to serve as his retainers.
 
-Choose one of the following categories to determine Blinderby’s current
+Choose one of the following categories to determine Blinderby's current
 desires, then roll or choose from the appropriate table to see how the
-Travellers’ encounter with him will unfold.
+Travellers' encounter with him will unfold.
 
 VISITORS WELCOME
 Blinderby thinks that the peaceful (albeit a bit drab) vistas of his
@@ -2987,13 +2987,13 @@ destination enhancement program.
 
 ```
 1D Encounter
-1 Years before Blinderby’s planet was colonized, the famous
+1 Years before Blinderby's planet was colonized, the famous
 explorer Miryam Fresco went missing in this subsector. Family
-legend has it that Fresco crashed on Blinderby’s world. A
+legend has it that Fresco crashed on Blinderby's world. A
 survey of the planet and a trip to the subsector archives might
-help reveal (or fabricate) evidence to support Blinderby’s world
-as Fresco’s final resting place.
-2 The villagers and farmers of Blinderby’s world are simple,
+help reveal (or fabricate) evidence to support Blinderby's world
+as Fresco's final resting place.
+2 The villagers and farmers of Blinderby's world are simple,
 sturdy folk who are not used to receiving visitors. They will
 need to be trained in the genteel art of stewardship.
 3 Rolling hills near the landing field would make for an excellent
@@ -3010,7 +3010,7 @@ starports. Blinderby will need to renovate the landing field into
 a real port and impress TAS officials enough to get the port
 upgraded to Class D.
 6 A mysterious group of businessmen offer to build a towering
-casino on Blinderby’s world, in exchange for certain legal
+casino on Blinderby's world, in exchange for certain legal
 concessions. Are they spies, money launderers or just people
 with more money than sense
 ```
@@ -3024,8 +3024,8 @@ Blinderby would feel a lot less isolated if he had his own starship.
 shipyard, supposed to be delivered about a year ago. His
 protests have met with nothing but excuses. A trip to the
 shipyard reveals that the company is beset with legal troubles
-and is on the verge of folding. Blinderby’s gig might need to be
-sold to pay the company’s creditors.
+and is on the verge of folding. Blinderby's gig might need to be
+sold to pay the company's creditors.
 2 Blinderby bought a solar sailer. Operating a solar sailer is an
 entirely different kind of flying from a standard starship altogether.
 The Travellers will either have to recruit an experienced solar
@@ -3057,7 +3057,7 @@ good fortune must be in want of a wife.” - Jane Austen, Pride and Prejudice
 1D Encounter
 1 The new Lady Blinderby is a member of a minor human race
 that has been engineered for life underwater and she wants
-to bring members of her race to Blinderby’s planet. Blinderby
+to bring members of her race to Blinderby's planet. Blinderby
 Manor and the surrounding countryside will need to be adapted
 for their use and the villagers will need to be taught to co-exist
 with their new neighbors.
@@ -3073,8 +3073,8 @@ Blinderby fell hopelessly in love with a cabaret singer. To
 make her Lady Blinderby, he will need help teaching her the
 ways of the nobility and getting her accustomed to life on an
 agricultural world.
-5 Blinderby’s new spouse has four rambunctious children from
-a previous marriage. The children terrorise Blinderby’s planet
+5 Blinderby's new spouse has four rambunctious children from
+a previous marriage. The children terrorise Blinderby's planet
 with theft, vandalism, and other petty crimes, and their parent
 refuses to discipline them. The villagers want the children to get
 what they deserve.
@@ -3092,14 +3092,14 @@ answer for him.
 ```
 1D Encounter
 1 The Imperial Interstellar Scout Service wants to establish a
-base on Blinderby’s planet. He is in favour but the villagers
+base on Blinderby's planet. He is in favor but the villagers
 are worried that the rough-and-tumble scouts will corrupt their
 children and convince them to leave home.
 2 A visiting ship brought an invasive plant species that is growing
 out of control. Blinderby needs help exterminating the invasive
 species and establishing a quarantine service to prevent this
 from happening again.
-3 Blinderby’s old school friend, ‘Bevvy’ Antonov de Champlain,
+3 Blinderby's old school friend, 'Bevvy' Antonov de Champlain,
 has arrived on the planet. He has blown up a building on
 a nearby planet as part of a delightful jape but the local
 authorities have no appreciation for such hijinks and are
@@ -3127,7 +3127,7 @@ neighboring worlds.
 with a charismatic dictatorship in the hopes of learning their
 leadership secrets. The Travellers will need to protect Blinderby
 from the suspicions of the secret police.
-2 Blinderby’s luxury cruise is spoiled by a food-borne illness
+2 Blinderby's luxury cruise is spoiled by a food-borne illness
 that leaves most of the passengers and crew incapacitated.
 Blinderby and his retainers will have to help guide the gigantic
 ship to the nearest port.
@@ -3154,10 +3154,10 @@ There is never a dull moment in the service of the idle rich.
 
 ```
 1D Encounter
-1 Blinderby Manor’s age is showing. Blinderby wants help
+1 Blinderby Manor's age is showing. Blinderby wants help
 designing and building a new, more impressive house,
 furnished in the latest style.
-2 Blinderby’s younger sister, Lieutenant Hollingbourne ‘Holly’
+2 Blinderby's younger sister, Lieutenant Hollingbourne 'Holly'
 Ffarnham Blinderby, comes home while on leave from the
 Imperial Navy. She is charismatic, intelligent and accomplished
 ```
@@ -3167,7 +3167,7 @@ the people will force him into exile and proclaim Holly their ruler.
 3 Blinderby wants to hold a grand festival for his birthday. He will
 need help finding high-class entertainment for his noble visitors
 and more proletarian delights for the villagers.
-4 Blinderby resolves to stop the planet’s brain drain by endowing
+4 Blinderby resolves to stop the planet's brain drain by endowing
 an agricultural college. Travellers can help recruit faculty,
 construct buildings, find high-tech equipment and manage
 town-gown relations.
@@ -3177,9 +3177,9 @@ build a compound on the planet. Blinderby is interested in
 joining them but will have to undergo their initiation ceremony
 and manage conflict between farm-owning subjects and
 uplifted livestock.
-6 A scientific expedition reveals that the star Blinderby’s planet
+6 A scientific expedition reveals that the star Blinderby's planet
 orbits will go nova within the next few years. The value of
-Blinderby’s assets collapse, leaving him without the money to
+Blinderby's assets collapse, leaving him without the money to
 pay to evacuate his subjects. He will need to get a real job.
 
 ###### LORD PENFOLD FFARNHAM BLINDERBYLORD PENFOLD FFARNHAM BLINDERBY
@@ -3212,7 +3212,7 @@ the scope of space, while being able to use that information in their
 day-to-day lives, most sophonts have come up with methods to visually
 describe space while not being overwhelmed.
 
-Just as early explorers created what they called ‘projections’ to be
+Just as early explorers created what they called 'projections' to be
 able to map a round ball unto a flat space, astronauts soon came up
 with a method of doing the same with the vastness of the universe.
 They began with 3D maps, then expanded upon various forms of route
@@ -3227,7 +3227,7 @@ and distance all by meaningless. Facing these large spatial cubes,
 with their six possible primary directions, led to an intuitive leap to a
 hexagon with its six sides. It was a breakthrough that combined route
 and destination mechanics with variable distance projections. This
-new mapping technique – the ‘Miller’ projection, was named after the
+new mapping technique – the 'Miller' projection, was named after the
 ancient human who created it. It soon became the standard.
 
 Early humans relied upon projections of space that were one cubic light
@@ -3262,7 +3262,7 @@ along with travel advisories.
 To the new Traveller, they see little beyond the mainworld but, to an
 experienced spacer, the mainworld is but one of the stops in a system
 and usually the least interesting. Regardless of experience, it has
-become common practice to refer to a cubit parsec as a ‘system’
+become common practice to refer to a cubit parsec as a 'system'
 leaving the technicalities of space travel to the astrogators.
 
 ##### Interstellar Mapping
@@ -3271,7 +3271,7 @@ Before we begin with detailing what you can find within a system, we will
 start with galactic directions, subsectors, quadrants, sectors and domains.
 
 GALACTIC DIRECTIONS
-The galactic plane is where the majority of a disk-shaped galaxy’s mass
+The galactic plane is where the majority of a disk-shaped galaxy's mass
 lies. The directions perpendicular to the galactic plane point to the
 galactic poles.
 
@@ -3297,7 +3297,7 @@ The smallest and most convenient mapping unit, this is an area
 depicting 2,772 cubic light years or, in more reasonable terms, 80
 potential systems depicted as a grid eight systems across and 10
 systems high. Subsectors in the Third Imperium have their own Duke
-who is appointed by the region’s Archduke. The Duke represents the
+who is appointed by the region's Archduke. The Duke represents the
 interest of these worlds as well as being nominally in charge of the
 subsector defence fleets.
 
@@ -3312,10 +3312,10 @@ own astrocartographers, resulting in two different coordinate systems
 within the Third Imperium.
 
 The local or subsector coordinate only applies within the subsector
-itself, leading to a system’s location being described by its relative
-position in the subsector, that subsector’s name, the subsector’s
+itself, leading to a system's location being described by its relative
+position in the subsector, that subsector's name, the subsector's
 position within the sector, followed by the name of the sector itself. For
-example, Regina, the capital of the ‘Regina’ subsector in position ‘C’ of
+example, Regina, the capital of the 'Regina' subsector in position 'C' of
 the Spinward Marches sector, can be referred to as
 
 ReginaRegina(C)(0310)Spinward Marches
@@ -3731,7 +3731,7 @@ ARAATAGA
 ```
 
 ```
-BEL’S STATION
+BEL'S STATION
 ```
 
 ```
@@ -4022,13 +4022,13 @@ the local elements of sector policy. While there was a time when
 local quadrants had their own maps, coordinate systems and level of
 bureaucracy, such elements have all but disappeared.
 
-Historically, each quadrant had a designation ‘Q’ so Q1 represents
+Historically, each quadrant had a designation 'Q' so Q1 represents
 subsectors A, B, E and F. When the Rule of Man began, quadrants
 were renamed to Alpha, Beta, Gamma and Delta respectively.
 Likewise, Q2 (Beta) represents subsectors C, D, G and H. The layout of
 quadrants becomes clear once a sector map is viewed.
 
-From a Traveller’s viewpoint, quadrants are a quaint reminder of an
+From a Traveller's viewpoint, quadrants are a quaint reminder of an
 ancient time, until they garner the curiosity of the local noble. In many
 cases, it has been the same family in charge of a quadrant since the
 settling of the area or founding of the Third Imperium (whichever came
@@ -4210,7 +4210,7 @@ Summary Ramona Raskin has just inherited the converted laboratory
 ship Astrogon from her grandfather Sal Raskin, an eccentric trader
 and prospector. Sal ran the ship himself with the help of onboard
 automation and years of experience. Ramona grew up with her
-mother Greta D’Urban, Sal’s daughter-in-law, who runs a small freight
+mother Greta D'Urban, Sal's daughter-in-law, who runs a small freight
 transhipment service out of the local highport but they are barely on
 speaking terms and Ramona wants to leave the system and seek her
 fortune on her newly acquired starship. Unfortunately, she lacks the
@@ -4231,10 +4231,10 @@ Intellect and Virtual Crew, meaning both could theoretically operate
 basic ship functions without a crew but they each have somewhat
 difficult temperaments. While not technically sentient, they act as if
 they are. They are not sure about Ramona and certainly are not happy
-about any new crewmembers. Buggy’s computer permanently runs
+about any new crewmembers. Buggy's computer permanently runs
 Virtual Friend in a manner resistant to modification.
 
-REFEREE’S INFORMATION
+REFEREE'S INFORMATION
 
 1 The ship is technically spaceworthy but requires signoffs from the port
 authority to become fully relicensed. Travellers who between them have at
@@ -4254,7 +4254,7 @@ The personalities of the vehicles will eventually come to accept the
 crew, unless efforts are made to eradicate their personalities or the
 crew exhibits gross negligence in operations.
 
-2 As above but the ship’s hull and power plant do not pass inspection.
+2 As above but the ship's hull and power plant do not pass inspection.
 This can be finessed with a Very Difficult (12+) check using a relevant
 skill, with the Referee applying DMs as appropriate based on the plan
 and roleplaying. If not, both items require repair, taking one week each
@@ -4268,18 +4268,18 @@ inspection and look better but the 10% hull damage and 10% power
 plant deficiency still apply. Each quirk requires another week of work
 and the same cost in parts to remove the quirk entirely.
 
-3 As 1–2 above but the vessels’ personalities really do not like the
+3 As 1–2 above but the vessels' personalities really do not like the
 Travellers. A continual passive-aggressive response from Astrogon,
 Minnow and Buggy provides DM-2 to any rolls to avoid crew fatigue
-and within 2D weeks rumors spread of ‘problems’ resulting in DM-2
-when looking for passengers. One of the tactics employed by Astrogon’s
-Intellect is to simulate a haunting by Sal’s ghost. Fixing these problems
+and within 2D weeks rumors spread of 'problems' resulting in DM-2
+when looking for passengers. One of the tactics employed by Astrogon's
+Intellect is to simulate a haunting by Sal's ghost. Fixing these problems
 and winning over the machines requires roleplaying or a complete
 wipe of the computer systems, effectively rendering the Intellect, Virtual
 Crew and Digital Friend software packages unusable. Newly purchased
 software is required to restore functionality after a wipe.
 
-4 As 1–2 above but Ramona’s mother, Greta D’Urban, is unhappy with
+4 As 1–2 above but Ramona's mother, Greta D'Urban, is unhappy with
 the new situation and tries to sabotage her daughter. Skill checks within
 the initial star system, including those for completing the licensing process,
 procuring freight, speculative cargo, passengers or mail all suffer DM-2.
@@ -4298,7 +4298,7 @@ will always be doubled, as it requires specialized parts to operate.
 Any attempt to steal the vehicle from Ramona or cause her harm will
 result in a strong response from the Intellects and her mother, who
 now suddenly takes an interest the issues noted in #3 and #4 above
-will certainly occur (or reoccur) and Greta D’Urban will put a bounty
+will certainly occur (or reoccur) and Greta D'Urban will put a bounty
 of Cr250000 on the Travellers, payable for recovery of the ship and
 incarceration of any survivors.
 
@@ -4308,18 +4308,18 @@ of cynicism and sarcasm. Her inheritance came as a complete
 surprise, as she had not seen her grandfather in two years and
 did not know his ship was in port when he died from anagathics
 withdrawal. Her father disappeared on a merchant ship that
-‘misjumped’ seven years ago.
+'misjumped' seven years ago.
 
-Born and raised on the highport since her father’s
-disappearance, Ramona has worked with her mother at D’Urban
+Born and raised on the highport since her father's
+disappearance, Ramona has worked with her mother at D'Urban
 Freight Transhippers. She understands the business of freight
-brokering and has a license to operate the company’s aging
+brokering and has a license to operate the company's aging
 cutter. Other than a trip to a neighboring system aboard
 Astrogon with her grandfather during his last visit, she has never
 left her star system.
 
 She and her mother share an acrimonious relationship that has
-recently gotten worse. Ramona’s earlier attempt to sign on with
+recently gotten worse. Ramona's earlier attempt to sign on with
 a free trader was sabotaged by her mother and they are barely
 on speaking terms. She sees Astrogon as an opportunity to
 gain freedom and travel among the stars. On a ship without a
@@ -4327,7 +4327,7 @@ mortgage, she thinks she can earn enough to get by but knows
 she needs a crew, at least for the first few years until she can
 get enough experience to work the ship by herself or with robot
 helpers. Unlike her grandfather, she is more interested in the
-‘softer’ sciences of archaeology, sophontology and cultural
+'softer' sciences of archaeology, sophontology and cultural
 studies, with her interest in planetology limited to how physical
 features support life and habitability.
 
@@ -4368,7 +4368,7 @@ Astrogon is her ship; she is
 captain and master, so expects
 to be treated as such. If she is
 unhappy with her crew, she will
-work with the ships’ Intellects to
+work with the ships' Intellects to
 make her displeasure known.
 
 ASTROGON LABORATORY TRADER
@@ -4389,37 +4389,37 @@ trading and prospecting, with some contract exploration missions on
 the side. For decades he earned enough to keep the ship running,
 although his personality tended to alienate his crews and eventually
 drove his daughter-in-law to leave both ship and father-in-law and,
-soon thereafter, her husband. Sal’s son Robert left shortly afterwards
+soon thereafter, her husband. Sal's son Robert left shortly afterwards
 and since 1085, Sal operated the ship alone, almost never taking
 passengers but running cargos and prospecting the minimum
 amount of asteroids required to keep the ship running. Eventually his
 expensive, imported anagathics from the Third Imperium ran out on him
 and the withdrawal killed the 108-year-old man.
 
-Astrogon is a quirky ship. Its ship’s brain has been running continuously
+Astrogon is a quirky ship. Its ship's brain has been running continuously
 since 967 and while not truly sentient, it emulates it well enough.
 Through its own avatar, drone and swarm controllers or using the
-installed computer’s Virtual Crew software, Astrogon can pilot the ship,
+installed computer's Virtual Crew software, Astrogon can pilot the ship,
 operate sensors and communicators, fire weapons and operate the
-ship’s recon probe drones. As a non-sentient being, its independent
+ship's recon probe drones. As a non-sentient being, its independent
 Astrogation skill checks suffer DM-4 and attempts to use its recon
 probe drones to perform maintenance or repair tasks also suffer DM-4.
-The brain’s piloting and electronics operation skills operate at skill level
+The brain's piloting and electronics operation skills operate at skill level
 2 but they override rather than supplement manual operation, so the
-brain’s priorities may not align with the Travellers’. The ship’s brain can
+brain's priorities may not align with the Travellers'. The ship's brain can
 be disconnected or shut down with a Very Difficult (12+) Electronics
 (computers) check (1D hours, INT) but the ship will actively oppose this
 task unless entirely powered down and prevented from communicating
-or controlling the ship’s recon probes – a feat the ship’s brain can
+or controlling the ship's recon probes – a feat the ship's brain can
 manage for 27 days on backup power. Permanently disconnecting the
-ship’s brain renders the ship’s primary computer inoperable, forcing the
+ship's brain renders the ship's primary computer inoperable, forcing the
 crew to rely on the backup computer10.
 
 While the entire laboratory space was ripped out to provide cargo
 capacity, Sal Raskin retrofitted a laboratory, library, medical bay
 and workshop into part of the living area, reducing the number of
 staterooms. Sal and Astrogon both retained an interest in planetology
-from their former ‘careers’ and the laboratory is configured for
+from their former 'careers' and the laboratory is configured for
 
 planetology and mineralogical studies, providing a DM to relevant tasks
 for scientists and prospectors. The laser drill and missile rack mounted
@@ -4431,16 +4431,16 @@ Much of the interior is indifferently furnished but ship systems are
 generally well-maintained. The autodoc in the medical laboratory, as
 well as the one on the Minnow, are imported from the Third Imperium
 and can revive mortally wounded patients, within reason. The autodocs
-have their own personality quirks and are upset by Sal’s death but even
+have their own personality quirks and are upset by Sal's death but even
 they could not halt time.
 
-The ship bears the signs of the former owner’s hoarding tendencies.
-One stateroom is overflowing with random ‘stuff’, the library is brimming
+The ship bears the signs of the former owner's hoarding tendencies.
+One stateroom is overflowing with random 'stuff', the library is brimming
 with books, data crystals and odd objects collected from a dozen
 worlds. The laboratory has sample boxes scattered and stacked,
 and the medical lab has several unlabelled boxes of vials, some of
-which may be medicinal. Other objects may be recovered in the ‘seat
-cushions’ of the bridge, pinnace or airraft. Random objects include data
+which may be medicinal. Other objects may be recovered in the 'seat
+cushions' of the bridge, pinnace or airraft. Random objects include data
 crystals holding promising mineralogical surveys from three asteroid
 belts and two rockballs, locations of four rogue gas giants and detailed
 system surveys of the interdicted systems of Huad Yai, Yrfrzhielia and
@@ -4450,7 +4450,7 @@ tragically, far from the medical laboratory, a single vial of anagathics.
 
 The ship holds a jump net capable of doubling capacity for a single
 parsec jump, allowing hauling of up to 400 tons of additional cargo, or
-fuel tanks to extend the ship’s range, theoretically allowing a transit of
+fuel tanks to extend the ship's range, theoretically allowing a transit of
 up to six or seven parsecs on fumes and frayed nerves. The advanced
 probe drones are non-standard. There are actually only 14, as the
 one named Lorn was lost in a volcano. Four of the probes have no
@@ -4474,7 +4474,7 @@ be detached and setting down with ring flat or parallel to the ground,
 
 resting on the drive pods. This will always require an additional DM-2
 for Pilot checks and attempts will result in a strongly worded protest
-from the ship’s Intellect.
+from the ship's Intellect.
 
 Quirks applying to the Astrogon are
 •  Upgraded sensors
@@ -4488,7 +4488,7 @@ Quirks applying to the Astrogon are
 •  DM-1 to all repair attempts
 
 The latter two quirks cannot be resolved. They are now inherent in
-the ship’s design, although 10 years of service aboard the Astrogon
+the ship's design, although 10 years of service aboard the Astrogon
 will remove the repair DM for that individual. The hull and power plant
 can be repaired as explained in the Ramona Raskin patron encounter.
 The power plant could temporarily operate at a full Power 180 but this
@@ -4562,8 +4562,8 @@ Jump Net (400 tons) 4 1.2
 Biosphere (life support for 12) 6 1.2
 Library 4 4
 Workshop 6 0.9
-Ship’s Brain Interface (retrofit) — 3.2
-Ship’s Brain 1
+Ship's Brain Interface (retrofit) — 3.2
+Ship's Brain 1
 ```
 
 Craft Docking Space (40 tons) 44 11
@@ -4778,14 +4778,14 @@ MINNOW SLOW PINNACE
 The Minnow has a personality all of its own. The ship is accustomed
 to autonomous operations, such as gas giant skimming and starport
 landing operations, including loading and unloading cargo with
-the help of up to eight drones. With a ship’s brain operating at
+the help of up to eight drones. With a ship's brain operating at
 effective skill level 0, it approaches all tasks with caution, decreasing
 difficulty at the expense of time. In general, this attitude dominates
 its personality and it will express nervousness when any tasks
 performed by a biological crew are hazardous or rushed. The ship
 can fire the forward mounted pulse laser autonomously but prefers
 to flee from any fight, although it will obey orders to fight from
-Astrogon’s recognized owner and defend the starship and crew if
+Astrogon's recognized owner and defend the starship and crew if
 either are threatened. Solar panels allow for near infinite endurance
 if not manoeuvring and, combined with two emergency low berths
 and a high-tech autodoc, it can act as a long-term lifeboat for up to
@@ -4826,8 +4826,8 @@ Cabin Space x2 3 0.15
 Emergency Low Berths x2 2 2
 Solar Panels 0.5 0.05
 Autodoc (TL14) 0.5 1.0
-Ship’s Brain Interface (retrofit) — 0.32
-Ship’s Brain — 0.10
+Ship's Brain Interface (retrofit) — 0.32
+Ship's Brain — 0.10
 ```
 
 Software Maneuver0 — —
@@ -4920,11 +4920,11 @@ raft can reach orbital space within one to two hours and operate
 independently with its autopilot engaged, although it lacks any more
 intelligence than a drone. Its computer runs a locked copy of Digital
 Friend, with a personality that is chatty and overly polite. All seats but
-the driver’s are removable, allowing storage of up to 2.5 tons of cargo
-(1,250 kg or 5 Spaces of equipment). Buggy’s computer and robot brain
+the driver's are removable, allowing storage of up to 2.5 tons of cargo
+(1,250 kg or 5 Spaces of equipment). Buggy's computer and robot brain
 are tightly integrated. The robot brain includes external PRIS imagers
 and controls both Autopilot and Navigation equipment, rendering these
-features inoperable if Buggy’s brain is disabled or bypassed.
+features inoperable if Buggy's brain is disabled or bypassed.
 
 ```
 TL 12
@@ -4995,7 +4995,7 @@ Camouflage (Recon DM) —
 
 Stealth (Electronics (sensors) DM) —
 
-ASTROGON’S PROBE DRONES
+ASTROGON'S PROBE DRONES
 
 ```
 Robot Hits Locomotion Speed TL Cost
@@ -5057,13 +5057,13 @@ Speaker, Wireless Data Link
 
 #### Charted SpaceCharted Space
 
-##### The Spacer’s Union
+##### The Spacer's Union
 
 By Michael Bailey
 
 Although officially known as the Solomani Federation of Starship
 Crew and Worker Unions (SFSCWU), this organization is usually
-referred to as The Spacer’s Union (or simply The Union) throughout
+referred to as The Spacer's Union (or simply The Union) throughout
 the Solomani Confederation.
 
 Not all starship crews in the Solomani Confederation are union
@@ -5085,9 +5085,9 @@ Although associations and unions of starship crew are common
 throughout Solomani history, the origins of the SFSCWU are generally
 held to have started with efforts to organise starship labour in the
 Solomani Rim. This was done in the face of the increasingly pro-
-megacorp policies favoured by Emperor Zhakirov. The union was
+megacorp policies favored by Emperor Zhakirov. The union was
 resisted by the megacorps, as well as the larger sector-wide corporations
-operating in the Rim, resulting in the unions’ increased support of the
+operating in the Rim, resulting in the unions' increased support of the
 nascent Solomani separatist movement in the 8th and 9th centuries.
 
 Several unions signed the Solomani Charter in 871 and became
@@ -5107,7 +5107,7 @@ manifests largely as support for the Federalist and Co-existence
 factions of the party.
 
 ORGANISATION
-Much like the Solomani Confederation itself, the Spacer’s Union is an
+Much like the Solomani Confederation itself, the Spacer's Union is an
 amalgamation of regional and functional groups sharing similar goals.
 Union policy is set by the Federation Standing Committee, elected by
 member unions for five-year terms. The Standing Committee is also the
@@ -5117,7 +5117,7 @@ Confederation government.
 Below the Standing Committee, the union maintains official offices on
 high population worlds with Class A and B starports for the purposes
 of lobbying, liaison with member groups and promoting the union. The
-member organizations themselves carry out the bulk of the union’s work
+member organizations themselves carry out the bulk of the union's work
 and own most union assets.
 
 As of 1107, the union counts over 100 member organizations, some of
@@ -5132,14 +5132,14 @@ Transport (a point of some contention among its membership).
 Attempts to establish a presence in the Kukulkan subsector have
 been met with resistance by Crown Lines, which is wholly opposed
 to any unionization of its workforce.
-•  Spacer’s Union Jardin Chapter (SUJ) The union is not strong
+•  Spacer's Union Jardin Chapter (SUJ) The union is not strong
 in the Jardin subsector, where it is often the target of criticism
 and suppression from the local governments aligned with Jardin.
 Opposition is particularly harsh on Jardin itself, where membership is
 illegal, and many officials remain imprisoned.
 •  CrewAssistMutual Services (CAMS) CrewAssistMutual
 Services provides many functions that in the Imperium are
-marketed by the Travellers’ Aid Society. CAMS is a commercial
+marketed by the Travellers' Aid Society. CAMS is a commercial
 arm of the union and provides employment, legal, accommodation
 and financial services to both members and customers in the
 Solomani Rim and Alpha Crucis. It operates hotels, bars, clubs,
@@ -5154,14 +5154,14 @@ conservative reputation, the TEA also functions as an unofficial
 channel for the Solomani Party and SolSec to influence and
 interact with the union. Many members are also SolSec monitors
 (both outwardly and covert).
-•  Stella Aetheres (‘Star of the Skies’) Provides services
+•  Stella Aetheres ('Star of the Skies') Provides services
 to members throughout Alpha Crucis, particularly on Turin
 Consolidation member worlds. Stella Aetheres is operated by the
 Church of the True Cross.
 ```
 
 FUNCTIONS
-The Spacer’s Union is a diverse organization with many roles.
+The Spacer's Union is a diverse organization with many roles.
 Although primarily a vehicle for protecting the rights and privileges of
 starship crews in the Solomani Confederation, the union also provides
 advocacy, legal assistance, employment assistance and financial
@@ -5175,7 +5175,7 @@ Travellers in the Solomani Rim are highly likely to encounter union
 officials as patrons, contacts or adversaries. Travellers crewing
 starships may also be union members themselves and can engage
 union services to assist them in their endeavors. Union dues vary but
-are typically between one and two percent of the member’s salary.
+are typically between one and two percent of the member's salary.
 
 SAMPLE ENCOUNTERS
 •  The Travellers are contacted by CAMS for assistance in rescuing
@@ -5186,14 +5186,14 @@ so other measures are required. The official may have been
 attempting to organise on a world where the union is outlawed, run
 afoul of a hostile corporation or simply been in the wrong place at
 the wrong time.
-•  A union official is concerned that the SGS’ relationship with
+•  A union official is concerned that the SGS' relationship with
 Crown Lines has compromised the interests of its members. The
 Travellers are asked to investigate an SGS office in the Near
 Boötes Cluster and dig up any evidence of corruption or bad faith
 dealings (which may or may not actually exist).
-•  Union staff and members at a local ‘Crewman’s Rest’ may be a
+•  Union staff and members at a local 'Crewman's Rest' may be a
 valuable source of rumors and other information relevant to the
-Traveller’s current adventure.
+Traveller's current adventure.
 •  The union is attempting to quietly rebuild its influence in Imperial-
 held parts of the Solomani Rim. Sharurshid representatives have
 asked the Travellers to investigate attempts by employees in its
@@ -5217,10 +5217,10 @@ Required Skills Electronics (computers), Stealth
 Required Equipment Agent or Intrusion Software
 Reward Cr50000
 
-Mission Break into a defence systems manufacturer’s computers to
+Mission Break into a defence systems manufacturer's computers to
 determine shipping information
 
-Summary Urazargl Gnoezdanu, ‘call me Uraz’, is an emissary for the
+Summary Urazargl Gnoezdanu, 'call me Uraz', is an emissary for the
 Defenders of Peace, a Thoznaen-based non-governmental organization
 dedicated to the establishment and preservation of peace on Thoznaen.
 Supported, in part, by the neutral nation of Uthevagogha, the Defenders
@@ -5232,12 +5232,12 @@ internal divisions that Oksiz has been exploiting.
 Oksiz has secured an order for a shipment of Urrazdhuez grav sleds
 from Ongozzaen Arms, a local manufacturer of military vehicles.
 While Oksiz does not use Urrazdhuez grav sleds in its own military,
-the Kozvurrouk paramilitary militia does and Uraz believes Oksiz’s
+the Kozvurrouk paramilitary militia does and Uraz believes Oksiz's
 intelligence agency intends to use the vehicles in a false flag operation
 either to incite an incident to trigger war or foment turmoil between the
 Kozvurrouk paramilitaries and their main army.
 
-Uraz wants the Travellers to break into Ongozzaen Arms’ headquarters
+Uraz wants the Travellers to break into Ongozzaen Arms' headquarters
 in Uthevagogha City, access their protected manufacturing and
 shipping databases, and provide the information to Defenders of
 Peace who will then publish the data and try to prevent the sale from
@@ -5248,19 +5248,19 @@ assuming they remain undetected in their efforts.
 
 The headquarters is in a 50-storey office tower in Uthevagogha City
 with shared tenancy. Ongozzaen Arms occupies the top 10 floors,
-with a data centre located on floor 47, although access to the required
+with a data center located on floor 47, although access to the required
 information should be available from any terminal within the office
 space. Electromagnetic shielding prevents remote access to any of the
 secure terminals.
 
-Referee’s Information
+Referee's Information
 1 All is as stated. Ongozzaen Arms relies on electronic building
 security and surveillance. Access to the lobby is unrestricted but to
 use the elevators, a visitor must be escorted or pass through a TL12
 biometric scan. Spoofing the elevator system scan requires direct
 access to the panel and a successful Very Difficult (12+) Electronics
 (computers) check (1D rounds, INT). Success will generate a false
-positive match. The scanner is optimised to recognize Vargr, granting
+positive match. The scanner is optimized to recognize Vargr, granting
 DM+2 to attempts for non-Vargr to pass. The elevator security system
 could be remotely accessed by a hacker but the attempt becomes
 Formidable (14+). Any failure will trigger an alert to law enforcement,
@@ -5292,7 +5292,7 @@ Electronics (computers) check (1D minutes, INT).
 Once the information is extracted and provided to Uraz, the Defenders
 of Peace will publish the information to thwart the sale or at the very
 least compromise any false flag operation. Uraz will be able to keep the
-Traveller’s identity secret.
+Traveller's identity secret.
 
 2 As 1 but the internal system has a known bug, making privilege
 escalation an Average (8+) check. However, the building guards are
@@ -5302,14 +5302,14 @@ if attacked.
 3–4 As 1 but Uraz is an agent of the Kozvurrouk Secret Service. He
 will use the information to seize the shipment as it is being delivered,
 triggering an armed confrontation with Oksiz agents, although not a
-war. If the Oksiz government discovers the Traveller’s involvement,
+war. If the Oksiz government discovers the Traveller's involvement,
 they will be considered enemies of the state and hunted by an Oksiz hit
 team if they remain on Thoznaen or return within three years.
 
 5–6 As 2 but Uraz is an agent of the Oghuezvaz corsair band. He will
 use the information to hijack the shipment prior to its delivery, leaving
 evidence to frame the Travellers. The Oksiz government will assume
-the Travellers’ guilt and name them enemies of the state, assigning
+the Travellers' guilt and name them enemies of the state, assigning
 a hit team authorized to travel up to four parsecs from Thoznaen
 in pursuit of the Travellers, remaining active until recalled. This will
 occur after 1Dx6 months or in the event of a regime change in Oksiz,
@@ -5345,10 +5345,10 @@ aged Vargr with white streaks in his otherwise black fur. He
 maintains a dignified air in his speech but tends to use his
 hands to emphasise points. He is well-dressed to the point of
 flamboyance and has a typical Vargr love of bright colours,
-favouring shades of green, yellow and pink, often in paisley
+favoring shades of green, yellow and pink, often in paisley
 or floral patterns. Uraz walks with a distinct limp, rendering
 him unable to run for any distance, for which he blames an
-unspecified ‘boating accident’ in his youth. One ear is clearly
+unspecified 'boating accident' in his youth. One ear is clearly
 scarred, which he blames on the same incident, but any student
 of Vargr fighting styles is more likely to believe it was partially
 bitten off and inexpertly repaired.
@@ -5356,9 +5356,9 @@ bitten off and inexpertly repaired.
 Uraz has been an emissary for various organizations throughout
 his entire adult life and is comfortable working with Vargr, human
 and Aslan counterparts. A native of war-torn Thoznaen, Uraz has
-used methods, both legal and otherwise, to advance his clients’
+used methods, both legal and otherwise, to advance his clients'
 interests through non-violent means. Moral views of honesty and
-legality are somewhat adaptable in support of his clients’ goals.
+legality are somewhat adaptable in support of his clients' goals.
 
 His diplomatic techniques rely on making counterparts feel
 important and convincing them his goals are their ideas. While
@@ -5371,7 +5371,7 @@ into violence as failure and is determined to reach a peaceful
 resolution even if it occurs through intimidation, although his
 threats will always be indirect.
 
-Uraz loves to be the centre of attention but strives to bring either
+Uraz loves to be the center of attention but strives to bring either
 his clients or his counterparts into the spotlight with him. At social
 gatherings he is always working the crowd; introducing people to
 each other, praising their accomplishments, although often this is
@@ -5489,7 +5489,7 @@ of the planet. Due to its inability to fly it has evolved to be a trapper,
 subsisting mainly off of grubs and other insects that larger airborne
 creatures tend to ignore.
 
-Measuring roughly 11–16 centimetres in length, with mottled brown skin
+Measuring roughly 11–16 centimeters in length, with mottled brown skin
 and quills, it has few natural predators among the airborne creatures
 inhabiting the skies above. With a miniscule average weight of 0.4 kg it
 is able to maneuver with great skill, mostly due to its eight legs. These
@@ -5497,24 +5497,24 @@ allow it to gain traction within the trees it calls home, skittering around
 at a surprising speed.
 
 Thanks to their nocturnal activity the harlari developed a form of infra-
-red vision that allows them to see up to 20 metres. They have vision
+red vision that allows them to see up to 20 meters. They have vision
 enough to protect their nests against threats from above, as often they
 will be found in only small family groups consisting of a female and
-her two or three young with only the adult females’ quills as effective
+her two or three young with only the adult females' quills as effective
 defence. Making their nests in the larger boughs of the trees they are
 almost impossible to spot from above at night, although would be visi-
 ble from underneath in the daytime due to the size of the nest.
 
-With a back coated in quills of roughly three centimetres in length, the
+With a back coated in quills of roughly three centimeters in length, the
 harlari makes a fierce companion for any Traveller, should they be able
 to befriend one. The quill tips are coated in poison, perhaps an evolu-
 tionary result of the near extinction of the species. With barbed ends,
 they can easily become lodged within the skin or armor of someone
 attempting to capture or kill it. When threatened by something of signifi-
-cantly larger size, the harlari will either ‘shoot’ the quills at the offender
+cantly larger size, the harlari will either 'shoot' the quills at the offender
 or attempt to hide itself by blending in with the bough it is on.
 
-The species has two genders and reproduces by the male ‘fusing’ to the
+The species has two genders and reproduces by the male 'fusing' to the
 side of the female. The two then share blood circulation, with the male
 receiving nutrients from the female in return for impregnation. After the
 two have fused, the male quickly decomposes and the task of laying the
@@ -5563,7 +5563,7 @@ advertised, is made known. Hopefully, if the 208th fleet is ever recalled,
 this will deter any potential attackers.
 
 IDERATI SPACE DEFENCE SUBMARINE
-This compact, 50x7x12 metre, deep dive submarine is the
+This compact, 50x7x12 meter, deep dive submarine is the
 cornerstone of the Iderati space defence system. For a rich,
 environmentally conscious – some would say obsessed – planet
 covered by uninterrupted and deep oceans, it was easier to deploy
@@ -5579,16 +5579,16 @@ this reason, the bridge and battle stations are outfitted with gravity plates.
 For close defence the submarine has two torpedo batteries on pop-up
 hardpoints, capable of launching four torpedoes at a time each, as well
 as an anti-torpedo system based on gauss technology with specialized
-projectiles optimised for underwater use.
+projectiles optimized for underwater use.
 
 The underwater sensor suite is able to reliably detect stealth
-submersibles at up to 2,500 kilometres and often used to gather
+submersibles at up to 2,500 kilometers and often used to gather
 scientific data for the onboard laboratory. Above water sensors are
 supported by drones, capable of relaying data from the surface to the
 submarine hidden deep below, while relay options include optical cord
 
 or sonic commlink. The sensors themselves can detect targets up to
-5,000 kilometres away, although the meson bays still need input from
+5,000 kilometers away, although the meson bays still need input from
 external sources to track targets on the opposite side of the world.
 
 During wartime the submarine can stay in the deep for up to 400 days,
@@ -5621,7 +5621,7 @@ hangar space as possible, usually serving as a support craft on other
 vessels. With tight dimensions, it can be stacked efficiently.
 
 The craft uses fusion powered water jets for propulsion, achieving
-a respectable speed of 200 kilometres per hour in dense fluid. Only
+a respectable speed of 200 kilometers per hour in dense fluid. Only
 lightly armored and armed with torpedoes, with a gauss cannon for
 above surface offensive capabilities, the craft is also protected with a
 gauss-based anti-missile system and decoy dispenser; the craft is not
@@ -5842,38 +5842,38 @@ TRADE CLASSIFICATION
 Each world has trade codes that make it a more or less sought-after
 home, with higher or lower standards for incoming residents. The
 following modifiers are used
-● Agricultural DM+1
-● Barren, Desert, Industrial DM+2
-● Poor DM+4
-● Garden, Rich, Vacuum DM-4
+- Agricultural DM+1
+- Barren, Desert, Industrial DM+2
+- Poor DM+4
+- Garden, Rich, Vacuum DM-4
 
 SYSTEM MODIFIERS
 The following codes of the planetary profile apply the following modifiers
-● Population 4- DM-2
-● Population 9+ DM+1
-● Law Level 3- DM+1
-● Law Level 8+ DM-2
-● Government 2–4 DM-1
-● Government 11+ DM+1
+- Population 4- DM-2
+- Population 9+ DM+1
+- Law Level 3- DM+1
+- Law Level 8+ DM-2
+- Government 2–4 DM-1
+- Government 11+ DM+1
 
 TRAVELLER APPLICATION
 Finally the Traveller themselves may be more or less appealing to the
 government of their new home
-● EDU & SOC characteristic DMs
-● MCr10+ in hand DM+1
-● MCr100+ in hand DM+3
-● Skills DM+1 for each skill level of 3+
-● Career Rank 4-5 DM+1
-● Career Rank 6 DM+2
-● Prisoner DM-4 per term
-● Wanderer DM-2 per term
-● Ally of Current Citizen DM+1
-● Enemy of Current Citizen DM-1
-● Advocate + skill level
+- EDU & SOC characteristic DMs
+- MCr10+ in hand DM+1
+- MCr100+ in hand DM+3
+- Skills DM+1 for each skill level of 3+
+- Career Rank 4-5 DM+1
+- Career Rank 6 DM+2
+- Prisoner DM-4 per term
+- Wanderer DM-2 per term
+- Ally of Current Citizen DM+1
+- Enemy of Current Citizen DM-1
+- Advocate + skill level
 
 #### PatronPatron
 
-##### ‘Lightning’, Alien
+##### 'Lightning', Alien
 
 By Geir Lanesskog
 
@@ -5882,23 +5882,23 @@ Required Skills Admin, Advocate, Investigation or Electronics
 (computers)
 Reward Cr10000, free vehicle repair services for life, parts included
 
-Mission Find Lightning’s lost cousins and get them whatever help
+Mission Find Lightning's lost cousins and get them whatever help
 they need
 
 Summary Rupert Feather-Red-Bird Dark-Storm-Cloud is a Freni (see
 Spinward Extents, page 241) from the alien enclave in Rupert, on
-Baixing. He answers to the name ‘Lightning’. He is also empathetically
-‘not a chef’ but a master mechanic employed by the Freni-owned
+Baixing. He answers to the name 'Lightning'. He is also empathetically
+'not a chef' but a master mechanic employed by the Freni-owned
 repair shop Like It Never Happened in one of the seedier sections
 of Rupert not far from Rupert Down Starport, the main commercial
-downport on Baixing. Two of Lightning’s ‘cousins’ – members of the
+downport on Baixing. Two of Lightning's 'cousins' – members of the
 Rupert regional clan – are missing. Lightning wants the Travellers to
 help him locate his cousins and – depending on circumstances – get
 them out of whatever trouble they are in.
 
 The two cousins are Rupert Whistling-Reed-Symphony Water-Red-
-Frog and Rupert Orange-Grass-Wave Drops-Rain-Sheen, or ‘Frog’ and
-‘Sheen’, of the Red and Orange Freni subspecies, respectively. Despite
+Frog and Rupert Orange-Grass-Wave Drops-Rain-Sheen, or 'Frog' and
+'Sheen', of the Red and Orange Freni subspecies, respectively. Despite
 the term cousin, they are only distantly related to Lightning or each
 other. Lightning can show the Travellers a genealogy chart but it uses
 curves and coloured lines and is indecipherable to most non-Freni.
@@ -5915,25 +5915,25 @@ in filing a police report.
 If the Travellers require a vehicle, Lightning has access to a variety of
 grav vehicles from the shop, from bikes to air-rafts to grav buses but
 insists on flying them himself – for liability reasons. He is, in his words,
-‘not a terrible pilot’ but has no respect for traffic and parking regulations.
-As fines accrue and pop up on the vehicle’s display screen he will note
-‘good thing I’m not the registered owner’.
+'not a terrible pilot' but has no respect for traffic and parking regulations.
+As fines accrue and pop up on the vehicle's display screen he will note
+'good thing I'm not the registered owner'.
 
 Frog is a chef at Not a Turnip, a hole-in-the-wall – but very well-
 reviewed – Freni restaurant just a few blocks from the starport. Sheen
 works various gigs as anything from a labourer to a musician to a tour
 guide. Frog has not been at work or at home for seven Baixingian
-days (of 13.5 hours). Sheen’s last known address is Block 417, a sleep
+days (of 13.5 hours). Sheen's last known address is Block 417, a sleep
 cubical hostel housing a variety of aliens and some humans, and no
 one there has seen Sheen in eight Baixingian days.
 
-Lightning has contacts with seedier elements of Rupert’s Freni
+Lightning has contacts with seedier elements of Rupert's Freni
 community and can make introductions if needed. His contact with
 matriarchs within the formal Freni hierarchy are non-existent and by his
-own admission Lightning’s introductions would be counter-productive in
+own admission Lightning's introductions would be counter-productive in
 such situations.
 
-REFEREE’S INFORMATION
+REFEREE'S INFORMATION
 Roll 1D or choose from one of the options
 
 1–2 Frog and Sheen have been caught up in a sweep of anti-
@@ -5959,7 +5959,7 @@ Cr100 fine and sentence to attend 40 hours of re-education night
 classes to strengthen their understanding of Baixingian democracy.
 The Travellers can attempt to have all charges dropped with a Difficult
 (10+) Advocate or Persuade check. If attempting any approach other
-than Advocate, Lightning’s presence could alter the outcome as before.
+than Advocate, Lightning's presence could alter the outcome as before.
 An exceptional failure results in Frog and Sheen being charged with
 felonies. Convictions are nearly guaranteed in Baixingian courts and an
 accredited professional defence attorney is necessary to even attempt
@@ -5975,7 +5975,7 @@ day – and get six hours of free labour from Sheen.
 result in hybrid offspring and shame to their families. Their families have
 decided to prevent this by kidnapping the lovebirds and holding them
 separately at residences owned by their respective families in the Freni
-enclave’s apartment towers. This fact can be discovered with a Difficult
+enclave's apartment towers. This fact can be discovered with a Difficult
 (10+) Streetwise check (1D days, SOC) with DM-2 for non-Freni or by
 tracking address changes to their universal income accounts, which
 have reverted back to their respective families with a Difficult (10+)
@@ -6001,8 +6001,8 @@ and guaranteed 10 local year sentence for survivors of the firefight.
 If Frog and Sheen can be extracted, they need to leave the city. They
 had planned to flee to the Whitestar Highport in orbit as the Whitestar
 clan is much more tolerant of hybrids and likely to accept them. Rupert
-Down is only one or two kilometres from the family residences and only
-100 metres from Like It Never Happened and Not a Turnip. Departure
+Down is only one or two kilometers from the family residences and only
+100 meters from Like It Never Happened and Not a Turnip. Departure
 requires an exit visa. These are usually automatically granted but
 bureaucracy and background checks require 1D local days, during
 which time the families will be searching for them. Once the visas are
@@ -6031,27 +6031,27 @@ any task. Both speak Galanglic and Freni fluently (skill level 2) as a
 result of their upbringing on Baixing.
 
 If Lightning repairs any vehicle, he will do an excellent job, living up to
-his shop’s reputation. However, although the vehicle’s odometer will
-not reflect any excess travel, the vehicle’s registered owner will be
+his shop's reputation. However, although the vehicle's odometer will
+not reflect any excess travel, the vehicle's registered owner will be
 responsible for 1D random moving and parking violations.
 
 Rupert Feather-Red-Bird Dark-Storm-Cloud is a Freni hybrid neuter
 born and raised within the Freni enclave in the city of Rupert on
-Baixing. Dark-Storm-Cloud is his personal name but ‘you can call me
-Lightning’. He is short and thin with mangy orange-spotted fur and
+Baixing. Dark-Storm-Cloud is his personal name but 'you can call me
+Lightning'. He is short and thin with mangy orange-spotted fur and
 antennae that droop heavily but bounce when he speaks. Despite
 lack of gender, he insists on masculine pronouns. Unlike many Freni
 he speaks grammatically correct Galanglic, although often chooses
 adjectives that seem only marginally relevant. To breathe properly in
-Baixing’s thin atmosphere, he wears a weathered brown ‘breathing
-vest’ – essentially a sleeveless jacket with many pockets, a fringe of
+Baixing's thin atmosphere, he wears a weathered brown 'breathing
+vest' – essentially a sleeveless jacket with many pockets, a fringe of
 LED lights and a constant faint hissing indicating function.
 
 Lighting will remind everyone he is a mechanic and emphatically
-declare he is ‘not a chef’, refusing to cook, even for himself. He has
+declare he is 'not a chef', refusing to cook, even for himself. He has
 an instinctive approach to repairs and is a perfectionist, focused on
 the result, not the process or even the proper parts. He will improvise
-as necessary. Rupert likes grav vehicles and will always ‘test drive’
+as necessary. Rupert likes grav vehicles and will always 'test drive'
 them to ensure they handle properly. These test drives involve rides
 through the city, violating traffic regulations, although never intentionally
 endangering himself or others.
@@ -6059,7 +6059,7 @@ endangering himself or others.
 Lighting cannot shut up. He must have the last word and is
 contemptuous of the Freni culture, which brands him an outsider
 because of his hybrid birth. His employer is a hybrid, as are his co-
-workers. Frog and Sheen are his only ‘normal’ friends and he is
+workers. Frog and Sheen are his only 'normal' friends and he is
 extremely loyal to them.
 
 ###### RUPERT FEATHER-RED-BIRD DARK-STORM-CLOUDRUPERT FEATHER-RED-BIRD DARK-STORM-CLOUD
@@ -6106,7 +6106,7 @@ conspiracy theorists alike. The phenomenon was first documented
 three months ago when reports of distorted radio signals resembling
 speech patterns and, disturbingly, childlike distress, trickled in from
 vessels travelling close to the edge of the Black Zone. Since its
-appearance in interstellar media, it has been dubbed the ‘Bzat’ (BZ-AT)
+appearance in interstellar media, it has been dubbed the 'Bzat' (BZ-AT)
 by those who believe the stories.
 
 EXPERIENCES OF THE BZ-AT
@@ -6115,36 +6115,36 @@ conspiracy theories stemming from malfunctioning equipment.
 However, Takashi Drell, a cargo transporter under the employ of
 Kiriyama Logistics, claimed that he stumbled upon a chilling radio
 frequency during one of his assignments. In his words, the signal
-sounded like ‘two people shouting over each other in fluctuating keys,
-overlaid by weeping children’.
+sounded like 'two people shouting over each other in fluctuating keys,
+overlaid by weeping children'.
 
-Continuing he stated, ‘I lost the signal after a few seconds but I
+Continuing he stated, 'I lost the signal after a few seconds but I
 managed to triangulate its location and discovered a signature coming
 from just within the Black Zone. After jury-rigging a surveillance drone
 and sending it in, after a few days I got some low-quality recordings
 of what looked like a miniature Saturn but with a belt made up of
-destroyed ships. It was not a planet at the centre, though, it was
-something else. It was moving, writhing...’
+destroyed ships. It was not a planet at the center, though, it was
+something else. It was moving, writhing...'
 
 Tokashi neglected to elaborate on his findings and in a press release
 by Kiriyama Logistics the public was informed that the hauler had not
 since returned to work. Investigative journalist Rebecca Sholtz was
-dispatched to Tokashi’s residence in the hopes of following up on his
+dispatched to Tokashi's residence in the hopes of following up on his
 earlier interview. Upon arrival, she was surprised to be met with an
-overly welcoming reception that edged on ‘suspicious’, as if Tokashi
+overly welcoming reception that edged on 'suspicious', as if Tokashi
 was desperate to get her inside.
 
 The interior of his home was reportedly a canvas of deranged
 scribblings, paintings and unusual symbols etched onto every surface,
 with any form of natural light being completely blocked. According to
 linguistic experts, the carvings do not resemble any known language.
-Tokashi’s attitude during the interview was, according to Rebecca, off-
+Tokashi's attitude during the interview was, according to Rebecca, off-
 putting and made her feel incredibly uncomfortable.
 
 When asked to explain the alien symbols and patterns carved onto the
-walls, Tokashi replied, ‘Matter cannot be destroyed, only rearranged.
+walls, Tokashi replied, 'Matter cannot be destroyed, only rearranged.
 Recycled. Repurposed. Flesh breaks down but the energy remains. Can
-you hear it It’s like a song sometimes, and other times, a mere whisper.’
+you hear it It's like a song sometimes, and other times, a mere whisper.'
 
 In a separate instance, David Amos, a twice-prosecuted contraband
 smuggler turned conspiracy theorist, shared an equally disturbing audio
@@ -6152,15 +6152,15 @@ file on his livestream. Met with mixed responses, his viewers were split on
 the authenticity of the recording, with some believing it to be a marketing
 hoax for an upcoming horror movie. In later days, viewers reported that his
 stream had become more abstract and disturbing, with his commentary
-devolving into fevered rambling about the ‘music of creation’.
+devolving into fevered rambling about the 'music of creation'.
 
 EXPLORING THE BZ-AT
 Although far from going viral, there are pockets of ambitious salvagers
 and rag-tag spacers who have expressed interest in travelling to the
 starship graveyard. Amongst the remains of these ancient military and
 civilian vessels, brave treasure hunters may discover their fortune, or
-certain doom at the hands of whatever makes its home at the centre
-of the belt. Whilst more sceptical minds disregard Tokashi’s claims
+certain doom at the hands of whatever makes its home at the center
+of the belt. Whilst more sceptical minds disregard Tokashi's claims
 that the asteroid is a living entity, some are more open to the idea of
 an eldritch horror.
 
@@ -6189,16 +6189,16 @@ Moons Unknown
 
 Description Salvage Zone Omega #193 is a small planetoid orbited
 by a belt of starship debris from both human and alien vessels dating
-back to the Twilight War. Detailed records of the planetoid’s surface
+back to the Twilight War. Detailed records of the planetoid's surface
 area, radius, mass, length of day and moons are currently unavailable.
 
 Commissioned privateers, accompanied by Imperium researchers,
-have been dispatched to gather data on #193’s aforementioned
+have been dispatched to gather data on #193's aforementioned
 unknown specifications, suppress unsanctioned salvaging and recover
 materials from the debris. Information regarding the sentient nature of
 the planetoid is also to be determined.
 
-Welcome to the Journal of the Travellers’ Aid Society, your indispensable
+Welcome to the Journal of the Travellers' Aid Society, your indispensable
 guide to adventuring in the Far Future.
 
 Each volume is a treasure trove of information and game additions for
@@ -6212,10 +6212,10 @@ Amongst the many articles in Volume Seven, you will find
 - A Week in Jump - Exploring the not-normal
 - Acis The Devil You Know - One of the most continuously settled
     planets in all of the Dustbelt
-- Krungha Processing Ark - 465 million tons of spinning K’kree
+- Krungha Processing Ark - 465 million tons of spinning K'kree
     space-metal
 - Stellar Cartography - The universe from a different perspective
-- Patron ‘Lightning’, Alien – Also known as Rupert Feather-Red-
+- Patron 'Lightning', Alien – Also known as Rupert Feather-Red-
     Bird Dark-Storm-Cloud and he is not a Chef
 - The Black Zone Astro-Tomb - On the distant edge of Solomani
     Confederation Space, dark things lurk in the abyss
@@ -6236,14 +6236,14 @@ _Vol. 7_
 
 The
 
-_Vol. 7_ of the Travellers’ Aid Society
+_Vol. 7_ of the Travellers' Aid Society
 
 ```
 The
 ```
 
 ```
-of the Travellers’ Aid Society
+of the Travellers' Aid Society
 ```
 
 ## JJJournal
@@ -6255,7 +6255,7 @@ The
 ```
 
 ```
-of the Travellers’ Aid Society - Volume 7
+of the Travellers' Aid Society - Volume 7
 ```
 
 9 781913 076702

@@ -16,7 +16,7 @@ Jump map from [Travellermap.com](https://travellermap.com/go/Core/0910)
 **Tinea-Fabre** is a low-population world with a population of less than 10,000 sophonts in size.
 
 - This world has yet to take off economically or otherwise and the population remains low for reasons largely unknown.
-- It is a member of the [[Third Imperium]] in the [[Perite Subsector]] of [[Core Sector]] in the [[Domain of Sylea]]
+- It is a member of the [[Third Imperium]] in the [[Perite Subsector]] of [[[[Core sector]] ]] in the [[Domain of Sylea]]
 
 ## Description (Planetology)
 
@@ -42,7 +42,7 @@ Jump map from [Travellermap.com](https://travellermap.com/go/Core/0910)
 
 ## History & Background (Dossier)
 
-A low-population world in the [[Perite Subsector]] of the [[Core Sector]]
+A low-population world in the [[Perite Subsector]] of the [[[[Core sector]] ]]
 
 - The world is controlled by [[Alekvadin]]
 

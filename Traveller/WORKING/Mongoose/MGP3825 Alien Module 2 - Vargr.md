@@ -85,11 +85,11 @@ Index 180
 
 The Vargr are the only major race to have been uplifted by the Ancients, a fact that the Vargr are extremely proud of. They are typically seen by other races as aggressive pirates and scavengers but the Vargr actually have a diverse culture that is deeply rooted in their pack mentality and the desire for companionship, charisma and loyalty. Their constant struggle for charisma and leadership results in a culture fuelled by confl ict and change.
 
-In the Original Traveller Universe, the Vargr are one of the six races to have independently discovered jump drive technology. These races are commonly referred to as the six Major Races and some groups defi ne these races as the most powerful and dominant species within known space. The other major races are generally considered to be the Aslan, the Droyne, the Hivers, the K’kree and Humaniti (merging the Vilani, Solomani and Zhodani branches of the human race into one).
+In the Original Traveller Universe, the Vargr are one of the six races to have independently discovered jump drive technology. These races are commonly referred to as the six Major Races and some groups defi ne these races as the most powerful and dominant species within known space. The other major races are generally considered to be the Aslan, the Droyne, the Hivers, the K'kree and Humaniti (merging the Vilani, Solomani and Zhodani branches of the human race into one).
 
 The Vargr are the subject of this Traveller supplement. With it, the race can be incorporated into any and all aspects of Traveller. Whether the Vargr are to be used as Player Characters, Non- Player Characters, patrons, opponents or just as a backdrop against which adventures may take place, this supplement provides Referees and players with suffi cient information to deal with the Vargr as individual characters and as a culture.
 
-The Traveller Core Rulebook deals with characters as humans within an Imperial society, which is fairly comprehensible to most players. Outside that society, aliens are different in culture as well as physiology and a careful presentation of what shapes an alien’s character is necessary if players are to deal with or roleplay those aliens.
+The Traveller Core Rulebook deals with characters as humans within an Imperial society, which is fairly comprehensible to most players. Outside that society, aliens are different in culture as well as physiology and a careful presentation of what shapes an alien's character is necessary if players are to deal with or roleplay those aliens.
 
 Traveller players can fi nd any number of activities which include or deal with Vargr, whether inside the Imperium or beyond its borders. The Vargr Extents (the area of space dominated by the Vargr) is located coreward of the Imperium. This supplement also details Gvurrdon sector, a Vargr controlled sector located directly coreward of the Spinward Marches.
 
@@ -105,15 +105,15 @@ Vargr characters follow the same procedures and concepts as human character gene
 
 #### INITIAL CHARACTER GENERATION
 
-Creating a Vargr character is much the same process as creating a human, with a few notable changes. Vargr characters have six characteristics and Strength, Dexterity, Endurance, Intelligence and Education are the same as human characters. However, Vargr do not have the Social Standing characteristic; this is replaced by Charisma, which measures a character’s force of personality and infl uence over other Vargr.
+Creating a Vargr character is much the same process as creating a human, with a few notable changes. Vargr characters have six characteristics and Strength, Dexterity, Endurance, Intelligence and Education are the same as human characters. However, Vargr do not have the Social Standing characteristic; this is replaced by Charisma, which measures a character's force of personality and infl uence over other Vargr.
 
 There are a number of subspecies of Vargr as detailed on page 32 of the Vargr Race chapter. However, the vast majority are standard Vargr who tend to be slightly more dexterous than humans, but have less Strength and Endurance. Intelligence and Education are equivalent. Other subspecies are much more rare (many were outcast early in Vargr history) and they compare differently to humans as determined by their traits.
 
 To generate the fi rst fi ve characteristics for a Vargr, roll 2d6 fi ve times and allocate them as normal. These are then adjusted by the traits of the chosen subspecies (listed in the Subspecies table) so for a standard Vargr, Dexterity gains a +1 bonus, while Strength and Endurance both suffer a –1 penalty. The lower limit on characteristics is 1; the upper limit is 15 except for characteristics with the Notable trait, which have an upper limit of 16.
 
-A character’s starting Charisma is determined by rolling 1d6+2. Charisma rises and falls with the successes and failures of the character as detailed on page 33.
+A character's starting Charisma is determined by rolling 1d6+2. Charisma rises and falls with the successes and failures of the character as detailed on page 33.
 
-Traits All subspecies of Vargr have the Natural Weapon (bite) and Uplifted traits (see pages 41 and 42 of the Traveller Core Rulebook). They also have Notable and Weak characteristics depending on the subspecies. With the Referee’s permission players can roll or choose one of the Vargr subspecies as listed in the table, otherwise the character will be a standard Vargr. Further details of the Vargr subspecies can be found in the next chapter on page 32.
+Traits All subspecies of Vargr have the Natural Weapon (bite) and Uplifted traits (see pages 41 and 42 of the Traveller Core Rulebook). They also have Notable and Weak characteristics depending on the subspecies. With the Referee's permission players can roll or choose one of the Vargr subspecies as listed in the table, otherwise the character will be a standard Vargr. Further details of the Vargr subspecies can be found in the next chapter on page 32.
 
 All Vargr can use their teeth and claws in combat. Teeth do 1d6+1 damage. Vargr claws are not as effective as animal claws and deal standard unarmed damage of 1d6. Teeth and claws can both be used when attacks are made with the Melee
 (infi ghting) skill (see page 28 for details).
@@ -169,7 +169,7 @@ The Vargr military works differently to the Imperium and does not have commissio
 
 Mustering Out Benefi ts are granted at the end of career service, as per the standard rules.
 
-Vargr and Psionics Vargr characters have the same psionic potential as humans and the same rules apply. Players wishing to create a Vargr Psion must get the Referee’s permission and are advised to use the Psion career detailed on page 24. Psion careers from other books can be used to represent training gained on non- Vargr worlds but these characters should still use the Vargr Life Events table.
+Vargr and Psionics Vargr characters have the same psionic potential as humans and the same rules apply. Players wishing to create a Vargr Psion must get the Referee's permission and are advised to use the Psion career detailed on page 24. Psion careers from other books can be used to represent training gained on non- Vargr worlds but these characters should still use the Vargr Life Events table.
 
 Although Vargr have the same psionic potential as humans, the primary factor holding back the wide ranging use of psionics amongst the Vargr is the lack or organised research and training facilities. As a result of this, Vargr psions are uncommon in the Extents.
 
@@ -225,7 +225,7 @@ CAREERS
 
 #### ARMY
 
-The army includes all members of a government’s planetary armed fi ghting forces. Soldiers deal with planetary surface actions, battles and campaigns. Such individuals may also be mercenaries for hire.
+The army includes all members of a government's planetary armed fi ghting forces. Soldiers deal with planetary surface actions, battles and campaigns. Such individuals may also be mercenaries for hire.
 
 Enlistment: Charisma 6+
 
@@ -289,7 +289,7 @@ EVENTS
 | 8 You receive advanced training. Roll Education 8+ to increase any one skill you already have by one level.
 | 9 Surrounded by a superior enemy, you hold out until relief arrives. Gain +1 to your next Advancement roll or +1 Charisma.
 | 10 You are assigned to a peacekeeping role. Gain one of Admin 1, Investigate 1, Recon 1 or +1 Charisma.
-| 11 You save your pack leader’s life in battle. Gain him as an Ally and receive a +2 DM to your next Advancement roll.
+| 11 You save your pack leader's life in battle. Gain him as an Ally and receive a +2 DM to your next Advancement roll.
 | 12 You perform a heroic deed in battle. Gain 1 Charisma and an automatic promotion.
 
 RANKS AND SKILLS
@@ -354,7 +354,7 @@ Assignments: Choose one of the following:
   band, specialising in boarding and looting ships.
 - Pilot: You are one of the pilots or navigators in your corsair
   band.
-- Reaver: You are part of the ship’s crew and function as an
+- Reaver: You are part of the ship's crew and function as an
   engineer, gunner or other supporting role.
 
 SKILLS AND TRAINING
@@ -407,7 +407,7 @@ MISHAPS
 
 EVENTS
 
-2d6 Events 2 Disaster! Roll on the Mishaps table, but you are not ejected from this career. 3 Negotiations are going badly. You can either cut your losses and lose 1 Charisma or roll Broker, Diplomat or Persuade 10+. If you fail you lose 1 Charisma, one Benefi t roll and suffer a –2 DM to your next Advancement roll. If you succeed, gain 1 Charisma and a +2 DM to your next Advancement roll. 4 You successfully negotiate a diffi cult situation and are rewarded. You gain a +1 DM to one Benefi t roll. 5 Through your many dealings and negotiations you have met many infl uential people. Roll Charisma 8+ to gain an Ally. If you fail you gain a Contact instead. 6 You are given advanced training. Roll Education 8+ to gain any skill you are eligible for in this career. 7 Life Event. Roll on the Life Events table. 8 Your dedication and diligence to your career earns you one of Advocate 1, Broker 1 or Diplomacy 1. 9 During some high stake negotiations, a charismatic pack leader from the opposing side offers you a lucrative deal to switch sides. If you accept gain one Benefi t roll and your previous employer becomes a Rival. If you refuse, your current employer becomes an Ally and you gain +2 to your next Survival roll. 10 Your continued success has earned you much respect from your pack. Roll Charisma 10+ to become pack leader and gain an automatic promotion. 11 Your successful career has placed you in a favourable position. Gain one Benefi t roll or +4 DM to your next Advancement roll. 12 You have done exemplary work for your pack and organization. Gain an automatic promotion and +1 Charisma.
+2d6 Events 2 Disaster! Roll on the Mishaps table, but you are not ejected from this career. 3 Negotiations are going badly. You can either cut your losses and lose 1 Charisma or roll Broker, Diplomat or Persuade 10+. If you fail you lose 1 Charisma, one Benefi t roll and suffer a –2 DM to your next Advancement roll. If you succeed, gain 1 Charisma and a +2 DM to your next Advancement roll. 4 You successfully negotiate a diffi cult situation and are rewarded. You gain a +1 DM to one Benefi t roll. 5 Through your many dealings and negotiations you have met many infl uential people. Roll Charisma 8+ to gain an Ally. If you fail you gain a Contact instead. 6 You are given advanced training. Roll Education 8+ to gain any skill you are eligible for in this career. 7 Life Event. Roll on the Life Events table. 8 Your dedication and diligence to your career earns you one of Advocate 1, Broker 1 or Diplomacy 1. 9 During some high stake negotiations, a charismatic pack leader from the opposing side offers you a lucrative deal to switch sides. If you accept gain one Benefi t roll and your previous employer becomes a Rival. If you refuse, your current employer becomes an Ally and you gain +2 to your next Survival roll. 10 Your continued success has earned you much respect from your pack. Roll Charisma 10+ to become pack leader and gain an automatic promotion. 11 Your successful career has placed you in a favorable position. Gain one Benefi t roll or +4 DM to your next Advancement roll. 12 You have done exemplary work for your pack and organization. Gain an automatic promotion and +1 Charisma.
 
 RANKS AND SKILLS
 
@@ -476,7 +476,7 @@ MISHAPS
 
 EVENTS
 
-2d6 Events 2 Disaster! Roll on the Mishaps table, but you are not ejected from this career. 3 A patron offers you a job. If you accept the offer you gain a +4 DM to your next Qualifi cation roll and gain him as a Contact. 4 Your independence has forced you to rely on your own specialist skills. Roll Edu 6+ to gain one skill from your specialist skill table. 5 Your self-reliance allows you to adapt to all situations. Gain the Jack of all Trades skill. 6 You are boarded or attacked by a corsair band but you have nothing of value. Roll Charisma 6+. If you succeed, the Corsairs will offer you a position in their band and you automatically qualify for that career. If you fail the roll or refuse their offer, roll on the Injury table. 7 Life Event. Roll on the Vargr Life Events table (page 28). 8 You fi nd some salvage or abandoned goods on your travels. Gain one Benefi t roll. 9 You have a successful expedition. Gain a +1 DM to one Benefi t roll for this career. 10 You thrive on adversity and learn the wisdom of the old saying ‘What doesn’t kill you will only make you stronger’. Roll Survival 8+. If you succeed, gain +1 to any physical characteristic. If you fail, roll on the Injury table. 11 You excel at your career. Gain a +2 DM to your next Survival roll and a +2 DM to your next Advancement roll. 12 You hit the mother lode. You are automatically promoted and gain 1 Charisma.
+2d6 Events 2 Disaster! Roll on the Mishaps table, but you are not ejected from this career. 3 A patron offers you a job. If you accept the offer you gain a +4 DM to your next Qualifi cation roll and gain him as a Contact. 4 Your independence has forced you to rely on your own specialist skills. Roll Edu 6+ to gain one skill from your specialist skill table. 5 Your self-reliance allows you to adapt to all situations. Gain the Jack of all Trades skill. 6 You are boarded or attacked by a corsair band but you have nothing of value. Roll Charisma 6+. If you succeed, the Corsairs will offer you a position in their band and you automatically qualify for that career. If you fail the roll or refuse their offer, roll on the Injury table. 7 Life Event. Roll on the Vargr Life Events table (page 28). 8 You fi nd some salvage or abandoned goods on your travels. Gain one Benefi t roll. 9 You have a successful expedition. Gain a +1 DM to one Benefi t roll for this career. 10 You thrive on adversity and learn the wisdom of the old saying 'What doesn't kill you will only make you stronger'. Roll Survival 8+. If you succeed, gain +1 to any physical characteristic. If you fail, roll on the Injury table. 11 You excel at your career. Gain a +2 DM to your next Survival roll and a +2 DM to your next Advancement roll. 12 You hit the mother lode. You are automatically promoted and gain 1 Charisma.
 
 RANKS AND SKILLS
 
@@ -484,7 +484,7 @@ Rank Hunter Skill or Benefi t Prospector Skill or Benefi t Explorer Skill or Ben
 
 #### MARINES
 
-Marines are members of a government’s armed fi ghting forces that are carried onboard starships. Marines deal with piracy and boarding actions in space, defend the starports and bases belonging to the navy and supplement ground forces such as the army.
+Marines are members of a government's armed fi ghting forces that are carried onboard starships. Marines deal with piracy and boarding actions in space, defend the starports and bases belonging to the navy and supplement ground forces such as the army.
 
 Enlistment: Charisma 7+
 
@@ -567,7 +567,7 @@ Rank Junk Dealer Skill or Benefi t Scrounger Skill or Benefi t Free Trader Skill
 
 #### NAVY
 
-The navy includes all members of a government’s interstellar navy that patrols space between the stars. The navy is responsible for protecting society from foreign powers and the lawless elements within their territories.
+The navy includes all members of a government's interstellar navy that patrols space between the stars. The navy is responsible for protecting society from foreign powers and the lawless elements within their territories.
 
 Enlistment: Charisma 8+
 
@@ -586,7 +586,7 @@ Roll Personal Development Service Skills Advanced Education (Minimum Edu 8) 1 +1
 
 Pilot Crew Engineer Survival Dex 7+ Int 5+ Int 6+ Advancement Cha 7+ Cha 6+ Cha 5+
 
-MUSTERING-OUT BENEFITS Roll Cash Other Benefi ts 1 1,000 Blade 2 2,000 Armor 3 5,000 Air/Raft or one Ship Share 4 7,500 Ally 5 10,000 Weapon 6 25,000 +1 Charisma 7 50,000 Ship’s Boat or two Ship Shares
+MUSTERING-OUT BENEFITS Roll Cash Other Benefi ts 1 1,000 Blade 2 2,000 Armor 3 5,000 Air/Raft or one Ship Share 4 7,500 Ally 5 10,000 Weapon 6 25,000 +1 Charisma 7 50,000 Ship's Boat or two Ship Shares
 
 MISHAPS
 
@@ -629,7 +629,7 @@ Roll Specialist: Wild Talent Specialist: Mentored Specialist: Institute 1 Awaren
 
 MISHAPS
 
-1d6 Mishap 1 Injured. Roll on the Injury table. 2 You make telepathic contact with an unknown entity. You go missing for 1d6 days and have no memory of the event. If the roll for number of days was 5–6 you also lose 1 Psionic Strength. 3 Your pack discovers you are a psion and they do not look favourably on your kind. You are humiliated and outcast from the pack and the community. You lose 1 Charisma and your next Survival roll suffers a –2 DM penalty. 4 You visit a world where psionics are outlawed. You are arrested and your time in prison forces you to leave this career. 5 You join a pack of other psions and lose the power struggle for leadership. Gain a Rival. 6 You are experimented on by a corporation, government or psionic institute. Roll 1d6. On a 1–2 you suffer an injury; roll on the Injury table. On a 3–4 you lose 1 Psionic Strength. On a 5–6 there are no complications but you are forced to leave this career.
+1d6 Mishap 1 Injured. Roll on the Injury table. 2 You make telepathic contact with an unknown entity. You go missing for 1d6 days and have no memory of the event. If the roll for number of days was 5–6 you also lose 1 Psionic Strength. 3 Your pack discovers you are a psion and they do not look favorably on your kind. You are humiliated and outcast from the pack and the community. You lose 1 Charisma and your next Survival roll suffers a –2 DM penalty. 4 You visit a world where psionics are outlawed. You are arrested and your time in prison forces you to leave this career. 5 You join a pack of other psions and lose the power struggle for leadership. Gain a Rival. 6 You are experimented on by a corporation, government or psionic institute. Roll 1d6. On a 1–2 you suffer an injury; roll on the Injury table. On a 3–4 you lose 1 Psionic Strength. On a 5–6 there are no complications but you are forced to leave this career.
 
 EVENTS
 
@@ -709,11 +709,11 @@ Searching for mineral deposits: Intelligence, 1–6 hours, Average
 
 #### VARGR LIFE EVENTS
 
-The life events of a Vargr character are similar to those of a human with the addition of pack events. The pack is an important part of a Vargr’s life and events that affect the pack will often impact on the character.
+The life events of a Vargr character are similar to those of a human with the addition of pack events. The pack is an important part of a Vargr's life and events that affect the pack will often impact on the character.
 
-PACK EVENTS These events affect the character’s pack and their position within the group.
+PACK EVENTS These events affect the character's pack and their position within the group.
 
-1d6 Event 1 Failure: Your failure causes a serious problem for your pack such as the loss of a well paid job or the death of a pack member. Your Charisma is reduced by 1. If you are the leader, your pack will look to new leadership until you can redeem yourself. 2 Leave Pack: A change of situation, disagreement or lack of leadership forces you to leave your pack and your job. If you are not in any other packs, roll Charisma 6+ to fi nd another job or you are ejected from your career. 3 Join Pack: You join a new pack. This can be a change of job or employer within your career, or you become involved with another group such as a religion or recreational group. 4 Power Struggle: The leader of your pack does not live up to the reputation his Charisma suggested and you look to other members to replace him. Roll 1d6. On a roll of 1–3 the current leader keeps his position; gain a Rival. On a roll of 4–6 a new leader takes charge of the pack; gain an Ally. 5 Success: You are successful at a particularly diffi cult task and exceed all expectations. Gain 1 Charisma. 6 Leadership Challenge: The leader of your pack fails in his role and the pack looks to a new leader. Roll Leadership or Charisma 10+ to become the pack’s new leader. If you fail another member is chosen and you gain a Rival.
+1d6 Event 1 Failure: Your failure causes a serious problem for your pack such as the loss of a well paid job or the death of a pack member. Your Charisma is reduced by 1. If you are the leader, your pack will look to new leadership until you can redeem yourself. 2 Leave Pack: A change of situation, disagreement or lack of leadership forces you to leave your pack and your job. If you are not in any other packs, roll Charisma 6+ to fi nd another job or you are ejected from your career. 3 Join Pack: You join a new pack. This can be a change of job or employer within your career, or you become involved with another group such as a religion or recreational group. 4 Power Struggle: The leader of your pack does not live up to the reputation his Charisma suggested and you look to other members to replace him. Roll 1d6. On a roll of 1–3 the current leader keeps his position; gain a Rival. On a roll of 4–6 a new leader takes charge of the pack; gain an Ally. 5 Success: You are successful at a particularly diffi cult task and exceed all expectations. Gain 1 Charisma. 6 Leadership Challenge: The leader of your pack fails in his role and the pack looks to a new leader. Roll Leadership or Charisma 10+ to become the pack's new leader. If you fail another member is chosen and you gain a Rival.
 
 LIFE EVENTS
 
@@ -725,12 +725,12 @@ The Vargr are a race of intelligent beings; they are unique amongst the major ra
 
 The Vargr are descended from carnivore/chaser stock; genetically engineered by the Ancients circa –300,000 from the genus Canis. The carnivores were transplanted from Terra to Lair/Grnouf in the Provence sector. Although the Vargr were artifi cially developed, a certain amount of evolution and natural selection took place as the species adapted to the conditions on Lair without further manipulation by the Ancients.
 
-Male Vargr typically weigh 60 kilograms and stand 1.6 metres high. Females tend to be smaller and average 1.5 metres in height and weigh 55 kilograms.
+Male Vargr typically weigh 60 kilograms and stand 1.6 meters high. Females tend to be smaller and average 1.5 meters in height and weigh 55 kilograms.
 
 The Vargr bear a close resemblance to their canine ancestry, as can be seen by their muzzle, tail and fur. The latter covers their entire body and can be found in a variety of colours. The most common colour is grey but it is not uncommon to see Vargr with brown, black or even red fur. Fur colour is partly determined by climate with those from colder regions displaying a greater variety of colours than those from warmer climates. Parents from different climates will often result in their offspring having patterned fur with the stronger bloodline being the most dominant colour. Tail characteristics such as length and bushiness also vary greatly between Vargr from different ethnic backgrounds.
 
 Several anatomical modifi cations were made by the Ancients to the canine body structure, the most signifi cant being the stance, forepaws and muzzle. Vargr adopt a digitigrade stance (putting their weight on their toes rather than the soles of their feet) and many have a slight stoop although most Vargr would say it is a
-‘relaxed stance’. Vargr hands are similar in size and functionality to human hands but the internal structure is quite different and unique to the Vargr. Muzzles are shorter than that of their canine ancestors, which is largely due to dietary considerations.
+'relaxed stance'. Vargr hands are similar in size and functionality to human hands but the internal structure is quite different and unique to the Vargr. Muzzles are shorter than that of their canine ancestors, which is largely due to dietary considerations.
 
 Three hundred thousand years of evolution on Lair resulted in the Vargr adapting to the 26 hour rotation of their homeworld and this circadian rhythm is shared by all Vargr. However, the Vargr remain extremely fl exible in their sleeping habits adopting a polyurnal sleep pattern where they prefer to sleep several times a day for short periods rather than one single long sleep period.
 
@@ -759,7 +759,7 @@ Selective breeding of livestock was also undertaken to improve local food and ma
 
 their senses develop. Vargr females are able to conceive soon after giving birth but will rarely do so until their pups are old enough to take care of themselves at the age of six.
 
-Vargr share the same senses as humans but they tend to be more acute. Olfactory receptors develop very quickly to compensate for a pup’s lack of sight and sound, resulting in a keen sense of smell that Vargr use to recognize each other. Vargr hearing is also much better than a human’s, able to detect a greater range of frequencies over longer distances; humans are more sensitive to low frequencies and Vargr are able to hear high frequency sounds that are inaudible to humans. Vargr eyesight is sharp but less sensitive to colour than human eyes and is less effective in dark conditions.
+Vargr share the same senses as humans but they tend to be more acute. Olfactory receptors develop very quickly to compensate for a pup's lack of sight and sound, resulting in a keen sense of smell that Vargr use to recognize each other. Vargr hearing is also much better than a human's, able to detect a greater range of frequencies over longer distances; humans are more sensitive to low frequencies and Vargr are able to hear high frequency sounds that are inaudible to humans. Vargr eyesight is sharp but less sensitive to colour than human eyes and is less effective in dark conditions.
 
 Lifespan Vargr living in industrial areas usually live for 65 to 75 years. Pre-industrial Vargr have a shorter lifespan due to poor living or environmental conditions and a lack of medical advances. The lifespan for Vargr in higher technological cultures is increased with advancements in anagathics and medical treatment.
 
@@ -769,7 +769,7 @@ Roth Thokken: This subspecies settled in Angfutsag sector and although they look
 
 The Vargr are a dynamic people, their governments and businesses are constantly changing with the loyalties and goals of individual Vargr. Many humans see this as anarchic but this is not the case at all. Vargr society is deeply rooted in charisma, loyalty, racial pride and the need for companionship and approval.
 
-Genetic Instinct In addition to many of the physical features of their canine ancestors, the Vargr have also inherited some of the behavioural traits as well; few Vargr are aware of how deeply rooted these traits are in their subconscious. Pre-sentient canines constantly crave approval, much more so than humans and most other races. This can be seen in nature where wild dogs or wolves seek approval from the pack’s leader. This cooperative nature greatly improves their chance of survival. Likewise, domestic canines seek approval from their master, which makes them very loyal and easy to train.
+Genetic Instinct In addition to many of the physical features of their canine ancestors, the Vargr have also inherited some of the behavioural traits as well; few Vargr are aware of how deeply rooted these traits are in their subconscious. Pre-sentient canines constantly crave approval, much more so than humans and most other races. This can be seen in nature where wild dogs or wolves seek approval from the pack's leader. This cooperative nature greatly improves their chance of survival. Likewise, domestic canines seek approval from their master, which makes them very loyal and easy to train.
 
 It was these qualities that the Ancients wanted to exploit, genetically engineering the genus Canis to be intelligent beings to serve the needs of the Ancients. The canine traits are so strong in the Vargr that they have changed little in the evolution of the species, which is evident in the behaviour of all Vargr today.
 
@@ -777,21 +777,21 @@ Packs The genetic instinct of the Vargr is most evident in the pack culture of t
 
 Vargr packs vary greatly in form and function. Some common types of pack include the family pack, businesses, religions, recreational groups, governments, military units and the infamous corsair bands. Most Vargr belong to several packs, loyal to each one for different reasons and proud to have many commitments and loyal brethren.
 
-Subspecies A little known fact to most outsiders is the number of Vargr subspecies that exist within the Extents. Most of these ethnic minorities were seen as deviations from the ‘perfected’ Vargr race developed by the Ancients and were the victims of prejudice and racial abuse that prompted many of them to leave Vargr society and settle in the unpopulated regions of Vargr space. Most of these subspecies remain unknown to the Imperium and even Vargr knowledge is limited since the subspecies were outcast from Vargr society so long ago.
+Subspecies A little known fact to most outsiders is the number of Vargr subspecies that exist within the Extents. Most of these ethnic minorities were seen as deviations from the 'perfected' Vargr race developed by the Ancients and were the victims of prejudice and racial abuse that prompted many of them to leave Vargr society and settle in the unpopulated regions of Vargr space. Most of these subspecies remain unknown to the Imperium and even Vargr knowledge is limited since the subspecies were outcast from Vargr society so long ago.
 
 The game mechanics for the subspecies listed here can be found on page 3 of the Character Creation chapter.
 
-Urzaeng: The Urzaeng are one of the few subspecies known to the Imperium and the only subspecies that were not outcast by Vargr society due to their superior physical prowess. Urzaeng average 1.85 metres in height and weigh 70 kilograms. They are more powerfully built than the average human and are physically a match against an adult Aslan. The Urzaeng were originally bred by the Ancients for heavy labour and combat so their increased physical prowess comes at a cost to their mental characteristics. This has resulted in the Urzaeng being a naturally violent people with contempt for weakness.
+Urzaeng: The Urzaeng are one of the few subspecies known to the Imperium and the only subspecies that were not outcast by Vargr society due to their superior physical prowess. Urzaeng average 1.85 meters in height and weigh 70 kilograms. They are more powerfully built than the average human and are physically a match against an adult Aslan. The Urzaeng were originally bred by the Ancients for heavy labour and combat so their increased physical prowess comes at a cost to their mental characteristics. This has resulted in the Urzaeng being a naturally violent people with contempt for weakness.
 
-Kokasha: The Kokasha are all but extinct now and those that remain live in a refuge in Rukhs Dall (known as Trenchans sector in the Imperium). They are the smallest of the subspecies and were engineered by the Ancients to have heightened mental faculties at the expense of their physical attributes. Kokasha are typically 1.45 metres high and weigh 50 kilograms. Females are slightly smaller averaging 1.4 metres high and weighing 45 kilograms.
+Kokasha: The Kokasha are all but extinct now and those that remain live in a refuge in Rukhs Dall (known as Trenchans sector in the Imperium). They are the smallest of the subspecies and were engineered by the Ancients to have heightened mental faculties at the expense of their physical attributes. Kokasha are typically 1.45 meters high and weigh 50 kilograms. Females are slightly smaller averaging 1.4 meters high and weighing 45 kilograms.
 
 Akumgeda: Like most other subspecies of Vargr, the Akumgeda fl ed Lair after their people were ostracised by the majority of the Vargr population. The Akumgeda settled on a number of worlds in Ksinanirz sector and although some of these settlements still exist, many of the packs reintegrated with their brethren as the Vargr expanded throughout the Extents.
 
-The Akumgeda appear much like normal Vargr but they tend to have spotted fur. Although unusual, spots are not unknown and the Akumgeda found it easy to blend in with ‘normal Vargr’ unnoticed. What set the Akumgeda apart was their strong psionic ability. Some Vargr postulate that the standard Vargr species only developed psionic powers since the Akumgeda reintegrated with Vargr society but there is no evidence to support this.
+The Akumgeda appear much like normal Vargr but they tend to have spotted fur. Although unusual, spots are not unknown and the Akumgeda found it easy to blend in with 'normal Vargr' unnoticed. What set the Akumgeda apart was their strong psionic ability. Some Vargr postulate that the standard Vargr species only developed psionic powers since the Akumgeda reintegrated with Vargr society but there is no evidence to support this.
 
-Nakagun: This outcast subspecies live in exile in Nakagun sector and are known to possess strange psionic powers. Males and females are similar in size averaging 1.5 metres in height and weighing 55 kilograms. Little else is known of this group since they fl ed from Lair over a thousand years ago.
+Nakagun: This outcast subspecies live in exile in Nakagun sector and are known to possess strange psionic powers. Males and females are similar in size averaging 1.5 meters in height and weighing 55 kilograms. Little else is known of this group since they fl ed from Lair over a thousand years ago.
 
-Gaining & Losing Charisma A Vargr character’s Charisma can change during the course of the game as long as they are responsible for the success or failure of any given task; if a character is using their initiative and making choices, the outcome of those decisions can raise or lower their Charisma. For example, a pilot who misjumps due to a damaged jump drive would not be responsible for the failure, whereas a pilot who destroys a superior vessel due to clever thinking and good piloting would be responsible for the success and therefore would have a chance to increase their Charisma.
+Gaining & Losing Charisma A Vargr character's Charisma can change during the course of the game as long as they are responsible for the success or failure of any given task; if a character is using their initiative and making choices, the outcome of those decisions can raise or lower their Charisma. For example, a pilot who misjumps due to a damaged jump drive would not be responsible for the failure, whereas a pilot who destroys a superior vessel due to clever thinking and good piloting would be responsible for the success and therefore would have a chance to increase their Charisma.
 
 Charisma Gain: Providing the character is responsible for a noteworthy success where they have shown initiative or completed a task against diffi cult odds, the character makes a Diffi cult (–2 DM) Charisma check. If successful, they increase their Charisma by 1.
 
@@ -805,7 +805,7 @@ The pack mentality of the Vargr means that they require leadership in order to f
 
 A pack leader who is stripped of his position must reduce their Charisma by 1 without making a Charisma or Leadership check. This reduction is in addition to the Charisma loss of the failure itself.
 
-Individuality is still important within the pack and each member strives to become the most dominant within the group. This contest for leadership is based on an individual’s charisma and infl uence. Even though members of a pack are competitive, the good of the pack comes fi rst and members know that they can always count on their peers for assistance, companionship and support in times of need.
+Individuality is still important within the pack and each member strives to become the most dominant within the group. This contest for leadership is based on an individual's charisma and infl uence. Even though members of a pack are competitive, the good of the pack comes fi rst and members know that they can always count on their peers for assistance, companionship and support in times of need.
 
 Large organizations usually consist of several packs divided by their roles or specialities. Where several packs exist in a single organization, a hierarchy exists where the leader of each one answers to the primary pack. This takes power struggles to new levels as individuals not only compete for dominance within their
 
@@ -814,7 +814,7 @@ NON-VARGR CHARISMA For situations where humans or other races are interacting wi
 
 own pack but with other packs in the organization – a leader of one pack might seek to become the leader of another or he may try to make his pack more dominant within the organization.
 
-Charisma & Loyalty At the heart of Vargr psychology is the concept of charisma, which the Vargr defi ne as an individual’s prestige and force of personality that attracts other Vargr. This, combined with the pack mentality, is the foundation for Vargr society and the driving force behind their constant change in leadership, whether in a pack of scavengers or the local government.
+Charisma & Loyalty At the heart of Vargr psychology is the concept of charisma, which the Vargr defi ne as an individual's prestige and force of personality that attracts other Vargr. This, combined with the pack mentality, is the foundation for Vargr society and the driving force behind their constant change in leadership, whether in a pack of scavengers or the local government.
 
 The Vargr desire to constantly increase their charisma makes them a competitive race, always seeking to improve their standing amongst the pack. It is this charisma that gives them their focus and drive. Whilst many humans see this as a fl aw it is one of the reasons that the Vargr have become such a prominent race.
 
@@ -822,11 +822,11 @@ Charisma is gained or lost by word and deed. Vargr characters are usually keen t
 
 Vargr always look to the most charismatic person in the pack for leadership and that individual will only maintain his position by proving that he has the ability and force of personality to lead his pack. All Vargr respect a leader who has a greater charisma than their own and likewise they have a responsibility to those with a lower charisma who submit to their authority.
 
-A leader might not have the skills to effectively lead the pack but his charisma gains him the loyalty of everyone in the group. Contrary to popular belief, a Vargr’s loyalty is very strong and will only waver if the pack leader fails to meet the needs of his people and thus loses charisma. Loyalties may change but never quickly and never without reason. It is this fact that seems to have gone unnoticed by many outsiders who often regard the Vargr’s loyalty as volatile at best and mutinous at worst.
+A leader might not have the skills to effectively lead the pack but his charisma gains him the loyalty of everyone in the group. Contrary to popular belief, a Vargr's loyalty is very strong and will only waver if the pack leader fails to meet the needs of his people and thus loses charisma. Loyalties may change but never quickly and never without reason. It is this fact that seems to have gone unnoticed by many outsiders who often regard the Vargr's loyalty as volatile at best and mutinous at worst.
 
 Should a leader be found to lack the skills to lead his people, members will look to others within the pack that have the charisma to take control. This may seem strange and unproductive to other races but this behaviour always ensures that the strongest person is in charge of a pack.
 
-A Vargr’s Charisma fl uctuates over time with the decisions they make and the actions and activities they perform. Great successes and heroic deeds will add to an individual’s Charisma, whereas critical failures will reduce Charisma.
+A Vargr's Charisma fl uctuates over time with the decisions they make and the actions and activities they perform. Great successes and heroic deeds will add to an individual's Charisma, whereas critical failures will reduce Charisma.
 
 If a Vargr loses Charisma he will not necessarily lose face amongst his brethren. Adversity is often seen as an opportunity to raise ones Charisma rather than a burden to be suffered. Vargr will often take risks in the hope of improving their Charisma but this does not always make them reckless, such situations will be considered with care before being undertaken.
 
@@ -836,8 +836,8 @@ It is also important to note that whilst charisma and the constant struggle for 
 
 Racial Pride The Vargr see themselves as a unique people, a race chosen by the Ancients and uplifted to be an intelligent race. In their eyes, this makes the Vargr special and sets them apart from the other major races, since only the Vargr have such esteemed origins.
 
-This pride not only unites the Vargr as a race but it takes other forms as well. Some groups believe in racial superiority, which has led to two schools of thought on the subject. Those who follow the so called ‘high superiority’ school propose that the Vargr were designed to be better than other races, that the Ancients designed them to be nothing less than perfect. Proponents of the
-‘low superiority’ school maintain that they were the original sapient race on Terra and the Ancients moved them to Lair so the Vargr would not interfere with the genetic engineering of humans from the Terran apes.
+This pride not only unites the Vargr as a race but it takes other forms as well. Some groups believe in racial superiority, which has led to two schools of thought on the subject. Those who follow the so called 'high superiority' school propose that the Vargr were designed to be better than other races, that the Ancients designed them to be nothing less than perfect. Proponents of the
+'low superiority' school maintain that they were the original sapient race on Terra and the Ancients moved them to Lair so the Vargr would not interfere with the genetic engineering of humans from the Terran apes.
 
 As with all things in Vargr society, there are numerous other ideas supported by scientists, politicians and religious groups. A minority of Vargr even have the view that their origins make them an inferior race and these troubled souls feel that they have to prove their worth by taking dangerous and extraordinary actions.
 
@@ -849,13 +849,13 @@ Family The family is a pack of blood relatives and it is in this environment tha
 
 members of a family must show the proper respect to the family leader and establish their own position within the pack by improving their own charisma. This learning curve is crucial training for a young pup.
 
-In agrarian or pre-industrial societies, the family pack tends to be larger than those in more advanced cultures. On a low technology world, a larger family means a greater number of hunters that are essential to the pack’s survival. However if a pack grows too large it becomes less effective, especially if the pups and elderly outnumber the more able-bodied members as it places an additional burden on the hunters, threatening the survival of the pack. Larger packs are also more noticeable making it diffi cult to hunt the local wildlife.
+In agrarian or pre-industrial societies, the family pack tends to be larger than those in more advanced cultures. On a low technology world, a larger family means a greater number of hunters that are essential to the pack's survival. However if a pack grows too large it becomes less effective, especially if the pups and elderly outnumber the more able-bodied members as it places an additional burden on the hunters, threatening the survival of the pack. Larger packs are also more noticeable making it diffi cult to hunt the local wildlife.
 
 Vargr families become smaller as technology increases and the economy moves towards industry. Industrial based societies require large workforces so parents spend much of their time working and less time raising their families. Raising pups in the family environment is essential for their development so most Vargr females on these worlds will only give birth to one litter in their lifetime.
 
 In higher technology societies where much of the workforce is automated, the demands on family members are reduced and they are better able to raise their pups in a more traditional manner. Female Vargr on these worlds will therefore give birth to several litters and the average family size is more akin to that of pre-industrial societies.
 
-Beliefs Religion is as diverse and varied as every other aspect of Vargr society. Many religions stem from the Vargr’s pride in their origins and the Ancients are venerated as gods by many groups. What humans would consider orthodox religions also exist in great numbers but they are not as common as the belief in the Ancients.
+Beliefs Religion is as diverse and varied as every other aspect of Vargr society. Many religions stem from the Vargr's pride in their origins and the Ancients are venerated as gods by many groups. What humans would consider orthodox religions also exist in great numbers but they are not as common as the belief in the Ancients.
 
 Vargr who fi nd religion come from all backgrounds and there is no specifi c career for religious characters. Many who do devote themselves to a religion will continue in their chosen career but some will also change profession to better follow their faith, this is especially true of loners who are more likely to seek the companionship of their fellow believers. Religious leaders often have a background as emissaries but this is not always the case.
 
@@ -885,7 +885,7 @@ Whenever two Vargr are battling for dominance within a pack and loyalty is divid
 
 Infi ghting is a fast way for pack members with low Charisma to rise through the ranks; if the victor has a lower Charisma then the two combatants swap Charisma values. However, it is important to remember that Vargr are primarily driven by Charisma, so they will only resort to infi ghting when the need arises. A common situation for a challenge is when a Vargr fails a task but does not lose Charisma, rival pack members will be disappointed by this and will often challenge the one who failed, questioning their abilities or leadership.
 
-Individuals who constantly challenge their comrades will usually lose Charisma and in some cases are cast out from the pack. Exploiting one’s prowess in combat as an easy way of gaining Charisma is seen as un-Vargr like and is not tolerated. Infi ghting has its rightful place but it is not an alternative to Charisma, it is just one of many aspects of the Vargr struggle for dominance.
+Individuals who constantly challenge their comrades will usually lose Charisma and in some cases are cast out from the pack. Exploiting one's prowess in combat as an easy way of gaining Charisma is seen as un-Vargr like and is not tolerated. Infi ghting has its rightful place but it is not an alternative to Charisma, it is just one of many aspects of the Vargr struggle for dominance.
 
 #### DRESS, ART & ARCHITECTURE
 
@@ -925,7 +925,7 @@ The Vargr Homeworld LAIR A8859B9-F The Vargr homeworld has many names amongst th
 
 Lair is located in hex 2402 of Grnouf subsector. Grnouf is subsector C of Provence sector. The Lair system has a single star, eight planetary bodies and a planetoid belt.
 
-Lair is 12,811 kilometres in diameter with a dense atmosphere. Roughly 50% of the world is covered with water oceans. It is a temperate world with average temperatures ranging from 37° C at the equator to –38° C at the poles. Three of the major land masses lie between these two extremes with temperatures averaging between 5° C to 26° C, free from the fi erce storms experienced at other latitudes.
+Lair is 12,811 kilometers in diameter with a dense atmosphere. Roughly 50% of the world is covered with water oceans. It is a temperate world with average temperatures ranging from 37° C at the equator to –38° C at the poles. Three of the major land masses lie between these two extremes with temperatures averaging between 5° C to 26° C, free from the fi erce storms experienced at other latitudes.
 
 There are fi ve major landmasses on Lair. The largest continent is Safokunggaru, a mountainous region located on the equator. The twin continents of Onfakh Gurz and Onfakh Dzae were once a single continent but tectonic shifts split them in two. Just north of the equator, the continent of Aerueko Fen extends across the hemisphere with tundra at its northern tip and jungle to the south. In the southern polar region lies Gaksadudha, a frozen continent of snow, ice and rock.
 
@@ -951,7 +951,7 @@ Emissaries The number and variety of Vargr governments makes diplomacy very diff
 
 A specialized group of mediators, known as emissaries, has arisen to meet the needs of disputing parties. Emissaries are highly skilled diplomats who are much sought after for their experience in negotiation and diplomacy. These individuals are greatly respected and well paid for their services. They are used as much in corporate dealings as they are for political negotiations.
 
-Other races on the borders of Vargr territories are often subject to raids by independent corsair bands. This has lead to many misunderstandings and political disputes since few outsiders understand the Vargr’s apparent lack of respect for authority. Of course this is a matter of perspective but one that still causes numerous interstellar incidents, which have on occasion been known to lead to hostilities and even war.
+Other races on the borders of Vargr territories are often subject to raids by independent corsair bands. This has lead to many misunderstandings and political disputes since few outsiders understand the Vargr's apparent lack of respect for authority. Of course this is a matter of perspective but one that still causes numerous interstellar incidents, which have on occasion been known to lead to hostilities and even war.
 
 In these situations emissaries are frequently called to mediate on behalf of Vargr governments. Emissaries are usually successful in creating the peace or at least avoiding further hostilities. In the cases of raids and unprovoked attacks, reparations are usually given to the victim as a gesture of good will.
 
@@ -1044,7 +1044,7 @@ The larger corsair bands operate much like military groups but with one signifi 
 
 The Vargr Extents comprises of approximately 33 sectors coreward of the Spinward Marches and the Imperium. The tendency of the Vargr to move when situations are not to their liking resulted in the rapid expansion and settling of the regions that now make up the Extents.
 
-Cultural Regions The diversity and constant fl ux of loyalties among the Vargr has resulted in a variety of cultures that have spread across the Extents. Based on similarities in language, culture and physiology, the Extents are divided into seven primary cultural regions. However, such boundaries are not easily applied to Vargr space; not only do the borders continually shift but where one region neighbor’s another, there tends to be a secondary region between them where the two cultures mix together.
+Cultural Regions The diversity and constant fl ux of loyalties among the Vargr has resulted in a variety of cultures that have spread across the Extents. Based on similarities in language, culture and physiology, the Extents are divided into seven primary cultural regions. However, such boundaries are not easily applied to Vargr space; not only do the borders continually shift but where one region neighbor's another, there tends to be a secondary region between them where the two cultures mix together.
 
 It is also important to note that the following are rough classifi cations and within each cultural group there is the usual diversity found in all aspects of Vargr life.
 
@@ -1084,15 +1084,15 @@ Suedzuk: This region is also known as the Vargr Enclaves and covers most of the 
 
 Governments here are few and most areas remain largely ungoverned, with small settlements scattered throughout the region. Many communities prefer to remain isolated and rarely get involved with affairs beyond their immediate environment.
 
-Humans from Mendan and Gashikan refer to the Vargr here as ‘the Red Vargr’. This name is given not just for their reddish fur but because of the bloodshed caused during the Sack of Gashikan. Other humans share their contempt for the Suedzuk, as do some Vargr.
+Humans from Mendan and Gashikan refer to the Vargr here as 'the Red Vargr'. This name is given not just for their reddish fur but because of the bloodshed caused during the Sack of Gashikan. Other humans share their contempt for the Suedzuk, as do some Vargr.
 
 Suedzuk packs tend to be small but enduring. New members only join as needed or through the recommendation of others. Much like the Aekhu, siblings of the Suedzuk culture will often maintain close ties with each other.
 
 Irilitok: The Irilitok region is located at the rimward trailing corner of the Extents. Due to the anti-Vargr sentiments that resulted from the Sack of Gashikan, Irilitok remained free of Vargr settlers for centuries.
 
-Around the year –1,000 many Vargr were forced into slavery by humans, who selected Vargr with the most ‘human-like’ appearance; those who had shorter muzzles and stood more erect. On some worlds the Vargr were left unchecked and the slave population rapidly grew to be the most prominent species. During this period, other Vargr packs moved to the region to further increase the Vargr population.
+Around the year –1,000 many Vargr were forced into slavery by humans, who selected Vargr with the most 'human-like' appearance; those who had shorter muzzles and stood more erect. On some worlds the Vargr were left unchecked and the slave population rapidly grew to be the most prominent species. During this period, other Vargr packs moved to the region to further increase the Vargr population.
 
-The Vargr population growth resulted in humans taking a more favourable view toward their Vargr neighbors and it was not long before racial attitudes relaxed. The presence of the human owned Menderes Corporation also helped in this regard as they fostered human-Vargr relations. Although the human and Vargr communities tend to be separate, there is a strong degree of racial acceptance and cooperation. On some worlds there is much less segregation and a greater blending of the two cultures.
+The Vargr population growth resulted in humans taking a more favorable view toward their Vargr neighbors and it was not long before racial attitudes relaxed. The presence of the human owned Menderes Corporation also helped in this regard as they fostered human-Vargr relations. Although the human and Vargr communities tend to be separate, there is a strong degree of racial acceptance and cooperation. On some worlds there is much less segregation and a greater blending of the two cultures.
 
 Humans are much more inclined to deal with the Irilitok than any other Vargr culture and likewise, the Vargr here are more understanding of human customs.
 
@@ -1105,7 +1105,7 @@ Vargr attitudes toward humans vary from place to place and some typical human-Va
 
 Humans and other races visit the Vargr Extents. Many governments and worlds along the border enjoy trade agreements with independent merchants, corporations and Imperial organizations. Imperial citizens also journey to Vargr space for a variety of other reasons including adventure, diplomatic duties, exploration, jobs, research and even mercenary work.
 
-Due to the nature of Vargr society and turbulent politics in the Extents, the Traveller’s Aid Society classifi es most Vargr worlds as Amber Zones unless proven to be safe. Worlds known to be hazardous are classifi ed as Red Zones as usual. However, the status of Vargr worlds are prone to change so Imperial classifi cations are not necessarily correct.
+Due to the nature of Vargr society and turbulent politics in the Extents, the Traveller's Aid Society classifi es most Vargr worlds as Amber Zones unless proven to be safe. Worlds known to be hazardous are classifi ed as Red Zones as usual. However, the status of Vargr worlds are prone to change so Imperial classifi cations are not necessarily correct.
 
 #### VARGR IN THE IMPERIUM
 
@@ -1117,7 +1117,7 @@ Vargr also discover that laws are enforced more strongly in the Imperium and alt
 
 #### LANGUAGE & NAMING
 
-The diversity of Vargr society extends to their language. There are hundreds of different languages and dialects spoken throughout the Extents. Governments tend to favour a particular language but this is not always the case and in some regions a common language is adopted to aid in trade and negotiations.
+The diversity of Vargr society extends to their language. There are hundreds of different languages and dialects spoken throughout the Extents. Governments tend to favor a particular language but this is not always the case and in some regions a common language is adopted to aid in trade and negotiations.
 
 Vargr usually choose their own name when they come of age. Some choose a name that is signifi cant to them such as an important event or achievement in their life whilst other Vargr names are chosen arbitrarily and do not necessarily have any meaning.
 
@@ -1125,7 +1125,7 @@ Vargr Language The most common Vargr language in the Spinward Marches and Gvurrd
 
 Vargr language is also spoken differently by different people depending on their Charisma. Individuals with a low Charisma tend to be more grammatical and those with a higher Charisma speak in a more informal manner forcing the listener to pay close attention to what is being said and show respect to their superior.
 
-This is an important concept of the Vargr language as it conveys an individual’s Charisma in addition to the meaning of what they are communicating. It is also important to note that very few Vargr are able to fake this aspect of language and to even try would be disrespectful and probably result in the loss of Charisma.
+This is an important concept of the Vargr language as it conveys an individual's Charisma in addition to the meaning of what they are communicating. It is also important to note that very few Vargr are able to fake this aspect of language and to even try would be disrespectful and probably result in the loss of Charisma.
 
 High Charisma characters also draw out their words and sentences to display their dominance over the listener. However if they exaggerate their speech too much a listener may interrupt, gaining respect for doing so at the expense of the speaker.
 
@@ -1133,7 +1133,7 @@ There is a very fi ne line of when such an interruption will be benefi cial or s
 
 Non-Verbal Communication Like other races, body language plays in important role in Vargr communication. However, Vargr have a limited range of facial expressions so they use their posture, bearing, ears and tails to convey unspoken meaning to their communications.
 
-Much of a Vargr’s body language is subconscious and can often give a clear indication as to their emotional state. This can obviously make Vargr quite vulnerable so they will often use additional gestures to distract others from seeing such strong emotional signals.
+Much of a Vargr's body language is subconscious and can often give a clear indication as to their emotional state. This can obviously make Vargr quite vulnerable so they will often use additional gestures to distract others from seeing such strong emotional signals.
 
 Generating Vargr Words Words in Vargr, like English, have defi nite letter frequencies and syllable patterns that are independent of information content; it is possible to randomly generate words that look and sound Vargr. Words are constructed from syllables, which are in turn composed of up to three elements: an initial consonant, a vowel and a fi nal consonant.
 
@@ -1151,9 +1151,9 @@ I1kitten O4on OE 2 doe OU 2 loud U3fun UE 3 fued Final Consonants (43) DH 1 this
 
 ## VVAARGRRGR GGLLOSSARYOSSARY
 
-Aerkoo: Gun. Akhuegh: A distracting gesture intended to disguise a Vargr’s intent or feelings. Dhakthu: A Vargr who surrenders when infi ghting. Dhoune: Corsair. Dhuellngae: The act of attempting to take leadership of a pack. Duzghue: Muzzle. Faeng: Teeth. Fenggzuen: A remote individual of authority. Foez: Old. Genkhourksae: Government or empire. Ghangksukhuekh: A territory claimed by a corsair band. Ghukhgvuueng: Emissary. Ghuzoukhin: An individual of high charisma. Ghzueng: A region considered easy pickings by corsair bands. Kaenguerradz: Racial superiority, a belief held by several cultures including the Gvegh. Kafaazgaen: An overlord of the Faarzgaen religion. Sometimes used for leaders of other fanatical religions. Kagra: Litter-mate. Kengrran: A human who has fully adopted and integrated with the Vargr way of life. Khakhksokhrong: Contingency expert. Khourksae: The borders of a political state. Kfaegzoukhin: Charisma; the force of personality and prestige that attracts other Vargr. Kfaenuok: Loyalty. Ku: Prefi x used to denote a type of pack or belonging to a pack. Kudhoune: Corsair band. Kufoez: The Ancients. Kufoezghu: Religious groups that venerate the Ancients as gods. Kuvargr: Blood pack (family). Lerza: Ear. Lur: (1) Refugee (2) Suffi x to denote a refugee from a particular world or region. Nathkhadzdhaerrg: Achievement or success. Ornga: Armor. Orrogz: Racial pride. Rokghiok: Blade. Rorr: Paw. Rrga: Any foul tasting creature.
+Aerkoo: Gun. Akhuegh: A distracting gesture intended to disguise a Vargr's intent or feelings. Dhakthu: A Vargr who surrenders when infi ghting. Dhoune: Corsair. Dhuellngae: The act of attempting to take leadership of a pack. Duzghue: Muzzle. Faeng: Teeth. Fenggzuen: A remote individual of authority. Foez: Old. Genkhourksae: Government or empire. Ghangksukhuekh: A territory claimed by a corsair band. Ghukhgvuueng: Emissary. Ghuzoukhin: An individual of high charisma. Ghzueng: A region considered easy pickings by corsair bands. Kaenguerradz: Racial superiority, a belief held by several cultures including the Gvegh. Kafaazgaen: An overlord of the Faarzgaen religion. Sometimes used for leaders of other fanatical religions. Kagra: Litter-mate. Kengrran: A human who has fully adopted and integrated with the Vargr way of life. Khakhksokhrong: Contingency expert. Khourksae: The borders of a political state. Kfaegzoukhin: Charisma; the force of personality and prestige that attracts other Vargr. Kfaenuok: Loyalty. Ku: Prefi x used to denote a type of pack or belonging to a pack. Kudhoune: Corsair band. Kufoez: The Ancients. Kufoezghu: Religious groups that venerate the Ancients as gods. Kuvargr: Blood pack (family). Lerza: Ear. Lur: (1) Refugee (2) Suffi x to denote a refugee from a particular world or region. Nathkhadzdhaerrg: Achievement or success. Ornga: Armor. Orrogz: Racial pride. Rokghiok: Blade. Rorr: Paw. Rrga: Any foul tasting creature.
 
-Rsukal: An involuntary movement of the ears or tail that reveals a Vargr’s true state of mind. Sozoukhin: An individual of low charisma. Suedzuk: A name given to the Vargr of the Suedzuk region meaning ‘Red Fur’. This refers to both the colour of their fur and the bloodshed caused by their ancestors. Suenoe: A greeting made to fellow pack members. Sukagrra: Sibling. Taerrou: Victory. Thezough: Infi ghting. Thevaegh: Battle. Thodzou: Loner. Udheg: Pack. Urrgrra: Parents. Vaegh: To take a life, kill. Vaghzkourr: Hunter, provider. Vardok: Scrounger Veghz: Number of kills made by an individual. Voekh: Tattoo. Zari: Tail. Zoukhinghu: The gaining of charisma. Zoukhinku: Pack leader. Zoukhinso: The loss of charisma. Zuk: Fur. Zurrgdhouu: Junk dealer.
+Rsukal: An involuntary movement of the ears or tail that reveals a Vargr's true state of mind. Sozoukhin: An individual of low charisma. Suedzuk: A name given to the Vargr of the Suedzuk region meaning 'Red Fur'. This refers to both the colour of their fur and the bloodshed caused by their ancestors. Suenoe: A greeting made to fellow pack members. Sukagrra: Sibling. Taerrou: Victory. Thezough: Infi ghting. Thevaegh: Battle. Thodzou: Loner. Udheg: Pack. Urrgrra: Parents. Vaegh: To take a life, kill. Vaghzkourr: Hunter, provider. Vardok: Scrounger Veghz: Number of kills made by an individual. Voekh: Tattoo. Zari: Tail. Zoukhinghu: The gaining of charisma. Zoukhinku: Pack leader. Zoukhinso: The loss of charisma. Zuk: Fur. Zurrgdhouu: Junk dealer.
 
 Numbers Sodh: One. Dhu: Two. Kung: Three. Koth: Four Rano: Five. Ueng: Six. Gilna: Seven Dhaene: Eight. Ngodz: Nine. Ghza: Ten or multiples thereof. For example, Kung Ghza is thirty. Redgzu: Hundred or multiples thereof. For example, Dhu Redzgu is two hundred. Sunguek: Thousand or multiples thereof. For example, Redzgu Sunguek is one hundred thousand. Kongzek: Million or multiples thereof. For example, Gilna Kongzek is seven million.
 
@@ -1161,33 +1161,33 @@ Numbers Sodh: One. Dhu: Two. Kung: Three. Koth: Four Rano: Five. Ueng: Six. Giln
 
 Some of the common Vargr proverbs also give an insight into the Vargr mindset and society.
 
-‘Aekh kfaegzoukhin zersakha Vargr; kfaegzoukhin zersakh kuvargr.’
-‘A Vargr without charisma is no better than a rock; a rock with charisma is better than an entire pack.’
+'Aekh kfaegzoukhin zersakha Vargr; kfaegzoukhin zersakh kuvargr.'
+'A Vargr without charisma is no better than a rock; a rock with charisma is better than an entire pack.'
 
 This proverb explains the importance of charisma in Vargr society.
 
-‘Ghakse faeng faeng faeng faengeg; dzedzdhougz faeng faeng kufaeng udheg.’
-‘A pup’s ball is the pup’s; a pup’s teeth are the pack’s.’
+'Ghakse faeng faeng faeng faengeg; dzedzdhougz faeng faeng kufaeng udheg.'
+'A pup's ball is the pup's; a pup's teeth are the pack's.'
 
-This proverb portrays both the individuality of the Vargr and the security gained from being loyal to one’s pack.
+This proverb portrays both the individuality of the Vargr and the security gained from being loyal to one's pack.
 
-‘Ouko zersakha, zersakha rrugon.’
-‘When a rock falls, it is still a rock.’
+'Ouko zersakha, zersakha rrugon.'
+'When a rock falls, it is still a rock.'
 
-Another Vargr saying that uses the rock as a metaphor; the rock is signifi cant here, representing strength of will. The proverb teaches the importance of adversity – a loss of charisma is an opportunity to raise one’s standing within the pack.
+Another Vargr saying that uses the rock as a metaphor; the rock is signifi cant here, representing strength of will. The proverb teaches the importance of adversity – a loss of charisma is an opportunity to raise one's standing within the pack.
 
-‘Kagzga gaksog rrasngouthin dzungogu, ghuegzakskha rrugon ozu.’
-‘The pond gathers muck, whilst the river fl ows clear.’
+'Kagzga gaksog rrasngouthin dzungogu, ghuegzakskha rrugon ozu.'
+'The pond gathers muck, whilst the river fl ows clear.'
 
 This proverb teaches the virtues of change over stagnation and its importance in Vargr society – a fl owing river constantly renews itself and has the strength to forge its own path but a pond eventually stagnates and leads nowhere.
 
-‘Thursuth gha kvaehh.’
-‘Where death is not allowed to go.’
+'Thursuth gha kvaehh.'
+'Where death is not allowed to go.'
 
 This is a common response to an abundance of rules and regulations. It means that most events cannot simply be prevented by rules alone. This proverb also infers a minor threat or warning.
 
-‘Khofaeghorz gvegh gvegh gnaedh faeng Vargr rrirrg.’
-‘Vargr speech without teeth.’
+'Khofaeghorz gvegh gvegh gnaedh faeng Vargr rrirrg.'
+'Vargr speech without teeth.'
 
 This is a commonly used insult directed at people who cannot back up what they have said.
 
@@ -1201,9 +1201,9 @@ Due to the number of Vargr calendars that exist and have existed throughout Varg
 
 #### SERVANTS OF THE ANCIENTS
 
-It has become generally accepted that the Vargr were seeded on their homeworld (designated ‘Lair’ by the Imperium) around the year –300,000. The fi rst Vargr bore only a distant resemblance to their modern day successors. Scientifi c evidence indicates that the genetic engineering performed by the Ancients was intended to maximise the potential of the canine race; this allowed the Vargr to evolve more naturally rather than developing to a specifi c result desired by the Ancients.
+It has become generally accepted that the Vargr were seeded on their homeworld (designated 'Lair' by the Imperium) around the year –300,000. The fi rst Vargr bore only a distant resemblance to their modern day successors. Scientifi c evidence indicates that the genetic engineering performed by the Ancients was intended to maximise the potential of the canine race; this allowed the Vargr to evolve more naturally rather than developing to a specifi c result desired by the Ancients.
 
-There have been a number of factions, most notably the Church of the Chosen Ones, who believe and proceeded to prove (somewhat unconvincingly) that Vargr development was guided toward its current form and disposition. Contrary to most evidence, these groups believe that several interventions were made by the Ancients to make the Vargr a ‘perfect’ race fi t to rule their region of the galaxy. However, most scientifi c evidence suggests that after the initial seeding, no further involvement was made by the Ancients in the Vargr’s development.
+There have been a number of factions, most notably the Church of the Chosen Ones, who believe and proceeded to prove (somewhat unconvincingly) that Vargr development was guided toward its current form and disposition. Contrary to most evidence, these groups believe that several interventions were made by the Ancients to make the Vargr a 'perfect' race fi t to rule their region of the galaxy. However, most scientifi c evidence suggests that after the initial seeding, no further involvement was made by the Ancients in the Vargr's development.
 
 The idea that the Ancients allowed the Vargr to evolve into their natural potential also suggests that the Ancients took an extremely long view of things if they could watch a race evolve over centuries and even millennia. Experts in Ancient history have placed the fi nal war of the Ancients around the same time as the creation of the Vargr race, which poses the question – would the Ancients have intervened further had they remained to watch over their creations?
 
@@ -1229,23 +1229,23 @@ As these new settlements grew, more complex societies evolved and soon the fi rs
 
 This period of Vargr history has often been likened to the Classical Greek period on Earth with numerous city-states and small governments each vying for power. So independent were these early factions that they would only unite in the face of extreme adversity, and even then such alliances would be fl eeting.
 
-There were occasions where a particularly charismatic individual would successfully unite neighboring factions but even with strong leadership and infl uence these unions were short lived. Only a few individuals such as Erzikh Dhadh were able to sustain an alliance but even those fractured after the leader’s passing.
+There were occasions where a particularly charismatic individual would successfully unite neighboring factions but even with strong leadership and infl uence these unions were short lived. Only a few individuals such as Erzikh Dhadh were able to sustain an alliance but even those fractured after the leader's passing.
 
 Advances in technology allowed for larger nations by exposing the people to leaders in more distant locations. Communication became a key element in maintaining and expanding a
 
-government’s sphere of infl uence. However, these Vargr nations were not comparable to human states – individuals and groups within a government’s sphere of infl uence would often (and still do) act without government sanction.
+government's sphere of infl uence. However, these Vargr nations were not comparable to human states – individuals and groups within a government's sphere of infl uence would often (and still do) act without government sanction.
 
 The size of a state was largely determined by the speed, range and effectiveness of the communication technology. The birth of radio, television and other means to broadcast messages saw a rapid expansion in the size and number of nations. These new instant forms of communication also increased the rate that governments and individuals changed their allegiance, causing governments to rise and fall much more frequently. Long range communications also advanced Vargr military divisions, further aiding governments to control larger regions.
 
 #### RACE FOR THE STARS
 
-In –4089 the fi rst unmanned satellite was successfully launched into Lair’s orbit. This pivotal event was the catalyst for the Vargr space race, which had every nation of the time dedicated to be the fi rst to launch a manned mission, then to be fi rst to the moons, then neighboring planets and so on as the competition gathered pace.
+In –4089 the fi rst unmanned satellite was successfully launched into Lair's orbit. This pivotal event was the catalyst for the Vargr space race, which had every nation of the time dedicated to be the fi rst to launch a manned mission, then to be fi rst to the moons, then neighboring planets and so on as the competition gathered pace.
 
 The status gained with each breakthrough in space travel brought with it respect and charisma to those responsible, and by proxy, to the leaders who supported and encouraged the research and development of the technologies. With each advance in space technology there was a huge shift in power as the government responsible would win over new supporters, gaining loyal citizens. With so much depending on each success this was a turbulent time that saw a number of hostilities between rival nations.
 
 Within a hundred years the nation of Arrdzafodh had established the fi rst Vargr colony on the world of Erzikh Dhadh, named after the legendary prince. Shortly after this a second colony was established on the planet Foulours. For over a hundred years, interest in colonization waned and only a few other colonies were established on neighboring moons and worlds.
 
-In –3815 the colonies on Erzikh Dhadh and Foulours declared independence, triggering the Colonial Rebellion. By this time, these two colonies controlled the majority of Arrdzafodh’s spacecraft. In an effort to regain control and dominance over the colonies, Arrdzafodh began researching new technologies and methods of space travel that led to the discovery of the jump drive in –3810.
+In –3815 the colonies on Erzikh Dhadh and Foulours declared independence, triggering the Colonial Rebellion. By this time, these two colonies controlled the majority of Arrdzafodh's spacecraft. In an effort to regain control and dominance over the colonies, Arrdzafodh began researching new technologies and methods of space travel that led to the discovery of the jump drive in –3810.
 
 With the discovery of the jump drive, interest in space travel increased once more and within two decades every government on Lair had jump-capable ships. Arrdzafodh now had superior propulsion and in –3790 their navy destroyed the settlement on Erzikh Dhadh, ending the Colonial Rebellion.
 
@@ -1265,13 +1265,13 @@ The Diaspora started to decline around –2500 when much of what is now the spin
 
 The Windhorn Rift The Vargr expansion came to a halt in the trailing direction as explorers discovered the Windhorn Rift. This vast area crosses four sectors and the distance between the few systems in this region make jump travel virtually impossible. Many Vargr tried to cross the Rift but the jump technology at this time was limited and each expedition was doomed to failure.
 
-Many scholars and historians argue that the barrier of the Windhorn Rift actually acted in the Vargr’s favour, for beyond the Rift lay the Ziru Sirka, the Vilani Grand Empire of the Stars. During this time the First Imperium was at the peak of the
+Many scholars and historians argue that the barrier of the Windhorn Rift actually acted in the Vargr's favor, for beyond the Rift lay the Ziru Sirka, the Vilani Grand Empire of the Stars. During this time the First Imperium was at the peak of the
 
-Consolidation Wars; a series of campaigns designed to ensure that no independent society on the Ziru Sirka borders had jump drive technology and thereby monopolising the Vilani’s control over interstellar travel. Had these races met at this time, the Vilani would have attempted, and perhaps succeeded, to subjugate the Vargr race.
+Consolidation Wars; a series of campaigns designed to ensure that no independent society on the Ziru Sirka borders had jump drive technology and thereby monopolising the Vilani's control over interstellar travel. Had these races met at this time, the Vilani would have attempted, and perhaps succeeded, to subjugate the Vargr race.
 
 For nearly a hundred years after the Diaspora decline the Windhorn Rift segregated the Vargr from the Vilani but explorers were eventually able to navigate around the Rift. Fortunately, by the time the Vargr had crossed the Ziru Sirka borders the First Imperium had begun to decline.
 
-Vargr Pillaging The decline of the Vilani Empire led many of their provincial governors to hire the so-called ‘barbarians’ and mercenaries at their borders. The most notable of these governors was Tazzik Kuluunaddar who controlled a region spanning Corridor and Provence sectors. Many human and Vargr historians agree that Tazzik was the fi rst human to have dealt with the Vargr after corsair raiders attacked outposts and ships in his territory.
+Vargr Pillaging The decline of the Vilani Empire led many of their provincial governors to hire the so-called 'barbarians' and mercenaries at their borders. The most notable of these governors was Tazzik Kuluunaddar who controlled a region spanning Corridor and Provence sectors. Many human and Vargr historians agree that Tazzik was the fi rst human to have dealt with the Vargr after corsair raiders attacked outposts and ships in his territory.
 
 Tazzik Kuluunaddar supplied a large corsair band called Infaerrgeng with weapons and equipment to strengthen his forces and increase his power in the Ziru Sirka. Kuluunaddar failed to gain the power he wanted and the Infaerrgeng were now aware of the riches ready for the taking in this weakened empire and began to plunder the Vilani border worlds.
 
@@ -1283,7 +1283,7 @@ The Pillaging also heralded the dawn of the Second Vargr Diaspora. As the corsai
 
 During this period, much of the Ovaghoun region was established as rich Imperial worlds were taken by the Vargr. Although many Vargr settlements were established, the Vilani were not completely displaced and many worlds in this region still have human communities to this day.
 
-Many Vargr historians proclaim that the Vargr Pillaging was largely responsible for the downfall of the First Imperium. However, although human scholars acknowledge that the Vargr incursions were certainly a factor, they disagree on the extent of the Vargr’s contribution to the Ziru Sirka’s collapse.
+Many Vargr historians proclaim that the Vargr Pillaging was largely responsible for the downfall of the First Imperium. However, although human scholars acknowledge that the Vargr incursions were certainly a factor, they disagree on the extent of the Vargr's contribution to the Ziru Sirka's collapse.
 
 The Gvegh Wars Shortly before the decline of the Second Diaspora, two new powers were emerging in Gvurrdon sector, the Zaegou Federation and Raso Gatsdzo. Perceiving these two expanding empires as a threat, a number of the smaller governments formed the Uthe Alliance. Other small alliances also formed along the borders of the Zaegou Federation and Raso Gatsdzo empires. Hostilities along these borders were inevitable and a combination of border skirmishes and corsair raids soon led to a full scale war in –1760 with the two large empires fi ghting multiple enemies of varying military might.
 
@@ -1310,7 +1310,7 @@ The corsair bands disrupted the relative peace by raiding human ships and coloni
 
 As the Vargr settlers fought for their survival, the corsairs returned. Toward the end of –1658 the corsairs launched an attack on the planet of Gashikan, neutralising the navy and using the human vessels to attack the Vargr colonies. With Gashikan now defenceless, the corsairs used nuclear weapons to destroy the remaining defences and proceeded to pillage the helpless settlements.
 
-Once again the corsairs fl ed and the already weakened Vargr colonies met with terrible reprisals as the humans wreaked their vengeance against the Vargr populations. News of the Sack of Gashikan spread throughout the neighboring sectors, shocking both human and Vargr alike. This catalyst sparked a strong hatred between the Vargr and humans of this region that earned the Vargr in Gashikan sector the name Suedzuk, meaning ‘Red Vargr’; a name that refers to both the colour of their fur and the bloodshed they were responsible for.
+Once again the corsairs fl ed and the already weakened Vargr colonies met with terrible reprisals as the humans wreaked their vengeance against the Vargr populations. News of the Sack of Gashikan spread throughout the neighboring sectors, shocking both human and Vargr alike. This catalyst sparked a strong hatred between the Vargr and humans of this region that earned the Vargr in Gashikan sector the name Suedzuk, meaning 'Red Vargr'; a name that refers to both the colour of their fur and the bloodshed they were responsible for.
 
 The human survivors of Gashikan eventually rebuilt their cities and used the ongoing confl ict to establish themselves as the leaders of the Second Empire of Gashikan. The worlds of Gashikan and Mendan sectors began to unite against the Vargr and proceeded to destroy all Vargr settlements within their reach.
 
@@ -1318,11 +1318,11 @@ The Vargr colonies were fi ghting a losing battle and still lacked any charismat
 
 Slaves and Masters The Sack of Gashikan left a bitter taste in the mouth of humanity, and these ill feelings lasted for centuries. In the Irilitok region, around the year –1000, many Vargr were forced into slavery by human oppressors who still dominated much of the region.
 
-The new human masters selected Vargr who were more ‘human- like’ in appearance; those who had shorter muzzles and stood more erect. On some worlds the Vargr slave populations were left unchecked and they rapidly grew to dominate those planets. During this period, Vargr packs began immigrating to this region, which further increased the Vargr population and strengthened their control over those worlds.
+The new human masters selected Vargr who were more 'human- like' in appearance; those who had shorter muzzles and stood more erect. On some worlds the Vargr slave populations were left unchecked and they rapidly grew to dominate those planets. During this period, Vargr packs began immigrating to this region, which further increased the Vargr population and strengthened their control over those worlds.
 
 A New Dawn Although the Vargr living in human dominated space continued to suffer throughout the Long Night of humaniti, the Vargr populations continued to grow. Well established Vargr worlds bordered human space and many Vargr settlements still remained on the human dominated worlds. Although some of these Vargr communities were ignored by the humans, many suffered at the hands of the human populations.
 
-At the dawn of the Third Imperium, Solomani scientists began to theorise that Vargr were Terran canines uplifted by the Ancients. This became known as the Solomani Hypothesis, which led many humans to regard the Vargr as freaks or dangerous animals. However, in Amdukan sector many humans were more accepting of the Vargr’s heritage and the anti-Vargr attitudes began to relax.
+At the dawn of the Third Imperium, Solomani scientists began to theorize that Vargr were Terran canines uplifted by the Ancients. This became known as the Solomani Hypothesis, which led many humans to regard the Vargr as freaks or dangerous animals. However, in Amdukan sector many humans were more accepting of the Vargr's heritage and the anti-Vargr attitudes began to relax.
 
 Amdukan sector was dominated by the Menderes Corporation who encouraged the Vargr to immigrate. To begin with, this enthusiasm by the corporation was not out of understanding or sympathy for the Vargr but as a means for cheap labour. However, under the guidance of charismatic leaders it soon became apparent that not only were the Vargr good workers but cooperation was much better for commerce and the local economy. With this revelation, the Menderes Corporation began a campaign to reduce anti-Vargr sentiments and worked to better integrate them into human society.
 
@@ -1332,7 +1332,7 @@ The Julian Wars Not wanting the Imperium to interfere with their plans and seein
 
 The Imperium was not prepared to face such a strong alliance of worlds and confederations, including the Vargr who fought alongside their new charismatic leaders armed with weapons supplied by their human allies. Julian Menderes soon rose in power and gained much charisma in the eyes of humans and Vargr alike and in 178 he became the regent.
 
-Julian Menderes’ new found charisma and vast fi nancial resources were able to win over many new allies and formed the Julian Protectorate in 191. This act culminated in victory against the Imperium later that year. The atrocities of the Sack of Gashikan began to fade and a new era of Vargr-human relations was born. The prosperity and mutual understanding of these once warring peoples is still enjoyed today in this region.
+Julian Menderes' new found charisma and vast fi nancial resources were able to win over many new allies and formed the Julian Protectorate in 191. This act culminated in victory against the Imperium later that year. The atrocities of the Sack of Gashikan began to fade and a new era of Vargr-human relations was born. The prosperity and mutual understanding of these once warring peoples is still enjoyed today in this region.
 
 Vargr Campaigns Following shortly after the Julian Wars was a period of hostilities known as the Vargr Campaigns (220 to 348). As the Imperium expanded, its borders eventually clashed with numerous Vargr states that had been established in Vland, Corridor, and Deneb sectors. Confl ict was inevitable and resulted in a series of wars, confl icts and disputes that are collectively referred to as the Vargr Campaigns.
 
@@ -1368,7 +1368,7 @@ Members of the Protectorate enjoy liberties that are at the very core of what it
 
 Marches, something that the Vargr were particularly skilled at. The confl ict ultimately ended in a stalemate and new borders were drawn between the Zhodani and Imperium but this armistice did not directly affect the Vargr.
 
-The First Frontier War had weakened the Imperium and in 615 the Zhodani and Vargr reformed the Outworld Coalition, marking the beginning of the Second Frontier War. The Coalition struck deeper into Jewell subsector but the Imperium fought a holding action for fi ve years whilst new shipyards were being constructed. Once the Imperium’s new ships rolled out of the shipyards they brought the war to an end, resulting in another stalemate where more worlds were ceded to the Zhodani.
+The First Frontier War had weakened the Imperium and in 615 the Zhodani and Vargr reformed the Outworld Coalition, marking the beginning of the Second Frontier War. The Coalition struck deeper into Jewell subsector but the Imperium fought a holding action for fi ve years whilst new shipyards were being constructed. Once the Imperium's new ships rolled out of the shipyards they brought the war to an end, resulting in another stalemate where more worlds were ceded to the Zhodani.
 
 Although most of the Vargr involved in the Frontier Wars fought alongside the Zhodani, several of the smaller states sided with the Imperium. A number of Vargr corsair bands also joined the fi ght on both sides.
 
@@ -1399,11 +1399,11 @@ VARGR TIMELINE Date (Imperial) Event Circa –300,000 Vargr created by the Ancie
 
 Vargr equipment is, for the most part, similar in form and function to human items. The main differences are found in clothing and armor where the physiological differences of the Vargr infl uence the design. Although clothing and armor from other races can be modifi ed to fi t a Vargr, they prefer to have specifi cally made items that are more comfortable. Likewise, other races fi nd most Vargr clothing uncomfortable to wear.
 
-A large amount of Vargr equipment is second hand. There is no status attached to buying new or second hand; the abundance of second hand goods from failed companies is simply part of Vargr life that creates a buyer’s market. Junk dealers (see page 38) usually trade out of a warehouse bulk selling to corporations but most have an open door policy allowing anyone to browse their stock and purchase goods as required. For those looking to bulk buy second hand merchandise, fi nding an experienced scrounger (see page 39) can save the buyer a lot of money.
+A large amount of Vargr equipment is second hand. There is no status attached to buying new or second hand; the abundance of second hand goods from failed companies is simply part of Vargr life that creates a buyer's market. Junk dealers (see page 38) usually trade out of a warehouse bulk selling to corporations but most have an open door policy allowing anyone to browse their stock and purchase goods as required. For those looking to bulk buy second hand merchandise, fi nding an experienced scrounger (see page 39) can save the buyer a lot of money.
 
 There is less of a second hand market for personal and domestic items such as clothes and house wares since these items are less likely to become redundant when companies fail. However, this market is still big by human standards and second hand shops that cater to the domestic market are a common sight in any Vargr settlement, ranging from small independent retailers to large megastores.
 
-Currency Like all things Vargr, currency varies from place to place. Most governments will try to instigate their own single currency but the rate of success varies with the culture and government’s sphere of infl uence; the further a world is from the centre of government the less inclined its people are to follow the government’s edicts.
+Currency Like all things Vargr, currency varies from place to place. Most governments will try to instigate their own single currency but the rate of success varies with the culture and government's sphere of infl uence; the further a world is from the center of government the less inclined its people are to follow the government's edicts.
 
 Most Vargr worlds will accept currency from neighboring regions where the value of the currency is known and it is practical to do so. Other currencies will also be accepted if they have a tangible value or if trade agreements have been established.
 
@@ -1426,22 +1426,22 @@ To represent the diversity of Vargr armor it is purchased as a complete set, wit
 
 Vargr individuals wearing helmets are less able to exert their infl uence and charisma due to a signifi cant amount of facial expressions and body language being concealed under the armor. For this reason, helmets tend only to be part of full armor suits
 
-Armor is as much an expression of a Vargr’s personality and achievements as it is for protection. For this reason it is usually customised by each individual with ornamentation and tattoos
+Armor is as much an expression of a Vargr's personality and achievements as it is for protection. For this reason it is usually customised by each individual with ornamentation and tattoos
 (see page 36 for details). This is especially true of corsairs and military personnel.
 
-Kforzonga (Shoulder Guards, TL6/8): Made from fl exible metals and plastic mesh, kforzonga provide full shoulder protection. The TL8 variety is made from interlocking plates of advanced polymers providing the same protection with less mass. Kforzonga are a favourite amongst corsairs and the military who commonly paint tattoos of rank and pack for all to see. Kforzonga are used in many armor sets and suits.
+Kforzonga (Shoulder Guards, TL6/8): Made from fl exible metals and plastic mesh, kforzonga provide full shoulder protection. The TL8 variety is made from interlocking plates of advanced polymers providing the same protection with less mass. Kforzonga are a favorite amongst corsairs and the military who commonly paint tattoos of rank and pack for all to see. Kforzonga are used in many armor sets and suits.
 
 Negdhazuk (Bracers, TL6/8): These vambraces cover the forearms and are constructed from fl exible metals. The TL8 version uses advanced polymers to reduce the mass. Negdhazuk are a popular choice for anyone requiring cheap and effective light armor with space to paint tattoos. Negdhazuk are a component part of many armor sets.
 
-Dhinourraksa (Chest Guard, TL7): The dhinourraksa is a partial chest covering that comes in many designs; common ones include spines, V shape and upper torso coverings. Although the dhinourraksa provides less protection than a breastplate it is less restrictive and much lighter, making it a favourite for Vargr with less strength or a smaller stature. It is also popular with pilots and other military personnel who are less likely to enter personal combat situations. The dhinourraksa is used in numerous armor sets.
+Dhinourraksa (Chest Guard, TL7): The dhinourraksa is a partial chest covering that comes in many designs; common ones include spines, V shape and upper torso coverings. Although the dhinourraksa provides less protection than a breastplate it is less restrictive and much lighter, making it a favorite for Vargr with less strength or a smaller stature. It is also popular with pilots and other military personnel who are less likely to enter personal combat situations. The dhinourraksa is used in numerous armor sets.
 
 Dhinou (Breastplate, TL7): Made from advanced composites, the dhinou is a lightweight breastplate that is commonly used by corsairs and some marine units who require strong protection on the front of their body when they board spacecraft; they have little need for coverage on their back and are less encumbered by the full torso coverage of the dhoukha. Individuals wearing a dhinou often gain respect and trust from their peers as it is an indication that the wearer is less likely to turn tail in combat and expose their unprotected back. The dhinou is used in numerous armor sets.
 
 Dhoukha (Vest, TL7/8): A full torso piece made from advanced composites, consisting of a breastplate and backplate that are joined at the sides. The dhoukha is most commonly used by the Vargr army and mercenaries. The TL8 version is made from advanced polymers. The dhoukha is a component part of numerous armor sets.
 
-Kforzhazuk (Fighter Set, TL6/8): A fi ghter set (two armor components) comprising of shoulder guards and bracers. The kforzhazuk is favoured by corsairs who prefer to be lightly armored but like to adorn their armor with sigils. A TL8 version is also available providing the same protection but made from lighter materials.
+Kforzhazuk (Fighter Set, TL6/8): A fi ghter set (two armor components) comprising of shoulder guards and bracers. The kforzhazuk is favored by corsairs who prefer to be lightly armored but like to adorn their armor with sigils. A TL8 version is also available providing the same protection but made from lighter materials.
 
-Kforzgong (Fighter Set, TL8): This fi ghter set combines shoulder guards with knee plates. The bulk added by the armor can give an intimidating appearance making it another favourite of corsair raiders.
+Kforzgong (Fighter Set, TL8): This fi ghter set combines shoulder guards with knee plates. The bulk added by the armor can give an intimidating appearance making it another favorite of corsair raiders.
 
 Dhinohazuk (Fighter Set, TL7): The dhinohazuk consists of a chest guard and bracers. Although this is the heaviest of the fi ghter armor sets it is less bulky and cumbersome, making it popular with pilots and crew who require minimum armor without reducing their ability to perform their job.
 
@@ -1460,7 +1460,7 @@ Kungedz-Vaung (Attack Suit, TL8): An attack suit consisting of a chest plate, sh
 Kungedz-Dhaganou (Attack Suit, TL8): Comprising of a chest plate, shoulder guards, gauntlets and boots, this attack suit is commonly used by corsairs and marines who require a little extra protection than is provided by other attack suits.
 
 Dhoukha-Thuegzinga (Warrior Suit, TL8): A warrior suit
-(providing full torso protection) that has an armored vest, bracers and knee plates. Like most warrior suits, the Dhoukha- Thuegzinga is favoured by marines and mercenaries.
+(providing full torso protection) that has an armored vest, bracers and knee plates. Like most warrior suits, the Dhoukha- Thuegzinga is favored by marines and mercenaries.
 
 Dhoukha-Laersdheg (Warrior Suit, TL8): This warrior suit includes an armored vest, shoulder guards, bracers and knee plates. Of all the warrior suits, this is the one most often used by corsairs who require heavy armor that looks imposing.
 
@@ -1492,7 +1492,7 @@ Retractable Blades (TL8): These function just like standard blade enhancements b
 
 Armor Type Protection Required Skill Cost (Cr.) Mass (kg) Kforzonga (Shoulder Guards, TL6) 1 None 30 1.5 Kforzonga (Shoulder Guards, TL8) 1 None 50 1 Negdhazuk (Bracers, TL6) 1 None 15 1 Negdhazuk (Bracers, TL8) 1 None 25 0.5 Dhinourraksa (Chest guard, TL7) 1 None 30 1 Dhinou (Breastplate, TL7) 2 None 50 2 Dhoukha (Vest, TL7) 3 None 100 4 Dhoukha (Vest, TL8) 4 None 250 3 Kforzhazuk (Fighter Set, TL6) 2 None 40 2.5 Kforzhazuk (Fighter Set, TL8) 2 None 75 1.5 Kforzgong (Fighter Set, TL8) 2 None 100 1.5 Dhinohazuk (Fighter Set, TL7) 2 None 40 2 Zurrku-Ekdho (Light Suit, TL7) 3 None 75 3.5 Zurrku-Oengga (Light Suit, TL8) 3 None 100 2.5 Zurrku-Udhvarr (Light Suit, TL8) 3 None 125 2 Kungedz-Dhagu (Attack Suit, TL8) 4 None 150 3 Kungedz-Verz (Attack Suit, TL7) 5 None 100 4.5 Kungedz-Vaung (Attack Suit, TL8) 5 None 150 3 Kungedz-Dhaganou (Attack Suit, TL8) 6 None 175 3.5 Dhoukha-Thuegzinga (Warrior Suit, TL8) 6 None 325 4 Dhoukha-Laersdheg (Warrior Suit, TL8) 7 None 350 5 Dhoukha-Guengka (Warrior Suit, TL8) 8 None 400 5 Dhoukha-Ghaghzorra (Warrior Suit, TL9) 8 None 600 4 Olok (Vargr Vacc Suit, TL8) 5 Vacc Suit 1 7,500 22 Olok (Vargr Vacc Suit, TL12) 7 Vacc Suit 0 12,000 14 Olok (Vargr Vacc Suit, TL14) 9 Vacc Suit 0 15,000 5 Olokok (Vargr HEV Suit, TL8) 6 Vacc Suit 2 14,000 30 Olokok (Vargr HEV Suit, TL12) 8 Vacc Suit 1 20,000 20 Olokok (Vargr HEV Suit, TL14) 10 Vacc Suit 1 50,000 10 Ogou (Vargr Combat Vacc Suit, TL10) 12 Vacc Suit 1 75,000 25 Ogou (Vargr Combat Vacc Suit, TL14) 12 Vacc Suit 0 100,000 16 Khenourr (Vargr Combat Armor, TL12) 15 Vacc Suit 0 300,000 10 Tsuenourr (Vargr Battle Dress, TL13) 17 Battle Dress 1 1,500,000 28 (7)*Tsuenourr (Vargr Battle Dress, TL14) 19 Battle Dress 1 2,500,000 14 (4)*
 
-- The listed weight is the suit’s weight when switched off. The weight in brackets is its effective weight when powered.
+- The listed weight is the suit's weight when switched off. The weight in brackets is its effective weight when powered.
 
 #### AUGMENTS
 
@@ -1512,7 +1512,7 @@ Urzaeng Modifi cation (TL13): This augment evolved in the Urzaeng region by Varg
 like their Urzaeng brethren. Other Vargr are attracted by this augment simply to be more of a physical match for Urzaeng in combat. Many worlds have outlawed this modifi cation for a variety of reasons, usually on religious grounds.
 
 The procedure for Urzaeng Modifi cation is long and painful, requiring a combination of genetic manipulation and surgery. Characters with this augment gain the following modifi cations:
-+1 Strength, +1 Endurance and –1 Intelligence. The character’s body also increases in size, gaining 2d6+6 cm in height and 1d6+4 kg in weight. Cr. 75,000.
++1 Strength, +1 Endurance and –1 Intelligence. The character's body also increases in size, gaining 2d6+6 cm in height and 1d6+4 kg in weight. Cr. 75,000.
 
 #### ROBOTS & DRONES
 
@@ -1534,7 +1534,7 @@ Strength 5 (–1), Dexterity 5 (–1), Hull 1, Structure 1 Intelligence 3 (–1)
 
 The Vargr have a wide variety of weapons and the most common are described here with both a generic (human) name and the original Vargr name. Vargr versions of human weapons also exist, differing in form but not in function; Vargr characters are free to use any of the standard weapons listed in the Traveller Core Rulebook.
 
-Melee Weapons Most Vargr warriors, especially pirates, favour melee weapons. Bladed weapons are the most popular but the usual Vargr diversity means that a variety of weapons have evolved throughout Vargr history.
+Melee Weapons Most Vargr warriors, especially pirates, favor melee weapons. Bladed weapons are the most popular but the usual Vargr diversity means that a variety of weapons have evolved throughout Vargr history.
 
 Weapon TL Range Damage Heft Mass (kg) Cost (Cr.) Danngag (Hunting Spear) 1 Melee (large blade) or Ranged (thrown)
 
@@ -1542,17 +1542,17 @@ Weapon TL Range Damage Heft Mass (kg) Cost (Cr.) Danngag (Hunting Spear) 1 Melee
 
 Khenourr (Double Bladed Staff) 3 Melee (large blade) 2d6+4 2 3 150 Rokhkou (Long Sword) 3 Melee (large blade) 3d6 –1 1 100 Thuerrghough (Serrated Sword) 2 Melee (large blade) 3d6+4 1 2 200 Thuerrlakh (Serrated Knife) 2 Melee (small blade) 1d6+4 – 0.5 50 Tsozgho (Claw Fist) 4 Melee (small blade) 2d6 – – 10
 
-Danngag (Hunting Spear, TL1): The danngag is the traditional hunting spear that the Vargr have been using since the early days on Lair. Little has changed since its fi rst incarnation except the material it is made from. Many hunters still favour the danngag for its silent effi ciency.
+Danngag (Hunting Spear, TL1): The danngag is the traditional hunting spear that the Vargr have been using since the early days on Lair. Little has changed since its fi rst incarnation except the material it is made from. Many hunters still favor the danngag for its silent effi ciency.
 
 Khenourr (Double Bladed Staff, TL3): A long staff with a small blade at each end; much like a double-ended spear but this weapon cannot be thrown. Although it is the blades that infl ict damage, this weapon requires the Melee (bludgeon) skill to use. Anyone profi cient in its use (skill level of 1 or more) can make an additional attack per Combat Round with the opposite blade with a –4 DM.
 
-Rokhkou (Long Sword, TL3): This well-balanced long sword is a favourite amongst many warriors. The blade has a slight curve with a small barb protruding from the blade’s edge towards the tip of the sword. The rokhkou comes in numerous designs with variations on the number, size and position of the barb.
+Rokhkou (Long Sword, TL3): This well-balanced long sword is a favorite amongst many warriors. The blade has a slight curve with a small barb protruding from the blade's edge towards the tip of the sword. The rokhkou comes in numerous designs with variations on the number, size and position of the barb.
 
 Thuerrghough (Serrated Sword, TL2): The thuerrghough is a large serrated sword. These vicious looking weapons are commonly used by corsairs, not just for their effectiveness but because the sight of such a weapon helps instil fear in their opponents.
 
 Thuerrlakh (Serrated Knife, TL2): This large serrated knife is basically a smaller version of the thuerrghough and is often carried as a backup weapon by corsairs and mercenaries alike.
 
-Tsozgho (Claw Fist, TL3): A spiked fi st weapon that fi ts over the hand and designed to look like claws. This is another good example of the types of weapon favoured by corsairs for both practical and aesthetic purposes.
+Tsozgho (Claw Fist, TL3): A spiked fi st weapon that fi ts over the hand and designed to look like claws. This is another good example of the types of weapon favored by corsairs for both practical and aesthetic purposes.
 
 This is a very effective close combat weapon but the tsozgho must be strapped fi rmly onto the hand and takes 1d6 rounds
 
@@ -1564,11 +1564,11 @@ Ueggvun (Pistol, TL4): This pistol is a common sidearm on many low-tech worlds a
 
 Ukszou (Autopistol, TL6): These semi-automatic pistols are used by law enforcement, mercenaries and military groups throughout the Extents.
 
-Koekkha (Hunting Rifl e, TL3): Once the Vargr discovered gunpowder this hunting rifl e replaced the danngag in numerous packs but many Vargr still favoured the traditional hunting spear over the noisy rifl e. The koekkha is only a single shot weapon but its long range gives it an advantage over the spear.
+Koekkha (Hunting Rifl e, TL3): Once the Vargr discovered gunpowder this hunting rifl e replaced the danngag in numerous packs but many Vargr still favored the traditional hunting spear over the noisy rifl e. The koekkha is only a single shot weapon but its long range gives it an advantage over the spear.
 
 Doekha (Hunting Rifl e, TL5): The successor to the koekkha, the doekha is quieter and delivers more damage. Although it was primarily designed for hunting, the doekha also sees a reasonable amount of combat use.
 
-Knugzang (Autorifl e, TL7): Designed purely for combat the knugzang automatic rifl e is standard issue in many armed forces and a favourite amongst mercenaries too.
+Knugzang (Autorifl e, TL7): Designed purely for combat the knugzang automatic rifl e is standard issue in many armed forces and a favorite amongst mercenaries too.
 
 Weapon TL Range Damage Auto Recoil Mass
 (kg)
@@ -1610,7 +1610,7 @@ Magazine Cost
 
 Power Pack (Cr.) Ongrrou (Sonic Pistol) 9 Ranged (pistol) Stun No – 2 10 500 150 Ongrung (Sonic Rifl e) 9 Ranged (rifl e) Stun No – 6 30 1,000 250
 
-Weapon TL Range Damage Mass (kg) Blast Radius Cost (Cr.) Odhkhu (Sonic Grenade) 8 Ranged (thrown) Stun 0.5 4 metres 20 10 Ranged (thrown) Stun 0.5 8 metres 40
+Weapon TL Range Damage Mass (kg) Blast Radius Cost (Cr.) Odhkhu (Sonic Grenade) 8 Ranged (thrown) Stun 0.5 4 meters 20 10 Ranged (thrown) Stun 0.5 8 meters 40
 
 Sonic Weapons During the pre-stellar era on Lair, opposing Vargr factions began experimenting with sonic weaponry to disorient the enemy on the battlefi eld using ultra high frequency sounds. These weapons can only work where there is air and are more effective on the acute hearing of the Vargr – the effects last two rounds less for other races (with a minimum of one round).
 
@@ -1657,7 +1657,7 @@ Plasma Missile (left internal traversing, TL10 stabilization) Ammunition: 4 atta
 
 Cargo 0.129 dTons 1.74 174 – Agility +0 DM – – – Speed Cruise: 312 kph Top: 416 kph – – – Total — 36 20,784 4,092,400
 
-Ghoerruegh G-Carrier A favourite of both the military and corsair raiders, the Ghoerruegh G-Carrier is a personnel carrier designed for stealth and speed. The G-Carrier is perfect for swift planetary assaults and ground support missions.
+Ghoerruegh G-Carrier A favorite of both the military and corsair raiders, the Ghoerruegh G-Carrier is a personnel carrier designed for stealth and speed. The G-Carrier is perfect for swift planetary assaults and ground support missions.
 
 GHOERRUEGH G-CARRIER (TL10) M^3 MASS (KG)COST (CR.)
 
@@ -1751,15 +1751,15 @@ Travellers Tips Travellers visiting Vargr worlds should be aware of four key poi
   superiors so it is important to praise subordinates
   so they know you value their skills.
 
-Passage Types: Passage on Vargr ships has the same three categories as on human vessels: low passage, middle passage and high passage. Characters can be ‘bumped’ from a berth by a character with a higher Charisma, regardless of the class of ticket they have. This often has a chain effect of the bumped character
+Passage Types: Passage on Vargr ships has the same three categories as on human vessels: low passage, middle passage and high passage. Characters can be 'bumped' from a berth by a character with a higher Charisma, regardless of the class of ticket they have. This often has a chain effect of the bumped character
 
 consequently bumping someone else with lower Charisma.
 
-The Low Lottery: This custom (detailed on page 142 of the Traveller Core Rulebook) is practiced by some Vargr captains but not by others. To randomly determine if a ship’s captain runs a lottery, roll 1d6; on a 1–4 he does not, a roll of 5–6 indicates
+The Low Lottery: This custom (detailed on page 142 of the Traveller Core Rulebook) is practiced by some Vargr captains but not by others. To randomly determine if a ship's captain runs a lottery, roll 1d6; on a 1–4 he does not, a roll of 5–6 indicates
 
 that he does.
 
-The Traveller’s Aid Society: There is no Vargr institution comparable to the TAS that covers the Vargr Extents in its entirety but smaller organizations do exist that offer similar services on a smaller scale. Those that do exist vary in size, standards and the services they offer. Referees are free to
+The Traveller's Aid Society: There is no Vargr institution comparable to the TAS that covers the Vargr Extents in its entirety but smaller organizations do exist that offer similar services on a smaller scale. Those that do exist vary in size, standards and the services they offer. Referees are free to
 
 determine the nature of any such organizations if they wish their players to have access to them.
 
@@ -1767,7 +1767,7 @@ Spacecraft Purchase: Due to the unstable nature of Vargr economics, fi nancing o
 
 Successfully obtaining a ship from a patron will largely be determined by the Charisma of those seeking to acquire the vessel. The diffi culty of this will depend on the value of the ship and the type of deal negotiated but it will usually be a Diffi cult task. Referees can apply DMs accordingly with the negotiating skills of the characters involved. If a ship is provided, it usually remains the property of the patron until it has been paid off in value or by services.
 
-Ship shares obtained during character creation can also be used to put towards a ship, in the form of contacts, savings, favours or money owed to the character. Vargr ship shares rarely represent credit rating or similar fi nance options.
+Ship shares obtained during character creation can also be used to put towards a ship, in the form of contacts, savings, favors or money owed to the character. Vargr ship shares rarely represent credit rating or similar fi nance options.
 
 Alternatively, characters can always attempt to steal or hijack a ship but such methods could well have consequences at a later date when the owner or captain fi nally tracks them down. Characters with a high Charisma can also try to convince a captain of lower Charisma to follow their leadership but such an endeavor will require outstanding skills of negotiation, persuasion and leadership.
 
@@ -1785,7 +1785,7 @@ The Vargr pack mentality onboard a spacecraft is more signifi cant than any othe
 
 unless the leader constantly fails in his duties.
 
-The hierarchies and dynamics of the pack are also more varied onboard starships than most other situations. As with all packs, there is always a leader but an individual’s Charisma gains and losses depend on how important their role is perceived to be by the rest of the crew. These priorities can also change according to various situations; for example, a medic might not be
+The hierarchies and dynamics of the pack are also more varied onboard starships than most other situations. As with all packs, there is always a leader but an individual's Charisma gains and losses depend on how important their role is perceived to be by the rest of the crew. These priorities can also change according to various situations; for example, a medic might not be
 
 considered particularly important until the crew become dependent on him for their survival.
 
@@ -1809,7 +1809,7 @@ CORSAIR ENCOUNTERS D66 Encounter 36 or less Uneventful 41–46 Vargr Scout 51–
 
 Tons Price (Cr.)
 
-Cargo 8 Tons 8 2 Staterooms 8 1,000,000 0 Low Berths Extras Gravitic Speeder 1 105,800 Fuel Scoops – Fuel Processors 20 tons per day 1 50,000 Probe Drones (10) 2 1,000,000 Ship’s Locker – Software Jump/2 Rating 10 200,000 Maneuver/0 – Library/0 – Maintenance Cost
+Cargo 8 Tons 8 2 Staterooms 8 1,000,000 0 Low Berths Extras Gravitic Speeder 1 105,800 Fuel Scoops – Fuel Processors 20 tons per day 1 50,000 Probe Drones (10) 2 1,000,000 Ship's Locker – Software Jump/2 Rating 10 200,000 Maneuver/0 – Library/0 – Maintenance Cost
 (monthly)
 
 2,618
@@ -1837,7 +1837,7 @@ Using a 200-ton hull, the Vargr courier is designed for the fast transport of em
 
 The Vargr courier requires a crew of four; a pilot, navigator, engineer and medic. Four additional crew or passengers such as emissaries and gunners can also be carried with double occupancy.
 
-Tons Price (Cr.) Hull 200 Tons 4 Hull 8,800,000 Streamlined 4 Structure Armor Crystaliron 4 Points 10 1, 600,000 Jump Drive C Jump 3 20 30,000,000 Maneuver Drive C Thrust 3 5 12,000,000 Power Plant C 10 24,000,000 Bridge 10 1,000,000 Computer Model/2bis Rating 10 (15 for jump control) 240,000 Electronics Basic Military +0 DM 2 1,000,000 Weapons Hardpoint #1 Single Turret (Beam Laser) 1 1,200,000 Hardpoint #2 Single Turret (Beam Laser) 1 1,200,000 Fuel 87 Tons One Jump-3 and nine weeks of operation 87 Cargo 5 Tons 5 4 Staterooms 16 2,000,000 0 Low Berths Extras Fuel Scoops Fuel Processors 60 tons per day 3 150,000 Ship’s Boat 30 17,829,000 Software Fire Control/2 Rating 10 4,000,000 Jump/3 Rating 15 300,000 Maneuver/0 — Library/0 — Maintenance Cost (monthly) 8,777 Life Support Cost (monthly) 8,000 Total Tonnage & Cost 200 105,319,000
+Tons Price (Cr.) Hull 200 Tons 4 Hull 8,800,000 Streamlined 4 Structure Armor Crystaliron 4 Points 10 1, 600,000 Jump Drive C Jump 3 20 30,000,000 Maneuver Drive C Thrust 3 5 12,000,000 Power Plant C 10 24,000,000 Bridge 10 1,000,000 Computer Model/2bis Rating 10 (15 for jump control) 240,000 Electronics Basic Military +0 DM 2 1,000,000 Weapons Hardpoint #1 Single Turret (Beam Laser) 1 1,200,000 Hardpoint #2 Single Turret (Beam Laser) 1 1,200,000 Fuel 87 Tons One Jump-3 and nine weeks of operation 87 Cargo 5 Tons 5 4 Staterooms 16 2,000,000 0 Low Berths Extras Fuel Scoops Fuel Processors 60 tons per day 3 150,000 Ship's Boat 30 17,829,000 Software Fire Control/2 Rating 10 4,000,000 Jump/3 Rating 15 300,000 Maneuver/0 — Library/0 — Maintenance Cost (monthly) 8,777 Life Support Cost (monthly) 8,000 Total Tonnage & Cost 200 105,319,000
 
 #### VARGR SEEKER
 
@@ -1847,7 +1847,7 @@ Tons Price (Cr.) Hull 200 Tons 4 Hull 8,800,000 Streamlined 4 Structure Titanium
 
 1 100,000
 
-Extras Fuel Scoops Fuel Processors 20 tons per day 1 50,000 2 Mining Drones 20 2,000,000 Ship’s Boat 30 17,829,000 Software Fire Control/1 Rating 5 2,000,000 Jump/1 Rating 5 100,000 Maneuver/0 — Library/0 — Maintenance Cost
+Extras Fuel Scoops Fuel Processors 20 tons per day 1 50,000 2 Mining Drones 20 2,000,000 Ship's Boat 30 17,829,000 Software Fire Control/1 Rating 5 2,000,000 Jump/1 Rating 5 100,000 Maneuver/0 — Library/0 — Maintenance Cost
 (monthly)
 
 4,852
@@ -1931,60 +1931,60 @@ d66 Name d66 Name 11 Ongghozo 41 Solgzo 12 Uerrnadz 42 Lengfaz 13 Rrougzarz 43 D
 
 #### SAMPLE VARGR PATRONS
 
-Vuernaeku Oulrreth Requirements: Diplomat, Persuade, Melee, Gun Combat, Spacecraft. Rewards: Cr. 2,000/day plus expenses plus a bonus for each successful mission. Player’s Information: Vuernaeku is an emissary in his late years. He has short grey hair and long droopy ears. Vuernaeku is an accomplished diplomat but his pack recently left him to support a younger arbitrator. He is now seeking a new group of aides, bodyguards and advisors.
+Vuernaeku Oulrreth Requirements: Diplomat, Persuade, Melee, Gun Combat, Spacecraft. Rewards: Cr. 2,000/day plus expenses plus a bonus for each successful mission. Player's Information: Vuernaeku is an emissary in his late years. He has short grey hair and long droopy ears. Vuernaeku is an accomplished diplomat but his pack recently left him to support a younger arbitrator. He is now seeking a new group of aides, bodyguards and advisors.
 
-Referee’s Information: For the last year Vuernaeku’s memory has been failing, which is why his pack left him for they feared he would make a critical mistake that would refl ect badly on the entire pack. However, Vuernaeku has amassed quite a fortune in his many years of negotiation and he is willing to share this with anyone who supports him.
+Referee's Information: For the last year Vuernaeku's memory has been failing, which is why his pack left him for they feared he would make a critical mistake that would refl ect badly on the entire pack. However, Vuernaeku has amassed quite a fortune in his many years of negotiation and he is willing to share this with anyone who supports him.
 
 1. Vuernaeku is resolving a trade dispute between two rival junk dealers who operate in this system but are based on different worlds; Onguegzvaer is a large corporation and Dhangouo is an independent but successful dealer. Dhangouo is accusing Onguegzvaer of stealing its clients and making slanderous remarks that have resulted in the loss of substantial profi ts. The players must aid Vuernaeku by investigating the rival corporations and their claims, which will involve travelling between worlds and escorting Vuernaeku throughout the negotiations. 2. Vuernaeku has been hired to ease political tensions between neighboring Vargr governments. If he fails, the current
 
 hostilities could escalate into war. Many of the Vargr involved do not want peace and Vuernaeku requires constant protection in case anyone should attempt to take his life, thus ending the negotiations.
 
-3. As 2 but the political confl ict is between the local Vargr government and a neighboring human government. Vuernaeku must travel to the human world to make reparations for the frequent attacks on the human spacelanes by Vargr corsairs. The human world is known to have groups with anti-Vargr sentiments and Vuernaeku requires protection and aides who are familiar with humans and their customs. 4. Recent corsair raids have caused severe trade problems as the major routes have become too dangerous for merchants to travel. The local government’s military is not suffi cient to deal with the situation so they wish to negotiate a deal with the corsairs before the local populace become disillusioned with their leaders. The players must help Vuernaeku to track down the corsairs and aide him in the negotiations between the government and the corsairs. 5. The local government wishes to enlist the help of a formidable corsair band to help defend the local system against a rival government or faction. Vuernaeku hires the players to help him fi nd the corsair ship and broker a deal. Making contact and establishing a dialogue will be diffi cult and dangerous. 6. As 5 but the government is concerned that the neighboring government is becoming too powerful. The local government want to hire the corsair band to raid the rival government. If the corsairs are successful they should help to reduce trade in the rival’s territories and therefore weaken that government’s leadership.
+3. As 2 but the political confl ict is between the local Vargr government and a neighboring human government. Vuernaeku must travel to the human world to make reparations for the frequent attacks on the human spacelanes by Vargr corsairs. The human world is known to have groups with anti-Vargr sentiments and Vuernaeku requires protection and aides who are familiar with humans and their customs. 4. Recent corsair raids have caused severe trade problems as the major routes have become too dangerous for merchants to travel. The local government's military is not suffi cient to deal with the situation so they wish to negotiate a deal with the corsairs before the local populace become disillusioned with their leaders. The players must help Vuernaeku to track down the corsairs and aide him in the negotiations between the government and the corsairs. 5. The local government wishes to enlist the help of a formidable corsair band to help defend the local system against a rival government or faction. Vuernaeku hires the players to help him fi nd the corsair ship and broker a deal. Making contact and establishing a dialogue will be diffi cult and dangerous. 6. As 5 but the government is concerned that the neighboring government is becoming too powerful. The local government want to hire the corsair band to raid the rival government. If the corsairs are successful they should help to reduce trade in the rival's territories and therefore weaken that government's leadership.
 
-Uzagz Requirements: Investigate, Persuade, Spacecraft. Rewards: Cr. 50,000. Player’s Information: Uzagz is a charismatic religious leader. He is a middle aged Vargr with red fur and a bushy tail. He speaks very slowly with long pauses to captivate his listeners and display his charisma. Uzagz requires assistance with his congregation.
+Uzagz Requirements: Investigate, Persuade, Spacecraft. Rewards: Cr. 50,000. Player's Information: Uzagz is a charismatic religious leader. He is a middle aged Vargr with red fur and a bushy tail. He speaks very slowly with long pauses to captivate his listeners and display his charisma. Uzagz requires assistance with his congregation.
 
-Referee’s Information: Uzagz grew up in the Enclaves as a descendent of the Suedzuk. Shamed by his ancestors he left the Enclaves to make his mark amongst his brethren. Uzagz will not openly declare his origins but if questioned enough he will reveal the truth.
+Referee's Information: Uzagz grew up in the Enclaves as a descendent of the Suedzuk. Shamed by his ancestors he left the Enclaves to make his mark amongst his brethren. Uzagz will not openly declare his origins but if questioned enough he will reveal the truth.
 
 1. Uzagz leads a congregation of the Church of the Chosen Ones (see page 115). Unfortunately, his small following has not been received well in the community and the religious group have decided to leave for another world where they are more
 
 welcome and their faith is accepted more readily. Due to the many scientists that attempt to disprove the claims of the Church of the Chosen Ones, Uzagz thinks his congregation would be best served on a low-tech world.
 
-2. Uzagz is in the process of revitalising an old faith and needs help to drum up support and build his congregation. The Gnangdougzoun religion (meaning ‘true to oneself’) has a pantheon of deities that embody the key traits of the Vargr: Rrognodoe the God of Charisma, Desounknuen the God of Loyalty and Estidzu the God of Companionship. 3. Uzagz is part of a growing religion called the Children of the Ancients, which is founded on the belief that all Vargr were not just created by the Ancients but that the Vargr were created from the Ancients to carry on in their ancestor’s name. Despite evidence that invalidates this theory, the Children of the Ancients are particularly appealing to many Vargr. However, many people see this religion as a cult that preys on the racial pride of all Vargr and that they have some ulterior motive. Uzagz hires the players to observe his congregation and prove that the rumors are not true. 4. As 3 but Uzagz is hiding something; he does not believe in his religion and has created it to gain charisma and leadership over a large pack. The donations made by his followers are simply a bonus as far as he is concerned. 5. Using any of the religions described above, a rival religion that promotes the antithesis of Uzagz’s teachings is gathering support in the community. Uzagz’s followers are loyal to their faith and hostilities between the two religions are increasing. Most of Uzagz’s congregation are simple citizens who lack the skills should the situation escalate to violence. 6. Using any of the religions described above, Uzagz has reason to believe that agents of the Faarzgaen religion (see page 35) have infi ltrated his congregation in an attempt to convert his followers by discrediting Uzagz’s religion. He needs outsiders to discover who is behind these blasphemous acts and deal with the problem appropriately.
+2. Uzagz is in the process of revitalising an old faith and needs help to drum up support and build his congregation. The Gnangdougzoun religion (meaning 'true to oneself') has a pantheon of deities that embody the key traits of the Vargr: Rrognodoe the God of Charisma, Desounknuen the God of Loyalty and Estidzu the God of Companionship. 3. Uzagz is part of a growing religion called the Children of the Ancients, which is founded on the belief that all Vargr were not just created by the Ancients but that the Vargr were created from the Ancients to carry on in their ancestor's name. Despite evidence that invalidates this theory, the Children of the Ancients are particularly appealing to many Vargr. However, many people see this religion as a cult that preys on the racial pride of all Vargr and that they have some ulterior motive. Uzagz hires the players to observe his congregation and prove that the rumors are not true. 4. As 3 but Uzagz is hiding something; he does not believe in his religion and has created it to gain charisma and leadership over a large pack. The donations made by his followers are simply a bonus as far as he is concerned. 5. Using any of the religions described above, a rival religion that promotes the antithesis of Uzagz's teachings is gathering support in the community. Uzagz's followers are loyal to their faith and hostilities between the two religions are increasing. Most of Uzagz's congregation are simple citizens who lack the skills should the situation escalate to violence. 6. Using any of the religions described above, Uzagz has reason to believe that agents of the Faarzgaen religion (see page 35) have infi ltrated his congregation in an attempt to convert his followers by discrediting Uzagz's religion. He needs outsiders to discover who is behind these blasphemous acts and deal with the problem appropriately.
 
-Narro Ghudhtha Requirements: Deception, Gun Combat, Persuade, Spacecraft. Rewards: Cr. 1,000/day. Player’s Information: Narro is a disaffected government offi cial who has frequently been placed in poor positions of authority. As a result of being a remote authority fi gure she gained little loyalty from her subordinates and lost Charisma (through no fault of her own). Narro believes she would make a good leader but needs the right opportunity to do so.
+Narro Ghudhtha Requirements: Deception, Gun Combat, Persuade, Spacecraft. Rewards: Cr. 1,000/day. Player's Information: Narro is a disaffected government offi cial who has frequently been placed in poor positions of authority. As a result of being a remote authority fi gure she gained little loyalty from her subordinates and lost Charisma (through no fault of her own). Narro believes she would make a good leader but needs the right opportunity to do so.
 
-Referee’s Information: Narro has made some poor decisions that led to her recent replacement but she has learned from her mistakes and desperately wants to gain Charisma and a position of power, and will go to any lengths to do so.
+Referee's Information: Narro has made some poor decisions that led to her recent replacement but she has learned from her mistakes and desperately wants to gain Charisma and a position of power, and will go to any lengths to do so.
 
 1. Narro wants a more direct leadership role but has been unable to gain enough support to prove her Charisma and leadership abilities. By hiring citizens to work for her she hopes to slowly build trust with her superiors to prove she has the Charisma to lead other Vargr. 2. Narro has gained some support from the local populace who are displeased with the current leadership. She wants to leave this planet and start a new settlement outside the reaches of the government where she can lead and govern her people. She has a small retinue acting as an advanced scout party but she needs a ship to fi nd and secure a suitable location. Narro will pay standard passenger fees for this in addition to the daily rate she is offering. 3. Narro is planning a coup and is seeking a group of Vargr that share her concerns. Together, they can gain support and push the current leaders out of power. She will accept help from non-Vargr but they must understand Vargr society and be able to help in this task. 4. As 3 but due to lack of support, Narro is planning a hostile takeover. She requires a group of mercenaries who can help her seize control of the government headquarters by any means necessary. 5. As 4 but instead of a physical attack, Narro plans to bring the government down from within. She believes this can be done by humiliating the current administration, causing them to lose face and Charisma. 6. As 4 but Narro intends to use political or trade pressure from neighboring governments, races or organizations. With trade embargos and diplomatic treaties the populace will lose faith in the government allowing Narro to step in; once in power she can lift the embargos and earn the loyalty of the people.
 
-Thanakh Requirements: Broker, Persuade, Spacecraft. Rewards: Cr. 25,000 plus expenses, but can only pay once his deal is concluded. Player’s Information: Thanakh is an independent junk dealer seeking to expand his business. He is a young Vargr and although he earns a modest living selling second hand equipment, it is obvious that he does not have the Charisma to become as successful as he would like. Thanakh needs a ship and a crew to obtain goods and establish new trade partners.
+Thanakh Requirements: Broker, Persuade, Spacecraft. Rewards: Cr. 25,000 plus expenses, but can only pay once his deal is concluded. Player's Information: Thanakh is an independent junk dealer seeking to expand his business. He is a young Vargr and although he earns a modest living selling second hand equipment, it is obvious that he does not have the Charisma to become as successful as he would like. Thanakh needs a ship and a crew to obtain goods and establish new trade partners.
 
-Referee’s Information: Thanakh’s business is struggling and he is experiencing fi nancial diffi culties. He is desperate to get cheap stock and make a decent sale soon or he will be forced into bankruptcy.
+Referee's Information: Thanakh's business is struggling and he is experiencing fi nancial diffi culties. He is desperate to get cheap stock and make a decent sale soon or he will be forced into bankruptcy.
 
 1. Thanakh wishes to start trading in Imperial space in the hope that his lack of Charisma will not impede his progress with humans as it does with Vargr. However, he knows little about human culture and seeks advisors and guides to fi nd the right people to trade with. 2. As 1 but Thanakh also requires a ship to transport his goods. He will pay an additional Cr. 25,000 if the players transport his goods on their ship. 3. Thanakh has obtained a large quantity of illegal goods such as weapons or drugs. He thinks he knows a buyer on a nearby world but he needs a ship to transport the goods and some muscle to protect him from the criminal elements he must deal with. 4. Thanakh has heard news that a large corporation on a neighboring world is in serious fi nancial diffi culties and could well go out of business. He wants to hire a ship that can get him there in time to buy the stock before rival dealers beat him to it, some of which will use a number of dirty tactics to win the deal.
    5. The employees of a mid-sized company based in a
    neighboring subsector were forced to fl ee when a war broke
    out and some of them were killed in the process. With that
    corporation now out of business, Thanakh is looking for a group
-   that can help him to ‘liberate’ the equipment left behind.
+   that can help him to 'liberate' the equipment left behind.
    6. A rival junk dealer called Nazrra has been responsible for
-   many of Thanakh’s problems such as stealing Thanakh’s clients
+   many of Thanakh's problems such as stealing Thanakh's clients
    and intercepting his purchases. Thanakh hires the players to
    deal with the situation in whatever way they can.
 
-Rorzza Requirements: Prospecting, Sensors, Pilot, Spacecraft. Rewards: A share of the profi ts, up to 50% split amongst the party. Player’s Information: Rorzza is a prospector down on his luck. His ship was destroyed by corsairs during his last job and he barely made it out alive but he managed to escape and was rescued. Just before the attack he had found what he believed to be a large mineral deposit that could potentially be worth millions but he needs a ship and a crew.
+Rorzza Requirements: Prospecting, Sensors, Pilot, Spacecraft. Rewards: A share of the profi ts, up to 50% split amongst the party. Player's Information: Rorzza is a prospector down on his luck. His ship was destroyed by corsairs during his last job and he barely made it out alive but he managed to escape and was rescued. Just before the attack he had found what he believed to be a large mineral deposit that could potentially be worth millions but he needs a ship and a crew.
 
-Referee’s Information: Rorzza is an experienced and trusted prospector. He is a likable character and although he is a loner he has quite a high Charisma and would actually make a good leader if he chose to be. The actual size and value of the mineral deposit is Cr. 1d6 x 100,000 or 1d6 x 1,000,000 at the Referees discretion.
+Referee's Information: Rorzza is an experienced and trusted prospector. He is a likable character and although he is a loner he has quite a high Charisma and would actually make a good leader if he chose to be. The actual size and value of the mineral deposit is Cr. 1d6 x 100,000 or 1d6 x 1,000,000 at the Referees discretion.
 
-1. Rorzza did not get a chance to confi rm his fi nd before the attack so his plan is to return to the region he was searching, fi nd the deposit and confi rm its value. If successful he can sell the confi rmed location to a buyer and share the profi ts with the players. 2. As 1 but Rorzza wants to extract the ore himself (with the help of the players of course). To do this the players will need to invest in some equipment such as mining drones and mining lasers. The ship’s sensors might also need an upgrade if they are not up to the job. 3. As 2 but Rorzza wants to return to where his ship was attacked and salvage any remains. With any luck there will be enough equipment left that can be used to fi nish the job. For each item required roll 1d6; on a 1–3 it was destroyed or taken, on a 4–5 the equipment remains but is damaged (but can be repaired), on a roll of 6 the item is found intact. 4. Rorzza will reveal that it was not corsairs that attacked him but it was a rival prospector who was after Rorzza’s claim. Rorzza wants to take his rival’s ship as payment and revenge for what happened, but he needs the players’ help to do so. His rival, a Vargr by the name of Gvoekh, is most likely mining the ore right now so speed is essential if the players are to help Rorzza, retrieve the ore and fi nd a buyer.
+1. Rorzza did not get a chance to confi rm his fi nd before the attack so his plan is to return to the region he was searching, fi nd the deposit and confi rm its value. If successful he can sell the confi rmed location to a buyer and share the profi ts with the players. 2. As 1 but Rorzza wants to extract the ore himself (with the help of the players of course). To do this the players will need to invest in some equipment such as mining drones and mining lasers. The ship's sensors might also need an upgrade if they are not up to the job. 3. As 2 but Rorzza wants to return to where his ship was attacked and salvage any remains. With any luck there will be enough equipment left that can be used to fi nish the job. For each item required roll 1d6; on a 1–3 it was destroyed or taken, on a 4–5 the equipment remains but is damaged (but can be repaired), on a roll of 6 the item is found intact. 4. Rorzza will reveal that it was not corsairs that attacked him but it was a rival prospector who was after Rorzza's claim. Rorzza wants to take his rival's ship as payment and revenge for what happened, but he needs the players' help to do so. His rival, a Vargr by the name of Gvoekh, is most likely mining the ore right now so speed is essential if the players are to help Rorzza, retrieve the ore and fi nd a buyer.
 
-2. Rorzza’s fi nd was actually on an asteroid where the corsair band had their secret base. Rorzza may or may not have determined this so the players will need to deal with this once they arrive – if Rorzza was not aware of the situation the party will be unprepared when they encounter the corsairs. 6. Although Rorzza’s story is convincing, it is not entirely true. Rorzza joined the small corsair band seeing the potential benefi ts but after the fi ght, both ships were badly damaged and the corsair band wants to acquire a new one. Rorzza intends to lure the players to a remote planet and while the players are
+2. Rorzza's fi nd was actually on an asteroid where the corsair band had their secret base. Rorzza may or may not have determined this so the players will need to deal with this once they arrive – if Rorzza was not aware of the situation the party will be unprepared when they encounter the corsairs. 6. Although Rorzza's story is convincing, it is not entirely true. Rorzza joined the small corsair band seeing the potential benefi ts but after the fi ght, both ships were badly damaged and the corsair band wants to acquire a new one. Rorzza intends to lure the players to a remote planet and while the players are
 
-‘helping’ Rorzza, the corsairs will take the ship
+'helping' Rorzza, the corsairs will take the ship
 
-Kherzrra Requirements: Gun Combat, Gunnery, Pilot, Spacecraft. Rewards: Cr. 1,000/day plus expenses per person. Player’s Information: Kherzrra is a mercenary who has proven her resourcefulness time and again. Such is her skill and Charisma that she has been hired by governments and distinguished emissaries. Kherzrra is smaller than one would expect for a mercenary but her strength comes not from her size, but her quickness of body and mind; she is a skilled pilot and an excellent marksman. Kherzrra hires the players for her next mission.
+Kherzrra Requirements: Gun Combat, Gunnery, Pilot, Spacecraft. Rewards: Cr. 1,000/day plus expenses per person. Player's Information: Kherzrra is a mercenary who has proven her resourcefulness time and again. Such is her skill and Charisma that she has been hired by governments and distinguished emissaries. Kherzrra is smaller than one would expect for a mercenary but her strength comes not from her size, but her quickness of body and mind; she is a skilled pilot and an excellent marksman. Kherzrra hires the players for her next mission.
 
-Referee’s Information: Kherzrra is frequently offered prestige jobs that pay well and offer good opportunities for Charisma gain. She works alone and hires people as and when she needs them to complete a mission. She is extremely loyal and has built up a number of contacts and allies in large corporations, the government and the military. Kherzrra has her own ship but it can be undergoing repairs or even destroyed if the Referee would rather have the players use their ship.
+Referee's Information: Kherzrra is frequently offered prestige jobs that pay well and offer good opportunities for Charisma gain. She works alone and hires people as and when she needs them to complete a mission. She is extremely loyal and has built up a number of contacts and allies in large corporations, the government and the military. Kherzrra has her own ship but it can be undergoing repairs or even destroyed if the Referee would rather have the players use their ship.
 
 1. Kherzrra has been hired by the government or military to deal with the growing corsair problem in the area. She is looking for suitable people to crew a number of ships capable of defeating the medium-sized corsair band. Kherzrra has her own ship that requires a crew but she also needs additional ships. 2. Kherzrra has been hired to rescue a governor who has been taken captive by dissidents. She requires the help of the players to complete her mission. The governor is deep within enemy territory and is being interrogated for a variety of government secrets. The party must rescue the governor before any secrets are revealed. 3. As 2 but the players must also help Kherzrra locate the governor using whatever investigation methods they are capable of. 4. Kherzrra is hired to escort a government offi cial, emissary or someone else of importance to a secret meeting in enemy territory. This person is attempting to negotiate a peace treaty but there are many factions who wish to prevent this.
    5. As 4 but the person being escorted is actually planning to
@@ -2000,21 +2000,21 @@ Referee’s Information: Kherzrra is frequently offered prestige jobs that pay w
    of enemy territory, abandon her or change their loyalties and
    attempt to capture her for rewards and Charisma.
 
-Kungak Requirements: Engineer, Gun Combat, Pilot. Rewards: A share of the loot. Player’s Information: Kungak is a corsair raider and certainly looks the part; he is large, even for an Urzaeng and has numerous tattoos and scars. He has been with a number of corsair bands where he has gained the experience and Charisma to become a powerful leader. Kungak wants to recruit the players into his corsair band.
+Kungak Requirements: Engineer, Gun Combat, Pilot. Rewards: A share of the loot. Player's Information: Kungak is a corsair raider and certainly looks the part; he is large, even for an Urzaeng and has numerous tattoos and scars. He has been with a number of corsair bands where he has gained the experience and Charisma to become a powerful leader. Kungak wants to recruit the players into his corsair band.
 
-Referee’s Information: Kungak grew up in the Urzaeng region but he is not of that subspecies. After spending so much time amongst the Urzaeng he sought to become one and after several successful raids he paid to have the Urzaeng augment so he would become more like his brethren. However, this is something he keeps to himself and he portrays himself as if he were a natural born Urzaeng.
+Referee's Information: Kungak grew up in the Urzaeng region but he is not of that subspecies. After spending so much time amongst the Urzaeng he sought to become one and after several successful raids he paid to have the Urzaeng augment so he would become more like his brethren. However, this is something he keeps to himself and he portrays himself as if he were a natural born Urzaeng.
 
-1. Kungak is the only survivor of his last corsair band due to a failure in leadership (he was not the leader). He is now recruiting a new band to crew the ship and thinks the players have what it takes to be a corsair. His ship, a Vargr Corsair called ‘Dhangouo’
+1. Kungak is the only survivor of his last corsair band due to a failure in leadership (he was not the leader). He is now recruiting a new band to crew the ship and thinks the players have what it takes to be a corsair. His ship, a Vargr Corsair called 'Dhangouo'
 
-(Vendetta), was badly damaged during his last encounter and needs a lot of work before it is battle ready so Kungak needs good engineers as well as crewmen and raiders. 2. As 1, but Kungak is also a wanted criminal and it was the navy that attacked his ship and killed the rest of his band. The authorities are still after him so Kungak must be careful how he approaches the players and will need their help to avoid another run-in with the navy. 3. Kungak already belongs to a band but does not have enough support to take command. He wants to recruit new members that are loyal to him, giving him enough support to take leadership of the entire band. Kungak thinks the players could be the people he needs to achieve his ambitions. 4. Kungak is already the leader of a successful corsair band but a splinter group took one of his ship’s to start their own band.
+(Vendetta), was badly damaged during his last encounter and needs a lot of work before it is battle ready so Kungak needs good engineers as well as crewmen and raiders. 2. As 1, but Kungak is also a wanted criminal and it was the navy that attacked his ship and killed the rest of his band. The authorities are still after him so Kungak must be careful how he approaches the players and will need their help to avoid another run-in with the navy. 3. Kungak already belongs to a band but does not have enough support to take command. He wants to recruit new members that are loyal to him, giving him enough support to take leadership of the entire band. Kungak thinks the players could be the people he needs to achieve his ambitions. 4. Kungak is already the leader of a successful corsair band but a splinter group took one of his ship's to start their own band.
 
 Kungak is looking to recruit replacements so he can seek out his new rivals and demonstrate to his remaining crew that he is still the dominant leader.
 
-5. Kungak is a popular leader of a successful corsair band and is planning to expand his group. He has heard of the players and wishes to take them on as a pack within his entire band. He will provide a ship if the players do not have a suitable vessel and they will operate as a separate pack under Kungak’s command. 6. Kungak and his band hijack the player’s ship to steal the cargo. However, once he boards their ship he will see their potential and will give them the opportunity to join his band.
+5. Kungak is a popular leader of a successful corsair band and is planning to expand his group. He has heard of the players and wishes to take them on as a pack within his entire band. He will provide a ship if the players do not have a suitable vessel and they will operate as a separate pack under Kungak's command. 6. Kungak and his band hijack the player's ship to steal the cargo. However, once he boards their ship he will see their potential and will give them the opportunity to join his band.
 
-Sunthazokh Khoedhae Requirements: Gun Combat, Investigate, Melee, Stealth. Rewards: Cr. 10,000 and a Contact. Player’s Information: Sunthazokh is a private investigator. She is average looking and walks with a limp. Sunthazokh has a good reputation and is well regarded by many organizations. Sunthazokh hires the players to help her on her current case.
+Sunthazokh Khoedhae Requirements: Gun Combat, Investigate, Melee, Stealth. Rewards: Cr. 10,000 and a Contact. Player's Information: Sunthazokh is a private investigator. She is average looking and walks with a limp. Sunthazokh has a good reputation and is well regarded by many organizations. Sunthazokh hires the players to help her on her current case.
 
-Referee’s Information: Sunthazokh is very intelligent but not particularly good in a fi ght and often hires mercenaries if she feels her investigations will lead her into dangerous situations, which they often do.
+Referee's Information: Sunthazokh is very intelligent but not particularly good in a fi ght and often hires mercenaries if she feels her investigations will lead her into dangerous situations, which they often do.
 
 1. A trading outpost has been the victim of several raids by a corsair band. The corsairs seem to know whenever a valuable shipment departs the outpost and the traders have pooled their resources and hired Sunthazokh to discover if anyone is working for the pirates. Sunthazokh suspects this could get dangerous and hires the players for protection.
 
@@ -2022,13 +2022,13 @@ The informant is a resident junk dealer called Dhaergarz who has been losing a l
 
 2. Sunthazokh has been hired by the military to discover what happened to a special ops unit that disappeared on a world that lies within a rival government. The situation could be hostile so she hires the players as protection. The special ops unit were discovered by the opposing military and the few survivors are being held captive to be questioned. Once the players fi nd out what happened Sunthazokh will want them to rescue the captives before they reveal any secrets to the enemy. 3. Sunthazokh has been hired by a local farmer, Llagthar, to fi nd out why a pack in his workforce left to join his rival, the Ngourr
 
-Corporation. The Ngourr Corporation is quite large and although successful, their upper management is not very charismatic. Sunthazokh is known to this company so she needs the players to gain employment with them; once on the inside the players will eventually discover that not only does the Ngourr Corporation pay well, but the lack of charismatic leadership means there are many opportunities for advancement and Sunthazokh’s workers came here so they would be in a higher position of authority.
+Corporation. The Ngourr Corporation is quite large and although successful, their upper management is not very charismatic. Sunthazokh is known to this company so she needs the players to gain employment with them; once on the inside the players will eventually discover that not only does the Ngourr Corporation pay well, but the lack of charismatic leadership means there are many opportunities for advancement and Sunthazokh's workers came here so they would be in a higher position of authority.
 
-4. During an investigation for the local government, Sunthazokh has uncovered a coup. Her life is now in danger as the dissidents want her dead before she can report her fi ndings. Sunthazokh has no way to directly communicate with her contact without revealing her position and she hires the players as protection so she can get to her employer. 5. As 4 but Sunthazokh agrees with the dissidents and wants to join their cause. Aware of the coup, the current administration has hired mercenaries to track down and kill anyone who opposes the government’s rule. Sunthazokh needs the players to help her make contact with the dissidents without attracting the attention of the local law enforcement. 6. Sunthazokh has been hired by a research institute to retrieve a stolen alien artefact. The artefact is a dangerous and deadly weapon and has been stolen by agents from a rival government or organization. Sunthazokh has tracked down the culprits and needs the players’ help to retrieve the artefact from them.
+4. During an investigation for the local government, Sunthazokh has uncovered a coup. Her life is now in danger as the dissidents want her dead before she can report her fi ndings. Sunthazokh has no way to directly communicate with her contact without revealing her position and she hires the players as protection so she can get to her employer. 5. As 4 but Sunthazokh agrees with the dissidents and wants to join their cause. Aware of the coup, the current administration has hired mercenaries to track down and kill anyone who opposes the government's rule. Sunthazokh needs the players to help her make contact with the dissidents without attracting the attention of the local law enforcement. 6. Sunthazokh has been hired by a research institute to retrieve a stolen alien artefact. The artefact is a dangerous and deadly weapon and has been stolen by agents from a rival government or organization. Sunthazokh has tracked down the culprits and needs the players' help to retrieve the artefact from them.
 
-Annuek Requirements: Persuade, Spacecraft. Rewards: Ally. Player’s Information: Annuek is a female psion who initially trained herself but has since had further tuition from mentors and institutes. She is an attractive Vargr and comes across as very confi dent and resourceful. Annuek has no money but if the players help her she will become an Ally.
+Annuek Requirements: Persuade, Spacecraft. Rewards: Ally. Player's Information: Annuek is a female psion who initially trained herself but has since had further tuition from mentors and institutes. She is an attractive Vargr and comes across as very confi dent and resourceful. Annuek has no money but if the players help her she will become an Ally.
 
-Referee’s Information: Annuek uses her natural charm to her advantage but she has had a tough life and trust does not come easily to her; she will only deal with highly charismatic people who can win her trust.
+Referee's Information: Annuek uses her natural charm to her advantage but she has had a tough life and trust does not come easily to her; she will only deal with highly charismatic people who can win her trust.
 
 1. Annuek has escaped from a Vargr psionic institution that was performing experiments on her. The researchers have hired mercenaries to track Annuek and retrieve her so she is seeking safe passage offworld. 2. As 1 but Annuek is fl eeing a Zhodani institute that are researching Vargr psionics. Zhodani agents have been dispatched to apprehend her. 3. Annuek knows how tough life can be for a Vargr psion so she is seeking other psions, particularly Vargr, to train and mentor.
 
@@ -2053,7 +2053,7 @@ Starports are generally chaotic and noisy; Vargr haggle and argue over prices an
 
 STARPORT ENCOUNTERS
 
-d66 Encounter d66 Encounter 11 Band of corsairs 41 Band of corsairs 12 Corsair ship arrival 42 Vargr infi ghting 13 Corsair ship departure 43 Trade ship arrival 14 Explorer arrives or departs 44 Trade ship departure 15 Prospector arrives or departs 45 Merchant seeks cargo transport 16 Military vessel arrival 46 Passenger looking for a ship 21 Military vessel departure 51 Technician repairing starport systems 22 Mercenaries arrive or depart 52 Engineer repairing ship 23 Emissary arrives or departs 53 Embargo of rival government 24 An arms dealer seeks to transport his goods offworld 54 Random security search of player’s ship and possessions. 25 Merchants arguing over prices 55 Religious demonstration 26 A scrounger offers his services 56 A corsair band is arrested 31 Alien diplomats arrive or depart 61 Conman tries to swindle the players 32 Vargr infi ghting 62 Vargr infi ghting 33 Local law enforcement looking for fugitive 63 Mercenary seeks to join a pack or group 34 Alien vessel arrives or departs 64 Clerk has hostile reaction to players 35 Friendly Vargr offers to guide the players 65 An independent junk dealer tries to sell his wares 36 Patron offers players a job 66 A Vargr leaves his pack and is looking to join another
+d66 Encounter d66 Encounter 11 Band of corsairs 41 Band of corsairs 12 Corsair ship arrival 42 Vargr infi ghting 13 Corsair ship departure 43 Trade ship arrival 14 Explorer arrives or departs 44 Trade ship departure 15 Prospector arrives or departs 45 Merchant seeks cargo transport 16 Military vessel arrival 46 Passenger looking for a ship 21 Military vessel departure 51 Technician repairing starport systems 22 Mercenaries arrive or depart 52 Engineer repairing ship 23 Emissary arrives or departs 53 Embargo of rival government 24 An arms dealer seeks to transport his goods offworld 54 Random security search of player's ship and possessions. 25 Merchants arguing over prices 55 Religious demonstration 26 A scrounger offers his services 56 A corsair band is arrested 31 Alien diplomats arrive or depart 61 Conman tries to swindle the players 32 Vargr infi ghting 62 Vargr infi ghting 33 Local law enforcement looking for fugitive 63 Mercenary seeks to join a pack or group 34 Alien vessel arrives or departs 64 Clerk has hostile reaction to players 35 Friendly Vargr offers to guide the players 65 An independent junk dealer tries to sell his wares 36 Patron offers players a job 66 A Vargr leaves his pack and is looking to join another
 
 Vargr Cities Vargr cities are much like the starports but on a grander scale. The diversity of architecture and colour is much greater, as is the infi ghting and raised voices. Small bazaars are scattered throughout the city for independent merchants and junk dealers to sell their wares. The result is a cacophony of sound, smell and colour throughout the city with no apparent plan or design.
 
@@ -2065,11 +2065,11 @@ Rural Areas Heavily populated worlds, such as Lair, do not have many rural areas
 
 RURAL ENCOUNTERS
 
-d66 Encounter d66 Encounter 11 Wild Animal 41 Wild Animal 12 Sudden change in weather 42 Sudden change in weather 13 Paddock 43 Diffi cult terrain 14 Livestock herd 44 Criminal or pack outcast hiding out 15 Dead livestock 45 Loner’s dwelling 16 Livestock being transported 46 Farmer heading to city to sell his produce 21 Wild Animal 51 Wild Animal 22 Small pack of farmers 52 Isolated community – hostile 23 Farming community 53 Isolated community – unfriendly 24 Abandoned farm 54 Isolated community – welcoming 25 Small farm 55 Isolated community – rare subspecies 26 Large farm 56 Isolated community – religious 31 Wild Animal 61 Wild Animal 32 Injured hunter 62 Farmer hunting predatory animals 33 Hunter 63 Injured farmer 34 Prospector 64 Hunting pack 35 Crop fi elds 65 Ruined structure 36 Wild Animal 66 Wild Animal
+d66 Encounter d66 Encounter 11 Wild Animal 41 Wild Animal 12 Sudden change in weather 42 Sudden change in weather 13 Paddock 43 Diffi cult terrain 14 Livestock herd 44 Criminal or pack outcast hiding out 15 Dead livestock 45 Loner's dwelling 16 Livestock being transported 46 Farmer heading to city to sell his produce 21 Wild Animal 51 Wild Animal 22 Small pack of farmers 52 Isolated community – hostile 23 Farming community 53 Isolated community – unfriendly 24 Abandoned farm 54 Isolated community – welcoming 25 Small farm 55 Isolated community – rare subspecies 26 Large farm 56 Isolated community – religious 31 Wild Animal 61 Wild Animal 32 Injured hunter 62 Farmer hunting predatory animals 33 Hunter 63 Injured farmer 34 Prospector 64 Hunting pack 35 Crop fi elds 65 Ruined structure 36 Wild Animal 66 Wild Animal
 
 #### VARGR ANIMALS
 
-Type Habitat Str Dex End Int Ins Pack Gharthi Gatherer (omnivore) Jungle Flyer 4 11 5 0 3 9 Athletics 0, Melee (bite) 0, Recon 1, Survival 1 Bite (1d6), Armor 0. Number encountered: 3d6 Gharthi are small birds that have been introduced to many worlds in the Logaksu, Gvegh and Ovaghoun regions for their much sought after droppings, which form the basis of many popular Vargr seasonings. Gharthi see in infrared and do not attack unless provoked or detect high sources of heat (which they perceive as a threat). Inggurr Pouncer (carnivore) Mountain Walker 5 16 5 1 8 0 Athletics (strength) 1, Melee (tentacles) 2, Recon 1, Stealth 1, Survival 1 Tentacle (1d6, 2 attacks), Armor 1. Number encountered: 1 A snake-like creature with six tentacles. The Inggurr hides behind rocks and leaps onto its prey, using its tentacles to grapple and crush its victim. The Inggurr also uses its tentacles to walk. Ksarrg Pouncer (carnivore) Plains Walker 11 14 12 1 12 2 Athletics (co-ordination) 1, Melee (bite) 2, Recon 2, Stealth 2, Survival 1 Bite (2d6+2), Armor 2. Number encountered: 1d3 Ksarrg are large cat-like creatures with sharp tusks protruding from their lower jaw. These predators are the most appetising beasts indigenous to the Vargr homeworld. The aggressive nature of the Ksarrg makes them impossible to farm but the Vargr have learned effi cient hunting techniques to capture this elusive and dangerous prey. Thakak Grazer (herbivore) Forest Walker 9 10 12 0 6 10 Athletics 0, Melee (hooves) 0, Recon 3, Survival 1 Hooves (1d6), Armor 2. Number encountered: 3d6 These passive creatures have become a favourite meat amongst the Vargr and Thakak have been introduced to many worlds throughout the Extents. They are usually left to roam wild in the forests and hills to be hunted but Thakak farms also exist. When a Thakak is attacked it will screech for aid and the rest of the herd will come to its aid. Turrvagh Herbivore (intermittent) Hills Walker 16 6 25 0 5 7 Athletics 0, Recon 0, Survival 0 Horns (2d6), Armor 4. Number encountered: 2d6 Turrvagh are large animals with six legs. Many humans have likened them to a six legged rhinoceros. Turrvagh are farmed on many worlds in the Gvegh and Aekhu regions, forming part of the staple diet for most Vargr in these regions. Vougnanokh Carrion-Eater (scavenger) Walker 1 5 1 1 7 4 Athletics 0, Melee (claw) 1, Recon 0, Stealth 1, Survival 1 Claw (1d6) 1, Armor 0. Number encountered: 1d6 These small reptilian creatures are drawn towards warm environments and are believed to have spread throughout the Extents by stowing onboard spacecraft. Vougnanokh are vermin that are known to spread a variety of diseases; many crews have been struck down by diseases carried by an uninvited Vougnanok.
+Type Habitat Str Dex End Int Ins Pack Gharthi Gatherer (omnivore) Jungle Flyer 4 11 5 0 3 9 Athletics 0, Melee (bite) 0, Recon 1, Survival 1 Bite (1d6), Armor 0. Number encountered: 3d6 Gharthi are small birds that have been introduced to many worlds in the Logaksu, Gvegh and Ovaghoun regions for their much sought after droppings, which form the basis of many popular Vargr seasonings. Gharthi see in infrared and do not attack unless provoked or detect high sources of heat (which they perceive as a threat). Inggurr Pouncer (carnivore) Mountain Walker 5 16 5 1 8 0 Athletics (strength) 1, Melee (tentacles) 2, Recon 1, Stealth 1, Survival 1 Tentacle (1d6, 2 attacks), Armor 1. Number encountered: 1 A snake-like creature with six tentacles. The Inggurr hides behind rocks and leaps onto its prey, using its tentacles to grapple and crush its victim. The Inggurr also uses its tentacles to walk. Ksarrg Pouncer (carnivore) Plains Walker 11 14 12 1 12 2 Athletics (co-ordination) 1, Melee (bite) 2, Recon 2, Stealth 2, Survival 1 Bite (2d6+2), Armor 2. Number encountered: 1d3 Ksarrg are large cat-like creatures with sharp tusks protruding from their lower jaw. These predators are the most appetising beasts indigenous to the Vargr homeworld. The aggressive nature of the Ksarrg makes them impossible to farm but the Vargr have learned effi cient hunting techniques to capture this elusive and dangerous prey. Thakak Grazer (herbivore) Forest Walker 9 10 12 0 6 10 Athletics 0, Melee (hooves) 0, Recon 3, Survival 1 Hooves (1d6), Armor 2. Number encountered: 3d6 These passive creatures have become a favorite meat amongst the Vargr and Thakak have been introduced to many worlds throughout the Extents. They are usually left to roam wild in the forests and hills to be hunted but Thakak farms also exist. When a Thakak is attacked it will screech for aid and the rest of the herd will come to its aid. Turrvagh Herbivore (intermittent) Hills Walker 16 6 25 0 5 7 Athletics 0, Recon 0, Survival 0 Horns (2d6), Armor 4. Number encountered: 2d6 Turrvagh are large animals with six legs. Many humans have likened them to a six legged rhinoceros. Turrvagh are farmed on many worlds in the Gvegh and Aekhu regions, forming part of the staple diet for most Vargr in these regions. Vougnanokh Carrion-Eater (scavenger) Walker 1 5 1 1 7 4 Athletics 0, Melee (claw) 1, Recon 0, Stealth 1, Survival 1 Claw (1d6) 1, Armor 0. Number encountered: 1d6 These small reptilian creatures are drawn towards warm environments and are believed to have spread throughout the Extents by stowing onboard spacecraft. Vougnanokh are vermin that are known to spread a variety of diseases; many crews have been struck down by diseases carried by an uninvited Vougnanok.
 
 ## WWOORLDSRLDS
 
@@ -2079,7 +2079,7 @@ Of all the major races, Vargr worlds are most like human worlds. The physical de
 
 All types of government can be found on Vargr worlds and they vary in size from control over a continent or region to larger governments having infl uence over entire worlds and systems. Very few governments are able to extend their reach beyond a single star system and those that do rely on charismatic individuals to inspire their people; such ruling powers rarely endure beyond the lifespan of the leader.
 
-Vargr Governments Like all aspects of Vargr society, governments are in a constant state of fl ux. Borders are poorly defi ned, changing as the government gains and loses infl uence over its people. It is also important to note that a government does not necessarily have exclusive authority over the people within its boundaries; it is not uncommon for smaller governments to exist within the borders of a larger one and some groups may remain independent regardless of whether they are located within a government’s boundaries.
+Vargr Governments Like all aspects of Vargr society, governments are in a constant state of fl ux. Borders are poorly defi ned, changing as the government gains and loses infl uence over its people. It is also important to note that a government does not necessarily have exclusive authority over the people within its boundaries; it is not uncommon for smaller governments to exist within the borders of a larger one and some groups may remain independent regardless of whether they are located within a government's boundaries.
 
 To determine the primary government on a Vargr world, roll 2d6
 
@@ -2172,9 +2172,9 @@ expanded their sphere of infl uence to a subsector level or greater.
 
 By –2500 the most notable power was the Khouktae Empire, which controlled most of Dzen subsector and several border worlds in Uerra Rueshken. The Khouktae Empire remained the largest and greatest power for over 50 years until a new power began to emerge in Kfan Uzangou subsector.
 
-Gvurrdon Pact Around the year –2700 the government on Gvurrdon established a pact with a number of neighboring worlds and governments. The Gvurrdon Hvaek (Gvurrdon Pact) maintained this loose alliance and slowly grew until the year –2480 when Gvurrdon’s leader Serratogz was deposed by prince Knurroe, a charismatic and well-respected individual.
+Gvurrdon Pact Around the year –2700 the government on Gvurrdon established a pact with a number of neighboring worlds and governments. The Gvurrdon Hvaek (Gvurrdon Pact) maintained this loose alliance and slowly grew until the year –2480 when Gvurrdon's leader Serratogz was deposed by prince Knurroe, a charismatic and well-respected individual.
 
-After a short period of successful rule, Knurroe acquired a new streamlined Zhodani ship. Vargr starships of this era were unstreamlined vessels capable only of Jump-2 but the alien ship was a streamlined vessel capable of Jump-3. Knurroe’s scientists reverse engineered the alien starship giving him a great advantage over other Vargr in the sector.
+After a short period of successful rule, Knurroe acquired a new streamlined Zhodani ship. Vargr starships of this era were unstreamlined vessels capable only of Jump-2 but the alien ship was a streamlined vessel capable of Jump-3. Knurroe's scientists reverse engineered the alien starship giving him a great advantage over other Vargr in the sector.
 
 Several years later Knurroe tightened his grip on the Gvurrdon Pact and began to expand his empire using his new starships, eventually spanning the central subsectors and absorbing neighboring governments such as the Khouktae Empire. Just like other Vargr nations, the borders of Gvurrdon Pact were in a state of constant fl ux but it remained the largest Vargr empire at that time and gave its name to the sector.
 
@@ -2182,7 +2182,7 @@ The Second Diaspora Although the Vargr Pillaging that began in –2400 did not t
 
 The power vacuum left by the collapse of the Gvurrdon Pact resulted in the formation of numerous new governments. Many attempted to seize control of old Gvurrdon Pact territories but there was fi erce competition from like-mined rivals. New nations rose and fell with increasing regularity but none had managed
 
-to control a signifi cant territory for any length of time. Eventually the sector stabilized with governments’ content to retain control of a single world or system.
+to control a signifi cant territory for any length of time. Eventually the sector stabilized with governments' content to retain control of a single world or system.
 
 Toward the end of the Second Diaspora, a surge of new Vargr settlers came into Gvurrdon sector and two new nations began to gain power.
 
@@ -2192,7 +2192,7 @@ Whilst the Zaegou Federation was taking control of Ksits Usathu subsector, numer
 
 A very charismatic and skilled corsair leader called Rasorrorr was uniting these corsair bands to operate under his banner in Spurl subsector. Not only did he provide good leadership and many victories, he also organised the groups under his command to defend their newly taken worlds and territories.
 
-As Rasorrorr’s infl uence spread more colonies came under his control and Rasorrorr eventually declared himself a prince, naming his new empire Raso Gatsdzo. Although this new empire never grew beyond the boundaries of the subsector, it had a strong military consisting largely of corsair groups. After Rasorrorr’s death the empire declined until a new leader called Kaekranak was able to take power in –1769.
+As Rasorrorr's infl uence spread more colonies came under his control and Rasorrorr eventually declared himself a prince, naming his new empire Raso Gatsdzo. Although this new empire never grew beyond the boundaries of the subsector, it had a strong military consisting largely of corsair groups. After Rasorrorr's death the empire declined until a new leader called Kaekranak was able to take power in –1769.
 
 The Gvegh Wars For nearly a decade, Kaekranak strengthened his empire and expanded into Uthe subsector, encroaching on the borders of smaller nations. At the same time, the Zaegou Federation was expanding in all directions into neighboring subsectors, absorbing smaller states into its territories. Both empires were spreading into Uthe subsector where they were destined to clash.
 
@@ -2214,23 +2214,23 @@ The nature of the Society of Equals meant that their expansion was slow. They cr
 
 New Empires While the Society of Equals was expanding in central Gvurrdon and the Thoengling Empire was growing in the trailing subsectors, other new empires had also started to form. Some, such as the Pact of Gaerr, had started out as alliances formed in response to the fast-expanding Society of Equals. Other nations like the Thirz Uerra (Thirz Empire) had simply gained enough strength and power to retain control over their territories.
 
-As new empires were being established throughout the sector, the usual hostilities began. Several wars broke out but these did not last long – the smaller states were simply no match for the larger empires. Many worlds within Ongvos and Zoghz subsectors lacked the strength to resist any would- be conquerors. Only the Gvuksdourrgh government had the military might to stand against the encroaching empires and formed the Seaknouth Igz (Seaknouth Dependency) in 1039 to protect Gvuksdourrgh and its trading partners. With fi nancial support from the member worlds, Seaknouth’s power and infl uence grew to encompass nine worlds.
+As new empires were being established throughout the sector, the usual hostilities began. Several wars broke out but these did not last long – the smaller states were simply no match for the larger empires. Many worlds within Ongvos and Zoghz subsectors lacked the strength to resist any would- be conquerors. Only the Gvuksdourrgh government had the military might to stand against the encroaching empires and formed the Seaknouth Igz (Seaknouth Dependency) in 1039 to protect Gvuksdourrgh and its trading partners. With fi nancial support from the member worlds, Seaknouth's power and infl uence grew to encompass nine worlds.
 
 Many worlds within Ongvos and Zoghz subsectors lacked the strength to resist any would-be conquerors. Only the Gvuksdourrgh government had the military might to stand against the encroaching empires and formed the Seaknouth Igz (Seaknouth Dependency) in 1039 to protect Gvuksdourrgh
 
-and its trading partners. With fi nancial support from the member worlds, Seaknouth’s power and infl uence grew to encompass nine worlds.
+and its trading partners. With fi nancial support from the member worlds, Seaknouth's power and infl uence grew to encompass nine worlds.
 
 The formation of these large and powerful empires encouraged other governments to form new alliances as powerful nations were being established throughout the sector. Of course, many worlds were also determined to remain independent.
 
 The Age of Rukh More than any other individual, the well-known leader Rukh has had a major infl uence within Gvurrdon sector and his empire, the Rukh Aegz (Worlds of Leader Rukh) was founded in 1058. Rukh was not only an extremely charismatic leader but a skilled tactician and experienced raider. After uniting several corsair bands on Orra, Rukh soon gained a loyal following. His leadership was legendary and many corsair bands signed up to fi ght alongside the mighty Rukh.
 
-Under his guidance, Rukh’s forces conquered neighboring worlds and his empire swiftly expanded. Within fi ve years he had amassed a large military force and ruled half the subsector, naming it after himself. A decade later his empire spanned four subsectors and consisted of nearly 30 worlds, becoming one of the major powers in Gvurrdon sector.
+Under his guidance, Rukh's forces conquered neighboring worlds and his empire swiftly expanded. Within fi ve years he had amassed a large military force and ruled half the subsector, naming it after himself. A decade later his empire spanned four subsectors and consisted of nearly 30 worlds, becoming one of the major powers in Gvurrdon sector.
 
-As the expansion of the Worlds of Leader Rukh threatened to dominate Spurl subsector, several governments united in 1069 to form the Gnoerrgh Rukh Lloell (Anti-Rukh Coalition). The leaders of these six worlds in Spurl subsector had no desire to become part of Rukh’s empire; with Rukh’s fl eet spread over four subsectors the combined forces of the Coalition were able to defend their territories and maintain their independence from Rukh’s infl uence.
+As the expansion of the Worlds of Leader Rukh threatened to dominate Spurl subsector, several governments united in 1069 to form the Gnoerrgh Rukh Lloell (Anti-Rukh Coalition). The leaders of these six worlds in Spurl subsector had no desire to become part of Rukh's empire; with Rukh's fl eet spread over four subsectors the combined forces of the Coalition were able to defend their territories and maintain their independence from Rukh's infl uence.
 
 Uthe subsector was largely ignored by the Worlds of Leader Rukh due to the presence of the 40th Squadron. Likewise, expansion in other directions was restricted by other large nations.
 
-Rukh died in 1097 in an assault on the Zhodani world of Khoeghersaeng in Kfan Uzangou subsector. Many attributed this to his age – Rukh was 59 when he died on the front lines but the battle was still won. After Rukh’s death, the empire went through a short period of unrest and several worlds declared their independence. However, once Rukh’s son Rraedzou came of age he seized control of the government. Following in his father’s footsteps he displayed remarkable leadership and charisma, regaining the loyalty of his father’s followers and stabilizing the empire once more.
+Rukh died in 1097 in an assault on the Zhodani world of Khoeghersaeng in Kfan Uzangou subsector. Many attributed this to his age – Rukh was 59 when he died on the front lines but the battle was still won. After Rukh's death, the empire went through a short period of unrest and several worlds declared their independence. However, once Rukh's son Rraedzou came of age he seized control of the government. Following in his father's footsteps he displayed remarkable leadership and charisma, regaining the loyalty of his father's followers and stabilizing the empire once more.
 
 The Zhodani Zhodani explorers were fi rst encountered in Gvurrdon sector around –2800 but it was several centuries until the Consulate started to establish colonies in spinward region of the sector. During the Second Diaspora many Vargr settlers were attracted to worlds near the Zhodani borders for trade and raiding opportunities. There was a period of hostility between the two races, largely due to the corsair activity, but once the Zhodani made a show of force against piracy most corsair bands stopped raiding Zhodani worlds more peaceful relations were established.
 
@@ -2255,7 +2255,7 @@ GVURRDON TIMELINE OF MAJOR EVENTS Date (Imperial) Event
 –1776 The Long Night begins. Circa –1800 Zaegou Federation established. Raso Gatsdzo established.
 –1760 The Gvegh Wars begin.
 –1700 Vargr Pillaging of the Imperium ends.
-–1620 The Gvegh Wars end. 0 Third Imperium. 589 First Frontier War begins. Outworld Coalition formed. 604 First Frontier War ends. 40 th Squadron nation formed. 615 Second Frontier War begins. 620 Second Frontier War ends. 792 Thoengling Empire established. 831 Dzen Aeng Kho established. 889 Thirz Empire established. 945 Pact of Gaerr established. 1039 Seaknouth Dependency established. 1044 Commonality of Kedzudh established. 1058 World of Leader Rukh established. 1063 Free Trader’s Enterprise established. 1069 Anti-Rukh Coalition established. 1080 Nation of Urukhu established. 1084 Fanganger Federation established. 1105 Current date.
+–1620 The Gvegh Wars end. 0 Third Imperium. 589 First Frontier War begins. Outworld Coalition formed. 604 First Frontier War ends. 40 th Squadron nation formed. 615 Second Frontier War begins. 620 Second Frontier War ends. 792 Thoengling Empire established. 831 Dzen Aeng Kho established. 889 Thirz Empire established. 945 Pact of Gaerr established. 1039 Seaknouth Dependency established. 1044 Commonality of Kedzudh established. 1058 World of Leader Rukh established. 1063 Free Trader's Enterprise established. 1069 Anti-Rukh Coalition established. 1080 Nation of Urukhu established. 1084 Fanganger Federation established. 1105 Current date.
 
 #### STATES AND PEOPLES OF GVURRDON
 
@@ -2283,9 +2283,9 @@ Commonality of Kedzudh This coalition was formed in 1044 to help prevent piracy 
 
 The Commonality has limited control over its worlds and is viewed as a smaller and weaker version of the Society of Equals. Governments within the Commonality retain their autonomy but pay a small amount of tax to the Commonality to help support the police force and small navy fl eet. The powers of the law enforcement division are limited to preventing piracy and related crimes such as black market goods and contraband.
 
-The government only has one naval base, which is based on the capital of Ughz. From here, the fl eet patrols trade routes within the Commonality’s borders. Any suspected corsair vessel is boarded and searched. If a vessel is caught in the act of piracy, the navy will attempt to disable the vessel before boarding. If the suspects are determined to be guilty, they are arrested and charged.
+The government only has one naval base, which is based on the capital of Ughz. From here, the fl eet patrols trade routes within the Commonality's borders. Any suspected corsair vessel is boarded and searched. If a vessel is caught in the act of piracy, the navy will attempt to disable the vessel before boarding. If the suspects are determined to be guilty, they are arrested and charged.
 
-Any illegal or stolen goods found by the navy are confi scated and used to help fi nance the fl eet. This does not sit well with merchants who want their goods back but they are permitted to appeal within one week of the goods being impounded. Nearly a third of the navy’s funding comes from these seizures and many citizens suspect the navy of seizing vessels that are totally innocent to help fi ll the coffers.
+Any illegal or stolen goods found by the navy are confi scated and used to help fi nance the fl eet. This does not sit well with merchants who want their goods back but they are permitted to appeal within one week of the goods being impounded. Nearly a third of the navy's funding comes from these seizures and many citizens suspect the navy of seizing vessels that are totally innocent to help fi ll the coffers.
 
 Nation of Urukhu The Nation of Urukhu controls four neighboring systems in Fanganger subsector, commonly referred to as the Urukhu Cluster and another world just two parsecs away. The Nation once consisted of seven worlds but two broke away in 1084 to form the Fanganger Federation. Prince Urukhu rose to
 
@@ -2293,7 +2293,7 @@ power 25 years ago on the capital of Kaekfesa and became a well-respected leader
 
 Trade between member worlds is a thriving business and this small nation has become self-reliant. With the four worlds coexisting so well and supplying the nation with everything it needs, trade from other sources has all but dried up. In recent years the Nation of Urukhu has become more insular as few outsiders visit the Nation and its citizens have little desire to leave.
 
-Citizens are happy in their jobs and Urukhu remains a popular leader. The few Vargr that become dissatisfi ed with Urukhu’s rule usually emigrate to one of the worlds in the Fanganger Federation. However, with so much of the nation’s success being dependent on the charisma and infl uence of Urukhu, once he dies, or is no longer fi t to rule, the continued stability of these worlds is unlikely.
+Citizens are happy in their jobs and Urukhu remains a popular leader. The few Vargr that become dissatisfi ed with Urukhu's rule usually emigrate to one of the worlds in the Fanganger Federation. However, with so much of the nation's success being dependent on the charisma and infl uence of Urukhu, once he dies, or is no longer fi t to rule, the continued stability of these worlds is unlikely.
 
 Pact of Gaerr Gaerr was a charismatic leader who ruled the planet Roedz in Zoghz subsector. With new governments forming and empires growing, Gaerr soon realised that if he was to continue his rule he must expand his sphere of infl uence. However, the leaders of nearby systems were also very charismatic and it was clear that no single individual would rise above the rest to rule outright. The solution was to form the Pact of Gaerr, whereby member worlds committed to a mutual defence pact. Gaerr had the most powerful navy and constructed a naval base as a staging area for the combined forces to repair and refuel.
 
@@ -2343,7 +2343,7 @@ To help retain control over member worlds, trade permits are required for both o
 
 The stability and infl uence of the Thoengling Empire has made it a powerful nation and a major trading partner of the Imperium and is a strong supporter of Imperial interests in the Extents.
 
-Worlds of Leader Rukh The Worlds of Leader Rukh (Rukh Aegz) is still ruled from the capital of Orra by Rukh’s son, Rraedzou. The empire currently controls nearly 30 worlds spanning four subsectors. In order to maintain such a large empire, heavy taxes are levied on all worlds within its borders. Law enforcement remains at a local level but military is owned and run by the main governing body based in the capital.
+Worlds of Leader Rukh The Worlds of Leader Rukh (Rukh Aegz) is still ruled from the capital of Orra by Rukh's son, Rraedzou. The empire currently controls nearly 30 worlds spanning four subsectors. In order to maintain such a large empire, heavy taxes are levied on all worlds within its borders. Law enforcement remains at a local level but military is owned and run by the main governing body based in the capital.
 
 There is a lot of corruption in the Worlds of Leader Rukh. Bribes are made to offi cials to avoid certain taxes and charismatic individuals can talk their way out of most potential problems and fees. Uprisings are also common throughout the empire but are usually quelled by the military before they gain too much support.
 
@@ -2371,7 +2371,7 @@ with the respective Vargr governments to examine and study the Ancient sites and
 
 Minor States Most of the remaining governments (of which there are many) have no infl uence outside a single star system, with most being confi ned to a world or continent. Those that have expanded their sphere of infl uence to other systems are detailed here.
 
-Church of the Chosen Ones: This religion (see page 35 for details) controls two worlds in Dzen subsector, operating within the Society of Equals. The government is funded by collecting regular tithes from the Church’s faithful followers and residents, so there are no taxes on Aegadh. This is very appealing to many who live here but those who do not follow the faith simply see the tithe as another form of tax (which it is).
+Church of the Chosen Ones: This religion (see page 35 for details) controls two worlds in Dzen subsector, operating within the Society of Equals. The government is funded by collecting regular tithes from the Church's faithful followers and residents, so there are no taxes on Aegadh. This is very appealing to many who live here but those who do not follow the faith simply see the tithe as another form of tax (which it is).
 
 The local law enforcement has a strong presence on worlds run by the Church, with all transgressions being dealt with in a swift and severe manner. Any activities deemed to be working against the beliefs or goals of the Church are not tolerated. To maintain this edict, the police can be very intrusive into business and personal affairs; all incoming and outgoing trade is subject to thorough searches and anyone suspected of acting against the interest of the Church is detained and investigated.
 
@@ -2381,18 +2381,18 @@ Fanganger Federation: The Fanganger Federation (Fanganger Kunkouag) consists of 
 
 There are no rules or laws imposed by the Federation – the alliance is little more than a trade agreement and mutual defence treaty.
 
-Free Trader’s Enterprise: The Free Trader’s Enterprise
+Free Trader's Enterprise: The Free Trader's Enterprise
 (Ghongdhou Kuezgho) was formed in 1063 by two corsair bands in Ongvos subsector. The group has bases on Tarraekhs and Llaegh but they never raid their homeworlds. Over time the corsairs became well respected by many of the locals.
 
-The Free Trader’s Enterprise eventually seized control of Tarraekhs and Llaegh, a move that was welcomed by most citizens who had become dissatisfied with their previous leaders. Much of the government’s finances are supplemented by sanctioned raiding – this policy has
+The Free Trader's Enterprise eventually seized control of Tarraekhs and Llaegh, a move that was welcomed by most citizens who had become dissatisfied with their previous leaders. Much of the government's finances are supplemented by sanctioned raiding – this policy has
 
-made the Free Trader’s Enterprise unpopular with nearby governments and hostilities towards the Free Trader’s Enterprise are on the rise.
+made the Free Trader's Enterprise unpopular with nearby governments and hostilities towards the Free Trader's Enterprise are on the rise.
 
 Corsair Raiders The following are the most notorious corsair bands known to operate in Gvurrdon sector. Some of the smaller and less well known groups are also listed and would rival any new bands that operate in their territory.
 
 Aegzaeng: The Aegzaeng are an independent corsair band that are particularly skilled at ground assaults. They are known to many worlds and are actually involved more in legitimate mercenary work than piracy. In 1105 the group joined the powerful Kforuzeng band where they now operate as the primary ground assault unit.
 
-Dhangfa: The Dhangfa has a base on Ksaghae in Ongvos subsector but to avoid confl ict with the Free Trader’s Enterprise, the band raids worlds in Zoghz subsector. This has worked to their advantage as the governments there do not suspect that pirates attacking their worlds originate in a sector where corsair activity is primarily controlled by a governing power.
+Dhangfa: The Dhangfa has a base on Ksaghae in Ongvos subsector but to avoid confl ict with the Free Trader's Enterprise, the band raids worlds in Zoghz subsector. This has worked to their advantage as the governments there do not suspect that pirates attacking their worlds originate in a sector where corsair activity is primarily controlled by a governing power.
 
 Gvankfarraegh: The Gvankfarraegh corsair band operates in Spurl subsector and has two bases there. Many raids undertaken by the Gvankfarraegh are funded by the Anti-Rukh Coalition and directed against the Worlds of Leader Rukh. The Worlds of Leader Rukh have been unable to hunt down the pirates who continue to elude the Rukh navy.
 
@@ -2400,7 +2400,7 @@ Kaerrgga: The Kaerrgga operate out of a base on Sagukhunngo in Adhsakh subsector
 
 Kforuzeng: The Kforuzeng are the largest and most powerful corsair group in Gvurrdon sector and were formed in 1041. They are based on Oertsous in Firgr subsector and primarily operate along the Deneb border where they currently monopolise all raider activity. The band is well known to all navies and traders who frequently travel the region.
 
-Llangzoekirs: This corsair group operates in Aelluekh subsector and comprises of a number of smaller bands working under the command of a feisty Vargr female called Ongaegzlla. As the Llangzoekirs corsairs gain power, more bands fl ock to Ongaegzlla’s banner. The Llangzoekirs corsairs currently control four bases in Aelluekh subsector and will soon be large enough to spread out into neighboring subsectors.
+Llangzoekirs: This corsair group operates in Aelluekh subsector and comprises of a number of smaller bands working under the command of a feisty Vargr female called Ongaegzlla. As the Llangzoekirs corsairs gain power, more bands fl ock to Ongaegzlla's banner. The Llangzoekirs corsairs currently control four bases in Aelluekh subsector and will soon be large enough to spread out into neighboring subsectors.
 
 Llanic Raiders: The Llanic Raiders are a secret coalition of corsair bands that operate in Llanic subsector. Collectively, this
 
@@ -2410,11 +2410,11 @@ and when government patrols are increased to combat local piracy, the corsairs s
 
 The Raiders operate out of Uenag and are led by Zakskhsakrsa. Zakskhsakrsa is the governor of Uenag and leads the Visorz, who are the most powerful band in the group with a sizable fl eet of four corsair ships and nine scouts.
 
-Ongkae: The Ongkae are becoming a rising power in Ongvos subsector. They operate out of a base on Zaerrg and are fast becoming a rival to the corsair bands of the Free Trader’s Enterprise. Uthfoaek: The Uthfoaek are a recent arrival in Ksits Usathu subsector and have already made a name for themselves against their rivals, the Zollanngougz. There have been numerous confl icts between these two groups and hostilities continue to rise, threatening the stability of Ksits Usathu subsector.
+Ongkae: The Ongkae are becoming a rising power in Ongvos subsector. They operate out of a base on Zaerrg and are fast becoming a rival to the corsair bands of the Free Trader's Enterprise. Uthfoaek: The Uthfoaek are a recent arrival in Ksits Usathu subsector and have already made a name for themselves against their rivals, the Zollanngougz. There have been numerous confl icts between these two groups and hostilities continue to rise, threatening the stability of Ksits Usathu subsector.
 
 The Uthfoaek have recently established a base on Dzenzaega, bordering the Society of Equals territory. With the construction of their base the Uthfoaek are sending a message that they are here to stay, effectively declaring war against the Zollanngougz.
 
-Zollanngougz: The Zollanngougz are a large corsair group lead by a charismatic individual called Tsuetsae. Under Tsuetsae’s command, the Zollanngougz has absorbed several smaller corsair bands and the group now owns two bases in Ksits Usathu subsector.
+Zollanngougz: The Zollanngougz are a large corsair group lead by a charismatic individual called Tsuetsae. Under Tsuetsae's command, the Zollanngougz has absorbed several smaller corsair bands and the group now owns two bases in Ksits Usathu subsector.
 
 Until recently, the Zollanngougz monopolised corsair activity in Ksits Usathu subsector but the arrival of the Uthfoaek has altered the balance of power. These two groups are now at war with each other.
 
@@ -2468,20 +2468,20 @@ With the exception of the Worlds of Leader Rukh, all of the Vargr governments lo
 
 The following corporations and organizations exist within Gvurrdon sector. These represent some of the most well known and infl uential organizations although many similar ones exist throughout Gvurrdon and the Extents.
 
-Dhirrsak’s
+Dhirrsak's
 (Vargr Subsector-Wide Corporation) Dhirrsak is a junk dealer who started his business on a highly populated world. With so many businesses starting and failing there was a huge market for second hand goods and Dhirrsak capitalised on this. Although other junk dealers operated on Gaelaeth, Dhirrsak had a grander plan and his business guile meant that his company soon grew into a large corporation.
 
-Dhirrsak’s now has dealerships on two other worlds and continues to expand. With the corporation’s wide network of dealers and contacts, Dhirrsak’s has coverage over a wide area where they can quickly buy up goods from failing companies.
+Dhirrsak's now has dealerships on two other worlds and continues to expand. With the corporation's wide network of dealers and contacts, Dhirrsak's has coverage over a wide area where they can quickly buy up goods from failing companies.
 
 Home Port: Gaelaeth. Territory: Ksits Usathu subsector.
 
 Dzofakael
-(Vargr Sector-Wide Corporation) This corporation is a manufacturer of heavy equipment and ship armaments. Many Vargr ships, including navy and corsair vessels, are armed with Dzofakael weapons and protected by their armor. Dzofakael’s other products are primarily aimed at the mining industry and their bulldozers, drillers and even locomotives are used by numerous mining colonies.
+(Vargr Sector-Wide Corporation) This corporation is a manufacturer of heavy equipment and ship armaments. Many Vargr ships, including navy and corsair vessels, are armed with Dzofakael weapons and protected by their armor. Dzofakael's other products are primarily aimed at the mining industry and their bulldozers, drillers and even locomotives are used by numerous mining colonies.
 
 Home Port: Ikkhadzkfaghukh (Thoengling subsector). Territory: Gvurrdon sector.
 
 Gvaeknoks
-(Vargr Sector-Wide Line) Gvaeknoks are one of the largest Vargr shipping lines operating throughout Gvurrdon sector. They have a fl eet of jump-2 traders and jump-3 transports that provide merchant services to every world within the sector. The corporation has maintained political independence from Dzen Aeng Kho despite being based in the government’s territory.
+(Vargr Sector-Wide Line) Gvaeknoks are one of the largest Vargr shipping lines operating throughout Gvurrdon sector. They have a fl eet of jump-2 traders and jump-3 transports that provide merchant services to every world within the sector. The corporation has maintained political independence from Dzen Aeng Kho despite being based in the government's territory.
 
 Home Port: Kfolaell (Rukh subsector). Territory: Gvurrdon sector.
 
@@ -2500,7 +2500,7 @@ Krazdo Ashsanzh
 Home Port: Tsukifi. Territory: Uerra Rueshken subsector.
 
 Lorkan Kfoeng
-(Vargr Sector-Wide Corporation) Lorkan Kfoeng is an independent law enforcement agency that hires out experienced and professional agents to the government and corporations. Lorkan Kfoeng has an excellent reputation within the Society of Equals and is located on the empire’s capital. Agents are hired by the pack and are generally used as a temporary solution to bolster existing police forces or to command them in areas where the existing law enforcement is ineffective or lacking.
+(Vargr Sector-Wide Corporation) Lorkan Kfoeng is an independent law enforcement agency that hires out experienced and professional agents to the government and corporations. Lorkan Kfoeng has an excellent reputation within the Society of Equals and is located on the empire's capital. Agents are hired by the pack and are generally used as a temporary solution to bolster existing police forces or to command them in areas where the existing law enforcement is ineffective or lacking.
 
 Whenever large events require additional security or a political situation develops on a world within the Society of Equals, units of Lorkan Kfoeng will often be deployed. Not only are the Lorkan Kfoeng agents well trained and good at their job but the fact that they are independent of local governments also helps, especially when dealing with political situations.
 
@@ -2550,12 +2550,12 @@ Home Port: Torrrrerz (Firgr subsector). Territory: Torrrerz.
 Walker Robotics
 (Human Subsector-Wide Corporation) This corporation is based near the border of the Spinward Marches on a world with a sizable human population. Walker Robotics specializes in quality human-built robots aimed at the Vargr market (in both form and function). The corporation has a large facility where robots are designed and constructed. From here they are shipped out to Vargr merchants and distributors.
 
-Although there is not a huge demand for robots in Vargr space, Walker Robotics’ products are superior to Vargr made equivalents and thus have extremely high profi t margins. The main rivals of Walker Robotics are the corsair bands that steal Imperial-built robots and sell them in Vargr space.
+Although there is not a huge demand for robots in Vargr space, Walker Robotics' products are superior to Vargr made equivalents and thus have extremely high profi t margins. The main rivals of Walker Robotics are the corsair bands that steal Imperial-built robots and sell them in Vargr space.
 
 Home Port: Pandrin. Territory: Uthe subsector.
 
 Zhosokh Urs
-(Vargr Corporation) Zhosokh Urs is a guild of highly qualifi ed and respected emissaries. They established their own school called Tsu Thoezhou (Honored Gate) but due to fi nancial diffi culties it was closed down in 1104. Graduates are easily identifi ed by their right ear, which is clipped to signify the ‘well respected ear’ where the guild gets its name.
+(Vargr Corporation) Zhosokh Urs is a guild of highly qualifi ed and respected emissaries. They established their own school called Tsu Thoezhou (Honored Gate) but due to fi nancial diffi culties it was closed down in 1104. Graduates are easily identifi ed by their right ear, which is clipped to signify the 'well respected ear' where the guild gets its name.
 
 Knoellighz
 
@@ -2619,9 +2619,9 @@ Other Corporations Akerut and Oberlindes are both shipping lines based in the Sp
 
 #### ONGVOS
 
-Ongvos subsector is dominated by three major governments – the Zhodani, Thirz Empire and Seaknouth Dependency – each controlling roughly the same amount of worlds. Surrounded by these four empires are a number of independent states and the small corsair-run government, Free Trader’s Enterprise. The Society of Equals also has a small presence controlling a single world in the subsector.
+Ongvos subsector is dominated by three major governments – the Zhodani, Thirz Empire and Seaknouth Dependency – each controlling roughly the same amount of worlds. Surrounded by these four empires are a number of independent states and the small corsair-run government, Free Trader's Enterprise. The Society of Equals also has a small presence controlling a single world in the subsector.
 
-Relations between all governments, both large and small, are relatively peaceful except for the independent corsair raids and those sanctioned by the Free Trader’s Enterprise. The Ongkae are the only other corsair band known to be operating in the area and are fast becoming a rival to the activities of the Free Trader’s Enterprise.
+Relations between all governments, both large and small, are relatively peaceful except for the independent corsair raids and those sanctioned by the Free Trader's Enterprise. The Ongkae are the only other corsair band known to be operating in the area and are fast becoming a rival to the activities of the Free Trader's Enterprise.
 
 Most governments enjoy mutual trade agreements with each other but by edict of the Society of Equals, trade within their borders is restricted to member-worlds only. Relations between the Society of Equals and Thirz Empire can be quite volatile –the border worlds frequently change allegiance through uprisings or border wars.
 
@@ -2637,15 +2637,15 @@ Tarraekhs B000657-C Tarraekhs is a large asteroid that was originally colonized 
 
 The facility continued to make high profi t yields for over 100 years until the mineral deposits ran out. With so many people now out of work, many of the miners left to fi nd new jobs but some remained with the other inhabitants to start new careers. Although the asteroid had been mined out, the facility had become a thriving trade hub with nearby systems and its popularity continues to this day.
 
-More recently the corsair group known as the Free Trader’s Enterprise established a base on the asteroid and have since formed their own government, making Tarraekhs their capital. To increase the loyalty of their people and to protect their territories, the Free Trader’s Enterprise does not permit raids within its borders – this ensures safe trade for all merchants who continue to use the facility.
+More recently the corsair group known as the Free Trader's Enterprise established a base on the asteroid and have since formed their own government, making Tarraekhs their capital. To increase the loyalty of their people and to protect their territories, the Free Trader's Enterprise does not permit raids within its borders – this ensures safe trade for all merchants who continue to use the facility.
 
-Laws are fairly relaxed on Tarraekhs but surprisingly for a world run by corsairs, it is illegal to carry any weapon except blades and stunners. The reason for this is two-fold. Firstly, the reputation of the Free Trader’s Enterprise attracts many corsairs and criminal types so restricting weapons allows the government to protect its people. Secondly, it helps foster the image to outsiders that the government does not sanction violent actions (even though it does).
+Laws are fairly relaxed on Tarraekhs but surprisingly for a world run by corsairs, it is illegal to carry any weapon except blades and stunners. The reason for this is two-fold. Firstly, the reputation of the Free Trader's Enterprise attracts many corsairs and criminal types so restricting weapons allows the government to protect its people. Secondly, it helps foster the image to outsiders that the government does not sanction violent actions (even though it does).
 
 Llaegh B638359-9 Llaegh is a medium-sized world with nearly 80% of its surface covered by vast oceans. The population of around 6,500 people live in small pressure-domes with many of them connected to the starport by transport tubes.
 
 Each dome has its own small community consisting of numerous packs. Within each community there is always one dominant pack who takes leadership of that dome. Each community trades with neighboring domes, which has created a self-suffi cient society. The inhabitants only trade with neighboring systems for luxury items and technology that is unavailable locally.
 
-Although the system of government remains the same, Llaegh is now controlled by the Free Trader’s Enterprise. Life on Llaegh has remained much the same but with the presence of
+Although the system of government remains the same, Llaegh is now controlled by the Free Trader's Enterprise. Life on Llaegh has remained much the same but with the presence of
 
 Asepsedvl
 
@@ -2665,7 +2665,7 @@ Dho Ega
 
 Matlmadl
 
-Zhenchve’chip
+Zhenchve'chip
 
 B
 
@@ -2765,11 +2765,11 @@ G
 
 the corsair base the people here gain the protection of their new ruler and for the most part have welcomed the pirates to their world.
 
-All weapons are banned on Llaegh for the same reasons as on Tarraekhs. Just as on the capital of the Free Trader’s Enterprise weapons stowed on starships are perfectly legal, they just cannot leave the ship.
+All weapons are banned on Llaegh for the same reasons as on Tarraekhs. Just as on the capital of the Free Trader's Enterprise weapons stowed on starships are perfectly legal, they just cannot leave the ship.
 
 Roeknughroe B100A99-C Roeknughroe is a small moon rich in lanthanum. With such a valuable resource, Roeknughroe became a key system for the Thirz Empire and once they had conquered the small population a naval base was established here.
 
-The Thirz Empire poured a lot of resources into Roeknughroe as the lanthanum supply was essential to their expansion during the late 800s. A network of pressure domes were built on the moon’s surface, each supporting underground mining facilities and ore processing plants.
+The Thirz Empire poured a lot of resources into Roeknughroe as the lanthanum supply was essential to their expansion during the late 800s. A network of pressure domes were built on the moon's surface, each supporting underground mining facilities and ore processing plants.
 
 Conditions were poor but the pay was good and the population of miners and those in supporting roles grew at an exponential rate. More domes were built to house such vast numbers but on such a small moon conditions are overcrowded and space is at a premium.
 
@@ -2777,15 +2777,15 @@ The cost of living on Roeknughroe is high (+25% to all list prices when purchasi
 
 In order to keep the facility secure and prevent the lanthanum from being smuggled or stolen, Roeknughroe has very strict laws governing most types of possessions. All weapons and drugs are illegal. Offworlders are not permitted and any Vargr wishing to work or trade at the facility must undergo background checks before being given a license.
 
-Torrvagve A577226-C Situated between the worlds of the Free Trader’s Enterprise is the sparsely populated world of Torrvagve. Although the world is run by an independent government there is a strong presence by the Church of the Chosen Ones who were drawn here by the discovery of some Ancient ruins in the northern polar region.
+Torrvagve A577226-C Situated between the worlds of the Free Trader's Enterprise is the sparsely populated world of Torrvagve. Although the world is run by an independent government there is a strong presence by the Church of the Chosen Ones who were drawn here by the discovery of some Ancient ruins in the northern polar region.
 
 The Church was quick to establish control of the area and remain an independent state from the main ruling government. The nature of the ruins is known only to followers of the Church who worship the site rather than study it. The Zhodani Consulate
 
-Name Location Statistics Bases Trade Codes Allegiance Gas Giants Enjtodl 0104 C8A8100-8 Z Lo Ni Fl Zh G Zhenchve’chip 0202 B666558-8 Ag Ni Zh G Matlmadl 0205 B646730-8 Ag Zh G Dho Ega 0208 E580653-7 Ni Ri De Vp Zaerrg 0306 C674683-8 Ag Ni Va G Unoldhasaellae 0309 B300687-9 Na Ni Va Vp Angudh 0401 E7A77BA-8 C Fl Va G Knoelurzudal 0402 A552614-C Ni Po Va G Duduell 0403 C552215-6 C Lo Ni Po Va G Tarraekhs 0405 B000657-C C Na Ni As Va G Uedhoelukhue 0407 B300314-9 Lo Ni Va Va Roeknughroe 0410 B100A99-C Hi Na Va Vp G Gvuksdourrgh 0502 A685132-C G Lo Ni Vs G Songi 0503 B736467-A Ni Vs Llaegh 0504 B638359-9 C Lo Ni Va Torrvagve 0505 A577226-C Lo Ni An Va Dzukoun 0703 B788899-7 Ri An Vs G Onengoen 0709 B550778-A Po De Va G Zangerr 0803 D100542-7 Ni Va Vs G Ksaghae 0804 D878310-5 C Lo Ni Va Tengerkukokhs 0807 C87A532-8 Ni Wa Va G Ellfoegoezou 0808 E58878B-5 Ag Ri Va Gantsugh 0809 A000100-D Lo Ni As Vd
+Name Location Statistics Bases Trade Codes Allegiance Gas Giants Enjtodl 0104 C8A8100-8 Z Lo Ni Fl Zh G Zhenchve'chip 0202 B666558-8 Ag Ni Zh G Matlmadl 0205 B646730-8 Ag Zh G Dho Ega 0208 E580653-7 Ni Ri De Vp Zaerrg 0306 C674683-8 Ag Ni Va G Unoldhasaellae 0309 B300687-9 Na Ni Va Vp Angudh 0401 E7A77BA-8 C Fl Va G Knoelurzudal 0402 A552614-C Ni Po Va G Duduell 0403 C552215-6 C Lo Ni Po Va G Tarraekhs 0405 B000657-C C Na Ni As Va G Uedhoelukhue 0407 B300314-9 Lo Ni Va Va Roeknughroe 0410 B100A99-C Hi Na Va Vp G Gvuksdourrgh 0502 A685132-C G Lo Ni Vs G Songi 0503 B736467-A Ni Vs Llaegh 0504 B638359-9 C Lo Ni Va Torrvagve 0505 A577226-C Lo Ni An Va Dzukoun 0703 B788899-7 Ri An Vs G Onengoen 0709 B550778-A Po De Va G Zangerr 0803 D100542-7 Ni Va Vs G Ksaghae 0804 D878310-5 C Lo Ni Va Tengerkukokhs 0807 C87A532-8 Ni Wa Va G Ellfoegoezou 0808 E58878B-5 Ag Ri Va Gantsugh 0809 A000100-D Lo Ni As Vd
 
 have long tried to convince the Church of the Chosen Ones to allow Zhodani scientists and experts access to the Ancient ruins but all requests have been denied on the grounds that it would be sacrilege to allow non-believers access to such a holy place.
 
-Fearful that the Zhodani or Vargr organizations might one day attempt to use force to gain access to their revered ‘temple’, the area is well protected by security guards and defence systems.
+Fearful that the Zhodani or Vargr organizations might one day attempt to use force to gain access to their revered 'temple', the area is well protected by security guards and defence systems.
 
 Dzukoun B788899-7 Dzukoun is a water world located in Seaknouth Dependency territory. The oceans are teeming with sea life and microscopic nutrients, which has attracted numerous fi shing communities and mining corporations with advanced water fi ltration technology capable of extracting minerals from the seawater. Both of these industries have yielded substantial profi ts making the government and citizens of Dzukoun very wealthy.
 
@@ -2805,7 +2805,7 @@ In later years when the world was threatened by larger powers, the people of Onl
 
 Taekfoengsegzo B866569-9 Taekfoengsegzo is an agrarian world that has suffered a typical Vargr history of violence, multiple governments, confl ict and uprisings. The fi rst Vargr settlers established a small city during the Second Diaspora and the population soon grew to numerous cities and farmsteads scattered around the planet.
 
-Once the Society of Equals’ infl uence had spread to Zoghz, Taekfoengsegzo lost its major trade routes to worlds that joined the expanding empire. Eventually the government had no choice but to join the Society of Equals to save the failing economy of Taekfoengsegz. Although the renewed trade helped to stabilize the government, a separatist movement was gradually gaining support.
+Once the Society of Equals' infl uence had spread to Zoghz, Taekfoengsegzo lost its major trade routes to worlds that joined the expanding empire. Eventually the government had no choice but to join the Society of Equals to save the failing economy of Taekfoengsegz. Although the renewed trade helped to stabilize the government, a separatist movement was gradually gaining support.
 
 After several failed uprisings, the separatist movement have recently hired mercenaries and corsairs to seize control of the government and declare independence from the Society of Equals. The majority of farmers and merchants openly criticized the move to independence, forcing the new government to declare martial law. Strict laws remain in effect, isolating Taekfoengsegzo and its citizens.
 
@@ -2921,13 +2921,13 @@ A steady stream of new arrivals has begun to arrive on Luer- rgnudhlaerz and loc
 
 Uekongull A779324-E This high-tech world consists largely of oceans with several archipelagos. This unusual world is home to around 4,000 Vargr spread over the tiny islands in small communities.
 
-Situated on these islands are a number of academies, libraries and research institutes that attract Vargr scholars and intellectuals from all over Gvurrdon sector – Uekongull is now commonly referred to as ‘the world of thinkers’. A substantial amount of new Vargr technology is conceived on Uekongull and the think tanks and schools are now funded by the Seaknouth Dependency and private corporations.
+Situated on these islands are a number of academies, libraries and research institutes that attract Vargr scholars and intellectuals from all over Gvurrdon sector – Uekongull is now commonly referred to as 'the world of thinkers'. A substantial amount of new Vargr technology is conceived on Uekongull and the think tanks and schools are now funded by the Seaknouth Dependency and private corporations.
 
 Offi cials in the Seaknouth Dependency hope that advances made on Uekongull will help strengthen their military and improve the lifestyle of their citizens.
 
 Kukhvu A000422-F Kukhvu is a high-tech orbital facility that was built shortly after the Seaknouth Dependency was established to serve as the
 
-government’s primary shipyard. Since its construction it has been upgraded several times as new advances in technology have been made.
+government's primary shipyard. Since its construction it has been upgraded several times as new advances in technology have been made.
 
 In addition to constructing and repairing the mainstay vessels of the Seaknouth navy, new designs are also prototyped here
 (many of which originate on Uekongull). Kukhvu is defended by a small fl eet and a substantial defence grid. Many of the ships being worked on can also be called into service if need be.
@@ -3050,17 +3050,17 @@ ng
 
 suits leaked, air supplies failed and vehicles broke down and nearly every time this happened it resulted in casualties.
 
-Eventually, the equipment was improved and modifi ed to better withstand the conditions here and the fi rst subterranean settlement was eventually completed, incorporating housing, mining and refi ning facilities. The money soon fl owed as quickly as the lava and more underground settlements were excavated under the planet’s surface.
+Eventually, the equipment was improved and modifi ed to better withstand the conditions here and the fi rst subterranean settlement was eventually completed, incorporating housing, mining and refi ning facilities. The money soon fl owed as quickly as the lava and more underground settlements were excavated under the planet's surface.
 
 Even with better quality equipment. Exposure to the surface climate is limited and in order for the population to endure life on Tanga, numerous recreational facilities were constructed within the underground settlements and they soon became as loud and garish as any other Vargr community.
 
 Mechanics and engineers are always in high demand on Tanga and they are well paid for their services. Trade is also important for spare parts and replacement equipment – so great is the demand that many junk dealers sell exclusively to settlements on Tanga.
 
-Until recently, communities on Tanga have enjoyed good living and a thriving trade. So harsh are the conditions here that disagreements beyond trivial Vargr infi ghting are very rare. The Tangan’s are proud of their communities and what they have built. They value their independence highly and opinion has always been divided about joining the Pact of Gaerr.
+Until recently, communities on Tanga have enjoyed good living and a thriving trade. So harsh are the conditions here that disagreements beyond trivial Vargr infi ghting are very rare. The Tangan's are proud of their communities and what they have built. They value their independence highly and opinion has always been divided about joining the Pact of Gaerr.
 
 Following the coup on Karrksinarka, the military on Tanga were inspired to follow suit and seized power, seceding from the Pact of Gaerr. This resulted in anarchy – citizens rioted, miners refused to work and engineers laid down their tools. However, the new government quickly took control using its military might to quell the riots and crush any opposition. A military dictatorship now rules Tanga and the money is starting to fl ow once more.
 
-Ikhotakhang B668766-5 Ikhotakhang is a water world that is home to an indigenous race of reptilian sophonts. This race was fi rst discovered by the Society of Equals in 898 who named them Vozkell, meaning ‘lizard people’.
+Ikhotakhang B668766-5 Ikhotakhang is a water world that is home to an indigenous race of reptilian sophonts. This race was fi rst discovered by the Society of Equals in 898 who named them Vozkell, meaning 'lizard people'.
 
 The Vozkell The Vozkell have a humanoid physiology and typically stand fi ve to six feet in height. Their skin consists of tough scales (armor 1), which is usually green in colour but some have a yellow hue. Many Vozkell also have dark patches of browns and rustic colours. Vozkell have Notable Endurance (+1) and Weak Strength (–1).
 
@@ -3078,13 +3078,13 @@ formed, each competing for dominance and leadership. The Vozkell were caught in 
 
 Karrksinarka B886300-8 Karrksinarka was a thriving world with a population of nearly 100,000 people and was a member of the Pact of Gaerr since the state was founded in 945. In 1089 an infl uential naval offi cer called Kuengo openly criticized the government for its weak leadership and poor decisions concerning its military. Kuengo soon gained a strong following from his men and staged a military coup.
 
-The result was a violent civil war that ravaged the world, killing thousands. Kuengo’s forces eventually captured the naval base
+The result was a violent civil war that ravaged the world, killing thousands. Kuengo's forces eventually captured the naval base
 
 - this attack cost many lives on both sides but many of the opposing military had a new found respect for Kuengo and changed allegiance. The government knew they had lost and fl ed Karrksinarka to make new homes on Gkakhaellan and Vorroeng. This was followed by a mass exodus of citizens that left fewer than 10,000 people on Karrksinarka, most of which are military personnel.
 
 Karrksinarka is now an independent world and Kuengo is now in the process of forming a militant government. However, with so few citizens in his population he lacks enough resources to effectively support his military and maintain the economy.
 
-The Pact of Gaerr and other neighboring worlds now fear Kuengo’s next move as he has inherited a naval base and much of the Karrksinarka fl eet. He also has a loyal following and a need to support and rebuild his world – the most obvious course of action would be to begin raiding neighboring systems but Kuengo’s agenda remains to be seen.
+The Pact of Gaerr and other neighboring worlds now fear Kuengo's next move as he has inherited a naval base and much of the Karrksinarka fl eet. He also has a loyal following and a need to support and rebuild his world – the most obvious course of action would be to begin raiding neighboring systems but Kuengo's agenda remains to be seen.
 
 Sagukhunngo B995654-7 Sagukhunngo was one of the fi rst worlds to be settled in Gvurrdon sector during the Vargr Diaspora. Its early history is typical of many during that period with numerous factions vying for control of the planet.
 
@@ -3104,7 +3104,7 @@ To prevent such raids from occurring, a skilled emissary was able to negotiate a
 
 Fanganger is perhaps the quietist and most peaceful subsector currently in Gvurrdon sector outside the Society of Equals territory. The largest power here is the Pact of Gaerr that currently controls six worlds. The Nation of Urukhu was once an equal and rival empire but their isolationism means they are of little concern to other states and much of their infl uence was lost when two worlds broke away to form the Fanganger Federation. The Thoengling Empire also has minimal infl uence with only a single world at the edge of the subsector.
 
-Corsair activity is minimal in Fanganger and there are no bases or large bands that operate here. The Kaerrgga occasionally come this far when anti-corsair patrols in their home subsector of Adhsakh become too active. However, with the centre worlds of the Nation of Urukhu isolated from the rest of Fanganger there is little interstellar trade worth plundering.
+Corsair activity is minimal in Fanganger and there are no bases or large bands that operate here. The Kaerrgga occasionally come this far when anti-corsair patrols in their home subsector of Adhsakh become too active. However, with the center worlds of the Nation of Urukhu isolated from the rest of Fanganger there is little interstellar trade worth plundering.
 
 Kaeg D423412-7 Kaeg was once a thriving world of agriculture and trade. Factions within the balkanised government were in constant confl ict and their downfall came following decades of disputes over joining the Pact of Gaerr. In 1079 a civil war broke out that ravaged the planet. The war lasted several years until weapons of mass destruction were employed, which killed millions, levelled cities and contaminated the once fertile lands.
 
@@ -3228,7 +3228,7 @@ Utsurr A550300-E Utsurr is a desert planet that was colonized during the decline
 
 Name Location Statistics Bases Trade Codes Allegiance Gas Giants Uerkfadzigue 0107 B582110-8 Lo Ni Va G Agh Thars 0109 B522278-7 Lo Ni Po Va G Lluezukgzang 0301 A432A99-E Hi In Na Po Vg G Fukoezo 0302 A626645-9 Ni Vg G Kaeg 0303 D423412-7 G Ni Po Vg G Vakhoell 0304 A584479-D G Ni Vg G Gegerrrarrunu 0402 A421120-D Lo Ni Po Vg G Ukokhuvoen 0406 C637232-7 Lo Ni Vu G Kaekfesa 0407 A997554-A G Ag Ni Cp Vu G Dorrorue 0408 C659631-4 Ni Vu G Okhgvonan 0501 C310377-A Lo Ni Vg G Ngersouluekorruk 0505 A8AA432-C Fl Ni Wa Va G Kutsgarrae 0508 B200304-9 Lo Ni Va Vu G Fuedhgusnaezrerzgzang 0603 B561773-6 Va G Utsurr 0604 A550300-E Lo Ni Po De Va G Khoekhoerr 0610 B200443-A Ni Va Vt G Ozago 0707 B431731-8 Na Po Vu G Dhurrgthaedz 0801 B56269B-A Ni Ri Va G
 
-Thunkae (Seekers of Destiny) religion attracts the minority of Vargr who believe that because they were engineered from a lower life form by the Ancients, the Vargr are an inferior race. The interesting aspect of this religion is that it does not encourage the beliefs it was based on and the organization is based around the concept of proving one’s worth as an individual.
+Thunkae (Seekers of Destiny) religion attracts the minority of Vargr who believe that because they were engineered from a lower life form by the Ancients, the Vargr are an inferior race. The interesting aspect of this religion is that it does not encourage the beliefs it was based on and the organization is based around the concept of proving one's worth as an individual.
 
 In order to prove that they are worthy beings, members of the cult must face a number of trials designed to test their worthiness, pushing the very limits of mind and body – fasting, questing for inner wisdom or guidance, and tests of endurance all take place under the cruel heat of the deserts where only the strongest survive.
 
@@ -3384,9 +3384,9 @@ Uthgvoe is also home to the main headquarters of the Sueklloukhkna Corporation. 
 
 Tsukifi B97788C-8 Tsukifi is a large Earth-like world with a population of 500 million people. The majority of these are Vargr but there is also a noticeable portion of humans whose ancestors were brought here as slaves during the Pillaging. Slavery has long since been abolished on Tsukifi and the humans have integrated into the Vargr culture, established their own settlements or left for human space if they were able.
 
-This part of Tsukifi ’s history has been forgotten by most, allowing humans and Vargr to coexist in relative peace. Humans on Tsukifi tend to display Vargr traits and are treated as equals with some charismatic individuals even becoming pack leaders.
+This part of Tsukifi 's history has been forgotten by most, allowing humans and Vargr to coexist in relative peace. Humans on Tsukifi tend to display Vargr traits and are treated as equals with some charismatic individuals even becoming pack leaders.
 
-Also of historical interest is Tsukifi ’s importance to the empire of the Gvurrdon Pact during its reign of power (circa –2700 to
+Also of historical interest is Tsukifi 's importance to the empire of the Gvurrdon Pact during its reign of power (circa –2700 to
 –2300). Tsukifi is the only world within two parsecs of Gvurrdon
 (Kfan Uzangou subsector), which made it an important trade hub for the capital of the Gvurrdon Pact.
 
@@ -3406,9 +3406,9 @@ The Society of Equals maintains constant patrols throughout the system to preven
 
 Every world within Dzen is controlled by the Society of Equals and this subsector is the heart of its empire. Hostilities arise between the many governments that rule each world but major confl icts are rare due to the mutual trade fostered by the Society of Equals.
 
-Corsair raids are also uncommon due to the frequent patrols by the Society of Equals’ naval fl eets. It is their presence that allows interstellar trade to thrive between member worlds.
+Corsair raids are also uncommon due to the frequent patrols by the Society of Equals' naval fl eets. It is their presence that allows interstellar trade to thrive between member worlds.
 
-Ngoerrgh E42065A-7 Ngoerrgh is a backwater world. It is of little interest except for the curious nature of the government who rely on computers to make all their decisions. Unfortunately, the relatively low-tech computers that they use often cause more problems than they solve. A higher level of technology would solve many of the world’s problems but ironically such items are illegal in order to safeguard the government’s control.
+Ngoerrgh E42065A-7 Ngoerrgh is a backwater world. It is of little interest except for the curious nature of the government who rely on computers to make all their decisions. Unfortunately, the relatively low-tech computers that they use often cause more problems than they solve. A higher level of technology would solve many of the world's problems but ironically such items are illegal in order to safeguard the government's control.
 
 Although there is a single government in control of the planet each continent is ruled by a separate faction. These factions continually compete to become the ruling faction and success is largely dictated by the effectiveness of the technology, so much of their resources are invested into research and development. Some factions have even incorporated their computers into robots for both aesthetic and practical reasons.
 
@@ -3528,7 +3528,7 @@ To the amazement of many, this new system was successful and has remained for ov
 
 Aegadh B737ADC-B Aegadh was the capital of the old Khouktae Empire before it was absorbed into the Gvurrdon Pact, which in turn collapsed around –2300. For over 3,000 years, the leadership on Aegadh frequently changed until the Church of the Chosen Ones (see page 35) founded a community here in 986 and established control of the planet. The Church has remained the ruling power despite numerous attempts to push them out of power by other factions.
 
-Due to the government’s power, Aegadh has become the primary branch of the Church of the Chosen Ones. The capital city, Errgkhourrraegh, is located 20 kilometres from the starport and is home to the Museum of the Supremacy of Vargr Culture. The museum is well known amongst the Church’s followers and illustrates the history of the Church and the Vargr race
+Due to the government's power, Aegadh has become the primary branch of the Church of the Chosen Ones. The capital city, Errgkhourrraegh, is located 20 kilometers from the starport and is home to the Museum of the Supremacy of Vargr Culture. The museum is well known amongst the Church's followers and illustrates the history of the Church and the Vargr race
 (as perceived by the Church of the Chosen Ones). Anyone is welcome to visit the museum – it is free to enter but a donation is expected.
 
 Situated near the museum is a large temple and gardens; these facilities are collectively known as the Church District. This is a
@@ -3539,13 +3539,13 @@ signifi cant place for worshippers and the site has become the focus of many pil
 
 Dzuerongvoe B664997-C Dzuerongvoe is a medium sized world comprised of roughly half water and half land. This geography and the standard atmosphere made it a perfect world for colonization during the Second Diaspora. Following the usual Vargr history of confl ict and war, a skilled and respected leader eventually established a stable government.
 
-The population continued to grow and although numerous uprisings and bids for power occurred, the original government eventually reformed and took control. As hostilities began to escalate in the period following the Gvegh Wars, the government knew they had to establish a method of governing their growing empire and set in place the foundations for the Society of Equals with Dzuerongvoe forming the empire’s capital.
+The population continued to grow and although numerous uprisings and bids for power occurred, the original government eventually reformed and took control. As hostilities began to escalate in the period following the Gvegh Wars, the government knew they had to establish a method of governing their growing empire and set in place the foundations for the Society of Equals with Dzuerongvoe forming the empire's capital.
 
-With so many of the government’s resources taken up with running the empire, the local leadership has become more isolated from the people of Dzuerongvoe. Ironically, uprisings and bids for power are more common on the nation’s capital than on most other worlds within the Society of Equals. However, those that have been successful in seizing power soon fall victim to the same bureaucracy.
+With so many of the government's resources taken up with running the empire, the local leadership has become more isolated from the people of Dzuerongvoe. Ironically, uprisings and bids for power are more common on the nation's capital than on most other worlds within the Society of Equals. However, those that have been successful in seizing power soon fall victim to the same bureaucracy.
 
 Dzuerongvoe is also the main base of operations for the Lorkan Kfoeng corporation (see page 119). This company is an independent agency of law enforcement specialists and their agents are used as much on Dzuerongvoe as they are throughout the Society of Equals.
 
-Lling B561866-9 Lling is ruled from the neighboring system of Aegadh and has several unusual qualities. The fi rst is that despite being the planetary rulers, the Church of the Chosen Ones has little infl uence here. There are various communes located near the major cities but the presence of Church followers is relatively small in comparison to the planet’s population. This is largely due to the fact that most worshippers would rather live on the capital than in a neighboring system.
+Lling B561866-9 Lling is ruled from the neighboring system of Aegadh and has several unusual qualities. The fi rst is that despite being the planetary rulers, the Church of the Chosen Ones has little infl uence here. There are various communes located near the major cities but the presence of Church followers is relatively small in comparison to the planet's population. This is largely due to the fact that most worshippers would rather live on the capital than in a neighboring system.
 
 The second unusual trait of Lling is that even though it is governed from a separate star system, there is little unrest from the population here. Many attribute this fact to the artistic nature of the society. Lling is known throughout the Society of Equals for its exquisite art, cultural traditions and lavish festivals. From laser sculptures to immense tapestries; the quality and variety of the artworks produced here have made Lling a rich and prosperous world. The frequent festivals held in all the major cities are popular with people of all races and draws many visitors to Lling.
 
@@ -3583,7 +3583,7 @@ equipment, ore extraction is a slow process but Gurzueng is slowly growing in si
 
 Although Gurzueng has no government or law, it is a member of the Society of Equals and is therefore obliged to pay a share of their profi ts in return for the protection provided by the Society of Equals. This is a good example of how mutually benefi cial it can be for small independent worlds to be part of a larger empire; Gurzueng is vulnerable to raids on their silver ore so the cost of membership ensures they can continue to trade with little fear of attack.
 
-Lloursouth A553A9E-C Lloursouth is another Vargr oddity. Despite the Vargr’s reluctance for rules and regulations, the government on Lloursouth thrives on them. A variety of permits and licences are required for just about any activity including driving, fl ying, investigating, manufacture, medical care, entertaining, trading and salvage, the latter of which has caught out many junk dealers.
+Lloursouth A553A9E-C Lloursouth is another Vargr oddity. Despite the Vargr's reluctance for rules and regulations, the government on Lloursouth thrives on them. A variety of permits and licences are required for just about any activity including driving, fl ying, investigating, manufacture, medical care, entertaining, trading and salvage, the latter of which has caught out many junk dealers.
 
 Permits are also required for the possession and trade of most items so the authorities can trace the ownership of goods such as various types of drugs, food, information, technology and weapons. This is another area where visitors fall foul of the complicated bureaucracy. Merchants need permits for every type of item they trade, in addition to their trading licence.
 
@@ -3711,9 +3711,9 @@ The farmers soon learnt the techniques for hunting the creatures. Visits to the 
 
 When the Thoengling Empire was expanding, Olgan was soon taken and ksarrg grounds were created on three more islands. As word spread of the successful ksarrg enclosures, many Vargr visited Olgan to partake in hunting expeditions; a traditional pastime that was still popular for many hunters and warriors. The hunting grounds are strictly regulated and have become a popular destination for many Vargr in the Thoengling Empire and beyond.
 
-Thoengling A9AA6BA-B Thoengling is a large world with vast fl uid oceans covering most of the planet’s surface. The toxic nature of the oceans has saturated the land and air, preventing life from developing here. This has led to many individuals to postulate why it became the capital of the Thoengling Empire in 1011 and was renamed accordingly.
+Thoengling A9AA6BA-B Thoengling is a large world with vast fl uid oceans covering most of the planet's surface. The toxic nature of the oceans has saturated the land and air, preventing life from developing here. This has led to many individuals to postulate why it became the capital of the Thoengling Empire in 1011 and was renamed accordingly.
 
-There are several reasons for the relocation of the Thoengling capital. Firstly, the planet is located in the centre of the Empire, minimising travel times for couriers and supplies and maximising the reach of the government’s infl uence. Secondly, since the core offi cials and bureaucrats are all situated on this inhospitable and unpleasant world, only the most loyal and dedicated individuals are compelled to live here. The original capital on Ikkhadzkfaghukh had such a large population that dissident movements would be a risk to the leadership and without a surplus population that threat is minimised.
+There are several reasons for the relocation of the Thoengling capital. Firstly, the planet is located in the center of the Empire, minimising travel times for couriers and supplies and maximising the reach of the government's infl uence. Secondly, since the core offi cials and bureaucrats are all situated on this inhospitable and unpleasant world, only the most loyal and dedicated individuals are compelled to live here. The original capital on Ikkhadzkfaghukh had such a large population that dissident movements would be a risk to the leadership and without a surplus population that threat is minimised.
 
 #
 
@@ -3847,7 +3847,7 @@ The well known heavy-equipment company, Dzofakael (see page 118), is also based 
 
 Kfan Uzangou is one of the most hostile subsectors in Gvurrdon sector. There are 13 independent states that cover most of the subsector, whilst the Thirz Empire, Worlds of Leader Rukh and the Zhodani Consulate each control a corner.
 
-Ethue B554363-B Although Ethue is located adjacent to the Zhodani border, it was never part of the Consulate’s plans for colonization and was ignored for thousands of years. Similarly, the Vargr had never paid much heed to the world either until it was settled during the Gvegh Wars by refugees fl eeing the many war-zones.
+Ethue B554363-B Although Ethue is located adjacent to the Zhodani border, it was never part of the Consulate's plans for colonization and was ignored for thousands of years. Similarly, the Vargr had never paid much heed to the world either until it was settled during the Gvegh Wars by refugees fl eeing the many war-zones.
 
 The population slowly grew to about 5,000 where it remained relatively constant. Situated between a Zhodani and another Vargr world meant that regular transports passed through and the Vargr gradually built up their settlement into the high-tech city that it is today.
 
@@ -3855,11 +3855,11 @@ Two years ago a pack of prospectors discovered the remains of an Ancient settlem
 
 Once news of this discovery reached the governor, he knew that such a fi nd could transform his small settlement into a rich and prosperous city. His negotiations with Konlo were unsuccessful so the greedy governor decided to use force to acquire what he perceived to be rightly his. Konlo suspected such a move and hired mercenaries to protect his livelihood.
 
-Several battles ensued and Konlo needed to end the hostilities quickly before the Ancient site was damaged. Konlo paid a corsair band to help take control of Ethue and push the governor out of power. Konlo’s plan was successful but his actions were not popular with the people of Ethue, so Konlo continues to hire mercenaries and corsairs to maintain control of the city and the Ancient site.
+Several battles ensued and Konlo needed to end the hostilities quickly before the Ancient site was damaged. Konlo paid a corsair band to help take control of Ethue and push the governor out of power. Konlo's plan was successful but his actions were not popular with the people of Ethue, so Konlo continues to hire mercenaries and corsairs to maintain control of the city and the Ancient site.
 
 Khoeghersaeng B896455-7 Khoeghersaeng used to be a Zhodani world called Zdetlroz. Large domes protected the inhabitants from the tainted atmosphere and the cities were of a moderate size.
 
-When the Worlds of Leader Rukh expanded just over 50 years ago, Rukh wanted to take a Zhodani world to ‘send a message’. The war for Khoeghersaeng began in 1097 and lasted several months, during which time many of the cities were destroyed. The Vargr were eventually victorious but they had taken huge losses, with Rukh himself receiving a fatal injury. The message had been sent but with the death of Rukh it had little meaning.
+When the Worlds of Leader Rukh expanded just over 50 years ago, Rukh wanted to take a Zhodani world to 'send a message'. The war for Khoeghersaeng began in 1097 and lasted several months, during which time many of the cities were destroyed. The Vargr were eventually victorious but they had taken huge losses, with Rukh himself receiving a fatal injury. The message had been sent but with the death of Rukh it had little meaning.
 
 Many of the surviving Zhodani left their devastated world but some were unable or unwilling to leave; those that remained formed a new community in one of the smaller domes. The Vargr populated one of the remaining cities but the two races remain very much segregated.
 
@@ -3869,7 +3869,7 @@ The Worlds of Leader Rukh are the most contentious nation, sparking hostilities 
 
 Amidst the numerous confl icts that terrorise so many worlds in Kfan Uzangou, the Zhodani and the Thirz Empire have fostered mutual trade agreements and relations between these two governments are at their strongest in this subsector.
 
-Aersaedha B98A88A-8 During the expansion of the Thirz Empire, Aersaedha occupied a key strategic location but was already controlled by an independent government unwilling to join the Thirz Empire. Although the government’s military was much weaker than the Thirz forces, the Vargr on Aersaedha were united and formed a strong resistance to defend their world. They fought for two years before they were eventually conquered by the Thirz army.
+Aersaedha B98A88A-8 During the expansion of the Thirz Empire, Aersaedha occupied a key strategic location but was already controlled by an independent government unwilling to join the Thirz Empire. Although the government's military was much weaker than the Thirz forces, the Vargr on Aersaedha were united and formed a strong resistance to defend their world. They fought for two years before they were eventually conquered by the Thirz army.
 
 The Thirz Empire quickly constructed a base to strengthen their borders and a new government was put in place. Thirz citizens were encouraged to settle on Aersaedha from Uerra Rueshken subsector to help establish the infrastructure of this important world. Most of the original inhabitants who had survived did not have the means to leave and were used as slave labour in the rebuilding of the Thirz colony.
 
@@ -4023,7 +4023,7 @@ As the subterranean levels evolved, so did the society of Gvurrdon. The upper ci
 
 To be wealthy one must be successful and success usually means charisma. So those living in the upper cities had a great deal of respect and infl uence, whilst those underground lack the charisma to make it into the esteemed upper-world. With this new underclass living below the cities, the undesirable jobs made the same transition and had the lowest pay. This culture and class system on Gvurrdon continues to this day.
 
-A common term used on Gvurrdon is ‘rising up through society’ and making the transition from under-city to upper-city is seen as a great achievement by both classes – Vargr are not judged on where they came from, it is their current standing that is of importance.
+A common term used on Gvurrdon is 'rising up through society' and making the transition from under-city to upper-city is seen as a great achievement by both classes – Vargr are not judged on where they came from, it is their current standing that is of importance.
 
 After the decline of the Gvurrdon Pact, Gvurrdon went through numerous governments and leaders. With such a large population many factions emerged, each vying for power. The current government has been in power for 30 years with little opposition.
 
@@ -4041,13 +4041,13 @@ Shortly after becoming ruler of Aerrigha, Azae became an overlord of Faarzgaen b
 
 Access to Aerrigha is strictly monitored. Access to the spaceport is only granted to those who have proven their faith in Faarzgaen
 
-- anyone landing on Aerrigha who does not demonstrate their faith will be punished accordingly and could be forced into slavery. Proving one’s faith can be as simple as acknowledging the One God but more dogmatic offi cials will require greater knowledge of the religion such as quoting scriptures or reciting history. For this reason, very few people visit Aerrigha unless they are believers or know enough about the religion to bluff their way into the spaceport.
+- anyone landing on Aerrigha who does not demonstrate their faith will be punished accordingly and could be forced into slavery. Proving one's faith can be as simple as acknowledging the One God but more dogmatic offi cials will require greater knowledge of the religion such as quoting scriptures or reciting history. For this reason, very few people visit Aerrigha unless they are believers or know enough about the religion to bluff their way into the spaceport.
 
 #### RUKH
 
 Rukh sector was named by the well-know leader who began his empire in this subsector. The Worlds of Leader Rukh controls 12 systems in Rukh but since the death of their leader in 1097, three worlds have declared independence. The Society of Equals also has a small presence in Rukh but their worlds are far enough away from the Worlds of Leader Rukh to avoid hostilities (in this subsector at least).
 
-Although the expansion of the Rukh empire has all but stopped, there are four neutral governments that border the empire (three of which were once part of it). Hostilities are on the rise and many fear that Rukh’s son, Rraedzou, will eventually reclaim these worlds and spark a new expansion of the empire.
+Although the expansion of the Rukh empire has all but stopped, there are four neutral governments that border the empire (three of which were once part of it). Hostilities are on the rise and many fear that Rukh's son, Rraedzou, will eventually reclaim these worlds and spark a new expansion of the empire.
 
 Orra A00089C-E Orra is an asteroid that was originally used as a safe haven for smugglers and corsairs. A rudimentary starport was constructed
 
@@ -4055,7 +4055,7 @@ and as it saw more use, the huge rock was excavated and the settlement gradually
 
 When Rukh fi rst arrived on the scene he saw the potential of Orra and the brigands that frequented it. He united several corsair bands and soon gained a following powerful enough to begin his empire. The facility on Orra was enlarged and became a fully functional city from where Rukh could lead his people to glory.
 
-Orra remained the capital of Rukh’s empire and as the nation expanded, the need for bureaucracy and administration grew with it. Most of these duties continue to be performed on Orra but the city, which has since been expanded beyond the confi nes of the asteroid, also thrives from manufacturing and trade.
+Orra remained the capital of Rukh's empire and as the nation expanded, the need for bureaucracy and administration grew with it. Most of these duties continue to be performed on Orra but the city, which has since been expanded beyond the confi nes of the asteroid, also thrives from manufacturing and trade.
 
 Voullatueng A203326-E Voullatueng is a small frozen wasteland ravaged by constant winds and deadly storms. The planet is unstable causing frequent earthquakes and avalanches. Voullatueng is such a hostile planet that only the brave or desperate come here and few stay long enough to call it home.
 
@@ -4088,19 +4088,19 @@ Kfolaell became a popular world for interstellar trade, especially for the high-
 
 More recently, Kfolaell has become well known for being the home port of the Gvaeknoks corporation. Gvaeknoks is a shipping company that has become so successful that they trade beyond the borders of the Society of Equals without reprisal from the government.
 
-Kaneldhuelloug A6535A9-A Kaneldhuelloug was an average Vargr world in many ways with a common mix of agriculture, commerce and industry. However, many farmers needed specialized equipment and tools to cope with the hard ground and rough terrain that was common to most areas. The result of this was advanced farming equipment being developed and produced by numerous manufacturers. So popular were these items that they became Kaneldhuelloug’s largest export.
+Kaneldhuelloug A6535A9-A Kaneldhuelloug was an average Vargr world in many ways with a common mix of agriculture, commerce and industry. However, many farmers needed specialized equipment and tools to cope with the hard ground and rough terrain that was common to most areas. The result of this was advanced farming equipment being developed and produced by numerous manufacturers. So popular were these items that they became Kaneldhuelloug's largest export.
 
 In 1068 Kaneldhuelloug was captured by the Worlds of Leader Rukh and remained part of the empire until 1097 when Rukh was killed in action. At this time a charismatic and popular leader called Segze was governing Kaneldhuelloug; with the empire weakened and in disarray, Kaneldhuelloug saw it as an opportunity to declare independence from the Worlds of Leader Rukh.
 
-Kaneldhuelloug was the fi rst of three worlds to free themselves of Rukh’s rule but it was not as simple as merely speaking the words; two military bases were situated on Kaneldhuelloug and the army were controlled by and loyal to the Worlds of Leader Rukh. Segze had the support of the entire population and what
+Kaneldhuelloug was the fi rst of three worlds to free themselves of Rukh's rule but it was not as simple as merely speaking the words; two military bases were situated on Kaneldhuelloug and the army were controlled by and loyal to the Worlds of Leader Rukh. Segze had the support of the entire population and what
 
 Name Location Statistics Bases Trade Codes Allegiance Gas Giants Daerrg 0106 C636627-9 C Ni Va G Orra 0109 A00089C-E Na As Cp Vn Uegukell Vakfez 0110 BAD48AD-6 Vn G Gegvouk 0203 B9AA887-C Fl Wa Va G Saell 0207 A557AAC-E G Hi Vn G Tagath 0305 B989559-A Ni Va G Raezarourkollarrakhs 0306 C466400-B Ni Vn G Langaetoukoe 0308 E433573-7 Ni Po Vn Koekhae 0309 B67A101-A Lo Ni Wa Vn G Aedhar 0405 B5908C9-A De Va G Voullatueng 0406 A203326-E Lo Ni Ic Va Vn G Akhaedag 0507 B563355-B G Lo Ni Vn G Kfolaell 0601 B86AAA6-B Hi Wa Vd G Ogvasaekha 0608 B667877-9 Vn G Orz 0609 D95A88C-6 Wa Vn G Fagvaenghuenouts 0610 B540786-8 Po De Vn G Raersava 0704 B100262-A Lo Ni Va Va G Kaneldhuellough 0707 A6535A9-A Ni Po Va G Ghenkerongolu 0708 B431778-B Na Po Vn G Illkarkunotoe 0802 B54587A-A Vd Taeksoudhagnou 0803 A5A488C-D Fl Vd G
 
-his men lacked in experience and weapons they made up in numbers. Casualties were high but Rukh’s forces were driven from Kaneldhuelloug.
+his men lacked in experience and weapons they made up in numbers. Casualties were high but Rukh's forces were driven from Kaneldhuelloug.
 
 Even before the uprising, Kaneldhuelloug was not a rich world and the cost of liberation was high. Farms and factories no longer had enough workers to operate effi ciently and numerous other businesses were shutdown with so many of the workforce killed in the fi ghting.
 
-Kaneldhuelloug may be a poor world now, but the people have a leader they respect and the citizens are free of Rukh’s rule. The world has had to consolidate its population and several cities are now abandoned as the people who once lived there are either dead or have merged with another city. The current state of Kaneldhuelloug has meant that it is currently of no interest or importance to the Worlds of Leader Rukh and is unlikely to be retaken anytime soon.
+Kaneldhuelloug may be a poor world now, but the people have a leader they respect and the citizens are free of Rukh's rule. The world has had to consolidate its population and several cities are now abandoned as the people who once lived there are either dead or have merged with another city. The current state of Kaneldhuelloug has meant that it is currently of no interest or importance to the Worlds of Leader Rukh and is unlikely to be retaken anytime soon.
 
 #### KSITS USATHU
 
@@ -4280,7 +4280,7 @@ During this period, scientists discovered that the increased fertility was just 
 
 The lifeform production aspect of the technology was obviously working but the Ancient experiment had ultimately failed. How the technology works is still beyond the capabilities of the scientists but the government prevented further study, decreeing that the Ancient technology should be deactivated until such a time it might be needed. The population growth has now returned to normal and the devices are secured and guarded.
 
-It was the high population on Gaelaeth that attracted the now famous merchant Dhirrsak to start his business here. Dhirrsak’s
+It was the high population on Gaelaeth that attracted the now famous merchant Dhirrsak to start his business here. Dhirrsak's
 
 is the largest corporation on Gaelaeth and has grown so big that Dhirrsak monopolises the second hand market, employing thousands of people including some of the best junk dealers in the region.
 
@@ -4292,7 +4292,7 @@ The coreward half of Aelluekh is dominated by the Thoengling Empire with 11 syst
 
 The dangers and confl icts in Aelluekh are much the same as those in the neighboring subsector of Ksits Usathu – high corsair activity ignites tensions between states but since most operate under the banner of Llangzoekirs, attacks are more coordinated and diffi cult to prevent. Most corsair raids are directed against the independent worlds rather than face the military might of the Thoengling Empire.
 
-Confl ict also exists between the Thoengling Empire and the nearby neutral states. The Thoengling borders are prone to frequent change as worlds are conquered or declare their independence from the Empire. These border worlds tend to embargo trade with the Thoengling Empire but worlds situated further away have trade agreements and permits that allow safe travel within the Empire’s borders.
+Confl ict also exists between the Thoengling Empire and the nearby neutral states. The Thoengling borders are prone to frequent change as worlds are conquered or declare their independence from the Empire. These border worlds tend to embargo trade with the Thoengling Empire but worlds situated further away have trade agreements and permits that allow safe travel within the Empire's borders.
 
 Several worlds in this subsector have a signifi cant human presence. Some have integrated into the Vargr cities and others live more segregated lives in separate communities.
 
@@ -4310,7 +4310,7 @@ Over the last decade these disgruntled farmers have formed their own political f
 
 Aetskaekhoun B988954-8 Aetskaekhoun is a large ocean world on the border of the Thoengling Empire. It is typical of most Vargr worlds with a diverse mix of industries and culture. The central location of Aetskaekhoun in Aelluekh has also made it an important trade hub as it is the only world that directly connects the coreward and rimward halves of the subsector for Jump-2 capable ships.
 
-The importance of its location has given it a turbulent history and it has gone through numerous governments of all types, each taking control and trying to do what’s best for the people. Aetskaekhoun has been conquered several times during its history, most notably during the Gvegh Wars but new factions always emerge to seize power and declare independence.
+The importance of its location has given it a turbulent history and it has gone through numerous governments of all types, each taking control and trying to do what's best for the people. Aetskaekhoun has been conquered several times during its history, most notably during the Gvegh Wars but new factions always emerge to seize power and declare independence.
 
 This pattern continued until the Thoengling Empire took power in 1087 and retained control. Ironically, once part of the Empire the importance of Aetskaekhoun has lessened since the strict trade laws deter many potential merchants from trading here.
 
@@ -4326,7 +4326,7 @@ Gaegzue has a slight taint in the atmosphere that does not affect the indigenous
 
 The Vargr on Gaegzue are all from the Gvegh culture and have a rather curious approach to choosing their leaders. Every year, or sooner if the people are unhappy with the current administration, infi ghting tournaments are held to determine the new planetary leader and other high-ranking offi cials within the government.
 
-The tournaments are held outside in a special arena situated on the outskirts of Arrrarrghvadz. Only Vargr infi ghting is permitted during the competition and contestants are only permitted to wear fi lters during the intervals that occur every few hours – this is to help prove the contestant’s strength and endurance, and usually results in several casualties. The tournament begins with large free-for-all fi ghts where the winner is the last man standing. Following this, duels are fought using a heat system until an overall winner is determined.
+The tournaments are held outside in a special arena situated on the outskirts of Arrrarrghvadz. Only Vargr infi ghting is permitted during the competition and contestants are only permitted to wear fi lters during the intervals that occur every few hours – this is to help prove the contestant's strength and endurance, and usually results in several casualties. The tournament begins with large free-for-all fi ghts where the winner is the last man standing. Following this, duels are fought using a heat system until an overall winner is determined.
 
 Although this system of selection might appear un-Vargr like, it is still rooted in charisma but rather than being based on standing gained from past deeds, it is about the charisma gained during the tournament and proves the strength and conviction of the contenders. Many untrained Vargr participate but it does not matter if they lose, the fact they competed against skilled fi ghters will often earn them respect and charisma.
 
@@ -4496,7 +4496,7 @@ Whilst the scientifi c community was growing and examining the Ancient sites, fa
 
 Izivr D426974-9 Izivr is located just inside Zhodani territory and borders with two Vargr worlds. This small world has seen a lot of confl ict during its history. A small Zhodani settlement had been established on Izivr long before the Vargr began to settle in Gvurrdon sector but unfortunately, the settlement was not very advanced when the Vargr arrived during the Diaspora. The Zhodani were unaware that they were sharing their world with another race for nearly a decade.
 
-Once contact had been made, both races lived far enough apart to avoid confl ict and the Zhodani tolerated their new neighbors. Over time, both societies expanded and their borders grew closer together. Whilst the Zhodani respected the borders, the Vargr did not and much to the Zhodani’s distress the two cultures started to mix.
+Once contact had been made, both races lived far enough apart to avoid confl ict and the Zhodani tolerated their new neighbors. Over time, both societies expanded and their borders grew closer together. Whilst the Zhodani respected the borders, the Vargr did not and much to the Zhodani's distress the two cultures started to mix.
 
 The difference between the cultures and lack of understanding was too great and tensions increased. Some of the Vargr liked their Zhodani neighbors but others did not, especially the Zhodani insistence on rules and regulations. In addition to the growing hostilities between the two races, segregation was also occurring amongst the Vargr.
 
@@ -4504,7 +4504,7 @@ These hostilities continued for many years, with each faction claiming ownership
 
 As these political factions struggled for power, a war was also being fought on the corporate battlefi eld. Competition between the Vargr and Zhodani manufacturers was high. The Zhodani were able to produce technology beyond the understanding of the Vargr engineers but the Vargr workforce was more productive. Price versus quality became a deciding factor in several industries but the Vargr certainly monopolised the second hand market.
 
-The corporate wars and political battles ultimately merged together with corporate interests now being represented in the political arena. The emissaries’ work became even more important but not even their skills could maintain peace forever and around –3200 the Izivr War fi nally broke out between the Zhodani and three Vargr factions.
+The corporate wars and political battles ultimately merged together with corporate interests now being represented in the political arena. The emissaries' work became even more important but not even their skills could maintain peace forever and around –3200 the Izivr War fi nally broke out between the Zhodani and three Vargr factions.
 
 The war continued for several years until the Zhodani Consulate fi nally intervened and deployed a large army to end the confl ict
 
@@ -4644,7 +4644,7 @@ The government (if it can be called that) made deals with corsair bands and smug
 
 kind to visit the world. Uenag became a pirate friendly port that was profi table to both the inhabitants and the criminals that frequented the planet.
 
-Zakskhsakrsa, the leader of Uenag was eventually able to exert his infl uence over the corsairs and formed the Llanic Raiders, a secret coalition of corsair bands. Zakskhsakrsa also became leader of the largest band, the Visorz, and now controls all corsair activity in Llanic subsector. The corsair base is essentially the government’s naval base and there are always corsair fl eets deployed to protect Uenag from its many rivals and enemies.
+Zakskhsakrsa, the leader of Uenag was eventually able to exert his infl uence over the corsairs and formed the Llanic Raiders, a secret coalition of corsair bands. Zakskhsakrsa also became leader of the largest band, the Visorz, and now controls all corsair activity in Llanic subsector. The corsair base is essentially the government's naval base and there are always corsair fl eets deployed to protect Uenag from its many rivals and enemies.
 
 To prevent all-out violence from erupting and unauthorized smuggling, weapons are restricted to personal arms only and landing is only permitted at the starport. However, enforcement of these laws is rather lax as police and starport security can be easily bribed or distracted.
 
@@ -4660,9 +4660,9 @@ There are 12 independent worlds in Spurl that frequently war against each other 
 
 Aerritho B30086B-B On the surface, Aerritho looks like a barren and lifeless rock. The lack of atmosphere prevents the natural evolution of life, as does the absence of water. However, beneath the surface are numerous minerals and metals that may not be the most rare or valuable but they exist in great quantity.
 
-Aerritho is now a subterranean network of tunnels, shafts and caverns carved out by the mining colony that now inhabits this dreary rock. The settlements and cities have also been excavated beneath the planet’s surface and are constantly shifting with changes in the population and leadership. As deposits run dry the population spread into the abandoned shafts, adapting them as required. Older areas are often left to ruin as the cities follow the workforce.
+Aerritho is now a subterranean network of tunnels, shafts and caverns carved out by the mining colony that now inhabits this dreary rock. The settlements and cities have also been excavated beneath the planet's surface and are constantly shifting with changes in the population and leadership. As deposits run dry the population spread into the abandoned shafts, adapting them as required. Older areas are often left to ruin as the cities follow the workforce.
 
-With such a constant change in the city structures it is hardly surprising that many people get lost or turned around, even the inhabitants. Punctuality is therefore a redundant concept on Aerritho; ‘I was lost’ is a common greeting on this world.
+With such a constant change in the city structures it is hardly surprising that many people get lost or turned around, even the inhabitants. Punctuality is therefore a redundant concept on Aerritho; 'I was lost' is a common greeting on this world.
 
 Aerritho has been part of the Anti-Rukh Coalition since its formation in 1069. However, the chaotic nature of this society made it easy for agents of the Worlds of Leader Rukh to infi ltrate and rise through the ranks. In 1103, enough charismatic agents were in place to spark an uprising against the local government and the Anti-Rukh Coalition. The purpose of this was to destabilize the world and gain control of the ore production, which was of great importance to the Anti-Rukh Coalition.
 
@@ -4824,7 +4824,7 @@ Uthe is also one of the few subsectors in Gvurrdon that has a human controlled w
 
 Uthith A310877-E Uthith is a desert world with a population of 700,000. There are fi ve large domed cities, each home to roughly 100,000 Vargr. The remaining population live in the capital, which consists of 10 smaller domes located around the starport and connected via transport tubes and underground roadways.
 
-When the 40th Squadron formed in 604, Uthith became the nation’s capital. However, Uthith is capityal by name only since the most powerful individuals are naval offi cers ruling from the fl eet. In recent years many of the citizens have grown disaffected with their rulers being so disatant and disconnected from its people. The domed cities on Uthith have created a natural segregation and many of the city governors have separated from the main government in a bid for power.
+When the 40th Squadron formed in 604, Uthith became the nation's capital. However, Uthith is capityal by name only since the most powerful individuals are naval offi cers ruling from the fl eet. In recent years many of the citizens have grown disaffected with their rulers being so disatant and disconnected from its people. The domed cities on Uthith have created a natural segregation and many of the city governors have separated from the main government in a bid for power.
 
 Pandrin B560675-A Pandrin is a desert world that was originally colonized by human refugees from the Spinward Marches during the First Frontier War. The human settlement expanded and continued to grow for nearly 20 years before it was captured by the Vargr in the Second Frontier War.
 
@@ -4832,7 +4832,7 @@ Human-Vargr relations have gradually improved on Pandrin but the two races remai
 
 Some Vargr do live and work in the human city and a small number of humans do likewise in the Vargr dome. There is a slight undercurrent of tension between the two races and fi ghts are not uncommon, but these mainly occur in bars and busy market areas.
 
-Even though relations are not great, both communities’ trade with each other and some human-Vargr friendships have been known to form. However, the humans here are defi nitely the underclass with many of the best jobs taken by the Vargr. The only successful human corporation is Walker Robotics (see page 120), which has gained a good reputation and has a number of Vargr on the payroll.
+Even though relations are not great, both communities' trade with each other and some human-Vargr friendships have been known to form. However, the humans here are defi nitely the underclass with many of the best jobs taken by the Vargr. The only successful human corporation is Walker Robotics (see page 120), which has gained a good reputation and has a number of Vargr on the payroll.
 
 Knall A000000-0 Knall is an asteroid that was once home to a thriving mining community but now it is an abandoned outpost of collapsed tunnels and deserted buildings. There is no life support or power giving it the feel of a ghost town. Preserved corpses and decayed bodies remain scattered throughout and much of the equipment has been looted.
 
@@ -4978,7 +4978,7 @@ The people of Ksunekso are very proud of their accomplishments and will defend t
 
 The 20% of citizens that abstain from drug use are also viewed with similar ill feelings. This minority group have gradually been segregated from Ksunekso culture and have been forced to form a new political faction to protect their interests.
 
-Even though Ksunekso is often referred to as the ‘planet of junkies’, their production of fi rst-rate drugs is still second to none and are exported throughout Gvurrdon sector. However, what the long-term effects of this culture will be remains to be seen.
+Even though Ksunekso is often referred to as the 'planet of junkies', their production of fi rst-rate drugs is still second to none and are exported throughout Gvurrdon sector. However, what the long-term effects of this culture will be remains to be seen.
 
 Name Location Statistics Bases Trade Codes Allegiance Gas Giants Erzthung 0104 E75A440-6 Ni Wa Va G Uthith 0108 B310877-E G Na Cp Ve G Forrodhkhokh 0209 B75827B-A Ag Ve G Aethkaek 0303 B66A512-C C Ni Wa Va G Thaeuevae 0306 D546300-8 G Lo Ni Ve G Kousuesi 0308 EA9A325-5 Lo Ni Wa Ve G Urrllongonu 0407 B566545-9 Ag Ni Ve G Ougzdaelzoerrgh 0410 B899335-B Lo Ni Va G Daeksuzaethukue 0507 B645677-A Ag Ni Ve G Gzogzu 0602 B550889-9 C Po De Va G Tinkaeghzzaklez 0604 B544233-A Lo Ni Va Pandrin 0610 B560675-A C Ni De Va G Knall 0701 A000000-0 Ba As Na Zoe 0704 E757499-5 Ni Va G Otsesu 0706 E673442-5 Ni Va G Kaets 0708 B636631-7 C Ni Va G Ueghrrozue 0709 A6A47BA-A C Fl Va G Ghisaersae 0710 C758646-7 C Ag Ni Va G Aerrkhukhkaekouguengdoung 0803 B639663-9 C Ni Va G Triad 0806 B587777-8 N Ag Ri Cs
 
@@ -5096,7 +5096,7 @@ ku
 
 e
 
-Ughz A424551-E Ughz is a medium-sized world located near the centre of Firgr subsector. It remained uninhabited until 897 when the Rrakhthall family came here to start a new business enterprise. Although the Rrakhthall family was led by the father, it was the three brothers who had the skills, expertise and contacts necessary to establish a ship building company.
+Ughz A424551-E Ughz is a medium-sized world located near the center of Firgr subsector. It remained uninhabited until 897 when the Rrakhthall family came here to start a new business enterprise. Although the Rrakhthall family was led by the father, it was the three brothers who had the skills, expertise and contacts necessary to establish a ship building company.
 
 The Rrakhthall Shipyards (see page 119) soon became a thriving business, attracting more settlers to Ughz. New factories were built by Rrakhthall Shipyards and smaller companies – these facilities specialized in manufacturing certain types of ship components and ultimately led to the formation of the feudal technocracy government that exists today. The main shipyard was also expanded to serve as a naval base.
 
@@ -5138,7 +5138,7 @@ The players might be citizens of Arrag forced to choose sides or they might simp
 
 - with the starport locked down the players get embroiled in the hostilities and must fi ght to survive. Alternatively, the players are offworld and have been hired to somehow gain access to Arrag and help the rebels.
 
-As the players get involved – gaining both charisma and trust – their role will become more important as they carry out missions that are both dangerous and essential; guerrilla attacks, reconnaissance, rescues and the liberation of equipment and supplies. Once they are in a position of authority, the players must help plan the fi nal victory before food stores run dry and the Thoengling Empire send in reinforcements. The players’ actions could shape the future of the entire planet.
+As the players get involved – gaining both charisma and trust – their role will become more important as they carry out missions that are both dangerous and essential; guerrilla attacks, reconnaissance, rescues and the liberation of equipment and supplies. Once they are in a position of authority, the players must help plan the fi nal victory before food stores run dry and the Thoengling Empire send in reinforcements. The players' actions could shape the future of the entire planet.
 
 Fall of Equals Worlds within the Society of Equals enjoy good trade relations with other member worlds but the restrictions on trading with the other worlds has put a strain on some local economies
 
@@ -5154,7 +5154,7 @@ The very strength that bound the empire together becomes its undoing. This chain
     empire, the Society of Equals might enforce new laws to
     gain a stricter control of its member worlds. The leaders
     might even go as far as declaring martial law or replacing
-    governors with those loyal to the Society’s agenda.
+    governors with those loyal to the Society's agenda.
 - The Society of Equals could relax their trade regulations
     and allow free trade to non-member worlds. However, it
     was these trade rules that helped forge the Society and
@@ -5211,7 +5211,7 @@ The mutual benefi ts enjoyed by members of the Pact seem to be coming to an end 
 
 This setting is perfect for Referees who wish to run a political campaign. The players can all be part of a diplomatic pack and will need a range of skill sets including diplomacy, investigation, piloting, and of course combat skills for those wanting to assume the role of personal security.
 
-Rukh Wars For Referees wishing to run a war-based campaign, the confl ict between the Worlds of Leader Rukh and the Anti-Rukh Coalition provides an ideal setting. These two nations are always considered to be in a state of war but the actual extent of the hostilities is entirely at the Referee’s discretion.
+Rukh Wars For Referees wishing to run a war-based campaign, the confl ict between the Worlds of Leader Rukh and the Anti-Rukh Coalition provides an ideal setting. These two nations are always considered to be in a state of war but the actual extent of the hostilities is entirely at the Referee's discretion.
 
 The story can begin when hostilities between the two empires are low with occasional border skirmishes or raiding of supply lines. As the story unfolds these confl icts become more and more frequent with the Anti-Rukh Coalition initiating a number of strategic raids into the territories of the Worlds of Leader Rukh, which will eventually lead to a full scale war. Alternatively, the story can begin when the war is in full fl ow and the players are plunged in the middle of the hostilities.
 
@@ -5225,7 +5225,7 @@ Corsair Raiding Corsair campaigns based in Gvurrdon sector are much the same as 
 
 Players can be part of one of the established corsair bands previously detailed in this chapter or they could form a new band, rivalling one of the aforementioned groups. The level of adversary and rivals will depend on the subsector the players are based in. An overview is given here that lists each sector, which bands operate there and the frequency of their activity.
 
-Subsector Known Corsair Bands Frequency Ongvos Free Trader’s Enterprise/ Ongkae
+Subsector Known Corsair Bands Frequency Ongvos Free Trader's Enterprise/ Ongkae
 
 High/Medium
 
@@ -5288,7 +5288,7 @@ This chapter details methods for using the Vargr race in your Traveller games an
 
 The Vargr mindset is very different to that of humans and most Vargr fi nd it diffi cult to comprehend human behaviour. Likewise, most humans do not understand the Vargr way of life either. When using Vargr characters in your game it is important that they behave and interact according to their natural traits and instincts. This may seem diffi cult to focus on since the Vargr are such a diverse race but the key points to remember are that Vargr are driven by charisma, racial pride and the need for companionship although the latter does not apply as much to loners.
 
-When Vargr characters are dealing with people from other races, the Referee should think about the Vargr’s motives for doing so. If a Vargr has no chance of gaining charisma or money then why are they involved? If not the promise of riches and notoriety then perhaps the Vargr is seeking the company of others or a worthy leader to follow. Patrons will generally hire non-Vargr characters if they feel that humans or other races are more suited to the task, especially if a shift in loyalty could jeopardise the patron’s plans.
+When Vargr characters are dealing with people from other races, the Referee should think about the Vargr's motives for doing so. If a Vargr has no chance of gaining charisma or money then why are they involved? If not the promise of riches and notoriety then perhaps the Vargr is seeking the company of others or a worthy leader to follow. Patrons will generally hire non-Vargr characters if they feel that humans or other races are more suited to the task, especially if a shift in loyalty could jeopardise the patron's plans.
 
 The Vargr are seen as inconsistent and even unstable by most other races but just because they behave this way does not mean they lack intelligence or act on a whim. Even reckless and dangerous actions (which are not uncommon amongst the Vargr) will have some rationale or reasoning behind them, most likely to improve their standing, an act of loyalty or confi rmation of their leadership abilities. Such deeds are more probable if an individual has recently lost face and must prove himself to his peers to regain his charisma.
 
@@ -5316,7 +5316,7 @@ Our leaders are another great strength. They command us, inspire us and praise u
 
 #### CAMPAIGNS
 
-This section discusses campaigns that do not centre wholly on Vargr affairs, but may include one or two Vargr Player Characters or have the Vargr race as a component.
+This section discusses campaigns that do not center wholly on Vargr affairs, but may include one or two Vargr Player Characters or have the Vargr race as a component.
 
 Travellers for Hire The traditional type of Traveller game is where the players own their own starship and travel the galaxy as explorers, traders or looking for interesting patrons and ways to pay off their mortgage. Vargr characters can be part of such a crew for a number of reasons such as a loner who misses the company of others, a trader who has not made the fortunes he had hoped, a Vargr who grew up in the Imperium or simply a character who is fed up and wants to move on seeking a life of adventure.
 
@@ -5442,7 +5442,7 @@ This setting can be run as a freeform campaign where the players are free to go 
     and the territories they raid.
 - A rival corsair band is competing with the players over
     a popular and lucrative trade route. Perhaps one band
-    encroached on the other’s territory or maybe they both saw
+    encroached on the other's territory or maybe they both saw
     the opportunity when new trade routes were established.
     Whatever the reason, these evenly matched groups will
     each seek to dominate raiding activity in this region and
@@ -5504,7 +5504,7 @@ As the players are sent on missions they will rise in rank and popularity. Borde
           should that prove diffi cult then a more forceful approach
           has been authorized.
        - The government is at war with a neighboring state and is
-          planning an assault. The players’ new mission is to establish
+          planning an assault. The players' new mission is to establish
           a beachhead within enemy territory before the main attack
           force is deployed.
        - The military is planning a pre-emptive strike against their
@@ -5515,7 +5515,7 @@ As the players are sent on missions they will rise in rank and popularity. Borde
 
 Emissaries A rather different approach to a Vargr campaign is to focus on the political aspects of Vargr society. With the constant changes in leadership and political status, the players will have to be alert and ready to cope with a variety of situations from business deals to peace treaties.
 
-The party can consist of an emissary (the pack leader), a number of aides and even bodyguards if the players will be entering dangerous situations. Some of these characters might also serve as the ship’s crew if the Referee requires a self- dependent party with their own ship.
+The party can consist of an emissary (the pack leader), a number of aides and even bodyguards if the players will be entering dangerous situations. Some of these characters might also serve as the ship's crew if the Referee requires a self- dependent party with their own ship.
 
 - A large corporation is monopolising the market. A coalition of
     smaller companies have allied together and hired the players
@@ -5591,7 +5591,7 @@ Careers 4, 5 Charisma 33, 34 Church of the Chosen Ones 35, 115 Cities 102 Citize
 
 D
 
-Dhaengae 164 Dharrgkhaksuza 162 Dheg 162 Dhirrsak’s 118 Dhouzersan Plasma Tank 62 Diaspora 108 Diet 31 Draft 4 Dress 36 Dzen 137 Dzenzaega 152 Dzofakael 118 Dzuerongvoe 140 Dzukoun 124
+Dhaengae 164 Dharrgkhaksuza 162 Dheg 162 Dhirrsak's 118 Dhouzersan Plasma Tank 62 Diaspora 108 Diet 31 Draft 4 Dress 36 Dzen 137 Dzenzaega 152 Dzofakael 118 Dzuerongvoe 140 Dzukoun 124
 
 E
 
@@ -5599,7 +5599,7 @@ Economy 39 Emissaries 12, 38 Enjtodl 122 Ethue 146
 
 F
 
-Faarzgaen 35 Factions 105 Fall of Equals 170 Family 34 Fanganger 131 Fanganger Federation 115 Firgr 167 Free Trader’s Enterprise 115 Frigate (starship) 86 Frontier Wars, The 52
+Faarzgaen 35 Factions 105 Fall of Equals 170 Family 34 Fanganger 131 Fanganger Federation 115 Firgr 167 Free Trader's Enterprise 115 Frigate (starship) 86 Frontier Wars, The 52
 
 G
 

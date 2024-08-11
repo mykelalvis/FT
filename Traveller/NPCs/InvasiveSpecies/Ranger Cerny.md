@@ -27,4 +27,4 @@ Animals (handling) 2, Animals (veterinary) 1, Athletics (strength) 1, Drive 0, G
 EQUIPMENT
 Medikit (TL14), Hunting Gear
 Weapons: Shotgun (4D),Blade (2D)
-Armor: Hunter’s Field Garb
+Armor: Hunter's Field Garb

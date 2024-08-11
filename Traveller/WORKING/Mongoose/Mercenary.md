@@ -35,7 +35,7 @@ Morte, Tony Guaraldi-Brown, Javier Charro Martinez
 
 #### SPECIAL THANKS
 
-Marc Miller, Tom O’Neill, Brian Caball, Aidan Rafferty, Robert
+Marc Miller, Tom O'Neill, Brian Caball, Aidan Rafferty, Robert
 Eaglestone, Loren Wiseman, James Maliszewski, Donald McKinney,
 William Hostman, Martin Costa, Mike West
 
@@ -97,7 +97,7 @@ need for mercenaries.
 From freelance soldiers of fortune to ranking grunts of a structured
 military charter, there are mercenaries from all walks of life across
 the universe. It is a good life of adventure for most travellers, and for
-those fortunate enough to survive a long enough while in ‘the life’,
+those fortunate enough to survive a long enough while in 'the life',
 wealth, fame and adventure is almost certainly assured. Of course,
 there is always the chance that the mercenary dies a horrible death
 fighting a battle they never should have been involved with – but
@@ -168,7 +168,7 @@ Characters in a Traveller game.
 > [!MERCENARIES1] Mercs
 > This book is written with a general setting in mind, specifically one that has legalised mercenary activity for the use on the space frontier (like that of the Third Imperium setting). This does not mean that every setting or culture will have the same rules and limitations on the existence and use of mercenaries. One government might freely utilise mercenary groups to put down threats, but the next could think all mercenaries are nothing but criminals.
 >
-> The overall usage of mercenaries is limited by the designed setting of the Referee, as he may or may not want to make his game ‘easy’ for his mercenary Player Characters.
+> The overall usage of mercenaries is limited by the designed setting of the Referee, as he may or may not want to make his game 'easy' for his mercenary Player Characters.
 
 ### INTRODUCTION
 
@@ -203,10 +203,10 @@ is noted here as well.
 
 Mercenaries do not simply wander around looking for their next job.
 They are commonly sought out and hired on an official and legal
-contract. These contracts are collectively called ‘tickets’ in _Traveller_ ,
+contract. These contracts are collectively called 'tickets' in _Traveller_ ,
 and they represent a fully-enclosed mission that the mercenaries
 are being hired to accomplish. Mercenary tickets are the bread-
-and-butter of a mercenary’s life, sometimes literally. This book
+and-butter of a mercenary's life, sometimes literally. This book
 includes the full description for Referees of how to create individual
 mercenary tickets for their games. Either using the detailed facets of
 ticket creation or the random tables given in this book, a Referee can
@@ -238,7 +238,7 @@ officers need stations where they can plan everything the unit needs
 and important documents should be stored safely in case of an
 unexpected leadership change. This book contains a detailed list
 of possible bases and headquarters useful to Referees in order to
-create the central locations of their game’s mercenary and military
+create the central locations of their game's mercenary and military
 units.
 
 A good mercenary is only as good as the equipment he is trained
@@ -262,29 +262,29 @@ The following is a short collection of common terminology used by many mercenari
 of mercenary characters should pay attention to these words and phrases, as that their employers, partners and employees will often
 use them in common parlance.
 
-Ace(d) – Any one-shot/one-strike kill; as in ‘I aced him with my seventy-six, right in the eye!’
-‘Act the Part’ – Overplaying a dramatic stance as a mercenary in order to earn a bigger reputation
-Aggro – Becoming overly violent or aggressive; as in ‘Whoa! Why all the aggro? It was just a joke!’
+Ace(d) – Any one-shot/one-strike kill; as in 'I aced him with my seventy-six, right in the eye!'
+'Act the Part' – Overplaying a dramatic stance as a mercenary in order to earn a bigger reputation
+Aggro – Becoming overly violent or aggressive; as in 'Whoa! Why all the aggro? It was just a joke!'
 Bar Tab – A tongue-in-cheek term used to describe the amount of money spent on supplies for a specific ticket
-Black Op – Any ticket that cannot be officially or legally claimed; most often also a ‘wet ticket’
+Black Op – Any ticket that cannot be officially or legally claimed; most often also a 'wet ticket'
 Camo Job – Any ticket that will require the use of standard military fatigues, uniforms or other apparel; alternatively a ticket where the mercenary is hired by an armed service branch
 Cloak and Dagger – Any ticket that requires stealth or anonymity
 Dead Ticket – A mission that has been tried and failed; also used to describe a ticket that has passed its expiration without being undertaken
-ETC – Anagram for ‘estimated time to conflict’; as in ‘I have the convoy in my sights, what is our ETC?’
-FUBAR – Anagram for ‘fouled up beyond all repair’; can also be used as a profanity; as in ‘The evacuation site is crawling with hostiles, this ticket is FUBAR.’
+ETC – Anagram for 'estimated time to conflict'; as in 'I have the convoy in my sights, what is our ETC?'
+FUBAR – Anagram for 'fouled up beyond all repair'; can also be used as a profanity; as in 'The evacuation site is crawling with hostiles, this ticket is FUBAR.'
 Glassing – The use of high explosives or incendiary devices to deal with a lightly or unarmored target
-Heat/Hot – Slang term for violent conflict, as in ‘Negative, I cannot get in yet. Too much heat out here to ignore. I could use some help.’
-‘High Tide’ – A description of very high or unexpected activity in a conflict situation; as in ‘Get that PGMP up here, it is pretty damned high tide outside that bulkhead!’
+Heat/Hot – Slang term for violent conflict, as in 'Negative, I cannot get in yet. Too much heat out here to ignore. I could use some help.'
+'High Tide' – A description of very high or unexpected activity in a conflict situation; as in 'Get that PGMP up here, it is pretty damned high tide outside that bulkhead!'
 Ice Cold Ticket – A mission that requires a low sense of morals and likely a great deal of violent action
-JIR – Anagram for ‘justifiable immediate response’; or the level of violent action that should be taken in response to opposing stimuli
-‘Low Tide’ – A description of little or low activity in a possible conflict; as in ‘Holster up your big guns guys, its nothing but low tide the rest of the way.’
+JIR – Anagram for 'justifiable immediate response'; or the level of violent action that should be taken in response to opposing stimuli
+'Low Tide' – A description of little or low activity in a possible conflict; as in 'Holster up your big guns guys, its nothing but low tide the rest of the way.'
 Meatmonger – Derogatory term for any mercenary that is overly violent in situations where it is not necessary
 Merc – Slang term for any mercenary; sometimes used by non-mercenaries in the derogatory
 One-off Job – Any ticket from a new employer that has no current plans of re-hiring the mercenaries afterward
 Park Walk – Any ticket that is appraised as being far easier than the overall skill level of the mercenary group signed on to it
-Sandbag – Extremely derogatory term for a mercenary who is not holding up his share of a specific ticket; as in ‘Move your sandbag ass Hawkins! You are slowing us all down!’
-‘Take Two’ – Anytime a skilled mercenary fails at a simple task and is forced to perform it again
-Trial by Fire – A mercenary’s first combat-based ticket
+Sandbag – Extremely derogatory term for a mercenary who is not holding up his share of a specific ticket; as in 'Move your sandbag ass Hawkins! You are slowing us all down!'
+'Take Two' – Anytime a skilled mercenary fails at a simple task and is forced to perform it again
+Trial by Fire – A mercenary's first combat-based ticket
 Zoo Trip – Any ticket that takes the mercenary to an unknown location with unknown flora/fauna that must be dealt with in some way
 
 ### AARRMYMY AANDND MMAARINERINE CCHHARACTERSARACTERS
@@ -336,7 +336,7 @@ this term of service.
 11 You are tormented by or quarrel with an officer or fellow soldier. Gain that officer as a Rival as he drives you out of
 the service.
 12 You have a strong relationship with a munitions supplier which is deemed to be too close by your superiors and
-you are ‘requested’ to resign from the service. Gain the supplier as a Contact..
+you are 'requested' to resign from the service. Gain the supplier as a Contact..
 
 they might have attachments to space navies or interplanetary
 soldiering. Unless otherwise noted, these two career path options
@@ -350,7 +350,7 @@ Navy instead of Army, for instance) or simply if they wish to do so.
 
 Also included here are expanded Mishap and Event tables for
 the Army and Marine professions, allowing a greater variety in a
-character’s career in keeping with the expanded tables found with
+character's career in keeping with the expanded tables found with
 all the new careers described within this book.
 
 ### AAARRMYRMMYY AANDANNDD M MMAARINEARRIINNEE C CCHHARACTERSHAARRAACCTTEERRSS
@@ -416,7 +416,7 @@ crime as a result. Gain Advocate 1 as you learn about the legal system the hard 
 discharged early. Gain your jailer as an Enemy and reduce your Strength and Dexterity by one because of your injuries.
 6 Severely wounded. Roll twice on the Injury table and take the lower result.
 7 A mission goes wrong and you are stranded behind enemy lines. Increase Stealth or Survival by one level but, due
-to the mission’s failure, you are ejected from the service.
+to the mission's failure, you are ejected from the service.
 8 Injured. Roll on the Injury table
 9 You are ordered to take part in a black ops mission that goes against your conscience. If you refuse you are ejected
 from the service. If you accept you may stay with the marines but gain the lone survivor as an Enemy.
@@ -458,7 +458,7 @@ Leadership if you succeed. If you fail, you are injured and lose 1 point from an
 41-46 Wartime Event. Roll on the Wartime Events table (see page 34).
 51 You are on the front lines of a planetary assault and occupation. Gain one of Recon 1, Gun Combat (any) 1,
 Leadership 1 or Comms 1
-52 A mission goes disastrously wrong due to your commander’s error or incompetence, but you survive. If you report
+52 A mission goes disastrously wrong due to your commander's error or incompetence, but you survive. If you report
 your commanding officer for his failure then you gain a +2 DM to your next Advancement roll. If you say nothing and
 protect him, gain him as an Ally.
 53 You are assigned to a black ops mission. Gain a +2 DM to your next Advancement roll.
@@ -482,11 +482,11 @@ and you may gain one level in Zero-G, Tactics (military) or Gun Combat (any).
 
 # AAIIRR FFOORCERCE
 
-Members of their government’s atmospheric aerial armed forces.
+Members of their government's atmospheric aerial armed forces.
 Whether an attack fighter pilot, rescue helicopter jock, or simply a
 planning tactician who knows the sky is his to utilise against his
 enemies, the members of the air force are used to dealing with
-high-technology equipment that allows them to defy their planet’s
+high-technology equipment that allows them to defy their planet's
 gravity, at least for a little while.
 
 EEnlistment: Dex 5+. nlistment:
@@ -578,7 +578,7 @@ the service.
 7 A series of treaties causes the air force to be downsized and you are one of those forced to leave as a result.
 8 Severely wounded. Roll twice on the Injury table and take the lower result.
 9 A weapon malfunction causes your plane to stall and force you into an emergency landing. Throw Flyer 8+ to avoid
-Injury. The incident is blamed on ‘pilot error’ and you are drummed out of the air force.
+Injury. The incident is blamed on 'pilot error' and you are drummed out of the air force.
 10 Your orders got you shot down and you only barely ejected; you blame your direct flight supervisor and vocally say
 so. Gain him as an Enemy as he has you removed from the service.
 11 You are part of a unit sent to attack into what was believed was enemy territory, but the attacks cause a great deal of
@@ -593,7 +593,7 @@ light and it is obvious your lack of caution was partly to blame for the damage 
 
 dd66 66 EEventsvents
 1111 Disaster! Roll on the mishap table, but you are not ejected from this career.
-12 You are placed on duty as part of the chief of the air force’s staff. Increase your Social Standing by 1.
+12 You are placed on duty as part of the chief of the air force's staff. Increase your Social Standing by 1.
 13 You have the opportunity to attack some major enemy assets on the ground, but to do so will inflict significant
 civilian casualties as collateral damage. If you attack, gain +2 DM to your next Advancement roll but decrease your
 Social Standing by 1.
@@ -607,7 +607,7 @@ you succeed, gain +2 DM to your next Advancement roll. If you fail you are shot 
 and take the lower result.
 21 Your stationed to an airbase outside hostile territory that keeps your far removed from any action. Gain one of
 Explosives 1, Gun Combat 1, Heavy Weapons 1 or Recon 1..
-22 You are assigned to do sorties on a war zone that has been deemed ‘tactically useful’. Gain one of Comms 1, Flyer 1,
+22 You are assigned to do sorties on a war zone that has been deemed 'tactically useful'. Gain one of Comms 1, Flyer 1,
 Recon 1 or Sensors 1.
 23 You meet all your targets in a new incentives program introduced by the civilian government. Gain a +1DM to any
 one Benefit roll.
@@ -646,7 +646,7 @@ or take a +2DM to your next Advancement roll due to your performance.
 
 ### AAARRMYRMMYY AANDANNDD M MMAARINEARRIINNEE C CCHHARACTERSHAARRAACCTTEERRSS
 
-Members of the planet’s hydrospheric defence and tactical forces.
+Members of the planet's hydrospheric defence and tactical forces.
 Sailors and seamen deal with all of the same things that ground
 infantry do, except upon or underneath the oceans.
 
@@ -750,7 +750,7 @@ illegal activities, and gain an extra Benefit roll as you leave the service.
 9 You are shipped out to a turbulent part of the ocean or sea to battle against what you were told were native pirates
 that have been preying on civilian craft. You and your whole crew are immediately discharged afterwards, either
 because of trauma, injury or because the government lied to you about your targets – which were just local militia
-boats. Increase Seafarer or Flyer, but also gain the ‘pirates’ as an Enemy.
+boats. Increase Seafarer or Flyer, but also gain the 'pirates' as an Enemy.
 10 Governmental cutbacks. A economic depression leads to the navy being reduced in scale. Your ship is put into
 mothballs and you are not assigned to a new posting.
 11 Your ship is attacked by superior air forces and you are badly hurt. Roll twice on the Injury table and take the lower
@@ -795,20 +795,20 @@ are awarded for your ingenuity, earning a +4 DM to your next Advancement roll.
 you gain a level in one of Gun Combat or Melee.
 54 Your ship torn open and sinking, you swim to a float and hold out until relief arrives. Gain a +2 DM to your next
 Advancement check.
-55 You are assigned to the brig’s office of advocates. Gain one of Admin 1, Advocate 1, Investigate 1, or Deception 1.
+55 You are assigned to the brig's office of advocates. Gain one of Admin 1, Advocate 1, Investigate 1, or Deception 1.
 56 You are involved in the rescue of a stricken civilian vessel carrying a valuable cargo. You can either keep sell of the
 cargo for your own finances, gaining a +1 DM to one of your Cash benefit rolls, or you can hand over all that you
 find, gaining a +2 DM to your next Advancement roll.
 61 Your main helmsman is injured early on during a long posting and you replace him. Throw Seafarer 8+. Success
 earns you an automatic success on your next Advancement roll.
-62 You manage to become gambling buddies with the captain’s best friend. Gain him as an Ally, and the captain as a
+62 You manage to become gambling buddies with the captain's best friend. Gain him as an Ally, and the captain as a
 Contact.
-63 You are placed on technological detail for the ship’s lower decks. Throw Mechanic or Intelligence 8+. If you
+63 You are placed on technological detail for the ship's lower decks. Throw Mechanic or Intelligence 8+. If you
 succeed, you gain one level in Computers, Mechanic or Science.
 64 You get into a political debate with a member of the bridge staff. Throw Social Standing 8+. Fail and you say
 something you will always regret and you cannot pass your Advancement roll this term. Succeed and you are looked
-at more favourably, gaining a +2 DM to your next Advancement roll.
-65 Your ship’s captain takes an interest in your career. Either gain Tactics, or take a +4DM to your next Advancement
+at more favorably, gaining a +2 DM to your next Advancement roll.
+65 Your ship's captain takes an interest in your career. Either gain Tactics, or take a +4DM to your next Advancement
 roll thanks to his aid and advice.
 66 You display heroism in battle. You may gain a promotion or a commission automatically.
 
@@ -848,7 +848,7 @@ The primary goal of this sourcebook is to open up the possibility
 for new and existing _Traveller_ characters to become members of a
 mercenary unit. Whether it is out of necessity because of the state
 of their world, the need to erase certain debts from powerful people,
-or simply because they have a ‘knack’ for it – characters can become
+or simply because they have a 'knack' for it – characters can become
 mercenaries.
 
 This chapter is dedicated to those new characters that want to try
@@ -877,7 +877,7 @@ the acquiring and completion of mercenary tickets.
 
 There are two distinct ways to choose to roll a term on a mercenary
 career path. Either simply meet the listed Qualifications of the
-path as normal, or meet the ‘Previous Service’ terms listed for
+path as normal, or meet the 'Previous Service' terms listed for
 each mercenary career. Effectively, a character that has spent some
 time in a military role is more likely to be able to fill a position as a
 mercenary.
@@ -885,7 +885,7 @@ mercenary.
 #### NEW BENEFIT – PRIME TICKET
 
 The mercenary careers have access to a new type of mustering-
-out benefit called Prime Ticket. This symbolises the character’s
+out benefit called Prime Ticket. This symbolises the character's
 closeness and availability to work with the same employers they
 had in that career in the future. This benefit means they can
 choose to call in the Prime Ticket at any time the character is
@@ -982,7 +982,7 @@ tattoo and no recollection of anything else from the night.
 7 Government change. A change of government brought in new laws that were very anti-mercenary. As a result you
 had to leave your career behind and search out new employment.
 8 Injured. Roll on the Injury table
-9 You are separated from your class due to unfortunate circumstances. Some excel and thank you for your ‘faith’
+9 You are separated from your class due to unfortunate circumstances. Some excel and thank you for your 'faith'
 in their skills, some fail miserably and hate you for it. Losing your class is seen as very unprofessional! Gain 1d
 Contacts and 1d3 Enemies.
 10 Breach of contract. Your ticket ends up voided and you and your employers find the work done. Fingers are pointed
@@ -1035,7 +1035,7 @@ wounded or find a safe way out of the area. Roll either Medic 8+ or Survival 8+.
 Roll Instruction 8+ or Leadership 8+. If you succeed, gain a Contact in an alien race and any one skill. If you fail, roll
 on the Injury table.
 56 You make an unexpected connection outside the normal military circles you usually move in. Gain a Contact.
-61 You are based off world amongst a system’s asteroid belt. Increase Vacc Suit or Zero-G by one level.
+61 You are based off world amongst a system's asteroid belt. Increase Vacc Suit or Zero-G by one level.
 62 Your immediate superior is a drunkard and incompetent. If you report him then you gain a +2 DM to your next
 Advancement roll. If you say nothing and protect him, gain him as an Ally.
 63 You are involved in the harsh training of elite forces. Throw Endurance 8+ to avoid injury; if you succeed, you gain
@@ -1134,7 +1134,7 @@ weeks to get back together again, leaving you unemployed by the time you rejoine
 8 Severely wounded. Roll twice on the Injury table and take the lower result.
 9 Your unit took on a politically charged ticket that resulted in the death of one important individual and the elevation
 of the next. Gain 1d3 Contacts and 1d3 Enemies.
-10 Erroneous troop transport. Your unit’s transfer drops you into the completely wrong area and you miss all the
+10 Erroneous troop transport. Your unit's transfer drops you into the completely wrong area and you miss all the
 action. Your employer blames your planning protocols and you lose your position in the unit.
 11 Your enemies took you captive, holding you for several years before you manage to escape.
 12 Sabotage! The unit suffers a string of horrible sabotages, forcing them to disband for a while during the rebuilding.
@@ -1149,7 +1149,7 @@ dd66 66 EEventsvents
 12 You have a chance to save an important member of the local government. Roll Tactics 8+. Succeed and you save his
 life and you gain an Ally. Fail and he is killed and you are blamed for letting him die. Gain an Enemy.
 13 You are placed in an advisory role for a new team within the unit. Gain one of Instruction 1, Leadership 1 or Tactics 1.
-14 During the ticket you have the chance to put yourself in harm’s way to help one of your superiors. If you choose to
+14 During the ticket you have the chance to put yourself in harm's way to help one of your superiors. If you choose to
 do so, roll on the Injury table but gain +4 to your next Advancement roll. If you do not, gain the superior as a Rival.
 15 Your unit is called out to fight alongside the local militia in a nearby conflict. Roll Tactics 8+; if you succeed you gain
 one level of Gun Combat (any), Melee Combat (any) or Leadership.
@@ -1177,14 +1177,14 @@ Comms 1, Vacc Suit 1 or Zero-G 1.
 53 You owe the requisitions officer for the unit some money because of a disastrous night at his gaming table, but he
 offers you a single chance to win it back. If you take him up on the offer, throw Gambler 8+. If you succeed you gain
 an immediate extra Benefit roll from this career; if you fail you lose a Benefit instead.
-54 Your unit’s ticket goes awry because of bad intelligence, and several of your comrades rely on your skills to get out
+54 Your unit's ticket goes awry because of bad intelligence, and several of your comrades rely on your skills to get out
 alive. Roll either Gun Combat 8+ or Tactics 8+. If you succeed, increase your Social Standing by 1 and a +2 DM to
 your next Advancement check.
 55 You show exceptional daring in action. Throw either Gun Combat 7+ or Melee 8+. If you succeed, you may add +2
 DM to your next Advancement check. If you fail, you gain an Enemy.
 56 You become the spokesman for your unit in dealing with the locals on a ticket. Gain a Contact.
 61 You are shipped to a wild colony on the edge of the frontier. Increase Melee (any) or Survival by one level.
-62 The spokesperson for your employer is a braggart about his supposed military past. If you want to ‘test’ him, throw
+62 The spokesperson for your employer is a braggart about his supposed military past. If you want to 'test' him, throw
 Melee (Brawling) 8+. If you succeed, you knock him flat and gain +2 DM to your next Advancement roll. If you say
 nothing and let him go on about himself, gain him as an Ally.
 63 You are thrown into a very difficult ticket amongst some physically powerful alien allies. Throw Endurance 8+ to
@@ -1304,13 +1304,13 @@ and you seek to adjust to a different life.
 dd66 66 EEventsvents
 11 Disaster! Roll on the mishap table, but you are not ejected from this career.
 12 Your unit uses you to make a video threat to send to the local government. Decrease your Social Standing by 1 and
-gain an Enemy in that organization. Those favourable to your cause now recognize you as a hero, gain 1D3 Contacts.
+gain an Enemy in that organization. Those favorable to your cause now recognize you as a hero, gain 1D3 Contacts.
 13 You are told to go undercover with the enemy to get more information about your targets. Gain one of Carouse 1,
 Deception 1, Investigate 1 or Recon 1.
 14 An anti-guerrilla expert has been hired to deal with your unit. Throw Tactics 8+. If successful, you gain +4 to your
 next Advancement roll. If you do not, roll on the Injury table and gain the enemy soldier as an Enemy.
 15 Your enemies stoop to using terribly underhanded tactics to try and ferret your unit out. Throw Stealth 8+. If you fail,
-you are captured and ejected from the unit. If you succeed however, you get a bigger share of the ticket’s proceeds
+you are captured and ejected from the unit. If you succeed however, you get a bigger share of the ticket's proceeds
 and gain +2 DM to your next Benefit roll.
 16 Your employer gives you free reign to unleash hell itself upon your enemies, with a bonus for gratuitous violence.
 If you choose to follow these instructions Decrease your Social Standing by 1 and gain a +4 DM to your next
@@ -1339,7 +1339,7 @@ DM to your next Advancement check. If you fail, decrease your Social Standing by
 him as a Contact.
 61 A major attack is launched with your allies providing a diversion. Roll Stealth or Gun Combat 8+. Success and the
 target was destroyed, gain 1D3 contacts. Failure and their sacrifice was wasted, gain 1D3 Enemies.
-62 An unimportant ‘target of opportunity’ pleas for his life when you get him at gunpoint. If you choose to eliminate
+62 An unimportant 'target of opportunity' pleas for his life when you get him at gunpoint. If you choose to eliminate
 him, gain +2 DM to your next Advancement roll. If you spare him and let him go on his way, gain him as an Ally.
 63 You are pitted against a firmly established target with many layers of defence. Throw Endurance 8+ to avoid Injury; if
 you succeed, you gain one level in Explosives, Gun Combat (any) or Heavy Weapons (any).
@@ -1357,7 +1357,7 @@ you manage to escape from the major fighting to continure fighting for the cause
 ## SECURITY
 
 The character specializes in tickets surrounding the defence and
-protection of their employers or their employers’ assets.
+protection of their employers or their employers' assets.
 QQualifications: ualifications: End 6+.
 PPrevious Service: revious Service: 1 term in any military or mercenary career
 If you are aged 28 or more: -2 DM
@@ -1432,7 +1432,7 @@ RRolloll CCashash OOther Benefitsther Benefits
 way to prevent this, you are forced to leave the unit and look for new employment.
 3 A large, corporation backed, unit moves into the area and aggressively bids for all security tickets at very low
 prices, cornering the market. With no employment now available within the subsector your unit disbands.
-4 A traitor within your employer’s ranks causes your mission to fail spectacularly. Your unit is blamed for this in the
+4 A traitor within your employer's ranks causes your mission to fail spectacularly. Your unit is blamed for this in the
 subsequent cover-up and you are forced to look for employment elsewhere.
 5 It turns out that your last employer was a notorious crime figure who is arrested. You may keep your Benefit roll
 for this term, but gain an Enemy in a law enforcement official who believes you are just as guilty as your ex-boss.
@@ -1498,9 +1498,9 @@ decrease your Social Standing by 1 and roll on the Injury table.
 Increase your Social Standing by 1.
 56 Your employer is very happy with your services and pricing; he is willing to do some advertising for your unit free of
 charge. You get a +1 DM to your next Benefits roll because of the increased ticket revenues.
-61 You got assigned to a ‘babysitting’ ticket that was boring and uneventful. You do not need to make a Survival roll.
+61 You got assigned to a 'babysitting' ticket that was boring and uneventful. You do not need to make a Survival roll.
 62 Your client is very afraid for his life and goes everywhere with you. Gain him as an Ally after so much time together.
-63 You are asked to arrange the defences for your client’s base of operations. Throw Intelligence 8+. If you succeed, you
+63 You are asked to arrange the defences for your client's base of operations. Throw Intelligence 8+. If you succeed, you
 gain one level in Combat Engineering, Leadership or Tactics.
 64 Political activists target the use of mercenaries by your client. Throw Int 8+ to avoid responding to their provocations.
 Fail and you do something rash, leading you to automatically fail your Advancement roll this term.
@@ -1604,13 +1604,13 @@ term.
 8 Injured. Roll on the Injury table
 9 You and your unit are used to cover the tracks of a disgraced military officer. As a result of this the officer becomes
 an Ally in gratitude.
-10 Your unit is decimated as you come under ‘friendly fire’. Throw Tactics 8+. If you succeed you manage to extract
+10 Your unit is decimated as you come under 'friendly fire'. Throw Tactics 8+. If you succeed you manage to extract
 the survivors and lead them to safety, gain 1d3 Contacts. Failure leaves only embittered, wounded veterans who
 curse your name, gain 1d3 Enemies. In either case the disaster causes the unit to disband.
 11 You end up in constant conflict with another mercenary. Gain that character as a Rival as he drives you out of the
 mercenary business.
 12 What was a limited mercenary action rapidly escalates as major governmental agencies become involved. As a
-result of this your unit is one of those pushed out as political pressure forces ‘something to be done’.
+result of this your unit is one of those pushed out as political pressure forces 'something to be done'.
 
 ### CCCRREATINGREEAATTIINNGG AAA M MMEERCENARYERRCCEENNAARRYY
 
@@ -1618,7 +1618,7 @@ result of this your unit is one of those pushed out as political pressure forces
 
 RRoll d66oll d 66 EEventsvents
 11 Disaster! Roll on the mishap table, but you are not ejected from this career.
-12 A local media source covered your unit’s actions in a very favourable light. Increase your Social Standing by 1.
+12 A local media source covered your unit's actions in a very favorable light. Increase your Social Standing by 1.
 13 You are forced to stay in a hostile zone far longer than what you would like. Throw Endurance 8+ to avoid Injury.
 Success means you made it out unscathed and well-practiced. Gain Gun Combat (any) 1 or Heavy Weapons (any) 1.
 14 Artillery fire had scattered your offensive. Throw Leadership 8+ to rally the unit back together to finish the ticket.
@@ -1632,7 +1632,7 @@ opportunity along the way, creating havoc in what would otherwise be peaceful sy
 Combat (any), Tactics (any), Leadership or Recon. You also gain 1d3 Enemies due to your campaign of terror.
 22 You sign up to a long contract only to find the action is quickly over. Gain Carouse 1, Gambler 1, Language 1 or
 Trade 1 as you spend the rest of the ticket engaged in less hazardous activities.
-23 Your unit’s latest ticket helped stabilize a corrupt government. Gain Recruiting or raise your Social Standing by 1.
+23 Your unit's latest ticket helped stabilize a corrupt government. Gain Recruiting or raise your Social Standing by 1.
 24 You are forced by circumstances to act as a spokesman for the unit, denying criminal allegations. Throw
 Diplomat 8+. Success gains you 1d3 Contacts, failure and you gain 1d3 Rivals who continue to spread baseless
 accusations against you.
@@ -1761,7 +1761,7 @@ to roll for qualification, but cannot choose Warmonger no matter what.
 7 A high-credit deal goes sour when your employer double-crosses you, and you were forced to kill him at the
 negotiation table. Decrease your Social Standing by 1.
 8 Severely wounded. Roll twice on the Injury table and take the lower result.
-9 You and your associates’ weapon cache was hit by saboteurs. They destroy a great deal of your goods before you
+9 You and your associates' weapon cache was hit by saboteurs. They destroy a great deal of your goods before you
 fight them off. You gain Gun Combat 1 or Melee 1.
 10 You are blamed for a major escalation of the local political tensions. Reduce your Social Standing by 1.
 11 A series of bad deals and decisions force you into bankruptcy. You salvage what you can. You may take a Benefit
@@ -1796,7 +1796,7 @@ Gambling or Persuade.
 24 The ticket has the possibility of being highly lucrative. Throw Broker 8+. Success adds +1 DM to your Benefits roll for
 this term.
 25 A trader asks you to carry a prototype device that he wants to see in action. If you refuse, he tells everyone of your
-‘cowardice’ and you lose –1 Social Standing. If you agree, you must roll on the Injury table for when it backfires but
+'cowardice' and you lose –1 Social Standing. If you agree, you must roll on the Injury table for when it backfires but
 you are compensated for your efforts in the form of a +1 DM to your Benefits roll for this term.
 26 You fulfil a ticket that brings you to a deal table with some important people in the war industry. Throw Broker 7+ or
 Persuade 8+, gaining an additional Benefit roll if successful. Gain a Contact either way.
@@ -1823,7 +1823,7 @@ Tactics 1. Failure will cause you to lose your Benefits roll for this term.
 64 You are put to the test in a massive combat situation, forcing you to act more like other breeds of mercenary. Gain
 one of Comms 1, Gun Combat 1, Leadership 1, Melee 1 or Tactics 1.
 65 In a wartime meeting of your clients, you are forced to back one side over the other. Unless you can convince both
-sides that you are ‘neutral’. Throw Persuade 8+ in order to seem like a neutral party in this conflict. If successful, gain
+sides that you are 'neutral'. Throw Persuade 8+ in order to seem like a neutral party in this conflict. If successful, gain
 two Contacts. If you fail, gain one Ally and one Enemy. No matter what happens you gain Persuade 1.
 66 This term was filled with lucrative tickets. You are automatically promoted.
 
@@ -1834,7 +1834,7 @@ two Contacts. If you fail, gain one Ally and one Enemy. No matter what happens y
 Characters that choose the life of a mercenary know they are headed
 into a world of conflicts and unrest, many of which they will try to
 make a profit upon. Because of the amount of time that mercenaries
-spend away from the ‘real worlds’ and in battlefields, military bases
+spend away from the 'real worlds' and in battlefields, military bases
 and demilitarised zones. Mercenary characters (or common career
 characters in hostile surroundings, if the Referee wishes) have the
 chance to experience unique events. If you roll a Wartime Event on
@@ -1854,9 +1854,9 @@ not hurt anymore, but it does give you a rough exterior that is sometimes diffic
 6 Camaraderie: You become very close to the other members of your unit and such fraternity is rewarded with
 unquestioning acceptance. If you choose to remain in the same career path and assignment for your next
 term, you do not need to roll for Qualification.
-7 You save a member of your unit’s life and gain a new Ally.
+7 You save a member of your unit's life and gain a new Ally.
 8 Weapon Cache. You stumble upon a stockpile of weaponry and armament. When no one is looking you
-manage to claim a piece of the find for yourself. Add an Armor, Combat Implant or Weapon Benefit (player’s
+manage to claim a piece of the find for yourself. Add an Armor, Combat Implant or Weapon Benefit (player's
 choice) when you muster out.
 9 Employment Offer: The character is approached by a potential future employer, and the unit is set up for
 another conflict before the current one is even concluded. You gain a +2 DM to your next Qualification roll.
@@ -1881,17 +1881,17 @@ figure out how to use it.
 
 #### Mercenary Retirement Benefits – Friends &
 
-#### Favours
+#### Favors
 
 Unlike many of the common career classes presented in Traveller ,
 mercenaries are not fortunate enough to receive a retirement
 package – they rarely live long enough to receive one anyway! They
-do however, get access to a network of old friends and favours that
+do however, get access to a network of old friends and favors that
 non-mercenary characters do not.
 
 A character that leaves a mercenary service at the end of the 5th or
 later term of service is assumed to have created one of these friend
-and favour networks. They are allowed to roll on the table below
+and favor networks. They are allowed to roll on the table below
 once for each term beyond the 4th they spent in the career. The
 results are added benefits that the character receives.
 
@@ -1921,14 +1921,14 @@ mercenaries must engage in order to be succeed, so it is simply
 better for them if they remain the employers of mercenaries rather
 than the employees.
 
-#### K’Kree
+#### K'Kree
 
 Even though they may say they would prefer to take a plasma
 charge to the chest before travelling around in a cramped starship,
-the ‘centaurs’ make remarkably good mercenaries for ground
+the 'centaurs' make remarkably good mercenaries for ground
 operations. So long as they can stay out of spacecraft-related tickets,
 their powerful physiques and multi-limbed frames can be extremely
-useful to a mercenary unit. A K’Kree will happily fight against their
+useful to a mercenary unit. A K'Kree will happily fight against their
 foes, especially if aimed at meat-eating targets.
 
 #### Vargr
@@ -1939,7 +1939,7 @@ out-do one another for personal prestige amongst their fellows, and
 enjoy the long hours and cramped quarters. Their physical makeup
 is well suited for close quarters and firearms combat, and their
 naturally energetic lifestyle lends them the drive to finish even the
-most tedious of tickets. Their society loves the idea of a mercenary’s
+most tedious of tickets. Their society loves the idea of a mercenary's
 life; they go so far as raise their children to become them.
 
 #### Zhodani
@@ -1969,11 +1969,11 @@ Gain Ally
 him in a hard time. +7,500 credits or the
 Weapon benefit
 11 One of your old friends has arranged for
-a lesser vehicle to ‘go missing’ and end
+a lesser vehicle to 'go missing' and end
 up in your possession. Gain either the
-Air/Raft or Ship’s Boat Benefit
+Air/Raft or Ship's Boat Benefit
 12 You were named as an inheritor on an old
-colleague’s last will. Gain +15,000 credits
+colleague's last will. Gain +15,000 credits
 
 #### Medical Debts – You Are On Your Own
 
@@ -1981,16 +1981,16 @@ Unlike a steady job with the armed services or a common corporation,
 working with mercenary groups is tenuous and risky. It is dangerous
 work, and the hiring units know that. Where a common career might
 insure an employee for medical costs from being injured on the job,
-a mercenary’s life is often riddled with injuries.
+a mercenary's life is often riddled with injuries.
 
 This means that any character that receives medical debts due
 to injuries received during a term in a mercenary career will not
 see any of that debt paid by their employers. Mercenaries who get
 themselves too beat up in their tickets will need to then take on
 more tickets to pay for the bills incurred in the first, and so on. It
-is this cycle of working to pay for ‘repairs’ after working that leads
+is this cycle of working to pay for 'repairs' after working that leads
 so many mercenaries to dying on the job – it is easier than trying to
-keep up with the doctors’ bills!
+keep up with the doctors' bills!
 
 ## ALIEN MERCENARY CHARACTERS
 
@@ -2029,10 +2029,10 @@ determine what medal(s) is/are received by the character.
 
 CCombat Ribbon: ombat Ribbon: Any character that is in a combat Event or Mishap
 will automatically be awarded a Combat Ribbon. These will include
-a citation that will detail the character’s name, rank, unit and the
+a citation that will detail the character's name, rank, unit and the
 name and date of the action. Although the Imperium does keep
 track of such awards they are not advertised greatly, although on
-smaller planets or settlements a well-travelled favourite son may
+smaller planets or settlements a well-travelled favorite son may
 well get a mention in the local news media if he receives a Combat
 Ribbon.
 
@@ -2055,7 +2055,7 @@ be less impressed though, although they will respect a man willing
 to risk his life and shed blood for his cause/regiment/comrades.
 The award is much more likely to be featured in local media and any
 character returning to his homeworld/town/neighborhood is more
-likely to receive a hero’s welcome.
+likely to receive a hero's welcome.
 
 MMeritorious Conduct under Fire (MCUF): eritorious Conduct under Fire (MCUF): The MCUF is the first
 medal for bravery awarded to those who show bravery on the field
@@ -2082,7 +2082,7 @@ the man, or woman, who has shown the outstanding heroic qualities
 necessary to win the award. Despite the vast nature of the Imperium
 and many conflicts that it will be engaged in an individual receiving
 the medal is still notable enough to be reported in major news media
-and those that receive the reward can expect a (deserved) hero’s
+and those that receive the reward can expect a (deserved) hero's
 welcome when they return home. A mercenary unit will welcome
 a bearer of the medal into its ranks, the prestige alone being worth
 their while, let alone the benefit of having such a notable warrior
@@ -2113,7 +2113,7 @@ Checking to see if he has won a medal for his pains, he adds +3
 to the total for his bravery, getting a 13. This is 5 more than the
 8+ normally needed to avoid injury (this number is unchanged
 for the purpose of determining if the character will receive an
-award), and young Tommy’s bravery does not go unnoticed. He
+award), and young Tommy's bravery does not go unnoticed. He
 will receive the MCG and also gain a Purple Heart (for his injury),
 a Combat Ribbon and a Combat Command Ribbon, assuming
 he will survive his wounds
@@ -2136,7 +2136,7 @@ careers if they are desired.
 
 ## New Skills and Specialities
 
-Each New Skill is noted with an ‘*’ in front of its name and is
+Each New Skill is noted with an '*' in front of its name and is
 described here using the basic following format:
 DDescription: What the new skill does. escription:
 SSpecialities: If the new skill has several specialities, they are listed pecialities:
@@ -2150,7 +2150,7 @@ those uses.
 If this book presents a new speciality or check for the core skills
 found in the _Traveller Core Rulebook_ , they will be listed under the
 name of the core skill, but only the relevant information for the new
-speciality. None of the skill’s other uses will be re-listed, as they are
+speciality. None of the skill's other uses will be re-listed, as they are
 already available.
 
 #### Admin
@@ -2183,10 +2183,10 @@ more details on how to use this speciality)
 #### * Combat Engineering
 
 The character is trained in the rapid construction of field fortifications,
-large-scale camouflage, the appraisal of a structure’s ability to
+large-scale camouflage, the appraisal of a structure's ability to
 withstand enemy fire, landmine placement and removal, and/or
 placement of passive ground sensors. Essentially the battlefield is
-the character’s to mould as he sees fit.
+the character's to mold as he sees fit.
 
 SSpecialitiespecialities
 
@@ -2242,7 +2242,7 @@ to Effect.
     vehicles.
     _Driving a hovercraft across uneven terrain:_ 1-6 minutes,
     Dexterity, Difficult (-2)
-    _Using a ‘hover burst’ to leap over protruding objects:_ 1-6
+    _Using a 'hover burst' to leap over protruding objects:_ 1-6
     seconds, Dexterity, Routine for small objects (+2), Average
     for man-sized objects (+0), Difficult for vehicle-sized objects
     (-2)
@@ -2254,7 +2254,7 @@ angle: 10-60 seconds, Education, Average (+0), Opposed
 by potential targets. The damage from the explosive is
 multiplied by the Effect.
 Creating a lesser charge from household chemicals: 1-6 hours,
-Education, Difficult (-2). Base Radius is 1 metre and Damage
+Education, Difficult (-2). Base Radius is 1 meter and Damage
 is x2, either of which can be added to by points of the Effect
 (1 for 1 basis).
 
@@ -2327,13 +2327,13 @@ SSpecialitiespecialities
     spill their secrets.
     _Badgering an admission of guilt out of a captive:_ 1-6 Hours,
     Intelligence, Difficult (-2). The Effect is the DM penalty
-    against the interrogator’s inquiries.
+    against the interrogator's inquiries.
     _Uncovering a secret through focussed conversation:_ 10-60
     Minutes, Intelligence, Difficult (-2).
 - TTorture: This speciality governs the collection of emotional, orture:
     physical and psychological methods in which an interrogator
     can get a victim to break. Through an assortment of
-    unsavoury methods, the character can get anyone to say
+    unsavory methods, the character can get anyone to say
     what he needs them to.
     _Knowing a true confession from a false one:_ 1-6 Seconds,
     Intelligence, Routine (+2).
@@ -2345,12 +2345,12 @@ SSpecialitiespecialities
 
 #### Language
 
-Speaking or deciphering a phrase in false ‘language’: 1-6
+Speaking or deciphering a phrase in false 'language': 1-6
 seconds, Education, Average (+0)
-Holding a simple conversation in false ‘language’: 10-60
+Holding a simple conversation in false 'language': 10-60
 seconds, Education, Difficult (-2)
 Writing or deciphering a complex document or report in false
-‘language’: 10-60 minutes, Education, Very Difficult (-4)
+'language': 10-60 minutes, Education, Very Difficult (-4)
 
 #### Leadership
 
@@ -2372,7 +2372,7 @@ or Education, Average (+0)
 
 Figuring the quantity of recent passers by using ground tracks:
 1-6 minutes, Intelligence, Average (+0)
-Covering one’s own tracks: 1-6 minutes, Intelligence, Average
+Covering one's own tracks: 1-6 minutes, Intelligence, Average
 (+0) or Difficult if performed without slowing travel (-2).
 Covers the tracks for a number of additional allies equal to
 Effect.
@@ -2383,7 +2383,7 @@ tracks: 10-60 seconds, Intelligence, Very Difficult (-4)
 #### * Recruiting
 
 This skill governs the ability to recognize the best individuals to
-attempt to bring into the character’s allegiance, group or affiliation.
+attempt to bring into the character's allegiance, group or affiliation.
 Used primarily by mercenaries to find new blood for their charter,
 this skill can also be used by those simply looking for related
 hirelings or employees. The Recruiting skill also governs the ability
@@ -2663,7 +2663,7 @@ skills with the Point Allocation system as normal.
 Every mercenary in the _Traveller_ universe is looking for one primary
 goal in their chosen careers – money. Where a common spacefaring
 citizen in _Traveller_ can just go out and get a job using the skills
-that they have, a mercenary is not as lucky. A mercenary’s skills are
+that they have, a mercenary is not as lucky. A mercenary's skills are
 most commonly built for combat, which is not something that the
 average spacefarer can make money at. Not legally; not without
 being signed to a _ticket_.
@@ -2676,7 +2676,7 @@ mercenaries are required to do in order to get paid. It is, essentially,
 the most important piece of documentation a mercenary can own.
 
 Although just having a ticket does not necessarily mean that the
-authorities (the legal agency in the vicinity of the ticket’s execution)
+authorities (the legal agency in the vicinity of the ticket's execution)
 will accept it, merely that someone with the right lawyers, money
 and power will stand behind the mercenaries if need be. Having a
 properly drawn up ticket with a group of mercenaries will not make
@@ -2753,7 +2753,7 @@ paid.
 There are some tickets that require special equipment or services
 to occur before the employee can begin to fulfil the services. Some
 employers will understand this fact and arrange for this special
-support as part of the ticketing process. If a ticket’s services are
+support as part of the ticketing process. If a ticket's services are
 going to be difficult without certain gear the employer is frequently
 expected to at least offer the funds to equip themselves, if not the
 equipment itself.
@@ -2770,13 +2770,13 @@ happy to get at least a little payment before the action begins.
 
 #### Post-Ticket Support
 
-Events unfortunately happen while in the course of a ticket’s
+Events unfortunately happen while in the course of a ticket's
 fulfilment that cannot always be expected, and often the employer
 makes ready for that. Items attached to a ticket like assisted health
 care, rearmament fees, or something as simple as evacuation
 transportation can be placed under post-ticket support. This section
 of a mercenary ticket is dedicated to what the employer is willing to
-do for the employee after a ticket’s service has been met, beyond
+do for the employee after a ticket's service has been met, beyond
 simple financial payment.
 
 Employers rarely choose to add a great deal into post-ticket support
@@ -2799,7 +2799,7 @@ Essentially, everyone wants to get to the successful end of a ticket
 while gaining as much as they can – so long as they gain more than
 the other side of the contract.
 
-Although the actual credit value of a ticket’s compensation is
+Although the actual credit value of a ticket's compensation is
 almost always the main wage an employee can earn, but many try to
 get additional compensations in the form of material gains. Guns,
 armor, even ship shares will sometimes be offered in lieu of cash,
@@ -2812,7 +2812,7 @@ is designed to protect the employee in the unlikely case that the
 employer falls apart, is disbanded or dies before the ticket can be
 completed. In the case where an employer is not around to fulfil
 its end of the ticket, the repatriation bond is a lump sum of credits
-due to the employee at the ticket’s closing. This sum is often less
+due to the employee at the ticket's closing. This sum is often less
 (sometimes dramatically so) than that of the agreed compensation
 package, but every mercenary unit likes to see they get paid for their
 efforts. Getting back from a ticket and receiving some payment is
@@ -2821,7 +2821,7 @@ and neither does the wage.
 
 The repatriation bond almost always includes a second sum of
 credits reserved to send communication to the unit in the field,
-telling them that the ticket has been voided by the employer’s
+telling them that the ticket has been voided by the employer's
 removal. This also pays for transport out of the field if necessary,
 and sanctions their immediate evacuation from the situation. Most
 operational authorities will honor the removal of mercenaries that
@@ -2837,13 +2837,13 @@ walk out on an unfinished job, but no employee wants to be signed
 into an untenable ticket situation either. When an escape clause is
 added it normally bears serious repercussions (sometimes in the
 form of financial reimbursement) toward the employee. As it in
-effect protects the mercenary unit from getting ‘stuck’ in a ticket they
+effect protects the mercenary unit from getting 'stuck' in a ticket they
 cannot or should not finish, it is up to them to make it worthwhile to
 the employers for their time, effort and reputation.
 
 ## THE ADMINISTRATION OF A TICKET
 
-Once an employer realises they are in need of a mercenary’s services
+Once an employer realises they are in need of a mercenary's services
 they choose who they are going to seek for employment, then
 arrange for a meeting with their administrative staff. Some units
 have pre-arranged members for the business end of their careers,
@@ -2861,7 +2861,7 @@ credits out of a potential employer before the ticket is signed.
 
 An administration meeting has three main segments: the offer, the
 negotiation, and the closing. Each of these three steps is singularly as
-important as the rest and any can be devastating to the mercenary’s
+important as the rest and any can be devastating to the mercenary's
 position in the ticket if handled poorly.
 
 #### The Offer
@@ -2874,7 +2874,7 @@ the negotiations will assuredly go against them. They must have
 their ideas and limits ready or a seasoned mercenary administrator
 will take them for all they are worth.
 
-The initial offer for a ticket’s services should be simple enough.
+The initial offer for a ticket's services should be simple enough.
 The employer states what they need done and what their initial
 ticket compensation package should look like, and hope that the
 mercenary accepts it. If the offer is too low, the mercenaries might
@@ -2911,12 +2911,12 @@ something as simple as the amount of monetary compensation
 being offered to the length of time the ticket is active, all of these
 things are discussed and decided.
 
-Some administrators might gloss over certain details in favours of
+Some administrators might gloss over certain details in favors of
 others, but everyone is obviously interested in getting their way.
 This is where an employer can lose a mercenary if they are too strict
-and are not willing to meet the unit’s terms. The mercenary can also
+and are not willing to meet the unit's terms. The mercenary can also
 lose their chance at the ticket if they do not bend enough to meet
-the employer’s wishes. It can be very tense for the administration
+the employer's wishes. It can be very tense for the administration
 teams, especially if they feel that they are getting the short end of the
 deal. It is not often that a ticket is simply offered and then signed,
 and many mercenaries train their administration officers explicitly to
@@ -2924,7 +2924,7 @@ make the most of each and every ticket they sit down to negotiate.
 
 In game terms, the negotiation process requires both primary
 administrators (the employer and the employee) to throw their
-Broker skill. If the employer’s result is higher than the mercenary’s,
+Broker skill. If the employer's result is higher than the mercenary's,
 then the ticket is more or less arranged as the employer needs it to
 be, and all of the tables used to generate a mercenary ticket (see
 Creating the Ticket below) are rolled normally, with no modifiers. If
@@ -2944,7 +2944,7 @@ EEffectffect NNumber of Ticket Adjustmentsumber of Ticket Adjustments
 
 The negotiation process is a back and forth process that can take
 several hours, but it is generally up to the mercenary administrators
-as to exactly how far they want to push the ticket’s limits – the
+as to exactly how far they want to push the ticket's limits – the
 employer needs them, after all, and not necessarily vice versa.
 
 #### The Closing
@@ -2981,7 +2981,7 @@ shows how these missions are created.
 It may seem obvious that the employer of a mercenary ticket would
 be listed plainly and honestly, but it is not always the case. Some
 employers are purposefully shady in their listings, and only through
-the mercenary’s scrutiny can they be discovered.
+the mercenary's scrutiny can they be discovered.
 
 The Referee may choose or roll randomly upon the table below to
 show the amount of detail an employer will place inside the ticket.
@@ -2989,7 +2989,7 @@ show the amount of detail an employer will place inside the ticket.
 The above information is considered privileged for the Referee unless
 the mercenary administrator involved chooses to research it further.
 The costs the administrator one Ticket Adjustment to research,
-and takes an Admin throw 7+ to know the status of the employer’s
+and takes an Admin throw 7+ to know the status of the employer's
 true details. Knowing these details will not allow the mercenary to
 actually change anything, but it will give them insight as to who they
 are dealing with and whether they really wish to proceed.
@@ -3028,7 +3028,7 @@ here and there to better suit their skills.
 2 Employer is trying to remain anonymous and use false nomenclature to protect itself.
 3 – 5 Employer is purposefully vague on important details.
 6 – 8 Employer is perfectly honest in the ticket, but details are little more than title and mode of communication.
-9 – 10 Honest details; including the employing agent’s name and direct communication.
+9 – 10 Honest details; including the employing agent's name and direct communication.
 11 Honest and very detailed information about the employer.
 12 Private Ticket; employer is honest – but is willing to pay extra to keep the information secret.
 
@@ -3038,12 +3038,12 @@ Even if an entire player group of mercenaries is running missions
 in Traveller , they might want to simply let someone else in the
 unit do all of the ticket administration. They can let a different
 unit member do all of the negotiating in order to simply run the
-ticket’s services and get paid.
+ticket's services and get paid.
 
-If a player unit decides to allow this form of ‘outside
-administration’ to create tickets for them, they will obviously be
+If a player unit decides to allow this form of 'outside
+administration' to create tickets for them, they will obviously be
 unable to accumulate Ticket Adjustments for the ticket creation
-process. In this situation they are at the mercy of their unit’s
+process. In this situation they are at the mercy of their unit's
 administrators, and must abide by what they negotiate.
 
 Any ticket that is administrated by outside forces is given 1d6-1
@@ -3051,7 +3051,7 @@ Ticket Adjustments during the creation process.
 
 #### Ticket Adjustments
 
-Whether gained through the characters’ terms of mercenary
+Whether gained through the characters' terms of mercenary
 service or through the administration process, Ticket
 Adjustments are what allow them to make the most of the ticket.
 They are, in essence, the only amount of control the players have
@@ -3081,7 +3081,7 @@ written.
 There are several overall types of work that a mercenary unit can
 fill a ticket for. The Referee can either choose or roll randomly on
 the table below to determine this. For this roll, the administrating
-character’s Rank is added to the result.
+character's Rank is added to the result.
 
 2 2d6 Resultd 6 Result GGeneric Service Typeeneric Service Type
 1 or lower Criminal
@@ -3099,7 +3099,7 @@ character’s Rank is added to the result.
 13 or higher Dream
 
 Once the Generic Service Type has been determined, the next step
-is to figure out the exact nature of the ticket’s mission. The varied
+is to figure out the exact nature of the ticket's mission. The varied
 sub-types of mission are rolled randomly on the individual Service
 tables below, the descriptions of all mission categories are listed
 after all of the tables.
@@ -3230,7 +3230,7 @@ AActive Duty: ctive Duty: The mission assigns the mercenary unit to serve on
 a battlefield that is currently home to some sort of military conflict.
 (LONG)
 
-- _Cadre_ missions of this type tend to be ‘hands on’ training runs
+- _Cadre_ missions of this type tend to be 'hands on' training runs
     that let the mercenary unit help one side of the conflict learn
     how to survive and hopefully be victorious.
        - _Commando_ missions in active duty roles tend to be simple fill-
@@ -3245,7 +3245,7 @@ or targets. (SHORT)
     and simple.
 - _Guerrilla_ units sent to assassinate someone are almost always
     targeting the head of a company, governmental office or rival
-    force in the way of the employer’s progress.
+    force in the way of the employer's progress.
 
 CCommerce: ommerce: This Warmonger -only mission type is used to describe
 a ticket that revolves around the sale of specific goods or services in
@@ -3338,7 +3338,7 @@ damage to the target. (SHORT)
     inflict mass damage, and then quickly evacuate.
 - _Warmonger_ missions of this type are aimed at rivals of the
     employer, taking assets from them in order to weaken the
-    target’s position against them.
+    target's position against them.
 
 RRecon: econ: This mission involves gathering information on the target.
 (MEDIUM)
@@ -3353,7 +3353,7 @@ RRecon: econ: This mission involves gathering information on the target.
     territory and learn as much as the mercenaries can, by whatever
     means necessary, before making a hasty escape with the
     information.
-- _Dream_ assignments in a recon mission are ‘cushy’ jobs that
+- _Dream_ assignments in a recon mission are 'cushy' jobs that
     involve non-hostile targets. They are often personal in nature
 
 to the employer, and the mercenaries are being paid for their
@@ -3399,25 +3399,25 @@ boring and frustrating. (MEDIUM)
 UUnlawful Aquisition: nlawful Aquisition: This Criminal mission type is the basic idea
 of picking something up for the employer that does not currently
 belong to them. Whether it is simple theft, hijacking, kidnapping or
-some other form of ‘acquisition’, the unit must take possession of
+some other form of 'acquisition', the unit must take possession of
 the target and bring it to the employer. (SHORT)
 
 #### 3.2 LENGTH OF SERVICE
 
-The ticket’s services are always of a specifically defined length
+The ticket's services are always of a specifically defined length
 of time, otherwise the mercenary unit could theoretically be
 contractually obligated forever. It is through the negotiation process
 that the timing of the contract is worked out.
 
 The following three tables are designed to quickly determine how
-long the mercenary unit will be given to fulfil the ticket’s services.
+long the mercenary unit will be given to fulfil the ticket's services.
 The mercenary administrator may lengthen or shorten the time
 increment rolled by spending Ticket Adjustments, one per level
 
 ### MMEERCENARYRCENARY TTIICKETSCKETS
 
 moved up or down. Additionally, the administrator can spend
-three Ticket Adjustments to change the ticket mission’s base _table_
+three Ticket Adjustments to change the ticket mission's base _table_
 completely (such as from Short to Long.).
 
 #### SHORT MISSIONS
@@ -3454,7 +3454,7 @@ completely (such as from Short to Long.).
 7 1d6 Years
 
 Unless the mercenary administrator specifically includes an
-‘end of mission’ clause (which costs the administrator a Ticket
+'end of mission' clause (which costs the administrator a Ticket
 Adjustment), the unit will not actually receive their Compensation
 Package until the determined time has expired. Most employers
 might be convinced to sway this if proof of a successful ticket can be
@@ -3469,13 +3469,13 @@ no income coming in.
 
 The actions taking place within the service requirements of a ticket
 can sometimes be hard on the public eye, or they could elevate a
-mercenary’s reputation, depending on what the employer requires
+mercenary's reputation, depending on what the employer requires
 them to do. A unit could want to stay more or less anonymous to
 the public on certain tickets; it is their reputation on the line, not the
-employer’s, when the media gets to telling the story.
+employer's, when the media gets to telling the story.
 
 The Referee can use the following table to determine the type of
-exposure the ticket’s activities will get. The mercenary administrator
+exposure the ticket's activities will get. The mercenary administrator
 can spend Ticket Adjustments to raise or lower the result by +/– 1
 per Ticket Adjustment.
 
@@ -3483,21 +3483,21 @@ per Ticket Adjustment.
 2 or lower Hidden – Without doing research, no one
 knows the ticket existed.
 3 – 4 Obscure – Only the local public is aware of
-the ticket’s actions.
+the ticket's actions.
 5 – 6 Low Profile – Much of the planet is aware
-of the ticket’s actions, and the local public
+of the ticket's actions, and the local public
 know the name of the mercenary unit.
 7 – 8 Uncommon – The ticket has received some
 media attention in the local area and the
-mercenary unit’s involvement is locally
+mercenary unit's involvement is locally
 public.
 9 – 10 Common – The media has spread the
-mercenary unit’s name throughout the
+mercenary unit's name throughout the
 planet and it has spread to neighboring
 planets.
-11 – 12 Exposed – The mercenary unit’s name is
+11 – 12 Exposed – The mercenary unit's name is
 publicly known on a planetary level; even
-a few specific members’ names are being
+a few specific members' names are being
 said.
 13 or
 higher
@@ -3519,7 +3519,7 @@ to the table above:
 
 #### 3.4 DETERMINE TARGET
 
-The purpose of a ticket’s service, no matter what it might be, will
+The purpose of a ticket's service, no matter what it might be, will
 have a target detailed for the unit to interact with. The various
 missions a ticket could arrange for can have one of three types of
 target; defensive, neutral and offensive. The following lists explain
@@ -3617,7 +3617,7 @@ results.
 #### TICKET RISK
 
 1 1d6 Resultd 6 Result LLevel of Riskevel of Risk PPay Grade Adjustmentay Grade Adjustment
-1 Too Easy – This is well beneath the unit’s level of training; it is unlikely they will
+1 Too Easy – This is well beneath the unit's level of training; it is unlikely they will
 even break a sweat.
 
 -2 Increments
@@ -3628,7 +3628,7 @@ what ticket work should be.
 
 ###### –
 
-4 Worthy Test – This is a fantastic place to test the unit’s skills, even some of the
+4 Worthy Test – This is a fantastic place to test the unit's skills, even some of the
 obscure ones. They might suffer some wounds or even casualties.
 
 +1 Increment
@@ -3643,7 +3643,7 @@ will have been pushed to the very limit.
 
 +3 Increments
 
-Once the level of risk has been determined, the ticket’s service has
+Once the level of risk has been determined, the ticket's service has
 been fully described. The Referee can then use the various pieces
 that he has chosen or rolled to put together a cohesive idea of what
 the mercenaries will be doing to earn their money.
@@ -3701,7 +3701,7 @@ EEquipment Repairs: quipment Repairs: If the unit has physical equipment (vehicl
 armor, gear, etc.) that requires repairs before the ticket begins, the
 employer will arrange for those repairs.
 RRearmament: earmament: The employer arranges for all power packs, fuel cells,
-and munitions for the unit’s weaponry to be recharged, re-armed, or
+and munitions for the unit's weaponry to be recharged, re-armed, or
 otherwise refreshed properly.
 AArms Trading: rms Trading: The employer arranges a meeting with an allied
 arms dealer, who will trade with the unit at a discount of 10% to
@@ -3729,7 +3729,7 @@ the entire unit or 2d6 suits of Combat Armor (TL11).
 WWeapons: eapons: The employer arranges for up to 1,250 credits worth of
 weapons for each member of the unit placed on the ticket.
 HHeavy Weapon: eavy Weapon: The employer arranges for a single heavy weapon
-for the unit’s use worth up to 5,000 credits (after ammunition).
+for the unit's use worth up to 5,000 credits (after ammunition).
 TTransport: ransport: The employer grants the unit the use of any single
 vehicle worth 300,000 credits or less; this must be returned after
 the ticket.
@@ -3828,7 +3828,7 @@ The mercenary administrator can choose to augment the Pay Grade
 by spending Ticket Adjustments, at a ratio of two adjustments per
 Pay Grade.
 
-Any ticket that has a final Pay Grade of ‘F’ or higher qualifies for a
+Any ticket that has a final Pay Grade of 'F' or higher qualifies for a
 potential bonus in its compensation package. By willingly reducing
 the Pay Grade by one increment and spending a Ticket Adjustment,
 the mercenary administrator can roll once (and once only!) on the
@@ -3856,7 +3856,7 @@ purchase and grafting of up to 100,000 credits worth of Combat
 Implants to the higher ranking members of the unit.
 SShip Shares: hip Shares: The employer gives 2d6 Ship Shares to the mercenary
 unit.
-DDebt Payment: ebt Payment: The employer offers to pay 1d6 x 10% of the unit’s
+DDebt Payment: ebt Payment: The employer offers to pay 1d6 x 10% of the unit's
 medical or banking-related debts.
 PPrime Ticket: rime Ticket: The employer will grant the equivalent to the Prime
 Ticket benefit (see page 13) to the unit for their next sanctioned
@@ -3866,8 +3866,8 @@ ticket together.
 
 Almost every ticket includes these insurance clauses in case the
 employer (or their need for the ticket) is eliminated. These clauses
-keep a mercenary’s expenditures lower in the unlikely case of an
-employer’s willing or unwilling removal from the ticket.
+keep a mercenary's expenditures lower in the unlikely case of an
+employer's willing or unwilling removal from the ticket.
 
 The Referee rolls upon the following table to determine the amount
 of the Compensation Package funds (cash only, no bonuses) will be
@@ -3923,7 +3923,7 @@ out of the ticket without any repercussion.
 
 When the negotiations are done and the details of the ticket are
 finished, the local governing authorities often request that the
-finalised ticket contract is ‘sealed’. Sealing a ticket means that it has
+finalised ticket contract is 'sealed'. Sealing a ticket means that it has
 been closed from the negotiations and is considered to be enacted
 for all purposes, including the legal bondage of the employer. The
 authorities hold on to the ticket, keeping it from the public eye and
@@ -3968,7 +3968,7 @@ of players is obviously used to make money, a crafty Referee could
 easily build an entire story arc off the actions of a particularly
 lengthy ticket. With some tickets stretching out over years, a group
 of players placed on the actions of a specific ticket could have an
-entire campaign’s worth of adventures and excitement trying to
+entire campaign's worth of adventures and excitement trying to
 fulfil them. Even if it is just used as a gateway to larger plots and
 schemes that the players learn about during the course of the ticket,
 a simple ticket could serve a Referee as a storyline device.
@@ -3983,7 +3983,7 @@ In Traveller , the progression of characters and storylines can take
 months and years instead of the common chronological paths that
 other roleplaying games might take. A slow starship journey across
 the stars could take a great deal of time, or perhaps a training class
-might eat up a few months of the characters’ time. Whatever the
+might eat up a few months of the characters' time. Whatever the
 reason, Player Character groups could find themselves with great
 amounts of downtime. For characters involved in a mercenary unit,
 downtime can end as quickly as they can arrange for a ticket to work
@@ -4025,7 +4025,7 @@ spectacularly well.
 
 Although not as expedient as simply creating the summary of a
 ticket and adjusting the timeline of the game, Narrative format is far
-more detailed and fair to the representation of the Player Characters’
+more detailed and fair to the representation of the Player Characters'
 actual skills and talents.
 
 #### Summary Resolution Format
@@ -4034,7 +4034,7 @@ The simpler of the two forms of ticket resolution, Summary format
 is actually a series of die rolls and skill throws made by the Referee
 
 and involved Player Characters to determine what the results of the
-ticket’s mission were. This method is fast and simple, getting the
+ticket's mission were. This method is fast and simple, getting the
 Player Characters paid in a rapid fashion in order to move the overall
 story along. Essentially the Referee rules that the ticket is undertaken
 between gaming sessions, the chronology of the gaming setting is
@@ -4053,17 +4053,17 @@ mercenaries, making too much money for too little risk.
 The following is an example of how a ticket is created. Any dice rolls or game mechanic adjustments are placed in brackets, while the
 narrative game explanation is written normally.
 
-A small unit of mostly Strikers sends their administrator, Bariael, to an interested party’s offices in order to negotiate an upcoming employment
+A small unit of mostly Strikers sends their administrator, Bariael, to an interested party's offices in order to negotiate an upcoming employment
 ticket. When Bariael arrives at the office, he is introduced to the general idea of the ticket, and is quite pleased with what he has found [ Admin
 throw of 9 + 2 (skill DM) = 11; gaining +1 DM on the Negotiation ].
 
 The Negotiation process goes well enough over a few stiff drinks [ Broker throw of 6 + 1 (Offer bonus) + 3 (skill DM) = 10; this is better than
-the employer’s 8, earning Bariael 7 Ticket Adjustments (1d6+1) }, and he sits down to hear what they need done.
+the employer's 8, earning Bariael 7 Ticket Adjustments (1d6+1) }, and he sits down to hear what they need done.
 
 The employer, seems up front about their details [ Honest Details ], so Bariael sees no reason to try and hide who they are either [ +1 Ticket
 Adjustment ]. The ticket will show that they legally were hired to fill the services, and that is good enough for him.
 
-The ticket explains that Bariael’s team will need to move quickly [ rolling a 3 on the Medium Mission length table; 5 weeks! ] and retrieve
+The ticket explains that Bariael's team will need to move quickly [ rolling a 3 on the Medium Mission length table; 5 weeks! ] and retrieve
 [ rolled a 4 on the Commando Mission table, but spent one Ticket Adjustment to make it a Retrieval mission instead ] an exposed [ rolled
 an 11 on Exposure ] military ally of the employer [ rolled a 2 on Defensive Targets, spent one Ticket Adjustment to make it an Allied
 Individual; then tolled a 2 on Target Descriptors ]. Seeing as the job seems dangerous, Bariael digs deep [ spending a Ticket Adjustment ] and
@@ -4085,7 +4085,7 @@ is almost complete. As an aside, knowing that they might be biting off more they
 [ spending his last Ticket Adjustment ] in case things get just a little too hectic for his team. Of course, there will be legal ramifications if he
 does [ rolled a 2 on Escape Clause Levels ], but he is still satisfied with the final arrangement.
 
-The ticket is done and ready to be enacted. The employer is satisfied, Bariael has signed off on his team’s part, and the ticket paperwork has been
+The ticket is done and ready to be enacted. The employer is satisfied, Bariael has signed off on his team's part, and the ticket paperwork has been
 sealed and shipped off to the necessary authorities for safekeeping while the Strikers do what they do best...
 
 ### MMMEERCENARYERRCCEENNAARRYY T TTIICKETSICCKKEETTSS
@@ -4100,7 +4100,7 @@ A ticket can be resolved in a Summary using the following steps:
 - Failing the Endurance throw earns the character a roll on the
     Injury Table (see _Traveller_ core rulebook, page 37)
 - Failing the Social throw earns the character a Rival or Enemy
-    (Referee’s choice).
+    (Referee's choice).
 - Step Three – Unit rolls on Ticket Event Table (below).
 
 As a note, larger mercenary units do better in most cases than
@@ -4139,7 +4139,7 @@ the Referee, and should be something that the character would have
 had with them during the ticket.
 
 Once a ticket has been resolved, the Referee will need to adjust the
-game’s chronological placement (after taking the ticket’s length
+game's chronological placement (after taking the ticket's length
 into account) and work out the final profitability of the ticket for
 the unit.
 
@@ -4154,7 +4154,7 @@ out their final profits.
 #### Reductions
 
 After a mercenary unit is paid for their work on a given ticket,
-the higher echelons of the unit’s staff will take charge of making
+the higher echelons of the unit's staff will take charge of making
 sure that all of the appropriate fees and wages get paid out of the
 initial sum before the unit members actually get paid. This rapidly
 depletes the compensation from a ticket, but it keeps everything in
@@ -4171,7 +4171,7 @@ Profit Margin.
 2 2d6 Resultd 6 Result TTicket Eventicket Event
 2 Disaster – Every character must immediately pass an End throw 9+ or suffer a Random Major Injury (see
 Mishap above).
-3 Employer Dissolved – The employer is no more and the ticket’s Repatriation Bond must be enacted.
+3 Employer Dissolved – The employer is no more and the ticket's Repatriation Bond must be enacted.
 4 – 5 Unexpected Conflicts – Unit is placed into combat several times unexpectedly. Every member must pass a
 combat skill throw 8+ or suffer a Random Minor Injury (see Mishap above).
 6 – 7 New Recruits – Unit meets and hires 2d6 new recruits into the mercenary unit, adjusting their profitability.
@@ -4228,7 +4228,7 @@ during the ticket mission is up to ready status after the ticket is
 over. When they have the money to do so, they will pay for necessary
 repairs and the like. With the ever-changing market for mercenaries
 always threatening to send them on another ticket, they should keep
-their gear ready to use at a moment’s notice.
+their gear ready to use at a moment's notice.
 
 The Reduction for equipment upkeep is set as a basic 1d6+1%, but
 has modifiers depending on the technological level and types of
@@ -4313,7 +4313,7 @@ smoothly on the back end. Paying for rental spaces for equipment,
 storage for vehicles, and housing bills are just some of the things
 that take up a few credits kilocredits here and there; these costs
 add up. Professional mercenary units take care of these costs out
-of each ticket’s compensations in order to stay at peak efficiency
+of each ticket's compensations in order to stay at peak efficiency
 between missions.
 
 The Reduction for ticketing costs/living expenses is set as a basic
@@ -4332,7 +4332,7 @@ arrangements.
 
 Once the Compensation Package from the ticket has had all of
 the necessary reductions removed, some 30% of any profit at this
-stage is put aside for the mercenary company’s own accounts.
+stage is put aside for the mercenary company's own accounts.
 These funds are used to purchase new equipment, recruiting and
 training new members and other sundry costs. After this share is
 deducted the remaining money is split between the members of the
@@ -4346,7 +4346,7 @@ from their fellow team members.
 
 In game terms, after all applicable Reductions have been subtracted
 from the Compensation Package, the mercenary unit adds up all
-of their effective members’ Ranks (three Rank 0 members count
+of their effective members' Ranks (three Rank 0 members count
 for a single Rank 1). The Compensation Package is then divided by
 that total number of Ranks, giving the Salary Share amount of wage.
 This should amount to only the members that were considered
@@ -4357,13 +4357,13 @@ a system for randomly generating the size and Ranks of a mercenary
 company is included in this book (see Recruiting Unit Members ,
 page 60).
 
-The final Salary Share amount is then multiplied by each member’s
+The final Salary Share amount is then multiplied by each member's
 individual Rank; the result is their wage from the ticket.
 
 The following example is a continuation of the ticket creation
 example earlier in this chapter.
 
-Bariael’s unit has successfully completed the retrieval and is now
+Bariael's unit has successfully completed the retrieval and is now
 working out the details of their payment. The money they received as
 pre-ticket support was spent on bribes and expedited transports, so the
 unit accountant only has to worry about paying the requisite fees and
@@ -4373,14 +4373,14 @@ The payment plan of 75,000 credits is then subjected to the various
 reductions after the ticket. Transport reductions pull 5% (1d6% +
 1% +2% = 3,750) to pay for the travel of fifteen unit members to a
 hostile place. The unit does not have to pay for equipment upkeep at
-all because of Bariael’s cunning negotiation skills (Post-Ticket Support),
+all because of Bariael's cunning negotiation skills (Post-Ticket Support),
 but medical reductions for such a dangerous mission amounted to a
 total of a further 7% (1d6–1% +1% +2% = 5,250). Authority reductions
-came at a negligible 1% (1d6% – 1% +1% = 750) because of Bariael’s
+came at a negligible 1% (1d6% – 1% +1% = 750) because of Bariael's
 legal training, and the unit got off very light on living expenses at 2%
-(1d6–2% + 2% = 1,500) due to their compound’s location. Reducing the
+(1d6–2% + 2% = 1,500) due to their compound's location. Reducing the
 package by 11,250 credits, leaving some 63,750 credits of which 19,125
-are then placed into the unit’s pwn bank account leaving the accountant
+are then placed into the unit's pwn bank account leaving the accountant
 to split up the remaining 44,625 credits into wages and profits.
 
 ### MMEERCENARYRCENARY TTIICKETSCKETS
@@ -4400,7 +4400,7 @@ Not all mercenary units will want to keep their missions and jobs
 on official tickets, even if it is generally in their best interests. Some
 will try to keep track of their own finances, pay their members out
 of savings, and upkeep equipment and vehicles without using the
-conventional ‘out of compensation’ methods. Perhaps a unit has
+conventional 'out of compensation' methods. Perhaps a unit has
 been out of work for a few months and they simply need to make
 sure their rent is paid and their guns have bullets to fire. Whatever
 the reasoning, if a unit goes more than six months between tickets,
@@ -4422,7 +4422,7 @@ if they have any outside assets to consider. Once the CPM variable
 is determined, the calculation of monthly monetary losses (after six
 months) is a series of multipliers.
 
-#### STEP ONE – FIGURING THE UNIT’S CPM VARIABLE
+#### STEP ONE – FIGURING THE UNIT'S CPM VARIABLE
 
 Determining the CPM variable of a mercenary unit is a matter of
 deciding just how many individual costs a single member of the unit
@@ -4502,8 +4502,8 @@ units can ever hope to stay active on their own planet just to save
 money.
 
 The multiplier for transport is listed in credit amounts, creating a
-final number that will be multiplied by the unit’s CPM variable. This
-creates the cost for the unit’s monthly transport fees.
+final number that will be multiplied by the unit's CPM variable. This
+creates the cost for the unit's monthly transport fees.
 
 - 100 credits for every off-planet trip in the past month
 - 200 credits if vehicles were transported off-planet in the past
@@ -4523,8 +4523,8 @@ running will soon be down to knives and sharp sticks to get their
 missions completed.
 
 The multiplier for equipment upkeep is listed in credit amounts,
-creating a final number that will be multiplied by the unit’s CPM
-variable. This creates the cost for the unit’s monthly equipment
+creating a final number that will be multiplied by the unit's CPM
+variable. This creates the cost for the unit's monthly equipment
 upkeep.
 
 - 100 credits if the unit uses equipment with a TL less than TL6
@@ -4547,8 +4547,8 @@ and unless a unit works out special deals with a doctor or medical
 facility, they will haemorrhage funds.
 
 The multiplier for medical costs is listed in credit amounts, creating
-a final number that will be multiplied by the unit’s CPM variable.
-This creates the cost for the unit’s monthly medical care bills.
+a final number that will be multiplied by the unit's CPM variable.
+This creates the cost for the unit's monthly medical care bills.
 
 - 100 credits if the unit was involved in a small action (10 or less
     opponents)
@@ -4571,8 +4571,8 @@ properties keeps them from getting into legal trouble with their local
 authorities. A unit must pay its rent, or they will soon be homeless.
 
 The multiplier for living expenses is listed in credit amounts, creating
-a final number that will be multiplied by the unit’s CPM variable.
-This creates the cost for the unit’s monthly living expenses.
+a final number that will be multiplied by the unit's CPM variable.
+This creates the cost for the unit's monthly living expenses.
 
 - 50 credits for every planet the unit has a HQ on
 - 100 credits for every starship the unit has a HQ on
@@ -4597,12 +4597,12 @@ The following example involves the same unit from earlier in this
 chapter; this time they have decided to deal with their own fees
 outside of ticket costs.
 
-_Bariael’s unit has taken a few missions off the record recently for a
+_Bariael's unit has taken a few missions off the record recently for a
 group of pirates and their expenses have begun to pile up. Looking at
 the 34,000 Cr balance in the unit account, Bariael decides to settle up
 their debts and look for more hones work._
 
-_Figuring the CPM variable of the unit is easy. Bariael’s unit numbers
+_Figuring the CPM variable of the unit is easy. Bariael's unit numbers
 sixty members [_ Common; 5+1=6 _], actively uses gauss weaponry [_ TL12;
 6+1=7 _], are marginally skilled [_ 7+0=7 _], and have several Psionists at
 their HQ on an old industry planet [_ Psionists and TL9 HQ; 7+1–2=6
@@ -4649,14 +4649,14 @@ not using specialist recruiters.
 
 Going to planets in the hopes of finding the right personnel to hire,
 recruiters are often charismatic and persuasive in order to get as
-many possible recruits from each trip. Recruits will frequently ‘wash
-out’ before they can even attain their first rank in the unit, forcing
+many possible recruits from each trip. Recruits will frequently 'wash
+out' before they can even attain their first rank in the unit, forcing
 the recruiters to sign on as many as they can – because they will only
 get a few actual recruits out of the endeavor.
 
 This chapter shows readers how to not only send Player Characters
 on missions to gather potential new members for their mercenary
-units, but also includes rules on how to randomly generate a unit’s
+units, but also includes rules on how to randomly generate a unit's
 details and the basic statistics for Non-Player Character mercenaries.
 It has everything a Referee needs to build a mercenary unit, whether
 around a set of Player Characters as co-workers or as foes.
@@ -4713,7 +4713,7 @@ unit.
 #### The Recruitment Site
 
 Where the mercenary chooses to seek out his recruits is as important
-as how skilled he might be. A planet’s population, government and
+as how skilled he might be. A planet's population, government and
 legal limitations can have a serious impact on the number of recruits
 that will come forward when the call is sent out.
 
@@ -4726,10 +4726,10 @@ The number of people living on a planet has a marked effect upon
 the efforts of a recruiting mercenary. If there are not many people
 around, the mercenary cannot hope to draw them away from their
 lives. Within a larger population there will be plenty of potential
-recruits that will be drawn the recruiter’s offer of employment.
+recruits that will be drawn the recruiter's offer of employment.
 
 Using the planetary Population Digit system from the _Traveller_ core
-rulebook, the table shows how a planet’s population will affect
+rulebook, the table shows how a planet's population will affect
 mercenary recruitment. For planets with negligible populations
 (level 0 or 1) there will be no chance of any recruits being found
 since it is extremely unlikely that any amongst the population will be
@@ -4754,12 +4754,12 @@ PPopulationopulation RRecruiting DM ecruiting DM
 The government in the area from which a recruiter is trying to draw
 members from is important to the attitude and agreeability of the
 potential recruits. A democracy might give its citizens the freedom
-to choose a mercenary’s life, but a Balkanization of warring states
+to choose a mercenary's life, but a Balkanization of warring states
 might not take too kindly to mercenaries taking away their new
 soldiers.
 
 Using the planetary Government Type system from the Traveller
-core rulebook, the table shows how a planet’s overall governing
+core rulebook, the table shows how a planet's overall governing
 body will affect mercenary recruitment.
 
 GGovernment Typeovernment Type RRecruiting DMecruiting DM
@@ -4792,7 +4792,7 @@ to feel militant about anything, they may not want to spend any time
 with a group full of soldier types.
 
 Using the planetary Law Level system from the _Traveller_ core
-rulebook, the table shows how a planet’s major legal system will
+rulebook, the table shows how a planet's major legal system will
 affect mercenary recruitment.
 
 LLaw Level Digitaw Level Digit RRecruiting DMecruiting DM
@@ -4810,13 +4810,13 @@ LLaw Level Digitaw Level Digit RRecruiting DMecruiting DM
 #### Starport Existence
 
 Whether or not a planet has local access to travel into the stars
-will vastly affect the populace’s willingness to leave their planet for
+will vastly affect the populace's willingness to leave their planet for
 extended periods of time. A people who have yet to achieve space
 travel, or those who have yet to discover it, are not going to find a
-recruiter’s pitch less frightening than what the void might offer.
+recruiter's pitch less frightening than what the void might offer.
 
 Using the Starport rules from the _Traveller_ core rulebook, the table
-shows how a planet’s major legal system will affect mercenary
+shows how a planet's major legal system will affect mercenary
 recruitment.
 
 SStarport Classtarport Class RRecruiting DMecruiting DM
@@ -4868,7 +4868,7 @@ capable of fulfilling roles within the unit they will be swiftly assigned
 to where their skills are most needed. This can, on occassion, leave
 some overqualified personnel manning some positions, but this
 is seen as a good problem to have. These recruits will make up
-between half and two thirds of any recruiting class, at the referee’s
+between half and two thirds of any recruiting class, at the referee's
 discretion, the remainder are raw recruits and have to go through
 some basic training before they are found a role within the unit.
 
@@ -4880,7 +4880,7 @@ trained by the Player Characters or determined by the Referee these
 judging methods are the same.
 
 The potential recruits should be divided roughly evenly between the
-three tests, with each ‘class’ rolling the specified skill to see how
+three tests, with each 'class' rolling the specified skill to see how
 many pass into Rank 0. If a Player Character with at least Instruction
 2 and the necessary skill at level 2 or higher is selected to teach that
 portion of the recruits, that class receives a +2 DM to their collective
@@ -4969,7 +4969,7 @@ Failed roll 0%
 
 Once the classes are over and the instructors have chosen which
 recruits are skilled enough to join the unit as trainees, the collective
-recruits are gathered together and shipped to wherever the unit’s
+recruits are gathered together and shipped to wherever the unit's
 base of operations (if any) is. The group is then placed into
 further training, undertaking their first official terms as mercenary
 members.
@@ -5088,7 +5088,7 @@ SSpecialistpecialist PPrivaterivate SSmallmall CCommonommon LLargearge LLegioneg
 11 +1 +2 +2 +3 +3 +4 +5 +5
 12 +1 +2 +3 +3 +4 +4 +5 +6
 
-(^1) This DM is only applicable when the Referee believes the unit’s fame/infamy can come into play
+(^1) This DM is only applicable when the Referee believes the unit's fame/infamy can come into play
 
 #### Unit Traits
 
@@ -5100,7 +5100,7 @@ belief structure, but enough of the unit does that it can be considered
 a general trait amongst its common members.
 
 Referees should choose below or roll a d66 – 2d6 with one die
-representing the ‘tens’ digit, the other as ‘ones’ – on the table to
+representing the 'tens' digit, the other as 'ones' – on the table to
 determine an interesting quality of the mercenary unit. Player
 Character members do not have to abide by this, but camaraderie
 might influence it upon them during game play.
@@ -5119,7 +5119,7 @@ The Referee must roll on or choose from the following table as to
 the general skill level of the unit. That skill level is then compared
 to the table below, which gives the Rank breakdown of the unit. For
 obvious reasons, any Player Character members are not included in
-the listed results – they are considered to be additional ‘bonuses’
+the listed results – they are considered to be additional 'bonuses'
 to the unit.
 
 #### MERCENARY UNIT AVERAGE SKILL
@@ -5189,7 +5189,7 @@ forward into battles prematurely.
 SSoft-hearted: oft-hearted: The unit dislikes wanton destruction, trying to take
 prisoners whenever possible.
 LLoyal: oyal: The unit will stick to the letter of the ticket, even if the
-employer’s intentions are markedly wrong.
+employer's intentions are markedly wrong.
 AAggressive: ggressive: The unit seeks resolution through combat whenever
 possible.
 HHelpful: elpful: The unit will go out of its way to help outsiders and civilians.
@@ -5239,7 +5239,7 @@ take tickets from them.
 XXenophile: enophile: The unit is obsessed with alien species and cultures,
 working with or for them as often as possible.
 HHeroic: eroic: The unit will take the most difficult tickets, so long as they
-are doing the ‘right thing’.
+are doing the 'right thing'.
 DDestined for Greatness: estined for Greatness: The unit has been prophesised or
 claimed to serve the main role in a greater fate.
 PPsionically Inclined: sionically Inclined: The unit is focussed on Psionists and tries to
@@ -5253,7 +5253,7 @@ Having picked up Traveller: Mercenary, the Referee decides to build a
 mercenary unit that might end up recruiting his Aslan Player Characters
 during the next game session. He begins by figuring out that the unit
 
-_- the Hyr’kur (Talonbourne) – is actually rather small [_ roll of 6 on Unit
+_- the Hyr'kur (Talonbourne) – is actually rather small [_ roll of 6 on Unit
 Size _], having only 21 current members [_ 2d6 x 3 _]. They are relatively well
 known in Aslan space [_ roll of 11 on Unit Fame _], even if they are not
 considered to be veterans in the business [_ roll of 6 on Unit Average
@@ -5307,7 +5307,7 @@ Trainees are potential mercenary recruits, waiting to be accepted into the unit.
 Merc Recruits are experienced veterans who have joined a mercenary unit at Rank 0.
 Unit Hirelings are local civilians that are placed temporarily on the payroll to help with menial or unskilled tasks.
 Recruiting agents are members of the unit trained to travel to populated planets and try to persuade able bodies to join the unit.
-Ticket Administrators are specially trained officer/lawyers who make sure that a unit’s tickets are fair and worthwhile.
+Ticket Administrators are specially trained officer/lawyers who make sure that a unit's tickets are fair and worthwhile.
 
 #### CADRE NON-PLAYER CHARACTERS
 
@@ -5390,7 +5390,7 @@ to use with their _Traveller_ fights. They add a few extra touches when
 the bullets, beams and blades start flying. Also in this chapter is a
 more extensive, unit-based combat system designed for large scale
 battles. Combining elements of personal combat with the feel of a
-chaotic wartime engagement, this ‘Battle System’ is very useful for
+chaotic wartime engagement, this 'Battle System' is very useful for
 mercenary units that move and act in large forces.
 
 ## ADVANCED RANGED COMBAT
@@ -5407,14 +5407,14 @@ _Traveller_ ranged combat attacks, if the Referee allows for their use.
 
 #### Aiming for the Kill
 
-Aiming at a target for several seconds can increase a shooter’s
+Aiming at a target for several seconds can increase a shooter's
 chance of striking the target, but it can also be used to try and strike
 specifically vital areas on a target. Typically used by snipers and
 precision marksmen, the ability to go for a head shot can be the
 difference between a clean kill and a botched job.
 
 Specifically aiming for a kill works exactly like regular Aiming (see
-_Traveller_ core rulebook page 61), but does not add to the character’s
+_Traveller_ core rulebook page 61), but does not add to the character's
 DM to hit the target. Instead, the character gains a bonus to his
 damage equal to the amount of initiative spent specifically Aiming
 for the Kill. He cannot dodge, duck, or move while aiming. He
@@ -5446,12 +5446,12 @@ allies, important items or bystanders, blind firing is whenever a firer
 holds his weapon in a way to fire overhead, around a corner, into
 a doorway and so on without looking where he is shooting. This is
 extremely unlikely to actually hit anyone specific, but it might be
-just the thing to keep an enemy’s head down long enough for the
+just the thing to keep an enemy's head down long enough for the
 situation to improve.
 
 Blind firing works exactly like any other form of firing (including
 automatic), but it always treats the firer as having Level 0 in that
-weapon’s relative skill. Additionally an extra die is thrown when
+weapon's relative skill. Additionally an extra die is thrown when
 firing, but before any calculations are made the highest die (or one
 of the highest, in case of a tie) is removed completely. For automatic
 firing this extra die is thrown after all the dice are paired up, with one
@@ -5470,14 +5470,14 @@ bullets and lasers without losing their aim; not everyone can be so
 lucky. Fear can make someone do unexpected things, including
 emptying a magazine of ammunition wildly toward the enemy.
 Called Panic Fire, this action is a horrible waste of bullets, but it can
-turn a weapon’s payload into a spray of destruction.
+turn a weapon's payload into a spray of destruction.
 
 In order to call upon Panic Fire, a character must be using some
 form of small arms slug thrower. Panic fire uses all remaining
 rounds in the weapon, and hits are resolved as if the weapon were
 being fired with an Auto rating two higher than the weapon would
 normally have. For every shot there is a -2DM penalty to hit. If there
-are insufficient bullets left in the weapon’s magazine prior to firing
+are insufficient bullets left in the weapon's magazine prior to firing
 then there will be no benefit from using Panic Fire.
 
 #### Parabolic Fire
@@ -5496,7 +5496,7 @@ parabolic arc, the character makes the appropriate skill (Heavy
 Weapons, Athletics and so on) check with a penalty depending on
 how far the shot is intended to land (see table below), regular range
 modifiers do not apply. If the check is successful, add the Effect
-to the projectile’s damage. No matter what happens, the projectile
+to the projectile's damage. No matter what happens, the projectile
 scatters in a random direction 1d6 minus the Effect in meters. This
 means that even a failure could still potentially strike the target (or
 scatter back over the obstacle for short parabolic arcs!), but get no
@@ -5519,7 +5519,7 @@ like a common round at a single target up to Short range, using
 the standard statistics for the weapon. If firing at a target or group
 of targets at Medium or Long range, the frag shell has its damage
 reduced to 2d6 but gains a +1DM bonus to hit, and can hit not only
-the target aimed at but also anyone (friend or foe) within 1 metre of
+the target aimed at but also anyone (friend or foe) within 1 meter of
 the initial target.
 
 #### Suppression Fire
@@ -5535,7 +5535,7 @@ likely make them think twice before ducking out of cover.
 
 Suppression fire works by having the character actually target the
 areas surrounding the target; a wall, a tree or even the ground at their
-feet are all perfectly suitable. The impact of the character’s attacks
+feet are all perfectly suitable. The impact of the character's attacks
 are often enough to give pause to a potential attacker. The firing
 character rolls his shooting attack like normal, except with a –2 DM
 for trying to hit cover and nearby objects to the target(s). This attack
@@ -5593,7 +5593,7 @@ a single infantry target. As described in the _Traveller_ core rulebook,
 starship-scale weaponry multiplies its damage by 50 when striking a
 ground forces target. A single successful impact is normally enough
 to eliminate a ground force target, but gunners can get frustrated
-trying to ‘swat flies’. It is worth noting that starship weapons are
+trying to 'swat flies'. It is worth noting that starship weapons are
 not designed for engaging ground targets and so their rate of fire is
 painfully slow, able to fire weapons only once every three Combat
 rounds, and some weapons are utterly useless (missiles, for
@@ -5621,7 +5621,7 @@ starship-scale targets.
 
 Gaining a +4DM bonus to hit anything on the starship-scale, ground
 force weaponry must divide its damage by 50 before comparing it
-to a starship-scale target’s armor. Because a single weapon will,
+to a starship-scale target's armor. Because a single weapon will,
 
 obviously, be unable to punch though armor it is possible for
 multiple weapons to all target the starship simultaneously, and
@@ -5651,10 +5651,10 @@ all hit. The first FGMP does 16D6 damage, the others combine for
 64d6 (8*16d6/2), the AT gun does 5d6 (10d6/2) and the lasers 37d6
 (15*5d6/2, rounded down). This totals 122d6 damage, divided by 50
 and then rounded down – the combined effect of all this firepower is
-2d6 damage to the ship. A 10 is rolled and the Starglider’s armor of
+2d6 damage to the ship. A 10 is rolled and the Starglider's armor of
 6 is deducted from this. Looking at the damage table on page 150 of
 the main Traveller rulebook a single hit has been inflicted upon the
-Starglider, which ends up reducing the ship’s hull by 1. Certainly a good
+Starglider, which ends up reducing the ship's hull by 1. Certainly a good
 attempt by the marines, but not enough to prevent the Starglider taking
 off and her villainous crew escaping.
 
@@ -5674,7 +5674,7 @@ on a battlefield where thousands of troops clash.
 #### Preparation for Battle
 
 Before a Battle-scale conflict can occur, the Referee must set all of
-the ‘pieces’ in order to play. Each acting group is divided under a
+the 'pieces' in order to play. Each acting group is divided under a
 specific skill group and unit leader, creating the individual units that
 will be taking part of the battle.
 
@@ -5702,7 +5702,7 @@ rules. They are as follows.
 - Close Air Support (CAS) – Close Air Support (CAS) – Aircraft of any sort that support
     land troops. These can include aeroplanes, helicopters and
     grav vehicles designed for this role.
-- Command – Command – The primary leadership centre of the entire
+- Command – Command – The primary leadership center of the entire
     force.
 
 #### Creating A Military Force
@@ -5736,7 +5736,7 @@ unit; Infantry, vehicles and so on.
 #### MEMBER STRENGTH
 
 This is the effective number of members in the unit. This is also
-the number of ‘hits’ the unit can withstand before being destroyed.
+the number of 'hits' the unit can withstand before being destroyed.
 This number will steadily decrease during a conflict as the unit takes
 casualties.
 
@@ -5784,7 +5784,7 @@ experience)
 ### NNEEWW CCOOMBATMBAT RRUULESLES
 
 represents their effectiveness in inflicting losses on the enemy but
-has a direct influence upon the unit’s morale.
+has a direct influence upon the unit's morale.
 
 The unit rating reflects also the average skill levels of the troops.
 Raw troops will have a few individuals with skill 0, but many without
@@ -5818,7 +5818,7 @@ However, a veteran fire team will only have a Unit Morale of 1 plus 4 in
 addition to the Leadership of their Command unit – showing how large
 units add to the willpower of the soldiers within them._
 
-If, during battle, a unit’s morale reaches 0 it is broken and will attempt
+If, during battle, a unit's morale reaches 0 it is broken and will attempt
 to flee the field or surrender, depending on the circumstances on
 the battlefield.
 
@@ -5845,7 +5845,7 @@ efficiency.
 
 #### Placing the Units on the Battlefield
 
-Once all of an army’s units have been formed, rated and recorded
+Once all of an army's units have been formed, rated and recorded
 in order to keep track of their statistics, the force commander (or
 the commanding player) will decide where exactly on the battlefield
 the units will begin. They, of course, will be allowed to move once a
@@ -5892,11 +5892,11 @@ to take actions this round. A combination of the pre-battle plans set
 down and the communication capabilities of the Command Unit,
 this phase begins every Battle Round.
 
-Both sides’ primary Command Units must roll a Leadership throw
+Both sides' primary Command Units must roll a Leadership throw
 8+ to determine the number of Unit Actions the army will receive
-this round. If successful, the army is allowed the Command Unit’s
+this round. If successful, the army is allowed the Command Unit's
 Tactics level plus the Effect of the throw in Unit Actions. If a failure,
-the army simply receives the Command Unit’s Tactics level in
+the army simply receives the Command Unit's Tactics level in
 actions instead. This is a very important throw for the army, and the
 primary Command Unit should be protected because of it.
 
@@ -5953,7 +5953,7 @@ unsurprisingly where the units take their actions across the
 battlefield. It is during this phase that units will move and attack.
 
 The Action Phase begins with each commander choosing to spend
-Unit Actions on their army’s individual units. Each unit may accept
+Unit Actions on their army's individual units. Each unit may accept
 up to 2 Unit Actions in this manner, each one chosen as an Attack or
 Maneuver action. A unit may only use one Maneuver action each
 round, but is not limited on its Attack capability. Thus, an unit could
@@ -6095,14 +6095,14 @@ no further part in the battle.
 #### Attack Actions
 
 A unit taking an attack action represents several minutes of that
-unit’s battlefield experience. The unit is not simply making attacks
+unit's battlefield experience. The unit is not simply making attacks
 when it uses such an action, but also seeking cover, making
 equipment repairs, and even trying to take care of their own
-wounded. All of a unit’s battlefield behaviours that are not revolving
+wounded. All of a unit's battlefield behaviours that are not revolving
 around manoeuvring are summarised in the Attack action.
 
 When a unit decides to make its Attack action, it must first pass an
-immediate Unit Morale test by rolling equal to or under the unit’s
+immediate Unit Morale test by rolling equal to or under the unit's
 current Unit Morale in order to take action on 1d6. It is possible for
 a unit with high morale to automatically pass this test.
 
@@ -6113,14 +6113,14 @@ a different DM for attacking enemy units different distances away,
 showing its ability to inflict damage upon targets that close or far
 away. This DM is then used to modify the Attack Skill throw made to
 attack that target, added to which is the skill of the attacking unit. The
-distance modifiers and the unit’s difficulty to inflict damage upon
-the enemy are found on the preceding tables. A listing of ‘–‘ means
+distance modifiers and the unit's difficulty to inflict damage upon
+the enemy are found on the preceding tables. A listing of '–' means
 the unit is unable to attack effectively at anything at that range.
 
 Once the unit has declared a valid target for its Attack action, the
 unit then makes its Unit Skill throw at the difficulty listed on the
-preceding table. If it fails, the unit’s attack was ineffectual and no
-actual damage is inflicted (but the target’s Unit Morale still suffers).
+preceding table. If it fails, the unit's attack was ineffectual and no
+actual damage is inflicted (but the target's Unit Morale still suffers).
 If successful, there is the potential of inflicting casualties upon the
 enemy unit.
 
@@ -6159,7 +6159,7 @@ Command phase.
 
 Example: An elite battalion-sized Tech Level 10 Vehicle unit attacks a
 Tech level 6 Infantry unit. The Vehicle unit is in its own Reserves zone,
-thilst the target is in the enemy’s front line, creating a range of 2.
+thilst the target is in the enemy's front line, creating a range of 2.
 
 Needing an 8+ to inflict damage the unit rolls a 5 and a 4 and adds to
 this its skill of 3 (for an elite unit) and the +2DM for the range, the result
@@ -6185,7 +6185,7 @@ the targeted unit regains lost Unit Morale equal to the Effect of the
 throw.
 
 Once all units in the army that received any Unit Actions have taken
-their first one, no matter the status of the enemy army’s progression,
+their first one, no matter the status of the enemy army's progression,
 units that received a second Unit Action may begin to take them.
 The phase continues back and forth until one side has no more Unit
 Actions to take, at which point the other side takes all remaining
@@ -6223,7 +6223,7 @@ the ways a Battle Unit loses or gains Unit Morale.
 Once all of the units have had their Unit Morale adjusted for
 whatever reason, any units that have fallen to 0 Unit Morale are
 now considered to be broken. Broken units are no longer capable of
-engaging the enemy and are removed from the army’s roster.
+engaging the enemy and are removed from the army's roster.
 
 Once all units have taken stock of their new Unit Morale values and
 whether or not they have broken, the Morale Phase ends.
@@ -6271,7 +6271,7 @@ It presents dozens of options and potential ideas for players to
 build their own bases or Referees to prepare the headquarters of
 the people the characters will be interacting with. Hearing that a
 mercenary unit is big is one thing, but having a unit member give
-the Player Characters a guided tour of their seventy-square kilometre
+the Player Characters a guided tour of their seventy-square kilometer
 walled complex can make a huge difference in how they perceive
 that mercenary unit.
 
@@ -6279,18 +6279,18 @@ that mercenary unit.
 
 ## BASE OR HQ
 
-Unless a unit’s various members spend every minute of every
+Unless a unit's various members spend every minute of every
 day together, they will need to arrange for a central location (or
-locations) to serve as their ‘home base’. This should serve as the
-intelligence centre, meeting hall, home away from home, and
+locations) to serve as their 'home base'. This should serve as the
+intelligence center, meeting hall, home away from home, and
 equipment storage facility – amongst other purposes. It is where
-the unit’s officers connect with their fellow members, and military
+the unit's officers connect with their fellow members, and military
 operations are planned.
 
 Although all of these things could be undertaken nomadically or
 perhaps from several distinct locations, it is far more efficient to
 have one main hub where a unit member knows they can go to
-when they need unit resources. Whether those ‘resources’ are as
+when they need unit resources. Whether those 'resources' are as
 simple as a couch to sleep on between tickets or as complex as
 seeing a therapist for a bad case of post-traumatic stress, the base
 or headquarters of the unit should be available.
@@ -6306,7 +6306,7 @@ soldiers stationed there.
 
 A mercenary unit has a slightly different outlook upon their
 headquarters. A good base is expensive to maintain, but adds to a
-unit’s credibility and efficiency. If a unit commander has to send out
+unit's credibility and efficiency. If a unit commander has to send out
 
 messages to all the corners of a planet to call together the team of
 professionals an employer needs, time is lost and money must be
@@ -6340,7 +6340,7 @@ or headquarters.
 
 #### able?
 
-There are several places in this chapter that will talk about ‘suitable’
+There are several places in this chapter that will talk about 'suitable'
 facilities, bases and headquarters. This is a rather abstract
 terminology, but it is a malleable concept from unit to unit. If a unit
 does not have enough room for personnel, storage for equipment,
@@ -6348,9 +6348,9 @@ medical bays for medics to work or similar problems with the facility
 it will be more of a detriment than a benefit.
 
 In order for a Referee to determine whether a base/headquarters
-is considered suitable for the unit’s purposes, the following ten
+is considered suitable for the unit's purposes, the following ten
 questions should be asked about the facilities. So long as at least
-seven of the questions are answered ‘yes’, the facility is suitable.
+seven of the questions are answered 'yes', the facility is suitable.
 
 1 1. Is there enough room for every unit member staying in the. Is there enough room for every unit member staying in the
 ffacility to have a sleeping area, personal storage, and access acility to have a sleeping area, personal storage, and access
@@ -6383,9 +6383,9 @@ practice to make sure that unit member records are in good order
 and accessible, especially if audited by a governmental agency.
 
 3 3. Is there enough motor pool/engineering bay space for the. Is there enough motor pool/engineering bay space for the
-uunit’s vehicles?nit’s vehicles?
+uunit's vehicles?nit's vehicles?
 
-If a base facility does not have room for a unit’s mechanical support,
+If a base facility does not have room for a unit's mechanical support,
 like vehicles and landing craft, things will become too cramped with
 fuel and spare parts to make use of them easily. Not to mention the
 poor living conditions having such materials lying around will make
@@ -6394,7 +6394,7 @@ sure that there is ample room to house them and all of the tools
 necessary to keep them running.
 
 NOTE: A unit with no vehicles can automatically answer this
-question ‘yes’, as it needs no space at this time.
+question 'yes', as it needs no space at this time.
 
 4 4. Is there special storage for hazardous or dangerous. Is there special storage for hazardous or dangerous
 eequipment, such as heavy weapons, explosives, and fusion quipment, such as heavy weapons, explosives, and fusion
@@ -6412,7 +6412,7 @@ these regulations, they should not try to use the equipment when
 at all possible.
 
 NOTE: A unit that does not own examples of dangerous equipment
-can automatically answer this question ‘yes’.
+can automatically answer this question 'yes'.
 
 5 5. Is there at least one official Med Bay for every ten medics. Is there at least one official Med Bay for every ten medics
 iin the unit?n the unit?
@@ -6427,13 +6427,13 @@ members are often injured in their line of work, and having a good
 team of medics on hand can make a huge difference to morale.
 
 NOTE: A unit with no medics can automatically answer this question
-‘yes’, as it needs no medical bays at this time.
+'yes', as it needs no medical bays at this time.
 
 6 6. Are there emergency assets in place in case of base defence,. Are there emergency assets in place in case of base defence,
 ffire or natural disaster?ire or natural disaster?
 
 Although a military or mercenary base is likely to be considered a
-rather safe place due to its personnel’s training, the unexpected can
+rather safe place due to its personnel's training, the unexpected can
 always happen. An earthquake could drop in a ceiling, a fire could
 trap men in the motor pool, or an enemy could launch an air strike
 upon the site. When the facility itself becomes a target of destruction
@@ -6480,7 +6480,7 @@ for the feeding of the unit members.
 #### Waste and Hygiene Services
 
 All living species give off waste of some kind, even if it is not
-offensive or obtrusive. Additionally, a unit member’s activities will
+offensive or obtrusive. Additionally, a unit member's activities will
 sometimes cause them to become physically soiled or filthy. A base
 or headquarters must have adequate ways to clean its members of
 such filth and dispose of their waste matter. Showers, locker rooms,
@@ -6489,7 +6489,7 @@ restroom areas; these are all suitable for most races.
 #### Communications
 
 An area or areas must be set aside to be used solely for
-communications amongst the unit’s members and the outside
+communications amongst the unit's members and the outside
 world. Mercenary administrators will want to arrange for ticket
 negotiations, military officers will need to speak with their superiors,
 and common members will need to make the occasional call home.
@@ -6502,7 +6502,7 @@ Weapons lockers, refrigerated grenade cases, armor closets;
 these are just some of the necessary storage facilities a combat
 unit will need in its base. Specialty storage for certain items can be
 expensive, but always welcome when the unit learns of the danger
-of having something like a ‘hot’ fusion cell or unknown bio-sample
+of having something like a 'hot' fusion cell or unknown bio-sample
 around. Cheap cases can normally be acquired for average storage,
 but a unit that takes good care of its equipment and makes sure
 
@@ -6512,7 +6512,7 @@ tthe members of the unit?he members of the unit?
 For a base to truly be effective as the central hub for the unit, it must
 be able to reach the members of the unit in the case of necessary
 information or impending gatherings. Early technology might use
-brightly coloured pennants that can be seen for many kilometres,
+brightly coloured pennants that can be seen for many kilometers,
 radio transmitters and the like. As technology increased bases
 could utilise teleconferencing and other high-tech communication
 methods. The unit hierarchy at the base must be able to communicate
@@ -6524,15 +6524,15 @@ cconcentrate and remain stable?oncentrate and remain stable?
 
 The scientific discovery of telepathy and psionic abilities brought
 around a completely new way of looking at so-called psychics. Any
-unit that utilises a Psionist’s abilities within the unit will want to
-make sure that they have their own ‘quiet place’ to calm their minds
+unit that utilises a Psionist's abilities within the unit will want to
+make sure that they have their own 'quiet place' to calm their minds
 and shut out all of the mental static that can be counter-productive
 to their talents. A Psionist member that has to use his abilities in
 poor mental conditions can hope to do his best, but accidents –
 accidents that could cost unit lives – can happen.
 
 NOTE: A unit with no members Psionic members can automatically
-answer this question ‘yes’, as it needs no private concentration
+answer this question 'yes', as it needs no private concentration
 areas at this time.
 
 9 9. Is there sufficient life support for the species in the unit?. Is there sufficient life support for the species in the unit?
@@ -6547,7 +6547,7 @@ For planetary bases this is rarely a problem, but mobile starship
 facilities or space stations will need to keep track of what kinds of air
 and ambient chemicals are necessary or toxic for their members.
 
-1 10. Is the facility’s location known and accessible to the unit 0. Is the facility’s location known and accessible to the unit
+1 10. Is the facility's location known and accessible to the unit 0. Is the facility's location known and accessible to the unit
 mmembers?embers?
 
 For a base facility to be considered a headquarters, the unit
@@ -6566,7 +6566,7 @@ efficient.
 #### Addressing Area
 
 A central room, hall, auditorium or maybe teleconference room is
-often built for when the unit’s higher ups need to speak or address
+often built for when the unit's higher ups need to speak or address
 the entire unit on hand at the base. The area could be used for a
 dozen different things when the superiors are not using it, but it is
 a definite necessity in any structured unit where the members must
@@ -6579,13 +6579,13 @@ who are away from the front lines, most unit members will
 agree – bases that have no outlet for recreation are nightmare
 assignments. Gymnasiums, an arcade, even something as simple
 as a music-player and a small dance floor can be enough to keep the
-members’ minds off the horrible days and nights they occasionally
+members' minds off the horrible days and nights they occasionally
 have to endure. Video fictions, television programs, and electronic
 simulation software is available at higher technology levels, and can
 sometimes take up a surprisingly little amount of space. These sorts
 
 of facilities can be expensive to arrange on the frontier, but the unit
-will be thankful for such small favours.
+will be thankful for such small favors.
 
 #### Medical Bays
 
@@ -6709,7 +6709,7 @@ armies must have places to congregate between campaigns.
 
 With such limited technologies at their disposal, armies equipped
 for close quarter or limited ranged combat march for months to get
-from one place to the next. Living in ‘tent cities’ while on the march,
+from one place to the next. Living in 'tent cities' while on the march,
 these early armies took their bases with them – creating the facilities
 where they go, as they need them. It is horribly inefficient, but it
 serves the primitive culture well enough.
@@ -6721,12 +6721,12 @@ ones.
 
 #### MILITARY TENT CITY
 
-The closest thing to a proper ‘base’ in these barbaric times, the
+The closest thing to a proper 'base' in these barbaric times, the
 generic term of tent cit y actually represents any of the early command
 locales that primitive armies made use of. An area of personal tents,
 lean-tos, and open air bedrolls marked where the army is calling
 home for the moment. A larger command tent or cabin is where
-the officers planned the army’s battles and maneuvers, and some
+the officers planned the army's battles and maneuvers, and some
 better organised armies might have a tent or cordoned area set
 aside for the wounded and dying.
 
@@ -6747,14 +6747,14 @@ soldiers could teach a hundred men in a courtyard, sending the
 recruits back to their cots when it was over to begin anew in the
 morning. Horse training and the use of wagons and carts allow for
 the faster movement of troops, and the requirement of taking all of
-an army’s assets with them was far less prevalent. It was just as easy
+an army's assets with them was far less prevalent. It was just as easy
 to send for supplies as needed, normally coming from the nearest
 friendly stronghold.
 
 Mercenaries become more common at this point. Small groups of
 former soldiers occasionally band together in numbers, meeting
 under one title or another to sell their services to the highest bidder.
-The term ‘sellsword’ is coined, and small groups of mercenaries
+The term 'sellsword' is coined, and small groups of mercenaries
 fight alongside regular armies.
 
 #### MILITARY KEEP AND COURTYARD
@@ -6766,14 +6766,14 @@ level, a solid keep will be a large wood and stone structure with
 
 a central building, several smaller attached buildings, and often a
 low wall surrounding the entire courtyard area. The central building
-is where the army’s leaders live and plan, or where important
+is where the army's leaders live and plan, or where important
 equipment and documents are kept. Additionally, the top of this
 often-taller structure is used as a lookout point, overseeing the
-entire compound and many kilometres around if possible.
+entire compound and many kilometers around if possible.
 
 Additional buildings will be barracks, equipment or food storage,
 and several more specialized locations that the army might have
-need of. An apothecary or barber’s room (medical bay equivalent)
+need of. An apothecary or barber's room (medical bay equivalent)
 is common, as is a stable (motor pool), or a good blacksmith
 (workshop) for making repairs to weapons and armor. The need
 for additional services was beginning to grow for the advancing
@@ -6789,14 +6789,14 @@ that created the unit, will give short announcements and take
 note of the combat worthiness of his fellows. Members are often
 expected to keep up their own equipment and rarely stay together
 except when hired in the field. The meeting hall is not much of a
-‘headquarters’, but it is where the unit gathers to arrange their
+'headquarters', but it is where the unit gathers to arrange their
 contracts and other business.
 
 #### Technology Level 3
 
 The birthplace of modern warfare, the introduction of the personal
 firearm as an army regular changed warfare – with opposing armies
-no longer having to be at spear’s length from an enemy to do battle.
+no longer having to be at spear's length from an enemy to do battle.
 Armies began to use primitive firearms as a standard armament,
 and anyone who could afford a musket can potentially sell their
 services. Some of the most basic ideas of much more advanced
@@ -6835,7 +6835,7 @@ each day to train and work as if being in the army was like any
 other profession. Because of this coming and going security at the
 perimeter of the stronghold – often a fence or low wall – must be
 steady and vigilant. Without proper guards and security patrols,
-expensive equipment and personnel could walk off the base’s
+expensive equipment and personnel could walk off the base's
 grounds without anyone knowing.
 
 #### MERCENARY HALFWAY HOUSE
@@ -6864,7 +6864,7 @@ itself superior, having reached its industrial maturity, forced the
 use of armed forces to occupy less-privileged areas. The need for
 military presences in these new lands created the use of frontier
 fortifications, establishing a forceful presence that would remind
-the ‘less-advanced’ colonies and conquered civilizations of who is
+the 'less-advanced' colonies and conquered civilizations of who is
 actually in charge.
 
 Units of mercenaries in this era knew how to make the most of the
@@ -6875,7 +6875,7 @@ could sell their services to the highest bidder.
 
 #### MILITARY FRONTIER FORT
 
-Set up in the wake of a culture’s industrial bloom, this form of
+Set up in the wake of a culture's industrial bloom, this form of
 military base actually seems like a step backwards in time for the
 most part. Built to house and serve the needs of the military while
 pushing the boundaries of their nation forward, they are not always
@@ -6894,7 +6894,7 @@ than walls and barracks space.
 Mercenary units come to realise that their role in conflict has become
 less about manpower and more about firepower. The people with the
 bigger and better guns were getting ahead in the world, so a good
-mercenary headquarters look like an engineer’s workshop half of the
+mercenary headquarters look like an engineer's workshop half of the
 time. Many members of the unit would stay in the workshops at all
 times to half-work and half-protect the equipment, and nearly every
 new recruit would be responsible for learning a useful trade. All the
@@ -6921,9 +6921,9 @@ men.
 The addition of easily used engines and real-time communications
 revolutionised the lives of both regular and mercenary forces. The
 initial use of armored vehicles, although slow and ponderous,
-turned every infantryman’s nerves to ice water. Accurate rifles were a
+turned every infantryman's nerves to ice water. Accurate rifles were a
 commonplace thing then, but personal gear with near enough punch
-to even slow down the earliest of ‘tanks’ was heavy and dangerous
+to even slow down the earliest of 'tanks' was heavy and dangerous
 to carry. Airplanes can ferry troops and supplies to faraway places,
 and the world suddenly seems a great deal smaller.
 
@@ -6966,7 +6966,7 @@ less affluent areas – especially by those governments who could
 
 ### HHEEADQUARTERSADQUARTERS AANDND MMIILITARYLITARY BBAASESSES
 
-not afford their own ‘modern’ armies just yet. Setting up a main
+not afford their own 'modern' armies just yet. Setting up a main
 headquarters where their potential employers could find them was
 a must, so long as it ensured that their higher-tech competition
 could not roll in and deal with them out of hand. The solution was
@@ -6983,7 +6983,7 @@ began to lean very heavily toward their air force to deal with their
 enemies. Semi-automatic rifles were becoming the standard
 weapon of infantry, and squad-based anti-tank weapons gave them
 something to battle against enemy armor. Military ground forces
-still made up the majority of a government’s ability to take and hold
+still made up the majority of a government's ability to take and hold
 territory – but often after the airplanes and naval assets softened
 things up a great deal.
 
@@ -7015,16 +7015,16 @@ home government, explaining when supplies were needed – or
 when an attack could be eminent. Additional defences are almost
 always put into place to make up for the slightly reduced ability to
 populate the base, if only due to the possibility that the area the
-base is on could become hostile at a moment’s notice.
+base is on could become hostile at a moment's notice.
 
 #### MERCENARY COMPOUND
 
-The scaling and enhanced availability of ‘advanced’ weaponry forced
+The scaling and enhanced availability of 'advanced' weaponry forced
 mercenary units to become a bit more structured in how they did
 things. When half of your members have access to rocket launchers
 
 and LMGs it is necessary to begin creating checks and balances.
-Officers, and therefore officers’ quarters, become standard fare of a
+Officers, and therefore officers' quarters, become standard fare of a
 mercenary base. Secure storage of dangerous equipment is a good
 idea, and any salvaged or purchased vehicles have a close eye kept
 on them. Other than the uniform a mercenary compound feels a lot
@@ -7032,7 +7032,7 @@ like a military base.
 
 #### Technology Level 7
 
-A government’s military might is now almost assuredly governed by
+A government's military might is now almost assuredly governed by
 its ability to inflict massive damage, primarily using bombs, missiles
 and offshore batteries. Infantry forces have become self-supporting
 squads that can stay in the field for long period. Specialist units like
@@ -7040,18 +7040,18 @@ snipers and combat engineers are elevated to their own positions in
 the armed forces, and most governments do not hesitate to utilise
 their talents. Rapid-firing automatic weaponry is standard, and most
 body armor is to help with occasional shrapnel and flak rather than
-direct hits from an enemy’s weapon,
+direct hits from an enemy's weapon,
 
 Military bases can now be small cities within their boundaries,
-sometimes several kilometres from end to end. The addition of
+sometimes several kilometers from end to end. The addition of
 aquatic vessels large enough to serve as mobile bases for naval
 forces brings a new malleability to military command. From a single
 aircraft carrier a few officers could direct and lead entire campaigns
-against their government’s enemies.
+against their government's enemies.
 
 The weapon design and trade industry – both legal and not – flood
 the market with potential tools for mercenaries to use. Guns that
-were considered ‘top of the line’ a few years before were suddenly
+were considered 'top of the line' a few years before were suddenly
 available to be purchased by the gross from smugglers and arms
 traders. A good mercenary unit is always only as good as their gear
 would let them be, so every mercenary unit sets aside funds and
@@ -7063,7 +7063,7 @@ they can find.
 Floating bases built on the largest vehicles to date, a command
 carrier is the heart of a military compound with the ability to move.
 Whether on a gigantic boat or an enormous tracked land-crawler,
-the command assets of a force are well protected by the vehicle’s
+the command assets of a force are well protected by the vehicle's
 weaponry and a large number of allied soldiers that also call the
 carrier home. Although they cannot hope to hold as many soldiers
 as a stationary compound, the command carrier can easily have
@@ -7100,13 +7100,13 @@ make a profit. Wars had simply gotten too big and destructive for
 a good mercenary unit to survive, so they hire out to the private
 sector. A corporation that needs a shipment to get through an area
 safely might hire a few mercenaries to serve as its escort, with other
-less savoury duties falling upon their shoulders from time to time.
+less savory duties falling upon their shoulders from time to time.
 
 #### MILITARY MECHANISED ROUTING POINT
 
 Essentially a normal military base that is comprised almost
 completely of airstrips, hangars, helipads and/or motor pools, a
-mechanised routing point is where a military’s forces can upkeep
+mechanised routing point is where a military's forces can upkeep
 and ready all of the vehicle assets. Using the vehicles and the
 weapons they mount, the routing point is very well defended from
 most forms of attack. Although it keeps a much smaller ratio of
@@ -7195,13 +7195,13 @@ protect a ship or space station in most situations.
 Mercenaries also expand into space, taking their equipment with
 them on their tickets, returning (hopefully) to the nearest planetside
 headquarters to re-equip and debrief. Training as special-service
-soldiers and dealing with the ‘grey areas’ that space exploration and
+soldiers and dealing with the 'grey areas' that space exploration and
 colonization created in laws and politics.
 
 #### MILITARY PLANETARY EXPLORATION BARRACKS
 
 The ability to create a quick base of operations on a planet being
-newly explored is paramount to the expansion of a government’s
+newly explored is paramount to the expansion of a government's
 influence and territory. Potential hazards exist in environments
 
 previously unseen and scouts can only give so much initial
@@ -7214,7 +7214,7 @@ and more permanent bases as the colony expands.
 
 Designed to be run very cheaply and without too many members
 having to live on site, an extra-planetary field office (or ExFO for
-short) is a mercenary unit’s first real attempt at setting up tickets
+short) is a mercenary unit's first real attempt at setting up tickets
 away from their home planet office. A small set up with a good
 communications system to arrange plans with the main body of the
 unit, the ExFO rarely is home to more than a few field operatives
@@ -7259,8 +7259,8 @@ unit that has specialist boarding troops garrisoned on a starship
 will try to arrange for the troops to have everything they need for
 their hazardous duties. Comfortable sleeping areas, fast-access
 armoring stations, and personal power pack chargers are standard;
-anything to make sure that the ship’s elite troopers are kept ready to
-act at a moment’s notice.
+anything to make sure that the ship's elite troopers are kept ready to
+act at a moment's notice.
 
 ### HEADQUARTERS AND MILITARY BASES
 
@@ -7275,9 +7275,9 @@ be allocated, necessary workshops are placed in the best locations
 for the tools and power supplies they require, and unit commanders
 keep central quarters and common areas for the unit to interact
 socially. Nearby the primary airlock will always be negotiation rooms
-and communications chambers for bringing potential employers’
+and communications chambers for bringing potential employers'
 administration agents on board. There is something to be said for
-the added security being hundreds of thousand of kilometres away
+the added security being hundreds of thousand of kilometers away
 from anyone brings when the negotiation process begins with a new
 client.
 
@@ -7290,7 +7290,7 @@ revolutionises small-unit combat. A single well-equipped marine is
 more than capable of taking and holding a position from dozens
 of less-advanced soldiers, their expensive gauss rifles making a
 mockery of earlier armor. Military operations are often planned
-solely around the number of ‘advanced infantry’ that could be
+solely around the number of 'advanced infantry' that could be
 summoned quickly to the battlefield, turning every military outpost
 into a veritable stockpile of high-tech equipment.
 
@@ -7305,7 +7305,7 @@ those without any major military presence opposing them.
 In areas of the galaxy that were rife with unrest and potential
 conflict, concerned governments would send in their best military
 forces. Setting up small but well-supplied bases at the farthest
-reaches of a government’s territories is much like the ancient
+reaches of a government's territories is much like the ancient
 frontier fortifications and posts. Enough room for the soldiers to be
 comfortable, but packed with more equipment and materials than
 most soldiers would care for.
@@ -7313,8 +7313,8 @@ most soldiers would care for.
 #### MERCENARY LOW-COST SATELLITE HQ
 
 As the costs to keep a mercenary unit running increase along with the
-need for more advanced equipment, some units take on a ‘quantity
-over quality’ aspect to their work. Sending administrators out to the
+need for more advanced equipment, some units take on a 'quantity
+over quality' aspect to their work. Sending administrators out to the
 far reaches with little more than a brochure and a communications
 backpack, these units try to sign on to as many low-end tickets
 as their manpower allows. Some lesser sources become frequent
@@ -7409,9 +7409,9 @@ satellite HQs across the territories in which they are active and
 numerous planetary bases to serve as local hubs, but the highest
 officers of the unit would live and work from floating compounds
 called starbases. Space stations equipped with everything that a
-mercenary might possibly want, these facilities are a hired soldier’s
+mercenary might possibly want, these facilities are a hired soldier's
 dream. Weapons, armor, spacecraft, equipment and the heights of
-pleasurable living; they are all found on a mercenary unit’s primary
+pleasurable living; they are all found on a mercenary unit's primary
 starbase. Only the higher ranking or famous members of the unit are
 ever invited to visit, and only the unit commander and his closest
 associates will call it home.
@@ -7426,7 +7426,7 @@ nanoseconds. Warfare is more terrifying and deadly than it has ever
 been.
 
 The military of such a highly advanced culture frequently uses a firm
-‘make peace by preparing for war’ motto, equipping their soldiers
+'make peace by preparing for war' motto, equipping their soldiers
 with advanced combat armor and gauss weaponry while flooding
 their barracks with battle dress soldiers and FGMP rigs. Grav belts,
 G-Carriers and rapid deployment shuttles make conventional
@@ -7454,18 +7454,18 @@ governments just to make good contacts and deals to better equip
 them later.
 
 Not all units and freelance teams can be so lucky however.
-Sometimes it takes a ‘right-place, right-time’ aspect to get a good
+Sometimes it takes a 'right-place, right-time' aspect to get a good
 supplier to deal with the Player Characters or mercenary unit, other
-times it could be dealing with an unsavoury ‘friend of a friend’.
+times it could be dealing with an unsavory 'friend of a friend'.
 Getting the money to pay for new equipment is only half the process;
 the hardest part is finding someplace to buy it.
 
 #### Availability Score
 
 All of the equipment found in this chapter has an additional
-statistic that was not included in previous lists. Unless a ‘–‘ symbol
+statistic that was not included in previous lists. Unless a '–' symbol
 is found, meaning the item is commonly available, there will be a
-difficulty number such as ‘8+’ listed for the items. This is the item’s
+difficulty number such as '8+' listed for the items. This is the item's
 Availability.
 
 When a character wants to purchase a piece of equipment from this
@@ -7485,7 +7485,7 @@ a time. Resolve damage from the outside in – damage that gets
 through the outer layer of armor is next applied to the inner layer.
 
 PPlate Armor: (TL1)late Armor: (TL 1 ) A suit of forged metal plates jointed and
-riveted together to overlap and protect the wearer’s body. The entire
+riveted together to overlap and protect the wearer's body. The entire
 
 suit is very heavy and unwieldy, but can protect the wearer better
 than anything else made in the same technological era. Those
@@ -7495,7 +7495,7 @@ encumbering nature, the wearer of plate armor suffers a –2DM to
 any sort of skill throw requiring manual dexterity, coordination or
 balance. Wt: 20, Cr 200.
 
-BBallistic Vest (TL8) allistic Vest (TL 8 ) Designed to protect all of the wearer’s major
+BBallistic Vest (TL8) allistic Vest (TL 8 ) Designed to protect all of the wearer's major
 organs (except the brain), the ballistic vest is heavy and bulky but
 offers considerable protection to anyone who uses it. Wt: 1. Cr 200.
 
@@ -7520,7 +7520,7 @@ It is an armored suit hardened to the dangers of exposure to
 vacuum or hostile environments. As technology improved the suits
 became thinner and sturdier, revolutionising their use in ship-to-
 ship combat. A boarding vac suit will have a melee weapon/pistol
-combination grafted to the cuffs on the suit for the wearer’s use.
+combination grafted to the cuffs on the suit for the wearer's use.
 Wt: 25. Cr 12,000.
 ((TL12) TL 12 ) Wt: 14; Cr 20,000
 ((TL14) TL 14 ) Wt: 6; Cr 40,000
@@ -7604,9 +7604,9 @@ Battle Dress 2
 AArtillery Battle Dress (TL13) rtillery Battle Dress (TL 13 ) A war-only specialization of the
 advanced personal armor, artillery battle dress is powered
 combat armor attached to a mounted super-heavy weapon. The
-servomotors in the suit are designed to increase the user’s stability
+servomotors in the suit are designed to increase the user's stability
 and strength in order to fire its on-board weaponry, increasing his
-Strength by +6 while wearing the armor. Damage to the wearer’s
+Strength by +6 while wearing the armor. Damage to the wearer's
 Strength characteristic is calculated as normal, but the value from
 the armor are used for all other purposes such as hand to hand
 damage or skill checks. On-board computers/2 gives tactical
@@ -7618,13 +7618,13 @@ chemical) hazards.
 The right arm and shoulder area of a suit of artillery battle dress is
 always replaced with one of the weapon choices found in the Options
 section below. Adapted for computerised firing by the armor, the
-wearer’s right arm is used to operate the weapon system from inside
+wearer's right arm is used to operate the weapon system from inside
 the suit, and the cost for the weapon is not included in the profile of
 the armor. Wt. 28. Cr 250,000.
 
 ((TL14) Artillery Battle Dress TL 14 ) Artillery Battle Dress This design is considerably stronger,
 giving Strength 16, and has upgrades to its internal systems to give
-it computer/3. Additionally, the suit’s left arm has an integral gauss
+it computer/3. Additionally, the suit's left arm has an integral gauss
 pistol built into the forearm. Wt. 14. Cr 400,000
 
 #### Options
@@ -7634,7 +7634,7 @@ implanted in the armor keep track of registered friendly transponders
 (the suit comes with 100 transponders) and marks targets without
 transponders as enemies. This information shows up on a visor-
 based HUD, allowing the wearer to know the exact location of
-allies and enemies with his line of sight or up to a kilometre away,
+allies and enemies with his line of sight or up to a kilometer away,
 whichever is greater, giving a +1 DM bonus to any Tactics throws.
 Friend or Foe HUD costs Cr 4,000. Additional transponders cost Cr
 100 for twenty.
@@ -7642,8 +7642,8 @@ Friend or Foe HUD costs Cr 4,000. Additional transponders cost Cr
 GGyro-Stabilizer Rig (TL12) yro-Stabilizer Rig (TL 12 ) This upgrade can be added to Combat
 Armor or Battle Dress only, adding a localised motion-pivot at the
 waist that counters the effects of recoil at the cost of Cr 10,000. By
-spending 1d6 minutes attaching the rig’s arms to a heavy weapon
-or rifle, it reduces the weapon’s Recoil number by 2 (to a minimum
+spending 1d6 minutes attaching the rig's arms to a heavy weapon
+or rifle, it reduces the weapon's Recoil number by 2 (to a minimum
 of 0).
 ((TL14): TL 14 ): The TL14 version is internal, affecting any weapon the
 wearer is holding. Costs Cr 50,000.
@@ -7701,9 +7701,9 @@ Man-Portable weapon.
 
 ## NEW AUGMENTS
 
-In a mercenary’s life injuries are, unsurprisingly, rather common.
+In a mercenary's life injuries are, unsurprisingly, rather common.
 Because of this, mercenaries are generally at home with the idea
-of getting replacement ‘parts’ for what they get blown, shot or cut
+of getting replacement 'parts' for what they get blown, shot or cut
 off in the line of duty to the unit. Unlike civilians, however, who
 might accept a simple cosmetic replacement, mercenaries lean
 toward prosthetics and implants that will help them in the future.
@@ -7717,13 +7717,13 @@ who wants the best in surgical augmentation will get it.
 Most of the items in this category can be cybernetic (mechanical
 or electronic implants and prostheses) or biological (genetic
 engineering and surgical alternation) or both (a more common
-solution), but the general term of ‘augmentation’ is used for all of
+solution), but the general term of 'augmentation' is used for all of
 them. Like normal, augmentations can bring characteristics above
 the normal maximums for his race.
 
 AAdvanced Subdermal Armor (TL12) dvanced Subdermal Armor (TL 12 ) This is an upgraded version
 of normal subdermal armor, using even more advanced polymers
-and lightweight alloys to line the character’s organs as well as skin.
+and lightweight alloys to line the character's organs as well as skin.
 Advanced subdermal armor still stacks with other protection, but
 not other types of subdermal armor.
 
@@ -7740,8 +7740,8 @@ claws replaced with these augmentations as a sign of their militant
 mentality.
 
 AAssisted Ambulation Augmentation (TL13) ssisted Ambulation Augmentation (TL 13 ) By adding tiny
-stimulatory conduits in certain muscles and tendons, a person’s
-body can be ‘programmed’ to function more efficiently and for
+stimulatory conduits in certain muscles and tendons, a person's
+body can be 'programmed' to function more efficiently and for
 longer. Using the electricity generated from an internal battery
 system which recharges itself through the users diet, they can
 function at peak physical capability for hours longer than normal.
@@ -7766,17 +7766,17 @@ dietary need
 
 Availability 10+ Cr 500,000
 
-BBallistic Tracking Lenses (TL12): allistic Tracking Lenses (TL 12 ): The character’s retinas have
+BBallistic Tracking Lenses (TL12): allistic Tracking Lenses (TL 12 ): The character's retinas have
 been laced with tiny receptors that link via the nervous system to
-the character’s fingers and pulse rate. The retinal receptors place
+the character's fingers and pulse rate. The retinal receptors place
 an outline over any object that the character is currently aiming a
 
 weapon at, allowing for better target acquisition. BTLs (as they are
 called) give the character a +1 DM on all ranged attacks. Costs Cr
-40,000 with an Availability of 10+. The character’s eyes will shine
+40,000 with an Availability of 10+. The character's eyes will shine
 strangely in direct lighting, revealing the BTLs to observers.
 
-WWeapon Implant (TL10) eapon Implant (TL 10 ) One of the character’s hands and
+WWeapon Implant (TL10) eapon Implant (TL 10 ) One of the character's hands and
 attached forearm is replaced with a lifelike framework of alloy and
 polymers that has a secret hinged split in it. Opening in two halves,
 from between the middle and ring fingers to the elbow, the implant
@@ -7791,15 +7791,15 @@ Stunstick 8+ Cr 10,000
 Autopistol 9+ Cr 12,000
 Laser Pistol 10+ Cr 25,000
 
-MMechanostatic Scanner (TL13): echanostatic Scanner (TL 13 ): One of the character’s ears
+MMechanostatic Scanner (TL13): echanostatic Scanner (TL 13 ): One of the character's ears
 have been augmented with a manually activated device similar to
 a communications scanner. When activated, any cybernetically
-augmented individuals within twenty metres will give off a traceable
+augmented individuals within twenty meters will give off a traceable
 buzz that the character can hear. Although this does not help in any
 way, it can help the character be aware of augmented threats nearby
 his location. Costs Cr 10,000 with an Availability of 9+.
 
-SSmuggling Container (TL9): muggling Container (TL 9 ): A portion of the character’s body
+SSmuggling Container (TL9): muggling Container (TL 9 ): A portion of the character's body
 is surgically modified to house a polymer pocket that is made to
 look like normal skin. Using a trigger that looks like a blemish or
 scar to open, the pocket can hold roughly 10 pounds of weight and
@@ -7843,7 +7843,7 @@ is 10+, cost is CR 100,000.
 GGun Cam (TL8) un Cam (TL 8 ) A small rapid-recording camera placed on the
 barrel of a firearm, the gun cam is a useful tool for post-combat
 evaluation and training. The camera takes several seconds of
-recording around the pulling of the weapon’s trigger, allowing for
+recording around the pulling of the weapon's trigger, allowing for
 slow-motion playback to see what the shooter was doing right or
 wrong – or the verification of kills. The gun cam costs Cr 150 and
 has an Availability of 7+.
@@ -7933,7 +7933,7 @@ the most vicious of wounds for a few hours – hopefully enough time
 to get him to a proper medical facility. The use of a trauma pack
 requires a Medic throw 8+, but will give a wounded character back
 a temporary 1d6 Endurance. This Endurance can be used to bring
-a technically ‘dead’ character back from 0 or less Endurance (so
+a technically 'dead' character back from 0 or less Endurance (so
 long as the new total is above 0), so long as they suffered their
 last wound within 30 seconds. This regained Endurance lasts for
 1d6 hours – at which point it vanishes, potentially killing them. A
@@ -7947,7 +7947,7 @@ TTL14: L 14 : Negligible Weight; Availability 10+; Cr 7,500.
 
 #### Drugs
 
-There are several drugs (or ‘meds’) that can be used by mercenaries
+There are several drugs (or 'meds') that can be used by mercenaries
 and their ilk, all of which are legal in the systems in which they are
 produced. They likely have some form of combat-based usage, but
 some users may have found other recreational reasons for buying
@@ -7955,7 +7955,7 @@ them too.
 
 AAdrenaliser (TL10) drenaliser (TL 10 ) An injected cocktail of alien adrenalines, this
 drug is used to keep the user awake and active for several hours at
-a time. Although it is known to have a detrimental ‘crash’ when it
+a time. Although it is known to have a detrimental 'crash' when it
 wears off, soldiers on patrol duty will sometimes use adrenaliser
 to stay alert. One dose of the drug is the equivalent of ten hours
 of sleep, after which the user will have 2d6 x 5 minutes to find
@@ -7964,25 +7964,25 @@ someplace to lay down – because the lost amount of sleep will hit
 him without fail at the end of that time. The drug has an Availability
 of 9+, and cost Cr 150 per dose.
 
-CClotting Aid (TL9) lotting Aid (TL 9 ) This daily preventative thickens the user’s
+CClotting Aid (TL9) lotting Aid (TL 9 ) This daily preventative thickens the user's
 blood through enhanced platelet levels, causing wounds to clot and
 knit much faster. Someone currently on a daily dosage of clotting
-aids will give a +1 DM to other people’s Medic throws to treat them.
+aids will give a +1 DM to other people's Medic throws to treat them.
 They have an Availability of 8+, and cost Cr 200 per 30 day bottle.
 
-MMeta-Performance Enhancer (‘Titan Drug’, TL10) eta-Performance Enhancer (‘Titan Drug’, TL 10 ) boosts the
-user’s physical strength to superhuman levels. Reacting similarly in
-the body to how some narcotics can enhance the user’s strength; the
+MMeta-Performance Enhancer ('Titan Drug', TL10) eta-Performance Enhancer ('Titan Drug', TL 10 ) boosts the
+user's physical strength to superhuman levels. Reacting similarly in
+the body to how some narcotics can enhance the user's strength; the
 titan drug does the same thing without all of the same dangerous
 side effects. The drug kicks in 60 seconds after injection, and lasts
-for around fifteen minutes, adding 6 to the user’s strength (up to a
+for around fifteen minutes, adding 6 to the user's strength (up to a
 maximum total strength of 16 for a human). When the drug wears
-off, the user’s muscles cramp painfully under the stress and fatigue.
+off, the user's muscles cramp painfully under the stress and fatigue.
 He suffers 1d6 points of damage and is instantly enfeebled (Str of 5
 for 1d6 hours). Meta-Performance Enhancer costs 600 credits per
 dose and has an Availability of 9+.
 
-NNervous Response Dampeners (TL9) ervous Response Dampeners (TL 9 ) This ‘battlefield vitamin’
+NNervous Response Dampeners (TL9) ervous Response Dampeners (TL 9 ) This 'battlefield vitamin'
 is actually a mild anti-anxiety drug, helping combatants cope with
 some of the horrors they could be subjected to in war. Taken a few
 hours before battle, the dampeners last for a day or so, granting
@@ -7991,13 +7991,13 @@ Availability of 8+, and cost Cr 100 per dose.
 
 ### EEQQUIPMENTUIPMENT
 
-SStarlight Drops (TL12) tarlight Drops (TL 12 ) enhance the user’s vision dramatically. By
+SStarlight Drops (TL12) tarlight Drops (TL 12 ) enhance the user's vision dramatically. By
 adding a few stinging drops of this liquid into each eye and waiting
 for the burning sensation to pass, the user effectively gains night
 vision equal to that of a nocturnal predator. In darkness or near-dark
 environments, the user gains a +1DM on all ranged combat and
 perception-based throws. The effects of the drug last for 1d6 hours,
-during which time the user’s eyes look silvery and cloudy. A dropper
+during which time the user's eyes look silvery and cloudy. A dropper
 of starlight drops carries 6 doses (12 eyes), has an Availability of 8+
 and costs Cr 500.
 
@@ -8007,7 +8007,7 @@ MMental Therapy ental Therapy Characters that see a great deal of combat,
 especially wars, can have their nerves frayed from hours of shelling
 and vehicle passes. They could eventually crack under the pressure,
 and some need outlets for their stress and internal worries. Many
-mercenary units arrange for ‘combat shrinks’ to see their members
+mercenary units arrange for 'combat shrinks' to see their members
 at least once a month, just to make sure that they are keeping it
 all straight in their minds between tickets. A patient undergoing
 regular therapy (at least one session per month) can count their
@@ -8049,20 +8049,20 @@ pistols or rifles could be mounted and fired by remote control as
 well. Availability 9+, base cost is Cr 200,000.
 
 SSpotter Drone (TL10) potter Drone (TL 10 ) Tiny drones that are little more than a
-lift unit and a laser targeter, the spotter is an artillery team’s best
+lift unit and a laser targeter, the spotter is an artillery team's best
 friend. The small spheroid zooms out to where the artillery needs
 to fire, spends 1 – 6 minor actions holding a laser designator on the
-potential target, and waits for the attack. This requires the drone’s
+potential target, and waits for the attack. This requires the drone's
 operator to pass a throw 9+, but will add a +4DM to the designated
-artillery team’s next attack roll when shooting at the target. Hull 1.
+artillery team's next attack roll when shooting at the target. Hull 1.
 Availability 8+. Cost Cr 12,000.
 
 #### Options
 
 SSelf-Destruct: elf-Destruct:
-Explodes as per a frag grenade with a 5 metre radius when directed
+Explodes as per a frag grenade with a 5 meter radius when directed
 to do so with a Remote Operations throw 9+, but increases the
-drone’s cost by 25%. The high cost is to protect the drone from
+drone's cost by 25%. The high cost is to protect the drone from
 accidental or enemy self-destruct activation.
 
 ## NEW SENSORS
@@ -8075,7 +8075,7 @@ backpacks.
 
 EEnergy Emission Warning Beacon (TL13) nergy Emission Warning Beacon (TL 13 ) The stationary ground
 sensor (EEWB) is designed to predict incoming energy weapon
-fire by ‘listening’ to the hiss of superheated air splitting when
+fire by 'listening' to the hiss of superheated air splitting when
 high-energy weapons are fired. Although this will not help in close
 quarters or basic fire fights, it can be very helpful at longer ranges.
 Any character hooked up to an EEWB feed adds an additional –1DM
@@ -8085,7 +8085,7 @@ they react. Weighs 4.5 kg, Availability 10+, cost Cr 60,000.
 FForensic Sweeper (TL13) orensic Sweeper (TL 13 ) This complicated handheld device is
 a multi-medium scanner that looks for radiation residue, ballistic
 particles, chemical traces, and bio-organic remains all at once.
-Within an hour of sweeping a twenty square metre area with the
+Within an hour of sweeping a twenty square meter area with the
 handheld wand, and succeeding in an Investigate throw 8+, the
 device will know all of the following pieces of information. Weighs 2
 kg, Availability 10+, cost Cr 7,500.
@@ -8099,11 +8099,11 @@ kg, Availability 10+, cost Cr 7,500.
     the past 12 hours
 
 AAnti-personnel Equipment Scanner (TL10): nti-personnel Equipment Scanner (TL 10 ): This bulky set of
-goggles is used to search a person’s body for metallic, plastic or
+goggles is used to search a person's body for metallic, plastic or
 ceramic devices – such as guns, knives, or explosives. By looking
-at a target with great scrutiny (1–6 minutes) within five metres,
+at a target with great scrutiny (1–6 minutes) within five meters,
 the character may make an Investigate throw 8+. If successful,
-the goggles penetrated the target’s clothing/armor and found all
+the goggles penetrated the target's clothing/armor and found all
 
 ### EEEQQUIPMENTQUUIIPPMMEENNTT
 
@@ -8139,8 +8139,8 @@ PProtein Tap (TL9) rotein Tap (TL 9 ) A crank-operated augur and press attaches
 to large plant or animal life and pulps organic matter into an
 unrecognizable paste. Although the basic pastes produced by the
 tap tastes like the source of the material, most tap-users carry
-syrupy flavours to add to the substance. The device adds a +1 DM
-to all Survival skill checks made to ‘find’ food in the wild. Cost Cr
+syrupy flavors to add to the substance. The device adds a +1 DM
+to all Survival skill checks made to 'find' food in the wild. Cost Cr
 1,000.
 
 MMap Box (TL9) ap Box (TL 9 ) Originally designed for wilderness exploration,
@@ -8168,13 +8168,13 @@ incoming nuclear warheads, causing them to rapidly shed neutrons
 at low energy levels, rendering the warhead inoperable as its core
 material disintegrates on an atomic level. Any nuclear devices that
 are not currently already in a state of fusion (fusion cells, starship
-cores, etc.) will have a penalty of the Effect of the damper operator’s
+cores, etc.) will have a penalty of the Effect of the damper operator's
 Computer skill throw to any attacks made. The range of the damper
 field is proportional to the distance separating the two stations. At
-tech level 13, the ratio is 100:1 (a separation of 50 metres between
-stations would give a field range of 5 kilometres). Each damper
+tech level 13, the ratio is 100:1 (a separation of 50 meters between
+stations would give a field range of 5 kilometers). Each damper
 station weighs 75 kg, and the maximum distance the stations can
-be apart before the field disperses is 200 metres. Availability 11+,
+be apart before the field disperses is 200 meters. Availability 11+,
 cost MCr 5.
 ((TL14) TL 14 ) As above, and the ratio is now 500:1. Availability 12+, cost
 MCr 10.
@@ -8294,7 +8294,7 @@ in the armories of militaries and mercenary units.
 Although units across a battlefield rely heavily on their firearms to
 win their wars, a good stout blade at their hip is always welcome
 when the enemy closes. Not all mercenaries are into full-scale
-warfare either, and a thin-bladed knife can be an assassin’s best
+warfare either, and a thin-bladed knife can be an assassin's best
 friend.
 
 AAxe (TL1) xe (TL 1 ) A heavy wedge-shaped blade at the end of a stout haft,
@@ -8305,7 +8305,7 @@ thrust into a target. Can also be used as a Thrown weapon with a
 +1DM to hit.
 
 SStiletto (TL2) tiletto (TL 2 ) A long, thin blade used to puncture rather than slice.
-Often 30 – 40 centimetres in length for reaching organs.
+Often 30 – 40 centimeters in length for reaching organs.
 
 #### BLADE WEAPONS
 
@@ -8322,22 +8322,22 @@ Sap Melee (unarmed) 1d6 1 +0 – 30
 
 #### Slug Throwers
 
-ZZip Gun ip Gun A one-use pistol made from makeshift materials, the ‘zip
-gun’ is a catch-all title used to describe any one-shot homemade
+ZZip Gun ip Gun A one-use pistol made from makeshift materials, the 'zip
+gun' is a catch-all title used to describe any one-shot homemade
 firearm. Zip guns have a -1 DM to attacks.
 
 FFlechette Pistol lechette Pistol A small and light pistol that uses air pressure to
 all-but-silently hurl tiny slivers of metal with great accuracy. Often
-considered to be an assassin’s preferred sidearm due to its inherent
+considered to be an assassin's preferred sidearm due to its inherent
 quietness.
 
 CCartridge Pistol artridge Pistol A revolver-style pistol that fires shotgun
 ammunition at very close range. It comes standard with an attached
 arm brace to help absorb some of the considerable recoil created by
-the weapon’s discharge.
+the weapon's discharge.
 
 MMagRail Pistol agRail Pistol Using the basic MagRail principle of much larger
-weaponry, this pistol magnetically projects five-centimetre diameter
+weaponry, this pistol magnetically projects five-centimeter diameter
 alloy discs at astonishing velocity. Although it has a slower rate of
 
 fire due to the limits of its attached power pack, its munitions can
@@ -8450,13 +8450,13 @@ recoil before accelerating to higher impact speeds.
 
 GGauss Carbine auss Carbine Not as bulky as the gauss rifle, gauss carbines fire
 high-velocity projectiles using electromagnetic rails. Gauss carbines
-are the favoured weapon of boarding marines because of their size
+are the favored weapon of boarding marines because of their size
 and ease of use.
 
 MMagRail Carbine agRail Carbine Using the attached power cell to augment firing
-rate, this carbine projects the same five-centimetre diameter alloy
+rate, this carbine projects the same five-centimeter diameter alloy
 discs as its pistol version. It uses a larger magazine and a more
-rapid fire rate, but does not increase the velocity or the ‘calibre’ of
+rapid fire rate, but does not increase the velocity or the 'calibre' of
 the projectiles.
 
 SSniper Rifle niper Rifle A high-calibre rifle designed not for rapid firing, but
@@ -8472,7 +8472,7 @@ good assault weapon when dealing with common infantry.
 
 MMagRail Rifle agRail Rifle With the larger frame of the rifle stock, a larger
 power source can allow for even larger ammunition to be hurled
-by this wide-barrelled weapon. Fifteen centimetres in diameter, the
+by this wide-barrelled weapon. Fifteen centimeters in diameter, the
 
 #### SLUG THROWERS
 
@@ -8588,12 +8588,12 @@ devices due to the erratic nature of their effect radius - which can
 effect their own gear on occasion.
 
 IIncendiary: ncendiary: Incendiary grenades deal 1d6 heat damage to
-characters within three metres of the blast; the radius is considered
+characters within three meters of the blast; the radius is considered
 to be ablaze for 2d6 minutes – inflicting 2d6 fire damage to anything
 that enters the area.
 
 Plasma: Plasma grenades use two chemical agents and an
-electric pulse to start a massive reaction in the grenade’s shell,
+electric pulse to start a massive reaction in the grenade's shell,
 causing it to explode in a small orb of superheated gas.
 
 #### Heavy Weapons
@@ -8602,12 +8602,12 @@ The finest in man-portable heavy weaponry, a mercenary unit that
 frequently takes wartime tickets will likely have several members
 devoted to the upkeep and use of heavy weapons. While not as
 powerful as support weaponry, like that found in emplacements
-or on artillery battle dress soldiers, a single ‘heavy’ in a mercenary
+or on artillery battle dress soldiers, a single 'heavy' in a mercenary
 squad can make a remarkable difference in a fire fight.
 
 FFlamethrower lamethrower A pressurised tank of combustible fuel attached to a
 projecting nozzle, the flamethrower shoots a long stream of burning
-liquid and flame at its targets. When fired, the flamethrower’s stream
+liquid and flame at its targets. When fired, the flamethrower's stream
 
 #### ENERGY WEAPONS
 
@@ -8722,9 +8722,9 @@ No 3 10 – 13+ 300,000
 #### GRENADES
 
 WWeaponeapon TTLL RRangeange DDamageamage MMassass BBlast Radiuslast Radius AAvailabilityvailability CCostost
-EMP 9 Ranged (thrown) None 0.5 2d6 metres 10+ 100
-Incendiary 5 Ranged (thrown) 3d6 0.5 3 metres 7+ 30
-Plasma 12 Ranged (thrown) 5d6 0.5 1.5 metres 9+ 50
+EMP 9 Ranged (thrown) None 0.5 2d6 meters 10+ 100
+Incendiary 5 Ranged (thrown) 3d6 0.5 3 meters 7+ 30
+Plasma 12 Ranged (thrown) 5d6 0.5 1.5 meters 9+ 50
 
 ### EEQQUIPMENTUIPMENT
 
@@ -8739,12 +8739,12 @@ In game terms, a flamethrower attack targets a single point of
 impact within range, making attack rolls against everything in a
 straight line from the firer to that point (rolling in order) – stopping
 when an attack hits. When the stream hits a target however, it
-breaks the projection and becomes a radius of 3 metres around
+breaks the projection and becomes a radius of 3 meters around
 the target, rolling the damage for the weapon as normal. Anything
 that suffers damage from a flamethrower will continue to suffer
 half (round down) the current damage value every round until the
 damage is halved eventually to 0. Due to the lack of penetration
-to a flamethrower’s stream, armor values are doubled against
+to a flamethrower's stream, armor values are doubled against
 flamethrower attacks.
 
 LLight Machine Gun (LMG) ight Machine Gun (LMG) A heavier belt fed version of the
@@ -8774,7 +8774,7 @@ that can puncture the plate armor of personnel carriers. With the
 integrated bio-mass range finder (see below) and adjustable pivoting
 bipod, an ARMP properly set up with a proper line of fire can kill a
 target that thinks it is safe behind cover. Little can withstand a well-
-aimed direct hit from the ARMP’s specialized ammunition.
+aimed direct hit from the ARMP's specialized ammunition.
 
 AAuto Cannon uto Cannon A gravity fed, fully automatic weapon, the auto
 cannon fires a large-calibre round at amazing velocities with a
@@ -8791,13 +8791,13 @@ effectively.
 VVRF Gauss Rifle RF Gauss Rifle Standing for Very Rapid Fire, the gauss rifle is a
 shoulder-slung gauss weapon that uses an attached power backpack
 to accelerate hundreds of metal darts per second at targets several
-over a hundred metres away. Generally only carried by soldiers in
+over a hundred meters away. Generally only carried by soldiers in
 battle dress, the VRF gauss rifle is a heavy rig that must be set on a
 stationary pintle-mount if it is to be fired by any character outside
 of powered armor.
 
 MMagRail Minigun agRail Minigun Modified to fire steady streams of twenty-
-centimetre discs of sharpened metal, the MagRail minigun
+centimeter discs of sharpened metal, the MagRail minigun
 does not use revolving barrels like conventional slug-throwing
 
 #### HEAVY WEAPONS
@@ -8928,13 +8928,13 @@ weapon)
 miniguns, although it does have four individual firing ports. It uses
 a compartmentalised energy cell to direct the individual barrels
 to fire in alternating patterns, drawing from a single drum-sorted
-ammunition feed located under the weapon’s rear.
+ammunition feed located under the weapon's rear.
 
 #### Options
 
 BBipod/Tripod (TL4) ipod/Tripod (TL 4 ) Any weapon that has been fitted with a
 stabilizing bipod or tripod can be set up in two minor actions to
-halve the weapon’s Recoil (round down), so long as the weapon is
+halve the weapon's Recoil (round down), so long as the weapon is
 not moved. Costs Cr 50.
 
 MMagnification Scope (TL4) agnification Scope (TL 4 ) When Aiming with a rifle, the firer can
@@ -8970,9 +8970,9 @@ the power pack fuelled TL11 version.
 AAT Gun T Gun The single best way to deal with an armored target, the
 Anti-Tank gun is a huge cannon that fires a single armor-piercing,
 high-fragmentation shell that is designed to punch armor and
-explode. At early technology levels, the gun is called a ‘howitzer’ and
+explode. At early technology levels, the gun is called a 'howitzer' and
 is used to lob shells in wide arcs. As technology increases, the AT
-Gun’s ammunition becomes more and more efficient as it is made
+Gun's ammunition becomes more and more efficient as it is made
 from better materials, allowing it to be fired more like a conventional
 gun. At TL15 however, the AT Gun is fired a directed plasma lancet
 of energy drawn off a huge fusion pack attached to it by cables and
@@ -8991,12 +8991,12 @@ to manage with fewer crew. Ammunition for the frag cannon costs
 
 MMRL Pack RL Pack The multiple rocket launcher pack is a rack of motorised
 launch tubes that uses the same ignition system to rapidly deploy
-payloads. Earlier versions used simple ‘aim and fire’ rockets that
+payloads. Earlier versions used simple 'aim and fire' rockets that
 required several crew to load, direct and fire properly. As technology
 increased, the MRL becomes a radar-controlled automated system
 with contained loading systems and laser-guided rockets. MRL
 packs fire either single shots or a number of rockets as a separate
-attacks roll up to half (round up) the pack’s Technology Level,
+attacks roll up to half (round up) the pack's Technology Level,
 and have a rate of fire equal to three times the number of rockets
 launched. Missile reloads cost 25 credits multiplied by the TL of the
 MRL pack each.
@@ -9018,7 +9018,7 @@ RRate of Fire: ate of Fire: Artillery is difficult to fire rapidly due to reload
 actions that must be spent preparing the weapon before firing again; treated similar to a Reload score.
 
 MMinimum Operating Crew: inimum Operating Crew: This is the number of skilled Artillerists needed on hand to ready/aim/fire the weapon properly. Each
-crewman contributes to the overall firing skill of the artillery piece, figured by taking the average of all crewmen’s Heavy Weapons (field
+crewman contributes to the overall firing skill of the artillery piece, figured by taking the average of all crewmen's Heavy Weapons (field
 artillery) skill levels. For each crewman less than the listed minimum, the weapon suffers a –2 DM to hit rolls.
 
 ### EEQQUIPMENTUIPMENT
@@ -9034,8 +9034,8 @@ MMeson Accelerator eson Accelerator Using nuclei-stripping technologies original
 discovered for the nuclear dampers protecting many major
 population centres in the galaxy, the meson accelerator is a huge
 field-focussing device that disintegrates matter caught in its focused
-energy emissions. The ‘beam’ fired by the accelerator is actually
-invisible except for its effects, but the weapon’s designers added a
+energy emissions. The 'beam' fired by the accelerator is actually
+invisible except for its effects, but the weapon's designers added a
 harmless light-projection system to colour the area of effect a bright
 blue immediately before it fires – allowing allies to steer clear of the
 coloured area!
@@ -9055,11 +9055,11 @@ LMGs at targets that it passes by.
 GGunskiff unskiff A mobile, gravitic gun platform that lets its passengers fire
 their weaponry over the somewhat precarious railing. Sometimes
 used to ferry troops, but most often used as firepower platforms,
-gunskiffs are a favourite of the Aslan – who also use them to deploy
+gunskiffs are a favorite of the Aslan – who also use them to deploy
 assault troops.
 
 HHovertrak: overtrak: A bit of a misnomer, the hovertrak anti-armor tank has
-no ‘trak’ portion of it at all. It was originally named for the tracked
+no 'trak' portion of it at all. It was originally named for the tracked
 version of its chassis, now obsolete with the advent of its hovering
 capabilities. Fully enclosed and supporting a small anti-personnel
 weapon, the main reason the hovertrak exists is to support its
@@ -9072,7 +9072,7 @@ itself across the sky. It is lightly armored and armed, mainly used
 to deliver troops to hard-to-reach places very quickly.
 
 HHydrofoil ydrofoil A fast-moving boat that actually lifts above the water on a
-set of ski-like ‘foils’, this is the best watercraft for aquatic assaults.
+set of ski-like 'foils', this is the best watercraft for aquatic assaults.
 
 CCarry-All arry-All A huge helicopter with four massive rotors positioned at
 the corner of its expansive crew and cargo compartment, the Carry-
@@ -9117,17 +9117,17 @@ Field Mortar 3
 
 ###### M
 
-400 metres
-600 metres
-800 metres
+400 meters
+600 meters
+800 meters
 
 3d6
 4d6
 5d6
 
-6 metres
-9 metres
-9 metres
+6 meters
+9 meters
+9 meters
 
 ###### 6
 
@@ -9160,10 +9160,10 @@ AT Gun 6
 
 ###### M
 
-500 metres
-750 metres
-750 metres
-1 kilometre
+500 meters
+750 meters
+750 meters
+1 kilometer
 
 6d6
 8d6
@@ -9212,17 +9212,17 @@ Frag Cannon 5
 
 ###### S
 
-300 metres
-600 metres
-1 kilometre
+300 meters
+600 meters
+1 kilometer
 
 5d6+5
 6d6+5
 8d6+5
 
-5 metres
-5 metres
-10 metres
+5 meters
+5 meters
+10 meters
 
 ###### 12
 
@@ -9261,20 +9261,20 @@ MRL Pack 6
 
 ###### S
 
-500 metres
-500 metres
-750 metres
-1 kilometre
+500 meters
+500 meters
+750 meters
+1 kilometer
 
 4d6
 5d6
 5d6
 6d6
 
-5 metres
-4 metres
-4 metres
-3 metres
+5 meters
+4 meters
+4 meters
+3 meters
 
 Special 5
 4
@@ -9297,8 +9297,8 @@ Special 5
 
 ###### 20,000
 
-Mass Driver 10 M 750 metres 10d6 2 metres 4 3 9+ 3,000
-Meson Accelerator 15 L 1.5 kilometres 18d6 10 metres 12 4 14+ MCr 20
+Mass Driver 10 M 750 meters 10d6 2 meters 4 3 9+ 3,000
+Meson Accelerator 15 L 1.5 kilometers 18d6 10 meters 12 4 14+ MCr 20
 
 ### EQUIPMENT
 
@@ -9328,7 +9328,7 @@ dramatically in higher-technology areas, and a troop transport could
 easily be killed by the ambient rads on a battlefield if they are not
 careful. By using special alloys and aerosol medications in the crew
 passenger compartments of a vehicle, it can render all passengers
-immune to radiation while on board. This adds +10% to the vehicle’s
+immune to radiation while on board. This adds +10% to the vehicle's
 cost and can only be used on enclosed vehicles.
 
 EECM Shielding (TL9) CM Shielding (TL 9 )
@@ -9336,7 +9336,7 @@ The advent of electromagnetic pulse grenades have made fast-
 moving, especially flying, vehicles dangerous to use – as that an
 ECM stall could be fatal! Vehicles that purchase this option are
 immune to the effects of ECM grenades and effects. This costs 25%
-of the vehicle’s total cost, and can even be added to a grav belt.
+of the vehicle's total cost, and can even be added to a grav belt.
 
 DDeployment Ramps/Harnesses (TL4) eployment Ramps/Harnesses (TL 4 ) By adding fast-action
 ramps or repelling harnesses to a vehicle, the passengers inside
@@ -9531,7 +9531,7 @@ Extreme Range Firing 71
 ## F
 
 Field Artillery Rules 104
-Friends & Favours 35
+Friends & Favors 35
 
 ## G
 

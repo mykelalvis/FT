@@ -13,4 +13,4 @@ House Mallor has had a distinguished service in the [[Imperium]] but since rulin
 
 Imposing their rule over weaker civilizations is nothing short of dictatorship and the count has personally seen the effect with varying degrees of hostility aimed at him since he took control of Zircon. Although Count Mallor does not agree with all of the actions of the Liberation Front, he does empathise with them and plans to use the separatist movement to gain the support of his people.
 
-The count’s political ambitions are now focussed on seceding from the [[Imperium]] and becoming an independent world. However, before he can move against the Imperium, he must first deal with the Federation of Arden who are more of an immediate threat to his power base and ambition.
+The count's political ambitions are now focussed on seceding from the [[Imperium]] and becoming an independent world. However, before he can move against the Imperium, he must first deal with the Federation of Arden who are more of an immediate threat to his power base and ambition.

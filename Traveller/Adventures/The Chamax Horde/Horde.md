@@ -6,7 +6,7 @@ tags:
   - UNFORMATTED
 ---
 
-![[Horde-0-Cover.jpg]]
+![[Horde-0-Cover.jpg|100]]
 
 # Introduction
 

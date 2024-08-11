@@ -18,11 +18,11 @@ After leaving the busy system of Glisten, the first port of call is Egypt. Pleas
 
 #### Mertactor : District 268 1537 B262732-B Cp 610
 
-Our second destination is Mertactor, the Provisional Subsector Capital of District 268. Blessed with a sweet-smelling atmosphere, bareback or saddled poni rides and a Rebor hunt are scheduled for our two-day planetfall. Fly fishing trips can also be arranged upon request—as always, feel free to contact our Purser or a Steward. A further high point of the visit is dinner with a local art expert, Mr Ganidiirsi Meszaros, whose work in organising the purchase of a number of pieces from Lakou for the Members Room of the Glisten Polo Grounds was recognised by a Candidate Membership in that association.
+Our second destination is Mertactor, the Provisional Subsector [[Capital]] of District 268. Blessed with a sweet-smelling atmosphere, bareback or saddled poni rides and a Rebor hunt are scheduled for our two-day planetfall. Fly fishing trips can also be arranged upon request—as always, feel free to contact our Purser or a Steward. A further high point of the visit is dinner with a local art expert, Mr Ganidiirsi Meszaros, whose work in organising the purchase of a number of pieces from Lakou for the Members Room of the Glisten Polo Grounds was recognised by a Candidate Membership in that association.
 
 Passengers are reminded that we are leaving Imperial space on lifting from Mertactor, so contact our Purser regarding Declarations of Attorney and appropriate financial arrangements at least 24 hours before liftoff, if these services will be required.
 
-(Author’s Note: A profile of Mr Meszaros (a.k.a. “The Fat Man”) can be found in the sidebar on p.90 of GURPS Traveller: Far Trader)
+(Author's Note: A profile of Mr Meszaros (a.k.a. “The Fat Man”) can be found in the sidebar on p.90 of GURPS Traveller: Far Trader)
 
 #### Tarkine : District 268 1434 C466662-7 Ag Ni Ri O:1435 (Dallia) Amber Zone
 
@@ -42,7 +42,7 @@ Finally, the purser can arrange for suitably qualified personel to have airtime 
 
 From Squallia we head to Asteltine, site of several ground engagements during the recent Frontier War. A veteran of the Asteltine Landings will be available to guide a tour in sealed ATVs of a site of fighting between elements of the Sword World Confederation Marines and the Asteline Volunteers. Passengers should note that Asteltine is a world with a low level of social control, even by frontier standards.
 
-While Asteline’s belt does not compare with Glisten or even the nearby Bowman system for mineral richness, it does have a number of working claims, and subject to local security conditions at the time of visit, the Company may be able to arrange a visit to a genuine working belter colony.
+While Asteline's belt does not compare with Glisten or even the nearby Bowman system for mineral richness, it does have a number of working claims, and subject to local security conditions at the time of visit, the Company may be able to arrange a visit to a genuine working belter colony.
 
 #### Ator : Darrian 0729 D326258-6 821 (N.B. ship only visits Gas Giant)
 
@@ -54,7 +54,7 @@ After refuelling from a Darrian Navy oiler, we will again go into jumpspace for 
 
 ---
 
-That’s the advertising brochure. This is a short list of what could go wrong, to help the crew earn their pay.
+That's the advertising brochure. This is a short list of what could go wrong, to help the crew earn their pay.
 
 Egypt:
 
@@ -66,7 +66,7 @@ Mertactor:
 
  
 
-Huntin’, shootin’, and skinnin’—the first 2 should be pretty safe, but count your fingers and toes after sitting down to talk art with “the Fat Man”. It is almost inevitable he has something just precisely right to sell you.
+Huntin', shootin', and skinnin'—the first 2 should be pretty safe, but count your fingers and toes after sitting down to talk art with “the Fat Man”. It is almost inevitable he has something just precisely right to sell you.
 
 Tarkine:
 
@@ -78,16 +78,16 @@ Sqallia:
 
  
 
-Touring a live volcano with a bunch of guys paid for by the Sword Worlds. Are you sure they don’t think you are INS? Plus homestays. Can you spell “Drug the Impie Spy to the eyeballs and interrogate them?”. Or maybe we will play “Let’s kill the Impie Spy by the Old Exploding Engine in the Rented Fighter” trick.
+Touring a live volcano with a bunch of guys paid for by the Sword Worlds. Are you sure they don't think you are INS? Plus homestays. Can you spell “Drug the Impie Spy to the eyeballs and interrogate them?”. Or maybe we will play “Let's kill the Impie Spy by the Old Exploding Engine in the Rented Fighter” trick.
 
 Asteline:
 
  
 
-Gov zip. Law 2. Pop 4. TL A. 4 parsecs from Narsil. And we’re heading to the Asteroid Belt to visit miners. This is prime pirate country. And let’s see how much of the old ordnance on the old battlefield is still active—you know, like drone missiles with californium warheads.
+Gov zip. Law 2. Pop 4. TL A. 4 parsecs from Narsil. And we're heading to the Asteroid Belt to visit miners. This is prime pirate country. And let's see how much of the old ordnance on the old battlefield is still active—you know, like drone missiles with californium warheads.
 
 Ator:
 
  
 
-So we’re jumping to the fringes of a barely-controlled system, in the expectation of meeting up with the Darrian Navy. Uhuh. I’m sure.
+So we're jumping to the fringes of a barely-controlled system, in the expectation of meeting up with the Darrian Navy. Uhuh. I'm sure.

@@ -14,9 +14,9 @@ Universes of science fiction are filled with vehicles ranging from the mundane t
 
 The Vehicle Handbook has been designed to be quick and easy to use, whether your Travellers are looking to quickly upgrade or modify their humble air/raft, or construct a massive battle-ready walker armed with city- crushing weaponry from scratch.
 
-Vehicles created with this book are completely compatible with those found in the Traveller Core Rulebook and they utilise the same rules for travel and combat. The only difference is that vehicles created with this book are your vehicles, unique to your universe. With just a little practice, you will be able to create small and basic vehicles (such as a ground car or grav-bike) in just a minute or so, allowing you to quickly create vehicles almost on the fly during a game. However, even a large, multi-turreted super-heavy battle tank will not take much longer than five minutes’ work.
+Vehicles created with this book are completely compatible with those found in the Traveller Core Rulebook and they utilise the same rules for travel and combat. The only difference is that vehicles created with this book are your vehicles, unique to your universe. With just a little practice, you will be able to create small and basic vehicles (such as a ground car or grav-bike) in just a minute or so, allowing you to quickly create vehicles almost on the fly during a game. However, even a large, multi-turreted super-heavy battle tank will not take much longer than five minutes' work.
 
-The key to this is that the design system focuses on the final performance of a vehicle, rather than all of its individual components. You will not find complicated charts of different engines, reactors and other power systems, cross-referenced with a vehicle’s mass and aerodynamic performance. At the end of the day, whether a vehicle is propelled by steam or a fusion reactor driving gravitic thrusters is completely up to you. What is important, as far as its design is concerned, is how fast it can go and what it can carry as it travels.
+The key to this is that the design system focuses on the final performance of a vehicle, rather than all of its individual components. You will not find complicated charts of different engines, reactors and other power systems, cross-referenced with a vehicle's mass and aerodynamic performance. At the end of the day, whether a vehicle is propelled by steam or a fusion reactor driving gravitic thrusters is completely up to you. What is important, as far as its design is concerned, is how fast it can go and what it can carry as it travels.
 
 The entire vehicle design sequence is a simple step-by- step process that we will walk you through, allowing you to choose basic designs and then modify them to fit into your universe.
 
@@ -36,16 +36,16 @@ Referees are free to ignore this rule if they wish to avoid the book keeping, bu
 SENSORS AND DETECTION
 Vehicles have access to a variety of systems to detect objects in their vicinity, from eyes and headlights to radar, lidar and densitometers (see page 54 for vehicle sensors).
 
-The type of sensors a vehicle is equipped with will define their Range and any bonus to checks made to detect objects. These checks will use the Electronics (sensors) skill, though vehicles lacking even basic sensors will instead be reliant on a Traveller’s Recon checks.
+The type of sensors a vehicle is equipped with will define their Range and any bonus to checks made to detect objects. These checks will use the Electronics (sensors) skill, though vehicles lacking even basic sensors will instead be reliant on a Traveller's Recon checks.
 
-To detect any given object that is within Range of a vehicle’s sensors requires an Average (8+) Electronics
+To detect any given object that is within Range of a vehicle's sensors requires an Average (8+) Electronics
 (sensors) check (1D seconds, INT).
 
 #### Range
 
 If the object is within half this Range, DM+2 is applied, and if it is within a quarter of this Range, DM+4 is applied.
 
-Size Larger vehicles are always easier to detect, whether advanced sensors or a Traveller’s own eyesight are used. For every full 25 Spaces a vehicle has, DM+1 is applied to checks made to detect it.
+Size Larger vehicles are always easier to detect, whether advanced sensors or a Traveller's own eyesight are used. For every full 25 Spaces a vehicle has, DM+1 is applied to checks made to detect it.
 
 Hiding If the object is hidden from view, DM-2 is applied and the referee may rule that the sensors are unable to detect it at all (in general, if there is no line of sight, sensors of TL10 or less will be unable to detect it).
 
@@ -55,7 +55,7 @@ Shipping Large Vehicles
 It is more efficient to ship a single large vehicle than several smaller ones. Vehicles over 30 Shipping Tons can halve this value, to a minimum of 30 tons.
 
 Towing
-Most vehicles are capable of towing heavy loads, usually a form of trailer or, in an emergency, other vehicles. All checks using a vehicle’s Agility suffer DM-2 while it is towing. Its Speed is reduced by one band for every 25% of its Spaces (or 25% of its Spaces multiplied 250 kg) it is towing, or part of.
+Most vehicles are capable of towing heavy loads, usually a form of trailer or, in an emergency, other vehicles. All checks using a vehicle's Agility suffer DM-2 while it is towing. Its Speed is reduced by one band for every 25% of its Spaces (or 25% of its Spaces multiplied 250 kg) it is towing, or part of.
 
 Used Vehicles
 Buying second-hand vehicles is a time-honored process, and Travellers short of a few credits might try their luck on the used market.
@@ -71,18 +71,18 @@ However, cynical Travellers will well know that one can never be absolutely sure
 2D Quirk
 2 Bad Luck
 The vehicle seems cursed – the referee is free to impose a Bane on any important skill checks when using the vehicle.
-3 What a Piece of Junk: There is something about this vehicle’s proportions or assembly that just does not seem right. When placed next to another, similar vehicle, it will look cheap, ugly, ridiculous, or all three.
-4 Concealed Compartment: The vehicle has a concealed compartment somewhere within its hull, allowing items to be hidden. 5 Gutless: The vehicle’s motive systems have seen better days. Reduce Speed by one Band.
+3 What a Piece of Junk: There is something about this vehicle's proportions or assembly that just does not seem right. When placed next to another, similar vehicle, it will look cheap, ugly, ridiculous, or all three.
+4 Concealed Compartment: The vehicle has a concealed compartment somewhere within its hull, allowing items to be hidden. 5 Gutless: The vehicle's motive systems have seen better days. Reduce Speed by one Band.
 6 Sloppy Controls
 The control systems have far too much play in them. Apply DM-1 to any Drive, Flyer, or Seafarer checks. 7 Poor Fuel Economy: The vehicle is nowhere near as efficient as when it was new. Range is reduced by 10%.
 
 8 Faulty Sensors
-Every time the vehicle’s sensors are used, roll 1D. On 6+, they impose DM-4 to the check.
+Every time the vehicle's sensors are used, roll 1D. On 6+, they impose DM-4 to the check.
 
 9 Boy Racer
-The previous owner liked to... ‘improve’ his vehicles. Increase Speed by one Band but generate D3 more quirks.
+The previous owner liked to... 'improve' his vehicles. Increase Speed by one Band but generate D3 more quirks.
 10 Difficult to Modify: Any new customization performed on the vehicle costs twice as much.
-11 What is That Smell?: The vehicle’s interior smells disgusting, and no amount of searching seems to pinpoint its source. 12 Jalopy: The vehicle seems decidedly unsafe. Reduce its Hull by 1D x 10%,
+11 What is That Smell?: The vehicle's interior smells disgusting, and no amount of searching seems to pinpoint its source. 12 Jalopy: The vehicle seems decidedly unsafe. Reduce its Hull by 1D x 10%,
 
 VEHICLE TRAITS
 Many vehicles have specific traits which grant them special abilities or penalise them in some way.
@@ -124,7 +124,7 @@ Throughout the design process, you will keep track of two key numbers – the nu
 Unless the referee states otherwise, it can be assumed that the Tech Level of the vehicle and its components will be the same as the system in which it is being constructed. However, you may always install components of a lower Tech Level if you wish, perhaps in an effort to cut costs.
 
 MASS PRODUCTION
-Some vehicles are manufactured in numbers of thousands or even millions, and have become standard across the stars. Specifications for such vehicles are freely available and components can be purchased in bulk by factories, greatly reducing the cost of the vehicle’s construction.
+Some vehicles are manufactured in numbers of thousands or even millions, and have become standard across the stars. Specifications for such vehicles are freely available and components can be purchased in bulk by factories, greatly reducing the cost of the vehicle's construction.
 
 A referee can choose to classify a vehicle as being mass-produced and is free to round its cost down to the nearest Cr1000, Cr10000 or Cr100000, as he deems appropriate.
 
@@ -137,7 +137,7 @@ Chassis Type Simply select a suitable chassis from the Core Chassis Types chapte
 
 ### Step 2
 
-Spaces and Base Characteristics Using the information detailed within the chassis type you have selected in the previous step, select the number of Spaces the vehicle will have – this will govern its ultimate size. Using the number of Spaces you have chosen and the Tech Level of the vehicle, you will then be able to determine the vehicle’s current cost and Hull, as well as its Speed, Range, and Agility. Any chassis-specific modifications are added at this point.
+Spaces and Base Characteristics Using the information detailed within the chassis type you have selected in the previous step, select the number of Spaces the vehicle will have – this will govern its ultimate size. Using the number of Spaces you have chosen and the Tech Level of the vehicle, you will then be able to determine the vehicle's current cost and Hull, as well as its Speed, Range, and Agility. Any chassis-specific modifications are added at this point.
 
 ### Step 3
 
@@ -145,22 +145,22 @@ Weapons and Armor If your vehicle is going to face combat, now is the time to eq
 
 ### Step 4
 
-Customization Further modifications to the vehicle can be found in the Customization chapter, starting on page 46. The modifications here will allow you to tweak the vehicle’s performance and add new items of equipment.
+Customization Further modifications to the vehicle can be found in the Customization chapter, starting on page 46. The modifications here will allow you to tweak the vehicle's performance and add new items of equipment.
 
 Design Checklist
 
 **1. Choose a Chassis Type (page 13) and Tech Level.**
 **2. Select the number of Spaces the**
 **vehicle will have and determine the**
-**vehicle’s base Agility, Speed, Range,**
+**vehicle's base Agility, Speed, Range,**
 **Hull and Cost.**
 **3. Install any**
 **weapons and**
-**armor (page 34). 4. Apply any Customization (page 46) and determine any change to the vehicle’s Agility, Speed, Range, Hull and Cost. 5. Determine Crew and Passengers
+**armor (page 34). 4. Apply any Customization (page 46) and determine any change to the vehicle's Agility, Speed, Range, Hull and Cost. 5. Determine Crew and Passengers
 (page 6). 6. Allocate Cargo Space (page 6). 7. Finalise Design
 (page 6).**
 
-Note that all fractions (such as when a modification consumes 25% of a vehicle’s Spaces) are rounded up at this stage. All adjustments like this based on percentages are calculated using the vehicle’s starting values.
+Note that all fractions (such as when a modification consumes 25% of a vehicle's Spaces) are rounded up at this stage. All adjustments like this based on percentages are calculated using the vehicle's starting values.
 
 So, for example, a 100 Space vehicle that has its Range increased twice (see page 46) will lose 20% of its Spaces, leaving it with 80 Spaces (you do not deduct 10% once, and then 10% again, which would result it being left with 81 Spaces).
 
@@ -177,7 +177,7 @@ If 2 Spaces are dedicated to each passenger or crew member, things will be extre
 
 There is no limit as to how many Spaces can be dedicated per passenger or crew member, and as many passengers as wished can be included in the vehicle for no cost other than the Spaces dedicated to them.
 
-Alien Crew and Passengers Many alien species can cope with vehicles designed for human occupants with a little adjustment, but larger aliens require special facilities for any kind of extended use. Hivers require 50% more Spaces allocated to them, while K’kree require double the amount.
+Alien Crew and Passengers Many alien species can cope with vehicles designed for human occupants with a little adjustment, but larger aliens require special facilities for any kind of extended use. Hivers require 50% more Spaces allocated to them, while K'kree require double the amount.
 
 ### Step 6
 
@@ -185,21 +185,21 @@ Cargo Space Any Spaces remaining after customization and crew/ passengers is all
 
 Referee Fiat While you can go a long, long way designing vehicles with the rules presented in this book, creating everything from unicycles to advanced hypersonic airliners capable of traversing alien atmospheres, the Vehicle Handbook is not intended as a hard set of mechanics. Rather, it is a toolkit to provide referees and Travellers with a framework with which to create their designs, rather than limit them.
 
-The referee, therefore, is always free to ‘jiggle’ things and smooth out any rough edges in order to create the vehicles he wants to see in his setting. We have intentionally put a lot of ‘fuzziness’ into the design system (such as with the space allocated to passengers and the Speed Bands) to make this easier but if the referee wishes to go further... he has our blessing!
+The referee, therefore, is always free to 'jiggle' things and smooth out any rough edges in order to create the vehicles he wants to see in his setting. We have intentionally put a lot of 'fuzziness' into the design system (such as with the space allocated to passengers and the Speed Bands) to make this easier but if the referee wishes to go further... he has our blessing!
 
-If, for example, you want to create a helicopter that has a special fuselage that is shaped to float on water, don’t feel you need to add the Floats option. You are free to say that ability is part of the vehicle’s natural design. If you want to build a large vehicle that can nonetheless fit inside the cargo hold of a Subsidised Merchant, again, simply tweak the Shipping Size of your final design.
+If, for example, you want to create a helicopter that has a special fuselage that is shaped to float on water, don't feel you need to add the Floats option. You are free to say that ability is part of the vehicle's natural design. If you want to build a large vehicle that can nonetheless fit inside the cargo hold of a Subsidized Merchant, again, simply tweak the Shipping Size of your final design.
 
 The Golden Rule is that the final designs must fit into the universe you have created. It is perfectly acceptable to adjust any characteristics of a vehicle in order to do so.
 
 ### Step 7
 
-Finalise Design Once the previous steps are complete, your vehicle is almost ready to take to the streets, wilderness, seas or sky! Record all of the vehicle’s characteristics and cost, along with any modifications, equipment or Traits it has acquired along the way.
+Finalise Design Once the previous steps are complete, your vehicle is almost ready to take to the streets, wilderness, seas or sky! Record all of the vehicle's characteristics and cost, along with any modifications, equipment or Traits it has acquired along the way.
 
-The Speed and Range of the vehicle determines its maximum performance but this is rarely used in day- to-day operation. Instead, it is usually more useful to record a vehicle’s Cruising performance.
+The Speed and Range of the vehicle determines its maximum performance but this is rarely used in day- to-day operation. Instead, it is usually more useful to record a vehicle's Cruising performance.
 
-A vehicle’s Cruise Speed is one Speed Band lower than its maximum (so, for example, a vehicle capable of Fast speed would travel at High speed when cruising).
+A vehicle's Cruise Speed is one Speed Band lower than its maximum (so, for example, a vehicle capable of Fast speed would travel at High speed when cruising).
 
-A vehicle’s Cruise Range is 50% greater than its usual maximum (so, a vehicle with Range 150 would have Range 225 when cruising).
+A vehicle's Cruise Range is 50% greater than its usual maximum (so, a vehicle with Range 150 would have Range 225 when cruising).
 
 After this last step is completed, you are ready to name your vehicle, grab the keys, and take it out for a trial run!
 
@@ -245,7 +245,7 @@ Step 2:
 
 TRAITS
 
-Now we have to decide how big the vehicle should be. As we said before, we want it to carry four Travellers, so that will need 4 Spaces. A weapon was wanted and, to stop the gun nut among them going too mad, this will be restricted to a single Space. Some cargo-carrying capacity is going to be useful (and can always be used by customization at a late date). Half a ton of cargo will equate to 2 Spaces, bringing up the total to 7 Spaces. We’ll add one more Space, just to be on the safe side, as this will allow us to add something fun a bit later.
+Now we have to decide how big the vehicle should be. As we said before, we want it to carry four Travellers, so that will need 4 Spaces. A weapon was wanted and, to stop the gun nut among them going too mad, this will be restricted to a single Space. Some cargo-carrying capacity is going to be useful (and can always be used by customization at a late date). Half a ton of cargo will equate to 2 Spaces, bringing up the total to 7 Spaces. We'll add one more Space, just to be on the safe side, as this will allow us to add something fun a bit later.
 
 Consulting page 14 once more, an 8 Space Light Ground Vehicle will normally cost Cr750 per Space, but
 
@@ -273,7 +273,7 @@ PROTECTION
 
 Turning to page 34, we can see what armor the vehicle comes with. At TL12, it starts off with 4 points of Protection on all sides, a good place to begin. However, believing they will be shot at from time to time, the Travellers decide to double this to 8 points of Protection.
 
-Consulting the Vehicle Armor table on page 34, we can see that every extra point of Protection above 4 will consume 0.4% of the vehicle’s total Spaces and add 0.5% to its cost. So, if we want to add an additional 4 points of Protection to bring it up to 8 points total, this extra armor will consume 1.6% of its Spaces and increase the vehicles Cost per Space by 2%.
+Consulting the Vehicle Armor table on page 34, we can see that every extra point of Protection above 4 will consume 0.4% of the vehicle's total Spaces and add 0.5% to its cost. So, if we want to add an additional 4 points of Protection to bring it up to 8 points total, this extra armor will consume 1.6% of its Spaces and increase the vehicles Cost per Space by 2%.
 
 So, on an 8 Space vehicle, a single Space is consumed by the extra armor (rounding up to the next full Space), and its cost per Space goes from Cr850 to Cr867 (for a total of Cr6936).
 
@@ -287,10 +287,10 @@ Step 5
 
 WEAPONRY AND SPACE
 
-The Travellers want a gun on their vehicle. A nice, meaty one. This will, naturally, start a lot of debate between them but we’ll skip to the end of the arguments. They will settle on the Light Autocannon
+The Travellers want a gun on their vehicle. A nice, meaty one. This will, naturally, start a lot of debate between them but we'll skip to the end of the arguments. They will settle on the Light Autocannon
 (see page 42), as it consumes just a single space, has the Auto 3 trait and kicks out 6D damage – what is there for a Traveller not to like?
 
-The autocannon is installed on a pintle mount on the top of the vehicle, so the Travellers can blast away at whatever they are chasing to their hearts’ content, and it only costs Cr250.
+The autocannon is installed on a pintle mount on the top of the vehicle, so the Travellers can blast away at whatever they are chasing to their hearts' content, and it only costs Cr250.
 
 Including the mount, this will add Cr10250 to the cost of the vehicle, bringing the running total up to Cr17186, and consumes another Space.
 
@@ -304,7 +304,7 @@ TURBO
 
 Mykel Alvis (Order #30209357)
 
-When mounting weapons, there is always the option to add fire control to help with its attack rolls (see page 45). However, the Travellers have just had the sticker shock of that autocannon and fire control can get very expensive, very quickly. So, they are swayed by the argument of the gun bunny among them who says they do not need fire control because his aiming skills are, quote, ‘wicked’.
+When mounting weapons, there is always the option to add fire control to help with its attack rolls (see page 45). However, the Travellers have just had the sticker shock of that autocannon and fire control can get very expensive, very quickly. So, they are swayed by the argument of the gun bunny among them who says they do not need fire control because his aiming skills are, quote, 'wicked'.
 
 Step 6
 
@@ -316,11 +316,11 @@ Thus far, the Travellers have spent Cr17186, and have just 2 Spaces left in thei
 
 They have pegged those 2 Spaces for transporting equipment, as it would give them half a ton of cargo Space (each unused Space can be converted into 0. tons of cargo space in any vehicle). However, who are we kidding, these are Travellers – giving them the Customization chapter on page 46 is like giving children the keys to a sweet shop and telling them to be sensible.
 
-The first thing they come across is the possibility of increasing the vehicle’s speed. However, this is very expensive and an argument breaks out between the Travellers which is only resolved when someone points out the vehicle can already exceed 200 mph, and the best driver among them only has Drive (wheel) 1. This proves convincing.
+The first thing they come across is the possibility of increasing the vehicle's speed. However, this is very expensive and an argument breaks out between the Travellers which is only resolved when someone points out the vehicle can already exceed 200 mph, and the best driver among them only has Drive (wheel) 1. This proves convincing.
 
-More customization options are considered, including Control Systems and Autopilots, but these are all quite expensive, and the Travellers have frankly already blown their budget by mounting that Cr10000 autocannnon on the vehicle’s roof.
+More customization options are considered, including Control Systems and Autopilots, but these are all quite expensive, and the Travellers have frankly already blown their budget by mounting that Cr10000 autocannnon on the vehicle's roof.
 
-That lasts right up until someone spots the Auxiliary Thrusters on page 48 and says something along the lines of ‘oh, wow, we can hop about, just like the Mako!’
+That lasts right up until someone spots the Auxiliary Thrusters on page 48 and says something along the lines of 'oh, wow, we can hop about, just like the Mako!'
 
 A minimal thruster system consumes a single Space
 (leaving the Travellers with just one, and they seem to have forgotten about carrying cargo...), and adds another Cr10000, for a total of Cr27186.
@@ -335,7 +335,7 @@ The Travellers do not add a Computer, as they figure they will always have their
 
 Finally, the Travellers make their way to the end of the Customization chapter, which we have called Creature Comforts and Utility. And yes, we put this part in specifically to part Travellers from their Credits.
 
-The first thing they add is a crane, though none of them can quite remember why, other than ‘it might be useful’. This costs another Cr1000 but, more to the point, consumes another Space, meaning the vehicle no longer has any room for cargo. The Travellers justify this by saying it is only intended for short journeys anyway, and they can carry their provisions and weapons on their laps as they drive.
+The first thing they add is a crane, though none of them can quite remember why, other than 'it might be useful'. This costs another Cr1000 but, more to the point, consumes another Space, meaning the vehicle no longer has any room for cargo. The Travellers justify this by saying it is only intended for short journeys anyway, and they can carry their provisions and weapons on their laps as they drive.
 
 TURBO
 
@@ -343,7 +343,7 @@ So, they now start scouring the Creature Comforts and Utility section for anythi
 
 Firstly, the Wet Bar. For a mere Cr2000, no journey will ever be a dry one. Frankly, you might consider this standard equipment for any Traveller-designed vehicle. Even the unmanned drones.
 
-Second, one Traveller spies the Ejection Seat, but he was not quiet about installing it in his crew position and, before anyone could say ‘how much?’ everyone had an Ejection Seat. That cost a mere Cr5000 per seat, for a total of Cr20000.
+Second, one Traveller spies the Ejection Seat, but he was not quiet about installing it in his crew position and, before anyone could say 'how much?' everyone had an Ejection Seat. That cost a mere Cr5000 per seat, for a total of Cr20000.
 
 Step 7
 
@@ -405,7 +405,7 @@ fast (high)
 
 CR
 
-Off-roader, Auxiliary Thrusters (10 metres), Communication System (advanced), Crane (light), Ejection Seats x 4, Wet Bar, Pintle Mount (light autocannon, front)
+Off-roader, Auxiliary Thrusters (10 meters), Communication System (advanced), Crane (light), Ejection Seats x 4, Wet Bar, Pintle Mount (light autocannon, front)
 
 ARMOR
 
@@ -514,7 +514,7 @@ Traits: Tracked
 - Do not apply this reduction if the vehicle is also an AFV.
 
 Tunneller
-By mounting large drills or other boring equipment to a Heavy Ground Vehicle, it can be turned into a tunnelling machine capable of moving through solid rock. While travelling through rock, it moves 10 metres per hour, multiplied by its Tech Level.
+By mounting large drills or other boring equipment to a Heavy Ground Vehicle, it can be turned into a tunnelling machine capable of moving through solid rock. While travelling through rock, it moves 10 meters per hour, multiplied by its Tech Level.
 
 ### Tech Level 7
 
@@ -563,7 +563,7 @@ Streamlined High performance grav vehicles can be designed with aerodynamic hull
 
 Cost per Space: +Cr Tech Table: Increase Speed by one band
 
-UNPOWERED VEHICLE These vehicles do not possess a motive system of their own and rely on the muscles of beasts of burden (as in the case of a cart or wagon) or their own crew (such as a rickshaw or bicycle). Clever mechanics can increase the speed of the vehicle beyond that of its occupants on foot, but if it is being pushed or pulled, it speed can never exceed that of the creatures’ own movement.
+UNPOWERED VEHICLE These vehicles do not possess a motive system of their own and rely on the muscles of beasts of burden (as in the case of a cart or wagon) or their own crew (such as a rickshaw or bicycle). Clever mechanics can increase the speed of the vehicle beyond that of its occupants on foot, but if it is being pushed or pulled, it speed can never exceed that of the creatures' own movement.
 
 ### Tech Level
 
@@ -597,7 +597,7 @@ Seafarer (personal) Agility: -2 Spaces: 5-50 Cost per Space: Cr2000 Hull: 2 per 
 
 Tech Table TL Speed Range 3 Idle 100 4-5 Very Slow 200 6-8 Slow 400 9-11 Slow 800 12+ Medium 1200
 
-Hydrofoil Hydrofoils attached to the underside of a boat’s hull allow it to rise out of the water when accelerating, reducing friction with the water and permitting greater speeds.
+Hydrofoil Hydrofoils attached to the underside of a boat's hull allow it to rise out of the water when accelerating, reducing friction with the water and permitting greater speeds.
 
 Cost per Space: +Cr4000 Tech Table: Increase Speed by one band
 
@@ -615,7 +615,7 @@ Tech Table TL Speed Range 4 Very Slow 2000 5-6 Very Slow 4000 7-8 Slow 6000 9-10
 
 #### Hydrofoil
 
-Hydrofoils attached to the underside of a ship’s hull allow it to rise out of the water when accelerating, reducing friction with the water and permitting greater speeds.
+Hydrofoils attached to the underside of a ship's hull allow it to rise out of the water when accelerating, reducing friction with the water and permitting greater speeds.
 
 Cost per Space: +Cr8000 Tech Table: Increase Speed by one band
 
@@ -625,15 +625,15 @@ LIGHT SUBMERSIBLE A submersible is a water-going craft that can submerge beneath
 
 ### 4 Skill
 
-Seafarer (submarine) Agility: -2 Spaces: 1-20 Cost per Space: Cr50000 Hull: 3 per Space Shipping: 0.5 tons per Space Traits: None Examples: Research craft, smuggler’s submersible, attack submarine
+Seafarer (submarine) Agility: -2 Spaces: 1-20 Cost per Space: Cr50000 Hull: 3 per Space Shipping: 0.5 tons per Space Traits: None Examples: Research craft, smuggler's submersible, attack submarine
 
 Submersibles have not only a Speed and Range, but also a Safe Depth (the depth to which they can usually dive), a Crush Depth (the depth to which they can go before being automatically destroyed) and Life Support (how many days a submersible can support its crew without resurfacing for air). All submersibles have the Life Support and Hostile Environment customizations (see page 55).
 
 Tech Table TL Speed Range Safe Depth Crush Depth Life Support 4-5 Idle 50 50 m 150 m 50 6-8 Very Slow 100 200 m 600 m 100 9-11 Slow 150 600 m 1800 m 200 12-14 Medium 200 2000 m 6000 m 400 15+ Medium 250 4000 m 12000 m Indefinite
 
-Increased Dive By increasing the submersible’s structural strength, it can be made to dive deeper without fear of being crushed by the surrounding water.
+Increased Dive By increasing the submersible's structural strength, it can be made to dive deeper without fear of being crushed by the surrounding water.
 
-For every 100% increase in the submersible’s Cost per Space, its Armor, Safe and Crush Depths are increased by 100%.
+For every 100% increase in the submersible's Cost per Space, its Armor, Safe and Crush Depths are increased by 100%.
 
 Supercavitating Drive While most submersibles are propelled by props or water jets, a supercavitating drive surrounds the craft with a
 
@@ -659,9 +659,9 @@ Submersibles have not only a Speed and Range, but also a Safe Depth (the depth t
 
 #### Increased Dive
 
-By increasing the submersible’s structural strength, it can be made to dive deeper without fear of being crushed by the surrounding water.
+By increasing the submersible's structural strength, it can be made to dive deeper without fear of being crushed by the surrounding water.
 
-For every 100% increase in the submersible’s Cost per Space, its Armor, Safe and Crush Depths are increased by 100%.
+For every 100% increase in the submersible's Cost per Space, its Armor, Safe and Crush Depths are increased by 100%.
 
 #### Supercavitating Drive
 
@@ -707,7 +707,7 @@ LIGHT AEROPLANE These are propeller-driven aircraft that rely on a fixed wing fo
 
 Flyer (wing) Agility: +1 Spaces: 1-10 Cost per Space: Cr15000 Hull: 1 per 2 Spaces Shipping: 0.5 tons per Space Traits: None Examples: Fighter, light aircraft
 
-**Take-off/Landing:** Light Aeroplanes typically require 2D x 100 metres to safely take-off or land.
+**Take-off/Landing:** Light Aeroplanes typically require 2D x 100 meters to safely take-off or land.
 
 Tech Table TL Speed Range 4 Medium 300 5-6 High 600 7-8 Fast 1,200 9-10 Fast 2,400 11+ Very Fast 4,800
 
@@ -743,7 +743,7 @@ HEAVY AEROPLANE From bombers and military transports, to airliners and cargo pla
 
 Flyer (wing) Agility: -2 Spaces: 10+ Cost per Space: Cr25000 Hull: 1 per 2 Spaces Shipping: 1 ton per Space Traits: None Examples: Airliner, cargo transport, bomber
 
-Take-off/Landing: Heavy Aeroplanes typically require 4D x 100 metres to safely take-off or land.
+Take-off/Landing: Heavy Aeroplanes typically require 4D x 100 meters to safely take-off or land.
 
 Tech Table TL Speed Range 4 Slow 1,000 5-6 Medium 2,000 7-8 High 3,000 9-10 Fast 4,000 11+ Very Fast 5,000
 
@@ -775,7 +775,7 @@ LIGHT JET The appearance of jet engines, from turbofans to scramjets and hydroge
 
 Flyer (wing) Agility: +1 Spaces: 2-20 Cost per Space: Cr50000 Hull: 1 per 3 Spaces Shipping: 1 ton per Space Traits: None Examples: Business jet, fighter
 
-**Take-off/Landing:** Light Jets typically require 3D x 100 metres to safely take-off or land.
+**Take-off/Landing:** Light Jets typically require 3D x 100 meters to safely take-off or land.
 
 Tech Table TL Speed Range 5 High 750 6-8 Fast 2000 9-11 Very Fast 4000 12+ Subsonic 7000
 
@@ -817,7 +817,7 @@ HEAVY JET Large jets become the pre-eminent way of moving both passengers and ca
 
 Flyer (wing) Agility: -2 Spaces: 20+ Cost per Space: Cr75000 Hull: 1 per 2 Spaces Shipping: 2 tons per Space Traits: None Examples: Airliner, cargo-lifter, bomber, airborne early warning
 
-Take-off/Landing: Heavy Jets typically require 5D x 100 metres to safely take-off or land.
+Take-off/Landing: Heavy Jets typically require 5D x 100 meters to safely take-off or land.
 
 Tech Table TL Speed Range 5 High 1000 6-8 Fast 4000 9-11 Very Fast 7000 12+ Subsonic 10000
 
@@ -879,7 +879,7 @@ Folding Rotors/Wings Helicopters can be designed with folding tail and rotor in 
 
 Cost per Space: +Cr2500 Shipping: -50%
 
-LIGHT WALKER Walkers use computer-controlled legs to literally walk, allowing them to negotiate difficult terrain that would be impassable to wheeled vehicles. They are noticeably larger than suits of powered armor or battle dress, with even small models requiring a Traveller to climb into them rather than ‘wearing’ them.
+LIGHT WALKER Walkers use computer-controlled legs to literally walk, allowing them to negotiate difficult terrain that would be impassable to wheeled vehicles. They are noticeably larger than suits of powered armor or battle dress, with even small models requiring a Traveller to climb into them rather than 'wearing' them.
 
 ### Tech Level
 
@@ -950,13 +950,13 @@ Turning a Hovercraft into an Armored Fighting Vehicle
 
 # ARMOR
 
-While civilian vehicles are rarely armored unless they are expected to endure in harsh, wilderness conditions, any vehicle intended to face combat is likely to have the best armor its design, Tech Level and budget can manage. An extra layer of armor may increase a vehicle’s cost but can make the difference between shrugging off an attack and being crippled by a single shot.
+While civilian vehicles are rarely armored unless they are expected to endure in harsh, wilderness conditions, any vehicle intended to face combat is likely to have the best armor its design, Tech Level and budget can manage. An extra layer of armor may increase a vehicle's cost but can make the difference between shrugging off an attack and being crippled by a single shot.
 
 The armor present on a vehicle and the maximum amount it can carry, is very much dependant on its Tech Level. Early vehicles require heavy iron or steel plating to give them any significant protection but lighter and more resilient materials become available as Tech Level increase.
 
 The Vehicle Armor table shows what armor Protection a vehicle begins with at the start of the design process, and the maximum amount this can be increased to.
 
-The cost of the armor is a percentage of the cost of the vehicle’s chassis per additional point of Protection. Spaces consumed is the amount of Spaces the armor will use per additional point of Protection. In all cases, round upwards.
+The cost of the armor is a percentage of the cost of the vehicle's chassis per additional point of Protection. Spaces consumed is the amount of Spaces the armor will use per additional point of Protection. In all cases, round upwards.
 
 #### Vehicle Armor
 
@@ -1020,7 +1020,7 @@ CHAPTER-FIVE
 
 THEVEHICLE HANDBOOK COLLECTION
 
-While most military vehicles will feature at least a ‘defensive’ weapon to keep attackers at bay, even civilian vehicles can benefit from a mounted machinegun or laser if they stray into dangerous territory. However, weapons cannot simply be plastered all over a vehicle as they require specific mounting points to function correctly.
+While most military vehicles will feature at least a 'defensive' weapon to keep attackers at bay, even civilian vehicles can benefit from a mounted machinegun or laser if they stray into dangerous territory. However, weapons cannot simply be plastered all over a vehicle as they require specific mounting points to function correctly.
 
 Before a weapon can be attached to a vehicle, a mount must be purchased and installed for it. The mounts available are listed here. Each has its own range of benefits and features, though not every mount is suitable for every weapon.
 
@@ -1042,7 +1042,7 @@ FIXED MOUNT A fixed mount is a rigid support for a weapon, with no ability to tr
 
 Fixed mounts have no additional cost and consume no extra Spaces (beyond the weapons they are mounting). However, it must be specified which arc they fire into from the vehicle, and once this is selected it cannot be changed.
 
-Fixed mounts may also be used to mount drones (see page 66) which can then be launched directly from the vehicle. This again consumes no Spaces but a vehicle may not mount drones that total more than 25% of the vehicle’s own total Spaces.
+Fixed mounts may also be used to mount drones (see page 66) which can then be launched directly from the vehicle. This again consumes no Spaces but a vehicle may not mount drones that total more than 25% of the vehicle's own total Spaces.
 
 PINTLE MOUNT/RING MOUNT A pintle mount is simply a post with the weapon fixed upon it while a ring mount is normally found near a hatch. A pintle mount allows the Traveller to pivot the weapon across an entire fire arc, while a ring mount can pivot into any arc, allowing the weapon to fire at targets that would not lie in front of a fixed mount. However, they do require a separate gunner to operate.
 
@@ -1078,23 +1078,23 @@ A small turret can hold up to 4 Spaces of weapons.
 
 LARGE TURRET A large turret can mount much bulkier weapons and has enough space within for crew to operate it.
 
-A large turret costs Cr25000 for every Space of installed weaponry, plus the cost of the weapons installed, and consumes four Spaces within the vehicle itself, plus one Space for each crewman the turret can contain (small turrets are effectively ‘bolted on’, while large turrets are considered to be integral parts of the vehicle).
+A large turret costs Cr25000 for every Space of installed weaponry, plus the cost of the weapons installed, and consumes four Spaces within the vehicle itself, plus one Space for each crewman the turret can contain (small turrets are effectively 'bolted on', while large turrets are considered to be integral parts of the vehicle).
 
 POP-UP MOUNT Any mount can be concealed within a vehicle until required. This is typically done in order to gain surprise on an enemy or to avoid cursory checks from discovering illegal weaponry.
 
 A pop-up mount consumes a number of Spaces equal to the original mount (minimum of 1 Space) and costs an additional Cr10000 per Space.
 
-MODULAR MOUNT Any mount can be made modular, allowing a variety of weapons to be fitted. This allows a vehicle to change its ‘mission profile’ and become effective against different enemies.
+MODULAR MOUNT Any mount can be made modular, allowing a variety of weapons to be fitted. This allows a vehicle to change its 'mission profile' and become effective against different enemies.
 
 A modular mount will increase the cost of a mount by an additional +50%.
 
 Changing a weapon on a modular amount requires a Routine (6+) Mechanics check (1D minutes, INT or EDU).
 
-The following weapons are specifically designed to be mounted on vehicles. Unless otherwise specified, all ranges are in kilometres.
+The following weapons are specifically designed to be mounted on vehicles. Unless otherwise specified, all ranges are in kilometers.
 
 #### BOLT THROWER
 
-At lower Tech Levels, this is effectively a giant crossbow, using either tension or torsion to fire heavy bolts the size of spears at enemy infantry and cavalry. As the technology becomes available, this is likely to be changed to compressed air. The listed range is in metres.
+At lower Tech Levels, this is effectively a giant crossbow, using either tension or torsion to fire heavy bolts the size of spears at enemy infantry and cavalry. As the technology becomes available, this is likely to be changed to compressed air. The listed range is in meters.
 
 Weapon TL Range Damage Tons Spaces Cost Magazine Magazine Cost Traits Bolt Thrower 1 200 4D 0.5 2 Cr2000 1 Cr25 AP 5
 
@@ -1120,7 +1120,7 @@ Weapon TL Range Damage Tons Spaces Cost Magazine Magazine Cost Traits Anti-Tank 
 
 05/80885
 
-The following weapons are specifically designed to be mounted on vehicles. Unless otherwise specified, all ranges are in kilometres.
+The following weapons are specifically designed to be mounted on vehicles. Unless otherwise specified, all ranges are in kilometers.
 
 ### SECTION 2
 
@@ -1130,7 +1130,7 @@ CANNON A large calibre gun used to arm the heavy tanks and armored vehicles of m
 
 Weapon TL Range Damage Tons Spaces Cost Magazine Magazine Cost Traits Cannon 8 2 1DD 2.5 10 Cr400000 30 Cr5000 Blast 10
 
-EARLY MACHINEGUN Once the principles of machineguns were understood, militaries were quick to adopt them. Design flaws and tendencies to jam were overcome, leaving a weapon that ruled the battlefield utterly. The listed range is in metres.
+EARLY MACHINEGUN Once the principles of machineguns were understood, militaries were quick to adopt them. Design flaws and tendencies to jam were overcome, leaving a weapon that ruled the battlefield utterly. The listed range is in meters.
 
 Weapon TL Range Damage Tons Spaces Cost Magazine Magazine Cost Traits Early Machinegun 4 400 3D 14 1 Cr1200 30 Cr100 Auto 3
 
@@ -1150,7 +1150,7 @@ Weapon TL Range Damage Tons Spaces Cost Magazine Magazine Cost Traits Fusion Gun
 
 05/78741
 
-GAUSS CANNON This weapon uses advanced electromagnetic (‘gauss’) propulsion to accelerate a metal dart to tremendous speed. The projectile is a lump of dense metal which damages the target using kinetic energy and the gauss cannon is capable of firing them rapidly.
+GAUSS CANNON This weapon uses advanced electromagnetic ('gauss') propulsion to accelerate a metal dart to tremendous speed. The projectile is a lump of dense metal which damages the target using kinetic energy and the gauss cannon is capable of firing them rapidly.
 
 Weapon TL Range Damage Tons Spaces Cost Magazine Magazine Cost Traits Gauss Cannon 12 2 1DD 1 4 Cr100000 200 Cr1000 AP 10, Auto 3
 
@@ -1190,7 +1190,7 @@ Weapon TL Range Damage Tons Spaces Cost Magazine Magazine Cost Traits Long Range
 
 05/86432
 
-MEDIUM BOMB When a small bomb just won’t do, this weapon will ensure the destruction of even heavily armored targets.
+MEDIUM BOMB When a small bomb just won't do, this weapon will ensure the destruction of even heavily armored targets.
 
 Weapon TL Range Damage Tons Spaces Cost Magazine Magazine Cost Traits Medium Bomb 4 - 2DD 0.5 2 Cr4000 1 - AP 25, Blast 25, One Use
 
@@ -1227,7 +1227,7 @@ Effectively an underwater missile, torpedoes are large and unwieldy weapons when
 Weapon TL Range Damage Tons Spaces Cost Magazine Magazine Cost Traits
 
 Torpedo (^41) 1DD 0.5 (^2) Cr3000 1 - AP 10, One Use, Smart Torpedo 5 5 3DD 0.5 2 Cr5000 1 - AP 30, One Use, Smart Torpedo^850 5DD 0.5^2 Cr12000^1 - AP 50, One Use, Smart
-**05/86432 WATER CANNON** These ‘weapons’ are used for fire suppression, riot control and dispersal of chemicals. Any Traveller struck by a water cannon must pass a Difficult (10+) STR check or be knocked prone and rendered helpless for a round. A water cannon’s _magazine_ is dependent upon how much water it has access to. Every extra Space dedicated to the water cannon increases its magazine size by 10.
+**05/86432 WATER CANNON** These 'weapons' are used for fire suppression, riot control and dispersal of chemicals. Any Traveller struck by a water cannon must pass a Difficult (10+) STR check or be knocked prone and rendered helpless for a round. A water cannon's _magazine_ is dependent upon how much water it has access to. Every extra Space dedicated to the water cannon increases its magazine size by 10.
 
 #### Weapon TL Range Damage Tons Spaces Cost Magazine Magazine Cost Traits
 
@@ -1279,7 +1279,7 @@ OFFENSIVE CUSTOMISATION
 
 Vehicles are capable of carrying a great deal of ammunition for their weapons, allowing them to operate for extended periods in the field without a constant requirement to rearm.
 
-Each Space set aside for ammunition allows an extra magazine (as defined by the weapon’s own entry) to be directly attached to a weapon, allowing it to be used without the need to reload. These Spaces have no cost other than the ammunition that fills them.
+Each Space set aside for ammunition allows an extra magazine (as defined by the weapon's own entry) to be directly attached to a weapon, allowing it to be used without the need to reload. These Spaces have no cost other than the ammunition that fills them.
 
 Weapons of less than 1 ton in mass may have up to ten extra magazines for every Space dedicated to ammunition in this way.
 
@@ -1287,7 +1287,7 @@ Ammunition may also be carried within any spare cargo space, but this will requi
 
 #### FIRE CONTROL
 
-The use of fire control systems allows weapons to be targeted far more accurately. This can range from simple gyrostabilization to laser-rangefinders and integration of the vehicle’s own advanced sensor arrays to the weapon systems. However, due to their cost and complexity, fire control systems are normally fitted only to a vehicle’s primary weapons.
+The use of fire control systems allows weapons to be targeted far more accurately. This can range from simple gyrostabilization to laser-rangefinders and integration of the vehicle's own advanced sensor arrays to the weapon systems. However, due to their cost and complexity, fire control systems are normally fitted only to a vehicle's primary weapons.
 
 All fire control systems grant the Scope trait to the weapon they are attached to (see page 133 of the Traveller Core Rulebook).
 
@@ -1344,11 +1344,11 @@ TL4
 
 TL10
 
-CONTROL SYSTEMS Enhanced control systems can be installed within a vehicle to increase its effective agility. This is usually achieved by the use of drive-by-wire or drive-by-light systems and heads up displays or, on more advanced vehicles, physical linkages that translate body movements or even thoughts into commands. They may also require substantial changes to a vehicle’s design in terms of aerodynamics, power source and motive systems.
+CONTROL SYSTEMS Enhanced control systems can be installed within a vehicle to increase its effective agility. This is usually achieved by the use of drive-by-wire or drive-by-light systems and heads up displays or, on more advanced vehicles, physical linkages that translate body movements or even thoughts into commands. They may also require substantial changes to a vehicle's design in terms of aerodynamics, power source and motive systems.
 
-Note that primitive control systems actually reduce a vehicle’s total cost, while basic control systems are assumed to be automatically included in every vehicle unless another option is chosen from this table.
+Note that primitive control systems actually reduce a vehicle's total cost, while basic control systems are assumed to be automatically included in every vehicle unless another option is chosen from this table.
 
-DRIVE SYSTEMS Every vehicle has its own way of moving, but alternative methods can be added to greatly increase a vehicle’s utility in the field.
+DRIVE SYSTEMS Every vehicle has its own way of moving, but alternative methods can be added to greatly increase a vehicle's utility in the field.
 
 #### CONTROL SYSTEMS
 
@@ -1371,14 +1371,14 @@ Light vehicles will have the same movement rates as boats
 
 Heavy vehicles will have the same movement rates as ships (see page 21) of the same TL, though their Agility while afloat will be one less and Range 10% of that of a boat.
 
-Aquatic drives add +50% to a vehicle’s Cost per Space.
+Aquatic drives add +50% to a vehicle's Cost per Space.
 
 AUXILIARY GRAV DRIVE Any vehicle can be fitted with an auxiliary grav drive, allowing it to fly for short distances.
 
 While flying, the vehicle will have its Agility reduced by
 -1, its Range halved, and Speed reduced by one band.
 
-Auxiliary Grav Drives add +100% to a vehicle’s Cost per Space and consume 25% of the vehicle’s total Spaces
+Auxiliary Grav Drives add +100% to a vehicle's Cost per Space and consume 25% of the vehicle's total Spaces
 (rounding up).
 
 #### TL4
@@ -1389,19 +1389,19 @@ TL9
 
 06/29861
 
-AUXILIARY THRUSTERS TL4 Any vehicle can be fitted with auxiliary thrusters, allowing it to ‘jump’ for short distances.
+AUXILIARY THRUSTERS TL4 Any vehicle can be fitted with auxiliary thrusters, allowing it to 'jump' for short distances.
 
 Instead of moving normally in a round, the vehicle can instead make a short jump.
 
-For every 5% (rounding up) of a vehicle’s total Spaces consumed by Auxiliary Thrusters, the vehicle will be able to make a vertical jump of 10 metres. Any forward momentum the vehicle had before jumping will be retained (allowing it to jump horizontally so long as it has had a run up). This will cost Cr10000 per Space.
+For every 5% (rounding up) of a vehicle's total Spaces consumed by Auxiliary Thrusters, the vehicle will be able to make a vertical jump of 10 meters. Any forward momentum the vehicle had before jumping will be retained (allowing it to jump horizontally so long as it has had a run up). This will cost Cr10000 per Space.
 
-GROUND DRIVE Many aerial vehicles will be equipped with a simple set of wheels that allow them to maneuver at an airport or spaceport. A ground drive, however, fully converts them into road-going vehicle. Due to the rigours of travel on the ground where collisions are far more frequent, this can be an extremely extensive conversion where the exterior of the vehicle actually ‘transforms’ between aerial and ground travel.
+GROUND DRIVE Many aerial vehicles will be equipped with a simple set of wheels that allow them to maneuver at an airport or spaceport. A ground drive, however, fully converts them into road-going vehicle. Due to the rigours of travel on the ground where collisions are far more frequent, this can be an extremely extensive conversion where the exterior of the vehicle actually 'transforms' between aerial and ground travel.
 
 Light vehicles will have the same movement rates as light ground vehicles (see page 14) of the same TL, though their Agility while on the ground will be one less and Range 50% of that of a light ground vehicle.
 
 Heavy vehicles will have the same movement rates as heavy ground vehicles (see page 15) of the same TL, though their Agility while on the ground will be one less and Range 50% of that of a heavy ground vehicle.
 
-Ground drives add +20% to a vehicle’s Cost per Space.
+Ground drives add +20% to a vehicle's Cost per Space.
 
 SMART WHEELS Smart wheels use short-raged sensors to constantly scan the ground ahead, and then reshape themselves to compensate. On rough terrain, smart wheels provide DM+1 to any Drive (wheel) checks made to negotiate adverse conditions, while on roads they increase the Range of a vehicle by 10%.
 
@@ -1423,7 +1423,7 @@ Vehicle Type TL Cost per Space Spaces Rail Rider 4 Cr5000 5% Ground Vehicle 8 Cr
 
 **06/98746 FISSION PLANT** This is a self-contained and (mostly) safe nuclear reactor that allows a vehicle to run for hugely extended periods of time.
 
-The Fission Plant table shows how much a reactor costs by Tech Level, how many Spaces it consumes as a percentage of a vehicle’s total number of Spaces, and how long a vehicle can run without refuelling. A fission plant requires a vehicle to possess the Hostile Environment customization (see page 55). In theory, a vehicle can be equipped with a fission plant without this protection but crew turnover will be much higher.
+The Fission Plant table shows how much a reactor costs by Tech Level, how many Spaces it consumes as a percentage of a vehicle's total number of Spaces, and how long a vehicle can run without refuelling. A fission plant requires a vehicle to possess the Hostile Environment customization (see page 55). In theory, a vehicle can be equipped with a fission plant without this protection but crew turnover will be much higher.
 
 Vehicle Type TL
 
@@ -1469,7 +1469,7 @@ However, decoy dispensers are completely ignored by Smart weapons that are of a 
 
 TL Spaces Cost Decoy Dispenser 5 1 Cr2500
 
-ELECTROSTATIC ARMOR This generates a powerful static field around a vehicle, vaporising any objects that come close. This field extends 1-5 metres from the vehicle’s exterior and is intended to vaporise shells and missiles before they strike the vehicle’s actual hull.
+ELECTROSTATIC ARMOR This generates a powerful static field around a vehicle, vaporising any objects that come close. This field extends 1-5 meters from the vehicle's exterior and is intended to vaporise shells and missiles before they strike the vehicle's actual hull.
 
 Electrostatic armor provides an additional amount of Protection equal to three times the TL of the vehicle it is installed within.
 
@@ -1477,7 +1477,7 @@ However, this Protection can only be applied to projectile weapons (such as bull
 
 A further drawback is that an active field is extremely harmful to Travellers and animals. Any living creature moving into the field will suffer 6D damage.
 
-Electrostatic armor consumes 10% of a vehicle’s total number of Spaces.
+Electrostatic armor consumes 10% of a vehicle's total number of Spaces.
 
 TL Cost Electrostatic Armor 9 Cr10000
 
@@ -1504,9 +1504,9 @@ TL Spaces Cost Prismatic Aerosol Discharger
 
 06/35614
 
-**06/45783 REACTIVE ARMOR** This is a set of small explosive charges positioned on critical areas of a vehicle’s exterior that automatically detonate when struck by a weapon.
+**06/45783 REACTIVE ARMOR** This is a set of small explosive charges positioned on critical areas of a vehicle's exterior that automatically detonate when struck by a weapon.
 
-This provides a bonus to the Protection of a vehicle’s armor, but it will degrade over successive hits as the explosives are expended. The bonus is reduced by -1 by each successful hit.
+This provides a bonus to the Protection of a vehicle's armor, but it will degrade over successive hits as the explosives are expended. The bonus is reduced by -1 by each successful hit.
 
 Reactive armor will provide no additional Protection against, and will be completely destroyed by, any hits from Destructive or Spacecraft scale weapons.
 
@@ -1547,7 +1547,7 @@ Tightbeam (TL8): This adds a separate mode for transmitting and receiving, utili
 
 06/97436
 
-COMPUTERS 06/65417 The addition of a computer in a vehicle can allow it to perform many different functions other than carrying its crew from one place to another. These computers are very similar to those Travellers may carry about their person but their integration into the vehicle’s existing systems brings an additional cost. Computers consume no Spaces on a vehicle.
+COMPUTERS 06/65417 The addition of a computer in a vehicle can allow it to perform many different functions other than carrying its crew from one place to another. These computers are very similar to those Travellers may carry about their person but their integration into the vehicle's existing systems brings an additional cost. Computers consume no Spaces on a vehicle.
 
 Any computer of TL8 or more can also act as a communications system if this is specified at purchase. This does not increase the cost of the computer.
 
@@ -1567,14 +1567,14 @@ Electronic Countermeasures TL Cost Range
 
 Electronics DM Basic 5 Cr10000 1 km - Improved 8 Cr20000 5 km -1 Advanced 11 Cr40000 25 km -2
 
-Interception and Encryption If a referee deems it possible for a Traveller to intercept a communications signal not intended for them, this may be done with an Average (8+) Electronics (comms) check (INT or EDU). However, intercepting a signal is one thing – if it is encrypted, uncovering the signal’s content may be very tricky.
+Interception and Encryption If a referee deems it possible for a Traveller to intercept a communications signal not intended for them, this may be done with an Average (8+) Electronics (comms) check (INT or EDU). However, intercepting a signal is one thing – if it is encrypted, uncovering the signal's content may be very tricky.
 
 To decrypt an encrypted signal requires a Formidable
-(14+) Electronics (comms) check (1D seconds), INT or EDU). For every TL the Traveller’s communication system is above that of the transmitting communications system, DM+1 is applied. However, for every TL their communications system is below, DM-1 is applied instead.
+(14+) Electronics (comms) check (1D seconds), INT or EDU). For every TL the Traveller's communication system is above that of the transmitting communications system, DM+1 is applied. However, for every TL their communications system is below, DM-1 is applied instead.
 
 This means high TL encrypted transmissions can be impossible to decrypt, even if a great deal of time can be spent trying to crack them.
 
-NAVIGATION SYSTEMS Navigation systems, fundamentally, allow the crew of a vehicle know where they are and what direction they need to go in. At their most basic, navigation systems may provide simple readings based on altitude and magnetic compasses, but they rapidly expand into fully functioning devices that draw information from installed databases, satellite transmissions and the vehicle’s own sensors to completely map out their immediate environment.
+NAVIGATION SYSTEMS Navigation systems, fundamentally, allow the crew of a vehicle know where they are and what direction they need to go in. At their most basic, navigation systems may provide simple readings based on altitude and magnetic compasses, but they rapidly expand into fully functioning devices that draw information from installed databases, satellite transmissions and the vehicle's own sensors to completely map out their immediate environment.
 
 The Navigation Systems table shows the range of navigation systems available, along with the DM they provide to Navigation checks
 
@@ -1590,7 +1590,7 @@ Book Your Design Consultation Today!
 
 ### SENSORS
 
-Most basic vehicles rely on a Traveller’s own eyes and ears to detect objects in their vicinity, aided only by a clear windscreen and headlights. However, as the Tech Level increases, sensors can become incredibly sophisticated even on relatively basic civilian vehicles.
+Most basic vehicles rely on a Traveller's own eyes and ears to detect objects in their vicinity, aided only by a clear windscreen and headlights. However, as the Tech Level increases, sensors can become incredibly sophisticated even on relatively basic civilian vehicles.
 
 Sensor Systems TL Cost Range
 
@@ -1621,7 +1621,7 @@ STEALTH AND CAMOUFLAGE Just as vehicle designers create ever more inventive and 
 
 ### CAMOUFLAGE
 
-Camouflage is designed to hide a vehicle from visual detection, usually through means of colour schemes that blend into specific environments or by breaking up a vehicle’s outline. This generally means it is only applied against Recon checks, though sensors that specifically use visual means of detection (including infrared) may be affected at the referee’s discretion.
+Camouflage is designed to hide a vehicle from visual detection, usually through means of colour schemes that blend into specific environments or by breaking up a vehicle's outline. This generally means it is only applied against Recon checks, though sensors that specifically use visual means of detection (including infrared) may be affected at the referee's discretion.
 
 Camouflage has a minimum Range at which it will work and will only apply in a specific type of environment
 (woodland, iron oxide desert, swamp, for example).
@@ -1652,7 +1652,7 @@ Minimum Range Detection DM Basic 1 Cr25 1 km -1 Improved 4 Cr100 0.5 km -2 Advan
 
 While camouflage helps a vehicle hide from visual detection, stealth allows it to evade detection by advanced sensors. As the TL of wars increases, stealth steadily becomes more important than camouflage – in short, camouflage will not help hide a vehicle from radar or more advanced sensors, while stealth will not hide a vehicle from the Mk1 eyeball. Stealth is achieved through passive means, mainly through the use of advanced materials and design, and cannot be used at the same time as electronic countermeasures (see page 52).
 
-Stealth applies a negative DM to Electronics (comms or sensors) checks equal to the difference between the vehicle’s TL and that of the device it is trying to evade.
+Stealth applies a negative DM to Electronics (comms or sensors) checks equal to the difference between the vehicle's TL and that of the device it is trying to evade.
 
 Stealth has no effect on devices of a higher TL, nor can it be combined with Electronic Countermeasures.
 
@@ -1695,7 +1695,7 @@ TL8 TL13
 LIFE SUPPORT Even if a vehicle is capable of surviving a hostile environment, there is no guarantee that its crew and passengers can. Life support systems provide a sealed environment within the vehicle and a breathable atmosphere independent to that outside.
 
 Short term life support systems provide this habitat for up to four days before air and filters need replacing
-(included as part of the vehicle’s regular maintenance costs). It consumes one Space for every 20 people (or part of) on board the vehicle).
+(included as part of the vehicle's regular maintenance costs). It consumes one Space for every 20 people (or part of) on board the vehicle).
 
 Long term life support operates for up to 90 days and consumes 1 Space for every 5 people on board.
 
@@ -1705,7 +1705,7 @@ VACUUM PROTECTION This seals the vehicle against vacuum, allowing crew and passe
 
 TL Spaces Cost per Space Vacuum Protection 6 - Cr10000
 
-CREATURE COMFORTS AND UTILITY The customization options in this section are rarely essential to most vehicles and the roles they are expected to perform. However, they may be vital for some specialized operations or, indeed, may simply be used to make the lives of the Traveller’s riding within them more comfortable or interesting.
+CREATURE COMFORTS AND UTILITY The customization options in this section are rarely essential to most vehicles and the roles they are expected to perform. However, they may be vital for some specialized operations or, indeed, may simply be used to make the lives of the Traveller's riding within them more comfortable or interesting.
 
 ATMOSPHERIC SAMPLER This is a system of collectors, pipes and filters used for atmospheric sampling, including particulates, taints and organic matter. An Electronics (sensors) check will be required to gain any useful information.
 
@@ -1715,7 +1715,7 @@ An atmospheric sampler consumes 3 Spaces and costs Cr10000.
 
 An autodoc is a small self-contained diagnostic, pharmaceutical, and surgical system about the size of a low berth chamber or large coffin. It is capable of diagnosing and treating disease, infection, injuries and other medical conditions as efficiently as a qualified doctor (treat as Medic 3).
 
-At TL14, an autodoc is capable of reanimation, provided no more than 2D minutes have passed since the Traveller’s death. This period can be doubled by extremely cold conditions or extended up to 1D days by placing the Traveller’s corpse in a low berth.
+At TL14, an autodoc is capable of reanimation, provided no more than 2D minutes have passed since the Traveller's death. This period can be doubled by extremely cold conditions or extended up to 1D days by placing the Traveller's corpse in a low berth.
 
 Item TL Spaces Cost Autodoc 13 2 Cr100000 Autodoc 14 2 MCr1
 
@@ -1741,11 +1741,11 @@ TL5
 
 #### COMMAND CENTRE
 
-Used in military, law enforcement and rescue vehicles, a command centre allows the effective monitoring and co-ordination of units in high stress operations. The command centre includes workstations and a large screen or holographic table for reports and displays. Up to two Travellers can use a command centre at any one time, and it can be increased in size, consuming 1 Space and costing Cr5000 for each extra Traveller. A command centre requires a vehicle to have at least TL8 communications systems and Improved Sensors.
+Used in military, law enforcement and rescue vehicles, a command center allows the effective monitoring and co-ordination of units in high stress operations. The command center includes workstations and a large screen or holographic table for reports and displays. Up to two Travellers can use a command center at any one time, and it can be increased in size, consuming 1 Space and costing Cr5000 for each extra Traveller. A command center requires a vehicle to have at least TL8 communications systems and Improved Sensors.
 
 Item TL Spaces Cost Command Centre 9 4 Cr75000
 
-CRANE A crane is a gantry that can be folded to lie flush in line with the vehicle’s chassis or within it. Fitted with lifting equipment, cranes are used to move heavy loads within reach of the vehicle.
+CRANE A crane is a gantry that can be folded to lie flush in line with the vehicle's chassis or within it. Fitted with lifting equipment, cranes are used to move heavy loads within reach of the vehicle.
 
 Crane TL
 
@@ -1753,7 +1753,7 @@ Maximum Load Spaces Cost Light 1 400 kg 1 Cr1000 Medium 4 2 tons 4 Cr5000 Heavy 
 
 #### CRYOBERTH
 
-A cryoberth, or ‘icebox’ is a coffin-like machine similar to the low or frozen berths used on spacecraft. The main difference is that a cryoberth works much faster than a low berth, freezing and preserving its occupant almost instantly. A cryoberth can therefore be used to place a severely injured Traveller into stasis until he receives medical treatment. A cryoberth’s internal power system can function for up to one week on its own batteries, but a berth is usually connected to the vehicle’s power supply.
+A cryoberth, or 'icebox' is a coffin-like machine similar to the low or frozen berths used on spacecraft. The main difference is that a cryoberth works much faster than a low berth, freezing and preserving its occupant almost instantly. A cryoberth can therefore be used to place a severely injured Traveller into stasis until he receives medical treatment. A cryoberth's internal power system can function for up to one week on its own batteries, but a berth is usually connected to the vehicle's power supply.
 
 Item TL Spaces Cost Cryoberth 10 1 Cr50000
 
@@ -1763,7 +1763,7 @@ A cutting tool consumes 5 Spaces and costs Cr10000.
 
 #### DIGGER BLADE
 
-This is a large external blade used for digging and scooping, utilising the vehicle’s mass and power to move far greater quantities of material than would be possible by a Traveller alone.
+This is a large external blade used for digging and scooping, utilising the vehicle's mass and power to move far greater quantities of material than would be possible by a Traveller alone.
 
 A digger blade consumes 10 Spaces and costs Cr25000.
 
@@ -1774,7 +1774,7 @@ An ejection cocoon consumes 3 Spaces for each crew member and costs Cr10000 per 
 #### EJECTION SEAT
 
 Ejection seats are designed to blast a Traveller clear of a vehicle in demise, then deploy a parachute to bring him safely to the ground. An ejection seat can be triggered as a reaction, but those of TL6 or below require the vehicle
-(usually an aircraft) to be at an altitude of at least 500 metres. High TL ejection seats use grav chutes to bring the Traveller to rest.
+(usually an aircraft) to be at an altitude of at least 500 meters. High TL ejection seats use grav chutes to bring the Traveller to rest.
 
 An ejection seat consumes no Spaces and costs Cr5000.
 
@@ -1816,7 +1816,7 @@ GENERAL PURPOSE LABORATORY This laboratory provides no bonuses to scientific che
 
 A general purpose laboratory consumes 2 Spaces per Traveller using it and cost Cr5000 per Space.
 
-GEOLOGICAL SAMPLER This is an array of scooping devices designed for shallow ground testing, along with a hollow-core drills capable of drilling down one kilometre. An Electronics (sensors) check will be required to gain any useful information.
+GEOLOGICAL SAMPLER This is an array of scooping devices designed for shallow ground testing, along with a hollow-core drills capable of drilling down one kilometer. An Electronics (sensors) check will be required to gain any useful information.
 
 A geological sampler consumes 15 Spaces and costs Cr100000.
 
@@ -1908,7 +1908,7 @@ Similar to the stateroom on board spacecraft (though without many of the advance
 
 A stateroom consumes 10 Spaces and costs Cr100000.
 
-WET BAR This is a basic wet bar, usually species-specific and tailored to the tastes of the vehicle’s owner.
+WET BAR This is a basic wet bar, usually species-specific and tailored to the tastes of the vehicle's owner.
 
 A wet bar consumes no Spaces and costs Cr2000.
 
@@ -1938,7 +1938,7 @@ The idea of a vehicle that can repair itself, grow its own ammunition and be pow
 
 USING BIO-TECH Not every universe has or should have bio-technology capable of creating vehicles, and it is up to the referee whether he allows it on the worlds he creates. Bio- technology could be widespread and an accepted part of interstellar society, or it could be a lot rarer in some regions of the galaxy, with perhaps just one race of aliens capable of using it to any great degree. However, even in a galaxy where bio-technology is largely unknown, it can often be fun to throw a vehicle created with these rules at the Travellers, perhaps as a relic from a long past age or as a creation of a minor and relatively unknown alien race.
 
-This chapter assumes a ‘typical’ Traveller universe where bio-technology is fairly rare but possible.
+This chapter assumes a 'typical' Traveller universe where bio-technology is fairly rare but possible.
 
 A bio-tech vehicle under these circumstances requires a society of at least TL10. However, it will always be constructed and function as being two Tech Levels lower. So, for example, a TL10 world could create a bio-tech vehicle that would use a maximum of TL8 components.
 
@@ -1982,11 +1982,11 @@ BIO-TECH TRAITS The following traits are used for Bio-tech vehicles.
 
 ### Ectothermic
 
-This vehicle is ‘cold-blooded’. It increases its Range by 25% but reduces its Speed by one Band.
+This vehicle is 'cold-blooded'. It increases its Range by 25% but reduces its Speed by one Band.
 
 ### Endothermic
 
-This vehicle is ‘warm-blooded’ and grants DM+1 to any IR-based sensors that try to detect them.
+This vehicle is 'warm-blooded' and grants DM+1 to any IR-based sensors that try to detect them.
 
 ### Invertebrate
 
@@ -2041,7 +2041,7 @@ While this is entirely possible, it is rarely easy due to the fundamental differ
 
 When installing non-organic items into a bio-tech vehicle (or vice versa), quadruple all costs.
 
-BIO-TECH WEAPONRY While non-organic weapons can be mounted upon a bio-tech vehicle, dedicated bio-tech weapons not only have the advantage of direct compatibility, but are also either directly powered by the vehicle’s own systems or actually grow their own ammunition. This means that so long as the vehicle is kept refuelled, it will never run out of ammunition.
+BIO-TECH WEAPONRY While non-organic weapons can be mounted upon a bio-tech vehicle, dedicated bio-tech weapons not only have the advantage of direct compatibility, but are also either directly powered by the vehicle's own systems or actually grow their own ammunition. This means that so long as the vehicle is kept refuelled, it will never run out of ammunition.
 
 Bio-tech weapons will regrow any expended ammunition within a day.
 
@@ -2083,7 +2083,7 @@ SCYTHING CLAW This weapon takes the form of a massive claw that, by virtue of ma
 
 Weapon TL Range Damage Tons Spaces Cost Magazine Magazine Cost Traits Scything Claw 10 0 1DD 6 24 Cr280000 - - AP25
 
-SONIC SCREAMER Using sonic waves to inflict damage, the screamer is designed for use against Travellers and other bio-tech vehicles. While devastating against these ‘soft’ targets, the sonic screamer halves all damage against non- organic targets.
+SONIC SCREAMER Using sonic waves to inflict damage, the screamer is designed for use against Travellers and other bio-tech vehicles. While devastating against these 'soft' targets, the sonic screamer halves all damage against non- organic targets.
 
 Weapon TL Range Damage Tons Spaces Cost Magazine Magazine Cost Traits Sonic Screamer 11 1 8D 3.5 14 Cr150000 - - Blast 12
 
@@ -2095,7 +2095,7 @@ Repairs A damaged bio-tech vehicle can be repaired, though the different technol
 
 However, bio-tech vehicles have the advantage that they are capable of re-growing damaged areas and can effectively repairs themselves, given time.
 
-A bio-tech vehicle that has at least 1 Hit remaining will ‘regenerate’ 10 Hits and remove one critical hit per day. This takes place on top of any other repairs made by the vehicle’s crew.
+A bio-tech vehicle that has at least 1 Hit remaining will 'regenerate' 10 Hits and remove one critical hit per day. This takes place on top of any other repairs made by the vehicle's crew.
 
 #### SPORE MORTAR
 
@@ -2113,14 +2113,14 @@ A drone is any vehicle that has no Traveller as a pilot or driver. Drones can be
 
 Drones start off as being remotely controlled, usually through radio transmissions sent from a control system, but as they become more advanced, drones become more autonomous. As technologically races ahead, drones first become capable of interpreting and following instructions from their controller (such as finding the best route from point A to point B without constant attention from its controller) but quickly become increasingly sophisticated that they can act fully autonomously. At this point, drones are effectively intelligent robots, albeit ones built within the chassis or hull of a vehicle.
 
-BUILDING A DRONE At its heart, a drone is simply a vehicle that has no crew, using a drone ‘brain’ instead. Note that this does not mean it cannot carry passengers, just that no on- board control is necessary.
+BUILDING A DRONE At its heart, a drone is simply a vehicle that has no crew, using a drone 'brain' instead. Note that this does not mean it cannot carry passengers, just that no on- board control is necessary.
 
 To create a drone, follow all the normal vehicle design rules, as detailed on page 5. When you come to Step 5 on the Design Checklist, you can add passengers as normal but, instead of crew, use one of the control systems presented in this chapter.
 
 #### Remote Controllers
 
 A remote control system requires three components – a
-‘base station’ that includes a communication system through which a Traveller can control the drone, a communications system built into the drone so it can receive the command signals, and an actuation system on board the drone to make actual inputs to its controls
+'base station' that includes a communication system through which a Traveller can control the drone, a communications system built into the drone so it can receive the command signals, and an actuation system on board the drone to make actual inputs to its controls
 (such as steering the wheels in a car).
 
 ROBOT OR DRONE? The Central Supply Catalogue provides rules for creating robots in Traveller, and referees may find themselves questioning when they should be using robots and when they should be using drones to create new encounters in their games.
@@ -2154,7 +2154,7 @@ In order to receive signals from the control interface, the drone will need a co
 
 from the drone, such as video feeds or performance data) will have a range limited by the communications of the drone not the base station. It is perfectly possible for the drone to be within range of control but be out of range to send any information back.
 
-Actuation System An actuation system simply requires a direct link from the drone’s ‘brain’ to the physical controls of the vehicle. This is usually accomplished through the use of servos and remote linkages, though more advanced systems may replace any physical movement required with form-fitting muscle-like fibre structures.
+Actuation System An actuation system simply requires a direct link from the drone's 'brain' to the physical controls of the vehicle. This is usually accomplished through the use of servos and remote linkages, though more advanced systems may replace any physical movement required with form-fitting muscle-like fibre structures.
 
 The actuation system will consume 1 Space for every full 20 Spaces present within the vehicle (so a vehicle of less than 20 Spaces need not dedicate any room to an actuation system), at a cost of Cr1000 per Space used (to a minimum of Cr1000).
 
@@ -2326,7 +2326,7 @@ REAR 1
 
 SIDES 1
 
-This wind-powered vehicle is used on worlds with typically flat terrain and reliable winds. It is capable of traversing great distances with favourable winds but while a passenger can be carried, its cargo capacity while doing so is non-existent.
+This wind-powered vehicle is used on worlds with typically flat terrain and reliable winds. It is capable of traversing great distances with favorable winds but while a passenger can be carried, its cargo capacity while doing so is non-existent.
 
 DESCRIPTION
 
@@ -2340,7 +2340,7 @@ Wind-powered
 
 Pintle Mount (bolt thrower, front)
 
-A much larger version of the personal land yacht, this vehicle sports multiple sails, a full crew, and weapons. Raider’s land yachts are often found in the keeping of plains nomads, using them to constantly keep on the move while striking at small settlements and farms for food and supplies.
+A much larger version of the personal land yacht, this vehicle sports multiple sails, a full crew, and weapons. Raider's land yachts are often found in the keeping of plains nomads, using them to constantly keep on the move while striking at small settlements and farms for food and supplies.
 
 WEAPON RANGE DAMAGE MAGAZINE MAGAZINE COST TRAITS FIRE CONTROL Bolt Thrower 0.2 4D 1 Cr25 AP 5 -
 
@@ -2390,7 +2390,7 @@ CR4000
 
 ARMOR
 
-RAIDER’S LAND YACHT
+RAIDER'S LAND YACHT
 
 FRONT 1
 
@@ -3119,7 +3119,7 @@ REAR 2
 
 SIDES 2
 
-Small and agile (and it will seem fast if you are a passenger), the dune buggy is a two-person, quad- wheeled vehicle designed to traverse rough terrain at a rapid rate. Though primarily a recreational vehicle, the dune buggy also serves as a favourite of explorers and adventurers on worlds that have few stable roads.
+Small and agile (and it will seem fast if you are a passenger), the dune buggy is a two-person, quad- wheeled vehicle designed to traverse rough terrain at a rapid rate. Though primarily a recreational vehicle, the dune buggy also serves as a favorite of explorers and adventurers on worlds that have few stable roads.
 
 TRAITS
 
@@ -3412,7 +3412,7 @@ REAR 18
 
 SIDES 25
 
-The foundation of mechanised forces, armored personnel carriers are designed to take infantry into battle in relative safety. While they are considered ‘soft’ as armored vehicles go, and cannot withstand the attention of dedicated anti-tank weaponry, their hulls are proof against most small arms fire, allowing the squad inside to deploy close to the front line. Though it is not armed, the Humphead is tough and capable of traversing rivers and lakes.
+The foundation of mechanised forces, armored personnel carriers are designed to take infantry into battle in relative safety. While they are considered 'soft' as armored vehicles go, and cannot withstand the attention of dedicated anti-tank weaponry, their hulls are proof against most small arms fire, allowing the squad inside to deploy close to the front line. Though it is not armed, the Humphead is tough and capable of traversing rivers and lakes.
 
 TRAITS
 
@@ -3432,7 +3432,7 @@ No weapon
 
 Autopilot (skill level) 1 Communications (range) 50 km Navigation (Navigation DM) +1 Sensors (Electronics (sensors) DM) - Camouflage (Recon DM) - Stealth (Electronics (sensors) DM) -
 
-Intended as a short-ranged ferry, this hydrofoil is capable of transporting passengers or cargo at faster speeds than conventional boats. Fitted with foils below the waterline, the hydrofoil raises its hull out of the water when going at speed, greatly reducing drag and enabling it to go even faster. The passenger area can be converted to carry cargo, increasing the hydrofoil’s capacity to 5.5 tons.
+Intended as a short-ranged ferry, this hydrofoil is capable of transporting passengers or cargo at faster speeds than conventional boats. Fitted with foils below the waterline, the hydrofoil raises its hull out of the water when going at speed, greatly reducing drag and enabling it to go even faster. The passenger area can be converted to carry cargo, increasing the hydrofoil's capacity to 5.5 tons.
 
 FRONT 2
 
@@ -3774,7 +3774,7 @@ VERY SLOW (IDLE)
 
 CR760000
 
-aid in mining operations and the creation of subterranean settlements. The drilling mechanism mounted on its nose can be pivoted (albeit very slowly while working underground) up to 30 degrees in any direction, allowing complex tunnels to be created, given sufficient time and skill. The large cargo capacity of the Termite allows it to double as a transport vehicle capable of reaching the deepest locations in a planet’s crust.
+aid in mining operations and the creation of subterranean settlements. The drilling mechanism mounted on its nose can be pivoted (albeit very slowly while working underground) up to 30 degrees in any direction, allowing complex tunnels to be created, given sufficient time and skill. The large cargo capacity of the Termite allows it to double as a transport vehicle capable of reaching the deepest locations in a planet's crust.
 
 Communication System (basic), Life Support (short term), Navigation System (basic), Sensor System (basic)
 
@@ -3895,7 +3895,7 @@ CR946000
 
 Infantry Fighting Vehicle encountered on many frontier worlds, either in the hands of colony militaries or mercenary forces. Its basic design has been copied, and twins and near-twins of the Martinique are in service with many forces. The Martinique, like many military air cushion vehicles, is capable of short hops using high performance vectored thrusters, giving the vehicle a limited jump-jet capability that enables it to negotiate cliffs and similar obstructions.
 
-Auxiliary Thrusters (10 metres), Camouflage
+Auxiliary Thrusters (10 meters), Camouflage
 (improved), Communication System (improved, encrypted), Fire Extinguishers, Navigation System
 (improved), Sensor System (improved)
 
@@ -4128,7 +4128,7 @@ Communications System (improved) Manipulator Arms (improved) x 2
 
 No weapon
 
-A common sight around starports and loading bays, the cargo lifter stands around three metres high and is equipped with two heavy duty manipulator arms. The operator can use the strength of the cargo lifter to move containers and other heavy objects quickly and efficiently. A sealed version can be purchased for an extra Cr70000, which includes short term life support and vacuum protection, but this upgrade removes the small cargo space.
+A common sight around starports and loading bays, the cargo lifter stands around three meters high and is equipped with two heavy duty manipulator arms. The operator can use the strength of the cargo lifter to move containers and other heavy objects quickly and efficiently. A sealed version can be purchased for an extra Cr70000, which includes short term life support and vacuum protection, but this upgrade removes the small cargo space.
 
 CARGO LIFTER
 
@@ -5002,7 +5002,7 @@ SKYSTRIKE G/FIGHTER
 
 Fixed Mount (light laser cannon, improved fire control) Hardpoint (2 spaces, improved fire control) Hardpoint (2 spaces, improved fire control)
 
-As grav technology becomes prevalent, vehicles incorporate the new method of propulsion but their roles tend to stay the same, whether those roles are still relevant or not. The Skystrike is an example of an early gav vehicle designed to replace jet fighters, and it retains many of the same characteristics. Though primarily intended for air superiority, it is capable of a limited ground attack role. However, pilots will soon become aware that the Skystrike’s primary defence is its speed and agility, and not its all too thin composite skin.
+As grav technology becomes prevalent, vehicles incorporate the new method of propulsion but their roles tend to stay the same, whether those roles are still relevant or not. The Skystrike is an example of an early gav vehicle designed to replace jet fighters, and it retains many of the same characteristics. Though primarily intended for air superiority, it is capable of a limited ground attack role. However, pilots will soon become aware that the Skystrike's primary defence is its speed and agility, and not its all too thin composite skin.
 
 TRAITS EQUIPMENT
 
@@ -5019,7 +5019,7 @@ WEAPON RANGE DAMAGE MAGAZINE MAGAZINE COST TRAITS FIRE CONTROL Medium Autocannon
 Autopilot (improved), Camouflage (improved), Communication System (improved, increased range, satellite uplink, tightbeam), Computer/1, Decoy Dispenser, Electrostatic Armor, Entertainment System, Fire Extinguishers, Life Support (short term), Navigation System
 (improved), Prismatic Aerosol Discharger, Sensor System (improved), Smart Wheels, Wet Bar
 
-Popular among ostentatious mercenary units and ‘top heavy’ military forces, the Socrates is a well-appointed (bordering on luxurious) field car that nonetheless sports a wide range of capabilities and armor. Designed to transport a single VIP through contested areas, the Socrates is the ultimate in personal vehicles for officers.
+Popular among ostentatious mercenary units and 'top heavy' military forces, the Socrates is a well-appointed (bordering on luxurious) field car that nonetheless sports a wide range of capabilities and armor. Designed to transport a single VIP through contested areas, the Socrates is the ultimate in personal vehicles for officers.
 
 Off-Roader
 
@@ -5629,7 +5629,7 @@ TL SKILL AGILITY SPEED (CRUISE) RANGE (CRUISE) CREW PASSENGERS CARGO HULL SHIPPI
 
 28 7 TONS MCR2.75
 
-reconnaissance abilities (and thus not confining themselves to what their employer’s satellites tell them), the Birdseye is an effective sensor platform but can also function as an electronics warfare aircraft. While unarmed, it comes with a small hardpoint under each wing to allow external ordnance to be fitted. Piloted by two crewmen, the Birdseye operates best against less technologically equipped enemies who lack the ability to shoot it down.
+reconnaissance abilities (and thus not confining themselves to what their employer's satellites tell them), the Birdseye is an effective sensor platform but can also function as an electronics warfare aircraft. While unarmed, it comes with a small hardpoint under each wing to allow external ordnance to be fitted. Piloted by two crewmen, the Birdseye operates best against less technologically equipped enemies who lack the ability to shoot it down.
 
 None
 
@@ -5805,7 +5805,7 @@ Autopilot (skill level) 1 Communications
 
 CHAMELEON SCOUT WALKER
 
-Anti-Missile System (laser), Autopilot (improved), Auxiliary Thrusters (20 metres), Camouflage (advanced), Communication System (advanced, encrypted, tightbeam), Computer/3, Control System (advanced), Decoy Dispenser, ECM (advanced), Ejection Seat, Fire Extinguisher, Fusion Plant (advanced), Holo-Suite, Life Support (short term), Navigation System (improved), Sensor System (improved, hardened, increased fidelity, increased range, sensor mast), Stealth (improved), Vacuum Protection
+Anti-Missile System (laser), Autopilot (improved), Auxiliary Thrusters (20 meters), Camouflage (advanced), Communication System (advanced, encrypted, tightbeam), Computer/3, Control System (advanced), Decoy Dispenser, ECM (advanced), Ejection Seat, Fire Extinguisher, Fusion Plant (advanced), Holo-Suite, Life Support (short term), Navigation System (improved), Sensor System (improved, hardened, increased fidelity, increased range, sensor mast), Stealth (improved), Vacuum Protection
 
 the open battlefield, Chameleons can be seen on the far flanks, hoping not to get noticed by larger and more powerful vehicles, where they use their stealth to bypass defences and operate in groups to deliver hard-hitting assaults. Its fusion plant and energy-based weapons means its endurance in the field tends to be limited by its pilot and mechanical faults rather than fuel and ammunition.
 
@@ -5829,7 +5829,7 @@ PGMP
 
 ARMOR
 
-Using a heavy grav chassis, the Crusader is lightly armored compared to the likes of the Paladin, but its mass driver is capable of flinging shells over 40 kilometres, allowing a military force to position a vehicle or squadron far beyond the immediate combat area. From there, the Crusader can provide instant support to forward units, using its mass driver to obliterate opposition before quickly relocating to avoid counterbattery fire.
+Using a heavy grav chassis, the Crusader is lightly armored compared to the likes of the Paladin, but its mass driver is capable of flinging shells over 40 kilometers, allowing a military force to position a vehicle or squadron far beyond the immediate combat area. From there, the Crusader can provide instant support to forward units, using its mass driver to obliterate opposition before quickly relocating to avoid counterbattery fire.
 
 FRONT 70
 
@@ -5930,7 +5930,7 @@ REAR 4
 
 SIDES 4
 
-Much like its ground based predecessors, the G/bike' speed and size make it a favourite with many Travellers needing to make their own way around a strange planet. It is also the focus of many subcultures and gangs accross Charted Space.
+Much like its ground based predecessors, the G/bike' speed and size make it a favorite with many Travellers needing to make their own way around a strange planet. It is also the focus of many subcultures and gangs accross Charted Space.
 
 Communications System (improved), Navigation System (improved), Sensor System (improved)
 
@@ -6213,7 +6213,7 @@ Autocannon
 ARMOR
 
 The Hostile Environment Vehicle
-(HEV-12) is a tracked crawler well protected against environmental extremes. This fuel-cell-powered vehicle can operate in extremes from the depths of space to 300 metres under water. It is not capable of atmospheric flight, though it can make jumps of significant height and breadth with its auxiliary thrusters.
+(HEV-12) is a tracked crawler well protected against environmental extremes. This fuel-cell-powered vehicle can operate in extremes from the depths of space to 300 meters under water. It is not capable of atmospheric flight, though it can make jumps of significant height and breadth with its auxiliary thrusters.
 
 FRONT 30
 
@@ -6222,7 +6222,7 @@ REAR 30
 SIDES 30
 
 Airlock, Aquatic Drive, Autopilot (enhanced), Auxiliary Thrusters
-(40 metres), Bunk, Communication System (advanced, increased range, satellite uplink), Computer/3, Control System (improved), Fire Extinguisher, Fresher, Life Support (long term), Navigation System
+(40 meters), Bunk, Communication System (advanced, increased range, satellite uplink), Computer/3, Control System (improved), Fire Extinguisher, Fresher, Life Support (long term), Navigation System
 (improved), Prismatic Aerosol Discharger, Sensor System (improved), Sensor System (improved, underwater), Vacuum Protection
 
 ARMOR
@@ -6482,7 +6482,7 @@ No weapon
 ARMOR
 
 environments, where owners can simply
-‘hop’ from rooftop to rooftop, the Pegasus is capable of operating anywhere and many can be found servicing remote settlements on far flung colonies. It features an extremely lightweight (though sturdy) construction, and the rear seats can be folded down to provide 0.5 tons of cargo carrying capacity at the expense of two passengers.
+'hop' from rooftop to rooftop, the Pegasus is capable of operating anywhere and many can be found servicing remote settlements on far flung colonies. It features an extremely lightweight (though sturdy) construction, and the rear seats can be folded down to provide 0.5 tons of cargo carrying capacity at the expense of two passengers.
 
 None
 
@@ -6637,7 +6637,7 @@ BORDERGUARD GROUND ATTACK DRONE
 Actuation System, Autopilot (advanced), Camouflage (improved), Communication System (advanced, increased range), Control System
 (advanced), Folding Wings, Navigation System (advanced), Robot Brain (very advanced), Sensor System (advanced, increased range)
 
-against incursion. Once targets have been identified, the Borderguard is fully capable of prioritising orders of threat, engaging, and destroying them without intervention. Unlike trigger happy or overly ‘dumb’ air superiority drones of lower Tech Level militaries, the Borderguard has an unblemished record.
+against incursion. Once targets have been identified, the Borderguard is fully capable of prioritising orders of threat, engaging, and destroying them without intervention. Unlike trigger happy or overly 'dumb' air superiority drones of lower Tech Level militaries, the Borderguard has an unblemished record.
 
 WEAPON RANGE DAMAGE MAGAZINE MAGAZINE COST TRAITS FIRE CONTROL Gatling Laser 4 6D - - AP 5, Auto 4 +2
 
@@ -6783,7 +6783,7 @@ EQUIPMENT
 
 DESCRIPTION
 
-smash an armored column or level a small town. Though well-armored, it is not intended for frontline combat and always performs best when there are several fighting walkers between it and the enemy. While slow, it has been described by pilots as being quite ‘dainty’ in operation. There is a lot of room inside for the pilot and, together with its vast reserves of ammunition, the Hydra is capable of staying on the field for extended periods.
+smash an armored column or level a small town. Though well-armored, it is not intended for frontline combat and always performs best when there are several fighting walkers between it and the enemy. While slow, it has been described by pilots as being quite 'dainty' in operation. There is a lot of room inside for the pilot and, together with its vast reserves of ammunition, the Hydra is capable of staying on the field for extended periods.
 
 FRONT 80(+39)
 
@@ -7184,7 +7184,7 @@ Fire Control 45 Fire Control System 45 Fire Extinguishers 58 Firehammer G/Fighte
 
 HEV-12 131 Hiding 3 High-explosive Bomb 41 Holding Tank 58 Holo-suite 58 Hostile Environment 55 Hot Tub 58 Humphead Armored Personnel Carrier 86 Hydra Heavy Support Walker 141 Hydrofoil 87 Hydrographic Sampler 59 Impala Scout Helicopter 88 Insidious Environment 55 Interception and Encryption 52 Interface 67 Internal Bay 59 Laboratory 59 Large Turret 38 Legionary Battle Tank 107 Liberator G/Carrier 132 Liberty-class Ironclad 75 Life Support 56 Light Aeroplane 25 Light Anti-Air Missile 42 Light Autocannon 42 Light Grav Vehicle 16 Light Ground Vehicle 14 Light Hovercraft 32 Light Jet 27 Light Laser Cannon 42 Light Submersible 22 Light Walker 30 Linked Weapons 45 Long Range Anti-Air Missile 42 Low Berth 59 Lynx Fast Assault Tank 133 M-90 Urban Assault Vehicle 134 Maintenance and Resupply 3 Manipulator Arm 59 Manticore Fighting Walker 142 Mass Production 5 Mechanics vs. Medics 61
 
-Medium Bomb 42 Modular Mount 38 Navigation Systems 52 Newpoint Grav APC 143 Nuclear Damper 50 Offensive customization 45 Operating Theatre 59 Paladin Laser Grav Tank 108 Parthian Wheeled Scout 89 Pegasus Personal Ornithopter 135 Performance 46 Personal Land Yacht 71 Pintle Mount/Ring Mount 37 Plasma Missile Rack 43 Pop-up Mount 38 Power Boat 90 Power Systems 48 Powered Boat 20 Predator Ambush-Hunter Tank 144 Prismatic Aerosol Discharger 50 Protection 51 Raider’s Land Yacht 72 Rakatama G/Carrier 145 Reactive Armor 51 Receiver 67 Refrigerator 60 Refuelling Plant 60 Remote Controllers 66 Repairs 65 Research Ship 109 Robot Brains 68 Robot or Drone? 66 Rotary Autocannon 43 Scything Claw 64 Sensor Systems 54 Sensors 54 Sensors and Detection 3 Ship 21 Shipping Large Vehicles 3 Size 3 Skystrike G/Fighter 110 Sloop 73 Small Turret 38
+Medium Bomb 42 Modular Mount 38 Navigation Systems 52 Newpoint Grav APC 143 Nuclear Damper 50 Offensive customization 45 Operating Theatre 59 Paladin Laser Grav Tank 108 Parthian Wheeled Scout 89 Pegasus Personal Ornithopter 135 Performance 46 Personal Land Yacht 71 Pintle Mount/Ring Mount 37 Plasma Missile Rack 43 Pop-up Mount 38 Power Boat 90 Power Systems 48 Powered Boat 20 Predator Ambush-Hunter Tank 144 Prismatic Aerosol Discharger 50 Protection 51 Raider's Land Yacht 72 Rakatama G/Carrier 145 Reactive Armor 51 Receiver 67 Refrigerator 60 Refuelling Plant 60 Remote Controllers 66 Repairs 65 Research Ship 109 Robot Brains 68 Robot or Drone? 66 Rotary Autocannon 43 Scything Claw 64 Sensor Systems 54 Sensors 54 Sensors and Detection 3 Ship 21 Shipping Large Vehicles 3 Size 3 Skystrike G/Fighter 110 Sloop 73 Small Turret 38
 
 Smart Wheels 48 Smoke Discharger 51 Socrates Field Car 111 Sonic Screamer 64 Spacecraft Weapons 44 Speed 46 Spore Mortar 65 Stateroom 60 Stealth 55 Stealth and Camouflage 54 Steam Car 76 Structural Reinforcement 46 Swarm Cannon 65 Tempest Supercar 136 Termite Excavating Tunneller 91 Terror-Roc Patrol Fighter 77 The Central Supply Catalogue 44 The Honey badger 12 Thunder Hover Tank 112 Torpedo 43 Towing 3 Tracked Exploration Vehicle 113 Unpowered Boat 19 Unpowered Vehicle 18 Used Vehicles 3 Using Bio-tech 61 Vacuum Protection 56 Vanguard Air Superiority Fighter 78 Vehicle Armor 34 Vehicle Traits 4 Violator Strategic Bomber 114 Walkure Fighting Grav Assault Vehicle 146 Water Cannon 43 Weapon Traits 4 Wet Bar 60 Zircon Nuclear Gun Drone 147
 

@@ -96,7 +96,7 @@ Printed in China
 
 The
 
-of the Travellers’ Aid Society
+of the Travellers' Aid Society
 
 ### 2
 
@@ -119,8 +119,8 @@ second thought to cargo and brokerage rates. But others never recover;
 they can be recognized by their battered calculators worn down by
 frequent percentile comparisons, hands clenched from rolling dice for
 cargoes and, above all, the look of pure, unadulterated greed gleaming
-in their eyes as they recite that favourite question, ‘what types of cargos
-can we pick up here?’.
+in their eyes as they recite that favorite question, 'what types of cargos
+can we pick up here?'.
 ```
 
 ```
@@ -139,7 +139,7 @@ in commerce but the rules are rather carefully balanced to render it very
 difficult to make much of a profit. Even if there are no bank payments to
 be made on the ship then maintenance, life support, fuel, supplies, major
 repairs and similar expenses drain a large part revenues earned, making
-it necessary for the group to take occasional ‘adventuring’ jobs to make
+it necessary for the group to take occasional 'adventuring' jobs to make
 ends meet. Keeping the Travellers in need of money is a solid foundation
 upon which campaigns frequently rest. Why else would the Travellers risk
 life and limb, if not for personal gain? There are, of course, other good
@@ -186,11 +186,11 @@ spell. While it lasts, the Travellers can rebuild the finances, find useful
 items of equipment or information as they travel and not actually realise
 that they are not really doing anything. The Referee can use this time
 to start preparing a new adventure to spring on the Travellers later on.
-Indeed, commercial travelling can be turned to the Referee’s advantage.
+Indeed, commercial travelling can be turned to the Referee's advantage.
 Properly handled, it can be used to lead the Travellers by the nose to a
 specific destination. To do this, the Referee must be the one to make all
 trade and speculation dice rolls (and in secret) and must be willing to
-ignore some results in favour of those that further the cause.
+ignore some results in favor of those that further the cause.
 
 Let us look at District 268 in the Spinward Marches as an example. The
 Travellers have a far trader and start at Mertactor, at the end of the trade
@@ -687,8 +687,8 @@ Travellers rarely go very wrong by hiring a good broker, since the broker
 adds to their profit while taking only a fraction of the sale price. This is
 always a good deal, so the Travellers will probably be making money
 if they are even a little bit smart about how they operate. The Referee,
-however, also has options, being in control of the ‘slings and arrows
-of outrageous fortune’. When the Travellers start ignoring adventure
+however, also has options, being in control of the 'slings and arrows
+of outrageous fortune'. When the Travellers start ignoring adventure
 possibilities, or look like they might amass enough money to upset the
 campaign, then it is time for fate to take a hand.
 
@@ -851,7 +851,7 @@ her eccentricities so far because her voyages pay well.
 ```
 
 ```
-Adventures involving Kaashukiin’s hunt for Excalibur are numerous.
+Adventures involving Kaashukiin's hunt for Excalibur are numerous.
 Ordinary operations (attacks on Sword World merchant shipping, raids
 against isolated outposts, deep penetrations of occupied territory and
 so on) are a good source for excitement. Crew discontent at passing
@@ -885,8 +885,8 @@ variety of licenses, with fees going to the liquidators of the original firm
 and families of key personnel. Unlicensed variants also appear from time
 -to-time, usually under a different designation.
 
-The Mainstrider range was triumphantly marketed as ‘striding along
-the mains, striding between the mains’, a claim that was overstated
+The Mainstrider range was triumphantly marketed as 'striding along
+the mains, striding between the mains', a claim that was overstated
 but not entirely unjustified. The 300T has a capability of one parsec per
 jump but can make two or three consecutive jumps without preparation
 or modification. This comes at the cost of a slight reduction in cargo
@@ -901,16 +901,16 @@ It is also readily customisable, allowing users to tailor their vessel to
 local conditions.
 
 The 300T uses the characteristic hull form of most Mainstrider ships,
-said by some to resemble ‘the ungodly child of a Gazelle-class close
-escort and a subsidised merchant’. When landed, the vessel sits on its
+said by some to resemble 'the ungodly child of a Gazelle-class close
+escort and a subsidized merchant'. When landed, the vessel sits on its
 secondary cargo units and short landing legs deployed from the sides of
 the forward lower hull. Entry to the ship is at the rear of the main cargo
 area for loading and at the front of the lower hull for personnel.
 
 FUEL/CARGO SYSTEM
 
-The key to the vessel’s flexibility is its use of dual-purpose fuel/cargo
-containers. Part of the vessel’s cargo capacity is of a standard design,
+The key to the vessel's flexibility is its use of dual-purpose fuel/cargo
+containers. Part of the vessel's cargo capacity is of a standard design,
 using a dedicated fuel tank with sufficient capacity to support a one-
 parsec jump plus a few weeks of power plant operation. The additional
 fuel required to make a second or third jump without refuelling is carried
@@ -1012,7 +1012,7 @@ Fuel
 
 -
             -
-         - LEGEND1. Sensors2. Bridge3. Airlock4. Fresher5. Staterooms6. Common area7. Storage area8. Cargo hold9. Crane10. Ship’s locker
+         - LEGEND1. Sensors2. Bridge3. Airlock4. Fresher5. Staterooms6. Common area7. Storage area8. Cargo hold9. Crane10. Ship's locker
                   -
                                     -
                         -
@@ -1109,9 +1109,9 @@ this part of the ship is often referred to in that manner.
 
 ```
 The cargo/fuel containers are two decks high and streamlining at the front
-of the ‘saddle’ includes space for fuel scoops and processors. The bottom
+of the 'saddle' includes space for fuel scoops and processors. The bottom
 of each container is slightly lower than the main hull, allowing them to act
-as large feet when the ship is landed. Most of the ship’s weight rests
+as large feet when the ship is landed. Most of the ship's weight rests
 on them, creating relatively low ground pressure, with additional support
 from lighter legs extended out and down from the lower main hull.
 ```
@@ -1135,7 +1135,7 @@ The 300T is a versatile and relatively comfortable ship to operate. Its
 primary economic advantage is its ability to move between mains and
 clusters, and operate at profit in regions of lower stellar density. Within
 a cluster or on a main the 300T is outperformed by the more common
-free trader and subsidised merchant, however where it can set-up a run
+free trader and subsidized merchant, however where it can set-up a run
 requiring a mix of one and two parsec jumps it can outperform a jump-
 ship in the long term – though it is slow by comparison.
 
@@ -1149,8 +1149,8 @@ term costs by decreasing flexing and protecting against micrometeorite
 damage. Crews of those vessels that actually came under fire would also
 tend to agree that any armor is better than no armor.
 
-The ship’s 2-g thrust pushes costs up compared to a minimal ‘cargo
-van’ vessel but does have advantages when operating in the frontier
+The ship's 2-g thrust pushes costs up compared to a minimal 'cargo
+van' vessel but does have advantages when operating in the frontier
 environment the 300T is best suited to. Quicker transits to and from orbit
 mean less chances to encounter trouble of the official and unofficial kind.
 A 300T cannot outrun a navy ship but may be able to evade a converted
@@ -1181,7 +1181,7 @@ gives a maximum of 116 tons in the main cargo area and an additional
 
 ```
 One or both of the cargo/fuel containers can be converted to other
-functions if necessary. An upgunned ‘expedient patrol/escort vessel’
+functions if necessary. An upgunned 'expedient patrol/escort vessel'
 variant is available, using the cargo modules as hangars for a pair of light
 fighters each side. A planetary exploration variant was also marketed by
 Enguezzi Interstellar before they went bust, using part of the lower hull
@@ -1195,12 +1195,12 @@ and mobile headquarters for small business groups.
 ### 17
 
 THE WAYS OF KUZU
-I am Aslan, a warrior of Hoaawli‘ukhtai, of the clan Afaikhiyoi. I was born
-on Kuzu (as humans say it), the place of coming, in the city of U’khai-of-
-the-Red-Dawn. As the third eldest of my family’s sons, the shape of my
-way was directed from my earliest days; I took the Ah’ukhtai, the Vow of
+I am Aslan, a warrior of Hoaawli'ukhtai, of the clan Afaikhiyoi. I was born
+on Kuzu (as humans say it), the place of coming, in the city of U'khai-of-
+the-Red-Dawn. As the third eldest of my family's sons, the shape of my
+way was directed from my earliest days; I took the Ah'ukhtai, the Vow of
 Heroes and rose through the ranks to become Leader of Clansmen of
-a mercenary battle group, Kaha a’huye, the brotherhood of the Rose-
+a mercenary battle group, Kaha a'huye, the brotherhood of the Rose-
 Tinged Waters. I have spent many years in the company of humans and
 have a better understanding of their ways than most of my people.
 
@@ -1221,8 +1221,8 @@ large numbers of Humaniti by means of this Journal.
 
 Perhaps humans must always label what they do not understand with
 concepts familiar to them (I am told this is called by your scholars
-‘anthropomorphization’, a word which I have never been able to
-pronounce). Upon hearing that Aslan ‘meditate’, they assume the custom
+'anthropomorphization', a word which I have never been able to
+pronounce). Upon hearing that Aslan 'meditate', they assume the custom
 has some religious significance and that the devotees are somehow
 otherworldly, removed from the thoughts and strivings of existence.
 
@@ -1231,10 +1231,10 @@ Nothing could be farther from the truth.
 THOUGHTS SHAPE THE WAY
 
 Ai yourhai is the first precept, the guiding philosophy of all of my people.
-Its name might be translated roughly as ‘thoughts shape the way’, a
+Its name might be translated roughly as 'thoughts shape the way', a
 concept that surrounds and nurtures all Aslan grounded in their mother
 culture. The symbol of ai yourhai is the Aslan hand with fighting claw
-extended. The Aslan’s slashing fighting claw extends when it is needed
+extended. The Aslan's slashing fighting claw extends when it is needed
 without conscious thought, seemingly of its own volition, because he is
 what he is. The concept of ai yourhai states that the Aslan mind can
 be so ordered, so strengthened, that proper actions always spring from
@@ -1253,7 +1253,7 @@ senses, eliminate the tendency to distraction and prepare the body to
 respond to whatever demands may be made upon it.
 
 ```
-‘Right thinking leads to right action’ one human writer described it and
+'Right thinking leads to right action' one human writer described it and
 it would be hard to improve upon those words. It must be remembered,
 however, that the Aslan warrior does not dwell on the concept but
 simply pursues it, for he does so knowing that thinking is not doing, as
@@ -1262,14 +1262,14 @@ doing is not achieving.
 
 ```
 THE COMPANY OF HEROES
-Ukhtai eaiawehi – ‘company of heroes’ – is a difficult concept for humans,
+Ukhtai eaiawehi – 'company of heroes' – is a difficult concept for humans,
 a belief that we are surrounded by a vast and unseen throng of those
 who have gone before. It is not, as so many human xenosophontologists
 insist, ancestor or spirit worship, or even a belief in ghosts (if I use that
 word properly), although it is likely the notion had its origin in such beliefs
 thousands of years ago. Aslan today do not believe in literal ghosts but
-rather in the eaia, which might be translated as ‘genius’ or perhaps
-‘embodied ideal’. While the eaia cannot be said to have any actual being
+rather in the eaia, which might be translated as 'genius' or perhaps
+'embodied ideal'. While the eaia cannot be said to have any actual being
 outside of its psychological reality within the Aslan mind, it is usually
 referred to as an external presence.
 ```
@@ -1278,7 +1278,7 @@ referred to as an external presence.
 Ukhtai eaiawehi teaches us not to abandon our comrades under any
 circumstances, for we would be abandoned by the Unseen Company,
 an inner banishment more lonely, more rending than any mere physical
-exile. If one’s eaia cannot take its place with the Great Company, then
+exile. If one's eaia cannot take its place with the Great Company, then
 there is no place for it in the cosmos and no place for that Aslan with
 his people.
 ```
@@ -1303,7 +1303,7 @@ The Shrine of Heroes is a beautiful place; close, silent, hung with
 tapestries or velvet curtains to exclude sound, and decorated with
 scenes of battle or triumph. It is never large, for meditations are expected
 to be private. Before battle, a military shrine will have a line of personnel
-waiting to use it for a precious few minutes, for it is thought that one’s
+waiting to use it for a precious few minutes, for it is thought that one's
 ```
 
 ### 19
@@ -1315,7 +1315,7 @@ ahfa in a small pouch or chest, to be used especially when a Shrine
 of Heroes is not available. Ahfa may be medallions, statuettes, scrolls
 (detailing heroic deeds), a tuft of plant material or lump of soil from a
 battlefield, anything that may serve as a focus of meditation by reminding
-the warrior of his own deeds and those of his family and clan. A warrior’s
+the warrior of his own deeds and those of his family and clan. A warrior's
 ahfa are considered to be, if not secret, at least best kept private, things
 to be shared only with the closest of comrades.
 
@@ -1326,7 +1326,7 @@ what they are. It is for this reason that Aslan culture has remained
 remarkably stable and unchanging across thousands of worlds where
 we have settled, even where we have been thrown into close contact
 with alien ideas and concepts. Huweihwoweiy might be translated as
-‘with us in spirit’ and means that a person or a people act according to
+'with us in spirit' and means that a person or a people act according to
 the highest ideals of our philosophy. It is not a title lightly bestowed, for
 it brings with it responsibility for a serious trust. The only higher honor
 is formal adoption into an Aslan clan group – a ceremony that occurs
@@ -1355,32 +1355,32 @@ way they act – Ai yourhai.
 
 ```
 Murder – that is, assassination without formal challenge; abandoning a
-comrade in danger or in need; exchanging the life of others for one’s own
+comrade in danger or in need; exchanging the life of others for one's own
 safety; blackening a good name; running from a challenge; these are the
-deeds called rukhta, a word perhaps best translated as ‘anathema’ or
-‘cursed’, although I have seen it rendered as ‘crimes of honor’ by some
+deeds called rukhta, a word perhaps best translated as 'anathema' or
+'cursed', although I have seen it rendered as 'crimes of honor' by some
 human writers.
 ```
 
 ```
-There are several hoaawli or ‘schools’ of behaviour, which demand
+There are several hoaawli or 'schools' of behaviour, which demand
 greater attention to duty, which place greater demands on the individual.
-Usually these are associated with warrior groups and centre about a
+Usually these are associated with warrior groups and center about a
 secret creed or oath known only to initiates. Most of these add additional
 rukhta to the common list; these may include such deeds as unnecessary
 cruelty in a kill, unnecessary challenge for personal satisfaction or lust
-for triumph, profaning one’s own ai with unworthy thoughts and a difficult
+for triumph, profaning one's own ai with unworthy thoughts and a difficult
 word for humans, rukhtiywe.
 ```
 
 ```
 When humans say that cowardice is unknown among the Aslan, they
 speak the truth. There literally is no word in any of our languages for this
-concept ‘cowardice’, which few of us understand perfectly, even those
+concept 'cowardice', which few of us understand perfectly, even those
 of us who have long associated with humans. The closest word in Aslan
 might be rukhtiywe; there is no easy counterpart in any human tongue
 with which I or my friend am familiar but the word embodies the concept
-of denying one’s own Aslanness – one’s heritage, family and self, and as
+of denying one's own Aslanness – one's heritage, family and self, and as
 such is certainly rukhta.
 ```
 
@@ -1396,14 +1396,14 @@ deeply rooted in our society.
 
 ```
 IT COMES
-Tarohaka literally means ‘the water that flows without being forced’ and
-the philosophy of taro (‘it comes’) is considered a virtue among Aslan,
+Tarohaka literally means 'the water that flows without being forced' and
+the philosophy of taro ('it comes') is considered a virtue among Aslan,
 ```
 
 ### 21
 
 for patience can be the greatest weapon a hunter possesses. Humans
-have a proverb, ‘all things come to him who waits’, and this is one of the
+have a proverb, 'all things come to him who waits', and this is one of the
 few human sayings fully understood by those of our people who hear it.
 Taro is sharpened by meditation and is thought of as a constant struggle
 against the dark nature of Aslan prehistory and id. The ancient call within
@@ -1413,7 +1413,7 @@ perfect time will reveal itself and the strike will be sure, the kill clean.
 This is a particularly powerful image for Aslan warriors; the imagery
 evoked for us is the patient flowing of a trickle of water, which in the course
 of years smooths jagged rocks to pebbles and over eons carved out vast
-canyons. Many Aslan keep as ahfa a small stereograph of Ka’htesu or
+canyons. Many Aslan keep as ahfa a small stereograph of Ka'htesu or
 of some other spectacular canyon or water carved rock formation in the
 badlands of Kuzu, a reminder of the power of taro. Others find the same
 understanding in a water worn pebble from the bank of a stream. The
@@ -1435,7 +1435,7 @@ they seem not strange but huweihwoweiy-in human-terms; not human
 but brothers.
 
 - Leader-of-
-Clansmen Raearu’he
+Clansmen Raearu'he
 KhaheakUkhtaikheHoaawlikhe
 Ukhtai
 
@@ -1495,7 +1495,7 @@ Location : Corben (E545455-8) Gazulin Subsector, Trojan Reach
 ```
 
 ```
-The Travellers are invited to take part in a ‘royal hunt’, which has become
+The Travellers are invited to take part in a 'royal hunt', which has become
 more ceremonial occasion than an actual hunt in recent years. As the
 procession wends its stately way through the countryside, it becomes
 apparent that there is indeed a hunt taking place – and the royal party
@@ -1518,7 +1518,7 @@ function. Their overall leader takes the title Potenate.
 The Potentate of Corben is not quite a king. He does not rule outright but is
 highly influential among the other nobles and no collective agreement can
 be signed without his agreement. Thus the Potentate must be won over by
-any offworld industry hoping to operate on Corben. Until now, the world’s
+any offworld industry hoping to operate on Corben. Until now, the world's
 ```
 
 ```
@@ -1554,15 +1554,15 @@ BEHAVIOUR Herbivore, Grazer
 ```
 
 leaders have not been particularly receptive but it is apparent that if the
-Potenate is in favour of a deal he will push it through despite opposition
+Potenate is in favor of a deal he will push it through despite opposition
 from his near-peers among the nobility. This is thought to have caused
-friction among the nobility but the Potentate’s position seems unassailable.
+friction among the nobility but the Potentate's position seems unassailable.
 
 ### 24
 
 ```
 THE SITUATION
-Corben’s substantial deposits of topoline and athast, both useful
+Corben's substantial deposits of topoline and athast, both useful
 in a number of industrial processes, have attracted the attention of
 Langhausen Industries, LIC, a major mercantile concern. Elas Dulandir,
 one of the principal partners at Langhausen, intends to negotiate an
@@ -1575,7 +1575,7 @@ opportunity if he acts fast.
 As a result, Dulandir has travelled light and fast to reach Corben, and
 now needs to find capable individuals to assist him. The Travellers
 are the best available, so Dulandir makes them an offer. This can be
-varied by the Referee depending on the Travellers’ circumstance but will
+varied by the Referee depending on the Travellers' circumstance but will
 start at Cr15000 per Traveller for what should be about two months of
 routine work. He is looking for people who can act as bodyguards and
 general assistants, and more importantly who can give the impression
@@ -1607,7 +1607,7 @@ Unbeknownst to Dulandir or the Travellers, the Potentate has been
 approached by representatives of a rival company, Nusku Trade, LIC.
 Their offer was not as good as that made by Dulandir, at least as far as
 the Potentate was concerned, and he turned it down. Undeterred, Nusku
-made contact with the Potentate’s opponents and modified the deal to
+made contact with the Potentate's opponents and modified the deal to
 benefit them far more.
 ```
 
@@ -1622,7 +1622,7 @@ among these is Hamir, a trusted royal advisor who has grown to hate the
 ### 25
 
 Potentate. He has decided to eliminate him and the Langhausen party,
-placing the Potentate’s idiot son on the throne as a puppet. He will then
+placing the Potentate's idiot son on the throne as a puppet. He will then
 be the power behind the throne of a world enriched by the Nusku deal.
 
 Others are opposed to any offworld deals and have been led to believe
@@ -1643,7 +1643,7 @@ are trailing the royal party as it sets out
 into the jungles of the Dweljahra
 Valley. Hamir hopes to allay
 suspicion by having an
-‘accident’ kill the Potenate,
+'accident' kill the Potenate,
 and has arranged several
 possibilities along the way.
 If he is unable to eliminate
@@ -1677,18 +1677,18 @@ advance by yet more wagon trains.
 ```
 
 ```
-The whole hunting party tries to be as ‘traditional’ as possible, although
+The whole hunting party tries to be as 'traditional' as possible, although
 this is carried out in a rather inconsistent manner. Small refrigeration
 units keep food fresh and wine chilled, and are carried in slings on
-the flanks of pack-yulyas or in ‘traditional’ wagons made from spring
+the flanks of pack-yulyas or in 'traditional' wagons made from spring
 steel and lightweight plastics. Although everyone is sleeping on camp
 beds in large circular tents, the tent poles are telescopic and act as
 conduits for a heating and air conditioning system. In short, the hunt
 is a pretence and nothing more... but it is a pretence that must be
 taken very seriously. The Potentate (again, by tradition) must not see
-anything ‘modern’ and studiously fails to notice that his wine is being
+anything 'modern' and studiously fails to notice that his wine is being
 brought from an offworld chilling unit. This means that all hunting is
-done with ‘traditional’ weapons.
+done with 'traditional' weapons.
 ```
 
 ```
@@ -1742,7 +1742,7 @@ be made using a mobile command post kept well away from the hunt.
 
 THE FIRST INCIDENT
 
-The first attempt on the Potentate’s life is perhaps the most subtle.
+The first attempt on the Potentate's life is perhaps the most subtle.
 After a week or two of uneventful progress, everyone is used to the
 routine. There have been occasional mild difficulties when terrain was
 unexpectedly tricky or parts of the procession slowed and bunched up,
@@ -1764,16 +1764,16 @@ the stream and race up the far side. Then his mount shies at something,
 leaping sideways and bolting along the stream bed. The Potentate has lost
 his reins and is clinging to his saddle, unable to control his yulya.
 
-The ravine runs parallel to the hunt’s course but is very steep as it
+The ravine runs parallel to the hunt's course but is very steep as it
 passes the rest of the hunting party. It might be possible to coax a yulya
 into scrabbling down the side of the ravine to block the bolting animal at
 this point but it would be dangerous. An alternative might be to scramble
-down on foot and try to catch the Potentate’s fleeing yulya, although this
+down on foot and try to catch the Potentate's fleeing yulya, although this
 too is hazardous.
 
 If the Travellers do nothing, other members of the hunt will make an
 attempt to enact one or the other plan. They are not successful and the
-Potentate’s yulya races out of sight around a curve in the ravine. He
+Potentate's yulya races out of sight around a curve in the ravine. He
 
 ### 28
 
@@ -1785,7 +1785,7 @@ Potentate until he tires of their company.
 ```
 
 ```
-It is eventually established that the Potentate’s mount shied at a branch
+It is eventually established that the Potentate's mount shied at a branch
 in the water, perhaps fearing it was a snake. This sort of thing happens
 from time-to-time, although royal mounts are usually well trained. There
 is no easy way to find out but in fact the yulya was fed a drug that made
@@ -1807,7 +1807,7 @@ humans and disappear into the undergrowth.
 
 ```
 One evening, as festivities are winding down, a whining snarl is heard from
-the direction of the Potentate’s tent. Locals know the sound and gesture
+the direction of the Potentate's tent. Locals know the sound and gesture
 for everyone to freeze. Sure enough, a delajabar can be seen slinking
 towards the Potentate, almost as if it had singled him out. Bodyguards
 start to reach for their guns but someone urgently whispers something
@@ -1817,7 +1817,7 @@ The beast slinks closer to the Potentate, as if seeking him out personally.
 
 ```
 Killing the delajabar with a gun should not be hard but it earns the
-Potentate’s displeasure even if his life is saved. Killing it with a spear
+Potentate's displeasure even if his life is saved. Killing it with a spear
 or knife would be a deed celebrated for years to come and will again be
 rewarded with an audience. The beast can also be driven off by noise
 and confusion, especially accompanied by waving burning logs from the
@@ -1826,7 +1826,7 @@ someone or a yulya later in the trip.
 ```
 
 ```
-Investigation yields a surprising find – the delajabar was in the Potentate’s
+Investigation yields a surprising find – the delajabar was in the Potentate's
 tent! It seems to have ripped a panel out of the rear and managed to get in
 seeking food. Perhaps that is why it went after the Potentate rather than
 anyone else – it had his scent. Attacking a camp of humans so boldly
@@ -1859,7 +1859,7 @@ anyone would have the means to set-up such an incident or a reason to.
 
 THE ASSASSINATION ATTEMPT
 
-After a few more days, the order reaches Hamir’s men in the hunting party
+After a few more days, the order reaches Hamir's men in the hunting party
 that they are to take direct action. A party splits off as usual to go hunting,
 curving away out of sight as many others have done. A little while later
 they re-appear, apparently racing after some game animal no-one else
@@ -1873,7 +1873,7 @@ out to the hunters to tell him what they are chasing and where it is.
 One of the hunters attempts a bowshot from yulyaback, a tricky feat that
 rarely succeeds. Sure enough the arrow goes off into the undergrowth.
 Someone jeers and the shooter points vaguely where his arrow has
-gone. This should get everyone’s attention and whilst they are distracted
+gone. This should get everyone's attention and whilst they are distracted
 a dismounted and concealed archer takes a shot at the Potentate. The
 arrow will hit on a straight check of 8+, unless the Travellers spot the
 archer and do something about it. In addition to its normal wound, the
@@ -1881,7 +1881,7 @@ arrow carries a powerful poison that will disorientate the victim and may
 cause death due to respiratory complications. If nobody sees the archer
 it is possible that the matter will be ascribed to a stray shot by an over-
 excited hunter but anyone looking the right way can see it is a deliberate
-attempt on the Potentate’s life.
+attempt on the Potentate's life.
 ```
 
 ```
@@ -1904,7 +1904,7 @@ the Travellers) of wanting their leader dead.
 ```
 The Travellers stand a real chance of being lynched or taken captive
 to answer for the assassination attempt – whether as a result of
-misunderstanding or a deliberate ploy on the part of Hamir’s men. They
+misunderstanding or a deliberate ploy on the part of Hamir's men. They
 may have to talk fast or take decisive action to save their skins and could
 end up being prevented from offering life-saving medical treatment to the
 Potentate by well-meaning guards.
@@ -1916,18 +1916,18 @@ kill the Potentate on the homeward route. A party armed with modern
 firearms – just hunting rifles and handguns but guns all the same – has
 been scrambled from the city to escort the Potentate back home. If he
 is still alive they will truthfully say Hamir sent them and will try to get the
-Potentate and as few as possible of his people under their ‘protection’.
+Potentate and as few as possible of his people under their 'protection'.
 Once clear of the main hunt, they will kill everyone.
 ```
 
 ```
-If that happens, the Travellers will be arrested by Hamir’s men and
-evidence will be ‘found’ that they covertly brought along guns. The
+If that happens, the Travellers will be arrested by Hamir's men and
+evidence will be 'found' that they covertly brought along guns. The
 assassination will be pinned on the Travellers and Hamir will become de
 facto ruler of Corben. The best way to avoid being executed as regicides
 is to get a grateful Potentate home – and this will greatly facilitate
-Dulandir’s negotiations as well. The situation has the potential to work
-out favourably for the Travellers... or very badly indeed.
+Dulandir's negotiations as well. The situation has the potential to work
+out favorably for the Travellers... or very badly indeed.
 ```
 
 **CENTRAL SUPPLYCENTRAL SUPPLY**
@@ -1939,13 +1939,13 @@ starships, lifts immense payloads out of gravity wells and provides
 locomotion for air/rafts and other vehicles. Grav tech is also used in
 ballistic weaponry, picking up where gauss weapons and mass drivers
 leave off. Instead of the electromagnetic coils used in gauss weapons,
-grav weapons (or ‘G guns’ as they are sometimes called) employ a ‘stack’
+grav weapons (or 'G guns' as they are sometimes called) employ a 'stack'
 of circular grav plates that press a round forward and inward, keeping it
 centred in the barrel as it accelerates to hypersonic speeds.
 
 At TL14 and above, gravitic weapons use non-ferromagnetic
 ammunition, creating an unparalleled delivery system. The rifle and
-pistol magazines are actually ‘smart-matter banks’ that contain a dense
+pistol magazines are actually 'smart-matter banks' that contain a dense
 and malleable polymer that forms ammunition of various masses on the
 fly. This allows the damage of the weapon to be minutely adjusted from
 a minimum of one point to the maximum listed value of each weapon.
@@ -2029,7 +2029,7 @@ weapon. It is considerably more expensive than a gauss rifle, making
 it less appealing to procurement officers, but is seen in the field from
 time-to-time as a specialty weapon. It comes standard with an on-board
 computer/1 and specialized Agent program that allows the use of vocal
-and sub-vocal commands to adjust the weapon’s damage and AP trait.
+and sub-vocal commands to adjust the weapon's damage and AP trait.
 Weapon adjustments require a minor action during combat. Battery life
 is 24 hours.
 ```
@@ -2082,7 +2082,7 @@ omnipotent and godlike powers over a universe of their own creation,
 they are yet a victim of the Travellers who surround them, continually
 threatened by varied responses (or lack thereof) to their actions and
 rulings. This unstable situation can be an unsettling experience, for it
-is upon the Referee’s success or failure that everyone’s enjoyment of
+is upon the Referee's success or failure that everyone's enjoyment of
 the game hinges... and they must walk a tightrope in order to avoid the
 extremes of undue harshness or dull leniency. It is necessary to take the
 Travellers in a direction that has already been mapped out but in such a
@@ -2092,7 +2092,7 @@ mark of a good Referee.
 
 ```
 While the generation of a universe and the characters that inhabit it is
-an important part of the Referee’s duties, the chores faced do not end
+an important part of the Referee's duties, the chores faced do not end
 with the final pre-game dice-roll. They are only just beginning! As the
 Travellers prepare themselves to venture forth, the Referee must begin
 the delicate task of creating, balancing and conducting an adventure.
@@ -2137,7 +2137,7 @@ has in mind does not interest a Traveller (and the Referee does not want
 to raise it) then build in other motivations. The Traveller should find his
 starship impounded or a price on their head... anything that might threaten
 them but which the adventure will change or correct. Motivation is truly an
-important part of the Referee’s job; it keeps the game moving even when
+important part of the Referee's job; it keeps the game moving even when
 Travellers hesitate about being involved in some particular action.
 
 Most important of all, however, is the need to balance complexity in the
@@ -2177,7 +2177,7 @@ complexity of the scenario will always challenge the Travellers. The
 Traveller who has proven totally unprepared can get lucky and escape
 from almost certain disaster; the Travellers who go out loaded down with
 enough gear to take on the Imperial Death Star might find a streak of ill
-fortune disrupting ‘the best laid plans of mice and men’.
+fortune disrupting 'the best laid plans of mice and men'.
 ```
 
 ```
@@ -2225,7 +2225,7 @@ they have certain options, which are presented below for use as needed.
 •  A giant hand can reach out and grab their starship.
 •  An asteroid can plunge into the ship, killing all aboard.
 •  They can fall into a black hole.
-•  Or, for the traditionalist among you, try hitting ‘em with a lighting
+•  Or, for the traditionalist among you, try hitting 'em with a lighting
 bolt! Just so long as you have a good time.
 ```
 
@@ -2249,7 +2249,7 @@ vessel has greatly superior sensor equipment to another.
 Passive Sensors are receivers only. The Mk I Eyeball is an example of a
 passive sensor. It receives light and forms images of what is illuminated
 but cannot emit light of its own. The main advantage of passive sensors
-is that they do not give away the user’s presence and generally require
+is that they do not give away the user's presence and generally require
 little power.
 
 Active Sensors send out a signal of some kind and detect what bounces
@@ -2286,7 +2286,7 @@ emissions and detects them, meaning that a very distant contact will
 have moved by the time sensor data arrives. If a ship 22 light-seconds
 away is being tracked with radar, what is actually being plotted is its
 position 22 seconds in the past. Tactical plots usually include a prediction
-of likely current locations based on the contact’s known performance
+of likely current locations based on the contact's known performance
 parameters. Of course, a vessel may change course or speed during
 this time so the prediction becomes more vague as distance increases.
 ```
@@ -2333,7 +2333,7 @@ better resolution, aiding identification and tracking of contacts.
 
 All sensor packages have a base range within which they are fully
 effective. DM-1 applies to all Electronics (sensors) checks for every
-range band outside the system’s base range.
+range band outside the system's base range.
 
 Radar indicates the vessel has the capability to emit and detect radio-
 frequency pulses. This includes communications transmissions – ships
@@ -2346,7 +2346,7 @@ a target. Lidar provides extremely accurate rangefinding and precise
 scans of objects at short distances.
 
 Densitometers are gravity-based sensors that provide a detailed map
-of mass and space within an object. A densitometer can ‘see inside’ a
+of mass and space within an object. A densitometer can 'see inside' a
 ship in a way that radar cannot, although it can only map solid objects by
 shape and density. This generally gives a fairly clear picture of what is
 inside a vessel or planetoid, but can be misleading.
@@ -2354,7 +2354,7 @@ inside a vessel or planetoid, but can be misleading.
 Neural Activity Sensors are passive. They have no active emissions
 but detect the presence and general nature of brain activity. This gives an
 indication of the number of crew or passengers and any animals present,
-and is the only way to ‘scan for life signs’ in the Third Imperium universe.
+and is the only way to 'scan for life signs' in the Third Imperium universe.
 
 Jammers are devices intended to blind enemy sensors by producing
 powerful emissions in the same spectrum. A vessel with jammers can
@@ -2391,7 +2391,7 @@ attempts to detect the ship and DM-3 on its own active sensors.
 ```
 LPI, or Low-Probability-of-Intercept is a modification to sensors that
 enables them to operate normally or at a lower-powered setting less likely
-to give the vessel’s position away. LPI sensors cost twice as much as the
+to give the vessel's position away. LPI sensors cost twice as much as the
 standard version and impose DM-1 on attempts to detect a vessel by its
 sensor emissions. A vessel with multiple sensor types can choose not to
 use advanced systems that LIP (or ELPI) is not available for, gaining the
@@ -2401,7 +2401,7 @@ and standard thermal/optical systems.
 
 ```
 ELPI, or Extremely Low-Probability-of-Intercept is a modification
-available two Tech Levels higher than the sensor’s introductory Tech
+available two Tech Levels higher than the sensor's introductory Tech
 Level. ELPI sensors impose DM-3 to detect the ship by its emissions. A
 vessel that has ELPI (or LPI) sensors must pay the full cost even if the
 (E)LPI capability is not available for some of its advanced sensors.
@@ -2434,7 +2434,7 @@ then a rough shape identified at a low level of confidence as a 200-ton
 free trader. Some time later it is re-identified as a far trader, this time
 with a high level of confidence.
 
-It is not possible to ‘scan for life signs’ in the manner of many TV shows
+It is not possible to 'scan for life signs' in the manner of many TV shows
 without a neural activity sensor. However, a ship that has power and heat
 inside is a strong indication that it may have a live crew. One that is venting
 air and water with fragments of debris is clearly in trouble and one that is
@@ -2471,7 +2471,7 @@ Extreme EMCON in operation: -
 ```
 
 A vessel using active sensors will automatically be detected at one
-range band less than the detecting vessel’s Base Range and one using
+range band less than the detecting vessel's Base Range and one using
 jammers will be automatically detected at Base Range; a Civilian sensor
 
 42
@@ -2494,9 +2494,9 @@ signature and changes course, even slightly, requires a new Electronics
 ```
 Scanning a contact means trying to establish exactly what it is, its
 capabilities and condition. This requires an Average (8+) Electronics
-(sensors) check, with DM-4 if the ‘scan’ attempt is being made with
+(sensors) check, with DM-4 if the 'scan' attempt is being made with
 passive sensors only. Scanning can only be performed within the sensor
-suite’s Base Range.
+suite's Base Range.
 ```
 
 ```
@@ -2522,20 +2522,20 @@ Total Effect Information
 1-2 Rough shape and estimate of tonnage
 3-4 Outline and tonnage, good level of confidence
 5-6 Ship side, class and probable identity
-7+ Specific data, such as damage status and vessel’s exact
+7+ Specific data, such as damage status and vessel's exact
 identity
 ```
 
 #### Additional Sensor Tasks
 
 ```
-It is often possible to determine a vessel’s intentions by its emissions. The
+It is often possible to determine a vessel's intentions by its emissions. The
 Contact Actions table shows what will be detected with an appropriate
 Electronics (sensors) check. If the check is failed, the scanning ship has
 no indication that anything is about to happen. An Effect of 0-2 gives
-a vague warning such as ‘increased power to maneuver drive’ whilst
+a vague warning such as 'increased power to maneuver drive' whilst
 an Effect of 3+ will give the scanning vessel a very clear indication of
-the target ship’s intentions. The level of the Electronics (sensors) check
+the target ship's intentions. The level of the Electronics (sensors) check
 varies depending on how obvious the action is – which usually comes
 down to how much power it requires.
 ```
@@ -2617,7 +2617,7 @@ but many members of other races distrust the Hlanssai because of their
 - justified – reputation for emotional instability.
 
 ```
-Hlanssai are tall, averaging just over two metres but very light and slender
+Hlanssai are tall, averaging just over two meters but very light and slender
 of build, rarely massing more than 55-60kg. The race is homeothermic,
 bisexual and viviparous, producing one or two young after an eight-month
 gestation period. Hlanssai bodies are half covered with a silky, glossy
@@ -2626,8 +2626,8 @@ feature is the head, with its two large eyes and two even larger ears.
 The former are sensitive to a range of frequencies extending into the
 ultraviolet; the external flaps of the latter serve to detect thermal radiation
 and air currents with considerable efficiency, as well as focussing sound
-into a highly efficient inner ear. The race’s hands have three three-jointed
-fingers and a stubby, unjointed ‘thumb’ each; their feet are similar and
+into a highly efficient inner ear. The race's hands have three three-jointed
+fingers and a stubby, unjointed 'thumb' each; their feet are similar and
 can provide grip, especially when climbing.
 ```
 
@@ -2640,7 +2640,7 @@ types, adapted for a semi-nocturnal existence in moderately forested
 areas. This species already possessed a fair level of intelligence when
 tectonic shifts created a land bridge between two continents, allowing a
 large number of different, and frequently dangerous, species to invade
-the proto-Hlanssai’s home environment.
+the proto-Hlanssai's home environment.
 ```
 
 ```
@@ -2653,7 +2653,7 @@ now enhanced these to exceptional levels. Hlanssai intelligence was
 the product of the need to analyse and comprehend sensory inputs;
 Hlanssai psychology is therefore oriented overwhelmingly towards
 immediate sensory awareness and possible responses. Likewise, the
-species’ philosophies are sensualistic, frequently dismissive of the long
+species' philosophies are sensualistic, frequently dismissive of the long
 term and notoriously sybaritic and hedonistic.
 ```
 
@@ -3483,7 +3483,7 @@ Hlanssai culture had achieved a kind of static equilibrium when the race
 was first contacted by the Vargr and has changed only slightly since.
 Hlanssai psychology dictates that complex, rigid social systems and long-
 range planning are impossible and even familial or tribal bonds are weak.
-Balancing this, the species’ tendency towards cooperation in the face of
+Balancing this, the species' tendency towards cooperation in the face of
 immediate danger is powerful. The result is a system of administration
 ```
 
@@ -3510,7 +3510,7 @@ strong racial need and persuade others to work together to meet it.
 
 ```
 Normally, the Vargr have poor relations with minor races within their
-territory but the Hlanssai are an exception. The species’ immense
+territory but the Hlanssai are an exception. The species' immense
 versatility, subtlety and talent for empathy enables them to persuade
 others of their usefulness, and Hlanssai social scientists, servants,
 traders and spies have travelled virtually everywhere that the Vargr have
@@ -3528,22 +3528,22 @@ curiosity mixed with ironic humor.
 
 ```
 A final important concept to note when dealing with Hlanssai is that
-of N’tarronth and its converse, N’tarronchii’a; a further consequence
-of Hlanssai sensualism. N’tarronth is usually translated as ‘shaping’
-or ‘manufacturing’ but it can best be expressed in human terms as
-‘imposing arbitrary form upon the universe’. Hlanssai are acutely aware
+of N'tarronth and its converse, N'tarronchii'a; a further consequence
+of Hlanssai sensualism. N'tarronth is usually translated as 'shaping'
+or 'manufacturing' but it can best be expressed in human terms as
+'imposing arbitrary form upon the universe'. Hlanssai are acutely aware
 of the distinction between the natural and artificial, and regard one of the
 most important aspects of individual behaviour to be the extent to which
 a being accepts external reality and acts within existing limitations. A
 being who rejects things-as-they-are and seeks to shape reality to their
-will is or displays N’tarronth; a being who takes a passive, accepting view
-is N’tarronchii’a.
+will is or displays N'tarronth; a being who takes a passive, accepting view
+is N'tarronchii'a.
 ```
 
 ```
 Despite the fact that other races view them as mercurial and unstable,
 Hlanssai tend – by their own standards at least – to be highly consistent in
-being either N’tarronchii’a or N’tarronth. They regard an inability to choose
+being either N'tarronchii'a or N'tarronth. They regard an inability to choose
 between the two modes of behaviour as decidedly odd, comparable with a
 refusal to eat or drink. This does not imply any question of good or evil in
 Hlanssai terms; it is simply a matter of normal sentient behaviour.
@@ -3551,10 +3551,10 @@ Hlanssai terms; it is simply a matter of normal sentient behaviour.
 
 ```
 In general, music, applied science, law, manufacturing industry and
-exploration are classed as N’tarronth, whereas mathematics, figurative
-art and hedonism are N’tarronchii’a. To the Hlanssai, therefore, most
-other races tend towards N’tarronth but display an odd tendency to mix
-elements of N’tarronchii’a. In other words, Hlanssai understand other
+exploration are classed as N'tarronth, whereas mathematics, figurative
+art and hedonism are N'tarronchii'a. To the Hlanssai, therefore, most
+other races tend towards N'tarronth but display an odd tendency to mix
+elements of N'tarronchii'a. In other words, Hlanssai understand other
 species as little as other species understand Hlanssai.
 ```
 
@@ -3577,8 +3577,8 @@ long – and an inability to remain on good
 terms with one employer for extended
 periods – keeps them on the move.
 
-Some Hlanssai become ‘liaison
-specialists’ in the employ of merchant
+Some Hlanssai become 'liaison
+specialists' in the employ of merchant
 starships engaged in exploratory
 work, in which their immense
 capacity for empathy is extremely
@@ -3602,14 +3602,14 @@ on 1D+4.
 Hlanssai Travellers all possess one of the
 following traits:
 
-N’tarronth: This Hlanssai is the sort to impose
+N'tarronth: This Hlanssai is the sort to impose
 their will upon the universe and likely has a
 technical inclination. They gain DM+2 on all
 checks rolled to make things happen, such as
 persuading someone to do something or building
 a device to carry out a necessary function.
 
-N’tarronchii’a: This Hlanssai goes with the flow
+N'tarronchii'a: This Hlanssai goes with the flow
 of the universe and has an inclination towards
 arts and sciences that explain mysteries of the
 cosmos. The Hlanssai gains DM+2 on all checks
@@ -3617,7 +3617,7 @@ cosmos. The Hlanssai gains DM+2 on all checks
 48
 
 ```
-dealing with comprehension, such as understanding someone else’s
+dealing with comprehension, such as understanding someone else's
 motivations or expressing the gravitational forces around a star in
 mathematical form.
 ```
@@ -3633,29 +3633,29 @@ merchant marine or corporate agent).
 
 ```
 Hlanssai raised in their home society do not follow the standard
-career system but instead choose whether they are N’tarronth or
-N’tarronchii’a. The Traveller then begins a series of one to six terms
-of service. N’tarronth Hlanssai can choose how many terms to serve
-but N’tarronchii’a roll 1D for the number of terms served. There are
+career system but instead choose whether they are N'tarronth or
+N'tarronchii'a. The Traveller then begins a series of one to six terms
+of service. N'tarronth Hlanssai can choose how many terms to serve
+but N'tarronchii'a roll 1D for the number of terms served. There are
 no re-enlistment, commission, promotion or survival checks, but each
 term the Hlanssai gain a skill and roll to see if they gain an extra skill
-on top of this. N’tarronth Hlanssai gain an extra skill on a straight check
-of 10+. N’tarronchii’a Hlanssai gain an extra skill on 8+.
+on top of this. N'tarronth Hlanssai gain an extra skill on a straight check
+of 10+. N'tarronchii'a Hlanssai gain an extra skill on 8+.
 ```
 
 ```
 All Hlanssai may roll on the Life and Activity skill tables below, or on the
-N’tarronth or N’tarronchii’a table according to chosen philosophy.
+N'tarronth or N'tarronchii'a table according to chosen philosophy.
 ```
 
 ###### Hlanssai Skills
 
 ```
-1D Life Skills Activity Skills N’tarronth Skills
+1D Life Skills Activity Skills N'tarronth Skills
 ```
 
 ```
-N’tarronchii’a
+N'tarronchii'a
 Skills
 1 DEX +2 END +1 DEX +1 Art
 2 INT +1 DEX +1 Mechanic Profession
@@ -3703,7 +3703,7 @@ of these complex compounds to rise to the surface, making them much
 more economical to obtain.
 
 One of the main difficulties for cloud miners is the lack of a life-bearing
-world from which to sally forth in their search for the ‘big score’. For
+world from which to sally forth in their search for the 'big score'. For
 several decades, a small orbital station was used as a starport, a Class
 D affair that rapidly showed wear as traffic into, and out of, Enkidu
 increased.
@@ -3724,7 +3724,7 @@ considerable population of wildcat prospectors.
 Simply put, Shamhat is wealthy enough to provide a good living for a small
 prospecting business or independent wildcatter, yet too sparse to bring in
 the heavier players of the mining trade. Some of the wildcatters refer to this
-as the ‘Goldilocks Effect,’ perfect for independents such as themselves.
+as the 'Goldilocks Effect,' perfect for independents such as themselves.
 ```
 
 ### HISTORY AND DEVELOPMENT
@@ -3758,10 +3758,10 @@ know where the boundary is located.
 ### GARDEN CENTRE
 
 ```
-Garden Centre is the nerve centre of the base and at six levels tall, is the
-highest elevation. It consists of the headquarters, a small ‘sleep coffin’
+Garden Centre is the nerve center of the base and at six levels tall, is the
+highest elevation. It consists of the headquarters, a small 'sleep coffin'
 area for on-call HQ personnel, various support-related facilities (kitchens,
-trauma centre, EVA Bay) and some cargo space. The single ‘big gun’ of
+trauma center, EVA Bay) and some cargo space. The single 'big gun' of
 the station, a large particle beam bay, is located here, along with five
 double laser turrets. Beneath the Garden Centre is the hydroponic dome.
 ```
@@ -3800,7 +3800,7 @@ The Outer Ring is two (and occasionally three) levels tall and contains
 more of the commercial elements of the station as well as the main
 defensive capabilities (40 retractable weapon emplacements). The
 commercial elements include main warehouses (both standard and
-hazmat) with loading equipment, the station’s many mobile repair rigs,
+hazmat) with loading equipment, the station's many mobile repair rigs,
 two medium-sized bars (the Debris Field and Blast Chamber) as well
 as several takeout restaurants and a wide variety of shops and offices
 occupied by small entrepreneurs. A medical facility provides care for
@@ -3830,7 +3830,7 @@ dispatched by the station headquarters).
 ### BRANDENBURG HOTEL
 
 The Brandenburg Hotel is a luxury class hotel, named for one of the
-members of the Consortium (who substantially funded the hotel’s
+members of the Consortium (who substantially funded the hotel's
 construction and demanded the right to name it after herself). It
 holds 80 guest rooms (five of which are large suites) and amenities
 
@@ -3864,7 +3864,7 @@ holds 80 guest rooms (five of which are large suites) and amenities
 Places of Interest
 ```
 
-1. Prospector’s Palace
+1. Prospector's Palace
 2. Gilgamesh Arms
 3. Redspot Inn
 4. Brandenburg Hotel
@@ -3921,23 +3921,23 @@ Landing Pads
 54
 
 ```
-(restaurant, casino, medical centre, shopping area and checkpoint at
+(restaurant, casino, medical center, shopping area and checkpoint at
 the entrance to enhance security) as well as accommodations for the
 hotel personnel (48 total: 40 standard and 6 luxury suites, along with
-Virette Brandenburg’s massive double suite and a second double suite
+Virette Brandenburg's massive double suite and a second double suite
 she sets aside for friends).
 ```
 
 ```
 Areas of significance include the Brandenburg Ballroom, a fine restaurant
 of significant size known for excellent food and elegant ambiance, and
-Virette’s, a high-class club/bar named after Brandenburg herself. The
+Virette's, a high-class club/bar named after Brandenburg herself. The
 décor is high-tech, with lots of transparent materials and high-gloss
 chrome with lightstrips.
 ```
 
 ```
-Boutique Row, the hotel’s shopping area, contains a number of upscale
+Boutique Row, the hotel's shopping area, contains a number of upscale
 boutiques including some high profile out-system chains.
 ```
 
@@ -3945,19 +3945,19 @@ boutiques including some high profile out-system chains.
 
 ```
 The Gilgamesh Arms is a standard hotel, with 120 rooms, a small
-trauma station for guest’s medical emergencies, a shopping area, a
+trauma station for guest's medical emergencies, a shopping area, a
 small casino area and accommodation for the hotel staff (24 total: 20
 standard and 4 luxury)
 ```
 
 ```
 The Hall of Kings (a hotel/restaurant) is considered to be a decent place to
-eat, with a ‘rustic’ motif (weapons/shields on walls). Apparently, someone
+eat, with a 'rustic' motif (weapons/shields on walls). Apparently, someone
 thought Gilgamesh was a Viking, however, as most of the motif is far
 more Norse than Babylonian. The Enkidu Tearoom (bar) is surprisingly
 upscale for the Gilgamesh Arms. The wainscoting here is made from real
 teak imported from three parsecs away. Among the several small shops
-is Max’s Munitions, which performs gun repairs and modifications for
+is Max's Munitions, which performs gun repairs and modifications for
 reasonable prices, owned/operated by a retired Marine Staff Sergeant
 (Maxine LeDoun).
 ```
@@ -3973,7 +3973,7 @@ tiny bar attached to their restaurant and a few more shops than usual.
 ```
 
 ```
-The Prospector’s Palace is a two-level economy hotel, which provides
+The Prospector's Palace is a two-level economy hotel, which provides
 service to Travellers who have reached the system with very little in
 their pockets. As befitting the name, the Palace provides occasional
 service to the local wildcat miners of Shamhat who have grown tired of
@@ -3987,16 +3987,16 @@ and many rooms are listed as dual occupancy) and minimal amenities
 55
 ```
 
-(cafeteria, several takeout food joints, undersized trauma centre for
+(cafeteria, several takeout food joints, undersized trauma center for
 total capacity) as well as accommodations for the hotel staff (32 total:
 12 standard and 20 basic).
 
-Alice’s, a takeout restaurant with a surprisingly good breakfast bar,
+Alice's, a takeout restaurant with a surprisingly good breakfast bar,
 opens promptly at 0600 hours. The Golden House is the largest bar on-
 station and certainly the least attractive; this is the place to go for harder-
 to-get information, not only about Siduri Station and Shemhat, but the
 rigs around Enkidu as many of the rig personnel spend their off-time
-here. The Prospector’s Palace only contains one (rather large) shop,
+here. The Prospector's Palace only contains one (rather large) shop,
 the Forty-Niner, rented out by Hervé Schalt, who specialises in providing
 gear to the local miners. A good deal of this equipment is used (gently
 and otherwise), some of it is stolen (fell off a transport) and some of it
@@ -4028,8 +4028,8 @@ or commercial traffic as needed).
 
 Several Bars are present; Alpha Terminal sports the Naïveté, the Foggy
 Bottom and the Tiki Roadhouse. Beta Terminal hosts the Armadillo Pub,
-the Vortex Café and Dr. Diablo’s, which serves ‘Dr. Diablo’s Miracle
-Cure,’ guaranteed to de-rust lug nuts or get someone appallingly drunk.
+the Vortex Café and Dr. Diablo's, which serves 'Dr. Diablo's Miracle
+Cure,' guaranteed to de-rust lug nuts or get someone appallingly drunk.
 
 The terminals also feature a single security checkpoint outside of the
 dual linkway that leads into the Outer Ring. This checkpoint does not
@@ -4047,7 +4047,7 @@ from the Outer Ring.
 Places of Interest
 ```
 
-1. Prospector’s Palace
+1. Prospector's Palace
 2. Gilgamesh Arms
 3. Redspot Inn
 4. Brandenburg Hotel
@@ -4143,7 +4143,7 @@ be used for ship airlocks or on most ship bay doors. The smallcraft pads
 and 1,000-dton hangars have single refuelling stations (which can pump
 in one dton of fuel a minute) and basic loading rigs, while the 5,000-dton
 pads have two refuelling stations, (allowing a 5,000-dton jump-4 ship to
-be refuelled in a ‘mere’ 16 hours and 40 minutes) and industrial loaders.
+be refuelled in a 'mere' 16 hours and 40 minutes) and industrial loaders.
 ```
 
 ### THE CONSORTIUM BOARD
@@ -4168,7 +4168,7 @@ portion of Phase I based on his helium-3 strike some 20 years ago. As
 such, Jorace is the plurality stockholder of the Siduri Consortium (28%
 currently). While he stays on the station for some part of the time, Jorace
 continues to prospect on Shemhat and has an extensive sealed habitat
-of his own on the other side of the planet called ‘Shadewell’ by the locals.
+of his own on the other side of the planet called 'Shadewell' by the locals.
 ```
 
 ```
@@ -4199,14 +4199,14 @@ money was used on the base itself but some was devoted to building
 the Brandenburg Hotel, which she demanded the right to name (after
 herself) and runs as her own little fiefdom. She spends practically all
 of her time on the station, in a luxury double-suite of her own design in
-the hotel. Her parties, all held at the eponymous bar/nightclub Virette’s,
+the hotel. Her parties, all held at the eponymous bar/nightclub Virette's,
 are ongoing affairs.
 
 Virette Brandenburg has the dubious honor of having another of the
-moons of Enkidu named after her, Virette’s Moon, which whilst initially
+moons of Enkidu named after her, Virette's Moon, which whilst initially
 taken for a rogue asteroid of good size, has since been listed as an
-irregular moon. It was named for her, because like it, she is ‘highly
-eccentric, yet lifeless and hard as hell’ according to the discoverer (a
+irregular moon. It was named for her, because like it, she is 'highly
+eccentric, yet lifeless and hard as hell' according to the discoverer (a
 former lover). She has sole mining rights over the iron-rich asteroid and
 used those profits to buy herself into the Consortium.
 
@@ -4227,16 +4227,16 @@ the stake of Virette Brandenburg (who hates him vehemently). His stake
 of the Consortium is currently 18%.
 
 Brookings has a laid-back personal style and considers his employees
-and underlings to be ‘colleagues’ (one of his favourite words). He
+and underlings to be 'colleagues' (one of his favorite words). He
 stresses original thinking and the need to approach problems from a
 different perspective.
 
-#### Oliver O’Hallaran
+#### Oliver O'Hallaran
 
-Oliver O’Halloran is the only member of the initial Consortium Board who
-was not a wildcatter. O’Halloran ran a tramp starship line, which went
+Oliver O'Halloran is the only member of the initial Consortium Board who
+was not a wildcatter. O'Halloran ran a tramp starship line, which went
 from two to eight ships before he was bought out by investors. After
-paying off his debts, O’Halloran decided to sink a portion of his remaining
+paying off his debts, O'Halloran decided to sink a portion of his remaining
 funds into the Consortium, as the system was a place he knew well on
 his trade run and the other Consortium members were individuals with
 whom he not only had a great deal of trust in but had values he admired.
@@ -4244,7 +4244,7 @@ His was one of the smaller stakes (the rest of his money having gone into
 other investments) initially, although he placed more of his money into
 the Consortium during Phase II, raising his stake to 11.2%.
 
-O’Hallaran spends much of his time outside of the system. He has
+O'Hallaran spends much of his time outside of the system. He has
 married since investing in the Consortium and spends much of his time
 with his wife and three daughters, the eldest of whom is coming of age
 
@@ -4263,7 +4263,7 @@ Harlan Jorace
 ```
 
 ```
-Oliver O’Hallaran
+Oliver O'Hallaran
 ```
 
 ```
@@ -4302,7 +4302,7 @@ Smaller Investors
 
 ```
 and spends more time on Siduri Station than he does. In fact, Jennifer
-O’Halloran may well receive the shares of her father in the Consortium
+O'Halloran may well receive the shares of her father in the Consortium
 soon, as she has a great deal of interest in the Station and has been
 studying habitat management rather intensely.
 ```
@@ -4313,14 +4313,14 @@ studying habitat management rather intensely.
 Talia Ghardishan is not strictly a member of the Consortium but she does
 officially represent the off-world investment bureau Saarbar Landesbank
 AG (SLAG) and votes on their behalf. She has an apartment on
-Siduri Station but spends much of her time looking after SLAG’s other
+Siduri Station but spends much of her time looking after SLAG's other
 investments in other nearby systems and thus spends very little time on-
 station. SLAG owns 10% of the stake in the Consortium.
 ```
 
 ```
 Ghardishan is a no-nonsense personality, likeable but definitely out for her
-own interests at all times. Oliver O’Hallaran has expressed open dislike of
+own interests at all times. Oliver O'Hallaran has expressed open dislike of
 her and petitioned SLAG to appoint a new representative but the reasons
 for his intense feelings have not been manifest to the other members of the
 Consortium. For her own part, Ghardishan takes it all in apparent stride.
@@ -4336,7 +4336,7 @@ Enkidu Highport when she was injured and fought a major engagement
 against a group of pirates who thought that skim-mining operations
 were easy targets. She currently has neither friends nor enemies on
 the Consortium Board but respects Harlan Jorace and gets along well
-with both Brookings and O’Hallaran.
+with both Brookings and O'Hallaran.
 ```
 
 #### Siduri station Umbrella Corporation
@@ -4391,7 +4391,7 @@ Peter Brookings and, after that, Harlan Jorace.
 
 Balistika Sekureco (Ballistic Security) is a firm hired to provide the
 security on the station. The same company covers security contracts on
-several of Enkidu’s rigs as well as the station and is headquartered in the
+several of Enkidu's rigs as well as the station and is headquartered in the
 next coreward system. There are 120 members of the team on Siduri,
 which operate in three shifts of 40.
 
@@ -4400,7 +4400,7 @@ which operate in three shifts of 40.
 ```
 Approximately 15 of the security personnel man checkpoints around the
 station and 20 more perform one- and two-man patrols. The final five
-of the on-shift personnel are located in the security centre, including a
+of the on-shift personnel are located in the security center, including a
 coordinator and assistant coordinator and three on monitoring duty.
 ```
 
@@ -4413,8 +4413,8 @@ Sekureco personnel, there are 18 station security personnel on Siduri
 Station, divided into three shifts of six, who help man the monitoring
 room, perform any investigations as needed and generally support the
 Sekureco personnel. If the Sekureco Contract is severed (by either
-party), these are the individuals who will serve as the ‘institutional
-memory’ of the station, security-wise.
+party), these are the individuals who will serve as the 'institutional
+memory' of the station, security-wise.
 ```
 
 ```
@@ -4477,7 +4477,7 @@ units whilst submerged, which presents some unusual challenges.
 
 ## SENSOR OPERATIONS
 
-Water (and similar fluids) can have curious effects on a vessel’s
+Water (and similar fluids) can have curious effects on a vessel's
 sensor systems, especially if not calibrated to deal with the underwater
 environment. Water transmits sound extremely well, so sensor
 equipment may pick-up distant underwater landslides, turbulence
@@ -4489,7 +4489,7 @@ The sensor equipment of vessels designed for space will not be damaged
 by submersion to a modest depth but unfurling large equipment such as
 a distributed array – or moving with one deployed – may impose shearing
 forces upon it that will break supports not designed for such loads. Hull-
-mounted sensors and any system within a vessel’s streamlining will be
+mounted sensors and any system within a vessel's streamlining will be
 unharmed by underwater movement, although they may be subject to
 pressure effects in deep water.
 
@@ -4509,21 +4509,21 @@ track the airborne target.
 
 In addition, the range of sensors not designed for underwater work is
 greatly attenuated. Optical sensors, including thermal cameras, have a
-useful range measured in tens of metres and may be entirely useless
+useful range measured in tens of meters and may be entirely useless
 without powerful external lights.
 
 64
 
 ```
-Radar and similar sensors have a useful range of 100 metres per TL of
+Radar and similar sensors have a useful range of 100 meters per TL of
 the suite, within which they work normally but with the penalties listed
 previously. Radar can possibly detect a target out to five times that
-far but the power levels required will give away the sensing vessel’s
+far but the power levels required will give away the sensing vessel's
 position to any detector in the area, even ships in orbit, and sensor
 checks suffer an additional DM-2 for every multiple of their base
 range. Thus a TL10 radar system can be used with the usual DM-1
-for underwater sensor use out to one kilometre, suffering an additional
-DM-2 to two kilometres, DM-4 to four kilometres and so forth. These
+for underwater sensor use out to one kilometer, suffering an additional
+DM-2 to two kilometers, DM-4 to four kilometers and so forth. These
 penalties do not apply if the sensor is being used from a shallow depth
 to detect and track airborne targets.
 ```
@@ -4544,7 +4544,7 @@ for spacecraft. Thus an acoustic sensor module is not included in any
 standard package. Acoustic sensors include hydrophones and sonar
 systems; the former are highly sensitive microphones that pick-up
 underwater sounds, while the latter send out pulses in active mode to
-search for obstructions or targets, or be used to detect other vessels’
+search for obstructions or targets, or be used to detect other vessels'
 sonar emissions.
 ```
 
@@ -4573,7 +4573,7 @@ in the field or created at TL5 or above. Both will end up costing about the
 same and have similar characteristics. A minimal acoustic sensor fit has
 little processing capability and cannot be used to offset the underwater
 sensor penalty. Minimal acoustic sensors have an effective range of one
-kilometre and cost Cr10 per ton of the vessel’s hull.
+kilometer and cost Cr10 per ton of the vessel's hull.
 ```
 
 ```
@@ -4584,25 +4584,25 @@ Basic Acoustic Sensors: A basic sensor kit can be built at TL6. It
 includes depth-finding sonar as well as target detection and tracking
 systems. Basic acoustic sensors can be used to offset the DM-1 for
 using conventional sensors underwater. Effective range is about two
-kilometres and the cost is Cr25 per ton of the vessel’s hull.
+kilometers and the cost is Cr25 per ton of the vessel's hull.
 
 Enhanced Acoustic Sensors: Enhanced acoustic sensors are
 available at TL7 and add detailed mapping functions within half of
 their effective range, gaining DM+1 to detect and analyse underwater
-targets at all ranges. Effective range is five kilometres and the cost is
+targets at all ranges. Effective range is five kilometers and the cost is
 Cr50 per ton of hull.
 
 Advanced Acoustic Sensors: Advanced acoustic sensors are available
 at TL9 and have greatly increased range, performing detailed mapping
 functions within half their effective range. They grant DM+2 to detect
 and analyse underwater targets at all ranges. Effective range is ten
-kilometres and the cost is Cr100 per ton of hull.
+kilometers and the cost is Cr100 per ton of hull.
 
 Magnetic Anomaly Detectors: Magnetic Anomaly Detectors (MAD),
 also known as magnetometers, detect disturbances in a planetary
 magnetic field (if one exists), enabling metallic or magnetic objects to be
 passively detected at a distance. A TL8 MAD has an effective range of
-two kilometres and at TL10 this increases to five kilometres, assuming
+two kilometers and at TL10 this increases to five kilometers, assuming
 a sizable amount of magnetic material such as a submarine, surface
 vessel or submerged starship; a MAD cannot detect a non-magnetic
 object. MADs can be confused by magnetic storms, ECM, large metallic
@@ -4652,15 +4652,15 @@ This underwater targeting system reduces the penalty from DM-4 to DM-2.
 
 ```
 Projectile weapons are virtually useless underwater. Range is reduced to 5
-metres per damage dice of the weapon, after which the projectile sinks into
-the depths. Specialist underwater projectiles increase this to 25 metres per
+meters per damage dice of the weapon, after which the projectile sinks into
+the depths. Specialist underwater projectiles increase this to 25 meters per
 damage dice and cost three times as much as standard ammunition.
 ```
 
 ```
 Firing a high-velocity projectile underwater is likely to damage the weapon
 due to barrel pressure and the projectile itself will not travel far. Roll 2D
-each time the weapon is fired. On 10+ the gun’s barrel will rupture and its
+each time the weapon is fired. On 10+ the gun's barrel will rupture and its
 mechanism will be damaged. On 12+ the damage is sufficiently serious
 to allow water to enter the firing vessel or vehicle.
 ```
@@ -4668,7 +4668,7 @@ to allow water to enter the firing vessel or vehicle.
 #### Missiles
 
 ```
-Since spacecraft must sometimes fight in a gas giant’s atmosphere, their
+Since spacecraft must sometimes fight in a gas giant's atmosphere, their
 missiles are assumed to be built to with stand the stresses involved. These
 can be greater than those encountered underwater, so it is not necessary
 to build special missiles for underwater use. Similarly, launchers and
@@ -4707,8 +4707,8 @@ avoid this possibility a laser weapon can be modified for underwater use,
 increasing its cost and mass by 15%.
 
 Vehicle and personal scale laser weapons also suffer -1 to damage per
-metre of water they penetrate. Starship-grade lasers lose -1 point of
-damage per 10 metres of water they penetrate. In addition, a laser fired
+meter of water they penetrate. Starship-grade lasers lose -1 point of
+damage per 10 meters of water they penetrate. In addition, a laser fired
 at an underwater target suffers DM-2 to its attack rolls, with an additional
 DM-2 if the weapon must fire through the air/water interface, either from
 above at a submerged target or vice versa.
@@ -4725,7 +4725,7 @@ Other energy weapons are much less effective. Particle accelerator
 weapons cannot be used underwater and will not penetrate the surface
 of a body of water. Plasma and fusion guns will destroy themselves
 if fired underwater unless heavily modified, adding 75% to cost and
-mass. Even then, the weapon suffers a -2 to damage per metre of
+mass. Even then, the weapon suffers a -2 to damage per meter of
 water penetrated. On a 2D roll of 9+ a plasma or fusion gun (whether
 
 68
@@ -4799,7 +4799,7 @@ right. The marines provide a rapid strike capability or rapid-deployment
 defensive force. They also protect naval installations and the facilities of
 the unarmed services such as embassies. The Marine Corps enforces
 interstellar law in frontier areas, notably the Imperial Rules of War. For
-this reason some mercenaries refer to the marines as ‘the cops’.
+this reason some mercenaries refer to the marines as 'the cops'.
 
 The Marine Corps uses a very flexible organizational structure, as it may
 have to deploy anything from a detachment of 10 marines to an all-arms
@@ -4816,7 +4816,7 @@ to be missing one of its platoons, which has been broken up to provide
 small contingents here and there. Where possible, companies providing
 detachments in this manner are kept out of large-scale combat forces.
 Personnel not assigned to detachments receive training or protect the
-unit’s base. Any given company will rotate through large and small
+unit's base. Any given company will rotate through large and small
 scale deployments, gaining experience of all operation types.
 
 ## EXAMPLE MARINE TASK FORCE
@@ -4847,8 +4847,8 @@ carry out this role.
 Since the force is operating primarily as infantry, vehicles are considered
 to be part of an infantry unit rather than being separately commanded.
 Thus a grav APC with part of an infantry platoon riding in it is part of the
-infantry unit’s command structure rather than there being a command
-vehicle for the APCs of the platoon. A squad’s APC is considered to be
+infantry unit's command structure rather than there being a command
+vehicle for the APCs of the platoon. A squad's APC is considered to be
 part of the squad and commanded by its leader. APCs are capable of
 offering light fire support to their personnel and may remain in proximity
 during combat or retire to a safe laager point.
@@ -4884,7 +4884,7 @@ MARINE TASK FORCE
 71
 ```
 
-The headquarters contains most of the unit’s grav vehicles, which
+The headquarters contains most of the unit's grav vehicles, which
 are mostly variants on standard grav sleds. A number of air/rafts are
 assigned, some for unit commanders and others for scouting purposes.
 In practice, these vehicles are often away from their parent formation;
@@ -5002,7 +5002,7 @@ marine is a fighter first and a specialist second.
 #### Meson Battery
 
 ```
-The task force’s meson battery is assigned from the pool of support
+The task force's meson battery is assigned from the pool of support
 units available to the regiment. Meson artillery has the advantage that
 its particles can pass through solid matter, enabling the engagement
 of targets unavailable to conventional artillery or direct fire weapons.
@@ -5016,7 +5016,7 @@ command section.
 
 The battery normally receives targeting data and support requests from
 the line infantry but has its own forward observers who use the command
-section’s air/rafts. It is not uncommon to find one of these vehicles
+section's air/rafts. It is not uncommon to find one of these vehicles
 assigned temporarily to each line company during an engagement. Each
 firing section is a single meson gun sled, which are usually dispersed
 to avoid counter-battery fire. The marine squads of the security section
@@ -5063,7 +5063,7 @@ make room for a larger power plant and fuel tanks. It is armed with a heavy
 fusion gun for direct-fire support. Similarly, the point-defence APCs have
 limited space for passengers but mount rapid-fire gatling laser systems for
 aerospace and missile defence. They are sometimes used for direct fire
-support against ‘soft’ targets such as light vehicles and infantry.
+support against 'soft' targets such as light vehicles and infantry.
 
 - Command APC
 - Fuel Sled
@@ -5073,7 +5073,7 @@ support against ‘soft’ targets such as light vehicles and infantry.
 74
 
 ```
-The force’s grav sleds are more lightly protected than the APCs and
+The force's grav sleds are more lightly protected than the APCs and
 not intended for direct combat operations. All are based on the same
 chassis and the majority mount a gauss gun for self-defence. This
 includes ambulances, although medical vehicles will normally only
@@ -5097,7 +5097,7 @@ clumsy, and vehicle-mounted.
 ```
 
 ```
-A marine’s fusion gun can kill a mid-tech tank and mid-tech aircraft simply
+A marine's fusion gun can kill a mid-tech tank and mid-tech aircraft simply
 cannot survive in airspace swept by TL14 aerospace defence weapons.
 A marine task force can punch a hole right through a conventional force
 many times its size, dismounting from its APCs only to take enemy
@@ -5309,9 +5309,9 @@ duties for several months. In early 1107, local rebels mustered forces and
 mounted a breakout with a rag-tag accumulation of several converted
 commercial ships. Fearing this operation was a diversion meant to sap
 Imperial blockade forces and yet unwilling to let the rebel task force go,
-Rear Admiral Santeenochev’s staff dispatched several hired vessels in
+Rear Admiral Santeenochev's staff dispatched several hired vessels in
 pursuit. Mercenary cruiser Dagger was one of them. It left on less than
-an hour’s notice, leaving behind its troop unit.
+an hour's notice, leaving behind its troop unit.
 ```
 
 ```
@@ -5324,11 +5324,11 @@ and are now proceeding toward Efate.
 
 ```
 System Control Efate communicates that mercenary cruiser Dagger has
-just emerged from jump space close to the Travellers’ ship and is not
+just emerged from jump space close to the Travellers' ship and is not
 acknowledging attempts to make contact. Nor is it manoeuvring, which
 suggests it may be in need of help. Since all available naval vessels
 are engaged in the battle on the far side of the system, System Control
-instructs the Travellers’ ship to investigate and render assistance as
+instructs the Travellers' ship to investigate and render assistance as
 required. This is within the bounds of interstellar law and with so much
 military activity in the system the Travellers might be ill-advised to disobey.
 ```
@@ -5337,9 +5337,9 @@ military activity in the system the Travellers might be ill-advised to disobey.
 
 ```
 Dagger is lifeless and unmanned. Its controls have been wrecked and
-the ship’s computer has been largely disabled. All remaining functions
+the ship's computer has been largely disabled. All remaining functions
 are carried out automatically, with little intelligence on the part of the
-ship’s systems.
+ship's systems.
 ```
 
 ```
@@ -5373,7 +5373,7 @@ cannot possibly be coincidence.
 
 Dagger will hit the upper atmosphere in a little over eight hours. If the
 Travellers are aboard at that point they will be unable to leave before the
-ship plunges into the ground. The obvious solution is to alter the ship’s
+ship plunges into the ground. The obvious solution is to alter the ship's
 course so it misses Efate or, ideally, to bring it under control.
 
 There is an additional problem, which the Travellers may or may not
@@ -5417,7 +5417,7 @@ excludes planetoids and gas giants. Typically, the mainworld of a system
 will be the most habitable planet or the one with the best resources. This
 is not always the case, such as where a habitable world is economically
 unsuitable or a resource-rich one is extremely hostile. In such cases the
-system’s primary population will dwell elsewhere and exploit resources
+system's primary population will dwell elsewhere and exploit resources
 with temporary expeditions or resource-extraction camps inhabited on a
 transient basis by workers who live elsewhere.
 ```
@@ -5470,7 +5470,7 @@ Population
 Population should be assigned by the Referee in most cases and
 will usually be zero. This does not necessarily mean there is no-one
 there – a world could have a small number of scientists, prospectors
-and perhaps hidden ne’er-do-wells present at any time but would still
+and perhaps hidden ne'er-do-wells present at any time but would still
 be considered uninhabited. If random determination is desirable, roll
 Population on 2D-8.
 
@@ -5527,7 +5527,7 @@ the ability to produce large amounts of goods at that Tech Level.
 Another option when generating non-mainworlds is to simply assign them
 UWP values appropriate to their position in the system. The Referee
 should feel free to place non-mainworld societies wherever they are
-likely to be interesting or relevant to the Travellers’ activities.
+likely to be interesting or relevant to the Travellers' activities.
 ```
 
 ```
@@ -5594,8 +5594,8 @@ least remain independent.
 
 As a rule, even where a system contains multiple independent
 settlements there will be hubs of commerce that tend to prosper to a
-greater degree than other communities. Often the system’s mainworld
-is the primary centre for commerce and equipment supply, serving the
+greater degree than other communities. Often the system's mainworld
+is the primary center for commerce and equipment supply, serving the
 independent outsystem communities and making money off them even
 if it does not control their actions. This is not always the case however;
 a major mining installation operated by a large corporation may receive
@@ -5608,7 +5608,7 @@ TYPES OF NON-MAINWORLD
 In general, the most habitable planet in a system becomes its mainworld.
 It is uncommon, but not unknown, for there to be more than one habitable
 world in a system but as a rule most non-mainworlds are located outside
-the ‘warm zone’ of the system and require life support equipment for
+the 'warm zone' of the system and require life support equipment for
 human habitation. It is this expense, as much as anything else, that
 dictates which planet in a system is colonized and which are, at most,
 used for resource extraction.
@@ -5630,8 +5630,8 @@ known to exist very close to stars.
 ```
 Life, at least in the conventional sense, is unlikely to exist on a hot-zone
 world due to extreme conditions. Many planets in this zone are tidally
-locked, with a ‘bright face’ always facing the primary and a ‘cold face’
-in eternal night. Between the two is a ‘twilight zone’ that is less extreme
+locked, with a 'bright face' always facing the primary and a 'cold face'
+in eternal night. Between the two is a 'twilight zone' that is less extreme
 in its conditions and it is usually here that installations are built. The
 twilight zone can be quite turbulent on worlds that have more than a
 trace atmosphere.
@@ -5640,7 +5640,7 @@ trace atmosphere.
 ```
 The economic advantage of exploiting hot-zone worlds is that they are
 closer to the common mainworld locations than outsystem resource sites.
-Getting ore or minerals to market can still be a problem when the planets’
+Getting ore or minerals to market can still be a problem when the planets'
 orbits place them on opposite sides of the star but as a rule transit times
 are still lower than hauling all the way out to an outsystem rockball.
 ```
@@ -5655,7 +5655,7 @@ have any value on worlds that have an atmosphere.
 
 ```
 Warm Zone Non-Mainworlds
-If there is more than one planet within or on the fringes of the system’s
+If there is more than one planet within or on the fringes of the system's
 warm zone, the best prospect usually becomes the mainworld and the
 other – in rare cases multiple others – will be secondary colonies. However,
 not all warm-zone worlds are suitable as mainworlds. Hell worlds with
@@ -5851,7 +5851,7 @@ The lower deck level is predominantly crew quarters and cargo hold.
 
 ```
 Upper Deck Level
-The upper deck level contains the bridge, officers’ quarters, the galley
+The upper deck level contains the bridge, officers' quarters, the galley
 and sickbay.
 ```
 
@@ -5864,14 +5864,14 @@ and sickbay.
 24. Ward Room for meals and leisure.
 25. Galley for meal preparation.
 26. Sick Bay.
-27. Officer’s Lounge for the privacy of officers in their leisure time.
-28. Command Pilot’s Stateroom.
-29. Navigator’s Stateroom
-30. Chief Engineer’s Stateroom.
-31. Medic’s Stateroom.
+27. Officer's Lounge for the privacy of officers in their leisure time.
+28. Command Pilot's Stateroom.
+29. Navigator's Stateroom
+30. Chief Engineer's Stateroom.
+31. Medic's Stateroom.
 32. Model/30 Computer Room.
 33. Air Lock.
-34. Ship’s Locker.
+34. Ship's Locker.
 35. Bridge with acceleration couches for command pilot and navigator.
 36. Forward Avionics Area.
 37. Dorsal Barbette with access via the ceiling hatch in location 24.
@@ -6008,7 +6008,7 @@ an opposable thumb. They also have four digits on their feet.
 ```
 
 ```
-The average Barnai is 150 centimetres tall and weighs 35kg. Barnai have
+The average Barnai is 150 centimeters tall and weighs 35kg. Barnai have
 small frames and enormous heads containing their prodigious brains.
 Their bone composition and density is identical to that of homo sapiens
 but the skeletal system is compact and more economically distributed
@@ -6021,7 +6021,7 @@ do little that requires exertion.
 ```
 
 ```
-The Barnai seem to have been designed with a ‘one size fits all’
+The Barnai seem to have been designed with a 'one size fits all'
 approach. Barnai are sterile and have only one androgynous gender.
 They are grown from the bioengineering vats of their homeworld and
 while they have vestigial sexual organs, perhaps an oversight by their
@@ -6036,7 +6036,7 @@ species fail to distinguish one Barnai from another. The Barnai are highly
 vulnerable in dangerous or challenging environments but that is where
 their enormous cohorts, the Feskals, come into the picture.
 
-Feskals average 2 metres in height and typically weigh 110kg or more.
+Feskals average 2 meters in height and typically weigh 110kg or more.
 Feskals have massive frames with immense musculature, particularly in
 the shoulders, upper back and upper legs. Their frames appear top-heavy
 but are exceedingly well balanced. The Feskal brow protrudes over deep-
@@ -6047,7 +6047,7 @@ example, Feskal who live on frigid worlds grow copious amounts of body
 hair to provide warmth and protection from the cold, while those on hot
 or desert worlds grow no hair at all and have adaptive thermal systems
 to help exhaust excess heat. In addition, Feskals are equally comfortable
-and nimble on both small planets and massive ‘super earths’.
+and nimble on both small planets and massive 'super earths'.
 
 ```
 Feskal
@@ -6176,7 +6176,7 @@ that the Ancients will ever return, the Floriani trudge on, caring for the
 ```
 Florian League
 The Beyond/Trojan Reach Sectors
-Mal’Gnar Radiant
+Mal'Gnar Radiant
 ```
 
 ```
@@ -6196,7 +6196,7 @@ Menorial
 ```
 
 ```
-Nora’a
+Nora'a
 ```
 
 ```
@@ -6205,8 +6205,8 @@ Aslan Hierate
 ```
 
 ```
-I’Sred*Ni Protectorate
-Mal’Gnar Primarchic
+I'Sred*Ni Protectorate
+Mal'Gnar Primarchic
 ```
 
 ```
@@ -6288,7 +6288,7 @@ frontiers. Not so with the Florian League.
 ```
 
 ```
-As the League began to expand and Floria’s bioengineering facilities
+As the League began to expand and Floria's bioengineering facilities
 created ever more Floriani, the Council of the Stars recognized the
 overwhelming need for two things; industrial goods and defence.
 ```
@@ -6296,7 +6296,7 @@ overwhelming need for two things; industrial goods and defence.
 ```
 Trossachs became the industrial engine of the Florian League where
 over 90 percent of its basic goods are manufactured and disseminated
-among the other worlds. Vadada, located precariously on the League’s
+among the other worlds. Vadada, located precariously on the League's
 periphery, became its primary military base and shipyard. Unfortunately,
 ```
 
@@ -6306,7 +6306,7 @@ periphery, became its primary military base and shipyard. Unfortunately,
 
 both Trossachs and Vadada have been threatened time and again by
 Florian incompetence. The impending ecological collapse of Trossachs
-could very well threaten the League’s ability to provide for the worlds of
+could very well threaten the League's ability to provide for the worlds of
 its empire and Vadada has historically found itself constantly under siege
 from the Hierate and Glorious Empire.
 
@@ -6364,9 +6364,9 @@ of official designations. Variants on the concept are sold by several
 companies seeking to dominate a particular segment of the market.
 The Splorabug (Explorer Buggy) consists of a rectangular equipment
 block with a bubble-like canopy on the front. This is pressurised and
-can support a ‘shirtsleeves’ environment but has no airlock; personnel
+can support a 'shirtsleeves' environment but has no airlock; personnel
 commonly wear vacc suits with the helmet off to operate the vehicle and
-‘button up’ to go outside.
+'button up' to go outside.
 ```
 
 ```
@@ -6453,26 +6453,26 @@ SPLORABUG
 TALSON AUTOMOTIVE
 
 ```
-‘CHALLENGER’ GROUND CAR
+'CHALLENGER' GROUND CAR
 According to the rather aggressive marketing by Talson Automotive,
 their Challenger ground car is intended to challenge the notion that grav
-vehicles are better than ground. Marketed as a ‘prestige performance and
-security’ vehicle, the Challenger is aimed at executives and celebrities
+vehicles are better than ground. Marketed as a 'prestige performance and
+security' vehicle, the Challenger is aimed at executives and celebrities
 who value comfort as much as high speed and might someday have to
 escape an assassination attempt... or who want everyone to think they
 are important enough to worry about such things.
 ```
 
 ```
-With a top speed of well over 700 kilometres per hour on a test track,
+With a top speed of well over 700 kilometers per hour on a test track,
 the Challenger is certainly quick. However, no amount of electronics will
 permit a car to reach such speed on normal roads. Enthusiasts talk about
-top speeds but what really matters is the ability to reach 200 kilometres
+top speeds but what really matters is the ability to reach 200 kilometers
 per hour within seconds of a standing start. The only way the Challenger
-can do this is to use variant Smart Wheels. Rather than being optimised
+can do this is to use variant Smart Wheels. Rather than being optimized
 for rough terrain, the wheels are designed to maintain traction and permit
 braking, steering and acceleration under conditions that would send a
-lesser vehicle careering off the road. Of course, at 200 kilometres per
+lesser vehicle careering off the road. Of course, at 200 kilometers per
 hour an average city street might well be considered rough terrain...
 ```
 
@@ -6486,7 +6486,7 @@ that the purchase price includes around Cr100000 of cosmetic touches,
 with additional options adding up to Cr250000 more. The entertainment
 system and contents of the wet bar both come in at Cr50000 each...
 and an upgrade package is of course available for those who consider
-120-year-old Scotch to be a ‘base model’ feature.
+120-year-old Scotch to be a 'base model' feature.
 ```
 
 ### 105
@@ -6565,10 +6565,10 @@ The Latien Hauler is aimed at a market niche somewhere between
 bulk freighting and tramp-trading. It will often be encountered on a long
 haul with several hundred tons of a single cargo type aboard plus an
 assortment of small freight lots much like those found aboard a typical
-subsidised merchant or free trader. It is capable of making planetary
+subsidized merchant or free trader. It is capable of making planetary
 landings and can service small ports that do not see many ships of this
 size, although its handling characteristics in an atmosphere have been
-described as being ‘like a pig on stilts’.
+described as being 'like a pig on stilts'.
 ```
 
 ```
@@ -6589,7 +6589,7 @@ lift shaft running from the lowest deck but requires crew identification
 to access the command/crew area. The lift opens into the small crew
 lounge, forward of which is the training room and bridge. Aft is a small
 workshop area and the engineering chamber, containing the jump drive
-and part of the ship’s power generating machinery. The rest of the power
+and part of the ship's power generating machinery. The rest of the power
 plant is dispersed as two modules, along with the maneuver drive, on
 the flanks of the main hull. Reaching these areas is rarely necessary
 due to remote operations and automation; they are cramped and not
@@ -6599,7 +6599,7 @@ designed to be accessed on an ongoing basis.
 ```
 The Latien Hauler is most definitely a cargo ship rather than passenger
 carrier. The cabins are comfortable enough and there is adequate
-common space but passengers are incidental to the ship’s main business.
+common space but passengers are incidental to the ship's main business.
 Despite this, the ship has a decent medical bay, in keeping with its role as
 a reputable cargo hauler forming part of a recognized shipping line. The
 training facility is normally set-up for piloting or astrogation revision rather
@@ -6612,9 +6612,9 @@ ships. Many a spacer started their career with on-the-job training aboard
 a Latien Hauler and most shipping lines like to cross-train their personnel
 or offer career development to assist retention.
 
-It is typical for ships of this type to have a ‘flight’ crew of two pilot/bridge
+It is typical for ships of this type to have a 'flight' crew of two pilot/bridge
 personnel, an astrogator and a captain (who is often also the astrogator),
-six engineering staff and a ‘deck’ crew of about half a dozen multi-skilled
+six engineering staff and a 'deck' crew of about half a dozen multi-skilled
 personnel acting as stewards, medics and cargo-wranglers as needed,
 in addition to carrying out maintenance and administrative tasks.
 
@@ -6762,7 +6762,7 @@ model, with additional TL12 items installed in the cargo hold.
 ```
 
 ```
-The vessel’s two batteries of fusion barbettes are located along its flanks
+The vessel's two batteries of fusion barbettes are located along its flanks
 whilst 12 pulse laser turrets are mounted in pairs around the dorsal and
 external surfaces of the maneuver drive compartments. All weapons
 are in concealed pop-up mounts, including the fusion barbettes.
@@ -6770,7 +6770,7 @@ are in concealed pop-up mounts, including the fusion barbettes.
 
 ```
 The Latien-Q has potent sucker-punch firepower but can be spotted
-by a wary pirate. The additional power plant, if active, alters the ship’s
+by a wary pirate. The additional power plant, if active, alters the ship's
 emissions; if it is not online this clue will be missed by hostiles but the
 ship lacks power to fire all weapons until the plant is started.
 ```
@@ -6963,7 +6963,7 @@ boats can be carried to their station or deployed as heavy gunships.
 The hangar is configured so unused space can still be used for freight,
 although this can make handling of both cargo and small craft awkward.
 
-Likewise, there is no missile magazine; the ship’s cargo hold is used to
+Likewise, there is no missile magazine; the ship's cargo hold is used to
 carry missile reloads. There is no protection for the bays or the reloads,
 so a hit amidships, aft of the hangar area, risks blowing the whole ship
 in two. Aft of the missile bays and remaining cargo space is a small
@@ -7149,7 +7149,7 @@ Fuel
 ## ASHUSHUM
 
 ```
-The ashushum, which roughly translates as ‘leather snake’ is a creature
+The ashushum, which roughly translates as 'leather snake' is a creature
 native to Vland, which sheds tough skin that can be worked into leather
 or a flatbread analogue. Its eggs have extremely well known nutritional
 properties and preparation methods. The ashusum was one of the
@@ -7206,7 +7206,7 @@ Vland, having never benefited from augmentation beyond selective
 breeding. Some ashushum farms on Vland have been in continuous
 operation, providing seed stock for numerous colonies, for over 10,000
 years and are quite the sight to behold, with automated food distribution
-and moult gathering machines poking out of several square kilometres
+and moult gathering machines poking out of several square kilometers
 of ashushum pens, which look from a distance like writhing, slithering
 ground. Many Solomani report a sensation of slight unease when first
 beholding such an operation.
@@ -7217,11 +7217,11 @@ The auwoil are small rodents that Aslan like to keep around to hunt. Fast
 but dumb, they are easily tricked into enclosed spaces, around which
 they run until they are caught or find a way out. This behaviour comes
 from being bred to get euphoria from running. In zero-g environments
-they will often ‘treadmill’ around a room, running around in circles so long
+they will often 'treadmill' around a room, running around in circles so long
 as their clawed toes can find footholds.
 
 Auwoils use their large hind legs to almost fly over the ground, being
-capable of horizontal leaps of six metres in rapid succession. This quick
+capable of horizontal leaps of six meters in rapid succession. This quick
 gait compensates for their small size, allowing them to nearly outrun an
 average adult Aslan.
 
@@ -7252,14 +7252,14 @@ BEHAVIOUR Herbivore, Intermittent
 
 ```
 EAUEAL
-‘Eaueal’ translates from Trokh as ‘river gun’ and that is a fair summary
+'Eaueal' translates from Trokh as 'river gun' and that is a fair summary
 of the species. Some landowners within the Aslan Hierate view it as
 traditional to create small streams to mark territory boundaries, if no
 other landmarks are handy. Many of these streams host this imported eel
 analogue. In theory, they eat any small animals attempting to cross from
 one territory to another without permission (being incapable of language,
 they never ask). Many get by in practice but said small animals are the
-mainstay of adult eaueals’ diets even at some distance from the streams.
+mainstay of adult eaueals' diets even at some distance from the streams.
 ```
 
 ```
@@ -7294,7 +7294,7 @@ the eaueals can reach.
 
 Attacking from a distance is best done with thermal or other enhanced
 vision, as eaueals can change their skin coloration to sneak up on their
-favoured prey. They are also adept at using water to hide their presence,
+favored prey. They are also adept at using water to hide their presence,
 particularly fond of digging up dirt to hide their presence when they think
 some larger predator (such as an Aslan) is nearby. Ironically, trained
 hunters know the sudden appearance of these muddy clouds in the water
@@ -7423,7 +7423,7 @@ BEHAVIOUR Herbivore, Intermittent
 
 ```
 Most sophont races have a native equivalent but the Rule of Man
-thoroughly established the horse’s iconic status throughout much of
+thoroughly established the horse's iconic status throughout much of
 Charted Space. When the Third Imperium finally rose thousands of
 years later, horses were still the most commonly used riding animal.
 Millennia of development of the saddle have not changed the basic
@@ -7437,7 +7437,7 @@ Some worlds that forbid high technology, require travellers to ride
 horses (or walk) if they go beyond the starport. Every class D or higher
 downport on such a world has horses for lease – Cr100 to Cr1000 per
 day, higher prices where rentals are less common or supply is scarce,
-sometimes requiring D3 weeks’ lease as a deposit and refunding any
+sometimes requiring D3 weeks' lease as a deposit and refunding any
 unused deposit upon return. The image of a veteran pilot, master of
 vehicles from g/bikes to the largest capital ships but clueless about
 animals and needing to ride (often sidesaddle) with someone who can
@@ -7484,15 +7484,15 @@ forbidding the scanners necessary to tell the difference. Given the
 relatively high cost, this is usually about ornery pride rather than
 customization, familiarity and the other typically stated advantages.
 Citizens who suspect this cheating will sometimes claim it is customary
-to give a stranger’s horse a friendly pat or look in the horse’s mouth,
+to give a stranger's horse a friendly pat or look in the horse's mouth,
 as an excuse to check for motors instead of muscles under the skin,
-which results in a contest between the examiner’s Animals (veterinary)
-(INT) and the robot’s maker’s Deception (INT); an advanced skin
+which results in a contest between the examiner's Animals (veterinary)
+(INT) and the robot's maker's Deception (INT); an advanced skin
 package (changing the cost to Cr150000) gives the maker DM+ equal
 to the TL the robot was made at. Against technological sensors, this is
 Electronics (sensors) (INT) versus Deception (INT) and the advanced
 skin, if present and of a higher TL than the sensor, gives DM+ equal
-to the robot’s TL minus the sensor’s.
+to the robot's TL minus the sensor's.
 
 # LIVING REFINERY
 
@@ -7502,10 +7502,10 @@ direction – from asteroid to asteroid, eating just the stony parts, ejecting
 ore and ice, living off sunlight for energy and stone for nutrition. Entire
 cultures of sophonts are based on living refineries, living on docked
 spaceships (occasionally briefly leaving to tug more asteroids into their
-host’s path) until enough ice and/or ore has been accumulated, then
+host's path) until enough ice and/or ore has been accumulated, then
 heading to a nearby world to trade the goods for manufactured wares
 (tens or hundreds of thousands of tons of ore, for a new spaceship to
-house the clan’s expanded population, is common).
+house the clan's expanded population, is common).
 
 ```
 NAME Living Refinery
@@ -7535,7 +7535,7 @@ from asteroid to asteroid in a typical belt. When a living refinery grows
 large enough, it can be cut to make two smaller creatures, with any
 sophont clan aboard likewise dividing. Alternately, a living refinery
 can be put in shade from the sun for a while, killing it but making the
-equivalent of a spaceship’s planetoid hull in whatever shape the living
+equivalent of a spaceship's planetoid hull in whatever shape the living
 refinery was folded into as it died.
 ```
 
@@ -7543,7 +7543,7 @@ refinery was folded into as it died.
 Planetoid hulled ships are strongly cautioned to stay away from these
 creatures, as they will consume said hulls just like any asteroid.
 Damage varies by the amount of surface area in contact with the living
-refinery but usually one percent of the ship’s maximum Hull per combat
+refinery but usually one percent of the ship's maximum Hull per combat
 round, ignoring Armor. Ships with an outer skin made of metal (which
 is most ships) are safe.
 ```
@@ -7557,7 +7557,7 @@ Third Imperium during the Psionics Suppressions (800–820). The queen
 grows large enough to function as a mobile central hive, while retaining
 her ability to fly. Psibees are used as pollinators on worlds with psions,
 where the queens can be psionically controlled. One variant known as a
-‘magbee’ is magnetoreceptive, so as to be also
+'magbee' is magnetoreceptive, so as to be also
 controllable via magnets but
 retain their telepathy.
 ```
@@ -7597,21 +7597,21 @@ in, such as one whose workers have been depleted fighting the invaders.
 
 # RAMUMI
 
-Ramumis, also known as ‘Vilani rats’, are small furred egg layers found
+Ramumis, also known as 'Vilani rats', are small furred egg layers found
 throughout coreward Imperial space. Their eggs are the core ingredient
 in many Vilani dishes, suggesting they are from Vland but their ancestry
 is disputed. There are no records of ramumis on Vland prior to their
 discovery of the jump drive, although this was about 10,000 years ago
 so absence of evidence is not evidence of absence.
 
-They appear to have been a favourite of the Vlani
-shugilii, in the caste’s role as food preparers
+They appear to have been a favorite of the Vlani
+shugilii, in the caste's role as food preparers
 and eventually preservers of tradition. At
 some point training them to sing
 was adopted as a tradition;
 ramumi-sung hymns were
 composed to mark the Ziru
-Sirka’s founding, a few
+Sirka's founding, a few
 of which were sung for
 Cleon I upon the founding
 
@@ -7640,24 +7640,24 @@ has resulted in a black market. There have been underworld chefs who
 prided themselves on making feasts for their organizations featuring this
 ingredient. Some criminal groups use ramumi meat heists as training
 runs for new members, recording the heists to provide blackmail to
-secure said members’ loyalty.
+secure said members' loyalty.
 ```
 
 ```
-Ramumis are also, according to legend, favoured assassination tools
-in certain circles; train one to seek out a target’s scent, force feed it
+Ramumis are also, according to legend, favored assassination tools
+in certain circles; train one to seek out a target's scent, force feed it
 explosives, let it scamper where few think it a serious threat and
-detonate via radio when it perches on the target’s shoulder. Damage is
+detonate via radio when it perches on the target's shoulder. Damage is
 equal to a grenade (type depending on the choice of explosive, usually
-frag), ignoring the target’s armor unless the target is wearing something
+frag), ignoring the target's armor unless the target is wearing something
 covering the full body (specifically, the neck).
 ```
 
-# SHIP’S CAT
+# SHIP'S CAT
 
 ```
 Terran cats have been aboard ships since before the Solomani
-discovered jump drive but ship’s cats are specifically bred for life aboard
+discovered jump drive but ship's cats are specifically bred for life aboard
 ship. They can sense pressure differentials and electric fields, which can
 help find problems in ship systems and in the event of depressurization
 will instinctively seek out pressurised areas or enter rescue balls (which
@@ -7665,50 +7665,50 @@ they sometimes inhabit for no apparent purpose beyond fun). Certain
 breeds can survive a short time in vacuum (so long as they are in
 contact with a surface to draw heat from) and in distress are able to
 operate simple airlock controls to get back inside (they never do this
-when in normal atmosphere). Many ship’s cats will refuse to exit the
+when in normal atmosphere). Many ship's cats will refuse to exit the
 ship on all but standard atmosphere worlds (or in standard pressure
 regions of thin or dense atmosphere worlds) but have natural filters for
 tainted atmospheres. They have been thoroughly bred and engineered
 to not chew on wires or otherwise ruin sensitive systems and become
 temporarily infertile while in jumpspace, remaining so for several days
-after breakout. Most breeds can distinguish ship’s crew from passengers
+after breakout. Most breeds can distinguish ship's crew from passengers
 and will stay away from the latter if they seem to be the type who would
 not appreciate cats.
 ```
 
 ```
-Ship’s cats are kept for companionship and to hunt vermin that get on
+Ship's cats are kept for companionship and to hunt vermin that get on
 board. This latter trait endears them to Hivers, who use them as convenient
 on-board predators to hunt the grubs that Hivers shed. Some Vargr keep
-ship’s cats for their company, especially lowborn Vargr without many
-friends. Aslan instinctively see ship’s cats as competitors for the same
-prey and so rarely keep them. K’kree see ship’s cats as a symbol of all
-that is wrong with meat-eating aliens. Ship’s cats on Droyne ships are
+ship's cats for their company, especially lowborn Vargr without many
+friends. Aslan instinctively see ship's cats as competitors for the same
+prey and so rarely keep them. K'kree see ship's cats as a symbol of all
+that is wrong with meat-eating aliens. Ship's cats on Droyne ships are
 ```
 
 ## 127
 
 exceptionally well cared for and some crews use them as divinatory aids
-to suggest future ventures, essentially using the ship’s cat as captain.
+to suggest future ventures, essentially using the ship's cat as captain.
 
 Some breeds, developed in the Third Imperium before the Psionics
-Suppressions, are psionic, favouring teleportation the way sophonts favour
+Suppressions, are psionic, favoring teleportation the way sophonts favor
 telepathy. These add the Psionic (9) trait and Teleportation 2 skill, and rarely
 teleport with equipment; collars are left behind but implanted transponders
-(standard for ship’s cats, to make sure they are aboard when it is time
+(standard for ship's cats, to make sure they are aboard when it is time
 to leave port) will teleport. They are known for teleporting through walls
 (never into vacuum and are able to escape sudden depressurization of a
 compartment this way), disappearing around corners or behind furniture
 and generally going anywhere in a ship they want to. There is many a
 tale of a depressed spacer, locked inside their stateroom and refusing all
-company, whose ship’s cat would not take no for an answer and cuddled
+company, whose ship's cat would not take no for an answer and cuddled
 the spacer until suicidal thoughts went away. If using the Sanity rules from
-the Traveller Companion, the daily attentions of a friendly ship’s cat count
-towards establishing a ‘safe and supportive’ environment for recovering
+the Traveller Companion, the daily attentions of a friendly ship's cat count
+towards establishing a 'safe and supportive' environment for recovering
 Sanity even if there is no one else to be supportive.
 
 ```
-NAME Ship’s Cat
+NAME Ship's Cat
 HITS^5
 SPEED 6m
 SKILLS Athletics (dexterity) 1, Melee (natural) 1, Recon 2,
@@ -7742,7 +7742,7 @@ tech worlds but are more often seen as intimacy surrogates, bonding with
 someone deprived of family. They are also frequently used in elder and
 baby care, tending to charges unable to speak on their own. Ziavbros
 who served on exploration, military or police duties, where their handlers
-died in action, often return to their handler’s family where they serve as
+died in action, often return to their handler's family where they serve as
 protector and caretaker in place of their missing person.
 ```
 

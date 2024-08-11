@@ -6,6 +6,7 @@ tags:
   - Mongoose
   - Invasive_Species
   - NPC
+  - House_Alekvadin
 ---
 
 ## Ivy
@@ -14,7 +15,7 @@ CHAMBERLAIN Ivy Golba
 [[Vilani]] Female 31 (796B6A)
 ![[Ivy_Portrait.jpg]]
 
-Ivy is new to her role of chamberlain to [[Okhotnikov|the ducal heir]] but is taking to it well. She has served the ducal family for just over a year, is ambitious and, with the duke’s chamberlain retiring soon, has confidence that she can ascend the administrative ranks of House Okhotnikov.
+Ivy is new to her role of chamberlain to [[Okhotnikov|the ducal heir]] but is taking to it well. She has served the ducal family for just over a year, is ambitious and, with the duke's chamberlain retiring soon, has confidence that she can ascend the administrative ranks of House Okhotnikov.
 
 TRAITS — SKILLS
 STR 7 INT 9

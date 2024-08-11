@@ -14,7 +14,7 @@ tags:
 
 In an effort to increase their control over Jewell subsector, the [[Imperium]] has announced that a new duke will be appointed to oversee Imperial interests there. This move has caused political friction with the [[Zhodani]] who have since restricted trade to their worlds.
 
-Imperial agents’ suspect the [[Zhodani]] are now planning to deploy a new super weapon, forcing the [[Imperium]] to strengthen their borders and military outposts. With tensions running high only the bravest travellers remain in business, demanding higher fees for their services.
+Imperial agents' suspect the [[Zhodani]] are now planning to deploy a new super weapon, forcing the [[Imperium]] to strengthen their borders and military outposts. With tensions running high only the bravest travellers remain in business, demanding higher fees for their services.
 
 Making the most of the current trade opportunities, the players take on a passenger who pays them a handsome fee for their services. However, the passenger is more than he appears to be and the players are soon plunged into a world of conspiracy and danger.
 
@@ -40,7 +40,7 @@ The [[Jewell subsector]] is in a state of political change and unrest. The [[Fed
 
 With the Imperial region of [[Jewell Subsector|Jewell]] being threatened from both sides as well as within, a duke is to be appointed to oversee Imperial interests and maintain control of their territories. The duke will be stationed on [[Jewell]] but no date has been given and the new duke has yet to be chosen.
 
-This move has caused political friction with the [[Zhodani]] who have since embargoed all Imperial Megacorporations. With rumors that an archduke will be also be selected to govern the [[Deneb]] system, the [[Zhodani]] fear the Imperium’s motives and now threaten to cut diplomatic relations altogether.
+This move has caused political friction with the [[Zhodani]] who have since embargoed all Imperial Megacorporations. With rumors that an archduke will be also be selected to govern the [[Deneb]] system, the [[Zhodani]] fear the Imperium's motives and now threaten to cut diplomatic relations altogether.
 
 Imperial agents suspect that the [[Zhodani]] now plan to deploy a new super weapon, forcing the [[Imperium]] to strengthen their borders and military outposts. With tensions running high, only the bravest travellers remain in business and demand higher fees for their services.
 
@@ -48,7 +48,7 @@ Imperial agents suspect that the [[Zhodani]] now plan to deploy a new super weap
 
 Making the most of the current trade opportunities, the players take on a passenger who pays them a handsome fee for their services. After being stopped by a [[Zhodani]] patrol the passenger reveals himself to be an Imperial agent. As he disembarks at his destination, he is shot by unknown assailants and the players must get him to safety.
 
-A second attempt on the agent’s life is successful and to the players’ dismay they are framed for the murder. Now fugitives, the players are plunged into a Universe of conspiracy and danger. Following the trail from one world to the next, the players unravel the mystery of their dead passenger as a deeper plot begins to reveal itself.
+A second attempt on the agent's life is successful and to the players' dismay they are framed for the murder. Now fugitives, the players are plunged into a Universe of conspiracy and danger. Following the trail from one world to the next, the players unravel the mystery of their dead passenger as a deeper plot begins to reveal itself.
 
 # JEWELL
 
@@ -60,7 +60,7 @@ The [[Zhodani]] have a strong military presence in the six systems that they occ
 
 The Imperial region consists of eight systems, five of which are known as the Jewell Cluster ([[Jewell]], [[Emerald]], [[Ruby]], [[Mongo]] and [[Lysen]]). The region is currently under the control of the Duke of [[Regina Subsector|Regina]] but the [[Imperium]] is in the process of appointing a duke to the [[Jewell subsector]]. The 212<sup>th</sup> Fleet maintains strong border patrols, especially around the Jewell Cluster.
 
-The rimward region consists mainly of neutral systems, many of which are becoming of strong interest to the [[Federation of Arden]]. [[Utoland]] and [[Zircon]] have already fallen under the Federation’s influence.
+The rimward region consists mainly of neutral systems, many of which are becoming of strong interest to the [[Federation of Arden]]. [[Utoland]] and [[Zircon]] have already fallen under the Federation's influence.
 
 All of the information listed in this chapter (except the timeline) is known to most travellers so the players should have full access to the descriptions listed here.
 
@@ -94,7 +94,7 @@ The players will have no need to land on the planet as it has no refuelling capa
 
 ## Zhodani Patrol
 
-Whilst the ship is refuelling at the gas giant, a [[Zhodani]] ship will approach demanding to board and inspect the players’ ship. The players are not in a position to fight or run, so they must allow the [[Zhodani]] ship to dock.
+Whilst the ship is refuelling at the gas giant, a [[Zhodani]] ship will approach demanding to board and inspect the players' ship. The players are not in a position to fight or run, so they must allow the [[Zhodani]] ship to dock.
 
 Before the [[Zhodani]] dock, [[Forbes]] will speak to whichever player is in charge. He will request that they speak in private and will reveal the following:
 
@@ -111,13 +111,13 @@ If any other passengers boarded the ship at Farreach then the situation will be 
 
 ### BOARDED
 
-The party will not have long to prepare before the [[Zhodani]] ship docks and three [[Zhodani]] will board the players’ ship. The [[Zhodani]] are indeed looking for [[Forbes]] but they do not know his identity, only that an Imperial agent has left Farreach with classified information.
+The party will not have long to prepare before the [[Zhodani]] ship docks and three [[Zhodani]] will board the players' ship. The [[Zhodani]] are indeed looking for [[Forbes]] but they do not know his identity, only that an Imperial agent has left Farreach with classified information.
 
 The leader is a [[#Zhodani Agent]]. He is accompanied by a [[#Zhodani Pilot|pilot]] and a [[#Zhodani Psion|psion]]. The psion will use [[Psionics#Lie Detection]] and [[Psionics#Probe]] to see what the players know and if the Imperial agent is onboard the ship. Unless the players have been particularly clever, it will not take the [[Zhodani]] long to discover the truth.
 
 The players can either let [[Forbes]] be taken captive (which could bring a rather abrupt end to the campaign) or a fight will ensue. If the players are reluctant to get involved then [[Forbes]] will force the issue by firing at the [[Zhodani]] when he has the best opportunity.
 
-If the [[Zhodani]] are losing the fight, they will attempt to return to their ship where they can disable the players’ ship and call for reinforcements. If the [[Zhodani]] are unable to get to their own ship, they will attempt to take control of the players’ ship instead.
+If the [[Zhodani]] are losing the fight, they will attempt to return to their ship where they can disable the players' ship and call for reinforcements. If the [[Zhodani]] are unable to get to their own ship, they will attempt to take control of the players' ship instead.
 
 ### VICTORY
 
@@ -129,7 +129,7 @@ There is a good chance that other [[Zhodani]] vessels will come here to investig
 
 ### FAILURE
 
-If the players were not successful then [[Forbes]] will be taken prisoner (if he has not been killed). If the party tried to help him in any way, the [[Zhodani]] will arrest everyone on the ship who is still alive. If the [[Zhodani]] made it to their ship then they will fire on the players’ ship to disable it and then call for reinforcements to help capture the prisoners.
+If the players were not successful then [[Forbes]] will be taken prisoner (if he has not been killed). If the party tried to help him in any way, the [[Zhodani]] will arrest everyone on the ship who is still alive. If the [[Zhodani]] made it to their ship then they will fire on the players' ship to disable it and then call for reinforcements to help capture the prisoners.
 
 If the players manage to escape then the [[Zhodani]] will pursue and send out fugitive alerts. However, once they jump, the players should be safe for a short while until the [[Zhodani]] and fugitive alerts catch up with them.
 
@@ -143,7 +143,7 @@ If the players are captured you can use the [[#Arrested]] scenario.
 
 As before, the players will need to make their stop here as brief as possible. Refuelling at the starport is the quickest method but they can also refuel at the gas giant if preferred. If the players decide to explore [[Clan]], [[Forbes]] will remain on the ship.
 
-[[Clan]] will have an obvious ([[Zhodani]]) military presence and regular patrols. However, news of the players’ previous activities has not reached here yet, so they should be safe as long as they do not violate any local laws.
+[[Clan]] will have an obvious ([[Zhodani]]) military presence and regular patrols. However, news of the players' previous activities has not reached here yet, so they should be safe as long as they do not violate any local laws.
 
 Whilst the players are visiting this world, a number of optional encounters can happen. These will most likely take place in the capital city of [[Clan#Clandra]]. Pick or roll on the [[#Clan Random Encounters Table]]. Use [[#Random NPC Table|NPC]] statistics .
 
@@ -151,15 +151,15 @@ Whilst the players are visiting this world, a number of optional encounters can 
 
 ### Assassination
 
-Two [[#Zhodani Agent]]s from [[Farreach]] had already suspected [[Forbes]] as being a spy but [[Forbes]] eluded them. These two agents dispatched the [[#Zhodani Scout Ship]] that the players encountered at [[Ao-dai]], whilst the agents continued their investigations on Farreach. Hearing reports of the incident at [[Ao-dai]], the two agents guessed that [[Esalin]] would be a logical place to stop or refuel. The agents were able to get here and wait for the players’ ship, which was seen leaving Farreach.
+Two [[#Zhodani Agent]]s from [[Farreach]] had already suspected [[Forbes]] as being a spy but [[Forbes]] eluded them. These two agents dispatched the [[#Zhodani Scout Ship]] that the players encountered at [[Ao-dai]], whilst the agents continued their investigations on Farreach. Hearing reports of the incident at [[Ao-dai]], the two agents guessed that [[Esalin]] would be a logical place to stop or refuel. The agents were able to get here and wait for the players' ship, which was seen leaving Farreach.
 
 Once the players land at the starport, [[Forbes]] will thank them and disembark. As he walks down the ramp he is hit by several shots fired from laser pistols. The shots hit him squarely in the chest and he staggers back into the ship and collapses. If any of the players watched this happen, they will see two unidentifiable figures run into the shadows. There is no local law enforcement in the immediate vicinity and anyone who witnessed the event has left the area. Apart from the bleeding body in the ship, it is as if the incident never happened.
 
-[[Forbes]] is bleeding badly. He can barely speak and beckons one of the players over. He whispers in their ear ‘Redway. Get me to... Redway’, before falling unconscious. A successful Medic check will stabilize [[Forbes]] but his chances are not good. For the next hour he will drift in and out of consciousness.
+[[Forbes]] is bleeding badly. He can barely speak and beckons one of the players over. He whispers in their ear 'Redway. Get me to... Redway', before falling unconscious. A successful Medic check will stabilize [[Forbes]] but his chances are not good. For the next hour he will drift in and out of consciousness.
 
-If the players search Forbes’ unconscious body, they will find a hand computer, a data wafer and his weapon. There is nothing on the computer and the data wafer has been double encrypted, requiring two Computers checks DM –6 to access the data. In the unlikely event that the players access the data, proceed to [[#Data Wafer Contents]].
+If the players search Forbes' unconscious body, they will find a hand computer, a data wafer and his weapon. There is nothing on the computer and the data wafer has been double encrypted, requiring two Computers checks DM –6 to access the data. In the unlikely event that the players access the data, proceed to [[#Data Wafer Contents]].
 
-With the information they already know and with their encounter at [[Ao-dai]], the party will hopefully decide to avoid any medical or official facilities. If the players ask around or check public computer systems they will discover a hotel called ‘The Redway Hotel’ in a town located a short distance from the starport.
+With the information they already know and with their encounter at [[Ao-dai]], the party will hopefully decide to avoid any medical or official facilities. If the players ask around or check public computer systems they will discover a hotel called 'The Redway Hotel' in a town located a short distance from the starport.
 
 The players must now work out how to get a bleeding and unconscious body to the town without drawing attention. If they have their own vehicle then the task will be easy. If they do not they will have to hire one or figure out another way of getting to their destination.
 
@@ -171,13 +171,13 @@ To avoid drawing too much attention, only a handful of agents use the facility a
 
 Agent [[Forbes]] was using the Redway Hotel as one of his contact points and is the reason he wanted passage to [[Esalin]]. Agents like [[Forbes]] who spend their time undercover will always make contact at places like this; they never make direct contact with anyone in authority to prevent their position from being compromised.
 
-Once the players arrive here, they will have to figure out what to do. They were only given the name Redway and obviously do not know for certain who Forbes’ contact is, although they might take an educated guess that it is [[Martha Redway]].
+Once the players arrive here, they will have to figure out what to do. They were only given the name Redway and obviously do not know for certain who Forbes' contact is, although they might take an educated guess that it is [[Martha Redway]].
 
 Booking in at the hotel is a good place to start and they will meet Martha. She will flirt with at least one of the players so talking to her will be easy in one respect but potentially awkward in another. If they try to get any information out of her they will get her full name. If asked she will also reveal that there are currently no other guests staying at the hotel.
 
 If the players ask Martha if she knows Forbes, her behaviour will change ever so slightly. She obviously does not want to reveal herself but at the same time she has a responsibility to the agents who know her. She will admit that she knows [[Forbes]] but only as a previous patron who stayed here a while back. Once she knows [[Forbes]] is seriously injured, she will tell the players to bring him to a bedroom on the first floor.
 
-Martha will tend to Forbes’ wounds whilst talking to the players. If the players tell Martha enough of what has happened and earn her trust, she will reveal her true role. She will search [[Forbes]] for his data wafer, knowing that he usually has one containing his reports for the courier. If the players have already taken it, she will ask them for it back. Martha will explain that any reports will be on there and she must have it to give to the courier.
+Martha will tend to Forbes' wounds whilst talking to the players. If the players tell Martha enough of what has happened and earn her trust, she will reveal her true role. She will search [[Forbes]] for his data wafer, knowing that he usually has one containing his reports for the courier. If the players have already taken it, she will ask them for it back. Martha will explain that any reports will be on there and she must have it to give to the courier.
 
 Martha will thank the players for bringing [[Forbes]] here and he should recover as long as he stays here, where she can nurse him back to health. She will suggest that the players stay here for the night and will prepare a meal for them while they settle in.
 
@@ -185,7 +185,7 @@ Martha will thank the players for bringing [[Forbes]] here and he should recover
 
 As the players are enjoying their meal cooked by Martha, the two [[#Zhodani Assassins]] have tracked the party here and want to make sure that [[Forbes]] is dead. The agents will kill [[Forbes]] in his sleep but Martha will discover them as they are leaving and fire a shot at them.
 
-The players will hear the gunshot. If they go to investigate Martha will run past them saying that [[Forbes]] has been killed. The players should have time to intercept the agents before they can escape. The agents are on the first floor deciding their best way out now that the party has been alerted to the agents’ presence.
+The players will hear the gunshot. If they go to investigate Martha will run past them saying that [[Forbes]] has been killed. The players should have time to intercept the agents before they can escape. The agents are on the first floor deciding their best way out now that the party has been alerted to the agents' presence.
 
 If the entire party follows them to the first floor, the agents will attempt to climb out of a window or hide in the building. The most effective way of preventing the agents from escaping is to split up, so some players go outside whilst the rest progressively search the hotel. If the [[Zhodani]] are cornered or there are only a few players on their own, the agents will fight.
 
@@ -197,7 +197,7 @@ If the players ask Martha to contact another agent, she will explain that she ha
 
 Martha will ask the players to take the data wafer, just in case any [[Zhodani]] do come back. She will also explain that it must get to the right people who can decipher the data. Martha knows that [[Forbes]] had a contact on [[Ruby]] who should be able to help the party.
 
-The contact’s name is [[Stephen Muller|'Daniel"]] and he frequents an establishment called [[Ruby#The Factory|The Factory]] in the commercial district in [[Ruby#Sawaiu|Ruby’s capital city]]. He is cautious about meeting new people so the players must pass his ‘test’ before he will even meet them. Martha can not say any more than this, the players must work out what to do when they get to [[Ruby]].
+The contact's name is [[Stephen Muller|'Daniel"]] and he frequents an establishment called [[Ruby#The Factory|The Factory]] in the commercial district in [[Ruby#Sawaiu|Ruby's capital city]]. He is cautious about meeting new people so the players must pass his 'test' before he will even meet them. Martha can not say any more than this, the players must work out what to do when they get to [[Ruby]].
 
 ### Fugitives
 
@@ -235,11 +235,11 @@ Daniel knows who can help the players, an expert cryptologist who agent [[Forbes
 
 > The person you need is a [[Vargr]] cryptologist called [[Gakha]]. Gakha lives on [[Mongo]] and works as a computer technician for [[MagnetoDynamics]] but sells her services during her free time.
 >
-> Gakha is the best person for the job as she designed the encryption program for [[Forbes]]. She can be trusted with the information and she will not sell it on or attempt to deceive you in any way. However, you must inform her that I sent you.’
+> Gakha is the best person for the job as she designed the encryption program for [[Forbes]]. She can be trusted with the information and she will not sell it on or attempt to deceive you in any way. However, you must inform her that I sent you.'
 
 ## Fugitive Alert
 
-Once the meeting is concluded, Daniel will inform the players that a fugitive alert has just reached [[Ruby]]. The alert is for suspects wanted for the murder of Imperial citizen James Forbes. The details include descriptions of the party and their ship. Depending on the players’ actions at [[Ao-dai]], they may also be wanted for the murder of the [[Zhodani]] agents and the theft of the [[#Zhodani Scout Ship]]
+Once the meeting is concluded, Daniel will inform the players that a fugitive alert has just reached [[Ruby]]. The alert is for suspects wanted for the murder of Imperial citizen James Forbes. The details include descriptions of the party and their ship. Depending on the players' actions at [[Ao-dai]], they may also be wanted for the murder of the [[Zhodani]] agents and the theft of the [[#Zhodani Scout Ship]]
 
 The players will have to leave immediately if they are to avoid a run in with the law. If they do delay for any reason then there is a chance that their ship will be inspected before it departs and they will be discovered. If this happens they will have to fight their way off the planet or they will be arrested and tried for the murder(s) as detailed in [[#Arrested]].
 
@@ -253,7 +253,7 @@ See [[Mongo#Details]]
 >
 > She has been a computer technician at [[MagnetoDynamics]] for almost a year and has recently become quite friendly with two other technicians, Amy Lockheart and a [[Vargr]] called Ruskad. Gakha thought she was helping them to fix a network problem but they used her to gain access to some confidential files. The nature of her job means that she does access restricted systems but she has never copied or read the files.
 >
-> In retrospect, it has become clear to [[Gakha]] that her new ‘friends’ were just using her to gain access to the files that they needed. Amy and Ruskad obviously work for a rival company or are independents who sell such information to the highest bidder. [[MagnetoDynamics]] is one of the leading specialists in mineral extraction and their technology is much sought after by rival corporations.
+> In retrospect, it has become clear to [[Gakha]] that her new 'friends' were just using her to gain access to the files that they needed. Amy and Ruskad obviously work for a rival company or are independents who sell such information to the highest bidder. [[MagnetoDynamics]] is one of the leading specialists in mineral extraction and their technology is much sought after by rival corporations.
 >
 > Being a [[Vargr]], [[Gakha]] also has strong loyalties to MagnetoDynamics so she is understandably insulted that she has been arrested and interrogated. However, with this current situation Gakha believes her loyalties have been misplaced and even if her name is cleared she will not be working for this corporation again.
 
@@ -305,7 +305,7 @@ Hacking the MagnetoDynamics computer network externally requires a Computers che
 >
 > Security guards will check the clearance level of anyone boarding a shuttle. Random spot checks are also carried out on the platform but the risk of these can be reduced by avoiding security patrols where possible.
 >
-> In addition to a dedicated security force, each facility also has a number of detainment cells and ‘interview rooms’ for anyone caught committing a crime or breaking the corporate rules.
+> In addition to a dedicated security force, each facility also has a number of detainment cells and 'interview rooms' for anyone caught committing a crime or breaking the corporate rules.
 
 ### WORKING FOR MAGNETODYNAMICS
 
@@ -344,26 +344,26 @@ Once the shuttle lands, the players can begin their search for [[Gakha]]. If the
 
 [[Gakha]] and her suspected co-conspirators are in the detainment cells whilst the guards question them and investigate the situation. When their investigation is complete, MagnetoDynamics will contact the authorities and have Gakha and her associates arrested. Since [[Gakha]] is the only person who can help the players, they will have to either break her out or somehow prove her innocence.
 
-### PROVING GAKHA’S INNOCENCE
+### PROVING GAKHA'S INNOCENCE
 
 If the players wish to help Gakha, they will need to find out what happened from all parties involved. With a successful Deception or Persuade check DM–2, the players will be allowed to talk to the prisoners.
 
 When the players meet Gakha, she will be suspicious as to why a group of strangers want to help her. However, if the players explain why they are here, she will tell them her story as detailed opposite
 
-If the players talk with Amy and Ruskad, they will both say that Gakha is lying and that neither of them had anything to do with the crime. After all, it was Gakha’s security codes that were used to access the files.
+If the players talk with Amy and Ruskad, they will both say that Gakha is lying and that neither of them had anything to do with the crime. After all, it was Gakha's security codes that were used to access the files.
 
 The security guards have already found out some information and with a successful Persuade check, they will share their findings. The players can also make any background checks as required.
 
 Evidence against Gakha (discovered by MagnetoDynamics security):
 
-- Gakha’s computer has software that could be used to hack and decrypt data files.
+- Gakha's computer has software that could be used to hack and decrypt data files.
 - Gakha has been spending a lot of time with Amy and Ruskad.
-- Gakha’s security clearance was used to gain access to the files.
+- Gakha's security clearance was used to gain access to the files.
 
-Evidence in favour of Gakha:
+Evidence in favor of Gakha:
 
 - Gakha is the supervisor for Amy and Ruskad so it stands to reason that they would have spent time together.
-- Gakha’s security clearance is required for her job and there is no way to prove who actually copied the files.
+- Gakha's security clearance is required for her job and there is no way to prove who actually copied the files.
 - Amy and Ruskad only started working for MagnetoDynamics eight weeks ago; Gakha has been working here for nearly a year.
 - Background checks on Amy and Ruskad show that they have both worked for several rival companies over the last year.
 - Further checks will reveal that Amy and Ruskad were fired from their previous jobs for suspected tampering and hacking.
@@ -383,7 +383,7 @@ So, to break Gakha out of the detention cell, the players will need to overpower
 
 If the players are detected, the security forces will attempt to stop them and they will also sound an alarm. Once the alarm is sounded, all shuttles are grounded and non-security personnel must remain where they are.
 
-Once the party get off the platform, they will need to get to their ship and leave Mongo as quickly as possible before the security team catch them. Police will also be notified and if the players’ identities are known, they will have a new crime added to their fugitive status.
+Once the party get off the platform, they will need to get to their ship and leave Mongo as quickly as possible before the security team catch them. Police will also be notified and if the players' identities are known, they will have a new crime added to their fugitive status.
 
 How smoothly the breakout went will determine if the players meet any resistance after they leave the platform. The quicker the security team can notify the authorities, the more likely it is that the players will have a run in with the law.
 
@@ -409,9 +409,9 @@ The party are wanted criminals and the fugitive alert is spreading across Jewell
 
 Since they have to stop off at the planetary junkyard on [[Nakege II]], the players now have an opportunity to get a new ship. Additionally, if Gakha is informed why the party are getting a new ship she will tell the players that she knows a few people here who could make the trade off the books, so it would be very difficult for someone to determine they had changed ships here.
 
-Not only will a new ship reduce the party’s chances of being caught but they can also get a ship with a greater range. Alternatively, the players can modify their existing ship from parts salvaged from the yards to visibly alter the look (within reason) and make any improvements as required. Since they do not know where they will need to go and if none of the players think about improving their [[Jump Drive]], one of the NPCs will suggest this to make sure that they can visit any system in [[Jewell]].
+Not only will a new ship reduce the party's chances of being caught but they can also get a ship with a greater range. Alternatively, the players can modify their existing ship from parts salvaged from the yards to visibly alter the look (within reason) and make any improvements as required. Since they do not know where they will need to go and if none of the players think about improving their [[Jump Drive]], one of the NPCs will suggest this to make sure that they can visit any system in [[Jewell]].
 
-The cost of parts will be very cheap compared to buying the equivalent parts new. The price will also vary depending on the condition. Likewise, the ships for sale are considerably cheaper than buying them new and the conditions of these vary. The players’ existing ship will be of a much better quality than the ones for sale, so assuming that they want a ship of similar size and capabilities they can negotiate a straight swap.
+The cost of parts will be very cheap compared to buying the equivalent parts new. The price will also vary depending on the condition. Likewise, the ships for sale are considerably cheaper than buying them new and the conditions of these vary. The players' existing ship will be of a much better quality than the ones for sale, so assuming that they want a ship of similar size and capabilities they can negotiate a straight swap.
 
 The ships and parts available are completely at your discretion. However, it is advisable not to give the players too much power.
 
@@ -427,17 +427,17 @@ See [[Lysen]]
 
 ### Trouble on Lysen
 
-The last year has seen increasing amounts of terrorist activity on Lysen. A group calling themselves the PFJ (People’s Front of Jewell) have claimed responsibility but some fear that they are affiliated with the [[Behind the Claw#Ine Givar]]. The PFJ have focussed all of their efforts on the Hadway region resulting in many deaths and injures.
+The last year has seen increasing amounts of terrorist activity on Lysen. A group calling themselves the PFJ (People's Front of Jewell) have claimed responsibility but some fear that they are affiliated with the [[Behind the Claw#Ine Givar]]. The PFJ have focussed all of their efforts on the Hadway region resulting in many deaths and injures.
 
 The Hadway region is ruled by [[Baron Hadway|Baron Edward Hadway]] and his security force has been unable to catch the terrorists. With the fear of continued attacks, many people have fled the region. As innocent citizens have left it has opened up room for other criminal elements to move in. As a result, crime rates have soared and some districts within the Hadway region have fallen into disrepair. One area in particular has become known as the [[Lysen#Hadway Ghetto]] where only the criminal, brave or stupid dare to enter.
 
-[[Baron Hadway]]’s failure to control the situation is something of concern to the people and the other nobles on [[Lysen]]. Many are calling for him to be stripped of his status and replaced by someone who is capable of protecting the citizens. The nobles on [[Lysen]] are discussing ways to deal with the situation in the Hadway region but they are a long way from a solution.
+[[Baron Hadway]]'s failure to control the situation is something of concern to the people and the other nobles on [[Lysen]]. Many are calling for him to be stripped of his status and replaced by someone who is capable of protecting the citizens. The nobles on [[Lysen]] are discussing ways to deal with the situation in the Hadway region but they are a long way from a solution.
 
-Unfortunately for the players, [[Gakha]]’s workshop is located in what is now the [[Lysen#Hadway Ghetto]]. If the party ask around for information on the ghetto, they will be advised not to go there. A number of gangs have taken residence there, each vying for control of the ghetto. The exact number of people in the ghetto is unknown since anyone who goes there does not return.
+Unfortunately for the players, [[Gakha]]'s workshop is located in what is now the [[Lysen#Hadway Ghetto]]. If the party ask around for information on the ghetto, they will be advised not to go there. A number of gangs have taken residence there, each vying for control of the ghetto. The exact number of people in the ghetto is unknown since anyone who goes there does not return.
 
 ### RECONNAISSANCE
 
-Some of the players may attempt to sneak into the ghetto to get a better idea of the numbers and capabilities of the gangs. It should be stressed that this will be difficult and very dangerous. The bigger the group entering the ghetto, the more likely that they will be seen but the better the chance they will have of defending themselves. [[Gakha]] can give directions to her workshop if the players wish to investigate and maybe even get Gakha’s equipment if the situation allows.
+Some of the players may attempt to sneak into the ghetto to get a better idea of the numbers and capabilities of the gangs. It should be stressed that this will be difficult and very dangerous. The bigger the group entering the ghetto, the more likely that they will be seen but the better the chance they will have of defending themselves. [[Gakha]] can give directions to her workshop if the players wish to investigate and maybe even get Gakha's equipment if the situation allows.
 
 Stealth checks will be required as the players progress into the ghetto area. There are plenty of burnt out vehicles to duck behind and abandoned buildings to hide in but there are also a lot of gang members roaming the streets. Please refer to [[#The Ghetto]] for further details.
 
@@ -445,7 +445,7 @@ Stealth checks will be required as the players progress into the ghetto area. Th
 
 Entering the ghetto on their own would not be wise so the players will need some help. The person who is most able to help the party is [[Baron Hadway]], so the players will need to arrange a meeting with him.
 
-As one would expect the baron lives in a luxurious house with his own private security force. Upon arrival, the players will be escorted to a finely decorated room by one of the baron’s aides. After a short wait, the baron will come in and greet the players.
+As one would expect the baron lives in a luxurious house with his own private security force. Upon arrival, the players will be escorted to a finely decorated room by one of the baron's aides. After a short wait, the baron will come in and greet the players.
 
 The players will need to explain to [[Baron Hadway|the baron]] why they want to enter the ghetto. How much of the true story they tell him is up to them. Although the less said the better, the baron is an honorable man and will not cause any problems for the party now that he understands what trouble is like on the receiving end.
 
@@ -453,7 +453,7 @@ The baron will listen intently to the players. He will then explain that his sec
 
 The players must persuade the baron to help out, not only for the benefit of the party but also to prove to his people that he is capable of controlling the criminals in his region. Hadway currently feels that there is nothing that he can do but with the combined forces of his security and the players, there is a reasonable chance of success.
 
-Deception or Persuade checks will be required as appropriate but you can give bonuses for how well the players roleplay the situation. Depending on the players’ success and motivational speech, the baron will spare up to five of his security guards. If the players were particularly successful, the baron will even join them in the fight to prove that he is still worthy of his position and restore the peoples’ faith in him.
+Deception or Persuade checks will be required as appropriate but you can give bonuses for how well the players roleplay the situation. Depending on the players' success and motivational speech, the baron will spare up to five of his security guards. If the players were particularly successful, the baron will even join them in the fight to prove that he is still worthy of his position and restore the peoples' faith in him.
 
 Whether the players succeed or fail, the baron will see that the party has a chance of dealing with the situation in the ghetto. To improve their chances of success, the baron will draw up some papers that authorises the party to use weapons on Lysen.
 
@@ -467,13 +467,13 @@ Anyone recruited in this way will want to be paid. The locals will ask for a sma
 
 ### THE GHETTO
 
-Regardless of how much help the players get, they will have to enter the ghetto if they are to retrieve Gakha’s equipment to decode the data wafer. As they enter the area they will see that the buildings have been left to ruin with smashed windows and broken doors. Abandoned vehicles litter the streets amongst a carpet of rubble and wreckage.
+Regardless of how much help the players get, they will have to enter the ghetto if they are to retrieve Gakha's equipment to decode the data wafer. As they enter the area they will see that the buildings have been left to ruin with smashed windows and broken doors. Abandoned vehicles litter the streets amongst a carpet of rubble and wreckage.
 
 There are four gangs that have occupied the ghetto. Each has between 20 and 25 members but the number changes constantly. Some are killed in skirmishes with opposing gangs and new members join up in the hope of proving themselves worthy. Each gang controls a small territory within the district, with the area in between being a no-mans land where most of the fights take place.
 
 If the players managed to get the security guards and additional hired help, they will still be outnumbered but will rival each of the gangs in force of arms. The party will get glares from gang members wandering the streets but any large party will be left alone whilst in no-mans land. However, once they enter one of the gang territories the violence will begin.
 
-Entering a gang’s territory is seen as an attack and the gang will respond in kind. The gang will all group together at a suitable place to confront the attacking party. The gang will shout insults, bang blades and fire their weapons in an attempt to scare the party but the gang will not attack until the players get close. There will also be several gang members hidden in buildings ready to take shots. Once the fight begins, use the following statistics for the various NPCs involved.
+Entering a gang's territory is seen as an attack and the gang will respond in kind. The gang will all group together at a suitable place to confront the attacking party. The gang will shout insults, bang blades and fire their weapons in an attempt to scare the party but the gang will not attack until the players get close. There will also be several gang members hidden in buildings ready to take shots. Once the fight begins, use the following statistics for the various NPCs involved.
 
 You do not need to roll for every NPC. Both sides will take casualties, so just use your best judgement depending on how many are on each side and how experienced they are.
 
@@ -495,12 +495,12 @@ Separatist involvement remains unconfirmed. Ordered agent Cryer (212–24) to in
 Report ends.
 ```
 
-### GAKHA’S WORKSHOP
+### GAKHA'S WORKSHOP
 
-The workshop is in one of the buildings adjacent to the area where the ghetto fight takes place. The building used to be rented out as a number of large open plan offices. Gakha’s workshop is on the second floor. Luckily, the gang use Gakha’s computers from time to time so most of her equipment is still here. There are three situations where the players will likely enter Gakha’s workshop:
+The workshop is in one of the buildings adjacent to the area where the ghetto fight takes place. The building used to be rented out as a number of large open plan offices. Gakha's workshop is on the second floor. Luckily, the gang use Gakha's computers from time to time so most of her equipment is still here. There are three situations where the players will likely enter Gakha's workshop:
 
 - The fight is over (as detailed above).
-- The players are using the fight as a distraction so one of the players can get Gakha’s equipment.
+- The players are using the fight as a distraction so one of the players can get Gakha's equipment.
 - The players try to sneak in and obtain the equipment and avoid a fight altogether.
 
 If the fight is over then the party can simply go into the workshop and get what they need. If anyone sneaks in during the fight there will be one or two gang members inside who are shooting out of the window into the fight. If anyone enters the building before the fight takes place there will be 1d6 gang members inside. Any Stealth checks have a cumulative DM –1 for each gang member nearby.
@@ -549,21 +549,21 @@ Finding agent [[Cryer]] amongst the throngs of rioters is not easy. Each player 
 
 Agent [[Cryer]] will be seen surrounded by a number of rioters. who are attacking him. He is suspected of being a government agent by one of the more paranoid leaders of the seperatists, who had received a tip off someone was trying to infiltrate the group. He is clearly outnumbered and the players must be quick to his aide if [[Cryer]] is to survive. However, with the players help agent [[Cryer]] can be saved but he will be badly injured. The party will need to get him out of the riot zone and tend to his wounds.
 
-Once the party is in a safe area and [[Cryer]]’s injuries have been treated, the players can explain their situation. If Gakha is with the party, [[Cryer]] will remember her and she will vouch for the players loyalty and expertise.
+Once the party is in a safe area and [[Cryer]]'s injuries have been treated, the players can explain their situation. If Gakha is with the party, [[Cryer]] will remember her and she will vouch for the players loyalty and expertise.
 
 After the players have made contact with agent [[Cryer]], you can decide whether to keep Gakha in the party or not. Her skills may be useful but if you feel that your party is too big at any time then she can leave either in response to a situation or simply by saying that travelling with the players is too dangerous.
 
-[[Cryer]] will be sad to hear that agent [[Forbes]] has been killed but will thank the players for their help. After reading the contents of Forbe’s data wafer he will look concerned, explaining that he and [[Forbes]] had suspected a leak for some time and these recent events would seem to confirm this.
+[[Cryer]] will be sad to hear that agent [[Forbes]] has been killed but will thank the players for their help. After reading the contents of Forbe's data wafer he will look concerned, explaining that he and [[Forbes]] had suspected a leak for some time and these recent events would seem to confirm this.
 
 Having lost his friend, mentor and superior, [[Cryer]] has nowhere to turn. He does not know who to trust within the Imperial intelligence and much is at stake. Since the players are clearly capable individuals, who are loyal to the Imperium, [[Cryer]] will ask for their help.
 
 [[Cryer]] will need help if he is to uncover these conspiracies that threaten the Imperium. He has few funds with which to pay them but once the leak is found and the threats dealt with, he is certain that the [[Imperium]] will compensate the party well for their assistance.
 
-Assuming the players agree, [[Cryer]] will reveal that there is a connection between the separatists and the Zhodani’s new Tripwire weapon. He is unsure of the details but he has a number of leads to pursue.
+Assuming the players agree, [[Cryer]] will reveal that there is a connection between the separatists and the Zhodani's new Tripwire weapon. He is unsure of the details but he has a number of leads to pursue.
 
 The players may also wish to confess their current fugitive status if they have not already done so and [[Cryer]] will most likely find out anyway. Agent [[Cryer]] will simply say that with the intelligence leak, he is operating on his own and could well be listed with them once the enemy finds out that he is also involved.
 
-### [[Cryer]]’S LEADS
+### [[Cryer]]'S LEADS
 
 Agent [[Cryer]] has confirmed that the [[Liberation Front]], the group responsible for the riot here on Louzy, have some connection to the Zhodani. [[Cryer]] also suspects that the Federation of Arden may also be involved. He has a number of leads on the planets located in the rimward region of Jewell. Each one needs to be investigated:
 
@@ -578,7 +578,7 @@ Agent [[Cryer]] will tell the party that he will attempt to infiltrate the [[Fed
 The players can investigate these leads in any order they wish but since agent [[Cryer]] needs to establish himself independently on [[Utoland]], the players should ensure that they arrive separately.
 
 > [!info] Federation Notes
-> The players should hopefully assume that there is a connection between the separatist movement and the Federation. However, there is no direct link other than the fact that both parties are a potential threat to the Imperium’s control over Jewell subsector. Allow the players to pursue this line of enquiry and do nothing to discourage their paranoia and conspiracy theories.
+> The players should hopefully assume that there is a connection between the separatist movement and the Federation. However, there is no direct link other than the fact that both parties are a potential threat to the Imperium's control over Jewell subsector. Allow the players to pursue this line of enquiry and do nothing to discourage their paranoia and conspiracy theories.
 
 ## 871–438
 
@@ -599,7 +599,7 @@ Assuming the players have been accepted into the criminal fraternity, the initia
 
 Once the party has established themselves, they can ask about involvement with the separatist groups. The subject will have to be approached in the right way to avoid drawing suspicion. Simply asking if anyone deals with the [[Liberation Front]] will make the people here think that the party are Imperial agents.
 
-However, asking about joining or helping rebel groups will be viewed more favourably as most criminals agree with dissident principles, even if they do not support them directly. Many smugglers will say that they do business with these groups as they tend to buy in bulk, making it quite profitable. No real information can be gained since most smugglers simply make the trade and avoid getting involved in political situations.
+However, asking about joining or helping rebel groups will be viewed more favorably as most criminals agree with dissident principles, even if they do not support them directly. Many smugglers will say that they do business with these groups as they tend to buy in bulk, making it quite profitable. No real information can be gained since most smugglers simply make the trade and avoid getting involved in political situations.
 
 After a few late nights of drinking and gambling, a Vilani smuggler by the name of Meshaka will arrive. If the players share a few drinks with him, he will reveal that he often sells to the [[Liberation Front]]. He seems to know more but will not give any further details. The players could offer him some money for the information but his price will be high.
 
@@ -623,7 +623,7 @@ There is always the opportunity for brawls and gunfights on [[871–438]]. The p
 >
 > The Arkesh Spacers do not have any direct involvement with any separatist or terrorist group. However, there are individual members that do support such groups or are actively involved with them but this is done without the knowledge or consent of the Arkesh Spacers and is in fact prohibited in the code of conduct.
 >
-> Consequently, the players will not find any evidence to support [[Cryer]]’s suspicions but they might discover the activities of some individuals (as mentioned previously). This can be achieved by cross-referencing the travel plans (where known) of Arkesh Spacers members with known separatist or piracy events and also by finding any outspoken individuals or member companies.
+> Consequently, the players will not find any evidence to support [[Cryer]]'s suspicions but they might discover the activities of some individuals (as mentioned previously). This can be achieved by cross-referencing the travel plans (where known) of Arkesh Spacers members with known separatist or piracy events and also by finding any outspoken individuals or member companies.
 
 ### Investigating the Spacers
 
@@ -641,7 +641,7 @@ They need to narrow down the list which can be done by accessing the reports and
 
 #### INFILTRATION
 
-Infiltrating the organization is time consuming but will give the players easy access to the computers and employees of the Arkesh Spacers. To infiltrate the corporation, the players will need to successfully apply for jobs. The job interview process will be similar to the players’ experience in the previous chapter with the interviewer asking about their skills, experience and their reason for wanting the job. The Arkesh Spacers outpost here on Gougeste is a big organization so there are always job vacancies for a variety of roles.
+Infiltrating the organization is time consuming but will give the players easy access to the computers and employees of the Arkesh Spacers. To infiltrate the corporation, the players will need to successfully apply for jobs. The job interview process will be similar to the players' experience in the previous chapter with the interviewer asking about their skills, experience and their reason for wanting the job. The Arkesh Spacers outpost here on Gougeste is a big organization so there are always job vacancies for a variety of roles.
 
 Once they are employed by the company, the players will be able to access most non-essential systems and facilities, depending on their actual job description. Of course, there will be supervisors and other employees so the players must be careful if they go snooping around.
 
@@ -655,7 +655,7 @@ If the players are allowed into [[Arkesh Spacers#The Spacers Retreat]] (or they 
 
 If the players spend a few days in [[Arkesh Spacers#Oasis]] they will hear lots of gossip and news but nothing of real interest to them. That is until Jessica Nash arrives a few days later. After a few drinks she will get into a heated debate with one of the locals about independence and the conversation can be heard by anyone nearby.
 
-If the players listen more carefully they will discover that she supports free speech and the people’s right to make their own decisions and to be in charge of their own destiny. The players can also speak to the locals here who will explain that Jessica is well known for outbursts like this.
+If the players listen more carefully they will discover that she supports free speech and the people's right to make their own decisions and to be in charge of their own destiny. The players can also speak to the locals here who will explain that Jessica is well known for outbursts like this.
 
 #### INTERROGATION
 
@@ -671,23 +671,23 @@ The best way to deal with Jessica is to hand her over to the Arkesh Spacers secu
 
 ### Finding Nangu
 
-This is an optional scenario where Tina asks the players to track down [[Nangu]] and bring him back here so the Arkesh Spacers can prosecute him under Imperial high Law and help rebuild the organization’s reputation. If you do not wish to run this side quest, Tina will assign her own men to the task.
+This is an optional scenario where Tina asks the players to track down [[Nangu]] and bring him back here so the Arkesh Spacers can prosecute him under Imperial high Law and help rebuild the organization's reputation. If you do not wish to run this side quest, Tina will assign her own men to the task.
 
 If the players agree Tina will pay them Cr. 50,000 now, plus Cr. 5,000 for each pirate that they apprehend and Cr. 25,000 for catching [[Nangu]] alive. If any of the pirates are killed, the players will only get half of the fee.
 
-Tina will also give the players details of [[Nangu]]’s ship (use any spacecraft that is of a similar size to the players’ ship) and his planned route, which he filed two weeks ago. It indicates that he will not be back on Gougeste for some time so the quicker he can be caught, the more potential victims can be saved. [[Nangu]]’s planned route is as follows; Zenopit, Zircon, Pequan, Utoland, Lysen, Emerald, Gougeste.
+Tina will also give the players details of [[Nangu]]'s ship (use any spacecraft that is of a similar size to the players' ship) and his planned route, which he filed two weeks ago. It indicates that he will not be back on Gougeste for some time so the quicker he can be caught, the more potential victims can be saved. [[Nangu]]'s planned route is as follows; Zenopit, Zircon, Pequan, Utoland, Lysen, Emerald, Gougeste.
 
 #### INTERCEPTION AT ZIRCON
 
-If the players leave today, they should be able to catch [[Nangu]] at Zircon. Once in the Zircon system, the players will have to pilot their ship in a search pattern until they find [[Nangu]]’s ship. They will detect several ships during their search and you can even have a false alarm where the players detect a matching ship but it is not [[Nangu]]’s.
+If the players leave today, they should be able to catch [[Nangu]] at Zircon. Once in the Zircon system, the players will have to pilot their ship in a search pattern until they find [[Nangu]]'s ship. They will detect several ships during their search and you can even have a false alarm where the players detect a matching ship but it is not [[Nangu]]'s.
 
 [[Nangu]] will not board a ship near a populated world and after 4d6 hours of searching the players will detect a ship that matches the description they have. There is another ship nearby and once they are close enough, the players will detect that both ships are docked.
 
 When they are in visual range, the players will clearly see several distinguishing marks that will confirm that the ship belongs to [[Nangu]]. At close range, a sensor check will also detect high energy signatures indicating gunfire onboard the second ship.
 
-The players must now board the ship and fight off [[Nangu]]’s crew. The party can dock with either ship depending on the strategy they use but docking with [[Nangu]]’s ship will allow them to secure the area and prevent the pirates from escaping.
+The players must now board the ship and fight off [[Nangu]]'s crew. The party can dock with either ship depending on the strategy they use but docking with [[Nangu]]'s ship will allow them to secure the area and prevent the pirates from escaping.
 
-[[Nangu]] and six of his team are on board the second ship and will not expect to be attacked. Two of the pirates are guarding the crew of the second ship whilst [[Nangu]] and his other men are stealing the cargo. There is also a Vargr pilot who remains on [[Nangu]]’s ship so the players will need to search both ships to apprehend all of the pirates.
+[[Nangu]] and six of his team are on board the second ship and will not expect to be attacked. Two of the pirates are guarding the crew of the second ship whilst [[Nangu]] and his other men are stealing the cargo. There is also a Vargr pilot who remains on [[Nangu]]'s ship so the players will need to search both ships to apprehend all of the pirates.
 
 There is a good chance that some of the pirates will be killed in the fight but the players should try to take as many alive as possible. Remember, Tina will pay extra for each one captured alive as she wants them to stand trial to prove that they were acting independently of the Arkesh Spacers.
 
@@ -719,7 +719,7 @@ In the evening, the players will notice a woman having discreet conversations wi
 
 The players must now decide how to go about questioning Miranda. Given their circumstances, they could try talking to her as people wanting to join the revolution. She will of course be suspicious so Deception or Persuade checks will be necessary to convince her. Even if the players are successful, the information that they get will be limited and you can choose what to reveal at your discretion.
 
-Alternatively the party can attempt to ambush and interrogate Miranda. She will be outnumbered and will favour flight over fight but with some careful planning she should soon be in the players’ custody. Once the party have taken her to a private and secure location they can begin the interrogation and it will not take much coercion to make her talk.
+Alternatively the party can attempt to ambush and interrogate Miranda. She will be outnumbered and will favor flight over fight but with some careful planning she should soon be in the players' custody. Once the party have taken her to a private and secure location they can begin the interrogation and it will not take much coercion to make her talk.
 
 Miranda will not know anything about the conspiracies that the players are investigating. When asked about the Federation of Arden she will spit, saying that the federation is no better than the Imperium, that the situation here on Utoland is a prime example of their willingness to reduce personal freedom and independence. She will also confirm that she was recruiting potential candidates for a new cell here on Utoland.
 
@@ -754,7 +754,7 @@ If the players were successful in sabotaging the Imperial ship, they will receiv
 
 Assuming that the players are in Orelia, they will be met by Rimik. He will be at the meeting place long before the player shows up. Rimik will make sure that the person is alone, so if anyone else is hiding nearby they must make a successful Stealth check or Rimik will simply sneak off and no further contact will be made.
 
-If Rimik is satisfied that the player is alone, he will speak from the darkness. Rimik will first congratulate the player on completing the task. He will then ask why the party wishes to join the movement and what the players’ motives are. If he is satisfied, Rimik will then explain how the cell works.
+If Rimik is satisfied that the player is alone, he will speak from the darkness. Rimik will first congratulate the player on completing the task. He will then ask why the party wishes to join the movement and what the players' motives are. If he is satisfied, Rimik will then explain how the cell works.
 
 Until the party can be fully trusted, Rimik will be their only contact and he will give the player his name if not already known. The party must either stay on Zenopit or visit regularly to be of use to the [[Liberation Front]]. When a job needs doing, he will contact the player to give instructions.
 
@@ -781,7 +781,7 @@ See
 
 After spending some time in [[Zircon#Landaro]], the players will soon gain an understanding of the people here and their attitudes. If they talk to any of the locals, the players will discover that the [[Liberation Front]] is not only popular here but they used to be quite active, causing problems for [[House Mallor]] and the [[Imperium]].
 
-However, the [[Liberation Front]] have not made any attacks since they broke into the [[Zircon#Mallor Estate]] and defaced the building about 20 weeks ago. Since then, the [[Liberation Front]] have freely voiced their opinions without interference from Mallor’s law enforcement.
+However, the [[Liberation Front]] have not made any attacks since they broke into the [[Zircon#Mallor Estate]] and defaced the building about 20 weeks ago. Since then, the [[Liberation Front]] have freely voiced their opinions without interference from Mallor's law enforcement.
 
 It is unusual for any group like the [[Liberation Front]] to suddenly cease activity or work so openly, so it is a fair conclusion that something must have happened. There are two main avenues of investigation:
 
@@ -792,7 +792,7 @@ It is unusual for any group like the [[Liberation Front]] to suddenly cease acti
 
 Unlike most [[Liberation Front]] cells, the members here do not have strict security measures since they are now free to operate on Zircon (within reason). By speaking to people in the smaller towns, the players will easily be able to make contact with the group.
 
-The players will meet one of the [[Liberation Front]] members, a female Vargr called Inga. Inga will explain that [[\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[House Mallor]]]] has recognised the group’s right to free speech as long as they do not cause harm to anyone or anything. If the players ask why the count agreed to this, Inga will not know but she will say that public opinion of the Count Mallor has improved slightly.
+The players will meet one of the [[Liberation Front]] members, a female Vargr called Inga. Inga will explain that [[\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[House Mallor]]]] has recognised the group's right to free speech as long as they do not cause harm to anyone or anything. If the players ask why the count agreed to this, Inga will not know but she will say that public opinion of the Count Mallor has improved slightly.
 
 If the players ask Inga about her connection to other [[Liberation Front]] cells and their plans, she will say that the work her cell does here is the true path for the separatist movement and that other groups seem to adopt more violent methods. She is not aware of any larger plans for the [[Liberation Front]].
 
@@ -836,13 +836,13 @@ Pequan. Anyone caught using a weapon will be imprisoned and murder carries the d
 
 ### PLACES OF INTEREST
 
-Rasa: The capital city was named after its founder, Etienne Rasa. Like all settlements on Pequan, the buildings are modest structures constructed from wood and stone. There are very few shops here as most trade is done at the daily market in the city centre. There are several inns spread around the city, many of which provide accommodation.
+Rasa: The capital city was named after its founder, Etienne Rasa. Like all settlements on Pequan, the buildings are modest structures constructed from wood and stone. There are very few shops here as most trade is done at the daily market in the city center. There are several inns spread around the city, many of which provide accommodation.
 
 Neguda: The small town of Neguda is situated roughly 10 km north of Rasa. It is much like Rasa but only has a population of several thousand. Agent [[Cryer]] has a safe house here that he uses occasionally.
 
-Rendezvous with [[Cryer]] When the players land at the primitive starport on Pequan, local officials will greet them and explain that all weapons and technology must not leave the starport. The players will notice that agent [[Cryer]]’s ship is here so he must be in the safe house he spoke of.
+Rendezvous with [[Cryer]] When the players land at the primitive starport on Pequan, local officials will greet them and explain that all weapons and technology must not leave the starport. The players will notice that agent [[Cryer]]'s ship is here so he must be in the safe house he spoke of.
 
-Following agent [[Cryer]]’s directions the party head for Rasa, which is less than a kilometre east of the starport. Since technology is not allowed, the party will have to walk there. Once at Rasa they must head north out of the city and walk for roughly two hours until they arrive at Neguda. [[Cryer]]’s safe house is the outermost building on the east side of the town.
+Following agent [[Cryer]]'s directions the party head for Rasa, which is less than a kilometer east of the starport. Since technology is not allowed, the party will have to walk there. Once at Rasa they must head north out of the city and walk for roughly two hours until they arrive at Neguda. [[Cryer]]'s safe house is the outermost building on the east side of the town.
 
 ### SAFE HOUSE
 
@@ -858,7 +858,7 @@ The players will eventually be able to subdue the agent but there could well be 
 
 ### INTERROGATION
 
-The man is obviously an agent but who does he work for and why was he following [[Cryer]]? The party can interrogate the agent to get some answers but he has been trained to endure torture and will reveal very little. Depending on the success of the interrogation and the agent’s resistance, he can reveal any of the following facts:
+The man is obviously an agent but who does he work for and why was he following [[Cryer]]? The party can interrogate the agent to get some answers but he has been trained to endure torture and will reveal very little. Depending on the success of the interrogation and the agent's resistance, he can reveal any of the following facts:
 
 - He is actually half Zhodani.
 - His job was to track down agent [[Cryer]] who was suspected of working with agent Forbes.
@@ -901,13 +901,13 @@ See
 
 The inauguration of Duke Benoit Zahn is scheduled to take place in two days at midday. The ceremony will take place at the park in the Imperial Dome. Security around the park will be high but public access will be allowed. Live holographic feeds will be projected around the planet so the general population can watch the ceremony as it happens.
 
-Agent [[Cryer]] and the players have several objectives. They must attempt to save the duke’s life, reveal the traitor and expose the assassins from [[Liberation Front]]. The party does not know exactly when the assassination attempt will take place but it is a safe assumption that it will be done at some point during the ceremony when the duke is most vulnerable.
+Agent [[Cryer]] and the players have several objectives. They must attempt to save the duke's life, reveal the traitor and expose the assassins from [[Liberation Front]]. The party does not know exactly when the assassination attempt will take place but it is a safe assumption that it will be done at some point during the ceremony when the duke is most vulnerable.
 
 As [[Cryer]] has already pointed out, they are not able to go to the authorities in case the party unwittingly reveal what they know to the enemy. If this happened, the assassins might be tipped off and the players would be silenced, permanently. The players are also fugitives and would be imprisoned and charged for the crimes of which they have been accused. This means that the players are on their own.
 
 The second problem that the players have is that weapons are illegal on Jewell so any attempt to stop the assassins will have to be done with improvised weapons. The players could attempt to smuggle in some weapons but the additional security will make it very difficult and if the players were caught it would not look good considering their existing crimes.
 
-The players must plan their strategy very carefully as they will only get one attempt to save the duke’s life. The players should have enough information to determine that there will be two [[#Jewell Assassin|assassins]], each with a laser rifle but this might not be apparent to them. Allow the players to discuss their options but if they get stuck, agent [[Cryer]] can suggest any of the following:
+The players must plan their strategy very carefully as they will only get one attempt to save the duke's life. The players should have enough information to determine that there will be two [[#Jewell Assassin|assassins]], each with a laser rifle but this might not be apparent to them. Allow the players to discuss their options but if they get stuck, agent [[Cryer]] can suggest any of the following:
 
 - The duke will be most vulnerable when he makes his speech on the park dais. Part way through the speech Governor Gray will relinquish his position to Benoit, symbolised by handing over the Jewell keystone. When Benoit accepts the keystone he will be pronounced Duke of Jewell subsector.
 - The players should investigate the park and look for potential areas where an assassin might shoot from, taking into account access and trajectories.
@@ -931,21 +931,21 @@ If a keystone is on the same planet as a Tripwire device the keystone will glow,
 
 ### SECRET MEETING
 
-This is a risky and difficult move but the players can attempt to sneak past the duke’s personal security detail and speak with him. The duke will be visiting various places before the inauguration so the players can pick the most opportune moment to do this, perhaps even arranging a distraction.
+This is a risky and difficult move but the players can attempt to sneak past the duke's personal security detail and speak with him. The duke will be visiting various places before the inauguration so the players can pick the most opportune moment to do this, perhaps even arranging a distraction.
 
 It is up to the players to decide how much to tell the duke but the more they say the more believable and shocking it will be. Persuade checks will be necessary and if agent [[Cryer]] is present, the players will get a +2 DM. If the players are successful, the duke will listen to any suggestions that they have but he will not cancel the ceremony as it is too important.
 
-The players must advise the duke not to share this information with anyone until they know who can be trusted. The players will hopefully find the assassins before they shoot but the duke should wear hidden armor just in case. The players may also want to fake the duke’s assassination in the hope that the traitor will reveal himself.
+The players must advise the duke not to share this information with anyone until they know who can be trusted. The players will hopefully find the assassins before they shoot but the duke should wear hidden armor just in case. The players may also want to fake the duke's assassination in the hope that the traitor will reveal himself.
 
 ### CEREMONY
 
 When the day of the ceremony arrives, the players must ensure that they are prepared and in position for whatever plans they have in place. If they plan to find the assassins they will need to be watching the correct areas, preferably searching the buildings.
 
-The assassins are in the Visitors Centre and Ministry of Trade where the security is weakest. However, the players might need to hide from approaching security guards in case they are detained as fugitives. If the players find the assassins before they shoot the duke, the perpetrator’s can be questioned. The players may also wish to take the shot if they are planning to fake the assassination and draw out the traitor.
+The assassins are in the Visitors Centre and Ministry of Trade where the security is weakest. However, the players might need to hide from approaching security guards in case they are detained as fugitives. If the players find the assassins before they shoot the duke, the perpetrator's can be questioned. The players may also wish to take the shot if they are planning to fake the assassination and draw out the traitor.
 
 To spot the assassins from the outside requires a Recon check DM –4. If searching the buildings then the players must make an Investigate check DM –1. Both assassins will shoot as the duke is being presented with the keystone.
 
-The traitor is the duke’s aide and he will wait until the duke has been shot before he makes his move. In the chaos and confusion that will follow the shooting, he will swap the keystone with a fake.
+The traitor is the duke's aide and he will wait until the duke has been shot before he makes his move. In the chaos and confusion that will follow the shooting, he will swap the keystone with a fake.
 
 The dome will be busy and the park is crowded with people from all walks of life here to see the inauguration of the new duke. Security guards and police are everywhere and it is difficult to move through the throng.
 
@@ -979,13 +979,13 @@ Unless things went badly wrong, the party will be absolved of all crimes. Howeve
 
 ### The Keystone
 
-When the initial chaos is over and the players have been exonerated, they must turn their attention to the keystone. If the players have the duke’s ear and saw his aide making the switch, the duke will have the aide arrested and the real keystone will be retrieved. Likewise, if the duke saw this happen the outcome will be the same.
+When the initial chaos is over and the players have been exonerated, they must turn their attention to the keystone. If the players have the duke's ear and saw his aide making the switch, the duke will have the aide arrested and the real keystone will be retrieved. Likewise, if the duke saw this happen the outcome will be the same.
 
 The keystone is essential to the next part of the story so if nobody spotted the switch being made or the aide did not get the opportunity to make the switch, you will need to engineer a situation whereby the players know that the keystone is important. Ideas for this can be as simple as someone else seeing the switch or the aide being caught later on trying to take the keystone.
 
-Assuming the aide is caught he will be questioned and will reveal that he has betrayed his people to work for the Zhodani. When he was given the position of the duke’s aide, the [[Zhodani]] made him an offer that he could not refuse, to swap the keystone for the fake. The aide does not know why they want it, only that it is important to them in some way.
+Assuming the aide is caught he will be questioned and will reveal that he has betrayed his people to work for the Zhodani. When he was given the position of the duke's aide, the [[Zhodani]] made him an offer that he could not refuse, to swap the keystone for the fake. The aide does not know why they want it, only that it is important to them in some way.
 
-Agent [[Cryer]] will ask about other traitors. The aide will know that there is a spy in the Imperial intelligence network but he does not know who it is. [[Cryer]] will suggest that the information they have discovered should remain a secret until the spy’s identity is known and he has been captured.
+Agent [[Cryer]] will ask about other traitors. The aide will know that there is a spy in the Imperial intelligence network but he does not know who it is. [[Cryer]] will suggest that the information they have discovered should remain a secret until the spy's identity is known and he has been captured.
 
 If either of the assassins were captured, they will also be questioned but will only say that they were acting on behalf of the [[Liberation Front]] to strike a blow against Imperial oppression. The assassins are unaware that they were actually servicing the [[Zhodani]] agenda.
 
@@ -1009,7 +1009,7 @@ Studying the Keystone Upon arrival at Emerald, the players will need to make the
 
 Due to the danger of travelling, the cost of hiring a transport will be in the region of Cr. 500. This will include a driver or pilot who will ensure that the vehicle is not taken too close to the hazardous area.
 
-Any vehicle that travels within 10km of the facility must roll 1d6. On a roll of 4–6 the vehicle is caught in an electromagnetic eddy and the vehicle’s electrics will fail causing the vehicle to crash. Damage should be determined as appropriate for the speed and type of vehicle.
+Any vehicle that travels within 10km of the facility must roll 1d6. On a roll of 4–6 the vehicle is caught in an electromagnetic eddy and the vehicle's electrics will fail causing the vehicle to crash. Damage should be determined as appropriate for the speed and type of vehicle.
 
 ### THE LONG WALK
 
@@ -1021,7 +1021,7 @@ The walk will take the party through woodlands and across the plains. The journe
 
 The research facility consists of three buildings, one is the living area for the resident scientists and the other two have a number of laboratories and study areas. The entrances to the buildings are secured and comm pads provide a means of communication with the people inside.
 
-Visitors to the facility are not a common occurrence so the players will be left waiting for a while before receiving a reply to their communication. Eventually someone will meet them and lead them through the facility to [[Unkah]]’s lab.
+Visitors to the facility are not a common occurrence so the players will be left waiting for a while before receiving a reply to their communication. Eventually someone will meet them and lead them through the facility to [[Unkah]]'s lab.
 
 [[Unkah]] will greet the players in her shy manner but as soon as she is shown the keystone her eyes will light up. Smiling at the players, [[Unkah]] will tell the players that she is certain that the keystone is something left by the Ancients. The players will no doubt wonder how she knows just by looking. She will be vague in her reply, saying that she is not able to explain right now but if they could take her to Condyole she might be able to shed some light on the situation and give the players some answers.
 
@@ -1057,7 +1057,7 @@ Random [[Zhodani]] patrols will deter travellers from landing on Condyole but th
 
 Korondia: Korondia is the capital city located approximately 20km from the starport. Like all of the cities here, it was built underground to protect against the poisonous atmosphere. In many respects it is quite primitive but it is functional and has a homely feel. Technology has its place here but it is used sparingly and only where needed.
 
-[[Unkah]]’s Discovery Six years ago, [[Unkah]] was given permission by the [[Vexx]] to excavate a site that she believed was used by the Ancients. With help from the locals she discovered a device buried under the ground. The [[Vexx]] knew this was something of importance and urged [[Unkah]] to keep its discovery secret. In return, the [[Vexx]] let her spend the next two years studying the device.
+[[Unkah]]'s Discovery Six years ago, [[Unkah]] was given permission by the [[Vexx]] to excavate a site that she believed was used by the Ancients. With help from the locals she discovered a device buried under the ground. The [[Vexx]] knew this was something of importance and urged [[Unkah]] to keep its discovery secret. In return, the [[Vexx]] let her spend the next two years studying the device.
 
 Neither [[Unkah]] or the [[Vexx]] discovered what the device was for but [[Unkah]] was able to determine that it was built by the Ancients. The only feature she found on the device was a small hexagonal slot at the base, which she assumed was for a key of some sort. Without a key her research came to a dead end. She left Condyole and the device was secured, hidden and forgotten.
 
@@ -1069,7 +1069,7 @@ Once the players are comfortable, [[Unkah]] will have a private meeting with Dam
 
 A short time later when the players have finished investigating the city, [[Unkah]] will return and inform the players that she has been given permission to show them the discovery made on Condyole six years ago.
 
-[[Unkah]], accompanied by Damo, will take the players to the excavation site. It is located a few hundred kilometres to the south west and Damo can acquire the use of a few cars (vehicles are not common on Condyole but they do exist) if the players do not have their own means of transportation.
+[[Unkah]], accompanied by Damo, will take the players to the excavation site. It is located a few hundred kilometers to the south west and Damo can acquire the use of a few cars (vehicles are not common on Condyole but they do exist) if the players do not have their own means of transportation.
 
 ### THE SECRET
 
@@ -1087,13 +1087,13 @@ The display is in an unknown language but [[Unkah]] will reveal that it is the l
 
 ### The Tripwire Device
 
-The device is a black tetrahedron (three sided pyramid) standing 90 metres high. When activated with the correct keystone the device emits a low humming sound audible to anyone within 10 meters. Anyone standing this close to the device will get a splitting headache after roughly one hour. After two hours the nose bleeds start and an hour after that anyone still in proximity will suffer a severe brain haemorrhage.
+The device is a black tetrahedron (three sided pyramid) standing 90 meters high. When activated with the correct keystone the device emits a low humming sound audible to anyone within 10 meters. Anyone standing this close to the device will get a splitting headache after roughly one hour. After two hours the nose bleeds start and an hour after that anyone still in proximity will suffer a severe brain haemorrhage.
 
 ### THE TRIPWIRE NETWORK
 
 Most of the planets in the coreward region of Jewell had a Tripwire device placed there by the Ancients. Together, these devices form the Tripwire network, which is able to disrupt Jump Space.
 
-If two devices are active and they are no more than two parsecs apart, a ‘tripwire’ is formed between those two devices. Any ship attempting to jump into or through the tripwire will be forced out of Jump Space at a random location (treat this as a misjump as described on page 141 of the Traveller Core Rulebook ). Additionally, the Tripwire devices will also show where the tripwire was triggered.
+If two devices are active and they are no more than two parsecs apart, a 'tripwire' is formed between those two devices. Any ship attempting to jump into or through the tripwire will be forced out of Jump Space at a random location (treat this as a misjump as described on page 141 of the Traveller Core Rulebook ). Additionally, the Tripwire devices will also show where the tripwire was triggered.
 
 The only reason that the [[Zhodani]] have not yet activated the network is because they have been developing technology to render their ships immune to the effects. They are now close to realising their goal and once the Tripwire network goes online the [[Zhodani]] will have complete and total control of ships passing through their territories as well as a warning system against any potential invaders.
 
@@ -1107,9 +1107,9 @@ By this point, everyone close to the device will be suffering from a throbbing h
 
 [[Unkah]] and Damo will want to continue with their research but it should soon become clear that they must have frequent breaks. The longer the device is off during their breaks, the longer they can work on the device before the side effects kick in again. After several days of studying the device, [[Unkah]] will explain her findings. Read out the following explanation to the players:
 
-‘This keystone is a master key that has given us greater access to the device and its databanks. There are a number of these devices on several worlds as indicated on the subsector map, although Chwistyoch is now orange and not yellow.
+'This keystone is a master key that has given us greater access to the device and its databanks. There are a number of these devices on several worlds as indicated on the subsector map, although Chwistyoch is now orange and not yellow.
 
-From what we can tell, when any two devices are active and within range they can disrupt Jump Space, effectively preventing anyone from crossing the line between the two devices. We think that any ship affected in this way will also be indicated on the display.’
+From what we can tell, when any two devices are active and within range they can disrupt Jump Space, effectively preventing anyone from crossing the line between the two devices. We think that any ship affected in this way will also be indicated on the display.'
 
 If anyone asks if there is anyway a ship could negate the effects of this, [[Unkah]] will say that she is not sure. Agent [[Cryer]] will point out that the [[Zhodani]] have at least two of these devices, the one shown as active on Chwistyoch and the one discovered by agent [[Forbes]] on Farreach.
 
@@ -1129,7 +1129,7 @@ The [[Zhodani]] discovered their first Tripwire device on Farreach in 833 and im
 
 The [[Zhodani]] found all of the devices except for those on Condyole (possibly due to radioactive interference) and Grant (due to restricted access). With the Louzy device buried under an industrial complex, they were content to leave it buried but they assigned agents to monitor the area in case the [[Imperium]] ever discover it. To establish a defensive border, the [[Zhodani]] moved the Esalin to Chwistyoch and the Foelen device was relocated to Riverland.
 
-important to the Zhodani’s plans; important enough to justify the assassination of the duke.
+important to the Zhodani's plans; important enough to justify the assassination of the duke.
 
 Disabling the Network Once the players realise the power of the Tripwire network and the consequences its use would have, they must devise a way to disable or destroy the network. If the players do not suggest this then agent [[Cryer]] will say that the [[Zhodani]] must be planning something where these devices play an important part and therefore the party must find a way to destroy them.
 
@@ -1203,19 +1203,19 @@ Once inside the base, the players will also need a way to gain access to the bui
 
 #### DISSIDENTS
 
-Once the players get a feeling for the situation here on Chwistyoch, gaining the support of Onak and his followers could prove beneficial. Making contact and proving that they are trustworthy will be the players’ biggest challenge but this should be something they are used to by now.
+Once the players get a feeling for the situation here on Chwistyoch, gaining the support of Onak and his followers could prove beneficial. Making contact and proving that they are trustworthy will be the players' biggest challenge but this should be something they are used to by now.
 
 The same process and principles apply here as with other groups that the players have tried to infiltrate and join. Onak and his group will of course be suspicious but since [[Unkah]] knows so much about the [[Vexx]] and also speaks their native tongue, she will be invaluable in gaining the trust of the dissidents.
 
 Once the players are trusted they will be introduced to Onak and will soon understand why he has gained such a following. He will immediately come across as intelligent and very charismatic.
 
-It is up to the players to decide how much to tell Onak but they will feel as though they can trust him. The more they explain, the more likely it is that Onak will agree to help them. If Onak is told the full extent of the Zhodani’s plans he will be eager to help the players to stop the Tripwire network from being used as it could seriously affect the people in Vexxtown.
+It is up to the players to decide how much to tell Onak but they will feel as though they can trust him. The more they explain, the more likely it is that Onak will agree to help them. If Onak is told the full extent of the Zhodani's plans he will be eager to help the players to stop the Tripwire network from being used as it could seriously affect the people in Vexxtown.
 
-The players must make a Persuade check to convince Onak to aid them in their task. You can give a DM bonus depending on how much they tell Onak. Once the party have Onak’s support, they must discuss strategies of how they will gain access to the base as listed above but with Onak’s help their task should be easier.
+The players must make a Persuade check to convince Onak to aid them in their task. You can give a DM bonus depending on how much they tell Onak. Once the party have Onak's support, they must discuss strategies of how they will gain access to the base as listed above but with Onak's help their task should be easier.
 
 #### DISTRACTION
 
-Creating a distraction to divert the attention of the bases’ security guards might be necessary or at the very least aid the players in their plans. The nature of the distraction will vary depending on their specific plans but the support of Onak and the dissidents could be vital here.
+Creating a distraction to divert the attention of the bases' security guards might be necessary or at the very least aid the players in their plans. The nature of the distraction will vary depending on their specific plans but the support of Onak and the dissidents could be vital here.
 
 #### PASS CARDS
 
@@ -1224,7 +1224,7 @@ In order to obtain a pass card the players will have to steal one from someone w
 
 Anyone who has their card stolen will notice within 2d6 hours and will inform security their card is missing. At which point the card will no longer grant access to the base and anyone using it will be detained and questioned (you can use the Arrested encounter detailed on page 88). If the players obtain a card they can attempt to make a forgery with an Engineer (Electronics) check DM –4. If the check is fumbled then the player will not know they have failed until they try to use the card.
 
-If the players use pass cards to gain entry to the base, they must also disguise themselves appropriately. For example, if they are using a merchant’s card the players must deliver some goods and unless the delivery is prearranged they must bluff their way past the security guards. Using a card for military personnel would not be wise unless any of the players look like Zhodani.
+If the players use pass cards to gain entry to the base, they must also disguise themselves appropriately. For example, if they are using a merchant's card the players must deliver some goods and unless the delivery is prearranged they must bluff their way past the security guards. Using a card for military personnel would not be wise unless any of the players look like Zhodani.
 
 #### SMUGGLING
 
@@ -1264,7 +1264,7 @@ The Tripwire device on Clan was discovered in 1090. Rather than the security ove
 
 The device was discovered on the opposite side of the planet to the starport near a small settlement. To prevent anyone from seeing the excavation of the Tripwire device, a research facility was built on top of the site before the device was unearthed. The keystone for this device was found during the excavation.
 
-The research facility is actually a fully operational biological research centre that specializes in medical research. The research facility has little in the way of security, using standard electronic locks. Scientists work here around the clock and there are always at least three security guards stationed in the building, enough to protect against opportunists but not too much to attract attention.
+The research facility is actually a fully operational biological research center that specializes in medical research. The research facility has little in the way of security, using standard electronic locks. Scientists work here around the clock and there are always at least three security guards stationed in the building, enough to protect against opportunists but not too much to attract attention.
 
 The Tripwire device is hidden in a secure part of the facility that is marked as a hazardous area containing dangerous biological substances. Access to this room is restricted and guarded by an additional security guard.
 
@@ -1278,7 +1278,7 @@ As long as the operation is quick the party should be able to activate the devic
 
 ### STEALTH
 
-If the players decide to go for a more subtle approach, sneaking inside the building is relatively easy. The party have broken into places a lot more secure than this before so this will be child’s play in comparison. All security and stealth related skill checks are standard with no DMs.
+If the players decide to go for a more subtle approach, sneaking inside the building is relatively easy. The party have broken into places a lot more secure than this before so this will be child's play in comparison. All security and stealth related skill checks are standard with no DMs.
 
 The only place where they cannot use stealth is in the secured room where a security guard is stationed by the door. He will have to be dealt with by more conventional methods.
 
@@ -1330,7 +1330,7 @@ The difficulties with this plan are getting the explosives, ensuring the explosi
 
 ### HACKING THE NETWORK
 
-Hacking the computer network to initiate the emergency breach procedure can only be done from a secure terminal inside one of the security zones. This can be done from one of the engineering buildings inside Zone 1 (such as the power grid control, engineering systems or computer control centre).
+Hacking the computer network to initiate the emergency breach procedure can only be done from a secure terminal inside one of the security zones. This can be done from one of the engineering buildings inside Zone 1 (such as the power grid control, engineering systems or computer control center).
 
 The usual stealth procedures will be needed to gain access to the appropriate building. Once inside a Computers check DM –4 is
 
@@ -1371,11 +1371,11 @@ encountered this species. The Chokari clerks will inspect their ship and ask why
 
 Whilst two Chokari inspect the ship, a third will do a background check using a hand computer. He will then motion for the players to go inside the ship and follow them in. Read out the following to the players:
 
-_‘I am Uren. Do not be alarmed but our records show you are wanted for the murder of several Zhodani. We do not like violence but we do not like [[Zhodani]] either. You tell us why you are really here and perhaps we will help.’_
+_'I am Uren. Do not be alarmed but our records show you are wanted for the murder of several Zhodani. We do not like violence but we do not like [[Zhodani]] either. You tell us why you are really here and perhaps we will help.'_
 
 If the players ask why the Chokari would help the party, Uren will explain the situation here on Foelen. Uren is clever and he will know there must be a good reason why the players risked coming here and will ask them to explain their purpose here. If the players tell Uren they are looking for the Tripwire device or at least say they are working against the Zhodani, Urel will reply as follows:
 
-_‘We can help you but you must help us too. There are some of our kind that need passage away from here to start new life. We can help each other, do you agree?’_
+_'We can help you but you must help us too. There are some of our kind that need passage away from here to start new life. We can help each other, do you agree?'_
 
 Assuming the players agree, Uren will nod to his companions and lead the players to a safe house situated a short distance from the starport. Uren will explain that he will return when his shift finishes and the party should remain here in case any [[Zhodani]] recognise them.
 
@@ -1387,7 +1387,7 @@ The following day, the players will have a few hours to spend in Kalesh before U
 
 Cargo
 
-Uren will explain that the Chokari are forbidden to leave Foelen, which is why he needs the players’ help to get some of them offworld. Uren will ask the players to smuggle 1d6 Chokari refugees from Foelen and take them to any habitable world that does not have a [[Zhodani]] influence.
+Uren will explain that the Chokari are forbidden to leave Foelen, which is why he needs the players' help to get some of them offworld. Uren will ask the players to smuggle 1d6 Chokari refugees from Foelen and take them to any habitable world that does not have a [[Zhodani]] influence.
 
 The refugees are at the safe house in Bizentia and Uren will explain that although some of his people work at the starport, they only deal with inbound spacecraft. All ships requesting to depart are administered by the [[Zhodani]] who perform random cargo inspections.
 
@@ -1416,7 +1416,7 @@ Since the [[Zhodani]] only have four devices, the device on Grant will potential
 
 Upon arriving in the Grant system, the players will be challenged by the patrolling fleet. They will have to do some impressive persuading to convince the fleet to let them land on Grant and then access the device. Agent [[Cryer]] will assist here but all Deception and Persuade checks have a –6 DM and can only be attempted if the players make it clear that they know an Ancient device is located here.
 
-However, if the players have obtained an Imperial seal giving them authority to access Grant and destroy the device, their task will be much easier. Once confronted by the fleet, the party must dock with the flagship so they can show the commanding officer the duke’s orders. The officer will not be happy but the seal is authentic so he must comply with the party’s wishes.
+However, if the players have obtained an Imperial seal giving them authority to access Grant and destroy the device, their task will be much easier. Once confronted by the fleet, the party must dock with the flagship so they can show the commanding officer the duke's orders. The officer will not be happy but the seal is authentic so he must comply with the party's wishes.
 
 Assuming the players have convinced the fleet commander to allow the party access to Grant and to destroy the Tripwire device, the party must make sure the research facility is evacuated before the network overload is triggered. However, if the party do not have authorization from the duke they will find it virtually impossible to talk anyone into letting the party destroy the device.
 
@@ -1458,7 +1458,7 @@ Searching Puparkin for the device is straight forward as the players will be abl
 
 This is a stand-alone and optional encounter that can be used if the players land here. A ship carrying bio-hazardous material has crashed onto the surface of Puparkin. Contaminants from the cargo have leaked into the lava flows and made their way into one of the energy plants that provide power to Garok.
 
-The contaminants have been superheated by the lava and mutated by the energy harnessing process. This has resulted in a deadly virus being released into the city. During the time the players’ sped here, several people have fallen victim to the virus and a quarantine has been declared. The city and starport have been locked down, no one is allowed to leave or enter Garok until the virus can be studied and an antidote found. Not only will the players be delayed but they are also at risk of being infected by the virus.
+The contaminants have been superheated by the lava and mutated by the energy harnessing process. This has resulted in a deadly virus being released into the city. During the time the players' sped here, several people have fallen victim to the virus and a quarantine has been declared. The city and starport have been locked down, no one is allowed to leave or enter Garok until the virus can be studied and an antidote found. Not only will the players be delayed but they are also at risk of being infected by the virus.
 
 You can also make the situation more difficult and have some [[Zhodani]] agents appear. They have tracked the players here and are closing in.The players must end the quarantine or break it in order to escape before being caught by the agents.
 
@@ -1482,7 +1482,7 @@ See
 
 ### The Riverland Device
 
-The Tripwire device on Riverland was brought here from Foelen in 1097. At the time the device was moved, the underwater city of [[Riverland#Netzba]] was being built so the device was hidden inside the city’s water processing plant in a secured area.
+The Tripwire device on Riverland was brought here from Foelen in 1097. At the time the device was moved, the underwater city of [[Riverland#Netzba]] was being built so the device was hidden inside the city's water processing plant in a secured area.
 
 The processing plant is used to extract minerals from the water and is situated above the city. Due to its location within the city there are always people in the area, including workers, civilians and security. Security access to the facility requires pass cards and an access code, which is frequently changed. Guards are stationed at the entrance and the area is monitored by cameras.
 
@@ -1546,84 +1546,84 @@ See [[#The Aftermath Table]] for results on the various worlds.
 
 ##### SPECIAL OPS
 
-With the devices destroyed, the players’ task is complete. They can now report to [[Duke Zahn]] who promised to pay them for their services. The duke will be extremely busy dealing with the political ramifications and only when the players show their authorization (if they have any) will the duke’s aides take notice and arrange a meeting. Alternatively, agent [[Cryer]] can use his influence to achieve the same result.
+With the devices destroyed, the players' task is complete. They can now report to [[Duke Zahn]] who promised to pay them for their services. The duke will be extremely busy dealing with the political ramifications and only when the players show their authorization (if they have any) will the duke's aides take notice and arrange a meeting. Alternatively, agent [[Cryer]] can use his influence to achieve the same result.
 
-Once the duke knows that the party have requested a meeting he will make it a priority to see them. The players will be ushered into the duke’s private study and he will enter soon after. Read out the following:
+Once the duke knows that the party have requested a meeting he will make it a priority to see them. The players will be ushered into the duke's private study and he will enter soon after. Read out the following:
 
-> ‘Well, you have certainly caused me some problems but I believe we made the right choice. I’m sure I don’t have to tell you that what you know must stay within these walls.
+> 'Well, you have certainly caused me some problems but I believe we made the right choice. I'm sure I don't have to tell you that what you know must stay within these walls.
 > _As promised, here is another 50,000 credits. I also have another, more permanent, offer for you. It is clear to me that a team is needed for dealing with matters such these, matters that must be dealt with outside the normal Imperial channels._
 >
-> _You have proven yourselves to be both capable and loyal and I would like you all to be part of a new special operations unit. You would work for me, under the command of agent [[Cryer]]. You will be well equipped and well paid for your services. You can have some time to think it over and discuss it but I’m hoping that you will accept.’_
+> _You have proven yourselves to be both capable and loyal and I would like you all to be part of a new special operations unit. You would work for me, under the command of agent [[Cryer]]. You will be well equipped and well paid for your services. You can have some time to think it over and discuss it but I'm hoping that you will accept.'_
 
-Assuming that the players accept the duke’s offer, you now have a great setting in which to play additional scenarios and campaigns. A whole universe of adventures is now available to you and your players as they carry out secret missions for the duke and serve the Imperium.
+Assuming that the players accept the duke's offer, you now have a great setting in which to play additional scenarios and campaigns. A whole universe of adventures is now available to you and your players as they carry out secret missions for the duke and serve the Imperium.
 
-Duke Zahn will want the players to start work immediately as there are several matters that need looking into. Given the party’s knowledge and activity over the last year they are perfect for the job. The players’ first mission will be to expose the spy that still exists in the intelligence network and the [[Imperium]] must also discover the Zhodani’s motives for using the Tripwire network. Finding and questioning the spy might also help the [[Imperium]] discover why the [[Zhodani]] are employing the use of technology like the Tripwire devices.
+Duke Zahn will want the players to start work immediately as there are several matters that need looking into. Given the party's knowledge and activity over the last year they are perfect for the job. The players' first mission will be to expose the spy that still exists in the intelligence network and the [[Imperium]] must also discover the Zhodani's motives for using the Tripwire network. Finding and questioning the spy might also help the [[Imperium]] discover why the [[Zhodani]] are employing the use of technology like the Tripwire devices.
 
 Under Cover
-Since the players are working as undercover operatives, the duke will suggest that they keep their current ship and maintain their current status as free traders. This gives the party a believable cover story whilst giving them the freedom to go anywhere they need to without arousing suspicion. Duke Zahn will pay for any upgrades needed to the ship as long as the players’ can justify the expenditure.
+Since the players are working as undercover operatives, the duke will suggest that they keep their current ship and maintain their current status as free traders. This gives the party a believable cover story whilst giving them the freedom to go anywhere they need to without arousing suspicion. Duke Zahn will pay for any upgrades needed to the ship as long as the players' can justify the expenditure.
 
-Duke Zahn will also pay any expenses incurred by the party, covering ship maintenance, fuel, accommodation, food, ammunition and other supplies. The duke may look after the needs of his new operatives but do not allow the players to abuse this privilege; any requests that are excessive must be justified and should not reveal the party’s true nature, so military grade hardware, illegal and other exotic items will not be permitted.
+Duke Zahn will also pay any expenses incurred by the party, covering ship maintenance, fuel, accommodation, food, ammunition and other supplies. The duke may look after the needs of his new operatives but do not allow the players to abuse this privilege; any requests that are excessive must be justified and should not reveal the party's true nature, so military grade hardware, illegal and other exotic items will not be permitted.
 
-The duke will impress upon the party their need to remain deep undercover and stay ‘under the radar’ to minimise their exposure and keep their connection to the duke and intelligence network a secret. To this end there will be no records of the players working for the duke or the intelligence network. If they were to be given full access to Imperial outposts and facilities it could alert the enemy and expose their operation.
+The duke will impress upon the party their need to remain deep undercover and stay 'under the radar' to minimise their exposure and keep their connection to the duke and intelligence network a secret. To this end there will be no records of the players working for the duke or the intelligence network. If they were to be given full access to Imperial outposts and facilities it could alert the enemy and expose their operation.
 
-If the players get into trouble then they must resolve the situation themselves, they cannot use their new connections to bail them out when things go wrong. Duke Zahn should only be used to pay the party’s wages and brief them on mission details; he is not a crutch for the players to lean on in times of need. The players have already proven their resourcefulness and this is why the duke has employed them.
+If the players get into trouble then they must resolve the situation themselves, they cannot use their new connections to bail them out when things go wrong. Duke Zahn should only be used to pay the party's wages and brief them on mission details; he is not a crutch for the players to lean on in times of need. The players have already proven their resourcefulness and this is why the duke has employed them.
 
 No-one said this would be an easy job but if at any time the players do find themselves in a desperate situation you can have the duke intervene as a last resort but he should be used sparingly in this role so the players do not become dependent on him for support.
 
-You may wish to keep agent [[Cryer]] as an NPC, depending on the current skills and size of the party. He might serve as their leader, or perhaps as a liaison between the players and the duke but it is entirely up to you what role he continues to play, if any. If agent [[Cryer]] does join the party full time then his official records will show he is no longer in the service of the [[Imperium]] to help maintain the party’s cover.
+You may wish to keep agent [[Cryer]] as an NPC, depending on the current skills and size of the party. He might serve as their leader, or perhaps as a liaison between the players and the duke but it is entirely up to you what role he continues to play, if any. If agent [[Cryer]] does join the party full time then his official records will show he is no longer in the service of the [[Imperium]] to help maintain the party's cover.
 
 #### Known Facts
 
-There are a number of points during the players’ travels where the situation resulted from the spy’s involvement. The players have also met a number of contacts who are known associates of Imperial agents. Since the party is tasked with rooting out the spy they must consider everyone who was known to agents [[Forbes]] and [[Cryer]]. Unless the story unfolded differently than detailed throughout the campaign, the players’ should know the following facts and potential suspects:
+There are a number of points during the players' travels where the situation resulted from the spy's involvement. The players have also met a number of contacts who are known associates of Imperial agents. Since the party is tasked with rooting out the spy they must consider everyone who was known to agents [[Forbes]] and [[Cryer]]. Unless the story unfolded differently than detailed throughout the campaign, the players' should know the following facts and potential suspects:
 
 - Agent [[Forbes]] was aware of a potential leak before he was assassinated, as noted on his data wafer.
-- Two [[Zhodani]] agents assassinated agent [[Forbes]] on Esalin. It is a reasonable assumption to conclude that they knew something about him and tracked him from Farreach, which would explain why [[Forbes]] bought passage on the players’ ship to begin with.
+- Two [[Zhodani]] agents assassinated agent [[Forbes]] on Esalin. It is a reasonable assumption to conclude that they knew something about him and tracked him from Farreach, which would explain why [[Forbes]] bought passage on the players' ship to begin with.
 - No [[Zhodani]] agents returned to the Redway Hotel after the assassination, meaning their whereabouts was unknown or perhaps Martha Redway was somehow involved.
 - Martha Redway is a trusted contact but the fact she was not injured during the assassination and was determined to remain could implicate her. However, she did give the data wafer to the players, an act that surely proves her innocence?
 - If agent [[Cryer]] is present he will know that the courier was killed on Esalin but does not know the details. This does not necessarily exclude Martha Redway as a suspect.
-- On Ruby, Daniel is a trusted contact for several agents but he works in an unofficial capacity and has many contacts involved in illegal activities. Could he be an informant, or is one of Daniel’s contacts using the relationship to gain intelligence on Imperial agents?
+- On Ruby, Daniel is a trusted contact for several agents but he works in an unofficial capacity and has many contacts involved in illegal activities. Could he be an informant, or is one of Daniel's contacts using the relationship to gain intelligence on Imperial agents?
 - Gakha, who the players met on Mongo, is another potential suspect who has already been implicated for industrial
 
 ### THE SPY
 
-The spy is a cunning individual who works for the Zhodani. She is a human psion who was taken in by the [[Zhodani]] as a child and was trained in the use of her powers. Her true identity is unknown but she usually goes by the name ‘Alice’ and has a number of different identities she can use when needed. With her psionic capabilities and [[Zhodani]] upbringing, Alice soon learnt to distrust humans and other races, making her a prime candidate as an operative.
+The spy is a cunning individual who works for the Zhodani. She is a human psion who was taken in by the [[Zhodani]] as a child and was trained in the use of her powers. Her true identity is unknown but she usually goes by the name 'Alice' and has a number of different identities she can use when needed. With her psionic capabilities and [[Zhodani]] upbringing, Alice soon learnt to distrust humans and other races, making her a prime candidate as an operative.
 
-Alice’s job is to investigate any potential threat to the Zhodani, primarily from the Imperium, and pass any information to other agents who then deal with the problem. She never deals with any threats herself unless absolutely necessary. For the most part, Alice is simply an information gatherer and limiting her involvement and exposure is the reason she has been so successful.
+Alice's job is to investigate any potential threat to the Zhodani, primarily from the Imperium, and pass any information to other agents who then deal with the problem. She never deals with any threats herself unless absolutely necessary. For the most part, Alice is simply an information gatherer and limiting her involvement and exposure is the reason she has been so successful.
 
 If anything Alice discovers is a serious threat, [[Zhodani]] agents will usually respond by removing that threat. Other times, Alice will be ordered to monitor a particular situation or person to find out more about the Imperial intelligence network and its activities.
 
-Alice’s travels in tracking agent [[Forbes]] is detailed in the relevant sections in this chapter. By following her trail, they players will eventually obtain enough information to track her down.
+Alice's travels in tracking agent [[Forbes]] is detailed in the relevant sections in this chapter. By following her trail, they players will eventually obtain enough information to track her down.
 
 ### ALICE CAREER PAT H STR DEX END INT EDU SOC
 
 Age 33 Psion (4) 6 (0) 8 (0) 7 (0) 9 (+1) 8 (0) 10 (+1) Psi 11, Awareness 2, Clairvoyance 0, Telepathy 3, Computers 0, Deception 1, Persuade 1, Stealth 1 Cloth armor (5)
 
-The party will also have a number of other contacts they have met through the course of this campaign. They can continue to use these contacts and should be encouraged to do so. Building up a good network of contacts can be essential in this line of work but the player’s should be mindful of who they trust.
+The party will also have a number of other contacts they have met through the course of this campaign. They can continue to use these contacts and should be encouraged to do so. Building up a good network of contacts can be essential in this line of work but the player's should be mindful of who they trust.
 
 ### MAKING CONTACT
 
 Duke Zahn will also explain to the players how they will stay in contact with each other. When on Jewell, the players may contact the duke using an encoded signal that is known only to the duke and the party.
 
-A few of the duke’s most trusted couriers are also available to deliver encoded data wafers, again only the duke and the party will have the means to decode the data. Duke Zahn will also arrange for the party to have some permanent accommodation on Jewell so the couriers can better contact the players between missions.
+A few of the duke's most trusted couriers are also available to deliver encoded data wafers, again only the duke and the party will have the means to decode the data. Duke Zahn will also arrange for the party to have some permanent accommodation on Jewell so the couriers can better contact the players between missions.
 
 ##### TO CATCH A SPY
 
 Before the players embark on their first mission as operatives, they will most likely want to stock up with supplies and make sure their ship is in full working order. Once they are fully kitted out and ready to start, the duke will send the party an encoded data wafer containing their mission briefing.
 
-‘Our first priority is to find and capture the spy that we know exists within the Imperial intelligence network. I’m sure that other spies and informants exist but whoever was behind the murder of Agent [[Forbes]] is a known fact and I think there are enough pieces of the puzzle to expose them. This spy is very good and has caused us many problems, so I am relying on you to find this person and if possible bring them to me alive for questioning.’
+'Our first priority is to find and capture the spy that we know exists within the Imperial intelligence network. I'm sure that other spies and informants exist but whoever was behind the murder of Agent [[Forbes]] is a known fact and I think there are enough pieces of the puzzle to expose them. This spy is very good and has caused us many problems, so I am relying on you to find this person and if possible bring them to me alive for questioning.'
 
 espionage. Could she have fooled the players from the beginning?
 
 - The [[Zhodani]] agent encountered on Pequan must have been give his orders by someone else and that person knew that
   [[Forbes]] and [[Cryer]] knew each other. There is a good chance that whoever gave the orders to the agent was in contact with the spy.
-- If the players enquire about duke’s aide who was the traitor at the inauguration ceremony, the duke will explain that the man
+- If the players enquire about duke's aide who was the traitor at the inauguration ceremony, the duke will explain that the man
   was interrogated but he knew nothing about the spy.
 - The spy obviously travels a lot and may not be based at any single location so tracking them down will be difficult.
 
 The players should begin by discussing these known facts and decide which leads they can investigate. With all the Contacts the players have made during their travels, they will now have to question the loyalties of these people. Each potential lead is detailed later in this chapter and the players are free to visit them in any order they wish but starting on Esalin is recommended.
 
 Once the players have enough clues, you can proceed to encounter
-‘The Elusive Alice’ at the end of the chapter.
+'The Elusive Alice' at the end of the chapter.
 
 Emerald: Alice Chamberlain
 
@@ -1643,13 +1643,13 @@ Hacking the computer system requires a Computers check DM –4. An exceptional f
 
 attempted hack and could potentially trace it back to the players. If the players can gain access to a computer terminal it will lower the penalty to DM –1 but getting inside one of the buildings is not an easy task.
 
-The computer terminals are located in offices connected to the grain warehouses. During the day these buildings are very busy. Any previous tactics the party might have used will not work here since everyone in the offices know each other and the players’ presence would be noticed.
+The computer terminals are located in offices connected to the grain warehouses. During the day these buildings are very busy. Any previous tactics the party might have used will not work here since everyone in the offices know each other and the players' presence would be noticed.
 
-The players’ only other option then is to sneak in at night. Night- time security is fully automated using security robots to patrol the building perimeter. Warning signs are clearly visible stating that the robots are programmed to respond with deadly force to any trespassers or intruders.
+The players' only other option then is to sneak in at night. Night- time security is fully automated using security robots to patrol the building perimeter. Warning signs are clearly visible stating that the robots are programmed to respond with deadly force to any trespassers or intruders.
 
 There can be as many robots as you deem necessary to make it difficult for the players to succeed. Once the players have got past the robots, breaking into the building requires an Engineering
 
-ALICE’S TRAVELS Alice has never visited Emerald under the name of Alice Chamberlain but when using this identity she always leaves her details as a salesperson for the Ecannis family. This avoids suspicion and also serves as a decoy should anyone attempt track her down.
+ALICE'S TRAVELS Alice has never visited Emerald under the name of Alice Chamberlain but when using this identity she always leaves her details as a salesperson for the Ecannis family. This avoids suspicion and also serves as a decoy should anyone attempt track her down.
 
 (Electronics) check DM –2. Once inside the building, the players can attempt to hack the computers with only DM –1.
 
@@ -1659,13 +1659,13 @@ The players might conclude that Alice Chamberlain is not even her real name and 
 
 ### MORGAN DRAKE
 
-If the players are also here to investigate Morgan Drake’s story that he negotiated a shipment deal with the Ecannis family, the players will find records that confirm his story. Morgan Drake was here from 046-1105 to 070-1105 and attending six meetings with the representatives of the Ecannis family that resulted in a deal for the Jewell Cluster Freight Co. to transport several shipments every month to neighboring systems.
+If the players are also here to investigate Morgan Drake's story that he negotiated a shipment deal with the Ecannis family, the players will find records that confirm his story. Morgan Drake was here from 046-1105 to 070-1105 and attending six meetings with the representatives of the Ecannis family that resulted in a deal for the Jewell Cluster Freight Co. to transport several shipments every month to neighboring systems.
 
 Esalin: Courier Murder
 
 Fully investigating the murder will not be easy. Not only did it happen almost a year ago but some records will be in the possession of the local law enforcement. Some information can be gleaned from the media but for any detailed information such as autopsy reports the players must hack the computer records or find some other way to covertly obtain the information.
 
-If the players have already spoken to Martha (see page XX) they know that the courier’s name is Robert Lewis and they should have also discovered that Morgan Drake is a potential suspect as his visits to the hotel corresponds to two of the visits by the courier.
+If the players have already spoken to Martha (see page XX) they know that the courier's name is Robert Lewis and they should have also discovered that Morgan Drake is a potential suspect as his visits to the hotel corresponds to two of the visits by the courier.
 
 ### MEDIA RECORDS
 
@@ -1683,37 +1683,37 @@ Esalin: Redway Hotel
 
 Esalin is a good place for the players to start their investigations and there first stop will most likely be the Redway Hotel. Not only can they question Martha but they also know that the hotel is a place they can stay whilst pursuing other leads here.
 
-The players should be on friendly terms with Martha given their previous encounters with her and any player who formed a special relationship will be eager to either prove her innocence or discover the truth. This will probably make questioning Martha a little awkward. Her replies will be honest and forthright but she will understandably be upset and angered that she is being accused of treason. However, the players should be able to appeal to her better nature that they are simply following all leads and ruling out all suspects. Possible questions and Martha’s responses are as follows:
+The players should be on friendly terms with Martha given their previous encounters with her and any player who formed a special relationship will be eager to either prove her innocence or discover the truth. This will probably make questioning Martha a little awkward. Her replies will be honest and forthright but she will understandably be upset and angered that she is being accused of treason. However, the players should be able to appeal to her better nature that they are simply following all leads and ruling out all suspects. Possible questions and Martha's responses are as follows:
 
 - Why did you remain here after the assassination, knowing how risky it would be?
-  _‘I did not want to compromise the operation here or tip off any_
+  _'I did not want to compromise the operation here or tip off any_
   _enemy agents. My family has been serving the [[Imperium]] for_
-  _nearly 40 years and our loyalty has never been questioned.’_
+  _nearly 40 years and our loyalty has never been questioned.'_
 - How well did you know the courier?
-  _‘I did not know Robert that well. To avoid exposing himself as an_
+  _'I did not know Robert that well. To avoid exposing himself as an_
   _operative he acted like an average traveller and only spoke to me_
-  _like most other patrons would.’_
+  _like most other patrons would.'_
 - When was the last time you saw the courier before he was
   murdered?
-  _‘He last came by here about a month before I met you all.’_
+  _'He last came by here about a month before I met you all.'_
 - When did [[Forbes]] last visit here before we arrived with him?
-  _‘It was the same time as the courier, quite by chance I think.’_
+  _'It was the same time as the courier, quite by chance I think.'_
 - What other agents frequent your hotel?
-  _‘We try to minimise the number of agents coming here to avoid_
+  _'We try to minimise the number of agents coming here to avoid_
   _drawing attention. In the last five years, only Adam Dunn, Joss_
-  _Webb and Rachel Logan have come here.’_
+  _Webb and Rachel Logan have come here.'_
 - When was the last time these agents stayed here?
-  ‘ _Agent Dunn was here about a month ago. Webb would have_
-  _been a short time after I met you and Logan hasn’t been here for_
-  _about two years.’_
+  ' _Agent Dunn was here about a month ago. Webb would have_
+  _been a short time after I met you and Logan hasn't been here for_
+  _about two years.'_
 - Are there any customers whose stay coincided with any of the
   agents or couriers?
-  _‘I will have to check the records. It will take some time but I will_
-  _get the information for you.’_
+  _'I will have to check the records. It will take some time but I will_
+  _get the information for you.'_
 
 If the players are with agent [[Cryer]], he can confirm the identities of the agents mentioned by Martha and further checks will confirm
 
-ALICE’S TRAVELS Alice had discovered that Robert Lewis was a courier for the intelligence network when she first followed agent [[Forbes]] to the Redway Hotel. By pure chance Robert was already at the hotel and by reading his surface thoughts, Alice was able to determine his secret and expose the operation at the hotel.
+ALICE'S TRAVELS Alice had discovered that Robert Lewis was a courier for the intelligence network when she first followed agent [[Forbes]] to the Redway Hotel. By pure chance Robert was already at the hotel and by reading his surface thoughts, Alice was able to determine his secret and expose the operation at the hotel.
 
 With the knowledge that the Redway Hotel was a hub for Imperial intelligence, the [[Zhodani]] decided to use it to gain valuable information about the Imperium. However, to avoid revealing their knowledge of this place, agents would only monitor the situation periodically.
 
@@ -1732,7 +1732,7 @@ Examination of the records should reveal the following conclusions:
 - Morgan Drake is a potential suspect as his name coincides
   twice with visits of Robert Lewis, implicating Drake in the
   murder.
-- There are two Alice’s – could they be the same person? If asked,
+- There are two Alice's – could they be the same person? If asked,
   Martha will not recall if they are the same person or not as it
   was over a year ago.
 
@@ -1752,7 +1752,7 @@ Farreach: Investigation Depending on the result of the Tripwire explosions, ther
 
 If something of the base does remain, then the [[Zhodani]] will either be repairing the damage or evacuating the facility depending on how your universe has changed as a result of the Tripwire effect. There
 
-ALICE’S TRAVELS Alice followed agent [[Forbes]] here from Ruby (as detailed on page 16) before he travelled to Farreach to investigate the Tripwire lead where this campaign began. Once at the hotel, it did not take Alice long to uncover the secret of the Redway Hotel and Martha’s role here.
+ALICE'S TRAVELS Alice followed agent [[Forbes]] here from Ruby (as detailed on page 16) before he travelled to Farreach to investigate the Tripwire lead where this campaign began. Once at the hotel, it did not take Alice long to uncover the secret of the Redway Hotel and Martha's role here.
 
 Martha and her hotel were not seen as a threat but another resource that the [[Zhodani]] could use to infiltrate the Imperial intelligence network and so Martha was left alone allowing Alice to periodically monitor agents and couriers who passed through the hotel.
 
@@ -1771,12 +1771,12 @@ Although the players have a good idea that the spy was here, there is no actual 
 Gakha
 If Gakha remained with the party then it is unlikely she will be a suspect but if she left the group at any point the players might want to question her. However, from their previous experience with Gakha the players should be aware that questioning her loyalty is not something that she will respond well to.
 
-Gakha’s current location will depend on where the players last encountered her as she will either be in the same place or in a neighboring Imperial system. If the players visit her last known location they can ask the locals there for Gakha’s whereabouts. Gakha is a friendly and memorable person so most people should be able to help the players and point them in the right direction.
+Gakha's current location will depend on where the players last encountered her as she will either be in the same place or in a neighboring Imperial system. If the players visit her last known location they can ask the locals there for Gakha's whereabouts. Gakha is a friendly and memorable person so most people should be able to help the players and point them in the right direction.
 
 Once the players have found Gakha, she will be pleasantly surprised to see them. However, once her loyalties are questioned her attitude will soon change and she will be difficult to placate. Until the players can pacify her and justify their attitude she will not cooperate with them. If the players to manage to calm the situation, they will be able to question her and can find out any of the following as appropriate to their questions:
 
-ALICE’S TRAVELS
-When agent [[Forbes]] was investigating Farreach Alice had followed him here from Esalin, knowing he was an agent but not yet sure what he was up to. Alice informed two [[Zhodani]] agents of Forbes’ presence but he escaped on the players’ ship. The agents then tracked [[Forbes]] back to Esalin where they assassinated him.
+ALICE'S TRAVELS
+When agent [[Forbes]] was investigating Farreach Alice had followed him here from Esalin, knowing he was an agent but not yet sure what he was up to. Alice informed two [[Zhodani]] agents of Forbes' presence but he escaped on the players' ship. The agents then tracked [[Forbes]] back to Esalin where they assassinated him.
 
 - Gakha would have been on Mongo at the time the courier was murdered.
 - The party rescued Gakha approximately one week after the courier was killed.
@@ -1809,11 +1809,11 @@ Ruby: Morgan Drake Morgan Drake is a legitimate businessman and can easily be tr
 
 The Jewell Cluster Freight Co. is a modest building in the upper city situated near the starport where they have a small fleet of ships. After speaking with the receptionist the players will be permitted to meet with Morgan in a small conference room.
 
-After questioning Morgan, it should become clear that he is not involved with the [[Zhodani]] or any other covert activities. He is a simple businessman who just happened to visit the Redway Hotel at the same time as Robert Lewis. For the entire month prior to Robert’s death, Morgan was staying on Emerald negotiating an important deal with the Ecannis family to transport grain from Emerald to several worlds in the Jewell Cluster. This can be followed up and confirmed if the players visit Emerald (as detailed on page 55).
+After questioning Morgan, it should become clear that he is not involved with the [[Zhodani]] or any other covert activities. He is a simple businessman who just happened to visit the Redway Hotel at the same time as Robert Lewis. For the entire month prior to Robert's death, Morgan was staying on Emerald negotiating an important deal with the Ecannis family to transport grain from Emerald to several worlds in the Jewell Cluster. This can be followed up and confirmed if the players visit Emerald (as detailed on page 55).
 
 ##### THE ELUSIVE ALICE
 
-Once the players know enough about Alice and her activities, they must devise a way to track her down. They could wait for her in The Factory on Ruby or at the Redway Hotel on Esalin but if she spots them she might go into hiding. There is also a good chance that during the players’ investigations, Alice has already deduced that they are on to her or at least suspects the party are getting too close to the truth. However, if the players can think of a way to entice Alice the familiarity of these locations could work to their advantage.
+Once the players know enough about Alice and her activities, they must devise a way to track her down. They could wait for her in The Factory on Ruby or at the Redway Hotel on Esalin but if she spots them she might go into hiding. There is also a good chance that during the players' investigations, Alice has already deduced that they are on to her or at least suspects the party are getting too close to the truth. However, if the players can think of a way to entice Alice the familiarity of these locations could work to their advantage.
 
 Setting the Trap
 The best way to capture Alice is to set a trap to ensure that they can capture her alive. The players do not know that Alice is a psion so their surface thoughts could give them away unless there is another psion in the party who could counter her attempts. For any ruse to work, the players will probably have to involve one of their contacts such as Daniel, Martha or another agent known to Alice. In the latter case, agent [[Cryer]] can arrange this.
@@ -1822,12 +1822,12 @@ The players will then need to get the decoy to collect a data wafer or similar i
 
 Unless the decoy waits for Alice to make an appearance, there will be an element of luck as to whether Alice is in the area. If unsuccessful, the process might have to be repeated several times until Alice takes the bait. The less the decoy knows about the real plan, the less likely Alice will detect the trap.
 
-Remember that Alice might get other [[Zhodani]] agents involved if she thinks the data is a high enough risk to warrant killing the courier. With only a little information Alice will have no choice but to follow the decoy and play right into the players’ hand.
+Remember that Alice might get other [[Zhodani]] agents involved if she thinks the data is a high enough risk to warrant killing the courier. With only a little information Alice will have no choice but to follow the decoy and play right into the players' hand.
 
-ALICE’S TRAVELS
+ALICE'S TRAVELS
 Having discovered that Daniel had worked for several Imperial agents, Alice set herself up as one of his contacts so she could better monitor the activity of the agents who came to Daniel. Daniel was never seen as threat but an asset; an entry point into the Imperial intelligence network.
 
-Alice’s relationship with Daniel meant that she could frequent The Factory (where Daniel spends much of his time) and see many of the people that Daniel met with. It was here that Alice first saw agent [[Forbes]] and discovered he was an Imperial agent and from here she followed [[Forbes]] to Esalin
+Alice's relationship with Daniel meant that she could frequent The Factory (where Daniel spends much of his time) and see many of the people that Daniel met with. It was here that Alice first saw agent [[Forbes]] and discovered he was an Imperial agent and from here she followed [[Forbes]] to Esalin
 (detailed on page 13).
 
 Agent Logan had collected some information on Alice and left a data wafer detailing her findings with Daniel. After Robert Lewis collected the data wafer, Alice sent a [[Zhodani]] agent to intercept him on Esalin where he was killed. Another [[Zhodani]] agent killed agent Logan but her body was disposed of, so nobody knows she is dead.
@@ -1844,19 +1844,19 @@ Once Alice or any other [[Zhodani]] agent is in the building, it can be locked d
 
 ### THE FACTORY
 
-The Factory is known to the players and with Daniel’s help it is a good location to set the trap. However, the fact that many other people frequent the establishment could make things difficult, especially if the local police get involved once a fight or kidnapping is reported.
+The Factory is known to the players and with Daniel's help it is a good location to set the trap. However, the fact that many other people frequent the establishment could make things difficult, especially if the local police get involved once a fight or kidnapping is reported.
 
 The players would be advised to deal with Alice in a private booth if possible. Alternatively the party could apprehend Alice as she enters or leaves the building but again the players must be careful of any other onlookers. Following Alice as she leaves the building provides a better opportunity to catch her at a convenient moment but this plan runs the risk that she could elude the players.
 
 ### [[Zhodani]] AGENTS
 
-If Alice calls in any other agents then the players will have to either apprehend or kill them. Interrogating a [[Zhodani]] agent will reveal Alice’s last known location. Further questioning will reveal that she usually heads to the planned target location a day later to make sure the situation has been dealt with.
+If Alice calls in any other agents then the players will have to either apprehend or kill them. Interrogating a [[Zhodani]] agent will reveal Alice's last known location. Further questioning will reveal that she usually heads to the planned target location a day later to make sure the situation has been dealt with.
 
 The agents will not know any of the larger [[Zhodani]] plans and will not reveal any other information that the players are after.
 
 ### FAILURE
 
-If the players’ plan to capture Alice fails, she will make her escape and the players will have to try a different tactic but she will now be aware that the party is on to her making further attempts more difficult.
+If the players' plan to capture Alice fails, she will make her escape and the players will have to try a different tactic but she will now be aware that the party is on to her making further attempts more difficult.
 
 Alice will also inform other [[Zhodani]] agents who will attempt to track down the party and kill them. These agents will begin by checking all known havens for the players and their associates, which could include places such as the Redway Hotel and The Factory. What they know will depend on what Alice has discovered about the players.
 
@@ -1870,9 +1870,9 @@ If Alice does escape, she will employ guerrilla tactics and take out members of 
 
 ## Zhodani Secrets
 
-During the journey to deliver Alice to the Jewell, the players may wish to interrogate her to find out exactly what she was up to and what other [[Zhodani]] secrets she might have. This is not mandatory and the players might prefer to let the duke’s people handle this matter. If agent [[Cryer]] is with the players he will want to interrogate Alice as soon as possible.
+During the journey to deliver Alice to the Jewell, the players may wish to interrogate her to find out exactly what she was up to and what other [[Zhodani]] secrets she might have. This is not mandatory and the players might prefer to let the duke's people handle this matter. If agent [[Cryer]] is with the players he will want to interrogate Alice as soon as possible.
 
-During the interrogation, Alice’s dislike of the [[Imperium]] will become clear and she will eventually confess that it was her investigations that led to the murder of agent Forbes, Robert Lewis and Rachel Logan. The latter might come as a surprise as nobody knew that agent Logan was dead.
+During the interrogation, Alice's dislike of the [[Imperium]] will become clear and she will eventually confess that it was her investigations that led to the murder of agent Forbes, Robert Lewis and Rachel Logan. The latter might come as a surprise as nobody knew that agent Logan was dead.
 
 Alice will also know that the [[Zhodani]] see the [[Imperium]] as a threat, largely because the last few years has seen the [[Imperium]] tightening their control over Jewell subsector. Knowing a duke was to be appointed, the [[Zhodani]] had no option but move up their timetable for the deployment of the Tripwire devices. If the Tripwire network had been activated, the [[Zhodani]] would have had total control of their borders in Jewell, preventing any possible attack from the Imperium.
 
@@ -1882,17 +1882,17 @@ Alice might also reveal that she discovered the secret of the Redway Hotel and D
 
 ### Reporting to Duke Zahn
 
-Once on Jewell, the players must contact the duke using the prearranged encoded signal. Once the players have made their report, the duke will thank the players for a job well done and arrange to have someone escort the prisoner from the players’ ship.
+Once on Jewell, the players must contact the duke using the prearranged encoded signal. Once the players have made their report, the duke will thank the players for a job well done and arrange to have someone escort the prisoner from the players' ship.
 
 If the players did not interrogate Alice duke Zahn will set his own people to the task. Once the information has been obtained, the duke will send an encoded data wafer to the players with the details so they are aware of the situation.
 
 ### CONTINUING THE STORY
 
-Where you go from here is up to you. The stage has been set and any number of missions await the players. Many of the party’s contacts have been compromised so the players might want to start by making new contacts or setting up safe houses and intelligence hubs. With the current political climate and the aftermath of the Tripwire effect, it will not be long before the duke sends the party on beforetheir next mission...
+Where you go from here is up to you. The stage has been set and any number of missions await the players. Many of the party's contacts have been compromised so the players might want to start by making new contacts or setting up safe houses and intelligence hubs. With the current political climate and the aftermath of the Tripwire effect, it will not be long before the duke sends the party on beforetheir next mission...
 
 # APPENDIX
 
-This appendix has a number of random encounters, NPCs, new equipment and spacecraft that can be used as required. There is also an ‘Arrested’ scenario, which can be used anytime the players find themselves in trouble with the local law enforcement or other authorities.
+This appendix has a number of random encounters, NPCs, new equipment and spacecraft that can be used as required. There is also an 'Arrested' scenario, which can be used anytime the players find themselves in trouble with the local law enforcement or other authorities.
 
 ## ENCOUNTERS
 
@@ -1924,7 +1924,7 @@ Officials conduct a routine inspection to search the ship for contraband. If the
 
 ### EVENT: REPAIRS
 
-The ship’s engineer or a dock worker will notice a problem on the ship. This could be from wear and tear, poor maintenance or damage sustained from a battle or bad piloting. Minor problems do not necessarily need to fixed straight away but could get worse with use. More severe issues will need to be fixed as soon as possible to prevent a failure of that system. The players must get the ship repaired and may also require additional tools or parts to complete the work. Roll on the tables below to determine the location and severity of the problem.
+The ship's engineer or a dock worker will notice a problem on the ship. This could be from wear and tear, poor maintenance or damage sustained from a battle or bad piloting. Minor problems do not necessarily need to fixed straight away but could get worse with use. More severe issues will need to be fixed as soon as possible to prevent a failure of that system. The players must get the ship repaired and may also require additional tools or parts to complete the work. Roll on the tables below to determine the location and severity of the problem.
 
 D 66 LOCATION 11–12 Hull: staterooms/births 13–14 Hull: cargo hold 15 Hull: engineering 16 Hull: bridge 21–22 Hull: fuel storage 23–24 Hull: other (passageways and living space) 25–26 Fuel scoop 31–33 Jump drive 34–36 Maneuver drive 41–46 Weapons 51–53 Power plant 54–56 Luxuries 61 Computer 62 Communications 63 Sensors 64 Other electronics 65–66 Life support
 
@@ -1959,13 +1959,13 @@ A trader approaches the players to sell them some goods for a reasonable price. 
 > ![Info] PASSENGERS
 > Passengers are a good way of getting a new player or NPC to join the party. Once the story begins, there is a good chance that any passengers onboard the ship will get caught up in the events of the campaign. However, if you do not wish to add a new permanent party member, the passenger will not get involved or be unaware of the events as they transpire (for example, they stay in their cabin) and will simply disembark at their desired destination.
 >
-> Any passengers will make certainly make things more interesting at certain points in the story (such as when the [[Zhodani]] board the player’s ship at [[Ao-dai]]). This is also a good encounter if you want your players to land in other systems and can potentially lead to additional encounters at the destination.
+> Any passengers will make certainly make things more interesting at certain points in the story (such as when the [[Zhodani]] board the player's ship at [[Ao-dai]]). This is also a good encounter if you want your players to land in other systems and can potentially lead to additional encounters at the destination.
 >
-> The passenger’s race will largely be determined by the world but you can use the [[#Race Table]] if required. If you need to determine the reason for travel, roll on the [[#Travel Reason Table]]
+> The passenger's race will largely be determined by the world but you can use the [[#Race Table]] if required. If you need to determine the reason for travel, roll on the [[#Travel Reason Table]]
 
 ### PASSENGER: DIPLOMAT
 
-A diplomat, most likely accompanied by at least one aide and one bodyguard, requires urgent passage. He is on Imperial business and his own ship is being repaired. The diplomat will pay well but will insist that he is left alone for the duration of the journey. If you want to make things more interesting, the players’ ship could be attacked or boarded on the way by an opposing faction (perhaps somebody who is after the diplomat).
+A diplomat, most likely accompanied by at least one aide and one bodyguard, requires urgent passage. He is on Imperial business and his own ship is being repaired. The diplomat will pay well but will insist that he is left alone for the duration of the journey. If you want to make things more interesting, the players' ship could be attacked or boarded on the way by an opposing faction (perhaps somebody who is after the diplomat).
 
 ### PASSENGER: FAMILY
 
@@ -2022,7 +2022,7 @@ If the players are found guilty, they will be punished accordingly. Use the guid
 
 ### MAJOR CRIME
 
-If the players are accused of a major crime such as murder or spying, they will be in some serious trouble. Each party member will have all personal effects removed and they will be locked in holding cells whilst they are each questioned in turn. The players’ identities, documents and backgrounds will each be checked and their ship will be searched.
+If the players are accused of a major crime such as murder or spying, they will be in some serious trouble. Each party member will have all personal effects removed and they will be locked in holding cells whilst they are each questioned in turn. The players' identities, documents and backgrounds will each be checked and their ship will be searched.
 
 Proving their innocence or deceiving their captors will be difficult for the players unless they have some conclusive evidence or independent witnesses. Depending on the legal system where they are imprisoned, there might also be a trial.
 
@@ -2037,9 +2037,9 @@ If the players have been arrested for the murder of James [[Forbes]] and/ or [[Z
 If the party are found guilty and are imprisoned or continued investigation into their backgrounds gets them into further trouble
 (such as knowledge or involvement in the various conspiracies), they will need to plan a breakout if they are to uncover the secrets and complete the adventure.
 
-The chances and method of escape will largely depend on the government, security and technology level of the world the players are on. However, the players’ best chance will be to escape before they are transferred to a penal facility. The players will most likely have to escape by themselves, but any party members or contacts on the outside could prove critical to their success.
+The chances and method of escape will largely depend on the government, security and technology level of the world the players are on. However, the players' best chance will be to escape before they are transferred to a penal facility. The players will most likely have to escape by themselves, but any party members or contacts on the outside could prove critical to their success.
 
-If the situation makes it impossible for the players to escape their captors, you could have an undercover agent or sympathiser aid their escape. Any agent that helps the players’ might know of their activities through one of the other agents or contacts the players have already met.
+If the situation makes it impossible for the players to escape their captors, you could have an undercover agent or sympathiser aid their escape. Any agent that helps the players' might know of their activities through one of the other agents or contacts the players have already met.
 
 ## EQUIPMENT
 
@@ -2071,7 +2071,7 @@ Another common food for the Chokari is seaweed. The underwater plants found on F
 
 ### TWINE
 
-The Chokari make twine from a type of seaweed that grows in the sea’s on Foelen. It is strong, thin and flexible, making it ideal for use with their harpoons. Twine is bought in 10ft lengths up to a maximum of 100ft.
+The Chokari make twine from a type of seaweed that grows in the sea's on Foelen. It is strong, thin and flexible, making it ideal for use with their harpoons. Twine is bought in 10ft lengths up to a maximum of 100ft.
 
 Diving Equipment During the course of the campaign, the players might need underwater equipment to achieve their plans. Although vacc suits can be used underwater, most are unwieldy and not ideal for underwater activities (–2 DM to all skill checks in addition to any other vacc suit penalties).
 
@@ -2094,7 +2094,7 @@ Self-Contained Underwater Breathing Apparatus. This life support system is desig
 
 ### WET SUIT
 
-A wet suit is made from neoprene and retains body heat by trapping a layer of water against the skin. This water is warmed by the wearer’s body heat and acts as insulation.
+A wet suit is made from neoprene and retains body heat by trapping a layer of water against the skin. This water is warmed by the wearer's body heat and acts as insulation.
 
 [[Vexx]] Equipment
 
@@ -2338,7 +2338,7 @@ Age 32 Agent (3) 8 (0) 12 (+2) 8 (0) 9 (+1) 8 (0) 7 (0) Athletics (Co-ordination
 
 ## Random  NPC Table
 
-For a quick use NPC, pick or roll on the career and race tables below. The career table below includes the character statistics which should be modified as appropriate by the race. The character can be serving a term in their career or left it in favour of travelling.
+For a quick use NPC, pick or roll on the career and race tables below. The career table below includes the character statistics which should be modified as appropriate by the race. The character can be serving a term in their career or left it in favor of travelling.
 
 |  D66  | CAREER                                                                                                                                            |
 | :---: | ------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2421,10 +2421,10 @@ For a quick use NPC, pick or roll on the career and race tables below. The caree
 |  1D | SEVERITY                                                                                                              |
 | :-: | --------------------------------------------------------------------------------------------------------------------- |
 |  1  | The device is destroyed with no collateral damage.                                                                    |
-|  2  | The device explodes, destroying everything with 1d6 metres.                                                           |
-| 3–4 | The explosion destroys everything within d66 metres.                                                                  |
-|  5  | The device explodes destroying everything within 1d6 kilometres.                                                      |
-|  6  | The explosion destroys everything within 2d6 kilometres and destabilizes [[Jump Space]] in that system for 1d6 hours. |
+|  2  | The device explodes, destroying everything with 1d6 meters.                                                           |
+| 3–4 | The explosion destroys everything within d66 meters.                                                                  |
+|  5  | The device explodes destroying everything within 1d6 kilometers.                                                      |
+|  6  | The explosion destroys everything within 2d6 kilometers and destabilizes [[Jump Space]] in that system for 1d6 hours. |
 
 ## The Aftermath Table
 
@@ -2516,7 +2516,7 @@ The players are being followed by one or more people. Roll on the [[#Stalkers Ta
 
 ### CONTACT
 
-A freelance agent called Gant will attempt to contact the players in secret. Agent Gant knows that [[Forbes]] is a passenger on the players’ ship. He will explain that [[Zhodani]] agents have been pursuing [[Forbes]] from Farreach and now suspect the players’ ship is involved. If the players ask why Gant is helping them, he will simply say he is loyal to the [[Imperium]].
+A freelance agent called Gant will attempt to contact the players in secret. Agent Gant knows that [[Forbes]] is a passenger on the players' ship. He will explain that [[Zhodani]] agents have been pursuing [[Forbes]] from Farreach and now suspect the players' ship is involved. If the players ask why Gant is helping them, he will simply say he is loyal to the [[Imperium]].
 
 Gant was on [[Ao-dai]] when the players encountered the [[Zhodani]] patrol. More agents turned up shortly after the players left to investigate the situation. Gant avoided any suspicion and travelled here (it is the only logical place that they could have jumped to) hoping to find the players and warn them to leave as soon as possible.
 
@@ -2534,7 +2534,7 @@ If this encounter results in a fight then there is also a chance that the police
 
 ### QUESTIONED
 
-A [[#Zhodani Agent]], accompanied by 1d6 [[#Zhodani Pilot|bodyguards]], has been following the players. The agent is simply checking out new arrivals and he has no knowledge of [[Forbes]] or the players’ previous activities.
+A [[#Zhodani Agent]], accompanied by 1d6 [[#Zhodani Pilot|bodyguards]], has been following the players. The agent is simply checking out new arrivals and he has no knowledge of [[Forbes]] or the players' previous activities.
 
 However, if the players are acting suspiciously, the [[Zhodani]] might confront them to ask some questions. Why are they on [[Clan]]? Where have they come from? Where are they going? Unless the players say something revealing there will be no consequences but the encounter should serve to increase their paranoia.
 

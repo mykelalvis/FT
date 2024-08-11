@@ -10,7 +10,7 @@ Emerald Emerald 0206 B766555–B S 0206 B766555–B S I Ag Ga NI GI Ag Ga NI G E
 
 There are four gas giants in the Emerald system and two planetoid belts. The inner and outer orbits are occupied by Emerald and an uninhabited planet respectively.
 
-Emerald 0206 B766555–B S I Ag Ga NI G Emerald is a magnificent world of verdant lands and green tinted oceans. It was colonized in 308 by the Ecannis family. The isolationist attitude of the family restricted the colony’s growth as offworlders were restricted to the starport and colonists were denied permission to settle here.
+Emerald 0206 B766555–B S I Ag Ga NI G Emerald is a magnificent world of verdant lands and green tinted oceans. It was colonized in 308 by the Ecannis family. The isolationist attitude of the family restricted the colony's growth as offworlders were restricted to the starport and colonists were denied permission to settle here.
 
 At the start of the First Frontier War in 589, the [[Imperium]] declared martial law on Emerald and many of the Ecannis nobles, suspected of being [[Zhodani]] sympathisers, were incarcerated on Jewell. Emerald fell to the [[Zhodani]] in 592 around the time that the [[Imperium]] lost control of Jewell. When Jewell was recaptured in 603, the [[Zhodani]] evacuated Emerald and the Ecannis family were allowed to return in 606.
 

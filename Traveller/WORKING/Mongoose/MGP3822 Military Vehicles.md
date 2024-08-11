@@ -183,34 +183,34 @@ function. This may or may not include a human operator.
 
 A vehicle must have a **Hull**. This is the body of the vehicle and
 includes the hull, axles, wings and other structural features as
-well as the vehicle’s outer skin. Other **Components** are fi tted
+well as the vehicle's outer skin. Other **Components** are fi tted
 into the hull as required, which can include weapons, sensors,
 communications equipment, crew facilities and cargo space.
 
 Each component built into a vehicle takes up a certain amount
-of space. The unit used in this design system is the cubic metre
+of space. The unit used in this design system is the cubic meter
 (M^3 ). A vehicle cannot carry more than its internal volume
 allows, unless it is an open structure with items piled up on top
 or hanging out of the sides such as motorcycles, air/rafts and
 fl atbed trucks.
 
-A vehicle’s hull will have a **Confi guration,** which is often
+A vehicle's hull will have a **Confi guration,** which is often
 determined by its intended function. For example, a cargo van
 will have a different confi guration to an aircraft or submarine.
 
-A vehicle’s hull will be constructed from whatever **Material** the
+A vehicle's hull will be constructed from whatever **Material** the
 designer deems to be most suitable. Generally, higher–tech
 materials will be stronger than lower–tech ones, allowing either
 a tougher or cheaper vehicle to be built on the same general
 confi guration. The material a hull is built from also determines
-the vehicle’s mass and Base Armor.
+the vehicle's mass and Base Armor.
 
 Further design decisions are represented by additional
 **Qualities** , which can modify vehicle attributes such as armor
 and speed as well as providing seals and coatings.
 
 The size, construction, confi guration and qualities determine the
-mass of a vehicle. Most components will also add to a vehicle’s
+mass of a vehicle. Most components will also add to a vehicle's
 mass. Mass is used when calculating the speed of a vehicle.
 
 Facings
@@ -230,12 +230,12 @@ All vehicles have six facings as follows:
 
 ```
 Agility
-A vehicle’s Agility is used as a DM to Drive and Pilot checks when
+A vehicle's Agility is used as a DM to Drive and Pilot checks when
 performing diffi cult maneuvers as described on page 67 of the
 Traveller Core Rulebook. Agility can also be applied as a –DM
 to enemy attempts to hit the vehicle if it is attempting to dodge.
 A vehicle doing so is treated as moving at maximum speed for
-purposes of its own chance to hit an enemy. The vehicle’s drive
+purposes of its own chance to hit an enemy. The vehicle's drive
 system will determine the Base Agility (see page 8) which can
 be increased with accessories and design options.
 ```
@@ -302,7 +302,7 @@ Base Structure: 26 ÷ 4 = 6.5 round up to 7
 ```
 
 STEP ONE: CAPACITY
-Capacity is measured in cubic metres (abbreviated M^3 hereafter).
+Capacity is measured in cubic meters (abbreviated M^3 hereafter).
 The shape taken by this volume is not relevant here. For large
 components, the shape will be dictated by the shape of the
 object. Smaller components or systems made up of many small
@@ -311,7 +311,7 @@ and are usually dispersed throughout the vehicle.
 
 Capacity refers to the internal volume of the vehicle. 1 M^3
 translates to 2/27 of a displacement ton (dTon) in the spacecraft
-design system. However, the thickness of a vehicle’s hull and
+design system. However, the thickness of a vehicle's hull and
 external components, such as wheels, mean that a vehicle will
 take up more space than its internal capacity. If it is necessary
 to determine the overall displacement of a vehicle, calculate
@@ -323,7 +323,7 @@ This base value for capacity is termed Base M^3 and is used
 to determine the cost of many components. Some vehicle
 confi gurations can modify the capacity of the vehicle; this
 modifi ed value is termed Total M^3. Components that derive their
-M^3 cost from the vehicle’s capacity always use the vehicle’s
+M^3 cost from the vehicle's capacity always use the vehicle's
 Base M^3 value.
 ```
 
@@ -389,15 +389,15 @@ Main Tank 100 Super Sloped Rugged
 
 ```
 Hull and Structure
-Once you have determined the vehicle’s Base M^3 you can
+Once you have determined the vehicle's Base M^3 you can
 calculate the base Hull and Structure values. Hull and Structure
 points are described on page 67 of the Traveller Core Rulebook
-under ‘Vehicle Damage’.
+under 'Vehicle Damage'.
 ```
 
 ```
 To calculate the Hull and Structure points simply divide the
-vehicle’s Base M^3 by four. Round the result down for the Hull
+vehicle's Base M^3 by four. Round the result down for the Hull
 points and round up for the Structure points. These values can
 be further modifi ed by the material, confi guration and qualities
 (as detailed in Step Two). The minimum base amount for either
@@ -447,15 +447,15 @@ DESIGN CHECKLIST
 VEHICLE DESIGN
 
 STEP TWO: HULL
-The vehicle’s hull is broken down into three design options, which are the construction material confi guration, and optional
+The vehicle's hull is broken down into three design options, which are the construction material confi guration, and optional
 qualities.
 
 Material
 The construction material sets the base mass and cost of the vehicle based on its size. High technology materials give bonuses
-to the vehicle’s base Hull and Structure points, whilst less advanced materials will reduce the Hull and Structure. Modifi ers to Hull
+to the vehicle's base Hull and Structure points, whilst less advanced materials will reduce the Hull and Structure. Modifi ers to Hull
 and Structure are applied as multipliers to the base values calculated in Step One.
 
-The construction material also determines the vehicle’s Base Armor. Further armor can be added as detailed in Step Four.
+The construction material also determines the vehicle's Base Armor. Further armor can be added as detailed in Step Four.
 
 ```
 Material TL
@@ -545,7 +545,7 @@ If you are designing an aircraft then you must choose either the Airframe or Sup
 grav vehicles.
 
 Calculate Hull Cost
-The hull cost is determined by taking the vehicle’s Base M^3 and multiplying it by the cost per M^3 of the construction material. Multiply
+The hull cost is determined by taking the vehicle's Base M^3 and multiplying it by the cost per M^3 of the construction material. Multiply
 the result by the cost multipliers for the hull confi guration and any qualities you have added. Cost multipliers can be applied in any
 order as the result will be the same.
 
@@ -555,7 +555,7 @@ Each quality can only be selected once and you can only have one of a given type
 with Rugged.
 
 A vehicle of Dispersed Construction is essentially made up of fairly loosely connected blocks of components, such as a watercraft
-comprising several rafts, or a very lightly–built grav craft which is not designed to be subject to serious stress. A ‘moon buggy’
+comprising several rafts, or a very lightly–built grav craft which is not designed to be subject to serious stress. A 'moon buggy'
 or similar vehicle could be built this way.
 
 VVEEHICLEHICLE DDEESIGNSIGN
@@ -605,10 +605,10 @@ confi guration (0.8) and Refl ec Coating (+5 against lasers). This information w
 ```
 
 Calculate Total M^3
-If the vehicle’s confi guration modifi es the vehicle’s M^3 , multiply the Base M^3 by the M^3 multiplier listed in the Confi guration Table to
+If the vehicle's confi guration modifi es the vehicle's M^3 , multiply the Base M^3 by the M^3 multiplier listed in the Confi guration Table to
 get the Total M^3. If the confi guration does not affect the M^3 , the Total M^3 is the same as the Base M^3.
 
-It is important to distinguish between Base M^3 and Total M^3 because all calculations that use a percentage of the vehicle’s M^3 use
+It is important to distinguish between Base M^3 and Total M^3 because all calculations that use a percentage of the vehicle's M^3 use
 the Base M^3 value.
 
 Apply Modifiers
@@ -691,27 +691,27 @@ Watercraft Water–Driven 4 10 150 5,000 45 kph 200 kph –
 
 - The Water-Based drive system is only suitable for Manual, Animal or Wind powered craft.
 
-The ‘% of Base M^3 column’ represents the amount of internal space taken up by a drive system and its associated components.
-Use this value to calculate the M^3 of the drive system as a percentage of the vehicle’s Base M^3. For example, Tracks on a vehicle
-with a Base M^3 of 50 would use up 10 M^3 of the vehicle’s capacity (20% of 50 M^3 ).
+The '% of Base M^3 column' represents the amount of internal space taken up by a drive system and its associated components.
+Use this value to calculate the M^3 of the drive system as a percentage of the vehicle's Base M^3. For example, Tracks on a vehicle
+with a Base M^3 of 50 would use up 10 M^3 of the vehicle's capacity (20% of 50 M^3 ).
 
-The ‘Mass per M3’ column is used to determine the mass of the drive system and is calculated from the M^3 it occupies within the
+The 'Mass per M3' column is used to determine the mass of the drive system and is calculated from the M^3 it occupies within the
 vehicle. The mass of the drive system is calculated by multiplying this value by the M^3 of the drive system.
 
-‘Cost per M3’ is the cost in Credits for the drive system based on the volume it occupies. The cost of the drive system is calculated
+'Cost per M3' is the cost in Credits for the drive system based on the volume it occupies. The cost of the drive system is calculated
 by multiplying this value by the M^3 of the drive system. Following on from the previous example, the Tracks would cost Cr. 50,
 (Cr. 5,000 x 10 M^3 ).
 
 VEHICLE DESIGN
 
-The vehicle’s Base Speed and Base Agility are used in the fi nal step of the vehicle design and are detailed in Step Seven. For now,
+The vehicle's Base Speed and Base Agility are used in the fi nal step of the vehicle design and are detailed in Step Seven. For now,
 just make a note of these values.
 
 Aircraft are assumed to have a set of wheels or skids to allow them to land and taxi. A fl oatplane replaces wheels with fl oats at no
-extra cost but a true ‘fl ying boat’ (such as the sea fi ghter, see page 100) needs to have the Waterproof quality.
+extra cost but a true 'fl ying boat' (such as the sea fi ghter, see page 100) needs to have the Waterproof quality.
 
 A Walker can have two or more legs as appropriate to its function. Legs take up little room as they are mainly external to the
-vehicle’s hull. Only the attachments and control points take up M^3 within the vehicle.
+vehicle's hull. Only the attachments and control points take up M^3 within the vehicle.
 
 All watercraft powered by engines must have the Water–Driven or Submarine option. The Water–Based drive system should be
 used for any watercraft that uses alternate forms of power (such as oars or sails).
@@ -722,7 +722,7 @@ power. It is assumed that generators and electric motors can swap power back and
 power transmission is available as part of the drive system.
 
 Most power plants can be of any size unless otherwise stated, and are allocated in units of M^3 or parts thereof. The more M^3
-allocated to the power plant, the greater its power output. The power output is used in Step Seven when calculating the vehicle’s
+allocated to the power plant, the greater its power output. The power output is used in Step Seven when calculating the vehicle's
 speed but for now just note the value.
 
 VVVEEHICLEEHHIICCLLEE D DDEESIGNESSIIGGNN
@@ -829,7 +829,7 @@ conditions, so the power output is simply an average speed in
 regular conditions.
 
 The apparent wind speed (the relative velocity of the wind
-relative to the vehicle’s motion) is also an important factor. For
+relative to the vehicle's motion) is also an important factor. For
 example if a sailing boat is travelling with a direct tail wind at
 the same speed as the wind, there will be no power to drive the
 vehicle. Likewise, if the ocean current is moving at the same
@@ -837,7 +837,7 @@ speed and direction as the wind, the apparent wind speed will
 be 0 kph and the vehicle is essentially drifting on the water.
 
 When travelling in a direction against the wind or directly with
-the wind, sailing vessels must ‘tack’ in a zig–zag fashion to
+the wind, sailing vessels must 'tack' in a zig–zag fashion to
 ensure that the sails can harness the wind power. This means
 
 ```
@@ -847,9 +847,9 @@ it is not necessarily heading directly towards it destination.
 
 ```
 For gaming purposes, you can assume that the above factors
-have been taken into consideration and the vehicle’s speed
+have been taken into consideration and the vehicle's speed
 refl ects changes in the wind and the indirect course the vehicle
-must travel. A wind powered vehicle’s Cruising Speed represents
+must travel. A wind powered vehicle's Cruising Speed represents
 the average speed it can travel at in normal conditions.
 ```
 
@@ -960,7 +960,7 @@ You can also reduce the cost and M^3 of the drive system if
 appropriate. For example, a half track vehicle might halve the
 cost and M^3 usage of either its tracks or wheels.
 
-If a vehicle has multiple power plants then the vehicle’s speed
+If a vehicle has multiple power plants then the vehicle's speed
 must be calculated separately for each one. If the vehicle uses
 the combined power then simply total the power output and
 fuel consumption.
@@ -971,9 +971,9 @@ They are designed as normal but have no power plant; they will
 usually have a Lifter or Wheels drive system.
 
 When a vehicle is pulling a trailer you will need to recalculate
-the vehicle’s speed by adding the trailer’s mass to the mass of
+the vehicle's speed by adding the trailer's mass to the mass of
 the vehicle. Trailers also have an agility penalty that is applied
-to the vehicle pulling it, equal to the trailer’s Base M^3 divided
+to the vehicle pulling it, equal to the trailer's Base M^3 divided
 by 50.
 
 Fuel
@@ -987,7 +987,7 @@ There is no minimum amount of fuel that can be carried but
 practicalities suggest that a reasonable amount is needed if the
 vehicle is to go anywhere. Fuel consumption assumes that the
 drive system is travelling at Cruising Speed (see page 26). Fuel
-consumption is doubled when travelling faster than the vehicle’s
+consumption is doubled when travelling faster than the vehicle's
 Cruising Speed.
 
 ```
@@ -1005,14 +1005,14 @@ effect is the same in game terms.
 ```
 Armor uses up available M^3 and adds to the mass of the
 vehicle. The Armor Material Table indicates how much Armor
-is added for each 1% of the vehicle’s Base M^3 given over to
+is added for each 1% of the vehicle's Base M^3 given over to
 armor. Any modifi ers from other design options are applied to
 the new total. Partial armor points are rounded down if less
 than 0.5 or rounded up if equal to or greater than 0.5.
 ```
 
 ```
-Adding armor requires strengthening the vehicle’s chassis,
+Adding armor requires strengthening the vehicle's chassis,
 suspension and other components, making the addition of
 armor much more than just bolting on some plates. For this
 reason the mass cost is more expensive than the hull costs.
@@ -1039,7 +1039,7 @@ ARMOR EXAMPLE
 Following on from the previous example, our van (made from advanced composites) has a Base Armor of 4 and a Base M^3 of
 ```
 
-_26. We will allocate 2% of the van’s M_^3 _to additional armor made from Light Alloys. This will use up 0.52 M_^3 _(2% of 26 M_^3 _), has
+_26. We will allocate 2% of the van's M_^3 _to additional armor made from Light Alloys. This will use up 0.52 M_^3 _(2% of 26 M_^3 _), has
 a mass of 832 kg (0.52 x 1,600), costs Cr. 1,300 (0.52 M_^3 _x 2,500), and gives our vehicle a further 8 points of armor (2 x 4)._
 
 ```
@@ -1053,7 +1053,7 @@ Armor Facing
 The armor rating of a vehicle applies to all of its facings, except
 for open confi guration vehicles that do not have any armor
 on the dorsal facing. If you wish to create a vehicle with more
-armor on some faces than it does on others, you can ‘move’
+armor on some faces than it does on others, you can 'move'
 armor points from one facing to another. Only additional
 armor points can be moved in this way, Base Armor points
 cannot be moved as they represent the intrinsic armor value
@@ -1301,7 +1301,7 @@ Fixed, Internal
 
 ```
 Tank gun in turret Traversing, Internal
-Secret agent’s car with
+Secret agent's car with
 concealed machineguns
 ```
 
@@ -1310,7 +1310,7 @@ Fixed, Pop–up
 ```
 
 ```
-Tank commander’s
+Tank commander's
 machinegun
 ```
 
@@ -1372,11 +1372,11 @@ mount takes up 7.2 M^3 (4 x 1 x 1.2 x 1.5).
 
 A vehicle can also carry one antipersonnel weapon on an
 unpowered traversing mount for every 20 M^3 (or part thereof)
-of the vehicle’s Base M^3. Weapons added in this manner do
-not use up any of the vehicle’s M^3 capacity, but do add to the
-vehicle’s mass as normal. The cost is just the price of the
+of the vehicle's Base M^3. Weapons added in this manner do
+not use up any of the vehicle's M^3 capacity, but do add to the
+vehicle's mass as normal. The cost is just the price of the
 weapon. Weapons added in this manner require a crew member
-to operate the weapon, who is exposed outside the vehicle’s
+to operate the weapon, who is exposed outside the vehicle's
 armor while doing so.
 
 ```
@@ -1415,7 +1415,7 @@ weapons do not need ammunition.
 ```
 
 ```
-Additional ammunition stowage requires 20% of the weapon’s
+Additional ammunition stowage requires 20% of the weapon's
 base M^3 and mass per additional 5 attacks or 90% per single
 missile, rocket or torpedo. The cost of the ammunition space
 is negligible but the ammunition itself must be paid for. It is
@@ -1437,7 +1437,7 @@ fi ring on the move; it does not provide any positive bonus.
 The effects of movement on fi re are dependent on the
 stabilization system in use and are listed in the Stabilization
 Table. Apply the appropriate DM to rolls to hit depending on the
-stabilization system in place, the vehicle’s speed and whether
+stabilization system in place, the vehicle's speed and whether
 or not it is evading. Stabilization gear modifi es the cost and M^3
 usage of the weapon it is applied to as indicated in the table.
 ```
@@ -1575,7 +1575,7 @@ enough for a ground car or primitive aircraft but is not suffi cient
 for most high–speed craft.
 
 **Basic** : The vehicle has a basic sensor fi t including radar and
-thermal imaging/infrared sensors appropriate to the vehicle’s
+thermal imaging/infrared sensors appropriate to the vehicle's
 function. Grav craft and similar high–speed vehicles need at
 least a basic sensor fi t if they are to be operated at speed.
 
@@ -1599,12 +1599,12 @@ whilst ensuring that they do not miss anything important.
 ```
 Excellent : Excellent sensors are another step forward in terms
 of information gathering, processing and presentation. The
-system can ‘learn’ the preferences of a given crew member
+system can 'learn' the preferences of a given crew member
 and cooperate with them in an active manner. The sensors
 themselves are highly advanced with good resolution and
 penetrative power. Cooperative data–sharing between vehicles
 and ground stations allows a composite viewpoint to be created,
-assisting vehicle crews to see ‘behind’ obstructions.
+assisting vehicle crews to see 'behind' obstructions.
 ```
 
 ```
@@ -1613,7 +1613,7 @@ Most sensor packages can use one or more of the following
 upgrades that modify the range, M^3 , mass and cost. Any given
 sensor package can have only one option that affects range.
 Minimal sensors cannot be modifi ed. Range assumes no
-obstacles; a 5,000 km strategic radar can ‘see’ 5,000 km in a
+obstacles; a 5,000 km strategic radar can 'see' 5,000 km in a
 straight line or with the aid of satellites, but cannot see through
 mountains and planetary curvature.
 ```
@@ -1748,7 +1748,7 @@ underwater, so alternative means must be employed depending
 on the technology being used. At TL 4 submarines must be at
 periscope depth with raised antennae to communicate by radio.
 At TL 7, communication buoys connected via a cable allows
-communication from greater depths but the vessel’s speed and
+communication from greater depths but the vessel's speed and
 manoeuvrability is limited.
 
 With the introduction of lasers, submarines are able to
@@ -1767,7 +1767,7 @@ conditions or underwater, must be purchased separately.
 A vehicle that does not have a Sealed hull cannot normally have
 any environmental controls other than suits or masks worn by
 the riders. However, it is possible to provide a piped air supply
-to riders’ helmets. This costs half the M^3 and Credit cost but
+to riders' helmets. This costs half the M^3 and Credit cost but
 requires that the occupants wear suits and helmets at all times.
 These must be obtained separately. Notable exceptions to this
 rule are overpressure and compressor systems.
@@ -1778,11 +1778,11 @@ vehicles as well. Most vehicles are too small to carry an airlock.
 If airlocks are desired they must be bought as additional
 equipment (see page 21).
 
-**Overpressure:** This system allows the vehicle’s interior to be
+**Overpressure:** This system allows the vehicle's interior to be
 held at a slightly higher level than outside air pressure. This can
 
 ```
-only be done in a thin or standard atmosphere. The vehicle’s
+only be done in a thin or standard atmosphere. The vehicle's
 doors and other openings are semi–sealed to keep the pressure
 differential from causing leaks. An overpressure system will keep
 atmospheric taints, chemical warfare agents and the like out of
@@ -2123,7 +2123,7 @@ normally be equipped with sleeping facilities.
 
 ```
 EQUIPMENT EXAMPLE
-We will add Improved Suspension to improve the vehicle’s
+We will add Improved Suspension to improve the vehicle's
 Agility Potential.
 ```
 
@@ -2370,7 +2370,7 @@ VVEHICLEEHICLE D DESIGNESIGN
 
 ```
 CARGO SPACE EXAMPLE
-With our design complete the total M^3 used by the vehicle’s
+With our design complete the total M^3 used by the vehicle's
 components is 13.54, which leaves 18.46 M^3 remaining from
 the Total M^3 of 32. We will allocate all of this to cargo space,
 which gives us 1.37 dTons of storage (18.46 ÷ 13.5).
@@ -2385,7 +2385,7 @@ of +1, which we add to the Base Agility for a total of 1.
 
 ```
 MASS EXAMPLE
-The vehicle’s mass is calculated as follows:
+The vehicle's mass is calculated as follows:
 ```
 
 ```
@@ -2410,12 +2410,12 @@ Mass is assumed to be 100kg for each M^3 of cargo.
 
 ```
 Calculate Mass
-Multiply the vehicle’s Base M^3 by the Mass per M^3 of the
+Multiply the vehicle's Base M^3 by the Mass per M^3 of the
 construction material (as listed in the Material Table on page
 5). Apply any modifi ers from the confi guration and qualities,
 and then add the mass of all other components. The result is
 the Base Mass of the vehicle in kilograms (kg) and is used to
-determine the vehicle’s speed.
+determine the vehicle's speed.
 ```
 
 ```
@@ -2427,10 +2427,10 @@ and no other facilities are required.
 ```
 
 Calculate Agility
-Agility is determined by the vehicle’s Base Agility (listed in
+Agility is determined by the vehicle's Base Agility (listed in
 the Drive System Table on page 8), which is modifi ed by its
 Agility Potential. Total up all Agility Potential points including
-modifi ers from the vehicle’s confi guration and other design
+modifi ers from the vehicle's confi guration and other design
 options. The Agility Potential Table gives the modifi er to be
 applied to Base Agility.
 
@@ -2450,9 +2450,9 @@ Agility Potential Agility Modifi er
 Calculate Speed
 Multiply the total power output (see page 9) by the Base Speed
 (listed in the Drive System Table on page 8). This value is then
-divided by the Total Mass to get the vehicle’s power to weight
+divided by the Total Mass to get the vehicle's power to weight
 ratio. The power to weight ratio is then multiplied by the Base
-Speed. Now apply any speed modifi ers from the vehicle’s
+Speed. Now apply any speed modifi ers from the vehicle's
 confi guration and components to get the Top Speed. Partial
 speed values are rounded down if less than 0.5 or rounded up
 if equal or greater than 0.5.
@@ -2463,7 +2463,7 @@ Once the Top Speed has been determined, the derived speeds
 can be calculated as follows:
 ```
 
-- Cruising Speed is 75% of the vehicle’s top speed.
+- Cruising Speed is 75% of the vehicle's top speed.
 - The Offroad Speed of a wheeled vehicle is 15% of its top
     speed, assuming reasonably even ground. Moving more
     slowly may be advisable however. Some design choices
@@ -3860,7 +3860,7 @@ Ground Pressure 2.16 — — —
 
 **SURVEILLANCE ALL TERRAIN VEHICLE**
 The Surveillance All Terrain Vehicle is a small and lightly armored vehicle with advanced sensors and stealth technology. Its
-primary role is for reconnaissance, but it is also used as a tactical command centre where MCCs (see page 42) are not available
+primary role is for reconnaissance, but it is also used as a tactical command center where MCCs (see page 42) are not available
 or practical.
 
 ```
@@ -4192,7 +4192,7 @@ WWWAALKERSALLKKEERRSS
 
 **MANTIS**
 The mantis is a small lightly armed walker, most often used as scouting vehicle. A common tactic with these walkers is to deploy a
-large number (often called a ‘swarm’) to assault larger and less mobile vehicles.
+large number (often called a 'swarm') to assault larger and less mobile vehicles.
 
 ```
 Mantis (TL 11) M^3 Mass (kg) Cost (Cr.)
@@ -4970,7 +4970,7 @@ GGGRRAVRAAVV V VVEEHICLESEHHIICCLLEESS
 
 **GUNSKIFF**
 A mobile gun platform that allows passengers to fi re their weaponry over a somewhat precarious railing. Sometimes used to ferry
-troops, but most often used as fi repower platforms. Gunskiffs are a favourite of the Aslan, who also use them to deploy assault
+troops, but most often used as fi repower platforms. Gunskiffs are a favorite of the Aslan, who also use them to deploy assault
 troops.
 
 ```
@@ -5069,7 +5069,7 @@ Total — 264 98,342 6,688,600
 GGRRAVAV VVEEHICLESHICLES
 
 **HOVERTRAK**
-A bit of a misnomer, the hovertrak anti-armor tank has no ‘trak’ portion at all. It was originally named for the tracked version of its
+A bit of a misnomer, the hovertrak anti-armor tank has no 'trak' portion at all. It was originally named for the tracked version of its
 chassis, now obsolete with the advent of its hovering capabilities. Fully enclosed and supporting a small anti-personnel weapon,
 the main reason the hovertrak exists is to support its powerful anti-tank cannon turret. Few mercenary units can afford these
 vehicles, but those who can will never be without a job.
@@ -5442,7 +5442,7 @@ Total — 16.19 6,892 42,140
 
 **LIGHT BOMBER**
 Light bombers are designed to attack enemy ground troops in a tactical role and tend to have a limited payload. They are phased
-out in favour of fi ghter-bombers which excel in the ground attack role.
+out in favor of fi ghter-bombers which excel in the ground attack role.
 
 ```
 Light Bomber (TL 4) M^3 Mass (kg) Cost (Cr.)
@@ -5830,7 +5830,7 @@ AAAIIRCRAFTIRRCCRRAAFFTT
 
 **JET HELICOPTER**
 These helicopters work just like a traditional helicopter with the addition of jet propulsion used to provide bursts of speed over short
-distances. Using the jet doubles fuel consumption but signifi cantly increases the helicopter’s speed. Jet helicopters are primarily
+distances. Using the jet doubles fuel consumption but signifi cantly increases the helicopter's speed. Jet helicopters are primarily
 designed for fast assault missions, often used in place of interceptors where jet planes are not practical.
 
 ```
@@ -7421,7 +7421,7 @@ crew, 40 small craft support, 11 support)
 Operating Stations 80 plus work stations 165.55 16,555 —
 Sleeping Areas 36 standard (137 occupants) 382 11,460 191,000
 Utility Areas Offi cers mess, galley, medical bay, 2 workshops,
-pilots’ ready room
+pilots' ready room
 ```
 
 ```
@@ -7846,7 +7846,7 @@ HHYYBRIDBRID VVEEHICLESHICLES
 
 **SUBMERSIBLE FIGHTER**
 The submergible fi ghter is capable of travelling and fi ring in the air and underwater. Although these fi ghters are not as effective
-as ‘purebred’ vehicles, their versatility makes them a good choice where a limited number of craft are required to perform a
+as 'purebred' vehicles, their versatility makes them a good choice where a limited number of craft are required to perform a
 variety of missions.
 
 ```

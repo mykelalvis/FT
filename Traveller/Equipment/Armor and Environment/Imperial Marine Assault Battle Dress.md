@@ -1,4 +1,4 @@
-[[Imperial Marines]] battle dress maintains its distinctive look at all Tech Levels. The suit described here is the top-of-the-line model worn by most marines in the Core sector and other important regions of the Imperium. While it contains 20 slots for customization, most of them are filled with the standard equipment shown here.
+[[Imperial Marines]] battle dress maintains its distinctive look at all Tech Levels. The suit described here is the top-of-the-line model worn by most marines in the [[Core sector]]  and other important regions of the Imperium. While it contains 20 slots for customization, most of them are filled with the standard equipment shown here.
 
 The armor is equipped with the TL15 electronics suite, which includes Computer/3, Eye Protection, Geiger Counter, IR Goggles, Light Intensifier Goggles, PRIS Binoculars, Radio Transceiver (5,000km range), and a Scope.
 

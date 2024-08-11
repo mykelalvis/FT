@@ -30,4 +30,4 @@ Ruled by Baron Edward Hadway, this region was once a prospering industrial provi
 
 ## Hadway Ghetto
 
-The most notorious district in the Hadway region has been named the ‘Hadway Ghetto’ where gangs rule the streets and the area has degenerated into lawlessness.
+The most notorious district in the Hadway region has been named the 'Hadway Ghetto' where gangs rule the streets and the area has degenerated into lawlessness.

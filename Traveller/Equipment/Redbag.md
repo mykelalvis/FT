@@ -4,13 +4,13 @@ tags:
   - Equipment
   - Freelance_Traveller
 ---
-Author’s Comment: This is an item for players who are the designated medic of the group, or one can be sitting in the ubiquitous Ship’s Locker as part of mandatory safety gear required for carrying passengers. Or something like that.
+Author's Comment: This is an item for players who are the designated medic of the group, or one can be sitting in the ubiquitous Ship's Locker as part of mandatory safety gear required for carrying passengers. Or something like that.
 
 Players playing medic characters should record what they put “in” the bag and mark off consumables. The bag gets more compact as TL increases, but while the tools might get more tech-y they still do the same job for game purposes and for marking off how many supply sets there are. The “average” Red Bag will be about the size of a small duffel or medium sized backpack.
 
-Personal first aid or combat trauma kits can be treated as a single-use item that does the same things as a Red Bag’s aid set, but only once.
+Personal first aid or combat trauma kits can be treated as a single-use item that does the same things as a Red Bag's aid set, but only once.
 
-The kit has all the supplies needed to treat and stabilize wounded personnel. The kit contains scalpels, extra blades, suturing needles and assorted thread (wire and dissolving fiber), scissors, forceps, probes, and tweezers. There are bandages and dressing materials to supply the kit’s number of treatments. The kit also has an injection gun for administering medication.
+The kit has all the supplies needed to treat and stabilize wounded personnel. The kit contains scalpels, extra blades, suturing needles and assorted thread (wire and dissolving fiber), scissors, forceps, probes, and tweezers. There are bandages and dressing materials to supply the kit's number of treatments. The kit also has an injection gun for administering medication.
 
 The kit has a limited amount of consumable supplies for treating wounded characters. For every first aid attempt made on a character, a set of supplies is used whether the attempt is successful or not. Included in these sets of supplies are cleaning, dressing, bandaging, and medication materials. Once the kit is empty of these sets the medic cannot treat characters who are severely wounded (two attributes at zero), but may still treat others at a -1DM.
 

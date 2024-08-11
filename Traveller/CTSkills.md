@@ -99,11 +99,11 @@ The Engineer skill is used to operate and maintain spacecraft and advanced vehic
 
 #### Specialities
 
-- **Maneuver Drive (M-Drive)**: Maintaining and operating a spacecraft’s maneuver drive, as well as its artificial gravity.
-- **Jump Drive (J-Drive)**: Maintaining and operating a spacecraft’s Jump drive.
+- **Maneuver Drive (M-Drive)**: Maintaining and operating a spacecraft's maneuver drive, as well as its artificial gravity.
+- **Jump Drive (J-Drive)**: Maintaining and operating a spacecraft's Jump drive.
 - **Electronics**: All forms of computing hardware, sensors and other electronics and electrics.
 - **Life Support**: Covers oxygen generators, heating and lighting and other necessary life support
-- **Power**: Maintaining and operating a spacecraft’s power plant.
+- **Power**: Maintaining and operating a spacecraft's power plant.
 
 #### Explosives
 
@@ -129,9 +129,9 @@ The various specialities of this skill deal with the operation of ship-mounted w
 #### Specialities
 
 - **Turrets**: Operating turret-mounted weapons on board a ship.
-- **Ortillery**: An abbreviation of Orbital artillery – using a ship’s weapons for planetary bombardment or attacks on stationary targets.
-- **Screens**: Activating and using a ship’s energy screens like Black Globe generators or meson screens.
-- **Capital Weapons**: Operating bay or spinal mount weapons on board a ship.
+- **Ortillery**: An abbreviation of Orbital artillery – using a ship's weapons for planetary bombardment or attacks on stationary targets.
+- **Screens**: Activating and using a ship's energy screens like Black Globe generators or meson screens.
+- **[[Capital]] Weapons**: Operating bay or spinal mount weapons on board a ship.
 
 #### Gun Combat
 
@@ -194,7 +194,7 @@ The melee skill covers attacking in hand-to-hand combat.
 - **Unarmed Combat**: Whether it is trained martial arts or street fighting learned the hard way, this is the skill for using your body as a weapon.
 - **Blade**: Attacking with swords, rapiers, blades and other edged weapons.
 - **Bludgeon**: Attacking with maces, clubs, staves and so on.
-- **Natural Weapons**: The favoured combat skill of wild animals, this covers fighting with claws, teeth, and other weapons that are a part of you.
+- **Natural Weapons**: The favored combat skill of wild animals, this covers fighting with claws, teeth, and other weapons that are a part of you.
 
 #### Navigation
 
@@ -212,7 +212,7 @@ The Pilot skill specialities cover different forms of spacecraft.
 
 - **Small Craft**: Shuttles and other craft under 100 tons.
 - **Spacecraft**: Trade ships and other vessels between 100 and 5,000 tons.
-- **Capital Ships**: Battleships and other ships over 5,000 tons.
+- **[[Capital]] Ships**: Battleships and other ships over 5,000 tons.
 
 #### Physical Sciences
 

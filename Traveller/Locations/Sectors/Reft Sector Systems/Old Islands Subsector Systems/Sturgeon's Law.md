@@ -1,1 +1,1 @@
-Sturgeon’s Law is a very nasty hellworld populated mainly by a moss that can metabolise flesh and metal. The starport is on a cleared island, from whence access to the world’s only settlement is by submersible. The entire population dwells on the bed of the world’s single sea.
+Sturgeon's Law is a very nasty hellworld populated mainly by a moss that can metabolise flesh and metal. The starport is on a cleared island, from whence access to the world's only settlement is by submersible. The entire population dwells on the bed of the world's single sea.

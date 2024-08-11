@@ -8,7 +8,7 @@ tags:
 ---
 
 From [[Tripwire]]
-Foelen Foelen 0601 B638665–8 0601 B638665–8 Z NIZ NI The indigenous population of this ocean world are an aquatic race, resulting from the genetic manipulation of dolphins by the Ancients. The Zhodani occupied Foelen when they discovered that this species, the Chokari (literally meaning ‘water people’), had strong Psionic abilities that warranted further study. Full details can be found on page 69 (Tripwire).
+Foelen Foelen 0601 B638665–8 0601 B638665–8 Z NIZ NI The indigenous population of this ocean world are an aquatic race, resulting from the genetic manipulation of dolphins by the Ancients. The Zhodani occupied Foelen when they discovered that this species, the Chokari (literally meaning 'water people'), had strong Psionic abilities that warranted further study. Full details can be found on page 69 (Tripwire).
 
 This system has a planetoid belt and five planets, with Foelen occupying the third orbit.
 
@@ -76,9 +76,9 @@ Some Chokari are taken for experimentation and, although this is typically a fai
 > ### Traits
 >
 > Dolphin Travellers all possess the following traits:
-> **Deep Diver (300m):** Foelen Dolphins can dive deep underwater, to a depth of 300 metres without risk and can hold their breath for up to 15 minutes.
-> **Echolocation (100m):** Dolphins use a highly sensitive echolocation sense to navigate their environment, effectively allowing them to ‘see’ underwater or in complete darkness to a range of 100 metres.
-> **Swimmer (12m):** Dolphins are superb swimmers and can move through water at a speed of 12 metres.
+> **Deep Diver (300m):** Foelen Dolphins can dive deep underwater, to a depth of 300 meters without risk and can hold their breath for up to 15 minutes.
+> **Echolocation (100m):** Dolphins use a highly sensitive echolocation sense to navigate their environment, effectively allowing them to 'see' underwater or in complete darkness to a range of 100 meters.
+> **Swimmer (12m):** Dolphins are superb swimmers and can move through water at a speed of 12 meters.
 >
 > ### Careers
 >
@@ -87,7 +87,7 @@ Some Chokari are taken for experimentation and, although this is typically a fai
 > [!info] Creating Chokari Travellers
 > The Chokari of Foelen share a common heritage with the Dolphins of their world but their distant ancestors were subjected to a much more radical program of genetic manipulation; it is thought that this occurred after they were raised to sentience. The idea that their sentient Dolphin ancestors were subjected to such experimentation causes most Chokari to despise the Ancients.
 >
-> The Chokari are humanoids adapted to life underwater, although they are quite comfortable on land. They speak with a clicking sound, reminiscent of Dolphin speech, and can converse in the Dolphins’ own language. Relations between them are amicable, yet sincere-sounding insults are often intermixed with commentary on Dolphin epic poetry when the two groups meet. The conceit is that Chokari pretend they believe their Dolphin cousins are ‘unfinished prototypes’, while Dolphins say Chokari were once perfect but then became human. In reality, both groups are respectful of one another and their insults are more like ritualised banter between family members than any attempt to offend.
+> The Chokari are humanoids adapted to life underwater, although they are quite comfortable on land. They speak with a clicking sound, reminiscent of Dolphin speech, and can converse in the Dolphins' own language. Relations between them are amicable, yet sincere-sounding insults are often intermixed with commentary on Dolphin epic poetry when the two groups meet. The conceit is that Chokari pretend they believe their Dolphin cousins are 'unfinished prototypes', while Dolphins say Chokari were once perfect but then became human. In reality, both groups are respectful of one another and their insults are more like ritualised banter between family members than any attempt to offend.
 >
 > The Chokari have psionic tendencies but typically prefer to confuse and misdirect than to harm an enemy. They are resentful of the Zhodani occupation of their world but few Chokari actively resist it. Instead they take the long view- they have lived peacefully on Foelen for nearly 300,000 years and can afford to wait until the Zhodani depart. Most Chokari are convinced that will happen sooner or later.
 >
@@ -100,8 +100,8 @@ Some Chokari are taken for experimentation and, although this is typically a fai
 >
 > ###Traits
 > Chokari Travellers all possess the following traits:
-> Deep Diver (100m): Chokari can dive deep underwater, to a depth of 100 metres without risk and can hold their breath for up to 10 minutes.
-> Swimmer (6m): Chokari are superb swimmers and can move through water at a speed of 6 metres.
+> Deep Diver (100m): Chokari can dive deep underwater, to a depth of 100 meters without risk and can hold their breath for up to 10 minutes.
+> Swimmer (6m): Chokari are superb swimmers and can move through water at a speed of 6 meters.
 >
 > ### Careers
 >

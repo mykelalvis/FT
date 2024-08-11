@@ -88,7 +88,7 @@ Imperium, it would be months before news reached the capital, and
 long months more before the navy could respond. Instead, there are
 one or more Imperial fleets for each sector, named for that sector.
 The Imperial navy is the tool of diplomacy and conquest as needs
-dictate, the Emperor’s own sabre.
+dictate, the Emperor's own sabre.
 
 The Imperial Navy has the largest and most powerful vessels in
 space – dreadnoughts, battle tenders and other mighty warships.
@@ -107,7 +107,7 @@ of the Imperial Navy to act as reserves and reinforcements.
 Planetary navies are responsible solely for the defence of their
 home system, or a handful of related systems held by the same
 duke. At minimum, the planetary navy protects the space up to the
-main world’s jump limit, but in most systems, it will have bases in
+main world's jump limit, but in most systems, it will have bases in
 orbit of the main world and the gas giant, as well as a presence at
 any inhabited worlds or asteroid belts. Planetary navies tend to be
 eccentric at best – officers are often retired or cashiered command
@@ -123,14 +123,14 @@ Welcome to _High Guard_.
 This book is concerned with the navy: its people and its ships. Just
 as the seafarers of old were intrinsically linked with the vessels they
 sailed – be they tall–masted sailing ships or nuclear–powered aircraft
-carriers – so too are the naval personnel of the Imperium. The navy’s
-purpose is to safeguard the Imperium’s interests at the system and
+carriers – so too are the naval personnel of the Imperium. The navy's
+purpose is to safeguard the Imperium's interests at the system and
 interstellar levels; High Guard details this role in three ways:
 
 - Expanded character creation. High Guard takes the basics of
     generating a naval character and vastly expands the system
     to allow characters to specialize across various disciplines
-    reflecting the navy’s structure. As characters progress through
+    reflecting the navy's structure. As characters progress through
     this expanded character generation system, they will become
     equipped with skills and life experiences that truly reflect the
     rigours of a naval career.
@@ -139,24 +139,24 @@ interstellar levels; High Guard details this role in three ways:
     design with more options, larger hulls, more powerful weapons,
     and a deeper level of complexity to allow the construction of
     ships ranging from small, system–confined vessels up to the
-    immense Capital Ships – fighting vessels displacing many
+    immense [[Capital]] Ships – fighting vessels displacing many
     thousands of tons and equipped with the most advanced
     weaponry and defensive capabilities.
 - Expanded space combat. With more options and more powerful
     weapons, High Guard reflects on space combat and provides
     a more detailed system allowing Referees to plan epic space
     battles (from fighter dogfights up to the clash of heavily armed
-    Capital Battleships) and for characters to take part in them.
+    [[Capital]] Battleships) and for characters to take part in them.
 
 High Guard is organised into the following chapters.
 
 Chapter One: Naval Characters
 Chapter Two: Expanded Ship Construction
 Chapter Three Small Craft Design
-Chapter Four: Capital Ship Design
+Chapter Four: [[Capital]] Ship Design
 Chapter Five: Expanded Space Combat
 Chapter Six: Sample Small Craft
-Chapter Seven: Sample Capital Ships
+Chapter Seven: Sample [[Capital]] Ships
 Chapter Eight: Naval Adventures
 
 #### THE IMPERIAL NAVY
@@ -182,9 +182,9 @@ acceptable to refer to it as the 175th BatRon.
 
 The squadrons are also prefixed with a classification dependant
 on what part of the fleet they serve with. A front line regular fleet
-unit would have the classification ‘Imperial’ prefixed; a planetary
+unit would have the classification 'Imperial' prefixed; a planetary
 squadron is usually referred to as a colonial squadron and prefixed
-‘Colonial’. Reserve squadrons are considered to be part of the
+'Colonial'. Reserve squadrons are considered to be part of the
 regular fleets and keep the Imperial classification.
 
 Battle Squadrons (BatRons) are built around dreadnoughts and
@@ -244,7 +244,7 @@ the jump engines and fuel tanks from an outdated warship hull.
 It is rare for a brand–new monitor to be built using modern
 technologies, although especially important worlds can justify
 such protection. Sector capitals are often protected by such
-‘supermonitors’.
+'supermonitors'.
 
 High Guard
 Refuelling operations for a task force are another danger point,
@@ -301,7 +301,7 @@ career term.
 CHOOSING A NAVAL CAREER
 There are two distinct ways to choose to roll a term on a naval career
 path. Either simply meet the listed Qualifications of the path as
-normal, or meet the ‘Previous Service’ terms listed for each naval
+normal, or meet the 'Previous Service' terms listed for each naval
 career. Some of the more exalted careers can only be reached by
 working your way up the ranks.
 
@@ -494,10 +494,10 @@ roll will determine what medal(s) are received by the character.
 
 Combat Ribbon: Combat Ribbon: Any character that is in a combat Event or Mishap
 will automatically be awarded a Combat Ribbon. These will include
-a citation that will detail the character’s name, rank, unit and the
+a citation that will detail the character's name, rank, unit and the
 name and date of the action. Although the Imperium does keep
 track of such awards they are not advertised greatly, although on
-smaller planets or settlements a well–travelled favourite son may
+smaller planets or settlements a well–travelled favorite son may
 well get a mention in the local news media if he receives a Combat
 Ribbon.
 
@@ -541,9 +541,9 @@ up to 3 to the difficulty of the skill roll, making it much more
 likely to be injured. However, when it comes to receiving an
 award the modifier is added to the Effect instead.
 
-Example: Ensign Patrick Oddie is serving in his planet’s Navy,
+Example: Ensign Patrick Oddie is serving in his planet's Navy,
 protecting his homeworld when his vessel engages pirate forces.
-He boards the pirates’ ship and he must fight them off (Event
+He boards the pirates' ship and he must fight them off (Event
 56 on the Crewman Events Table). Deciding that this may be
 his only opportunity for glory Oddie leaps into the fray, taking a
 massive +3DM to the target number he needs to roll. Taking the
@@ -555,7 +555,7 @@ Checking to see if he has won a medal for his pains, he adds +
 to the total for his bravery, getting a 13. This is 5 more than the
 8+ normally needed to avoid injury (this number is unchanged
 for the purpose of determining if the character will receive an
-award), and young Patrick’s bravery does not go unnoticed. He
+award), and young Patrick's bravery does not go unnoticed. He
 will receive the MCG and also gain a Purple Heart (for his injury),
 a Combat Ribbon and a Combat Command Ribbon, assuming
 he will survive his wounds
@@ -573,7 +573,7 @@ be less impressed though, although they will respect a man willing
 to risk his life and shed blood for his cause/ship/comrades. The
 award is much more likely to be featured in local media and any
 character returning to his homeworld/town/neighborhood is more
-likely to receive a hero’s welcome.
+likely to receive a hero's welcome.
 
 Meritorious Conduct under Fire (MCUF): Meritorious Conduct under Fire (MCUF): The MCUF is the first
 medal for bravery awarded to those who show bravery on the field
@@ -599,7 +599,7 @@ the man, or woman, who has shown the outstanding heroic qualities
 necessary to win the award. Despite the vast nature of the Imperium
 and many conflicts that it will be engaged in an individual receiving
 the medal is still notable enough to be reported in major news media
-and those that receive the reward can expect a (deserved) hero’s
+and those that receive the reward can expect a (deserved) hero's
 welcome when they return home. A mercenary unit will welcome
 a bearer of the medal into its ranks, the prestige alone being worth
 their while, let alone the benefit of having such a notable warrior
@@ -724,10 +724,10 @@ with a cybernetic replacement.
 4 Your ship is destroyed in a naval battle. You survive in an escape pod, but the ensuing inquiries and post–
 mortems end your career.
 5 A serious accident occurs on your watch and you are blamed for it. The accident is not your fault and is the result
-of another crew–member’s negligence, but you are blamed. Gain an Enemy.
+of another crew–member's negligence, but you are blamed. Gain an Enemy.
 6 Injured. Roll on the Injury table
 7 You fall in love with a serving colleague who is already married or in a long–term relationship and the liaison
-is discovered. You are forced out of the service after a court martial for breaking regulations. Gain your lover’s
+is discovered. You are forced out of the service after a court martial for breaking regulations. Gain your lover's
 partner as an Enemy.
 8 Severely wounded. Roll twice on the Injury table and take the lower result.
 9 You are implicated in a scandal. You avoid any real blame, but your tarnished reputation leaves your career in
@@ -781,7 +781,7 @@ succeed you gain an Enemy and a +4DM to your next promotion roll. If you fail ro
 56 You take part in a boarding action against a pirate vessel. Roll Gun Combat (any) or Melee (any) 8+. If you succeed
 you gain one of Melee, Gun Combat or Tactics. If you fail roll on the injury table.
 61 On a long survey mission, you pick up some useful skills. Gain Survival 1, Sensors 1, Navigation 1 or Recon 1.
-62 You spend this term in the asteroid belts of a system, showing the navy’s presence and deterring pirates and claim
+62 You spend this term in the asteroid belts of a system, showing the navy's presence and deterring pirates and claim
 jumpers. Gain one rank in Vacc Suit, Zero-G or Sensors.
 63 You are assigned to various non-combat support vessels. Forced to work alongside reservists and civilian crews, you
 appreciate the Navy way of doing things even more. Gain one of Discipline, Carouse or Persuade.
@@ -920,7 +920,7 @@ gain 1D3 Contacts, if you fail gain an Enemy as your incompetence adds to the mi
 26 On a long survey mission, you pick up some useful skills. Gain Survival 1, Sensors 1, Navigation 1 or Recon 1.
 31–36 Life Event. Roll on the Life Events table (see page 34 of the Traveller main rulebook).
 41–46 Naval Event. Roll on the Naval Events table (see page 38).
-51 A boring assignment in a quartermaster’s office gives you the opportunity to pick up some extra equipment. Gain
+51 A boring assignment in a quartermaster's office gives you the opportunity to pick up some extra equipment. Gain
 either the Weapon, Armor or Scientific Equipment benefit.
 52 Your base is visited by dignitaries. Gain Diplomat, Steward or a high–ranking Contact. While they are present, you
 overhear something you should not have.
@@ -1021,7 +1021,7 @@ RollRoll CashCash Other BenefitsOther Benefits
 4 10,000 Retainer or two Ship Shares
 5 13,000 Air/raft
 6 16,000 +1 Int
-7 20,000 Ship’s boat or three Ship Shares
+7 20,000 Ship's boat or three Ship Shares
 
 ###### NAVY CHARACTERS NAVY CHARACTERS
 
@@ -1086,7 +1086,7 @@ flee, the bomb goes off and damages the base.
 53 You show an uncanny ability to get more from the engines that the manual states is possible. This gains you kudos
 from the senior command officers who look to help your career. Gain a +4DM to your next promotion roll.
 54 You are given a new assignment and have to learn new systems. Gain Engineer (any), Sensors or Comms 1.
-55 You learn that your new commander is a little in awe of those who manage his ship’s systems and you are able to
+55 You learn that your new commander is a little in awe of those who manage his ship's systems and you are able to
 scale down the scope of your duties by exaggerating problems. Gain either Persuade 1 or Deception 1.
 56 You serve under a legendary Engineering officer. Roll Engineer (any) or Mechanic 8+. If you succeed he is sufficiently
 impressed by your skills to assign you to a training program. Increase any one skill you already have by one rank. If
@@ -1104,7 +1104,7 @@ determine what it is).
 
 ###### NAVY CHARACTERS NNAVYAVY C CHARACTERSHARACTERS
 
-While the majority of a ship’s weapons are controlled by computers,
+While the majority of a ship's weapons are controlled by computers,
 there is still a need for trained human gunners to take over in the
 event of a computer failure, or when only near–psychic gut instinct
 can shoot down an incoming missile.
@@ -1176,7 +1176,7 @@ RollRoll CashCash Other BenefitsOther Benefits
 4 10,000 Combat implant
 5 13,000 Two ship shares
 6 16,000 +1 Int or retainer
-7 20,000 Ship’s Boat or Two ship shares
+7 20,000 Ship's Boat or Two ship shares
 
 ###### NAVY CHARACTERS NAVY CHARACTERS
 
@@ -1185,7 +1185,7 @@ MISHAPS
 2d62d6 MishapMishap
 2 A technical glitch in your targeting system means that you fail a critical test. Take the technician who ruined your
 career as a Rival.
-3 During a battle you hit and severely damage one of your own side. The inquiry reaches a ‘Friendly Fire’ verdict but
+3 During a battle you hit and severely damage one of your own side. The inquiry reaches a 'Friendly Fire' verdict but
 your career prospects are severely affected as a result.
 4 Your ship is destroyed in battle. You survive, but your career in the Navy is over.
 5 Your guns jam or malfunction during a crucial exercise or combat. Once the mechanics look over the system
@@ -1228,7 +1228,7 @@ if you will vouch for his safety, but you know your commander wants him dead. If
 Advocate 8+. Fail, and gain your commander as an Enemy. Succeed, and gain the enemy captain as an Ally.
 25 You are ordered to lead an attack on an enemy strongpoint. Roll Tactics or Discipline 8+ to succeed. If you pass,
 gain Leadership and an Ally.
-26 You are ordered to bombard an enemy position close to a civilian population centre. Obey this questionable
+26 You are ordered to bombard an enemy position close to a civilian population center. Obey this questionable
 order and gain an Enemy and a +2 DM to your next Advancement roll. Refuse, and suffer a –4 DM to your next
 advancement roll.
 31–36 Life Event. Roll on the Life Events table (see page 34 of the Traveller main rulebook).
@@ -1242,7 +1242,7 @@ you are demoted one rank for your actions.
 53 Hellishly intense fighting rages. You are involved in a series of bloody battles. Roll Melee (any) 8+ to survive the fight
 unscathed. If you fail, roll on the Injury table.
 54 You are given responsibilities for weapon maintenance and gain Engineer (Power) or Engineer (Electronics).
-55 You join your new ship only to kill the ship’s mascot on your first day on board, after mistaking it for vermin. You are
+55 You join your new ship only to kill the ship's mascot on your first day on board, after mistaking it for vermin. You are
 ostracised as a result and gain 1D3 Rivals.
 56 You are part of a shore party that is caught up in a civil war that suddenly overthrows the current government of the
 planet. Roll Gun Combat (any) or Melee (any) 8+. If you fail roll on the Injury table. If you succeed you help stabilize
@@ -1331,7 +1331,7 @@ RollRoll CashCash Other BenefitsOther Benefits
 4 13,000 Combat implant
 5 16,000 +1 Soc
 6 24,000 +1 Int
-7 32,000 Ship’s Boat or Two ship shares
+7 32,000 Ship's Boat or Two ship shares
 
 ###### NAVY CHARACTERS NAVY CHARACTERS
 
@@ -1358,7 +1358,7 @@ roll driven by guilt.
 Rival as you are both drummed out of the service (this was not the first breach of discipline for either of you).
 12 After a particularly heavy session on shore leave you invite a couple of newly found drinking companions onto your
 ship, currently docked in port. Sneaking past the few security staff on board you are determined to show your guests
-what a great pilot you are, and manage to collide with a noble’s yacht. Your gross incompetence is rewarded with the
+what a great pilot you are, and manage to collide with a noble's yacht. Your gross incompetence is rewarded with the
 loss of your Benefit roll for this term and a dishonorable discharge after your court martial.
 
 ###### NNAVYAVY C CHARACTERSHARACTERS NAVY CHARACTERS
@@ -1374,7 +1374,7 @@ assigned to training, gain one of Tactics (Naval) or Leadership.
 14 Your ship is assigned to a pirate hunting mission. To your surprise, one of your Contacts (or a new Contact if you
 have no existing suitable Contacts) is a member of the pirate crew. If you intercede on their behalf, roll Advocate 8+.
 Succeed, and you may keep the Contact. Fail, and they are imprisoned and blame you, becoming an Enemy.
-15 You are invited to dine at the captain’s table. Roll Steward, Carouse or Diplomat 8+. If you succeed, gain a Contact in
+15 You are invited to dine at the captain's table. Roll Steward, Carouse or Diplomat 8+. If you succeed, gain a Contact in
 the crew.
 16 You find yourself taking command when a bridge hit incapacitates senior staff. Either gain Leadership, or take a
 +4DM to your next Advancement roll (in any naval career).
@@ -1427,7 +1427,7 @@ Assignments:Assignments: Choose one of the following:
 - Fighter Pilot: Fighter Pilot: You piloted a small one or two–man combat
     craft.
 - Shuttle Pilot: Shuttle Pilot: You piloted a utility vehicle like a shuttle, cutter or
-    ship’s boat.
+    ship's boat.
 - Special Operations: Special Operations: You piloted a small craft in support of
     marine troops, such as a boarding shuttle or stealth craft.
 
@@ -1485,10 +1485,10 @@ RollRoll CashCash Other BenefitsOther Benefits
 1 3,000 One ship share
 2 5,000 Weapon or armor
 3 7,000 +1 Dex
-4 10,000 Ship’s Boat
+4 10,000 Ship's Boat
 5 13,000 Two ship shares
 6 16,000 +1 Int or Retainer
-7 20,000 Ship’s Boat or Two ship shares
+7 20,000 Ship's Boat or Two ship shares
 
 ###### NAVY CHARACTERS NAVY CHARACTERS
 
@@ -1497,7 +1497,7 @@ MISHAPS
 2d62d6 MishapMishap
 2 You are accused of negligent flying, but the fault was with the starport traffic control. Gain a Rival even though you
 fail to convince the authorities of where the blame really lies.
-3 New tactical priorities leave small craft to become a neglected part of the fleet in favour of massive capital ships.
+3 New tactical priorities leave small craft to become a neglected part of the fleet in favor of massive capital ships.
 You eventually have enough of making do with old and unsafe equipment and resign in protest.
 4 Your shuttle suffers an engine failure and goes adrift without power. There is not enough air for the crew, and you
 are forced to draw lots. The loss of your friends causes you to leave the career at the earliest opportunity.
@@ -1554,7 +1554,7 @@ you learn from the eggheads, gain Engineer (any). Fail and you succeed in aliena
 55 You oversee the retrofitting of new weaponry to your ship. Throw Intelligence 8+. If you succeed, you gain one level
 in Mechanic, Leadership or Science (electronics).
 56 The people of one world beg for assistance from naval military forces, but you are ordered not to intervene. The
-peoples’ cause is just, and you can ‘unofficially’ aid them by secretly supporting them with weaponry or intelligence.
+peoples' cause is just, and you can 'unofficially' aid them by secretly supporting them with weaponry or intelligence.
 If you do so, roll Deception 8+. Succeed, and gain an Ally. Fail, and suffer a -4DM to your next Advancement roll.
 61 You are forced to crash land after suffering a systems failure. Roll Pilot 8+ fail and you roll on the Injury table, if you
 succeed you spend some time before rescuers find you, gain one of Survival or Recon.
@@ -1633,9 +1633,9 @@ RollRoll CashCash Other BenefitsOther Benefits
 2 15,000 Weapon
 3 20,000 Armor
 4 25,000 +1 Edu
-5 30,000 Ship’s Boat or Retainer
+5 30,000 Ship's Boat or Retainer
 6 35,000 +1 Soc
-7 40,000 Ship’s Boat or three ship shares
+7 40,000 Ship's Boat or three ship shares
 
 ###### NAVY CHARACTERS NAVY CHARACTERS
 
@@ -1677,7 +1677,7 @@ Contact in an alien race and one level in any skill of your choice. If you fail,
 21 On a long survey mission, you pick up some useful skills. Gain Survival 1, Sensors 1, Navigation 1 or Recon 1.
 22 You get into a political debate with a member of the bridge staff. Throw Social Standing 8+. Fail and you say
 something you will always regret and you cannot pass your Advancement roll this term. Succeed and you are looked
-at more favourably, gaining a +2 DM to your next Advancement roll.
+at more favorably, gaining a +2 DM to your next Advancement roll.
 23 Your ship was destroyed in battle, and you must run for the escape pods. Roll Dexterity 8+ to make it there in time. If
 you fail, you are injured.
 24 When hunting an enemy ship, you play cat and mouse with it, chasing sensor ghosts and false trails. Roll Sensors 8+
@@ -1722,7 +1722,7 @@ Without faster–than–light communication, knowing when and where
 an enemy power will go is an exercise in analysis, prediction and
 luck. Naval intelligence characters are spies or tacticians, collating
 the reports of agents, scout ships and listening posts to determine
-the optimum placement of the Imperium’s fast–response navy and
+the optimum placement of the Imperium's fast–response navy and
 the defence forces of the subsector navies.
 
 Assignments:Assignments: Choose one of the following:
@@ -1730,7 +1730,7 @@ Assignments:Assignments: Choose one of the following:
 - Analyst: Analyst: You studied and predicted the actions of enemy fleets
     or governments.
 - Planner: Planner: You guided the movements of whole navies.
-- Black Operations: Black Operations: You don’t talk about what you used to do.
+- Black Operations: Black Operations: You don't talk about what you used to do.
 
 Qualifications: Int 11+. Qualifications: Int 11+.
 If you are aged 42 or more: –2 DM
@@ -1780,7 +1780,7 @@ MUSTERING–OUT BENEFITS
 RollRoll CashCash Other BenefitsOther Benefits
 1 20,000 Two ship shares
 2 25,000 Weapon or Scientific Equipment
-3 30,000 Ship’s Boat or two ship shares
+3 30,000 Ship's Boat or two ship shares
 4 35,000 TAS Membership
 5 40,000 Weapon or Retainer
 6 50,000 +1 Soc, +1 Edu
@@ -1823,7 +1823,7 @@ d66d66 EventEvent
 12 You are assigned a secret mission. You may choose to roll on the Agent (Intelligence) events table instead (see page
 11 of the Traveller main rulebook).
 13 You are attacked by an assassin. Roll Dexterity+Melee (any). If you fail, roll on the Injury table. If you succeed, gain
-an Enemy and Persuade 1 as you extract the enemy’s name from your foe.
+an Enemy and Persuade 1 as you extract the enemy's name from your foe.
 14 War can only be won through sacrifice, and a particular situation calls for sacrificing a ship or colony as a gambit. If
 you give the order, gain the survivors as an Enemy. If you refuse, the battle is lost, and you suffer a –4 DM to your
 next Advancement roll.
@@ -1841,7 +1841,7 @@ makes trouble for you as a Rival.
 you succeed, you gain a Sunburst for Extreme Heroism and an Ally. If you fail, roll twice on the injury table and take
 the lower result. If you flee, the bomb goes off and damages the base.
 26 The people of one world beg for assistance from naval military forces, but you are ordered not to intervene. The
-peoples’ cause is just, and you can ‘unofficially’ aid them by secretly supporting them with weaponry or intelligence.
+peoples' cause is just, and you can 'unofficially' aid them by secretly supporting them with weaponry or intelligence.
 If you do so, roll Deception 8+. If you gain an Ally. If you fail suffer a –4DM to your next Advancement roll.
 31–36 Life Event. Roll on the Life Events table (see page 34 of the Traveller main rulebook).
 41–46 Naval Event. Roll on the Naval Events table (see page 38).
@@ -1936,7 +1936,7 @@ MUSTERING–OUT BENEFITS
 RollRoll CashCash Other BenefitsOther Benefits
 1 20,000 Two ship shares or Retainer
 2 25,000 Weapon or Scientific Equipment
-3 30,000 Ship’s Boat or two ship shares
+3 30,000 Ship's Boat or two ship shares
 4 35,000 TAS Membership
 5 40,000 Prototype or three ship shares
 6 50,000 +1 Int, +1 Edu
@@ -1986,7 +1986,7 @@ next Advancement roll.
 a –4 DM. If you fail, you suffer a –4 DM to your next Advancement roll. If you succeed, you salvage the project and
 gain the Prototype Benefit.
 15 During a tour of one of your new ships, a noble takes an interest in you. Gain a Contact.
-16 You’re a miracle worker, even if you do multiply your repair times by a factor of 4. Either gain Jack of all Trades, or
+16 You're a miracle worker, even if you do multiply your repair times by a factor of 4. Either gain Jack of all Trades, or
 take a +4DM to your next Advancement roll (in any naval career).
 21 You serve under a renowned commander who encourages his men to improve their skills wherever possible with
 intense training programs. Gain an extra skill by rolling on your specialist skills and training table.
@@ -2011,12 +2011,12 @@ Roll Gun Combat (any) or Melee 8+. If you fail roll on the Injury table, if you 
 follow up assignment and can pick any one of your Specialist skills to gain a rank in.
 54 You work on systems designed to give personnel help in their duties. Gain one of Astrogation, Gunner or Engineer.
 55 The head of a planetary government pauses to talk to you during a visit on your ship. Roll Diplomat or Steward 8+. If
-you fail you manage to insult him and cause an ‘incident’, causing you to automatically fail your next Advancement
+you fail you manage to insult him and cause an 'incident', causing you to automatically fail your next Advancement
 check. If you succeed your commanding officer is very pleased, you gain a +4DM to your next Advancement check.
 56 Gain one of Engineer (any), Comms, Sensors or Space Sciences (any) as you are sent to a training program.
 61 Your brilliant design ideas only seem to help hostile races. Unimpressed superiors lead to a –4DM to your next
 Advancement check.
-62 A hot shot Navy test pilot helps with your team’s latest modifications. Roll Carouse or Engineer (any) 8+, if you
+62 A hot shot Navy test pilot helps with your team's latest modifications. Roll Carouse or Engineer (any) 8+, if you
 succeed he is so impressed by your ideas that he teaches you some flying tricks, gain Pilot (any) 1, fail and he sees
 you as an arrogant rear echelon type and you gain a Rival.
 63 You are given advanced training in a specialist field. Throw Education 8+ to gain one level in any skill you already have.
@@ -2097,7 +2097,7 @@ MUSTERING–OUT BENEFITS
 RollRoll CashCash Other BenefitsOther Benefits
 1 30,000 Three ship shares
 2 40,000 Weapon or Scientific Equipment
-3 50,000 Ship’s Boat or three ship shares
+3 50,000 Ship's Boat or three ship shares
 4 60,000 Independent Operation or five ship
 shares
 5 70,000 Cutter or five ship shares
@@ -2129,7 +2129,7 @@ but lose 1 to Social Standing.
 10 You are asked to leave the navy to pursue a secret assignment. Gain the Independent Operation benefit.
 11 After a terrible defeat the blame comes to fall upon your shoulders.
 12 Someone in the high command fears that you might take your fleet and go renegade. You are recalled and given a
-boring desk job as a ‘reward’. You are unable to stand the monotony and resign.
+boring desk job as a 'reward'. You are unable to stand the monotony and resign.
 
 ###### NAVY CHARACTERS NNAVYAVY C CHARACTERSHARACTERS
 
@@ -2166,17 +2166,17 @@ warning that the enemy presence is much stronger than anticipated. If you break 
 you continue the mission, roll Pilot or Flyer 8+. Pass, and you survive the attack. Fail, and you are shot down – roll
 twice on the Injury table and take the lower result.
 53 You are engaged in first contact with a minor species. Roll Diplomacy 8+; if you fail, then roll on the Injury table.
-54 You attempt to extricate your command from a very unfavourable position. Roll Tactics (Navy) or Leadership 8+. If
+54 You attempt to extricate your command from a very unfavorable position. Roll Tactics (Navy) or Leadership 8+. If
 you succeed gain +1 Social Standing, if you fail roll on the Injury table.
 55 You co-ordinate a major evacuation. Roll Leadership or Admin 8+. If you succeed you gain a powerful Ally amongst
 those you save, if you fail you gain an Enemy who blames you for the unnecessary loss of lives.
-56 You are placed in charge of a court martial over an officer who’s actions led to a major military defeat. Gain one of
+56 You are placed in charge of a court martial over an officer who's actions led to a major military defeat. Gain one of
 Advocate, Investigate or Admin.
 61 You are given a key role against hostile forces during a period of minor conflict. Roll Tactics (Naval) or Leadership
 8+. If you fail roll on the Injury table. If you succeed the campaign is successful and you are the guest of honor at
 innumerable receptions. Gain one of Carouse, Diplomat or add one to your Social Standing.
 62 You are put into a difficult situation by political rivals. Roll Diplomat or Advocate 8+. If you fail you lose one from
-your Social Standing. If you succeed you deftly turn the situation to your favour and gain a rank in Diplomat,
+your Social Standing. If you succeed you deftly turn the situation to your favor and gain a rank in Diplomat,
 Persuade or Investigate as you manage to turn the tables on those who put you into the situation in the first place.
 63 Your cautious approach during a major engagement gains you both admirers and critics within the navy. Gain 1D3
 Contacts and 1D3 Rivals.
@@ -2245,7 +2245,7 @@ construction of starships. It is of limited practical use in the field,
 but can be substituted for any other Engineer speciality at a –2DM
 when dealing with starship systems. For example, a character with
 Naval Engineer 3 could make a skill test calling for Engineer (life
-support) with a –2 DM when trying to repair a starship’s air scrubber,
+support) with a –2 DM when trying to repair a starship's air scrubber,
 but could not use his Naval Engineer skill to fix a malfunctioning
 navigation system on an air/raft.
 
@@ -2283,9 +2283,9 @@ Independent Operation: Independent Operation: The character may set up his own b
 or group that works with the navy, such as a mercenary group, spy
 network or private think–tank. The navy will pay up to 20 ship shares
 or 1d6 MCr towards initial start-up costs, as long as the character
-agrees to favour them as a client.
+agrees to favor them as a client.
 
-Retainer: Retainer: The navy wishes to retain the character’s services, calling
+Retainer: Retainer: The navy wishes to retain the character's services, calling
 on him as a consultant or advisor. The character will be paid Cr.
 1,000 per month on condition that he remain available for naval
 service when called upon.
@@ -2307,7 +2307,7 @@ Aslan
 Aslan naval forces break down clearly by gender lines – males take
 command, and females take every other role. Often, the command
 staff of an Aslan cruiser will be a single pride, with the alpha male
-in command. Aslan forces traditionally favour heavy fighter screens
+in command. Aslan forces traditionally favor heavy fighter screens
 over capital ships.
 
 Modifiers: Modifiers: Male Aslan receive a +1 DM to all Advancement rolls
@@ -2333,11 +2333,11 @@ galaxy; some are more like flying cities than mere vessels.
 Modifiers: Modifiers: Hivers cannot choose the Pilot career, but have a +2 DM
 when qualifying for Naval Intelligence careers.
 
-K’Kree
-The K’Kree dislike space travel, and have few ships. They make poor
+K'Kree
+The K'Kree dislike space travel, and have few ships. They make poor
 naval officers.
 
-Modifiers: Modifiers: K’Kree have a –1 DM to qualifying for all Naval careers.
+Modifiers: Modifiers: K'Kree have a –1 DM to qualifying for all Naval careers.
 
 Vargr
 Vargr find the strict discipline of the Navy stultifying, but can make
@@ -2410,7 +2410,7 @@ asteroid miners under attack by raiders from a neighboring system.
 The subsector navy has decided this is an internal matter, and will
 not intervene, but Harek cannot stand idly by [rolls a 56 on the events
 table]. He rallies his squadron and leads a secret strike against the
-raiders [the Referee and Harek’s player agree that he actually launches
+raiders [the Referee and Harek's player agree that he actually launches
 an attack instead of just passing on information]. One of the asteroid
 miners becomes a firm friend of Harek [gains an Ally].
 
@@ -2423,16 +2423,16 @@ Vacc Suit 1]. He avoids any mishap, but his ship becomes involved
 in a major engagement [rolls a 52 on the event table].
 
 The enemy force has taken up a strong defensive position in close
-orbit of the world of Ataris. Harek’s squadron is ordered to attack
+orbit of the world of Ataris. Harek's squadron is ordered to attack
 but Harek breaks off at the last moment.
 
-His commanding officer is furious with Harek’s disobedience, and
+His commanding officer is furious with Harek's disobedience, and
 he is ejected from the navy [rolls a 6 for Advancement, but the –4
 DM from the event means that he is below the threshold, rolling
 less than the total number of terms served].
 
 His benefits for three terms in the subsector navy are 37,000 Credits,
-a Ship’s Boat, two Ship Shares, and higher standing [+1 Soc].
+a Ship's Boat, two Ship Shares, and higher standing [+1 Soc].
 
 FOURTH TERM:
 Harek has left the subsector navy, but he is a veteran naval officer
@@ -2471,7 +2471,7 @@ Astrogation 1, Flyer (grav) 1, Zero–G 0, Computers 0, Space Science
 Combat 0, Sensors 1, Melee 1, Leadership 1, Gunner (turret) 1,
 Athletics 1, Tactics (naval) 2.
 
-Armor, Ship’s Boat, Two Ship Shares, 47,000 credits.
+Armor, Ship's Boat, Two Ship Shares, 47,000 credits.
 Four terms.
 
 ###### NAVY CHARACTERS
@@ -2487,12 +2487,12 @@ considerable time in a shipyard to install.
 
 Reinforced Structure: Reinforced Structure: By adding internal armor protection and
 structural reinforcement, a ship can withstand more structural
-damage. For every 5% of the ship’s total tonnage allocated to
+damage. For every 5% of the ship's total tonnage allocated to
 reinforced structure, the ship gains extra structure points. Reinforced
 structure costs MCr 0.2/ton.
 
 Reinforced Hull: Reinforced Hull: Reinforcing the external hull is easier than
-reinforcing internal systems. For every 10% of the ship’s total
+reinforcing internal systems. For every 10% of the ship's total
 tonnage allocated to reinforced hull, the ship gains extra hull points.
 Reinforced hull costs MCr 0.1/ton.
 
@@ -2504,7 +2504,7 @@ ship has a 30–ton power plant, then adding armored bulkheads to
 protect the reactor costs three tons, but means the first Power Plant hit
 is ignored. Armored bulkheads cost MCr 0.2/ton.
 
-Modular Hull:Modular Hull: Up to 75% of a ship’s internal tonnage may be
+Modular Hull:Modular Hull: Up to 75% of a ship's internal tonnage may be
 designated as modular, allowing it to be swapped out easily. This
 tonnage may not include the bridge, power plant, drives or any
 structural or armor options. Different modules can be installed
@@ -2512,9 +2512,9 @@ for different tasks. Making a modular hull increases the cost of the
 overall hull by the percentage designated as modular.
 
 Example: A hundred–ton hull normally costs MCr 2.0. If 30% of the
-ship’s hull is going to be made modular, then the cost of the hull is
+ship's hull is going to be made modular, then the cost of the hull is
 increased to MCr 2.6, 130% of the original cost. This means that 30 tons
-of the ship’s components could easily be swapped out from mission to
+of the ship's components could easily be swapped out from mission to
 mission. When hauling passengers, the ship could install a module with
 six staterooms and six tons of cargo space (totalling 30 tons). When
 going into combat, the ship could install a module with a triple turret
@@ -2531,7 +2531,7 @@ be added in whole armor point values. For example, the minimum
 element which can be added for Titanium Steel is 2.5%, which is a
 single point of armor.
 
-Armor options must be added when the ship’s armor is installed,
+Armor options must be added when the ship's armor is installed,
 and cannot be easily retrofitted.
 
 Heat Shielding: Heat Shielding: Heat shielding protects the ship against the heat
@@ -2541,7 +2541,7 @@ shielding will burn up. If equipped with undamaged heat shielding,
 re–entry is successful on easy (+4) Pilot, 10–60 minutes skill check,
 with failure resulting in burn up (this task is often undertaken more
 slowly). Damage to the ship from proximity to a star in the absence
-of heat shielding are at the referee’s discretion, but should be harsh!
+of heat shielding are at the referee's discretion, but should be harsh!
 Heat shielding does not provide protection against starship combat
 weapons; even fusion weapons. Heat shielding costs MCr 0.1 per
 ton of hull
@@ -2564,7 +2564,7 @@ Bonded Superdense 14 6 per 5% 50% of base hull TL
 
 ###### SSPACECRAFTPACECRAFT O OPTIONSPTIONS SPACECRAFT OPTIONS
 
-Radiation Shielding: Radiation Shielding: Radiation shielding improves the ship’s
+Radiation Shielding: Radiation Shielding: Radiation shielding improves the ship's
 protection against radiation from both natural sources (solar flares,
 pulsars) and artificial (nuclear bombs, meson hits). A ship with
 radiation shielding decreases the amount of rads absorbed by all
@@ -2598,7 +2598,7 @@ they are twice the size and price of a fusion power plant. They are
 available at TL7.
 
 Solar Panel: Solar Panel: Extendible solar panels provide backup power for
-vessel’s power plants. They are sometimes installed in scout or
+vessel's power plants. They are sometimes installed in scout or
 mining ships, giving them greater range and endurance. The size of
 solar panels required to power a ship is 1/10th that of the main power
 plant, to a minimum of 0.5 tons. If the panels are fitted to a ship
@@ -2652,13 +2652,13 @@ other than automated cargo ships and pleasure yachts.
 Reaction Drive: Reaction Drive: The reaction drive takes the same space as a gravitic
 drive, and costs less, but this is offset by the large fuel requirements
 in addition to fuel used for the jump drive and power plant. To
-calculate a ship’s fuel requirements, use the following system:
+calculate a ship's fuel requirements, use the following system:
 
-Fuel Required (as a percentage of the ship’s displacement) = 2.5% x
+Fuel Required (as a percentage of the ship's displacement) = 2.5% x
 Maximum Thrust x hours of Maximum Thrust required.
 
 For example, if a thrust of 4G for two hours is required, then 4 x 2 x
-2.5% = 20% of the ship’s tonnage must be dedicated to fuel.
+2.5% = 20% of the ship's tonnage must be dedicated to fuel.
 
 As space combat turns are 6 minutes long, each hour of fuel gives
 10 turns of operation at maximum thrust. The total reserve of fuel
@@ -2751,20 +2751,20 @@ such a situation as all other systems – including life support
 
 - will fail if this is burned.
 
-Solar Sail: Solar Sail: A deployed solar sail covers an area dozens of kilometres
+Solar Sail: Solar Sail: A deployed solar sail covers an area dozens of kilometers
 across. It is made of a flexible synthetic fabric that has limited self–
-repair capabilities. Particles emitted by the sun – the ‘solar wind’
+repair capabilities. Particles emitted by the sun – the 'solar wind'
 catch the sail and provide a minuscule amount of thrust. A ship
 using a solar sail as its primary method of propulsion has a Thrust of
 0 and requires several days or weeks to change its course or speed.
 A solar sail costs MCr 0.01 per ton of ship, and takes up 5% of the
-ship’s total tonnage when stowed. Obviously, this is ineffective in a
+ship's total tonnage when stowed. Obviously, this is ineffective in a
 combat situation. Jump drive can not be used with a sail deployed.
 
 Jump Drive
 Fast–Cycle Jump: Fast–Cycle Jump: A normal jump drive requires the engine to be
 prepped before jump, and the ship cannot jump again until the
-engine has been prepared and the ship’s batteries have recharged.
+engine has been prepared and the ship's batteries have recharged.
 This procedure takes at least one hour, and usually as many as
 sixteen if all checks are preformed. A fast–cycle drive recharges
 much faster and does not normally require preparation. After a
@@ -2789,10 +2789,10 @@ explosion. At TL14 the use of drop tanks has been improved to such
 a degree that drop tanks designed at this tech level or above will
 automatically survive use.
 
-A ship’s M–Drive rating must be recalculated when carrying a drop
+A ship's M–Drive rating must be recalculated when carrying a drop
 tank. For example, a 200–ton ship with a 150–ton drop tank counts
 as being a 400–ton ship for the purposes of determining its effective
-M–Drive rating. Round the tank’s tonnage up to the nearest hull
+M–Drive rating. Round the tank's tonnage up to the nearest hull
 size. Drop tanks can also be used to store fuel for other purposes,
 such as reaction drive propellant.
 
@@ -2817,12 +2817,12 @@ the drop tank. _For example, a 400 ton ship has a 100 ton drop tank.
 Until the drop tank is destroyed, any fire against the ship has a 20%
 probability of hitting the tank instead of the ship._
 
-Metal Hydride storage:Metal Hydride storage: Instead of storing the ship’s hydrogen
+Metal Hydride storage:Metal Hydride storage: Instead of storing the ship's hydrogen
 in liquid form at extremely low temperature with a high risk of
 explosion if a leak occurs into the inhabited spaces of the ship,
 it is possible to store hydrogen in a more bulky form in a room
 temperature non–flammable metal hydride matrix. Any portion of
-the ship’s fuel tankage may be designated as metal hydride storage.
+the ship's fuel tankage may be designated as metal hydride storage.
 This storage holds 50% less hydrogen fuel than a more normal tank.
 It is available at TL9 and costs MCr0.2 per ton. If the storage is hit
 the following revised damage rules are used:
@@ -2833,11 +2833,11 @@ Third and Subsequent Hits: as per normal fuel hit.
 
 #### BRIDGE
 
-The bridge is the nerve centre of the ship, and vital to onboard
+The bridge is the nerve center of the ship, and vital to onboard
 operations. Old Vilani bridge designs put the captain and other
 
 command staff on a raised balcony or walkway over the workstations;
-the Solomani layout generally puts the captain in the centre. Scout
+the Solomani layout generally puts the captain in the center. Scout
 ship bridges are notoriously cramped and smelly – even more so in
 Belter mining ships where the bridge and living space is sometimes
 combined to maximise cargo capacity – while some groups of free
@@ -2851,7 +2851,7 @@ of fleet actions, enhanced communications and control electronics,
 and space for more command staff. A spacecraft command bridge
 takes up 80 tons, but gives a +1 DM to Tactics (naval tactics) checks.
 A command bridge costs 50% more than a conventional bridge
-of the same size. Capital ship command bridges take up 80 tons
+of the same size. [[Capital]] ship command bridges take up 80 tons
 per section of ship and located in a single location (which may be
 separate from the main bridge).
 
@@ -2895,7 +2895,7 @@ Structure 1 1 1 1
 Thrust 0.1g 0.1g 0.1g 0.1g
 
 Hardened Bridge: Hardened Bridge: A hardened bridge is shielded against radiation
-attacks. The ship’s computer systems are immune to EMP and the
+attacks. The ship's computer systems are immune to EMP and the
 number of rads absorbed by the bridge crew is reduced by 1,000.
 Hardening a bridge adds 25% to the cost of the bridge. If a ship has
 radiation shielding installed, it is assumed to be hardened.
@@ -2905,7 +2905,7 @@ radiation shielding installed, it is assumed to be hardened.
 Holographic Controls: Holographic Controls: This bridge design incorporates advanced
 interactive holographic displays, reconfiguring itself to adapt to
 the current situation. A bridge with holographic controls is always
-optimised, and gives a +2 bonus when rolling for Initiative. A
+optimized, and gives a +2 bonus when rolling for Initiative. A
 holographic bridge adds 25% to the cost of the bridge.
 
 #### SENSORS
@@ -2913,7 +2913,7 @@ holographic bridge adds 25% to the cost of the bridge.
 Upgraded sensor suites are common on larger vessels.
 
 Survey Sensors: Survey Sensors: Survey sensors integrate a suite of probe drones and
-deployable satellites into the sensor system, and are optimised for
+deployable satellites into the sensor system, and are optimized for
 scanning large areas at great speed. Survey sensors are equivalent
 to Advanced Sensors, but reduce the time taken to scan a planetary
 surface by one step.
@@ -2973,9 +2973,9 @@ may not use its maneuver or jump drive.
 External components are mounted on the exterior of the hull of a
 spacecraft.
 
-Aerofins: Aerofins: Extendible aerofins improve a spacecraft’s manoeuvrability
+Aerofins: Aerofins: Extendible aerofins improve a spacecraft's manoeuvrability
 in atmosphere only, giving a +2 DM to all Piloting checks made in
-an atmosphere. Aerofins take up 5% of the ship’s tonnage, and cost
+an atmosphere. Aerofins take up 5% of the ship's tonnage, and cost
 MCr0.1 per ton. The DMs for atmospheric operations (see page 137
 core rulebook) still apply.
 
@@ -3010,7 +3010,7 @@ made (see core rulebook p149).
 
 Docking Clamp: Docking Clamp: A docking clamp allows a spacecraft to carry a
 small craft or other vessel on the outside of the hull. Recalculate the
-ship’s Thrust Number by adding the tonnage of the spacecraft and
+ship's Thrust Number by adding the tonnage of the spacecraft and
 the docked craft together, round up to the nearest hull size, then
 compare that to the thrust by drive volume table. If performance is
 
@@ -3041,7 +3041,7 @@ Clamp TonnageClamp Tonnage Attached Ship MaximumAttached Ship Maximum CostCost
 Grappling Arm: Grappling Arm: A grappling arm is a remote–control device for
 picking up or manipulating objects in space. The arm is a flexible
 tentacle of thousands of telescoping segments, capable of reaching
-out up to 250 metres. The arm ends in a set of cameras and grippers
+out up to 250 meters. The arm ends in a set of cameras and grippers
 of varying sizes, from large claws to tiny micro–manipulators. It also
 carries a toolkit which can be customised for a particular task.
 
@@ -3055,7 +3055,7 @@ as safety and security features.
 Armory: Armory: Ships carrying a large number of marines or soldiers can
 benefit from an armory, a specialized weapons store. An armory
 can only be accessed by those with the correct codes (usually the
-ship’s senior officers and security team) and contains a wide variety
+ship's senior officers and security team) and contains a wide variety
 of weapons. In game terms, an armory has enough snub pistols
 for the crew, enough accelerator or gauss rifles for any marines, and
 a selection of other military equipment like grenades, combat drug
@@ -3064,7 +3064,7 @@ armory for a spacecraft costs MCr 0.5 and takes up two 2 tons of
 space.
 
 Where military vessels are concerned, the number of armories
-built into the ship’s design is based on crew size. One armory is
+built into the ship's design is based on crew size. One armory is
 installed for either every 50 crew members, or every 10 marines,
 in order to provide adequate storage for equipment, weapons and
 ammunition.
@@ -3074,13 +3074,13 @@ cruisers and other adventuring ships, where teams can discuss
 plans or meet with clients privately. A briefing room gives a +1 DM
 to Tactics (military tactics) checks made when planning missions
 on board ship. Ships with command bridges and fighter squadrons
-require additional briefing rooms and facilities. Capital ships must
+require additional briefing rooms and facilities. [[Capital]] ships must
 therefore have one briefing room per ship section, and one briefing
 room for every 20 fighter or bomber crew.
 
 Hangar: Hangar: Normally, when a small craft is included in the design of a
 larger one, it is installed into a form–fitting enclosure in the hull of
-the mother vessel. The scout’s air/raft, for example, is carried in a
+the mother vessel. The scout's air/raft, for example, is carried in a
 small compartment in the forward section, with barely enough room
 for passengers to scramble on board. Most repairs and maintenance
 require the air/raft to be launched first.
@@ -3230,7 +3230,7 @@ The following amendments are made to the core rule book:
     page 147 halved (rounded up). However, missiles have limited
     endurance of 60 minutes (10 turns) before they run out of fuel.
 - Sandcaster munitions can be constructed with at TL5 allowing
-    low tech worlds to supply some of a navy’s munitions.
+    low tech worlds to supply some of a navy's munitions.
 - Meson screens reduce radiation damage from meson guns and
     meson flicker weapons. Radiation hits from these weapons
     suffer a –DM equal to twice the active number of screens
@@ -3241,7 +3241,7 @@ The following amendments are made to the core rule book:
 
 Advanced Rules for Weapon Bays on Non–
 
-Capital Ships
+[[Capital]] Ships
 
 - Standard spacecraft and small craft can always carry one bay
     but the maximum number is limited by displacement/1000,
@@ -3363,7 +3363,7 @@ each successful hit. The 100 ton version of the railgun bay is as the
 
 Ortillery Railgun: Ortillery Railgun: This variation on the standard 50 ton railgun bay
 is also known as a mass driver. It fires larger projectiles at slower
-speeds that are optimised for smashing planetary targets. The bay
+speeds that are optimized for smashing planetary targets. The bay
 includes space for 10 shots of ammunition. A single hit from an
 
 Torpedo Types:
@@ -3413,7 +3413,7 @@ takes up five tons of space.
 Meson Weapons
 Meson Flicker: Meson Flicker: A meson flicker 50 and 100 ton bay weapons work
 like a meson gun, but fires multiple pulses instead of a single meson
-blast. The meson flicker’s weaker pulses do no structural damage
+blast. The meson flicker's weaker pulses do no structural damage
 but inflict considerable radiation hits to the crew.
 
 Point Defence
@@ -3464,7 +3464,7 @@ group of 2, enabling a flicker rate of 20% to be maintained._
 
 Black Globe Generator
 Black Globe generators project an energy–absorbing barrier which
-shunts any energy that impinges upon it into the ship’s on–
+shunts any energy that impinges upon it into the ship's on–
 
 board capacitors. Any ship using a Black Globe generator cannot
 maneuver, dodge, jump or use weapons or sensors whilst the
@@ -3566,14 +3566,14 @@ Particle Beam Barbette Long 4 + 1 radiation hit
 50 ton Meson Flicker Long 1d6 + 2 radiation hits
 100 ton Meson Flicker Long 2d6+1 radiation hits
 
-A ship’s ability to use its maneuver drive is also affected by the
+A ship's ability to use its maneuver drive is also affected by the
 use of the black globe. Reduce the maximum thrust available by
 the flicker rating (round to nearest whole number, with 0.5 rounded
 down). For example a ship has a maximum thrust of 4. It is operating
 a black globe at a flicker rate of 20%. Maximum thrust is reduced by
 4 x 0.2 = 0.8, rounded to 1. Maximum thrust is now 3.
 
-As the energy striking the Black Globe is channelled to the ship’s
+As the energy striking the Black Globe is channelled to the ship's
 capacitors, the ship must have sufficient capacitor capacity to
 
 ###### SSPACECRAFTPACECRAFT O OPTIONSPTIONS SPACECRAFT OPTIONS
@@ -3611,10 +3611,10 @@ Railgun 4 per weapon
 100 ton Railgun 30 per bay
 Spinal Mount 10 x mount damage
 
-If a Black Globe absorbs energy and the ship’s capacitors are
+If a Black Globe absorbs energy and the ship's capacitors are
 full, then the ship explodes. It is therefore paramount that energy
 be discharged regularly to avoid catastrophe. This can be done
-by channelling the energy into the ship’s own, internal energy
+by channelling the energy into the ship's own, internal energy
 requirements. However, the Black Globe must be switched off, and
 during a combat round the ship can only discharge energy equal to
 (0.01 x ship tonnage x power plant rating) points of energy, minus
@@ -3650,7 +3650,7 @@ or warships built by primitive species.
 
 Most technologies are developed one or more technology levels
 before they become common, and are refined for one or more
-technology levels after before they are abandoned in favour of
+technology levels after before they are abandoned in favor of
 the next step in design. For example, the standard Pulse laser is
 developed at TL7. Primitive prototypes become available at TL6,
 while the design is refined until TL8 or even later, at which time
@@ -3737,7 +3737,7 @@ example, a TL10 Particle Bay could contain two upgrades, or have
 its tonnage decreased to 90%, or contain one upgrade and have its
 tonnage decreased to 95%.
 
-Some upgrades are double upgrades, consuming two ‘slots’. An
+Some upgrades are double upgrades, consuming two 'slots'. An
 upgrade may only be taken once.
 
 Accurate (Double Upgrade): Accurate (Double Upgrade): Accurate weapons have a +1 DM to all
@@ -3749,9 +3749,9 @@ Easy to Repair: Easy to Repair: Easy to Repair armaments give a +1 DM to all rep
 attempts in spacecraft and capital ship combat.
 
 High Yield: High Yield: When rolling damage for a High Yield weapon or
-performance of a high yield screen, any ‘1’s rolled on the dice are
-counted as ‘2’s. For example, a roll of 1, 1, 2 on a High Yield Particle
-Beam attack would deal 6 damage, as the two ‘1’s become two ‘2’s.
+performance of a high yield screen, any '1's rolled on the dice are
+counted as '2's. For example, a roll of 1, 1, 2 on a High Yield Particle
+Beam attack would deal 6 damage, as the two '1's become two '2's.
 In capital ship combat, if all the weapons firing in the barrage have
 high yield, a +1 DM is used on the attack roll. High yield screens
 have no effect in capital ship combat
@@ -3772,10 +3772,10 @@ Range Pulse Laser has an Optimum Range of Close–Medium (not
 applicable to screens)
 
 Very High Yield (Double Upgrade): Very High Yield (Double Upgrade): When rolling damage for a Very
-High Yield weapon, any ‘1’s or ‘2’s rolled on the dice are counted as
-‘3’s. For example, a roll of 1, 1, 2 on a Very High Yield Particle Beam
+High Yield weapon, any '1's or '2's rolled on the dice are counted as
+'3's. For example, a roll of 1, 1, 2 on a Very High Yield Particle Beam
 attack would deal 9 damage, as all the dice are below the threshold
-and become ‘3’s. In capital ship combat, if all the weapons firing in
+and become '3's. In capital ship combat, if all the weapons firing in
 the barrage have high yield, a +2 DM is used on the attack roll. Very
 high yield screens have no effect in capital ship combat
 
@@ -3943,10 +3943,10 @@ metallurgy. This is defined by the following table:
 
 Definitions
 A small craft is any ship from 10 to 99 tons. Small craft cannot
-use jump engines. Ships are measured in ‘displacement tons’
+use jump engines. Ships are measured in 'displacement tons'
 or d–tons: a hundred–ton ship displaces a volume equal to one
 hundred tons of liquid hydrogen (one d–ton equals roughly 14
-cubic metres).
+cubic meters).
 
 A fighter is a small, short–ranged fast combat vessel, normally
 displacing less than fifty tons.
@@ -3965,7 +3965,7 @@ from orbit to surface.
     a. Choose Hull configuration
     b. Optionally, install armor.
 2. Decide what the maximum acceleration for the ship should
-    be, and cross–reference it with the ship’s tonnage on the
+    be, and cross–reference it with the ship's tonnage on the
     Performance by Hull Volume to determine the Maneuver
     Drive required.
 3. Choose a Power Plant, ensuring that it can provide enough
@@ -3989,7 +3989,7 @@ Bonded Superdense 14 6 per 5%^1 50% of base hull TL
 Armor does not need to be added in 5% elements, but it must be
 added in whole armor point values. _For example, the minimum element
 which can be added for Titanium Steel is 2.5%, which is a single point of
-armor._ ’
+armor._ '
 Options
 Small craft may have any of the Hull options from the list of those
 allowed to spacecraft.
@@ -4015,13 +4015,13 @@ with a Gravitic or Reaction M–Drive or a solar sail
 - A Reaction drive is a rocket. Reaction drives are cheaper and
     smaller than Gravitic Drives, but burn fuel much more quickly and
     are less efficient.
-- A Solar Sail is large, up to several kilometres across, made of a
+- A Solar Sail is large, up to several kilometers across, made of a
     flex flexible synthetic fabric that has limited self–repair capabilities.
-    Particles emitted by the sun – the ‘solar wind’ catch the sail and
+    Particles emitted by the sun – the 'solar wind' catch the sail and
     provide a minuscule amount of thrust. A ship using a solar sail as
     its primary method of propulsion has a Thrust of 0 and requires
     several days or weeks to change its course or speed. A solar sail
-    costs 0.01 MCr per ton of ship, and takes up 5% of the ship’s total
+    costs 0.01 MCr per ton of ship, and takes up 5% of the ship's total
     tonnage when stowed.
 
 Power
@@ -4236,7 +4236,7 @@ Drones
 It is possible to equip small craft as drones. At lower technology levels this is little more than making the craft remote control. However,
 at higher technology levels it is possible to provide the drone with a true autonomous capability. Such autonomous craft are typically not
 as skilled as their flesh and blood equivalents but they do provide navies with limited numbers of trained personnel, or crew prone to
-claustrophobia (such as the K’Kree), with the option of deploying combat small craft. Remote operation mode is sensitive to electronic
+claustrophobia (such as the K'Kree), with the option of deploying combat small craft. Remote operation mode is sensitive to electronic
 warfare and if within short range of a vessel, that vessel may use electronic warfare (see Core Rulebook page 150) as if the drone was a
 smart missile to temporarily jam transmission between the mother ship and the drone.
 
@@ -4248,7 +4248,7 @@ TLTL FunctionalityFunctionality CostCost
 12 Autonomous Mode (non–combat only) or Remote Operation MCr 5
 13 Autonomous Mode with Characteristic 7, skill level 2 or Remote Operation MCr 10
 
-A small craft drone operating in autonomous mode is effectively a robot with a range of specialist intellect and expert programmes (see
+A small craft drone operating in autonomous mode is effectively a robot with a range of specialist intellect and expert programs (see
 Core Rule Book pages 92–94). The characteristics and skills of an autonomous mode drone depend on its tech level, noting that all skills
 requiring physical characteristics used Intelligence instead.
 
@@ -4359,7 +4359,7 @@ energy weapons.
 
 #### THE HULL
 
-Capital ships range between 2,001 and 1,000,000 tons, and are
+[[Capital]] ships range between 2,001 and 1,000,000 tons, and are
 designated by Hull Code. A Hull Code includes all hull values
 between it and the next lowest hull code (so a 28,000 ton ship will
 have a Hull Code of CK).
@@ -4383,8 +4383,8 @@ the Hull Configuration.
 
 Configuration
 A capital ship may have any of several configurations. Unlike
-a smaller vessel, the configuration of a capital ship’s hull is very
-important, as it determines what proportion of a ship’s weapons
+a smaller vessel, the configuration of a capital ship's hull is very
+important, as it determines what proportion of a ship's weapons
 can be brought to bear on a target in any round and what weapons
 are permitted.
 
@@ -4509,7 +4509,7 @@ Hulls vary in their requirements for drives and power plants based
 on tonnage. Any specific drive will be less efficient as the tonnage it
 must drive increases. To determine the tonnage of the drive required,
 consult the drive potential table, which gives the percentage of the
-ship’s total tonnage that must be allocated to the drive to give the
+ship's total tonnage that must be allocated to the drive to give the
 designed Thrust or Jump.
 
 DRIVE POTENTIAL TABLE
@@ -4705,16 +4705,16 @@ a jump drive that can travel the equivalent distance.
 
 Component Options
 Unless otherwise noted, any options that are allowed for smaller
-craft can be applied to Capital Ship components. For example,
+craft can be applied to [[Capital]] Ship components. For example,
 a capital ship computer network can be hardened against EMP
 (see Traveller, page 108) at the cost of 50% of the computer
-network’s base cost.
+network's base cost.
 
 #### THE MAIN COMPARTMENT ARMAMENTS
 
-Capital ships can carry the same weapons as smaller craft, but in
+[[Capital]] ships can carry the same weapons as smaller craft, but in
 far greater numbers. Even a small capital ship can have dozens of
-turrets and bays. Capital ships can also mount weapons that are
+turrets and bays. [[Capital]] ships can also mount weapons that are
 unique to them, such as spinal weapons.
 
 Because of the sheer number of weapons mounted on a capital ship,
@@ -4730,8 +4730,8 @@ control equipment is required for each turret.
 
 Bays
 The number of bays that a capital ship can mount is limited by the
-ship’s power plant (see above), and by the number of hardpoints.
-The total number of turrets and bays cannot exceed the ship’s
+ship's power plant (see above), and by the number of hardpoints.
+The total number of turrets and bays cannot exceed the ship's
 tonnage divided by one hundred. One ton of fire control equipment
 is required for each bay.
 
@@ -4782,14 +4782,14 @@ CW to CZ 60 70 90 110 30 300
 
 Command
 A ship requires one command module per section. Each command
-module takes up 0.5% of the ship’s total tonnage and costs MCr.1
+module takes up 0.5% of the ship's total tonnage and costs MCr.1
 per ton of command module/bridge. One of these command
-modules must be designated the ship’s bridge, but they can all use
+modules must be designated the ship's bridge, but they can all use
 any specialist bridge options.
 
 Computer
-Capital ships have multiple distributed computer networks, but
-always include a central computer core that controls the ship’s
+[[Capital]] ships have multiple distributed computer networks, but
+always include a central computer core that controls the ship's
 Jump engines. The rating of this central core depends on the Jump
 range and the size of the ship. Computers are assumed to have their
 tonnage included in the command modules of a ship.
@@ -4837,13 +4837,13 @@ tons
 
 6 Core/9 15 100 130 Mcr
 
-The rating for the ship’s computer system is in addition to the
+The rating for the ship's computer system is in addition to the
 processing power and speed needed for Jump Control programs,
 and all jump control software is included in the price of the computer
 system. Other ship software must be added to this.
 
 Sensors
-Capital ships use standard sensors. However, due to the size of these
+[[Capital]] ships use standard sensors. However, due to the size of these
 vessels, it is possible to mount multiple extended or distributed
 arrays with up to one per section fitted.
 
@@ -5008,7 +5008,7 @@ provide basic services, including shops and storage, security
 service, and other operations. Such personnel are drawn from the
 crew branch if no other appears appropriate. Allow 3 per 1000 tons
 if there are no ship's troops. This can be reduced to as low as 2 crew
-per 1000 tons of ship by replacing service crew with ship’s troops.
+per 1000 tons of ship by replacing service crew with ship's troops.
 
 The Frozen Watch
 A ship may have low berths installed (and competent medical
@@ -5039,7 +5039,7 @@ mechanic per craft
 
 ½ Stateroom
 
-Ship’s Troops Varies ½ Stateroom
+Ship's Troops Varies ½ Stateroom
 Service 2/3 per 1000 tons ½ Stateroom
 Frozen Watch Varies Low Berth
 
@@ -5063,7 +5063,7 @@ MCr 0.05 each.
 
 #### SECTION HIT TABLES
 
-Once all components have been selected for the ship, the ship’s details must be record and its Section Hit Tables must be laid out.
+Once all components have been selected for the ship, the ship's details must be record and its Section Hit Tables must be laid out.
 
 Engineering Engineering ForwardForward OtherOther
 Roll 2d6Roll 2d6 External External Internal Internal External External Internal Internal External External Internal Internal
@@ -5084,9 +5084,9 @@ Component Type table.
 
 If there are excess Type A components, then the excess can be placed in unoccupied Type B slots.
 
-If there aren’t enough Type B slots, use unoccupied Type C slots.
+If there aren't enough Type B slots, use unoccupied Type C slots.
 
-Sometimes, not all of a ship’s components can be placed on the Section Hit Tables; if so, place the largest tonnage components first.
+Sometimes, not all of a ship's components can be placed on the Section Hit Tables; if so, place the largest tonnage components first.
 
 If there are still unfilled slots when all components have been placed, then unfilled internal slots are filled with Structure and unfilled
 external slots are filled with Hull.
@@ -5118,10 +5118,10 @@ Command
 
 (^1) If the ship mounts multiple types of this weapon (such as laser turrets and particle turrets), they should be counted separately.
 (^2) If the ship mounts multiple types of this component (such as fighters and shuttles), they should be counted separately.
-(^3) The engineering section normally contains all the ship’s drives, but if any drive exceeds 10% of the ship’s tonnage, it should be placed in
+(^3) The engineering section normally contains all the ship's drives, but if any drive exceeds 10% of the ship's tonnage, it should be placed in
 one extra section per extra 10%.
 (^4) If a ship has a spinal weapon, then it must be placed in the Internal Section Hit tables for every section apart from Engineering.
-(^5) If a component such as laboratories or docking clamps exceeds 1% of the ship’s tonnage, it should be placed on the Section Hit table.
+(^5) If a component such as laboratories or docking clamps exceeds 1% of the ship's tonnage, it should be placed on the Section Hit table.
 All weapons, sensors, small craft, launch tubes, hangars, computers, screens, command sections and any other component that has a role
 in ship to ship combat must be put in at least one slot.
 
@@ -5291,7 +5291,7 @@ Fuel Processor 843.75 42.1875
 Running Total (24,256.25) 35,223.1875
 
 Step 4 – Command
-As a 4 section ship, Julia’s ship required a bridge that takes up (4
+As a 4 section ship, Julia's ship required a bridge that takes up (4
 x 0.5) 2% of the ship, which is 1,500 tons and costs (1,500 x MCr1)
 MCr1,500. As a possible flag ship, Julia adds a command bridge
 which is (4 x 80) 320 tons and costs MCr2,250. She adds holographic
@@ -5309,7 +5309,7 @@ Armored Bulkheads 182 36.4
 Running Total (22,254.25) 39,947.0875
 
 Julia works out the command crew now. As a ship of over 20,000
-tons with an over strength crew, the cruiser’s command crew is
+tons with an over strength crew, the cruiser's command crew is
 (75,000/10,000 x 5 x 1.21) 46.
 
 ###### CAPITAL SHIP DESIGN CCAPITALAPITAL S SHIPHIP D DESIGNESIGN
@@ -5504,7 +5504,7 @@ Total cost is MCr 55,535.7075. Life support costs are (632 x 3,000)
 MCr1.896 per month. Maintenance costs are (55,508.7075/12 x 0.001)
 MCr4.6257 per month.
 
-Julia now lays out the section hit table and fully writes up the ship’s
+Julia now lays out the section hit table and fully writes up the ship's
 details, which can be found on page 119.
 
 ###### CAPITAL SHIP DESIGN
@@ -5517,12 +5517,12 @@ inflicted by beam weapons and introducing latency into firing solutions
 and control of missiles and torpedoes.
 
 To hit a target with a missile, Roll for Accuracy using Gunner (Turret)
-or Gunner (Capital Weapons), as appropriate, modified by the Weapon
+or Gunner ([[Capital]] Weapons), as appropriate, modified by the Weapon
 ranges table, below.
 
 Next, consult the Missile To Hit table below to find the target number
 that the Gunner must make, on 2D, using either Gunner (Turret) or
-Gunner (Capital Weapons), for the missile to strike its target.
+Gunner ([[Capital]] Weapons), for the missile to strike its target.
 
 Gunnery Accuracy Gunnery Accuracy
 CheckCheck
@@ -5562,7 +5562,7 @@ additional –1 DM if shooting at close or adjacent range.
 
 #### CAPITAL SHIPS & INITIATIVE
 
-The basic Traveller space combat rules call for a ship’s captain to roll
+The basic Traveller space combat rules call for a ship's captain to roll
 2d6 for Initiative, with the faster vessel gaining a +1 DM. Actions and
 damage take place in order of Initiative.
 
@@ -5570,7 +5570,7 @@ For capital ships, Initiative works differently.
 
 ## EEXPANDEDXPANDED S SPACEPACE C COMBATOMBAT
 
-Rolling for Initiative: Rolling for Initiative: Capital ships roll only 1d6 for Initiative, but add
+Rolling for Initiative: Rolling for Initiative: [[Capital]] ships roll only 1d6 for Initiative, but add
 their Crew Skill to their total Initiative. The fleet commander may also
 make a Tactics (Naval) Check and add the effect to the fleet. Optionally,
 a chained roll (see Traveller core rulebook page 51) can be made by the
@@ -5645,7 +5645,7 @@ a single target. The size of a barrage aimed at that target is therefore
 capped by this percentage.
 
 Barrage Attacks
-A barrage does not ‘hit’ or ‘miss’ as a whole. Even an inaccurate
+A barrage does not 'hit' or 'miss' as a whole. Even an inaccurate
 barrage will usually score one or two minor hits. Instead, the more
 accurate the barrage is, the more damage it deals. An attack with
 a barrage roll is made by rolling two dice and with dice modifiers
@@ -5658,7 +5658,7 @@ capital ship combat.
 
 _For example, the Bucephalus launches a flight of two hundred nuclear
 missiles at long range at the Victory. Each nuclear missile deals 2d6
-damage, so it’s a 200–Nuclear Missile–Long–2 Barrage. The crew of
+damage, so it's a 200–Nuclear Missile–Long–2 Barrage. The crew of
 the Bucephalus have a skill rating of 3 and operating fire control/4. The
 Victory reacts to the fire by dodging, with the crew passing the check.
 The total modifiers for this barrage (so far) are range (+0), dodging (–
@@ -5761,7 +5761,7 @@ The total defensive DM is then 2 (armor) +4 (screens) +1 (lasers) +0
 (sandcasters) = 7. Hence the net barrage score is 12–7=5.
 
 Splitting Barrages
-Not all of a ship’s weapons of a particular type need be aimed at a
+Not all of a ship's weapons of a particular type need be aimed at a
 single target. A ship with 100 laser turrets and thirty fusion bays,
 for instance, can fire fifty laser turrets and thirty fusion guns at
 one target, 25 lasers at another target, and 25 at a third. It may not,
@@ -5776,12 +5776,12 @@ table, using the net dice score. Barrage damage is rounded down.
 
 On small craft or spacecraft, multiply the final barrage total by 3 to
 determine the actual amount of damage inflicted by the attack. If the
-barrage total is greater than the ship’s remaining Hull + Structure,
+barrage total is greater than the ship's remaining Hull + Structure,
 assume that the ship is annihilated by the attack instead of working
 out each individual hit.
 
 On capital ships, barrage damage works slightly differently. See
-Capital Ship Damage, below.
+[[Capital]] Ship Damage, below.
 
 For example, the Bucephalus has launched a flight of two hundred
 nuclear missiles at the Victory with a net score of 5.
@@ -5806,11 +5806,11 @@ is 500,000 tons (DM–0). Net DM is –6+5+3–2=0. Implacable will hit
 on a raw dice score of 8+.
 
 Before they can damage their target, Meson Guns must penetrate
-the target’s meson screen and ensure that it decays within the
+the target's meson screen and ensure that it decays within the
 ship. Compare the penetration rating of the meson gun with the
 configuration of the ship and the number of screen points being
 generated (2 or screen or 3 if the screens to full action is being used)
-and roll the number indicated or more on 2d6 to penetrate the ship’s
+and roll the number indicated or more on 2d6 to penetrate the ship's
 defences.
 
 BARRAGE DAMAGE
@@ -6027,11 +6027,11 @@ RollRoll CA to CECA to CE CF to CKCF to CK CL to CQCL to CQ CR to CVCR to CV CW 
 ###### SSPACEPACE C COMBATOMBAT SPACE COMBAT
 
 Power Plant:Power Plant:
-First Hit: First Hit: Damage to a Power Plant reduces a capital ship’s ability
-to employ its energy weapons or engines. Reduce the ship’s Power
+First Hit: First Hit: Damage to a Power Plant reduces a capital ship's ability
+to employ its energy weapons or engines. Reduce the ship's Power
 Number by 1, which may also reduce its ability to employ weapons
 and its Thrust or Jump.
-Second Hit: Second Hit: Decrease the ship’s Power Number by 2.
+Second Hit: Second Hit: Decrease the ship's Power Number by 2.
 Third Hit: Third Hit: Power plant is disabled, disabling the entire ship.
 
 Fuel: Fuel: 1d6x5% of fuel reserves are lost. Halve this value if metal
@@ -6054,7 +6054,7 @@ Bridge:Bridge:
 First Hit: First Hit: A bridge hit prevents the ship from manoeuvring or
 jumping next round.
 Second Hit: Second Hit: The bridge is destroyed. Command automatically
-transfers to another section, but the ship’s Initiative is halved.
+transfers to another section, but the ship's Initiative is halved.
 
 Crew: Crew: A crew hit reduces the Crew Strength by one step.
 
@@ -6133,7 +6133,7 @@ First Hit: First Hit: The first hit on a Jump drive gives –1d6DM to all Jump
 attempts until repaired.
 Second Hit: Second Hit: The jump drive is disabled.
 
-Maneuver Drive: Maneuver Drive: Each hit on a Maneuver drive reduces the ship’s
+Maneuver Drive: Maneuver Drive: Each hit on a Maneuver drive reduces the ship's
 Thrust by 1 until repaired.
 
 ###### SPACE COMBAT SSPACEPACE C COMBATOMBAT
@@ -6180,9 +6180,9 @@ also spent on the spinal weapon, and this time they are able to repair
 the damage.
 
 Crew Hits
-Each crew hit reduces the ship’s crew by one step – from Full to
+Each crew hit reduces the ship's crew by one step – from Full to
 Weakened, Weakened to Half, Half to Skeleton and so on. Reduced
-crews affect a ship’s ability to fight.
+crews affect a ship's ability to fight.
 
 Crew StrengthCrew Strength Skill DMSkill DM
 Dead – Cannot act
@@ -6262,10 +6262,10 @@ gunners, so despite the damage only 60 fighters are destroyed.
 
 This section presents a set of optional rules for space combat, where
 the commander of a space vessel can issue one or more orders to
-his crew each round. Each order temporarily reduces the ship’s
+his crew each round. Each order temporarily reduces the ship's
 Initiative by a certain amount, which also reduces the number of
 reactions the ship can take. A commander may issue any number of
-orders, as long as the orders do not bring the ship’s Initiative below
+orders, as long as the orders do not bring the ship's Initiative below
 
 0. Each order can only be issued once per round unless otherwise
 noted.
@@ -6316,7 +6316,7 @@ All Hands...Fire At Will!
 Initiative Cost: 8
 Type: Combat
 Requirements: None
-All the ship’s energy barrage attacks are made as a single action
+All the ship's energy barrage attacks are made as a single action
 this round.
 
 Angle for Maximum Effect
@@ -6368,7 +6368,7 @@ Initiative Cost: 4
 Type: Combat
 Requirements: None
 Choose a friendly ship within Close range. Attacks on that ship may
-be intercepted by the active ship’s sandcasters, screens and other
+be intercepted by the active ship's sandcasters, screens and other
 defensive weapons.
 
 Evasive Action*
@@ -6401,7 +6401,7 @@ _Focused Fire
 Initiative Cost: 6
 Type: Combat
 Requirements: None_
-The crew focus the ship’s guns on a single target. The ship may
+The crew focus the ship's guns on a single target. The ship may
 only fire at one target this round, but all attacks on that target gain
 a +1DM.
 
@@ -6487,14 +6487,14 @@ Screens to Full!
 Initiative Cost: 4
 Type: Special
 Requirements: None
-Full power is allocated to the ship’s screens. Screens now provide
+Full power is allocated to the ship's screens. Screens now provide
 three points of protection per screen instead of two.
 
 Target That Section*
 Initiative Cost: 4
 Type: Special
 Requirements: Crew Skill 1+
-One of the ship’s attacks this round targets a specific section of the
+One of the ship's attacks this round targets a specific section of the
 enemy vessel.
 
 #### ALTERNATIVE MOVEMENT
@@ -6506,7 +6506,7 @@ and referees the opportunity to give their ship handling and naval
 tactics skills a real workout!
 
 Timescale: As per current rules
-Scale: 1 unit per 1,250 km (typically 1 unit is a centimetre or
+Scale: 1 unit per 1,250 km (typically 1 unit is a centimeter or
 an inch)
 Ranges: Close to Short: 1 unit
 Medium: up to 8 units
@@ -6563,7 +6563,7 @@ its current vector without any thrust changes.
 Step 2 Move ship based on current vector. The ship is moved to the position occupied by the marker. The starting position is identified
 with a marker.
 
-Step 3 Apply change in vector. Thrust is then applied to ship in any direction within the limits of the vessel’s maneuver drive rating.
+Step 3 Apply change in vector. Thrust is then applied to ship in any direction within the limits of the vessel's maneuver drive rating.
 
 ###### SPACE COMBAT SSPACEPACE C COMBATOMBAT
 
@@ -6582,7 +6582,7 @@ be measured.
 Step 5 Determine future position. A marker showing the future position is then placed in exactly the same direction and distance
 measured at step 4.
 
-Craft launching start with the base vector of their parent ship and need to match their parent ship’s vector to land.
+Craft launching start with the base vector of their parent ship and need to match their parent ship's vector to land.
 
 ###### SSPACEPACE C COMBATOMBAT
 
@@ -6591,13 +6591,13 @@ Craft launching start with the base vector of their parent ship and need to matc
 Small Gas Giant
 
 Move end position 1 unit
-towards centre of gravity
+towards center of gravity
 
 Effect of Gravity
 When fighting in the presence of a significant gravity field that field
 acts as an additional “thrust” on the craft fighting within it. For
 combat purposes only gravity fields of 1G or more significantly above
-the planet’s surface are considered significant and hence only fields
+the planet's surface are considered significant and hence only fields
 around gas giants are considered. If a ship contacts the surface of
 a planet at a speed of more than 1 unit per turn it is assumed to be
 destroyed (either burnt up or crashed).
@@ -6614,7 +6614,7 @@ body, it attracts thrust as shown below as an additional change in
 vector at Step 3 above.
 
 Non–Movement Activities
-Ignore the missile and torpedo ‘turns to impact’ table (see Traveller
+Ignore the missile and torpedo 'turns to impact' table (see Traveller
 core rulebook page 147). Sandcaster fire is assumed to disperse
 in the turn it is fired and is not recorded. Missiles do not make a
 chained task roll for accuracy, but include the range DM from the
@@ -6626,7 +6626,7 @@ current rules.
 
 Every industrial world produces several different models of shuttle and air/raft, so across the Imperium as a whole there are literally
 thousands of small craft variants. The most popular are produced and used by the megacorporations, but experienced spacefarers learn to
-cope with the quirks of unusual local craft. When you have flown through an enemy blockade in a craft that’s more bailing wire and untested
+cope with the quirks of unusual local craft. When you have flown through an enemy blockade in a craft that's more bailing wire and untested
 telekinesis, you can truly call yourself a traveller.
 
 #### CIVILIAN CRAFT
@@ -6663,14 +6663,14 @@ Total Tonnage & CostTotal Tonnage & Cost 20 13.569
 
 ## SSMALLMALL C CRAFTRAFT
 
-Ship’s Boat
-This common ship’s boat is a fast and flexible small craft, which can be used as a fuel skimmer or transport. Common variants install more
+Ship's Boat
+This common ship's boat is a fast and flexible small craft, which can be used as a fuel skimmer or transport. Common variants install more
 passenger space instead of cargo, or mount anti–personnel weapons on the outer hull. This is a standard design for which the 10% discount
 applies (see Core Rule Book page 114).
 
 ###### SSMALLMALL C CRAFTRAFT SMALL CRAFT
 
-Ship’s BoatShip’s Boat TonsTons Price (MCr)Price (MCr)
+Ship's BoatShip's Boat TonsTons Price (MCr)Price (MCr)
 HullHull 30 Tons Hull 0 1.43
 Streamlined Structure 1
 Options
@@ -6691,7 +6691,7 @@ Library/0
 Total Tonnage & CostTotal Tonnage & Cost 30 17.829
 
 Pinnace
-The standard pinnace design has a spacious cabin and is considerably more comfortable than the ship’s boat for extended operations.
+The standard pinnace design has a spacious cabin and is considerably more comfortable than the ship's boat for extended operations.
 It also has a larger six–person passenger section ahead of the cargo bay. Some models incorporate fold–out aerofins for enhanced
 manoeuvrability. This is a standard design for which the 10% discount applies (see Core Rule Book page 114).
 
@@ -6725,7 +6725,7 @@ Total Tonnage & CostTotal Tonnage & Cost 40 20.111
 Modular Cutter
 The fifty–ton modular cutter is capable of good speed within a
 short–range operational capacity and has a crew of two. Its main
-feature is the 30 ton ‘module bay’ that allows the cutter to be quickly
+feature is the 30 ton 'module bay' that allows the cutter to be quickly
 and easily reconfigured for different missions. Changing the module
 is an Easy (+4 DM) Intelligence– based Engineer (any) or Mechanic
 check, with no non–proficiency penalty. It normally takes 1–6 hours
@@ -6972,7 +6972,7 @@ Total Tonnage & CostTotal Tonnage & Cost 69.3 89.25
 
 Multipurpose Fighter
 Multi–purpose fighters are twenty–ton combat craft that are jack of
-all trades and master of none. With nine g’s of thrust, they are not
+all trades and master of none. With nine g's of thrust, they are not
 as fast as higher–performance interceptors, They have a modular
 weapon bay that can take a missile launcher and its ammunition, a
 laser or a particle beam, allowing them, if given sufficient foresight,
@@ -7048,7 +7048,7 @@ Total Tonnage & CostTotal Tonnage & Cost 58.95 66.49
 Torpedo Boat
 The forty–ton torpedo boat is built to pummel enemy craft into
 submission. It has two torpedoes, usually a mix of nuclear and
-bomb–pumped lasers depending on the enemy’s defences. A
+bomb–pumped lasers depending on the enemy's defences. A
 
 torpedo boat does not have any active defences and is dependent on
 escorting fighters whilst waiting for an opening in the fighter screen
@@ -7084,7 +7084,7 @@ Antique Shuttle (TL 7)
 Often, the systems using these shuttles cannot build jump engines,
 so bringing satellites and station parts to orbit is the primary purpose
 of these squat cylindrical shuttles. External drop tanks are used to
-carry the bulk of the shuttle’s fuel.
+carry the bulk of the shuttle's fuel.
 
 Antique ShuttleAntique Shuttle TonsTons Price (MCr)Price (MCr)
 HullHull 90 Tons Hull 1 1.9
@@ -7130,16 +7130,16 @@ Plankwell class, the Sylea class is fully capable of fulfilling all the key
 tactical and strategic roles required, including the provision of flag
 facilities.
 
-It lacks the very large troop capacity (A Sylea class ‘only’ carries
+It lacks the very large troop capacity (A Sylea class 'only' carries
 a marine battalion) and fighter screen of older battleships and
 dreadnoughts such as the Tigress class, but recent Imperial doctrine
 is for more specialist vessels with troops carried on troop transports,
 fighters on carriers with smaller more cost–effective battleships for
 duties in the line of battle.
 
-The term ‘capital ship’ is something of a misnomer – it should be
+The term 'capital ship' is something of a misnomer – it should be
 used only to describe those vessels that are so large and powerful
-that they are the centre of a whole squadron, such as battleships
+that they are the center of a whole squadron, such as battleships
 and dreadnoughts. However, small–ship pilots tend to apply the
 phrase to any gargantuan super–ship massing tens of thousands
 of tons. Most capital ships are in the hands of governments or
@@ -7443,7 +7443,7 @@ Turrets
 #### PLANETOID MONITOR
 
 Planetary defence forces do not always require jump capable vessels and employ non–jump capable vessels known as monitors. These can
-be little different from the Imperial Navy’s battleriders, but many navies protecting systems with asteroid belts can build highly effective
+be little different from the Imperial Navy's battleriders, but many navies protecting systems with asteroid belts can build highly effective
 combat units, at a much cheaper cost, using planetoids for their hulls. Each such monitor is almost inevitably unique, but this one is
 representative.
 
@@ -7873,7 +7873,7 @@ Bay
 
 #### CARRIER
 
-Carriers are designed to carry large numbers of small combat craft, which in turn attack the enemy’s combatants or installations.
+Carriers are designed to carry large numbers of small combat craft, which in turn attack the enemy's combatants or installations.
 
 Light Carrier
 A thirty–thousand–ton Light carrier is the centrepiece of many planetary navies. The carrier is capable of acting as an orbital fighter base, and
@@ -8197,7 +8197,7 @@ RollRoll Internal External Internal External
 Superfreighter
 This vessel is more than 2,000 tons, but is not a capital ship. The megacorporations use massive cargo ships like this one to conduct
 interstellar trade. Capturing a superfreighter is the ultimate goal of many pirate gangs. All but 3,563 tons of its cargo is carried in 2,000 ton
-modules which can be used as cargo containers, fuel tanks, space habitats and so on. The ship’s integral fuel tanks only have enough fuel
+modules which can be used as cargo containers, fuel tanks, space habitats and so on. The ship's integral fuel tanks only have enough fuel
 for Jump–3, although it can use containerised fuel (10,000 tons) to make Jump–4.
 
 TonsTons Price (MCr)Price (MCr)
@@ -8299,7 +8299,7 @@ Hold Hull
 
 The traditional Traveller campaign starts after the characters have
 left their previous careers and are now wandering adventurers and
-free traders. In such a campaign, a character’s time in the navy is
+free traders. In such a campaign, a character's time in the navy is
 just prologue, a backstory that might contribute a few skills and plot
 hooks. It is also possible – with a few necessary changes – to run
 a Traveller campaign where the characters are still on active service
@@ -8339,7 +8339,7 @@ Rising Through The Ranks:Rising Through The Ranks: In this option, start with th
 at the naval academy or on their first tour of duty. The campaign is
 played episodically, jumping ahead months or years between game
 sessions. Each game session revolves around a significant episode
-in the characters’ careers, chronicling their rise from lowly recruits
+in the characters' careers, chronicling their rise from lowly recruits
 to captains and heroes. This episodic campaign lets you cover a
 long period of time; interstellar wars can rage across the galaxy and
 empires rise and fall, and the characters happen to be present for
@@ -8348,16 +8348,16 @@ every major event and turning point in history.
 These Are The Voyages...: These Are The Voyages...: Another option is to make a single ship
 the focus of the whole campaign. You could even have each player
 play three different characters – one lowly crewman each, one mid–
-ranking officer, and one of the command staff. This ‘troupe–style
+ranking officer, and one of the command staff. This 'troupe–style
 
-play’ puts the decisions in the hands of the characters, but also
+play' puts the decisions in the hands of the characters, but also
 ensures that they can get up close and personal with the action. As
-the ship is the centre of the game, characters can leave, be replaced
+the ship is the center of the game, characters can leave, be replaced
 or even killed without the campaign coming to a halt.
 
 In Time Of War: In Time Of War: While there is plenty for a naval ship to do during
 peacetime (see Naval Missions, below), it is in the crucible of war
-that heroes are forged. One classic trope is to put the characters’
+that heroes are forged. One classic trope is to put the characters'
 ship in a difficult and isolated situation, such as being lost behind
 enemy lines or suffer a hit to the bridge, killing the command crew
 and forcing the comparatively inexperienced player characters to
@@ -8369,13 +8369,13 @@ in shipboard intrigue against other officers, jockeying for another
 promotion or even their own command. Play up the archaic aspects
 of the Imperial Navy, and fill the game with swashbuckling duels
 and noble titles mixed with far–future technology. In this game, the
-dangers faced on the ship’s missions are very much secondary to
+dangers faced on the ship's missions are very much secondary to
 outmanoeuvring and outwitting rival ships and officers.
 
 Squadron: Squadron: For a really high–powered naval game, put the characters
 in command of one warship each as part of a squadron. This lets
-you run party–style adventurers in space (‘ emerging from jumpspace,
-you see a flotilla of bandits. Roll for initiative’ ) and gives each player
+you run party–style adventurers in space (' emerging from jumpspace,
+you see a flotilla of bandits. Roll for initiative' ) and gives each player
 the maximum amount of individual agency. Squadron–level games
 work best in time of war, when the characters will be up against
 worthy opponents regularly.
@@ -8462,12 +8462,12 @@ of an ambush that takes place midway through the mission.
 other naval forces...
 
 Roll on the Opposition (heavy) table for the forces arrayed
-against the players’ vessel(s).
+against the players' vessel(s).
 
 Ceremonial
 
 d6d6 Mission BriefingMission Briefing Also roll on...Also roll on...
-1 Provide an escort for an important noble. Location (space or planetary) for the noble’s destination.
+1 Provide an escort for an important noble. Location (space or planetary) for the noble's destination.
 2 Provide a naval presence for a festival or other event. Roll on the Complications (external).
 3 Courier an important message. Roll on the Opposition (medium) or Complications
 (shipboard).
@@ -8575,7 +8575,7 @@ d6d6 Mission BriefingMission Briefing Also roll on...Also roll on...
 3 The navy suspects a captain of incompetence or treachery; you
 are to spy on him, in the guise of supporting his next mission.
 
-Roll again for the captain’s mission.
+Roll again for the captain's mission.
 
 4 A damaged ship needs repair or resupply. Roll on the Complications (shipboard) for the cause
 of the damage.
@@ -8628,9 +8628,9 @@ shipping. Locate and destroy it.
 2 We have captured an enemy vessel; your crew are to
 transfer to that vessel and go behind enemy lines.
 
-Roll again for the vessel’s original mission, and roll on
+Roll again for the vessel's original mission, and roll on
 the Strike mission for the new undercover mission.
-3 A legendary ‘flying dutchman’ has been sighted.
+3 A legendary 'flying dutchman' has been sighted.
 Investigate.
 
 —
@@ -8639,7 +8639,7 @@ Investigate.
 5 An ancient artefact has been located. Investigate and
 secure.
 
-Roll on a Location table for the artefact’s resting place.
+Roll on a Location table for the artefact's resting place.
 
 6 One of our captains has gone rogue. Hunt him down. —
 
@@ -8728,12 +8728,12 @@ micrometeroid impact, strikes the ship.
 There are enemy ships nearby. Roll on the Opposition
 (heavy) table. The ships may attempt to interfere with
 the mission.
-12 Treachery – one of the ship’s crew is an agent of an
+12 Treachery – one of the ship's crew is an agent of an
 enemy power, and acts to sabotage the mission.
 
-Attack! The characters’ ship is ambushed!
+Attack! The characters' ship is ambushed!
 
-*: Roll on the appropriate Damage table for the characters’ ship.
+*: Roll on the appropriate Damage table for the characters' ship.
 
 OPPOSITION
 
@@ -8759,7 +8759,7 @@ Cruisers, Escorts Battleships,
 Carriers,
 Dreadnoughts
 
-The percentage value is the tonnage of the enemy ships relative to the characters’ vessel.
+The percentage value is the tonnage of the enemy ships relative to the characters' vessel.
 
 ###### NAVAL ADVENTURES NNAVALAVAL A ADVENTURESDVENTURES
 
@@ -8818,13 +8818,13 @@ Briefing Room 46
 
 #### C
 
-Capital Ships & Initiative 73
+[[Capital]] Ships & Initiative 73
 
-Capital Ship Crews 69
+[[Capital]] Ship Crews 69
 
-Capital Ship Damage 77
+[[Capital]] Ship Damage 77
 
-Capital Ship Design Example 69
+[[Capital]] Ship Design Example 69
 
 Chaff: 49
 
@@ -9006,7 +9006,7 @@ Section Hit Tables 68
 
 Sensors 45
 
-Ship’s Boat 87
+Ship's Boat 87
 
 Shockwave Missile 48
 
@@ -9064,14 +9064,14 @@ Weapons 47
 
 RELEASED EVERY MONTH AND FULL OF FRESH AND EXCITING MATERIAL
 FOR YOUR FAVOURITE ROLEPLAYING GAMES, SIGNS AND PORTENTS IS
-MONGOOSE PUBLISHING’S ONLINE MAGAZINE. NOT ONLY IS IT THE
+MONGOOSE PUBLISHING'S ONLINE MAGAZINE. NOT ONLY IS IT THE
 FIRST AND BEST PLACE TO LOOK FOR BREAKING NEWS ABOUT TRAVELLER
 PRODUCTS BUT YOU CAN FIND NEW MATERIAL FOR YOUR TRAVELLER
-GAMES RIGHT THERE IN ITS DIGITAL PAGES. AND IT’S FREE.
+GAMES RIGHT THERE IN ITS DIGITAL PAGES. AND IT'S FREE.
 
 FREE.
 
-BECAUSE WHEN YOU’VE GOT A CR. 200,000 MORTGAGE TO PAY ON
+BECAUSE WHEN YOU'VE GOT A CR. 200,000 MORTGAGE TO PAY ON
 THAT SHINY NEW STARSHIP, FREE MEANS A LOT.
 
 SIGNS AND PORTENTS

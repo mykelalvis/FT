@@ -8,19 +8,19 @@ tags:
 
 ![[TImp-6130.jpg|100]][[TImp-6130.jpg|Image]]
 
-Pax Imperii is the Imperial family’s 10,000-ton yacht. This spacecraft is one of a kind and serves as both a luxurious conveyance for the Emperor and a mobile platform to travel with friends, fellow heads of state and other esteemed visitors under the protective presence of the Imperial Marine Escort Service. Pax Imperii travels with the Naval Escort Squadron, which consists of three Sylean -class battleships, an Antiama -class fleet carrier, a flight of Sloan-class fleet escorts and several jump-6 couriers for rapid transmission of information.
+Pax Imperii is the Imperial family's 10,000-ton yacht. This spacecraft is one of a kind and serves as both a luxurious conveyance for the Emperor and a mobile platform to travel with friends, fellow heads of state and other esteemed visitors under the protective presence of the Imperial Marine Escort Service. Pax Imperii travels with the Naval Escort Squadron, which consists of three Sylean -class battleships, an Antiama -class fleet carrier, a flight of Sloan-class fleet escorts and several jump-6 couriers for rapid transmission of information.
 
-The Pax Imperii has many features, none more impressive than its common areas. The 40-ton crew commons are pedestrian but the 440-ton commons for the Imperial family and their guests is highly configurable. Before each voyage, a team that reports to the Emperor’s private secretary uses specialized software to program the commons configuration. The space is apportioned based on who the guests are, what the purpose of the voyage is and, of course, what the Emperor wants. For example, if the Emperor is travelling with members of the Moot and visiting dignitaries from various worlds, the common area might be configured into a ballroom, a formal dining area, a card room, a tearoom and a conference centre. The common area is adjacent to the multi-environment area in the event that alien visitors are present who require an exotic atmosphere, high-pressure or aquatic environment, or other adjustments.
+The Pax Imperii has many features, none more impressive than its common areas. The 40-ton crew commons are pedestrian but the 440-ton commons for the Imperial family and their guests is highly configurable. Before each voyage, a team that reports to the Emperor's private secretary uses specialized software to program the commons configuration. The space is apportioned based on who the guests are, what the purpose of the voyage is and, of course, what the Emperor wants. For example, if the Emperor is travelling with members of the Moot and visiting dignitaries from various worlds, the common area might be configured into a ballroom, a formal dining area, a card room, a tearoom and a conference center. The common area is adjacent to the multi-environment area in the event that alien visitors are present who require an exotic atmosphere, high-pressure or aquatic environment, or other adjustments.
 
 Configuring the common area requires a task check of varying difficulty, depending on the configuration requested.
 
-> _Configure the common area for Princess Iphegenia’s 16<sup>th</sup>  Birthday Party Bash_: Average (8+) Electronics (remote ops) check (1D hours, SOC).
+> _Configure the common area for Princess Iphegenia's 16<sup>th</sup>  Birthday Party Bash_: Average (8+) Electronics (remote ops) check (1D hours, SOC).
 > _Configuring the common area for a summit conference that involves multiple regional powers, including several alien dignitaries._ A task chain is required.
 >
 > - _First, design the common area for the conference:_ Difficult (10+) Diplomat check (2D hours, SOC); followed by the implementation,
 > - _configure the common area for the conference_: Difficult (10+) Electronics (remote ops) check (2D hours, EDU + the effect of the Diplomat check).
 
-The deck architecture of Pax Imperii is designed to make its guests feel at home. The crew sections are sequestered so that visitors are unlikely to see them unless they are taken on a tour of the ship. The Marine Escort barracks are located above and below the Emperor’s quarters and near the configurable commons.
+The deck architecture of Pax Imperii is designed to make its guests feel at home. The crew sections are sequestered so that visitors are unlikely to see them unless they are taken on a tour of the ship. The Marine Escort barracks are located above and below the Emperor's quarters and near the configurable commons.
 
 ![[TImp-6108.jpg]]
 ![[TImp-6131.jpg]]

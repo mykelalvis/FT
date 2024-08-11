@@ -1,4 +1,4 @@
-The indigenous population of[[Foelen]] are an aquatic race, resulting from the genetic manipulation of dolphins by the Ancients. Although the Chokari (literally meaning ‘water people’) are not confined to the oceans, they are happiest when they are in or near water. They are humanoid in appearance and size with several notable features:
+The indigenous population of[[Foelen]] are an aquatic race, resulting from the genetic manipulation of dolphins by the Ancients. Although the Chokari (literally meaning 'water people') are not confined to the oceans, they are happiest when they are in or near water. They are humanoid in appearance and size with several notable features:
 
 - Their skin is darker than most humans and is mottled with hues of greens and blues.
 - They have webbed hands and feet.

@@ -37,13 +37,13 @@ One former member of this organization, **Gvoudzon**, has stumbled his way acro
 
 The Commonality of Kedzudh is a loose interstellar government in the Vargr Extents. As the Kforuzeng organization rose in power 61 years ago, several world governments united in an attempt to suppress the outbreak of piracy. One of the planets forming the Commonality is the world of Ksarueso. It is on this planet that Gvoudzon was born.
 
-During Gvoudzon’s childhood, Kforuzeng influence grew to cover several subsectors along the Imperial border. By the time Gvoudzon came of age, the corsair band spaced a fleet of two dozen small starships and operated as a short-term military force, hiring their services out to the highest bidder. When jobs were scarce, the Kforuzeng would raid unguarded worlds and shipping routes for loot.
+During Gvoudzon's childhood, Kforuzeng influence grew to cover several subsectors along the Imperial border. By the time Gvoudzon came of age, the corsair band spaced a fleet of two dozen small starships and operated as a short-term military force, hiring their services out to the highest bidder. When jobs were scarce, the Kforuzeng would raid unguarded worlds and shipping routes for loot.
 
 Ksaueso was one of the worlds raided by the Kforuzeng, and on one of these raids, Gvoudzon was taken as a conscript.
 
 Desperate at his enslavement at first, Gvoudzon eventually found that the life of a corsair agreed with him. Over the next twelve years, he rose steadily in position, attaining the powerful and well-respected rank of Force Leader.
 
-About nine years ago, internal power struggles threatened to tear the Kforuzeng organization apart. The history of the Kforuzeng had always been bloody, but the band’s newest leader directed its resources toward particularly gruesome operations. A minority faction of the Kforuzeng feared the band’s actions would attract increased opposition from Kforuz enemies, heralding their demise.
+About nine years ago, internal power struggles threatened to tear the Kforuzeng organization apart. The history of the Kforuzeng had always been bloody, but the band's newest leader directed its resources toward particularly gruesome operations. A minority faction of the Kforuzeng feared the band's actions would attract increased opposition from Kforuz enemies, heralding their demise.
 
 Compromise was not reached. Rather than destroy the Kforuzeng from within, the minority faction broke off from the mother group, forming another corsair organization, the Aegzaeng.
 
@@ -85,15 +85,15 @@ Points to Remember…
 
 > Gvoudzon broke from the Kforuzeng almost a decade ago and helped to form the Kforuz splinter group, the Aegzaeng.
 
-- Ksarueso is Gvoudzon’s homeworld. It is a member planet of the Commonality of Kedzudh—one of the small broken kingdoms in the Vargr Extents.
+- Ksarueso is Gvoudzon's homeworld. It is a member planet of the Commonality of Kedzudh—one of the small broken kingdoms in the Vargr Extents.
 
-> The Commonality is a “new” Vargr kingdom (they’re always changing), just over 50 standard years old, created when several worlds banded together to fend off the growing Kforuzeng threat. The Vargr state maintains close ties with one of the more powerful kingdoms in the Extents, the Thoengling Empire.
+> The Commonality is a “new” Vargr kingdom (they're always changing), just over 50 standard years old, created when several worlds banded together to fend off the growing Kforuzeng threat. The Vargr state maintains close ties with one of the more powerful kingdoms in the Extents, the Thoengling Empire.
 >
 > Astrographically, the Commonality of Kedzudh lies between the Imperium and the Thoengling Empire in the Vargr Extents.
 
 - The Thoengling Empire is one of the larger kingdoms in the Vargr Extents. It is more powerful and more stable than most of the Vargr states in this region of space, existing for over 300 years.
 
-> The Marquis of Aramis has recently made trade agreements with the Emperor of the Thoengling Empire, and these trade agreements have led to the establishment of Vargr Trade Stations on several worlds in the Aramis subsector. These same trade agreements have blocked the Navy’s effort to secure a price ceiling on lanthanum ore imported from the Extents
+> The Marquis of Aramis has recently made trade agreements with the Emperor of the Thoengling Empire, and these trade agreements have led to the establishment of Vargr Trade Stations on several worlds in the Aramis subsector. These same trade agreements have blocked the Navy's effort to secure a price ceiling on lanthanum ore imported from the Extents
 
 - Gvegh-Aekhu is the Vargr term for the cultural region in this area of space. Vargr in the Spinward Marches and the immediate coreward region of the Vargr Extents tend to be a mix of the Gvegh race and the Aekhu race.
 
@@ -119,7 +119,7 @@ Points to Remember…
 
 > Gvoudzon viewed the ruthless, bloody take over from his position as an Aegzaeng emissary to the Kforuzeng, and it was this encounter that spurred Gvoudzon to leave Aegzaeng service and travel rimward to the Imperium.
 >
-> Because of discussions with Daeus, Gvoudzon has since realized that it was Jacks’ damaging raid on the Kforuz base that prompted Kforuz leadership to take over the Uekuez. The Kforuzeng needed to replace the ships lost in the encounter with Jacks’ task force, and the Uekuez had vessels for the taking.
+> Because of discussions with Daeus, Gvoudzon has since realized that it was Jacks' damaging raid on the Kforuz base that prompted Kforuz leadership to take over the Uekuez. The Kforuzeng needed to replace the ships lost in the encounter with Jacks' task force, and the Uekuez had vessels for the taking.
 
 This page last updated on 06 March 2023 by Jeff Zeitlin.  Text ©1999-2023 Ken Bearden. Page design ©1998-2023 Jeff Zeitlin\
 Freelance Traveller is maintained by Jeff Zeitlin\

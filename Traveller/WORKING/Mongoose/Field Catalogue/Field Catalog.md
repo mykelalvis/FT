@@ -34,7 +34,7 @@ improved rifle only offers a relatively small improvement
 on the basic model. Still, an advantage is an advantage.
 Smart mercenaries train and formulate plans to maximise
 the advantages they possess and minimise those of the
-opposition. An accurate appraisal of the mercenaries’
+opposition. An accurate appraisal of the mercenaries'
 own capabilities and those of the enemy can be the
 foundation of a plan that turns a potentially tough fight
 into a walkover.
@@ -44,7 +44,7 @@ Traveller campaigns, if this seems desirable. It is not only
 mercenaries who may have to quickly locate the source
 of a shot, or who may want to strike by surprise against
 a well-guarded target. All rules can be implemented or
-disregarded at the Referee’s discretion; much of the time
+disregarded at the Referee's discretion; much of the time
 the level of detail presented in these rules is not really
 necessary. However, in military campaigns the slightest
 advantage can be highly significant.
@@ -68,7 +68,7 @@ to stop an enemy in their tracks and reverse a potentially
 lethal situation.
 
 The amended Penetration rules are in some ways the
-opposite side of that coin. The Travellers’ point soldier
+opposite side of that coin. The Travellers' point soldier
 likes to keep a short shotgun handy for close encounters
 and can get it on target faster than an enemy soldier who
 brings a rifle to bear... but the rifle will punch through
@@ -82,7 +82,7 @@ there is a ton of must-have (and some so-not-want) gear
 in the later chapters.
 
 Design worksheets are presented for most weapons. This
-makes it easy to recalculate a weapon’s characteristics
+makes it easy to recalculate a weapon's characteristics
 if a Traveller wants to modify it or if a different type of
 ammunition is in use. The same basic principle applies
 to all weapon designs – the receiver and its features will
@@ -90,7 +90,7 @@ dictate what furniture, barrel and accessories can be
 used, and what their cost and weight will be. In many
 cases a specific model and manufacturer are described.
 There are usually copies, licensed versions and cheap
-knock-offs of such weapons available. At the Referee’s
+knock-offs of such weapons available. At the Referee's
 discretion a cheaper copy can be found but it will usually
 be inferior. The Low Quality trait allows the Referee to
 assign disadvantages to such weapons.
@@ -206,7 +206,7 @@ improved rifle only offers a relatively small improvement
 on the basic model. Still, an advantage is an advantage.
 Smart mercenaries train and formulate plans to maximise
 the advantages they possess and minimise those of the
-opposition. An accurate appraisal of the mercenaries’
+opposition. An accurate appraisal of the mercenaries'
 own capabilities and those of the enemy can be the
 foundation of a plan that turns a potentially tough fight
 into a walkover.
@@ -216,7 +216,7 @@ Traveller campaigns, if this seems desirable. It is not only
 mercenaries who may have to quickly locate the source
 of a shot, or who may want to strike by surprise against
 a well-guarded target. All rules can be implemented or
-disregarded at the Referee’s discretion; much of the time
+disregarded at the Referee's discretion; much of the time
 the level of detail presented in these rules is not really
 necessary. However, in military campaigns the slightest
 advantage can be highly significant.
@@ -240,7 +240,7 @@ to stop an enemy in their tracks and reverse a potentially
 lethal situation.
 
 The amended Penetration rules are in some ways the
-opposite side of that coin. The Travellers’ point soldier
+opposite side of that coin. The Travellers' point soldier
 likes to keep a short shotgun handy for close encounters
 and can get it on target faster than an enemy soldier who
 brings a rifle to bear... but the rifle will punch through
@@ -254,7 +254,7 @@ there is a ton of must-have (and some so-not-want) gear
 in the later chapters.
 
 Design worksheets are presented for most weapons. This
-makes it easy to recalculate a weapon’s characteristics
+makes it easy to recalculate a weapon's characteristics
 if a Traveller wants to modify it or if a different type of
 ammunition is in use. The same basic principle applies
 to all weapon designs – the receiver and its features will
@@ -262,7 +262,7 @@ dictate what furniture, barrel and accessories can be
 used, and what their cost and weight will be. In many
 cases a specific model and manufacturer are described.
 There are usually copies, licensed versions and cheap
-knock-offs of such weapons available. At the Referee’s
+knock-offs of such weapons available. At the Referee's
 discretion a cheaper copy can be found but it will usually
 be inferior. The Low Quality trait allows the Referee to
 assign disadvantages to such weapons.
@@ -307,7 +307,7 @@ CHAPTER-ONE
 **SOLDIER LOADOUTS**
 
 The Traveller Core Rulebook states that Travellers be
-allowed to carry a ‘reasonable’ load without tracking
+allowed to carry a 'reasonable' load without tracking
 it. Unfortunately, many Travellers have a rather
 curious idea of what is reasonable. Three different
 rifles, a flamethrower, an anti-aircraft missile
@@ -326,7 +326,7 @@ becoming excessively tired. If the Travellers want to
 push the limits of what they can carry and still move
 or fight, stricter rules are necessary. These are based
 on page 92 of the Traveller Core Rulebook , modified
-for the mercenaries’ circumstances.
+for the mercenaries' circumstances.
 
 Note that powered armor does not contribute to
 encumbrance when powered up and that the weight
@@ -349,15 +349,15 @@ will typically be around 16–18kg of equipment.
 
 Combat Load: 2x (all levels in Athletics (strength and
 endurance) plus STR + END)
-A soldier’s combat load is up to twice their ‘combat
-light’ load, so around 32–36kg for a fit and well-
+A soldier's combat load is up to twice their 'combat
+light' load, so around 32–36kg for a fit and well-
 trained soldier. At this level all physical actions that
 require significant movement are one difficulty level
 harder. A soldier doing something that requires only
 slight movement, such as shooting from cover, does
 not suffer this penalty but as a rule of thumb anything
 requiring more than a step or turn in place qualifies
-as ‘significant movement’. A soldier carrying combat
+as 'significant movement'. A soldier carrying combat
 load is considered to be performing heavy labour as
 per page 76 of the Traveller Core Rulebook.
 
@@ -375,7 +375,7 @@ in a fight, enabling the soldier to move down from
 field load to combat load or even combat light. Of
 course, this equipment might be lost if the unit is
 pushed back and cannot retrieve its packs. Field load
-is up to three times the soldier’s combat light load.
+is up to three times the soldier's combat light load.
 At this level all physical tasks are considered one
 difficulty level harder whether they require significant
 movement or not. For a typical fit and well trained
@@ -420,7 +420,7 @@ Field Catalogue, as detailed below. Other traits can be
 found in the Central Supply Catalogue if it is in use and
 apply to the weapons found there. In some cases these
 may be similar to traits described in this book. At the
-Referee’s discretion similar traits can be swapped, such
+Referee's discretion similar traits can be swapped, such
 as Fire and Burn or Hazardous and Dangerous.
 
 Burn X: A Burn weapon delivers half its initial damage
@@ -452,7 +452,7 @@ as a human or other living being would. For example,
 acoustic location devices use the sound of a weapon
 to locate it, just like a person turning to look in the
 direction the sound seemed to be coming from. Such
-devices use the weapon’s Physical Signature trait
+devices use the weapon's Physical Signature trait
 rather than Emissions Signature.
 
 Hazardous -X: Some weapons use hazardous materials
@@ -462,10 +462,10 @@ does increase the severity of a malfunction. A well-made
 and properly cared-for weapon should never suffer a
 significant malfunction in the field and if this is the case
 the user need not worry about the nuclear fusion reaction
-going on in the weapon’s powerpack. If the weapon does
+going on in the weapon's powerpack. If the weapon does
 suffer a malfunction or is penetrated by enemy fire, use
 the Malfunction table on page 8 to determine the severity
-of the problem. The weapon’s Hazardous score is applied
+of the problem. The weapon's Hazardous score is applied
 as a negative DM on this table.
 
 Most weapons pose some hazard if damaged or
@@ -504,7 +504,7 @@ might be used.
 alight on a successful check determined by the nature
 of the materials. A sufficiently hot incendiary can even
 ignite materials that would not normally be considered
-flammable, such as metals. The weapon’s Incendiary
+flammable, such as metals. The weapon's Incendiary
 score is used as a positive modifier to this check; if not
 specified this value is +0.
 
@@ -534,9 +534,9 @@ armor or fail to penetrate hard surfaces. This can be
 desirable, such as when ammunition is intended for
 use on a small indoor firing range or inside spacecraft.
 A low-penetration round is unlikely to punch a hole in
-a cabling conduit and wreck the ship’s control systems.
+a cabling conduit and wreck the ship's control systems.
 Weapons with Lo-Pen have a score, typically 2 or 3.
-This is a multiple to be applied to the target’s armor,
+This is a multiple to be applied to the target's armor,
 if any. Thus a Lo-Pen (3) weapon striking a flak jacket
 with Protection +5 would treat it as Protection +15;
 penetration is highly unlikely. Low-velocity firearms and
@@ -559,14 +559,14 @@ or are poorly engineered. Examples include crude
 zip guns made in backstreet workshops, home-made
 flamethrowers and improvised fusion guns. Ramshackle
 scores usually range from -1 to -4 depending on the
-severity of the weapon’s deficiencies but can be even
+severity of the weapon's deficiencies but can be even
 more. Typically, attempts to repair or build a weapon at
 lower than its Tech Level will impose a Ramshackle trait
 equal to the difference in Tech Levels. Poor manufacture
 or parts, long periods without maintenance and bad
 design can all impose a Ramshackle trait on a weapon.
 The DM is applied to attack rolls and the results of
-weapon malfunctions. At the Referee’s discretion it can
+weapon malfunctions. At the Referee's discretion it can
 be reduced by the Effect of a Mechanics check made
 when fixing a damaged weapon in the field. Note that
 being Ramshackle does not necessarily make a weapon
@@ -575,7 +575,7 @@ reliable, just not very good.
 
 For example, a party of Travellers finds a TL14 fusion
 gun that someone has abandoned. With no tools
-available, the team’s mechanical genius decides to
+available, the team's mechanical genius decides to
 have a go at fixing it up. Using nothing more than her
 boot and a nearby rock, she performs a mechanical
 miracle with Effect +7. The fusion gun is restored to
@@ -636,7 +636,7 @@ malfunctions and breakdowns. This is typically seen
 with primitive weaponry such as black powder muskets
 
 but could be imposed by poor-quality ammunition. A
-weapon’s degree of Unreliable is indicated by a score in
+weapon's degree of Unreliable is indicated by a score in
 the range 1–5. When this weapon is used, an additional
 1D of a different colour is thrown along with the usual
 2D check. If this dice comes up equal to or less than
@@ -645,13 +645,13 @@ malfunction. This might be a simple misfire but could
 be a full jam or even a breach explosion.
 
 If a weapon malfunction occurs, roll 2D on the
-Malfunction table. The weapon’s user receives a positive
+Malfunction table. The weapon's user receives a positive
 DM equal to their relevant combat skill. Negative DMs
 also apply.
 
 Weapon Power: DM-1 for every 1D of damage done by
 the weapon.
-Hazardous Weapon: Apply the weapon’s Hazardous score
+Hazardous Weapon: Apply the weapon's Hazardous score
 as a negative DM.
 
 Malfunction
@@ -671,7 +671,7 @@ Some weapons have both Spread and
 Inaccurate, such as shotguns. Inaccurate does
 not apply within 10m so at this range the user
 benefits from the Spread value. Between 10m
-and the weapon’s base range, both apply. Thus
+and the weapon's base range, both apply. Thus
 a shotgun with Spread (2) and Inaccurate (-1)
 affords the user a net DM+1 to attack rolls.
 
@@ -689,8 +689,8 @@ The precise distance from combatant to target is
 sometimes very important, such as when calculating a
 firing solution for artillery. However, most of the time
 the general range conditions are more important as
-they impose tactical limitations. There are five ‘range
-conditions’ that can apply to a military force or some of
+they impose tactical limitations. There are five 'range
+conditions' that can apply to a military force or some of
 its members.
 
 **Close Quarters** (sometimes called Close Assault) is a
@@ -702,7 +702,7 @@ loosely defined; in this case it is a situation where at
 least some combatants are capable of rushing into their
 opponents to attack with bayonets or similar personal
 weaponry. Personnel who are engaged at close quarters
-are unlikely to be able to keep track of the ‘big picture’
+are unlikely to be able to keep track of the 'big picture'
 
 - they are too busy trying to stay alive! As a result DM-
 applies on checks other than those pertaining to the
@@ -735,7 +735,7 @@ about its business as normal.
 
 Battlefield range conditions extend to the point where
 direct-fire weapons are highly unlikely to be effective.
-This is typically 3–5 kilometres, but can vary according
+This is typically 3–5 kilometers, but can vary according
 to the local situation. Essentially, if an enemy force
 is close enough to be engaged by the main armament
 of a tank operating at ground or low level, battlefield
@@ -756,7 +756,7 @@ specific threats.
 Standoff range conditions exist beyond the immediate
 battlefield and extend out to the maximum effective
 range of locally available weapons. On a TL4 battlefield
-this might be just a few kilometres beyond the
+this might be just a few kilometers beyond the
 immediate combat area and few commonly available
 standoff weapons are useful beyond 50–100km. A
 force at Standoff range is not in danger from direct-
@@ -782,7 +782,7 @@ and orbital laser fire. It is beyond the scope of most
 Traveller-owned mercenary units, although they may
 become involved – perhaps leading a commando
 mission to take out a missile launch site or defending a
-communications centre against infiltrators.
+communications center against infiltrators.
 
 VACUUM AND
 LOW-GRAVITY
@@ -801,11 +801,11 @@ weapons, temporarily gains the Unreliable (1) trait.
 
 Low gravity increases the distance projectiles will
 travel but not the ability of personnel to aim. Bullets
-do not ‘drop’ as a shooter experienced in higher
+do not 'drop' as a shooter experienced in higher
 gravity would expect. There is no effect out to 100
-metres, after which DM-2 applies to shots made out
-to 1,000 metres. DM-4 applies to shots made out to
-10 kilometres and DM-6 to shots beyond this. This
+meters, after which DM-2 applies to shots made out
+to 1,000 meters. DM-4 applies to shots made out to
+10 kilometers and DM-6 to shots beyond this. This
 DM is reduced by one for every level of the Vacc Suit
 skill the shooter has, reflecting an ability to predict
 the effects of low or zero gravity and does not apply to
@@ -814,7 +814,7 @@ lasers or similar energy weapons.
 Extreme range can be considered doubled in minimal
 or zero gravity. Weapons that rely on firing in a ballistic
 arc become difficult to aim, although incredible
-‘trick shots’ are possible to those with sufficient
+'trick shots' are possible to those with sufficient
 mathematical ability to calculate trajectory. Likewise,
 trace atmosphere or vacuum does not slow projectiles.
 This does not greatly affect the ability of the average
@@ -824,7 +824,7 @@ low gravity. Thus it is possible to engage targets across
 very great distances, although the time taken for a
 projectile to get there and the difference in conditions
 from that the shooter may be used to, makes hitting a
-person with a rifle from 5 kilometres rather difficult no
+person with a rifle from 5 kilometers rather difficult no
 matter how good the sighting system.
 
 Indirect Fire
@@ -832,9 +832,9 @@ Indirect fire in this context refers to any projectile
 that does not follow a straight path to the target and
 will typically be carried out with grenade launchers
 and light artillery weapons. Arguably a hand grenade
-‘pinballed’ off two walls to get it around a corner is
+'pinballed' off two walls to get it around a corner is
 an example of indirect fire, although more commonly
-one will be lobbed over an enemy’s cover or into their
+one will be lobbed over an enemy's cover or into their
 foxhole. Energy weapons cannot conduct indirect
 fire and it cannot be conducted without a physical
 mechanism. Thus would normally be gravity but an
@@ -853,17 +853,17 @@ be directly observed, DM-2 applies to the attempt
 to hit. In addition, all indirect attacks – even if the
 target is visible to sensors or a handoff targeting point
 is available – are imprecise. The attack will land 1D
-metres from the target point, plus 1D for every full
-100 metres the weapon must travel. Each point of
-negative Effect adds one metre to the distance; each
-point of positive Effect reduces it by one metre.
+meters from the target point, plus 1D for every full
+100 meters the weapon must travel. Each point of
+negative Effect adds one meter to the distance; each
+point of positive Effect reduces it by one meter.
 
 Indirect fire is for the most part useful only with
 area-effect weapons such as grenades. However, if
-the attack roll is good enough to indicate zero metres
+the attack roll is good enough to indicate zero meters
 then the target has received a direct hit. Area-effect
 weapons will do their normal damage and impact
-damage may be added at the Referee’s discretion.
+damage may be added at the Referee's discretion.
 For most projectiles likely to be used in this manner
 impact damage will be 1D for those that have
 bounced off something and 2D for direct impact.
@@ -871,7 +871,7 @@ bounced off something and 2D for direct impact.
 This rule can be used to resolve unusual indirect-
 fire situations. For example, a Traveller is in a tricky
 hostage situation and cannot get a clean shot at an
-enemy. Their solution is to yell ‘grenade’ and throw an
+enemy. Their solution is to yell 'grenade' and throw an
 actual grenade but without pulling the pin, bouncing
 it off a wall to strike the hostage-taker from behind. A
 particularly good attack roll results in a 0m deviation,
@@ -890,12 +890,12 @@ indirect fire rule.
 
 When an area effect weapon is used for indirect fire, it
 imposes an Area Fire attack (see page 14) on everyone
-within its Burst value in metres.
+within its Burst value in meters.
 
 Firing Over Open Sights
 Some artillery weapons can engage targets
 directly in line of sight. This is generally referred
-to as ‘firing over open sights’. High-trajectory
+to as 'firing over open sights'. High-trajectory
 weapons such as mortars cannot do this and
 very heavy weapons may not be able to traverse
 fast enough or depress far enough to hit targets
@@ -956,7 +956,7 @@ directly controlled from a remote position.
 
 When conducting bombardment the intent is to put
 payloads into a general area. With very precise weapons
-this area may be smaller than the warhead’s danger
+this area may be smaller than the warhead's danger
 radius but more commonly bombardment is something
 of a lottery. For this reason weapons with a large area
 of effect are preferred. Putting artillery shells into the
@@ -981,12 +981,12 @@ of some truly enormous weapons there may be other
 effects. These are discussed in the Specialists book. If
 it is necessary to determine how far away the weapon
 landed, deviation can be taken as 2D% of the range it
-was fired from. This is a minimum of 100 metres for
-weapons fired at 5 kilometres and possibly as much as
-6 kilometres for a weapon 50 kilometres away. Direction
+was fired from. This is a minimum of 100 meters for
+weapons fired at 5 kilometers and possibly as much as
+6 kilometers for a weapon 50 kilometers away. Direction
 must be determined randomly.
 
-A ‘hit’ on the Heavy Weapons check does not mean a
+A 'hit' on the Heavy Weapons check does not mean a
 direct hit has been scored on the target with indirect
 fire. Instead it means that the warhead has arrived close
 enough to the target to have some effect. Most artillery
@@ -995,7 +995,7 @@ within that area. Once a hit on the general target area
 has been determined with artillery, it is necessary to find
 out how serious it will be.
 
-Roll 2D if a ‘hit’ is scored. On a straight double-6 the
+Roll 2D if a 'hit' is scored. On a straight double-6 the
 target may have suffered a direct hit and damage is
 doubled. On 8+, the round comes close enough to do
 full damage. On a roll of 7–, the round buries itself in
@@ -1019,11 +1019,11 @@ considered a standoff attack and is far more likely to
 score a direct hit. The positive Effect of the attack check
 is added to the 2D check to determine the nature of the
 hit. In addition, weapons guided by an operator may
-add the operator’s Heavy Weapons (artillery) skill level
+add the operator's Heavy Weapons (artillery) skill level
 to the 2D check. Automatically guided weapons use
-the projectile’s own guidance DM and some advanced
+the projectile's own guidance DM and some advanced
 weapons may use both an operator DM and one from the
-weapon’s own systems.
+weapon's own systems.
 
 If a forward observer or some form of midcourse
 guidance is available, the chances of a good hit are
@@ -1031,7 +1031,7 @@ further enhanced. To increase the chance of a first-
 shot hit a forward observer may make an Electronics
 (comms) check subject to additional modifiers as if
 making an attack roll. The Effect of this check is added
-to (or subtracted from) the weapon’s check to reach
+to (or subtracted from) the weapon's check to reach
 the general target area, which in turn will improve
 the chances of a direct hit by increasing the level of
 success. This process is no different to that on page 7 of
@@ -1044,8 +1044,8 @@ bombardment weapons. To do this, the observer must
 be able to both see the target area and communicate
 with the gunners. After the first salvo, the forward
 observer can make a Heavy Weapons (artillery) check.
-If successful, the gunners’ next shots gain a cumulative
-DM+1 to hit, up to a maximum of the observer’s skill
+If successful, the gunners' next shots gain a cumulative
+DM+1 to hit, up to a maximum of the observer's skill
 level. However, if the gunner fails an attack roll at any
 point, the process of walking the artillery onto the target
 must begin once again.
@@ -1062,13 +1062,13 @@ gaining this +1 along with their own DM+2 for a solid
 Heavy Weapons (artillery) check. The shell will arrive
 in the target area and gains DM+3 on the 2D check to
 see of a direct hit has been achieved. This DM is for
-the forward observers’ efforts and that of the crew. In
-addition, the weapon’s own guidance DM+2 is added.
+the forward observers' efforts and that of the crew. In
+addition, the weapon's own guidance DM+2 is added.
 A score of 8 on 2D is modified to 13 – more than the
 12 needed for a direct hit. The observers are satisfied
 to see the shell arrive on a good trajectory then adjust it
 slightly to come down directly on the target. Without the
-shell’s terminal guidance it would have been very close
+shell's terminal guidance it would have been very close
 to the target and done normal damage._
 
 SUSTAINED FIRE
@@ -1094,7 +1094,7 @@ dissipates Heat at a rate determined by its construction
 during each round it is not fired. If the weapon
 exceeds its safe Heat level, a malfunction may occur
 on any occasion it is fired – even a single shot. The
-malfunction chance is based on the weapon’s Heat
+malfunction chance is based on the weapon's Heat
 level before the attack was made.
 
 Every attack made after the safe Heat threshold is
@@ -1105,7 +1105,7 @@ the Heat DM but they do not reduce it either, so it
 is possible to keep popping off single rounds from
 a glowing-hot weapon whilst staying just below the
 disaster threshold. The chance of a malfunction
-depends on the weapon’s condition. If a malfunction
+depends on the weapon's condition. If a malfunction
 occurs, consult the Malfunction table on page 8.
 
 Changing the barrel on weapons equipped for this is
@@ -1138,19 +1138,19 @@ because the Traveller was firing intermittently and the
 weapon had a chance to cool but a malfunction at this
 critical moment could be significant as well as dramatic
 and exciting. The Traveller fires again, increasing the
-weapon’s Heat to 39 at the end of the round but the
+weapon's Heat to 39 at the end of the round but the
 chance of a malfunction is based on the 36 points of
 Heat at the time the shot was fired. The weapon is past
 its danger threshold, so the chance if a malfunction
 is 9+ on a straight 2D roll. One occurs, and a check,
 with DM-2 for being past the threshold, is made on
 the Malfunction table. This is subject to an additional
-DM-3 for the weapon’s damage dice and DM+2 for the
-Traveller’s Gun Combat skill, for a total of DM-3. This
+DM-3 for the weapon's damage dice and DM+2 for the
+Traveller's Gun Combat skill, for a total of DM-3. This
 comes out a 3 – a critical component of the weapon
 has failed and the weapon needs workshop time. The
 Referee decides a round has expanded in the breach
-and jammed the ejection system. The Traveller’s attack
+and jammed the ejection system. The Traveller's attack
 that round is aborted. She switches to her backup
 weapon and the situation becomes a bit more desperate.
 
@@ -1215,7 +1215,7 @@ consider whether to allow the weapon to cool or to
 keep firing and hope for the best. As with all rules
 in Mercenary , the sustained fire and overheating
 rule is intended to give the Travellers problems to
-solve or opportunities whilst the enemy’s heavy
+solve or opportunities whilst the enemy's heavy
 weapon is out of action. Likewise, if the Travellers
 decide to tool up with the most extreme rapid-fire
 weaponry money can buy, their weapons should
@@ -1310,7 +1310,7 @@ enemy is suspected of using. It can also be used to deny
 an area to the enemy by endangering anyone passing
 through it. For example, a mercenary unit might lay
 down suppressing fire on a window suspected of being
-a sniper’s position or across a corridor intersection to
+a sniper's position or across a corridor intersection to
 prevent enemies from moving through. Anyone entering
 the suppressed area, trying to move through or out of it
 or doing anything except staying under cover is subject
@@ -1367,14 +1367,14 @@ target, interposing an object or obscuring it with smoke.
 
 Normally, keeping a designated or controlled weapon
 on target requires an Average (8+) check using the
-operator’s skill; typically the skill associated with the
+operator's skill; typically the skill associated with the
 weapon used but a mercenary with a rifle-mounted
 designator could use Gun Combat to paint the target. If
 the check is made and no adverse situation occurs, such
 as a cloud of smoke obscuring the target, the weapon
 will automatically hit.
 
-It is possible to perform ‘trick shots’ with a designator.
+It is possible to perform 'trick shots' with a designator.
 For example, a concealed launcher might put four
 missiles into the air at short intervals, causing them to
 pop up from behind a forest or hill close to the target.
@@ -1415,7 +1415,7 @@ Each round an area defence system can attack a number
 of targets equal to its Area Defence rating. A point
 defence weapon can attack a number of targets equal to
 its Point Defence rating. Area defence is conducted first,
-with point defences attacking any ‘leakers’ that come
+with point defences attacking any 'leakers' that come
 through the first defensive layer.
 
 Area and point defences use attack rolls like any other
@@ -1423,7 +1423,7 @@ weapons. Those guided by operators may use their
 skill level as a DM, although engagement times are so
 short with these weapons that actual aiming and firing
 is almost always controlled by a dedicated electronic
-system. The operator’s input is limited to direction and
+system. The operator's input is limited to direction and
 target selection, essentially providing tactical indications
 to the automated systems.
 
@@ -1469,7 +1469,7 @@ better idea to aim for the best aligned surface.
 
 Travellers might come up with a clever idea, such as
 trying to hit the underside of a tank as it crests an
-obstacle or aiming for a ‘shell trap’ where the shape
+obstacle or aiming for a 'shell trap' where the shape
 of the vehicle makes penetration more likely. If this
 is plausible and well roleplayed the referee should
 usually allow it. Top and bottom armor is typically
@@ -1481,7 +1481,7 @@ Traveller. Shell traps and weak points are typically
 rather small, but a miss by a small margin will usually
 still strike the vehicle. In this case an attack that
 succeeds with Effect +6 or greater will hit a weak
-point at the referee’s discretion. Armor can be
+point at the referee's discretion. Armor can be
 considered to be halved in this case, and the vehicle
 gains no advantage from reactive armor. Of course,
 this also applies to vehicles operated by the Travellers
@@ -1537,7 +1537,7 @@ This is applied on the Final Penetration table to
 determine if any traits or special effects are to be
 added. Most weapons begin with Penetration 0.
 There is no Lo-Pen 1 trait since this would mean no
-modification to the armor’s Protection.
+modification to the armor's Protection.
 
 Final Penetration
 Penetration Effect Traits and Damage Modification
@@ -1554,14 +1554,14 @@ dice of damage.
 +4 Extreme Armor-Piercing AP 5 plus 2 per full dice of damage, -1 damage per dice of
 damage.
 
-The weapon’s performance against armor is
+The weapon's performance against armor is
 determined by a running total of positive and negative
 factors, with the end result translated into traits.
 Thus a gauss rifle using armor-piercing ammunition,
-with a final Penetration 3, is a ‘high armor piercing
-weapon’, which modifies its damage from 4D to
+with a final Penetration 3, is a 'high armor piercing
+weapon', which modifies its damage from 4D to
 4D-3 but adds AP 9. A low-velocity shotgun with
-Penetration -2 is ‘very poor against armor’, which
+Penetration -2 is 'very poor against armor', which
 gives it the Lo-Pen 3 trait. This weapon would treat
 a Protection +5 flak jacket as having Protection +15,
 but just might get some damage through.
@@ -1635,7 +1635,7 @@ atmosphere between muzzle and target but it may not
 be recognized as a weapon firing. If there is a lot of
 noise, such as when travelling in a vehicle on rough
 ground, the sound may not be heard at all or may be
-misidentified. A rock thrown up by the vehicle’s wheels
+misidentified. A rock thrown up by the vehicle's wheels
 and slamming into its underside might be interpreted as
 a gunshot or vice versa. In some cases a Traveller might
 be unable to determine if the sound was or was not a
@@ -1648,7 +1648,7 @@ originated. Detecting and locating a shot requires a
 Routine (6+) Recon check if using normal senses or
 an Easy (4+) Electronics (sensors) check if sensors
 are being used. Note that only specialist sensors can
-pick up a weapon’s physical signature whereas almost
+pick up a weapon's physical signature whereas almost
 anything that can detect magnetic fields, heat and the
 like will pick up its emissions signature. If the Traveller
 succeeds, they know a shot has been fired and its
@@ -1662,21 +1662,21 @@ open surrounded by a big pall of smoke the Traveller
 will probably gain an exact location but a camouflaged
 sniper or someone hiding in a dark upper-floor room
 may not be directly spotted. In this case the Traveller
-will have a general location such as ‘upper floors of that
-building’ or ‘those trees, ground level’ but will have to
+will have a general location such as 'upper floors of that
+building' or 'those trees, ground level' but will have to
 make an additional Recon check to spot the shooter.
 A general area could be sprayed with automatic fire
 or blasted with artillery even if all the Travellers know
-is that the shot came from ‘somewhere in there’ but
+is that the shot came from 'somewhere in there' but
 directly engaging a target requires spotting it first.
 
 In the event the Traveller succeeds with Effect +6 or
 more, they will be able to identify the weapon in use.
-Not to the degree of stating with certainty ‘that was
+Not to the degree of stating with certainty 'that was
 a twin-trigger Steyr-Mannlicher SSG assembled on a
-Tuesday by a left-handed armorer’ but in terms of ‘large
-calibre rifle’, ‘smallbore rifle’, ‘shotgun’, ‘gauss pistol’
-and so forth. They will also know the shooter’s precise
+Tuesday by a left-handed armorer' but in terms of 'large
+calibre rifle', 'smallbore rifle', 'shotgun', 'gauss pistol'
+and so forth. They will also know the shooter's precise
 location, down to which window they fired from or the
 equivalent, even if they cannot see the shooter directly.
 
@@ -1692,7 +1692,7 @@ Situational Modifiers
 Circumstance DM
 Physical Signature DM for weapon As applicable
 Emissions Signature DM for weapon As applicable
-Shooter is in the observer’s general arc of vision +2
+Shooter is in the observer's general arc of vision +2
 Noisy Conditions (vehicle on rough ground) -2
 Extremely Noisy Conditions (friendly gunfire nearby or artillery in the vicinity) -4
 Cluttered Terrain (forest, jumbled boulders) -2
@@ -1726,14 +1726,14 @@ allow the user to be effectively invisible to thermal
 sensors for a time but which will eventually be
 overloaded and begin to leak so much heat they cannot
 be missed. Less technological solutions either conceal
-the user’s heat signature to some extent or radiate it
+the user's heat signature to some extent or radiate it
 in a shape that does not resemble a person. Observers
 will still see a thermal image but may assume it is
 something harmless rather than a person with a weapon.
 
 The battle between sensors and camouflage systems is
 modelled by modifiers applied to the opposed Stealth
-versus Recon check, with the Referee’s common sense
+versus Recon check, with the Referee's common sense
 overruling bizarre situations. As a general rule of
 thumb, if someone trying to be stealthy has no counter
 to a sensor then unless the operators are extremely lax
@@ -1761,7 +1761,7 @@ whether a Traveller or their enemy gets their weapon
 on line first. In such situations the wider picture does
 not matter; the contest is between two individuals
 or sometimes members of two small groups. This is
-termed a ‘quickdraw’ whether or not a weapon has to
+termed a 'quickdraw' whether or not a weapon has to
 be drawn.
 
 To resolve this, each participant rolls 2D and adds their
@@ -1831,12 +1831,12 @@ sets of 3 points of damage). Hopefully this is enough to
 throw off his aim.
 
 KNOCKDOWN
-In general it is more desirable to ‘stop’ the target than
+In general it is more desirable to 'stop' the target than
 ensure a kill. A shot that delivers a mortal wound, but
 leaves the victim able to act for a few seconds, may have
 worse overall results than a non-fatal shot that knocks
 the target down and stops them acting. In theory any
-shot can achieve a ‘knockdown’ – a situation in which
+shot can achieve a 'knockdown' – a situation in which
 the target is immediately stopped in what they are doing
 and quite possibly sent to the ground. If a knockdown is
 achieved, the target cannot act for the rest of that round
@@ -1854,18 +1854,18 @@ knock the target down or disorient them.
 
 If damage exceeds species maximum, a knockdown
 occurs unless the victim resists it. Note that
-‘knockdown’ is a general term for ‘hit hard and
-temporarily unable to act’. Many times this will involve
+'knockdown' is a general term for 'hit hard and
+temporarily unable to act'. Many times this will involve
 being knocked down or against something, or falling, but
 the exact effects depend on the circumstances. To avoid
 a knockdown, the target must make a Simple (2+) STR
 check, with negative DM equal to the amount of damage
 over their species maximum. Weapons that deliver a
 lot of force tend to do so by being poor penetrators – a
-weapon’s Lo-Pen value is applied as a negative DM
+weapon's Lo-Pen value is applied as a negative DM
 to the STR check. Conversely, weapons using armor-
 piercing ammunition tend not to dump their energy into
-the target as they often overpenetrate. A weapon’s AP
+the target as they often overpenetrate. A weapon's AP
 rating is used as a positive DM to the STR check.
 
 For example, a human Traveller is hit by a pellet-firing
@@ -1878,7 +1878,7 @@ to potentially cause a knockdown. To avoid this the
 Traveller must make a Routine (6+) STR check. Their
 STR DM is +1, but they suffer DM-1 for the one
 point of damage over their knockdown threshold and
-DM-3 for the shotgun’s Lo-Pen rating. The Traveller
+DM-3 for the shotgun's Lo-Pen rating. The Traveller
 rolls 8 on the dice, with a total DM-3. The Effect
 of the check is -1, which is insufficient to avoid a
 knockdown. A rifle bullet doing the same amount of
@@ -1912,7 +1912,7 @@ Mishap Thresholds are based on weapon type, and
 do not vary all that much between similar items. For
 example, damaging a handgun is about as difficult
 as damaging a rifle of the same construction. The
-materials used in the weapon’s manufacture are
+materials used in the weapon's manufacture are
 significant in determining its Mishap Threshold, along
 with its general type.
 
@@ -1944,7 +1944,7 @@ may be a big object but most of it is composed of items
 that will not cause it to malfunction if hit. If the critical
 component is relatively large, such as the tanks of a flame
 weapon, the penalty is reduced to DM-4 and may be
-further modified at the referee’s discretion.
+further modified at the referee's discretion.
 
 DISTRACTIONS
 Some weapons are intended to distract or debilitate
@@ -1958,7 +1958,7 @@ due to flinching from blinding light or simply turning
 to see what the sudden noise was. The difficulty of this
 check is determined by the distraction device, which in
 turn depends largely upon its size and power. Note that
-these are ‘distraction’ rather than ‘stun’ weapons. Those
+these are 'distraction' rather than 'stun' weapons. Those
 intended to put someone out of action for more than a
 combat round are considered elsewhere.
 
@@ -2079,7 +2079,7 @@ Damage rolled is 8 points, so the Traveller takes
 degraded by 2 points that round because it was in
 contact with a 2D corrosive weapon. The following
 round the corrosive damage drops to 1D. Damage
-rolled is 4 points, and since the Traveller’s armor is
+rolled is 4 points, and since the Traveller's armor is
 down to Protection +3, 1 point gets through. The flak
 jacket is degraded an additional point. The Traveller
 takes no damage the following round, but the flak
@@ -2126,7 +2126,7 @@ to other milspec electronics. In cheaper machines the
 actual internal workings of the system are identical to
 civilian systems, with the interface unit acting as a filter.
 If it can be bypassed, a civilian system could interface
-directly. Dedicated military computers ‘think in military’
+directly. Dedicated military computers 'think in military'
 and are not compatible with civilian models even if
 security is bypassed. This eliminates most possibilities
 of hacking by a passing kid with an illegal haxxorx app
@@ -2148,11 +2148,11 @@ environment using built-in protocols. These are less
 of a barrier to hacking than a dedicated computer and
 electronics system, but far cheaper.
 
-It is still possible to hack a mercenary unit’s electronics
+It is still possible to hack a mercenary unit's electronics
 using civilian computer systems but an interface must
-be established. The typical Traveller’s personal comm
+be established. The typical Traveller's personal comm
 simply cannot talk to a military system, except by way of
-a firewalled ‘outside unsecured comms’ protocol which
+a firewalled 'outside unsecured comms' protocol which
 does not allow access to the operating system. Interface
 devices are supposedly controlled and restricted to
 sale to accredited mercenary unit, but there are always
@@ -2160,7 +2160,7 @@ examples on the black market.
 
 As a general rule, electronic equipment for use by
 mercenaries is designed to be interoperable with
-other items on the market, creating a ‘plug and fight’
+other items on the market, creating a 'plug and fight'
 capability which still excludes non-military systems.
 Any attempt to hack a military electronic system using
 civilian systems is subject to DM-2 even if an interface
@@ -2245,7 +2245,7 @@ substances or other means. If a target is thoroughly
 doused in cryogenic fluids then struck - even quite
 lightly – it may shatter. Cryogenic demolition is very
 destructive, inflicting twice the damage delivered by the
-cryogenic weapon once the ‘tap’ is applied. If the target
+cryogenic weapon once the 'tap' is applied. If the target
 is simply doused in cryogenic fluid and left alone, it
 suffers normal damage.
 
@@ -2319,8 +2319,8 @@ kind of grip for the firing hand or the equivalent for
 creatures without hands as such. The cost and weight of
 the receiver is used as a baseline for other components,
 whose characteristics are given as a percentage of the
-receiver’s cost or weight. The type of receiver used also
-determines the weapon’s base Quickdraw score.
+receiver's cost or weight. The type of receiver used also
+determines the weapon's base Quickdraw score.
 
 **The barrel** determines many characteristics of a weapon
 such as its effective range, and may modify damage. In
@@ -2345,13 +2345,13 @@ magazine or belt, since obviously projectile weapons
 need ammunition.
 
 Feed devices can vary considerably from one weapon to
-another. Some are implicit in a weapon’s design, such
-as a revolver’s cylinder or the chamber of a single shot
+another. Some are implicit in a weapon's design, such
+as a revolver's cylinder or the chamber of a single shot
 breachloader. If a detachable feed device is used, its
 capacity is normally determined by the base value for
 the weapon type. The capacity of a feed device is a
 matter for referee discretion; it can be set at any value
-from 50%-150% of the weapon’s base capacity. Thus
+from 50%-150% of the weapon's base capacity. Thus
 when deciding on the capacity of a standard semi-
 automatic pistol the referee may set it anywhere from
 5 to 15 rounds since the base capacity of a standard
@@ -2362,7 +2362,7 @@ When designing a weapon, the following steps are taken in order. Sometimes it ma
 return to an earlier step if the results are not satisfactory but this is generally straightforward unless the
 ammunition type is to be changed.
 
-1. Decide the weapon’s general type (rifle, pistol and so forth).
+1. Decide the weapon's general type (rifle, pistol and so forth).
 2. Choose an ammunition type or power source.
 3. Choose a receiver and mode of operation (breachloader, semi-automatic and so forth).
 4. Assign barrel length.
@@ -2377,7 +2377,7 @@ every further modification or accessory will add to the weapon.
 
 The referee may choose to apply modifications to cost and weight based on cosmetic factors, manufacturer
 prestige or similar in-game details which do not affect the overall performance of the weapon. Weights and
-prices can be rounded off to suitably ‘tidy’ values. Small changes such as adding or removing a point or
+prices can be rounded off to suitably 'tidy' values. Small changes such as adding or removing a point or
 two of damage can be added by the referee to create more variation in weaponry available.
 
 THE ADVANCED
@@ -2392,7 +2392,7 @@ but where there are multiple variations or different
 ammunition types in use it is easy to lose track. Most
 component costs and weights are based on the cost and
 weight of the receiver once it has been configured to
-the user’s desires. A blank worksheet at the back of this
+the user's desires. A blank worksheet at the back of this
 book can be photocopied, or downloaded for free from
 our web site.
 
@@ -2417,18 +2417,18 @@ Special Features
 Calculated values should be used on the
 worksheet, and exact figures retained so that
 alterations or modifications are easy to calculate.
-Rounded values should be used in the weapon’s
-stat block. With the referee’s approval values can
+Rounded values should be used in the weapon's
+stat block. With the referee's approval values can
 be rounded off to the nearest Cr10, 0.1kg or a
 similar level of detail.
 
 A weapon can be given a special feature at the
-referee’s discretion. A point or two of damage,
+referee's discretion. A point or two of damage,
 slightly amended weight, cost or ammunition
 capacity are all permissible for referee-developed
 weapons. The Travellers should not be allowed to
 tweak their own designs in this manner without
-the referee’s oversight.
+the referee's oversight.
 
 **Weapon: Generic 6 Revolver**
 
@@ -2487,7 +2487,7 @@ with a power source. It does not eliminate noise and
 flash, and the power source gives the weapon the
 Emissions Signature trait. This is normally (minimal)
 as the spark is brief and contained within a metal
-weapon. Electrically initiated weapons are favoured by
+weapon. Electrically initiated weapons are favored by
 some users as they have less moving parts – this can
 be important in a very dirty environment – and can
 achieve a higher rate of fire than weapons which rely on
@@ -2507,9 +2507,9 @@ used in weapons designed for it – which are also more
 expensive to produce.
 
 Some very ecologically friendly governments insist on
-‘green’ ammunition which uses non-toxic, biodegradable
+'green' ammunition which uses non-toxic, biodegradable
 propellants and cartridge case materials. This is an
-example of what might be called ‘novelty’ ammunition.
+example of what might be called 'novelty' ammunition.
 Costs start at twice the price of conventional
 ammunition and can be much higher depending on the
 stipulations of the user.
@@ -2517,13 +2517,13 @@ stipulations of the user.
 RECEIVER
 
 CONFIGURATIONS
-The configuration of a weapon is relevant to how ‘handy’
+The configuration of a weapon is relevant to how 'handy'
 it is at close quarters, how bulky, and how accurate it is
 at range.
 
 Test Range and Effective Range
 The ranges for ammunition types given here are
-based on the round’s performance through a
+based on the round's performance through a
 test barrel equivalent to a rifle-length weapon.
 This is the range to which the ammunition will
 remain reasonably accurate. It will travel further,
@@ -2571,7 +2571,7 @@ ammunition, though pistol or snub weapon calibres
 are most common. A handgun receiver has a base
 Quickdraw 4.
 
-**Assault Weapons:** The term ‘assault weapon’ in this
+**Assault Weapons:** The term 'assault weapon' in this
 context refers to weapons designs for use at short range,
 such as in urban combat or inside a space vessel.
 Most assault weapons are chambered for pistol or snub
@@ -2581,7 +2581,7 @@ normally require both hands to use effectively, but can
 be fired one-handed with DM-2 on attack rolls.
 
 Assault weapons are almost always constructed for burst
-or full-automatic fire, at no additional cost. ‘Civilian’
+or full-automatic fire, at no additional cost. 'Civilian'
 versions, capable of semi-automatic fire only, are typically
 available at the same cost. It is generally possible to
 convert these back to full-automatic with a few simple
@@ -2645,7 +2645,7 @@ reduce the receiver cost by 75%.
 Repeater: Repeater weapons carry multiple rounds of
 ammunition but require either direct action from the
 user (such as with a pump-action shotgun or bolt-action
-rifle) or are cocked and then fired by the user’s actions
+rifle) or are cocked and then fired by the user's actions
 (such as a double-action revolver). This makes them
 relatively slow-firing. A repeater mechanism reduces
 receiver cost by 50%. A weapon with a repeater action
@@ -2684,16 +2684,16 @@ Rapid-Fire: A Rapid-fire (RF) weapon is designed to
 deliver a very large amount of ammunition in a short
 space of time. This can be wasteful but is highly
 destructive. Rapid-fire capability is denoted by the RF
-code after the weapon’s Auto score. A rapid-fire weapon
+code after the weapon's Auto score. A rapid-fire weapon
 must have a high Auto score (at least 4) and also
 delivers such intense firepower that damage is increased
-relative to a ‘mere’ automatic weapon of the same
+relative to a 'mere' automatic weapon of the same
 calibre. RF weapons do an extra dice of damage per
 three full dice an automatic weapon of the same calibre
 would deliver. RF capability can be created by using a
 multiple mount, or simply a weapon with an extremely
 high rate of fire. Rapid-fire capability multiplies base
-cost by the weapon’s Auto score +2. Thus a rapid-fire
+cost by the weapon's Auto score +2. Thus a rapid-fire
 weapon with Auto 4 increases base cost by 4+2 = 6.
 Rapid-fire capability adds the Bulky trait and multiplies
 base weight of the receiver by 2. An RF (or VRF) weapon
@@ -2710,7 +2710,7 @@ capability. Alternatively, a weapon can be converted to
 RF by increasing its Auto score to at least 4 and using
 powered or forced feed and initiation, such as that
 used in a chain gun. A powered feed system triples the
-cost and weight of the weapon’s receiver, and is only
+cost and weight of the weapon's receiver, and is only
 feasible on longarms, light support weapons or support
 weapons. An RF weapon generates Heat at a rate equal
 to its Auto score plus twice its damage dice, so an Auto
@@ -2760,7 +2760,7 @@ particularly one using automatic fire, can be a problem
 for those without proper training. The mass of a weapon
 helps absorb recoil, so creating an extremely powerful
 handgun or one capable of automatic fire can make
-it uncontrollable. A weapon’s Recoil score is equal to
+it uncontrollable. A weapon's Recoil score is equal to
 its base number of damage dice plus its Auto score if
 it is being used for fully-automatic or burst fire. The
 following modifiers are applied to this score:
@@ -2775,23 +2775,23 @@ Light Support Weapon: -8
 
 A user can fully control any weapon whose Recoil is
 equal to or lower than their Gun Combat skill. If the
-Recoil of the weapon is higher than the user’s skill level,
+Recoil of the weapon is higher than the user's skill level,
 a negative DM is imposed equal to the difference. Thus
 a Traveller with Gun Combat 1 shooting a standard
 handgun doing 3D damage will have no problems
-handling the weapon’s Recoil 3 (from its 3D of damage),
--2 for the mass of the handgun. The weapon’s Recoil 1
-is equal to or less than the Traveller’s Gun Combat skill.
+handling the weapon's Recoil 3 (from its 3D of damage),
+-2 for the mass of the handgun. The weapon's Recoil 1
+is equal to or less than the Traveller's Gun Combat skill.
 If the Traveller converted this pistol to fully-automatic
 
-fire with Auto 3, the weapon’s Recoil would be (3+3-
-2) = 4, imposing DM-3 on the Traveller’s attempt to
+fire with Auto 3, the weapon's Recoil would be (3+3-
+2) = 4, imposing DM-3 on the Traveller's attempt to
 hit anything with automatic fire. This stacks with any
 penalty for a Bulky weapon – there are some people who
 should not be given fully automatic shotguns!
 
 RECEIVER FEATURES
-Once the general characteristics of a weapon’s receiver
+Once the general characteristics of a weapon's receiver
 are known, any special features can be added. Most
 features are compatible with one another – for example
 it is possible to make a weapon both Rugged and Light-
@@ -2801,12 +2801,12 @@ cannot be applied. For example, a weapon cannot be
 both Compact and Very Compact.
 
 **Functional Features**
-Functional features improve or alter a weapon’s function
+Functional features improve or alter a weapon's function
 without adding any new capabilities.
 
 **Advanced Projectile Weapon:** At TL9 and higher, weapon
 designers can use advanced technology to improve a
-weapon’s overall performance without affecting weight or
+weapon's overall performance without affecting weight or
 bulk – effectively wringing more out of the same weight
 and volume of weapon. Advanced Projectile Weapons
 cost 25% more than conventional projectile weapons
@@ -2829,7 +2829,7 @@ increases Quickdraw by +2. However, the location of the
 ejection port, if the weapon has one, means that it must
 be set up for a right- or left-handed shooter and cannot
 be used in the wrong hand without flinging hot cartridge
-cases at the user’s head. A Bullpup weapon must have a
+cases at the user's head. A Bullpup weapon must have a
 full stock, as the feed mechanism is contained within it.
 
 **Compact:** A Compact receiver adds 25% to the cost of
@@ -2854,19 +2854,19 @@ ity. This removes 5 points of Heat from the weapon
 per round whether it is fired or not. The heat has to go
 somewhere, however, and the system itself has a capac-
 ity only of 25 points of Heat. However, it can be plugged
-into a heat sink such as a ‘chill can’ (see page 127)
+into a heat sink such as a 'chill can' (see page 127)
 which can then be discarded when its capacity is used
 up. Alternatively, a support cooling system can be used,
 which is not portable but has a much higher capacity.
 An Advanced Cooling System adds 20% to the weight of
-a weapon’s receiver and 50% to its cost.
+a weapon's receiver and 50% to its cost.
 
 Guidance System: Guidance Systems are only available
 for weapons capable of launching missiles. Without one,
-a missile launcher can only use ‘dumb’ unguided muni-
-tions. A Guidance System interacts with the missile’s
+a missile launcher can only use 'dumb' unguided muni-
+tions. A Guidance System interacts with the missile's
 onboard electronics if they are present – it cannot guide
-a ‘dumb’ weapon but can certainly launch one. A Guid-
+a 'dumb' weapon but can certainly launch one. A Guid-
 ance System adds 50% to the cost of the launcher.
 
 High Capacity: A High Capacity weapon is typically wider
@@ -2886,7 +2886,7 @@ High Quality: A High Quality weapon is often finely
 decorated as well as being very well made. High Qual-
 ity starts at a 50% increase in the receiver cost, but
 there is no upper limit on how much the final design can
-cost. A High Quality ‘working’ weapon such as a sniper
+cost. A High Quality 'working' weapon such as a sniper
 rifle may look very ordinary, but grants DM+1 on attack
 at ranges beyond 100m when using a scope or similar
 sighting aid.
@@ -2898,7 +2898,7 @@ modification is still not capable of full-auto fire but can
 take advantage of increased damage from an improved
 Auto score. Burst-capable weapons start with Auto 2;
 full-auto weapons start with Auto 3. In addition to get-
-ting through a lot of ammunition, the weapon’s cost
+ting through a lot of ammunition, the weapon's cost
 and weight increases with each point of Auto added. A
 weapon whose Auto score is increased enough to add RF
 or VRF capability bases the cost of that modification on
@@ -2924,7 +2924,7 @@ and function reliably under most conditions. It may be
 frustrating and annoying to maintain however. Low Qual-
 ity reduces cost and imposes negative Traits, and can be
 imposed by poor materials or other conditions beyond the
-maker’s control rather than being a choice to make the
+maker's control rather than being a choice to make the
 weapon cheaper.
 
 A weapon that has Deficiency points must satisfy them by
@@ -2971,7 +2971,7 @@ used in combat. If it does malfunction, it imposes DM-4
 (-3 from Hazardous and -1 from Ramshackle) on the
 Malfunction table.
 
-Quickdraw: A weapon can be optimised for rapid-response
+Quickdraw: A weapon can be optimized for rapid-response
 situations, often to the exact specification of the user. A
 Quickdraw weapon increases cost by 20% and grants an
 additional Quickdraw +2 when being brought into ac-
@@ -2982,7 +2982,7 @@ Recoil Compensation: Various devices are available to
 help control the recoil of powerful weapons. Many rely
 on diverting some of the propellant gases in a direction
 that counters recoil, though other devices are available.
-All rob the projectile of a little of its energy. A weapon’s
+All rob the projectile of a little of its energy. A weapon's
 Recoil score (see page 32) can be reduced by up to 2
 at the cost of imposing +10% cost and +5% weight per
 point. A point of Recoil Compensation reduces damage
@@ -3006,7 +3006,7 @@ cost of the weapon and reduces mass by 20%. Base am-
 munition capacity is reduced by 50%.
 
 **Capability Features**
-These alter the weapon’s capabilities, typically adding new
+These alter the weapon's capabilities, typically adding new
 ones, or otherwise changing the nature of the weapon.
 
 **Armored:** Weapons can be armored and hardened to
@@ -3048,7 +3048,7 @@ search. A Basic Stealth weapon still looks like a gun,
 but has as many of its moving parts operating internally
 as possible and a minimum of projections to snag on
 clothing when being deployed. Basic Stealth adds 50%
-to the weapon’s cost.
+to the weapon's cost.
 
 Stealth, Extreme: Extreme Stealth weapons are made
 from exotic materials which are hard to detect with
@@ -3066,11 +3066,11 @@ Signatures by three levels (two with standard ammu-
 nition) and impose DM-6 on attempts to detect the
 weapon by device, search or observation (DM-4 if using
 standard ammunition). Most Extreme Stealth weapons
-are handguns, known colloquially as ‘body pistols’, but
+are handguns, known colloquially as 'body pistols', but
 other weaponry is possible. A disassembled Extreme
 Stealth rifle could be smuggled into a secure area with
 relative ease, and even carried intact such a weapon
-might evade detection by scans of the user’s luggage.
+might evade detection by scans of the user's luggage.
 
 Vacuum: Weapons intended for use in vacuum or a very
 low pressure atmosphere require specialist lubricants
@@ -3087,7 +3087,7 @@ modification increases receiver cost by 20%.
 Projectile Weapon Ammunition
 One big advantage of projectile weapons is the capability
 to deliver a range of ammunition types. The standard
-projectile used by most weapons is referred to as ‘ball’,
+projectile used by most weapons is referred to as 'ball',
 referring to the musket balls used by archaic weapons.
 Unless a weapon is specifically designed for a specialist
 type of ammunition, damage is given for ball ammunition.
@@ -3137,10 +3137,10 @@ Base Damage 3D-3. Cr75 per 100 rounds.
 Heavy Handguns are typically in the 11-12mm range.
 Base Damage 3D-1. Cr100 per 100 rounds.
 
-•  Light ammunition increases the weapon’s base
+•  Light ammunition increases the weapon's base
 capacity by 20% and reduces receiver cost by
 20%. Weight is reduced by 25%.
-•  Heavy ammunition decreases the weapon’s
+•  Heavy ammunition decreases the weapon's
 base capacity by 20% and increases receiver
 cost by 20%. Weight is reduced by 15%.
 Heavy handguns gain the Bulky trait. Larger
@@ -3184,8 +3184,8 @@ limited by the length of the weapon, with a capacity of
 
 Combat shotguns are typically chambered for a calibre
 around 18-20mm in diameter, though they are usually
-rated by a system of ‘gauges’ based on the mass of a
-lead ball the diameter of the weapon’s bore. The lower
+rated by a system of 'gauges' based on the mass of a
+lead ball the diameter of the weapon's bore. The lower
 the gauge number, the more powerful the smoothbore
 weapon. Smoothbore weapons possess the Inaccurate
 trait to some degree and may perform poorly against
@@ -3207,11 +3207,11 @@ range. Base Damage 4D. Cr150 per 100 rounds
 **Heavy Smoothbores** are typically in the 22-24mm range.
 Base damage 4D+4. Cr175 per 100 rounds
 
-•  Small ammunition increases the weapon’s base
+•  Small ammunition increases the weapon's base
 capacity by 40% and reduces weight by 40%.
-•  Light ammunition increases the weapon’s base
+•  Light ammunition increases the weapon's base
 capacity by 20% and reduces weight by 20%.
-•  Heavy ammunition decreases the weapon’s base
+•  Heavy ammunition decreases the weapon's base
 capacity by 20% and increases weight by 20%.
 
 Smoothbores are relatively low-velocity weapons and
@@ -3238,7 +3238,7 @@ in calibre. They typically use a long cartridge and
 relatively small bullet to produce high muzzle velocity.
 This translates into accuracy and penetration. Assault
 rifles are typically chambered for an intermediate
-cartridge of around 5-6mm calibre, with heavier ‘battle’
+cartridge of around 5-6mm calibre, with heavier 'battle'
 rifles using a 7-8mm cartridge. Due to the trade-off
 between velocity and bullet mass it is possible to
 obtain similar performance with a large, slow bullet or
@@ -3251,7 +3251,7 @@ weapons designed to attack objects rather than people
 may use larger calibres. Typically these are in the 12-
 15mm range. Heavy anti-materiel weapons in the 18-
 20mm range have a higher base damage. Conversely,
-very light rifle calibres do exist, mostly for ‘plinking’
+very light rifle calibres do exist, mostly for 'plinking'
 or hunting small game.
 
 Light Rifle calibres range from 4-5mm. Base Damage
@@ -3269,23 +3269,23 @@ Heavy Anti-Materiel Rifles calibres range from 18-
 20mm. Base Damage 6D. Cr3000 per 100 rounds.
 Heavy anti-materiel weapons gain the Very Bulky trait.
 
-•  Light ammunition increases the weapon’s
+•  Light ammunition increases the weapon's
 base capacity by 20% and decreases weight
 by 40%.
 •  Intermediate calibre ammunition decreases
 receiver weight by 20%.
 •  Battle calibre ammunition decreases the
-weapon’s base capacity by 20%.
-•  Heavy ammunition decreases the weapon’s
+weapon's base capacity by 20%.
+•  Heavy ammunition decreases the weapon's
 base capacity by 40% and increases receiver
 cost by 25%. Weight is increased by 10%.
 •  Anti-materiel ammunition decreases the
-weapon’s base capacity by 60% and increases
+weapon's base capacity by 60% and increases
 receiver cost by 150%. Weight is increased
 by 50%. It requires a light support weapon
 receiver at minimum.
 •  Heavy anti-materiel ammunition decreases the
-weapon’s base capacity by 80% and increases
+weapon's base capacity by 80% and increases
 receiver cost by 250%. Weight is increased by
 100%. It requires a support weapon receiver
 at minimum.
@@ -3339,7 +3339,7 @@ Archaic weapons have a very low muzzle velocity and
 begin with Penetration -2.
 
 Low-Recoil Weapons
-More commonly known as ‘snub’ weapons, low-
+More commonly known as 'snub' weapons, low-
 recoil special-purpose weaponry is a family of large-
 calibre, low-velocity weapons designed for use in
 low gravity. The use of a relatively heavy but low-
@@ -3374,7 +3374,7 @@ inaccurate, but not excessively so.
 Rocket projectiles cost twice as much as conventional
 firearm ammunition of the same calibre. Weapons
 that use them possess the Zero-G trait. The pressures
-experienced by ‘accelerator’ weapons – those that use
+experienced by 'accelerator' weapons – those that use
 rocket-propelled projectiles – are low compared to
 conventional firearms. Weapons can be more lightly
 built, halving receiver and barrel weight. Costs
@@ -3508,7 +3508,7 @@ Penetration
 +2
 
 - Values assume the smoothbore weapon is firing a solid projectile such as a musket ball or rifled slug from a combat
-shotgun. Pellet ammunition changes the weapon’s characteristics. Ranges are given for solid and pellet ammunition.
+shotgun. Pellet ammunition changes the weapon's characteristics. Ranges are given for solid and pellet ammunition.
 
 These projectiles can attain high velocities if they
 travel far enough, and range is not limited by barrel
@@ -3562,7 +3562,7 @@ velocity projectile weaponry.
 - Values assume the smoothbore weapon is firing a
 solid projectile such as a musket ball or rifled slug from
 a combat shotgun. Pellet ammunition changes the
-weapon’s characteristics. Ranges are given for solid and
+weapon's characteristics. Ranges are given for solid and
 pellet ammunition.
 
 SECONDARY
@@ -3572,7 +3572,7 @@ A secondary weapon can be fitted, usually under the
 barrel. Most commonly this is a grenade launcher or
 shotgun, but other configurations are possible. A sec-
 ondary weapon mounting costs and weighs 10% of the
-secondary weapon’s values. There is no need to provide
+secondary weapon's values. There is no need to provide
 a stock for a secondary weapon but it must have a bar-
 rel, receiver and any furniture the designer requires. A
 secondary weapon is separate from the primary, and is
@@ -3609,7 +3609,7 @@ Partial multi-barrel weapons have a firing chamber for
 each barrel but share a firing mechanism. This may
 be aligned with each barrel in turn, for example with
 a rotating firing pin, or the barrels may be aligned
-in turn in the manner of a ‘pepperbox’ pistol. This
+in turn in the manner of a 'pepperbox' pistol. This
 configuration is unusual but used in a few specialist
 weapons. Partial multi-barrel configuration does not
 add to the cost and weight of the receiver, but each
@@ -3636,10 +3636,10 @@ first removes one point of Heat from the weapon per
 round, whether it is firing or not.
 
 An alternative way to deliver increased firepower is to
-create an ‘organ gun’ with multiple complete weapons
+create an 'organ gun' with multiple complete weapons
 mounted together. At low Tech Levels these are often
 slow-loading weapons, creating a powerful one-shot
-effect. An ‘organ gun’ – as these weapons are called –
+effect. An 'organ gun' – as these weapons are called –
 is considered to have Auto 1 for every full four barrels
 firing simultaneously, so a 12-barrel organ gun made
 out of primitive muskets delivers an Auto 3 attack
@@ -3967,7 +3967,7 @@ Suppressor, Basic: A basic suppressor reduces weapon
 flash and noise a little without greatly affecting its
 performance. A basic suppressor reduces Quickdraw
 by -2 and Physical Signature by one level. It costs
-50% of the weapon’s receiver price. A basic suppressor
+50% of the weapon's receiver price. A basic suppressor
 imposes Inaccurate -1 and reduces effective range by
 25%. A basic suppressor adds 0.2kg to the weight of
 the weapon.
@@ -3975,19 +3975,19 @@ the weapon.
 Suppressor: A standard suppressor can be quite bulky
 and heavy. It reduces Quickdraw by -3 and Physical
 Signature by 2 levels. A suppressor costs 100% of the
-weapon’s receiver price. A standard suppressor imposes
+weapon's receiver price. A standard suppressor imposes
 Inaccurate -1 and reduces effective range by 50%. It
 also reduces Penetration by -1. A standard suppressor
 adds 0.3kg to the weight of the weapon.
 
 Suppressor, Extreme: An extreme suppressor is a heavy
-item, adding significantly to the weapon’s front-end
+item, adding significantly to the weapon's front-end
 weight and overall length. Quickdraw is reduced by
 -4 and Physical Signature by 3 levels. An extreme
 suppressor imposes Inaccurate -1 and reduces effective
 range by 75%. Penetration is reduced by -2 as the
 suppressor reduces muzzle velocity significantly. An
-extreme suppressor costs 200% of the weapon’s receiver
+extreme suppressor costs 200% of the weapon's receiver
 price. An extreme suppressor adds 0.5kg to the weight
 of the weapon.
 
@@ -4011,7 +4011,7 @@ of links, and so forth. Mercenaries do not, as a rule,
 go to the gun shop and buy a few loaded magazines.
 They typically purchase ammunition in crates and
 load up magazines, belts and other feed devices as
-needed. Thus the ‘magazine’ costs found in the Traveller
+needed. Thus the 'magazine' costs found in the Traveller
 Core Rulebook and Central Supply Catalogue do not
 
 generally apply to mercenaries. Even when buying in
@@ -4023,7 +4023,7 @@ As a general rule, magazines and feed devices can be
 bought individually at the prices shown, or in a pack of 6
 with a 10% discount. Crates generally hold 100 or more
 magazines, and typically bought at a discount of around
-30% plus whatever the unit’s procurement officer can
+30% plus whatever the unit's procurement officer can
 bargain for. This does not include ammunition.
 
 **Fixed Magazines:** Fixed magazines are part of the weapon
@@ -4037,7 +4037,7 @@ ammunition at all. If using a reload-assistance device
 such as a stripper clip, en-bloc clip or speedloader,
 2 minor actions are sufficient to place the contents
 of the loading device into the weapon. Such devices
-typically cost 1% of the weapon’s purchase price. A
+typically cost 1% of the weapon's purchase price. A
 fixed magazine reduces cost and weight of the receiver
 by 10%.
 
@@ -4049,11 +4049,11 @@ significant quantities at a time. A standard magazine
 holds whatever the ammunition capacity of the weapon
 has been determined to be, and does so without being
 unduly clumsy. If bought singly it will typically cost 1%
-of the weapon’s purchase price.
+of the weapon's purchase price.
 
 **Extended Magazines:** These are available for most weap-
-ons that use a detachable ‘box’ magazine. They may be
-longer, wider or use a ‘casket’ configuration. An extend-
+ons that use a detachable 'box' magazine. They may be
+longer, wider or use a 'casket' configuration. An extend-
 ed magazine can hold up to 50% more ammunition than
 standard, but sticks out of the weapon to a considerable
 degree. Extended magazines impose DM-2 during a
@@ -4071,8 +4071,8 @@ zine, as used in some shotguns and grenade launchers,
 does not suffer from this problem but must be manually
 
 reloaded in place. Drum magazines cost five times as
-much as standard ones. A fixed (or ‘semi-internal’) drum
-costs 5% of the weapon’s receiver cost.
+much as standard ones. A fixed (or 'semi-internal') drum
+costs 5% of the weapon's receiver cost.
 
 Belts: A belt can in theory hold as much ammunition
 as the user wants, and a loader can keep adding belt
@@ -4099,9 +4099,9 @@ a lightweight container which is discarded once empty.
 Such a device costs Cr10 plus the price of the ammu-
 nition inside. In some cases, ammunition cassettes of
 this type are shipped directly from the factory in loaded
-condition and cannot be reloaded outside the supplier’s
+condition and cannot be reloaded outside the supplier's
 own facilities. This practice is generally disliked by mer-
-cenaries as it ties them to the manufacture’s prices and
+cenaries as it ties them to the manufacture's prices and
 can cause problems if ammunition runs short.
 
 The weight of a loaded feed device is included in the
@@ -4122,7 +4122,7 @@ typically this a simple front blade and rear notch type,
 adjustable for range. At TL6 and above, it is usual
 for military weapons to have a basic optical sight as
 standard. This may have low magnification to assist in
-aiming and is typical of the ‘red dot’ reflex type. These
+aiming and is typical of the 'red dot' reflex type. These
 sights are rugged enough to survive being run over by a
 
 truck – if the rifle still works so will its sight. A reflex or
@@ -4130,8 +4130,8 @@ basic combat sight comes as standard on most military
 longarms, and does not add cost or weight. It provides
 a flat DM+1 on aimed or snap shooting but a positive
 Quickdraw is halved if the firer takes time to align
-even such a simple sight. For this reason many ‘point
-soldier’ and close-quarters weapons are not fitted with
+even such a simple sight. For this reason many 'point
+soldier' and close-quarters weapons are not fitted with
 optical sights.
 
 Mounting any type of scope (but not a laser pointer) on
@@ -4260,8 +4260,8 @@ front-end weight and reduces Quickdraw by -2.
 **Gravitic Support:** From TL12 upwards, gravitic support
 is available. This reduces a Very Bulky weapon to Bulky
 and eliminates the Bulky trait entirely. A gravitic support
-unit weighs 3x the weight of the weapon’s receiver when
-switched off, but effectively eliminates the weapon’s
+unit weighs 3x the weight of the weapon's receiver when
+switched off, but effectively eliminates the weapon's
 weight when activated. Gravitic support costs Cr2500
 per kg of the weapon.
 
@@ -4288,7 +4288,7 @@ does not add any weight.
 
 Stabilization: From TL9 upward, weapons can be
 gyrostabilized. A gyrostabilizer weighs 20% of
-the weapon’s receiver weight and costs Cr300. A
+the weapon's receiver weight and costs Cr300. A
 gyrostabilizer offsets an aiming DM up to -2 caused by
 movement or a poorly balanced weapon. This means
 it is possible to conduct aimed fire whilst moving,
@@ -4340,13 +4340,13 @@ capacity by 30%, down from 19 to 13, since there
 are commercially available light handgun magazines
 available in this sizing. Each 10% reduction in
 ammunition capacity reduces loaded weight by 5% and
-reduces the weapon’s cost by 5%. The Travellers want
+reduces the weapon's cost by 5%. The Travellers want
 a higher Auto trait for their PDW, selecting an increase
 from 3 to 4. This adds 10% cost and 5% weight.
 
 They now have a receiver for their weapon. Its raw
 cost is Cr420.75 and weight is 0.6425kg. With the
-referee’s approval these values are rounded off to
+referee's approval these values are rounded off to
 Cr420 and 0.64kg. This is the core mechanism of
 the new weapon, ready to be fitted with a barrel and
 any furniture or accessories the Travellers want. They
@@ -4397,7 +4397,7 @@ magazines are easily available on the open market.
 The Travellers are satisfied with the weapon despite its
 limitations and decide to work out its final values.
 
-Normally a magazine would cost 1% of the weapon’s
+Normally a magazine would cost 1% of the weapon's
 price, but since this weapon uses commercially
 available magazines for small handguns the cost of
 an empty magazine is based on 1% of the price of
@@ -4422,7 +4422,7 @@ in case it is useful. This will cost Cr9 plus the price of
 its 18 rounds of ammunition, or roughly Cr20 loaded
 and ready to go.
 
-The weapon’s short barrel means it has a low muzzle
+The weapon's short barrel means it has a low muzzle
 velocity, which has already been considered in regard
 to effective range. It also affects penetration, giving the
 weapon Penetration -1. Consulting the Final Penetration
@@ -4432,7 +4432,7 @@ doubled in value.
 
 The Travellers decide this handgun-sized weapon will be
 issued with one standard magazine in place (included
-in the weapon’s weight) and a spare plus two extended
+in the weapon's weight) and a spare plus two extended
 magazines (18 rounds each), all on a standardised rig.
 The whole thing comes in at under 1.5kg and does not
 get in the way when operating a vehicle, yet delivers
@@ -4440,26 +4440,26 @@ a lot of firepower to deter pursuit or cover a dash to a
 rescue vehicle.
 
 Full Dice of Damage
-Some effects are based on the number of ‘full
-dice of damage’ done by the weapon. This has
+Some effects are based on the number of 'full
+dice of damage' done by the weapon. This has
 nothing to do with any modified applied to the
 damage; it is based purely on the number of
 dice. In many cases, an effect might specify
-a number of full dice, such as ‘for every two
-full dice of damage’. In this case, a weapon
+a number of full dice, such as 'for every two
+full dice of damage'. In this case, a weapon
 that does 3D-3 damage or one that does 3D+3
 are treated the same – they both have three
 full dice of damage. If this weapon gains the
 AP trait at a level of one per two full dice
 of damage, it would gain AP 1. A Weapon
-doing 4D-2 would gain AP 2. At the referee’s
+doing 4D-2 would gain AP 2. At the referee's
 discretion, a modifier of -4 or +4, or greater,
 can be treated as an extra full dice of damage.
 
 SPECIAL
 
 AMMUNITION
-As noted elsewhere, most weapons use ‘ball’
+As noted elsewhere, most weapons use 'ball'
 ammunition; simple inert projectiles which deliver
 damage to the target by means of kinetic energy. If the
 projectile is altered but the cartridge dimensions are kept
@@ -4531,7 +4531,7 @@ projectile. It is intended for use against vermin, and has
 a very short effective range as a result. The wide and
 rapid spread of the flakes grants the Spread trait plus an
 additional DM+4 on checks attack rolls out to 5m, but
-the weapon’s Range is reduced to 10m. All Damage dice
+the weapon's Range is reduced to 10m. All Damage dice
 are reduced to D3s, and any D3s are reduced to a single
 point of Damage. Flechette ammunition costs the same
 as ball.
@@ -4575,7 +4575,7 @@ installations and spacecraft, but may be used to create
 a less-lethal response to low-threat situations. Low-
 penetration ammunition normally reduces Penetration
 by -1 but can be any value from -1 to -4. In addition
-to the effects of the weapon’s final Penetration, low-
+to the effects of the weapon's final Penetration, low-
 penetration ammunition converts each dice of damage to
 D3. D3s are converted to single points. Low-penetration
 ammunition costs the same as ball.
@@ -4585,13 +4585,13 @@ smoothbore weapons. Its primary advantage is the spread
 of pellets, which makes a hit at close range likely. Pellet
 ammunition gives the weapon the Spread trait. Damage
 is the same whether using ball or pellet, but pellets
-reduce Penetration by the weapon’s Spread score. They
+reduce Penetration by the weapon's Spread score. They
 also increase the chance of a knockdown (see page 22).
 Pellet ammunition costs the same as ball.
 
-**Smart (TL10):** Although commonly called ‘smart’, this
-ammunition is more correctly designated ‘limited-
-guidance’. It is only useful with a weapon mounting a
+**Smart (TL10):** Although commonly called 'smart', this
+ammunition is more correctly designated 'limited-
+guidance'. It is only useful with a weapon mounting a
 gun computer as no person can react quickly enough to
 keep a bullet on target. The user can choose whether to
 lock in a particular target then shoot, or to have the gun
@@ -4666,7 +4666,7 @@ Smart
 GRENADES, WARHEADS
 
 AND EXPLOSIVES
-The ‘dangerous bit’ of a missile or grenade is its payload,
+The 'dangerous bit' of a missile or grenade is its payload,
 and as a general rule payloads tend to be produced in
 standard sizes. Most warheads do one of two things; either
 they explode or they produce gas, smoke and similar cloud
@@ -4753,7 +4753,7 @@ propelled grenades have a base Range of 500m. Unguided
 RPGs have the Inaccurate trait, usually at -1 or -2.
 
 In archaic terminology, an emplaced charge might be
-known as a ‘torpedo’, though that term has changed
+known as a 'torpedo', though that term has changed
 considerably in its meaning. Today, a charge placed as
 a trap is normally termed a mine if of a pre-packaged
 type, and an improvised explosive (or incendiary) device
@@ -4766,8 +4766,8 @@ to attack vehicles from underneath or to throw a small
 anti-personnel device up to a pre-set height where it
 detonates. They present an all-round threat. Directional
 mines, available from TL6, is designed to fling numerous
-small projectiles in a cone from its ‘hostile’ face, with the
-area behind its ‘friendly’ face theoretically safe. Directional
+small projectiles in a cone from its 'hostile' face, with the
+area behind its 'friendly' face theoretically safe. Directional
 mines are usually anti-personnel devices but some
 inventive ideas have been marketed at times.
 
@@ -4808,11 +4808,11 @@ Hand-thrown anti-armor grenades suffer DM-2 to attack
 rolls, and all grenades of this type have a small blast radius
 compared to area-effect types. Damage is 4D, with AP 8.
 
-Baton: Baton rounds, otherwise known as ‘rubber bullets’,
+Baton: Baton rounds, otherwise known as 'rubber bullets',
 are designed to cause shock, knockdown and possibly a
 stunning effect without being lethal. They are normally
 available as cartridge grenades only, though in theory the
-payload could be flung at someone’s head. Small-calibre
+payload could be flung at someone's head. Small-calibre
 baton rounds, when used as a cartridge grenade payload,
 are treated as mini-grenades. Full-calibre rounds are
 treated as standard grenades. At lower Tech Levels, instead
@@ -5003,15 +5003,15 @@ usual sense – they use their fuel instantly but may set fire
 to other materials.
 
 Smoke/Thermosmoke: Low-tech smoke grenades are
-‘burning’ types which produce smoke slowly and can set
+'burning' types which produce smoke slowly and can set
 fire to nearby flammable objects. More advanced smoke
-grenades rely on a ‘cold’ chemical reaction to rapidly
+grenades rely on a 'cold' chemical reaction to rapidly
 create a cloud of suspended particles. Either way, smoke
 completely obscures vision and blocks lasers. A cloud will
 
 thickly fill a 3x3x3m volume and will spread throughout a
 wider area. It persists 1Dx3 minutes unless dissipated by
-wind. At TL8, thermosmoke grenades produce a ‘warm’
+wind. At TL8, thermosmoke grenades produce a 'warm'
 cloud, not hot enough to set anything on fire but entirely
 sufficient to block thermal sensors.
 
@@ -5127,7 +5127,7 @@ Launchers are constructed one of two ways, depending
 on their projectile. Those that launch a rocket-propelled
 grenade or missile typically have only one primary
 component, the receiver, which is normally assumed
-to include the weapon’s equivalent of a barrel and
+to include the weapon's equivalent of a barrel and
 a suitable shoulder stock or similar furniture. They
 may have additional components; electronics and the
 like can be added as accessories. Cartridge grenade
@@ -5138,7 +5138,7 @@ low-powered propulsion used in cartridge grenades to
 keep recoil manageable makes a weapon with a handgun
 length barrel or shorter pointless. The grenade would
 not reach sufficient velocity to travel farther than a few
-metres before falling to the ground. It may or may not
+meters before falling to the ground. It may or may not
 arm in that distance.
 
 The effectiveness and effects of any kind of launcher
@@ -5175,7 +5175,7 @@ majority of tube launchers are designed as a standard
 receiver which can be configured for attachment to a
 longarm or as a standalone weapon. Most tube launchers
 are single shot weapons, though some magazine-fed
-variants do exist. ‘Grenade machineguns’ require a
+variants do exist. 'Grenade machineguns' require a
 support grenade launcher receiver and a suitable mount.
 
 A grenade launcher designed to fit under a rifle does not
@@ -5208,7 +5208,7 @@ grenade launchers.
 
 **Reusable Launchers (TL6+):** Reusable launchers may
 be fully reusable or utilise a container/barrel system
-for each missile. ‘Dumb’ launchers are not uncommon
+for each missile. 'Dumb' launchers are not uncommon
 with mid-tech troops, typically in an anti-armor role. A
 reusable launcher is purchased as a whole unit, which
 is assumed to include furniture and whatever passes
@@ -5218,10 +5218,10 @@ full weight to the weapon, plus 10%.
 
 Reusable launchers are subdivided into two categories
 
-- light and heavy. Both generate significant ‘backblast’
+- light and heavy. Both generate significant 'backblast'
 when firing and are dangerous to use in a confined
 space. Light launchers are intended to be carried as
-an additional piece of a soldier’s combat load, though
+an additional piece of a soldier's combat load, though
 they are rather weighty, whilst heavy launchers are the
 primary weapon of a soldier or small team. Additional
 ammunition is usually distributed among the unit.
@@ -5231,13 +5231,13 @@ deployed by a squad to provide heavy fire support. The
 weapon includes a base plate and slewing mechanism.
 Such weapons typically have 2 or 4 tubes, which
 must be manually reloaded after launch. Costs are for
-a ‘dumb’ launcher with basic manual controls. More
+a 'dumb' launcher with basic manual controls. More
 advanced missile guidance will push up the overall
 cost of the unit – munitions costs and weights are not
 included but the weight of a full set of missiles is.
 
 Designing Missile Launchers
-When designing most weapons, the ‘loaded weight’
+When designing most weapons, the 'loaded weight'
 is calculated assuming a normal magazine or feed
 device in place. This is for convenience and close
 enough for small arms. When designing a missile
@@ -5297,7 +5297,7 @@ Some projectors use chemicals which, when mixed in
 small quantities, create a propellant gas.
 Fuel: Whilst some projectors do not project a burning
 fuel, all projectors use the term for convenience. In
-some cases the ‘fuel’ may be generated by a chemical
+some cases the 'fuel' may be generated by a chemical
 reaction inside the fuel container, and this may
 sometimes be combined with generation of propellant.
 
@@ -5331,9 +5331,9 @@ used to attack just one target unless there is no-one
 else nearby. Projectors have the Blast trait at a level
 determined by their type. All targets within that area
 are subjected to an area fire attack. At up to half the
-projector’s effective range this is treated as Intense. Out
+projector's effective range this is treated as Intense. Out
 to its full effective range it is a Typical area fire attack
-and at up to the weapon’s extreme range the area fire is
+and at up to the weapon's extreme range the area fire is
 treated as Weak.
 
 Projector Structure
@@ -5355,7 +5355,7 @@ to be mounted on a vehicle or trolley, and a hand-held
 wand to direct the attack. A large projector can carry a
 maximum of 20kg of payload without being unwieldy. Its
 frame and mechanical parts weigh 30% of its payload
-maximum and cost Cr50 per kilogram of the weapon’s
+maximum and cost Cr50 per kilogram of the weapon's
 total weight. Due to the relative lightness and mobility
 of the wand a large projector has Quickdraw 2, but most
 users would not want to be in a situation where that
@@ -5414,7 +5414,7 @@ increasing effective range to 25m. Supercompressed gas
 costs Cr250 per kg.
 
 **Generated Gas (TL9):** Generated gas becomes available at
-TL9. Using a rapid chemical reaction between ‘tablets’ of
+TL9. Using a rapid chemical reaction between 'tablets' of
 chemicals a high-pressure gas is created almost instantly.
 Generated gas gives 10 attacks per kg and increases
 effective range to 30m. Generated gas machinery costs
@@ -5438,7 +5438,7 @@ usually possible to choose whether the fuel is ignited
 at the nozzle or sprayed on the target then ignited by
 some other means such as an incendiary grenade.
 1kg of fuel is sufficient to make one attack with any
-projector weapon. It can be assumed that ‘fuel’ refers
+projector weapon. It can be assumed that 'fuel' refers
 to everything needed to cause fire, which may include
 an oxidising agent for weapons intended to be used in
 oxygen-poor atmospheres.
@@ -5494,8 +5494,8 @@ and delivers Damage 4D to unprotected targets.
 DIRECTED ENERGY
 
 WEAPONS
-Energy weapons, sometimes referred to as ‘directed
-energy weapons’, project a beam or pulse of energy. To
+Energy weapons, sometimes referred to as 'directed
+energy weapons', project a beam or pulse of energy. To
 be effective as a weapon this must be tightly collimated.
 Even so, the beam will spread out and lose its effect.
 This happens more quickly the denser the atmosphere
@@ -5554,7 +5554,7 @@ necessary to specify the nature of the powerpack and
 whether it is integral to the weapon or connected to
 it by a cable. This should be done before the weapon
 itself is designed, as powerpack types impose some
-limitations. There are no ‘calibres’ of energy weapon as
+limitations. There are no 'calibres' of energy weapon as
 such, since the output depends on how much power is
 available and the beam or pulse generating machinery.
 However, the power source has to be capable of
@@ -5587,7 +5587,7 @@ normal maximum damage output and the damage
 output of the weapon. Thus if the Travellers connect
 a Light powerpack to their heavy support laser, the
 weapon gains the Unreliable trait at a level determined
-by the difference between the weapon’s damage
+by the difference between the weapon's damage
 output – in this case 7D – and the maximum the Light
 pack can safely handle. This is 3D, so the weapon
 gains Unreliable 4. Most of the time this weapon
@@ -5629,7 +5629,7 @@ TL Power per Kilogram Cartridge Maximum Output
 12 1,000 Heavy
 
 Cost for weapon powerpacks is determined by the
-weapon’s maximum output.
+weapon's maximum output.
 
 Powerpack Costs
 Type Cost Per kg
@@ -5705,7 +5705,7 @@ Laser weapons with Short barrels are limited in terms of
 the damage they can deliver, as a result of early beam
 dissipation. A full-length (Rifle) barrel or longer has no
 upper limit on laser power, but shorter barrels waste
-some of the weapon’s power. A Carbine or Assault barrel
+some of the weapon's power. A Carbine or Assault barrel
 is limits power to 4D damage. Handgun and Short
 barrels have a maximum Damage 3D, and a Minimal
 barrel can deliver a maximum of Damage 2D. This
@@ -5743,7 +5743,7 @@ receiver weight and increasing cost by 25%.
 
 Variable Intensity (TL10): A variable-intensity
 modification allows the user to set the damage dealt
-by each shot, up to the weapon’s normal maximum.
+by each shot, up to the weapon's normal maximum.
 Powerpack weapons draw only enough power for the
 shot, but cartridges are fully expended even on a low
 power setting. The mechanism includes the capability
@@ -5759,7 +5759,7 @@ to its weight.
 
 The choice of weaponry used by a mercenary formation
 is often dictated by what is available. Where there is a
-choice, general-purpose systems are usually favoured
+choice, general-purpose systems are usually favored
 over highly specialized ones. Availability of ammunition
 and ease of maintenance are both important factors as
 well. Mercenary units would, on the whole, prefer to be
@@ -5771,7 +5771,7 @@ are often used by mercenaries as a shorthand for what
 weaponry they are likely to face or be able to obtain.
 
 **Low Tech (TL0-4)**
-There is a limit to how low-tech a unit’s equipment can
+There is a limit to how low-tech a unit's equipment can
 be without becoming ineffective, but many items can
 be obtained at low Tech Levels or fielded by opposing
 forces. A musketball or even an arrow can put a high-tech
@@ -5798,7 +5798,7 @@ work alongside will be equipped to this level.
 
 **Common Tech (TL8-10)**
 The majority of mercenary formations use equipment
-mostly from the ‘common tech’ band – hence its
+mostly from the 'common tech' band – hence its
 name. This is mainly due to availability and ease of
 
 maintenance. Beyond this point conventional firearms do
@@ -5841,18 +5841,18 @@ way. The latter are better suited to use as tools than
 pure combat knives. Indeed, some very fine combat
 knives have a bad reputation as a result of being used
 to open coffee cans and becoming bent or blunted. A
-unit’s preference for field knives may vary, and it is not
+unit's preference for field knives may vary, and it is not
 uncommon to find a large knife/bayonet in service as
 a general tool and weapon, with a small stabbing knife
-secreted somewhere about the mercenary’s person.
+secreted somewhere about the mercenary's person.
 Although the mode of use varies, performance in skilled
 hands is about the same.
 
-The term ‘blade’ is used in generic fashion by mercenaries for large survival or tool knives of the
+The term 'blade' is used in generic fashion by mercenaries for large survival or tool knives of the
 Bowie type, machetes and similar heavy-bladed cutting implements, and a range of tool/fighting
 weapons produced at spacefaring Tech Levels. Military field blades generally feature a stirrup
 handguard and minimal crosspiece, but the whole array of hangars and not-quite swords falls
-under this distinction. Blades are favoured by mercenaries for their use as tools and ease of carry.
+under this distinction. Blades are favored by mercenaries for their use as tools and ease of carry.
 A blade can be used by a skilled fighter to counter a sword or similar hand weapon, albeit at a
 slight disadvantage, and is much easier to carry.
 
@@ -5876,7 +5876,7 @@ Sabres are carried by some officers as a dress sword
 which might be pressed into service in an emergency.
 They can also be encountered in the hands of low to
 mid-tech cavalry. Designs and weights vary, with most
-having a curved blade optimised for cutting attacks.
+having a curved blade optimized for cutting attacks.
 Straight-bladed weapons of a similar design might
 be referred to as sabres or by other titles such as
 backswords or broadswords. Hand protection varies
@@ -5936,7 +5936,7 @@ basic TL6 riot shield is usually round or rectangular
 and made of fireproof material. It is used in the same
 way as a low-tech shield but also protects the user from
 small flame weapons such as Molotov cocktails and
-adds +1 to the user’s Protection against firearm attacks.
+adds +1 to the user's Protection against firearm attacks.
 At TL8 an advanced version becomes available which
 incorporates a single shot grenade discharger, normally
 loaded with an incapacitant gas grenade but could be
@@ -5954,7 +5954,7 @@ BOARDING SHIELD
 Boarding shields are known by various names.
 Planetside security often call them entry shields, whilst
 some are marketed under extravagant titles such as
-‘mobile field barricade segment’. The function of these
+'mobile field barricade segment'. The function of these
 large, slab-fronted objects is much the same in every
 case. A boarding shield is far too large and heavy to
 parry with; it is a piece of mobile cover designed to
@@ -5967,7 +5967,7 @@ completely protects anyone hiding behind it and is large
 enough that two people can use it or move it forward
 whilst remaining reasonably well covered. When moving
 or firing from behind a boarding shield, the user(s) can
-be hit, but the shield imposes DM-2 on opponents’
+be hit, but the shield imposes DM-2 on opponents'
 attack rolls. It provides Protection +12. Most boarding
 shields are designed to be linked together using quick-
 release fittings on their sides, enabling a protected
@@ -5997,7 +5997,7 @@ shotgun but relatively short double-barrelled shotguns
 - usually with a carbine-length barrel – are sometimes
 encountered. These weapons are not much of a threat to
 armored troops, but nobody wants to be hit by one. This
-representative example is a full-length ‘farmer’s shotgun’
+representative example is a full-length 'farmer's shotgun'
 firing light smoothbore ammunition. At TL3, essentially
 the same weapon exists but using a flintlock mechanism,
 imposing the Unreliable 1 trait.
@@ -6034,7 +6034,7 @@ people. Typically weight is reduced to around 3kg.
 
 Weapons of this sort are rarely offered for sale in
 reputable gun shops but are easy enough to convert
-from a ‘legitimate’ sporting gun. Some users produce
+from a 'legitimate' sporting gun. Some users produce
 their own exotic ammunition for such weapons.
 
 CIVILIAN SHOTGUN
@@ -6070,7 +6070,7 @@ Sawed-Off
 Lo-Pen 2, Physical
 Signature (normal)
 
-The ‘crunch gun’ is named for its distinctive sound.
+The 'crunch gun' is named for its distinctive sound.
 The earliest models appear at late TL3, using black
 powder and a flintlock mechanism. By TL4 a cartridge
 version is available. These weapons are an upscaled
@@ -6153,12 +6153,12 @@ custom-made and others converted from more advanced
 weaponry. It is not uncommon to find the barrel of a
 modern assault rifle fitted to a beautifully carved home-
 made stock with a single shot flintlock mechanism.
-These weapons’ lack of complexity make them ideal for
+These weapons' lack of complexity make them ideal for
 low-tech hunters and insurgents; ammunition is easy
 to make and breakdowns simple to repair. Some jazails
 are crude things but many are objects of pride, with
 the ugly industrial barrel shrouded in carved wood or
-decorated to suit the user’s preferences.
+decorated to suit the user's preferences.
 
 Weapon: Flintlock Jazail
 Type: Longarm
@@ -6199,7 +6199,7 @@ Weapons intended for security work generally combine effectiveness at short rang
 intimidation. The large bore of a combat shotgun is generally more likely to dissuade a potential opponent than a
 rifle, even though the latter is probable more lethal. Security and self-defence weapons are generally used at close
 range, where a one-shot knockdown is more important than potential lethality. Ease of carry is also a factor with
-personal defence weaponry. Handguns and mini-submachineguns are favoured by many users, but there are other
+personal defence weaponry. Handguns and mini-submachineguns are favored by many users, but there are other
 options on the market.
 
 One of several unusual handguns marketed by Ailene
@@ -6214,7 +6214,7 @@ or a number of specialist payloads. As a large-calibre
 smoothbore in a handgun frame it kicks hard and is
 inaccurate at any sort of distance, but its chunky and
 generally down-to-business air of authority adds weight
-to any argument. Adjudicators are favoured by some
+to any argument. Adjudicators are favored by some
 personnel who venture into the wilderness, as they can
 be loaded with flechettes for use as snakeshot or with
 signalling rounds.
@@ -6352,7 +6352,7 @@ on clothing. Its lack of external moving parts or a need
 to eject cartridges allows the weapon to be fired from
 inside a pocket or bag if necessary. Users generally
 accept the high price tag in return for having a highly
-effective pocket pistol if they need one. The GC-24’s
+effective pocket pistol if they need one. The GC-24's
 high rate of fire gets through ammunition quickly, and
 even with a capacity of 24 rounds this is not a weapon
 for a sustained firefight... but that is not what it was
@@ -6402,20 +6402,20 @@ Emissions Signature
 Anhur Industries markets two primary variants of its
 flagship GS-40 gauss sidearm, both built on the same
 receiver and using the same magazines. The GS-40
-‘Army Model’ has a conventional length barrel and is
-otherwise a standard gauss pistol. The ‘Navy Model’
+'Army Model' has a conventional length barrel and is
+otherwise a standard gauss pistol. The 'Navy Model'
 has an extended barrel more suited to a short assault
 weapon, allegedly reflecting the preferences of certain
-world governments’ navies. Purchasers of the Navy
+world governments' navies. Purchasers of the Navy
 Model have the option of a detachable shoulder stock
 
 - available in high-impact polymer or gorgeously carved
 wood – which allows the weapon to be used as a sort of
 carbine. The stock has an internal compartment housing
 a holographic sighting device, the sensor for which
-is located under the pistol’s barrel. How many users
+is located under the pistol's barrel. How many users
 would seriously consider this a combat weapon is open
-to debate, but it has found favour in the competitive
+to debate, but it has found favor in the competitive
 shooting community.
 
 Weapon: GS-40 (Army Model)
@@ -6460,10 +6460,10 @@ Cr460/500 40 Cr25 +4 AP 4, Auto
 Signature (low),
 Scope
 
-Colvery’s Stowaway is marketed as a concealable
+Colvery's Stowaway is marketed as a concealable
 emergency weapon for self-defence, but in truth it is better
 suited to assassination. Built from exotic and expensive
-materials, the weapon uses caseless ‘stealth’ ammunition
+materials, the weapon uses caseless 'stealth' ammunition
 and does not need to eject cartridges. Moving parts are
 minimal, and all are internal. The Stowaway has grip and
 trigger safeties but is otherwise ready to fire the instant
@@ -6474,7 +6474,7 @@ mid-burst. All autofire attacks must be directed against
 the same target. The result is a near-instant dump of
 small-calibre bullets into the target. The inevitable slight
 movement of the muzzle creates a phenomenon called
-‘zippering’, with multiple narrow wound tracks close
+'zippering', with multiple narrow wound tracks close
 together. This makes the resulting wound difficult to treat
 even though each round is not very potent.
 
@@ -6541,10 +6541,10 @@ velocity, limiting range, penetration and stopping power.
 However, as a concealed backup gun or emergency
 weapon to be carried in a vehicle the Liberator is viable.
 
-Sometime after the derringer’s introduction, Hangul
+Sometime after the derringer's introduction, Hangul
 began marketing a variant with a much longer barrel,
-equivalent to a short submachinegun. This ‘Liberator
-Defender’ model shares the derringer’s top-break
+equivalent to a short submachinegun. This 'Liberator
+Defender' model shares the derringer's top-break
 loading mechanism and carries only four rounds, but it
 hits hard and can be useful in an emergency. The ability
 to manually load the four chambers with specialist
@@ -6580,7 +6580,7 @@ of the derringer conceal it in a pocket or under clothing.
 Either variant can be loaded with a single round of
 any compatible ammunition type in a minor action,
 but requires four minor actions to fully reload. The
-derringer’s poor performance against armor can be
+derringer's poor performance against armor can be
 
 offset with HEAP ammunition if available. Both versions
 use a standard heavy pistol calibre, making access to
@@ -6631,20 +6631,20 @@ MULTI-BARREL WEAPON SYSTEM
 
 Combat shotguns can be produced at TL4 upwards, and
 are ubiquitous in the field. Despite the rather grandiose
-title, the ‘Guard’ series of shotguns are conventional
+title, the 'Guard' series of shotguns are conventional
 pump-action weapons with a reputation for reliability
 in the field. They are produced at TL8 but other than
 the laser pointer are identical in function to lower-tech
-weapons. The ‘Bodyguard’ is the standard security
+weapons. The 'Bodyguard' is the standard security
 
 HARRIX INDUSTRIES BODYGUARD/
 POINT GUARD SHOTGUN
 
 variant, with a fixed stock and full-length barrel. The
-‘Point Guard’ version is the same weapon, greatly
+'Point Guard' version is the same weapon, greatly
 shortened and lacking any form of stock. It is intended
 for use by the lead soldier in a patrol, who may have to
-react quickly to a changing situation, or as a ‘grab gun’
+react quickly to a changing situation, or as a 'grab gun'
 for security applications. Its limited ammunition supply
 is offset by good knockdown power.
 
@@ -6666,7 +6666,7 @@ Stock: Full Stock Cr15 0.25kg —
 Accessory: Laser Pointer Cr50 0.1kg —
 Totals Cr260 4.1kg —
 
-The standard Bodyguard shotgun’s rated performance
+The standard Bodyguard shotgun's rated performance
 is based on use of ball ammunition, but pellets are
 more common. This reduces penetration but improves
 the chance of a first-shot hit and potential knockdown
@@ -6714,7 +6714,7 @@ complex design with far too many safety features to be
 effective. The overall concept is workable – a lightweight
 bullpup-configuration carbine with minimal recoil, to be
 issued in massive numbers to colonists as a deterrent
-and pest-control weapon. The ‘Standard’ – as it is
+and pest-control weapon. The 'Standard' – as it is
 
 Weapon: Standardised
 Personal Weapon
@@ -6754,7 +6754,7 @@ reliable, very light and uses cheap ammunition.
 
 The Standard uses 27-round magazines inserted
 through the underside of the polymer stock. Recoil
-is minimal, and along with the weapon’s excessive
+is minimal, and along with the weapon's excessive
 safety features this makes it a popular first gun for
 children – at least, those whose parents can afford
 the high price tag.
@@ -6769,17 +6769,17 @@ Signature (normal)
 INTERSTELLAR ORDNANCE
 STANDARDISED PERSONAL WEAPON
 
-The ‘Mark 1’ is not a specific weapon, but represents the
+The 'Mark 1' is not a specific weapon, but represents the
 typical early semi-automatic pistol developed by most
 cultures. Mercenaries encounter so many of these, with
 minor variations, that they are all lumped together as
-‘Mk1 handguns’. As military weapons, these guns are
+'Mk1 handguns'. As military weapons, these guns are
 usually chambered in a calibre around 10-11mm which
 limits ammunition supply and imposes significant recoil.
 
 Weapons of this type are often picked up as souvenirs or
-on a ‘might come in handy’ basis and left in a soldier’s
-kit rather than being locked up in the armory. The unit’s
+on a 'might come in handy' basis and left in a soldier's
+kit rather than being locked up in the armory. The unit's
 commanders and logisticians may well know there are
 guns lying around but be unable to inventory or properly
 secure them. Some units buy large quantities of these and
@@ -6805,7 +6805,7 @@ Totals Cr241 1.104kg —
 
 The large-calibre subsonic ammunition used in these
 handguns is ideal for covert operations weapons.
-Many are converted to ‘sentry killers’, with a screw-on
+Many are converted to 'sentry killers', with a screw-on
 suppressor. Whilst not entirely silent a suppressed Mk1
 
 Weapon TL Range Damage Kg Cost Magazine
@@ -6836,7 +6836,7 @@ tech workshop to more upmarket weapons like those
 produced by Tacload. The Posi-9 is produced at TL9,
 and takes advantage of advanced manufacturing
 techniques, but is otherwise similar to the other
-weapons grouped as ‘autopistols’ in mercenary jargon.
+weapons grouped as 'autopistols' in mercenary jargon.
 
 A burst-capable version of the Posi-9 is available,
 which pushes the price up to Cr435. The advantages
@@ -6846,7 +6846,7 @@ TACLOAD ARMAMENTS
 POSI-9 9MM SEMI-AUTOMATIC PISTOL
 buyers, but there are those who long for more
 firepower from their handguns. A burst-capable
-Posi-9 can be converted into a true ‘autopistol’ by
+Posi-9 can be converted into a true 'autopistol' by
 removing the burst limiter and filing away part of the
 mechanism to increase rate of fire. A gunsmith might
 charge Cr200-300 to do this, though any decent
@@ -6946,7 +6946,7 @@ CREWMATE PERSONAL DEFENCE WEAPON
 
 Despite its slightly odd nature the Crewmate has
 achieved reasonable market success. Examples are
-often found clipped to vehicle crewmembers’ hatches,
+often found clipped to vehicle crewmembers' hatches,
 offering a chance to deliver heavy – if rather random
 
 - firepower whilst escaping from a disabled vehicle.
@@ -7066,7 +7066,7 @@ MULTI-BARREL WEAPON SYSTEM
 The Eliminator was designed for people who know they
 should have both hands on the wheel... but really do
 not care. It is in some ways a standard small-calibre
-submachinegun, but optimised for combat at extreme
+submachinegun, but optimized for combat at extreme
 close quarters. The weapon is officially aimed at those
 who may have to use a shield or carry out tasks with the
 other hand. Official marketing vids show cautious entry
@@ -7147,7 +7147,7 @@ to zero, enabling anyone with the most basic of training
 to shoot full-auto without undue difficulty.
 
 Many users prefer armor-piercing ammunition
-to compensate for the Eliminator’s low-powered
+to compensate for the Eliminator's low-powered
 projectiles, whilst others use enhanced-wounding
 rounds which spread on impact. This reduces
 penetration but increases the chance of putting a
@@ -7299,7 +7299,7 @@ moving operations inside a starship or combat in the open.
 The optical sight is rarely used in magnification mode but
 provides fast target acquisition at moderate ranges.
 
-The weapon’s designers decided to cram in as much
+The weapon's designers decided to cram in as much
 ammunition capacity as possible, creating a heavy SMG
 with almost as much capacity as a standard one. For
 those who require more firepower a 40-round casket
@@ -7313,9 +7313,9 @@ Planetsider 9 55m 3D-1 5 Cr1950 28 Cr48 +5 Auto 3, Physical
 Signature (low), Rugged
 
 costs Cr100. The latter is heavy and awkward to use,
-and eliminates many of the weapon’s quick-reaction
+and eliminates many of the weapon's quick-reaction
 advantages. With any kind of magazine in place the
-Planetsider’s weight absorbs recoil well, removing the
+Planetsider's weight absorbs recoil well, removing the
 Bulky trait.
 
 **UNIFIED SPACE INDUSTRIES
@@ -7330,10 +7330,10 @@ machineguns and overheat rapidly when conducing sustained fire, they offer enhan
 that can be taken over by any rifleman and usually share ammunition feed devices with the rest of the squad.
 
 The GR-80 gauss rifle is manufactured at TL13 along
-with Anhur’s other gauss weapons, but is functionally
+with Anhur's other gauss weapons, but is functionally
 little different to TL12 gauss weapons produced by
 other companies. Its bullpup design takes advantage of
-gauss weaponry’s lack of an ejection system, creating an
+gauss weaponry's lack of an ejection system, creating an
 ambidextrous rifle of short overall length.
 
 **ANHUR INDUSTRIES GR-80**
@@ -7371,7 +7371,7 @@ ways the support version is identical to the infantry
 weapon. As a result any trooper in a squad can take over
 the support weapon at need. A 150-round extension
 magazine is issued to support gunners, though since the
-weapon can use either it is often ‘borrowed’ by rifle-
+weapon can use either it is often 'borrowed' by rifle-
 armed soldiers when their own ammunition runs low.
 
 Weapon TL Range Damage Kg Cost Magazine
@@ -7412,7 +7412,7 @@ is set up with a rifle-length barrel and fixed stock,
 with a standard 1.5/2.5/4x optical sighting device
 for general combat operations. The same receiver is
 used in all configurations, and it is the intermediate
-rifle cartridge fired that determines the weapon’s base
+rifle cartridge fired that determines the weapon's base
 characteristics.
 
 The intent from the outset was to create a high-
@@ -7455,7 +7455,7 @@ heavier barrel and normally fed from extended
 device compatible with the AIWS family of
 weapons. Drum magazines are sometimes
 used, but this makes the weapon clumsy and
-is favoured only when the support weapon is
+is favored only when the support weapon is
 mounted on a pintle or similar mounting.
 •  (D)Assault Variant: Some users choose to
 configure the weapon with an assault barrel,
@@ -7464,7 +7464,7 @@ work, removing the scope as well. This reduces
 effectiveness at range but is useful in urban
 combat or assault situations. Casket maga-
 zines are sometimes used in this role, but their
-extra bulk can detract from the weapon’s main
+extra bulk can detract from the weapon's main
 advantage which is getting into action quickly
 when hostiles are suddenly encountered.
 
@@ -7531,7 +7531,7 @@ INFANTRY WEAPON SYSTEM
 
 **URBAN COMBAT WEAPON SYSTEM**
 
-‘Urban Combat Weapon System’ is Tacload-speak for
+'Urban Combat Weapon System' is Tacload-speak for
 an integrated assault rifle and breaching shotgun.
 The weapon is most definitely geared towards urban
 combat, ranging from one-block firefights to desperate
@@ -7545,7 +7545,7 @@ sight are fitted as standard.
 
 A secondary weapon is fitted under the barrel. This
 is a very short shotgun, whose handgrip is used as a
-vertical foregrip when firing from an ‘assault stance’ –
+vertical foregrip when firing from an 'assault stance' –
 more Tacload-speak, this time a euphemism for blazing
 away from the hip. The shotgun is fired using the fore
 hand, meaning both weapons can be discharged at
@@ -7628,7 +7628,7 @@ TSI generally works from common designs found on
 many worlds, creating a generic all-markets version
 which is then commonly built under license. Quality of
 these outsourced weapons is generally of an acceptable
-level, though the occasional ‘gin special’ is found which
+level, though the occasional 'gin special' is found which
 appears to have been assembled by a band of drunks
 after a good night out. Weapons made in-house do not
 suffer from these quality-control issues but it can be
@@ -7642,11 +7642,11 @@ noteworthy features. It uses commonly available
 7.5mm battle rifle ammunition and shares magazine
 compatibility with a great many weapons. In
 comparison with the intermediate calibre assault
-rifles favoured by many militaries, the Squadmate hits
+rifles favored by many militaries, the Squadmate hits
 harder and is accurate to a greater range, but heavier
 and carries less ammunition. As a semi-automatic
 weapon it cannot lay down suppressing fire in the
-manner of an assault rifle, but those who favour it
+manner of an assault rifle, but those who favor it
 claim this is offset by the ability to shoot precisely
 rather than hosepiping the countryside.
 
@@ -7700,9 +7700,9 @@ TACTICAL SYSTEMS INCORPORATED
 SQUADMATE BATTLE RIFLE
 
 LOW-G WEAPONS
-Specialist weapons intended for low-gravity work are commonly built around the ‘snub pistol’ round and designed
+Specialist weapons intended for low-gravity work are commonly built around the 'snub pistol' round and designed
 to minimise the positional disruption caused by firing them. Barrels are often set low compared to conventional
-firearms, directing recoil into the user’s centre of mass rather than causing muzzle flip and rotation of an unsecured
+firearms, directing recoil into the user's center of mass rather than causing muzzle flip and rotation of an unsecured
 user. The relative power of snub weapons makes them attractive in some other applications as well; snub revolvers
 are used as emergency weapons in some groundside installations.
 
@@ -7791,7 +7791,7 @@ Rocket
 Signature (normal),
 Zero-G
 
-Most special-purpose low-recoil (‘snub’) weapons are
+Most special-purpose low-recoil ('snub') weapons are
 standalone designs, but Unified Space Industries
 has recently begun offering a configurable weapon
 system built around a common receiver. Weapons are
@@ -7864,7 +7864,7 @@ ammunition is the most common loading.
 and assault barrel, cost is increased to Cr610 and
 weight to 1.5kg. Effective range is greatly increased,
 to 20m, and penetration improved as well. Assault
-weapons are typically left in a very ‘clean’ condition,
+weapons are typically left in a very 'clean' condition,
 with few or no accessories to snag during a quick
 deployment. The example here is rated using ball
 ammunition in a standard 14-round magazine.
@@ -7941,7 +7941,7 @@ ammunition, carried to deal with small vermin, is
 also popular. More gung-ho users may prefer to load a
 pellet shell. This removes the Zero-G trait when used,
 and cannot be fired at the same time as the primary
-barrel. The weapon’s very short barrel renders pellets
+barrel. The weapon's very short barrel renders pellets
 ineffective beyond point-blank range but their spread
 makes it difficult to miss.
 
@@ -7979,7 +7979,7 @@ Accessories: Additional Short Barrel Cr13 0.037125kg Quickdraw -1
 Totals Cr170.25 0.928875kg —
 
 Performance with ball ammunition is modest, so most
-users prefer to load HEAP. This offsets the weapon’s
+users prefer to load HEAP. This offsets the weapon's
 lamentable performance against armor but cannot
 
 make up for its low muzzle velocity. On the plus side,
@@ -8006,8 +8006,8 @@ TEN-SIX SNUB REVOLVER**
 
 LIGHT SUPPORT WEAPONS
 Light support weapons are designed to be integrated at the squad level, giving a unit some measure of self-support
-capability. Weapons such as light missile launchers and grenade launchers are sometimes referred to as ‘problem
-solvers’ – whether the problem is a sniper shooting from a window or a heavily fortified machinegun nest. Some
+capability. Weapons such as light missile launchers and grenade launchers are sometimes referred to as 'problem
+solvers' – whether the problem is a sniper shooting from a window or a heavily fortified machinegun nest. Some
 unit commanders frown on the use of expensive guided weapons to take out an infantry position, but the cost of
 recruiting and training replacement personnel might be much higher.
 
@@ -8036,7 +8036,7 @@ vessels and space installations. In standard gravity this
 weapon would be heavy and unwieldy, but whilst it still
 has considerable inertia a skilled user learns to make use
 of the stately swing of the barrel in much the same way
-a sporting shotgunner might favour a heavier gun for its
+a sporting shotgunner might favor a heavier gun for its
 steadiness on the traverse.
 
 One advantage of accelerator weapons is the lack of barrel
@@ -8105,8 +8105,8 @@ Physical Signature
 TACTICAL SYSTEMS INCORPORATED
 SQUADMATE BATTLE RIFLE
 
-Like many weapons from DMS, the Solo is a ‘problem-
-solver’ – in this case the problem being armored troops
+Like many weapons from DMS, the Solo is a 'problem-
+solver' – in this case the problem being armored troops
 and light vehicles. It is very finely made at TL14, to the
 closest tolerances and with great attention to detail.
 The designers wanted to create a powerful and accurate
@@ -8128,7 +8128,7 @@ weapons makes this a viable strategy. The rugged design
 allows the weapon to retain accuracy whilst being
 banged around in the field, but ultimately it is battery
 life that limits effectiveness. Sighting and propulsion
-both draw heavily on the weapon’s batteries, imposing a
+both draw heavily on the weapon's batteries, imposing a
 limitation not faced by conventional sniping weapons.
 
 Weapon: Solo
@@ -8197,7 +8197,7 @@ starships – easier but also lend themselves to using
 the weapon like a heavy assault rifle. Nominal
 magazine capacity is 37 rounds, but magazines of this
 size are rare. Instead, a 50-round extended magazine
-is favoured by almost all users. This, combined
+is favored by almost all users. This, combined
 with an increased rate of fire, makes the Reliant an
 unexpectedly good close-assault weapon. It is still a
 light machinegun, however, and cannot react to threats
@@ -8240,7 +8240,7 @@ pirates typically use the Reliant with advanced armor-
 piercing ammunition as standard. This gives a roughly
 8% chance of penetrating TL10 combat armor on any
 
-given hit. The weapon’s high rate of fire ensures a lot of
+given hit. The weapon's high rate of fire ensures a lot of
 hits which, even if not particularly damaging, are likely
 to cause raiders to reconsider their lifestyle choices.
 
@@ -8266,8 +8266,8 @@ Physical Signature
 
 **5MM LIGHT MACHINEGUN**
 
-' Jimpy-G’ is mercenary slang for ‘General-Purpose
-Machinegun, Generic’. Perhaps the commonest of all
+' Jimpy-G' is mercenary slang for 'General-Purpose
+Machinegun, Generic'. Perhaps the commonest of all
 direct fire support weapons, GPMGs are a staple of
 mid-tech military forces. GPMGs that use magazines
 
@@ -8337,7 +8337,7 @@ The MF-61 stands out from its rivals for having additional
 safety features, which drives up the price but reassures
 the soldiers selected to use it. With a Mishap Threshold
 of 5, flame weapons such as this one are potentially a
-danger to their users. The weapon’s armor helps prevent
+danger to their users. The weapon's armor helps prevent
 a penetrating shot whilst its extensive safety features
 reduce the chance of a catastrophic fuel ignition.
 
@@ -8368,8 +8368,8 @@ easy to handle and generally reliable. Its fuel contains
 an additive that produces heat upon exposure to air,
 
 self-igniting with no need for a flame at the nozzle. This
-does mean the MF-61 cannot be used for ‘hose and
-ignite’ applications, but it is a combat weapon rather
+does mean the MF-61 cannot be used for 'hose and
+ignite' applications, but it is a combat weapon rather
 than one intended to destroy property.
 
 Weapon TL Range Damage Kg Cost Magazine
@@ -8387,12 +8387,12 @@ MF-61 INDIVIDUAL FLAME WEAPON
 The Cryojet was not intended to be used as a weapon,
 and for the most part it is not. It is a backpack-fed
 projector device developed for spacecraft emergency
-crews. The projector’s cryogenic fluid can be used
+crews. The projector's cryogenic fluid can be used
 to extinguish fires or make doors and sections of
 wreckage brittle, enabling them to be easily shattered
 or punctured. Security crews occasionally found the
 projector useful against intruders or hijackers, though
-use on personnel targets is vaguely ‘advised against’
+use on personnel targets is vaguely 'advised against'
 by the manufacturer. Over time the Cryojet became a
 recognized tool in the arsenal of some military forces,
 though it remains primarily a breaching aid rather
@@ -8403,7 +8403,7 @@ rescue/firefighting system. In addition to armored and
 bulwarked tanks it mounts a large-calibre smoothbore
 weapon under the cryogenic nozzle. This can be used to
 deliver shotgun rounds for emergency self-defence, but
-is more commonly employed with specialist ‘breaker’
+is more commonly employed with specialist 'breaker'
 ammunition. It is a tremendously heavy and bulky
 device, and normally employed by specialists who
 breach an area then step back to allow their more agile
@@ -8475,7 +8475,7 @@ operating in a low-g environment.
 
 Marketed by Personal Security Solutions, the BL-3 is
 not intended for combat. It is a semi-covert weapon
-for self-defence, favoured by corporate executives who
+for self-defence, favored by corporate executives who
 like to pretend they are important enough to be in
 danger. Those that enter the mercenary marketplace are
 typically bought by personnel who must interact with
@@ -8487,9 +8487,9 @@ end. This has a concealed section which acts as
 a trigger when pushed with the thumb. Whilst not
 actually disguised the BL-3 does not look like a weapon
 and may not be noticed among paraphernalia on an
-officer’s desk or in an attaché case. It delivers three
+officer's desk or in an attaché case. It delivers three
 
-laser shots – hence its full name of ‘Bottled Lightning’,
+laser shots – hence its full name of 'Bottled Lightning',
 using disposable energy cartridges. These are held in a
 screw-out section at the rear of the weapon and can be
 replaced individually or all together. The process takes a
@@ -8501,7 +8501,7 @@ enable the user to take additional enemies by surprise
 if they do not realise what happened to the first target.
 Marketing vids for this weapon depict a suave secret
 agent effortlessly taking out four enemies – the last
-by hurling the BL-3 at his head – but realistic users’
+by hurling the BL-3 at his head – but realistic users'
 expectations are more modest. Nevertheless, as a silent
 holdout weapon the BL-3 does have its uses.
 
@@ -8545,7 +8545,7 @@ fact it was not adopted for service. The basic concept
 was to create a battlefield laser weapon which could
 be configured as a carbine, full-sized rifle or specialist
 weapon. The resulting design required compromises
-but has found favour with a number of low-g-trained
+but has found favor with a number of low-g-trained
 forces. It also serves as a personal weapon for some
 forward observers, functioning as a designator as well
 as combat carbine.
@@ -8553,13 +8553,13 @@ as combat carbine.
 The weapon is supplied without a complex sighting
 system, since some users choose to fit a holographic
 sight rather than a physical one, and others have differing
-preferences depending on the weapon’s intended role.
+preferences depending on the weapon's intended role.
 The design is not modular in the sense that it is not
 possible to remove and replace the barrel in a few
 moments without tools. Mounting a different barrel in a
 laser weapon is a delicate process requiring a workshop,
 not difficult but requiring calibration. A badly mounted
-barrel can absorb some of the laser’s energy – in effect
+barrel can absorb some of the laser's energy – in effect
 the weapon shoots itself. This can have catastrophic
 results, making modular laser weapons distinctly rare.
 
@@ -8586,7 +8586,7 @@ Totals Cr6712.5 4.375kg —
 The M-84 has an internal power reserve good for 14
 shots, but this is not sufficient for sustained combat.
 Typically the weapon is used with a 3kg power pack
-carried low on the user’s back. This provides 2,100
+carried low on the user's back. This provides 2,100
 Power, or 420 shots, which is likely to be more than
 enough. A 1kg belt pack good for 140 shots is also
 available for Cr1500.
@@ -8639,7 +8639,7 @@ Signature
 M-84 LASER WEAPON SYSTEM
 
 Named after an ancient god of the first sunlight,
-the Nefertem ‘Personal Directed Energy Weapon’
+the Nefertem 'Personal Directed Energy Weapon'
 is an entry-level laser pistol designed to be used in
 conjunction with an external powerpack. Weapons of
 this type are sometimes installed in spacecraft for the
@@ -8647,7 +8647,7 @@ defence of specific points, with power outlets located
 at intervals. The concept is unpopular with most users,
 since being tethered to a single location or trailing a
 long power cord around can be a problem in combat.
-However, as a means of saving the weapon’s powerpack
+However, as a means of saving the weapon's powerpack
 for mobile use it has some advantages.
 
 The Nefertem weapon is standard as laser pistols go,
@@ -8684,7 +8684,7 @@ not cause any problems but civilian power systems
 
 are not designed to support multiple lasers charging
 at once. The power drain may be noticed or could trip
-safety devices. Many hotels have a ‘no laser charging’
+safety devices. Many hotels have a 'no laser charging'
 rule, and signs indicating this are popular souvenirs
 among Travellers who have broken this rule.
 
@@ -8697,8 +8697,8 @@ Nefertem 9 50m 3D 2.6+1 Cr960 100 Cr1000 +6 Emissions Signature
 Zero-G
 
 LAUNCHERS
-Some launcher weapons are extremely simple, especially low-tech ones designed for use with ‘dumb’ projectiles, and
-in some cases can be thrown together in a blacksmith’s workshop. More advanced weapons incorporate electronics
+Some launcher weapons are extremely simple, especially low-tech ones designed for use with 'dumb' projectiles, and
+in some cases can be thrown together in a blacksmith's workshop. More advanced weapons incorporate electronics
 or use complex materials that drive up their purchase price considerably. Ultimately, however, it is the warhead that
 counts. Everything else is dedicated to getting it to the target.
 
@@ -8708,7 +8708,7 @@ purpose is to send a 50mm rocket-propelled grenade
 on its way. The latter has a white phosphorous warhead
 which creates a dense cloud of white smoke and may
 pose a hazard to any personnel within the burst radius.
-It is officially marketed as a ‘battlefield concealment
+It is officially marketed as a 'battlefield concealment
 
 Weapon: IP-2 Disposable Incendiary
 Weapon
@@ -8724,7 +8724,7 @@ Base Ammunition Capacity: 1 Rocket
 Signature: Physical (normal)
 Totals Cr75 0.75kg —
 
-and anti-materiel’ weapon to get around laws against
+and anti-materiel' weapon to get around laws against
 using such weapons on personnel targets. Damage
 reflects the possibility of being hit by small fragments
 of phosphorous. In the incredibly unlikely event of a
@@ -8744,7 +8744,7 @@ IP-2 8 500m 2D 0.75 Cr75 Blast 15, Burn 2, Incendiary
 
 A spigot mortar is one of the most basic methods of
 launching a rocket-propelled grenade, and is typically
-referred to simply as ‘RPG’ even though the term
+referred to simply as 'RPG' even though the term
 properly applies to the projectile rather than the
 launcher. The device itself is nothing more than a
 hollow post with handles and a basic optical sighting
@@ -8761,7 +8761,7 @@ common among mid-tech forces that face a threat
 from higher-tech militaries, and may be issued in
 disproportionate numbers. The concept is reinvented at
 TL8, when a basic guided version becomes available.
-‘Dumb’ RPGs can still be launched from this weapon.
+'Dumb' RPGs can still be launched from this weapon.
 The standard spigot mortar costs Cr500 and weighs
 10kg with a grenade in place. The guided variant costs
 Cr1000 and adds the Smart trait.
@@ -8808,7 +8808,7 @@ LIGHT MUNITIONS LAUNCHER
 
 ready in the chamber. A magazine cut-off allows a single
 round to be loaded directly into the breach, leaving
-those in the magazine in reserve. ‘One gas, three baton’
+those in the magazine in reserve. 'One gas, three baton'
 is a standard rapid-fire response to an advancing crowd,
 though some entry teams prefer one distraction and
 three multiple projectile rounds for room clearance.
@@ -8842,7 +8842,7 @@ Light cartridge grenades are primarily useful for anti-
 personnel work or security operations. It is rare to find a
 grenadier with a mixed load – usually all grenade carried
 
-are ‘security’ types or all are lethal types. The exception
+are 'security' types or all are lethal types. The exception
 is distraction rounds which have tactical applications in
 both situations.
 
@@ -8909,7 +8909,7 @@ squad preparing to breach a room or position might
 try to set up a pre-selected sequence to maximise
 their advantages. In such a situation a distraction
 grenade immediately followed by gas then baton
-rounds might be used to subdue a room’s occupants,
+rounds might be used to subdue a room's occupants,
 or a stun grenade followed by multiple fragmentation
 rounds for overkill.
 
@@ -8925,7 +8925,7 @@ INTERSTELLAR ORDNANCE 42MM
 ADVANCED SQUAD SUPPORT WEAPON
 
 One of the lightest TAC missile launchers available,
-Xierbin’s TMMS is designed to be carried by a team of
+Xierbin's TMMS is designed to be carried by a team of
 two infantry soldiers, one with the launcher and one
 carrying a loaded missile magazine. Additional missiles
 or magazines can be shared out among the squad. The
@@ -8940,7 +8940,7 @@ XEIRBIN COMPONENTS TACTICAL
 MULTIROLE MISSILE SYSTEM
 
 The TMMS is designed to engage vehicles and aircraft
-using a multimode warhead ‘smart’ missile, but can
+using a multimode warhead 'smart' missile, but can
 launch unguided rockets if the need arises. A magazine
 can contain two different types of missile – for example
 one anti-personnel and one anti-armor – and can
@@ -9038,7 +9038,7 @@ A small grenade with advanced fusing, these weapons
 are often carried in threes. The advanced fuse allows
 the grenade to be impact-fused or set to detonate
 one to ten seconds after impact, or after a one to ten
-second delay. A ‘mine’ setting also permits a grenade
+second delay. A 'mine' setting also permits a grenade
 to emplaced as a booby trap, detonating if disturbed.
 Depending on the sensitivity chosen this may require
 a sharp knock or something as minor as being tapped
@@ -9162,17 +9162,17 @@ wearing appropriate clothing.
 
 If used to reduce thermal signature, a chill can
 is good for around four hours, during which time
-the user’s thermal signature is reduced almost to
+the user's thermal signature is reduced almost to
 background levels. This imposes DM-4 on attempts
 to detect, track or target the individual using thermal
 sensors. By the end of the period the unit is saturated
 and thermal suppression is lost. The gel does not
-reach high temperatures; little more than the user’s
+reach high temperatures; little more than the user's
 body temperature, but a can could be deliberately
 ruptured to create a thermal decoy. The unit can
 
 EXTERNAL THERMAL REGULATION UNIT
-(‘CHILL CAN’)
+('CHILL CAN')
 
 protect the user against unpleasantly hot conditions
 rather than reducing thermal signature, and in an
@@ -9242,7 +9242,7 @@ A thermal regulation covering is supplied in a form
 that can be used as a blanket or poncho, as half of a
 field shelter, a groundsheet or a thermal camouflage
 device. As a shelter or poncho it is normally worn
-with the ‘cool’ side outward, keeping the wearer warm
+with the 'cool' side outward, keeping the wearer warm
 whilst reducing their thermal signature. Turned around,
 the covering will leech heat away from the user and
 radiate it outside. This has a cooling effect and can
@@ -9258,10 +9258,10 @@ cold or hot conditions, and DM-2 to attempts to spot
 or target the user if used as camouflage. When used
 with a small (pocket-sized) battery pack it can create
 a warm shelter for some days, and with a chill can will
-reduce the wearer’s thermal signature to match the
+reduce the wearer's thermal signature to match the
 surroundings. A standard thermal regulation covering
 costs Cr50, with versions intended to fit a particular
-environment or to match a sniper’s camouflage costing
+environment or to match a sniper's camouflage costing
 up to Cr150.
 
 Item TL Kg Cost
@@ -9275,8 +9275,8 @@ items, colours and configurable insignia, a unit can create a distinctive unifor
 a bespoke outfit.
 
 Most mercenary units have clothing for different occasions. Working dress is worn most of the time, and typically consists
-of coveralls in the unit’s style. Field dress is similar but more attention may be paid to camouflage. Field dress is intended
-to be worn with body armor and combat equipment, and usually has attachment points for the unit’s standard field
+of coveralls in the unit's style. Field dress is similar but more attention may be paid to camouflage. Field dress is intended
+to be worn with body armor and combat equipment, and usually has attachment points for the unit's standard field
 equipment. Most, but by no means all, units have a formal uniform. Mercenaries are rarely concerned with ceremony but
 may need to look presentable to impress a client or when working with one under non-combat conditions. Full mess dress
 uniform is very rare among mercenary units. The largest sometimes use it, as do some highly pretentious formations, but
@@ -9288,14 +9288,14 @@ Operators may need to pass as ordinary civilians, or to
 wear formal uniform but be ready for action. A discreet
 operations uniform is tailored from light ballistic cloth
 and has pockets suitable for concealing a handgun
-and some small items of equipment. It is favoured by
+and some small items of equipment. It is favored by
 officers who have to do a lot of liaison work and cannot
 be seen to be armed or mistrustful of their clients, but
 also sees considerable use by covert-operations forces.
 
 The uniform grants Protection +2 without appearing to
 do so, and can be paired with what is inevitably known
-as an ‘indiscreet operations kit’ consisting of a flak
+as an 'indiscreet operations kit' consisting of a flak
 jacket and associated supporting equipment. This is
 normally black or green, but can be produced in other
 colours. At a distance, someone wearing the full kit
@@ -9342,7 +9342,7 @@ comfortable than a mask. Most users have
 devices mounted on the shoulder piece such
 as flashlights, cameras and sensors which
 display their information on the inside of the
-user’s faceplate. A chest piece is also available,
+user's faceplate. A chest piece is also available,
 increasing armor to Protection +6 and housing
 an array of tools or weapon pouches.
 
@@ -9381,7 +9381,7 @@ Field dress bought in bulk tends to be serviceable
 and hard-wearing but offers few benefits beyond
 that. Enhanced field dress incorporates technological
 advances to protect the user, including a technique
-known as ‘thermal dulling’ whereby the wearer’s thermal
+known as 'thermal dulling' whereby the wearer's thermal
 signature is reduced and made fuzzy. This imposes
 DM-1 on attempts to detect or target the wearer using
 thermal systems. In addition, a suit of enhanced field
@@ -9406,7 +9406,7 @@ Field Dress
 Commonly sold as a pack to individual mercenaries or
 provided in bulk to units, a uniform bundle contains
 three sets of working dress, two sets of field dress and
-one formal uniform to the unit’s specifications. Formal
+one formal uniform to the unit's specifications. Formal
 shoes and field boots are included along with headgear
 and any minor accessories such as cap badges, rank
 insignia and so forth. Costs can vary but typically a
@@ -9451,7 +9451,7 @@ units can usually obtain a license for the standard
 autohack without undue difficulty, though their use will
 occasionally be audited. A preprogramed autohack might
 be provided for a particular mission, in which case it will
-have been set up to defeat the target’s security even if it
+have been set up to defeat the target's security even if it
 would normally be immune.
 
 For example, a mercenary unit has been hired to
@@ -9460,7 +9460,7 @@ local police force. The cops are using a commercially
 available security system – quite a good one in fact.
 A standard autohack will defeat the security on most
 personal devices found in the building, as these use
-common systems ‘known’ to the unit, but it does not
+common systems 'known' to the unit, but it does not
 have the tools to attack the specialist system at the
 police station as its vulnerabilities are not widely known.
 However, the client has obtained enough information
@@ -9513,7 +9513,7 @@ transmit and receive a standard code and style of
 encryption for the network. This includes sufficient
 encryption to secure comms against casual intrusion
 but a comm scrambler provides much greater security
-by making the signal indecipherable to the system’s
+by making the signal indecipherable to the system's
 own software. Another scrambler or a military device
 with the correct decryption codes can read signals,
 but anyone else would have to undertake a serious
@@ -9547,9 +9547,9 @@ Interface Box 8 — Cr125
 
 A military portacomp is housed in a lightly armored
 case which will provide Protection +6 to the contents
-or anyone hiding behind it. Cases are usually ‘security
-black’ or ‘military green’ but do come in other
-‘tactical’ colours. The case is ruggedised, as are the
+or anyone hiding behind it. Cases are usually 'security
+black' or 'military green' but do come in other
+'tactical' colours. The case is ruggedised, as are the
 internal components, and it will act as a faraday
 cage when closed. If a Traveller has time to slam the
 portacomp shut it will survive all but the most powerful
@@ -9573,12 +9573,12 @@ TL Processing Mass Cost
 A Multifunction Electronic Device, or MED, is a small
 wrist-mounted computer capable of being programmed
 to interface with all common battlefield electronics.
-Depending on the user’s needs it can be set up to
+Depending on the user's needs it can be set up to
 control Smart-RAM grenades in flight, display sensor
 data from a drone, monitor remote sensors, detonate
 a charge on command, or all of those. An MED has
 a modest amount of processing power and can run
-guidance programmes, but typically acts as an interface
+guidance programs, but typically acts as an interface
 rather than handling complex tasks itself.
 
 Item TL Kg Cost
@@ -9602,7 +9602,7 @@ section have their own internal comms, as does the
 support section. Section leaders are tied in to the
 platoon command net, and the platoon commander
 is in the company command group. Automated
-systems can devolve access if a sub-unit’s command
+systems can devolve access if a sub-unit's command
 transmitted goes offline, and most networks have
 an emergency override that allows any member to
 transmit right across the network if necessary. The
@@ -9611,11 +9611,11 @@ level of the Tactics skill that can be applied using it,
 though a commander who can communicate directly is
 not so limited. Thus the leader of a squad can always
 use their full Tactics ability, but a commander two
-kilometres away can only assist to the level permitted
+kilometers away can only assist to the level permitted
 by the network.
 
 From TL8, visual information is shared in real time,
-and in addition to radio sets the unit’s members
+and in addition to radio sets the unit's members
 are given body-worn or helmet cameras, and/or
 gun cameras. These have provided a great deal of
 evidence at inquiries over the years, and have useful
@@ -9659,9 +9659,9 @@ Item TL Kg Cost
 Tactical Relay Network 6-12 8 Varies
 
 SENSORS AND TARGETING AIDS
-Beyond immediate ‘point and shoot’ combat, one of the most decisive factors in battle is the quality of sighting aids.
+Beyond immediate 'point and shoot' combat, one of the most decisive factors in battle is the quality of sighting aids.
 Those that fit on a weapon are considered to be weapon accessories, but more sophisticated equipment is often
-carried on the soldier’s person, receiving input from sensors on the soldier’s own weapon and possibly remote sensor
+carried on the soldier's person, receiving input from sensors on the soldier's own weapon and possibly remote sensor
 feeds too. Typically the resulting images and prompts are displayed on a helmet visor or similar physical surface but
 can be projected as a hologram at a location designated by the user.
 
@@ -9673,13 +9673,13 @@ This detects the sound of a gunshot or similar weapon
 and attempts to pinpoint its location using a map
 of the surrounding area. Multiple echoes off the
 walls of an urban area can complicate the process,
-but the system can ‘learn’ the sound patterns of its
+but the system can 'learn' the sound patterns of its
 surroundings to make zeroing in on the location easier
 with successive shots. Once set up the operator can
 make an Average (8+) Electronics (sensors) check
 to locate the source of a weapon discharge by using
 its physical signature. The check is modified by the
-weapon’s signature level and any other factors such
+weapon's signature level and any other factors such
 as acoustically complex terrain. A cumulative DM+1
 applies to subsequent from the same position by a
 weapon of similar type.
@@ -9689,7 +9689,7 @@ can automatically control an attached weapon. The
 weapon must be on a tripod or support mount to
 which the auto-aiming device is attached. It can be
 set to automatically return fire with a single shot,
-multiple attacks or not at all depending on the user’s
+multiple attacks or not at all depending on the user's
 preferences at the time. It does not include a weapon
 or mount for one.
 
@@ -9698,13 +9698,13 @@ Ballistic Location Sensor 8 2.5 Cr1500
 Return Fire Unit 9 3 Cr5000
 
 A battlefield coordination unit is a backpack-sized
-communications and administration centre. Its
+communications and administration center. Its
 holographic display can project maps and images as
 well as sensor input, and the unit can undertake limited
 analysis to suggest likely meanings of data. For example,
 the unit can cross-reference incoming passive sensor
 information on the emissions of an enemy unit with other
-known data to produce an estimate of the formation’s
+known data to produce an estimate of the formation's
 composition and state of readiness. A battlefield
 coordination unit grants DM+1 on Tactics checks and
 related tasks, such as requesting artillery fire on a very
@@ -9726,10 +9726,10 @@ with Field Furniture
 **LASER DESIGNATOR**
 
 Using the thermal signature of a target and a
-densitometer, this device ‘fills in’ the outline
+densitometer, this device 'fills in' the outline
 of targets on its display. Although occasionally
 spectacularly wrong, a biomass sighting aid reduces
-the DM for cover by 2 and can ‘see’ through up to
+the DM for cover by 2 and can 'see' through up to
 20cm of inorganic material. The TL12 version is more
 sophisticated and can eliminate a DM due to cover
 by 4 points. The sighting aid can be mounted on a
@@ -9754,7 +9754,7 @@ Item TL Kg Cost
 Integrated Weapon Scanner 10 0.6 Cr900
 
 A basic laser designator becomes available at TL6. It
-‘paints’ a target by projecting a laser onto it, allowing a
+'paints' a target by projecting a laser onto it, allowing a
 guided munition to home in on the reflected radiation.
 Much depends on the ability of the user to keep the
 weapon on target; the munition will follow a moving spot
@@ -9855,8 +9855,8 @@ to increase the likelihood of a hit, is a popular upgrade
 for those units that can afford the extra Cr40000 or so,
 or a twin rapid-fire heavy machinegun can be mounted
 instead. Closeguard is popular as a cheap anti-missile
-unit but has a loyal following as a ‘homicidal sentry that
-never sleeps’. Units that employ it in this mode can set
+unit but has a loyal following as a 'homicidal sentry that
+never sleeps'. Units that employ it in this mode can set
 exemptions so their own people will not be attacked
 providing they carry the correct IFF transponder. The
 unit may still open fire on large passing wildlife, though
@@ -9896,19 +9896,19 @@ Zero-G
 CLOSEGUARD SEMI-AUTONOMOUS
 POINT DEFENCE SYSTEM
 
-The origins of the term ‘Ma Deuce’ for a heavy
+The origins of the term 'Ma Deuce' for a heavy
 machinegun date back to old Earth, where the definitive
 heavy machinegun was designated M2. More advanced
 weapons fulfilling the same role ended up being referred
 to by the same nickname, until eventually a whole
 family of similar but more advanced weapons emerged.
-These are known as the ‘MDD family’, from ‘Ma Deuce’s
-Daughters’. Governments have their own designations
+These are known as the 'MDD family', from 'Ma Deuce's
+Daughters'. Governments have their own designations
 for specific members of the family, but to the typical
 mercenary they are all the Beautiful Daughters of Old
 Lady Deuce. This in turn leads to jargon that can seem
 incomprehensible to the average civilian, but a mercenary
-who hears ‘Mike Two Delta on the field!’ knows there is a
+who hears 'Mike Two Delta on the field!' knows there is a
 heavy automatic weapon nearby. Whether that is a good
 thing depends on which side is using it.
 
@@ -9986,9 +9986,9 @@ Scope
 
 A variant of the MDD support weapon, the MDS is
 about the heaviest projectile weapon a human can carry.
-Nicknamed ‘Ma Deuce’s Sister’ in mercenary jargon,
+Nicknamed 'Ma Deuce's Sister' in mercenary jargon,
 the weapon uses a lightened version of the support
-weapon’s receiver, modified to take magazines. It uses
+weapon's receiver, modified to take magazines. It uses
 
 Weapon: MDS-15
 Type: Support Weapon
@@ -10062,12 +10062,12 @@ Lo-Pen 4, Spread 3
 
 MDS ANTI-MATERIEL RIFLE
 
-The ‘Porky’ consists of a baseplate weighing 3kg,
+The 'Porky' consists of a baseplate weighing 3kg,
 with fittings for two rows of six rifle grenades. The
 baseplate can be angled to set up a spread of grenades
 aimed at a rough point 50-100m from the launcher.
 No grenades are supplied, but typically explosive
-warheads are preferred. Used with ‘dumb’ grenades
+warheads are preferred. Used with 'dumb' grenades
 the Porcupine is primarily a defensive or ambush
 
 Weapon TL Range Damage Kg Cost Magazine Magazine Cost Traits
@@ -10098,12 +10098,12 @@ The TES-12 has an internal powerpack good for around
 125 shots, which is enough for a short action, but is
 often used with a 3kg external power unit. This costs
 Cr 7500 and has Power 3,000. It may be carried by
-the weapon’s user if operating solo but more commonly
+the weapon's user if operating solo but more commonly
 the support weapon gunner is provided with a spotter/
 security team of 1-2 additional personnel who carry
 additional powerpacks. These may be equipped with
-laser carbines, allowing ‘buddy’ recharging of their
-weapons from the support gun’s power unit.
+laser carbines, allowing 'buddy' recharging of their
+weapons from the support gun's power unit.
 
 Weapon: TES-12
 Type: Laser Support Weapon
@@ -10168,7 +10168,7 @@ hand is one of the hidden skills required by successful mercenaries.
 Automedics are used by some civilians in hazardous
 environments and by dignitaries who may face threats
 to their lives. These devices are part monitor, part
-autoinjector. They monitor the user’s life signs and
+autoinjector. They monitor the user's life signs and
 blood chemistry, and can provide detailed information
 to a physician if needed. Under certain specific
 circumstances the unit can inject painkillers, antidotes
@@ -10180,12 +10180,12 @@ chronic condition at bay or stop a medical episode early.
 Military automedics take this function a stage further.
 Like the civilian variant they must be tailored to a
 specific individual but can carry requirements of
-other members of a unit as a backup. This ‘buddy
-system’ allows treatment of others if necessary. In
+other members of a unit as a backup. This 'buddy
+system' allows treatment of others if necessary. In
 addition, the automedic can be preconfigured to react
 to external stimuli, for example delivering an antidote
 to tranq gas as soon as it is detected in the air rather
-than waiting for it to enter the user’s system. Military
+than waiting for it to enter the user's system. Military
 automedics can also administer combat drugs either
 at the command of the user or – if access has been
 granted – from a remote location.
@@ -10203,11 +10203,11 @@ manually activate the drug at any time if needed.
 **SUPPORT COOLING UNIT**
 
 Although primarily associated with support weaponry,
-the ‘SCU’ has become a ubiquitous piece of equipment.
+the 'SCU' has become a ubiquitous piece of equipment.
 Some use replaceable consumables whilst others
 are based on more conventional heat exchangers. A
-consumable based unit weighs 5kg plus 1kg per ‘chill
-can’ it can hold. Using a forced heat exchange, the SCU
+consumable based unit weighs 5kg plus 1kg per 'chill
+can' it can hold. Using a forced heat exchange, the SCU
 removes heat from a weapon or an area and stores it in
 the disposable cans. Removing the expended cans and
 burying them – or sending them off for environmentally
@@ -10230,7 +10230,7 @@ stored in tanks which must be purchased separately.
 An SCU doubles the rate at which heat is removed from
 a weapon with an advanced cooling system, providing
 it is properly connected. Dissipating heat through the
-system’s radiators is at the rate of 1 Heat per minute
+system's radiators is at the rate of 1 Heat per minute
 per set of radiators, but this does create a significant
 thermal signature. Reducing the rate by a factor of five
 allows the thermal plume to be largely concealed.
@@ -10322,7 +10322,7 @@ Demolition Charge 7 5 Cr1000
 Nuclear demolition charges are not commonly available
 but may be improvised by mercenaries or issued under
 desperate circumstances. A nuclear demolition charge
-is sometimes called a ‘suitcase nuke’, though it is too
+is sometimes called a 'suitcase nuke', though it is too
 big to fit in one. Yield is normally in the 0.1kt range –
 equivalent to around 100 tons of conventional explosive
 
@@ -10400,13 +10400,13 @@ Directional Mine, Small 8 100m 4D 1 Cr900 Blast 10
 Directional Mine, Large 8 250m 6D 2 Cr1400 Blast 16
 
 Item TL Kg Cost
-‘Dumb’ Fackle 8 10 Cr250
-‘Sensor’ Fackle 8 10 Cr300
+'Dumb' Fackle 8 10 Cr250
+'Sensor' Fackle 8 10 Cr300
 
 Directional mines are designed to fling small projectiles
 
-- typically ball bearings – in a cone out from the mine’s
-‘danger’ face. Blast radius in this case refers to the
+- typically ball bearings – in a cone out from the mine's
+'danger' face. Blast radius in this case refers to the
 area in which its explosive effect will endanger anyone
 nearby. Range is the distance projectiles will travel
 downrange. A directional mine is treated as a Typical
@@ -10416,10 +10416,10 @@ DEFENSIVE EQUIPMENT
 A variety of defensive equipment is available for the protection of troops in the field. Most are advanced versions of
 concepts that have been in use for centuries, updated either for ease of deployment and use or greater effectiveness.
 
-Fackles – a term derived from ‘field obstacles’ – are
+Fackles – a term derived from 'field obstacles' – are
 tubes approximately 1m long and weighing 10kg each.
 When deployed, three sets of spikes are unfolded from
-the centre and points 1/3 and 2/3 along the tube. This
+the center and points 1/3 and 2/3 along the tube. This
 can be done manually but in an emergency a fackle
 can be flung down, causing its spring-loaded spikes to
 unfold violently. This does cause the device to jump
@@ -10472,18 +10472,18 @@ to accurately target an intruder with any weapons tied
 into the sensor net. This includes detonating a grenade
 directly above them or perhaps bracketing them with
 flashbangs. In active mode the fence has more options.
-It can project an ‘ultrasonic fence’ between the posts
+It can project an 'ultrasonic fence' between the posts
 that will discourage most animals from approaching and
 makes some people feel a sense of unease. Weapons
 can also be set up to automatically fire on anyone in the
-fence’s protected zone who lacks the correct transponder.
+fence's protected zone who lacks the correct transponder.
 
 DRONES
 Drones differ from robots in that they do not have complex control mechanisms. Some drones are capable of limited
 decision-making whilst others require control from a remote operator, but even the most sophisticated drones
 require specific programming or the selection of pre-programmed options and cannot decide to deviate from their
-instructions. Most have a ‘please advise’ function triggered by an unexpected situation or one in which none of
-the drone’s programmed options applies, but even so drones are notorious for blindly carrying on a mission despite
+instructions. Most have a 'please advise' function triggered by an unexpected situation or one in which none of
+the drone's programmed options applies, but even so drones are notorious for blindly carrying on a mission despite
 totally changed circumstances.
 
 SkySpotter is one of a great many very basic
@@ -10491,7 +10491,7 @@ reconnaissance drones available from TL7 upwards.
 It carries forward and sideways looking optical and
 thermal cameras, but little else. SkySpotter takes the
 form of a hand-thrown miniature aircraft powered by a
-‘pusher’ propeller. It is quiet and fairly small but tends
+'pusher' propeller. It is quiet and fairly small but tends
 to be rather obvious to anyone looking out for such craft.
 The drone can be directly controlled using a selected-
 waypoint system which requires no special skill beyond
@@ -10514,7 +10514,7 @@ Aerodagger is a ground-launched drone using rocket
 propulsion to reach an altitude of up to 1km. It then
 guides itself using stub wings and, like other non-
 grav drones, can only function in a Thin or denser
-atmosphere. The drone’s sole purpose is to deliver a
+atmosphere. The drone's sole purpose is to deliver a
 warhead to a suitable target, which must be within
 10km of the launch site. This can be pre-programmed,
 but the user has an option to set target selection
@@ -10592,7 +10592,7 @@ to be able to return to its launch point for recovery and
 recharging. DesiGnator does not move much faster than
 a jogging human but is a difficult target, with Small
 (-4), Protection +2 and 6 hits. Its name is derived from
-‘gravitic propelled designation drone’ but DesiGnators
+'gravitic propelled designation drone' but DesiGnators
 are more commonly used for reconnaissance.
 
 **GRAV MULE**
@@ -10619,7 +10619,7 @@ Alternatively, the drone can be set up for casualty
 evacuation. A pair of slide-out stretchers are always
 fitted, and a life-support pack for each can be quickly
 installed. Once in place, two casualties can be slid into
-a Grav Mule’s armored box and transported – safely
+a Grav Mule's armored box and transported – safely
 but claustrophobically – to the rear for treatment. The
 Grav Mule has Protection +16 and can take 50 hits
 before being disabled.
@@ -10645,14 +10645,14 @@ safe destruction of explosive devices.
 
 Grav Pioneer has Protection +8 and can take 20 hits
 before being disabled. Its grav drive is programmed
-to ‘make the drone light’ in the event of a pressure
+to 'make the drone light' in the event of a pressure
 wave such as that caused by an exploding mine. This
 means the drone is more likely to be tossed about than
 damaged, and takes half damage from blast effects. A
 pair of retractable arms, one ending in powerful cutters,
 allows the clearance of wire and similar light obstacles.
 Heavier obstructions can sometimes be reduced by
-firing all the drone’s explosive ammunition into them in
+firing all the drone's explosive ammunition into them in
 the hope of shaking the obstacle apart
 
 Item TL Kg Cost
@@ -10678,7 +10678,7 @@ battlefield meson accelerator for hire in the subsector.
 
 DIRECT-FIRE WEAPONS
 Direct-fire weapons are typically used for fire support and bunker-busting as well as engaging enemy vehicles. The
-line between ‘support’ and ‘heavy’ in this context can be blurry, but as a rule weapons in this category are too large
+line between 'support' and 'heavy' in this context can be blurry, but as a rule weapons in this category are too large
 to be operated by infantry. They are typically encountered aboard vehicles and in installations.
 
 The AC-25 is very much the industry standard for light
@@ -10739,7 +10739,7 @@ standard weapon capable of fulfilling a range of roles
 from air defence to light anti-vehicle work. AC-40s
 typically use a short-belt feed system, with pre-prepared
 lengths of belt carried in reusable container/guides
-which can be ‘chained’ almost indefinitely if space
+which can be 'chained' almost indefinitely if space
 allows. Ammunition is typically pre-fragmented high-
 explosive dual-purpose, with reasonable penetration
 characteristics and a modest burst effect. Canister
@@ -10754,7 +10754,7 @@ permanent emplacement. The basic weapon costs
 Cr25000 but many users buy a package which includes
 the mountings, traverse mechanism and power unit
 to allow standalone operation, plus a basic track-and-
-target sensor system which allows ‘click and shoot’
+target sensor system which allows 'click and shoot'
 engagement of air or ground targets. The whole package
 costs Cr45000 and requires mounting on a vehicle or
 building into a permanent installation.
@@ -10814,7 +10814,7 @@ explosive or smoke rounds. A canister round is also
 available for anti-personnel work, along with a variety of
 experimental ammunition types. Notable among these
 is a multiple-submunition penetrator round intended
-to offset the gun’s low muzzle velocity by using rocket
+to offset the gun's low muzzle velocity by using rocket
 assistance and a small HEAP warhead. It is of limited
 effectiveness but has found a niche as a defence
 against infantry equipped with powered armor.
@@ -10836,7 +10836,7 @@ with mountings. Its standard mount is equivalent to an
 some ready ammunition. The mounting can be supplied
 enclosed or open, and will normally be protected to the
 same level as the vehicle it is mounted on. Armor cost
-and mass are assumed to be part of the vehicle’s design.
+and mass are assumed to be part of the vehicle's design.
 
 Weapon TL Range Damage Magazine Tons Spaces Cost
 
@@ -10918,7 +10918,7 @@ Marketed as a self-contained unit, the MPS-22 is a
 heavier version of the standard gauss cannon found on
 many vehicles. Although it is built at TL12 and requires
 high-technology spare parts it is designed to be fitted
-on a ‘black box’ basis into any standard heavy weapon
+on a 'black box' basis into any standard heavy weapon
 mounting so long as sufficient power is available. In the
 mercenary marketplace the weapon is popular as a cost-
 effective tank-killer for those forces able to afford it.
@@ -10938,8 +10938,8 @@ Weapon TL Range Damage Magazine Tons Spaces Cost Magazine Cost Traits
 MPS-22 12 3 16D 150 1.5 6 Cr175000 Cr1000 AP 16, Auto 3
 
 ARTILLERY WEAPONS
-Artillery weapons fire in an indirect arc, sometimes on a very high trajectory. Some can engage directly, ‘over open
-sights’ as the saying goes, but others are entirely useless once the enemy gets close enough.
+Artillery weapons fire in an indirect arc, sometimes on a very high trajectory. Some can engage directly, 'over open
+sights' as the saying goes, but others are entirely useless once the enemy gets close enough.
 
 The Aggressor is essentially a cluster of three
 rifled 90mm infantry mortar tubes mounted on a
@@ -10959,7 +10959,7 @@ fired at once with the same or different payloads.
 The single-barrelled version of this weapon is soldier-
 portable once broken down into frame, tube and
 baseplate, but the triple-barrelled version is too heavy
-and bulky to be moved more than a few metres in this
+and bulky to be moved more than a few meters in this
 manner. Both versions can be remotely traversed and
 elevated, though it is traditional to train for manual
 operation of such weapons.
@@ -11044,7 +11044,7 @@ artillery to the battle area, the Dominator has seen
 considerable market success.
 
 An autoloading unit is available for an additional
-Cr100000, adding 0.5 tons to the weapon’s weight.
+Cr100000, adding 0.5 tons to the weapon's weight.
 
 Weapon TL Range Damage Tons Cost Magazine Magazine Cost Traits
 Dominator 8 10 4DD 4 Cr400000 1 Cr20,000 Artillery, Blast 20
@@ -11194,7 +11194,7 @@ fragmentation payload for area attacks. In open
 configuration the system takes up 9 Spaces and costs
 Cr25000, carried outside the structure of a vehicle –
 and thus unprotected by. An enclosed version, protected
-by the vehicle’s armor, costs Cr40000 and consumes
+by the vehicle's armor, costs Cr40000 and consumes
 12 Spaces. Vehicle-mounted systems can make use of
 an autoloader, which can be carried on the same vehicle
 or another in support. The autoloader takes up 4 Spaces
@@ -11321,7 +11321,7 @@ be configured various ways and sections of flexible
 covering along with a rather minimal set of shower and
 washing facilities. The standard setup is a six-person
 sleeping area, a general-purpose working space and
-a small ‘field fresher’ which is served by a modular
+a small 'field fresher' which is served by a modular
 set of power and water connectors. A furniture kit
 capable of being put together as six field bunks, a
 table and stools is also provided, along with a heating/
@@ -11349,7 +11349,7 @@ can be installed inside vehicles instead. It contains two
 emergency operating units and two non-surgical aid
 stations along with a central sanitization and general-
 stores area. If deployed to the ground, each of the
-five modules is protected by a translucent ‘bubble’ of
+five modules is protected by a translucent 'bubble' of
 light polymer on a collapsible frame. Perfectly sterile
 conditions are hard to come by in the field, but a unit
 of this sort comes close. If carried aboard a vehicle for
@@ -11468,7 +11468,7 @@ variety of sensors. Duration in orbit is fairly short;
 typically 3D days plus the Effect of an Electronics
 (remote ops) check.
 
-Using the term ‘mobile’ for a fusion reactor is something
+Using the term 'mobile' for a fusion reactor is something
 of a stretch, but this unit is as close as it is possible
 to get. A field reactor is derived from the units fitted to
 many military vehicles, but is designed to be carried
@@ -11501,9 +11501,9 @@ within the vehicle. A weapon that penetrates the outer
 
 armor and would strike something protected by the
 citadel must get through its armor to do so. Ideally
-enough of the weapon’s force is spent on breaching the
+enough of the weapon's force is spent on breaching the
 outer armor that the citadel can withstand what is left,
-though the vehicle’s interior will most likely be wrecked
+though the vehicle's interior will most likely be wrecked
 even if the crew and critical systems survive.
 
 **VEHICULAR NBC PROTECTION**
@@ -11586,7 +11586,7 @@ protection is often fitted on a temporary basis or as a
 modification after bad experiences in the field. Mine
 protection consumes two Spaces plus one for every full
 20 Spaces of the vehicle. It adds 25% to the value of
-the vehicle’s underside armor. Mine protection can
+the vehicle's underside armor. Mine protection can
 only be applied once
 
 Shaped-charge protection is normally achieved by
@@ -11699,22 +11699,22 @@ REAR 2
 
 SIDES 2
 
-GS-3 stands for ‘ground strike, 3-wheel’. This slightly unusual offering from Halversten Armaments
+GS-3 stands for 'ground strike, 3-wheel'. This slightly unusual offering from Halversten Armaments
 Incorporated was developed for the fast-response and scouting role but has developed into a general-purpose
 light weapons carrier. The basic vehicle is a large three-wheel design, with roll bars around the driving
 position but no significant protection from weapons fire or the elements. The area behind the driver is set
 up as configurable space, and can carry a cargo box capable of holding 4 Spaces of equipment or 1,000kg
-of load. In this configuration the GS-3 is occasionally encountered as a ‘last mile’ logistics vehicle running
+of load. In this configuration the GS-3 is occasionally encountered as a 'last mile' logistics vehicle running
 ammunition and supplies at high speed to forward-positioned troops.
 
 As standard, the vehicle is very basic. It has no sensors or electronics other than a modest driver-assistance
-package and encrypted comms system. The ‘cargo area’ was designed from the outset to be configurable,
+package and encrypted comms system. The 'cargo area' was designed from the outset to be configurable,
 though most commonly all that is added is a pintle-mounted weapon for the use of a second crewmember
-who stands in the vehicle’s rear bed. This is the standard patrol and security configuration for the vehicle,
+who stands in the vehicle's rear bed. This is the standard patrol and security configuration for the vehicle,
 acting as a mobile light support platform or escort for logistics vehicles. An alternate configuration allows two
 infantry personnel to ride in the bed along with a little cargo, dismounting to fight or make a foot patrol whilst
 the driver covers them with a pintle-mounted weapon above the driving position. The art of dropping from a
-standing ‘gunner’ position into the driving seat without inflicting self-injury is an important one.
+standing 'gunner' position into the driving seat without inflicting self-injury is an important one.
 
 TRAITS
 
@@ -11747,7 +11747,7 @@ electronic warfare variant of the GS-3 is designed to be a
 cheap way of getting an expensive piece of equipment into
 the field. The EW package adds an improved, extended-
 range electronic countermeasures package to the rear
-bed. This adds Cr40000 to the vehicle’s price for a readily
+bed. This adds Cr40000 to the vehicle's price for a readily
 
 available TL8 package and is sometimes included in a
 recon-variant vehicle. The resulting platform is fast and
@@ -11764,7 +11764,7 @@ can carry a range of weapons, usually on an open mounting
 equivalent to a small turret with no armor protection.
 The turret weapons are directly controlled by a second
 crewmember. Typically a light autocannon is mounted,
-increasing the vehicle’s cost by Cr20000, but some GS-3s
+increasing the vehicle's cost by Cr20000, but some GS-3s
 are used as mobile anti-aerospace platforms and carry a
 quad-mount light anti-air missile system which increases
 vehicle cost by Cr30000.
@@ -11852,7 +11852,7 @@ UNDER 7
 
 The Field Ranger is a ubiquitous security and transport vehicle often converted into a light patrol asset for lack
 of anything better. It is a 6-wheel-drive ground vehicle somewhere between a large SUV and a small truck,
-with good off-road capability and endurance. The vehicle’s blocky sides maximise internal space at the price of
+with good off-road capability and endurance. The vehicle's blocky sides maximise internal space at the price of
 being a good target, whilst the large rear area can be left open-topped or covered with a lightly armored body
 shell. The crew area and critical components are protected by light armor plate offering modest protection
 against most small arms fire from medium range or greater.
@@ -11860,7 +11860,7 @@ against most small arms fire from medium range or greater.
 Field Ranger was designed from the outset to be customised, and indeed several standard kits are
 manufactured. The basic vehicle is set up for a crew of two, with the rear cargo area open or enclosed as the
 purchaser prefers. There are no weapons as standard, but the cab roof hatch has provision for a pintle mount.
-The rear area can hold 2,750kg of cargo or 11 Spaces’ worth of equipment and/or personnel. The bed of the
+The rear area can hold 2,750kg of cargo or 11 Spaces' worth of equipment and/or personnel. The bed of the
 rear area is sufficiently well constructed to be able to support a light turret weapon.
 
 Field Rangers are typically used for personnel transport, in which case they carry 8-10 personnel in the rear, or
@@ -11885,7 +11885,7 @@ Space but can hold four Spaces of weapons, and costs
 Cr40,000 without fitted weapons. The turret is capable of
 high-angle shooting as well as engaging ground targets, and
 can be controlled from either the cab or rear area according
-to the user’s preference. A turret will reduce cargo capacity by
+to the user's preference. A turret will reduce cargo capacity by
 250kg or equipment Space by 1.
 
 **Large Turret Weapon Package:** If heavier combat capability is
@@ -11914,7 +11914,7 @@ Most Field Rangers are set up as light transports, with only
 minor modifications, or as security/personnel transports
 using the survivability kit. These vehicles typically mount a
 machinegun on a pintle mount atop the cab and carry 6-10
-infantry depending on the unit’s preferences. A light patrol/
+infantry depending on the unit's preferences. A light patrol/
 logistics escort Field Ranger will typically have the survivability
 package and a small turret mounting a light autocannon and a
 pair of light air defence missiles on a rail launcher. The cost of
@@ -12055,7 +12055,7 @@ Cr100000 and takes up 5 Spaces, reducing cargo capacity to
 **Headquarters Support Vehicle Modification:** Using TL12
 components, the HQ support vehicle kit is designed to
 instantly provide a medium-sized mercenary unit or other
-military formation with key functions. The vehicle’s power
+military formation with key functions. The vehicle's power
 system is replaced with a TL9 fusion plant, which takes up
 10 spaces in the rear compartment. Power take-offs enable
 this vehicle to recharge others or run several ground-based
@@ -12071,13 +12071,13 @@ As a result of all these modifications only 8 Spaces are left for
 cargo or additional personnel. This variant of the Negav is very
 expensive, with the new components plus the cost of the base
 vehicle bringing the price tag to MCr2.062, but it provides a
-unit’s headquarters with virtually unlimited power, protection
+unit's headquarters with virtually unlimited power, protection
 from nuclear attack and defence against aerospace and missile
 threats – all in a single, mobile package.
 
-**‘Bombus’ Conversion Package:** Dubbed the ‘Bombus’ by a
+**'Bombus' Conversion Package:** Dubbed the 'Bombus' by a
 notoriously amateurish mercenary force, this conversion is still
-‘officially unofficial’ but is requested often enough that many
+'officially unofficial' but is requested often enough that many
 consider it a standard option. The intent is to turn what was
 designed as a transport vehicle into a mobile raiding platform.
 
@@ -12107,7 +12107,7 @@ the compartment, with space inside for a single gunner.
 Additionally there are small sponsons on each side of the
 rear compartment, each carrying a pair of remote-controlled
 machineguns. There are crew stations for three personnel,
-plus one in the turret, bringing the vehicle’s complement to
+plus one in the turret, bringing the vehicle's complement to
 six. A small amount of cargo space is used by gun racks and
 a wet bar.
 
@@ -12201,7 +12201,7 @@ SIDES 22
 UNDER —
 
 Named after a venomous scuttling creature, the Marrix is one of the few tracked combat vehicles in widespread
-service with interstellar mercenary formations. Most forces favour wheeled or grav vehicles, or a combination
+service with interstellar mercenary formations. Most forces favor wheeled or grav vehicles, or a combination
 of them, since they have better strategic mobility. Heavy tracklayers are well protected but can be vulnerable
 to powerful weapons they are unable to evade, but there is a solid market for light tracked combat and support
 vehicles in certain roles.
@@ -12350,7 +12350,7 @@ this sort serve in the liaison role without conversion, and are primarily used f
 they venture onto the battlefield. Some variants are more combat-worthy and can be encountered as fire
 support platforms or providing vertical mobility to urban combat formations.
 
-The rather grandly named ‘cockpit’ has room for a pilot and a second crewmember, and is fully enclosed.
+The rather grandly named 'cockpit' has room for a pilot and a second crewmember, and is fully enclosed.
 It is lightly armored and capable of withstanding small arms fire from all directions, with slightly better
 underside protection than elsewhere. The rear bed can be configured as a flatbed, low-sided passenger or
 cargo compartment, or as a fully enclosed systems compartment.
@@ -12382,7 +12382,7 @@ capacity by 2 Spaces. Vehicles in this configuration are
 typically used for light patrol work, often with 2-4 personnel
 riding in the rear compartment.
 
-Urban Prowler: The ‘urban prowler’ has an open-topped
+Urban Prowler: The 'urban prowler' has an open-topped
 rear area with a half-ring mount each side. These typically
 mount a light autocannon on each side, operated by two
 crewmembers who stand in the rear of the vehicle. If this
@@ -12390,7 +12390,7 @@ modification is paired with the enhanced survivability
 package, all available space and lifting capacity is used up.
 Fitting the autocannon, with gun shields and ring mounts,
 
-increases cost by Cr25000. This modification’s name comes
+increases cost by Cr25000. This modification's name comes
 from its initial concept as a close-range fire support vehicle
 for personnel operating in cities with tall buildings, but in
 practice it can be encountered as a top-cover and overwatch
@@ -12402,7 +12402,7 @@ platform on a very limited budget. A heavy weapon, such
 as the LC-85 cannon, is mounted in a front-firing limited-
 traverse mount running right through the side of the
 cockpit normally occupied by the second crewmember. The
-gunner’s position is in the rear of the vehicle, along with a
+gunner's position is in the rear of the vehicle, along with a
 limited supply of ammunition. With no spare capacity for
 improved armor, this vehicle is vulnerable but can provide
 useful fire support or ambush light armored vehicles in
@@ -12556,7 +12556,7 @@ large aircraft or perhaps ballistic missiles, the interceptor
 variant replaces its gauss cannon with a pair of rotary
 autocannon and carries light anti-air missiles in the internal
 bay. The three underside pylons are merged to support a
-long-range anti-air missile. In this role the interceptor’s
+long-range anti-air missile. In this role the interceptor's
 ability to take off from a hidden forward position without
 the use of a runway and to climb to altitude in a short time
 are of paramount importance. The large missile is effective
@@ -12647,8 +12647,8 @@ SIDES 18
 UNDER 17
 
 The Chagride was developed as an inexpensive grav APC, and like many vehicles in the marketplace it has
-been used as the basis for a range of variants. As a result the basic model is known by the designation ‘grav
-sled’ rather than any role-specific term. The actual role of the vehicle is indicated by a second term, such as
+been used as the basis for a range of variants. As a result the basic model is known by the designation 'grav
+sled' rather than any role-specific term. The actual role of the vehicle is indicated by a second term, such as
 Chagride Ambulance or Chagride Fire Support Vehicle. This tells personnel what they need to know – what
 the vehicle does and which chassis it is based upon.
 
@@ -12671,7 +12671,7 @@ Resgaw-220 10 2DD 12 CR20000 Blast 16, One Use —
 
 **Survivability Upgrade:** Bolt-on armor plates and inserts
 increase protection to 28 rear and sides and 24 top and
-bottom. Frontal armor is 30. The vehicle’s structure
+bottom. Frontal armor is 30. The vehicle's structure
 cannot carry much more than this without a complete
 rebuild. This package consumes 2 internal Spaces and
 adds Cr160000 to the cost.
@@ -12694,7 +12694,7 @@ infantry soldiers can still be carried.
 Artillery Sled Modification: The Chagride is the basis for
 a variety of artillery platforms, some of which are fairly
 modest. One common modification adds an enclosed
-220mm rocket artillery system protected by the vehicle’s
+220mm rocket artillery system protected by the vehicle's
 armor until raised into firing position. Eight unguided
 220mm artillery rockets are carried, with no reloads.
 These can be launched singly but are almost always used
@@ -12843,7 +12843,7 @@ WEAPONS
 Up-Armored Variant: Additional armor can be applied,
 bringing protection to 80 front, 70 sides, 60 rear and
 53 top and bottom. This costs Cr900000 and uses up 4
-of the vehicle’s 6 remaining Spaces. An additional +30
+of the vehicle's 6 remaining Spaces. An additional +30
 protection all-round can be added using reactive armor at
 a cost of Cr200000.
 
@@ -12853,7 +12853,7 @@ standard version. Some users purchase one fusion tank to
 lead a platoon, with the others taking power from it when
 necessary. The fusion reactor bay can be used for stowage
 or additional systems, adding 10 Spaces (2.5 tons) to the
-vehicle’s capacity.
+vehicle's capacity.
 
 ARMOR
 Autopilot (skill level) 1
@@ -12938,7 +12938,7 @@ SIDES 12
 UNDER 10
 
 The S-series is a large grav transport developed to meet a variety of needs. The basic unit is a lightly armored
-‘grav truck’ suitable for most logistics or personnel movement needs. Its broad oval hull form is reasonably
+'grav truck' suitable for most logistics or personnel movement needs. Its broad oval hull form is reasonably
 aerodynamic, though awkwardly shaped cargoes carried on an open frame can catch the wind alarmingly. The
 driving compartment has space for two crewmembers and is separated from the configurable rear area by a
 bulkhead pierced by a strongly built hatch. The rear area has drop-down sides and rear to allow loading from all
@@ -12950,8 +12950,8 @@ The basic S-Series is armored all round against small-arms fire, including its u
 notoriously weak, but this was never intended to be a combat vehicle. The crew ride in an NBC-protected citadel
 which has an additional 20 points of armor. No weapons are fitted as standard, but many users add a remote-
 controlled machinegun or similar light support weapon on the cab roof. In its basic logistics configuration the
-S-series is assigned the reporting name ‘Skate’ whilst when serving as a personnel transport it is referred to as
-‘Snake’. A Snake can easily transport an entire platoon of infantry, and some users fit pintle mounts around the
+S-series is assigned the reporting name 'Skate' whilst when serving as a personnel transport it is referred to as
+'Snake'. A Snake can easily transport an entire platoon of infantry, and some users fit pintle mounts around the
 periphery of an open-topped vehicle for support weapons.
 
 S-SERIES GRAV TRANSPORT
@@ -12978,7 +12978,7 @@ AC-25 (AP) 2.5 6D-3 100 CR4000 AP 7, Auto 3 —
 AirSpace (laser) 2 8D 2 — — —
 AirSpace (missile) 5 6D 1 CR2500 —
 
-High-Survivability Variant (‘Sermon’): An applique armor
+High-Survivability Variant ('Sermon'): An applique armor
 package increases armor protection to 20 front, back and
 sides, with 18 on the underside and 14 on top. A laser anti-
 missile system is fitted atop the cab roof and an improved
@@ -12986,27 +12986,27 @@ ECM unit is built into the front of the cargo area. This adds
 Cr750000 to the cost of the vehicle and reduces cargo
 capacity to 42 Spaces (10.5 tons).
 
-Mobile Hospital Variant (‘Studio’): The mobile hospital
+Mobile Hospital Variant ('Studio'): The mobile hospital
 variant mounts a TL10 field medical unit inside the rear
 compartment, carried in ready condition and able to be set
 up or closed down for travel in a matter of minutes. This
 variant costs MCr7.171. It has 10 Spaces (2.5 tons) for
 stores, spares or additional facilities. This space is often
-turned into a ‘travel lounge’ for the medical professionals
+turned into a 'travel lounge' for the medical professionals
 assigned to the vehicle.
 
-Mobile Support Variant (‘Scholar’): The mobile support variant
+Mobile Support Variant ('Scholar'): The mobile support variant
 attempts to pack a unit headquarters into a single vehicle.
 It incorporates the protection of the Sermon variant and
 in addition carries a TL10 fusion plant and a field nuclear
-damper. A small command centre, capable of supporting six
+damper. A small command center, capable of supporting six
 personnel, is housed within a second citadel connected to
 the driving chamber by a short tunnel. No weapons are fitted
 as standard but there are 9 spaces available for weapons,
 cargo or any additional facilities the user may want. Cost is
 Cr7,566,575.
 
-Direct Support Variant (‘Salacious’): The direct support
+Direct Support Variant ('Salacious'): The direct support
 variant was given the reporting name Salacious as a
 convoluted reference to potential users apparently needing
 to compensate for something. The basic vehicle has been
@@ -13016,10 +13016,10 @@ heavily up-armored, raising protection to 30 all round and
 the rest of the vehicle is open-topped. The rear compartment
 is crossed by two large beams, from which a pair of outriggers
 are slung along the sides of the vehicle. These have open
-weapon stations at the front, rear and centre, with a gunner
+weapon stations at the front, rear and center, with a gunner
 seated directly at the weapon they control.
 
-Armament can vary but ‘showroom standard’ is a Blackjack
+Armament can vary but 'showroom standard' is a Blackjack
 gun/missile system in the front position on each side, with a
 co-axial machinegun. The weapon station for these incudes
 space for a gunner and loader, with 18 rounds for the gun
@@ -13028,7 +13028,7 @@ and three missiles. The central and rear stations mount AC-
 hopper containing 200 rounds for each gun. All guns have a
 co-axial machinegun.
 
-The outriggers take up a lot of the vehicle’s lifting capability,
+The outriggers take up a lot of the vehicle's lifting capability,
 and their supports block off much of the rear compartment.
 Aft of the rear support is a mounting for an AirSpace defence
 system and an operator station for it, consuming all available
@@ -13039,7 +13039,7 @@ autocannon, remotely controlled from the cab.
 
 The conversion process requires some sub-optimal
 arrangement of components, with the result that only 10
-Spaces (2.5 tons) remain in the centre of the open rear
+Spaces (2.5 tons) remain in the center of the open rear
 section. Some users carry additional ammunition, whilst
 others find a way to cram more weaponry into this space.
 Cost without weapons is Cr650000. With the weapons fit
@@ -13080,7 +13080,7 @@ and the like. In this role the vessel essentially serves
 as a mobile command post rather than combat
 asset, though it may be armed for self-defence.
 
-Hull form is a typical ‘humped cylinder’, arranged as
+Hull form is a typical 'humped cylinder', arranged as
 two primary decks. The drives and engineering spaces
 are housed in a two-deck-high section right aft, with
 the bridge above these on a dorsal hump. Forward
@@ -13294,7 +13294,7 @@ If troop transport capability is not desired the
 barracks and its associated common area can be
 converted to other uses.
 
-Hull form is a ‘cranked wedge’ configuration, with a
+Hull form is a 'cranked wedge' configuration, with a
 wide 2-deck high section at the rear and a narrower
 single-deck section projecting forward from it. Drives
 are located aft on both decks, with the barracks
@@ -13315,12 +13315,12 @@ The vessel requires a crew of 9 for normal
 operations, though adding a medic is advisable.
 Some users dispense with the barracks and convert
 the lower deck into a vehicle bay and deployment
-area. Giving the ship’s commander and the leader
+area. Giving the ship's commander and the leader
 of ground troops their own stateroom and moving
 all other crew into double occupancy leaves six
 staterooms which can be used by up to twelve
 groundside personnel. This frees up the whole
-barracks and troops’ common area for spares and
+barracks and troops' common area for spares and
 supplies or vehicles and combat equipment.
 
 GUNSHIP SHADOW-CLASS
@@ -13694,12 +13694,12 @@ who will try to use it as one. Like many paramilitary
 ships, the Borwen has a lightly armored hull and some
 weaponry fitted as standard for self-defence.
 
-General hull form is a ‘flared cylinder’, formed from
+General hull form is a 'flared cylinder', formed from
 a primary hull with three compartmentalised sections
 below. The central secondary hull is much longer and
 larger than the other two, which flank it to create a
-broad rear section. The primary, or ‘working’, hull
-is dedicated to ‘ship’ operations, with the drives
+broad rear section. The primary, or 'working', hull
+is dedicated to 'ship' operations, with the drives
 and power plant conventionally located aft. Crew
 accommodation is forward of this, with common areas
 and the bridge positioned right forward. 32 staterooms
@@ -13728,25 +13728,25 @@ of their capacity available to launch satellites or
 surveillance probes. The remaining dual pulse laser
 turrets are mounted singly to give a wider arc of fire.
 
-The lower deck contains three almost identical ‘platoon
-transport segments’ arranged in parallel. The outer two
+The lower deck contains three almost identical 'platoon
+transport segments' arranged in parallel. The outer two
 each contain 60 low berths each plus a small ready
 area, cargo stowage and a medical bay. The central
 one is has 40 low berths and a double-sized medical
-bay that serves as a trauma centre when the vessel is
+bay that serves as a trauma center when the vessel is
 supporting groundside operations. Forward of this are
 training areas, a barracks capable of transporting a
 platoon-sized unit and an extensive armory/workshop
-for the unit’s weaponry.
+for the unit's weaponry.
 
 A company of up to 200 infantry can be transported
 aboard a Borwen, with one platoon and command
-personnel travelling ‘awake’ and the remainder in
+personnel travelling 'awake' and the remainder in
 low berths. A limited amount of supplies and support
 equipment can be carried, though a unit with a lot
 of vehicles may need a bigger ship. One of the key
 factors in deciding what equipment to purchase is
-whether it will fit aboard the unit’s transport vessel.
+whether it will fit aboard the unit's transport vessel.
 Common variants replace the three low berth bays
 with cargo space, creating a logistics ship, or with
 garages for combat vehicles. An armored company
@@ -13980,7 +13980,7 @@ CHAPTER-ONE
 **SOLDIER LOADOUTS**
 
 The Traveller Core Rulebook states that Travellers be
-allowed to carry a ‘reasonable’ load without tracking
+allowed to carry a 'reasonable' load without tracking
 it. Unfortunately, many Travellers have a rather
 curious idea of what is reasonable. Three different
 rifles, a flamethrower, an anti-aircraft missile
@@ -13999,7 +13999,7 @@ becoming excessively tired. If the Travellers want to
 push the limits of what they can carry and still move
 or fight, stricter rules are necessary. These are based
 on page 92 of the Traveller Core Rulebook , modified
-for the mercenaries’ circumstances.
+for the mercenaries' circumstances.
 
 Note that powered armor does not contribute to
 encumbrance when powered up and that the weight
@@ -14022,15 +14022,15 @@ will typically be around 16–18kg of equipment.
 
 Combat Load: 2x (all levels in Athletics (strength and
 endurance) plus STR + END)
-A soldier’s combat load is up to twice their ‘combat
-light’ load, so around 32–36kg for a fit and well-
+A soldier's combat load is up to twice their 'combat
+light' load, so around 32–36kg for a fit and well-
 trained soldier. At this level all physical actions that
 require significant movement are one difficulty level
 harder. A soldier doing something that requires only
 slight movement, such as shooting from cover, does
 not suffer this penalty but as a rule of thumb anything
 requiring more than a step or turn in place qualifies
-as ‘significant movement’. A soldier carrying combat
+as 'significant movement'. A soldier carrying combat
 load is considered to be performing heavy labour as
 per page 76 of the Traveller Core Rulebook.
 
@@ -14048,7 +14048,7 @@ in a fight, enabling the soldier to move down from
 field load to combat load or even combat light. Of
 course, this equipment might be lost if the unit is
 pushed back and cannot retrieve its packs. Field load
-is up to three times the soldier’s combat light load.
+is up to three times the soldier's combat light load.
 At this level all physical tasks are considered one
 difficulty level harder whether they require significant
 movement or not. For a typical fit and well trained
@@ -14093,7 +14093,7 @@ Field Catalogue, as detailed below. Other traits can be
 found in the Central Supply Catalogue if it is in use and
 apply to the weapons found there. In some cases these
 may be similar to traits described in this book. At the
-Referee’s discretion similar traits can be swapped, such
+Referee's discretion similar traits can be swapped, such
 as Fire and Burn or Hazardous and Dangerous.
 
 Burn X: A Burn weapon delivers half its initial damage
@@ -14125,7 +14125,7 @@ as a human or other living being would. For example,
 acoustic location devices use the sound of a weapon
 to locate it, just like a person turning to look in the
 direction the sound seemed to be coming from. Such
-devices use the weapon’s Physical Signature trait
+devices use the weapon's Physical Signature trait
 rather than Emissions Signature.
 
 Hazardous -X: Some weapons use hazardous materials
@@ -14135,10 +14135,10 @@ does increase the severity of a malfunction. A well-made
 and properly cared-for weapon should never suffer a
 significant malfunction in the field and if this is the case
 the user need not worry about the nuclear fusion reaction
-going on in the weapon’s powerpack. If the weapon does
+going on in the weapon's powerpack. If the weapon does
 suffer a malfunction or is penetrated by enemy fire, use
 the Malfunction table on page 8 to determine the severity
-of the problem. The weapon’s Hazardous score is applied
+of the problem. The weapon's Hazardous score is applied
 as a negative DM on this table.
 
 Most weapons pose some hazard if damaged or
@@ -14177,7 +14177,7 @@ might be used.
 alight on a successful check determined by the nature
 of the materials. A sufficiently hot incendiary can even
 ignite materials that would not normally be considered
-flammable, such as metals. The weapon’s Incendiary
+flammable, such as metals. The weapon's Incendiary
 score is used as a positive modifier to this check; if not
 specified this value is +0.
 
@@ -14207,9 +14207,9 @@ armor or fail to penetrate hard surfaces. This can be
 desirable, such as when ammunition is intended for
 use on a small indoor firing range or inside spacecraft.
 A low-penetration round is unlikely to punch a hole in
-a cabling conduit and wreck the ship’s control systems.
+a cabling conduit and wreck the ship's control systems.
 Weapons with Lo-Pen have a score, typically 2 or 3.
-This is a multiple to be applied to the target’s armor,
+This is a multiple to be applied to the target's armor,
 if any. Thus a Lo-Pen (3) weapon striking a flak jacket
 with Protection +5 would treat it as Protection +15;
 penetration is highly unlikely. Low-velocity firearms and
@@ -14232,14 +14232,14 @@ or are poorly engineered. Examples include crude
 zip guns made in backstreet workshops, home-made
 flamethrowers and improvised fusion guns. Ramshackle
 scores usually range from -1 to -4 depending on the
-severity of the weapon’s deficiencies but can be even
+severity of the weapon's deficiencies but can be even
 more. Typically, attempts to repair or build a weapon at
 lower than its Tech Level will impose a Ramshackle trait
 equal to the difference in Tech Levels. Poor manufacture
 or parts, long periods without maintenance and bad
 design can all impose a Ramshackle trait on a weapon.
 The DM is applied to attack rolls and the results of
-weapon malfunctions. At the Referee’s discretion it can
+weapon malfunctions. At the Referee's discretion it can
 be reduced by the Effect of a Mechanics check made
 when fixing a damaged weapon in the field. Note that
 being Ramshackle does not necessarily make a weapon
@@ -14248,7 +14248,7 @@ reliable, just not very good.
 
 For example, a party of Travellers finds a TL14 fusion
 gun that someone has abandoned. With no tools
-available, the team’s mechanical genius decides to
+available, the team's mechanical genius decides to
 have a go at fixing it up. Using nothing more than her
 boot and a nearby rock, she performs a mechanical
 miracle with Effect +7. The fusion gun is restored to
@@ -14309,7 +14309,7 @@ malfunctions and breakdowns. This is typically seen
 with primitive weaponry such as black powder muskets
 
 but could be imposed by poor-quality ammunition. A
-weapon’s degree of Unreliable is indicated by a score in
+weapon's degree of Unreliable is indicated by a score in
 the range 1–5. When this weapon is used, an additional
 1D of a different colour is thrown along with the usual
 2D check. If this dice comes up equal to or less than
@@ -14318,13 +14318,13 @@ malfunction. This might be a simple misfire but could
 be a full jam or even a breach explosion.
 
 If a weapon malfunction occurs, roll 2D on the
-Malfunction table. The weapon’s user receives a positive
+Malfunction table. The weapon's user receives a positive
 DM equal to their relevant combat skill. Negative DMs
 also apply.
 
 Weapon Power: DM-1 for every 1D of damage done by
 the weapon.
-Hazardous Weapon: Apply the weapon’s Hazardous score
+Hazardous Weapon: Apply the weapon's Hazardous score
 as a negative DM.
 
 Malfunction
@@ -14344,7 +14344,7 @@ Some weapons have both Spread and
 Inaccurate, such as shotguns. Inaccurate does
 not apply within 10m so at this range the user
 benefits from the Spread value. Between 10m
-and the weapon’s base range, both apply. Thus
+and the weapon's base range, both apply. Thus
 a shotgun with Spread (2) and Inaccurate (-1)
 affords the user a net DM+1 to attack rolls.
 
@@ -14362,8 +14362,8 @@ The precise distance from combatant to target is
 sometimes very important, such as when calculating a
 firing solution for artillery. However, most of the time
 the general range conditions are more important as
-they impose tactical limitations. There are five ‘range
-conditions’ that can apply to a military force or some of
+they impose tactical limitations. There are five 'range
+conditions' that can apply to a military force or some of
 its members.
 
 **Close Quarters** (sometimes called Close Assault) is a
@@ -14375,7 +14375,7 @@ loosely defined; in this case it is a situation where at
 least some combatants are capable of rushing into their
 opponents to attack with bayonets or similar personal
 weaponry. Personnel who are engaged at close quarters
-are unlikely to be able to keep track of the ‘big picture’
+are unlikely to be able to keep track of the 'big picture'
 
 - they are too busy trying to stay alive! As a result DM-
 applies on checks other than those pertaining to the
@@ -14408,7 +14408,7 @@ about its business as normal.
 
 Battlefield range conditions extend to the point where
 direct-fire weapons are highly unlikely to be effective.
-This is typically 3–5 kilometres, but can vary according
+This is typically 3–5 kilometers, but can vary according
 to the local situation. Essentially, if an enemy force
 is close enough to be engaged by the main armament
 of a tank operating at ground or low level, battlefield
@@ -14429,7 +14429,7 @@ specific threats.
 Standoff range conditions exist beyond the immediate
 battlefield and extend out to the maximum effective
 range of locally available weapons. On a TL4 battlefield
-this might be just a few kilometres beyond the
+this might be just a few kilometers beyond the
 immediate combat area and few commonly available
 standoff weapons are useful beyond 50–100km. A
 force at Standoff range is not in danger from direct-
@@ -14455,7 +14455,7 @@ and orbital laser fire. It is beyond the scope of most
 Traveller-owned mercenary units, although they may
 become involved – perhaps leading a commando
 mission to take out a missile launch site or defending a
-communications centre against infiltrators.
+communications center against infiltrators.
 
 VACUUM AND
 LOW-GRAVITY
@@ -14474,11 +14474,11 @@ weapons, temporarily gains the Unreliable (1) trait.
 
 Low gravity increases the distance projectiles will
 travel but not the ability of personnel to aim. Bullets
-do not ‘drop’ as a shooter experienced in higher
+do not 'drop' as a shooter experienced in higher
 gravity would expect. There is no effect out to 100
-metres, after which DM-2 applies to shots made out
-to 1,000 metres. DM-4 applies to shots made out to
-10 kilometres and DM-6 to shots beyond this. This
+meters, after which DM-2 applies to shots made out
+to 1,000 meters. DM-4 applies to shots made out to
+10 kilometers and DM-6 to shots beyond this. This
 DM is reduced by one for every level of the Vacc Suit
 skill the shooter has, reflecting an ability to predict
 the effects of low or zero gravity and does not apply to
@@ -14487,7 +14487,7 @@ lasers or similar energy weapons.
 Extreme range can be considered doubled in minimal
 or zero gravity. Weapons that rely on firing in a ballistic
 arc become difficult to aim, although incredible
-‘trick shots’ are possible to those with sufficient
+'trick shots' are possible to those with sufficient
 mathematical ability to calculate trajectory. Likewise,
 trace atmosphere or vacuum does not slow projectiles.
 This does not greatly affect the ability of the average
@@ -14497,7 +14497,7 @@ low gravity. Thus it is possible to engage targets across
 very great distances, although the time taken for a
 projectile to get there and the difference in conditions
 from that the shooter may be used to, makes hitting a
-person with a rifle from 5 kilometres rather difficult no
+person with a rifle from 5 kilometers rather difficult no
 matter how good the sighting system.
 
 Indirect Fire
@@ -14505,9 +14505,9 @@ Indirect fire in this context refers to any projectile
 that does not follow a straight path to the target and
 will typically be carried out with grenade launchers
 and light artillery weapons. Arguably a hand grenade
-‘pinballed’ off two walls to get it around a corner is
+'pinballed' off two walls to get it around a corner is
 an example of indirect fire, although more commonly
-one will be lobbed over an enemy’s cover or into their
+one will be lobbed over an enemy's cover or into their
 foxhole. Energy weapons cannot conduct indirect
 fire and it cannot be conducted without a physical
 mechanism. Thus would normally be gravity but an
@@ -14526,17 +14526,17 @@ be directly observed, DM-2 applies to the attempt
 to hit. In addition, all indirect attacks – even if the
 target is visible to sensors or a handoff targeting point
 is available – are imprecise. The attack will land 1D
-metres from the target point, plus 1D for every full
-100 metres the weapon must travel. Each point of
-negative Effect adds one metre to the distance; each
-point of positive Effect reduces it by one metre.
+meters from the target point, plus 1D for every full
+100 meters the weapon must travel. Each point of
+negative Effect adds one meter to the distance; each
+point of positive Effect reduces it by one meter.
 
 Indirect fire is for the most part useful only with
 area-effect weapons such as grenades. However, if
-the attack roll is good enough to indicate zero metres
+the attack roll is good enough to indicate zero meters
 then the target has received a direct hit. Area-effect
 weapons will do their normal damage and impact
-damage may be added at the Referee’s discretion.
+damage may be added at the Referee's discretion.
 For most projectiles likely to be used in this manner
 impact damage will be 1D for those that have
 bounced off something and 2D for direct impact.
@@ -14544,7 +14544,7 @@ bounced off something and 2D for direct impact.
 This rule can be used to resolve unusual indirect-
 fire situations. For example, a Traveller is in a tricky
 hostage situation and cannot get a clean shot at an
-enemy. Their solution is to yell ‘grenade’ and throw an
+enemy. Their solution is to yell 'grenade' and throw an
 actual grenade but without pulling the pin, bouncing
 it off a wall to strike the hostage-taker from behind. A
 particularly good attack roll results in a 0m deviation,
@@ -14563,12 +14563,12 @@ indirect fire rule.
 
 When an area effect weapon is used for indirect fire, it
 imposes an Area Fire attack (see page 14) on everyone
-within its Burst value in metres.
+within its Burst value in meters.
 
 Firing Over Open Sights
 Some artillery weapons can engage targets
 directly in line of sight. This is generally referred
-to as ‘firing over open sights’. High-trajectory
+to as 'firing over open sights'. High-trajectory
 weapons such as mortars cannot do this and
 very heavy weapons may not be able to traverse
 fast enough or depress far enough to hit targets
@@ -14629,7 +14629,7 @@ directly controlled from a remote position.
 
 When conducting bombardment the intent is to put
 payloads into a general area. With very precise weapons
-this area may be smaller than the warhead’s danger
+this area may be smaller than the warhead's danger
 radius but more commonly bombardment is something
 of a lottery. For this reason weapons with a large area
 of effect are preferred. Putting artillery shells into the
@@ -14654,12 +14654,12 @@ of some truly enormous weapons there may be other
 effects. These are discussed in the Specialists book. If
 it is necessary to determine how far away the weapon
 landed, deviation can be taken as 2D% of the range it
-was fired from. This is a minimum of 100 metres for
-weapons fired at 5 kilometres and possibly as much as
-6 kilometres for a weapon 50 kilometres away. Direction
+was fired from. This is a minimum of 100 meters for
+weapons fired at 5 kilometers and possibly as much as
+6 kilometers for a weapon 50 kilometers away. Direction
 must be determined randomly.
 
-A ‘hit’ on the Heavy Weapons check does not mean a
+A 'hit' on the Heavy Weapons check does not mean a
 direct hit has been scored on the target with indirect
 fire. Instead it means that the warhead has arrived close
 enough to the target to have some effect. Most artillery
@@ -14668,7 +14668,7 @@ within that area. Once a hit on the general target area
 has been determined with artillery, it is necessary to find
 out how serious it will be.
 
-Roll 2D if a ‘hit’ is scored. On a straight double-6 the
+Roll 2D if a 'hit' is scored. On a straight double-6 the
 target may have suffered a direct hit and damage is
 doubled. On 8+, the round comes close enough to do
 full damage. On a roll of 7–, the round buries itself in
@@ -14692,11 +14692,11 @@ considered a standoff attack and is far more likely to
 score a direct hit. The positive Effect of the attack check
 is added to the 2D check to determine the nature of the
 hit. In addition, weapons guided by an operator may
-add the operator’s Heavy Weapons (artillery) skill level
+add the operator's Heavy Weapons (artillery) skill level
 to the 2D check. Automatically guided weapons use
-the projectile’s own guidance DM and some advanced
+the projectile's own guidance DM and some advanced
 weapons may use both an operator DM and one from the
-weapon’s own systems.
+weapon's own systems.
 
 If a forward observer or some form of midcourse
 guidance is available, the chances of a good hit are
@@ -14704,7 +14704,7 @@ further enhanced. To increase the chance of a first-
 shot hit a forward observer may make an Electronics
 (comms) check subject to additional modifiers as if
 making an attack roll. The Effect of this check is added
-to (or subtracted from) the weapon’s check to reach
+to (or subtracted from) the weapon's check to reach
 the general target area, which in turn will improve
 the chances of a direct hit by increasing the level of
 success. This process is no different to that on page 7 of
@@ -14717,8 +14717,8 @@ bombardment weapons. To do this, the observer must
 be able to both see the target area and communicate
 with the gunners. After the first salvo, the forward
 observer can make a Heavy Weapons (artillery) check.
-If successful, the gunners’ next shots gain a cumulative
-DM+1 to hit, up to a maximum of the observer’s skill
+If successful, the gunners' next shots gain a cumulative
+DM+1 to hit, up to a maximum of the observer's skill
 level. However, if the gunner fails an attack roll at any
 point, the process of walking the artillery onto the target
 must begin once again.
@@ -14735,13 +14735,13 @@ gaining this +1 along with their own DM+2 for a solid
 Heavy Weapons (artillery) check. The shell will arrive
 in the target area and gains DM+3 on the 2D check to
 see of a direct hit has been achieved. This DM is for
-the forward observers’ efforts and that of the crew. In
-addition, the weapon’s own guidance DM+2 is added.
+the forward observers' efforts and that of the crew. In
+addition, the weapon's own guidance DM+2 is added.
 A score of 8 on 2D is modified to 13 – more than the
 12 needed for a direct hit. The observers are satisfied
 to see the shell arrive on a good trajectory then adjust it
 slightly to come down directly on the target. Without the
-shell’s terminal guidance it would have been very close
+shell's terminal guidance it would have been very close
 to the target and done normal damage._
 
 SUSTAINED FIRE
@@ -14767,7 +14767,7 @@ dissipates Heat at a rate determined by its construction
 during each round it is not fired. If the weapon
 exceeds its safe Heat level, a malfunction may occur
 on any occasion it is fired – even a single shot. The
-malfunction chance is based on the weapon’s Heat
+malfunction chance is based on the weapon's Heat
 level before the attack was made.
 
 Every attack made after the safe Heat threshold is
@@ -14778,7 +14778,7 @@ the Heat DM but they do not reduce it either, so it
 is possible to keep popping off single rounds from
 a glowing-hot weapon whilst staying just below the
 disaster threshold. The chance of a malfunction
-depends on the weapon’s condition. If a malfunction
+depends on the weapon's condition. If a malfunction
 occurs, consult the Malfunction table on page 8.
 
 Changing the barrel on weapons equipped for this is
@@ -14811,19 +14811,19 @@ because the Traveller was firing intermittently and the
 weapon had a chance to cool but a malfunction at this
 critical moment could be significant as well as dramatic
 and exciting. The Traveller fires again, increasing the
-weapon’s Heat to 39 at the end of the round but the
+weapon's Heat to 39 at the end of the round but the
 chance of a malfunction is based on the 36 points of
 Heat at the time the shot was fired. The weapon is past
 its danger threshold, so the chance if a malfunction
 is 9+ on a straight 2D roll. One occurs, and a check,
 with DM-2 for being past the threshold, is made on
 the Malfunction table. This is subject to an additional
-DM-3 for the weapon’s damage dice and DM+2 for the
-Traveller’s Gun Combat skill, for a total of DM-3. This
+DM-3 for the weapon's damage dice and DM+2 for the
+Traveller's Gun Combat skill, for a total of DM-3. This
 comes out a 3 – a critical component of the weapon
 has failed and the weapon needs workshop time. The
 Referee decides a round has expanded in the breach
-and jammed the ejection system. The Traveller’s attack
+and jammed the ejection system. The Traveller's attack
 that round is aborted. She switches to her backup
 weapon and the situation becomes a bit more desperate.
 
@@ -14888,7 +14888,7 @@ consider whether to allow the weapon to cool or to
 keep firing and hope for the best. As with all rules
 in Mercenary , the sustained fire and overheating
 rule is intended to give the Travellers problems to
-solve or opportunities whilst the enemy’s heavy
+solve or opportunities whilst the enemy's heavy
 weapon is out of action. Likewise, if the Travellers
 decide to tool up with the most extreme rapid-fire
 weaponry money can buy, their weapons should
@@ -14983,7 +14983,7 @@ enemy is suspected of using. It can also be used to deny
 an area to the enemy by endangering anyone passing
 through it. For example, a mercenary unit might lay
 down suppressing fire on a window suspected of being
-a sniper’s position or across a corridor intersection to
+a sniper's position or across a corridor intersection to
 prevent enemies from moving through. Anyone entering
 the suppressed area, trying to move through or out of it
 or doing anything except staying under cover is subject
@@ -15040,14 +15040,14 @@ target, interposing an object or obscuring it with smoke.
 
 Normally, keeping a designated or controlled weapon
 on target requires an Average (8+) check using the
-operator’s skill; typically the skill associated with the
+operator's skill; typically the skill associated with the
 weapon used but a mercenary with a rifle-mounted
 designator could use Gun Combat to paint the target. If
 the check is made and no adverse situation occurs, such
 as a cloud of smoke obscuring the target, the weapon
 will automatically hit.
 
-It is possible to perform ‘trick shots’ with a designator.
+It is possible to perform 'trick shots' with a designator.
 For example, a concealed launcher might put four
 missiles into the air at short intervals, causing them to
 pop up from behind a forest or hill close to the target.
@@ -15088,7 +15088,7 @@ Each round an area defence system can attack a number
 of targets equal to its Area Defence rating. A point
 defence weapon can attack a number of targets equal to
 its Point Defence rating. Area defence is conducted first,
-with point defences attacking any ‘leakers’ that come
+with point defences attacking any 'leakers' that come
 through the first defensive layer.
 
 Area and point defences use attack rolls like any other
@@ -15096,7 +15096,7 @@ weapons. Those guided by operators may use their
 skill level as a DM, although engagement times are so
 short with these weapons that actual aiming and firing
 is almost always controlled by a dedicated electronic
-system. The operator’s input is limited to direction and
+system. The operator's input is limited to direction and
 target selection, essentially providing tactical indications
 to the automated systems.
 
@@ -15142,7 +15142,7 @@ better idea to aim for the best aligned surface.
 
 Travellers might come up with a clever idea, such as
 trying to hit the underside of a tank as it crests an
-obstacle or aiming for a ‘shell trap’ where the shape
+obstacle or aiming for a 'shell trap' where the shape
 of the vehicle makes penetration more likely. If this
 is plausible and well roleplayed the referee should
 usually allow it. Top and bottom armor is typically
@@ -15154,7 +15154,7 @@ Traveller. Shell traps and weak points are typically
 rather small, but a miss by a small margin will usually
 still strike the vehicle. In this case an attack that
 succeeds with Effect +6 or greater will hit a weak
-point at the referee’s discretion. Armor can be
+point at the referee's discretion. Armor can be
 considered to be halved in this case, and the vehicle
 gains no advantage from reactive armor. Of course,
 this also applies to vehicles operated by the Travellers
@@ -15210,7 +15210,7 @@ This is applied on the Final Penetration table to
 determine if any traits or special effects are to be
 added. Most weapons begin with Penetration 0.
 There is no Lo-Pen 1 trait since this would mean no
-modification to the armor’s Protection.
+modification to the armor's Protection.
 
 Final Penetration
 Penetration Effect Traits and Damage Modification
@@ -15227,14 +15227,14 @@ dice of damage.
 +4 Extreme Armor-Piercing AP 5 plus 2 per full dice of damage, -1 damage per dice of
 damage.
 
-The weapon’s performance against armor is
+The weapon's performance against armor is
 determined by a running total of positive and negative
 factors, with the end result translated into traits.
 Thus a gauss rifle using armor-piercing ammunition,
-with a final Penetration 3, is a ‘high armor piercing
-weapon’, which modifies its damage from 4D to
+with a final Penetration 3, is a 'high armor piercing
+weapon', which modifies its damage from 4D to
 4D-3 but adds AP 9. A low-velocity shotgun with
-Penetration -2 is ‘very poor against armor’, which
+Penetration -2 is 'very poor against armor', which
 gives it the Lo-Pen 3 trait. This weapon would treat
 a Protection +5 flak jacket as having Protection +15,
 but just might get some damage through.
@@ -15308,7 +15308,7 @@ atmosphere between muzzle and target but it may not
 be recognized as a weapon firing. If there is a lot of
 noise, such as when travelling in a vehicle on rough
 ground, the sound may not be heard at all or may be
-misidentified. A rock thrown up by the vehicle’s wheels
+misidentified. A rock thrown up by the vehicle's wheels
 and slamming into its underside might be interpreted as
 a gunshot or vice versa. In some cases a Traveller might
 be unable to determine if the sound was or was not a
@@ -15321,7 +15321,7 @@ originated. Detecting and locating a shot requires a
 Routine (6+) Recon check if using normal senses or
 an Easy (4+) Electronics (sensors) check if sensors
 are being used. Note that only specialist sensors can
-pick up a weapon’s physical signature whereas almost
+pick up a weapon's physical signature whereas almost
 anything that can detect magnetic fields, heat and the
 like will pick up its emissions signature. If the Traveller
 succeeds, they know a shot has been fired and its
@@ -15335,21 +15335,21 @@ open surrounded by a big pall of smoke the Traveller
 will probably gain an exact location but a camouflaged
 sniper or someone hiding in a dark upper-floor room
 may not be directly spotted. In this case the Traveller
-will have a general location such as ‘upper floors of that
-building’ or ‘those trees, ground level’ but will have to
+will have a general location such as 'upper floors of that
+building' or 'those trees, ground level' but will have to
 make an additional Recon check to spot the shooter.
 A general area could be sprayed with automatic fire
 or blasted with artillery even if all the Travellers know
-is that the shot came from ‘somewhere in there’ but
+is that the shot came from 'somewhere in there' but
 directly engaging a target requires spotting it first.
 
 In the event the Traveller succeeds with Effect +6 or
 more, they will be able to identify the weapon in use.
-Not to the degree of stating with certainty ‘that was
+Not to the degree of stating with certainty 'that was
 a twin-trigger Steyr-Mannlicher SSG assembled on a
-Tuesday by a left-handed armorer’ but in terms of ‘large
-calibre rifle’, ‘smallbore rifle’, ‘shotgun’, ‘gauss pistol’
-and so forth. They will also know the shooter’s precise
+Tuesday by a left-handed armorer' but in terms of 'large
+calibre rifle', 'smallbore rifle', 'shotgun', 'gauss pistol'
+and so forth. They will also know the shooter's precise
 location, down to which window they fired from or the
 equivalent, even if they cannot see the shooter directly.
 
@@ -15365,7 +15365,7 @@ Situational Modifiers
 Circumstance DM
 Physical Signature DM for weapon As applicable
 Emissions Signature DM for weapon As applicable
-Shooter is in the observer’s general arc of vision +2
+Shooter is in the observer's general arc of vision +2
 Noisy Conditions (vehicle on rough ground) -2
 Extremely Noisy Conditions (friendly gunfire nearby or artillery in the vicinity) -4
 Cluttered Terrain (forest, jumbled boulders) -2
@@ -15399,14 +15399,14 @@ allow the user to be effectively invisible to thermal
 sensors for a time but which will eventually be
 overloaded and begin to leak so much heat they cannot
 be missed. Less technological solutions either conceal
-the user’s heat signature to some extent or radiate it
+the user's heat signature to some extent or radiate it
 in a shape that does not resemble a person. Observers
 will still see a thermal image but may assume it is
 something harmless rather than a person with a weapon.
 
 The battle between sensors and camouflage systems is
 modelled by modifiers applied to the opposed Stealth
-versus Recon check, with the Referee’s common sense
+versus Recon check, with the Referee's common sense
 overruling bizarre situations. As a general rule of
 thumb, if someone trying to be stealthy has no counter
 to a sensor then unless the operators are extremely lax
@@ -15434,7 +15434,7 @@ whether a Traveller or their enemy gets their weapon
 on line first. In such situations the wider picture does
 not matter; the contest is between two individuals
 or sometimes members of two small groups. This is
-termed a ‘quickdraw’ whether or not a weapon has to
+termed a 'quickdraw' whether or not a weapon has to
 be drawn.
 
 To resolve this, each participant rolls 2D and adds their
@@ -15504,12 +15504,12 @@ sets of 3 points of damage). Hopefully this is enough to
 throw off his aim.
 
 KNOCKDOWN
-In general it is more desirable to ‘stop’ the target than
+In general it is more desirable to 'stop' the target than
 ensure a kill. A shot that delivers a mortal wound, but
 leaves the victim able to act for a few seconds, may have
 worse overall results than a non-fatal shot that knocks
 the target down and stops them acting. In theory any
-shot can achieve a ‘knockdown’ – a situation in which
+shot can achieve a 'knockdown' – a situation in which
 the target is immediately stopped in what they are doing
 and quite possibly sent to the ground. If a knockdown is
 achieved, the target cannot act for the rest of that round
@@ -15527,18 +15527,18 @@ knock the target down or disorient them.
 
 If damage exceeds species maximum, a knockdown
 occurs unless the victim resists it. Note that
-‘knockdown’ is a general term for ‘hit hard and
-temporarily unable to act’. Many times this will involve
+'knockdown' is a general term for 'hit hard and
+temporarily unable to act'. Many times this will involve
 being knocked down or against something, or falling, but
 the exact effects depend on the circumstances. To avoid
 a knockdown, the target must make a Simple (2+) STR
 check, with negative DM equal to the amount of damage
 over their species maximum. Weapons that deliver a
 lot of force tend to do so by being poor penetrators – a
-weapon’s Lo-Pen value is applied as a negative DM
+weapon's Lo-Pen value is applied as a negative DM
 to the STR check. Conversely, weapons using armor-
 piercing ammunition tend not to dump their energy into
-the target as they often overpenetrate. A weapon’s AP
+the target as they often overpenetrate. A weapon's AP
 rating is used as a positive DM to the STR check.
 
 For example, a human Traveller is hit by a pellet-firing
@@ -15551,7 +15551,7 @@ to potentially cause a knockdown. To avoid this the
 Traveller must make a Routine (6+) STR check. Their
 STR DM is +1, but they suffer DM-1 for the one
 point of damage over their knockdown threshold and
-DM-3 for the shotgun’s Lo-Pen rating. The Traveller
+DM-3 for the shotgun's Lo-Pen rating. The Traveller
 rolls 8 on the dice, with a total DM-3. The Effect
 of the check is -1, which is insufficient to avoid a
 knockdown. A rifle bullet doing the same amount of
@@ -15585,7 +15585,7 @@ Mishap Thresholds are based on weapon type, and
 do not vary all that much between similar items. For
 example, damaging a handgun is about as difficult
 as damaging a rifle of the same construction. The
-materials used in the weapon’s manufacture are
+materials used in the weapon's manufacture are
 significant in determining its Mishap Threshold, along
 with its general type.
 
@@ -15617,7 +15617,7 @@ may be a big object but most of it is composed of items
 that will not cause it to malfunction if hit. If the critical
 component is relatively large, such as the tanks of a flame
 weapon, the penalty is reduced to DM-4 and may be
-further modified at the referee’s discretion.
+further modified at the referee's discretion.
 
 DISTRACTIONS
 Some weapons are intended to distract or debilitate
@@ -15631,7 +15631,7 @@ due to flinching from blinding light or simply turning
 to see what the sudden noise was. The difficulty of this
 check is determined by the distraction device, which in
 turn depends largely upon its size and power. Note that
-these are ‘distraction’ rather than ‘stun’ weapons. Those
+these are 'distraction' rather than 'stun' weapons. Those
 intended to put someone out of action for more than a
 combat round are considered elsewhere.
 
@@ -15752,7 +15752,7 @@ Damage rolled is 8 points, so the Traveller takes
 degraded by 2 points that round because it was in
 contact with a 2D corrosive weapon. The following
 round the corrosive damage drops to 1D. Damage
-rolled is 4 points, and since the Traveller’s armor is
+rolled is 4 points, and since the Traveller's armor is
 down to Protection +3, 1 point gets through. The flak
 jacket is degraded an additional point. The Traveller
 takes no damage the following round, but the flak
@@ -15799,7 +15799,7 @@ to other milspec electronics. In cheaper machines the
 actual internal workings of the system are identical to
 civilian systems, with the interface unit acting as a filter.
 If it can be bypassed, a civilian system could interface
-directly. Dedicated military computers ‘think in military’
+directly. Dedicated military computers 'think in military'
 and are not compatible with civilian models even if
 security is bypassed. This eliminates most possibilities
 of hacking by a passing kid with an illegal haxxorx app
@@ -15821,11 +15821,11 @@ environment using built-in protocols. These are less
 of a barrier to hacking than a dedicated computer and
 electronics system, but far cheaper.
 
-It is still possible to hack a mercenary unit’s electronics
+It is still possible to hack a mercenary unit's electronics
 using civilian computer systems but an interface must
-be established. The typical Traveller’s personal comm
+be established. The typical Traveller's personal comm
 simply cannot talk to a military system, except by way of
-a firewalled ‘outside unsecured comms’ protocol which
+a firewalled 'outside unsecured comms' protocol which
 does not allow access to the operating system. Interface
 devices are supposedly controlled and restricted to
 sale to accredited mercenary unit, but there are always
@@ -15833,7 +15833,7 @@ examples on the black market.
 
 As a general rule, electronic equipment for use by
 mercenaries is designed to be interoperable with
-other items on the market, creating a ‘plug and fight’
+other items on the market, creating a 'plug and fight'
 capability which still excludes non-military systems.
 Any attempt to hack a military electronic system using
 civilian systems is subject to DM-2 even if an interface
@@ -15918,7 +15918,7 @@ substances or other means. If a target is thoroughly
 doused in cryogenic fluids then struck - even quite
 lightly – it may shatter. Cryogenic demolition is very
 destructive, inflicting twice the damage delivered by the
-cryogenic weapon once the ‘tap’ is applied. If the target
+cryogenic weapon once the 'tap' is applied. If the target
 is simply doused in cryogenic fluid and left alone, it
 suffers normal damage.
 
@@ -15992,8 +15992,8 @@ kind of grip for the firing hand or the equivalent for
 creatures without hands as such. The cost and weight of
 the receiver is used as a baseline for other components,
 whose characteristics are given as a percentage of the
-receiver’s cost or weight. The type of receiver used also
-determines the weapon’s base Quickdraw score.
+receiver's cost or weight. The type of receiver used also
+determines the weapon's base Quickdraw score.
 
 **The barrel** determines many characteristics of a weapon
 such as its effective range, and may modify damage. In
@@ -16018,13 +16018,13 @@ magazine or belt, since obviously projectile weapons
 need ammunition.
 
 Feed devices can vary considerably from one weapon to
-another. Some are implicit in a weapon’s design, such
-as a revolver’s cylinder or the chamber of a single shot
+another. Some are implicit in a weapon's design, such
+as a revolver's cylinder or the chamber of a single shot
 breachloader. If a detachable feed device is used, its
 capacity is normally determined by the base value for
 the weapon type. The capacity of a feed device is a
 matter for referee discretion; it can be set at any value
-from 50%-150% of the weapon’s base capacity. Thus
+from 50%-150% of the weapon's base capacity. Thus
 when deciding on the capacity of a standard semi-
 automatic pistol the referee may set it anywhere from
 5 to 15 rounds since the base capacity of a standard
@@ -16035,7 +16035,7 @@ When designing a weapon, the following steps are taken in order. Sometimes it ma
 return to an earlier step if the results are not satisfactory but this is generally straightforward unless the
 ammunition type is to be changed.
 
-1. Decide the weapon’s general type (rifle, pistol and so forth).
+1. Decide the weapon's general type (rifle, pistol and so forth).
 2. Choose an ammunition type or power source.
 3. Choose a receiver and mode of operation (breachloader, semi-automatic and so forth).
 4. Assign barrel length.
@@ -16050,7 +16050,7 @@ every further modification or accessory will add to the weapon.
 
 The referee may choose to apply modifications to cost and weight based on cosmetic factors, manufacturer
 prestige or similar in-game details which do not affect the overall performance of the weapon. Weights and
-prices can be rounded off to suitably ‘tidy’ values. Small changes such as adding or removing a point or
+prices can be rounded off to suitably 'tidy' values. Small changes such as adding or removing a point or
 two of damage can be added by the referee to create more variation in weaponry available.
 
 THE ADVANCED
@@ -16065,7 +16065,7 @@ but where there are multiple variations or different
 ammunition types in use it is easy to lose track. Most
 component costs and weights are based on the cost and
 weight of the receiver once it has been configured to
-the user’s desires. A blank worksheet at the back of this
+the user's desires. A blank worksheet at the back of this
 book can be photocopied, or downloaded for free from
 our web site.
 
@@ -16090,18 +16090,18 @@ Special Features
 Calculated values should be used on the
 worksheet, and exact figures retained so that
 alterations or modifications are easy to calculate.
-Rounded values should be used in the weapon’s
-stat block. With the referee’s approval values can
+Rounded values should be used in the weapon's
+stat block. With the referee's approval values can
 be rounded off to the nearest Cr10, 0.1kg or a
 similar level of detail.
 
 A weapon can be given a special feature at the
-referee’s discretion. A point or two of damage,
+referee's discretion. A point or two of damage,
 slightly amended weight, cost or ammunition
 capacity are all permissible for referee-developed
 weapons. The Travellers should not be allowed to
 tweak their own designs in this manner without
-the referee’s oversight.
+the referee's oversight.
 
 **Weapon: Generic 6 Revolver**
 
@@ -16160,7 +16160,7 @@ with a power source. It does not eliminate noise and
 flash, and the power source gives the weapon the
 Emissions Signature trait. This is normally (minimal)
 as the spark is brief and contained within a metal
-weapon. Electrically initiated weapons are favoured by
+weapon. Electrically initiated weapons are favored by
 some users as they have less moving parts – this can
 be important in a very dirty environment – and can
 achieve a higher rate of fire than weapons which rely on
@@ -16180,9 +16180,9 @@ used in weapons designed for it – which are also more
 expensive to produce.
 
 Some very ecologically friendly governments insist on
-‘green’ ammunition which uses non-toxic, biodegradable
+'green' ammunition which uses non-toxic, biodegradable
 propellants and cartridge case materials. This is an
-example of what might be called ‘novelty’ ammunition.
+example of what might be called 'novelty' ammunition.
 Costs start at twice the price of conventional
 ammunition and can be much higher depending on the
 stipulations of the user.
@@ -16190,13 +16190,13 @@ stipulations of the user.
 RECEIVER
 
 CONFIGURATIONS
-The configuration of a weapon is relevant to how ‘handy’
+The configuration of a weapon is relevant to how 'handy'
 it is at close quarters, how bulky, and how accurate it is
 at range.
 
 Test Range and Effective Range
 The ranges for ammunition types given here are
-based on the round’s performance through a
+based on the round's performance through a
 test barrel equivalent to a rifle-length weapon.
 This is the range to which the ammunition will
 remain reasonably accurate. It will travel further,
@@ -16244,7 +16244,7 @@ ammunition, though pistol or snub weapon calibres
 are most common. A handgun receiver has a base
 Quickdraw 4.
 
-**Assault Weapons:** The term ‘assault weapon’ in this
+**Assault Weapons:** The term 'assault weapon' in this
 context refers to weapons designs for use at short range,
 such as in urban combat or inside a space vessel.
 Most assault weapons are chambered for pistol or snub
@@ -16254,7 +16254,7 @@ normally require both hands to use effectively, but can
 be fired one-handed with DM-2 on attack rolls.
 
 Assault weapons are almost always constructed for burst
-or full-automatic fire, at no additional cost. ‘Civilian’
+or full-automatic fire, at no additional cost. 'Civilian'
 versions, capable of semi-automatic fire only, are typically
 available at the same cost. It is generally possible to
 convert these back to full-automatic with a few simple
@@ -16318,7 +16318,7 @@ reduce the receiver cost by 75%.
 Repeater: Repeater weapons carry multiple rounds of
 ammunition but require either direct action from the
 user (such as with a pump-action shotgun or bolt-action
-rifle) or are cocked and then fired by the user’s actions
+rifle) or are cocked and then fired by the user's actions
 (such as a double-action revolver). This makes them
 relatively slow-firing. A repeater mechanism reduces
 receiver cost by 50%. A weapon with a repeater action
@@ -16357,16 +16357,16 @@ Rapid-Fire: A Rapid-fire (RF) weapon is designed to
 deliver a very large amount of ammunition in a short
 space of time. This can be wasteful but is highly
 destructive. Rapid-fire capability is denoted by the RF
-code after the weapon’s Auto score. A rapid-fire weapon
+code after the weapon's Auto score. A rapid-fire weapon
 must have a high Auto score (at least 4) and also
 delivers such intense firepower that damage is increased
-relative to a ‘mere’ automatic weapon of the same
+relative to a 'mere' automatic weapon of the same
 calibre. RF weapons do an extra dice of damage per
 three full dice an automatic weapon of the same calibre
 would deliver. RF capability can be created by using a
 multiple mount, or simply a weapon with an extremely
 high rate of fire. Rapid-fire capability multiplies base
-cost by the weapon’s Auto score +2. Thus a rapid-fire
+cost by the weapon's Auto score +2. Thus a rapid-fire
 weapon with Auto 4 increases base cost by 4+2 = 6.
 Rapid-fire capability adds the Bulky trait and multiplies
 base weight of the receiver by 2. An RF (or VRF) weapon
@@ -16383,7 +16383,7 @@ capability. Alternatively, a weapon can be converted to
 RF by increasing its Auto score to at least 4 and using
 powered or forced feed and initiation, such as that
 used in a chain gun. A powered feed system triples the
-cost and weight of the weapon’s receiver, and is only
+cost and weight of the weapon's receiver, and is only
 feasible on longarms, light support weapons or support
 weapons. An RF weapon generates Heat at a rate equal
 to its Auto score plus twice its damage dice, so an Auto
@@ -16433,7 +16433,7 @@ particularly one using automatic fire, can be a problem
 for those without proper training. The mass of a weapon
 helps absorb recoil, so creating an extremely powerful
 handgun or one capable of automatic fire can make
-it uncontrollable. A weapon’s Recoil score is equal to
+it uncontrollable. A weapon's Recoil score is equal to
 its base number of damage dice plus its Auto score if
 it is being used for fully-automatic or burst fire. The
 following modifiers are applied to this score:
@@ -16448,23 +16448,23 @@ Light Support Weapon: -8
 
 A user can fully control any weapon whose Recoil is
 equal to or lower than their Gun Combat skill. If the
-Recoil of the weapon is higher than the user’s skill level,
+Recoil of the weapon is higher than the user's skill level,
 a negative DM is imposed equal to the difference. Thus
 a Traveller with Gun Combat 1 shooting a standard
 handgun doing 3D damage will have no problems
-handling the weapon’s Recoil 3 (from its 3D of damage),
--2 for the mass of the handgun. The weapon’s Recoil 1
-is equal to or less than the Traveller’s Gun Combat skill.
+handling the weapon's Recoil 3 (from its 3D of damage),
+-2 for the mass of the handgun. The weapon's Recoil 1
+is equal to or less than the Traveller's Gun Combat skill.
 If the Traveller converted this pistol to fully-automatic
 
-fire with Auto 3, the weapon’s Recoil would be (3+3-
-2) = 4, imposing DM-3 on the Traveller’s attempt to
+fire with Auto 3, the weapon's Recoil would be (3+3-
+2) = 4, imposing DM-3 on the Traveller's attempt to
 hit anything with automatic fire. This stacks with any
 penalty for a Bulky weapon – there are some people who
 should not be given fully automatic shotguns!
 
 RECEIVER FEATURES
-Once the general characteristics of a weapon’s receiver
+Once the general characteristics of a weapon's receiver
 are known, any special features can be added. Most
 features are compatible with one another – for example
 it is possible to make a weapon both Rugged and Light-
@@ -16474,12 +16474,12 @@ cannot be applied. For example, a weapon cannot be
 both Compact and Very Compact.
 
 **Functional Features**
-Functional features improve or alter a weapon’s function
+Functional features improve or alter a weapon's function
 without adding any new capabilities.
 
 **Advanced Projectile Weapon:** At TL9 and higher, weapon
 designers can use advanced technology to improve a
-weapon’s overall performance without affecting weight or
+weapon's overall performance without affecting weight or
 bulk – effectively wringing more out of the same weight
 and volume of weapon. Advanced Projectile Weapons
 cost 25% more than conventional projectile weapons
@@ -16502,7 +16502,7 @@ increases Quickdraw by +2. However, the location of the
 ejection port, if the weapon has one, means that it must
 be set up for a right- or left-handed shooter and cannot
 be used in the wrong hand without flinging hot cartridge
-cases at the user’s head. A Bullpup weapon must have a
+cases at the user's head. A Bullpup weapon must have a
 full stock, as the feed mechanism is contained within it.
 
 **Compact:** A Compact receiver adds 25% to the cost of
@@ -16527,19 +16527,19 @@ ity. This removes 5 points of Heat from the weapon
 per round whether it is fired or not. The heat has to go
 somewhere, however, and the system itself has a capac-
 ity only of 25 points of Heat. However, it can be plugged
-into a heat sink such as a ‘chill can’ (see page 127)
+into a heat sink such as a 'chill can' (see page 127)
 which can then be discarded when its capacity is used
 up. Alternatively, a support cooling system can be used,
 which is not portable but has a much higher capacity.
 An Advanced Cooling System adds 20% to the weight of
-a weapon’s receiver and 50% to its cost.
+a weapon's receiver and 50% to its cost.
 
 Guidance System: Guidance Systems are only available
 for weapons capable of launching missiles. Without one,
-a missile launcher can only use ‘dumb’ unguided muni-
-tions. A Guidance System interacts with the missile’s
+a missile launcher can only use 'dumb' unguided muni-
+tions. A Guidance System interacts with the missile's
 onboard electronics if they are present – it cannot guide
-a ‘dumb’ weapon but can certainly launch one. A Guid-
+a 'dumb' weapon but can certainly launch one. A Guid-
 ance System adds 50% to the cost of the launcher.
 
 High Capacity: A High Capacity weapon is typically wider
@@ -16559,7 +16559,7 @@ High Quality: A High Quality weapon is often finely
 decorated as well as being very well made. High Qual-
 ity starts at a 50% increase in the receiver cost, but
 there is no upper limit on how much the final design can
-cost. A High Quality ‘working’ weapon such as a sniper
+cost. A High Quality 'working' weapon such as a sniper
 rifle may look very ordinary, but grants DM+1 on attack
 at ranges beyond 100m when using a scope or similar
 sighting aid.
@@ -16571,7 +16571,7 @@ modification is still not capable of full-auto fire but can
 take advantage of increased damage from an improved
 Auto score. Burst-capable weapons start with Auto 2;
 full-auto weapons start with Auto 3. In addition to get-
-ting through a lot of ammunition, the weapon’s cost
+ting through a lot of ammunition, the weapon's cost
 and weight increases with each point of Auto added. A
 weapon whose Auto score is increased enough to add RF
 or VRF capability bases the cost of that modification on
@@ -16597,7 +16597,7 @@ and function reliably under most conditions. It may be
 frustrating and annoying to maintain however. Low Qual-
 ity reduces cost and imposes negative Traits, and can be
 imposed by poor materials or other conditions beyond the
-maker’s control rather than being a choice to make the
+maker's control rather than being a choice to make the
 weapon cheaper.
 
 A weapon that has Deficiency points must satisfy them by
@@ -16644,7 +16644,7 @@ used in combat. If it does malfunction, it imposes DM-4
 (-3 from Hazardous and -1 from Ramshackle) on the
 Malfunction table.
 
-Quickdraw: A weapon can be optimised for rapid-response
+Quickdraw: A weapon can be optimized for rapid-response
 situations, often to the exact specification of the user. A
 Quickdraw weapon increases cost by 20% and grants an
 additional Quickdraw +2 when being brought into ac-
@@ -16655,7 +16655,7 @@ Recoil Compensation: Various devices are available to
 help control the recoil of powerful weapons. Many rely
 on diverting some of the propellant gases in a direction
 that counters recoil, though other devices are available.
-All rob the projectile of a little of its energy. A weapon’s
+All rob the projectile of a little of its energy. A weapon's
 Recoil score (see page 32) can be reduced by up to 2
 at the cost of imposing +10% cost and +5% weight per
 point. A point of Recoil Compensation reduces damage
@@ -16679,7 +16679,7 @@ cost of the weapon and reduces mass by 20%. Base am-
 munition capacity is reduced by 50%.
 
 **Capability Features**
-These alter the weapon’s capabilities, typically adding new
+These alter the weapon's capabilities, typically adding new
 ones, or otherwise changing the nature of the weapon.
 
 **Armored:** Weapons can be armored and hardened to
@@ -16721,7 +16721,7 @@ search. A Basic Stealth weapon still looks like a gun,
 but has as many of its moving parts operating internally
 as possible and a minimum of projections to snag on
 clothing when being deployed. Basic Stealth adds 50%
-to the weapon’s cost.
+to the weapon's cost.
 
 Stealth, Extreme: Extreme Stealth weapons are made
 from exotic materials which are hard to detect with
@@ -16739,11 +16739,11 @@ Signatures by three levels (two with standard ammu-
 nition) and impose DM-6 on attempts to detect the
 weapon by device, search or observation (DM-4 if using
 standard ammunition). Most Extreme Stealth weapons
-are handguns, known colloquially as ‘body pistols’, but
+are handguns, known colloquially as 'body pistols', but
 other weaponry is possible. A disassembled Extreme
 Stealth rifle could be smuggled into a secure area with
 relative ease, and even carried intact such a weapon
-might evade detection by scans of the user’s luggage.
+might evade detection by scans of the user's luggage.
 
 Vacuum: Weapons intended for use in vacuum or a very
 low pressure atmosphere require specialist lubricants
@@ -16760,7 +16760,7 @@ modification increases receiver cost by 20%.
 Projectile Weapon Ammunition
 One big advantage of projectile weapons is the capability
 to deliver a range of ammunition types. The standard
-projectile used by most weapons is referred to as ‘ball’,
+projectile used by most weapons is referred to as 'ball',
 referring to the musket balls used by archaic weapons.
 Unless a weapon is specifically designed for a specialist
 type of ammunition, damage is given for ball ammunition.
@@ -16810,10 +16810,10 @@ Base Damage 3D-3. Cr75 per 100 rounds.
 Heavy Handguns are typically in the 11-12mm range.
 Base Damage 3D-1. Cr100 per 100 rounds.
 
-•  Light ammunition increases the weapon’s base
+•  Light ammunition increases the weapon's base
 capacity by 20% and reduces receiver cost by
 20%. Weight is reduced by 25%.
-•  Heavy ammunition decreases the weapon’s
+•  Heavy ammunition decreases the weapon's
 base capacity by 20% and increases receiver
 cost by 20%. Weight is reduced by 15%.
 Heavy handguns gain the Bulky trait. Larger
@@ -16857,8 +16857,8 @@ limited by the length of the weapon, with a capacity of
 
 Combat shotguns are typically chambered for a calibre
 around 18-20mm in diameter, though they are usually
-rated by a system of ‘gauges’ based on the mass of a
-lead ball the diameter of the weapon’s bore. The lower
+rated by a system of 'gauges' based on the mass of a
+lead ball the diameter of the weapon's bore. The lower
 the gauge number, the more powerful the smoothbore
 weapon. Smoothbore weapons possess the Inaccurate
 trait to some degree and may perform poorly against
@@ -16880,11 +16880,11 @@ range. Base Damage 4D. Cr150 per 100 rounds
 **Heavy Smoothbores** are typically in the 22-24mm range.
 Base damage 4D+4. Cr175 per 100 rounds
 
-•  Small ammunition increases the weapon’s base
+•  Small ammunition increases the weapon's base
 capacity by 40% and reduces weight by 40%.
-•  Light ammunition increases the weapon’s base
+•  Light ammunition increases the weapon's base
 capacity by 20% and reduces weight by 20%.
-•  Heavy ammunition decreases the weapon’s base
+•  Heavy ammunition decreases the weapon's base
 capacity by 20% and increases weight by 20%.
 
 Smoothbores are relatively low-velocity weapons and
@@ -16911,7 +16911,7 @@ in calibre. They typically use a long cartridge and
 relatively small bullet to produce high muzzle velocity.
 This translates into accuracy and penetration. Assault
 rifles are typically chambered for an intermediate
-cartridge of around 5-6mm calibre, with heavier ‘battle’
+cartridge of around 5-6mm calibre, with heavier 'battle'
 rifles using a 7-8mm cartridge. Due to the trade-off
 between velocity and bullet mass it is possible to
 obtain similar performance with a large, slow bullet or
@@ -16924,7 +16924,7 @@ weapons designed to attack objects rather than people
 may use larger calibres. Typically these are in the 12-
 15mm range. Heavy anti-materiel weapons in the 18-
 20mm range have a higher base damage. Conversely,
-very light rifle calibres do exist, mostly for ‘plinking’
+very light rifle calibres do exist, mostly for 'plinking'
 or hunting small game.
 
 Light Rifle calibres range from 4-5mm. Base Damage
@@ -16942,23 +16942,23 @@ Heavy Anti-Materiel Rifles calibres range from 18-
 20mm. Base Damage 6D. Cr3000 per 100 rounds.
 Heavy anti-materiel weapons gain the Very Bulky trait.
 
-•  Light ammunition increases the weapon’s
+•  Light ammunition increases the weapon's
 base capacity by 20% and decreases weight
 by 40%.
 •  Intermediate calibre ammunition decreases
 receiver weight by 20%.
 •  Battle calibre ammunition decreases the
-weapon’s base capacity by 20%.
-•  Heavy ammunition decreases the weapon’s
+weapon's base capacity by 20%.
+•  Heavy ammunition decreases the weapon's
 base capacity by 40% and increases receiver
 cost by 25%. Weight is increased by 10%.
 •  Anti-materiel ammunition decreases the
-weapon’s base capacity by 60% and increases
+weapon's base capacity by 60% and increases
 receiver cost by 150%. Weight is increased
 by 50%. It requires a light support weapon
 receiver at minimum.
 •  Heavy anti-materiel ammunition decreases the
-weapon’s base capacity by 80% and increases
+weapon's base capacity by 80% and increases
 receiver cost by 250%. Weight is increased by
 100%. It requires a support weapon receiver
 at minimum.
@@ -17012,7 +17012,7 @@ Archaic weapons have a very low muzzle velocity and
 begin with Penetration -2.
 
 Low-Recoil Weapons
-More commonly known as ‘snub’ weapons, low-
+More commonly known as 'snub' weapons, low-
 recoil special-purpose weaponry is a family of large-
 calibre, low-velocity weapons designed for use in
 low gravity. The use of a relatively heavy but low-
@@ -17047,7 +17047,7 @@ inaccurate, but not excessively so.
 Rocket projectiles cost twice as much as conventional
 firearm ammunition of the same calibre. Weapons
 that use them possess the Zero-G trait. The pressures
-experienced by ‘accelerator’ weapons – those that use
+experienced by 'accelerator' weapons – those that use
 rocket-propelled projectiles – are low compared to
 conventional firearms. Weapons can be more lightly
 built, halving receiver and barrel weight. Costs
@@ -17181,7 +17181,7 @@ Penetration
 +2
 
 - Values assume the smoothbore weapon is firing a solid projectile such as a musket ball or rifled slug from a combat
-shotgun. Pellet ammunition changes the weapon’s characteristics. Ranges are given for solid and pellet ammunition.
+shotgun. Pellet ammunition changes the weapon's characteristics. Ranges are given for solid and pellet ammunition.
 
 These projectiles can attain high velocities if they
 travel far enough, and range is not limited by barrel
@@ -17235,7 +17235,7 @@ velocity projectile weaponry.
 - Values assume the smoothbore weapon is firing a
 solid projectile such as a musket ball or rifled slug from
 a combat shotgun. Pellet ammunition changes the
-weapon’s characteristics. Ranges are given for solid and
+weapon's characteristics. Ranges are given for solid and
 pellet ammunition.
 
 SECONDARY
@@ -17245,7 +17245,7 @@ A secondary weapon can be fitted, usually under the
 barrel. Most commonly this is a grenade launcher or
 shotgun, but other configurations are possible. A sec-
 ondary weapon mounting costs and weighs 10% of the
-secondary weapon’s values. There is no need to provide
+secondary weapon's values. There is no need to provide
 a stock for a secondary weapon but it must have a bar-
 rel, receiver and any furniture the designer requires. A
 secondary weapon is separate from the primary, and is
@@ -17282,7 +17282,7 @@ Partial multi-barrel weapons have a firing chamber for
 each barrel but share a firing mechanism. This may
 be aligned with each barrel in turn, for example with
 a rotating firing pin, or the barrels may be aligned
-in turn in the manner of a ‘pepperbox’ pistol. This
+in turn in the manner of a 'pepperbox' pistol. This
 configuration is unusual but used in a few specialist
 weapons. Partial multi-barrel configuration does not
 add to the cost and weight of the receiver, but each
@@ -17309,10 +17309,10 @@ first removes one point of Heat from the weapon per
 round, whether it is firing or not.
 
 An alternative way to deliver increased firepower is to
-create an ‘organ gun’ with multiple complete weapons
+create an 'organ gun' with multiple complete weapons
 mounted together. At low Tech Levels these are often
 slow-loading weapons, creating a powerful one-shot
-effect. An ‘organ gun’ – as these weapons are called –
+effect. An 'organ gun' – as these weapons are called –
 is considered to have Auto 1 for every full four barrels
 firing simultaneously, so a 12-barrel organ gun made
 out of primitive muskets delivers an Auto 3 attack
@@ -17640,7 +17640,7 @@ Suppressor, Basic: A basic suppressor reduces weapon
 flash and noise a little without greatly affecting its
 performance. A basic suppressor reduces Quickdraw
 by -2 and Physical Signature by one level. It costs
-50% of the weapon’s receiver price. A basic suppressor
+50% of the weapon's receiver price. A basic suppressor
 imposes Inaccurate -1 and reduces effective range by
 25%. A basic suppressor adds 0.2kg to the weight of
 the weapon.
@@ -17648,19 +17648,19 @@ the weapon.
 Suppressor: A standard suppressor can be quite bulky
 and heavy. It reduces Quickdraw by -3 and Physical
 Signature by 2 levels. A suppressor costs 100% of the
-weapon’s receiver price. A standard suppressor imposes
+weapon's receiver price. A standard suppressor imposes
 Inaccurate -1 and reduces effective range by 50%. It
 also reduces Penetration by -1. A standard suppressor
 adds 0.3kg to the weight of the weapon.
 
 Suppressor, Extreme: An extreme suppressor is a heavy
-item, adding significantly to the weapon’s front-end
+item, adding significantly to the weapon's front-end
 weight and overall length. Quickdraw is reduced by
 -4 and Physical Signature by 3 levels. An extreme
 suppressor imposes Inaccurate -1 and reduces effective
 range by 75%. Penetration is reduced by -2 as the
 suppressor reduces muzzle velocity significantly. An
-extreme suppressor costs 200% of the weapon’s receiver
+extreme suppressor costs 200% of the weapon's receiver
 price. An extreme suppressor adds 0.5kg to the weight
 of the weapon.
 
@@ -17684,7 +17684,7 @@ of links, and so forth. Mercenaries do not, as a rule,
 go to the gun shop and buy a few loaded magazines.
 They typically purchase ammunition in crates and
 load up magazines, belts and other feed devices as
-needed. Thus the ‘magazine’ costs found in the Traveller
+needed. Thus the 'magazine' costs found in the Traveller
 Core Rulebook and Central Supply Catalogue do not
 
 generally apply to mercenaries. Even when buying in
@@ -17696,7 +17696,7 @@ As a general rule, magazines and feed devices can be
 bought individually at the prices shown, or in a pack of 6
 with a 10% discount. Crates generally hold 100 or more
 magazines, and typically bought at a discount of around
-30% plus whatever the unit’s procurement officer can
+30% plus whatever the unit's procurement officer can
 bargain for. This does not include ammunition.
 
 **Fixed Magazines:** Fixed magazines are part of the weapon
@@ -17710,7 +17710,7 @@ ammunition at all. If using a reload-assistance device
 such as a stripper clip, en-bloc clip or speedloader,
 2 minor actions are sufficient to place the contents
 of the loading device into the weapon. Such devices
-typically cost 1% of the weapon’s purchase price. A
+typically cost 1% of the weapon's purchase price. A
 fixed magazine reduces cost and weight of the receiver
 by 10%.
 
@@ -17722,11 +17722,11 @@ significant quantities at a time. A standard magazine
 holds whatever the ammunition capacity of the weapon
 has been determined to be, and does so without being
 unduly clumsy. If bought singly it will typically cost 1%
-of the weapon’s purchase price.
+of the weapon's purchase price.
 
 **Extended Magazines:** These are available for most weap-
-ons that use a detachable ‘box’ magazine. They may be
-longer, wider or use a ‘casket’ configuration. An extend-
+ons that use a detachable 'box' magazine. They may be
+longer, wider or use a 'casket' configuration. An extend-
 ed magazine can hold up to 50% more ammunition than
 standard, but sticks out of the weapon to a considerable
 degree. Extended magazines impose DM-2 during a
@@ -17744,8 +17744,8 @@ zine, as used in some shotguns and grenade launchers,
 does not suffer from this problem but must be manually
 
 reloaded in place. Drum magazines cost five times as
-much as standard ones. A fixed (or ‘semi-internal’) drum
-costs 5% of the weapon’s receiver cost.
+much as standard ones. A fixed (or 'semi-internal') drum
+costs 5% of the weapon's receiver cost.
 
 Belts: A belt can in theory hold as much ammunition
 as the user wants, and a loader can keep adding belt
@@ -17772,9 +17772,9 @@ a lightweight container which is discarded once empty.
 Such a device costs Cr10 plus the price of the ammu-
 nition inside. In some cases, ammunition cassettes of
 this type are shipped directly from the factory in loaded
-condition and cannot be reloaded outside the supplier’s
+condition and cannot be reloaded outside the supplier's
 own facilities. This practice is generally disliked by mer-
-cenaries as it ties them to the manufacture’s prices and
+cenaries as it ties them to the manufacture's prices and
 can cause problems if ammunition runs short.
 
 The weight of a loaded feed device is included in the
@@ -17795,7 +17795,7 @@ typically this a simple front blade and rear notch type,
 adjustable for range. At TL6 and above, it is usual
 for military weapons to have a basic optical sight as
 standard. This may have low magnification to assist in
-aiming and is typical of the ‘red dot’ reflex type. These
+aiming and is typical of the 'red dot' reflex type. These
 sights are rugged enough to survive being run over by a
 
 truck – if the rifle still works so will its sight. A reflex or
@@ -17803,8 +17803,8 @@ basic combat sight comes as standard on most military
 longarms, and does not add cost or weight. It provides
 a flat DM+1 on aimed or snap shooting but a positive
 Quickdraw is halved if the firer takes time to align
-even such a simple sight. For this reason many ‘point
-soldier’ and close-quarters weapons are not fitted with
+even such a simple sight. For this reason many 'point
+soldier' and close-quarters weapons are not fitted with
 optical sights.
 
 Mounting any type of scope (but not a laser pointer) on
@@ -17933,8 +17933,8 @@ front-end weight and reduces Quickdraw by -2.
 **Gravitic Support:** From TL12 upwards, gravitic support
 is available. This reduces a Very Bulky weapon to Bulky
 and eliminates the Bulky trait entirely. A gravitic support
-unit weighs 3x the weight of the weapon’s receiver when
-switched off, but effectively eliminates the weapon’s
+unit weighs 3x the weight of the weapon's receiver when
+switched off, but effectively eliminates the weapon's
 weight when activated. Gravitic support costs Cr2500
 per kg of the weapon.
 
@@ -17961,7 +17961,7 @@ does not add any weight.
 
 Stabilization: From TL9 upward, weapons can be
 gyrostabilized. A gyrostabilizer weighs 20% of
-the weapon’s receiver weight and costs Cr300. A
+the weapon's receiver weight and costs Cr300. A
 gyrostabilizer offsets an aiming DM up to -2 caused by
 movement or a poorly balanced weapon. This means
 it is possible to conduct aimed fire whilst moving,
@@ -18013,13 +18013,13 @@ capacity by 30%, down from 19 to 13, since there
 are commercially available light handgun magazines
 available in this sizing. Each 10% reduction in
 ammunition capacity reduces loaded weight by 5% and
-reduces the weapon’s cost by 5%. The Travellers want
+reduces the weapon's cost by 5%. The Travellers want
 a higher Auto trait for their PDW, selecting an increase
 from 3 to 4. This adds 10% cost and 5% weight.
 
 They now have a receiver for their weapon. Its raw
 cost is Cr420.75 and weight is 0.6425kg. With the
-referee’s approval these values are rounded off to
+referee's approval these values are rounded off to
 Cr420 and 0.64kg. This is the core mechanism of
 the new weapon, ready to be fitted with a barrel and
 any furniture or accessories the Travellers want. They
@@ -18070,7 +18070,7 @@ magazines are easily available on the open market.
 The Travellers are satisfied with the weapon despite its
 limitations and decide to work out its final values.
 
-Normally a magazine would cost 1% of the weapon’s
+Normally a magazine would cost 1% of the weapon's
 price, but since this weapon uses commercially
 available magazines for small handguns the cost of
 an empty magazine is based on 1% of the price of
@@ -18095,7 +18095,7 @@ in case it is useful. This will cost Cr9 plus the price of
 its 18 rounds of ammunition, or roughly Cr20 loaded
 and ready to go.
 
-The weapon’s short barrel means it has a low muzzle
+The weapon's short barrel means it has a low muzzle
 velocity, which has already been considered in regard
 to effective range. It also affects penetration, giving the
 weapon Penetration -1. Consulting the Final Penetration
@@ -18105,7 +18105,7 @@ doubled in value.
 
 The Travellers decide this handgun-sized weapon will be
 issued with one standard magazine in place (included
-in the weapon’s weight) and a spare plus two extended
+in the weapon's weight) and a spare plus two extended
 magazines (18 rounds each), all on a standardised rig.
 The whole thing comes in at under 1.5kg and does not
 get in the way when operating a vehicle, yet delivers
@@ -18113,26 +18113,26 @@ a lot of firepower to deter pursuit or cover a dash to a
 rescue vehicle.
 
 Full Dice of Damage
-Some effects are based on the number of ‘full
-dice of damage’ done by the weapon. This has
+Some effects are based on the number of 'full
+dice of damage' done by the weapon. This has
 nothing to do with any modified applied to the
 damage; it is based purely on the number of
 dice. In many cases, an effect might specify
-a number of full dice, such as ‘for every two
-full dice of damage’. In this case, a weapon
+a number of full dice, such as 'for every two
+full dice of damage'. In this case, a weapon
 that does 3D-3 damage or one that does 3D+3
 are treated the same – they both have three
 full dice of damage. If this weapon gains the
 AP trait at a level of one per two full dice
 of damage, it would gain AP 1. A Weapon
-doing 4D-2 would gain AP 2. At the referee’s
+doing 4D-2 would gain AP 2. At the referee's
 discretion, a modifier of -4 or +4, or greater,
 can be treated as an extra full dice of damage.
 
 SPECIAL
 
 AMMUNITION
-As noted elsewhere, most weapons use ‘ball’
+As noted elsewhere, most weapons use 'ball'
 ammunition; simple inert projectiles which deliver
 damage to the target by means of kinetic energy. If the
 projectile is altered but the cartridge dimensions are kept
@@ -18204,7 +18204,7 @@ projectile. It is intended for use against vermin, and has
 a very short effective range as a result. The wide and
 rapid spread of the flakes grants the Spread trait plus an
 additional DM+4 on checks attack rolls out to 5m, but
-the weapon’s Range is reduced to 10m. All Damage dice
+the weapon's Range is reduced to 10m. All Damage dice
 are reduced to D3s, and any D3s are reduced to a single
 point of Damage. Flechette ammunition costs the same
 as ball.
@@ -18248,7 +18248,7 @@ installations and spacecraft, but may be used to create
 a less-lethal response to low-threat situations. Low-
 penetration ammunition normally reduces Penetration
 by -1 but can be any value from -1 to -4. In addition
-to the effects of the weapon’s final Penetration, low-
+to the effects of the weapon's final Penetration, low-
 penetration ammunition converts each dice of damage to
 D3. D3s are converted to single points. Low-penetration
 ammunition costs the same as ball.
@@ -18258,13 +18258,13 @@ smoothbore weapons. Its primary advantage is the spread
 of pellets, which makes a hit at close range likely. Pellet
 ammunition gives the weapon the Spread trait. Damage
 is the same whether using ball or pellet, but pellets
-reduce Penetration by the weapon’s Spread score. They
+reduce Penetration by the weapon's Spread score. They
 also increase the chance of a knockdown (see page 22).
 Pellet ammunition costs the same as ball.
 
-**Smart (TL10):** Although commonly called ‘smart’, this
-ammunition is more correctly designated ‘limited-
-guidance’. It is only useful with a weapon mounting a
+**Smart (TL10):** Although commonly called 'smart', this
+ammunition is more correctly designated 'limited-
+guidance'. It is only useful with a weapon mounting a
 gun computer as no person can react quickly enough to
 keep a bullet on target. The user can choose whether to
 lock in a particular target then shoot, or to have the gun
@@ -18339,7 +18339,7 @@ Smart
 GRENADES, WARHEADS
 
 AND EXPLOSIVES
-The ‘dangerous bit’ of a missile or grenade is its payload,
+The 'dangerous bit' of a missile or grenade is its payload,
 and as a general rule payloads tend to be produced in
 standard sizes. Most warheads do one of two things; either
 they explode or they produce gas, smoke and similar cloud
@@ -18426,7 +18426,7 @@ propelled grenades have a base Range of 500m. Unguided
 RPGs have the Inaccurate trait, usually at -1 or -2.
 
 In archaic terminology, an emplaced charge might be
-known as a ‘torpedo’, though that term has changed
+known as a 'torpedo', though that term has changed
 considerably in its meaning. Today, a charge placed as
 a trap is normally termed a mine if of a pre-packaged
 type, and an improvised explosive (or incendiary) device
@@ -18439,8 +18439,8 @@ to attack vehicles from underneath or to throw a small
 anti-personnel device up to a pre-set height where it
 detonates. They present an all-round threat. Directional
 mines, available from TL6, is designed to fling numerous
-small projectiles in a cone from its ‘hostile’ face, with the
-area behind its ‘friendly’ face theoretically safe. Directional
+small projectiles in a cone from its 'hostile' face, with the
+area behind its 'friendly' face theoretically safe. Directional
 mines are usually anti-personnel devices but some
 inventive ideas have been marketed at times.
 
@@ -18481,11 +18481,11 @@ Hand-thrown anti-armor grenades suffer DM-2 to attack
 rolls, and all grenades of this type have a small blast radius
 compared to area-effect types. Damage is 4D, with AP 8.
 
-Baton: Baton rounds, otherwise known as ‘rubber bullets’,
+Baton: Baton rounds, otherwise known as 'rubber bullets',
 are designed to cause shock, knockdown and possibly a
 stunning effect without being lethal. They are normally
 available as cartridge grenades only, though in theory the
-payload could be flung at someone’s head. Small-calibre
+payload could be flung at someone's head. Small-calibre
 baton rounds, when used as a cartridge grenade payload,
 are treated as mini-grenades. Full-calibre rounds are
 treated as standard grenades. At lower Tech Levels, instead
@@ -18676,15 +18676,15 @@ usual sense – they use their fuel instantly but may set fire
 to other materials.
 
 Smoke/Thermosmoke: Low-tech smoke grenades are
-‘burning’ types which produce smoke slowly and can set
+'burning' types which produce smoke slowly and can set
 fire to nearby flammable objects. More advanced smoke
-grenades rely on a ‘cold’ chemical reaction to rapidly
+grenades rely on a 'cold' chemical reaction to rapidly
 create a cloud of suspended particles. Either way, smoke
 completely obscures vision and blocks lasers. A cloud will
 
 thickly fill a 3x3x3m volume and will spread throughout a
 wider area. It persists 1Dx3 minutes unless dissipated by
-wind. At TL8, thermosmoke grenades produce a ‘warm’
+wind. At TL8, thermosmoke grenades produce a 'warm'
 cloud, not hot enough to set anything on fire but entirely
 sufficient to block thermal sensors.
 
@@ -18800,7 +18800,7 @@ Launchers are constructed one of two ways, depending
 on their projectile. Those that launch a rocket-propelled
 grenade or missile typically have only one primary
 component, the receiver, which is normally assumed
-to include the weapon’s equivalent of a barrel and
+to include the weapon's equivalent of a barrel and
 a suitable shoulder stock or similar furniture. They
 may have additional components; electronics and the
 like can be added as accessories. Cartridge grenade
@@ -18811,7 +18811,7 @@ low-powered propulsion used in cartridge grenades to
 keep recoil manageable makes a weapon with a handgun
 length barrel or shorter pointless. The grenade would
 not reach sufficient velocity to travel farther than a few
-metres before falling to the ground. It may or may not
+meters before falling to the ground. It may or may not
 arm in that distance.
 
 The effectiveness and effects of any kind of launcher
@@ -18848,7 +18848,7 @@ majority of tube launchers are designed as a standard
 receiver which can be configured for attachment to a
 longarm or as a standalone weapon. Most tube launchers
 are single shot weapons, though some magazine-fed
-variants do exist. ‘Grenade machineguns’ require a
+variants do exist. 'Grenade machineguns' require a
 support grenade launcher receiver and a suitable mount.
 
 A grenade launcher designed to fit under a rifle does not
@@ -18881,7 +18881,7 @@ grenade launchers.
 
 **Reusable Launchers (TL6+):** Reusable launchers may
 be fully reusable or utilise a container/barrel system
-for each missile. ‘Dumb’ launchers are not uncommon
+for each missile. 'Dumb' launchers are not uncommon
 with mid-tech troops, typically in an anti-armor role. A
 reusable launcher is purchased as a whole unit, which
 is assumed to include furniture and whatever passes
@@ -18891,10 +18891,10 @@ full weight to the weapon, plus 10%.
 
 Reusable launchers are subdivided into two categories
 
-- light and heavy. Both generate significant ‘backblast’
+- light and heavy. Both generate significant 'backblast'
 when firing and are dangerous to use in a confined
 space. Light launchers are intended to be carried as
-an additional piece of a soldier’s combat load, though
+an additional piece of a soldier's combat load, though
 they are rather weighty, whilst heavy launchers are the
 primary weapon of a soldier or small team. Additional
 ammunition is usually distributed among the unit.
@@ -18904,13 +18904,13 @@ deployed by a squad to provide heavy fire support. The
 weapon includes a base plate and slewing mechanism.
 Such weapons typically have 2 or 4 tubes, which
 must be manually reloaded after launch. Costs are for
-a ‘dumb’ launcher with basic manual controls. More
+a 'dumb' launcher with basic manual controls. More
 advanced missile guidance will push up the overall
 cost of the unit – munitions costs and weights are not
 included but the weight of a full set of missiles is.
 
 Designing Missile Launchers
-When designing most weapons, the ‘loaded weight’
+When designing most weapons, the 'loaded weight'
 is calculated assuming a normal magazine or feed
 device in place. This is for convenience and close
 enough for small arms. When designing a missile
@@ -18970,7 +18970,7 @@ Some projectors use chemicals which, when mixed in
 small quantities, create a propellant gas.
 Fuel: Whilst some projectors do not project a burning
 fuel, all projectors use the term for convenience. In
-some cases the ‘fuel’ may be generated by a chemical
+some cases the 'fuel' may be generated by a chemical
 reaction inside the fuel container, and this may
 sometimes be combined with generation of propellant.
 
@@ -19004,9 +19004,9 @@ used to attack just one target unless there is no-one
 else nearby. Projectors have the Blast trait at a level
 determined by their type. All targets within that area
 are subjected to an area fire attack. At up to half the
-projector’s effective range this is treated as Intense. Out
+projector's effective range this is treated as Intense. Out
 to its full effective range it is a Typical area fire attack
-and at up to the weapon’s extreme range the area fire is
+and at up to the weapon's extreme range the area fire is
 treated as Weak.
 
 Projector Structure
@@ -19028,7 +19028,7 @@ to be mounted on a vehicle or trolley, and a hand-held
 wand to direct the attack. A large projector can carry a
 maximum of 20kg of payload without being unwieldy. Its
 frame and mechanical parts weigh 30% of its payload
-maximum and cost Cr50 per kilogram of the weapon’s
+maximum and cost Cr50 per kilogram of the weapon's
 total weight. Due to the relative lightness and mobility
 of the wand a large projector has Quickdraw 2, but most
 users would not want to be in a situation where that
@@ -19087,7 +19087,7 @@ increasing effective range to 25m. Supercompressed gas
 costs Cr250 per kg.
 
 **Generated Gas (TL9):** Generated gas becomes available at
-TL9. Using a rapid chemical reaction between ‘tablets’ of
+TL9. Using a rapid chemical reaction between 'tablets' of
 chemicals a high-pressure gas is created almost instantly.
 Generated gas gives 10 attacks per kg and increases
 effective range to 30m. Generated gas machinery costs
@@ -19111,7 +19111,7 @@ usually possible to choose whether the fuel is ignited
 at the nozzle or sprayed on the target then ignited by
 some other means such as an incendiary grenade.
 1kg of fuel is sufficient to make one attack with any
-projector weapon. It can be assumed that ‘fuel’ refers
+projector weapon. It can be assumed that 'fuel' refers
 to everything needed to cause fire, which may include
 an oxidising agent for weapons intended to be used in
 oxygen-poor atmospheres.
@@ -19167,8 +19167,8 @@ and delivers Damage 4D to unprotected targets.
 DIRECTED ENERGY
 
 WEAPONS
-Energy weapons, sometimes referred to as ‘directed
-energy weapons’, project a beam or pulse of energy. To
+Energy weapons, sometimes referred to as 'directed
+energy weapons', project a beam or pulse of energy. To
 be effective as a weapon this must be tightly collimated.
 Even so, the beam will spread out and lose its effect.
 This happens more quickly the denser the atmosphere
@@ -19227,7 +19227,7 @@ necessary to specify the nature of the powerpack and
 whether it is integral to the weapon or connected to
 it by a cable. This should be done before the weapon
 itself is designed, as powerpack types impose some
-limitations. There are no ‘calibres’ of energy weapon as
+limitations. There are no 'calibres' of energy weapon as
 such, since the output depends on how much power is
 available and the beam or pulse generating machinery.
 However, the power source has to be capable of
@@ -19260,7 +19260,7 @@ normal maximum damage output and the damage
 output of the weapon. Thus if the Travellers connect
 a Light powerpack to their heavy support laser, the
 weapon gains the Unreliable trait at a level determined
-by the difference between the weapon’s damage
+by the difference between the weapon's damage
 output – in this case 7D – and the maximum the Light
 pack can safely handle. This is 3D, so the weapon
 gains Unreliable 4. Most of the time this weapon
@@ -19302,7 +19302,7 @@ TL Power per Kilogram Cartridge Maximum Output
 12 1,000 Heavy
 
 Cost for weapon powerpacks is determined by the
-weapon’s maximum output.
+weapon's maximum output.
 
 Powerpack Costs
 Type Cost Per kg
@@ -19378,7 +19378,7 @@ Laser weapons with Short barrels are limited in terms of
 the damage they can deliver, as a result of early beam
 dissipation. A full-length (Rifle) barrel or longer has no
 upper limit on laser power, but shorter barrels waste
-some of the weapon’s power. A Carbine or Assault barrel
+some of the weapon's power. A Carbine or Assault barrel
 is limits power to 4D damage. Handgun and Short
 barrels have a maximum Damage 3D, and a Minimal
 barrel can deliver a maximum of Damage 2D. This
@@ -19416,7 +19416,7 @@ receiver weight and increasing cost by 25%.
 
 Variable Intensity (TL10): A variable-intensity
 modification allows the user to set the damage dealt
-by each shot, up to the weapon’s normal maximum.
+by each shot, up to the weapon's normal maximum.
 Powerpack weapons draw only enough power for the
 shot, but cartridges are fully expended even on a low
 power setting. The mechanism includes the capability
@@ -19432,7 +19432,7 @@ to its weight.
 
 The choice of weaponry used by a mercenary formation
 is often dictated by what is available. Where there is a
-choice, general-purpose systems are usually favoured
+choice, general-purpose systems are usually favored
 over highly specialized ones. Availability of ammunition
 and ease of maintenance are both important factors as
 well. Mercenary units would, on the whole, prefer to be
@@ -19444,7 +19444,7 @@ are often used by mercenaries as a shorthand for what
 weaponry they are likely to face or be able to obtain.
 
 **Low Tech (TL0-4)**
-There is a limit to how low-tech a unit’s equipment can
+There is a limit to how low-tech a unit's equipment can
 be without becoming ineffective, but many items can
 be obtained at low Tech Levels or fielded by opposing
 forces. A musketball or even an arrow can put a high-tech
@@ -19471,7 +19471,7 @@ work alongside will be equipped to this level.
 
 **Common Tech (TL8-10)**
 The majority of mercenary formations use equipment
-mostly from the ‘common tech’ band – hence its
+mostly from the 'common tech' band – hence its
 name. This is mainly due to availability and ease of
 
 maintenance. Beyond this point conventional firearms do
@@ -19514,18 +19514,18 @@ way. The latter are better suited to use as tools than
 pure combat knives. Indeed, some very fine combat
 knives have a bad reputation as a result of being used
 to open coffee cans and becoming bent or blunted. A
-unit’s preference for field knives may vary, and it is not
+unit's preference for field knives may vary, and it is not
 uncommon to find a large knife/bayonet in service as
 a general tool and weapon, with a small stabbing knife
-secreted somewhere about the mercenary’s person.
+secreted somewhere about the mercenary's person.
 Although the mode of use varies, performance in skilled
 hands is about the same.
 
-The term ‘blade’ is used in generic fashion by mercenaries for large survival or tool knives of the
+The term 'blade' is used in generic fashion by mercenaries for large survival or tool knives of the
 Bowie type, machetes and similar heavy-bladed cutting implements, and a range of tool/fighting
 weapons produced at spacefaring Tech Levels. Military field blades generally feature a stirrup
 handguard and minimal crosspiece, but the whole array of hangars and not-quite swords falls
-under this distinction. Blades are favoured by mercenaries for their use as tools and ease of carry.
+under this distinction. Blades are favored by mercenaries for their use as tools and ease of carry.
 A blade can be used by a skilled fighter to counter a sword or similar hand weapon, albeit at a
 slight disadvantage, and is much easier to carry.
 
@@ -19549,7 +19549,7 @@ Sabres are carried by some officers as a dress sword
 which might be pressed into service in an emergency.
 They can also be encountered in the hands of low to
 mid-tech cavalry. Designs and weights vary, with most
-having a curved blade optimised for cutting attacks.
+having a curved blade optimized for cutting attacks.
 Straight-bladed weapons of a similar design might
 be referred to as sabres or by other titles such as
 backswords or broadswords. Hand protection varies
@@ -19609,7 +19609,7 @@ basic TL6 riot shield is usually round or rectangular
 and made of fireproof material. It is used in the same
 way as a low-tech shield but also protects the user from
 small flame weapons such as Molotov cocktails and
-adds +1 to the user’s Protection against firearm attacks.
+adds +1 to the user's Protection against firearm attacks.
 At TL8 an advanced version becomes available which
 incorporates a single shot grenade discharger, normally
 loaded with an incapacitant gas grenade but could be
@@ -19627,7 +19627,7 @@ BOARDING SHIELD
 Boarding shields are known by various names.
 Planetside security often call them entry shields, whilst
 some are marketed under extravagant titles such as
-‘mobile field barricade segment’. The function of these
+'mobile field barricade segment'. The function of these
 large, slab-fronted objects is much the same in every
 case. A boarding shield is far too large and heavy to
 parry with; it is a piece of mobile cover designed to
@@ -19640,7 +19640,7 @@ completely protects anyone hiding behind it and is large
 enough that two people can use it or move it forward
 whilst remaining reasonably well covered. When moving
 or firing from behind a boarding shield, the user(s) can
-be hit, but the shield imposes DM-2 on opponents’
+be hit, but the shield imposes DM-2 on opponents'
 attack rolls. It provides Protection +12. Most boarding
 shields are designed to be linked together using quick-
 release fittings on their sides, enabling a protected
@@ -19670,7 +19670,7 @@ shotgun but relatively short double-barrelled shotguns
 - usually with a carbine-length barrel – are sometimes
 encountered. These weapons are not much of a threat to
 armored troops, but nobody wants to be hit by one. This
-representative example is a full-length ‘farmer’s shotgun’
+representative example is a full-length 'farmer's shotgun'
 firing light smoothbore ammunition. At TL3, essentially
 the same weapon exists but using a flintlock mechanism,
 imposing the Unreliable 1 trait.
@@ -19707,7 +19707,7 @@ people. Typically weight is reduced to around 3kg.
 
 Weapons of this sort are rarely offered for sale in
 reputable gun shops but are easy enough to convert
-from a ‘legitimate’ sporting gun. Some users produce
+from a 'legitimate' sporting gun. Some users produce
 their own exotic ammunition for such weapons.
 
 CIVILIAN SHOTGUN
@@ -19743,7 +19743,7 @@ Sawed-Off
 Lo-Pen 2, Physical
 Signature (normal)
 
-The ‘crunch gun’ is named for its distinctive sound.
+The 'crunch gun' is named for its distinctive sound.
 The earliest models appear at late TL3, using black
 powder and a flintlock mechanism. By TL4 a cartridge
 version is available. These weapons are an upscaled
@@ -19826,12 +19826,12 @@ custom-made and others converted from more advanced
 weaponry. It is not uncommon to find the barrel of a
 modern assault rifle fitted to a beautifully carved home-
 made stock with a single shot flintlock mechanism.
-These weapons’ lack of complexity make them ideal for
+These weapons' lack of complexity make them ideal for
 low-tech hunters and insurgents; ammunition is easy
 to make and breakdowns simple to repair. Some jazails
 are crude things but many are objects of pride, with
 the ugly industrial barrel shrouded in carved wood or
-decorated to suit the user’s preferences.
+decorated to suit the user's preferences.
 
 Weapon: Flintlock Jazail
 Type: Longarm
@@ -19872,7 +19872,7 @@ Weapons intended for security work generally combine effectiveness at short rang
 intimidation. The large bore of a combat shotgun is generally more likely to dissuade a potential opponent than a
 rifle, even though the latter is probable more lethal. Security and self-defence weapons are generally used at close
 range, where a one-shot knockdown is more important than potential lethality. Ease of carry is also a factor with
-personal defence weaponry. Handguns and mini-submachineguns are favoured by many users, but there are other
+personal defence weaponry. Handguns and mini-submachineguns are favored by many users, but there are other
 options on the market.
 
 One of several unusual handguns marketed by Ailene
@@ -19887,7 +19887,7 @@ or a number of specialist payloads. As a large-calibre
 smoothbore in a handgun frame it kicks hard and is
 inaccurate at any sort of distance, but its chunky and
 generally down-to-business air of authority adds weight
-to any argument. Adjudicators are favoured by some
+to any argument. Adjudicators are favored by some
 personnel who venture into the wilderness, as they can
 be loaded with flechettes for use as snakeshot or with
 signalling rounds.
@@ -20025,7 +20025,7 @@ on clothing. Its lack of external moving parts or a need
 to eject cartridges allows the weapon to be fired from
 inside a pocket or bag if necessary. Users generally
 accept the high price tag in return for having a highly
-effective pocket pistol if they need one. The GC-24’s
+effective pocket pistol if they need one. The GC-24's
 high rate of fire gets through ammunition quickly, and
 even with a capacity of 24 rounds this is not a weapon
 for a sustained firefight... but that is not what it was
@@ -20075,20 +20075,20 @@ Emissions Signature
 Anhur Industries markets two primary variants of its
 flagship GS-40 gauss sidearm, both built on the same
 receiver and using the same magazines. The GS-40
-‘Army Model’ has a conventional length barrel and is
-otherwise a standard gauss pistol. The ‘Navy Model’
+'Army Model' has a conventional length barrel and is
+otherwise a standard gauss pistol. The 'Navy Model'
 has an extended barrel more suited to a short assault
 weapon, allegedly reflecting the preferences of certain
-world governments’ navies. Purchasers of the Navy
+world governments' navies. Purchasers of the Navy
 Model have the option of a detachable shoulder stock
 
 - available in high-impact polymer or gorgeously carved
 wood – which allows the weapon to be used as a sort of
 carbine. The stock has an internal compartment housing
 a holographic sighting device, the sensor for which
-is located under the pistol’s barrel. How many users
+is located under the pistol's barrel. How many users
 would seriously consider this a combat weapon is open
-to debate, but it has found favour in the competitive
+to debate, but it has found favor in the competitive
 shooting community.
 
 Weapon: GS-40 (Army Model)
@@ -20133,10 +20133,10 @@ Cr460/500 40 Cr25 +4 AP 4, Auto
 Signature (low),
 Scope
 
-Colvery’s Stowaway is marketed as a concealable
+Colvery's Stowaway is marketed as a concealable
 emergency weapon for self-defence, but in truth it is better
 suited to assassination. Built from exotic and expensive
-materials, the weapon uses caseless ‘stealth’ ammunition
+materials, the weapon uses caseless 'stealth' ammunition
 and does not need to eject cartridges. Moving parts are
 minimal, and all are internal. The Stowaway has grip and
 trigger safeties but is otherwise ready to fire the instant
@@ -20147,7 +20147,7 @@ mid-burst. All autofire attacks must be directed against
 the same target. The result is a near-instant dump of
 small-calibre bullets into the target. The inevitable slight
 movement of the muzzle creates a phenomenon called
-‘zippering’, with multiple narrow wound tracks close
+'zippering', with multiple narrow wound tracks close
 together. This makes the resulting wound difficult to treat
 even though each round is not very potent.
 
@@ -20214,10 +20214,10 @@ velocity, limiting range, penetration and stopping power.
 However, as a concealed backup gun or emergency
 weapon to be carried in a vehicle the Liberator is viable.
 
-Sometime after the derringer’s introduction, Hangul
+Sometime after the derringer's introduction, Hangul
 began marketing a variant with a much longer barrel,
-equivalent to a short submachinegun. This ‘Liberator
-Defender’ model shares the derringer’s top-break
+equivalent to a short submachinegun. This 'Liberator
+Defender' model shares the derringer's top-break
 loading mechanism and carries only four rounds, but it
 hits hard and can be useful in an emergency. The ability
 to manually load the four chambers with specialist
@@ -20253,7 +20253,7 @@ of the derringer conceal it in a pocket or under clothing.
 Either variant can be loaded with a single round of
 any compatible ammunition type in a minor action,
 but requires four minor actions to fully reload. The
-derringer’s poor performance against armor can be
+derringer's poor performance against armor can be
 
 offset with HEAP ammunition if available. Both versions
 use a standard heavy pistol calibre, making access to
@@ -20304,20 +20304,20 @@ MULTI-BARREL WEAPON SYSTEM
 
 Combat shotguns can be produced at TL4 upwards, and
 are ubiquitous in the field. Despite the rather grandiose
-title, the ‘Guard’ series of shotguns are conventional
+title, the 'Guard' series of shotguns are conventional
 pump-action weapons with a reputation for reliability
 in the field. They are produced at TL8 but other than
 the laser pointer are identical in function to lower-tech
-weapons. The ‘Bodyguard’ is the standard security
+weapons. The 'Bodyguard' is the standard security
 
 HARRIX INDUSTRIES BODYGUARD/
 POINT GUARD SHOTGUN
 
 variant, with a fixed stock and full-length barrel. The
-‘Point Guard’ version is the same weapon, greatly
+'Point Guard' version is the same weapon, greatly
 shortened and lacking any form of stock. It is intended
 for use by the lead soldier in a patrol, who may have to
-react quickly to a changing situation, or as a ‘grab gun’
+react quickly to a changing situation, or as a 'grab gun'
 for security applications. Its limited ammunition supply
 is offset by good knockdown power.
 
@@ -20339,7 +20339,7 @@ Stock: Full Stock Cr15 0.25kg —
 Accessory: Laser Pointer Cr50 0.1kg —
 Totals Cr260 4.1kg —
 
-The standard Bodyguard shotgun’s rated performance
+The standard Bodyguard shotgun's rated performance
 is based on use of ball ammunition, but pellets are
 more common. This reduces penetration but improves
 the chance of a first-shot hit and potential knockdown
@@ -20387,7 +20387,7 @@ complex design with far too many safety features to be
 effective. The overall concept is workable – a lightweight
 bullpup-configuration carbine with minimal recoil, to be
 issued in massive numbers to colonists as a deterrent
-and pest-control weapon. The ‘Standard’ – as it is
+and pest-control weapon. The 'Standard' – as it is
 
 Weapon: Standardised
 Personal Weapon
@@ -20427,7 +20427,7 @@ reliable, very light and uses cheap ammunition.
 
 The Standard uses 27-round magazines inserted
 through the underside of the polymer stock. Recoil
-is minimal, and along with the weapon’s excessive
+is minimal, and along with the weapon's excessive
 safety features this makes it a popular first gun for
 children – at least, those whose parents can afford
 the high price tag.
@@ -20442,17 +20442,17 @@ Signature (normal)
 INTERSTELLAR ORDNANCE
 STANDARDISED PERSONAL WEAPON
 
-The ‘Mark 1’ is not a specific weapon, but represents the
+The 'Mark 1' is not a specific weapon, but represents the
 typical early semi-automatic pistol developed by most
 cultures. Mercenaries encounter so many of these, with
 minor variations, that they are all lumped together as
-‘Mk1 handguns’. As military weapons, these guns are
+'Mk1 handguns'. As military weapons, these guns are
 usually chambered in a calibre around 10-11mm which
 limits ammunition supply and imposes significant recoil.
 
 Weapons of this type are often picked up as souvenirs or
-on a ‘might come in handy’ basis and left in a soldier’s
-kit rather than being locked up in the armory. The unit’s
+on a 'might come in handy' basis and left in a soldier's
+kit rather than being locked up in the armory. The unit's
 commanders and logisticians may well know there are
 guns lying around but be unable to inventory or properly
 secure them. Some units buy large quantities of these and
@@ -20478,7 +20478,7 @@ Totals Cr241 1.104kg —
 
 The large-calibre subsonic ammunition used in these
 handguns is ideal for covert operations weapons.
-Many are converted to ‘sentry killers’, with a screw-on
+Many are converted to 'sentry killers', with a screw-on
 suppressor. Whilst not entirely silent a suppressed Mk1
 
 Weapon TL Range Damage Kg Cost Magazine
@@ -20509,7 +20509,7 @@ tech workshop to more upmarket weapons like those
 produced by Tacload. The Posi-9 is produced at TL9,
 and takes advantage of advanced manufacturing
 techniques, but is otherwise similar to the other
-weapons grouped as ‘autopistols’ in mercenary jargon.
+weapons grouped as 'autopistols' in mercenary jargon.
 
 A burst-capable version of the Posi-9 is available,
 which pushes the price up to Cr435. The advantages
@@ -20519,7 +20519,7 @@ TACLOAD ARMAMENTS
 POSI-9 9MM SEMI-AUTOMATIC PISTOL
 buyers, but there are those who long for more
 firepower from their handguns. A burst-capable
-Posi-9 can be converted into a true ‘autopistol’ by
+Posi-9 can be converted into a true 'autopistol' by
 removing the burst limiter and filing away part of the
 mechanism to increase rate of fire. A gunsmith might
 charge Cr200-300 to do this, though any decent
@@ -20619,7 +20619,7 @@ CREWMATE PERSONAL DEFENCE WEAPON
 
 Despite its slightly odd nature the Crewmate has
 achieved reasonable market success. Examples are
-often found clipped to vehicle crewmembers’ hatches,
+often found clipped to vehicle crewmembers' hatches,
 offering a chance to deliver heavy – if rather random
 
 - firepower whilst escaping from a disabled vehicle.
@@ -20739,7 +20739,7 @@ MULTI-BARREL WEAPON SYSTEM
 The Eliminator was designed for people who know they
 should have both hands on the wheel... but really do
 not care. It is in some ways a standard small-calibre
-submachinegun, but optimised for combat at extreme
+submachinegun, but optimized for combat at extreme
 close quarters. The weapon is officially aimed at those
 who may have to use a shield or carry out tasks with the
 other hand. Official marketing vids show cautious entry
@@ -20820,7 +20820,7 @@ to zero, enabling anyone with the most basic of training
 to shoot full-auto without undue difficulty.
 
 Many users prefer armor-piercing ammunition
-to compensate for the Eliminator’s low-powered
+to compensate for the Eliminator's low-powered
 projectiles, whilst others use enhanced-wounding
 rounds which spread on impact. This reduces
 penetration but increases the chance of putting a
@@ -20972,7 +20972,7 @@ moving operations inside a starship or combat in the open.
 The optical sight is rarely used in magnification mode but
 provides fast target acquisition at moderate ranges.
 
-The weapon’s designers decided to cram in as much
+The weapon's designers decided to cram in as much
 ammunition capacity as possible, creating a heavy SMG
 with almost as much capacity as a standard one. For
 those who require more firepower a 40-round casket
@@ -20986,9 +20986,9 @@ Planetsider 9 55m 3D-1 5 Cr1950 28 Cr48 +5 Auto 3, Physical
 Signature (low), Rugged
 
 costs Cr100. The latter is heavy and awkward to use,
-and eliminates many of the weapon’s quick-reaction
+and eliminates many of the weapon's quick-reaction
 advantages. With any kind of magazine in place the
-Planetsider’s weight absorbs recoil well, removing the
+Planetsider's weight absorbs recoil well, removing the
 Bulky trait.
 
 **UNIFIED SPACE INDUSTRIES
@@ -21003,10 +21003,10 @@ machineguns and overheat rapidly when conducing sustained fire, they offer enhan
 that can be taken over by any rifleman and usually share ammunition feed devices with the rest of the squad.
 
 The GR-80 gauss rifle is manufactured at TL13 along
-with Anhur’s other gauss weapons, but is functionally
+with Anhur's other gauss weapons, but is functionally
 little different to TL12 gauss weapons produced by
 other companies. Its bullpup design takes advantage of
-gauss weaponry’s lack of an ejection system, creating an
+gauss weaponry's lack of an ejection system, creating an
 ambidextrous rifle of short overall length.
 
 **ANHUR INDUSTRIES GR-80**
@@ -21044,7 +21044,7 @@ ways the support version is identical to the infantry
 weapon. As a result any trooper in a squad can take over
 the support weapon at need. A 150-round extension
 magazine is issued to support gunners, though since the
-weapon can use either it is often ‘borrowed’ by rifle-
+weapon can use either it is often 'borrowed' by rifle-
 armed soldiers when their own ammunition runs low.
 
 Weapon TL Range Damage Kg Cost Magazine
@@ -21085,7 +21085,7 @@ is set up with a rifle-length barrel and fixed stock,
 with a standard 1.5/2.5/4x optical sighting device
 for general combat operations. The same receiver is
 used in all configurations, and it is the intermediate
-rifle cartridge fired that determines the weapon’s base
+rifle cartridge fired that determines the weapon's base
 characteristics.
 
 The intent from the outset was to create a high-
@@ -21128,7 +21128,7 @@ heavier barrel and normally fed from extended
 device compatible with the AIWS family of
 weapons. Drum magazines are sometimes
 used, but this makes the weapon clumsy and
-is favoured only when the support weapon is
+is favored only when the support weapon is
 mounted on a pintle or similar mounting.
 •  (D)Assault Variant: Some users choose to
 configure the weapon with an assault barrel,
@@ -21137,7 +21137,7 @@ work, removing the scope as well. This reduces
 effectiveness at range but is useful in urban
 combat or assault situations. Casket maga-
 zines are sometimes used in this role, but their
-extra bulk can detract from the weapon’s main
+extra bulk can detract from the weapon's main
 advantage which is getting into action quickly
 when hostiles are suddenly encountered.
 
@@ -21204,7 +21204,7 @@ INFANTRY WEAPON SYSTEM
 
 **URBAN COMBAT WEAPON SYSTEM**
 
-‘Urban Combat Weapon System’ is Tacload-speak for
+'Urban Combat Weapon System' is Tacload-speak for
 an integrated assault rifle and breaching shotgun.
 The weapon is most definitely geared towards urban
 combat, ranging from one-block firefights to desperate
@@ -21218,7 +21218,7 @@ sight are fitted as standard.
 
 A secondary weapon is fitted under the barrel. This
 is a very short shotgun, whose handgrip is used as a
-vertical foregrip when firing from an ‘assault stance’ –
+vertical foregrip when firing from an 'assault stance' –
 more Tacload-speak, this time a euphemism for blazing
 away from the hip. The shotgun is fired using the fore
 hand, meaning both weapons can be discharged at
@@ -21301,7 +21301,7 @@ TSI generally works from common designs found on
 many worlds, creating a generic all-markets version
 which is then commonly built under license. Quality of
 these outsourced weapons is generally of an acceptable
-level, though the occasional ‘gin special’ is found which
+level, though the occasional 'gin special' is found which
 appears to have been assembled by a band of drunks
 after a good night out. Weapons made in-house do not
 suffer from these quality-control issues but it can be
@@ -21315,11 +21315,11 @@ noteworthy features. It uses commonly available
 7.5mm battle rifle ammunition and shares magazine
 compatibility with a great many weapons. In
 comparison with the intermediate calibre assault
-rifles favoured by many militaries, the Squadmate hits
+rifles favored by many militaries, the Squadmate hits
 harder and is accurate to a greater range, but heavier
 and carries less ammunition. As a semi-automatic
 weapon it cannot lay down suppressing fire in the
-manner of an assault rifle, but those who favour it
+manner of an assault rifle, but those who favor it
 claim this is offset by the ability to shoot precisely
 rather than hosepiping the countryside.
 
@@ -21373,9 +21373,9 @@ TACTICAL SYSTEMS INCORPORATED
 SQUADMATE BATTLE RIFLE
 
 LOW-G WEAPONS
-Specialist weapons intended for low-gravity work are commonly built around the ‘snub pistol’ round and designed
+Specialist weapons intended for low-gravity work are commonly built around the 'snub pistol' round and designed
 to minimise the positional disruption caused by firing them. Barrels are often set low compared to conventional
-firearms, directing recoil into the user’s centre of mass rather than causing muzzle flip and rotation of an unsecured
+firearms, directing recoil into the user's center of mass rather than causing muzzle flip and rotation of an unsecured
 user. The relative power of snub weapons makes them attractive in some other applications as well; snub revolvers
 are used as emergency weapons in some groundside installations.
 
@@ -21464,7 +21464,7 @@ Rocket
 Signature (normal),
 Zero-G
 
-Most special-purpose low-recoil (‘snub’) weapons are
+Most special-purpose low-recoil ('snub') weapons are
 standalone designs, but Unified Space Industries
 has recently begun offering a configurable weapon
 system built around a common receiver. Weapons are
@@ -21537,7 +21537,7 @@ ammunition is the most common loading.
 and assault barrel, cost is increased to Cr610 and
 weight to 1.5kg. Effective range is greatly increased,
 to 20m, and penetration improved as well. Assault
-weapons are typically left in a very ‘clean’ condition,
+weapons are typically left in a very 'clean' condition,
 with few or no accessories to snag during a quick
 deployment. The example here is rated using ball
 ammunition in a standard 14-round magazine.
@@ -21614,7 +21614,7 @@ ammunition, carried to deal with small vermin, is
 also popular. More gung-ho users may prefer to load a
 pellet shell. This removes the Zero-G trait when used,
 and cannot be fired at the same time as the primary
-barrel. The weapon’s very short barrel renders pellets
+barrel. The weapon's very short barrel renders pellets
 ineffective beyond point-blank range but their spread
 makes it difficult to miss.
 
@@ -21652,7 +21652,7 @@ Accessories: Additional Short Barrel Cr13 0.037125kg Quickdraw -1
 Totals Cr170.25 0.928875kg —
 
 Performance with ball ammunition is modest, so most
-users prefer to load HEAP. This offsets the weapon’s
+users prefer to load HEAP. This offsets the weapon's
 lamentable performance against armor but cannot
 
 make up for its low muzzle velocity. On the plus side,
@@ -21679,8 +21679,8 @@ TEN-SIX SNUB REVOLVER**
 
 LIGHT SUPPORT WEAPONS
 Light support weapons are designed to be integrated at the squad level, giving a unit some measure of self-support
-capability. Weapons such as light missile launchers and grenade launchers are sometimes referred to as ‘problem
-solvers’ – whether the problem is a sniper shooting from a window or a heavily fortified machinegun nest. Some
+capability. Weapons such as light missile launchers and grenade launchers are sometimes referred to as 'problem
+solvers' – whether the problem is a sniper shooting from a window or a heavily fortified machinegun nest. Some
 unit commanders frown on the use of expensive guided weapons to take out an infantry position, but the cost of
 recruiting and training replacement personnel might be much higher.
 
@@ -21709,7 +21709,7 @@ vessels and space installations. In standard gravity this
 weapon would be heavy and unwieldy, but whilst it still
 has considerable inertia a skilled user learns to make use
 of the stately swing of the barrel in much the same way
-a sporting shotgunner might favour a heavier gun for its
+a sporting shotgunner might favor a heavier gun for its
 steadiness on the traverse.
 
 One advantage of accelerator weapons is the lack of barrel
@@ -21778,8 +21778,8 @@ Physical Signature
 TACTICAL SYSTEMS INCORPORATED
 SQUADMATE BATTLE RIFLE
 
-Like many weapons from DMS, the Solo is a ‘problem-
-solver’ – in this case the problem being armored troops
+Like many weapons from DMS, the Solo is a 'problem-
+solver' – in this case the problem being armored troops
 and light vehicles. It is very finely made at TL14, to the
 closest tolerances and with great attention to detail.
 The designers wanted to create a powerful and accurate
@@ -21801,7 +21801,7 @@ weapons makes this a viable strategy. The rugged design
 allows the weapon to retain accuracy whilst being
 banged around in the field, but ultimately it is battery
 life that limits effectiveness. Sighting and propulsion
-both draw heavily on the weapon’s batteries, imposing a
+both draw heavily on the weapon's batteries, imposing a
 limitation not faced by conventional sniping weapons.
 
 Weapon: Solo
@@ -21870,7 +21870,7 @@ starships – easier but also lend themselves to using
 the weapon like a heavy assault rifle. Nominal
 magazine capacity is 37 rounds, but magazines of this
 size are rare. Instead, a 50-round extended magazine
-is favoured by almost all users. This, combined
+is favored by almost all users. This, combined
 with an increased rate of fire, makes the Reliant an
 unexpectedly good close-assault weapon. It is still a
 light machinegun, however, and cannot react to threats
@@ -21913,7 +21913,7 @@ pirates typically use the Reliant with advanced armor-
 piercing ammunition as standard. This gives a roughly
 8% chance of penetrating TL10 combat armor on any
 
-given hit. The weapon’s high rate of fire ensures a lot of
+given hit. The weapon's high rate of fire ensures a lot of
 hits which, even if not particularly damaging, are likely
 to cause raiders to reconsider their lifestyle choices.
 
@@ -21939,8 +21939,8 @@ Physical Signature
 
 **5MM LIGHT MACHINEGUN**
 
-' Jimpy-G’ is mercenary slang for ‘General-Purpose
-Machinegun, Generic’. Perhaps the commonest of all
+' Jimpy-G' is mercenary slang for 'General-Purpose
+Machinegun, Generic'. Perhaps the commonest of all
 direct fire support weapons, GPMGs are a staple of
 mid-tech military forces. GPMGs that use magazines
 
@@ -22010,7 +22010,7 @@ The MF-61 stands out from its rivals for having additional
 safety features, which drives up the price but reassures
 the soldiers selected to use it. With a Mishap Threshold
 of 5, flame weapons such as this one are potentially a
-danger to their users. The weapon’s armor helps prevent
+danger to their users. The weapon's armor helps prevent
 a penetrating shot whilst its extensive safety features
 reduce the chance of a catastrophic fuel ignition.
 
@@ -22041,8 +22041,8 @@ easy to handle and generally reliable. Its fuel contains
 an additive that produces heat upon exposure to air,
 
 self-igniting with no need for a flame at the nozzle. This
-does mean the MF-61 cannot be used for ‘hose and
-ignite’ applications, but it is a combat weapon rather
+does mean the MF-61 cannot be used for 'hose and
+ignite' applications, but it is a combat weapon rather
 than one intended to destroy property.
 
 Weapon TL Range Damage Kg Cost Magazine
@@ -22060,12 +22060,12 @@ MF-61 INDIVIDUAL FLAME WEAPON
 The Cryojet was not intended to be used as a weapon,
 and for the most part it is not. It is a backpack-fed
 projector device developed for spacecraft emergency
-crews. The projector’s cryogenic fluid can be used
+crews. The projector's cryogenic fluid can be used
 to extinguish fires or make doors and sections of
 wreckage brittle, enabling them to be easily shattered
 or punctured. Security crews occasionally found the
 projector useful against intruders or hijackers, though
-use on personnel targets is vaguely ‘advised against’
+use on personnel targets is vaguely 'advised against'
 by the manufacturer. Over time the Cryojet became a
 recognized tool in the arsenal of some military forces,
 though it remains primarily a breaching aid rather
@@ -22076,7 +22076,7 @@ rescue/firefighting system. In addition to armored and
 bulwarked tanks it mounts a large-calibre smoothbore
 weapon under the cryogenic nozzle. This can be used to
 deliver shotgun rounds for emergency self-defence, but
-is more commonly employed with specialist ‘breaker’
+is more commonly employed with specialist 'breaker'
 ammunition. It is a tremendously heavy and bulky
 device, and normally employed by specialists who
 breach an area then step back to allow their more agile
@@ -22148,7 +22148,7 @@ operating in a low-g environment.
 
 Marketed by Personal Security Solutions, the BL-3 is
 not intended for combat. It is a semi-covert weapon
-for self-defence, favoured by corporate executives who
+for self-defence, favored by corporate executives who
 like to pretend they are important enough to be in
 danger. Those that enter the mercenary marketplace are
 typically bought by personnel who must interact with
@@ -22160,9 +22160,9 @@ end. This has a concealed section which acts as
 a trigger when pushed with the thumb. Whilst not
 actually disguised the BL-3 does not look like a weapon
 and may not be noticed among paraphernalia on an
-officer’s desk or in an attaché case. It delivers three
+officer's desk or in an attaché case. It delivers three
 
-laser shots – hence its full name of ‘Bottled Lightning’,
+laser shots – hence its full name of 'Bottled Lightning',
 using disposable energy cartridges. These are held in a
 screw-out section at the rear of the weapon and can be
 replaced individually or all together. The process takes a
@@ -22174,7 +22174,7 @@ enable the user to take additional enemies by surprise
 if they do not realise what happened to the first target.
 Marketing vids for this weapon depict a suave secret
 agent effortlessly taking out four enemies – the last
-by hurling the BL-3 at his head – but realistic users’
+by hurling the BL-3 at his head – but realistic users'
 expectations are more modest. Nevertheless, as a silent
 holdout weapon the BL-3 does have its uses.
 
@@ -22218,7 +22218,7 @@ fact it was not adopted for service. The basic concept
 was to create a battlefield laser weapon which could
 be configured as a carbine, full-sized rifle or specialist
 weapon. The resulting design required compromises
-but has found favour with a number of low-g-trained
+but has found favor with a number of low-g-trained
 forces. It also serves as a personal weapon for some
 forward observers, functioning as a designator as well
 as combat carbine.
@@ -22226,13 +22226,13 @@ as combat carbine.
 The weapon is supplied without a complex sighting
 system, since some users choose to fit a holographic
 sight rather than a physical one, and others have differing
-preferences depending on the weapon’s intended role.
+preferences depending on the weapon's intended role.
 The design is not modular in the sense that it is not
 possible to remove and replace the barrel in a few
 moments without tools. Mounting a different barrel in a
 laser weapon is a delicate process requiring a workshop,
 not difficult but requiring calibration. A badly mounted
-barrel can absorb some of the laser’s energy – in effect
+barrel can absorb some of the laser's energy – in effect
 the weapon shoots itself. This can have catastrophic
 results, making modular laser weapons distinctly rare.
 
@@ -22259,7 +22259,7 @@ Totals Cr6712.5 4.375kg —
 The M-84 has an internal power reserve good for 14
 shots, but this is not sufficient for sustained combat.
 Typically the weapon is used with a 3kg power pack
-carried low on the user’s back. This provides 2,100
+carried low on the user's back. This provides 2,100
 Power, or 420 shots, which is likely to be more than
 enough. A 1kg belt pack good for 140 shots is also
 available for Cr1500.
@@ -22312,7 +22312,7 @@ Signature
 M-84 LASER WEAPON SYSTEM
 
 Named after an ancient god of the first sunlight,
-the Nefertem ‘Personal Directed Energy Weapon’
+the Nefertem 'Personal Directed Energy Weapon'
 is an entry-level laser pistol designed to be used in
 conjunction with an external powerpack. Weapons of
 this type are sometimes installed in spacecraft for the
@@ -22320,7 +22320,7 @@ defence of specific points, with power outlets located
 at intervals. The concept is unpopular with most users,
 since being tethered to a single location or trailing a
 long power cord around can be a problem in combat.
-However, as a means of saving the weapon’s powerpack
+However, as a means of saving the weapon's powerpack
 for mobile use it has some advantages.
 
 The Nefertem weapon is standard as laser pistols go,
@@ -22357,7 +22357,7 @@ not cause any problems but civilian power systems
 
 are not designed to support multiple lasers charging
 at once. The power drain may be noticed or could trip
-safety devices. Many hotels have a ‘no laser charging’
+safety devices. Many hotels have a 'no laser charging'
 rule, and signs indicating this are popular souvenirs
 among Travellers who have broken this rule.
 
@@ -22370,8 +22370,8 @@ Nefertem 9 50m 3D 2.6+1 Cr960 100 Cr1000 +6 Emissions Signature
 Zero-G
 
 LAUNCHERS
-Some launcher weapons are extremely simple, especially low-tech ones designed for use with ‘dumb’ projectiles, and
-in some cases can be thrown together in a blacksmith’s workshop. More advanced weapons incorporate electronics
+Some launcher weapons are extremely simple, especially low-tech ones designed for use with 'dumb' projectiles, and
+in some cases can be thrown together in a blacksmith's workshop. More advanced weapons incorporate electronics
 or use complex materials that drive up their purchase price considerably. Ultimately, however, it is the warhead that
 counts. Everything else is dedicated to getting it to the target.
 
@@ -22381,7 +22381,7 @@ purpose is to send a 50mm rocket-propelled grenade
 on its way. The latter has a white phosphorous warhead
 which creates a dense cloud of white smoke and may
 pose a hazard to any personnel within the burst radius.
-It is officially marketed as a ‘battlefield concealment
+It is officially marketed as a 'battlefield concealment
 
 Weapon: IP-2 Disposable Incendiary
 Weapon
@@ -22397,7 +22397,7 @@ Base Ammunition Capacity: 1 Rocket
 Signature: Physical (normal)
 Totals Cr75 0.75kg —
 
-and anti-materiel’ weapon to get around laws against
+and anti-materiel' weapon to get around laws against
 using such weapons on personnel targets. Damage
 reflects the possibility of being hit by small fragments
 of phosphorous. In the incredibly unlikely event of a
@@ -22417,7 +22417,7 @@ IP-2 8 500m 2D 0.75 Cr75 Blast 15, Burn 2, Incendiary
 
 A spigot mortar is one of the most basic methods of
 launching a rocket-propelled grenade, and is typically
-referred to simply as ‘RPG’ even though the term
+referred to simply as 'RPG' even though the term
 properly applies to the projectile rather than the
 launcher. The device itself is nothing more than a
 hollow post with handles and a basic optical sighting
@@ -22434,7 +22434,7 @@ common among mid-tech forces that face a threat
 from higher-tech militaries, and may be issued in
 disproportionate numbers. The concept is reinvented at
 TL8, when a basic guided version becomes available.
-‘Dumb’ RPGs can still be launched from this weapon.
+'Dumb' RPGs can still be launched from this weapon.
 The standard spigot mortar costs Cr500 and weighs
 10kg with a grenade in place. The guided variant costs
 Cr1000 and adds the Smart trait.
@@ -22481,7 +22481,7 @@ LIGHT MUNITIONS LAUNCHER
 
 ready in the chamber. A magazine cut-off allows a single
 round to be loaded directly into the breach, leaving
-those in the magazine in reserve. ‘One gas, three baton’
+those in the magazine in reserve. 'One gas, three baton'
 is a standard rapid-fire response to an advancing crowd,
 though some entry teams prefer one distraction and
 three multiple projectile rounds for room clearance.
@@ -22515,7 +22515,7 @@ Light cartridge grenades are primarily useful for anti-
 personnel work or security operations. It is rare to find a
 grenadier with a mixed load – usually all grenade carried
 
-are ‘security’ types or all are lethal types. The exception
+are 'security' types or all are lethal types. The exception
 is distraction rounds which have tactical applications in
 both situations.
 
@@ -22582,7 +22582,7 @@ squad preparing to breach a room or position might
 try to set up a pre-selected sequence to maximise
 their advantages. In such a situation a distraction
 grenade immediately followed by gas then baton
-rounds might be used to subdue a room’s occupants,
+rounds might be used to subdue a room's occupants,
 or a stun grenade followed by multiple fragmentation
 rounds for overkill.
 
@@ -22598,7 +22598,7 @@ INTERSTELLAR ORDNANCE 42MM
 ADVANCED SQUAD SUPPORT WEAPON
 
 One of the lightest TAC missile launchers available,
-Xierbin’s TMMS is designed to be carried by a team of
+Xierbin's TMMS is designed to be carried by a team of
 two infantry soldiers, one with the launcher and one
 carrying a loaded missile magazine. Additional missiles
 or magazines can be shared out among the squad. The
@@ -22613,7 +22613,7 @@ XEIRBIN COMPONENTS TACTICAL
 MULTIROLE MISSILE SYSTEM
 
 The TMMS is designed to engage vehicles and aircraft
-using a multimode warhead ‘smart’ missile, but can
+using a multimode warhead 'smart' missile, but can
 launch unguided rockets if the need arises. A magazine
 can contain two different types of missile – for example
 one anti-personnel and one anti-armor – and can
@@ -22711,7 +22711,7 @@ A small grenade with advanced fusing, these weapons
 are often carried in threes. The advanced fuse allows
 the grenade to be impact-fused or set to detonate
 one to ten seconds after impact, or after a one to ten
-second delay. A ‘mine’ setting also permits a grenade
+second delay. A 'mine' setting also permits a grenade
 to emplaced as a booby trap, detonating if disturbed.
 Depending on the sensitivity chosen this may require
 a sharp knock or something as minor as being tapped
@@ -22835,17 +22835,17 @@ wearing appropriate clothing.
 
 If used to reduce thermal signature, a chill can
 is good for around four hours, during which time
-the user’s thermal signature is reduced almost to
+the user's thermal signature is reduced almost to
 background levels. This imposes DM-4 on attempts
 to detect, track or target the individual using thermal
 sensors. By the end of the period the unit is saturated
 and thermal suppression is lost. The gel does not
-reach high temperatures; little more than the user’s
+reach high temperatures; little more than the user's
 body temperature, but a can could be deliberately
 ruptured to create a thermal decoy. The unit can
 
 EXTERNAL THERMAL REGULATION UNIT
-(‘CHILL CAN’)
+('CHILL CAN')
 
 protect the user against unpleasantly hot conditions
 rather than reducing thermal signature, and in an
@@ -22915,7 +22915,7 @@ A thermal regulation covering is supplied in a form
 that can be used as a blanket or poncho, as half of a
 field shelter, a groundsheet or a thermal camouflage
 device. As a shelter or poncho it is normally worn
-with the ‘cool’ side outward, keeping the wearer warm
+with the 'cool' side outward, keeping the wearer warm
 whilst reducing their thermal signature. Turned around,
 the covering will leech heat away from the user and
 radiate it outside. This has a cooling effect and can
@@ -22931,10 +22931,10 @@ cold or hot conditions, and DM-2 to attempts to spot
 or target the user if used as camouflage. When used
 with a small (pocket-sized) battery pack it can create
 a warm shelter for some days, and with a chill can will
-reduce the wearer’s thermal signature to match the
+reduce the wearer's thermal signature to match the
 surroundings. A standard thermal regulation covering
 costs Cr50, with versions intended to fit a particular
-environment or to match a sniper’s camouflage costing
+environment or to match a sniper's camouflage costing
 up to Cr150.
 
 Item TL Kg Cost
@@ -22948,8 +22948,8 @@ items, colours and configurable insignia, a unit can create a distinctive unifor
 a bespoke outfit.
 
 Most mercenary units have clothing for different occasions. Working dress is worn most of the time, and typically consists
-of coveralls in the unit’s style. Field dress is similar but more attention may be paid to camouflage. Field dress is intended
-to be worn with body armor and combat equipment, and usually has attachment points for the unit’s standard field
+of coveralls in the unit's style. Field dress is similar but more attention may be paid to camouflage. Field dress is intended
+to be worn with body armor and combat equipment, and usually has attachment points for the unit's standard field
 equipment. Most, but by no means all, units have a formal uniform. Mercenaries are rarely concerned with ceremony but
 may need to look presentable to impress a client or when working with one under non-combat conditions. Full mess dress
 uniform is very rare among mercenary units. The largest sometimes use it, as do some highly pretentious formations, but
@@ -22961,14 +22961,14 @@ Operators may need to pass as ordinary civilians, or to
 wear formal uniform but be ready for action. A discreet
 operations uniform is tailored from light ballistic cloth
 and has pockets suitable for concealing a handgun
-and some small items of equipment. It is favoured by
+and some small items of equipment. It is favored by
 officers who have to do a lot of liaison work and cannot
 be seen to be armed or mistrustful of their clients, but
 also sees considerable use by covert-operations forces.
 
 The uniform grants Protection +2 without appearing to
 do so, and can be paired with what is inevitably known
-as an ‘indiscreet operations kit’ consisting of a flak
+as an 'indiscreet operations kit' consisting of a flak
 jacket and associated supporting equipment. This is
 normally black or green, but can be produced in other
 colours. At a distance, someone wearing the full kit
@@ -23015,7 +23015,7 @@ comfortable than a mask. Most users have
 devices mounted on the shoulder piece such
 as flashlights, cameras and sensors which
 display their information on the inside of the
-user’s faceplate. A chest piece is also available,
+user's faceplate. A chest piece is also available,
 increasing armor to Protection +6 and housing
 an array of tools or weapon pouches.
 
@@ -23054,7 +23054,7 @@ Field dress bought in bulk tends to be serviceable
 and hard-wearing but offers few benefits beyond
 that. Enhanced field dress incorporates technological
 advances to protect the user, including a technique
-known as ‘thermal dulling’ whereby the wearer’s thermal
+known as 'thermal dulling' whereby the wearer's thermal
 signature is reduced and made fuzzy. This imposes
 DM-1 on attempts to detect or target the wearer using
 thermal systems. In addition, a suit of enhanced field
@@ -23079,7 +23079,7 @@ Field Dress
 Commonly sold as a pack to individual mercenaries or
 provided in bulk to units, a uniform bundle contains
 three sets of working dress, two sets of field dress and
-one formal uniform to the unit’s specifications. Formal
+one formal uniform to the unit's specifications. Formal
 shoes and field boots are included along with headgear
 and any minor accessories such as cap badges, rank
 insignia and so forth. Costs can vary but typically a
@@ -23124,7 +23124,7 @@ units can usually obtain a license for the standard
 autohack without undue difficulty, though their use will
 occasionally be audited. A preprogramed autohack might
 be provided for a particular mission, in which case it will
-have been set up to defeat the target’s security even if it
+have been set up to defeat the target's security even if it
 would normally be immune.
 
 For example, a mercenary unit has been hired to
@@ -23133,7 +23133,7 @@ local police force. The cops are using a commercially
 available security system – quite a good one in fact.
 A standard autohack will defeat the security on most
 personal devices found in the building, as these use
-common systems ‘known’ to the unit, but it does not
+common systems 'known' to the unit, but it does not
 have the tools to attack the specialist system at the
 police station as its vulnerabilities are not widely known.
 However, the client has obtained enough information
@@ -23186,7 +23186,7 @@ transmit and receive a standard code and style of
 encryption for the network. This includes sufficient
 encryption to secure comms against casual intrusion
 but a comm scrambler provides much greater security
-by making the signal indecipherable to the system’s
+by making the signal indecipherable to the system's
 own software. Another scrambler or a military device
 with the correct decryption codes can read signals,
 but anyone else would have to undertake a serious
@@ -23220,9 +23220,9 @@ Interface Box 8 — Cr125
 
 A military portacomp is housed in a lightly armored
 case which will provide Protection +6 to the contents
-or anyone hiding behind it. Cases are usually ‘security
-black’ or ‘military green’ but do come in other
-‘tactical’ colours. The case is ruggedised, as are the
+or anyone hiding behind it. Cases are usually 'security
+black' or 'military green' but do come in other
+'tactical' colours. The case is ruggedised, as are the
 internal components, and it will act as a faraday
 cage when closed. If a Traveller has time to slam the
 portacomp shut it will survive all but the most powerful
@@ -23246,12 +23246,12 @@ TL Processing Mass Cost
 A Multifunction Electronic Device, or MED, is a small
 wrist-mounted computer capable of being programmed
 to interface with all common battlefield electronics.
-Depending on the user’s needs it can be set up to
+Depending on the user's needs it can be set up to
 control Smart-RAM grenades in flight, display sensor
 data from a drone, monitor remote sensors, detonate
 a charge on command, or all of those. An MED has
 a modest amount of processing power and can run
-guidance programmes, but typically acts as an interface
+guidance programs, but typically acts as an interface
 rather than handling complex tasks itself.
 
 Item TL Kg Cost
@@ -23275,7 +23275,7 @@ section have their own internal comms, as does the
 support section. Section leaders are tied in to the
 platoon command net, and the platoon commander
 is in the company command group. Automated
-systems can devolve access if a sub-unit’s command
+systems can devolve access if a sub-unit's command
 transmitted goes offline, and most networks have
 an emergency override that allows any member to
 transmit right across the network if necessary. The
@@ -23284,11 +23284,11 @@ level of the Tactics skill that can be applied using it,
 though a commander who can communicate directly is
 not so limited. Thus the leader of a squad can always
 use their full Tactics ability, but a commander two
-kilometres away can only assist to the level permitted
+kilometers away can only assist to the level permitted
 by the network.
 
 From TL8, visual information is shared in real time,
-and in addition to radio sets the unit’s members
+and in addition to radio sets the unit's members
 are given body-worn or helmet cameras, and/or
 gun cameras. These have provided a great deal of
 evidence at inquiries over the years, and have useful
@@ -23332,9 +23332,9 @@ Item TL Kg Cost
 Tactical Relay Network 6-12 8 Varies
 
 SENSORS AND TARGETING AIDS
-Beyond immediate ‘point and shoot’ combat, one of the most decisive factors in battle is the quality of sighting aids.
+Beyond immediate 'point and shoot' combat, one of the most decisive factors in battle is the quality of sighting aids.
 Those that fit on a weapon are considered to be weapon accessories, but more sophisticated equipment is often
-carried on the soldier’s person, receiving input from sensors on the soldier’s own weapon and possibly remote sensor
+carried on the soldier's person, receiving input from sensors on the soldier's own weapon and possibly remote sensor
 feeds too. Typically the resulting images and prompts are displayed on a helmet visor or similar physical surface but
 can be projected as a hologram at a location designated by the user.
 
@@ -23346,13 +23346,13 @@ This detects the sound of a gunshot or similar weapon
 and attempts to pinpoint its location using a map
 of the surrounding area. Multiple echoes off the
 walls of an urban area can complicate the process,
-but the system can ‘learn’ the sound patterns of its
+but the system can 'learn' the sound patterns of its
 surroundings to make zeroing in on the location easier
 with successive shots. Once set up the operator can
 make an Average (8+) Electronics (sensors) check
 to locate the source of a weapon discharge by using
 its physical signature. The check is modified by the
-weapon’s signature level and any other factors such
+weapon's signature level and any other factors such
 as acoustically complex terrain. A cumulative DM+1
 applies to subsequent from the same position by a
 weapon of similar type.
@@ -23362,7 +23362,7 @@ can automatically control an attached weapon. The
 weapon must be on a tripod or support mount to
 which the auto-aiming device is attached. It can be
 set to automatically return fire with a single shot,
-multiple attacks or not at all depending on the user’s
+multiple attacks or not at all depending on the user's
 preferences at the time. It does not include a weapon
 or mount for one.
 
@@ -23371,13 +23371,13 @@ Ballistic Location Sensor 8 2.5 Cr1500
 Return Fire Unit 9 3 Cr5000
 
 A battlefield coordination unit is a backpack-sized
-communications and administration centre. Its
+communications and administration center. Its
 holographic display can project maps and images as
 well as sensor input, and the unit can undertake limited
 analysis to suggest likely meanings of data. For example,
 the unit can cross-reference incoming passive sensor
 information on the emissions of an enemy unit with other
-known data to produce an estimate of the formation’s
+known data to produce an estimate of the formation's
 composition and state of readiness. A battlefield
 coordination unit grants DM+1 on Tactics checks and
 related tasks, such as requesting artillery fire on a very
@@ -23399,10 +23399,10 @@ with Field Furniture
 **LASER DESIGNATOR**
 
 Using the thermal signature of a target and a
-densitometer, this device ‘fills in’ the outline
+densitometer, this device 'fills in' the outline
 of targets on its display. Although occasionally
 spectacularly wrong, a biomass sighting aid reduces
-the DM for cover by 2 and can ‘see’ through up to
+the DM for cover by 2 and can 'see' through up to
 20cm of inorganic material. The TL12 version is more
 sophisticated and can eliminate a DM due to cover
 by 4 points. The sighting aid can be mounted on a
@@ -23427,7 +23427,7 @@ Item TL Kg Cost
 Integrated Weapon Scanner 10 0.6 Cr900
 
 A basic laser designator becomes available at TL6. It
-‘paints’ a target by projecting a laser onto it, allowing a
+'paints' a target by projecting a laser onto it, allowing a
 guided munition to home in on the reflected radiation.
 Much depends on the ability of the user to keep the
 weapon on target; the munition will follow a moving spot
@@ -23528,8 +23528,8 @@ to increase the likelihood of a hit, is a popular upgrade
 for those units that can afford the extra Cr40000 or so,
 or a twin rapid-fire heavy machinegun can be mounted
 instead. Closeguard is popular as a cheap anti-missile
-unit but has a loyal following as a ‘homicidal sentry that
-never sleeps’. Units that employ it in this mode can set
+unit but has a loyal following as a 'homicidal sentry that
+never sleeps'. Units that employ it in this mode can set
 exemptions so their own people will not be attacked
 providing they carry the correct IFF transponder. The
 unit may still open fire on large passing wildlife, though
@@ -23569,19 +23569,19 @@ Zero-G
 CLOSEGUARD SEMI-AUTONOMOUS
 POINT DEFENCE SYSTEM
 
-The origins of the term ‘Ma Deuce’ for a heavy
+The origins of the term 'Ma Deuce' for a heavy
 machinegun date back to old Earth, where the definitive
 heavy machinegun was designated M2. More advanced
 weapons fulfilling the same role ended up being referred
 to by the same nickname, until eventually a whole
 family of similar but more advanced weapons emerged.
-These are known as the ‘MDD family’, from ‘Ma Deuce’s
-Daughters’. Governments have their own designations
+These are known as the 'MDD family', from 'Ma Deuce's
+Daughters'. Governments have their own designations
 for specific members of the family, but to the typical
 mercenary they are all the Beautiful Daughters of Old
 Lady Deuce. This in turn leads to jargon that can seem
 incomprehensible to the average civilian, but a mercenary
-who hears ‘Mike Two Delta on the field!’ knows there is a
+who hears 'Mike Two Delta on the field!' knows there is a
 heavy automatic weapon nearby. Whether that is a good
 thing depends on which side is using it.
 
@@ -23659,9 +23659,9 @@ Scope
 
 A variant of the MDD support weapon, the MDS is
 about the heaviest projectile weapon a human can carry.
-Nicknamed ‘Ma Deuce’s Sister’ in mercenary jargon,
+Nicknamed 'Ma Deuce's Sister' in mercenary jargon,
 the weapon uses a lightened version of the support
-weapon’s receiver, modified to take magazines. It uses
+weapon's receiver, modified to take magazines. It uses
 
 Weapon: MDS-15
 Type: Support Weapon
@@ -23735,12 +23735,12 @@ Lo-Pen 4, Spread 3
 
 MDS ANTI-MATERIEL RIFLE
 
-The ‘Porky’ consists of a baseplate weighing 3kg,
+The 'Porky' consists of a baseplate weighing 3kg,
 with fittings for two rows of six rifle grenades. The
 baseplate can be angled to set up a spread of grenades
 aimed at a rough point 50-100m from the launcher.
 No grenades are supplied, but typically explosive
-warheads are preferred. Used with ‘dumb’ grenades
+warheads are preferred. Used with 'dumb' grenades
 the Porcupine is primarily a defensive or ambush
 
 Weapon TL Range Damage Kg Cost Magazine Magazine Cost Traits
@@ -23771,12 +23771,12 @@ The TES-12 has an internal powerpack good for around
 125 shots, which is enough for a short action, but is
 often used with a 3kg external power unit. This costs
 Cr 7500 and has Power 3,000. It may be carried by
-the weapon’s user if operating solo but more commonly
+the weapon's user if operating solo but more commonly
 the support weapon gunner is provided with a spotter/
 security team of 1-2 additional personnel who carry
 additional powerpacks. These may be equipped with
-laser carbines, allowing ‘buddy’ recharging of their
-weapons from the support gun’s power unit.
+laser carbines, allowing 'buddy' recharging of their
+weapons from the support gun's power unit.
 
 Weapon: TES-12
 Type: Laser Support Weapon
@@ -23841,7 +23841,7 @@ hand is one of the hidden skills required by successful mercenaries.
 Automedics are used by some civilians in hazardous
 environments and by dignitaries who may face threats
 to their lives. These devices are part monitor, part
-autoinjector. They monitor the user’s life signs and
+autoinjector. They monitor the user's life signs and
 blood chemistry, and can provide detailed information
 to a physician if needed. Under certain specific
 circumstances the unit can inject painkillers, antidotes
@@ -23853,12 +23853,12 @@ chronic condition at bay or stop a medical episode early.
 Military automedics take this function a stage further.
 Like the civilian variant they must be tailored to a
 specific individual but can carry requirements of
-other members of a unit as a backup. This ‘buddy
-system’ allows treatment of others if necessary. In
+other members of a unit as a backup. This 'buddy
+system' allows treatment of others if necessary. In
 addition, the automedic can be preconfigured to react
 to external stimuli, for example delivering an antidote
 to tranq gas as soon as it is detected in the air rather
-than waiting for it to enter the user’s system. Military
+than waiting for it to enter the user's system. Military
 automedics can also administer combat drugs either
 at the command of the user or – if access has been
 granted – from a remote location.
@@ -23876,11 +23876,11 @@ manually activate the drug at any time if needed.
 **SUPPORT COOLING UNIT**
 
 Although primarily associated with support weaponry,
-the ‘SCU’ has become a ubiquitous piece of equipment.
+the 'SCU' has become a ubiquitous piece of equipment.
 Some use replaceable consumables whilst others
 are based on more conventional heat exchangers. A
-consumable based unit weighs 5kg plus 1kg per ‘chill
-can’ it can hold. Using a forced heat exchange, the SCU
+consumable based unit weighs 5kg plus 1kg per 'chill
+can' it can hold. Using a forced heat exchange, the SCU
 removes heat from a weapon or an area and stores it in
 the disposable cans. Removing the expended cans and
 burying them – or sending them off for environmentally
@@ -23903,7 +23903,7 @@ stored in tanks which must be purchased separately.
 An SCU doubles the rate at which heat is removed from
 a weapon with an advanced cooling system, providing
 it is properly connected. Dissipating heat through the
-system’s radiators is at the rate of 1 Heat per minute
+system's radiators is at the rate of 1 Heat per minute
 per set of radiators, but this does create a significant
 thermal signature. Reducing the rate by a factor of five
 allows the thermal plume to be largely concealed.
@@ -23995,7 +23995,7 @@ Demolition Charge 7 5 Cr1000
 Nuclear demolition charges are not commonly available
 but may be improvised by mercenaries or issued under
 desperate circumstances. A nuclear demolition charge
-is sometimes called a ‘suitcase nuke’, though it is too
+is sometimes called a 'suitcase nuke', though it is too
 big to fit in one. Yield is normally in the 0.1kt range –
 equivalent to around 100 tons of conventional explosive
 
@@ -24073,13 +24073,13 @@ Directional Mine, Small 8 100m 4D 1 Cr900 Blast 10
 Directional Mine, Large 8 250m 6D 2 Cr1400 Blast 16
 
 Item TL Kg Cost
-‘Dumb’ Fackle 8 10 Cr250
-‘Sensor’ Fackle 8 10 Cr300
+'Dumb' Fackle 8 10 Cr250
+'Sensor' Fackle 8 10 Cr300
 
 Directional mines are designed to fling small projectiles
 
-- typically ball bearings – in a cone out from the mine’s
-‘danger’ face. Blast radius in this case refers to the
+- typically ball bearings – in a cone out from the mine's
+'danger' face. Blast radius in this case refers to the
 area in which its explosive effect will endanger anyone
 nearby. Range is the distance projectiles will travel
 downrange. A directional mine is treated as a Typical
@@ -24089,10 +24089,10 @@ DEFENSIVE EQUIPMENT
 A variety of defensive equipment is available for the protection of troops in the field. Most are advanced versions of
 concepts that have been in use for centuries, updated either for ease of deployment and use or greater effectiveness.
 
-Fackles – a term derived from ‘field obstacles’ – are
+Fackles – a term derived from 'field obstacles' – are
 tubes approximately 1m long and weighing 10kg each.
 When deployed, three sets of spikes are unfolded from
-the centre and points 1/3 and 2/3 along the tube. This
+the center and points 1/3 and 2/3 along the tube. This
 can be done manually but in an emergency a fackle
 can be flung down, causing its spring-loaded spikes to
 unfold violently. This does cause the device to jump
@@ -24145,18 +24145,18 @@ to accurately target an intruder with any weapons tied
 into the sensor net. This includes detonating a grenade
 directly above them or perhaps bracketing them with
 flashbangs. In active mode the fence has more options.
-It can project an ‘ultrasonic fence’ between the posts
+It can project an 'ultrasonic fence' between the posts
 that will discourage most animals from approaching and
 makes some people feel a sense of unease. Weapons
 can also be set up to automatically fire on anyone in the
-fence’s protected zone who lacks the correct transponder.
+fence's protected zone who lacks the correct transponder.
 
 DRONES
 Drones differ from robots in that they do not have complex control mechanisms. Some drones are capable of limited
 decision-making whilst others require control from a remote operator, but even the most sophisticated drones
 require specific programming or the selection of pre-programmed options and cannot decide to deviate from their
-instructions. Most have a ‘please advise’ function triggered by an unexpected situation or one in which none of
-the drone’s programmed options applies, but even so drones are notorious for blindly carrying on a mission despite
+instructions. Most have a 'please advise' function triggered by an unexpected situation or one in which none of
+the drone's programmed options applies, but even so drones are notorious for blindly carrying on a mission despite
 totally changed circumstances.
 
 SkySpotter is one of a great many very basic
@@ -24164,7 +24164,7 @@ reconnaissance drones available from TL7 upwards.
 It carries forward and sideways looking optical and
 thermal cameras, but little else. SkySpotter takes the
 form of a hand-thrown miniature aircraft powered by a
-‘pusher’ propeller. It is quiet and fairly small but tends
+'pusher' propeller. It is quiet and fairly small but tends
 to be rather obvious to anyone looking out for such craft.
 The drone can be directly controlled using a selected-
 waypoint system which requires no special skill beyond
@@ -24187,7 +24187,7 @@ Aerodagger is a ground-launched drone using rocket
 propulsion to reach an altitude of up to 1km. It then
 guides itself using stub wings and, like other non-
 grav drones, can only function in a Thin or denser
-atmosphere. The drone’s sole purpose is to deliver a
+atmosphere. The drone's sole purpose is to deliver a
 warhead to a suitable target, which must be within
 10km of the launch site. This can be pre-programmed,
 but the user has an option to set target selection
@@ -24265,7 +24265,7 @@ to be able to return to its launch point for recovery and
 recharging. DesiGnator does not move much faster than
 a jogging human but is a difficult target, with Small
 (-4), Protection +2 and 6 hits. Its name is derived from
-‘gravitic propelled designation drone’ but DesiGnators
+'gravitic propelled designation drone' but DesiGnators
 are more commonly used for reconnaissance.
 
 **GRAV MULE**
@@ -24292,7 +24292,7 @@ Alternatively, the drone can be set up for casualty
 evacuation. A pair of slide-out stretchers are always
 fitted, and a life-support pack for each can be quickly
 installed. Once in place, two casualties can be slid into
-a Grav Mule’s armored box and transported – safely
+a Grav Mule's armored box and transported – safely
 but claustrophobically – to the rear for treatment. The
 Grav Mule has Protection +16 and can take 50 hits
 before being disabled.
@@ -24318,14 +24318,14 @@ safe destruction of explosive devices.
 
 Grav Pioneer has Protection +8 and can take 20 hits
 before being disabled. Its grav drive is programmed
-to ‘make the drone light’ in the event of a pressure
+to 'make the drone light' in the event of a pressure
 wave such as that caused by an exploding mine. This
 means the drone is more likely to be tossed about than
 damaged, and takes half damage from blast effects. A
 pair of retractable arms, one ending in powerful cutters,
 allows the clearance of wire and similar light obstacles.
 Heavier obstructions can sometimes be reduced by
-firing all the drone’s explosive ammunition into them in
+firing all the drone's explosive ammunition into them in
 the hope of shaking the obstacle apart
 
 Item TL Kg Cost
@@ -24351,7 +24351,7 @@ battlefield meson accelerator for hire in the subsector.
 
 DIRECT-FIRE WEAPONS
 Direct-fire weapons are typically used for fire support and bunker-busting as well as engaging enemy vehicles. The
-line between ‘support’ and ‘heavy’ in this context can be blurry, but as a rule weapons in this category are too large
+line between 'support' and 'heavy' in this context can be blurry, but as a rule weapons in this category are too large
 to be operated by infantry. They are typically encountered aboard vehicles and in installations.
 
 The AC-25 is very much the industry standard for light
@@ -24412,7 +24412,7 @@ standard weapon capable of fulfilling a range of roles
 from air defence to light anti-vehicle work. AC-40s
 typically use a short-belt feed system, with pre-prepared
 lengths of belt carried in reusable container/guides
-which can be ‘chained’ almost indefinitely if space
+which can be 'chained' almost indefinitely if space
 allows. Ammunition is typically pre-fragmented high-
 explosive dual-purpose, with reasonable penetration
 characteristics and a modest burst effect. Canister
@@ -24427,7 +24427,7 @@ permanent emplacement. The basic weapon costs
 Cr25000 but many users buy a package which includes
 the mountings, traverse mechanism and power unit
 to allow standalone operation, plus a basic track-and-
-target sensor system which allows ‘click and shoot’
+target sensor system which allows 'click and shoot'
 engagement of air or ground targets. The whole package
 costs Cr45000 and requires mounting on a vehicle or
 building into a permanent installation.
@@ -24487,7 +24487,7 @@ explosive or smoke rounds. A canister round is also
 available for anti-personnel work, along with a variety of
 experimental ammunition types. Notable among these
 is a multiple-submunition penetrator round intended
-to offset the gun’s low muzzle velocity by using rocket
+to offset the gun's low muzzle velocity by using rocket
 assistance and a small HEAP warhead. It is of limited
 effectiveness but has found a niche as a defence
 against infantry equipped with powered armor.
@@ -24509,7 +24509,7 @@ with mountings. Its standard mount is equivalent to an
 some ready ammunition. The mounting can be supplied
 enclosed or open, and will normally be protected to the
 same level as the vehicle it is mounted on. Armor cost
-and mass are assumed to be part of the vehicle’s design.
+and mass are assumed to be part of the vehicle's design.
 
 Weapon TL Range Damage Magazine Tons Spaces Cost
 
@@ -24591,7 +24591,7 @@ Marketed as a self-contained unit, the MPS-22 is a
 heavier version of the standard gauss cannon found on
 many vehicles. Although it is built at TL12 and requires
 high-technology spare parts it is designed to be fitted
-on a ‘black box’ basis into any standard heavy weapon
+on a 'black box' basis into any standard heavy weapon
 mounting so long as sufficient power is available. In the
 mercenary marketplace the weapon is popular as a cost-
 effective tank-killer for those forces able to afford it.
@@ -24611,8 +24611,8 @@ Weapon TL Range Damage Magazine Tons Spaces Cost Magazine Cost Traits
 MPS-22 12 3 16D 150 1.5 6 Cr175000 Cr1000 AP 16, Auto 3
 
 ARTILLERY WEAPONS
-Artillery weapons fire in an indirect arc, sometimes on a very high trajectory. Some can engage directly, ‘over open
-sights’ as the saying goes, but others are entirely useless once the enemy gets close enough.
+Artillery weapons fire in an indirect arc, sometimes on a very high trajectory. Some can engage directly, 'over open
+sights' as the saying goes, but others are entirely useless once the enemy gets close enough.
 
 The Aggressor is essentially a cluster of three
 rifled 90mm infantry mortar tubes mounted on a
@@ -24632,7 +24632,7 @@ fired at once with the same or different payloads.
 The single-barrelled version of this weapon is soldier-
 portable once broken down into frame, tube and
 baseplate, but the triple-barrelled version is too heavy
-and bulky to be moved more than a few metres in this
+and bulky to be moved more than a few meters in this
 manner. Both versions can be remotely traversed and
 elevated, though it is traditional to train for manual
 operation of such weapons.
@@ -24717,7 +24717,7 @@ artillery to the battle area, the Dominator has seen
 considerable market success.
 
 An autoloading unit is available for an additional
-Cr100000, adding 0.5 tons to the weapon’s weight.
+Cr100000, adding 0.5 tons to the weapon's weight.
 
 Weapon TL Range Damage Tons Cost Magazine Magazine Cost Traits
 Dominator 8 10 4DD 4 Cr400000 1 Cr20,000 Artillery, Blast 20
@@ -24867,7 +24867,7 @@ fragmentation payload for area attacks. In open
 configuration the system takes up 9 Spaces and costs
 Cr25000, carried outside the structure of a vehicle –
 and thus unprotected by. An enclosed version, protected
-by the vehicle’s armor, costs Cr40000 and consumes
+by the vehicle's armor, costs Cr40000 and consumes
 12 Spaces. Vehicle-mounted systems can make use of
 an autoloader, which can be carried on the same vehicle
 or another in support. The autoloader takes up 4 Spaces
@@ -24994,7 +24994,7 @@ be configured various ways and sections of flexible
 covering along with a rather minimal set of shower and
 washing facilities. The standard setup is a six-person
 sleeping area, a general-purpose working space and
-a small ‘field fresher’ which is served by a modular
+a small 'field fresher' which is served by a modular
 set of power and water connectors. A furniture kit
 capable of being put together as six field bunks, a
 table and stools is also provided, along with a heating/
@@ -25022,7 +25022,7 @@ can be installed inside vehicles instead. It contains two
 emergency operating units and two non-surgical aid
 stations along with a central sanitization and general-
 stores area. If deployed to the ground, each of the
-five modules is protected by a translucent ‘bubble’ of
+five modules is protected by a translucent 'bubble' of
 light polymer on a collapsible frame. Perfectly sterile
 conditions are hard to come by in the field, but a unit
 of this sort comes close. If carried aboard a vehicle for
@@ -25141,7 +25141,7 @@ variety of sensors. Duration in orbit is fairly short;
 typically 3D days plus the Effect of an Electronics
 (remote ops) check.
 
-Using the term ‘mobile’ for a fusion reactor is something
+Using the term 'mobile' for a fusion reactor is something
 of a stretch, but this unit is as close as it is possible
 to get. A field reactor is derived from the units fitted to
 many military vehicles, but is designed to be carried
@@ -25174,9 +25174,9 @@ within the vehicle. A weapon that penetrates the outer
 
 armor and would strike something protected by the
 citadel must get through its armor to do so. Ideally
-enough of the weapon’s force is spent on breaching the
+enough of the weapon's force is spent on breaching the
 outer armor that the citadel can withstand what is left,
-though the vehicle’s interior will most likely be wrecked
+though the vehicle's interior will most likely be wrecked
 even if the crew and critical systems survive.
 
 **VEHICULAR NBC PROTECTION**
@@ -25259,7 +25259,7 @@ protection is often fitted on a temporary basis or as a
 modification after bad experiences in the field. Mine
 protection consumes two Spaces plus one for every full
 20 Spaces of the vehicle. It adds 25% to the value of
-the vehicle’s underside armor. Mine protection can
+the vehicle's underside armor. Mine protection can
 only be applied once
 
 Shaped-charge protection is normally achieved by
@@ -25372,22 +25372,22 @@ REAR 2
 
 SIDES 2
 
-GS-3 stands for ‘ground strike, 3-wheel’. This slightly unusual offering from Halversten Armaments
+GS-3 stands for 'ground strike, 3-wheel'. This slightly unusual offering from Halversten Armaments
 Incorporated was developed for the fast-response and scouting role but has developed into a general-purpose
 light weapons carrier. The basic vehicle is a large three-wheel design, with roll bars around the driving
 position but no significant protection from weapons fire or the elements. The area behind the driver is set
 up as configurable space, and can carry a cargo box capable of holding 4 Spaces of equipment or 1,000kg
-of load. In this configuration the GS-3 is occasionally encountered as a ‘last mile’ logistics vehicle running
+of load. In this configuration the GS-3 is occasionally encountered as a 'last mile' logistics vehicle running
 ammunition and supplies at high speed to forward-positioned troops.
 
 As standard, the vehicle is very basic. It has no sensors or electronics other than a modest driver-assistance
-package and encrypted comms system. The ‘cargo area’ was designed from the outset to be configurable,
+package and encrypted comms system. The 'cargo area' was designed from the outset to be configurable,
 though most commonly all that is added is a pintle-mounted weapon for the use of a second crewmember
-who stands in the vehicle’s rear bed. This is the standard patrol and security configuration for the vehicle,
+who stands in the vehicle's rear bed. This is the standard patrol and security configuration for the vehicle,
 acting as a mobile light support platform or escort for logistics vehicles. An alternate configuration allows two
 infantry personnel to ride in the bed along with a little cargo, dismounting to fight or make a foot patrol whilst
 the driver covers them with a pintle-mounted weapon above the driving position. The art of dropping from a
-standing ‘gunner’ position into the driving seat without inflicting self-injury is an important one.
+standing 'gunner' position into the driving seat without inflicting self-injury is an important one.
 
 TRAITS
 
@@ -25420,7 +25420,7 @@ electronic warfare variant of the GS-3 is designed to be a
 cheap way of getting an expensive piece of equipment into
 the field. The EW package adds an improved, extended-
 range electronic countermeasures package to the rear
-bed. This adds Cr40000 to the vehicle’s price for a readily
+bed. This adds Cr40000 to the vehicle's price for a readily
 
 available TL8 package and is sometimes included in a
 recon-variant vehicle. The resulting platform is fast and
@@ -25437,7 +25437,7 @@ can carry a range of weapons, usually on an open mounting
 equivalent to a small turret with no armor protection.
 The turret weapons are directly controlled by a second
 crewmember. Typically a light autocannon is mounted,
-increasing the vehicle’s cost by Cr20000, but some GS-3s
+increasing the vehicle's cost by Cr20000, but some GS-3s
 are used as mobile anti-aerospace platforms and carry a
 quad-mount light anti-air missile system which increases
 vehicle cost by Cr30000.
@@ -25525,7 +25525,7 @@ UNDER 7
 
 The Field Ranger is a ubiquitous security and transport vehicle often converted into a light patrol asset for lack
 of anything better. It is a 6-wheel-drive ground vehicle somewhere between a large SUV and a small truck,
-with good off-road capability and endurance. The vehicle’s blocky sides maximise internal space at the price of
+with good off-road capability and endurance. The vehicle's blocky sides maximise internal space at the price of
 being a good target, whilst the large rear area can be left open-topped or covered with a lightly armored body
 shell. The crew area and critical components are protected by light armor plate offering modest protection
 against most small arms fire from medium range or greater.
@@ -25533,7 +25533,7 @@ against most small arms fire from medium range or greater.
 Field Ranger was designed from the outset to be customised, and indeed several standard kits are
 manufactured. The basic vehicle is set up for a crew of two, with the rear cargo area open or enclosed as the
 purchaser prefers. There are no weapons as standard, but the cab roof hatch has provision for a pintle mount.
-The rear area can hold 2,750kg of cargo or 11 Spaces’ worth of equipment and/or personnel. The bed of the
+The rear area can hold 2,750kg of cargo or 11 Spaces' worth of equipment and/or personnel. The bed of the
 rear area is sufficiently well constructed to be able to support a light turret weapon.
 
 Field Rangers are typically used for personnel transport, in which case they carry 8-10 personnel in the rear, or
@@ -25558,7 +25558,7 @@ Space but can hold four Spaces of weapons, and costs
 Cr40,000 without fitted weapons. The turret is capable of
 high-angle shooting as well as engaging ground targets, and
 can be controlled from either the cab or rear area according
-to the user’s preference. A turret will reduce cargo capacity by
+to the user's preference. A turret will reduce cargo capacity by
 250kg or equipment Space by 1.
 
 **Large Turret Weapon Package:** If heavier combat capability is
@@ -25587,7 +25587,7 @@ Most Field Rangers are set up as light transports, with only
 minor modifications, or as security/personnel transports
 using the survivability kit. These vehicles typically mount a
 machinegun on a pintle mount atop the cab and carry 6-10
-infantry depending on the unit’s preferences. A light patrol/
+infantry depending on the unit's preferences. A light patrol/
 logistics escort Field Ranger will typically have the survivability
 package and a small turret mounting a light autocannon and a
 pair of light air defence missiles on a rail launcher. The cost of
@@ -25728,7 +25728,7 @@ Cr100000 and takes up 5 Spaces, reducing cargo capacity to
 **Headquarters Support Vehicle Modification:** Using TL12
 components, the HQ support vehicle kit is designed to
 instantly provide a medium-sized mercenary unit or other
-military formation with key functions. The vehicle’s power
+military formation with key functions. The vehicle's power
 system is replaced with a TL9 fusion plant, which takes up
 10 spaces in the rear compartment. Power take-offs enable
 this vehicle to recharge others or run several ground-based
@@ -25744,13 +25744,13 @@ As a result of all these modifications only 8 Spaces are left for
 cargo or additional personnel. This variant of the Negav is very
 expensive, with the new components plus the cost of the base
 vehicle bringing the price tag to MCr2.062, but it provides a
-unit’s headquarters with virtually unlimited power, protection
+unit's headquarters with virtually unlimited power, protection
 from nuclear attack and defence against aerospace and missile
 threats – all in a single, mobile package.
 
-**‘Bombus’ Conversion Package:** Dubbed the ‘Bombus’ by a
+**'Bombus' Conversion Package:** Dubbed the 'Bombus' by a
 notoriously amateurish mercenary force, this conversion is still
-‘officially unofficial’ but is requested often enough that many
+'officially unofficial' but is requested often enough that many
 consider it a standard option. The intent is to turn what was
 designed as a transport vehicle into a mobile raiding platform.
 
@@ -25780,7 +25780,7 @@ the compartment, with space inside for a single gunner.
 Additionally there are small sponsons on each side of the
 rear compartment, each carrying a pair of remote-controlled
 machineguns. There are crew stations for three personnel,
-plus one in the turret, bringing the vehicle’s complement to
+plus one in the turret, bringing the vehicle's complement to
 six. A small amount of cargo space is used by gun racks and
 a wet bar.
 
@@ -25874,7 +25874,7 @@ SIDES 22
 UNDER —
 
 Named after a venomous scuttling creature, the Marrix is one of the few tracked combat vehicles in widespread
-service with interstellar mercenary formations. Most forces favour wheeled or grav vehicles, or a combination
+service with interstellar mercenary formations. Most forces favor wheeled or grav vehicles, or a combination
 of them, since they have better strategic mobility. Heavy tracklayers are well protected but can be vulnerable
 to powerful weapons they are unable to evade, but there is a solid market for light tracked combat and support
 vehicles in certain roles.
@@ -26023,7 +26023,7 @@ this sort serve in the liaison role without conversion, and are primarily used f
 they venture onto the battlefield. Some variants are more combat-worthy and can be encountered as fire
 support platforms or providing vertical mobility to urban combat formations.
 
-The rather grandly named ‘cockpit’ has room for a pilot and a second crewmember, and is fully enclosed.
+The rather grandly named 'cockpit' has room for a pilot and a second crewmember, and is fully enclosed.
 It is lightly armored and capable of withstanding small arms fire from all directions, with slightly better
 underside protection than elsewhere. The rear bed can be configured as a flatbed, low-sided passenger or
 cargo compartment, or as a fully enclosed systems compartment.
@@ -26055,7 +26055,7 @@ capacity by 2 Spaces. Vehicles in this configuration are
 typically used for light patrol work, often with 2-4 personnel
 riding in the rear compartment.
 
-Urban Prowler: The ‘urban prowler’ has an open-topped
+Urban Prowler: The 'urban prowler' has an open-topped
 rear area with a half-ring mount each side. These typically
 mount a light autocannon on each side, operated by two
 crewmembers who stand in the rear of the vehicle. If this
@@ -26063,7 +26063,7 @@ modification is paired with the enhanced survivability
 package, all available space and lifting capacity is used up.
 Fitting the autocannon, with gun shields and ring mounts,
 
-increases cost by Cr25000. This modification’s name comes
+increases cost by Cr25000. This modification's name comes
 from its initial concept as a close-range fire support vehicle
 for personnel operating in cities with tall buildings, but in
 practice it can be encountered as a top-cover and overwatch
@@ -26075,7 +26075,7 @@ platform on a very limited budget. A heavy weapon, such
 as the LC-85 cannon, is mounted in a front-firing limited-
 traverse mount running right through the side of the
 cockpit normally occupied by the second crewmember. The
-gunner’s position is in the rear of the vehicle, along with a
+gunner's position is in the rear of the vehicle, along with a
 limited supply of ammunition. With no spare capacity for
 improved armor, this vehicle is vulnerable but can provide
 useful fire support or ambush light armored vehicles in
@@ -26229,7 +26229,7 @@ large aircraft or perhaps ballistic missiles, the interceptor
 variant replaces its gauss cannon with a pair of rotary
 autocannon and carries light anti-air missiles in the internal
 bay. The three underside pylons are merged to support a
-long-range anti-air missile. In this role the interceptor’s
+long-range anti-air missile. In this role the interceptor's
 ability to take off from a hidden forward position without
 the use of a runway and to climb to altitude in a short time
 are of paramount importance. The large missile is effective
@@ -26320,8 +26320,8 @@ SIDES 18
 UNDER 17
 
 The Chagride was developed as an inexpensive grav APC, and like many vehicles in the marketplace it has
-been used as the basis for a range of variants. As a result the basic model is known by the designation ‘grav
-sled’ rather than any role-specific term. The actual role of the vehicle is indicated by a second term, such as
+been used as the basis for a range of variants. As a result the basic model is known by the designation 'grav
+sled' rather than any role-specific term. The actual role of the vehicle is indicated by a second term, such as
 Chagride Ambulance or Chagride Fire Support Vehicle. This tells personnel what they need to know – what
 the vehicle does and which chassis it is based upon.
 
@@ -26344,7 +26344,7 @@ Resgaw-220 10 2DD 12 CR20000 Blast 16, One Use —
 
 **Survivability Upgrade:** Bolt-on armor plates and inserts
 increase protection to 28 rear and sides and 24 top and
-bottom. Frontal armor is 30. The vehicle’s structure
+bottom. Frontal armor is 30. The vehicle's structure
 cannot carry much more than this without a complete
 rebuild. This package consumes 2 internal Spaces and
 adds Cr160000 to the cost.
@@ -26367,7 +26367,7 @@ infantry soldiers can still be carried.
 Artillery Sled Modification: The Chagride is the basis for
 a variety of artillery platforms, some of which are fairly
 modest. One common modification adds an enclosed
-220mm rocket artillery system protected by the vehicle’s
+220mm rocket artillery system protected by the vehicle's
 armor until raised into firing position. Eight unguided
 220mm artillery rockets are carried, with no reloads.
 These can be launched singly but are almost always used
@@ -26516,7 +26516,7 @@ WEAPONS
 Up-Armored Variant: Additional armor can be applied,
 bringing protection to 80 front, 70 sides, 60 rear and
 53 top and bottom. This costs Cr900000 and uses up 4
-of the vehicle’s 6 remaining Spaces. An additional +30
+of the vehicle's 6 remaining Spaces. An additional +30
 protection all-round can be added using reactive armor at
 a cost of Cr200000.
 
@@ -26526,7 +26526,7 @@ standard version. Some users purchase one fusion tank to
 lead a platoon, with the others taking power from it when
 necessary. The fusion reactor bay can be used for stowage
 or additional systems, adding 10 Spaces (2.5 tons) to the
-vehicle’s capacity.
+vehicle's capacity.
 
 ARMOR
 Autopilot (skill level) 1
@@ -26611,7 +26611,7 @@ SIDES 12
 UNDER 10
 
 The S-series is a large grav transport developed to meet a variety of needs. The basic unit is a lightly armored
-‘grav truck’ suitable for most logistics or personnel movement needs. Its broad oval hull form is reasonably
+'grav truck' suitable for most logistics or personnel movement needs. Its broad oval hull form is reasonably
 aerodynamic, though awkwardly shaped cargoes carried on an open frame can catch the wind alarmingly. The
 driving compartment has space for two crewmembers and is separated from the configurable rear area by a
 bulkhead pierced by a strongly built hatch. The rear area has drop-down sides and rear to allow loading from all
@@ -26623,8 +26623,8 @@ The basic S-Series is armored all round against small-arms fire, including its u
 notoriously weak, but this was never intended to be a combat vehicle. The crew ride in an NBC-protected citadel
 which has an additional 20 points of armor. No weapons are fitted as standard, but many users add a remote-
 controlled machinegun or similar light support weapon on the cab roof. In its basic logistics configuration the
-S-series is assigned the reporting name ‘Skate’ whilst when serving as a personnel transport it is referred to as
-‘Snake’. A Snake can easily transport an entire platoon of infantry, and some users fit pintle mounts around the
+S-series is assigned the reporting name 'Skate' whilst when serving as a personnel transport it is referred to as
+'Snake'. A Snake can easily transport an entire platoon of infantry, and some users fit pintle mounts around the
 periphery of an open-topped vehicle for support weapons.
 
 S-SERIES GRAV TRANSPORT
@@ -26651,7 +26651,7 @@ AC-25 (AP) 2.5 6D-3 100 CR4000 AP 7, Auto 3 —
 AirSpace (laser) 2 8D 2 — — —
 AirSpace (missile) 5 6D 1 CR2500 —
 
-High-Survivability Variant (‘Sermon’): An applique armor
+High-Survivability Variant ('Sermon'): An applique armor
 package increases armor protection to 20 front, back and
 sides, with 18 on the underside and 14 on top. A laser anti-
 missile system is fitted atop the cab roof and an improved
@@ -26659,27 +26659,27 @@ ECM unit is built into the front of the cargo area. This adds
 Cr750000 to the cost of the vehicle and reduces cargo
 capacity to 42 Spaces (10.5 tons).
 
-Mobile Hospital Variant (‘Studio’): The mobile hospital
+Mobile Hospital Variant ('Studio'): The mobile hospital
 variant mounts a TL10 field medical unit inside the rear
 compartment, carried in ready condition and able to be set
 up or closed down for travel in a matter of minutes. This
 variant costs MCr7.171. It has 10 Spaces (2.5 tons) for
 stores, spares or additional facilities. This space is often
-turned into a ‘travel lounge’ for the medical professionals
+turned into a 'travel lounge' for the medical professionals
 assigned to the vehicle.
 
-Mobile Support Variant (‘Scholar’): The mobile support variant
+Mobile Support Variant ('Scholar'): The mobile support variant
 attempts to pack a unit headquarters into a single vehicle.
 It incorporates the protection of the Sermon variant and
 in addition carries a TL10 fusion plant and a field nuclear
-damper. A small command centre, capable of supporting six
+damper. A small command center, capable of supporting six
 personnel, is housed within a second citadel connected to
 the driving chamber by a short tunnel. No weapons are fitted
 as standard but there are 9 spaces available for weapons,
 cargo or any additional facilities the user may want. Cost is
 Cr7,566,575.
 
-Direct Support Variant (‘Salacious’): The direct support
+Direct Support Variant ('Salacious'): The direct support
 variant was given the reporting name Salacious as a
 convoluted reference to potential users apparently needing
 to compensate for something. The basic vehicle has been
@@ -26689,10 +26689,10 @@ heavily up-armored, raising protection to 30 all round and
 the rest of the vehicle is open-topped. The rear compartment
 is crossed by two large beams, from which a pair of outriggers
 are slung along the sides of the vehicle. These have open
-weapon stations at the front, rear and centre, with a gunner
+weapon stations at the front, rear and center, with a gunner
 seated directly at the weapon they control.
 
-Armament can vary but ‘showroom standard’ is a Blackjack
+Armament can vary but 'showroom standard' is a Blackjack
 gun/missile system in the front position on each side, with a
 co-axial machinegun. The weapon station for these incudes
 space for a gunner and loader, with 18 rounds for the gun
@@ -26701,7 +26701,7 @@ and three missiles. The central and rear stations mount AC-
 hopper containing 200 rounds for each gun. All guns have a
 co-axial machinegun.
 
-The outriggers take up a lot of the vehicle’s lifting capability,
+The outriggers take up a lot of the vehicle's lifting capability,
 and their supports block off much of the rear compartment.
 Aft of the rear support is a mounting for an AirSpace defence
 system and an operator station for it, consuming all available
@@ -26712,7 +26712,7 @@ autocannon, remotely controlled from the cab.
 
 The conversion process requires some sub-optimal
 arrangement of components, with the result that only 10
-Spaces (2.5 tons) remain in the centre of the open rear
+Spaces (2.5 tons) remain in the center of the open rear
 section. Some users carry additional ammunition, whilst
 others find a way to cram more weaponry into this space.
 Cost without weapons is Cr650000. With the weapons fit
@@ -26753,7 +26753,7 @@ and the like. In this role the vessel essentially serves
 as a mobile command post rather than combat
 asset, though it may be armed for self-defence.
 
-Hull form is a typical ‘humped cylinder’, arranged as
+Hull form is a typical 'humped cylinder', arranged as
 two primary decks. The drives and engineering spaces
 are housed in a two-deck-high section right aft, with
 the bridge above these on a dorsal hump. Forward
@@ -26967,7 +26967,7 @@ If troop transport capability is not desired the
 barracks and its associated common area can be
 converted to other uses.
 
-Hull form is a ‘cranked wedge’ configuration, with a
+Hull form is a 'cranked wedge' configuration, with a
 wide 2-deck high section at the rear and a narrower
 single-deck section projecting forward from it. Drives
 are located aft on both decks, with the barracks
@@ -26988,12 +26988,12 @@ The vessel requires a crew of 9 for normal
 operations, though adding a medic is advisable.
 Some users dispense with the barracks and convert
 the lower deck into a vehicle bay and deployment
-area. Giving the ship’s commander and the leader
+area. Giving the ship's commander and the leader
 of ground troops their own stateroom and moving
 all other crew into double occupancy leaves six
 staterooms which can be used by up to twelve
 groundside personnel. This frees up the whole
-barracks and troops’ common area for spares and
+barracks and troops' common area for spares and
 supplies or vehicles and combat equipment.
 
 GUNSHIP SHADOW-CLASS
@@ -27367,12 +27367,12 @@ who will try to use it as one. Like many paramilitary
 ships, the Borwen has a lightly armored hull and some
 weaponry fitted as standard for self-defence.
 
-General hull form is a ‘flared cylinder’, formed from
+General hull form is a 'flared cylinder', formed from
 a primary hull with three compartmentalised sections
 below. The central secondary hull is much longer and
 larger than the other two, which flank it to create a
-broad rear section. The primary, or ‘working’, hull
-is dedicated to ‘ship’ operations, with the drives
+broad rear section. The primary, or 'working', hull
+is dedicated to 'ship' operations, with the drives
 and power plant conventionally located aft. Crew
 accommodation is forward of this, with common areas
 and the bridge positioned right forward. 32 staterooms
@@ -27401,25 +27401,25 @@ of their capacity available to launch satellites or
 surveillance probes. The remaining dual pulse laser
 turrets are mounted singly to give a wider arc of fire.
 
-The lower deck contains three almost identical ‘platoon
-transport segments’ arranged in parallel. The outer two
+The lower deck contains three almost identical 'platoon
+transport segments' arranged in parallel. The outer two
 each contain 60 low berths each plus a small ready
 area, cargo stowage and a medical bay. The central
 one is has 40 low berths and a double-sized medical
-bay that serves as a trauma centre when the vessel is
+bay that serves as a trauma center when the vessel is
 supporting groundside operations. Forward of this are
 training areas, a barracks capable of transporting a
 platoon-sized unit and an extensive armory/workshop
-for the unit’s weaponry.
+for the unit's weaponry.
 
 A company of up to 200 infantry can be transported
 aboard a Borwen, with one platoon and command
-personnel travelling ‘awake’ and the remainder in
+personnel travelling 'awake' and the remainder in
 low berths. A limited amount of supplies and support
 equipment can be carried, though a unit with a lot
 of vehicles may need a bigger ship. One of the key
 factors in deciding what equipment to purchase is
-whether it will fit aboard the unit’s transport vessel.
+whether it will fit aboard the unit's transport vessel.
 Common variants replace the three low berth bays
 with cargo space, creating a logistics ship, or with
 garages for combat vehicles. An armored company

@@ -1,4 +1,4 @@
-Welcome to the Journal of the Travellers’ Aid Society, your indispensable
+Welcome to the Journal of the Travellers' Aid Society, your indispensable
 guide to adventuring in the Far Future.
 
 Each volume is a treasure trove of information and game additions for
@@ -36,10 +36,10 @@ The
 The
 ```
 
-of the Travellers’ Aid Society
+of the Travellers' Aid Society
 
 ```
-of the Travellers’ Aid Society
+of the Travellers' Aid Society
 ```
 
 ## JJJournal
@@ -53,7 +53,7 @@ The
 ```
 
 ```
-of the Travellers’ Aid Society - Volume 9
+of the Travellers' Aid Society - Volume 9
 ```
 
 9 781913 076726
@@ -83,7 +83,7 @@ PATRONS
 Prince Amaad Dagashkugiim 2
 The Wrong Patron 119
 TRAVELLING
-Code Duello ‘Fallisepi’ 882 22
+Code Duello 'Fallisepi' 882 22
 Criminal Organizations of the Marches 90
 VEHICLE HANDBOOK
 Vindictor Logging Heavy Walker 68
@@ -148,7 +148,7 @@ Printed in China.
 
 The
 
-of the Travellers’ Aid Society
+of the Travellers' Aid Society
 
 JJ
 
@@ -165,9 +165,9 @@ Required Skills: Assorted starship crew skills, Astrogation 2+
 preferred, Electronics (remote ops) a bonus
 Required Equipment: None
 Reward: Twice standard crew wages plus a possible bonus of six
-months’ pay
+months' pay
 
-Mission: Fill open crew positions on HSV FarStep for Prince Amaad’s
+Mission: Fill open crew positions on HSV FarStep for Prince Amaad's
 expedition to Drenalch to search for Ancients artefacts
 
 Summary: Prince Amaad Dagashkugiim is a great-grandson of
@@ -175,12 +175,12 @@ Golden Sovereign of Hoganas and an enthusiast for history and
 archaeology. The FarStep is a 400-ton yacht equipped with a jump-
 drive commissioned by Amaad specifically to easily reach the Drenalch
 system and to search for Ancients artefacts on the surface of the
-obviously terraformed planet. The Ghenani ‘native’ minor human race
+obviously terraformed planet. The Ghenani 'native' minor human race
 has never allowed outsiders to perform an archaeological study and
 have permanently stalled permission for the Zhodani to do so.
 
 Prince Amaad has managed to acquire an orbital survey conducted by
-the Zhodani and is convinced that he, as a ‘neutral party’, can receive
+the Zhodani and is convinced that he, as a 'neutral party', can receive
 permission to conduct a dig. He is also fairly certain he can dig in one
 of the likely sites without permission if necessary, although he will not
 state this upfront to the Travellers and certainly not to the Ghenani.
@@ -195,7 +195,7 @@ gods, which Amaad finds tiresome and believes would likely offend
 the Ghenani, since long-ago Zhodani castaways attempted to pass
 themselves off as gods.
 
-See Farstep’s description for crew requirements. A single Traveller may
+See Farstep's description for crew requirements. A single Traveller may
 fill multiple positions but the crew should include at least two bridge
 crew, two personnel with engineering skill – at least one of which is not
 a bridge crewmember – and at least one gunner. Thursday can act as
@@ -205,7 +205,7 @@ by NPCs.
 
 Once fuelled at Hoganas, FarStep will jump to the red giant system of
 Drenalch. Upon emergence, Prince Amaad will begin radio negotiations
-with the local authorities for permission to perform a ‘ground study’
+with the local authorities for permission to perform a 'ground study'
 of the site identified in the Zhodani survey. As the ship approaches,
 Amaad will instruct the crew to perform their own sensor examination
 of the site. The ship will be granted access to land and refuel at the
@@ -227,24 +227,24 @@ are the Zhodani ambassador to Drenalch and her senior staff. After
 the reception, assuming no diplomatic incident, the Ministry informs
 Amaad they will act upon his request within 200 standard hours (about
 eight days). In the meantime, the Prince and crew are issued tourist
-visas good for travel in the inhabited portions of Drenalch. The planet’s
+visas good for travel in the inhabited portions of Drenalch. The planet's
 surface gravity is 1.51G and the atmospheric density is two bars,
 potentially impacting tourist activities. The ship and its launch must
 remain at the starport but the air/raft has permission to travel within a
-restricted range covering Drenalch’s inhabited regions, which are all at
-least 3,000 kilometres from the suspected Ancients site.
+restricted range covering Drenalch's inhabited regions, which are all at
+least 3,000 kilometers from the suspected Ancients site.
 
-At the end of the period, the government makes a decision on Amaad’s
+At the end of the period, the government makes a decision on Amaad's
 application. Rather than roll for the result, the Referee may choose
 to implement a result based on the actions of Amaad and crew. In all
 instances, see Dig Details and Site Details for site-specific information.
 
-REFEREE’S INFORMATION:
+REFEREE'S INFORMATION:
 1–2: The petition is denied. Amaad is informed that there is an appeal
 process but it may take years and is unlikely to change the outcome. Amaad
 chooses to ignore the denial and proceeds with a clandestine operation.
 
-The Ghenani discover Amaad’s activities on a 1D roll of 6 per standard
+The Ghenani discover Amaad's activities on a 1D roll of 6 per standard
 day. Law enforcement response to the remote location takes another
 day and begins with a single air/raft containing a driver and four
 troopers equipped to TL10, armored with Cloth (+8) and armed with
@@ -276,14 +276,14 @@ See 1-2 above if the Ghenani determine Amaad or the Travellers are
 attempting to remove Ancients artefacts.
 
 5: The petition is granted with the stipulation that all finds are documented
-and the ‘findings’ shared with the Drenalch government. The wording is
+and the 'findings' shared with the Drenalch government. The wording is
 vague enough for Amaad to interpret the meaning as documents will be
 shared, not artefacts, but that is not likely the Ghenani intent.
 
 Amaad is likely to remove any Ancients artefacts he uncovers and the
 Ghenani will be unaware unless the Travellers alert the local authorities.
 Such an act by the Travellers will result in termination of employment
-and forfeiture of any bonuses. Yet despite Amaad’s strong displeasure,
+and forfeiture of any bonuses. Yet despite Amaad's strong displeasure,
 they will not face sanction on Hoganas for such actions.
 
 6: As 3–4 but additionally, a Zhodani cultural attaché will accompany
@@ -299,29 +299,29 @@ attempt to aid the Ghenani in any attempt to thwart the theft of artefacts
 but not at a high risk to his life.
 
 DIG DETAILS:
-The suspected Ancients site lies 4,000 kilometres from the starport
+The suspected Ancients site lies 4,000 kilometers from the starport
 in a canyon in the mountains facing the open ocean. If permission is
 granted to Amaad, he may move FarStep to the location but the ship
 
 must either hover on lifters near the site, land at the open area by the
-beach eight kilometres away or attempt a landing in a narrow glade – a
+beach eight kilometers away or attempt a landing in a narrow glade – a
 Very Difficult (12+) Pilot check (1D minutes, DEX). A landing by the fast
 launch is only a Difficult check and an air/raft landing is Routine.
 
 Both landslides and river silt block access to what appears to be an
-underground complex of chambers spanning 90 metres diameter, most
-of which lies below the valley’s cliffside. A surface survey – Difficult
+underground complex of chambers spanning 90 meters diameter, most
+of which lies below the valley's cliffside. A surface survey – Difficult
 (10+) Electronics (sensors) check (1D hours, EDU), with a DM of the
-scanning vehicle’s sensor (FarStep could hover above and perform the
+scanning vehicle's sensor (FarStep could hover above and perform the
 scan; the launch or air/raft could hover or land) – will pinpoint the best
 location to begin digging once Effect reaches +2. If Effect reaches -6,
 an erroneousness location is determined, adding two levels of difficulty
 to the excavating task. The end result of a successful scan campaign
 will show a complex floor plan of a single level of oval chambers and
-connecting corridors totalling 2,000 square metres, with an original
-ceiling of 1.5–2 metres height.
+connecting corridors totalling 2,000 square meters, with an original
+ceiling of 1.5–2 meters height.
 
-In FarStep’s cargo hold, Prince Amaad has brought along three heavy
+In FarStep's cargo hold, Prince Amaad has brought along three heavy
 excavation drones (similar to mining drones) and eight light drones
 (probe drones) for detailed work and site exploration.
 
@@ -359,13 +359,13 @@ add 2D to the total Effect required to complete the task.
 
 SITE DETAILS: ROLL 1D
 1: The site is mostly collapsed. Only the recon drones can penetrate
-the crushed tunnels and chambers and only half (1,000 square metres)
-is accessible at all. Light drones can penetrate 1D square metres per
+the crushed tunnels and chambers and only half (1,000 square meters)
+is accessible at all. Light drones can penetrate 1D square meters per
 hour autonomously or 1D + Average (8+) Electronics (remote ops)
 check (DEX) if operated remotely. Only two may proceed initially but
-after 20 square metres are cleared, the other six may join.
+after 20 square meters are cleared, the other six may join.
 
-For every 10 full square metres of progress roll 1D. On a 1 the drone
+For every 10 full square meters of progress roll 1D. On a 1 the drone
 makes a Find – see the Find Details table – on a 6, the drone is stuck
 and will require a Difficult (10+) Electronics (remote ops) check (1D
 hour, DEX) to extract, recover and repair, with cumulative failure Effects
@@ -401,43 +401,43 @@ start at MCr1.
 ```
 
 2: The site is partially collapsed. Light drones must penetrate as
-detailed in Site Details #1 for the first 100 square metres of progress
-and then can explore the next 1,500 square metres at a rate of 10
-square metres per hour. The final 400 square metres are utterly
+detailed in Site Details #1 for the first 100 square meters of progress
+and then can explore the next 1,500 square meters at a rate of 10
+square meters per hour. The final 400 square meters are utterly
 crushed and inaccessible.
 
-For every 10 full square metres of progress roll 1D. On a 1 the drone
+For every 10 full square meters of progress roll 1D. On a 1 the drone
 makes a Find – see the Find Details table – on a 6, the drone is stuck
 and will require a Difficult (10+) Electronics (remote ops) check (1D
 hour, DEX) to extract, recover and repair, with cumulative failure Effects
 of 6 resulting in a permanently disabled drone.
 
 3: The site could be partially explored by humans if interior debris is
-cleared. Light drones must penetrate the first 100 square metres to shore
-up an entrance. Humans can then explore up to 1,200 square metres at
-20 square metres per hour. The final 700 square metres are inaccessible.
+cleared. Light drones must penetrate the first 100 square meters to shore
+up an entrance. Humans can then explore up to 1,200 square meters at
+20 square meters per hour. The final 700 square meters are inaccessible.
 
-Drones and humans make a 1D roll every 10 full square metres
+Drones and humans make a 1D roll every 10 full square meters
 of progress and make a Find on a 1 – see the Find Details table –
 but humans ignore a result of 6 and drones only have a chance of
-becoming stuck during the excavation of the first 100 metres.
+becoming stuck during the excavation of the first 100 meters.
 
-4: As in 3 but after 1,000 cubic metres have been explored, make an
-extra 2D roll for every 10 square metres explored. On a 2 or a 12 to this
+4: As in 3 but after 1,000 cubic meters have been explored, make an
+extra 2D roll for every 10 square meters explored. On a 2 or a 12 to this
 roll, the drone or character has triggered a teleported pad. A drone will
 become inaccessible and seem to have just vanished or disintegrated.
 
 A Traveller who initially encounters this effect or who follows a drone
 will realise they have been teleported to another location, possibly deep
 within the planet, as communication appears impossible. Arriving at an
-arch in the middle of a 20-metre-wide chamber, the Traveller can return
+arch in the middle of a 20-meter-wide chamber, the Traveller can return
 to their original location by stepping back through the arch. The drone is
 not smart enough to discover this and will pause, waiting for instruction
-two metres beyond the arch.
+two meters beyond the arch.
 
 This new complex is similar in size to the original but had been
 evacuated in a more orderly fashion. Only check for an artefact for
-every 50 of 2,000 square metres that can be explored. There is no
+every 50 of 2,000 square meters that can be explored. There is no
 need to check for a second teleport event.
 
 5: As in 3 but the entire site was cleared once long ago. There is only
@@ -445,12 +445,12 @@ one artefact. Make one 2D Find Details roll. Optionally, trigger the
 teleport pad noted above at a random interval on a random character or
 drone. The subsequent chamber allows one more 2D Find Details roll.
 
-6: As in 1 but only 500 square metres are accessible using no more
+6: As in 1 but only 500 square meters are accessible using no more
 than two drones simultaneously to excavate and explore. Everything
 else is crushed.
 
 Finally:
-Prince Amaad’s criteria for success is the recovery of a functional or
+Prince Amaad's criteria for success is the recovery of a functional or
 at least intact Ancients artefact for him to display in his Cabinet of
 Curiosities on Hoganas. A research paper or at least a documentary-
 grade recording of the expedition and the Ancients site itself would be
@@ -494,8 +494,8 @@ equal either. He expects
 others to differ to him but if
 approached politely, he is
 open to suggestions, stating,
-‘How can you ever learn if
-you are never wrong?’.
+'How can you ever learn if
+you are never wrong?'.
 
 **PRINCE AMAAD DAGASHKUGIIMPRINCE AMAAD DAGASHKUGIIM**
 
@@ -529,17 +529,17 @@ Human Male
 ```
 
 Amaad has spent most of his life studying one topic or another
-and amassed by his own admission ‘An incredible amount of
-mostly useless knowledge’. He is not by any means a genius and
+and amassed by his own admission 'An incredible amount of
+mostly useless knowledge'. He is not by any means a genius and
 does not do well thinking outside the box when careful plans go
 awry. He will become fixated on a task and will stubbornly pursue
 it beyond reasonable limits. Only Thursday has been able to talk
 him into abandoning something he has fixated upon.
 
-Prince Amaad’s current obsession is the purported Ancients
+Prince Amaad's current obsession is the purported Ancients
 site on Drenalch. The FarStep was commissioned with jump-
 4 engines and Thrust 2 specifically to make the journey to
-Drenalch easier and the ship’s completion is the cumulation
+Drenalch easier and the ship's completion is the cumulation
 of three years research and planning. He will undertake the
 expedition regardless of whether he receives permission from
 the Ghenani – although of course he would prefer to receive
@@ -550,23 +550,23 @@ remain on Drenalch, however he will lie, cheat and steal – but
 not kill – to get his one artefact back to Hoganas.
 
 Amaad calls Alena Drakovi
-Thursday because ‘I put
-her before any girl Friday’.
+Thursday because 'I put
+her before any girl Friday'.
 She does not look imposing,
-being barely 160 centimetres
+being barely 160 centimeters
 and 45 kilograms, but
-she is primarily Amaad’s
-bodyguard. Thursday’s
+she is primarily Amaad's
+bodyguard. Thursday's
 normal appearance is
 as a mild-mannered
 administrative assistant
 or nurse, non-threatening
 and attractive enough
 to plausibly be part of a
-Prince’s inner circle, yet
+Prince's inner circle, yet
 no great beauty.
 
-Thursday has been in Prince Amaad’s employ since she was
+Thursday has been in Prince Amaad's employ since she was
 
 18. Her family has served the Golden Sovereigns and their
 families for centuries. She nearly always carries her monoblade
@@ -583,10 +583,10 @@ with the prince and she never has – both of their upbringings
 make the idea unthinkable. However, their years together have
 developed a deep bond between them, despite the fact that
 neither would admit it. She will unhesitatingly sacrifice her life
-for him but he would also probably return the favour without
+for him but he would also probably return the favor without
 even consciously realising what he was doing.
 
-**‘THURSDAY’ ALENA DRAKOVI‘THURSDAY’ ALENA DRAKOVI**
+**'THURSDAY' ALENA DRAKOVI'THURSDAY' ALENA DRAKOVI**
 
 ### CHARACTERISTICS SKILLS
 
@@ -622,19 +622,19 @@ Human Female
 
 FARSTEP LUXURY YACHT
 Custom built for Prince Amaad of Hoganas at Portmanteau Shipping
-Services’ shipyard on Haapamaki, the FarStep is a luxury yacht
-designed for jump-4 operations. The ship’s sculpted hull is streamlined,
+Services' shipyard on Haapamaki, the FarStep is a luxury yacht
+designed for jump-4 operations. The ship's sculpted hull is streamlined,
 with large windows for the bridge and passenger staterooms. A luxury
-owner’s suite, guest suite and staterooms surround the lounge area.
+owner's suite, guest suite and staterooms surround the lounge area.
 The medical bay is equipped with imported Imperial and Consulate
 equipment including a top-of-the-line autodoc and an adjacent low berth
 ward designed to keep passengers and crew in the best of health.
 
-The FarStep’s internal furnishings are worthy of a descendant of
+The FarStep's internal furnishings are worthy of a descendant of
 the Golden Sovereign. Besides the overt use of gold fixtures and
 trim, the walls and flooring are panelled with hardwoods from Boreal
 and Delphye. Many furnishings and appliances appear golden but
-are manufactured from smart materials and conform to passenger’s
+are manufactured from smart materials and conform to passenger's
 specifications at verbal command. Outside the passenger area,
 FarStep is a warren of corridors weaving through tight engineering
 spaces. While the crew accommodations are more spartan, they are
@@ -644,7 +644,7 @@ contrast to the passenger areas.
 
 The ship is self-sufficient for most operations but the staff includes
 two steward positions. One of the standard passenger staterooms is
-occupied by Prince Amaad’s assistant, who can fill the medic and or/
+occupied by Prince Amaad's assistant, who can fill the medic and or/
 steward slot in addition to her other duties.
 
 FAST LAUNCH
@@ -872,10 +872,10 @@ Weapons
 
 ```
 Standard maintenance cost listed. As part of FarStep, the Fast
-Launch’s maintenance cost is included in the starship costs and
+Launch's maintenance cost is included in the starship costs and
 need not be paid separately. For FarStep it is still doubled, as luxury
-fittings and an advanced entertainment centre are custom built for
-Prince Amaad’s spacecraft.
+fittings and an advanced entertainment center are custom built for
+Prince Amaad's spacecraft.
 ```
 
 **SMALL CRAFT**
@@ -899,7 +899,7 @@ SHIMMERLIGHT LUXURY SEALED AIR/RAFT
 
 The Shimmerlight luxury sealed air/raft is a streamlined and vacuum-
 protected small grav vehicle designed to transport up to four people
-and 500 kilograms of cargo in relative style and security. The hull’s
+and 500 kilograms of cargo in relative style and security. The hull's
 multichromatic camouflage coating is most often configured for high-
 visibility ostentatious display but it allows for infrared masking and
 can act as active camouflage if the owner desires. Armor marketed
@@ -954,7 +954,7 @@ Stealth (Electronics (sensors) DM) —
 
 TravellingTravelling
 
-Code Duello ‘Fallisepi’ 882
+Code Duello 'Fallisepi' 882
 By Andy Sykes
 
 Duelling in the Imperium is discouraged by the Emperor Strephon, although
@@ -981,8 +981,8 @@ Marines or Army are also classed as nobles under the code.
 
 Any currently serving member of the Imperial Navy, Marines or Army is
 banned from duelling by the Imperial Code of Military Justice. If issued
-a challenge, they may reply with, ‘I regret to state that my rank forbids
-me from engaging in such actions’. It has been known for duels to be
+a challenge, they may reply with, 'I regret to state that my rank forbids
+me from engaging in such actions'. It has been known for duels to be
 postponed for years, until they leave the service.
 
 A noble may not challenge a non-noble and vice versa. Duelling is
@@ -1025,7 +1025,7 @@ unless forced to intercede by foul play. Any second breaking this will
 lose SOC-1 and may be challenged to a duel by the opposing second.
 
 LOCATION
-The location, the ‘Field of Honor’, is traditionally declared by the
+The location, the 'Field of Honor', is traditionally declared by the
 challenger on receiving acceptance of the challenge. This will have to
 be a place where the duel can be conducted without interference and
 not break local laws. Common places include estates, highport hotel
@@ -1056,7 +1056,7 @@ Seconds are traditionally allowed to carry a melee weapon, although
 a stunstick or stunner is more acceptable. Doctors may also carry
 the same weapons, only to be used in self-defence or to restrain
 combatants if injury occurs. Spectators and witnesses should not be
-armed and no other armed person should be within 300 metres of the
+armed and no other armed person should be within 300 meters of the
 Field of Honor.
 
 PERSONAL AUGMENTATION
@@ -1136,8 +1136,8 @@ MELEE AND COMBINATION DUELS
 All duels start on a signal, agreed upon beforehand, and may be
 audible, visible or a combination.
 
-Melee and combination duels are to take place in a 20-metre square
-area, although this may be reduced to a 10-metre square on agreement.
+Melee and combination duels are to take place in a 20-meter square
+area, although this may be reduced to a 10-meter square on agreement.
 
 A DEX or INT check is made by both duellists, the Effect of which
 becomes the Initiative for the duel.
@@ -1163,13 +1163,13 @@ happens, the firer must make a Difficult (10+) Diplomat check. If failed,
 they lose SOC-1. If they succeed, they are seen as courageous and
 merciful and, with Effect 4+, also gain SOC+1.
 
-Pistol duels may be conducted at any distance from 10 metres to
-100 metres. Each combatant should agree to the distance before
+Pistol duels may be conducted at any distance from 10 meters to
+100 meters. Each combatant should agree to the distance before
 the duel begins.
 
 Walk Duel
 Duellists in a walk duel start back-to-back. Upon hearing or seeing the
-signal they must walk 10 metres forward to turn and fire. Once they
+signal they must walk 10 meters forward to turn and fire. Once they
 have halted, they must remain in place. Diving for cover and dodging
 are not permitted, and if either of these are done the combatant will
 lose the duel and SOC-1.
@@ -1191,7 +1191,7 @@ Charted SpaceCharted Space
 Aasamlaga: A Reserve Like No Other
 By Tim Heiderich
 
-‘Take only holovids, leave no footprints. Violators will be exiled.’
+'Take only holovids, leave no footprints. Violators will be exiled.'
 
 Annexed by the Third Imperium in 110 in the Ot Zell subsector of
 Lishun, the history of Aasamlaga (B7668CC-8) goes back another
@@ -1232,7 +1232,7 @@ resulting in a unique and complex melding of cultures and biology.
 A more hospitable homeworld than Vland, Vilani settlers protected
 this world as it sheltered them, and developed an environmentally
 conscious society, but the interstellar wars and decline of the First
-Imperium saw the world’s history and biosphere decimated over 200
+Imperium saw the world's history and biosphere decimated over 200
 years of conflict. Many subcultures and endemic creatures were lost.
 Fear of losing their home hardened the inhabitants against outsiders,
 whom they saw as hostile and reckless despoilers.
@@ -1249,7 +1249,7 @@ values of this stable and persistent society were adopted by the colonists
 
 - although not without some changes in perspective.
 
-Recognising the importance of the planet’s legacy, Solomani attitudes
+Recognising the importance of the planet's legacy, Solomani attitudes
 turned the culture from harmony with nature to one of strict ecological
 preservation. Culture is a mix of the environmental idealism of the
 original Vilani settlers and the protectionism of the Solomani colonists,
@@ -1269,7 +1269,7 @@ the planet cared for through strict environmental regulation, aided by
 a planetary surveillance network. For every person performing a job,
 there are several more supervising them.
 
-The Docents of Aasamlaga believe the planet’s history and biodiversity
+The Docents of Aasamlaga believe the planet's history and biodiversity
 to be of the utmost importance and their two motivations are to share
 these wonders with visitors and protect those wonders at all costs.
 They take a particularly hard-lined attitude toward environmental
@@ -1282,10 +1282,10 @@ ecotourism and its culture is overwhelmingly genteel and cheerful.
 Residents live on the finest planet in the Imperium and are happy to
 share that information.
 
-The system’s agricultural needs are met by the neighboring system
+The system's agricultural needs are met by the neighboring system
 of Askisa (C654576-6), which was found more pragmatic to develop,
-to the benefit of keeping Aasamlaga’s natural wonders intact. It is
-also Aasamlaga’s garbage dump. The planet’s higher technological
+to the benefit of keeping Aasamlaga's natural wonders intact. It is
+also Aasamlaga's garbage dump. The planet's higher technological
 needs, such as computers and antigrav vehicles, are met by Gaamkhi
 (A587449-D), which also provides defence via an Imperial naval base.
 
@@ -1306,7 +1306,7 @@ Air/rafts are the normal mode of travel, as wheeled and legged vehicles
 have been heavily curtailed for their damage to the ecosystem. Visitors
 will be presented with a bill for their carbon footprint upon departure.
 
-A RESEARCHER’S PARADISE
+A RESEARCHER'S PARADISE
 The planet has, in its long and storied history, been home to many
 exotic species, although some may now number only a few individuals.
 Some 90% of species here are unique to this world. There are
@@ -1328,7 +1328,7 @@ prehistoric settlements.
 There are rumors of ruins left by the Ancients, of pyramids still
 intact after hundreds of millennia, but expeditions searching for these
 cultural sites are expressly forbidden to outsiders. The thousands of
-kilometres of unmapped land conceals still more untold historical and
+kilometers of unmapped land conceals still more untold historical and
 cultural discoveries.
 
 Sophontological, archaeological and biological research here is highly
@@ -1350,14 +1350,14 @@ HABITATION
 Modern dwellings on Aasamlaga are rustic bungalows designed for
 little impact on the environment, open and spartan for minimal waste
 and disruption to the surroundings. Some blend in so well with their
-surroundings as to be indistinguishable from only a few metres away.
+surroundings as to be indistinguishable from only a few meters away.
 
 Dwellings are grouped into small encampments with trails following
 existing wildlife paths.
 
 Government
 Aasamlaga is overlooked by a charismatic oligarchy of Docents who
-place themselves as the tireless defenders of the planet’s environment
+place themselves as the tireless defenders of the planet's environment
 and all its creatures. Alas, centuries of insular culture have engendered
 an attitude of unflappable superiority. Visitors are treated to a kind of
 cheerful condescension from the locals, who tend to have a low opinion
@@ -1366,11 +1366,11 @@ dregs, who they view as more or less disposable.
 
 They view offworlders with disdain for being unable to live in harmony
 with their environment, as they do, but Docents will work with outsiders
-to perform unsavoury tasks. Although extremely hospitable, this only
+to perform unsavory tasks. Although extremely hospitable, this only
 makes their attitude to offworlders all the more cloying.
 
 LAW LEVEL AND FINES
-Reflecting the world’s exceptionally high Law Level, visitors can
+Reflecting the world's exceptionally high Law Level, visitors can
 expect their movements and everything they say will be recorded,
 and are advised before stepping foot onto the planet that any actions
 taken against the well-being of the local wildlife will be strictly
@@ -1388,32 +1388,32 @@ armor is recognizable by its darkened earth-tone camouflage and is
 The Caretakr AI
 A helpful planetwide customer service system, The Caretakr is a
 panopticon designed to cater to the needs of tourists while preserving
-the planet’s fragile ecosystem. It tracks threats to native wildlife and
+the planet's fragile ecosystem. It tracks threats to native wildlife and
 directs Docents in their daily activity.
 
 Its global surveillance network has audio/visual bugs strategically
 placed across the planet, in the wilderness, habitats and all dwellings,
 making it practically inescapable. It is able to track the positions of
-anyone wearing a visitor’s badge and can passively eavesdrop on all
+anyone wearing a visitor's badge and can passively eavesdrop on all
 audio in order to answer questions, provide information, guide tours
 and issue fines.
 
 ```
-● Computer/6
-● Database
-● Expert/2
+- Computer/6
+- Database
+- Expert/2
 ○ Animals (all) 2
 ○ First Aid 1
 ○ Science (biology) 2
 ○ Steward 1
 ○ Survival 1
-● Intellect/1
-● Intelligent Interface/1
-● Security/2
-● Translator/0
+- Intellect/1
+- Intelligent Interface/1
+- Security/2
+- Translator/0
 ```
 
-CARETAKR VISITOR’S BADGE (TL10)
+CARETAKR VISITOR'S BADGE (TL10)
 These accessories are mandatory when in public and any tourist not
 wearing one will be quickly interrogated by the nearest group of Docents
 and chaperoned until their badge is retrieved. They are not required in
@@ -1432,48 +1432,48 @@ should be a week of relaxation and adventure quickly turns into a
 conflict with exotic wildlife.
 
 History of Aasamlaga
-Aasamlaga’s history predates the Third Imperium, the wildlife of the
+Aasamlaga's history predates the Third Imperium, the wildlife of the
 planet outliving the Rule of Man and surviving the Long Night. As such,
 its inhabitants have become especially vigilant in conserving their
-culture and the ecosystem of their world. The planet’s natural features
+culture and the ecosystem of their world. The planet's natural features
 are a wonder of the Imperium, containing entire ecosystems found
 nowhere else within Charted Space. It is both spectacular and fragile,
-protected by a small population of Docents who ensure the planet’s
+protected by a small population of Docents who ensure the planet's
 biodiversity remains healthy and pristine at all costs.
 
-The prize of the downport’s nature preserve is an apex predator called
+The prize of the downport's nature preserve is an apex predator called
 a quetzl, a rare and beautiful serpentine animal that was hunted almost
 to extinction. The preserve is exhibiting a mated pair of quetzli, the first
 of a breeding program to later be introduced back into the wild. The
-Travellers’ visitor passes include a free ticket to the exhibition.
+Travellers' visitor passes include a free ticket to the exhibition.
 
-Referee’s Information
+Referee's Information
 Any attempts to dock at the downport of Aasamlaga require a Difficult
-(10+) Pilot check to avoid the ‘grounds restoration’ fee. Whenever a
+(10+) Pilot check to avoid the 'grounds restoration' fee. Whenever a
 check is failed under the observation of the planetary AI, a Docent,
 or groundskeeper drone, a Cr100 x Effect fine will be enforced. The
 stewards of the planet are fastidious, often maddeningly so.
 
-Every population centre on Aasamlaga is overseen by a helpful
+Every population center on Aasamlaga is overseen by a helpful
 planetary AI, which dispenses tourist advice and issues fines. Visitors
 are issued an audio-only commdot to speak with the automated
 caretaker, which doubles as a surveillance bug. Only the remote parts
-of the planet are outside the AI’s watch, instead patrolled by unarmed
+of the planet are outside the AI's watch, instead patrolled by unarmed
 groundskeeper surveillance drones.
 
 THE SITUATION
 The quetzl tour begins with a shameful display of historic goods made
 from the endangered animal. Situated in highly protective cases are
-jewellery and other finery made from the animal’s scales, psi-enhancing
+jewellery and other finery made from the animal's scales, psi-enhancing
 
 drugs from its glands and ornamental weapons crafted from its tail
 barb. These were originally intended for nobles of old and now stand
 testament to the inherent disregard for life.
 
 At the enclosure, the quetzli are indeed stunning to behold. It is a bird-
-like reptile of over five metres in length, covered in feathery, iridescent
+like reptile of over five meters in length, covered in feathery, iridescent
 scales. For the wellbeing of the animal the enclosure is unobtrusive,
-except for a bright red line in the earth three metres outside its
+except for a bright red line in the earth three meters outside its
 perimeter. The larger quetzl seems to ignore most of the group, simply
 levelling a beady-eyed gaze upon each of the visitors.
 
@@ -1486,7 +1486,7 @@ the compelling urge, the Traveller starts to walk towards the quetzl,
 outstretching a hand slightly as if to pet it.
 
 It takes a minute or so for the tour guide to notice and another few
-before the hypnotised Traveller stumbles their way to within the quetzl’s
+before the hypnotised Traveller stumbles their way to within the quetzl's
 striking range. Any Traveller who notices their companions distracted
 state should promptly retrieve them from the exhibit. A Very Difficult
 (12+) Recon check allows Travellers to see the Docents speaking into
@@ -1499,12 +1499,12 @@ pushed against the walls. After a short while a stocky looking woman
 enters, introducing herself as Docent Moran. Regularly dealing with
 offworlders, she is professional if a little condescending. She is upset
 by the potential damage the visitors could have caused to the rare,
-invaluable creature in her care and is more concerned about the animal’s
+invaluable creature in her care and is more concerned about the animal's
 wellbeing than someone almost having been eaten. It is clear she blames
-the Travellers carelessness, rather than the beast’s psionic abilities.
+the Travellers carelessness, rather than the beast's psionic abilities.
 
 Noting the demeanour of her guests, she takes the group for the sort of
-unscrupulous offworlders who would engage in ‘distasteful’ mercenary
+unscrupulous offworlders who would engage in 'distasteful' mercenary
 business. The Travellers are, in her words, perfect for performing
 community service and repaying their debt.
 
@@ -1529,7 +1529,7 @@ Persuade check will have her reluctantly agree on Cr8000. If this check
 is failed, she will refuse to pay more than Cr5000.
 
 OUTFITTING AND TRANSPORT
-The Travellers are loaned one of the preserve’s enclosed touring air/rafts
+The Travellers are loaned one of the preserve's enclosed touring air/rafts
 for transport to and from the site. Security arms them with stunners and
 environmentally friendly air rifles, which fire a hardened dart of organic
 material. This is to comply with the planetary ban on slug throwers, due
@@ -1550,10 +1550,10 @@ The mission parameters are straightforward:
 - Absolutely no harm must be done to native plants or wildlife.
 - Environmental damage will incur heavy fines.
 
-The forest of mangroves has water less than one metre deep over a
+The forest of mangroves has water less than one meter deep over a
 sandy floor. The water is nutrient-rich and opaque but flows clearer
 further into the forest where it is filtered by plant life. The branches
-of the mangroves reach up to three metres overhead. Small aquatic
+of the mangroves reach up to three meters overhead. Small aquatic
 creatures hide among the exposed roots of the mangroves whilst flyers
 nest in the canopy. The network of waterways is navigable by small
 craft, although the forest itself is dense and difficult to traverse on foot.
@@ -1561,7 +1561,7 @@ Attempts to walk without tripping or becoming entangled requires a
 successful Routine (6+) DEX check.
 
 Inspecting mangrove roots with an Average (8+) Survival check leads to
-where augers have fed on the tree’s soft roots, killing it. The occasional
+where augers have fed on the tree's soft roots, killing it. The occasional
 auger is swept up by an ornate flying predator, only to counterattack
 and kill it before scuttling back into seclusion. The pests must be
 removed before they cause any further damage.
@@ -1585,7 +1585,7 @@ quetzl have found it at the same time as the Travellers, locking them in
 a three-way fight.
 
 The poachers are a pair of reconnaissance mercenaries who snuck
-down from orbit to the planet’s surface in a disguised cargo air/
+down from orbit to the planet's surface in a disguised cargo air/
 raft some days ago. In order to capture the creature alive, they are
 equipped with camouflaged vacc suits, stun grenades, tranq gas and
 non-lethal weaponry. They can be seen attempting to subdue the
@@ -1597,10 +1597,10 @@ If the Travellers decide to converse with the poachers, a successful
 Difficult (10+) Persuade check informs them that they were hired by
 Baronet Antoni, a flashy and decadent noble who awaits his quarry
 aboard his yacht, the _Zaroff_. If all goes according to plan, the air/raft
-should dock with a waiting ship’s boat in low orbit in 90 minutes, then
+should dock with a waiting ship's boat in low orbit in 90 minutes, then
 flee the rest of the way to the _Zaroff._ A Very Difficult (12+) Persuade
 check will inform them that the _Zaroff_ is awaiting the poachers at
-the 100-diameter limit from the planet. After docking the ship’s boat
+the 100-diameter limit from the planet. After docking the ship's boat
 aboard the _Zaroff_ , the mercenaries plan to escape to the neighboring
 system Piiman (E76A786-7), the rich homeworld of Baronet Antoni. He
 has hired them to add the specimen to his private zoo, giving each a
@@ -1608,19 +1608,19 @@ sizeable sum to achieve such a feat.
 
 UP IN THE AIR
 Poachers can get Cr200000 for a live quetzl but Docent Moran is
-prepared to pay twice that to secure the specimen’s safe return. If
+prepared to pay twice that to secure the specimen's safe return. If
 the Travellers failed to secure the quetzl when they initially saw the
 poachers, they are left with the option to secure it enroute to the _Zaroff_.
 
 It is a race to alert the planetary authorities to the poaching of the quetzl
 and to intercept the fleeing mercenaries. Despite contacting Docent
-Moran or the planet’s AI, nothing more advanced than a groundskeeper
-drone is able to intercept the poachers before they reach the ship’s
+Moran or the planet's AI, nothing more advanced than a groundskeeper
+drone is able to intercept the poachers before they reach the ship's
 boat. The Travellers are the only ones close enough to pursue.
 
 The air/raft chase takes them into orbit as the poachers attempt to
 outrun their pursuers. The chase lasts 12 rounds before the poachers
-are able to rendezvous with the ship’s boat. Defeat during the chase
+are able to rendezvous with the ship's boat. Defeat during the chase
 will force one or both groups to make a controlled descent back to the
 surface, or they will be stranded in space.
 
@@ -1631,25 +1631,25 @@ trip to the surface will take twice that time due to the damaged state of
 the air/raft. Whether the Travellers want to release a psionic wild animal
 into an enclosed air/raft or let it suffocate in a bubble is up to them.
 
-If the mercenaries do make it to the _Zaroff_ ’, they are only a few
+If the mercenaries do make it to the _Zaroff_ ', they are only a few
 moments ahead of the Travellers and can be seen manoeuvring the
 rescue bubble with the captured quetzl into the hold. This allows the
 Travellers enough time to board the boat and attempt to recapture the
-quetzl or to interfere with the boat’s crew long enough for the planet’s
+quetzl or to interfere with the boat's crew long enough for the planet's
 security detail to reach them.
 
 Once aboard the boat, the quetzl rips out of its rescue bubble and
 begins hunting the crew, not caring to differentiate between the
 poachers who kidnapped it and the Travellers who have come to its
 rescue. It attempts to suffocate and consume prey but attacks with
-its barbed tail if cornered. The crew of the ship’s boat consists of the
+its barbed tail if cornered. The crew of the ship's boat consists of the
 two mercenaries, their air/raft pilot carrying only a sidearm, and the
-boat’s non-combat pilot. Baronet Antoni himself is on the yacht at the
-100-diameter edge of the system. He will approach the ship’s boat
+boat's non-combat pilot. Baronet Antoni himself is on the yacht at the
+100-diameter edge of the system. He will approach the ship's boat
 when it is nearby, rendezvousing in just over two hours.
 
 RESOLUTION
-A successful mission would see the Travellers preventing the ship’s
+A successful mission would see the Travellers preventing the ship's
 boat from reaching the _Zaroff_ , keeping the _Zaroff_ from jumping out or
 retrieving the quetzl. Failing those, having a lead on the yacht and its
 destination can lead to further adventure in another system.
@@ -1660,15 +1660,15 @@ from Docent Moran for eliminating the augers, minus incidental
 expenses for damage to the environment, of course.
 
 A clumsy group or a calamitous firefight in the mangroves could actually
-put the Travellers further into Docent Moran’s debt, requiring more jobs
+put the Travellers further into Docent Moran's debt, requiring more jobs
 to repair the damage. If they kill a predator or any other native animal,
 or are responsible for damage to plants or natural features, they could
 see their reward whittled away to nothing. Treat fines in excess of the
-final reward as a legal dispute regarding the planet’s Destruction of
+final reward as a legal dispute regarding the planet's Destruction of
 Property laws.
 
 If the Travellers are able to reclaim the quetzl, or aid in its recapture,
-Docent Moran will award them Cr400000 for the animal’s return and her
+Docent Moran will award them Cr400000 for the animal's return and her
 opinion of offworlders will improve... slightly.
 
 AIR RIFLE
@@ -1703,7 +1703,7 @@ Behaviour Omnivore, Hunter
 
 QUETZL
 The quetzl is a serpent covered in feathery, iridescent scales, with
-a wingspan of five metres. It is an ambush predator that waits in
+a wingspan of five meters. It is an ambush predator that waits in
 seclusion before shimmering its scales in a hypnotic dance to dazzle
 its prey. It is able to use its psionic abilities to lure sophonts into its
 grasp, where it suffocates by constriction before swallowing them
@@ -1752,9 +1752,9 @@ their payloads into the hauler net with the aid of the grappling arms,
 which can be gradually opened to accept greater amounts of ore.
 
 Those who have seen the tiny Telchine on top of a bulging hauler net
-have given it the unflattering nickname of ‘Dung Beetle’. Unloading
+have given it the unflattering nickname of 'Dung Beetle'. Unloading
 the ore into a conventional cargo bay is an enormous pain, the only
-significant downside to the Telchine’s unorthodox cargo arrangement.
+significant downside to the Telchine's unorthodox cargo arrangement.
 
 TL12 Tons Cost (MCr)
 
@@ -1839,7 +1839,7 @@ Sensors
 2. Grappling Arm
 
 RHEA
-The distinguishing feature of the Rhea is the ‘hopper’, an auxiliary cargo
+The distinguishing feature of the Rhea is the 'hopper', an auxiliary cargo
 bay that opens onto the dorsal side of the ship. The smaller ship clamps
 onto the hopper, with anti-grav baffles and reinforced bulkheads to lessen
 the impact of the falling ore. Cargo belts then carry the chunks of ore into
@@ -1853,7 +1853,7 @@ system altogether.
 The Rhea carries a crew of nine in double-occupancy staterooms. One
 notable feature is the larger than usual common area, allowing the
 crews of all the ships to mingle. The other is the sizeable galley, built
-due to Yanos’s favourite saying, ‘a well-fed ship is a happy ship’.
+due to Yanos's favorite saying, 'a well-fed ship is a happy ship'.
 
 **Rhea**
 
@@ -2129,7 +2129,7 @@ an idea is vaguely abhorrent to Alkisatl, who regards her personal freedom
 as being of upmost importance. Not content with his plan, she has recently
 been travelling with more frequency, hoping her sustained absences will
 drive her father away from the idea. This might explain why she can be
-found at a downport on almost any planet of the Referee’s discretion.
+found at a downport on almost any planet of the Referee's discretion.
 
 **ALKISATL ALKISATL**
 
@@ -2185,7 +2185,7 @@ is skilled in imposing her
 emotions on others.
 
 Her skills are often
-‘necessary’ whenever
+'necessary' whenever
 she wants to make a
 sizeable purchase and the
 possibility of her influencing
@@ -2198,7 +2198,7 @@ of speaking to any she
 encounters. She is well
 trained in diplomacy and
 personnel management,
-her families’ estate
+her families' estate
 having roughly 100 proles
 constantly maintaining it and
 serving her family. Lessons
@@ -2258,7 +2258,7 @@ He takes his duties seriously and will protect Alkisatl with his life if
 need be. She has been nothing less than a perfect boss and her
 need for exploration has allowed him to see Charted Space. Ludriiepr
 was placed with an intendant family, having been born a prole. This
-promotion to a noble’s intendant is unusual and Ludriiepr is keenly
+promotion to a noble's intendant is unusual and Ludriiepr is keenly
 aware of the luck involved with his present situation.
 
 PSARA
@@ -2284,7 +2284,7 @@ The ship is not designed for combat and the crew are trained to evade
 battle as best they can; in the event of a fight breaking out the ship will
 be seen flying away at great speed. It can sustain a few small hits and
 once it is out of immediate danger, repair drones swarm the sides. This
-was her fathers’ singular stipulation of commissioning her the ship and
+was her fathers' singular stipulation of commissioning her the ship and
 although she will not admit it, they have saved Alkisatl more than once.
 Despite the small size of the Psara, it has a crew of four, including a
 medic and an engineer. Alkisatl will offer to take up to four Travellers
@@ -2389,7 +2389,7 @@ Alkisatl and Ludriiepr use the Merla, with the remaining crew tracking
 their location using satellite uplink.
 
 Her doting father spared no expense, outfitting the Merla with structural
-reinforcements and electrostatic armor to ensure Alkisatl’s safety.
+reinforcements and electrostatic armor to ensure Alkisatl's safety.
 The advanced autopilot allows Ludriiepr to leave his post if needed to
 protect her. It has enough range to travel between most cities, although
 if it runs out of power the Psara can be seen dipping out of the skies
@@ -2438,33 +2438,33 @@ Amindii
 
 The Amindii are sophonts native to the Regina system. Comprising less
 than a quarter of the population of their world, the Amindii remain the
-dominant sophont in Regina’s rural environments. While most maintain
+dominant sophont in Regina's rural environments. While most maintain
 their traditional culture in self-governing territories, many Amindii
-participate in Regina’s wider society and some have left Regina to
+participate in Regina's wider society and some have left Regina to
 become Travellers in the wider galaxy.
 
 PHYSICAL CHARACTERISTICS
 As upright bilateral beings with four arms and two large legs, the Amindii
 superficially resemble Terran grasshoppers, with internal skeletons within
 their exterior of chitinous plates and finely scaled skin. Adults average 2.2
-metres tall and mass approximately 110 kilograms. External colouration
+meters tall and mass approximately 110 kilograms. External colouration
 varies with tribes but tends towards patterns of blue and purple which
-evolved as camouflage in Regina’s native forests.
+evolved as camouflage in Regina's native forests.
 
 The Amindii head is composed of a large round skull plate encasing the
 brain and a facial plate that contains two small eyes and an opening
 for the large beak-like mouth. Vision is focused on near ultraviolet to
 green spectra, and hearing is limited to fairly insensitive ear holes at the
-junction of facial and skull plates, but an Amindii’s entire body acts as
+junction of facial and skull plates, but an Amindii's entire body acts as
 a receptor of infrasound. Smell is accomplished by receptors within the
 mouth and is both acute and closely associated with taste.
 
 EVOLUTIONARY DEVELOPMENT
-As members of Regina’s most common surface fauna phylum, the
+As members of Regina's most common surface fauna phylum, the
 Amindii have essentially shed two of their eight limbs as they became
 upright walkers. Their ancestors were small-group herbivores but the
 species became omnivorous to allow them to take advantage of a
-wider set of food options. Regina’s high rate of volcanism, including
+wider set of food options. Regina's high rate of volcanism, including
 relatively frequent supervolcano eruptions likely provided the seed
 to spark sentience in the proto-Amindii. Intelligence and tool use
 emerged as a substitute for the hibernation reflex employed by most
@@ -2533,7 +2533,7 @@ Amindii populations, with agriculture supplementing a traditional
 lifestyle and permanent villages forming the basis of tribal life. The
 Amindii remained close to their forest origins, except in Queenland
 where the Idinii culture spent much of its developmental period in
-a semi-subterranean existence, residing in the region’s extensive
+a semi-subterranean existence, residing in the region's extensive
 limestone and volcanic cave systems.
 
 By -1000, the Amindii had advanced to TL2, although their society
@@ -2573,14 +2573,14 @@ meaning. Vocalization among these four cultures is generally flat,
 whilst emotive content is reliant on gestures that vary greatly among
 the disparate cultures.
 
-An Amindii’s communication style requires additional understanding
+An Amindii's communication style requires additional understanding
 from species unfamiliar with them. An Amindii may appear calm when
 gestures indicate otherwise and, conversely, an Amindii may place
 unintended meaning in causal gestures from other species. Such
 
 misunderstandings are infrequent among Amindii working closely with
 other species, such as the Amindii frontline bureaucrats and security
-personnel often encountered at Regina’s starports.
+personnel often encountered at Regina's starports.
 
 Village, clan and tribe membership governs traditional Amindii society.
 Bearers, who control mating success, often play a leading role in
@@ -2596,7 +2596,7 @@ and responsibilities shared by all sophonts within the Imperium. Amindii
 cultures are semi-sovereign nations, with full self-government and control
 over their territories and citizens, although the government of Regina
 and by extension the Third Imperium are responsible for foreign relations
-and defence. Various arrangements with Regina’s government allow for
+and defence. Various arrangements with Regina's government allow for
 transport networks to traverse reservation land and ensure the rights of
 both Amindii and outsiders are respected within reservation territory.
 
@@ -2607,11 +2607,11 @@ a result of discrimination in previous centuries, few Amindii are willing
 to accept subservient positions or perform menial duties. Amindii are
 readily accepted into police and military roles. To emphasise the Amindii
 heritage of his world, the Duke of Regina maintains the 4519th Lift Infantry
-Regiment (Regina’s Own), trained and equipped to Imperial standards.
+Regiment (Regina's Own), trained and equipped to Imperial standards.
 
 Public venues and facilities on Regina are required to accommodate
 Amindii citizens, seen in the high ceilings and wide passageways that
-predominate among Regina’s otherwise compact cities.
+predominate among Regina's otherwise compact cities.
 
 CREATING AMINDII TRAVELLERS
 Amindii Travellers are uncommon but not rare, especially in the vicinity
@@ -2767,8 +2767,8 @@ Icebox Found at the Exe Cutoff
 By Donald Orr
 
 A dying signal GK (mayday) beams weakly from well beyond the jump
-limit of the Exe system’s secondary gas giant – an unlikely place for
-an ambush despite the shortcut’s reputation. Aboard the gutted Hraye-
+limit of the Exe system's secondary gas giant – an unlikely place for
+an ambush despite the shortcut's reputation. Aboard the gutted Hraye-
 class scout (see Aliens of Charted Space: Volume 1, page 70) sleeps a
 single survivor, the forgotten bait of an ill-planned pirate trap.
 
@@ -2789,7 +2789,7 @@ take the shortest path via Acrid and Tech-World, paying their way into
 state-sponsored convoys if they have the Credits or connections. Less
 well-equipped outfits will need to take the jump-2 route via Argona and
 Sperle, which sees infrequent patrols by regional navies but enough
-traffic to offer a timely rescue, if called for. Travel by the ‘Exe Cutoff’, on
+traffic to offer a timely rescue, if called for. Travel by the 'Exe Cutoff', on
 the other hand, is more of a gambit: it shaves two weeks off the jump-2
 transit time between Tyokh and Fist but there is little chance of help if
 something goes wrong in-system.
@@ -2797,7 +2797,7 @@ something goes wrong in-system.
 Of course, all enterprises in the Trojan Reach carry a certain amount
 of risk. It is a dangerous region. The Hierate imports technological
 goods, while the Imperium imports raw and precious materials from the
-Ya’soisthea Aslan but the truce between the two empires is predicated
+Ya'soisthea Aslan but the truce between the two empires is predicated
 upon a buffer zone of independent worlds incapable of policing
 commerce or projecting appreciable force. Trade is certainly welcomed
 but not at all secure under this arrangement, so corporate and other
@@ -2823,10 +2823,10 @@ ammunition racks emptied and even the hull itself has been stripped
 for the bulk value of its alloys. All evidence, in short, points to a pirate
 attack that was resisted with an utterly failed defence, all hands being
 lost or captured... except for one. Sensors may detect a single lifeform
-frozen inside one of the ship’s three low berths, not something a Hraye
+frozen inside one of the ship's three low berths, not something a Hraye
 is usually equipped with in the first place.
 
-Fortunately, the ship’s emergency battery has held out for this long but
+Fortunately, the ship's emergency battery has held out for this long but
 is unlikely to last much longer. The wreck itself is all but unsalvageable.
 It could be towed back to a shipyard but the repairs needed to make
 her spaceworthy again would be so extensive that it would likely be
@@ -2835,7 +2835,7 @@ cheaper to acquire an entirely new ship.
 THE LIE AND THE TRUTH
 Reviving the person inside the low berth is a straightforward if technical
 procedure, only complicated by the loss of cabin pressurization aboard
-the Penniless Prince and the rescuer’s possible lack of advanced
+the Penniless Prince and the rescuer's possible lack of advanced
 medical facilities.
 
 The rescued spacer is in his mid-thirties, with grey eyes and sandy
@@ -2848,7 +2848,7 @@ engaged in speculative trade. He says they were intercepted by pirates
 while transporting livestock purchased from Gor. One of his mates let
 the story slip and a raider vessel followed them from Cordan. The crew
 was captured to be sold as slaves to agents of the Glorious Empire but
-the raiders’ corsair had too few low berths so he, the puniest specimen,
+the raiders' corsair had too few low berths so he, the puniest specimen,
 was left behind.
 
 This is a believable story but there are some inconsistencies. Why
@@ -2860,10 +2860,10 @@ might not have good answers for.
 In fact, the above is a lie. Rabin is actually an electronics security
 specialist with a small pirate crew that runs overly complex jobs in
 The Borderlands, and he was chosen as bait for his technical, not
-interpersonal skills. As the resident computer hacker for ‘Gronzi’s
-Gang’, the ploy was for Rabin to be frozen inside the low berth, be
+interpersonal skills. As the resident computer hacker for 'Gronzi's
+Gang', the ploy was for Rabin to be frozen inside the low berth, be
 
-rescued, then disable the rescuing ship’s maneuver drive and weapon
+rescued, then disable the rescuing ship's maneuver drive and weapon
 systems as it jumped into Cordan or Tech-World. Here, other members
 of the crew would be ready for some signal from Rabin.
 
@@ -2879,7 +2879,7 @@ Rabin is not a fool, despite the foolish company he kept. Once he
 realises that he has been left for dead, he will decide a course of action
 based on the qualities of his rescuers. If they seem like upstanding
 citizens, he is likely to stick to his original story, asking to be dropped off
-at the nearest sizeable starport on the Travellers’ way.
+at the nearest sizeable starport on the Travellers' way.
 
 However, if they are a less reputable crowd he might come out with the
 truth and offer to put them in touch with his connection for privateering
@@ -2890,10 +2890,10 @@ Pirates in the Trojan Reach often moonlight as privateers. A sanctioned
 contact will provide the pirate crew with a list of passphrases that an
 aligned ship can use to slip the net and, in return, the pirate can expect
 a sizeable reward from the contact when they next check in. Usually,
-these ‘contractors’ do not know who they are working for, that information
-being kept hidden by their contact. Gronzi’s Gang had unknowingly been
+these 'contractors' do not know who they are working for, that information
+being kept hidden by their contact. Gronzi's Gang had unknowingly been
 serving the interests of the Company of Grandmotherly Kindness, the
-most dominant trade entity among the Ya’soisthea Aslan, which works
+most dominant trade entity among the Ya'soisthea Aslan, which works
 industriously to maintain trade between the Imperium and Hierate as well
 as their own place at the head of the table.
 
@@ -2918,8 +2918,8 @@ EncounterEncounter
 Captain Mreni
 By Isabella Treccani-Chinelli
 
-Despite the fact his previous crew all claimed he had ‘delusions of
-grandeur’; Captain Mreni knows his worth. Raised on a backwater
+Despite the fact his previous crew all claimed he had 'delusions of
+grandeur'; Captain Mreni knows his worth. Raised on a backwater
 planet in the middle of The Beyond, Mreni grew up sailing ships, street
 fighting and studying ancient languages. Realising there was more to
 life than the planet he grew up on, he stowed away. Tucked within a
@@ -2993,7 +2993,7 @@ on the planet he is currently squatting on.
 When encountered by Travellers, he will present himself as nothing
 more than a humble beggar. Complimenting the armor or weapons of
 the Travellers, he will initiate conversation with those he believes may
-help reinstate his former glory. Mreni is a useful addition to a ship’s
+help reinstate his former glory. Mreni is a useful addition to a ship's
 crew and will join the crew for half the salary of a traditional gunner
 (Cr1000 per month), provided a successful Difficult (10+) Persuade
 check is made.
@@ -3003,7 +3003,7 @@ High guardHigh guard
 Belvedere Station
 By Donald Orr
 
-The planetary government of New has refitted their spaceport’s orbital
+The planetary government of New has refitted their spaceport's orbital
 fuel depot into a full-service space station and applied for a Class C
 rating hoping to increase trade and tourism to the world. They now
 await the report of a covert detached duty scout, expected to be
@@ -3014,7 +3014,7 @@ paradise of rolling plains where livestock graze and automated tractors
 make predictable rounds. Settlements are few and far between, most
 are simple market towns where farmers and ranchers warehouse their
 stock in great, refrigerated complexes until the goods can be sold
-offworld. The planet’s best-known export is remswort, a large thistle
+offworld. The planet's best-known export is remswort, a large thistle
 that, when steamed, yields a fleshy and nutritious choke considered a
 regional delicacy.
 
@@ -3022,13 +3022,13 @@ The New starport has always been a modest affair. There are a few
 concrete landing pads to accommodate streamlined vessels, plenty
 of warehousing to store exports and, historically, a minimal refuelling
 depot in orbit to service the bulk agri-traders that cannot weather the
-planet’s atmosphere. There is a Scout Service base but it is nothing
+planet's atmosphere. There is a Scout Service base but it is nothing
 more than a dusty landing strip with a small parts closet and one
 administrator with a fear of flying.
 
 Recently, the elected bureaucrats of New have sought to upgrade the
 starport to Class C, believing that doing so will drive trade and tourism
-to the backwater world. Most jump 2 traders bypass New in favour of the
+to the backwater world. Most jump 2 traders bypass New in favor of the
 Class B ports at Imasaa or Eshadi. To accomplish this task economically,
 they have chosen to retrofit the existing fuel depot – previously a one-
 man operation – to a fully-fledged highport and grandiosely renamed it
@@ -3065,7 +3065,7 @@ the length of the scaffolding.
 
 Inside, the station feels like the economy model of a newly purchased
 handcomp. The walls are freshly brushed aluminium, the steel grating
-still has its mould lines and the ceramic ceilings are still bright white.
+still has its mold lines and the ceramic ceilings are still bright white.
 It all lacks the cosmetic wear exhibited by most space stations. This is
 in stark contrast to everything else on New, where a high-quality but
 broken-in saddle earns a respectful nod.
@@ -3078,7 +3078,7 @@ latest posting or perhaps a career stepping-stone.
 
 PERSONALITIES
 Jamison Clintock, Assistant Starport Director: Tall, gaunt and in
-his early 40’s, Jamison’s clothing is perfectly pressed and his greying
+his early 40's, Jamison's clothing is perfectly pressed and his greying
 hair neatly combed-over his small, bald head. A local bureaucrat that
 transferred some years ago from the New Tax and Excise Office to the
 Imperial Starport Authority, Jamison is more eager than anyone else
@@ -3091,8 +3091,8 @@ bureaucratic family as opposed to the farming and ranching origins
 celebrated by most of New.
 
 Fox Ocano, Decent Mechanic: A self-described decent mechanic,
-Fox is in his early 30’s and learned how to fix a grav-tractor ‘at his
-mama’s hip’. Fox is one of two local, farm-raised employees of the
+Fox is in his early 30's and learned how to fix a grav-tractor 'at his
+mama's hip'. Fox is one of two local, farm-raised employees of the
 New highport, the other being Markov Galvin the shuttle pilot. The two
 are close friends but disagree on a fair amount, including on whether
 this new highport is a good idea. Fox thinks it is and this shows in
@@ -3102,10 +3102,10 @@ extremely friendly, if folksy, demeanour that tends to put people at ease.
 
 Galvin Markov, Shuttle Pilot: As the shuttle pilot who ferries
 passengers between Belvedere Station and the New downport, Galvin
-spends a good deal of his time in the cockpit of the SPA’s passenger-
+spends a good deal of his time in the cockpit of the SPA's passenger-
 outfitted launch. Having grown up on one of the many farms of New
-and ‘earned his wings’ flying cargo runs between the market towns and
-the downport, Galvin would proudly call himself a ‘local yokel’. He has a
+and 'earned his wings' flying cargo runs between the market towns and
+the downport, Galvin would proudly call himself a 'local yokel'. He has a
 country drawl and a not insignificant dislike of the new highport, which
 he does not mind sharing with strangers. This could be problematic,
 given that he also doubles as shuttle steward to tourists for the duration
@@ -3125,7 +3125,7 @@ Moose socialising with anyone in earshot.
 Jo-Job the Fuel Rat: The oldest resident of Belvedere Station has also
 lived there the longest. Nearly 60 years old, Jo-Job has been employed
 at this orbital installation for more than half of his life, having been the
-station’s sole occupant when it was still known as ‘the Tank’. Jo-Job is
+station's sole occupant when it was still known as 'the Tank'. Jo-Job is
 a man of few words. Perhaps decades of living alone here changed him
 into an introvert or perhaps he took the job because he appreciates the
 space. Nevertheless, he has just recently learned to enjoy the company
@@ -3141,7 +3141,7 @@ find culinary inspiration in locally sourced ingredients. In fact, he would
 likely have taken any decently paying job, as long as it was off Tobia.
 He refuses to divulge his family name, insisting on people calling him
 by his given name only. His wife, Anastasia, accompanied him on this
-venture and acts as the Inn’s server and stewardess.
+venture and acts as the Inn's server and stewardess.
 
 **Anastasia Bruglio, the Stewardess:** The server and stewardess at
 the Belvedere Restaurant and Inn, Anastasia is a beautiful, intelligent,
@@ -3153,11 +3153,11 @@ in the sector capital, Anastasia is versed in social etiquette and
 surprisingly well-connected and she lends an air of class that contrasts
 with her surroundings.
 
-Tchek’ra, Humble Barkeep: This female Aslan is the owner and
+Tchek'ra, Humble Barkeep: This female Aslan is the owner and
 operator of the Bull Moose Bar and Casino. She is the widow of a
 young male killed in a territorial dispute two decades ago and, left
 destitute, has worked as a broker and underworld contact to Aslan
-syndicates in the Trojan Reach. Tchek’ra often travels between the
+syndicates in the Trojan Reach. Tchek'ra often travels between the
 Hierate and Imperium. She recently saved enough money to start her
 own business and, ever thrifty, was attracted to Belvedere Station by
 the impressive subsidies offered by the New government. She lacks the
@@ -3166,7 +3166,7 @@ the station staff have taken a liking to her nonetheless.
 
 Henrik Riordonson, Janitor and Gardener: A tall, lean and very
 blonde man in his middle years, Henrik projects an air of experience,
-competence and intelligence that belies his position as station’s
+competence and intelligence that belies his position as station's
 janitor. He seems content, however, pushing his wheeled bucket
 and mop around the station to disinfect patches that the auto-
 cleaners fail to and tending to the planted emplacements around
@@ -3189,7 +3189,7 @@ downport. Those that dock at Belvedere Station tend to be larger,
 unstreamlined ships needing to load bulk agricultural goods using
 their own shuttles, which often takes days. To accommodate these
 large vessels economically, the space station employs an umbilical
-corridor that extends 100 metres from the body of the station, permitting
+corridor that extends 100 meters from the body of the station, permitting
 two large ships to dock with the small station at the same time. The
 engagement mechanism is no more than a double-action airlock with a
 universal scaffold, a simple yet versatile configuration.
@@ -3205,11 +3205,11 @@ their airlocks, allowing for safe ingress and egress. Each of these
 four landing pads, as well as the docking umbilical, lead to the central
 chamber, which itself opens onto the main concourse of the station.
 3. Promenade
-The ‘Promenade’ is a modest affair, a small, communal space that
+The 'Promenade' is a modest affair, a small, communal space that
 connects the dining, entertainment and hospitality facilities that
-Belvedere Station offers. It is 10 metres wide and 20 metres long, with
+Belvedere Station offers. It is 10 meters wide and 20 meters long, with
 two storefronts to the left and two to the right that open with large, roll-
-up doorways. The ceiling, five metres high, terminates in a skylight with
+up doorways. The ceiling, five meters high, terminates in a skylight with
 an unobstructed and inverted view of New; inexperienced spacers may
 find the floating planet above them unsettling. The décor is generically
 welcoming, with several plant installations showing off the local flora
@@ -3249,28 +3249,28 @@ Belvedere Station
 
 ### 5
 
-To the right, the nearest sign reads ‘Repair Bay’, then further out,
-‘Shuttle Hangar’. Both outfits are identified on official-looking placards.
-To the left, there are two independent establishments: first, the ‘Bull
-Moose Bar and Casino’, and then the ‘Belvedere Restaurant and Inn’.
+To the right, the nearest sign reads 'Repair Bay', then further out,
+'Shuttle Hangar'. Both outfits are identified on official-looking placards.
+To the left, there are two independent establishments: first, the 'Bull
+Moose Bar and Casino', and then the 'Belvedere Restaurant and Inn'.
 At the end of the concourse, a fifth door is identified as the Starport
-Authority Office and a sixth, more obscure door is labelled ‘Station
-Crew Only’.
+Authority Office and a sixth, more obscure door is labelled 'Station
+Crew Only'.
 
 4. Repair Bay
 The entrance to the repair bay is a small, steel-grate platform
 protected from a long fall with a thin, metal guardrail. Past a gate with
-an ‘employees only’ sign on it, a long flight of stairs descends to the
-repair bay floor, a space that is 20 metres deep, 30 metres wide and
-60 metres deep. The walls of this cavernous space are adorned with
+an 'employees only' sign on it, a long flight of stairs descends to the
+repair bay floor, a space that is 20 meters deep, 30 meters wide and
+60 meters deep. The walls of this cavernous space are adorned with
 specialized tools and wheeled ladders facilitating access to implements
 that would otherwise be out of reach. The grating below has been
 constructed so that individual tiles can be removed in segments,
-revealing another five metres of empty space for use as parts storage
+revealing another five meters of empty space for use as parts storage
 or extra clearance. The entire place smells like grease.
 
 The opposite wall is plain steel and completely bare, with crenelations
-running horizontally across the centre. It opens outward onto the void,
+running horizontally across the center. It opens outward onto the void,
 allowing the bay to accept a spaceborne vehicle of up to 50 tons. The
 repair bay is divided into two halves, a near end and a far end, by a
 retracting aperture that can be closed to allow the repair bay to be used
@@ -3293,7 +3293,7 @@ steward. Behind the desk, a backlit sign announces the next shuttle
 departure or arrival, likely some hours away.
 
 The New highport is in geosynchronous orbit with the downport at an
-elevation of 35,000 kilometres. To facilitate the movement of people
+elevation of 35,000 kilometers. To facilitate the movement of people
 and petty goods between the surface and Belvedere Station, the shuttle
 (actually just a 20-ton launch) operates twice daily service. It departs
 the downport at 0800, arrives at Belvedere Station two hours later,
@@ -3350,7 +3350,7 @@ uniformed man, often chooses to read his reports here rather than in
 his cramped office.
 
 7. Belvedere Restaurant and Inn
-Like the station itself, the name ‘Belvedere Restaurant and Inn’ is
+Like the station itself, the name 'Belvedere Restaurant and Inn' is
 something of a grandiose misnomer. Whatever they are expecting,
 Travellers are met with a utilitarian diner that nonetheless serves
 excellent food and happens to have a few economy staterooms nestled
@@ -3364,7 +3364,7 @@ through a pair of swinging doors. A handful of free-standing tables are
 arranged in the middle of the room to host larger parties and booths
 offering more privacy are built into the righthand wall. The back of
 the diner is composed entirely of window, offering a gorgeous view of
-New’s gently curving horizon, juxtaposed against the star-spangled
+New's gently curving horizon, juxtaposed against the star-spangled
 void. A lift in the corner of the restaurant leads to the hotel area, below.
 
 Guests of the hotel are issued a keycard that allows them to take the
@@ -3377,13 +3377,13 @@ the inn, although concierge services are few.
 The formal headquarters of Belvedere Station, the admin office is a
 confined, windowless, octagonal room with two desks and a trio of
 holding cells built into the basement below. The desk to the left is used
-for administrative purposes, with trade tables, ships’ manifests and
+for administrative purposes, with trade tables, ships' manifests and
 station maintenance schedules onscreen. This computer also controls
-the station’s communications. To the right is the console used for traffic
+the station's communications. To the right is the console used for traffic
 control purposes, with screens displaying system maps at different
 scales and with different approach vectors pre-plotted for common ship
 types. Behind the administrative desk is a small arms locker, containing
-the station’s security weapons.
+the station's security weapons.
 
 The holding cells and sick bay are accessed down a set of stairs. The
 cells use simple metal bars, hinged doors and a mechanical but solid
@@ -3397,20 +3397,20 @@ room into an emergency sick bay if needed.
 The crew quarters of Belvedere Station are accessed through a
 nondescript door to the right of the office. This door is uninviting in the
 extreme, a metallic grey that blends into the walls to the left and the
-right. A small plaque at eye level reads ‘Station Crew Only’ and the door
+right. A small plaque at eye level reads 'Station Crew Only' and the door
 
 only opens to individuals with a keyed badge. Beyond the door is a
 short hallway. Five secured doors to the left open onto five staterooms
 and a ladder leads down to another set of five staterooms below. Each
-room is simply furnished to the taste of one of the station’s occupants.
+room is simply furnished to the taste of one of the station's occupants.
 
 The end of the hall opens onto a small mess, kitchenette and common
 room. Staff have reserved for themselves cabinet and freezer space
 using passive-aggressive sticky notes.
 
 A ladder is built into the wall in one corner of the mess, which leads
-to a manual airlock above. Despite the signs reading ‘Emergency
-Exit Only’, there is evidence of wear and scuffing that show this
+to a manual airlock above. Despite the signs reading 'Emergency
+Exit Only', there is evidence of wear and scuffing that show this
 to be a regular path of ingress and egress. On the exterior of the
 station, the airlock leads to a ladder and accompanying tether-run
 that goes along the spine of the fuel tanks and to the old hab, on the
@@ -3430,7 +3430,7 @@ spacewalk from the station to the hab, to get there.
 11. Old Hab Complex
 Belvedere Station is not a new installation. Prior to being refitted and
 renamed it was officially known as the New Refuelling Depot or, more
-colloquially, as ‘the Tank’. Necessitated by the unstreamlined nature of
+colloquially, as 'the Tank'. Necessitated by the unstreamlined nature of
 large, agricultural trade vessels, the Tank was supplied with unrefined
 hydrogen by in-system ships running fuel from small-time, hydrogen
 extraction enterprises at local gas giants. In those days, the Tank was
@@ -3456,7 +3456,7 @@ For all its age, however, the hab has an incredible view due to three
 out of four of its walls having large bay windows. Before the refit this
 section of the station faced planetside but it has since been rotated
 180 o outward to improve the planetary view from the tourist facilities. As
-such, this small stateroom has clear line of site to New’s moon, sun and
+such, this small stateroom has clear line of site to New's moon, sun and
 stars, as the station orbits the planet below.
 
 POSSIBLE DEVELOPMENTS
@@ -3469,7 +3469,7 @@ conducting the review without identifying themselves. Some residents
 of the station, including Jamison Clintock (deputy starport director)
 and Fox Ocano (station mechanic) are vocally eager for the review
 to be successful and for New to be reclassified as a Class C starport.
-Independent business owners, such as T’chekra and the Bruglios,
+Independent business owners, such as T'chekra and the Bruglios,
 likely want the venture to succeed because it will improve business,
 although they are less vocal about their opinions, knowing that some
 people are not so eager. Others, including Galvin Markov (the shuttle
@@ -3586,7 +3586,7 @@ RESTRICTIONS AND REQUIREMENTS
 Restrictions are taboos for organization members, things they cannot
 do. Common restrictions on criminal organization members include
 revealing secrets of the organization to outsiders, or using the
-organization’s resources for their own private ends, but can also include
+organization's resources for their own private ends, but can also include
 social restrictions, such as not harming people from a particular ethnic
 group or avoiding a particular religious faith.
 
@@ -3597,7 +3597,7 @@ uniform or behaving in a certain fashion.
 
 BENEFITS
 Benefits are passive boons granted by the organization – the
-Traveller’s membership in the organization helping them in some
+Traveller's membership in the organization helping them in some
 fashion. One common benefit is protection; people know not to
 cross the Traveller, as doing so will draw the wrath of the criminal
 organization. Other common benefits include money laundering
@@ -3636,7 +3636,7 @@ network are slowly being shaken back into life and criminals who
 never looked beyond the boundaries of their neighborhood are now
 considering crime on an interstellar scale.
 
-The strength of the Vriterbei is their cultural continuity. Analysts theorise
+The strength of the Vriterbei is their cultural continuity. Analysts theorize
 that the Vriterbei combine the criminal ethos and familial loyalty of the
 Cosa Nostra with Vilani rigidity and tradition.
 
@@ -3678,7 +3678,7 @@ Rank Title Bonus
 request basic firearms or other equipment
 totalling Cr1000 in any year.
 1 Respected You are a respected thug. You may launder
-Credits through the Vritberei’s front businesses.
+Credits through the Vritberei's front businesses.
 You may request weapons worth up to Cr5000
 or a vehicle for your own use. You may be given
 control of a small Vritberei owned front business.
@@ -3706,7 +3706,7 @@ Ine Givar
 The history of the Ine Givar is a murky and contradictory one. Several
 false histories have been deliberately circulated in the past, both by the
 Ine Givar themselves and the Imperium. Conspiracy theories cluster
-around the organization – some say they do not exist and that ‘Ine Givar’
+around the organization – some say they do not exist and that 'Ine Givar'
 is just a convenient label the media use for any terrorist group. Others
 claim they are funded by the Zhodani to destabilize the Imperium or that
 the Imperium deliberately created an enemy to keep commoners in line
@@ -3717,7 +3717,7 @@ Rhylanor subsector in the late 900s, that they were founded by a
 disillusioned young noble who believed the Imperium was too lax in
 tolerating corrupt or oppressive governments and who grew to blame
 the entrenched politico-economic system as being more concerned with
-propagating itself than improving life for Imperial citizens. The ‘modern’
+propagating itself than improving life for Imperial citizens. The 'modern'
 Ine Givar may have assimilated several other terrorist organizations.
 
 ACTIVITIES
@@ -3726,7 +3726,7 @@ of the Imperium and replace it with something more democratic; they
 especially want the Imperium to intercede on troubled worlds where
 disasters or corruption are endemic. Different Ine Givar cells have
 different ways of advancing this ultimate goal, ranging from protests
-or demonstrations to raise awareness of the Imperium’s failings, to
+or demonstrations to raise awareness of the Imperium's failings, to
 kidnapping and extortion, to major terrorist attacks targeting the nobility,
 symbols of Imperial power or lynchpins of interstellar trade networks.
 
@@ -3767,7 +3767,7 @@ A senior member can obtain a scout ship or
 other small ship on loan from the organization
 or request middle passage on board a
 friendly ship. Senior members may also use
-the Ine Givar’s connections among student
+the Ine Givar's connections among student
 organizations, opposition political parties and
 other fringe movements.
 3 Cell Leader Cell leaders are responsible for operations across
@@ -3806,10 +3806,10 @@ ACTIVITIES
 The Syndicate is the criminal equivalent of a business-to-business
 service. They commit relatively few crimes themselves but instead
 supply weapons, offworld travel, smuggling and so forth. The Syndicate
-has been referred to as a ‘shadow Imperium’, as its influence usually
+has been referred to as a 'shadow Imperium', as its influence usually
 stops at the starport. They rarely bother dealing planetside.
 
-The Syndicate’s headquarters is rumored to be onboard a
+The Syndicate's headquarters is rumored to be onboard a
 converted luxury liner that moves along a pre-determined route on
 the edge of the Imperium.
 
@@ -3866,22 +3866,22 @@ cult stems from the teachings of a prophet (or madman) who called
 himself the Watcher. He was a barbarian from a primitive lost world
 who was taken to the stars by an IISS scouting mission in the mid-
 500s. The trauma of being lifted from an Iron Age society to the
-Imperium shattered the barbarian’s mind and he decided that he had
+Imperium shattered the barbarian's mind and he decided that he had
 been taken into the realm of God.
 
 How this delusion became a remarkably resilient religion is a mystery;
 it is suggested that the initial prophet was a latent telepath who
 somehow created a psychic imprint that still resonates, or that his
 book of teachings has some unique resonance for the mentally ill.
-Others suggest that an addictive combat drug called Tricerin or ‘trick’ is
+Others suggest that an addictive combat drug called Tricerin or 'trick' is
 responsible; it was widely abused in the 500s and still used to this day,
 producing a psychotic state in which addicts are extremely suggestible.
 
-The Cult’s tenets are confused and there are many different sects, yet
+The Cult's tenets are confused and there are many different sects, yet
 they all share certain beliefs:
 •  God created the universe but has now incarnated in human form.
 Some say He has incarnated to find the faithful or to experience
-the human condition. The most common manifestation of the Cult’s
+the human condition. The most common manifestation of the Cult's
 beliefs, however, is that God is trapped in human form and can
 only be released through death.
 •  Ritual murder is a form of communication or signalling to God, or
@@ -3942,14 +3942,14 @@ Tricerin Combat Drug 9 — Cr250
 
 Democratic Government of Rabwhar in Exile
 Rabwhar is a minor TL7 agricultural world in the Lunion subsector.
-A decade ago, Rabwhar’s billion-strong population flirted briefly with
+A decade ago, Rabwhar's billion-strong population flirted briefly with
 democracy. The existing hereditary monarch was the sort who puts the
-‘non-charismatic’ in ‘non-charismatic leader’; the harvests were failing
-due to a blight imported from offworld and the plan to convert the planet’s
+'non-charismatic' in 'non-charismatic leader'; the harvests were failing
+due to a blight imported from offworld and the plan to convert the planet's
 Class D starport into Class B had been delayed by another 20 years.
 
 A coup seized the capital city and surrounding territory, and held
-it for nearly three weeks before the king abdicated in favour of his
+it for nearly three weeks before the king abdicated in favor of his
 considerably more popular niece. Public opinion turned against the
 revolutionaries, the army closed in on the capital and the leaders of the
 coup fled offworld. Rabwhar forgot about the Seventeen Day Democracy.
@@ -3983,7 +3983,7 @@ Requirements
 •  Pass on 10% of all cargoes taken to DGER.
 
 **Benefits**
-•  DGER’s hidden asteroid port in Shirene may be used as a shelter.
+•  DGER's hidden asteroid port in Shirene may be used as a shelter.
 As soon as DGER is reinstated, then those loyal to the true government
 will be rewarded with land grants.
 
@@ -4016,22 +4016,22 @@ Briefing File: Avastan
 Avastan (C433520-A, District 268, Spinward Marches), is a small cold
 world with an unbreathably thin atmosphere and little liquid surface water.
 Originally settled to provide an orbital starport along the Spinward Main,
-Avastan’s surface has been occupied by humans from surrounding
+Avastan's surface has been occupied by humans from surrounding
 worlds for less than a century. As many settlers are refugees from
-oppressive or troubled worlds, Avastan’s citizens have built a free society,
+oppressive or troubled worlds, Avastan's citizens have built a free society,
 open to anyone who homesteads the land, with a decentralised directly
 democratic government and very few laws or regulations.
 
 SYSTEM SUMMARY
-Avastan’s main sequence star, unofficially named Zend, is a stable
+Avastan's main sequence star, unofficially named Zend, is a stable
 red dwarf with four gas giants, two planetoid belts and four other
 major planets. Avastan is the second planet in orbit around Zend, lying
 outward from Alpha, a warm small gas giant, and just beyond a stony
-planetoid belt. Avastan orbits 0.162 AU from Zend, within the star’s
+planetoid belt. Avastan orbits 0.162 AU from Zend, within the star's
 jump shadow of 0.286 AU. The two planetoid belts and Gamma, the
 planet beyond Avastan, have populations of a few hundred belters but
-the overwhelming majority of the Avastan’s 700,000 citizens reside on
-the surface of Avastan. Rumors of pirate activity in Zend’s planetoid
+the overwhelming majority of the Avastan's 700,000 citizens reside on
+the surface of Avastan. Rumors of pirate activity in Zend's planetoid
 belts and outer system are common but not well-substantiated.
 
 WORLD DATA
@@ -4040,20 +4040,20 @@ respirator and cold weather clothing. The planet is tilted nearly 90
 degrees on its axis, leaving its polar regions in daylight or night-
 time for half an Avastan year of 50 standard days. The extremes
 of temperature during these long periods of light and dark, locally
-referred to as ‘Summerbright’ and ‘Winterdark’, leave the polar
+referred to as 'Summerbright' and 'Winterdark', leave the polar
 regions on average warmer than the equator. The Great Northern Sea
-sits within the Northern Basin, an ancient 3,500-kilometre-wide crater
-that sinks nearly five kilometres below mean surface altitude. This
+sits within the Northern Basin, an ancient 3,500-kilometer-wide crater
+that sinks nearly five kilometers below mean surface altitude. This
 provides a relatively warm region where some agriculture is possible
 and where some well-acclimated humans can breathe unaided for a
 limited period of time.
 
-Gatha, a 320-kilometre-wide volcanic island in the centre of the basin,
-is home to Avastan Downport and 500,000 of Avastan’s 700,000
+Gatha, a 320-kilometer-wide volcanic island in the center of the basin,
+is home to Avastan Downport and 500,000 of Avastan's 700,000
 citizens. Half of the remaining population lives within the basin, along
-the sea’s shore or in seasonal river valleys that flow into the sea.
+the sea's shore or in seasonal river valleys that flow into the sea.
 
-Many of Avastan’s citizens are refugees from the oppressive or war-
+Many of Avastan's citizens are refugees from the oppressive or war-
 torn worlds of Tarkine, Kuai Qing, Motmos and Singer, or migrants
 from the industrial worlds of Collace and Forine looking for a better life.
 Anyone who homesteads a plot of land on Avastan for one local year
@@ -4201,12 +4201,12 @@ rotation nearly parallel to its orbital track.
 
 Avastan is a rather dry world, with most of its surface water the result
 of asteroid or cometary impacts. Any original hydrosphere was likely
-vapourised during Zend’s unstable youthful phase, a period that
+vapourised during Zend's unstable youthful phase, a period that
 continued for more than four billion years. During much of this time,
 Avastan had a thicker atmosphere of nitrogen and carbon dioxide.
-Solar activity compounded by Avastan’s weak magnetic field gradually
+Solar activity compounded by Avastan's weak magnetic field gradually
 stripped nitrogen and water vapour from the atmosphere, cooling the
-planet. Life and geologic activity eventually stripped much of Avastan’s
+planet. Life and geologic activity eventually stripped much of Avastan's
 carbon dioxide, accelerating the slide into arctic conditions.
 
 Geological activity has mostly declined over the past billion years,
@@ -4229,10 +4229,10 @@ atmosphere for at least part of the year. The majority of this liquid water
 is located in Great Northern Sea in the northern polar region and in the
 briny smaller bodies of water inside the eroded craters of the equatorial
 Lake District. The proximity of Avastan to Zend drives a strong solar
-tide, reaching close to seven metres in the largest lakes. Tides in the
+tide, reaching close to seven meters in the largest lakes. Tides in the
 Great Northern Sea are not pronounced near solstice but can exceed
-20 metres in some areas near the equinox, a period known as the
-‘Spring and Autumn Flooding’.
+20 meters in some areas near the equinox, a period known as the
+'Spring and Autumn Flooding'.
 
 Most of the land area not covered in water or ice is cold desert
 punctuated by eroding mountain chains and large areas of rough
@@ -4242,7 +4242,7 @@ these hotspots.
 
 CLIMATE
 Avastan is a cold world with average global temperature of -8° C but
-the planet’s varied geography and extreme axial tilt can cause large
+the planet's varied geography and extreme axial tilt can cause large
 variations in temperature. Polar regions experience the greatest
 temperature extremes, sometimes approaching 30° C in the afternoon
 of Summerbright in the Northern Basin and occasionally falling to less
@@ -4252,9 +4252,9 @@ polar region.
 As with most worlds with extreme axial tilt, the poles have higher
 average temperatures than the equatorial regions, although altitude
 differences account for significant changes in temperature at a rate
-of approximately 3° C per kilometre. Accordingly, Avastan Downport,
-located on the island of Gatha near the centre of the Great Northern
-Sea at an altitude of 4,810 metres has a mean annual temperature
+of approximately 3° C per kilometer. Accordingly, Avastan Downport,
+located on the island of Gatha near the center of the Great Northern
+Sea at an altitude of 4,810 meters has a mean annual temperature
 of 9.4° C and the agricultural regions on the far shore of the Great
 Northern Sea have mean annual temperatures of 7.8° C. In the
 equatorial Lake District, the warmest mean annual temperatures at the
@@ -4268,7 +4268,7 @@ most extreme weather, especially during equinoxes when the day and
 night switch hemispheres, however the equatorial regions, especially
 the Lake District are generally protected from severe weather events.
 On the far side of the equator, the Atharsis Highlands form a barrier to
-weather, with the dry ‘ice shadow’ shifting semi-annually to the summer
+weather, with the dry 'ice shadow' shifting semi-annually to the summer
 side of the world.
 
 In general, the low atmospheric pressure limits the effects of storms,
@@ -4282,7 +4282,7 @@ the Northern Basin area. Most of the world is a rugged frozen desert
 ranging from tan to brown to red in colour.
 
 BIOSPHERE CHARACTERISTICS
-Native life on Avastan is primitive. Most of the planet’s biomass consists
+Native life on Avastan is primitive. Most of the planet's biomass consists
 of single cell organisms whose few visible traces are limited to those
 that form colonies, often appearing as mats or growths of black lichen-
 like crusts. Some simple multicellular organisms exist in the seas
@@ -4294,22 +4294,22 @@ in the Northern Basin region.
 
 EVOLUTION
 Fossil evidence of life does not begin until 2.5 billion years before
-present. The biochemistry of Avastan’s lifeforms utilises l-chiral amino
+present. The biochemistry of Avastan's lifeforms utilises l-chiral amino
 acids and is compatible with Terran life but lacks some of the amino
 acids necessary for human survival. Life in the seas and lakes of
 Avastan eventually introduced oxygen into the atmosphere, forming a
 thin ozone layer that allowed simple unicellular lifeforms to survive on
 the surface and form colonies or mats of life that are most visible as
-black ‘crusts’ on rockfaces.
+black 'crusts' on rockfaces.
 
-Avastan’s native lifeforms have only evolved into simple multicellular
+Avastan's native lifeforms have only evolved into simple multicellular
 forms with minimal differentiation, such as Terran sponges, although
 some coral-like organisms with a polyp life stage have evolved in the
 Great Northern Sea.
 
 Approximately five million years ago, lifeforms bearing the biological
-signature of neighboring Tarsus appeared on Avastan. Tarsus’s star
-was then significantly closer to Avastan’s system, less than a quarter
+signature of neighboring Tarsus appeared on Avastan. Tarsus's star
+was then significantly closer to Avastan's system, less than a quarter
 parsec, leading the single published article on the subject to conclude
 that the transfer of life was likely an example of panspermia of not just
 unicellular organisms but spores and seeds or more advanced lifeforms
@@ -4326,17 +4326,17 @@ atmospheric oxygen that began in that timeframe.
 
 FLORA AND FAUNA
 Other than the black crusts and the tar-like black films that sometimes
-cover stagnant bodies of water exposed to sunlight, Avastan’s native
+cover stagnant bodies of water exposed to sunlight, Avastan's native
 life is not noticeable to humans. The two most visible organisms are
 transplants from Tarsus, likely predating human exploration or even
 human evolution. The fog flower (nebelelifera avastanis) and the ice
 moss (mastiri avastanis) are clearly locally adaptive relations of their
 Tarsus counterparts and only exist in the Northern Basin. The Avastan
 fog flower only sprouts once per year, within a local day of the solstice,
-when the plant suddenly shoots up narrow stalks up to 30 centimetres
+when the plant suddenly shoots up narrow stalks up to 30 centimeters
 tall, sprouts yellow and orange flowers and releases pollen that combines
 to spawn wing-like seeds. The grey-coloured Avastan ice moss grows
-throughout Summerbright, reaching a height of five to ten centimetres
+throughout Summerbright, reaching a height of five to ten centimeters
 before releasing spores in the final days before the equinox.
 
 Attempts to import other flora from Tarsus have met with limited
@@ -4344,7 +4344,7 @@ success and the thin atmosphere precludes the importation of any
 significant fauna.
 
 Other than a few sponge- and coral-like species in the seas, Avastan
-has no native organisms categorised as ‘fauna’. In the century
+has no native organisms categorised as 'fauna'. In the century
 since settlement several invasive species have managed to thrive in
 human-settled regions. The most obvious of these are the anthropoid
 bed bugs that adapted to survive in human and Vargr communities
@@ -4369,18 +4369,18 @@ Avastan for a local year is granted citizenship. Government is a direct
 democracy of all citizens, regional governments founded and formed by
 local citizens.
 
-Many of Avastan’s citizens are first or second-generation refugees from
+Many of Avastan's citizens are first or second-generation refugees from
 the oppressive or war-torn worlds of Tarkine, Kuai Qing, Motmos and
 Singer, or migrants from the industrial worlds of Collace and Forine.
 While the majority of the population live in the northern polar region
 of the world, near the starport and adjacent Zend City on the island of
 Gatha, smaller settlements dot the far shores of the Great Northern Sea
 and the more hospitable locations in the equatorial Lake District. Most
-of Avastan’s population is human but some Vargr citizens live in mixed
+of Avastan's population is human but some Vargr citizens live in mixed
 environments or small enclaves and a small contingent of Aslan of
 Darrian origin has claimed homesteads in the Lake District.
 
-Avastan’s citizens are generally welcoming of diverse newcomers and
+Avastan's citizens are generally welcoming of diverse newcomers and
 encourage homesteading to gain citizenship but despite a growing
 reputation as a pirate haven, most citizens and API are strongly
 opposed to the establishment of armed enclaves or of overt piracy
@@ -4390,11 +4390,11 @@ Trexalon forces.
 HISTORY
 Avastan is one of the last worlds to be colonized in District 268.
 The inhospitable world or at least its star system was likely visited
-during the Itzin Fleet’s survey of the region in -1513 but no records
+during the Itzin Fleet's survey of the region in -1513 but no records
 or artifacts of that visit are known. The first documented visit was a
 cursory First Survey expedition in 352. The system and its worlds
 received numeric designations and no follow-up surveys for at least
-a century. The origin of the world’s name is obscure, with reference
+a century. The origin of the world's name is obscure, with reference
 to Avastan, Zend and Gatha Island first appearing in a log entry
 recorded during the Second Frontier War. The derivation of the names
 is likely from the ancient Terran proto-Iranian language of Zoroaster,
@@ -4470,7 +4470,7 @@ of migrants settled, at least initially, on Gatha Island. Zend City grew
 from a ramshackle startown to a sprawling, admittedly haphazard city.
 Annual immigration rates measure in the thousands, increasing to near
 current levels by the 1030s as political refugees from Motmos and
-Tarkine began to arrive in larger numbers. With the Charter’s guarantee
+Tarkine began to arrive in larger numbers. With the Charter's guarantee
 of no restrictions on political, social or religious practices, small
 enclaves of like-minded individuals repressed or discriminated against
 on their native worlds migrated from across the subsector and from as
@@ -4480,7 +4480,7 @@ the equatorial Lake District.
 A less than scrupulous customs and registration enforcement policy by
 API led to charges by Trexalon that the company was acting as a front,
 or at least enabler, of piracy. Fearing Imperial intervention, Collace
-responded by cancelling API’s charter in 1061. However, the government
+responded by cancelling API's charter in 1061. However, the government
 of Avastan issued API a new charter within 50 days of receiving the news
 from Collace. Ownership interest in API did not substantially change and
 even into the twelfth century, majority ownership of the company remains
@@ -4489,7 +4489,7 @@ employees are now Avastan citizens.
 
 Two current affairs issues remain open sources of disagreement on
 Avastan. The arrival of Aslan migrants from the Darrian world of Roget
-in the 1090s brought the first challenge to the Charter’s insistence on
+in the 1090s brought the first challenge to the Charter's insistence on
 welcoming any migrant who chooses to call Avastan home. Although
 homestead claims by these Aslan immigrants are no bigger than claims
 by human or Vargr settlers, the fear of an ihatei invasion or a rapid
@@ -4503,16 +4503,16 @@ of not only acceptance of the Aslan as citizens but of voter hostility to
 repeated failed attempts to raise the issue and to the fact that only 8,500
 Aslan have immigrated to Avastan, barely 1% of the total population.
 
-The second issue dividing Avastan’s people is the question of possible
+The second issue dividing Avastan's people is the question of possible
 terraformation of the world. An increase of oxygen and temperature
-would greatly improve the planet’s habitability. Unfortunately, an increase
+would greatly improve the planet's habitability. Unfortunately, an increase
 in oxygen without a general increase of atmospheric pressure, would
 result in a significant risk of uncontrolled fires and health issues related
 to long-term exposure to a high oxygen mix atmosphere. Increasing
 overall atmospheric pressure would alleviate this problem and achieve
-the secondary goal of increasing the planet’s temperature, however
+the secondary goal of increasing the planet's temperature, however
 this would also lead to an increase in glacial melt. The resulting rise
-in the Great Northern Sea risks flooding for nearly 75% of the world’s
+in the Great Northern Sea risks flooding for nearly 75% of the world's
 population. As the question of atmosphere modification is not a
 constitutional issue affecting the Charter, a vote to begin such a project
 would require just a majority to pass. The measure to begin such a
@@ -4527,12 +4527,12 @@ most Avastan citizens as immigrants or their children, the culture of
 Avastan remains diverse and reflects many of the aspects that settlers
 chose to bring from their old worlds.
 
-The most obvious characteristics of Avastan’s culture are a general
+The most obvious characteristics of Avastan's culture are a general
 tolerance of private behaviour and respect for privacy. Ostentatious or
 offensive public behaviour that could provoke a violent reaction is rare.
 While outsiders would credit the unrestricted right to own weaponry with
 this subdued behaviour, open display of weaponry is frowned upon and will
-at the very least prompt a visit from a group of ‘concerned citizens’. Violent
+at the very least prompt a visit from a group of 'concerned citizens'. Violent
 crime will result in a forceful response by an armed posse but individual
 vigilantism is generally not tolerated, although there are exceptions.
 
@@ -4543,7 +4543,7 @@ conduct their lives. Zend City is a melting pot, with both homogeneous
 ethnic and racial neighborhoods, including a very colourful Vargrtown,
 and with places where disparate groups live and work side-by-side.
 Fusions of various cultures often occur and fads from one particular
-subgroup may spread rapidly across Zend City’s population, especially
+subgroup may spread rapidly across Zend City's population, especially
 among the native-born Avastanese.
 
 The government provides very few services. Most infrastructure,
@@ -4551,11 +4551,11 @@ including utilities, roads, schools and hospitals, is created and
 maintained by private entities, some for-profit but many operate as non-
 profits, cooperatives or charities. Article Twelve of the Avastan Charter,
 however, guarantees the rights to breathe and to stay warm, with much
-of the 3% value-added tax that comprises the bulk of the government’s
+of the 3% value-added tax that comprises the bulk of the government's
 funding going to maintaining basic sheltering services to those in need.
 
 GOVERNMENT
-The Avastan Charter forms the basis of Avastan’s limited government.
+The Avastan Charter forms the basis of Avastan's limited government.
 Fairly rare among constitutional documents, the Charter begins by
 listing what the government cannot do. It cannot charge for land, it
 cannot deny entry to individuals, restrict the right to self-defence,
@@ -4563,20 +4563,20 @@ mandate cultural or religious preferences, agree to extradition treaties
 with other governments, and it cannot take the life of its own citizens
 for any reason. The Charter itself is difficult to modify. The amendment
 process requires initial approval of 75% of registered citizens, followed
-by a ‘cooling off’ period of one 50 standard day Avastan Year and a
+by a 'cooling off' period of one 50 standard day Avastan Year and a
 second vote of approval by 75% of citizens the following local year.
 The only amendment to the Charter since its signing was the provision
 in 1061 to change the relationship between the people of Avastan
 and Avastan Portways, Inc. The corporation is now an Avastan
-chartered entity, subject to Avastan’s laws, technically maintaining
+chartered entity, subject to Avastan's laws, technically maintaining
 extraterritoriality but under the jurisdiction of Avastan authorities.
 
 The Charter describes the form of the central government and the manner
 of elections and of the referenda required to pass all laws. The global
-government’s highest body is its 12-member Commission, comprised of
+government's highest body is its 12-member Commission, comprised of
 six commissioners chosen at large by popular vote – with the receivers of
 the six highest vote tallies winning a seat – and six commissioners chosen
-by lot from the world’s citizenry. A randomly chosen commissioner may
+by lot from the world's citizenry. A randomly chosen commissioner may
 designate a proxy or replacement but that proxy must never have served
 as a commissioner. Commissioners serve for 10 local years and the
 elected commissioners cannot serve consecutive terms. The three major
@@ -4587,13 +4587,13 @@ between citizens and local governments, and to interpret and apply the
 Charter, acting as a court of appeals to confirm or overturn local decisions
 that relate to Charter provisions.
 
-The commissioners also approve the world government’s budget and
+The commissioners also approve the world government's budget and
 hire and dismiss officials necessary to implement the Articles of the
 Charter and results of referenda.
 
-A proposed referendum requires support of 10% of Avastan’s citizens to
+A proposed referendum requires support of 10% of Avastan's citizens to
 be put to a general vote or may be proposed by a three-quarters of the
-commissioners if they deem it is of ‘immediate planetary importance’. A
+commissioners if they deem it is of 'immediate planetary importance'. A
 referendum is not considered passed unless it receives the support of
 
 50% of the total citizenry. If it does not achieve that support within three
@@ -4619,7 +4619,7 @@ Avastan lacks a formal permanent military force. API maintains security
 forces at the highport and downport, equipped to local technology
 levels. The only township with anti-ship defences is Zend City,
 whose four double beam laser turrets and two double missile turrets
-supplement Avastan Downport’s defences.
+supplement Avastan Downport's defences.
 
 ECONOMY
 Avastan has few restrictions on trade or economic activity. Other than
@@ -4696,7 +4696,7 @@ Complications (1D):
 
 1. Vargr. Drunk Vargr.
 2. An old belter wanders into the bar and drunkenly tells the Travellers
-    about a ‘ghost ship’ that jumps into the system on moonless nights.
+    about a 'ghost ship' that jumps into the system on moonless nights.
     Well, not moonless nights, obviously. But only rarely. Anyway, it is a
     ghost ship. Really it is. He will even tell the Travellers where to find
     it if they give him another drink.
@@ -4704,13 +4704,13 @@ Complications (1D):
     cleaning the place is impossible – the dirt here is so old it is of
     archaeological significance – so the Travellers will need to find
     some other way of dealing with the problem.
-4. ‘Make me a Lunion Sunburst’ demands the drunken noble. The bar
+4. 'Make me a Lunion Sunburst' demands the drunken noble. The bar
     computer has no record of such a cocktail. What do the Travellers do?
 5. A corporation offers the Travellers a bonus if they can sell their new
-    drink to the bar’s clientele.
+    drink to the bar's clientele.
 6. While in the bar, the Travellers overhear a shadowy patron offer a
     job to a group of Travellers. Do the Travellers try to steal someone
-    else’s plot hook?
+    else's plot hook?
 
 CUSTOMS INSPECTORS
 Skills Required: Electronics (sensors), Investigate, Recon
@@ -4731,7 +4731,7 @@ Complications (1D):
 3. While the Travellers are on board a ship, they discover that the
     captain has left the security system offline. The Travellers could
     steal the ship with ease...
-4. An organised crime syndicate targets one of the Travellers’ Contacts,
+4. An organised crime syndicate targets one of the Travellers' Contacts,
     Allies or family members, planning to kidnap the target and use them
     as leverage to force the Travellers to let contraband through.
 5. A freighter captain panics and jettisons his cargo in orbit while
@@ -4766,7 +4766,7 @@ Complications (1D):
 5. A journalist offers the Travellers a bribe if they spoil the plot of
     upcoming episodes.
 6. The director quarrels with the writer and ends up throwing the script out.
-    ‘You lot! You’ve been in space!’ they shout, ‘write me an adventure!’
+    'You lot! You've been in space!' they shout, 'write me an adventure!'
 
 LINER CREW
 Skills Required: Diplomat, Mechanic, Steward
@@ -4827,7 +4827,7 @@ ON SAFARI
 Skills Required: Gun Combat, Steward, Survival
 Patron: Marchesa Saddiv von Varren
 Reward: Cr1000/week
-Description: The Marchesa and her favourite rocket launcher are
+Description: The Marchesa and her favorite rocket launcher are
 going on safari. She needs a few strapping servants to herd the local
 wildlife into her crosshairs
 
@@ -4838,7 +4838,7 @@ Complications (1D):
 2. The safari draws unwelcome attention from the local population,
     who object to some crazed offworld noble landing with enough
     artillery to start a war.
-3. A pirate targets the Marchesa’s safari ship. On the downside, the
+3. A pirate targets the Marchesa's safari ship. On the downside, the
     pirate ship completely outguns the little safari ship. On the upside,
     as soon as the pirates open the airlock, it will be pirate hunting
     season for the Marchesa.
@@ -4867,7 +4867,7 @@ Complications (1D):
     worship. Anyone defying the word of the ancestors is a demon and
     must be burnt at the stake.
 2. One of the warring tribes agrees to convert to this new religion – if
-    the Travellers provide ‘divine weapons’ to blast their foes.
+    the Travellers provide 'divine weapons' to blast their foes.
 3. Two tribes are suffering from disease; one has already converted,
     the other holds to the older religion. Which tribe do the Travellers
     supply with advanced antibiotics?
@@ -4887,7 +4887,7 @@ Patron: Grendel Thorn, Scrapper
 Reward: Cr500/week
 Description: The wreck of an old 800-ton freighter, the Mirabel, is in
 orbit. The jump drives and other key components have already been
-stripped but there are still thousands of kilometres of fibre-optic cabling,
+stripped but there are still thousands of kilometers of fibre-optic cabling,
 superconductive power cables, jump gridding, computer terminals and
 other salvageable parts. The ship lacks life support, gravity and power;
 here is a vacc suit and a crowbar, salvage what you can. Oh, the ship will
@@ -4898,10 +4898,10 @@ Complications (1D): The Mirabel has a secret...
 1. The Mirabel was a former smuggler ship and there is still valuable
     cargo hidden in a concealed compartment. A band of smugglers
     knows this and intends to retrieve the cargo.
-2. The Mirabel’s jump drives were not removed and a random fluke
-    in the ship’s decaying power plant causes it to misjump with the
+2. The Mirabel's jump drives were not removed and a random fluke
+    in the ship's decaying power plant causes it to misjump with the
     salvage team on board.
-3. One of the Mirabel’s crew is still stowing away on board the
+3. One of the Mirabel's crew is still stowing away on board the
     wrecked ship. He is looking for some hidden treasure on board,
     such as a jump map to a rich asteroid belt or treasure cache. He is
     the ghost on board the ship.
@@ -4912,7 +4912,7 @@ Complications (1D): The Mirabel has a secret...
     tanks, and you might be able to fly her again. Do the Travellers
     want to try stealing the wreck?
 6. Grendel Thorn made a slight miscalculation when he plotted the
-    Mirabel’s orbit. The ship hits the atmosphere and begins re-entry
+    Mirabel's orbit. The ship hits the atmosphere and begins re-entry
     with the Travellers on board...
 
 STARPORT SECURITY
@@ -4927,12 +4927,12 @@ port district and hangars, and generally keeping order
 Complications (1D):
 
 1. A gang of thieves intends to steal a ship from the starport hangars.
-    The thieves’ plan is to cut through the starport fence, start a fire
+    The thieves' plan is to cut through the starport fence, start a fire
     near the hydrogen storage tanks and then break into the hangar
     while the guards are distracted by the blaze.
 2. Weapons are banned in the starport bar for everyone – including
     security guards but there is a brawl involving a Vargr. Everyone else in
-    the brawl is using fists and chairs; the Vargr’s got lethal teeth and claws.
+    the brawl is using fists and chairs; the Vargr's got lethal teeth and claws.
 3. A local religious or political group starts protesting just outside
     the starport, complaining about the influence of offworlders. The
     planetary government supports their right to protest but the starport
@@ -4946,13 +4946,13 @@ Complications (1D):
     obviously barely escaped with his life. What if that same danger is
     now loose on the starport?
 6. A smuggler band is using the starport to fence goods. They offer to
-    cut the Travellers in on the action if they ‘overlook’ a few shipments.
+    cut the Travellers in on the action if they 'overlook' a few shipments.
 
 TAS STRINGERS
 Skills Required: Art (write), Electronics (comms), Investigate
-Patron: The Traveller’s Aid Society
+Patron: The Traveller's Aid Society
 Reward: Cr5000/article
-Description: The Journal of the Travellers’ Aid Society is one of the most
+Description: The Journal of the Travellers' Aid Society is one of the most
 respected and widely-read publications in the Imperium. Assembled from
 the reports of TAS members and journalists, JTAS prides itself on being
 an indispensable guide to known space. Lately, however, the editors
@@ -4966,13 +4966,13 @@ Complications (1D):
     unusual and the x-boat network has been ordered not to carry
     information out of the subsector.
 2. A corporation approaches the Travellers, offering them a bribe
-    if they will report favourably on the corporation’s increasingly
+    if they will report favorably on the corporation's increasingly
     disastrous effort to terraform a border world. The corporation is
     trying to attract settlers to the planet.
 3. JTAS sends the Travellers a packet of tickets for bizarre tourist
     attractions across the subsector; they need to review attractions
-    like the Sector’s Largest Ball of Monofilament Wire or the birthplace
-    of some long-forgotten grand duke, where the duke’s brain is kept
+    like the Sector's Largest Ball of Monofilament Wire or the birthplace
+    of some long-forgotten grand duke, where the duke's brain is kept
     in storage and rubbed for good luck.
 4. A pirate band targets the Travellers, planning to force them to
     write articles that will attract vulnerable passenger traffic to an out-
@@ -5011,7 +5011,7 @@ Complications (1D):
     environment but because of a doomsday weapon left over from war.
 3. The war is still being fought; the two sides both have deeply buried
     bunkers and armored warriors emerge from these underground
-    fortresses to fight for a few square kilometres of scorched earth.
+    fortresses to fight for a few square kilometers of scorched earth.
 4. The Jahanum Archaeological Society is specifically interested in
     recreating the events that led up to the war, such as recordings
     made inside the office of the President of the Union.
@@ -5038,20 +5038,20 @@ Complications (1D):
     want to see industrial fish farming on their waterworld.
 2. The megafish are being harvested not just for their meat but for
     their bones that contain valuable minerals. There are legends of a
-    ‘megafish graveyard’ somewhere in the depths. Find that and you
+    'megafish graveyard' somewhere in the depths. Find that and you
     are set for life.
 3. The Dolphin intends to sink an old starship in the middle of his
     domain; the starship is still functional, merely outdated. It can still
     serve as a ready-made airtight structure. Who wants to volunteer to
     crash a 20,000-ton starship into the water?
 4. A native race of primitive humanoids hunts the megafauna. The
-    noble’s plan would rob them of their hunting grounds.
-5. Someone is stealing megafish from the noble’s domain. The
+    noble's plan would rob them of their hunting grounds.
+5. Someone is stealing megafish from the noble's domain. The
     Travellers need to stop these rustlers and find out how they are
     abducting the giant creatures.
 6. Megafish implies megasharks.
 
-Welcome to the Journal of the Travellers’ Aid Society, your indispensable
+Welcome to the Journal of the Travellers' Aid Society, your indispensable
 guide to adventuring in the Far Future.
 
 Each volume is a treasure trove of information and game additions for
@@ -5089,10 +5089,10 @@ The
 The
 ```
 
-of the Travellers’ Aid Society
+of the Travellers' Aid Society
 
 ```
-of the Travellers’ Aid Society
+of the Travellers' Aid Society
 ```
 
 ## JJJournal
@@ -5106,7 +5106,7 @@ The
 ```
 
 ```
-of the Travellers’ Aid Society - Volume 9
+of the Travellers' Aid Society - Volume 9
 ```
 
 9 781913 076726

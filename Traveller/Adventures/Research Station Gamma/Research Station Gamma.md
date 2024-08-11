@@ -8,7 +8,7 @@ tags:
 date updated: 2024-07-25 20:37
 ---
 
-![[A2RSG-11.jpg]]
+![[A2RSG-11.jpg|200]]
 
 ### Introduction
 
@@ -843,7 +843,7 @@ Ancients. Extinct intelligent major race of unclassified origin which pervaded t
 
 The Ancients were responsible for the wide dissemination of humaniti within its current domain when (for reasons currently unclear) they transplanted genetic stock from Sol/Terra to at least forty worlds across a span of 360 parsecs, and accounts for the widespread presence of humaniti in the galaxy. The Ancients were also responsible for the creation of the vargr through genetic manipulation of carnivore/chasers.
 
-Capital (Core subsector 0508-A586A98-F). Central world of the Imperium and seat of government since its founding. Situated in the center of the Imperium, its astrographical location has proven of prime importance, as it controls the only gap in the Rifts for thousands of parsecs. Besides being a communications hub, Capital is a cultural and educational center.
+[[Capital]] (Core subsector 0508-A586A98-F). Central world of the Imperium and seat of government since its founding. Situated in the center of the Imperium, its astrographical location has proven of prime importance, as it controls the only gap in the Rifts for thousands of parsecs. Besides being a communications hub, [[Capital]] is a cultural and educational center.
 
 Chirpers: See page 5.
 

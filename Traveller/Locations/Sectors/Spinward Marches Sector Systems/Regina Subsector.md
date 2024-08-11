@@ -12,7 +12,7 @@ tags:
 | ---------------- | :------: | :---: | :--------: | :---------: | :---------: | :--------: | :--------: |
 | [[Alell]]        |   1706   |       |  B56789C-A |      Ri     |      A      |  Imperium  |            |
 | [[Algine]]       |   2308   |       |  X766977-4 |    Hi Ga    |      R      |  Imperium  |      G     |
-| [[Beck’s World]] |   2204   |       |  D88349D-4 |      Ni     |      A      |  Imperium  |      G     |
+| [[Beck's World]] |   2204   |       |  D88349D-4 |      Ni     |      A      |  Imperium  |      G     |
 | [[Boughene]]     |   1904   |   S   |  A8B3531-D |    Fl Ni    |             |  Imperium  |      G     |
 | [[Dentus]]       |   2201   |   S   |  C979500-A |      Ni     |             |  Imperium  |            |
 | [[Efate]]        |   1705   |  N W  |  A646930-D |    Hi In    |             |  Imperium  |            |
@@ -61,7 +61,7 @@ Almost the entire subsector is Imperial territory; only Ruie is not. Imperial ve
 Roup is also Amber Zoned. Again there are no restrictions in place, merely a warning to take care.
 
 There are also three Red Zones in the subsector and restrictions are in place regarding access to these. It is possible to find out why a world is Red Zoned – in many cases it is an open secret – and even to obtain a permit to go there. However, this can be hazardous.
-For example, Shionthy is generally ‘known’ (common knowledge that may not actually be true) to have antimatter particles floating free about the system.
+For example, Shionthy is generally 'known' (common knowledge that may not actually be true) to have antimatter particles floating free about the system.
 Contact could cause massive damage to a starship, making a Red Zone a sensible precaution.
 
 The reasons for the Red Zones at Algine and Pscias are not commonly disclosed but Pscias is known to have a very low-tech culture and is thought to be interdicted by the Scout Service to protect natives from outside interference. Algine may be interdicted for the same or other reasons; those interested enough to speculate rarely have concrete information.
@@ -73,7 +73,7 @@ General Shipyards, subsidiary of General Products, maintains major shipyards at 
 Name Location Bases Statistics Trade Codes Travel Code Allegiance Gas Giants
 Alell 1706 B56789C-A Ri A Imperium
 Algine 2308 X766977-4 Hi Ga R Imperium G
-Beck’s World 2204 D88349D-4 Ni A Imperium G
+Beck's World 2204 D88349D-4 Ni A Imperium G
 Boughene 1904 S A8B3531-D Fl Ni Imperium G
 Dentus 2201 S C979500-A Ni Imperium
 Efate 1705 N W A646930-D Hi In Imperium

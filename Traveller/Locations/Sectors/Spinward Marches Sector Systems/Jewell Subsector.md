@@ -56,7 +56,7 @@ The scout bases include maintenance facilities for the [[x-boat]] service as wel
 
 There is no Imperial subsector duke for the Jewell subsector. It is instead administered from [[Regina]] as an additional area of responsibility for Duke Norris.  However, there is a subsector fleet. This is the 212<sup>th</sup> Fleet and is somewhat over-strength for the area it covers. This force is backed up by Sector Fleet assets based at Jewell, which include battle squadrons and a contingent of cruisers obviously intended for raiding operations into Consulate space if war breaks out again.
 
-The exposed nature of the deployment has earned the 212<sup>th</sup> the nickname of _Santanocheev’s Tripwire_ and the suggestion that its role is simply to find out if the Zhodani are serious this time. The latter is a reference to the last two Frontier Wars, in which the Zhodani battle fleets were generally held at the frontier.
+The exposed nature of the deployment has earned the 212<sup>th</sup> the nickname of _Santanocheev's Tripwire_ and the suggestion that its role is simply to find out if the Zhodani are serious this time. The latter is a reference to the last two Frontier Wars, in which the Zhodani battle fleets were generally held at the frontier.
 
 The remainder of the subsector is ostensibly neutral, although Imperial access to worlds behind the [[Riverland]] Wall is very limited, allowing the Consulate much greater influence over [[Condyole]] and [[Puparkin]], as well as non-aligned worlds in [[Cronor (Subsector)]].
 

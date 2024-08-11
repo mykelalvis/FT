@@ -1,11 +1,11 @@
 
 # 40<sup>th</sup> Squadron
 
-The 40th Squadron is one of the best-organised Vargr bands in Gvurrdon. They are descended from a squadron of Vargr warships that survived the First Frontier War and established their own petty kingdom in the chaotic aftermath of the conflict. The 40th controls a loose alliance of a half- dozen systems. Individual planets have their own governments but the 40th Squadron’s naval officers are the real power in the empire. The 40th lacks the resources to maintain its full fleet without external help; in the past, the Zhodani have propped them up to threaten the Imperium’s flank.
+The 40th Squadron is one of the best-organised Vargr bands in Gvurrdon. They are descended from a squadron of Vargr warships that survived the First Frontier War and established their own petty kingdom in the chaotic aftermath of the conflict. The 40th controls a loose alliance of a half- dozen systems. Individual planets have their own governments but the 40th Squadron's naval officers are the real power in the empire. The 40th lacks the resources to maintain its full fleet without external help; in the past, the Zhodani have propped them up to threaten the Imperium's flank.
 
 # Alell
 
-Originally settled by the descendants of hotel staff, Alell has become a rich and influential world despite its extremely dangerous native wildlife. The population is clustered into a small number of fortified cities, although modern technology makes it possible to live in more rural areas. Alell’s primary industry is tourism; secondary exports include wood, furs, pharmaceuticals and other material harvested from the jungles that cover 30% of the planet’s surface area. Alell has a Class B starport whose original structure dates back to the First Imperium and is considered an excellent example of fin-de-siecle Vilani design.
+Originally settled by the descendants of hotel staff, Alell has become a rich and influential world despite its extremely dangerous native wildlife. The population is clustered into a small number of fortified cities, although modern technology makes it possible to live in more rural areas. Alell's primary industry is tourism; secondary exports include wood, furs, pharmaceuticals and other material harvested from the jungles that cover 30% of the planet's surface area. Alell has a Class B starport whose original structure dates back to the First Imperium and is considered an excellent example of fin-de-siecle Vilani design.
 
 # Ancients
 
@@ -23,11 +23,11 @@ The Catastrophists hold that a single terrible event ended the Ancients hegemony
 
 # Assumption of Custody
 
-Under Regina law, the Public Order Commission has the power to detain suspects for up to a month without trial. Assumption of Custody is a process where multiple suspects of a crime are detained and questioned; these ‘suspects’ might just have been in the area of the crime, or match a profile, or even be randomly swept off the streets. Those Assumed into custody are innocent until proven guilty. Assumption is held to be a civic service and while a small stipend is available to those who are Assumed, it can still cause considerable inconvenience. Critics of the policy note that most citizens of Regina are never Assumed but certain groups – known criminals, transients, uneducated youths, Travellers – are regularly detained by the POC.
+Under Regina law, the Public Order Commission has the power to detain suspects for up to a month without trial. Assumption of Custody is a process where multiple suspects of a crime are detained and questioned; these 'suspects' might just have been in the area of the crime, or match a profile, or even be randomly swept off the streets. Those Assumed into custody are innocent until proven guilty. Assumption is held to be a civic service and while a small stipend is available to those who are Assumed, it can still cause considerable inconvenience. Critics of the policy note that most citizens of Regina are never Assumed but certain groups – known criminals, transients, uneducated youths, Travellers – are regularly detained by the POC.
 
-# Beck’s World
+# Beck's World
 
-Former pirate base. Beck’s World is a volcanic wilderness with a minimal biosphere and few natural resources.
+Former pirate base. Beck's World is a volcanic wilderness with a minimal biosphere and few natural resources.
 
 # Boughene
 
@@ -35,11 +35,11 @@ A scout base is established at Boughene, as part of the continued surveying oper
 
 # Brotherhood of Humaniti
 
-A quasi-religious group that arose following the confirmation of the Solomani Hypothesis that all Humaniti stems from a single source. The Brotherhood believes that all humans should come together as one species, united under a common government. As such, any government or institution that opposes such radical unity is an enemy of the species and must be destroyed. Since its inception, the Brotherhood has moved towards mysticism, attributing increasingly unlikely supernatural powers to ‘true Humaniti’, the ur-race that was destroyed when the Ancients divided Humaniti into different ‘tribes’.
+A quasi-religious group that arose following the confirmation of the Solomani Hypothesis that all Humaniti stems from a single source. The Brotherhood believes that all humans should come together as one species, united under a common government. As such, any government or institution that opposes such radical unity is an enemy of the species and must be destroyed. Since its inception, the Brotherhood has moved towards mysticism, attributing increasingly unlikely supernatural powers to 'true Humaniti', the ur-race that was destroyed when the Ancients divided Humaniti into different 'tribes'.
 
 # Cadgeree
 
-The cadgeree resembles a winged snake with a spiked tail. Cadgeree are extremely effective predators, who attack by hurling themselves down on prey from a great height, embedding their tail spikes deep into the target’s flesh. The serpent then thrashes wildly, snapping the spine of its victim with ease. Cadgeree usually attack smaller creatures but have been known to attack humans when hungry.
+The cadgeree resembles a winged snake with a spiked tail. Cadgeree are extremely effective predators, who attack by hurling themselves down on prey from a great height, embedding their tail spikes deep into the target's flesh. The serpent then thrashes wildly, snapping the spine of its victim with ease. Cadgeree usually attack smaller creatures but have been known to attack humans when hungry.
 
 # Church of the Chosen Ones
 
@@ -47,7 +47,7 @@ A Vargr religious sect who believes Vargr are the chosen heirs of the Ancients a
 
 # Credo
 
-Capital city of Regina, with a population of 87 million. Located on the eastern edge of the continent of Noncredo. Credo prides itself on its cosmopolitanism – it has a high transient population, including many visitors from the Core worlds. Fashion and culture on Credo are heavily influenced by these visitors, leading to tension between Credo and more traditional cities on Regina. The city is sometimes called ‘little Capital’, a mocking reference to Credo’s mimicry of Imperial high culture. Despite its cultural pretensions, the curious and strict legal system of Regina is still in effect here – laws must be voted on by the entire population and the justice system is as bureaucratic as it is enthusiastic, without being efficient at either. See Public Order Commission.
+[[Capital]] city of Regina, with a population of 87 million. Located on the eastern edge of the continent of Noncredo. Credo prides itself on its cosmopolitanism – it has a high transient population, including many visitors from the Core worlds. Fashion and culture on Credo are heavily influenced by these visitors, leading to tension between Credo and more traditional cities on Regina. The city is sometimes called 'little Capital', a mocking reference to Credo's mimicry of Imperial high culture. Despite its cultural pretensions, the curious and strict legal system of Regina is still in effect here – laws must be voted on by the entire population and the justice system is as bureaucratic as it is enthusiastic, without being efficient at either. See Public Order Commission.
 
 # Dandelion
 
@@ -71,11 +71,11 @@ Travellers are advised that a civil war is underway on Feri and the world has a 
 
 "Staff"
 Term used to denote an inferior or servant in Alell culture; derived from old Vilani dialect term
-‘hos’ai’, servant or staff used in the catering industry.
+'hos'ai', servant or staff used in the catering industry.
 
 # Kaldi Research
 
-Kaldi is a private corporation with two main branches. The bulk of Kaldi’s assets are employed in fixed installations that undertake research on contract for corporate bodies and planetary governments. A much smaller proportion of Kaldi’s effort is placed into the operation of a number of laboratory ships that travel throughout the Marches and beyond, either hiring out their services to whomever needs a general research team or engaging in ongoing studies.
+Kaldi is a private corporation with two main branches. The bulk of Kaldi's assets are employed in fixed installations that undertake research on contract for corporate bodies and planetary governments. A much smaller proportion of Kaldi's effort is placed into the operation of a number of laboratory ships that travel throughout the Marches and beyond, either hiring out their services to whomever needs a general research team or engaging in ongoing studies.
 
 # Knorbes
 
@@ -87,13 +87,13 @@ One of five points in a three-body orbital configuration where a small object af
 
 # Lambdragon
 
-Large herbivore common to the Alell jungles. Lambdragons slowly graze through the forest, eating from the treetops. They have few natural predators, due to their size and the protection of the pack. The term ‘lambdragon’ was given to them because of their perceived gentleness but attacks by lambdragons are not impossible. The creatures have surprisingly sharp teeth for a herbivore (more accurately, they have two sets of teeth – an exterior set of flat teeth for feeding on leaves and a retractable set of sharper teeth used in defence and mating rituals) and a stampede of lambdragons can flatten a tank.
+Large herbivore common to the Alell jungles. Lambdragons slowly graze through the forest, eating from the treetops. They have few natural predators, due to their size and the protection of the pack. The term 'lambdragon' was given to them because of their perceived gentleness but attacks by lambdragons are not impossible. The creatures have surprisingly sharp teeth for a herbivore (more accurately, they have two sets of teeth – an exterior set of flat teeth for feeding on leaves and a retractable set of sharper teeth used in defence and mating rituals) and a stampede of lambdragons can flatten a tank.
 
-The creatures reproduce by depositing egg sacs in hollows in trees. The larval lambdragon feeds on the interior of the tree and ‘hatches’ when the weakened tree collapses. The passage of a large herd of lambdragons can cause sizable seismic tremors, causing trees to fall and thus bring new dragons into the herd.
+The creatures reproduce by depositing egg sacs in hollows in trees. The larval lambdragon feeds on the interior of the tree and 'hatches' when the weakened tree collapses. The passage of a large herd of lambdragons can cause sizable seismic tremors, causing trees to fall and thus bring new dragons into the herd.
 
 # Llellewyoly
 
-The Llellewyoly are a minor race native to Junidy in the Aramis subsector of the Spinward Marches. They are nicknamed ‘Dandelions’ or ‘Dandies’, as they resemble a two-metre-tall version of a Terran plant, with five stalk-like limbs that are used for manipulation, movement and sensing. Llellewyoly are highly intelligent and have excellent memory recall and organizational skills, possibly as a result of their incredibly complex social structure. A Llellewyoly possesses dozens of formal titles simultaneously and addressing it by the wrong title is a grievous insult. They are rarely encountered outside their homeworld.
+The Llellewyoly are a minor race native to Junidy in the Aramis subsector of the Spinward Marches. They are nicknamed 'Dandelions' or 'Dandies', as they resemble a two-meter-tall version of a Terran plant, with five stalk-like limbs that are used for manipulation, movement and sensing. Llellewyoly are highly intelligent and have excellent memory recall and organizational skills, possibly as a result of their incredibly complex social structure. A Llellewyoly possesses dozens of formal titles simultaneously and addressing it by the wrong title is a grievous insult. They are rarely encountered outside their homeworld.
 
 # Maleficent
 
@@ -105,7 +105,7 @@ An unremarkable agricultural planet, known mainly for producing food for export 
 
 # Oyntrip
 
-A Droyne unit of social organization, ranging in size from a handful of individuals to the population of a whole planet. Roughly cognate to a ‘clan’ or ‘nation’.
+A Droyne unit of social organization, ranging in size from a handful of individuals to the population of a whole planet. Roughly cognate to a 'clan' or 'nation'.
 
 # Pixie
 
@@ -113,7 +113,7 @@ The Pixie system is home to a forward operating base of the 213th Fleet. Travell
 
 # Public Order Commission
 
-The local police force of Regina. The moon is Law Level 9, banning most personal weapons. Public Order Commission officers are also empowered to detain individuals or confiscate items that are judged to be ‘disruptive or damaging to public order and safety’. In the past, this has been used to control technologies or restrict the movement of visitors to the moon. In practice, the POC is much more lenient in the most cosmopolitan cities; visitors to the less trafficked regions of Regina are advised to exercise caution.
+The local police force of Regina. The moon is Law Level 9, banning most personal weapons. Public Order Commission officers are also empowered to detain individuals or confiscate items that are judged to be 'disruptive or damaging to public order and safety'. In the past, this has been used to control technologies or restrict the movement of visitors to the moon. In practice, the POC is much more lenient in the most cosmopolitan cities; visitors to the less trafficked regions of Regina are advised to exercise caution.
 
 # Regina
 
@@ -127,7 +127,7 @@ This Class A starport is one of the largest ports in the entire sector. Over 80%
 
 # Roup
 
-Roup is a water world. The only stable ‘land’ consists of synthetic islands grown from webs of micro- organisms and seaweed. These huge rafts support vast cities, factories, farmland and even the starport. Roup’s citizens practice aquaculture on a planetary scale, with whole oceans sectioned off using bubble-nets to maximise productivity.
+Roup is a water world. The only stable 'land' consists of synthetic islands grown from webs of micro- organisms and seaweed. These huge rafts support vast cities, factories, farmland and even the starport. Roup's citizens practice aquaculture on a planetary scale, with whole oceans sectioned off using bubble-nets to maximise productivity.
 
 # Rynkatropa
 
@@ -139,11 +139,11 @@ The theory that Humaniti originally evolved on the planet of Terra, the home of 
 
 # Startown
 
-The region around the old Regina starport, now the primary downport. This strip of bars, cheap hostelries, raucous entertainments and less savoury businesses is notoriously violent, corrupt and profitable. Technically, it is divided between the nearby cities of Credo and Atora; both blames the other for the state of Startown.
+The region around the old Regina starport, now the primary downport. This strip of bars, cheap hostelries, raucous entertainments and less savory businesses is notoriously violent, corrupt and profitable. Technically, it is divided between the nearby cities of Credo and Atora; both blames the other for the state of Startown.
 
 # Siu (Guest)
 
-Term of respect used on Alell, derived from old Vilani dialect term ‘Siu’ch’, meaning guest or honored visitor.
+Term of respect used on Alell, derived from old Vilani dialect term 'Siu'ch', meaning guest or honored visitor.
 
 # Tusal
 
@@ -151,7 +151,7 @@ Tusal is an illegal narcotic, usually sold in the form of tablets, although some
 
 # Uakye
 
-Uakye is tidally locked, so all settlements are in the habitable ‘twilight zone’. The planet is closely associated with Efate but Countess Parasii strongly affirms her planet’s independence from the technocracy one system over.
+Uakye is tidally locked, so all settlements are in the habitable 'twilight zone'. The planet is closely associated with Efate but Countess Parasii strongly affirms her planet's independence from the technocracy one system over.
 
 # University of Regina
 
@@ -159,7 +159,7 @@ Commonly used to refer to any of several prestigious academic institutions on Re
 
 # Whisperhawk
 
-One of the most common sights in the jungle, whisperhawks are beautiful avians with prodigious wingspans. The hawk’s wings are both locomotion and feeding organs – whisperhawks feed by digesting the insects that are caught on the sticky underside of the wings. A flock of hawks can glide across the jungle canopy at twilight, catching hundreds of thousands of insects as they fly. The buzzing of the trapped insects and the susurrus of the wind gives the whisperhawk its name.
+One of the most common sights in the jungle, whisperhawks are beautiful avians with prodigious wingspans. The hawk's wings are both locomotion and feeding organs – whisperhawks feed by digesting the insects that are caught on the sticky underside of the wings. A flock of hawks can glide across the jungle canopy at twilight, catching hundreds of thousands of insects as they fly. The buzzing of the trapped insects and the susurrus of the wind gives the whisperhawk its name.
 
 They are notoriously stupid creatures and have been known to attack humans and vehicles (as well as flagposts, fences, houses and even small trees). If threatened, whisperhawks attack by wrapping their wings around a larger foe and trying to smother it.
 

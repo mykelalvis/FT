@@ -113,7 +113,7 @@ vessels, the navy would fi nd itself unable to perform its duties.
 
 ```
 System Defence Boats (SDBs) pack a powerful punch for their
-tonnage and are a good, cheap way to bolster a planet’s defences.
+tonnage and are a good, cheap way to bolster a planet's defences.
 Some larger ships are also listed, these being designed to support
 SDBs but, being jump capable, are able to fulfi l other roles.
 ```
@@ -136,7 +136,7 @@ months or even years being spent living in one spaceship or the
 next. Vessels that travel through the void of space are the reason
 some careers exist, entire industries are based around the creation
 and manufacture of spacecraft, and some people make it their
-lives’ work to fl y them. Simply put – spacecraft are as important in
+lives' work to fl y them. Simply put – spacecraft are as important in
 Traveller as the people who crew them.
 
 They are also just as diverse. There are spacecraft designed for all
@@ -270,7 +270,7 @@ maneuvers to position and waits for a target that gives off electromagnetic impu
 rockets towards it and detonates.
 
 Any target with a non-chemical power plant that comes within Adjacent Range of a dormant mine drone will automatically activate the
-drone’s attack sequence. The mine moves toward the target at full speed, before detonating against it with a damage rating equal to that of
+drone's attack sequence. The mine moves toward the target at full speed, before detonating against it with a damage rating equal to that of
 a High-Yield Multi-Warhead Missile. The mine drone is a Technology Level 12 design.
 
 ```
@@ -343,7 +343,7 @@ Total Tonnage and Cost 9.7^17
 
 ```
 Used by traders, delivery services and orbital ports, the freight handler pod is similar in nature to a maintenance pod, but is designed for the
-manoeuvring of multiple cargo containers. The unique ‘double grapple’ system of the freight handler allows the pilot to push one grappled
+manoeuvring of multiple cargo containers. The unique 'double grapple' system of the freight handler allows the pilot to push one grappled
 object forward while also tugging a second behind, making them useful in offl oading or placement of large quantities of cargo. The freight
 handler pod is a Technology Level 11 design.
 ```
@@ -518,7 +518,7 @@ Total Tonnage & Cost (excludes module)^30 9.
 
 ## RETRIEVAL BOAT
 
-Much like a common ship’s boat, the retrieval boat is used almost solely for the emergency rescue of evacuated crewmen and ejected life
+Much like a common ship's boat, the retrieval boat is used almost solely for the emergency rescue of evacuated crewmen and ejected life
 boats from hazardous areas. It is armored and shielded against secondary explosions or burning fuel, allowing the boat to sail into a
 hazardous site to use its grapple and deposit items into its sizeable airlock. The retrieval boat is a Technology Level 11 design.
 
@@ -586,7 +586,7 @@ Total Tonnage & Cost 49.89 13.
 
 ## SLOW BOAT
 
-The slow boat is a cheap alternative for the Ship’s Boat, performing many of the same roles but with a far lower cost and poorer
+The slow boat is a cheap alternative for the Ship's Boat, performing many of the same roles but with a far lower cost and poorer
 performance. Where budgets are tight or speed is not essential, the slow boat will often be used instead of more capable vessels. The
 slow boat is a Technology Level 8 design.
 
@@ -614,9 +614,9 @@ Total Tonnage & Cost 29.65 10.
 ## SPACE SURVEILLANCE CRAFT
 
 ```
-Where images of potential landing zones or information within an area of space are required, this high-tech surveillance craft is a favourite
+Where images of potential landing zones or information within an area of space are required, this high-tech surveillance craft is a favorite
 of task forces. It incorporates dozens of small cameras and sensors into its nose cone, all which feed data into the central signal processor
-for download upon the craft’s return to the host carrier or base. The space surveillance craft is a Technology Level 11 design.
+for download upon the craft's return to the host carrier or base. The space surveillance craft is a Technology Level 11 design.
 ```
 
 ```
@@ -682,7 +682,7 @@ Total Tonnage & Cost 39.7 15.
 ## SOLAR SAILING YACHT
 
 A pleasure craft often used by merchants or industrialists wishing to tour a system at their leisure, this yacht is not built for speed but
-for sight-seeing on an extra-planetary scale. When deployed, the yacht’s solar sail is roughly triangular and metallic white in colour. Some
+for sight-seeing on an extra-planetary scale. When deployed, the yacht's solar sail is roughly triangular and metallic white in colour. Some
 privately-owned solar yachts give up some of their cargo space for small point defence weaponry to dissuade pirates or hijackers, but most
 owners accept they are too un-manoeuvrable for combat. The solar sailing yacht is a Technology Level 11 design.
 
@@ -727,7 +727,7 @@ Total Tonnage & Cost 79.79 30.129
 
 Not much to look at, few pilots would go out of their way to fl y an antique fl yer, but having some kind of fi ghter screen is better than none at
 all. This entry covers several individual types of antique fi ghter, such as the old Belter Moray-class, the long decommissioned Imperial Type
-AA Guardian, and the commercially designed Cutlass-class (a favourite to collectors for its sleek lines). The antique fighter is a Technology
+AA Guardian, and the commercially designed Cutlass-class (a favorite to collectors for its sleek lines). The antique fighter is a Technology
 Level 8 design.
 
 ```
@@ -797,7 +797,7 @@ Total Tonnage & Cost 19.9 25.115
 ## ASSAULT SHUTTLE
 
 Designed to take boarding troops or marines into hostile situations, the standard confi guration assault shuttle is heavily armored compared
-to its passenger or cargo counterparts. It is equipped with multiple anti-personnel weapons designed to clear the shuttle’s landing zone of
+to its passenger or cargo counterparts. It is equipped with multiple anti-personnel weapons designed to clear the shuttle's landing zone of
 hostiles while soldiers and assault personnel disembark. The assault shuttle is a Technology Level 11 design.
 
 ```
@@ -872,8 +872,8 @@ Total Tonnage & Cost 19.95 13.164
 Deployed in orbit around an important installation or planet, the standard ODS is not so much a ship more as a gunnery platform. In the
 low technology version shown here it is crewed by a single technician who must stay on station for months at a time, his only company
 visits by resupply crews. Although a stateroom is fi tted to ensure some comfort for the crewman, it is still a cramped space to remain within
-over a long period of time. Assignment to an ODS is never viewed as a promotion, and many personnel have nicknamed them ‘retirement
-pods’.
+over a long period of time. Assignment to an ODS is never viewed as a promotion, and many personnel have nicknamed them 'retirement
+pods'.
 
 More conventional automated versions of the ODS have a drone command unit of some form. The orbital defence system is a Technology
 Level 11 design.
@@ -914,7 +914,7 @@ Total Tonnage & Cost 79.91 55.591
 
 ## STRIKE BOAT
 
-An expensive alternative to the standard torpedo ‘blast boat’, the fast and deadly strike boat is a rare sight, and an unwelcome one for its
+An expensive alternative to the standard torpedo 'blast boat', the fast and deadly strike boat is a rare sight, and an unwelcome one for its
 enemies. It trades the dual-torpedo rack for a single magnetically-attached launcher, and mounts an advanced pulse laser for use after it
 has deployed its payload. The strike boat is a Technology Level 12 design.
 
@@ -948,7 +948,7 @@ Total Tonnage & Cost 39.9 65.68
 
 Fast enough to deal with other fi ghters, packing enough fi repower to put holes in small starships, and able to slag armored soldiers
 when strafi ng ground targets, the Type 7 superiority fi ghter is a high-tech marvel found on many navy carriers. Expensive and with a steep
-learning curve, this fi ghter’s impressive speed and fi repower makes up for the amount of simulator time required. The superiority fighter
+learning curve, this fi ghter's impressive speed and fi repower makes up for the amount of simulator time required. The superiority fighter
 is a Technology Level 13 design.
 
 ```
@@ -981,7 +981,7 @@ Total Tonnage & Cost 39.7 64.88
 
 ## INTERCEPTOR MK.III
 
-The standard mark III is a favourite of non-governmental forces, and is used by a great number of space-travelling mercenaries instead of
+The standard mark III is a favorite of non-governmental forces, and is used by a great number of space-travelling mercenaries instead of
 the light fi ghters. The interceptor is a Technology Level 11 design.
 
 ```
@@ -1054,7 +1054,7 @@ Total Tonnage & Cost^800 184.03
 
 ## EXPRESS BOAT, TYPE X (XBOAT)
 
-Designed to jump between systems using predetermined paths’, the express boat is a bulbous cockpit barely big enough for one, set in
+Designed to jump between systems using predetermined paths', the express boat is a bulbous cockpit barely big enough for one, set in
 front of a powerful jump drive. It has no M-drive at all, being reliant upon tenders or tugs to position them before and after each jump.
 Delivering important messages from elsewhere on the Express Boat Network, this craft is one of the most important vessels supporting
 the Third Imperium.
@@ -1097,7 +1097,7 @@ Total Tonnage & Cost 99.95 42.82
 
 ## FAST TRADER, TYPE A3
 
-A stripped down version of the Far Trader, the A3 gives up some of its cargo space in favour of a more powerful drive and better manoeuvrability.
+A stripped down version of the Far Trader, the A3 gives up some of its cargo space in favor of a more powerful drive and better manoeuvrability.
 In areas where raiders or pirates lurk, this extra turn of speed can make all the difference.
 
 Normal crew consists of a pilot, navigator, engineer and 2 stewards. The fast trader is a Technology Level 11 design.
@@ -1192,7 +1192,7 @@ Total Tonnage & Cost 2,000 584.457
 
 ## MODULAR CLIPPER
 
-A favourite amongst organizations in need of a multi-purpose vessel, the modular clipper comes with a central section that can be changed
+A favorite amongst organizations in need of a multi-purpose vessel, the modular clipper comes with a central section that can be changed
 depending on the requirements of any mission. Keeping a few specialist mechanics on the crew means the clipper can be ready for a
 common trade run or a delivery into hostile territory after just a few hours of work in a dock or starport. Typical modules range from 25
 to 200 tons in size, but there is virtually no limit on what can carried within the modular space. On at least one occasion, an enterprising
@@ -1232,7 +1232,7 @@ Cargo 74 tons^74
 Extras Fuel Processor 200 tons per day^5 0.25
 Fuel Scoops 1
 Modular Cutter 50 19.458
-Ship’s Boat 30 17.694
+Ship's Boat 30 17.694
 Repair Drones 20 4
 Modular Space 950 tons 950 85.5
 Software Maneuver/0 -
@@ -1278,8 +1278,8 @@ of cargo. It costs MCr 17.1 plus the embarked small craft.
 
 Designed and used by galactic entrepreneurs, the Animal-class safari ship is an atmospheric lander that takes high-paying passengers to
 frontier worlds to fi nd and hunt rare animals. The Animal-class is built with a pair of retractable anti-personnel turrets to discourage hostiles
-from approaching the ship while landed. Whether they are shooting from the attached hunting deck or from ports on the ship’s ATV, safari-
-goers can be protected while hunting their quarry. The environment of the ship’s cargo space can be modifi ed to a wide range of conditions,
+from approaching the ship while landed. Whether they are shooting from the attached hunting deck or from ports on the ship's ATV, safari-
+goers can be protected while hunting their quarry. The environment of the ship's cargo space can be modifi ed to a wide range of conditions,
 including salt water, extreme temperatures or unusual atmospheres so animals can be captured for sale to zoos or private collectors.
 
 Normal crew is a pilot, navigator, engineer and a gunner. The safari ship is a Technology Level 11 design.
@@ -1493,7 +1493,7 @@ Repair Drones 6 1.2
 Fuel Processor 40 tons per day 2 0.1
 Breaching Tube 3 3
 Grapple Arm 2 1
-Ship’s Boat 30 17.694
+Ship's Boat 30 17.694
 Software Maneuver/0 -
 Intellect Rating 10 1
 Auto-Repair/1 Rating 10 5
@@ -1571,7 +1571,7 @@ Total Tonnage & Cost^400 238.41
 
 Large and powerful for a pirate vessel, most raiding fl eets rarely have access to a cruiser due to their extreme expense and maintenance.
 Those who can afford to buy and keep a cruiser of this calibre are the source of fear and terror in their local space lanes. The most popular
-of these cruisers is the Cutlass-class, made by dubious shipbuilding concerns who build them for ‘private escort companies’. Normal crew
+of these cruisers is the Cutlass-class, made by dubious shipbuilding concerns who build them for 'private escort companies'. Normal crew
 consists of a captain, pilot, navigator, 3 engineers, 6 gunners, 2 fi ghter pilots and 20 “marines”. The pirate cruiser is a Technology Level
 12 design.
 
@@ -1611,7 +1611,7 @@ Extras Repair Drones^6 1.2
 Breaching Tube 3 3
 Grapple Arm 2 1
 2 Armories 4 1
-Ship’s Boat 30 17.694
+Ship's Boat 30 17.694
 2 Light Fighters Full Hangar 26 24.874
 Fuel Scoops 1
 Fuel Processor 40 tons per day 2 0.1
@@ -1696,7 +1696,7 @@ Total Tonnage & Cost 1,200 786.708
 
 ## VULTURE-CLASS ARMED SALVAGE SHIP
 
-The salvage business is very lucrative, especially on the edges of contested space. ‘Junkers’ make their living fl ying these unattractive ships
+The salvage business is very lucrative, especially on the edges of contested space. 'Junkers' make their living fl ying these unattractive ships
 into former war zones or gravitic collection points, looking for interstellar remains and grabbing as much as they can in their relatively small
 vessels. The Vulture-class ships are not the prime movers for salvage companies, but they serve the role of scout and preliminary samplers
 of what could be the next big haul.
@@ -1839,8 +1839,8 @@ Fire Control/5 Rating 25 10
 Used almost exclusively by merchant marines and planetary navies, the Q-Ship is a heavily armed mercantile vessel that falls somewhere-
 between trader and escort. It carries a squad of security personnel along with a small amount of cargo, making the Q-Ship perfect to
 ferry items and goods that require extra protection. What makes this vessel particularly dangerous to pirates is that it appears to normal
-scanning as a subsidised merchant (including a fake launch) and its weapons are hidden in pop-up turrets. For added combat effectiveness
-fi ghter drones are occasionally used, replacing the ship’s boat.
+scanning as a subsidized merchant (including a fake launch) and its weapons are hidden in pop-up turrets. For added combat effectiveness
+fi ghter drones are occasionally used, replacing the ship's boat.
 The crew consists of a captain, pilot, navigator, 2 engineers, 4 gunners/stewards and 10 security personnel. The Q-ship is a Technology
 Level 11 design.
 ```
@@ -1875,7 +1875,7 @@ Cargo 70 tons^70
 10 Barracks^101
 12 Low Berths 60.6
 Extras Fuel Scoops^1
-Ship’s Boat 30 17.694
+Ship's Boat 30 17.694
 Armory 2 0.5
 Fuel Processor 20 tons per day 1 0.05
 Repair Drones 4 0.8
@@ -1998,8 +1998,8 @@ Total Tonnage & Cost^800 227.95
 ## SECURITY PURSUIT SHIP
 
 Prison planets or stations do not often suffer from successful escapes, but they do happen; one answer is this fast patrol vessel intercepting
-the escaped prisoners’ ship. The security pursuit ship can bring its particle beams and lasers to bear quickly, and can locate quarry whether
-they are fl eeing into space or hiding on a planet’s surface, with the liberal use of probe drones.
+the escaped prisoners' ship. The security pursuit ship can bring its particle beams and lasers to bear quickly, and can locate quarry whether
+they are fl eeing into space or hiding on a planet's surface, with the liberal use of probe drones.
 
 Normal crew consists of a pilot, navigator, 2 engineers, 3 gunners and 10 marshals. Recaptured prisoners are held in low berths or
 temporary barracks in the hold. The security pursuit ship is a Technology Level 12 design.
@@ -2056,10 +2056,10 @@ The type M is used to ferry paying passengers from one place to another. Each ty
 comfortably in several staterooms, but many end up in low-cost berths to get from system to the next.
 
 The normal crew consists of a captain, 2 pilots, navigator, 2 engineers, 1 gunner, purser, medic and 3 stewards. Normally 51 passengers are
-carried, with 24 in low berths. The subsidised liner is a Technology Level 12 design.
+carried, with 24 in low berths. The subsidized liner is a Technology Level 12 design.
 
 ```
-Subsidised Liner Tons Price (MCr)
+Subsidized Liner Tons Price (MCr)
 Hull^600 Hull 12
 Structure 12
 ```
@@ -2089,7 +2089,7 @@ Luxuries 5 5 0.5
 24 Low Berths^12 1.2
 Extras Fuel Scoops^1
 Fuel Processor 40 tons per day 2 0.1
-Ship’s Boat 30 17.964
+Ship's Boat 30 17.964
 Escape Pods One per Stateroom 18 3.6
 Software Maneuver/0 -
 Library -
@@ -2111,7 +2111,7 @@ Total Tonnage & Cost^600 274.454
 ## DEFENCE FRIGATE
 
 ```
-The defence frigate is a favourite amongst subsector navies, able to bolster a system’s defence at short notice. It is designed with low jump
+The defence frigate is a favorite amongst subsector navies, able to bolster a system's defence at short notice. It is designed with low jump
 capability in order to maximise performance in other areas. Its primary duties are in a policing role, dealing with opportunistic pirates,
 smugglers and raiders. In times of war, it will operate as an escort to supply convoys, acting in concert with larger vessels from the fl eet.
 Whilst not as manoeuvrable as an SDB and lacking the jump capability to keep pace with fl eet units, the defence frigate is still an effective
@@ -2232,7 +2232,7 @@ Total Tonnage & Cost^200 252.8
 
 Built using older techniques that would put crews in space for lengthy periods of time, this class of gunship is still used in frontier systems,
 out-of-the-way planetary pickets and by relatively low-tech planetary navies. Launched into space around an important area that requires
-protection, the defence boat’s job is to lay in wait for word from patrols that a threat is in-bound. By the time the threat has arrived, the
+protection, the defence boat's job is to lay in wait for word from patrols that a threat is in-bound. By the time the threat has arrived, the
 defence boat will be in position and can begin launching its deadly torpedo payload.
 
 Normal crew is the captain, a pilot, 2 engineers and 3 gunners. The antique systems defence boat is a Technology Level 9 design.
@@ -2321,7 +2321,7 @@ Extras Escape Pods 5 Pods 2.5 0.5
 Repair Drones 5 1
 Fuel Scoops 1
 Armored Bulkheads Drives, Armament and Ammunition 22.85 4.57
-Ship’s Boat 30 17.694
+Ship's Boat 30 17.694
 Software Maneuver/0 -
 Library -
 Intellect Rating 10 1
@@ -2339,7 +2339,7 @@ Total Tonnage & Cost^500 531.564
 
 ## SYSTEMS DEFENCE BOAT (SDB)
 
-The Systems Defence Boat, or SDB, is a light vessel designed to answer a star system’s need for local defence. It can maneuver into
+The Systems Defence Boat, or SDB, is a light vessel designed to answer a star system's need for local defence. It can maneuver into
 position and tear ships of equal size to pieces with its formidable particle battery, but has to operate in squadrons when dealing with larger
 threats.
 
@@ -2446,7 +2446,7 @@ Total Tonnage & Cost^400 274.2
 ## BOMBARDMENT SHIP (SIEGE-CLASS)
 
 Originally designed for navies to use in smashing enemy ground forces, the Siege-class bombardment ship was quickly replaced by larger,
-more capable vessels. Few of these ships entered the order of battle, although some subsector navies favour them,
+more capable vessels. Few of these ships entered the order of battle, although some subsector navies favor them,
 
 Normal crew consists of a captain, pilot, navigator, 3 engineers and 6 gunners. The bombardment ship is a Technology Level 12 design.
 
@@ -2630,7 +2630,7 @@ Cargo 8 tons^8
 8 Staterooms^324
 Extras Fuel Scoops^1
 Fuel Processor 40 tons per day 2 0.1
-Ship’s Boat 30 17.694
+Ship's Boat 30 17.694
 3 Fighter Drones 30 62.7
 Software Maneuver/0 -
 Intellect Rating 10 1
@@ -2813,7 +2813,7 @@ Cargo 1.5 tons 1.5
 5 Staterooms^20 2.5
 Extras Fuel Scoops^1
 2 Fuel Processors 2 0.1
-Ship’s Locker -
+Ship's Locker -
 Launch 20 13.569
 Software Maneuver/0 -
 Jump Control/3 Rating 15 -
@@ -2894,7 +2894,7 @@ Total Tonnage & Cost^198 146.85
 
 A launch platform for a swarm of missiles, this corvette is an offensive ship positioned in the vanguard of smaller task forces or convoys. A
 salvo or two from its weapons can be enough to turn some threats aside in the fi rst moments of an engagement. Not considered an escort
-so much as an ‘offensive deterrent’, the missile corvette is small and fast, but not durable.
+so much as an 'offensive deterrent', the missile corvette is small and fast, but not durable.
 
 Normal crew consists of the captain, pilot, navigator, 2 engineers and 4 gunners. The missile corvette is a Technology Level 13 design.
 
@@ -2945,7 +2945,7 @@ Total Tonnage & Cost^400 258.85
 
 ## PATROL CRUISER, TYPE T
 
-The Type T is typically used for patrol operations, protecting shipping lanes, conducting custom’s inspections and for search and rescue
+The Type T is typically used for patrol operations, protecting shipping lanes, conducting custom's inspections and for search and rescue
 duties. For this, it is equipped with a light armament suffi cient to deter raiders or smugglers, a range of supporting craft and a squad of
 marines.
 
@@ -2981,7 +2981,7 @@ Cargo 15 tons^15
 12 Barracks^12 1.2
 Extras Fuel Scoops^1
 Fuel Processor 60 tons per day 3 0.15
-Ship’s Boat Full Hangar 39 25.494
+Ship's Boat Full Hangar 39 25.494
 G-Carrier 10 15
 Software Maneuver/0 -
 Intellect Rating 10 1
@@ -3177,7 +3177,7 @@ Solar Sailing Yacht 20
 Space Control Router 8
 Space Surveillance Craft 17
 Strike Boat 32
-Subsidised Liner, Type M 80
+Subsidized Liner, Type M 80
 Suicide Drone 3
 Superiority Fighter, Type 7 34
 Systems Defence Boat (SDB) 92

@@ -11,13 +11,13 @@ Contacts, Mentors, Benefactors and Financiers
 
 ## INTRODUCTION
 
-Traveller opens up the galaxy – multiple galaxies – to the readers, players and Referees out there who are looking to explore them. In this vast universe they can find planets, stars, nebulae, aliens and ancient civilizations to fill the empty void that is space. It is an enormous stage to set and there is no shortage of uniqueness and oddity that can appear seemingly out of nowhere. Many of these unexpected encounters will come in the form of social interactions; from a brisk handshake given by a colleague to the barrel of a gauss pistol pressed into a character’s ribs.
+Traveller opens up the galaxy – multiple galaxies – to the readers, players and Referees out there who are looking to explore them. In this vast universe they can find planets, stars, nebulae, aliens and ancient civilizations to fill the empty void that is space. It is an enormous stage to set and there is no shortage of uniqueness and oddity that can appear seemingly out of nowhere. Many of these unexpected encounters will come in the form of social interactions; from a brisk handshake given by a colleague to the barrel of a gauss pistol pressed into a character's ribs.
 
 _Traveller: 760 Patrons_ arms its readers with a mind-boggling number of potential personalities and archetypes, which Traveller fans can put to good use in their own games. Players can quickly roll a good ally or enemy for their characters, Referees can randomly determine who happens to be waiting in a bar or maybe even come up with a complete adventure using just the interaction threads written in this book. Essentially, this book is a titanic collection of encounters waiting to happen. Many of these encounters will result in work or missions for the characters – although not always in the way they expect.
 
 Unlike the Patrons found in the Traveller Core Rulebook, these are not adventure hooks set in stone with pre-arranged prices and potentials. In an effort to make this book free-formed and usable several times over, we have ensured that each Patron is described in a generic way with several routes that the interaction could take. We did not want to include firm credit amounts or job offer types with the Patrons because of the generic role that this book is supposed to provide. Some games will show that a rescue mission is worth far more than Cr10,000, where others might think that is a fortune for a simple find-and-grab. This way it is between the Referee and his players to determine what each Patron will be about, how much the interaction will cost or pay and the scope of the events involved; with some directional assistance from this book.
 
-Making use of Traveller: 760 Patrons is remarkably easy. It is designed specifically to serve as a source for quick and simple encounters and interactions. The various chapters of this book are separated into different social categories based on very general stereotypes of characters. These social categories help Referees and players decide from which category they should be rolling their patron encounters. A few quick decisions and some random dice rolls will then determine the basic patron they will have a chance to interact with. A Referee can take 15 minutes before a gaming session and roll up a random Patron encounter for each of his players’ characters to possibly interact with and then drop them into the gaming session as the opportunities arise – it is just that easy!
+Making use of Traveller: 760 Patrons is remarkably easy. It is designed specifically to serve as a source for quick and simple encounters and interactions. The various chapters of this book are separated into different social categories based on very general stereotypes of characters. These social categories help Referees and players decide from which category they should be rolling their patron encounters. A few quick decisions and some random dice rolls will then determine the basic patron they will have a chance to interact with. A Referee can take 15 minutes before a gaming session and roll up a random Patron encounter for each of his players' characters to possibly interact with and then drop them into the gaming session as the opportunities arise – it is just that easy!
 
 ### SOCIAL GROUPINGS
 
@@ -39,7 +39,7 @@ Characters will not always fit into the social grouping that they are supposed t
 
 Each individual section of this book is divided into two types of patron encounters that characters can interact with – antagonists and protagonists. Antagonists are patron encounters that begin with the interaction stacked against the wishes and needs of the character; they are often enemies or obstacles that will have to be overcome. Protagonists are patron encounters that begin with the interaction aimed at helping or working with the character; they are generally allies or outsiders that will act in the benefit of the character. Whether a patron encounter is rolled as an antagonist or protagonist will set the initial reason and mood for the encounter. It is up to the decisions, skill checks and roleplaying efforts of the characters interacting with it to decide the final outcome of the encounter.
 
-Whenever rolling a patron encounter in Traveller: 760 Patrons, the Referee should roll a d6. If the result is an Odd number the patron should be rolled using that career path’s Antagonist Patron Table. If the result is an Even number the patron is instead rolled using the Protagonist Patron Table.
+Whenever rolling a patron encounter in Traveller: 760 Patrons, the Referee should roll a d6. If the result is an Odd number the patron should be rolled using that career path's Antagonist Patron Table. If the result is an Even number the patron is instead rolled using the Protagonist Patron Table.
 
 ### REQUIRED SKILLS OR EQUIPMENT?
 
@@ -47,7 +47,7 @@ Although most of the patron encounters created using the rules in this book are 
 the `Computer` skill to interact with it at all. These requirements are listed under the heading for each individual patron encounter.
 
 Rolling a Random Patron Encounter
-Most patron encounters rolled using the tables in this book will be based off of a character’s career path or current employment. There might come a reason why a player or Referee will want to generate a completely random patron encounter for his gaming sessions; the following table allows for that.
+Most patron encounters rolled using the tables in this book will be based off of a character's career path or current employment. There might come a reason why a player or Referee will want to generate a completely random patron encounter for his gaming sessions; the following table allows for that.
 
 #### Random Patron Encounter
 
@@ -79,7 +79,7 @@ INTRODUCTION
 
 ## Military Patrons
 
-In Traveller, service in the military is commonplace and far reaching, carving out a spider’s web of social connections, alliances and emneties as far as there has been space travel to. No matter what branch of governed military someone is serving with, they have access to a number of interesting and particular individuals.
+In Traveller, service in the military is commonplace and far reaching, carving out a spider's web of social connections, alliances and emneties as far as there has been space travel to. No matter what branch of governed military someone is serving with, they have access to a number of interesting and particular individuals.
 
 ### Navy
 
@@ -91,7 +91,7 @@ Characters in the Navy career path are given access to meeting a variety of peop
 | 12 – 13    | [[#Stowaway]]             | [[#Tattoo Artiste]]             |
 | 14 – 15    | [[#Gunner]]               | [[#Planetside Dockmaster]]      |
 | 16 – 21    | [[#Rumormonger]]          | [[#Smuggler]]                   |
-| 22 – 23    | [[#Ship’s Medic]]         | [[#Grease Monkey]]              |
+| 22 – 23    | [[#Ship's Medic]]         | [[#Grease Monkey]]              |
 | 24 – 25    | [[#Breaching Marine]]     | [[#Chief Petty Officer]]        |
 | 26 – 31    | [[#Mess Crewman]]         | [[#Visiting Scout]]             |
 | 32 – 33    | [[#Alternate Pilot]]      | [[#Requisition Clerk]]          |
@@ -102,7 +102,7 @@ Characters in the Navy career path are given access to meeting a variety of peop
 | 46 – 51    | [[#Visiting Officer]]     | [[#Ship Assault Specialist]]    |
 | 52 – 53    | [[#Comms Officer]]        | [[#Alien Diplomat]]             |
 | 54 – 55    | [[#Gambler]]              | [[#Primary Pilot]]              |
-| 56 – 61    | [[#Hand-to-Hand Trainer]] | [[#Ship’s Captain]]             |
+| 56 – 61    | [[#Hand-to-Hand Trainer]] | [[#Ship's Captain]]             |
 | 62 – 63    | [[#Lieutenant]]           | [[#Master Chief]]               |
 | 64         | [[#Pro-Alien Debater]]    | [[#Firearms Enthusiast]]        |
 | 65         | [[#Saboteur]]             | [[#Bridge Operational Officer]] |
@@ -112,14 +112,14 @@ Characters in the Navy career path are given access to meeting a variety of peop
 
 Required Skills: None Required Equipment: Ship
 
-A civilian agent from one of a dozen different allied companies or affiliations has come on board with the ship’s crew to evaluate their efficiency, aptitude levels and overall competence. He or she is rude, judgmental and seems to dislike the military a great deal.
+A civilian agent from one of a dozen different allied companies or affiliations has come on board with the ship's crew to evaluate their efficiency, aptitude levels and overall competence. He or she is rude, judgmental and seems to dislike the military a great deal.
 
 | The overseer is ... |                                                                                                                                      |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| 1 – 2               | ...a secret agent for an enemy of the military and will do everything he or she can to cut the ship’s budgets in order to weaken it. |
+| 1 – 2               | ...a secret agent for an enemy of the military and will do everything he or she can to cut the ship's budgets in order to weaken it. |
 | 3 – 4               | ...just a normal efficiency expert but it is his job to try and find problems with how the ship is run.                              |
-| 5                   | ...in league with a rival lieutenant looking to get this ship’s captain fired to take his spot on the bridge.                        |
-| 6                   | ...a former member of the navy who was kicked out for misconduct and now has a score to settle with this ship’s captain.             |
+| 5                   | ...in league with a rival lieutenant looking to get this ship's captain fired to take his spot on the bridge.                        |
+| 6                   | ...a former member of the navy who was kicked out for misconduct and now has a score to settle with this ship's captain.             |
 
 #### Flotilla Commander
 
@@ -154,15 +154,15 @@ A local skin artiste, a true master of tattoos and body piercing, has a shop in 
 
 | The tattoo artiste is ... |                                                                                                                                                                     |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                     | ...looking for a client to serve as the canvas for his new ‘masterpiece’, which will make that person’s skin famous.                                                |
-| 3 – 5                     | ...operating a military personnel discount for a few days, making it a perfect time for the characters to get ‘inked’.                                              |
+| 1 – 2                     | ...looking for a client to serve as the canvas for his new 'masterpiece', which will make that person's skin famous.                                                |
+| 3 – 5                     | ...operating a military personnel discount for a few days, making it a perfect time for the characters to get 'inked'.                                              |
 | 6                         | ...has a new nano-enhanced ink that actually changes color with the moods of the person tattooed with it and wants to try it out for free on a few willing clients. |
 
 #### Gunner
 
 Required Skills: None Required Equipment: Ship
 
-One of the ship’s gunnery Officers has been showing some signs of stress lately. This should not be a surprise, as anyone in charge of turning a few thousand megawatts of power into lances of coherent fusion designed to vaporize hundreds of lives in milliseconds has a lot on their minds.
+One of the ship's gunnery Officers has been showing some signs of stress lately. This should not be a surprise, as anyone in charge of turning a few thousand megawatts of power into lances of coherent fusion designed to vaporize hundreds of lives in milliseconds has a lot on their minds.
 
 | The gunner is ... |                                                                                                                                 |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -179,8 +179,8 @@ In charge of the starship docking facility on the local planet, this friendly-fa
 | The planetside dockmaster is ... |                                                                                                                                                      |
 | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1                                | ...really down on his luck and needs someone to help him around the facility.                                                                        |
-| 2 – 3                            | ...happy that he has recently confiscated a ship’s yacht and its contents; he is now looking for potential buyers.                                   |
-| 4 – 5                            | ...trying to set up a permanent account with the characters’ employers or government.                                                                |
+| 2 – 3                            | ...happy that he has recently confiscated a ship's yacht and its contents; he is now looking for potential buyers.                                   |
+| 4 – 5                            | ...trying to set up a permanent account with the characters' employers or government.                                                                |
 | 6                                | ...looking to sell shares of his facility to upstanding, military types. They are Cr1,000 each but will assuredly be worth millions over a lifetime. |
 
 #### Rumormonger
@@ -208,16 +208,16 @@ Running goods through blockades, under the noses of the authority and hopefully 
 | 4 – 5               | ...beleaguered by problems with his smuggling ship and in need of a ride; with his cargo.                           |
 | 6                   | ...desperate to be rid of a particular piece of goods because of how much the local authorities are looking for it. |
 
-#### Ship’s Medic
+#### Ship's Medic
 
 Required Skills: None Required Equipment: Ship
 
-Having to look at every wounded member of the crew, from engineering burns to gauss round lacerations everyday can push a ship’s medic a little too far. He has been doing his job for just a little too long and has become a little cynical because of it.
+Having to look at every wounded member of the crew, from engineering burns to gauss round lacerations everyday can push a ship's medic a little too far. He has been doing his job for just a little too long and has become a little cynical because of it.
 
-| The ship’s medic is ... |                                                                                                                                               |
+| The ship's medic is ... |                                                                                                                                               |
 | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                   | ...tired of dealing with wounded soldiers and looks down on anyone that might come to him from martial services.                              |
-| 3 – 4                   | ...concerned that he might have mixed up a few patients’ medications and wants to cover it up by blaming someone else for his incompetence.   |
+| 3 – 4                   | ...concerned that he might have mixed up a few patients' medications and wants to cover it up by blaming someone else for his incompetence.   |
 | 5 – 6                   | ...ready to snap. He has seen just a little too much bloodshed and lives lost in his medical bay and has begun taking it out on his patients. |
 
 #### Grease Monkey
@@ -232,8 +232,8 @@ MILITARY PATRONS
 | --------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                                         | ...looking to make a few credits on the side by using his access to the motor pool for smuggling.                                |
 | 3 – 4                                         | ...tired of living his life elbow-deep in crankshafts and VTOL rotors and is looking to join the ranks of galactic travellers.   |
-| 5                                             | ...seeking some obscure training in his free time to learn one of the characters’ **specialized** skills.                        |
-| 6                                             | ...currently keeping a secret about his employer’s cost-cutting and second-hand parts but feels that someone should do something |
+| 5                                             | ...seeking some obscure training in his free time to learn one of the characters' **specialized** skills.                        |
+| 6                                             | ...currently keeping a secret about his employer's cost-cutting and second-hand parts but feels that someone should do something |
 | before a vehicle malfunction injures someone. |                                                                                                                                  |
 
 #### Breaching Marine
@@ -247,7 +247,7 @@ Considered some of the toughest, roughest and most cliquish soldiers on board an
 | 1 – 2                       | ...angry about his performance in his last mission and is looking to take it out on anyone who crosses him.                                          |
 | 3                           | ...really drunk after a successful insertion; this makes him belligerent, loud and pugnacious to the extreme.                                        |
 | 4                           | ...trying to get psyched up for what looks like a very dangerous mission in the morning, which means he cannot be bothered with manners or niceties. |
-| 5 – 6                       | ...blaming anyone and everyone for his squadmate’s recent death; from the bay door operator to the engineering chief and everyone in-between.        |
+| 5 – 6                       | ...blaming anyone and everyone for his squadmate's recent death; from the bay door operator to the engineering chief and everyone in-between.        |
 
 #### Chief Petty Officer
 
@@ -270,18 +270,18 @@ This man bears one of the most thankless and time-consuming jobs on a multi-pers
 | The mess crewman is ... |                                                                                                                                 |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                   | ...going to try a new alien herb in the dinner for the crew, even though he knows it has a roughly 50% allergy rate in humans.  |
-| 3 – 4                   | ...disgruntled about a character’s reaction to his new exotic dinner dish; which he thought of as his personal best work.       |
+| 3 – 4                   | ...disgruntled about a character's reaction to his new exotic dinner dish; which he thought of as his personal best work.       |
 | 5 – 6                   | ...an old naval washout, ending up in the kitchens as a dumping ground as much as a punishment for his lackluster performances. |
 
 #### Visiting Scout
 
 Required Skills: None Required Equipment: None
 
-A member of the local scout faction has stopped by; bringing with him tales of uncharted frontier areas and the mapping he has done to help expand his government’s borders. His job is exciting and dangerous and the enthusiasm he has about it makes it seem like a grandiose endeavor.
+A member of the local scout faction has stopped by; bringing with him tales of uncharted frontier areas and the mapping he has done to help expand his government's borders. His job is exciting and dangerous and the enthusiasm he has about it makes it seem like a grandiose endeavor.
 
 | The visiting scout is ... |                                                                                                                                                 |
 | ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                     | ...carrying data recordings of his last trip to an unknown planet that he claims will be ‘bigger than fusion’ when the government colonizes it. |
+| 1 – 2                     | ...carrying data recordings of his last trip to an unknown planet that he claims will be 'bigger than fusion' when the government colonizes it. |
 | 3 – 4                     | ...an old friend of a friend and wants to try catch up with the characters while he is not out on the frontier.                                 |
 | 5                         | ...on assignment and cannot stay too long. He does impart a little knowledge about the area of space he has been in before he goes, however.    |
 | 6                         | ...also a spy for his government. He is not just looking through the frontier for dangers but also through the forces sent to travel it.        |
@@ -294,7 +294,7 @@ Every ship keeps a staff of pilots and co-pilots on hand in case of emergency si
 
 | The alternate pilot is ... |                                                                                                |
 | -------------------------- | ---------------------------------------------------------------------------------------------- |
-| 1 – 2                      | ...bored of being on the back-up list and is looking for a way to ‘occupy’ the primary pilots. |
+| 1 – 2                      | ...bored of being on the back-up list and is looking for a way to 'occupy' the primary pilots. |
 | 3 – 4                      | ...tired of being viewed as a lesser pilot and is thinking about going AWOL.                   |
 | 5                          | ...addicted to some dangerous performance enhancers.                                           |
 | 6                          | ...blaming some action of the characters for his spot on the alternate roster.                 |
@@ -335,13 +335,13 @@ Brand new to the crew of a ship, the rookie ensign is normally looking for a way
 | 1 – 2                    | ...fresh out of the academy and ready to fly but is still rather naïve.                                    |
 | 3 – 4                    | ...trying to put together a weekends-only card game, just like the ones he played in naval basic training. |
 | 5                        | ...destined for greatness within the ranks but is pretty humble about his talents and skills.              |
-| 6                        | ...a friend of one of the characters’ old navy buddies and has a lot of good things to say about them.     |
+| 6                        | ...a friend of one of the characters' old navy buddies and has a lot of good things to say about them.     |
 
 #### Petty Officer
 
 Required Skills: None Required Equipment: Ship
 
-Middle management at its best within the ship’s infrastructure, the petty Officer takes the position truly to heart. He dislikes those who have been lucky enough to be promoted above him but he also has no respect for the men still ranked below him. Until he can shed the bureaucratic red tape of his position, he will never be pleasant.
+Middle management at its best within the ship's infrastructure, the petty Officer takes the position truly to heart. He dislikes those who have been lucky enough to be promoted above him but he also has no respect for the men still ranked below him. Until he can shed the bureaucratic red tape of his position, he will never be pleasant.
 
 | The petty Officer is ... |                                                                                                               |   |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------- | - |
@@ -358,7 +358,7 @@ A physical trainer in the naval gymnasium or fitness center, this fit and attrac
 | The PT staff member is ... |                                                                                                                                                |   |
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | - |
 | 1 – 2                      | ...leading a new class that he thinks the characters are perfect for.                                                                          |   |
-| 3 – 4                      | ...worried about the physical fitness of one of the characters and wants to put them through a few private classes to work on ‘problem areas’. |   |
+| 3 – 4                      | ...worried about the physical fitness of one of the characters and wants to put them through a few private classes to work on 'problem areas'. |   |
 | 5                          | ...in need of an assistant for his next round of recruits and rookies.                                                                         |   |
 | 6                          | ...dealing with a recent injury that prevents him from running his normal sessions.                                                            |   |
 
@@ -372,7 +372,7 @@ A professional courier of passengers and cargo over short distances, a shuttle p
 | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                    | ...willing to take passengers on an otherwise cargo haul for free; if only for the company on the trip.                           |
 | 3 – 4                    | ...upset about having his regular runs taken over by a freelancer and needs some friendly faces over a pint or two.               |
-| 5 – 6                    | ...trying to figure out the best way to get his shuttle out of impound after he had a little docking ‘accident’ the night before. |
+| 5 – 6                    | ...trying to figure out the best way to get his shuttle out of impound after he had a little docking 'accident' the night before. |
 
 #### Engine Mechanic
 
@@ -390,7 +390,7 @@ Trapped under the greasy engines of a shuttle, fighter or troop transport all da
 
 Required Skills: None Required Equipment: Ship
 
-Cleaning up after all of a ship’s personnel, you get to know a few things and pick up a few clues about people. This sanitation worker and janitor for the ship has been doing so for many years and knows more about the ship and its crew than most of them do.
+Cleaning up after all of a ship's personnel, you get to know a few things and pick up a few clues about people. This sanitation worker and janitor for the ship has been doing so for many years and knows more about the ship and its crew than most of them do.
 
 #### Supply Officer
 
@@ -401,16 +401,16 @@ The man behind the clipboards and red tape, the supply Officer is the one in cha
 | The supply Officer is ... |                                                                                                                                                                     |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                     | ...withholding portions of supply requisitions to be sold to smugglers and black marketers.                                                                         |
-| 3 – 4                     | ...actually opposed to the navy’s current actions, so he has been shorting orders of things like armor and ammunition to dissuade them from taking hostile actions. |
+| 3 – 4                     | ...actually opposed to the navy's current actions, so he has been shorting orders of things like armor and ammunition to dissuade them from taking hostile actions. |
 | 5                         | ...a very opinionated person about what he thinks people should have access to, so he has been adjusting their orders accordingly.                                  |
 | 6                         | ...spiteful of his desk job and really wishes he could be out in the field where the action is.                                                                     |
 
 | The ship janitor is ... |                                                                                                                                                                                                                        |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1                       | ...scared to turn in a large sum of money he found wrapped up in a petty Officer’s garbage bin.                                                                                                                        |
+| 1                       | ...scared to turn in a large sum of money he found wrapped up in a petty Officer's garbage bin.                                                                                                                        |
 | 2 – 3                   | ...coming to the characters to help him with a dilemma; he thinks he overheard one of the bridge Officers planning something nefarious and does not know what to do.                                                   |
 | 4 – 5                   | ...cleaning out the old storerooms and has found a few thousand credits worth of merchandise that cannot possibly still be on the manifest. He is willing to share the profits if the characters will sell it for him. |
-| 6                       | ...is a gossip and an eavesdropper; he has some of the best dirt on the most unlikely of people in the ship’s crew.                                                                                                    |
+| 6                       | ...is a gossip and an eavesdropper; he has some of the best dirt on the most unlikely of people in the ship's crew.                                                                                                    |
 
 #### Visiting Officer
 
@@ -433,8 +433,8 @@ Having trained and served with the breaching marines, this hardened veteran is a
 
 | The ship assault specialist is ... |                                                                                                                                                                               |
 | ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1                                  | ...tired of teaching the muscle-bound thugs that end up in assault squads and wants to show ‘normal’ people how to deal with ship attacks.                                    |
-| 2 – 4                              | ...feeling as though there are not enough shipside defenders on his vessel and is going to help make it ‘more defendable’ with the help of the characters.                    |
+| 1                                  | ...tired of teaching the muscle-bound thugs that end up in assault squads and wants to show 'normal' people how to deal with ship attacks.                                    |
+| 2 – 4                              | ...feeling as though there are not enough shipside defenders on his vessel and is going to help make it 'more defendable' with the help of the characters.                    |
 | 5                                  | ...thinking that his planned assault tactics for an upcoming ship-to-ship conflict is flawed; he wants a second opinion.                                                      |
 | 6                                  | ...being deployed with the breaching marines for a very special insertion mission. He was given choices as to who he would like to have with him and he chose the characters. |
 
@@ -446,7 +446,7 @@ Although his station is actually operated by several crew members, the comms Off
 
 | The comms Officer is ... |                                                                                                                                                                                                               |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                    | ...not allowing certain transmissions that he takes to be ‘inappropriate’ to be transmitted from the ship. It is not his place to decide what is acceptable and what is not but he has the power nonetheless. |
+| 1 – 2                    | ...not allowing certain transmissions that he takes to be 'inappropriate' to be transmitted from the ship. It is not his place to decide what is acceptable and what is not but he has the power nonetheless. |
 | 3 – 4                    | ...listening in on private communiqués, learning a great deal about the Officers of the ship.                                                                                                                 |
 | 5 – 6                    | ...selling ship secrets to an outside government for a small fortune.                                                                                                                                         |
 
@@ -461,15 +461,15 @@ An ambassador from an alien race has come to interact with the naval force as a 
 | The alien diplomat is ... |                                                                                                                                                |
 | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                     | ...here on a peace mission from his people. He is looking to see how the local populace will react to an alien among them.                     |
-| 3 – 4                     | ...seeking more information about the technologies of the character’s race and is willing to exchange some of his own to interact with it.     |
-| 5                         | ...hoping to forge a true friendship between his race and the character’s.                                                                     |
+| 3 – 4                     | ...seeking more information about the technologies of the character's race and is willing to exchange some of his own to interact with it.     |
+| 5                         | ...hoping to forge a true friendship between his race and the character's.                                                                     |
 | 6                         | ...empowered by his government to create ambassadors out of the people he meets and believes to be worthy to return to his homeworld with him. |
 
 #### Gambler
 
 Required Skills: Gambler Required Equipment: None
 
-The devotion to gaming – or rather winning and losing – is thick with this person’s activities. He spends most of his days asleep or in preparation for his nightly gambling excursions. He does not consider himself to be an addict unless he loses, at which point he commonly vows to be ‘done with it’.
+The devotion to gaming – or rather winning and losing – is thick with this person's activities. He spends most of his days asleep or in preparation for his nightly gambling excursions. He does not consider himself to be an addict unless he loses, at which point he commonly vows to be 'done with it'.
 
 | The gambler is ... |                                                                                                                                |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -498,18 +498,18 @@ The reason why breaching marines know how to kill a man eight ways with their ba
 
 | The hand-to-hand trainer is ... |                                                                                                                |
 | ------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                           | ...upset about the ‘weaklings’ in his recent class and is looking to pick a fight to feel better.              |
+| 1 – 2                           | ...upset about the 'weaklings' in his recent class and is looking to pick a fight to feel better.              |
 | 3 – 4                           | ...worried that someone might find out that he has been genetically spliced to be as fast and strong as he is. |
 | 5                               | ...looking for a reason to try out his techniques on the first person that looks at him crosswise.             |
 | 6                               | ...experimenting with drugs and chemical enhancers that have made his emotional state somewhat unstable.       |
 
-#### Ship’s Captain
+#### Ship's Captain
 
 Required Skills: None Required Equipment: Ship
 
 The starship captain of a naval vessel needs to be charismatic, strong-willed and tenacious. This person is an example of all of these qualities added together with a liberal amount of pluck and wit. He knows that he has sometimes hundreds of lives in his hands when he makes his decisions, so he makes sure that they count.
 
-| The ship’s captain is ... |                                                                                                                                                  |
+| The ship's captain is ... |                                                                                                                                                  |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1 – 2                     | ...looking to put a few crew members on a fast track to becoming Officers because of his expanding staff requirements.                           |
 | 3 – 4                     | ...afraid that the next mission is going to be a difficult one and he needs some assurance from his crew that everyone will make it out alright. |
@@ -519,7 +519,7 @@ The starship captain of a naval vessel needs to be charismatic, strong-willed an
 
 Required Skills: None Required Equipment: Ship
 
-High on the rankings under the captain in the bridge of the ship, the lieutenant is the one man prepared to take the captain’s place should something happen to him physically, politically or career-wise. He is devoted to the ship and to the crew but most of all his own promotion likelihood.
+High on the rankings under the captain in the bridge of the ship, the lieutenant is the one man prepared to take the captain's place should something happen to him physically, politically or career-wise. He is devoted to the ship and to the crew but most of all his own promotion likelihood.
 
 | The lieutenant is ... |                                                                                                                                            |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -536,7 +536,7 @@ Most of the lower crew members, engineers, technicians and non-combatant Officer
 
 | The master chief is ... |                                                                                                                                                                            |
 | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                   | ...looking for an alternate crew to do some work for him since the regular team suddenly fell ill and he has some discretionary funds to make it worth the workers’ while. |
+| 1 – 2                   | ...looking for an alternate crew to do some work for him since the regular team suddenly fell ill and he has some discretionary funds to make it worth the workers' while. |
 | 3 – 4                   | ...concerned for the status of one of his teams away and he suspects there has been foul play. One of his friends was on the team.                                         |
 | 5 – 6                   | ...in need of someone to talk to about hiring some civilians to get a job done cheaply but does not have the time to leave his post.                                       |
 
@@ -560,9 +560,9 @@ During basic training there are always a few guys who really get into the care a
 
 | The firearms enthusiast is ... |                                                                                                                                                                           |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                          | ...happy to work on anyone’s firearm, making it better for just a few credits worth of parts and tools and a few hours of his time.                                       |
+| 1 – 2                          | ...happy to work on anyone's firearm, making it better for just a few credits worth of parts and tools and a few hours of his time.                                       |
 | 3 – 4                          | ...claiming that he is the best shot in the navy and would love to put together some kind of practice range.                                                              |
-| 5                              | ...excited about trying out a new alien-technology firearm he ‘got off a guy’, making everyone around him very nervous when he says that he has no idea what it might do. |
+| 5                              | ...excited about trying out a new alien-technology firearm he 'got off a guy', making everyone around him very nervous when he says that he has no idea what it might do. |
 | 6                              | ...trying to get the entire crew to upgrade their weapons to newer technology weapons but knows how expensive it would be.                                                |
 
 #### Saboteur
@@ -574,20 +574,20 @@ An agent for an enemy government or affiliation that snuck aboard in order to sa
 | The saboteur is ... |                                                                                                                                                             |
 | ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2               | ...a commercial agent trying to force the navy away from buying a particular brand of weapon or component.                                                  |
-| 3 – 4               | ...a ‘one-way’ agent and never planned on making it off the ship alive.                                                                                     |
-| 5                   | ...just a mercenary, has ticket paperwork for his mission and technically has a political sanction to operate without causing ‘undue harm’ in his sabotage. |
+| 3 – 4               | ...a 'one-way' agent and never planned on making it off the ship alive.                                                                                     |
+| 5                   | ...just a mercenary, has ticket paperwork for his mission and technically has a political sanction to operate without causing 'undue harm' in his sabotage. |
 | 6                   | ...actually an agent from your own government; he was supposed to make it look like another government did it to start talks toward conflict and war.       |
 
 #### Bridge Operational Officer
 
 Required Skills: Admin Required Equipment: Ship
 
-Thought of as the captain’s assistant, the bridge operational Officer or ‘OpsMan’ is the right hand to the captain and lieutenant. He makes sure that orders are relayed and followed through by the various parts of command and he tries to maintain a friendly buffer between the general crew and the bridge staff.
+Thought of as the captain's assistant, the bridge operational Officer or 'OpsMan' is the right hand to the captain and lieutenant. He makes sure that orders are relayed and followed through by the various parts of command and he tries to maintain a friendly buffer between the general crew and the bridge staff.
 
 | The bridge operational Officer is ... |                                                                                                                                                              |
 | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1 – 2                                 | ...looking for good avenues of information from the general crew and hopes to use social connections over spying or intimidation in order to keep up morale. |
-| 3 – 4                                 | ...concerned that his captain’s health is slipping due to a strange animal bite he received off-ship a few days before.                                      |
+| 3 – 4                                 | ...concerned that his captain's health is slipping due to a strange animal bite he received off-ship a few days before.                                      |
 | 5 – 6                                 | ...kind of small and non-confrontational but needs someone to go to the assault barracks and get a count of their supplies.                                  |
 
 #### Governmental Agent
@@ -607,7 +607,7 @@ Always seeking ways to cut budgets from the military and give it to the executiv
 
 Required Skills: Admin Required Equipment: None
 
-In charge of not just one ship but an entire fleet of vessels, the fleet admiral is the topmost role the navy can offer someone that wants to remain active in ‘the field’. It is not a position given lightly and one that carries with it a great responsibility and tremendous power.
+In charge of not just one ship but an entire fleet of vessels, the fleet admiral is the topmost role the navy can offer someone that wants to remain active in 'the field'. It is not a position given lightly and one that carries with it a great responsibility and tremendous power.
 
 | The fleet admiral is ... |                                                                                                                                                                                                         |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -630,7 +630,7 @@ Having been arrested or captured for any of a variety of different crimes, this 
 
 ### Marines
 
-Characters in the Marines career path are attached to starships and starbases, serving as their soldiers and security. This puts them in contact with a great deal of military personnel but also scores of civilians and potential threats. Naval personnel on the ship, civilians while planetside and ‘potential hostiles’ are all common examples of who a Marine character might have reason to interact with. They are trained to be some of the toughest and least yielding of the military branches but the lives of everyone on board are theoretically in their hands - leaving less time for social graces.
+Characters in the Marines career path are attached to starships and starbases, serving as their soldiers and security. This puts them in contact with a great deal of military personnel but also scores of civilians and potential threats. Naval personnel on the ship, civilians while planetside and 'potential hostiles' are all common examples of who a Marine character might have reason to interact with. They are trained to be some of the toughest and least yielding of the military branches but the lives of everyone on board are theoretically in their hands - leaving less time for social graces.
 
 | d66 Result | Antagonist Patron             | Protagonist Patron         |
 | ---------- | ----------------------------- | -------------------------- |
@@ -659,32 +659,32 @@ Characters in the Marines career path are attached to starships and starbases, s
 
 Required Skills: None Required Equipment: Ship
 
-In charge of keeping the security staff, marines and freelance investigators all in line with the ship’s regular duties, the chief of security has a rather stressful job. He knows that he cannot do his job without his staff and keeping them happy with him ensures that he does not always have to be looking over his shoulder.
+In charge of keeping the security staff, marines and freelance investigators all in line with the ship's regular duties, the chief of security has a rather stressful job. He knows that he cannot do his job without his staff and keeping them happy with him ensures that he does not always have to be looking over his shoulder.
 
 | The chief of security is ... |                                                                                                                                                             |
 | ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                        | ...worried that he might have a dirty agent on his payroll and wants help to find him.                                                                      |
 | 3 – 4                        | ...throwing a retirement party for one of his agents and needs the characters to keep the peace for the few hours that most of security will be indisposed. |
-| 5                            | ...sure that there is a new threat to ship security on board and he wants the characters’ help finding it.                                                  |
+| 5                            | ...sure that there is a new threat to ship security on board and he wants the characters' help finding it.                                                  |
 | 6                            | ...celebrating his 10th anniversary on the security force.                                                                                                  |
 
 #### Striker Patron
 
 Required Skills: None Required Equipment: None
 
-This mercenary thinks of himself as a ruthless war machine of training and experience and he is probably right. Guns-for-hire like this are usually very good at their job, which often makes them cocky, arrogant and rude. They do not commonly get along with ‘regular’ military types for just that reason.
+This mercenary thinks of himself as a ruthless war machine of training and experience and he is probably right. Guns-for-hire like this are usually very good at their job, which often makes them cocky, arrogant and rude. They do not commonly get along with 'regular' military types for just that reason.
 
 | The striker is ... |                                                                                                                                                |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2              | ...trying to prove to the local operational authority that he is worth hiring for his combat skills – which means he is going to pick a fight. |
 | 3 – 4              | ...between tickets at the moment and hard up for cash to repair and re-arm his gear.                                                           |
-| 5 – 6              | ...actually on a ticket assignment against the characters’ government or organization.                                                         |
+| 5 – 6              | ...actually on a ticket assignment against the characters' government or organization.                                                         |
 
 #### Deployment Pilot
 
 Required Skills: None Required Equipment: Ship
 
-The man or woman responsible for bringing squads of marines to where they need to be when called upon, the deployment pilot is a soldier’s guardian angel. Flying a slow and thickly armored lander through flak fire, anti-ship defense and enemy fighter support, just one of this man’s actions could snuff out an entire team’s lives in an instant.
+The man or woman responsible for bringing squads of marines to where they need to be when called upon, the deployment pilot is a soldier's guardian angel. Flying a slow and thickly armored lander through flak fire, anti-ship defense and enemy fighter support, just one of this man's actions could snuff out an entire team's lives in an instant.
 
 | The deployment pilot is ... |                                                                                                                                                                                         |
 | --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -702,7 +702,7 @@ One of the worst assignments for a medically-trained member of the military is t
 | The combat medic is ... |                                                                                                                        |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | 1                       | ...one more casualty away from a nervous breakdown, taking it out on the nearest soldier carrying a weapon.            |
-| 2 – 3                   | ...bitter and incensed with feelings of distaste for those in the field of ‘taking lives’.                             |
+| 2 – 3                   | ...bitter and incensed with feelings of distaste for those in the field of 'taking lives'.                             |
 | 4 – 5                   | ...experimenting with new and dangerous techniques to help stop major wounds from being too painful but no less fatal. |
 | 6                       | ...an emotional hermit; a totally cold person that seems unable to care about anything at all.                         |
 
@@ -710,11 +710,11 @@ One of the worst assignments for a medically-trained member of the military is t
 
 Required Skills: None Required Equipment: Ship
 
-Sometimes called ‘junkers’, ‘space janitors’ or ‘scrappers’, a salvager is a member of a professional salvage team that goes out to find derelict crafts and wreckage. Once found, they either tow them in for repairs or cut them up for parts. The navy and other transit-based organizations often pay salvagers extra to clear debris from space lanes, feeding them the proper information to do so.
+Sometimes called 'junkers', 'space janitors' or 'scrappers', a salvager is a member of a professional salvage team that goes out to find derelict crafts and wreckage. Once found, they either tow them in for repairs or cut them up for parts. The navy and other transit-based organizations often pay salvagers extra to clear debris from space lanes, feeding them the proper information to do so.
 
 | The salvager is ... |                                                                                                                                                                                      |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1 – 2               | ...in the middle of preparing what he calls a ‘goldmine of a lead’ on an old banking shuttle lost in this area of space.                                                             |
+| 1 – 2               | ...in the middle of preparing what he calls a 'goldmine of a lead' on an old banking shuttle lost in this area of space.                                                             |
 | 3 – 4               | ...in need of some muscle to help him relocate a few squatters that took root on his most recent lucrative claim after he got gravity and life-support working for the salvage crew. |
 | 5                   | ...not sure but he thinks he may have found something very important and classified on his last job.                                                                                 |
 | 6                   | ...looking to sell some alien bits and bobs that he picked up, including a few things he knows the characters will be interested in.                                                 |
@@ -732,7 +732,7 @@ No matter where marines tend to go to spend their free time – restaurants, bar
 | 3                                | ...the woman who runs a professional (and legal) brothel, she likes to see military money but dislikes having to deal with military egos.                                  |
 | 4                                | ...the operations manager at an all-you-can-eat buffet styled restaurant and he despises seeing a squad of marines come through his door with their immense appetites.     |
 | 5                                | ...the brother of a woman who was killed by imprecise weapons fire and now will not let uniformed soldiers into his store.                                                 |
-| 6                                | ...so spiteful of not getting into the military and being forced into food service management that he is willing to sabotage the characters’ food with foreign substances. |
+| 6                                | ...so spiteful of not getting into the military and being forced into food service management that he is willing to sabotage the characters' food with foreign substances. |
 
 | The navy ensign is ... |                                                                                                                                              |
 | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -751,7 +751,7 @@ Also called space pirates, star raiders are criminal pilots and assault experts 
 | 1 – 2                  | ...working in the area to find out what kind of defense there are for potential targets, which includes the existence of the marines garrisoned to protect the ship. |
 | 3 – 4                  | ...a ruthless and savage killer of civilians and non-combatants, making a name for himself as a murderer and butcher.                                                |
 | 5                      | ...running from his own people, having stolen the activation codes for a dozen mass-effect weapons they recently purchased from terrorists.                          |
-| 6                      | ...a religious fanatic that believes that space is only for ‘the angels’, so he attacks and destroys any craft that he can.                                          |
+| 6                      | ...a religious fanatic that believes that space is only for 'the angels', so he attacks and destroys any craft that he can.                                          |
 
 #### Force Commander
 
@@ -763,7 +763,7 @@ A middle-ranking marine that has seen some combat missions and some legislative 
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                      | ...deciding which one of his marine units he will be sending to a hostile-zone landing party, knowing that the one that he chooses might not make it back alive. |
 | 3 – 4                      | ...willing to promote the character to squad leader for an important secret mission but no one can know about it until after it is completed.                    |
-| 5 – 6                      | ...researching good locations for the barrack’s next leave excursion and needs good ideas to put on the list of possibilities for the accountants to look over.  |
+| 5 – 6                      | ...researching good locations for the barrack's next leave excursion and needs good ideas to put on the list of possibilities for the accountants to look over.  |
 
 #### Navy Ensign
 
@@ -790,11 +790,11 @@ This specialist scientist is an expert on previously unknown lifeforms and plane
 
 Required Skills: None Required Equipment: Ship
 
-Most members of a ship’s crew are expected to pull their weight when it comes to basic labor and such but a common cargo bay worker sees the lion’s share of it. Hauling crates, equipment, vehicles and the like are an everyday duty for the bay worker and it makes them tough, strong and sometimes ignored by the top brass. It also means that they get to hear and see a lot of things that the upper echelons take for granted.
+Most members of a ship's crew are expected to pull their weight when it comes to basic labor and such but a common cargo bay worker sees the lion's share of it. Hauling crates, equipment, vehicles and the like are an everyday duty for the bay worker and it makes them tough, strong and sometimes ignored by the top brass. It also means that they get to hear and see a lot of things that the upper echelons take for granted.
 
 | The bay worker is ... |                                                                                                                                                                                                        |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1                     | ...not a smart man when it comes to book learning but he has good street sense and is pretty sure he saw a few naval ensigns make off with a crate marked ‘medical’ before it went through security.   |
+| 1                     | ...not a smart man when it comes to book learning but he has good street sense and is pretty sure he saw a few naval ensigns make off with a crate marked 'medical' before it went through security.   |
 | 2 – 3                 | ...baffled by the amount of additional munitions that came in with the last shipment. A little checking shows it to be a misprint on the manifest and he needs some advice on how to get rid of it.    |
 | 4 – 5                 | ...an ex-marine who was honorably discharged due to a bad leg wound; he loves to hear what the old squads are up to.                                                                                   |
 | 6                     | ...trying to figure out how best to tell someone that he thinks he saw something he should not have while working after hours. It could get a lot of people in trouble and might endanger him as well. |
@@ -803,20 +803,20 @@ Most members of a ship’s crew are expected to pull their weight when it comes 
 
 Required Skills: None Required Equipment: Ship
 
-One of the ship’s loyal crew was injured recently and has been removed from the active duty roster. He might be shipped planetside for further evaluations if his condition is worse than the doctor thinks and it has put him in a foul mood, taking his unpleasantness out on others.
+One of the ship's loyal crew was injured recently and has been removed from the active duty roster. He might be shipped planetside for further evaluations if his condition is worse than the doctor thinks and it has put him in a foul mood, taking his unpleasantness out on others.
 
 | The wounded crewman is ... |                                                                                                                                                                                                                                  |
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                      | ...bitter that he was hurt outside of a combat situation and hates anyone who can survive the thick of battle unscathed.                                                                                                         |
-| 3 – 4                      | ...the unlucky ensign that caught a stray round from one of the characters’ weapons.                                                                                                                                             |
+| 3 – 4                      | ...the unlucky ensign that caught a stray round from one of the characters' weapons.                                                                                                                                             |
 | 5                          | ...sure that his injury was somehow the direct fault of one of the characters and is planning an elaborate revenge.                                                                                                              |
-| 6                          | ...dealing rather poorly with a ugly set of deep scars on his once handsome face and has stopped taking his anti-anxiety medication as well, turning him into an unstable threat to anyone who might be considered ‘attractive’. |
+| 6                          | ...dealing rather poorly with a ugly set of deep scars on his once handsome face and has stopped taking his anti-anxiety medication as well, turning him into an unstable threat to anyone who might be considered 'attractive'. |
 
 #### Brig Jailor
 
 Required Skills: None Required Equipment: Ship/Starbase
 
-Not always a military role, the Officer in charge of making sure the brig cells on a ship or starbase are ready to house drunks, criminals and the occasional refugee. When the cells are filled, it is the jailor’s job to make sure that they stay safe and more importantly – where they are!
+Not always a military role, the Officer in charge of making sure the brig cells on a ship or starbase are ready to house drunks, criminals and the occasional refugee. When the cells are filled, it is the jailor's job to make sure that they stay safe and more importantly – where they are!
 
 | The brig jailor is ... |                                                                                                                                                                                                                               |
 | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -828,7 +828,7 @@ Not always a military role, the Officer in charge of making sure the brig cells 
 
 Required Skills: None Required Equipment: None
 
-A military character’s life is hard enough as it is; performing all of the cold duties and orders they are given without pause. When the ever-watching and ever-judging eye of the media is lurking around, nothing they do seems to be right at all. This person is a reporter or informant for the greater force of the public media and they are not backing down in light of a good story.
+A military character's life is hard enough as it is; performing all of the cold duties and orders they are given without pause. When the ever-watching and ever-judging eye of the media is lurking around, nothing they do seems to be right at all. This person is a reporter or informant for the greater force of the public media and they are not backing down in light of a good story.
 
 | The media leak is ... |                                                                                                                                                                                                                |
 | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -854,7 +854,7 @@ There are fewer people in the military who love their jobs as much as the platfo
 
 Required Skills: None Required Equipment: MedBay
 
-Unlike a combat medic or ship’s doctor, larger vessels and facilities can have entire staffs of medical professionals on hand to deal with casualties and the everyday risks of life in the current age. While the doctors and higher-end staff are well paid, nurses tend to make middle-of-the-road wages for long hours, thankless duties and huge amounts of stress.
+Unlike a combat medic or ship's doctor, larger vessels and facilities can have entire staffs of medical professionals on hand to deal with casualties and the everyday risks of life in the current age. While the doctors and higher-end staff are well paid, nurses tend to make middle-of-the-road wages for long hours, thankless duties and huge amounts of stress.
 
 | The MedBay nurse is ... |                                                                                                                                                           |
 | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -873,7 +873,7 @@ When the military loans out its supplies from the armory, it is rarely returned 
 | ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                        | ...just getting off from a long shift of filling armor damage with poly-poxy and he needs a stiff drink and a long shower to get the chemical smell off of him. |
 | 3 – 4                        | ...delivering a patched suit of battle dress to the marine force commander and could use an extra set of hands to help him.                                     |
-| 5 – 6                        | ...a part-time black marketer of gear that ‘could not be repaired’ and is looking to make a few sales.                                                          |
+| 5 – 6                        | ...a part-time black marketer of gear that 'could not be repaired' and is looking to make a few sales.                                                          |
 
 #### Brig Escapee
 
@@ -893,19 +893,19 @@ It does not happen very often but occasionally someone manages to overpower thei
 
 Required Skills: None Required Equipment: None
 
-Although it takes months of being in the service to get accepted into the ranks of the Star Marines, it is a prestigious and monumentally important promotion in any soldier’s career. When they are green they sometimes forget what the uniform carries with it and this rookie still thinks of himself as just another marine – which makes him much easier to approach than a standard Star Marine.
+Although it takes months of being in the service to get accepted into the ranks of the Star Marines, it is a prestigious and monumentally important promotion in any soldier's career. When they are green they sometimes forget what the uniform carries with it and this rookie still thinks of himself as just another marine – which makes him much easier to approach than a standard Star Marine.
 
 | The rookie Star Marine is ... |                                                                                                                                                                              |
 | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                         | ...a little nervous to go on his first drop in the corps.                                                                                                                    |
-| 3 – 4                         | ...new to the area and trying to make a few friends outside of his unit but knows that he has to keep his contacts within the military or his squad will think he is ‘soft’. |
-| 5 – 6                         | ...just getting back from his first mission and wants to hit the Officers’ bar and tell his old friends what happened.                                                       |
+| 3 – 4                         | ...new to the area and trying to make a few friends outside of his unit but knows that he has to keep his contacts within the military or his squad will think he is 'soft'. |
+| 5 – 6                         | ...just getting back from his first mission and wants to hit the Officers' bar and tell his old friends what happened.                                                       |
 
 #### Naval Security Agent
 
 Required Skills: None Required Equipment: Ship
 
-A cross between military police Officer and ship security, naval security agents are investigators and enforcers of military law on board their ships. They are given a remarkable amount of power by the staff of a ship and often that power can go to their head. This means that some naval security agents believe themselves to be the law’s only real voice on their ship, making them somewhat above the law.
+A cross between military police Officer and ship security, naval security agents are investigators and enforcers of military law on board their ships. They are given a remarkable amount of power by the staff of a ship and often that power can go to their head. This means that some naval security agents believe themselves to be the law's only real voice on their ship, making them somewhat above the law.
 
 | The naval security agent is ... |                                                                                                                                                              |
 | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -917,26 +917,26 @@ A cross between military police Officer and ship security, naval security agents
 
 Required Skills: Advocate Required Equipment: None
 
-The academy sends students and instructors alike to where they will be plying their skills when they graduate, placing them on military compounds, bases and starships. Although no marine wants a ‘tagalong’ with them around the clock, they know that they could be dealing with the next junior Officer or flight deck administrator, so they have to try and do their best to teach them what they can.
+The academy sends students and instructors alike to where they will be plying their skills when they graduate, placing them on military compounds, bases and starships. Although no marine wants a 'tagalong' with them around the clock, they know that they could be dealing with the next junior Officer or flight deck administrator, so they have to try and do their best to teach them what they can.
 
 | The student of war is ... |                                                                                                                                                   |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                     | ...interested in what the marines do when they are not on active duty.                                                                            |
 | 3 – 4                     | ...looking for a good reason to join the marine corps over the naval flight schools.                                                              |
 | 5                         | ...highly skilled on the firing range and would like to have the characters give him a few tips from real combat to make him even better.         |
-| 6                         | ...the child of a rich industrialist looking for a few good soldiers to test out some new arms and equipment his father’s company is prototyping. |
+| 6                         | ...the child of a rich industrialist looking for a few good soldiers to test out some new arms and equipment his father's company is prototyping. |
 
 #### Anti-War Activist
 
 Required Skills: None Required Equipment: None
 
-This person is devoted to the demonstration of his dislike for his military’s attitude towards war and conflict. Whether or not he has any just grounds for his opinions, he is willing to go to great lengths to bring local and media attention to his activities with hopes of making some kind of impact on the government’s war choices.
+This person is devoted to the demonstration of his dislike for his military's attitude towards war and conflict. Whether or not he has any just grounds for his opinions, he is willing to go to great lengths to bring local and media attention to his activities with hopes of making some kind of impact on the government's war choices.
 
 | The anti-war activist is ... |                                                                                                                                 |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                        | ...a complete pacifist and non-combatant but has many tricks up his sleeves to try to stop conflicts.                           |
 | 3 – 4                        | ...a local media regular, with a large patronage of like-minded believers and allies.                                           |
-| 5 – 6                        | ...willing to perform acts of terrorism to try to open his government’s eyes in an ironic paradox of what he is trying to stop. |
+| 5 – 6                        | ...willing to perform acts of terrorism to try to open his government's eyes in an ironic paradox of what he is trying to stop. |
 
 #### Squadmate
 
@@ -947,9 +947,9 @@ A member of one of the squads that the characters performed duties with, this pe
 | The squadmate is ... |                                                                                                                                                                                                 |
 | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                | ...retired from the service and is glad to see that the characters are still active in some way since he has not been.                                                                          |
-| 3 – 4                | ...dying to hear the characters’ stories from what they have been up to since they stopped serving together.                                                                                    |
+| 3 – 4                | ...dying to hear the characters' stories from what they have been up to since they stopped serving together.                                                                                    |
 | 5                    | ...trying to re-live old times that the characters may or may not even remember from when they served together. Regardless, he is buying the drinks and wants to stay up telling old war tales. |
-| 6                    | ...looking for a good way to get the ‘old unit’ back together, even if it is just for drinks and food.                                                                                          |
+| 6                    | ...looking for a good way to get the 'old unit' back together, even if it is just for drinks and food.                                                                                          |
 
 #### Armory Mechanic
 
@@ -959,7 +959,7 @@ Like the armory technician, who fixes easily-replaced equipment that comes back 
 
 | The armory mechanic is ... |                                                                                                                                                                                 |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                      | ...blaming the characters for a missing shipment of armor plating that he needs to finish fixing a grav-tank he is supposed to have running for next week’s mission.            |
+| 1 – 2                      | ...blaming the characters for a missing shipment of armor plating that he needs to finish fixing a grav-tank he is supposed to have running for next week's mission.            |
 | 3 – 4                      | ...angry about having to scrap a project he was almost done with due to budget cuts, especially when he hears about all of the shiny new equipment the characters are carrying. |
 | 5 – 6                      | ...smuggling dangerous or illegal goods in and out of the base using his vehicle-parts orders.                                                                                  |
 
@@ -972,7 +972,7 @@ This professional legal advisor and mediator is often the closest thing that any
 | The ombudsman is ... |                                                                                                                                                                                 |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                | ...looking for a skilled and professional witness to interview concerning a special case he is dealing with and one of the characters is known for just the right skill needed. |
-| 3 – 4                | ...assigned to help one of the characters out of a minor legal problem, which he feels is ‘no big deal’.                                                                        |
+| 3 – 4                | ...assigned to help one of the characters out of a minor legal problem, which he feels is 'no big deal'.                                                                        |
 | 5 – 6                | ...trying to stay incognito while not dealing with legal matters and is hopeful that the local tavern will be the best place for such an evening.                               |
 
 MILITARY PATRONS
@@ -981,12 +981,12 @@ MILITARY PATRONS
 
 Required Skills: None Required Equipment: Ship
 
-After a military function of most varieties there are prisoners of war taken; these prisoners must be ferried from the point of their capture to the government’s desired holding facility. Placed in a brig or private room and placed under lock and key, a P.O.W. is not a common prisoner and should not be handled as one.
+After a military function of most varieties there are prisoners of war taken; these prisoners must be ferried from the point of their capture to the government's desired holding facility. Placed in a brig or private room and placed under lock and key, a P.O.W. is not a common prisoner and should not be handled as one.
 
 | The P.O.W. is ... |                                                                                                                                                                     |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2             | ...creating a makeshift knife in his cell and plans to use it to escape when his door his opened.                                                                   |
-| 3 – 4             | ...ready to tell his captors all about his home government’s secrets; it will be all lies of course but he will tell them with a great deal of flair and theatrics. |
+| 3 – 4             | ...ready to tell his captors all about his home government's secrets; it will be all lies of course but he will tell them with a great deal of flair and theatrics. |
 | 5                 | ...an older soldier with years of experience, making him more dangerous than he seems to be.                                                                        |
 | 6                 | ...a martyr and purposefully got himself captured in order to get onto the ship and cause some serious damage before dying for his cause.                           |
 
@@ -1000,26 +1000,26 @@ When spending weeks or months on a starship, collecting paychecks you cannot rea
 | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1                         | ...trying to start a new time and place for a higher-stakes game he wants to get going.                                                                    |
 | 2 – 3                     | ...looking for new players in a regular game he hosts in his quarters.                                                                                     |
-| 4 – 5                     | ...in need of a quick loan for a ‘sure thing’ he has planned for that evening.                                                                             |
+| 4 – 5                     | ...in need of a quick loan for a 'sure thing' he has planned for that evening.                                                                             |
 | 6                         | ...designing a fantastic new card game that honestly has a lot of potential but he needs people to start playing it around the ship for it to get popular. |
 
 #### Combat Evaluation Expert
 
 Required Skills: None Required Equipment: None
 
-The supporting government of the military occasionally wants to ensure that its soldiers are doing what they can in combat situations to preserve ammunition, keep collateral damage low and uphold the tenets of the government’s ideals. This classroom-trained ‘expert’ is sent into missions and garrisons with units in order to judge their performances – and perhaps cost them their funding levels.
+The supporting government of the military occasionally wants to ensure that its soldiers are doing what they can in combat situations to preserve ammunition, keep collateral damage low and uphold the tenets of the government's ideals. This classroom-trained 'expert' is sent into missions and garrisons with units in order to judge their performances – and perhaps cost them their funding levels.
 
 | The combat evaluation expert is ... |                                                                                                                                                       |
 | ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                               | ...a real cold and calculating judge of behavior. He says little and writes everything into his hand computer.                                        |
-| 3 – 4                               | ...a bitter cynic who thinks that the military spends too much money on technology when ‘a few more good bodies are all that matter in the trenches’. |
+| 3 – 4                               | ...a bitter cynic who thinks that the military spends too much money on technology when 'a few more good bodies are all that matter in the trenches'. |
 | 5 – 6                               | ...expecting to be bribed, wooed and cajoled into giving a good report. He is not planning to do so without such measures being taken.                |
 
 #### Widow(er)
 
 Required Skills: None Required Equipment: None
 
-The spouse and family of a fallen comrade or ally is never an easy thing to deal with but most units and agencies within the military do their best to take care of them. Losing a loved one is never easy but knowing that the fallen’s squadmates will always be there like a second family is comforting for many years to come.
+The spouse and family of a fallen comrade or ally is never an easy thing to deal with but most units and agencies within the military do their best to take care of them. Losing a loved one is never easy but knowing that the fallen's squadmates will always be there like a second family is comforting for many years to come.
 
 | The widow(er) is ... |                                                                                                                                                                 |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1036,7 +1036,7 @@ The few naval soldiers on a ship that are trained to perform boarding actions an
 
 | The naval breaching troop is ... |                                                                                                                                |
 | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| 1 – 2                            | ...a rookie in his field, making him even more belligerent and rude to the ‘unwanted’ marine troops on board his ship.         |
+| 1 – 2                            | ...a rookie in his field, making him even more belligerent and rude to the 'unwanted' marine troops on board his ship.         |
 | 3 – 4                            | ...disconcertingly quiet when around members of other branches of the military, giving him an air of judgmental elitism.       |
 | 5 – 6                            | ...an adrenaline junkie who is always looking for an argument when off-duty and picking on lone marines is his favorite hobby. |
 
@@ -1089,7 +1089,7 @@ Not all alien races are friendly toward the locals and this devoted terrorist is
 | The alien terrorist is ... |                                                                                                                                       |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                      | ...nothing short of a religious zealot and willing to martyr himself in order to cause as much damage as possible.                    |
-| 3 – 4                      | ...just trying to hurt the government’s equipment rather than its people but casualties are sometime unavoidable.                     |
+| 3 – 4                      | ...just trying to hurt the government's equipment rather than its people but casualties are sometime unavoidable.                     |
 | 5                          | ...an expert with high-tech explosives and mass-damage devices, making him very dangerous to civilians as well as military personnel. |
 | 6                          | ...a brainwashed operative that knows nothing but his hatred for enemy governments.                                                   |
 
@@ -1103,7 +1103,7 @@ Sometimes the best place to find out how an item will perform under pressure is 
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                    | ...bragging about his new advance in modern science and wants to show the characters how exactly his new plaything functions.                                                                           |
 | 3 – 4                    | ...willing to give one of the characters a chance at field testing the newest design from the R&D labs.                                                                                                 |
-| 5                        | ...looking for someone to ‘steal’ his latest creation, which he thought was going to be used for good purposes. When it was revealed to him how it was really going to be used, he had to do something. |
+| 5                        | ...looking for someone to 'steal' his latest creation, which he thought was going to be used for good purposes. When it was revealed to him how it was really going to be used, he had to do something. |
 | 6                        | ...loose-lipped about his inventions and devices, especially when there are drinks involved.                                                                                                            |
 
 #### Demoted Sergeant
@@ -1231,7 +1231,7 @@ This dedicated soldier has been given the duty and honor to lead a squad of his 
 | The squad leader is ... |                                                                                                      |
 | ----------------------- | ---------------------------------------------------------------------------------------------------- |
 | 1                       | ...looking for someone outside of his squad to lead a few of his specialists on a short mission.     |
-| 2 – 3                   | ...off duty and enjoying the local attractions but tries to remain in uniform to ‘show his colors’.  |
+| 2 – 3                   | ...off duty and enjoying the local attractions but tries to remain in uniform to 'show his colors'.  |
 | 4 – 5                   | ...mourning the loss of a few of his soldiers after a rough mission.                                 |
 | 6                       | ...worried that his squad is falling apart under his leadership and needs a boost to his confidence. |
 
@@ -1245,7 +1245,7 @@ Sometimes army life is just too much for a new recruit and they runaway from the
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                   | ...now wanted by local authorities for stealing transportation to get away from his base.                                                      |
 | 3 – 4                   | ...running from his unit because of some horrible thing that was done to him by fellow recruits and is now afraid of anyone wearing a uniform. |
-| 5 – 6                   | ...prepared to use what little army training he received to remain ‘free’.                                                                     |
+| 5 – 6                   | ...prepared to use what little army training he received to remain 'free'.                                                                     |
 
 #### Military Police Agent
 
@@ -1263,7 +1263,7 @@ The legal enforcers of the law on army bases and in military territories, the mi
 
 Required Skills: None Required Equipment: None
 
-This hard-nosed, merciless teacher of recruits is trained to be as unforgiving and harsh as possible during his students’ basic training, if only to weed out those who should not be soldiers. This tends to make all drill instructors almost universally hated.
+This hard-nosed, merciless teacher of recruits is trained to be as unforgiving and harsh as possible during his students' basic training, if only to weed out those who should not be soldiers. This tends to make all drill instructors almost universally hated.
 
 | The drill instructor is ... |                                                                                                                 |
 | --------------------------- | --------------------------------------------------------------------------------------------------------------- |
@@ -1279,10 +1279,10 @@ The scheduler and operator of the local motor pool, the manager can be a good fr
 
 | The motor pool manager is ... |                                                                                      |
 | ----------------------------- | ------------------------------------------------------------------------------------ |
-| 1 – 2                         | ...okay with renting some of the smaller vehicles ‘off the record’.                  |
+| 1 – 2                         | ...okay with renting some of the smaller vehicles 'off the record'.                  |
 | 3 – 4                         | ...looking for some help locating a stolen bike from the garage.                     |
 | 5                             | ...trying to fill a few extra shifts with freelance hands, if available.             |
-| 6                             | ...angry with the base commander and wants to make his personal vehicle ‘disappear’. |
+| 6                             | ...angry with the base commander and wants to make his personal vehicle 'disappear'. |
 
 #### Lance Corporal
 
@@ -1294,19 +1294,19 @@ It is not a rule that all military middle-ranked Officers have to be rude and po
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                     | ...arranging for a high-profile mission for whom he needs patsies to screw things up so he can sweep in and save the day. |
 | 3 – 4                     | ...completely self-serving and makes no attempt to hide it.                                                               |
-| 5 – 6                     | ...acting like he needs the characters’ help with something but he wants them out of his way when the general stops by.   |
+| 5 – 6                     | ...acting like he needs the characters' help with something but he wants them out of his way when the general stops by.   |
 
 #### Munitions Clerk
 
 Required Skills: None Required Equipment: Some ammunition-reliant weapon
 
-This specialist employee of the supply center is any firearms enthusiast’s best friend. It is his responsibility to store, count, manage and distribute ammunition on a personal scale. If it is shot from the shoulder, hip or on the fly without aid from a larger machine – he has what it fires.
+This specialist employee of the supply center is any firearms enthusiast's best friend. It is his responsibility to store, count, manage and distribute ammunition on a personal scale. If it is shot from the shoulder, hip or on the fly without aid from a larger machine – he has what it fires.
 
 | The munitions clerk is ... |                                                                                                                                          |
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                      | ...ready to start selling extra ammunition on the side.                                                                                  |
 | 3 – 4                      | ...trying to get rid of some experimental rounds that no one seems to want to use because of some potential hazards listed on the crate. |
-| 5 – 6                      | ...always adding extra rounds to everyone’s orders, making him very popular amongst the infantrymen.                                     |
+| 5 – 6                      | ...always adding extra rounds to everyone's orders, making him very popular amongst the infantrymen.                                     |
 
 #### Base Bully
 
@@ -1341,7 +1341,7 @@ There are a lot of goods and resources that a typical army base needs and agents
 
 | The commercial agent is ... |                                                                                                                                      |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| 1 – 2                       | ...selling camping and survival equipment but he is very careful to make sure that his buyers know there are ‘no refunds, not ever’. |
+| 1 – 2                       | ...selling camping and survival equipment but he is very careful to make sure that his buyers know there are 'no refunds, not ever'. |
 | 3 – 4                       | ...also selling goods to a rival government; along with secrets about the army bases he visits in the meantime.                      |
 | 5 – 6                       | ...unbelievably annoying and always underfoot.                                                                                       |
 
@@ -1362,13 +1362,13 @@ This individual has grown quite attached to one of the characters, creating some
 
 Required Skills: None Required Equipment: None
 
-This local policeman or peacekeeping Officer is rather resentful of the military’s presence in his local area and enjoys any chance he is given to make a soldier’s life just a little bit harder. Keeping the peace is not always his first priority.
+This local policeman or peacekeeping Officer is rather resentful of the military's presence in his local area and enjoys any chance he is given to make a soldier's life just a little bit harder. Keeping the peace is not always his first priority.
 
 | The civilian peace Officer is ... |                                                                                                                     |
 | --------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                             | ...unscrupulous and willing to take all sorts of bribes and liberties with how the law is supposed to work.         |
 | 3 – 4                             | ...ex-military; having been kicked out of the army for dishonorable conduct.                                        |
-| 5 – 6                             | ...harbouring some ill will toward the military due to his brother’s disappearance while on a mission for the army. |
+| 5 – 6                             | ...harbouring some ill will toward the military due to his brother's disappearance while on a mission for the army. |
 
 #### Bartender
 
@@ -1387,11 +1387,11 @@ There are few people off-base more important to a group of soldiers than the loc
 
 Required Skills: None Required Equipment: Ship
 
-When a navy ship comes to an army base or starport in order to pick up passengers to transport, Officers like this hard-edged man often mingle with the base population for several hours before lift off. They are not doing so out of camaraderie however, they are often doing so to gauge how big of a problem their ‘cargo’ is going to be during the trip.
+When a navy ship comes to an army base or starport in order to pick up passengers to transport, Officers like this hard-edged man often mingle with the base population for several hours before lift off. They are not doing so out of camaraderie however, they are often doing so to gauge how big of a problem their 'cargo' is going to be during the trip.
 
 | The naval Officer is ... |                                                                                                                                                            |
 | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                    | ...a junior member of the bridge crew but still has the captain’s ear. He dislikes passenger assignments, especially those dealing with ‘ground rats’.     |
+| 1 – 2                    | ...a junior member of the bridge crew but still has the captain's ear. He dislikes passenger assignments, especially those dealing with 'ground rats'.     |
 | 3 – 4                    | ...not skilled at hiding his distaste and distrust of the army.                                                                                            |
 | 5 – 6                    | ...trying to set up his captain for a large scale failure in order to take his place at the helm and plans on using a few expendable army grunts to do it. |
 
@@ -1399,19 +1399,19 @@ When a navy ship comes to an army base or starport in order to pick up passenger
 
 Required Skills: None Required Equipment: Heavy weapons platform
 
-Protecting the army’s installations and bases from vehicular attack, the turret gunner is a dedicated soldier who is trained in the art of blasting away at his foes with high-caliber or high-yield weaponry attached to mechanized defense turrets.
+Protecting the army's installations and bases from vehicular attack, the turret gunner is a dedicated soldier who is trained in the art of blasting away at his foes with high-caliber or high-yield weaponry attached to mechanized defense turrets.
 
 | The turret gunner is ... |                                                                                                                                                            |
 | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                    | ...always happy to invite fellow soldiers up into his gunnery turret; maybe even letting them fire a few rounds into safe targets.                         |
 | 3 – 4                    | ... suffering from a bad case of the shakes from a near miss that almost took out his turret.                                                              |
-| 5 – 6                    | ...worried his role in base defense is going to be made obsolete because of the new automated defense coming online around the army’s other installations. |
+| 5 – 6                    | ...worried his role in base defense is going to be made obsolete because of the new automated defense coming online around the army's other installations. |
 
 #### Forward Observer
 
 Required Skills: None Required Equipment: Artillery
 
-This fleet-footed soldier is sent out into a battlefield, uncharted terrain or wild frontiers with little more than survival gear and a laser-enhanced spotter system. His job is to ‘tag’ objects for artillery or orbital bombardment, which is not an easy or safe thing to do.
+This fleet-footed soldier is sent out into a battlefield, uncharted terrain or wild frontiers with little more than survival gear and a laser-enhanced spotter system. His job is to 'tag' objects for artillery or orbital bombardment, which is not an easy or safe thing to do.
 
 | The forward observer is ... |                                                                                                                                                          |
 | --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1426,20 +1426,20 @@ MILITARY PATRONS
 
 Required Skills: Persuade Required Equipment: None
 
-This influential and resourceful person is sometimes the only individual who can manage to get the right tool for the right job in a soldier’s hands in time to use it. Supply Officers hate them because they can often get what they cannot – and quicker. Soldiers love them for just that reason.
+This influential and resourceful person is sometimes the only individual who can manage to get the right tool for the right job in a soldier's hands in time to use it. Supply Officers hate them because they can often get what they cannot – and quicker. Soldiers love them for just that reason.
 
 | The arms dealer is ... |                                                                                                                                                                                                                             |
 | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                  | ...willing to work with the local army to get a shipment of very valuable and higher-tech weaponry from a less reputable source, as long as they are willing to pay for it.                                                 |
 | 3 – 4                  | ...looking to offload a few dozen grenades rather cheaply, as he cannot travel by conventional means with them in tow and does not want to find a smuggler for them.                                                        |
-| 5                      | ...looking for a group of willing subjects to test a crate of ‘questionable’ weaponry. He will cut them a huge break on the price if they like what they find. That is, if they work at all without killing the characters. |
+| 5                      | ...looking for a group of willing subjects to test a crate of 'questionable' weaponry. He will cut them a huge break on the price if they like what they find. That is, if they work at all without killing the characters. |
 | 6                      | ...having a close-out sale due to a legal infraction that has some bounty hunters headed his way – and fast.                                                                                                                |
 
 #### Computer Technician
 
 Required Skills: None Required Equipment: Computer
 
-Considered sometimes to be too smart for his own good, this well-educated tradesman specializes in the building, programming and repair of computer systems. In the age where computers operate most of the world’s systems and devices, it makes sense that he might have a bit of a god complex.
+Considered sometimes to be too smart for his own good, this well-educated tradesman specializes in the building, programming and repair of computer systems. In the age where computers operate most of the world's systems and devices, it makes sense that he might have a bit of a god complex.
 
 | The computer technician is ... |                                                                                                                                     |
 | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
@@ -1455,7 +1455,7 @@ Although jealous of soldiers that get to actually see the enemy as something oth
 
 | The artillerist is ... |                                                                                                                                                    |
 | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                  | ...worried that his team’s forward observer is not doing his job well enough and that his team has killed far too many non-hostiles because of it. |
+| 1 – 2                  | ...worried that his team's forward observer is not doing his job well enough and that his team has killed far too many non-hostiles because of it. |
 | 3 – 4                  | ...eager to hear about what close engagements with the enemy are like.                                                                             |
 | 5 – 6                  | ...a boisterous but jovial braggart about the number of confirmed enemy kills he has compared to any other soldier in the platoon.                 |
 
@@ -1480,7 +1480,7 @@ Much like a pilot in space, this person lives behind the drive console of an arm
 
 | The armor driver is ... |                                                                                                                                                                   |
 | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                   | ...looking for a few good souls willing to help him drive his favorite vehicle out to a freelancer who is going to ‘upgrade’ it for him, off the books of course. |
+| 1 – 2                   | ...looking for a few good souls willing to help him drive his favorite vehicle out to a freelancer who is going to 'upgrade' it for him, off the books of course. |
 | 3 – 4                   | ...a thrill-seeker and daredevil, which makes rides with him exciting in the very least.                                                                          |
 | 5 – 6                   | ...afraid he might be losing a prized piece of equipment from the motor pool, so he needs to make his last drive in it a good one.                                |
 
@@ -1492,9 +1492,9 @@ There are fewer people a career military man can meet more frustrating than a hi
 
 | The soldier-of-fortune is ... |                                                                                                                                       |
 | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                         | ...a former member of the character’s branch of the military and has made a fortune as a mercenary.                                   |
+| 1 – 2                         | ...a former member of the character's branch of the military and has made a fortune as a mercenary.                                   |
 | 3 – 4                         | ...very good at his job and has no qualms about letting everyone know all about it in great detail.                                   |
-| 5 – 6                         | ...looking to make a name for himself amongst the character’s branch of the military and will need to show them up in order to do so. |
+| 5 – 6                         | ...looking to make a name for himself amongst the character's branch of the military and will need to show them up in order to do so. |
 
 #### Civilian Hunter/Marksman
 
@@ -1513,7 +1513,7 @@ This person is somewhat of a local celebrity for his keen eye and sharp aim, mak
 
 Required Skills: None Required Equipment: None
 
-Any servant of the government is often considered to be ‘the law’ by this person, who has been arrested several times for petty crimes and misdemeanors. He is not a true bother to military types at the moment but he could graduate to serious crimes at any time.
+Any servant of the government is often considered to be 'the law' by this person, who has been arrested several times for petty crimes and misdemeanors. He is not a true bother to military types at the moment but he could graduate to serious crimes at any time.
 
 | The local criminal is ... |                                                                                                                  |
 | ------------------------- | ---------------------------------------------------------------------------------------------------------------- |
@@ -1550,7 +1550,7 @@ Hailing from an opposing alien culture, this basic infantryman seems to always b
 
 Required Skills: None Required Equipment: Atmospheric flyer
 
-This sky-jock is a friendly face from the hangar bay, hopping in and out of his flying craft between missions to chat with the ‘grounded folks’. He knows that very few ever get to see the world like he does and it keeps a perpetual smile on his face.
+This sky-jock is a friendly face from the hangar bay, hopping in and out of his flying craft between missions to chat with the 'grounded folks'. He knows that very few ever get to see the world like he does and it keeps a perpetual smile on his face.
 
 | The strato-pilot is ... |                                                                                                      |
 | ----------------------- | ---------------------------------------------------------------------------------------------------- |
@@ -1575,7 +1575,7 @@ Sometimes soldiers simply crack under the pressure and lose control of themselve
 
 Required Skills: None Required Equipment: None
 
-A devoted rifleman detached morally from his job, this person’s sole purpose in the army is to kill specific targets with a single pull of his trigger. He is a good ally to have hidden away on a battlefield and most army grunts prize their snipers more than just about anything else.
+A devoted rifleman detached morally from his job, this person's sole purpose in the army is to kill specific targets with a single pull of his trigger. He is a good ally to have hidden away on a battlefield and most army grunts prize their snipers more than just about anything else.
 
 | The army sniper is ... |                                                                                                                                                                                |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -1587,12 +1587,12 @@ A devoted rifleman detached morally from his job, this person’s sole purpose i
 
 Required Skills: None Required Equipment: None
 
-This militant member of the local civilian military-esque force feels very strongly that the government has no need for a true army and he is not shy about stating his opinions. He is quick to ridicule real army soldiers for being ‘part of the machine’ and has a great deal of distrust toward the government.
+This militant member of the local civilian military-esque force feels very strongly that the government has no need for a true army and he is not shy about stating his opinions. He is quick to ridicule real army soldiers for being 'part of the machine' and has a great deal of distrust toward the government.
 
 | The militiaman is ... |                                                                                                       |
 | --------------------- | ----------------------------------------------------------------------------------------------------- |
 | 1 – 2                 | ...going to do something drastic and high-profile to show the fallibility of the proper armed forces. |
-| 3 – 4                 | ...stockpiling illegal weaponry for his organization’s stand against outside influences.              |
+| 3 – 4                 | ...stockpiling illegal weaponry for his organization's stand against outside influences.              |
 | 5 – 6                 | ...not a bad person but he will do bad things in order to create the right to police himself.         |
 
 #### HST Training Instructor
@@ -1624,25 +1624,25 @@ This staunch scientist lives most of his life in a sterile laboratory where he d
 
 Required Skills: None Required Equipment: None
 
-An old friend from basic training, university or a past career, this person has a large and deep competitive streak. He always wants to do better than his friends, often causing them to strive to farther lengths in order to ‘beat’ him.
+An old friend from basic training, university or a past career, this person has a large and deep competitive streak. He always wants to do better than his friends, often causing them to strive to farther lengths in order to 'beat' him.
 
 | The friendly rival is ... |                                                                                                                                      |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| 1 – 2                     | ...mostly harmless but does tend to use bragging and ‘one-upping’ to get one over on his friends.                                    |
+| 1 – 2                     | ...mostly harmless but does tend to use bragging and 'one-upping' to get one over on his friends.                                    |
 | 3 – 4                     | ...receiving a prestigious award for some important local service and wants the characters to come and see him accept it.            |
-| 5                         | ...tired of being ‘the best’ at an old game and is now trying a new and dangerous sport that he wants the characters to join him in. |
+| 5                         | ...tired of being 'the best' at an old game and is now trying a new and dangerous sport that he wants the characters to join him in. |
 | 6                         | ...also a gambler and is just as competitive at the game tables as he is in most other things.                                       |
 
 #### Infamous Platoon Leader
 
 Required Skills: Admin Required Equipment: None
 
-While a good reputation takes forever to build in the army, it did not take too long for this platoon leader’s bad one to get around. For whatever reason, the soldiers in his platoon despise him and his decisions –seemingly with good reason to do so.
+While a good reputation takes forever to build in the army, it did not take too long for this platoon leader's bad one to get around. For whatever reason, the soldiers in his platoon despise him and his decisions –seemingly with good reason to do so.
 
 | The infamous platoon leader is ... |                                                                                                                         |
 | ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                              | ...responsible for bad coordinates on an ortillery strike that killed half of a friendly unit in his last conflict.     |
-| 3 – 4                              | ...unapologetic for the lives he throws away on the battlefield; earning him the nickname of ‘The Butcher’.             |
+| 3 – 4                              | ...unapologetic for the lives he throws away on the battlefield; earning him the nickname of 'The Butcher'.             |
 | 5                                  | ...afraid of real combat and conflict, making him far too reluctant to commit forces and he never joins them in battle. |
 | 6                                  | ...utterly incompetent and it is a complete mystery as to why and how he still retains command of so many lives.        |
 
@@ -1650,7 +1650,7 @@ While a good reputation takes forever to build in the army, it did not take too 
 
 Required Skills: Admin Required Equipment: None
 
-This middle-graded Officer tends to the needs of the support staff on a battlefield, making sure that the artillery teams and evacuation vehicles are in working order. Knowing that this diligent soldier is at the force’s back helps many commanding unit leaders push forward toward the enemy.
+This middle-graded Officer tends to the needs of the support staff on a battlefield, making sure that the artillery teams and evacuation vehicles are in working order. Knowing that this diligent soldier is at the force's back helps many commanding unit leaders push forward toward the enemy.
 
 | The rear echelon Officer is ... |                                                                                                                                     |
 | ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
@@ -1680,7 +1680,7 @@ The chief leader of the army forces, the general is the top rung of the executiv
 | The general is ... |                                                                                                                                                     |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2              | ...on a public relations tour through the ranks of his army, enjoying the company of several units wherever he goes.                                |
-| 3 – 4              | ...seeking a team of professionals who can ‘take care of’ a problem that he cannot assign official troops to.                                       |
+| 3 – 4              | ...seeking a team of professionals who can 'take care of' a problem that he cannot assign official troops to.                                       |
 | 5 – 6              | ...an old codger looking to retire soon but wants to live out his last few months in uniform as well-loved and respected by his troops as possible. |
 
 #### Unknown Alien Hostile
@@ -1691,13 +1691,13 @@ This unexpected inhabitant of the area is much like any other new sentient lifef
 
 | The unknown alien hostile is ... |                                                                                                                |
 | -------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                            | ...hiding from his own species’ government and will kill to defend his solitude.                               |
+| 1 – 2                            | ...hiding from his own species' government and will kill to defend his solitude.                               |
 | 3 – 4                            | ...actually more frightened of the characters than he lets on.                                                 |
 | 5 – 6                            | ...the first of many examples of his species that the characters will find – all of them hostile towards them. |
 
 ## Spacer Patrons
 
-There are many careers in Traveller that are involved with or rely upon the use of space travel and starships but there are a select few who could not exist very well without it. These careers collectively are known as ‘spacer careers’, even if an individual member of it does not ever step onto a spacecraft. Spacers, as they are sometimes nicknamed along with any other spaceborne traveller, can run into a cast of many different and interesting people.
+There are many careers in Traveller that are involved with or rely upon the use of space travel and starships but there are a select few who could not exist very well without it. These careers collectively are known as 'spacer careers', even if an individual member of it does not ever step onto a spacecraft. Spacers, as they are sometimes nicknamed along with any other spaceborne traveller, can run into a cast of many different and interesting people.
 
 ### Scout
 
@@ -1774,7 +1774,7 @@ Scouts gain access to a great deal of sensitive information and classified data 
 | The spy is ... |                                                                                                                        |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2          | ...not actually on assignment but is always on the search for good and useful information.                             |
-| 3 – 4          | ...a double-agent from the character’s own government or organization.                                                 |
+| 3 – 4          | ...a double-agent from the character's own government or organization.                                                 |
 | 5 – 6          | ...acquiring sensitive information about one of the characters for a private source that might surprise the character. |
 
 #### Scientist
@@ -1788,7 +1788,7 @@ This expert in his field spent many long years at university and in other traini
 | 1 – 2                | ...looking for a knowledgeable person to bounce a few high-theory ideas off of.                                                          |
 | 3 – 4                | ...in need of someone to sign off on his newest project hypothesis, even if that person only has a rudimentary learning of the material. |
 | 5                    | ...celebrating a major breakthrough and is looking for some old friends to enjoy a night on the town.                                    |
-| 6                    | ...about to finish a sensitive project that could revolutionize the characters’ lives.                                                   |
+| 6                    | ...about to finish a sensitive project that could revolutionize the characters' lives.                                                   |
 
 #### Cyber-Pirate
 
@@ -1799,7 +1799,7 @@ A galactic vulture that picks the metal from the bones of any victims he finds, 
 | The cyber-pirate is ... |                                                                                                                                                      |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1                       | ...on the trail of an illegal cyber-doc travelling with a load of parts for the taking. He needs the characters to help him find where the doc went. |
-| 2 – 3                   | ...more than willing to kill to get the implants out of someone’s body.                                                                              |
+| 2 – 3                   | ...more than willing to kill to get the implants out of someone's body.                                                                              |
 | 4 – 5                   | ...trying to use any gossip and information the characters might have to seek out places where implant-laden bodies could be left behind.            |
 | 6                       | ...nothing more than an opportunistic grave robber.                                                                                                  |
 
@@ -1825,7 +1825,7 @@ This is just one of many settlers and explorers outside of the scouting organiza
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                   | ...running dangerously short of supplies.                                                                                          |
 | 3 – 4                   | ...out on the fringe to get away from prying eyes and governmental agents, making him suspicious of the arrival of the characters. |
-| 5 – 6                   | ...actually stranded on the planet due to a ship malfunction and would love to steal a new way off his ‘prison’.                   |
+| 5 – 6                   | ...actually stranded on the planet due to a ship malfunction and would love to steal a new way off his 'prison'.                   |
 
 #### Star Courier
 
@@ -1859,7 +1859,7 @@ This mechanical technician is one of the best friends a scout can hope to have, 
 
 | The ship technician is ... |                                                                                      |
 | -------------------------- | ------------------------------------------------------------------------------------ |
-| 1 – 2                      | ...always looking forward to the next time he gets to get into a ship’s engine room. |
+| 1 – 2                      | ...always looking forward to the next time he gets to get into a ship's engine room. |
 | 3 – 4                      | ...old and ready to retire but loves his job too much to do so.                      |
 | 5 – 6                      | ...between ship assignments and is looking for a new ship to work upon.              |
 
@@ -1871,7 +1871,7 @@ This cunning and dastardly trader of living souls makes his living capturing, bu
 
 | The slaver is ... |                                                                                                   |
 | ----------------- | ------------------------------------------------------------------------------------------------- |
-| 1 – 2             | ...chasing down a ‘shipment’ of slaves that he lost in the vicinity.                              |
+| 1 – 2             | ...chasing down a 'shipment' of slaves that he lost in the vicinity.                              |
 | 3 – 4             | ...a truly evil person that wants to sell the characters to an interstellar gladiatorial circuit. |
 | 5                 | ...on the run from local authorities.                                                             |
 | 6                 | ...part of a much bigger criminal organization that employs dozens of slavers like him.           |
@@ -1917,7 +1917,7 @@ A friend to the scouts, this map specialist makes his living drawing up routes a
 
 Required Skills: None Required Equipment: None
 
-Venturing into space in search of samples specific to his employer’s needs, this acquisition specialist is little more than a personal assistant to whatever project he happens to be on. If his employers need soil samples, atmosphere scans or even lifeform cultures, he is the one sent to fetch them.
+Venturing into space in search of samples specific to his employer's needs, this acquisition specialist is little more than a personal assistant to whatever project he happens to be on. If his employers need soil samples, atmosphere scans or even lifeform cultures, he is the one sent to fetch them.
 
 | The research collector is ... |                                                                                                                             |
 | ----------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
@@ -1929,7 +1929,7 @@ Venturing into space in search of samples specific to his employer’s needs, th
 
 Required Skills: None Required Equipment: None
 
-The scouts often work in tandem with the navy and other armed forces, especially when they find a piece of galactic frontier that needs ‘pacification’ before colonization can occur. This seasoned soldier relies on the information from allied scouts to make the safest maneuvers he can.
+The scouts often work in tandem with the navy and other armed forces, especially when they find a piece of galactic frontier that needs 'pacification' before colonization can occur. This seasoned soldier relies on the information from allied scouts to make the safest maneuvers he can.
 
 | The military squad leader is ... |                                                                                             |
 | -------------------------------- | ------------------------------------------------------------------------------------------- |
@@ -1947,7 +1947,7 @@ Deep in the wilderness there are some people and cultures that are simply not ci
 | The savage is ... |                                                                                                                           |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2             | ...actually a member of a flesh-eating cannibal culture native to the area.                                               |
-| 3                 | ...from an advanced civilization that has chosen to live like savages in lieu of the ‘corruption’ that technology brings. |
+| 3                 | ...from an advanced civilization that has chosen to live like savages in lieu of the 'corruption' that technology brings. |
 | 4                 | ...a religious zealot from a local cult of xenophobes.                                                                    |
 | 5 – 6             | ...frightened by loud noises or bright flashes of light.                                                                  |
 
@@ -1961,7 +1961,7 @@ Scouts come into contact with many other spacers in their line of work and this 
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1 – 2                        | ...offering special two-for-one sales on most of his common equipment.                                                                                                                                 |
 | 3 – 4                        | ...not often an arms dealer but has a shipment of civilian-grade sidearms he would like to unload.                                                                                                     |
-| 5 – 6                        | ...looking for a good escort to his next merchants’ symposium. He will pay in wages or credit towards purchases at the symposium – which is sure to have a little bit of everything for sale or trade. |
+| 5 – 6                        | ...looking for a good escort to his next merchants' symposium. He will pay in wages or credit towards purchases at the symposium – which is sure to have a little bit of everything for sale or trade. |
 
 #### Junk Dealer
 
@@ -1969,7 +1969,7 @@ Required Skills: None Required Equipment: Computer
 
 Plying the space lanes looking for derelicts and heaps of scrap to
 claim legally or illegally; this underhanded salvage expert hates
-seeing ‘meddling scouts’ poking their noses into his corner of the
+seeing 'meddling scouts' poking their noses into his corner of the
 galaxy. They only seem to make his job more difficult, so he will do
 the same to them.
 
@@ -1992,7 +1992,7 @@ Most galactic cultures have scouts of some variety but some are employed by reli
 
 | The alien pilgrim is ... |                                                                                           |
 | ------------------------ | ----------------------------------------------------------------------------------------- |
-| 1 – 2                    | ...looking for the holy lands as written in his people’s ancient texts.                   |
+| 1 – 2                    | ...looking for the holy lands as written in his people's ancient texts.                   |
 | 3 – 4                    | ...part of a religion that cherishes hospitality, peace and generosity.                   |
 | 5 – 6                    | ...separated from the rest of his pilgrimage and needs help returning to the ship convoy. |
 
@@ -2000,7 +2000,7 @@ Most galactic cultures have scouts of some variety but some are employed by reli
 
 Required Skills: None Required Equipment: None
 
-There is little more that will upset this local wilderness expert than the presence of a ‘know-it-all’ scout or some self-righteous galactic traveller. He feels that no one knows his turf better than him and not hiring him to explore it would be a huge mistake.
+There is little more that will upset this local wilderness expert than the presence of a 'know-it-all' scout or some self-righteous galactic traveller. He feels that no one knows his turf better than him and not hiring him to explore it would be a huge mistake.
 
 | The local guide is ... |                                                                                                               |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------- |
@@ -2016,7 +2016,7 @@ This worried and confused individual is one of tens of thousands of galactic tra
 
 | The wayward traveller is ... |                                                                                          |
 | ---------------------------- | ---------------------------------------------------------------------------------------- |
-| 1 – 2                        | ...thankful that the characters might be able to help him get back to ‘civilized’ space. |
+| 1 – 2                        | ...thankful that the characters might be able to help him get back to 'civilized' space. |
 | 3 – 4                        | ...quite wealthy and willing to pay handsomely for a ride.                               |
 | 5                            | ...someone important where he comes from, making a reward for his return quite likely.   |
 | 6                            | ...a child left behind accidentally.                                                     |
@@ -2031,7 +2031,7 @@ Pirates often attack vessels for loot and raiders for cargo but this criminal ta
 | --------------------- | ----------------------------------------------------------------------------------------------------- |
 | 1 – 2                 | ...actually a sort of pacifist that does not like to hurt people, just steal their ships.             |
 | 3 – 4                 | ...in debt to a bigger criminal organization, making his thefts actually the work of a larger threat. |
-| 5 – 6                 | ...callous and cold, caring nothing at all for other peoples’ lives.                                  |
+| 5 – 6                 | ...callous and cold, caring nothing at all for other peoples' lives.                                  |
 
 #### Returning Scout
 
@@ -2057,7 +2057,7 @@ Most scouts work for a government or large organization, exploring the galaxy fo
 | 1 – 2                         | ...trying desperately to get a job to get his ship out of an impound and thinks the characters will ruin his chances. |
 | 3 – 4                         | ...actually very skilled, making him more frustrated when he loses out to a lower-paid scout.                         |
 | 5                             | ...responsible for several misleading or incorrect maps of the area.                                                  |
-| 6                             | ...a con artiste that ‘explores’ for a few days and brings back nothing of value to his employers.                    |
+| 6                             | ...a con artiste that 'explores' for a few days and brings back nothing of value to his employers.                    |
 
 #### Local Noble
 
@@ -2092,21 +2092,21 @@ Knowing that there are professional explorers and frontiersmen around can someti
 | The civilian watchman is ... |                                                                                                                 |
 | ---------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                        | ...hoping someone will help him catch a ring of criminals hiding in the local wilderness.                       |
-| 3 – 4                        | ...old and infirm, which has contributed to the area’s decline in proper policing.                              |
+| 3 – 4                        | ...old and infirm, which has contributed to the area's decline in proper policing.                              |
 | 5 – 6                        | ...looking for a few deputies for a couple days; just until he solves the case that he is currently working on. |
 
 #### Local Celebrity
 
 Required Skills: None Required Equipment: None
 
-This person is someone special in the local media circuit, with a famous face and name. When something occurs in the area that steals some of the spotlight, such as the characters’ arrival, his ego can be bruised and his temper flared.
+This person is someone special in the local media circuit, with a famous face and name. When something occurs in the area that steals some of the spotlight, such as the characters' arrival, his ego can be bruised and his temper flared.
 
 | The local celebrity is ... |                                                                                                 |
 | -------------------------- | ----------------------------------------------------------------------------------------------- |
 | 1 – 2                      | ...dealing with a recent scandal and plans to use the characters to help him regain his status. |
 | 3 – 4                      | ...going to use his influence to force the characters to move on.                               |
 | 5                          | ...assured that the media wants to see him working with the characters.                         |
-| 6                          | ...an addict to a controlled substance that he needs someone ‘not-famous’ to obtain for him.    |
+| 6                          | ...an addict to a controlled substance that he needs someone 'not-famous' to obtain for him.    |
 
 #### Star Ferry Captain
 
@@ -2116,7 +2116,7 @@ This starship pilot and commander makes his living by ferrying passengers from p
 
 | The star ferry captain is ... |                                                                                                                                |
 | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| 1 – 2                         | ...heading in the right direction for the characters’ current path.                                                            |
+| 1 – 2                         | ...heading in the right direction for the characters' current path.                                                            |
 | 3 – 4                         | ...willing to negotiate services for passage.                                                                                  |
 | 5 – 6                         | ...interested in knowing about where the characters have travelled from because he just so happens to be headed that way next. |
 
@@ -2129,7 +2129,7 @@ Not all applicants are allowed to search the frontier as a proper scout; sometim
 | The wannabe scout is ... |                                                                                                              |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------ |
 | 1 – 2                    | ...a bad liar, especially about all of the places he has never been and likely never will.                   |
-| 3 – 4                    | ...feeling that his tall tales about being a scout will be seen through because of the characters’ presence. |
+| 3 – 4                    | ...feeling that his tall tales about being a scout will be seen through because of the characters' presence. |
 | 5 – 6                    | ...going to try and hitch a ride, wanted or not, with the characters when they leave the area.               |
 
 #### Senior Scout
@@ -2179,7 +2179,7 @@ There is always a form of open leader to the populations of the galaxy. Whether 
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                      | ...in need of non-governmental professionals to help protect his locals from an outside threat.                           |
 | 3 – 4                      | ...trying to organize a celebration for a local holiday.                                                                  |
-| 5 – 6                      | ...interested in the characters’ teaching his people some skills and talents, which they have learned from their travels. |
+| 5 – 6                      | ...interested in the characters' teaching his people some skills and talents, which they have learned from their travels. |
 
 #### Psionist-in-Exile
 
@@ -2202,9 +2202,9 @@ This example of a heightened alien species is interested in the comings and goin
 
 | The advanced alien is ... |                                                                                                                  |
 | ------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                     | ...nervous in general due to only recently left his own species’ homeworld for the first time.                   |
+| 1 – 2                     | ...nervous in general due to only recently left his own species' homeworld for the first time.                   |
 | 3 – 4                     | ...a peace-loving creature that will use his powerful technologies to protect the characters when he is present. |
-| 5 – 6                     | ...a diplomatic envoy that desperately wants to make friends with the characters’ government.                    |
+| 5 – 6                     | ...a diplomatic envoy that desperately wants to make friends with the characters' government.                    |
 
 #### Frontier Commander
 
@@ -2216,7 +2216,7 @@ The leader of the scout program along the edges of known space, this skilled and
 | ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                         | ...putting together a very special mission team to go to a dangerous area of frontier space.                                                  |
 | 3 – 4                         | ...wanting to join a team on a mission.                                                                                                       |
-| 5                             | ...campaigning for a fellow senior scout to be promoted to commander but needs signatures and testimonies as to the senior scout’s abilities. |
+| 5                             | ...campaigning for a fellow senior scout to be promoted to commander but needs signatures and testimonies as to the senior scout's abilities. |
 | 6                             | ...holding a gathering of explorers to discuss a potentially enormous change to the galactic map.                                             |
 
 ### Merchant
@@ -2282,7 +2282,7 @@ Always willing to help out someone in a monetary bind in return for terrible int
 | --------------------- | ------------------------------------------------------------------------------------------------------------ |
 | 1 – 2                 | ...the hub of a local criminal organization.                                                                 |
 | 3 – 4                 | ...underhanded and despicable to the point of threatening family and friends for even the smallest of debts. |
-| 5 – 6                 | ...offering the characters a chance to exchange a single important ‘favor’ for their debts being paid.       |
+| 5 – 6                 | ...offering the characters a chance to exchange a single important 'favor' for their debts being paid.       |
 
 #### Consumer
 
@@ -2341,7 +2341,7 @@ This soldier is assigned to the garrison on board of a merchant trader vessel an
 
 | The merchant marine commando is ... |                                                                                                         |
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| 1 – 2                               | ...ex-military but still wants to be ‘active’.                                                          |
+| 1 – 2                               | ...ex-military but still wants to be 'active'.                                                          |
 | 3 – 4                               | ...vested in the profits of the trader ship due to his ship shares.                                     |
 | 5 – 6                               | ...a recognized hero on the ship, having been responsible for protecting the merchants dozens of times. |
 
@@ -2365,7 +2365,7 @@ Making some credits from the cockpit of his cruiser, this skilled pilot hires hi
 
 | The escort pilot is ... |                                                                                                                    |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| 1 – 2                   | ...an old friend of the trade ship’s captain.                                                                      |
+| 1 – 2                   | ...an old friend of the trade ship's captain.                                                                      |
 | 3 – 4                   | ...a veteran escort; he knows the best routes as well as the best tactics to get safely from one place to another. |
 | 5 – 6                   | ...willing to trade shares in the profit for his services instead of payment up front.                             |
 
@@ -2390,7 +2390,7 @@ There is a lot of classified information and sensitive data that exists within t
 
 | The commercial informant is ... |                                                                                                                                                                           |
 | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                           | ...carrying the future sales inventory of the characters’ chief rival competitor.                                                                                         |
+| 1 – 2                           | ...carrying the future sales inventory of the characters' chief rival competitor.                                                                                         |
 | 3 – 4                           | ...looking to sell the location of a brand new galactic marketplace flotilla that is not scheduled to open for six months – perfect timing to get in on the ground floor. |
 | 5 – 6                           | ...willing to go on retainer with the right merchant who wants a steady spy on his competition.                                                                           |
 
@@ -2414,7 +2414,7 @@ In charge of the operation and supply for a sales kiosk, possibly on a marketpla
 
 | The kiosk manager is ... |                                                                                                                                |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
-| 1 – 2                    | ...in search for the ‘perfect item’ to base his next big sale around.                                                          |
+| 1 – 2                    | ...in search for the 'perfect item' to base his next big sale around.                                                          |
 | 3 – 4                    | ...looking for exactly what the characters have to offer but perhaps at a slight discount for the volume he wants to purchase. |
 | 5 – 6                    | ...ready to negotiate a constant supply contract with a merchant character.                                                    |
 
@@ -2427,7 +2427,7 @@ This merciless lawyer works for one of the power conglomerates that exist throug
 | The corporate litigator is ... |                                                                                                                                                              |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1 – 2                          | ...trying to serve a litigation summons to a friend of one of the characters, possibly using them to unearth the target.                                     |
-| 3 – 4                          | ...on a fact-finding mission about a local merchant’s commercial strengths and business practices.                                                           |
+| 3 – 4                          | ...on a fact-finding mission about a local merchant's commercial strengths and business practices.                                                           |
 | 5                              | ...serving dozens of minor legal actions against the minor shops and kiosks in the area with the hopes of pushing them out and opening a corporate megaplex. |
 | 6                              | ...targeting one of the characters for a lawsuit.                                                                                                            |
 
@@ -2435,7 +2435,7 @@ This merciless lawyer works for one of the power conglomerates that exist throug
 
 Required Skills: None Required Equipment: None
 
-A merchant’s life revolves around his ability to make money in his dealings and this financially savvy price and profit negotiator can be a big help with that. He enjoys the successes in his work enough to want to work hard but he also enjoys his cut off the top as well.
+A merchant's life revolves around his ability to make money in his dealings and this financially savvy price and profit negotiator can be a big help with that. He enjoys the successes in his work enough to want to work hard but he also enjoys his cut off the top as well.
 
 | The amiable broker is ... |                                                                                                                |
 | ------------------------- | -------------------------------------------------------------------------------------------------------------- |
@@ -2451,7 +2451,7 @@ The men and women that work for the various mercantile distribution companies ar
 
 | The distribution agent is ... |                                                                                       |
 | ----------------------------- | ------------------------------------------------------------------------------------- |
-| 1 – 2                         | ...trying to make some extra credits by charging ‘handling fees’ on his transactions. |
+| 1 – 2                         | ...trying to make some extra credits by charging 'handling fees' on his transactions. |
 | 3 – 4                         | ...peddling substandard goods for elevated prices.                                    |
 | 5 – 6                         | ...part of a larger conspiracy to inflate the prices of a specific type of goods.     |
 
@@ -2464,8 +2464,8 @@ This professional advertising marketer makes it his job to take a product, place
 | The advertising agent is ... |                                                                                                       |
 | ---------------------------- | ----------------------------------------------------------------------------------------------------- |
 | 1–2                          | ...trying to fill an unexpected empty slot in his main publication.                                   |
-| 3 – 4                        | ...a big fan of one of the character’s chief exports or goods and wants to work with them to sell it. |
-| 5 – 6                        | ...willing to try a new and bold outlook on the campaign for one of the character’s sale items.       |
+| 3 – 4                        | ...a big fan of one of the character's chief exports or goods and wants to work with them to sell it. |
+| 5 – 6                        | ...willing to try a new and bold outlook on the campaign for one of the character's sale items.       |
 
 #### Competing Trade Captain
 
@@ -2527,18 +2527,18 @@ Merchant characters deal with lots of different people who do lots of different 
 | ------------------------------ | ---------------------------------------------------------------------------------------------- |
 | 1 – 2                          | ...stealing a single piece of any quantity he handles, later selling them on the black market. |
 | 3 – 4                          | ...lying to cover up sloppy work and a bad work ethic.                                         |
-| 5                              | ...recording important or sensitive information to sell to his employer’s competition.         |
+| 5                              | ...recording important or sensitive information to sell to his employer's competition.         |
 | 6                              | ...preparing to take a great deal of goods in a big theft.                                     |
 
 #### Ship Salesman
 
 Required Skills: Persuade Required Equipment: None
 
-This charismatic and charming salesman is involved with the high-credit deals concerning the buying and selling of starships. He understands the power of ship shares and the average purchaser’s belief in what they mean toward ship ownership.
+This charismatic and charming salesman is involved with the high-credit deals concerning the buying and selling of starships. He understands the power of ship shares and the average purchaser's belief in what they mean toward ship ownership.
 
 | The ship salesman is ... |                                                                                                               |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                    | ...willing to sell ship shares on a ‘buy two, get one free’ basis.                                            |
+| 1 – 2                    | ...willing to sell ship shares on a 'buy two, get one free' basis.                                            |
 | 3 – 4                    | ...sitting on an impounded escort cutter that he can get rid of cheaply in forty-eight hours.                 |
 | 5 – 6                    | ...not selling to the characters but rather hoping to use them to get him back to the shipyard he works from. |
 
@@ -2546,7 +2546,7 @@ This charismatic and charming salesman is involved with the high-credit deals co
 
 Required Skills: Persuade Required Equipment: Goods for Sale
 
-It is the seller’s job in any transaction to get the most out of a buyer and the buyer must try to pay the least possible sum for the goods that he wants. This clever consumer is a master at the art of commercial haggling, even when it is not necessary.
+It is the seller's job in any transaction to get the most out of a buyer and the buyer must try to pay the least possible sum for the goods that he wants. This clever consumer is a master at the art of commercial haggling, even when it is not necessary.
 
 | The haggler is ... |                                                                                                                            |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------- |
@@ -2588,20 +2588,20 @@ In the chaotic world of interstellar commerce there are many dangers and most me
 | The merchant captain is ... |                                                                                                             |
 | --------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | 1 – 2                       | ...suffering from a lack of able-bodied crewmen and would like some help for the next leg of his trip.      |
-| 3 – 4                       | ...willing to share his escort with the characters’ ship.                                                   |
+| 3 – 4                       | ...willing to share his escort with the characters' ship.                                                   |
 | 5 – 6                       | ...looking for a team that he can trust to get him to a rather large commercial trade in hostile territory. |
 
 #### Safety Technician
 
 Required Skills: None Required Equipment: Ship/Starbase
 
-This mechanic/electrician is somewhat of a stickler for the little things, which makes him perfect for his job. It is his responsibility to go onto spacecraft and into public areas and determine what is considered ‘safe’.
+This mechanic/electrician is somewhat of a stickler for the little things, which makes him perfect for his job. It is his responsibility to go onto spacecraft and into public areas and determine what is considered 'safe'.
 
 | The safety technician is ... |                                                                                                                                          |
 | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                        | ...upset that he could not make it into the naval academy and plans to take it out on every ship he can.                                 |
 | 3 – 4                        | ...very picky about what he marks things off for, costing the characters a large amount of money to bring their ship back to regulation. |
-| 5 – 6                        | ...willing and expecting to take several bribes to pass the characters’ things through inspection.                                       |
+| 5 – 6                        | ...willing and expecting to take several bribes to pass the characters' things through inspection.                                       |
 
 #### Market Manager
 
@@ -2626,7 +2626,7 @@ While not directly in control of the day to day activities in his store, this co
 | 1 – 2                 | ...utterly detached from how the retail industry works, making him frustrated when things do not turn out the way that he wants them to. |
 | 3 – 4                 | ...a complete bigot against a specific race or species.                                                                                  |
 | 5                     | ...trying to find a way to buy goods cheaper in order to increase his profit margins.                                                    |
-| 6                     | ...obsessed with the idea of ‘getting one over’ on his suppliers.                                                                        |
+| 6                     | ...obsessed with the idea of 'getting one over' on his suppliers.                                                                        |
 
 #### Underworlder
 
@@ -2638,13 +2638,13 @@ As a member of the criminal underground, this morally ambivalent individual is w
 | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                   | ...looking to offload some dangerous and illegal gear to anyone that can meet his somewhat low pricing.                                            |
 | 3 – 4                   | ...about to meet with one of the most powerful people in the entire sector and will take the characters along if they promise not to make trouble. |
-| 5 – 6                   | ...going to tell his friends about the merchant character’s ‘specials’, drumming up a lot of criminal business for him.                            |
+| 5 – 6                   | ...going to tell his friends about the merchant character's 'specials', drumming up a lot of criminal business for him.                            |
 
 #### Replica Peddler
 
 Required Skills: Investigate Required Equipment: None
 
-This dishonest charlatan creates and sells cheaply made replicas of expensive objects. Most commonly dealing in art or other items with high values difficult to prove at the time of sale, this bad example of a merchant can ruin the general public’s opinion of all traders.
+This dishonest charlatan creates and sells cheaply made replicas of expensive objects. Most commonly dealing in art or other items with high values difficult to prove at the time of sale, this bad example of a merchant can ruin the general public's opinion of all traders.
 
 | The replica peddler is ... |                                                                                                                            |
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
@@ -2681,7 +2681,7 @@ Leader of a group of criminal rogues, bandits and space pirates, this scoundrel 
 
 Required Skills: Persuade Required Equipment: None
 
-The galactic market is home to hundreds of different races all dealing with one another in a variety of ways, making the occasional meeting with an alien rather common. This individual alien is part of his people’s commercial assets and he has come to make deals with their galactic **neighbors**.
+The galactic market is home to hundreds of different races all dealing with one another in a variety of ways, making the occasional meeting with an alien rather common. This individual alien is part of his people's commercial assets and he has come to make deals with their galactic **neighbors**.
 
 | The alien businessman is ... |                                                                                                                |
 | ---------------------------- | -------------------------------------------------------------------------------------------------------------- |
@@ -2713,7 +2713,7 @@ One of the best allies to a worthwhile merchant, the technology distributor ensu
 | 1 – 2                             | ...going to pick up a new advance in power couplings and wants some extra hands to carry the heavy crates.                              |
 | 3 – 4                             | ...looking for a buyer for some high-tech weaponry that he has been stuck with.                                                         |
 | 5                                 | ...on a research mission that will require him to interview all of the characters, regarding their familiarity with current technology. |
-| 6                                 | ...working privately for an electronics company, making sure that all of his associates are carrying his company’s equipment.           |
+| 6                                 | ...working privately for an electronics company, making sure that all of his associates are carrying his company's equipment.           |
 
 #### Taxation Officer
 
@@ -2813,11 +2813,11 @@ Someone accused of a crime they may or may not have committed, this person is no
 
 Required Skills: None Required Equipment: None
 
-Skilled agents learn quickly that one of their best assets is the mass transit system in an urban area. People like this taxi driver not only see too many people each day to remember the agent’s face but they know the fastest routes through their city.
+Skilled agents learn quickly that one of their best assets is the mass transit system in an urban area. People like this taxi driver not only see too many people each day to remember the agent's face but they know the fastest routes through their city.
 
 | The taxi service driver is ... |                                                                                                                |
 | ------------------------------ | -------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                          | ...happy to ‘forget’ the characters after he has driven them around town...for a sizeable gratuity.            |
+| 1 – 2                          | ...happy to 'forget' the characters after he has driven them around town...for a sizeable gratuity.            |
 | 3 – 4                          | ...a practiced urban driver capable of losing tails, ignoring traffic and driving defensively in a fire fight! |
 | 5                              | ...an alien who could not care less about what his passengers say or do.                                       |
 | 6                              | ...willing to stay on retainer for an entire day or evening if he is paid enough.                              |
@@ -2843,7 +2843,7 @@ Nothing ever happens in the universe exactly as the people involved would like i
 | The witnessing bystander is ... |                                                                                                                                      |
 | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | 1 – 2                           | ...sure he knows the face of a murderer that is still on the loose and he wants to go to the authorities but not without protection. |
-| 3 – 4                           | ...the only witness to an enemy’s illegal activities.                                                                                |
+| 3 – 4                           | ...the only witness to an enemy's illegal activities.                                                                                |
 | 5 – 6                           | ...lucky enough to have seen exactly what happened in a recent mystery, shedding some light on the situation.                        |
 
 #### Civil Servant
@@ -2854,7 +2854,7 @@ Agents often have to operate in secrecy but they also sometimes have to work wit
 
 | The civil servant is ... |                                                                                                                                                 |
 | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                    | ...a desk jockey that would do anything to get involved in someone else’s excitement, even if it means butting in when not wanted.              |
+| 1 – 2                    | ...a desk jockey that would do anything to get involved in someone else's excitement, even if it means butting in when not wanted.              |
 | 3 – 4                    | ...related to someone higher ranked in his office; someone who might be interested to know when a new face is snooping around.                  |
 | 5                        | ...waiting for the perfect time to leap into action and become a local hero; which may mean coming after one of the shadier-looking characters. |
 | 6                        | ...so embittered by his monotonous life that he is one bad remark away from pulling the carbine from his desk and just firing randomly...       |
@@ -2887,7 +2887,7 @@ Corporate life is not always what it is cracked up to be but this unethical work
 
 Required Skills: Persuade Required Equipment: Credits
 
-Sometimes viewed negatively by the nobility or upper class, the ‘talent’ at local dance clubs and adult entertainment parlors can be amazingly convincing and well-informed about their clientele. They can seemingly get just about anything out of their marks if the price is right.
+Sometimes viewed negatively by the nobility or upper class, the 'talent' at local dance clubs and adult entertainment parlors can be amazingly convincing and well-informed about their clientele. They can seemingly get just about anything out of their marks if the price is right.
 
 | The exotic dancer is ... |                                                                                                                                                      |
 | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2899,7 +2899,7 @@ Sometimes viewed negatively by the nobility or upper class, the ‘talent’ at 
 
 Required Skills: Stealth Required Equipment: None
 
-Most agents work in the shadows and while hidden, making the dark of night their best ally in most situations. If that is the case, the night watchman is their worst enemy. This poorly paid ‘rent-a-guard’ does not want to have to draw his civilian-grade firearm or stunstick against an intruder but he will.
+Most agents work in the shadows and while hidden, making the dark of night their best ally in most situations. If that is the case, the night watchman is their worst enemy. This poorly paid 'rent-a-guard' does not want to have to draw his civilian-grade firearm or stunstick against an intruder but he will.
 
 | The night watchman is ... |                                                                                                                                                    |
 | ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2916,7 +2916,7 @@ This mechanic-meets-janitor runs the services and utilities of a specific buildi
 
 | The building superintendent is ... |                                                                                                                                                    |
 | ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                              | ...not going to let any of his building’s tenants get hurt but he will help the characters get around within the building if they promise not to.  |
+| 1 – 2                              | ...not going to let any of his building's tenants get hurt but he will help the characters get around within the building if they promise not to.  |
 | 3 – 4                              | ...very tired of being looked down upon by the other people in his building.                                                                       |
 | 5 – 6                              | ...already keeping unauthorized surveillance over parts of his building; it entertains him to candidly watch the tenants and visitors come and go. |
 
@@ -2930,7 +2930,7 @@ The man in charge of one of the local street gangs, this tough-skinned monster o
 | ---------------------- | ------------------------------------------------------------ |
 | 1 – 2                  | ...a sadistic leader of a brutal band of murderous ruffians. |
 | 3 – 4                  | ...feeling threatened by the presence of the characters.     |
-| 5 – 6                  | ...already working for an enemy of the characters’.          |
+| 5 – 6                  | ...already working for an enemy of the characters'.          |
 
 #### Street Dealer
 
@@ -2942,7 +2942,7 @@ Although their job is to peddle illegal substances to anyone who can pay, street
 | ------------------------ | --------------------------------------------------------------------------------------------------------- |
 | 1 – 2                    | ...low on customers, making him willing to work with the characters on the cheap.                         |
 | 3 – 4                    | ...an expert on high-profile deals.                                                                       |
-| 5                        | ...only going to work with someone who is willing to ‘do a few’ with him.                                 |
+| 5                        | ...only going to work with someone who is willing to 'do a few' with him.                                 |
 | 6                        | ...a bigger criminal than just a drug dealer and could be useful in many ways because of his connections. |
 
 #### News Reporter
@@ -2953,15 +2953,15 @@ Agents do their job best when they are anonymous and the presence of a news repo
 
 | The news reporter is ... |                                                                     |
 | ------------------------ | ------------------------------------------------------------------- |
-| 1 – 2                    | ...aware of the characters’ current mission and wants to know more. |
-| 3 – 4                    | ...paid by the local government to keep tabs on all ‘odd’ behavior. |
+| 1 – 2                    | ...aware of the characters' current mission and wants to know more. |
+| 3 – 4                    | ...paid by the local government to keep tabs on all 'odd' behavior. |
 | 5 – 6                    | ...a scandal hound; enough so that he might make one of his own.    |
 
 #### Travel Agent
 
 Required Skills: None Required Equipment: None
 
-This busy professional is in charge of arranging transports, flights and convoys for his clients. It is his signature that sends people halfway across the galaxy and he can do so openly or ‘off the books’ for the right favors in return.
+This busy professional is in charge of arranging transports, flights and convoys for his clients. It is his signature that sends people halfway across the galaxy and he can do so openly or 'off the books' for the right favors in return.
 
 | The travel agent is ... |                                                                                                         |
 | ----------------------- | ------------------------------------------------------------------------------------------------------- |
@@ -2977,7 +2977,7 @@ Another perceptive employee of a local establishment or compound, this security 
 
 | The surveillance guard is ... |                                                                                                                 |
 | ----------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                         | ...an informant for one of the character’s enemies or rivals.                                                   |
+| 1 – 2                         | ...an informant for one of the character's enemies or rivals.                                                   |
 | 3 – 4                         | ...an ex-soldier who joined the local security force after his tour of duty.                                    |
 | 5 – 6                         | ...looking for a good source of income to enable him to get out of the business; blackmail is often a good one. |
 
@@ -2998,7 +2998,7 @@ Having served many years on the force, this seasoned police Officer knows more a
 
 Required Skills: None Required Equipment: None
 
-In an agent’s line of work he will often need to do some underhanded or morally questionable things and doing so can have repercussions. This local religious icon – a priest, monk or such – will never condone such immoral practices and will denounce them openly.
+In an agent's line of work he will often need to do some underhanded or morally questionable things and doing so can have repercussions. This local religious icon – a priest, monk or such – will never condone such immoral practices and will denounce them openly.
 
 | The religious figure is ... |                                                                                                   |
 | --------------------------- | ------------------------------------------------------------------------------------------------- |
@@ -3010,19 +3010,19 @@ In an agent’s line of work he will often need to do some underhanded or morall
 
 Required Skills: None Required Equipment: None
 
-This cold and somewhat detached man is the solution to a bad situation gone violent. He exists solely to ‘clean up’ after conflicts or encounters where no one can know what really happened. If that means making witnesses disappear, burning evidence or simply erasing DNA residue from a hit, he will do it without so much as a ‘please’ required or a ‘thank you’ offered.
+This cold and somewhat detached man is the solution to a bad situation gone violent. He exists solely to 'clean up' after conflicts or encounters where no one can know what really happened. If that means making witnesses disappear, burning evidence or simply erasing DNA residue from a hit, he will do it without so much as a 'please' required or a 'thank you' offered.
 
 | The cleaner is ... |                                                                                       |
 | ------------------ | ------------------------------------------------------------------------------------- |
 | 1 – 2              | ...a freelance professional that works for several different organizations.           |
-| 3 – 4              | ...part of a team that can be hired to look after the characters’ best interests.     |
+| 3 – 4              | ...part of a team that can be hired to look after the characters' best interests.     |
 | 5 – 6              | ...a one-time deal; after this time the characters have to clean up after themselves. |
 
 #### Utility Technician
 
 Required Skills: None Required Equipment: None
 
-Crawling around in a building’s utility service ducts and passages can put this skilled technician into places that even the craftiest agent might not look when he has to pursue his stealthy interests. A mission could be quickly ruined if he happens to see something he is not supposed to from behind the right grate or access panel.
+Crawling around in a building's utility service ducts and passages can put this skilled technician into places that even the craftiest agent might not look when he has to pursue his stealthy interests. A mission could be quickly ruined if he happens to see something he is not supposed to from behind the right grate or access panel.
 
 | The utility technician is ... |                                                                                                                                                           |
 | ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3065,7 +3065,7 @@ Dedicated to the safe and skilled piloting of his governmentally-controlled spac
 | ------------------------- | ---------------------------------------------------------------------------------- |
 | 1 – 2                     | ...ex-navy and very good at his job.                                               |
 | 3 – 4                     | ...pleasantly interested in whatever brought the characters onto his ship.         |
-| 5 – 6                     | ...aware of the characters’ mission and would like to help in any way that he can. |
+| 5 – 6                     | ...aware of the characters' mission and would like to help in any way that he can. |
 
 #### Alien Counter-agent
 
@@ -3096,7 +3096,7 @@ No one knows the ins and outs of image processing, doctoring and fabrication bet
 
 Required Skills: None Required Equipment: None
 
-No agent likes to have this government Officer on his tail, as it is this person’s job to discover the stealthy and uncover the hidden. When an intelligence agency figures out the characters are involved, they will need to be much more careful.
+No agent likes to have this government Officer on his tail, as it is this person's job to discover the stealthy and uncover the hidden. When an intelligence agency figures out the characters are involved, they will need to be much more careful.
 
 | The intelligence Officer is ... |                                                                                                         |
 | ------------------------------- | ------------------------------------------------------------------------------------------------------- |
@@ -3127,7 +3127,7 @@ This cold-blooded killer is a private assassin that does not work on mercenary t
 | 1 – 2             | ...targeting a friend of one of the characters.                                           |
 | 3 – 4             | ...on contract with a criminal organization that the characters tangled with in the past. |
 | 5                 | ...not currently on assignment but does not like the characters for his own reasons.      |
-| 6                 | ...targeting one of the characters on contract from one of that character’s enemies.      |
+| 6                 | ...targeting one of the characters on contract from one of that character's enemies.      |
 
 #### Allied Field Agent
 
@@ -3182,7 +3182,7 @@ This was once a close friend or ally within the organization but now he has turn
 
 Required Skills: None Required Equipment: None
 
-This new ally of the organization was once a bitter enemy employed by opposing forces. Something happened to shatter his old allegiances and now he works with the people he formerly called ‘foes’. He is very knowledgeable about his old employers, making him a useful tool to exploit against them.
+This new ally of the organization was once a bitter enemy employed by opposing forces. Something happened to shatter his old allegiances and now he works with the people he formerly called 'foes'. He is very knowledgeable about his old employers, making him a useful tool to exploit against them.
 
 | The former enemy is ... |                                                                                                                                                                                     |
 | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3206,23 +3206,23 @@ An agent employed by enemies of the characters, this man is on a mission set aga
 
 Required Skills: Admin Required Equipment: None
 
-There are certain missions that are too secret, too immoral or simply too important to be found on any records or any official listings. These ‘black operations’ are governmentally sanctioned in private and will never grace a docket or auto-biography when it is all over. This enigmatic man in a crisp, clean suit is who arranges for these operations to take place.
+There are certain missions that are too secret, too immoral or simply too important to be found on any records or any official listings. These 'black operations' are governmentally sanctioned in private and will never grace a docket or auto-biography when it is all over. This enigmatic man in a crisp, clean suit is who arranges for these operations to take place.
 
 | The government black operator is ... |                                                                                                                                 |
 | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
 | 1                                    | ...warning the characters about a black operation in their area that could endanger them.                                       |
-| 2 – 5                                | ...looking for a decoy team to make some ‘noise’ while his unmentioned black operation takes place elsewhere in the local area. |
+| 2 – 5                                | ...looking for a decoy team to make some 'noise' while his unmentioned black operation takes place elsewhere in the local area. |
 | 6                                    | ...seeking the characters to go on an unofficial and secretive black operation on his behalf.                                   |
 
 #### Loose End
 
 Required Skills: Investigate Required Equipment: None
 
-Even the best agents sometimes leave ‘loose ends’ behind after a mission that require tying up later. This person was unfortunately one of these niggling memories that the characters will have to take care of for their mission to be a true success.
+Even the best agents sometimes leave 'loose ends' behind after a mission that require tying up later. This person was unfortunately one of these niggling memories that the characters will have to take care of for their mission to be a true success.
 
 | The loose end is ... |                                                                                                                                                             |
 | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                | ...an unknown witness to the characters’ less savory activities.                                                                                            |
+| 1 – 2                | ...an unknown witness to the characters' less savory activities.                                                                                            |
 | 3 – 4                | ...fleeing across the galaxy from the characters and will likely never be found again.                                                                      |
 | 5 – 6                | ...already going to the authorities and a network of friends about the reason that the characters need to deal with him, making a chain of more loose ends. |
 
@@ -3236,7 +3236,7 @@ The highest office to be held in local law enforcement, most agents pay allegian
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                   | ...a friend to the characters and will offer them assistance from his department whenever he can.                                                                   |
 | 3 – 4                   | ...secretly an active agent for the same organization as the characters.                                                                                            |
-| 5 – 6                   | ...looking to hire the characters for a mission ‘off the books’ to help even some scores out on the streets where his peacekeeping Officers are suffering the most. |
+| 5 – 6                   | ...looking to hire the characters for a mission 'off the books' to help even some scores out on the streets where his peacekeeping Officers are suffering the most. |
 
 #### Psionist Agent
 
@@ -3247,9 +3247,9 @@ There is little more dangerous in this galaxy that an agent with natural (or bio
 | The psionist agent is ... |                                                                                                                              |
 | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                     | ...looking to settle some unknown score with one of the characters for something he may not even know happened between them. |
-| 3 – 4                     | ...researching one of the characters for his agency’s files.                                                                 |
+| 3 – 4                     | ...researching one of the characters for his agency's files.                                                                 |
 | 5                         | ...not especially subtle when confronting the characters.                                                                    |
-| 6                         | ...mentally unstable due to his ‘talent’.                                                                                    |
+| 6                         | ...mentally unstable due to his 'talent'.                                                                                    |
 
 #### Agency Director
 
@@ -3311,7 +3311,7 @@ This fellow noble has truly given himself over to some strange and interesting w
 
 Required Skills: None Required Equipment: None
 
-It is rare when a noble was not handed his title and inheritance; rather he was a self-made upper class through years of hard work and determination. This practical and stalwart individual is amongst those ‘from the ground up’ successes.
+It is rare when a noble was not handed his title and inheritance; rather he was a self-made upper class through years of hard work and determination. This practical and stalwart individual is amongst those 'from the ground up' successes.
 
 | The success story is ... |                                                                                                                  |
 | ------------------------ | ---------------------------------------------------------------------------------------------------------------- |
@@ -3329,7 +3329,7 @@ Everyone knows someone that lives solely on the good will and donations of other
 | The freeloader is ... |                                                                                        |
 | --------------------- | -------------------------------------------------------------------------------------- |
 | 1 – 2                 | ...in the area looking for a free meal, as always.                                     |
-| 3 – 4                 | ...interested in taking advantage of more than just the characters’ hospitality.       |
+| 3 – 4                 | ...interested in taking advantage of more than just the characters' hospitality.       |
 | 5 – 6                 | ...also a petty thief as well as an asset-parasite; nothing is safe when he is around. |
 
 #### Artiste
@@ -3340,7 +3340,7 @@ This eccentric person is a student and practitioner of the fine arts. He may be 
 
 | The artiste is ... |                                                                                                                                                                     |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2              | ...trying to arrange for a public show or appearance and would like the characters’ help to make it safe.                                                           |
+| 1 – 2              | ...trying to arrange for a public show or appearance and would like the characters' help to make it safe.                                                           |
 | 3 – 4              | ...looking for the perfect focus of his new piece or project.                                                                                                       |
 | 5 – 6              | ...suffering from a horrible block to his creativity; maybe if he tags along with the characters for a while he will see something that will spark it back to life. |
 
@@ -3352,7 +3352,7 @@ Those who have to work hard for their living sometimes forget that not all wealt
 
 | The blue-collar worker is ... |                                                                                                            |
 | ----------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| 1 – 2                         | ...drunk after his shift is over and looking to take out his troubles on a few ‘rich kids’.                |
+| 1 – 2                         | ...drunk after his shift is over and looking to take out his troubles on a few 'rich kids'.                |
 | 3 – 4                         | ...in the wake of receiving a notice of bad payments on his debts, putting him in a particularly bad mood. |
 | 5 – 6                         | ...looking for a good way to make easy credits and he feels the characters are the best source for them.   |
 
@@ -3379,19 +3379,19 @@ This poorly paid and often ignored employee of a household manor is rarely regar
 | ------------------------ | ----------------------------------------------------------------------------------------------------- |
 | 1 – 2                    | ...looking for a good way to settle a score with his employer.                                        |
 | 3 – 4                    | ...going to plant some items on the characters that he stole from his workplace.                      |
-| 5 – 6                    | ...a servant to one of the character’s rivals and is looking for a pay raise through setting them up. |
+| 5 – 6                    | ...a servant to one of the character's rivals and is looking for a pay raise through setting them up. |
 
 #### Friend-of-the-Family
 
 Required Skills: None Required Equipment: None
 
-Noble family lines normally go back many years and cross several times with one another, sometimes creating feuds and other times forging long lasting friendships. This person is one of these close friends of one of the character’s family, making them allies through kinship.
+Noble family lines normally go back many years and cross several times with one another, sometimes creating feuds and other times forging long lasting friendships. This person is one of these close friends of one of the character's family, making them allies through kinship.
 
 | The friend-of-the-family is ... |                                                                                                                                                                                                                      |
 | ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                           | ...on the search for a member of his family and thinks the connection with one of the characters will be enough to get them to help him.                                                                             |
-| 3 – 4                           | ...in trouble with a few of the locals and would like the characters’ help in dealing with them.                                                                                                                     |
-| 5 – 6                           | ...carrying a very special message for one of the characters sent from a distant member of his family. The friend-of-the-family was headed this way and chose to do the character’s family a favor by delivering it. |
+| 3 – 4                           | ...in trouble with a few of the locals and would like the characters' help in dealing with them.                                                                                                                     |
+| 5 – 6                           | ...carrying a very special message for one of the characters sent from a distant member of his family. The friend-of-the-family was headed this way and chose to do the character's family a favor by delivering it. |
 
 #### Jealous Lover
 
@@ -3458,25 +3458,25 @@ Every family has at least one of these types in it; who simply cannot stop talki
 
 Required Skills: None Required Equipment: Permanent Residence
 
-This most esteemed of house servants can be the best friend and confidante of any noble, especially considering the sheer amount of time that they spend together in the noble’s younger years.
+This most esteemed of house servants can be the best friend and confidante of any noble, especially considering the sheer amount of time that they spend together in the noble's younger years.
 
 | The butler/maid is ... |                                                                                                                                           |
 | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 3                  | ...aware of nearly all of the household matters at any given time.                                                                        |
-| 4                      | ...hiding several of the characters’ secrets from the owner of the estate.                                                                |
+| 4                      | ...hiding several of the characters' secrets from the owner of the estate.                                                                |
 | 5                      | ...remarkably wealthy but hides it in order to live a simple life.                                                                        |
-| 6                      | ...willing to take the blame for something the characters had actually done, thereby filling the stereotypical ‘the butler did it’ motif. |
+| 6                      | ...willing to take the blame for something the characters had actually done, thereby filling the stereotypical 'the butler did it' motif. |
 
 #### Nosy Neighbor
 
 Required Skills: Stealth Required Equipment: Permanent Residence
 
-Always peeking over the fence or through the window at the character’s home, this person is somewhat obsessed with what other people are doing. He cannot help but pay far too close attention to the things that his neighbors does.
+Always peeking over the fence or through the window at the character's home, this person is somewhat obsessed with what other people are doing. He cannot help but pay far too close attention to the things that his neighbors does.
 
 | The nosy neighbor is ... |                                                                                               |
 | ------------------------ | --------------------------------------------------------------------------------------------- |
 | 1 – 3                    | ...mostly harmless, just annoying.                                                            |
-| 4 – 5                    | ...willing to call the local authorities about nearly anything that he feels is ‘suspicious’. |
+| 4 – 5                    | ...willing to call the local authorities about nearly anything that he feels is 'suspicious'. |
 | 6                        | ...actually an informant for the media.                                                       |
 
 #### Chauffeur
@@ -3487,7 +3487,7 @@ This professional vehicular driver makes his living ferrying people around from 
 
 | The chauffeur is ... |                                                                                          |
 | -------------------- | ---------------------------------------------------------------------------------------- |
-| 1 – 2                | ...on retainer with one of the characters’ families, giving them access to his services. |
+| 1 – 2                | ...on retainer with one of the characters' families, giving them access to his services. |
 | 3 – 4                | ...willing to take bribes in exchange for what he has heard in his back seats.           |
 | 5 – 6                | ...aware of every side road and alley in his local community.                            |
 
@@ -3557,7 +3557,7 @@ This camera-happy media hound is one of the most feared and hated parts of celeb
 
 Required Skills: None Required Equipment: None
 
-Assigned from a family’s personal guardsmen pool, this loyal protector will stand by his ward for long hours and public appearances. It is his responsibility to make sure the family member stays safe; having probably been working for the family for many years.
+Assigned from a family's personal guardsmen pool, this loyal protector will stand by his ward for long hours and public appearances. It is his responsibility to make sure the family member stays safe; having probably been working for the family for many years.
 
 | The assigned guard is ... |                                                                                                 |
 | ------------------------- | ----------------------------------------------------------------------------------------------- |
@@ -3575,20 +3575,20 @@ This person seems to only ever come around when things are going well for the ch
 | ------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                          | ...not being malicious; he just has no concept of true friendship.                                                |
 | 3 – 4                          | ...plotting to take something important from the characters during his short and erratic visit.                   |
-| 5 – 6                          | ...playing several groups of his ‘friends’ off against each other in some sick game that he is secretly enjoying. |
+| 5 – 6                          | ...playing several groups of his 'friends' off against each other in some sick game that he is secretly enjoying. |
 
 #### Alien Noble
 
 Required Skills: None Required Equipment: None
 
-An important member of an alien race, this individual is actually the equivalent of a noble in their society. He might need some help adjusting to the local culture and society; something that a clever person would want to undertake if they want an ‘in’ with the alien nobility.
+An important member of an alien race, this individual is actually the equivalent of a noble in their society. He might need some help adjusting to the local culture and society; something that a clever person would want to undertake if they want an 'in' with the alien nobility.
 
 | The alien noble is ... |                                                                                                                        |
 | ---------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                  | ...on a mission of peaceful social interaction.                                                                        |
 | 3 – 4                  | ...looking forward to making some local friends and bringing them back to his homeworld in an exchange of hospitality. |
 | 5                      | ...having serious trouble with the local language and requires a translator.                                           |
-| 6                      | ...actually royalty where he comes from but the translation to ‘nobility’ has downplayed his importance.               |
+| 6                      | ...actually royalty where he comes from but the translation to 'nobility' has downplayed his importance.               |
 
 #### Family Accountant
 
@@ -3611,7 +3611,7 @@ This noble-born socialite gave up the cocktail parties for the thrill of excessi
 
 | The party animal is ... |                                                                                                                                                  |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1 – 2                   | ...throwing a big bash at his parents’ estate and the characters are invited.                                                                    |
+| 1 – 2                   | ...throwing a big bash at his parents' estate and the characters are invited.                                                                    |
 | 3 – 4                   | ...good for knowing who is with whom and why, at any social gathering.                                                                           |
 | 5 – 6                   | ...in need of a large amount of controlled substances but cannot leave his own party, so he will pay double for the characters to go and get it. |
 
@@ -3631,7 +3631,7 @@ Not only is this a member of a noble family but this watchful and manipulative a
 
 Required Skills: None Required Equipment: None
 
-This unfettered member of the noble family is the personification of freedom. He does what he wants, when he wants and with whom he wants – all he had to do was cut him off from the rest of the family’s assets to get there.
+This unfettered member of the noble family is the personification of freedom. He does what he wants, when he wants and with whom he wants – all he had to do was cut him off from the rest of the family's assets to get there.
 
 | The free soul is ... |                                                                                                    |
 | -------------------- | -------------------------------------------------------------------------------------------------- |
@@ -3643,7 +3643,7 @@ This unfettered member of the noble family is the personification of freedom. He
 
 Required Skills: None Required Equipment: Residence
 
-One of the leading medical professionals taking care of the eating habits and restrictions for a noble family’s estate, the staff dietician has a surprising amount of power within the household because of it.
+One of the leading medical professionals taking care of the eating habits and restrictions for a noble family's estate, the staff dietician has a surprising amount of power within the household because of it.
 
 | The dietician is ... |                                                                                                                                 |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -3705,7 +3705,7 @@ Once a minor ally to the characters, this perhaps forgotten old face has since b
 
 Required Skills: Streetwise Required Equipment: None
 
-This charming and convincing person is every noble parent’s nightmare. Born to a middle or lower class family, he has lived an eventful life that he has a talent of making seem glamorous or exciting. A few stories later and he will have the most sheltered of beings standing in the muck right next to him.
+This charming and convincing person is every noble parent's nightmare. Born to a middle or lower class family, he has lived an eventful life that he has a talent of making seem glamorous or exciting. A few stories later and he will have the most sheltered of beings standing in the muck right next to him.
 
 | The bad influence is ... |                                                                                                                                        |
 | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3718,7 +3718,7 @@ This charming and convincing person is every noble parent’s nightmare. Born to
 
 Required Skills: None Required Equipment: None
 
-Someone from this person’s family at some point in history was dishonored by someone in one of the character’s family. This dishonor was enough to force a feud of sorts, a vendetta, between the two families.
+Someone from this person's family at some point in history was dishonored by someone in one of the character's family. This dishonor was enough to force a feud of sorts, a vendetta, between the two families.
 
 | The vendetta is ... |                                                                                                                          |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------ |
@@ -3749,13 +3749,13 @@ There is nothing more fearsome to a popular noble as legitimate blackmail and th
 | 1 – 2                        | ...running an investigation scam on a popular actress in the area.                                          |
 | 3 – 4                        | ...targeting one of the characters for extortion due to some incriminating photos he has several copies of. |
 | 5                            | ...in between prime targets and decides to follow the characters around to see what happens.                |
-| 6                            | ...in possession of some very incriminating video footage of one of the characters’ good allies.            |
+| 6                            | ...in possession of some very incriminating video footage of one of the characters' good allies.            |
 
 #### Familial Ambassador
 
 Required Skills: None Required Equipment: None
 
-Most nobles automatically become movers and shakers in politics but this one soared to the top. After struggling with the cutthroat world of diplomats and counsellors to important figures, he has reached the point where the family can be proud to call him ‘ambassador’.
+Most nobles automatically become movers and shakers in politics but this one soared to the top. After struggling with the cutthroat world of diplomats and counsellors to important figures, he has reached the point where the family can be proud to call him 'ambassador'.
 
 | The familial ambassador is ... |                                                                                                                                             |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3823,7 +3823,7 @@ This glorified personal assistant exists it seems to make the lives of anyone wh
 | The university secretary is ... |                                                                                             |
 | ------------------------------- | ------------------------------------------------------------------------------------------- |
 | 1 – 2                           | ...a dropout and resents all scholastic types.                                              |
-| 3 – 4                           | ...going to make any transactions with his office unbelievably difficult for ‘spacer folk’. |
+| 3 – 4                           | ...going to make any transactions with his office unbelievably difficult for 'spacer folk'. |
 | 5 – 6                           | ...siphoning funds from his office to a personal account.                                   |
 
 #### Colleague
@@ -3835,7 +3835,7 @@ Few people understand the life of a trained academic except other academics. Thi
 | The colleague is ... |                                                                                    |
 | -------------------- | ---------------------------------------------------------------------------------- |
 | 1 – 2                | ...back from an academic sabbatical and wants to tell the characters all about it. |
-| 3 – 4                | ...being recognized for his work in the character’s field.                         |
+| 3 – 4                | ...being recognized for his work in the character's field.                         |
 | 5                    | ...in need of funds for their project but will assuredly pay it back quickly.      |
 | 6                    | ...looking for some action and excitement.                                         |
 
@@ -3899,7 +3899,7 @@ Simply put, this person simply does not understand what is going on in the realm
 | -------------------- | ----------------------------------------------------------------------------------------- |
 | 1 – 2                | ...willing to go to blows over his lack of knowledge; it is just too frustrating for him. |
 | 3 – 4                | ...a pest when he does not understand something; which is most of the time.               |
-| 5                    | ...not going to ever quite ‘get it’ and will just get in the way of those who do.         |
+| 5                    | ...not going to ever quite 'get it' and will just get in the way of those who do.         |
 | 6                    | ...not stupid at all. He simply does not want to understand the science behind things.    |
 
 #### Government Aide
@@ -3918,19 +3918,19 @@ This appointed service person has been at least adequately trained in a particul
 
 Required Skills: Science Required Equipment: None
 
-When an outside client or agency sends this person to an ongoing scientific project they mean for him to manage and judge every piece of it along the way. He is not there to help; merely to ‘supervise’.
+When an outside client or agency sends this person to an ongoing scientific project they mean for him to manage and judge every piece of it along the way. He is not there to help; merely to 'supervise'.
 
 | The project overseer is ... |                                                                                                       |
 | --------------------------- | ----------------------------------------------------------------------------------------------------- |
 | 1 – 2                       | ...not going to give an inch when it comes to his opinions.                                           |
-| 3 – 4                       | ...actually unskilled in the project’s field and was sent to oversee the project as a clerical error. |
-| 5 – 6                       | ...willing to report even the tiniest of errors to the project’s investors.                           |
+| 3 – 4                       | ...actually unskilled in the project's field and was sent to oversee the project as a clerical error. |
+| 5 – 6                       | ...willing to report even the tiniest of errors to the project's investors.                           |
 
 #### Patent Clerk
 
 Required Skills: None Required Equipment: None
 
-In the scientific world of invention, no one has more power than the patent clerk. This low-paid paper pusher is the individual reason why one project’s results can go on to become the biggest thing in the galaxy and others will fade into obscurity.
+In the scientific world of invention, no one has more power than the patent clerk. This low-paid paper pusher is the individual reason why one project's results can go on to become the biggest thing in the galaxy and others will fade into obscurity.
 
 | The patent clerk is ... |                                                                                                                                 |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -3959,7 +3959,7 @@ This clerical aide is surprisingly one of the most treasured people in the resea
 
 | The document manager is ... |                                                                                                                                 |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                       | ...capable of ‘misplacing’ an important file for their friends.                                                                 |
+| 1 – 2                       | ...capable of 'misplacing' an important file for their friends.                                                                 |
 | 3 – 4                       | ...well-informed on the files in his storage facility from long hours and bored reading.                                        |
 | 5 – 6                       | ...off duty for the evening but still has a file in his possession - the one that could help the characters with their mission. |
 
@@ -4016,7 +4016,7 @@ This landing shuttle pilot is used to the demanding locations that he is require
 
 Required Skills: None Required Equipment: None
 
-Truthfully believing that he knows the most there is to know in his chosen field, this scientific specialist refuses to believe anyone else’s theories or trust anyone else’s studies – if it is not his work, he simply disregards it.
+Truthfully believing that he knows the most there is to know in his chosen field, this scientific specialist refuses to believe anyone else's theories or trust anyone else's studies – if it is not his work, he simply disregards it.
 
 | The field specialist is ... |                                                                                                     |
 | --------------------------- | --------------------------------------------------------------------------------------------------- |
@@ -4029,7 +4029,7 @@ Truthfully believing that he knows the most there is to know in his chosen field
 
 Required Skills: Science Required Equipment: None
 
-This is one of the most memorable people from a character’s days at the university or academy and is always happy to hear from old students of theirs that have made something of themselves.
+This is one of the most memorable people from a character's days at the university or academy and is always happy to hear from old students of theirs that have made something of themselves.
 
 | The favored professor is ... |                                                                                             |
 | ---------------------------- | ------------------------------------------------------------------------------------------- |
@@ -4045,9 +4045,9 @@ In charge of the student bodies of his academy or university, the dean of studen
 
 | The dean of students is ... |                                                                                                |
 | --------------------------- | ---------------------------------------------------------------------------------------------- |
-| 1 – 2                       | ...on a fund drive for tuition costs and will not take ‘no’ for an answer.                     |
+| 1 – 2                       | ...on a fund drive for tuition costs and will not take 'no' for an answer.                     |
 | 3 – 4                       | ...in need of a good patsy for some missing personnel files.                                   |
-| 5 – 6                       | ...so busy with scholastic dealings that he cannot be ‘bothered’ with non-university meetings. |
+| 5 – 6                       | ...so busy with scholastic dealings that he cannot be 'bothered' with non-university meetings. |
 
 #### Bionicist
 
@@ -4066,13 +4066,13 @@ The study of true bionics – the step beyond basic cybernetic implants - is a d
 
 Required Skills: Science Required Equipment: None
 
-This dour and cynical scientist seems to only enjoy the discussion of scientific avenues when he can play the devil’s advocate. No matter what is considered the current theory, he has something to say in  order to dispel it.
+This dour and cynical scientist seems to only enjoy the discussion of scientific avenues when he can play the devil's advocate. No matter what is considered the current theory, he has something to say in  order to dispel it.
 
 | The counter-theorist is ... |                                                                                                  |
 | --------------------------- | ------------------------------------------------------------------------------------------------ |
 | 1 – 2                       | ...a darkly humored man that is the equivalent of a conversational sadist.                       |
 | 3 – 4                       | ...not currently employed on a project; which is why he disagrees with everyone all of the time. |
-| 5 – 6                       | ...just trying to make himself look better by foiling everyone else’s theories.                  |
+| 5 – 6                       | ...just trying to make himself look better by foiling everyone else's theories.                  |
 
 #### Medical Student
 
@@ -4084,19 +4084,19 @@ Eager to find a job at a good medical facility, this student of the medical arts
 | -------------------------- | ---------------------------------------------------------------------------------------------------- |
 | 1 – 2                      | ...about to graduate into their medical residency and will soon need a ride to wherever that may be. |
 | 3 – 4                      | ...always willing to give a hand with minor injuries and niggling illnesses.                         |
-| 5 – 6                      | ...looking for a freelance position with a ship’s crew when he graduates.                            |
+| 5 – 6                      | ...looking for a freelance position with a ship's crew when he graduates.                            |
 
 #### Lab Researcher
 
 Required Skills: None Required Equipment: Lab Facility
 
-Stuck in a lab when his colleagues are out on scientific expeditions, this jealous scientist is forced to work in an enclosed environment for long hours and few freedoms. He would give just about anything to get out into the field where ‘the action’ is.
+Stuck in a lab when his colleagues are out on scientific expeditions, this jealous scientist is forced to work in an enclosed environment for long hours and few freedoms. He would give just about anything to get out into the field where 'the action' is.
 
 | The lab researcher is ... |                                                                                                                                                         |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                     | ...manipulating one field researcher’s data to be faulty, tryingto get them fired so he can replace them.                                               |
+| 1 – 2                     | ...manipulating one field researcher's data to be faulty, tryingto get them fired so he can replace them.                                               |
 | 3 – 4                     | ...at the end of his patience from five consecutive double-shifts in the lab.                                                                           |
-| 5 – 6                     | ...going to do something drastic for some time off from the lab, up to an including causing a laboratory ‘accident’ to shut the doors for a week or so. |
+| 5 – 6                     | ...going to do something drastic for some time off from the lab, up to an including causing a laboratory 'accident' to shut the doors for a week or so. |
 
 #### Samples Clerk
 
@@ -4128,13 +4128,13 @@ This hired security agent took his job at the scientific storage facility in ord
 
 Required Skills: Carouse Required Equipment: None
 
-It could be months or even years since anyone has seen this familiar face but he was one of the character’s best friends back in school.
+It could be months or even years since anyone has seen this familiar face but he was one of the character's best friends back in school.
 
 | The school buddy is ... |                                                                                                   |
 | ----------------------- | ------------------------------------------------------------------------------------------------- |
 | 1 – 2                   | ...in a little bit of trouble and needs a hand getting off planet.                                |
 | 3                       | ...always willing to help his old friends if he can.                                              |
-| 4                       | ...an expert in his field; which could help with the characters’ current mission.                 |
+| 4                       | ...an expert in his field; which could help with the characters' current mission.                 |
 | 5                       | ...looking for a few friendly faces to pal around with for a few days until his transport leaves. |
 | 6                       | ...on an important journey for a common ally.                                                     |
 
@@ -4142,13 +4142,13 @@ It could be months or even years since anyone has seen this familiar face but he
 
 Required Skills: Science Required Equipment: None
 
-The study of so-called ‘metascience’ is far-fetched, highly theoretical and a few logical leaps away from saying that magic is real and gods are just new elements in their periodic table. This staunch believer in metascience is all for its study, ridiculous as it may seem.
+The study of so-called 'metascience' is far-fetched, highly theoretical and a few logical leaps away from saying that magic is real and gods are just new elements in their periodic table. This staunch believer in metascience is all for its study, ridiculous as it may seem.
 
 | The metascientist is ... |                                                                                                                                                                    |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1 – 2                    | ...a firm believer that magic and science are the same thing and that he will soon discover the ability to create energy from nothingness like ‘the mages of old’. |
+| 1 – 2                    | ...a firm believer that magic and science are the same thing and that he will soon discover the ability to create energy from nothingness like 'the mages of old'. |
 | 3 – 4                    | ...looking to disprove a locally renowned scientist using his metascientific theories.                                                                             |
-| 5 – 6                    | ...nearly a fanatic about his belief in the existence of other dimensions and ‘scientific deities’.                                                                |
+| 5 – 6                    | ...nearly a fanatic about his belief in the existence of other dimensions and 'scientific deities'.                                                                |
 
 #### Cyber-Doc
 
@@ -4158,7 +4158,7 @@ This skilled medical professional specializes in the addition, maintenance and p
 
 | The cyber-doc is ... |                                                                                                                                                            |
 | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                | ...willing to add ‘outside’ (not purchased from his facility) cybernetics to those who can pay his fees.                                                   |
+| 1 – 2                | ...willing to add 'outside' (not purchased from his facility) cybernetics to those who can pay his fees.                                                   |
 | 3 – 4                | ...advertising group rates on implant repair and augmentation.                                                                                             |
 | 5                    | ...capable of swapping implants between characters relatively painlessly and with only half the normal recuperation time.                                  |
 | 6                    | ...in need of a volunteer to test the newly finished combat implant that he designed himself; he needs field testers in order to get the patent finalized. |
@@ -4167,12 +4167,12 @@ This skilled medical professional specializes in the addition, maintenance and p
 
 Required Skills: None Required Equipment: None
 
-The use of alien technology in common cultures, called ‘xenotech’ by researchers and labelers, can be somewhat invigorating for those who do not possess much nationalism or patriotism toward their own species. This radically-minded user of xenotech believes that nothing else will do.
+The use of alien technology in common cultures, called 'xenotech' by researchers and labelers, can be somewhat invigorating for those who do not possess much nationalism or patriotism toward their own species. This radically-minded user of xenotech believes that nothing else will do.
 
 | The xenotech supremacist is ... |                                                                                                                            |
 | ------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                           | ...always packing a xenotech weapon and itching to demonstrate its superiority.                                            |
-| 3 – 4                           | ...a charismatic speaker, making it difficult to not agree with what he says about his own culture’s technological faults. |
+| 3 – 4                           | ...a charismatic speaker, making it difficult to not agree with what he says about his own culture's technological faults. |
 | 5 – 6                           | ...willing to go to extreme measures to try and stifle the growth of local technologies.                                   |
 
 #### Weapon Researcher
@@ -4196,7 +4196,7 @@ When someone is low on credits and has nothing to barter but still needs a docto
 | The back-alley butcher is ... |                                                                                                                                      |
 | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | 1 – 2                         | ...not even a very good medic who has a long list of operating table casualties.                                                     |
-| 3 – 4                         | ...selling ‘recently used’ combat implants cheaply but does not warranty the implantation operation or the device itself in any way. |
+| 3 – 4                         | ...selling 'recently used' combat implants cheaply but does not warranty the implantation operation or the device itself in any way. |
 | 5 – 6                         | ...addicted to medical painkillers and always has a 50% chance of being too intoxicated to function.                                 |
 
 #### Chief of Medicine
@@ -4216,19 +4216,19 @@ This is the absolute head of medical sciences at the local medical facility. He 
 
 Required Skills: None Required Equipment: Acquired Scientific Data
 
-There are fewer people in the scientific industry that are fouler than those who would steal others’ hard work and research for their own projects. This shady individual searches for and takes other scientists’ collected data or samples and then uses them for their own desires.
+There are fewer people in the scientific industry that are fouler than those who would steal others' hard work and research for their own projects. This shady individual searches for and takes other scientists' collected data or samples and then uses them for their own desires.
 
 | The research thief is ... |                                                                                                                      |
 | ------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                     | ...actually not even a scientist; he just sells the research data to other facilities.                               |
 | 3 – 4                     | ...too lazy to do his own research and finished most of his projects using stolen data.                              |
-| 5 – 6                     | ...not taking the data for anyone’s actual use; he merely does not want the project he took it from to ever succeed. |
+| 5 – 6                     | ...not taking the data for anyone's actual use; he merely does not want the project he took it from to ever succeed. |
 
 #### Psionic Theorist
 
 Required Skills: None Required Equipment: None
 
-This open-minded scientist has chosen the blossoming field of psionic study and theory as his field of interest. Although it is a hard ‘science’ to put too much research into, it is definitely one that needs devoted minds to look into it.
+This open-minded scientist has chosen the blossoming field of psionic study and theory as his field of interest. Although it is a hard 'science' to put too much research into, it is definitely one that needs devoted minds to look into it.
 
 | The psionic theorist is ... |                                                                                                |
 | --------------------------- | ---------------------------------------------------------------------------------------------- |
@@ -4247,7 +4247,7 @@ Terrified of advanced technology, this person goes out of his way to live a simp
 | ---------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                  | ...ignorant and therefore afraid, of anything based in a higher technology level than he is.                     |
 | 3 – 4                  | ...afraid that using technology will somehow cheapen his natural ties to the environment around him.             |
-| 5 – 6                  | ...an ex-scientist that saw how technology ‘ruin’ a culture, so he ran from his work and now steers clear of it. |
+| 5 – 6                  | ...an ex-scientist that saw how technology 'ruin' a culture, so he ran from his work and now steers clear of it. |
 
 #### Grant Officer
 
@@ -4270,7 +4270,7 @@ This member of the scientific community is sometimes called an executioner behin
 | The disproving colleague is ... |                                                                                                                     |
 | ------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                           | ...too good at his job and the teams he is placed on seem to never finish a project before funding runs out.        |
-| 3 – 4                           | ...a social outcast in the scientific community because of how much he enjoys disproving his colleagues’ hard work. |
+| 3 – 4                           | ...a social outcast in the scientific community because of how much he enjoys disproving his colleagues' hard work. |
 | 5 – 6                           | ...a condescending and callous person who is generally rude and judgmental about his findings.                      |
 
 #### Government Project Leader
@@ -4345,7 +4345,7 @@ Characters in the Entertainer career path are devoted to a life of making other 
 
 Required Skills: Art (any) Required Equipment: None
 
-There is little in an entertainer’s life more frustrating and angering than a vocal heckler in their audiences. This one is no exception to that stereotype.
+There is little in an entertainer's life more frustrating and angering than a vocal heckler in their audiences. This one is no exception to that stereotype.
 
 | The heckler is ... |                                                                              |
 | ------------------ | ---------------------------------------------------------------------------- |
@@ -4363,7 +4363,7 @@ Entertainers of all varieties know that they must perform in their chosen art in
 | ---------------------- | --------------------------------------------------------------------------------------- |
 | 1 – 2                  | ...looking for an emergency fill for a hole in his weekend schedule.                    |
 | 3 – 4                  | ...a friend of a friend who wants to help out in whatever way he can.                   |
-| 5 – 6                  | ...in need of a good face for his grand opening; the characters will need to ‘wow’ him. |
+| 5 – 6                  | ...in need of a good face for his grand opening; the characters will need to 'wow' him. |
 
 #### Supplies Broker
 
@@ -4374,7 +4374,7 @@ Whether an emergency broadcast reporter or a sculptor of titanium-veined marble,
 | The supplies broker is ... |                                                                                                                     |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                      | ...low on all resources due to a pirate attack on his last shipment, making him very difficult to work with or for. |
-| 3 – 4                      | ...not willing to budge on any prices because he claims that everything is ‘low on stock’.                          |
+| 3 – 4                      | ...not willing to budge on any prices because he claims that everything is 'low on stock'.                          |
 | 5                          | ...embezzling from his own supply company, prompting him to raise prices to make a bigger cut.                      |
 | 6                          | ... verbally prejudiced against whatever type of entertainment the characters are having him supply.                |
 
@@ -4400,7 +4400,7 @@ Like sharks that have remoras clinging to them, sucking up the tiny food bits mi
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                      | ...looking for a new person to try to ride their social wake.                                                        |
 | 3 – 4                      | ...actually an informant for a ring of thieves; he goes to social events to make note of who should be robbed later. |
-| 5 – 6                      | ...damaging to anyone’s social status that he attaches himself to.                                                   |
+| 5 – 6                      | ...damaging to anyone's social status that he attaches himself to.                                                   |
 
 #### Nuevo Artiste
 
@@ -4431,7 +4431,7 @@ Some people do not understand or enjoy the fine arts and this dim witted, muscle
 
 Required Skills: Art (any) Required Equipment: None
 
-This charismatic yet demanding professional makes it his life to arrange and organize entertainers for public shows, thereby making him every entertainer’s closest ally when performing.
+This charismatic yet demanding professional makes it his life to arrange and organize entertainers for public shows, thereby making him every entertainer's closest ally when performing.
 
 | The show manager is ... |                                                                                                            |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------- |
@@ -4443,7 +4443,7 @@ This charismatic yet demanding professional makes it his life to arrange and org
 
 Required Skills: Art (any) Required Equipment: Gallery/Venue
 
-There is a lot of work that goes into an entertainer’s tour and/or gallery exhibit. The hard-working laborers that have to push, pull,  adjust and joist all of the various pieces of each one can tend to get a little grumpy with the arrogant types that often take their work for granted.
+There is a lot of work that goes into an entertainer's tour and/or gallery exhibit. The hard-working laborers that have to push, pull,  adjust and joist all of the various pieces of each one can tend to get a little grumpy with the arrogant types that often take their work for granted.
 
 | The tour/gallery worker is ... |                                                                                                                               |
 | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -4455,13 +4455,13 @@ There is a lot of work that goes into an entertainer’s tour and/or gallery exh
 
 Required Skills: None Required Equipment: None
 
-An entertainer’s life revolves around how the public feels about him and this helpful and often stressed individual tries to make the best
+An entertainer's life revolves around how the public feels about him and this helpful and often stressed individual tries to make the best
 out of every situation in that regards.
 
 | The public relations manager is ... |                                                                                        |
 | ----------------------------------- | -------------------------------------------------------------------------------------- |
-| 1 – 2                               | ...scheduling a charity event for one of the characters to ‘put forth a caring image’. |
-| 3 – 4                               | ...always on the lookout for the perfect photo opportunity to ‘leak’ to the press.     |
+| 1 – 2                               | ...scheduling a charity event for one of the characters to 'put forth a caring image'. |
+| 3 – 4                               | ...always on the lookout for the perfect photo opportunity to 'leak' to the press.     |
 | 5                                   | ...not employed at the moment but is looking for an entertainer to work for.           |
 | 6                                   | ...not above staging an event to make his client look good.                            |
 
@@ -4497,9 +4497,9 @@ There are some professional roles that seem to only ever be filled by the most c
 
 | The talent judge is ... |                                                                                                                                       |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                   | ...undeniably mean when giving his opinions about someone’s work.                                                                     |
+| 1 – 2                   | ...undeniably mean when giving his opinions about someone's work.                                                                     |
 | 3 – 4                   | ...additionally bitter when judging because of his own lack of true talent.                                                           |
-| 5 – 6                   | ...looking for someone’s work to make a verbal example of, hopefully ‘weeding out’ the rest of the undesirables for the next contest. |
+| 5 – 6                   | ...looking for someone's work to make a verbal example of, hopefully 'weeding out' the rest of the undesirables for the next contest. |
 
 #### Entertainment Reporter
 
@@ -4530,7 +4530,7 @@ This member of an alien species managed to see one of the characters perform in 
 
 Required Skills: Art (any) Required Equipment: None
 
-There are many different prestigious awards that an entertainer can win in their field on the merit of their works and it is this man’s job to decide which ones win and which ones must try again later.
+There are many different prestigious awards that an entertainer can win in their field on the merit of their works and it is this man's job to decide which ones win and which ones must try again later.
 
 | The award committee member is ... |                                                                                                                                      |
 | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -4542,7 +4542,7 @@ There are many different prestigious awards that an entertainer can win in their
 
 Required Skills: None Required Equipment: None
 
-This is one of the character’s old rivals from their early years in the entertainment industry. Since that time he has gotten quite popular in their field and enjoys rubbing his success in the characters’ faces.
+This is one of the character's old rivals from their early years in the entertainment industry. Since that time he has gotten quite popular in their field and enjoys rubbing his success in the characters' faces.
 
 | The popular rival is ... |                                                                                                            |
 | ------------------------ | ---------------------------------------------------------------------------------------------------------- |
@@ -4595,7 +4595,7 @@ An entertainer cannot hope to please everyone all of the time and sometimes they
 
 | The displeased audience member is ... |                                                                                                                                          |
 | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                                 | ...unhappy and wants some form of refund for his ‘lost time’.                                                                            |
+| 1 – 2                                 | ...unhappy and wants some form of refund for his 'lost time'.                                                                            |
 | 3 – 4                                 | ...mad enough about the experience that he wants to discuss it with the entertainer, openly and preferably on some kind of media outlet. |
 | 5 – 6                                 | ...planning on making some kind of physical assault on the entertainer.                                                                  |
 
@@ -4694,8 +4694,8 @@ This eccentric and strange artiste is why other artistes and entertainers are of
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1 – 2                    | ...putting on an elaborate act to drum up fans. Weird fans but fans nonetheless.                                                                                                     |
 | 3 – 4                    | ...on some heavy narcotics that are to blame for much of his strangeness.                                                                                                            |
-| 5                        | ...following a set of ancient writings or scripture that he believes to be the laws of the universe. All other ways of acting are flawed because they do not follow ‘the true path’. |
-| 6                        | ...actually and truly insane. He requires medication that he refuses to take because it ‘stifles his creativity’.                                                                    |
+| 5                        | ...following a set of ancient writings or scripture that he believes to be the laws of the universe. All other ways of acting are flawed because they do not follow 'the true path'. |
+| 6                        | ...actually and truly insane. He requires medication that he refuses to take because it 'stifles his creativity'.                                                                    |
 
 #### Camera Handler
 
@@ -4713,20 +4713,20 @@ Although many high tech societies use gyroscopic grav-cams that auto track and f
 
 Required Skills: Art (any) Required Equipment: None
 
-To some, an entertainer’s style of how they present their art is sacrosanct. Even the artiste himself cannot change it, as far as they are concerned. This fan has seen some minor change or difference in their favored entertainer and now he has turned his love into hatred.
+To some, an entertainer's style of how they present their art is sacrosanct. Even the artiste himself cannot change it, as far as they are concerned. This fan has seen some minor change or difference in their favored entertainer and now he has turned his love into hatred.
 
 | The unforgiving fan is ... |                                                                                                                    |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| 1 – 2                      | ...boycotting all of the entertainer’s goods and shows.                                                            |
-| 3 – 4                      | ...starting an advertising ring or public forum about how much the ‘new’ entertainer is inferior to the ‘old’ one. |
-| 5                          | ...actually showing up to the entertainer’s events to cause problems for attendees.                                |
-| 6                          | ...planning to deal with the ‘new’ entertainer with deadly force.                                                  |
+| 1 – 2                      | ...boycotting all of the entertainer's goods and shows.                                                            |
+| 3 – 4                      | ...starting an advertising ring or public forum about how much the 'new' entertainer is inferior to the 'old' one. |
+| 5                          | ...actually showing up to the entertainer's events to cause problems for attendees.                                |
+| 6                          | ...planning to deal with the 'new' entertainer with deadly force.                                                  |
 
 #### Askew Visionary
 
 Required Skills: None Required Equipment: None
 
-Some entertainers have vision; others have a drive to see that vision through to the end. This visionary has both – but he also unfortunately has a much tilted view of the worlds and what his vision’s completion will actually mean.
+Some entertainers have vision; others have a drive to see that vision through to the end. This visionary has both – but he also unfortunately has a much tilted view of the worlds and what his vision's completion will actually mean.
 
 | The askew visionary is ... |                                                                                               |
 | -------------------------- | --------------------------------------------------------------------------------------------- |
@@ -4742,27 +4742,27 @@ It is the goal of all entertainers not just to entertain but to hopefully attrac
 
 | The new fan is ... |                                                                                                                                     |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2              | ...completely new to the entertainer’s work and is really enjoying it.                                                              |
-| 3 – 4              | ...wealthy and ready to make a contribution of some kind to the entertainer’s tour or show assets.                                  |
-| 5 – 6              | ...an important member of the local social structure and will bring the entertainer’s works to many new people in the days to come. |
+| 1 – 2              | ...completely new to the entertainer's work and is really enjoying it.                                                              |
+| 3 – 4              | ...wealthy and ready to make a contribution of some kind to the entertainer's tour or show assets.                                  |
+| 5 – 6              | ...an important member of the local social structure and will bring the entertainer's works to many new people in the days to come. |
 
 #### Media Critic
 
 Required Skills: Art (any) Required Equipment: Gallery/Venue
 
-It is this reporter’s job to scrutinize and pass judgement on the entertainment industry as a whole. His employer wants people to read his column or watch his show, so it means he will likely need to use strong terms and harsh language when he otherwise might have just said ‘I liked it’.
+It is this reporter's job to scrutinize and pass judgement on the entertainment industry as a whole. His employer wants people to read his column or watch his show, so it means he will likely need to use strong terms and harsh language when he otherwise might have just said 'I liked it'.
 
 | The media critic is ... |                                                                                                                                                                                 |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1                       | ...vehement about how much he disliked one of the character’s shows or galleries.                                                                                               |
+| 1                       | ...vehement about how much he disliked one of the character's shows or galleries.                                                                                               |
 | 2 – 5                   | ...lurking around taking notes and making everyone nervous. Exactly who he works for or what he is writing is a nerve-wracking mystery.                                         |
-| 6                       | ...sad that he has to write a scathing review of the character’s event because he actually enjoyed it but knows that good reviews do not get the numbers that the editor wants. |
+| 6                       | ...sad that he has to write a scathing review of the character's event because he actually enjoyed it but knows that good reviews do not get the numbers that the editor wants. |
 
 #### Top Story
 
 Required Skills: None Required Equipment: None
 
-This person’s face is currently gracing the cover of most magazines and several media programs due to a recent happening that pulled them into the limelight and made them into a nearly household name.
+This person's face is currently gracing the cover of most magazines and several media programs due to a recent happening that pulled them into the limelight and made them into a nearly household name.
 
 | The top story is ... |                                                                                                                                 |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -4780,13 +4780,13 @@ It is a mean world within the scope of the entertainment industry and few of peo
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                     | ...just looking to cause a little reputation damage to the character, nothing more.                                 |
 | 3 – 4                     | ...willing to sabotage sets, props and tools to try to cause embarrassment or even harm to the character.           |
-| 5 – 6                     | ...not above causing physical harm to the character, so long as it gets him closer to filling the character’s role. |
+| 5 – 6                     | ...not above causing physical harm to the character, so long as it gets him closer to filling the character's role. |
 
 #### Stable Director
 
 Required Skills: Art (any) Required Equipment: None
 
-There are several stables of like-minded entertainers out there – actor’s guilds, painting circles and journalism unions to name but a few. This person is the managing director for a stable of entertainers that do the same thing as one of the characters, making him a useful contact even if he is not hiring.
+There are several stables of like-minded entertainers out there – actor's guilds, painting circles and journalism unions to name but a few. This person is the managing director for a stable of entertainers that do the same thing as one of the characters, making him a useful contact even if he is not hiring.
 
 | The stable director is ... |                                                                                                                                    |
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
@@ -4798,11 +4798,11 @@ There are several stables of like-minded entertainers out there – actor’s gu
 
 Required Skills: None Required Equipment: None
 
-A nightmare for any entertainer, this type of fan has devoted far too much of his life to the almost religious worship of the entertainer’s works. He has tattoos, posters, fan artwork and an assortment of items based on the entertainer that even the entertainer was not aware existed. He also can be dangerous when rebuked...very dangerous.
+A nightmare for any entertainer, this type of fan has devoted far too much of his life to the almost religious worship of the entertainer's works. He has tattoos, posters, fan artwork and an assortment of items based on the entertainer that even the entertainer was not aware existed. He also can be dangerous when rebuked...very dangerous.
 
 | The obsessed fan is ... |                                                                                                                           |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                   | ...stalking one of the characters in order to get ‘unique personal items’ from them.                                      |
+| 1 – 2                   | ...stalking one of the characters in order to get 'unique personal items' from them.                                      |
 | 3 – 4                   | ...not going to leave the entertainer character alone while he is in the area.                                            |
 | 5                       | ...not above complete invasions of privacy, seeing the entertainer as his best friend even if they have never met before. |
 | 6                       | ...so deluded in his lust for the entertainer that he will turn homicidal if turned away from his worship of him.         |
@@ -4811,14 +4811,14 @@ A nightmare for any entertainer, this type of fan has devoted far too much of hi
 
 Required Skills: Art (any) Required Equipment: Gallery/Venue
 
-Every entertainer in the beginnings of their career looks to the crowds at their event and hopes that this man’s eyes are staring back at them. He is a talent scout for a larger company or firm that employs entertainers and his presence often means a chance at fame and fortune.
+Every entertainer in the beginnings of their career looks to the crowds at their event and hopes that this man's eyes are staring back at them. He is a talent scout for a larger company or firm that employs entertainers and his presence often means a chance at fame and fortune.
 
 | The talent scout is ... |                                                                                                                                           |
 | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                   | ...looking for someone to impress him because he has a blank contract in his satchel.                                                     |
 | 3 – 4                   | ...attending the event just because he enjoys such things but might be persuaded into talking afterwards.                                 |
 | 5                       | ...a representative of a multi-system talent agency that is responsible for dozens of intergalactic celebrities getting their first shot. |
-| 6                       | ...actually at the event to look at one of the character’s work; he might make an offer if the character does well enough.                |
+| 6                       | ...actually at the event to look at one of the character's work; he might make an offer if the character does well enough.                |
 
 #### Galactic Ultra-Celebrity
 
@@ -4830,7 +4830,7 @@ There are faces and names out across the populated worlds that seem to resonate 
 | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                               | ...on a local project that will bring him in contact with the characters.                                                                                      |
 | 3 – 4                               | ...enjoying a vacation from their normal day-to-day life.                                                                                                      |
-| 5 – 6                               | ...actually aware somehow of the characters’ existences and wants to talk to them about something important and inexplicably in line with their current lives. |
+| 5 – 6                               | ...actually aware somehow of the characters' existences and wants to talk to them about something important and inexplicably in line with their current lives. |
 
 ### Citizen
 
@@ -4864,7 +4864,7 @@ average people. There is a cast of thousands of different personalities waiting 
 
 Required Skills: Investigate Required Equipment: None
 
-This young adult has recently become enamored with the idea of becoming a criminal and has turned to minor vandalism and petty theft to add to his ‘street credit’.
+This young adult has recently become enamored with the idea of becoming a criminal and has turned to minor vandalism and petty theft to add to his 'street credit'.
 
 | The petty criminal is ... |                                                                       |
 | ------------------------- | --------------------------------------------------------------------- |
@@ -4888,13 +4888,13 @@ Although a human term, the idea still stands true. This person has the right mor
 
 Required Skills: None Required Equipment: Residence
 
-This uniformed peace Officer spends a great deal of time in the same general area as one of the character’s home. He rarely works anywhere else and has become a local piece of shared resource.
+This uniformed peace Officer spends a great deal of time in the same general area as one of the character's home. He rarely works anywhere else and has become a local piece of shared resource.
 
 | The neighborhood constable is ... |                                                                                       |
 | --------------------------------- | ------------------------------------------------------------------------------------- |
-| 1 – 2                             | ...on a steady patrol of the area, stopping by all of the houses just to ‘check in’.  |
+| 1 – 2                             | ...on a steady patrol of the area, stopping by all of the houses just to 'check in'.  |
 | 3 – 4                             | ...looking for a local miscreant hiding in the neighborhood and might need some help. |
-| 5 – 6                             | ...off duty and passing out some flyers for his precinct’s annual fundraiser.         |
+| 5 – 6                             | ...off duty and passing out some flyers for his precinct's annual fundraiser.         |
 
 #### Local Curmudgeon
 
@@ -4905,8 +4905,8 @@ Ill-tempered, cantankerous and verbally abusive to anyone who passes by him, thi
 | The local curmudgeon is ... |                                                                                                             |
 | --------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | 1 – 2                       | ...unhappy because of a lost loved one.                                                                     |
-| 3 – 4                       | ...actively trying to stamp out other peoples’ happiness because he feels so disgruntled all of the time.   |
-| 5 – 6                       | ...an expert at picking out people’s flaws, which he will assuredly announce loudly when he discovers them. |
+| 3 – 4                       | ...actively trying to stamp out other peoples' happiness because he feels so disgruntled all of the time.   |
+| 5 – 6                       | ...an expert at picking out people's flaws, which he will assuredly announce loudly when he discovers them. |
 
 #### Streetside Salesman
 
@@ -4937,13 +4937,13 @@ After eight to ten hours of labor-intensive work at the local industrial complex
 
 Required Skills: None Required Equipment: Residence
 
-Although it is assumptive to claim that every visiting relative is not a welcomed thing, this particular relative is unexpected, uninvited and utterly unwanted in the character’s home at this time.
+Although it is assumptive to claim that every visiting relative is not a welcomed thing, this particular relative is unexpected, uninvited and utterly unwanted in the character's home at this time.
 
 | The visiting relative is ... |                                                                                                                                                                    |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1 – 2                        | ...a distant relative that the character barely knows but seems to owe a favor to.                                                                                 |
 | 3 – 4                        | ...a recovering drug addict – recently recovering.                                                                                                                 |
-| 5 – 6                        | ...just out of an abusive relationship and is using the character’s home to ‘get away’. However this will not prevent the ex from stopping by and causing trouble. |
+| 5 – 6                        | ...just out of an abusive relationship and is using the character's home to 'get away'. However this will not prevent the ex from stopping by and causing trouble. |
 
 #### Waitress
 
@@ -4953,7 +4953,7 @@ The usefulness of a local diner or restaurant to a galactic traveller is without
 
 | The waitress is ... |                                                                                                                |
 | ------------------- | -------------------------------------------------------------------------------------------------------------- |
-| 1 – 2               | ...eager to hear about the characters’ travels and adventures.                                                 |
+| 1 – 2               | ...eager to hear about the characters' travels and adventures.                                                 |
 | 3 – 4               | ...very attractive and single, making her flirtatious methods of getting bigger tips very advantageous.        |
 | 5                   | ...married to a local galactic explorer in need of work or at the very least, a good reference to an employer. |
 | 6                   | ...looking for a way off of this planet and into a more exciting life.                                         |
@@ -4962,12 +4962,12 @@ The usefulness of a local diner or restaurant to a galactic traveller is without
 
 Required Skills: Persuade Required Equipment: None
 
-This is a standard soldier assigned to the local area to ensure public safety, which also means looking out for troublesome galactic-types that spend too much time off-world to know what ‘peaceful’ is.
+This is a standard soldier assigned to the local area to ensure public safety, which also means looking out for troublesome galactic-types that spend too much time off-world to know what 'peaceful' is.
 
 | The peacekeeping trooper is ... |                                                                                                            |
 | ------------------------------- | ---------------------------------------------------------------------------------------------------------- |
 | 1 – 2                           | ...on a routine in the area and thinks the characters look like trouble.                                   |
-| 3 – 4                           | ...packing an illegal firearm ‘just in case’.                                                              |
+| 3 – 4                           | ...packing an illegal firearm 'just in case'.                                                              |
 | 5 – 6                           | ...willing to quickly go to physical means when the safety of his community is perceived as being in risk. |
 
 #### Beverage Stand Clerk
@@ -4978,7 +4978,7 @@ Throughout the shopping centers and street bazaars of the universe, nice people 
 
 | The beverage stand clerk is ... |                                                                                                                            |
 | ------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                           | ...charging fairly inexpensive rates for a moderately good drink that he says is a ‘family recipe’.                        |
+| 1 – 2                           | ...charging fairly inexpensive rates for a moderately good drink that he says is a 'family recipe'.                        |
 | 3 – 4                           | ...at the center of an amazing gossip and eavesdropping network in his commercial center.                                  |
 | 5 – 6                           | ...convinced that the characters must help him deal with a handful of thugs that have been extorting money from his stand. |
 
@@ -4998,13 +4998,13 @@ Unless someone is skilled enough to look under the hood of their own vehicle, th
 
 Required Skills: None Required Equipment: Residence
 
-This is just the guy next door; the friendly person who occasionally watches over the character’s house while they are off travelling the galaxy.
+This is just the guy next door; the friendly person who occasionally watches over the character's house while they are off travelling the galaxy.
 
 | The neighbor is ... |                                                                                                                                          |
 | ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2               | ...a little nosy at times but not to the point of annoyance.                                                                             |
-| 3 – 4               | ...a good source of neighborhood rumors and stories that cropped up between the character’s visits.                                      |
-| 5                   | ...trusted enough to have a key to the character’s home in order to bring in the mail, feed the pets and perform other necessary duties. |
+| 3 – 4               | ...a good source of neighborhood rumors and stories that cropped up between the character's visits.                                      |
+| 5                   | ...trusted enough to have a key to the character's home in order to bring in the mail, feed the pets and perform other necessary duties. |
 | 6                   | ...willing to actively ask the neighborhood and workplace about something of interest to the characters.                                 |
 
 #### Mugger
@@ -5035,11 +5035,11 @@ There are few people in the galaxy that do not enjoy a good laugh and this artis
 
 Required Skills: Investigate Required Equipment: None
 
-A wise man once said that ‘a sucker is born every minute’ and this slimy charlatan holds that statement as his motto. He travels from place to place like a nomad, sowing the seeds of his confidence scams so he may return to reap the crops before vanishing once more.
+A wise man once said that 'a sucker is born every minute' and this slimy charlatan holds that statement as his motto. He travels from place to place like a nomad, sowing the seeds of his confidence scams so he may return to reap the crops before vanishing once more.
 
 | The travelling con man is ... |                                                                                                                                       |
 | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                         | ...an expert at reading people’s emotional weaknesses, preying on them to get them to invest in his scams.                            |
+| 1 – 2                         | ...an expert at reading people's emotional weaknesses, preying on them to get them to invest in his scams.                            |
 | 3 – 4                         | ...on the run from the law and only sets up enough cons to live on; otherwise he may alert the men who are after him to his location. |
 | 5 – 6                         | ...targeting the characters for a massive scam that might cost them more than just a few credits.                                     |
 
@@ -5054,14 +5054,14 @@ This is just a normal, run-of-the-mill citizen found in many numbers throughout 
 | 1                         | ...unemployed and looking for a way to make a few spare credits.                                                                    |
 | 2                         | ...interested in meeting the characters, as that they look like unique folk.                                                        |
 | 3 – 4                     | ...just passing by but could be enticed into a conversation quickly enough.                                                         |
-| 5                         | ...an old military retiree and veteran. He enjoys regaling others with stories about the ‘old days’ before fusion cannons and such. |
+| 5                         | ...an old military retiree and veteran. He enjoys regaling others with stories about the 'old days' before fusion cannons and such. |
 | 6                         | ...more than he seems on the outside; he has a past that he does not talk about much.                                               |
 
 #### Utility Repairman
 
 Required Skills: None Required Equipment: None
 
-Working long hours in poor locations and dangerous situations can make this repairman’s job tougher than it looks. He has to deal with unhappy customers that need their utilities worked on, who often take their frustrations out on him directly.
+Working long hours in poor locations and dangerous situations can make this repairman's job tougher than it looks. He has to deal with unhappy customers that need their utilities worked on, who often take their frustrations out on him directly.
 
 | The utility repairman is ... |                                                                                                                                                                     |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -5073,14 +5073,14 @@ Working long hours in poor locations and dangerous situations can make this repa
 
 Required Skills: None Required Equipment: None
 
-Not the most prestigious of roles in a community but easily one of the most important, this government worker legitimately is the one who ‘takes out the trash’. There is a lot to be learned from the rubbish someone throws out and the sanitation crew is an often untapped source of information.
+Not the most prestigious of roles in a community but easily one of the most important, this government worker legitimately is the one who 'takes out the trash'. There is a lot to be learned from the rubbish someone throws out and the sanitation crew is an often untapped source of information.
 
 | The sanitation worker is ... |                                                                                                                                                                                                           |
 | ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                        | ...doing his rounds but would happily stop for a few minutes if someone wanted to have a chat.                                                                                                            |
-| 3 – 4                        | ...off duty and looking for a few stiff drinks at a table with his friends; he has some good ‘listen to what I found in the trash’ stories to tell.                                                       |
+| 3 – 4                        | ...off duty and looking for a few stiff drinks at a table with his friends; he has some good 'listen to what I found in the trash' stories to tell.                                                       |
 | 5                            | ...in the possession of an important piece of equipment that was accidentally thrown away and is now hunted by the original owner. He needs help or at least someone to take the equipment off his hands. |
-| 6                            | ...torn about going to the police about a dead body he found in someone famous’ bin. He wonders if he should try to get some money out of them instead.                                                   |
+| 6                            | ...torn about going to the police about a dead body he found in someone famous' bin. He wonders if he should try to get some money out of them instead.                                                   |
 
 #### New Face in Town
 
@@ -5114,8 +5114,8 @@ A neighborhood is much like any larger social setting; there will always be some
 
 | The envious homeowner is ... |                                                                                                                                      |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| 1 – 2                        | ...tired of having the ‘second largest’ or ‘second prettiest’ house on the block and is not above petty vandalism to even the score. |
-| 3 – 4                        | ...friendly to the character’s face but talks very badly about him behind his back.                                                  |
+| 1 – 2                        | ...tired of having the 'second largest' or 'second prettiest' house on the block and is not above petty vandalism to even the score. |
+| 3 – 4                        | ...friendly to the character's face but talks very badly about him behind his back.                                                  |
 | 5 – 6                        | ...getting ready to commit an act of arson.                                                                                          |
 
 #### Shift Manager
@@ -5127,7 +5127,7 @@ The corporate world of wage slaves and managerial whip-crackers has its occasion
 | The shift manager is ... |                                                                                                                                      |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
 | 1 – 2                    | ...looking for a new assistant.                                                                                                      |
-| 3 – 4                    | ...able to give a very small raise to a small number of loyal employees; yet only if he is ‘wowed’ by their performances.            |
+| 3 – 4                    | ...able to give a very small raise to a small number of loyal employees; yet only if he is 'wowed' by their performances.            |
 | 5                        | ...receiving a promotion soon and was given the okay to pick his own replacement.                                                    |
 | 6                        | ...actually an executive Officer in the company but moves around in the guise of a shift manager to try to get a better feel for the |
 | company as a whole.      |                                                                                                                                      |
@@ -5136,7 +5136,7 @@ The corporate world of wage slaves and managerial whip-crackers has its occasion
 
 Required Skills: None Required Equipment: None
 
-Having lost all touch with the employees, this bottom-line executive recognizes only two words when dealing with his employees – ‘profit’ and ‘loss’.
+Having lost all touch with the employees, this bottom-line executive recognizes only two words when dealing with his employees – 'profit' and 'loss'.
 
 | The corporate director is ... |                                                                                                                              |
 | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -5176,7 +5176,7 @@ One of the truest heroes in every sense of the word, this courageous and athleti
 
 | The firefighter is ... |                                                                                                                                                                 |
 | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                  | ...taking it easy while ‘on call’ but could be called away to put out a blaze at any time.                                                                      |
+| 1 – 2                  | ...taking it easy while 'on call' but could be called away to put out a blaze at any time.                                                                      |
 | 3 – 4                  | ...looking for a group of seasoned travellers to spend some vacation time with, as he wants to see the galaxy without it always being on fire for him to do so. |
 | 5 – 6                  | ...thinking about taking up some galactic exploration with the Scouts or perhaps a freelance crew.                                                              |
 
@@ -5184,11 +5184,11 @@ One of the truest heroes in every sense of the word, this courageous and athleti
 
 Required Skills: None Required Equipment: None
 
-Not against anyone else’s progress by design, this unfortunate member of the staff is just a temporary fill-in for someone who is away on vacation or an extended illness. He is not especially good at the job, tends to be awkward and gets in the way and does more harm than good in the position.
+Not against anyone else's progress by design, this unfortunate member of the staff is just a temporary fill-in for someone who is away on vacation or an extended illness. He is not especially good at the job, tends to be awkward and gets in the way and does more harm than good in the position.
 
 | The temp is ... |                                                                                                                          |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 1 – 2           | ...going to be around for a long time due to a worker’s maternity leave but he still refuses to learn any useful skills. |
+| 1 – 2           | ...going to be around for a long time due to a worker's maternity leave but he still refuses to learn any useful skills. |
 | 3 – 4           | ...only filling the position for a little while but could not care any less about it.                                    |
 | 5 – 6           | ...really trying to do a good job and get hired on full-time. He is just too inept to make that really happen.           |
 
@@ -5200,9 +5200,9 @@ Every company or neighborhood has one and this man is the local one – a go-to 
 
 | The go-to man is ... |                                                                                                                                               |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                | ...truly able to get anything taken care of; however that is only due to the fact that his brother-in-law is in an organized smuggler’s ring. |
+| 1 – 2                | ...truly able to get anything taken care of; however that is only due to the fact that his brother-in-law is in an organized smuggler's ring. |
 | 3 – 4                | ...better at acquiring things rather than getting things done but he will try nonetheless for a small price.                                  |
-| 5                    | ...at the center of a huge network of contacts and allies that would boggle most peoples’ minds.                                              |
+| 5                    | ...at the center of a huge network of contacts and allies that would boggle most peoples' minds.                                              |
 | 6                    | ...an ex-military fixer that left the service to go into business for himself.                                                                |
 
 #### Village Idiot
@@ -5222,11 +5222,11 @@ This is the local dullard; he cannot necessarily help the fact that he is never 
 
 Required Skills: None Required Equipment: Commercial Mall
 
-Often the gathering center of a small community is its shopping center and this executive member of the center’s staff is in charge of seeing that everything goes smoothly for the shoppers, the workers and any guests.
+Often the gathering center of a small community is its shopping center and this executive member of the center's staff is in charge of seeing that everything goes smoothly for the shoppers, the workers and any guests.
 
 | The shopping mall supervisor is ... |                                                                                                                                                                                                             |
 | ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                               | ...always in need of ‘secret shoppers’ to go out and evaluate his workers for him.                                                                                                                          |
+| 1 – 2                               | ...always in need of 'secret shoppers' to go out and evaluate his workers for him.                                                                                                                          |
 | 3 – 4                               | ...worried that one of his co-management members is embezzling from the mall funds. He will hire the characters to investigate if they agree to it.                                                         |
 | 5 – 6                               | ...honestly just looking for a few hours away from the security monitors with some good conversation. He has a great deal of free meal coupons for the food court to bribe the characters with, if need be. |
 
@@ -5240,7 +5240,7 @@ This foreign alien sentient being has come to the area to carve out a settlement
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------ |
 | 1 – 2                    | ...trying to be elusive and secretive about his new settlement, arranging the necessary elements from the shadows. |
 | 3 – 4                    | ...unknowingly throwing the locals into a xenophobic panic.                                                        |
-| 5 – 6                    | ...militant and dangerous to the point where he will not take ‘no, you cannot live here’ as an answer.             |
+| 5 – 6                    | ...militant and dangerous to the point where he will not take 'no, you cannot live here' as an answer.             |
 
 #### Passing Explorer
 
@@ -5263,7 +5263,7 @@ Living all alone and away from the other people of his area, this social outcast
 | The recluse is ... |                                                                                                                                                                                      |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1                  | ...a fugitive criminal that just wants to be left alone but will turn to his old ways if he is worried about actually getting caught.                                                |
-| 2 – 4              | ...angry with the greater area’s government and has pulled away from society to avoid it.                                                                                            |
+| 2 – 4              | ...angry with the greater area's government and has pulled away from society to avoid it.                                                                                            |
 | 5 – 6              | ...a conspiracy theorist with a great deal of stockpiled guns, ammunition, survival gear and the skills to put them all to use against anyone foolish enough to come and bother him. |
 
 #### Old Storyteller
@@ -5274,8 +5274,8 @@ This old friend to the locals is well known for his ability to captivate any who
 
 | The old storyteller is ... |                                                                                                                                                        |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1 – 2                      | ...full of old war stories from the last generation’s big war. He was definitely there by the descriptions in his stories or he knows someone who was. |
-| 3 – 4                      | ...reluctant to ever talk about current topics without spinning it into a story about ‘old times’.                                                     |
+| 1 – 2                      | ...full of old war stories from the last generation's big war. He was definitely there by the descriptions in his stories or he knows someone who was. |
+| 3 – 4                      | ...reluctant to ever talk about current topics without spinning it into a story about 'old times'.                                                     |
 | 5 – 6                      | ...far too clear on matters that he should have no idea about; he is definitely more than he seems on the outside.                                     |
 
 #### Industrial Broker
@@ -5299,7 +5299,7 @@ This space jock comes and goes on his leased vessel all of the time, stopping by
 | The allied spacer is ... |                                                                                                                                             |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                    | ...here to bury a pair of locals that were serving in his ship with him and now he needs the extra hands.                                   |
-| 3 – 4                    | ...between missions at the moment but happy to talk to his ship’s captain in order to ferry the characters to theirs.                       |
+| 3 – 4                    | ...between missions at the moment but happy to talk to his ship's captain in order to ferry the characters to theirs.                       |
 | 5 – 6                    | ...on an important mission to this planet and thinks he can trust the characters more than his fellow crewmates with helping him finish it. |
 
 #### Estranged Family Member
@@ -5324,18 +5324,18 @@ This bearer of good tidings only ever comes around when someone has chosen the r
 | The lottery commissioner is ... |                                                                                                                                   |
 | ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                           | ...carrying a massive amount of credits for a local winner and is willing to pay for some protection in order to deliver it.      |
-| 3 – 4                           | ...in the area to sell ‘second chance’ tickets, with a 100 to 1 chance at winning one MegaCredit from the unclaimed lottery pool. |
+| 3 – 4                           | ...in the area to sell 'second chance' tickets, with a 100 to 1 chance at winning one MegaCredit from the unclaimed lottery pool. |
 | 5 – 6                           | ...bringing a small purse of winnings to one of the characters, who apparently entered some sweepstake accidentally.              |
 
 #### Sociopath
 
 Required Skills: None Required Equipment: None
 
-Something is simply not right in this person’s head; he has a twisted view of the world that causes him to go to great lengths to inflict pain, suffering and murders upon the populace.
+Something is simply not right in this person's head; he has a twisted view of the world that causes him to go to great lengths to inflict pain, suffering and murders upon the populace.
 
 | The sociopath is ... |                                                                                                                                                                                                                  |
 | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 3                | ...’normal’ most of the time, it is just when his special trigger gets flipped that he becomes the sick monster that has killed so many.                                                                         |
+| 1 – 3                | ...'normal' most of the time, it is just when his special trigger gets flipped that he becomes the sick monster that has killed so many.                                                                         |
 | 4                    | ...really into the use of high-power industrial tools – on anything that screams and bleeds.                                                                                                                     |
 | 5                    | ...addicted to body augmentation. Bionics, genetics, artistic modification and cybernetics are what keep his mind moving. He will do anything to acquire more to add to his almost unrecognizable body.          |
 | 6                    | ...cold, calm and always carrying a sharp blade. Most of his kills are in private areas of public places like restrooms, closets and alleys. It cannot be guessed as to why or where he strikes; he simply does. |
@@ -5421,7 +5421,7 @@ The perfect crime is one that goes off without a hitch and without anyone knowin
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------- |
 | 1                  | ... already being watched by a private security force until he can make a full statement as to what he saw.                        |
 | 2 – 4              | ...on his way to report what he saw; perhaps the characters can dissuade him from doing so.                                        |
-| 5 – 6              | ...carrying factual evidence of the character’s criminal activity on his person. It cannot fall into the hands of the authorities. |
+| 5 – 6              | ...carrying factual evidence of the character's criminal activity on his person. It cannot fall into the hands of the authorities. |
 
 #### Warehouse Manager
 
@@ -5445,7 +5445,7 @@ No criminal wants to see an easy crime go sour because of a citizen that thinks 
 | The hero-in-training is ... |                                                                                                                                             |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                       | ...going to make a huge mess of an otherwise peaceful situation.                                                                            |
-| 3 – 4                       | ...looking to get famous by ‘being the big hero’, even though it might mean it happens posthumously.                                        |
+| 3 – 4                       | ...looking to get famous by 'being the big hero', even though it might mean it happens posthumously.                                        |
 | 5 – 6                       | ...ex-military and actually knows what he is doing with that gun, which is apparent from how he handles himself in the unfolding situation. |
 
 LOWER-CLASS PATRONS
@@ -5458,7 +5458,7 @@ This specialized technician is employed by a prestigious security agency that ou
 
 | The security system installer is ... |                                                                                                                                                                                                                               |
 | ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                                | ...putting in a new system for a rich noble outside of town. He is going to make a window of about eight hours where the system will need to ‘reboot’; as long as he gets paid, the characters can use it.                    |
+| 1 – 2                                | ...putting in a new system for a rich noble outside of town. He is going to make a window of about eight hours where the system will need to 'reboot'; as long as he gets paid, the characters can use it.                    |
 | 3 – 4                                | ...selling camera and scanner maps of several large banks and storage facilities for only Cr5,000 each.                                                                                                                       |
 | 5 – 6                                | ...about to leave the security industry to join a pirate crew and is about to do a really big job for a high-end jeweler. He is willing to leave an access code for the characters, as long as they give him 25% of the take. |
 
@@ -5471,7 +5471,7 @@ Thieves and pirates know that they sometimes have to look lower on the criminal 
 | The ambitious henchman is ... |                                                                                                                             |
 | ----------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                         | ...playing up his friendship and servitude to the characters, waiting for his moment to strike.                             |
-| 3 – 4                         | ...not going to try to take the character’s spot directly; he is instead going to try and set him up to fail spectacularly. |
+| 3 – 4                         | ...not going to try to take the character's spot directly; he is instead going to try and set him up to fail spectacularly. |
 | 5 – 6                         | ...not opposed to a direct attack, if he thinks he can get away with it.                                                    |
 
 #### Fence
@@ -5495,8 +5495,8 @@ Always ready to tell the authorities what he has heard about the underworld acti
 
 | The snitch is ... |                                                                                                                                                                              |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2             | ...on the ‘wanted’ list of a local crime lord, making him paranoid and likely to stay near authority figures nearly all of the time.                                         |
-| 3 – 4             | ...going to play informant on an ally of the characters’ and they have a chance to stop him before he gets to the authorities.                                               |
+| 1 – 2             | ...on the 'wanted' list of a local crime lord, making him paranoid and likely to stay near authority figures nearly all of the time.                                         |
+| 3 – 4             | ...going to play informant on an ally of the characters' and they have a chance to stop him before he gets to the authorities.                                               |
 | 5 – 6             | ...is aware of something extremely illegal that the characters are going to undertake and will assuredly use that information to get in better with the local investigators. |
 
 #### Open-Van Salesman
@@ -5515,13 +5515,13 @@ This opportunistic retailer does not have access to a shop or a kiosk; instead h
 
 Required Skills: Investigate Required Equipment: None
 
-The old adage ‘there is honor amongst thieves’ means absolutely nothing to this malicious rogue. He is out for himself and himself only and he enjoys getting in close with other thieves before double- crossing them and taking their biggest hauls.
+The old adage 'there is honor amongst thieves' means absolutely nothing to this malicious rogue. He is out for himself and himself only and he enjoys getting in close with other thieves before double- crossing them and taking their biggest hauls.
 
 | The dishonorable thief is ... |                                                                                                                                                    |
 | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                         | ...targeting the characters for his next ‘make-and-break-friends’ scam.                                                                            |
+| 1 – 2                         | ...targeting the characters for his next 'make-and-break-friends' scam.                                                                            |
 | 3 – 4                         | ...known in most circles for his dishonest and unscrupulous practices amongst his allies, giving the characters some idea of how to deal with him. |
-| 5 – 6                         | ...very convincing about trying to make right on some old debts he owes; even if he is planning on using the characters’ funds to do so!           |
+| 5 – 6                         | ...very convincing about trying to make right on some old debts he owes; even if he is planning on using the characters' funds to do so!           |
 
 #### Organized Crime Agent
 
@@ -5531,9 +5531,9 @@ Most rogues work for themselves or in very small groups to avoid being caught bu
 
 | The organized crime agent is ... |                                                                                                                                                                                      |
 | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1 – 2                            | ...running a local job that needs a few unaffiliated hands to function properly. He can make it worth the characters’ while, even if they do not want to do it just for recognition. |
+| 1 – 2                            | ...running a local job that needs a few unaffiliated hands to function properly. He can make it worth the characters' while, even if they do not want to do it just for recognition. |
 | 3 – 4                            | ...on a personal task for his syndicate. He would like the characters to cause a distraction for him; drawing the authorities away while he works.                                   |
-| 5                                | ... running from the law and will tap the characters’ resources to hide, owing them quite a favor afterwards.                                                                        |
+| 5                                | ... running from the law and will tap the characters' resources to hide, owing them quite a favor afterwards.                                                                        |
 | 6                                | ...bearing an offer for the characters to come to work for the syndicate.                                                                                                            |
 
 #### Double-Agent
@@ -5552,7 +5552,7 @@ No one should ever trust a traitor; especially in the case of criminal life. Thi
 
 Required Skills: Persuade Required Equipment: None
 
-This professional fleshmonger makes his or her living on the fees charged by the stable’s prostitutes. The prostitutes get most of the money and he or she gets money, power and the knowledge of who is working with his wares.
+This professional fleshmonger makes his or her living on the fees charged by the stable's prostitutes. The prostitutes get most of the money and he or she gets money, power and the knowledge of who is working with his wares.
 
 | The pimp/madame is ... |                                                                                                                                                                |
 | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -5595,7 +5595,7 @@ This fellow rogue is a semi-allied acquaintance of one the characters but he is 
 | The self-serving cohort is ... |                                                                                                                                                          |
 | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                          | ...going to go on a mission that actually requires a few additional bodies to succeed – as unwilling decoys.                                             |
-| 3 – 4                          | ...talking openly about double-crossing one of the characters’ local acquaintances.                                                                      |
+| 3 – 4                          | ...talking openly about double-crossing one of the characters' local acquaintances.                                                                      |
 | 5 – 6                          | ...researching an endeavor that he wants to undertake on his own but the characters might be able to fulfil it faster if they do not mind upsetting him. |
 
 #### Dirty Constable
@@ -5606,9 +5606,9 @@ Always with a hand out for bribes, this local peacekeeping agent is not the typi
 
 | The dirty constable is ... |                                                                                                                                                                                                      |
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                      | ...being assigned a patrol in the characters’ local area; it could be time to make an early offer to him.                                                                                            |
+| 1 – 2                      | ...being assigned a patrol in the characters' local area; it could be time to make an early offer to him.                                                                                            |
 | 3 – 4                      | ...a truly crooked policeman. He takes bribes, extorts money and favors from his arrests and habitually takes drugs.                                                                                 |
-| 5                          | ...aware of an honest patrolman in the area and cannot bring himself to ‘do the kid in’, even if it will hurt his profits. He does hope the characters will not have any problems doing so, however. |
+| 5                          | ...aware of an honest patrolman in the area and cannot bring himself to 'do the kid in', even if it will hurt his profits. He does hope the characters will not have any problems doing so, however. |
 | 6                          | ...actually looking to hire the characters to take care of a few problems he is having with some old cohorts. He pays well but his favors are generally far more useful.                             |
 
 #### Spiraling Addict
@@ -5646,7 +5646,7 @@ There is not a rogue alive looking forward to being drafted into the military, o
 | The draftsman is ... |                                                                                                                                                            |
 | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                | ...not looking for anyone in particular, he is just handing out flyers in the area.                                                                        |
-| 3 – 4                | ...carrying a suitcase of draft notices for many of the characters’ local friends and allies. Someone would surely reward them if he suddenly disappeared. |
+| 3 – 4                | ...carrying a suitcase of draft notices for many of the characters' local friends and allies. Someone would surely reward them if he suddenly disappeared. |
 | 5 – 6                | ...looking for one of the characters to serve them with a draft notice.                                                                                    |
 
 #### Fugitive
@@ -5665,7 +5665,7 @@ Escaped and on the run, this fugitive from the law is a good ally to have if you
 
 Required Skills: Persuade Required Equipment: None
 
-This person is tantalizing to look upon with a thief’s eyes due to his expensive jewelry and bloated wallet but he is in a situation that might prove too difficult to steal from him.
+This person is tantalizing to look upon with a thief's eyes due to his expensive jewelry and bloated wallet but he is in a situation that might prove too difficult to steal from him.
 
 | The tough mark is ... |                                                                                                                                                          |
 | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -5682,14 +5682,14 @@ Knowing someone that specializes in the getting in of locked or barred establish
 | The entry specialist is ... |                                                                                                                                                                                        |
 | --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                       | ...willing to sign up for a job for a small fee, as long as the characters do not try to get him to help with anything but the locked door.                                            |
-| 3 – 4                       | ...planning a huge heist in a bank previously thought of as ‘unbreachable’. He says he has a way in but that he will need a few partners to pull it off fast enough to not get caught. |
+| 3 – 4                       | ...planning a huge heist in a bank previously thought of as 'unbreachable'. He says he has a way in but that he will need a few partners to pull it off fast enough to not get caught. |
 | 5 – 6                       | ...happy to show off his remarkable lock slicing skills for a few credits but will demand more if he knows the level of profit the characters are to make.                             |
 
 #### Paranoid Clerk
 
 Required Skills: Stealth Required Equipment: Store/Shop
 
-Stealing from a manned shop or booth is difficult enough without this clerk’s hawking eyes watching a rogue’s every move. Someone stole from him once before and now he cannot stop thinking that everyone might be trying to.
+Stealing from a manned shop or booth is difficult enough without this clerk's hawking eyes watching a rogue's every move. Someone stole from him once before and now he cannot stop thinking that everyone might be trying to.
 
 | The paranoid clerk is ... |                                                                                                                                                                                              |
 | ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -5706,7 +5706,7 @@ This agile and dexterous vehicle jock knows there is money in bringing people fr
 | The getaway driver is ... |                                                                                                                                                                           |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                     | ...a rogue himself and understands how important a fast escape can be.                                                                                                    |
-| 3 – 4                     | ...willing to negotiate any form of travel, to any specifications. Duration, safety, secrecy – nothing is left out of this guy’s contracts.                               |
+| 3 – 4                     | ...willing to negotiate any form of travel, to any specifications. Duration, safety, secrecy – nothing is left out of this guy's contracts.                               |
 | 5 – 6                     | ...a professional driver that plans a course three times in his head and always drives it once to make sure everything goes smoothly. His fee is high but he is worth it. |
 
 #### Late Night Janitor
@@ -5719,7 +5719,7 @@ Too many midnight robberies have been thwarted by employees just like this one, 
 | The late night janitor is ... |                                                                                                                                                                                   |
 | ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                         | ...old and unhappy with his career choices but he still views stealing as wrong and will stick to his morals if they are brought to question.                                     |
-| 3 – 4                         | ...only working this job because of a prison-release program for his parole and he will not allow some other criminals’ work to potentially put him back behind plastic barriers! |
+| 3 – 4                         | ...only working this job because of a prison-release program for his parole and he will not allow some other criminals' work to potentially put him back behind plastic barriers! |
 | 5 – 6                         | ... simple minded but physically enormous. He will not be an easy obstacle to get past during the late night activity.                                                            |
 
 #### Open-Palmed Executive
@@ -5739,7 +5739,7 @@ This young business executive knows what really drives the universe - money. He 
 
 Required Skills: Stealth Required Equipment: None
 
-Most people, as events show, will turn their attentions elsewhere and ‘not get involved’ when confronted with criminal activity. Not this person though; his upbringing or moral compass points true North and he will always get involved if he can.
+Most people, as events show, will turn their attentions elsewhere and 'not get involved' when confronted with criminal activity. Not this person though; his upbringing or moral compass points true North and he will always get involved if he can.
 
 | The honest citizen is ... |                                                                                                                                                                     |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -5751,7 +5751,7 @@ Most people, as events show, will turn their attentions elsewhere and ‘not get
 
 Required Skills: None Required Equipment: None
 
-This fellow rogue once worked alongside one of the characters. He knows the character’s tricks, style and modus operandi. This makes him a dangerous rival to have loose on the street.
+This fellow rogue once worked alongside one of the characters. He knows the character's tricks, style and modus operandi. This makes him a dangerous rival to have loose on the street.
 
 | The former partner is ... |                                                                                                                                           |
 | ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
@@ -5775,13 +5775,13 @@ He has catered meals, visits from beautiful women and the power to kill with a w
 
 Required Skills: Any Combat Required Equipment: None
 
-Enforcers are people that hit, stab and generally hurt other people for their employers. This one is no different, except that he expressly works for one of the characters’ rivals.
+Enforcers are people that hit, stab and generally hurt other people for their employers. This one is no different, except that he expressly works for one of the characters' rivals.
 
 | The rival enforcer is ... |                                                                                                                                                       |
 | ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                     | ...in the area looking to start something on purpose; his boss needs a reason to start a gang war.                                                    |
 | 3 – 4                     | ...just doing his job when he begins to shake down the locals but he seems pretty happy to be doing it.                                               |
-| 5 – 6                     | ...coming with a hefty false bribe to the characters to switch allegiances but will double-cross them the second he gets them in his boss’ territory. |
+| 5 – 6                     | ...coming with a hefty false bribe to the characters to switch allegiances but will double-cross them the second he gets them in his boss' territory. |
 
 #### Gang Recruiter
 
@@ -5791,8 +5791,8 @@ When someone is not prestigious enough to get recruited by an organized crime sy
 
 | The gang recruiter is ... |                                                                                                                                                                                                                  |
 | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                     | ...under instructions from the boss not to come home without several new, worthy recruits. He is to include ‘signing’ bonuses if he has to.                                                                      |
-| 3 – 4                     | ...stuck in a fire fight with some local patrolmen. He was bringing a few new recruits back to the gang’s hideout when the troopers opened fire. Now he would be very helpful if the characters gave him a hand. |
+| 1 – 2                     | ...under instructions from the boss not to come home without several new, worthy recruits. He is to include 'signing' bonuses if he has to.                                                                      |
+| 3 – 4                     | ...stuck in a fire fight with some local patrolmen. He was bringing a few new recruits back to the gang's hideout when the troopers opened fire. Now he would be very helpful if the characters gave him a hand. |
 | 5 – 6                     | ...looking specifically to recruit one of the characters for a particular skill that the gang leader feels would be essential.                                                                                   |
 
 #### Evidence Officer
@@ -5805,7 +5805,7 @@ This petty authority Officer sits all day at a desk and labels all of the things
 | --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                       | ...not a dirty Officer by any means but he does not make enough money for his family to live comfortably. He does not like doing it but he sees it as stealing from criminals – which is okay in his book. |
 | 3 – 4                       | ...interested in making some heavy profits by skimming the drugs and money off the top, selling and using what he wants to get by. He needs friends on the street to help him.                             |
-| 5 – 6                       | ...sure that he knows how to make a powerful, high-tech weapon cache he has checked into evidence ‘disappear’, so long as he gets paid for the prestidigitation.                                           |
+| 5 – 6                       | ...sure that he knows how to make a powerful, high-tech weapon cache he has checked into evidence 'disappear', so long as he gets paid for the prestidigitation.                                           |
 
 #### Military Investigator
 
@@ -5823,13 +5823,13 @@ Local detectives and patrolmen are one thing but this guy is another. He works f
 
 Required Skills: Deception Required Equipment: None
 
-In the world of thieves and con men, a ‘whale’ is a rich or wealthy target that will be worth a fortune. This unfortunate person qualifies not only as a good ‘whale’ but an easy one to take for a large amount of money.
+In the world of thieves and con men, a 'whale' is a rich or wealthy target that will be worth a fortune. This unfortunate person qualifies not only as a good 'whale' but an easy one to take for a large amount of money.
 
 | The easy whale is ... |                                                                                                                                                    |
 | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                 | ...an elderly widow who inherited a fortune from her dead husband and now does not know what to do with it.                                        |
 | 3 – 4                 | ...a lucky lottery winner that is happily flaunting his cash around town.                                                                          |
-| 5 – 6                 | ...a commercial courier that is quite obviously delivering a large store’s deposits to the bank but is choosing to take side streets to get there. |
+| 5 – 6                 | ...a commercial courier that is quite obviously delivering a large store's deposits to the bank but is choosing to take side streets to get there. |
 
 #### Authoritarian Agent
 
@@ -5842,7 +5842,7 @@ This well-dressed man carries himself with an air of confidence and a knowing gr
 | 1 – 2                          | ...touring the local area in order to get a feel for it, as he must soon clear it of criminal activity for a political visit.                                                                                |
 | 3 – 4                          | ...packing some very high-tech weaponry and surveillance equipment, making him a target – but a target that will not be easy to make good on.                                                                |
 | 5                              | ...searching for a specific member of the local population for questioning and he will not tolerate being lied to.                                                                                           |
-| 6                              | ...looking for the characters because he has been told they ‘know something’ he needs them to tell him. If they do not do it willingly, risking being labelled as snitches, he must extract the information. |
+| 6                              | ...looking for the characters because he has been told they 'know something' he needs them to tell him. If they do not do it willingly, risking being labelled as snitches, he must extract the information. |
 
 #### Pirate Captain
 
@@ -5860,7 +5860,7 @@ The leader of a ship full of rogues, this smarmy pirate captain sails the sea of
 
 Required Skills: Stealth, Deception, Any Combat Required Equipment: None
 
-More than just a hired gun, this professional soldier/investigator lives on the blood and bruises of criminals across the galaxy. He goes and gets the ones that the authorities cannot and he does not take ‘no’ for an answer.
+More than just a hired gun, this professional soldier/investigator lives on the blood and bruises of criminals across the galaxy. He goes and gets the ones that the authorities cannot and he does not take 'no' for an answer.
 
 | The bounty hunter is ... |                                                                                                                                                                                                                             |
 | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -5876,12 +5876,12 @@ This is one of the most powerful men in the criminal underworld throughout the l
 
 | The crimelord is ...                                         |                                                                                                                                                                                    |
 | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1                                                            | ...throwing an ‘industry’ party at one of his mansions and expects anyone who has broken the law in the past five years on his turf to attend.                                     |
+| 1                                                            | ...throwing an 'industry' party at one of his mansions and expects anyone who has broken the law in the past five years on his turf to attend.                                     |
 | 2 – 3                                                        | ...relentlessly searching for the man who killed one of his sons, offering a massive bounty for the character that brings him in alive – only slightly less massive if he is dead. |
 | 4 – 5                                                        | ...looking at expanding into an unlikely field of influence and wants the characters to help lead the expansion.                                                                   |
 | 6                                                            | ...interested in one of the characters joining his syndicate.                                                                                                                      |
 | He could not care less for the other characters but they can |                                                                                                                                                                                    |
-| ‘tagalong’ if they want.                                     |                                                                                                                                                                                    |
+| 'tagalong' if they want.                                     |                                                                                                                                                                                    |
 
 ### Drifter
 
@@ -5914,7 +5914,7 @@ Characters in the Drifter career path are from all the corners of the galaxy, mo
 
 Required Skills: Stealth Required Equipment: None
 
-When you are down on your luck and living from squatter’s pad to flophouse, having a hard nosed property manager come by and kick you back out into the cold is never a good day.
+When you are down on your luck and living from squatter's pad to flophouse, having a hard nosed property manager come by and kick you back out into the cold is never a good day.
 
 | The property manager is ... |                                                                                     |
 | --------------------------- | ----------------------------------------------------------------------------------- |
@@ -5926,7 +5926,7 @@ When you are down on your luck and living from squatter’s pad to flophouse, ha
 
 Required Skills: None Required Equipment: Homeless Shelter
 
-Homeless shelters and soup kitchens are every drifter’s godsend at one time or another. They cannot be permanent homes, especially for primitive barbarians but they warm up a wanderer and fill his belly. This kind person is what makes that possible.
+Homeless shelters and soup kitchens are every drifter's godsend at one time or another. They cannot be permanent homes, especially for primitive barbarians but they warm up a wanderer and fill his belly. This kind person is what makes that possible.
 
 | The shelter manager is ... |                                                                                                                   |
 | -------------------------- | ----------------------------------------------------------------------------------------------------------------- |
@@ -5966,9 +5966,9 @@ Working for the government can make someone bitter and unpleasant but working in
 
 | The public servant is ... |                                                                                                                                                    |
 | ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                     | ...so tired of being ‘normal’ that he is willing to pick a random fight on his way home to spend a few days in the medical facility.               |
+| 1 – 2                     | ...so tired of being 'normal' that he is willing to pick a random fight on his way home to spend a few days in the medical facility.               |
 | 3 – 4                     | ...carrying some files home from his hellish job, which might be worth some minor money.                                                           |
-| 5 – 6                     | ...in charge of certain street utilities and services that could make the characters’ lives a living hell if he focused their efforts in the area. |
+| 5 – 6                     | ...in charge of certain street utilities and services that could make the characters' lives a living hell if he focused their efforts in the area. |
 
 #### Traffic Constable
 
@@ -5991,8 +5991,8 @@ Making a fuss, standing out in public and turning normal people into shouting ra
 | The political activist is ... |                                                                                                                                                                 |
 | ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                         | ...hosting a public hunger strike that has food handouts to an all-time minimum, making the homeless restless.                                                  |
-| 3 – 4                         | ...shooting his anti-crime video. He is shoving a camera in places it is not wanted; like in the characters’ faces.                                             |
-| 5 – 6                         | ...ready to make a radical statement on the inferiority of their local government’s peacekeeping force – by setting off a bomb in the characters’ general area! |
+| 3 – 4                         | ...shooting his anti-crime video. He is shoving a camera in places it is not wanted; like in the characters' faces.                                             |
+| 5 – 6                         | ...ready to make a radical statement on the inferiority of their local government's peacekeeping force – by setting off a bomb in the characters' general area! |
 
 #### Delivery Driver
 
@@ -6027,9 +6027,9 @@ This true believer in the ideal that sentient lifeforms should be better to one 
 
 | The charity fundamentalist is ... |                                                                                                         |
 | --------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| 1 – 2                             | ...a member of a good-natured religious group that wants to elevate their society’s moral codes.        |
+| 1 – 2                             | ...a member of a good-natured religious group that wants to elevate their society's moral codes.        |
 | 3 – 4                             | ...a volunteer with the kind of group that could really help the characters.                            |
-| 5 – 6                             | ...looking to make a change in her charity’s target focus group and could always use a few extra hands. |
+| 5 – 6                             | ...looking to make a change in her charity's target focus group and could always use a few extra hands. |
 
 #### Street Cleaner
 
@@ -6040,7 +6040,7 @@ Working a thankless job at the earliest hours of the morning, this man is in cha
 | The street cleaner is ... |                                                                                                                  |
 | ------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                     | ...working off some community service, putting him in a foul mood that he will take out on anyone he encounters. |
-| 3 – 4                     | ...a blue-collar bully who looks down on anyone not working a ‘real job’.                                        |
+| 3 – 4                     | ...a blue-collar bully who looks down on anyone not working a 'real job'.                                        |
 | 5 – 6                     | ...a bit jumpy and armed with a pistol because of an early morning gang encounter he had a few weeks ago.        |
 
 #### Professional Scavenger
@@ -6051,7 +6051,7 @@ This crafty survivalist has turned a necessary skill into a career choice. He kn
 
 | The professional scavenger is ... |                                                                                                                                  |
 | --------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                             | ...the local ‘junk man’ and is well-known to have great deals on ‘slightly used’ items.                                          |
+| 1 – 2                             | ...the local 'junk man' and is well-known to have great deals on 'slightly used' items.                                          |
 | 3 – 4                             | ...not a thief and takes great pride in only claiming what other people do not want.                                             |
 | 5                                 | ...an artiste who makes amazing things out of what he salvages.                                                                  |
 | 6                                 | ...not well and wants to leave his collection of scavenged and repaired things to someone who can prove themselves worthy of it. |
@@ -6066,13 +6066,13 @@ An employee of the governmental agency that tries to help unemployed people find
 | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                         | ...looking for someone to fill in on a temp job. It pays badly but it is easy work.                                                          |
 | 3 – 4                         | ...required to have a quota of persons fill out employment forms each week and will pay the characters a few credits per form to forge them. |
-| 5 – 6                         | ...putting together an involved scam to embezzle from the unemployment office and he needs the characters’ help to do it.                    |
+| 5 – 6                         | ...putting together an involved scam to embezzle from the unemployment office and he needs the characters' help to do it.                    |
 
 #### Corporate Grocer
 
 Required Skills: Stealth Required Equipment: None
 
-This manager of a large-scale corporate grocery store hates having to watch over his shipments and keep track of his employees’ actions all of the time. He does this because of the amount of food that goes ‘missing’ during deliveries through the lower class parts of town.
+This manager of a large-scale corporate grocery store hates having to watch over his shipments and keep track of his employees' actions all of the time. He does this because of the amount of food that goes 'missing' during deliveries through the lower class parts of town.
 
 | The corporate grocer is ... |                                                                                                                                                                    |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -6113,7 +6113,7 @@ This local citizen really does not like the look of the characters for some reas
 | The hostile local is ... |                                                                                                                     |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                    | ...only verbally hostile but he is capable of making quite a scene.                                                 |
-| 3 – 4                    | ...looking to make the characters’ stay in his area as difficult as possible.                                       |
+| 3 – 4                    | ...looking to make the characters' stay in his area as difficult as possible.                                       |
 | 5 – 6                    | ...willing to threaten the characters to leave his territory and physically large enough to follow through on them. |
 
 #### Belter
@@ -6132,13 +6132,13 @@ An asteroid belt miner, this spacer is in the area to re-supply or trade. He kno
 
 Required Skills: None Required Equipment: None
 
-Drifters move around a lot by nature of their lifestyle but when they find a place that they like they tend to stick around for a while. This unruly loner makes it a habit of finding other drifter’s nice spots and taking them.
+Drifters move around a lot by nature of their lifestyle but when they find a place that they like they tend to stick around for a while. This unruly loner makes it a habit of finding other drifter's nice spots and taking them.
 
 | The claim jumper is ... |                                                                                                                                    |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                   | ...stealthy and sneaky and will wait until the characters are busy before quickly moving into the area and making himself at home. |
 | 3 – 4                   | ...not above killing to usurp a claim.                                                                                             |
-| 5 – 6                   | ...a sort of ‘scout’ for a larger group of claim jumpers that wants to come and take the whole area for themselves.                |
+| 5 – 6                   | ...a sort of 'scout' for a larger group of claim jumpers that wants to come and take the whole area for themselves.                |
 
 #### Merciful Host
 
@@ -6148,7 +6148,7 @@ This friendly local has a large home and a welcoming mannerism. He likes to shar
 
 | The merciful host is ... |                                                                                                                                                                |
 | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                    | ...sick and dying; he is trying to do good deeds to get himself into his culture’s version of heaven.                                                          |
+| 1 – 2                    | ...sick and dying; he is trying to do good deeds to get himself into his culture's version of heaven.                                                          |
 | 3 – 4                    | ...lonely and enjoys the company in his huge mansion.                                                                                                          |
 | 5                        | ...an eccentric noble that likes to hear how other people are living, recording all of the information in a massive data library.                              |
 | 6                        | ...actually trying to test the characters over the course of an evening or two at his house to see if they are worthy of an important and well-paying mission. |
@@ -6163,7 +6163,7 @@ There are many who would pay huge amounts of money for combat implants or replac
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                   | ...doing what he does for good reasons; even if they are sick and twisted. He wants to help those who cannot afford new organs. |
 | 3 – 4                   | ...targeting something that one of the characters has inside of them.                                                           |
-| 5 – 6                   | ...in the area trying to market his ‘wares’, causing a higher legal presence to appear.                                         |
+| 5 – 6                   | ...in the area trying to market his 'wares', causing a higher legal presence to appear.                                         |
 
 #### Travelling Companion
 
@@ -6174,8 +6174,8 @@ This person is a common galactic traveller looking to stick around a little whil
 | The travelling companion is ... |                                                                                                                |
 | ------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                           | ...willing to pay for his own fees and supplies.                                                               |
-| 3 – 4                           | ...quite skilled and a good temporary member of the characters’ team.                                          |
-| 5 – 6                           | ...actually a representative of the Traveller’s Aid Society (TAS) and is looking to recruit a few new members. |
+| 3 – 4                           | ...quite skilled and a good temporary member of the characters' team.                                          |
+| 5 – 6                           | ...actually a representative of the Traveller's Aid Society (TAS) and is looking to recruit a few new members. |
 
 #### Corrupt Bureaucrat
 
@@ -6186,8 +6186,8 @@ A higher executive in a large corporation, this unscrupulous businessman is alwa
 | The corrupt bureaucrat is ... |                                                                                                                                              |
 | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                         | ...stealing expensive supplies from his building and needs someone to blame it on.                                                           |
-| 3 – 4                         | ...hatching a multi-tiered plan to embezzle millions of credits. He needs a few ‘lucky individuals’ to help him and hopefully take the fall. |
-| 5 – 6                         | ...emotionally bankrupt and looking for some new toys in his greater game of ‘street pawns’.                                                 |
+| 3 – 4                         | ...hatching a multi-tiered plan to embezzle millions of credits. He needs a few 'lucky individuals' to help him and hopefully take the fall. |
+| 5 – 6                         | ...emotionally bankrupt and looking for some new toys in his greater game of 'street pawns'.                                                 |
 
 #### Urban Scout
 
@@ -6197,7 +6197,7 @@ Nobody knows the frontier better than the scouts and nobody knows the streets be
 
 | The urban scout is ... |                                                                                                                                               |
 | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                  | ...mapping this area of the city’s underground sewer and wants some extra eyes in the dark down there.                                        |
+| 1 – 2                  | ...mapping this area of the city's underground sewer and wants some extra eyes in the dark down there.                                        |
 | 3 – 4                  | ...willing to show the characters how to get anywhere in town quickly and quietly for a small fee.                                            |
 | 5 – 6                  | ...just passing through but still has some business to attend to as well. He will need locals to help him with it, as he only has a few days. |
 
@@ -6209,7 +6209,7 @@ There is little more ferocious than someone who has almost nothing trying to pro
 
 | The territorial homeless is ... |                                                                                                                                    |
 | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                           | ...in decent health considering his diet and will fight to defend his ‘home’.                                                      |
+| 1 – 2                           | ...in decent health considering his diet and will fight to defend his 'home'.                                                      |
 | 3 – 4                           | ...slightly mad from living in the streets and has marked himself and his territory with bodily fluids to keep claim jumpers away. |
 | 5 – 6                           | ...a savage thing capable of bestial strength and ferocity if threatened.                                                          |
 
@@ -6217,7 +6217,7 @@ There is little more ferocious than someone who has almost nothing trying to pro
 
 Required Skills: Carouse Required Equipment: None
 
-This ‘working girl’ is a decent friend to have when you live on your heels and not even for the obvious reasons. She always has a place to stay at, generally has some money lying around and can keep secrets as well as the next guy can.
+This 'working girl' is a decent friend to have when you live on your heels and not even for the obvious reasons. She always has a place to stay at, generally has some money lying around and can keep secrets as well as the next guy can.
 
 | The prostitute is ... |                                                                                                                                     |
 | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
@@ -6235,7 +6235,7 @@ Some crooks have a heart for their fellow downtrodden; others could not care any
 
 | The uncaring criminal is ... |                                                                                                                                                          |
 | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                        | ...a petty thief that will steal the shirt off of a character’s back if he thinks he can.                                                                |
+| 1 – 2                        | ...a petty thief that will steal the shirt off of a character's back if he thinks he can.                                                                |
 | 3 – 4                        | ...looking for a new weapon for personal protection – like something that the characters might have!                                                     |
 | 5                            | ...high on a major narcotic and wants to confront the characters about something they may or may not have done.                                          |
 | 6                            | ...a complete psychopath that has targeted the characters for slow, painful deaths for some reason – but could be persuaded not to with the right words. |
@@ -6268,7 +6268,7 @@ Life is hard enough for drifters before adding in honorless scum that would betr
 
 Required Skills: None Required Equipment: None
 
-Although they are few and far between, this doctor visits several illegal back-alley clinics in his ‘rounds’ each week. He heals the sick and mends their wounds for a pittance compared to what a medical facility would charge.
+Although they are few and far between, this doctor visits several illegal back-alley clinics in his 'rounds' each week. He heals the sick and mends their wounds for a pittance compared to what a medical facility would charge.
 
 | The illegal clinical medic is ... |                                                                                                                                        |
 | --------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
@@ -6310,7 +6310,7 @@ Not all cultures tolerate homeless or financially destitute sub-populations, eli
 | The alien tormentor is ... |                                                                                                            |
 | -------------------------- | ---------------------------------------------------------------------------------------------------------- |
 | 1 – 2                      | ...going to hire thugs to harass the character.                                                            |
-| 3 – 4                      | ...just one of many of his kind in the area trying to ‘clean up’ all of the lower class from the vicinity. |
+| 3 – 4                      | ...just one of many of his kind in the area trying to 'clean up' all of the lower class from the vicinity. |
 | 5 – 6                      | ...patient and logical but can only hold out for so long before he turns to physical violence.             |
 
 #### Lonely Mogul
@@ -6334,7 +6334,7 @@ When groups of homeless live in the same park or alley for a long time, a peckin
 | The alpha vagrant is ... |                                                                                                                                                              |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1 – 2                    | ...trying to organize the local homeless to loot a local store for everything they need but he does not care who gets hurt as long as he gets what he wants. |
-| 3 – 4                    | ...angry because he believes that the characters are here to take his place as ‘alpha’ and will fight them for the spot.                                     |
+| 3 – 4                    | ...angry because he believes that the characters are here to take his place as 'alpha' and will fight them for the spot.                                     |
 | 5 – 6                    | ...covetous of something the characters have on them and are encouraging his friends to try to take it.                                                      |
 
 #### Prophet
@@ -6360,7 +6360,7 @@ Slavers frequently seek the downtrodden and unmissed to fill their cargo holds a
 | The hunting slaver is ... |                                                                                                                                        |
 | ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                     | ...looking for some new help wrangling fresh slaves on this planet but will try to sell the help rather than pay them!                 |
-| 3 – 4                     | ...being paid by one of the character’s rivals to try and get chains on him.                                                           |
+| 3 – 4                     | ...being paid by one of the character's rivals to try and get chains on him.                                                           |
 | 5 – 6                     | ...worried that the characters are going to tell the authorities about his street-level kidnappings, so that he has to deal with them. |
 
 #### Ghost-in-the-Machine
@@ -6385,7 +6385,7 @@ There are many low-tech drifter tribes in the galaxy that seem old fashioned and
 | The enemy chieftain is ... |                                                                                                                      |
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                      | ...afraid that the characters will bring their higher-tech equipment around his tribe and seduce them to their ways. |
-| 3 – 4                      | ...extremely territorial, sending his warriors to dissuade the characters from coming around the tribe’s land.       |
+| 3 – 4                      | ...extremely territorial, sending his warriors to dissuade the characters from coming around the tribe's land.       |
 | 5 – 6                      | ...a former high-tech drifter that is hiding amongst the barbarians to avoid authoritarian agents.                   |
 
 #### Barbarian Chieftain
@@ -6398,12 +6398,12 @@ This leader of a primitive people may not use high-tech firearms or wear plastis
 | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                          | ...pleased with the appearance of the characters and wants to find out if they will help in the hunting of a great predatory beast in the area.                         |
 | 3 – 4                          | ...willing to help teach the characters how to abandon their technology and fight with fist, sword and axe.                                                             |
-| 5                              | ...in need of a few outsiders to use their technology and learning to overcome a local industrial movement that is endangering the tribe’s hunting and gathering lands. |
-| 6                              | ...looking to marry off one of his daughters to a ‘high-tech’ in order to spread the tribe into the stars.                                                              |
+| 5                              | ...in need of a few outsiders to use their technology and learning to overcome a local industrial movement that is endangering the tribe's hunting and gathering lands. |
+| 6                              | ...looking to marry off one of his daughters to a 'high-tech' in order to spread the tribe into the stars.                                                              |
 
 ## Mercenary Patrons
 
-The Traveller universe is host to a different type of soldier, hired and legalised armed forces, that come in the greater label of ‘mercenaries’.  They are far more numerous than some might think and many governments use them for the missions – or tickets – that they do not wish to fund on their own. It is on these ticketed assignments that mercenaries run into a surprising host of encounters.
+The Traveller universe is host to a different type of soldier, hired and legalised armed forces, that come in the greater label of 'mercenaries'.  They are far more numerous than some might think and many governments use them for the missions – or tickets – that they do not wish to fund on their own. It is on these ticketed assignments that mercenaries run into a surprising host of encounters.
 
 > [!NOTE] The Mercenary Career Paths
 > The following six mercenary career paths are found in the Traveller: Mercenary sourcebook. These patron lists are designed for their use, which would require owning or having access to that book as well. They can be used by anyone however, if the Referee allows it and could be substituted for other careers as well.
@@ -6426,11 +6426,11 @@ Characters in the Cadre career path are sent to faraway worlds and compounds to 
 | 36 – 41    | [[#Knowing Target Team Leader]]   |                            |
 | 42 – 43    | [[#Inquisitive Traveller]]        | [[#Legal Advisor]]         |
 | 44 – 45    | [[#Anti-mercenary Patroller]]     | [[#Successful Alumni]]     |
-| 46 – 51    | [[#Client’s favorite]]            | [[#Eager Recruit]]         |
+| 46 – 51    | [[#Client's favorite]]            | [[#Eager Recruit]]         |
 | 52 – 53    | [[#Troublemaker Repeat Employer]] |                            |
 | 54 – 55    | [[#Reluctant Student]]            | [[#Field Expert]]          |
 | 56 – 61    | [[#Secondary Trainee]]            | [[#Agency Client]]         |
-| 62 – 63    | [[#Casualty’s Family Member]]     | [[#Technology Instructor]] |
+| 62 – 63    | [[#Casualty's Family Member]]     | [[#Technology Instructor]] |
 | 64         | [[#Non-paying Client]]            | [[#High-Profile Employer]] |
 | 65         | [[#Prodigy]]                      | [[#Impressed Client]]      |
 | 66         | [[#Hidden Enemy]]                 | [[#Prime Cadre Agent]]     |
@@ -6443,7 +6443,7 @@ Every instruction class has one and every cadre instructor hopes he gets shot du
 
 | The class clown is ... |                                                                                             |
 | ---------------------- | ------------------------------------------------------------------------------------------- |
-| 1 – 2                  | ...unafraid of the character’s wrath.                                                       |
+| 1 – 2                  | ...unafraid of the character's wrath.                                                       |
 | 3 – 4                  | ...going to pass the class with flying colors despite his inability to keep his mouth shut. |
 | 5 – 6                  | ...likely to be the reason someone else gets hurt in training.                              |
 
@@ -6458,19 +6458,19 @@ This recruit-in-training is someone that is well-known locally, perhaps even on 
 | 1 – 2                          | ...the son of a prominent noble family.                                                                                              |
 | 3 – 4                          | ...a local sports legend; he turned to his current career after a successful run in the league.                                      |
 | 5                              | ...going to make teaching the rest of the class a little difficult because of all of the outside witnesses distracting the students. |
-| 6                              | ...adding credence and fame to the character’s name.                                                                                 |
+| 6                              | ...adding credence and fame to the character's name.                                                                                 |
 
 #### Lacklustre Recruit
 
 Required Skills: None Required Equipment: None
 
-No matter what this young mercenary does he seems to do it halfway and not with any sort of care to his work. He is an example of what a ‘below-average’ student turns out to be.
+No matter what this young mercenary does he seems to do it halfway and not with any sort of care to his work. He is an example of what a 'below-average' student turns out to be.
 
 | The lacklustre recruit is ... |                                                                                                                                    |
 | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                         | ...not going to survive his next mission if he is not shown exactly how to.                                                        |
 | 3 – 4                         | ...blaming the character who taught his last class on his inexperience.                                                            |
-| 5 – 6                         | ...going to be kicked out of his unit because of his performance; then he will come after the characters for ‘not helping enough’. |
+| 5 – 6                         | ...going to be kicked out of his unit because of his performance; then he will come after the characters for 'not helping enough'. |
 
 #### Unit Supplier
 
@@ -6480,7 +6480,7 @@ This businessman makes his living by selling all of the necessary equipment to m
 
 | The unit supplier is ... |                                                                                                                              |
 | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                    | ...bringing a special deal of military equipment to the character’s unit – half off all energy weapons!                      |
+| 1 – 2                    | ...bringing a special deal of military equipment to the character's unit – half off all energy weapons!                      |
 | 3 – 4                    | ...in the possession of a series of amazing instructional aids that would give a great bonus to any classroom cadre trainer. |
 | 5 – 6                    | ...looking for an escort back to his supply station; he will pay handsomely if they get back without incident.               |
 
@@ -6488,11 +6488,11 @@ This businessman makes his living by selling all of the necessary equipment to m
 
 Required Skills: None Required Equipment: None
 
-Mercenaries are constantly jumping in on one another for tickets but this particular cadre member seems to be focused on aiming for the characters’ potential tickets.
+Mercenaries are constantly jumping in on one another for tickets but this particular cadre member seems to be focused on aiming for the characters' potential tickets.
 
 | The rival trainer is ... |                                                                                                                                                |
 | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                    | ...targeting the characters’ cadre tickets because of an old debt that he feels is unsettled that the characters may or may not even remember. |
+| 1 – 2                    | ...targeting the characters' cadre tickets because of an old debt that he feels is unsettled that the characters may or may not even remember. |
 | 3 – 4                    | ...an old student of one of the characters.                                                                                                    |
 | 5 – 6                    | ...trying to become the most famous training option in the area, so he has to try and ruin the competition.                                    |
 
@@ -6505,7 +6505,7 @@ A good educational compound is not always easy to find, especially with the kind
 | The facility manager is ... |                                                                                                                          |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | 1 – 2                       | ...always willing to let the characters use his compound; for a fair price.                                              |
-| 3 – 4                       | ...a friend of the characters’ unit commander, making him an ally to the entire unit.                                    |
+| 3 – 4                       | ...a friend of the characters' unit commander, making him an ally to the entire unit.                                    |
 | 5 – 6                       | ...a powerful man that owns several institutions and facilities. Making an ally of him can grant access to most of them. |
 
 #### Rogue Student
@@ -6518,7 +6518,7 @@ This quiet and attentive student decided to vanish in the middle of a training e
 | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                    | ...tired of being shown how to do things and wants to show the class that he already knows a lot about being a cold-blooded killer for hire. |
 | 3 – 4                    | ...overwhelmed by the nature of the lessons being taught and simply wants to get away from it all.                                           |
-| 5 – 6                    | ...upset about some minor remark the character made; now he has decided to take revenge upon him and the rest of his ‘loyalist’ students.    |
+| 5 – 6                    | ...upset about some minor remark the character made; now he has decided to take revenge upon him and the rest of his 'loyalist' students.    |
 
 #### Potential Lead
 
@@ -6548,25 +6548,25 @@ This knowledgeable student is well-taught and well-informed and most of all prou
 
 Required Skills: None Required Equipment: None
 
-Most cadre instructors know that their students will go on to do whatever it is that they are supposed to but this particular past student was remarkably influenced by the character’s teachings and changed his life because of it.
+Most cadre instructors know that their students will go on to do whatever it is that they are supposed to but this particular past student was remarkably influenced by the character's teachings and changed his life because of it.
 
 | The influenced student is ... |                                                                                                                                                                         |
 | ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                         | ...going to join a cadre and become a fellow instructor in hopes of changing his students’ lives.                                                                       |
-| 3 – 4                         | ...joining the characters’ mercenary unit and trying to make them all a little more money.                                                                              |
+| 1 – 2                         | ...going to join a cadre and become a fellow instructor in hopes of changing his students' lives.                                                                       |
+| 3 – 4                         | ...joining the characters' mercenary unit and trying to make them all a little more money.                                                                              |
 | 5                             | ...giving up on the idea of becoming a mercenary because of how realistic the character was during class but he is not sad - thankful that he did not make the mistake. |
-| 6                             | ...the inheritor of a massive fortune and has decided to use it to fund the character’s unit for a long time to come.                                                   |
+| 6                             | ...the inheritor of a massive fortune and has decided to use it to fund the character's unit for a long time to come.                                                   |
 
 #### Dropout
 
 Required Skills: None Required Equipment: None
 
-Not all students can handle the character’s instruction courses. This one did not and left because of it.
+Not all students can handle the character's instruction courses. This one did not and left because of it.
 
 | The dropout is ... |                                                                                                                     |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2              | ...blaming the character for his inability to understand what was going on.                                         |
-| 3 – 4              | ...sure that the character ‘had it in for him’ and now he wants to try and make him pay for making him look stupid. |
+| 3 – 4              | ...sure that the character 'had it in for him' and now he wants to try and make him pay for making him look stupid. |
 | 5 – 6              | ...having a bit of a nervous breakdown that could be very dangerous when dealing with a potentially armed man.      |
 
 #### Allied Trainer
@@ -6585,7 +6585,7 @@ This fellow unit member has worked or is working in tandem with one of the chara
 
 Required Skills: Instruction Required Equipment: None
 
-Always offering a counterpoint to the character’s lessons, teaching this student is like running uphill in wheeled shoes. He cannot end a sentence without a contrary opinion.
+Always offering a counterpoint to the character's lessons, teaching this student is like running uphill in wheeled shoes. He cannot end a sentence without a contrary opinion.
 
 | The argumentative student is ... |                                                                                                         |
 | -------------------------------- | ------------------------------------------------------------------------------------------------------- |
@@ -6597,23 +6597,23 @@ Always offering a counterpoint to the character’s lessons, teaching this stude
 
 Required Skills: None Required Equipment: None
 
-This fellow mercenary employed by the unit is of an equal rank and generally receives similar assignments but he thinks very highly of one of the character’s work.
+This fellow mercenary employed by the unit is of an equal rank and generally receives similar assignments but he thinks very highly of one of the character's work.
 
 | The impressed colleague is ... |                                                                                                                          |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
 | 1 – 2                          | ...trying to run a ticketed course together sometime with the character.                                                 |
 | 3 – 4                          | ...intrigued how the characters performed a specific ticket and wants to take them out for drinks to talk about it.      |
-| 5 – 6                          | ...happy to say that he was selected for a high-value ticket but needs the character’s help to finish it satisfactorily. |
+| 5 – 6                          | ...happy to say that he was selected for a high-value ticket but needs the character's help to finish it satisfactorily. |
 
 #### Technique Thief
 
 Required Skills: None Required Equipment: None
 
-Every cadre member has their own way of doing things but this trainer does not have the imagination to come up with one on his own. Instead, he simply steals others’.
+Every cadre member has their own way of doing things but this trainer does not have the imagination to come up with one on his own. Instead, he simply steals others'.
 
 | The technique thief is ... |                                                                                                                                |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| 1 – 2                      | ...recognizable for what he is and has no shame in taking other members’ ideas and techniques.                                 |
+| 1 – 2                      | ...recognizable for what he is and has no shame in taking other members' ideas and techniques.                                 |
 | 3 – 4                      | ...telling everyone that the characters stole his techniques, rather than the other way around.                                |
 | 5                          | ...teaching a difficult field exercise that he took from a skilled instructor and he will likely hurt several of his students. |
 | 6                          | ...not only stealing techniques for himself but also selling them to competing units.                                          |
@@ -6627,20 +6627,20 @@ This student picked up on the basics fast enough but the moderately difficult th
 | The fast learner is ... |                                                                                                                                           |
 | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                   | ...always ready to help out, even when the ticketed exercises are done and the class is over.                                             |
-| 3 – 4                   | ...already looking for a way to use the skills he has learned in a practical way; perhaps by joining the characters’ unit.                |
+| 3 – 4                   | ...already looking for a way to use the skills he has learned in a practical way; perhaps by joining the characters' unit.                |
 | 5 – 6                   | ...secretly an experienced mercenary that already knows all of these skills – he is here to judge the character for a possible promotion. |
 
 #### Unit Spy
 
 Required Skills: Investigate Required Equipment: None
 
-This sneaky agent is a hired spy for another mercenary unit sent to work alongside the characters in order to learn the unit’s secrets and resource limits. Mercenary units may not fight directly often but it is good to know what the competition can call upon.
+This sneaky agent is a hired spy for another mercenary unit sent to work alongside the characters in order to learn the unit's secrets and resource limits. Mercenary units may not fight directly often but it is good to know what the competition can call upon.
 
 | The unit spy is ... |                                                                                                  |
 | ------------------- | ------------------------------------------------------------------------------------------------ |
 | 1 – 2               | ...a coward that will run far and fast if discovered.                                            |
 | 3 – 4               | ...looking for personal information to use against the characters later.                         |
-| 5 – 6               | ...interested in a layout of the unit’s headquarters. What this is for is a mystery even to him. |
+| 5 – 6               | ...interested in a layout of the unit's headquarters. What this is for is a mystery even to him. |
 
 #### Respectful Critic
 
@@ -6652,7 +6652,7 @@ It takes a big man to take constructive criticism to heart without feeling hurt 
 | ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                        | ...aware of a specific problem the character makes for himself when instructing.                                                                    |
 | 3 – 4                        | ...a higher-ranked cadre instructor and wants to help the character see the issues with his teaching style in order to replace him when he retires. |
-| 5 – 6                        | ...just very intuitive and knows the best way to get into his students’ heads – as he is a psionist.                                                |
+| 5 – 6                        | ...just very intuitive and knows the best way to get into his students' heads – as he is a psionist.                                                |
 
 #### Knowing Target
 
@@ -6662,15 +6662,15 @@ This unfortunate person somehow learned that he is the target of a field exercis
 
 | The knowing target is ... |                                                                                                                                         |
 | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                     | ...preparing to deal with the characters’ group with extreme prejudice.                                                                 |
+| 1 – 2                     | ...preparing to deal with the characters' group with extreme prejudice.                                                                 |
 | 3 – 4                     | ...looking forward to surprising the character with his own mercenaries – a ticket of security mercenaries to protect him.              |
-| 5 – 6                     | ...not going to wait for the characters’ group to come to him; he is planning on a direct assault of his own before the group is ready. |
+| 5 – 6                     | ...not going to wait for the characters' group to come to him; he is planning on a direct assault of his own before the group is ready. |
 
 #### Team Leader
 
 Required Skills: None Required Equipment: None
 
-A leader of a specific team assigned to fulfil a given ticket, this seasoned mercenary is not one of the character’s students, nor is he a teacher. He is just another member of the unit who happens to be in charge of several others.
+A leader of a specific team assigned to fulfil a given ticket, this seasoned mercenary is not one of the character's students, nor is he a teacher. He is just another member of the unit who happens to be in charge of several others.
 
 | The team leader is ... |                                                                                                                                                |
 | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -6688,7 +6688,7 @@ Some cadre lessons are best learned in private, behind closed doors. This wander
 | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                            | ...mostly harmless but could relay what he saw to others when he is inevitably talking about his day to people at the local bar. |
 | 3 – 4                            | ...planning on staying around and learning what the cadre has to teach in the exercise by eavesdropping.                         |
-| 5 – 6                            | ...aware of the cadre group’s greater intentions and decides to try to stop them before the students know too much.              |
+| 5 – 6                            | ...aware of the cadre group's greater intentions and decides to try to stop them before the students know too much.              |
 
 #### Legal Advisor
 
@@ -6710,7 +6710,7 @@ Some authority patrolmen think of any outside mercenary help as admitting their 
 
 | The anti-mercenary patroller is ... |                                                                                                                                                               |
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                               | ...one of the character’s students; he is planning on disrupting the class as often as he can.                                                                |
+| 1 – 2                               | ...one of the character's students; he is planning on disrupting the class as often as he can.                                                                |
 | 3 – 4                               | ...looking for a more permanent solution to getting rid of the cadre members.                                                                                 |
 | 5 – 6                               | ...going to make a statement to the press about the local use of mercenaries to teach combat skills, being sure to paint the cadre in the worst light he can. |
 
@@ -6718,24 +6718,24 @@ Some authority patrolmen think of any outside mercenary help as admitting their 
 
 Required Skills: None Required Equipment: None
 
-This graduate of one of the character’s classes has gone on to become something more because of the class. Now he wants to thank the character for his help.
+This graduate of one of the character's classes has gone on to become something more because of the class. Now he wants to thank the character for his help.
 
 | The successful alumni is ... |                                                                                                                                                            |
 | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                        | ...now a war veteran and a decorated hero; he wants to buy the characters something nice.                                                                  |
 | 3 – 4                        | ...only alive today because of something one of the characters taught him how to do; he would like to arrange something special for them.                  |
-| 5                            | ...a private agent for a large corporate firm. He can arrange for quite a lot to be done in the characters’ names.                                         |
+| 5                            | ...a private agent for a large corporate firm. He can arrange for quite a lot to be done in the characters' names.                                         |
 | 6                            | ...an active Star Marine. He says he cannot do much for them financially but if the characters need him and his team – they will try to be there for them. |
 
-#### Client’s favorite
+#### Client's favorite
 
 Required Skills: None Required Equipment: None
 
 When assigned a class or specific group, sometimes a trainer must deal with the fact that the client has a specific student enrolled who they prize above the others. This student is the lynch pin to future deals with the client, if any.
 
-| The client’s favorite is ... |                                                                                                                                      |
+| The client's favorite is ... |                                                                                                                                      |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| 1 – 2                        | ...a good student most of the time but ‘knows’ he is supposed to pass because of who he is.                                          |
+| 1 – 2                        | ...a good student most of the time but 'knows' he is supposed to pass because of who he is.                                          |
 | 3 – 4                        | ...causing the rest of the class to think that the character is giving him special treatment, even if that is not the case.          |
 | 5 – 6                        | ...terrible at the training exercises and lessons; he is going to get someone hurt if the characters are not careful of his actions. |
 
@@ -6755,7 +6755,7 @@ This first-ticket recruit to the mercenary unit really wants to be as helpful an
 
 Required Skills: Investigate Required Equipment: None
 
-Stealing supplies, sabotaging work projects and generally being a nuisance is this trainee’s response to being taught. He causes trouble in any way he can but rarely is it dangerous.
+Stealing supplies, sabotaging work projects and generally being a nuisance is this trainee's response to being taught. He causes trouble in any way he can but rarely is it dangerous.
 
 | The troublemaker is ... |                                                                                                |
 | ----------------------- | ---------------------------------------------------------------------------------------------- |
@@ -6767,7 +6767,7 @@ Stealing supplies, sabotaging work projects and generally being a nuisance is th
 
 Required Skills: Persuade Required Equipment: None
 
-This person represents a firm or government that had hired the characters’ unit before and wants to hire them again.
+This person represents a firm or government that had hired the characters' unit before and wants to hire them again.
 
 | The repeat employer is ... |                                                                                                       |
 | -------------------------- | ----------------------------------------------------------------------------------------------------- |
@@ -6804,7 +6804,7 @@ Lots of cadre instructors take their groups out into the field to learn certain 
 
 Required Skills: None Required Equipment: None
 
-Sometimes a particularly overzealous trainee takes what he learned in the cadre’s learning sessions and then tries to teach it to others. These secondary trainees believe they have acquired a new talent or skill, when all they have received is watered down information.
+Sometimes a particularly overzealous trainee takes what he learned in the cadre's learning sessions and then tries to teach it to others. These secondary trainees believe they have acquired a new talent or skill, when all they have received is watered down information.
 
 | The secondary trainee is ... |                                                                                                                          |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
@@ -6821,20 +6821,20 @@ Most mercenaries are hired by governments or companies but this individual repre
 | The agency client is ... |                                                                                                                                                                              |
 | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                    | ...ready to draw up a ticket on the spot if the characters are willing; he has urgent business for the cadre.                                                                |
-| 3 – 4                    | ...prepared to make a sizeable offer to the characters to come and train a private ‘security’ force in how to use heavy weapons and explosives.                              |
+| 3 – 4                    | ...prepared to make a sizeable offer to the characters to come and train a private 'security' force in how to use heavy weapons and explosives.                              |
 | 5 – 6                    | ...expecting to have to negotiate high wages and difficult terms with the characters to get their services, especially with the ticket his employers have laid out for them. |
 
-#### Casualty’s Family Member
+#### Casualty's Family Member
 
 Required Skills: None Required Equipment: None
 
-Field exercises can be tricky and dangerous and sometimes someone is unlucky enough to catch a stray strafing round or get caught in a diffusible trap or tripwire. Although it is nearly always the trainee’s fault that it happened, the family rarely takes it that way.
+Field exercises can be tricky and dangerous and sometimes someone is unlucky enough to catch a stray strafing round or get caught in a diffusible trap or tripwire. Although it is nearly always the trainee's fault that it happened, the family rarely takes it that way.
 
-| The casualty’s family member is ... |                                                                                                                        |
+| The casualty's family member is ... |                                                                                                                        |
 | ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                               | ...still in mourning and will cause a scene if they know that the characters were involved.                            |
-| 3 – 4                               | ...going to file a complaint with the unit’s ticketed employer at the time, perhaps causing hiring difficulties later. |
-| 5                                   | ...hysterical with grief, pointing out the characters and calling them ‘monsters’, ‘devils’ and ‘heartless’.           |
+| 3 – 4                               | ...going to file a complaint with the unit's ticketed employer at the time, perhaps causing hiring difficulties later. |
+| 5                                   | ...hysterical with grief, pointing out the characters and calling them 'monsters', 'devils' and 'heartless'.           |
 | 6                                   | ...so consumed with blame against the characters that he will actually try to attack them.                             |
 
 #### Technology Instructor
@@ -6869,7 +6869,7 @@ This ticketing employer is a member of the media-friendly elite; a corporation o
 
 | The high-profile employer is ... |                                                                                                                                                           |
 | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                            | ...not getting the best coverage from the media but the focus on the unit’s being there could increase its reputation.                                    |
+| 1 – 2                            | ...not getting the best coverage from the media but the focus on the unit's being there could increase its reputation.                                    |
 | 3 – 4                            | ...viewed by the masses as a trendsetter who never does the wrong thing.                                                                                  |
 | 5 – 6                            | ...looking to hire someone who will take advantage of the press and the media, making both parties look like perfect angels when they are absolutely not. |
 
@@ -6895,7 +6895,7 @@ This ticket client is not just pleased with the results of the course but is hon
 | --------------------------- | --------------------------------------------------------------------------------------------------------- |
 | 1 – 2                       | ...going to arrange for a personal bonus for the characters.                                              |
 | 3 – 4                       | ...looking to hire the characters for an expensive private ticket because of the results of the last one. |
-| 5 – 6                       | ...interested in supporting the unit’s next major endeavor.                                               |
+| 5 – 6                       | ...interested in supporting the unit's next major endeavor.                                               |
 
 #### Hidden Enemy
 
@@ -6914,7 +6914,7 @@ Mercenaries make a great deal of enemies in their line of work. Some they know a
 
 Required Skills: Broker Required Equipment: None
 
-This is someone who works for a secret organization or powerful employer looking to pay insanely well for the use of the cadre’s skills. He asks no questions and seems to have an endless pocketbook.
+This is someone who works for a secret organization or powerful employer looking to pay insanely well for the use of the cadre's skills. He asks no questions and seems to have an endless pocketbook.
 
 | The prime cadre agent is ... |                                                                                                                                             |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -6994,11 +6994,11 @@ This unit member has a horrible habit of requisitioning too much ammunition for 
 
 Required Skills: Persuade Required Equipment: None
 
-A commando’s life is much easier when he can get the best and latest new weapons without having to wait for legal unit channels to bring it to him. This illegal retailer is good for that sort of thing.
+A commando's life is much easier when he can get the best and latest new weapons without having to wait for legal unit channels to bring it to him. This illegal retailer is good for that sort of thing.
 
 | The black market ally is ... |                                                                                                                                                 |
 | ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                        | ...getting a new shipment of ‘experimentals’ that he wants to offload rather cheaply, especially because he does not know exactly what they do. |
+| 1 – 2                        | ...getting a new shipment of 'experimentals' that he wants to offload rather cheaply, especially because he does not know exactly what they do. |
 | 3 – 4                        | ...willing to take special orders if the characters do not mind waiting for them.                                                               |
 | 5 – 6                        | ...going out of business and needs to pass on his contacts and resources to some of his best customers.                                         |
 
@@ -7037,7 +7037,7 @@ Even with the wars and chaos going in the galaxy, most civilians never see heavy
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | 1 – 2                       | ...in awe at the weaponry carried by the characters and is making a big deal about it.                                               |
 | 3 – 4                       | ...afraid that the characters are there to start trouble and he is going to panic the first time one of them makes a sudden gesture. |
-| 5 – 6                       | ...unhappy about ‘hired thugs’ walking around armed in his community and will confront the characters about their open hostility.    |
+| 5 – 6                       | ...unhappy about 'hired thugs' walking around armed in his community and will confront the characters about their open hostility.    |
 
 #### Grav-Lander Pilot
 
@@ -7059,7 +7059,7 @@ The local populace look up to this man as if he was superhuman because of someth
 
 | The local hero is ... |                                                                                                                                  |
 | --------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                 | ...losing some of his following so he has to make himself look better by putting down the ‘guns for hire’.                       |
+| 1 – 2                 | ...losing some of his following so he has to make himself look better by putting down the 'guns for hire'.                       |
 | 3 – 4                 | ...actually not much more than a coward who lucked into the title but he can talk the talk well enough to fool civilians.        |
 | 5 – 6                 | ...honestly rather heroic in his everyday activities and will assuredly make the characters look like knaves when he is present. |
 
@@ -7067,26 +7067,26 @@ The local populace look up to this man as if he was superhuman because of someth
 
 Required Skills: None Required Equipment: Remotes
 
-This specialized member of the characters’ unit is not as physically tough or personally seasoned as they are but his ability to make combat and scout drones soar and fight is surpassed by few.
+This specialized member of the characters' unit is not as physically tough or personally seasoned as they are but his ability to make combat and scout drones soar and fight is surpassed by few.
 
 | The remote jock is ... |                                                                                                                          |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | 1 – 2                  | ...in need of a quick job to pay for the repairs on one of his assault remotes.                                          |
 | 3 – 4                  | ...looking for new and interesting ways to use his remotes for extra-curricular entertainment.                           |
-| 5 – 6                  | ...being assigned to the characters’ next ticket, so he wants to familiarize them with his ‘metal and plastic children’. |
+| 5 – 6                  | ...being assigned to the characters' next ticket, so he wants to familiarize them with his 'metal and plastic children'. |
 
 #### Collateral Bystander
 
 Required Skills: None Required Equipment: None
 
-Standing too near to the action, this common civilian is in grave danger when the characters’ plan begins to unfold and the shots begin to fly.
+Standing too near to the action, this common civilian is in grave danger when the characters' plan begins to unfold and the shots begin to fly.
 
 | The collateral bystander is ... |                                                                                            |
 | ------------------------------- | ------------------------------------------------------------------------------------------ |
 | 1 – 2                           | ...a young child that will freeze in terror and need to be saved.                          |
 | 3 – 4                           | ...getting in the way because they are not aware of the impending doom of their position.  |
 | 5                               | ...an adolescent who is trying to see what is happening because it is exciting.            |
-| 6                               | ...someone very important to the characters’ employer; he cannot be allowed to get killed. |
+| 6                               | ...someone very important to the characters' employer; he cannot be allowed to get killed. |
 
 #### Tactician
 
@@ -7096,7 +7096,7 @@ This member of the unit is not normally a frontline soldier but rather a support
 
 | The tactician is ... |                                                                                                                                |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| 1 – 2                | ...preparing the characters’ next plan of attack for their current ticket, giving them some insight as to how it will succeed. |
+| 1 – 2                | ...preparing the characters' next plan of attack for their current ticket, giving them some insight as to how it will succeed. |
 | 3 – 4                | ...going to accompany the characters on a scouting run to get more intelligence on a future mission site.                      |
 | 5 – 6                | ...truly a battlefield genius; he seems to know what the characters will do before they do!                                    |
 
@@ -7109,14 +7109,14 @@ It is not uncommon for mercenaries to face off against mercenaries but a command
 | The enemy guerrilla is ... |                                                                                                                                |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | 1 – 2                      | ...a master trapper and demolitionist – finding and dealing with him will be dangerous.                                        |
-| 3 – 4                      | ...working for the local community of civilians, which puts the characters in the local role of ‘bad guys’.                    |
-| 5 – 6                      | ...a former unit member that defected to another unit in order to ‘do the right thing’, so he knows the characters personally. |
+| 3 – 4                      | ...working for the local community of civilians, which puts the characters in the local role of 'bad guys'.                    |
+| 5 – 6                      | ...a former unit member that defected to another unit in order to 'do the right thing', so he knows the characters personally. |
 
 #### Dress Support Commando
 
 Required Skills: None Required Equipment: Battle Dress
 
-This esteemed commando in the unit has somehow managed to acquire an operational suit of battle dress, turning him into the unit’s primary support asset.
+This esteemed commando in the unit has somehow managed to acquire an operational suit of battle dress, turning him into the unit's primary support asset.
 
 | The dress support commando is ... |                                                                                                                                         |
 | --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
@@ -7128,12 +7128,12 @@ This esteemed commando in the unit has somehow managed to acquire an operational
 
 Required Skills: Advocate Required Equipment: None
 
-Paid from the unit’s profits during the ticket creation process, this contracting attorney normally has the best interests of the unit in mind when negotiating fees. This is not always the case when he thinks it will cost more to the unit in the long term.
+Paid from the unit's profits during the ticket creation process, this contracting attorney normally has the best interests of the unit in mind when negotiating fees. This is not always the case when he thinks it will cost more to the unit in the long term.
 
 | The ticketing advocate is ... |                                                                                                                           |
 | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                         | ...worried that fuel costs on the next ticket would be too high and believes that the unit should stay local for a while. |
-| 3 – 4                         | ...not sure if the characters can handle a ‘serious’ ticket at this time.                                                 |
+| 3 – 4                         | ...not sure if the characters can handle a 'serious' ticket at this time.                                                 |
 | 5 – 6                         | ...being paid under the table by the client to keep his end of the negotiations lower.                                    |
 
 #### Experienced Technician
@@ -7144,21 +7144,21 @@ This unit member serves an important role for any technologically-savvy commando
 
 | The experienced technician is ... |                                                                                                                                                                     |
 | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                             | ...currently looking into upgrading some of the characters’ equipment but not enough to warrant new licensing.                                                      |
+| 1 – 2                             | ...currently looking into upgrading some of the characters' equipment but not enough to warrant new licensing.                                                      |
 | 3 – 4                             | ...being asked to go on the next ticket with the characters because there will be a vehicle in need of repair during its run.                                       |
-| 5 – 6                             | ...not happy about the current state of affairs in the unit’s equipment lockers and wants the characters to help him break a few things to get better replacements. |
+| 5 – 6                             | ...not happy about the current state of affairs in the unit's equipment lockers and wants the characters to help him break a few things to get better replacements. |
 
 #### Wounded Teamsman
 
 Required Skills: None Required Equipment: None
 
-A commando’s job is to get into ultra-violent situations and deal with hostile threats; people sometimes get hurt. This unit member seemed to have forgotten that when he began to resent the characters for his recent injury.
+A commando's job is to get into ultra-violent situations and deal with hostile threats; people sometimes get hurt. This unit member seemed to have forgotten that when he began to resent the characters for his recent injury.
 
 | The wounded teamsman is ... |                                                                                                                           |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                       | ...trying to get onto the characters’ next ticket in order to see one of them get wounded.                                |
+| 1 – 2                       | ...trying to get onto the characters' next ticket in order to see one of them get wounded.                                |
 | 3 – 4                       | ...a liability in the field and a tax on resources in the headquarters.                                                   |
-| 5                           | ...not physically ready for a new ticket but will not let the characters ‘show him up’.                                   |
+| 5                           | ...not physically ready for a new ticket but will not let the characters 'show him up'.                                   |
 | 6                           | ...sure that it was friendly fire from one of the characters that wounded him and he cannot wait to pay him back tenfold. |
 
 #### Minesweeper
@@ -7218,7 +7218,7 @@ The main Officer, for lack of a better term, for the entire squad, this grizzled
 
 | The squad leader is ... |                                                                                                                  |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                   | ...impressed by the characters’ last ticket and wants to send them on an even tougher one but for much more pay. |
+| 1 – 2                   | ...impressed by the characters' last ticket and wants to send them on an even tougher one but for much more pay. |
 | 3 – 4                   | ...looking for an honor guard to protect him at some unit banquet that the commander has invited him to.         |
 | 5 – 6                   | ...arranging for a technological upgrade for the characters; it should go well with their new assignment.        |
 
@@ -7227,45 +7227,45 @@ The main Officer, for lack of a better term, for the entire squad, this grizzled
 Required Skills: Remote Ops Required Equipment:
 Remote Drones
 
-This crafty and mischievous hacker has learned the unit’s frequencies that they use to control their remote drones and work robots. He can make them do all sorts of things, even things that they were never intended for.
+This crafty and mischievous hacker has learned the unit's frequencies that they use to control their remote drones and work robots. He can make them do all sorts of things, even things that they were never intended for.
 
 | The remote hacker is ... |                                                                                                                                 |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                    | ...setting up shutdown protocols in all of the combat drones so they ‘cannot hurt anyone else’.                                 |
+| 1 – 2                    | ...setting up shutdown protocols in all of the combat drones so they 'cannot hurt anyone else'.                                 |
 | 3 – 4                    | ...just a troublemaker; causing the remote drones to go haywire and fly in odd patterns but not dangerously so.                 |
-| 5 – 6                    | ...being paid by the unit’s enemy to sabotage their remote drones and make them into weapons that can be used against the unit. |
+| 5 – 6                    | ...being paid by the unit's enemy to sabotage their remote drones and make them into weapons that can be used against the unit. |
 
 #### Idea Man
 
 Required Skills: None Required Equipment: None
 
-Perfect plans and striking insight do not come from just anywhere; they tend to come from this young man’s remarkable mind. He is creative, cunning and thankfully a friend of the characters’.
+Perfect plans and striking insight do not come from just anywhere; they tend to come from this young man's remarkable mind. He is creative, cunning and thankfully a friend of the characters'.
 
 | The idea man is ... |                                                                                                                               |
 | ------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2               | ...where the unit gets most of its basic knowledge about the unknown.                                                         |
 | 3 – 4               | ...in need of someone he trusts to attempt his latest theory but it will not be easy.                                         |
-| 5                   | ...not sure about an upcoming ticket’s potential-versus-risk and is not afraid to say so.                                     |
+| 5                   | ...not sure about an upcoming ticket's potential-versus-risk and is not afraid to say so.                                     |
 | 6                   | ...positive that he has the next big money making idea but it requires that the characters to do some strange things for him. |
 
 #### Aggressive Ally
 
 Required Skills: Persuade Required Equipment: None
 
-This so-called ally of the characters’ unit is forceful and rather foolhardy, always pushing too far into hostile situations and never thinking twice about engaging the enemy.
+This so-called ally of the characters' unit is forceful and rather foolhardy, always pushing too far into hostile situations and never thinking twice about engaging the enemy.
 
 | The aggressive ally is ... |                                                                                                                                 |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                      | ...taking several personal firearms and weapons with him on the next ticket; some of which are going to do more harm than good. |
 | 3 – 4                      | ...incapable of logical thought when the action starts and it will get him or someone else killed someday.                      |
-| 5 – 6                      | ...verbally abusive of the characters, claiming that they are ‘too afraid’ to follow him into battle anymore.                   |
+| 5 – 6                      | ...verbally abusive of the characters, claiming that they are 'too afraid' to follow him into battle anymore.                   |
 
 #### Team Comms Officer
 
 Required Skills: Comms Required Equipment: Personal
 Commlink Station
 
-Serving as the routing center and general security checkpoint for the entire team’s communications equipment, this strong-shouldered mercenary knows how important his job is and will not risk it unintentionally.
+Serving as the routing center and general security checkpoint for the entire team's communications equipment, this strong-shouldered mercenary knows how important his job is and will not risk it unintentionally.
 
 | The team comms Officer is ... |                                                                                                                                        |
 | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
@@ -7277,11 +7277,11 @@ Serving as the routing center and general security checkpoint for the entire tea
 
 Required Skills: Investigate Required Equipment: None
 
-An enemy who allows himself to be captured in order to get behind his enemy’s lines is crafty, risky and dangerous. This man willingly gave himself up in order to complete some secret mission.
+An enemy who allows himself to be captured in order to get behind his enemy's lines is crafty, risky and dangerous. This man willingly gave himself up in order to complete some secret mission.
 
 | The fake captive is ... |                                                                                                               |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                   | ...actually an assassin bent on taking out the unit’s field leader.                                           |
+| 1 – 2                   | ...actually an assassin bent on taking out the unit's field leader.                                           |
 | 3 – 4                   | ...a spy with several hidden surveillance implants transmitting back to his headquarters.                     |
 | 5 – 6                   | ...a local reporter trying to get the best story of his life before admitting his true nature to his captors. |
 
@@ -7306,7 +7306,7 @@ Trading lowest-quality goods for low-quality prices is shady but doing it with t
 | The faulty weapon trader is ... |                                                                                                                                          |
 | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                           | ...not aware that his goods are faulty but has nothing to replace them with and the money is already invested elsewhere.                 |
-| 3 – 4                           | ...sticking by his firm ‘no refunds’ policy, even if it means the characters get violent with him.                                       |
+| 3 – 4                           | ...sticking by his firm 'no refunds' policy, even if it means the characters get violent with him.                                       |
 | 5 – 6                           | ...wilfully sabotaging the weapons he sells in order to keep the conflict going as long as possible because it is good for his business. |
 
 #### Field Leader
@@ -7356,19 +7356,19 @@ No matter where the mercenaries go and what they are doing there, it seems that 
 | ------------------- | --------------------------------------------------------------------------------------------------------------- |
 | 1 – 2               | ...putting together a peaceful march or rally against the existence of hired soldiers in their community.       |
 | 3 – 4               | ...not above vandalizing and sabotaging basic mercenary equipment when no one is looking.                       |
-| 5 – 6               | ...slightly more radical, putting himself in harm’s way in order to make his point against the ticketed action. |
+| 5 – 6               | ...slightly more radical, putting himself in harm's way in order to make his point against the ticketed action. |
 
 #### Weapons Loader
 
 Required Skills: None Required Equipment: Ammunition-fed Weaponry
 
-This junior recruit in the unit is trained in the rapid upkeep and reloading of his fellows’ weaponry. It is his job to make sure that a commando team is never dry on ammunition.
+This junior recruit in the unit is trained in the rapid upkeep and reloading of his fellows' weaponry. It is his job to make sure that a commando team is never dry on ammunition.
 
 | The weapons loader is ... |                                                                                                                                  |
 | ------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                     | ...a big admirer of one of the characters, making sure that there is an extra clip or cell for each of his weapons at all times. |
 | 3 – 4                     | ...always pocketing shells and cartridges when the cases have extra in them; he has managed quite a stockpile by now.            |
-| 5 – 6                     | ...ready to be promoted to full commando status but needs the characters’ written approval.                                      |
+| 5 – 6                     | ...ready to be promoted to full commando status but needs the characters' written approval.                                      |
 
 #### Unit Slacker
 
@@ -7378,7 +7378,7 @@ Whenever the unit goes out on a ticket this guy always seems like he is last to 
 
 | The unit slacker is ... |                                                                                                                                        |
 | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                   | ...being attached to the characters’ team for a ticket or two.                                                                         |
+| 1 – 2                   | ...being attached to the characters' team for a ticket or two.                                                                         |
 | 3 – 4                   | ...trying to get himself lightly injured so he does not have to work for a few weeks while he recuperates.                             |
 | 5 – 6                   | ...acting the way he does in order to slow the unit down and possibly mar their potential, just as his secret employer instructed him. |
 
@@ -7386,7 +7386,7 @@ Whenever the unit goes out on a ticket this guy always seems like he is last to 
 
 Required Skills: None Required Equipment: None
 
-This is the single most important person on some unit’s employment roster. He is part agent, part hero, part hitman and part terrorist. He takes care of the unit’s issues – no matter what they are.
+This is the single most important person on some unit's employment roster. He is part agent, part hero, part hitman and part terrorist. He takes care of the unit's issues – no matter what they are.
 
 | The unit problem-solver is ... |                                                                                                                                                              |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -7415,7 +7415,7 @@ The topmost official in the entire mercenary unit, this professional soldier-of-
 
 | The unit commander is ... |                                                                                                                        |
 | ------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                     | ...wanting to see more out of the characters because of ‘something he heard’ about them, if only to see if it is true. |
+| 1 – 2                     | ...wanting to see more out of the characters because of 'something he heard' about them, if only to see if it is true. |
 | 3 – 4                     | ...looking for the perfect team to train for his new detachment - a battle dress detachment.                           |
 | 5 – 6                     | ...touring the ranks to make sure he is not paying a bunch of dead weights.                                            |
 
@@ -7423,19 +7423,19 @@ The topmost official in the entire mercenary unit, this professional soldier-of-
 
 Required Skills: None Required Equipment: None
 
-Against all odds and logical reasoning, a face has returned from the characters’ past to haunt them – and he means them nothing but ill will and malice.
+Against all odds and logical reasoning, a face has returned from the characters' past to haunt them – and he means them nothing but ill will and malice.
 
 | The impossible returning target is ... |                                                                                                                                          |
 | -------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                                  | ...someone that the characters are sure that they killed. How he has managed to stay alive is well beyond their comprehension.           |
 | 3 – 4                                  | ...nearly head-to-toe bionic and cybernetic replacements to make up for what the characters had cut or blasted off of him.               |
-| 5 – 6                                  | ...actually the twin, clone or replicant of the individual they remember – yet he is just as upset at them for killing his ‘other self’. |
+| 5 – 6                                  | ...actually the twin, clone or replicant of the individual they remember – yet he is just as upset at them for killing his 'other self'. |
 
 #### Prime Commando Agent
 
 Required Skills: Admin, Broker Required Equipment: None
 
-This well-dressed businessman is an employee of a secret agency or powerful employer that wants to put the characters in a magnificently crafted ticket. It will pay a small fortune and seemingly for only an average amount of ‘no questions asked’ type work.
+This well-dressed businessman is an employee of a secret agency or powerful employer that wants to put the characters in a magnificently crafted ticket. It will pay a small fortune and seemingly for only an average amount of 'no questions asked' type work.
 
 | The prime commando agent is ... |                                                                                                                                                                                             |
 | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -7457,7 +7457,7 @@ of tyrannical governments and rarely get good press after their tickets are over
 | 22 – 23    | [[#Loyalist Militiaman]]                 | [[#Rural Farmer]]          |
 | 24 – 25    | [[#Trapper Disgruntled]]                 | [[#Mechanic]]              |
 | 26 – 31    | [[#Supply Security Conspiracy Theorist]] |                            |
-| 32 – 33    | [[#Target’s Bodyguard]]                  | [[#Easy Target]]           |
+| 32 – 33    | [[#Target's Bodyguard]]                  | [[#Easy Target]]           |
 | 34 – 35    | [[#Vigilant Patrolman]]                  | [[#Ignorant Officer]]      |
 | 36 – 41    | [[#Innocent Government Agent]]           | [[#Sympathiser]]           |
 | 42 – 43    | [[#Frightened Witness]]                  | [[#Rabble Rouser]]         |
@@ -7492,7 +7492,7 @@ This rugged laborer has worked for many long years in the local industrial compl
 
 | The oppressed worker is ... |                                                                                                         |
 | --------------------------- | ------------------------------------------------------------------------------------------------------- |
-| 1 – 2                       | ...willing to support the characters’ actions with supplies and a place to stay.                        |
+| 1 – 2                       | ...willing to support the characters' actions with supplies and a place to stay.                        |
 | 3 – 4                       | ...not terribly smart but he is loyal, big and tough.                                                   |
 | 5 – 6                       | ...an accomplished street fighter and barroom brawler and is willing to fight alongside the guerrillas. |
 
@@ -7500,7 +7500,7 @@ This rugged laborer has worked for many long years in the local industrial compl
 
 Required Skills: Any Combat Required Equipment: None
 
-Loyal to the ways of the government, this army soldier is a true upholder of his nation’s beliefs and culture. He will not abide by the so-called ‘legitimized’ actions of the guerrillas and will fight them whenever he can.
+Loyal to the ways of the government, this army soldier is a true upholder of his nation's beliefs and culture. He will not abide by the so-called 'legitimized' actions of the guerrillas and will fight them whenever he can.
 
 | The patriotic soldier is ... |                                                                                                        |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------ |
@@ -7529,7 +7529,7 @@ Moving about in the wilderness, trying to maneuver against the local powers, cou
 | The local survivalist is ... |                                                                                                         |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------- |
 | 1 – 2                        | ...capable of all but vanishing in his local area and can track the characters with ease.               |
-| 3 – 4                        | ...a danger to the characters’ mission.                                                                 |
+| 3 – 4                        | ...a danger to the characters' mission.                                                                 |
 | 5 – 6                        | ...well-armed and ready to use whatever means he has to in order to get the characters off of his land. |
 
 #### Neutral Gun Runner
@@ -7589,7 +7589,7 @@ Taxed and cornered in by urban programs and governmental rules, this simple agri
 
 | The rural farmer is ... |                                                                                                               |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                   | ...supplying the characters’ unit with food.                                                                  |
+| 1 – 2                   | ...supplying the characters' unit with food.                                                                  |
 | 3 – 4                   | ...willing to let the characters use his barn and stables as a staging area to hide assets.                   |
 | 5 – 6                   | ...an old military man who understands that nearly everything is potentially a weapon against a superior foe. |
 
@@ -7597,7 +7597,7 @@ Taxed and cornered in by urban programs and governmental rules, this simple agri
 
 Required Skills: Investigate Required Equipment: None
 
-Moving through the wilderness to remain undetected by government troops can be hazardous due to this man’s exceptional abilities to lay traps for hunting.
+Moving through the wilderness to remain undetected by government troops can be hazardous due to this man's exceptional abilities to lay traps for hunting.
 
 | The trapper is ... |                                                                                                                                          |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -7613,8 +7613,8 @@ This overworked and overtaxed local mechanic has access to the governmental moto
 
 | The disgruntled mechanic is ... |                                                                                                                                                  |
 | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1 – 2                           | ...sure that the characters will only have a few minutes’ window to get in and past the first security checkpoint; beyond that he does not know. |
-| 3 – 4                           | ...angry with his government because of his brother’s drafting and eventual death.                                                               |
+| 1 – 2                           | ...sure that the characters will only have a few minutes' window to get in and past the first security checkpoint; beyond that he does not know. |
+| 3 – 4                           | ...angry with his government because of his brother's drafting and eventual death.                                                               |
 | 5 – 6                           | ...willing to give equipment and mechanical ideas to the characters to get their job done.                                                       |
 
 #### Supply Security
@@ -7640,15 +7640,15 @@ Help comes from strange places when fighting against a superior power and this h
 | 1 – 2                          | ...sure that the government is being controlled by extra-dimensional beings.                                               |
 | 3 – 4                          | ...aware of secret religious practices going on at local authoritarian levels.                                             |
 | 5                              | ...sure that the characters work for a magnanimous higher power, although he does not know which entity.                   |
-| 6                              | ...going to show the characters where the government abducted him from when they needed to scan his brain for ‘logisites’. |
+| 6                              | ...going to show the characters where the government abducted him from when they needed to scan his brain for 'logisites'. |
 
-#### Target’s Bodyguard
+#### Target's Bodyguard
 
 Required Skills: Stealth Required Equipment: None
 
 Sticking close to the intended target of an assassination ticket or just someone that needs to be removed, this dutiful bodyguard may need to be dealt with first.
 
-| The target’s bodyguard is ... |                                                                                                                                       |
+| The target's bodyguard is ... |                                                                                                                                       |
 | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                         | ...good at his job and only rarely lets down his guard.                                                                               |
 | 3 – 4                         | ...willing to lay down his life for his employer, especially if he knows that it is an assassination attempt and not random violence. |
@@ -7694,7 +7694,7 @@ There is nothing better to help along a guerrilla mission than a governmental Of
 
 Required Skills: Investigate Required Equipment: None
 
-Guerrillas often take the tickets they do because they feel that they are ‘right’ and when a truly innocent member of the government presents itself they seldom know what to do.
+Guerrillas often take the tickets they do because they feel that they are 'right' and when a truly innocent member of the government presents itself they seldom know what to do.
 
 | The innocent government agent is ... |                                                                                                                              |
 | ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -7730,14 +7730,14 @@ This citizen saw something important and dangerous to the characters but is curr
 
 Required Skills: Persuade Required Equipment: None
 
-The voice of the local people’s displeasure, this loud-mouthed inciter is good at getting the populace up in arms against their own leaders.
+The voice of the local people's displeasure, this loud-mouthed inciter is good at getting the populace up in arms against their own leaders.
 
 | The rabble rouser is ... |                                                                                                                          |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
 | 1 – 2                    | ...a good mouthpiece for the guerrillas to use in order to cause disturbances away from where they will be active.       |
 | 3 – 4                    | ...a member of the ticketing client that hired the characters.                                                           |
 | 5                        | ...good at recruiting new members for the unit out of the masses.                                                        |
-| 6                        | ...actually part of the characters’ unit and knows exactly what his words are doing in concert with the ticket missions. |
+| 6                        | ...actually part of the characters' unit and knows exactly what his words are doing in concert with the ticket missions. |
 
 #### Unexpected Obstacle
 
@@ -7764,25 +7764,25 @@ Guerrilla warfare is hard to accomplish without public support and the quickest 
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | 1 – 2                       | ...only a local reporter but he has better contacts higher up the media food chain.                                |
 | 3 – 4                       | ...a clerk with the media routing hub.                                                                             |
-| 5 – 6                       | ...on the characters’ side in the current conflict and will paint them as heroes before glorifying the government. |
+| 5 – 6                       | ...on the characters' side in the current conflict and will paint them as heroes before glorifying the government. |
 
 #### Enemy Medic
 
 Required Skills: None Required Equipment: None
 
-This support soldier for the characters’ enemy is not normally a combatant but rather someone who heals the wounded and keeps the ill in fighting shape. This makes him a morally questionable target but a target nonetheless.
+This support soldier for the characters' enemy is not normally a combatant but rather someone who heals the wounded and keeps the ill in fighting shape. This makes him a morally questionable target but a target nonetheless.
 
 | The enemy medic is ... |                                                                                               |
 | ---------------------- | --------------------------------------------------------------------------------------------- |
-| 1 – 2                  | ...also a well-trained soldier and will not ignore the characters’ presence.                  |
+| 1 – 2                  | ...also a well-trained soldier and will not ignore the characters' presence.                  |
 | 3 – 4                  | ...currently patching up a fallen comrade and will plead not to be interrupted.               |
 | 5 – 6                  | ...not against using sedatives against the characters if it slows them down on their mission. |
 
 #### Yacht Pilot
 
-Required Skills: None Required Equipment: Ship’s Yacht
+Required Skills: None Required Equipment: Ship's Yacht
 
-A ship’s yacht is a great way for a small unit of guerrillas to get around hopefully undetected but it requires a good pilot to ‘fly casually’.
+A ship's yacht is a great way for a small unit of guerrillas to get around hopefully undetected but it requires a good pilot to 'fly casually'.
 
 | The yacht pilot is ... |                                                                                                                                               |
 | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -7800,7 +7800,7 @@ This decorated Officer is a member of the deployed regiment of regular army in t
 | ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                         | ...the leader of an armored company with numerous tanks and vehicular support.                                                          |
 | 3 – 4                         | ...a fair leader of his troops; they respect and follow him dutifully.                                                                  |
-| 5 – 6                         | ...third generation military, all serving under the same government; he will not respond to ‘terrorists’ with anything but brute force. |
+| 5 – 6                         | ...third generation military, all serving under the same government; he will not respond to 'terrorists' with anything but brute force. |
 
 #### Chemist
 
@@ -7844,11 +7844,11 @@ Fully aware that it could get him into a great deal of trouble or danger, this d
 Required Skills: Engineer or Mechanic Required Equipment:
 A Sabotaged Machine
 
-This common repairman spends his whole day waist deep in engines, gears and other mechanical devices. When he sees that something is dangerously wrong with something, he inadvertently uncovers a saboteur’s handiwork.
+This common repairman spends his whole day waist deep in engines, gears and other mechanical devices. When he sees that something is dangerously wrong with something, he inadvertently uncovers a saboteur's handiwork.
 
 | The perceptive repairman is ... |                                                                                                 |
 | ------------------------------- | ----------------------------------------------------------------------------------------------- |
-| 1 – 2                           | ...not skilled enough to undo the saboteur’s work without hurting a lot of people.              |
+| 1 – 2                           | ...not skilled enough to undo the saboteur's work without hurting a lot of people.              |
 | 3 – 4                           | ...going to try to undo what has been done but not before reporting it to the authorities.      |
 | 5 – 6                           | ...confident that he can neutralize what the saboteur did and will set to doing so immediately. |
 
@@ -7860,7 +7860,7 @@ Guerrillas do their best work when the local populace is behind them and this es
 
 | The citizen group leader is ... |                                                                                       |
 | ------------------------------- | ------------------------------------------------------------------------------------- |
-| 1 – 2                           | ...extremely charismatic and changes a crowd’s mood in minutes.                       |
+| 1 – 2                           | ...extremely charismatic and changes a crowd's mood in minutes.                       |
 | 3 – 4                           | ...a friend to the characters and definitely on their side.                           |
 | 5 – 6                           | ...willing to sacrifice several of his fellow citizens to see the characters succeed. |
 
@@ -7875,13 +7875,13 @@ The street gangs and underworld thugs of the area can make for a useful tool in 
 | 1 – 2                         | ...churning out recruits for the current situation.                                                  |
 | 3 – 4                         | ...spreading the word amongst the gangs that the oppressors are to be attacked as often as possible. |
 | 5                             | ...willing to introduce the characters to the biggest crimelord in the area.                         |
-| 6                             | ...one of the reasons why the characters’ unit has been ticketed to fight here at all.               |
+| 6                             | ...one of the reasons why the characters' unit has been ticketed to fight here at all.               |
 
 #### Enemy Commando
 
 Required Skills: Tactics and Any Combat Required Equipment: None
 
-A guerrilla’s war is supposed to be fast and behind the scenes and the presence of a ticketed commando to oppose them is never a good sign. This professional soldier makes things a lot more brutal and up front.
+A guerrilla's war is supposed to be fast and behind the scenes and the presence of a ticketed commando to oppose them is never a good sign. This professional soldier makes things a lot more brutal and up front.
 
 | The enemy commando is ... |                                                                                                                           |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
@@ -7893,7 +7893,7 @@ A guerrilla’s war is supposed to be fast and behind the scenes and the presenc
 
 Required Skills: Deception Required Equipment: None
 
-This man works for the very people that the characters are fighting against but wants to see his employers’ downfall and perhaps make a little money on the side by helping the guerrillas.
+This man works for the very people that the characters are fighting against but wants to see his employers' downfall and perhaps make a little money on the side by helping the guerrillas.
 
 | The inside man is ... |                                                                                                                                                      |
 | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -7941,7 +7941,7 @@ This local legend is a criminal wanted by the local authorities but he is only w
 
 Required Skills: Admin Required Equipment: None
 
-This is the mouth of the local government’s power and he is often the primary target of all guerrilla activity in the area. The government might go on without him but it will not be quick or without a time of chaos.
+This is the mouth of the local government's power and he is often the primary target of all guerrilla activity in the area. The government might go on without him but it will not be quick or without a time of chaos.
 
 | The head of state is ... |                                                                                                                                                                                                   |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -7954,12 +7954,12 @@ This is the mouth of the local government’s power and he is often the primary 
 
 Required Skills: Broker, Streetwise Required Equipment: None
 
-Armed with a touching story about the downtrodden and the oppressed along with a full docket of files showing atrocities and crimes against the citizenry, this ticket broker comes with every guerrilla’s dream job.
+Armed with a touching story about the downtrodden and the oppressed along with a full docket of files showing atrocities and crimes against the citizenry, this ticket broker comes with every guerrilla's dream job.
 
 | The prime guerrilla agent is ... |                                                                                                                                   |
 | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                            | ...ready to have the characters and their belongings transported secretly and quickly to the location in 24 hours.                |
-| 3 – 4                            | ...an elected representative of his planet’s illegal underground government.                                                      |
+| 3 – 4                            | ...an elected representative of his planet's illegal underground government.                                                      |
 | 5 – 6                            | ...willing to pay the ticket weekly due to the nature of the work being described, as well as supply weapons and armor as needed. |
 
 ### Security
@@ -7982,7 +7982,7 @@ Characters in the Security career path are hired to protect their ticketed ward,
 | 44 – 45    | [[#Well-Informed Enemy]]                     | [[#Shipside Monitor]]          |
 | 46 – 51    | [[#Aggressive Ward]]                         | [[#Unit Arranger]]             |
 | 52 – 53    | [[#Hidden Threat]]                           | [[#defense Technology Dealer]] |
-| 54 – 55    | [[#Naval Ship’s Captain]]                    | [[#Sharpshooter]]              |
+| 54 – 55    | [[#Naval Ship's Captain]]                    | [[#Sharpshooter]]              |
 | 56 – 61    | [[#Collateral Damage Expert]]                | [[#Assault Expert]]            |
 | 62 – 63    | [[#Psionic Intruder]]                        | [[#Urban Trapper]]             |
 | 64         | [[#Suicidal Aggressor]]                      | [[#Supporting Officer]]        |
@@ -8005,7 +8005,7 @@ This unfortunate soul has chosen to sneak or break into the area protected by a 
 
 Required Skills: None Required Equipment: None
 
-Being protected is this client’s first priority and he will do anything he can to make sure the characters can do this.
+Being protected is this client's first priority and he will do anything he can to make sure the characters can do this.
 
 | The helpful client is ... |                                                                                                             |
 | ------------------------- | ----------------------------------------------------------------------------------------------------------- |
@@ -8036,7 +8036,7 @@ This fellow member of the unit has joined the characters in their current ticket
 | 1 – 2                 | ...a new recruit and eager to learn the basics from someone who knows how things actually work in the field.         |
 | 3 – 4                 | ...a friend of the characters who has not worked with them for several tickets.                                      |
 | 5                     | ...a hot-headed mercenary who should probably be a commando rather than a security agent.                            |
-| 6                     | ...a cool, collected killing machine that is actually researching the characters’ efficiency for the unit commander. |
+| 6                     | ...a cool, collected killing machine that is actually researching the characters' efficiency for the unit commander. |
 
 #### Demanding Ward
 
@@ -8059,7 +8059,7 @@ This unit member is trained to plan and prepare the best way to set guards, arra
 | The tactical agent is ... |                                                                                                                 |
 | ------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                     | ...being placed with the characters as an advisor.                                                              |
-| 3 – 4                     | ...concerned about the tactical soundness of the characters’ current plan and he wants to go over it with them. |
+| 3 – 4                     | ...concerned about the tactical soundness of the characters' current plan and he wants to go over it with them. |
 | 5 – 6                     | ...training one of the characters in the finer points of tactics awareness.                                     |
 
 #### Loose-lipped Comrade
@@ -8082,22 +8082,22 @@ This hawkeyed civilian agent of a local surveillance firm has worked several tim
 
 | The surveillance contact is ... |                                                                                                                                                               |
 | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                           | ...patched in with the governmental high-tech satellite systems; he can read someone’s nametag from orbit if need be.                                         |
-| 3 – 4                           | ...helping the characters for a hefty side payment, as his employer would be upset to know he was using the equipment for ‘personal’ projects.                |
-| 5 – 6                           | ...already working on the characters’ ticket and has come up with a file full of possible security breaches and suspicious onlookers for them to investigate. |
+| 1 – 2                           | ...patched in with the governmental high-tech satellite systems; he can read someone's nametag from orbit if need be.                                         |
+| 3 – 4                           | ...helping the characters for a hefty side payment, as his employer would be upset to know he was using the equipment for 'personal' projects.                |
+| 5 – 6                           | ...already working on the characters' ticket and has come up with a file full of possible security breaches and suspicious onlookers for them to investigate. |
 
 #### Crafty Rogue
 
 Required Skills: Investigate Required Equipment: None
 
-A security agent’s job is difficult when having to work against someone who knows how to be unseen and this cunning criminal has been trained to blend in very well. He is dangerously clever.
+A security agent's job is difficult when having to work against someone who knows how to be unseen and this cunning criminal has been trained to blend in very well. He is dangerously clever.
 
 | The crafty rogue is ... |                                                                                                        |
 | ----------------------- | ------------------------------------------------------------------------------------------------------ |
 | 1 – 2                   | ...an expert at disguises; if he wants to get past the characters, that is the way that he will do it. |
-| 3 – 4                   | ...looking to steal something from the characters’ ward.                                               |
-| 5                       | ...performing some kind of underhanded action on someone else’s behalf – and payroll.                  |
-| 6                       | ...bloodthirsty and carrying a grudge against the characters’ employers.                               |
+| 3 – 4                   | ...looking to steal something from the characters' ward.                                               |
+| 5                       | ...performing some kind of underhanded action on someone else's behalf – and payroll.                  |
+| 6                       | ...bloodthirsty and carrying a grudge against the characters' employers.                               |
 
 #### Guardsman
 
@@ -8110,7 +8110,7 @@ This is a slightly experienced member of the unit who knows the characters and w
 | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                | ...an old friend of one of the characters; he is helping because he owes him a favor.                                                               |
 | 3 – 4                | ...assigned to the same ticket as the characters but in a subordinate level.                                                                        |
-| 5 – 6                | ...looking to become a permanent attachment to the characters’ team but knows that he might be imposing, so he has something special to offer them. |
+| 5 – 6                | ...looking to become a permanent attachment to the characters' team but knows that he might be imposing, so he has something special to offer them. |
 
 #### Dedicated Problem
 
@@ -8140,7 +8140,7 @@ Having a few guard dogs or whatever passes as the local patrol animal around can
 
 Required Skills: Investigate Required Equipment: Location Ward
 
-This skilled criminal has decided that the client location of the characters’ security ticket is going to be the next target on his list of places to rob.
+This skilled criminal has decided that the client location of the characters' security ticket is going to be the next target on his list of places to rob.
 
 | The burglar is ... |                                                                                                                             |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------- |
@@ -8157,7 +8157,7 @@ Hired specifically as an extra set of eyes and ears, this sub-employee of the ch
 | The lookout is ... |                                                                                                        |
 | ------------------ | ------------------------------------------------------------------------------------------------------ |
 | 1 – 2              | ...just a local teenager working for a few credits but he is more or less loyal.                       |
-| 3 – 4              | ...working for the characters’ employer as well on a separate contract.                                |
+| 3 – 4              | ...working for the characters' employer as well on a separate contract.                                |
 | 5 – 6              | ...pretty sure that he is being watched by a stationary transport vehicle and thinks it means trouble. |
 
 #### Investigative Passer By
@@ -8168,9 +8168,9 @@ This happenstance citizen is just a little bit too curious of the characters and
 
 | The investigative passer by is ... |                                                                                                                                                             |
 | ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                              | ...just walking his pet but they did happen to stop perfectly in front of the characters’ position.                                                         |
+| 1 – 2                              | ...just walking his pet but they did happen to stop perfectly in front of the characters' position.                                                         |
 | 3 – 4                              | ...on an exercise run and listening to headphones – or is patched into a cleverly disguised secure communications network.                                  |
-| 5 – 6                              | ...actually a real agent working for someone targeting the characters’ ward. Unless they can catch him quickly, he will bring back some well-informed foes. |
+| 5 – 6                              | ...actually a real agent working for someone targeting the characters' ward. Unless they can catch him quickly, he will bring back some well-informed foes. |
 
 #### Technophile
 
@@ -8182,7 +8182,7 @@ The sorts of equipment that this unit member desires to use are always of a high
 | ---------------------- | ------------------------------------------------------------------------------------------------ |
 | 1 – 2                  | ...so well equipped that he is a one-man army and a good addition to any ticketed team.          |
 | 3 – 4                  | ...researching a lead he has on a smuggler who is selling tons of high-tech weapons and gadgets. |
-| 5 – 6                  | ...loyal to the unit and does not mind sharing some of his ‘toys’.                               |
+| 5 – 6                  | ...loyal to the unit and does not mind sharing some of his 'toys'.                               |
 
 #### Talkative Guard
 
@@ -8193,14 +8193,14 @@ Security work does not have to be silent and without conversation but this low-r
 | The talkative guard is ... |                                                                                                                                   |
 | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                      | ...always going on about the negative parts of the job; he is a non-stop complainer.                                              |
-| 3 – 4                      | ...nervously chattering on about this and that into the team’s communications network, making it difficult to hear anything else. |
-| 5 – 6                      | ...just annoying enough to make team members assigned with him wonder if they could arrange an ‘accident’ for him.                |
+| 3 – 4                      | ...nervously chattering on about this and that into the team's communications network, making it difficult to hear anything else. |
+| 5 – 6                      | ...just annoying enough to make team members assigned with him wonder if they could arrange an 'accident' for him.                |
 
 #### Assisting Patrolman
 
 Required Skills: None Required Equipment: Location Ward
 
-This local patrolman has offered his assistance in keeping a close eye on the characters’ ward location. He knows the area well from years of patrol duty and little will get by him.
+This local patrolman has offered his assistance in keeping a close eye on the characters' ward location. He knows the area well from years of patrol duty and little will get by him.
 
 | The assisting patrolman is ... |                                                                                                                      |
 | ------------------------------ | -------------------------------------------------------------------------------------------------------------------- |
@@ -8228,15 +8228,15 @@ Skilled and knowledgeable about how the industry works, this security mercenary 
 
 | The defender-for-hire is ... |                                                                                                                                                        |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1 – 2                        | ...helping the characters for a few weeks while his team’s next ticket gets through legal administration.                                              |
-| 3 – 4                        | ...well-versed in how the characters normally work but he thinks they could do better if they try the next ticket ‘his way’.                           |
+| 1 – 2                        | ...helping the characters for a few weeks while his team's next ticket gets through legal administration.                                              |
+| 3 – 4                        | ...well-versed in how the characters normally work but he thinks they could do better if they try the next ticket 'his way'.                           |
 | 5 – 6                        | ...aware of a plot against the characters from another team previously hired by the same client. He was on that team and knows what they are planning. |
 
 #### Professional Sniper
 
 Required Skills: Stealth Required Equipment: Living Ward
 
-Someone has hired a professional assassin – a sniper – to end the life of the characters’ ward.
+Someone has hired a professional assassin – a sniper – to end the life of the characters' ward.
 
 | The professional sniper is ... |                                                                                                                                                |
 | ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -8253,7 +8253,7 @@ A local citizen has been assigned to help the characters in some way by the clie
 | The citizen aide is ... |                                                                                                                                 |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                   | ...a glorified personal assistant that is to help the characters get anything they need to do their job.                        |
-| 3 – 4                   | ...being paid to serve the characters’ every need while they are on assignment.                                                 |
+| 3 – 4                   | ...being paid to serve the characters' every need while they are on assignment.                                                 |
 | 5                       | ...trained as a private bodyguard as well as an aide.                                                                           |
 | 6                       | ...the only person besides the characters that are allowed in and out of the protected area without being detained for inquiry. |
 
@@ -8261,19 +8261,19 @@ A local citizen has been assigned to help the characters in some way by the clie
 
 Required Skills: Deception Required Equipment: None
 
-The security industry only works because one side hides the facts from the other side but this enemy of the characters’ employer seems to know all of the details ahead of time.
+The security industry only works because one side hides the facts from the other side but this enemy of the characters' employer seems to know all of the details ahead of time.
 
 | The well-informed enemy is ... |                                                                                                                                |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
 | 1 – 2                          | ...being fed information from someone on the inside of the ticket.                                                             |
-| 3 – 4                          | ...going to try to sneak through the holes in the characters’ security perimeter without them ever knowing.                    |
+| 3 – 4                          | ...going to try to sneak through the holes in the characters' security perimeter without them ever knowing.                    |
 | 5 – 6                          | ...planning a major assault using what they know, making defending against their precision attacks difficult to say the least. |
 
 #### Shipside Monitor
 
 Required Skills: None Required Equipment: Shipside Ward
 
-This member of the ship’s assigned security crew is in charge of watching all of the electronic monitoring feeds. He sees so much of what is going on throughout the ship, he could be indispensable for a common shipside ticket.
+This member of the ship's assigned security crew is in charge of watching all of the electronic monitoring feeds. He sees so much of what is going on throughout the ship, he could be indispensable for a common shipside ticket.
 
 | The shipside monitor is ... |                                                                                                                                           |
 | --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
@@ -8290,7 +8290,7 @@ Protecting a client is much easier when the client recognizes the danger that th
 | The aggressive ward is ... |                                                                                                                        |
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                      | ...constantly throwing insults and profanities at people, even if they are not paying any attention to him.            |
-| 3 – 4                      | ...mean and rude even to the characters because they will not let him ‘deal’ with his enemies.                         |
+| 3 – 4                      | ...mean and rude even to the characters because they will not let him 'deal' with his enemies.                         |
 | 5                          | ...carrying a weapon unknown to the characters; he will draw it at an inopportune time and make threats when agitated. |
 | 6                          | ...willing to sneak away from the characters to confront his enemies.                                                  |
 
@@ -8298,7 +8298,7 @@ Protecting a client is much easier when the client recognizes the danger that th
 
 Required Skills: Persuade Required Equipment: None
 
-This unit Officer is the one in charge of taking the decisions of the unit’s ticket administration and unit commander and assigning the right team to the job.
+This unit Officer is the one in charge of taking the decisions of the unit's ticket administration and unit commander and assigning the right team to the job.
 
 | The unit arranger is ... |                                                                                                                                        |
 | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
@@ -8316,27 +8316,27 @@ Someone currently close to the characters is a threat to them, their safety or t
 | ------------------------ | ---------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                    | ...one of the local citizens who is going to do something unexpected and assault the client.                     |
 | 3 – 4                    | ...present in the form of a double-crossing member of the security unit.                                         |
-| 5 – 6                    | ...actually from the client itself. Something is wrong with it that can only be described as ‘self-destructive’. |
+| 5 – 6                    | ...actually from the client itself. Something is wrong with it that can only be described as 'self-destructive'. |
 
 #### defense Technology Dealer
 
 Required Skills: Persuade Required Equipment: None
 
-Appropriating and selling defense technology such as surveillance, armor and remote drones is this retailer’s primary business. If it is useful in keeping something or someone safe, he probably has one.
+Appropriating and selling defense technology such as surveillance, armor and remote drones is this retailer's primary business. If it is useful in keeping something or someone safe, he probably has one.
 
 | The defense technology dealer is ... |                                                                                                                                                                                   |
 | ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                                | ...on his way to pick up a new shipment of ‘less-lethal’ IR-triggered defense mines and he will trade the characters a few of them for their escort to and from the pickup point. |
+| 1 – 2                                | ...on his way to pick up a new shipment of 'less-lethal' IR-triggered defense mines and he will trade the characters a few of them for their escort to and from the pickup point. |
 | 3 – 4                                | ...an ally of the security unit, offering them a standing 10% discount.                                                                                                           |
 | 5 – 6                                | ...an old security mercenary himself and he will tell the characters exactly what he thinks about what he has to offer if they ask.                                               |
 
-#### Naval Ship’s Captain
+#### Naval Ship's Captain
 
 Required Skills: Admin Required Equipment: Shipside Ward
 
-While assigned to a ticket with shipside duty, the naval Officers onboard rarely have good things to say about the ‘hired muscle’. This is the ringleader of the negative thinking, the captain of the ship, who hates that he has been saddled with the characters.
+While assigned to a ticket with shipside duty, the naval Officers onboard rarely have good things to say about the 'hired muscle'. This is the ringleader of the negative thinking, the captain of the ship, who hates that he has been saddled with the characters.
 
-| The naval ship’s captain is ... |                                                                                                                                 |
+| The naval ship's captain is ... |                                                                                                                                 |
 | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                           | ...upset that his own government thinks that his crew cannot protect the ship well enough.                                      |
 | 3 – 4                           | ...looking for a good way to make the characters look bad to his superiors, perhaps even by staging an attack on the ward.      |
@@ -8351,7 +8351,7 @@ This unit specialist has extensive training with a number of long-ranged firearm
 | The sharpshooter is ... |                                                                                                                                                                         |
 | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                   | ...a former sniper, having transferred to the security unit to avoid moral dilemmas.                                                                                    |
-| 3 – 4                   | ...being attached to the characters’ team due to an increased chance of personnel assaults but he will wait for the highest ranking character’s signal before shooting. |
+| 3 – 4                   | ...being attached to the characters' team due to an increased chance of personnel assaults but he will wait for the highest ranking character's signal before shooting. |
 | 5                       | ...quiet and cold to people but he can be heard occasionally talking to his rifle in soft and loving tones.                                                             |
 | 6                       | ...in the job to save lives, not take them. He often goes for disarming shots and incapacitation rather than killing hits.                                              |
 
@@ -8359,24 +8359,24 @@ This unit specialist has extensive training with a number of long-ranged firearm
 
 Required Skills: None Required Equipment: Location Ward
 
-Intelligent and coldly logical, this enemy of the characters’ employer is good at using mass-effect weaponry to exactly the effect he needs.
+Intelligent and coldly logical, this enemy of the characters' employer is good at using mass-effect weaponry to exactly the effect he needs.
 
 | The collateral damage expert is ... |                                                                                                                                                                            |
 | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                               | ...a demolitionist that modifies all of his grenades and detonators himself, making sure that they cause as much or as little additional damage as he needs.               |
-| 3 – 4                               | ...a professional arsonist by hobby and construction wrecker by trade; he knows how to burn a building down without so much as discoloring the neighbors’ houses.          |
+| 3 – 4                               | ...a professional arsonist by hobby and construction wrecker by trade; he knows how to burn a building down without so much as discoloring the neighbors' houses.          |
 | 5 – 6                               | ...utterly careless of sentient life, making sure that his attacks endanger as many bystanders as possible to help add to the chaos so that he is free to make his escape. |
 
 #### Assault Expert
 
 Required Skills: None Required Equipment: None
 
-Specializing in the actual offensive strikes that are often a security agent’s worry, this unit member can better prepare for an assault because he knows how he would do it if the tables were reversed.
+Specializing in the actual offensive strikes that are often a security agent's worry, this unit member can better prepare for an assault because he knows how he would do it if the tables were reversed.
 
 | The assault expert is ... |                                                                                                                                             |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                     | ...taking a look at the characters’ current defense scheme for their ticket, giving them a few pointers here and there.                     |
-| 3 – 4                     | ...going to lead a ‘mock assault’ exercise on a supposedly defended position and wants the characters to join him as his fellow assaulters. |
+| 1 – 2                     | ...taking a look at the characters' current defense scheme for their ticket, giving them a few pointers here and there.                     |
+| 3 – 4                     | ...going to lead a 'mock assault' exercise on a supposedly defended position and wants the characters to join him as his fellow assaulters. |
 | 5 – 6                     | ...looking for someone to test his newly designed anti-riot powered armor – in an actual riot occurring a few cities away.                  |
 
 #### Psionic Intruder
@@ -8395,7 +8395,7 @@ This mentally-enhanced trespasser can break into any location or get at anybody 
 
 Required Skills: Persuade, Tactics Required Equipment: None
 
-Setting mines, barricades, sensors and other traps and catches for potential enemies is this security agent’s primary skill. He can defend an area single-handedly if he has a few hours to prepare the surrounding perimeter.
+Setting mines, barricades, sensors and other traps and catches for potential enemies is this security agent's primary skill. He can defend an area single-handedly if he has a few hours to prepare the surrounding perimeter.
 
 | The urban trapper is ... |                                                                                                                                                        |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -8435,7 +8435,7 @@ Whatever the reasons, this person is allowed freely to enter the protected area 
 
 | The legal intruder is ... |                                                                                                                                                                      |
 | ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                     | ...a local authoritarian trooper that has a warrant to search the premises for information unrelated to the characters’ ticket.                                      |
+| 1 – 2                     | ...a local authoritarian trooper that has a warrant to search the premises for information unrelated to the characters' ticket.                                      |
 | 3 – 4                     | ...someone that works for the client too; he bears a writ that demands his immediate entrance to the location.                                                       |
 | 5                         | ...a governmental official that has all the right paperwork that says he can come in and look around.                                                                |
 | 6                         | ...carrying paperwork – forged paperwork. He is actually an enemy of the client trying to get inside and plant a destructive device but not if he gets caught first. |
@@ -8475,7 +8475,7 @@ This mysterious man with a heavy briefcase and a gentle smile comes bearing a po
 
 | The prime security agent is ... |                                                                                                                                                                                                            |
 | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                           | ...offering an entire starship and not one of those little scout vessels, to the characters as pre-ticket payment if they take it to his employer’s planet and serve as royal escorts for a galactic tour. |
+| 1 – 2                           | ...offering an entire starship and not one of those little scout vessels, to the characters as pre-ticket payment if they take it to his employer's planet and serve as royal escorts for a galactic tour. |
 | 3 – 4                           | ...looking for someone to protect the royal heir to the throne of a powerful empire until his ascendancy in one year.                                                                                      |
 | 5 – 6                           | ...carrying a small package the characters would need to protect – unopened – for a period of 90 days before being paid a fortune. The package cannot be opened at all or the ticket is null and voided.   |
 
@@ -8530,7 +8530,7 @@ Mercenary units have to get their guns and ammunition from someone and this char
 | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                    | ...best when dealing in bulk, which is why he likes selling to the unit as a whole.                                                             |
 | 3 – 4                    | ...offering the characters a special deal on some rare equipment.                                                                               |
-| 5 – 6                    | ...pleased to say that he has a new type of ammunition that he has never seen before and he wants the characters to run a ‘test drive’ for him. |
+| 5 – 6                    | ...pleased to say that he has a new type of ammunition that he has never seen before and he wants the characters to run a 'test drive' for him. |
 
 #### Heavy Gunner
 
@@ -8552,7 +8552,7 @@ This brave soldier is in charge of the invaluable vehicular assets responsible f
 
 | The APC Driver is ... |                                                                                                                                                                                   |
 | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                 | ...a good driver of many varieties of vehicles and he sticks with the characters’ team as often as he can.                                                                        |
+| 1 – 2                 | ...a good driver of many varieties of vehicles and he sticks with the characters' team as often as he can.                                                                        |
 | 3 – 4                 | ...looking for an excuse to stick around and shoot a few things on one of his missions.                                                                                           |
 | 5 – 6                 | ...reckless and slightly foolhardy behind the control yoke of anything with external armor but he always gets the job done - even at the expense of the integrity of the vehicle. |
 
@@ -8560,14 +8560,14 @@ This brave soldier is in charge of the invaluable vehicular assets responsible f
 
 Required Skills: Tactics Required Equipment: None
 
-A striker’s worst nightmare is to assault a heavily fortified position, especially if it has been fortified by the designs of someone like this man. He is a trained Defense Specialist, perhaps even a security mercenary.
+A striker's worst nightmare is to assault a heavily fortified position, especially if it has been fortified by the designs of someone like this man. He is a trained Defense Specialist, perhaps even a security mercenary.
 
 | The site defender is ... |                                                                                                                   |
 | ------------------------ | ----------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                    | ...well prepared for the characters; seemingly for anything they might have in store.                             |
 | 3 – 4                    | ...a master trapper as well as a defense technician; the whole area surrounding where he is located is dangerous. |
 | 5                        | ...actually part of a security mercenary unit hired to oppose the characters.                                     |
-| 6                        | ...quite enamored with the characters’ past experiences. He could be considered an expert upon them.              |
+| 6                        | ...quite enamored with the characters' past experiences. He could be considered an expert upon them.              |
 
 #### Drop Pilot
 
@@ -8590,7 +8590,7 @@ This fast-footed enemy seems to always be in the right place at the wrong time, 
 | The trench runner is ... |                                                                                                                                                                                     |
 | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                    | ...carrying the orders to the front lines of a conflict that could cause serious problems for the characters.                                                                       |
-| 3 – 4                    | ...the primary target for another striker team’s ticket but the characters could choose to help them.                                                                               |
+| 3 – 4                    | ...the primary target for another striker team's ticket but the characters could choose to help them.                                                                               |
 | 5 – 6                    | ...actually targeting the characters for a major offensive against them and is currently spreading the word about it. The farther it gets the more people to oppose the characters. |
 
 #### Pugilist
@@ -8622,12 +8622,12 @@ Highly trained mercenary warriors, strikers do not often enjoy facing against un
 
 Required Skills: None Required Equipment: None
 
-This is another striker within the unit who is currently assigned to the characters’ squad. He is not anything special but he is useful to have around.
+This is another striker within the unit who is currently assigned to the characters' squad. He is not anything special but he is useful to have around.
 
 | The squadmate is ... |                                                                                                                       |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                | ...a good and friendly guy to have around; he has already made several friends amongst the locals.                    |
-| 3 – 4                | ...assigned to the characters’ squad because he needed them to accompany him on a small ticket.                       |
+| 3 – 4                | ...assigned to the characters' squad because he needed them to accompany him on a small ticket.                       |
 | 5 – 6                | ...a real crack shot that is terribly useful on the battlefield but also can serve as a trainer for rifle techniques. |
 
 #### Battlefield Psycho
@@ -8676,7 +8676,7 @@ Befriending this regular army clerk is a good idea for any striker, as he has th
 
 | The army requisition Officer is ... |                                                                                                                                  |
 | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                               | ...interested in making profits outside of his paychecks and is happy to sell ‘unused’ stock.                                    |
+| 1 – 2                               | ...interested in making profits outside of his paychecks and is happy to sell 'unused' stock.                                    |
 | 3 – 4                               | ...an expert at ensuring paperwork hides even the largest of discrepancies in his inventory.                                     |
 | 5 – 6                               | ...pleased to do business with the striker unit but will not sell them anything large enough to backfire on him at a later date. |
 
@@ -8684,7 +8684,7 @@ Befriending this regular army clerk is a good idea for any striker, as he has th
 
 Required Skills: None Required Equipment: None
 
-This Officer in the enemy’s army is in charge of a large collection of military assets that he has to set against the actions of the strikers. He is a local leader and tactician and he is normally well protected.
+This Officer in the enemy's army is in charge of a large collection of military assets that he has to set against the actions of the strikers. He is a local leader and tactician and he is normally well protected.
 
 | The platoon leader is ... |                                                                                                                                 |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -8714,7 +8714,7 @@ The enemy has unveiled this capable trooper through his liberal use of launched 
 | The accurate grenadier is ... |                                                                                                                                             |
 | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                         | ...trying to wound his targets rather than killing them in order to take prisoners.                                                         |
-| 3 – 4                         | ...outfitted for anti-armor targeting, which would cause the characters’ evacuation transport issues when it comes to getting out of there. |
+| 3 – 4                         | ...outfitted for anti-armor targeting, which would cause the characters' evacuation transport issues when it comes to getting out of there. |
 | 5 – 6                         | ...equipped with a high-tech multi-launcher; he will not be an easy target to eliminate.                                                    |
 
 #### Unit Medic
@@ -8725,7 +8725,7 @@ This specially-trained striker is good with a first aid kit and can make even th
 
 | The unit medic is ... |                                                                                                            |
 | --------------------- | ---------------------------------------------------------------------------------------------------------- |
-| 1 – 2                 | ...attached to the characters’ team due to their importance to the ticket’s outcome.                       |
+| 1 – 2                 | ...attached to the characters' team due to their importance to the ticket's outcome.                       |
 | 3 – 4                 | ...looking for a good team to run with for a little while, just until he gets official orders.             |
 | 5                     | ...equipped with several illegal narcotics that can help a wounded man fight on for hours before dropping. |
 | 6                     | ...a capable striker as well as a medic, stitching with one hand while shooting with the other.            |
@@ -8750,7 +8750,7 @@ This local citizen has been paid by the striker unit to help them find the best 
 
 | The civilian scout is ... |                                                                                            |
 | ------------------------- | ------------------------------------------------------------------------------------------ |
-| 1 – 2                     | ...brave enough to show the characters how to get to the enemy’s supply lines.             |
+| 1 – 2                     | ...brave enough to show the characters how to get to the enemy's supply lines.             |
 | 3 – 4                     | ...from the area originally and knows more about the surrounding terrain than anyone else. |
 | 5 – 6                     | ...armed and willing to fight if the characters are there to help him.                     |
 
@@ -8777,7 +8777,7 @@ The commander of the striker unit as a whole, this mercenary controls all of the
 
 | The unit leader is ... |                                                                                                                                                                    |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1 – 2                  | ...looking for a group of field advisors on the current ticket; they would have to wear personal surveillance equipment but they would have the unit leader’s ear. |
+| 1 – 2                  | ...looking for a group of field advisors on the current ticket; they would have to wear personal surveillance equipment but they would have the unit leader's ear. |
 | 3 – 4                  | ...interested in getting back on the battlefield, wondering if the characters will be a good team to work with.                                                    |
 | 5 – 6                  | ...in need of setting up a trusted team with powered armor and a specific target to destroy.                                                                       |
 
@@ -8814,14 +8814,14 @@ This enemy support technician has a knack for doctoring his allies weaponry, mak
 | The enemy weapon specialist is ... |                                                                                                                          |
 | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | 1 – 2                              | ...not actually enrolled with the enemy armed forces; he is just a local scientist that they have tapped for his skills. |
-| 3 – 4                              | ...outfitting all of his comrades’ weapons with close quarters attachments for some strange reason.                      |
+| 3 – 4                              | ...outfitting all of his comrades' weapons with close quarters attachments for some strange reason.                      |
 | 5 – 6                              | ...not a frontline soldier and hates to be where the real action is but sometimes has to go to repair his own handiwork. |
 
 #### Ortillery Officer
 
 Required Skills: Persuade Required Equipment: Starship
 
-Getting this gunnery Officer on an allied starship on the characters’ side during a major conflict could be paramount to a quick and decisive victory. When the fusion blasts begin to rain down from above, it is better to have them aimed at the enemy.
+Getting this gunnery Officer on an allied starship on the characters' side during a major conflict could be paramount to a quick and decisive victory. When the fusion blasts begin to rain down from above, it is better to have them aimed at the enemy.
 
 | The ortillery Officer is ... |                                                                                                                                      |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -8845,12 +8845,12 @@ An enemy soldier that has been heavily augmented with combat implants and enhanc
 
 Required Skills: Persuade Required Equipment: None
 
-A local civilian that wants to help out the strikers’ side of the conflict in some way, this friendly person is not a combatant but thinks he can aid those who are.
+A local civilian that wants to help out the strikers' side of the conflict in some way, this friendly person is not a combatant but thinks he can aid those who are.
 
 | The local supporter is ... |                                                                                                                                                           |
 | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                      | ...a farmstead owner that will open his doors and let the unit borrow his barn to serve as a hidden headquarters.                                         |
-| 3 – 4                      | ...a well-liked socialite that keeps the public opinion of the characters’ unit high.                                                                     |
+| 3 – 4                      | ...a well-liked socialite that keeps the public opinion of the characters' unit high.                                                                     |
 | 5 – 6                      | ...the owner of several industrial warehouses that could be used to store vehicles, munitions and equipment without fear of being targeted by enemy fire. |
 
 #### Alien Commando
@@ -8862,14 +8862,14 @@ This alien mercenary hails from a species of militant warriors that thrive on ca
 | The alien commando is ... |                                                                                               |
 | ------------------------- | --------------------------------------------------------------------------------------------- |
 | 1 – 2                     | ...hired to try to neutralize the characters like a battlefield assassin of sorts.            |
-| 3 – 4                     | ...wielding alien and previously unseen weapon technologies that far surpass the characters’. |
+| 3 – 4                     | ...wielding alien and previously unseen weapon technologies that far surpass the characters'. |
 | 5 – 6                     | ...doing what he is told to do on his ticket, nothing more.                                   |
 
 #### Strike Commander
 
 Required Skills: Admin Required Equipment: None
 
-A unit commander that has been placed in charge of a large ticket will sometimes delegate a secondary Officer to serve as that strike’s commander, as it has been in this mercenary’s case. He leads from within his hand-picked team.
+A unit commander that has been placed in charge of a large ticket will sometimes delegate a secondary Officer to serve as that strike's commander, as it has been in this mercenary's case. He leads from within his hand-picked team.
 
 | The strike commander is ... |                                                                                                                           |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
@@ -8910,7 +8910,7 @@ This enemy soldier is one of the hardest ones to deal with in a combat situation
 
 | The family man is ... |                                                                                                       |
 | --------------------- | ----------------------------------------------------------------------------------------------------- |
-| 1 – 2                 | ...carrying around a glossy picture of his kids tucked into his helmet’s sizing band.                 |
+| 1 – 2                 | ...carrying around a glossy picture of his kids tucked into his helmet's sizing band.                 |
 | 3 – 4                 | ...fighting under the impression that if his side loses his family will be killed horribly.           |
 | 5 – 6                 | ...trying not to be too involved in the fighting so he can get back home, perhaps even by going AWOL. |
 
@@ -8924,7 +8924,7 @@ Armed with the latest and greatest in anti-armor weaponry and equipment, this st
 | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                            | ...trying out a new fusion-based platform weapon that requires a few hours to set up properly, so he will need the characters to hold off the enemy until he is done.                        |
 | 3 – 4                            | ...loaded down with limpet mines and shaped charges – he plans to deal with the armored targets directly and will need the characters to open him up a lane of movement.                     |
-| 5 – 6                            | ...being attached to the characters’ team in order to deal with the armored targets currently standing in their way and any others that might hinder their completion of the current ticket. |
+| 5 – 6                            | ...being attached to the characters' team in order to deal with the armored targets currently standing in their way and any others that might hinder their completion of the current ticket. |
 
 #### Opposing Striker
 
@@ -8934,7 +8934,7 @@ There are fewer battles as bloody as when striker units clash over contradictory
 
 | The opposing striker is ... |                                                                                                                                                                                       |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                       | ...willing to discuss a possible cease fire between the two units to save on funds and assets while they work out a mutual way of determining a ‘winner’ of the conflict around them. |
+| 1 – 2                       | ...willing to discuss a possible cease fire between the two units to save on funds and assets while they work out a mutual way of determining a 'winner' of the conflict around them. |
 | 3 – 4                       | ...uncaring about his fellow mercenaries; as far as he is concerned they knew what they signed up for and he is not going to give any mercy.                                          |
 | 5 – 6                       | ...someone the characters trained or fought with before and now they are supposed to kill him.                                                                                        |
 
@@ -8966,14 +8966,14 @@ This person belongs to no unit or no team; not even a club that discusses tactic
 
 Required Skills: Admin Required Equipment: None
 
-Placed in command of the ticket’s forces, both mercenary and regular army, this man is the collective Officer in charge of the battle on a much larger level. He must coordinate all facets at once, balancing mercenary lives versus those of the local force.
+Placed in command of the ticket's forces, both mercenary and regular army, this man is the collective Officer in charge of the battle on a much larger level. He must coordinate all facets at once, balancing mercenary lives versus those of the local force.
 
 | The primary commander is ... |                                                                                                                                  |
 | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                        | ...a civilian tactical genius.                                                                                                   |
-| 3 – 4                        | ...governmentally assigned from a list of generals and commanders, which may or may not have included the characters’ superiors. |
+| 3 – 4                        | ...governmentally assigned from a list of generals and commanders, which may or may not have included the characters' superiors. |
 | 5                            | ...the leader of the local armed forces.                                                                                         |
-| 6                            | ...the strike commander of the characters’ ticketed forces.                                                                      |
+| 6                            | ...the strike commander of the characters' ticketed forces.                                                                      |
 
 #### Enemy Commander
 
@@ -8983,9 +8983,9 @@ The head of the enemy forces is not someone that can be often found in the open 
 
 | The enemy commander is ... |                                                                                                                                                                               |
 | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                      | ...making a press conference in the morning, meaning that he will be exposed for several minutes while he discusses the people’s responsibility to deal with the mercenaries. |
+| 1 – 2                      | ...making a press conference in the morning, meaning that he will be exposed for several minutes while he discusses the people's responsibility to deal with the mercenaries. |
 | 3 – 4                      | ...brave enough to show up on the front lines but only in a mobile armored command tank.                                                                                      |
-| 5 – 6                      | ...trying to get the characters’ unit to come forward for a negotiation of surrender, which may or may not be a trick to get them all in one place for a trap.                |
+| 5 – 6                      | ...trying to get the characters' unit to come forward for a negotiation of surrender, which may or may not be a trick to get them all in one place for a trap.                |
 
 #### Prime Striker Agent
 
@@ -9031,7 +9031,7 @@ Characters in the Warmonger career path are the profiteers of wartime commerce. 
 
 Required Skills: Trade Required Equipment: Goods for Sale
 
-Some people just cannot leave the price where it should be and want to fight over it. This sharp-tongued client is one of them and no price is low enough and when he finally agrees it is merely ‘robbery’.
+Some people just cannot leave the price where it should be and want to fight over it. This sharp-tongued client is one of them and no price is low enough and when he finally agrees it is merely 'robbery'.
 
 | The bickering buyer is ... |                                                                                 |
 | -------------------------- | ------------------------------------------------------------------------------- |
@@ -9057,13 +9057,13 @@ Even though he does not buy much at any given time, this client is good for a fe
 
 Required Skills: Persuade Required Equipment: Goods for Sale
 
-Anytime a new retailer or businessman comes into someone else’s commercial territory, people like this commercial executive get hot under their collars. They try to make an annoyance of themselves to dissuade the new outlet from doing any sales but it normally only succeeds in making their prices drop.
+Anytime a new retailer or businessman comes into someone else's commercial territory, people like this commercial executive get hot under their collars. They try to make an annoyance of themselves to dissuade the new outlet from doing any sales but it normally only succeeds in making their prices drop.
 
 | The commercial nuisance is ... |                                                                                                                   |
 | ------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                          | ...telling lies about the characters to dissuade potential customers.                                             |
-| 3 – 4                          | ...actively advertising that he can beat the characters’ prices at his location.                                  |
-| 5 – 6                          | ...making a scene in front of the character’s sales location or office, making it uncomfortable to shop with him. |
+| 3 – 4                          | ...actively advertising that he can beat the characters' prices at his location.                                  |
+| 5 – 6                          | ...making a scene in front of the character's sales location or office, making it uncomfortable to shop with him. |
 
 #### Allied Profiteer
 
@@ -9075,7 +9075,7 @@ This likeminded warmonger mercenary has no qualms about coordinating business st
 | --------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                       | ...willing to adjust his prices to stay in league with those of the characters.                                 |
 | 3 – 4                       | ...thinking that a joint venture as far as offices and selling space could make a convincing show of stability. |
-| 5 – 6                       | ...a little down on his luck lately and is very glad to have the characters’ help in the next few weeks.        |
+| 5 – 6                       | ...a little down on his luck lately and is very glad to have the characters' help in the next few weeks.        |
 
 #### Rival Gunman
 
@@ -9098,7 +9098,7 @@ Warmongers need the public to do their business; they cannot hope to live on war
 | The relations manager is ... |                                                                                                                               |
 | ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                        | ...setting up a press conference for the characters to talk about their deals, legal adherence and prices to the local media. |
-| 3 – 4                        | ...using the characters’ names all over the sector in order to make them seem bigger and more influential.                    |
+| 3 – 4                        | ...using the characters' names all over the sector in order to make them seem bigger and more influential.                    |
 | 5 – 6                        | ...in charge of making the characters look good before they can take their next high-profile ticket.                          |
 
 #### Dishonest Dealer
@@ -9123,9 +9123,9 @@ This ranking executive and tradesman of a gunsmithing foundry is a good supplier
 | The industrial gunsmith is ... |                                                                                                                                                                          |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1 – 2                          | ...offering a 25% discount on orders of a single item in quantities of 100 or more.                                                                                      |
-| 3 – 4                          | ...the primary supplier of the characters’ firearm wares, so he gives them first pick of a new run and a 10% discount when they need to order straight from the factory. |
+| 3 – 4                          | ...the primary supplier of the characters' firearm wares, so he gives them first pick of a new run and a 10% discount when they need to order straight from the factory. |
 | 5                              | ...doing a short run of an experimental energy/projectile firearm that he is sure will be just short of spectacular.                                                     |
-| 6                              | ...willing to make a unique pistol for one of the characters, so long as they make sure to give him credit for it once they’re rich and famous.                          |
+| 6                              | ...willing to make a unique pistol for one of the characters, so long as they make sure to give him credit for it once they're rich and famous.                          |
 
 #### Corrupt Broker
 
@@ -9148,7 +9148,7 @@ Either through a need for work or just a general love of outer space, this stars
 | The route mapper is ... |                                                                                                                             |
 | ----------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                   | ...just finishing a run through a veritable interplanetary war zone, which could be very profitable for the characters.     |
-| 3 – 4                   | ...friends with the characters’ unit and would like to tell them the best ways to get through the neighboring systems.      |
+| 3 – 4                   | ...friends with the characters' unit and would like to tell them the best ways to get through the neighboring systems.      |
 | 5 – 6                   | ...aware of a dangerous place in the local space lanes full of raiders and pirates; he will warn the characters about them. |
 
 #### Competing Warrior-for-Hire
@@ -9167,12 +9167,12 @@ This ranking soldier-of-fortune has recently moved into the same territory as th
 
 Required Skills: None Required Equipment: Ship
 
-Smugglers and heavily armed mercenaries need the tricks of this man’s trade to do their jobs without the hassle of customs searches and troublesome supply scans.
+Smugglers and heavily armed mercenaries need the tricks of this man's trade to do their jobs without the hassle of customs searches and troublesome supply scans.
 
 | The starship modifier is ... |                                                                                                         |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------- |
 | 1 – 2                        | ...a supporter of rogues and other criminals that will alter things in illegal ways rather cheaply.     |
-| 3 – 4                        | ...aware of some new modifications to a vessel that will make it ‘unsearchable’.                        |
+| 3 – 4                        | ...aware of some new modifications to a vessel that will make it 'unsearchable'.                        |
 | 5 – 6                        | ...willing to trade safe and free passage to the characters for a few minor adjustments to their craft. |
 
 #### Inquisitive Taxation Officer
@@ -9204,11 +9204,11 @@ This fast-throttled pilot is a well-known smuggler and has no rules regarding wh
 
 Required Skills: Trade Required Equipment: Arms for Sale
 
-Gun runners rarely make friends amongst the honest industrialists and ‘suitcase salesman’ who have licenses and do not have to rely on commercial tickets; like this local trader who feels threatened by the character’s business.
+Gun runners rarely make friends amongst the honest industrialists and 'suitcase salesman' who have licenses and do not have to rely on commercial tickets; like this local trader who feels threatened by the character's business.
 
 | The legitimate arms trader is ... |                                                                                              |
 | --------------------------------- | -------------------------------------------------------------------------------------------- |
-| 1 – 2                             | ...willing to sit down and negotiate the characters’ commercial withdrawal but nothing else. |
+| 1 – 2                             | ...willing to sit down and negotiate the characters' commercial withdrawal but nothing else. |
 | 3 – 4                             | ...going to hire thugs and locals to try to push the characters out of the area.             |
 | 5 – 6                             | ...also quite skilled with the weapons that he sells.                                        |
 
@@ -9244,7 +9244,7 @@ Always talking about the work that the characters do and how good it is for the 
 
 | The free advertiser is ... |                                                                                                                 |
 | -------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                      | ...a good customer that frequently uses the characters’ equipment openly to show its quality.                   |
+| 1 – 2                      | ...a good customer that frequently uses the characters' equipment openly to show its quality.                   |
 | 3 – 4                      | ...friends with some wealthy individuals who might be able to do some large-scale business with the characters. |
 | 5 – 6                      | ...linked somehow to the media.                                                                                 |
 
@@ -9264,19 +9264,19 @@ An arms dealer who is no longer working in the market, likely due to an unexpect
 
 Required Skills: Broker, Persuade Required Equipment: None
 
-This wealthy or well-connected individual is most warmongers’ dream – a person who does not want their services but wants to help pay for them to stay in business.
+This wealthy or well-connected individual is most warmongers' dream – a person who does not want their services but wants to help pay for them to stay in business.
 
 | The fiscal backer is ... |                                                                                                                               |
 | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                    | ...nothing more than the wallet of a powerful individual who wants to stay anonymous.                                         |
 | 3 – 4                    | ...a representative of a company that wants the characters to use their equipment; they want to sponsor them.                 |
-| 5 – 6                    | ...prepared to make a sizeable donation to the characters, so long as they ignore a certain government’s request for tickets. |
+| 5 – 6                    | ...prepared to make a sizeable donation to the characters, so long as they ignore a certain government's request for tickets. |
 
 #### Big Time Contact
 
 Required Skills: Carouse Required Equipment: None
 
-There are warmongers that enter the ‘big time’ only deals with high-credit accounts and clients and this person is the key to meeting and rubbing elbows with several of these types.
+There are warmongers that enter the 'big time' only deals with high-credit accounts and clients and this person is the key to meeting and rubbing elbows with several of these types.
 
 | The big time contact is ... |                                                                                                                |
 | --------------------------- | -------------------------------------------------------------------------------------------------------------- |
@@ -9289,19 +9289,19 @@ There are warmongers that enter the ‘big time’ only deals with high-credit a
 
 Required Skills: Any Combat Required Equipment: None
 
-Marching to a government’s drum for the cash of a private contract, this freelance soldier-of-fortune will do everything he can to make the most out of his time on the battlefield. He is doing for the money but his reputation is also at stake.
+Marching to a government's drum for the cash of a private contract, this freelance soldier-of-fortune will do everything he can to make the most out of his time on the battlefield. He is doing for the money but his reputation is also at stake.
 
 | The contract soldier is ... |                                                                                      |
 | --------------------------- | ------------------------------------------------------------------------------------ |
 | 1 – 2                       | ...a former ally of the characters; however his ticket says that he must fight them. |
 | 3 – 4                       | ...an amazing soldier that does not seem to have an obvious weakness.                |
-| 5 – 6                       | ...not hired to fight his client’s war but to specifically deal with the characters. |
+| 5 – 6                       | ...not hired to fight his client's war but to specifically deal with the characters. |
 
 #### Allied Corsair
 
 Required Skills: None Required Equipment: None
 
-The owner of a fast-moving ship, the corsair is always ready to help out his ‘favorite mercenary types’. He has a good ship, loose morals and big guns – everything a warmonger wants in space.
+The owner of a fast-moving ship, the corsair is always ready to help out his 'favorite mercenary types'. He has a good ship, loose morals and big guns – everything a warmonger wants in space.
 
 | The allied corsair is ... |                                                                                                                                          |
 | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -9349,13 +9349,13 @@ This is a supplier of fine vehicles and vehicle accessories that can be used as 
 
 Required Skills: Investigate Required Equipment: Goods for Sale
 
-The characters’ material possessions and stocks for sale are not safe when this crafty rogue is around. He has a plan to take a great deal from them but only if it works.
+The characters' material possessions and stocks for sale are not safe when this crafty rogue is around. He has a plan to take a great deal from them but only if it works.
 
 | The scheming thief is ... |                                                                                                                                      |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | 1 – 2                     | ...going to try and become friends with the characters before robbing them blind.                                                    |
-| 3 – 4                     | ...little more than a skilled sleight-of-hand artiste and he wants to get his hands on something small belonging to the characters’. |
-| 5 – 6                     | ...part of a larger guild of rogues looking to steal the characters’ business.                                                       |
+| 3 – 4                     | ...little more than a skilled sleight-of-hand artiste and he wants to get his hands on something small belonging to the characters'. |
+| 5 – 6                     | ...part of a larger guild of rogues looking to steal the characters' business.                                                       |
 
 #### Inventor
 
@@ -9422,7 +9422,7 @@ Either because of bad paperwork or loose ethics, this agency requisition clerk i
 
 Required Skills: Any Combat Required Equipment: Ship, Goods for Sale
 
-Looking to take the characters’ goods by force, this starship brigand of the space lanes is not taking ‘no’ for an answer. He is mean, intimidating and most of all – good at his job.
+Looking to take the characters' goods by force, this starship brigand of the space lanes is not taking 'no' for an answer. He is mean, intimidating and most of all – good at his job.
 
 | The space raider is ...           |                                                                            |
 | --------------------------------- | -------------------------------------------------------------------------- |
@@ -9447,13 +9447,13 @@ This experienced warmonger has created a decent network of other smugglers, gun 
 
 Required Skills: Stealth, Streetwise Required Equipment: None
 
-The local criminally organized black market is tired of having their profits cut into by the characters’ business, legal tickets or not. The boss of the market has taken special interest in rectifying the situation.
+The local criminally organized black market is tired of having their profits cut into by the characters' business, legal tickets or not. The boss of the market has taken special interest in rectifying the situation.
 
 | The black market boss is ... |                                                                                                                |
 | ---------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                        | ...going to make the characters an offer to leave the area that is one-sided and not at all pleasant for them. |
 | 3 – 4                        | ...reducing his prices to try and edge out the characters.                                                     |
-| 5 – 6                        | ...sending fake clients to the characters to ‘buy’ their goods and then skip out on the payment.               |
+| 5 – 6                        | ...sending fake clients to the characters to 'buy' their goods and then skip out on the payment.               |
 
 #### Allied Warlord
 
@@ -9490,7 +9490,7 @@ It is rare that a warmonger gets to make all of the money with none of the probl
 | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1 – 2                         | ...willing to pay 10 times the market price for a normal item for mysterious reasons.                                                                                    |
 | 3 – 4                         | ...looking to avoid setting up a full ticket for the sale; he just wants to pay for the item and keep away from the paperwork - saving the characters thousands in fees. |
-| 5 – 6                         | ...going to make an offer for all of the characters’ current stock - at a meagre 10% discount, of course.                                                                |
+| 5 – 6                         | ...going to make an offer for all of the characters' current stock - at a meagre 10% discount, of course.                                                                |
 
 #### Vengeful Client
 
@@ -9502,7 +9502,7 @@ Something went badly in a former ticket and this client took it very personally.
 | The vengeful client is ... |                                                                                                                |
 | -------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                      | ...not looking to harm the characters physically, just financially.                                            |
-| 3 – 4                      | ...angry enough to try to cause a great deal of damage to the characters’ business – perhaps permanent damage. |
+| 3 – 4                      | ...angry enough to try to cause a great deal of damage to the characters' business – perhaps permanent damage. |
 | 5 – 6                      | ...ready to end the lives of anyone involved even partially with the ticket.                                   |
 
 #### Prime Warmonger Agent
@@ -9570,13 +9570,13 @@ Using a connection to a powerful faith that many galactic populations would rais
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | 1 – 2                   | ...an adept doctor that can mend wounds normally but there is something special that goes into the procedures.           |
 | 3 – 4                   | ...capable of channeling positive energy through his faith as a result of some beneficial mutation.                      |
-| 5 – 6                   | ...actually a special mutation of psionist that can mend flesh through the application of mental ‘cellular telekinesis’. |
+| 5 – 6                   | ...actually a special mutation of psionist that can mend flesh through the application of mental 'cellular telekinesis'. |
 
 #### Madman
 
 Required Skills: None Required Equipment: None
 
-Something shattered this poor man’s sanity a long time ago and now he changes from a laughing frenzy of activity to periods of gibbering sadness.
+Something shattered this poor man's sanity a long time ago and now he changes from a laughing frenzy of activity to periods of gibbering sadness.
 
 | The madman is ... |                                                                                                         |
 | ----------------- | ------------------------------------------------------------------------------------------------------- |
@@ -9594,7 +9594,7 @@ This upstanding member of a royal military unit has been given the title of knig
 | ----------------- | -------------------------------------------------------------------------------------------------- |
 | 1 – 2             | ...a traditional sort of armor-and-sword type of knight from a lower-tech society.                 |
 | 3 – 4             | ...looking for someone that has run from his justice and fled to the local area.                   |
-| 5 – 6             | ...a high-tech style of knight whose armor is powered and his ‘sword’ is a tuned-up energy pistol. |
+| 5 – 6             | ...a high-tech style of knight whose armor is powered and his 'sword' is a tuned-up energy pistol. |
 
 #### Collector
 
@@ -9605,14 +9605,14 @@ Obsessed personally or culturally with the acquiring of interesting or unique it
 | The collector is ... |                                                                                                                                                                                        |
 | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                | ...seeking something specific from one of the characters and will gladly kill them to get it.                                                                                          |
-| 3 – 4                | ...in possession of hundreds of species that were thought to be extinct and items that are one-of-a-kind. These items are all on the collector’s ship and could fetch a priceless sum. |
+| 3 – 4                | ...in possession of hundreds of species that were thought to be extinct and items that are one-of-a-kind. These items are all on the collector's ship and could fetch a priceless sum. |
 | 5 – 6                | ...interested in taking possession of one of the characters.                                                                                                                           |
 
 #### Heroic Captain
 
 Required Skills: None Required Equipment: None
 
-Always ready to stand in the way of danger and villainy in the name of justice and the greater galactic people, this handsome and brave ship captain is the very definition of the word ‘hero’.
+Always ready to stand in the way of danger and villainy in the name of justice and the greater galactic people, this handsome and brave ship captain is the very definition of the word 'hero'.
 
 | The heroic captain is ... |                                                                                                                                                            |
 | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -9640,7 +9640,7 @@ Whether or not the characters believe in a higher power, this individual does �
 
 | The divine messenger is ... |                                                                                                                       |
 | --------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                       | ...not sure who needs to hear the message that he carries but knows that the person’s life is at risk if they do not. |
+| 1 – 2                       | ...not sure who needs to hear the message that he carries but knows that the person's life is at risk if they do not. |
 | 3 – 4                       | ...seeking someone that the characters know to give them a message from his god.                                      |
 | 5 – 6                       | ...carrying an important view to the future for one of the characters.                                                |
 
@@ -9660,7 +9660,7 @@ This scoundrel has bent his life toward corruption and manipulation; trying to f
 
 Required Skills: Persuade Required Equipment: Residence
 
-Stopping by at the characters’ home without invitation or warning, this old ally or acquaintance is expecting to stay with them for a while.
+Stopping by at the characters' home without invitation or warning, this old ally or acquaintance is expecting to stay with them for a while.
 
 | The unexpected guest is ... |                                                                                                        |
 | --------------------------- | ------------------------------------------------------------------------------------------------------ |
@@ -9678,7 +9678,7 @@ This wayward youth has separated from anything he recognizes and has gotten hims
 | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                      | ...a runaway that simply does not want to be found.                                                                               |
 | 3 – 4                      | ...old enough to handle a weapon, adding to his survival chances but making him more likely to accidentally shoot the characters. |
-| 5 – 6                      | ...thankful to be found but demands to be taken home ‘immediately’.                                                               |
+| 5 – 6                      | ...thankful to be found but demands to be taken home 'immediately'.                                                               |
 
 #### Great Seeker
 
@@ -9756,7 +9756,7 @@ This poor creature has been afflicted with an inability to breathe the air or mi
 
 Required Skills: None Required Equipment: None
 
-Fueled by action, adventure, excitement and danger, this fun-loving thrill-seeker goes out of his way to feel the rush. The word ‘no’ does not appear in his vocabulary and fear is only another emotion to be enjoyed.
+Fueled by action, adventure, excitement and danger, this fun-loving thrill-seeker goes out of his way to feel the rush. The word 'no' does not appear in his vocabulary and fear is only another emotion to be enjoyed.
 
 | The adrenaline junkie is ... |                                                                                                                         |
 | ---------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
@@ -9768,7 +9768,7 @@ Fueled by action, adventure, excitement and danger, this fun-loving thrill-seeke
 
 Required Skills: Survival, Any Combat Required Equipment: None
 
-This genetic look-back-in-time is primitive, dangerous and easily confused. The lights and sounds of today’s technologies distract and anger him and his solution for most dilemmas is to strike it. If that does not work – strike it harder.
+This genetic look-back-in-time is primitive, dangerous and easily confused. The lights and sounds of today's technologies distract and anger him and his solution for most dilemmas is to strike it. If that does not work – strike it harder.
 
 | The throwback is ... |                                                                                                                                                     |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -9780,7 +9780,7 @@ This genetic look-back-in-time is primitive, dangerous and easily confused. The 
 
 Required Skills: None Required Equipment: None
 
-Something wonderful happened in this being’s family genetic structure over the last few generations, slowly creating a divergent trait that showed promise. It has finally peaked in this generation and it shows in the current bloodline.
+Something wonderful happened in this being's family genetic structure over the last few generations, slowly creating a divergent trait that showed promise. It has finally peaked in this generation and it shows in the current bloodline.
 
 | The advanced evolution is ... |                                                                                                                                          |
 | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -9808,7 +9808,7 @@ Required Skills: Stealth, Investigate or Any Combat Required Equipment: Store/Sh
 
 Required Skills: Stealth or Deception Required Equipment: None
 
-This twisted mind was once a servant of the high sciences, creating wondrous things and solving his people’s problems. Something happened to him however and now he devotes his time to unbelievable pursuits and fanciful hypotheses.
+This twisted mind was once a servant of the high sciences, creating wondrous things and solving his people's problems. Something happened to him however and now he devotes his time to unbelievable pursuits and fanciful hypotheses.
 
 | The mad scientist is ... |                                                                                                                                  |
 | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -9825,7 +9825,7 @@ Whether through prestidigitation, chicanery or simple slight-of-hand, this skill
 | The magician is ... |                                                                                                                                                 |
 | ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2               | ...always looking for assistants to help him with his shows.                                                                                    |
-| 3 – 4               | ...not a performer in the strictest sense; he uses his magician’s skills to make an underhanded living from those he believes deserve the loss. |
+| 3 – 4               | ...not a performer in the strictest sense; he uses his magician's skills to make an underhanded living from those he believes deserve the loss. |
 | 5 – 6               | ...a real magician; he knows how to wield true magic like the wizards and warlocks of mythology.                                                |
 
 #### Extreme Sadomasochist
@@ -9837,7 +9837,7 @@ Pierced, tattooed, scarred and almost otherworldly from the amount of body modif
 | The extreme sadomasochist is ... |                                                                                                                           |
 | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                            | ...so addicted to being hurt that he frequently starts fights with armed men in the hopes of being stabbed or bludgeoned. |
-| 3 – 4                            | ...actively trying to recruit the characters to come and join his ‘cult of pain’.                                         |
+| 3 – 4                            | ...actively trying to recruit the characters to come and join his 'cult of pain'.                                         |
 | 5 – 6                            | ...not above kidnapping innocent people to subject to his tortures and extremes.                                          |
 
 Deep within the mind of this cold-hearted being lays a hunger or need for murder. He is focused upon a particular type or pattern in his kills and his work is recognized and feared all over the planet.
@@ -9846,7 +9846,7 @@ Deep within the mind of this cold-hearted being lays a hunger or need for murder
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                    | ...making a new pattern of kills in the local area after a long period of hiatus; he had to cool down for a while because the authorities were getting close. |
 | 3 – 4                    | ...someone that no one would ever think is a deadly killer, especially not the characters.                                                                    |
-| 5 – 6                    | ...careless in the clues that he leaves behind because the ‘work’ is all that matters to him anymore.                                                         |
+| 5 – 6                    | ...careless in the clues that he leaves behind because the 'work' is all that matters to him anymore.                                                         |
 
 #### Obsessed Hunter
 
@@ -9877,12 +9877,12 @@ Whether it is on leashes, in cages or roaming around in corrals, this dedicated 
 
 Required Skills: Persuade, Survival Required Equipment: None
 
-This interesting nature-lover has turned to listening to the spirits of the animals themselves for guidance and prophecy. He believes that all animals bear a powerful spirit that he can share ‘energy’ with in order to live better in tune with the world around him.
+This interesting nature-lover has turned to listening to the spirits of the animals themselves for guidance and prophecy. He believes that all animals bear a powerful spirit that he can share 'energy' with in order to live better in tune with the world around him.
 
 | The animist is ... |                                                                                                                                                               |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2              | ...living in the midst of several predatory or vicious animals towards which he shows no fear at all; he is living as one of them and they are accepting him. |
-| 3 – 4              | ...looking to ask the characters for help in dealing with a group of hunters and poachers that are hurting his ‘friends’.                                     |
+| 3 – 4              | ...looking to ask the characters for help in dealing with a group of hunters and poachers that are hurting his 'friends'.                                     |
 | 5 – 6              | ...a strange form of psionist that has empathy and telepathy with the animal kingdom.                                                                         |
 
 #### Raving Oracle
@@ -9895,7 +9895,7 @@ Shouting, mumbling and frothing about some event that has yet to pass – yet wi
 | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                    | ...talking about the destruction of the entire planet; causing major panic amongst the common people of the community.                                                                                                                                            |
 | 3 – 4                    | ...pointing at the characters as the bringers of death and pain. The locals that believe in the oracle are already beginning to look angry in response.                                                                                                           |
-| 5 – 6                    | ...proclaiming that the characters are ‘just the first’ and that ‘they will follow their tracks through the stars’. This enigmatic prophecy is being pored over by the locals to figure out if the characters are an evil sign or the heralds of something great. |
+| 5 – 6                    | ...proclaiming that the characters are 'just the first' and that 'they will follow their tracks through the stars'. This enigmatic prophecy is being pored over by the locals to figure out if the characters are an evil sign or the heralds of something great. |
 
 #### Mystic
 
@@ -9905,8 +9905,8 @@ Only being discovered in the wilderness if actively sought after, this strange o
 
 | The mystic is ... |                                                                                                                                                                                      |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1 – 2             | ...a very powerful clairvoyant that can indeed see the answers to the characters’ questions if they ask nicely and without malice.                                                   |
-| 3 – 4             | ...a charlatan and a fake as far as his powers are concerned but he has several interstellar communication links that he uses to ‘know’ about the galaxy in such a low-tech setting. |
+| 1 – 2             | ...a very powerful clairvoyant that can indeed see the answers to the characters' questions if they ask nicely and without malice.                                                   |
+| 3 – 4             | ...a charlatan and a fake as far as his powers are concerned but he has several interstellar communication links that he uses to 'know' about the galaxy in such a low-tech setting. |
 | 5 – 6             | ...a disguised member of a truly ancient alien race with godlike powers on a cellular level.                                                                                         |
 
 #### Dying Courier
@@ -9937,12 +9937,12 @@ Using super-advanced time travel capabilities that occur an age later than this 
 
 Required Skills: Persuade Required Equipment: None
 
-Charged with trying to collect wayward time travellers and erase unwanted ‘temporal fluxes’, this future agent of a time-travelling governmental authority has weapons and equipment that is even more advanced than that of the Imperium of Man.
+Charged with trying to collect wayward time travellers and erase unwanted 'temporal fluxes', this future agent of a time-travelling governmental authority has weapons and equipment that is even more advanced than that of the Imperium of Man.
 
 | The time-agent is ... |                                                                                                                                                                                      |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1 – 2                 | ...looking for help rounding up a missing time traveller. He will not tell the characters why he has to arrest him, just that he must be stopped before he causes ‘too much damage’. |
-| 3 – 4                 | ...not sure how his time-travel equipment got damaged but it is. He needs the characters’ help in getting him the obscure parts that he needs to fix it.                             |
+| 1 – 2                 | ...looking for help rounding up a missing time traveller. He will not tell the characters why he has to arrest him, just that he must be stopped before he causes 'too much damage'. |
+| 3 – 4                 | ...not sure how his time-travel equipment got damaged but it is. He needs the characters' help in getting him the obscure parts that he needs to fix it.                             |
 | 5 – 6                 | ...searching for a temporal murderer that enjoys going back in time to kill prominent figures and change history.                                                                    |
 
 #### Challenger
@@ -9973,12 +9973,12 @@ This normal-looking individual has been exposed to a colony of invasive parasite
 
 Required Skills: Any Combat Required Equipment: Any Weapons
 
-Something dangerous has gotten loose from this stoic hunter’s planet and he has been sent to make sure that it does not spread any further. He is the hunter, they are the hunted but he knows that he will need help to ensure galactic purity.
+Something dangerous has gotten loose from this stoic hunter's planet and he has been sent to make sure that it does not spread any further. He is the hunter, they are the hunted but he knows that he will need help to ensure galactic purity.
 
 | The galactic purifier is ... |                                                                                                                                                               |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                        | ...hunting a race of rapidly reproducing creatures that his people have kept quarantined for generations due to their destructive instincts.                  |
-| 3 – 4                        | ...in need of the characters’ help to get him familiarized with the local terrain and culture if he wants to find and kill the escapees.                      |
+| 3 – 4                        | ...in need of the characters' help to get him familiarized with the local terrain and culture if he wants to find and kill the escapees.                      |
 | 5 – 6                        | ...a medical warrior that is actually hunting down an escaped infection – which is why he needs the characters to serve as his guides amongst the population. |
 
 #### Psion Hunter
@@ -10013,7 +10013,7 @@ This being claims to be hellish and daemonic in origin; a true devil or hell spa
 
 | The infernal presence is ... |                                                                                                                                                                  |
 | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 – 2                        | ...a truly energic being made of radiation, heat and telekinetic force – there is no reason why someone could not think that has the makeup of a ‘daemon’.       |
+| 1 – 2                        | ...a truly energic being made of radiation, heat and telekinetic force – there is no reason why someone could not think that has the makeup of a 'daemon'.       |
 | 3 – 4                        | ...a destructive force to be reckoned with that cares nothing for any form of life other than its own. It must be stopped before it scours the area of all life. |
 | 5 – 6                        | ...looking to make deals and contracts with the characters. These deals will grant power and ability but will come with a terrible price later in their lives... |
 
@@ -10021,10 +10021,10 @@ This being claims to be hellish and daemonic in origin; a true devil or hell spa
 
 Required Skills: None Required Equipment: None
 
-Claiming to be the physical manifestation of a holy force or higher power, this ‘angel’ is a powerful being rooted in the desire to avenge injustice and smite evil. If it is not actually a servant of a god, it makes sense that it could be.
+Claiming to be the physical manifestation of a holy force or higher power, this 'angel' is a powerful being rooted in the desire to avenge injustice and smite evil. If it is not actually a servant of a god, it makes sense that it could be.
 
 | The holy avatar is ... |                                                                                                                                                                                                                                                          |
 | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 – 2                  | ...an entity that radiates confidence and warmth. It knows the characters by name even before they introduce themselves and it knows some of their greatest achievements. It wants their help in vanquishing a villain, if only to prove their goodness. |
-| 3 – 4                  | ...an avenging ‘angel’ that is frightening to behold; it is bloodthirsty and ferocious – all evil cannot hope to stand before it.                                                                                                                        |
-| 5 – 6                  | ...on the mortal plane to seek a single worthy soul in a sea of sin and depravity. Perhaps the characters can help him find one and earn whatever reward he claims is waiting for those who aid his ‘lord’.                                              |
+| 3 – 4                  | ...an avenging 'angel' that is frightening to behold; it is bloodthirsty and ferocious – all evil cannot hope to stand before it.                                                                                                                        |
+| 5 – 6                  | ...on the mortal plane to seek a single worthy soul in a sea of sin and depravity. Perhaps the characters can help him find one and earn whatever reward he claims is waiting for those who aid his 'lord'.                                              |

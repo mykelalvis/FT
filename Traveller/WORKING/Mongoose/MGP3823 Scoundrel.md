@@ -81,7 +81,7 @@ By far the largest set of laws are mala prohibita , acts which are
 not inherently wrong but are nonetheless unlawful. Operating
 a starship is not a wrongful act but operating one without the
 training and licensing required by law is illegal. In Traveller
-terms the higher the planet’s law level, the greater the number
+terms the higher the planet's law level, the greater the number
 of mala prohibita.
 
 Even criminals recognize mala in se ; this book is about thieves,
@@ -152,7 +152,7 @@ members must agree to uphold. These laws are sacred not
 because of any inherent validity but because adherence to
 those laws has kept the Imperium together for more than 1,
 years. Meddling with the High Laws is almost unthinkable, lest
-any change causes a chain of events that tears humaniti’s
+any change causes a chain of events that tears humaniti's
 fragile peace to shreds.
 
 Next, there are laws called _mala in se_ – laws punishing acts
@@ -187,10 +187,10 @@ considerably more detail on asteroid mining, while the Agent sourcebook will be 
 
 Inspirational reading:
 
-- Brian Aldiss’ _Non–Stop_ is a classic depiction of barbarians in space.
-- Many ‘cyberpunk’ novels include heists. _Neuromancer_ , for example, has the Straylight Run as its climax, which can be
+- Brian Aldiss' _Non–Stop_ is a classic depiction of barbarians in space.
+- Many 'cyberpunk' novels include heists. _Neuromancer_ , for example, has the Straylight Run as its climax, which can be
     lifted almost word–for–word for _Traveller._
-- Harry Harrison’s _Stainless Steel Rat_ series, especially the early books.
+- Harry Harrison's _Stainless Steel Rat_ series, especially the early books.
 
 Inspirational viewing:
 
@@ -199,7 +199,7 @@ Inspirational viewing:
 - Han Solo was a smuggler and rogue before he changed career.
 
 Barbarians
-There are a few ‘lost worlds’ in the Imperium. These worlds
+There are a few 'lost worlds' in the Imperium. These worlds
 suffered a catastrophic loss of technical knowledge, dropping
 them back to a very low Technology Level. Other worlds were
 seeded by the ancients and have never developed advanced
@@ -254,7 +254,7 @@ Rank Title Skill or Benefi t
 BENEFITS
 Roll Cash Other Benefi t
 1 None Contact or 1 Ship Share
-2 5,000 Thieves’ Tools
+2 5,000 Thieves' Tools
 3 10,000 Ally or 2 Ship Shares
 4 25,000 +1 Edu
 5 50,000 3 Ship Shares
@@ -359,7 +359,7 @@ enough and you no longer suffer the penalty to survival rolls. You gain the youn
 gaining an extra Benefi t roll and an Enemy.
 If you accept, roll 1d6.
 1 It all goes wrong and she ends up dead. Gain the noble as an Enemy.
-2 The noble’s private security fi rm hunts you down. Roll Gun Combat 8+ or Stealth 8+. If you fail, roll
+2 The noble's private security fi rm hunts you down. Roll Gun Combat 8+ or Stealth 8+. If you fail, roll
 on the Injury table.
 3–4 It is a diffi cult heist. Roll Security 8+. If you succeed, roll on this table again. If you fail the roll, the
 heist ends in failure.
@@ -519,7 +519,7 @@ or Melee 8+; if you fail, you suffer a –4 DM to your next Advancement roll.
 4 Nothing unusual happens but you are left with the lingering feeling that something strange was
 going on.
 5 The young man was actually the son of a deposed noble and the old man was his bodyguard.
-When the son reclaims his father’s domain, you are not forgotten. Gain +1 Social Standing or an
+When the son reclaims his father's domain, you are not forgotten. Gain +1 Social Standing or an
 additional Benefi t roll.
 6 Both of them are powerful psions. You may test your Psionic Strength and may automatically
 qualify for a psion career next term if you wish.
@@ -528,7 +528,7 @@ qualify for a psion career next term if you wish.
 work your way. In any term after this one, you may choose to work with him. If you do so, you suffer a
 –2DM to your Survival roll in that term but if you survive, you may roll twice on the events table and pick
 either result as your event for that term.
-24 You frequent an infamous smuggler’s bar. Gain one of Carouse 1, Gambler 1, Melee (brawling) 1 or a
+24 You frequent an infamous smuggler's bar. Gain one of Carouse 1, Gambler 1, Melee (brawling) 1 or a
 Contact.
 25 A customs inspector demands a bribe. Either lose one Benefi t roll or gain an Enemy.
 26 An extremist group hires you to supply them with weapons. If you accept, roll Pilot 8+ or Streetwise 8+. If
@@ -587,7 +587,7 @@ Stealth 1, Explosives 1 or an Ally.
 turning him into an Enemy but gaining a +2 DM to advancement checks this term.
 55 The number of Imperial patrols increases in one subsector, forcing other smugglers to fl ee. If you keep
 operating there, you suffer a –2DM to your Survival rolls but a +2DM to all Advancement rolls this term.
-56 An outlying community establishes a smuggler’s haven with your help. Gain Survival 1, Mechanic 1,
+56 An outlying community establishes a smuggler's haven with your help. Gain Survival 1, Mechanic 1,
 Persuade 1 or a Contact.
 61 A drug cartel wishes you to transport their dangerous product. Gain a +2DM to your next Advancement
 roll.
@@ -618,7 +618,7 @@ discussed from page 34.
 
 **Assignments:** Choose one of the following:
 
-- **Assassin:** You dealt with the syndicate’s enemies and
+- **Assassin:** You dealt with the syndicate's enemies and
     informants.
 - **Enforcer:** You were a street–level foot soldier and thug.
 - **Co–ordinator:** You handled the money and the business
@@ -682,7 +682,7 @@ Co–ordinator Int 8+ Edu 6+
 bloodshed, then roll Gun Combat 8+. If you fail, roll on the Injury table.
 5 A former member of the organization identifi es you to the authorities. You are forced to fl ee
 offworld. Gain an Enemy.
-6 You disappoint one of the organization’s bosses and are forced out. Gain the boss as a
+6 You disappoint one of the organization's bosses and are forced out. Gain the boss as a
 Rival.
 7 Arrested. Roll on the Incarceration table.
 8 Betrayed by a friend. Lose an Ally or Contact.
@@ -702,7 +702,7 @@ d66 Event
 12 There are benefi ts to being a member of the organization. Gain an additional Benefi t roll.
 13 Life Event. Roll on the Life Events table (see page 34 of the Traveller Core Rulebook ).
 14 You are asked to deal with a troublesome civilian, who begs you for mercy. If you enforce the
-organization’s wishes, you eliminate the problem gain a +1DM to your next Advancement roll.
+organization's wishes, you eliminate the problem gain a +1DM to your next Advancement roll.
 Alternatively, you may spare his life. If you do so, roll Deception 6+. Succeed and nothing happens.
 Fail and you suffer a –4DM to your next advancement roll.
 15 The organization gives you advanced training. Gain a level in any one skill.
@@ -727,7 +727,7 @@ Enemy. If you blame an Enemy, remove any one Rival or Enemy. If you try to hunt 
 down, roll Investigate 8+. If you fail, you gain nothing. If you succeed, you gain a +2DM to your next
 advancement roll.
 26 The organization needs skilled agents. Gain Comms 1, Computers 1, Sensors 1 or Security 1.
-31 An assassin attempts to kill one of the organization’s leaders. You may take the hit instead; if you do
+31 An assassin attempts to kill one of the organization's leaders. You may take the hit instead; if you do
 so, roll twice on the Injury table and take the lower result but gain a +4DM to your next Advancement
 roll.
 32 There is a street war with a rival organization. Gain Recon 1, Stealth 1, Gun Combat 1 or Tactics
@@ -735,7 +735,7 @@ roll.
 33 Life Event. Roll on the Life Events table (see page 34 of the Traveller Core Rulebook ).
 34 The organization attempts to take control of local government. Gain Diplomat 1, Steward 1 or Admin 1.
 You have a +4 DM to any attempts to qualify for the Noble career next term, thanks to their support.
-35 One of the organization’s criminal endeavors is under threat from smuggler competition. You may
+35 One of the organization's criminal endeavors is under threat from smuggler competition. You may
 attempt to deal with the matter brutally or peacefully. If you choose the former, gain Melee (any)
 or Gun Combat (any) and an Enemy. If you choose the peaceful approach, roll Persuade 8+. Fail
 and you suffer a –2DM to your next Advancement roll; succeed and you gain a +2 DM to your next
@@ -756,7 +756,7 @@ your next Advancement roll.
 2 Your friend fails and embarrasses both of you. You suffer a –2DM to your next Advancement
 roll.
 3 Your friend is killed in the line of duty. Lose the Ally or Contact.
-4 Your friend’s support gives you a +1DM to your next Advancement roll.
+4 Your friend's support gives you a +1DM to your next Advancement roll.
 5 Your friend proves to have a valuable skill. Gain any one skill.
 6 Your friend excels. Gain a +4DM to your next Advancement roll.
 45 The organization places you in charge of a franchise. Roll Admin 8+ or Leadership 8+. If you fail,
@@ -788,7 +788,7 @@ who recognize the symbols.
 5 The Contact is a technical expert. Gain Computers 1, Comms 1 or Engineering (any) 1.
 6 The Contact is secretly a senior member of the organization. Gain a +2DM to your next
 Advancement roll.
-64 The organization takes care of its own. Gain a Weapon or Thieves’ Tools.
+64 The organization takes care of its own. Gain a Weapon or Thieves' Tools.
 65 A senior member of the organization sees your potential. Gain Leadership or +4DM to your next
 Advancement roll.
 66 Your name is whispered on the streets as the next boss. You are automatically promoted.
@@ -1270,7 +1270,7 @@ on the Injury table.
 9 You fail to fi nd employment and nearly starve.
 10 You run afoul of an infl uential crime lord, corporate executive, local noble or other powerful
 individual. Gain an Enemy.
-11 You are press ganged by a planet’s fi ghting forces. You must roll on the Draft table next
+11 You are press ganged by a planet's fi ghting forces. You must roll on the Draft table next
 term.
 12 Injured. Roll on the Injury table
 
@@ -1347,7 +1347,7 @@ if you intend to rob him.
 table.
 5–6 You succeed in stealing some valuables. Gain three Benefi t rolls or a Weapon worth up to Cr.
 5,000.
-7–8 You steal a noble’s identity papers. You may automatically qualify for the Noble (dilettante)
+7–8 You steal a noble's identity papers. You may automatically qualify for the Noble (dilettante)
 career next term but suffer a –4DM to all Survival rolls made in that career.
 53 You fi nd working passage on a starship. Gain one of Mechanic 1, Steward 1, Comms 1 or Vacc Suit 1.
 54 You spend months living in a starport. Gain one of Broker 1, Mechanic 1, Stealth 1 or 1d3 Contacts.
@@ -1432,7 +1432,7 @@ Standing
 
 - **Warrior:** You fought for territory or honor in bloody combat.
 - **Tribesman:** You tended animals and tilled the land for the tribe.
-- **Shaman:** You guarded the tribe’s secret lore and spoke on behalf of the gods.
+- **Shaman:** You guarded the tribe's secret lore and spoke on behalf of the gods.
 
 CAREER PROGRESS
 Advancement Survival
@@ -1488,8 +1488,8 @@ D66 Event
 12 You are blessed by an elder shaman. You may reroll any one dice roll made during this career.
 13 Life Event. Roll on the Life Events table (see page 34 of the Traveller Core Rulebook ).
 14 You fi nd a sword made from starmetal. Gain a +1DM to all Survival rolls made in this career. The
-sword is actually made from a shard from a ship’s hull.
-15 You encounter a ‘demon’ in the wilderness. You befriend it and learn its ways. Gain an alien Contact.
+sword is actually made from a shard from a ship's hull.
+15 You encounter a 'demon' in the wilderness. You befriend it and learn its ways. Gain an alien Contact.
 16 Your tribe goes to war. If you fi ght bravely, roll Melee 8+. Succeed and you gain a +4DM to your next
 Advancement roll. Fail and you are injured. If you choose not to fi ght bravely, roll Melee 6+ or Stealth
 6+. If you fail, you are injured. If you succeed, nothing happens.
@@ -1509,7 +1509,7 @@ you fail, his bid for rulership fails and you suffer a –4DM to your next Advan
 5 Gain a TL9 radio transceiver.
 6 You fi nd a wrecked scout ship and accidentally activate a homing program. The ship jumps
 back to the nearest scout base. You may automatically qualify for the Scout career next term
-as part of the scout service’s outreach program.
+as part of the scout service's outreach program.
 26 You are challenged to a duel of honor. If you refuse, you suffer a –2DM to your next Advancement
 roll. If you accept, roll Melee 8+. Succeed and you gain a +2DM to your next Advancement roll. If you
 fail, roll on the Injury table. Either way, gain a Rival.
@@ -1593,7 +1593,7 @@ shares towards any other sort of ship.
 **Organization Membership:** You are a member of a criminal
 organization. The organization will provide support such as
 weapons, money or aid when required but will demand equal
-favours in return.
+favors in return.
 
 **Pirate Vessel:** You receive 2 ship shares towards the purchase
 of any vessel. Furthermore, you may add up to 3MCr. worth of
@@ -1604,12 +1604,12 @@ of a Salvage Hauler or 2 ship shares towards any other sort of
 ship.
 
 **Smuggler Vessel:** You receive 2 ship shares towards the
-purchase of any vessel. 5% of the vessel’s cargo space is
+purchase of any vessel. 5% of the vessel's cargo space is
 considered to be a Concealed Compartment (see page 87).
 
-**Thieves’ Tools:** Gain any one of the following:
+**Thieves' Tools:** Gain any one of the following:
 
-- A Thieves’ Tools toolkit
+- A Thieves' Tools toolkit
 - A Disguise kit
 - A Forgery kit
 - An IR Chameleon suit
@@ -1685,8 +1685,8 @@ Roll Skill or Benefi t
 
 Medical Bills
 Almost all the careers presented in this book count as Rogues
-or Drifters for the purposes of determining if one’s employer
-covers medical expenses: roll 2d6 and add the character’s
+or Drifters for the purposes of determining if one's employer
+covers medical expenses: roll 2d6 and add the character's
 rank to determine what proportion of bills are covered.
 4+: 0%
 8+: 50%
@@ -1706,7 +1706,7 @@ advanced security systems. Forgery requires the use of a
 Forgery kit.
 
 The Effect of the Forgery check determines how likely the forgery
-is to pass inspection when examined. Add the examiner’s
+is to pass inspection when examined. Add the examiner's
 Intelligence characteristic DM to the roll.
 
 Effect Casual Inspection Detailed Inspection
@@ -1766,10 +1766,10 @@ Criminal organizations usually use a cell structure, where each
 member knows only a few others. This ensures that if the cell
 is breached by law enforcement agents, the damage to the
 organization is contained. This cell structure can be an offi cial
-policy (‘ _We will tell you what you need to know; do not question
-the space mafi a!_ ’) or a loose de facto arrangement of different
-gangs and sub–factions (‘ _Yeah, our gang boss knows Lou’s
-gang and they’re really close to the big boss’_ ).
+policy (' _We will tell you what you need to know; do not question
+the space mafi a!_ ') or a loose de facto arrangement of different
+gangs and sub–factions (' _Yeah, our gang boss knows Lou's
+gang and they're really close to the big boss'_ ).
 
 Membership
 Organizations draw a distinction between those who merely
@@ -1781,13 +1781,13 @@ career event or benefi t (see page 12) or through roleplaying.
 To become a member of the organization, the character must
 swear allegiance to that organization and agree to obey its
 requirements and restrictions. In exchange, he gets whatever
-benefi ts membership offers and can draw on the organization’s
+benefi ts membership offers and can draw on the organization's
 resources.
 
 Rank
 Every organization has a ladder of ranks. New members begin
 at Rank 0. Ranks are given as a reward for success and hard
-work. The higher a character’s Rank, the more resources he
+work. The higher a character's Rank, the more resources he
 can draw on but the more the organization expects of him.
 
 Ranks are arranged in a pyramid; there may be thousands of
@@ -1799,7 +1799,7 @@ dies or retires before a place becomes available.
 an especially successful mission on behalf of the organization
 or after several months or years of diligent service. Promotion
 is resolved by making a Trust check. The diffi culty of this check
-depends on the character’s current rank. If the check succeeds,
+depends on the character's current rank. If the check succeeds,
 the character rises one rank. If the check fails, the character is
 not promoted and may lose one Trust if it seems he pushed
 too hard.
@@ -1814,15 +1814,15 @@ Current Rank Trust Diffi culty
 6 Impossible (–8)
 
 Trust
-While Rank measures a character’s standing in the organization,
-Trust measures how the organization’s leadership think of him.
+While Rank measures a character's standing in the organization,
+Trust measures how the organization's leadership think of him.
 A character with a low Rank but high Trust is probably a young
 member of the organization with a bright future ahead of him;
 high Rank but low Trust is a senior member who is suspected of
 losing his touch or of betraying the organization.
 
 Trust is much, much more fl uid than Rank. Trust can be gained
-and lost almost at the Referee’s whim. In general, a character’s
+and lost almost at the Referee's whim. In general, a character's
 Trust should stay within 1–2 points of their current Rank but
 this is a guideline, not a hard rule. Note that Trust can be a
 negative value.
@@ -1830,7 +1830,7 @@ negative value.
 Gaining Trust Losing Trust
 Succeeding in a mission Failing a mission
 Admirably keeping to the
-organization’s Restrictions
+organization's Restrictions
 & Requirements
 
 Breaking Restrictions and
@@ -1854,16 +1854,16 @@ organization
 Drawing on resources
 excessively
 
-A character’s Trust starts at 0.
+A character's Trust starts at 0.
 
 Trust Checks: Trust functions just like a skill; to make a Trust
-check, roll 2d6 and add the character’s current Trust. Other DMs
+check, roll 2d6 and add the character's current Trust. Other DMs
 such as characteristic DMs may be added if appropriate; Social
 Standing holds sway in a criminal organization that wishes to
 appear respectable.
 
 If a Trust Check is failed, the Referee should consider reducing
-the character’s Trust by 1, refl ecting his increasingly shaky
+the character's Trust by 1, refl ecting his increasingly shaky
 standing in the organization.
 
 ###### CRIMINAL ORGANISATIONS
@@ -1872,7 +1872,7 @@ Restrictions & Requirements
 Restrictions are taboos for organization members, things
 they cannot do. Common restrictions on criminal organization
 members include revealing secrets of the organization to
-outsiders or using the organization’s resources for their own
+outsiders or using the organization's resources for their own
 private ends but can also include social restrictions, such as not
 harming people from a particular ethnic group or demanding
 that members avoid a particular religious faith.
@@ -1885,7 +1885,7 @@ certain fashion.
 
 Benefits & Resources
 Benefi ts are passive boons granted by the organization – the
-character’s membership in the organization helps him in some
+character's membership in the organization helps him in some
 fashion. One common benefi t is protection; people know not
 to cross the character, as doing so will draw the wrath of the
 criminal organization. Other common benefi ts include credit
@@ -1909,21 +1909,21 @@ for free. If he fails the roll, then he will lose one Trust._
 
 #### THE VRITERBEI
 
-_‘No, like_ this!’ _Masaal remembered his great–grandfather
-clasping his hand when he was a young child, the old man’s
+_'No, like_ this!' _Masaal remembered his great–grandfather
+clasping his hand when he was a young child, the old man's
 coarse fi ngers pressing the back of his hand in one spot,
-then another. ‘Practise it! This is part of your heritage!’ Great–
-grandfather’s blind eyes glittered with tears. ‘Remember it.
-Remember always what you are.’_
+then another. 'Practise it! This is part of your heritage!' Great–
+grandfather's blind eyes glittered with tears. 'Remember it.
+Remember always what you are.'_
 
 _He had nearly forgotten. Thirty years had gone by since great–
 grandfather died but his fi ngers still remembered the secret
-handshake. It took all of Masaal’s presence of mind not to gasp
+handshake. It took all of Masaal's presence of mind not to gasp
 when the offworlder greeted him at the spaceport and gave the
 same handshake. His fi ngers shaking, he gave the response
 just as Great–Grandfather taught him._
 
-_‘I have a proposition for you’ said the stranger._
+_'I have a proposition for you' said the stranger._
 
 The Vriterbei are a criminal syndicate active across the
 Spinward Marches. They are similar to the Mafi a/Cosa Nostra
@@ -1966,7 +1966,7 @@ the boundaries of their neighborhood are now considering
 crime on an interstellar scale.
 
 The strength of the Vriterbei is their cultural continuity. Analysts
-theorise that the Vriterbei combine the criminal ethos and familial
+theorize that the Vriterbei combine the criminal ethos and familial
 loyalty of the _Cosa Nostra_ with Vilani rigidity and tradition.
 
 Activities
@@ -2010,7 +2010,7 @@ Ranks
 request basic fi rearms or other equipment totalling Cr. 1,000 in
 any year.
 **Rank 1 – Respected:** You are a respected thug. You may
-launder credits through the Vritberei’s front businesses. You
+launder credits through the Vritberei's front businesses. You
 may request weapons worth up to Cr. 5,000 or a vehicle for
 your own use. You may be given control of a small Vritberei
 owned front business.
@@ -2040,21 +2040,21 @@ Nobody saw it coming.
 Not true. Everyone saw it coming. It is just that there was nothing
 anyone could have done. The freighter cut a blazing path across
 the sky as it plunged through the atmosphere, heading straight
-for the baron’s palace. Anti–aircraft fi re blasted it to pieces but
+for the baron's palace. Anti–aircraft fi re blasted it to pieces but
 the pieces kept coming – kinetic–kill weapons, even improvised
 ones like a hijacked freighter – are hard to stop.
 
 In the last second before impact, someone aboard the doomed
 freighter transmitted a compressed radio squeal, declaring
 that the Ine Givar movement claimed responsibility for the
-‘extermination of the parasitic oppressors’.
+'extermination of the parasitic oppressors'.
 
 History
 The history of the Ine Givar is a murky and contradictory one.
 Several false histories have been deliberately circulated in the
 past, both by the Ine Givar themselves and by the Imperium.
 Conspiracy theories cluster around the organization – some say
-they do not exist and that ‘Ine Givar’ is just a convenient label the
+they do not exist and that 'Ine Givar' is just a convenient label the
 media use for any terrorist group. Others claim they are funded
 by the Zhodani to destabilize the Imperium or that the Imperium
 deliberately created an enemy to keep the commoners in line or
@@ -2067,7 +2067,7 @@ the Imperium was too lax in tolerating corrupt or oppressive
 governments and who grew to blame the entrenched politico–
 economic system as being more concerned with propagating
 itself than actually improving quality of life for Imperial citizens.
-The ‘modern’ Ine Givar may have assimilated several other
+The 'modern' Ine Givar may have assimilated several other
 terrorist organizations.
 
 ###### CCRIMINALRIMINAL O ORGANISATIONSRGANISATIONS
@@ -2079,7 +2079,7 @@ democratic; they especially want the Imperium to intercede on
 troubled worlds where disasters or corruption are endemic.
 Different Ine Givar cells have different ways of advancing
 this ultimate goal, ranging from protests or demonstrations to
-raise awareness of the Imperium’s failings, to kidnapping and
+raise awareness of the Imperium's failings, to kidnapping and
 extortion to major terrorist attacks targeting the nobility, symbols
 of Imperial power or lynchpins of the interstellar trade networks.
 
@@ -2115,7 +2115,7 @@ also have connections who can provide weapons.
 **Rank 2 – Senior Member:** A senior member can obtain a scout
 ship or other small transport on loan from the organization or
 request Mid Passage on board a friendly ship. Senior members
-may also use the Ine Givar’s connections among student
+may also use the Ine Givar's connections among student
 organizations, opposition political parties and other fringe
 movements.
 **Rank 3 – Cell Leader:** Cell leaders are responsible for
@@ -2134,17 +2134,17 @@ handlers to democracy–crazed bomb throwers.
 #### THE SYNDICATE
 
 She smiled and her eyes fl ickered red for an instant, betraying
-the cybernetic implants within them. ‘I understand you have a
-problem.’
+the cybernetic implants within them. 'I understand you have a
+problem.'
 
 I nodded.
 
-‘We can remove this problem. We have dealt with similar
-problems before.’
+'We can remove this problem. We have dealt with similar
+problems before.'
 
-‘My problem is a big one.’
+'My problem is a big one.'
 
-‘We have very big guns.’
+'We have very big guns.'
 
 History
 The Syndicate was formed by a group of retired adventurers
@@ -2170,11 +2170,11 @@ but instead supply weapons, offworld travel, smuggling and
 
 ###### CCCRIMINALRIMINALRIMINAL O O ORGANISATIONSRGANISATIONSRGANISATIONS
 
-so forth. The Syndicate has been referred to as a ‘shadow
-Imperium’, as its infl uence usually stops at the starport. They
+so forth. The Syndicate has been referred to as a 'shadow
+Imperium', as its infl uence usually stops at the starport. They
 rarely bother dealing with planetside crimes.
 
-The Syndicate’s headquarters is rumored to be on board a
+The Syndicate's headquarters is rumored to be on board a
 converted luxury liner that moves along a pre–determined route
 on the edge of known space.
 
@@ -2224,8 +2224,8 @@ a ship.
 
 #### CULT OF THE TRAVELLER
 
-_‘God is out there’ said the madman. ‘God is walking amongst
-us. God is looking for His faithful.’_
+_'God is out there' said the madman. 'God is walking amongst
+us. God is looking for His faithful.'_
 
 Blood fl ows strangely in zero–gravity. Red globes danced and
 fl owed along the blade of his knife as he pushed himself down
@@ -2238,7 +2238,7 @@ stems from the teachings of a prophet (or madman) who called
 himself the Watcher. He was a barbarian from a primitive lost
 world who was taken to the stars by an IISS Scouting mission
 in the mid–500s. The trauma of being lifted from an Iron Age
-society to the Imperium shattered the barbarian’s mind and he
+society to the Imperium shattered the barbarian's mind and he
 decided that he had been taken into the realm of God.
 
 How this delusion became a remarkably resilient religion is a
@@ -2246,17 +2246,17 @@ mystery; it is suggested the initial prophet was a latent telepath
 who somehow created a psychic imprint that still resonates
 or his book of teachings has some unique resonance for the
 mentally ill. Others suggest an addictive combat drug called
-Tricerin or ‘trick’ is responsible; it was widely abused in the 500s
+Tricerin or 'trick' is responsible; it was widely abused in the 500s
 and is still used to this day and can produce a psychotic state in
 which addicts are extremely suggestible.
 
-The Cult’s tenets are confused and there are many different
+The Cult's tenets are confused and there are many different
 sects but they all share certain beliefs:
 
 - God created the universe but has now incarnated in human
     form. Some say He has incarnated to fi nd the faithful or
     to experience the human condition. The most common
-    manifestation of the Cult’s beliefs, though, is that God is
+    manifestation of the Cult's beliefs, though, is that God is
     trapped in human form and can only be released through
     death.
 - Ritual murder is a form of communication or signalling to
@@ -2303,22 +2303,22 @@ on.
 
 #### WHAR IN EXILE
 
-‘We _are the rightful government of Rabwhar._ We _will re–establish
+'We _are the rightful government of Rabwhar._ We _will re–establish
 the rule of law. And_ you _have committed treason against the
-state. The sentence is_ death _.’_
+state. The sentence is_ death _.'_
 
 History
 Rabwhar is a minor TL7 agricultural world in the Lunion
-subsector of the Spinward Marches. A decade ago, Rabwhar’s
+subsector of the Spinward Marches. A decade ago, Rabwhar's
 billion–strong population fl irted briefl y with democracy. The
-existing hereditary monarch was the sort who puts the ‘non–
-charismatic’ in ‘non–charismatic leader’, the harvests were
+existing hereditary monarch was the sort who puts the 'non–
+charismatic' in 'non–charismatic leader', the harvests were
 failing due to a blight imported from offworld and the plan to
-convert the planet’s class–D port into a class–B had been
+convert the planet's class–D port into a class–B had been
 delayed by another 20 years.
 
 A coup seized the capital city and surrounding territory and held
-it for nearly three weeks before the king abdicated in favour
+it for nearly three weeks before the king abdicated in favor
 of his considerably more popular niece. Public opinion turned
 against the revolutionaries, the army closed in on the capital
 
@@ -2362,7 +2362,7 @@ Requirements
 
 Benefits
 
-- DGER’s hidden asteroid port in Shirene may be used as a
+- DGER's hidden asteroid port in Shirene may be used as a
     shelter.
 - As soon as DGER is reinstated, then those loyal to the true
     government will be rewarded with land grants.
@@ -2406,7 +2406,7 @@ market.
 
 # PPIRACYIRACY
 
-Holodramas and spacer’s tales are full of pirates. Romantic
+Holodramas and spacer's tales are full of pirates. Romantic
 villains of the spaceways, pirates can be dastardly rogues or
 wrongfully exiled nobles, swooping out of the void to steal cargos
 of precious metals or to rob the jewellery from rich passengers
@@ -2446,7 +2446,7 @@ better than honest starvation.
 Still other pirates are actually privateers in one form or another.
 Piracy is often used as a covert method of interstellar warfare.
 A duke might secretly fund a few pirate corsairs and send them
-off into his neighbor’s domain to pillage and disrupt shipping.
+off into his neighbor's domain to pillage and disrupt shipping.
 Even if the pirates only steal a few cargo ships, the neighboring
 dukedom suddenly looks like a far less safe and inviting place
 for a Megacorporation to invest in. Other interstellar empires
@@ -2462,7 +2462,7 @@ The nature of interstellar travel poses a problem to a would–be
 pirate. It is impossible to capture a ship in jump space and any
 ship capable of jump travel will use it to escape from the pirate
 attacker. A pirate vessel can lurk inside the hundred–diameter
-‘jump shadow’ of a planet, hoping to ambush and disable targets
+'jump shadow' of a planet, hoping to ambush and disable targets
 before they reach a safe jump distance but this hundred–
 diameter zone will be heavily patrolled by system defence boats
 in any civilised system.
@@ -2476,7 +2476,7 @@ they get to the steel noose of SDBs.
 Of course, any ship lurking around the hundred–diameter limit
 is inherently suspicious. Any honest ship would either jump
 away, head down to the starport or out to another world in
-the system. Just fl oating ‘dead’ in space – loitering – quickly
+the system. Just fl oating 'dead' in space – loitering – quickly
 draws the attention of the authorities. Pirates can risk lurking
 for a while by claiming an engine malfunction or by moving very
 slowly towards an orbital station or other legitimate destination
@@ -2519,11 +2519,11 @@ by the authorities.
 
 Jumpcusser
 The lowest and most common form of pirate is the so–called
-‘jumpcusser’. These are opportunistic predators and are seen
-as little more than vermin by ‘real’ pirates. The term ‘jumpcusser’
+'jumpcusser'. These are opportunistic predators and are seen
+as little more than vermin by 'real' pirates. The term 'jumpcusser'
 is derived from the most common ending of a pirate attack –
 the target jumps away, leaving the would–be attacker cursing
-in the target’s wake. A jumpcusser is an armed free trader or
+in the target's wake. A jumpcusser is an armed free trader or
 other small starship – even a classic scout ship could serve as
 a jumpcusser.
 
@@ -2575,7 +2575,7 @@ Belt Runner
 Belt runners prey on spaceships travelling through real space
 to outlying worlds in a system. Traditionally, the asteroid belt
 is a haunt for pirates. The advantages of this approach is that
-the belt runner’s targets are unable to jump away and that the
+the belt runner's targets are unable to jump away and that the
 volume of space to be patrolled is much greater, making it less
 likely that the pirate encounters patrols.
 
@@ -2630,7 +2630,7 @@ populated world is tantamount to declaring war on that planet.
 
 Most pirates need only worry about system defence boats,
 q–ships and naval patrols but raiders can fi nd themselves in a
-pitched battle with a planet’s military.
+pitched battle with a planet's military.
 
 #### PIRATE TARGETS
 
@@ -2644,7 +2644,7 @@ important of which are the needs of the Referee.
 
 When a pirate attempts to locate prey, roll on the Prey Encounter
 Table on page 44 to determine the most likely target. A result of
-‘no prey’ does not mean that there are no other ships in the
+'no prey' does not mean that there are no other ships in the
 system, it implies that there are no other ships that the pirate has
 a chance of successfully tackling. The amount of traffi c in the
 system determines when to roll on the Prey Encounter Table.
@@ -2654,7 +2654,7 @@ Backwater System: –1DM to fi rst die only
 Dangerous World: –1DM to second die only
 High–Traffi c System: +1DM to fi rst die only
 Secure World: +1 DM to second die only
-Capital or other key System: +2DM to fi rst die only
+[[Capital]] or other key System: +2DM to fi rst die only
 Naval Base: +2 DM to second die only
 
 A backwater system is one with a Class X or E starport and
@@ -2756,7 +2756,7 @@ or tourist vessel. Such ships may have many valuable items
 carried by the passengers but the pirates will be outnumbered
 if they try to storm it.
 
-**Unusual Vessel:** A noble’s yacht, science vessel, X–boat,
+**Unusual Vessel:** A noble's yacht, science vessel, X–boat,
 mercenary transport, survey ship or other rare type of ship.
 The vessel may be utterly useless to the pirate or a rich prize,
 depending on what is on board.
@@ -2772,7 +2772,7 @@ ranging from a small escort ship or pirate hunter to a full–size
 warship.
 
 Encounter Distance & Timing
-The ‘encounter window’ for a pirate attack is a slim one. It takes
+The 'encounter window' for a pirate attack is a slim one. It takes
 a ship only a few hours to lift off from a spaceport and pass
 through the hundred–diameter jump point or to travel from
 where it entered the system to the safety of the atmosphere.
@@ -2789,7 +2789,7 @@ times for an arriving ship.
 
 Outsystem Encounters
 The Prey Encounter table assumes that the pirates are
-operating in the space around the system’s main world. Belt
+operating in the space around the system's main world. Belt
 runners and other pirates prefer to operate further out on
 the fringes of the system. Roll 2d6 on the Outsystem Prey
 Table for these pirates, applying DMs as follows:
@@ -2821,7 +2821,7 @@ and take the least valuable result.
 
 Belter: A Serpent–class or other mining ship.
 
-Roll 1d6 or choose the prey’s direction of travel. On a 1–3, it
+Roll 1d6 or choose the prey's direction of travel. On a 1–3, it
 is heading towards the planet or HighPort to land; on a 4–5,
 it is heading to the jump diameter limit. On a 6, it is stationary
 or heading towards some other destination, such as a moon,
@@ -2835,7 +2835,7 @@ thrust to the jump limit than it is to fl y to the surface, as the vessel
 must do a turnover at the half–way point (or use atmospheric
 braking; either way, it must reach zero velocity at the surface or
 there will be an unfortunate interaction with the ground, termed
-a ‘crash’).
+a 'crash').
 
 ###### PPIRACYIRACY
 
@@ -2905,7 +2905,7 @@ must be taken:
 
 - Intercept the target
 - Attack the target
-- Prevent the target’s escape
+- Prevent the target's escape
 - (Optionally) Board the target
 - Loot the target
 - Escape!
@@ -2917,14 +2917,14 @@ boarding can be attempted. Use the Travel Times tables above
 and on page 145 of the _Traveller Core Rulebook_ to determine
 intercept times. The target may attempt to avoid the pirate but
 any evasive maneuvers will increase the amount of time it
-takes to reach the target’s destination.
+takes to reach the target's destination.
 
 Opposed Piloting checks may be required when the range
 drops to Short or less, as the target jinks and dodges to avoid
 the approaching pirate vessel.
 
 In general, if the pirate has a higher Thrust value than the target
-and is within 100,000 kilometres of the target, then escape is
+and is within 100,000 kilometers of the target, then escape is
 very diffi cult indeed.
 
 As soon as the pirate opens fi re, a clock starts ticking. The
@@ -2943,8 +2943,8 @@ Average (+0)
 
 Attack the target
 Pirates do not want to destroy their target, they want to cripple
-it. Missile and torpedo attacks may be used to ‘soften up’ a
-target but as soon as the target’s Hull is breached, the pirate
+it. Missile and torpedo attacks may be used to 'soften up' a
+target but as soon as the target's Hull is breached, the pirate
 runs the risk of destroying the cargo he seeks. Most pirates will
 
 ###### PPPIRACYIRACYIRACY
@@ -2985,24 +2985,24 @@ to answer all the questions asked by the authorities.
 A manned, non–jumping decoy is a better decoy but it does
 have one big drawback – the crew will be picked up by the
 authorities and had better have a good story to tell when they
-ask ‘ isn’t it a little suspicious that your engines shut down at
-just the right time to distract us from those pirates?’
+ask ' isn't it a little suspicious that your engines shut down at
+just the right time to distract us from those pirates?'
 
 challenge the target as soon as the fi rst shot is fi red, demanding
 that the prey surrender, heave to and prepare to be boarded.
 
 The ideal results for a pirate are hits to the Maneuver Drive
-(reducing the target’s Thrust and making interception much
-easier) or Fuel (dumping a portion of the target’s fuel into space
+(reducing the target's Thrust and making interception much
+easier) or Fuel (dumping a portion of the target's fuel into space
 and possibly preventing it from jumping away).
 
 In general, a merchant captain will surrender as soon as escape
-becomes unlikely , not impossible. One hit to the merchant’s fuel
+becomes unlikely , not impossible. One hit to the merchant's fuel
 tank might not stop the merchant fl eeing but it proves that the
 pirate can damage the merchant and will likely cripple it with
-another few hits. Merchants know that it is better to lose one’s
+another few hits. Merchants know that it is better to lose one's
 cargo to the pirate and claim the insurance (if any) than to lose
-one’s ship and possibly one’s life to an incoming pirate missile.
+one's ship and possibly one's life to an incoming pirate missile.
 
 Skill Checks:
 Demanding a Surrender: Comms+Social Standing, 10–60
@@ -3079,7 +3079,7 @@ rather than stand and fi ght. A well–trained pirate crew will leave
 behind what they cannot safely steal.
 
 **Skill Checks:**
-_Opening a ship’s locker:_ Security+Education, 10–60 minutes,
+_Opening a ship's locker:_ Security+Education, 10–60 minutes,
 Average (+0)
 _Finding the right cargo:_ Recon+Intelligence, 1–6 minutes,
 Average (+0)
@@ -3091,13 +3091,13 @@ The fi nal challenge for the pirate is to escape without being
 captured. Once a pirate has taken its prize, it still needs to
 make it back to the hundred–diameter jump limit to escape. One
 common mistake made by inexperienced raiders is to chase a
-target too far into a planet’s jump shadow, so they cannot then
+target too far into a planet's jump shadow, so they cannot then
 safely jump out. (Jumping within the hundred–diameter limit
 incurs a –8DM to the jump check).
 
 #### AVOIDING PIRATES
 
-Obviously, the easiest way to avoid pirates is to stick to ‘safe’
+Obviously, the easiest way to avoid pirates is to stick to 'safe'
 systems but this is not always possible. Any experienced
 merchant will take further precautions.
 
@@ -3105,7 +3105,7 @@ Safe Jumping
 The more accurate the jump roll, the closer to the target world
 the ship arrives. A good astrogator is a valuable addition to any
 crew, as an accurate jump not only shaves time off travelling
-to the starport (and time is money) but also reduces the ship’s
+to the starport (and time is money) but also reduces the ship's
 exposure to piracy.
 
 Defensive Weapons
@@ -3140,7 +3140,7 @@ Sacrificial Cargoes
 If there is no escape from the pirates, then a wise captain will
 minimise the damage they can infl ict. One common tactic is
 to have a cargo container loaded with valuables ready to be
-launched at a moment’s notice. Instead of letting the pirates
+launched at a moment's notice. Instead of letting the pirates
 board, the merchants throw the container out of the airlock. With
 luck, the pirate vessel will be satisfi ed with a small safe profi t and
 depart. External cargo pods also allow the merchant to relinquish
@@ -3175,7 +3175,7 @@ much smaller and more agile warships, making them ideal for
 patrols and anti–pirate operations. Pirates often operate across
 subsector borders to avoid subsector fl eets – the dead hand
 of bureaucracy is a powerful weapon in the stratifi ed Imperium
-and one duke may be unwilling to allow a neighbor’s ships to
+and one duke may be unwilling to allow a neighbor's ships to
 enter his space.
 
 Any of these pirate hunters may respond to a distress call from
@@ -3201,7 +3201,7 @@ is 5–30 minutes
 **DMs:
 Backwater System:** –1DM **Dangerous World:** –1DM
 **High–Traffi c System:** +1DM **Secure World:** +1 DM
-**Capital or other key System:** +2DM
+**[[Capital]] or other key System:** +2DM
 **Naval Base:** +2 DM
 
 Customs Ships
@@ -3230,7 +3230,7 @@ Q–ships are merchant vessels with concealed weapons, used
 as lures for pirates and commerce raiders. Most subsector
 navies have a few old q–ships in storage that are hauled out
 when pirate activity becomes a problem. The q–ship then
-‘conveniently’ jumps into dangerous systems and offers itself a
+'conveniently' jumps into dangerous systems and offers itself a
 tempting target for pirates. When the attack begins, the q–ship
 responds by revealing its weapons and launching fi ghters.
 
@@ -3239,30 +3239,30 @@ responds by revealing its weapons and launching fi ghters.
 Pirate Bounties
 Bounties like these can be found in any starport.
 
-**Name:** ‘Black’ Ferghus.
+**Name:** 'Black' Ferghus.
 **Aliases:** None known.
 **Description:** Human male, genotype 4a, dark hair, synthetic eyes with jet–black sclera; left hand is cloned fl esh following injury.
 **Vessel:** Type S variant, known to be equipped with a triple beam turret.
 **Vessel Name:** _Maria._
 **Transponder Registry:** `#43688AAC8D3212`.
 **Other Distinguishing Features:** Infrequent failure of portside navigation light; scarring on dorsal panel aft of turret
-**Crimes:** ‘Jumpcusser’ attacks on shipping in Regina subsector.
+**Crimes:** 'Jumpcusser' attacks on shipping in Regina subsector.
 **Notes:** None.
 **Reward:** 250,000 Credits if Black Ferghus is delivered alive to any Naval base or Imperial Consulate; 100,000 Credits for proof of
 his death.
 
-**Name:** H’raua’sa.
+**Name:** H'raua'sa.
 **Aliases:** The Hungry One.
 **Description:** Aslan male, genotype AS2c, silver–tipped teeth and claws.
-**Vessel:** Aslan _Aoa’iw_ class 300–ton light trader.
+**Vessel:** Aslan _Aoa'iw_ class 300–ton light trader.
 **Vessel Name:** Unknown.
 **Transponder Registry:** NA but the false ID `#5AA55399CC` has been sighted.
-**Other Distinguishing Features:** Unusual alien ship design, said to resemble a ‘pouncing lion’. Equipped with three double turrets
+**Other Distinguishing Features:** Unusual alien ship design, said to resemble a 'pouncing lion'. Equipped with three double turrets
 and a fi ghter bay.
 **Crimes:** Attacks on shipping in Trojan Reach subsector.
 **Notes:** Believed to be a renegade Aslan noble. The Hungry One operates mainly outside the borders of the Imperium. Hunters are
 advised not to engage him too close to the Aslan Hierate, as it is likely he has tacit support from within Aslan space.
-**Reward:** Cr. 3,000,000 if H’raua’sa’s ship is destroyed. Cr. 6,000,000 if he is captured within Imperial space and brought to the
+**Reward:** Cr. 3,000,000 if H'raua'sa's ship is destroyed. Cr. 6,000,000 if he is captured within Imperial space and brought to the
 naval base at Pax Rulin.
 
 **Name:** Rose Kershaw.
@@ -3273,9 +3273,9 @@ naval base at Pax Rulin.
 **Transponder Registry:** NA; in the past, she has used `#32212DDA4`, `#32212DD33` and `#533312EEA`.
 **Other Distinguishing Features:** Corsair–class vessel, painted a bright red. A dorsal fi n with the symbol of a rose on the port side
 and a skull–and–crossbones on the other can be extended from the vessel.
-**Crimes:** Numerous attacks on shipping in Trin’s Veil subsector.
+**Crimes:** Numerous attacks on shipping in Trin's Veil subsector.
 **Notes:** Most of her attacks have targeted Baracci Technum vessels; she is believed to be deliberately attacking that corporation.
-**Reward:** Cr. 4,500,000 if Rose’s ship is destroyed. Cr. 3,000,000 if she is captured within Imperial space and brought to the naval
+**Reward:** Cr. 4,500,000 if Rose's ship is destroyed. Cr. 3,000,000 if she is captured within Imperial space and brought to the naval
 base at Trin.
 
 **Name:** Captain Blaise.
@@ -3316,9 +3316,9 @@ course of action, as it ensures that the pirate will be hunted down
 and exterminated by the navy. At least surrendering means the
 pirate may survive.
 
-Capital Ships
+[[Capital]] Ships
 Massive capital warships are much too large and expensive to be
-‘wasted’ on pirate hunting. Nonetheless, pirates do sometimes
+'wasted' on pirate hunting. Nonetheless, pirates do sometimes
 encounter capital ships. There are two likely scenarios – either
 the navy have detected a pirate base and wish to pound it into
 free–fl oating dust or some infl uential noble or corporation has
@@ -3330,7 +3330,7 @@ Bounty Hunters
 If all of the previous pirate hunters are unable to deal with a
 particularly troublesome corsair, then the time–honored
 system of bounties can produce results. Putting a price on a
-pirate’s head (or hull) means that every adventurer and bounty
+pirate's head (or hull) means that every adventurer and bounty
 hunter in the subsector will be looking for him. Often, this price
 ends up getting collected by another pirate.
 
@@ -3354,7 +3354,7 @@ without resupply. Looting supplies in this fashion takes 10–60
 minutes.
 
 Cargo
-The merchant’s cargo can be the richest prize on board but
+The merchant's cargo can be the richest prize on board but
 handling a large number of cargo containers hastily can be
 diffi cult.
 
@@ -3405,7 +3405,7 @@ container
 Remote
 Operations
 Treasure
-Ship’s Safe 1–6 Hours Security
+Ship's Safe 1–6 Hours Security
 Personal treasure 1–6 minutes per
 passenger
 
@@ -3456,7 +3456,7 @@ loaded into one of the standard shipping containers for ease of handling.
 
 Cargo may be transported internally in a cargo bay or externally in a frame. Both have their advantages. Large freighters
 which are not designed to land on a planet carry their cargo in an external frame, open to space. This simplifi es loading and
-unloading and brings the cost of the vessel down considerably as the ship’s hull does not need to cover the cargo space. As
+unloading and brings the cost of the vessel down considerably as the ship's hull does not need to cover the cargo space. As
 an added bonus, external cargo pods can be jettisoned in an emergency. Jettisoning a few cargo pods is greatly preferable to
 being boarded by a band of bloodthirsty pirates. However, external cargo containers are not designed to survive the stress of
 atmospheric entry, so most ships with external cargo rely on orbit–to–surface small craft.
@@ -3495,20 +3495,20 @@ Equipment
 Equipment includes items such as armor, weapons, computers
 and other personal gear that can be sold. Assume Cr. 1,000 per
 crew member. This equipment must be fenced, so the pirate
-may only get a fraction of the ‘real’ value.
+may only get a fraction of the 'real' value.
 
 Looting equipment takes 1d6 minutes per crew member.
 
 ###### PPPIRACYIRACYIRACY
 
 Small Craft
-Ship’s small craft like boats, launches and shuttles are
+Ship's small craft like boats, launches and shuttles are
 extremely valuable to pirates. A 20–ton launch is worth 14MCr,
 the equivalent of cargo worth 700,000 Cr. per ton! While these
 vehicles must be fenced, they are still choice loot if they can be
 stolen.
 
-If the pirate’s cargo bay is large enough to hold the stolen vehicle,
+If the pirate's cargo bay is large enough to hold the stolen vehicle,
 then the pirates need only fl y it across. If the pirates have no
 suitable place to stow a vehicle, they may try docking it to an
 external airlock, although this is risky or use docking clamps.
@@ -3525,11 +3525,11 @@ Stolen vehicles must be fenced.
 Prisoners
 Some pirates take prisoners for later ransom. Ransoming is
 a diffi cult process and should be handled as an adventure.
-Prisoners are usually thrown into low berths for ‘storage’.
+Prisoners are usually thrown into low berths for 'storage'.
 Forcing an unwilling prisoner onto a pirate vessel requires a
 Melee check and 1–6 minutes (or, better yet, a stunner).
 
-What’s Not Nailed Down
+What's Not Nailed Down
 It is possible, albeit time–consuming, to strip every valuable
 item from a captured ship; everything from computer cabling
 and hydrogen fuel to jump drive components and fl oor tiles
@@ -3556,7 +3556,7 @@ Cargo —
 4 tons Advanced Manufactured Goods 100,000 Cr. (fenced)
 2 tons Biochemicals 25,000 Cr. (fenced)
 2 tons Basic Machine Parts 5,000 Cr. (fenced)
-Treasure (ship’s safe) 20,000 Cr.
+Treasure (ship's safe) 20,000 Cr.
 Equipment 500 Cr (fenced)
 Vehicles —
 Probe Drones 250,000 Cr. (fenced)
@@ -3576,7 +3576,7 @@ Cargo —
 11 tons advanced machine parts 206,250 Cr. (fenced)
 11 tons advanced weapons 412,500 Cr. (fenced)
 Treasure —
-Ship’s Safe 40,000 Cr.
+Ship's Safe 40,000 Cr.
 Mid passengers 30,000 Cr.
 Low passengers 10,000 Cr.
 Equipment 1,000 Cr. (fenced)
@@ -3593,7 +3593,7 @@ Cargo —
 25 tons biochemicals 375,000 Cr. (fenced)
 25 tons illegal drugs 2,500,000 Cr. (not fenced, as already illegal)
 Treasure —
-Ship’s Safe 80,000 Cr.
+Ship's Safe 80,000 Cr.
 Mid Passengers 25,000 Cr.
 Equipment 2,000 Cr. (fenced)
 Vehicles —
@@ -3612,7 +3612,7 @@ Cargo —
 —
 50 tons Radioactives 12,500,000 Cr. (fenced)
 Treasure —
-Ship’s Safe 200,000 Cr.
+Ship's Safe 200,000 Cr.
 Equipment 2,000 Cr. (fenced)
 Vehicles —
 Shuttle 8,250,000 Cr. (fenced, if you can manage it!)
@@ -3627,7 +3627,7 @@ From the petty thug who breaks a window to steal from a house,
 to the skilled team of thieves who rob a high–security bank,
 to the elite corporate ninja sneaking into an orbital station to
 disable the rogue AI – all of these acts fall under the umbrella
-of ‘intrusion’.
+of 'intrusion'.
 
 As technology improves, physical intrusion becomes more
 diffi cult. High–end security systems are designed to be
@@ -3747,12 +3747,12 @@ the characters are, the better their chances.
 **Acquiring Equipment:** Many heists need specialized
 equipment, from plasma cutters for burning through safes
 to fake uniforms to clown suits. Much of this equipment can
-be obtained legally, depending on the planet’s Law Level but
+be obtained legally, depending on the planet's Law Level but
 other equipment such as explosives, weapons and cutting
 technology may be controlled. Planetary authorities may be
 watching trade in controlled items – if the same credit account
 is used to purchase an industrial–strength drill, four vacc suits,
-a map of the planet’s communications grid, highly advanced
+a map of the planet's communications grid, highly advanced
 computer parts and a charter spacefl ight that goes very close to
 the central communications satellite, that would alert the police
 that someone is plotting to sabotage or tap the grid.
@@ -3760,7 +3760,7 @@ that someone is plotting to sabotage or tap the grid.
 Average (+0)
 
 **Preliminary Heists:** Getting through a locked door is a lot
-easier if you pickpocketed the guard’s passkey that morning.
+easier if you pickpocketed the guard's passkey that morning.
 The thieves may have to commit smaller preliminary heists
 before the main event, such as breaking into a nearby building
 
@@ -3812,7 +3812,7 @@ that expects criminals; a high–quality domicile.
 **Diffi cult (15):** A bank, weapons depot, secure corporate
 facility or especially secure domicile.
 **Very Diffi cult (18):** A secure bank, high–security prison,
-military facility, noble’s palace.
+military facility, noble's palace.
 **2. Determine Preparation:** The characters may make the
 skill checks described in the three sections on preparation
 (Casing the Target, Gathering Information, Set–Up). Each
@@ -3874,7 +3874,7 @@ from the Heist Length, bringing it down to 10.
 Next, the thieves actually break into the lab. They may use
 each skill a maximum of twice. 2+the Effect of each successful
 check is subtracted from the remaining Heist Length. The
-thieves’ rolls are as follows:
+thieves' rolls are as follows:
 
 Skill Used Result Effect Remaining
 Heist Length
@@ -3889,7 +3889,7 @@ happened. With two failures, the thieves have left considerable
 evidence behind and have failed to make a clean getaway. The
 fi rst Security failure triggered a silent alarm and the characters
 were then spotted by the security robot. A quick and unsubtle
-burst of gunfi re dealt with the robot but images of characters’
+burst of gunfi re dealt with the robot but images of characters'
 faces were recorded and transmitted to the authorities...
 
 ###### IINTRUSIONNTRUSION
@@ -3919,10 +3919,10 @@ Seconds, varies
 **WALL DIFFICULTY**
 
 Wall Height Handholds DM
-<3 metres Many +2
-3–5 metres Few +0
-5–10 metres None –2
-10 metres+ Utterly Sheer –4
+<3 meters Many +2
+3–5 meters Few +0
+5–10 meters None –2
+10 meters+ Utterly Sheer –4
 
 A character may attempt to climb a wall in stages, breaking the
 attempt into multiple climbing rolls.
@@ -4060,7 +4060,7 @@ Watchbugs (TL13, Exotic): Watchbugs are cybernetic insects
 or tiny drones, designed to fl y around a building or other secure
 area and watch for intruders. Watchbugs are deployed in swarms
 of hundreds of insects. In addition to built–in cameras, the bugs
-have chemical sensors enabling them to ‘smell’ and ‘taste’
+have chemical sensors enabling them to 'smell' and 'taste'
 intruders. A bug could land and bite a suspicious intruder, taking
 a blood sample for quick DNA matching. The sheer number of
 watchbugs makes a swarm hard to avoid. Watchbugs must be
@@ -4079,7 +4079,7 @@ laser and microwave communications, the control transmissions
 for robots or drones, outgoing computer connections and other
 potential methods of covert communication.
 
-To avoid an EM scanner, the thief needs to either use the target’s
+To avoid an EM scanner, the thief needs to either use the target's
 own communications, use non–interceptable means such as
 a shielded hardwire or a meson communicator or disguise
 his communications as natural background electromagnetic
@@ -4097,7 +4097,7 @@ Sweeps can penetrate walls and other physical obstacles.
 A NAS Sweep can be avoided by psionic conditioning, by a
 Neural Hood (see page 82) or Neural Sheathe or by staying
 close to powerful EM sources such as power cables that mask
-the thief’s brainwaves.
+the thief's brainwaves.
 
 ###### IINTRUSIONNTRUSION
 
@@ -4109,7 +4109,7 @@ give a –2DM to all Stealth checks.
 **Searchlights (TL4, Rare):** Searchlights sweep the area,
 searching for the intruder. A character pinned by a searchlight
 has a –4DM to all Stealth checks; however, a successful Stealth
-or Athletics check will enable him to escape the light’s damning
+or Athletics check will enable him to escape the light's damning
 glare and slip into the shadows.
 
 **Infrared Searchlight (TL6, Rare):** Works just like a regular
@@ -4143,7 +4143,7 @@ they can also follow trails and attack intruders.
 
 Dogs can be dealt with using drugged food, anti–scent sprays
 or training.
-Saying ‘Nice Doggy’ Convincingly: Animals
+Saying 'Nice Doggy' Convincingly: Animals
 (training)+Intelligence, 10–60 seconds, Diffi cult (–2)
 
 Sentries (TL1+, Common): Another old–fashioned security
@@ -4192,8 +4192,8 @@ Comm
 **Manual Alarm (TL3, Uncommon):** A manual alarm is one
 that must be activated by a sentry or other individual who has
 spotted an intruder. A manual alarm might be anything from a
-concealed button beneath a cashier’s desk to a slap–bar on
-every wall to a big red button in the security control centre.
+concealed button beneath a cashier's desk to a slap–bar on
+every wall to a big red button in the security control center.
 
 Manual alarms can be defeated easily by not giving the security
 staff reason or opportunity to hit the button.
@@ -4202,13 +4202,13 @@ staff reason or opportunity to hit the button.
 may be accompanied by strobing lights and other signals.
 
 **TL7:** The siren alert includes an intelligent briefi ng, informing
-security of the location of the breach immediately. (‘ _Intruder
-alert, Grid 7! Intruder Alert, Grid 7_ ’.)
+security of the location of the breach immediately. (' _Intruder
+alert, Grid 7! Intruder Alert, Grid 7_ '.)
 **Disabling a Siren:** Security (electronics)+Education, 10–60
 Seconds, Average (+0)
 
 **Triggered Alarm (TL5, Common):** Triggered alarms are wired
-into the building’s doors or windows. When a door is forced or a
+into the building's doors or windows. When a door is forced or a
 window is broken, the alarm goes off. These alarms may run a
 current through a wire (opening the portal breaks the circuit) or
 detect the sound of breaking glass.
@@ -4230,7 +4230,7 @@ lockdown doors) automatically shut and no–one goes in or out.
 
 **Deadman Alarm (TL9, Rare):** A deadman alarm is a simple
 implant that is injected into the skull or neck of all security
-personnel. The deadman alert monitors the wearer’s life signs
+personnel. The deadman alert monitors the wearer's life signs
 and brain activity. As soon as life signs are terminated or the
 brain waves indicate unconsciousness or other impairment
 or the signal from the alarm implant is lost, then the alert is
@@ -4243,14 +4243,14 @@ computer to mimic the signal from a deadman alarm.
 **Security Net (TL12, Rare):** Security nets make silent alarms
 look like smoke signals. The security net works with a Computer
 or AI Controller to give all security personnel realtime updates
-on the situation. Guards are kept appraised of each other’s
+on the situation. Guards are kept appraised of each other's
 
 movements and positions; data from integrated sensors is
 provided when needed into an Augmented Reality display. A
 guard with a security net would see the building he is guarding
 as it really is but he would also see the positions of other guards
 within the building, he would see the dimming red footprints of
-the intruder’s heat traces and the forced door would show up as
+the intruder's heat traces and the forced door would show up as
 a brilliant green.
 
 A Security Net gives its users a +2DM to Recon & Investigate
@@ -4278,9 +4278,9 @@ Opening an Advanced Mechanical Lock: Security
 (mechanic)+Dexterity, 1–6 minutes, Average (+0)
 
 Fractal Lock (TL12, Exotic): Mechanical locks fall out of
-favour for several technology levels but see a brief return with
-the development of the ‘unpickable’ fractal lock, which uses
-nanomaterials and a unique fractal pattern for the key’s teeth.
+favor for several technology levels but see a brief return with
+the development of the 'unpickable' fractal lock, which uses
+nanomaterials and a unique fractal pattern for the key's teeth.
 Fractal locks cannot be picked but can be forced or otherwise
 removed.
 
@@ -4288,7 +4288,7 @@ Electronic Lock (TL6): An electronic lock is opened with a
 matching electronic swipe card or other token or signal. The
 easiest way to override an electronic lock is to actually have a
 swipe card (or a copy of the code). It is possible to connect a
-set of Thieves’ Tools to a lock and use Security or Computers
+set of Thieves' Tools to a lock and use Security or Computers
 skill to break in.
 Opening an Electronic Lock: Security (Electronics) or
 Computers+Intelligence, 1–6 minutes, Diffi cult (–2)
@@ -4319,15 +4319,15 @@ unique pattern of veins at the back of the human eyeball. They
 can be fooled using specially–made contact lenses.
 
 **Biometric – Voice (TL8, Uncommon):** This method matches
-a user’s voiceprint, either by having him recite a passphrase or
+a user's voiceprint, either by having him recite a passphrase or
 just recognizing specifi c cadences in speech. Most models can
 distinguish between recordings and live voice but can be fooled
-by advanced speech synthesisers that have been ‘trained’ with
-multiple lengthy samples of the user’s voice.
+by advanced speech synthesisers that have been 'trained' with
+multiple lengthy samples of the user's voice.
 
 **Biometric – DNA (TL8, Exotic):** DNA scanners take a blood
 or other tissue sample, such as saliva or sweat and quickly
-sequence the DNA to confi rm the user’s identity. It can be
+sequence the DNA to confi rm the user's identity. It can be
 fooled by obtaining the DNA of an authorized user, although
 more advanced biometric scanners will check the condition of
 the sample – a blood sample, for example, would have to be at
@@ -4346,10 +4346,10 @@ controlled challenge/response system with other biometric
 scanners. The user might be asked to give a password or
 questioned on some other detail of his life. Recognition
 software is not limited to a few passwords; it can intelligently
-ask questions based on current events ( _‘Dave, what meeting
-did you attend on Tuesday morning?’_ ) and notice odd behaviour
-(‘ _Dave, you rarely come to the offi ce after 10pm. This is outside
-your normal work routine. Is everything OK?’_ )
+ask questions based on current events ( _'Dave, what meeting
+did you attend on Tuesday morning?'_ ) and notice odd behaviour
+(' _Dave, you rarely come to the offi ce after 10pm. This is outside
+your normal work routine. Is everything OK?'_ )
 
 **NAS Lock (TL15, Exotic):** A NAS lock reads the brain patterns
 of authorized users. Only those whose minds are clearly
@@ -4409,8 +4409,8 @@ prevent exits.
 
 ###### IINTRUSIONNTRUSION
 
-**Laser Grid (TL7, Rare):** This is the classic ‘web of criss–
-crossing beams’; breaking any of the beams triggers an alarm.
+**Laser Grid (TL7, Rare):** This is the classic 'web of criss–
+crossing beams'; breaking any of the beams triggers an alarm.
 The beams are invisible to the naked eye. Specialist aerosols
 can reveal them as can infrared goggles.
 
@@ -4482,7 +4482,7 @@ internal structure of a building, spotting weak points and holes
 in the security.
 
 A densitometer baffl er uses extremely weak gravity plates to
-‘fuzz’ the densitometer readings within a building, making it
+'fuzz' the densitometer readings within a building, making it
 impossible to use densitometers within its area of effect.
 
 #### RUNNING A HEIST
@@ -4505,7 +4505,7 @@ players nor Referee should pull their punches in a heist game.
 
 The Target
 Unless the abstract heist rules are being used (see page 56), the
-Referee should prepare maps of the heist’s target. He should
+Referee should prepare maps of the heist's target. He should
 also determine how many people are there at any time, what
 activities are performed there and the routine of daily life at the
 target. He should anticipate likely questions from the players.
@@ -4552,17 +4552,17 @@ ones driving events as they gather information about the target
 and prepare for the intrusion. In general, players come up with
 three sorts of plans:
 
-- Good plans the Referee has predicted. ( _We’re going to rob_
+- Good plans the Referee has predicted. ( _We're going to rob_
     _the orbital station by stowing away in a cargo shuttle_ )
-- Good plans that the Referee has not anticipated ( _We’re_
+- Good plans that the Referee has not anticipated ( _We're_
     _going to rob the orbital station by precisely calculating its_
     _orbital path and velocity, then dropping out of our ship in_
-    _the same path but with a relative delta–V of –0.25 metres/_
-    _second. Basically, we’re going to fl oat in stealthvacc suits_
-    _until it comes to us. They’ll be looking for approaching ships_
-    _and won’t spot us.)_
-- Bad plans that the Referee has not anticipated ( _We’re_
-    _going to rob the orbital station. The whole thing. We’ve got_
+    _the same path but with a relative delta–V of –0.25 meters/_
+    _second. Basically, we're going to fl oat in stealthvacc suits_
+    _until it comes to us. They'll be looking for approaching ships_
+    _and won't spot us.)_
+- Bad plans that the Referee has not anticipated ( _We're_
+    _going to rob the orbital station. The whole thing. We've got_
     _a really big tow–rope welded to the back of our type–S._ )
 
 The Referee should subtly steer the players away from a bad
@@ -4570,15 +4570,15 @@ plan and give them a hint towards a good plan if they are very
 stuck but for the most part, players should be allowed make
 their own preparations. The Referee should not let planning
 happen in a vacuum – strange inquiries and recon missions
-may result in the target’s security personnel investigating the
+may result in the target's security personnel investigating the
 characters.
 
 Intrusion
-The intrusion phase of the heist is where the players’ plans and
-the target’s defences interact, possibly violently. The characters
+The intrusion phase of the heist is where the players' plans and
+the target's defences interact, possibly violently. The characters
 are now committed to the heist; it is too late to retreat now.
 
-One useful trick is to track the alert status of the target’s guards.
+One useful trick is to track the alert status of the target's guards.
 Alert status can be mapped on a scale, as follows:
 
 - **Unwary:** The security guards not only have no idea
@@ -4627,12 +4627,12 @@ While most internal locks on a spacecraft will be comparatively simple ones, the
 external airlocks will all be high–quality. Biometric locks may be used or a security camera may be attached to each door; the door
 is operated from the bridge, after the bridge offi cer has confi rmed the identity of the individual operating the door controls.
 
-If there is any sign of a potential hijacking situation, the ship’s crew will likely deploy crowd control weapons such as stunners,
+If there is any sign of a potential hijacking situation, the ship's crew will likely deploy crowd control weapons such as stunners,
 tranq gas or gravity manipulation. It is better to annoy a group of legitimate passengers and give them free passage plus a few
 thousand credits compensation than loose the whole ship to a hijacker who got past security.
 
 Control & Tracking Systems
-Assuming the hijacker manages to disable or avoid the crew, he still needs to override the ship’s security controls. A ship in
+Assuming the hijacker manages to disable or avoid the crew, he still needs to override the ship's security controls. A ship in
 dock usually has its M–drive locked out, requiring a specifi c code or key to reactivate it. Breaking through this security measure
 requires a Formidable (–6) Security, Computers or Engineer (electronics) roll taking 10–60 seconds.
 
@@ -4641,15 +4641,15 @@ There are also numerous ways to trace a ship. In order of importance, these are:
 - **Navigation Beacon:** All legal ships broadcast a navigational radio beacon, announcing their identity, position and course.
     Offi cially, this beacon should be active as long as the ship is in fl ight but it can be deactivated by pulling the power wire (most
     ships have long since fi tted an on/off switch for the beacon).
-- **Identity Transponder:** According to Imperial policy, all ships must have a transponder that broadcasts the ship’s name and
+- **Identity Transponder:** According to Imperial policy, all ships must have a transponder that broadcasts the ship's name and
     serial numbers. Transponder data is included in the navigational beacon transmission but even if the beacon is switched off,
     the transponder can be read with a sensor scan. It is possible to remove or change a transponder but it is very diffi cult to
     do so. The transponder is designed to last for the lifetime of the ship and to never be removed or tampered with. Often, the
     transponder is built _into_ the jump drive.
 - **Exterior Appearance:** Every ship is unique. Even two Type–S scouts from the same shipyard have slight differences, such
-    as micrometeorite scars on the hull or a varying leakage rates from the reactor. It is possible to change a ship’s appearance
+    as micrometeorite scars on the hull or a varying leakage rates from the reactor. It is possible to change a ship's appearance
     easily – a coat of paint and a few new hull plates will do it – but this takes time.
-- **Ship’s Papers:** Every legally owned ship has accompanying documentation. It is impossible to sell a ship for anything close
+- **Ship's Papers:** Every legally owned ship has accompanying documentation. It is impossible to sell a ship for anything close
     to its market price without the papers.
 - **Serial Numbers:** Finally, there are serial numbers all over every ship. Every major component has serial numbers embedded
     into it and these cannot be removed without replacing the component. These serial numbers may be physical digits embedded
@@ -4672,7 +4672,7 @@ such as the arrival of guards can be marked ahead.
 
 Complications
 No plan should go completely smoothly. While the Referee
-should avoid arbitrarily ruining the players’ carefully laid plans,
+should avoid arbitrarily ruining the players' carefully laid plans,
 he should certainly perturb them. For example, if the plan is to
 hijack a cargo shuttle, then the Referee should not decide that
 on this particular day, the shuttle breaks down and cannot be
@@ -4690,8 +4690,8 @@ personnel are stationed at the target and use appropriate force.
 Illicit manipulation of computer systems is a powerful criminal
 tool in technologically advanced societies. Assuming he can
 bypass the defensive programs, the hacker may be able to
-shut down a target’s surveillance cameras and other security
-measures, steal data about a target’s defences or even take
+shut down a target's surveillance cameras and other security
+measures, steal data about a target's defences or even take
 what he wants remotely.
 
 Conservative Computing
@@ -4734,7 +4734,7 @@ Background Information: Any secure site will conceal what
 defensive software it possesses but just knowing what operating
 systems and other applications it uses can give a hacker an
 edge. An advanced fi rewall is of little use if there is a known
-exploit in the corporation’s email client. Background information
+exploit in the corporation's email client. Background information
 about the target can be obtained by spying on suppliers, social
 engineering or even dumpster diving.
 Gathering Background Information: Streetwise, Persuade or
@@ -4759,10 +4759,10 @@ get high level passwords in this fashion – users with high level
 access are a lot more paranoid about security.
 
 **Social Engineering:** Also known as lying. This covers everything
-from walking into the offi ce and spying over someone’s shoulder
+from walking into the offi ce and spying over someone's shoulder
 as they type their password, to pretending to be service
-engineers and installing a data tap on the target’s phone line,
-to learning the name of the senior marketing manager’s pet cat
+engineers and installing a data tap on the target's phone line,
+to learning the name of the senior marketing manager's pet cat
 (which also happens to be his password).
 **Social Engineering:** Deception + Social Standing, 1–6 hours,
 Diffi cult (–2)
@@ -4770,7 +4770,7 @@ Diffi cult (–2)
 **Malware:** This covers installing programs such as keyloggers,
 Trojan horses, computer viruses and other programs that aid
 the hacker in penetrating a secure system. The hacker might
-break into a corporate executive’s home and install a virus on
+break into a corporate executive's home and install a virus on
 his hand computer; when the executive goes to the secure site
 and connects his hand computer to his work terminal, the virus
 spreads to the secure system and opens a backdoor for the
@@ -4791,12 +4791,12 @@ load, to minimise his chances of detection.
 days, Routine (+2)
 
 Set–up
-If the target is connected to an accessible network, the hacker’s
+If the target is connected to an accessible network, the hacker's
 task is easier. Few secure targets, though, are conveniently
 accessible, forcing the hacker to take extra steps before the
 heist.
 
-**Obtaining Intrusion Software:** While there are ‘toolkit’
+**Obtaining Intrusion Software:** While there are 'toolkit'
 programs (see Intrusion Software, below), it is also possible to
 obtain or write programs designed to crack a particular system
 or to perform other tasks. For example, a thief who intends to
@@ -4874,8 +4874,8 @@ Backdoors
 There is a backdoor of some sort into most systems. A corporate network may be entirely self–contained and have no
 direct link to the outside world but if some drone in Sales leaves his TL12 smartphone connected to both the corporate
 intranet and the planetary datagrid, then an enterprising hacker can sneak in via the phone connection and compromise
-the corporate network. A roving security drone might have an automated maintenance routine that compels it to ‘call
-home’ to its manufacturer when it perceives fault; a hacker could subvert the manufacturer’s system, trigger a fault (say,
+the corporate network. A roving security drone might have an automated maintenance routine that compels it to 'call
+home' to its manufacturer when it perceives fault; a hacker could subvert the manufacturer's system, trigger a fault (say,
 by sabotaging a shipment of spare parts) and then upload a new set of commands to the security drone ordering it to open
 a connection to the secure network of the site it is guarding.
 
@@ -4928,7 +4928,7 @@ or impede him. Effectively, he owns the computer.
 
 **Admin:** The user has full privileges and can do almost anything
 he wants. The main difference between Admin and Complete
-Control is that an Admin is still a ‘legal’ user of the system and
+Control is that an Admin is still a 'legal' user of the system and
 may still run afoul of Monitor programs if he does anything that
 a legal user of the system should never ever do under any
 circumstances.
@@ -5005,7 +5005,7 @@ not networked. He will need to physically break into the citadel
 fi rst, using a conventional heist._
 
 _Once Cyrus is inside the citadel, he sits down at one of the
-terminals and begins hacking. The citadel’s computer is running
+terminals and begins hacking. The citadel's computer is running
 an Anti–intrusion Program that increases the diffi culty of all
 hacking attempts by –4 but Cyrus has a hand computer with
 Intrusion/3 on it, giving him a +3DM to hacking, so the total
@@ -5036,7 +5036,7 @@ does not have the access rights to do so, so the Referee rolls to
 see if a monitor has been tripped. The Referee rolls a 5 – and
 the alarms go off all around Cyrus._
 
-_The system’s countermeasures are activated. Instantly, a more
+_The system's countermeasures are activated. Instantly, a more
 powerful Anti–Intrusion program is brought online, increasing
 the diffi culty of any future hacking attempts. The guards are
 alerted. Worse, the building is automatically sealed off. Cyrus
@@ -5075,13 +5075,13 @@ fi ve–star restaurant; directly below are offi ces belonging to an
 
 Computer System Checklist
 
-- What is the computer’s Rating? Personal computers
+- What is the computer's Rating? Personal computers
     range from Rating/0 to Rating/5; large computers
-    range from Rating/5 to Rating/100. The computer’s
+    range from Rating/5 to Rating/100. The computer's
     Rating determines how many programs it can run
     simultaneously.
 - What Anti–Intrusion program is running? What Anti–
-    Intrusion programs are available at the computer’s
+    Intrusion programs are available at the computer's
     Technology Level? Generally, a secure installation
     runs the best Anti–Intrusion program it can but it may
     be forced to run a lower–rated program to free up
@@ -5101,11 +5101,11 @@ staff of 200, mostly analysts and brokers.
 Inside, the offi ce is divided roughly into three sections. Public
 visitors and clients are shown the corporate face of Horizon;
 it is all gilt and synthetic marble, a carefully crafted corporate
-image showing Horizon’s many contacts and clients across
+image showing Horizon's many contacts and clients across
 the galaxy. Most employees work in the main trading fl oor (4)
-and the smaller rooms around it which take up half the offi ce’s
-fl oor space. Finally, there is what the employees refer to as ‘the
-hallows’, where the senior executives work. The hallows has a
+and the smaller rooms around it which take up half the offi ce's
+fl oor space. Finally, there is what the employees refer to as 'the
+hallows', where the senior executives work. The hallows has a
 higher security level than the rest of the offi ce.
 
 **Security Measures:** Access to the building itself is controlled;
@@ -5127,7 +5127,7 @@ Computer/20 running Anti–Intrusion/3 at all times.
 
 There are numerous security cameras in the building (each one
 marked with a c ). The security cameras in the corridor feed into
-both the building’s security centre and Horizon’s own security
+both the building's security center and Horizon's own security
 controller (3).
 
 During the day, there are 10 security guards on duty; at night,
@@ -5154,14 +5154,14 @@ is not visible to a casual glace. It is also operated by a palm
 scanner and card reader. It is normally used for deliveries to
 the cafeteria.
 
-**D:** Doors into ‘The Hallows’. These doors are controlled from
+**D:** Doors into 'The Hallows'. These doors are controlled from
 the security control room (3), although the sentry at the door
 usually contacts the control room by radio and asks them to
 open the door. (In practise, during the day, the doors are left
 unlocked if executives are constantly going in and out). There is
 no sentry at the door from the executive lift.
 
-**E:** This is two–metre thick pane of diamond–hard crystal, as
+**E:** This is two–meter thick pane of diamond–hard crystal, as
 tough as starship armor. It can be polarised to block out light.
 Cutting through it is virtually impossible. An explosives expert
 could plant charges at the corners, blowing up the braces that
@@ -5175,8 +5175,8 @@ to confi rm that there is only a single occupant and that his face
 matches the approved list of users. The occupant must then
 enter a code into a keypad. If the user fails any of these checks,
 the room automatically seals itself and will not open. There is
-a pressure plate in the fl oor that precisely measures the user’s
-weight; taking any items from the safe will change the user’s
+a pressure plate in the fl oor that precisely measures the user's
+weight; taking any items from the safe will change the user's
 total weight, sounding an alarm unless the user is permitted to
 remove an item.
 
@@ -5200,7 +5200,7 @@ Computer with a human security guard present at all times.
 (during the day) overly aggressive young businessmen on a lot
 of caffeine.
 **5.** Main Conference Room. This room is used regularly
-throughout the day but is not part of the guard’s standard patrol
+throughout the day but is not part of the guard's standard patrol
 at night, making it a good starting point for an incursion.
 **6.** Vault. The safe is in this room. The combination for the safe
 consists of a six–digit code unique to each authorized user,
@@ -5214,13 +5214,13 @@ Notable NPCs:
 
 - **Erik Danan:** The head of the branch offi ce and a rising star
     in Horizon. Physically, he appears to be in his mid–forties;
-    he’s actually twice that, thanks to the use of anagathics.
+    he's actually twice that, thanks to the use of anagathics.
 - **Rai Zaenar:** Another executive in the company; she has
-    her eye on Danan’s job and would consider aiding a heist
-    that led to a scandal tarnishing her boss’s reputation.
+    her eye on Danan's job and would consider aiding a heist
+    that led to a scandal tarnishing her boss's reputation.
 - **Yamaril Swina:** The head of security. She is an ex–marine
     who takes her job very seriously indeed. She was formerly
-    Danan’s personal bodyguard. Swina has many connections
+    Danan's personal bodyguard. Swina has many connections
     in the criminal underworld.
 - **Haro Naom:** One of the two kitchen staff, Naom comes
 from a community that was economically ruined by Horizon.
@@ -5267,7 +5267,7 @@ who specialize in smuggling cargoes past Imperial cordons.
 Blockade runners are hired by clients to transport diffi cult or
 dangerous cargoes.
 
-Smuggler’s Cargo
+Smuggler's Cargo
 The most common items transported by smugglers are items
 with high import taxes and illegal items such as drugs or
 weapons. Most smugglers carry perfectly legitimate items in
@@ -5289,11 +5289,11 @@ The more closed and secure a planet is, the more invasive the
 security measures used. However, even on comparatively open
 planets, if a vessel acts suspiciously or draws attention to itself,
 the customs offi cials will take a greater interest in it. In game
-terms, the two key values are the planet’s Law Level and the
-smuggler’s Trust.
+terms, the two key values are the planet's Law Level and the
+smuggler's Trust.
 
 Law Level
-Roll 2d6 and compare it to the planet’s Law Level whenever
+Roll 2d6 and compare it to the planet's Law Level whenever
 checking to see if the smuggler encounters a possible customs
 check. If the dice roll is equal to or lower than the law level, then
 the customs offi cial checks the smuggler in some fashion.
@@ -5305,12 +5305,12 @@ weapons shipments and will check incoming ships more
 thoroughly.
 
 Trust
-Trust measures the customs offi cials’ attitude to a merchant.
+Trust measures the customs offi cials' attitude to a merchant.
 Trust starts at +0 for most travellers. A corporate ship from a
 well–known corporation might have a Trust of +2; a ship that
 has visited the system several times before without problems
 might have a Trust of +1. By contrast, a ship acting suspiciously
-will have a lower Trust. Failing to comply with customs offi cials’
+will have a lower Trust. Failing to comply with customs offi cials'
 request reduces Trust.
 
 Trust is applied as a DM to Law Level checks. A high Trust
@@ -5323,7 +5323,7 @@ local customs patrols to make it easier to sneak illegal cargos
 through.
 
 Bribery: An even better method to build up Trust is to bribe
-offi cials. A bribe to the right person can increase the smuggler’s
+offi cials. A bribe to the right person can increase the smuggler's
 effective Trust or allow the smuggler to reroll a customs check.
 
 Desired Result Cost
@@ -5352,7 +5352,7 @@ not regular visitors to that planet.
 Responding to a challenge requires a Routine (+2) Deception
 
 - Social Standing check. If the check is failed, reduce the
-smuggler’s Trust by 1.
+smuggler's Trust by 1.
 
 Make a Law Level check as the smuggler approaches the planet
 and compare the results to the Customs Scan table below.
@@ -5388,7 +5388,7 @@ over incoming traffi c. A single starport minimises the need for
 spacecraft cargo handling facilities, border control, quarantine
 and security measures. The peculiar status of the starport as
 an extraterritorial Imperial holding also encourages planetary
-governments to have only one such ‘port, to avoid handing over
+governments to have only one such 'port, to avoid handing over
 too much power and land to the Imperium. On large, highly–
 populated planets there tends to be a single HighPort and
 multiple smaller DownPorts but all traffi c is supposed to pass
@@ -5404,7 +5404,7 @@ Landing at the starport allows the smuggler to blend in with
 the legitimate traffi c going to the planet. He just fl ies along
 being a nice innocent free trader but then has to deal with the
 security checks and customs scans at the starport. Depending
-on the planet’s law level and technology level, these can be a
+on the planet's law level and technology level, these can be a
 mere formality or a rigorous inquisition – and if the smuggler is
 discovered, then he is trapped in the middle of the starport with
 no chance of escape.
@@ -5466,10 +5466,10 @@ the port.
 Landing Elsewhere
 Flying out to the middle of nowhere allows the character to
 avoid customs checks at the starport but immediately draws
-the attention of the authorities. If the ship’s course change is
+the attention of the authorities. If the ship's course change is
 detected (a virtual certainty on any world with a Technology Level
 of 5 or more and a Population of 5 or more), then reduce the
-ship’s Trust by 4 and roll another Customs Patrol encounter.
+ship's Trust by 4 and roll another Customs Patrol encounter.
 
 #### SECURITY MEASURES
 
@@ -5505,21 +5505,21 @@ Electronic checks have the equivalent to a +1 to +5 Intelligence
 Smuggling Example
 Diamond Joe intends to smuggle eight tons of illegal luxuries onto Regina. Regina has a Law Level of 9.
 
-Joe’s scoutship jumps into the system and sets course for Regina. The gas giant of Assiniboia looms large in his port viewscreen
-when he encounters the fi rst customs patrol. ‘ This is Regina C21 to unidentifi ed Scout, transmit your ident details now.’
+Joe's scoutship jumps into the system and sets course for Regina. The gas giant of Assiniboia looms large in his port viewscreen
+when he encounters the fi rst customs patrol. ' This is Regina C21 to unidentifi ed Scout, transmit your ident details now.'
 
 Joe makes a successful Deception check, leaving his Trust unaffected at +0 and respondsafter giving the required details
-‘H eh, yeah, been out on the frontier a long time. Can’t wait to get out of this tin can, the air smells like...well, heh, me.’
+'H eh, yeah, been out on the frontier a long time. Can't wait to get out of this tin can, the air smells like...well, heh, me.'
 
-Next, the Referee rolls 2d6, adds Joe’s trust DM of +0 and compares the result to the Customs Scan table. He rolls a 5, which
-is four less than the planet’s Law Level of 9. This means a Close Range Scan. The customs ship orders Joe to change course
-to fl y within 10 kilometres. He complies and the scout ship is scanned with visual, thermal, EM and active radar. He holds his
-breath... but the luxuries are safely stowed away and only the radar can penetrate his ship’s hull. He’s safe.
+Next, the Referee rolls 2d6, adds Joe's trust DM of +0 and compares the result to the Customs Scan table. He rolls a 5, which
+is four less than the planet's Law Level of 9. This means a Close Range Scan. The customs ship orders Joe to change course
+to fl y within 10 kilometers. He complies and the scout ship is scanned with visual, thermal, EM and active radar. He holds his
+breath... but the luxuries are safely stowed away and only the radar can penetrate his ship's hull. He's safe.
 
-At Regina Starport, the Referee checks the law level again. This time, he rolls a 3, a whole six less than the planet’s law
+At Regina Starport, the Referee checks the law level again. This time, he rolls a 3, a whole six less than the planet's law
 level. He has run into a particularly offi cious clerk who wants to impound the vessel until it can be searched fully. Not wanting
 to have his cargo hold examined, Joe offers a bribe of 9,000 credits. The clerk considers the offer, the Referee rerolls...and
-gets a 10. Pocketing the bribe, the clerk stamped ‘cleared’ on Joe’s falsifi ed documentation. There is another cursory scan
+gets a 10. Pocketing the bribe, the clerk stamped 'cleared' on Joe's falsifi ed documentation. There is another cursory scan
 of the cargo but the luxuries are not detected.
 
 Another successful run.
@@ -5572,7 +5572,7 @@ pods only will be detected if the sensor scan is successful.
 **Long:** N/A
 
 **Densitometers:** These can discern the shape and density of
-objects, even those inside a ship’s hull. A densitometer can
+objects, even those inside a ship's hull. A densitometer can
 detect any illegal contraband.
 **Close:** 8+ **Short:** 10+ **Medium:** 12+
 **Long:** N/A
@@ -5585,7 +5585,7 @@ Long: N/A
 If the roll is equal to or greater than the target number, the
 sensor sweep has detected something unusual. The customs
 vessel may demand that the smuggler prepare to be boarded
-or simply reduce the smuggler’s Trust by 4, ensuring a more
+or simply reduce the smuggler's Trust by 4, ensuring a more
 thorough sweep at the starport.
 
 Starport Sensor Scans: Starport sensor scans work in the
@@ -5607,7 +5607,7 @@ radar sweeps. Various upgrades provide added protection
 against sensor scans (see page 82).
 
 Physical Scans
-When a customs offi cial boards a smuggler’s ship, the smuggler
+When a customs offi cial boards a smuggler's ship, the smuggler
 is in grave danger. A physical scan is much more likely than a
 long–range sensor scan to fi nd illegal cargoes. A physical scan
 ranges from a cursory sweep with a hand–held sensor wand to
@@ -5688,13 +5688,13 @@ unique experiences. Smuggling drugs onto a world–spanning
 megacity is a very different game to smuggling weapons to a
 peasant rebellion on a feudal technocracy.
 
-One downside of smuggling games is that a ‘successful run’ is
+One downside of smuggling games is that a 'successful run' is
 also a boring one. If the characters fl y past the customs patrols
 and bypass station security without a hitch, it makes for a dull
 game. Throwing arbitrary barriers and problems is fun if done
 on a rare occasion but making something disrupt their carefully
 plotted smuggling operation every time will just frustrate the
-players (‘ what do you mean, the nuclear bomb is leaking’ ).
+players (' what do you mean, the nuclear bomb is leaking' ).
 Therefore, the Referee should assume most smuggling runs will
 go smoothly and make events around the smuggling operations
 fun and involving too. Drag the characters into business with
@@ -5719,16 +5719,16 @@ warehouse. It needs to be moved to market _immediately._ A
 thousand dtons is well beyond the capacity of the average
 smuggler. The characters will either have to recruit more
 smugglers or somehow obtain a big freighter.
-2. Boss Pallas’s son is supposed to be his heir but young Jerek
+2. Boss Pallas's son is supposed to be his heir but young Jerek
 is absolutely useless. Pallas wants the characters to train the
 boy in the criminal arts by taking him on a few smuggling runs.
 Jerek will be a liability, always saying the wrong thing and
 drawing the attention of the authorities.
-3. As above but one of Pallas’s lieutenants wants the characters
-to arrange for Jerek’s convenient death. With Pallas’s blood heir
+3. As above but one of Pallas's lieutenants wants the characters
+to arrange for Jerek's convenient death. With Pallas's blood heir
 out of the way, the old crime lord is much more likely to hand his
 organization over to one of his subordinates.
-4. Boss Pallas’s gang is feuding with a pirate band. The
+4. Boss Pallas's gang is feuding with a pirate band. The
 smugglers will have to contend with pirate attacks as well as
 customs patrols.
 5. Boss Pallas wants the characters to get caught, so they can
@@ -5775,7 +5775,7 @@ It is a Red Zone, patrolled by naval cutters and defence drones.
 The characters are hired to smuggle cargo past the blockade.
 What is the cargo? Books, blueprints, tools and supplies, an
 industrial revolution in a box that could lift the planet four TLs
-in a generation! The characters’ patron wants to transform this
+in a generation! The characters' patron wants to transform this
 primitive world – why?
 
 1. The patron believes that everyone should enjoy the benefi ts
@@ -5787,7 +5787,7 @@ but the natives do not have the legal or fi nancial wherewithal to
 deal with his needs. Therefore, step one is remake society, step
 two is buy stuff.
 3. It is all a sociological experiment by the Imperium, to study
-the effects of ‘enemy subversives’ on primitive frontier worlds.
+the effects of 'enemy subversives' on primitive frontier worlds.
 If a band of smugglers can turn a TL2 world into a TL5 world
 quickly, then other polities could do the same, turning previously
 irrelevant border worlds into potential bases.
@@ -5809,8 +5809,8 @@ opportunity for smugglers.
 
 1. The characters are hired to extract a corporate executive and
 his family from the world. They claim to be free of the plague...
-2. As above but the executive’s daughter is in love with a native
-of the planet. On hearing of her father’s plans to leave, she ran
+2. As above but the executive's daughter is in love with a native
+of the planet. On hearing of her father's plans to leave, she ran
 
 away and is now somewhere in the plague–ridden megacity.
 The characters need to fi nd her before they can leave.
@@ -5818,7 +5818,7 @@ The characters need to fi nd her before they can leave.
 3. The characters are hired to deliver anti–viral drugs to
 uninfected sections of the planet. The neighboring worlds are
 stockpiling their own supplies of these drugs and do not want to
-waste them on a ‘doomed planet’.
+waste them on a 'doomed planet'.
 4. As above but the patron is a shady criminal who stole the
 drugs and wants to deliver them only to the rich and powerful.
 5. The virus is much more dangerous than expected. Everyone
@@ -5828,14 +5828,14 @@ neighboring worlds will only work on a vaccine if the virus
 threatens them, so the government of the affected world wants
 to covertly spread the plague.
 
-Smuggler’s Prize
+Smuggler's Prize
 An infamous smuggler ship, the Clavid, was lost 100 years ago.
 She was carrying a fabulously valuable but highly illegal cargo
-when she misjumped. Now, the Clavid’s been sighted by a scout
+when she misjumped. Now, the Clavid's been sighted by a scout
 ship and the chase is on. Can the characters recover the Clavid
 and her cargo before the navy impound her?
 
-1. The Clavid’s cargo consists of stolen art, including an alien
+1. The Clavid's cargo consists of stolen art, including an alien
 relic. This relic caused the misjump.
 2. The navy want to retrieve the Clavid, not destroy it. Even if
 the characters lose the race, they may be able to take the prize
@@ -5905,7 +5905,7 @@ Just because you have found a fence does not mean that he
 can purchase all your stolen goods. A back–street electronics
 broker might be able to buy a hand computer that you looted
 from the corpse of a defeated guard but cannot buy the 50 tons
-of electronics you stole from the cargo hold of a trader. A fence’s
+of electronics you stole from the cargo hold of a trader. A fence's
 purchasing capability is the cap on how much the fence can
 afford to pay in any given month.
 
@@ -5973,7 +5973,7 @@ in addition to the standard DMs for trade.
 
 This means most goods sold through a fence will have a –4DM
 at least and most stolen items will have a –8DM. Characters are
-very unlikely to get anything close to the ‘real’ price for ill–gotten
+very unlikely to get anything close to the 'real' price for ill–gotten
 gains.
 
 ###### FFFENCESENCESENCES ANDANDAND I I ILLEGALLLEGALLLEGAL G G GOODSOODSOODS
@@ -5982,14 +5982,14 @@ Determining Base Price
 When selling stolen cargo, use the standard prices from the
 _Traveller Core Rulebook_. When selling equipment, use the
 standard prices but assume that all stolen equipment counts
-as ‘damaged or second–hand’ and so incurs a –4DM to the
+as 'damaged or second–hand' and so incurs a –4DM to the
 Sale price roll. Most stolen equipment counts as Advanced
 Manufactured Goods.
 
 Next, roll 3d6, adding the following DMs:
 
-- +The character’s Broker skill
-- +The character’s Intelligence or Social Standing DM,
+- +The character's Broker skill
+- +The character's Intelligence or Social Standing DM,
     whichever is higher
 - +The largest DM from the Sale Price DM column
 - –The largest DM from the Purchase Price column
@@ -6077,7 +6077,7 @@ Robots +0 –4 –0 –4
 Vacc Suits –1 –4 –4 –9
 Accelerator Rifl es +2 –4 –4 –6
 
-The Referee then rolls 3d6, adding Kern’s Broker skill (+3), his
+The Referee then rolls 3d6, adding Kern's Broker skill (+3), his
 Intelligence DC (+0) and the DMs on the table above. Harri is a
 Very High fence and applies a –3 DM.
 
@@ -6118,8 +6118,8 @@ PCs (roll 1d6) 1 – a dog, 2 – drugs, 3 – guns, 4
 tattoos and combat augmentations; will kill the
 Player Characters if they cross him.
 
-12 Scrap dealer; eyes up the PCs’ vessel as if
-appraising how much it’s worth
+12 Scrap dealer; eyes up the PCs' vessel as if
+appraising how much it's worth
 
 42 The fence conducts all his business via comms
 and computer link; the characters never see his
@@ -6203,7 +6203,7 @@ trader.
 
 65 Local noble, engaged in illegal trade to prop up his
 failing control of the planet.
-36 Takes an interest in the characters’ fortunes and
+36 Takes an interest in the characters' fortunes and
 suggests other heists for them.
 
 66 Fence is actually a government agent.
@@ -6216,44 +6216,44 @@ Entries 11–26 are especially suitable for small–scale fences; entries 41–6
 
 Items marked with a (!) after the price are considered suspicious
 if purchased by a civilian, as their primary use is by criminals.
-They may still be purchased if the planet’s Law Level permits it
+They may still be purchased if the planet's Law Level permits it
 but unless characters use a black–market supplier or contact,
 they may be noticed by the authorities.
 
 Armor & Clothing
-**Boarder’s Vacc Suit (TL9):** Half–way between the standard
-vacc suit and the HEV suit, the boarder’s vacc suit incorporates
+**Boarder's Vacc Suit (TL9):** Half–way between the standard
+vacc suit and the HEV suit, the boarder's vacc suit incorporates
 high–burn, short–range thrusters, improved body armor,
 magnetic grapples and an arm–mounted blade and snub
 pistol.
 
 **Cargo Waldo (TL9):** This is a exoskeletal framework that fi ts
-around the wearer’s limbs and greatly increases his strength,
+around the wearer's limbs and greatly increases his strength,
 allowing him to lift heavy loads. The basic cargo waldo is open
-and provides minimal protection but increases the wearer’s
-Strength by +6. The waldo reduces the wearer’s Dexterity by 4
+and provides minimal protection but increases the wearer's
+Strength by +6. The waldo reduces the wearer's Dexterity by 4
 and gives a –4 penalty to Initiative.
 
 A character may wear a vacc suit or cloth armor while wearing
 a cargo waldo but the Dexterity penalty is increased to –6.
 
 **TL13:** This more advanced waldo is quicker and easier to
-use. It increases the wearer’s Strength by +6 but only reduces
+use. It increases the wearer's Strength by +6 but only reduces
 Dexterity and Initiative by –2. The TL13 waldo design also
 includes a vacc suit, making it better suited for use in vacuum.
 
 **Climbing Exoskeleton (TL10):** This is a lightweight
 exoskeleton, small enough to be worn under most clothing and
-fl exible enough to bend with the user’s body. When activated,
+fl exible enough to bend with the user's body. When activated,
 parts of the exoskeleton stiffen to bear weight, making climbing
 easier. The hands, feet and kneepads of the exoskeleton have
-synthetic setae (bristles) that allow the suit to ‘stick’ to a wall. A
+synthetic setae (bristles) that allow the suit to 'stick' to a wall. A
 
 climbing exoskeleton gives a +4DM to any climbing attempts.
 
 Chameleon Suit (TL9): The basic IR Chameleon Suit is a
 simplifi ed version of the IR chameleon option (see the Traveller
-Core Rulebook , page 89); the suit hides the user’s heat traces,
+Core Rulebook , page 89); the suit hides the user's heat traces,
 making him invisible to infrared (Very Diffi cult (–4) to detect with
 sensors). The suit also muffl es heartbeat, breathing and other
 noises that might be detected, giving a –2DM to attempts to
@@ -6274,10 +6274,10 @@ will be baffl ed by the cloak.
 
 Neural Hood (TL15 ): Neural hoods are an experimental
 variation on NAS Sensors but the design has leaked into
-the criminal underworld. A Neural Hood shields the wearer’s
+the criminal underworld. A Neural Hood shields the wearer's
 brainwaves and prevents them from being detected by a NAS
 Scanner. It can also be programmed with a NAS scan of another
-individual; a NAS Scanner will perceive the hood’s wearer to be
+individual; a NAS Scanner will perceive the hood's wearer to be
 that individual, fooling the scanner.
 
 The Neural Hood also blocks telepathy, rendering the wearer
@@ -6286,7 +6286,7 @@ immune to the Telepathy talent.
 **ARMOR & CLOTHING**
 
 **Armor Type Protection Required Skill Cost (Cr.) Mass (kg)**
-Boarder’s Vacc Suit 8 Vacc Suit 1 10,000(!) 26
+Boarder's Vacc Suit 8 Vacc Suit 1 10,000(!) 26
 Cargo Waldo (TL9) 2 None 25,000 80 (10)*
 Cargo Waldo (TL13) 7 Vacc Suit 0 40,000 80 (4)*
 Climbing Exoskeleton (TL10) 1 None 5,000 8 (0)*
@@ -6311,7 +6311,7 @@ a densitometer cloak into a suit of armor. It costs Cr. 25,000.
 
 Augments
 **Concealed Blades (TL9):** These are small, virtually undetectable
-blades that are concealed within the user’s fi ngertips. The
+blades that are concealed within the user's fi ngertips. The
 blades are razor–sharp and increase hand–to–hand damage
 by +1. Furthermore, they can be very useful for picking locks,
 cutting wires and so forth. Cr. 20,000.
@@ -6321,8 +6321,8 @@ rays, as the blades are concealed within the distal phalange
 bones. Cr. 30,000(!).
 
 Intrusion Interface (TL13): This is a specialized form of skill
-augmentation, where the user’s neurons are stripped to reduce
-his reaction time and optimise his brain for hacking. A character
+augmentation, where the user's neurons are stripped to reduce
+his reaction time and optimize his brain for hacking. A character
 must have a wafer jack or TL12 Neural Comm to benefi t from
 an intrusion interface. An intrusion interface gives a +2DM to all
 hacking attempts but if the user fails a Computers roll against
@@ -6342,13 +6342,13 @@ the wearer to turn the tattoos on and off with a thought. At this
 TL, the tattoos can also be made animated or bioluminescent.
 
 Communications
-Electronic Thumb (TL10): The ‘electronic thumb’ is a compact,
+Electronic Thumb (TL10): The 'electronic thumb' is a compact,
 powerful transceiver used by drifters and hitchhikers. The
 thumb has an extremely long range but cannot be used to
 send a message easily – it just sends out an easily detectable
-high–intensity radio pulse that basically says ‘I AM HERE AND
-I WANT A LIFT!’ An electronic thumb has a range of 45 million
-kilometres and has a mass of 8kg. Costs Cr. 5,000.
+high–intensity radio pulse that basically says 'I AM HERE AND
+I WANT A LIFT!' An electronic thumb has a range of 45 million
+kilometers and has a mass of 8kg. Costs Cr. 5,000.
 
 Narrowcast Comm (TL+2): This is a variation on the standard
 comm models (see the Traveller Core Rulebook , page 90) that
@@ -6361,13 +6361,13 @@ detect or intercept the communication. The cost is twice that of
 the basic model.
 
 Narrowcast Relay (TL12): A pack of narrowbeam relays
-contains 20 ‘slap patches’. Each patch is the size of a fi ngertip
+contains 20 'slap patches'. Each patch is the size of a fi ngertip
 and contains a tiny laser and a receiver. Narrowcast relays are
 used in places where a narrowcast comm would have trouble
 communicating with other comms. For example, if there is an
 intervening wall, there is no path for a laser narrowcast to reach
 the receiver. Placing a narrowcast relay atop the wall lets the
-beam ‘hop’ over the obstacle. Chains of narrowcast relays may
+beam 'hop' over the obstacle. Chains of narrowcast relays may
 be created. A pack of 20 costs Cr. 100.
 
 Medical Supplies & Drugs
@@ -6435,8 +6435,8 @@ and cannot be rewritten or changed but is cheaper. All Intrusion
 Decks are specialized for running the Intrusion program.
 
 a painkiller with a rating of 12, then the fi rst 12 damage to any
-characteristic does not affect the character’s DMs. However, if
-the character takes more than 12 damage, then the painkiller’s
+characteristic does not affect the character's DMs. However, if
+the character takes more than 12 damage, then the painkiller's
 effects are lost and all the effects of damage are felt normally.
 Note that this means that a character using painkillers may
 have a sudden catastrophic loss of characteristic DMs instead
@@ -6547,9 +6547,9 @@ Hardened Military computer, outdoor camera 12+ Temporary shutdown
 
 A can of bugzapper gas costs Cr. 1,000(!) and has six sprays.
 
-**Grav Fuzzer (TL13):** A poor man’s Densitometer Cloak, a
+**Grav Fuzzer (TL13):** A poor man's Densitometer Cloak, a
 grav fuzzer is a small portable device that creates extremely
-weak gravitational distortions within a fi ve–metre radius. These
+weak gravitational distortions within a fi ve–meter radius. These
 distortions are undetectable to humans (despite what some
 people claim) but do prevent densitometers and other gravitic
 sensors from determining what it within that area. The distortion
@@ -6558,7 +6558,7 @@ fi eld itself is obvious to a densitometer. Cr. 5,000, 2kg.
 Tools
 **Smartrope (TL11):** Smartrope is an improved form of normal
 rope. A smartrope contains a series of electrically activated
-myomer ‘muscles’ along its length, allowing it to be commanded
+myomer 'muscles' along its length, allowing it to be commanded
 using a simple control panel. The rope could be commanded
 
 to coil itself, to retract or extend by up to 50% of its normal
@@ -6568,13 +6568,13 @@ a controller module that plugs in anywhere along the rope but
 there are remote smartropes available.
 
 Smartrope can be commanded to wriggle forward but it moves
-extremely slowly (about one metre every minute) and tends to
+extremely slowly (about one meter every minute) and tends to
 get tangled up (roll 8+ on 2d6 every minute to avoid this). It has
-an effective Strength of 8 (+1). A 50–metre length of smartrope
+an effective Strength of 8 (+1). A 50–meter length of smartrope
 costs Cr.2,000.
 
 Wrecker Bar (TL5+): The iconic tool of the scavenger, a wrecker
-bar is a 1.5 metre–long bar of metal with a hooked head at one
+bar is a 1.5 meter–long bar of metal with a hooked head at one
 end, used for tearing objects or vehicles apart. The other end
 can be fi tted with a number of attachments.
 
@@ -6598,7 +6598,7 @@ Wrecker Bar 5 Melee
 2d6 2 3 60
 
 Toolkits
-**Thieves’ Tools:** A set of thieves’ tools includes all manner of
+**Thieves' Tools:** A set of thieves' tools includes all manner of
 lockpicks, wirecutters, probes and electronic sensors. It costs
 Cr. 2,000(!) and weighs 6kg.
 
@@ -6612,14 +6612,14 @@ Forgery Kit: Necessary for the use of the Forgery skill. Cr.
 
 Weapons
 Boarding Cutter: The primary purpose of this cutting torch is to
-cut through an airlock door or part of a ship’s hull but it can be
+cut through an airlock door or part of a ship's hull but it can be
 used as a devastating close–range weapon.
 
 Grappling Hook Gun: This gas–driven pistol fi res a light–
-weight grappling hook up to 50 metres. It can also be used as a
+weight grappling hook up to 50 meters. It can also be used as a
 weapon in emergencies but is of limited effectiveness.
 TL12: Upgrades to a gauss–driven launcher, increasing range
-to 200 metres.
+to 200 meters.
 
 Sawn–Off Shotgun: This shotgun has a different range profi le
 and is easier to conceal.
@@ -6709,7 +6709,7 @@ external cargo and how much will be enclosed by the hull.
 
 Hull components and pricing are determined as normal. Ships
 with external cargo may not be Streamlined or Distri buted.
-Remember, the drives must be capable of moving the ship’s
+Remember, the drives must be capable of moving the ship's
 total displacement, not just the displacement of the smaller hull.
 
 The cost of the cargo frame is 1,000 Cr./dTon.
@@ -6733,7 +6733,7 @@ remotely. The framework is built with explosive bolts, allowing
 specifi c cargo canisters to be released if necessary.
 
 Internal Components
-Concealed Compartment: Up to 5% of a ship’s volume may
+Concealed Compartment: Up to 5% of a ship's volume may
 be designated as a concealed compartment. A concealed
 compartment costs an extra Cr. 20,000 per ton. The concealed
 compartment is shielded from detection (–2DM to Sensors
@@ -6786,7 +6786,7 @@ ton ship requires M–Drive F.) The high–burn thruster weighs
 20% and costs 20% of that M–Drive (2.2 tons and 4.8MCr, in
 the case of a M–Drive F).
 
-Thrusters require fuel depending on the thruster’s drive number.
+Thrusters require fuel depending on the thruster's drive number.
 Fuel equal to 25% of the mass of the drive gives enough for
 one full hour of operation (10 space combat turns). Fuel costs
 10,000 Cr./ton. A high–burn thrusters may not operate for more
@@ -6799,17 +6799,17 @@ External Components
 
 # TTRAMPSRAMPS ANDAND T THIEVESHIEVES
 
-The notion of a ‘pirate ship’ or ‘drifter ship’ is largely nonsensical. Pirates use common trader ships, refi tted with added weapons
+The notion of a 'pirate ship' or 'drifter ship' is largely nonsensical. Pirates use common trader ships, refi tted with added weapons
 and boarding gear. Drifters take passage on whatever ships will carry them. That said, there are a few designs uniquely associated
 with these groups; the pirate corsair and the Seeker–class miner are the most common but there are also pirate ships like the
 _Buccaneer–_ class Interceptor or the Blockade Runner.
 
 In addition to these ships, this chapter covers customs inspection vessels and q–ships.
 
-Hey, What’s With The Cheap Fighters?
+Hey, What's With The Cheap Fighters?
 Several designs in this book use 10–ton fi ghters, which cost 18MCr according to the Traveller main rulebook. The High Guard
 supplement contains revised design rules for small craft and recalculates the price for a 10–ton fi ghter to 9.837MCr. Similarly
-the lower costs for the ship’s boat and launch are also used.
+the lower costs for the ship's boat and launch are also used.
 
 Smuggler
 This is a refi t of the venerable 200–ton Type A Free Trader. It strips the staterooms and low berths to cram in extra concealed cargo
@@ -6948,7 +6948,7 @@ Cost
 ###### TTRAMPSRAMPS ANDAND T THIEVESHIEVES
 
 External Cargo Trader
-This ungainly vessel has been described as a ‘spider sitting on a brick’ but even that is much too poetic for such an ugly ship. The
+This ungainly vessel has been described as a 'spider sitting on a brick' but even that is much too poetic for such an ugly ship. The
 engines, jump drive, fuel tanks and, almost as an afterthought, the crew section are all crammed into the 300–ton hull, while the
 500–ton cargo module (comprising 50 tons of fuel and 450 tons of cargo) is held in a framework of struts and spines. A 40–ton slow
 pinnace nestles in the midst of the cargo. This small craft is used for carrying cargo to worlds without a High Port or shuttle fl eet.
@@ -7152,9 +7152,9 @@ Total Tonnage & Cost 200 82,937,000
 Pirate Carrier, Indigo class
 The 300–ton ship is a tiny light carrier. It carries ten 10–ton fi ghters in docking clamps along its outer hull. These fi ghters, each
 armed with a single pulse laser, fl y out and attack the target while the carrier fl ies along behind. The fi ghters blast the target to
-pieces and the debris is scooped up by the carrier’s cargo net.
+pieces and the debris is scooped up by the carrier's cargo net.
 
-As the carrier is quite slow, it can expect to be intercepted by customs vessels. The six fi ghters and the carrier’s own turrets can
+As the carrier is quite slow, it can expect to be intercepted by customs vessels. The six fi ghters and the carrier's own turrets can
 see off most customs vessels long enough for the carrier to jump. Common refi ts replace some of the fi ghters and cargo with an
 expanded drive section, giving the carrier a much more respectable acceleration. Drives and fuel assume that the fi ghters are
 carried in their clamps, giving a total size of 400 tons. Normal crew consists of a captain, 2 pilots, a navigator, 2 engineers, 3
@@ -7225,7 +7225,7 @@ Cost
 ###### TTRAMPSRAMPS ANDAND T THIEVESHIEVES
 
 Heavy Belter, Finder class
-Nicknamed the ‘worm’, this cylindrical ship is a fl ying factory. It has jump–2 range, allowing it to travel off the jump mains in search
+Nicknamed the 'worm', this cylindrical ship is a fl ying factory. It has jump–2 range, allowing it to travel off the jump mains in search
 of undeveloped asteroid belts. It carries 30 tons of mining drones to chop up and process ore. The 20–ton launch is sometimes
 used to haul ore to a trading station but more often the miners just take it on joy rides to stave off boredom. For defence, the ship
 has a lone turret with twin pulse lasers; these lasers are also adapted for mining. Normal crew consists of a captain, navigator, pilot,
@@ -7283,7 +7283,7 @@ Total Tonnage & Cost 300 85,917,600
 
 Salvage Hauler, Bug class
 One of the most distinctive designs in known space, the _Bug_ is easily recognized by the two grappling arms at the front of the ship.
-The _Bug_ can rip pieces of salvage off a wrecked hulk and feed them into its ‘mouth’, a cargo opening at the prow. The bulbous
+The _Bug_ can rip pieces of salvage off a wrecked hulk and feed them into its 'mouth', a cargo opening at the prow. The bulbous
 cockpit and stinger–like turret reinforce this insectoid impression. The hauler has an excellent cargo capacity and a 2–parsec jump
 range, allowing it to double as a trader. In addition to the 20–ton launch, the hauler has a set of probe drones for investigating
 wrecked ships. Normal crew consists of a captain, pilot, navigator, engineer and gunner.
@@ -7346,17 +7346,17 @@ Total Tonnage & Cost 300 86,952,600*
 ###### TRAMPS AND THIEVES
 
 Passenger Cruiser, Genevieve class
-‘Cruiser’ is perhaps a misnomer – this mid–sized
+'Cruiser' is perhaps a misnomer – this mid–sized
 vessel is more like a commercial airliner making
 short hops between worlds. It has a respectable
 jump–3 range, while the 2G thrust capacity reduces
 the travel time between arrival in the target system
 and debarkation (express passengers may use
-the ship’s boat to cut the travel time down even
+the ship's boat to cut the travel time down even
 more). A ship of this size normally has a crew of 25
 (captain, 3 pilots, navigator, 3 engineers, 2 medics,
 3 small craft crew and 12 stewards) and carries 64
-‘live’ passengers. There are also 100 low berths,
+'live' passengers. There are also 100 low berths,
 although these can be removed to make room for
 more cargo space.
 
@@ -7384,7 +7384,7 @@ Cargo 125 tons 125 —
 Extras Luxuries 20 2,000,000
 Escape Pods x 82 41 8,200,000
 Vehicles Launch x 2 40 27,138,000
-Ship’s Boat 30 17,829,000
+Ship's Boat 30 17,829,000
 Software Maneuver/0 Rating 0 — —
 Library/0 Rating 0 — —
 Jump/3 Rating 15 — 300,000
@@ -7461,10 +7461,10 @@ Total Tonnage & Cost 50 30,717,000*
 ###### TTRAMPSRAMPS ANDAND T THIEVESHIEVES
 
 Customs Patrol Cutter, Rattler class
-The _Rattler_ class is a pirate’s nightmare. At 600 tons, it is bigger than any pirate corsair but is faster and much more heavily armored.
+The _Rattler_ class is a pirate's nightmare. At 600 tons, it is bigger than any pirate corsair but is faster and much more heavily armored.
 The _Rattler_ has the most advanced electronics money can buy, as well as plenty of cargo and stateroom space for combat marines.
 The _Rattler_ serves as the mothership for three _Grassnake_ patrol boats but has plenty of fi repower of its own. Five turrets would
-be impressive enough but it is the massive fusion gun along the ship’s spine that lifts the _Rattler_ from _threatening_ to _devastating_.
+be impressive enough but it is the massive fusion gun along the ship's spine that lifts the _Rattler_ from _threatening_ to _devastating_.
 _Rattlers_ are normally seen only in rich, high–technology systems; occasionally, they are shipped to other systems to deal with a
 particularly dangerous piracy problem. The normal crew consists of a captain, 3 pilots, 2 engineers, 6 gunners and 10 marines.
 
@@ -7545,10 +7545,10 @@ Cost
 
 Q–Ship
 A Q–ship is a merchant vessel refi tted with weapons to entrap pirates and this particular model is a very nasty surprise for any
-corsair. It is based on the Type R ‘fat trader’ hull, a particular tempting target for pirates. The basic Type R is slow, unarmored,
+corsair. It is based on the Type R 'fat trader' hull, a particular tempting target for pirates. The basic Type R is slow, unarmored,
 lightly armed and full of rich cargo and from the outside, the Type RQ looks identical to its parent.
 
-In combat, the differences become immediately apparent. The ‘cargo hold’ actually contains four 10–ton fi ghters, concealed by thin
+In combat, the differences become immediately apparent. The 'cargo hold' actually contains four 10–ton fi ghters, concealed by thin
 metal panels that are jettisoned. The ship is protected by 40 tons of crystaliron armor. Advanced sensors and computers let the
 crew track and eliminate pirate threats, while four concealed triple turrets give the Q–ship a devastating punch and with a large
 complement of marines it can quickly overwhelm any pirate vessel it can attach its breaching tube to. Normal crew consists of a
@@ -7658,10 +7658,10 @@ asteroids are clustered.
 **N Zone:** The inner belt. This band contains predominately M
 class planetoids and debris, usually with a high concentration
 of nickel–iron, hence the N designation. The N zone occurs
-roughly 1.25 times the star’s optimum zone for supporting life
+roughly 1.25 times the star's optimum zone for supporting life
 
-- so, in the case of our own solar system, the N zone of Sol’s
-asteroid belt occurs 187 million kilometres from the sun.
+- so, in the case of our own solar system, the N zone of Sol's
+asteroid belt occurs 187 million kilometers from the sun.
 
 **M Zone:** The mid belt. A zone of transition between the N and
 C zones, here the asteroids and planetoids are a mixture of M
@@ -7750,8 +7750,8 @@ Resource Yield.
 ###### BBBELTELTELT M M MININGININGINING
 
 Asteroid Size and Yield
-Roll 2D twice: once for the object’s size and again for the object’s Resource Yield. The Resource Yield indicates the percentage
-of the object’s mass that has been determined in the Resource Presence Table. Remember to apply any DMs for Dense materials
+Roll 2D twice: once for the object's size and again for the object's Resource Yield. The Resource Yield indicates the percentage
+of the object's mass that has been determined in the Resource Presence Table. Remember to apply any DMs for Dense materials
 or Exotics.
 
 Roll 2d6 Size/Extent (tons)
@@ -7765,14 +7765,14 @@ Survey Time
 6 10,000 3 – 4D%
 7 1,000,000 3 – 4D%
 8 Small Planetoid 4 2D x100
-metres
+meters
 
 4D%
 
-9 Small Planetoid 5 2D+1 x100 metres 10+6D%
-10 Small Planetoid 5 2D+2 x100 metres 20+6D%
-11 Large Planetoid 10 2D–1 kilometres 30+6D%
-12 Large Planetoid 10 2D kilometres 60+6D%
+9 Small Planetoid 5 2D+1 x100 meters 10+6D%
+10 Small Planetoid 5 2D+2 x100 meters 20+6D%
+11 Large Planetoid 10 2D–1 kilometers 30+6D%
+12 Large Planetoid 10 2D kilometers 60+6D%
 
 Mining Asteroids
 Belters use a variety of tools, from manual mining using hand–held lasers to remotely operated mining drones to huge mining
@@ -7825,8 +7825,8 @@ concerns regularly employ private security forces.
 Of course, a belter has a much bigger chance of dying because
 of a mining accident or blown airlock seal than because
 of violence. Belters spend hundreds of hours in tiny metal
-bubbles, tens of millions of kilometres from the nearest world,
-separated from the endless vacuum by only a few centimetres
+bubbles, tens of millions of kilometers from the nearest world,
+separated from the endless vacuum by only a few centimeters
 of metal. Between these long lonely sojourns in the belt, the
 miners congregate in settlements cut out of larger planetoids. If
 the belt is the Wild West, then these planetoids are one–horse
@@ -7912,7 +7912,7 @@ odd job into an adventure.
 **Patron:** Grendel Thorn, Scrapper
 **Description:** The wreck of an old 800–ton freighter, the _Mirabel_ ,
 is in orbit. The jump drives and other key components have
-already been stripped but there are still thousands of kilometres
+already been stripped but there are still thousands of kilometers
 of fi bre–optic cabling, superconductive power cables, jump
 gridding, computer terminals and other salvageable parts. The
 ship lacks life support, gravity and power; here is a vacc suit
@@ -7923,10 +7923,10 @@ atmosphere and start burning up in a few weeks.
 1. The _Mirabel_ was a former smuggler ship and there is still
 valuable cargo hidden in a concealed compartment. A band of
 smugglers knows this and intends to retrieve the cargo.
-2. The _Mirabel_ ’s jump drives were not removed and a random
-fl uke in the ship’s decaying power plant causes it to misjump
+2. The _Mirabel_ 's jump drives were not removed and a random
+fl uke in the ship's decaying power plant causes it to misjump
 with the salvage team on board.
-3. One of the _Mirabel’s_ crew is still stowing away on board the
+3. One of the _Mirabel's_ crew is still stowing away on board the
 wrecked ship. He is looking for some hidden treasure on board,
 
 such as a jump map to a rich asteroid belt or treasure cache. He
@@ -7941,29 +7941,29 @@ patch the holes in the hull, fi x the fried computer and fi ll up the
 hydrogen tanks and you might be able to fl y her again. Do the
 characters want to try stealing the wreck?
 6. Grendel Thorn made a slight miscalculation when he plotted
-the _Mirabel’s_ orbit. The ship hits the atmosphere and begins
+the _Mirabel's_ orbit. The ship hits the atmosphere and begins
 re–entry with the characters on board...
 12. Concession Stand
 **Skills Required:** Broker, Persuade, Streetwise
 **Patron:** Alecca Broom, Trader
 **Description:** Alecca has a 50–year lease on a booth in the
-starport’s main concourse, which she sublets to other traders.
+starport's main concourse, which she sublets to other traders.
 Unfortunately, the last trader she rented the booth to was
 arrested for fraud and one of the obscure clauses in her lease
 states that the booth has to be occupied for at least 95% of the
 year. She needs a business – _any_ business – to occupy the
 booth for a few weeks while she fi nds a real tenant.
-**Reward:** Whatever profi t the character’s make, plus Cr. 100/
+**Reward:** Whatever profi t the character's make, plus Cr. 100/
 week.
 **Complications:**
-1. One of the other traders in the starport covets Broom’s lease
+1. One of the other traders in the starport covets Broom's lease
 and will sabotage whatever business the characters come up
 with.
 2. There is a remarkably annoying and offi cious health inspector
 at the starport named Steanus Chwat, who will poke his nose
 into whatever the characters are doing.
 3. Broom is actually running a front for an organised crime
-syndicate; whatever the characters’ business is, it will be visited
+syndicate; whatever the characters' business is, it will be visited
 by shady characters and smuggled goods.
 4. It is a front for an organised crime syndicate all right but
 Broom had no idea what was going on. The previous tenant
@@ -7990,12 +7990,12 @@ keeping order.
 **Reward:** Cr. 750/week.
 **Complications:**
 1. A gang of thieves intends to steal a ship from the starport
-hangars. The thieves’ plan is to cut through the starport fence,
+hangars. The thieves' plan is to cut through the starport fence,
 start a fi re near the hydrogen storage tanks and then break into
 the hangar while the guards are distracted by the blaze.
 2. Weapons are banned in the starport bar for everyone –
 including security guards but there is a brawl involving a Vargr.
-Everyone else in the brawl is using fi sts and chairs; the Vargr’s
+Everyone else in the brawl is using fi sts and chairs; the Vargr's
 got lethal teeth and claws.
 3. A local religious or political group starts protesting just outside
 the starport, complaining about the infl uence of offworlders.
@@ -8012,7 +8012,7 @@ The lone scout on board is in a coma; something poisoned him
 and he obviously barely escaped with his life. What if that same
 danger is now loose on the starport?
 6. A smuggler band is using the starport to fence goods. They
-offer to cut the characters in on the action if they ‘overlook’ a
+offer to cut the characters in on the action if they 'overlook' a
 few shipments.
 14. Vermin Control
 **Skills Required:** Animals, Sensors, Melee
@@ -8029,7 +8029,7 @@ that is immune to conventional poisons. Sometimes, the only
 way to get rid of the bugs is to hunt them down.
 **Reward:** Cr. 250/day.
 **Complications:**
-1. The vermin are hunting spiders the size of a man’s hand.
+1. The vermin are hunting spiders the size of a man's hand.
 They are also poisonous, with fangs that can punch through a
 vacc suit.
     2. The vermin are a colony of insects that breed at prodigious
@@ -8037,7 +8037,7 @@ vacc suit.
     somewhere on the ship...
     3. The vermin are carrying a dangerous disease. If the characters
     are infected, they will have to be quarantined.
-    4. The vermin are actually the ship’s cargo – they were intended
+    4. The vermin are actually the ship's cargo – they were intended
     as pets but they have escaped. The characters need to hunt
     down the cute fuzzy–wuzzy things without killing them.
     5. The vermin are actually sentient; they have a hive mind. The
@@ -8060,7 +8060,7 @@ vacc suit.
     be littered with corpses hacked apart in honor duels.
     2. The alien visitors have trouble distinguishing between one
     human and another. _You all look the same to us_.
-    3. The visitors are actually scouting the starport’s defences for
+    3. The visitors are actually scouting the starport's defences for
     an invasion.
     4. The aliens are all telepathic and fi nd human emotions painful
     and wildly uncontrolled.
@@ -8089,7 +8089,7 @@ vacc suit.
 3. While the characters are on board a ship, they discover that
 the captain has left the security system offl ine. The characters
 could steal the ship with ease...
-4. An organised crime syndicate targets one of the characters’
+4. An organised crime syndicate targets one of the characters'
 Contacts, Allies or family members, planning to kidnap the
 target and use him as leverage to force the characters to let
 contraband through.
@@ -8104,7 +8104,7 @@ unusual on board – not illegal but very unusual or suspicious.
 **Patron:** Starport Administrator Theyd Alin
 **Description:** When a big transport ship comes through, it brings
 hundreds of deep–frozen passengers in low berths. A medic
-is needed to revive these passengers safely but the starport’s
+is needed to revive these passengers safely but the starport's
 medical staff are severely overworked. In addition to medics,
 technicians are needed to fi x failing low berths and counsellors
 to calm disturbed or terrifi ed people who have just been thawed
@@ -8114,7 +8114,7 @@ out while their legs are still frozen.
 1. One of the passengers being transported is an extremely
 dangerous criminal, a serial killer with psionic powers. He is
 supposed to be defrosted only in a maximum security prison.
-Unfortunately, the ship’s passenger manifest was damaged and
+Unfortunately, the ship's passenger manifest was damaged and
 no–one is quite sure which berth he is in...
 2. The characters come across a passenger who died in the
 low berth. Strangely, his identity papers show him to be a minor
@@ -8129,12 +8129,12 @@ death. He is not supposed to survive.
 5. This low berth has been deliberately sabotaged. The dead
 occupant was the agent of a trading corporation. Who killed her
 and why?
-6. One of the character’s Enemies is in the low berth! All it would
+6. One of the character's Enemies is in the low berth! All it would
 take to remove this long–running foe is the fl ick of a switch...
 22. TAS Stringers
 **Skills Required:** Investigate, Comms, Art (writing)
-**Patron:** The Traveller’s Aid Society
-**Description:** The Journal of the Traveller’s Aid Society is one
+**Patron:** The Traveller's Aid Society
+**Description:** The Journal of the Traveller's Aid Society is one
 of the most respected and widely–read publications in the
 Imperium. Assembled from the reports of TAS members and
 journalists, JTAS prides itself on being an indispensable guide
@@ -8150,14 +8150,14 @@ an offi cial news blackout. The Imperial navy has discovered
 something unusual and the x–boat network has been ordered
 not to carry information out of the subsector.
 2. A corporation approaches the characters, offering them a bribe
-if they will report favourably on the corporation’s increasingly
+if they will report favorably on the corporation's increasingly
 disastrous effort to terraform a border world. The corporation is
 trying to attract settlers to the planet.
 3. JTAS sends the characters a packet of tickets for bizarre
 tourist attractions across the subsector; they need to review
-attractions like the Sector’s Largest Ball of Monofi lament Wire
+attractions like the Sector's Largest Ball of Monofi lament Wire
 or the birthplace of some long–forgotten grand duke, where the
-duke’s brain is kept in storage and rubbed for good luck.
+duke's brain is kept in storage and rubbed for good luck.
 4. A pirate band targets the characters, planning to force them
 to write articles that will attract vulnerable passenger traffi c to
 an out–of–the–way system.
@@ -8211,7 +8211,7 @@ The characters and passengers need to survive until rescued.
 **Complications:**
 1. Vargr. _Drunk_ Vargr.
 2. An old belter wanders into the bar and drunkenly tells the
-characters about a ‘ghost ship’ that jumps into the system on
+characters about a 'ghost ship' that jumps into the system on
 moonless nights. Well, not moonless nights, obviously. but only
 rarely. Anyway, it is a _ghost ship._ Really it is. He will even tell the
 characters where to fi nd it if they give him another drink.
@@ -8219,14 +8219,14 @@ characters where to fi nd it if they give him another drink.
 Actually cleaning the place is impossible – the dirt here is so old
 it is of archaeological signifi cance – so the characters will need
 to fi nd some other way of dealing with the problem.
-4. ‘ _Make me a Lunion Sunburst’_ demands the drunken noble.
+4. ' _Make me a Lunion Sunburst'_ demands the drunken noble.
 The bar computer has no record of such a cocktail. What do the
 characters do?
 5. A corporation offers the characters a bonus if they can sell
-their new drink to the bar’s clientele.
+their new drink to the bar's clientele.
 6. While in the bar, the characters overhear a shadowy patron
 offer a job to a group of Travellers. Do the characters try to steal
-someone else’s plot hook?
+someone else's plot hook?
     25. Undercover Agents
     **Skills Required:** Deception, Stealth, Investigate
     **Patron:** Undersecretary Molder, Imperial Ministry of Trade
@@ -8262,7 +8262,7 @@ someone else’s plot hook?
     **Patron:** Any
     **Description:** Some days, it seems like every starport bar has
     a mysterious fi gure lurking in a corner, looking for a bunch of
-    ‘ethically challenged merchants’ or mercs for hire. This patron
+    'ethically challenged merchants' or mercs for hire. This patron
     might be an eccentric noble, a corporate agent, another
     merchant, a spy, a revolutionary or a prophet, an alien or a
     madman. Anyway, even the mysterious fi gure in the corner
@@ -8314,8 +8314,8 @@ fren is much more intelligent than the rest.
 5. These fren are actually genetically engineered by a
 corporation for faster growth. A rival corporation wants samples
 of their DNA.
-6. As above but ‘faster growth’ ends up meaning ‘carnivorous
-monsters’.
+6. As above but 'faster growth' ends up meaning 'carnivorous
+monsters'.
 32. Ice Miners
 **Skills Required:** Mechanic, Vacc Suit, Trade (miner)
 **Patron:** Uthgard Mining Corporation
@@ -8347,7 +8347,7 @@ the characters deep underground in freezing conditions.
     **Description:** The research corporation has discovered a
     fascinating new life–form, an alien parasite that thrives in living
     human fl esh. They need a few volunteers to be implanted with
-    parasite embryos so they can study the creature’s lifecycle.
+    parasite embryos so they can study the creature's lifecycle.
     **Reward:** Cr. 5,000 once the study is complete.
     **Complications:**
     1. The erupting alien bugs leave distinctive scars.
@@ -8369,7 +8369,7 @@ the characters deep underground in freezing conditions.
     harvested from various desert plants and other sources, such as
     dry river–beds or worm tailings. It must be gathered by hand or
     using basic tools, as industrialised methods of gathering dust–
-    spice invariably ruin the subtle fl avours and scents that make
+    spice invariably ruin the subtle fl avors and scents that make
     the spice so sought–after. Dust–spice can only be gathered for
     a short period each year, so thousands of migrant labourers
     travel to dust worlds to work the harvest.
@@ -8381,8 +8381,8 @@ the characters deep underground in freezing conditions.
     ordered to keep working, in the hopes of salvaging as much
     spice as possible before the winds ruin it. Do the characters
     step out into the teeth of the stinging winds?
-    3. The baron’s spice fi elds give a poor harvest this year, so he
-    plans to invade his neighbor’s territory.
+    3. The baron's spice fi elds give a poor harvest this year, so he
+    plans to invade his neighbor's territory.
     4. One of the characters develops a strange allergic reaction to
     dust–spice, turning the whites of his eyes turquoise.
     5. Some fearsome monster is lurking in the desert, a predator that
@@ -8397,7 +8397,7 @@ the characters deep underground in freezing conditions.
 **Patron:** Utabi Agricultural Products
 **Description:** An alien weed has taken root on an agricultural
 planet. The only chemical spray available that would destroy it
-would also ruin the planet’s fragile biosphere. The only solution
+would also ruin the planet's fragile biosphere. The only solution
 is to wipe out the infestation before it spreads too far beyond
 the starport.
 **Reward:** Cr. 250/day.
@@ -8409,7 +8409,7 @@ operation must be kept secret from the planetary authorities.
 3. One of the native species becomes addicted to the weed;
 removing the infestation will anger the creatures.
 4. The weed is a deliberate attempt by the corporation to
-destroy the planet’s ecosphere; the characters are being hired
+destroy the planet's ecosphere; the characters are being hired
 as cover.
 5. The weed is a deliberate attempt by the corporation to sell
 weedkiller spray; the characters are being set up to fail, so the
@@ -8440,7 +8440,7 @@ environment but because of a doomsday weapon left over from
 war.
 3. The war is still being fought; the two sides both have deeply buried
 bunkers and armored warriors emerge from these underground
-fortresses to fi ght for a few kilometres of scorched earth.
+fortresses to fi ght for a few kilometers of scorched earth.
 4. The JAS is specifi cally interested in recreating the events that
 led up to the war, such as the recordings made inside the offi ce
 of the President of the Union.
@@ -8467,16 +8467,16 @@ most of the other cetaceans have no interest in the Imperium and
 do not want to see industrial fi sh farming on their waterworld.
 2. The megafi sh are being harvested not just for their meat
 but for their bones which contain valuable minerals. There are
-legends of a ‘megafi sh graveyard’ somewhere in the depths.
+legends of a 'megafi sh graveyard' somewhere in the depths.
 Find that and you are rich for life.
 3. The dolphin intends to sink an old starship in the middle of
 his domain; the starship is still functional, merely outdated. It
 can still serve as a ready–made airtight structure. Who wants to
 volunteer to crash a 20,000–ton starship into the water?
 4. A native race of primitive humanoids hunts the megafauna.
-The noble’s plan would rob them of their hunting grounds.
-5. Someone is stealing megafi sh from the noble’s domain. The
-characters need to stop these rustlers and fi nd out how they’re
+The noble's plan would rob them of their hunting grounds.
+5. Someone is stealing megafi sh from the noble's domain. The
+characters need to stop these rustlers and fi nd out how they're
 abducting the giant creatures.
 6. Megafi sh implies megasharks.
 
@@ -8492,11 +8492,11 @@ take centuries and there is plenty of work to be done during the
 intervening years.
 **Reward:** Cr. 200/week.
 **Complications:**
-1. The characters are sent to survey the planet’s surface,
+1. The characters are sent to survey the planet's surface,
 searching for signs that the genetically modifi ed lichen has
 taken hold.
 2. The characters are sent to transport some ice asteroids from
-the asteroid belt, to thicken the planet’s trace atmosphere and
+the asteroid belt, to thicken the planet's trace atmosphere and
 add to the water content.
 3. The corporation erected a solar mirror in orbit to heat the
 frigid world. Something has gone wrong with the mirror – it is
@@ -8506,7 +8506,7 @@ terraforming effort, as they believe the planet should be left
 alone in its natural state. Let humanity go elsewhere, instead of
 turning the whole galaxy into a homogenous parade of cheap
 Earth knockoffs!
-5. The characters discover alien ruins on the planet’s surface.
+5. The characters discover alien ruins on the planet's surface.
 6. As above but the corporation knows about the ruins and is
 trying to cover them up. They have invested too much in the
 terraforming project to be stopped now!
@@ -8545,7 +8545,7 @@ government records.
     **Patron:** Tribe of the Tenth Moon
     **Description:** The spider–like creatures of this jungle moon
     produce a valuable silk in their webbing. Gathering the silk is a
-    hazardous and unpleasant job but someone’s got to do it.
+    hazardous and unpleasant job but someone's got to do it.
     **Reward:** Cr. 50 per web harvested.
     **Complications:**
     1. The spiders are the size of large dogs and think of humans
@@ -8606,7 +8606,7 @@ strange transmission...
 2. A civil war breaks out on the planet below and the regular
 lunar shuttle service is halted. The characters are trapped on a
 barren moon with dwindling resources.
-3. The characters run into a noble’s private lunar villa and are
+3. The characters run into a noble's private lunar villa and are
 invited to dine with him.
 4. The characters fi nd a deposit of valuable minerals; do they
 inform their employers or try to develop the mine on their own?
@@ -8616,7 +8616,7 @@ as a brush. What do you write on the face of the moon?
 51. Safari Guards
 **Skills Required:** Steward, Survival, Gun Combat
 **Patron:** Marchesa Saddiv von Varren.
-**Description:** The Marchesa and her favourite rocket launcher
+**Description:** The Marchesa and her favorite rocket launcher
 are going on safari. She needs a few strapping servants to herd
 the local wildlife into her crosshairs.
 **Reward:** Cr. 300/week.
@@ -8626,9 +8626,9 @@ they look just _spiffi ng_ when mounted above the fi replace.
 2. The safari draws unwelcome attention from the local
 population, who object to some crazed offworld noble landing
 with enough artillery to start a war.
-3. A pirate targets the Marchesa’s safari ship. On the downside,
+3. A pirate targets the Marchesa's safari ship. On the downside,
 the pirate ship completely outguns the little safari ship. On the
-upside, as soon at the pirates open the airlock, it’ll be pirate
+upside, as soon at the pirates open the airlock, it'll be pirate
 hunting season for the Marchesa.
 4. The Marchesa wants to bring the animals back alive. Work
 out a way to get that monster onto the ship.
@@ -8642,7 +8642,7 @@ must be sabotaged!
 contacts the characters. They need interesting minds for the
 students to practice on. The tests will be quite harmless and the
 
-characters’ privacy will be absolutely respected.
+characters' privacy will be absolutely respected.
 Reward: Free psionic testing.
 Complications:
 
@@ -8651,7 +8651,7 @@ and accidentally probes too deeply, learning something that the
 character would rather keep secret.
 2. There is an accident and the character is teleported
 somewhere unfortunate, like the inside of a bank vault.
-3. A psion mystic predicts the character’s future.
+3. A psion mystic predicts the character's future.
 4. A desperate psion begs the characters to help him smuggle
 psionic drugs to boost his powers.
 5. While testing the character, the psions discover that his mind
@@ -8738,7 +8738,7 @@ worship. Anyone defying the word of the ancestors is a demon
 and must be burnt at the stake.
 2. One of the warring tribes agrees to convert to this new religion
 
-- if the characters provide ‘divine weapons’ to blast their foes.
+- if the characters provide 'divine weapons' to blast their foes.
 
 3. Two tribes are suffering from disease; one has already
 converted, the other holds to the older religion. Which tribe do
@@ -8779,9 +8779,9 @@ real assassination attempts but the rest are fi gments of his
 imagination.
 3. The characters are contacted by enemies of the duke, offering
 them a fortune if they help assassinate him.
-4. One of the duke’s meals is indeed poisoned with an alien
+4. One of the duke's meals is indeed poisoned with an alien
 drug. The character who tastes it starts to have strange visions
-of distant worlds. What does this have to do with the duke’s
+of distant worlds. What does this have to do with the duke's
 reform plans?
 5. The duke is secretly addicted to anagathics. He wants one of
 the characters to test his drugs before he uses them. Each vial
@@ -8792,7 +8792,7 @@ slug.
 61. Travelling Circus
 **Skills Required:** Athletics, Art, Streetwise
 **Patron:** The Fabulous Cagliostro
-**Description:** Cagliostro’s travelling circus wanders the fringe
+**Description:** Cagliostro's travelling circus wanders the fringe
 worlds, bringing a little wonder, thrill and exotic delight to these
 benighted planets. The circus has lost several performers
 recently, so Cagliostro is willing to hire some untried travellers.
@@ -8838,8 +8838,8 @@ wanted the hero dead?
 5. A journalist offers the characters a bribe if they spoil the plot
 of upcoming episodes.
 6. The director quarrels with the writer and ends up throwing the
-script out. ‘You lot! You’ve been in space!’ he shouts, ‘write me
-an adventure!’
+script out. 'You lot! You've been in space!' he shouts, 'write me
+an adventure!'
 63. Starship Spotter
 **Skills Required:** Recon, Comms, Sensors
 **Patron:** Ship Tracer Dirk Koggle
@@ -8870,7 +8870,7 @@ as apprentices.
     **Skills Required:** Investigate, Art (writing), Streetwise
     **Patron:** Megadodo Publications
     **Description:** The character is hired by a publishing company
-    to write reviews and tips for a budget traveller’s guide. Almost
+    to write reviews and tips for a budget traveller's guide. Almost
     anything can go into the guide, from restaurant reviews to
     extended rants about Vargr raiders.
     **Reward:** Cr. 0.01/word
@@ -8881,10 +8881,10 @@ as apprentices.
     Go jump off a cliff.
     3. A restaurant owner will do anything to ensure a good review,
     including kidnapping and murder.
-    4. The guide’s travel budget only covers low berths.
+    4. The guide's travel budget only covers low berths.
     5. The character is stranded on a primitive world as part of
     research for the guide.
-    6. All of the character’s reports for the guide are winnowed down
+    6. All of the character's reports for the guide are winnowed down
     by an over–zealous editor to one word.
     65. Fast Food
     **Skills Required:** Steward, Broker, Streetwise
@@ -8900,7 +8900,7 @@ as apprentices.
     serving drinks.
     3. A criminal syndicate demands protection money from the
     restaurant.
-    4. A K’kree vegetarian group protests at the restaurant, as they
+    4. A K'kree vegetarian group protests at the restaurant, as they
     fi nd the use of meat abhorrent. The restaurant food does not
     actually contain any real meat but revealing this will lose other
     customers.
@@ -8968,11 +8968,11 @@ wreckers is the aftermath of a crash or pirate attack.
 
 **Shipwreck Salvage:** An intact ship can be sold to a wrecker
 yard for 1/10th of its base price. A wrecked ship or a wrecked
-ship’s location can be sold to a scavenger for 1/20th of its base
+ship's location can be sold to a scavenger for 1/20th of its base
 price, although this should be modifi ed based on the condition of
 
-the wreckage (saying ‘ yeah, the wreck is an expanding sphere
-of debris centered on this point’ is not worth much).
+the wreckage (saying ' yeah, the wreck is an expanding sphere
+of debris centered on this point' is not worth much).
 
 Shipwreck adventures: Hunting for shipwrecks can be an
 adventure in itself. The scavenger characters will have to visit
@@ -9033,7 +9033,7 @@ Not all worlds survive. Some are destroyed by war or disease,
 others are abandoned because of ecological or economic
 collapse or the retreat of empire. Some planets have but a few
 thousand inhabitants where billions once lived, leaving tens of
-thousands of square kilometres of post–urban wasteland. Such
+thousands of square kilometers of post–urban wasteland. Such
 planets draw scavengers by the horde, picking through the
 bones of civilization for a few scraps of worthwhile salvage.
 
@@ -9197,11 +9197,11 @@ The Gambler skill can be used in several ways:
     their ship). The following abstract gambling system may be
     used in such situations.
 
-Determine Endurance: A character’s Endurance measures
+Determine Endurance: A character's Endurance measures
 how long he can stay in the game; it is a combination of both the
-character’s assets and a measure of his nerve. Endurance is
+character's assets and a measure of his nerve. Endurance is
 determined by the referee but should be on a scale of 5 to 15 in
-most games. A rich, confi dent player with the lion’s share of the
+most games. A rich, confi dent player with the lion's share of the
 chips would have Endurance 15; a nervous player on a losing
 streak might have Endurance 5. In most games, everyone starts
 at Endurance 8–10.
@@ -9291,9 +9291,9 @@ particle collides with one of the facets of the crystal, causing
 that facet to fl uoresce. Gamblers bet on which facet will be the
 next to fl ash.
 
-Hiver’s Chess: Technically, this is a game of skill from
+Hiver's Chess: Technically, this is a game of skill from
 Hiver space but the rules are so complex as to be utterly
-incomprehensible to humans. Therefore, Hiver’s chess is
+incomprehensible to humans. Therefore, Hiver's chess is
 normally played as a gambling game, with the players moving
 pieces almost at random until one of them wins.
 
@@ -9307,7 +9307,7 @@ power of their mind alone.
 
 A common variant of this game replaces the tablet with a playing
 card and puts the playing card on top of a bottle of alcohol
-(typically, ‘ol Janx’ spirit). The loser takes a drink.
+(typically, 'ol Janx' spirit). The loser takes a drink.
 
 Zero–g Dicing: Dice games are games of pure chance, except
 in zero gravity. It takes tremendous skill and dexterity to throw
@@ -9317,7 +9317,7 @@ instead of just bouncing around the cabin.
 ###### GGGAMBLINGAMBLINGAMBLING & C & C & CONONON G G GAMESAMESAMES
 
 **Lunion Stud:** A variant on poker, Lunion Stud is played using
-the standard spacer’s deck (suits of Ships, Suns, Blades and
+the standard spacer's deck (suits of Ships, Suns, Blades and
 Coins, cards from Ace (or Low), 2, 3, 4, 5, 6, 7, 8, 9, 10, Knight,
 Empress and Emperor).
 
@@ -9357,7 +9357,7 @@ out there to be taken advantage of.
 gambling games, where it looks like the player has a good
 chance of winning but the con artist has rigged the game to
 make it impossible. Often, the con artist will have an accomplice
-who ‘wins’ in order to make the game seem more plausible.
+who 'wins' in order to make the game seem more plausible.
 
 **The Cargo Scam:** This scam is aimed at tramp traders. The
 con artist offers a load of cargo at an excellent price – say,
@@ -9381,7 +9381,7 @@ at the far end of the jump.
 
 The trader jumps to the other planet, where he fi nds the goods
 are not wanted there at all. The other broker offers to buy the
-goods at a ‘fair price’ – less than the trader paid for it but a better
+goods at a 'fair price' – less than the trader paid for it but a better
 price than the trader will get anywhere else on this planet. The
 brokers have made a profi t at both ends and can often ship the
 same goods back again with another mark.
@@ -9417,11 +9417,11 @@ mark buys the location, which turns out to be a worthless rock.
 **Fraudulent Payment** : Another trick played on free traders,
 this scam comes at the end of some large trade. The con artist
 buys a valuable cargo off the trader but offers to pay in goods
-rather than credits. ‘I don’t have the money but I do have 16
-tons of rare emeralds – would that do?’ The trader realises that
+rather than credits. 'I don't have the money but I do have 16
+tons of rare emeralds – would that do?' The trader realises that
 he will make a greater profi t by accepting these goods in lieu of
 cash, only to discover later that he has been scammed and the
-‘emeralds’ are worthless rocks.
+'emeralds' are worthless rocks.
 
 **Snake Oil:** It is a big galaxy out there, full of wonders. Why, I
 just this week got back from Zhodani space, where I bought
@@ -9458,15 +9458,15 @@ In this scam, the trader is contacted by the retainer of a rich
 noble who has fallen ill while on holiday. The noble has been
 placed in a low berth to keep him alive while he is shipped
 home. The trader accepts the low berth as cargo and transports
-it to the noble’s homeworld.
+it to the noble's homeworld.
 
 Once the trader arrives, he discovers that the noble is dead (he
 was dead all along; a corpse was loaded into the low berth).
-Among the noble’s possessions is a set of documents, noting
+Among the noble's possessions is a set of documents, noting
 that he has a bank account with vast savings. There are also
 contact details for an agent used by the noble. The trader
 contacts the agent, who proposes taking advantage of the
-situation. He can act in the noble’s name and get access to
+situation. He can act in the noble's name and get access to
 that account using biometric data from the corpse. However, he
 needs a few thousand credits to get the necessary paperwork
 forged. The trader pays and the agent vanishes, never to be
@@ -9556,7 +9556,7 @@ hundreds of years to reach its destination. It is the descendants
 of the original crew who reach the destination. For a successful
 generation ship, it is important to have a robust method of
 teaching the next generation how to operate the vessel. If this
-fails – say, because of damage to the ship’s computer or an
+fails – say, because of damage to the ship's computer or an
 accident that wipes out much of the crew – then the survivors
 will rapidly lose their understanding of technology. A few
 generations later, the result is a ship overgrown with hydroponic
@@ -9604,7 +9604,7 @@ Weapon Personal Close Short
 Axe –1 +0 Out of range
 Spear –2 +0 –2*
 
-*: Spears may only be used to attack foes within 4 metres at Short range.
+*: Spears may only be used to attack foes within 4 meters at Short range.
 
 **Ranged Weapons**
 
@@ -9652,7 +9652,7 @@ Medium Shield 1 6 +0 1 5
 Large 1 8 +2 2 6
 
 **Shields:** If a character is using a shield and is the target of an attack coming from the front or side, there is a chance the shield
-may block the attack. Roll 2d6 and add the shield DM. If the result is 8 or more, add the shield’s Armor Value to the character’s
+may block the attack. Roll 2d6 and add the shield DM. If the result is 8 or more, add the shield's Armor Value to the character's
 armor before calculating damage.
 
 ###### LLOSTOST W WORLDSORLDS
@@ -9684,10 +9684,10 @@ Stellar
 UUFFFCC
 
 Gaining Technological Familiarity
-Familiarity is easily gained. A character may gain Familiarity with a few hours’ practical experience or tuition.
+Familiarity is easily gained. A character may gain Familiarity with a few hours' practical experience or tuition.
 
 Comfort takes longer to acquire. A character must spend several months or even years in a culture before he becomes Comfortable
-with that culture’s Technology Rank.
+with that culture's Technology Rank.
 
 #### ADVENTURING ON LOST WORLDS
 
@@ -9698,7 +9698,7 @@ alarming amount of personal weapons). Their equipment and
 skills may be above the norm but are not especially exceptional.
 
 On a lost world, they are gods and wizards. They can kill by
-pointing a ‘wand’ at an enemy; they call up spirits out of the air;
+pointing a 'wand' at an enemy; they call up spirits out of the air;
 their armor is invulnerable and their medicines can heal any
 disease; they ride a chariot of steel and fi re. The average crew
 of a Type S can completely remake the culture of a lost world in
@@ -9711,7 +9711,7 @@ to wait for rescue or wait until their ship is repaired and may
 need to acquire the necessary raw materials. A brave new world
 awaits them.
 
-The Referee should keep careful track of the characters’
+The Referee should keep careful track of the characters'
 resources. Ammunition is impossible to acquire, for example
 and food may run out quickly, forcing the characters to learn
 to survive in the wild. No doubt the arrival of the spacefarers
@@ -9724,7 +9724,7 @@ they wish. This calls into question why the lost world is lost
 
 - are the characters the fi rst ones to discover it or is some
 force keeping the world from advancing? What effect will the
-characters’ presence have on the world?
+characters' presence have on the world?
 
 Lost worlds do not usually have a starport and so trading
 opportunities will have to be developed by the characters. There
@@ -9745,13 +9745,13 @@ backward society.
 Barbarian Adventurers
 For a very different Traveller game, the Referee could begin
 with a band of barbarian characters. This would play as a low–
-magic swords–and–sorcery game initially, although the ‘magic’
-would either be advanced technology (‘ Curse the mage! He
-has a wand of fi re! And look out for that golem!’ ) or psionics.
+magic swords–and–sorcery game initially, although the 'magic'
+would either be advanced technology (' Curse the mage! He
+has a wand of fi re! And look out for that golem!' ) or psionics.
 Eventually, the characters should have the opportunity to fi nd
 a starship or another way offworld, at which point they can
 apply their unique barbarian perspective to the wider Traveller
-universe ( ‘I smite him with my broadsword in zero gravity!’ ).
+universe ( 'I smite him with my broadsword in zero gravity!' ).
 
 ###### LOST WORLDS
 

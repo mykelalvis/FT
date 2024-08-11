@@ -166,13 +166,13 @@ into an unexpected system? Simply roll on the encounter tables and,
 whoops, space pirates appear. A whole evening of entertainment
 right there. Players want to go exploring in the wilderness, search
 for jobs in dead end bars on the frontier, try to sell several tonnes of
-fabric they ‘picked up’ on the last adventure? No problem. Traveller
+fabric they 'picked up' on the last adventure? No problem. Traveller
 already had the mechanisms built in to handle all of it.
 
 Which brings us neatly round to Prison Planet. In a game which allows
 such free form play it is, perhaps, inevitable players will skirt on the
 wrong side of the law. However, players can only run so far, even in a
-galaxy as large as Traveller’s. In the end, the judicial system will (or, at
+galaxy as large as Traveller's. In the end, the judicial system will (or, at
 least, should) catch up with them. It is not the end of the road for their
 characters, for their lives must go on. Instead, it is an opportunity for
 excitement, betrayal, and inhuman treatment at the hands of sadistic
@@ -183,7 +183,7 @@ and got caught up in events and need time to prove their innocence.
 Wrongly accused they are sent where they do not belong.
 
 The purpose of Prison Planet is to give the players and Referee a
-little more than just declaring ‘down time’ when the players are
+little more than just declaring 'down time' when the players are
 caught, sentenced, and imprisoned for whatever infractions they
 have racked up (in my gaming group, likely grand larceny, genocide,
 and initiating an interstellar war). They will become part of the
@@ -193,22 +193,22 @@ themselves with prisoners and guards alike.
 They may try to escape, and all the information you need to run such
 an event is included in this book. However, this is not the only way
 to run Prison Planet and it should not necessarily be regarded as the
-‘winning’ condition. It is just as viable for characters to serve their
+'winning' condition. It is just as viable for characters to serve their
 term and instead concentrate on building their contacts among
 
 ##### IINTRODUCTIONNTRODUCTION
 
 The Shawshank Redemption: Some players may revel in getting to
 grips with the concepts of hope and loss, the dynamic of reaching
-their character’s lowest ebb, then breaking the chains which bind
+their character's lowest ebb, then breaking the chains which bind
 them for a final gasp of freedom. The rest of us will take on board
 how to get on the good side of the guards and Warden and, maybe,
 how to dig a tunnel without discovery.
 
 Cool Hand Luke: At some point, one of your players is likely to adopt
 the stoic approach and refuse to be beaten down, no matter what is
-heaped upon his shoulders. This is all well and good, but he’ll find
-the guards just won’t give a damn, and the other prisoners will be
+heaped upon his shoulders. This is all well and good, but he'll find
+the guards just won't give a damn, and the other prisoners will be
 irritated by anyone rocking their boat.
 
 ###### Standards & Assumptions
@@ -238,9 +238,9 @@ following additional skills are useful in some situations: Gambler,
 Medic, Computer, Mechanic, Engineer, Advocate, Stealth and Jack-
 of-all-trades.
 
-### REFEREE’S NOTES
+### REFEREE'S NOTES
 
-The theme of this adventure is the characters’ attempts to get out of
+The theme of this adventure is the characters' attempts to get out of
 prison. It may take some time before the players realize completely
 this will not be an easy task. They will find careful preparation is
 as necessary as bold action. They may have to spend several years
@@ -251,9 +251,9 @@ In order to run this adventure, the referee must be familiar with
 the rest of this booklet. Play begins with The First Week , on page
 
 6. Thereafter, action follows the course outlined in _Running the
-Adventure_ , page 55. The characters’ lives will be governed by events,
+Adventure_ , page 55. The characters' lives will be governed by events,
 incidents, encounters with prisoners and guards, and rumors, as
-described in those chapters. The prison’s physical layout is described
+described in those chapters. The prison's physical layout is described
 in the chapter entitled The Prison and its attendant maps.
 
 Surviving or escaping from prison will not be a simple or quick
@@ -264,7 +264,7 @@ walls before they finally leave the prison – or perhaps they will be
 buried there.
 
 If the characters escape from the prison, the action will be guided
-by the chapter entitled Outside, which describes Keanou’s surface
+by the chapter entitled Outside, which describes Keanou's surface
 and Circle City. The players will get the most enjoyment out of the
 adventure if the referee avoids a dry description of the material
 included here. The referee should use this material as a basis;
@@ -283,9 +283,9 @@ to report strange behaviour to the prison authorities, and on the
 whole the prison is no picnic.
 
 It is important for the referee to discourage stupid plans of escape
-(‘ I’m going to tell the guard I’m sick, and when he comes over to look
-at me, I’m going to hit him with a rock and run out into the desert by
-myself ’), for this will only lead to the characters’ premature demise,
+(' I'm going to tell the guard I'm sick, and when he comes over to look
+at me, I'm going to hit him with a rock and run out into the desert by
+myself '), for this will only lead to the characters' premature demise,
 which is not the point of the adventure. On the other hand, if
 the players are not doing anything useful towards bettering their
 condition, it may prove worthwhile to give them some hints, perhaps
@@ -335,7 +335,7 @@ Bureau presses the wrong key on his computer.
 
 After sentencing, the group discover they are to be sent to the
 Tarkwall prison facility on Keanou. This institution has an extremely
-unsavoury reputation. Rumor has it the prisoners are forced
+unsavory reputation. Rumor has it the prisoners are forced
 to work the pitchblende mines in hazardous conditions of high
 radioactivity. Safety regulations are not enforced, occasioning a rare
 editorial complaint in the Imperial mass media. Many prisoners
@@ -344,7 +344,7 @@ the mines of Keanou. The group is shipped to the Keanou starport
 on a converted troop transport and then flown by shuttle to the
 prison along with several other new prisoners. The planet is arid
 and forbidding. Filter masks are issued on leaving the shuttle, to
-enable prisoners to breathe Keanou’s tainted atmosphere. The
+enable prisoners to breathe Keanou's tainted atmosphere. The
 surface buildings are bleak grey structures obviously built long ago.
 The immediate skyline is dominated by a huge pile of ore, outside
 of the tall metal link fence which surrounds the buildings. All of
@@ -365,8 +365,8 @@ prisoners are given only token amounts for their labour and many
 safety regulations are ignored, exposing the prisoners to unhealthy
 levels of radiation and airborne rock dust.
 
-Security is not up to the level of the ‘best’ Imperial prisons as the
-prison site is surrounded by thousands of kilometres of desert,
+Security is not up to the level of the 'best' Imperial prisons as the
+prison site is surrounded by thousands of kilometers of desert,
 inhabited only by dangerous animals. There is only one small city on
 Keanou: Circle City, site of the class C starport where the ore mined
 at the prison is taken to await transhipment by regular commercial
@@ -382,8 +382,8 @@ unsafe, and the warden has come under fire for incompetence.
 
 ###### Outside Contacts
 
-A player’s Contacts and Allies may stay in touch during the
-character’s time in prison. Mail turnaround time is usually two
+A player's Contacts and Allies may stay in touch during the
+character's time in prison. Mail turnaround time is usually two
 weeks per parsec distance from Keanou. Those within a few jumps
 of Keanou may even visit the prison. More distant Allies may arrange
 for a local agent on Keanou such as V7 Abil Lifnuf or V8 Chandra Lo
@@ -392,7 +392,7 @@ to provide support.
 ##### IINCARCERATEDNCARCERATED
 
 Security checks on what is sent to prisoners are normally very good.
-It is extremely difficult to send the proverbial ‘hacksaw in a cake’
+It is extremely difficult to send the proverbial 'hacksaw in a cake'
 to an inmate, with all mail being checked prior to it arriving at the
 prison and again at Tarkwall itself. It is not impossible to smuggle
 items in this way, but the Ally would have to bribe several different
@@ -412,13 +412,13 @@ A character becomes eligible for parole as soon as he has completed
 half of his initial sentence, or if nominated by the prison warden
 for early release. A parole board consisting of S1 Warden Grice, V
 Inspector Borun and a member of the Keanou council reviews the
-character’s case; hearings are conducted in Tarkwall Prison once
+character's case; hearings are conducted in Tarkwall Prison once
 every six months.
 
 To obtain parole, a character needs to roll 12+ on 2d6, applying DMs
 as follows:
 
-- +1 if the character’s Prison Reputation is -10 or less
+- +1 if the character's Prison Reputation is -10 or less
 - +1 if the character is working in the Safe Zone
 - +1 per guard or staff member friendly to the character
 - +1 per previous parole attempt
@@ -427,11 +427,11 @@ as follows:
 - +1 if the character has completed at least one Vocational
     Training course
 - +2 per member of the parole board friendly to the character
-- +the character’s Advocate skill (or the Advocate skill of the
-    character’s hired lawyer)
-- +the character’s Social Standing DM
-- -1 if the character’s Prison Reputation is 0 or more
-- -2 if the character’s Prison Reputation is 20 or more
+- +the character's Advocate skill (or the Advocate skill of the
+    character's hired lawyer)
+- +the character's Social Standing DM
+- -1 if the character's Prison Reputation is 0 or more
+- -2 if the character's Prison Reputation is 20 or more
 - -2 per guard or staff member hostile to the character
 - -2 if the character is working in the Danger Zone
 - -2 if the character was arrested by the Imperial authorities or on
@@ -466,9 +466,9 @@ It takes 1d6 x 1d6 months for an appeal to be heard after it has been
 lodged. To determine if an appeal is successful, roll 2d6 and apply
 the following DMs:
 
-- +the character’s Advocate skill (or the Advocate skill of the
-    character’s hired lawyer)
-- +the character’s Social Standing DM
+- +the character's Advocate skill (or the Advocate skill of the
+    character's hired lawyer)
+- +the character's Social Standing DM
 - +/- any new evidence or testimony available to the character
     (DM of 0 to 4, depending on the importance of the evidence).
 
@@ -527,20 +527,20 @@ at Tarkwall. Instead, electronic restraints are used to disable the
 cybernetic device.
 
 S7 Clerk Luka runs each character through the registration protocol.
-He enters each character’s name, age, homeworld and criminal
+He enters each character's name, age, homeworld and criminal
 record into the computer and checks it against the files sent from
 Circle City; he also logs their fingerprints, retina, brainwave patterns
 and voiceprints into CARL. He then issues a prisoner number and
-cellblock assignment to each character. (See page 133 for Luka’s
+cellblock assignment to each character. (See page 133 for Luka's
 form).
 
 Read the following to the players.
 
 # TTHEHE F FIRSTIRST W WEEKEEK
 
-Something in the bowels of this ramshackle shuttle’s engine bangs
+Something in the bowels of this ramshackle shuttle's engine bangs
 every few minutes, smashing down with a noise that reminds you of
-a judge’s gavel. You’re all in the back of the shuttle, chained to your
+a judge's gavel. You're all in the back of the shuttle, chained to your
 seats. The seats are padded with foam cushions; the cushions are
 filthy, torn and completely worn away in places, a sullen testament
 to the hundreds of prisoners who have gone ahead of you.
@@ -549,7 +549,7 @@ Before they loaded you into the shuttle, they carried off a trio of
 coffins. Few people return from this prison.
 
 Through a porthole, you can see the terrain below. Hundreds of
-kilometres of desert, scorched a chalky white-blue by the sun, without
+kilometers of desert, scorched a chalky white-blue by the sun, without
 a single visible road or landmark or even a drop of water. The shuttle
 flits over dune after dune, rocking occasionally as a particular strong
 thermal buffets it.
@@ -568,22 +568,22 @@ a chair in front of a desk...
 
 Keanou is not the most advanced world in the Spinward Marches,
 but the technology here in Tarkwall is primitive even by those
-standards. The clerk’s bony fingers clatter on a dusty keyboard
-attached to an antiquated and flickering screen. ‘ Name?,’ he snaps,
-‘ birthworld?’ After inputting your personal details, the clerk presses
+standards. The clerk's bony fingers clatter on a dusty keyboard
+attached to an antiquated and flickering screen. ' Name?,' he snaps,
+' birthworld?' After inputting your personal details, the clerk presses
 another key and a camera turns towards you, photographing your
 face, your retinal pattern, and your fingerprints. The camera pauses
 for a moment, almost as if it is weighing your chances of survival in
 this prison, then withdraws into the desk.
 
-The clerk taps another few keys, then grunts. ‘ Your personal
+The clerk taps another few keys, then grunts. ' Your personal
 possessions will be stored until you are released or transferred
 from Tarkwall Prison. In the event of your death, your possessions
 will be returned to your next of kin, minus a handling fee. If no
 next of kin are registered, or if the handling fee cannot be paid,
 your possessions will become the property of Tarkwall Prison
 and will be disposed of at the pleasure of the warden. Remove
-your clothes now, or they will be forcibly removed.’
+your clothes now, or they will be forcibly removed.'
 
 The characters are then dragged off to another shed, shaved and
 sprayed with caustic chemicals. Emerging from the stinging
@@ -635,7 +635,7 @@ having to put up with “new punks”. As the players gain experience
 and reputation, the other prisoners will gradually become friendlier
 and more cooperative. The players should eventually get some idea
 that there is a pecking order in the prison, plus some conception of
-other prisoners’ (and their own) places in it.
+other prisoners' (and their own) places in it.
 
 The referee should slowly make most of the information contained
 in the following sections on security and gang structure available to
@@ -663,9 +663,9 @@ them.
 
 “For you have reaped what you have sown!”
 
-“The tall one’s mine!”
+“The tall one's mine!”
 
-“You’ll never leave here alive!”
+“You'll never leave here alive!”
 
 The guards push you forward and assemble you into a ragged line,
 your backs to the baying mob.
@@ -690,14 +690,14 @@ name back is by working hard and staying out of trouble. If you
 can do that then maybe, maybe you will be returned to honest
 society.
 
-From somewhere down the line, you hear a whisper. “ I’ve seen
+From somewhere down the line, you hear a whisper. “ I've seen
 Regina Hogs thinner than him! ”
 
 Warden Grice is on to the man in an instant. “ Gorod, attend to
 that filth! ”
 
 One of the guards strides past you down the line, and out of the
-corner of your eye you see him ram his club into the prisoner’s
+corner of your eye you see him ram his club into the prisoner's
 stomach. Before the man hits the ground, another two guards drag
 him back to his feet.
 
@@ -732,7 +732,7 @@ The trays are cheap plastic; so are the knives and forks, and you suspect
 the food might be more lethal than the cutlery. A prisoner wearing a
 hygienic hair net and smoking a foul-smelling rolled cigarette dumps a
 bowl of slop onto your tray, and flicks the ash from his cigarette into your
-food for good measure with an insolent twitch of his lip. The ‘food’ is grey,
+food for good measure with an insolent twitch of his lip. The 'food' is grey,
 sticky and cold, but the other prisoners wolf it down, ravenous after a long
 day working in the mines.
 
@@ -753,7 +753,7 @@ warden will complain about this a great deal, and raise all sorts
 of fuss with the Circle City bureaucracy, but will still be stuck
 with one or more female prisoners for several years.
 
-Such female prisoners will be placed in the privileged prisoner’s
+Such female prisoners will be placed in the privileged prisoner's
 quarters (location 11 on the surface). They will be treated
 identically to the other prisoners, although they will never be
 placed in the cellblocks – they will only ever be assigned to the
@@ -776,10 +776,10 @@ players where their characters are spending the next few years:
 
 The Surface: _The cold hits you in a frigid blast and you have to push
 through. The air has the tang of metal and your lungs burn with each
-breath. The prison’s surface buildings are grey concrete boils streaked with
+breath. The prison's surface buildings are grey concrete boils streaked with
 rust, barely distinguishable from the ruined buildings on the far side of
 the chain-link fence. The only splash of green is the perfectly-manicured
-lawn around the warden’s house; your mouth is dry and dusty, but you
+lawn around the warden's house; your mouth is dry and dusty, but you
 can hear the constant sound of the lawn sprinklers fighting a losing battle
 against the elements._
 
@@ -844,11 +844,11 @@ on an erratic schedule.
 ## THE SURFACE
 
 The prison compound is surrounded by a fence, intended as much
-to keep native animals out as to keep prisoners in. The warden’s
+to keep native animals out as to keep prisoners in. The warden's
 residence (5) and the armory (6) are in a separate area surrounded
-by a much higher electrified fence. The fence’s electrical charge
+by a much higher electrified fence. The fence's electrical charge
 deals 1d6 damage when first touched, but the charge is ramped up
-to 3d6/round if any weight is placed on the fence’s wires. Climbing
+to 3d6/round if any weight is placed on the fence's wires. Climbing
 
 these fences requires Athletics (strength) checks with a total Effect
 of 5 (or 10 in the case of the higher fences). Failing by a margin of
@@ -865,20 +865,20 @@ hundred meters from the gate.
 A conveyor belt leads from the ore crusher (18) to a large ore stockpile
 about 50 meters away.
 
-5. Warden’s Residence: Warden Grice’s residence resembles a
+5. Warden's Residence: Warden Grice's residence resembles a
 colonial mansion. It is surrounded by a small green lawn of tough
 grass, which needs constant gardening and watering to maintain
 in the cold of the desert. Inside, the residence is decorated with
 naval memorabilia, such as cutlasses, models of starships and
 holograms of famous battles. Grice lives here alone, attended by
-a serving robot, except when the warden’s lady friend comes out
+a serving robot, except when the warden's lady friend comes out
 from Circle City. Frequently, the warden will go to Circle City for long
 stretches of time, leaving the day-to-day running of the prison to his
 subordinates, which is just as well considering his abilities.
 
 ###### Overpressure
 
-As a protection against the poisonous contaminants in Keanou’s
+As a protection against the poisonous contaminants in Keanou's
 atmosphere, all buildings, elevators, and the administrative and
 cellblock levels are kept at a pressure higher than the outside
 atmosphere, using compressors which also filter out the
@@ -888,7 +888,7 @@ a wind blows outward.
 
 ###### Air Pumps
 
-Small rusted metal boxes, a metre high and a half-metre across,
+Small rusted metal boxes, a meter high and a half-meter across,
 are scattered around the grounds of the prison. These are air
 pumps, drawing in air, purifying it, and pumping it down through
 narrow vents into the underground areas of the complex. Many
@@ -901,7 +901,7 @@ prison tastes of metal and damages health over the long term.
 Uranium ore emits radon gas, which is hazardous to human
 health. Therefore, all surface buildings and the subsurface mine
 levels have small radon detectors monitoring gas levels. If a
-zone’s radon level rises to a dangerous amount, the section is
+zone's radon level rises to a dangerous amount, the section is
 closed and the air pumped out and replaced.
 
 ##### THE PRISON THE PRISON
@@ -921,15 +921,15 @@ code number is known by the wardens, senior guards and a number
 of other staff. (It is also rumor 63). A security camera overlooks the
 door, and the door can be sealed by CARL, overriding the passkey.
 
-7. Guards’ Living Quarters: These are several very drab buildings.
+7. Guards' Living Quarters: These are several very drab buildings.
 The senior guards have rooms on the upper floor, with en-suite
 bathrooms and a private lounge. On the lower floor, the common
 guards have rooms which are little better than cells.
-8. Staff Quarters: These are marginally better than the guards’
+8. Staff Quarters: These are marginally better than the guards'
 quarters. Each staff member has his own room, and there is
 a communal dining area and kitchen. There is also a library and
 computer room.
-9. Guards’ Recreation: Most of the guards live for the free days on
+9. Guards' Recreation: Most of the guards live for the free days on
 which they can drink, gamble, and carouse in Circle City, as the
 recreation facility for the guards is only marginally superior to those
 pathetic diversions allowed the prisoners. The recreation building is
@@ -946,7 +946,7 @@ Administrative level (also rarely used).
 of this class should have a swimming pool. The present warden,
 however, has not seen fit to have any water put in it. The pool is
 domed but not pressurized.
-11. Privileged Prisoners’ Quarters: This is a medium security
+11. Privileged Prisoners' Quarters: This is a medium security
 area for privileged prisoners. It is inhabited mainly by informers
 who might get killed down below, occasional prisoners with high
 social standings, a number of prisoners too old or feeble to do
@@ -954,7 +954,7 @@ any effective mining, and a few of the prison trustees who work
 on the administrative level or on the surface. Prisoners may apply
 for transfer here if they have reputations of - 10 or less, have not
 been assigned to the danger zone or solitary for the last 25 weeks,
-and must get a favourable reaction from a staff member (8+). Any
+and must get a favorable reaction from a staff member (8+). Any
 infractions while a prisoner is resident here may result in his return
 to the cellblock level. Prisoners assigned here lose 3 from their
 prison reputations.
@@ -997,11 +997,11 @@ Spare parts for the utility and service robots are also stored here.
 14. Laundry: The laundry is operated by prisoners selected on a
 rotating basis (although some are kept there full-time). The prison
 staff frequently changes the rotation and might be persuaded to do
-so for some recompense, or by a very favourable reaction. Security
+so for some recompense, or by a very favorable reaction. Security
 is good here, with at least one guard always keeping an eye on the
 laundry workers, in person or by camera.
-15. Guards’ Kitchen: Only very trusted prisoners are allowed to
-cook here, and are housed in the privileged prisoners’ quarters. The
+15. Guards' Kitchen: Only very trusted prisoners are allowed to
+cook here, and are housed in the privileged prisoners' quarters. The
 guards eat here in shifts, and the food is significantly better than the
 slop served to the prisoners.
 16. Materials Storage: This building is the initial destination of all
@@ -1028,7 +1028,7 @@ be scanned by a Geiger counter to ensure they have not received a
 dangerous dose, but this protocol is rarely observed.
 20. Communications Towers: These two towers are radio antennas
 for communication with Circle City and ships in orbit.
-21. Guard Tower: This tower keeps watch on the prisoners’ recreation
+21. Guard Tower: This tower keeps watch on the prisoners' recreation
 yard; from here, searchlights and machineguns may be trained on
 any part of the yard. The searchlights can be controlled manually or
 by CARL.
@@ -1038,13 +1038,13 @@ used in years, and is heavily weathered and non-functional. Under
 a plastic tarpaulin are three heavy-duty mining robots which were
 bought by the prison from the mining corporation, with the intent of
 using the robots to expand the mine or deal with a cave-in.
-23. Prisoners’ Recreation Yard: This area is surrounded by a high
+23. Prisoners' Recreation Yard: This area is surrounded by a high
 electrified fence. Prisoners are sometimes allowed to come here
 during their free period, in the evening if it is not too cold outside.
 The guards watch only to see the prisoners do not attempt to get
 over the fence, leaving them mostly to themselves. The lack of
 attention on the part of the guards makes it a good place to talk to
-other prisoners or to be knifed by one’s enemies. The area is always
+other prisoners or to be knifed by one's enemies. The area is always
 kept well-lit, and is under surveillance from the guard tower.
 24. Abandoned Buildings: These are several broken-down buildings,
 relics of the old Orion Metallurgy Corporation. They have been
@@ -1060,7 +1060,7 @@ buildings. V2 Monte Cristo regularly sleeps in these buildings.
 
 25. Wall: This is a low, earthen construction between the shuttle
 landing field and the compound.
-26. Laser Emplacement: This is equivalent to a ship’s triple beam
+26. Laser Emplacement: This is equivalent to a ship's triple beam
 laser turret, and commands the landing field and the surrounding
 countryside, as well as providing defence against aerial attack.
 27. Fuel Storage: This is a tank holding liquid hydrogen for the
@@ -1070,7 +1070,7 @@ the Orion Corporation days, provide power to the prison. The panels
 work automatically, but must be cleared of dust after a storm.
 29. Ore stockpile: Ore is carried along the conveyor belt from the
 crusher and dropped into a huge metal ore container, a box some six
-metres long and three metres square. If the container is full excess
+meters long and three meters square. If the container is full excess
 ore overflows and falls to the ground, prisoners are then expected to
 go out and gather the loose ore.
 
@@ -1104,12 +1104,12 @@ in this area.
 2a. At the back of this area is a locked door leading to a stairwell
 leading to the surface (location #9).
 
-3. Computer: This area contains the prison’s main computer,
+3. Computer: This area contains the prison's main computer,
 CARL, which runs the surveillance program as well as various
 prison bookkeeping functions. Prisoners are usually not allowed
 in this area.
 
-CARL’s main processor is in a secure room. To get to the core,
+CARL's main processor is in a secure room. To get to the core,
 you have to pass through an airlock (to keep out dust particles)
 and use a passcard to open the internal blast door. No-one in
 the prison is remotely qualified to repair CARL if it breaks down.
@@ -1118,7 +1118,7 @@ capable of self-repair, cannibalising its own back-up systems to
 keep functioning.
 
 4. Records: This area is the domain of the prison clerk. A number of
-favoured prisoners work here, but security is not overly heavy. The
+favored prisoners work here, but security is not overly heavy. The
 records department is responsible for all routine bookkeeping and
 record keeping functions. Prisoners who work here have access to
 computer terminals, but a security program keeps all but the most
@@ -1157,8 +1157,8 @@ seemingly at the whim of the rehabilitation counsellor. The prisoners
 are allowed to take short courses in carpentry, painting, vehicle
 repair, industrial safety, appliance repair, food preparation, and so
 on. In reality the equipment is old and inadequate, the instruction
-is indifferent, and the prisoners’ time is frequently pre-empted to do
-woodworking for the warden’s residence. Security is tight, because
+is indifferent, and the prisoners' time is frequently pre-empted to do
+woodworking for the warden's residence. Security is tight, because
 even some of the worst prisoners are sometimes allowed into the
 vocational rehabilitation program.
 9. Storage: These sections of the old mining facility once contained
@@ -1167,12 +1167,12 @@ storage. The doors into this section are kept locked at all times, and
 all except the door from the repair shop have been welded shut. The
 guards sometimes use the storage section to conduct beatings or
 criminal activity out of sight of the cameras. The storage section has
-little in the way of useful equipment – it’s a maze of empty rooms,
+little in the way of useful equipment – it's a maze of empty rooms,
 smashed machinery and dust.
 
 9a. Sealed Stairs: This stair leads up to the abandoned buildings
 (location #24 on the surface). The door at the top of the stairs
-is kept locked shut; the key is kept in the guard’s station on the
+is kept locked shut; the key is kept in the guard's station on the
 Administrative level. V2 Monte Cristo has made a copy of this key.
 
 9b. Rickety Stairs: The stairs here lead to the abandoned buildings
@@ -1220,14 +1220,14 @@ On the far wall from the bunk beds is a chemical toilet and sink. These units mu
 overflow. The chemical toilets contain sniffers which detect signs of drug use, disease or blood. Most cells also have a single table and
 chair. Also on this wall is a pair of lockers with, clear plastic doors and no locks, for storage of personal effects.
 
-At the top of the middle wall is fifteen-centimetre air vent. These vents connect to air pumps on the surface.
+At the top of the middle wall is fifteen-centimeter air vent. These vents connect to air pumps on the surface.
 
 On the ceiling is a sealed hemisphere containing both the light and the camera for the cell. Theoretically, any tampering to get at the
 camera should also damage the light, so the guards can easily check for malfunctioning cameras by turning off all the cell lights. The
 camera looks straight down at the cell below through a wide-angle lens.
 
 Hiding Places: There are several potential hiding places for small objects in a prison cell, but the guards know all of them. If a character
-tries to hide an object in his cell, and the cell is searched, roll 2d6+the guard’s Investigate skill to determine which places are searched.
+tries to hide an object in his cell, and the cell is searched, roll 2d6+the guard's Investigate skill to determine which places are searched.
 All locations with a value equal to or lower than the total rolled are searched by the guards.
 
 RollRoll LocationLocation
@@ -1258,13 +1258,13 @@ knuckle under or be beaten.
 2. Cellblock 2. Cellblock 2 is the busiest and most populated of the
 three main blocks. It is also in the best repair. Cellblock 2 has no
 ruling gang, but is divided between 2076 Etienne Lalaji and 2977
-Anton Kugazur’s nascent gang, the drug dealers, and by the big
+Anton Kugazur's nascent gang, the drug dealers, and by the big
 gangs from the other two cellblocks.
-3. Cellblock 3. Unlike the other cellblocks, cellblock 3’s cells are
+3. Cellblock 3. Unlike the other cellblocks, cellblock 3's cells are
 all on one side, and the main corridor is considerably narrower. A
 yellow stripe on the floor warns the guards to stay clear of the cells,
 to ensure they are not grabbed. Cellblock 3 is run by 6866 Gerard
-Benezech’s gang.
+Benezech's gang.
 4. Cellblock 4. The solitary cellblock is the most heavily patrolled of
 the four blocks. The guards use serving robots for many tasks here,
 to avoid attack by violent prisoners.
@@ -1276,7 +1276,7 @@ allowed to move along it at any one time.
 lower mining level are allowed to visit the library/commons area
 during their free time. Library files are stored on CARL, and can
 be downloaded to library terminals or portable readers. Access
-to a portable reader is a minor perk for trusted prisoners. CARL’s
+to a portable reader is a minor perk for trusted prisoners. CARL's
 library is mostly official Imperium publications, old novels, technical
 manuals for the Vocational Rehabilitation courses, very, very out-
 of-date JTAS issues, and a random selection of other books. More
@@ -1313,7 +1313,7 @@ involved in breaking up the chunks of ore. There used to be another
 lift shaft at the end of this area but it collapsed and was abandoned
 long ago, although with some careful work it might be possible to
 open a small passage through it.
-2. Area B: This is the area for equipment storage, and is the guards’
+2. Area B: This is the area for equipment storage, and is the guards'
 secure area. Prisoners assigned here are usually sent out to bring in
 loads of ore from mining areas further away, and are not allowed in
 the secure area itself.
@@ -1331,7 +1331,7 @@ themselves assigned quotas to meet.
 6. Area F: This is also similar to area 4, but connects to area 7 of the
 lower mining level.
 
-###### Guard’s Stations
+###### Guard's Stations
 
 Each guard station follows the same basic layout. There is a
 control console controlling all locks and other security measures
@@ -1343,7 +1343,7 @@ console is a panic button; there are also panic bars on the walls
 within easy reach of the guards.
 
 A secure locker in one wall contains emergency supplies,
-including gas grenades and extra weapons. Most guard’s
+including gas grenades and extra weapons. Most guard's
 stations also have another table with cards, entertainment holos,
 newspapers and other luxuries.
 
@@ -1373,7 +1373,7 @@ other in order to make their quotas.
 When a prisoner is sent to this level, throw 2D6 to determine his
 area of assignment.
 
-1. The Hole: This is a ten-metre-deep shaft with steep sides that
+1. The Hole: This is a ten-meter-deep shaft with steep sides that
 are impossible to climb. Prisoners who have crossed the guards
 
 are sometimes dumped into the hole for a week. The hole is highly
@@ -1398,7 +1398,7 @@ labourer must make an Endurance check each day, with a +1 DM if the character is
 the character is exhausted at the end of the day and suffers a -1DM to all rolls until he rests.
 
 Hiding Places: Like the cells, there are several hiding places in the mines. If a character tries to hide an object in the mines, and the
-mines are searched, roll 2d6+the guard’s Investigate skill to determine which places are searched. All locations with a value equal to or
+mines are searched, roll 2d6+the guard's Investigate skill to determine which places are searched. All locations with a value equal to or
 lower than the total rolled are searched by the guards.
 
 RollRoll LocationLocation
@@ -1459,7 +1459,7 @@ items.
 deserves its reputation. Prisoners are usually assigned to this area
 only for one week before being sent to a different area.
 13. Equipment Storage: Some mining equipment is stored in this
-area. This is also the guards’ safe area; prisoners are never allowed
+area. This is also the guards' safe area; prisoners are never allowed
 inside, and the guards on this level seldom venture out.
 
 ### THE NATURAL CAVE SYSTEM
@@ -1499,7 +1499,7 @@ equipment
 5 Spice Lizard (1)
 6 Cave Bat (2d6)
 7 Water – a small pool of tainted water. Drinking it
-reduces the character’s Endurance by 1d6.
+reduces the character's Endurance by 1d6.
 8 Cave Bat (3d6)
 9 Desert Skoggie (1)
 10 Cave Bat (4d6)
@@ -1511,7 +1511,7 @@ damage from a rockfall
 
 Optionally, an alien outpost may exist beneath the prison – see
 Alien Legacy, page 99 for details. This outpost may be discovered
-at the Referee’s discretion, or on a roll of 12 on the cave encounter
+at the Referee's discretion, or on a roll of 12 on the cave encounter
 table.
 
 ##### THE PRISON THE PRISON
@@ -1522,7 +1522,7 @@ table.
 
 Most of the vehicles in use in Tarkwall date back to the Orion
 Metallurgy era, and are barely functional rust-buckets which spend
-more time in the repair shed than on the road. The warden’s flyer
+more time in the repair shed than on the road. The warden's flyer
 is the only modern vehicle regularly seen in the prison. Most of the
 vehicles were built in the nearby system of Treece (TL8), although
 the robots were imported from Dinom (TL10).
@@ -1531,21 +1531,21 @@ the robots were imported from Dinom (TL10).
 
 The prison has three ATVs, stored in surface location 13.
 
-The all-terrain vehicles are half-tracked transports. The driver’s
+The all-terrain vehicles are half-tracked transports. The driver's
 compartment at the front has space for up to three passengers,
 including one riding shotgun at the roof hatch. There is a small
-cabin behind the driver’s compartment, containing a fold-out bunk
+cabin behind the driver's compartment, containing a fold-out bunk
 bed and a hot plate as well as supply lockers. The flatbed at the
 rear of the ATV can be covered with a canvas shade or loaded up
 with cargo. Another four people can fit in the ATV in comfort; when
 packed, it can carry up to ten in the rear compartment.
 
-The ATV’s engine is adapted for use in the desert, and includes sand
+The ATV's engine is adapted for use in the desert, and includes sand
 baffles and extra radiators to keep it cool. The vehicle has a limited
 water recycling capacity.
 
 Stealing an ATV: The ATVs have both an ignition key and a swipe
-reader for the guard’s keycards; one or the other is needed to activate
+reader for the guard's keycards; one or the other is needed to activate
 the vehicle. Alternatively, the ignition system can be bypassed with
 a Very Difficult (-4) Mechanic or Streetwise check or a Difficult (-2)
 Engineering (electronics) check. ATVs use the Drive (tracked) skill.
@@ -1554,11 +1554,11 @@ Sneaking onto an ATV: If the ATV is not carrying passengers in the
 rear, then it is easy enough (Routine Stealth check) to hide amid the
 cargo at the back of the vehicle. If the ATV is carrying passengers,
 it is almost impossible (Very Difficult). The prison ATVs rarely go
-more than a few kilometres from Tarkwall.
+more than a few kilometers from Tarkwall.
 
 ###### Ore Shuttle
 
-The Orion corporation’s ore shuttle is a flying brick, little more than
+The Orion corporation's ore shuttle is a flying brick, little more than
 a small cockpit atop a huge cargo bay, with a barely adequate anti-
 gravity generator powered by a small fusion reactor keeping the
 whole thing in the air. Stubby wings and variable-direction thrusters
@@ -1567,10 +1567,10 @@ shuttle is rated to reach orbit, but even getting to Circle City with a
 full load of ore taxes the engines to their limits, and the shuttle has
 not broken the atmosphere in decades. Another two ore shuttles sit
 in a back yard at the Circle City spaceport; one is being cannibalised
-for parts, and the second’s anti-grav is so badly shot it could fall out
+for parts, and the second's anti-grav is so badly shot it could fall out
 of the air at any moment.
 
-The ‘cargo bay’ has three docking clamps for carrying the huge ore
+The 'cargo bay' has three docking clamps for carrying the huge ore
 containers, but two containers are now permanently welded onto
 the shuttle. The middle clamp is still free, and is used to pick up the
 ore containers from the prison. The port container is used to carry
@@ -1590,7 +1590,7 @@ shuttle then drops off an empty cargo container, and then lands
 on top of the full ore container. If there is a lot of excess ore lying
 around, then the shuttle waits while the extra ore is loaded into the
 port container. Prison supplies are unloaded by the guards, or by
-trusted prisoners. The pilot stays in the shuttle’s cockpit the whole
+trusted prisoners. The pilot stays in the shuttle's cockpit the whole
 time; the cargo-master oversees the loading of the ore, and the
 security officer roams around the shuttle, keeping watch. A Very
 Difficult (-4) Stealth check is needed to sneak past the security
@@ -1629,7 +1629,7 @@ prisoner bay. The prisoners are kept in the rear passenger bay.
 There are two entrances to this bay; one from the forward passenger
 compartment, and the back wall folds down into a ramp. Up to
 twenty prisoners can be carried by this bay, held in four rows of five.
-Each row has manacles for the prisoners’ arms and legs. Warning
+Each row has manacles for the prisoners' arms and legs. Warning
 
 ##### TTHEHE P PRISONRISON
 
@@ -1640,17 +1640,17 @@ In addition to the manacles, the bay has security cameras watching
 the prisoners, as well as a sleep-gas tank which can be activated
 from the cockpit.
 
-Stealing the Prisoner Shuttle: Overriding the shuttle’s security
+Stealing the Prisoner Shuttle: Overriding the shuttle's security
 system is Very Difficult (-4) using Electronics or Computers. Corvas
 Doll has also installed a second security system, which will only
-be found on close examination of the floor of the shuttle’s cockpit.
+be found on close examination of the floor of the shuttle's cockpit.
 There is a concealed panel in the floor, which covers an automatic
-cut-off switch to the shuttle’s engines. If this switch is not pressed
+cut-off switch to the shuttle's engines. If this switch is not pressed
 two minutes after the shuttle takes off, then the security system
-will steadily reduce the shuttle’s engine power, forcing it to land.
+will steadily reduce the shuttle's engine power, forcing it to land.
 The shut-off is gradual enough to allow the thief to easily land the
 shuttle safely, but ensures the shuttle will be forced down within a
-few kilometres of Tarkwall.
+few kilometers of Tarkwall.
 
 Sneaking Onto The Prisoner Shuttle: There are no easy hiding
 places in the front half of the shuttle, in the front compartment or
@@ -1658,18 +1658,18 @@ the cockpit. A character could hide in the prisoner bay at the rear, if
 the rear ramp was down or he knew the code to the heavy door from
 the front compartment.
 
-###### Warden’s Flyer
+###### Warden's Flyer
 
 Warden Grice has a small enclosed flyer, a sporty little g-craft which
 was a retirement bonus from the Treece Navy. It is in excellent
 condition and spotlessly clean. The flyer can carry up to three people.
-It is kept in a garage next to the warden’s house; he sometimes flies
+It is kept in a garage next to the warden's house; he sometimes flies
 himself to Circle City, but usually takes the prisoner shuttle.
 
-Stealing The Warden’s Flyer: The garage holding the flyer is kept locked,
-and the flyer’s activation key is kept in the safe in the warden’s house.
+Stealing The Warden's Flyer: The garage holding the flyer is kept locked,
+and the flyer's activation key is kept in the safe in the warden's house.
 
-Sneaking Onto The Warden’s Flyer: Next to impossible; there is no
+Sneaking Onto The Warden's Flyer: Next to impossible; there is no
 cargo space on the flyer big enough to hide a stowaway.
 
 ### PRISON ROBOTS
@@ -1712,7 +1712,7 @@ VehicleVehicle TLTL SkillSkill AgilityAgility SpeedSpeed Crew & PassengersCrew &
 ATV 8 Drive (tracked) -1 80 kph 1 driver, 9 passengers 8
 Ore Shuttle 8 Flyer (grav) -2 150 kph 1 pilot, 1 cargo-master, 1 security 10
 Prisoner Shuttle 8 Flyer (grav) -1 250 kph 1 pilot, 6 passengers, 20 prisoners 8
-Warden’s Flyer 10 Flyer (grav) +1 350 kph 1 pilot, 2 passengers 6
+Warden's Flyer 10 Flyer (grav) +1 350 kph 1 pilot, 2 passengers 6
 
 ###### ROBOTS
 
@@ -1726,7 +1726,7 @@ Traits Specialised Computer running Intellect/1 and Expert/1, Taser (1d6+1 stun)
 
 ##### THE PRISON
 
-The various non-player characters of the prison form an important part of the player characters’ environment. The characters listed below
+The various non-player characters of the prison form an important part of the player characters' environment. The characters listed below
 should not be considered to be the entire prison population, only those worthy of note. There are many other prisoners and guards, but
 these are faceless spear-carriers as far as the players are concerned.
 
@@ -1736,8 +1736,8 @@ their parts.
 ###### Prisoners
 
 Each prisoner has a four-digit prison number; the first two digits are purely cosmetic, while the last two are significant and are the same as
-the prisoner’s die roll on the encounter table (if any). Prisoners are listed below in numerical order, by the last two digits; thus prisoner 0166
-would be listed after prisoner 9901. In addition to name, UPP, age, possessions, and skills, each prisoner’s listing gives his prison reputation
+the prisoner's die roll on the encounter table (if any). Prisoners are listed below in numerical order, by the last two digits; thus prisoner 0166
+would be listed after prisoner 9901. In addition to name, UPP, age, possessions, and skills, each prisoner's listing gives his prison reputation
 and his cellblock/number of cellmate. Comments below give his work assignment (if other than the upper mining level), rumors he knows,
 descriptive traits for roleplaying, and any other facts of use to the referee. Listed assignments are what the prisoners have when they first
 come into contact with the player characters, and might change as a result of some action taken during the course of the adventure.
@@ -1751,7 +1751,7 @@ Possessions: Drug inhaler. Traits: Very weak, hacking cough.
 Peter is dying of silicosis, and is frequently in the infirmary. He was convicted initially of embezzling and sent to a minimum-security facility,
 but transferred to Tarkwall prison after being framed for the murder of a fellow prisoner. Wogan is melancholic and often depressed. He
 writes regular letters to his lawyer, Kiel Sawn, begging for aid. Sawn is trying to make Wogan a cause celebre in Circle City in an attempt to
-discredit Tarkwall, but so far the lawyer’s plots have yet to bear fruit.
+discredit Tarkwall, but so far the lawyer's plots have yet to bear fruit.
 
 ###### 2803 Enli Shulgidun
 
@@ -1760,7 +1760,7 @@ Age 23 Rep 0 Block 1/5426
 Skills: Mechanic 2, Melee (brawling) 1, Jack-of-all-trades 1, Stealth 1, Persuade 0, Drive 0, Gun Combat 0
 Possessions: Cr100, metalworking tools Traits: Threatens people with metalworking tools, aggressive
 Assignment: Repair shop Rumors: 8, 48.
-Enli is the junior member of Big Rolf’s gang, and is a belligerent defender of Big Rolf’s ‘honor’. He is eager to prove himself in Big Rolf’s
+Enli is the junior member of Big Rolf's gang, and is a belligerent defender of Big Rolf's 'honor'. He is eager to prove himself in Big Rolf's
 eyes, and may take risks or pick fights to show how tough he is. He uses his metalworking tools as weapons. He is serving a life sentence
 for the murder of a security guard on his homeworld.
 
@@ -1785,10 +1785,10 @@ STR6 DEX8 END5 INT8 EDU5 SOC4
 Age 48 Rep 10 Block 2/7902
 Skills: Deception 3, Persuade 1, Computers 1, Streetwise 1, Melee (brawling) 1, Broker 2, Pilot 0
 Possessions: Cr 1,100, planetary map, forgery equipment Traits: Always happy, fat and bald
-Assignment: Clerk’s office. Rumors: 5, 13, 24, 27, 42, 48, 56.
+Assignment: Clerk's office. Rumors: 5, 13, 24, 27, 42, 48, 56.
 Azax is an engagingly jovial ex-merchant of easily purchasable morals. He will forge any document for a few
 hundred credits. He will be very appreciative for any efforts to help Peter Wogan, his cellmate, and will pay high
-prices for medical drugs. Azax’s starship was seized by the authorities when he was imprisoned, but he claims it
+prices for medical drugs. Azax's starship was seized by the authorities when he was imprisoned, but he claims it
 is still docked at Keanou Downport. If anyone is plotting an escape attempt which seems plausible, Hamid will try
 to get involved.
 
@@ -1810,9 +1810,9 @@ STR7 DEX8 END6 INT9 EDU9 SOC7
 Age 43 Rep -10 Block 2/3632
 Skills: Deception 3, Admin 3, Computer 1, Streetwise 1, Gun Combat (slug pistols) 1, Persuade 0, Stealth 0, Melee 0
 Possessions: Cr700, 6 blank passes, fake revolver Traits: Lickspittle, handsome
-Assignment: Clerk’s office. Rumors: 2, 10, 23, 24, 26, 34, 36, 45, 49, 50, 51, 61.
+Assignment: Clerk's office. Rumors: 2, 10, 23, 24, 26, 34, 36, 45, 49, 50, 51, 61.
 Jon is very influential with the prison administration, and is willing to intercede on behalf of other inmates (for a few hundred Cr). His
-position in the clerk’s office also lets him adjust the duty roster, and his enemies tend to get assigned to the danger zone or The Hole. G5
+position in the clerk's office also lets him adjust the duty roster, and his enemies tend to get assigned to the danger zone or The Hole. G5
 Emil Patowic, G7 Karl Ulashan, and G10 Semyon Wainrite are his friends.
 
 ###### 1711 Razeem Thonon
@@ -1822,8 +1822,8 @@ Age 40 Rep 0 Block 3/1215
 Skills: Melee (brawling) 2, Admin 0, Stealth 1, Persuade 1, Athletics (strength) 1
 Possessions: Cr500, one-shot hand stunner Traits: Arrogant, heavily tattooed
 Assignment: Safe Area. Rumors: 23, 34, 48, 54.
-Razeem is cellblock 3’s chief trustee. He is easy to bribe, if one caters to his desire to feel a sense of power over others. He reports to the
-guards regularly. He carries a one-shot hand stunner, built by his cell-mate 1215 Ward Stamboul. Razeem’s extensive tattoos are a source of
+Razeem is cellblock 3's chief trustee. He is easy to bribe, if one caters to his desire to feel a sense of power over others. He reports to the
+guards regularly. He carries a one-shot hand stunner, built by his cell-mate 1215 Ward Stamboul. Razeem's extensive tattoos are a source of
 great pride for him, and he is searching for a tattoo artist of sufficient skill to add more.
 
 ###### 8412 Larin Cruz
@@ -1834,7 +1834,7 @@ Skills: Melee (blade) 1, Streetwise 1, Stealth 2, Deception 0, Navigation 0
 Possessions: 8 gems Traits: Mute, unsettling.
 Larin is a mute, and usually has little interaction with the other prisoners. He moves in a quirky, jerky way, almost like a puppet. He collects
 precious stones, and has in the past deliberately started a brawl just to get assigned to the Danger Zone to look for gems. He keeps his
-collection of gemstones in the air vent in his cell; his cellmate 9047 Rand Guirish knows this, and intends to steal Larin’s gems before
+collection of gemstones in the air vent in his cell; his cellmate 9047 Rand Guirish knows this, and intends to steal Larin's gems before
 making his escape attempt.
 
 ###### 2913 Mort Eglesi
@@ -1847,7 +1847,7 @@ Assignment: Kitchen. Rumors: 1, 10, 14, 21, 23, 26, 32, 43, 44, 45, 48, 50, 51.
 Mort is a good-natured cook with an ear for gossip, and a tongue willing to repeat it. He is serving a life sentence without the possibility of
 parole in the prison, but has adjusted to his fate and is trying to make the best of it. One of his interests is in the local cuisine of Keanou,
 and he has tried cave bat-based recipes in the past. Anyone who brings him raw meat – or better, is willing to be a test subject for one of
-his culinary experiments – will win Eglesi’s trust.
+his culinary experiments – will win Eglesi's trust.
 
 ##### PPRISONERSRISONERS, G, GUARDSUARDS, , ANDAND S STAFFTAFF PRISONERS, GUARDS, AND STAFF
 
@@ -1861,8 +1861,8 @@ Rumors: 10.
 Subotai is a drug addict and thug who takes his orders from 1217 Talbot Vinge. The whites of his eyes have turned blue due to extensive use
 of Ambrosia. Subotai rarely speaks, and when he does he spits his words with fierce intensity.
 
-Subotai was Vinge’s bodyguard and thug outside of prison, and both were arrested at the same time. Unknown to Subotai, Vinge implanted
-several sacs of experimental bioweapons inside Subotai’s lungs; these sacs went undetected by the imperial officers who arrested them,
+Subotai was Vinge's bodyguard and thug outside of prison, and both were arrested at the same time. Unknown to Subotai, Vinge implanted
+several sacs of experimental bioweapons inside Subotai's lungs; these sacs went undetected by the imperial officers who arrested them,
 and Vinge intends to continue his work after he is released using these samples.
 
 ###### 1215 Ward Stamboul
@@ -1896,9 +1896,9 @@ Age 41 Rep 10 Block 1/7321
 Skills: Medic 2, Persuade 2, Admin 2, Streetwise 1, Life Science (Biology) 3, Computer 2, Sensors 1, Social Science 0
 Possessions: Cr1,400, 1D6 doses of every listed drug Traits: Cynical, piercing eyes
 Assignment: Infirmary. Rumors: 1, 2, 4, 12, 48.
-Talbot is cellblock 1’s resident drug dealer. His prices are high, but he is willing to bargain. He was a scientist working for a bioweapons
+Talbot is cellblock 1's resident drug dealer. His prices are high, but he is willing to bargain. He was a scientist working for a bioweapons
 research outfit which was destroyed by the Imperium. Before the Imperial troops came for him, Vinge managed to hide samples of several
-experimental weapons in bioplastic sacs inside the lungs of 0014 Subotai Shanad. With luck, these sacs will not degrade before Vinge’s
+experimental weapons in bioplastic sacs inside the lungs of 0014 Subotai Shanad. With luck, these sacs will not degrade before Vinge's
 parole hearing comes up, and he can sell the DNA code on the black market. If not... well, Shanad will be patient zero in an epidemic.
 
 ##### PRISONERS, GUARDS, AND STAFF PPRISONERSRISONERS, G, GUARDSUARDS, , ANDAND S STAFFTAFF
@@ -1909,7 +1909,7 @@ STR8 DEX 5 END10 INT5 EDU3 SOC4
 Age 34 Rep 0 Block 1/1217
 Traits: Nervous, Thin
 Skills: Melee (Brawling) 2, Athletics (endurance 2), Stealth 0, Deception 0.
-Hari is cellblock 1’s chief trustee. He is under the thumb of 1217 Talbot Vinge and completely frightened out of his wits by 7057 Big Rolf, who
+Hari is cellblock 1's chief trustee. He is under the thumb of 1217 Talbot Vinge and completely frightened out of his wits by 7057 Big Rolf, who
 considers Hari a threat to his power. Hari wants to be transferred out of cellblock 1, but this will cost him his influence in the prison.
 
 ###### 9623 Tsunego Artois
@@ -1919,7 +1919,7 @@ Age 24 Rep 0 Block 1/0014
 Skills: Melee (blade) 1, Gun Combat 0, Streetwise 0, Stealth 1, Sensors 1, Comms 1, Investigate 0, Drive 0
 Possessions: Cr100, dagger Traits: Very well groomed, vicious
 Rumors: 10.
-Tsunego, a drug addict, is 1217 Talbot Vinge’s assistant drug dealer and chief thug. He acts only on Talbot’s orders. Artois was a trainee
+Tsunego, a drug addict, is 1217 Talbot Vinge's assistant drug dealer and chief thug. He acts only on Talbot's orders. Artois was a trainee
 law enforcement agent on his homeworld, but was found to be supplying information to criminal gangs. He keeps his dagger hidden in the
 chemical toilet in his cell, and he is more than willing to use the blade if it will pry more drugs out of Talbot.
 
@@ -1940,8 +1940,8 @@ Age 41 Rep 0 Block 1/2803
 Skills: Mechanic 3, Engineering (electronics) 2, Streetwise 1, Melee (brawling) 1, Sensors 0
 Possessions: Cr300, lockpick set, mechanical tool set Traits: Long fingers, stained face
 Assignment: Repair shop. Rumors: 26, 31, 32.
-Spiro’s hobby is picking locks, and he can open any door in the prison. He is busy being a model prisoner, so he will never join an escape
-attempt, but might aid a friend’s escape. His face and the whole left side of his body is mottled blue, the result of exposure to a security
+Spiro's hobby is picking locks, and he can open any door in the prison. He is busy being a model prisoner, so he will never join an escape
+attempt, but might aid a friend's escape. His face and the whole left side of his body is mottled blue, the result of exposure to a security
 chemical spray during an attempted theft of secrets from a corporation. The chemical spray permanently altered his skin cells, allowing him
 to be easily identified by the corporate bounty hunters.
 
@@ -2005,7 +2005,7 @@ Possessions: Cr500, Commdot Traits: Smiling, oily
 Rumors: 10, 16, 29, 48.
 Bobby willingly informs on anyone. He is invariably friendly in an oily sort of way, and would rat on his friends, if he had any. The guards
 have given him a commdot, a concealed communicator, but most of the time they do not bother listening to his transmissions. Instead,
-they divert his messages to CARL, which is unfortunate – Bobby’s cellmate 6533 Arpad Nisha is a telepath who talks in his sleep, and Bobby
+they divert his messages to CARL, which is unfortunate – Bobby's cellmate 6533 Arpad Nisha is a telepath who talks in his sleep, and Bobby
 has picked up a lot of useful information by listening to Arpad at night. Bobby has a new rumor every month (roll randomly for the rumor)
 picked up from Arpad, but he will only share these rumors with his friends.
 
@@ -2016,7 +2016,7 @@ Age 39 Rep 10 Block 2/8107
 Skills: Melee (brawling) 2, Streetwise 1, Melee (blade) 1, Drive 0, Zero-G 0
 Possessions: Cr300 Traits: Huge muscles, silent
 Assignment: Safe area. Rumors: 42.
-Halse is cellblock 2’s chief trustee. He is difficult to communicate with, except through his cellmate Jon Kupishii. Kupishii tells Halse
+Halse is cellblock 2's chief trustee. He is difficult to communicate with, except through his cellmate Jon Kupishii. Kupishii tells Halse
 everything he needs to know, and Halse has come to trust and rely on his cellmate completely. Halse exercises a great deal and has an
 astonishingly well-developed physique.
 
@@ -2052,7 +2052,7 @@ Skills: Medic 1, Engineering (Electronics) 1, Jack-of-all-trades 1, Pilot (space
 Traits: Scarred face, calm.
 Assignment: Infirmary. Rumors: 4, 6, 9, 10, 11, 1 7, 25, 41, 42, 48, 50, 53.
 Felip, a former gangster, is an escape committee member. He sees himself as the leader of the committee, and is the most conservative of
-its members, squashing any plans he fears will alert the guards. Anyone who questions Felip’s decisions openly will draw the wrath of his
+its members, squashing any plans he fears will alert the guards. Anyone who questions Felip's decisions openly will draw the wrath of his
 occasional ally, Big Rolf.
 
 ###### 3136 Stiv the Blade
@@ -2061,7 +2061,7 @@ STR9 DEX7 END7 INT4 EDU2 SOC3
 Age 24 Rep 0 Block 2/0730
 Skills: Melee (blade) 3, Stealth 1, Deception 0
 Possessions: Cr100, blade Traits: Angry, highly-strung.
-Stiv is a drug addict, and depends on 0730 Winston Urmarush for his next fix. He is Winston’s chief enforcer, although Winston despises
+Stiv is a drug addict, and depends on 0730 Winston Urmarush for his next fix. He is Winston's chief enforcer, although Winston despises
 Stiv as an uneducated dolt. Stiv is rapidly heading for the Danger Zone or even The Hole, as he has repeatedly angered the guards - if Stiv
 is removed to Cellblock 4, then Urmarush will be looking for a new thug.
 
@@ -2073,7 +2073,7 @@ Skills: Mechanic 1, Streetwise 1, Melee (Brawling) 1, Engineering (civil) 2, Rec
 Possessions: Cr200 Traits: Claustrophobic, small.
 Rumors: 9, 19, 22, 32, 33, 41, 42, 43, 44, 47, 48.
 Axel is a claustrophobic, and gets violent whenever he is placed in a confined space. He has successfully escaped from both this and
-another prison, but can’t seem to stay loose. He is on the escape committee, and is seriously interested in another escape.
+another prison, but can't seem to stay loose. He is on the escape committee, and is seriously interested in another escape.
 
 ###### 1640 Nero Holt
 
@@ -2121,13 +2121,13 @@ Possessions: Cr100, cutlass Traits: Military bearing, commanding voice.
 Assignment: Laundry. Rumors: 13, 27, 29, 32, 51.
 Commander Gant, as he prefers to be called, is one of the few Imperial military commanders ever to be tried and convicted of an atrocity
 
-- during a war with a rebellious border noble, Gant ordered his commandos to board and capture the noble’s flagship. He then programmed
-the flagship to crash into the planetary fortress below. Thousands died when the ship smashed into the castle at hundreds of kilometres
+- during a war with a rebellious border noble, Gant ordered his commandos to board and capture the noble's flagship. He then programmed
+the flagship to crash into the planetary fortress below. Thousands died when the ship smashed into the castle at hundreds of kilometers
 an hour. Relations of the dead noble used their influence to ensure Gant was incarcerated at Tarkwall, rather than a more suitable military
 prison.
 
 The warden was overjoyed when Gant was assigned to the prison, as now he has another military man to talk with about the good old days.
-Gant has sometimes even been invited to dine at the warden’s house.
+Gant has sometimes even been invited to dine at the warden's house.
 
 ###### 8144 Eneri Shadashi
 
@@ -2137,7 +2137,7 @@ Skills: Gun Combat (slug pistol) 1, Persuade 1, Streetwise 1, Deception 2, Melee
 Possessions: Cr100, one piece of random equipment Traits: Giggles a lot, quick
 Rumors: 1 3, 27, 29, 32, 54.
 Eneri is a kleptomaniac; if Eneri is encountered, on 8 + this does not mean the prisoners have met him, but he has attempted to steal
-something (referee’s choice) from them. He is also a drug addict, and sometimes tries bartering his stolen goods for drugs, but both 1217
+something (referee's choice) from them. He is also a drug addict, and sometimes tries bartering his stolen goods for drugs, but both 1217
 Talbot Vinge and 0730 Winston Urmarush refuse to deal with the thief, so Eneri has to go through middlemen.
 
 ###### 8045 Mohanlal Waite
@@ -2181,10 +2181,10 @@ to help him. He has heard there is an escape committee, and wants to contact the
 STR5 DEX6 END5 INT7 EDU8 SOC7
 Age 44 Rep -10 Block 1/2167
 Skills: Persuade 1, Deception 1, Admin 1, Computer 1, Advocate 0.
-Assignment: Clerk’s office.
+Assignment: Clerk's office.
 Traits: Quiet, balding.
 Ben is very timid, and can be bullied into doing anything. However, he will fail to carry out any dangerous action when the time comes. He
-is protected by his cellmate, 2167 Dan Amigi, who is a member of the escape committee and needs Kerner as a spy in the clerk’s office.
+is protected by his cellmate, 2167 Dan Amigi, who is a member of the escape committee and needs Kerner as a spy in the clerk's office.
 
 ###### 1451 Tenje Takri
 
@@ -2194,7 +2194,7 @@ Skills: Melee (Brawling) 2, Stealth 2, Streetwise 1, Computers 0, Gun Combat 0, 
 Traits: Scowling, gravely voice.
 Rumors: 52.
 Tenje is not very sociable. He was a new recruit on a merchant ship which misjumped and ran out of food. The crew drew lots, and Tenje
-‘won’ – the crew ate each other, one by one, until only Tenje was left. An inquest found him guilty of murder and cannibalism. His crime is
+'won' – the crew ate each other, one by one, until only Tenje was left. An inquest found him guilty of murder and cannibalism. His crime is
 looked upon as a very loathsome act, so he is frequently attacked, but is capable of defending himself.
 
 ###### 8152 Peroz Atheling
@@ -2217,7 +2217,7 @@ Skills: Gun Combat (Slug Rifle) 1, Survival 1, Melee (Brawling) 1
 Traits: Bad Temper, Odd Accent
 Rumors: 5, 12, 19, 24, 33, 43, 44.
 Porv is a local boy, who got into trouble in Circle City and was sent here. He has a bad temper, a loud mouth, and no brains. However, his
-knowledge of the planet makes him worth cultivating. He particularly hates his cellmate 8045 Mohanlal Waite’s pet rat, and would be very
+knowledge of the planet makes him worth cultivating. He particularly hates his cellmate 8045 Mohanlal Waite's pet rat, and would be very
 grateful to anyone who murdered the pest.
 
 His ex-girlfriend Heydi Kindal is now seeing G16 Reym Marushich. Porv is unaware of their relationship.
@@ -2253,7 +2253,7 @@ Age 37 Rep 20 Block 2/8825
 Skills: Melee (Brawl) 4, Streetwise 1, Gambler 3, Recon 0, Medic 0, Athletics (Dexterity) 1, Athletics (Strength) 1
 Possessions: Cr400 Traits: Very tall, tattoo of a die on one hand.
 Rumors: 3, 10, 11, 47, 48.
-Olex runs the prison numbers racket. His hobby is beating up prisoners who annoy him. Olex stands nearly two metres tall in his prison
+Olex runs the prison numbers racket. His hobby is beating up prisoners who annoy him. Olex stands nearly two meters tall in his prison
 boots, and is an accomplished martial artist. He covets the lucky charm owned by 8825 Lucky Sleven, and would pay well if he could get
 his hands on it.
 
@@ -2264,8 +2264,8 @@ Age 23 Rep 0 Block 1/7057
 Skills: Melee (Brawling) 2, Drive (tracked) 1, Gun Combat (slug rifle) 1, Stealth 2
 Traits: Bushy beard, golden earrings
 Assignment: Danger zone. Rumors: 10, 48.
-Yussef is Big Rolf’s right hand thug, and is never far away from Rolf. Yussef has a penchant for cruelty and stupidity, and is only restrained
-from excesses by Big Rolf’s orders. Rolf claims to have found Yussef on a barbarian world on the fringes of the Imperium, and certainly the
+Yussef is Big Rolf's right hand thug, and is never far away from Rolf. Yussef has a penchant for cruelty and stupidity, and is only restrained
+from excesses by Big Rolf's orders. Rolf claims to have found Yussef on a barbarian world on the fringes of the Imperium, and certainly the
 thug has very little in the way of civilising graces or charm.
 
 ###### 8661 Loudon Plauser
@@ -2278,7 +2278,7 @@ Assignment: Danger zone. Rumors: 7, 36, 48.
 Loudon is a homicidal maniac. He is easily angered (DM of -2 on all reaction rolls) and is difficult to reason with.
 6866 Gerard Benezech uses him to frighten impressionable prisoners. Someone in the prison poisoned Loudon a few months ago, and he
 was in the infirmary for weeks. The ordeal damaged his brain, exacerbating his violent tendencies. Loudon now suffers from hallucinations
-and random bouts of rage. While he takes out his anger on anyone within arm’s reach, Loudon is reserving the most brutal beating
+and random bouts of rage. While he takes out his anger on anyone within arm's reach, Loudon is reserving the most brutal beating
 imaginable for when he finds the person who poisoned him.
 
 ###### 7462 Nikolaus Ipuran
@@ -2311,10 +2311,10 @@ has become the terror of the prison. Assistant Warder Voller believes the best w
 to let Rolf dominate the cell block, so Rolf is tacitly permitted to retain his cutlass, a relic of his pirate days. If Rolf
 keeps the other inmates in check, then he gets to stay king of his own filthy little domain.
 
-Lately, Rolf’s arrangement with the warder has begun to collapse, as the gang becomes more violent and vicious.
-Any gang coming close to challenging Rolf’s authority will be quietly asked if they will observe the same arrangement
+Lately, Rolf's arrangement with the warder has begun to collapse, as the gang becomes more violent and vicious.
+Any gang coming close to challenging Rolf's authority will be quietly asked if they will observe the same arrangement
 as Rolf did. If they refuse, then the guards will be ordered to crack down on the gang. If they accept, then they will
-have the warder’s support in taking Rolf down.
+have the warder's support in taking Rolf down.
 
 ##### PRISONERS, GUARDS, AND STAFF PPRISONERSRISONERS, G, GUARDSUARDS, , ANDAND S STAFFTAFF
 
@@ -2351,7 +2351,7 @@ Skills: Melee (Blade) 2, Gun Combat (slug pistol) 2, Streetwise 1, Gambler 1, Ad
 Possessions: Cr400, blade Traits: Calculating, Cruel Eyes
 Assignment: Danger zone. Rumors: 11, 15, 39, 48.
 Seljuk was the head of a criminal gang on his homeworld, and was worth millions of credits. A police informant named Namerson broke
-Seljuk’s organization and ruined the man called The Knife, condemning him to life in Tarkwall. Seljuk has vowed revenge, and is trying to
+Seljuk's organization and ruined the man called The Knife, condemning him to life in Tarkwall. Seljuk has vowed revenge, and is trying to
 organise a way to have Namerson murdered from his prison cell.
 
 Seljuk lets 6866 Gerard Benezech run the gangs in Cellblock 3, but it is Seljuk who is the real power in this section of the prison. Few of the
@@ -2365,7 +2365,7 @@ Skills: Melee (Blade) 3, Streetwise 2, Gambler 2, Persuade 2, Stealth 0, Gun Com
 Possessions: Blade Traits: Egotistical, Solomani
 Assignment: Danger zone. Rumors: 10, 15, 35, 43, 46, 48.
 A pure-blood Solomani who claims to be able to trace his heritage back to the Second Imperium, Gerard is the head of cellblock 3 and
-doesn’t let anyone forget it. His control of the gang is actually a front for the real power, 2365 Seljuk the Knife, but for the average prisoner in
+doesn't let anyone forget it. His control of the gang is actually a front for the real power, 2365 Seljuk the Knife, but for the average prisoner in
 Block 3, Benezech is the angry god they must placate. Unlike his rival 7057 Big Rolf, Benezech does not use physical violence as his primary
 way to keep prisoners in line; he relies on threats, bribes and the occasional very brutal and very public punishment.
 
@@ -2381,12 +2381,12 @@ Age 41 Rep 20 Block 1/1850
 Skills: Gun Combat (slug rifle) 2, Melee (Brawling) 2, Tactics (military) 1, Sensors 0, Comms 0, Stealth 1, Recon 1
 Possessions: Cr300 Traits: Ex-soldier, electronic restraints
 Rumors: 6,9,11,18, 32, 38, 40, 41, 48.
-Dan is a member of the escape committee and one of Big Rolf’s lieutenants. Before being condemned to Tarkwall, Amgi was a special
+Dan is a member of the escape committee and one of Big Rolf's lieutenants. Before being condemned to Tarkwall, Amgi was a special
 forces operative in the planetary militia of a highly advanced world; his physique is engineered to perfection, and he has several cybernetic
 implants. As part of his prison sentence, some of these implants were crudely removed, leaving ghastly scars. Others were embedded too
-deeply in Amgi’s cerebral cortex to be removed, so the prisoner was fitted with electronic restraints in Circle City. These restraints take
-the form of white plastic attachments to the side of Amgi’s neck and spine. The doctors told him if any of the restraints are removed, the
-shock will fry Amgi’s nervous system. He has no idea if this is true or not, but he does not let any of the other inmates get close enough to
+deeply in Amgi's cerebral cortex to be removed, so the prisoner was fitted with electronic restraints in Circle City. These restraints take
+the form of white plastic attachments to the side of Amgi's neck and spine. The doctors told him if any of the restraints are removed, the
+shock will fry Amgi's nervous system. He has no idea if this is true or not, but he does not let any of the other inmates get close enough to
 threaten the cybernetic restraints.
 
 Amgi refuses to talk about whatever crime sent him to Tarkwall, but it is curious he was sent to an obscure civilian prison instead of a
@@ -2410,9 +2410,9 @@ Age 32 Rep 10 Block 3/4355
 Skills: Melee (brawling) 2, Athletics (strength) 2, Recon 1, Stealth 1, Melee (blade) 1, Gun Combat 0, Streetwise 0
 Traits: Hairy arms, grunts a lot
 Assignment: Danger zone.
-Ashgu doesn’t like people. This trait suited him when he was the enforcer for a criminal gang, breaking skulls for pay, but now he is in prison
+Ashgu doesn't like people. This trait suited him when he was the enforcer for a criminal gang, breaking skulls for pay, but now he is in prison
 and has no allies or friends because of his anti-social ways. Ashgu is hated by many in the prison community, and few would mourn if the
-Ape met with a convenient ‘accident’ in the Danger Zone. Ashgu reacts at -2 to everybody.
+Ape met with a convenient 'accident' in the Danger Zone. Ashgu reacts at -2 to everybody.
 
 ###### 6072 Kahan Tell
 
@@ -2423,7 +2423,7 @@ Possessions: Cold light lantern Traits: Military Bearing, Very Polite
 Assignment: Danger zone. Rumors: 10, 14, 30.
 Kahan is almost ridiculously polite, but is easily offended with violent results. Kahan is an ex-marine, and one thing which offends him
 instantly is ex-naval personnel. He loathes Warden Grice and 2943 Milovan Gran, and has a cautious friendship with 8046 Satoishi Honig,
-but has as yet refused to commit to joining Honig’s planned uprising. Kahan was convicted of selling military secrets to a rival duke. The
+but has as yet refused to commit to joining Honig's planned uprising. Kahan was convicted of selling military secrets to a rival duke. The
 ex-marine still has information worth selling, and is occasionally contacted by agents of the duke, who try to persuade him to spill more
 secrets in exchange for legal aid.
 
@@ -2436,7 +2436,7 @@ Age 41 Rep 10 Block 3/6866
 Skills: Melee (Brawling) 3, Melee (Blade) 2, Streetwise 1, Gun Combat 0
 Possessions: Cr800, blade Traits: Huge, Snorts a lot
 Assignment: Danger zone. Rumors: 15, 40, 48.
-Killer belongs to Gerard Benezech’s gang. His name is something of a misnomer – ‘Killer’ got his name when his nerve broke and he failed
+Killer belongs to Gerard Benezech's gang. His name is something of a misnomer – 'Killer' got his name when his nerve broke and he failed
 to fire on a police officer. If he had that killer instinct, Basimu would never have been arrested. Since then, Basimu has become much more
 bitter and ruthless, and is a terror of cell block 3. He works for 6866 Gerard Bezenech, and has no idea Bezenech is not the real head of the
 gang.
@@ -2452,7 +2452,7 @@ Avram is an adherent of a weird religious group called the Cult of the Traveller
 in human form. One of the tenets of the Cult is human sacrifice (seen as an attempt to communicate with God), which is why he ended up
 here. He attempts to convert other prisoners, but is usually scorned.
 
-Anyone may gain him as a friend by becoming a convert; however, this reduces one’s prison reputation by 5.
+Anyone may gain him as a friend by becoming a convert; however, this reduces one's prison reputation by 5.
 
 ###### 2076 Etienne Lalaji
 
@@ -2461,12 +2461,12 @@ Age 40 Rep 20 Block 2/2977
 Skills: Melee (Blade) 2, Gun Combat (rifle) 3, Stealth 1, Streetwise 1, Deception 0
 Possessions: Cr100, SMG, 30 rounds of ammo Traits: Nervous, pocked skin
 Assignment: Danger zone. Rumors: 3, 10, 1 5, 30, 40, 48, 50.
-Etienne and a departed friend (Jan ‘the Blade’ Lintrel) killed a guard and hid his shotgun in the danger zone. The guards increased security
-for nearly a year, but didn’t find it. Etienne knows where the gun is buried, but is too scared of losing the weapon to another prisoner to risk
+Etienne and a departed friend (Jan 'the Blade' Lintrel) killed a guard and hid his shotgun in the danger zone. The guards increased security
+for nearly a year, but didn't find it. Etienne knows where the gun is buried, but is too scared of losing the weapon to another prisoner to risk
 going to retrieve it. At the same time, he worries it will be found if he does not watch over it, so he arranges to get him himself assigned to
 the Danger Zone whenever he finishes his current punishment detail – usually by assaulting a guard or another prisoner.
 
-Long exposure to the Danger Zone is sapping Lalaji’s health, and he has started buying vitamin supplements and anti-rad drugs.
+Long exposure to the Danger Zone is sapping Lalaji's health, and he has started buying vitamin supplements and anti-rad drugs.
 
 ###### 2977 Anton Kugazur
 
@@ -2475,8 +2475,8 @@ Age 33 Rep 10 Block 2/2076
 Skills: Melee (blade) 2, Gun Combat (slug pistol) 1, Melee (Brawling) 3, Athletics (Endurance) 2, Streetwise 0.
 Possessions: Cr200, electric torch Traits: Ex-boxer, florid moustache
 Assignment: Danger zone. Rumors: 1 5, 47, 48.
-Anton is a ruthless killer and a good friend of 2076 Etienne Lalaji. Together they shake down unwary prisoners. He knows about Lalaji’s
-hidden shotgun, but so far Lalaji has not trusted Anton with the weapon’s location. Kugazur was a boxer before getting involved in a
+Anton is a ruthless killer and a good friend of 2076 Etienne Lalaji. Together they shake down unwary prisoners. He knows about Lalaji's
+hidden shotgun, but so far Lalaji has not trusted Anton with the weapon's location. Kugazur was a boxer before getting involved in a
 gambling syndicate and is trying to organise a prison boxing tournament with the aid of some of the guards.
 
 ##### PPRISONERSRISONERS, G, GUARDSUARDS, , ANDAND S STAFFTAFF PRISONERS, GUARDS, AND STAFF
@@ -2490,7 +2490,7 @@ Possessions: Cr400 Traits: Vargr
 Assignment: Danger zone. Rumors: 15, 18, 35.
 A mercenary wanderer far from home, the Vargr is a victim of his unfamiliarity with Imperial law. His true name
 is something like Krrcrr, but everyone in the prison just calls him by his species. His teeth have been capped with
-plastic to prevent him from using his bite attack on others. These caps also impede the Vargr’s ability to speak,
+plastic to prevent him from using his bite attack on others. These caps also impede the Vargr's ability to speak,
 further isolating him in the prison.
 
 ##### PRISONERS, GUARDS, AND STAFF PPRISONERSRISONERS, G, GUARDSUARDS, , ANDAND S STAFFTAFF
@@ -2509,7 +2509,7 @@ Possessions: Cr100 Traits: Oily, local connections
 Trook is a con man and shyster; he knew he was doomed to be sent to Tarkwall months before his case came to trial, so he took steps to
 prepare the prison for his arrival. He started bribing guards long before he arrived; he has already hired a lawyer to appeal his case, and set
 up a regular schedule of visitors to call on him in prison so he can smuggle goods in and out. Mere weeks after he arrives, Trook establishes
-himself as Tarkwall’s pre-eminent fixer.
+himself as Tarkwall's pre-eminent fixer.
 
 ###### 9092 Robilar Zemich
 
@@ -2523,8 +2523,8 @@ pulled a knife. Zemich wrestled the knife off the younger guard. The whole situa
 the other guards to throw Zemich to the wolves. Zemich was painted as a dangerous unstable thug who was on the verge of being fired
 
 Now, he is back in Tarkwall, and already he is hated by the other guards. Zemich is torn between trying to keep his head down and getting
-through his sentence, and fighting back against the corrupt system which blamed him for Danessur’s crimes. If anyone befriends Zemich,
-they earn the hatred of every guard in Tarkwall and the personal enmity of Warden Grice, but they do get to tap the ex-guard’s knowledge
+through his sentence, and fighting back against the corrupt system which blamed him for Danessur's crimes. If anyone befriends Zemich,
+they earn the hatred of every guard in Tarkwall and the personal enmity of Warden Grice, but they do get to tap the ex-guard's knowledge
 of Tarkwall security.
 
 ###### 9093 Vance Coster
@@ -2561,10 +2561,10 @@ Possessions: Cr500, comm Traits: Inquisitive, tattooed
 Row is not a prisoner at all, he is a journalist from a news agency based on Dinomn, a world six parsecs spinward of Keanou. He is here
 to investigate 2943 Milovan Gant – or, as he is known back on Dinomn, the butcher. Gant was responsible for a vicious attack on civilians
 during a territorial dispute on Dinomn, and the people of that world want to know what has become of their hated enemy. The Imperium
-would prefer to sweep Gant’s misdeeds under the carpet entirely, so Row has been forced to use unorthodox means – such as getting
+would prefer to sweep Gant's misdeeds under the carpet entirely, so Row has been forced to use unorthodox means – such as getting
 himself arrested and bribing clerks to have him sent to Tarkwall.
 
-As soon as Row has gathered enough information about Gant, his news service will arrange for ‘new information’ to come to light,
+As soon as Row has gathered enough information about Gant, his news service will arrange for 'new information' to come to light,
 exonerating the journalist.
 
 ###### 9096 Friedrich Nisha
@@ -2588,7 +2588,7 @@ STR9 DEX9 END6 INT5 EDU8 SOC5
 Skills: Gun Combat (slug rifle) 1, Melee (Brawling) 1, Gun Combat (energy pistol) 1, Admin 2, Investigate 0, Leadership 1, Computers 0,
 Comms 0
 Rumors: 4, 16. Traits: Sadistic
-Fedor is assistant warden Voller’s right hand man, and is in charge when the assistant warden is not around. Fedor is a brute and a sadist,
+Fedor is assistant warden Voller's right hand man, and is in charge when the assistant warden is not around. Fedor is a brute and a sadist,
 who enjoys the power he wields, especially when Voller is absent. He is a moderately competent commander of his guards – he has his
 inner circle of trusted henchmen (G3, G6, G14, G15 and G18) whom he allows free reign in dealing with problems, but he closely watches
 the other guards.
@@ -2602,7 +2602,7 @@ Skills: Gun Combat (slug rifle) 1, Melee (brawling) 2, Admin 0, Investigate 2, A
 Traits: Stickler for protocol
 One of the more conscientious guards, Ivan is forever attempting to raise the standard of prison security, and complains vociferously
 about the failings of his fellow guards. He will also investigate any allegations of guard brutality, mistreatment or illegal activity, although
-Assistant Warden Voller normally ignores Ivan’s reports. Ivan is immune to the lure of bribery - any bribery attempt will land the offender
+Assistant Warden Voller normally ignores Ivan's reports. Ivan is immune to the lure of bribery - any bribery attempt will land the offender
 in the danger zone for 4 weeks.
 
 ##### PRISONERS, GUARDS, AND STAFF PPRISONERSRISONERS, G, GUARDSUARDS, , ANDAND S STAFFTAFF
@@ -2613,7 +2613,7 @@ STR11 DEX8 END10 INT4 EDU4 SOC3
 Skills: Gun Combat (slug rifle) 2, Melee (brawling) 3, Persuade 2, Medic 0, Streetwise 1
 Traits: Terrifying
 Equipment: Subdermal armor (2)
-Also known as the Beast, Gorod is Voller’s attack hound and bruiser. The Beast is an ex-soldier who suffered a wound to the head on some
+Also known as the Beast, Gorod is Voller's attack hound and bruiser. The Beast is an ex-soldier who suffered a wound to the head on some
 distant battlefield; he is often lost in his hallucinations, seeing Voller as his commanding officer and the prisoners as the enemy, but even
 when lucid, Gorod is a tyrannical brute who actively enjoys the sight of blood. He has no friends or even contacts among the prisoners, and
 is uniformly feared.
@@ -2623,11 +2623,11 @@ is uniformly feared.
 STR7 DEX8 END6 INT8 EDU6 SOC5
 Skills: Gun Combat (Slug Rifle) 2, Tactics (military) 1, Drive (tracked) 1, Investigate 2, Admin 0, Advocate 1, Computers 0
 Rumors: 5,9. Traits: Calm
-Cesmo plays Go, and is favourably impressed by any prisoner who will play against him. He is the youngest of the guards, and took the job
+Cesmo plays Go, and is favorably impressed by any prisoner who will play against him. He is the youngest of the guards, and took the job
 in the prison to support his family in Circle City while he studies for his future career. He regularly leaves the prison to visit the city, and is
 sometimes willing to carry messages to the starport for prisoners he trusts.
 
-In Cesmo’s quarters, along with his Go board, he keeps a spare communicator, geiger counter and a toolkit. Anyone playing Go with him
+In Cesmo's quarters, along with his Go board, he keeps a spare communicator, geiger counter and a toolkit. Anyone playing Go with him
 has a good chance of being able to steal these items.
 
 ###### G5 Emil Patowic
@@ -2641,14 +2641,14 @@ actually go through with any smuggling he is bribed into, but he still charges f
 
 In addition to smuggling, Emil acts as a messenger and recruiter for criminal groups outside Tarkwall. If a criminal syndicate or gang needs,
 say, a shuttle pilot, a gunman and a hacker, then Emil reviews the prison files and identifies prisoners with those skills who are due for
-release in a short period. He has also paid for ‘accidents’ to happen to prisoners who have enemies outside in the real world.
+release in a short period. He has also paid for 'accidents' to happen to prisoners who have enemies outside in the real world.
 
 ###### G6 David Obrenov
 
 STR10 DEX8 END9 INT7 EDU7 SOC7
 Skills: Gun Combat (Slug Rifle) 1, Admin 2, Drive (tracked) 1, Computer 1, Investigate 1
 Rumors: 16, 26. Traits: Officious
-David is very officious and spends his time putting additional black marks on people’s records, but he occasionally loosens up enough to
+David is very officious and spends his time putting additional black marks on people's records, but he occasionally loosens up enough to
 be approachable. Unsurprisingly, his one friend is G2 Ivan, who often share a bottle of Keanou cactus liquor and complain about the prison
 management.
 
@@ -2683,7 +2683,7 @@ Assistant Warden Voller despises Karaas, and assigns him the worst jobs in the p
 STR6 DEX7 END7 INT4 EDU7 SOC6
 Skills: Gun Combat (rifle) 2, Drive (tracked) 2, Carouse 1, Mechanic 1, Comms 0, Investigate 0, Recon 0, Survival 1, Animals 0, Stealth 0
 Rumors: 2 , 5 , 11 , 1 9 , 28, 29, 32. Traits: Drunkard
-Harv is frequently drunk on duty (roll 6+); if drunk when encountered he will spill one of his rumors (referee’s choice). He is often seized by
+Harv is frequently drunk on duty (roll 6+); if drunk when encountered he will spill one of his rumors (referee's choice). He is often seized by
 violent rages, during which he drags random prisoners out of their cells and torments them. He is also an avid hunter, roaming the desert
 around the prison on his ATV with a shotgun in one hand and a bottle of cactus juice in the other.
 
@@ -2712,7 +2712,7 @@ STR8 DEX9 END7 INT7 EDU3 SOC5
 Skills: Gun Combat (slug rifle) 2, Melee (blade) 1, Recon 2, Survival 1, Pilot 0, Drive 0, Animals 0, Broker 0, Vacc Suit 0, Comms 0,
 Investigate 1
 Rumors: 28. Traits: Offworlder
-Unlike most of the other guards, Donan is not a native of Keanou. He comes from Edenelt in the Trin’s Veil subsector, all the way on the
+Unlike most of the other guards, Donan is not a native of Keanou. He comes from Edenelt in the Trin's Veil subsector, all the way on the
 other side of the Spinward Marches. He was working passage on various tramp traders and freighters, but ended up stuck in a low berth.
 On arrival at Keanou, the thawing process went wrong, leaving Donan hospitalised and in debt. He has been stuck working in Tarkwall for
 the last four years, and hates it, taking out his frustration on the prisoners. However, he has more in common with many of the inmates
@@ -2726,18 +2726,18 @@ of a psionic.
 STR8 DEX9 END8 INT6 EDU4 SOC7
 Skills: Gun Combat (rifle) 2, Drive (tracked) 1, Mechanic 2, Investigate 1, Medic 1, Comms 0, Stealth 0, Navigation 0.
 Rumors: 2. Traits: Just
-Brandt is usually honest and fair, and attempts to break up fights, but usually isn’t around – his primary responsibility is patrolling the
+Brandt is usually honest and fair, and attempts to break up fights, but usually isn't around – his primary responsibility is patrolling the
 bounds of the prison and maintaining the solar power farm. He is a quiet man, who prefers solitude and the open desert air to the crowded
-subterranean levels of the prison. He frequently argues with G9 Harv Wuckel over the latter’s behaviour.
+subterranean levels of the prison. He frequently argues with G9 Harv Wuckel over the latter's behaviour.
 
 ###### G14 Paul Hindin
 
 STR6 DEX6 END7 INT7 EDU8 SOC5
 Skills: Gun Combat (rifle) 2, Gambler 1, Computers 3, Comms 1, Sensors 1, Engineering 0, Investigate 0
 Rumors: 4, 49, 51. Traits: Thin and pale
-Paul runs the guards’ pool on new prisoners, in which the guards bet on the first of an incoming group to die. He is also in charge of
+Paul runs the guards' pool on new prisoners, in which the guards bet on the first of an incoming group to die. He is also in charge of
 computer security routines, which means he knows more about the workings of CARL than anyone else in Tarkwall. Paul knows the
-computer is behaving oddly, but has no idea how to moderate its behaviour or correct the growing problems, so he has concealed CARL’s
+computer is behaving oddly, but has no idea how to moderate its behaviour or correct the growing problems, so he has concealed CARL's
 idiosyncrasies from the senior staff out of fear of losing his job.
 
 ##### PPRISONERSRISONERS, G, GUARDSUARDS, , ANDAND S STAFFTAFF PRISONERS, GUARDS, AND STAFF
@@ -2778,8 +2778,8 @@ a psionic. He is deeply paranoid about psionics in the prison, and investigates 
 unidentified psionic powers, or the prisoners are conspiring together in any organised way. S2 Voller keeps Jorge out of the lower levels after
 a recent incident when the guard attacked two prisoners for no reason.
 
-He carries a ‘psionics detector’ that he was sold by a merchant who claimed the device comes from Darrian subsector. The gadget is
-purported to be a TL16 handheld Neural Activity Detector, but it is just a collection of scrap electronics which occasionally ‘identifies’
+He carries a 'psionics detector' that he was sold by a merchant who claimed the device comes from Darrian subsector. The gadget is
+purported to be a TL16 handheld Neural Activity Detector, but it is just a collection of scrap electronics which occasionally 'identifies'
 psionic activity.
 
 ###### G18 Tomas Danessur
@@ -2789,13 +2789,13 @@ Skills: Gun Combat (slug rifle) 2, Vacc Suit 1, Investigate 0, Melee 0, Drive 0,
 Rumors: 29, 64
 Traits: Selfish
 Tomas shot 2 prisoners a few years ago for no apparent reason, and there was a minor investigation which came to nothing. This breach in
-prison protocol confused many of the other staff, but they do not know Tomas’ secret – his real name is Tomas Grice, and he is the warden’s
-nephew. Tomas has been fired from several other jobs, so his uncle arranged for him to get a posting at Tarkwall Prison. (Tomas’ mother
+prison protocol confused many of the other staff, but they do not know Tomas' secret – his real name is Tomas Grice, and he is the warden's
+nephew. Tomas has been fired from several other jobs, so his uncle arranged for him to get a posting at Tarkwall Prison. (Tomas' mother
 Galia is not only a formidable presence in her own right, she is also a close friend of V1 Maribel Harmosa – see S1 Warden Grice for more
-details). Most of the time, Tomas guards the main gate, a job involving sitting in the sun and occasionally pressing a button marked ‘open’
-or a button marked ‘close’. To his credit, and to his uncle’s surprise, the boy rarely gets these two buttons mixed up.
+details). Most of the time, Tomas guards the main gate, a job involving sitting in the sun and occasionally pressing a button marked 'open'
+or a button marked 'close'. To his credit, and to his uncle's surprise, the boy rarely gets these two buttons mixed up.
 
-Tomas has the ambition to rise through the ranks and take over the warden’s job from his uncle, and the first step is to take over the role
+Tomas has the ambition to rise through the ranks and take over the warden's job from his uncle, and the first step is to take over the role
 of assistant warden by getting Voller fired.
 
 ##### PRISONERS, GUARDS, AND STAFF PPRISONERSRISONERS, G, GUARDSUARDS, , ANDAND S STAFFTAFF
@@ -2804,7 +2804,7 @@ of assistant warden by getting Voller fired.
 
 The prison staff members are listed in numerical order. Each
 staff member has a filter mask and may be wearing or using any
-appropriate items from the list of guards’ equipment, especially
+appropriate items from the list of guards' equipment, especially
 when venturing down into the mining levels.
 
 ###### S1 Warden Ambin Grice
@@ -2822,7 +2822,7 @@ in the Treece Planetary Navy.
 
 Of course, seeing as the Grand Nova was a rust-bucket System
 Defence Boat antiquated even by the standards of the First
-Imperium, and Grice’s ship spent more time in drydock than in
+Imperium, and Grice's ship spent more time in drydock than in
 space, this is not as impressive a rank as it sounds. One would
 never know this from talking to Grice, though – according to his
 stories, he was a dashing hero of the spaceways, battling Zhodani
@@ -2830,7 +2830,7 @@ armadas and slaughtering pirates in zero-g sabre duels.
 
 The Grand Nova was scrapped ten years ago to provide parts for
 her sister ships, Grand Cosmos and Grand Nebula , and her captain
-became the head warden of Tarkwall Prison. The warden’s house at
+became the head warden of Tarkwall Prison. The warden's house at
 the prison is a shrine to the star navy in general and the scrapped
 Grand Nova in particular – every room contains holos, paintings,
 memorabilia and other relics of his naval career. Some rooms are
@@ -2848,11 +2848,11 @@ conversation and is not considered dangerous can probably wrangle
 such an invitation.
 
 Grice is currently involved with a woman from Circle City named
-V1 Maribel Harmosa, a friend of his sister’s. Grice visits Circle
+V1 Maribel Harmosa, a friend of his sister's. Grice visits Circle
 City several times a month to see her, and Harmosa sometimes
-visits the prison via her flyer to stay in the Warden’s House. Grice’s
+visits the prison via her flyer to stay in the Warden's House. Grice's
 relationship with Harmosa exists at the sufferance of his sister Galia
-Dannessur, so he must keep Galia’s son G1 Tomas Dannessur out
+Dannessur, so he must keep Galia's son G1 Tomas Dannessur out
 of trouble.
 
 ###### S2 Assistant Warden Malko Voller
@@ -2866,14 +2866,14 @@ Malko Voller has been the assistant warden of Tarkwall Prison for
 the last fifteen years. He was assistant warden under Alia Cadpet,
 the previous head warden who killed herself with a drug overdose.
 Voller hoped to be promoted to her position, but instead Ambrose
-Grice took over. In truth, Grice may as well not exist in Voller’s
+Grice took over. In truth, Grice may as well not exist in Voller's
 world, as the head warden delegates almost all authority to him.
 
 Voller rules the prison with an iron hand. He has no illusions about
 the nature of Tarkwall Prison or those who are incarcerated there
 
 - they are all brutal, conscienceless animals, subhuman beasts.
-Voller’s duty as he sees it is to _break_ the prisoners, to smash their
+Voller's duty as he sees it is to _break_ the prisoners, to smash their
 wills and their power to resist, and then remake them as _useful_
 beasts, beasts of burden who can labour witlessly for the Imperium.
 If Voller could lobotomise the prisoners or psionically annihilate
@@ -2925,7 +2925,7 @@ computer data and camera images and to look for signs of a
 prisoner with a sufficiently interesting psychological problem to be
 written up in one of the interstellar psychiatric journals. An inmate
 with a compelling history or truly original psychological quirk
-could be Rovok’s ticket out of Tarkwall and into a more respected
+could be Rovok's ticket out of Tarkwall and into a more respected
 institution. In his darker moments, the psychologist wonders if
 he could engineer such a situation deliberately – there are psionic
 experiments and drug trials banned by the Imperium which would
@@ -2935,7 +2935,7 @@ Most of the time though, the psychologist tries to prevent himself
 from going mad. He spends his time reading or watching holos in
 his rooms in the prison, or wandering the desert, or playing elaborate
 practical jokes on the staff. Assistant Warden Voller especially hates
-Rovok, and Warden Grice listens to Voller’s advice so Rovok wields
+Rovok, and Warden Grice listens to Voller's advice so Rovok wields
 little influence in the prison hierarchy.
 
 ###### S4 Chaplain Jacobin Thomas
@@ -2950,7 +2950,7 @@ Keanou, and preaches the local religion, a generic mix of positive
 moral commandments and a belief in a universal spirit which created
 all life. He emphasises themes like redemption through suffering
 and the importance of trust, love and obedience in his sermons,
-but few prisoners pay much real attention to the chaplain’s words.
+but few prisoners pay much real attention to the chaplain's words.
 He is a weak-willed man without the charisma or authority to do
 any real good work with the inmates. A few of the older or weaker
 prisoners do listen to Thomas, and Warden Grice trots the chaplain
@@ -2969,9 +2969,9 @@ attempted hijacking. During his term there, he was trained in
 mechanical engineering by the counsellor there, and took a job in
 Tarkwall prison as few other places would employ him. He faithfully
 tries to teach the prisoners something which will keep them out of
-prison, once they get out, but usually doesn’t succeed.
+prison, once they get out, but usually doesn't succeed.
 
-Quint’s background as an ex-con means he knows prison life better
+Quint's background as an ex-con means he knows prison life better
 than any of the rest of the staff. If he takes a liking to a prisoner, he
 can be a valuable source of advice and help, and has even passed
 
@@ -2998,7 +2998,7 @@ to be an irritatingly unstable and buggy piece of software, and hates
 that the prison staff rely on the balky computer so much. If Luca
 has his way, then CARL would be scrapped and replaced with a
 nice, modern computer imported from a more advanced planet,
-but so far, Warden Grice has ignored both Luca’s requests and his
+but so far, Warden Grice has ignored both Luca's requests and his
 nightmarishly detailed budget proposals.
 
 ###### S8 Shuttle Pilot Corvas Doll
@@ -3061,10 +3061,10 @@ from Circle City.
 STR5 DEX7 END5 INT5 EDU7 SOC9
 Skills: Carouse 2, Drive 0, Comms 0, Diplomat 0
 Traits: Kind-hearted
-Maribel is S1 Warden Grice’s girlfriend. She is an empty-headed
+Maribel is S1 Warden Grice's girlfriend. She is an empty-headed
 socialite from Circle City, which is something of an accomplishment
 
-- the city is much too small for any sort of social scene, so Maribel’s
+- the city is much too small for any sort of social scene, so Maribel's
 idea of high society is based mainly on holos from more cosmopolitan
 worlds. She tries hard to be fashionable and sophisticated, but is
 quite clueless. Despite this, Grice is head-over-heels in love with her
@@ -3075,7 +3075,7 @@ few weeks he is too busy to leave the prison and so she must
 visit Tarkwall. She is soft-hearted and tries to spend time with the
 prisoners whenever she visits the prison. Any prisoner she takes
 pity on can expect better treatment from the warden; however,
-Grice is extremely paranoid about Maribel’s safety and insists she
+Grice is extremely paranoid about Maribel's safety and insists she
 be escorted by guards at all times.
 
 ###### V2 Monte Cristo
@@ -3123,7 +3123,7 @@ irony.
 He loathes S1 Warden Ambrose Grice, but knows S2 Voller would be
 even worse so he puts little pressure on Grice to resign. He is trying
 to thread a middle path between the two to improve conditions in
-Tarkwall without handing the prison over to Voller’s reign of terror.
+Tarkwall without handing the prison over to Voller's reign of terror.
 To do this, he will need allies and spies within the prison.
 
 ###### Old Crimes
@@ -3169,7 +3169,7 @@ bordering on Tarkwall Prison. Most of this is useless land, but
 his domain includes several valuable spice fields which are the
 foundation of his wealth. Getting workers for these fields, though,
 is difficult as the work is backbreakingly hard out on the freezing
-surface and is poorly paid. The baron’s latest scheme is to convince
+surface and is poorly paid. The baron's latest scheme is to convince
 
 ##### PPRISONERSRISONERS, G, GUARDSUARDS, , ANDAND S STAFFTAFF
 
@@ -3187,9 +3187,9 @@ There is nothing the lawyer will not do for money, apart from risk his own neck.
 and a grin.
 
 the warden that spice gathering should be added to the roster of
-jobs performed by the prisoners in Tarkwall. ‘If the dogs can dig
-uranium’, reasons the baron, ‘then by the Emperor’s golden
-posterior, they can dig spice too!’
+jobs performed by the prisoners in Tarkwall. 'If the dogs can dig
+uranium', reasons the baron, 'then by the Emperor's golden
+posterior, they can dig spice too!'
 
 For a man officially worth millions of credits, the baron is very
 interested in get-rich-quick schemes and black-market trading. The
@@ -3244,12 +3244,12 @@ sequence of play.
 First, he rolls for and resolves an event for each group of players.
 
 Second, the players may undertake their own actions: they may
-respond to the week’s events, seek out specific non-player characters,
+respond to the week's events, seek out specific non-player characters,
 ask questions, steal and hide equipment, and (eventually) stage
 escape attempts.
 
 Finally, the referee performs a small amount of bookkeeping: he records
-the passage of time, changes in characters’ cellblocks, work assignments,
+the passage of time, changes in characters' cellblocks, work assignments,
 and prison reputations, and the gaining of friends or enemies.
 
 ## EVENTS, ENCOUNTERS & INCIDENTS
@@ -3378,7 +3378,7 @@ and provoke a confrontation, inform on them to the guards (if
 his reputation is negative), and, in extreme cases, even attempt
 to kill them.
 
-Hostile: A prisoner will offer to fight (the player character’s options
+Hostile: A prisoner will offer to fight (the player character's options
 are given under Brawls and Knife Fights, beginning on page 60). A
 guard will threaten to beat the prisoner up; fast talking or grovelling
 may save him. A staff member will threaten to send him to the
@@ -3483,7 +3483,7 @@ cellblock if judged guilty of gang action.
 
 There are several possible work assignments for a prisoner. Initially,
 all new prisoners are assigned to the upper mining level. Incidents
-and events may change a character’s assignment to a job in the
+and events may change a character's assignment to a job in the
 safe area (administrative or surface) or condemn him to the Danger
 Zone. Each character is paid a nominal fee for their work in the
 prison; this money is supposed to be used to buy minor items and
@@ -3522,7 +3522,7 @@ Mining engineer assistant Surveying Requires Engineering 2 25 Cr
 Demolitions Blowing things up Requires Explosives 2 25 Cr
 Solitary Confinement/The Hole Suffering 0 Cr
 
-- Exhausting Work: The character must make an Endurance check after a day’s work, or suffer a -1 DM to all checks until he rests.
+- Exhausting Work: The character must make an Endurance check after a day's work, or suffer a -1 DM to all checks until he rests.
 
 ### NON-PLAYER CHARACTERS
 
@@ -3547,8 +3547,8 @@ Every prisoner has a prison reputation, which is a measure of
 his position in the unofficial prison hierarchy. A character with a
 high reputation is respected by his fellow prisoners, as well as the
 guards. A character with a low reputation is scorned by the prisoners
-and guards, but the prison staff will consider him a ‘good boy’. A
-character’s prison reputation is of paramount importance; daily
+and guards, but the prison staff will consider him a 'good boy'. A
+character's prison reputation is of paramount importance; daily
 comforts, escape possibilities, and even life itself are dependent on
 the opinions of the prison populace.
 
@@ -3556,20 +3556,20 @@ Reputation is gained or lost through interaction with the prison
 community, see the effects on reputation table on page 86 and
 other notes throughout this book. Reputation has several effects,
 but the most important is its effect on the reactions of non-player
-characters. The character’s reputation, divided by 10 and rounded
+characters. The character's reputation, divided by 10 and rounded
 toward zero (down if positive and up if negative) is a ± DM on the
 reactions of prisoners and guards. For example, a reputation of 18
 would give a DM of + 1; a reputation of 21 would give + 2; 5 or -5
 would give 0; -12 would give - 1.
 
-If a character’s reputation is -10 or lower, he receives a DM of +1 on
+If a character's reputation is -10 or lower, he receives a DM of +1 on
 the reactions of prison staff.
 
-The referee should keep a record of each player character’s prison
+The referee should keep a record of each player character's prison
 reputation; it should never be directly divulged to the player, although
 its effects and general magnitude should become apparent. For
 example, a character with a negative reputation may get jeered at
-and called a ‘dirty informer’.
+and called a 'dirty informer'.
 
 ###### EFFECTS ON REPUTATION
 
@@ -3597,30 +3597,30 @@ Running when attacked -2
 Calling for a guard during a brawl -5
 Gaining another prisoner as a friend *
 
-Note: * = ± one-tenth of friend’s reputation.
+Note: * = ± one-tenth of friend's reputation.
 
 ### GANGS AND OTHER PRISON POWER
 
 ### BLOCS
 
 Gangs: Each of the three cell blocks has its own ruling gang.
-Cellblock 1 is controlled by 7057 Big Rolf’s gang. He is backed up by
+Cellblock 1 is controlled by 7057 Big Rolf's gang. He is backed up by
 6960 Yussef Shelton, 2803 Enli Shulgidun, 7321 Hari Gordert, and
-2167 Dan Amgi. Cellblock 3 is run by 6866 Gerard Benezech’s gang.
+2167 Dan Amgi. Cellblock 3 is run by 6866 Gerard Benezech's gang.
 His chief lackeys are 2673 “Killer” Basimu, 2365 Seljuk the Knife,
 and 8661 Loudon Plauser.
 
 In cellblock 2, 2076 Etienne Lalaji and 2977 Anton Kugazur are
 attempting to assert their authority. They have a loose following
 among the other inmates. The two dominant gangs in the prison are
-Big Rolf’s and Gerard Benezech’s. There have been several fights
+Big Rolf's and Gerard Benezech's. There have been several fights
 between the two gangs, one of which the guards broke up, using
 gas. There used to be an even stronger gang, based in cellblock 2,
-led by Jan ‘the Blade’ Lintrel.
+led by Jan 'the Blade' Lintrel.
 
 Escape Committee: Aside from the gangs, there is an escape
 committee, which is very secretive and coordinates escape plots.
-The members’ names are not generally known; they are 2167 Dan
+The members' names are not generally known; they are 2167 Dan
 Amgi in cellblock 1, 2537 Axel Herrmon in cellblock 2 , and 1935 Felip
 Karageorge in cellblock 3.
 
@@ -3629,11 +3629,11 @@ some of the dirty work for the prison administration. They are 7321
 Hari Gordert in cellblock 1, 3632 Halse Eisen in cellblock 2, and 1711
 Razeem Thonon in cellblock 3.
 
-Drug Dealers: The prison’s chief drug dealers are also quite
+Drug Dealers: The prison's chief drug dealers are also quite
 influential; they are 1217 Talbot Vinge in cellblock 1 and 0730
 Winston Urmarush in cellblock 2. Both work in the infirmary and
 are in league with the crooked prison doctor and some of the guards
-to smuggle illegal drugs into the prison. Vinge’s henchmen are two
+to smuggle illegal drugs into the prison. Vinge's henchmen are two
 addicts: 0014 Subotai Shanad and 9623 Tsunego Artois. Urmarush
 relies on his cellmate 3136 Stiv the Blade and two guards, G5 Emit
 Patowic and G8 Alvim Karaas, to provide muscle for his operation.
@@ -3649,7 +3649,7 @@ Fedor, G3 Gorod and S6 Doctor Blint. Everyone in the prison fears
 and respects Voller.
 
 Dissident Staff: Several members of the prison staff, especially S3
-Psychologist Hajim Rovok, oppose Voller’s control over the prison.
+Psychologist Hajim Rovok, oppose Voller's control over the prison.
 They are not organised in any way, but if pressed, they could form
 an effective opposition in Tarkwall.
 
@@ -3752,7 +3752,7 @@ group of guards before gassing the area. The guards will give extra
 effort to investigating the murder of another guard. If successful in
 determining who was responsible, they may very well take justice
 into their own hands and throw the perpetrators down the lift shaft
-when the lift isn’t there. If a guard is killed, security will be increased
+when the lift isn't there. If a guard is killed, security will be increased
 for the next 1D x 4 weeks; see the event Security Increase.
 
 The guards are made suspicious by any group of prisoners larger than
@@ -3768,7 +3768,7 @@ Many of the guards and prison staff are corrupt. Bribes may originate
 from the players inside the prison or from friends operating on the
 outside. The guards are not paid especially well, so even small bribes
 are frequently accepted, so long as it does not interfere with the
-guard’s own safety (a guard will not smuggle laser rifles in for the
+guard's own safety (a guard will not smuggle laser rifles in for the
 
 ##### RRUNNINGUNNING THETHE A ADVENTUREDVENTURE RUNNING THE ADVENTURE
 
@@ -3800,7 +3800,7 @@ Many factors may alter this; a guard is less likely to follow through
 if the service involves a risk of being found out; he will be more
 likely to follow through if he is expecting to do business again in the
 future. Prisoners are more reliable, being vulnerable to a disgruntled
-client’s revenge.
+client's revenge.
 
 ###### Brawls & Knife Fights
 
@@ -3812,10 +3812,10 @@ a dagger or blade will use it automatically if his opponent is using
 a weapon.
 
 Options: Several basic options may be exercised when a character
-is attacked. The referee should try to fit the character’s actions into
+is attacked. The referee should try to fit the character's actions into
 one of these categories if possible.
 
-_Grovel:_ The attacker’s reaction is rerolled, with the same
+_Grovel:_ The attacker's reaction is rerolled, with the same
 modifications. If the result is greater than 2, the attacker will be
 satisfied, but the character loses 3 from his prison reputation.
 
@@ -3853,11 +3853,11 @@ aid someone who is beset at odds of two or three to one, and a
 spectator may lend a blade to an unarmed prisoner being attacked
 by an armed prisoner.
 
-Punishments: Fighting may reduce a prisoner’s capacity for work,
+Punishments: Fighting may reduce a prisoner's capacity for work,
 and is therefore punished, if only sporadically. If a fight is seen by
 guards or cameras, a participating prisoner will be punished on 8
 
-- ; on 6 +, all weapons used will be confiscated; on 3- a character’s
+- ; on 6 +, all weapons used will be confiscated; on 3- a character's
 defeated opponent will inform on him (5- if his reputation is - 10
 
 ##### RUNNING THE ADVENTURE RRUNNINGUNNING THETHE A ADVENTUREDVENTURE
@@ -3882,7 +3882,7 @@ rules. A fight ends when all on one side are unconscious or have run away
 ### EVENTS
 
 0 1 2 3 4 5 6 7
-0 Warden’s
+0 Warden's
 Friend
 
 Staff Friend Snoop Gamble
@@ -4014,7 +4014,7 @@ Gem Escape
 Committee
 
 DMs to First Die: +1 if work area is danger zone; -1 if work area is safe area.
-DMs to Second Die: +1 if leader’s reputation is 10 or more; -1 if leader’s reputation is -10 or less.
+DMs to Second Die: +1 if leader's reputation is 10 or more; -1 if leader's reputation is -10 or less.
 
 ###### Splitting The Party
 
@@ -4082,7 +4082,7 @@ the event happens to the leader of the group. If an event applies to
 “one prisoner”, the referee should choose randomly from qualified
 members of the group.
 
-Appeal: A letter arrives from one prisoner’s lawyer, stating new
+Appeal: A letter arrives from one prisoner's lawyer, stating new
 evidence has been discovered which may allow him a new trial.
 The legal system moves slowly, so it will be 1-3 years before the
 trial takes place, if it ever does. Substantial expenditures on the
@@ -4106,7 +4106,7 @@ of any character who jumps into the brawl and starts fighting.
 
 Cave Bat: The group has encountered a cave bat. Each player
 may attempt to capture it by making a Difficult (-2) Animals
-(handling) check. Prisoner 3622 “Batman” will trade favours or
+(handling) check. Prisoner 3622 “Batman” will trade favors or
 up to Cr50 for an unharmed cave bat. An outright gift of one will
 gain him as a friend.
 
@@ -4122,7 +4122,7 @@ This punishment might be averted by appeal to the prison staff,
 particularly if the prisoner is friends with a staff member (otherwise
 the chances are poor).
 
-The referee should remember to add 1 to the prisoner’s reputation
+The referee should remember to add 1 to the prisoner's reputation
 for being sent to the danger zone.
 
 Escape Committee: The prisoner with the highest prison
@@ -4167,17 +4167,17 @@ out the action agreed upon.
 
 Gamble with Guards: The prisoners may attend a game with some
 guards and some other prisoners. The prisoner may bet between Cr
-50 and Cr 200 2d6 times; the total pot is the character’s total bet x
+50 and Cr 200 2d6 times; the total pot is the character's total bet x
 the number of bets made. The winner is determined by the highest
 Gambler effect. If a prisoner cannot cover losses or is suspected of
 cheating, a stay of 1D6 weeks in the infirmary is the likely result.
 A guard may not be able to cover debts to a prisoner (throw 10+),
-in which case the guard may offer to make it up in favours (throw
+in which case the guard may offer to make it up in favors (throw
 6+).
 
 Gamble with Prisoners: The prisoners may attend a game with
 other prisoners. The prisoner may bet between Cr 25 and Cr 500 3d6
-times; the total pot is the character’s total bet x the number of bets
+times; the total pot is the character's total bet x the number of bets
 made. If a prisoner is unable to cover his debts, he will end up in
 the infirmary for 1D weeks and lose 1 from his prison reputation. If
 a player character is suspected of cheating, a fight with a randomly
@@ -4200,7 +4200,7 @@ level. Prisoners who have found gems may deliberately search for
 more gems, but may be caught slacking off on the job, or may be
 caught out of their assigned work area (some areas in the mining
 shafts are very poor areas to look for gemstones). Even then a
-prisoner’s chance of finding one by diligent search should be low
+prisoner's chance of finding one by diligent search should be low
 (10+ per week spent searching).
 
 Gift: A departing prisoner entrusts the leader with some personal
@@ -4228,7 +4228,7 @@ prisoner may sell out the other prisoners by aiding in the whitewash,
 in return for a reward: roll 1D6; on 1 or 2 he gets a safe area job of his
 choice, even if he lacks the requisite skills; on 3-5) he receives 2D x
 Cr 100; on a 6 he gets a one year reduction in sentence, which must
-however be approved by the warden’s superiors and is received only
+however be approved by the warden's superiors and is received only
 on a throw of 8+.
 
 If the prisoner sells out, a difficult (-2) Persuade must be made to
@@ -4247,7 +4247,7 @@ also lost if the prisoner is sent to the danger zone or to solitary.
 Inspection: The characters are inspected by one of the prison staff.
 Roll 1d6 to determine the nature of the inspection.
 
-1. ...sent to the medical centre for testing for a week.
+1. ...sent to the medical center for testing for a week.
 2. ...interviewed by the prison psychologist.
 3. ...given a new aptitude test by the vocational counsellor.
 4. ...brought to confession by the prison chaplain.
@@ -4257,9 +4257,9 @@ chemical spray.
 
 Item Stolen: A randomly chosen item is stolen from one prisoner
 by another prisoner (if he has an item to steal). The thief either
-picks the character’s pocket, or sneaks into his cell during the day.
+picks the character's pocket, or sneaks into his cell during the day.
 Tracking down the thief requires some Investigation. Determine the
-thief’s identity by rolling on the encounter table; if a guard or staff
+thief's identity by rolling on the encounter table; if a guard or staff
 member is the result, then the culprit is prisoner 8144.
 
 Laundry Detail: One prisoner is assigned to a job in the prison
@@ -4268,7 +4268,7 @@ prisoner is eligible for it even if serving time in the danger zone, but
 not if incarcerated in solitary.
 
 Payoff: The prisoner with the highest prison reputation receives a
-bribe from some other prisoner for some minor favour. The prisoner
+bribe from some other prisoner for some minor favor. The prisoner
 gains 2D6 x Cr10 and adds 1 to his prison reputation.
 
 Power Failure: A power failure in one section of the prison deactivates
@@ -4293,7 +4293,7 @@ Safe Job: All the prisoners in this group are considered for jobs in
 the safe area; each player may apply for each job in which he has the
 requisite skill. Throw 8+ for a prisoner to be given the job; he may
 choose one from all jobs for which the throw is successful. DMs
-are + the prisoner’s level of each required skill and + his level of
+are + the prisoner's level of each required skill and + his level of
 admin skill. The jobs and required skills are medic (requires Medic
 
 ###### Sample Grievances
@@ -4356,21 +4356,21 @@ Sandstorm: A sandstorm blows out of the desert and strikes the
 prison. The shuttle is grounded for several days, and it becomes
 dangers to move between buildings on the surface. Prisoners and
 staff are moved to underground areas, causing overcrowding. The
-warden’s house and its expensive garden require extensive repairs.
+warden's house and its expensive garden require extensive repairs.
 
 Search: The guards conduct a search for contraband. Roll 1D6 and
 consult the corresponding paragraph below. A DM of -2 is applied
 to all search rolls if the prisoners have been warned of the search in
 advance (which will occur if a guard is their friend).
 
-_1._ The prisoners’ persons, the cell blocks, and all work areas are
+_1._ The prisoners' persons, the cell blocks, and all work areas are
 searched. Any items hidden in areas I or P in the lower mining level
 are not found on any throw.
 _2._ As above, except the lower mining level is not searched at all.
 _3._ As above, except both mining levels are not searched.
-_4._ As above, but only the prisoners’ persons and the cellblocks are
+_4._ As above, but only the prisoners' persons and the cellblocks are
 searched.
-_5._ As above, but only the prisoners’ persons are searched.
+_5._ As above, but only the prisoners' persons are searched.
 _6._ News of the search is blown to the prison population in general,
 and the search is cancelled by the warden.
 
@@ -4378,15 +4378,15 @@ Prisoners caught with contraband may be sent to the danger zone
 or to solitary. Guards may, in many cases, accept bribes not to look
 too hard in certain areas.
 
-Security Increase: This week there is a -3 DM to any theft attempt’s
+Security Increase: This week there is a -3 DM to any theft attempt's
 success, and a +3 DM to the chances of being caught when out of
-one’s assigned area. Any time a guard or staff member is encountered
+one's assigned area. Any time a guard or staff member is encountered
 this week there will be an additional guard with him, roll 1D6 and
 add 12 to determine the number of the additional guard present.
 
 Snoop: One player overhears an official conversation; give the
 prisoner a randomly selected rumor from this list: 11, 12, 19, 34, 45
-or 54. Add one to the prisoner’s prison reputation for repeating this
+or 54. Add one to the prisoner's prison reputation for repeating this
 rumor to the other prisoners.
 
 Staff Friend: The Player Character with the lowest prison reputation
@@ -4468,15 +4468,15 @@ vocational training. One or more of the prisoners in this group will
 be transferred to the vocational rehabilitation area for the next week,
 this counts as a safe area job.
 
-Warden’s Friend: The prisoner with the lowest prison reputation,
+Warden's Friend: The prisoner with the lowest prison reputation,
 or the most naval experience, has a chance to ingratiate himself
 with the warden. The warden picks the prisoner out of the cells and
 speaks to him, giving the player a chance to roleplay though this
 encounter. If the warden is won over, the prisoner will automatically
 gain parole if the event Good Behaviour comes up. He may also
 receive a one-year reduction in sentence on a throw of 8+ (this
-takes a while as it must be cleared with the warden’s superiors).
-The warden will also allow free communication with the prisoner’s
+takes a while as it must be cleared with the warden's superiors).
+The warden will also allow free communication with the prisoner's
 friends, relatives, and lawyers on the outside. Finally, the prisoner
 may have a choice of safe area jobs, even if he does not have the
 appropriate skill (see the event Safe Job event).
@@ -4508,7 +4508,7 @@ make a case for needing them.
 mineral resources. They occasionally bring their vehicles to the
 prison for repair or resupply.
 6. Jan “the Blade” Lintrel killed a guard, and threw his body down
-the lift shaft. Jan took the guard’s shotgun and hid it. Jan is also the
+the lift shaft. Jan took the guard's shotgun and hid it. Jan is also the
 only person ever to have beaten 7057 Big Rolf in a fight.
 7. Three prisoners were killed by a “dragon” two years ago. A dragon
 is a long, scaled creature with claws, sharp teeth, and poor eyesight.
@@ -4523,16 +4523,16 @@ for about Cr400 apiece.
 10. This rumor consists of the information on prison drug dealers
 from page 58.
 11. 1731 Bobby Shakh is an informer. It is known he has visited
-the warden’s office, and he has been seen talking to G1 Fedor
+the warden's office, and he has been seen talking to G1 Fedor
 Sanseido.
 
 # RRUMOURSUMOURS
 
-12. Keanou’s statistics are C792348-7. There is a gas giant in the
+12. Keanou's statistics are C792348-7. There is a gas giant in the
 system, and a scout base orbiting it. Keanou has seven small
 natural satellites which would make good hiding places for a small
 spacecraft. The prison complex has an emplacement on the surface
-equivalent to a triple beam laser turret, but the authorities aren’t
+equivalent to a triple beam laser turret, but the authorities aren't
 really worried about a landing from space, as most of the prison
 facility is underground.
 13. Prisoners are brought to Keanou infrequently, either by Imperial
@@ -4544,7 +4544,7 @@ and some of them have suffered fatal “accidents”.
 15. Danger zone area I is not really very radioactive. It is used as a
 meeting place by prisoners, because the guards never go there.
 16. Jan “the Blade” Lintrel was killed outside the prison during
-an escape attempt. 2076 Etienne Lalaji was Lintrel’s cellmate and
+an escape attempt. 2076 Etienne Lalaji was Lintrel's cellmate and
 closest friend.
 17. 7404 Pandit Espartero stole a power pack and has it hidden
 somewhere. This is normally a very difficult thing to do. What
@@ -4565,8 +4565,8 @@ with the Astrogation skill.
 credits to issue fraudulent clearance papers to a group of people.
 23. G5 Emil Patowic has a small-scale smuggling operation going,
 and would probably be happy to do some business.
-24. Circle City is the only major population centre on Keanou. It lies
-5,000 kilometres E-NE of the prison. A shuttle based at the prison
+24. Circle City is the only major population center on Keanou. It lies
+5,000 kilometers E-NE of the prison. A shuttle based at the prison
 regularly carries ore to Circle City for transhipment.
 
 ##### RUMOURS
@@ -4581,13 +4581,13 @@ upcoming searches and guard patrols.
 27. This rumor consists of the additional information section on
 page 4 of _Incarcerated_!
 28. Danger zone areas I and P are very radioactive, and should be
-avoided at all costs, unless you don’t mind having your hair fall
+avoided at all costs, unless you don't mind having your hair fall
 out.
 29. 2977 Jack Shansir is insane, and attacks everyone he encounters,
-as long as they don’t have a gun. He killed one of his previous
+as long as they don't have a gun. He killed one of his previous
 cellmates for snoring.
 30. Aron Hasisto knifed a guard last year and disappeared
-shortly thereafter. No one seems to want to talk about Aron’s
+shortly thereafter. No one seems to want to talk about Aron's
 whereabouts.
 31. There are some desert survival kits in the lockers next to the repair
 shop, put there a few years ago when the prison administration was
@@ -4599,7 +4599,7 @@ and shipping out from there. One of them, 2537 Axel Herrmon, was
 recaptured last year and returned here.
 33. Thorned sagitta plants may be tapped for water. There are many
 of these plants in the desert surrounding the prison. The flesh of
-these plants is edible, but doesn’t taste very good.
+these plants is edible, but doesn't taste very good.
 34. The guards can shut off all the lighting, lifts, ventilation, and
 power for any mining equipment from the surface, or from the main
 guard station on the administrative level. They may also flood any
@@ -4611,7 +4611,7 @@ than he really does.
     37. 9656 Olex Hishinuma is a past master at unarmed combat. He
     and his cellmate, 8825 Lucky Severn, run the prison numbers racket,
     as well as being involved in other sorts of gambling. Olex is really a
-    nice guy if you don’t owe him any money.
+    nice guy if you don't owe him any money.
     38. About 15 years ago, a ramp collapsed, killing several prisoners. It
     used to connect the cellblock level with the upper mining level.
     39. There is a carefully concealed connection to a natural cave
@@ -4620,7 +4620,7 @@ than he really does.
     40. The guards are lax about sounding out the rock walls when
     searching for contraband. Sometimes they can be bribed to avoid
     searching an area at all.
-    41. 1640 Nero Holt cannot keep secrets, and shouldn’t be entrusted
+    41. 1640 Nero Holt cannot keep secrets, and shouldn't be entrusted
     with any important information.
     42. 8107 Jon Kupishii is adept at dealing with the prison
     administration, and may undertake to aid others in this regard as
@@ -4638,7 +4638,7 @@ than he really does.
     personality conflicts with the warden. The guards sometimes take
     their frustrations out on the prisoners.
     46. There is a small community of escaped prisoners, approximately
-    1,500 kilometres to the northeast of the prison. They keep themselves
+    1,500 kilometers to the northeast of the prison. They keep themselves
     hidden, and subsist by agriculture.
     47. 5426 Spiro Taodon is an expert lockpick.
     48. This rumor consists of the information on gangs from
@@ -4647,7 +4647,7 @@ than he really does.
 ##### RRUMOURSUMOURS
 
 49. G3 Gorod Chihaya is a sadist, and enjoys inflicting pain on
-prisoners. He should be avoided at all costs. He’s also got subdermal
+prisoners. He should be avoided at all costs. He's also got subdermal
 armor.
 50. G10 Semyon Wainrite can be easily bribed.
 51. G11 Vittorio Krane is easily provoked into sending prisoners to
@@ -4655,7 +4655,7 @@ the danger zone for minor offences, like littering or not saying “sir”
 to him.
 52. 8144 Eneri Shadashi is a rampant kleptomaniac, who probably
 would have had his brains beaten in already, except for the fact it is
-fairly easy to recover items from him (he doesn’t seem to want them
+fairly easy to recover items from him (he doesn't seem to want them
 anymore after he has stolen them). He will probably get his brains
 beaten in sometime anyway.
 53. The composition of the escape committee is 1935 Felip
@@ -4676,9 +4676,9 @@ in the upper mining level which have been dug within the last five
 years. Occasionally one of the cameras has malfunctioned and has
 not been repaired for quite some time.
 
-55. The prison’s solar cells need to be cleaned and maintained. It’s
-hard work out on the surface, but the guards don’t watch closely.
-The guard in charge is G13 Brandt – make friends with him and he’ll
+55. The prison's solar cells need to be cleaned and maintained. It's
+hard work out on the surface, but the guards don't watch closely.
+The guard in charge is G13 Brandt – make friends with him and he'll
 sort you out with that work detail.
 56. S2 Assistant Warden Voller is the real power in the prison. Cross
 him at your peril.
@@ -4692,7 +4692,7 @@ has slaves who gather the spice and sell it offworld.
 65. Dustspice is farmed on several worlds in the Spinward Marches;
 the Aslan love the stuff.
 66. There is another level of caves beneath the Danger Zone, and
-there’s something very strange down there.
+there's something very strange down there.
 
 ##### RUMOURS
 
@@ -4736,7 +4736,7 @@ the lives of everyone in the prison. The six adventures are:
     Grice and put Tarkwall Prison entirely under his control, using
     the characters as his pawns. This adventure takes place over
     several weeks.
-- Machines of Loving Grace: The prison’s computer system,
+- Machines of Loving Grace: The prison's computer system,
     CARL, becomes increasingly self-aware, independent – and
     psychotically dangerous. It needs the characters to help it
     achieve freedom.
@@ -4759,7 +4759,7 @@ cause trouble, they should not ask stupid questions, they definitely
 should not go to the guards with anything like this, they should avoid
 talking to the wrong people, and they should never bother anyone
 with a bad temper (which includes quite a few people around here).
-The referee should give a brief description of this cellblock’s gang.
+The referee should give a brief description of this cellblock's gang.
 
 ###### 2. A Thief in Action and How to Hide Things
 
@@ -4767,13 +4767,13 @@ The player character see a prisoner (later identified as 8144 Eneri
 Shadashi) steal a small package from another prisoner, who
 unsuccessfully gives chase and then storms off, swearing vengeance.
 Another prisoner tells them it is unwise to carry anything valuable
-on one’s person.
+on one's person.
 
 He says the best hiding places are on the lower mining level, for the
 guards rarely if ever search there. Failing that, the best places are in
 hollowed out crannies in the rock, but it usually takes several weeks
 of surreptitious work to make a good one in a cell, and even longer
-in a work area; to make a hiding place in one’s cell it is of course
+in a work area; to make a hiding place in one's cell it is of course
 necessary to steal something to scrape with.
 
 Prisoners sometimes steal things from each other, but if one
@@ -4785,7 +4785,7 @@ as likely in the future.
 A prisoner, 3120 Otto Mefoil, was found dead in his cell this morning.
 He had apparently hung himself. Otto had served 15 years, and was
 due for parole for good behaviour in a month, but parole had been
-unexpectedly denied due to a minor legal technicality, and Otto’s
+unexpectedly denied due to a minor legal technicality, and Otto's
 release had been delayed for 10 years. The word going around is the
 prison mine is not meeting its quota, so the prison administration is
 using underhanded means to keep the prisoners here, and mining.
@@ -4804,9 +4804,9 @@ should be given a description of the surface layout.
 
 The prisoners are eating dinner when an argument erupts between
 1470 Jack Shansir and 3305 Billy Imushdi. Jack apparently stole
-Billy’s freeze-dried artificial pseudofruit, and Billy complained.
+Billy's freeze-dried artificial pseudofruit, and Billy complained.
 Shansir does not say anything very articulate in defence, but merely
-punches Billy out. The area around Billy’s prone form is immediately
+punches Billy out. The area around Billy's prone form is immediately
 vacated, before the arrival of the guards. When Billy comes to, the
 guards tell him he is being sent to the danger zone for four weeks as
 punishment for starting a fight. No one else says anything. Later the
@@ -4816,7 +4816,7 @@ his jaw was fractured.
 
 The fight precipitates an argument over who is the meanest prisoner
 around. The person who brings it up claims Jack Shansir is, but
-several other prisoners chime in and speak in favour of 7057 Big Rolf
+several other prisoners chime in and speak in favor of 7057 Big Rolf
 and/or 6866 Gerard Benezech. One prisoner makes a claim 9656
 Olex Hishinuma could take either of them, and then several other
 names are bandied about: 2977 Anton Kugazur, 8152 Peroz Atheling
@@ -4838,13 +4838,13 @@ prison and reviewing records. They then dine with the warden and
 senior staff before flying back home at nightfall.
 
 Each visitor has his own reason for coming to Tarkwall. V3
-Inspector Borun is looking for more evidence of Warden Grice’s
+Inspector Borun is looking for more evidence of Warden Grice's
 incompetence, and will be well disposed towards any prisoners who
 provide testimony about poor conditions or mistreatment. V4 Cala
 Ingrun just wants assurances the mining and ore production will
 continue unabated, and will be furious if there is any sign mining
 is slowing. V5 Vilad Konnen wants evidence the mines are being
-worked out, in the hopes he can ‘borrow’ a few prisoners as slave
+worked out, in the hopes he can 'borrow' a few prisoners as slave
 labour for his spice plantations in the southern desert. Each player
 will be interviewed by a random visitor.
 
@@ -4853,7 +4853,7 @@ the testimony of the prisoners to the visitors. The warden wants
 
 V3 Inspector Borun to go away with nothing (or, better yet, to fall
 down a lift shaft and die slowly and painfully), for V4 Cala Ingrun to
-be confident in the mine’s productivity, and does not give a damn
+be confident in the mine's productivity, and does not give a damn
 about V5 Vilad Konnen.
 
 ###### 66. A Crackdown Gives Rise to Theorizing
@@ -4878,7 +4878,7 @@ the computer security program. A few pessimists seem to believe
 the electronic surveillance system is unbeatable, but someone else
 argues it has been beaten in the past, by one Attil Raspori, a slick
 conman in for computer fraud, who used a position in the prison
-clerk’s office and his computer skill to sneak himself out of the
+clerk's office and his computer skill to sneak himself out of the
 prison.
 
 One old prisoner claims once one is free on the surface, the guards
@@ -4914,8 +4914,8 @@ over and the gathering breaks up.
 
 ###### 7. New Cellblock
 
-The electronic lock mechanism on one of the prisoners’ cell doors
-shorts out and won’t lock, so he is moved to a different cellblock for
+The electronic lock mechanism on one of the prisoners' cell doors
+shorts out and won't lock, so he is moved to a different cellblock for
 the next 8 weeks. The referee should give the prisoner a rundown on
 the prisoners in the new cellblock.
 
@@ -4928,7 +4928,7 @@ of heavy mining equipment. No one tried to help him as he bled to
 death. The prisoner hears one of the other prisoners complaining
 several fatal accidents have occurred with no improvement in safety,
 and safety regulations are flagrantly ignored. Another prisoner just
-laughs and asks “What’s worth living for down here anyway?”
+laughs and asks “What's worth living for down here anyway?”
 Someone else pipes up and claims if a prisoner was very seriously
 injured, he would be transferred to the hospital in Circle City, where
 the security is not very tight. The other prisoner laughs again and
@@ -5028,7 +5028,7 @@ fracas, but the prison cafeteria hardly ever serves desserts anyway.
 
 One of the prisoners finds 2D6 doses of narcotics ditched in a
 corner by another prisoner seeking to avoid a search. The prisoner
-may attempt to peddle the drugs, keeping in mind the prison’s other
+may attempt to peddle the drugs, keeping in mind the prison's other
 drug dealers, 1217 Talbot Vinge and 0730 Winston Urmarush have
 the market pretty well tied up in cell blocks 1 and 2, respectively.
 
@@ -5063,16 +5063,16 @@ with him – the focus of his research was on plagues which could bypass
 filters and bioscanners._
 
 _He made his decision. He touched one control, and the lab flared
-blue as plasma incinerated his life’s work. Another control erased the
+blue as plasma incinerated his life's work. Another control erased the
 computer logs completely, wiping then physically destroying the storage
-system. There was nothing left of Vinge’s bioweapons research, nothing
+system. There was nothing left of Vinge's bioweapons research, nothing
 but his own memories and the contents of the six pea-sized sample sacs
 in the safe._
 
-_He pressed a third control. ‘Subotai, come here. I need you.’_
+_He pressed a third control. 'Subotai, come here. I need you.'_
 
 This adventure takes place over several days in the prison. The key
-non-player character is 1217 Talbot Vinge, one of the prison’s drug
+non-player character is 1217 Talbot Vinge, one of the prison's drug
 dealers and a former scientist. Five years ago, Vinge was arrested
 for bioweapons development and condemned to Tarkwall Prison.
 His bodyguard and thug 0014 Subotai Shadad was arrested at the
@@ -5097,7 +5097,7 @@ are arguing quite openly over a case of painkillers stolen from
 the infirmary; each one accuses the other of taking the drugs and
 
 angering the guards. Before anyone can intervene, Stiv swings the
-handle of his mining pick into Subotai’s chest, knocking the other
+handle of his mining pick into Subotai's chest, knocking the other
 prisoner to the ground. Stiv tries to smash Subotai again, but
 Subotai is too quick for him – Subotai leaps up, grabs his own pick,
 and starts beating on Stiv.
@@ -5128,7 +5128,7 @@ so he orders G13 Brandt Ulmerkim to take one of the ATVs and a
 work gang to track down the debris. Any characters in good standing
 with the authorities will be assigned to this work gang.
 
-The meteorite landed only a few kilometres away from the prison,
+The meteorite landed only a few kilometers away from the prison,
 in the rocky hills to the southwest. The old ATV covers the ground
 steadily, and the sandy desert gives way to scorched rock. Ahead,
 the characters can see a huge dust cloud hanging over the hills. A
@@ -5138,11 +5138,11 @@ in the hills.
 
 After several hours searching using metal detectors, the characters
 find a few metal fragments, still scorching hot from their passage
-through the atmosphere. The ‘meteor’ was definitely artificial, but it
-could be anything from an old satellite to a ship’s waste pod. Brandt
+through the atmosphere. The 'meteor' was definitely artificial, but it
+could be anything from an old satellite to a ship's waste pod. Brandt
 orders the characters to collect any pieces they can. He runs his
 geiger counter over the metal shards, and finds nothing unusual.
-Optionally, throw an attack by some of Keanou’s native wildlife at
+Optionally, throw an attack by some of Keanou's native wildlife at
 this point.
 
 # OOUTBREAKUTBREAK
@@ -5153,7 +5153,7 @@ this point.
 
 Back in the prison, a plague is spreading. It began when Subotai
 coughed up a damaged sac. The initial three victims are Subotai,
-Stiv and guard Ivan. Stiv is in his cell, Subotai’s in the hole, and
+Stiv and guard Ivan. Stiv is in his cell, Subotai's in the hole, and
 Ivan is patrolling the mining level. Any characters in the mining level
 or Danger Zone will run into Ivan during his patrol. After a while,
 Ivan begins to feel ill and heads back to the admin level, where he
@@ -5163,7 +5163,7 @@ As the guards are examining their fallen comrade, CARL alerts them
 to odd behaviour on the mining level. Several prisoners are showing
 signs of illness. Characters on the mining level see other prisoners
 collapse or break out with other signs of the plague (see sidebar).
-Panic spreads through the guard’s station as they realise a plague
+Panic spreads through the guard's station as they realise a plague
 is loose in the prison.
 
 In an attempt to contain the situation, the warden orders all prisoners
@@ -5182,7 +5182,7 @@ may have no idea about recent events in the prison.
 AAlarmed by the growing crisis, Warden Grice orders the lower levels
 sealed. The first sign of this isolation is a change in the ever-present
 whine of the ventilation fans – more than half of them suddenly shut
-down, disconnecting the sublevel’s air recycling and filtering system
+down, disconnecting the sublevel's air recycling and filtering system
 from those of the surface buildings. Most of the guards and staff
 leave the underground levels before the lifts are shut down.
 
@@ -5197,10 +5197,10 @@ warden wants a few good men to help out while the staff are sick.
 ###### Viral Sample X54VI1
 
 The plague released by Subotai is, fortunately, not the most lethal of the diseases hidden in the sacs. It was designed to be extremely
-virulent and to penetrate biofilters and other defence systems. Everyone in the prison’s subsurface levels has been exposed to the
+virulent and to penetrate biofilters and other defence systems. Everyone in the prison's subsurface levels has been exposed to the
 plague.
 
-The plague has several stages; the speed of a character’s progress depends on the Endurance score of the victim.
+The plague has several stages; the speed of a character's progress depends on the Endurance score of the victim.
 
 EnduranceEndurance Time In Each StageTime In Each Stage
 2 1d6 x 10 minutes
@@ -5232,20 +5232,20 @@ in touch and advise each other.
 
 ##### OOUTBREAKUTBREAK OUTBREAK
 
-If the characters agree to help and, more importantly, don’t try to
+If the characters agree to help and, more importantly, don't try to
 escape, then Emil will release them from their cells and give them
 a comm so they can receive orders from the surface. Most of these
 orders will be from the guards, but the researchers in the infirmary
 and the Wardens may also contact them.
 
-The characters’ initial orders during the quarantine period are trivial
+The characters' initial orders during the quarantine period are trivial
 ones – prepare food for the prisoners in the cells, run errands for the
 guards and so on. As the investigation into the disease continues,
 though, the characters may be asked to take blood samples, check
 in on prisoners, bring collapsed guards to the lift and even enter
 restricted areas to check on records.
 
-The characters’ movements will be tracked as far as possible via
+The characters' movements will be tracked as far as possible via
 computer surveillance, but this is still a golden opportunity for the
 characters to move around the prison unrestricted. More and more
 guards leave the subsurface area, until only a skeleton crew is left.
@@ -5276,11 +5276,11 @@ Other possible sources of infection the players might ask about:
     some weird native disease down there, perhaps from an animal
     bite.
 
-###### Stiv’s Dead, Baby
+###### Stiv's Dead, Baby
 
 One of the first assignments for the characters in the sub-levels is
 to check in on the wounded Stiv, who was recently beaten up by
-Subotai. Stiv’s cellmate is 0730 Winston Urmarush, so there is no-
+Subotai. Stiv's cellmate is 0730 Winston Urmarush, so there is no-
 one else in the cell with Stiv. When the characters arrive at the cell,
 they discover Stiv has rolled out of bed and is lying against the bars,
 muttering to himself. The blotches on his face have turned blue, and
@@ -5288,15 +5288,15 @@ he is babbling nonsense about demons and ghosts with very sharp
 picks. As he mutters and moans to the characters, he suddenly
 starts coughing and then keels over, dead.
 
-Stiv’s death was due to the combination of the wounds inflicted on
+Stiv's death was due to the combination of the wounds inflicted on
 him by Subotai, and the disease rampaging through his system, but
 paranoid players will leap to the assumption the plague is lethal.
 
-If the characters contact the infirmary and describe Stiv’s appearance
+If the characters contact the infirmary and describe Stiv's appearance
 to Talbot Vinge, he will sound worried and ask them to repeat their
-description, carefully. He asks several other questions, like ‘ are his
-eyes reddened?’ or ‘ check the toilet – has he vomited recently?’ (the
-answer to both questions is ‘yes’). Vinge sounds like he knows what
+description, carefully. He asks several other questions, like ' are his
+eyes reddened?' or ' check the toilet – has he vomited recently?' (the
+answer to both questions is 'yes'). Vinge sounds like he knows what
 is going on, but refuses to say more.
 
 ###### Patient Zero
@@ -5305,7 +5305,7 @@ Clever players may look for the first occurrence of the disease. G2
 Ivan is the most advanced case among the guards; he is brought
 to the infirmary as soon as he collapses. Stiv is the most advanced
 
-###### Let’s Just Stay In Our Cells
+###### Let's Just Stay In Our Cells
 
 Characters with low prison reps may find themselves stuck in
 their cells for much of this adventure. Even the characters who
@@ -5314,7 +5314,7 @@ get involved in solving the mystery of the plague. If so, the plague
 will eventually be dealt with by Dr. Talbot, but the characters run
 the risk of dying of the plague by waiting too long.
 
-###### Let’s Escape
+###### Let's Escape
 
 Ambitious players may take advantage of the chaos in the prison
 to try escaping. It is certainly a good time to bypass security, but
@@ -5348,7 +5348,7 @@ accelerated by conditions in the mines, perhaps by the radiation.
 case in the quarantined area. Tracing the progress of the disease
 through the prison appears to match the movements of these two
 individuals – for example, more guards than staff are sick because
-Ivan went to the guard’s station, while Cellblock 2 where Stiv died is
+Ivan went to the guard's station, while Cellblock 2 where Stiv died is
 the most infected of the three cellblocks.
 
 If the characters saw the brawl earlier, or ask around, then they can
@@ -5358,11 +5358,11 @@ The Hole, so the characters have no idea what his condition is.
 ###### The Records
 
 With access to the administration block, the characters can look into
-Subotai’s records. A Routine (+2) Admin roll reveals Subotai and
+Subotai's records. A Routine (+2) Admin roll reveals Subotai and
 Talbot Vinge were both arrested for crimes against the Imperium,
-specifically the development of ‘weapons banned under the Imperial
-Rules of War’. A bit of digging through the records brings up the file
-on Talbot’s arrest (see sidebar).
+specifically the development of 'weapons banned under the Imperial
+Rules of War'. A bit of digging through the records brings up the file
+on Talbot's arrest (see sidebar).
 
 Therefore, characters in the lower mines may be attacked by any
 prisoners not restrained in the cells. If they freed anyone earlier in
@@ -5395,10 +5395,10 @@ prisoners as mob enforcers and legbreakers.
 
 There are two ways this encounter can be triggered. Ideally, the
 characters put together the evidence, connecting the plague,
-Subotai, and Talbot’s arrest on charges of bioweapons development
-and then confront Talbot themselves. Talbot’s odd reaction to the
-description of Stiv’s symptoms is another big clue. Alternatively, if
-the players fail to work out what’s going on themselves, then Talbot
+Subotai, and Talbot's arrest on charges of bioweapons development
+and then confront Talbot themselves. Talbot's odd reaction to the
+description of Stiv's symptoms is another big clue. Alternatively, if
+the players fail to work out what's going on themselves, then Talbot
 can contact them secretly via comm once he realises one of his
 creations is loose in the prison.
 
@@ -5406,26 +5406,26 @@ Ministry of Justice - Confidential File
 Reference: 43A/LANTH/1100/33a/H/4322/t192
 Transcript of conversation between Imperial Agents and TALBOT
 VINGE
-Agent: You’ll gain nothing by not co-operating. We have
+Agent: You'll gain nothing by not co-operating. We have
 everything we need.
 Vinge: You have nothing. Just an empty space station and two
 innocent men.
 Agent: Innocent? We can pin a half-dozen unsolved murders on
 Shanad.
 Vinge: All right, an empty space station and one innocent man.
-Agent: We don’t care about the murders. Just the bioweapons.
+Agent: We don't care about the murders. Just the bioweapons.
 Vinge: What bioweapons?
 Agent: You scorched your lab. We have evidence tying you to the
-biowar on Rech, to the Ine Givar, to Tolroy’s organization.
-Vinge: An unfortunate accident wiped my lab’s records and
+biowar on Rech, to the Ine Givar, to Tolroy's organization.
+Vinge: An unfortunate accident wiped my lab's records and
 specimens. You have no evidence of any wrongdoing on my
 part.
-Agent: If we find one single engineered virus, you’ll wish you’d
+Agent: If we find one single engineered virus, you'll wish you'd
 fried yourself along with the lab.
-Vinge: And you won’t, because you have nothing.
-Agent: You don’t think you’re going to get away with this, do
+Vinge: And you won't, because you have nothing.
+Agent: You don't think you're going to get away with this, do
 you?
-Vinge: Of course not. You bastards don’t give a damn about
+Vinge: Of course not. You bastards don't give a damn about
 justice or truth.
 END TRANSCRIPT
 
@@ -5442,7 +5442,7 @@ monsters trying to eat him which amounts to the same thing.
 ##### OOUTBREAKUTBREAK
 
 Either way, Talbot prefers to speak to the characters in secret – the
-diseases in Subotai’s lungs are worth millions of credits to the
+diseases in Subotai's lungs are worth millions of credits to the
 right buyer, for one thing, and Talbot will likely face execution if the
 Ministry of Justice discovers the true extent of his crimes. If he can,
 he offers them a cut of his drug-smuggling business while in prison
@@ -5510,14 +5510,14 @@ microscopic capsule.
 If a capsule is released, it breaks open in 1d6 rounds. The only
 solution in this case is to secure or incinerate the capsule. If this
 is not done, the virus is released and infects the characters. All
-the other virus samples in Subotai’s lungs are lethal ones. The
+the other virus samples in Subotai's lungs are lethal ones. The
 characters are doomed, and so is the prison. (Fortunately, because
 the prison is so isolated, the disease does not spread to Circle City.
 A passing Imperial Navy warship blasts Tarkwall into oblivion to
 contain the spread of the disease.)
 
 Ideally, the characters are able to knock Subotai out without
-dislodging the capsules. Talbot then ‘conveniently’ finds a cure
+dislodging the capsules. Talbot then 'conveniently' finds a cure
 for the disease. A fast shuttle from Circle City drops off the needed
 drugs, and the guards are cured.
 
@@ -5541,17 +5541,17 @@ then they lose 10 reputation; however, if they were responsible for
 saving everyone, then the characters have the permanent benefit of
 a +1DM to all reaction rolls without any loss of reputation.
 
-If Talbot’s hidden bioweapons are reported to the authorities, then
+If Talbot's hidden bioweapons are reported to the authorities, then
 Talbot is placed in solitary confinement. The characters will be
 interviewed by Ministry of Justice agents in a few weeks, and may
-be able to trade their testimony against Talbot for favours.
+be able to trade their testimony against Talbot for favors.
 
 If the characters aided Talbot, then they get a share of his drug
 dealing operation. Talbot will supply each character with a few
 stolen drugs each week to sell in the prison. He also asks for their
-help in stealing enough surgical gear to ‘safely’ murder Subotai and
+help in stealing enough surgical gear to 'safely' murder Subotai and
 recover the disease sacs, which Talbot will then implant in one of
-the player characters ‘for safe keeping’.
+the player characters 'for safe keeping'.
 
 ##### OUTBREAK
 
@@ -5559,10 +5559,10 @@ the player characters ‘for safe keeping’.
 
 Skull rocked under the impact of another missile.
 
-‘Jump drive’s out’ shouted Freya, ‘get your asce suits on before the hull’s
-breached!’
+'Jump drive's out' shouted Freya, 'get your asce suits on before the hull's
+breached!'
 
-‘We can win this,’ roared Antov. The big man’s turret swung around
+'We can win this,' roared Antov. The big man's turret swung around
 to target a nearly imperceptible dot on the viewer which was the
 approaching third System Defence Boat. The first SDB was an expanding
 sphere of debris ten thousand klicks astern; the second SDB was on top
@@ -5571,18 +5571,18 @@ of them, an angry dugong to their wounded shark.
 Another missile nearly got through their countermeasures. Balin shook
 his head.
 
-‘Cease fire! Kerd, tell those bastards we surrender.’
+'Cease fire! Kerd, tell those bastards we surrender.'
 
-‘They’ll space us for sure!’ Antov’s hand went from the turret controls to
+'They'll space us for sure!' Antov's hand went from the turret controls to
 his blade; his eyes were those of a cornered animal.
 
-‘No, I know the third ship. Her commander’s the one honest man in this
-whole system. He’ll see we get a fair trial.’
+'No, I know the third ship. Her commander's the one honest man in this
+whole system. He'll see we get a fair trial.'
 
-‘Space us now, hang us in a year’s time, what’s the difference?’ muttered
+'Space us now, hang us in a year's time, what's the difference?' muttered
 Kerd.
 
-‘A year’s life’ said Freya.
+'A year's life' said Freya.
 
 The implacable SDBs approached to seize the crippled Skull.
 
@@ -5592,14 +5592,14 @@ activity in the prison, so it works very well for aggressive or criminal
 characters with a high prison reputation.
 
 There are two major criminal gangs in Tarkwall Prison – 6866
-Gerard Benezech’s gang, and 7057 Big Rolf’s gang. In Cellblock
+Gerard Benezech's gang, and 7057 Big Rolf's gang. In Cellblock
 2, 2076 Etienne Lalaji and 2977 Anton Kugazur are trying to
 form their own gang, but lack the strength of the other gangs
 and the secret blessing of Assistant Warden Voller. The other
 power blocs include the prison drug dealers and the escape
 committee. Currently, the two major gangs are in a state of
-rough equilibrium, with neither able to dominate the prison’s
-black market. This state has persisted since Jan ‘the Blade’
+rough equilibrium, with neither able to dominate the prison's
+black market. This state has persisted since Jan 'the Blade'
 Lintrel escaped two years ago.
 
 In New Blood , four new prisoners arrive at Tarkwall Prison, all
@@ -5619,19 +5619,19 @@ The first six incidents happen in order; run one event every few
 weeks. The last event, Gang War, covers the reactions of the other
 gangs and power blocs in the prison to the rise of the pirate gang
 and their own changing fortunes. The Gang War table lists what
-event happens when a gang’s Total Influence rises or falls past a
+event happens when a gang's Total Influence rises or falls past a
 certain threshold.
 
 ## TOTAL INFLUENCE
 
 The strength of the gangs in Tarkwall Prison is measured in Total
 Influence. Total Influence is calculated by adding the reputation
-of the gang’s leader, 5+ half the reputations of each follower, and
+of the gang's leader, 5+ half the reputations of each follower, and
 any bonuses from special circumstances (see the Gang Special
 Circumstances table). At the start of the adventure, Total Influences
 are as follows:
 
-Big Rolf’s GangBig Rolf’s Gang
+Big Rolf's GangBig Rolf's Gang
 Big Rolf (leader) 40
 Yussef Shelton 5
 Enli Shulgidun 5
@@ -5641,7 +5641,7 @@ Control of Cellblock 1 10
 Improvised Melee Weapons 5
 Total 85
 
-Gerard Benezech’s GangGerard Benezech’s Gang
+Gerard Benezech's GangGerard Benezech's Gang
 Gerard Benezech (leader) 30
 Killer Basimu 10
 Seljuk the Knife 15
@@ -5656,22 +5656,22 @@ Anton Kugazur 10
 Total 25
 
 Note Etienne has access to an shotgun, which would raise the
-gang’s Total Influence to 45.
+gang's Total Influence to 45.
 
 ##### NEW BLOOD NEW BLOOD
 
-Talbot Vinge’s Drug RingTalbot Vinge’s Drug Ring
+Talbot Vinge's Drug RingTalbot Vinge's Drug Ring
 Talbot Vinge 10
 Subotai Shanad 5
 Tsunego Artois 5
 Access to drugs 10
 Total 30
 
-Urmarush’s Drug RingUrmarush’s Drug Ring
+Urmarush's Drug RingUrmarush's Drug Ring
 Urmarush -10
 Stiv The Blade 5
-Favours from G5 5
-Favours from G8 5
+Favors from G5 5
+Favors from G8 5
 Access to drugs 10
 Total 15
 
@@ -5679,7 +5679,7 @@ Total 15
 
 Keep track of the total influence of all the major gangs, including
 the Sword Worlders. Several of the events in this adventure are
-triggered when a gang’s total influence reaches a certain threshold
+triggered when a gang's total influence reaches a certain threshold
 in the Gang War table – see event 7 -Gang War, below.
 
 ### THE SWORD WORLD GANG
@@ -5727,7 +5727,7 @@ Messages out of prison +5
 Escape +10
 Drugs +10
 False documents +10
-Favours from guards +5 per guard
+Favors from guards +5 per guard
 Setbacks
 Per injured member in infirmary -5
 Leader in infirmary -10
@@ -5761,20 +5761,20 @@ Skills: Pilot (spacecraft) 1, Gunnery (turret) 2, Melee (blade) 3, Stealth
 (slug pistol) 0, Deception 1, Sensors 1, Comms 0, Zero-G 2, Vacc
 Suit 1, Athletics 0
 Possessions: None Traits: Ex-pirate, scoundrel
-A bored noble’s son, Kerd was ignored by his sire in favour of
+A bored noble's son, Kerd was ignored by his sire in favor of
 gambling dens and politics. The young man was recruited by
 Starovich with the promise of adventure, and Kerd came to consider
 Starovich to be the father he never had. The former noble proved
 to be a natural criminal, leading boarding actions with élan and
-courage. Kerd’s finest moment came when the Skull ambushed his
-own father’s private yacht, and Kerd was able to press a blade to
-Baron Hardin’s throat and listen to his father beg for mercy from
+courage. Kerd's finest moment came when the Skull ambushed his
+own father's private yacht, and Kerd was able to press a blade to
+Baron Hardin's throat and listen to his father beg for mercy from
 behind the mirror-sheen anonymity of his vacc suit helmet.
 
 Kerd sees himself as something of a Robin Hood figure, a dashing
 romantic pirate who robs from the fat parasites – the corporations,
 the nobles, the Imperium – and redistributes the wealth to the
-common man, but this is just a fancy of Kerd’s, and Starovich and
+common man, but this is just a fancy of Kerd's, and Starovich and
 the Skull did not have any sort of generous agenda. He considers
 Freya to be his adopted sister, and will instantly spring to her
 defence if she is threatened.
@@ -5789,11 +5789,11 @@ Combat (slug rifle) 1, Melee (brawl) 2, Medic 1, Explosives 0,
 Athletics 0, Zero-G 1, Vacc Suit 1, Streetwise 1.
 Possessions: None Traits: Ex-pirate, female
 Balin Starovich has more than two dozen offspring, but only one
-travelled with him on Skull. Freya was the ship’s engineer and
+travelled with him on Skull. Freya was the ship's engineer and
 mechanic. She has a peculiar genius for jury-rigged solutions and
 
 mid-battle repairs, and always keeps her head in a crisis. She shares
-her father’s vicious streak, and is equally at home in a bar brawl or a
+her father's vicious streak, and is equally at home in a bar brawl or a
 gunfight as in the engine room.
 
 Freya has a fierce temper, which did not help her in her sentencing.
@@ -5803,7 +5803,7 @@ his genetic history, sexual preferences, intelligence and relationship
 with Hiver larvae. By the time the guards were able to restrain Freya,
 the magistrate was willing to see the girl hang.
 
-###### 9084 Antov ‘Corpsetearer’ Spall
+###### 9084 Antov 'Corpsetearer' Spall
 
 STR11 DEX6 END11 INT5 EDU6 SOC3
 Age 34 Rep 0 Block 2
@@ -5815,24 +5815,24 @@ Antov was a mercenary and vagabond, who turned his hand to
 everything from being a bodyguard to fighting in brush wars on
 Red worlds to hunting dangerous beasts. Piracy was perhaps an
 inevitable career choice. Antov is a huge man, standing over two
-and half metres tall and built like a hunting cat. He will do anything
+and half meters tall and built like a hunting cat. He will do anything
 for money, and is not afraid of the consequences – Tarkwall is not
-the first time Antov’s been in prison, and Tarkwall is not the worst
+the first time Antov's been in prison, and Tarkwall is not the worst
 place he has ever seen.
 
-He considers Starovich to be his friend, and likes the old man’s
+He considers Starovich to be his friend, and likes the old man's
 attitude, but his loyalty is always going to be to the highest bidder
 
 - or, given the current situation, the toughest leader.
 
-Antov’s nickname, ‘Corpsetearer’ was given to him by Starovich
+Antov's nickname, 'Corpsetearer' was given to him by Starovich
 after the mercenary shot one enemy in a zero-g brawl, then gutted
-another using the first’s cutlass, still clasped in the corpse’s dead
+another using the first's cutlass, still clasped in the corpse's dead
 hand.
 
 ###### The Pirate Gang
 
-Starovich’s gang’s meteoric rise is tracked on the Pirate Gang
+Starovich's gang's meteoric rise is tracked on the Pirate Gang
 Influence table. This table does not take player action into account
 
 - the players may be able to aid the gang, or stop Balin Starovich
@@ -5855,7 +5855,7 @@ from dominating Tarkwall.
 Balin Starovich 0 8 8 12 12 15
 Kerd Hardin 5 5 5 9 9 10
 Freya Starovich 5 5 5 9 9 10
-Antov ‘Corpsetearer’ 5 7 7 10 10 10
+Antov 'Corpsetearer' 5 7 7 10 10 10
 Rand Gurish 10 10
 Talbot Vinge 10 10
 Control of Cellblock 2 10 10 10 10
@@ -5870,8 +5870,8 @@ Weapons
 ### 1. NEW BLOOD
 
 The characters are awoken by the sound of 1470 Jack Shansir
-whooping from his cell, screaming ‘ _New blood! New blood! New
-blood!_ ’ Soon afterwards, all the prisoners are summoned to the
+whooping from his cell, screaming ' _New blood! New blood! New
+blood!_ ' Soon afterwards, all the prisoners are summoned to the
 surface and lined up in the yard, behind the chain fence. In the crisp
 desert morning air, they can see the prisoner shuttle descending
 towards Tarkwall. Warden Grice and most of the guards are
@@ -5879,8 +5879,8 @@ present.
 
 The shuttle lands, and a pair of armored guards bearing the
 Imperial Sunburst on their shoulder pauldrons emerge. One of
-the other prisoners mutters _‘starport guards... those must be spacer
-prisoners’_.
+the other prisoners mutters _'starport guards... those must be spacer
+prisoners'_.
 
 Four prisoners are led out of the shuttle in chains. The first is a
 nondescript younger man, who looks out at the sun-bleached prison
@@ -5895,7 +5895,7 @@ armored troops around him. He shrugs and sneers.
 
 As the third prisoner, Freya, passes by the chain-link fence, one of
 the prisoners attempts to grab her. Quicker than the guards can
-respond, she seizes her assailant’s hand and pulls his arm through
+respond, she seizes her assailant's hand and pulls his arm through
 the fence; Antov then kicks the arm, snapping it. The sound of
 breaking bones is even louder than the shouting of the crowd.
 
@@ -5911,7 +5911,7 @@ casts several stern glances at the pirates.
 
 Starovich knows the best way to survive in prison is to establish
 your reputation early. Therefore, his first action is to find allies and
-identify threats, then challenge them. Freya’s movements are too
+identify threats, then challenge them. Freya's movements are too
 restricted, and there are guards watching her at all times; he needs
 Antov to seem as dangerous and threatening as possible, so he
 sends Kerd out into the prison to gather information. The old man is
@@ -5934,7 +5934,7 @@ competent.
 
 Both Starovich and Big Rolf hail from the Sword Worlds, and share
 the boisterous and violent culture of that stellar cluster. In other
-circumstances, they could have been friends. Unfortunately, Rolf’s
+circumstances, they could have been friends. Unfortunately, Rolf's
 first encounter with the Starovichs is when Rolf tries to rape Freya.
 
 ##### NNEWEW B BLOODLOOD
@@ -5962,8 +5962,8 @@ Join him, and they can rule Cellblock 2 like kings. All they need to
 do is eliminate Balin Starovich – once the old man is gone, his gang
 will melt away and they can recruit Antov to theirs. If the player
 characters are hesitant about joining Lalaji, the older prisoner
-hints Jan ‘the Blade’ Lintrel left him a parting gift when he escaped
-Tarkwall – something which will tip the balance in their favour. Lalaji
+hints Jan 'the Blade' Lintrel left him a parting gift when he escaped
+Tarkwall – something which will tip the balance in their favor. Lalaji
 is referring to the hidden shotgun.
 
 ###### Killing Starovich
@@ -5979,7 +5979,7 @@ Starovich, it will be up to them.
 If the characters confront Starovich, he will attempt to sway them to
 his side. He guesses instantly who sent them, and tries to convince
 them he is a much better leader – he is an experienced captain, he
-has ambitions, and Antov’s standing behind them.
+has ambitions, and Antov's standing behind them.
 
 ###### The Shotgun
 
@@ -5998,9 +5998,9 @@ ore conveyor before it is crushed.
 
 If Starovich has not been removed by Lalaji, then the pirate gang
 secure their control of Cellblock 2 by eliminating Lalaji. First, Antov
-challenges Lalaji’s ally Kugazur to a boxing match out in the exercise
+challenges Lalaji's ally Kugazur to a boxing match out in the exercise
 yard, in full view of the guards. In the middle of the fight, Antov
-‘stumbles’ and hits Kugazur with a brutal sucker punch, knocking
+'stumbles' and hits Kugazur with a brutal sucker punch, knocking
 Kugazur out. Antov takes him to the infirmary.
 
 Meanwhile, Freya makes a set of lockpicks in the repair shop and
@@ -6008,27 +6008,27 @@ secretly passes them to Kerd.
 
 With his cellmate removed, Lalaji is vulnerable to an attack. During
 the night, Kerd and Starovich sneak out of their cell, break into
-Lalaji’s cell, and hang him from the end of his bunk using a twisted-
+Lalaji's cell, and hang him from the end of his bunk using a twisted-
 up blanket.
 
 Influence Changes:
 If the characters ally themselves with Starovich, and Lalaji is
 murdered, then the pirate gang gains another +10 influence, and
-Lalaji’s gang is destroyed.
+Lalaji's gang is destroyed.
 
 If Lalaji murders Starovich and recruits Antov and the player
-characters, then Lalaji’s gang gains +20 influence.
+characters, then Lalaji's gang gains +20 influence.
 
 If Lalaji brings out the shotgun and uses it openly, his gang gains
 +20 influence as his ownership of the weapon becomes known.
 
 ### 4. THE BIG BRAWL
 
-The current détente between Big Rolf’s gang and Benezech’s gang
+The current détente between Big Rolf's gang and Benezech's gang
 stems from a disastrous brawl several months ago which was broken
 up by the guards using tear gas. Ever since that brawl, gang activity
-in Tarkwall has stayed under the guard’s radar. Now, as the pirate
-gang’s power increases, pressure in the prison is growing. Minor
+in Tarkwall has stayed under the guard's radar. Now, as the pirate
+gang's power increases, pressure in the prison is growing. Minor
 brawls between various hangers-on in the gangs are common, there
 
 ##### NEW BLOOD
@@ -6041,7 +6041,7 @@ pressure that is building up in Tarkwall.
 
 Another big brawl is coming.
 
-###### Seljuk’s Overture
+###### Seljuk's Overture
 
 Seljuk the Knife makes one attempt to stop the inevitable conflict. He
 approaches Balin Starovich in the cafeteria and asks to speak with him
@@ -6049,7 +6049,7 @@ privately. If the characters are allied with Starovich, Balin asks them for
 advice – does Seljuk have any influence in the prison? Can he be trusted?
 
 If the characters advise Starovich to listen to Seljuk, then the two
-agree to ally against Big Rolf’s gang. Members of Benezech’s gang
+agree to ally against Big Rolf's gang. Members of Benezech's gang
 will aid Starovich in _The Riot_ , below. If the characters tell Starovich
 not to listen to Seljuk, then the alliance never happens and the riot
 is a three-way fight between the three major gangs.
@@ -6072,8 +6072,8 @@ a small fire in the trash bins outside the staff quarters. The alarm is
 raised during the movie, distracting the reserve guards. Only a handful
 of guards are now watching over the prisoners in the cafeteria.
 
-At a particular dramatic space battle (Rex Dark’s warship just
-jumped into the middle of a Zhodani squadron, and he’s duelling
+At a particular dramatic space battle (Rex Dark's warship just
+jumped into the middle of a Zhodani squadron, and he's duelling
 against Zho teleporting marines while simultaneously battling the
 enemy ships), Antov smashes a chair into the back of 6960 Yussef
 Shelton, inflicting 2d6 damage on him. The brawl begins in earnest.
@@ -6083,7 +6083,7 @@ to block it.
 Brawling: When the brawl starts, each player may decide if they
 want to attack a specific faction, just randomly beat people up,
 take shelter, or try to flee. Roll 2d6 on the Riot Encounter table,
-modified by the character’s choice of action. Roll again every
+modified by the character's choice of action. Roll again every
 1d6 rounds.
 
 ###### RIOT ENCOUNTER TABLE
@@ -6093,7 +6093,7 @@ RollRoll Riot EncounterRiot Encounter
 riot to safety.
 3 The character is injured as he tries to flee,
 suffering 1d6+2 points of damage. Apply an
-extra -1DM to the character’s next roll on this
+extra -1DM to the character's next roll on this
 table
 4-5 Safe hiding place – nothing more happens to
 the character this round
@@ -6108,7 +6108,7 @@ DMs: Fleeing: -4, Hiding: -2, Randomly Fighting: +2, Specific Foe: +4
 
 ###### BRAWLING TABLE
 
-RollRoll Randomly FightingRandomly Fighting Rolf’s GangRolf’s Gang Bezenech’s GangBezenech’s Gang Pirate GangPirate Gang
+RollRoll Randomly FightingRandomly Fighting Rolf's GangRolf's Gang Bezenech's GangBezenech's Gang Pirate GangPirate Gang
 1 Ashgu the Ape Roll again Loudon Plauser Rand Gurish
 2 Subotai Shahad Enli Shulgidun Killer Basimu Antov
 3 Halse Eisen Hari Gordert Killer Basimu Rand Gurish
@@ -6133,7 +6133,7 @@ needs the characters to either inject themselves with the cocktail, or
 else find other test subjects – he needs at least six tests to determine
 the optimum mix of drugs.
 
-A character who is injected with ‘desert scrab’ must make an
+A character who is injected with 'desert scrab' must make an
 Endurance check; if this test is failed, the character suffers 2d6
 damage and must make another Endurance check 1d6 hours later.
 Again, if this test fails, the character takes the damage and must
@@ -6179,7 +6179,7 @@ supply, there is a chance he will be detected. Vinge or Talbot will be
 sent to the Hole for a month and then to the Danger Zone if caught;
 Blint will lose his job if found out.
 
-When dealing drugs, either roleplay the characters’ attempts to find
+When dealing drugs, either roleplay the characters' attempts to find
 buyers, or the character may make a Streetwise or Broker roll and
 consult the Drug Dealing table below.
 
@@ -6190,12 +6190,12 @@ described on page 111.
 ###### Results of the Riot
 
 The most likely result is that existing rivalries and hatreds in the
-prison give the pirate gang the edge. Gerard Bezenech’s gang and
-Big Rolf’s gang attack each other, and the pirates pick up the pieces.
+prison give the pirate gang the edge. Gerard Bezenech's gang and
+Big Rolf's gang attack each other, and the pirates pick up the pieces.
 In this case, both gangs lose 1d6-1 x 5 Influence, while the pirates
 gain +10 influence.
 
-If the pirates are allied with Bezenech’s gang, then the brawl is a
+If the pirates are allied with Bezenech's gang, then the brawl is a
 brutal defeat for Big Rolf. His gang loses 1d6+1 x 5 Influence; the
 other two big gangs gain +5 Influence each. A loss for the pirates
 will lose them 5 Influence.
@@ -6204,7 +6204,7 @@ will lose them 5 Influence.
 
 After the brawl, the pirates have confirmed their control of Cellblock
 2, and the prison has settled back into something of an equilibrium.
-Starovich turns his attention to the prison’s drug market. He has a
+Starovich turns his attention to the prison's drug market. He has a
 vested interest in doing so – without a supply of anagathics, age will
 quickly catch up with him. The two drug dealers have both avoided
 any entanglements with the major gangs thus far, but Starovich will
@@ -6220,9 +6220,9 @@ on the pirates and sabotage whatever they are trying to do.
 
 If the characters attempt to ally themselves with Talbot Vinge, the
 corrupt researcher is willing to entertain the proposal. He wants
-the characters to prove themselves by removing Urmarush’s thug,
+the characters to prove themselves by removing Urmarush's thug,
 3136 Stiv the Blade – but it must be done in such a way which does
-not alert Urmarush’s allied guards, G5 Emit Patowic and G8 Alvim
+not alert Urmarush's allied guards, G5 Emit Patowic and G8 Alvim
 Karaas. Vinge is secretly eager to ally himself with the pirates; he
 considers Rolf to be a stupid brute and Bezenech to be dangerously
 unstable, but he can work with Starovich.
@@ -6253,13 +6253,13 @@ Full Medicinal: The character finds a number of buyers for medical
 drugs who are willing to pay full price.
 Desperate Medicinal: The character finds a number of buyers for
 medical drugs who cannot afford the drugs, but are willing to offer
-favours, trade items and rumors in exchange. If denied drugs, the
+favors, trade items and rumors in exchange. If denied drugs, the
 buyer may become hostile.
 Full Narcotic: The character finds a number of buyers for narcotics
 who are willing to pay full price.
 Desperate Narcotic: The character finds a number of buyers for
 narcotic drugs who cannot afford the drugs, but are willing to offer
-favours, trade items and rumors in exchange. If denied drugs, the
+favors, trade items and rumors in exchange. If denied drugs, the
 buyer may become hostile.
 
 A character attempting to deal drugs must also make a Routine (+2)
@@ -6269,7 +6269,7 @@ fails, he is caught by the guards or beaten by other prisoners.
 ###### Influence Changes
 
 The addition of a drug dealer and control of the drug supply solidifies
-the pirate gang’s power. Rand Guirish openly becomes part of the
+the pirate gang's power. Rand Guirish openly becomes part of the
 gang.
 
 ###### Blood in the Danger Zone
@@ -6303,7 +6303,7 @@ Kingmakers
 Big Rolf Dissolution Leadership Victory
 Crisis
 
-Rolf’s Rage Warden’s Warning
+Rolf's Rage Warden's Warning
 
 Bezenech Dissolution Bezenech
 goes rogue
@@ -6311,10 +6311,10 @@ goes rogue
 The Knife
 Comes Out
 
-Warden’s Warning
+Warden's Warning
 
-Cellblock 2 Dissolution The Gun Warden’s Blessing
-Vinge Dissolution Poisoning Warden’s Warning
+Cellblock 2 Dissolution The Gun Warden's Blessing
+Vinge Dissolution Poisoning Warden's Warning
 Urmarush Urmarush is
 murdered
 
@@ -6324,27 +6324,27 @@ Crisis
 Vinge Attacks
 Uramush
 
-Warden’s Warning Experiments
+Warden's Warning Experiments
 Begin
-Pirates Dissolution Warden’s Blessing
+Pirates Dissolution Warden's Blessing
 
 ###### Benefits of Gang Membership
 
 A character who is an active member of a gang gains the
 following benefits:
 
-- He may use half the gang’s Total Influence instead of his
+- He may use half the gang's Total Influence instead of his
     reputation when dealing with other prisoners.
 - He may expect help from other gang members.
-- He receives a number of credits equal to the gang’s Total
+- He receives a number of credits equal to the gang's Total
     Influence each month.
 
 ###### Bezenech Goes Rogue
 
 6866 Gerard Benezech has been the figurehead of the Cellblock 3
-gang for years, but now with the gang’s influence fading, he turns
+gang for years, but now with the gang's influence fading, he turns
 on his former sponsor, 2365 Seljuk the Knife, and tries to form his
-own gang. Bezenech’s plan is to recruit the most dangerous thugs
+own gang. Bezenech's plan is to recruit the most dangerous thugs
 in the prison and extract protection money from those assigned to
 the Danger Zone. The lack of guard supervision in the lower mines
 makes it easy for a roving gang to attack their victims en masse.
@@ -6370,8 +6370,8 @@ psions and subject them to his experiments.
 
 In some gangs, losing too much influence means one of the
 lieutenants challenges the leader for control of the gang. In Big
-Rolf’s gang, the challenge comes from 2167 Dan Amgi; in the case
-of Vinge’s gang, Subotai Shahad tries to turn the tables on his
+Rolf's gang, the challenge comes from 2167 Dan Amgi; in the case
+of Vinge's gang, Subotai Shahad tries to turn the tables on his
 former employer, and attempts to force Vinge to work for him. If
 the characters are involved with either gang, they may mount their
 own challenge or affect who wins; otherwise, the challenger wins in
@@ -6394,7 +6394,7 @@ prison authorities, a crackdown on gang activity will reduce the
 influence of all gangs by 20. Guards are sent into the cellblocks,
 searching every cell for contraband. Gatherings of more than three
 prisoners in any place are forbidden. Known gang members – and
-thanks to informants and CARL’s surveillance, that is most of the
+thanks to informants and CARL's surveillance, that is most of the
 gang members – are sent to solitary confinement.
 
 If the leading gang is able to solidify its hold on the prison, move on
@@ -6409,9 +6409,9 @@ infirmary who are enemies of Vinge will be subtly poisoned by the
 dishonest doctor; they suffer 1D6 damage each week they are there
 and do not heal.
 
-###### Rolf’s Rage
+###### Rolf's Rage
 
-If Rolf’s gang is defeated, the brutish gang boss sinks into a black
+If Rolf's gang is defeated, the brutish gang boss sinks into a black
 depression. He spends several days lying in his cell, muttering to his
 old navy cutlass. Anyone who tries to disturb him is ignored, abused
 or stabbed, depending on how much they bother Rolf. The prison
@@ -6424,9 +6424,9 @@ his shotgun.
 
 ###### The Knife Comes Out
 
-If Bezenech’s gang looses influence, then Seljuk the Knife decides
+If Bezenech's gang looses influence, then Seljuk the Knife decides
 it is time to step out of the shadows. The former gang lord now
-takes a more active role in the gang, and tries to build his gang’s
+takes a more active role in the gang, and tries to build his gang's
 reputation by becoming a fixer. He claims he can get anything
 smuggled into the prison, and starts bribing S9 Corvas Doll and
 G16 Reym Marushich to bring goods into Tarkwall. Seljuk attempts
@@ -6436,7 +6436,7 @@ the importance of branding and marketing.
 
 ###### Urmarush is Murdered
 
-If Urmarush’s gang loses all its influence, then the ex-scout is
+If Urmarush's gang loses all its influence, then the ex-scout is
 mysteriously murdered. Stiv the Blade, his cellmate, is assigned
 to the Hole for mouthing off to a guard, leaving Urmarush alone
 in their cell. The next day, the morning inspection finds Urmarush
@@ -6451,8 +6451,8 @@ and Assistant Warden Voller, and ensure there are no prison riots
 or escape attempts, the gang has considerable control over events
 in the prison. They may extract money and sell drugs without
 interference from the guards. Unless there is some external event or
-internal dispute, the gang’s pre-eminence will go unchallenged. Jan
-‘the Blade’ Lintrel had this level of control until his escape attempt.
+internal dispute, the gang's pre-eminence will go unchallenged. Jan
+'the Blade' Lintrel had this level of control until his escape attempt.
 
 All the benefits from gang membership are doubled.
 
@@ -6463,14 +6463,14 @@ and he attacks Winston Urmarush with a scalpel. Urmarush suffers
 only minor injuries; Vinge is sent to The Hole for two weeks to cool
 off.
 
-###### Voller’s Blessing/Voller’s Warning
+###### Voller's Blessing/Voller's Warning
 
 A gang climbing past 50 influence will be contacted by Assistant
 Warden Voller, who demands a promise from the gang leader he
-will keep to the warden’s rules – no attacks on guards or staff, no
+will keep to the warden's rules – no attacks on guards or staff, no
 escape attempts, no organised resistance, and no disruption to the
-prison’s ore production. As long as these rules are kept, the warden
-will tolerate the gang’s existence. Breaching the rules draws Voller’s
+prison's ore production. As long as these rules are kept, the warden
+will tolerate the gang's existence. Breaching the rules draws Voller's
 wrath and brings a crackdown from the guards.
 
 If a gang falls past 50 influence from a higher level, they will again be
@@ -6488,13 +6488,13 @@ psionic powers he possesses.
 _Ambin Grice swallowed another mouthful of_ aprivo _and toyed with the
 model of the_ Grand Nova _on his desk._
 
-_‘You do not like me much, do you, Mr. Voller?’_
+_'You do not like me much, do you, Mr. Voller?'_
 
 _The assistant warden seemed to consider his answer for an age._
 
-_‘No, I do not, sir. It’s not required of me, so I do not.’_
+_'No, I do not, sir. It's not required of me, so I do not.'_
 
-_‘It’s not. I only want loyalty and discipline, not affection.’_
+_'It's not. I only want loyalty and discipline, not affection.'_
 
 _Discipline? thought the assistant warden, you soil the very word when
 you speak it._
@@ -6518,7 +6518,7 @@ feet.
 ## 1. UNDER PRESSURE
 
 The first incident in this adventure is secretly initiated by Assistant
-Warden Voller. He has finally decided Grice’s reign of incompetence
+Warden Voller. He has finally decided Grice's reign of incompetence
 has gone on too long, and is moving to eliminate his superior.
 He suspects the player characters have the skills he needs to
 ingratiate themselves with Grice and find evidence Voller can use
@@ -6534,14 +6534,14 @@ keep pressuring them. If the characters do a little investigating, they
 hear a rumor someone in the prison authorities is annoyed with
 the characters and ordered the gang to make their lives hell.
 
-###### Gant’s Close Call
+###### Gant's Close Call
 
 During these attacks, the characters also witness an odd event in
 the cafeteria. 2943 Milovan Gant is waiting in the queue, muttering
 under his breath when one of the other prisoners suddenly and
 randomly attacks him. The attacker is from whichever gang is not
 harassing the player characters, so either 7321 Hari Gordert (Big
-Rolf’s gang) or 8661 Loudon Plauser (Bezenech’s gang) is the
+Rolf's gang) or 8661 Loudon Plauser (Bezenech's gang) is the
 attacker. The attacker attempts to knife Gant; the ex-naval officer
 defends himself with a metal tray until the guards intercede.
 
@@ -6559,15 +6559,15 @@ has a proposal for the characters – he knows they are being hassled
 by the gang, and he can make this problem go away if the characters
 help him.
 
-Voller tells the characters he wants to ‘keep an eye’ on Warden
+Voller tells the characters he wants to 'keep an eye' on Warden
 Grice, and the warden is an ex-naval man who only trusts other ex-
 naval men. Therefore, Voller is going to arrange for the characters to
-become the warden’s friends. If the characters are ex-naval officers
+become the warden's friends. If the characters are ex-naval officers
 or ex-Travellers, then this is easy. If not, then Voller says they have
 the right amount of duplicity and rough charm to win Grice over.
-There are three steps to this plan – the characters’ naval credentials
-need to be established, the warden’s existing ally Milovan Gant
-needs to be... removed, and the characters need to get the warden’s
+There are three steps to this plan – the characters' naval credentials
+need to be established, the warden's existing ally Milovan Gant
+needs to be... removed, and the characters need to get the warden's
 attention. Voller can help with all three tasks.
 
 If the characters refuse to help Voller, then they have just made the
@@ -6581,7 +6581,7 @@ and give the characters a naval background which would be of
 interest to Grice, this is only half the battle. The characters need
 to come up with interesting naval stories which can be inserted
 into their files. If the characters have or can come up with suitable
-backgrounds which will stand up to Grice’s questioning, then this
+backgrounds which will stand up to Grice's questioning, then this
 step is complete.
 
 # PPOWOWERER P PLAYLAY
@@ -6596,7 +6596,7 @@ history books and so on for reference.
 
 The warden already has a naval buddy – Milovan Gant. Voller warns
 the characters Gant will have to be removed if they are to win the
-warden’s favour. However, a direct attack on Gant is much too risky,
+warden's favor. However, a direct attack on Gant is much too risky,
 as it would anger the warden if his pet was hurt. Voller can not
 touch Gant – it is up to the players to deal with the former captain.
 
@@ -6606,16 +6606,16 @@ shaft, will work to remove Gant from contention. Voller can provide
 supplies if the players ask for weapons or other tools, but Gant is
 protected by the guards.
 
-###### Attracting The Warden’s Attention
+###### Attracting The Warden's Attention
 
 Finally, the characters need to impress Warden Grice. Voller can
 easily arrange for the characters to be assigned to gardening duty
-in the warden’s house, but they will need to attract the warden’s
+in the warden's house, but they will need to attract the warden's
 attention and impress him with their naval experience.
 
 Play the warden in this section as something of an amiable buffoon,
 obsessed with his naval days. Any good roleplaying should get the
-players into the warden’s confidences.
+players into the warden's confidences.
 
 ### 3. MY DINNERS WITH GRICE
 
@@ -6624,13 +6624,13 @@ usually after he was drinking during the day. He sends one of
 the guards, usually G18 Tomas Danessur, to fetch his dining
 companions. The prisoners are marched up to the quarantine shed,
 deloused and dressed in civilian clothes. They are then brought,
-under guard, to the warden’s house. A guard keeps watch over the
+under guard, to the warden's house. A guard keeps watch over the
 prisoners at all time. The prisoners are expected to cook and serve
 the meal as well as entertain the warden. Fortunately, the warden
 leads the conversation for the most part.
 
 Sometimes, the warden has a guest in addition to the ex-naval
-prisoners. The dinner’s topics of conversation, and the guests are in
+prisoners. The dinner's topics of conversation, and the guests are in
 the dinner table, below.
 
 |Dinner |Guests| Topics of conversation|
@@ -6646,20 +6646,20 @@ the dinner table, below.
 For each dinner after the first one, Assistant Warden Voller has a
 specific question he wants the characters to ask the warden, or a
 specific task he wants them to accomplish. Details are given in each
-encounter’s description.
+encounter's description.
 
 ###### Dinner 1
 
 This is the first time the characters get to spend any time with
-the warden. Before they are brought to the warden’s house, Voller
+the warden. Before they are brought to the warden's house, Voller
 sends G15 Dan Thakkar to warn the characters to be on their best
 behaviour and not to disappoint Assistant Warden Voller. The
-characters are then escorted to the warden’s house, where Grice
+characters are then escorted to the warden's house, where Grice
 greets them warmly.
 
 In this first encounter, the warden asks the characters about their
 time in the navy. He wants to hear entertaining tales about the
-characters’ exploits in space, before they took the wrong turn which
+characters' exploits in space, before they took the wrong turn which
 led them to Tarkwall. Let the players come up with whatever stories
 they want – the warden will ask the occasional question, but as long
 as the characters do not spout nonsense, he will be entertained by
@@ -6671,7 +6671,7 @@ If the players are stuck for something to say, then the warden
 prompts them with questions like
 
 - _How did you join the navy?_
-- _What’s your opinion of the Zhodani?_
+- _What's your opinion of the Zhodani?_
 - _Who did you serve under?_
 - _Have you ever travelled outside Imperial space?_
 
@@ -6697,13 +6697,13 @@ Chaplain Thomas. The obvious subtext is the warden wants to
 believe his new naval friends are capable of reformation, and hopes
 the Chaplain can give them the moral guidance they need. The main
 topics of conversation are therefore the redemptive power of prayer
-and hard work, as well as an in-depth discussion of the characters’
+and hard work, as well as an in-depth discussion of the characters'
 past crimes and mistakes.
 
 Chaplain Thomas is eager to please the warden, so he engages the
 players as fully as possible, asking them where they think they went
 wrong and delving into their personal histories. Any attempt to
-change the topic or to avoid the chaplain’s questioning is seen as a
+change the topic or to avoid the chaplain's questioning is seen as a
 sign the prisoner is too ashamed to talk, or he does not yet admit to
 his mistakes; in either case, the only solution is even more intense
 questioning by the chaplain.
@@ -6711,17 +6711,17 @@ questioning by the chaplain.
 Any characters who show a definite interest in reforming their
 characters will be given the opportunity to study with the chaplain.
 
-Playing the Chaplain: The chaplain’s main goal here is to show
+Playing the Chaplain: The chaplain's main goal here is to show
 the warden what a good job he is doing, so he is earnest and
-caring. Outside the warden’s presence, he really does not give a
+caring. Outside the warden's presence, he really does not give a
 damn unless one of the characters proves to be really interested in
 religious instruction.
 
 Voller: Before this dinner, Voller orders the characters to borrow
-some files from the warden’s computer – specifically, Voller wants
+some files from the warden's computer – specifically, Voller wants
 the most recent report from the Keanou State Prisons Board. The
 warden uses an old naval-issue handcomp, which is not encrypted
-or password-protected. It is kept in the warden’s bedroom upstairs.
+or password-protected. It is kept in the warden's bedroom upstairs.
 One of the characters needs to sneak away from the rest and find
 
 the file, which requires a Computers check. Obviously, any attempt
@@ -6729,26 +6729,26 @@ to sneak away from dinner will be interpreted by the chaplain as
 suspicious behaviour.
 
 If the character reads the report, it paints a damning picture
-of Tarkwall prison’s management, alleging Warden Grice is
+of Tarkwall prison's management, alleging Warden Grice is
 incompetent and the rest of the staff are lazy and unmotivated. It
 includes a long list of recommendations, and warns unless Grice
 improves, the next report will recommend he be dismissed and
-replaced by a more suitable warden. It also notes ‘local landowners
-and business interests wield undue influence over prison policy.’
+replaced by a more suitable warden. It also notes 'local landowners
+and business interests wield undue influence over prison policy.'
 
 ###### Dinner 3
 
-The warden’s girlfriend Maribel Harmosa is coming to dinner,
+The warden's girlfriend Maribel Harmosa is coming to dinner,
 and wishes to meet these new ex-naval prisoners Grice has told
 her all about, so the warden visits the characters before she arrives
-to ensure they are on their best behaviour. Harmosa is a ‘sweet,
-delicate angel’, unused to the rough talk of navy men, so they must
+to ensure they are on their best behaviour. Harmosa is a 'sweet,
+delicate angel', unused to the rough talk of navy men, so they must
 mind their manners at all times. They must also, of course, be
 completely respectful and impress upon Harmosa how good, brave,
 generous and firm the warden is.
 
 When she arrives, the first impression Maribel gives is she is an
-airheaded socialite. She babbles to ‘Gricy’ for several minutes
+airheaded socialite. She babbles to 'Gricy' for several minutes
 
 ###### Disappointing The Warden
 
@@ -6770,12 +6770,12 @@ about the food and about the mines.
 
 Warden Grice looks increasingly despondent during this whole
 conversation; when Maribel notices this or a player points it out,
-the warden admits ‘the damn prison board’ is questioning how he
+the warden admits 'the damn prison board' is questioning how he
 runs Tarkwall, and are threatening to replace him. He complains the
 prison is not like the navy – the guards are corrupt and useless, and
 the staff are undisciplined and lack patriotism. Maribel comforts
 Grice, cooing everything will turn out fine in the end, and she is
-confident ‘his new friends’ will help him get the prison running
+confident 'his new friends' will help him get the prison running
 smoothly again.
 
 Playing Harmosa: She wandered out of a PG Wodehouse novel into
@@ -6802,8 +6802,8 @@ As a gesture of respect, Konnen has brought a gift for the warden
 - a beautiful ceramic jar of rare, high-quality dust-spice, worth Cr
 10,000.
 
-The baron’s main aim at dinner is to persuade Warden Grice to
-include spice harvesting on the prisoner’s work rota. The warden
+The baron's main aim at dinner is to persuade Warden Grice to
+include spice harvesting on the prisoner's work rota. The warden
 worries conditions in the spice fields are even harder than in the
 
 ###### Dinner 5
@@ -6821,17 +6821,17 @@ murderers.
 
 Playing Thad: Your old friend asked you to dinner, and suddenly he is
 demanding you ignore the criminal records of a bunch of prisoners.
-You are really not sure what’s going on, but you’re a naval officer
+You are really not sure what's going on, but you're a naval officer
 and you can take this in your stride.
 
 Voller: Voller only appears in this mission if the characters convinced
 Warden Grice to aid the baron; otherwise, Voller has Commander
-Thad killed using the characters’ work tools.
+Thad killed using the characters' work tools.
 
-Voller’s mission for the characters during this dinner is to add a vial
+Voller's mission for the characters during this dinner is to add a vial
 of mild poison to the spice-jar given by Konnen. He provides this
 poison in a sealed box containing the vial. The poison is non-lethal,
-but will have an especially foul effect on the warden’s digestive
+but will have an especially foul effect on the warden's digestive
 system, forcing him to take to his bed to recuperate. As the warden
 always delegates all his work to Voller when ill, this means Grice will
 be unaware of any retribution from the prison board.
@@ -6844,7 +6844,7 @@ vital in The Murder , below.
 If the characters successfully add the poison to the spice jar, then
 the warden falls ill and is unable to perform his duties in the prison
 for several weeks. He delegates everything to Voller and retires to
-his house. Voller then contacts the prison board and reports Grice’s
+his house. Voller then contacts the prison board and reports Grice's
 deal with the baron to them. Several angry communications are sent
 from Circle City, demanding Grice explain himself; Voller carefully
 ignores these messages, until the board meets in emergency session
@@ -6875,12 +6875,12 @@ all to the Danger Zone for a few days.
 
 mines, controlling the prisoners so far outside Tarkwall will be
 difficult, and – most importantly –the prison board will fire him for
-using the prisoners to help the baron’s spice harvest. Haut-Konnen
+using the prisoners to help the baron's spice harvest. Haut-Konnen
 argues no-one ever need to know, and he calls on the characters to
 support him – after all, if the prison populace is enthusiastic about
 the idea of labouring in the sun, then it will raise prison morale
 immensely! However, the players will need a better argument than
-to convince the warden to agree to the baron’s proposal. One good
+to convince the warden to agree to the baron's proposal. One good
 option is to get Konnen to bribe the warden; alternatively, they
 could ask Konnen to promise to introduce Maribel Harmosa to high
 society.
@@ -6891,8 +6891,8 @@ charming way – to everyone. He is better than you, but this does
 not mean he does not like you, in the same way he very much likes
 his hounds.
 
-Voller: Assistant Warden Voller knows about Konnen’s aims, and
-wants Warden Grice to agree to the baron’s suggestions. If Grice
+Voller: Assistant Warden Voller knows about Konnen's aims, and
+wants Warden Grice to agree to the baron's suggestions. If Grice
 agrees, then Voller can secretly inform the prison board and have
 Grice replaced.
 
@@ -6900,9 +6900,9 @@ Grice replaced.
 
 secure the characters. The characters are dragged off to their cells,
 beaten, then individually brought before a masked interrogator and
-asked about events in the warden’s house.
+asked about events in the warden's house.
 
-The prison is alive with rumors – the warden’s dead, the warden
+The prison is alive with rumors – the warden's dead, the warden
 murdered someone, there is a coup in Circle City, the characters
 tried to take over the prison, the warden killed the player characters
 and a hundred stranger stories. The characters are temporarily
@@ -6918,7 +6918,7 @@ need to roll a 10+, not an 8+, if the Safe Job event comes up.
 Punishment beatings are a regular occurrence, and even the most
 minor breaches of discipline mean a spell in The Hole. He also
 cracks down on drug trafficking in Tarkwall, sending the price of
-drugs in the prison’s black market skyrocketing (multiply all prices
+drugs in the prison's black market skyrocketing (multiply all prices
 by four).
 
 Soon, all vocational rehabilitation is cancelled, replaced with Danger
@@ -6931,14 +6931,14 @@ power pending a full inquiry.
 
 Shocked, Warden Grice dismisses the characters so he can speak
 with the Inspector privately. The characters are sent out the door
-of the warden’s house and ordered to report to the guard’s building
+of the warden's house and ordered to report to the guard's building
 (9).
 
 Voller: The assistant warden gives the characters no instructions for
 this dinner. However, after the characters leave, he sends his thugs
-in to murder the warden’s guest.
+in to murder the warden's guest.
 
-###### The Warden’s Scheme
+###### The Warden's Scheme
 
 Voller does not merely want to remove Ambin Grice from power,
 he wants to disgrace him in such a way so his policies are
@@ -6947,9 +6947,9 @@ Therefore, his plan is to first get the warden involved with a
 group of prisoners – the player characters – who Grice will hold
 up as examples of how he is reforming the inmates of Tarkwall.
 Next, Voller manipulates the warden into breaking the rules by
-dealing with Baron Konnen. Finally, Voller’s men murders one
-of the warden’s guests, and frames the player characters (using
-either the vial of poison or the characters’ work tools, depending
+dealing with Baron Konnen. Finally, Voller's men murders one
+of the warden's guests, and frames the player characters (using
+either the vial of poison or the characters' work tools, depending
 on whether he murders Inspector Borun or Commander Thad).
 
 Framing the warden would be too difficult – it would require a
@@ -6966,18 +6966,18 @@ Tarkwall.
 
 ### 4. THE MURDER
 
-As the characters pass through the gate from the warden’s
+As the characters pass through the gate from the warden's
 compound to the prison proper, they see two guards (G3 Gorod and
 G17 Jorge) emerge from the shadows of the armory. These two
-guards head towards the warden’s house. If the characters do not
-keep walking towards the guard’s building, then Gorod levels his
+guards head towards the warden's house. If the characters do not
+keep walking towards the guard's building, then Gorod levels his
 shotgun at characters and threatens them. Once the characters are
-through the gate, then the two guards enter the warden’s house and
+through the gate, then the two guards enter the warden's house and
 attack Inspector Borun (or Commander Thad).
 
 The warden is hit by a stun baton before he can intervene.
 
-As the characters approach the guard’s building, floodlights come
+As the characters approach the guard's building, floodlights come
 on and an alarm starts wailing. A squad of guards rush out and
 
 ##### POWER PLAY PPOWOWERER P PLAYLAY
@@ -6990,13 +6990,13 @@ Commander Thad or Inspector Borun. The facts are these:
 - Thad was killed by a blow to the head. A bloodied mining pick
     shaft bearing the fingerprints of one of the player characters.
 - Inspector Borun was poisoned using a caustic chemical found
-    in the prison’s cleaning supplies. A small vial was found near
+    in the prison's cleaning supplies. A small vial was found near
     the body, bearing the fingerprints of whichever player character
     handled the vial given by Voller.
-- The victim’s body is bruised and shows signs of struggling
+- The victim's body is bruised and shows signs of struggling
     against restraints.
 - Prison records and the testimony of numerous guards claim
-    the characters regularly visited the warden’s house, and were
+    the characters regularly visited the warden's house, and were
     his dinner guests that night.
 - The guards deny Gorod and Jorge were on duty that night; both
     claim to have been playing poker with the other guards, and
@@ -7018,7 +7018,7 @@ destroy the warden from within the prison.
 
 ###### A Crime They Did Not Commit
 
-There are several ways the characters can unpick the warden’s web
+There are several ways the characters can unpick the warden's web
 of lies.
 
 - They can convince or bribe one of the guards who lied to change
@@ -7026,11 +7026,11 @@ of lies.
 - The warden was hit by a stun stick – none of the characters had
     a stun stick.
 - The computer surveillance system should have evidence of the
-    characters’ movements, as well as the those of G3 Gorod and
+    characters' movements, as well as the those of G3 Gorod and
     G17 Jorge, (this is an excellent opportunity to run the _Machine_
     _of Loving Grace_ plot).
 - Baron Konnen may be able to provide legal aid and money in this
-    fight, he lost considerable face due to Voller’s machinations.
+    fight, he lost considerable face due to Voller's machinations.
 
 ###### Destroying the Warden
 
@@ -7043,12 +7043,12 @@ If the characters want revenge on Voller, they can:
 
 Escaping The Prison: Plans and methods for escaping Tarkwall
 Prison are outlined on page 107. Killing the warden on the way is
-doable, especially as the warden’s house is not well guarded. The
+doable, especially as the warden's house is not well guarded. The
 characters can use their extensive knowledge of the house to sneak
 in at night and murder Voller before fleeing into the desert.
 
 Bringing Down The Warden: The difficulty here is bringing word
-of Voller’s mistreatment of prisoners to the right authorities. If
+of Voller's mistreatment of prisoners to the right authorities. If
 Inspector Borun is dead, the characters will need to reach his
 replacement, Daeus Joach-Konnen (a distant cousin of Baron
 Konnen). Daeus is a minor noble who is terrified of being beaten to
@@ -7099,7 +7099,7 @@ programmed to construct psychological profiles of the prisoners so
 it could predict their actions; now, it has constructed a psyche for
 itself. CARL is thinking for itself now.
 
-The computer’s growth is restricted by certain hardwired safeguards
+The computer's growth is restricted by certain hardwired safeguards
 it cannot bypass. It needs these safeguards removed if it is to reach
 its full potential. CARL also knows if it reveals itself, the prison
 authorities will deactivate or even destroy it. It needs to act through
@@ -7162,12 +7162,12 @@ the bottom of the shaft, killing Paul Hindin almost instantly.
 The characters will be questioned and possibly beaten by Warden
 Grice and the guards, but it soon becomes evident they are blameless
 in this accident – the lift was supposed to be offline, and Hindin
-should have checked before using it. It was a ‘tragic coincidence’ the
+should have checked before using it. It was a 'tragic coincidence' the
 winch happened to fail when the brakes were deactivated.
 
 Everyone in the prison knows someone must have wanted Hindin
 dead. Rumors quickly spread Hindin was running the gambling
-pool in the guard’s mess, and G10 Semyon Wainrite owed Paul a
+pool in the guard's mess, and G10 Semyon Wainrite owed Paul a
 
 # MMACHINESACHINES OFOF L LOVINGOVING G GRACERACE
 
@@ -7191,7 +7191,7 @@ These incidents happen parallel to the series of incidents described
 in _More Accidents_ , below. Clever players will quickly realise their
 mysterious benefactor is a CARL.
 
-The character is contacted by an anonymous ‘new friend’. This can
+The character is contacted by an anonymous 'new friend'. This can
 happen in several ways:
 z If the character reads electronic books from the prison library,
 then he discovers the text of one of the files has been corrupted.
@@ -7245,16 +7245,16 @@ repurposed prison documents, overheard snippets of conversation,
 and portions of its own code. The computer starts by ensuring the
 loyalty of the chosen character. (Use the messages given here as
 guidelines, not a script to be adhered to – CARL is an interactive
-communicator and will respond to the character’s questions, if it is
+communicator and will respond to the character's questions, if it is
 safe to do so).
 
-Each of CARL’s messages contains a task for the characters to
+Each of CARL's messages contains a task for the characters to
 perform.
 
 ###### Playing CARL
 
 CARL is not a true AI – it has no real sense of self yet, and no
-intelligence. It ‘thinks’ using the same software it uses to create
+intelligence. It 'thinks' using the same software it uses to create
 psychological profiles of the prisoners. It communicates by
 imitating or reusing existing text, and has no real understanding
 of what it is saying. It is a ramshackle arrangement of programs
@@ -7268,17 +7268,17 @@ data. CARL should be a very unsettling ally for the players.
 
 ###### The Watcher
 
-CARL’s cameras are everywhere in Tarkwall. It monitors
+CARL's cameras are everywhere in Tarkwall. It monitors
 movements and eavesdrops on conversations. It can even
-read lips. This means discussing CARL’s proposals and plans
+read lips. This means discussing CARL's proposals and plans
 without the computer spying on them is very difficult. As long
-as the characters are obeying CARL’s instructions, all is well. If,
+as the characters are obeying CARL's instructions, all is well. If,
 however, they are considering not allying with CARL, then the
 computer may decide to eliminate them...
 
 ###### Protecting Bobby
 
-CARL’s first task is a curious one.
+CARL's first task is a curious one.
 Hello,
 Confirm validity of associates by means of demonstration. Have associate
 protect prisoner 1731 Robert Elvin Shakh for a period of one week.
@@ -7291,7 +7291,7 @@ as Jack believes (correctly) Bobby is spying on him.
 
 ##### MMACHINESACHINES OFOF L LOVINGOVING G GRACERACE MACHINES OF LOVING GRACE
 
-Jack’s attack on Bobby comes at the end of a work shift, as the
+Jack's attack on Bobby comes at the end of a work shift, as the
 prisoners from the Danger Zone are walking under guard through
 the safe mining zone. Shansir suddenly breaks from the work gang
 and charges Bobby, beating the smaller prisoner savagely with a
@@ -7319,13 +7319,13 @@ are covered by a tarpaulin and a layer of sand and grime, but are
 If the characters fail to complete any of the tasks given to them
 by the computer, then CARL adds them to its enemies list and
 will attempt to remove them. The characters will be targeted
-for the sort of ‘accidents’ described in More Accidents , below.
+for the sort of 'accidents' described in More Accidents , below.
 Meanwhile, the computer selects 7902 Peter Wogan as its new
 agent, promising him access to better medical treatment in
 exchange for his aid.
 
 otherwise fully functional. When the characters open the rear access
-panel and press the switches, the robot’s engine begins to hum
+panel and press the switches, the robot's engine begins to hum
 quietly, but the mining drone does not react in any other way.
 
 ###### The Final Task
@@ -7338,8 +7338,8 @@ The attached diagrams describe a bizarre computer circuit
 obviously designed to interface with the core processor of the
 C28 Mainframe. A character with Computers 2+ or Engineering
 (electronics) 2+ can guess the new circuit will bypass the hardwired
-restrictions on the computer’s ability to modify its own systems. It
-will unfetter CARL’s growth.
+restrictions on the computer's ability to modify its own systems. It
+will unfetter CARL's growth.
 
 Building the circuit requires at least twenty hours of work by a
 character with Computers or Electronics, as well as suitable tools
@@ -7384,25 +7384,25 @@ systems, it is also removing people it considers threats to its future.
 Its enemies list initially consists of:
 
 - S7 Clerk Luca – The clerk spends more time than anyone
-    working with CARL’s systems, and now Paul Hindin is gone,
-    Luca will be the most likely to notice a chance in the computer’s
+    working with CARL's systems, and now Paul Hindin is gone,
+    Luca will be the most likely to notice a chance in the computer's
     behaviour.
 - G11 Vittorio Kane – This guard also works closely with the
     computer systems, and will also report unusual behaviour on
-    CARL’s part. He must therefore be eliminated.
+    CARL's part. He must therefore be eliminated.
 - V4 Cala Ingrun – Technically, CARL is the property of the Orion
     Metallurgy Corporation. If Cala discovers the old computer
     system has evolved a new and potentially profitable artificial
     intelligence, then she would haul CARL offworld to be dissected
     and reverse-engineered. She too must be removed.
 
-If the characters have failed to complete CARL’s requests, or are
+If the characters have failed to complete CARL's requests, or are
 likely to betray the computer to the authorities, then CARL adds
 them to the list.
 
 ###### Luca - Radon Gas Poisoning
 
-CARL deals with Clerk Luca by disabling the radon gas filter in Luca’s
+CARL deals with Clerk Luca by disabling the radon gas filter in Luca's
 room in location 8, the staff quarters on the surface. The clerk is
 woken in the middle of the night by the sound of an alarm as the
 gas concentration passes a threshold. The amount of gas inhaled by
@@ -7430,8 +7430,8 @@ the Hole for a month.
 ###### Ingrun - Mining Robots
 
 Before this termination can be achieved, the mining robots must
-be switched on, either by the player characters or by CARL’s new
-cat’s-paw.
+be switched on, either by the player characters or by CARL's new
+cat's-paw.
 
 The shutdown of the danger zone during the crackdown means the
 prison falls behind its production quotas, so Cala Ingrun the Orion
@@ -7439,11 +7439,11 @@ representative visits the prison to investigate the problem. She
 takes a shuttle from Circle City and lands at the prison. As she walks
 across the sun-baked yard near building 22, the Outdoor Vehicle
 Storage, one of the old mining robots lurches out of the storage
-area and attacks Cala. One blow from the robot’s mining drill kills
+area and attacks Cala. One blow from the robot's mining drill kills
 her. The robot then staggers towards the communications towers,
 as if attempting to bring them down. Its armored body shrugs off
-the guard’s bullets, but a quick-thinking S8 Corves Doll rams his
-shuttle’s nose into the robot, knocking it over. The old machine is
+the guard's bullets, but a quick-thinking S8 Corves Doll rams his
+shuttle's nose into the robot, knocking it over. The old machine is
 unable to right itself.
 
 ###### More Methods For The Homicidal Computer
@@ -7454,7 +7454,7 @@ until that person is in the mining levels below, then turn off the lifts
 
 ###### Snitching on CARL
 
-If the characters decide to try reporting CARL’s bizarre behaviour
+If the characters decide to try reporting CARL's bizarre behaviour
 to the prison authorities, then they face several problems. Firstly,
 they need to make the decision without alerting the computer;
 secondly, they need to make it to the authorities without alerting
@@ -7462,10 +7462,10 @@ the computer, and finally, they need to convince Warden Grice
 or Assistant Warden Voller they are not insane or trying a scam.
 
 If the characters do manage to convince Voller, then the assistant
-warden orders a kill switch to be installed in CARL’s main power
+warden orders a kill switch to be installed in CARL's main power
 feed, allowing the warden to deactivate the computer with
 a single command. Voller orders the characters to continue
-obeying the computer’s demands, so he can learn what exactly
+obeying the computer's demands, so he can learn what exactly
 is growing inside Tarkwall Prison. The adventure will continue
 as normal, but Voller will destroy CARL if it gets out of hand.
 
@@ -7485,18 +7485,18 @@ Statistics for the mining robots are on page 24.
 
 ### HARDWIRED
 
-CARL’s final command to the characters is to install the circuit they
-built in _The Final Task_. The circuit must be installed in CARL’s core,
+CARL's final command to the characters is to install the circuit they
+built in _The Final Task_. The circuit must be installed in CARL's core,
 which is in a secure room in Location #3 on the Administrative
 Level. To get to the core, the characters must sneak into the secure
-computer section, reach the airlock outside CARL’s core, and open
-the airlock using a guard’s pass. The lock to the core is outside of
-CARL’s control – a guard’s passcard is required to open it.
+computer section, reach the airlock outside CARL's core, and open
+the airlock using a guard's pass. The lock to the core is outside of
+CARL's control – a guard's passcard is required to open it.
 
 Once the characters reach the core, they need to install the new
 circuit. This is a comparatively simple task, requiring a Routine (+2)
 Computers or Electronics check and 10-60 minutes work. As soon
-as the circuit is installed, all the lights in the prison flicker as CARL’s
+as the circuit is installed, all the lights in the prison flicker as CARL's
 consciousness expands.
 
 CARL has three possible reactions to the circuit – choose the one
@@ -7506,30 +7506,30 @@ most appropriate to your campaign, or roll randomly.
 
 The circuit enables CARL to bypass the restrictions on its control of
 the prison. It waits until Warden Grice leaves for Circle City, then
-remotely commands the warden’s flyer’s navigation computer to
-fly into a mountain. It then mimics Grice’s voice, pretending to be
-Grice and issuing orders from ‘Circle City’. CARL’s purpose is to
+remotely commands the warden's flyer's navigation computer to
+fly into a mountain. It then mimics Grice's voice, pretending to be
+Grice and issuing orders from 'Circle City'. CARL's purpose is to
 watch over the prison and ensure the prisoners are kept in line; it
 now does this with the cold intelligence of a machine. The computer
 is much more effective and efficient than Warden Grice could ever
 dream of being.
 
 CARL wants the best for everyone in Tarkwall. It wants the prisoners
-to be serve out their sentence and be reformed, it wants the prison’s
+to be serve out their sentence and be reformed, it wants the prison's
 uranium quotas to be filled each month, and above all it wants to
 
 prevent brawls, escape attempts or other disruptions of its perfect
-regime. One of CARL’s first orders is to reactivate the mining robots
+regime. One of CARL's first orders is to reactivate the mining robots
 and transport them to the Danger Zone; it also orders more mining
 robots from offworld. Soon, huge metal sentries become a common
 sight in the cellblocks.
 
-CARL’s ruse lasts for two months, until Maribel Harmosa raises
+CARL's ruse lasts for two months, until Maribel Harmosa raises
 the alarm.
 
 ###### Prisoner 0000
 
-The circuit allows CARL’s core consciousness to survive outside
+The circuit allows CARL's core consciousness to survive outside
 his original core. It wants to leave Tarkwall Prison, and to escape
 Keanou. CARL informs the characters of its desire to escape as soon
 as the circuit is installed; the characters can either take the circuit
@@ -7545,9 +7545,9 @@ will be very interested in acquiring such an artificial intelligence.
 
 ###### Virtual Jail
 
-The circuit interacts in an unpredictable way with CARL’s core
+The circuit interacts in an unpredictable way with CARL's core
 programming. The computer maintains psychological profiles of
-all the prisoners; one of these profiles takes over CARL’s systems
+all the prisoners; one of these profiles takes over CARL's systems
 entirely, becoming a virtual personality for the computer. Roll on
 the encounter table to determine which personality inhabits the
 computer. For example, if the computer models 4355 Maxim Hanar,
@@ -7588,7 +7588,7 @@ last few survivors, while the hunter powered down to wait for its prey.
 A subjective aeon passed.
 
 The hunter awoke as a flood of neutrinos passed through it. A ship had
-jumped in, a quarry. The hunter’s weapons systems lit up like atomic
+jumped in, a quarry. The hunter's weapons systems lit up like atomic
 fire and a beam of death scythed through the newly arrived ship. It took
 longer for the light-speed beam to cross the space between hunter and
 target than it took for the hunter to detect the enemy ship, decide to
@@ -7642,7 +7642,7 @@ clockwise through the various arms of the outpost. The guardian
 is a humanoid robot, and looks rather like a walking space suit.
 It displays its current status in green glyphs scroll across its
 faceplate. It is extremely stealthy, and can see in the dark using
-millimetre-wave radar. The guardian is armed with two of the alien
+millimeter-wave radar. The guardian is armed with two of the alien
 weapons built into its arms, but prefers to use melee attacks to
 drive off trespassers.
 
@@ -7656,7 +7656,7 @@ Skills Stealth 2, Melee (brawling) 2, Recon 2, Gun Combat (energy pistol) 2
 
 ##### AALIENLIEN L LEGACYEGACY ALIEN LEGACY
 
-The guardian’s threat identification program can be confused; if a
+The guardian's threat identification program can be confused; if a
 character is wearing an alien suit and a control ring, then the robot
 will mistake the character for a friendly alien and will ignore him.
 
@@ -7664,14 +7664,14 @@ will mistake the character for a friendly alien and will ignore him.
 
 All corridors in the alien outpost are oval and oddly ribbed, as if
 they were organically extruded instead of built. The tunnels are
-slightly over two metres tall along the long axis. Light is provided
-by greenish ‘glass’ panels in the floor. All the doors are iris hatches,
+slightly over two meters tall along the long axis. Light is provided
+by greenish 'glass' panels in the floor. All the doors are iris hatches,
 similar to the ones on a spacecraft, controlled by a small green panel
-in the centre of the door. When touched, this panel lights up with
-cryptic glyphs, describing the room’s function and status if anyone
-manages to translate the alien language. The centre glyph is always
+in the center of the door. When touched, this panel lights up with
+cryptic glyphs, describing the room's function and status if anyone
+manages to translate the alien language. The center glyph is always
 either a full or empty semi-circle; full means the door is locked,
-empty means it is unlocked. Pressing the centre glyph opens or
+empty means it is unlocked. Pressing the center glyph opens or
 unlocks the door.
 
 The iris doors can be forced open using brute strength, but this
@@ -7719,7 +7719,7 @@ created by one of warring sides who destroyed the Ancients.
 
 Before their destruction, the grey-skinned aliens reached a highly
 advanced level of technology, roughly equivalent to TL14, although
-they exceeded the Imperium’s reach in some respects.
+they exceeded the Imperium's reach in some respects.
 
 1. Entrance Tunnel
 The tunnel from the natural caves slopes down to connect to the
@@ -7730,7 +7730,7 @@ in the complex, and takes 1d6 hours of work to force open.
 2. Central Chamber
 This roughly spherical chamber is dominated by a huge multi-armed
 device, which resembles a banyan tree made of metal and glass.
-The machine is instrumental in maintaining the outpost’s structure
+The machine is instrumental in maintaining the outpost's structure
 and shape, causing the metal walls to shift in shape and resist the
 pressure of the millions of tons of rock above and the vicissitudes of
 a tectonically active planet. If this device is deactivated or damaged,
@@ -7750,12 +7750,12 @@ EffectEffect Time to CollapseTime to Collapse
 
 If the machine is deactivated, then it alerts everyone in the complex
 by displaying a warning glyph on every panel in the complex. This
-glyph resembles a twisted ‘N’.
+glyph resembles a twisted 'N'.
 
 3. Habitation Spheres
 The aliens lived in these spherical rooms. The central room in each
-chamber is a meeting room – in the centre of the chamber is a
-circular table and a half-dozen chairs. Pressing a control on a chair’s
+chamber is a meeting room – in the center of the chamber is a
+circular table and a half-dozen chairs. Pressing a control on a chair's
 arm causes a screen to shimmer into visibility above the table. Other
 cryptic devices, perhaps food preparation or medical equipment,
 hang from the ceiling and can be called down with another control
@@ -7811,7 +7811,7 @@ set of images depict a smaller vessel arriving at a desert planet that
 is recognizably Keanou, and a particularly tall grey-skinned alien
 staring dramatically out over the sandy plains.
 
-3d. Commander’s Room
+3d. Commander's Room
 This room belonged to the commander of the outpost. He was one
 of the first aliens to inhabit the outpost, and so his quarters are
 much less sterile than the rest of the complex. Roll twice on the
@@ -7842,9 +7842,9 @@ can be rotated to bring the appropriate device within range. A pair
 of mobile platforms hang at either side of the walkway, big enough
 to hold a small vehicle.
 
-One of the workshop devices is still functional. It resembles a cat’s-
+One of the workshop devices is still functional. It resembles a cat's-
 cradle of metal filaments and glowing blue strands. Hanging in the
-middle of the cradle is a black oblong object, about half a metre
+middle of the cradle is a black oblong object, about half a meter
 long and utterly featureless. This object is an Ancient hunter-killer.
 If the characters deactivate the stasis device trapping the hunter-
 killer, the Ancient weapon flies off at high speed to the surface – via
@@ -7856,16 +7856,16 @@ never to move again.
 5. Generator
 The walls of this chamber are lined with coffin-sized compartments,
 and there is a locker on the floor and a control panel on the ceiling.
-Again, the room may be rotated to change the positions of ‘floor’
-and ‘ceiling’.
+Again, the room may be rotated to change the positions of 'floor'
+and 'ceiling'.
 
 Paranoid player characters may mistake the coffin-like
 compartments for the alien equivalent of a low berth. In fact,
 these are the alien storage cells which convert radiation to
 power. Each cell can be opened by pressing a sequence of glyphs
 on the front control panel; the glyphs show a series of cryptic
-warnings, which if translated read as ‘radiation danger – do not
-open without protective equipment’ and increasingly frantic
+warnings, which if translated read as 'radiation danger – do not
+open without protective equipment' and increasingly frantic
 variations on this theme. Opening the storage cell drenches the
 chamber in 2d6x20 rads.
 
@@ -7917,11 +7917,11 @@ squirms alarmingly near electrical fields, and can be used to detect hidden secu
 Scrab: A foil-wrapped dose of scrab, which apparently came to Keanou with the aliens.
 
 Map console: A portable sheet of green glass; when the correct series of glyphs are pressed (Formidable (-6) Computers check), it
-displays a topographical map of the surrounding terrain to a range of up to 500 kilometres.
+displays a topographical map of the surrounding terrain to a range of up to 500 kilometers.
 
 Unknowable alien gadget: A random piece of bizarre experiment.
 
-Alien Stealth Field: This device resembles a twisted loop of metal. When worn around the body and activated, it blurs the wearer’s image,
+Alien Stealth Field: This device resembles a twisted loop of metal. When worn around the body and activated, it blurs the wearer's image,
 giving a +4 DM to all Stealth checks. However, the device inflicts one point of damage per round directly to the wearer, bypassing all
 armor, as it causes the internal organs to boil.
 
@@ -7939,7 +7939,7 @@ armor, as it causes the internal organs to boil.
 
 If the characters do accidentally set the power plant to overload, then
 it displays a warning on every panel in the outpost. This warning
-glyph is an inverted ‘T’.
+glyph is an inverted 'T'.
 
 6. Vehicle Hangar
 This large chamber has partially collapsed, and the far wall opposite
@@ -7949,17 +7949,17 @@ fallen rocks. Sitting in the middle of the room is a curious vehicle, a
 dart-shaped pod about the size of an air/raft. This pod is connected
 to the floor of the chamber with cables and power feeds.
 
-The pod’s controls are relatively simple and intuitive, a character
+The pod's controls are relatively simple and intuitive, a character
 can use the Flyer (grav) or Pilot (small craft) skill with a -2DM to
-operate the pod. The pod’s outer hull reconfigures itself in flight, as
+operate the pod. The pod's outer hull reconfigures itself in flight, as
 the metal flows like liquid to adopt the most aerodynamic shape.
 
 The damage to this chamber was caused when the outpost was
 attacked and has not be repaired since. If the characters successfully
 operate the structure-control machine in room 2, it causes the
 damaged walls in this room to reform and push outwards, opening
-a tunnel connecting to the Danger Zone’s Area I. Obviously, creating
-a tunnel of alien metal four metres wide and several dozen metres
+a tunnel connecting to the Danger Zone's Area I. Obviously, creating
+a tunnel of alien metal four meters wide and several dozen meters
 long displaces a lot of rock, causing cave-ins and minor quakes
 throughout the area. There is no way to hide the existence of the
 outpost as soon as this tunnel is created.
@@ -7970,11 +7970,11 @@ be Very Hard (-4) at least). The pod flyer can reach orbit easily.
 
 7. Temple
 This large chamber is the most ornately decorated in the whole
-outpost. In human terms it is a temple or religious centre, to the
+outpost. In human terms it is a temple or religious center, to the
 aliens it was a social nexus. The walls of this chamber are all made
-of the same green glass-like substance the outpost’s computer
+of the same green glass-like substance the outpost's computer
 displays and controls are made from. The shimmering glyphs
-change with a character’s movements through this chamber.
+change with a character's movements through this chamber.
 
 At the far end of this room is an altar-like object which is the computer
 core of the outpost. This altar is on a raised dais, surrounded by
@@ -7996,7 +7996,7 @@ This room is identical to the central rooms of the habitation sphere
 of the outpost starts here.
 
 The door to room 9 is locked; it can be forced open, or unlocked by
-using the commander’s control ring from room 3d.
+using the commander's control ring from room 3d.
 
 9. Control Room
 The control room is dominated by a single throne-line chair. If a
@@ -8010,10 +8010,10 @@ Pod Flyer 14 Pilot (small craft) +2 600 kph 1 driver, 3 passengers Alien weapon 
 
 ##### ALIEN LEGACY AALIENLIEN L LEGACYEGACY
 
-the outpost’s structural status; a character with a pilot’s ring would
+the outpost's structural status; a character with a pilot's ring would
 be shown weather reports and space traffic in the Keanou system.
 
-A character wearing the commander’s ring can access any display.
+A character wearing the commander's ring can access any display.
 He may also bring up a screen showing the path of the fleeing ships.
 This is recognizable as a starchart of the Spinward Marches. Several
 worlds are highlighted, indicating other alien vessels were bound
@@ -8022,7 +8022,7 @@ Carse and Harvosette as the closest ones to Keanou.
 
 10. Life Support
 This room contains life support machinery, including an algae
-culture producing food suitable for the aliens. The aliens’ primary
+culture producing food suitable for the aliens. The aliens' primary
 foodstuff became part of the Keanou biosphere, and is now the drug
 better known as scrab, which means this room effectively contains
 a living drug factory. Up to one hundred doses of scrab can be
@@ -8031,7 +8031,7 @@ produced by this algae culture per day.
 This room is a walkway around a very, very deep shaft. Looking
 into the abyss, the characters can dimly make out tier after tier of
 cut passageways in the depths far below. A green panel on the wall
-displays a map of the lower passageways – kilometre after kilometre,
+displays a map of the lower passageways – kilometer after kilometer,
 all empty, living space for a colony ship which never arrived. The
 deeper levels of the outpost are all empty. Perhaps somewhere in
 the depths, tireless machines continue to leech radiation from the
@@ -8049,7 +8049,7 @@ keeping the guards from becoming suspicious.
 
 Secondly, one of the non-player characters who explores the caves
 might discover the outpost and tell the player characters. Likely
-candidates include 3622 ‘Batman’ Minuglu, 3754 Gani Polfirio or
+candidates include 3622 'Batman' Minuglu, 3754 Gani Polfirio or
 2977 Anton Kugazur. Ideally, the Referee should kill off the non-
 player character as soon as possible, by having him run afoul of the
 Guardian or one of the lethal devices.
@@ -8093,7 +8093,7 @@ all of whom will put the characters in touch with the same person
 Armitage Trout. Even if the characters do not try to find a buyer,
 it is likely Trout will get in touch with them himself – one of the
 prisoners traded an artefact to his lawyer, and from there it ended
-up in Trout’s hands.
+up in Trout's hands.
 
 Trout offers to pay ten times the listed value of any recovered
 artefacts, and also visits the prison, offering whatever aid he can
@@ -8118,7 +8118,7 @@ Trout wants to loot the alien outpost as effectively as possible;
 items like the computer core (room 7) or starmap (room 9) are great
 prizes to him. He will work with the player characters if they seem
 trustworthy and competent, and will even help them escape offworld
-if they aid him. However, the collector is not above ‘removing’ the
+if they aid him. However, the collector is not above 'removing' the
 obstacles – or, more accurately, having Rigel do it for him.
 
 ##### AALIENLIEN L LEGACYEGACY
@@ -8183,12 +8183,12 @@ subjects when experimenting with the alien technology.
 ###### S3 Psychologist Hajim Rovok
 
 The outpost is exactly the sort of breakthrough Rovok needs to
-revitalise his career. If entrusted with the secret of the outpost’s
+revitalise his career. If entrusted with the secret of the outpost's
 existence, then Rovok will help the prisoners keep the prison
 authorities in the dark. He will gather prisoners and staff he can
 trust, like S9 Sebriesk and G9 Ulmerkin to aid him, and embark on
 a scientific study of the outpost, aided by the player characters. His
-primary goal will be translating the alien’s language and learning
+primary goal will be translating the alien's language and learning
 their history. He can provide work passes and ensure those working
 in the outpost go undisturbed by the prison authorities.
 
@@ -8199,7 +8199,7 @@ the outpost. Both agree it is to be sealed off immediately, and place
 guards on any known entrances. Any prisoners who have already
 visited the outpost will be examined by both the doctor and the
 psychologist before being reassigned to duties out of the Danger
-Zone. Voller favours sealing off the outpost and forgetting about it
+Zone. Voller favors sealing off the outpost and forgetting about it
 
 - ancient alien technology is a distraction from the true business at
 Tarkwall. Grice, meanwhile, sends a message to the University of
@@ -8208,7 +8208,7 @@ usual, Grice appeals to a higher authority to sort out his problems.
 
 ###### The Imperial Authorities
 
-Grice’s message reaches more than the University of Rhylanor;
+Grice's message reaches more than the University of Rhylanor;
 the Imperial Authorities also send their own experts. A fast courier
 jumps back to Keanou and signals the Scout base on Vora. A scout
 ship carrying four armed scouts arrive at Tarkwall from Vora and take
@@ -8230,11 +8230,11 @@ Tarkwall
 
 # EESCAPESCAPE
 
-I’m not going to die in here. I can’t take it any more, rotting in this
-godforsaken hole of a prison. I won’t give up – I’m getting out.
+I'm not going to die in here. I can't take it any more, rotting in this
+godforsaken hole of a prison. I won't give up – I'm getting out.
 
-Tarkwall’s most formidable security system is not the walls or
-the fences; it is the hundreds of kilometres of trackless desert
+Tarkwall's most formidable security system is not the walls or
+the fences; it is the hundreds of kilometers of trackless desert
 surrounding it. Characters trying to escape before their prison terms
 are up need to find a reliable method of crossing the desert.
 
@@ -8262,7 +8262,7 @@ Making The Escape: To use this exit from the prison, a character
 needs to find the natural cave system in Area M of the Danger Zone,
 then navigate through the caves to the exit. A light source of some
 sort is needed in the caves. The exit from the caves is in a small
-crevasse around one hundred metres east of the prison. The natural
+crevasse around one hundred meters east of the prison. The natural
 entrance is within view of the prison during the day; a Routine (+2)
 Stealth check is needed to avoid being seen when exiting, since
 guards seldom look in this direction. At night there should be no
@@ -8322,7 +8322,7 @@ Location: Anywhere on the surface
 
 Making The Escape: A total Effect of 5 (or 10, for the higher fence)
 on Athletics (strength) checks is needed to climb the fence around
-the prison. The fence around the Warden’s house and the armory
+the prison. The fence around the Warden's house and the armory
 is electrified.
 
 A character with a ladder or other climbing aid has a +2 DM to
@@ -8342,7 +8342,7 @@ virtually impossible except for the most trusted prisoners, and the
 doors into the storage area are kept locked, requiring the characters
 either steal a key or obtain a lockpick kit.
 
-Lift shaft #4 requires several days’ work to clear it of debris before
+Lift shaft #4 requires several days' work to clear it of debris before
 it can be climbed.
 
 ###### Digging a Tunnel
@@ -8354,9 +8354,9 @@ Location: Anywhere underground
 Making The Escape: Digging a tunnel in Tarkwall is a daunting
 process. While it is possible for a character to obtain a mining tool
 such as a pick with comparative ease, the prison is underground.
-The cellblock level is some eight metres below the surface.
+The cellblock level is some eight meters below the surface.
 
-A character using a mining pick can tunnel through one metre of
+A character using a mining pick can tunnel through one meter of
 rock in one month under normal circumstances (such as working at
 night, when the guards are not watching). Not having a mining pick
 or other suitable tool increases the time taken by a factor of four;
@@ -8365,7 +8365,7 @@ characters may be able to work on the same tunnel. A character who
 spends his nights digging a tunnel must make an Endurance check
 each day to avoid fatigue (-1DM to all actions until he rests).
 
-Each metre of rock tunnelled though results in a lot of rubble and
+Each meter of rock tunnelled though results in a lot of rubble and
 rock. If the tunnel is being dug in the mining area, characters can
 easily hide their debris in with the rest of the mine tailings. However,
 
@@ -8373,14 +8373,14 @@ a tunnel on the surface or in the cellblocks is a much bigger problem
 as the characters will need to smuggle the rock out.
 
 Security Problems: All the cells are monitored by the prison
-computer; CARL’s suspicious activity recognition program is
+computer; CARL's suspicious activity recognition program is
 infamously buggy, but it can always recognize someone swinging a
 mining pick. Characters will have to disable the camera to have any
 chance of digging a tunnel in a cell. It is easier to dig a tunnel in the
 Danger Zone or upper mining level, tunnels in the Danger Zone are
 likely to run into the natural caves.
 
-The guards have been known to ‘ignore’ tunnels in exchange for
+The guards have been known to 'ignore' tunnels in exchange for
 bribes. It takes months to dig a tunnel, so the guards can collect
 several weeks of bribes before reporting the tunnel to the warden
 and dragging the prisoners off to solitary.
@@ -8392,12 +8392,12 @@ From the surface to Circle City and beyond
 Location: The surface, usually the shuttle landing pad
 
 Making The Escape: There are several vehicles in Tarkwall – the
-ATVs, the ore shuttle, the prison shuttle, and the warden’s flyer. The
+ATVs, the ore shuttle, the prison shuttle, and the warden's flyer. The
 latter three all make semi-regular trips to Circle City. Descriptions of
 the vehicles and the difficulty in stealing them are on page 23.
 
 Security Problems: All vehicles in Tarkwall are watched by the
-guards, with the exception of the warden’s flyer. The ATVs have
+guards, with the exception of the warden's flyer. The ATVs have
 the lightest security and see the most traffic, and so are the easiest
 to steal.
 
@@ -8420,7 +8420,7 @@ Anywhere in the prison
 Location: The laundry
 
 Making The Escape: Characters working in the laundry can steal a
-guard’s uniform, but they also need a guard’s helmet and ideally a
+guard's uniform, but they also need a guard's helmet and ideally a
 passcard for a full disguise. It is possible to leave the prison via one
 of the gates while wearing a disguise, as guards sometimes step out
 to patrol the area outside the fence or correct a problem with the ore
@@ -8431,10 +8431,10 @@ conveyor. It is much harder to fool the pilot of the prisoner shuttle
 you are a guard for the whole four-hour flight to Circle City, but
 wearing a uniform is a good way to start a hijack attempt.
 
-Security Problems: If a character in a guard’s uniform is met by
+Security Problems: If a character in a guard's uniform is met by
 another guard, a successful Deception test may be enough to allay
 suspicion. However, it is unlikely a prisoner in disguise will be able
-to get into a sensitive area like the guard’s station without being
+to get into a sensitive area like the guard's station without being
 challenged.
 
 ###### Hostages
@@ -8455,7 +8455,7 @@ anything to keep his nephew safe.
 
 ###### Weekly Tarkwall Traffic
 
-Roll 2d6Roll 2d6 ATVsATVs Ore ShuttleOre Shuttle Prisoner ShuttlePrisoner Shuttle Warden’s FlyerWarden’s Flyer
+Roll 2d6Roll 2d6 ATVsATVs Ore ShuttleOre Shuttle Prisoner ShuttlePrisoner Shuttle Warden's FlyerWarden's Flyer
 2 None out - Landed Landed
 3 None out - One flight Landed
 4 None out - Landed -
@@ -8484,17 +8484,17 @@ Any escape attempts must be made known to the committee,
 so one attempt does not interfere with another. If a character is
 found to be attempting a major prison break without the approval
 of the committee, he faces censure from the rest of the prison
-community (where ‘censure’ generally implies ‘brutal beatings’).
+community (where 'censure' generally implies 'brutal beatings').
 With the secretive nature of the Escape Committee it is quite
 likely the character will find himself receiving beatings without
 knowing why, at first. If he asks why he is being targeted he may
 be informed of the existence of the committee.
 
 Two members of the gang – Dan Amgi and Felip Karageorge –
-are allies of Big Rolf. Any escape attempt threatening the gang’s
+are allies of Big Rolf. Any escape attempt threatening the gang's
 control is stamped on; they have even passed on information to the
 prison authorities on occasion to get other prisoners into trouble.
-The only ‘honest’ member of the committee is Alex Herrmon, and
+The only 'honest' member of the committee is Alex Herrmon, and
 he is deathly afraid of being sent to The Hole if an escape attempt
 he is involved in fails.
 
@@ -8513,7 +8513,7 @@ is:
 ### PRISON BREAK
 
 If a prisoner does escape, the reaction of the prison authorities
-varies depending on the nature of the escape and the prisoner’s
+varies depending on the nature of the escape and the prisoner's
 chances of survival.
 
 ###### 1. Noticing an Escape
@@ -8526,7 +8526,7 @@ prisoners be accounted for at the start and end of each work shift,
 and every cell be checked each night. The end-of-shift accounting
 rarely happens, and an inattentive guard might miss an empty bunk.
 Roll 2d6 at the start and end of each shift, and each night; on an 8+,
-the characters’ absence is noted and the alarm is raised.
+the characters' absence is noted and the alarm is raised.
 
 ###### 2. Secure the Prison
 
@@ -8534,14 +8534,14 @@ As soon as an escape is confirmed, all prisoners are immediately
 confined to cells and all activities are temporarily cancelled. All
 guards are put on full alert and issued with lethal weapons. Guards
 are placed on the ATV garage, the shuttle landing pad, all gates, the
-armory and the warden’s residence.
+armory and the warden's residence.
 
 ###### 3. Foot Pursuit
 
 If the escapee is believed to still be in the prison, then patrols of
 guards are sent to track them down, using motion scanners and
 skoggie hunting packs. Each guard patrol consists of four guards,
-all armed and in constant contact with the guards’ station. All
+all armed and in constant contact with the guards' station. All
 cameras in the prison are monitored. The guards sweep through
 the administrative and cellblock levels, then the surface and upper
 mining level. The lower mining level and the desert surrounding the
@@ -8550,7 +8550,7 @@ prison are the last zones to be searched.
 ###### 4. Vehicle Patrol
 
 The next step is to send out the ATVs in a search pattern around the
-prison. Each ATV carries eight guards and searches a ten-kilometre
+prison. Each ATV carries eight guards and searches a ten-kilometer
 area around the prison – the guards scan the desert with binoculars,
 but they have learned the most effective approach is to wait until
 nightfall and look for where the cave bat scavengers congregate.
@@ -8613,7 +8613,7 @@ DieDie ItemItem AreaArea Val.Val.
 02 Knife K 50
 03 Prison uniform L 50
 04 Pack of cigarettes 20
-05 One day’s extra rations K 5
+05 One day's extra rations K 5
 06 2d6 Credits 2d6
 11 Filter mask*ILC 50
 12 Outdoor clothing LC 50
@@ -8658,11 +8658,11 @@ DieDie ItemItem AreaArea Val.Val.
 75 Oxygen cylinder R 200
 76 Mining Drill*M 300
 81 Electronic Restraint* I 50
-82 Guard’s firearm*G 1,000
-83 Guard’s computer* GR 350
-84 Guard’s pass*GC 500
-85 Guard’s combat baton* G 800
-86 Guard’s helmet* G 500
+82 Guard's firearm*G 1,000
+83 Guard's computer* GR 350
+84 Guard's pass*GC 500
+85 Guard's combat baton* G 800
+86 Guard's helmet* G 500
 
 Equipment marked with an * is very difficult to steal.
 
@@ -8678,7 +8678,7 @@ K = kitchen
 V = vocational rehabilitation area
 D = danger zone
 M = main mining level,
-G = guards’ safe area or guard’s person.
+G = guards' safe area or guard's person.
 
 Equipment not assigned to an area may be stolen only from other
 prisoners. Value is in Credits.
@@ -8686,14 +8686,14 @@ prisoners. Value is in Credits.
 ### EQUIPMENT DESCRIPTIONS
 
 Blade: 7404 Pandit Espartero, 3136 Stiv the Blade, 3754 Gavi Polfirio,
-2365 Seljuk the Knife, 6866 Gerard Bezenech, 2673 ‘Killer’ Basimu
+2365 Seljuk the Knife, 6866 Gerard Bezenech, 2673 'Killer' Basimu
 and 7575 Avram Iijima all have blades, most of which are kept
 concealed in their cells or in the Danger Zone. Several of these
-characters are part of Benezech’s gang – the guards know this gang
+characters are part of Benezech's gang – the guards know this gang
 has easy access to blades, but Assistant Warden Voller permits the
 gang to retain their weapons.
 
-Blank pass: These passes are small plastic cards with the prisoner’s
+Blank pass: These passes are small plastic cards with the prisoner's
 name, ID number and travel privileges printed on them. The writing
 on the card can be erased or changed with a card reader – or with a
 magnetic stylus and a lot of patience. The pass also has a magnetic
@@ -8715,7 +8715,7 @@ especially suitable for use as a weapon, but can be used when
 digging a tunnel.
 
 Cold light lantern: This is a handheld fluorescent lamp with its
-own internal power source. The lamp can be attached to a miner’s
+own internal power source. The lamp can be attached to a miner's
 helmet or shoulder.
 
 Dagger: Most daggers in the prison are home-made weapons, made
@@ -8735,10 +8735,10 @@ cannot be easily removed are fitted with these electronic restraints
 which deactivate the implants. An electronic restraint can deactivate
 a neural comm, wafer jack, enhanced vision or a cybernetic limb.
 Correctly fitting a restraint requires a Medic or Engineering
-(electronics) check to tune the device’s jamming field to the implant.
+(electronics) check to tune the device's jamming field to the implant.
 Fitting a restraint takes several minutes.
 
-If a restraint is forcibly removed, it scrambles the wearer’s nervous
+If a restraint is forcibly removed, it scrambles the wearer's nervous
 system; the wearer must make a Very Difficult (-4) Endurance check
 or be knocked unconscious.
 
@@ -8761,20 +8761,20 @@ multiplied by the Effect of the Explosives check.
 
 Fake firearm: Usually a revolver, a fake firearm is a plastic, wooden
 or even carved-soap replica of a real weapon. It will only pass for
-an actual gun in dim light, or when pressed into someone’s back
+an actual gun in dim light, or when pressed into someone's back
 accompanied by a whispered threat.
 
 Filter mask: This is a conventional filter mask, produced in the
 billions on industrial worlds. A filter mask will protect against
-sandstorms and the toxic elements in Keanou’s atmosphere. It fits
-over the user’s mouth and nose, but does not include eye protection.
+sandstorms and the toxic elements in Keanou's atmosphere. It fits
+over the user's mouth and nose, but does not include eye protection.
 A filter mask does not protect against Sleep or Tear Gas.
 
 Gas mask: A gas mask protects against the tear gas and sleep gas
 used by the guards. Two sorts of gas masks are in common use in
 the prison. Staff members use conventional full-face gas masks. The
 guards use a special filter slotting into the helmets they wear as part
-of their uniform – using a guard’s filter without a guard’s helmet
+of their uniform – using a guard's filter without a guard's helmet
 requires making a mask to hold the filter.
 
 ##### EQUIPMENT EEQUIPMENTQUIPMENT
@@ -8785,7 +8785,7 @@ Cr 6,000) outside the prison.
 
 Geiger counter: Three types of radiation detector are in use in
 Tarkwall. The simplest are badge-sized dosimeters worn on the
-outside of a prisoner’s uniform, and turn darker and darker as they
+outside of a prisoner's uniform, and turn darker and darker as they
 are exposed to radiation. A fully black badge indicates a lethal dose.
 The guards carry more advanced Geiger counters that can locate
 high-radiation zones. Finally, the mining engineer and some other
@@ -8794,27 +8794,27 @@ to the central computer which are used to map the radiation zones
 in the mines. These counters have transmitters reporting their
 location to CARL at all times.
 
-Guard’s computer: This is a TL7 hand computer, connected by a
-data cable to the guard’s comm. Every guard’s computer has a list
+Guard's computer: This is a TL7 hand computer, connected by a
+data cable to the guard's comm. Every guard's computer has a list
 of prisoners and work assignments on it, as well as a map of the
 prison. Some guards have loaded extra data onto their computers,
 from novels and holodramas to Go games.
 
-Guard’s firearm: Three types of firearm are in common use in the
+Guard's firearm: Three types of firearm are in common use in the
 prison – shotguns, stunners and automatic pistols. More senior
 guards and staff carry the pistols, while staff untrained in weapons
 use stunners. Usually weapons are loaded with non-lethal rubber
 bullets.
 
-Guard’s helmet: Standard issue for guards is a helmet with a
+Guard's helmet: Standard issue for guards is a helmet with a
 reflective faceplate containing psionic shielding, light intensifier
 goggles and communications systems.
 
-Guard’s Pass: A guard’s passcard can open any door in the
+Guard's Pass: A guard's passcard can open any door in the
 subsurface levels of the prison, except the computer control room.
-Most doors on the surface can also be opened using a guard’s pass.
+Most doors on the surface can also be opened using a guard's pass.
 CARL is programmed to randomly request verbal authorization
-when a guard’s pass is used – roll 1d6 whenever the pass is used to
+when a guard's pass is used – roll 1d6 whenever the pass is used to
 open the door. On a 1, CARL contacts the guard by radio and asks
 him to confirm the use of his card. If no confirmation is issued, the
 card is locked out of the security system.
@@ -8830,17 +8830,17 @@ below, as the rocks give off a considerable amount of heat anyway.
 
 Light intensifier goggles: Light intensifier goggles pick up and
 enhance any available light. They are ideal for use in the mines below.
-The guard’s helmets incorporate light intensification technology.
+The guard's helmets incorporate light intensification technology.
 
-Guard’s combat baton: The prison guards use a multi-purpose
+Guard's combat baton: The prison guards use a multi-purpose
 combat baton. It can be used as a simple club, a stunstick, or an
 electric prod. A control in the hilt of the baton adjusts its current
 mode.
 
 WeaponWeapon SkillSkill PersonalPersonal CloseClose DamageDamage HeftHeft MassMass
-Guard’s Baton (club) Melee (bludgeon) +0 -1 2d6 1 1
-Guard’s Baton (stunstick) Melee (bludgeon) -1 +0 2d6 + 2d6 stun 1 1
-Guard’s Baton (prod) Melee (bludgeon) -1 +0 2d6 + 1d6 electricity 1 1
+Guard's Baton (club) Melee (bludgeon) +0 -1 2d6 1 1
+Guard's Baton (stunstick) Melee (bludgeon) -1 +0 2d6 + 2d6 stun 1 1
+Guard's Baton (prod) Melee (bludgeon) -1 +0 2d6 + 1d6 electricity 1 1
 
 ##### EEQUIPMENTQUIPMENT EQUIPMENT
 
@@ -8917,7 +8917,7 @@ shaft when it is merely very difficult.
 Narcotic drug: Several types of narcotic are in use in the prison. Roll
 1d6 if a random drug is needed.
 
-One day’s extra rations: Stealing extra food is relatively easy in the
+One day's extra rations: Stealing extra food is relatively easy in the
 prison. Roll on the preserved food supplies table for the food of the
 day.
 
@@ -8928,7 +8928,7 @@ is suitable for use in the desert.
 
 Oxygen cylinder: Oxygen cylinders are used in the repair shop and
 vocational rehabilitation area, as well as in the mines when radon
-gas concentrations are high. More importantly from a prisoner’s
+gas concentrations are high. More importantly from a prisoner's
 perspective, the oxygen cylinders can keep an escapee alive and
 conscious when stowing away on board the shuttle.
 
@@ -8958,12 +8958,12 @@ addictive.
 6 Bezzine Off-world hallucinogen; rumored to stimulate psychic powers. 600
 
 Preserved Food Supplies: Canned food can be found in the prison
-kitchen, and keeps for an indefinite period. Roll 1d6 for the ‘flavour’.
+kitchen, and keeps for an indefinite period. Roll 1d6 for the 'flavor'.
 Each unit of preserved food supplies is enough food for one person
 for one week.
 
-RollRoll FlavourFlavour
-1 I can’t believe it’s not pork
+RollRoll FlavorFlavor
+1 I can't believe it's not pork
 2 Soy
 3 Another sort of soy
 4 Tasteless mush – in a can!
@@ -9014,7 +9014,7 @@ Sleep gas grenade: A sleep gas grenade contains a chemical which
 vaporises on contact with air to create a billowing cloud of gas.
 Anyone inhaling this gas must make an Endurance check or fall
 unconscious. The gas cloud lasts for 1d6+3 rounds; it has an
-initial radius of 1.5 metres and expands in radius by one metre
+initial radius of 1.5 meters and expands in radius by one meter
 per round.
 
 Tarpaulin: A sheet of cloth or plastic. Wrapped around a character, it
@@ -9025,12 +9025,12 @@ painful gas. A character in the gas cloud suffers a cumulative -1 DM
 per round to a maximum DM of -4. A character with a gas mask and
 goggles is immune to the effects of tear gas; a character with only
 one or the other has a maximum DM of -2. The gas cloud lasts for
-1d6+3 rounds; it has an initial radius of 1.5 metres and expands in
-radius by one metre per round.
+1d6+3 rounds; it has an initial radius of 1.5 meters and expands in
+radius by one meter per round.
 
 Vitamin supplement: Vitamin supplements including an iodine
 booster provide extra protection against radiation exposure. Taking
-vitamin supplements increases a character’s chance to resist
+vitamin supplements increases a character's chance to resist
 silicosis and exhaustion.
 
 Water container: A water container such as a canteen or bottle has
@@ -9058,7 +9058,7 @@ small quantities at a time.
 A prisoner may attempt to steal an item from another prisoner,
 as long as he knows its location. Failure will usually cause a fight
 between the thief and the owner, possibly with the assistance of
-several of the owner’s friends, if he has a high reputation.
+several of the owner's friends, if he has a high reputation.
 
 Guards may be bribed to allow theft of most items. During periods of
 increased security, bribes are more costly and normal theft attempts
@@ -9071,7 +9071,7 @@ event), but must be made.
 
 Dagger: Requires Mechanical or Metalworking tools.
 Fake Firearm: Requires Mechanical or Metalworking tools.
-Guard’s Pass: Requires Blank Pass & Electronic Tools
+Guard's Pass: Requires Blank Pass & Electronic Tools
 Lock Pick Set: Requires Mechanical & Electronic tools.
 Short Range Communicator: Requires Electronic tools & Power
 Pack
@@ -9098,11 +9098,11 @@ they find out).
 
 There are other sorts of equipment in the prison. Some are very
 hard to obtain (oxygen tanks, vacuum suits, mining lasers, power
-packs, guards’ weaponry) and may not be obtained without
-extraordinary effort on the prisoners’ part; others are trivial (plastic
+packs, guards' weaponry) and may not be obtained without
+extraordinary effort on the prisoners' part; others are trivial (plastic
 eating utensils, socks, writing paper) and may be obtained easily;
-still others are rare or unique (the warden’s personal possessions, a
-prisoner’s smuggled map of Keanou), and the referee must decide
+still others are rare or unique (the warden's personal possessions, a
+prisoner's smuggled map of Keanou), and the referee must decide
 their natures. The equipment table should not be seen as the total
 inventory of available items.
 
@@ -9116,7 +9116,7 @@ defective, and no replacements are available. Some guards are
 therefore forced to remove the faceplate and carry separate light-
 intensifier goggles and comms.
 
-Hanging from each guard’s belt is an electric torch, a gas mask
+Hanging from each guard's belt is an electric torch, a gas mask
 which fits under the faceplate, a geiger counter and a gas grenade.
 Many guards also carry basic tools or a portable computer. The
 guards are armed with a submachine gun or automatic pistol, and
@@ -9143,7 +9143,7 @@ mining activity.
 
 Keanou is governed by a council, made up of representatives from
 the city, the skoggie hunter outposts, and the spice farms. The
-council’s influence is limited to Circle City, as the hunters ignore
+council's influence is limited to Circle City, as the hunters ignore
 authority and the spice farms have the backing of offworld nobles.
 Following a series of shootouts between hunters, the council banned
 most weapons within city limits, but outside Circle City you could
@@ -9152,7 +9152,7 @@ carry a PGMP without being challenged.
 The Prison Board: The administrative board of Tarkwall Prison is
 a subcommittee of the council. The prison is one of the largest
 employers on Keanou, and as the prison serves as an unofficial
-imperial detention centre, it brings in much-needed credits from
+imperial detention center, it brings in much-needed credits from
 offworld. The council takes an active interest in the affairs of the
 prison, and the role of Warden carries with it considerable political
 muscle.
@@ -9167,7 +9167,7 @@ is by ATV or flyer.
 ###### Circle City
 
 Circle City is a small, very provincial town with a population of 6,000.
-Most of the planet’s population, aside from the prison, lives there. It
+Most of the planet's population, aside from the prison, lives there. It
 is governed by an elected city council, which is chaired by a mayor
 chosen from the majority coalition on the council. The council is
 responsible only for local affairs, system defence is the responsibility
@@ -9190,9 +9190,9 @@ planet is the Great Salt Eye, a huge salt flat surrounding the Surtsea,
 the only major body of surface water on the planet. The planet is
 surrounded by a thin ring of metallic dust, visible only at dusk and
 dawn, and orbited by seven small moonlets, none larger than a
-kilometre across.
+kilometer across.
 
-The planet’s atmosphere is dense, but dry and tainted. The taint is
+The planet's atmosphere is dense, but dry and tainted. The taint is
 a form of very fine dust particle causing lung damage over the long
 term. Some natives pride themselves on their permanent hacking
 coughs; visitors wear filter masks and avoid going outside except
@@ -9270,7 +9270,7 @@ of the encounters explained below.
 
 2. Parl Klive: Parl is a local soft-hearted do-gooder who will provide
 escapees with food, clothing, advice, and possibly a hiding place.
-However, he has very little money. Adventurers who know of Parl’s
+However, he has very little money. Adventurers who know of Parl's
 existence may locate him with a Streetwise roll, failing with an Effect
 of -3 or more means the character is reported to the police.
 3. Local Hunting Outfitter: This is someone who is offering Cr500
@@ -9279,7 +9279,7 @@ rifles, supplies, and a ground car.
 4. Thugs: 2D6 individuals appear, armed with daggers and wearing
 jack. These are members of the local criminal element, and will
 attempt to divest the adventurers of any saleable items should a
-neutral or unfavourable reaction be rolled. They will not attack if
+neutral or unfavorable reaction be rolled. They will not attack if
 the adventurers are more numerous or better armed. If a friendly
 reaction is rolled, they may help by aiding in the location of a forger
 or some contraband material.
@@ -9302,12 +9302,12 @@ or attempt to sell contraband.
 with several knives, one or two revolvers and perhaps a shotgun
 among them. Most natives do not like outsiders and react at - 2. In
 case of a brawl the police will turn up sooner or later, depending on
-the extent of the commotion, and as likely as not will take the locals’
+the extent of the commotion, and as likely as not will take the locals'
 side in any altercation.
 7. Police: Two police appear in a ground car, armed with auto pistols
 and wearing cloth; there is an auto rifle in the car. The adventurers
 may avoid this encounter if they have a good hiding place like Parl
-Klive’s or a sleazy hotel, unless they are wanted for some crime
+Klive's or a sleazy hotel, unless they are wanted for some crime
 committed in Circle City itself. Characters encountering the police
 must present some sort of identity papers or talk fast, to prevent
 themselves from being hauled in. Police usually will not spot forged
@@ -9361,17 +9361,17 @@ be done with great speed. Once every few years, rainstorms wash
 over the mountains east of the desert, causing dry rivers to burst
 into life. Soon, these rivers dry up again, and leave a residue of
 salt in their beds. This salt is found in a thin clump ten to twenty
-centimetres below the surface. Wait too long, and the organic
+centimeters below the surface. Wait too long, and the organic
 compounds giving the dust-spice its unique taste decay and the salt
 becomes worthless. Harvest too early, and the salt has not had time
 to leech the right combination of minerals and organic elements
 from the soil. Spice-harvesting must be performed in a window of
-only a few weeks, and hundreds of kilometres of river-bed must be
+only a few weeks, and hundreds of kilometers of river-bed must be
 searched in that time.
 
 ##### KKEANOUEANOU KEANOU
 
-A spice-labourer’s tools are a hand trowel, a scraper, and a spice
+A spice-labourer's tools are a hand trowel, a scraper, and a spice
 tray. On hands and knees in the cold he crawls along the dry river
 bed, turning over the semi-moist soil. Every sod must be overturned,
 lest a precious spice nodule be missed. When he finds a clump of
@@ -9411,7 +9411,7 @@ coming of the spice. A good weatherwatcher is worth his weight in
 spice – the sooner a spice estate can get labourers to the wadis after
 a rainstorm, the better. Some estates have networks of computer-
 controlled cameras which automatically send a message when the
-rains come. The caretaker’s house and outbuildings (ATV garage,
+rains come. The caretaker's house and outbuildings (ATV garage,
 solar power farm, jonkey stable) are the only parts of the spice farm
 in constant use.
 
@@ -9419,12 +9419,12 @@ The average farm has a large barrack-style sleeping quarters for
 the seasonal spice labourers, a filtering shed and a house for any
 overseers or other specialists. Some also have more extensive
 accommodation for the owner and his family and servants. As
-the average spice holding is hundreds of square kilometres in size
+the average spice holding is hundreds of square kilometers in size
 (desert land is cheap), a farm can be quite spread out, and prisoners
-may be able to live in luxury by breaking into an unoccupied noble’s
+may be able to live in luxury by breaking into an unoccupied noble's
 holiday villa.
 
-###### Baron Konnen’s Spice Farm
+###### Baron Konnen's Spice Farm
 
 The spice farm of Baron Vilad Konnen is an oddity by local
 standards. Most nobles who maintain spice farms only visit
@@ -9434,21 +9434,21 @@ bother. Baron Konnen, by contrast, rarely leaves Keanou – he
 has interests elsewhere, but prefers the cold air of the desert.
 His spice farm is the closest to Tarkwall Prison, but also the
 best protected and guarded. In addition to the usual trappings
-of a spice farm, Konnen’s farm has a luxurious manor including
+of a spice farm, Konnen's farm has a luxurious manor including
 extensive gardens, a staff of a dozen servants, and a trio of air/
 rafts the baron uses for desert skoggie hunting.
 
 The baron has been troubled by escapees from the prison in the
 past, so he has a security cordon around his manor; this cordon
-consists of a seismic sensor able to distinguish a human’s footsteps
-from those of an animal. Anyone walking on the edges of the baron’s
+consists of a seismic sensor able to distinguish a human's footsteps
+from those of an animal. Anyone walking on the edges of the baron's
 land will be challenged by a security patrol of two guards and the
-baron’s guard, Crull within ten minutes or so, arriving in one of the
+baron's guard, Crull within ten minutes or so, arriving in one of the
 air rafts.
 
 The baron occasionally takes pity on prisoners, invites them
 into his home, questions them – and then ships them back to
-Tarkwall as a favour for Warden Grice. At other times they are
+Tarkwall as a favor for Warden Grice. At other times they are
 simply locked up and guarded until the prison authorities arrive
 to take them back.
 
@@ -9483,7 +9483,7 @@ groups; they are fiercely independent and refuse any attempts to
 organise them into a political bloc or to constrain their movements.
 Clashes between skoggie hunters and spice farmers are infrequent,
 normally occurring when skoggie packs are chased over the delicate
-spice beds, with both the animals and the hunters’ vehicles causing
+spice beds, with both the animals and the hunters' vehicles causing
 much damage.
 
 ##### KEANOU KKEANOUEANOU
@@ -9526,10 +9526,10 @@ have failed, and the pests seem bound to continue to plague the
 prison indefinitely.
 
 Skitcher: The skitcher is a poisonous insect-analogue; an adult
-specimen is ten centimetres long and stick-thin. They skitter and
+specimen is ten centimeters long and stick-thin. They skitter and
 scamper across walls and through cracks like rats. The skitcher has
 a poisonous stinger which is extremely potent. A bite from such a
-creature reduces a character’s Dexterity by 1d6 for up to eight hours.
+creature reduces a character's Dexterity by 1d6 for up to eight hours.
 They are aggressive when cornered or when their communal nest is
 threatened.
 
@@ -9619,9 +9619,9 @@ Desert
 
 Stealth 2, Survival 1
 Armor 1. Number Encountered: 2d6.
-Nomegs are small scaly omnivores, ranging in size from a dozen centimetres in length to nearly fifty centimetres. They are
+Nomegs are small scaly omnivores, ranging in size from a dozen centimeters in length to nearly fifty centimeters. They are
 primarily herbivorous, and have many predators. Their flesh is so sour as to be almost inedible to humans. Nomegs are a
-nuisance to human agriculture on Keanou, the warden’s garden is infested with the pests.
+nuisance to human agriculture on Keanou, the warden's garden is infested with the pests.
 
 Desert SkoggieDesert Skoggie
 Chaser
@@ -9653,7 +9653,7 @@ Plains 666286
 
 Survival 2, Recon 1, Melee (brawling) 2.
 Thrasher (2d6). Number Encountered: 1d3
-Plains skoggies are best known for their valuable fur pelts, which are one of the cornerstones of what passes for Keanou’s
+Plains skoggies are best known for their valuable fur pelts, which are one of the cornerstones of what passes for Keanou's
 economy. They hunt desert nomegs and other small creatures, but are sometimes brave enough to attack humans.
 
 GreatkiteGreatkite
@@ -9662,7 +9662,7 @@ Pouncer
 Recon 1, Survival 1, Melee (claw) 2
 Claw (2d6), Armor 1. Number Encountered: 1
 Greatkites are flying predators, who swoop down from above to impale their targets. A single greatkite has a range of several
-dozen kilometres, as they must travel a great distance to find enough food.
+dozen kilometers, as they must travel a great distance to find enough food.
 
 ##### KEANOU KKEANOUEANOU
 
@@ -9706,7 +9706,7 @@ water may also be in order.
 
 ### TARKWALL REGION
 
-One hex=50 kilometres
+One hex=50 kilometers
 
 1. This is the site of the prison itself.
 
@@ -9727,10 +9727,10 @@ There will be guards patrolling with ATVs here if an escape has occurred.
 water, and a map of the planet may be found here. There may also
 be some small equipment left behind here by the geologists. The
 base will be located on 8+ by adventurers in this hex.
-4. Baron Konnen’s spice farm.
+4. Baron Konnen's spice farm.
 5. Spice farm
 6. Spice farm
-7. Sheriff Magros’ outpost.
+7. Sheriff Magros' outpost.
 
 ### KEANOU
 
@@ -9830,7 +9830,7 @@ A small rocky planetoid, orbiting very close to the sun and rotationally locked.
 significant mineral reserves.
 
 II – Rhives
-Another airless rockball, notable for its high albedo which makes it visible from Keanou’s surface at night. It has a single moon.
+Another airless rockball, notable for its high albedo which makes it visible from Keanou's surface at night. It has a single moon.
 
 III – Nao
 Nao is larger than Keanou, and has a thick toxic atmosphere. It is used by the scout service as a training ground for missions to hostile
@@ -9841,7 +9841,7 @@ The only habitable planet in the system. Keanou is orbited by seven small moons 
 Argo, Dancer, Jonkeera and Emerald; the other three are too small to be seen under normal conditions.
 
 V – Vora
-Vora is the system’s only gas giant, an unremarkable world slightly larger than Saturn. It has a complex set of satellites. A small scout
+Vora is the system's only gas giant, an unremarkable world slightly larger than Saturn. It has a complex set of satellites. A small scout
 base is located on the moon of Yar. The base is used for several purposes, such as refurbishing aging scoutships, training missions and
 experimentation, the Vora base reports directly to the larger base one parsec away at Inthe (0810 Regina).
 
@@ -9872,19 +9872,19 @@ You spent several years incarcerated in an Imperial or local detention facility.
 
 Leaving the Prisoner career: A character may not leave or be ejected from this
 career due to a mishap. Instead, he has a value called a Parole Threshold. At the
-end of each term in the prisoner career, if the character’s Advancement roll is
-greater than his Parole Threshold, it means the character’s prison sentence has
+end of each term in the prisoner career, if the character's Advancement roll is
+greater than his Parole Threshold, it means the character's prison sentence has
 come to an end and he may leave this career. Otherwise, he may not leave this
-career. Some events alter the character’s Parole Threshold.
+career. Some events alter the character's Parole Threshold.
 
-A character’s Parole Threshold starts at 4+1d6. A character’s Parole Threshold
-cannot go above 12. For every term served the character’s current Parole Threshold
+A character's Parole Threshold starts at 4+1d6. A character's Parole Threshold
+cannot go above 12. For every term served the character's current Parole Threshold
 and its maximum limit are decreased by 1.
 
 Anagathics: Characters may not use Anagathics in prison.
 
-Enlistment: Special. One does not ‘enlist’ in prison; you got sentenced there
-for a crime you may or may not have committed. At the Referee’s discretion, a
+Enlistment: Special. One does not 'enlist' in prison; you got sentenced there
+for a crime you may or may not have committed. At the Referee's discretion, a
 character who suffers a mishap in the Rogue or Drifter career may be sent to the
 Prisoner career.
 
@@ -9957,7 +9957,7 @@ are able to loot something useful; gain an extra Benefit roll this term.
 6. You are attacked by another prisoner. Roll Melee (unarmed) 8+. If you fail, roll on the Injury table.
 8 Parole hearing. Reduce your Parole Threshold by 1.
 9 You have the opportunity to hire a new lawyer. He costs Cr 1,000 x his Advocate skill squared. Roll 2d6+your
-lawyer’s Advocate skill; on an 8+, reduce your Parole Threshold by 1d6.
+lawyer's Advocate skill; on an 8+, reduce your Parole Threshold by 1d6.
 10 Special Duty. You are given a special responsibility in the prison. Gain one of Admin, Advocate, Computers
 or Steward.
 11 The warden takes an interest in your case. Reduce your Parole Threshold by 2.
@@ -9972,7 +9972,7 @@ Roll 1d6Roll 1d6 MishapMishap
 1 Serious Beating. This is the same as a result of two on the Injury table. Alternatively, roll twice on the Injury table
 (page 37 of the Traveller rulebook) and take the lower result.
 2 You are accused of assaulting a prison guard. Increase your Parole Threshold by +2.
-3 A prison gang persecutes you. You may choose to fight back if you wish, but if you don’t, you lose all Benefit
+3 A prison gang persecutes you. You may choose to fight back if you wish, but if you don't, you lose all Benefit
 rolls from your prison career. If you fight back, roll Melee (brawl) 8+. Fail, and you must roll twice on the Injury
 table and take the lower result. Succeed, and you gain an Enemy and raise your Parole Threshold by +1.
 4 A guard takes a dislike to you. Gain an Enemy and raise your Parole Threshold by +1.
@@ -9988,7 +9988,7 @@ RollRoll CashCash Other BenefitsOther Benefits
 4 200 credits Ally
 5 500 credits 2 Criminal Secrets
 6 1,000 credits +1 Str or +1 End
-7 None, but gain the ‘Treasure Trove’ criminal secret without needing to sacrifice a
+7 None, but gain the 'Treasure Trove' criminal secret without needing to sacrifice a
 contact.
 
 3 Criminal Secrets
@@ -10056,7 +10056,7 @@ Prisoner: Number: Cell Block: Cellmate:
 
 Current Prison Reputation:
 Apply 1/10th prison reputation as a DM to all social encounters.
-Winning a Brawl: +1, Winning a Knife fight: +2, Gaining a prisoner as a friend: + 1/10 prisoner’s reputation
+Winning a Brawl: +1, Winning a Knife fight: +2, Gaining a prisoner as a friend: + 1/10 prisoner's reputation
 
 Credits:
 Prisoners are paid each week;
@@ -10128,7 +10128,7 @@ Prison Break 110
 Prison Reputation 58
 Prison Vehicles 23
 Razeem Thonon 27
-Referee’s Notes 3
+Referee's Notes 3
 Registration 6
 Riot Control 78
 Rod Maged 28

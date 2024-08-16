@@ -453,7 +453,7 @@ Augments: These are biological and cybernetic implants that improve your Travell
 
 Weapons: Weapons can be gained during Traveller creation or purchased while adventuring. See page 124 for their characteristics.
 
-**People You Know:** During your career, you may meet many Allies, Contacts, Enemies and Rivals. Remember them, as they may appear in a later adventure.
+People You Know: During your career, you may meet many Allies, Contacts, Enemies and Rivals. Remember them, as they may appear in a later adventure.
 
 Previous History: A personal history of the Traveller to date including careers, awards and decorations.
 
@@ -2131,9 +2131,11 @@ The Aslan are the youngest of the great powers, an expansionist species of feudi
 
 Early Terran explorers regarded the Aslan as 'lion- like' and the simile has stuck ever since, although the Aslan bear only a passing resemblance to terrestrial lions. Nonetheless, this early misnomer has influenced a great deal of human thinking about the Aslan, including terminology (the use of pride to translate ahriy, for instance) and ascribed behaviour – which is not at all leonine.
 
-Characteristics Aslan Travellers have the following modifiers applied to their characteristics: STR+2, DEX-2.
+#### Characteristics 
+Aslan Travellers have the following modifiers applied to their characteristics: STR+2, DEX-2.
 
-Traits Aslan Travellers all possess the following traits:
+#### Traits
+Aslan Travellers all possess the following traits:
 
 Dewclaw: All Aslan have a dewclaw, which can be extended to make for a vicious close combat weapon. The dewclaw uses the Melee (natural) skill and does 1D+2 damage.
 
@@ -2147,9 +2149,11 @@ The Vargr are the only Major Race to have been uplifted by the Ancients, a fact 
 
 The Vargr are descended from carnivore/chaser stock; genetically engineered by the Ancients circa -300,000 from the genus Canis. The carnivores were transplanted from Terra to Lair/Grnouf in the Provence sector. The Vargr bear a close resemblance to their canine ancestry, as can be seen by their muzzle, tail and fur, although several anatomical modifications were made by the Ancients to the canine body structure. Vargr adopt a digitigrade stance (putting their weight on their toes rather than the soles of their feet) and many have a slight stoop.
 
-Characteristics Vargr Travellers have the following modifiers applied to their characteristics: STR-1, DEX+1, END-1.
+#### Characteristics
+Vargr Travellers have the following modifiers applied to their characteristics: STR-1, DEX+1, END-1.
 
-Traits Vargr Travellers all possess the following traits:
+#### Traits
+Vargr Travellers all possess the following traits:
 
 Bite: All Vargr possess pronounced canines, which make for a nasty close combat weapon. This bite uses the Melee (natural) skill and does 1D+1 damage.
 
@@ -3854,7 +3858,8 @@ A bug can be active or passive. An active bug transmits data (either constantly,
 
 **Commdot:** A commdot is a tiny microphone/ speaker and transmitter, ranging in size between a few centimeters and a few millimeters across. A commdot is capable of interfacing with another communications device and relaying messages back and forth. Commdots have a range of only a few meters and are usually used as hands-free communicators but can also be used as improvised bugs or throat microphones.
 
-**ITEM TL MASS COST**
+### ITEM TL MASS COST
+
 
 Commdot (^10) — Cr10
 **Mobile Comm:** A mobile comm unit is a portable telecommunications device/computer/camera, ranging in size from a bulky handset to a slim watch or pen-like cylinder – in today's world we call them mobile phones or cell phones. Larger comms have physical controls and screens while smaller units either project data and control displays onto nearby surfaces, have fold-out plastic screens, or connect to cybernetics. Comms have only short-range transmission and reception capabilities but most technologically advanced worlds will have planetwide comm networks allowing the user to send messages and access data anywhere.
@@ -4150,13 +4155,10 @@ Planetology Science Toolkit: This is a set of instruments intended to analyse th
 
 Psionicology Science Toolkit: Since the psionicology toolkit is focused on the understanding of psionic talent using the Science (psionicology) skill, it is generally considered contraband on worlds that prohibit the use of psionics. On those worlds, toolkits might be in the hands of government operatives but outside the confines of law enforcement or government-sanctioned research mere possession could be a crime. The toolkit includes testing equipment to determine the latent PSI potential of an individual, including tests for PSI strength and understanding talents, which can be trained. The toolkit provides feedback analytics for both psionic training and diagnosis of psionic-related mental conditions or psionic blocks and includes a dose of inhibitor drug to temporarily limit psionic ability.
 
-Robotics Science Toolkit: For use with the Science
-(robotics) skill, this toolkit includes the tools to diagnose, repair and construct robotic components. It is not intended to allow for the construction of a robot but may aid in repair and enhancement. It includes debugging software for robotic brains, electronics tools to repair or create connections between robotic components and delicate mechanical tools to repair or assemble a robot. This toolkit also provides DM+1 to robotic related tasks performed using Electronics
+Robotics Science Toolkit: For use with the Science (robotics) skill, this toolkit includes the tools to diagnose, repair and construct robotic components. It is not intended to allow for the construction of a robot but may aid in repair and enhancement. It includes debugging software for robotic brains, electronics tools to repair or create connections between robotic components and delicate mechanical tools to repair or assemble a robot. This toolkit also provides DM+1 to robotic related tasks performed using Electronics
 (computers) or Profession (robotics).
 
-Space Sciences Toolkit: The space sciences toolkit contains sensors and analytic tools valuable to performance of the Science skill specialities of astronomy and cosmology. It does not contain telescopes or other large sensors but does have equipment such as spectroscopic analysers and
-
-interferometer calibrators, which aid in the use of those instruments and correlation of results. The toolkit's analytic engine allows an expert to predict conditions and locate planets around distant stars and allows for modelling of the risks of stellar activities such as flares and other magnetic disturbances, plus it can help identify the source of faint emissions across the electromagnetic spectrum. Within a solar system, the toolkit is focused on the properties of the system's stellar objects and general organization and development of smaller system bodies. When used in conjunction with tasks related to the study of planetary and smaller system bodies using the Science
+Space Sciences Toolkit: The space sciences toolkit contains sensors and analytic tools valuable to performance of the Science skill specialities of astronomy and cosmology. It does not contain telescopes or other large sensors but does have equipment such as spectroscopic analysers and interferometer calibrators, which aid in the use of those instruments and correlation of results. The toolkit's analytic engine allows an expert to predict conditions and locate planets around distant stars and allows for modelling of the risks of stellar activities such as flares and other magnetic disturbances, plus it can help identify the source of faint emissions across the electromagnetic spectrum. Within a solar system, the toolkit is focused on the properties of the system's stellar objects and general organization and development of smaller system bodies. When used in conjunction with tasks related to the study of planetary and smaller system bodies using the Science
 (planetology) skill this toolkit provides DM+1.
 
 **Physical Sciences Toolkit:** This toolkit provides instruments and analytic tools for the performance of the Science skill specialities of chemistry and physics. These tools including sampling equipment, chemical analysis tools, sensors to detect electromagnetic or gravitic radiation and ultrasensitive measurement equipment. The toolkit can help a specialist analyse unknown minerals, physical phenomena and the basic composition and properties of everything from atoms to stars. The toolkit can also aid the Science specialities of astronomy and planetology by providing DM+1 in tasks which directly involve the measurement of physical and chemical properties.
@@ -4177,7 +4179,12 @@ Melee weapons are a symbol of status among the nobility of many worlds but they 
 
 These weapons require the Melee skill, using the blade speciality if they have a sharp edge, bludgeon if they do not and unarmed if you are left with nothing but your fists; though fists are a poor substitute against a better prepared enemy.
 
-WEAPON TL RANGEDAMAGE KG COST MAGAZINE MAGAZINE COST TRAITS Blade 2 Melee 2D 1 Cr100 — — — Broadsword 2 Melee 4D 2 Cr500 — — Bulky Club 1 Melee 2D 2 — — — — Cutlass 2 Melee 3D 0.5 Cr200 — — — Dagger 1 Melee 1D+2 0.5 Cr10 — — — Improvised — Melee 2D-2 Varies — — — — Rapier 3 Melee 2D 0.5 Cr200 — — — Shield 1 Melee 1D 2 Cr150 — — — Staff 1 Melee 2D 2 — — — — Stunstick 8 Melee 2D 0.5 Cr300 — — Stun Unarmed — Melee 1D — — — — —
+WEAPON TL RANGEDAMAGE KG COST MAGAZINE MAGAZINE COST TRAITS
+Blade 2 Melee 2D 1 Cr100 — — — 
+Broadsword 2 Melee 4D 2 Cr500 — — Bulky
+Club 1 Melee 2D 2 — — — —
+Cutlass 2 Melee 3D 0.5 Cr200 — — —
+Dagger 1 Melee 1D+2 0.5 Cr10 — — — Improvised — Melee 2D-2 Varies — — — — Rapier 3 Melee 2D 0.5 Cr200 — — — Shield 1 Melee 1D 2 Cr150 — — — Staff 1 Melee 2D 2 — — — — Stunstick 8 Melee 2D 0.5 Cr300 — — Stun Unarmed — Melee 1D — — — — —
 
 Shield
 
@@ -4293,7 +4300,8 @@ All energy weapons come with a power pack that can be recharged using a ship's p
 
 These weapons require the Gun Combat (energy) skill.
 
-**WEAPON TL RANGE DAMAGE KG COST MAGAZINE**
+### WEAPON TL RANGE DAMAGE KG COST MAGAZINE
+
 
 **POWER PACK COST TRAITS PISTOLS** Laser Pistol 9 20m 3D 2 Cr2000 100 Cr1000 Zero-G Laser Pistol 11 30m 3D+3 1 Cr3000 100 Cr1200 Zero-G Stunner 8 5m 2D 0.5 Cr500 100 Cr200 Stun, Zero-G Stunner 10 5m 2D+3 — Cr750 100 Cr200 Stun, Zero-G Stunner 12 10m 3D — Cr1000 100 Cr200 Stun, Zero-G
 **RIFLES** Laser Carbine 9 150m 4D 4 Cr2500 50 Cr1000 Zero-G Laser Carbine 11 200m 4D+3 2 Cr4000 50 Cr3000 Zero-G Laser Rifle 9 200m 5D 5 Cr3500 100 Cr1500 Zero-G Laser Rifle 11 400m 5D+3 3 Cr8000 100 Cr3500 Zero-G Laser Sniper Rifle
@@ -4406,9 +4414,10 @@ Doubling the amount of explosives used will increase the Damages by 1D and the B
 
 ### Explosives
 
-WEAPON TL RANGEDAMAGE KG COST MAGAZINE MAGAZINE COST TRAITS Plastic 6 — 3D — Cr200 — — Blast 9 Pocket Nuke
-
-12 — 6DD 4 Cr250000 — — Blast 1000, Radiation TDX 12 — 4D — Cr1000 — — Blast 15
+WEAPON TL RANGEDAMAGE KG COST MAGAZINE MAGAZINE COST TRAITS 
+Plastic 6 — 3D — Cr200 — — Blast 9 
+Pocket Nuke 12 — 6DD 4 Cr250000 — — Blast 1000, Radiation 
+TDX 12 — 4D — Cr1000 — — Blast 15
 
 Plastic: This generic, multi-purpose plastic explosive is a favorite of military units, terrorists, demolition teams and Travellers across Charted Space.
 
@@ -4426,13 +4435,13 @@ Weapons can be customised to a massive degree. Listed here are just some of the 
 
 ### Weapon Options
 
-**Auxiliary Grenade Launcher (TL7):** An underslung grenade launcher can be added to any rifle weapon at the cost of Cr1000. This grenade launcher has a magazine of one grenade and takes three minor actions to reload. Otherwise, it is identical to the grenade launcher on page 133.
+Auxiliary Grenade Launcher (TL7): An underslung grenade launcher can be added to any rifle weapon at the cost of Cr1000. This grenade launcher has a magazine of one grenade and takes three minor actions to reload. Otherwise, it is identical to the grenade launcher on page 133.
 
-**Gyrostabilizer (TL9):** Stabilizers can be added to any Bulky weapon, reducing its recoil and removing the Bulky trait at a cost of Cr500. They cannot be added to any Destructive weapon.
+Gyrostabilizer (TL9): Stabilizers can be added to any Bulky weapon, reducing its recoil and removing the Bulky trait at a cost of Cr500. They cannot be added to any Destructive weapon.
 
-**Intelligent Weapon (TL11):** This adds Computer/0 to any weapon. Costs Cr1000. TL13: This adds Computer/1 to any weapon. Costs Cr5000.
+Intelligent Weapon (TL11): This adds Computer/0 to any weapon. Costs Cr1000. TL13: This adds Computer/1 to any weapon. Costs Cr5000.
 
-**Laser Sight (TL8):** Integrated optics and laser sights grant DM+1 to any attack made at less than 50 meters. Costs Cr200. TL10: Ultraviolet lasers and improved display technology removes the tell-tale 'red dot' of a vislight laser.
+Laser Sight (TL8): Integrated optics and laser sights grant DM+1 to any attack made at less than 50 meters. Costs Cr200. TL10: Ultraviolet lasers and improved display technology removes the tell-tale 'red dot' of a vislight laser.
 
 Scope (TL5): A high-quality telescopic scope for attachment to a rifle or heavy weapon, allowing accurate shots to be made at extreme ranges. Any rifle or heavy weapon equipped with this gains the Scope trait. Costs Cr50. TL7: Adds image enhancement and light intensification, allowing the scope to be used in low- light environments without penalty.
 
@@ -4501,25 +4510,25 @@ TL: The lowest Tech Level the vehicle is available at.
 
 Skill: Which skill is used to drive or pilot the vehicle.
 
-**Agility:** How easy the vehicle is to drive or pilot. This is applied as a DM to all checks made to control the vehicle.
+Agility: How easy the vehicle is to drive or pilot. This is applied as a DM to all checks made to control the vehicle.
 
 Speed: The maximum Speed Band the vehicle is capable of travelling.
 
 Range: The maximum distance the vehicle can travel without refuelling.
 
-**Armor:** Similar to the armor worn by Travellers, this is how well the vehicle can resist damage.
+Armor: Similar to the armor worn by Travellers, this is how well the vehicle can resist damage.
 
 Equipment & Traits: Any included equipment or special rules that are applied to the vehicle.
 
-**Crew:** How many crew members the vehicle requires.
+Crew: How many crew members the vehicle requires.
 
-**Passengers:** How many additional passengers can be carried.
+Passengers: How many additional passengers can be carried.
 
 Cargo: How much cargo the vehicle can carry, in tons.
 
 Shipping: How much space the vehicle will require for transport on a spacecraft.
 
-**Hull:** A measure of how much damage the vehicle can sustain before it is destroyed or rendered inoperable.
+Hull: A measure of how much damage the vehicle can sustain before it is destroyed or rendered inoperable.
 
 Cost: How much it costs to purchase the vehicle.
 
@@ -4559,17 +4568,15 @@ In this way, the winner of a dogfight can ensure all their forward facing weapon
 
 If one of the vehicles' drivers chooses to initiate a dogfight again in the following combat round, the winner of the previous dogfight applies the difference between that round's opposed check as a positive DM to this round's opposed check.
 
-Evasive Action: The driver may declare they are taking evasive action when their turn arrives. They make a skill check (the skill being determined by the type of vehicle and do not forget to apply the vehicle's Agility!) and the Effect acts as a negative DM to all attacks against the vehicle or its passengers. The Effect also acts as a negative DM to any attacks made
+Evasive Action: The driver may declare they are taking evasive action when their turn arrives. They make a skill check (the skill being determined by the type of vehicle and do not forget to apply the vehicle's Agility!) and the Effect acts as a negative DM to all attacks against the vehicle or its passengers. The Effect also acts as a negative DM to any attacks made from the vehicle too, as the sudden movement will make aimed attacks difficult. This lasts until the driver's next action.
 
-from the vehicle too, as the sudden movement will make aimed attacks difficult. This lasts until the driver's next action.
-
-**Maneuver:** A driver can maneuver their vehicle without making any skill checks. This allows the vehicle to avoid large or obvious obstacles, get to where it is going, move out of one fire arc of an enemy vehicle and into a different one, or change the fire arc a single target is in. More extreme maneuvers are covered by the Stunt action.
+Maneuver: A driver can maneuver their vehicle without making any skill checks. This allows the vehicle to avoid large or obvious obstacles, get to where it is going, move out of one fire arc of an enemy vehicle and into a different one, or change the fire arc a single target is in. More extreme maneuvers are covered by the Stunt action.
 
 Ram: Deliberately driving a vehicle into someone or something requires a significant action and a successful skill check (skill determined by vehicle). Ram attacks are affected by dodging and evasive action as normal. The referee may grant bonuses to a ram attempt or declare it automatically successful if the target is particularly large or stationary.
 
 Stunt: With a successful skill check the driver or pilot can do pretty much anything it is possible to do in their vehicle – stand a car up on two wheels, perform stunning aerobatics in a jet fighter or skim a speedboat over a low sandbar. A stunt can be used to put a single target into one additional fire arc for one round (putting an enemy vehicle into both front and rear arcs by spinning a car, for example), to set up some other skill check (often allowing passengers to line up weapons) using the rules for task chains on page 63, to achieve something that would normally be very difficult or impossible in the vehicle (driving down an alley too narrow for the car by flipping it onto two wheels), to achieve up to three maneuver actions in one go, just to show off, or anything else you can imagine. The referee is free to set the difficulty of the skill check to reflect the attempted action.
 
-**Weave:** In an environment with many obstacles, such as an inner city or tight underground caverns, a driver or pilot may choose to weave their vehicle in and around obstacles at high speed in order to evade pursuit. The driver chooses a weaving score, between one and their current Speed Band Number and must then make a skill check (skill determined by vehicle) with the weaving score as a negative DM on this check. If they fail, they have driven/flown into an obstacle and crashed. If they succeed, any pursuers must also choose a weave action in their turn and make the skill check at the same penalty with the same consequence for failure. Alternatively, they can choose to break off pursuit and either give up or try to reacquire the target later.
+Weave: In an environment with many obstacles, such as an inner city or tight underground caverns, a driver or pilot may choose to weave their vehicle in and around obstacles at high speed in order to evade pursuit. The driver chooses a weaving score, between one and their current Speed Band Number and must then make a skill check (skill determined by vehicle) with the weaving score as a negative DM on this check. If they fail, they have driven/flown into an obstacle and crashed. If they succeed, any pursuers must also choose a weave action in their turn and make the skill check at the same penalty with the same consequence for failure. Alternatively, they can choose to break off pursuit and either give up or try to reacquire the target later.
 
 ### Vehicle Weapons
 
@@ -4734,7 +4741,7 @@ A common sight around starports and loading bays, the cargo lifter stands around
 
 Equipment and WEAPONS Communications System (improved)
 
-**ARMOR**
+ARMOR
 
 FRONT 8 REAR 8 SIDES 8
 
@@ -4781,7 +4788,7 @@ Equipment and WEAPONS Open vehicle, Autopilot (basic), Communications System (im
 
 Fixed Mount (laser cannon, front)
 
-**ARMOR**
+ARMOR
 
 FRONT 12 REAR 12 SIDES 12
 
@@ -4926,7 +4933,7 @@ Jump Drive: In order to use the jump drive, the ship requires an amount of Power
 
 Weapons: The Weapons and Power table summarises the requirements for various spacecraft armaments included in this book.
 
-**Weapons and Power**
+Weapons and Power**
 
 System Power Required Beam Laser 4 Missile Rack 0 Particle Beam 8 Pulse Laser 4 Sandcaster 0 Turret 1
 
@@ -5216,12 +5223,14 @@ External structure
 
 The computers installed on board ships to run their systems are a great deal more powerful than those commonly used planetside.
 
-**SPECIALISED COMPUTERS**
+### SPECIALISED COMPUTERS
+
 Some ships, such as the Type-S scout, have very specialized computers that allow them to run jump software beyond their normal Processing score. These are noted as /bis computers (such as the computer/5bis installed within the Type-S) and can run Jump Control software as if their Rating was +5 higher.
 
 A Model 1/bis computer (normal Processing 5 but Processing 10 for Jump Control software) can therefore run Jump Control/2 (requiring Processing 10).
 
-**SHIP SOFTWARE**
+### SHIP SOFTWARE
+
 Ship software operates in exactly the same way as normal computer software but typically has a much higher bandwidth. Ship computers are fully capable of running normal software as well.
 
 Spacecraft SECURITY
@@ -5267,9 +5276,11 @@ Any non-mechanical lock can be opened or closed remotely if the crew wishes to a
 
 If a ship finds itself the target of hijacking or boarding, there are several security systems common to all vessels that can be employed by the crew.
 
-Alarms: If an alarm is tripped (hull breach, fire, door being forced open, alarm button pressed), it will alert the crew. The location of the alarm will be shown on computer displays. A passenger ship may have several crew trained in combat; military ships will carry dedicated marines. Some vessels may even have security robots who respond automatically to alarms.
+#### Alarms
+If an alarm is tripped (hull breach, fire, door being forced open, alarm button pressed), it will alert the crew. The location of the alarm will be shown on computer displays. A passenger ship may have several crew trained in combat; military ships will carry dedicated marines. Some vessels may even have security robots who respond automatically to alarms.
 
-Gravity: It is possible to alter the artificial gravity on board. Reducing gravity to zero will limit actions to the level of an attacker's Athletics (dexterity) skill (see Zero Gravity on page 81). Gravity can also safely be increased up to 3G with an Electronics (computers) check, which will count as high gravity (see page 80).
+#### Gravity
+It is possible to alter the artificial gravity on board. Reducing gravity to zero will limit actions to the level of an attacker's Athletics (dexterity) skill (see Zero Gravity on page 81). Gravity can also safely be increased up to 3G with an Electronics (computers) check, which will count as high gravity (see page 80).
 
 Tranq Gas: Some ships carry tranq gas canisters in the air vents, which can be released automatically. These flood a compartment with gas that forces END checks, with a cumulative DM-1 every round. Any Traveller who fails the END check is knocked unconscious for 2D minutes.
 
@@ -5328,11 +5339,14 @@ Once the Actions Step is complete, the combat round ends and if there are still 
 
 Every Traveller on board a ship who intends to take part in a battle must be assigned to one of the following duties. There can only be one pilot and one captain but other duties may have multiple Travellers performing them and Travellers can move between different duties during the battle.
 
-Pilot: Flies the ship, responsible for changing course and making evasive maneuvers.
+#### Pilot
+Flies the ship, responsible for changing course and making evasive maneuvers.
 
-Captain: Commands the ship and can use Leadership and Tactics skills.
+#### Captain
+Commands the ship and can use Leadership and Tactics skills.
 
-Engineer: Engineers can be assigned to the power plant and maneuver and jump drives, or handle general damage control.
+#### Engineer
+Engineers can be assigned to the power plant and maneuver and jump drives, or handle general damage control.
 
 Sensor Operator: This position engages in electronic warfare and keeps track of enemy spacecraft.
 
@@ -5340,7 +5354,8 @@ Turret Gunner: Each turret has its own gunner. A Traveller must choose which tur
 
 Bay Gunner: Each bay weapon has its own gunner. Marine: Prepares to repel boarders or to board enemy ships.
 
-Passenger: Passengers are all Travellers who are not assigned a duty and are assumed to be waiting in their staterooms.
+#### Passenger
+Passengers are all Travellers who are not assigned a duty and are assumed to be waiting in their staterooms.
 
 A list of possible actions related to each duty can be found on page 171.
 
@@ -5403,13 +5418,16 @@ Any remaining Thrust that has not been allocated for movement may be used for co
 
 One point of Thrust allows a ship to do one of the following, and several of these maneuvers may be attempted if enough Thrust is available. However, each maneuver may only be attempted once with the exception of Evasive Action.
 
-Aid Gunners: A pilot may attempt to aid thair gunners by providing a more stable firing platform along the optimum attack vector. The pilot makes a Pilot check to start a task chain with their gunners, as described on page 63.
+#### Aid Gunners
+A pilot may attempt to aid thair gunners by providing a more stable firing platform along the optimum attack vector. The pilot makes a Pilot check to start a task chain with their gunners, as described on page 63.
 
 Ship Movement Range Band Distance Thrust Required Example Adjacent 1km or less 1 Docked ships Close 1–10km 1 Nearby or dogfighting vessels Short 11–1,250km 2 Ships in same orbital path Medium 1,251–10,000km 5 Surface to orbit Long 10,001–25,000km 10 Near to a planet Very Long 25,001–50,000km 25 Within jump limit Distant More than 50,000km 50 Distant ships
 
-Docking: The pilot must make a successful Pilot check. If the other ship does not wish to be docked, then both ships must make opposed Pilot checks, with the ship trying to dock suffering DM-2. When a docking is successful, boarding actions can take place.
+#### Docking
+The pilot must make a successful Pilot check. If the other ship does not wish to be docked, then both ships must make opposed Pilot checks, with the ship trying to dock suffering DM-2. When a docking is successful, boarding actions can take place.
 
-Evasive Action: Any remaining Thrust can be used as a reaction to dodge incoming fire. This is covered on page 171.
+#### Evasive Action
+Any remaining Thrust can be used as a reaction to dodge incoming fire. This is covered on page 171.
 
 ## ATTACK STEP
 
@@ -5484,17 +5502,22 @@ These are among the more common weapons fitted to spacecraft, whether as defensi
 
 All these weapons are Spacecraft scale and require the Gunner skill. Note that, for Spacecraft scale weapons, maximum ranges are listed in Range Bands and they cannot attack targets that lie beyond their listed Range Band.
 
-Beam Laser: A laser-based weapon that fires a continuous beam, allowing targets to be tracked and hit more easily. However, this does require more power to function and so is shorter ranged and does less damage than a pulse laser.
+#### Beam Laser
+A laser-based weapon that fires a continuous beam, allowing targets to be tracked and hit more easily. However, this does require more power to function and so is shorter ranged and does less damage than a pulse laser.
 
-Missile Rack: Although missile racks require ammunition and the warheads take time to reach distant targets, they can be very powerful weapons and, when a range of warheads is available, extremely versatile too. Missiles use slightly different rules to other spacecraft weapons, which are covered on page 172. Each turret with one or more missile racks holds 12 missiles and costs Cr250000 to refill all 12. It takes one round to reload a missile rack (see page 172).
+#### Missile Rack
+Although missile racks require ammunition and the warheads take time to reach distant targets, they can be very powerful weapons and, when a range of warheads is available, extremely versatile too. Missiles use slightly different rules to other spacecraft weapons, which are covered on page 172. Each turret with one or more missile racks holds 12 missiles and costs Cr250000 to refill all 12. It takes one round to reload a missile rack (see page 172).
 
 Highly illegal in most areas of space, adding nuclear warheads to missiles makes them devastatingly powerful, even with reduced blast effects in space. Each turret with one or more missile racks can hold 12 nuclear missiles and costs Cr450000 to refill all 12 if legally purchased.
 
-Particle Barbette: Taking advantage of the increased power efficiencies and space available to a barbette, this is a much larger weapon than those mounted in turrets.
+#### Particle Barbette
+Taking advantage of the increased power efficiencies and space available to a barbette, this is a much larger weapon than those mounted in turrets.
 
-Pulse Laser: Utilising capacitors to discharge its energy in a powerful blasts, the pulse laser is less accurate than its beam-based counterpart but is longer ranged and does more damage.
+#### Pulse Laser
+Utilising capacitors to discharge its energy in a powerful blasts, the pulse laser is less accurate than its beam-based counterpart but is longer ranged and does more damage.
 
-Sandcaster: Although mounted in turrets and of use against boarders, the sandcaster is primarily a defensive weapon used to protect ships from laser weapons. Each turret with one or more sandcasters holds 20 sand canisters and costs Cr25000 to refill. It takes one round to reload a sandcaster (see page 171).
+#### Sandcaster
+Although mounted in turrets and of use against boarders, the sandcaster is primarily a defensive weapon used to protect ships from laser weapons. Each turret with one or more sandcasters holds 20 sand canisters and costs Cr25000 to refill. It takes one round to reload a sandcaster (see page 171).
 
 ## MOUNTING WEAPONS
 
@@ -5534,7 +5557,8 @@ The Severity of the critical hit is equal to the Effect of the attack roll minus
 
 If a spacecraft has already sustained a critical hit to a location that receives another, use the Severity of the new critical hit or the original plus one, whichever is higher and immediately apply any new effects. Once a location has reached Severity 6, it cannot suffer any more critical hits. Instead, the spacecraft will receive 6D extra damage every time the location suffers another critical hit.
 
-**SUSTAINED DAMAGE**
+### SUSTAINED DAMAGE
+
 A spacecraft will also have its components degraded through sustaining constant damage. Every time a spacecraft sustains damage equalling 10% of its starting Hull score, roll 2D and then consult the Critical Hits Location table. The spacecraft will suffer a Severity 1 critical hit to that location
 
 ## CALLED SHOTS
@@ -5777,15 +5801,18 @@ Fortunately, the crew need not be idle as they await their destruction as there 
 
 As missiles can take several rounds to reach their targets, you should keep track of how many missiles remain within each salvo, reducing them as countermeasures take effect.
 
-Electronic Warfare: A Traveller performing sensor operator duties on a spacecraft can use the Electronic Warfare action to destroy or misdirect incoming missiles before they impact their vessel or another ship within Close range.
+#### Electronic Warfare
+A Traveller performing sensor operator duties on a spacecraft can use the Electronic Warfare action to destroy or misdirect incoming missiles before they impact their vessel or another ship within Close range.
 
 During the Actions Step, the sensor operator must succeed at a Difficult (10+) Electronics (sensors) check in order to destroy or render inert incoming missiles within a single salvo. The Effect of this check will immediately remove that many missiles from the salvo.
 
 Electronic Warfare may be performed upon a salvo multiple times over several rounds, with the effects being cumulative. However, a salvo may only be subjected to Electronic Warfare once per round, no matter how many sensor operators are available.
 
-Flee: A spacecraft under missile attack may simply turn around and engage its maneuver drive, thrusting away from the missiles by increasing the Range Band between missiles and ship. Missiles are extremely long-ranged weapons and so it is not normally possible to outrange a missile in this way but it can perhaps buy enough time to prolong electronic warfare or make a jump.
+#### Flee
+A spacecraft under missile attack may simply turn around and engage its maneuver drive, thrusting away from the missiles by increasing the Range Band between missiles and ship. Missiles are extremely long-ranged weapons and so it is not normally possible to outrange a missile in this way but it can perhaps buy enough time to prolong electronic warfare or make a jump.
 
-Point Defense: Finally, just as a salvo is about to strike, gunners may engage in point defense, as detailed on page 171.
+#### Point Defense
+Finally, just as a salvo is about to strike, gunners may engage in point defense, as detailed on page 171.
 
 MISSILES and TARGETS When a missile salvo reaches its target, the missile makes an attack roll as normal in the Attack Step. However, neither the Gunner skill of the Traveller(s) that fired the salvo nor range are used as modifiers. Other modifiers, such as Evasive Action, are used as normal.
 
@@ -5872,7 +5899,8 @@ Throughout the design process, you will keep track of two key numbers – the to
 
 Construction TIMES Construction times vary wildly, depending on the size and complexity of the spacecraft and the capabilities of the shipyard. On average, assume that it takes one day per million Credits to build a spacecraft at an average commercial shipyard.
 
-STEP 1: CREATE A HULL The first step in designing a ship is to build its hull – this is the body of the ship, its fuselage.
+#### STEP 1
+CREATE A HULL The first step in designing a ship is to build its hull – this is the body of the ship, its fuselage.
 
 Decide on the total tonnage of the ship. This will affect the performance of the ship and, ultimately, limit what it can carry and achieve.
 
@@ -5948,7 +5976,8 @@ Hull Configuration Streamlined? Hull Points Cost Standard Partial — —
 
 HULL CONFIGURATIONS
 
-STEP 2: INSTALL DRIVES Once you have your basic hull complete, it is time to start filling it! The first items to add are the engines so the ship is able to move through space. These are divided into maneuver and jump drives. Maneuver drives use gravitic technology that pushes the ship through space – it is these that give a ship its Thrust score. Jump drives are special systems that allow a ship to travel faster-than-light across interstellar distances.
+#### STEP 2
+INSTALL DRIVES Once you have your basic hull complete, it is time to start filling it! The first items to add are the engines so the ship is able to move through space. These are divided into maneuver and jump drives. Maneuver drives use gravitic technology that pushes the ship through space – it is these that give a ship its Thrust score. Jump drives are special systems that allow a ship to travel faster-than-light across interstellar distances.
 
 To fit a maneuver drive, consult the Thrust Potential table and decide what Thrust score you want your ship to have. The figure below that Thrust score shows what percentage of the ship's hull the maneuver drive requires.
 
@@ -5974,7 +6003,8 @@ Maneuver Drive Rating^123456789
 Rating 1 2 3 4 5 6
 % of Hull 2.5% 5% 7.5% 10% 12.5% 15% Jump TL 9 11 12 13 14 15
 
-STEP 3: INSTALL POWER PLANT The heart of a spacecraft is the power plant. Typically fusion-based, the power plant meets all the energy requirements for every system on the ship, from the massive amounts required for jump and maneuver drives to the expresso machine in the captain's stateroom. Ships are typically built with power plants large enough to supply energy to all systems on a ship without interruption, although some cheaper vessels may require weapons and other systems to be off-lined while making a jump, for example.
+#### STEP 3
+INSTALL POWER PLANT The heart of a spacecraft is the power plant. Typically fusion-based, the power plant meets all the energy requirements for every system on the ship, from the massive amounts required for jump and maneuver drives to the expresso machine in the captain's stateroom. Ships are typically built with power plants large enough to supply energy to all systems on a ship without interruption, although some cheaper vessels may require weapons and other systems to be off-lined while making a jump, for example.
 
 The Power Plant table illustrates the types of power plant available, how much Power they generate and their cost.
 
@@ -5984,17 +6014,19 @@ Power Plant Type Power per Ton Cost per Ton Fusion (TL8) 10 MCr0.5 Fusion (TL12)
 
 There are three main requirements a power plant must meet in terms of Power needed by a ship.
 
-Basic Ship Systems: This includes everything a ship needs for day-to-day operations, including artificial gravity, heating, lighting and life support. The amount of Power needed for basic ship systems is equal to 20% of the total tonnage of the hull.
+#### Basic Ship Systems
+This includes everything a ship needs for day-to-day operations, including artificial gravity, heating, lighting and life support. The amount of Power needed for basic ship systems is equal to 20% of the total tonnage of the hull.
 
-Maneuver Drive: In order to use the maneuver drive, the ship requires an amount of Power equal to 10% of the hull's total tonnage multiplied by the maximum Thrust the drive is capable of.
+#### Maneuver Drive
+In order to use the maneuver drive, the ship requires an amount of Power equal to 10% of the hull's total tonnage multiplied by the maximum Thrust the drive is capable of.
 
-Jump Drive: In order to use the jump drive, the ship requires an amount of Power equal to 10% of the hull's total tonnage multiplied by the maximum jump number the drive is capable of.
+#### Jump Drive
+In order to use the jump drive, the ship requires an amount of Power equal to 10% of the hull's total tonnage multiplied by the maximum jump number the drive is capable of.
 
-It is considered good practice to ensure there is enough Power available to use the basic ships systems and the maneuver drive simultaneously
+It is considered good practice to ensure there is enough Power available to use the basic ships systems and the maneuver drive simultaneously - being able to use the jump drive at the same time without taking power from other systems is considered a good advantage. You should also note that certain weapons and types of equipment require additional Power, as noted in their descriptions.
 
-- being able to use the jump drive at the same time without taking power from other systems is considered a good advantage. You should also note that certain weapons and types of equipment require additional Power, as noted in their descriptions.
-
-STEP 4: INSTALL FUEL TANKS All ships require fuel to function and the total fuel tankage for a ship must be indicated in the design plans. There is no cost associated with space allocated to fuel tanks but their capacity will influence how often the ship must refuel.
+#### STEP 4
+INSTALL FUEL TANKS All ships require fuel to function and the total fuel tankage for a ship must be indicated in the design plans. There is no cost associated with space allocated to fuel tanks but their capacity will influence how often the ship must refuel.
 
 ## JUMP DRIVES
 
@@ -6008,7 +6040,8 @@ The result of this is the number of tons that needs to be dedicated to jump fuel
 
 Power plants require fuel tankage equal to 10% of their size (rounding up, minimum one ton). This provides enough fuel for the power plant for four weeks. This can be extended further by increasing the fuel tankage for the power plant (so, doubling it will provide enough fuel for eight weeks and so on).
 
-STEP 5: INSTALL BRIDGE All ships must have a bridge containing basic controls, communications equipment, avionics, scanners, detectors, sensors and other equipment for proper operation of the ship. The size of the bridge varies depending on the size of the ship and can range from a massive deck with multiple crew positions on a capital ship to a snug single-seat cockpit in a fighter.
+#### STEP 5
+INSTALL BRIDGE All ships must have a bridge containing basic controls, communications equipment, avionics, scanners, detectors, sensors and other equipment for proper operation of the ship. The size of the bridge varies depending on the size of the ship and can range from a massive deck with multiple crew positions on a capital ship to a snug single-seat cockpit in a fighter.
 
 The size of bridge required and its cost are shown on the Bridges table.
 
@@ -6024,7 +6057,8 @@ A dual cockpit provides space for an additional crew member, such as a sensor op
 
 A cockpit is not designed for long term use and only has life support for 24 hours. However, pilots will want to leave the cockpit long before then...
 
-STEP 6: INSTALL COMPUTER Every ship needs a central computer, usually installed near the bridge. The computer is the heart of the ship, controlling all functions from life support to the complex calculations needed to perform a jump.
+#### STEP 6
+INSTALL COMPUTER Every ship needs a central computer, usually installed near the bridge. The computer is the heart of the ship, controlling all functions from life support to the complex calculations needed to perform a jump.
 
 Computers are identified by their model number and the Computers table indicates their price, capacity and Tech Level. In general, larger and more powerful computers are advantageous in combat. The computers installed in a ship work just like personal computers (see page 110) but are considerably more powerful because the software needed for ship operations requires a great deal of processing power.
 
@@ -6038,21 +6072,25 @@ Computers do not consume any tonnage on a ship
 
 **Jump Control Specialization (/bis):** A computer's Processing score can be increased by +5 for the purposes of running Jump Control programs only by selecting this option. This increases the computer's cost by +50%.
 
-STEP 7: INSTALL SENSORS All ships come equipped with basic communications, sensor and emission-control suites, usually as part of their bridge. However, specialized or military ships often benefit from more advanced systems that are far more sensitive and resistant to jamming.
+#### STEP 7
+INSTALL SENSORS All ships come equipped with basic communications, sensor and emission-control suites, usually as part of their bridge. However, specialized or military ships often benefit from more advanced systems that are far more sensitive and resistant to jamming.
 
 The DM column in the Sensors table is applied to all Electronics (comms) and Electronics (sensors) checks made by crew in the ship. All ships have Basic sensors unless upgraded.
 
-STEP 8: INSTALL WEAPONS Military ships rely on a broad range of weaponry to project power across space but even a humble merchant or scout will find a weaponised turret a useful addition when straying into rougher star systems.
+#### STEP 8
+INSTALL WEAPONS Military ships rely on a broad range of weaponry to project power across space but even a humble merchant or scout will find a weaponised turret a useful addition when straying into rougher star systems.
 
 Weapons are installed in the same way as components, taking note of the tonnage they consume within the hull and their cost. Most weapons also have a Power cost associated with them and so you should ensure your power plant is still large enough to handle all the needs of the spacecraft after weapons have been installed.
 
 Specific details of weapons and how they are installed in a ship can be found on page 167.
 
-STEP 9: INSTALL OPTIONAL SYSTEMS There are a multitude of optional systems, components and other accessories that can be added to a ship. These are covered on page 184.
+#### STEP 9
+INSTALL OPTIONAL SYSTEMS There are a multitude of optional systems, components and other accessories that can be added to a ship. These are covered on page 184.
 
 Note that most of these optional systems consume tonnage and some also require Power, both of which you should make careful note of.
 
-STEP 10: DETERMINE CREW The Crew Requirements table shows how many crew are needed for a ship. Salary can vary but the values on the Crew Requirements table shows a monthly average for skill level 1 crew, with the presumption that salaries will increase by +50% for every skill level above this.
+#### STEP 10
+DETERMINE CREW The Crew Requirements table shows how many crew are needed for a ship. Salary can vary but the values on the Crew Requirements table shows a monthly average for skill level 1 crew, with the presumption that salaries will increase by +50% for every skill level above this.
 
 Install Sensors Sensors TL Suite DM Power Tons Cost Basic 8 Lidar, Radar -4 0 — — Civilian Grade
 
@@ -6074,7 +6112,8 @@ Spacecraft in the hands of small-time traders or adventurers usually run with th
 
 Ships of less than 1,000 tons can, in theory, be run by just one or two multi-skilled people but the ship will be at a serious disadvantage in high-stress situations such as combat. The crewman acting as pilot will likely be kept busy in the cockpit, actually flying the ship, while the other will find their attention split between engineering, damage control and the weapon systems – a quick look at the Crew Duties section on page 164 will quickly demonstrate how inefficient this will prove to be.
 
-STEP 11: INSTALL STATEROOMS Staterooms represent the living space for both crew and passengers on ships. A single stateroom contains living and sleeping facilities, including a bed, fresher and a very basic kitchen.
+#### STEP 11
+INSTALL STATEROOMS Staterooms represent the living space for both crew and passengers on ships. A single stateroom contains living and sleeping facilities, including a bed, fresher and a very basic kitchen.
 
 Each stateroom consumes four tons and costs MCr0.5. Most ships will allocate one person to each stateroom.
 
@@ -6102,9 +6141,11 @@ This is not strictly necessary and ships can and will vary in this allocation, e
 
 Common areas cost MCr0.1 per ton.
 
-STEP 12: ALLOCATE CARGO Space Any space left on the ship that has not been allocated to other components is considered to be free for cargo. There is no cost associated with areas designated for cargo but any cargo or other materials taken on board the ship can obviously not exceed the tonnage set aside for cargo.
+#### STEP 12
+ALLOCATE CARGO Space Any space left on the ship that has not been allocated to other components is considered to be free for cargo. There is no cost associated with areas designated for cargo but any cargo or other materials taken on board the ship can obviously not exceed the tonnage set aside for cargo.
 
-STEP 13: FINALISE DESIGN Once cargo space has been allocated, the design process has been completed – your ship is now ready to fly.
+#### STEP 13
+FINALISE DESIGN Once cargo space has been allocated, the design process has been completed – your ship is now ready to fly.
 
 All that remains is to total up the tonnage consumed by components to ensure you have not tried to squeeze too much within the hull and to add up all components to find the final cost of the ship. If you need to go back and revise any part of the ship, now is the time.
 
@@ -6181,7 +6222,8 @@ Collapsible fuel tanks (also called fuel bladders) are large flexible bladders t
 
 When empty, collapsible tanks take up 1% of the tonnage they use when full. They cost Cr500 per ton.
 
-**CONCEALED COMPARTMENT**
+### CONCEALED COMPARTMENT
+
 A smuggler's favorite, concealed compartments are cunningly hidden from visual searches and shielded against sensors, allowing them to be used to transport contraband or other questionable items.
 
 Up to 5% of a ship's tonnage may be designated as a concealed compartment and inflicts DM–2 to Electronics (sensors) checks and DM–4 to Investigate checks made to search for it.
@@ -6195,21 +6237,25 @@ Docking space consumes an amount of tonnage equal to that of the largest ship to
 
 Docking space costs MCr0.25 per ton.
 
-**DRONES**
+### DRONES
+
 
 Drones are small robotic craft typically controlled from the bridge or dedicated station. They are used as labour-saving devices and for tasks that might otherwise endanger the crew.
 
 Drones are typically human-sized and have gravitic drives that allow them to operate in both space and atmospheres. However, while they can land on a planet, they do not have the power to travel from the surface to orbit and must be recovered manually. The Electronics (remote ops) skill is required for their use.
 
-Mining Drones: Mining drones are larger unmanned craft that allow a ship to mine asteroids without manoeuvring perilously close to spinning hunks of rock. Each set of five mining drones allows the ship to process 1D x 10 tons of asteroid per day (typically producing common ore, as detailed on page 244). The tonnage consumed includes ore handling machinery, allowing the ship to take on ore and transfer it to the cargo bay.
+#### Mining Drones
+Mining drones are larger unmanned craft that allow a ship to mine asteroids without manoeuvring perilously close to spinning hunks of rock. Each set of five mining drones allows the ship to process 1D x 10 tons of asteroid per day (typically producing common ore, as detailed on page 244). The tonnage consumed includes ore handling machinery, allowing the ship to take on ore and transfer it to the cargo bay.
 
 Every 10 tons dedicated to mining drones contains five drones and costs MCr1.
 
-Probe Drones: Probe drones are for surveying planetary surfaces and are commonly found on board scout ships. They can be dropped from orbit in disposable entry shells but must be recovered manually. Probe drones are alo capable of surveying orbiting satellites, derelicts and other space debris, and can also be used as communication relays.
+#### Probe Drones
+Probe drones are for surveying planetary surfaces and are commonly found on board scout ships. They can be dropped from orbit in disposable entry shells but must be recovered manually. Probe drones are alo capable of surveying orbiting satellites, derelicts and other space debris, and can also be used as communication relays.
 
 Each ton dedicated to probe drones contains five drones and costs MCr0.5
 
-Repair Drones: Carrying repair drones allows a ship to make repairs during combat, allowing access to exterior components without risking crew. They also have sufficient intelligence to allow repairs to be initiated by a drone controller rather than a dedicated engineer.
+#### Repair Drones
+Carrying repair drones allows a ship to make repairs during combat, allowing access to exterior components without risking crew. They also have sufficient intelligence to allow repairs to be initiated by a drone controller rather than a dedicated engineer.
 
 Repair drones allows a Traveller with the Electronics (remote ops) skill to use the Repair System action (see page 173). The repair drones are considered to have an Engineer skill level of 1 or the level the Traveller has in Electronics (remote ops), whichever is lower, in all specialities for the Repair System action alone.
 
@@ -6279,12 +6325,14 @@ The environment of this designated area can be modified to a wide range of condi
 
 One ton of environmental equipment is needed for every 20 tons of space designated as multi- environment, at a cost of MCr0.5 per ton of equipment. Each ton of environmental equipment requires 1 Power.
 
-**SENSOR STATION**
+### SENSOR STATION
+
 While every bridge has equipment dedicated to monitoring and controlling the ship's sensors (even if this is tied into the pilot's own screens), some ships benefit from having additional stations to handle an increased number of sensor operators. Some scout and survey ships feature additional sensor stations, while military vessels may feature similar stations dedicated to locating the enemy and electronic warfare.
 
 Each sensor station allows an additional sensor operator to perform actions, costs MCr0.5 and consumes one ton.
 
-**WORKSHOP**
+### WORKSHOP
+
 A workshop can be used to repair parts and fabricate new ones and is a common feature on scouts and other ships that operate in the wilderness areas of space.
 
 Every six tons of space dedicated to workshops allows for two Travellers to use the Mechanic skill on board the ship with DM+2.
@@ -6391,7 +6439,8 @@ Sensors
 
 **SCOUT/COURIER**
 
-**SCOUT**
+### SCOUT
+
 
 **TYPE:S**
 
@@ -6423,13 +6472,17 @@ Jump Drive
 
 Sensors
 
-**SEEKER MINING SHIP**
+### SEEKER MINING SHIP
 
-**SEEKER**
 
-**MINING**
+### SEEKER
 
-**SHIP**
+
+### MINING
+
+
+### SHIP
+
 
 **TYPE:J**
 
@@ -6447,7 +6500,8 @@ Using a 200-ton hull, the free trader is an elementary interstellar merchant shi
 
 weapons and other 'special' modifications. As such, actual specifications can vary wildly, often being proportional to the age of the ship but the free trader presented here is typical of a vessel fresh out of a shipyard.
 
-**FREE TRADER**
+### FREE TRADER
+
 
 Crew : Pilot, Astrogator, Engineer, Medic, Steward
 
@@ -6463,7 +6517,8 @@ Jump Drive
 
 Sensors
 
-**FREE TRADER**
+### FREE TRADER
+
 
 **TYPE:A**
 
@@ -6493,11 +6548,13 @@ Jump Drive
 
 Sensors
 
-**FAR TRADER**
+### FAR TRADER
+
 
 allowing it to reach systems a basic free trader cannot travel to. While less cargo can mean less profits, the ability to reach further systems or to travel between stars at a faster rate can more than make up for this in the hands of a clever captain.
 
-**FAR TRADER**
+### FAR TRADER
+
 
 **TYPE:A2**
 
@@ -6529,11 +6586,13 @@ Jump Drive
 
 Sensors
 
-**SAFARI SHIP**
+### SAFARI SHIP
+
 
 Included within the hull are two holding tanks with variable environments for live specimens and a trophy lounge that makes for a very comfortable mess area for passengers and crew. While the ship is streamlined and can land planetside, a launch and ATV permit expeditions across a planets surface without requiring the whole vessel to leave orbit.
 
-**SAFARI SHIP**
+### SAFARI SHIP
+
 
 **TYPE:K**
 
@@ -6582,9 +6641,11 @@ Sensors
 
 Because SDBs have no jump drives, shifting them from system-to-system can be a problem. Some have jump shuttles that attach themselves to the boat and provide jump capability. Another method is simple transport in large bulk cargo carriers; the SDBs are loaded into 10,000-ton or 20,000-ton bulk carriers for the multi-parsec journey. This method, of course, is not recommended if immediate combat is expected at the destination.
 
-**SYSTEM**
+### SYSTEM
 
-**DEFENSE BOAT**
+
+### DEFENSE BOAT
+
 
 1. Bridge 2. Missile Storage 3. Medical Bay 4. Cargo Bay
 
@@ -6606,11 +6667,13 @@ Jump Drive
 
 Sensors
 
-**YACHT**
+### YACHT
+
 
 docking compartments; an ATV is also carried, with the ship's boat being used to ferry it from orbit to surface and back again.
 
-**YACHT**
+### YACHT
+
 
 **TYPE:Y**
 
@@ -6651,21 +6714,25 @@ Jump Drive
 
 Sensors
 
-**CLOSE ESCORT**
+### CLOSE ESCORT
+
 
 but when pressed into combat duties it had invariably suffered disproportionate losses.
 
 With the internal tankage Jump-3 can be achieved, with drop tanks Jump-5, with the drop tanks retained Jump-4.
 
-**CLOSE**
+### CLOSE
 
-**ESCORT**
+
+### ESCORT
+
 
 **CLASS:GAZELLE**
 
 1. Bridge 2. Armory 3. Cargo Bay 4. Gig Docking Space
 
-**GAZELLE CLASS**
+### GAZELLE CLASS
+
 
 DECK 1
 
@@ -6691,13 +6758,16 @@ Jump Drive
 
 Sensors
 
-**LABORATORY SHIP**
+### LABORATORY SHIP
+
 
 to conduct field expeditions. A special feature of this ship is that it is built so internal gravity can be created by spinning the hull. This is done to permit experiments to be carried out that might otherwise be affected by the gravetic plates installed as standard on all ships.
 
-**LABORATORY**
+### LABORATORY
 
-**SHIP**
+
+### SHIP
+
 
 **TYPE:L**
 
@@ -6753,13 +6823,16 @@ Sensors
 
 Weapons
 
-**PATROL CORVETTE**
+### PATROL CORVETTE
+
 
 combined with a streamlined hull, allow the patrol corvette to pursue targets through atmospheres and down onto planetary surfaces, ensuring there is no escape.
 
-**PATROL**
+### PATROL
 
-**CORVETTE**
+
+### CORVETTE
+
 
 **TYPE:T**
 
@@ -6791,13 +6864,16 @@ Jump Drive
 
 Sensors
 
-**SUBSIDISED MERCHANT**
+### SUBSIDISED MERCHANT
+
 
 theoretically swallow a free trader whole. This ship normally requires a crew of five, although the pilot also operates the launch, a steward is only necessary if carrying commercial passengers and gunners may be added to the list if weapons are installed.
 
-**SUBSIDISED**
+### SUBSIDISED
 
-**MERCHANT**
+
+### MERCHANT
+
 
 **TYPE:R**
 
@@ -6829,21 +6905,25 @@ Jump Drive
 
 Sensors
 
-**SURVEY SCOUT**
+### SURVEY SCOUT
+
 
 The survey scout is a peaceful vessel, typically unarmed and inoffensive. It does, however, mount four hardpoints and can be armed with a variety of turrets and weaponry if necessary.
 
 The Donosev-class survey scout is named for famous scouts in the Imperial service.
 
-**SURVEY**
+### SURVEY
 
-**SCOUT**
+
+### SCOUT
+
 
 **CLASS:DONOSEV**
 
 1. Bridge 2. Modular Cutter Docking Space 3. Cargo Bay 4. Extra Module 5. Workshop 6. Laboratories
 
-**DONOSEV CLASS**
+### DONOSEV CLASS
+
 
 DECK 1
 
@@ -6869,13 +6949,16 @@ Jump Drive
 
 Sensors
 
-**SUBSIDISED LINER**
+### SUBSIDISED LINER
+
 
 in low berths. With a three parsec jump capability, a lot of destinations are possible. Although the hull of the ship itself is understreamlined, a launch allows passengers to be ferried to the surface of a world or act as a life boat in emergencies.
 
-**SUBSIDISED**
+### SUBSIDISED
 
-**LINER**
+
+### LINER
+
 
 **TYPE:M**
 
@@ -6913,13 +6996,16 @@ Sensors
 
 Turrets
 
-**MERCENARY CRUISER**
+### MERCENARY CRUISER
+
 
 The platoon can be deployed to a planet's surface within the two modular cutters housed inside the ship and can then disembark using the ATV's the two cutters carry. Turrets are fitted as standard but while shipyards do not generally include weapons, it is a rare mercenary cruiser that is not armed to the teeth.
 
-**MERCENARY**
+### MERCENARY
 
-**CRUISER**
+
+### CRUISER
+
 
 **TYPE:C**
 
@@ -6956,7 +7042,8 @@ Sensors
 
 Weapons
 
-**LIGHT FIGHTER SMALL CRAFT**
+### LIGHT FIGHTER SMALL CRAFT
+
 
 Designed to adhere to a strict budget, the Light Fighter allows even the poorest worlds a chance at self-defense.
 
@@ -6978,7 +7065,8 @@ Maneuver Drive
 
 Turret
 
-**GIG SMALL CRAFT**
+### GIG SMALL CRAFT
+
 
 Technically a vessel of the Imperial Navy, it is crewed by local starport personnel and used to perform orbital inspections and other light duties.
 
@@ -6998,11 +7086,13 @@ Power Requirements Basic Ship Systems
 
 Maneuver Drive
 
-**LAUNCH**
+### LAUNCH
+
 
 but ambitious schemes will find themselves limited by the small hull and weak power plant. However, for the price, the launch provides a means to very cheap space travel.
 
-**SMALL CRAFT**
+### SMALL CRAFT
+
 
 1. Bridge 2. Cargo Bay
 
@@ -7024,7 +7114,8 @@ Maneuver Drive
 
 loads between ships and worlds, in smaller militaries the ship's boat is also used as a boarding craft by marine assault teams.
 
-**SMALL CRAFT**
+### SMALL CRAFT
+
 
 1. Bridge 2. Cargo Bay
 
@@ -7042,11 +7133,13 @@ Power Requirements Basic Ship Systems
 
 Maneuver Drive
 
-**SLOW BOAT**
+### SLOW BOAT
+
 
 Either way, the slow boat is comparable to the ship's boat but it trades speed for increased cargo space.
 
-**SMALL CRAFT**
+### SMALL CRAFT
+
 
 1. Bridge 2. Cargo Bay
 
@@ -7064,11 +7157,13 @@ Power Requirements Basic Ship Systems
 
 Maneuver Drive
 
-**PINNACE**
+### PINNACE
+
 
 It combines a generous cargo hold with a speed that leaves most star ships trailing far behind and can be configured for light combat operations with the addition of weaponry to its fixed mount.
 
-**SMALL CRAFT**
+### SMALL CRAFT
+
 
 1. Bridge 2. Cargo Bay
 
@@ -7086,11 +7181,13 @@ Power Requirements Basic Ship Systems
 
 Maneuver Drive
 
-**SLOW PINNACE**
+### SLOW PINNACE
+
 
 As a larger hull, it provides even more cargo carrying capacity than a slow boat and many are customised to become troop or vehicle transports, or to serve as fuel skimmers for larger ships.
 
-**SMALL CRAFT**
+### SMALL CRAFT
+
 
 1. Bridge 2. Cargo Bay
 
@@ -7108,13 +7205,15 @@ Power Requirements Basic Ship Systems
 
 Maneuver Drive
 
-**MODULAR CUTTER**
+### MODULAR CUTTER
+
 
 available for the cutter, the three most common and routinely available for the cutter are listed below.
 
 ATV module: The ATV module costs MCr1.8 Fuel module: The fuel module costs MCr1 Open module: The open module costs MCr2
 
-**SMALL CRAFT**
+### SMALL CRAFT
+
 
 1. Bridge 2. Module Docking Space 3. Cargo Bay
 
@@ -7132,11 +7231,13 @@ Power Requirements Basic Ship Systems
 
 Maneuver Drive
 
-**SHUTTLE**
+### SHUTTLE
+
 
 It is designed to carry passengers and cargo from orbit to surface and back again, as well as act as an interplanetary transport.
 
-**SMALL CRAFT**
+### SMALL CRAFT
+
 
 1. Bridge 2. Cargo Bay
 
@@ -7162,11 +7263,13 @@ Maneuver Drive
 
 Sensors
 
-**PASSENGER SHUTTLE**
+### PASSENGER SHUTTLE
+
 
 Normally only the passenger area is accessible to non-crew and operations are sufficiently routine that no stewards are carried. Nor do the crew interact with the passengers except to pass on announcements when necessary.
 
-**SMALL CRAFT**
+### SMALL CRAFT
+
 
 1. Bridge 2. Cargo Bay
 
@@ -7218,11 +7321,16 @@ Psionic Training
 
 There are several psionic talents, each of which is controlled by a different skill. Within each talent are several powers, all of which may be used by a Traveller trained in the talent. The most common talents are:
 
-Telepathy: Reading minds & communicating
-**Clairvoyance:** Perceiving at a distance
-Telekinesis: Mind over matter
-**Awareness:** Control over one's own mind and body
-Teleportation: Moving from one point to another instantly
+#### Telepathy
+Reading minds & communicating
+#### Clairvoyance
+Perceiving at a distance
+#### Telekinesis
+Mind over matter
+#### Awareness
+Control over one's own mind and body
+#### Teleportation
+Moving from one point to another instantly
 
 ### Using Psionic Powers
 
@@ -7414,7 +7522,8 @@ Teleportation always involves the movement of one's body to another location. In
 
 Pre-knowledge of Destination: A Traveller must always have a mental image of their destination before teleporting. This mental image is acquired by personally visiting the location first (this includes viewing it from a distance), having the mental image implanted in one's mind (via telepathy) by another person who has visited the destination or by viewing the location through clairvoyance.
 
-Energy and Momentum: Teleportation involves serious restrictions on movement in order to ensure the conservation of energy and momentum, two laws of physics that can cause teleporting Travellers serious issues.
+#### Energy and Momentum
+Teleportation involves serious restrictions on movement in order to ensure the conservation of energy and momentum, two laws of physics that can cause teleporting Travellers serious issues.
 
 On planetary surfaces, teleportation is restricted to jumps of no more than Very Distant ranges. Jumps beyond visual range involve disorientation for a period of 2D – Effect of Teleportation check x 10 seconds.
 
@@ -7452,9 +7561,12 @@ Qualification: PSI 6+ DM–1 for every previous career
 
 Assignments Choose one of the following:
 
-Wild Talent: You developed your powers without formal training.
-Adept: You are a scholar of the psionic disciplines.
-Psi-Warrior: You combine combat training with psionic warfare.
+#### Wild Talent
+You developed your powers without formal training.
+#### Adept
+You are a scholar of the psionic disciplines.
+#### Psi-Warrior
+You combine combat training with psionic warfare.
 
 ### Psion Skills and Training
 
@@ -7559,17 +7671,22 @@ In short, referees have little to fear in letting their Travellers loose in this
 
 Passage on board any ship is standardised into three categories; high passage, middle passage, basic passage and low passage, reflecting the quality of service that can be expected during the journey (in a way reflecting first class, business class and cattle class on airlines today). The cost increases with the distance travelled and is for a single jump.
 
-High Passage: This is the equivalent of a luxury cruise or flight in first class. Comfortable quarters, good food and staff to wait on hand and foot are expected. It requires a stateroom, one ton of cargo space and one level of Steward per 10 passengers.
+#### High Passage
+This is the equivalent of a luxury cruise or flight in first class. Comfortable quarters, good food and staff to wait on hand and foot are expected. It requires a stateroom, one ton of cargo space and one level of Steward per 10 passengers.
 
-Middle Passage: This is 'standard' class. There will be a stateroom for every passenger and occasional service from the steward but it is considered more functional than enjoyable as an experience. It requires a stateroom, 100kg of cargo and one level of Steward per 100 passengers
+#### Middle Passage
+This is 'standard' class. There will be a stateroom for every passenger and occasional service from the steward but it is considered more functional than enjoyable as an experience. It requires a stateroom, 100kg of cargo and one level of Steward per 100 passengers
 
-Basic Passage: For those not willing to risk low berths, the option of basic passage, or steerage as it is often called, exists. Staterooms will be shared (typically two people to a stateroom) or, on some less scrupulous ships, areas in the cargo bay or engineering will be set aside for very basic accommodation and services (which may only extend to two meals a day and meagre washroom facilities). This requires two tons of spare room on the spacecraft, a resilient personality on the part of the passenger and comes with a 10kg baggage allowance.
+#### Basic Passage
+For those not willing to risk low berths, the option of basic passage, or steerage as it is often called, exists. Staterooms will be shared (typically two people to a stateroom) or, on some less scrupulous ships, areas in the cargo bay or engineering will be set aside for very basic accommodation and services (which may only extend to two meals a day and meagre washroom facilities). This requires two tons of spare room on the spacecraft, a resilient personality on the part of the passenger and comes with a 10kg baggage allowance.
 
-Low Passage: This involves being cryogenically frozen and stuffed into a tube with the intention of being thawed out when the destination is reached. It is by no means unknown for Travellers to die during low passage, whether from system shock at being frozen, being improperly revived or simply a malfunction of the low berth. This requires a low berth and comes with a 10kg baggage allowance.
+#### Low Passage
+This involves being cryogenically frozen and stuffed into a tube with the intention of being thawed out when the destination is reached. It is by no means unknown for Travellers to die during low passage, whether from system shock at being frozen, being improperly revived or simply a malfunction of the low berth. This requires a low berth and comes with a 10kg baggage allowance.
 
 Travellers considering taking passengers on their own ships should consult the Spacecraft Operations chapter for the requirements needed to do so.
 
-**SEEKING PASSENGERS** Having enough staterooms (or low berths) on board a spacecraft is one thing – but Travellers looking to make money from bringing passengers on board must find them first.
+### SEEKING PASSENGERS
+Having enough staterooms (or low berths) on board a spacecraft is one thing – but Travellers looking to make money from bringing passengers on board must find them first.
 
 The number of potential passengers seeking passage to any given destination varies depending on a number of factors. When looking to see how many passengers are available, roll 2D on the Passenger Traffic table four times, once each for Low, Basic, Middle and High passengers and apply the following modifiers:
 
@@ -7887,23 +8004,29 @@ In order to create a subsector, the referee uses a blank subsector map and dice 
 
 would normally be available to them. The referee may elect to omit some information and only allow it to be inserted after the Travellers have determined it for themselves.
 
-World Occurrence: There is a basic one-half chance that one world (and its attendant stellar system) will be in a hex on a subsector or sector map. Systematically check each hex, throwing 1D and marking the hex with a circle if the result is a 4, 5 or 6. This indicates that a world of note or interest is present; otherwise, leave the hex blank.
+#### World Occurrence
+There is a basic one-half chance that one world (and its attendant stellar system) will be in a hex on a subsector or sector map. Systematically check each hex, throwing 1D and marking the hex with a circle if the result is a 4, 5 or 6. This indicates that a world of note or interest is present; otherwise, leave the hex blank.
 
 The referee may elect to alter the normal chances of worlds, making them more frequent or less frequent to correspond to specific regions of the galaxy. A 50% density (no DM) is appropriate for the most areas. Apply DM-2 for rift (all but empty) sectors, DM-1 for sparse sectors and DM+1 for densely populated sectors.
 
-Starport Type: Many worlds have starports, their presence being essential to interstellar trade and commerce. See Starports, page 257.
+#### Starport Type
+Many worlds have starports, their presence being essential to interstellar trade and commerce. See Starports, page 257.
 
-Bases: Stellar systems may have bases for military forces, the navy, the scouts or other arms of interstellar government. See Bases, page 259.
+#### Bases
+Stellar systems may have bases for military forces, the navy, the scouts or other arms of interstellar government. See Bases, page 259.
 
 Bases will also help determine political boundaries in the sector. An interstellar government will place bases along its borders to guard against aggression from rival states or to control local systems. The presence of multiple bases within a few parsecs might indicate a contested border or a mighty stronghold.
 
-Gas Giants: A star system may have one or more gas giant planets (similar to Jupiter or Saturn). The presence of a gas giant allows streamlined starships to refuel by skimming; this eliminates fuel cost for the vessel and increases profit. It also allows refuelling at systems that do not have starports. Refuelling in this fashion requires 1D days to travel to the gas giant and commence refuelling. Fuel gained by skimming is unrefined.
+#### Gas Giants
+A star system may have one or more gas giant planets (similar to Jupiter or Saturn). The presence of a gas giant allows streamlined starships to refuel by skimming; this eliminates fuel cost for the vessel and increases profit. It also allows refuelling at systems that do not have starports. Refuelling in this fashion requires 1D days to travel to the gas giant and commence refuelling. Fuel gained by skimming is unrefined.
 
 Gas giants are relatively common. Roll 10+ for a gas giant not to be present in the system. If one is present, mark the system hex in accordance with the world format.
 
-System Name: Each system is generally named for the primary world within. This name should be decided upon by the referee and placed in the hex for identification.
+#### System Name
+Each system is generally named for the primary world within. This name should be decided upon by the referee and placed in the hex for identification.
 
-**Travel Zones:** Most worlds are assumed to be civilised or at least amenable to Travellers and visitors. Some, however, are caught in the throes of war, plagued by disease or simply not ready for interstellar visitors. Such worlds are classified by Travel Zones to denote such status. In most cases, the referee should indicate Travel Zones based on the information available. Two such zone types exist; Amber and Red.
+#### Travel Zones
+Most worlds are assumed to be civilised or at least amenable to Travellers and visitors. Some, however, are caught in the throes of war, plagued by disease or simply not ready for interstellar visitors. Such worlds are classified by Travel Zones to denote such status. In most cases, the referee should indicate Travel Zones based on the information available. Two such zone types exist; Amber and Red.
 
 Amber Zones indicate that Travellers should exercise caution when visiting such worlds. The Amber code may mean that the citizens of the world are xenophobic, that the political situation is chaotic or that some other danger exists within the system.
 
@@ -7913,15 +8036,15 @@ North, south, east and west are insufficient terms for referring to directions w
 
 Red Zones usually indicate that a major danger exists within the system. This danger may be disease and the world is quarantined. The system may be involved in a war and surface or space battles may be probable. Red Zones are also used to show a government edict prohibiting entry to the system or world. This may be to protect a local civilization that is still developing and not yet ready for interstellar contacts or to protect valuable resources until the government can mine them.
 
-Polities: Worlds may be independent or part of a larger polity that spans a system or more. Polities range from loose confederations of a few worlds with common trade or defense policies or cultural links, to vast star empires containing thousands of systems and trillions of citizens. Polity borders should be drawn on the map. Note that larger polities will usually have sub-domains, which could also be marked.
+#### Polities
+Worlds may be independent or part of a larger polity that spans a system or more. Polities range from loose confederations of a few worlds with common trade or defense policies or cultural links, to vast star empires containing thousands of systems and trillions of citizens. Polity borders should be drawn on the map. Note that larger polities will usually have sub-domains, which could also be marked.
 
-Communications Routes: Within the subsector, local governments will have established communications routes connecting some (but not all) worlds. These routes serve as a conduit for messages between businesses and governments, as well as people. They also serve as the basic routes that liners and large freighters travel. The referee should examine the subsector map and connect key worlds with communications routes. If the subsector is an isolated community, the routes might not leave the map; if it is part of a larger confederation or empire, the routes will probably leave the edges to join with other parts of the sector. Use starports as guides when drawing communication routes – in general, the best routes are the shortest connections between Class A starports and naval bases.
+#### Communications Routes
+Within the subsector, local governments will have established communications routes connecting some (but not all) worlds. These routes serve as a conduit for messages between businesses and governments, as well as people. They also serve as the basic routes that liners and large freighters travel. The referee should examine the subsector map and connect key worlds with communications routes. If the subsector is an isolated community, the routes might not leave the map; if it is part of a larger confederation or empire, the routes will probably leave the edges to join with other parts of the sector. Use starports as guides when drawing communication routes – in general, the best routes are the shortest connections between Class A starports and naval bases.
 
 Communications routes should be carefully drawn so as to avoid making all parts of the subsector accessible; a subsector should have some areas as backwaters for exploration and adventure. Communications routes are drawn as single lines connecting hexes on the subsector grid.
 
-Trade Routes: Trade routes link worlds that have strong commercial ties. Consult the Trade Routes table
-
-- if any pair of worlds matching the two columns are within four parsecs of each other and there is a jump-1 or jump-2 route between them, then mark a trade route connecting those two worlds.
+Trade Routes: Trade routes link worlds that have strong commercial ties. Consult the Trade Routes table - if any pair of worlds matching the two columns are within four parsecs of each other and there is a jump-1 or jump-2 route between them, then mark a trade route connecting those two worlds.
 
 Trade Routes First World Second World Industrial High Tech
 
@@ -8025,21 +8148,34 @@ ATMOSPHERE The Atmosphere code measures the type of atmosphere present. A planet
 
 ## Atmosphere Types
 
-Tainted: Tainted atmospheres contain some element harmful to humans, such as an unusually high proportion of carbon dioxide. A Traveller who breathes a tainted atmosphere without a filter will suffer 1D damage every few minutes (or potentially hours, depending on the level of taint), in addition to any other effects.
+#### Tainted
+Tainted atmospheres contain some element harmful to humans, such as an unusually high proportion of carbon dioxide. A Traveller who breathes a tainted atmosphere without a filter will suffer 1D damage every few minutes (or potentially hours, depending on the level of taint), in addition to any other effects.
 
-Exotic: An exotic atmosphere is unbreathable by humans but not otherwise hazardous. A Traveller needs an air supply to breath in an exotic atmosphere without suffocating.
+#### Exotic
+An exotic atmosphere is unbreathable by humans but not otherwise hazardous. A Traveller needs an air supply to breath in an exotic atmosphere without suffocating.
 
-Corrosive: Corrosive atmospheres are highly dangerous. A Traveller who breathes in a corrosive atmosphere will suffer 1D damage each round.
+#### Corrosive
+Corrosive atmospheres are highly dangerous. A Traveller who breathes in a corrosive atmosphere will suffer 1D damage each round.
 
-Insidious: An insidious atmosphere is like a corrosive one but is so potent that it attacks equipment as well. The chief danger in an insidious atmosphere is that the toxic gases will destroy the seals and filters on the Traveller's protective gear. An insidious atmosphere worms its way past protection after 2D hours on average, although vigilant maintenance or advanced protective gear can prolong survival times.
+#### Insidious
+An insidious atmosphere is like a corrosive one but is so potent that it attacks equipment as well. The chief danger in an insidious atmosphere is that the toxic gases will destroy the seals and filters on the Traveller's protective gear. An insidious atmosphere worms its way past protection after 2D hours on average, although vigilant maintenance or advanced protective gear can prolong survival times.
 
-Very Dense: These worlds have thick N 2 /O 2 atmospheres but their mean surface pressure is too high to support unprotected human life (high pressure nitrogen and oxygen are deadly to humans). However, pressure naturally decreases with increasing altitude, so if there are highlands at the right altitude the pressure may drop enough to support human life. Alternatively, there may not be any topography high enough for humans to inhabit, necessitating floating gravitic or dirigible habitats or sealed habitats on the surface.
+#### Very Dense
+These worlds have thick N 2 /O 2 atmospheres but their mean surface pressure is too high to support unprotected human life (high pressure nitrogen and oxygen are deadly to humans). However, pressure naturally decreases with increasing altitude, so if there are highlands at the right altitude the pressure may drop enough to support human life. Alternatively, there may not be any topography high enough for humans to inhabit, necessitating floating gravitic or dirigible habitats or sealed habitats on the surface.
 
-Low: The opposite of a Very Dense atmosphere, these massive worlds have thin N 2 /O 2 atmospheres that settle in the lowlands and depressions and are only
+#### Low
+The opposite of a Very Dense atmosphere, these massive worlds have thin N 2 /O 2 atmospheres that settle in the lowlands and depressions and are only
 
-World TEMPERATURE A planet's surface temperature is primarily dependent on its distance from its primary star (how much solar radiation it receives) and how thick its atmosphere is (how much of this heat it can retain). The habitable zone is the area around a star most conducive to the development of Earth-like, habitable worlds and it is assumed that most colonized worlds will be in this habitable zone. Roll 2D for the planet's temperature, applying the DMs listed below for the Temperature table:
+## WORLD TEMPERATURE
+A planet's surface temperature is primarily dependent on its distance from its primary star (how much solar radiation it receives) and how thick its atmosphere is (how much of this heat it can retain). The habitable zone is the area around a star most conducive to the development of Earth-like, habitable worlds and it is assumed that most colonized worlds will be in this habitable zone. Roll 2D for the planet's temperature, applying the DMs listed below for the Temperature table:
 
-Atmosphere 0 or 1: No modifiers, but temperature swings from roasting during the day to frozen at night. Atmosphere 2 or 3: DM-2 Atmosphere 4, 5 or E: DM-1 Atmosphere 6 or 7: DM+0 Atmosphere 8 or 9: DM+1 Atmosphere A, D or F: DM+2 Atmosphere B or C: DM+6
+Atmosphere 0 or 1: No modifiers, but temperature swings from roasting during the day to frozen at night. 
+Atmosphere 2 or 3: DM-2 
+Atmosphere 4, 5 or E: DM-1 
+Atmosphere 6 or 7: DM+0 
+Atmosphere 8 or 9: DM+1 
+Atmosphere A, D or F: DM+2 
+Atmosphere B or C: DM+6
 
 Optionally, the referee may also choose to impose one of the following:
 
@@ -8280,17 +8416,23 @@ Different governments ban different goods. A Traveller might be able to carry th
 
 As far as Travellers are concerned, the most common restriction a government imposes is on the possession of weapons and this is reflected on the Law Level table. However, the referee might consider the stance of a government for all of the following:
 
-Weapons: A government that bans weapons begins with restricting weapons of terror and mass destruction, then moves onto personal weapons. Governments will also often ban armor, with a view that an overly militarized appearance simply attracts trouble.
+#### Weapons
+A government that bans weapons begins with restricting weapons of terror and mass destruction, then moves onto personal weapons. Governments will also often ban armor, with a view that an overly militarized appearance simply attracts trouble.
 
-Drugs: A government that bans drugs begins with narcotics but at higher Law Levels, medicinal and anagathic drugs may also be banned.
+#### Drugs
+A government that bans drugs begins with narcotics but at higher Law Levels, medicinal and anagathic drugs may also be banned.
 
-Information: A government that seeks to control information begins by restricting the use of computers and computer programs, especially information-retrieval and information-control. At higher Law Levels, bringing data from offworld or even communicating with natives can be forbidden.
+#### Information
+A government that seeks to control information begins by restricting the use of computers and computer programs, especially information-retrieval and information-control. At higher Law Levels, bringing data from offworld or even communicating with natives can be forbidden.
 
-Technology: A government that bans technology seeks to shield its citizens from the influence of advanced technology.
+#### Technology
+A government that bans technology seeks to shield its citizens from the influence of advanced technology.
 
-Travellers: A ban on Travellers restricts the ability of outsiders to visit the world, confining them to the starport or forbidding landing entirely.
+#### Travellers
+A ban on Travellers restricts the ability of outsiders to visit the world, confining them to the starport or forbidding landing entirely.
 
-Psionics: Restrictions on psionics are common and most worlds ban psionics as a matter of course. On other worlds, psionics may be technically legal but there is such prejudice against it that most psionic users hide their abilities.
+#### Psionics
+Restrictions on psionics are common and most worlds ban psionics as a matter of course. On other worlds, psionics may be technically legal but there is such prejudice against it that most psionic users hide their abilities.
 
 Law Level Law Level Weapons Banned Armor
 | 0 | No restrictions – heavy armor and a handy weapon recommended... |  |
@@ -8304,20 +8446,18 @@ Law Level Law Level Weapons Banned Armor
 | 8 | All bladed weapons, stunners| All visible armor |
 |9+| All weapons| All armor
 
-The LAW & TRAVELLERS A planet's Law Level can be used to determine the Travellers' interactions with the law. In each of the following situations, roll 2D, add the listed modifiers and if the total is equal to or lower than the planet's Law Level, the Travellers are investigated or challenged by agents of planetary law enforcement.
+### The Law and Travellers
+A planet's Law Level can be used to determine the Travellers' interactions with the law. In each of the following situations, roll 2D, add the listed modifiers and if the total is equal to or lower than the planet's Law Level, the Travellers are investigated or challenged by agents of planetary law enforcement.
 
-Situation DM Response First approach to a planet +0 Check Offworlders wandering the streets of a city (once per day)
-
-+0 Check
-
-Offworlders acting suspiciously
-
--1 Check
-
-Bar fight -1 Apprehended Shots fired -2 Apprehended Breaking and entering -2 Investigate Firefight involving armored Travellers and military weapons
-
--4 Apprehended
-
+|Situation| DM| Response|
+| -- | :-:| --|
+|First approach to a planet| +0| Check |
+Offworlders wandering the streets of a city (once per day) +0 Check
+Offworlders acting suspiciously -1 Check
+Bar fight -1 Apprehended 
+Shots fired -2 Apprehended 
+Breaking and entering -2 Investigate 
+Firefight involving armored Travellers and military weapons -4 Apprehended
 Murder and carnage -4 Investigate
 
 Check: This result means the Travellers' travel documents and identities are checked, either by a police officer or guard, or electronically by querying the Travellers' comms. A successful Admin or Streetwise check can allay suspicion but if it is failed, the planetary authorities move on to Investigation.
@@ -8374,15 +8514,19 @@ D Poor 1D x Cr10 Unrefined Limited Repair Highport 12+
 
 Scout 8+ Corsair 12+ E Frontier 0 None None Corsair 10+ X No Starport 0 None None Corsair 10+
 
-Quality: This determines both the condition of the port itself and the level of competence of the staff. Quality may vary – it is possible to find a Class D port run by expert engineers or a Class A that has succumbed to decay. Some worlds have entirely inappropriate starports; a world that was once a center of commerce but has now been bypassed by new trade routes, might have a cavernous port capable of handling thousands of freighters now almost abandoned.
+#### Quality
+This determines both the condition of the port itself and the level of competence of the staff. Quality may vary – it is possible to find a Class D port run by expert engineers or a Class A that has succumbed to decay. Some worlds have entirely inappropriate starports; a world that was once a center of commerce but has now been bypassed by new trade routes, might have a cavernous port capable of handling thousands of freighters now almost abandoned.
 
 A frontier installation is just a bare spot of bedrock, marked with a beacon, and is a starport in the most technical sense only.
 
-Berthing Cost: This is the price paid by any ship that wants to land or dock at the starport and is due weekly. Prices can vary wildly between starports but tend to remain stable at each (roll once for each starport and record it for future reference).
+#### Berthing Cost
+This is the price paid by any ship that wants to land or dock at the starport and is due weekly. Prices can vary wildly between starports but tend to remain stable at each (roll once for each starport and record it for future reference).
 
-Fuel: This refers to the fuel available for purchase – either refined or unrefined. Refined fuel costs Cr500 per ton; unrefined fuel costs Cr100 per ton but is risky to use when jumping. Bases have their own fuel-refining ability – see Bases on page 259.
+#### Fuel
+This refers to the fuel available for purchase – either refined or unrefined. Refined fuel costs Cr500 per ton; unrefined fuel costs Cr100 per ton but is risky to use when jumping. Bases have their own fuel-refining ability – see Bases on page 259.
 
-Facilities: These are the starport's repair and construction ability. A shipyard allows for the construction of new vessels. A shipyard capable of building all types of ships can construct small craft (less than 100 tons), spacecraft (100 to 5,000 tons) and capital ships (more than 5,000 tons). However only a Class A starport can construct jump-capable spacecraft.
+#### Facilities
+These are the starport's repair and construction ability. A shipyard allows for the construction of new vessels. A shipyard capable of building all types of ships can construct small craft (less than 100 tons), spacecraft (100 to 5,000 tons) and capital ships (more than 5,000 tons). However only a Class A starport can construct jump-capable spacecraft.
 
 Repair facilities allow a damaged ship to be repaired and have plenty of spare parts for most common systems.
 
@@ -8392,7 +8536,8 @@ Use the following modifiers when determining whether a highport is present: DM+1
 
 Use the following modifiers when determining whether a corsair base is present: DM+2 if Law Level 0, DM–2 if Law Level 2+.
 
-Bases: This lists what sort of bases may be present. Roll 2D for each base type listed; for more details, see Bases on page 259.
+#### Bases
+This lists what sort of bases may be present. Roll 2D for each base type listed; for more details, see Bases on page 259.
 
 ## Tech Levels
 
@@ -8402,9 +8547,11 @@ The Tech Level measures the average technology presence on the planet and gives 
 
 A planet's technology may be one or more levels higher or lower in a particular field, such as Medicine, Communications, Weaponry, Ship Construction, Power Generation, Computers and so forth.
 
-COMMUNICATIONS If the planet is below Tech Level 3, then there will be no telecommunication system whatsoever except for whatever facilities the starport offers. If it is between TL4 and TL6, then it has radio and telephone communications between major cities at least but
+### COMMUNICATIONS
+If the planet is below Tech Level 3, then there will be no telecommunication system whatsoever except for whatever facilities the starport offers. If it is between TL4 and TL6, then it has radio and telephone communications between major cities at least but
 
-CHARTED Space: STARPORTS and The LAW Technically, a starport is Imperial territory and not under the jurisdiction of the planetary government. The local government may share in the construction costs, running costs and profits of the starport but the port is extraterritorial and run by an Imperium-appointed governor. This means that Travellers can carry locally illegal goods onto a planet so long as they do not leave the starport. It also means that criminals and refugees often claim sanctuary in a starport and that a starport's Tech Level may be considerably higher than that of the rest of the planet. Starports operate according to Imperial Law
+CHARTED Space: STARPORTS and The LAW 
+Technically, a starport is Imperial territory and not under the jurisdiction of the planetary government. The local government may share in the construction costs, running costs and profits of the starport but the port is extraterritorial and run by an Imperium-appointed governor. This means that Travellers can carry locally illegal goods onto a planet so long as they do not leave the starport. It also means that criminals and refugees often claim sanctuary in a starport and that a starport's Tech Level may be considerably higher than that of the rest of the planet. Starports operate according to Imperial Law
 (equivalent to Law Level 1 for most items and forbidding all use of psionics).
 
 However, Travellers should be aware that not every world honors this approach and paranoid governments have been known to forcibly board and inspect ships to root out what they see as unpleasant influences.
@@ -8707,12 +8854,12 @@ Additional skills can be added to further specialize a character. A scientist, f
 
 | D66 | Target                                                                |
 | :-: | --------------------------------------------------------------------- |
-|  11 | [[#Trade Goods Table\\\|Common Trade Goods (D66 first number is 1)]]  |
-|  12 | [[#Trade Goods Table\\\|Common Trade Goods (D66 first number is 1)]]  |
-|  13 | [[#Trade Goods Table\\\|Random Trade Goods]]                          |
-|  14 | [[#Trade Goods Table\\\|Random Trade Goods]]                          |
-|  15 | [[#Trade Goods Table\\\|Illegal Trade Goods (D66 first number is 6)]] |
-|  16 | [[#Trade Goods Table\\\|Illegal Trade Goods (D66 first number is 6)]] |
+|  11 | [[#Trade Goods Table\|Common Trade Goods (D66 first number is 1)]]  |
+|  12 | [[#Trade Goods Table\|Common Trade Goods (D66 first number is 1)]]  |
+|  13 | [[#Trade Goods Table\|Random Trade Goods]]                          |
+|  14 | [[#Trade Goods Table\|Random Trade Goods]]                          |
+|  15 | [[#Trade Goods Table\|Illegal Trade Goods (D66 first number is 6)]] |
+|  16 | [[#Trade Goods Table\|Illegal Trade Goods (D66 first number is 6)]] |
 |  21 | Computer Data                                                         |
 |  22 | Alien Artefact                                                        |
 |  23 | Personal Effects                                                      |
@@ -8927,7 +9074,7 @@ Roll D66, applying the following DMs from the [[#Space Encounters Location Modif
 |  13 | Space Station (1–4: Derelict, 5–6: Operational)                                             |   |
 |  14 | Comet (May be Ancient Derelict at its Core)                                                 |   |
 |  15 | Ore-Bearing Asteroid                                                                        |   |
-|  16 | <font color="#ffc000">[[#Distress Signal\\\|Ship in Distress]]</font> (Roll Again for Type) |   |
+|  16 | <font color="#ffc000">[[#Distress Signal\|Ship in Distress]]</font> (Roll Again for Type) |   |
 |  21 | <font color="#ffc000">[[#Pirates]]</font>                                                   |   |
 |  22 | Free Trader                                                                                 |   |
 |  23 | Micrometeorite Storm (<font color="#ffc000">[[#Collision!]]</font>)                         |   |
@@ -8941,7 +9088,7 @@ Roll D66, applying the following DMs from the [[#Space Encounters Location Modif
 |  35 | Safari or Science Vessel                                                                    |   |
 |  36 | Escape Pod                                                                                  |   |
 |  41 | Passenger Liner                                                                             |   |
-|  42 | <font color="#ffc000">[[#Distress Signal\\\|Ship in Distress]]</font> (Roll Again for Type) |   |
+|  42 | <font color="#ffc000">[[#Distress Signal\|Ship in Distress]]</font> (Roll Again for Type) |   |
 |  43 | Colony Ship or Passenger Liner                                                              |   |
 |  44 | Scout Ship                                                                                  |   |
 |  45 | Space Station                                                                               |   |

@@ -2,7 +2,7 @@
 date created: 2024-08-13 07:30
 aliases:
   - Traveller Core Rulebook Update 2022
-date updated: 2024-08-14 07:37
+date updated: 2024-08-16 07:45
 tags:
   - '#TODO'
 ---
@@ -682,13 +682,13 @@ You work for a corporation, spying on rival organizations.
 ### Agent Skills and Training
 
 | 1D | Personal<br/>Development | Service<br/>Skills | Advanced<br/>Education (EDU 8+) |
-| :- | ------------------ | -------------- | ------------------------------- |
-| 1  |      Gun Combat      | Streetwise     | Advocate                        |
-| 2  |        DEX +1        | Drive          | Language                        |
-| 3  |        END +1        | Investigate    | Explosives                      |
-| 4  |         Melee        | Flyer          | Medic                           |
-| 5  |        INT +1        | Recon          | Vacc Suit                       |
-| 6  |       Athletics      | Gun Combat     | Electronics                     |
+| :- | ------------------------ | ------------------ | ------------------------------- |
+| 1  | Gun Combat               | Streetwise         | Advocate                        |
+| 2  | DEX +1                   | Drive              | Language                        |
+| 3  | END +1                   | Investigate        | Explosives                      |
+| 4  | Melee                    | Flyer              | Medic                           |
+| 5  | INT +1                   | Recon              | Vacc Suit                       |
+| 6  | Athletics                | Gun Combat         | Electronics                     |
 
 | 1D | Law Enforcement | Intelligence        | Corporate               |
 | :- | --------------- | ------------------- | ----------------------- |
@@ -715,7 +715,7 @@ You work for a corporation, spying on rival organizations.
 
 |  2D | Event                                                                                                                                                                                                                                                                    |
 | :-: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  2  | Disaster! Roll on the [[#Agent Mishap table]] but you are not ejected from this career.                                                                                                                                                                                             |
+|  2  | Disaster! Roll on the [[#Agent Mishap table]] but you are not ejected from this career.                                                                                                                                                                                  |
 |  3  | An investigation takes on a dangerous turn. Roll Investigate 8+ or Streetwise 8+. If you fail, roll on the Mishap table. If you succeed, increase one of these skills by one level: Deception, Jack-of-all-Trades, Persuade or Tactics.                                  |
 |  4  | You complete a mission for your superiors and are suitably rewarded. Gain DM+1 to any one Benefit roll from this career.                                                                                                                                                 |
 |  5  | You establish a network of contacts. Gain D3 Contacts.                                                                                                                                                                                                                   |
@@ -731,13 +731,12 @@ You work for a corporation, spying on rival organizations.
 
 |  1D | Mishap                                                                                                                                                                                                                                                                                                                 |   |
 | :-: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
-|  1  | Severely injured (this is the same as a [[#^result-of-2\|result of 2]] on the [[#Injury Table]]). Alternatively, roll twice on the [[#Injury Table]] and take the lower result.                                                                                                         |   |
+|  1  | Severely injured (this is the same as a [[#^result-of-2\|result of 2]] on the [[#Injury Table]]). Alternatively, roll twice on the [[#Injury Table]] and take the lower result.                                                                                                                                      |   |
 |  2  | A criminal or other figure under investigation offers you a deal. Accept and you leave this career without further penalty (although you lose the Benefit roll as normal). Refuse and you must roll twice on the [[#Injury Table]] and take the lower result. You gain an Enemy and one level in any skill you choose. |   |
 |  3  | An investigation goes critically wrong or leads to the top, ruining your career. Roll Advocate 8+. If you succeed, you may keep the Benefit roll from this term. If you roll 2, you must take the Prisoner career in your next term.                                                                                   |   |
 |  4  | You learn something you should not know and people want to kill you for it. Gain an Enemy and Deception 1.                                                                                                                                                                                                             |   |
 |  5  | Your work ends up coming home with you and someone gets hurt. Choose one of your Contacts, Allies or family members and roll twice on the [[#Injury Table]] for them, taking the lower result.                                                                                                                         |   |
 |  6  | Injured. Roll on the [[#Injury Table]].                                                                                                                                                                                                                                                                                |   |
-
 
 ### Agent Mustering Out Benefits
 
@@ -777,85 +776,82 @@ You are one of the crew of a gunship or tank.
 
 ### Army Career Progress
 
-| Assignment     | Survival | Advancement |
-| -------------- | :------: | :---------: |
-| Support |END 5+ |  EDU 7+  |             
-| Infantry       |  STR 6+  |    EDU 6+   |
-| Cavalry        |  DEX 7+  |    INT 5+   |
+| Assignment | Survival | Advancement |
+| ---------- | :------: | :---------: |
+| Support    |  END 5+  |    EDU 7+   |
+| Infantry   |  STR 6+  |    EDU 6+   |
+| Cavalry    |  DEX 7+  |    INT 5+   |
 
 ### Army Skills and Training
 
-| 1D | Personal<br/>Development | Service<br/>Skills | Advanced<br/>Education (EDU 8+) | Officer<br/>(Commissioned Only) |
-| :-: | ------------------ | -------------- | ------------------------------- | --------------------------- |
-| 1 | STR +1  | Drive or Vacc Suit | Tactics (military) |  Tactics (military) |
-| 2 | DEX +1 |  Athletics  | Electronics  | Leadership |
-| 3 | END +1 |  Gun Combat |  Navigation |  Advocate |
-| 4 | Gambler |  Recon  | Explosive |  Diplomat |
-| 5 | Medic |  Melee |  Engineer | Electronics |
-| 6 | Melee  | Heavy Weapons |  Survival  | Admin |
+|  1D | Personal<br/>Development | Service<br/>Skills | Advanced<br/>Education (EDU 8+) | Officer<br/>(Commissioned Only) |
+| :-: | ------------------------ | ------------------ | ------------------------------- | ------------------------------- |
+|  1  | STR +1                   | Drive or Vacc Suit | Tactics (military)              | Tactics (military)              |
+|  2  | DEX +1                   | Athletics          | Electronics                     | Leadership                      |
+|  3  | END +1                   | Gun Combat         | Navigation                      | Advocate                        |
+|  4  | Gambler                  | Recon              | Explosive                       | Diplomat                        |
+|  5  | Medic                    | Melee              | Engineer                        | Electronics                     |
+|  6  | Melee                    | Heavy Weapons      | Survival                        | Admin                           |
 
-| 1D|  SUPPORT|  INFANTRY|  CAVALRY| 
-| :-: | ------------------ | -------------- | ------------------------------- |
-| 1 | Mechanic  | Gun Combat  | Mechanic |
-| 2 | Drive or Flyer |  Melee  | Drive |
-| 3 | Profession |  Heavy Weapons |  Flyer |
-| 4 | Explosives |  Stealth  | Recon |
-| 5 | Electronics (comms)  | Athletics |  Heavy Weapons (vehicle) |
-| 6 | Medic |  Recon  | Electronics (sensors) |
+|  1D | SUPPORT             | INFANTRY      | CAVALRY                 |
+| :-: | ------------------- | ------------- | ----------------------- |
+|  1  | Mechanic            | Gun Combat    | Mechanic                |
+|  2  | Drive or Flyer      | Melee         | Drive                   |
+|  3  | Profession          | Heavy Weapons | Flyer                   |
+|  4  | Explosives          | Stealth       | Recon                   |
+|  5  | Electronics (comms) | Athletics     | Heavy Weapons (vehicle) |
+|  6  | Medic               | Recon         | Electronics (sensors)   |
 
 ### Army Ranks and Bonuses
 
-|Rank |Enlisted|Enlisted Skill or Bonus|Officer|Officer Skill or Bonus|
-| :-: | ------------------ | -------------- | ------------------------------- |--|
-| 0 | Private  | Gun Combat 1 |||
-| 1 | Lance Corporal  | Recon 1 | Lieutenant  | Leadership 1 |
-| 2 | Corporal |  — |Captain |  — |
-| 3 | Lance Sergeant |  Leadership 1 |Major |  Tactics (military) 1 |
-| 4 | Sergeant |  — |Lieutenant Colonel  | — |
-| 5 | Gunnery Sergeant |  — |Colonel | — |
-| 6 | Sergeant Major | — |General |  SOC 10 or SOC +1,<br/>whichever is higher |
+| Rank | Enlisted         | Enlisted Skill or Bonus | Officer            | Officer Skill or Bonus                    |
+| :--: | ---------------- | ----------------------- | ------------------ | ----------------------------------------- |
+|   0  | Private          | Gun Combat 1            |                    |                                           |
+|   1  | Lance Corporal   | Recon 1                 | Lieutenant         | Leadership 1                              |
+|   2  | Corporal         | —                       | Captain            | —                                         |
+|   3  | Lance Sergeant   | Leadership 1            | Major              | Tactics (military) 1                      |
+|   4  | Sergeant         | —                       | Lieutenant Colonel | —                                         |
+|   5  | Gunnery Sergeant | —                       | Colonel            | —                                         |
+|   6  | Sergeant Major   | —                       | General            | SOC 10 or SOC +1,<br/>whichever is higher |
 
 ### Army Event Table
 
-|  2D | Event |
-| :-: | ----- |
-| 2 | Disaster! Roll on the [[#Army Mishap table]] but you are not ejected from this career. |
-| 3 | You are assigned to a planet with a hostile or wild environment. Gain one of Vacc Suit 1, Engineer 1, Animals (riding or training) 1 or Recon 1. |
-| 4 | You are assigned to an urbanised planet torn by war. Gain one of Stealth 1, Streetwise 1, Persuade 1 or Recon 1. |
-| 5 | You are given a special assignment or duty in your unit. Gain DM+1 to any one Benefit roll. |
-| 6 | You are thrown into a brutal ground war. Roll EDU 8+ to avoid injury; if you succeed, you gain one level in Gun Combat or Leadership. |
-| 7 | Life Event. Roll on the [[#Life Events Table]]. |
-| 8 | You are given advanced training in a specialist field. Roll EDU 8+ to increase any one skill you already have by one level. |
-| 9 | Surrounded and outnumbered by the enemy, you hold out until relief arrives. Gain DM+2 to your next advancement roll. |
-| 10 | You are assigned to a peacekeeping role. Gain one of Admin 1, Investigate 1, Deception 1 or Recon 1. |
-| 11 | Your commanding officer takes an interest in your career. Either gain Tactics (military) 1 or DM+4 to your next advancement roll thanks to their aid. |
-| 12 | You display heroism in battle. You may gain a promotion or a commission automatically. |
+|  2D | Event                                                                                                                                                 |
+| :-: | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  2  | Disaster! Roll on the [[#Army Mishap table]] but you are not ejected from this career.                                                                |
+|  3  | You are assigned to a planet with a hostile or wild environment. Gain one of Vacc Suit 1, Engineer 1, Animals (riding or training) 1 or Recon 1.      |
+|  4  | You are assigned to an urbanised planet torn by war. Gain one of Stealth 1, Streetwise 1, Persuade 1 or Recon 1.                                      |
+|  5  | You are given a special assignment or duty in your unit. Gain DM+1 to any one Benefit roll.                                                           |
+|  6  | You are thrown into a brutal ground war. Roll EDU 8+ to avoid injury; if you succeed, you gain one level in Gun Combat or Leadership.                 |
+|  7  | Life Event. Roll on the [[#Life Events Table]].                                                                                                       |
+|  8  | You are given advanced training in a specialist field. Roll EDU 8+ to increase any one skill you already have by one level.                           |
+|  9  | Surrounded and outnumbered by the enemy, you hold out until relief arrives. Gain DM+2 to your next advancement roll.                                  |
+|  10 | You are assigned to a peacekeeping role. Gain one of Admin 1, Investigate 1, Deception 1 or Recon 1.                                                  |
+|  11 | Your commanding officer takes an interest in your career. Either gain Tactics (military) 1 or DM+4 to your next advancement roll thanks to their aid. |
+|  12 | You display heroism in battle. You may gain a promotion or a commission automatically.                                                                |
 
 ### Army Mishap Table
 
-|  1D | Mishap |
-| :-: | ------ |
-| 1 | Severely injured in action (this is the same as a [[#^result-of-2\|result of 2]] on the [[#Injury Table]]). Alternatively, roll twice on the [[#Injury Table]] and take the lower result. |
-| 2 | Your unit is slaughtered in a disastrous battle, for which you blame your commander. Gain them as an Enemy as they have you removed from the service. |
-| 3 | You are sent to a very unpleasant region (jungle, swamp, desert, icecap, urban) to battle against guerrilla fighters and rebels. You are discharged because of stress, injury or because the government wishes to bury the whole incident. Increase Recon or Survival by one level but also gain the rebels as an Enemy. |
-| 4 | You discover that your commanding officer is engaged in some illegal activity, such as weapon smuggling. You can join their ring and gain them as an Ally before the inevitable investigation gets you discharged or you can co-operate with the military police – the official whitewash gets you discharged anyway but you may keep your Benefit roll from this term of service. |
-| 5 | You are tormented by or quarrel with an officer or fellow soldier. Gain that officer as a Rival as they drive you out of the service. |
-| 6 | Injured. Roll on the [[#Injury Table]]. |
-
+|  1D | Mishap                                                                                                                                                                                                                                                                                                                                                                             |
+| :-: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  1  | Severely injured in action (this is the same as a [[#^result-of-2\|result of 2]] on the [[#Injury Table]]). Alternatively, roll twice on the [[#Injury Table]] and take the lower result.                                                                                                                                                                                        |
+|  2  | Your unit is slaughtered in a disastrous battle, for which you blame your commander. Gain them as an Enemy as they have you removed from the service.                                                                                                                                                                                                                              |
+|  3  | You are sent to a very unpleasant region (jungle, swamp, desert, icecap, urban) to battle against guerrilla fighters and rebels. You are discharged because of stress, injury or because the government wishes to bury the whole incident. Increase Recon or Survival by one level but also gain the rebels as an Enemy.                                                           |
+|  4  | You discover that your commanding officer is engaged in some illegal activity, such as weapon smuggling. You can join their ring and gain them as an Ally before the inevitable investigation gets you discharged or you can co-operate with the military police – the official whitewash gets you discharged anyway but you may keep your Benefit roll from this term of service. |
+|  5  | You are tormented by or quarrel with an officer or fellow soldier. Gain that officer as a Rival as they drive you out of the service.                                                                                                                                                                                                                                              |
+|  6  | Injured. Roll on the [[#Injury Table]].                                                                                                                                                                                                                                                                                                                                            |
 
 ### Army Mustering Out Benefits Table
 
-|  1D | Cash | Benefits |
-| :-: | :--: | -------- |
-| 1 | Cr2000 |  Cybernetic Implant |
-| 2 | Cr5000 |  INT +1 |
-| 3 | Cr10000 |  EDU +1 |
-| 4 | Cr10000 |  Weapon |
-| 5 | Cr10000 |  Armor |
-| 6 | Cr20000  | END +1 or Cybernetic Implant |
-| 7 | Cr30000  | SOC +1 |
-
-
+|  1D |   Cash  | Benefits                     |
+| :-: | :-----: | ---------------------------- |
+|  1  |  Cr2000 | Cybernetic Implant           |
+|  2  |  Cr5000 | INT +1                       |
+|  3  | Cr10000 | EDU +1                       |
+|  4  | Cr10000 | Weapon                       |
+|  5  | Cr10000 | Armor                        |
+|  6  | Cr20000 | END +1 or Cybernetic Implant |
+|  7  | Cr30000 | SOC +1                       |
 
 ## Citizen
 
@@ -883,85 +879,82 @@ Note: Use you assignment skill table for basic training, not service skills.
 
 ### Citizen Career Progress
 
-| Assignment                                                          | Survival | Advancement |
-| ------------------------------------------------------------------- | :------: | :---------: |
-| Corporate| SOC 6+ | INT 6+ | 
-| Worker | END 4+|  EDU 8+ | 
-| Colonist|  INT 7+ | END 5+ | 
+| Assignment | Survival | Advancement |
+| ---------- | :------: | :---------: |
+| Corporate  |  SOC 6+  |    INT 6+   |
+| Worker     |  END 4+  |    EDU 8+   |
+| Colonist   |  INT 7+  |    END 5+   |
 
 ### Citizen Skills and Training
 
+|  1D | Personal<br/>Development | Service<br/>Skills | Advanced<br/>Education (EDU 10+) |
+| :-: | ------------------------ | ------------------ | -------------------------------- |
+|  1  | EDU +1                   | Drive              | Art                              |
+|  2  | INT +1                   | Flyer              | Advocate                         |
+|  3  | Carouse                  | Streetwise         | Diplomat                         |
+|  4  | Gambler                  | Melee              | Language                         |
+|  5  | Drive                    | Steward            | Electronics (computers)          |
+|  6  | Jack-of-all-Trades       | Profession         | Medic                            |
 
-| 1D | Personal<br/>Development | Service<br/>Skills | Advanced<br/>Education (EDU 10+) |
-| :-: | ------------------ | -------------- | -------------------------------- |
-| 1 | EDU +1 |  Drive |  Art |
-| 2 | INT +1  | Flyer |  Advocate |
-| 3 | Carouse  | Streetwise  | Diplomat |
-| 4 | Gambler |  Melee  | Language |
-| 5 | Drive |  Steward  | Electronics (computers) |
-| 6 | Jack-of-all-Trades |  Profession |  Medic |
-
-| 1D  | CORPORATE  | WORKER  | COLONIST | 
-| :-: | ------------------ | -------------- | -------------------------------- |
-| 1 | Advocate  | Drive |  Animals |
-| 2 | Admin |  Mechanic |  Athletics |
-| 3 | Broker |  Electronics |  Jack-of-all-Trades |
-| 4 | Electronics (computers)  | Engineer |  Drive |
-| 5 | Diplomat  | Profession |  Survival |
-| 6 | Leadership  | Science  | Recon |
+|  1D | CORPORATE               | WORKER      | COLONIST           |
+| :-: | ----------------------- | ----------- | ------------------ |
+|  1  | Advocate                | Drive       | Animals            |
+|  2  | Admin                   | Mechanic    | Athletics          |
+|  3  | Broker                  | Electronics | Jack-of-all-Trades |
+|  4  | Electronics (computers) | Engineer    | Drive              |
+|  5  | Diplomat                | Profession  | Survival           |
+|  6  | Leadership              | Science     | Recon              |
 
 ### Citizen Ranks and Bonuses
 
-|Rank| Corporate | Corporate Skill or Bonus| Worker|Worker Skill or Bonus|Colonist|Colonist Skill or Bonus|
-|:-:| --|--|--|--|--|--|
-| 0 | — |  — |— |  — |— |  — |
-| 1 | — |  — |— |  — |— |  — |
-| 2 | Manager  | Admin 1 | Technician  | Profession 1 |Settler  | Survival 1 |
-| 3 | — |  — |— |  — |— |  — |
-| 4 | Senior Manager |  Advocate 1 | Craftsman  | Mechanic 1 |Explorer  | Navigation 1 |
-| 5 | — |  — |
-| 6 | Director  | SOC +1 |Master Technician |  Engineer 1 | —  | Gun Combat 1 |
-
+| Rank | Corporate      | Corporate Skill or Bonus | Worker            | Worker Skill or Bonus | Colonist | Colonist Skill or Bonus |
+| :--: | -------------- | ------------------------ | ----------------- | --------------------- | -------- | ----------------------- |
+|   0  | —              | —                        | —                 | —                     | —        | —                       |
+|   1  | —              | —                        | —                 | —                     | —        | —                       |
+|   2  | Manager        | Admin 1                  | Technician        | Profession 1          | Settler  | Survival 1              |
+|   3  | —              | —                        | —                 | —                     | —        | —                       |
+|   4  | Senior Manager | Advocate 1               | Craftsman         | Mechanic 1            | Explorer | Navigation 1            |
+|   5  | —              | —                        |                   |                       |          |                         |
+|   6  | Director       | SOC +1                   | Master Technician | Engineer 1            | —        | Gun Combat 1            |
 
 ### Citizen Event Table
 
-|  2D | Event |
-| :-: | ----- |
-| 2 | Disaster! Roll on the [[#Citizen Mishap table]] but you are not ejected from this career. |
-| 3 | Political upheaval strikes your homeworld and you are caught up in the revolution. Gain either Advocate 1, Persuade 1, Explosives 1 or Streetwise 1. Roll whichever skill you chose 8+. If you succeed you come out on the winning side and gain DM+2 to your next advancement roll. Fail and you suffer DM-2 to your next Survival roll. |
-| 4 | You spend time maintaining and using heavy vehicles, either as part of your job or as a hobby. Increase Mechanic, Drive, Electronics, Flyer or Engineer by one level. |
-| 5 | Your business expands, your corporation grows or the colony thrives. Gain DM+1 to any one Benefit roll. |
-| 6 | You are given advanced training in a specialist field. Roll EDU 10+ to gain any one skill of your choice at level 1. |
-| 7 | Life Event. Roll on the [[#Life Events Table]]. |
-| 8 | You learn something you should not have – a corporate secret, a political scandal – which you can profit from illegally. If you choose to do so, then you gain DM+1 to a Benefit roll from this career and gain Streetwise 1, Deception 1 or a criminal Contact. If you refuse, you gain nothing. |
-| 9 | You are rewarded for your diligence or cunning. Gain DM+2 to your next advancement roll. |
-| 10 | You gain experience in a technical field as a computer operator or surveyor. Increase Electronics or Engineer by one level. |
-| 11 | You befriend a superior in the corporation or the colony. Gain an Ally. Either gain Diplomat 1 or DM+4 to your next advancement roll thanks to their aid. |
-| 12 | You rise to a position of power in your colony or corporation. You are automatically promoted. |
+|  2D | Event                                                                                                                                                                                                                                                                                                                                     |
+| :-: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  2  | Disaster! Roll on the [[#Citizen Mishap table]] but you are not ejected from this career.                                                                                                                                                                                                                                                 |
+|  3  | Political upheaval strikes your homeworld and you are caught up in the revolution. Gain either Advocate 1, Persuade 1, Explosives 1 or Streetwise 1. Roll whichever skill you chose 8+. If you succeed you come out on the winning side and gain DM+2 to your next advancement roll. Fail and you suffer DM-2 to your next Survival roll. |
+|  4  | You spend time maintaining and using heavy vehicles, either as part of your job or as a hobby. Increase Mechanic, Drive, Electronics, Flyer or Engineer by one level.                                                                                                                                                                     |
+|  5  | Your business expands, your corporation grows or the colony thrives. Gain DM+1 to any one Benefit roll.                                                                                                                                                                                                                                   |
+|  6  | You are given advanced training in a specialist field. Roll EDU 10+ to gain any one skill of your choice at level 1.                                                                                                                                                                                                                      |
+|  7  | Life Event. Roll on the [[#Life Events Table]].                                                                                                                                                                                                                                                                                           |
+|  8  | You learn something you should not have – a corporate secret, a political scandal – which you can profit from illegally. If you choose to do so, then you gain DM+1 to a Benefit roll from this career and gain Streetwise 1, Deception 1 or a criminal Contact. If you refuse, you gain nothing.                                         |
+|  9  | You are rewarded for your diligence or cunning. Gain DM+2 to your next advancement roll.                                                                                                                                                                                                                                                  |
+|  10 | You gain experience in a technical field as a computer operator or surveyor. Increase Electronics or Engineer by one level.                                                                                                                                                                                                               |
+|  11 | You befriend a superior in the corporation or the colony. Gain an Ally. Either gain Diplomat 1 or DM+4 to your next advancement roll thanks to their aid.                                                                                                                                                                                 |
+|  12 | You rise to a position of power in your colony or corporation. You are automatically promoted.                                                                                                                                                                                                                                            |
 
 ### Citizen Mishap Table
 
-|  1D | Mishap |
-| :-: | ------ |
-| 1 | Severely injured (this is the same as a [[#^result-of-2\|result of 2]] on the [[#Injury Table]]). Alternatively, roll twice on the [[#Injury Table]] and take the lower result. |
-| 2 | You are harassed and your life ruined by a criminal gang. Gain the gang as an Enemy. |
-| 3 | Hard times caused by a lack of interstellar trade costs you your job. Lose one SOC. |
-| 4 | Your business is investigated by the planetary authorities (or your colony suffers interference from interests offworld). Co-operate and the business or colony is shut down but you gain DM+2 to the qualification roll for your next career as a reward for your aid. Refuse and gain an Ally. |
-| 5 | A revolution, attack or other unusual event throws your life into chaos, forcing you to leave the planet. Roll Streetwise 8+. If you succeed, increase any skill you have by one level. |
-| 6 | Injured. Roll on the [[#Injury Table]]. |
+|  1D | Mishap                                                                                                                                                                                                                                                                                           |
+| :-: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  1  | Severely injured (this is the same as a [[#^result-of-2\|result of 2]] on the [[#Injury Table]]). Alternatively, roll twice on the [[#Injury Table]] and take the lower result.                                                                                                                |
+|  2  | You are harassed and your life ruined by a criminal gang. Gain the gang as an Enemy.                                                                                                                                                                                                             |
+|  3  | Hard times caused by a lack of interstellar trade costs you your job. Lose one SOC.                                                                                                                                                                                                              |
+|  4  | Your business is investigated by the planetary authorities (or your colony suffers interference from interests offworld). Co-operate and the business or colony is shut down but you gain DM+2 to the qualification roll for your next career as a reward for your aid. Refuse and gain an Ally. |
+|  5  | A revolution, attack or other unusual event throws your life into chaos, forcing you to leave the planet. Roll Streetwise 8+. If you succeed, increase any skill you have by one level.                                                                                                          |
+|  6  | Injured. Roll on the [[#Injury Table]].                                                                                                                                                                                                                                                          |
 
 ### Citizen Mustering Out Benefits Table
 
-|  1D | Cash | Benefits |
-| :-: | :--: | -------- |
-| 1 | Cr2000  | Ship Share |
-| 2 | Cr5000 |  Ally |
-| 3 | Cr10000 |  INT +1 |
-| 4 | Cr10000 |  Gun |
-| 5 | Cr10000 |  EDU +1 |
-| 6 | Cr50000 |  Two Ship Shares |
-| 7 | Cr100000 |  TAS Membership |
-
+|  1D |   Cash   | Benefits        |
+| :-: | :------: | --------------- |
+|  1  |  Cr2000  | Ship Share      |
+|  2  |  Cr5000  | Ally            |
+|  3  |  Cr10000 | INT +1          |
+|  4  |  Cr10000 | Gun             |
+|  5  |  Cr10000 | EDU +1          |
+|  6  |  Cr50000 | Two Ship Shares |
+|  7  | Cr100000 | TAS Membership  |
 
 ## Drifter
 
@@ -989,67 +982,64 @@ Note: Use you assignment skill table for basic training, not service skills.
 
 ### Drifter Career Progress
 
-| Assignment                                                             | Survival | Advancement |
-| ---------------------------------------------------------------------- | :------: | :---------: |
-| Barbarian |END 7+| STR 7+| 
-|Wanderer |END 7+| INT 7+|
-|Scavenger |DEX 7+| END 7+|
-### Drifter Skills and Training
-
+| Assignment                      | Survival | Advancement |
+| ------------------------------- | :------: | :---------: |
+| Barbarian                       |  END 7+  |    STR 7+   |
+| Wanderer                        |  END 7+  |    INT 7+   |
+| Scavenger                       |  DEX 7+  |    END 7+   |
+| ### Drifter Skills and Training |          |             |
 
 |  1D | Personal<br/>Development | Service<br/>Skills |
-| :-: | ------------------ | -------------- |
-| 1 | STR +1 |Athletics |
-| 2 | END +1 |Melee (unarmed) |
-| 3 | DEX +1 |Recon |
-| 4 | Language |Streetwise |
-| 5 | Profession |Stealth |
-| 6 | Jack-of-all-Trades |Survival |
+| :-: | ------------------------ | ------------------ |
+|  1  | STR +1                   | Athletics          |
+|  2  | END +1                   | Melee (unarmed)    |
+|  3  | DEX +1                   | Recon              |
+|  4  | Language                 | Streetwise         |
+|  5  | Profession               | Stealth            |
+|  6  | Jack-of-all-Trades       | Survival           |
 
-|1D| BARBARIAN| WANDERER| SCAVENGER|
-| :-: | ------------------ | -------------- | ------------------  |
-| 1 | Animals |Drive |Pilot (small craft) |
-| 2 | Carouse |Deception |Mechanic |
-| 3 | Melee (blade) |Recon |Astrogation |
-| 4 | Stealth| Stealth |Vacc Suit |
-| 5 | Seafarer (personal or sail) |Streetwise| Profession |
-| 6 | Survival |Survival|Gun Combat |
+|  1D | BARBARIAN                   | WANDERER   | SCAVENGER           |
+| :-: | --------------------------- | ---------- | ------------------- |
+|  1  | Animals                     | Drive      | Pilot (small craft) |
+|  2  | Carouse                     | Deception  | Mechanic            |
+|  3  | Melee (blade)               | Recon      | Astrogation         |
+|  4  | Stealth                     | Stealth    | Vacc Suit           |
+|  5  | Seafarer (personal or sail) | Streetwise | Profession          |
+|  6  | Survival                    | Survival   | Gun Combat          |
 
 ### Drifter Ranks and Bonuses
 
-|Rank| Barbarian|Barbarian<br/>Skill or Bonus| Wanderer|Wanderer<br/>Skill or Bonus|Scavenger|Scavenger<br/>Skill or Bonus|
-|:-:|--|--|--|--|--|--|
-| 0 | — |— |—| — | —| — |
-| 1 | —|Survival 1 |—| Streetwise 1 |— |Vacc Suit 1 |
-| 2 | Warrior |Melee (blade) 1 |—| — | —| — |
-| 3 | —| — | —| Deception 1 | — |Profession (belter) 1 or  Mechanic 1|
-| 4 | Chieftain |Leadership 1 | — |— | —| — |
-| 5 | — |— | —| — | —| — |
-| 6 | Warlord| — | —| — | —| — |
+| Rank | Barbarian | Barbarian<br/>Skill or Bonus | Wanderer | Wanderer<br/>Skill or Bonus | Scavenger | Scavenger<br/>Skill or Bonus         |
+| :--: | --------- | ---------------------------- | -------- | --------------------------- | --------- | ------------------------------------ |
+|   0  | —         | —                            | —        | —                           | —         | —                                    |
+|   1  | —         | Survival 1                   | —        | Streetwise 1                | —         | Vacc Suit 1                          |
+|   2  | Warrior   | Melee (blade) 1              | —        | —                           | —         | —                                    |
+|   3  | —         | —                            | —        | Deception 1                 | —         | Profession (belter) 1 or  Mechanic 1 |
+|   4  | Chieftain | Leadership 1                 | —        | —                           | —         | —                                    |
+|   5  | —         | —                            | —        | —                           | —         | —                                    |
+|   6  | Warlord   | —                            | —        | —                           | —         | —                                    |
 
 ### Drifter Event Table
 
-|  2D | Event |
-| :-: | ----- |
-| 2 | Disaster! Roll on the [[#Drifter Mishap Table]] but you are not ejected from this career. |
-| 3 | A patron offers you a chance at a job. If you accept, you gain DM+4 to your next qualification roll but you owe that patron a favor. |
-| 4 | You pick up a few useful skills here and there. Gain one level of Jack-of-all-Trades, Survival, Streetwise or Melee (any). |
-| 5 | You manage to scavenge something of use. Gain DM+1 to any one Benefit roll. |
-| 6 | You encounter something unusual. Go to the [[#Life Events Table]] and have an [[#Unusual Event]]. |
-| 7 | Life Event. Roll on the [[#Life Events Table]]. |
-| 8 | You are attacked by enemies. Gain an Enemy if you do not have one already and roll either Melee 8+, Gun Combat 8+ or Stealth 8+ to avoid a roll on the [[#Injury Table]]. |
-| 9 | You are offered a chance to take part in a risky but rewarding adventure.<br/>If you accept, roll 1D:<br/>On a 1–2, you are injured or arrested; either roll on the [[#Injury Table]] or take the [[#Prisoner]] career in your next term.<br/>On 3–4, you survive, but gain nothing.<br/>On a 5–6, you succeed. Gain DM+4 to one Benefit roll. |
-| 10 | Life on the edge hones your abilities. Increase any skill you already have by one level. |
-| 11 | You are forcibly drafted. Roll for the [[#Draft Table\|Draft]] next term. |
-| 12 | You thrive on adversity. You are automatically promoted. |
-
-
+|  2D | Event                                                                                                                                                                                                                                                                                                                                          |
+| :-: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  2  | Disaster! Roll on the [[#Drifter Mishap Table]] but you are not ejected from this career.                                                                                                                                                                                                                                                      |
+|  3  | A patron offers you a chance at a job. If you accept, you gain DM+4 to your next qualification roll but you owe that patron a favor.                                                                                                                                                                                                           |
+|  4  | You pick up a few useful skills here and there. Gain one level of Jack-of-all-Trades, Survival, Streetwise or Melee (any).                                                                                                                                                                                                                     |
+|  5  | You manage to scavenge something of use. Gain DM+1 to any one Benefit roll.                                                                                                                                                                                                                                                                    |
+|  6  | You encounter something unusual. Go to the [[#Life Events Table]] and have an [[#Unusual Event]].                                                                                                                                                                                                                                              |
+|  7  | Life Event. Roll on the [[#Life Events Table]].                                                                                                                                                                                                                                                                                                |
+|  8  | You are attacked by enemies. Gain an Enemy if you do not have one already and roll either Melee 8+, Gun Combat 8+ or Stealth 8+ to avoid a roll on the [[#Injury Table]].                                                                                                                                                                      |
+|  9  | You are offered a chance to take part in a risky but rewarding adventure.<br/>If you accept, roll 1D:<br/>On a 1–2, you are injured or arrested; either roll on the [[#Injury Table]] or take the [[#Prisoner]] career in your next term.<br/>On 3–4, you survive, but gain nothing.<br/>On a 5–6, you succeed. Gain DM+4 to one Benefit roll. |
+|  10 | Life on the edge hones your abilities. Increase any skill you already have by one level.                                                                                                                                                                                                                                                       |
+|  11 | You are forcibly drafted. Roll for the [[#Draft Table\|Draft]] next term.                                                                                                                                                                                                                                                                    |
+|  12 | You thrive on adversity. You are automatically promoted.                                                                                                                                                                                                                                                                                       |
 
 ### Drifter Mishap Table
 
-| 1D  | Mishap                                                                                                                                                                                                                                                                                                                                                        |
+|  1D | Mishap                                                                                                                                                                                                                                                                                                                                                        |
 | :-: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  1  | Severely injured (this is the same as a [[#^result-of-2\|result of 2]] on the [[#Injury Table]]). Alternatively, roll twice on the [[#Injury Table]] and take the lower result.                                                                                                                                                                               |
+|  1  | Severely injured (this is the same as a [[#^result-of-2\|result of 2]] on the [[#Injury Table]]). Alternatively, roll twice on the [[#Injury Table]] and take the lower result.                                                                                                                                                                             |
 |  2  | Injured. Roll on the [[#Injury Table]].                                                                                                                                                                                                                                                                                                                       |
 |  3  | You run afoul of a criminal gang, corrupt bureaucrat or other foe. Gain an Enemy.                                                                                                                                                                                                                                                                             |
 |  4  | You suffer from a life-threatening illness. Reduce your END by 1.                                                                                                                                                                                                                                                                                             |
@@ -1058,15 +1048,15 @@ Note: Use you assignment skill table for basic training, not service skills.
 
 ### Drifter Mustering Out Benefits Table
 
-|  1D | Cash | Benefits |
-| :-: | :--: | -------- |
-| 1 | None |Contact |
-| 2 | None |Weapon |
-| 3 | Cr1000 |Ally |
-| 4 | Cr2000|Weapon |
-| 5 | Cr3000 |EDU +1 |
-| 6 | Cr4000| Ship Share |
-| 7 | Cr8000 |Two Ship Shares |
+|  1D |  Cash  | Benefits        |
+| :-: | :----: | --------------- |
+|  1  |  None  | Contact         |
+|  2  |  None  | Weapon          |
+|  3  | Cr1000 | Ally            |
+|  4  | Cr2000 | Weapon          |
+|  5  | Cr3000 | EDU +1          |
+|  6  | Cr4000 | Ship Share      |
+|  7  | Cr8000 | Two Ship Shares |
 
 ## Entertainer
 
@@ -1092,81 +1082,81 @@ You are an actor, dancer, acrobat, professional athlete or other public performe
 
 ### Entertainer Career Progress
 
-| Assignment                                                            | Survival | Advancement |
-| --------------------------------------------------------------------- | :------: | :---------: |
-| Artist|  SOC 6+|  INT 6+|  
-| Journalist | EDU 7+|  INT 5+| 
-| Performer | INT 5+|  DEX 7+ |
+| Assignment | Survival | Advancement |
+| ---------- | :------: | :---------: |
+| Artist     |  SOC 6+  |    INT 6+   |
+| Journalist |  EDU 7+  |    INT 5+   |
+| Performer  |  INT 5+  |    DEX 7+   |
 
 ### Entertainer Skills and Training
 
-| 1D  | Personal<br/>Development | Service<br/>Skills | Advanced<br/>Education (EDU 10+) |  
-| :-: | ------------------------ | ------------------ | -------------------------------- | 
-|  1  | DEX +1                   | Art                | Advocate                         | 
-|  2  | INT +1                   | Carouse            | Broker                           | 
-|  3  | SOC +1                   | Deception          | Deception                        |     
-|  4  | Language                 | Drive              | Science                          |     
-|  5  | Carouse                  | Persuade           | Streetwise                       |     
-|  6  | Jack-of-all-Trades       | Steward            | Diplomat                         |     
+|  1D | Personal<br/>Development | Service<br/>Skills | Advanced<br/>Education (EDU 10+) |
+| :-: | ------------------------ | ------------------ | -------------------------------- |
+|  1  | DEX +1                   | Art                | Advocate                         |
+|  2  | INT +1                   | Carouse            | Broker                           |
+|  3  | SOC +1                   | Deception          | Deception                        |
+|  4  | Language                 | Drive              | Science                          |
+|  5  | Carouse                  | Persuade           | Streetwise                       |
+|  6  | Jack-of-all-Trades       | Steward            | Diplomat                         |
 
-| 1D | ARTIST | JOURNALIST|  PERFORMER| 
-| :-: | ------------------ | -------------- | -------------------------------- |
-| 1 | Art|  Art (holography or write) | Art (performer or instrument) |
-| 2 | Carouse|  Electronics|  Athletics |
-| 3 | Electronics (computers)|  Drive|  Carouse |
-| 4 | Gambler | Investigate | Deception |
-| 5 | Persuade | Recon|  Stealth |
-| 6 | Profession | Streetwise|  Streetwise |
+|  1D | ARTIST                  | JOURNALIST                | PERFORMER                     |
+| :-: | ----------------------- | ------------------------- | ----------------------------- |
+|  1  | Art                     | Art (holography or write) | Art (performer or instrument) |
+|  2  | Carouse                 | Electronics               | Athletics                     |
+|  3  | Electronics (computers) | Drive                     | Carouse                       |
+|  4  | Gambler                 | Investigate               | Deception                     |
+|  5  | Persuade                | Recon                     | Stealth                       |
+|  6  | Profession              | Streetwise                | Streetwise                    |
 
 ### Entertainer Ranks and Bonuses
 
-| Rank|Artist |Artist<br/>Skill or Bonus| Journalist|Journalist<br/>Skill or Bonus|Performer|Performer<br/>Skill or Bonus|
-|:-:| --|--|--|--|--|--|
-| 0 | —| — | — |— | — |— |
-| 1 | —| Art 1 |Freelancer |Electronics (comms) 1| —| DEX +1 |
-| 2 | — |— |Staff Writer| Investigate 1 |— |— |
-| 3 | — |Investigate 1 | — |— |—| STR +1 |
-| 4 | — |— |Correspondent| Persuade 1 | — |— |
-| 5 | Famous Artist| SOC +1 | — |— |Famous Performer |SOC +1 |
-| 6 | — |— | Senior Correspondent| SOC +1|— |— |
+| Rank | Artist        | Artist<br/>Skill or Bonus | Journalist           | Journalist<br/>Skill or Bonus | Performer        | Performer<br/>Skill or Bonus |
+| :--: | ------------- | ------------------------- | -------------------- | ----------------------------- | ---------------- | ---------------------------- |
+|   0  | —             | —                         | —                    | —                             | —                | —                            |
+|   1  | —             | Art 1                     | Freelancer           | Electronics (comms) 1         | —                | DEX +1                       |
+|   2  | —             | —                         | Staff Writer         | Investigate 1                 | —                | —                            |
+|   3  | —             | Investigate 1             | —                    | —                             | —                | STR +1                       |
+|   4  | —             | —                         | Correspondent        | Persuade 1                    | —                | —                            |
+|   5  | Famous Artist | SOC +1                    | —                    | —                             | Famous Performer | SOC +1                       |
+|   6  | —             | —                         | Senior Correspondent | SOC +1                        | —                | —                            |
 
 ### Entertainer Event Table
 
-|  2D | Event |
-| :-: | ----- |
-| 2 | Disaster! Roll on the [[#Entertainer Mishap Table]] but you are not ejected from this career. |
-| 3 | You are invited to take part in a controversial event or exhibition. Roll Art or Investigate 8+. If you succeed, gain one SOC. If you fail, lose one SOC. |
-| 4 | You are a part of your homeworld's celebrity circles. Gain one of Carouse 1, Persuade 1, Steward 1 or a Contact. |
-| 5 | One of your works is especially well received and popular, making you a minor celebrity. Gain DM+1 to any one Benefit roll. |
-| 6 | You gain a patron in the arts. Gain DM+2 to your next advancement roll and an Ally. |
-| 7 | Life Event. Roll on the [[#Life Events Table]]. |
-| 8 | You have the opportunity to criticise or even bring down a questionable political leader on your homeworld. If you refuse and support the leader, you gain nothing. If you accept, gain an Enemy and roll Art or Persuade 8+. If you succeed, gain one level in any skill you already have. If you fail, increase a skill anyway and roll on the [[#Entertainer Mishap Table]]. |
-| 9 | You go on a tour of the sector, visiting several worlds. Gain D3 Contacts. |
-| 10 | One of your pieces of art is stolen and the investigation brings you into the criminal underworld. Gain one of Streetwise 1, Investigate 1, Recon 1 or Stealth 1. |
-| 11 | As an artist, you lead a strange and charmed life. Go to the [[#Life Events Table]] and have an [[#Unusual Event]] |
-| 12 | You win a prestigious prize. You are automatically promoted. |
-### Entertainer Mishap Table
+|              2D              | Event                                                                                                                                                                                                                                                                                                                                                                           |
+| :--------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|               2              | Disaster! Roll on the [[#Entertainer Mishap Table]] but you are not ejected from this career.                                                                                                                                                                                                                                                                                   |
+|               3              | You are invited to take part in a controversial event or exhibition. Roll Art or Investigate 8+. If you succeed, gain one SOC. If you fail, lose one SOC.                                                                                                                                                                                                                       |
+|               4              | You are a part of your homeworld's celebrity circles. Gain one of Carouse 1, Persuade 1, Steward 1 or a Contact.                                                                                                                                                                                                                                                                |
+|               5              | One of your works is especially well received and popular, making you a minor celebrity. Gain DM+1 to any one Benefit roll.                                                                                                                                                                                                                                                     |
+|               6              | You gain a patron in the arts. Gain DM+2 to your next advancement roll and an Ally.                                                                                                                                                                                                                                                                                             |
+|               7              | Life Event. Roll on the [[#Life Events Table]].                                                                                                                                                                                                                                                                                                                                 |
+|               8              | You have the opportunity to criticise or even bring down a questionable political leader on your homeworld. If you refuse and support the leader, you gain nothing. If you accept, gain an Enemy and roll Art or Persuade 8+. If you succeed, gain one level in any skill you already have. If you fail, increase a skill anyway and roll on the [[#Entertainer Mishap Table]]. |
+|               9              | You go on a tour of the sector, visiting several worlds. Gain D3 Contacts.                                                                                                                                                                                                                                                                                                      |
+|              10              | One of your pieces of art is stolen and the investigation brings you into the criminal underworld. Gain one of Streetwise 1, Investigate 1, Recon 1 or Stealth 1.                                                                                                                                                                                                               |
+|              11              | As an artist, you lead a strange and charmed life. Go to the [[#Life Events Table]] and have an [[#Unusual Event]]                                                                                                                                                                                                                                                              |
+|              12              | You win a prestigious prize. You are automatically promoted.                                                                                                                                                                                                                                                                                                                    |
+| ### Entertainer Mishap Table |                                                                                                                                                                                                                                                                                                                                                                                 |
 
-|  1D | Mishap |
-| :-: | ------ |
-| 1 | Severely injured (this is the same as a [[#^result-of-2\|result of 2]] on the [[#Injury Table]]). Alternatively, roll twice on the [[#Injury Table]] and take the lower result. |
-| 2 | You expose or are involved in a scandal of some sort. |
-| 3 | Public opinion turns on you. Reduce your SOC by 1. |
-| 4 | You are betrayed by a peer. One of your Contacts or Allies betrays you, ending your career. That Contact or Ally becomes a Rival or Enemy. If you have no Contacts or Allies, then you are betrayed by someone you never saw coming and still gain a Rival or Enemy. |
-| 5 | An investigation, tour, project or expedition goes wrong, stranding you far from home. Gain one of Survival 1, Pilot 1, Persuade 1 or Streetwise 1. |
-| 6 | You are forced out because of censorship or controversy. What truth did you get too close to? You gain DM+2 to the qualification roll for your next career. |
+|  1D | Mishap                                                                                                                                                                                                                                                               |
+| :-: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  1  | Severely injured (this is the same as a [[#^result-of-2\|result of 2]] on the [[#Injury Table]]). Alternatively, roll twice on the [[#Injury Table]] and take the lower result.                                                                                    |
+|  2  | You expose or are involved in a scandal of some sort.                                                                                                                                                                                                                |
+|  3  | Public opinion turns on you. Reduce your SOC by 1.                                                                                                                                                                                                                   |
+|  4  | You are betrayed by a peer. One of your Contacts or Allies betrays you, ending your career. That Contact or Ally becomes a Rival or Enemy. If you have no Contacts or Allies, then you are betrayed by someone you never saw coming and still gain a Rival or Enemy. |
+|  5  | An investigation, tour, project or expedition goes wrong, stranding you far from home. Gain one of Survival 1, Pilot 1, Persuade 1 or Streetwise 1.                                                                                                                  |
+|  6  | You are forced out because of censorship or controversy. What truth did you get too close to? You gain DM+2 to the qualification roll for your next career.                                                                                                          |
 
 ### Entertainer Mustering Out Benefits Table
 
-|  1D | Cash | Benefits |
-| :-: | :--: | -------- |
-| 1 | None| Contact |
-| 2 | None |SOC +1 |
-| 3 | Cr10000 |Contact |
-| 4 | Cr10000 |SOC +1 |
-| 5 | Cr40000| INT +1 |
-| 6 | Cr40000| Two Ship Shares |
-| 7 | Cr80000 |SOC +1 and EDU +1 |
+|  1D |   Cash  | Benefits          |
+| :-: | :-----: | ----------------- |
+|  1  |   None  | Contact           |
+|  2  |   None  | SOC +1            |
+|  3  | Cr10000 | Contact           |
+|  4  | Cr10000 | SOC +1            |
+|  5  | Cr40000 | INT +1            |
+|  6  | Cr40000 | Two Ship Shares   |
+|  7  | Cr80000 | SOC +1 and EDU +1 |
 
 ## Marine
 
@@ -1200,76 +1190,74 @@ You are kicked out of a spacecraft in high orbit and told to 'capture that plane
 
 ### Marine Skills and Training
 
+|  1D | Personal<br/>Development | Service<br/>Skills | Advanced<br/>Education (EDU 8+) | Officer<br/>(Commissioned Only) |
+| :-: | ------------------------ | ------------------ | ------------------------------- | ------------------------------- |
+|  1  | STR +1                   | Athletics          | Medic                           | Electronics                     |
+|  2  | DEX +1                   | Vacc Suit          | Survival                        | Tactics                         |
+|  3  | END +1                   | Tactics            | Explosives                      | Admin                           |
+|  4  | Gambler                  | Heavy Weapons      | Engineer                        | Advocate                        |
+|  5  | Melee (unarmed)          | Gun Combat         | Pilot                           | Diplomat                        |
+|  6  | Melee (blade)            | Stealth            | Navigation                      | Leadership                      |
 
-| 1D | Personal<br/>Development | Service<br/>Skills | Advanced<br/>Education (EDU 8+) | Officer<br/>(Commissioned Only) |
-| :-: | ------------------ | -------------- | ------------------------------- | --------------------------- |
-| 1 | STR +1  | Athletics |  Medic  | Electronics |
-| 2 | DEX +1  | Vacc Suit  | Survival |  Tactics |
-| 3 | END +1  | Tactics |  Explosives  | Admin |
-| 4 | Gambler  | Heavy Weapons  | Engineer |  Advocate |
-| 5 | Melee (unarmed)  | Gun Combat |  Pilot |  Diplomat |
-| 6 | Melee (blade) |  Stealth |  Navigation  | Leadership |
-
-|1D |SUPPORT| STAR MARINE| GROUND ASSAULT|
-| :-: | :------------------: | -------------- | -- |
-| 1 | Electronics  | Vacc Suit  | Vacc Suit |
-| 2 | Mechanic  | Athletics  | Heavy Weapons |
-| 3 | Drive or Flyer  | Gunner |  Recon |
-| 4 | Medic |  Melee (blade) |  Melee (blade) |
-| 5 | Heavy Weapons  | Electronics |  Tactics (military) |
-| 6 | Gun Combat  | Gun Combat  | Gun Combat |
+|  1D |     SUPPORT    | STAR MARINE   | GROUND ASSAULT     |
+| :-: | :------------: | ------------- | ------------------ |
+|  1  |   Electronics  | Vacc Suit     | Vacc Suit          |
+|  2  |    Mechanic    | Athletics     | Heavy Weapons      |
+|  3  | Drive or Flyer | Gunner        | Recon              |
+|  4  |      Medic     | Melee (blade) | Melee (blade)      |
+|  5  |  Heavy Weapons | Electronics   | Tactics (military) |
+|  6  |   Gun Combat   | Gun Combat    | Gun Combat         |
 
 ### Marine Ranks and Bonuses
 
-|Rank| Enlisted|Enlisted<br/>Skill or Bonus|Officer|Officer<br/>Skill or Bonus|
-| :-: | ------------------| -------------- | -------------- | -------------- |
-| 0 | Marine| Gun Combat (any) 1 or Melee (blade) 1 |
-| 1 | Lance Corporal |Gun Combat (any) 1 | Lieutenant |Leadership 1 |
-| 2 | Corporal| — |Captain| — |
-| 3 | Lance Sergeant |Leadership 1 |Force Commander| Tactics 1 |
-| 4 | Sergeant| — | Lieutenant Colonel| — |
-| 5 | Gunnery Sergeant| END +1 |Colonel |SOC 10 or SOC +1, whichever is higher |
-| 6 | Sergeant Major| — | Brigadier| — |
-
+| Rank | Enlisted         | Enlisted<br/>Skill or Bonus           | Officer            | Officer<br/>Skill or Bonus            |
+| :--: | ---------------- | ------------------------------------- | ------------------ | ------------------------------------- |
+|   0  | Marine           | Gun Combat (any) 1 or Melee (blade) 1 |                    |                                       |
+|   1  | Lance Corporal   | Gun Combat (any) 1                    | Lieutenant         | Leadership 1                          |
+|   2  | Corporal         | —                                     | Captain            | —                                     |
+|   3  | Lance Sergeant   | Leadership 1                          | Force Commander    | Tactics 1                             |
+|   4  | Sergeant         | —                                     | Lieutenant Colonel | —                                     |
+|   5  | Gunnery Sergeant | END +1                                | Colonel            | SOC 10 or SOC +1, whichever is higher |
+|   6  | Sergeant Major   | —                                     | Brigadier          | —                                     |
 
 ### Marine Event Table
 
-|  2D | Event |
-| :-: | ----- |
-| 2 | Disaster! Roll on the Mishap table but you are not ejected from this career. |
-| 3 | Trapped behind enemy lines, you have to survive on your own. Gain one of Survival 1, Stealth 1, Deception 1 or Streetwise 1. |
-| 4 | You are assigned to the security staff of a space station. Increase Vacc Suit or Athletics (dexterity) by one level. |
-| 5 | You are given advanced training in a specialist field. Roll EDU 8+ to gain any one skill of your choice at level 1. |
-| 6 | You are assigned to an assault on an enemy fortress. Roll Melee or Gun Combat 8+ and gain Tactics (military) or Leadership if you succeed. If you fail, you are injured and lose 1 point from any physical characteristic. |
-| 7 | Life Event. Roll on the [[#Life Events Table]]. |
-| 8 | You are on the front lines of a planetary assault and occupation. Gain one of Recon 1, Gun Combat 1, Leadership 1 or Electronics (comms) 1. |
-| 9 | A mission goes disastrously wrong due to your commander's error or incompetence but you survive. If you report your commanding officer for their failure then you gain DM+2 to your next advancement roll and gain the officer as an Enemy. If you say nothing and protect them, gain them as an Ally. |
-| 10 | You are assigned to a black ops mission. Gain DM+2 to your next advancement roll. |
-| 11 | Your commanding officer takes an interest in your career. Either gain Tactics 1 or DM+4 to your next advancement roll thanks to their aid. |
-| 12 | You display heroism in battle. You may gain a promotion or a commission automatically. |
+|  2D | Event                                                                                                                                                                                                                                                                                                  |
+| :-: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  2  | Disaster! Roll on the Mishap table but you are not ejected from this career.                                                                                                                                                                                                                           |
+|  3  | Trapped behind enemy lines, you have to survive on your own. Gain one of Survival 1, Stealth 1, Deception 1 or Streetwise 1.                                                                                                                                                                           |
+|  4  | You are assigned to the security staff of a space station. Increase Vacc Suit or Athletics (dexterity) by one level.                                                                                                                                                                                   |
+|  5  | You are given advanced training in a specialist field. Roll EDU 8+ to gain any one skill of your choice at level 1.                                                                                                                                                                                    |
+|  6  | You are assigned to an assault on an enemy fortress. Roll Melee or Gun Combat 8+ and gain Tactics (military) or Leadership if you succeed. If you fail, you are injured and lose 1 point from any physical characteristic.                                                                             |
+|  7  | Life Event. Roll on the [[#Life Events Table]].                                                                                                                                                                                                                                                        |
+|  8  | You are on the front lines of a planetary assault and occupation. Gain one of Recon 1, Gun Combat 1, Leadership 1 or Electronics (comms) 1.                                                                                                                                                            |
+|  9  | A mission goes disastrously wrong due to your commander's error or incompetence but you survive. If you report your commanding officer for their failure then you gain DM+2 to your next advancement roll and gain the officer as an Enemy. If you say nothing and protect them, gain them as an Ally. |
+|  10 | You are assigned to a black ops mission. Gain DM+2 to your next advancement roll.                                                                                                                                                                                                                      |
+|  11 | Your commanding officer takes an interest in your career. Either gain Tactics 1 or DM+4 to your next advancement roll thanks to their aid.                                                                                                                                                             |
+|  12 | You display heroism in battle. You may gain a promotion or a commission automatically.                                                                                                                                                                                                                 |
 
 ### Marine Mishap Table
 
-|  1D | Mishap |
-| :-: | ------ |
-| 1 | Severely injured in action (this is the same as a [[#^result-of-2\|result of 2]] on the [[#Injury Table]]). Alternatively, roll twice on the [[#Injury Table]] and take the lower result. |
-| 2 | A mission goes wrong; you and several others are captured and mistreated by the enemy. Due to your injuries, you are discharged early. Gain your jailer as an Enemy and reduce your STR and DEX by one because of your injuries. |
-| 3 | A mission goes wrong and you are stranded behind enemy lines. Increase Stealth or Survival by one level but, due to the mission's failure, you are ejected from the service. |
-| 4 | You are ordered to take part in a black ops mission that goes against your conscience. If you refuse you are ejected from the service. If you accept you may stay with the marines but gain the lone survivor as an Enemy. |
-| 5 | You are tormented by or quarrel with an officer or fellow marine. Gain that character as a Rival as they drive you out of the service. |
-| 6 | Injured. Roll on the [[#Injury Table]]. |
+|  1D | Mishap                                                                                                                                                                                                                           |
+| :-: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  1  | Severely injured in action (this is the same as a [[#^result-of-2\|result of 2]] on the [[#Injury Table]]). Alternatively, roll twice on the [[#Injury Table]] and take the lower result.                                      |
+|  2  | A mission goes wrong; you and several others are captured and mistreated by the enemy. Due to your injuries, you are discharged early. Gain your jailer as an Enemy and reduce your STR and DEX by one because of your injuries. |
+|  3  | A mission goes wrong and you are stranded behind enemy lines. Increase Stealth or Survival by one level but, due to the mission's failure, you are ejected from the service.                                                     |
+|  4  | You are ordered to take part in a black ops mission that goes against your conscience. If you refuse you are ejected from the service. If you accept you may stay with the marines but gain the lone survivor as an Enemy.       |
+|  5  | You are tormented by or quarrel with an officer or fellow marine. Gain that character as a Rival as they drive you out of the service.                                                                                           |
+|  6  | Injured. Roll on the [[#Injury Table]].                                                                                                                                                                                          |
 
 ### Marine Mustering Out Benefits Table
 
-|  1D | Cash | Benefits |
-| :-: | :--: | -------- |
-| 1 | Cr2000 |Armor |
-| 2 | Cr5000 |INT +1 |
-| 3 | Cr5000 |EDU +1 |
-| 4 | Cr10000 |Weapon |
-| 5 | Cr20000| TAS Membership |
-| 6 | Cr30000 |Armor or END +1 |
-| 7 | Cr40000| SOC +2 |
+|  1D |   Cash  | Benefits        |
+| :-: | :-----: | --------------- |
+|  1  |  Cr2000 | Armor           |
+|  2  |  Cr5000 | INT +1          |
+|  3  |  Cr5000 | EDU +1          |
+|  4  | Cr10000 | Weapon          |
+|  5  | Cr20000 | TAS Membership  |
+|  6  | Cr30000 | Armor or END +1 |
+|  7  | Cr40000 | SOC +2          |
 
 ## Merchant
 
@@ -1303,23 +1291,23 @@ You work in a planetside brokerage or starport.
 
 ### Merchant Skills and Training
 
-| 1D | Personal<br/>Development | Service<br/>Skills | Advanced<br/>Education (EDU 8+) |
-| :-: | ------------------ | -------------- | ------------------------------- |
-| 1 | STR +1|  Drive|  Engineer |
-| 2 | DEX +1 | Vacc Suit | Astrogation |
-| 3 | END +1|  Broker | Electronics |
-| 4 | INT +1 | Steward | Pilot |
-| 5 | Language|  Electronics|  Admin |
-| 6 | Streetwise | Persuade | Advocate | 
+|  1D | Personal<br/>Development | Service<br/>Skills | Advanced<br/>Education (EDU 8+) |
+| :-: | ------------------------ | ------------------ | ------------------------------- |
+|  1  | STR +1                   | Drive              | Engineer                        |
+|  2  | DEX +1                   | Vacc Suit          | Astrogation                     |
+|  3  | END +1                   | Broker             | Electronics                     |
+|  4  | INT +1                   | Steward            | Pilot                           |
+|  5  | Language                 | Electronics        | Admin                           |
+|  6  | Streetwise               | Persuade           | Advocate                        |
 
-| 1D | MERCHANT MARINE | FREE TRADER|  BROKER| 
-| :-: | ------------------ | -------------- | ------------------------------- |
-| 1 | Pilot | Pilot (spacecraft)|  Admin |
-| 2 | Vacc Suit|  Vacc Suit | Advocate |
-| 3 | Athletics | Deception | Broker |
-| 4 | Mechanic|  Mechanic | Streetwise |
-| 5 | Engineer|  Streetwise | Deception |
-| 6 | Electronics | Gunner|  Persuade |
+|  1D | MERCHANT MARINE | FREE TRADER        | BROKER     |
+| :-: | --------------- | ------------------ | ---------- |
+|  1  | Pilot           | Pilot (spacecraft) | Admin      |
+|  2  | Vacc Suit       | Vacc Suit          | Advocate   |
+|  3  | Athletics       | Deception          | Broker     |
+|  4  | Mechanic        | Mechanic           | Streetwise |
+|  5  | Engineer        | Streetwise         | Deception  |
+|  6  | Electronics     | Gunner             | Persuade   |
 
 ### Merchant Ranks and Bonuses
 
@@ -1335,43 +1323,42 @@ You work in a planetside brokerage or starport.
 
 ### Merchant Event Table
 
-|  2D | Event |
-| :-: | ----- |
-| 2 | Disaster! Roll on the Mishap table but you are not ejected from this career. |
-| 3 | You are offered the opportunity to smuggle illegal items onto a planet. If you accept, roll Deception 8+ or Persuade 8+ to gain Streetwise 1 and an extra Benefit roll. If you refuse, you gain an Enemy in the criminal sphere. |
-| 4 | Gain any one of these skills, reflecting your time spent dealing with suppliers and spacers: Profession 1, Electronics 1, Engineer 1, Animals 1 or Science 1. |
-| 5 | You have a chance to risk your fortune on a possibility lucrative deal. You may gamble a number of Benefit rolls and roll Gambler 8+ or Broker 8+. If you succeed, you gain half as many Benefit rolls as you risked, rounding up. If you fail, you lose all the rolls risked. Either way, gain one level in whichever skill you used. |
-| 6 | You make an unexpected connection outside your normal circles. Gain a Contact. |
-| 7 | Life Event. Roll on the [[#Life Events Table]]. |
-| 8 | You are embroiled in legal trouble. Gain one of Advocate 1, Admin 1, Diplomat 1 or Investigate 1, then roll 2D. If you roll 2, you must take the Prisoner career in your next term. |
-| 9 | You are given advanced training in a specialist field. Roll EDU 8+ to increase any one skill you already have by one level. |
-| 10 | A good deal ensures you are living the high life for a few years. Gain DM+1 to any one Benefit roll. |
-| 11 | You befriend a useful ally in one sphere. Gain an Ally and either gain a level in Carouse or DM+4 to your next advancement roll thanks to their aid. |
-| 12 | Your business or ship thrives. You are automatically promoted. |
-
+|  2D | Event                                                                                                                                                                                                                                                                                                                                  |
+| :-: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  2  | Disaster! Roll on the Mishap table but you are not ejected from this career.                                                                                                                                                                                                                                                           |
+|  3  | You are offered the opportunity to smuggle illegal items onto a planet. If you accept, roll Deception 8+ or Persuade 8+ to gain Streetwise 1 and an extra Benefit roll. If you refuse, you gain an Enemy in the criminal sphere.                                                                                                       |
+|  4  | Gain any one of these skills, reflecting your time spent dealing with suppliers and spacers: Profession 1, Electronics 1, Engineer 1, Animals 1 or Science 1.                                                                                                                                                                          |
+|  5  | You have a chance to risk your fortune on a possibility lucrative deal. You may gamble a number of Benefit rolls and roll Gambler 8+ or Broker 8+. If you succeed, you gain half as many Benefit rolls as you risked, rounding up. If you fail, you lose all the rolls risked. Either way, gain one level in whichever skill you used. |
+|  6  | You make an unexpected connection outside your normal circles. Gain a Contact.                                                                                                                                                                                                                                                         |
+|  7  | Life Event. Roll on the [[#Life Events Table]].                                                                                                                                                                                                                                                                                        |
+|  8  | You are embroiled in legal trouble. Gain one of Advocate 1, Admin 1, Diplomat 1 or Investigate 1, then roll 2D. If you roll 2, you must take the Prisoner career in your next term.                                                                                                                                                    |
+|  9  | You are given advanced training in a specialist field. Roll EDU 8+ to increase any one skill you already have by one level.                                                                                                                                                                                                            |
+|  10 | A good deal ensures you are living the high life for a few years. Gain DM+1 to any one Benefit roll.                                                                                                                                                                                                                                   |
+|  11 | You befriend a useful ally in one sphere. Gain an Ally and either gain a level in Carouse or DM+4 to your next advancement roll thanks to their aid.                                                                                                                                                                                   |
+|  12 | Your business or ship thrives. You are automatically promoted.                                                                                                                                                                                                                                                                         |
 
 ### Merchant Mishap Table
 
-|  1D | Mishap |
-| :-: | ------ |
-| 1 | Severely injured (this is the same as a [[#^result-of-2\|result of 2]] on the [[#Injury Table]]). Alternatively, roll twice on the [[#Injury Table]] and take the lower result. |
-| 2 | You are bankrupted by a rival. You lose all Benefits from this career and gain the other trader as a Rival. |
-| 3 | A sudden war destroys your trade routes and contacts, forcing you to flee that region of space. Gain Gun Combat 1 or Pilot 1. |
-| 4 | Your ship or starport is destroyed by criminals. Gain them as an Enemy. |
-| 5 | Imperial trade restrictions force you out of business. You may take the [[#Rogue]] career for your next term without needing to roll for qualification. |
-| 6 | A series of bad deals and decisions force you into bankruptcy. You salvage what you can. You may take a Benefit roll for this term as well as any others you are entitled to. |
+|  1D | Mishap                                                                                                                                                                            |
+| :-: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  1  | Severely injured (this is the same as a [[#^result-of-2\|result of 2]] on the [[#Injury Table]]). Alternatively, roll twice on the [[#Injury Table]] and take the lower result. |
+|  2  | You are bankrupted by a rival. You lose all Benefits from this career and gain the other trader as a Rival.                                                                       |
+|  3  | A sudden war destroys your trade routes and contacts, forcing you to flee that region of space. Gain Gun Combat 1 or Pilot 1.                                                     |
+|  4  | Your ship or starport is destroyed by criminals. Gain them as an Enemy.                                                                                                           |
+|  5  | Imperial trade restrictions force you out of business. You may take the [[#Rogue]] career for your next term without needing to roll for qualification.                           |
+|  6  | A series of bad deals and decisions force you into bankruptcy. You salvage what you can. You may take a Benefit roll for this term as well as any others you are entitled to.     |
 
 ### Merchant Mustering Out Benefits Table
 
-|  1D | Cash | Benefits |
-| :-: | :--: | -------- |
-| 1 | Cr1000|  Blade |
-| 2 | Cr5000 | INT +1 |
-| 3 | Cr10000|  EDU +1 |
-| 4 | Cr20000 | Gun |
-| 5 | Cr20000 | Ship Share |
-| 6 | Cr40000|  Free Trader |
-| 7 | Cr40000 | Free Trader |
+|  1D |   Cash  | Benefits    |
+| :-: | :-----: | ----------- |
+|  1  |  Cr1000 | Blade       |
+|  2  |  Cr5000 | INT +1      |
+|  3  | Cr10000 | EDU +1      |
+|  4  | Cr20000 | Gun         |
+|  5  | Cr20000 | Ship Share  |
+|  6  | Cr40000 | Free Trader |
+|  7  | Cr40000 | Free Trader |
 
 ## Navy
 
@@ -1386,93 +1373,94 @@ Commission: SOC 8+
 Choose one of the following:
 
 #### Line/Crew
-You serve as a general crewman or officer on a ship of the line. 
+
+You serve as a general crewman or officer on a ship of the line.
+
 #### Engineer/Gunner
-You serve as a specialist technician on a starship. 
+
+You serve as a specialist technician on a starship.
+
 #### Flight
+
 You are a pilot of a shuttle, fighter or other light craft.
-
-
 
 ### Navy Career Progress
 
-| Assignment                                                                 | Survival | Advancement |
-| -------------------------------------------------------------------------- | :------: | :---------: |
-| Line/Crew|  INT 5+|  EDU 7+| 
-| Engineer/Gunner | INT 6+|  EDU 6+| 
-| Flight | DEX 7+|  EDU 5+ |
+| Assignment      | Survival | Advancement |
+| --------------- | :------: | :---------: |
+| Line/Crew       |  INT 5+  |    EDU 7+   |
+| Engineer/Gunner |  INT 6+  |    EDU 6+   |
+| Flight          |  DEX 7+  |    EDU 5+   |
 
 ### Navy Skills and Training
 
-| 1D | Personal<br/>Development | Service<br/>Skills | Advanced<br/>Education (EDU 8+) | Officer<br/>(Commissioned Only) |
-| :-: | ------------------ | -------------- | ------------------------------- | --------------------------- |
-| 1 | STR +1 | Pilot| Electronics | Leadership |
-| 2 | DEX +1|  Vacc Suit | Astrogation | Electronics |
-| 3 | END +1|  Athletics | Engineer | Pilot |
-| 4 | INT +1|  Gunner | Flyer | Melee (blade) |
-| 5 | EDU +1 | Mechanic | Medic|  Admin |
-| 6 | SOC +1 | Gun Combat|  Admin | Tactics (naval) | 
+|  1D | Personal<br/>Development | Service<br/>Skills | Advanced<br/>Education (EDU 8+) | Officer<br/>(Commissioned Only) |
+| :-: | ------------------------ | ------------------ | ------------------------------- | ------------------------------- |
+|  1  | STR +1                   | Pilot              | Electronics                     | Leadership                      |
+|  2  | DEX +1                   | Vacc Suit          | Astrogation                     | Electronics                     |
+|  3  | END +1                   | Athletics          | Engineer                        | Pilot                           |
+|  4  | INT +1                   | Gunner             | Flyer                           | Melee (blade)                   |
+|  5  | EDU +1                   | Mechanic           | Medic                           | Admin                           |
+|  6  | SOC +1                   | Gun Combat         | Admin                           | Tactics (naval)                 |
 
-| 1D | LINE/CREW|  ENGINEER/GUNNER|  FLIGHT|
-| :-: | ------------------ | -------------- | ------------------------------- |
-| 1 | Electronics|  Engineer|  Pilot |
-| 2 | Mechanic|  Mechanic | Flyer |
-| 3 | Gun Combat|  Electronics|  Gunner |
-| 4 | Flyer|  Engineer | Pilot (small craft) |
-| 5 | Melee|  Gunner|  Astrogation |
-| 6 | Vacc Suit | Flyer | Electronics |
+|  1D | LINE/CREW   | ENGINEER/GUNNER | FLIGHT              |
+| :-: | ----------- | --------------- | ------------------- |
+|  1  | Electronics | Engineer        | Pilot               |
+|  2  | Mechanic    | Mechanic        | Flyer               |
+|  3  | Gun Combat  | Electronics     | Gunner              |
+|  4  | Flyer       | Engineer        | Pilot (small craft) |
+|  5  | Melee       | Gunner          | Astrogation         |
+|  6  | Vacc Suit   | Flyer           | Electronics         |
 
 ### Navy Event Table
 
-|  2D | Event |
-| :-: | ----- |
-| 2 | Disaster! Roll on the [[#Navy Mishap table]] but you are not ejected from this career. |
-| 3 | You join a gambling circle on board. Gain Gambler 1 or Deception 1. If you wish, throw Gambler 8+. If you | succeed, gain an extra Benefit roll from this career; if you fail, you lose one Benefit roll from this career.
-| 4 | You are given a special assignment or duty on board ship. Gain DM+1 to any one Benefit roll. |
-| 5 | You are given advanced training in a specialist field. Roll EDU 8+ to gain one level in any skill you already have. |
-| 6 | Your vessel participates in a notable military engagement. Gain one of Electronics 1, Engineer 1, Gunner 1 or Pilot 1. |
-| 7 | Life Event. Roll on the [[#Life Events Table]]. |
-| 8 | Your vessel participates in a diplomatic mission. Gain one of Recon 1, Diplomat 1, Steward 1 or a Contact. |
-| 9 | You foil an attempted crime on board, such as mutiny, sabotage, smuggling or conspiracy. Gain an Enemy but also gain DM+2 to your next advancement roll in the Navy. |
-| 10 | You have the opportunity to abuse your position for profit. If you do so, gain an extra Benefit roll from this term. Refuse and you get DM+2 to your next advancement roll. |
-| 11 | Your commanding officer takes an interest in your career. Either gain Tactics (naval) 1 or DM+4 to your next advancement roll thanks to their aid. |
-| 12 | You display heroism in battle, saving the whole ship. You automatically pass your next promotion or commission roll. |
-### Navy Mishap Table
+|           2D          | Event                                                                                                                                                                       |                                                                                                                |
+| :-------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+|           2           | Disaster! Roll on the [[#Navy Mishap table]] but you are not ejected from this career.                                                                                      |                                                                                                                |
+|           3           | You join a gambling circle on board. Gain Gambler 1 or Deception 1. If you wish, throw Gambler 8+. If you                                                                   | succeed, gain an extra Benefit roll from this career; if you fail, you lose one Benefit roll from this career. |
+|           4           | You are given a special assignment or duty on board ship. Gain DM+1 to any one Benefit roll.                                                                                |                                                                                                                |
+|           5           | You are given advanced training in a specialist field. Roll EDU 8+ to gain one level in any skill you already have.                                                         |                                                                                                                |
+|           6           | Your vessel participates in a notable military engagement. Gain one of Electronics 1, Engineer 1, Gunner 1 or Pilot 1.                                                      |                                                                                                                |
+|           7           | Life Event. Roll on the [[#Life Events Table]].                                                                                                                             |                                                                                                                |
+|           8           | Your vessel participates in a diplomatic mission. Gain one of Recon 1, Diplomat 1, Steward 1 or a Contact.                                                                  |                                                                                                                |
+|           9           | You foil an attempted crime on board, such as mutiny, sabotage, smuggling or conspiracy. Gain an Enemy but also gain DM+2 to your next advancement roll in the Navy.        |                                                                                                                |
+|           10          | You have the opportunity to abuse your position for profit. If you do so, gain an extra Benefit roll from this term. Refuse and you get DM+2 to your next advancement roll. |                                                                                                                |
+|           11          | Your commanding officer takes an interest in your career. Either gain Tactics (naval) 1 or DM+4 to your next advancement roll thanks to their aid.                          |                                                                                                                |
+|           12          | You display heroism in battle, saving the whole ship. You automatically pass your next promotion or commission roll.                                                        |                                                                                                                |
+| ### Navy Mishap Table |                                                                                                                                                                             |                                                                                                                |
 
-|  1D | Mishap |
-| :-: | ------ |
-| 1 | Severely injured in action (this is the same as a [[#^result-of-2\|result of 2]] on the [[#Injury Table]]). Alternatively, roll twice | on the [[#Injury Table]] and take the lower result.
-| 2 | Placed in the frozen watch (cryogenically stored on board ship) and revived improperly. Reduce STR, DEX or END by 1 due to muscle wastage. You are not ejected from this career. |
-| 3 | During a battle, defeat or victory depends on your actions. You must make an 8+ roll using a skill that depends on your branch: Electronics (sensors) or Gunner if you are crew, Mechanic or Vacc Suit if you are engineer/gunner and Pilot (small craft or spacecraft) or Tactics (naval) if you are flight. If you fail, the ship suffers severe damage and you are blamed for the disaster. You are court-martialled and discharged. If you succeed, your efforts ensure that you are honorably discharged. You still leave the career but may keep your Benefit roll from this term. |
-| 4 | You are blamed for an accident that causes the death of several crew members. If you were responsible, then you gain one free roll on the Skills and Training tables before you are ejected from this career as your guilt drives you to excel. If you were not, then gain the officer who blamed you as an Enemy but you keep your Benefit roll from this term. |
-| 5 | You are tormented by or quarrel with an officer or fellow crewman. Gain that character as a Rival, as they force you out of the Navy. |
-| 6 | Injured. Roll on the [[#Injury Table]]. |
-
+|  1D | Mishap                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |                                                     |
+| :-: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+|  1  | Severely injured in action (this is the same as a [[#^result-of-2\|result of 2]] on the [[#Injury Table]]). Alternatively, roll twice                                                                                                                                                                                                                                                                                                                                                                                                                                                  | on the [[#Injury Table]] and take the lower result. |
+|  2  | Placed in the frozen watch (cryogenically stored on board ship) and revived improperly. Reduce STR, DEX or END by 1 due to muscle wastage. You are not ejected from this career.                                                                                                                                                                                                                                                                                                                                                                                                         |                                                     |
+|  3  | During a battle, defeat or victory depends on your actions. You must make an 8+ roll using a skill that depends on your branch: Electronics (sensors) or Gunner if you are crew, Mechanic or Vacc Suit if you are engineer/gunner and Pilot (small craft or spacecraft) or Tactics (naval) if you are flight. If you fail, the ship suffers severe damage and you are blamed for the disaster. You are court-martialled and discharged. If you succeed, your efforts ensure that you are honorably discharged. You still leave the career but may keep your Benefit roll from this term. |                                                     |
+|  4  | You are blamed for an accident that causes the death of several crew members. If you were responsible, then you gain one free roll on the Skills and Training tables before you are ejected from this career as your guilt drives you to excel. If you were not, then gain the officer who blamed you as an Enemy but you keep your Benefit roll from this term.                                                                                                                                                                                                                         |                                                     |
+|  5  | You are tormented by or quarrel with an officer or fellow crewman. Gain that character as a Rival, as they force you out of the Navy.                                                                                                                                                                                                                                                                                                                                                                                                                                                    |                                                     |
+|  6  | Injured. Roll on the [[#Injury Table]].                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                                     |
 
 ### Navy Ranks and Bonuses
 
-|Rank |Enlisted  | Enlisted Skill or Bonus| Officer| Officer Skill or Bonus|
-|:--:| --| --| --| --|
-| 0 | Crewman | — | | |
-| 1 | Able Spacehand | Mechanic 1 |  Ensign|  Melee (blade) 1 |
-| 2 | Petty Officer, 3rd class | Vacc Suit 1|  Sublieutenant|  Leadership 1 |
-| 3 | Petty Officer, 2nd class | —|  Lieutenant|  — |
-| 4 | Petty Officer, 1st class | END +1|  Commander | Tactics (naval) 1 |
-| 5 | Chief Petty Officer|  — | Captain | SOC 10 or SOC +1,  whichever is higher| 
-| 6 | Master Chief |— | Admiral | SOC 12 or SOC +1,  whichever is higher| 
-
+| Rank | Enlisted                 | Enlisted Skill or Bonus | Officer       | Officer Skill or Bonus                 |
+| :--: | ------------------------ | ----------------------- | ------------- | -------------------------------------- |
+|   0  | Crewman                  | —                       |               |                                        |
+|   1  | Able Spacehand           | Mechanic 1              | Ensign        | Melee (blade) 1                        |
+|   2  | Petty Officer, 3rd class | Vacc Suit 1             | Sublieutenant | Leadership 1                           |
+|   3  | Petty Officer, 2nd class | —                       | Lieutenant    | —                                      |
+|   4  | Petty Officer, 1st class | END +1                  | Commander     | Tactics (naval) 1                      |
+|   5  | Chief Petty Officer      | —                       | Captain       | SOC 10 or SOC +1,  whichever is higher |
+|   6  | Master Chief             | —                       | Admiral       | SOC 12 or SOC +1,  whichever is higher |
 
 ### Navy Mustering Out Benefits Table
 
-|  1D | Cash | Benefits |
-| :-: | :--: | -------- |
-| 1 | Cr1000 | Personal Vehicle or Ship Share |
-| 2 | Cr5000 | INT +1 |
-| 3 | Cr5000 | EDU +1 or two Ship Shares |
-| 4 | Cr10000 | Weapon |
-| 5 | Cr20000 | TAS Membership |
-| 6 | Cr50000 | Ship's Boat or two Ship Shares |
-| 7 | Cr50000|  SOC +2 |
+|  1D |   Cash  | Benefits                       |
+| :-: | :-----: | ------------------------------ |
+|  1  |  Cr1000 | Personal Vehicle or Ship Share |
+|  2  |  Cr5000 | INT +1                         |
+|  3  |  Cr5000 | EDU +1 or two Ship Shares      |
+|  4  | Cr10000 | Weapon                         |
+|  5  | Cr20000 | TAS Membership                 |
+|  6  | Cr50000 | Ship's Boat or two Ship Shares |
+|  7  | Cr50000 | SOC +2                         |
 
 ## Noble
 
@@ -1497,83 +1485,83 @@ You are a diplomat or other state official.
 You are known for being known and have absolutely no useful function in society.
 
 ### Noble Career Progress
-| Assignment                                                                  | Survival | Advancement |
-| --------------------------------------------------------------------------- | :------: | :---------: |
-| Administrator |  INT 4+ |  EDU 6+  | 
-| Diplomat  | INT 5+ |  SOC 7+ | 
-| Dilettante  | SOC 5+  | INT 7+ |   
+
+| Assignment    | Survival | Advancement |
+| ------------- | :------: | :---------: |
+| Administrator |  INT 4+  |    EDU 6+   |
+| Diplomat      |  INT 5+  |    SOC 7+   |
+| Dilettante    |  SOC 5+  |    INT 7+   |
 
 ### Noble Skills and Training
-| 1D | Personal<br/>Development | Service<br/>Skills | Advanced<br/>Education (EDU 8+) |
-| :- | ------------------ | -------------- | ------------------------------- |
-| 1 | STR +1|  Admin | Science |
-| 2 | DEX +1 | Advocate | Advocate |
-| 3 | END +1 | Electronics | Language |
-| 4 | Gambler | Diplomat | Leadership |
-| 5 | Gun Combat|  Investigate|  Diplomat |
-| 6 | Melee|  Persuade|  Art | 
 
-| 1D | ADMINISTRATOR | DIPLOMAT | DILETTANTE| 
-| :- | ------------------ | -------------- | ------------------------------- |
-| 1 | Admin|  Advocate | Carouse |
-| 2 | Advocate | Carouse|  Deception |
-| 3 | Broker|  Electronics|  Flyer |
-| 4 | Diplomat | Steward | Streetwise |
-| 5 | Leadership|  Diplomat | Gambler |
-| 6 | Persuade|  Deception| Jack-of-all-Trades |
+| 1D | Personal<br/>Development | Service<br/>Skills | Advanced<br/>Education (EDU 8+) |
+| :- | ------------------------ | ------------------ | ------------------------------- |
+| 1  | STR +1                   | Admin              | Science                         |
+| 2  | DEX +1                   | Advocate           | Advocate                        |
+| 3  | END +1                   | Electronics        | Language                        |
+| 4  | Gambler                  | Diplomat           | Leadership                      |
+| 5  | Gun Combat               | Investigate        | Diplomat                        |
+| 6  | Melee                    | Persuade           | Art                             |
+
+| 1D | ADMINISTRATOR | DIPLOMAT    | DILETTANTE         |
+| :- | ------------- | ----------- | ------------------ |
+| 1  | Admin         | Advocate    | Carouse            |
+| 2  | Advocate      | Carouse     | Deception          |
+| 3  | Broker        | Electronics | Flyer              |
+| 4  | Diplomat      | Steward     | Streetwise         |
+| 5  | Leadership    | Diplomat    | Gambler            |
+| 6  | Persuade      | Deception   | Jack-of-all-Trades |
 
 ### Noble Ranks and Bonuses
 
-|Rank | Administrator |Administrator<br/>Skill or Bonus|Diplomat<br/> Rank| Diplomat <br/>Skill or Bonus| Dilettante <br/>Rank | Dilettante <br/>Skill or Bonus|
-|:-:|--|--|--|--|--|--|
-| 0 | Assistant | — | Intern | — |Wastrel|— |
-| 1 | Clerk | Admin 1 | 3rd Secretary | Admin 1 | — |— |
-| 2 | Supervisor | — |2nd Secretary|  — |Ingrate| Carouse 1 |
-| 3 | Manager | Advocate 1 |1st Secretary|  Advocate 1 |— |— |
-| 4 | Chief|  — |Counsellor | — |Black Sheep| Persuade 1 |
-| 5 | Director|  Leadership 1 |Minister|  Diplomat 1 |— |— |
-| 6 | Minister|  — | Ambassador | — |Scoundrel |Jack-of-all-Trades 1 |
+| Rank | Administrator | Administrator<br/>Skill or Bonus | Diplomat<br/> Rank | Diplomat <br/>Skill or Bonus | Dilettante <br/>Rank | Dilettante <br/>Skill or Bonus |
+| :--: | ------------- | -------------------------------- | ------------------ | ---------------------------- | -------------------- | ------------------------------ |
+|   0  | Assistant     | —                                | Intern             | —                            | Wastrel              | —                              |
+|   1  | Clerk         | Admin 1                          | 3rd Secretary      | Admin 1                      | —                    | —                              |
+|   2  | Supervisor    | —                                | 2nd Secretary      | —                            | Ingrate              | Carouse 1                      |
+|   3  | Manager       | Advocate 1                       | 1st Secretary      | Advocate 1                   | —                    | —                              |
+|   4  | Chief         | —                                | Counsellor         | —                            | Black Sheep          | Persuade 1                     |
+|   5  | Director      | Leadership 1                     | Minister           | Diplomat 1                   | —                    | —                              |
+|   6  | Minister      | —                                | Ambassador         | —                            | Scoundrel            | Jack-of-all-Trades 1           |
 
 ### Noble Event Table
 
-|  2D | Event |
-| :-: | ----- |
-| 2 | Disaster! Roll on the [[#Noble Mishap table]] , but you are not ejected from this career. |
-| 3 | You are challenged to a duel for your honor and standing. If you refuse, reduce your SOC by 1. If you accept, roll Melee (blade) 8+. If you succeed, gain one SOC. If you fail, roll on the [[#Injury Table]] and reduce your SOC by one. Either way, gain one level in Melee (blade), Leadership, Tactics (any) or Deception. |
-| 4 | Your time as a ruler or playboy gives you a wide range of experiences. Gain one of Animals (handling) 1, Art 1, Carouse 1 or Streetwise 1. |
-| 5 | You inherit a gift from a rich relative. Gain DM+1 to any one Benefit roll. |
-| 6 | You become deeply involved in politics on your world of residence, becoming a player in the political intrigues of government. Gain one level in Advocate, Admin, Diplomacy or Persuade but also gain a Rival. |
-| 7 | Life Event. Roll on the [[#Life Events Table]]. |
-| 8 | A conspiracy of nobles attempts to recruit you. If you refuse, gain the conspiracy as an Enemy. If you accept, roll Deception 8+ or Persuade 8+. If you fail, roll on the Mishap table as the conspiracy collapses. If you succeed, Gain one level of Deception, Persuade, Tactics or Carouse. |
-| 9 | Your reign is acclaimed by all as being fair and wise – or in the case of a dilettante, you sponge off your family's wealth a while longer. Gain either a jealous relative or an unhappy subject as an Enemy. Gain DM+2 to your next advancement roll. |
-| 10 | You manipulate and charm your way through high society. Gain one level of Carouse, Diplomat, Persuade or Steward, as well as a Rival and an Ally. |
-| 11 | You make an alliance with a powerful and charismatic noble, who becomes an Ally. Either gain one level of Leadership or DM+4 to your next advancement roll thanks to their aid. |
-| 12 | Your efforts do not go unnoticed by the Imperium. You are automatically promoted. |
+|  2D | Event                                                                                                                                                                                                                                                                                                                          |
+| :-: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  2  | Disaster! Roll on the [[#Noble Mishap table]] , but you are not ejected from this career.                                                                                                                                                                                                                                      |
+|  3  | You are challenged to a duel for your honor and standing. If you refuse, reduce your SOC by 1. If you accept, roll Melee (blade) 8+. If you succeed, gain one SOC. If you fail, roll on the [[#Injury Table]] and reduce your SOC by one. Either way, gain one level in Melee (blade), Leadership, Tactics (any) or Deception. |
+|  4  | Your time as a ruler or playboy gives you a wide range of experiences. Gain one of Animals (handling) 1, Art 1, Carouse 1 or Streetwise 1.                                                                                                                                                                                     |
+|  5  | You inherit a gift from a rich relative. Gain DM+1 to any one Benefit roll.                                                                                                                                                                                                                                                    |
+|  6  | You become deeply involved in politics on your world of residence, becoming a player in the political intrigues of government. Gain one level in Advocate, Admin, Diplomacy or Persuade but also gain a Rival.                                                                                                                 |
+|  7  | Life Event. Roll on the [[#Life Events Table]].                                                                                                                                                                                                                                                                                |
+|  8  | A conspiracy of nobles attempts to recruit you. If you refuse, gain the conspiracy as an Enemy. If you accept, roll Deception 8+ or Persuade 8+. If you fail, roll on the Mishap table as the conspiracy collapses. If you succeed, Gain one level of Deception, Persuade, Tactics or Carouse.                                 |
+|  9  | Your reign is acclaimed by all as being fair and wise – or in the case of a dilettante, you sponge off your family's wealth a while longer. Gain either a jealous relative or an unhappy subject as an Enemy. Gain DM+2 to your next advancement roll.                                                                         |
+|  10 | You manipulate and charm your way through high society. Gain one level of Carouse, Diplomat, Persuade or Steward, as well as a Rival and an Ally.                                                                                                                                                                              |
+|  11 | You make an alliance with a powerful and charismatic noble, who becomes an Ally. Either gain one level of Leadership or DM+4 to your next advancement roll thanks to their aid.                                                                                                                                                |
+|  12 | Your efforts do not go unnoticed by the Imperium. You are automatically promoted.                                                                                                                                                                                                                                              |
 
 ### Noble Mishap Table
 
-|  1D | Mishap |
-| :-: | ------ |
-| 1 | Severely injured (this is the same as a [[#^result-of-2\|result of 2]] on the [[#Injury Table]]). Alternatively, roll twice on the [[#Injury Table]] and take the lower result. |
-| 2 | A family scandal forces you out of your position. Lose one SOC. |
-| 3 | A disaster or war strikes. Roll Stealth 8+ or Deception 8+ to escape unhurt. If you fail, roll on the [[#Injury Table]]. |
-| 4 | Political manoeuvrings usurp your position. Increase Diplomat or Advocate by one level and gain a Rival. |
-| 5 | An assassin attempts to end your life. Roll END 8+. If you fail, roll on the [[#Injury Table]]. |
-| 6 | Injured. Roll on the [[#Injury Table]]. |
+|  1D | Mishap                                                                                                                                                                            |
+| :-: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  1  | Severely injured (this is the same as a [[#^result-of-2\|result of 2]] on the [[#Injury Table]]). Alternatively, roll twice on the [[#Injury Table]] and take the lower result. |
+|  2  | A family scandal forces you out of your position. Lose one SOC.                                                                                                                   |
+|  3  | A disaster or war strikes. Roll Stealth 8+ or Deception 8+ to escape unhurt. If you fail, roll on the [[#Injury Table]].                                                          |
+|  4  | Political manoeuvrings usurp your position. Increase Diplomat or Advocate by one level and gain a Rival.                                                                          |
+|  5  | An assassin attempts to end your life. Roll END 8+. If you fail, roll on the [[#Injury Table]].                                                                                   |
+|  6  | Injured. Roll on the [[#Injury Table]].                                                                                                                                           |
 
 ### Noble Mustering Out Benefits Table
 
-|  1D | Cash | Benefits |
-| :-: | :--: | -------- |
-| 1 | Cr10000 | Ship Share |
-| 2 | Cr10000  | Two Ship Shares |
-| 3 | Cr50000 |  Blade |
-| 4 | Cr50000 |  SOC +1 |
-| 5 | Cr100000  | TAS Membership |
-| 6 | Cr100000  | Yacht |
-| 7 | Cr200000  | SOC +1 and Yacht |
-
-
+|  1D |   Cash   | Benefits         |
+| :-: | :------: | ---------------- |
+|  1  |  Cr10000 | Ship Share       |
+|  2  |  Cr10000 | Two Ship Shares  |
+|  3  |  Cr50000 | Blade            |
+|  4  |  Cr50000 | SOC +1           |
+|  5  | Cr100000 | TAS Membership   |
+|  6  | Cr100000 | Yacht            |
+|  7  | Cr200000 | SOC +1 and Yacht |
 
 ## Rogue
 
@@ -1599,86 +1587,84 @@ You are a leg breaker, thug or assassin for a criminal group.
 
 You are a space-going corsair.
 
-
 ### Rogue Career Progress
 
-
-| Assignment                                                      | Survival | Advancement |
-| --------------------------------------------------------------- | :------: | :---------: |
-| Thief| INT 6+|  DEX 6+|  
-| Enforcer | END 6+|  STR 6+ | 
-| Pirate|  DEX 6+ | INT 6+ | 
+| Assignment | Survival | Advancement |
+| ---------- | :------: | :---------: |
+| Thief      |  INT 6+  |    DEX 6+   |
+| Enforcer   |  END 6+  |    STR 6+   |
+| Pirate     |  DEX 6+  |    INT 6+   |
 
 ### Rogue Skills and Training
 
-| 1D | Personal<br/>Development | Service<br/>Skills | Advanced<br/>Education (EDU 10+) |
-| :-: | ------------------ | -------------- | -------------------------------- |
-| 1 | Carouse |Deception |Electronics |
-| 2 | DEX +1| Recon| Navigation |
-| 3 | END +1 |Athletics |Medic |
-| 4 | Gambler |Gun Combat|Investigate |
-| 5 | Melee| Stealth| Broker |
-| 6 | Gun Combat |Streetwise| Advocate |
+|  1D | Personal<br/>Development | Service<br/>Skills | Advanced<br/>Education (EDU 10+) |
+| :-: | ------------------------ | ------------------ | -------------------------------- |
+|  1  | Carouse                  | Deception          | Electronics                      |
+|  2  | DEX +1                   | Recon              | Navigation                       |
+|  3  | END +1                   | Athletics          | Medic                            |
+|  4  | Gambler                  | Gun Combat         | Investigate                      |
+|  5  | Melee                    | Stealth            | Broker                           |
+|  6  | Gun Combat               | Streetwise         | Advocate                         |
 
-|1D |THIEF| ENFORCER| PIRATE|
-|:-:| --| --| --|
-| 1 | Stealth |Gun Combat |Pilot |
-| 2 | Electronics |Melee| Astrogation |
-| 3 | Recon| Streetwise| Gunner |
-| 4 | Streetwise |Persuade |Engineer |
-| 5 | Deception |Athletics |Vacc Suit |
-| 6 | Athletics| Drive |Melee |
+|  1D | THIEF       | ENFORCER   | PIRATE      |
+| :-: | ----------- | ---------- | ----------- |
+|  1  | Stealth     | Gun Combat | Pilot       |
+|  2  | Electronics | Melee      | Astrogation |
+|  3  | Recon       | Streetwise | Gunner      |
+|  4  | Streetwise  | Persuade   | Engineer    |
+|  5  | Deception   | Athletics  | Vacc Suit   |
+|  6  | Athletics   | Drive      | Melee       |
 
 ### Rogue Ranks and Bonuses
 
-|Rank| Thief| Thief<br/>Skill or Bonus| Enforcer|Enforcer<br/>Skill or Bonus|Pirate|Pirate<br/>Skill or Bonus|
-|:-:| --| --| --| --| --| --|
-| 0 | — |— |—| — | Lackey |— |
-| 1 | —| Stealth 1 | —| Persuade 1 |Henchman| Pilot 1 or Gunner 1 |
-| 2 | —|— |—| — | Corporal |— |
-| 3 | — |Streetwise 1 |— |Gun Combat 1 or Melee |Sergeant| Gun Combat 1 or  Melee 1|
-| 4 | — |— | — |— |Lieutenant |— |
-| 5 | — |Recon 1 | — |Streetwise 1 |Leader| Leadership 1 |
-| 6 | — |— | —| — | Captain |— |
+| Rank | Thief | Thief<br/>Skill or Bonus | Enforcer | Enforcer<br/>Skill or Bonus | Pirate     | Pirate<br/>Skill or Bonus |
+| :--: | ----- | ------------------------ | -------- | --------------------------- | ---------- | ------------------------- |
+|   0  | —     | —                        | —        | —                           | Lackey     | —                         |
+|   1  | —     | Stealth 1                | —        | Persuade 1                  | Henchman   | Pilot 1 or Gunner 1       |
+|   2  | —     | —                        | —        | —                           | Corporal   | —                         |
+|   3  | —     | Streetwise 1             | —        | Gun Combat 1 or Melee       | Sergeant   | Gun Combat 1 or  Melee 1  |
+|   4  | —     | —                        | —        | —                           | Lieutenant | —                         |
+|   5  | —     | Recon 1                  | —        | Streetwise 1                | Leader     | Leadership 1              |
+|   6  | —     | —                        | —        | —                           | Captain    | —                         |
 
 ### Rogue Event Table
 
-|  2D | Event |
-| :-: | ----- |
-| 2 | Disaster! Roll on the [[#Rogue Mishap table]] but you are not ejected from this career. |
-| 3 | You are arrested and charged. You can choose to defend yourself or hire a lawyer. If you defend yourself, roll Advocate 8+. If you succeed, the charges are dropped. If you fail, gain an Enemy and take the [[#Prisoner]] career in your next term. If you hired a lawyer, gain the lawyer as a Contact and lose a Benefit roll. |
-| 4 | You are involved in the planning of an impressive heist. Gain Electronics 1 or Mechanic 1. |
-| 5 | One of your crimes pays off. Gain DM+2 to any one Benefit roll and gain your victim as an Enemy. |
-| 6 | You have the opportunity to backstab a fellow rogue for personal gain. If you do so, gain DM+4 to your next advancement roll. If you refuse, gain them as an Ally. |
-| 7 | Life Event. Roll on the [[#Life Events Table]]. |
-| 8 | You spend months in the dangerous criminal underworld. Gain one of Streetwise 1, Stealth 1, Melee  1,  or Gun Combat 1. |
-| 9 | You become involved in a feud with a rival criminal organization. Roll Stealth or Gun Combat 8+. If you fail, roll on the Injury Table. If you succeed, gain an extra Benefit roll. |
-| 10 | You are involved in a gambling ring. Gain Gambler 1. You may wager any number of Benefit rolls. Roll Gambler 8+; if you fail, lose all the wagered Benefit rolls. If you succeed, gain half as many Benefit rolls as you wagered (round up). |
-| 11 | A crime lord considers you his protégé. Either gain Tactics (military) 1 or DM+4 to your next advancement roll thanks to their aid. |
-| 12 | You commit a legendary crime. You are automatically promoted. |
+|  2D | Event                                                                                                                                                                                                                                                                                                                             |
+| :-: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  2  | Disaster! Roll on the [[#Rogue Mishap table]] but you are not ejected from this career.                                                                                                                                                                                                                                           |
+|  3  | You are arrested and charged. You can choose to defend yourself or hire a lawyer. If you defend yourself, roll Advocate 8+. If you succeed, the charges are dropped. If you fail, gain an Enemy and take the [[#Prisoner]] career in your next term. If you hired a lawyer, gain the lawyer as a Contact and lose a Benefit roll. |
+|  4  | You are involved in the planning of an impressive heist. Gain Electronics 1 or Mechanic 1.                                                                                                                                                                                                                                        |
+|  5  | One of your crimes pays off. Gain DM+2 to any one Benefit roll and gain your victim as an Enemy.                                                                                                                                                                                                                                  |
+|  6  | You have the opportunity to backstab a fellow rogue for personal gain. If you do so, gain DM+4 to your next advancement roll. If you refuse, gain them as an Ally.                                                                                                                                                                |
+|  7  | Life Event. Roll on the [[#Life Events Table]].                                                                                                                                                                                                                                                                                   |
+|  8  | You spend months in the dangerous criminal underworld. Gain one of Streetwise 1, Stealth 1, Melee  1,  or Gun Combat 1.                                                                                                                                                                                                           |
+|  9  | You become involved in a feud with a rival criminal organization. Roll Stealth or Gun Combat 8+. If you fail, roll on the Injury Table. If you succeed, gain an extra Benefit roll.                                                                                                                                               |
+|  10 | You are involved in a gambling ring. Gain Gambler 1. You may wager any number of Benefit rolls. Roll Gambler 8+; if you fail, lose all the wagered Benefit rolls. If you succeed, gain half as many Benefit rolls as you wagered (round up).                                                                                      |
+|  11 | A crime lord considers you his protégé. Either gain Tactics (military) 1 or DM+4 to your next advancement roll thanks to their aid.                                                                                                                                                                                               |
+|  12 | You commit a legendary crime. You are automatically promoted.                                                                                                                                                                                                                                                                     |
 
 ### Rogue Mishap Table
 
-|  1D | Mishap |
-| :-: | ------ |
-| 1 | Severely injured (this is the same as a [[#^result-of-2\|result of 2]] on the [[#Injury Table]]). Alternatively, roll twice on the [[#Injury Table]] and take the lower result. |
-| 2 | Arrested. You must take the Prisoner career in your next term. |
-| 3 | Betrayed by a friend. One of your Contacts or Allies betrays you, ending your career. That Contact or Ally becomes a Rival or Enemy. If you have no Contacts or Allies, then you are betrayed by someone you never saw coming and still gain a Rival or Enemy. In addition, roll 2D. If you roll 2, you must take the [[#Prisoner]] career in your next term. |
-| 4 | A job goes wrong, forcing you to flee off-planet. Gain one of Deception 1, Pilot (small craft or spacecraft) 1, Athletics (dexterity) 1 or Gunner 1. |
-| 5 | A police detective or rival criminal forces you to flee and vows to hunt you down. Gain an Enemy. |
-| 6 | Injured. Roll on the [[#Injury Table]]. |
+|  1D | Mishap                                                                                                                                                                                                                                                                                                                                                        |
+| :-: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  1  | Severely injured (this is the same as a [[#^result-of-2\|result of 2]] on the [[#Injury Table]]). Alternatively, roll twice on the [[#Injury Table]] and take the lower result.                                                                                                                                                                             |
+|  2  | Arrested. You must take the Prisoner career in your next term.                                                                                                                                                                                                                                                                                                |
+|  3  | Betrayed by a friend. One of your Contacts or Allies betrays you, ending your career. That Contact or Ally becomes a Rival or Enemy. If you have no Contacts or Allies, then you are betrayed by someone you never saw coming and still gain a Rival or Enemy. In addition, roll 2D. If you roll 2, you must take the [[#Prisoner]] career in your next term. |
+|  4  | A job goes wrong, forcing you to flee off-planet. Gain one of Deception 1, Pilot (small craft or spacecraft) 1, Athletics (dexterity) 1 or Gunner 1.                                                                                                                                                                                                          |
+|  5  | A police detective or rival criminal forces you to flee and vows to hunt you down. Gain an Enemy.                                                                                                                                                                                                                                                             |
+|  6  | Injured. Roll on the [[#Injury Table]].                                                                                                                                                                                                                                                                                                                       |
 
 ### Rogue Mustering Out Benefits Table
 
-|  1D | Cash | Benefits |
-| :-: | :--: | -------- |
-| 1 | None| Ship Share |
-| 2 | None| Weapon |
-| 3 | Cr10000| INT +1 |
-| 4 | Cr10000 |1D Ship Shares |
-| 5 | Cr50000|Armor |
-| 6 | Cr100000|DEX +1 |
-| 7 | Cr100000 |2D Ship Shares |
+|  1D |   Cash   | Benefits       |
+| :-: | :------: | -------------- |
+|  1  |   None   | Ship Share     |
+|  2  |   None   | Weapon         |
+|  3  |  Cr10000 | INT +1         |
+|  4  |  Cr10000 | 1D Ship Shares |
+|  5  |  Cr50000 | Armor          |
+|  6  | Cr100000 | DEX +1         |
+|  7  | Cr100000 | 2D Ship Shares |
 
 ## Scholar
 
@@ -1704,83 +1690,82 @@ You are a doctor, healer or medical researcher.
 
 ### Scholar Career Progress
 
-| Assignment                                                                     | Survival | Advancement |
-| ------------------------------------------------------------------------------ | :------: | :---------: |
-| Field Researcher| END 6+| INT 6+| 
-|Scientist| EDU 4+ |INT 8+| 
-|Physician| EDU 4+ |EDU 8+ |
+| Assignment       | Survival | Advancement |
+| ---------------- | :------: | :---------: |
+| Field Researcher |  END 6+  |    INT 6+   |
+| Scientist        |  EDU 4+  |    INT 8+   |
+| Physician        |  EDU 4+  |    EDU 8+   |
 
 ### Scholar Skills and Training
 
-| 1D | Personal<br/>Development | Service<br/>Skills | Advanced<br/>Education (EDU 10+) |
-| :-: | ------------------ | -------------- | -------------------------------- |
-| 1 | INT +1| Drive or Flyer |Art |
-| 2 | EDU +1 |Electronics |Advocate |
-| 3 | SOC +1 |Diplomat| Electronics |
-| 4 | DEX +1 |Medic |Language |
-| 5 | END +1| Investigate |Engineer |
-| 6 | Language| Science |Science | 
+|  1D | Personal<br/>Development | Service<br/>Skills | Advanced<br/>Education (EDU 10+) |
+| :-: | ------------------------ | ------------------ | -------------------------------- |
+|  1  | INT +1                   | Drive or Flyer     | Art                              |
+|  2  | EDU +1                   | Electronics        | Advocate                         |
+|  3  | SOC +1                   | Diplomat           | Electronics                      |
+|  4  | DEX +1                   | Medic              | Language                         |
+|  5  | END +1                   | Investigate        | Engineer                         |
+|  6  | Language                 | Science            | Science                          |
 
-|1D |FIELD RESEARCHER| SCIENTIST| PHYSICIAN|
-| :-: | ------------------ | -------------- | -------------------------------- |
-| 1 | Electronics|Admin |Medic |
-| 2 | Vacc Suit| Engineer| Electronics |
-| 3 | Navigation| Science |Investigate |
-| 4 | Survival |Science| Medic |
-| 5 | Investigate |Electronics |Persuade |
-| 6 | Science| Science |Science |
+|  1D | FIELD RESEARCHER | SCIENTIST   | PHYSICIAN   |
+| :-: | ---------------- | ----------- | ----------- |
+|  1  | Electronics      | Admin       | Medic       |
+|  2  | Vacc Suit        | Engineer    | Electronics |
+|  3  | Navigation       | Science     | Investigate |
+|  4  | Survival         | Science     | Medic       |
+|  5  | Investigate      | Electronics | Persuade    |
+|  6  | Science          | Science     | Science     |
 
 ### Scholar Ranks and Bonuses
 
-|Rank| FIELD RESEARCHER |FIELD RESEARCHER<br/>Skill or Bonus| SCIENTIST |SCIENTIST<br/>Skill or Bonus| PHYSICIAN|PHYSICIAN<br/>Skill or Bonus|
-|:-:| --| --| --| --| --| --|
-| 0 | —| — |—| — |— |— |
-| 1 | — |Science 1 |—| Science 1 | — |Medic 1 |
-| 2 | —| Electronics (computers) 1|— |Electronics (computers) 1|— |— |
-| 3 | —| Investigate 1 | — |Investigate 1 |— |Science 1 |
-| 4 | — |— |—|— | — |— |
-| 5 | — |Science 2 |— |Science 2 |— |Science 2 |
-| 6 | — |— |— |— |— |— |
+| Rank | FIELD RESEARCHER | FIELD RESEARCHER<br/>Skill or Bonus | SCIENTIST | SCIENTIST<br/>Skill or Bonus | PHYSICIAN | PHYSICIAN<br/>Skill or Bonus |
+| :--: | ---------------- | ----------------------------------- | --------- | ---------------------------- | --------- | ---------------------------- |
+|   0  | —                | —                                   | —         | —                            | —         | —                            |
+|   1  | —                | Science 1                           | —         | Science 1                    | —         | Medic 1                      |
+|   2  | —                | Electronics (computers) 1           | —         | Electronics (computers) 1    | —         | —                            |
+|   3  | —                | Investigate 1                       | —         | Investigate 1                | —         | Science 1                    |
+|   4  | —                | —                                   | —         | —                            | —         | —                            |
+|   5  | —                | Science 2                           | —         | Science 2                    | —         | Science 2                    |
+|   6  | —                | —                                   | —         | —                            | —         | —                            |
 
 ### Scholar Event Table
 
-|  2D | Event |
-| :-: | ----- |
-| 2 | Disaster! Roll on the [[#Scholar Mishap table]] but you are not ejected from this career. |
-| 3 | You are called upon to perform research that goes against your conscience. Accept and you gain an extra Benefit roll, a level in each of any two Science skill specialties and D3 Enemies. |
-| 4 | You are assigned to work on a secret project for a patron or organization. Gain one of Medic 1, Science 1, Engineer 1, Electronics 1 or Investigate 1. |
-| 5 | You win a prestigious prize for your work, garnering both the praise and envy of your peers. Gain DM+1 to any one Benefit roll. |
-| 6 | You are given advanced training in a specialist field. Roll EDU 8+ to gain any one skill of your choice at level 1. |
-| 7 | Life Event. Roll on the [[#Life Events Table]]. |
-| 8 | You have the opportunity to cheat in some fashion, advancing your career and research by stealing another's work, using an alien device, taking a shortcut and so forth. If you refuse, you gain nothing. If you accept, roll Deception 8+ or Admin 8+. If you succeed, you gain DM+2 to any one Benefit roll and may increase any skill by one level but also gain an Enemy. If you fail, gain an Enemy and lose one Benefit roll from this career. |
-| 9 | You make a breakthrough in your field. Gain DM+2 to your next advancement roll. |
-| 10 | You become entangled in a bureaucratic or legal morass that distracts you from your work. Gain one of Admin 1, Advocate 1, Persuade 1 or Diplomat 1. |
-| 11 | You work for an eccentric but brilliant mentor, who becomes an Ally. Either increase Science by one level or DM+4 to your next advancement roll thanks to their aid. |
-| 12 | Your work leads to a considerable breakthrough. You are automatically promoted. |
+|  2D | Event                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| :-: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  2  | Disaster! Roll on the [[#Scholar Mishap table]] but you are not ejected from this career.                                                                                                                                                                                                                                                                                                                                                            |
+|  3  | You are called upon to perform research that goes against your conscience. Accept and you gain an extra Benefit roll, a level in each of any two Science skill specialties and D3 Enemies.                                                                                                                                                                                                                                                           |
+|  4  | You are assigned to work on a secret project for a patron or organization. Gain one of Medic 1, Science 1, Engineer 1, Electronics 1 or Investigate 1.                                                                                                                                                                                                                                                                                               |
+|  5  | You win a prestigious prize for your work, garnering both the praise and envy of your peers. Gain DM+1 to any one Benefit roll.                                                                                                                                                                                                                                                                                                                      |
+|  6  | You are given advanced training in a specialist field. Roll EDU 8+ to gain any one skill of your choice at level 1.                                                                                                                                                                                                                                                                                                                                  |
+|  7  | Life Event. Roll on the [[#Life Events Table]].                                                                                                                                                                                                                                                                                                                                                                                                      |
+|  8  | You have the opportunity to cheat in some fashion, advancing your career and research by stealing another's work, using an alien device, taking a shortcut and so forth. If you refuse, you gain nothing. If you accept, roll Deception 8+ or Admin 8+. If you succeed, you gain DM+2 to any one Benefit roll and may increase any skill by one level but also gain an Enemy. If you fail, gain an Enemy and lose one Benefit roll from this career. |
+|  9  | You make a breakthrough in your field. Gain DM+2 to your next advancement roll.                                                                                                                                                                                                                                                                                                                                                                      |
+|  10 | You become entangled in a bureaucratic or legal morass that distracts you from your work. Gain one of Admin 1, Advocate 1, Persuade 1 or Diplomat 1.                                                                                                                                                                                                                                                                                                 |
+|  11 | You work for an eccentric but brilliant mentor, who becomes an Ally. Either increase Science by one level or DM+4 to your next advancement roll thanks to their aid.                                                                                                                                                                                                                                                                                 |
+|  12 | Your work leads to a considerable breakthrough. You are automatically promoted.                                                                                                                                                                                                                                                                                                                                                                      |
 
 ### Scholar Mishap Table
 
-|  1D | Mishap |
-| :-: | ------ |
-| 1 | Severely injured (this is the same as a [[#^result-of-2\|result of 2]] on the [[#Injury Table]]). Alternatively, roll twice on the [[#Injury Table]] and take the lower result. |
-| 2 | A disaster leaves several injured and others blame you, forcing you to leave your career. Roll on the [[#Injury Table]] twice, taking the higher result and gain a Rival. |
-| 3 | The planetary government interferes with your research for political or religious reasons. If you continue with your work openly, increase Science by one level and gain an Enemy. If you continue with your work secretly, increase Science by one level and reduce your SOC by 2. This mishap does not cause you to leave this career. |
-| 4 | An expedition or voyage goes wrong, leaving you stranded in the wilderness. Gain Survival 1 or Athletics (dexterity or endurance) 1. By the time you find your way home, your job is gone. |
-| 5 | Your work is sabotaged by unknown parties. You may salvage what you can and give up (leave the career but retain this term's Benefit roll) or start again from scratch (lose all Benefit rolls from this career but you do not have to leave). |
-| 6 | A rival researcher blackens your name or steals your research. Gain a Rival but you do not have to leave this career. |
+|  1D | Mishap                                                                                                                                                                                                                                                                                                                                   |
+| :-: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  1  | Severely injured (this is the same as a [[#^result-of-2\|result of 2]] on the [[#Injury Table]]). Alternatively, roll twice on the [[#Injury Table]] and take the lower result.                                                                                                                                                        |
+|  2  | A disaster leaves several injured and others blame you, forcing you to leave your career. Roll on the [[#Injury Table]] twice, taking the higher result and gain a Rival.                                                                                                                                                                |
+|  3  | The planetary government interferes with your research for political or religious reasons. If you continue with your work openly, increase Science by one level and gain an Enemy. If you continue with your work secretly, increase Science by one level and reduce your SOC by 2. This mishap does not cause you to leave this career. |
+|  4  | An expedition or voyage goes wrong, leaving you stranded in the wilderness. Gain Survival 1 or Athletics (dexterity or endurance) 1. By the time you find your way home, your job is gone.                                                                                                                                               |
+|  5  | Your work is sabotaged by unknown parties. You may salvage what you can and give up (leave the career but retain this term's Benefit roll) or start again from scratch (lose all Benefit rolls from this career but you do not have to leave).                                                                                           |
+|  6  | A rival researcher blackens your name or steals your research. Gain a Rival but you do not have to leave this career.                                                                                                                                                                                                                    |
 
 ### Scholar Mustering Out Benefits Table
 
-|  1D | Cash | Benefits |
-| :-: | :--: | -------- |
-| 1 | Cr5000| INT +1 |
-| 2 | Cr10000 |EDU +1 |
-| 3 | Cr20000 |Two Ship Shares |
-| 4 | Cr30000 |SOC +1 |
-| 5 | Cr40000 |Scientific Equipment |
-| 6 | Cr60000| Lab Ship |
-| 7 | Cr100000 |Lab Ship |
-
+|  1D |   Cash   | Benefits             |
+| :-: | :------: | -------------------- |
+|  1  |  Cr5000  | INT +1               |
+|  2  |  Cr10000 | EDU +1               |
+|  3  |  Cr20000 | Two Ship Shares      |
+|  4  |  Cr30000 | SOC +1               |
+|  5  |  Cr40000 | Scientific Equipment |
+|  6  |  Cr60000 | Lab Ship             |
+|  7  | Cr100000 | Lab Ship             |
 
 ## Scout
 
@@ -1804,81 +1789,80 @@ You visit border worlds and assess their worth.
 
 You go wherever the map is blank, exploring unknown worlds and uncharted space.
 
-| Assignment                                                          | Survival | Advancement |
-| ------------------------------------------------------------------- | :------: | :---------: |
-| Courier |END 5+ |EDU 9+|
-|Surveyor| END 6+| INT 8+ 
-|Explorer |END 7+ |EDU 7+ |
+| Assignment | Survival | Advancement |
+| ---------- | :------: | :---------: |
+| Courier    |  END 5+  |    EDU 9+   |
+| Surveyor   |  END 6+  |    INT 8+   |
+| Explorer   |  END 7+  |    EDU 7+   |
 
 ### Scout Mustering Out Benefits Table
 
-|  1D | Cash | Benefits |
-| :-: | :--: | -------- |
-| 1 | Cr20000| Ship Share |
-| 2 | Cr20000 |INT +1 |
-| 3 | Cr30000 |EDU +1 |
-| 4 | Cr30000 |Weapon |
-| 5 | Cr50000 |Weapon |
-| 6 | Cr50000 |Scout Ship |
-| 7 | Cr50000 |Scout Ship |
+|  1D |   Cash  | Benefits   |
+| :-: | :-----: | ---------- |
+|  1  | Cr20000 | Ship Share |
+|  2  | Cr20000 | INT +1     |
+|  3  | Cr30000 | EDU +1     |
+|  4  | Cr30000 | Weapon     |
+|  5  | Cr50000 | Weapon     |
+|  6  | Cr50000 | Scout Ship |
+|  7  | Cr50000 | Scout Ship |
 
-| 1D | Personal<br/>Development | Service<br/>Skills | Advanced<br/>Education (EDU 8+) |
-| :-: | ------------------ | -------------- | ------------------------------- |
-| 1 | STR +1 |Pilot (small craft or spacecraft)| Medic |
-| 2 | DEX +1 |Survival |Language |
-| 3 | END +1 |Mechanic| Seafarer |
-| 4 | INT +1| Astrogation|Explosives |
-| 5 | EDU +1| Vacc Suit| Science |
-| 6 | Jack-of-all-Trades |Gun Combat |Jack-of-all-Trades |
+|  1D | Personal<br/>Development | Service<br/>Skills                | Advanced<br/>Education (EDU 8+) |
+| :-: | ------------------------ | --------------------------------- | ------------------------------- |
+|  1  | STR +1                   | Pilot (small craft or spacecraft) | Medic                           |
+|  2  | DEX +1                   | Survival                          | Language                        |
+|  3  | END +1                   | Mechanic                          | Seafarer                        |
+|  4  | INT +1                   | Astrogation                       | Explosives                      |
+|  5  | EDU +1                   | Vacc Suit                         | Science                         |
+|  6  | Jack-of-all-Trades       | Gun Combat                        | Jack-of-all-Trades              |
 
-|1D| COURIER| SURVEYOR| EXPLORER|
-| :-: | ------------------ | -------------- | ------------------------------- |
-| 1 | Electronics| |Electronics| Electronics |
-| 2 | Flyer| Persuade| Pilot |
-| 3 | Pilot (spacecraft)|Pilot |Engineer |
-| 4 | Engineer| Navigation |Science |
-| 5 | Athletics| Diplomat|Stealth |
-| 6 | Astrogation |Streetwise |Recon |
+|  1D | COURIER            | SURVEYOR   | EXPLORER    |             |
+| :-: | ------------------ | ---------- | ----------- | ----------- |
+|  1  | Electronics        |            | Electronics | Electronics |
+|  2  | Flyer              | Persuade   | Pilot       |             |
+|  3  | Pilot (spacecraft) | Pilot      | Engineer    |             |
+|  4  | Engineer           | Navigation | Science     |             |
+|  5  | Athletics          | Diplomat   | Stealth     |             |
+|  6  | Astrogation        | Streetwise | Recon       |             |
 
 ### Scout Ranks and Bonuses
 
-|Rank|Title| Skill or Bonus Rank|
-|:-:|--|--|
-| 0 | — |— |
-| 1 | Scout |Vacc Suit 1 |
-| 2 | —| — |
-| 3 | Senior Scout| Pilot 1 |
-| 4 | —| — |
-| 5 | —| — |
-| 6 | —| — |
+| Rank | Title        | Skill or Bonus Rank |
+| :--: | ------------ | ------------------- |
+|   0  | —            | —                   |
+|   1  | Scout        | Vacc Suit 1         |
+|   2  | —            | —                   |
+|   3  | Senior Scout | Pilot 1             |
+|   4  | —            | —                   |
+|   5  | —            | —                   |
+|   6  | —            | —                   |
 
 ### Scout Event Table
 
-|  2D | Event |
-| :-: | ----- |
-| 2 | Disaster! Roll on the [[#Scout Mishap table]] but you are not ejected from this career. |
-| 3 | Your ship is ambushed by enemy vessels. Either run and roll Pilot 8+ to escape, or treat with them and roll Persuade 10+ to bargain with them. If you fail the check, then your ship is destroyed and you may not re-enlist in the Scouts at the end of this term. If you succeed, you survive and gain Electronics (sensors) 1. Either way, gain an Enemy. |
-| 4 | You survey an alien world. Gain one of Animals (riding or training) 1, Survival 1, Recon 1 or Science 1. |
-| 5 | You perform an exemplary service for the scouts. Gain DM+1 to any one Benefit roll. |
-| 6 | You spend several years jumping from world to world in your scout ship. Gain one of Astrogation 1, Electronics 1, Navigation 1, Pilot (small craft) 1 or Mechanic 1 |
-| 7 | Life Event. Roll on the [[#Life Events Table]]. |
-| 8 | When dealing with an alien species , you have an opportunity to gather extra intelligence about them. Roll either Electronics 8+ or Deception 8+. If you succeed, gain an Ally in the Imperium and DM+2 to your next advancement roll. If you fail, roll on the Mishap table but you are not ejected from this career. |
-| 9 | Your scout ship is one of the first on the scene to rescue the survivors of a disaster. Roll either Medic 8+ or Engineer 8+. If you succeed, gain a Contact and DM+2 to your next advancement roll. If you fail, gain an Enemy. |
-| 10 | You spend a great deal of time on the fringes of Charted Space. Roll Survival 8+ or Pilot 8+. If you succeed, gain a Contact in an alien species and one level in any skill of your choice. If you fail, roll on the [[#Scout Mishap table]] but you are not ejected from this career. |
-| 11 | You serve as the courier for an important message from the Imperium. Either gain one level of Diplomat or DM+4 to your next advancement roll. |
-| 12 | You discover a world, item or information of worth to the Imperium. You are automatically promoted. |
+|  2D | Event                                                                                                                                                                                                                                                                                                                                                       |
+| :-: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  2  | Disaster! Roll on the [[#Scout Mishap table]] but you are not ejected from this career.                                                                                                                                                                                                                                                                     |
+|  3  | Your ship is ambushed by enemy vessels. Either run and roll Pilot 8+ to escape, or treat with them and roll Persuade 10+ to bargain with them. If you fail the check, then your ship is destroyed and you may not re-enlist in the Scouts at the end of this term. If you succeed, you survive and gain Electronics (sensors) 1. Either way, gain an Enemy. |
+|  4  | You survey an alien world. Gain one of Animals (riding or training) 1, Survival 1, Recon 1 or Science 1.                                                                                                                                                                                                                                                    |
+|  5  | You perform an exemplary service for the scouts. Gain DM+1 to any one Benefit roll.                                                                                                                                                                                                                                                                         |
+|  6  | You spend several years jumping from world to world in your scout ship. Gain one of Astrogation 1, Electronics 1, Navigation 1, Pilot (small craft) 1 or Mechanic 1                                                                                                                                                                                         |
+|  7  | Life Event. Roll on the [[#Life Events Table]].                                                                                                                                                                                                                                                                                                             |
+|  8  | When dealing with an alien species , you have an opportunity to gather extra intelligence about them. Roll either Electronics 8+ or Deception 8+. If you succeed, gain an Ally in the Imperium and DM+2 to your next advancement roll. If you fail, roll on the Mishap table but you are not ejected from this career.                                      |
+|  9  | Your scout ship is one of the first on the scene to rescue the survivors of a disaster. Roll either Medic 8+ or Engineer 8+. If you succeed, gain a Contact and DM+2 to your next advancement roll. If you fail, gain an Enemy.                                                                                                                             |
+|  10 | You spend a great deal of time on the fringes of Charted Space. Roll Survival 8+ or Pilot 8+. If you succeed, gain a Contact in an alien species and one level in any skill of your choice. If you fail, roll on the [[#Scout Mishap table]] but you are not ejected from this career.                                                                      |
+|  11 | You serve as the courier for an important message from the Imperium. Either gain one level of Diplomat or DM+4 to your next advancement roll.                                                                                                                                                                                                               |
+|  12 | You discover a world, item or information of worth to the Imperium. You are automatically promoted.                                                                                                                                                                                                                                                         |
 
 ### Scout Mishap Table
 
-|  1D | Mishap |
-| :-: | ------ |
-| 1 | Severely injured (this is the same as a [[#^result-of-2\|result of 2]] on the [[#Injury Table]]). Alternatively, roll twice on the [[#Injury Table]] and take the lower result. |
-| 2 | Psychologically damaged by your time in the scouts. Reduce your INT or SOC by 1. |
-| 3 | Your ship is damaged and you have to hitch-hike your way back across the stars to the nearest scout base. Gain 1D Contacts and D3 Enemies. |
-| 4 | You inadvertently cause a conflict between the Imperium and a minor world or species. Gain a Rival and Diplomat 1. |
-| 5 | You have no idea what happened to you – they found your ship drifting on the fringes of friendly space. |
-| 6 | Injured. Roll on the [[#Injury Table]]. |
-
+|  1D | Mishap                                                                                                                                                                            |
+| :-: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  1  | Severely injured (this is the same as a [[#^result-of-2\|result of 2]] on the [[#Injury Table]]). Alternatively, roll twice on the [[#Injury Table]] and take the lower result. |
+|  2  | Psychologically damaged by your time in the scouts. Reduce your INT or SOC by 1.                                                                                                  |
+|  3  | Your ship is damaged and you have to hitch-hike your way back across the stars to the nearest scout base. Gain 1D Contacts and D3 Enemies.                                        |
+|  4  | You inadvertently cause a conflict between the Imperium and a minor world or species. Gain a Rival and Diplomat 1.                                                                |
+|  5  | You have no idea what happened to you – they found your ship drifting on the fringes of friendly space.                                                                           |
+|  6  | Injured. Roll on the [[#Injury Table]].                                                                                                                                           |
 
 ## Life Events
 
@@ -2131,10 +2115,12 @@ The Aslan are the youngest of the great powers, an expansionist species of feudi
 
 Early Terran explorers regarded the Aslan as 'lion- like' and the simile has stuck ever since, although the Aslan bear only a passing resemblance to terrestrial lions. Nonetheless, this early misnomer has influenced a great deal of human thinking about the Aslan, including terminology (the use of pride to translate ahriy, for instance) and ascribed behaviour – which is not at all leonine.
 
-#### Characteristics 
+#### Characteristics
+
 Aslan Travellers have the following modifiers applied to their characteristics: STR+2, DEX-2.
 
 #### Traits
+
 Aslan Travellers all possess the following traits:
 
 Dewclaw: All Aslan have a dewclaw, which can be extended to make for a vicious close combat weapon. The dewclaw uses the Melee (natural) skill and does 1D+2 damage.
@@ -2150,9 +2136,11 @@ The Vargr are the only Major Race to have been uplifted by the Ancients, a fact 
 The Vargr are descended from carnivore/chaser stock; genetically engineered by the Ancients circa -300,000 from the genus Canis. The carnivores were transplanted from Terra to Lair/Grnouf in the Provence sector. The Vargr bear a close resemblance to their canine ancestry, as can be seen by their muzzle, tail and fur, although several anatomical modifications were made by the Ancients to the canine body structure. Vargr adopt a digitigrade stance (putting their weight on their toes rather than the soles of their feet) and many have a slight stoop.
 
 #### Characteristics
+
 Vargr Travellers have the following modifiers applied to their characteristics: STR-1, DEX+1, END-1.
 
 #### Traits
+
 Vargr Travellers all possess the following traits:
 
 Bite: All Vargr possess pronounced canines, which make for a nasty close combat weapon. This bite uses the Melee (natural) skill and does 1D+1 damage.
@@ -2247,14 +2235,14 @@ A Traveller's Parole Threshold starts at 1D+2. A Traveller's Parole Threshold ca
 
 ### Prisoner Skills and Training
 
-|  1D | Personal<br/>Development | Service<br/>Skills  |
-| :-: | :------------------: | --------------- |
-|  1  |        STR +1        | Athletics       |
-|  2  |    Melee (unarmed)   | Deception       |
-|  3  |        END +1        | Profession      |
-|  4  |  Jack-of-all-Trades  | Streetwise      |
-|  5  |        EDU +1        | Melee (unarmed) |
-|  6  |   Gambler Persuade   |                 |
+|  1D | Personal<br/>Development | Service<br/>Skills |
+| :-: | :----------------------: | ------------------ |
+|  1  |          STR +1          | Athletics          |
+|  2  |      Melee (unarmed)     | Deception          |
+|  3  |          END +1          | Profession         |
+|  4  |    Jack-of-all-Trades    | Streetwise         |
+|  5  |          EDU +1          | Melee (unarmed)    |
+|  6  |     Gambler Persuade     |                    |
 
 |  1D | Inmate               | Thug                 | Fixer       |
 | :-: | -------------------- | -------------------- | ----------- |
@@ -3860,7 +3848,6 @@ A bug can be active or passive. An active bug transmits data (either constantly,
 
 ### ITEM TL MASS COST
 
-
 Commdot (^10) — Cr10
 **Mobile Comm:** A mobile comm unit is a portable telecommunications device/computer/camera, ranging in size from a bulky handset to a slim watch or pen-like cylinder – in today's world we call them mobile phones or cell phones. Larger comms have physical controls and screens while smaller units either project data and control displays onto nearby surfaces, have fold-out plastic screens, or connect to cybernetics. Comms have only short-range transmission and reception capabilities but most technologically advanced worlds will have planetwide comm networks allowing the user to send messages and access data anywhere.
 **TL FEATURES COST** TL6 Audio only Cr50 TL8 Audio and visual, Computer/0 Cr150 TL10 Multiple forms of data, Computer/1 Cr500
@@ -4180,7 +4167,7 @@ Melee weapons are a symbol of status among the nobility of many worlds but they 
 These weapons require the Melee skill, using the blade speciality if they have a sharp edge, bludgeon if they do not and unarmed if you are left with nothing but your fists; though fists are a poor substitute against a better prepared enemy.
 
 WEAPON TL RANGEDAMAGE KG COST MAGAZINE MAGAZINE COST TRAITS
-Blade 2 Melee 2D 1 Cr100 — — — 
+Blade 2 Melee 2D 1 Cr100 — — —
 Broadsword 2 Melee 4D 2 Cr500 — — Bulky
 Club 1 Melee 2D 2 — — — —
 Cutlass 2 Melee 3D 0.5 Cr200 — — —
@@ -4302,7 +4289,6 @@ These weapons require the Gun Combat (energy) skill.
 
 ### WEAPON TL RANGE DAMAGE KG COST MAGAZINE
 
-
 **POWER PACK COST TRAITS PISTOLS** Laser Pistol 9 20m 3D 2 Cr2000 100 Cr1000 Zero-G Laser Pistol 11 30m 3D+3 1 Cr3000 100 Cr1200 Zero-G Stunner 8 5m 2D 0.5 Cr500 100 Cr200 Stun, Zero-G Stunner 10 5m 2D+3 — Cr750 100 Cr200 Stun, Zero-G Stunner 12 10m 3D — Cr1000 100 Cr200 Stun, Zero-G
 **RIFLES** Laser Carbine 9 150m 4D 4 Cr2500 50 Cr1000 Zero-G Laser Carbine 11 200m 4D+3 2 Cr4000 50 Cr3000 Zero-G Laser Rifle 9 200m 5D 5 Cr3500 100 Cr1500 Zero-G Laser Rifle 11 400m 5D+3 3 Cr8000 100 Cr3500 Zero-G Laser Sniper Rifle
 
@@ -4414,9 +4400,9 @@ Doubling the amount of explosives used will increase the Damages by 1D and the B
 
 ### Explosives
 
-WEAPON TL RANGEDAMAGE KG COST MAGAZINE MAGAZINE COST TRAITS 
-Plastic 6 — 3D — Cr200 — — Blast 9 
-Pocket Nuke 12 — 6DD 4 Cr250000 — — Blast 1000, Radiation 
+WEAPON TL RANGEDAMAGE KG COST MAGAZINE MAGAZINE COST TRAITS
+Plastic 6 — 3D — Cr200 — — Blast 9
+Pocket Nuke 12 — 6DD 4 Cr250000 — — Blast 1000, Radiation
 TDX 12 — 4D — Cr1000 — — Blast 15
 
 Plastic: This generic, multi-purpose plastic explosive is a favorite of military units, terrorists, demolition teams and Travellers across Charted Space.
@@ -5277,9 +5263,11 @@ Any non-mechanical lock can be opened or closed remotely if the crew wishes to a
 If a ship finds itself the target of hijacking or boarding, there are several security systems common to all vessels that can be employed by the crew.
 
 #### Alarms
+
 If an alarm is tripped (hull breach, fire, door being forced open, alarm button pressed), it will alert the crew. The location of the alarm will be shown on computer displays. A passenger ship may have several crew trained in combat; military ships will carry dedicated marines. Some vessels may even have security robots who respond automatically to alarms.
 
 #### Gravity
+
 It is possible to alter the artificial gravity on board. Reducing gravity to zero will limit actions to the level of an attacker's Athletics (dexterity) skill (see Zero Gravity on page 81). Gravity can also safely be increased up to 3G with an Electronics (computers) check, which will count as high gravity (see page 80).
 
 Tranq Gas: Some ships carry tranq gas canisters in the air vents, which can be released automatically. These flood a compartment with gas that forces END checks, with a cumulative DM-1 every round. Any Traveller who fails the END check is knocked unconscious for 2D minutes.
@@ -5340,12 +5328,15 @@ Once the Actions Step is complete, the combat round ends and if there are still 
 Every Traveller on board a ship who intends to take part in a battle must be assigned to one of the following duties. There can only be one pilot and one captain but other duties may have multiple Travellers performing them and Travellers can move between different duties during the battle.
 
 #### Pilot
+
 Flies the ship, responsible for changing course and making evasive maneuvers.
 
 #### Captain
+
 Commands the ship and can use Leadership and Tactics skills.
 
 #### Engineer
+
 Engineers can be assigned to the power plant and maneuver and jump drives, or handle general damage control.
 
 Sensor Operator: This position engages in electronic warfare and keeps track of enemy spacecraft.
@@ -5355,6 +5346,7 @@ Turret Gunner: Each turret has its own gunner. A Traveller must choose which tur
 Bay Gunner: Each bay weapon has its own gunner. Marine: Prepares to repel boarders or to board enemy ships.
 
 #### Passenger
+
 Passengers are all Travellers who are not assigned a duty and are assumed to be waiting in their staterooms.
 
 A list of possible actions related to each duty can be found on page 171.
@@ -5419,14 +5411,17 @@ Any remaining Thrust that has not been allocated for movement may be used for co
 One point of Thrust allows a ship to do one of the following, and several of these maneuvers may be attempted if enough Thrust is available. However, each maneuver may only be attempted once with the exception of Evasive Action.
 
 #### Aid Gunners
+
 A pilot may attempt to aid thair gunners by providing a more stable firing platform along the optimum attack vector. The pilot makes a Pilot check to start a task chain with their gunners, as described on page 63.
 
 Ship Movement Range Band Distance Thrust Required Example Adjacent 1km or less 1 Docked ships Close 1–10km 1 Nearby or dogfighting vessels Short 11–1,250km 2 Ships in same orbital path Medium 1,251–10,000km 5 Surface to orbit Long 10,001–25,000km 10 Near to a planet Very Long 25,001–50,000km 25 Within jump limit Distant More than 50,000km 50 Distant ships
 
 #### Docking
+
 The pilot must make a successful Pilot check. If the other ship does not wish to be docked, then both ships must make opposed Pilot checks, with the ship trying to dock suffering DM-2. When a docking is successful, boarding actions can take place.
 
 #### Evasive Action
+
 Any remaining Thrust can be used as a reaction to dodge incoming fire. This is covered on page 171.
 
 ## ATTACK STEP
@@ -5503,20 +5498,25 @@ These are among the more common weapons fitted to spacecraft, whether as defensi
 All these weapons are Spacecraft scale and require the Gunner skill. Note that, for Spacecraft scale weapons, maximum ranges are listed in Range Bands and they cannot attack targets that lie beyond their listed Range Band.
 
 #### Beam Laser
+
 A laser-based weapon that fires a continuous beam, allowing targets to be tracked and hit more easily. However, this does require more power to function and so is shorter ranged and does less damage than a pulse laser.
 
 #### Missile Rack
+
 Although missile racks require ammunition and the warheads take time to reach distant targets, they can be very powerful weapons and, when a range of warheads is available, extremely versatile too. Missiles use slightly different rules to other spacecraft weapons, which are covered on page 172. Each turret with one or more missile racks holds 12 missiles and costs Cr250000 to refill all 12. It takes one round to reload a missile rack (see page 172).
 
 Highly illegal in most areas of space, adding nuclear warheads to missiles makes them devastatingly powerful, even with reduced blast effects in space. Each turret with one or more missile racks can hold 12 nuclear missiles and costs Cr450000 to refill all 12 if legally purchased.
 
 #### Particle Barbette
+
 Taking advantage of the increased power efficiencies and space available to a barbette, this is a much larger weapon than those mounted in turrets.
 
 #### Pulse Laser
+
 Utilising capacitors to discharge its energy in a powerful blasts, the pulse laser is less accurate than its beam-based counterpart but is longer ranged and does more damage.
 
 #### Sandcaster
+
 Although mounted in turrets and of use against boarders, the sandcaster is primarily a defensive weapon used to protect ships from laser weapons. Each turret with one or more sandcasters holds 20 sand canisters and costs Cr25000 to refill. It takes one round to reload a sandcaster (see page 171).
 
 ## MOUNTING WEAPONS
@@ -5802,6 +5802,7 @@ Fortunately, the crew need not be idle as they await their destruction as there 
 As missiles can take several rounds to reach their targets, you should keep track of how many missiles remain within each salvo, reducing them as countermeasures take effect.
 
 #### Electronic Warfare
+
 A Traveller performing sensor operator duties on a spacecraft can use the Electronic Warfare action to destroy or misdirect incoming missiles before they impact their vessel or another ship within Close range.
 
 During the Actions Step, the sensor operator must succeed at a Difficult (10+) Electronics (sensors) check in order to destroy or render inert incoming missiles within a single salvo. The Effect of this check will immediately remove that many missiles from the salvo.
@@ -5809,9 +5810,11 @@ During the Actions Step, the sensor operator must succeed at a Difficult (10+) E
 Electronic Warfare may be performed upon a salvo multiple times over several rounds, with the effects being cumulative. However, a salvo may only be subjected to Electronic Warfare once per round, no matter how many sensor operators are available.
 
 #### Flee
+
 A spacecraft under missile attack may simply turn around and engage its maneuver drive, thrusting away from the missiles by increasing the Range Band between missiles and ship. Missiles are extremely long-ranged weapons and so it is not normally possible to outrange a missile in this way but it can perhaps buy enough time to prolong electronic warfare or make a jump.
 
 #### Point Defense
+
 Finally, just as a salvo is about to strike, gunners may engage in point defense, as detailed on page 171.
 
 MISSILES and TARGETS When a missile salvo reaches its target, the missile makes an attack roll as normal in the Attack Step. However, neither the Gunner skill of the Traveller(s) that fired the salvo nor range are used as modifiers. Other modifiers, such as Evasive Action, are used as normal.
@@ -5900,6 +5903,7 @@ Throughout the design process, you will keep track of two key numbers – the to
 Construction TIMES Construction times vary wildly, depending on the size and complexity of the spacecraft and the capabilities of the shipyard. On average, assume that it takes one day per million Credits to build a spacecraft at an average commercial shipyard.
 
 #### STEP 1
+
 CREATE A HULL The first step in designing a ship is to build its hull – this is the body of the ship, its fuselage.
 
 Decide on the total tonnage of the ship. This will affect the performance of the ship and, ultimately, limit what it can carry and achieve.
@@ -5977,6 +5981,7 @@ Hull Configuration Streamlined? Hull Points Cost Standard Partial — —
 HULL CONFIGURATIONS
 
 #### STEP 2
+
 INSTALL DRIVES Once you have your basic hull complete, it is time to start filling it! The first items to add are the engines so the ship is able to move through space. These are divided into maneuver and jump drives. Maneuver drives use gravitic technology that pushes the ship through space – it is these that give a ship its Thrust score. Jump drives are special systems that allow a ship to travel faster-than-light across interstellar distances.
 
 To fit a maneuver drive, consult the Thrust Potential table and decide what Thrust score you want your ship to have. The figure below that Thrust score shows what percentage of the ship's hull the maneuver drive requires.
@@ -6004,6 +6009,7 @@ Rating 1 2 3 4 5 6
 % of Hull 2.5% 5% 7.5% 10% 12.5% 15% Jump TL 9 11 12 13 14 15
 
 #### STEP 3
+
 INSTALL POWER PLANT The heart of a spacecraft is the power plant. Typically fusion-based, the power plant meets all the energy requirements for every system on the ship, from the massive amounts required for jump and maneuver drives to the expresso machine in the captain's stateroom. Ships are typically built with power plants large enough to supply energy to all systems on a ship without interruption, although some cheaper vessels may require weapons and other systems to be off-lined while making a jump, for example.
 
 The Power Plant table illustrates the types of power plant available, how much Power they generate and their cost.
@@ -6015,17 +6021,21 @@ Power Plant Type Power per Ton Cost per Ton Fusion (TL8) 10 MCr0.5 Fusion (TL12)
 There are three main requirements a power plant must meet in terms of Power needed by a ship.
 
 #### Basic Ship Systems
+
 This includes everything a ship needs for day-to-day operations, including artificial gravity, heating, lighting and life support. The amount of Power needed for basic ship systems is equal to 20% of the total tonnage of the hull.
 
 #### Maneuver Drive
+
 In order to use the maneuver drive, the ship requires an amount of Power equal to 10% of the hull's total tonnage multiplied by the maximum Thrust the drive is capable of.
 
 #### Jump Drive
+
 In order to use the jump drive, the ship requires an amount of Power equal to 10% of the hull's total tonnage multiplied by the maximum jump number the drive is capable of.
 
 It is considered good practice to ensure there is enough Power available to use the basic ships systems and the maneuver drive simultaneously - being able to use the jump drive at the same time without taking power from other systems is considered a good advantage. You should also note that certain weapons and types of equipment require additional Power, as noted in their descriptions.
 
 #### STEP 4
+
 INSTALL FUEL TANKS All ships require fuel to function and the total fuel tankage for a ship must be indicated in the design plans. There is no cost associated with space allocated to fuel tanks but their capacity will influence how often the ship must refuel.
 
 ## JUMP DRIVES
@@ -6041,6 +6051,7 @@ The result of this is the number of tons that needs to be dedicated to jump fuel
 Power plants require fuel tankage equal to 10% of their size (rounding up, minimum one ton). This provides enough fuel for the power plant for four weeks. This can be extended further by increasing the fuel tankage for the power plant (so, doubling it will provide enough fuel for eight weeks and so on).
 
 #### STEP 5
+
 INSTALL BRIDGE All ships must have a bridge containing basic controls, communications equipment, avionics, scanners, detectors, sensors and other equipment for proper operation of the ship. The size of the bridge varies depending on the size of the ship and can range from a massive deck with multiple crew positions on a capital ship to a snug single-seat cockpit in a fighter.
 
 The size of bridge required and its cost are shown on the Bridges table.
@@ -6058,6 +6069,7 @@ A dual cockpit provides space for an additional crew member, such as a sensor op
 A cockpit is not designed for long term use and only has life support for 24 hours. However, pilots will want to leave the cockpit long before then...
 
 #### STEP 6
+
 INSTALL COMPUTER Every ship needs a central computer, usually installed near the bridge. The computer is the heart of the ship, controlling all functions from life support to the complex calculations needed to perform a jump.
 
 Computers are identified by their model number and the Computers table indicates their price, capacity and Tech Level. In general, larger and more powerful computers are advantageous in combat. The computers installed in a ship work just like personal computers (see page 110) but are considerably more powerful because the software needed for ship operations requires a great deal of processing power.
@@ -6073,11 +6085,13 @@ Computers do not consume any tonnage on a ship
 **Jump Control Specialization (/bis):** A computer's Processing score can be increased by +5 for the purposes of running Jump Control programs only by selecting this option. This increases the computer's cost by +50%.
 
 #### STEP 7
+
 INSTALL SENSORS All ships come equipped with basic communications, sensor and emission-control suites, usually as part of their bridge. However, specialized or military ships often benefit from more advanced systems that are far more sensitive and resistant to jamming.
 
 The DM column in the Sensors table is applied to all Electronics (comms) and Electronics (sensors) checks made by crew in the ship. All ships have Basic sensors unless upgraded.
 
 #### STEP 8
+
 INSTALL WEAPONS Military ships rely on a broad range of weaponry to project power across space but even a humble merchant or scout will find a weaponised turret a useful addition when straying into rougher star systems.
 
 Weapons are installed in the same way as components, taking note of the tonnage they consume within the hull and their cost. Most weapons also have a Power cost associated with them and so you should ensure your power plant is still large enough to handle all the needs of the spacecraft after weapons have been installed.
@@ -6085,11 +6099,13 @@ Weapons are installed in the same way as components, taking note of the tonnage 
 Specific details of weapons and how they are installed in a ship can be found on page 167.
 
 #### STEP 9
+
 INSTALL OPTIONAL SYSTEMS There are a multitude of optional systems, components and other accessories that can be added to a ship. These are covered on page 184.
 
 Note that most of these optional systems consume tonnage and some also require Power, both of which you should make careful note of.
 
 #### STEP 10
+
 DETERMINE CREW The Crew Requirements table shows how many crew are needed for a ship. Salary can vary but the values on the Crew Requirements table shows a monthly average for skill level 1 crew, with the presumption that salaries will increase by +50% for every skill level above this.
 
 Install Sensors Sensors TL Suite DM Power Tons Cost Basic 8 Lidar, Radar -4 0 — — Civilian Grade
@@ -6113,6 +6129,7 @@ Spacecraft in the hands of small-time traders or adventurers usually run with th
 Ships of less than 1,000 tons can, in theory, be run by just one or two multi-skilled people but the ship will be at a serious disadvantage in high-stress situations such as combat. The crewman acting as pilot will likely be kept busy in the cockpit, actually flying the ship, while the other will find their attention split between engineering, damage control and the weapon systems – a quick look at the Crew Duties section on page 164 will quickly demonstrate how inefficient this will prove to be.
 
 #### STEP 11
+
 INSTALL STATEROOMS Staterooms represent the living space for both crew and passengers on ships. A single stateroom contains living and sleeping facilities, including a bed, fresher and a very basic kitchen.
 
 Each stateroom consumes four tons and costs MCr0.5. Most ships will allocate one person to each stateroom.
@@ -6142,9 +6159,11 @@ This is not strictly necessary and ships can and will vary in this allocation, e
 Common areas cost MCr0.1 per ton.
 
 #### STEP 12
+
 ALLOCATE CARGO Space Any space left on the ship that has not been allocated to other components is considered to be free for cargo. There is no cost associated with areas designated for cargo but any cargo or other materials taken on board the ship can obviously not exceed the tonnage set aside for cargo.
 
 #### STEP 13
+
 FINALISE DESIGN Once cargo space has been allocated, the design process has been completed – your ship is now ready to fly.
 
 All that remains is to total up the tonnage consumed by components to ensure you have not tried to squeeze too much within the hull and to add up all components to find the final cost of the ship. If you need to go back and revise any part of the ship, now is the time.
@@ -6239,22 +6258,24 @@ Docking space costs MCr0.25 per ton.
 
 ### DRONES
 
-
 Drones are small robotic craft typically controlled from the bridge or dedicated station. They are used as labour-saving devices and for tasks that might otherwise endanger the crew.
 
 Drones are typically human-sized and have gravitic drives that allow them to operate in both space and atmospheres. However, while they can land on a planet, they do not have the power to travel from the surface to orbit and must be recovered manually. The Electronics (remote ops) skill is required for their use.
 
 #### Mining Drones
+
 Mining drones are larger unmanned craft that allow a ship to mine asteroids without manoeuvring perilously close to spinning hunks of rock. Each set of five mining drones allows the ship to process 1D x 10 tons of asteroid per day (typically producing common ore, as detailed on page 244). The tonnage consumed includes ore handling machinery, allowing the ship to take on ore and transfer it to the cargo bay.
 
 Every 10 tons dedicated to mining drones contains five drones and costs MCr1.
 
 #### Probe Drones
+
 Probe drones are for surveying planetary surfaces and are commonly found on board scout ships. They can be dropped from orbit in disposable entry shells but must be recovered manually. Probe drones are alo capable of surveying orbiting satellites, derelicts and other space debris, and can also be used as communication relays.
 
 Each ton dedicated to probe drones contains five drones and costs MCr0.5
 
 #### Repair Drones
+
 Carrying repair drones allows a ship to make repairs during combat, allowing access to exterior components without risking crew. They also have sufficient intelligence to allow repairs to be initiated by a drone controller rather than a dedicated engineer.
 
 Repair drones allows a Traveller with the Electronics (remote ops) skill to use the Repair System action (see page 173). The repair drones are considered to have an Engineer skill level of 1 or the level the Traveller has in Electronics (remote ops), whichever is lower, in all specialities for the Repair System action alone.
@@ -6441,7 +6462,6 @@ Sensors
 
 ### SCOUT
 
-
 **TYPE:S**
 
 1. Bridge 2. Workshop 3. Cargo Bay
@@ -6474,15 +6494,11 @@ Sensors
 
 ### SEEKER MINING SHIP
 
-
 ### SEEKER
-
 
 ### MINING
 
-
 ### SHIP
-
 
 **TYPE:J**
 
@@ -6502,7 +6518,6 @@ weapons and other 'special' modifications. As such, actual specifications can va
 
 ### FREE TRADER
 
-
 Crew : Pilot, Astrogator, Engineer, Medic, Steward
 
 **Hull: 80**
@@ -6518,7 +6533,6 @@ Jump Drive
 Sensors
 
 ### FREE TRADER
-
 
 **TYPE:A**
 
@@ -6550,11 +6564,9 @@ Sensors
 
 ### FAR TRADER
 
-
 allowing it to reach systems a basic free trader cannot travel to. While less cargo can mean less profits, the ability to reach further systems or to travel between stars at a faster rate can more than make up for this in the hands of a clever captain.
 
 ### FAR TRADER
-
 
 **TYPE:A2**
 
@@ -6588,11 +6600,9 @@ Sensors
 
 ### SAFARI SHIP
 
-
 Included within the hull are two holding tanks with variable environments for live specimens and a trophy lounge that makes for a very comfortable mess area for passengers and crew. While the ship is streamlined and can land planetside, a launch and ATV permit expeditions across a planets surface without requiring the whole vessel to leave orbit.
 
 ### SAFARI SHIP
-
 
 **TYPE:K**
 
@@ -6643,9 +6653,7 @@ Because SDBs have no jump drives, shifting them from system-to-system can be a p
 
 ### SYSTEM
 
-
 ### DEFENSE BOAT
-
 
 1. Bridge 2. Missile Storage 3. Medical Bay 4. Cargo Bay
 
@@ -6669,11 +6677,9 @@ Sensors
 
 ### YACHT
 
-
 docking compartments; an ATV is also carried, with the ship's boat being used to ferry it from orbit to surface and back again.
 
 ### YACHT
-
 
 **TYPE:Y**
 
@@ -6716,23 +6722,19 @@ Sensors
 
 ### CLOSE ESCORT
 
-
 but when pressed into combat duties it had invariably suffered disproportionate losses.
 
 With the internal tankage Jump-3 can be achieved, with drop tanks Jump-5, with the drop tanks retained Jump-4.
 
 ### CLOSE
 
-
 ### ESCORT
-
 
 **CLASS:GAZELLE**
 
 1. Bridge 2. Armory 3. Cargo Bay 4. Gig Docking Space
 
 ### GAZELLE CLASS
-
 
 DECK 1
 
@@ -6760,14 +6762,11 @@ Sensors
 
 ### LABORATORY SHIP
 
-
 to conduct field expeditions. A special feature of this ship is that it is built so internal gravity can be created by spinning the hull. This is done to permit experiments to be carried out that might otherwise be affected by the gravetic plates installed as standard on all ships.
 
 ### LABORATORY
 
-
 ### SHIP
-
 
 **TYPE:L**
 
@@ -6825,14 +6824,11 @@ Weapons
 
 ### PATROL CORVETTE
 
-
 combined with a streamlined hull, allow the patrol corvette to pursue targets through atmospheres and down onto planetary surfaces, ensuring there is no escape.
 
 ### PATROL
 
-
 ### CORVETTE
-
 
 **TYPE:T**
 
@@ -6866,14 +6862,11 @@ Sensors
 
 ### SUBSIDISED MERCHANT
 
-
 theoretically swallow a free trader whole. This ship normally requires a crew of five, although the pilot also operates the launch, a steward is only necessary if carrying commercial passengers and gunners may be added to the list if weapons are installed.
 
 ### SUBSIDISED
 
-
 ### MERCHANT
-
 
 **TYPE:R**
 
@@ -6907,23 +6900,19 @@ Sensors
 
 ### SURVEY SCOUT
 
-
 The survey scout is a peaceful vessel, typically unarmed and inoffensive. It does, however, mount four hardpoints and can be armed with a variety of turrets and weaponry if necessary.
 
 The Donosev-class survey scout is named for famous scouts in the Imperial service.
 
 ### SURVEY
 
-
 ### SCOUT
-
 
 **CLASS:DONOSEV**
 
 1. Bridge 2. Modular Cutter Docking Space 3. Cargo Bay 4. Extra Module 5. Workshop 6. Laboratories
 
 ### DONOSEV CLASS
-
 
 DECK 1
 
@@ -6951,14 +6940,11 @@ Sensors
 
 ### SUBSIDISED LINER
 
-
 in low berths. With a three parsec jump capability, a lot of destinations are possible. Although the hull of the ship itself is understreamlined, a launch allows passengers to be ferried to the surface of a world or act as a life boat in emergencies.
 
 ### SUBSIDISED
 
-
 ### LINER
-
 
 **TYPE:M**
 
@@ -6998,14 +6984,11 @@ Turrets
 
 ### MERCENARY CRUISER
 
-
 The platoon can be deployed to a planet's surface within the two modular cutters housed inside the ship and can then disembark using the ATV's the two cutters carry. Turrets are fitted as standard but while shipyards do not generally include weapons, it is a rare mercenary cruiser that is not armed to the teeth.
 
 ### MERCENARY
 
-
 ### CRUISER
-
 
 **TYPE:C**
 
@@ -7044,7 +7027,6 @@ Weapons
 
 ### LIGHT FIGHTER SMALL CRAFT
 
-
 Designed to adhere to a strict budget, the Light Fighter allows even the poorest worlds a chance at self-defense.
 
 1. Bridge 2. Cargo Bay
@@ -7067,7 +7049,6 @@ Turret
 
 ### GIG SMALL CRAFT
 
-
 Technically a vessel of the Imperial Navy, it is crewed by local starport personnel and used to perform orbital inspections and other light duties.
 
 1. Bridge 2. Cargo Bay
@@ -7088,11 +7069,9 @@ Maneuver Drive
 
 ### LAUNCH
 
-
 but ambitious schemes will find themselves limited by the small hull and weak power plant. However, for the price, the launch provides a means to very cheap space travel.
 
 ### SMALL CRAFT
-
 
 1. Bridge 2. Cargo Bay
 
@@ -7116,7 +7095,6 @@ loads between ships and worlds, in smaller militaries the ship's boat is also us
 
 ### SMALL CRAFT
 
-
 1. Bridge 2. Cargo Bay
 
 TL12 TONS COST (MCr) Hull 30 tons, Streamlined — 1.8 M-Drive Thrust 3 0.9 1.8 J-Drive — — — Power Plant Fusion, Power 15 1 1 Fuel Tanks 4 weeks operation 1 — Bridge 3 0.5 Computer Computer/5 — 0.03 Sensors Basic — — Weapons Fixed Mount — 0.1 Systems Cabin Space x2 3 0.15 Software Library — — Maneuver — — Intellect — — Cargo 21.1 —
@@ -7135,11 +7113,9 @@ Maneuver Drive
 
 ### SLOW BOAT
 
-
 Either way, the slow boat is comparable to the ship's boat but it trades speed for increased cargo space.
 
 ### SMALL CRAFT
-
 
 1. Bridge 2. Cargo Bay
 
@@ -7159,11 +7135,9 @@ Maneuver Drive
 
 ### PINNACE
 
-
 It combines a generous cargo hold with a speed that leaves most star ships trailing far behind and can be configured for light combat operations with the addition of weaponry to its fixed mount.
 
 ### SMALL CRAFT
-
 
 1. Bridge 2. Cargo Bay
 
@@ -7183,11 +7157,9 @@ Maneuver Drive
 
 ### SLOW PINNACE
 
-
 As a larger hull, it provides even more cargo carrying capacity than a slow boat and many are customised to become troop or vehicle transports, or to serve as fuel skimmers for larger ships.
 
 ### SMALL CRAFT
-
 
 1. Bridge 2. Cargo Bay
 
@@ -7207,13 +7179,11 @@ Maneuver Drive
 
 ### MODULAR CUTTER
 
-
 available for the cutter, the three most common and routinely available for the cutter are listed below.
 
 ATV module: The ATV module costs MCr1.8 Fuel module: The fuel module costs MCr1 Open module: The open module costs MCr2
 
 ### SMALL CRAFT
-
 
 1. Bridge 2. Module Docking Space 3. Cargo Bay
 
@@ -7233,11 +7203,9 @@ Maneuver Drive
 
 ### SHUTTLE
 
-
 It is designed to carry passengers and cargo from orbit to surface and back again, as well as act as an interplanetary transport.
 
 ### SMALL CRAFT
-
 
 1. Bridge 2. Cargo Bay
 
@@ -7265,11 +7233,9 @@ Sensors
 
 ### PASSENGER SHUTTLE
 
-
 Normally only the passenger area is accessible to non-crew and operations are sufficiently routine that no stewards are carried. Nor do the crew interact with the passengers except to pass on announcements when necessary.
 
 ### SMALL CRAFT
-
 
 1. Bridge 2. Cargo Bay
 
@@ -7322,14 +7288,23 @@ Psionic Training
 There are several psionic talents, each of which is controlled by a different skill. Within each talent are several powers, all of which may be used by a Traveller trained in the talent. The most common talents are:
 
 #### Telepathy
+
 Reading minds & communicating
+
 #### Clairvoyance
+
 Perceiving at a distance
+
 #### Telekinesis
+
 Mind over matter
+
 #### Awareness
+
 Control over one's own mind and body
+
 #### Teleportation
+
 Moving from one point to another instantly
 
 ### Using Psionic Powers
@@ -7523,6 +7498,7 @@ Teleportation always involves the movement of one's body to another location. In
 Pre-knowledge of Destination: A Traveller must always have a mental image of their destination before teleporting. This mental image is acquired by personally visiting the location first (this includes viewing it from a distance), having the mental image implanted in one's mind (via telepathy) by another person who has visited the destination or by viewing the location through clairvoyance.
 
 #### Energy and Momentum
+
 Teleportation involves serious restrictions on movement in order to ensure the conservation of energy and momentum, two laws of physics that can cause teleporting Travellers serious issues.
 
 On planetary surfaces, teleportation is restricted to jumps of no more than Very Distant ranges. Jumps beyond visual range involve disorientation for a period of 2D – Effect of Teleportation check x 10 seconds.
@@ -7562,10 +7538,15 @@ Qualification: PSI 6+ DM–1 for every previous career
 Assignments Choose one of the following:
 
 #### Wild Talent
+
 You developed your powers without formal training.
+
 #### Adept
+
 You are a scholar of the psionic disciplines.
+
 #### Psi-Warrior
+
 You combine combat training with psionic warfare.
 
 ### Psion Skills and Training
@@ -7593,13 +7574,13 @@ You combine combat training with psionic warfare.
 ### Psion Skills and Training
 
 |  1D | Personal<br/>Development | Service Skills | Advanced Education (EDU 8+) |
-| :-: | :------------------: | -------------- | --------------------------- |
-|  1  |        EDU +1        | Telepathy      | Language                    |
-|  2  |        INT +1        | Clairvoyance   | Art                         |
-|  3  |        STR +1        | Telekinesis    | Electronics                 |
-|  4  |        DEX +1        | Awareness      | Medic                       |
-|  5  |        END +1        | Teleportation  | Science                     |
-|  6  |        PSI +1        | Any Talent     | Mechanic                    |
+| :-: | :----------------------: | -------------- | --------------------------- |
+|  1  |          EDU +1          | Telepathy      | Language                    |
+|  2  |          INT +1          | Clairvoyance   | Art                         |
+|  3  |          STR +1          | Telekinesis    | Electronics                 |
+|  4  |          DEX +1          | Awareness      | Medic                       |
+|  5  |          END +1          | Teleportation  | Science                     |
+|  6  |          PSI +1          | Any Talent     | Mechanic                    |
 
 ### Psion Career Progress
 
@@ -7672,20 +7653,25 @@ In short, referees have little to fear in letting their Travellers loose in this
 Passage on board any ship is standardised into three categories; high passage, middle passage, basic passage and low passage, reflecting the quality of service that can be expected during the journey (in a way reflecting first class, business class and cattle class on airlines today). The cost increases with the distance travelled and is for a single jump.
 
 #### High Passage
+
 This is the equivalent of a luxury cruise or flight in first class. Comfortable quarters, good food and staff to wait on hand and foot are expected. It requires a stateroom, one ton of cargo space and one level of Steward per 10 passengers.
 
 #### Middle Passage
+
 This is 'standard' class. There will be a stateroom for every passenger and occasional service from the steward but it is considered more functional than enjoyable as an experience. It requires a stateroom, 100kg of cargo and one level of Steward per 100 passengers
 
 #### Basic Passage
+
 For those not willing to risk low berths, the option of basic passage, or steerage as it is often called, exists. Staterooms will be shared (typically two people to a stateroom) or, on some less scrupulous ships, areas in the cargo bay or engineering will be set aside for very basic accommodation and services (which may only extend to two meals a day and meagre washroom facilities). This requires two tons of spare room on the spacecraft, a resilient personality on the part of the passenger and comes with a 10kg baggage allowance.
 
 #### Low Passage
+
 This involves being cryogenically frozen and stuffed into a tube with the intention of being thawed out when the destination is reached. It is by no means unknown for Travellers to die during low passage, whether from system shock at being frozen, being improperly revived or simply a malfunction of the low berth. This requires a low berth and comes with a 10kg baggage allowance.
 
 Travellers considering taking passengers on their own ships should consult the Spacecraft Operations chapter for the requirements needed to do so.
 
 ### SEEKING PASSENGERS
+
 Having enough staterooms (or low berths) on board a spacecraft is one thing – but Travellers looking to make money from bringing passengers on board must find them first.
 
 The number of potential passengers seeking passage to any given destination varies depending on a number of factors. When looking to see how many passengers are available, roll 2D on the Passenger Traffic table four times, once each for Low, Basic, Middle and High passengers and apply the following modifiers:
@@ -8005,27 +7991,33 @@ In order to create a subsector, the referee uses a blank subsector map and dice 
 would normally be available to them. The referee may elect to omit some information and only allow it to be inserted after the Travellers have determined it for themselves.
 
 #### World Occurrence
+
 There is a basic one-half chance that one world (and its attendant stellar system) will be in a hex on a subsector or sector map. Systematically check each hex, throwing 1D and marking the hex with a circle if the result is a 4, 5 or 6. This indicates that a world of note or interest is present; otherwise, leave the hex blank.
 
 The referee may elect to alter the normal chances of worlds, making them more frequent or less frequent to correspond to specific regions of the galaxy. A 50% density (no DM) is appropriate for the most areas. Apply DM-2 for rift (all but empty) sectors, DM-1 for sparse sectors and DM+1 for densely populated sectors.
 
 #### Starport Type
+
 Many worlds have starports, their presence being essential to interstellar trade and commerce. See Starports, page 257.
 
 #### Bases
+
 Stellar systems may have bases for military forces, the navy, the scouts or other arms of interstellar government. See Bases, page 259.
 
 Bases will also help determine political boundaries in the sector. An interstellar government will place bases along its borders to guard against aggression from rival states or to control local systems. The presence of multiple bases within a few parsecs might indicate a contested border or a mighty stronghold.
 
 #### Gas Giants
+
 A star system may have one or more gas giant planets (similar to Jupiter or Saturn). The presence of a gas giant allows streamlined starships to refuel by skimming; this eliminates fuel cost for the vessel and increases profit. It also allows refuelling at systems that do not have starports. Refuelling in this fashion requires 1D days to travel to the gas giant and commence refuelling. Fuel gained by skimming is unrefined.
 
 Gas giants are relatively common. Roll 10+ for a gas giant not to be present in the system. If one is present, mark the system hex in accordance with the world format.
 
 #### System Name
+
 Each system is generally named for the primary world within. This name should be decided upon by the referee and placed in the hex for identification.
 
 #### Travel Zones
+
 Most worlds are assumed to be civilised or at least amenable to Travellers and visitors. Some, however, are caught in the throes of war, plagued by disease or simply not ready for interstellar visitors. Such worlds are classified by Travel Zones to denote such status. In most cases, the referee should indicate Travel Zones based on the information available. Two such zone types exist; Amber and Red.
 
 Amber Zones indicate that Travellers should exercise caution when visiting such worlds. The Amber code may mean that the citizens of the world are xenophobic, that the political situation is chaotic or that some other danger exists within the system.
@@ -8037,9 +8029,11 @@ North, south, east and west are insufficient terms for referring to directions w
 Red Zones usually indicate that a major danger exists within the system. This danger may be disease and the world is quarantined. The system may be involved in a war and surface or space battles may be probable. Red Zones are also used to show a government edict prohibiting entry to the system or world. This may be to protect a local civilization that is still developing and not yet ready for interstellar contacts or to protect valuable resources until the government can mine them.
 
 #### Polities
+
 Worlds may be independent or part of a larger polity that spans a system or more. Polities range from loose confederations of a few worlds with common trade or defense policies or cultural links, to vast star empires containing thousands of systems and trillions of citizens. Polity borders should be drawn on the map. Note that larger polities will usually have sub-domains, which could also be marked.
 
 #### Communications Routes
+
 Within the subsector, local governments will have established communications routes connecting some (but not all) worlds. These routes serve as a conduit for messages between businesses and governments, as well as people. They also serve as the basic routes that liners and large freighters travel. The referee should examine the subsector map and connect key worlds with communications routes. If the subsector is an isolated community, the routes might not leave the map; if it is part of a larger confederation or empire, the routes will probably leave the edges to join with other parts of the sector. Use starports as guides when drawing communication routes – in general, the best routes are the shortest connections between Class A starports and naval bases.
 
 Communications routes should be carefully drawn so as to avoid making all parts of the subsector accessible; a subsector should have some areas as backwaters for exploration and adventure. Communications routes are drawn as single lines connecting hexes on the subsector grid.
@@ -8149,32 +8143,39 @@ ATMOSPHERE The Atmosphere code measures the type of atmosphere present. A planet
 ## Atmosphere Types
 
 #### Tainted
+
 Tainted atmospheres contain some element harmful to humans, such as an unusually high proportion of carbon dioxide. A Traveller who breathes a tainted atmosphere without a filter will suffer 1D damage every few minutes (or potentially hours, depending on the level of taint), in addition to any other effects.
 
 #### Exotic
+
 An exotic atmosphere is unbreathable by humans but not otherwise hazardous. A Traveller needs an air supply to breath in an exotic atmosphere without suffocating.
 
 #### Corrosive
+
 Corrosive atmospheres are highly dangerous. A Traveller who breathes in a corrosive atmosphere will suffer 1D damage each round.
 
 #### Insidious
+
 An insidious atmosphere is like a corrosive one but is so potent that it attacks equipment as well. The chief danger in an insidious atmosphere is that the toxic gases will destroy the seals and filters on the Traveller's protective gear. An insidious atmosphere worms its way past protection after 2D hours on average, although vigilant maintenance or advanced protective gear can prolong survival times.
 
 #### Very Dense
+
 These worlds have thick N 2 /O 2 atmospheres but their mean surface pressure is too high to support unprotected human life (high pressure nitrogen and oxygen are deadly to humans). However, pressure naturally decreases with increasing altitude, so if there are highlands at the right altitude the pressure may drop enough to support human life. Alternatively, there may not be any topography high enough for humans to inhabit, necessitating floating gravitic or dirigible habitats or sealed habitats on the surface.
 
 #### Low
+
 The opposite of a Very Dense atmosphere, these massive worlds have thin N 2 /O 2 atmospheres that settle in the lowlands and depressions and are only
 
 ## WORLD TEMPERATURE
+
 A planet's surface temperature is primarily dependent on its distance from its primary star (how much solar radiation it receives) and how thick its atmosphere is (how much of this heat it can retain). The habitable zone is the area around a star most conducive to the development of Earth-like, habitable worlds and it is assumed that most colonized worlds will be in this habitable zone. Roll 2D for the planet's temperature, applying the DMs listed below for the Temperature table:
 
-Atmosphere 0 or 1: No modifiers, but temperature swings from roasting during the day to frozen at night. 
-Atmosphere 2 or 3: DM-2 
-Atmosphere 4, 5 or E: DM-1 
-Atmosphere 6 or 7: DM+0 
-Atmosphere 8 or 9: DM+1 
-Atmosphere A, D or F: DM+2 
+Atmosphere 0 or 1: No modifiers, but temperature swings from roasting during the day to frozen at night.
+Atmosphere 2 or 3: DM-2
+Atmosphere 4, 5 or E: DM-1
+Atmosphere 6 or 7: DM+0
+Atmosphere 8 or 9: DM+1
+Atmosphere A, D or F: DM+2
 Atmosphere B or C: DM+6
 
 Optionally, the referee may also choose to impose one of the following:
@@ -8417,21 +8418,27 @@ Different governments ban different goods. A Traveller might be able to carry th
 As far as Travellers are concerned, the most common restriction a government imposes is on the possession of weapons and this is reflected on the Law Level table. However, the referee might consider the stance of a government for all of the following:
 
 #### Weapons
+
 A government that bans weapons begins with restricting weapons of terror and mass destruction, then moves onto personal weapons. Governments will also often ban armor, with a view that an overly militarized appearance simply attracts trouble.
 
 #### Drugs
+
 A government that bans drugs begins with narcotics but at higher Law Levels, medicinal and anagathic drugs may also be banned.
 
 #### Information
+
 A government that seeks to control information begins by restricting the use of computers and computer programs, especially information-retrieval and information-control. At higher Law Levels, bringing data from offworld or even communicating with natives can be forbidden.
 
 #### Technology
+
 A government that bans technology seeks to shield its citizens from the influence of advanced technology.
 
 #### Travellers
+
 A ban on Travellers restricts the ability of outsiders to visit the world, confining them to the starport or forbidding landing entirely.
 
 #### Psionics
+
 Restrictions on psionics are common and most worlds ban psionics as a matter of course. On other worlds, psionics may be technically legal but there is such prejudice against it that most psionic users hide their abilities.
 
 Law Level Law Level Weapons Banned Armor
@@ -8447,18 +8454,19 @@ Law Level Law Level Weapons Banned Armor
 |9+| All weapons| All armor
 
 ### The Law and Travellers
+
 A planet's Law Level can be used to determine the Travellers' interactions with the law. In each of the following situations, roll 2D, add the listed modifiers and if the total is equal to or lower than the planet's Law Level, the Travellers are investigated or challenged by agents of planetary law enforcement.
 
-|Situation| DM| Response|
-| -- | :-:| --|
-|First approach to a planet| +0| Check |
-Offworlders wandering the streets of a city (once per day) +0 Check
-Offworlders acting suspiciously -1 Check
-Bar fight -1 Apprehended 
-Shots fired -2 Apprehended 
-Breaking and entering -2 Investigate 
-Firefight involving armored Travellers and military weapons -4 Apprehended
-Murder and carnage -4 Investigate
+| Situation                                                                  |  DM | Response |
+| -------------------------------------------------------------------------- | :-: | -------- |
+| First approach to a planet                                                 |  +0 | Check    |
+| Offworlders wandering the streets of a city (once per day) +0 Check        |     |          |
+| Offworlders acting suspiciously -1 Check                                   |     |          |
+| Bar fight -1 Apprehended                                                   |     |          |
+| Shots fired -2 Apprehended                                                 |     |          |
+| Breaking and entering -2 Investigate                                       |     |          |
+| Firefight involving armored Travellers and military weapons -4 Apprehended |     |          |
+| Murder and carnage -4 Investigate                                          |     |          |
 
 Check: This result means the Travellers' travel documents and identities are checked, either by a police officer or guard, or electronically by querying the Travellers' comms. A successful Admin or Streetwise check can allay suspicion but if it is failed, the planetary authorities move on to Investigation.
 
@@ -8515,17 +8523,21 @@ D Poor 1D x Cr10 Unrefined Limited Repair Highport 12+
 Scout 8+ Corsair 12+ E Frontier 0 None None Corsair 10+ X No Starport 0 None None Corsair 10+
 
 #### Quality
+
 This determines both the condition of the port itself and the level of competence of the staff. Quality may vary – it is possible to find a Class D port run by expert engineers or a Class A that has succumbed to decay. Some worlds have entirely inappropriate starports; a world that was once a center of commerce but has now been bypassed by new trade routes, might have a cavernous port capable of handling thousands of freighters now almost abandoned.
 
 A frontier installation is just a bare spot of bedrock, marked with a beacon, and is a starport in the most technical sense only.
 
 #### Berthing Cost
+
 This is the price paid by any ship that wants to land or dock at the starport and is due weekly. Prices can vary wildly between starports but tend to remain stable at each (roll once for each starport and record it for future reference).
 
 #### Fuel
+
 This refers to the fuel available for purchase – either refined or unrefined. Refined fuel costs Cr500 per ton; unrefined fuel costs Cr100 per ton but is risky to use when jumping. Bases have their own fuel-refining ability – see Bases on page 259.
 
 #### Facilities
+
 These are the starport's repair and construction ability. A shipyard allows for the construction of new vessels. A shipyard capable of building all types of ships can construct small craft (less than 100 tons), spacecraft (100 to 5,000 tons) and capital ships (more than 5,000 tons). However only a Class A starport can construct jump-capable spacecraft.
 
 Repair facilities allow a damaged ship to be repaired and have plenty of spare parts for most common systems.
@@ -8537,6 +8549,7 @@ Use the following modifiers when determining whether a highport is present: DM+1
 Use the following modifiers when determining whether a corsair base is present: DM+2 if Law Level 0, DM–2 if Law Level 2+.
 
 #### Bases
+
 This lists what sort of bases may be present. Roll 2D for each base type listed; for more details, see Bases on page 259.
 
 ## Tech Levels
@@ -8548,9 +8561,10 @@ The Tech Level measures the average technology presence on the planet and gives 
 A planet's technology may be one or more levels higher or lower in a particular field, such as Medicine, Communications, Weaponry, Ship Construction, Power Generation, Computers and so forth.
 
 ### COMMUNICATIONS
+
 If the planet is below Tech Level 3, then there will be no telecommunication system whatsoever except for whatever facilities the starport offers. If it is between TL4 and TL6, then it has radio and telephone communications between major cities at least but
 
-CHARTED Space: STARPORTS and The LAW 
+CHARTED Space: STARPORTS and The LAW
 Technically, a starport is Imperial territory and not under the jurisdiction of the planetary government. The local government may share in the construction costs, running costs and profits of the starport but the port is extraterritorial and run by an Imperium-appointed governor. This means that Travellers can carry locally illegal goods onto a planet so long as they do not leave the starport. It also means that criminals and refugees often claim sanctuary in a starport and that a starport's Tech Level may be considerably higher than that of the rest of the planet. Starports operate according to Imperial Law
 (equivalent to Law Level 1 for most items and forbidding all use of psionics).
 
@@ -9225,57 +9239,57 @@ Apply the following modifiers:
 ## Critical Hits Location Table
 
 |   2D  | Location for<br/>[[#Critical Hit Effects Table]] |
-| :---: | -------------------------------------------- |
-|  2–3  | Fuel                                         |
-|   5   | Weapon                                       |
-|   6   | Armor                                        |
-|   7   | Hull                                         |
-|   8   | Cargo                                        |
-|   9   | Occupants                                    |
-|   10  | Drive System                                 |
-| 11–12 | Systems                                      |
+| :---: | ------------------------------------------------ |
+|  2–3  | Fuel                                             |
+|   5   | Weapon                                           |
+|   6   | Armor                                            |
+|   7   | Hull                                             |
+|   8   | Cargo                                            |
+|   9   | Occupants                                        |
+|   10  | Drive System                                     |
+| 11–12 | Systems                                          |
 
 ## Critical Hit Effects Table
 
 By Severity
 
-| Location     | 1                                                          | 2                                                                             | 3                                                                             | 4                                                                             | 5                                                                     | 6                                                                     |
-| ------------ | ---------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| Fuel         | Leak – will run dry in 2D hours                            | Leak – will run dry in 1D hours                                               | Leak – will run dry in 1D minutes                                             | Leak – will run dry in 1D rounds                                              | Fuel explodes, Hull Severity increased by +1                          | Fuel explodes, Hull Severity increased by +1D                         |
-| Power Plant  | Speed reduced by one Band                                  | Speed reduced by D3 Bands                                                     | Speed reduced by 1D Bands                                                     | Speed reduced to zero                                                         | Speed reduced to zero, Hull Severity increased by +1                  | Speed reduced to zero, Hull Severity increased by +1D                 |
-| Weapon       | Random weapon suffers DM-2 when used                       | Random weapon disabled                                                        | Random weapon destroyed                                                       | Random weapon explodes, Hull Severity increased by +1                         | Random weapon explodes, Hull Severity increased by +1                 | Random weapon explodes, Hull Severity increased by +1                 |
-| Armor        | Armor on the facing hit reduced by -1                      | Armor on the facing hit reduced by -1D                                        | Armor on the facing hit reduced by -1D                                        | Armor on the facing hit reduced by -2D                                        | Armor on the facing hit reduced by -2D, Hull Severity increased by +1 | Armor on the facing hit reduced by -2D, Hull Severity increased by +1 |
-| Hull         | Vehicle suffers 1D damage                                  | Vehicle suffers 2D damage                                                     | Vehicle suffers 3D damage. Watercraft will start to take on water             | Vehicle suffers 4D damage. Watercraft will sink in 1D hours                   | Vehicle suffers 5D damage. Watercraft will sink in 1D minutes         | Vehicle suffers 6D damage. Watercraft will sink in D3 rounds          |
-| Cargo        | 10% of cargo destroyed                                     | 1D x 10% of cargo destroyed                                                   | 2D x 10% of cargo destroyed                                                   | All cargo destroyed                                                           | All cargo destroyed, Hull Severity increased by +1                    | All cargo destroyed, Hull Severity increased by +1                    |
-| Occupants    | Random occupant takes 1D damage                            | Random occupant takes 2D damage                                               | D3 occupants take 2D damage                                                   | 1D occupants take 2D damage                                                   | 1D occupants take 3D damage                                           | All occupants take 4D damage                                          |
-| Drive System | All checks to control vehicle suffer DM-1                  | All checks to control vehicle suffer DM+2 and speed reduced by one Band       | All checks to control vehicle suffer DM-3 and speed reduced by D3 Bands       | All checks to control vehicle suffer DM-4 and speed reduced by 1D Bands       | Speed reduced to zero                                                 | Speed reduced to zero, Hull Severity increased by +1                  |
+| Location     | 1                                                          | 2                                                                                            | 3                                                                             | 4                                                                             | 5                                                                     | 6                                                                     |
+| ------------ | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| Fuel         | Leak – will run dry in 2D hours                            | Leak – will run dry in 1D hours                                                              | Leak – will run dry in 1D minutes                                             | Leak – will run dry in 1D rounds                                              | Fuel explodes, Hull Severity increased by +1                          | Fuel explodes, Hull Severity increased by +1D                         |
+| Power Plant  | Speed reduced by one Band                                  | Speed reduced by D3 Bands                                                                    | Speed reduced by 1D Bands                                                     | Speed reduced to zero                                                         | Speed reduced to zero, Hull Severity increased by +1                  | Speed reduced to zero, Hull Severity increased by +1D                 |
+| Weapon       | Random weapon suffers DM-2 when used                       | Random weapon disabled                                                                       | Random weapon destroyed                                                       | Random weapon explodes, Hull Severity increased by +1                         | Random weapon explodes, Hull Severity increased by +1                 | Random weapon explodes, Hull Severity increased by +1                 |
+| Armor        | Armor on the facing hit reduced by -1                      | Armor on the facing hit reduced by -1D                                                       | Armor on the facing hit reduced by -1D                                        | Armor on the facing hit reduced by -2D                                        | Armor on the facing hit reduced by -2D, Hull Severity increased by +1 | Armor on the facing hit reduced by -2D, Hull Severity increased by +1 |
+| Hull         | Vehicle suffers 1D damage                                  | Vehicle suffers 2D damage                                                                    | Vehicle suffers 3D damage. Watercraft will start to take on water             | Vehicle suffers 4D damage. Watercraft will sink in 1D hours                   | Vehicle suffers 5D damage. Watercraft will sink in 1D minutes         | Vehicle suffers 6D damage. Watercraft will sink in D3 rounds          |
+| Cargo        | 10% of cargo destroyed                                     | 1D x 10% of cargo destroyed                                                                  | 2D x 10% of cargo destroyed                                                   | All cargo destroyed                                                           | All cargo destroyed, Hull Severity increased by +1                    | All cargo destroyed, Hull Severity increased by +1                    |
+| Occupants    | Random occupant takes 1D damage                            | Random occupant takes 2D damage                                                              | D3 occupants take 2D damage                                                   | 1D occupants take 2D damage                                                   | 1D occupants take 3D damage                                           | All occupants take 4D damage                                          |
+| Drive System | All checks to control vehicle suffer DM-1                  | All checks to control vehicle suffer DM+2 and speed reduced by one Band                      | All checks to control vehicle suffer DM-3 and speed reduced by D3 Bands       | All checks to control vehicle suffer DM-4 and speed reduced by 1D Bands       | Speed reduced to zero                                                 | Speed reduced to zero, Hull Severity increased by +1                  |
 | Systems      | All checks to use comms, sensors and computers suffer DM-2 | Roll 1D. The vehicle loses the use of <br/>1–2: Comms, <br/>3–4: Sensors, <br/>5–6: Computer | Roll 1D. The vehicle loses the use of 1–2: Comms, 3–4: Sensors, 5–6: Computer | Roll 1D. The vehicle loses the use of 1–2: Comms, 3–4: Sensors, 5–6: Computer | Hull Severity increased by +1                                         | Hull Severity increased by +1                                         |
 
 ## Vehicle Weapons Table
 
-Weapon TL Range Damage Tons Cost Magazine Magazine Cost Traits 
-Cannon 8 2 8D 2.5 Cr400000 30 Cr5000 Blast 10 
-Heavy Machinegun 6 1 4D 0.1 Cr4500 100 Cr400 Auto 3 
-Laser Cannon 9 2.5 1DD 6 Cr100000 — — AP 10 
+Weapon TL Range Damage Tons Cost Magazine Magazine Cost Traits
+Cannon 8 2 8D 2.5 Cr400000 30 Cr5000 Blast 10
+Heavy Machinegun 6 1 4D 0.1 Cr4500 100 Cr400 Auto 3
+Laser Cannon 9 2.5 1DD 6 Cr100000 — — AP 10
 Light Autocannon 6 1 6D .25 Cr10000 500 Cr1000 Auto 3
 
 ## Vehicle Equipment Table
 
-Equipment TL Tons Cost 
-Autopilot 5 — Cr2000 
-Communications 4 — Cr500 
-Communications 6 — Cr1000 
-Communications 8 — Cr2000 
-Communications 15 0.5 Cr4000 
-Entertainment System 5 — Cr200 
-Navigation (basic) 5 — Cr2000 
-Navigation (improved) 9 — Cr10000 
-Navigation (advanced) 13 — Cr50000 
+Equipment TL Tons Cost
+Autopilot 5 — Cr2000
+Communications 4 — Cr500
+Communications 6 — Cr1000
+Communications 8 — Cr2000
+Communications 15 0.5 Cr4000
+Entertainment System 5 — Cr200
+Navigation (basic) 5 — Cr2000
+Navigation (improved) 9 — Cr10000
+Navigation (advanced) 13 — Cr50000
 Off-road — — See text
-Sensors (basic) 5 — Cr5000 
-Sensors (improved) 8 — Cr15000 
-Sensors (advanced) 12 .25 Cr25000 
-Short Term Life Support 4 — Cr10000 
+Sensors (basic) 5 — Cr5000
+Sensors (improved) 8 — Cr15000
+Sensors (advanced) 12 .25 Cr25000
+Short Term Life Support 4 — Cr10000
 Turret — See text See text
 
 ## Poor Maintenance Table

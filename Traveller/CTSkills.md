@@ -212,7 +212,7 @@ The Pilot skill specialities cover different forms of spacecraft.
 
 - **Small Craft**: Shuttles and other craft under 100 tons.
 - **Spacecraft**: Trade ships and other vessels between 100 and 5,000 tons.
-- **[[Capital]] Ships**: Battleships and other ships over 5,000 tons.
+- **Capital Ships**: Battleships and other ships over 5,000 tons.
 
 #### Physical Sciences
 

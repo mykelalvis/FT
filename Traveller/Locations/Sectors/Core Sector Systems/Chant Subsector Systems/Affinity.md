@@ -196,3 +196,11 @@ Options Auditory Sensor, Autobar (advanced), Domestic Cleaning Equipment (small)
 (advanced), Storage Compartment (10kg refrigerated), Transceiver 5km (improved), Visual
 Spectrum Sensor, Voder Speaker, Wireless Data Link, Spare slots (4)
 ```
+
+## Kayu
+
+Affinity's largest city.
+
+## Uan
+
+Second largest city.

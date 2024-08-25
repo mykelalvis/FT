@@ -1,0 +1,18 @@
+---
+date created: 2024-08-25 16:30
+tags:
+  - RB-A_and_W
+---
+# The Cluster
+
+The Cluster is an unusually dense segment of an otherwise fairly typical planetoid belt. Normally, planetoids are sufficiently dispersed (even in what would be described as a ‘dense’ belt) that transit times between them are quite long and a ship on the surface of one large planetoid would be unlikely to detect one landed on another. The Cluster is a little different; it consists of several dwarf planets and a much greater number of fairly large planetoids, all orbiting close together. ‘Close’ is of course in astronavigational terms; the distances involved are thousands or tens of thousands of kilometres, but this is a startlingly dense grouping by the usual standards.
+
+The most likely explanation for such a dense cluster of planetoids is the breakup of a larger body or perhaps the not-quite-formation of a planet which left large chunks of rock nearby. Neither of these hypotheses quite fit the orbital mechanics of the Cluster, but there is no better explanation at this time. There are countless slightly-to- incredibly anomalous phenomena throughout explored space and only so many research programmes, so something as minor as The Cluster has thus far received little scientific attention and an explanation is unlikely in the near future.
+
+Those who live and work in The Cluster do not really care about why it is there. Numerous settlements exist, either tunnelled into asteroids or partially above the surface of dwarf planets. Most of these settlements are quite small, and most are not really permanent. There are several mining camps set up by small corporations or independent groups, some of which have coalesced into collectives or alliances whose internal politics can be quite complex.
+
+The larger communities are populated mainly by belters. Some of these are permanent or near-permanent, in that they have been inhabited for decades but ultimately are little more than caverns hollowed out of the rock. If the decision were made to abandon a settlement or move elsewhere, virtually every useful item could be demounted and stowed aboard a starship. However, such a move is unlikely in the case of any given community unless a severe threat were to emerge.
+
+The Cluster has become something of a hotbed of small- scale mining and prospecting activity, though so far the major mining concerns have not yet taken an interest. It seems only to be a matter of time before they do, given the density of resource-bearing planetoids in the region. In the meantime, the amount of ore coming out of The Cluster has attracted prospectors and then scientists from farther afield, creating something of a scientific gold rush. Dozens of independent prospecting vessels have recently descended on The Cluster, followed by scientific ships intending to make a profit from analysing ore and predicting likely concentrations.
+
+These science ships, naturally, are undertaking their own research whilst they are in the system, and a number of conclusions have emerged. Among them is the realisation that perhaps The Cluster was a planet until quite recently – as in, within a few tens or hundreds of thousands of years. The implications of this discovery are being hotly debated; meanwhile, more impulsive science vessel crews are searching for evidence of planet-busting weapon strikes or perhaps the ruins of installations that might have survived the deliberate destruction of a world. There is no hard evidence that such an event occurred, of course, but that does nothing to quell the abundant rumours that one of the belter settlements was constructed atop a treasure-trove of high-technology artefacts.

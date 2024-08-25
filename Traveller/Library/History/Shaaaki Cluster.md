@@ -14,7 +14,7 @@ Perhaps the greatest challenge faced by [[Ase]] and the Shaaaki people is not ec
 
 ## Political Factions
 
-The Third Imperium is a feudal monarchy with both its head of state and deliberative body based on  [[Capital]]. The Imperium is a vast union of independent worlds, held together by the guarantee of free trade and the power of its navy. Individual worlds are left to govern themselves with little interference from the Imperium, provided they do not break Imperial laws.
+The [[Third Imperium]] is a feudal monarchy with both its head of state and deliberative body based on  [[Capital]]. The Imperium is a vast union of independent worlds, held together by the guarantee of free trade and the power of its navy. Individual worlds are left to govern themselves with little interference from the Imperium, provided they do not break Imperial laws.
 
 In spite of the seeming implacability of the Emperor and ruling nobility, there are numerous political factions present, which engage in lively debate about how the empire and its worlds should be governed. Over the centuries, these factions have come to be identified by colours. For example, the centrists are known as the Orange faction or more colloquially, the 'Orangists'. While virtually all the known factions are represented on Capital, those that dominate the [[Shaaaki Cluster]] are as follows:
 

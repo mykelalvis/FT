@@ -45,41 +45,23 @@ The Anther Cluster is one of the most travelled regions of [[#The Sylean Main]] 
 
 The highport has a dispersed structure configuration, with a central tri-level disc and two lengthy spires extending from its dorsal and ventral center points. Each of the three decks is approximately six meters high, with enough room for utilities, sewage and two-storey buildings.
 
-Crew
-Administrators x150,
-Pilot, Commercial
-Zone x1,000,
-Engineers x215, Fuel
-Refinery x10, Gunners
-x104, Maintenance
-x150, Medical x5,
-Mineral Refinery x5,
-Officers x31, Shipyard
-x4,
+### Crew
+Administrators x150, Pilot, Commercial Zone x1,000, Engineers x215, Fuel Refinery x10, Gunners x104, Maintenance x150, Medical x5, Mineral Refinery x5, Officers x31, Shipyard x4,
 
-**Hull: 198,**
+**Hull: 198**
 
-Running Costs
-MAINTENANCE COST
-MCr7.746333/month
-PURCHASE COST
-MCr21.
+### Running Costs
+MAINTENANCE COST MCr7.746333/month
+PURCHASE COST MCr21.
 
-Power Requirements
-Basic Starport Systems
-60,
-Sensors
-5
-Weapons
-1,
-Biosphere
-500
-Medical Bay
-50
-Commercial Zones
-55,
-Residential Zones
-1,
+### Power Requirements
+Basic Starport Systems 60,
+Sensors 5
+Weapons 1,
+Biosphere 500
+Medical Bay 50
+Commercial Zones 55,760
+Residential Zones 1,764
 
 TL12 TONS COST (MCr)
 Hull 300,000 tons, Dispersed Structure — 7500
@@ -89,10 +71,7 @@ Armor Crystaliron, Armor: 4 15,000 2250
 M-Drive Thrust 0 1,500 2250
 Power Plant Fusion (TL 8), Power 140,000 14,000 7000
 Solar Panels 1,400 140
-High-Efficiency Batteries (TL10)
-x500, Power 20,
-
-500 50
+High-Efficiency Batteries (TL10) x500, Power 20,000
 
 Fuel Tanks 25 weeks operation 8,750 —
 Bridge Holographic Controls 60 1875
@@ -104,20 +83,13 @@ Improved Signal Processing 1 4
 Backup Civilian Array 1 3
 
 **Weapons** Triple Turrets (beam lasers) x100 100 250
-
 Point Defence Batteries x4 (Type I) 80 20
 Small Missile Bays x4 160 60
-
 **Ammunition** Missiles: 1,152 96 —
-
 **Systems** Biosphere 500 100
-
 Brig (60 prisoners) 40 2.
 Cargo Cranes x10 910 910
-Cargo Retrieval Net and Drones
-x
-
-50 10
+Cargo Retrieval Net and Drones x 10
 
 Docking Space (60,000 tons) 66,000 16500
 Full Hangar (5,000 tons) 5,000 1000
@@ -125,37 +97,30 @@ Mail Distribution Array (TL10) 10 20
 Medical Bay (250 patients) 200 100
 Workshops x20 120 18
 
-**Zones** Commercial 10,000 2000
-
+### Zones
+Commercial 10,000 2000
 Fuel Refinery (12,000 tons/day) 1,000 1000
 Mfg. Plant (basic, 300 tons/day) 1,500 300
-Mfg. Plant
-(advanced, 100 tons/day)
-
-2,500 1000
-
+Mfg. Plant (advanced, 100 tons/day) 2,500 1000
 Mineral Refinery (12,000 tons/day) 100 100
 Residential – Low (4,000 people) 8,000 400
-Residential – Medium
-(18,000 people)
-
-72,000 7200
-
+Residential – Medium (18,000 people) 72,000 7200
 Residential – High (800 people) 4,800 1200
 Residential – Luxury (200 people) 2,000 1500
 Shipyard (capacity 12,000 tons) 48,000 24000
 
-**Software** Anti-Hijack/1 — 6
-
+### Software
+Anti-Hijack/1 — 6
 Intellect — 1
 Fire Control/2 — 4
 Library — —
 Maneuver — —
 Virtual Gunner/0 — 1
 
-**Common areas** 21,700 2170
-
-**Cargo** 13,919 —
+### Common areas
+21,700 tons 2170
+### Cargo
+13,919 tons —
 ![[CA2-Highport2.jpg|100]]![[CA2-Highport.jpg|100]]
 [[CA2-Highport2.jpg|Link 1]] [[CA2-Highport.jpg|Link 2]]
 
@@ -170,7 +135,7 @@ Eneri's is a pan-sophont-friendly venue with beverages provided to please a broa
 
 Like many bars, Eneri's has its foibles. One of its barstools is said to belong to the 'ol' Captain', although no one seems to remember exactly who the ol' Captain actually was. Nevertheless, his stool is always vacant and regulars all know not to sit there. Newcomers who break this unwritten rule are quickly informed that they must vacate the stool or face the captain's wrath. On the upper level, there is a section strictly reserved for gamblers. There is nearly always at least one or two games of chance being played in this part of the bar. The Referee should feel free to add more personalities, nooks, crannies, oddities and quirks to the bar as desired. Eneri's has a lot of character and customizing it to the Travellers' needs and interests is recommended.
 
-Zashe has an eidetic memory and remembers the favorite drinks of all her regular customers. After Travellers have been to Eneri's two or three times, they can expect to have their preferred drinks served to them moments after they sit at a table or sidle up to the bar. Zashe has a small staff of servers, and sometimes hires temporary help when there is a big event going on, but mostly relies upon her adopted son, [[Calago]], and a [[#BDVSR Bartender Robot|robot bartender/bouncer]] named 'Bug' to run the place.
+[[Zashe]] has an eidetic memory and remembers the favorite drinks of all her regular customers. After Travellers have been to Eneri's two or three times, they can expect to have their preferred drinks served to them moments after they sit at a table or sidle up to the bar. [[Zashe]] has a small staff of servers, and sometimes hires temporary help when there is a big event going on, but mostly relies upon her adopted son, [[Calago]], and a [[#BDVSR Bartender Robot|robot bartender/bouncer]] named 'Bug' to run the place.
 
 ![[CA2-50_1476395985.jpg]]
 

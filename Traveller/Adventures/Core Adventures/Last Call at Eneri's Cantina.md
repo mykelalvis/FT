@@ -209,7 +209,7 @@ Regardless of how it plays out, if the Travellers make the right choices they sh
 
 The _[[#Rammiakhiidru]]_ is a light-framed, surface-to-close-orbit shuttle of obscure Vilani design. The spacecraft, which has been in [[Zashe]]'s family for generations, somehow came into her possession during her youth. She uses it as a conveyance to her planetside residence and often allows [[Calago]] to use it for excursions to the surface or to meet visiting traders at jump points to acquire small shipments of wines and spirits for the cantina. While _[[#Rammiakhiidru]]_ has no thruster plates, it does have artificial gravity and gravitic compensators.
 
-![[CA2-50_1476396010.jpg]]![[CA2-50_1476396007.jpg]]
+![[CA2-50_1476396014-2.jpg]]![[CA2-50_1476396007.jpg]]
 
 > [!info]+ What Calago was really up to
 > As it turns out, [[Calago]] was not on a fishing trip. He went to [[Affinity]] to meet with representatives of [[Tolvar Remedies]], the [[Ase|Asei]] pharmaceuticals company whose hidden research facility the Travellers might have come across [[#Events Table|during their search]]. Tolvar is performing experiments on [[Affinity]]'s native life in an effort to produce chemical compounds, allegedly for industrial purposes.

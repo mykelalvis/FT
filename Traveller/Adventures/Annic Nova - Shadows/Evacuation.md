@@ -20,7 +20,7 @@ All dates herein correspond to the Imperial calendar. The date for this situatio
 
 ### Place
 
-This adventure takes place in the [[Vargr Extents]], coreward of the [[The Spinward Marches]] in the [[Kaets]] system ([[Uthe]]/[[Gvurrdon]] 2338). [[Kaets]] is an unimportant world with a population in the millions which is concentrated in or near the starport. The starport is itself owned and operated by a [[Vargr]] [[Corsair]] cartel. The majority of the planetary surface has not been explored, though evidence of past landings and abandoned sort-term bases may be found in many locations. The nature of the systems government and the generally harsh environment has discouraged formal exploration.
+This adventure takes place in the [[Vargr Extents]], coreward of the [[The Spinward Marches]] in the [[Kaets]] system ([[Uthe|Uthe]]/[[Gvurrdon]] 2338). [[Kaets]] is an unimportant world with a population in the millions which is concentrated in or near the starport. The starport is itself owned and operated by a [[Vargr]] [[Corsair]] cartel. The majority of the planetary surface has not been explored, though evidence of past landings and abandoned sort-term bases may be found in many locations. The nature of the systems government and the generally harsh environment has discouraged formal exploration.
 
 The exact planet the characters start the adventure on is presented herein as [[Efate]]/[[Regina Subsector|Regina]] ([[The Spinward Marches]] 1705) but the referee can easily change this to suit the needs of his or her campaign.
 
@@ -34,7 +34,7 @@ After a bit of work puzzling over the recording, the student had a breakthrough;
 
 Further research led the student to a few recordings of the Dhoerrkaenfaek language, which she recognized as having loan words from a number of sources, including Vilani, Anglic and Gvegh. Following this realization she was able to finally translate the mysterious message:
 
-> _"Signal GK, Signal GK - danger, disease present. Do not approach. We evacuate and seek refuge in the system called Kaets, in the subsector Uthe. Should we not survive, know that we rest in the embrace of the Great Void."_
+> _"Signal GK, Signal GK - danger, disease present. Do not approach. We evacuate and seek refuge in the system called [[Kaets]], in the subsector [[Uthe]]. Should we not survive, know that we rest in the embrace of the Great Void."_
 
 The Professor has allocated some funding from her budget to pay for an expedition to [[Kaets]], to collect evidence supporting her students work. Her motivations are not completely altruistic of course; the work reflects well on the university, and she sees it as money well spent if it secures future grants and good publicity. She would also be delighted if the evacuees were to be found alive, though she confesses the story of the original crew is likely to have ended tragically. She will not be accompanying the expedition herself.
 
@@ -78,7 +78,7 @@ The [[#Giiku mgash imgi|leader]] of the small tribe is a young woman. She is bun
 
 If the characters have played the original [[Annic Nova]] adventure, they may recognize them as being members of the same humanoid race shown in an educational film that can be played in the [[Annic Nova#Quarters Deck (Locations 6 -19)|area 6]] of that ship. They are bald, eyebrow-less and have reddish skin. They are clearly a human race however. Fortunately, one of them, [[#Khyiim duudish dada|an older woman]] (who is actually the Medic who served aboard the Annic Nova) does speak heavily accented Vilani as well as halting Anglic. Another older adult is present (an engineer, responsible for the innovative tech that helped them survive on [[Kaets]]). He speaks Vilani and Gveck.
 
-The [[#Giiku mgash imgi|young woman]] who first approached them was the half-trained pilot who managed to get the Annic Nova's third pinnace away from the ship, navigate it across a system rife with Vargr pirates, avoid detection on their approach and land safely on Kaets. Her people consider her their leader, and though young, she takes her responsibility seriously.
+The [[#Giiku mgash imgi|young woman]] who first approached them was the half-trained pilot who managed to get the Annic Nova's third pinnace away from the ship, navigate it across a system rife with Vargr pirates, avoid detection on their approach and land safely on [[Kaets]]. Her people consider her their leader, and though young, she takes her responsibility seriously.
 
 ### Khyiim duudish dada
 
@@ -192,7 +192,7 @@ The ship's disastrous voyage began in [[Uthe]] Subsector, when the vessel visite
 
 While on world, members of the crew came into contact with some of the planet's indigenous species, the [[Rynkatropa]]. Unlike the [[Rynkatropa]] living in the cities who are kept fed and disease free by their masters, these were “free” [[Rynkatropa]], seeking contact with outsiders who might be able to spread the word of their plight as a conquered people. One of the many challenges these people face are a number of epidemics which have reduced their numbers considerably. Unfortunately, the normally isolated [[Piishidam Kiishukuu]] would prove to be particularly vulnerable to one of these diseases; even short contact with the [[Rynkatropa]] was enough.
 
-After concluding their business (and unknown to the Vargr, with a promise to their new contacts to spread the word about the plight of the [[Rynkatropa]]) the crew returned to their ship. They jumped soon after, heading for [[Triad]]/[[Uthe]] to do some more trading. While in jump space, several members of the crew became ill; by the time the ship emerged at [[Triad]], two had died. Two other crew members had become ill but seemed to be recovering.
+After concluding their business (and unknown to the [[Vargr]], with a promise to their new contacts to spread the word about the plight of the [[Rynkatropa]]) the crew returned to their ship. They jumped soon after, heading for [[Triad]]/[[Uthe]] to do some more trading. While in jump space, several members of the crew became ill; by the time the ship emerged at [[Triad]], two had died. Two other crew members had become ill but seemed to be recovering.
 
 The ship's medic had deduced the source of the original infection must be related to their visit to [[Zoe]], and advised disposing of the cargo picked up there. Though it meant significant financial loss, the cargo was ejected, sent on a trajectory which would take it into the system's sun. Suspecting that other humans might be susceptible to the contagion and not wanting to risk exposing others until they were certain the outbreak was truly under control, the crew elected to jump for [[Kaets]] rather than calling at [[Triad]].
 

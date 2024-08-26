@@ -1,10 +1,10 @@
-**Kaets** is a [nonindustrial](https://wiki.travellerrpg.com/Nonindustrial_World "Nonindustrial World") world, that requires extensive imports of outside [technology](https://wiki.travellerrpg.com/Technology "Technology") to maintain a modern, star-faring [society](https://wiki.travellerrpg.com/Society "Society").
+Kaets is a nonindustrial world, that requires extensive imports of outside technology to maintain a modern, star-faring society.
 
 - In a technological universe, societies without industrial capability generally suffer as nearly all manufactured and high tech goods must be brought in at significant cost.
 - As a nonindustrial world, it requires extensive imports of outside technology to maintain a modern, star-faring society. The need to import most manufactured and high technology goods drives the price of these goods up in the open market.
-- It is a [Non-Aligned](https://wiki.travellerrpg.com/Non-Aligned "Non-Aligned") world dominated by [Vargr](https://wiki.travellerrpg.com/Vargr "Vargr") [sophonts](https://wiki.travellerrpg.com/Sophont "Sophont") located in the [[Uthe]] of the [[Gvurrdon]].
+- It is a Non-Aligned world dominated by Vargr sophonts located in the [[Uthe]] of the [[Gvurrdon]] Sector.
 
-- This world has a [Vargr](https://wiki.travellerrpg.com/Vargr_Extents "Vargr Extents") [Corsair Base](https://wiki.travellerrpg.com/Corsair_Base "Corsair Base").
+- This world has a Vargr Corsair Base.
 
 ---
 #AnnicNova-Evacuation

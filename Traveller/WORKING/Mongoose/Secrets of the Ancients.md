@@ -6595,7 +6595,7 @@ The Travellers can pass through Ghisaersae space and refuel at the corsair base 
 
 #### KAETS
 
-Kaets is a wild and lawless world, haunted by corsairs from Ueghrrozue and other nearby systems. No government dares claim the space around this world; attacks on shipping are especially common here. As soon as the Travellers jump into this system, they are targeted by two Vargr pirates. One, Captain Vorsang, has a Ruguelka corsair, the Teeth of Narzabul , while Captain Reng has two Rradhi seekers. Both pirates are desperate for a prize, so both target the Travellers' ship.
+Kaets is a wild and lawless world, haunted by corsairs from [[Ueghrrozue]] and other nearby systems. No government dares claim the space around this world; attacks on shipping are especially common here. As soon as the Travellers jump into this system, they are targeted by two Vargr pirates. One, Captain Vorsang, has a Ruguelka corsair, the Teeth of Narzabul , while Captain Reng has two Rradhi seekers. Both pirates are desperate for a prize, so both target the Travellers' ship.
 
 Escape in this situation is tricky – the three ships come from different angles, so there is no clear escape vector towards the jump limit. The Travellers must either engage the enemy ships, bluff the Vargr into fighting each other or use their own advantages (like Ancients technology) to escape.
 
@@ -6634,12 +6634,12 @@ Pandrin is a desert world, divided between human and Vargr. It was originally a 
 
 **Patron**:  Walker Robotics
 **Payment**:  MCr1
-**Mission**:  A shipment of robots was sent to Daeksuzaethukue but never arrived. Director Kung of Walker Robotics offers a MCr1 bounty for any information that leads to the retrieval of the cargo. He suspects pirates at Ueghrrozue or Kaets stole the cargo.
-**Twist**:  The real crime took place much closer to home. Vargr at the starport secretly unloaded the cargo containers and replaced them with scrap metal. The trade ship will limp home in a few weeks, with the crew claiming their cargo was stolen by pirates. They will then ship the stolen cargo to Daeksuzaethukue and sell it on the black market. If the Travellers investigate the Vargr-run starport, they can find witnesses who point them towards the criminals.
+**Mission**:  A shipment of robots was sent to [[Daeksuzaethukue]] but never arrived. Director Kung of Walker Robotics offers a MCr1 bounty for any information that leads to the retrieval of the cargo. He suspects pirates at [[Ueghrrozue]] or [[Kaets]] stole the cargo.
+**Twist**:  The real crime took place much closer to home. Vargr at the starport secretly unloaded the cargo containers and replaced them with scrap metal. The trade ship will limp home in a few weeks, with the crew claiming their cargo was stolen by pirates. They will then ship the stolen cargo to [[Daeksuzaethukue]] and sell it on the black market. If the Travellers investigate the Vargr-run starport, they can find witnesses who point them towards the criminals.
 
 #### THAEUEVAE
 
-In the Imperium, this would be a Red Zone world, an interdicted planet surrounded by warning buoys and system defence boats. There was a Vargr colony on Thaeuvae until recently, when explorers in a deep cavern system became infected with a previous unknown virus. This plague spread through the population incredibly quickly, causing blindness, fevers and even death in many cases. The colony was abandoned.
+In the Imperium, this would be a Red Zone world, an interdicted planet surrounded by warning buoys and system defence boats. There was a Vargr colony on [[Thaeuvae]] until recently, when explorers in a deep cavern system became infected with a previous unknown virus. This plague spread through the population incredibly quickly, causing blindness, fevers and even death in many cases. The colony was abandoned.
 
 There is still a naval base in orbit, manned by a skeleton crew. The 40<sup>th</sup> Squadron intend to reclaim the planet at some point in the future, once their scientists develop a cure for the plague. The virus affects humans, Droyne and Vargr but not Aslan, Hivers, K'Kree or most minor races.
 

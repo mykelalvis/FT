@@ -1,0 +1,1 @@
+Ziroyo Moynawa, proprieter of the Fusing Core in [[Affinity#Affinity Highport]]

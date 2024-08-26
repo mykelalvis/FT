@@ -12,7 +12,7 @@ tags:
 
 # Introduction
 
-This booklet contains two comprehensive adventures for Traveller printed back-to-back. Each adventure is complete and independent. This adventure, titled Annie Nova, deals with a derelict starship encountered orbiting a small gas giant in the Keng stellar system.
+This booklet contains two comprehensive adventures for Traveller printed back-to-back. Each adventure is complete and independent. This adventure, titled Annic Nova, deals with a derelict starship encountered orbiting a small gas giant in the [[Keng]] stellar system.
 
 It is assumed that this adventure will be administered by a referee who has read through this adventure, and who is familiar with both it and the rules for Traveller. This situation calls for only the basic Requires only Traveller booklets (Books 1, 2, and 3), and no additional Basic Traveller supplements, books, or other information. As usual, paper, pencils, six-sided dice, and square-grid graph paper will prove necessary during the course of the adventure.
 
@@ -27,7 +27,7 @@ All dates herein correspond to the Imperial calendar. The date for this situatio
 
 ### Place
 
-This adventure takes place in the [[Regina subsector]] within the [[Spinward Marches]] of the [[lmperium]], in space near a small gas giant in a stellar system with only one significant inhabited planet- [[Keng]] (0805-E2718CA-3). The Keng system has two gas giants, a large one much closer to the primary, and the small one very far out. As a result, starship traffic to the small gas giant is minimal, and there is little chance that anyone would normally be anywhere near it.  Keng, of interest only because it is the nearest habitable world, is a small world with a high population and a charismatic oligarchic government.
+This adventure takes place in the [[Regina subsector]] within the [[Spinward Marches]] of the [[lmperium]], in space near a small gas giant in a stellar system with only one significant inhabited planet- [[Keng]] (0805-E2718CA-3). The [[Keng]] system has two gas giants, a large one much closer to the primary, and the small one very far out. As a result, starship traffic to the small gas giant is minimal, and there is little chance that anyone would normally be anywhere near it.  [[Keng]], of interest only because it is the nearest habitable world, is a small world with a high population and a charismatic oligarchic government.
 
 ## Using This Adventure
 

@@ -14,8 +14,7 @@ All Rights Reserved. Printed in the United States of America.
 No part of this book may be reproduced in any form or
 by any means without permission in writing by the publisher.
 
-##### Although this game (as presented in Books 1,2, and 3) envisions
-
+Although this game (as presented in Books 1,2, and 3) envisions
 a referee or umpire to supervise play and to resolve questions,
 the publisher is prepared to answer questions or inquiries
 on Traveller provided a stamped, self-addressed envelope

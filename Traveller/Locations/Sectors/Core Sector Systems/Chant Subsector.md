@@ -1,3 +1,7 @@
+---
+date created: 2024-08-26 08:31
+---
+
 ![[TImp-ChantSubsector.jpg]][[TImp-ChantSubsector.jpg|Chant]]
 The Chant subsector currently has a population of about 13.7 billion. At its peak, it had over 14 times that. Chant has been continuously settled for over 7,000 years dating back to the original Vilani expansion into the Core but over the millennia, ecological collapse, war and the effects of the Long Night decimated its worlds. The remnants of lost civilizations are  verywhere, in particular at Merat and Avthaus where sprawling Vilani ruins sit side-by-side with the structures of the modern Imperium. On Effinity, the deserts and equatorial marshes have reclaimed the ruins and new cities have sprung up in the temperate latitudes to take their place.
 
@@ -11,45 +15,45 @@ There is no single reason for the severe decline of the rimward worlds. There ar
 
 The future of Chant is very much in question. Relief has begun to flow in from external sources but the subsector has more than its share of kleptocrats who misappropriate funds and redirect them to their own coffers. It will require more than just the good will of the Emperor to save Chant from plummeting even further into decline.
 
-```
-|[[Affinity]]|2121| |B98A661-B|Ni Ri Wa G|
-|[[Akeyolarix]]|1724|  N|A675546-D|Ag Ht Ni G|
-|[[Akin Akun]]|2326|  S|D410666-8|Na Ni|
-|[[Anther]]|2021|  N|A300697-E|Ht Na Ni Va G|
-|[[Avthaus]]|2425| |B200879-C|Ht Na Va G|
-|[[Basilling]]|2028|  N|A543104-E|Ht Lo Po G|
-|[[Braned]]|1727|  N|B8B3411-C|Fl Ht Ni G|
-|[[C're]]|1725|  N S|B545885-A|G|
-|[[Chant]]|2224|  W|A560688-C|De Ht Ni Ri G|
-|[[Citro]]|1823| |E8B7333-8|Fl Lo G|
-|[[Drivorea]]|2327| |B759400-D|Ht Ni G|
-|[[Effinity]]|2322| |A581651-D|Ht Ni Ri G|
-|[[Elinz]]|2122|  N S|B576553-C|Ag Ht Ni|
-|[[Eliograh]]|2125| |A524575-D|Ht Ni G|
-|[[Farhome]]|1929| |E628544-7|Ni G|
-|[[Holex]]|1822|  N|A200353-F|Ht Lo Va G|
-|[[Kamodoo]]|2130|  N|B565658-B|Ag Ni Ri G|
-|[[Leystroak]]|2221|  N|B998656-A|Ag Ni G|
-|[[Mandhem]]|1824| |E554200-7|Lo G|
-|[[Meiz]]|2225|  S|B512847-B|Ic Na G|
-|[[Merat]]|2323|  N|B423868-B|Na Po G|
-|[[Port Away]]|2227| |C557847-8|G|
-|[[Prempt]]|1825|  S|B5A2200-D|Fl Ht Lo G|
-|[[Prubisk]]|2027|  N|B9A569A-B|Fl Ni|
-|[[Raami]]|2330| |B522966-D|Hi Ht In Na Po A G|
-|[[Radd Caulo]]|2223| |A866745-A|Ag Ga Ri G|
-|[[Rek-shons]]|2222| |B855846-A|Ga G|
-|[[Rhydino]]|1829| |B311779-C|Ht Ic Na G|
-|[[Ro Anii]]|2422|  N|A573420-D|Ht Ni G|
-|[[Rorpa Din]]|2030| |D63A566-9|Ni Wa G|
-|[[Roustami]]|1726|  S|B0008AF-D|As Ht Na Va A G|
-|[[Shurgiishulu]]|2429| |B552725-9|Po G|
-|[[Skeen]]|2226| |B59199B-C|Hi Ht In A G|
-|[[Sorca]]|1921| |B545740-A|Ag G|
-|[[Tell]]|1821|  N|A78A472-F|Ht Ni Wa G|
-|[[Temra]]|1721|  N|B565886-A|Ri G|
-|[[Tomaa]]|1924| |E555435-6|Ni|
-|[[Traa]]|1930| |A000784-F|As Ht Na Va G|
-|[[Vvrin]]|1925|  NS|A585799-C|Ag Ht Ri|
-|[[Waduuka]]|1730| |BAB5435-C|Fl Ht Ni G|
-|[[Wrebil]]|1927| |B94A775-8|Wa G|
+| Name             | Location | Bases | Statistics |   Trade Codes  | Travel Code | Gas Giants | 
+| :--------------- | :------: | :---: | :--------: | :------------: | :---------: | :--------: | 
+| [[Affinity]]     |   2121   |       |  B98A661-B |    Ni Ri Wa    |             |      G     |
+| [[Akeyolarix]]   |   1724   |   N   |  A675546-D |    Ag Ht Ni    |             |      G     |
+| [[Akin Akun]]    |   2326   |   S   |  D410666-8 |      Na Ni     |             |            |
+| [[Anther]]       |   2021   |   N   |  A300697-E |   Ht Na Ni Va  |             |      G     |
+| [[Avthaus]]      |   2425   |       |  B200879-C |    Ht Na Va    |             |      G     |
+| [[Basilling]]    |   2028   |   N   |  A543104-E |    Ht Lo Po    |             |      G     |
+| [[Braned]]       |   1727   |   N   |  B8B3411-C |    Fl Ht Ni    |             |      G     |
+| [[C're]]         |   1725   |  N S  |  B545885-A |                |             |      G     |
+| [[Chant]]        |   2224   |   W   |  A560688-C |   De Ht Ni Ri  |             |      G     |
+| [[Citro]]        |   1823   |       |  E8B7333-8 |      Fl Lo     |             |      G     |
+| [[Drivorea]]     |   2327   |       |  B759400-D |      Ht Ni     |             |      G     |
+| [[Effinity]]     |   2322   |       |  A581651-D |    Ht Ni Ri    |             |      G     |
+| [[Elinz]]        |   2122   |  N S  |  B576553-C |    Ag Ht Ni    |             |            |
+| [[Eliograh]]     |   2125   |       |  A524575-D |      Ht Ni     |             |      G     |
+| [[Farhome]]      |   1929   |       |  E628544-7 |       Ni       |             |      G     |
+| [[Holex]]        |   1822   |   N   |  A200353-F |    Ht Lo Va    |             |      G     |
+| [[Kamodoo]]      |   2130   |   N   |  B565658-B |    Ag Ni Ri    |             |      G     |
+| [[Leystroak]]    |   2221   |   N   |  B998656-A |      Ag Ni     |             |      G     |
+| [[Mandhem]]      |   1824   |       |  E554200-7 |       Lo       |             |      G     |
+| [[Meiz]]         |   2225   |   S   |  B512847-B |      Ic Na     |             |      G     |
+| [[Merat]]        |   2323   |   N   |  B423868-B |      Na Po     |             |      G     |
+| [[Port Away]]    |   2227   |       |  C557847-8 |                |             |      G     |
+| [[Prempt]]       |   1825   |   S   |  B5A2200-D |    Fl Ht Lo    |             |      G     |
+| [[Prubisk]]      |   2027   |   N   |  B9A569A-B |      Fl Ni     |             |            |
+| [[Raami]]        |   2330   |       |  B522966-D | Hi Ht In Na Po |      A      |      G     |
+| [[Radd Caulo]]   |   2223   |       |  A866745-A |    Ag Ga Ri    |             |      G     |
+| [[Rek-shons]]    |   2222   |       |  B855846-A |       Ga       |             |      G     |
+| [[Rhydino]]      |   1829   |       |  B311779-C |    Ht Ic Na    |             |      G     |
+| [[Ro Anii]]      |   2422   |   N   |  A573420-D |      Ht Ni     |             |      G     |
+| [[Rorpa Din]]    |   2030   |       |  D63A566-9 |      Ni Wa     |             |      G     |
+| [[Roustami]]     |   1726   |   S   |  B0008AF-D |   As Ht Na Va  |      A      |      G     |
+| [[Shurgiishulu]] |   2429   |       |  B552725-9 |       Po       |             |      G     |
+| [[Skeen]]        |   2226   |       |  B59199B-C |    Hi Ht In    |      A      |      G     |
+| [[Sorca]]        |   1921   |       |  B545740-A |       Ag       |             |      G     |
+| [[Tell]]         |   1821   |   N   |  A78A472-F |    Ht Ni Wa    |             |      G     |
+| [[Temra]]        |   1721   |   N   |  B565886-A |       Ri       |             |      G     |
+| [[Tomaa]]        |   1924   |       |  E555435-6 |       Ni       |             |            |
+| [[Traa]]         |   1930   |       |  A000784-F |   As Ht Na Va  |             |      G     |
+| [[Vvrin]]        |   1925   |   NS  |  A585799-C |    Ag Ht Ri    |             |            |
+| [[Wrebil]]       |   1927   |       |  B94A775-8 |       Wa       |             |      G     |

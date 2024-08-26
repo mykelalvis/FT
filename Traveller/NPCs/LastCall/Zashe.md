@@ -7,10 +7,12 @@ tags:
   - NPC
 ---
 
-## Zashe
+## Zashe Pamzirma
 
 ![[CA2-50_1476396039.jpg]]
-Zashe is the proprietor of [[Last Call at Eneri's Cantina#Eneri's Cantina]], the most popular bar at [[Affinity#Affinity Highport|Affinity Highport]].
+Zashe is the proprietor of [[Last Call at Eneri's Cantina#Eneri's Cantina]], the most popular bar at [[Affinity#Affinity Highport|Affinity Highport]].  
+
+Zashe has an eidetic memory, and never forgets a face.
 
 SPECIES GENDER AGE
 Mixed Vilani-Solomani Female 52

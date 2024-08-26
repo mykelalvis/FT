@@ -31,8 +31,7 @@ An infinity of adventure awaits...
 
 # CHARTED SPACE
 
-Space that has been explored by humans is referred to as Charted Space. Within this region are many areas densely populated and well-travelled by starships.
-Others are backwaters or have never been more than superficially mapped.
+Space that has been explored by humans is referred to as Charted Space. Within this region are many areas densely populated and well-travelled by starships. Others are backwaters or have never been more than superficially mapped.
 
 The most prevalent sentient species in Charted Space is human, and the most powerful human state is the Third Imperium, although there are many other powers, great and small, along with independent worlds and political groups.
 
@@ -577,6 +576,7 @@ Despite a number of accusations and entertainment shows on the subject, the Impe
 
 # CRONOR - SPINWARDS MARCHES-SUBSECTOR A
 
+See [[Cronor Subsector]]
 # TODO
 
 Name Location Bases Statistics Trade Codes Travel Code Allegiance Gas Giants

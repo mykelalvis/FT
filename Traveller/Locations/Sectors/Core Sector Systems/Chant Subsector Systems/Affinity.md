@@ -3,9 +3,9 @@ UWP: B98A661-B
 
 # DETAILS
 
-Affinity, like most worlds in the Anther Cluster, sees a great deal of interstellar traffic. This collection of worlds is at the nexus of four [[#The Sylean Main|Sylean Main]] branches. The Chant Branch to rimward is dominated by the industrial world Skeen; the Old Confederacy Branch to spinward leads into the region that once hosted the Interstellar Confederacy; and the  [[Capital]] branch – actually a pair of branches – leads coreward towards the Imperial  [[Capital]] and onward to the Sylean and Wayward worlds.
+Affinity, formerly known as Vlaakier and like most worlds in the [[Anther]] Cluster, sees a great deal of interstellar traffic. This collection of worlds is at the nexus of four [[#The Sylean Main|Sylean Main]] branches. The Chant Branch to rimward is dominated by the industrial world Skeen; the Old Confederacy Branch to spinward leads into the region that once hosted the Interstellar Confederacy; and the  [[Capital]] branch – actually a pair of branches – leads coreward towards the Imperial  [[Capital]] and onward to the Sylean and Wayward worlds.
 
-Making their way down the main concourse and into the startown – the sprawling business district that surrounds the starport – they find themselves at Restoration Plaza, where they are drawn to Eneri's Cantina, conveniently located on the periphery of the park. Eneri's is a busy place almost any time of day but flourishes during the evenings, just as the visible disc of Affinity has begun to darken a mere 15, kilometers away.
+Making their way down the main concourse and into the startown – the sprawling business district that surrounds the starport – they find themselves at [[#Restoration Plaza]], where they are drawn to [[#Eneri's Cantina]], conveniently located on the periphery of the park. Eneri's is a busy place almost any time of day but flourishes during the evenings, just as the visible disc of Affinity has begun to darken a mere 15, kilometers away.
 
 ![[CA2-50_1476395972.jpg]]
 
@@ -126,10 +126,12 @@ Virtual Gunner/0 — 1
 
 
 ---
+### Restoration Plaza
 
+Restoration Plaza is a small park in the center of the [[Affinity#Affinity Highport]], located on deck 3.  It was built to commemorate the move of the [[Syroe|Shaaak]] peoples in an effort to keep an ecosystem collapse from happening.  It contains a garden with some [[Capital]] native flora, but is managed by automated systems.
 ### Eneri's Cantina
 
-Eneri's features a bi-level layout with a single bar on the lower level and copious seating in booths, tables and barstools. The bar's proprietor, [[Zashe]] Pamzirma, loves music and has a band playing on the soundstage most of the time, usually a smooth jazz trio during the day with a lively quartet or larger band playing more boisterous tunes in the evenings.
+Just off of [[#Restoration Plaza]], Eneri's features a bi-level layout with a single bar on the lower level and copious seating in booths, tables and barstools. The bar's proprietor, [[Zashe]] Pamzirma, loves music and has a band playing on the soundstage most of the time, usually a smooth jazz trio during the day with a lively quartet or larger band playing more boisterous tunes in the evenings.
 
 Eneri's is a pan-sophont-friendly venue with beverages provided to please a broad variety of alien palates. In addition, the lift and stairwells are reasonably spacious and outfitted with grav assist so as not to favor only sophonts with legs. There is also a lift near the front entrance for those who would prefer to forgo stairs altogether.
 

@@ -3477,7 +3477,7 @@ provides little protection from meteorites. Numerous
 impact craters have been identified all over the
 surface, with clusters in some areas. The largest
 crater is close to the equator and houses a colony
-of Llellewyloly, a rather strange sentient species
+of [[Llellewyloly]], a rather strange sentient species
 normally referred to as Dandelions due to their
 appearance. Some of the craters have become
 micro-ecosystems which interest scientists, but since

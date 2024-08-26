@@ -1,0 +1,1 @@
+An [[Ase|Asei]] corporation looking to exploit [[Affinity]], allegedly for industrial purposes.

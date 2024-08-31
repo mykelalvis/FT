@@ -544,10 +544,10 @@ white extremely so (roll 2D for 2-7 brown, 8-10 grey, 11 black and 12 white).
 ```
 
 ```
-The skeleton and musculature follow typical Terran vertebrate norms.
+The skeleton and musculature follow typical [[Terra|Terran]] vertebrate norms.
 Respiration is accomplished by the usual paired lung arrangement,
 the circulatory system is closed and the heart four chambered, making
-the animal very similar to certain small Terran mammals such as the
+the animal very similar to certain small [[Terra|Terran]] mammals such as the
 squirrel monkey.
 ```
 
@@ -690,7 +690,7 @@ planets in those regions.
 ```
 Adults are typically 100 to 120 centimeters in length, and weigh from
 20 to 25 kilograms. The skeleton is calciferous, internal, and generally
-resembles that of a Terran vertebrate, except in the number of limbs and
+resembles that of a [[Terra|Terran]] vertebrate, except in the number of limbs and
 framing of the body cavity. The spinal column runs from the base of the
 skull dorsally along the body until it reaches the pelvis. In place of ribs,
 the sea bear's body cavity is supported by short lengths of bone joined

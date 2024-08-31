@@ -4,6 +4,8 @@ tags:
   - The_Traveller_Adventure
   - Spinward_Marches
   - GDW
+aliases:
+  - False War
 ---
 # The Fourth Frontier War
 

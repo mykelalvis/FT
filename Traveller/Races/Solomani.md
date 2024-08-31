@@ -1,7 +1,7 @@
 ---
 date created: 2024-08-26 10:13
 aliases:
-  - Terran
+  - [[Terra|Terran]]
 tags:
   - race
 ---

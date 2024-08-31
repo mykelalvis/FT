@@ -1,0 +1,11 @@
+### DAWN
+
+Dawn is a large, dense planet entirely covered in very deep oceans. Thought to be a failed gas giant, Dawn has a high surface gravity – 1.7g – which, along with its dense, oxygen-rich atmosphere, makes the world highly uncomfortable for unadapted humans. As a result, there are more people living at the starport or on Dawn's four moons than on the mainworld itself.
+
+Dawn is best thought of as a complex multi-body system than a single planet. The highport is home to a mostly offworld population, made up of workers, business owners and their families. Some hail from the communities of Dawn but most are transients whose world of citizenship is elsewhere. The port is an important link in the subsector's economy and sees a great deal of traffic. It also functions as a hub for the planet-and-moons system.
+
+The mainworld itself is populated by around 200,000 people who live in floating cities. Their primary industry is fishing, as might be expected, along with related activities such as harvesting the vast floating mats of seaweed that drift atop Dawn's oceans. There is little resource extraction, other than processing of the ocean water for dissolved minerals. With no useable land at all and seabed mining requiring operations at incredible depths, Dawn's small industrial sector finds it easier to import minerals from the moons or outside the system.
+
+The four moons, together with the highport, are home to around 200,000 people. The moon cities are primarily resource-extraction and industrial sites, relying on Dawn's planetary population for food whilst they produce necessary goods for use and for export. The system works well enough that standards of living throughout the planet-moon system are high, although other than the spectacular sunrises for which the world is named there is little reason for visitors to go planetside.
+
+There are exceptions to this rule. Imperial armed forces sometimes conduct high-gravity training on Dawn and have experimented with deep-water operations from time-to-time. Scientific expeditions arrive occasionally, intent on mapping the seabed or sending robotic probes to investigate its composition. If Dawn really is a failed gas giant then its highly dense rocky core might reveal secrets about the formation of other, successful, gas giant worlds.

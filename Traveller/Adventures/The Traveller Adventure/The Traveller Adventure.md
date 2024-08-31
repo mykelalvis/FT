@@ -143,7 +143,7 @@ Elsewhere, parts of the Spinward Marches off the Spinward Main remained backwate
 
 Using the standard layout for sectors, the Spinward marches are divided into sixteen subsectors, lettered A 'through P. The sector chart shows this pattern, and gives the names of the subsectors. The map on page 13 shows a quarter of the Spinward marches, including subsectors C, D, G, and H. Note the rela tionship between these subsectors and Regina subsector lpreviously mapped in The Traveller Book).
 
-See [[The Frontier Wars]]
+See The [[Frontier Wars]]
 
 ## ARAMIS SUBSECTOR
 
@@ -1543,7 +1543,7 @@ Anolas have a variety of special talents which protect them from harm. These tal
 
 An anola captured by the adventurers will adapt to the group very swiftly, and will follow typical behavior patterns for the various phases. A complete group will produce a litter of cubs within about one year. A partial group will progress through the various phases based on its composition. In the absence of a female, the eldest parental will become a female, and the male will become a parental (the group will seek a male to join itl. A lone parental will become a female. A lens male will remain a male.
 
-Anolas are not intelligent, having mental capabilities roughly equal to that of a Terran dog (Cam's famr'!r'an'sl. Anolas are native to Pysadi and prefer its particular type of tainted air. They do not require the contaminant. however, and can breathe standard atmospheres without ill effects. They do not adapt to other types of tainted air.
+Anolas are not intelligent, having mental capabilities roughly equal to that of a [[Terra|Terran]] dog (Cam's famr'!r'an'sl. Anolas are native to Pysadi and prefer its particular type of tainted air. They do not require the contaminant. however, and can breathe standard atmospheres without ill effects. They do not adapt to other types of tainted air.
 
 ![[CT-TTA-123.jpg]]
 
@@ -2709,7 +2709,7 @@ The planet's land area is roughly divided into a northern and a southern contine
 
 Following the Civil War, humans began moving into the north continent, competing for land with the Dandies. which resulted in tension between the races. Sporadic violence. guerrilla raids, and even open warfare broke out. The period of violence ended when the two races. with the encouragement of the Imperial Marines, established the present world government: a co-dominium with equal presence of both races in ruling functions.
 
-The Dandies of Junidy are well-adapted to Junidy's environment. A Dandy has five rnulti-jointed limbs which function as hands and feet interchangeably: main sensory organs are also located on the limbs. The spherical central body is covered with long, coarse hair. Dandelions are named for their fancied resemblance to a Terran weed, accentuated by their habit of standing motionless on one limb with the other four folded against the body; in this stance (which conserves heat during Junidy's cold nights! they resemble flowers on long stalks.
+The Dandies of Junidy are well-adapted to Junidy's environment. A Dandy has five rnulti-jointed limbs which function as hands and feet interchangeably: main sensory organs are also located on the limbs. The spherical central body is covered with long, coarse hair. Dandelions are named for their fancied resemblance to a [[Terra|Terran]] weed, accentuated by their habit of standing motionless on one limb with the other four folded against the body; in this stance (which conserves heat during Junidy's cold nights! they resemble flowers on long stalks.
 
 Both continents now have high populations of both races. Humans tend to live in large cities. Dandies live in the countryside, although they visit the cities often to conduct business.
 
@@ -4870,7 +4870,7 @@ The March class subsidized merchant is an example of
 
 a merchant ship intended to fill otherwise vacant trade channels for worlds which feel they need commerce. Its large cargo capacity makes it reasonably efficient, although its small jump drives restrict it to jump-1, and thus to worlds which lie within one parsec of each other.
 
-March class merchants are produced throughout the Spinward Marches, and have an excellent service record. Available from a variety of shipbuilders. the most notable producers in the Spinward Marches include General Shipyards, Ling Standard Products. GSbAG, and Clan Severn.
+March class merchants are produced throughout the Spinward Marches, and have an excellent service record. Available from a variety of shipbuilders. the most notable producers in the [[Spinward Marches]] include General Shipyards, [[Ling Standard Products]]. [[GSbAG]], and [[Clan Severn]].
 
 ### Subsidized Merchant (type F-Ii)
 
@@ -5271,7 +5271,7 @@ within or near the lmperium. Many asteroid belts in the region seem to have resu
 
 The Ancients are generally accepted as being responsible for the wide dissemination of humaniti; for reasons unknown, they transported specimens of humaniti from Terra to at least 40 worlds across a span of some 360 parsecs.
 
-The Ancients were also responsible for the creation of theVargr through the genetic manipulation of Terran canines.
+The Ancients were also responsible for the creation of theVargr through the genetic manipulation of [[Terra|Terran]] canines.
 
 ### Anola lAno|a greviil
 
@@ -5332,7 +5332,7 @@ Herbivore native to Fulacin in the Flhylanor subsector. Individual groats are ha
 
 Groats have been transplanted to several worlds in the Aramis subsector, most notably Focaline.
 
-The groat's sha99V hair lknown as groetlel is the most obvious resource it provides. Once sheared, cleaned, and groomed, it has a softness __ and silkiness rivalling the finest synthetic. In addition, groatle contains a high concentration of metal salts, which has two beneficial effects. First, groatlev cloth is proof against most llfeforms which eat other animal fibers lsuch as various species of Terran rnothsl. Second. a simple chemical treatment brings out an iridescent. shimmering quality which is very attractive. Greats are also raised for their meat, which is highly prized by Vargr.
+The groat's sha99V hair lknown as groetlel is the most obvious resource it provides. Once sheared, cleaned, and groomed, it has a softness __ and silkiness rivalling the finest synthetic. In addition, groatle contains a high concentration of metal salts, which has two beneficial effects. First, groatlev cloth is proof against most llfeforms which eat other animal fibers lsuch as various species of [[Terra|Terran]] rnothsl. Second. a simple chemical treatment brings out an iridescent. shimmering quality which is very attractive. Greats are also raised for their meat, which is highly prized by Vargr.
 
 ### Howood
 
@@ -5364,7 +5364,7 @@ imperial megacorporation.
 
 Originally El mining firm (and still very active in that areal. LSP engages in a wide spectrum of activities including (but not limited tol manufacture of electronic equipment of all sorts. ground and air vehicles, starships and starship armament systems, drive and power systems, computers and software. and small arms. LSP maintains mining and manufacturing facilities throughout the lmperium and beyond.
 
-Stock ownership: imperial family. 8%; Hortalez et Cie. 26%: GSbAG, 23%, noble families, 8%: Murdoch Holdings, . LlC,8%: other. 27%.
+Stock ownership: imperial family. 8%; [[Hortalez]] et Cie. 26%: [[GSbAG]], 23%, noble families, 8%: [[Murdoch Holdings]], . LlC,8%: other. 27%.
 
 ### Llellewyloly
 
@@ -5404,7 +5404,7 @@ imperial /'trade and transport corporation of the Spinward Marches. Founded in 4
 
 ### Sharurshid
 
-Megacorporation speciaiizing in trade and speculation. with very little manufacturing capability. Sharurshid trades in luxury goods from all parts of the lmperium and many areas beyond. Most rare Terran wines and spirits are carried on the starships of Sharurshid.
+Megacorporation speciaiizing in trade and speculation. with very little manufacturing capability. Sharurshid trades in luxury goods from all parts of the lmperium and many areas beyond. Most rare [[Terra|Terran]] wines and spirits are carried on the starships of Sharurshid.
 
 Stock ownership: Imperial family, 3%; Sharurshid trust, 46%; Zirunkariish, 13%; Hortalez et Cie. 14%: other corporations, 14%: private ownership, 10%.
 
@@ -5453,7 +5453,7 @@ The major news agency of the lmperium, owned by the Travellers' Aid Society. The
 
 ### Trojan Points
 
-in a gravitational system composed of a small body orbiting a much iarger one (such as a planet and star or moon and planet). there are two stable points lying in the small body's orbit 60° ahead and behind it; these are called Trojan points. The Trojan points of a gas giant near an asteroid belt commonly collect a cluster of asteroids. The name comes from the first such cluster discovered by Terrans. at Jupiter in the Sol system; the asteroids were named after mythical heros of the Trojan War.
+in a gravitational system composed of a small body orbiting a much iarger one (such as a planet and star or moon and planet). there are two stable points lying in the small body's orbit 60° ahead and behind it; these are called Trojan points. The Trojan points of a gas giant near an asteroid belt commonly collect a cluster of asteroids. The name comes from the first such cluster discovered by [[Terra|Terran]]s. at Jupiter in the Sol system; the asteroids were named after mythical heros of the Trojan War.
 
 ### Tukera Lines
 
@@ -5501,7 +5501,7 @@ Along the coreward border of the lmperium lies the territory collectively called
 
 ### Origins
 
-Vargr were for years a puzzle to Imperial sophontologists. Vargr biochemistry and genetic makeup are almost identical with a number of terrestrial animals, but differ radically from most of the flora and fauna indigenous to Lair, the purported Vargr homeworld. Researchers during the early years of the Third lmperium concluded them to be the result of genetic manipulation of transplanted Terran animals of the family Canidae and almost certainly the genus Canis. The obvious conclusion. which is supported by archeological evidence, is that the long-dead race known as the Ancients was responsible.
+Vargr were for years a puzzle to Imperial sophontologists. Vargr biochemistry and genetic makeup are almost identical with a number of terrestrial animals, but differ radically from most of the flora and fauna indigenous to Lair, the purported Vargr homeworld. Researchers during the early years of the Third lmperium concluded them to be the result of genetic manipulation of transplanted [[Terra|Terran]] animals of the family Canidae and almost certainly the genus Canis. The obvious conclusion. which is supported by archeological evidence, is that the long-dead race known as the Ancients was responsible.
 
 ## VARGR SOCIETY
 

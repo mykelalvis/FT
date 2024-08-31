@@ -23,7 +23,7 @@ Humans are the most numerous beings known to exist.
 
 A blue planet, lying far out in one of the spiral arms of the Milky Way, is the birthworld of the Humani. Some refer to this world by its ancient name, Earth, but most beings today call it Terra.
 
-Humans from this world are no longer referred to as Terrans or Earthlings. They are known as Solomani - meaning "Men of Sol" ("Sol" being the name of Earth's sun). And, if you count the current year by the ancient Solomani calendar, the year is 5623 AD - the 57th century, in ancient Earth terms.
+Humans from this world are no longer referred to as [[Terra|Terran]]s or Earthlings. They are known as Solomani - meaning "Men of Sol" ("Sol" being the name of Earth's sun). And, if you count the current year by the ancient Solomani calendar, the year is 5623 AD - the 57th century, in ancient Earth terms.
 
 For an age, the Solomani believed themselves to be the only intelligent life in existence. They experienced a rude change in their culture when they discovered otherwise. As they took to the stars, the Solomani, like so many species before them, began to colonize other worlds. At first, they settled their solar system, and then, as their technology developed, allowing them to push out into the void, they set foot on worlds in other star systems.
 
@@ -31,9 +31,9 @@ They discovered other intelligent life - alien life.
 
 And, they discovered that some of the aliens were human!
 
-The Solomani year was 2096 AD. Terran explorers - men from the small, fledgling grouping of Solomani planets - made contact with another race of humans, humans calling themselves Vilani.
+The Solomani year was 2096 AD. [[Terra|Terran]] explorers - men from the small, fledgling grouping of Solomani planets - made contact with another race of humans, humans calling themselves Vilani.
 
-But that shock - carrying with it ramifications in religion and eons of scientific theory that the Terran society and culture would barely overcome - was reflected as a simple Solomani facial tic when compared to the discovery that the Vilani already controlled an interstellar empire.
+But that shock - carrying with it ramifications in religion and eons of scientific theory that the [[Terra|Terran]] society and culture would barely overcome - was reflected as a simple Solomani facial tic when compared to the discovery that the Vilani already controlled an interstellar empire.
 
 The Vilani called their empire the Ziru Sirka, meaning "Grand Empire of Stars", and it was so vast and awe-inspiring that it took years to travel across, even in the fastest jump-capable starships of the time.
 
@@ -47,15 +47,15 @@ The Vilani empire had existed since 473 AD on the Solomani calendar, and the Gra
 
 The Solomani and the Vilani became co-habitants in the space around Earth. The Vilani made initiatives to draw the Solomani into the Ziru Sirka, and the Solomani resisted.
 
-War broke out. Fiercely independent, the Solomani defied efforts to have their culture swallowed by the humans-not-from-Earth. But, the Vilani leaders on Vland, the Ziru Sirka capital, looked at the Terrans with little more than mild curiosity. The pitiful number of Terran systems were but just one more client state of the great, star-spanning empire of the Vilani.
+War broke out. Fiercely independent, the Solomani defied efforts to have their culture swallowed by the humans-not-from-Earth. But, the Vilani leaders on Vland, the Ziru Sirka capital, looked at the [[Terra|Terran]]s with little more than mild curiosity. The pitiful number of [[Terra|Terran]] systems were but just one more client state of the great, star-spanning empire of the Vilani.
 
-For close to two centuries, the relations between the Vilani and the Terran Confederation (as Solomani Space had come to be known), were typified by a number wars fought along the Ziru Sirka's rimward border.
+For close to two centuries, the relations between the Vilani and the [[Terra|Terran]] Confederation (as Solomani Space had come to be known), were typified by a number wars fought along the Ziru Sirka's rimward border.
 
-Communication within the Grand Empire of Stars was slow, and Vilani culture emphasized decision by committee - a stark contrast to the culture of the Solomani, where individual initiative is lauded and communication distances within the much smaller Terran Confederation were extremely shorter.
+Communication within the Grand Empire of Stars was slow, and Vilani culture emphasized decision by committee - a stark contrast to the culture of the Solomani, where individual initiative is lauded and communication distances within the much smaller [[Terra|Terran]] Confederation were extremely shorter.
 
 The Solomani fought a guerilla war, on many different fronts, followed by peace, then war, then peace, then war again. The Vilani leaders regarded the Interstellar Wars as little more than a regional problem - where issues in other parts of the enormous empire drew priority.
 
-And over this 189 year period, the people of the Solomani and the Vilani mingled. A great diaspora from Earth ensued, and Terrans, like the Chosen People, spread out from Earth, planting themselves on distant planets.
+And over this 189 year period, the people of the Solomani and the Vilani mingled. A great diaspora from Earth ensued, and [[Terra|Terran]]s, like the Chosen People, spread out from Earth, planting themselves on distant planets.
 
 #### The Rule of Man
 
@@ -73,7 +73,7 @@ David slew Goliath.
 
 #### The Long Night
 
-The Rule of Man was characterized by rebirth but little growth of the Second Imperium. Under Vilani rule, the First Imperium had floundered, stagnated, in both growth and technological development. The Solomani fought to change that characteristic of the empire, but it was a difficult battle. The Vilani system had been entrenched for close to 2000 years. The Solomani experience with governing an interstellar government was under 200 years - and never had the Terrans ruled an empire as vast as the Imperium.
+The Rule of Man was characterized by rebirth but little growth of the Second Imperium. Under Vilani rule, the First Imperium had floundered, stagnated, in both growth and technological development. The Solomani fought to change that characteristic of the empire, but it was a difficult battle. The Vilani system had been entrenched for close to 2000 years. The Solomani experience with governing an interstellar government was under 200 years - and never had the [[Terra|Terran]]s ruled an empire as vast as the Imperium.
 
 It was a miracle the Solomani became governors of the largest star-empire in existence. And, it was inevitable they would loose it.
 
@@ -81,9 +81,9 @@ Nobody foresaw just how bad the new rulers would be for the Second Imperium. Whe
 
 The first indication of the inability of the Solomani came when it was apparent the new nobility would be unable to persuade their own brethren to accept membership within the Second Imperium. Solomani and Vilani people merged during the 428 year period known as the Rule of Man. Over the generations, Solomani/Vilani culture became one - to the point where a distinction between the two races of Humaniti was no longer made on some worlds of the Imperium.
 
-The Solomani of the Terran region of space despised what some of their people had become - losing themselves in an alien culture, and the Terran Confederation remained independent (albeit sympathetic) of their cousins of the Second Imperium.
+The Solomani of the [[Terra|Terran]] region of space despised what some of their people had become - losing themselves in an alien culture, and the [[Terra|Terran]] Confederation remained independent (albeit sympathetic) of their cousins of the Second Imperium.
 
-But the men of the Terran Confederation could not prevent what would befall all of Humaniti at the hands of the new inexperienced Imperial rulers.
+But the men of the [[Terra|Terran]] Confederation could not prevent what would befall all of Humaniti at the hands of the new inexperienced Imperial rulers.
 
 Over the four centuries of Solomani rule, technology subsided. Regions of the Imperium gradually lost touch with the rest of the whole. Border wars were dealt with by persons inexperienced with interstellar government.
 
@@ -113,7 +113,7 @@ Small human governments emerged, connected themselves, grew bigger.
 
 Until one - the Sylean Federation - reached out its hand, provided by a man born of the union between a Solomani father and a Vilani mother, establishing the Third Imperium.
 
-That was over 1000 years ago. By the Terran calendar, it was the year 4518 AD. Cleon I declared himself emperor, established a new dating system (the one we use today), and a campaign was begun to recapture all of the member worlds lost after the fall of the Rule of Man.
+That was over 1000 years ago. By the [[Terra|Terran]] calendar, it was the year 4518 AD. Cleon I declared himself emperor, established a new dating system (the one we use today), and a campaign was begun to recapture all of the member worlds lost after the fall of the Rule of Man.
 
 Some 500 years passes, but the former Imperium was restored - and it grew, larger than ever before, thanks to the establishment of the Imperial Interstellar Scout Service and the aggressive efforts made by a long line of strong handed emperors.
 
@@ -121,7 +121,7 @@ Today, after 1105 years of membership in the Third Imperium, Vilani and Solomani
 
 Initially, the Third Imperium was dominated by the Solomani - a result of the Solomani dominated Sylean Federation, and, to a lesser extent, the influence of the Solomani during the Rule of Man. But, today, most citizens of the empire refer to themselves as Imperials, members of the species known as Humani.
 
-Terra is now a member-world of the Third Imperium, but the Terran Confederation still exists, as an independent empire, now calling itself the Solomani Confederation. When the term Solomani is used today to describe a being, it is understood as a term describing a human from this independent state - not an Imperial citizen.
+Terra is now a member-world of the Third Imperium, but the [[Terra|Terran]] Confederation still exists, as an independent empire, now calling itself the Solomani Confederation. When the term Solomani is used today to describe a being, it is understood as a term describing a human from this independent state - not an Imperial citizen.
 
 The Solomani have moved their homeworld to a planet called Home, and there is much friction between the Third Imperium and the Solomani Confederation over the ownership of Earth.
 

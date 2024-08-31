@@ -1,0 +1,7 @@
+### THENGIN
+
+Lying towards the spinward end of Deneb's largest cluster-main, Thengin is economically and strategically important, with additional income provided by the naval base. 'Navy money' takes the form of grants and large-scale contracts but also the very significant individual spending of crew on liberty at Thengin's starport. Navy and marine uniforms are commonplace in the port and surrounding cities and personnel in general are well received.
+
+Thengin has a good relationship with the navy, with serving a hitch seen as a route into a good job even by those with no aspirations towards a military career.  Employers look favorably upon ex-naval personnel, with the result that Thengin has a large population of immigrants who finished their final term at Thengin's naval base and settled nearby.
+
+The megacorporation [[GSbAG]] has always been heavily involved in Thengin's economy, funding the original small naval base and its supporting colony in the early 300s, with a view to securing the region and enabling further colonization. Starships are not built at Thengin, although there are smallcraft yards that specialise in fighters and assault shuttles. [[GSbAG]] maintains extensive components factories in several of Thengin's cities, some constructing highly classified items using imported materials, although most make mundane items like hull armor plate or fuel piping. Ex-naval personnel are favored for the more sensitive sites but there is still plenty of work available and [[GSbAG]] is popular among the citizens.

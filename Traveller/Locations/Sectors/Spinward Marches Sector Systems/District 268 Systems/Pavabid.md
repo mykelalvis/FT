@@ -1,0 +1,19 @@
+### PAVABID
+
+Pavabid is an independent mid-tech world lying a few parsecs from Imperial space on the most rimward arm of the Spinward Main. It is a very habitable world for humans, with slightly lighter gravity than Earth, a standard atmosphere and plenty of water.  Unsurprisingly, Pavabid was settled early in the history of [[The Spinward Marches|the Marches]] and the population steadily grew to its present level, about 700 million.
+
+At some point in the world's history, the Church of Stellar Divinity became the world's most widely practised religion and later the official state religion worldwide. The Church of Stellar Divinity turned Pavabid into a theocracy but, without offworld influences, the religion took a sinister turn and the wider church has declared the Pavabid theocracy an official heresy and condemns the actions of the world government. The Pavabidian Heresy maintains that while all stars are indeed gods, only Pavabid's star is good and benign.
+In order to protect them from the influences of enemy stars, the people are kept isolated and not permitted contact with offworlders. Travel to other systems is out of the question.
+
+Offworld visitors to Pavabid are restricted to a trade enclave around the starport, guarded by church troops and staffed by the most zealous and incorruptibly faithful officials. Law enforcement within the enclave is strict, equivalent to Law Level 8. Outside, it is nearer Law Level 10, with church-imposed rules intruding into all aspects of daily life.
+
+The people of Pavabid are content and kept that way by rules that prevent them from finding out about ways of life that they might like better. All the same, life is not bad. Pavabid is covered in small towns built around light industry, with agricultural regions in between. Most Pavabidians simply cannot conceive of any other life.
+
+The head of the Pavabidian government is known as the Son of the Star and considered to be the embodiment of the star's consciousness, making him both divine and infallible. He dwells in a floating palace that moves around Pavabid at his whim and is allegedly held aloft by the hand of god; in fact it is a technological construct using impressive but mundane gravitic technology.
+
+Pavabid lies directly between Collace and Trexalon, two worlds that are bitter rivals and hold diametrically opposed views about the [[Imperium]]. Collace supports Imperial expansion into District 268 and hopes to become the subsector capital, while Trexalon is doing everything it can to hamper Imperial advancement and delay the region's incorporation into the [[Imperium]].
+
+Since both Collace and Trexalon ships come to trade at the port, clashes of interests occur from time-to-time on Pavabid. However, in recent months things have taken a turn for the worse. A survey of Pavabid discovered extensive deposits of platinum and, more importantly, iridium. Iridium is used in the production of jump drives and is extremely valuable. Collace in particular is interested in obtaining access to these deposits, which is strictly forbidden by church law as offworlders are not allowed outside the trade enclave.
+The locals do not have the technology to extract it themselves, making it impossible for Collace or anyone else to obtain iridium from Pavabid.
+
+Collace and Trexalon both believe that the other is engaged in underhand methods to gain access to the iridium deposits and neither is willing to allow the other to pull off a coup and gain control of this rich resource. Since both believe the other is willing to use covert agents on Pavabid, counter-agents are necessarily deployed. As yet there have been no serious incidents but it is only a matter of time before the shadow war spills over and becomes impossible for the church not to notice. No-one can predict what might happen then.

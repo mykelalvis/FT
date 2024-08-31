@@ -13,7 +13,7 @@ tags:
 
 3014 Apinanto E431432-6 Ni Po 303 Na
 
-[[Apinanto]] is a backwater system in the [[Saphi Cluster]] of [[Fessor Subsector]] of [[Foreven]]. Overlooked by everyone except those who only have jump 1, and even then the mainworld itself is largely ignored as fuel is only available from skimming the Gas Giants.
+[[Apinanto]] is a backwater system in the [[Saphi Cluster]] of [[Fessor Subsector]] of [[Foreven Sector|Foreven]]. Overlooked by everyone except those who only have jump 1, and even then the mainworld itself is largely ignored as fuel is only available from skimming the Gas Giants.
 
 Not only is [[Apinanto]] ignored because there is no fuel, it's also ignored because there is no trade. Apinantoians are a subsistence lot. They produce enough food and manufacture enough goods for themselves. When surplices are available there generally isn't anyone to sell them to, and there isn't anything the Apinantoians need to buy. The 37,526 inhabitants pretty much get along by themselves.
 

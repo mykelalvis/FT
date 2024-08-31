@@ -3,8 +3,8 @@ date created: 2024-08-25 16:58
 date updated: 2024-08-25 17:04
 tags:
   - RB-C_and_C
+aliases: []
 ---
-
 # AKY
 
 Aiaokhtaoestiyh Kyoawaihoawea Yu Aiaokhtaoestiyh Kyoawaihoawea Yu (AKY) is an Aslan trading group whose vessels can be encountered almost anywhere. The company – the human term is useful but does not quite describe this grouping – is made up of assets from several clans, but does not contain all of the trading assets of any given clan. It might be best described as a special-purpose business group with some political overtones.

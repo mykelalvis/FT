@@ -3,6 +3,8 @@ date created: 2024-08-25 16:58
 date updated: 2024-08-25 16:58
 tags:
   - RB-C_and_C
+aliases:
+  - JCE
 ---
 # Jovian Chemical Extraction
 

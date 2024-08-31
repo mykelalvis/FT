@@ -1,0 +1,7 @@
+### CHAOSHEO
+
+Chaosheo is neither somewhere nor nowhere. Lying on the fringe of Deneb, it is more or less a forgotten backwater that occasionally becomes entangled in the cross-border politics of Vincennes and Mora. For many years, Chaosheo was Red Zoned as it is the homeworld of an aquatic sentient species called the Shi'awei. In recent years, the interdiction has been lifted and some settlement has taken place.
+
+The world's population figure of 60 million or so is an estimate and a vague one at that. Researchers do not really know how many Shi'awei there are since their society is complex and fragmented. Carrying out a population census of an uncooperative species that lives in deep water is a challenging task even for the Scout Service.
+
+The human population numbers only a few hundred, all of whom dwell in a single settlement originally built as a research base to study the native people. As always, supporting industries grew up around the rudimentary port and the world gradually acquired a 'native' human population. Interactions between these people and the true indigenous inhabitants are uncommon except for underwater exploration and research missions by Scout Service personnel. However, humans are beginning to establish a fishing industry that might cause friction in the near future.

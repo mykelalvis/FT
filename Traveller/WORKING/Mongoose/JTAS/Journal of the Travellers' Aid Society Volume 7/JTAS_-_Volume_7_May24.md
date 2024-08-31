@@ -368,14 +368,14 @@ all of the Dustbelt, the narrow channel of star systems that stretches
 across the Trojan Reach (also known as the Outrim Void). Its
 breathable atmosphere, pleasant climate and active biosphere has
 made it a welcoming home to humans for over 2,500 years, since it was
-initially settled by Terran colonists.
+initially settled by [[Terra|Terran]] colonists.
 
 The first settlers landed at the southern shores of the planet's largest
 continent where the mouth of a river empties into one of its oceans.
 The river was reddish brown due to the high iron and red phosphorus
 content in the runoff of a nearby mountain range, the bloody colour of
 the water inspiring the name of the region and eventually the planet
-itself. In ancient Terran mythology, Acis, who loved the nereid Galatea,
+itself. In ancient [[Terra|Terran]] mythology, Acis, who loved the nereid Galatea,
 was crushed by a boulder thrown by the jealous cyclops, Polyphemus.
 Galatea, lamenting the loss of her lover, transformed his blood into
 the River Acis. The mythological lore of Acis was extended to the
@@ -1689,7 +1689,7 @@ The Ithklur are descended from arboreal carnivorepouncers. Their rather
 large size (adults average 200 kilograms) is indicative of the other native
 species of Tryylin, many of which are massive. Primordial Ithklur evolved
 to hunt in packs to bring down considerably larger prey, much of which
-resembled Mesozoic-era Terran fauna. As the climate of their homeworld
+resembled Mesozoic-era [[Terra|Terran]] fauna. As the climate of their homeworld
 changed and they were forced out of their forested homelands, the Ithklur
 adapted well to new and more varied environments.
 
@@ -6165,7 +6165,7 @@ that the asteroid is a living entity, some are more open to the idea of
 an eldritch horror.
 
 Similar in nature to the old conspiracy theories surrounding the
-historical Terran Area 51 site, the BZ-AT is proving to be a popular
+historical [[Terra|Terran]] Area 51 site, the BZ-AT is proving to be a popular
 point of discussion and contention for doomsayers, explorers, fringe
 scientists and disillusioned youths yearning for adventure. If the
 disturbing audio files collected by the likes of Tokashi and David are to

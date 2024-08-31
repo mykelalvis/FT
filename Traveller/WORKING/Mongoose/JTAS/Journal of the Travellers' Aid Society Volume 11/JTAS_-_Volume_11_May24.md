@@ -2859,7 +2859,7 @@ ability to cling to the body of a large animal and attach their sharp teeth
 to the skin, penetrating flesh to suck blood or other fluids like a large
 leech. An anaesthetic in the Aezorgh's saliva works to prevent the
 victim from feeling the bite and acts as a sedative or mild euphoric on
-some species but not on all; an Aezorgh can suck blood from a Terran
+some species but not on all; an Aezorgh can suck blood from a [[Terra|Terran]]
 cow for hours but attempting the trick on a Kian will lead to a rather
 extreme reaction.
 

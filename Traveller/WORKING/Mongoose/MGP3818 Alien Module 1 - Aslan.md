@@ -2143,7 +2143,7 @@ they are one of the most human-like of all alien races, excepting, of
 course, the Vargr (who are, after all, genetically-altered mammalian
 stock originally from Earth).
 
-Early Terran explorers regarded the Aslan as 'lion-like,' and the simile
+Early [[Terra|Terran]] explorers regarded the Aslan as 'lion-like,' and the simile
 has stuck ever since, although the Aslan bear little resemblance to
 Terrestrial lions. Nonetheless, this early misnomer has influenced a
 great deal of human thinking about the Aslan, including terminology
@@ -2193,7 +2193,7 @@ try to maintain such culinary practices even on spacecraft, using
 mouse-sized robots covered in a meaty sheath to mimic live prey
 and carrying herd animals in cryoberths for later consumption.
 
-Aslan cannot naturally digest Terran-derived meats but adding a few
+Aslan cannot naturally digest [[Terra|Terran]]-derived meats but adding a few
 genetically-engineered stomach bacteria corrects this. Some Aslan
 take pills when visiting human worlds to adjust their biochemistry,
 although many clans now include these bacteria in the medical
@@ -4182,9 +4182,9 @@ expansion was directed to spinward, away from human worlds but
 the Aslan still regularly encountered human worlds and ships. Some
 of these contacts were peaceful – human traders penetrated Aslan
 space as far as Kusyu, looking for new markets and trader clans and
-corporations imported technology and luxury goods from Terran
+corporations imported technology and luxury goods from [[Terra|Terran]]
 space. An increasing number of these contacts, however, were
-violent. The Terrans had superior technology but the Aslan had the
+violent. The [[Terra|Terran]]s had superior technology but the Aslan had the
 edge in skill and aggression.
 
 Luckily, the Aslan had come on the scene during the Long Night
@@ -7483,7 +7483,7 @@ sector. These colonies were left to fend for themselves as the First
 Imperium began to decay and turn inwards and were ravaged by
 
 Vargr raiders and their own disputes. There was little in the way
-of organised trade in the Trojan Reach until the Terrans began an
+of organised trade in the Trojan Reach until the [[Terra|Terran]]s began an
 aggressive colonization project here thousands of years later.
 
 What most natives of the Reach refer to as the Old Empire, though,
@@ -7517,20 +7517,20 @@ the Long Night; while barely one in ten raiders is non-human, the
 Vargr corsairs could have been the seed around which raider culture
 formed.
 
-###### Terran Explorers
+###### [[Terra|Terran]] Explorers
 
-While the Trojan Reach was neglected by the Vilani, the Terrans
+While the Trojan Reach was neglected by the Vilani, the [[Terra|Terran]]s
 embarked on an ambitious colonization project, settling more than
 two dozen worlds in the sector. They also explored and charted the
 whole region, stopping only at the abyss of the Great Rift. As there
 was comparatively little Vilani presence in this sector, the Trojan
 Reach attracted settlers who wanted virgin, untamed worlds instead
 of trying to integrate into Vilani society. To this day, several worlds
-in the Reach (such as Strend) are heavily influenced by 'pure' Terran
+in the Reach (such as Strend) are heavily influenced by 'pure' [[Terra|Terran]]
 cultures.
 
 In many ways, this eager expansion into the Reach was responsible
-for the chaos that followed. The Terrans set up colonies that were
+for the chaos that followed. The [[Terra|Terran]]s set up colonies that were
 overly specialized and dependent on support from offworld. When
 the Second Imperium abruptly collapsed, the Trojan Reach colonies
 fell hard. Elsewhere in the galaxy, worlds cut off from the Imperium
@@ -7574,7 +7574,7 @@ neighboring planets of Thebus and Salif in a mutual-defence pact.
 This pact quickly strengthened until Noricum found itself at the
 head of a growing Empire.
 
-The Sindalian Empire was formed by a coalition of Terran worlds
+The Sindalian Empire was formed by a coalition of [[Terra|Terran]] worlds
 and had its seat at Noricum in the Sindal Sector. At its height, the
 Empire covered nine of the sixteen subsectors of the Trojan Reach
 and drove the raiders towards the fringes of the sector. The Empire
@@ -7628,8 +7628,8 @@ and could not be repaired.
 
 The Floriani developed the Jump drive from a crashed Aslan ship and
 their Empire has expanded steadily but conservatively since then.
-They incorporated a number of Terran worlds into their nascent
-League and the influx of Terran innovation (the Floriani are perhaps
+They incorporated a number of [[Terra|Terran]] worlds into their nascent
+League and the influx of [[Terra|Terran]] innovation (the Floriani are perhaps
 the only subrace of Humaniti to whom the ultra-conservative Vilani
 seem dangerously radical) has helped push the Floriani a little
 towards independent development and trade.
@@ -7781,7 +7781,7 @@ and then effectively declared that they would go no further.
 
 Following the end of the Aslan Border Wars, word was sent to
 Deneb warning them that the Aslan might expand into the Trojan
-Reach now that they could not longer push into Terran space. The
+Reach now that they could not longer push into [[Terra|Terran]] space. The
 Archduke did double the border guard and established a chain
 of listening posts to watch for Aslan forces but as yet neither the
 Imperium nor the Aslan have gone to open war in the Trojan Reach.
@@ -8840,7 +8840,7 @@ The capital of the Strend Cluster is a beautiful world – from a distance.
 Glittering cities float on shimmering grav fields; ornamental gardens
 the size of continents stretch to the horizon, irrigated by canals of
 marble and steel. It is an art deco wonderland; it is engineering and
-science combined in tribute to thousands of years of Terran culture.
+science combined in tribute to thousands of years of [[Terra|Terran]] culture.
 Many of the buildings are copies of famous structures from Earth,
 rebuilt using Strend technology and vision. The _Tower Strend_ is a
 space elevator two hundred kilometers tall that is a precise scale
@@ -9552,7 +9552,7 @@ singularity 'collected' the system as it travelled through space.
 
 ###### Neumann B876AA9-D
 
-The Neumann system was settled by the Terrans, specifically by a
+The Neumann system was settled by the [[Terra|Terran]]s, specifically by a
 transhumanist sect who believed in the extensive use of cybernetics,
 nanotechnology and artificial intelligence. The colony developed rapidly;
 self-replicating robots transformed the world's surface into shining
@@ -10120,7 +10120,7 @@ his followers will be dead within a year.
 ###### Tlazolteotl D5409CD-7
 
 This world was named Burgundy when initially colonized. Most of the
-colonists were Terrans from various European and Asian countries, as
+colonists were [[Terra|Terran]]s from various European and Asian countries, as
 well as humans from second-generation worlds like Mars or the Centauri
 colonies. There were also a few special-interest groups of a few hundred
 people each who bought space on the colony ships – fringe religions fleeing
@@ -11803,7 +11803,7 @@ Ark Six suffered damage and was forced to stop here, much earlier
 
 than scheduled. The other five ships continued onwards and are
 believed to be somewhere in Ziafrplians sector in Zhodani space.
-The colony vessels were dispatched in –2445, before the Terran
+The colony vessels were dispatched in –2445, before the [[Terra|Terran]]
 development of the jump drive. While traders arriving at Colony
 Six after its establishment brought jump technology with them, the
 lack of lanthanum prevented the natives from developing their own
@@ -11954,7 +11954,7 @@ neutral worlds in this subsector.
 
 Solomani scouts also explored this sector and left several small
 colonies. Many of these worlds were named by a famous explorer,
-Jona Rhas, a devotee of ancient Terran science-fiction. Most of these
+Jona Rhas, a devotee of ancient [[Terra|Terran]] science-fiction. Most of these
 colonies were subsumed into the Sindalian Empire and survived
 comparatively well when that Empire collapsed. There have been
 conflicts between the human colonies in the past but the arrival of
@@ -12010,7 +12010,7 @@ Anchorage.
 Kteiroa is a cold world, a land of frozen tundra and carbon dioxide
 glaciers. There are valuable phospourous deposits in the western
 wilderness known as Ulkaodhianeak, the Land of White Bones but
-neither the Terran scouts who first mapped this world, nor the
+neither the [[Terra|Terran]] scouts who first mapped this world, nor the
 Sindalians who built the starport, nor the Aslan that now hold it
 bothered to exploit this resource. Today, the port is maintained by a
 small family of Outcastes and is a haunt of pirates, smugglers and
@@ -12305,7 +12305,7 @@ Fantasy 0808 E788400-2 Ni Lt Na G
 The Borderland subsector has grown vastly in importance in the last
 five hundred years. Once a backwater in a backwater, Borderland
 was virtually ignored by the old empires. The Vilani bypassed
-it entirely; the Terrans dropped a few colonies along the way but
+it entirely; the [[Terra|Terran]]s dropped a few colonies along the way but
 never really developed it and while the Sindalian Empire claimed
 the whole subsector as part of their domain, they never explored
 further than Byrni.

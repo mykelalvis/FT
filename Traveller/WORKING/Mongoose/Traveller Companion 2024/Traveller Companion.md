@@ -5998,7 +5998,7 @@ Standard Atmospheres (Atmosphere 6–7) are
 roughly comparable with that found on Earth at sea
 level, to within a third greater or less pressure. This
 is optimal for the comfort and well-being of most
-Terran humans, although those adapted to different
+[[Terra|Terran]] humans, although those adapted to different
 environments may be uncomfortable.
 
 
@@ -9283,7 +9283,7 @@ The oieite’aiy has various names in different languages
 but official databases typically use the original
 Trokh (Aslan) designation. Oieite’aiy are aggressive
 pentapods which hunt in small packs of three to six
-individuals. About the size of a Terran wolf, they have
+individuals. About the size of a [[Terra|Terran]] wolf, they have
 four normal legs and an additional longer and more
 powerful hind leg which provides incredible springing
 ability. Oieite’aiy normally attack their prey as a team,
@@ -9310,7 +9310,7 @@ Behaviour Carnivore, Pouncer
 
 
 Brown Forester
-A creature somewhat similar to the Terran brown bear,
+A creature somewhat similar to the [[Terra|Terran]] brown bear,
 the brown forester is normally encountered in small
 family groups. Powerfully muscled and covered in thick
 fur, this animal favours wooded uplands and can be
@@ -9507,7 +9507,7 @@ Behaviour Omnivore, Eater
 
 Cuttlehorror
 The cuttlehorror was named, perhaps a little over-
-dramatically, for its resemblance to a Terran cuttlefish.
+dramatically, for its resemblance to a [[Terra|Terran]] cuttlefish.
 The cuttlehorror is vastly larger however, and does
 not seem to have any ability to change colour. At an
 average of around 10 metres long, the cuttlehorror
@@ -9612,7 +9612,7 @@ TRAVELLER
 
 Lakefang
 A large air-breathing swimming predator vaguely
-resembling a Terran plesiosaur, the lakefang has
+resembling a [[Terra|Terran]] plesiosaur, the lakefang has
 spindly legs and is slow out of water but can reach a
 considerable distance with its long neck to deliver a
 powerful bite. Adults are solitary but young lakefangs
@@ -10258,7 +10258,7 @@ world’s diameter in thousands of miles (i.e. Code 6 =
 TRAVELLER
 
 
-The standard year in Traveller is based on the Terran
+The standard year in Traveller is based on the [[Terra|Terran]]
 year; i.e. 365 days. Named months are rarely used;
 instead, the day of the year is used as the date, with
 Day 1 being equivalent to the 1st of January and
@@ -10425,7 +10425,7 @@ strangulous red-tape ridden monster and yet another
 might be a frontier society where the only governmental
 structure is a colonial land claims registry service.
 
-Historical or might-have-been Terran societies can be
+Historical or might-have-been [[Terra|Terran]] societies can be
 used as a source of inspiration for worlds in Traveller
 but this can be taken too far. If an alien society looks
 exactly like ancient China or some kind of techno-
@@ -10469,7 +10469,7 @@ make sense. However, weird-for-weird’s-sake should
 be avoided in the interest of believability.
 
 
-In short, the Referee can draw on Terran societies
+In short, the Referee can draw on [[Terra|Terran]] societies
 for inspiration but must remember that this is the Far
 Future, not a parallel of history. The setting must be
 internally consistent and make sense; it does not have

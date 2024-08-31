@@ -2379,7 +2379,7 @@ The Third Imperium setting features a number of distinct alien races. Presented 
 
 ## ASLAN
 
-Aslan are roughly human-sized and humanoid, and are descended from four-limbed, upright, bipedal carnivore-pouncer stock. The earliest Terran explorers saw in them a vague resemblance to the Te r r a n l i o n , a n d t h e y h a v e b e e n d e s c r i b e d b y Te r r a n s a s l i o n - l i k e e v e r since. There are two sexes, male and female. The male is most easily distinguishable by his larger size and prominent mane. Females outnumber males three to one.
+Aslan are roughly human-sized and humanoid, and are descended from four-limbed, upright, bipedal carnivore-pouncer stock. The earliest [[Terra|Terran]] explorers saw in them a vague resemblance to the Te r r a n l i o n , a n d t h e y h a v e b e e n d e s c r i b e d b y Te r r a n s a s l i o n - l i k e e v e r since. There are two sexes, male and female. The male is most easily distinguishable by his larger size and prominent mane. Females outnumber males three to one.
 
 Aslan have a single highly specialized dewclaw that folds into a horny covering along the interior of the thumb and palm when not in use.
 
@@ -2472,13 +2472,13 @@ Hivers have Notable Intelligence (+2) and Weak Dexterity (–2). Hivers Hivers h
 
 ## K'KREE
 
-K'kree (once called Centaurs by humans) are among the most massive of the major races and are the only one of the major races to be descended from herbivores. An adult K'kree stands about 1.5 meters at the shoulder and between 2.0 and 2.4 meters tall when standing erect. Weight averages 550 kg. They bear some resemblance to the centaurs of ancient Terran myth, a trait noted by the earliest human explorers.
+K'kree (once called Centaurs by humans) are among the most massive of the major races and are the only one of the major races to be descended from herbivores. An adult K'kree stands about 1.5 meters at the shoulder and between 2.0 and 2.4 meters tall when standing erect. Weight averages 550 kg. They bear some resemblance to the centaurs of ancient [[Terra|Terran]] myth, a trait noted by the earliest human explorers.
 
 The word K'kree comes from their own language, and translates literally as 'all the nobles', or more broadly, 'the herd'.
 
 The arrangement of the manipulative organ (or hand) on the front limb is one of their most interesting features. Complex or cartilaginous tubes permit the fingers of the K'kree hand to telescope out of the way when the hand is used as a weapon. The K'kree hand is very flexible but somewhat weaker in grasping power than the human hand.
 
-The K'kree are covered with a short gray or black fur and with a dense black mane covering the head, neck and upper back of both sexes. Unlike Terran mammals, the young are fed partially digested, regurgitated food instead of milk. Males average 15 percent to 20 percent larger than females.
+The K'kree are covered with a short gray or black fur and with a dense black mane covering the head, neck and upper back of both sexes. Unlike [[Terra|Terran]] mammals, the young are fed partially digested, regurgitated food instead of milk. Males average 15 percent to 20 percent larger than females.
 
 K'kree are extremely conservative in all aspects of their culture. Ceremonial military units (such as bodyguards) are armed with equipment which K'kree military technology outdated centuries ago, and (aside from modifications made necessary by the discovery of space flight) K'kree government has not changed significantly in centuries.
 
@@ -2502,9 +2502,9 @@ K'kree are Large (3d6 Strength and Endurance) and replace Social and replace Soc
 
 ## VARGR
 
-Vargr are an Intelligent Major Race derived from Ancient genetic manipulations of Terran carnivore/chaser stock, apparently dating from approximately the same time that humanity was scattered to the stars.
+Vargr are an Intelligent Major Race derived from Ancient genetic manipulations of [[Terra|Terran]] carnivore/chaser stock, apparently dating from approximately the same time that humanity was scattered to the stars.
 
-Inhabiting a region rimward of the Imperium, the Vargr were for years a puzzle to Imperial xenologists. The Vargr biochemistry and genetic makeup are almost identical with a number of terrestrial animals, but differ radically from most of the flora and fauna indigenous to Lair, the purported Vargr home world. Researches during the early years of the Third Imperium concluded them to be the result of genetic manipulation of transplanted Terran animals of the family Canidae, almost certainly of genus Canis. The obvious conclusion, supported by archeological evidence, is that the race known as the Ancients was responsible.
+Inhabiting a region rimward of the Imperium, the Vargr were for years a puzzle to Imperial xenologists. The Vargr biochemistry and genetic makeup are almost identical with a number of terrestrial animals, but differ radically from most of the flora and fauna indigenous to Lair, the purported Vargr home world. Researches during the early years of the Third Imperium concluded them to be the result of genetic manipulation of transplanted [[Terra|Terran]] animals of the family Canidae, almost certainly of genus Canis. The obvious conclusion, supported by archeological evidence, is that the race known as the Ancients was responsible.
 
 Physically, the Vargr are not very impressive. The typical Vargr is about 1.6 meters in height and weighs approximately 60 kilograms. They have approximately the same physical parameters as humans and are able to use the same equipment without modification or additional instruction. On average their reactions are slightly faster than those of the typical human, but individuals vary widely. The Vargr senses of smell and sight are superior to those of humans.
 
@@ -3847,13 +3847,13 @@ Natural Feature
 11 Carnivore
 12 Carnivore
 
-DiseaseDisease Alien diseases can sometimes cross over and infect humans, but most diseases are of Terran origin. The Ancients scattered humans all over the galaxy tens of thousands of years ago, and they brought bacteria and viruses with them. Over time, these have mutated into new forms. In the unlikely event that a highly virulent plague is discovered, the infected world is placed under interdiction until a cure can be found. Disease outbreaks are especially dangerous on new colony worlds, which lack the medical expertise and facilities to treat all the patients.
+DiseaseDisease Alien diseases can sometimes cross over and infect humans, but most diseases are of [[Terra|Terran]] origin. The Ancients scattered humans all over the galaxy tens of thousands of years ago, and they brought bacteria and viruses with them. Over time, these have mutated into new forms. In the unlikely event that a highly virulent plague is discovered, the infected world is placed under interdiction until a cure can be found. Disease outbreaks are especially dangerous on new colony worlds, which lack the medical expertise and facilities to treat all the patients.
 
 The disease...
 
 1. ... has an incubation period of several days, so symptoms only appear when
    the characters are in jumpspace.
-2. ... is a mutated version of an extinct Terran plague, like the Black Death.
+2. ... is a mutated version of an extinct [[Terra|Terran]] plague, like the Black Death.
 3. ... stimulates the latent psychic powers of the brain, giving telepathic powers
    while killing the subject.
 4. ... can only be cured by an expensive drug, which the characters must import

@@ -1,0 +1,14 @@
+### ARA PACIS
+
+Ara Pacis is the most important of a small cluster of four worlds in the spinward-rimward corner of Sabine. It is a link on the jump-2 route between Thengin and Mora, and is sometimes marketed as 'the last good port before Mora'. As such, Ara Pacis sees a considerable amount of through traffic and makes a great deal of profit from interstellar trade.
+
+The highport is independent of any of Ara Pacis' nations and owned by the Count of Ara Pacis, who has an extensive 'estate' within the orbital structure in addition to his fief on-planet. It is not unusual for the Imperial nobility to own business assets, although being the owner-operator of an entire starport is not common. This arrangement provides the count with a large income and also distances him from the affairs of Ara Pacis' independent settlements.
+
+Whilst the highport is quite impressive, Ara Pacis itself is not. A small world largely covered in water, it has only primitive life on land. This is largely due to the very thin atmosphere, which has not prevented the oceans from developing their own ecosystem. This includes some very large 'sea monsters' and huge number of lesser creatures. Kelp farming is a major industry on Ara Pacis, with produce shipped offworld aboard bulk freighters.
+
+Ara Pacis is balkanised, although with a population of only six million this does not mean quite the same as on a world with several high-population nations. In the case of Ara Pacis, balkanization means there are several small cities, each independent of the others.
+Communications between the cities are poor; indeed there are a couple that might as well be on another planet for all the interaction they have with their neighbors. All cities have their own downport, from which shuttles provide a regular service to the orbital port.
+
+The cities were founded in areas with good natural resources, most of them as 'corp towns' by mining companies. Over time, these frontier settlements developed into cities in their own right but some still show the legacy of initial haphazard growth. The mining companies were not unduly worried about the long-term development of what were essentially expedient places for workers to live and facilities were added as needed or when funds permitted, resulting in a messy layout confuses visitors and even some residents.
+
+There are six known sites on Amritsar. Each takes the form of a ring of broken crystal pylons around a plaza of resilient dark stone-like material. Four of the plazas are in reasonably good condition; two are weed-choked and riddled with cracks and gaps. No energy signatures have been detected and there do not appear to be any additional structures nearby. The purpose of these sites is unknown.

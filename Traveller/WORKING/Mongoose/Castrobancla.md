@@ -968,7 +968,7 @@ This entertainment facility, as the Pelacur manager describes it, caters to the 
 
 The manager, Salima Yashay, caters to a very exclusive market, namely rich alien women who wish to be entertained by male humans. Some species consider the aliens to have very dubious tastes, akin to sleeping below their station or slumming it – but they pay well, the men are handsome and the club has a generous pension scheme t take care of their entertainers in their old age.
 
-Travellers who wish to speak to a particular client on some business or other, possibly to secure her patronage, may have to join this club as an entertainer and to perform for her. The client's fetish is to be waited upon hand and foot by an English butler dressed in an obsolete Terran style, and served an ancient Earth delicacy called “cucumber sandwiches.”
+Travellers who wish to speak to a particular client on some business or other, possibly to secure her patronage, may have to join this club as an entertainer and to perform for her. The client's fetish is to be waited upon hand and foot by an English butler dressed in an obsolete [[Terra|Terran]] style, and served an ancient Earth delicacy called “cucumber sandwiches.”
 
 _Entertain the guest_: Routine (6+) Steward (Soc, 1D x10 minutes).
 
@@ -1428,7 +1428,7 @@ _Speed:_ Bandaluk are fast, moving at Speed 10. They have Fast Metabolism (+2).
 
 _Heightened Sense:_ Hearing. Recon and Survival checks involving hearing gain a DM+2.
 
-_Referee:_ The Kubotaur and the Bandaluk have a natural antagonism, akin to some of the old Terran animated cartoons. Put a Kubotaur party in the same room as the  Bandaluk, and stand well back.
+_Referee:_ The Kubotaur and the Bandaluk have a natural antagonism, akin to some of the old [[Terra|Terran]] animated cartoons. Put a Kubotaur party in the same room as the  Bandaluk, and stand well back.
 
 In truth, when public incidents like this occur, they are often staged by Bandaluk, who promote the fights on dark social media. The Bandaluk rake in a profit, and they make a point of giving half of the money to support charities set up for the victims of injustice at the hands of overzealous law enforcers. This earns the Bandaluk tacit approval from the Kubotaur, who see no irony in this arrangement.
 

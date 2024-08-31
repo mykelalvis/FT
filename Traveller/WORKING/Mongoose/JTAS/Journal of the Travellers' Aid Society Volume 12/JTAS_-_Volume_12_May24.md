@@ -791,7 +791,7 @@ DECK 1
 
 By Adrian Tymes and Sabrina Westerman
 
-Caprisaps are a nomadic people originally uplifted from Terran goats.
+Caprisaps are a nomadic people originally uplifted from [[Terra|Terran]] goats.
 Often stereotyped as common workers, they frequent the space around
 the Vilani-Vargr border, mining, trading and employed enough by both
 species to be considered a neutral buffer between the two. They are
@@ -810,7 +810,7 @@ muscle density.
 Both were initially adapted with strong and wide ankles to allow for
 bipedal or quadrupedal movement as needed. Although their rear legs
 still have the classic split hoof of a goat, albeit larger and more flexible
-than the typical Terran goat, the front limbs end in fully functional hands
+than the typical [[Terra|Terran]] goat, the front limbs end in fully functional hands
 designed to use human equipment. Both male and female Caprisaps
 grow horns from their temples, about half as long, to as long, as their
 heads, although some Caprisaps shorten or entirely remove them.

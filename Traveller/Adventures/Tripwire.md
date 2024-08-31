@@ -12,7 +12,7 @@ tags:
 
 ![[Trip-Cover.png.jpg]]
 
-In an effort to increase their control over Jewell subsector, the [[Imperium]] has announced that a new duke will be appointed to oversee Imperial interests there. This move has caused political friction with the [[Zhodani]] who have since restricted trade to their worlds.
+In an effort to increase their control over [[Jewell subsector]], the [[Imperium]] has announced that a new duke will be appointed to oversee Imperial interests there. This move has caused political friction with the [[Zhodani]] who have since restricted trade to their worlds.
 
 Imperial agents' suspect the [[Zhodani]] are now planning to deploy a new super weapon, forcing the [[Imperium]] to strengthen their borders and military outposts. With tensions running high only the bravest travellers remain in business, demanding higher fees for their services.
 
@@ -20,7 +20,7 @@ Making the most of the current trade opportunities, the players take on a passen
 
 # INTRODUCTION
 
-Tripwire is a _Traveller_ campaign set in the Jewell subsector of the Spinward Marches. The story takes the players to all of the worlds in Jewell as they attempt to uncover a conspiracy. Every system that they visit has at least one scenario or encounter. Additional encounters can also be found in the Appendix, which can be used throughout the campaign. The Appendix also contains a number of generic NPCs that you can use as required and equipment from the new races detailed in this book.
+Tripwire is a _Traveller_ campaign set in the [[Jewell subsector]] of the [[Spinward Marches]]. The story takes the players to all of the worlds in Jewell as they attempt to uncover a conspiracy. Every system that they visit has at least one scenario or encounter. Additional encounters can also be found in the Appendix, which can be used throughout the campaign. The Appendix also contains a number of generic NPCs that you can use as required and equipment from the new races detailed in this book.
 
 To run the Tripwire campaign, you will need the _Traveller Core Rulebook_. _The Spinward Marches_ is also recommended for additional background material and is referenced several times during this book.
 
@@ -28,7 +28,7 @@ To run the Tripwire campaign, you will need the _Traveller Core Rulebook_. _The 
 
 The players should be part of an established group, such as free traders or mercenaries, with some loyalty to the Imperium. The party will need a variety of skills including combat, negotiation and stealth. A pilot will also be required and an engineer is also recommended. There are no restrictions on race, as long as most of the players are Imperial citizens and they have a good reason for being together.
 
-The party must also have their own Jump 2 capable ship with a fuel scoop. This is important as it restricts where they can travel, forcing them to take specific routes. As the campaign progresses the players will acquire a new ship that can travel further distances, giving them access to more worlds in the Jewell subsector.
+The party must also have their own Jump-2 capable ship with a fuel scoop. This is important as it restricts where they can travel, forcing them to take specific routes. As the campaign progresses the players will acquire a new ship that can travel further distances, giving them access to more worlds in the Jewell subsector.
 
 The campaign starts with the party located on the [[Zhodani]] world of [[Farreach]]. They will most likely have visited there to trade but you can use any reason that fits in with their backgrounds or group activities.
 
@@ -40,7 +40,7 @@ The [[Jewell subsector]] is in a state of political change and unrest. The [[Fed
 
 With the Imperial region of [[Jewell Subsector|Jewell]] being threatened from both sides as well as within, a duke is to be appointed to oversee Imperial interests and maintain control of their territories. The duke will be stationed on [[Jewell]] but no date has been given and the new duke has yet to be chosen.
 
-This move has caused political friction with the [[Zhodani]] who have since embargoed all Imperial Megacorporations. With rumors that an archduke will be also be selected to govern the [[Deneb]] system, the [[Zhodani]] fear the Imperium's motives and now threaten to cut diplomatic relations altogether.
+This move has caused political friction with the [[Zhodani]] who have since embargoed all Imperial Megacorporations. With rumors that an archduke will be also be selected to govern the [[Deneb Sector]] system, the [[Zhodani]] fear the [[Imperium]]'s motives and now threaten to cut diplomatic relations altogether.
 
 Imperial agents suspect that the [[Zhodani]] now plan to deploy a new super weapon, forcing the [[Imperium]] to strengthen their borders and military outposts. With tensions running high, only the bravest travellers remain in business and demand higher fees for their services.
 
@@ -51,8 +51,6 @@ Making the most of the current trade opportunities, the players take on a passen
 A second attempt on the agent's life is successful and to the players' dismay they are framed for the murder. Now fugitives, the players are plunged into a Universe of conspiracy and danger. Following the trail from one world to the next, the players unravel the mystery of their dead passenger as a deeper plot begins to reveal itself.
 
 # JEWELL
-
-![[BtC-JewellSubsector.jpg]]
 
 The [[Jewell subsector]] is divided into three areas. The coreward region is ruled by the [[Zhodani]], the central region is under Imperial control and the rimward region is neutral territory.
 
@@ -86,11 +84,11 @@ If asked, [[Forbes]] will say that he has a business meeting to attend and if he
 
 To get to [[Esalin]] in their Jump 2 ship, the players must go via [[Ao-dai]] and [[Clan]]. Once the party are ready, they will be given permission by the port authority to leave and the ship can make the first jump.
 
-## [[AO-DAI]] SYSTEM
+## AO-DAI SYSTEM
 
-### Random Encounters
+## Random Encounters
 
-The players will have no need to land on the planet as it has no refuelling capabilities and [[Forbes]] will insist that they waste as little time as possible. However, if the party does land here (perhaps at the request of another passenger) then you can use the [[#Encounters]] Table.
+The players will have no need to land on [[Ao-dai]] as it has no refuelling capabilities and [[Forbes]] will insist that they waste as little time as possible. However, if the party does land here (perhaps at the request of another passenger) then you can use the [[#Encounters]] Table.
 
 ## Zhodani Patrol
 
@@ -101,11 +99,11 @@ Before the [[Zhodani]] dock, [[Forbes]] will speak to whichever player is in cha
 > 'I find I am in a situation where I must place my trust in you. I am an Imperial agent and those [[Zhodani]] are most likely looking for me. It is vital I complete my mission and I can not let the [[Zhodani]] capture me, for there is much at stake.
 > I do not think they know what I look like, so they will want to question everyone on board to find out who is part of the crew and who are passengers.
 
-The player may want to bring the rest of the crew in on this but it is their choice. They must then discuss how to handle the situation with Forbes. He will only use force as a last resort but will kill the [[Zhodani]] if no other choices remain. The players will not have long to discuss their options as the [[#Zhodani Scout ship]] closes in.
+The player may want to bring the rest of the crew in on this but it is their choice. They must then discuss how to handle the situation with [[Forbes]]. He will only use force as a last resort but will kill the [[Zhodani]] if no other choices remain. The players will not have long to discuss their options as the [[#Zhodani Scout ship]] closes in.
 
 If all of the crew are in on the plan, they can attempt to lie to the [[Zhodani]] and hope they do not have any psionic abilities that will see through the deception. If the players suggest hiding [[Forbes]] they could still be vulnerable to the same abilities.
 
-If any other passengers boarded the ship at Farreach then the situation will be even more interesting as trust issues will arise. Other passengers might not wish to deceive and potentially fight the [[Zhodani]] or they could even be a [[Zhodani]] agent.
+If any other passengers boarded the ship at [[Farreach]] then the situation will be even more interesting as trust issues will arise. Other passengers might not wish to deceive and potentially fight the [[Zhodani]] or they could even be a [[Zhodani]] agent.
 
 ![[Trip-320.jpg]]
 
@@ -137,27 +135,27 @@ If the players have failed to protect agent [[Forbes]] and things have gone badl
 
 If the players are captured you can use the [[#Arrested]] scenario.
 
-## [[CLAN]] SYSTEM
+## CLAN SYSTEM
 
 ### Refuelling
 
-As before, the players will need to make their stop here as brief as possible. Refuelling at the starport is the quickest method but they can also refuel at the gas giant if preferred. If the players decide to explore [[Clan]], [[Forbes]] will remain on the ship.
+As before, the players will need to make their stop on [[Clan]] as brief as possible. Refuelling at the starport is the quickest method but they can also refuel at the gas giant if preferred. If the players decide to explore [[Clan]], [[Forbes]] will remain on the ship.
 
 [[Clan]] will have an obvious ([[Zhodani]]) military presence and regular patrols. However, news of the players' previous activities has not reached here yet, so they should be safe as long as they do not violate any local laws.
 
 Whilst the players are visiting this world, a number of optional encounters can happen. These will most likely take place in the capital city of [[Clan#Clandra]]. Pick or roll on the [[#Clan Random Encounters Table]]. Use [[#Random NPC Table|NPC]] statistics .
 
-## [[ESALIN]] SYSTEM
+## ESALIN SYSTEM
 
 ### Assassination
 
 Two [[#Zhodani Agent]]s from [[Farreach]] had already suspected [[Forbes]] as being a spy but [[Forbes]] eluded them. These two agents dispatched the [[#Zhodani Scout Ship]] that the players encountered at [[Ao-dai]], whilst the agents continued their investigations on Farreach. Hearing reports of the incident at [[Ao-dai]], the two agents guessed that [[Esalin]] would be a logical place to stop or refuel. The agents were able to get here and wait for the players' ship, which was seen leaving Farreach.
 
-Once the players land at the starport, [[Forbes]] will thank them and disembark. As he walks down the ramp he is hit by several shots fired from laser pistols. The shots hit him squarely in the chest and he staggers back into the ship and collapses. If any of the players watched this happen, they will see two unidentifiable figures run into the shadows. There is no local law enforcement in the immediate vicinity and anyone who witnessed the event has left the area. Apart from the bleeding body in the ship, it is as if the incident never happened.
+Once the players land at the [[Esalin]] starport, [[Forbes]] will thank them and disembark. As he walks down the ramp he is hit by several shots fired from laser pistols. The shots hit him squarely in the chest and he staggers back into the ship and collapses. If any of the players watched this happen, they will see two unidentifiable figures run into the shadows. There is no local law enforcement in the immediate vicinity and anyone who witnessed the event has left the area. Apart from the bleeding body in the ship, it is as if the incident never happened.
 
 [[Forbes]] is bleeding badly. He can barely speak and beckons one of the players over. He whispers in their ear 'Redway. Get me to... Redway', before falling unconscious. A successful Medic check will stabilize [[Forbes]] but his chances are not good. For the next hour he will drift in and out of consciousness.
 
-If the players search Forbes' unconscious body, they will find a hand computer, a data wafer and his weapon. There is nothing on the computer and the data wafer has been double encrypted, requiring two Computers checks DM –6 to access the data. In the unlikely event that the players access the data, proceed to [[#Data Wafer Contents]].
+If the players search [[Forbes]]' unconscious body, they will find a hand computer, a data wafer and his weapon. There is nothing on the computer and the data wafer has been double encrypted, requiring two Computers checks DM –6 to access the data. In the unlikely event that the players access the data, proceed to [[#Data Wafer Contents]].
 
 With the information they already know and with their encounter at [[Ao-dai]], the party will hopefully decide to avoid any medical or official facilities. If the players ask around or check public computer systems they will discover a hotel called 'The Redway Hotel' in a town located a short distance from the starport.
 
@@ -201,7 +199,7 @@ The contact's name is [[Stephen Muller|'Daniel"]] and he frequents an establishm
 
 ### Fugitives
 
-Before the [[Zhodani]] agents killed Forbes, they left instructions that a fugitive alert should be issued, stating that the players killed James [[Forbes]]. This will obviously divert any Imperial pressure away from the agents.
+Before the [[Zhodani]] agents killed [[Forbes]], they left instructions that a fugitive alert should be issued, stating that the players killed James [[Forbes]]. This will obviously divert any Imperial pressure away from the agents.
 
 It will be a while before the players discover that they are fugitives but once they do, they must stay ahead of the alert as it ripples throughout the [[X-Boat]] network.
 
@@ -211,7 +209,7 @@ It will be a while before the players discover that they are fugitives but once 
 
 ### Making Contact
 
-When the players arrive at [[Ruby]], they must find their contact, [[#Daniel]]. They have been informed by [[Martha Redway]] that he frequents a bar called [[Ruby#The Factory|The Factory]] and that they must first pass some sort of test before he will deal with them. The Factory is well known and the players can find it quite easily by asking around or consulting public computer records.
+When the players arrive at [[Ruby]], they must find their contact, "[[Stephen Muller|Daniel]]". They have been informed by [[Martha Redway]] that he frequents a bar called [[Ruby#The Factory|The Factory]] and that they must first pass some sort of test before he will deal with them. The Factory is well known and the players can find it quite easily by asking around or consulting public computer records.
 
 ![[Trip-337.jpg]]
 
@@ -255,7 +253,7 @@ See [[Mongo#Details]]
 >
 > In retrospect, it has become clear to [[Gakha]] that her new 'friends' were just using her to gain access to the files that they needed. Amy and Ruskad obviously work for a rival company or are independents who sell such information to the highest bidder. [[MagnetoDynamics]] is one of the leading specialists in mineral extraction and their technology is much sought after by rival corporations.
 >
-> Being a [[Vargr]], [[Gakha]] also has strong loyalties to MagnetoDynamics so she is understandably insulted that she has been arrested and interrogated. However, with this current situation Gakha believes her loyalties have been misplaced and even if her name is cleared she will not be working for this corporation again.
+> Being a [[Vargr]], [[Gakha]] also has strong loyalties to [[MagnetoDynamics]] so she is understandably insulted that she has been arrested and interrogated. However, with this current situation Gakha believes her loyalties have been misplaced and even if her name is cleared she will not be working for this corporation again.
 
 ### Locating Gakha
 
@@ -507,7 +505,7 @@ If the fight is over then the party can simply go into the workshop and get what
 
 ### Decoding the Data
 
-Once Gakha has her computers and software, the party should leave the ghetto while they still can. Once they are in a safe place, Gakha can get to work. Since she devised the original encryption software, it will not take Gakha long to decode the data wafer. Once her task is complete, she will give the players a hard copy of the contents.
+Once [[Gakha]] has her computers and software, the party should leave the ghetto while they still can. Once they are in a safe place, Gakha can get to work. Since she devised the original encryption software, it will not take Gakha long to decode the data wafer. Once her task is complete, she will give the players a hard copy of the contents.
 
 Now that they have the data, the players will probably have more questions than answers. However, they will now have the name and location of an agent who was trusted by [[Forbes]] and possibly under his command. With no other leads, the players need to set course for [[Louzy]] before the fugitive alert reaches [[Lysen]].
 
@@ -521,13 +519,13 @@ Gakha can also be of further assistance to the players as she was fortunate enou
 
 See [[Louzy]] and [[Louzy II]]
 
-### [[Liberation Front]]
+### Liberation Front
 
 See [[Liberation Front]]
 
 ### Riot
 
-The players will land on Louzy in the middle of a demonstration. The majority of the protestors are civilians who have been motivated (some say manipulated) by the [[Liberation Front]]. The starport is in chaos and most of the roads are blocked with demonstrators and police. What started out as a peaceful protest for independence is now escalating as the police try in vain to remove the gathering crowds from the starport.
+The players will land on [[Louzy]] in the middle of a demonstration. The majority of the protestors are civilians who have been motivated (some say manipulated) by the [[Liberation Front]]. The starport is in chaos and most of the roads are blocked with demonstrators and police. What started out as a peaceful protest for independence is now escalating as the police try in vain to remove the gathering crowds from the starport.
 
 Once the players disembark from the ship, law enforcement officers will escort the party to a safe area with other traders and travellers who are waiting to enter Durty city. The demonstrators are growing in number and start to fill the starport, blocking any access to the landing pads. More police are called in to attempt to control the crowds but this just makes things worse. Pushing and shoving soon turns to violence, which in turn evolves into a full scale riot.
 
@@ -539,13 +537,13 @@ Although the police on the front lines are fighting, those unable to help their 
 
 Depending how the players deal with the situation, they could end up being arrested for being involved with the separatists, especially if they seriously injure or kill any police or military personnel. If this happens, you can use the Arrested encounter on page 88.
 
-### Looking for Agent [[Cryer]]
+### Looking for Agent Cryer
 
 Although the riot is causing many problems, it is actually a blessing in disguise for the players. All that they know about agent [[Cryer]] is that he was investigating the separatist movement here on Louzy, in particular the [[Liberation Front]]. Since the party are surrounded by separatists and their supporters, there is a good chance that agent [[Cryer]] is here too.
 
 Finding agent [[Cryer]] amongst the throngs of rioters is not easy. Each player can make an Investigate check DM –2 every 10 minutes. There is no limit to the amount of times they can attempt this but the longer the players take, the more rioters and police they will have to defend against. If Gakha is with the players, she can also make an Investigate check with no penalty.
 
-### SAVING AGENT [[Cryer]]
+### SAVING AGENT Cryer
 
 Agent [[Cryer]] will be seen surrounded by a number of rioters. who are attacking him. He is suspected of being a government agent by one of the more paranoid leaders of the seperatists, who had received a tip off someone was trying to infiltrate the group. He is clearly outnumbered and the players must be quick to his aide if [[Cryer]] is to survive. However, with the players help agent [[Cryer]] can be saved but he will be badly injured. The party will need to get him out of the riot zone and tend to his wounds.
 
@@ -563,7 +561,7 @@ Assuming the players agree, [[Cryer]] will reveal that there is a connection bet
 
 The players may also wish to confess their current fugitive status if they have not already done so and [[Cryer]] will most likely find out anyway. Agent [[Cryer]] will simply say that with the intelligence leak, he is operating on his own and could well be listed with them once the enemy finds out that he is also involved.
 
-### [[Cryer]]'S LEADS
+### Cryer'S LEADS
 
 Agent [[Cryer]] has confirmed that the [[Liberation Front]], the group responsible for the riot here on Louzy, have some connection to the Zhodani. [[Cryer]] also suspects that the Federation of Arden may also be involved. He has a number of leads on the planets located in the rimward region of Jewell. Each one needs to be investigated:
 
@@ -578,15 +576,13 @@ Agent [[Cryer]] will tell the party that he will attempt to infiltrate the [[Fed
 The players can investigate these leads in any order they wish but since agent [[Cryer]] needs to establish himself independently on [[Utoland]], the players should ensure that they arrive separately.
 
 > [!info] Federation Notes
-> The players should hopefully assume that there is a connection between the separatist movement and the Federation. However, there is no direct link other than the fact that both parties are a potential threat to the Imperium's control over Jewell subsector. Allow the players to pursue this line of enquiry and do nothing to discourage their paranoia and conspiracy theories.
+> The players should hopefully assume that there is a connection between the separatist movement and the [[Federation of Arden|Federation]]. However, there is no direct link other than the fact that both parties are a potential threat to the Imperium's control over Jewell subsector. Allow the players to pursue this line of enquiry and do nothing to discourage their paranoia and conspiracy theories.
 
 ## 871–438
 
-See [[871-438]] for details.
-
 ### Liars, Guns and Money
 
-There will be four ships here when the players arrive, three in the starport and one in orbit. As the party disembark they will be met by two smuggler crews and a mercenary group, all of whom will greet the players with suspicion and guns. There are several approaches to dealing with the people here:
+There will be four ships here when the players arrive at [[871-438]], three in the starport and one in orbit. As the party disembark they will be met by two smuggler crews and a mercenary group, all of whom will greet the players with suspicion and guns. There are several approaches to dealing with the people here:
 
 - If the players planned ahead, they could have some contraband that they can attempt to sell to the right buyer, thus giving them a believable reason for being here.
 - A similar strategy is to come here under the pretense of wanting to purchase illegal goods.
@@ -603,7 +599,7 @@ However, asking about joining or helping rebel groups will be viewed more favora
 
 After a few late nights of drinking and gambling, a Vilani smuggler by the name of Meshaka will arrive. If the players share a few drinks with him, he will reveal that he often sells to the [[Liberation Front]]. He seems to know more but will not give any further details. The players could offer him some money for the information but his price will be high.
 
-Alternatively, the players can interrogate him. To do this they will need to apprehend Meshaka, hopefully without drawing the attention of his crew or other outlaws.Meshaka will soon break and tell the party anything they wish to know.
+Alternatively, the players can interrogate him. To do this they will need to apprehend Meshaka, hopefully without drawing the attention of his crew or other outlaws.  Meshaka will soon break and tell the party anything they wish to know.
 
 ### GUNNING FOR THE CAUSE
 
@@ -631,17 +627,17 @@ Finding out what involvement the Arkesh Spacers have with the separatist movemen
 
 #### HACKING
 
-The Arkesh Spacers computer network can only be accessed from inside their facilities in the Commercial Dome and the best candidate for this would be the ASOC building. Although the building security is good, there are several computer terminals that can be accessed without being spotted by the security cameras.
+The [[Arkesh Spacers]] computer network can only be accessed from inside their facilities in the Commercial Dome and the best candidate for this would be the ASOC building. Although the building security is good, there are several computer terminals that can be accessed without being spotted by the security cameras.
 
 The computers have standard security measures, which can be bypassed with a Computers check DM –2. Once in the system, there will be no evidence linking the Arkesh Spacers to illegal activities or to the separatist movement.
 
 If the players get information on known travel plans of member companies, they can compare this data with known piracy attacks and separatist events. Cross-referencing the data in this way requires an additional Computers check but there will be no conclusive evidence as there are too many names.
 
-They need to narrow down the list which can be done by accessing the reports and survivor logs filed on acts of piracy. A separate Computers check DM +2 is required to access this information and will reveal that the majority of attacks were carried out by a Vargr crew. If Vargr crews are cross-checked against the travel plans (with an additional Computers check), the only Vargr that was near all of the reported cases is [[Nangu]].
+They need to narrow down the list which can be done by accessing the reports and survivor logs filed on acts of piracy. A separate Computers check DM +2 is required to access this information and will reveal that the majority of attacks were carried out by a [[Vargr]] crew. If Vargr crews are cross-checked against the travel plans (with an additional Computers check), the only Vargr that was near all of the reported cases is [[Nangu]].
 
 #### INFILTRATION
 
-Infiltrating the organization is time consuming but will give the players easy access to the computers and employees of the Arkesh Spacers. To infiltrate the corporation, the players will need to successfully apply for jobs. The job interview process will be similar to the players' experience in the previous chapter with the interviewer asking about their skills, experience and their reason for wanting the job. The Arkesh Spacers outpost here on Gougeste is a big organization so there are always job vacancies for a variety of roles.
+Infiltrating the organization is time consuming but will give the players easy access to the computers and employees of the [[Arkesh Spacers]]. To infiltrate the corporation, the players will need to successfully apply for jobs. The job interview process will be similar to the players' experience in the previous chapter with the interviewer asking about their skills, experience and their reason for wanting the job. The [[Arkesh Spacers]] outpost here on [[Gougeste]] is a big organization so there are always job vacancies for a variety of roles.
 
 Once they are employed by the company, the players will be able to access most non-essential systems and facilities, depending on their actual job description. Of course, there will be supervisors and other employees so the players must be careful if they go snooping around.
 
@@ -649,7 +645,7 @@ The players can also get to know some of the employees both at work and in more 
 
 #### OBSERVATION
 
-The players can observe employees of the Arkesh Spacers by hanging out in the venues where the workers spend their spare time. The Spacers Retreat will not allow the players in unless they are a member or employee of the Arkesh Spacers but the players will have no problem getting into Oasis.
+The players can observe employees of the [[Arkesh Spacers]] by hanging out in the venues where the workers spend their spare time. The Spacers Retreat will not allow the players in unless they are a member or employee of the Arkesh Spacers but the players will have no problem getting into Oasis.
 
 If the players are allowed into [[Arkesh Spacers#The Spacers Retreat]] (or they bluff their way in) then they can talk to various employees of the Arkesh Spacers. The players will not get any information about illegal activities or connections to the separatist movement but they can get small details about the security in the ASOC building with some subtle Deception or Persuade checks.
 
@@ -785,14 +781,14 @@ However, the [[Liberation Front]] have not made any attacks since they broke int
 
 It is unusual for any group like the [[Liberation Front]] to suddenly cease activity or work so openly, so it is a fair conclusion that something must have happened. There are two main avenues of investigation:
 
-- Infiltrating the [[Liberation Front]].
-- Speak to [[Count Mallor]].
+- [[#Infiltrating Liberation Front]]
+- [[#AN AUDIENCE WITH COUNT MALLOR|Speak to Count Mallor]]
 
-### INFILTRATING [[Liberation Front]]
+### Infiltrating Liberation Front
 
 Unlike most [[Liberation Front]] cells, the members here do not have strict security measures since they are now free to operate on Zircon (within reason). By speaking to people in the smaller towns, the players will easily be able to make contact with the group.
 
-The players will meet one of the [[Liberation Front]] members, a female Vargr called Inga. Inga will explain that [[\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[House Mallor]]]] has recognised the group's right to free speech as long as they do not cause harm to anyone or anything. If the players ask why the count agreed to this, Inga will not know but she will say that public opinion of the Count Mallor has improved slightly.
+The players will meet one of the [[Liberation Front]] members, a female Vargr called Inga. Inga will explain that [[House Mallor]] has recognised the group's right to free speech as long as they do not cause harm to anyone or anything. If the players ask why the count agreed to this, Inga will not know but she will say that public opinion of the Count Mallor has improved slightly.
 
 If the players ask Inga about her connection to other [[Liberation Front]] cells and their plans, she will say that the work her cell does here is the true path for the separatist movement and that other groups seem to adopt more violent methods. She is not aware of any larger plans for the [[Liberation Front]].
 

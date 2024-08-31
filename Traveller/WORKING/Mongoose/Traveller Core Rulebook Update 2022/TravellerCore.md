@@ -2121,7 +2121,7 @@ You can find out more on playing aliens in the Aliens of Charted Space books but
 
 The Aslan are the youngest of the great powers, an expansionist species of feuding clans and predatory warriors, eager to seize all the universe has to offer. Aslan are descended from four-limbed carnivorous pouncer stock, which was originally near the top of the food chain in the forests of their homeworld, Kusyu. True to their pouncer ancestry, Aslan are capable of short bursts of speed somewhat greater than that manageable by humans. They also have slightly superior hearing and night vision. Otherwise, they are one of the most human-like of all alien species, excepting, of course, the Vargr (who are, after all, genetically-altered mammalian stock originally from Earth).
 
-Early Terran explorers regarded the Aslan as 'lion- like' and the simile has stuck ever since, although the Aslan bear only a passing resemblance to terrestrial lions. Nonetheless, this early misnomer has influenced a great deal of human thinking about the Aslan, including terminology (the use of pride to translate ahriy, for instance) and ascribed behaviour – which is not at all leonine.
+Early [[Terra|Terran]] explorers regarded the Aslan as 'lion- like' and the simile has stuck ever since, although the Aslan bear only a passing resemblance to terrestrial lions. Nonetheless, this early misnomer has influenced a great deal of human thinking about the Aslan, including terminology (the use of pride to translate ahriy, for instance) and ascribed behaviour – which is not at all leonine.
 
 ![[TCR-6019.jpg|100]]   ![[TCR-6020.jpg|100]]
 [[TCR-6019.jpg|Image]]
@@ -3441,7 +3441,7 @@ Animal Hits Speed Ruuta 1 0m Skills Athletics (dexterity) 2, Recon 3, Survival 0
 
 Regardless of their world of origin or biochemistry, the majority of creatures fall into the following categories; Herbivores, Omnivores, Carnivores and Scavengers. These categories are further broken down into other categories, such as Grazers or Filters. A Carnivore that hunts by ambushing its prey will be a very different encounter to one that is part of a pack.
 
-Terran creatures that exemplify these behaviours are noted in brackets after the descriptions below. Suggested traits and skills are noted after the description – the exact level of skills varies depending on the particular creature as defined by the referee.
+[[Terra|Terran]] creatures that exemplify these behaviours are noted in brackets after the descriptions below. Suggested traits and skills are noted after the description – the exact level of skills varies depending on the particular creature as defined by the referee.
 
 - Carrion-Eater (vulture): Scavengers that wait for all other threats to disperse before beginning. Carrion-eaters have Recon.
 - Chaser (wolf): Animals that kill their prey by attacking and exhausting it after a chase. Chasers have Athletics (dexterity and/or endurance).

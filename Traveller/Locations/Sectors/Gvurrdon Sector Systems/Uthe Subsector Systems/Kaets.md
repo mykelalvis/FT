@@ -2,7 +2,7 @@ Kaets is a nonindustrial world, that requires extensive imports of outside t
 
 - In a technological universe, societies without industrial capability generally suffer as nearly all manufactured and high tech goods must be brought in at significant cost.
 - As a nonindustrial world, it requires extensive imports of outside technology to maintain a modern, star-faring society. The need to import most manufactured and high technology goods drives the price of these goods up in the open market.
-- It is a Non-Aligned world dominated by Vargr sophonts located in the [[Uthe]] of the [[Gvurrdon]] Sector.
+- It is a Non-Aligned world dominated by Vargr sophonts located in the [[Uthe Subsector]] of the [[Gvurrdon Sector]].
 
 - This world has a Vargr Corsair Base.
 
@@ -26,7 +26,7 @@ While a small world, Kaets still represents a significant area to search for sig
 ## KAETS
 
 The [[Kaets]] system
-**Kaets** ([[Uthe]]/[[Gvurrdon]] 2338) - Non-Aligned, [[Vargr]]-dominated.
+**Kaets** ([[Uthe Subsector]]/[[Gvurrdon Sector|Gvurrdon]] 2338) - Non-Aligned, [[Vargr]]-dominated.
 G0 IV star, 1 gas giant, 1 planetoid belt, 7 other worlds. Corsair base.
 
 UWP: B636631 - 7 Non Industrial, population approx 1,000

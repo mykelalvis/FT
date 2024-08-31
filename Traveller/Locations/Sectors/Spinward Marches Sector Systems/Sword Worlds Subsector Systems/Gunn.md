@@ -1,0 +1,4 @@
+### GUNN
+Gunn lies on a segment of the Spinward Main that has few good ports or major economies, and consequently sees little interstellar traffic. This region is sometimes termed The Slice, in a convoluted reference to the fact that proximity to the [[Sword Worlds]] inhibits trade and development in the region.
+
+Gunn itself is primarily a mining colony, with a few dozen permanent residents and somewhat larger number of transient prospectors, miners and mineralogists.  Gunn is lacking in iron compared to most other worlds but makes up for it with other metals – notably copper, lead and tin. Various Imperial corporations and megacorporations have investigated the possibility of opening a major mining center at Gunn but the difficulty of reliably transporting ore back to industrial worlds has proved an obstacle. Gunn remains the province of the freelance prospecting team or small mineral extraction company.

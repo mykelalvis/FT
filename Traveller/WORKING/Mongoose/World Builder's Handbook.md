@@ -392,7 +392,7 @@ of water. To determine the temperature in Celsius,
 simply subtract 273 from the Kelvin value (273.
 if precision is desired). Atmospheric pressure is
 normally expressed in bar, a non-standard unit equal
-to 100,000 Pascals; while not exactly equal to Terran
+to 100,000 Pascals; while not exactly equal to [[Terra|Terran]]
 atmospheric pressure at sea level, it is close enough
 for comparison purposes.
 
@@ -611,15 +611,15 @@ Sirka, the Grand Empire of Stars or the First Imperium,
 ceased expansion and turned inward but the tasks
 of surveying and updating of records of the 15,
 systems within the Ziru Sirka continued until the fall of
-this First Imperium to the upstart Solomani of the Terran
+this First Imperium to the upstart Solomani of the [[Terra|Terran]]
 Confederation in -2204.
 
 The next four centuries encompassed the Rule of Man,
 a Second Imperium sometimes called the Ramshackle
-Empire. Terran explorers and cartographers applied
+Empire. [[Terra|Terran]] explorers and cartographers applied
 their own standards to convert Vilani records,
 eventually settling on an amalgam of formats and units
-which persist to the current era. Terran explorers added
+which persist to the current era. [[Terra|Terran]] explorers added
 new systems to existing records but unified formats and
 consolidated databases remained more an aspiration
 than a reality. More than just political and financial
@@ -3309,7 +3309,7 @@ formats, one for a single star and one for a multi-star
 system. The single star format is:
 
 
-#-T# C-M-D-L-A
+`#-T# C-M-D-L-A`
 
 Where:
 # = # of stars (1 in this case and often omitted),
@@ -3327,8 +3327,8 @@ The multi-star variant appends additional stars after the
 primary star:
 
 
-#-T# C-M-D-L-A:D-O-E-T# C-M-D-L:D-O-E-T# C-M-
-D-L...
+`#-T# C-M-D-L-A:D-O-E-T# C-M-D-L:D-O-E-T# C-M-
+D-L...`
 
 Where each star beyond the primary is indicated by:
 D = Designation (e.g., B or Ab),
@@ -4453,7 +4453,7 @@ Luminosity
 TRAVELLER
 
 
-Or the distance of Terran-equivalent habitable zone
+Or the distance of [[Terra|Terran]]-equivalent habitable zone
 
 - defined here as the Habitable Zone Centre Orbit#
 or HZCO – is equal to the square root of the star’s
@@ -5887,7 +5887,7 @@ atmosphere. These worlds are often referred to as
 terrestrial, meaning not that they have a Terra-like
 environment but that they are primarily composed of
 metal, rock, and/or ice, less than twice the diameter of
-Terra, and in most cases less than 10 Terran masses.
+Terra, and in most cases less than 10 [[Terra|Terran]] masses.
 
 
 Categorising these worlds requires some Size codes
@@ -5978,10 +5978,10 @@ The first 1D roll determines the general size category
 (Small, Medium or Large) of the gas giant. If precision
 is not needed, the Referee can stop there. The second
 roll based on the initial sizing result row determines
-the actual diameter as a factor of Terran diameter (1
+the actual diameter as a factor of [[Terra|Terran]] diameter (1
 gas giant diameter unit is equivalent to Size 8). A third
 roll based on the initial sizing result determines actual
-mass as a multiple of Terran mass.
+mass as a multiple of [[Terra|Terran]] mass.
 
 Gas giant information can be recorded using
 a modification of the SAH (Size, Atmosphere,
@@ -5989,7 +5989,7 @@ Hydrographics) codes of the UWP. All gas giants
 can use the G Size code, with the second UWP
 digit indicating gas giant size category instead of
 Atmosphere: GS, GM, GL. The third SAH digit for gas
-giants corresponds to its diameter in Terran diameters
+giants corresponds to its diameter in [[Terra|Terran]] diameters
 and can use eHex notation as necessary to record the
 gas giant diameter from 2 to J (18). Gas giant mass
 can be recorded in the notes field in the IISS Class III
@@ -8165,7 +8165,7 @@ compute orbital period, either just the planetary mass
 or using the combined masses of planet and moon.
 Moons tend to be smaller than their planets in a ratio
 similar to that of stars to planets, so for most instances
-the equations use the Terran mass of the planet as Mp.
+the equations use the [[Terra|Terran]] mass of the planet as Mp.
 If greater precision is required, the moon’s mass must
 be computed and the Mp value instead becomes (Mp +
 Mm) where Mm is the mass of the moon.
@@ -8652,7 +8652,7 @@ mol of atmospheric particles) and its gravity (g):
 
 
 The scale height value for Terra is approximately 8.5
-kilometres. Assuming near-Terran temperature and
+kilometres. Assuming near-[[Terra|Terran]] temperature and
 atmospheric gas mix, scale height can be assumed
 to be roughly 8.5 kilometres divided by the world’s
 gravity. Worlds with lower gravity will have ‘higher’
@@ -12190,7 +12190,7 @@ temperatures are:
 Using albedo = 0.33 and greenhouse factor = 0.59, with
 the above computed factor values, Zed prime’s high
 and low temperatures are 346K and 250K, respectively
-(73°C and -24°C). For comparison, the Terran values for
+(73°C and -24°C). For comparison, the [[Terra|Terran]] values for
 these two temperatures computed in the same manner
 are 312K and 261K (38°C and -12°C).
 
@@ -13803,7 +13803,7 @@ rating is automatically set to 1.
 Special Case 2: A rolled biomass rating of 1 or
 more on a world with Atmospheres 0, 1, A, B, C or
 F+ represents life not likely to be compatible with
-Terran life. If it exists, it could be well-developed within
+[[Terra|Terran]] life. If it exists, it could be well-developed within
 this environment. Add one less than the negative
 Atmosphere DM to the biomass rating for such worlds,
 e.g., for Atmosphere B, add 4.
@@ -13906,7 +13906,7 @@ form at the Referee’s option, potentially including
 recognisable consciousness.
 
 
-Biocomplexity does not necessarily follow Terran
+Biocomplexity does not necessarily follow [[Terra|Terran]]
 patterns or look anything like the examples provided
 but on most worlds, life consists of specialised
 ‘kingdoms’ of autotrophs or primary producers who
@@ -14031,7 +14031,7 @@ COMPATIBILITY RATING
 Another important attribute of native life is its
 compatibility, or how well the native life’s biochemistry
 meshes with other biochemistries. The compatibility
-rating is defined in relation to its compatibility to Terran
+rating is defined in relation to its compatibility to [[Terra|Terran]]
 life. While this works well for Terragen species, it
 does not necessarily indicate compatibility for other
 sophonts. A world’s compatibility rating should be
@@ -14040,7 +14040,7 @@ interested sophont species.
 
 
 A high compatibility rating is a two-edged sword. It
-means that Terran organisms are able to survive on the
+means that [[Terra|Terran]] organisms are able to survive on the
 world and that many native forms of life may be edible
 food substances but it also indicates native diseases
 can potentially infect Terragen hosts, and native
@@ -14082,7 +14082,7 @@ more like particulates than lifeforms but still be
 dangerous or at least irritating.
 
 A compatibility rating of A (10) is equivalent to full
-Terran compatibility and greater values are possible.
+[[Terra|Terran]] compatibility and greater values are possible.
 If the world’s life has a compatibility rating of at least
 1, any particular biological material’s compatibility
 rating is equal to its world’s compatibility rating plus
@@ -22213,147 +22213,60 @@ world social characteristics
 
 TRAVELLER
 
+# Travel Zones
+See [[Travel Zones]].  Default is [[Green Zone]], and is rarely indicated as-such.
 
-TRAVEL ZONES
-Systems are classified as Green, Amber or Red Zones
-based on their safety and accessibility to Travellers. Only
-a Red Zone has legal significance, usually indicating
-interdiction by an external power or prohibition against
-contact imposed by a system’s inhabitants.
+## Amber Zone
 
+If random determination is desired, the Referee can apply [[Amber Zone]]s with the following results:
+  
+Amber Zone Exists on 12+:
+roll 2D +DMs
 
-GREEN ZONE
-A Green Zone is not so much a classification as an
-indication the system has no known hazards. Outside
-the borders of a polity, this may indicate ignorance of
-local conditions more than any assurance of safety. Most
-worlds within the border of a polity that are not subject
-to natural hazards, anarchy, war or particularly harsh
-government policies are considered Green Zones.
+Roll 2D +DMs.  [[Amber Zone]] exists on 12+.
 
+|Attribute|DM|
+|--|:-:|
+| Primordial System | +2 |
+| Atmosphere B, C, F+ | +2 |
+| Mean temperature above 373K | +2 |
+| Mean atmospheric pressure above 50 bar | +2 |
+| Seismic stress 100+ | +2 |
+| Government 0 | +4 |
+| Government 7 | +2 |
+| Law Level 0 | +2 |
+| Government + Law Level > 20 | +(Government + Law Level - 16) |
+| Xenophilia 0–5 | +(6-Xenophilia) |
+| Militancy 9+ | +(Militancy-8) |
+| Factional uprisings | +2 |
+| Ongoing war | +4 |
 
-AMBER ZONE
-An Amber Zone is a warning to Travellers. It may be an
-official warning from an interstellar polity, the world itself
-or it may be a classification of a private service such
-as the Traveller’s Aid Society. Conditions warranting an
-Amber Zone designation may include natural hazards,
-such as a corrosive or insidious atmosphere, very high
-pressures or temperatures, severe geologic activity or
-high risk of meteoric activity such as in a primordial star
-system. Human factors, including lack of a government
-or law enforcement, extremes of either or both, an
-ongoing war or civil disturbance may prompt an Amber
-Zone designation. If random determination is desired, the
-Referee can apply Amber Zones with the following results:
+> Zed Prime has little reason for an [[Amber Zone]] in the oligarchies but the governorships might be an issue. Still, as an off-world reference would be focused on the starport, the Referee chooses to use the DMs for government 7 and factional uprisings, a total DM+4, but not those that would apply only to the governorships, namely the DMs for government + Law Level (+5) or xenophilia (+4) and militancy (+4). A roll of 3 +4 = 7, so no world-wide Amber Zone is randomly indicated. The additional DM+13 for the governorships would result in an automatic Amber Zone for that region. See the [[#Red Zone]] example to see why this makes the Referee change this decision and impose a worldwide Amber Zone after all.
 
-**_Amber Zone Exists on 12+:_** roll 2D +DMs
+## Red Zone
 
+The placement of a [[Red Zone]] should be a deliberate choice by the Referee but as guide, the following procedure can provide insight as to situations which warrant Red Zone placement:
 
-Primordial System DM+2
-Atmosphere B, C, F+ DM+2
-Mean temperature above 373K DM+2
-Mean atmospheric pressure
-above 50 bar
+Roll 2D +DMs.  [[Red Zone]] exists on 12+.
 
+|Attribute|DM|
+|--|:-:|
+| Magnetar system | +10 |
+| Pulsar system | +8 |
+| Protostar system | +6 |
+| Seismic stress 200+ | +2 |
+| Native sophonts of TL0–3 | +4 |
+| Xenophilia 1–2 | +6-Xenophilia |
+| Militancy C+ | +Militancy-8 |
+| Factional uprisings | +2 |
+| Ongoing war | +4 |
+| Threat or use of WMDs | +8 |
 
-DM+2
+The Referee should never feel bound by these results.
 
+> Zed Prime is provisionally not designated an [[Amber Zone]] but the militancy and unrest of the governorships actually provides a combined DM+6 to the Red Zone roll. The Referee decides to roll to see what travel conditions to this faction would be and rolls a 5. Since 5 + 6 = only 11, a Red Zone does not apply. Still, it is enough for the Referee to reconsider the world’s status and they decide to make the world an [[Amber Zone]] after all, since such a designation is an indication of a third- party’s perception of risk and news stories out of the governorships might be rather grim.
 
-Seismic stress 100+ DM+2
-Government 0 DM+4
-Government 7 DM+2
-Law Level 0 DM+2
-Government + Law Level > 20 DM+Government +
-Law Level - 16
-Xenophilia 0–5 DM+6-Xenophilia
-Militancy 9+ DM+Militancy-8
-Factional uprisings DM+2
-Ongoing war DM+4
-
-
-Zed Prime has little reason for an Amber Zone in the
-oligarchies but the governorships might be an issue.
-Still, as an off-world reference would be focused on
-the starport, the Referee chooses to use the DMs for
-government 7 and factional uprisings, a total DM+4, but
-not those that would apply only to the governorships,
-namely the DMs for government + Law Level (+5) or
-xenophilia (+4) and militancy (+4). A roll of 3 +4 = 7, so
-no world-wide Amber Zone is randomly indicated. The
-additional DM+13 for the governorships would result in an
-automatic Amber Zone for that region. See the Red Zone
-example to see why this makes the Referee change this
-decision and impose a worldwide Amber Zone after all.
-
-
-RED ZONE
-A Red Zone is an interdiction. It may apply to a single
-world or the entire system. Enforcement depends
-on the nature of the interdiction and the powers
-available to police it. If a large interstellar polity such
-as the Third Imperium imposes a Red Zone on a
-system within its borders it may be enforced by the
-Imperial Navy or the Scout Service and the nature of
-the enforcement could be anything from a squadron
-of battleships to a few remote observation satellites
-transmitting a warning message. Especially hazardous
-natural forces, primitive or hostile natives or the
-use of the aftermath of the use of weapons of mass
-destruction (WMD) may be cause for a Red Zone.
-Sometimes a Red Zone is put in place to guard a
-secret or an artefact. The placement of a Red Zone
-should be a deliberate choice by the Referee but as
-guide, the following procedure can provide insight as
-to situations which warrant Red Zone placement:
-
-**_Red Zone Exists on 12+:_** roll 2D +DMs
-
-
-Magnetar system DM+10
-Pulsar system DM+8
-Protostar system DM+6
-Seismic stress 200+ DM+2
-Native sophonts of TL0–3 DM+4
-Xenophilia 1–2 DM+6-Xenophilia
-Militancy C+ DM+Militancy-8
-Factional uprisings DM+2
-Ongoing war DM+4
-Threat or use of WMDs DM+8
-
-The Referee should never be bound by these results.
-Any system could become a Red Zone because of
-an unforeseen situation such as a plague, ongoing
-nuclear war or impending impact of a civilisation-ending
-asteroid. Likewise, the manner of enforcement can vary
-world social characteristics from an automated warning to attacks without warning
-
-
-and the penalties for violation can vary from a monetary
-fine, to confiscation of a starship to summary execution.
-
-Some interdictions apply to an entire system, some to
-only a specific world, usually the indicated mainworld.
-In general, unless the threat is system-wide – such as
-in a protostar system or a war between spacefaring
-combatants – the interdiction is limited to the mainworld
-and ships may be able to pass through the system
-and perform wilderness refuelling, possibly under the
-watchful eye of an interdiction force.
-
-Zed Prime is provisionally not designated an Amber
-Zone but the militancy and unrest of the governorships
-actually provides a combined DM+6 to the Red Zone
-roll. The Referee decides to roll to see what travel
-conditions to this faction would be and rolls a 5. Since
-5 + 6 = only 11, a Red Zone does not apply. Still, it is
-enough for the Referee to reconsider the world’s status
-and they decide to make the world an Amber Zone after
-all, since such a designation is an indication of a third-
-party’s perception of risk and news stories out of the
-governorships might be rather grim.
-
-IISS PROCEDURAL
+# IISS PROCEDURAL
 The detailing of a world’s social attributes requires
 more effort and different skills than those necessary to
 determine its physical characteristics. For most worlds,
@@ -25396,11 +25309,11 @@ Gas Dwarf: A terrestrial world (Size F or smaller)
 with an atmosphere code of H, indicating a thick
 atmosphere predominately composed of hydrogen. A
 gas dwarf is less than twice the diameter of Terra and
-less than 10 Terran masses.
+less than 10 [[Terra|Terran]] masses.
 Gas Giant: A massive world whose atmosphere is
 mostly hydrogen and whose surface is unreachable
 by most technology. Generally, a planet of at least 10
-Terran masses and at least twice the diameter of Terra.
+[[Terra|Terran]] masses and at least twice the diameter of Terra.
 GWP: Gross world product. The total value of the
 output of a world’s economy in a standard year. The
 ‘per capita GWP’ measures the GWP divided by the
@@ -25543,7 +25456,7 @@ Terragens: Terragens are lifeforms whose ancestors
 originated on Terra. In a generic sense, this includes all
 humans and species from Terra. In Charted Space, it
 includes Vargr, Dolphins, Apes and any other uplifted or
-genetically modified lifeforms from Terran stock.
+genetically modified lifeforms from [[Terra|Terran]] stock.
 Trojan World: A co-orbiting planet or moon, orbiting
 60 degrees before or behind another world in the same
 orbit. The world may either be leading (L4) or trailing

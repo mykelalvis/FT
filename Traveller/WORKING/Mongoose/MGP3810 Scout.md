@@ -7042,7 +7042,7 @@ polities requires any ship to respond to, and give assistance to
 distress calls where possible and without risking life and limb to
 do so. The typical distress signals are quite ancient, and include
 the original Vilani signal GK (Gashimeku Kaalariin, Vilani for vessel
-in distress), the Terran SOS, or Mayday signals, and the Zhodani
+in distress), the [[Terra|Terran]] SOS, or Mayday signals, and the Zhodani
 DCQ (best translated as Distress: Dome Quickly). Note that the 732
 Samaritan Treaty of Jewell specifies that in peacetime, Zhodani and
 Imperial ships (and allied clients) may enter each others territory

@@ -15,7 +15,7 @@ tags:
 
 3014 Apinanto E431432-6 Ni Po 303 Na
 
-[[Apinanto]] is a backwater system in the [[Saphi Cluster]] of [[Fessor Subsector]] of [[Foreven]]. Overlooked by nearly everyone, even the mainworld is largely ignored because fuel is only available from skimming the [[gas giant]]s.
+[[Apinanto]] is a backwater system in the [[Saphi Cluster]] of [[Fessor Subsector]] of [[Foreven Sector|Foreven]]. Overlooked by nearly everyone, even the mainworld is largely ignored because fuel is only available from skimming the [[gas giant]]s.
 
 ## Drought
 

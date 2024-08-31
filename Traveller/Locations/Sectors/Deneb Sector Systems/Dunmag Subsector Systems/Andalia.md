@@ -1,0 +1,7 @@
+# ANDALIA
+
+Andalia is a water world, with little in the way of useable land above sea level. Those areas that do exist were rendered unusable by nuclear bombardment in the 600s, when forces loyal to the Humbolt family made an example of Andalia's small cities. The reasons for this action are complex and contentious, with few historians agreeing on whether the attack was properly sanctioned or the work of rogue elements with a score to settle. It was claimed that the Humbolts' enemies were building a base on one of the larger islands but any evidence of this was eradicated along with all other major settlements.
+
+Today, the land is safe to visit but the population has an aversion to doing so and will not even consider growing food there. The world's atmospheric taint was made worse by radioactive fallout, though this has long since dispersed. All the same, Andalia has a reputation as a poisoned world which is at least partially deserved.
+
+Andalia was repopulated in the years after the Civil War by people who were assigned there rather than by choice. This was one of several resettlement programs that created resentful populations with little love for the [[Imperium]] and to this day, Andalia remains a backwater. It has been a haven for dissidents and criminals, and is thought to have harboured corsairs based out of small, remote islands. No such bases have been found but the Imperial Navy monitors the world and conducts searches from time-to-time – which does nothing to improve relations with the locals.

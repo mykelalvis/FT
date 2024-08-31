@@ -1,0 +1,5 @@
+### MINDE'S STAR
+
+The Minde's Star system is named, unusually, for its primary rather than its mainworld, because the 'mainworld' is inhabited only by Scout Service personnel and scientists studying the highly unusual star. Minde's Star is a flare star that changes in brilliance in an unpredictable manner. Long study has allowed the scientific staff to establish rules of thumb allowing some forecasting of what might happen in the next hours, days and weeks but this is based on observations of the star rather than any mathematical model. No cycle or cycle-of-cycles has ever been identified.
+
+The system is not considered hazardous enough to merit Amber Zone classification but very few vessels go there.  No significant trade is to be had at the starport and the needs of the 30 thousand or so inhabitants are met by regular supply runs. A handful of merchants visit from time-to-time, mainly selling luxury items to individuals or the scout station's vendors. The occasional hopeful prospector vessel takes a look at a gas giant moon or one of the system's rockball worlds but to date no find has been made worthy of the effort required to extract it.

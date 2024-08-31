@@ -1,0 +1,10 @@
+### KUBISHUSH
+
+Kubishush is the homeworld of the Gl'lu, an unpleasant looking but friendly and cultured people who evolved despite the hostility of their world. Kubishush suffers from rampant volcanism, which is sufficiently bad that the Gl'lu language has multiple words for 'destroyed by a volcano'. A Gl'lu can describe the exact circumstances and extent of damage, how long reconstruction or rehabitation will take and the likelihood of a repeat eruption in an impressive and grim shorthand that would be unnecessary elsewhere.
+
+In addition, Kubishush has a corrosive atmosphere.
+The Gl'lu evolved to use ammonia extracted from their planet's atmosphere and require specialist life-support equipment when visiting other worlds. Part of the extensive orbital starport is set up for their needs but most is maintained in an environment suitable for other sentient races.
+
+The port sees a lot of through-traffic but few visitors choose to land on Kubishush. Gl'lu spacecraft are designed to be resistant to their world's atmosphere and regularly ply between port and surface, with fuel tankers especially important to the operation of the port; vast quantities of liquid hydrogen fuel are consumed by a working starport. Specialist vessels skim hydrocarbons from the system's gas giant to provide a portion of the necessary fuel but most comes from plants on the surface, which process the world's chemical-rich waters into useable fuel and other chemical compounds.
+
+Gl'lu settlements are extremely resilient, both in terms of damage resistance and their ability to clear away wreckage and rebuild. This is a state of mind as well as physical capability; even the safest Gl'lu communities will sooner or later deal with severe disaster. Gl'lu can typically keep functioning amid a level of chaos that would inspire panic and despondency among humans.

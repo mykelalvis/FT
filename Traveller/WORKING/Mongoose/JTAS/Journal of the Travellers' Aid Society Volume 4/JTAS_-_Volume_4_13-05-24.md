@@ -5984,7 +5984,7 @@ strains of Humaniti and other species they left behind.
 ```
 
 ```
-Most human subspecies were derived from Terran stock, creating
+Most human subspecies were derived from [[Terra|Terran]] stock, creating
 the Vilani and Zhodani. However, there is one strain that appears to
 be unique among them. The Floriani are essentially an entirely new
 species created by using the human genome as a template with several
@@ -6131,10 +6131,10 @@ Floriani initially welcomed the traders but closed their doors to them in
 200 after being contacted by the Zhodani on their spinward frontier.
 
 As they cautiously branched out to more star systems, the Floriani
-discovered the remnants of Terran and Sindalian colonies and peacefully
+discovered the remnants of [[Terra|Terran]] and Sindalian colonies and peacefully
 incorporated them into their society, treating them as they would Feskals.
 Many of these populations persist to the present day, forming subcultures
-that exhibit aspects of their Terran origins mixed with the conservative
+that exhibit aspects of their [[Terra|Terran]] origins mixed with the conservative
 and introspective ways of the Florians.
 
 The task of managing their growing empire became more challenging
@@ -7158,7 +7158,7 @@ well integrated into society before written history and serving as a model
 for other efforts to make food from what resources were available.
 Ashushum leather is the traditional material for a number of traditional
 garments throughout former First Imperium space and is more available
-than Terran cow leather in many sectors.
+than [[Terra|Terran]] cow leather in many sectors.
 ```
 
 ```
@@ -7578,7 +7578,7 @@ Queens are usually sessile, serving as a base around which honeycombs
 are constructed. The queen (with the only developed stomach in
 the swarm) digests all pollen and nectar brought by the workers and
 secrets it as wax (which the workers fashion into honeycombs around
-the queen), larvae (which all become workers, unlike Terran bees) and
+the queen), larvae (which all become workers, unlike [[Terra|Terran]] bees) and
 honey (the only thing the larvae and workers actually eat). They can
 be directed to abandon honeycombs and move to another location to
 facilitate harvesting but care must be taken to only move the hive when
@@ -7656,7 +7656,7 @@ covering the full body (specifically, the neck).
 # SHIP'S CAT
 
 ```
-Terran cats have been aboard ships since before the Solomani
+[[Terra|Terran]] cats have been aboard ships since before the Solomani
 discovered jump drive but ship's cats are specifically bred for life aboard
 ship. They can sense pressure differentials and electric fields, which can
 help find problems in ship systems and in the event of depressurization
@@ -7729,7 +7729,7 @@ native to Zhodane. Most breeds are waist-high to a Zhodani as adults,
 easily capable of carrying a human child. They are also psionic, having
 been bred to very high levels of talent. While they have no language as
 sophonts know it, they can empathise, as well as channel psi power to
-boost their bodies when danger is near. Compared to Terran dogs, they
+boost their bodies when danger is near. Compared to [[Terra|Terran]] dogs, they
 have a single extra mid-forehead eye tuned to the infrared, which helps
 them spot hidden living creatures (or in modern times, hidden power
 sources, such as powered armor in cover).

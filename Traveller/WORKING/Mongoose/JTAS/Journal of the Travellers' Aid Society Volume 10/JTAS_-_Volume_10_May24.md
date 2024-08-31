@@ -3886,15 +3886,15 @@ Orbits
 
 MAINWORLD (THANBER)
 Diameter: 7,684km
-Density: 0.98 Terran (5.4g/cubic cm)
-Mass: 0.239 Terran
+Density: 0.98 [[Terra|Terran]] (5.4g/cubic cm)
+Mass: 0.239 [[Terra|Terran]]
 Gravity: 0.612 G
 Orbital Eccentricity: 0.05
 Minimum Separation: 0.285 AU
 Maximum Separation: 0.315 AU
 Orbital Period: 19 days, 17 hours, 21 minutes, 50.4 seconds
 Rotational Period: 19 days, 17 hours, 21 minutes, 50.4 seconds (tidal-locked)
-Atmospheric Pressure: 0.5 Terran (thin)
+Atmospheric Pressure: 0.5 [[Terra|Terran]] (thin)
 Atmospheric Composition: Oxygen/Nitrogen with biological
 atmospheric taint
 **Average Temperature:** 310 K (at the hot pole). Twilight belt
@@ -4041,7 +4041,7 @@ senses of hearing, and instead of singing they use colourful displays of
 bioluminescence to communicate basic threat and warning postures.
 
 Large dark-grey flightless avians called 'pacers' that are about the size
-of a Terran ostrich forage in the blackwood forests. An aquatic variety
+of a [[Terra|Terran]] ostrich forage in the blackwood forests. An aquatic variety
 called 'fishers' dominates the shallow seas. Many smaller winged
 varieties fill out the ecological niches of the world.
 
@@ -4074,7 +4074,7 @@ Behaviour Carnivore, Killer
 ```
 
 Non-native lifeforms often have a difficult time adapting to the unmoving
-sun and extremely long mild seasons of Thanber, although Terran
+sun and extremely long mild seasons of Thanber, although [[Terra|Terran]]
 food crops have adapted well. Some imported domesticated livestock
 has successfully adapted, although respiratory ailments due to the
 atmospheric taint are common. Native forms, such as the pacers, have

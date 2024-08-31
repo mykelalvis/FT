@@ -8,7 +8,7 @@ tags:
 
 # Ishgipmigeku
 
-When the Travellers descend upon [[Affinity]]'s transitory islands, one of the things they notice is the presence of one of [[Affinity]]'s dominant fish species: the ishgipmigeku. Adults are roughly the size of full-grown Terran bluefin tuna. The ishgipmigeku swim in schools of 100-1,000 fish along the escarpments and crevices of surfaced transitory islands, nibbling on corals, fish carcases and other detritus dredged up by the tides. Ishgipmigeku inadvertently provide warning signs that tidal waves are about to submerge an island, always departing for deeper waters 20-30 minutes before the event.
+When the Travellers descend upon [[Affinity]]'s transitory islands, one of the things they notice is the presence of one of [[Affinity]]'s dominant fish species: the ishgipmigeku. Adults are roughly the size of full-grown [[Terra|Terran]] bluefin tuna. The ishgipmigeku swim in schools of 100-1,000 fish along the escarpments and crevices of surfaced transitory islands, nibbling on corals, fish carcases and other detritus dredged up by the tides. Ishgipmigeku inadvertently provide warning signs that tidal waves are about to submerge an island, always departing for deeper waters 20-30 minutes before the event.
 
 ![[CA2-50_1476396002.jpg]]
 

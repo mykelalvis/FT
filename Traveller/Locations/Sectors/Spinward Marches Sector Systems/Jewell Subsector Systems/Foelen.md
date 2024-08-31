@@ -52,7 +52,7 @@ From [[Behind the Claw]]
 
 Foelen is 80% covered in oceans, with little land that is particularly habitable; low-lying areas are swampy whilst most inland regions are steep and rocky. There are some regions suitable for major land-dwelling habitation but most of the population dwell in the coastal areas or the seas themselves.
 
-Despite a very thin atmosphere, Foelen has a well-developed ecosystem, which includes a number of species not native to the planet. Some are obviously of Terran origins, while others come from areas far across Charted Space. Intelligent life is equally diverse. Around 20% of the 9 million or so inhabitants are intelligent Dolphins, whilst another 40% belong to a humanoid minor race called the Chokari. The remainder are mostly humans of Zhodani extraction.
+Despite a very thin atmosphere, Foelen has a well-developed ecosystem, which includes a number of species not native to the planet. Some are obviously of [[Terra|Terran]] origins, while others come from areas far across Charted Space. Intelligent life is equally diverse. Around 20% of the 9 million or so inhabitants are intelligent Dolphins, whilst another 40% belong to a humanoid minor race called the Chokari. The remainder are mostly humans of Zhodani extraction.
 
 Contact between the Zhodani Consulate and Chokari is recorded as occurring in 189. Initially, the Chokari were thought to be a primitive species, of no great interest. A few humans, of Zhodani and other origin, settled on Foelen but since the early settlements were in upland areas well away from the coasts, there was little interaction in the early years.
 

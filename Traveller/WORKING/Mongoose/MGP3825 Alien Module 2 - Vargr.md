@@ -837,7 +837,7 @@ It is also important to note that whilst charisma and the constant struggle for 
 Racial Pride The Vargr see themselves as a unique people, a race chosen by the Ancients and uplifted to be an intelligent race. In their eyes, this makes the Vargr special and sets them apart from the other major races, since only the Vargr have such esteemed origins.
 
 This pride not only unites the Vargr as a race but it takes other forms as well. Some groups believe in racial superiority, which has led to two schools of thought on the subject. Those who follow the so called 'high superiority' school propose that the Vargr were designed to be better than other races, that the Ancients designed them to be nothing less than perfect. Proponents of the
-'low superiority' school maintain that they were the original sapient race on Terra and the Ancients moved them to Lair so the Vargr would not interfere with the genetic engineering of humans from the Terran apes.
+'low superiority' school maintain that they were the original sapient race on Terra and the Ancients moved them to Lair so the Vargr would not interfere with the genetic engineering of humans from the [[Terra|Terran]] apes.
 
 As with all things in Vargr society, there are numerous other ideas supported by scientists, politicians and religious groups. A minority of Vargr even have the view that their origins make them an inferior race and these troubled souls feel that they have to prove their worth by taking dangerous and extraordinary actions.
 
@@ -861,7 +861,7 @@ Vargr who fi nd religion come from all backgrounds and there is no specifi c car
 
 Church of the Chosen Ones: This religion was established in the year 895 of the Imperial calendar and for a short period it was one of the largest and most infl uential religious movements in Vargr society. Although the religion is not as popular as it once was, most Vargr have heard of the Church of the Chosen Ones.
 
-The religion postulates that not only did the Ancients create the Vargr by genetically engineering Terran canines but that the Ancients continued to return to Lair to make improvements until they created the superior race that Vargr are today. To followers of the Church of the Chosen Ones, this also explains the existence of the other Vargr subspecies; they were simply mistakes abandoned by the Ancients.
+The religion postulates that not only did the Ancients create the Vargr by genetically engineering [[Terra|Terran]] canines but that the Ancients continued to return to Lair to make improvements until they created the superior race that Vargr are today. To followers of the Church of the Chosen Ones, this also explains the existence of the other Vargr subspecies; they were simply mistakes abandoned by the Ancients.
 
 Congregations tend to live in their own communes and each commune has its own particular traditions, dress codes and practices such as wearing only white clothes, wearing an embroidered sash or adorning themselves with a particular marking or tattoo.
 
@@ -1322,7 +1322,7 @@ The new human masters selected Vargr who were more 'human- like' in appearance; 
 
 A New Dawn Although the Vargr living in human dominated space continued to suffer throughout the Long Night of humaniti, the Vargr populations continued to grow. Well established Vargr worlds bordered human space and many Vargr settlements still remained on the human dominated worlds. Although some of these Vargr communities were ignored by the humans, many suffered at the hands of the human populations.
 
-At the dawn of the Third Imperium, Solomani scientists began to theorize that Vargr were Terran canines uplifted by the Ancients. This became known as the Solomani Hypothesis, which led many humans to regard the Vargr as freaks or dangerous animals. However, in Amdukan sector many humans were more accepting of the Vargr's heritage and the anti-Vargr attitudes began to relax.
+At the dawn of the Third Imperium, Solomani scientists began to theorize that Vargr were [[Terra|Terran]] canines uplifted by the Ancients. This became known as the Solomani Hypothesis, which led many humans to regard the Vargr as freaks or dangerous animals. However, in Amdukan sector many humans were more accepting of the Vargr's heritage and the anti-Vargr attitudes began to relax.
 
 Amdukan sector was dominated by the Menderes Corporation who encouraged the Vargr to immigrate. To begin with, this enthusiasm by the corporation was not out of understanding or sympathy for the Vargr but as a means for cheap labour. However, under the guidance of charismatic leaders it soon became apparent that not only were the Vargr good workers but cooperation was much better for commerce and the local economy. With this revelation, the Menderes Corporation began a campaign to reduce anti-Vargr sentiments and worked to better integrate them into human society.
 
@@ -2194,7 +2194,8 @@ A very charismatic and skilled corsair leader called Rasorrorr was uniting these
 
 As Rasorrorr's infl uence spread more colonies came under his control and Rasorrorr eventually declared himself a prince, naming his new empire Raso Gatsdzo. Although this new empire never grew beyond the boundaries of the subsector, it had a strong military consisting largely of corsair groups. After Rasorrorr's death the empire declined until a new leader called Kaekranak was able to take power in –1769.
 
-The Gvegh Wars For nearly a decade, Kaekranak strengthened his empire and expanded into Uthe subsector, encroaching on the borders of smaller nations. At the same time, the Zaegou Federation was expanding in all directions into neighboring subsectors, absorbing smaller states into its territories. Both empires were spreading into Uthe subsector where they were destined to clash.
+## The Gvegh Wars
+For nearly a decade, Kaekranak strengthened his empire and expanded into [[Uthe subsector]], encroaching on the borders of smaller nations. At the same time, the Zaegou Federation was expanding in all directions into neighboring subsectors, absorbing smaller states into its territories. Both empires were spreading into Uthe subsector where they were destined to clash.
 
 Leaders of many small states in Uthe saw the two approaching nations as a threat and formed the Uthe Alliance. Other small alliances also formed along the borders of the Zaegou Federation and Raso Gatsdzo empires. Hostilities along these borders were inevitable and eventually resulted in the Gvegh Wars, which took place from –1760 to –1620. Full details of the Gvegh Wars can be found in the History chapter on page 51.
 

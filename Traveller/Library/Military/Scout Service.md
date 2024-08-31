@@ -1,3 +1,12 @@
+---
+date created: 2024-08-29 14:35
+aliases:
+  - IISS
+  - Imperial Scouts
+  - Scouts
+  - scouts
+---
+
 ## IMPERIAL INTERSTELLAR SCOUT SERVICE
 
 The [[Scout Service]] is a fabled institution whose origins predate the Third Imperium. Scouts in the Sylean Federation were mostly freelance explorers who sold their data to the highest bidder until their services were organised under the aegis of the Sylean Federation Scout Service. The Scout Service was restructured and renamed the Imperial Interstellar Scout Service in the year 0.
@@ -10,13 +19,13 @@ The Survey branch is responsible for scientific data collection and stellar cart
 
 ### Survey Branch Mission Types
 
-|Survey Class| Description| Duration |
-|:--:| -- | -- |
-|Class I| Conducted from a distance of 1–2 parsecs, determines the basic stellar and planetary data of a star system.| 1 day|
-|Class II| In-system survey of primary and subsequent stars and all planetary bodies of notable size.| 1 week|
-|Class III| Detailed examination of notable planetary bodies. Landing parties launched when necessary. |10 weeks
-|Class IV| Detailed survey of system mainworld and other habitable zone bodies. Probes and landing parties launched to confirm data.|30 weeks
-|Class V| Detailed probes and surveys of all planetary bodies in a star system, including landing parties to confirm data. |5–10 years|
+| Survey Class | Description                                                                                                               | Duration   |
+| :----------: | ------------------------------------------------------------------------------------------------------------------------- | ---------- |
+|    Class I   | Conducted from a distance of 1–2 parsecs, determines the basic stellar and planetary data of a star system.               | 1 day      |
+|   Class II   | In-system survey of primary and subsequent stars and all planetary bodies of notable size.                                | 1 week     |
+|   Class III  | Detailed examination of notable planetary bodies. Landing parties launched when necessary.                                | 10 weeks   |
+|   Class IV   | Detailed survey of system mainworld and other habitable zone bodies. Probes and landing parties launched to confirm data. | 30 weeks   |
+|    Class V   | Detailed probes and surveys of all planetary bodies in a star system, including landing parties to confirm data.          | 5–10 years |
 
 Exploration is often seen as the most glamourous branch of the Scout Service but it is also the most dangerous. More scouts serving in Exploration are lost than from any other branch. Exploration scouts are sent into charted but unexplored systems, their mission to perform cursory surveys and close examinations of planetary bodies if irregularities or anomalies are found. They may also be called upon to perform contact and liaison missions if sophonts are encountered. Newly discovered sophonts are often left alone if the Scout Service determines that a species should be allowed to develop at its own pace and without Imperial interference. Worlds with such populations are sometimes interdicted. Such missions may last centuries or even millennia if necessary.
 

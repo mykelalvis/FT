@@ -111,7 +111,7 @@ When the Long Night fell, the reversion to barbarism put an end to any semblence
 
 ### Library Data Listing- Chirper
 
-See [[Chirpers]]
+See [[Chirper]]
 
 # Submersibles
 
@@ -855,7 +855,7 @@ Toward the galactic core is coreward, away from it, in the direction of the rim 
 
 These directions are in widespread use in describing Imperial features and businesses. For example, the Spinward Marches is a sector at the extreme spinward fringe of the Imperium: Rimward Lines is an important interstellar transport company.
 
-Finally, within the Imperium, the term coreward is also used to indicate the direction of Capital, the Imperial core. There is some potential for confusion if the term is accepted out of context. Dating Systems. Three major dating systems are in use when referring to historical events— Terran, Vilani, and Imperial. Terran dates center on a year about midway through the period of Vilani ascendance. After that date, years ascend, and are suffixed AD; before that date, years descend, and are suffixed BC. There is no year zero. Vilani Dates count from the year of the Establishment of the First (or Vilani) Imperium. Those before are suffixed PI
+Finally, within the Imperium, the term coreward is also used to indicate the direction of Capital, the Imperial core. There is some potential for confusion if the term is accepted out of context. Dating Systems. Three major dating systems are in use when referring to historical events— [[Terra|Terran]], Vilani, and Imperial. [[Terra|Terran]] dates center on a year about midway through the period of Vilani ascendance. After that date, years ascend, and are suffixed AD; before that date, years descend, and are suffixed BC. There is no year zero. Vilani Dates count from the year of the Establishment of the First (or Vilani) Imperium. Those before are suffixed PI
 (pre-lmperium), those after are suffixed VI
 (Vilani Imperium).
 
@@ -868,7 +868,7 @@ Selected locations along major trade routes are established as express stations,
 
 Federation. Group of states, worlds, or systems, each internally independent, joined into a union to which has been surrendered certain rights and responsibilities, most generally dealing with foreign affairs.
 
-First Imperium (1 VI to 1383 VI). The first major interstellar civilization, originating extensive colonization by Viand in the period - 5200 to - 4000 (750 BC to 450 AD Terran). In this era of interstellar exploration and expansion, the Vilani
+First Imperium (1 VI to 1383 VI). The first major interstellar civilization, originating extensive colonization by Viand in the period - 5200 to - 4000 (750 BC to 450 AD [[Terra|Terran]]). In this era of interstellar exploration and expansion, the Vilani
 (native humans evolved on Viand) demonstrated their technological superiority and strong central authority over a period of 1500 years. Neighboring worlds were assimilated into a trade community, and gradually absorbed into the central Vilani society. By - 4045 (the traditional date of Establishment) the First Imperium was a far-flung empire encompassing ten sectors and nearly five thousand worlds. Centuries of continuing expansion added new worlds, including four more sectors in the next thousand years. No new sectors were added to the First Imperium after 2900.
 
 Instead, with cultural maturity, the First Imperium became a pinnacle of interstellar diplomacy. Client-states under the protection or the patronage of the Vilani numbered in the thousands, while the influence of the Imperium stretched from Zhodane and Lair to Kirur and Guaran. Indeed, Vilani suzerainty is credited with the protective embrace which allowed the development of most major races into their current status.

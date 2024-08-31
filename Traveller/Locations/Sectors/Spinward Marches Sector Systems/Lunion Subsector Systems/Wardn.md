@@ -1,0 +1,9 @@
+---
+date created: 2024-08-30 09:44
+---
+### WARDN
+Wardn is, in many ways, a typical frontier world of the [[Imperium]]. Its atmosphere is a little thin, but entirely breathable, and with plenty of water the world could be a major agricultural center. However, its location on the fringe of Imperial space has resulted in a lack of investment and immigration, resulting in a population that has remained stable at around 50,000 for many decades. Most live in a single city adjacent to the downport, with a ring of outlying settlements tailing off into wilderness.
+
+Wardn is famous for its Patterned Desert, to the point where many offworlders assume the planet is a vast arid wasteland, but this is far from the truth. Most areas are well-watered and home to a variety of wildlife, with extensive forests and grasslands. The Patterned Desert itself is the subject of great speculation, with some believing its intricate patterns have intentional design and were created by an intelligent species. Others are adamant that the patterns are nothing more than traces left behind by primitive anaerobic life.
+
+The scout base at Wardn maintains a study detachment at the Patterned Desert, which hosts a regular rotation of scientists from various universities and institutes.  Other expeditions have been set up on Wardn and scouts occasionally have to rescue amateur scientists who have no idea how hazardous a desert can be.  The scout base also launches frequent missions into [[District 268]] and is widely supposed to be engaged in covert surveillance of the [[Sword Worlds Confederation]].  The Imperial authorities issue only vaguely worded statements about monitoring merchant traffic crossing the border and gathering data on shipping using the local ports, which could mean almost anything.

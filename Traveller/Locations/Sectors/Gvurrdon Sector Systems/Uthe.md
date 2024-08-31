@@ -1,1 +1,0 @@
-https://wiki.travellerrpg.com/Uthe_Subsector

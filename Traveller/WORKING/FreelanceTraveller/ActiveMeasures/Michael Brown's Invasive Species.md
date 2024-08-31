@@ -19,7 +19,7 @@ The referee should select or create the following items:
 
 ### Introduction
 
-This planet is one of the breadbaskets of the subsector, mostly due to xengi, a native insect pollinator similar to the Terran bee. The world's position along a major trade route ensures that its produce is sold all over the subsector. An Imperial noble, Count Salomon bó-Huang, has a fief onworld, administering it and several adjacent planets for the empire.
+This planet is one of the breadbaskets of the subsector, mostly due to xengi, a native insect pollinator similar to the [[Terra|Terran]] bee. The world's position along a major trade route ensures that its produce is sold all over the subsector. An Imperial noble, Count Salomon bó-Huang, has a fief onworld, administering it and several adjacent planets for the empire.
 
 Over the objections of local farmers, the Count has allowed some corporate farms to operate onworld, complete with substantial land grants and subsidies. The largest of these, Rhyzen-Phytotek, is a particularly aggressive player in the agriculture business; known for price fixing, ruthlessly crushing competitors, manipulating legal processes, and silencing critics by any means necessary.
 

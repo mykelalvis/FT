@@ -2445,7 +2445,7 @@ become Travellers in the wider galaxy.
 
 PHYSICAL CHARACTERISTICS
 As upright bilateral beings with four arms and two large legs, the Amindii
-superficially resemble Terran grasshoppers, with internal skeletons within
+superficially resemble [[Terra|Terran]] grasshoppers, with internal skeletons within
 their exterior of chitinous plates and finely scaled skin. Adults average 2.2
 meters tall and mass approximately 110 kilograms. External colouration
 varies with tribes but tends towards patterns of blue and purple which
@@ -2674,7 +2674,7 @@ Jreine
 **By Craig Bunting**
 
 Generally flying in a flock, each adult is only half a kilogram and
-resembles a hairless Terran bat but with a long muzzle-like head ending
+resembles a hairless [[Terra|Terran]] bat but with a long muzzle-like head ending
 in a vicious fanged mouth.
 
 Jreine are a principle flying predator and attack any larger flying
@@ -4295,7 +4295,7 @@ in the Northern Basin region.
 EVOLUTION
 Fossil evidence of life does not begin until 2.5 billion years before
 present. The biochemistry of Avastan's lifeforms utilises l-chiral amino
-acids and is compatible with Terran life but lacks some of the amino
+acids and is compatible with [[Terra|Terran]] life but lacks some of the amino
 acids necessary for human survival. Life in the seas and lakes of
 Avastan eventually introduced oxygen into the atmosphere, forming a
 thin ozone layer that allowed simple unicellular lifeforms to survive on
@@ -4303,7 +4303,7 @@ the surface and form colonies or mats of life that are most visible as
 black 'crusts' on rockfaces.
 
 Avastan's native lifeforms have only evolved into simple multicellular
-forms with minimal differentiation, such as Terran sponges, although
+forms with minimal differentiation, such as [[Terra|Terran]] sponges, although
 some coral-like organisms with a polyp life stage have evolved in the
 Great Northern Sea.
 
@@ -4397,7 +4397,7 @@ received numeric designations and no follow-up surveys for at least
 a century. The origin of the world's name is obscure, with reference
 to Avastan, Zend and Gatha Island first appearing in a log entry
 recorded during the Second Frontier War. The derivation of the names
-is likely from the ancient Terran proto-Iranian language of Zoroaster,
+is likely from the ancient [[Terra|Terran]] proto-Iranian language of Zoroaster,
 Avestan, which is also referred to as Zend. Gatha appears to be a
 reference to Zoroastrian hymns.
 

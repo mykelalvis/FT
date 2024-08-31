@@ -8291,7 +8291,7 @@ they will come looking for payment from the Player Characters.
 31. Fren Herders
 **Skills Required:** Animals (farming), Survival, Drive (hover)
 **Patron:** Farmer Ezakhel
-**Description:** Frens are a large animal similar to the Terran
+**Description:** Frens are a large animal similar to the [[Terra|Terran]]
 bovine that are a vital part of the agricultural sector on many
 worlds. Frens are hardy, disease–resistant, good–natured and
 can eat a wide variety of plant matter. Also, they are delicious

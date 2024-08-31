@@ -349,7 +349,7 @@ gas giants or plunged into the fiery heart of its bright star, Caurchlan
 Contigo. Those that remain are evidence of a progressive and
 ambitious leader who sought to create a paradise among the stars.
 
-When Terran colonists poured into the Trojan Reach thousands of years
+When [[Terra|Terran]] colonists poured into the Trojan Reach thousands of years
 ago, its most habitable planets were settled first. Colonists claimed
 worlds that had plentiful liquid water, a breathable atmosphere and a
 stable primary star. The region's less optimal systems were bypassed

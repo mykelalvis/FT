@@ -1,0 +1,7 @@
+### FROIN
+
+Froin is an essentially insignificant world, except that it is the site of Imperial Research Station Zeta. The permanent population of the planet is housed almost exclusively in a small town surrounding the starport, which sees a little through traffic headed out to spinward-coreward. Most residents work in support industries for the port, which also employs a couple of hundred non-resident personnel at any given time. The research installation is located 100 or so kilometers away; a short hop by shuttle or starship but enough to prevent casual intrusions. A ship approaching the station would be sufficiently off course that its crew could not claim an honest mistake and, since the area around the research station is restricted to authorized vessels only, such an intruder would risk being fired upon by the installation's defences. This has happened from time-to-time, although there are no records of anything but warning shots.
+
+Exactly what goes on at the research station is not common knowledge but it is guarded by a detachment of Imperial Marines and ringed with missile launchers dug into the bedrock. Navy ships routinely call there; usually auxiliaries but occasionally a heavily escorted transport.
+
+Given the proximity to the interdicted worlds of Andor and Candory, it seems likely that Research Station Zeta is engaged in psionic studies or perhaps work towards a better understanding of the Droyne.

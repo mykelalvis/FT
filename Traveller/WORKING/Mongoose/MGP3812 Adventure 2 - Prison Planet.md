@@ -1,58 +1,7 @@
 
-Prison Planet©2009 Mongoose Publishing. All rights reserved. Reproduction of this work by any means without the written permission of the publisher is expressly forbidden.
-All significant characters, names, places,items, art and text herein are copyrighted by Mongoose Publishing.
+# Prison Planet
 
-This game product contains no Open Game Content. No portion of this work may be reproduced in any form without written permission. To learn more about the Open Game
-License, please go to [http://www.mongoosepublishing.com.](http://www.mongoosepublishing.com.)
-
-This material is protected under the copyright laws of the United Kingdom and of the United States. This product is a work of fiction. Any similarity to actual people, organizations,
-places or events is purely coincidental.
-
-Traveller is a trademark of Far Future Enterprises and is used under licence.
-
-Printed in the USA.
-
-### CREDITS
-
-###### Original Prison Planet
-
-Design: Erik Wilson and Dave Emigh
-Development: John Harshman
-Art Director: Chris Purcell
-Original Maps: Rose Geier
-
-###### Mongoose Prison Planet
-
-###### AUTHOR
-
-Gareth Hanrahan
-
-###### ADDITIONAL TEXT
-
-Matthew Sprange
-
-###### EDITOR
-
-Nick Robinson
-
-###### LAYOUT
-
-Will Chapman
-
-###### INTERIOR ILLUSTRATIONS
-
-Andrew Dobell, Danilo Guida, Carlos Nunez de Castro Torres,
-German Ponce, Jonathan Roberts, Marco Morte, Alejandro Lizaur
-& Leonel Domingos da Costa
-
-###### SPECIAL THANKS
-
-Dominic Mooney, Stuart Machin, David Ives & Don Mckinney
-
-###### PLAYTESTERS
-
-Ian Bruntlett, Roger Calver, Andrew Welty, Bo Wajnik, Paul Chapple,
-Nicola Mayhew, Tony English, Richard Crow & Ken
+©2009 Mongoose Publishing. 
 
 ### CONTENTS
 
@@ -248,10 +197,7 @@ in prison before they acquire the right combination of knowledge,
 equipment, and opportunity for a successful escape.
 
 In order to run this adventure, the referee must be familiar with
-the rest of this booklet. Play begins with The First Week , on page
-
-6. Thereafter, action follows the course outlined in _Running the
-Adventure_ , page 55. The characters' lives will be governed by events,
+the rest of this booklet. Play begins with  [[#The First Week]]. Thereafter, action follows the course outlined in [[#Running the Adventure]]. The characters' lives will be governed by events,
 incidents, encounters with prisoners and guards, and rumors, as
 described in those chapters. The prison's physical layout is described
 in the chapter entitled The Prison and its attendant maps.
@@ -505,8 +451,7 @@ from scratch.
 Their first week will serve to teach them the basic rules (official and
 otherwise) of the prison, and give some indication of what their life
 will be like for the next few years. Run through the events here,
-before moving on to the weekly system described in _Running the
-Adventure_.
+before moving on to the weekly system described in [[#Running the Adventure]].
 
 ## ARRIVAL
 
@@ -536,7 +481,7 @@ form).
 
 Read the following to the players.
 
-# TTHEHE F FIRSTIRST W WEEKEEK
+# The First Week
 
 Something in the bowels of this ramshackle shuttle's engine bangs
 every few minutes, smashing down with a noise that reminds you of
@@ -593,8 +538,6 @@ their personal accounts, if they have any savings. They will be paid
 for their work in the prison, but the bulk of their personal savings
 will be frozen while in Tarkwall, although a referee may allow use of
 these funds to pay for any legal fees.
-
-##### THE FIRST WEEK
 
 ### MEETING THE WARDEN
 
@@ -3307,7 +3250,7 @@ which occurs during period 1, 3, 5, or 6.
 6. 1830-2130 Free time/exercise period 3 hours
 7. 2130-2230 Prisoners restricted to cells 1 hour
 
-# RRUNNINGUNNING THETHE A ADVENTUREDVENTURE
+# Running the Adventure
 
 ###### Sequence of Play
 
@@ -3340,8 +3283,6 @@ second die roll of -1 if the group leader (players in each group select
 a leader each week) has a prison reputation of -10 or less and +1 if
 his reputation is 10 or more. Each entry on the table is a particular
 event, events are listed alphabetically beginning on page 61.
-
-##### RRUNNINGUNNING THETHE A ADVENTUREDVENTURE RUNNING THE ADVENTURE
 
 ###### Reactions
 
@@ -9455,7 +9396,7 @@ to take them back.
 ### SKOGGIE HUNTING
 
 The skoggie is a four-legged scavenger native to Keanou, similar
-to a Terran wildcat. There are two major subspecies, the desert
+to a [[Terra|Terran]] wildcat. There are two major subspecies, the desert
 skoggie and the rarer plains skoggie. The desert skoggie is a more
 dangerous animal, and can be partially domesticated and used
 as a guard beast. The smaller plains skoggie is best known for its
@@ -9551,7 +9492,7 @@ or even a human.
 Julis: Julis is a mild narcotic growing wild in the plains of Keanou. A
 julis plant can be sold for 10 credits on the streets of Circle City.
 
-Kactus: A local analogue to the Terran cactus. The moisture of the
+Kactus: A local analogue to the [[Terra|Terran]] cactus. The moisture of the
 kactus plant cannot be consumed by humans without boiling and
 straining it first.
 
@@ -9604,7 +9545,7 @@ Underground 15 6 15 1 6 3
 
 Stealth 1, Survival 2, Melee (bite) 2,
 Bite (3d6), Armor 3. Number Encountered: 1
-The fearsome predators of the desert are rare; they hibernate during the time between kills. The creatures resemble Terran
+The fearsome predators of the desert are rare; they hibernate during the time between kills. The creatures resemble [[Terra|Terran]]
 komodo dragons, but are much paler. Cave dragons can climb walls using sucker pads on their feet and tail, and use this trait to
 ambush their prey from above.
 

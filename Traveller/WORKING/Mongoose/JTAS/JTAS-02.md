@@ -704,10 +704,9 @@ Githiaskio bodies have almost neutral buoyancy. They can swim at 15 kilometers p
 
 ### HISTORY
 
-The Githiaskio name for their planet can best be represented as Llaaaiihoin
-(with a heavy vibrato on the first syllable and high pitch on the last) but the human name is used in most databases. Githiaski is a mineral- poor world on the fringe of the Lesser Rift. The First Imperium paid little attention to the world; its intelligent inhabitants were not suspected to exist until accidental contact with a merchant ship during the Long Night. As the world has only a few small continents, mostly consisting of salt marshes and swamps, regular contact with the Githiaskio came only with the rise of the Third Imperium.
+The Githiaskio name for their planet can best be represented as Llaaaiihoin (with a heavy vibrato on the first syllable and high pitch on the last) but the human name is used in most databases. Githiaski is a mineral- poor world on the fringe of the Lesser Rift. The First Imperium paid little attention to the world; its intelligent inhabitants were not suspected to exist until accidental contact with a merchant ship during the Long Night. As the world has only a few small continents, mostly consisting of salt marshes and swamps, regular contact with the Githiaskio came only with the rise of the Third Imperium.
 
-The Githiaskio attracted scientific interest once their curious evolutionary history came to light. Githiaski's seas teem with life but forms analogous to vertebrates never appeared; rather the dominant phylum has developed a supportive inner 'cage' of gristle-like material. The Githiaskio's distant ancestors may have resembled Terran marine worms, which bury themselves in the seabed, leaving only a bundle of tentacles exposed; their closer relatives were certainly squid-like in form.
+The Githiaskio attracted scientific interest once their curious evolutionary history came to light. Githiaski's seas teem with life but forms analogous to vertebrates never appeared; rather the dominant phylum has developed a supportive inner 'cage' of gristle-like material. The Githiaskio's distant ancestors may have resembled [[Terra|Terran]] marine worms, which bury themselves in the seabed, leaving only a bundle of tentacles exposed; their closer relatives were certainly squid-like in form.
 
 The Githiaskio evolved from a race of omnivore scavenger-gatherers, inhabiting shallow seas that had abundant marine vegetation. Intelligence seems to have appeared when a period of heavy volcanic activity produced repeated shifts in marine currents and serious water pollution. Small family groups of Githiaskio were forced into closer cooperation for wider searches for food, with intelligence becoming a key survival feature. The parallel here with human history is certainly interesting, particularly as this ancestry has produced creatures so intellectually similar to Humaniti that human psychoanalysis will work on Githiaskio.
 
@@ -758,7 +757,7 @@ In water or microgravity, Githiaskio can use two tentacles to maintain handholds
 
 ## FOXHOUND AIR SUPERIORITY FIGHTER
 
-Introduced to the market at a time when it was fashionable to name military equipment after ancient Terran equivalents, the Foxhound is a successful design that is in service with many governments and mercenary forces. It was developed as an air superiority fighter with no air-to-ground role, intended to drive lower-tech and equivalent aircraft out of the battle zone.
+Introduced to the market at a time when it was fashionable to name military equipment after ancient [[Terra|Terran]] equivalents, the Foxhound is a successful design that is in service with many governments and mercenary forces. It was developed as an air superiority fighter with no air-to-ground role, intended to drive lower-tech and equivalent aircraft out of the battle zone.
 
 A secondary atmospheric interceptor role was envisaged, in which the Foxhound would be able to engage spacecraft. Any conventional aircraft operating in this role can only be of marginal effectiveness but the ability of the Foxhound to carry advanced aerospace defence missiles does allow mid-tech governments to pose some threat to misbehaving spacecraft.
 
@@ -991,7 +990,7 @@ In this context, the time limit associated with a protective item does not repre
 
 The central secret of interstellar travel is the concept of jump space. Without this method of travelling around intervening space, Travellers would be restricted by the universal speed limit of 300,000 kilometers per second; the stars would be beyond the reach of most intelligent species and even the limited travel that did take place would be slow and unprofitable.
 
-Jump space changes all of that. It allows travel at a velocity of up to six parsecs per week, making interstellar journeys of no more inconvenience than historical Terran sea cruises.
+Jump space changes all of that. It allows travel at a velocity of up to six parsecs per week, making interstellar journeys of no more inconvenience than historical [[Terra|Terran]] sea cruises.
 
 ### JUMP THEORY
 
@@ -1851,3 +1850,6 @@ Traits
 -
 
 Passengers – Cargo – Hull 20 Shipping 80 tons Cost MCr5.6
+
+
+

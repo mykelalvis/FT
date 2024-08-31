@@ -1,0 +1,6 @@
+### ZEEN
+
+Lying on the outer edge of the sector's main cluster.  Zeen is not on the way to anywhere and sees little traffic through its low-quality starport. The world's three million or so inhabitants are almost entirely Droyne, with a small community of Imperial Scout Service personnel who conduct observations but do not interact with the natives; not because the local population are unfriendly as such but beacuse they behave in ways that humans simply do not understand. The Droyne of Zeen may develop cordial relations with a merchant ship crew over many years, then completely ignore them on their next visit.
+
+The Droyne of Zeen have a stable TL6 society, although some of their devices are sufficiently alien that their function cannot be guessed, let alone any level of sophistication. They do not seem particularly interested in progress, nor do they generally get involved in affairs of the outside universe. There have been exceptions, however.
+Several Droyne vessels operate out of Zeen, although they cannot have been built there and can be encountered in ports across the sector. Droyne from Zeen have intervened on other worlds from time-to-time, notably coming to the assistance of the Krissukyoya on Giikusu.

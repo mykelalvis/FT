@@ -1,0 +1,10 @@
+### HRD
+
+HRD (Humbolt Research Directorate) was settled and developed to be a scientific community, although supporting industry was necessary. Association with the disgraced Humbolt family is unwelcome these days, so the world goes by its initials but remains a major center for scientific progress.
+
+HRD does not have a single remit or unified research facility. Instead, it is home to a large number of independent research corporations active in areas ranging from jump technology to archaeology of stone-age native sophonts on other worlds. Although HRD is within the Duchy of Vincennes and heavily associated with it, its research installations will take contracts from any bidder providing the combination of money and political expediency is right. Some jobs are simply too much trouble as they cause friction with Vincennes but, for the most part, top-end research is available to anyone with a large enough stack of Credits.
+
+HRD also hosts academies for the Imperial armed forces. These mostly handle specialist training for non-commissioned personnel and command or staff courses for officers but there are also contingency planning groups and forward-projection boards who seek to identify the future needs of the navy and marines in terms of technology, equipment and doctrine.
+
+Much of the work that goes on at HRD is classified or confidential, as might be expected of top-end research. A few installations are so secretive that nobody even knows what general field they work in – it might be antimatter power generation or identification of fakes among fine art pieces. Rumors abound, especially of facilities working with the navy or scouts.
+Superweapons, enhanced-jump ships and psionic teleportation are all thought to be under development on HRD but those employed to do the work or support it have nothing to say on the subject.

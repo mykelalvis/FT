@@ -5,20 +5,14 @@ tags:
   - Behind_The_Claw
   - Spinward_Marches
 date updated: 2024-07-25 18:03
+aliases:
+  - Jewell
 ---
 
-[Jewell Subsector - Traveller (travellerrpg.com)](https://wiki.travellerrpg.com/Jewell_Subsector)
-
-The **Jewell subsector** is fragmented into three distinct areas; an [Imperial](https://wiki.travellerrpg.com/Third_Imperium "Third Imperium") region answering to the duke at [Regina](https://wiki.travellerrpg.com/Regina_(world) "Regina (world)"), a [Zhodani](https://wiki.travellerrpg.com/Zhodani "Zhodani") military district under the [Cronor Subsector](https://wiki.travellerrpg.com/Cronor_Subsector "Cronor Subsector") establishment, and a mutually agreed-upon neutral zone open to both sides, but theoretically demilitarized. [[1]](<https://wiki.travellerrpg.com/Jewell_Subsector#cite_note-1>)
-
----
-
-![[BtC-JewellSubsector.jpg]]
+![[BtC-JewellSubsector.jpg|500]]
+[[BtC-JewellSubsector.jpg|Jewell]]
 
 From [[Behind the Claw]]
-
-[[The Spinward Marches]]
-SUBSECTOR B
 
 | Name           | Location |   Bases   |  Statistics | Trade Codes | Travel Code | Allegiance | Gas Giants |
 | -------------- | :------: | :-------: | :---------: | :---------: | :---------: | :--------: | :--------: |
@@ -46,8 +40,6 @@ SUBSECTOR B
 | [[Zenopit]]    |   1010   | D430546-7 |   De Ni Po  |             |      G      |            |            |
 | [[Zircon]]     |   1110   |     M     |  C792668-8  |      Ni     |             |      G     |            |
 
-![[BtC-JewellSubsector.jpg]]
-
 The Jewell subsector is where the [[Imperium]] and [[Zhodani]] Consulate meet. Politically, there are three distinct parts to the subsector. The spinward-coreward systems are mostly Consulate and form a thin strip of Zhodani territory projecting into the subsector. [[Farreach]], [[Clan]] and [[Chwistyoch]] are heavily fortified as naval bases and, along with [[Cipango]] in Cronor subsector, form what many Imperial observers call the [[Riverland Wall]].
 
 Imperial holdings in the subsector are limited to eight worlds in the middle (in rimward-coreward terms). Like their [[Zhodani]] equivalents, these are heavily protected for the most part, with forward naval bases at [[Jewell]] and [[Mongo]], and [[Scout Service]] bases at [[Ruby]], [[Emerald]], [[Jewell]], [[Mongo]] and [[Lysen]].
@@ -58,7 +50,7 @@ There is no Imperial subsector duke for the Jewell subsector. It is instead admi
 
 The exposed nature of the deployment has earned the 212<sup>th</sup> the nickname of _Santanocheev's Tripwire_ and the suggestion that its role is simply to find out if the Zhodani are serious this time. The latter is a reference to the last two Frontier Wars, in which the Zhodani battle fleets were generally held at the frontier.
 
-The remainder of the subsector is ostensibly neutral, although Imperial access to worlds behind the [[Riverland]] Wall is very limited, allowing the Consulate much greater influence over [[Condyole]] and [[Puparkin]], as well as non-aligned worlds in [[Cronor (Subsector)]].
+The remainder of the subsector is ostensibly neutral, although Imperial access to worlds behind the [[Riverland]] Wall is very limited, allowing the Consulate much greater influence over [[Condyole]] and [[Puparkin]], as well as non-aligned worlds in [[Cronor Subsector]].
 
 Some of the worlds in the rimward end of the subsector are coming under the influence of Arden or, more accurately, the alliance of political and economic interest groups collectively calling itself the [[Federation of Arden]]. It is possible that some of these worlds may eventually become part of an alliance with Arden, although how the [[Imperium]] and Consulate will react to this development (if it occurs at all) remains to be seen.
 
@@ -74,7 +66,7 @@ The partial chronology of events that have taken place in or had influence on th
 
 |      DATE      | EVENT                                                                                                                                                                                                                                                                                                                                               |
 | :------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| circa -300,000 | [[The Ancients]] seed a group of [[terrans]] on [[Condyole]] who will later become known as the [[Vexx]]. [[The Ancients]] create a race called the [[Chokari]], genetically engineered from dolphins and seeded on Foelen. A faction within the Ancients build the Tripwire network, installing a Tripwire device on seven of their border worlds. |
+| circa -300,000 | The [[Ancients]] seed a group of [[terrans]] on [[Condyole]] who will later become known as the [[Vexx]]. The [[Ancients]] create a race called the [[Chokari]], genetically engineered from dolphins and seeded on Foelen. A faction within the Ancients build the Tripwire network, installing a Tripwire device on seven of their border worlds. |
 |       101      | Etienne Rasa leads a group of colonists who settle on [[Pequan]].                                                                                                                                                                                                                                                                                   |
 |       134      | The [[Zhodani]] travel to [[Condyole]] and meet the [[Vexx]].                                                                                                                                                                                                                                                                                       |
 |       189      | The [[Zhodani]] discover the [[Chokari]] and assume them to be a primitive race of little interest to the [[Zhodani]] Consulate.                                                                                                                                                                                                                    |

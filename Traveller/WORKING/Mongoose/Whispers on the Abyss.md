@@ -749,7 +749,7 @@ but if not little has been lost.
 
 JOACHIM KRYSTALFUCHS
 Joachim’s surname translates to ‘crystal fox’ in an
-archaic Terran language, predictably leading to the
+archaic [[Terra|Terran]] language, predictably leading to the
 nickname of ‘foxy’, which irritates him to a considerable
 degree. He is an employee of the RVSC corporation
 and has been with them for nearly 10 years. Before

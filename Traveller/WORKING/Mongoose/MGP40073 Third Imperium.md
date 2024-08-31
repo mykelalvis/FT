@@ -170,15 +170,15 @@ years. Its predecessors were the Ziru Sirka and the
 Rule of Man, now nominally called the First and Second
 Imperiums, respectively. In the Vilani language, Ziru
 Sirka means Grand Empire of the Stars. This empire
-lasted for many thousands of years, predating Terran
+lasted for many thousands of years, predating [[Terra|Terran]]
 starflight by several millennia. The Rule of Man was its
-successor state, established by Terran conquerors who
+successor state, established by [[Terra|Terran]] conquerors who
 defeated the decaying Ziru Sirka during the Interstellar
-Wars. The Terrans and their progeny eventually came
+Wars. The [[Terra|Terran]]s and their progeny eventually came
 to call themselves Solomani, a name that invoked their
 star of origin but also reflected that after a few centuries
 they hailed from many worlds and were no longer just
-Terrans. The Third Imperium is often simply called the
+[[Terra|Terran]]s. The Third Imperium is often simply called the
 Imperium since it refers to the current human empire.
 
 In _Traveller_ , Humaniti consists of a broad panoply of
@@ -262,8 +262,8 @@ consistent across Imperial space. The first of these is
 language. While many human and alien races speak
 their own native languages, Galanglic is the official
 language of the Imperium. Galanglic is descended from
-Terran English but has changed significantly in the
-millennia since Terrans first took to the stars.
+[[Terra|Terran]] English but has changed significantly in the
+millennia since [[Terra|Terran]]s first took to the stars.
 
 The governments of Imperial worlds are independent.
 There is no uniform Imperial style of government
@@ -568,10 +568,10 @@ the Vilani and Solomani. The Vilani, who came from
 Vland, discovered jump drive technology thousands
 of years before Terra and built the largest interstellar
 empire in the history of Charted Space. Just as that
-empire began to falter, the Terrans aggressively came
+empire began to falter, the [[Terra|Terran]]s aggressively came
 onto the scene and swept the Ziru Sirka away during
 the Interstellar Wars. Having become an interstellar
-people themselves, the descendants of the Terrans
+people themselves, the descendants of the [[Terra|Terran]]s
 became known as the Solomani, meaning 'men of Sol'.
 
 The Vilani and Solomani have slight physical
@@ -611,7 +611,7 @@ gruel compared with the ancient and highly structured
 Vilani civilization. The Rule of Man raped and looted the
 First Imperium but were ultimately made students of its
 conservative, empire-building ways. To paraphrase the
-ancient Terran poet, Horace, 'Captive Vland captured
+ancient [[Terra|Terran]] poet, Horace, 'Captive Vland captured
 her rude conqueror'.
 
 While the Vilani certainly knew a lot about empire
@@ -4734,7 +4734,7 @@ pharmaceuticals, medical and surgical products, industrial chemicals, chemical
 and bacteriological weapons, and geneered organisms for industrial and
 agricultural applications. Built upon the shell of a bankrupt Sylean corporation in
 252 by Gustav Schunamann.
-Sharurshid Trade and speculation. Leading exporter of rare Terran wines and spirits. Founded
+Sharurshid Trade and speculation. Leading exporter of rare [[Terra|Terran]] wines and spirits. Founded
 during Ziru Sirka era.
 Sternmetal Horizons, LIC Mining, manufacture of power-generation systems and food synthesis equipment.
 Founding date indeterminate.
@@ -4762,7 +4762,7 @@ who were originally taken from Terra approximately
 called the Ancients. The Ancients mysteriously
 disappeared from the galactic scene but the Vilani
 lived on and discovered jump drive technology in
--9235, nearly seven millennia before their Terran
+-9235, nearly seven millennia before their [[Terra|Terran]]
 counterparts. They engaged in a long, largely
 unopposed expansion into the stars, first exploring
 and trading, and then consolidating and conquering
@@ -4784,61 +4784,61 @@ communication was slow and ponderous. By -2500
 
 the Vilani could no longer secure their frontier from
 the barbarian states beyond their borders, including
-the Vargr to coreward and the Terrans to rimward.
-They first encountered Terran explorers in -2422 at
+the Vargr to coreward and the [[Terra|Terran]]s to rimward.
+They first encountered [[Terra|Terran]] explorers in -2422 at
 a remote mining outpost on Barnard, a mere two
 parsecs from Terra. The first meetings between the
-Vilani and Terrans were peaceful. The Vilani had
+Vilani and [[Terra|Terran]]s were peaceful. The Vilani had
 already encountered and integrated many human
 Minor Races during the expansion of their empire
-and they assumed the Terrans were simply another
+and they assumed the [[Terra|Terran]]s were simply another
 such race. However, first contact was a monumental
-affair for the Terrans, who had never encountered
+affair for the [[Terra|Terran]]s, who had never encountered
 extra-terrestrial life before and were especially
 shocked when they encountered other humans with
 subtle physical differences.
 
 A mere 23 years after the first meeting between
-the Terrans and Vilani, the first of a series of wars
+the [[Terra|Terran]]s and Vilani, the first of a series of wars
 broke out between them that became known as the
 Interstellar Wars. After realising the massive size and
-industrial base of their enemy, the Terrans engaged
+industrial base of their enemy, the [[Terra|Terran]]s engaged
 in a program of technological development and
 population expansion. Despite the immensity and
-breadth of the Vilani Imperium, the Terrans soon
+breadth of the Vilani Imperium, the [[Terra|Terran]]s soon
 discovered that they faced a decaying empire, one
 with little hope of standing up to a motivated, rapidly
-advancing opponent. Unlike the Vilani, the Terrans
+advancing opponent. Unlike the Vilani, the [[Terra|Terran]]s
 had no qualms about technology. In fact, it became
-an existential imperative for the Terrans to advance
+an existential imperative for the [[Terra|Terran]]s to advance
 as quickly as possible in order to oppose the massive
 Vilani Imperium.
 
 TRAVELLER
 
 The Interstellar Wars were a mixed affair. The
-Terrans encountered pockets of strong resistance as
+[[Terra|Terran]]s encountered pockets of strong resistance as
 they branched out into Vilani territory but they also
 discovered just how decayed and unstable the Ziru
 Sirka had become, especially on its rimward frontier.
-Many Vilani worlds willingly submitted to Terran
+Many Vilani worlds willingly submitted to [[Terra|Terran]]
 authority; some were even eager to join them. Others
-looked upon the Terrans as interlopers or invaders
+looked upon the [[Terra|Terran]]s as interlopers or invaders
 but were not given sufficient resources by the central
-government to fight back against Terran aggression.
-The Terrans worked their way through Vilani space,
+government to fight back against [[Terra|Terran]] aggression.
+The [[Terra|Terran]]s worked their way through Vilani space,
 fighting when they had to and annexing worlds when
 they did not. After 200 years, the depleted Ziru Sirka
-surrendered to the Terrans and the Second Imperium
-was born. The Terrans referred to this empire as The
+surrendered to the [[Terra|Terran]]s and the Second Imperium
+was born. The [[Terra|Terran]]s referred to this empire as The
 Rule of Man.
 
-The Terrans were accustomed to democratic
+The [[Terra|Terran]]s were accustomed to democratic
 government but it soon became clear that they would
 have to change their thinking when it came to the
 administration of a widespread interstellar empire.
-The commander-in-chief of Terran military forces,
-Admiral Hiroshi Estigarribia, broke with Terran High
+The commander-in-chief of [[Terra|Terran]] military forces,
+Admiral Hiroshi Estigarribia, broke with [[Terra|Terran]] High
 Command and took personal control of the Empire.
 Rather than letting it be run from Terra with all its
 politics and rivalries, Hiroshi moved the capital to
@@ -4846,12 +4846,12 @@ Hub (now called Kaggushus) in the Massilia sector.
 When announcing this to the empire in a speech in
 High Vilani, Hiroshi introduced himself and his people
 for the first time as the 'Solomani'. After 200 years of
-expansion, the invaders were no longer strictly 'Terran'
+expansion, the invaders were no longer strictly '[[Terra|Terran]]'
 anymore. Generations had been born on conquered
 and colonized worlds. Many were newly made clones
 or the descendants of clones who had been mass
 produced in an effort to achieve greater parity with the
-Vilani. The Terrans had also uplifted many species
+Vilani. The [[Terra|Terran]]s had also uplifted many species
 native to their homeworld in a desperate effort to fill
 vacant roles in their military and on their starships.
 The word 'Solomani' reflected their origin in the Sol
@@ -4861,13 +4861,13 @@ himself Emperor, his son accepted the title and was
 crowned Emperor Hiroshi II, posthumously declaring
 his father to have been Hiroshi I.
 
-The Rule of Man was a tumultuous time. The Terran
+The Rule of Man was a tumultuous time. The [[Terra|Terran]]
 Navy had spread out far and wide to absorb the
 entirety of the Ziru Sirka. While officers of flag rank
 were tasked with governing the most prestigious
 worlds, junior officers were often left in charge of
 
-backwaters and remote outposts. The Terrans and
+backwaters and remote outposts. The [[Terra|Terran]]s and
 Vilani began to intermix and new societies developed
 that featured elements of both cultures. Over the
 course of their expansion, the Solomani came into
@@ -4930,10 +4930,10 @@ First, Second and Third Imperium simplifies the
 terminology and makes for a convenient narrative.
 
 The First Imperium was the Ziru Sirka or 'Grand
-Empire of the Stars' of the Vilani. After the Terrans
+Empire of the Stars' of the Vilani. After the [[Terra|Terran]]s
 defeated the Vilani in the Interstellar Wars, the
 victorious successor state has been given several
-names over the course of history. Terran Admiral
+names over the course of history. [[Terra|Terran]] Admiral
 Hiroshi Estigarribia declared it to be the Rule of
 Man, which was meant to emphasise the common
 heritage of Humaniti whether they be of Solomani,
@@ -6454,7 +6454,7 @@ discovery was initially ignored and later met with tepid
 acceptance when it was presented to the broader
 audience of the Imperium in 114. To be fair, it was not
 the first time Terra had been suggested as the origin
-world of Humaniti. The Terrans themselves presented
+world of Humaniti. The [[Terra|Terran]]s themselves presented
 convincing evidence during the Rule of Man; however,
 the ubiquity of the Vilani and racial pride of the 40 or so
 other human races prevented universal acceptance.
@@ -7357,7 +7357,7 @@ Solomani homeworld. Hundreds of parsecs in the
 other direction, the Imperium continued to consolidate
 its holdings in the Spinward Marches, annexing the
 Vilis subsector and making an enemy of the Sword
-Worlds, a pocket empire of Terrans who had come to
+Worlds, a pocket empire of [[Terra|Terran]]s who had come to
 
 the region centuries earlier aboard sublight generation
 ships. Things were proceeding apace but most events
@@ -8218,7 +8218,7 @@ history and the parallels of his era and that of the Ziru
 Sirka before its fall were not lost upon him. He certainly
 did not want to see the growing Third Imperium fall to
 the burgeoning threat of the Solomani, just as the Ziru
-Sirka had fallen to the Terran Confederation thousands
+Sirka had fallen to the [[Terra|Terran]] Confederation thousands
 of years before. The Imperium was not yet ready to
 confront the Solomani crisis directly. Instead, he simply
 shepherded the empire along its current course.
@@ -8898,7 +8898,7 @@ newfound tolerance and respect for other cultures by
 participating in the movement. By 1050, the movement
 had acquired as much popularity in the Rim as
 anywhere else in Imperial space. While many Solomani
-people selected Terran, Rule of Man and Old Earth
+people selected [[Terra|Terran]], Rule of Man and Old Earth
 Union cultures to emulate, a significant percentage
 of the population chose cultures well outside those
 boundaries. Some even chose Vilani cultures. The
@@ -8920,8 +8920,8 @@ Project, a Solomani resistance movement on Terra.
 The Imperial occupation force ingratiated itself with
 the locals by participating in relief, preservation and
 reconstruction programs. The occupiers sought to
-integrate themselves with Terran culture, becoming
-Terrans themselves as best they could. By 1050, all
+integrate themselves with [[Terra|Terran]] culture, becoming
+[[Terra|Terran]]s themselves as best they could. By 1050, all
 remaining fringe resistance movements had been
 
 History of the Third Imperium
@@ -9228,11 +9228,11 @@ greatest impact on the sector. The Vilani first arrived
 approximately 7,500 years ago and called the sector
 Ukan. They left their mark in many ways, none more
 obvious than the many Vilani-named star systems.
-During the Interstellar Wars, the Terrans invaded
+During the Interstellar Wars, the [[Terra|Terran]]s invaded
 and renamed many worlds, left some names intact
 and corrupted others with Galanglic influences. To
 some extent, the names of the Core's worlds tell
-the tale. The Terrans burst into the First Imperium in
+the tale. The [[Terra|Terran]]s burst into the First Imperium in
 leaps and bounds, annexing and conquering high-
 
 value worlds and leaving lesser worlds in their wake.
@@ -10088,7 +10088,7 @@ The motto of the Perite subsector might very well
 be 'Look to Spinward'. Regardless of its proximity
 to Capital, Perite has a distinctly Vilani flavor. After
 the fall of the Rule of Man three millennia ago, many
-of the worlds in Perite shook off the yolk of Terran
+of the worlds in Perite shook off the yolk of [[Terra|Terran]]
 dominance, in some cases violently, and returned
 to their roots. During the Long Night, populations on
 many worlds collapsed; the societies that remained
@@ -10752,7 +10752,7 @@ commemorate the Annililik Run. The two worlds alternate
 as starting and finish lines for the race; after an Annililik
 Run is completed in one direction, it reverses course the
 next time the event is held. If ever there were a fitting
-interstellar analogue to the ancient Terran fable of the
+interstellar analogue to the ancient [[Terra|Terran]] fable of the
 'Tortoise and the Hare', this race is it. Ships are limited to
 jump-2 and up to 600 tons. The race has dual objectives,
 the first of which is to make the Run in an allotted period
@@ -11846,10 +11846,10 @@ for future development. Few of them were even
 given a proper name other than an alphanumeric
 designation. For this reason, many worlds in the
 subsector do not bear Vilani names but instead those
-of the Terrans, who swept through the subsector
+of the [[Terra|Terran]]s, who swept through the subsector
 as a conquering force during the later stages of
 the Interstellar Wars. Besides naming them, the
-Terrans and subsequent Rule of Man did little with
+[[Terra|Terran]]s and subsequent Rule of Man did little with
 these untapped treasures and they were eventually
 inherited by the Third Imperium who finally began to
 develop them.
@@ -12647,7 +12647,7 @@ products do not disappoint.
 
 While Minosian culture cannot be said to be distinctly
 Solomani, they do possess a certain smugness and
-entitlement that hails back to the age of the Terran
+entitlement that hails back to the age of the [[Terra|Terran]]
 takeover. Minos was a Quarantine World until late in
 the Sylean Pacification Campaign and surrendered
 to Imperial authority only after being threatened with
@@ -12710,7 +12710,7 @@ Almost all of the worlds in the subsector retain their
 original Vilani names with the sole exception being
 Sanches itself. Most believe that the name is simply
 a corruption of Sanshes, a common Vilani surname,
-but it was in fact renamed by Terran Admiral Anatoliy
+but it was in fact renamed by [[Terra|Terran]] Admiral Anatoliy
 
 Sanches, whose naval forces conquered the system
 late in the Interstellar Wars. After setting up shop on
@@ -13433,7 +13433,7 @@ designates who occupy the top five spots.
 
 Artificial intelligence is anathema to most Vilani-
 influenced cultures but Sanches is a unique world.
-It was annexed by the Terrans late in the Interstellar
+It was annexed by the [[Terra|Terran]]s late in the Interstellar
 Wars, oppressed by military rule for centuries and
 was the capital of a Solomani-dominated pocket
 empire during much of the Long Night. Even today,
@@ -15161,7 +15161,7 @@ from many of the extant arcologies speak a local
 dialect as a second language. Lauursha changed
 its name to Shudusham, referencing a resurrection
 story from Vilani lore often likened to the story of the
-phoenix from ancient Terran mythology. Shudushami
+phoenix from ancient [[Terra|Terran]] mythology. Shudushami
 resources and industrial output are given a great deal
 of credit for fuelling the rise of the Sylean Federation
 and its successor, the Third Imperium.
@@ -17821,7 +17821,7 @@ Church of the Chosen Few is thought to have resulted
 from the struggles of the Long Night. Khusgurlu,
 a moon of the system's innermost gas giant, was
 the site of a Vilani colony that was left intact by the
-Terrans during the Rule of Man. The system has
+[[Terra|Terran]]s during the Rule of Man. The system has
 reasonably rich resources in its planetoid belt and
 other gas giant moons (it has no independent planets)
 but Khusgurlu itself is its only marginally habitable
@@ -18008,7 +18008,7 @@ become the norm.
 
 Shipwreck Hunters
 The Sylean Main has been travelled by starships for thousands of years. It was a provincial route for the
-Vilani, a major artery into the First Imperium for Terran conquerors, the site of numerous battles during
+Vilani, a major artery into the First Imperium for [[Terra|Terran]] conquerors, the site of numerous battles during
 the Sylean Federation-Interstellar Confederacy War and now hosts the Core's most valuable trade route.
 Over the millennia, hundreds of ships on the route have been lost during battles, wilderness refuelling
 operations gone wrong, misjumps and other calamities. Celebrity shipwreck hunters ply the route searching
@@ -18056,7 +18056,7 @@ man of the Core'. Its resources have been plundered
 for thousands of years and it has been a bloody
 battlefield more times than anyone cares to remember.
 Perhaps the greatest killer of all was the Plague of
-Duskir, the slew of Terran diseases that wiped out
+Duskir, the slew of [[Terra|Terran]] diseases that wiped out
 billions of Vilani.
 
 With its population in freefall and its economy in
@@ -18813,7 +18813,7 @@ If there is a silver lining to Farhome's dark cloud,
 it is its invention of a musical style called altDirge.
 It is performed by a live band, usually with three to
 five musicians and always includes a bass drum, a
-high-pitched horn similar to the Terran suona and
+high-pitched horn similar to the [[Terra|Terran]] suona and
 an accordion. A snare drum and acoustic guitar are
 usually included to complete the quintet with the
 accordion or guitar player at lead vocals. The lyrics
@@ -19627,7 +19627,7 @@ exhibits in a zoo.
 
 Ushba Sind
 During the Interstellar Wars, Ushba Sind fell under
-the jurisdiction of a Terran Navy sublieutenant
+the jurisdiction of a [[Terra|Terran]] Navy sublieutenant
 who designated the world as a wildlife refuge for
 numerous animal species found throughout Dingtra.
 He noticed that Vilani exploitation had resulted in
@@ -20267,7 +20267,7 @@ kilometers of surface area for habitation.
 At its peak, Ganshas was host to over eight billion
 people, over half of whom died from the effects
 of the Plague of Duskir, the collection of viruses
-and diseases brought to Vilani worlds by Terrans
+and diseases brought to Vilani worlds by [[Terra|Terran]]s
 during the Interstellar Wars. For reasons unknown,
 the Ganshassians were uniquely vulnerable to the
 plague. Ganshas continued to decline in population
@@ -20341,7 +20341,7 @@ pressure carbon dioxide atmosphere, it has gradually
 been transformed into a habitable, self-sufficient
 society with one of the highest populations in the
 sector. During the Rule of Man, the world was
-selected from among several candidates by Terran
+selected from among several candidates by [[Terra|Terran]]
 colonists and was originally dubbed '51 Alpha' using
 the Roman numeral LI and the Greek letter α, which
 was eventually simplified to 'Lia'.
@@ -22719,9 +22719,9 @@ resettled during the Chanestin era, who maintained
 the tradition of giving it a Vilani name but subtly
 changed it to Khii Isis, meaning 'dry home'. There is
 a movement to change the world's name yet again
-to Ekal, which comes from the old Terran language
+to Ekal, which comes from the old [[Terra|Terran]] language
 of Hindi and means 'solo'. The majority of the world's
-current inhabitants are the descendants of Terran
+current inhabitants are the descendants of [[Terra|Terran]]
 immigrants who came from the Indian subcontinent.
 
 Dunea
@@ -22790,7 +22790,7 @@ for tourists who come to see the planet's stark and
 beautiful vistas, and hunt its unusual animals. The
 most elusive of these creatures is the dunvic, also
 known as the 'sandlion'. This 100 kilogram four-
-legged predator resembles a Terran lion in form
+legged predator resembles a [[Terra|Terran]] lion in form
 but is more similar to an armadillo in other regards.
 The dunvic is a stealthy animal with a carapace that
 provides camouflage, making it difficult to find, much
@@ -22878,7 +22878,7 @@ at the dawn of the Third Imperium. Vilani records
 discovered at Shiishuusdar (now Reference) indicate
 this world was once called Riid and was the site of a
 flourishing colony during the era of the Ziru Sirka. It
-was overlooked by the Terrans as they made a mad
+was overlooked by the [[Terra|Terran]]s as they made a mad
 dash through the sector during the Interstellar Wars,
 perhaps noting it on some chart for future settlement.
 The Third Imperium looked upon the world with envy

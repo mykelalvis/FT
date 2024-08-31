@@ -1,0 +1,43 @@
+### VINCENNES
+
+Vincennes is the most famous world in the sector and one of the few whose name is known across the [[Imperium]]. This is in part due to its possession of extremely high technology and partly due to its connection with the infamous Humbolt family.
+
+Vincennes has a modest amount of useable land above sea level but its atmospheric taint and turbulence of the dense atmosphere ensure that only a small proportion of the population live on land. The vast majority dwell in undersea cities, most located on what is sometimes called an undersea continent; a vast area of shallow water with the occasional mountaintop peeking above the surface. This region is normally called the Great Shoal, or just the Shoal.
+
+Settlements located elsewhere on the planet are for the most part of minor importance, with the exception of a handful of gravitic cities. These remain high in the atmosphere, where the pressure is less and effects of weather milder. Although they can go where they please, the cities each tend to remain over a specific region of the planetary surface.
+
+As might be expected, Vincennes is a major exporter of high-technology goods. Only a small amount of TL16 equipment is available and it is very expensive even here at its source. TL15 goods are the staple export of Vincennes and are shipped out in large quantities.  Much of the production process is robotic, from the seabed mines to packing and shipment centres. Almost anything can be done remotely, enabling many Vincenzi to enjoy a lazy lifestyle.
+
+_Travellers visiting Vincennes will have the chance to obtain advanced equipment. Exactly what is on offer at any given time can vary depending on who has the most success in cutting through all the layers of bureaucracy surrounding exports of TL16 gear._
+
+#### HIGH-PERFORMANCE GRAV HARNESS
+
+A03/48956
+A significant advance on early grav belts, the HPGH or 'hug-pug' consists of a belt and shoulder straps that can be adjusted to fit over bulky clothing such as a vacc suit or be worn under a normal jacket. Bulk and weight are only slightly less than a standard grav belt, but a hug-pug offers the user significant advantages over earlier models. Among them is gravitic support for the user; early grav belts work well enough but the wearer tends to suffer a sensation of dangling uncomfortably in the belt with the load concentrated around the waist. This has been compared to the opposite of wearing an extremely heavy tool belt and quickly leads to discomfort. The HPGH version greatly reduces this sensation, reducing operator fatigue.
+
+In addition, an HPGH projects a low-powered field around the user, deflecting rain and small objects as well as reducing wind resistance. The unit cannot fly any faster than a standard grav belt – it is still limited to Medium speed – but flight is much more comfortable and can be sustained for longer. An HPGH can operate for 24 hours before requiring recharging, and has an emergency system built in. This will automatically slow a fall and correct a tumble, unless countermanded by the operator, and will return an unconscious or incapacitated wearer to a prearranged safe location.
+
+Item TL Kg Cost
+High Performance Grav Harness 16 4 Cr250000
+
+#### SENSOR SPIKES
+
+A03/75674
+Sensor spikes are thin, 6cm long spikes designed to be pushed into any surface. A one-use battery generates a cutting field at the sharp end, enabling the spike to be pushed into a rock face or wall without difficulty and a spike can be thrown into a softer surface. Once emplaced, a set of ultra-
+thin fibre antennae are deployed, gathering a range of data and transmitting it in bursts or in real-time transmissions to any designated computer. Their internal power lasts for 48 hours.
+
+Spikes gather optical and thermal data with a tiny camera in the head and monitor the temperature of the surface the spike is embedded in and surrounding air, along with chemical composition, radiation levels and vibrations. A network of spikes can be used to create a perimeter alarm system or gather data for scientific purposes. Most sensors only gather data from within 5m of the spike, although vibrations can be sensed at greater distances depending on intensity. Transmission range is 25m, but a chain of spikes can relay information over almost any distance.
+
+Item TL Kg Cost
+Sensor Spikes (12 pack) 16 - Cr50
+
+#### SMART UTILITY CLOTHING
+A03/79056
+
+All manner of enhanced clothing is available on Vincennes but Travellers are likely to be most interested in the utility ranges. 'Smart' clothing is designed to protect the user from work-related hazards. It is little use against hard vacuum but can deal with a range of other hazards. The typical outfit consists of either trousers and a tunic or a coverall-like garment, well tailored to the user and very lightweight. An additional over-jacket and boots can be bought, doubling the cost of the outfit.
+
+Smart utility clothing stores energy generated by the user's body heat and can use it for a variety of purposes.  Most commonly, the outfit will warm or cool the user, allowing work in environments without the encumbrance of a heavy coat. Temperatures up to 50 Celsius and down to -10 can be tolerated for as long as the suit's energy store holds out. This is usually around 6-8 hours, after which a return to more normal temperatures is required to dump excess heat or store more energy.
+
+In a more hazardous situation, a smart utility garment negates one dice of damage received from high or low temperatures but not concentrated energy sources such as lasers. In addition, smart utility clothing is tough, giving the wearer Protection +1 if no armor is worn, and can be set to generate a low-powered electrical field or ultrasonic vibration that will cause small creatures such as snakes to leave the user alone. The field may interfere with delicate machinery and should not be used in proximity.
+
+Armor ProtectionTL Rad Kg Cost Required Skill Smart Utility Clothing +1 16 0 1 Cr200 None

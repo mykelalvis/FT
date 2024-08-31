@@ -750,7 +750,7 @@ The Darrians devised the Star Trigger, a device for triggering solar flares, but
 The flares caused by the Star Trigger not only scalded their planet but destroyed every piece of electronic equipment in the system. In the ensuing years, the wavefront from the flares spread towards neighboring systems at relativistic speed. As it broke over each world, it destroyed the delicate electronic mechanisms that civilization relied upon. These worlds spent the next century re-establishing themselves and clawing their way back to the stars. By -350 they were back, exploring space within 30 parsecs of their homeworld, searching for valuable resources, trading with indigenous races and refining their own science.
 
 **DARRIAN ORIGINS**
-Three hundred thousand years ago, the Ancients visited Terra, probably several dozen times in the span of a decade. During the first visits, the Ancient scientists took samples of Terran life. For reasons still unclear, they then took sample groups of primitive humans. One of those samples are now called Darrians.
+Three hundred thousand years ago, the Ancients visited Terra, probably several dozen times in the span of a decade. During the first visits, the Ancient scientists took samples of [[Terra|Terran]] life. For reasons still unclear, they then took sample groups of primitive humans. One of those samples are now called Darrians.
 
 In all likelihood, the original Darrians were taken to an Ancients world for testing and evaluation. It is possible there was some co-mingling of the Darrians with other samples. Present day genetic tests, regardless of how advanced they are, provide little confirmation of which samples were mingled with which. After a time, the Darrians were taken to a world and deposited there.
 
@@ -758,7 +758,7 @@ Why the Darrian sample was taken from Terra and transported to a world in the Sp
 
 a single Ancient – identified as Onsorik in Darrian mythology – supervised their transportation and took a fatherly disposition towards them, caring for their needs and protecting them from the dangers of the new world.
 
-The original population was probably no more than 100 individuals in a tribal setting, presumably very similar to one from their original Terran home.
+The original population was probably no more than 100 individuals in a tribal setting, presumably very similar to one from their original [[Terra|Terran]] home.
 
 ### THE ORCHARDS
 
@@ -849,7 +849,7 @@ By -1511, the Darrians had achieved unified peace. They had achieved a global TL
 
 ### THE COMING OF THE SOLOMANI
 
-Unknown to the Darrians, more than 100 parsecs away upheaval and war was taking place. The confrontation between the Ziru Sirka and Terran Confederation eventually led to the collapse of the First Imperium and the formation of its successor, the Rule of Man.
+Unknown to the Darrians, more than 100 parsecs away upheaval and war was taking place. The confrontation between the Ziru Sirka and [[Terra|Terran]] Confederation eventually led to the collapse of the First Imperium and the formation of its successor, the Rule of Man.
 
 The Rule of Man was established in -2204 and collapsed in -1776. For the next 250 years, anarchy and chaos ruined interstellar trade and commerce, brought down old governments and raised new ones. Where they were able, refugees fled in search of new, previously untouched worlds.
 
@@ -1082,7 +1082,7 @@ Darrian History
 The following gathers together the important dates and events in Darrian history.
 
 Date Event
--312,000 The Ancient Onorik transports Terran humans to Daryen for purposes unknown.
+-312,000 The Ancient Onorik transports [[Terra|Terran]] humans to Daryen for purposes unknown.
 -302,000 Ancient bases on Daryen destroyed during the Final War.
 -200,000 Daryen flame pits begin to burn out.
 -100,000 Extensive migrations on Daryen. Basins settled.
@@ -1093,9 +1093,9 @@ Date Event
 -15,000 Rise of the Zlodh Empire.
 -10,000 Basic science becomes widespread. Zlodh Empire gradually fragments into many kingdoms.
 -1520 Solomani Itzen fleet arrives on Daryen.
--1511 Terran traders contact Darrians.
+-1511 [[Terra|Terran]] traders contact Darrians.
 -1410 Darrians begin space exploration.
--1400 Terrans absorbed into Darrian mainstream. Population begins to affect Daryen.
+-1400 [[Terra|Terran]]s absorbed into Darrian mainstream. Population begins to affect Daryen.
 -1395 Initial Darrian exploration spreads through the worlds of the Darrian Group.
 -1370 Jump-2 drives in regular service with Darrian ships, some jump-3.
 -1310 Scientific surveys concentrate on worlds of the Darrian Group.
@@ -2912,7 +2912,7 @@ They were planted on Shiwonee – a high-gravity, dense-atmosphere world with an
 
 Skin tones range from fair to light brown, and they tan or burn when exposed to ultraviolet radiation. Their hair ranges in shades of white, brown, and black, with red tones being almost unknown. Males are able to grow sparse beards and tend to have heavy brows and coarser features than females. Their features are generally thick with wide lips and noses.
 
-Geonee have slightly shorter arms and legs than Terran humans, and their heads are slightly larger. These larger heads have led to increased difficulty in childbirth, meaning a greater number of birthing fatalities.
+Geonee have slightly shorter arms and legs than [[Terra|Terran]] humans, and their heads are slightly larger. These larger heads have led to increased difficulty in childbirth, meaning a greater number of birthing fatalities.
 
 Geonee have a greater percentage of muscle tissue than other humans, making them exceptionally strong on worlds with lower gravity than that of their homeworld. They store very little subcutaneous fat and are therefore more susceptible to cold environments, though they store visceral fat as effectively as other humans. This leads to Geonee having a very 'muscular' appearance.
 
@@ -3415,15 +3415,15 @@ For 200 years, the Geonee were a subject race of the Ziru Sirka. Military occupa
 
 ### THE INTERSTELLAR WARS
 
-In -2408, the Interstellar Wars plunged the Ziru Sirka into conflict with a recently contacted human race from Terra. The Geonee welcomed the Terrans as liberators and when war approached their worlds, they rebelled against the Vilani oppressors and allied with the Terrans. Quickly organised Geonee forces made up a significant portion of Terran forces in Massilia during the later wars and Geonee communities became advance bases and safe ports for Terran military. During this period, Geonee naval forces used thousands of Llyrnians as ship's troops, starting a long tradition of 'Llyrnian Devil Marines' and mercenaries serving on Geonee spacecraft.
+In -2408, the Interstellar Wars plunged the Ziru Sirka into conflict with a recently contacted human race from Terra. The Geonee welcomed the [[Terra|Terran]]s as liberators and when war approached their worlds, they rebelled against the Vilani oppressors and allied with the [[Terra|Terran]]s. Quickly organised Geonee forces made up a significant portion of [[Terra|Terran]] forces in Massilia during the later wars and Geonee communities became advance bases and safe ports for [[Terra|Terran]] military. During this period, Geonee naval forces used thousands of Llyrnians as ship's troops, starting a long tradition of 'Llyrnian Devil Marines' and mercenaries serving on Geonee spacecraft.
 
-After 200 years of intermittent warfare, the declining Vilani Empire was conquered by the Terrans. With the war ended, the Terrans were left in control of a vast territory they were ill prepared to manage. They soon came to rely heavily on Geonee advisors in Massilia.
+After 200 years of intermittent warfare, the declining Vilani Empire was conquered by the [[Terra|Terran]]s. With the war ended, the [[Terra|Terran]]s were left in control of a vast territory they were ill prepared to manage. They soon came to rely heavily on Geonee advisors in Massilia.
 
 ### THE RULE OF MAN
 
 The Second Imperium was established shortly after the end of the Interstellar Wars. In -2200, Hiroshi Estigarribia granted self-government to the Geonee worlds and, together with Llyrn and a few nearby Vilani worlds, the Geonee founded the Geonee Autonomous Region.
 
-For the Geonee, the early Rule of Man was a time of jubilation. The Vilani bureaucracy had been eradicated, and all restrictions on research and technology imposed abolished. The Rule of Man permitted the Geonee to travel freely and settle new worlds. The Terran love of personal independence and initiative fit perfectly with Geonee values.
+For the Geonee, the early Rule of Man was a time of jubilation. The Vilani bureaucracy had been eradicated, and all restrictions on research and technology imposed abolished. The Rule of Man permitted the Geonee to travel freely and settle new worlds. The [[Terra|Terran]] love of personal independence and initiative fit perfectly with Geonee values.
 
 By -2000, several Geonee worlds had achieved TL12, then the cutting edge of technology. Interstellar trade was booming, and the long Vilani occupation all but forgotten. Once again, the Geonee had become a
 
@@ -3431,7 +3431,7 @@ common sight throughout Massilia and beyond. In the following centuries, signifi
 
 ### THE LONG NIGHT
 
-Despite their best intentions, the management of the Second Imperium proved to be too much for the inexperienced Terrans. The year of -1776 is usually seen as the starting of economic collapse of the Rule of Man. The Terrans, not able to maintain an empire of thousands of worlds, were helpless to prevent the recession which destroyed what they had conquered. The Long Night soon descended.
+Despite their best intentions, the management of the Second Imperium proved to be too much for the inexperienced [[Terra|Terran]]s. The year of -1776 is usually seen as the starting of economic collapse of the Rule of Man. The [[Terra|Terran]]s, not able to maintain an empire of thousands of worlds, were helpless to prevent the recession which destroyed what they had conquered. The Long Night soon descended.
 
 The Geonee Autonomous Region was able to maintain interstellar trade for some centuries into the Long Night, but its volume steadily declined until individual worlds were all by isolated. The region had been too thoroughly integrated into both the Ziru Sirka and the Second Imperium to be able to construct a viable interstellar economy alone.
 
@@ -3508,7 +3508,7 @@ The Geonee worlds steadily grew in prosperity again, to the extent that Tlasov h
 
 In 806, the Duke of Shiwonee, Valreega Neowahsee, petitioned the Imperial Navy to return an Ancients starship, the _Bradeeva_ , which was rumored to be in their possession, claiming that the vessel was the property of the Geonee. The Imperial Navy maintained no such vessel existed, despite Geonee arguments to the contrary. A special Moot commission was organised to put an end to the matter, with findings of the commission declaring the _Bradeeva_ did not indeed exist. The Geonee maintain the entire incident has been an Imperial Navy cover-up.
 
-In 990, the Imperium declared war on the Terran Confederation, starting the Solomani Rim War. The Imperium fared badly for the first years of the war as Solomani fleets advanced into Imperial territory. In 992, Emperor Gavin made a personal request to the Duke of
+In 990, the Imperium declared war on the [[Terra|Terran]] Confederation, starting the Solomani Rim War. The Imperium fared badly for the first years of the war as Solomani fleets advanced into Imperial territory. In 992, Emperor Gavin made a personal request to the Duke of
 
 Shiwonee for the Geonee Self Defence Navy to assist Imperial forces. The duke agreed and dispatched the navy with Fleet Admiral Hakur Bokar in command.
 
@@ -3548,9 +3548,9 @@ Date Event
 -5100 Geonee Consolidation War begins.
 -4900 Geonee Consolidation War ends. Vilani defeat the Geonee and Geonee worlds are incorporated into the Ziru Sirka.
 -4100 Most Geonee worlds depopulated and recolonized by Vilani. Geonee communities remain on only approximately 30 worlds in the Massilia sector.
--2408 The Interstellar Wars between the Terran Confederation and the Ziru Sirka begin.
+-2408 The Interstellar Wars between the [[Terra|Terran]] Confederation and the Ziru Sirka begin.
 -2234 Four Solomani battle fleets strike deep into the Ziru Sirka towards the Masslia sector.
--2228 The Geonee revolt against the Ziru Sirka with Terran support.
+-2228 The Geonee revolt against the Ziru Sirka with [[Terra|Terran]] support.
 -2219 The Interstellar Wars end with the collapse of the Ziru Sirka.
 -2204 The Rule of Man begins.
 
@@ -4592,11 +4592,11 @@ Fossil evidence indicates cetacean precursors began returning to the oceans appr
 
 ### GENASSIST
 
-GenAssist was established by the Solomani during the Interstellar Wars period. With their successes against the crumbling First Imperium, the Terrans found themselves acquiring more and more alien worlds. GenAssist was founded to assist in the colonization of new worlds, charging them with the adaption of native Terran life forms to alien biomes.
+GenAssist was established by the Solomani during the Interstellar Wars period. With their successes against the crumbling First Imperium, the [[Terra|Terran]]s found themselves acquiring more and more alien worlds. GenAssist was founded to assist in the colonization of new worlds, charging them with the adaption of native [[Terra|Terran]] life forms to alien biomes.
 
 After a few initial missteps, one of which almost destroyed the natural ecology of Ishimshugli in the Sol subsector, GenAssist began to produce great breakthroughs in the understanding and implementation of genetic engineering techniques.
 
-While scientists at GenAssist were hard at work making physiological modification to Terran livestock, agricultural crops and even humans, a splinter group within the organization began to look at other possibilities. Over the next several decades, under the guidance of Dr Francisco Montes and, later, Dr Victor Haerinck, modifications were made to the brains of several Terran life forms such as cetaceans, pachyderms, ursines and canines. By far, the most successful improvements were made to various cetacean species.
+While scientists at GenAssist were hard at work making physiological modification to [[Terra|Terran]] livestock, agricultural crops and even humans, a splinter group within the organization began to look at other possibilities. Over the next several decades, under the guidance of Dr Francisco Montes and, later, Dr Victor Haerinck, modifications were made to the brains of several [[Terra|Terran]] life forms such as cetaceans, pachyderms, ursines and canines. By far, the most successful improvements were made to various cetacean species.
 
 Early in their research, they abandoned work with the species Orinus orca which, although progressing towards true intelligence very rapidly, was deemed far too large to be easily transported off world. Although some fought the decision, GenAssist directors held fast; the firm's charter specified work was to be aimed at the promotion of offworld colonization.
 
@@ -4798,7 +4798,7 @@ internal cavities, textures invisible to the naked eye and hollows which cause s
 
 Dolphins have a particular love for theatre, both of their own and other races' creation. Dolphin theatre tends to be of the comedic variety and will have a moral lesson intertwined into the play. Traditionally a protagonist is featured suffering a number of humorous misadventures as they ignore tradition, go against nature or ignore the wise words of elders. Dolphins do not remain quiet to enjoy plays but like to join in, catcalling and heckling the performers, all in good humor. While humans may find these plays somewhat contrived and naive, Dolphins take great pride in them.
 
-They have also developed an impressive appreciation for the works of the Terran playwright, William Shakespeare, finding great joy in the perceived follies of the protagonists. All of Shakespeare's works have been translated into the Dolphin language and renditions of these plays draw huge audiences of both Dolphin and human alike, especially those put on by renowned troupes.
+They have also developed an impressive appreciation for the works of the [[Terra|Terran]] playwright, William Shakespeare, finding great joy in the perceived follies of the protagonists. All of Shakespeare's works have been translated into the Dolphin language and renditions of these plays draw huge audiences of both Dolphin and human alike, especially those put on by renowned troupes.
 
 Dolphins also enjoy watching human performances of Shakespeare's classics but other viewers and the actors themselves can find the Dolphin viewing experience to be rather distracting.
 
@@ -5254,7 +5254,7 @@ Options Android (improved), Auditory Sensor (broad spectrum), Drone Interface, L
 (enhanced), Transceiver 500 km
 (improved), Voder Speaker (broad spectrum), Weapon Mount (small), Wireless Data Link
 
-Sea Shepherd: The sea shepherd is a dolphinoid robot that Dolphins use to assist them in herding and guarding schools of marine life. Several sea shepherds will work with a single Dolphin, responding to commands much like a Terran sheepdog to a farmer. Sea shepherds are also capable of guarding schools of marine life and fighting off predators. These robots are quite capable at the tasks they were designed for, and able to respond to quite complex commands, but are easily confused if placed in situations they are not programmed for.
+Sea Shepherd: The sea shepherd is a dolphinoid robot that Dolphins use to assist them in herding and guarding schools of marine life. Several sea shepherds will work with a single Dolphin, responding to commands much like a [[Terra|Terran]] sheepdog to a farmer. Sea shepherds are also capable of guarding schools of marine life and fighting off predators. These robots are quite capable at the tasks they were designed for, and able to respond to quite complex commands, but are easily confused if placed in situations they are not programmed for.
 
 **_Personal Services Bot_**
 
@@ -5650,9 +5650,9 @@ The natural evolution of the Orca is still largely unknown. The earliest fossil 
 day Orca diverged from other cetaceans during the Miocene Epoch (23 million to 5.3 million years ago), corresponding with most other dolphin evolution, which took place near the beginning of the epoch.
 
 **GENASSIST**
-GenAssist, a Solomani corporation responsible for the uplifting of many Terran species, was responsible for the modern Orca, a program designed to produce companions suitable to assist the Solomani in the colonization of alien worlds. An offshoot of the same project that eventually resulted in the sophont Dolphin, the Orca project was begun on Terra but cancelled only eight years later. Officially, the cancellation of the project was due to the cost of the program and size of the animal, which would cause problems when transporting them off planet. Rumors persist however, that fear of such a large creature capable of independent thought and action was the real reason for the cancellation.
+GenAssist, a Solomani corporation responsible for the uplifting of many [[Terra|Terran]] species, was responsible for the modern Orca, a program designed to produce companions suitable to assist the Solomani in the colonization of alien worlds. An offshoot of the same project that eventually resulted in the sophont Dolphin, the Orca project was begun on Terra but cancelled only eight years later. Officially, the cancellation of the project was due to the cost of the program and size of the animal, which would cause problems when transporting them off planet. Rumors persist however, that fear of such a large creature capable of independent thought and action was the real reason for the cancellation.
 
-The project's lead scientist, Rene Hodge, successfully convinced a number of dedicated followers on Sufren (Diaspora sector) to fund the relocation of the project to that planet's unusually (and some say Ancients-manufactured) Terran-like biosphere. There, the project not only thrived but proved to be highly successful and its progeny became a distinctive part of Sufren's culture and heritage.
+The project's lead scientist, Rene Hodge, successfully convinced a number of dedicated followers on Sufren (Diaspora sector) to fund the relocation of the project to that planet's unusually (and some say Ancients-manufactured) [[Terra|Terran]]-like biosphere. There, the project not only thrived but proved to be highly successful and its progeny became a distinctive part of Sufren's culture and heritage.
 
 ### PHYSIOLOGY
 
@@ -5753,7 +5753,7 @@ Orca also enjoy wrestling each other. While it is normally a male activity, fema
 
 ### ZEN
 
-Orca psychology lends itself to seeing things as they are in the here and now. Many have acquainted this outlook as being very similar to the ancient Terran philosophy of Zen Buddhism, although for Orca it is not a philosophy but their psychology. Orca focus on the present, dealing with situations and problems as they arise.
+Orca psychology lends itself to seeing things as they are in the here and now. Many have acquainted this outlook as being very similar to the ancient [[Terra|Terran]] philosophy of Zen Buddhism, although for Orca it is not a philosophy but their psychology. Orca focus on the present, dealing with situations and problems as they arise.
 
 Given a problem, they will focus on studying it from various angles, putting aside their own preconceptions and prejudices to find the true cause or specificity of the issue. They tend to see everything as interconnected into a single whole
 
@@ -5802,7 +5802,7 @@ Apart from Sufren, there are only a few other worlds that have significant Orca 
 Orcana (Gateway sector) also has a significant population of Orca.
 
 Terra (the Solomani Rim), the home of the pre-
-sophont orca has seen a return of uplifted Orca. Modern Orca see their pre-sophont cousins only as animals, a link to their past. They find they have a kinship with them, similar to the kinship Terran humans have with domesticated canines. Orca even train pre-sophont orca to assist in aquafarming. Their close visual similarity does, however, confuse others somewhat, which perturb modern Orca, feeling the differences between the two species is patently obvious.
+sophont orca has seen a return of uplifted Orca. Modern Orca see their pre-sophont cousins only as animals, a link to their past. They find they have a kinship with them, similar to the kinship [[Terra|Terran]] humans have with domesticated canines. Orca even train pre-sophont orca to assist in aquafarming. Their close visual similarity does, however, confuse others somewhat, which perturb modern Orca, feeling the differences between the two species is patently obvious.
 
 Some other worlds have small Orca populations but not significant enough to mention here.
 
@@ -5830,7 +5830,7 @@ In contrast, Orca do not mourn the death of a male in any significant manner. A 
 
 Orca follow no one single religious belief. Some Orca follow religions naturally developed from the veneration of their ancestors into a fully realised system of worship. This religion's name is impossible for non-cetaceans to pronounce but it is most closely translated as 'the Way'. Orca believe that after death, the spirit or soul of female Orca continue to watch over their descendants and bring fortune or misfortune to the family based on how they are honored.
 
-Other Orca have found Terran religions of Asian origin, such as Daoism and Buddhism, to fit with their particular worldview and psychology.
+Other Orca have found [[Terra|Terran]] religions of Asian origin, such as Daoism and Buddhism, to fit with their particular worldview and psychology.
 
 **The Way:** Traditionally, Orca do not keep physical records of their history or culture but commit it to memory and pass it on through song to younger generations. The Way, therefore, has developed regional variations as it has been passed on down the generations, the differences becoming more pronounced among Orca populations, which live on different planets. The exact details of the Way may vary from Orca-to-Orca, and community-to-
 community, but differing denominations share many common beliefs.
@@ -5909,7 +5909,7 @@ The nature of Sufren has posed significant questions among scientific communitie
 Sufren has a temperate and hospitable climate, with average temperatures averaging 12 degrees Celsius and a sea-level air pressure of 1.59 standard atmospheres. The atmosphere consists primarily of nitrogen, oxygen and water vapour with trace amounts of carbon-dioxide and other gaseous molecules. The atmosphere is breathable without assistance, although some visitors may experience some difficulties breathing at lower altitudes until they become acclimatised.
 
 A native lifeform known locally as Marsdust has a significant impact on the planet's atmosphere. A simple airborne spore, Marsdust is a photosynthetic, oxygen producing organism, which thrives on the red spectrum of visible light and reflects orange light. It pervades the stratosphere and mesosphere of Sufren's atmosphere and not only boosts oxygen pressure by almost 0.25%
-but changes the quality of light that penetrates to the surface. By removing much of the red wavelength and reflecting a significant percentage of orange, Marsdust functions as a colour filter. The resulting surface light of Sufren is more white-amber, producing the appearance of a perpetually bright dusk to eyes accustomed to Terran equivalents. The sky of the planet changes colours dramatically as morning and evening approaches, fading from bright greenish-blue to deep blues, greens and purples.
+but changes the quality of light that penetrates to the surface. By removing much of the red wavelength and reflecting a significant percentage of orange, Marsdust functions as a colour filter. The resulting surface light of Sufren is more white-amber, producing the appearance of a perpetually bright dusk to eyes accustomed to [[Terra|Terran]] equivalents. The sky of the planet changes colours dramatically as morning and evening approaches, fading from bright greenish-blue to deep blues, greens and purples.
 
 ### GEOGRAPHY AND TOPOGRAPHY
 
@@ -6464,7 +6464,7 @@ The Orca Homeworld
 
 ### CRESTED SNAGGLEPUSS
 
-The crested snagglepuss is a domestic feline-like predator, one of a small number of snagglepuss species found on the planet, the largest of which approaches the size of a Terran tiger. While very feline in appearance, snagglepi are more like canines in behaviour. They enjoy each other's company and bond well with their owners. Snagglepi do not have retractable claws and capture prey primarily with their bite, gaining their name for their wide mouths, which extend back past their eyes, and by the way their needle-like teeth extend from their lips. The crested snagglepuss has a mohawk growth of hair starting from its head, extending along its back and terminating at the base of its tail. The wild crested snagglepus has a brown and black mottled short coat but the domesticated variety has been bred into a large variety of colours and patterns.
+The crested snagglepuss is a domestic feline-like predator, one of a small number of snagglepuss species found on the planet, the largest of which approaches the size of a [[Terra|Terran]] tiger. While very feline in appearance, snagglepi are more like canines in behaviour. They enjoy each other's company and bond well with their owners. Snagglepi do not have retractable claws and capture prey primarily with their bite, gaining their name for their wide mouths, which extend back past their eyes, and by the way their needle-like teeth extend from their lips. The crested snagglepuss has a mohawk growth of hair starting from its head, extending along its back and terminating at the base of its tail. The wild crested snagglepus has a brown and black mottled short coat but the domesticated variety has been bred into a large variety of colours and patterns.
 
 Animal Hits Speed Crested Snagglepuss
 
@@ -6504,7 +6504,7 @@ Behaviour Herbivore, Grazer
 
 ### WHITELADY
 
-The whitelady, named for its ghost-like appearance, is a sheet-like siphonophore – a colony of tiny specialized polyps working together as a colony – of translucent thinness. Hiding in shadows as a congealed white mass during the day, the whitelady unfurls with the cool of the night and the settling of the first dew. Riding on the early evening winds, it hunts prey, mesmerising intended victims with a faint play of green-white bioluminescence across its undulating surface. The creature envelops its prey, quickly paralysing the victim with glands similar to the nematocysts of Terran jellyfish. The whitelady normally targets small animals and is therefore no threat to adult humans unless handled, although attacks against very small children have been recorded.
+The whitelady, named for its ghost-like appearance, is a sheet-like siphonophore – a colony of tiny specialized polyps working together as a colony – of translucent thinness. Hiding in shadows as a congealed white mass during the day, the whitelady unfurls with the cool of the night and the settling of the first dew. Riding on the early evening winds, it hunts prey, mesmerising intended victims with a faint play of green-white bioluminescence across its undulating surface. The creature envelops its prey, quickly paralysing the victim with glands similar to the nematocysts of [[Terra|Terran]] jellyfish. The whitelady normally targets small animals and is therefore no threat to adult humans unless handled, although attacks against very small children have been recorded.
 
 The Orca Homeworld
 
@@ -6836,7 +6836,7 @@ Bwaps have a shorter life expectancy than humans, with most living to approximat
 
 ### DIET
 
-Bwaps enjoy an omnivorous diet consisting primarily of vegetable matter with small amounts of protein such as fish, insects and amphibians. With the advent of agriculture, Bwaps discovered that preparation improved the taste of food and aided in the absorption of nutrients. Before the use of fire, Bwaps relied on brining or soaking foods in mild acidic solutions as a means of preparation, while salt was used to preserve meat. With the discovery of fire, Bwaps utilised it somewhat in cooking but preferred to maintain their more traditional food preparation techniques. Exposure to an interstellar community and trade brought new types of alien food as well, many of which were introduced into Bwap diet, although Bwaps do not enjoy alcoholic beverages of any sort. Sauces were brought to the Bwaps by the Vilani and were enthusiastically adopted into their cuisine. Terran foods such as lobster, caviar, kale, bok-choy, wom-bok and asparagus are widely enjoyed by Bwaps.
+Bwaps enjoy an omnivorous diet consisting primarily of vegetable matter with small amounts of protein such as fish, insects and amphibians. With the advent of agriculture, Bwaps discovered that preparation improved the taste of food and aided in the absorption of nutrients. Before the use of fire, Bwaps relied on brining or soaking foods in mild acidic solutions as a means of preparation, while salt was used to preserve meat. With the discovery of fire, Bwaps utilised it somewhat in cooking but preferred to maintain their more traditional food preparation techniques. Exposure to an interstellar community and trade brought new types of alien food as well, many of which were introduced into Bwap diet, although Bwaps do not enjoy alcoholic beverages of any sort. Sauces were brought to the Bwaps by the Vilani and were enthusiastically adopted into their cuisine. [[Terra|Terran]] foods such as lobster, caviar, kale, bok-choy, wom-bok and asparagus are widely enjoyed by Bwaps.
 
 ### BWAP FOOD
 
@@ -7062,9 +7062,9 @@ As they grew in position and power, Bwaps were able to find loopholes and except
 Co-operation between Bwaps and the Ziru Sirka would continue until the discovery of a race of humans from the planet Terra who resisted Vilani control and instigated the Interstellar Wars, a series of nine conflicts that lasted more than 200 years and eventually saw the demise of the Great Empire of the Stars.
 
 **THE LONG NIGHT**
-With the culmination of the Interstellar Wars and the fall of the Ziru Sirka, a power vacuum was left that the Terrans, now known as the Solomani, immediately stepped into. This new era, the Rule of Man (historically referred to as the Second Imperium or, less graciously, the Ramshackle Empire), had practically no effect on the Bwaps, who saw it as just the 'proper' unfolding of events. The Solomani had no experience in running an empire the size of the Ziru Sirka and relied on Bwaps to assist in the administration of what they had conquered. Even so, the Gushgus sector remained ungoverned for nine years and interstellar commerce dwindled to almost nothing. A new regional government was established with the arrival of a Terran frigate but the results were generally poor, primarily because the new government had little experience. Only Bwap worlds managed to regain their former positions but this had less to do with the new governance and more to do with Bwap obsession with order.
+With the culmination of the Interstellar Wars and the fall of the Ziru Sirka, a power vacuum was left that the [[Terra|Terran]]s, now known as the Solomani, immediately stepped into. This new era, the Rule of Man (historically referred to as the Second Imperium or, less graciously, the Ramshackle Empire), had practically no effect on the Bwaps, who saw it as just the 'proper' unfolding of events. The Solomani had no experience in running an empire the size of the Ziru Sirka and relied on Bwaps to assist in the administration of what they had conquered. Even so, the Gushgus sector remained ungoverned for nine years and interstellar commerce dwindled to almost nothing. A new regional government was established with the arrival of a [[Terra|Terran]] frigate but the results were generally poor, primarily because the new government had little experience. Only Bwap worlds managed to regain their former positions but this had less to do with the new governance and more to do with Bwap obsession with order.
 
-Terran settlers eventually arrived in the area, the first wave consisting of Solomani primarily of Arab descent. It was during this time that Lentuli was renamed Marhaban, the Arabic word for 'hello'. These settlers became the nobles of the area. Duke Mus'ad eventually renamed the Gushgus sector the Empty Quarter after a barren region from his native Arabia.
+[[Terra|Terran]] settlers eventually arrived in the area, the first wave consisting of Solomani primarily of Arab descent. It was during this time that Lentuli was renamed Marhaban, the Arabic word for 'hello'. These settlers became the nobles of the area. Duke Mus'ad eventually renamed the Gushgus sector the Empty Quarter after a barren region from his native Arabia.
 
 Bwap worlds were becoming increasingly subject to Vargr pillaging during this period. The Solomani government created more and more money to fight off the incursions, which in turn caused inflation to skyrocket and plunged many worlds into financial ruin. Bwap worlds, used to strong Vilani economic policy,
 
@@ -7130,7 +7130,7 @@ Date Event
 -3170 Lentuli given permission by the Makhidkarun Bureaux of the Ziru Sirka to build their own fleet of jump-1 starships.
 -3005 Colonization of Wesawek begins.
 -2800 The Ishimkarun (Shadow Emperor) of the Ziru Sirka grants the system of Lentuli a licence to build jump-2 drives.
--2219 Terrans defeat the Ziru Sirka and found the Rule of Man.
+-2219 [[Terra|Terran]]s defeat the Ziru Sirka and found the Rule of Man.
 -2145 Lentule is renamed Marhaban.
 -1850 Tap-awewaka-atapas become strong enough to protect the four core Bwap worlds of Marhaban, Wesawek, Tapawa and Ka-aswa from Vargr incursions.
 -1850 Bwaps introduce a system of 'hard currency' that outlasts the Rule of Man.
@@ -7168,7 +7168,7 @@ a-a-a-awa-pawabawabawaba is only used on formal occasions whereas Peka-wapawab i
 
 ### MAINWORLD DATA
 
-Marhaban has a 21 hour day and a 358 day year, which is remarkably close to the Terran standard. Marhaban's axial tilt is very small but its orbit is slightly erratic leading to frequent (in geological terms) climate shifts that have had a major impact on Bwaps and their development. The planet has no moon but the suns generate tides of 30–60 centimeters.
+Marhaban has a 21 hour day and a 358 day year, which is remarkably close to the [[Terra|Terran]] standard. Marhaban's axial tilt is very small but its orbit is slightly erratic leading to frequent (in geological terms) climate shifts that have had a major impact on Bwaps and their development. The planet has no moon but the suns generate tides of 30–60 centimeters.
 
 Marhaban has a warm and hospitable climate with temperatures averaging 32oC and a sea-level air pressure of 1.05 standard atmospheres. The atmosphere is composed primarily of nitrogen, oxygen and water vapour, with trace amounts of carbon dioxide and other gaseous molecules making it breathable with humidity averaging 98%. There are no major pollutants or other oddities. Due to the high humidity, weather patterns include a heavy amount of precipitation, with rain occurring on most days throughout the year depending on topographical and seasonal variations.
 
@@ -7617,14 +7617,14 @@ Behaviour Carnivore, Chaser
 
 The Bwap Homeworld
 
-KAPA-BAWABAW The kapa-bawabaw is a large semiaquatic molluscoid the size of a Terran cow that lives in the swamps of Marhaban. They have a thick yellow hide speckled with orange markings and six eyes; two large eyes and four smaller ones. Inside its wide shell-like mouth are three rows of hardened ridges that the kapa-bawabaw uses to chew the vegetation it lives on. Along its underside it has multiple pairs of flipper-like pseudopods that it uses to propel itself through water. In the water the kapa-bawabaw is a graceful swimmer but on land it moves with an awkward humping motion. The kapa-bawabaw was domesticated early in Bwap history and are in general docile. The only exception to this is when the hermaphroditic kapa-bawabaw come into rut and become aggressive and territorial.
+KAPA-BAWABAW The kapa-bawabaw is a large semiaquatic molluscoid the size of a [[Terra|Terran]] cow that lives in the swamps of Marhaban. They have a thick yellow hide speckled with orange markings and six eyes; two large eyes and four smaller ones. Inside its wide shell-like mouth are three rows of hardened ridges that the kapa-bawabaw uses to chew the vegetation it lives on. Along its underside it has multiple pairs of flipper-like pseudopods that it uses to propel itself through water. In the water the kapa-bawabaw is a graceful swimmer but on land it moves with an awkward humping motion. The kapa-bawabaw was domesticated early in Bwap history and are in general docile. The only exception to this is when the hermaphroditic kapa-bawabaw come into rut and become aggressive and territorial.
 
 Bwaps have a number of uses for kapa-bawabaw. They use the mucus from the kapa-bawbaw's hide as both pickling agent and preservative in cooking, the fertilised eggs are considered a delicacy and the hide, when tanned and prepared correctly, is used as material for clothing. Collecting the eggs is a risky endeavor, as brooding kapa-bawabaw are extremely protective. Primitive Bwaps would use the collection of kapa-
 bawabaw eggs as a rite of passage for young males entering adulthood and the rite is still practiced today in a less dangerous, figurative fashion.
 
 ### PAWBAWEPKA
 
-The pawbawepka (known as a 'salamander pug' by humans) is a medium-sized modern amphibianoid carnivore that has become a companion animal to Bwaps, although several related species remain in the wild. Domesticated late in Bwap prehistory, pawbawepka serve the same role for Bwaps that dogs do for humans. They are the height of a medium dog with a brown hide covered with blue markings, four short legs and a long flattened tail that is used for motive force when swimming. Their face is rather flattened, much like a Terran bulldog or pug, but possess no external ears. They feed through the use of a long sticky tongue that captures prey and draws it into their mouth where it is chewed with several rows of sharp teeth before being swallowed. Female pawbawepka lay up to four eggs annually which she keeps in her pouch. When the young hatch they remain in the pouch being fed by their mother until they reach a month old, at which point they leave the pouch. The pups may be removed from the mother at this point but in the wild the young remain with the mother for six months, learning how to hunt and fend for themselves before they are chased away to live a solitary life.
+The pawbawepka (known as a 'salamander pug' by humans) is a medium-sized modern amphibianoid carnivore that has become a companion animal to Bwaps, although several related species remain in the wild. Domesticated late in Bwap prehistory, pawbawepka serve the same role for Bwaps that dogs do for humans. They are the height of a medium dog with a brown hide covered with blue markings, four short legs and a long flattened tail that is used for motive force when swimming. Their face is rather flattened, much like a [[Terra|Terran]] bulldog or pug, but possess no external ears. They feed through the use of a long sticky tongue that captures prey and draws it into their mouth where it is chewed with several rows of sharp teeth before being swallowed. Female pawbawepka lay up to four eggs annually which she keeps in her pouch. When the young hatch they remain in the pouch being fed by their mother until they reach a month old, at which point they leave the pouch. The pups may be removed from the mother at this point but in the wild the young remain with the mother for six months, learning how to hunt and fend for themselves before they are chased away to live a solitary life.
 
 Pawbawepka are covered with a thick layer of fat, which makes them look somewhat plump. Coupled with their tendency to enjoy sleeping most of the day, they are often mistaken as slothful creatures. In reality, while a pawbawepka can sleep upwards of 18 hours a day, they are capable of sudden bursts of speed that belies their short legs and rotund appearance. Domesticated pawbawepka are exceptionally affectionate with their owner but tend to be aloof towards others.
 

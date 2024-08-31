@@ -166,7 +166,7 @@ limited use of robots, employing them only for tasks
 too hazardous for humans to perform. Other societies
 are more open to the advantages of a larger labour
 pool or need to employ robots to make up for deficits
-in personnel; the Terran Confederation employed large
+in personnel; the [[Terra|Terran]] Confederation employed large
 numbers of support robots in the Interstellar Wars
 as they fought against a vastly larger empire. These
 robots built facilities and transported supplies but a
@@ -3150,7 +3150,7 @@ While a unit designed for humans works equally well
 whether the patient is Solomani, Vilani, Zhodani,
 even Geonee or Suerrat, aliens suffer a negative
 DM when attempting to use a system designed
-for Humaniti. For a Vargr or other Terran-evolved
+for Humaniti. For a Vargr or other [[Terra|Terran]]-evolved
 being, this is DM-1. For Aslan, K’kree, Hiver or
 other species with similar biochemistry, this is DM-
 
@@ -14023,7 +14023,7 @@ Slots x3, Transceiver 500km (advanced), Voder Speaker (broad spectrum), Wireless
 **Elvis Performance Double**
 Manufactured by Makhidkarun’s entertainment
 division, this robot is named after a pre-spaceflight
-Terran performer more known for his impersonators
+[[Terra|Terran]] performer more known for his impersonators
 than any of his lost recordings. Very few of these
 androids are actually duplicates of Elvis but a wide line
 of impersonation robots provides copies of past and
@@ -14141,7 +14141,7 @@ Spectrum Sensor, Voder Speaker, Wireless Data Link
 **Synthetic Horse**
 On worlds where vehicles are prohibited or restricted,
 Travellers are often forced to rely on animal
-transport. The Terran horse is a common form of
+transport. The [[Terra|Terran]] horse is a common form of
 animal locomotion across regions of Charted Space
 with any Solomani heritage. Riding a horse is a
 particular skill that most members of a technological

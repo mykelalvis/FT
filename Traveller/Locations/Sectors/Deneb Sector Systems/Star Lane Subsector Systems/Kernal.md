@@ -1,0 +1,7 @@
+### KERNAL
+
+Kernal is a warm and fertile world, with large agricultural surpluses sold across the subsector. Its starport almost always has at least one 'grain ship' (a general term for a bulk agricultural transport) in dock and smaller vessels can usually find cargoes of high-value luxury foodstuffs on offer.
+
+Kernal has a population of around three million humans in addition to around 27 million members of the indigenous sentient species, the Yafizethe. The horrifically complex politics of the Yafizethe have led to them becoming extremely skilled diplomats sought out by clients in distant reaches of space.
+
+The world was only united under a single government in the last century. Before this it was subdivided into small nations and city-states, which were often in conflict with one another. Coming to an agreement over central governance was a herculean task made more impressive by the fact that there was no overwhelming external threat to motivate a move towards unity. The Yafizethe simply decided amongst themselves that their interests were best served by becoming a world state. Opponents were talked around over the decades, although there has been some conflict and the occasional insurgency flares up.

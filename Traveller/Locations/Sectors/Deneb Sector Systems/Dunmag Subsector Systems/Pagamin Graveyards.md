@@ -1,0 +1,5 @@
+#### The Pagamin Graveyards
+
+[[Pagamin]], in [[Dunmag Subsector|Dunmag]], was the site of a major naval battle in close orbit. The region around the mainworld is designated a war grave, as are cemeteries on-planet where the dead are laid to rest. Dozens of wrecked ships still orbit [[Pagamin]], slowly being salvaged by licensed operations who must extract the bodies of their crews with due ceremony before beginning work on the vessel.
+
+It is known that unlicensed scavengers also pick over the starship graveyard, seeking components or valuables for resale. These crews are less than respectful of the living and dead alike; fights between licensed salvage crews and scavengers are not uncommon. Rumors abound that the base on Pagamin that was at the center of the battle contained something both sides were desperate to deny the other and that [[Pagamin]] was pounded flat from orbit to eliminate it. If so, some trace of whatever it was might be found aboard one of the wrecks.

@@ -1,0 +1,19 @@
+---
+date created: 2024-08-30 09:44
+---
+### IANIC
+Ianic is on the Spinward Main, though it is not a world of any great importance, just somewhere vessels pass through on voyages. The world is a small dustball almost entirely devoid of surface water but it has a standard atmosphere.
+
+Like most desert worlds, Ianic is not an endless sea of dunes; in between are mountains, rocky badlands and areas of semi-desert where there is just enough water to support life. There are even a couple of very small seas, which would be lakes on any other world. Oases are not uncommon where underground water reserves well up close to the surface.
+
+Overall, much of Ianic is not habitable without starship-grade recycling and imports of fresh water and food.  However, the world supports a population numbering in the millions. There are a few large groupings but most of the population are spread out across the surface in small towns supported by deep wells or the few natural watercourses. Government is officially by a bureaucratic system descended from the original colonial administration, yet in practice the world government controls only the region around the capital and what passes for a starport, not much more than a few low concrete bunkers beside a flattened landing area.
+
+Fuel is not available at the port, as such, but water can be obtained from the saltwater lake nearby and processed to make liquid hydrogen. A hefty Cr250 landing fee is levied at the port, payable whether or not ships take on water, as the locals view water as one of their world's most precious resources and tax all visitors to offset the loss.
+
+About 30% of the population are [[Jonkeereen]], living separately to the mainstream humans for the most part. Jonkeereen were originally adapted from humans to colonize the world of [[Jonkeer]] in [[Deneb Sector]] and have spread to many other worlds, to be encountered across the [[Imperium]]. Those Jonkeereen whose home regions lie close to the capital are governed from there.  The remainder, like many of the mainstream human settlements, are too far away for effective governance and go their own way.
+
+There is little friction between Jonkeereen groups and other humans, although there is little integration either.  Both have different ways of doing things and a tendency to ignore one another. Ianic is big enough for everyone, even if most of its land is uninhabitable.
+
+Observers have occasionally expressed puzzlement that Ianic, a mid-tech world with a Class E starport, has its own spur of the [[x-boat]] network. Although there is officially no scout base present in the system, Ianic is used for two important and related purposes by the [[Scout Service|IISS]].  The Ianic system is used as a storage point for x-boats and supporting tenders not in current service, plus a number of couriers with various capabilities. There are several reasons for this; one is simply to have extra boats and tenders ready to feed into the network when needed but, more importantly, there are a number of emergency/urgent message protocols in place. A single courier, most likely from the [[Imperial Navy|naval base]] at [[Adabicci]] or [[Lunion]] itself, arriving in the Ianic system can trigger what some scouts refer to as the Ianic Panic, sending x-boats and fast couriers off in all directions with the message aboard. This is normally used for great emergencies, such as the outbreak of the [[Fourth Frontier War]].
+
+This large collection of communications and support ships is not based on Ianic itself but orbits one of the system's gas giants, with a central station coordinating all approaches and departures as well as acting as an accommodation center. The scouts have little to do with Ianic proper, although sometimes personnel conduct desert-survival training on the surface.

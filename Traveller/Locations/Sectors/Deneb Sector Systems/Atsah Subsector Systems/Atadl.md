@@ -1,0 +1,7 @@
+### ATADL
+
+Located close to the main trade lanes, Atadl is a high-population, high-tech world that exports goods across the sector and far beyond. Its two billion or so inhabitants are mostly Vargr, with a few humans and other species. Society is very much outward-looking; Atadl considers itself a part of the wider universe and attempts to exert influence wherever possible.
+
+The world has strong ties with Tukera Lines, which maintains a recruitment center and training academy at the starport. Naturally, it is a matter of pride to produce the best graduates and highest proportion of successful applicants, and thus the 'Tukera mindset' is prevalent throughout Atadl society. Education and art reflects spacer culture, with a strong corporate bias.
+
+This attitude is not without its opponents. There is a growing movement resisting the corporate-service lifestyle, with bohemian communities of artists, free thinkers and dropouts surrounding influential figures or frequenting certain social establishments. These 'reactionary bars' have become chic places for daring young Vargr to be seen flouting their society's norms – just a little – but are not seen as subversive or a threat to the stability of Atadl's well entrenched social order.

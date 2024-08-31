@@ -1,0 +1,8 @@
+# PAGAMIN
+
+Pagamin is a small, dry world located close to Dunmag, and at one time prospective capital of the subsector.  Never heavily populated, Pagamin was a base during the bad war of the 600s and extensively bombarded from orbit using deadfall ordnance. The degree of overkill was enormous, suggesting that Pagamin was a broad hint to other worlds of the consequences of continued opposition.
+
+As usual, the Humbolts are blamed for the atrocity but it is unclear which faction delivered the fatal blows. It is known that Pagamin did not fall easily. The Battle of Pagamin claimed several major warships from both sides before the Humbolts' fleet broke through to the planet. Some accounts claim they landed troops and captured the world, although its significance is unclear.
+These accounts have it that the Humbolts were then defeated in a second space battle and their groundside forces obliterated from orbit along with whatever was so important on the surface.
+
+Close orbit around Pagamin is a graveyard of decaying wrecks. Some have been salvaged by specially licensed vessels operating out of the world's very basic starport, but most were simply towed to a safer orbit and left there. The whole orbital sector is a designated war grave, and since the only reason Pagamin has a port is to salvage these ships, those without a pressing need do not go there. It is a utilitarian and rather grim place, surrounded by military cemeteries where the vacuum-preserved bodies of crews are laid to rest with perfunctory but solemn services.

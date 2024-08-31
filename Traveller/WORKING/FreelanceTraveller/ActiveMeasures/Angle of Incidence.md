@@ -170,7 +170,7 @@ The system consists not only of the black hole, but two gas giants, an asteroid 
 
 ### X
 
-A researcher surmises that an [[The Ancients|Ancient]] site exists in the black hole; why else would the Imperium devote a whole research station to studying it?
+A researcher surmises that an [[Ancients]] site exists in the black hole; why else would the Imperium devote a whole research station to studying it?
 
 ### Y
 
@@ -282,7 +282,7 @@ The station orbits the black hole in a complicated and largely computer-controll
 
 Through the use of probes, [[#Ogele]] has determined that the object is a Kerr (rotating) black hole. The rotation produces an ellipsoidal field of energy (an ergosphere) around the event horizon. The ergosphere is key to his plan.
 
-Through a combination of his personal fortune and misappropriation of Imperial funds, [[#Ogele]] installed a cutting-edge, [[Darrian]]-built jump drive aboard the station and supplemented it with an auxiliary jump grid. This “phase drive”—as [[#Ogele]] refers to it—is designed to hold the station in a phased state between normal space and jumpspace, existing in both and neither at the same time. The phase drive also causes two effects: localized relativistic effects, and an energy resonance that allows the vessel to “skip” across the ergosphere like a flat stone across water.
+Through a combination of his personal fortune and misappropriation of Imperial funds, [[#Ogele]] installed a cutting-edge, [[Darrians]]-built jump drive aboard the station and supplemented it with an auxiliary jump grid. This “phase drive”—as [[#Ogele]] refers to it—is designed to hold the station in a phased state between normal space and jumpspace, existing in both and neither at the same time. The phase drive also causes two effects: localized relativistic effects, and an energy resonance that allows the vessel to “skip” across the ergosphere like a flat stone across water.
 
 The entire plan involves powerful computing, split-millisecond timing, bleeding-edge technology, a critically-precise approach vector, and a lot of luck. During the operation of the phase drive (which lasts for only a few minutes), the sensors search for a specific energy signature indicating the formation of a momentary wormhole. Once one is found, the phase drive field is used to “skip” across the ergosphere and carom the station into the wormhole. At the exact moment of contact, the station's conventional jump drive is engaged, allowing the vessel to pass through what would normally be an impassable barrier without being precipitated out into normal space. The effort will result in a massive misjump, but the crew will survive.
 

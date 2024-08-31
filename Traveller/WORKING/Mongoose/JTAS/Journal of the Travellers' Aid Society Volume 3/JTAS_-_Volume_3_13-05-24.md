@@ -161,7 +161,7 @@ Reach 2411 C431210-B).
 - Provide work for prospective settlers – there is no infrastructure
     project quite like a terraforming project!
 
-Cordillon was named for its plethora of 'cordillera', an ancient Terran
+Cordillon was named for its plethora of 'cordillera', an ancient [[Terra|Terran]]
 word from the Spanish language for long chains of mountain ranges.
 Cordillon's ranges cross, collapse together or combine in semi-parallel
 courses all over the surface of the planet. The small world has 31 tectonic
@@ -172,7 +172,7 @@ ejecta goes straight into the vacuum of space, reclaimed by Cordillon's
 gravity over time.
 
 Cordillon has no oceans and only one large sea called the Caratossidis,
-thought to be named for an ancient Terran explorer whose people
+thought to be named for an ancient [[Terra|Terran]] explorer whose people
 colonized the planet millennia ago but the true origins of the name are
 lost in antiquity. In addition, the planet has several lakes and moderately
 sized river systems. Geological surveys have discovered that beneath the
@@ -215,7 +215,7 @@ but the planet does feature more than a dozen hardy grasses, most of
 which grow in broad plains next to or near its bodies of water. Somewhat
 further removed from water are hardier species including unique red and
 orange 'cactuses'. Calling this species a cactus is a misnomer but its
-familiar appearance to Terran cactuses could not be ignored and the
+familiar appearance to [[Terra|Terran]] cactuses could not be ignored and the
 name stuck. It differs from a cactus in that it contains little water and has
 several adaptations to deal with increased exposure to stellar radiation.
 ```
@@ -6188,10 +6188,10 @@ IVORY GAZELLE
 The ivory gazelle has an unknown planet of origin. Adult gazelles weigh
 between 60 and 80 kilograms, depending upon exact subspecies. Aside
 from their leg arrangement, they are externally very similar to many
-Terran ungulates, which has led some authorities to speculate that they
-might be the result of genetic tinkering from basic Terran stock. Certain
+[[Terra|Terran]] ungulates, which has led some authorities to speculate that they
+might be the result of genetic tinkering from basic [[Terra|Terran]] stock. Certain
 details of their internal arrangements, however, casts doubt upon this
-theory, as they resemble no known Terran form.
+theory, as they resemble no known [[Terra|Terran]] form.
 ```
 
 ```
@@ -6199,17 +6199,17 @@ The skeleton is made of a white substance similar to ivory in appearance
 and consistency, which (in both sexes) protrudes from the skin of the
 skull to form paired horns. There are three pairs of legs, attached to
 a dorsally located spinal column. Respiratory and circulatory systems
-follow Terran norms.
+follow [[Terra|Terran]] norms.
 ```
 
 ```
-The chief departure from Terran characteristics is in the digestive
+The chief departure from [[Terra|Terran]] characteristics is in the digestive
 system. Although possessing many of the characteristics of mammals,
 the ivory gazelle has a digestive system with many features of that of
 birds. The mouth has no teeth but has two pairs of opposed shear-
 like structures (one on each side of the mouth) and a long, prehensile
 tongue. The grasses and soft shrubs upon which the ivory gazelle
-feeds are cropped off and swallowed whole, as with Terran ruminants,
+feeds are cropped off and swallowed whole, as with [[Terra|Terran]] ruminants,
 but instead of being regurgitated and chewed at a later time, the food
 is passed through a series of giz zards, where it is ground up by stones
 swallowed for the purpose.

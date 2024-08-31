@@ -1,0 +1,5 @@
+### SEGAN
+
+Segan is known to have been terraformed at some point in the distant past, by unknown entities. The result was an extremely arid but borderline habitable planet with no life of its own. All species currently present were transplanted by the terraformers or later arrivals including humans and Vargr. These species included the Segani, a minor race who are intolerant of jump travel.  Their original place of origin has never been determined and probably lies outside of Charted Space.
+
+Segan's location on the x-boat route ensures its port sees large volumes of through-trade and it is a major hub for commercial traffic in the local cluster. A jump-4 service is maintained to Kiirindor, with a few jump-3 vessels proceeding to Torm and the surrounding worlds in Dunmag by way of gas giant refuelling at Erita. This is considered something of an adventure by first-time space travellers. Despite skimming operations being quite routine, there is a small element of danger, and thus excitement, which is not to be had during the usual port-to-port transits made by commercial starships.

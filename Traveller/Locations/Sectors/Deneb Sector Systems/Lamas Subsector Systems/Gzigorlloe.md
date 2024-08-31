@@ -1,0 +1,7 @@
+### GZIGORLLOE
+
+Gzigorlloe is a moon of the gas giant Zukou. Its trace atmosphere provides little or no protection from meteorites and cannot prevent the temperature plunging at night. During the day, chemicals can be seen subliming off the surface of Gzigorlloe's ice lakes, although the temperature does not stay warm enough to have liquid water for long.
+
+Gzigorlloe was colonized by a number of Vargr corsair bands, each of which created its own stronghold far from the others. Some settlements grew large enough to develop some industry, usually supported by local mining, but for the most part were bases rather than homelands. Gzigorlloe gained a reputation as a 'corsair moon' for a time, until the Imperial Navy launched a series of major assaults in the late 1090s. One-by-one, the corsair bases were smashed, some so badly that they were never repopulated.
+
+Today, the remaining settlements are run by Vargr gangs, some of which are involved in smuggling or piracy but on a much smaller scale than before. Each settlement has its own small spaceport of sorts and there are no overland links between communities; space vessels or grav vehicles are used for what little contact they have with one another. The central starport is regularly fought over or subject to surprise landgrab attempts, making it an unhealthy place to visit.

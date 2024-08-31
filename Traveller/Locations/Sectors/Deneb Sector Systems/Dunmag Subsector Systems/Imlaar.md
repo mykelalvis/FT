@@ -1,0 +1,7 @@
+# IMLAAR
+
+Imlaar is an agricultural world notable as a stopover for jump-2 ships crossing the central region of Dunmag.  Its day-cycle is unusual due to interactions with the system's type K (orange dwarf) companion star. The amount of additional light and energy from this star varies over time, whilst the central G type (yellow dwarf) provides more constant light.
+
+This results in complex seasonal changes, making farming a difficult prospect for those without the requisite knowledge. The agriculturalists of Imlaar have been working their land for many generations and have an almost instinctive understanding of it, switching from fast-growing high-yield crops to hardy staples across seasons. Imlaar's agricultural output is thus greater than its population would normally be expected to achieve.
+
+Imlaar's central port is one of many export stations for its produce and occasionally overrun by livestock when one of the industrial-sized holding areas is left unattended. Huge warehouses full of grain make good money for the world's people but hardly inspire excitement in visitors. Most ships refuel and move on, perhaps picking up some quality steak for the next leg of the journey but rarely stopping for longer than necessary.

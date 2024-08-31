@@ -136,7 +136,7 @@ The computer view of the complex indicates no obvious points of entry into the p
 
 3. Either of the stairways may have some indication of a concealed doorway. Regardless of how long these areas are checked, they will reveal nothing; but no definite proof will surface that there is no entry present. The referee should roll (secretly, and disregarding the outcome) for each five minutes spent checking. A doorway may be discovered in the long stairway from the inside (at [[#^location-1|location 1]]) and forced open (from inside, by a combined strength characteristic of 13+).
 
-4. As in Terran pyramids, a shaft entrance may be concealed on the face of one or more of the pyramids, probably in shadow. Such a search will prove fruitless.
+4. As in [[Terra|Terran]] pyramids, a shaft entrance may be concealed on the face of one or more of the pyramids, probably in shadow. Such a search will prove fruitless.
 
 5. Finally, the flat upper surface of the small pyramid may have some sort of entry. It does not, although the surface does have a temperature substantially higher than the environment (about 100 degrees C, the boiling point of water).
 
@@ -323,7 +323,7 @@ The juvenile form reaches a maximum length of from 75 to 100 cm, and a maximum o
 
 The male reaches a maximum size of about 40 cm, weighing from 3 to 6 kg. Like the juveniles, the males are covered with scales, but in mature forms, these are finer and covered with a thin, tough outer layer of skin.
 
-Females are usually about 60 cm in length, with a wingspan of 100 to 120 cm. They typically weigh from 6 to 12 kg. The wings are formed from the· thin outer skin stretched over a framework of thin bones, in a manner similar to the Terran bat or the macropan screamer-in-the-darkness. This form, like the male, feeds on the juvenile, making this organism the only known case of an animal feeding solely off its own young.
+Females are usually about 60 cm in length, with a wingspan of 100 to 120 cm. They typically weigh from 6 to 12 kg. The wings are formed from the· thin outer skin stretched over a framework of thin bones, in a manner similar to the [[Terra|Terran]] bat or the macropan screamer-in-the-darkness. This form, like the male, feeds on the juvenile, making this organism the only known case of an animal feeding solely off its own young.
 
 ## Seismic Tremors
 

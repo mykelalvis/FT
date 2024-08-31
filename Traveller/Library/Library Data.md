@@ -9,7 +9,7 @@ Originally settled by the descendants of hotel staff, Alell has become a rich an
 
 # Ancients
 
-Colloquial name for a species of aliens that lived 300,000 years ago. Comparatively little is known about the Ancients. They are believed to be responsible for transplanting Humaniti from its original homeworld of Terra (see Solomani Hypothesis) and scattering the species across hundreds of planets. They are also believed to have uplifted the Vargr from Terran canines. The Ancients had an exceedingly high level of technology and many of their artefacts are millennia beyond even cutting-edge Imperial science. Estimates of high end Ancients technology place them beyond TL25.
+Colloquial name for a species of aliens that lived 300,000 years ago. Comparatively little is known about the Ancients. They are believed to be responsible for transplanting Humaniti from its original homeworld of Terra (see Solomani Hypothesis) and scattering the species across hundreds of planets. They are also believed to have uplifted the Vargr from [[Terra|Terran]] canines. The Ancients had an exceedingly high level of technology and many of their artefacts are millennia beyond even cutting-edge Imperial science. Estimates of high end Ancients technology place them beyond TL25.
 
 Several Ancients sites have been discovered across Charted Space, especially in the Spinward Marches. Curiously, the technology at these sites varies considerably, suggesting different Ancients groups pursued radically different paths of development. Furthermore, most Ancients sites show signs of damage consistent with orbital bombardment or other violence; there are also anomalies in other systems that can be explained only by the use of weapons that destroyed entire planets. These facts, coupled with the sudden disappearance of the Ancients from known space, have given rise to Ancients Extinction Theories.
 
@@ -93,7 +93,7 @@ The creatures reproduce by depositing egg sacs in hollows in trees. The larval l
 
 # Llellewyoly
 
-The Llellewyoly are a minor race native to Junidy in the Aramis subsector of the Spinward Marches. They are nicknamed 'Dandelions' or 'Dandies', as they resemble a two-meter-tall version of a Terran plant, with five stalk-like limbs that are used for manipulation, movement and sensing. Llellewyoly are highly intelligent and have excellent memory recall and organizational skills, possibly as a result of their incredibly complex social structure. A Llellewyoly possesses dozens of formal titles simultaneously and addressing it by the wrong title is a grievous insult. They are rarely encountered outside their homeworld.
+The Llellewyoly are a minor race native to Junidy in the Aramis subsector of the Spinward Marches. They are nicknamed 'Dandelions' or 'Dandies', as they resemble a two-meter-tall version of a [[Terra|Terran]] plant, with five stalk-like limbs that are used for manipulation, movement and sensing. Llellewyoly are highly intelligent and have excellent memory recall and organizational skills, possibly as a result of their incredibly complex social structure. A Llellewyoly possesses dozens of formal titles simultaneously and addressing it by the wrong title is a grievous insult. They are rarely encountered outside their homeworld.
 
 # Maleficent
 

@@ -1,0 +1,10 @@
+# SHINORASUS
+
+Shinorasus falls into the category of a 'handy gravity well' rather than inhabited world. A small community on the surface works mainly in ice-mining plants, harvesting ice from the world's poles and deep craters for cracking liquid hydrogen. Some of these plants are permanent; others are crawlers or large grav vehicles that proceed from one ice field to another when the extracted hydrogen has run dry. There is a landing field at each of the larger installations but Shinorasus could not be said to have a starport as such.
+
+The orbital port is another matter. It is arguably the best starport in the subsector, with extensive trade and freight-handling facilities. Unfortunately, these stand largely idle. Shinorasus starport was constructed by a consortium of shipping companies and business factors to take advantage of the very large investment expected in the area. This never materialised and the smart money got out after a few years. What is left is a grand shell gradually being cannibalised to keep up appearances.
+
+Most ships that use the port are small traders rather than the high-volume freightliners it was intended to service.  These bring in revenue but nowhere near enough. Likewise the shipyards, intended to construct large vessels for corporate clients, take what work they can get. The port's lifeline in recent years has been a contract to build low-cost patrol vessels for various world governments. Even this has been threatened at times, as similar ships are available elsewhere at more attractive prices
+
+There are segments of the port still supplied with power and air but which are largely abandoned other than by technical crews looking for components to salvage.
+These segments are occupied by an unknown number of transients, living 'off the grid' yet still having access to the port's datanet and facilities.

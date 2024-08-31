@@ -308,7 +308,7 @@ Tktk is a very dry world, with little vegetation. It would be an exaggeration to
 
 **These insidious little creatures will turn out to be quite a nuisance if the travellers encounter them.**
 
-**Bomb bugs are a fairly large insect species, about the size of a Terran junebug, and live in hives where they produce a tar-like substance of unknown chemical make-up.**
+**Bomb bugs are a fairly large insect species, about the size of a [[Terra|Terran]] junebug, and live in hives where they produce a tar-like substance of unknown chemical make-up.**
 
 **If their habitat is encroached upon, they have several defenses. The first of which is employed on higher level mammalian and other intelligent species. Bomb bugs congregate en masse, in a group of about 20-30, and collectively give off psychotropic pheromones.**
 
@@ -320,7 +320,7 @@ Tktk is a very dry world, with little vegetation. It would be an exaggeration to
 
 **If the invaders persist and refuse to leave, the bomb bugs exhibit their namesake, randomly selecting an individual, congregating near his or her body, and exploding in an act of self-sacrificial defense for the hive. The explosion is fairly loud and gooey, releasing a mild acid, and causing 3D damage to the victim. Armor protects the individual, but the acid will slowly eat through the armor, rendering it ineffective, over the course of a few days unless an industrial solvent is used to clean it off.**
 
-Tktk has several rodent and reptile species, but nothing much larger than a Terran iguana. A few of the reptilian species are poisonous. There are also several insect species, some of which sustain themselves on blood
+Tktk has several rodent and reptile species, but nothing much larger than a [[Terra|Terran]] iguana. A few of the reptilian species are poisonous. There are also several insect species, some of which sustain themselves on blood
 (e.g., the Tktk tic) and one highly unusual hive-based insect (known as “the bomb bug”) that the travellers might encounter (see "Bomb Bugs," on this page). There are no large predatory animals to speak of, but the planet's harsh conditions and the omnivorous tktk seem to successfully keep the fauna population at bay.
 
 As the travellers are likely to spend at least one night in the outback on their way to the dig site, they might encounter either a poisonous reptile, the Tktk tic, or the bomb bug. A first aid application addresses any wound received, but a traveller with Survival skill endures the experience better. If bitten or otherwise injured by any of the listed creatures, have the traveller make an Average (8+) Survival check. If the roll is made, the traveller is able to tough it out with no lingering effects provided they receive first aid.
@@ -607,7 +607,7 @@ No matter what the outcome is of this adventure, it stands to reason that things
 
 Whether or not you proceed from "The Tktk Convergence" to the next chapter in the story or not, the Dustbelt will never be the same after the events in this story, and your travellers play a big part in the event and where things go from here.
 
-If you look closely at Tktk while approaching from afar, you can see the planet's bristly spires jutting from its surface. The most magnificent of these, the “Grand Spires of Tktk” extend all the way into the vacuum of space. The spires, comprised of calcified metal and graphite, ascend many kilometers upward, the largest of which give the world a fuzzy or hairy appearance from close orbit. Some liken it to a Terran kiwi or coconut. Also noticeable is the planet's oblong shape. Tktk is a flattened sphere, approximately 8% wider along its equatorial axis than its polar one.
+If you look closely at Tktk while approaching from afar, you can see the planet's bristly spires jutting from its surface. The most magnificent of these, the “Grand Spires of Tktk” extend all the way into the vacuum of space. The spires, comprised of calcified metal and graphite, ascend many kilometers upward, the largest of which give the world a fuzzy or hairy appearance from close orbit. Some liken it to a [[Terra|Terran]] kiwi or coconut. Also noticeable is the planet's oblong shape. Tktk is a flattened sphere, approximately 8% wider along its equatorial axis than its polar one.
 
 Tktk's thin and clingy atmosphere resides mostly in its numerous river valleys and cave systems, with a dusty taint that gives it a misty, fog-like appearance in places. When climbing Tktk's larger hills or mountains, the atmospheric pressure dissipates precipitously, necessitating an upgrade in breathing apparatus from filter mask to respirator. If travelling in the outback, it's wise to carry both.
 

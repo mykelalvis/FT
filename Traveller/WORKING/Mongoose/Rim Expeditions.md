@@ -432,7 +432,7 @@ systems beyond that, the nations of Terra did not at first
 comprehend how much the jump drive would change
 their view of the universe.
 
-In -2425, the Terrans launched their first interstellar
+In -2425, the [[Terra|Terran]]s launched their first interstellar
 mission. The was the American vessel StarLeaper 1.
 Its destination was Barnard’s Star rather than Alpha
 Centauri, so as not to upstage the sublight missions
@@ -455,26 +455,26 @@ jump drive themselves. They used this technology to
 expand through a vast region of space, encountering
 conquering and assimilating many other human and
 alien civilisations in the process. By the time they
-encountered the Terrans, their society had stagnated.
+encountered the [[Terra|Terran]]s, their society had stagnated.
 There were no significant threats along the borders,
 just a few spacegoing barbarian cultures that could be
 kept in line or swatted by local forces.
 
 The Vilani were entirely complacent about these new
-spacefarers in their primitive vessels, whilst the Terrans
+spacefarers in their primitive vessels, whilst the [[Terra|Terran]]s
 were galvanised into action. Nations expanded their
 space forces and began building military and civilian
 starships, opening trade links with the Vilani Imperium.
 Although the Vilani were two Tech Levels ahead of
-the Terrans’ TL9, a rush to reverse-engineer devices
+the [[Terra|Terran]]s’ TL9, a rush to reverse-engineer devices
 bought from the Vilani – not always through the proper
 channels – permitted rapid development.
 
-Conflict was inevitable. The Vilani viewed the Terrans
+Conflict was inevitable. The Vilani viewed the [[Terra|Terran]]s
 as backward and unpromising, at best a market
-for Vilani goods. The Terrans reasoned that it was
+for Vilani goods. The [[Terra|Terran]]s reasoned that it was
 inevitable they would be assimilated and prepared to
-resist. The Terran habit of trading with anyone they
+resist. The [[Terra|Terran]] habit of trading with anyone they
 pleased rather than following Vilani trade protocols
 angered Imperial officials, whilst a growing movement
 on Terra demanded a ‘fair share’ of local star systems.
@@ -482,20 +482,20 @@ on Terra demanded a ‘fair share’ of local star systems.
 ‘EXPLORATION’ OF THE IMPERIUM
 Conflict began in -2408, with what the Vilani Imperium
 considered a minor border incident. In response, a
-punitive expedition was sent to put the Terrans in their
+punitive expedition was sent to put the [[Terra|Terran]]s in their
 place and did so easily. The uncoordinated forces of
-various Terran nations were easily overwhelmed by a
+various [[Terra|Terran]] nations were easily overwhelmed by a
 Vilani flotilla of minor patrol vessels and escorts, which
 returned home confident the barbarians had learned
 their lesson. They had but not the one the Vilani
 Imperium had intended to teach.
 
-To the Terrans, it was the worst-case scenario – war
+To the [[Terra|Terran]]s, it was the worst-case scenario – war
 with the mighty Vilani Imperium. National forces
 attempted to strike back, inadvertently confusing the
 Vilani strategists. Different design philosophies and
-ship tactics made it hard to predict what the Terrans
-might do and whilst the forces of the Terran nations
+ship tactics made it hard to predict what the [[Terra|Terran]]s
+might do and whilst the forces of the [[Terra|Terran]] nations
 were generally defeated, they were not crushed.
 Lessons were learned about Vilani military capability
 and the need for a unified command.
@@ -506,14 +506,14 @@ elements of the Vilani fleet in a position to be
 overwhelmed by massed firepower whilst other units
 
 were drawn off by deception or hit-and-run attacks. The
-battle was costly for both sides but the Terrans were
+battle was costly for both sides but the [[Terra|Terran]]s were
 willing to take the losses and keep fighting – or more
 accurately, they thought they had no choice but to do so.
 
 For their part, the Vilani officials commanding the
 punitive expedition were dismayed at the losses
 they had received and did not consider defeating the
-Terrans to be worth the cost. They were already in
+[[Terra|Terran]]s to be worth the cost. They were already in
 the awkward position of having to explain the losses
 they had taken, which was politically damaging.
 Faced with a choice between battling on with what
@@ -521,7 +521,7 @@ they had or the humiliation of requesting additional
 forces to deal with some trivial barbarians, they
 chose what seemed like the best option.
 
-The Terrans needed time to make good their losses;
+The [[Terra|Terran]]s needed time to make good their losses;
 the Vilani commanders wanted to end the fighting
 and claim they had won to avoid damage to their
 reputations. Thus an unofficial armistice was agreed
@@ -529,10 +529,10 @@ and both sides stepped back. Peace of a sort returned
 to the region in -2400. It was both uneasy and short but
 during this period the nations of Terra came together,
 along with their colonies, first as the United Worlds and
-then as the Terran Confederation.
+then as the [[Terra|Terran]] Confederation.
 
 Renewed conflict saw territory change hands and
-Terran power grow. Vilani provincial governors were
+[[Terra|Terran]] power grow. Vilani provincial governors were
 embarrassed by the losses they had suffered and tried
 to cover up or downplay the clashes, preferring to make
 concessions to the external threat rather than give internal
@@ -540,7 +540,7 @@ rivals ammunition. This internalisation of external events
 was ultimately the downfall of the Vilani Imperium.
 
 Despite setbacks and a nuclear bombardment of
-Terra herself, the Terran Confederation continued
+Terra herself, the [[Terra|Terran]] Confederation continued
 to nibble away at Vilani power. Over the course of
 six Interstellar Wars, Terra captured worlds whose
 industry could produce weapons and starships
@@ -556,7 +556,7 @@ undermining the fabric of the Imperium itself.
 This destabilisation was the cause of the Sixth
 Interstellar War. A weakened provincial government led
 to increased piracy and the pirates were not choosy
-about who they attacked. Raids into Terran space
+about who they attacked. Raids into [[Terra|Terran]] space
 brought about retaliation which somehow became a
 major campaign into Vilani space. In -2321 the local
 Vilani governor sued for peace to protect his capital
@@ -566,15 +566,15 @@ Vilani governor sued for peace to protect his capital
 and appealed to the Emperor for assistance. When
 this response finally arrived it triggered the Seventh
 Interstellar War, which ended in -2308 with an armistice
-in favour of the Terrans.
+in favour of the [[Terra|Terran]]s.
 
 The flavour of the conflict changed during this time,
-with Terran technology outstripping that of the Vilani
+with [[Terra|Terran]] technology outstripping that of the Vilani
 Imperium. Production of jump-3 capable capital ships
-gave the Terrans a strategic advantage they had not
+gave the [[Terra|Terran]]s a strategic advantage they had not
 previously possessed and victories in major fleet battles
 inspired previously cowed populations to rebel against
-the Imperium. Terran forces pushed through Vilani
+the Imperium. [[Terra|Terran]] forces pushed through Vilani
 space in pursuit of retreating foes, essentially exploring
 the Imperium by conquering it.
 
@@ -582,15 +582,15 @@ The final phase of the Interstellar Wars era was
 characterised by local treaties negotiated by naval
 commanders, many of which were broken before news
 of them reached Terra. The Vilani Imperium began to
-collapse, requiring Terran naval forces to learn about
+collapse, requiring [[Terra|Terran]] naval forces to learn about
 a new region in order to secure its main assets and
 restore order. As the Vilani Imperium gave way to the
 Rule of Man, naval assets were all that was available
 to govern vast regions of space. Warships were sent
 on information-gathering and scouting missions,
-establishing a new mission for the Terran Navy. Where
+establishing a new mission for the [[Terra|Terran]] Navy. Where
 other powers developed a dedicated explorations
-service the Terrans used what they had and to this day,
+service the [[Terra|Terran]]s used what they had and to this day,
 exploration remains an important naval mission.
 
 EXPLORATION AND^
@@ -598,7 +598,7 @@ EXPLORATION AND^
 EXODUS IN THE LONG NIGHT
 
 Ultimately, the Vilani Imperium was too fragile to
-be propped up by an overstretched Terran navy.
+be propped up by an overstretched [[Terra|Terran]] navy.
 The collapse was not immediate, nor complete,
 nor uniform but by -1776 the institutions of the old
 Imperium were unable to function. Piracy and minor
@@ -614,12 +614,12 @@ cases because of it, missions were launched to learn
 more about distant regions. Colonisation expeditions
 also set out. Some Vilani worlds launched missions,
 mostly to spinward-coreward, in the hope of finding a
-homeworld beyond the reach of the Terran conquerors.
-For their part, the Terrans launched some long-range
+homeworld beyond the reach of the [[Terra|Terran]] conquerors.
+For their part, the [[Terra|Terran]]s launched some long-range
 missions but most of these were unsanctioned by the
 central government on Terra. Missions were for the
 
-most part local in origin, with a mix of Terran and Vilani
+most part local in origin, with a mix of [[Terra|Terran]] and Vilani
 people aboard. Some of these missions went to trailing-
 coreward and ended up on the shores of the Lesser Rift
 
@@ -648,7 +648,7 @@ what is now known as Year 0, a few small starfaring
 powers existed. One was the Sylean Federation,
 which founded the new Imperium and whose scouts
 contacted the others. Another was the Old Earth Union.
-This was a successor state to the Terran Mercantile
+This was a successor state to the [[Terra|Terran]] Mercantile
 Community, an economic power that maintained trade
 and communication across most of the Solomani Rim.
 
@@ -700,7 +700,7 @@ control of those systems.
 
 Although the emphasis was elsewhere, some
 exploration to rimward was undertaken. As part of
-the Third Imperium, the people of the Terran region
+the Third Imperium, the people of the [[Terra|Terran]] region
 followed Imperial practice. Exploration was the
 preserve of the Imperial Interstellar Scout Service.
 However, the focus of the IISS was distinctly local.
@@ -708,7 +708,7 @@ Longer-range missions were undertaken by private
 
 concerns. Data gathered by these missions was shared
 with the IISS as a matter of course, since Imperial
-regulations required it. Once relations between Terrans
+regulations required it. Once relations between [[Terra|Terran]]s
 and the Imperium began to cool, however, transfers of
 information became less diligent.
 
@@ -2009,7 +2009,7 @@ their colonies long before the sublight ships arrived.
 Few of these jump-capable pocket empires survived
 for long, although there have been some notable
 exceptions. The result was a seeding of humans and
-Terran species on a great many worlds out towards
+[[Terra|Terran]] species on a great many worlds out towards
 the rim. Today, most of these populations are at a
 low to mid-Tech Level and some have completely
 forgotten their heritage.
@@ -2020,7 +2020,7 @@ majority of intelligent aliens are confined to a single
 star system. There are no known Major Races towards
 the rim and the Ancients were not active there. Here
 and there a civilisation may be encountered which has
-managed to reverse-engineer a drive from a Terran,
+managed to reverse-engineer a drive from a [[Terra|Terran]],
 Aslan or Hiver vessel but for the most part explorers
 will not meet other jump-capable peoples.
 
@@ -3251,7 +3251,7 @@ Travellers visit, it is much simpler to assume that many
 of the same species are present on the majority of
 worlds. This is simply not possible in regions where this
 transplantation did not take place. Indeed, encountering
-a Terran creature or plant, or one known to be native
+a [[Terra|Terran]] creature or plant, or one known to be native
 to another world, is grounds to begin asking questions.
 Whilst this can be something of a nuisance for the
 Referee, it is a major characteristic of the exploration
@@ -3828,12 +3828,12 @@ to be the first settlement in the Enclave – that was
 Landfall – but the system was selected to be the hub
 within a few years of first colonisation. A little drier than
 Earth, Avebury has a basic ecosystem of its own which
-is gradually being replaced by Terran species. After
+is gradually being replaced by [[Terra|Terran]] species. After
 a few centuries, extensive forests have grown up in
 designated wilderness areas near the original cities, with
-new neo-Terran areas seeded whenever additional cities
+new neo-[[Terra|Terran]] areas seeded whenever additional cities
 were built. Today, most settlements are surrounded by
-a ‘Terran belt’ of farmland and forest containing familiar
+a ‘[[Terra|Terran]] belt’ of farmland and forest containing familiar
 species. Beyond this, the original ecosystem tries to
 resist invasion but is steadily losing ground.
 
@@ -4254,7 +4254,7 @@ Sometimes referred to as the ‘Dinosaur of Kruse’,
 the self-styled Rule of Man was created by a sublight
 colony mission launched in the early days of the
 Second Imperium. At that time the situation was chaotic
-but there was an expectation that Terrans would
+but there was an expectation that [[Terra|Terran]]s would
 create a long-lasting interstellar empire. By the time
 the mission arrived in Kruse, the Second Imperium
 was long gone and the Solomani people were seeking
@@ -4353,7 +4353,7 @@ safe and the Rammak persevered.
 
 Today, the Rammak have colonies on several worlds,
 linked by ships using a more stable and reliable version
-of the old Terran jump drive. Overall Tech Level is
+of the old [[Terra|Terran]] jump drive. Overall Tech Level is
 a high 8, touching upon 9, making Rammak ships
 rather inefficient. They suffice because they are all the
 Rammak have but they are eager to discover the secrets
@@ -5294,7 +5294,7 @@ opinion about a new work of art.
 
 KRUSE PRIME
 The Kruse system is named, like many astrographic
-features in the region, for a prominent Terran
+features in the region, for a prominent [[Terra|Terran]]
 anthropologist. There is no mainworld as such in this
 system; instead the main population centre is a large
 installation orbiting the system’s innermost gas giant.
@@ -5391,7 +5391,7 @@ Yikes 1712 X9D9000-0 Ba
 
 reason for the naming theme throughout the sector
 
-- every subsector is named after a female Terran
+- every subsector is named after a female [[Terra|Terran]]
 
 anthropologist from the pre-starflight era.
 
@@ -5437,7 +5437,7 @@ and the one assigned is a supposedly humorous
 
 reference to the fact that the inhabitants have
 only been observed from above. It is obvious the
-population are descended from Terran colonists and
+population are descended from [[Terra|Terran]] colonists and
 their landing site has even been identified. ‘Landing’
 might be too grand a word for it; remote sensor data
 suggests the colony ship crash-landed in a region
@@ -6098,7 +6098,7 @@ to–time. Unlike other systems, there have been no
 harassment incidents to date.
 
 CENTTI
-Of the three known Terran colonies in Jain, two crashed
+Of the three known [[Terra|Terran]] colonies in Jain, two crashed
 all the way back to barbarism. Centti did not, although it
 got most of the way before stabilising and beginning a
 recovery. Today, the world is divided into small nation-
@@ -6155,7 +6155,7 @@ her name. After studying the ecosystems of several
 worlds and locating two regressed human colonies,
 Endelli made peaceful contact with the Rammak and
 deduced they had inherited their jump drive from a lost
-Terran colony ship. Due to return a hero, Endelli decided
+[[Terra|Terran]] colony ship. Due to return a hero, Endelli decided
 to take another look at the rampant life of the world now
 known for being her resting place.
 
@@ -6168,7 +6168,7 @@ Her body was never found and when news finally
 reached Home of her fall a day of national mourning
 was declared. Captain Endelli was enshrined as a Hero
 of the Confederation and her lost grave is recognised
-as Terran soil. Naturally, this has made Endelli’s Grave
+as [[Terra|Terran]] soil. Naturally, this has made Endelli’s Grave
 a desirable prospect for colonisation by those who
 like the symbology. Survey missions are constantly
 being requested by interested parties but as yet formal
@@ -6390,7 +6390,7 @@ evidence of Ancients activity in the region.
 
 The people of Forssei bear a resemblance to what
 humans might have looked and acted like around
-40,000 years ago, when Terran humans first became
+40,000 years ago, when [[Terra|Terran]] humans first became
 behaviourally modern. They are known to produce
 art and have a language, albeit a rather basic one.
 Interactions with Solomani explorers have been
@@ -7625,7 +7625,7 @@ far from core Solomani values.
 ## HE DISTANT
 
 The sectors of the Distant Rimward Corridor are
-mostly named for Terran explorers. Other sectors
+mostly named for [[Terra|Terran]] explorers. Other sectors
 are assigned a designation based upon their relative
 position to the Rimward Corridor. For example,
 RC+5+2 is five sectors rimward of Amundsen and
@@ -7701,7 +7701,7 @@ have been colonised, with the majority of support going
 to Hsuien Tsang. A population of just over nine million is
 growing steadily, with new cities spreading out over the
 surface of a hospitable planet. As with other Solomani
-colonies in the Distant Rimward Region, Terran species
+colonies in the Distant Rimward Region, [[Terra|Terran]] species
 have been introduced but the ecosystem of Hsuien
 Tsang is well developed and resilient. A great deal of
 effort has been necessary to get the invader species
@@ -7954,7 +7954,7 @@ fortune or events elsewhere.
 Missions were launched, however, exploring a region
 2–3 sectors rimward of Terra in a cursory manner.
 These were followed by trade ships where a potential
-market was identified and whilst Terran interests
+market was identified and whilst [[Terra|Terran]] interests
 were driven from the region several times over the
 centuries, a passing familiarity was developed with
 the worlds of these sectors. Longer-range missions
@@ -8793,12 +8793,12 @@ the Xuanzang Enclave’s population.
 Cetus Station is an orbital installation circling a
 borderline habitable planet in an average red dwarf star
 system. The only remarkable thing about the system
-is its location and the presence of Terran species on-
+is its location and the presence of [[Terra|Terran]] species on-
 planet. These were imported at the start of the project
 and are still confined to the area around the surface
 settlements, a collection of small towns dedicated to
 food production and related industries. Between them
-is a mix of farmland and Terran-ised wilderness, with
+is a mix of farmland and [[Terra|Terran]]-ised wilderness, with
 
 the local ecosystem gradually being pushed back as
 the years go by. This is a full-time job, absorbing the
@@ -9452,7 +9452,7 @@ completed their exploration of it.
 ###### The rimward Campaign
 
 Solomani starship design is heavily influenced by standard Imperial practice – which is
-in turn partly derived from Terran concepts and partly from the Vilani way of doing things.
+in turn partly derived from [[Terra|Terran]] concepts and partly from the Vilani way of doing things.
 However, modern Solomani design philosophy has diverged from the Imperial for various
 reasons. Some are practical whilst others are more about ‘not being those damned
 Imperials’ than giving any real benefits. A few of the components listed here have near-
@@ -10568,7 +10568,7 @@ exploration ships or – as is the case with the class
 namesake – local experts and guides who facilitated
 famous exploits but often got little credit. The
 Tenzing-class was designed to be the equivalent
-of the sailing caravel in the great days of Terran
+of the sailing caravel in the great days of [[Terra|Terran]]
 exploration; easy for a small crew to handle but
 sufficient to undertake a lengthy cruise.
 

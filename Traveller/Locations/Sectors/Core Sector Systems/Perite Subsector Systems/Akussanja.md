@@ -39,7 +39,7 @@ From Traveller Wiki - Science-Fiction Adventure in the Far future
 
 - As an agricultural world, this world is a near-ideal environment  for producing quality foodstuffs of plant, animal, and other forms. Quality foodstuffs are a major export commodity for this world.
 - It requires extensive imports of outside technology to maintain a modern, star-faring society. Having to import most manufactured and high tech goods drives the price up for these items at this world.
-- It is a member of the [[Third Imperium]] in the [[Perite Subsector]] of [[[[Core sector]] ]] in the [[Domain of Sylea]](/Domain_of_Sylea "Domain of Sylea").
+- It is a member of the [[Imperium|Third Imperium]] in the [[Perite Subsector]] of [[[[Core sector]] ]] in the [[Domain of Sylea]](/Domain_of_Sylea "Domain of Sylea").
 - This world contains an [[Third Imperium|Imperial]] [[Scout Base]], capable of handling [[Scout Service|IISS]] [[starship]]s and personnel.
 
 ## Contents
@@ -107,7 +107,7 @@ From [the wiki](https://wiki.travellerrpg.com/Akussanja_(world))
 
 - As an agricultural world, this [world](https://wiki.travellerrpg.com/World "World") is a near-ideal [environment](https://wiki.travellerrpg.com/Environment "Environment") for producing quality [foodstuffs](https://wiki.travellerrpg.com/Foodstuff "Foodstuff") of plant, animal, and other forms. Quality foodstuffs are a major export commodity for this world.
 - It requires extensive imports of outside [technology](https://wiki.travellerrpg.com/Technology "Technology") to maintain a modern, star-faring [society](https://wiki.travellerrpg.com/Society "Society"). Having to import most manufactured and high tech goods drives the price up for these items at this world.
-- It is a member of the [[Third Imperium]] in the [[Perite Subsector]] of [[[[Core sector]] ]] in the [[Domain of Sylea]].
+- It is a member of the [[Imperium|Third Imperium]] in the [[Perite Subsector]] of [[[[Core sector]] ]] in the [[Domain of Sylea]].
 - This world contains an [[Third Imperium|Imperial]] [[Scout Base]], capable of handling [IISS](https://wiki.travellerrpg.com/IISS "IISS") [starships](https://wiki.travellerrpg.com/Starship "Starship") and personnel.
 
 From [[FTINVASIVE SPECIES|Invasive Species Adventure]]
@@ -115,7 +115,7 @@ From [[FTINVASIVE SPECIES|Invasive Species Adventure]]
 
 [[#Akussanja]] [[Downport]] is a utilitarian affair, designed to serve [[SuSAG]], the company that governs the planet and an array of subcontractor companies that provides services to the vastly larger megacorporation. The Scout Service maintains a base on the planet as well. The scout base was adjacent to the downport at one point in time but a falling out with [[SuSAG]] resulted in the scouts moving their operations to a new campus several kilometers away.
 
-From [[Third Imperium]]
+From [[Imperium|Third Imperium]]
 
 Akussanja hosts a variety of unusual life forms as a result of its unusual relationship with its red dwarf binary pair, Blaukasa and Iona. Like most worlds that orbit red dwarf stars, Akussanja is tidally locked, so one side of the planet always faces Blaukasa while the other faces away. Iona has an eccentric orbit, approximately 45o off the plane of the ecliptic. Approximately every 2.5 standard years, Iona comes close enough to Akussanja to have a significant effect on the planet. When distant, Akussanja's hydrosphere is frozen, creating ice caps nearly the world over. The planet's abundant sea life is mostly dormant during this period but when Iona is close, its frozen oceans partially melt and the seas come to life. Akussanjan fish hibernate during the cold periods and become active only when they have significant heat from both stars. In addition, Iona casts its dim light on what is otherwise Akussanja's dark side.
 

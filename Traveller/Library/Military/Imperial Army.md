@@ -1,3 +1,9 @@
+---
+date created: 2024-08-30 07:12
+aliases:
+  - Army
+---
+
 ## IMPERIAL ARMY
 
 The armies of the Imperium are much like planetary navies. Each world maintains its own army based on its population, available technology and individual needs. However, unlike planetary navies, armies are expected to contribute to the greater Imperial Army, sharing certain methodologies, technological standards, tactics and traditions.
@@ -67,7 +73,7 @@ Clashing cultures are not the only factors to contend with when assembling a sub
 
 |  Government | Imperial Army Presence                                                                                                                                                                                                                                                                                                                                |
 | :---------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|      6      | If the world is a colony, it may have no military at all, or might have a militia or Imperial Army unit present. If the world has a captive government or military rule, the Imperial Army or an army of a neighboring world occupies the world.                                                                                                     |
+|      6      | If the world is a colony, it may have no military at all, or might have a militia or Imperial Army unit present. If the world has a captive government or military rule, the Imperial Army or an army of a neighboring world occupies the world.                                                                                                      |
 |      7      | Balkanised worlds are variable. Some have nation states at odds with each other may have a larger military presence than is normal. Others are peaceable and do not have an elevated military presence. In either case, balkanised worlds with Population 6+ are expected to contribute forces to the Imperial Army at the subsector level as normal. |
 | A or higher | More complex forms of government are often bolstered by or require the presence of a larger military. Oligarchies, dictatorships and autocracies are usually enforced by a large army.                                                                                                                                                                |
 

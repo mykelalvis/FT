@@ -1008,7 +1008,7 @@ Agents that serve their faith's eschatological teachings are sometimes seen as z
 
 Unless an organised faith or church actually employs them, Eschaton agents are treated very similarly as freelancers. They work for whoever can help them set up their mission assignments and earn enough money to continue working toward their goals. Sometimes they must accept assignments that are not in the greater plan to reach the awaited End but an agent knows that he must be able to afford living and working if he is to continue his work.
 
-There are thousands of different religions in the galaxy, many of which have Eschaton agents working for them in some fashion – whether or not they are aware of it. Some are very aware of the Eschaton Movement and happily supply agents with resources, contacts and information. Like the churches that supplied the holy crusaders of ancient Terran religions in their bloody conquest, several organised faiths in the galaxy do the same through their agents.
+There are thousands of different religions in the galaxy, many of which have Eschaton agents working for them in some fashion – whether or not they are aware of it. Some are very aware of the Eschaton Movement and happily supply agents with resources, contacts and information. Like the churches that supplied the holy crusaders of ancient [[Terra|Terran]] religions in their bloody conquest, several organised faiths in the galaxy do the same through their agents.
 
 A few example interstellar faith organizations that employ Eschaton agents to do their holy bidding are as follows:
 

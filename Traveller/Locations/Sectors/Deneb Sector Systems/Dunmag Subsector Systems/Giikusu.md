@@ -1,0 +1,7 @@
+# GIIKUSU
+
+Giikusu is the homeworld of the Kirissukyoya, a minor race encountered across Deneb and sometimes beyond. Around -2000 their TL7 society destroyed itself in a global conflict, setting the survivors on a path to extinction. The Kirissukyoya were saved by Droyne intervention beginning around -1500. This was on a fairly small scale but sufficient to preserve enough Kirissukyoya that they could establish production sites and eventually a little low-tech industry.
+
+The Kirissukyoya recovery was greatly hampered by Vargr raids, to which at first the Kirissukyoya had no counter.  Eventually their communities were able to establish defences sufficient to make raiding them unprofitable and by the time Imperial scouts contacted them the Kirissukyoya were on the road to re-establishing a world state. The [[Imperium]] provided some protection from raids and low-key support for infrastructure and technology growth and by 180-200 the Kirissukyoya had begun building jump-capable vessels.
+
+Some of these ships took part in the Vargr Campaigns.  Although they were small and crude compared to Imperial vessels, the Kirissukyoya ships had crews with scores to settle and willing to take reckless risks to ensure raids on their homeworld were stopped for good. By the time the Vargr Campaigns were over, the Kirissukyoya were firmly established as a spacefaring race and had created communities on other worlds where they mingled freely with other Imperial citizens.

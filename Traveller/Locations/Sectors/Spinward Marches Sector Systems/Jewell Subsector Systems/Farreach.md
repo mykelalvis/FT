@@ -1,4 +1,4 @@
-[[Farreach]] [[Farreach]] 0602 A200400–B Z 0602 A200400–B Z Z NI GZ NI G [[Farreach]] is named for being the furthest Zhodani base from their homeworld of Zhdant. The base has one of the most extensive starports in the sector but access for Imperial citizens is not always granted.
+Farreach 0602 A200400–B Z 0602 A200400–B Z Z NI GZ NI G Farreach is named for being the furthest [[Zhodani]] base from their homeworld of [[Zhdant]]. The base has one of the most extensive starports in the sector but access for Imperial citizens is not always granted.
 
 # Details
 

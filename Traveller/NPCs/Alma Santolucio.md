@@ -23,6 +23,7 @@ SPECIES GENDER AGE
 — Female —
 
 ALMA SANTOLUCIO
+
 Alma is a humorless bureaucrat whose job it is to ferret out corruption and expose it to higher-ups in the Imperial Justice Department so they may seek out offenders and prosecute them. Alma might encounter the Travellers at [[Anther]] or another busy port in the [[Chant subsector]], where she will request a working or basic passage aboard their starship provided that they are travelling rimward towards the more troubled worlds.
 
 Alma is a determined, if inexperienced, auditor/detective and could use the Travellers' help seeking out those who misappropriate Imperial funds. She is a bit of a blunderer and more than a little naïve, and is therefore likely to run into all sorts of trouble, mostly along the lines of offending dangerous people who would just as soon not have illegal activities exposed.

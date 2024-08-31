@@ -1,0 +1,1 @@
+Standard Galactic Bank (formerly Solomani Galactic) is one of the titans of the galactic finance industry. While lacking the instant name recognition of megacorporations such as [[Ling Standard Products]] or [[GSbAG]], it is nonetheless a large provider of ship mortgages in [[Charted Space]].

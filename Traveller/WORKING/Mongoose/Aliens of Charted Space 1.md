@@ -178,7 +178,7 @@ the most human-like of all alien races, excepting, of
 course, the Vargr (who are, after all, genetically-altered
 mammalian stock originally from Earth).
 
-Early Terran explorers regarded Aslan as 'lion-like' and
+Early [[Terra|Terran]] explorers regarded Aslan as 'lion-like' and
 the simile has stuck ever since, although Aslan bear
 little resemblance to Terrestrial lions. Nonetheless, this
 early misnomer has influenced a great deal of human
@@ -232,7 +232,7 @@ mouse-sized robots covered in a meaty sheath to mimic
 live prey and carrying herd animals in cryoberths for
 later consumption.
 
-Aslan cannot naturally digest Terran-derived meats but
+Aslan cannot naturally digest [[Terra|Terran]]-derived meats but
 adding a few genetically-engineered stomach bacteria
 corrects this. Some Aslan take pills when visiting human
 worlds to adjust their biochemistry, although many clans
@@ -6366,7 +6366,7 @@ quite possibly the greatest threat to the survival of
 Humaniti as a species.
 
 The K'kree are sometimes colloquially referred to
-as Centaurs, after ancient Terran myth. They have a
+as Centaurs, after ancient [[Terra|Terran]] myth. They have a
 quadruped main body and hindquarters, with an upright
 frontal torso; well suited to roaming the plains of their
 homeworld, their large bodies impede the ability to
@@ -11823,7 +11823,7 @@ Ancients designed them to be nothing less than perfect.
 Proponents of the 'low superiority' school maintain they
 were the original sapient race on Terra and the Ancients
 moved them to Lair so the Vargr would not interfere with
-the genetic engineering of humans from Terran apes.
+the genetic engineering of humans from [[Terra|Terran]] apes.
 
 As with all things in Vargr society, there are numerous
 other ideas supported by scientists, politicians and
@@ -11900,13 +11900,13 @@ religion is not as popular as it once was most Vargr have
 heard of the Church of the Chosen Ones.
 
 The religion postulates that not only did the Ancients
-create the Vargr by genetically engineering Terran
+create the Vargr by genetically engineering [[Terra|Terran]]
 canines but that the Ancients continued to return
 to Lair to make improvements until they created the
 superior race that Vargr are today. To followers of the
 Church of the Chosen Ones, this also explains the
 existence of the Vargr subspecies; they were mistakes
-abandoned by the Ancients.
+abandoned by the [[Ancients]].
 
 Congregations tend to live in their own communes and
 each commune has its own particular traditions, dress

@@ -18,7 +18,7 @@ Primary K1 V Planetoid Belts 2 Gas Giants 2
 
 *   Hellworlds often offer daily, and sometimes even hourly, life-threatening situations to their inhabitants. Survivors often form intense survival skills and tend to be grim realists.
 *   As an industrial world, this planet has well-developed manufacturing and processing industries. Manufactured goods are a major export item.
-*   It is a member of the [[Third Imperium]] in the [[Chant Subsector]] of [[Core Sector]] in the [[Domain of Sylea]].
+*   It is a member of the [[Imperium|Third Imperium]] in the [[Chant Subsector]] of [[Core Sector]] in the [[Domain of Sylea]].
 *   This world has a colony at [[Akin Akun]].
 
 Description (Astrography and Planetology)

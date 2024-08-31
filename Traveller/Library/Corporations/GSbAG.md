@@ -1,0 +1,7 @@
+### GSbAG
+
+GSbAG is almost exclusively a starship manufacturer, with a reputation for high-quality vessels that command an equally high price. It has no specific center of power but maintains shipyards at some of the high-end starports in the sector. A showcase facility is planned, at a location yet to be chosen. Naturally, most major worlds of the [[Deneb Sector]] – and all of the duchies – are vying for the lucrative position of host. The facility will produce high-end military vessels for the Imperial Navy as well as yachts and liners for prestige clients.
+
+Abbreviated to GSbAG and commonly referred to as 'Gasbag' Geschichtkreis Sternschiffbau AG claims to have been founded in –2438 by the amalgamation of several [[Terra|Terran]] manufacturing firms. The earliest record of its existence is a contract with the Sylean Federation Navy dating from –334.
+
+GSbAG is unusual for a Megacorporation in that it operates almost entirely in one business area; in this case shipbuilding. The firm builds ships for the Imperial family, among other prestigious clients, and is also well known as the constructor of expensive but luxurious yachts and passenger liners. GSbAG maintains a number of small research and development facilities and manufacturing plants making components for its vessels, but these all feed directly into the shipbuilding industry rather than being economically viable in their own right.

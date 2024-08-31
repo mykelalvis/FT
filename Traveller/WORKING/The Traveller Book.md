@@ -9196,7 +9196,7 @@ eating are termed grazers. They may be solitary or grouped
 in herds. Their primary defense is flight, although such
 action may result in stampedes which could endanger
 adventurers in their path. When forced to fight, they will
-fight fiercely until killed or routed. Typical Terran grazers
+fight fiercely until killed or routed. Typical [[Terra|Terran]] grazers
 are the antelope and the moose. The whale (which scoops
 krill from the sea as it swims through it) is also a grazer.
 lntermittents: Herbivores which do not devote full time
@@ -9204,7 +9204,7 @@ to eating are termed intermittents. They tend to be solitary.
 lntermittents usually freeze when an encounter occurs,
 fleeing if attacked by a larger animal. There is some poten·
 tial that an intermittent will attack to protect territory or
-young. Typical Terran intermittents are the chipmunk and
+young. Typical [[Terra|Terran]] intermittents are the chipmunk and
 the elephant.
 Filters: Herbivores which pass the environment through
 their bodies are termed filters. Unlike grazers, which move
@@ -9222,7 +9222,7 @@ companion assisting at close range. Throw once per combat
 
 The Traveller Book
 round, beginning on the round following the attack. A filter
-can absorb an animal u:p to twice its own weight. Terran
+can absorb an animal u:p to twice its own weight. [[Terra|Terran]]
 filters are generally aquatic, such as the barnacle.
 Omnivores: Animals which eat food without regard to
 its resistance are termed omnivores. The bear, which will
@@ -9231,17 +9231,17 @@ an omnivore. Omnivores are of three types: gatherers,
 hunters, and eaters.
 Gatherers: Animals which display a greater tendency
 toward herbivorous behavior are termed gatherers. In most
-respects, they are similar to intermittents. Typical Terran
+respects, they are similar to intermittents. Typical [[Terra|Terran]]
 gatherers are the raccoon and the chimpanzee.
 Hunters: Animals which display a greater tendency
 toward carnivorous behavior are termed hunters. In most
 respects, they are similar to small or inefficient chasers.
-Typical Terran hunters are bears or humans.
+Typical [[Terra|Terran]] hunters are bears or humans.
 Eaters: The true omnivore (in the sense that it will eat
 anything and everything) does not distinguish its food,
 consuming all that it confronts. Eaters present considerable
 danger in that they will not avoid adventurers when en·
-countered. A typical Terran eater is the army ant (when an
+countered. A typical [[Terra|Terran]] eater is the army ant (when an
 entire swarm is considered to be one organism).
 Carnivores: Animals which prey on other animals by
 attacking and killing them in the face of resistance are
@@ -9255,7 +9255,7 @@ counter, pouncers which have achieved surprise have
 succeeded in their basic aim and will attack regardless of
 range. If they do not have surprise, they will sometimes still
 attack. They will flee if they themselves are surprised.
-Typical Terran pouncers are cats.
+Typical [[Terra|Terran]] pouncers are cats.
 Chasers: An imals which kill their prey by attacking after
 a chase are termed chasers. They tend to be pack animals.
 Typical chasers are wolves.
@@ -9271,7 +9271,7 @@ throw of 9+, DM of +1 for each assisting companion.
 Companions are subject to capture by the trap while
 providing assistance. Usually, a trap will not wound or
 damage a character, but will tend to hold the adventurer to
-allow the trapper to attempt to kill him. A typical Terran
+allow the trapper to attempt to kill him. A typical [[Terra|Terran]]
 trapper is the spider; less typical is the ant lion.
 Siren: Distinct from the trapper, which creates a trap for
 its prey, a siren also creates a lure to draw prey to the trap.
@@ -9283,14 +9283,14 @@ will be universal, perhaps a smell or scent, or a mirage or
 beautiful configuration, which will attract characters into a
 Animal Encounters
 vulnerable position. Very rarely, the lure will be psionic in
-nature. Typical Terran sirens are the angler fish (its mouth
+nature. Typical [[Terra|Terran]] sirens are the angler fish (its mouth
 is the trap) and the venus fly trap.
 Killers: Certain carnivores devote much attention to
 killing, apparently for the act itself, in a kind of blood lust.
 Killers' reason (such as territorial defense) is replaced by a
 raw killing instinct. Attacks by killers are fierce and violent.
 Killers will generally disregard the defender's size as a
-factor. The typical Terran killer is the shark.
+factor. The typical [[Terra|Terran]] killer is the shark.
 Scavengers: Animals which share or steal the prey of
 others, or that take the remains of kills, are classed as
 scavengers. Scavengers are of four types: intimidators,
@@ -9299,20 +9299,20 @@ Intimidators: Scavengers which establish their claim to
 food by frightening or threatening other animals are termed
 intimidators. Their standard procedure is to approach a kill
 and force other animals away by appearing to be a threat. A
-typical Terran intimidator is the coyote.
+typical [[Terra|Terran]] intimidator is the coyote.
 Hijackers: Scavengers which establish their claim to food
 by simply taking it are termed hijackers. They rely on their
 superior strength or size to allow them to hijack food be·
 cause the other animals present cannot effectively object. A
-typical Terran hijacker is the lion or the Tyrannosaurus rex.
+typical [[Terra|Terran]] hijacker is the lion or the Tyrannosaurus rex.
 Carrion-Eaters: Scavengers which take dead meat when
 it becomes available (often waiting patiently for all other
 threats to disperse before beginning) are termed carrion·
-eaters. Most typical of Terran carrion-eaters is the buzzard.
+eaters. Most typical of [[Terra|Terran]] carrion-eaters is the buzzard.
 Reducers: Scavengers which act constantly on all avail·
 able food are termed reducers. They eat the remains of
 food after all other scavengers are finished with it, con·
-suming bone and other leavings. Terran reducers are all
+suming bone and other leavings. [[Terra|Terran]] reducers are all
 microscopic, such as bacteria.
 93
 
@@ -13143,7 +13143,7 @@ extent of the rebellion and restricted tourists to the rela·
 tively safe areas south of the capital.
 Locally available transport includes ATVs (renting for
 Cr300 per week) and local beasts of burden similar to
-Terran mules (Crl per week; each carries 100 kg); the party
+[[Terra|Terran]] mules (Crl per week; each carries 100 kg); the party
 is legally required to hire one guide for each vehicle or ten
 beasts, at Cr100 each per day.
 Due to the activities of the rebels, import restrictions on
@@ -13420,7 +13420,7 @@ doorway may be discovered in the long stairway from
 the inside (at location 1) and forced open (from
 inside, by a combined strength characteristic of
 13+).
-4. As in Terran pyramids, a shah entrance may be
+4. As in [[Terra|Terran]] pyramids, a shah entrance may be
 concealed on the face of one or more of the pyramids,
 probably in shadow. Such a search will prove fruitless.
 5. Finally, the flat upper surface of the small
@@ -14009,7 +14009,7 @@ Females are usually about 60 em in length, with a
 wingspan of 100 to 120 em. They typically weigh from 6 to
 12 kg. The wings are formed from thin outer skin stretched
 over a f ramework of thin bones, in a manner similar to the
-Macropan screamer-in-the-darkness or the Terran bat. This
+Macropan screamer-in-the-darkness or the [[Terra|Terran]] bat. This
 form, like the male, feeds on the juvenile, making this
 organism the only known case of an animal feeding solely
 off its own young.
@@ -14812,7 +14812,7 @@ next world. Failure calls for the referee to administer the
 situation according to the events. Bon Voyage!
 
 Traveller's Guide to the Universe
-An infinity of Traveller universes are possible. In one, no life exists but what is Terran-derived; in another, no life ever
+An infinity of Traveller universes are possible. In one, no life exists but what is [[Terra|Terran]]-derived; in another, no life ever
 gains ascendance over more than its own star system. Countless other possibilities are available to the fertile imagination.
 In order to more completely describe events and possibilities in Traveller, one universe has been selected and more
 fully explored. This universe provides a large-scale consistent background against which any number of situations and
@@ -14848,12 +14848,12 @@ still lags at mere light speed. Communication is always
 restricted to the speed of interstellar transportation.
 For Terra, the first rudimentary jump drives came into
 general use in the mid-21st century. These drives introduced
-the Terrans to Alpha Centauri, the farther stars, to the
+the [[Terra|Terran]]s to Alpha Centauri, the farther stars, to the
 First Imperium (then called only the Imperium). and to the
 First Interstellar War, 2113 AD. That series of wars (there
 was, of course, more than one) hastened the fall of the
 Imperium, and resulted in the takeover of the existing
-structure by expanding Terran forces. Their rule (The Rule
+structure by expanding [[Terra|Terran]] forces. Their rule (The Rule
 of Man, or the Ramshackle Empire, depending on who
 wrote the history) slowed, but did not stop, the continuing
 decay of empire.
@@ -15012,7 +15012,7 @@ within the Imperium's borders are required to possess an
 Imperial charter. Such a charter is indicated by the abbreviation
 LIC (for Limited liability Imperial Charter) fol·
 lowing the company name. Occasionally, corporations
-make use of archaic titles, such as the Terran ltd, Inc, Amt,
+make use of archaic titles, such as the [[Terra|Terran]] ltd, Inc, Amt,
 AG, and SA. This form is used to indicate that the com·
 pany predates the Third Imperium (rarely the case) or to
 add charm and quaintness to the title.
@@ -15285,14 +15285,14 @@ used to indicate the direction of Capital, the Imperial core.
 There is some potential for confusion if the term is accep·
 ted out of context.
 Dating Systems: Three major dating systems are in use
-when referring to historical events: Terran, Vilani, and
+when referring to historical events: [[Terra|Terran]], Vilani, and
 Imperial.
-Terran dates center on a year about midway through the
+[[Terra|Terran]] dates center on a year about midway through the
 period of Vilani ascendance. After that date, years ascend,
 
 The Traveller Book
 and are suffixed AD; before that date, years descend, and
-are suffixed BC. There is no year zero. Terran years have
+are suffixed BC. There is no year zero. [[Terra|Terran]] years have
 365 days and are considered a standard for length of year.
 Years are further subdivided into months and weeks,
 although these divisions have fallen into disuse outside the
@@ -15396,9 +15396,9 @@ borders. New interstellar states arose, and the Imperium
 could no longer afford to absorb them. Gradually, the
 Imperium lost territory along its coreward and trailing
 marches. Then, in -2422, the Imperium was contacted
-along its rimward border by the Terrans, recently emerged
-into space. Terran expansionism led to a series of inter·
-stellar wars, ultimately resulting in Terran conquest of the
+along its rimward border by the [[Terra|Terran]]s, recently emerged
+into space. [[Terra|Terran]] expansionism led to a series of inter·
+stellar wars, ultimately resulting in [[Terra|Terran]] conquest of the
 Imperium in -2219 and the founding of the Rule of Man.
 The First Imperium bore many names in its long life,
 including the Grand Imperium of Stars, the Grand lm·
@@ -15647,8 +15647,8 @@ border. Amber zone classification posted because of antipathy
 against the Imperium and Imperials by some nations
 on the world.
 Rule of Man (-2204 to - 1776): Upon the conquest of
-the Vilani Imperium by the Terran Confederation, the
-Terrans moved to establ ish government of the region.
+the Vilani Imperium by the [[Terra|Terran]] Confederation, the
+[[Terra|Terran]]s moved to establ ish government of the region.
 At first, conquered regions came under the administration
 of the navy, under martial law. Much use was made of the
 existing bureaucracy and former Vilani administrators, with

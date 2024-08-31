@@ -1,0 +1,9 @@
+### NORTHAMMON
+
+Northammon is a beautiful but forbidding world, with extensive mountain ranges and a low average temperature that results in extensive glaciation. The atmosphere is prone to violent weather patterns and intense electrical storms, which are exciting to watch but dangerous to be out in.
+
+The majority of the six million or so inhabitants dwell in the equatorial regions, mostly in areas sheltered from prevailing winds by mountain ranges. These regions produce considerable amounts of agricultural goods, which for many years provided Northammon's main source of income. Disputes between local agricultural corporations and megacorporate interests, which were trying to gain a foothold in Northammon, eventually flared up into open conflict.
+
+Years of conflict between corporate security elements, mercenary units and local militia were eventually brought to a halt by Imperial intervention. The world is currently under military rule as a result, with the occasional skirmish still occurring in remote areas. The cities are garrisoned by specialist security battalions of the Imperial Army, who are skilled in urban combat as well as paramilitary policing and mediation. Forces intended for use in the outback are more combat-oriented, including a light grav cavalry detachment.
+
+Administration of the world is handled by the Imperial Bureaucracy, which is gradually attempting to transfer control back to local governance. The process is slow and painful however, as many of the local leaders harbour resentment towards the [[Imperium]] and its megacorporations. To the people of Northammon, it is hard to tell the difference between the two and a significant proportion of the population worries that the Imperial occupation is going to simply hand control of the world over to the megacorporations when the troops pull out.

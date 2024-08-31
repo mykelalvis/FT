@@ -114,7 +114,7 @@ T/Medical + 3
 T/Sensors + 6  
 Use Alien Devices + 1
 
-Languages: Galanglic (native), Modern Anglic, Terran Confederation Anglic, Rule of Man Anglic, Gvegh, Hiver, Irktolic, Sylean, Vilani, Old High Vilani, Zhodani, Gvurrdon, Old Sylean, Trokh
+Languages: Galanglic (native), Modern Anglic, [[Terra|Terran]] Confederation Anglic, Rule of Man Anglic, Gvegh, Hiver, Irktolic, Sylean, Vilani, Old High Vilani, Zhodani, Gvurrdon, Old Sylean, Trokh
 
 #### FEATS & CLASS FEATURES
 

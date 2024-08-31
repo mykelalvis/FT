@@ -3585,7 +3585,7 @@ the coverage here is necessarily brief and incomplete.
 ASLAN
 Aslan are roughly human-sized and humanoid, and are descended
 from four-limbed, upright, bipedal carnivore-pouncer stock. The
-earliest Terran explorers saw in them a vague resemblance to the
+earliest [[Terra|Terran]] explorers saw in them a vague resemblance to the
 Te r r a n l i o n , a n d t h e y h a v e b e e n d e s c r i b e d b y Te r r a n s a s l i o n - l i k e e v e r
 since. There are two sexes, male and female. The male is most easily
 distinguishable by his larger size and prominent mane. Females
@@ -3803,7 +3803,7 @@ massive of the major races and are the only one of the major races
 to be descended from herbivores. An adult K'kree stands about 1.5
 meters at the shoulder and between 2.0 and 2.4 meters tall when
 standing erect. Weight averages 550 kg. They bear some resemblance
-to the centaurs of ancient Terran myth, a trait noted by the
+to the centaurs of ancient [[Terra|Terran]] myth, a trait noted by the
 earliest human explorers.
 
 The word K'kree comes from their own language, and translates
@@ -3818,7 +3818,7 @@ the human hand.
 
 The K'kree are covered with a short gray or black fur and with a
 dense black mane covering the head, neck and upper back of both
-sexes. Unlike Terran mammals, the young are fed partially digested,
+sexes. Unlike [[Terra|Terran]] mammals, the young are fed partially digested,
 regurgitated food instead of milk. Males average 15 percent to 20
 percent larger than females.
 
@@ -3888,7 +3888,7 @@ Standing with Caste.Standing with Caste.
 
 VARGR
 Vargr are an Intelligent Major Race derived from Ancient genetic
-manipulations of Terran carnivore/chaser stock, apparently dating
+manipulations of [[Terra|Terran]] carnivore/chaser stock, apparently dating
 from approximately the same time that humanity was scattered to
 the stars.
 
@@ -3898,7 +3898,7 @@ genetic makeup are almost identical with a number of terrestrial
 animals, but differ radically from most of the flora and fauna
 indigenous to Lair, the purported Vargr home world. Researches
 during the early years of the Third Imperium concluded them to be
-the result of genetic manipulation of transplanted Terran animals
+the result of genetic manipulation of transplanted [[Terra|Terran]] animals
 of the family Canidae, almost certainly of genus Canis. The obvious
 conclusion, supported by archeological evidence, is that the race
 known as the Ancients was responsible.
@@ -6336,7 +6336,7 @@ Natural Feature
 
 DiseaseDisease
 Alien diseases can sometimes cross over and infect humans, but most diseases
-are of Terran origin. The Ancients scattered humans all over the galaxy tens of
+are of [[Terra|Terran]] origin. The Ancients scattered humans all over the galaxy tens of
 thousands of years ago, and they brought bacteria and viruses with them. Over
 time, these have mutated into new forms. In the unlikely event that a highly
 virulent plague is discovered, the infected world is placed under interdiction until
@@ -6347,7 +6347,7 @@ The disease...
 
 1. ... has an incubation period of several days, so symptoms only appear when
     the characters are in jumpspace.
-2. ... is a mutated version of an extinct Terran plague, like the Black Death.
+2. ... is a mutated version of an extinct [[Terra|Terran]] plague, like the Black Death.
 3. ... stimulates the latent psychic powers of the brain, giving telepathic powers
     while killing the subject.
 4. ... can only be cured by an expensive drug, which the characters must import

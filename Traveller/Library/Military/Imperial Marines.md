@@ -1,3 +1,9 @@
+---
+date created: 2024-08-30 07:12
+aliases:
+  - Marines
+---
+
 # Introduction
 
 The Imperial Marines are the primary shipborne fighting force of the Imperium. The marines are steeped in tradition, having served admirably since year 0. Imperial Marines are instantly recognizable by their distinctive combat armor and battle dress. Likewise, their dress uniform with its maroon tunic, white trousers and shiny black boots tends to stand out in a crowd. Marines who have taken part in a jump (orbital assault) operation wear the drop slash, a small vertical piece of cloth on the back of the collar, black on field fatigues and red on the dress uniform tunic.

@@ -45,7 +45,7 @@ Primary K9 IV Planetoid Belts 1 Gas Giants 5
 *   It requires extensive imports of outside technology to maintain a modern, star-faring society.
 *   It is unable to produce quality foodstuffs and must import them.
 *   It has few prospects for economic development.
-*   It is a member of the [[Third Imperium]] in the [[Chant Subsector]] of [[Core Sector]] in the [[Domain of Sylea]].
+*   It is a member of the [[Imperium|Third Imperium]] in the [[Chant Subsector]] of [[Core Sector]] in the [[Domain of Sylea]].
 *   This world has an Imperial [[Naval Base]], capable of handling warships.
 *   During the Long Night this world was known as _Shaashsha_.
 

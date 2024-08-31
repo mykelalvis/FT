@@ -61,7 +61,7 @@ PCs with salvage ideas will be disappointed: combat and crash damage and subsequ
 
 Athletics-0, Recon-0, Survival-2, Melee-2
 
-Swamp-dwelling analogue to the Terran bear, with sharp 15 cm claws and a thick hide. Highly territorial and omnivorous, tending toward a carnivorous diet.
+Swamp-dwelling analogue to the [[Terra|Terran]] bear, with sharp 15 cm claws and a thick hide. Highly territorial and omnivorous, tending toward a carnivorous diet.
 
 ## Swampjack
 

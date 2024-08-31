@@ -1,35 +1,35 @@
-INTRODUCTION 002
-REFEREE'S INFORMATION 003
-THE DEMILITARISED ZONE 015
-UTOLAND 019
-UTANE 021
-MINING COMPLEX FOUR (MC4) 026
-THE ZHODANI OCCUPATION OF UTOLAND 029
-ZHODANI CONSULAR ARMY OCCUPATION COMPANY 031
-ZHODANI OCCUPATION PERSONNEL 035
-A MOMENT OF REVELATION 038
-TOTAL RECALL... ISH 051
-UNDER INVESTIGATION 053
-MINING COMPLEX FOUR 058
-RIDING THE RAILS 063
-THE CITY OF UTANE 065
-UNREST IN UTANE 069
-ON THE BRINK 075
-THE BATTLE OF UTOLAND 082
-LEAVING UTOLAND 086
-FLASHBACK: OPERATION KASUESH 088
-TREMOUS DEX 100
-FLASHBACK: FLEET REFORM 102
-871-438 104
-EXTOLAY 105
-INTELLIGENCE STATION MIIDURKI 107
-STATE OF WAR 113
-ZHODANI MILITARY AIR/RAFT 116
-ROCK TWELVE 117
-WEAPONS AND EQUIPMENT 125
-LIBRARY DATA 131
-FINAL NOTES 134
-INDEX 135
+    INTRODUCTION 002
+    REFEREE'S INFORMATION 003
+    THE DEMILITARISED ZONE 015
+    UTOLAND 019
+    UTANE 021
+    MINING COMPLEX FOUR (MC4) 026
+    THE ZHODANI OCCUPATION OF UTOLAND 029
+    ZHODANI CONSULAR ARMY OCCUPATION COMPANY 031
+    ZHODANI OCCUPATION PERSONNEL 035
+    A MOMENT OF REVELATION 038
+    TOTAL RECALL... ISH 051
+    UNDER INVESTIGATION 053
+    MINING COMPLEX FOUR 058
+    RIDING THE RAILS 063
+    THE CITY OF UTANE 065
+    UNREST IN UTANE 069
+    ON THE BRINK 075
+    THE BATTLE OF UTOLAND 082
+    LEAVING UTOLAND 086
+    FLASHBACK: OPERATION KASUESH 088
+    TREMOUS DEX 100
+    FLASHBACK: FLEET REFORM 102
+    871-438 104
+    EXTOLAY 105
+    INTELLIGENCE STATION MIIDURKI 107
+    STATE OF WAR 113
+    ZHODANI MILITARY AIR/RAFT 116
+    ROCK TWELVE 117
+    WEAPONS AND EQUIPMENT 125
+    LIBRARY DATA 131
+    FINAL NOTES 134
+    INDEX 135
 
 # INTRODUCTION
 
@@ -95,92 +95,90 @@ The default start date for Flashpoints is late 1107, just as the Fifth Frontier 
 	Battle of Lanth ends with Imperial retreat to the naval base
 	Second Battle of Jewell ends with Imperial forces too depleted to hold the naval base
 	198-1107 Jewell Naval Base abandoned
-	
+
 	200-1107 Imperial Sector Fleet Jewell detachment withdraws from the Battle of Jewell
-	
+
 	202-1107 Zhodani fleet arrives in Mirriam
-	
+
 	203-1107 News of the war reaches Macene
-	
+
 	Frenzie Surrenders to Zhodani ground forces
 	Imperial Sector Fleet Denotam detachment arrives in Mirriam
 	Battle of Mirriam Begins
-	
+
 	204-1107 News of the war reaches Rhylanor
-	
+
 	205-1107 Travellers arrive at Zircon
-	
+
 	Zhodani 47th Fleet reaches Keanou
-	
+
 	207-1107 Second Battle of Regina begins
-	
+
 	208-1107 Zhodani concede defeat in Battle of Mirriam and retreat to Frenzie
-	
+
 	209-1107 Zhodani 2nd Assault Fleet arrives at Jewell
-	
+
 	210-1107 Second Battle of Regina ends in Zhodani defeat
-	
+
 	211-1107 Siege of Jewell begins
-	
+
 	212-1107 Zhodani occupation of Utoland begins
-	
+
 	Sector Fleet elements engage 47th Fleet in inconclusive Battle of Keanou
-	
+
 	214-1107 Sword Worlds Dyrnwyn Fleet arrives in D'Ganzio
-	
+
 	Battle of D'Ganzio begins
-	
+
 	216-1107 Travellers arrive at Utoland
-	
+
 	218-1107 News of the war reaches Mora
-	
+
 	222-1107 3 rd Assault Fleet moves to Extolay after defeat at the Second Battle of Regina
-	
+
 	47 th Fleet engages Imperial Sector Fleet elements at Yori
-	
+
 	224-1107 Sector Fleet Jewell detachment reaches Regina
-	
+
 	Combat Force Iderati heavily damages Iderati naval base
-	
+
 	226-1107 Invasion of Extolay begins
-	
+
 	228-1107 Travellers' personality overlays begin to break down
-	
+
 	229-1107 Word reaches Depot in Deneb of the outbreak of war
-	
+
 	232-1107 Advance elements of the Deneb Sector Fleet begin moving spinward
-	
+
 	233-1107 Zhodani 7th Fleet regroups at Roup
-	
+
 	248-1107 Imperial sector fleet elements attempt counterattack at Yori
-	
+
 	259-1107 Imperial sector flag fleet 'relieves' Regina
-	
+
 	263-1107 Sword Worder Gram Fleet arrives at Ghandi
-	
+
 	268-1107 193 rd Fleet returns to Regina after successful counterattack
-	
+
 	270-1107 Sword Worlds Gram Fleet retires from Ghandi
-	
+
 	279-1107 Zhodani forces suppress last remaining organised resistance on Extolay
-	
+
 	16 th Provisional Battle Fleet formed at Regina and sent to the relief of Jewell
-	
+
 	314-1107 Sector flag fleet returns to base at Macene
-	
+
 	318-1107 Combined Zhodani 7th, 28th and 68th Fleets launch Third Battle of Jewell
-	
+
 	319-1107 Invasion of Jewell begins
-	
+
 	328-1107 Fall of Jewell. All major governmental facilities in Zhodani hands
-	
+
 	351-1107 Last organised resistance on Jewell crushed
-	
+
 	Two Imperial task forces lost at Battle of Nasemin
-	
+
 	356-1107 Advance elements of Deneb Sector Fleet reach Efate
-
-
 
 ###### CROSS-BORDER INTELLIGENCE WORK
 
@@ -202,8 +200,6 @@ Riket had no ill intentions. He simply wanted to experience life in Zhodani soci
 
 He left a recording stating his intention to return but the intelligence services were unsure if he was telling the truth or intended to defect. Elimination was a possibility but they wanted him back alive if possible. Interrogation would reveal exactly how he went about using the device and slipping out from under their proverbial noses. It was possible Riket had help from the Zhodani or influenced others to help him somehow, and the obvious means was the overlay machine itself. However, the details of his escapade were still unclear; a deficiency that must be remedied when Riket was brought back into Imperial space.
 
-
-
 Thus the Imperial intelligence services needed Riket back, or failing that he must be silenced. Given the embarrassing nature of the incident it was heavily compartmentalised. The operation to recover Riket was known to only a handful of people and those selected to carry it out were not the usual intelligence operatives. Instead the intelligence services co-opted a rather unlikely assortment of personnel, who agreed for varying reasons. Their sincerity was never in doubt; the personality overlay machine would see to that. Their methods might be questionable but they were deniable. Indeed, the whole matter could be erased from memory... providing nothing went too badly wrong.
 
 ##### PROFESSOR CHARLES RASHANI RIKET
@@ -219,7 +215,7 @@ Most other aspects of Riket's personality are unchanged. He is inquisitive and t
 Riket was careful to reinforce his overlaid personality just before leaving, as he expected to be away from Rock Twelve for some weeks at least. He is firmly entrenched in his cover identity, a journalist working on a major story about the implications of a Zhodani takeover of Arden. Riket could not have picked a worse cover story. Far from the hypothetical scenario he believed it to be, this was actually unfolding as he arrived at Ninjar. In a way this helped deflect suspicion for a while, as no intelligence operative would be stupid enough to draw attention in this manner.
 
 	CHARLES RASHANI RIKET/
-	
+
 	CARLOS RASHANI
 	STR 4 SPECIES —
 	DEX 6 GENDER Male
@@ -230,13 +226,11 @@ Riket was careful to reinforce his overlaid personality just before leaving, as 
 	Language (Zdetl) 2, Profession
 	(academic) 3, Science (psionicology)
 	1, Science (sociology) 4
-	
+
 	SOC 8
-	
+
 	EQUIPMENT
 	Portacomp
-
-
 
 ###### THE OVERLAY MACHINE
 
@@ -252,8 +246,6 @@ The machine 'overlays' the person's existing persona rather than completely supp
 'jettison option' is built into the programming which will – in theory – cause the overlaid persona to be suppressed or completely discarded. However, this is a traumatic experience and will probably not work completely; elements of the overlaid persona might remain, or the subject may become unstable on a temporary or permanent basis.
 
 The overlay machine was developed to allow deep- cover operatives to avoid detection even when working in a psionically adept society such as the Zhodani Consulate. The intent was to overlay a personality that could be maintained with little conscious effort, behind which the real personality could be hidden. The actual result was slightly different.
-
-
 
 The overlay machine can build various types of personality.
 
@@ -276,8 +268,6 @@ Therapeutic Use: The overlay machine could in theory be used to treat psychiatri
 Psionics Activation: There are those who believe that the overlay machine might be used to activate latent psionic talents. At present there is no information on how this might be done, or if it is even possible.
 
 Note that the overlay machine creates a personality, complete with memories and mannerisms, but does not imbue the user with new skills. Someone who is overlaid with the persona of a naval fighter pilot will remember flying fighters, living in pilot's accommodation and hijinks at graduation but they will not know how to pilot a spacecraft unless they already had that knowledge. Use of a wafer could grant the subject the necessary skills to go with their deceptive personality but a telepathic scan may reveal the skills are implanted which will be at odds with the overlaid persona.
-
-
 
 Likewise, it is usual to provide the subject with a framework to build memories around as part of the programme. The machine's operators will provide anecdotes of college life to someone who is to pretend to be a graduate, maps of the college campus and so forth, and these will be built into real-seeming memories by the subject's subconscious. Without this information, the subject will invent memories as best they can. They will be convinced the memories are real but might someday go to a place they 'remember' and find it is quite different. The result of someone trying to create a set of believable memories about life in a society they know nothing or very little about is likely to be comical rather than convincing.
 
@@ -327,8 +317,6 @@ It was this lack of understanding, rather than any malice or treachery, that too
 
 Off the books, deniable and extremely dangerous, Operation Kasuesh was named for a peculiar creature found on a handful of worlds, which has a water-dwelling larval stage, becomes an amphibian as an adult and eventually returns to the water. The name seemed apt, as for a time the operatives would not know whether they belonged in one environment or the other.
 
-
-
 ###### OPERATION KASUESH
 
 Operation Kasueh was devised as a way to undo the damage caused by Riket's departure and protect the reputations of those affected by it. Rikett himself was valuable but the most promising prototype of the personality overlay device was aboard the covert reconnaissance vessel he stole. Imaginatively named Rock Twelve, the ship was disguised as a planetoid and might still be recoverable. A group of operatives was selected from outside the usual sources and given suitable cover personas using a different model of personality overlay device.
@@ -349,13 +337,11 @@ Whether or not the Travellers succeeded in locating and/or extracting Professor 
 
 The Travellers' flight path was determined by their jump-2 capability. From Stave they jumped to Caloran, using reserve fuel for a second jump to Zircon. There, they found Zhodani ships in the system and a proclamation on the local datanets that the Federation of Arden was now recognised by the Zhodani Consulate. The Zhodani ships were broadcasting an order for all Imperial vessels to proceed to the starport to be interned. That would only happen in a war, although the Zhodani made no mention of that.
 
-_USING IMPLANTED IMPERATIVES_
+#### USING IMPLANTED IMPERATIVES
 
 It is necessary to tread lightly when using these imperatives. They are not intended to railroad the Travellers the way the Referee thinks they should go but are instead plot devices designed to place the Travellers in a position where they must make difficult choices. For the most part, a Traveller would feel a compulsion to take certain actions or have a feeling of rightness about some situations. A use of implanted imperatives must create more options than it takes away. The outer limit would be having a Traveller carry out an action and not remember doing it.
 
 For example, if the Travellers are investigating who deleted a critical section of the logs and one of them discovers they did it, this raises questions that could be interesting. Should the Traveller tell the others? Is the video of them taking this action faked? Why did this happen? Handled well, the imperatives might kindle a burning resentment towards an intelligence agency that violated the Traveller's free will, which would be an interesting in-game situation. Used in a heavy-handed manner they are more likely to result in resentment towards the Referee.
-
-
 
 The question was resolved by a coded signal embedded in routine datanet chatter. It was an advisory, planted by an intelligence operative who might well have been captured soon after. The code indicated that the Imperium and the Zhodani Consulate were now at war and that the Zhodani had struck first. There was no other information.
 
@@ -369,8 +355,6 @@ There was only one possible solution. The Travellers pulled an auxiliary data co
 
 ... and now the Travellers are on Utoland working in the mining industry for too little money. Their personality overlays are wearing thin and they are beginning to realise something is amiss. At this point, they have no idea just how badly wrong everything has gone.
 
-
-
 ###### INVOLVING THE TRAVELLERS
 
 Flashpoints begins with the Travellers already involved. They are on Utoland with a personality overlay in place. How they got there remains to be determined but if existing Travellers are to be used they will not have their usual goods, money and equipment. It is missing and they do not know where it is. The Travellers must choose a backstory which accounts for this – suggestions are noted further on. They will be able to recover everything they had in the course of the adventure.
@@ -382,8 +366,6 @@ If new Travellers are in use the Referee need not reveal anything about the situ
 The Referee should tell the Travellers something along the lines of:
 
 This adventure begins 'in medias res' – right in the middle of something. Your Travellers find themselves in a difficult situation and for the time being cannot remember how they got there. They will get the chance to unravel the events of the past few weeks and recover their money and equipment, but they will have to deal with what is in front of them first.
-
-
 
 The Demilitarised Zone between Imperial and Zhodani space is the result of multiple wars and the treaties that ended them. Some of the worlds within it have been part of one power or both at times and all are subject to varying degrees of cultural influence. Many of these worlds have developed their own culture that is neither Imperial or Zhodani in nature and some have developed a sense of identity that may lead to the creation of a small interstellar power. The Federation of Arden is certainly trying to foster such a measure... with itself as the leader, of course.
 
@@ -413,14 +395,13 @@ Imperial officials in particular go to considerable lengths to avoid using and t
 
 The Arden Group consists of Caloran, 899-076, Zenopit, Arden, Zircon and Utoland. Some of these worlds have minimal populations which might be better considered outposts of Arden's economic sector than world governments in their own right. Zircon is at present resistant to Arden's influence, with objections occasionally spilling over into violence.
 
-THE IMPERIAL-ALIGNED WORLDS Frond, Edinina and Tionale are officially client states of the Imperium, with treaties in place permitting Imperial forces to be stationed in-system without violating the DMZ. Digitis has had client state status in the past but there are legal questions concerning whether this is still in place. The Imperium usually maintains that it is, whilst the Zhodani Consulate does not recognise the claim.
+##### THE IMPERIAL-ALIGNED WORLDS
+
+Frond, Edinina and Tionale are officially client states of the Imperium, with treaties in place permitting Imperial forces to be stationed in-system without violating the DMZ. Digitis has had client state status in the past but there are legal questions concerning whether this is still in place. The Imperium usually maintains that it is, whilst the Zhodani Consulate does not recognise the claim.
 
 ##### THE ARDEN TRANSIT
 
-Pequan, Tremous Dex and Rangent are usually referred to as the Arden Transit. 871-438 is associated with them but has no population and is generally bypassed. The Class B starport at Tremous Dex is an anomaly, representing considerable investment in an otherwise low-value system. It was built soon after the Fourth Frontier War by a private consortium funded by the Zhodani Consulate. The goal, apparently, was to foster increased trade and perhaps better relations between Imperium and Consulate. Although officially non-aligned, Tremous Dex is sometimes referred to
-##### as a Zhodani Protectorate and often has a consular $2 $3 $4
-
-navy guardship present.
+Pequan, Tremous Dex and Rangent are usually referred to as the Arden Transit. 871-438 is associated with them but has no population and is generally bypassed. The Class B starport at Tremous Dex is an anomaly, representing considerable investment in an otherwise low-value system. It was built soon after the Fourth Frontier War by a private consortium funded by the Zhodani Consulate. The goal, apparently, was to foster increased trade and perhaps better relations between Imperium and Consulate. Although officially non-aligned, Tremous Dex is sometimes referred to as a Zhodani Protectorate and often has a consular navy guardship present.
 
 ##### STAVE
 
@@ -431,54 +412,29 @@ The proximity of Stave to Zhodani territory places it within the Consulate's sph
 Ruie is heavily balkanised, with nations ranging from pro- to anti-Imperial in their stance and having little fondness for the Consulate either. The proximity of the system to Regina makes it desirable for the Imperium to annex it or at least negotiate the right to base warships there, but existing treaties do not permit this. At the beginning of the Fifth Frontier War the Zhodani Consulate staged a fleet through Ruie to attack Regina - exactly as the Imperials had feared – in violation of the DMZ treaty. The outcome of this action is still in doubt at the beginning of this adventure.
 
 	**Planet Sector Location Bases Statistics Trade Codes Travel Code Allegiance Gas Giants**
-	
 	Algebaster Cronor 0605 C665658-9 Ag Ni Ga Ri
-	
 	Frond Cronor 0810 E9C3300-9 Fl Lo G
-	
 	Narval Cronor 0805 M D525688-7 Ni A Consulate G
-	
 	Plaven Cronor 0807 E845300-5 Lo G
-	
 	Quar Cronor 0808 N B532720-B Na Po A Imperium G
-	
 	Rasatt Cronor 0607 E883401-7 Ni
-	
 	Stave Cronor 0710 E7667A8-2 Ag Ga Ri G
-	
 	871-438 Jewell 1510 E722000-0 Ba Po G
-	
 	Esalin Jewell 1004 C565673-8 Ag Ni Ri A G
-	
 	Gougeste Jewell 0909 C572510-A Ni A Imperium
-	
 	Pequan Jewell 1210 E5656B9-4 Ag Ni Ri A
-	
 	Utoland Jewell 1209 M C573464-7 Ni
-	
 	Zenopit Jewell 1010 D430546-7 De Ni Po G
-	
 	Zircon Jewell 1110 M C792668-8 Ni G
-	
 	Ruie Regina 1809 C776977-7 Hi In A G
-	
 	899-076 Vilis 0912 E201300-8 Ic Lo Va
-	
 	Arden Vilis 1011 B5549CB-9 Hi A
-	
 	Caloran Vilis 0911 C796746-5 Ag
-	
 	Digitis Vilis 1212 E53668A-6 Ni
-	
 	Edinina Vilis 1213 E400220-7 Lo Va A Imperium G
-	
 	Rangent Vilis 1411 E67A612-7 Ni Wa G
-	
 	Tionale Vilis 1511 C674321-8 Lo A Imperium
-	
 	Tremous Dex Vilis 1311 B511411-C Ic Ni G
-	
-	
 
 Utoland is a small, dry planet with a tainted atmosphere. It is semi-officially owned and governed by Arden, an independent world about three parsecs away. Utoland has little economic value of its own and is currently being stripped of its mineral and natural assets by the government of Arden. In addition to the permanent population of around 40,000 there is a variable but large transient workforce, most of whom work in or are based out of large complexes. The biggest of these is Mining Complex 4, located about 100 kilometres south of the planet's only city, Utane.
 
@@ -498,12 +454,11 @@ Utoland had a small and scattered population until The Arden Society decided to 
 
 # UTOLAND
 
-_UTOLAND'S TAINT_
+## UTOLAND'S TAINT
 
 Utoland's atmosphere is tainted with fine dust which irritates respiratory passages and can, over time, increase the risk of cancer. The taint is worse around surface mining operations, as might be expected. A standard filter mask is overkill in this situation; cloth masks are entirely sufficient providing they are cleaned regularly. Being exposed to the taint for a short time is not likely to be harmful, although sneezing and some discomfort is likely.
 
-Most buildings have what are grandly termed
-'airlocks' but which might better be described as dust-traps. Blowers are common, forcing most of the dust back outside, but in poorer areas dust protection is a matter of stopping between the doors and knocking the dust off. Such dwellings usually have a thick carpet of dust outside, where it has been brushed out of the dust-trap. Such basic measures are not really adequate and respiratory diseases are common among those who cannot afford blowers and good door seals.
+Most buildings have what are grandly termed 'airlocks' but which might better be described as dust-traps. Blowers are common, forcing most of the dust back outside, but in poorer areas dust protection is a matter of stopping between the doors and knocking the dust off. Such dwellings usually have a thick carpet of dust outside, where it has been brushed out of the dust-trap. Such basic measures are not really adequate and respiratory diseases are common among those who cannot afford blowers and good door seals.
 
 Citizens from Arden arrived and set up businesses in Utane. They were lavishly funded and had access to more advanced machinery and goods than the locals. The ensuing period of expansion and economic conquest seemed at first to be beneficial to the locals but it quickly became apparent that all the money was being made by the Ardenites. As the mood changed, protests began which provided an excuse to deploy the newly formed Economic Protection Service.
 
@@ -513,13 +468,9 @@ On the face of it, Utoland did seem to be undergoing an economic boom. Mining co
 
 There was never much investment in Utoland other than the mines and infrastructure needed to get products to Arden. What industry was created was entirely focused on supporting the mines. The end result was a disaffected population of Utolanders and poor Ardenites, equally oppressed by the EPS, with a managerial class above them. There is no real elite on Utoland; the rich people who own the mines do not visit unless they absolutely have to. Competition for managerial status is fierce, with far more mid- and higher level jobs going to personnel hired offworld than local people. This situation is exacerbated by a poor education system.
 
-The Economic Protection Service absorbed local law enforcement, such as it was, but is concerned with protecting the managerial class and then Ardenite businesses, to the near-exclusion of other functions. Individuals or circumstances that threaten stability or undermine profits are dealt with but most other crimes are half-heartedly investigated, if at all. The EPS operates on something close to a war-zone footing much of the time, carrying out heavily armed
-
-patrols in force or implementing lockdowns of troubled areas if the perceived need is sufficiently great. Most neighbourhoods have unofficial enforcers, who vary from gangs of thugs protecting their own activities to a semblance of actual police.
+The Economic Protection Service absorbed local law enforcement, such as it was, but is concerned with protecting the managerial class and then Ardenite businesses, to the near-exclusion of other functions. Individuals or circumstances that threaten stability or undermine profits are dealt with but most other crimes are half-heartedly investigated, if at all. The EPS operates on something close to a war-zone footing much of the time, carrying out heavily armed patrols in force or implementing lockdowns of troubled areas if the perceived need is sufficiently great. Most neighbourhoods have unofficial enforcers, who vary from gangs of thugs protecting their own activities to a semblance of actual police.
 
 The situation is better in the mining complexes, in the sense that everyone there has a job and there are more guards. Infractions are punished with docked pay or assignment to punitive duties, which are hazardous and unpleasant. Living conditions are basic but generally better than in the capital, since the complexes were planned rather than growing in a rush as more people arrived. Overall, The Arden Society has taken control of Utoland and is plundering its natural resources. Its members do not care about the population so long as their factories are kept fed by a steady supply of ores and minerals.
-
-
 
 # UTANE
 
@@ -547,9 +498,7 @@ There are several such clusters, some of which are connected to others by passag
 
 The starport is located on the southern side of the city, forming a large bulge. It was built to TL9 standards, with some advanced equipment brought in by The Arden Society. Facilities are good, creating a favourable impression with offworlders who have not seen the rest of the city. The port has very obvious heavy-loading equipment for ore and minerals, and will often have an ore freighter on its large pad.
 
-The port is served by a rail link which has separate heavy and light elements. The light rail elements carry passengers and minor goods within the city, whilst the heavy element uses a wider gauge and links the starport rail terminal (2a) with the northern rail nexus
-(8a) and to the mining complexes by way of the central rail hub (9). The city's administration complex
-(2b) is also located at the starport. Here, new arrivals undergo an orientation process which builds up their hopes before being sent to wherever they are to work. Orientation is sufficiently slick that many retain their optimism for weeks or even months.
+The port is served by a rail link which has separate heavy and light elements. The light rail elements carry passengers and minor goods within the city, whilst the heavy element uses a wider gauge and links the starport rail terminal (2a) with the northern rail nexus (8a) and to the mining complexes by way of the central rail hub (9). The city's administration complex (2b) is also located at the starport. Here, new arrivals undergo an orientation process which builds up their hopes before being sent to wherever they are to work. Orientation is sufficiently slick that many retain their optimism for weeks or even months.
 
 A belt of managerial level housing (2c), interspersed with dwellings for their staff and an Economic Protection Service contingent, surrounds the southern end of the port. The whole area is walled and monitored by cameras. Beyond this is a cleared area delineating the limits of the city. Such cleared areas are often taken over by locals hoping to grow food or construct a living space but those near the starport are off-limits and anyone trying to move in is run off by the EPS.
 
@@ -566,50 +515,6 @@ Offworld trade is minimal, although ships from Arden use the port on a regular b
 ME2 is built on the site of the original Arden Economic Complex, which was set up early in the economic takeover of the world. Once the Ardenite presence had outgrown it, this area was largely ignored until it was torn down and recently rebuilt. Surrounded by a double fence with a ditch between, the area houses the tallest buildings on Utoland. At only 6–10 storeys these are hardly impressive to offworlders but they are a symbol of Arden overlordship. Not coincidentally, one of the towers rises from a compound housing the Economic Protection Service training facilities, armoury and vehicle garage. The tower is rumoured to have concealed weapon mounts capable of firing into the Old Town and other nearby areas. The EPS headquarters is on the top levels of the tower.
 
 The rebuilt ME2 is the best place to live on Utoland. Its population is about 80% Ardenite, with most of the Utolanders working in service industries or employed by the EPS. Permit enforcement is strict and reasonably honest in this area, to the point where just requesting a permit to visit is grounds for a background check. As with the starport, those privileged to work here are grateful and will rarely do anything to risk their status.
-	
-	
-	
-	01
-	
-	02
-	
-	03
-	
-	04
-	
-	05
-	
-	06
-	
-	07
-	
-	02a
-	
-	02b
-	
-	11
-	
-	11
-	
-	11
-	
-	12
-	
-	13
-	
-	13
-	
-	08a
-	
-	02c
-	
-	08
-	
-	09
-	
-	10
-	
-	Utane
 
 ###### MANAGERIAL ENCLAVE ONE (FENCED SECURE AREA) (5)
 
@@ -637,8 +542,6 @@ This part of the city is not walled or fenced but the rail yards and ore process
 
 The central rail hub was built once it became apparent that output from Utoland would exceed the original expectations. It is co-located with the main ore processing works, with produce from the mines efficiently unloaded, sorted, processed and made into ingots for shipment offworld. The rail hub and processing works have good fences which are surrounded by a belt of worker housing. There are guard posts and a partial fence facing the Old Town to deter thievery but this does not prevent enterprising Utolanders from sneaking into the hub from time-to- time. Work is underway on improved security but has never been assigned a high priority.
 
-
-
 ###### ABANDONED ZONE (10)
 
 Work was begun on a new section of worker housing, eventually to become an extension of the New Town. However, shifting priorities resulted in work being postponed over and over, with construction taking place in fits and starts. Some areas are more or less complete whilst others are construction sites or ruins where partially completed buildings have collapsed. A small community of locals have moved into the zone and are more or less ignored by the EPS so long as they do not cause trouble. Groups are occasionally run off by rivals or the security service but for the most part the 'abandoned' part of the city goes about its business without interacting much with outsiders.
@@ -657,8 +560,6 @@ Utoland rests atop a natural aquifer which provides water to the city through a 
 
 Most of Utoland's food production comes from outlying communities which are left alone most of the time so long as they meet their contracted quotas. However, since the creation of the artificial lake it has become viable to construct large farms on its flanks. These are run as subsidiaries of the mining corporations and have security teams on call as well as armed workers. Produce is normally driven in offroad trucks into the marshalling area before being distributed inside the city.
 
-
-
 Located 100 kilometres south of Utane, MC4 is a purpose-built facility serving as a processing hub for ore mined in the local region. The facility as a whole is walled, with regular security patrols and cameras
 'for the safety and security of the workforce'. The city's heavy-gauge rail hub serves five outlying mining areas. Living conditions are a bit better than in Utoland for the most part but the overall impression is of utilitarianism. Everything about MC4 is drab.
 
@@ -676,9 +577,7 @@ Most transactions are undertaken in cash, using company scrip which change in va
 
 MC4 itself is owned and operated by the Ursherer Mining Consortium, or UMC. The largest business group on Utoland, UMC more or less controls the Economic Protection Service planetwide and operates most large-scale facilities such as rail hubs and processing works. All other companies pay a percentage to use its facilities but most find this cheaper and all consider it less risky than attempting to build their own. Almost all administrators in MC4 are employees of UMC, except those working in the offices of smaller mining concerns. Most businesses are private but subject to licensing from the installation owner.
 
-
 # MINING COMPLEX FOUR (MC4)
-
 
 ### ATRAN EXTRACTION Atran Extraction (AE) specialises in surface mining. It operates both a large open-cast mine south of the complex and several mobile surface extraction units. Atran is one of the better employees on Utoland, in the sense that it has less restrictions on withdrawals of scrip and personnel movement. One of the standard ways out of Utoland's worker-trap is to be offered a job with Atran as a stepping stone. Of course, this gives the firm the pick of employees for the time it takes them to obtain a ticket offworld.
 
@@ -712,20 +611,6 @@ The South Ridge Mine Complex is owned and operated by Khigur and Andrews Incorpo
 
 The North Shaft mine is run by K&A and is sometimes known as the 'money pit'. Despite promising surveys, the site has never really justified the effort of sinking the main shaft but tantalising hints of viable deposits have repeatedly drawn in new rounds of exploratory drilling. Some saleable material does come out of the mine but for the most part the North Shaft produces nothing but rocks.
 
-	**_mInIng complex Four (mc4)_**
-	
-	01
-	
-	03
-	
-	04
-	
-	05
-	
-	06
-	
-	Mining Complex 4
-
 Arden, and therefore its possessions, officially holds a neutral position in the conflict between the Imperium and Zhodani Consulate. However, the reality is that Arden is aligned towards the Consulate. This is not entirely out of choice. The Zhodani are willing to recognise Arden as an interstellar power and guarantee its sovereignty, unlike the Imperium, but it has also made it plain that Arden must cooperate or be crushed. In the longer term The Arden Society will need to find a way to remain independent, but for now they must be seen to comply with the wishes of their mighty patron.
 
 The Zhodani Consulate is at present concerned with large-scale fleet assaults on the Jewell Salient. Securing the Demilitarised Zone is a minor concern, and Utoland even less significant. Nevertheless, gaining and maintaining control of minor worlds between the Consulate and the Imperium is a requirement for a successful strategy. Any territorial gains can be useful at the negotiating table, and the sooner the DMZ is made safe for Zhodani support vessels the easier it will be to push supplies forward to the combat fronts.
@@ -742,9 +627,7 @@ Interned ships are held at the port, which will eventually run out of room for n
 
 Lixin Umkiir is a far trader registered out of Arden. She was reflagged in order to get around tariffs imposed by the Federation of Arden; not in and of itself suspicious, but her original port of registry is Regina. As an Imperial ship, Lixin Umkiir is automatically under suspicion.
 
-
 # THE ZHODANI OCCUPATION OF UTOLAND
-
 
 Aurora Four is a Type R subsidised merchant registered out of Macene, an Imperial Navy reserve auxiliary, and therefore an enemy vessel. Caught in the DMZ by Zhodani light forces at the outbreak of war, she surrendered to avoid destruction and spent several weeks in a holding orbit around Caloran. Transfer to Utoland is a step up for her crew, who are technically prisoners of war but have simply been interned like other suspect crews.
 
@@ -755,8 +638,6 @@ Ship's boat FB-220011 is something of an anomaly. She was sitting on a corner of
 All the authorities know at this time is that this craft must have been brought aboard another ship, but has been standing idle since before the Zhodani arrived. Her arrival coincides with a group of prospective workers passing through the customs and orientation process. Their identities are known but they are currently at Mining Complex Four. A request for investigation has produced a frustratingly slow response, resulting in the Zhodani officer commanding the occupation force demanding that a squad from the EPS go and bring these workers in for questioning – or he will send troops.
 
 For all the severity of that threat, this is still a routine manner. The crew and passengers of this craft are contained planetside and are probably just itinerant workers. There are many tasks to be accomplished and investigating these people is of low priority. That may change as the Travellers come to recognise their situation and take measures to get offworld.
-
-
 
 Outsiders have the impression that Zhodani Consulate ground forces are built up of neat blocks of 10 soldiers, with 10 of those forming a company-equivalent and 100 to a battalion. This is in part due to the titles of leaders
 (non-commissioned officers) and officers, which follow a one, two, five progression through multiples of 10. The reality is a little less rigid.
@@ -779,7 +660,7 @@ Nominal company strength is 100 personnel, organised as 10 'Tens' which are grou
 	**Headquarters and Support Element (Officer of Twenty)**
 	Company Support Staff (Leader of Ten)
 	Company Vehicles (Leader of Ten)
-	
+
 	**Security Element (Officer of Fifty)**
 	Security Element Support Ten (Leader of Ten)
 	Security Element Vehicles
@@ -800,7 +681,7 @@ Nominal company strength is 100 personnel, organised as 10 'Tens' which are grou
 	Leader of Five
 	Rifleman x 3
 	Grenadier
-	
+
 	**Defensive Element (Officer of Fifty)**
 	Defensive Element Support Ten (Leader of Ten)
 	Security Element Warbot Handlers
@@ -829,8 +710,7 @@ Nominal company strength is 100 personnel, organised as 10 'Tens' which are grou
 	VRF Gunner
 	VRF Loader/Technician x 2
 
-The company has defensive and security elements, each with slightly different roles. Normally the defensive element is concerned with securing the unit's base (in this case, the starport) and preparing to repel a significant military attack. It will loan some of its rifle and heavy weapons elements to the security force as needed but these are normally set up in prepared positions. The security element is available to carry out patrols or react to unexpected events, although at present this is limited to the Startown under most circumstances. The headquarters and security element each have a handful of light grav vehicles and augment this with local transport commandeered (or
-'borrowed') from the port authorities.
+The company has defensive and security elements, each with slightly different roles. Normally the defensive element is concerned with securing the unit's base (in this case, the starport) and preparing to repel a significant military attack. It will loan some of its rifle and heavy weapons elements to the security force as needed but these are normally set up in prepared positions. The security element is available to carry out patrols or react to unexpected events, although at present this is limited to the Startown under most circumstances. The headquarters and security element each have a handful of light grav vehicles and augment this with local transport commandeered (or 'borrowed') from the port authorities.
 
 The unit's headquarters element is capable of handling its own administration and minor support, such as medical and cooking requirements. However, long-term it would require additional support unless local facilities can be co-opted. This has been accomplished by taking over a small part of the starport. The unit is securely established but lacks mobility. This is not much of a problem given its mission is primarily to monitor the starport and ensure it is not used by hostiles.
 
@@ -858,8 +738,6 @@ If local law enforcement is cooperating with the occupation force, miscreants mi
 
 Anyone detained for any reason will be placed on a watch database and those who turn out to pose a threat will be dealt with. This can mean a raid to capture them but quite often all the occupying force will do is put out a request for the person to surrender. If they do not they will be subject to a detain-on-contact order at the least and in some cases occupation troops will be ordered to shoot on sight. However, even if someone commits an act of violence against the occupation troops it is unlikely they will be sought out – protection of the port and associated areas is the mission, not bringing individuals to justice.
 
-
-
 The occupation force is on a war footing. Troops deploy in combat armour, going unarmed and unarmoured only inside secured areas.
 
 ## OFFICER OF ONE HUNDRED DLIKLPIDL ONTDIDKRETE
@@ -885,10 +763,9 @@ The captain is not naïve or stupid but society outside the Consulate is alien t
 	Combat (energy) 1, Leadership 3,
 	Tactics (military) 2, Telekinesis 2,
 	Telepathy 3
-	
 	SOC 9
 	PSI 6
-	
+
 	WEAPONS
 	Laser Pistol (3D+4, Auto 2)
 	ARMOUR
@@ -896,7 +773,6 @@ The captain is not naïve or stupid but society outside the Consulate is alien t
 	EQUIPMENT
 	Anything the company has in store, or that he
 	can co-opt
-
 
 ###### ZHODANI TROOPERS
 
@@ -918,7 +794,7 @@ Armed with a laser carbine and concussion grenades, ordinary troopers make the b
 	Combat Armour (+19)
 	EQUIPMENT
 	As issued
-	
+
 	ZHODANI HEAVY WEAPONS OPERATOR
 	STR 8 SPECIES Zhodani
 	DEX 8 GENDER —
@@ -927,7 +803,7 @@ Armed with a laser carbine and concussion grenades, ordinary troopers make the b
 	EDU 6 Gun Combat (energy) 1, Heavy
 	Weapons (slug or energy) 2, Medic
 	0, Melee 0, Recon 1
-	
+
 	SOC 6
 	PSI 4
 	WEAPONS
@@ -936,7 +812,7 @@ Armed with a laser carbine and concussion grenades, ordinary troopers make the b
 	Combat Armour (+19)
 	EQUIPMENT
 	As issued
-	
+
 	ZHODANI WARBOT HANDLER
 	STR 8 SPECIES Zhodani
 	DEX 8 GENDER —
@@ -945,7 +821,7 @@ Armed with a laser carbine and concussion grenades, ordinary troopers make the b
 	EDU 6 Electronics (remote ops) 2, Gun
 	Combat (energy) 1, Medic 0, Melee
 	0, Recon 1
-	
+
 	SOC 6
 	PSI 4
 	WEAPONS
@@ -954,8 +830,6 @@ Armed with a laser carbine and concussion grenades, ordinary troopers make the b
 	Combat Armour (+19)
 	EQUIPMENT
 	As issued
-
-
 
 ##### MEDIUM WARBOT
 
@@ -981,8 +855,6 @@ This design is a popular warbot model, with customised versions in use throughou
 	Environment Protection, Visual Spectrum Sensor,
 	Voder Speaker, Weapon Mount (medium), Wireless
 	Data Link
-	
-
 
 Flashpoints begins rather abruptly. The Travellers are all at The Strips, aboard a giant rock-gouging machine. How and why they are there will become apparent but first they must deal with the problems they immediately face. At the moment the adventure starts the Travellers literally do not know who they are, nor where. They have been jarred out of their overlaid personas, although they do not know that. The sensation is rather like waking suddenly from a deep sleep; there is a moment of disorientation followed by recognition and recall. Unfortunately for the Travellers, this moment coincides with a life-threatening situation.
 
@@ -992,11 +864,9 @@ The Travellers will recall how they got here quickly enough but at this moment t
 
 # A MOMENT OF REVELATION
 
-
 Militte Gouger was being run in a slipshod manner, with every possible corner cut. Most notably, surveys of the ground ahead were cursory at best. Liberal use of the launcher has allowed the gouger to carve a swathe through the countryside, tearing up a considerable volume of low-value ores interspersed with a little silver which will command a better price. Driven by greed, the gouger has pushed into an area of more solid rock which has not been properly broken up by the penetrator projectiles. Instead a deep crack opened up along a fault line and was not immediately detected.
 
-The immense weight of the gouger forced a slight slip in the cracked rock, which in turn resulted in digging wheel
-#4, the outermost starboard one, to bite deeper than it should. The gouger was brought to a grinding halt, accompanied by a screeching of metal and an ominous shuddering through its structure. Wheel #4 broke its mountings, sending fragments flying in all directions. By mischance one smashed the front viewports of the main control chamber at the front of the crew level, killing the duty driver and wrecking the controls. The automated stop-everything failsafe... failed.
+The immense weight of the gouger forced a slight slip in the cracked rock, which in turn resulted in digging wheel #4, the outermost starboard one, to bite deeper than it should. The gouger was brought to a grinding halt, accompanied by a screeching of metal and an ominous shuddering through its structure. Wheel #4 broke its mountings, sending fragments flying in all directions. By mischance one smashed the front viewports of the main control chamber at the front of the crew level, killing the duty driver and wrecking the controls. The automated stop-everything failsafe... failed.
 
 The remaining gouging wheels have been dragged down and are trying to continue to rotate despite biting too deep into the ground. It is unclear whether they will break their mountings, twist the support framework, or tear themselves free and continue to rotate. The broken wheel has components of its driving mechanism still lashing about. All personnel and cargo elevators have emergency-halted and some (or perhaps all) are jammed due to distortion. Meanwhile a poorly surveyed weak area of ground under the rightside 'foot' is giving way, causing the gouger to tip to starboard. All this takes place in a cacophony of human screams, grinding metal and the booming of rocks falling onto the crew compartment.
 
@@ -1020,8 +890,6 @@ This instant is like a freeze-frame as each Traveller stumbles across the deck a
 ###### I KNOW YOU!
 
 When Travellers catch sight of one another they feel familiarity but cannot put a name to the person they see. They will recognise some capabilities, so Travellers will be identified to one another as 'that admin guy', or 'the tall one who does... whatever it is they do'. Names will come later but for now the Travellers know their fates are bound up together. They just do not know why, nor indeed who they are.
-
-
 
 The Travellers have an instinctive appraisal of what they know how to do, at least in general terms. They will recognise things they know about as they see them. Someone who has good technical skills will recognise the communications gear or other relevant systems and realise they know how to operate or repair them. If asked questions like 'do you know how to disarm a penetrator charge?' they may be surprised to find they do (assuming they have the Explosives skill), although they as yet cannot say how they know.
 
@@ -1049,10 +917,7 @@ If the Travellers do not do anything, the gouger and most of the people aboard i
 
 The gouger has a crew of around 40 personnel under normal circumstances. Several are already dead or critically injured and others are in desperate danger. The duty drive crew are all down, although there are other people who could direct or control the vehicle. The main problem is a lack of coherent leadership. The general manager is in overall charge but has no experience of life-threatening incidents. His instinct is to try to find someone who can deal with the technical and physical problems, and set teams working to that end. In short, he is trying to methodically put an action plan in place in a situation where decisive action is necessary right now. The chief engineer, second in command of the gouger, is fighting fires in the reactor chambers. This is worthy enough and necessary to overall survival but she has lost sight of the bigger picture.
 
-
-
-If this situation is allowed to continue it will go irredeemably out of control and the vehicle will topple over and/or suffer structural collapse. That can be delayed, mitigated or even averted if someone acts decisively. For the moment, the situation can be considered 'peak of the crisis' – if it gets any worse there is no chance for most of the crew. The Referee should adjudicate the actions of the Travellers on a
-'disaster movie' basis. There are tools and equipment throughout the vehicle, so it is possible the Travellers may be able to grab what they need.
+If this situation is allowed to continue it will go irredeemably out of control and the vehicle will topple over and/or suffer structural collapse. That can be delayed, mitigated or even averted if someone acts decisively. For the moment, the situation can be considered 'peak of the crisis' – if it gets any worse there is no chance for most of the crew. The Referee should adjudicate the actions of the Travellers on a 'disaster movie' basis. There are tools and equipment throughout the vehicle, so it is possible the Travellers may be able to grab what they need.
 
 If it is desirable to adjudicate an attempt to grab some useful item or locate a route through a damaged section, the Referee can use the 'finding a solution' table using the Traveller's INT modifier. Skills may also apply; attempts to scrounge items might be based on Streetwise or a relevant skill such as Mechanic, indicating a familiarity with emergency equipment and procedures. A Traveller who can make a case for using a skill should be permitted to do so unless there is some major reason why not. Negative modifiers may apply if circumstances dictate. For example, trying to find medical supplies in a fire-ravaged compartment will be tricky and looking for something that would not plausibly be there is impossible.
 
@@ -1080,8 +945,6 @@ Rescue Zars: Zars Azikhkfaek, a Vargr worker, is tangled in cables near the goug
 |10–12| Minor Success |The Traveller achieves a minor success, such as locating a small amount of equipment or a short section of clear route.|
 | 13 or more| Major Success |The Traveller finds what they need without undue complication.|
 
-
-
 Rally Workers: Everyone is hurt and scared. There are several workers who are not badly injured but clamouring for medical treatment, evacuation or both. If the Travellers can reassure and redirect them, these people could save others. The most likely solution is a quick examination and whatever treatment is needed whilst downplaying their injuries, then giving them a clear task. That might be to locate and fetch other casualties, scout the vehicle and provide an update on the situation and available resources, or carry out some other specific task. 'Anyone with tech skills head for the reactor chamber and assist the chief engineer' might be one of the most significant phrases said during the crisis.
 
 Collect Information: Just getting a clear picture of the situation would help a lot. This might be personal observation but questioning survivors would also be useful. Travellers might collect a personnel roster and see who is accounted for, inspect the propulsion machinery to see if it can be used, try to locate a driver or someone who knows how to shut off the gouger wheel... there are many possibilities which will assist in dealing with the many problems facing the Travellers.
@@ -1102,14 +965,12 @@ Management of a crisis is not Roman's forte. He lives in a world of forward plan
 	EDU 10 Admin 3, Advocate 2, Broker 1,
 	Carouse 1, Diplomat 1, Leadership
 	1, Profession (planetary mining) 1
-	
+
 	SOC 9
-	
+
 	EQUIPMENT
 	Anything aboard the gouger, if he can find
 	someone to use it
-	
-
 
 Initially, Roman tries to find out everything and make a plan to restore the situation. He will not countenance extreme measures until he is sure the gouger cannot be saved. At that point he cares only about saving lives – everyone, of all social classes. This means that he goes from not doing enough because he feels it is not necessary, to focusing on casualty location and evacuation when there is still a chance to salvage the situation.
 
@@ -1133,30 +994,28 @@ Alikka will take a practical risk-vs-return approach to the crisis, although she
 	(slug) 1, Jack-of-All-Trades 1,
 	Leadership 1, Streetwise 1, Vacc
 	Suit 2
-	
+
 	SOC 5
-	
+
 	WEAPONS
 	Autopistol (3D-3)
 	EQUIPMENT
 	Engineering Tools
-	
-	
-	
+
 	02
-	
+
 	02a
-	
+
 	02b
-	
+
 	03 03
-	
+
 	03 03
-	
+
 	04 04
-	
+
 	06 05
-	
+
 	Gouger Reactor
 
 ###### REACTOR
@@ -1171,8 +1030,6 @@ There are banks of controls and other elements of the gouger's electronics aroun
 (3). Those on the opposite side to the entry point are well afire (2a). The automated suppression system has failed due to a ruptured pipe (2b). This creates a ridiculous situation in which large quantities of suppressant foam are being dumped at one end of the chamber whilst the fire is being manually fought at the other. The foam will run out soon.
 
 ##### EQUIPMENT STOWAGE (4) Two large walk-in stowage areas contain reactor spares, tools, sections of piping and conduit, and also emergency equipment. Hoses can be run out to spray foam manually but pressure is dropping due to the ruptured pipe. There are also several hand-held extinguishers, heat-resistant coveralls and breathing gear, and mobile shields that can be used to protect personnel as they fight the fire or transit the area.
-
-
 
 ##### CONTROL CHAMBER (5) The gouger's secondary control chamber has so far withstood the heat. Its door is closed and nothing is on fire inside. However, the door and surrounding bulkheads are hot and beginning to warp. This may cause problems if the Travellers want to use the controls.
 
@@ -1194,10 +1051,7 @@ Alternatively, it may be possible to cut the power closer to the wheels. This re
 
 ###### PENETRATOR CHARGES
 
-The penetrator charges are stored in a bulkheaded deckhouse which should protect them under most circumstances. They should also have safety pins in place and detonators should be stored separately.
-'Should' in this case refers to what sensible people do and regulations require. In fact, storage of explosives aboard Militte Gouger does comply with regulations and the stored charges are probably safe to leave in place. However, corners were cut in the interests of increasing launch rate. There are live charges in the autoloader and more importantly others brought forward ready to be inserted into the autoloader as soon as possible. There are three projectiles, live and ready to launch, on the upper deck. They are contained only by a jury-rigged fence which is likely to give way at any moment.
-
-
+The penetrator charges are stored in a bulkheaded deckhouse which should protect them under most circumstances. They should also have safety pins in place and detonators should be stored separately.  'Should' in this case refers to what sensible people do and regulations require. In fact, storage of explosives aboard Militte Gouger does comply with regulations and the stored charges are probably safe to leave in place. However, corners were cut in the interests of increasing launch rate. There are live charges in the autoloader and more importantly others brought forward ready to be inserted into the autoloader as soon as possible. There are three projectiles, live and ready to launch, on the upper deck. They are contained only by a jury-rigged fence which is likely to give way at any moment.
 
 Each projectile consists of a three metre long, cylindrical bus section which contains the propellant. The payload section carries six smaller rocket-propelled penetrator projectiles, each 80 centimetres long, and a central guidance unit. These are cheap and expendable but good enough to get the bus to its separation point and programme the penetrators with their final trajectory. The whole process is overseen from the launcher control cabin next to the launcher. Penetrators are armed electronically after launch and cannot, in theory, detonate before this. However, a sufficiently high level of energy, such as another explosion or being in the path of an exhaust jet, could activate them.
 
@@ -1222,8 +1076,6 @@ The gouger is fitted with a 500mm smoothbore mortar/ launcher, which projects it
 	Weapon TL Range Damage Kg Cost Magazine Magazine Cost Traits
 	Penetrator 9 15km 12D 18 Cr9000 1 N/A AP 6
 
-
-
 Devices of this kind are enormously destructive and normally subject to agreements to refill the areas they have devastated after mining is complete. In theory, re- laying the discarded soil and planting some local fauna should be inexpensive and not much of an imposition but many gouger operators prefer to find excuses not to do it. Again, since The Arden Society considers Utoland to be an expendable asset there is little incentive to tidy up afterward. This attitude has led to a general loosening of procedures everywhere, particularly among the independent mining concerns which are often operating on narrow profit margins.
 
 ##### PROPULSION LEVEL (1) The propulsion level is a roughly triangular platform resting atop the three tracked feet. It is gimballed to stay level even if the feet are crossing rough ground. The propulsion level also contains the gouger's power plant, an imported starship-grade reactor. It is old and has been poorly maintained since it was bought from a starship scrapping facility. A framework of enormous girders carries personnel and equipment elevators up to the higher levels.
@@ -1242,22 +1094,20 @@ immediately behind it. It is normally operated from the command area on the crew
 
 ##### PROCESSING UNIT (7) Further crushing and sorting takes place in the processing unit, which uses imported plasma furnaces to produce first-stage purified ore. This is formed into billets which are dropped behind the gouger, whilst spoil is dumped to the sides. The composition of a billet can vary considerably depending on what sort of terrain is being crossed. Normally the output is a mix of relatively low-value metal ores but other minerals can be mined. In theory, the gouger could pick up and compact soil for use in a terraforming or agricultural improvement programme, although this is not cost-effective unless someone is willing to pay very high prices.
 
-	
-	
 	01 02
-	
+
 	03
-	
+
 	03
-	
+
 	04
-	
+
 	05
-	
+
 	06
-	
+
 	07
-	
+
 	Militte Gouger
 
 Once the crisis is over and the Travellers can rest, they can unjumble their memories. They start functioning at a higher level of cognition and can recall each other's names... the names they are currently using anyway. People outside the Travellers' group might ask if they are okay, as they seemed 'a bit out of it', but given what just happened this will not seem out of the ordinary. In fact, it seems like everyone but themselves thinks the Travellers are operating within normal parameters given the circumstances.
@@ -1266,10 +1116,7 @@ The Travellers now know who they are and who their comrades are. They can rememb
 
 Each Traveller must choose an origin story before continuing. This is their cover persona. One fact they all have in common is that they arrived on Utoland to take jobs in the local mining industry or its supporting sectors. Their cover must be something they can do without attracting suspicion by being totally incompetent. For example, someone with the Admin skill could get a job in stores or administration; someone who has Explosives might be a demolitions expert. Those without relevant skills will have to pose as manual labourers or unskilled support staff. Note that the Travellers' cover persona cannot be anything to do with starships and spacecraft, other than from skills like Mechanic and Vacc Suit which could have been obtained elsewhere. No-one must suspect they can operate a spacecraft.
 
-Cover personas can be built from the following elements or created by the Traveller. A good cover does not suggest affiliation with any major political entity. Thus
-'I served a term in my planetary defence force' is fine,
-
-'I was in the Imperial Army' is more risky. A Traveller could create a story about disaffection or dishonourable discharge that will avert suspicion but it is a general rule that attention is best avoided altogether. The Travellers are thus well advised to create 'grey person' covers that fade into the background among the many others working on Utoland.
+Cover personas can be built from the following elements or created by the Traveller. A good cover does not suggest affiliation with any major political entity. Thus 'I served a term in my planetary defence force' is fine, 'I was in the Imperial Army' is more risky. A Traveller could create a story about disaffection or dishonourable discharge that will avert suspicion but it is a general rule that attention is best avoided altogether. The Travellers are thus well advised to create 'grey person' covers that fade into the background among the many others working on Utoland.
 
 The Travellers will have to fill in the details and personalise their stories and the more mundane it is the better. They do not at this time know why they are using this cover identity, only that they have very authentic- seeming documentation for it. They should have the general impression they are hiding out on Utoland but not what they are hiding from or how much trouble they are in. That will become apparent later.
 
@@ -1300,8 +1147,6 @@ The Travellers may wonder at the discrepancies in their own stories. They can ex
 |Runner| The Traveller came to Utoland to get away from something. A relationship, a criminal case, a responsibility... they may or may not be willing to say what it was. They are not actively hiding, just trying to leave something behind.|
 |Abandoned| The Traveller was part of a work group of small subcontracting company that unexpectedly went bust or pulled out of Utoland, leaving them stranded here until they can afford passage somewhere better.|
 |Hiding| The Traveller is hiding out on Utoland and will probably just refuse to answer questions or give evasive answers. This will not seem out of place; there are many on Utoland doing the same, mostly hiding from things like debts and other personal concerns.|
-
-
 
 Once the immediate disaster is dealt with, representatives of the authorities start to arrive. There will have to be an investigation, of course, but the immediate concern is ensuring the safety of those aboard... or so they say. The authorities on Utoland are not especially concerned about worker welfare but neither are they completely uncaring. Starting with the most seriously hurt, groups of workers are evacuated from the site and taken by air/raft to Mining Complex Four.
 
@@ -1356,8 +1201,6 @@ If the Travellers performed well (which in this case is defined as 'in the inter
 
 Travellers who spoke negatively about the manager or the company's provision for emergencies will annoy the local authorities – although the Zhodani occupiers do not care so long as these statements appear to be more or less true. In this situation the Travellers are not persons of interest, and may be completely exonerated, but the company now has it in for them. DM-2 applies whenever the Travellers want something from the Utoland authorities and they will face routine hassles.
 
-
-
 For example, trying to buy a rail ticket or get a permit to a loosely restricted area is not normally a problem but persona non grata status means the Traveller will be harassed by the EPS or face additional questions when trying to perform any bureaucratic task.
 
 ###### PERSONS OF INTEREST
@@ -1380,8 +1223,6 @@ Travellers can come under suspicion in a variety of ways. It might be the result
 
 Alternatively, each time the Travellers evade suspicion with a plausible excuse for their actions, any discrepancies will be noted. Enough interactions with the security force will eventually add up to a need for questioning. The most likely response is for the Zhodani to request the EPS arrest the Travellers and for the EPS to make a half-hearted attempt to do so. The Level of Suspicion table indicates the likely response. Each time a Traveller becomes a suspect, roll 2D with the current level of suspicion, which starts at +0, as a DM. The table will indicate what happens next. Note that the level of suspicion can actually go down, perhaps because the authorities conduct a quick investigation and decide the Travellers are merely a nuisance, or the person reporting them has been wrong several times. Escalation is more likely, however.
 
-
-
 Once they are under suspicion, the Travellers will face deeper questioning sooner or later and this time a telepath will be available. Their cover personae will withstand probing, so only their answers to questions are relevant. The Travellers will be closely questioned then detained for a time in an improvised holding area. During this time, they will be observed to see if they say anything useful and if their behaviour matches their explanation for their actions.
 
 The likely outcome of questioning by the Zhodani is for the Travellers to be handed over to the EPS, who are expected to bring charges accordingly. So long as the Travellers cease to be a problem, the Zhodani are content. If the Travellers are obviously a serious threat to the occupation they will be held by the Zhodani themselves but for the most part the assumption is that they are just local miscreants best left to the locals to deal with.
@@ -1391,8 +1232,6 @@ The Referee can impose additional DMs for relevant factors. If the Travellers ro
 ###### IN THE SLAMMER
 
 Travellers who end up imprisoned by the EPS will be held in cells at their barracks until they can be dealt with. They will be put on trial for whatever crimes they are accused of, which may mean the EPS has to decide what they are to be charged with. If the Zhodani just want the Travellers out of the way, they may take any report about proceedings at face value. There will be serious repercussions if the EPS is found to be releasing suspects handed over to it, however, so any proceedings will be heavily politicised.
-
-
 
 ##### Level of Suspicion Table
 
@@ -1410,8 +1249,6 @@ Travellers who end up imprisoned by the EPS will be held in cells at their barra
 In short, detention by the EPS is totally corrupt. The EPS serves the interests of the mining companies exploiting Utoland and at present those interests are best served by giving the Zhodani what they want. The likely upshot of this is for the Travellers to be presented with a long list of charges and encouraged to make a plea bargain. Sentences will usually take the form of indenture, sending the Travellers back to MC4 or another mining complex to work off their alleged crimes. So long as they cause no further trouble, the Zhodani will not be very interested in them after this. If the Travellers choose to fight the case they face stiffer penalties and will have to remain in their cramped cells until the EPS gets around to setting up a trial. This will be adjudicated by a senior EPS official with little semblance of due process and likely produce the same result as a plea bargain, only with longer indenture.
 
 If the Travellers have caused real problems for the occupation force, they will not be handed over to the locals. Instead, they will be detained, probably without trial, until the occupation becomes integration. After a few days in improvised cells at the Zhodani force's base, the Travellers will be transferred to a newly-built detention centre just outside Managerial Enclave Two. The centre has been thrown together quickly and the only well-built thing about it is its fence. It is guarded by personnel recruited from the local population, who are resentful of offworlders and willing to take Zhodani money to ensure they do not escape. They are unlikely to be diligent; escapees might not be noticed for days and even then the guards may decide it is not in their interests to inform anyone. In time, interned starship crews and other detainees will be moved to the detention centre, a significant downturn in their living standards. These personnel may facilitate an escape if the Travellers cannot come up with a way to do it themselves.
-
-
 
 Assuming the Travellers do not get themselves thrown in the brig during the investigation, they will find themselves in Mining Complex Four at a loose end. A rather underwhelming welfare clause in their contracts provides lodging for a week and medical attention if necessary, after which they are on their own. The Travellers' possessions are returned to them, having been taken from their old accommodation, searched, then neatly packaged for transit. The Travellers will not be under any official travel restrictions.
 
@@ -1431,15 +1268,13 @@ As a result of the uncertain times, decisions about hiring or starting new proje
 
 ##### GETTING INFORMATION
 
-
 Obtaining information is mostly a matter of talking to people. Marching up and demanding answers will not work very well for the Travellers but being generally sociable allows a conversation to be steered where they want it to go. Spending a bit of money on drinks and food may also help. Travellers might also consider taking one of the very basic jobs on offer for reasons other than remuneration. Bar staff can talk to customers whilst someone helping with a manual task may be able to talk to their workmates. Indeed, they may be unable to avoid their gripes and grumbles.
 
 Some topics will come up over and over. Almost everyone is unhappy with working conditions and pay, and most want to leave Utoland. The Zhodani occupation has scared most people, although a few speculate that conditions might actually improve – or at least the bosses will get taken down a peg or two. There are many gripes about the quality of the food or working conditions and the recent gouger disaster is a common topic of discussion.
 
 If the Travellers want more specific information they will need to use Carouse or Streetwise skills to ask the right questions the right way and of the right people. The Travellers will be able to find out more about The Arden Society and its plans to exploit rather than develop Utoland, along with some fairly wild guesses about the number of Zhodani troops on planet. The level of success of their checks will indicate the quality of information available to the Travellers.
 
-Typically, a check will result in the basics about a broad subject such as 'what is Utane like?', some specifics about a narrower subject like 'where would I find someone willing to deal in illicit goods?', or detailed information on something specific such as
-'how do I obtain a movement permit without going through the usual process?'. The accuracy of the information may vary, however.
+Typically, a check will result in the basics about a broad subject such as 'what is Utane like?', some specifics about a narrower subject like 'where would I find someone willing to deal in illicit goods?', or detailed information on something specific such as 'how do I obtain a movement permit without going through the usual process?'. The accuracy of the information may vary, however.
 
 ##### Information Quality Table
 
@@ -1454,8 +1289,6 @@ Typically, a check will result in the basics about a broad subject such as 'what
 	6 or more The Travellers somehow encountered an expert on the subject, who has current and complete
 	information they are willing to share. They may want something in return.
 
-
-
 In addition to whatever specifics the Travellers are asking about, they will gradually become aware of certain facts:
 
 - Utoland has received a Zhodani occupation force.
@@ -1467,7 +1300,6 @@ In addition to whatever specifics the Travellers are asking about, they will gra
 - There are rumours of unrest in the capital but no-one really knows what is going on.
 
 ##### OBTAINING NECESSITIES
-
 
 There is not much crime in MC4, largely due to a lack of money among the populace. With little to steal and no-one to sell it to there are few incentives to become a criminal. However, there are those who find ways to make an illicit profit. Mostly this is embezzlement or misappropriation of goods on a small scale. The complex has a few small-time crooks who steal or rob but most thievery is done by those paid to look after inventory. The supply situation is notoriously corrupt and few dealers get busted as they are useful to the higher-ups.
 
@@ -1483,8 +1315,7 @@ Marija is not some great crime lord; she is simply an administrator who drifted 
 
 The Travellers may become aware of Marija in a variety of ways. One is asking around about necessities that are hard to obtain but it is possible they will be referred to her as a potential source of work or a way to get travel permits. It is also possible she hears about the Travellers and invites them to contact her, since she needs someone to solve a problem that has recently developed.
 
-If the Travellers ask about the data core – directly or in roundabout terms – Marija says she does know of someone who might be able to help. She can also assist the Travellers in obtaining items they may need, for a suitable price. In fact, there may be a way the situation can be turned to mutual advantage. She has a contact in the capital who supplies a lot of the goods she needs and she is concerned he may have run into trouble. Marija does not want to use conventional communications as they may be compromised. If the Travellers are willing to seek out her contact and assist him with whatever difficulties he may be having, she will arrange to have the data core decoded by
-'someone she knows about'.
+If the Travellers ask about the data core – directly or in roundabout terms – Marija says she does know of someone who might be able to help. She can also assist the Travellers in obtaining items they may need, for a suitable price. In fact, there may be a way the situation can be turned to mutual advantage. She has a contact in the capital who supplies a lot of the goods she needs and she is concerned he may have run into trouble. Marija does not want to use conventional communications as they may be compromised. If the Travellers are willing to seek out her contact and assist him with whatever difficulties he may be having, she will arrange to have the data core decoded by 'someone she knows about'.
 
 Marija can solve the travel-restriction problem for the Travellers by hiring them as contractors. The snag is that they will actually have to do the job she assigns them and it is available only because absolutely nobody wants to do it. The cover story is that the rail operators are 'short-handed' and the Travellers were
 
@@ -1500,8 +1331,6 @@ Thus the Travellers are enrolled on the personnel database and assigned blanket 
 - Inspection of vehicles and support facilities, including evaluation-in-use of equipment such as filling chutes and associated systems.
 - Direct inspection of tracks at randomly selected points throughout the rail network.
 - Collation of all data and assignment of urgency categories to repairs and maintenance works.
-
-
 
 This is a long, tedious and often filthy job which requires riding in ore trans and climbing over dirty equipment. It is mildly hazardous as well, although common sense and good working practices will reduce the risks to a minimum. The Travellers are expected to complete the task in 20 days and will be paid Cr500 each, half payable at commencement, half upon completion. Payment is in mining company scrip, which at least means the Travellers' money will not be tied up in the banking system. The Travellers can also obtain meals and minor supplies from the facilities of any railway installation.
 
@@ -1523,10 +1352,8 @@ Marija does not have thugs or bodyguards working for her; she does not need them
 	EDU 6 Admin 3, Electronics (computers)
 	1, Investigate 1, Persuade 2,
 	Streetwise 1
-	
-	SOC 7
-	
 
+	SOC 7
 
 The railway inspection job will free the Travellers to move around but they will attract suspicion if they do not at least make a pretence of carrying out the task. The first stage is to inspect the facilities at MC4. There is really no way to get out of this; a team that ignored the most immediate part of the job would look highly suspicious. The Travellers will have to spend at least a couple of days measuring track bed subsidence and checking the signalling system works as it should.
 
@@ -1550,12 +1377,9 @@ Although the Travellers' train will not run on the light-gauge internal service,
 
 Utoland than attempts to punch holes in their story. This does not mean they will not be stopped and questioned; Utoland is under occupation and already had a security problem. Such encounters can be resolved with a Routine (6+) Persuade or Streetwise check. The Travellers should realise that as long as they maintain their cover, they have the run of the planet.
 
-
-
 The Travellers arrive in the main rail hub of Utane, from which they can access any of the districts except the starport and startown. The rail links to these are open but special permission is required. The Travellers might be able to claim they need to look at the rail system in those locations but this will attract far more scrutiny than any other areas of the city. It is also possible to move between districts by crossing the open ground between them, although there are fences and walls around some parts of the city.
 
-The Travellers will be struck by the increased security presence in the city and an overall feeling of tension. There are additional checkpoints and patrols, and security personnel seem nervous. There is little sign of the Zhodani occupation force anywhere but the port, other than armoured soldiers flying a few metres above the streets in air/rafts (see page 116). There are no opportunities for interaction with the Zhodani for most people; only officials at the starport and the city's administrators have had any contact. Public announcements run every few minutes, reminding the populace that the city (and indeed the planet) is under occupation. This is accompanied by the usual
-'keep calm and obey the law, and you have nothing to fear' statements.
+The Travellers will be struck by the increased security presence in the city and an overall feeling of tension. There are additional checkpoints and patrols, and security personnel seem nervous. There is little sign of the Zhodani occupation force anywhere but the port, other than armoured soldiers flying a few metres above the streets in air/rafts (see page 116). There are no opportunities for interaction with the Zhodani for most people; only officials at the starport and the city's administrators have had any contact. Public announcements run every few minutes, reminding the populace that the city (and indeed the planet) is under occupation. This is accompanied by the usual 'keep calm and obey the law, and you have nothing to fear' statements.
 
 There are plenty of rumours but no-one seems to have any concrete information. If the Travellers do manage to find out exactly what is going on they will discover that the Zhodani force landed, secured the port, then made a series of what can only be described as armed reconnaissance into the city over the course of about 36 hours. After this they holed up on the port and have remained there, issuing orders to the city administrators and occasionally summoning someone to the port in person. Those that do not attend are arrested by the local security force, presumably on the orders of the Zhodani.
 
@@ -1627,13 +1451,10 @@ The plan forming in Peler's mind as he discovers the extent of unrest on Utoland
 	EDU 9 Admin 2, Advocate 2, Broker
 	3, Deception 4, Persuade 2,
 	Streetwise 1
-	
+
 	SOC 8
-	
 
-
-Peler wants the Travellers to evaluate the situation in Utane, which they can do whilst carrying out some
-'errands' for him. The first is to pay a visit to what Peler describes as a 'client' in the New Town part of the city. This individual is one of many who owe Peler money, items or actions. Some seem to have decided their debts no longer matter now that the world is under occupation. Peler naturally wants them to complete their end of the deal. He does not really care how they are persuaded but would prefer a low-key approach if possible as it makes future dealings more likely and generates fewer long-term complications. Peler is quite clear that he does not mind if someone gets hurt so long as he gets what he is owed, but reminds the Travellers that a damaged worker cannot make money for anyone.
+Peler wants the Travellers to evaluate the situation in Utane, which they can do whilst carrying out some 'errands' for him. The first is to pay a visit to what Peler describes as a 'client' in the New Town part of the city. This individual is one of many who owe Peler money, items or actions. Some seem to have decided their debts no longer matter now that the world is under occupation. Peler naturally wants them to complete their end of the deal. He does not really care how they are persuaded but would prefer a low-key approach if possible as it makes future dealings more likely and generates fewer long-term complications. Peler is quite clear that he does not mind if someone gets hurt so long as he gets what he is owed, but reminds the Travellers that a damaged worker cannot make money for anyone.
 
 The Travellers are tasked with locating Moak Hei, an ore-crusher technician with a penchant for nice clothes. New arrivals often sell off their wardrobe when they get short of money and Moak likes to pick and choose the best outfits for himself and those he wants to impress. He has run up a debt of some Cr5000 to Peler, who would prefer to get some of the money now and keep Moak as a client – albeit a difficult one – but will settle for full payment and termination of their business relationship. Refusal is not acceptable as it makes Peler look ineffectual. Peler wants at least a token payment – Cr300 at a minimum. He will be pleased if he gets more plus a promise of payment and does not lose Moak as a long-term client.
 
@@ -1663,12 +1484,12 @@ Army laser carbine, the other a long-barrelled laser sniper rifle. The air/raft 
 	EDU 6 Mechanic 2, Melee (bludgeon) 1,
 	Melee (unarmed) 2, Profession
 	(miner) 3
-	
+
 	SOC 5
-	
+
 	WEAPONS
 	A Handy Blunt Instrument (2D) or Fists (1D)
-	
+
 	MOAK'S BUDDIES
 	STR 8 SPECIES —
 	DEX 6 GENDER —
@@ -1686,8 +1507,6 @@ If the Travellers attempt to return fire they will be subject to lethal force an
 Once the air/raft incident is over the Travellers will be able to find Moak. He is usually at a bar when he is not working. Moak is a big, strong individual and popular with his workmates and drinking buddies. If the Travellers take the approach of threatening him with a beating he will call their bluff and others will come to his aid. On the other hand, a polite reminder that he owes money might work, if the Travellers phrase it well.
 
 Moak likes the clothes and goods Peler provides him with. If he stops paying for them he gets no more. An argument along these lines, backed up by a successful Persuade check, should convince Moak. He will offer a payment of Cr150 multiplied by the Effect of the Persuade check, on the understanding that he will sort out the rest of the debt as soon as practicable. It is entirely possible for the incident to end with the Travellers having a drink with Moak, who eagerly questions them about what new items Peler might have... or all involved might be headed for the hospital.
-
-
 
 ###### WORD AROUND TOWN
 
@@ -1711,8 +1530,6 @@ The security service is correct in its assumption. Kallig was carrying multiple 
 ###### RETURNING TO PELER
 
 Peler is naturally intrigued by all this and has obtained information through other channels. The Economic Protection Service seems divided on the subject of resistance. There are some who see collaboration as the only way to survive and others who claim they would fight if victory seemed possible. Most are undecided or cowed by the Zhodani force's firepower. It is easy to imagine they will simply stay in their enclave and leave Utane alone. After all, what does the Zhodani Consulate want with a backwater like this?
-
-
 
 Among the Ardenite elite, there is a belief that Utoland will be returned to the control of the Federation of Arden once the immediate need for occupation has passed. This is actually quite likely in the short term, although whether Arden and its possessions can remain independent is an open question. The elite therefore do not want anyone to rock the boat and have ordered a clampdown by the EPS on activities likely to provoke the Zhodani. Peler vocally supports this in public but privately hopes for a failed revolution which will clear the elite out from above him.
 
@@ -1742,8 +1559,6 @@ Once out of the city, the Travellers can proceed to MC4 at their leisure. They w
 
 Peler has sent a one-use electronic message pad to Marija, so that no record of the transaction exists and no messages can be placed. This is wise, given what he is asking for. Most of the items are innocuous enough; medical kits from the MC4 stockpile and the like. However, the Travellers' train is loaded with two large crates stencilled with code numbers that imply they contain rail repair equipment. If the Travellers force them open – which will be readily detected when they arrive – they will discover they contain penetrator projectiles similar to those they encountered at Gouger Militte.
 
-
-
 If the Travellers were to ask about this or demand to know what is in the crates, Marija tells them they are defective projectiles being returned to the works at Utane for refurbishment, quite safe to transport unless electronically and physically armed. The Travellers might even believe Marija's explanation that they are being covertly transferred in case someone tries to steal them. This transparent lie is partly a clumsy attempt to defeat psionic scanning, made by someone who does not know how telepathy works. Similar polite innuendo is used by Peler and others. Marija will not say what the projectiles are really for. That way, even if the Travellers were scanned they could not report the truth.
 
 ###### CAROLINE PINHEIRO
@@ -1762,8 +1577,6 @@ If the Travellers think to ask, Pinheiro can recall some of her contingency brie
     INT 7 SKILLS
     EDU 8 Electronics (computers) 4, Gunner
     SOC 6 (turret) 1, Mechanic 1, Vacc Suit 2
-
-
 
 Whilst the Travellers are at MC4, events begin to unfold at Utane which will create opportunities for them. The EPS has been cooperating very reluctantly up to this point, and the Zhodani commander is not satisfied; the Zhodani are concerned about resistance within the EPS and a threat from the general populace. They want the EPS to get on top of the situation, and that means finding some suspects and bringing them in for questioning.
 
@@ -1795,8 +1608,6 @@ The people of Utane have been oppressed by the Ardenites for decades. They are a
 
 The dissidents are poorly armed, with locally available small arms and a scattering of EPS weaponry. They have the advantage of knowing the city and currently control the Old and New Towns with some presence in Managerial Enclave One and the associated industrial area. They have fired all their projectiles and moved the launcher.
 
-
-
 ###### THE ARDEN SOCIETY
 
 The projectiles launched by the dissidents were surprisingly – indeed, suspiciously – well aimed. A significant proportion of the Ardenite leaders were either killed in the attack or captured by dissidents soon afterward. Some of those were killed out of hand but few of the dissidents are hardcore enough to condone such actions. The effect of this attack was to paralyse the de facto government in Utane. There will be a reaction sooner or later from elsewhere on the planet but since most of the Ardenite leaders live on Arden and pay managers to handle their Utoland affairs, a coherent response is unlikely in the short term.
@@ -1821,8 +1632,6 @@ There are no obvious 'good' or 'bad' factions here. Everyone has their own agend
 
 The Travellers are carrying a quantity of projectiles of the same sort used by the dissidents in their first strike. The dissident leaders know this, having been informed by Marija Ju. She did not tell the Travellers about this as she was unsure of their allegiance. The
 
-
-
 dissidents have sent a squad out of the city to stop the Travellers' train, a risk, as they are horribly vulnerable to Zhodani air/raft-borne patrols. The dissidents over- estimate the risk since they do not know Zhodani policy but feel this move is necessary.
 
 The Travellers will become aware of a hazard on the track, courtesy of the condition-monitoring equipment they have been so tediously using. There is rubble across the line, sufficient to possibly derail the train and atop it stand several dissident gunmen. They are waving at the train to stop. A couple, conspicuously unarmed, walk forward down the track to meet the train.
@@ -1831,9 +1640,9 @@ This is a pivotal moment in the adventure, which may decide how the remainder pl
 
 If the train is stuck the Travellers will have to interact with the gunmen. They still do not initiate hostilities but will defend themselves if fired upon. They will try to convince the Travellers they are allies. If the Travellers are willing to talk the dissidents immediately begin clearing the track for them whilst their leader boards the train to explain the situation.
 
-NOT STOPPING! If the Travellers do not stop and talk they have two options. They might slam the train into reverse and escape southwards towards MC4. What they do then is up to them; their shuttle is still at the starport. They might sneak into the city on foot or make a run later. In this case, the gunmen may well have moved on as they cannot risk getting caught by a patrol. Either way, the Travellers will find themselves in the city without an immediate guide to the situation. They may end up joining the dissidents anyway, or could witness events unfolding around them and take advantage.
+NOT STOPPING!
 
-
+If the Travellers do not stop and talk they have two options. They might slam the train into reverse and escape southwards towards MC4. What they do then is up to them; their shuttle is still at the starport. They might sneak into the city on foot or make a run later. In this case, the gunmen may well have moved on as they cannot risk getting caught by a patrol. Either way, the Travellers will find themselves in the city without an immediate guide to the situation. They may end up joining the dissidents anyway, or could witness events unfolding around them and take advantage.
 
 ##### MEETING THE DISSIDENTS
 
@@ -1859,8 +1668,6 @@ If the Travellers simply keep moving with no attempt to control the situation th
 
 Even if the Travellers do not intend to stop they can impose a measure of control on the situation by signalling the EPS troops in some way. This could be by radio or a pantomime of gestures from the train. The EPS squad are scared and confused, and do not want to have to shoot at anyone, so convincing them to do nothing requires only a Routine (6+) Persuade or Deception check. Other skills may apply depending on what the Travellers do. The gunmen may still shoot but can be persuaded not to with
 
-
-
 a little more difficulty. A solid argument, such as pointing out the dissidents' cause is better served by slipping quietly by, accompanied by an Average (8+) Persuade check, will suffice.
 
 If the Travellers do stop, the EPS team will want to question them and search the train. The gunmen will ambush them unless the Travellers persuade them not to. This requires an assurance that the Travellers can handle the situation and even so there are hotheads who may open fire anyway unless the Travellers have given them a good reason for trust. The Travellers will then need to do something to prevent the EPS team from searching the train. Bribery or a good excuse will suffice, or the Travellers might tell the truth quietly and suggest the EPS team just back off for their own good. An Average (8+) Deception or Persuade check will work, dropping to Routine (6+) if an incentive like a bribe or survival is offered.
@@ -1872,8 +1679,6 @@ side is about right. Other resolutions are possible, such as the Travellers find
 If the Travellers decide to press on to the north-west industrial area they should have few problems and will be able to join the dissidents there. Longstop introduces the Travellers as friends of the revolution and unveils the cargo of projectiles they have brought. They are offered weapons if they are willing to join the fight. These are basic, being either generic small arms or possibly a spacer weapon or two. See p127 for details of these weapons.
 
 If the Travellers prefer to go to Managerial Enclave Two and rejoin Peler, this is a simple matter of resetting a track junction or two; Enclave Two is heavily secured but Peler's name will obtain entry. Peler will be pleased the Travellers brought the projectiles to him instead of the dissidents and will offer the Travellers weapons if they are willing to pledge allegiance to the Committee for Offworld Relations. These weapons will be EPS issue or spacer type guns.
-
-
 
 ##### LONGSTOP
 
@@ -1894,7 +1699,6 @@ Knife (1D+4), GAP-9 Autopistol (3D-3), Rattler SMG (2D+1)
 
 ##### Basic Tools
 
-
 At this point the Travellers will be with one faction or the other – or perhaps they have chosen to remain independent and are somewhere else in the city. What happens next will give them an opportunity to escape from Utoland. They may of course choose not to, fighting loyally with their new allies, in which case they will have to find another method of escape.
 
 ###### LONGSTOP
@@ -1904,8 +1708,6 @@ Longstop is a tall young man with an obvious talent for leadership. His immediat
 For the time being, Longstop and others like him are gung-ho, with big dreams of independence from Arden and no real idea what that means. The Travellers may be horrified at how naïve these people are and try to talk them out of doing anything rash, but this is an uphill struggle for several reasons. Longstop and his people are living a dream at present; finally lashing out at their oppressors. In addition, Longstop himself is something of a narcissist. In this world of conflict he is someone at last and will spend the lives of his followers to avoid going back to just being another forgotten Utolander. Travellers who try to argue for a moderate approach will find Longstop hostile, questioning their loyalty and even asking if they are spies or enemy agents.
 
 Longstop's determination will wane as casualties mount but he is driven by ego as well as rage at the injustice of his existence. It is quite possible he will make a last stand or desperate final charge rather than surrender and inspire others to go with him. This could be the making of a legend; the myth that leads Utoland to freedom in 30 years' time. More likely it will just be more pointless bloodshed in a revolution that never stood a chance.
-
-
 
 The battle for Utoland goes ahead whether the Travellers take part or not. It may be a backdrop to their own actions or they may be at its forefront. There is no obvious starting point; fighting has been ongoing for some time and gradually escalates into a full-scale street battle. Historians will probably choose the North Bridge Incident as the logical place to begin the narrative, although at the time it is overshadowed by other events.
 
@@ -1951,8 +1753,6 @@ The devastation wrought in Old Town is incredible. Some structures are collapsed
 
 Onkrete issues a call over the local comms net for anyone willing to assist in evacuation of casualties or rendering medical assistance. His soldiers will guarantee the safety of anyone responding. A couple
 
-
-
 of Zhodani combat medics are doing their best but they are swamped. If the Travellers take the time to think about it, they will see Onkrete is really doing his best to save lives but at the same time is intent on ruthlessly putting down any resistance.
 
 Zhodani combat armour is largely immune to small arms fire but there are still a few casualties. Most are due to secondary causes such as structural collapses but occasionally a group of hostiles manages to pour in enough firepower that someone gets a lucky shot. There is no front line here; the Zhodani force is driving through Old Town headed for the projectile launch point.
@@ -1972,8 +1772,6 @@ The fight for Utoland is a foregone conclusion once the Zhodani joined in. By da
 Many expect savage reprisals but instead Captain Onkrete places the COR in a conference room with captured dissident leaders and instructs them to come up with a plan to mitigate the suffering and rebuild the town, and in the longer term find a way to restore order in Utane. Anyone who lays down their arms will be permitted to go back to their lives, although active enemies will be dealt with. Although he does not explicitly say so, Onkrete considers what happened last night a fair fight which the locals lost. If they accept that, he has no animosity towards them so long as they accept the situation.
 
 There are those who will not. Longstop is among them, continuing to agitate for further resistance. Some elements of the EPS are in agreement, since the Zhodani fired on them, too. The Ardenite leadership want a restoration of the previous situation and resent the shifting of social order that will inevitably result. Most ordinary people just want to rebuild their lives and maybe become a little better off. How this plays out may or may not be influenced by the Travellers and indeed it could be some time before they find out what the end result was. In the meantime they have several chances to get off Utoland and a pressing need to do so.
-
-
 
 Leaving Utoland requires getting to the ship's boat and taking control of it. Anyone with shipboard skills whose overlaid personality denies them will be confused to find they recognise control systems and know the procedures for using them. They also know the location of Rock Twelve, although only as a place they need to go. However, before they do so they have to get into the starport and reach their shuttle.
 
@@ -2010,8 +1808,6 @@ Rock Twelve is dark and cold, with no power to its systems outside the bridge. D
 There is obviously a removable data core missing. Inserting the one the Travellers have will allow it to feed its codes into the computers of Rock Twelve. Systems begin a soft power-up almost immediately, and the Travellers will have command access. They can accelerate the powering up process if they like but this will increase emissions and make detection more likely.
 
 Once the Travellers find the personality overlay machine, they will instantly recognise it. It can only be used by one Traveller at a time but all know that a session in the machine will reveal the answers they have been seeking. In the meantime they find the ship has sufficient fuel for a two-parsec jump which will take them to the Tremous Dex system. There, they will have to refuel before making the final transit to Extolay Naval base. Wise Travellers will want to arrive with sufficient fuel for another jump, just in case, which makes a refuelling in the 871-483 outsystem desirable. They have been out of the loop for a while and will now know much about the progress of the war, so would be well advised to tread carefully.
-
-
 
 After removing their personality overlays, or being aboard Rock Twelve for a few days, the Travellers experience a feeling of disorientation and extremely vivid memories, or perhaps a weirdly lucid dream. They are recalling their participation in Operation Kasuesh, which will be played out as an adventure. The Travellers may experience other flashbacks later. Some of these will be bits and pieces of their own memories clashing with remnants of the overlaid personality, but it is possible the Travellers could experience something that happened to someone else who has used the overlay machine.
 
@@ -2052,7 +1848,6 @@ Law Level 6
 
 ##### C Average Imperial
 
-
 The mainworld is directly governed from the naval base, with most services provided by a civilian bureaucracy answering to the military governor. Society is as stratified as anywhere else, with nobles being the ruling class, intendants in the most important jobs and proles making up the bulk of the workforce. The need to be psionically talented in order to take certain posts does means that some talented people are disqualified for reasons unconnected with their professional competence. Social manipulation reduces disaffection, however. Travellers who are concerned about the injustice of a social system based on possession of psionics talents may find it interesting to compare with Imperial society. The Zhodani system restricts those who are not born with psionic abilities but is open about it; the Imperial version makes it extremely difficult for those born into families without wealth, noble titles and connections to advance beyond a certain point but is less forthright about the presence of a glass ceiling.
 
 Most of the population are concentrated in a single city, also named Ninjar, with a few outlying settlements fulfilling specialist purposes. Around four million dwell in the city, which is rather drab and utilitarian by Imperial standards. Not all Zhodani cities are like this but Ninjar is more of a military outpost than a homeworld. Its structures are clustered under domes linked by transit tubes at ground level as well as above and below. Grav vehicles are common, often zipping over a building cluster from one high-level transit tube to another.
@@ -2071,15 +1866,24 @@ The city of Ninjar can be considered to have five main districts, each under one
 
 ##### STARPORT (3) Ninjar's downport is much less impressive than its orbital facility. It consists of a large landing area with service bays recessed into the surface. Automated vehicles – most of them wheeled – convey personnel to the main port buildings (3a) and cargo to the warehousing and freight handling centre (3b). Ninjar does not receive large amounts of offworld goods and has virtually no exports. As a result, the civilian port and its associated facilities are far less busy than the military port.
 
-THE GREAT DOME/IAVROPR (4) The Great Dome, known in Zdetl as Iavropr, is constructed in an impact crater, with naturally occurring walls supporting its sides. It is the main food production centre of the city, with large expanses of hydroponic gardens and even some meadow space for livestock. Access is restricted to those who work or have legitimate business in the dome.
+THE GREAT DOME/IAVROPR (4)
+The Great Dome, known in Zdetl as Iavropr, is constructed in an impact crater, with naturally occurring walls supporting its sides. It is the main food production centre of the city, with large expanses of hydroponic gardens and even some meadow space for livestock. Access is restricted to those who work or have legitimate business in the dome.
 
-THE EARLY CLUSTER/ ZDABRIEVLJEBL (5) The Early Cluster consists of six large domes and many more smaller ones, which originally housed the entire population of the city. As the population increased more domes were added, until the creation of new districts was required. The largest of the cluster's domes is still a food-production centre, although part of it has been given over to parkland and a small forest.
+THE EARLY CLUSTER/ ZDABRIEVLJEBL (5)
 
-THE THREE DOMES/OFJDEVEPR (6) The Three Domes is a newer residential district consisting of three linked environmental domes. Buildings inside the domes are similar to those elsewhere in the city, with noble, intendants and proles living in each. There are no noble- only enclaves on Ninjar; the entire population is integrated according to Zhodani norms. However, noble dwellings are rather obviously larger and more comfortable than the homes of proles.
+The Early Cluster consists of six large domes and many more smaller ones, which originally housed the entire population of the city. As the population increased more domes were added, until the creation of new districts was required. The largest of the cluster's domes is still a food-production centre, although part of it has been given over to parkland and a small forest.
 
-THE SPECIALIST FACILITIES/EQRIE IANSHIESHE (7) Specialist facilities are segregated into their own separate district, access to which is restricted. Facilities include the headquarters of the planetary security force, a confinement/re-education centre, disaster-relief depot and the world's main hospital. Districts have clinics but serious cases are transferred here for isolation and treatment. Co-location with the re-education centre is not coincidental.
+THE THREE DOMES/OFJDEVEPR (6)
 
-THE INDUSTRIAL DISTRICT/ISH NAZZDINBRAB (8) Most of Ninjar's industry is concentrated in one large dome and some outlying smaller ones. Most of the output is for self-support, with virtually nothing exported. Vehicles are maintained and repaired here, tools manufactured and items necessary to maintaining the domes fabricated. Access is not restricted but few who do not live or work in this area would want to visit. As a result, Travellers wandering around will attract attention.
+The Three Domes is a newer residential district consisting of three linked environmental domes. Buildings inside the domes are similar to those elsewhere in the city, with noble, intendants and proles living in each. There are no noble- only enclaves on Ninjar; the entire population is integrated according to Zhodani norms. However, noble dwellings are rather obviously larger and more comfortable than the homes of proles.
+
+THE SPECIALIST FACILITIES/EQRIE IANSHIESHE (7)
+
+Specialist facilities are segregated into their own separate district, access to which is restricted. Facilities include the headquarters of the planetary security force, a confinement/re-education centre, disaster-relief depot and the world's main hospital. Districts have clinics but serious cases are transferred here for isolation and treatment. Co-location with the re-education centre is not coincidental.
+
+THE INDUSTRIAL DISTRICT/ISH NAZZDINBRAB (8)
+
+Most of Ninjar's industry is concentrated in one large dome and some outlying smaller ones. Most of the output is for self-support, with virtually nothing exported. Vehicles are maintained and repaired here, tools manufactured and items necessary to maintaining the domes fabricated. Access is not restricted but few who do not live or work in this area would want to visit. As a result, Travellers wandering around will attract attention.
 
 ###### SEARCHING FOR RIKET
 
@@ -2110,7 +1914,6 @@ The Travellers are going to interact with numerous Zhodani citizens. They may be
 08
 
 ##### Ninjar
-
 
 cheerful and hard-working, and very happy to help someone who asks for aid. Almost everyone likes their job or is fulfilled by it and there is almost no petty backbiting among colleagues. Travellers who look closely will see there are those who do not conform to this norm but they are very much in the minority.
 
@@ -2182,8 +1985,7 @@ Zdetla will not say much more without getting something in return. What he wants
 
 This interaction takes place over a few hours, interspersed with locals coming and going, and a recital of a work-in-progress poem by Zdetla. The Travellers are introduced to several locals, all of whom are just regular folks living ordinary lives. Most work in the hydroponic gardens or the world's industrial centre, or as junior administrators. They have children, and pets, and domestic robots that do not always function as intended – but are still better than having to do the job manually.
 
-Vlabridl, Miepletlzhdobl, Qledreyo, Fians, Afrnostiapl, Rieqlzhefrsheizh, Chazhfetsjanz, Venshshtianszdenzh, Banshe and Tsiklaqlzhdav. These are the 'Zhos' or
-'Joes' the Imperium is worried about. Just ordinary folks with ordinary lives and – in almost all cases – a glass that is slightly more than half full. The Travellers may look back on this moment later, when the fighting has begun, and wonder just who the enemy really is. Or they may despise and resent the noble class that re- educated these people into blindly following them.
+Vlabridl, Miepletlzhdobl, Qledreyo, Fians, Afrnostiapl, Rieqlzhefrsheizh, Chazhfetsjanz, Venshshtianszdenzh, Banshe and Tsiklaqlzhdav. These are the 'Zhos' or 'Joes' the Imperium is worried about. Just ordinary folks with ordinary lives and – in almost all cases – a glass that is slightly more than half full. The Travellers may look back on this moment later, when the fighting has begun, and wonder just who the enemy really is. Or they may despise and resent the noble class that re- educated these people into blindly following them.
 
 For now, it would appear that the most important thing is to find Riket. That is surprisingly easy. A local named Jdablia says her friend is giving him lodgings. He writes a lot, often wandering around her apartment talking through his latest screed with her, or possibly himself. Apparently, he is a journalist of some kind who seems oddly fascinated with daily life. Anyway, Jdablia says she can go and fetch him, or give the Travellers the location. He is over in the next dome, just a short bus ride away....
 
@@ -2211,9 +2013,7 @@ The Tavrchedl' took Zdetla for evaluation and treatment, and it soon became appa
 
 ##### Painting supplies
 
-
-If Zdetla is persuaded or given what he wants, he will reveal that 'Carlos' is a rather nosy fellow, given to fussing over minor details, who seems unable to fathom the mysteries of the local grav-bus timetable. Zdetla has written a poem about that. He does not know where Carlos is staying but can ask one of his friends to find out. Zdetla is genuinely concerned about
-'Carlos' and asks the Travellers to make sure he seeks therapy for whatever is ailing him.
+If Zdetla is persuaded or given what he wants, he will reveal that 'Carlos' is a rather nosy fellow, given to fussing over minor details, who seems unable to fathom the mysteries of the local grav-bus timetable. Zdetla has written a poem about that. He does not know where Carlos is staying but can ask one of his friends to find out. Zdetla is genuinely concerned about 'Carlos' and asks the Travellers to make sure he seeks therapy for whatever is ailing him.
 
 **_FlashBack: operatIon kasuesh_**
 
@@ -2364,14 +2164,11 @@ Law Level 1 Body pistols, explosives, and
 
 ##### C Average Imperial
 
-
 a while yet, so the Travellers will not get home any quicker and run the risk of being killed in a space battle. The Travellers are requested to carry a dump of the cruiser's logs to Extolay and thence to Regina. This is heavily encrypted so the Travellers will not immediately be able to read it but they are crewing an intelligence ship which has the ability to access the data eventually. This will enable the Travellers to build up a picture of Admiral Pael's daring raid, if they are interested.
 
 If the Travellers get a visual on the cruiser, they see she has damage. There are pits and craters all over her hull, with the mangled wreckage of weapon mounts here and there. She creates a hot-gas contrail as she skims fuel, her aerodynamic hull marred by jutting structural members and twisted hull plate. There is a grandeur to her, battle-scarred but still in the fight, that the Travellers may remember poignantly when they learn she never returned from her mission.
 
 Refuelling over, Elupemir accelerates to meet the Zhodani destroyers. Two heavy destroyers against an Imperial light cruiser is an unequal match but still a dangerous one. The destroyers are 10,000 ton ships; inferior in technology but larger than Imperial equivalents. They are constrained by a need to remain between the cruiser and starport, allowing Elupemir to dictate the terms of the engagement. Her captain bores in aggressively, trying to close the range and forcing the Zhodani to accelerate back towards the mainworld. This results in a stern-chase engagement with the range steadily closing. Elupemir batters one destroyer until it is forced to jump out, then turns her fire on the other. She is hurting, venting water and air but still battleworthy at the last point the Travellers can track her. Chances are she will win this engagement and still be in a condition to continue her mission. Meanwhile, the Travellers are clear to refuel and move on.
-
-
 
 En route to Extolay the Travellers start to feel strange again. Soon they are experiencing another memory event. This one is slightly different to the last, as they are recalling events they never witnessed in the first place. Others have used the personality overlay device in the past and left imprints upon it. These are surfacing in a rather confused manner.
 
@@ -2395,7 +2192,7 @@ Norris reveals his suspicions. These movements benefit the Zhodani by weakening 
 
 'I have sent to His Imperial Majesty for assistance,' Norris says, 'and I have ordered an investigation into possible Zhodani influences on these plans. Delphine is not a Zhodani sympathiser but she sees the wrong picture. Perhaps she has been influenced. We will find out who is responsible for that and deal with them. In the meantime, I have a task for you.'
 
-_FLEET REDEPLOYMENT SCHEDULE_
+##### FLEET REDEPLOYMENT SCHEDULE
 
 These events refer to the controversy surrounding the 1105 Fleet Redeployment Schedule and associated restructuring of defence over the fortress worlds of the Spinward Marches. Zhodani influence was suspected in the derailing of the former and the decision, narrowly averted, to undertake a redeployment of defences that would have left the fortress worlds dangerously exposed to attack.
 
@@ -2409,8 +2206,6 @@ The scene shifts once more. The Travellers are in a machine of some kind... the 
 
 'Yes,' the Travellers hear themselves answer. 'Yes, Your Grace.'
 
-**_FlashBack: Fleet reForm_**
-
 The 871-438 system is the Travellers' logical final refuelling stop on the way to Extolay. They could instead make a second jump-2 and arrive at the base with dry tanks, in which case going through Tionale might seem like a viable option. However, Tionale has a Class C starport and is slightly less unimportant than 873-438. Encountering a Zhodani warship is less likely at 873-438, even if the Travellers decide not to refuel.
 
 871-438 is an uninhabited rockball lying just off the Spinward Main. It is not on the way to anywhere for jump-1 ships and is routinely bypassed, with some jump-2 vessels conducting gas giant refuelling whilst plying between Extolay and Tremous Dex. Some sources state that the system has two planetoid belts but this is disputed by official navigation charts. There are two very sparse regions of planetoids which might be optimistically described as belts but neither has been found to have resources worth exploiting.
@@ -2422,27 +2217,6 @@ Whilst they are conducting refuelling operations, the Travellers are alerted to 
 The Travellers will not be detected so long as they lie low and behave like a rock. If they want to jump away and are in the planetoids, their jump might be detected but there is no chance of a ship reaching them in time to prevent it. Attempting to escape from the gas giant is more tricky. A low-powered acceleration will cause Rock Twelve to spiral outward as it orbits the gas giant, which is unlikely to be noticed at first. This requires a successful Average (8+) Pilot check. However, sooner or later the automatic hazard plotting aboard the Zhodani warships will indicate that one of the giant's moonlets is not where it should be. A destroyer will be sent to check.
 
 At this point the Travellers will have to make an emergency jump or hope the Zhodani fail to realise Rock Twelve is not what she seems. They will be jumping from within the 100-diameter limit and risk damage to their drive or even a misjump but there is no way they can shoot their way out or race away. Clever Travellers might come up with an alternative solution, such as accelerating inwards for a slingshot manoeuvre that takes advantage of cover from the giant's moons. Such creativity should be rewarded by the Referee.
-
-# 871-438
-
-_871-438_
-
-Profile E722000-0
-##### Starport E Frontier Installation
-
-Size 7 11,200km (0.88g) Atmosphere 2 Very thin; Tainted Hydrosphere 2 20% Population 0 Unpopulated
-##### Government
-
-##### Type
-
-0 No Government Structure
-
-Law Level 0 No prohibitions
-##### Technology
-
-##### Level
-
-0 Stone Age
 
 The Travellers' ultimate goal should be the Extolay naval base but the system is now under Zhodani occupation.
 
@@ -2458,36 +2232,7 @@ Some fell victim to the pitiless mathematics of thrust and vector. With no chanc
 
 Contingency crewing protocols sent crewmembers to the most-ready ship that needed someone with their skills. A cruiser went to space with a destroyer's captain in command; her gunnery officer led a destroyer crew. Some ships never left their moorings but the naval base scrambled a response in an impressively short time. Under the guns of the base these ships and boats formed up and charged towards the Zhodani fleet. Riders and monitors joined them. The counterattack was clumsy but gallant... and it never stood a chance.
 
-The Zhodani fleet was trained to a hair, confident and well organised. Its commanders benefited from telepathic communications and years of rehearsing for this very scenario. This was the Zhodani Consular Navy at its very finest and it quickly repulsed the Imperial
-
-# EXTOLAY
-
-_E X TO L AY_
-
-Profile B55589A-A
-##### Starport B Good
-
-Size 5 8,000km (0.63g) Atmosphere 5 Thin Hydrosphere 5 50% Population 8 Hundreds of millions
-##### Government
-
-##### Type
-
-9 Impersonal Bureaucracy
-
-##### Law Level A
-
-##### Weapon possession
-
-##### prohibited
-
-##### Technology
-
-##### Level
-
-##### A Interstellar Community
-
-
-force. Falling back on its base, the Imperial fleet sent couriers to Regina for help – not knowing that Regina was also under heavy attack. The Zhodani commanders did not pause to let their enemies regroup; they ordered the fleet to close the base and destroy its defences.
+The Zhodani fleet was trained to a hair, confident and well organised. Its commanders benefited from telepathic communications and years of rehearsing for this very scenario. This was the Zhodani Consular Navy at its very finest and it quickly repulsed the Imperial force. Falling back on its base, the Imperial fleet sent couriers to Regina for help – not knowing that Regina was also under heavy attack. The Zhodani commanders did not pause to let their enemies regroup; they ordered the fleet to close the base and destroy its defences.
 
 The Zhodani force took losses of course but the outcome was a foregone conclusion. Within hours of the first shots being fired, Zhodani troops were securing the surviving shipyards and command centres of the naval bases. A handful of vessels, mostly gutted by their crews to protect sensitive technologies and information, were captured. Some jump-capable ships escaped, headed for Regina, and elements of the system defence force pulled back from the base to begin a campaign of harassment.
 
@@ -2509,8 +2254,6 @@ _TIMELINE OF THE WAR_
 
 The Zhodani will achieve final victory on Extolay on 279-1107, according to the timeline of the Fifth Frontier War. This date may vary in your campaign, of course, or the fall of Extolay might be completely prevented. The Fifth Frontier War sourcebook states that Extolay never actually surrenders; senior government officials are smuggled offworld before it falls completely. Perhaps the Travellers might be involved in that?
 
-
-
 Intelligence Station Miidurki is an automated support base for ships like Rock Twelve. It also services more conventional vessels operating in a similar role. Stations of this sort are sometimes used to isolate prisoners until they can be properly interrogated and upon occasion are used as ersatz prisons for particularly important or dangerous captives. People who mysteriously disappear may sometimes find themselves held in a place like this, where no-one outside the intelligence services ever goes.
 
 Carved out of a planetoid, the station has no drives. It has chambers on two main levels, with a considerable depth of rock between them that contains hollows which have been put to use by the installation's creators. The station was designed to be crewed from time-to-time, with long dormant periods in between. Primary access between the levels is by way of a central elevator/nexus chamber, although there are also utility conduits and direct access points between certain areas of the installation.
@@ -2525,13 +2268,21 @@ If the Travellers make themselves known using the intercom, Khatoon and Davis wi
 
 The upper level is primarily given over to accommodation and utilities, along with the station's armament.
 
-##### DOCKING BAYS (1) The upper level has concealed docking bays for 100- ton fuel shuttles. These can be used by smaller craft as well but are primarily intended to deliver fuel directly to the installation's tanks. A small amount of spares are kept in this area, along with emergency vacc suits.
+##### DOCKING BAYS (1) 
 
-##### FUEL CAVERN (2) A natural cavern in the planetoid has been lined with hull plating and turned into a fuel storage chamber. There is processing equipment which both refines fuel and keeps it from deteriorating when the station is not in use.
+The upper level has concealed docking bays for 100- ton fuel shuttles. These can be used by smaller craft as well but are primarily intended to deliver fuel directly to the installation's tanks. A small amount of spares are kept in this area, along with emergency vacc suits.
 
-##### MISSILE BAYS (3) The installation has two small missile bays concealed in its surface. Only a handful of missiles are present, as these are considered something of a white elephant added to the design without consideration of its intended role. It is probable that the designers thought the installation might be useful as a system defence platform but its remote location makes this unlikely.
+##### FUEL CAVERN (2) 
 
-##### MAIN REACTOR AND LIFE SUPPORT (4) The installation's main power supply is protected by a heavily insulated chamber to mask its emissions and designed to operate for long periods without oversight. The installation's life support machinery is also concentrated in this chamber.
+A natural cavern in the planetoid has been lined with hull plating and turned into a fuel storage chamber. There is processing equipment which both refines fuel and keeps it from deteriorating when the station is not in use.
+
+##### MISSILE BAYS (3) 
+
+The installation has two small missile bays concealed in its surface. Only a handful of missiles are present, as these are considered something of a white elephant added to the design without consideration of its intended role. It is probable that the designers thought the installation might be useful as a system defence platform but its remote location makes this unlikely.
+
+##### MAIN REACTOR AND LIFE SUPPORT (4) 
+
+The installation's main power supply is protected by a heavily insulated chamber to mask its emissions and designed to operate for long periods without oversight. The installation's life support machinery is also concentrated in this chamber.
 
 # INTELLIGENCE STATION MIIDURKI 
 
@@ -2539,33 +2290,45 @@ The upper level is primarily given over to accommodation and utilities, along wi
 
 The personnel accommodation area consists of staterooms, common areas, a galley and mess, plus a small recreation chamber. There are no personal effects here and most of the staterooms have not been used recently. However, two show signs of occupation. It will be possible to deduce that naval or perhaps marine personnel are using the staterooms; beds are neatly made and everything is stowed 'just so'. Other than a couple of sets of generic clothing clearly broken out of stores there is nothing of note in the tiny storage areas. The galley, likewise, has been used in a disciplined fashion and kept very tidy.
 
-##### COMMAND SUITE (6) The installation's command and control systems are run from this suite, which also houses computer equipment. There are more rooms than currently needed, with some standing empty.
+##### COMMAND SUITE (6) 
 
-##### STORES (7) The installation's stores are filled with mundane items such as boots, uniforms, vacc suit emergency kits and all the freeze-dried ration packs a spacer could ever want to eat. There is nothing in this chamber connected with intelligence work; it is the installation's stock of day-to-day operating supplies.
+The installation's command and control systems are run from this suite, which also houses computer equipment. There are more rooms than currently needed, with some standing empty.
 
-##### CENTRAL ELEVATOR (8) The elevator shaft runs though both levels and the area in between. It is surrounded by a marshalling chamber where cargo can be loaded onto the large platform and personnel can board the smaller one.
+##### STORES (7) 
+
+The installation's stores are filled with mundane items such as boots, uniforms, vacc suit emergency kits and all the freeze-dried ration packs a spacer could ever want to eat. There is nothing in this chamber connected with intelligence work; it is the installation's stock of day-to-day operating supplies.
+
+##### CENTRAL ELEVATOR (8) 
+
+The elevator shaft runs though both levels and the area in between. It is surrounded by a marshalling chamber where cargo can be loaded onto the large platform and personnel can board the smaller one.
 
 ###### LOWER LEVEL
 
 The installation's lower level contains its intelligence- operation functions. It can be accessed directly from the shuttle bays or the access hatch for the antenna array.
 
-##### SHUTTLE BAYS (1) A cluster of bays can accommodate one craft of up to 100 tons displacement in addition to several smaller boats. The bays lead into a typical support and maintenance area.
+##### SHUTTLE BAYS (1)
 
-##### FUEL CAVERN (2) Much of this level is taken up by a large fuel reserve stored in a natural cavern. There is far more fuel than the station would ever need, in order to support ships headed out on intelligence missions.
+A cluster of bays can accommodate one craft of up to 100 tons displacement in addition to several smaller boats. The bays lead into a typical support and maintenance area.
 
-##### OPERATIONS SUITE (3) The installation's main operations suite contains conference rooms, offices and a very large amount of computer equipment. It is capable of supporting an analysis team and/or preparing a field team for their mission.
+##### FUEL CAVERN (2)
+
+Much of this level is taken up by a large fuel reserve stored in a natural cavern. There is far more fuel than the station would ever need, in order to support ships headed out on intelligence missions.
+
+##### OPERATIONS SUITE (3)
+
+The installation's main operations suite contains conference rooms, offices and a very large amount of computer equipment. It is capable of supporting an analysis team and/or preparing a field team for their mission.
 
 ##### SECURE ACCOMMODATION (4)
+
 'Secure accommodation' is a euphemism for holding cells and interrogation chambers. Most are set up for humans but there are variable-environment cells which could be used for almost any species. There are four bodies in one of these, which has been set up for extreme cold conditions. All the corpses wear the remains of Imperial Navy vacc suits and appear to have died from injuries of a sort common in space combat – electrocution, burns or spallation from the hull.
 
-##### MISSION STORES (5) The installation's mission stores include clothing and domestic items from a variety of Tech Levels and cultures, along with equipment such as bug detectors and small computers specialised for encryption-cracking. The armoury contains several snub pistols as well as
-'stealth' weapons such as body pistols. There are also more specialised items, including psionic decoys.
+##### MISSION STORES (5)
+
+The installation's mission stores include clothing and domestic items from a variety of Tech Levels and cultures, along with equipment such as bug detectors and small computers specialised for encryption-cracking. The armoury contains several snub pistols as well as 'stealth' weapons such as body pistols. There are also more specialised items, including psionic decoys.
 
 ##### SECONDARY FUEL (6) A smaller natural cavern has been turned into an auxiliary fuel storage area in much the same way as the main one.
 
 ##### STORAGE CAVERN (7) A natural cavern has been slightly modified by smoothing off the floor and turned into a storage area. There are hundreds of boxes, mostly containing clothing and culturally-appropriate personal electronic devices from numerous cultures. Boxes are numbered and there is a surprisingly accurate inventory held on the main station computer. Any
-
-
 
 Traveller who wants a set of TL2 hiking boots or the TL6 equivalent of a personal comm can find one... eventually... but there are no weapons or items of value other than boxes and boxes of low- denomination local currency from several worlds.
 
@@ -2591,8 +2354,6 @@ Since they arrived, the survivors have been trying to jury-rig their boat and ge
 
 Petty Officer Second Class Khatoon served a term in the Imperial Navy a lifetime ago, serving honourably but without distinction aboard tankers and supply ships. He mustered out with a useful set of skills and embarked on a career aboard a succession of small trading vessels. His pay was augmented by a stipend granted in return for remaining on the reserve list, which came with the inconvenience of a mandatory five-year recertification and refresher course. By sheer bad luck, Khatoon was halfway through what he intended to be his last refresher before retirement when the Zhodani attacked. He found himself directed to the boat bays, boarded an SDB and did his best.
 
-
-
 01
 
 02 02
@@ -2602,7 +2363,6 @@ Petty Officer Second Class Khatoon served a term in the Imperial Navy a lifetime
 03
 
 ##### Upper Level
-
 
 04
 
@@ -2618,7 +2378,6 @@ Petty Officer Second Class Khatoon served a term in the Imperial Navy a lifetime
 
 ##### Intelligence Station Miidurki
 
-
 01
 
 02
@@ -2626,7 +2385,6 @@ Petty Officer Second Class Khatoon served a term in the Imperial Navy a lifetime
 03
 
 ##### Lower Level
-
 
 04
 
@@ -2668,7 +2426,6 @@ Able Spacehand Qua Davis is at the other end of the experience spectrum. Halfway
 
 ##### Various Scavenged Tools
 
-
 ##### ABLE SPACEHAND QUA DAVIS
 
     STR 7 SPECIES —
@@ -2690,9 +2447,6 @@ Able Spacehand Qua Davis is at the other end of the experience spectrum. Halfway
     ##### EQUIPMENT
 
     ##### Various Scavenged Tools
-
-
-
 
 The Travellers can get aboard the intelligence station by a variety of means. There are two sets of boat bays and access can also be gained through the missile bays or the antenna cluster hatch. The large docking bay will open if a craft with an Imperial transponder approaches but the wrecked SDB creates an obstacle the Travellers will have to carefully manoeuvre around. Once inside, the Travellers will be able to explore the station for a time if they desire. They will encounter the two survivors at some point, which could be awkward if the Travellers do not appear to be Imperial Navy personnel.
 
@@ -2746,8 +2500,6 @@ All manner of diversions and stratagems are possible for the Travellers. Missile
 
 At some point, the Travellers will need to get off the station and away from Extolay. They may have slipped away early in Rock Twelve, quietly coasting out to a jump point, or they might make a last-second dash in their ship, under the guns of the enemy destroyer. What they leave behind is lost to them but there are greater implications depending on what the Zhodani capture.
 
-
-
 The station itself is of little value, although something could be learned from its technical systems if they are intact. If any of the data vaults survived, the Zhodani will find and eventually crack them. When they do, they will learn a great deal about Imperial intelligence operations in the region and more importantly will learn what the Imperials know about their own. This could have far-reaching repercussions.
 
 The Travellers may never know how important their actions at the station could be. They can prevent a huge cache of intelligence data falling into Zhodani hands, or might totally fail to realise it is even there. This could be a significant moment in the course of the Fifth Fronter War, although for now the Travellers may be content just to escape. Where they go is entirely up to them, although Regina seems like a sensible destination. Whatever they choose to do, the Travellers must do it in the middle of a war zone. There are many adventures ahead....
@@ -2786,8 +2538,6 @@ The Travellers may never know how important their actions at the station could b
     ##### ARMOUR
 
     Vacc Suit (+10)
-
-
 
 The Zhodani military uses an open-topped light grav vehicle for patrol and security work. It has two seats up front for the driver and an observer, with the rear of the vehicle designed to be configured as necessary. When carrying supplies or cargo, capacity is 3,000 kilograms. However, the vehicle is more commonly deployed as a patrol and reconnaissance platform with two or three personnel carried in the rear, along with some loose cargo. Up to six people can be carried if the vehicle is fitted with seats but fighting from the vehicle becomes very difficult in this case.
 
@@ -2844,11 +2594,17 @@ A layer of radar-absorbent 'stealth' materials around inhabited sections of the 
 
 # ROCK TWELVE
 
-##### FUEL SHUTTLE DOCKING BAY (1) The fuel shuttle docks tail-first and is accessed by way of a gantry running around the outside of the bay. Storage lockers for rarely-used items line the inner side of the gantry, containing tools and spares for maintaining small craft and vacc suits, along with shipboard systems that rarely require maintenance. There may be a weapon or two hidden in concealed compartments among these lockers.
+##### FUEL SHUTTLE DOCKING BAY (1) 
 
-SHIP'S BOAT DOCKING AREA (2) The ship's boat dock is generally similar to the fuel shuttle bay. Personnel access to the ship is normally by way of a gantry around the side of the bay leading to the main airlock (2a). An automated transfer system (2b) allows stores to be moved directly to the cargo area.
+The fuel shuttle docks tail-first and is accessed by way of a gantry running around the outside of the bay. Storage lockers for rarely-used items line the inner side of the gantry, containing tools and spares for maintaining small craft and vacc suits, along with shipboard systems that rarely require maintenance. There may be a weapon or two hidden in concealed compartments among these lockers.
 
-##### TURRET ONE (3) Turret One is recessed into the rock of the planetoid hull at the end of a short corridor. It can be entered for manual operations but is normally fired from the bridge. A locker nearby holds up to 15 missiles. Usually no more than a handful are combat weapons, with the remainder being long-duration listening probes on a standard missile bus. All missiles are commercially available 'civilian' models with nothing to trace them back to Imperial authorities.
+SHIP'S BOAT DOCKING AREA (2) 
+
+The ship's boat dock is generally similar to the fuel shuttle bay. Personnel access to the ship is normally by way of a gantry around the side of the bay leading to the main airlock (2a). An automated transfer system (2b) allows stores to be moved directly to the cargo area.
+
+##### TURRET ONE (3) 
+
+Turret One is recessed into the rock of the planetoid hull at the end of a short corridor. It can be entered for manual operations but is normally fired from the bridge. A locker nearby holds up to 15 missiles. Usually no more than a handful are combat weapons, with the remainder being long-duration listening probes on a standard missile bus. All missiles are commercially available 'civilian' models with nothing to trace them back to Imperial authorities.
 
 ##### TURRET TWO (4) Turret Two is almost identical to Turret One but accessed by a corridor leading off the bridge.
 
@@ -2860,18 +2616,16 @@ Rock Twelve is hollowed out of an irregular planetoid, roughly twice as long as 
 
 Internal structures and corridors are bored into solid rock, then lined with standard starship materials. Perhaps the only obvious sign this is a planetoid's interior rather than a purpose-built starship is the lack of viewports. Each cluster of chambers is surrounded by a Gaasha Cage, which nullifies psionic activity when activated.
 
-##### CREW
-
+ CREW
 
 HULL POINTS: 480
 
-##### RUNNING COSTS
+ RUNNING COSTS
 
-
-##### PURCHASE COST
+ PURCHASE COST
 
 MCr691.55
-##### MAINTENANCE COST
+ MAINTENANCE COST
 
 Cr57629/month
 
@@ -2883,7 +2637,6 @@ Ammunition Missile Storage (30 missiles) 2.5 — Craft Docking Space (concealed,
 
 Captain, Pilot, Astrogator, Engineers x3, Maintenance, Gunners x2, Intelligence personnel
 ##### as required
-
 
 ##### POWER REQUIREMENTS
 
@@ -2951,7 +2704,6 @@ Total: MCr691.55
 
 ##### Rock Twelve Crew Deck
 
-
 ##### MAIN ACCOMMODATION COMPLEX (6) The main accommodation complex consists of eight standard cabins, plus a small recreation and dining area.
 
 ##### SECURE ACCOMMODATION COMPLEX (7) The secure accommodation complex consists of four cabins, two briefing/interrogation rooms and a small medical bay. The personality overlay device is located in one of the briefing rooms. There is also a small brig for use on the rare occasions someone is grabbed by the crew. This is not the sort of mission such a ship would normally be tasked with but intelligence work can be full of surprises.
@@ -2970,14 +2722,11 @@ G/CHAIR
 
 ##### COMMON AREA
 
-
 ##### FRESHER
-
 
 SHIP'S LOCKER
 
 ##### CARGO
-
 
 ##### IRIS VALVE (WALL)
 
@@ -2991,19 +2740,13 @@ AIRLOCK/CARGO HATCH
 
 ##### SENSOR
 
-
 ##### POWER PLANT
-
 
 ##### FUEL PROCESSOR
 
-
 ##### FUEL
 
-
 JUMP DRIVE/MANOEUVRE DRIVE
-
-
 
 ##### FUEL ALPHA ROCK TWELVE FUEL SHUTTLE
 
@@ -3013,11 +2756,9 @@ Fuel Alpha is constructed as a nondescript cylinder, with a combined drive/contr
 
 ##### CREW
 
-
 HULL POINTS: 120
 
 ##### RUNNING COSTS
-
 
 ##### PURCHASE COST
 
@@ -3027,7 +2768,6 @@ MCr111.6375
 Cr9303/month
 
 ##### POWER REQUIREMENTS
-
 
 ##### Basic Ship Systems
 
@@ -3058,7 +2798,6 @@ Pilot, Engineer,
 
 ##### as needed
 
-
 1 square = 0.5 Ton
 
 **LEGEND**
@@ -3075,11 +2814,9 @@ The boat is necessary for personnel transportation and cargo loading but sometim
 
 ##### CREW
 
-
 HULL POINTS: 12
 
 ##### RUNNING COSTS
-
 
 ##### PURCHASE COST
 
@@ -3089,7 +2826,6 @@ MCr6.822
 Cr569/month
 
 ##### POWER REQUIREMENTS
-
 
 ##### Basic Ship Systems
 
@@ -3101,7 +2837,6 @@ Cr569/month
 TL12 TONS COST (MCr) Hull 30 tons, Streamlined — 1.8 M-Drive Thrust 5 1.5 3 Power Plant Fusion (TL12), Power 23 1.5 1.5 Fuel Tanks 4 weeks of operation 1 — Bridge 3 0.5 Computer Computer/5 — 0.03 Sensors Basic — — Weapons Fixed Mount (empty) — 0.1 Systems Cabin Space x6 9 0.45 Airlock 2 0.2 Fuel Scoops — — Software Manoeuvre — — Library — — Intellect — — Cargo 12 — Total: MCr7.58
 
 ##### Pilot
-
 
 1 square = 0.5 Ton
 
@@ -3154,15 +2889,12 @@ ASS-11
 
 ##### SECURITY BATON
 
-
 Weapon TL Range Damage Kg Cost Magazine Magazine Cost Traits Burst-capable Handgun 9 10m 2D-1 0.6 Cr225 20 Cr15 AP 2, Auto 2 ASS-11 (baton) 9 60m 1D+2D Stun 3.4 Cr350 6 Cr12 Lo-Pen 3 ASS-11 (penetrator) 9 80m 3D 3.4 Cr350 6 Cr16 AP 4 Security Baton 9 Melee 1D+1D Stun 0.8 Cr10 — — —
 
 Security personnel wear a dark grey duty uniform which is resistant to minor threats such as small blades
 (equating to Protection +2). A rigid chest protector, shin and forearm guards and a helmet bring this up to Protection +5. A typical loadout is sidearm-only in 'soft' uniform, with sidearm and longarm carried when 'hard'
 
 - local slang for adding the rigid armour.
-
-
 
 ###### GENERIC SMALL ARMS
 
@@ -3180,11 +2912,7 @@ GAP-9
 
 ##### SPACER TEN
 
-
 ##### RATTLER
-
-
-
 
 ###### PSIONIC DECOY
 
@@ -3201,8 +2929,6 @@ A face mask with goggles and an integral filter will suffice for use in the tain
 **Psionic Decoy**
 
 2D Effect 2–4 The device does nothing useful. 5–6 The device creates a burst of telepathic static lasting 2D rounds. This will draw the attention of any telepaths within 50m in much the same way that a strange buzzing sound from the next room might provoke curiosity. 7–8 The device produces a 50m pulse that feels (to a telepath) like someone inarticulately crying for help. 9–11 The device produces an intense burst of telepathic interference, potentially stunning any psionically receptive individual within 6m for 1D rounds. An Average (8+) Telepath check (PSI) is required to avoid this. Psions without the Telepathy skill must make an Average (9+) PSI check. 12 The device produces an oddly specific telepathic message or effect, purely by accident. It might make a nearby telepath burst out laughing or become disorientated for a few seconds.
-
-
 
 Anyone wearing a worker rig will have a basic tool set, additional light sources and other minor but useful items about their person. Travellers do not have to specify each object beforehand; if it is reasonable they would have it, then they do. All worker rigs have attachment points for cables, allowing safe climbing or lowering without the need to locate the correct equipment. The same attachments are sometimes used for casualty evacuation.
 
@@ -3224,14 +2950,11 @@ The concussion grenades used by Zhodani ground troops have tactical applications
 Zhodani Trooper combat armour is identical in function to the TL12 combat armour found on page 98 of the Traveller Core Rulebook. Officer Combat Armour is similar but considerably lighter, substituting carbon- tube weave for the smart plastic of the Trooper armour. This is further enhanced with a specialised computer weave and communications system, with an installed Computer/3. This runs Intellect/1 and Expert
 (electronics (comms)) 2 software, assisting officers with unit coordination and control on the battlefield.
 
-
-
 **Weapon TL Range Damage Kg Cost Powerpack Powerpack Cost Traits**
 
 ##### Consular Army Model
 
 ##### Laser Pistol
-
 
 14 25 3D+4 1.2 Cr3500 100 — Auto 2 (10), Zero-G
 
@@ -3239,13 +2962,11 @@ Zhodani Trooper combat armour is identical in function to the TL12 combat armour
 
 ##### Laser Carbine
 
-
 14 350 4D+4 2.8 Cr5000 100 — Auto 2, Zero-G
 
 ##### Consular Army Model
 
 ##### Laser Marksman Rifle
-
 
 14 900 5D+5 5.5 Cr10000 100 — Zero-G
 
@@ -3259,7 +2980,6 @@ Concussion Grenade 14 — 3D 0.6 Cr35 — — Blast 9, Stun
 
 ##### Blade Weapon Vranz
 
-
 14 — 2D 0.9 Cr100 — — —
 
 **Armour Type Protection TL Rad Kg Cost Required Skill**
@@ -3268,20 +2988,13 @@ Officer Combat Armour +18 12 150 14 Cr95000 Vacc Suit 0
 
 ##### LASER MARKSMAN RIFLE
 
-
 ##### LASER CARBINE
-
 
 ##### CONCUSSION GRENADE
 
-
 ##### BLADE WEAPON VRANZ
 
-
 ##### LASER PISTOL
-
-
-
 
 The following information is readily available at most data terminals, although the exact wording may vary if there are local considerations such as bias against certain nobles, governments or business groups. Library data represents what is commonly known, not the whole truth. Some entries are entirely false, although this is rare. Such data tends to get weeded out by routine fact- checking, although there are some persistent myths and falsehoods that just will not go away.
 
@@ -3307,8 +3020,6 @@ At the time of this adventure, the Federation of Arden has been formally recogni
 
 Khigur and Andrews Incorporated: Khigur and Andrews is a general mining and minerals corporation with a preference for shaft or tunnel mining on-planet or in a planetoid field. Its asteroid mining arm is smaller but more prestigious than its on-planet holdings and receives a higher grade of personnel. Being 'dropped' to a ground-mining installation is a common punishment for incompetence or disruptive activities like trying to start a union. Attitudes towards welfare and safety vary between the two arms, with the space-mining community generally being highly professional and well looked after, whilst ground-borers have a bad reputation for avoidable accidents. There are suspicions that it is the firm's management and policies, rather than the workforce, to blame for this poor safety record.
 
-
-
 Riverland Wall: The Riverland Wall is a popular term for the chain of Zhodani-held worlds extending from Cronor into the Jewell subsector. The 'wall' contains several naval installations and is heavily patrolled, with cruiser and battle squadrons in reserve. In wartime, the systems of the wall would serve as a tripwire or breakwater for Imperial forces but its political and strategic value is much greater than this.
 
 Few civilian ships are capable of more than jump-2, making it necessary to go 'across the wall' or take a long detour in order to get from Imperial space to the systems coreward of Riverland. This does not stop naval vessels and diplomatic couriers jumping over Zhodani-held systems but it does reduce the amount of Imperial trade ships and independent vessels operating in the area. This in turn limits Imperial cultural and political influence, and makes it difficult to infiltrate intelligence-gathering vessels posing as legitimate traders.
@@ -3326,8 +3037,6 @@ received from citizens or the offenders themselves and it is believed by many ou
 Most interactions result in minor consequences such as advice or referral to a training and social orientation course but the Tavrchedl' are known to take people away for re-education. This is thought to involve psionic processes as well as psychological conditioning. Most Imperials find the idea of the Tavrchedl' to be deeply sinister and suggest that the only reason Zhodani find them acceptable is that they have already been brainwashed.
 
 Ursherer Mining Consortium (UMC): The Ursherer Mining Consortium is owned by some of the richest members of The Arden Society and is widely considered one of the driving forces in the creation of the Federation of Arden. UMC does wholly operate some of its mining sites but generally finds it preferable to subcontract the actual extraction of minerals. The firm invests in infrastructure and facilities which smaller companies cannot afford, allowing small mining firms to get established and grow but always at the price of economic dominance by UMC. In the case of Utoland, UMC is the world government in all but name, with administration of the planet run more or less as a subsidiary.
-
-
 
 There is no big cash payoff in Flashpoints. The Travellers are rewarded by getting their possessions and personalities back, and more importantly by witnessing great events. Perhaps they are able to guide some of those events, at least to an extent. This is the real reward in a roleplaying game; having an adventure in which the Travellers are captains of their own fate.
 
@@ -3442,8 +3151,6 @@ What Has Gone Before 011 Word Around Town 071 Work and Life in MC4 058 Worker Ri
 
 Zdetla 094 , 095 Zhodani Armoured Boarder 115 Zhodani Consulate Ground Forces 031 Zhodani Military Air/Raft 116 Zhodani Military Equipment 129 Belt Powerpack 130 Concussion Grenade 130 Consular Army Model Laser Carbine 130 Consular Army Model Laser Marksman Rifle 130 Consular Army Model Laser Pistol 130 Portable Powerpack 130 Zhodani Occupation Force 077 Zhodani Ratings 115 Zhodani Troopers 036 Zhodani Heavy Weapons Operator 036 Zhodani Infantry Trooper 036 Zhodani Warbot Handler 036
 
-
-
 ##### MGP40122
 
 US $49.99
@@ -3460,14 +3167,11 @@ Reaching the ship, the Travellers learn why they were hiding on Utoland and wher
 
 ##### FLASHPOINTS
 
-
 ###### FLASHPOINTS
 
 ##### FLASHPOINTS
 
-
 **02**
-
 
 Utoland... bleak, miserable Utoland. Amid a disaster aboard a giant mining machine the Travellers start asking themselves why they would come here, why they would take such dangerous and underpaid work – and why their memories are suddenly disjointed.
 
@@ -3475,7 +3179,5 @@ As the Zhodani occupation of Utoland begins, the Travellers realise they are not
 
 Reaching the ship, the Travellers learn why they were hiding on Utoland and where they must go next. More importantly, they unravel what they have done. The Fifth Frontier War is unfolding around them, and there is a good chance that they had a hand in starting it...
 
-
 ##### CONTENTS
-
 

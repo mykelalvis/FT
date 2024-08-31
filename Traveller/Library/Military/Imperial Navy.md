@@ -1,3 +1,9 @@
+---
+date created: 2024-08-30 07:15
+aliases:
+  - Navy
+---
+
 ## IMPERIAL NAVY
 
 The Imperium is a union of over 11,000 worlds. The sectors of the Imperium extend over far too wide an expanse for the government to exert centralised authority over its entirety. The Emperor primarily uses two tools to manage the empire: the nobility and the Imperial Navy. The feudal structure of the nobility is the administrative nervous system of the Imperium. The Imperial Navy patrols its borders and interior, enforces Imperial law and ensures the secure flow of commerce between its worlds. In short, the navy's jobs are to defend the Imperium from external enemies, rid it of internal threats such as pirates and smugglers, and protect the worlds of the Imperium from each other when necessary.

@@ -31,7 +31,7 @@ problems along the way.
 Simple enough on the face of it. However, this is the
 Imperial frontier and not everything goes to plan out here.
 
-##### THE THIRD IMPERIUM
+### THE THIRD IMPERIUM
 
 High and Dry is set in the Spinward Marches, within
 the Sword Worlds and District 268 subsectors. It is a
@@ -82,7 +82,7 @@ Campaigns are supposed to be fun, so change whatever
 you think necessary and everything will be fine. Trust us,
 we are professional game designers...
 
-##### TRAVELLERS AND EQUIPMENT
+### TRAVELLERS AND EQUIPMENT
 
 This adventure can be played (and completed
 successfully) by almost any group of adventurers if
@@ -114,7 +114,7 @@ this case is that the Travellers are tasked with picking
 up a starship and bringing it to Flammarion on behalf of
 the new owners – themselves.
 
-##### EX-SCOUTS
+### EX-SCOUTS
 
 For newly created Travellers, just setting out among
 the stars, this can be perfect. In the best of all possible
@@ -130,7 +130,7 @@ where the ship is and what they must do to claim it.
 If there are no scouts due a ship among the Travellers,
 there are two good alternatives.
 
-##### FREE SCOUT SHIP!
+### FREE SCOUT SHIP!
 
 A Contact of one of the Travellers has arranged a
 favour with the Scout Service to obtain a scout ship. All
@@ -144,7 +144,7 @@ just anyone! The scouts will appreciate the efforts of the
 Travellers but the ship must ultimately be returned to
 the detached duty fleet in short order.
 
-##### OTHER TRAVELLER SHIPS
+### OTHER TRAVELLER SHIPS
 
 If another Traveller has gained a ship as a Benefit, you
 can simply swap the scout/courier for the appropriate
@@ -182,7 +182,7 @@ economic and political development.
 This is a brief summary of the worlds on the Bowman
 Arm that are relevant to this adventure.
 
-##### FLAMMARION
+### FLAMMARION
 
 Flammarion is an important link on the x-boat route to
 the Five Sisters and the site of both an Imperial Navy
@@ -206,7 +206,7 @@ thin atmosphere, despite its size, and little surface
 water. Most Travellers stop over at the large and well-
 equipped highport and never set foot on-planet.
 
-##### ASTELTINE
+### ASTELTINE
 
 An average-size world with an exotic atmosphere
 unbreathable for humans, Asteltine is home to about
@@ -231,7 +231,7 @@ that some of the larger corporations – or even the
 megacorps – might want to move into the system now
 that access has become easier.
 
-##### 567-908
+### 567-908
 
 A dry world with a thin atmosphere, 567-908 has seemingly
 little to offer colonists or businesses and has not received
@@ -246,7 +246,7 @@ both consumption and hydrogen fuel processing), there is
 little reason to stay. Few visitors remain planetside longer
 than it takes to refuel their ship.
 
-##### BOWMAN
+### BOWMAN
 
 The Bowman Belt is one of the wonders of the Spinward
 Marches. It is one of the most extensive planetoid belts
@@ -289,7 +289,7 @@ Walston might become the economic centre of the
 arm if and when the subsector joins the Imperium. At
 present, however, it is a backwater of little importance.
 
-##### WALSTON
+### WALSTON
 
 Walston orbits an M2 primary called Albin’s Star, named
 for the captain of the first Imperial exploration ship into the
@@ -399,7 +399,7 @@ Countless small islands dot the surface of Walston’s
 oceans. Most of these are covered in ice and few offer
 any reasonable prospects for habitation.
 
-##### SOCIO-POLITICAL DATA
+### SOCIO-POLITICAL DATA
 
 Walston is home to about 3,000 individuals,
 approximately 90 percent of whom are Vargr who
@@ -479,7 +479,7 @@ membership might upset the ‘natural order’ of things.
 Certainly the status of Vargr as a lower order would be
 unacceptable to most Imperial citizens.
 
-##### ECONOMIC DATA
+### ECONOMIC DATA
 
 Walston has a mainly subsistence economy based on
 shallow-water seabed farming off the island’s ice-free
@@ -502,7 +502,7 @@ cargoes from time-to-time. Walston imports little
 and exports even less; the port is purely an external
 commercial installation.
 
-##### MILITARY DATA
+### MILITARY DATA
 
 Walston does not possess a military of any
 consequence. The dictator maintains a security
@@ -527,7 +527,7 @@ faming submarines, it is unlikely that much could be
 achieved. Walston has no history of conflict and no
 warrior tradition amongst its people.
 
-##### FLORA AND FAUNA
+### FLORA AND FAUNA
 
 The seas of Walston are home to a variety of hardy life.
 Most of this is on a microscopic level, although a wide
@@ -597,7 +597,7 @@ however, emit a pleasing humming sound when petted
 and will snuggle up to anyone in emotional distress,
 apparently to offer comfort.
 
-##### LIFE ON WALSTON
+### LIFE ON WALSTON
 
 Daily life on Walston is slow and, for the most part,
 comfortable. Filter masks and thick clothing are
@@ -857,7 +857,7 @@ Manoeuvre Drive 20
 Jump Drive 20
 Sensors 2
 
-#### HIGHNDRY
+## HIGHNDRY
 
 ###### The Highndry
 
@@ -879,7 +879,7 @@ The adventure begins at Flammarion Highport. With new
 Travellers, it is assumed that they have recently mustered
 out of their careers and are due to pick up a ship.
 
-##### STARPORT LIBERTY
+### STARPORT LIBERTY
 
 With Credits burning a hole in their pockets and time
 on their hands, the Travellers are free to enjoy what
@@ -924,7 +924,7 @@ However, aimless wandering about a starport has its
 limits. Once the Travellers run out of self-imposed
 direction, the Referee should get the adventure moving.
 
-##### A GIFT HORSE
+### A GIFT HORSE
 
 At least one of the Travellers will have an appointment
 to keep with a Mr. Anders Casarii of the Imperial Scout
@@ -971,7 +971,7 @@ It will work for three months without an update and
 then ground the ship at the first planetfall after
 expiration for security reasons.
 
-##### THE BASIC OFFER
+### THE BASIC OFFER
 
 The Travellers are offered middle passage to Walston
 and Cr1000 each for incidental expenses up front, plus
@@ -1006,7 +1006,7 @@ sake of recording a few lines detailing the Travellers’
 impressions and experiences of the places they visit,
 they can cover at least their bar tab in any given port.
 
-##### ACCEPTANCE
+### ACCEPTANCE
 
 If the Travellers accept the mission, they are given the
 equipment they need – three flight cases full of circuit
@@ -1024,7 +1024,7 @@ to them. The second Cr1000 instalment given to
 the Travellers, for lodging on Walston, becomes
 available after they reach their destination.
 
-##### EN ROUTE
+### EN ROUTE
 
 The Travellers have mid-passage tickets for the
 Type-A2 far trader Autumn Gold , under Captain
@@ -1084,7 +1084,7 @@ serious than a dropped coffee cup. There may come a
 time in their adventuring careers when they pine for a
 week of humdrum but safe travel.
 
-##### THE LONELY AND FORLORN WORLD OF 567-908
+### THE LONELY AND FORLORN WORLD OF 567-908
 
 Roughly 168 hours out of Flammarion, Autumn Gold
 makes jump emergence at 119 diameters out from
@@ -1203,7 +1203,7 @@ that such a species exists but dropping a few clues
 might make for a nice setup for an eventual return to
 this mysterious world.
 
-##### PLANETFALL: WALSTON
+### PLANETFALL: WALSTON
 
 The crew announces that their vessel will be making
 a brief stop at Walston, only staying for a few hours.
@@ -1269,7 +1269,7 @@ around them. A Traveller with good social skills (such
 as Persuade or Diplomat) may be able to tease some
 information out of the customs personnel.
 
-##### RACISM ON WALSTON
+### RACISM ON WALSTON
 
 If the Travellers are focused on their mission, the
 treatment of Vargr on Walston may slip their notice. If
@@ -1350,15 +1350,15 @@ way for a small staff to do things. It is rare for anyone
 to want information of this sort so a policy for making it
 available has never been created.
 
-##### INFORMATION IN TOWN
+### INFORMATION IN TOWN
 
 From the ground crews, folks in town, official records
 and customs personnel, it is possible to find out the
 following information about the scout/courier Highndry :
-•	 The vessel came through the port a couple of
+- The vessel came through the port a couple of
 times in the past year. The last time was about
 three to four months ago.
-•	 The crew were real jerks, loud-mouthed and
+- The crew were real jerks, loud-mouthed and
 offensive. They apparently did not like anything
 about Walston. They were displeased by the
 food and the beds in the hotel, hated the décor,
@@ -1367,26 +1367,26 @@ hilarious and made a mess everywhere they went.
 Simple concepts like putting trash in a bin eluded
 them and they seemed to think they were better
 than everyone else put together.
-•	 The scout was in dilapidated condition when it came
+- The scout was in dilapidated condition when it came
 through but seemed flyable enough. In any case it
 came and went a couple of times over the months
 running up to its final visit. On that occasion Highndry
 spent a couple of days in port before moving on.
-•	 Its destination is recorded as ‘In-System’ but there
+- Its destination is recorded as ‘In-System’ but there
 are no details other than a note that the ship was
 on charter to the world government of Walston.
-•	 A couple of weeks later the crew turned up at the
+- A couple of weeks later the crew turned up at the
 starport in an air/raft and hung around making
 a nuisance of themselves until a ship bound for
 Caladbolg came through.
-•	 They boarded the far trader Maverick Spacer ,
+- They boarded the far trader Maverick Spacer ,
 according to records. Apparently the crew of
 Highndry took passage aboard this vessel for
 Caladbolg via Datrillian.
-•	 Their subsequent destination is unknown.
-•	 They took their air/raft with them but left behind a
+- Their subsequent destination is unknown.
+- They took their air/raft with them but left behind a
 few thoroughly trashed hotel rooms.
-•	 Nobody was sorry to see them go.
+- Nobody was sorry to see them go.
 
 In short, the ship seems to have gone somewhere
 on Walston and met with difficulties. The crew seem
@@ -1407,7 +1407,7 @@ for the cost of their travel, accommodation and a full
 explanation over dinner. To obtain the best and most
 complete information, the Travellers must go to the capital.
 
-##### WHAT ACTUALLY HAPPENED
+### WHAT ACTUALLY HAPPENED
 
 The crew of Highndry really were a bunch of obnoxious
 jerks, who managed to land themselves in jail. This
@@ -1425,7 +1425,7 @@ have allowed it to fall into disrepair. However, they see
 it rather differently and may someday show up wanting
 ‘their’ ship back.
 
-##### BAD SEEDS
+### BAD SEEDS
 
 This adventure, as presented, need not involve the
 previous owners of the ship. They may remain part
@@ -1454,7 +1454,7 @@ The crew may attempt to barge in at several points during
 the adventure to assert their claim. This may result in a
 number of scenarios which are largely dependent on the
 Travellers’ actions. These are a few suggestions:
-•	 At the starport or the capital. This is best played
+- At the starport or the capital. This is best played
 after the Travellers learn something about the
 former crew, including how disliked they were by
 the locals. This will set the stage for an eventual
@@ -1462,11 +1462,11 @@ confrontation, at which point the Travellers can
 point out that they have a legal claim to the ship
 and therefore any attempt by the former crew will
 be an act of theft or even piracy.
-•	 During the climb of Mount Salbarii. Having the former
+- During the climb of Mount Salbarii. Having the former
 crew attempt to ascend the mountain at the same time
 as the Travellers will add to the tension of the climb and
 possibly result in a dangerous bout of combat.
-•	 After the eruption of the volcano and subsequent
+- After the eruption of the volcano and subsequent
 events. The former crew wait until the ship, battered
 and beaten as it is, is safely delivered back to the
 starport. If the Travellers acted as the heroes of
@@ -1480,7 +1480,7 @@ possibly not even attempting to help anyone at all,
 they will receive no aid from the locals and must
 face down the former crew on their own.
 
-##### PREVIOUS CREW OF THE HIGHNDRY
+### PREVIOUS CREW OF THE HIGHNDRY
 
 ```
 TRAITS — SKILLS
@@ -1615,7 +1615,7 @@ remember to concentrate on the humans), looks over the
 papers and thinks for a moment. The Minister explains the
 situation, which may not be entirely to the Travellers’ liking.
 
-##### THE SHIP IS WHERE?!
+### THE SHIP IS WHERE?!
 
 Minister Greener explains the situation regarding
 the scout/courier. Its crew were, frankly, a bunch
@@ -1716,7 +1716,7 @@ while the local shops will be able to sell the Travellers
 things like rope and backpacks, they are going to have to
 improvise their way up the mountain.
 
-##### CLIMBING THE MOUNTAIN
+### CLIMBING THE MOUNTAIN
 
 Getting to the base of Mount Salbarii from the town
 is not too much of a challenge. The Travellers are on
@@ -1876,19 +1876,19 @@ are attacked until they cover up. As the biting insects
 descend upon them, the Travellers’ vision is reduced to
 approximately two metres and all checks are made at
 DM-2. There are several ways to address this problem:
-•	 Keen observers will note that the visible swarms are
+- Keen observers will note that the visible swarms are
 not seen 100 metres below or above them on the
 mountainside. For whatever reason, they adhere
 strictly to the 100-metre band that the Travellers are
 attempting to ascend during this phase of the climb.
 They may hasten their ascent to get beyond the
 insects’ habitat, with the aforementioned DM-2 applied.
-•	 The insects will flee from fire and chemicals. If the
+- The insects will flee from fire and chemicals. If the
 Travellers have flares, a camp fire or simply an
 aerosol can and a match, they can force the insects
 to leave them alone for 4D minutes, possibly giving
 them time to proceed to the next phase of the climb.
-•	 Locating and hiding in a cave or crevice will cause the
+- Locating and hiding in a cave or crevice will cause the
 insects to give up within 1D minutes. They are clumsy
 fliers and do not operate well in confined spaces.
 After the Travellers resurface, they get a reprieve of
@@ -1949,7 +1949,7 @@ Behaviour Reducer
 
 Salbarii Locust
 
-##### RECOVERING FROM ALTITUDE SICKNESS
+### RECOVERING FROM ALTITUDE SICKNESS
 
 A Traveller’s body will try to adjust to the conditions it
 experiences. As a result, simply resting up for a day or
@@ -2034,7 +2034,7 @@ PRIS goggles or similar device reveals that the group
 is eyeing the Travellers from a distance, so their lack of
 communication seems deliberate.
 
-##### THE CRATER LIP
+### THE CRATER LIP
 
 The highest point of the crater lip is about 1,500 metres
 above sea level. However, it is not necessary to go
@@ -2098,7 +2098,7 @@ sickness and cannot keep their balance. However, it
 will take time to climb down and even longer to get
 back up if the ship turns out not to be flyable.
 
-##### THE SCAVENGERS
+### THE SCAVENGERS
 
 ```
   TRAITS — SKILLS
@@ -2157,7 +2157,7 @@ sooner or later. The first is that there are several lava
 tubes around the outside of the crater, mostly in the outer
 zone. The second is that they have company in the crater.
 
-##### THE LAVA TUBES
+### THE LAVA TUBES
 
 Most of these are dead ends but a couple lead to
 caverns under the lake. These might be worth exploring
@@ -2165,7 +2165,7 @@ from a mineral prospecting point of view. They are
 slightly warmer than rock would normally be, which
 may cause Travellers to worry.
 
-##### COMPANY
+### COMPANY
 
 The crew of the _Highndry_ had a guard animal or possibly
 a pet. This beast was, or rather is, an omnivore the
@@ -2177,9 +2177,7 @@ community or family. A reliable guard animal, companion
 and disposal unit for meal scraps under normal conditions,
 the beast is at present a threat to everyone around it.
 
-The animal belongs to a species named Tensher’s
-Wolf after its general appearance and the scientist
-
+The animal belongs to a species named [[Tensher’s Wolf]] after its general appearance and the scientist
 who identified it. Tensher’s Wolf is not native to the
 Spinward Marches but is often imported as a guard
 animal. As luck would have it, the animal is suited to
@@ -2204,15 +2202,6 @@ Travellers. If they are not aware of it or do not actively
 attempt to feed and befriend it, it will try to kill and eat
 them unless it can steal something to eat from them
 instead. An encounter where the creature steals food from
-
-Animal Hits Speed
-Tensher's Wolf 36 12m
-Skills Athletics (dexterity) 1, Melee (natural)
-3, Recon 2, Stealth 2, Survival 3
-Attacks Bite (D3)
-Traits Armour (+2), Camouflaged
-Behaviour Carnivore, Pouncer
-
 the Travellers’ camp might cause them to realise that it
 does not fear people and might in fact be an abandoned
 pet. If the Travellers leave suitable food for the creature
@@ -2222,7 +2211,7 @@ revert to being one and eventually become a loyal guard
 animal/pet. If the Travellers do not befriend the creature
 they will have to kill it before it kills and eats one of them.
 
-##### THE HIGHNDRY
+### THE HIGHNDRY
 
 Once the Travellers reach the island, they can see that
 the Highndry ’s hatches are all closed but just about
@@ -2233,7 +2222,6 @@ that the crew attempted a repair then stripped everything
 of value that they could carry from the ship, dumped
 the rest and took off in the ship’s air/raft. Among the
 wreckage is a forlorn metal food bowl licked clean long
-
 ago. The name ‘Kimbley’ has been hand-stamped into
 the metal of the bowl. Someone once cared for the poor
 starving beast now haunting the island but not enough to
@@ -2256,7 +2244,6 @@ home and in the process of leaving they were not gentle.
 On top of that, virtually every access panel is open, the
 covers are off everything that has a cover and there
 are components strewn all over the deck. Putting it all
-
 back together will be a big job. Fortunately, some of the
 components can be bypassed or replaced with the gear
 the Travellers brought with them up the mountain. The
@@ -2274,7 +2261,7 @@ So, having climbed to the top of the world, the
 Travellers can finally begin the job they came to
 Walston to do.
 
-##### REPAIRS, SURVEYS AND TREMORS
+### REPAIRS, SURVEYS AND TREMORS
 
 Repairing the _Highndry_ is a relatively straightforward
 task for Travellers who have the right equipment, i.e. the
@@ -2286,11 +2273,10 @@ download/diagnostic unit can then ascertain whether a
 given system is useable or needs further work.
 
 There are four main systems needing repair:
-•	 Flight controls and navigational systems (bridge)
-•	 General shipboard electronics (dispersed
-throughout the ship)
-•	 Power systems electronics (engineering)
-•	 Drive systems electronics (engineering)
+- Flight controls and navigational systems (bridge)
+- General shipboard electronics (dispersed throughout the ship)
+- Power systems electronics (engineering)
+- Drive systems electronics (engineering)
 
 Each of these jobs takes 1D+2 man-hours to complete.
 Most of the work can be done by an unskilled person who
@@ -2341,7 +2327,7 @@ up properly will take even longer.
 There is also the matter of the seismic survey to be
 carried out.
 
-##### THE SURVEY
+### THE SURVEY
 
 The Travellers do not, strictly speaking, have to keep
 their promise to Minister Greener. The people of
@@ -2388,7 +2374,7 @@ through somehow. After a few hours of blowing up small
 areas of rock and vaporising the occasional bush, the
 Travellers will get a fright.
 
-##### THE TREMOR
+### THE TREMOR
 
 Although the Travellers do not know it, their actions
 have nothing to do with a slight tremor that shakes the
@@ -2416,7 +2402,7 @@ this time the fissure will have ceased to vent gas and the
 mountain will once again be quiet. However, these events
 may give the Travellers cause for grave concern.
 
-##### CONCLUSIONS
+### CONCLUSIONS
 
 The Highndry ’s computers (and any Travellers with relevant
 skills) will come up with a prediction after a few hours.
@@ -2447,7 +2433,7 @@ below the volcano. However, it does suggest that further
 monitoring is advisable as the entire prediction is based
 upon one incomplete map of the mountain’s structure.
 
-##### TEST FLIGHT
+### TEST FLIGHT
 
 At last the Highndry is ready for a test flight. The Travellers
 may be suspicious that the ship’s systems are not in perfect
@@ -2552,7 +2538,7 @@ become of the crater, bushes begin to catch fire and
 the air is filled with dust and ash. The radio is active,
 with two transmissions on similar bands.
 
-##### TRANSMISSION ONE
+### TRANSMISSION ONE
 
 The first transmission is coming in from the capital at
 Central Lake by way of the starport orbital beacon.
@@ -2571,7 +2557,7 @@ increasingly desperate for information. The Travellers
 have little to give him other than their own first-hand
 account of the eruption.
 
-##### TRANSMISSION TWO
+### TRANSMISSION TWO
 
 At more or less the same time, the town mayor’s office at
 Salbarii tries to contact the Travellers. The tremors have
@@ -2580,7 +2566,7 @@ the mountain and dark clouds can be seen issuing from
 the mountain. The mayor and his tiny staff have issued a
 general alert and, like Greener, need information.
 
-##### DECISIONS
+### DECISIONS
 
 The Travellers could cut and run at this point but for a
 minor problem. Their fuel tanks could be filled
@@ -2617,7 +2603,7 @@ able to fix up the drives themselves eventually. In the
 meantime, people may be in danger and they have
 the means to help.
 
-#### Eruption!
+
 
 # FIGHTING MOUNT SALBARII, PART 1
 
@@ -2633,20 +2619,20 @@ easily enough through the haze despite visual range
 being very short.
 
 A circuit of the mountain reveals the following facts:
-•	 There is a small amount of lava in the crater itself
+- There is a small amount of lava in the crater itself
 and some leaking from outlets on the higher
 slopes. This is not a significant hazard beyond the
 immediate area.
-•	 There is a major eruption much lower down, where
+- There is a major eruption much lower down, where
 part of the mountainside has collapsed. A veritable
 river of lava is pouring out. This is on the south-
 western side of the volcano.
-•	 The land slopes generally down to the sea from the
+- The land slopes generally down to the sea from the
 erupting side of the volcano, offering the lava flow a
 direct path to the sea.
-•	 The town of Salbarii, 20 kilometres north, is not in any
+- The town of Salbarii, 20 kilometres north, is not in any
 real danger at present or in the foreseeable future.
-•	 There are some small settlements, mainly just
+- There are some small settlements, mainly just
 farms and a couple of hamlets, in the path of
 the lava flow. Within hours at most these will be
 swamped. The only settlement of any size in the
@@ -2654,7 +2640,7 @@ danger zone has a population of about 60 people
 and is on the coast. It is not know for certain if it is
 endangered but this seems likely.
 
-##### RESPONSES
+### RESPONSES
 
 At first, there is little response from the people of
 Walston. True to their collective character, most
@@ -2702,13 +2688,13 @@ Their radar terrain mapping system could help predict
 the best routes out for endangered personnel.
 
 This comes down to three main tasks:
-•	 Map the terrain and model the lava flow path.
-•	 Establish a flow rate for the lava river headed in the
+- Map the terrain and model the lava flow path.
+- Establish a flow rate for the lava river headed in the
 general direction of Barvinn.
-•	 Monitor the conditions at the mountain and report
+- Monitor the conditions at the mountain and report
 any changes.
 
-##### MAPPING THE TERRAIN
+### MAPPING THE TERRAIN
 
 This requires a couple of overflights and a successful
 Electronics (sensors) check. The map shows what is
@@ -2716,7 +2702,7 @@ already suspected – Barvinn will be consumed by lava
 and the overland route will be cut before anyone can use
 it. The railroad will stay open almost to the end, however.
 
-##### ESTABLISHING THE FLOW RATE
+### ESTABLISHING THE FLOW RATE
 
 The lava is following ground contours and flowing
 much like a river as a result. Hovering directly above
@@ -2733,7 +2719,7 @@ enable the Travellers to estimate how long Barvinn has
 before the lava reaches it. The figure of roughly one to
 two hours seems reasonable at this point.
 
-##### MONITORING THE MOUNTAIN
+### MONITORING THE MOUNTAIN
 
 There is still some doubt as to whether Salbarii is in
 imminent danger or will need to be evacuated in the
@@ -2771,7 +2757,7 @@ job. If so, they will realise that there is more to their findings
 than initially meets the eye. If not, the computer model will
 present the data listed below in a few minutes anyway.
 
-##### THE BAD NEWS
+### THE BAD NEWS
 
 The lava flow rate has dropped because a plug has
 built up in the mountain somewhere. Now, sometimes
@@ -2809,7 +2795,7 @@ Anyone between the mountain and the sea will be killed
 for certain and the effects on the scout ship are likely to
 be severe to fatal. A withdrawal seems prudent.
 
-##### EVACUATION ORDERS
+### EVACUATION ORDERS
 
 Within moments of reporting the situation to Dictator
 Masterton, orders begin to come in from the temporary
@@ -2877,7 +2863,7 @@ game; it is really that simple.
 
 However someone else has different ideas.
 
-##### DECISIONS
+### DECISIONS
 
 The Travellers can see an ever-increasing flow of black
 smoke or ash-filled gas pouring from the mountainside.
@@ -2885,11 +2871,11 @@ Their sensors show massive stress in the rock before going
 offline. It is time to run and decisions need to be made.
 
 The relevant facts are:
-•	 The Travellers could almost certainly get clear if
+- The Travellers could almost certainly get clear if
 they just decide to save themselves.
-•	 Going after the large group is risky but there is a
+- Going after the large group is risky but there is a
 good chance they could do it and still beat the cloud.
-•	 If the Travellers try to rescue the other group, they
+- If the Travellers try to rescue the other group, they
 will be caught in the eruption for sure.
 
 Before the Travellers can make up their minds, radar
@@ -2930,7 +2916,7 @@ eruption from a safe distance.
 If, on the other hand, they head for Barvinn they may
 find they get a closer view.
 
-##### LAST TRAIN OUT OF BARVINN
+### LAST TRAIN OUT OF BARVINN
 
 Assuming the Travellers decide to undertake the rescue
 at Barvinn, they arrive to a pitiful scene. The settlement
@@ -3008,15 +2994,12 @@ sensation similar to being depth-charged.
 The Highndry will survive either of these options with a
 few new dents and scorch marks to go with the many
 it already has. However, the valiant Vargr chauffeur
-
-#### Fighting Mt Salbarii, Part 2
-
 and her parents will not. If the Travellers choose not
 to go to her aid, the limo is forced down on the shore
 and overwhelmed by the pyroclastic flow. There is no
 chance for anyone to survive such an event.
 
-##### DISTRESS CALL
+### DISTRESS CALL
 
 As the _Highndry_ is lifting off from Barvinn, the Travellers
 pick up a distress call from the dictator’s limo. The
@@ -3056,7 +3039,7 @@ If they go to the rescue, the pyroclastic cloud will
 engulf all of them for sure and there is no way of
 telling what will happen.
 
-##### INTO THE CLOUD
+### INTO THE CLOUD
 
 If the _Highndry_ heads for the projected crash site, the
 limo drops off radar but can be tracked by its transponder
@@ -3121,10 +3104,6 @@ Highndry will have severe effects.
 Physical damage to the vessel itself will be minor but
 objects and people inside will be thrown around by
 the impact. Base damage for everyone inside is 3D at
-the initial impact, reduced by 1D if the ship is headed
-
-#### Fighting Mt Salbarii, Part 2
-
 directly into the cloud and by another 1D if the Traveller
 is properly strapped into a crash frame or seat. Those
 simply clinging to something must make a Very Difficult
@@ -3147,7 +3126,7 @@ spinning to boot. Any moment, the ship will reach the
 top of its arc and begin to fall. It is unlikely that anyone
 will survive the crash when it hits the ocean.
 
-##### SAVE THE SHIP!
+## SAVE THE SHIP!
 
 The Travellers are inside an unpowered, tumbling,
 spinning death-trap that used to be a space vessel.
@@ -3172,9 +3151,6 @@ override the safety cut outs on the power plant and get
 power to the engines. The sooner both of these things
 are done, the sooner the pilot can begin trying to regain
 control of the ship.
-
-#### Fighting Mt Salbarii, Part 2
-
 There are three segments to the fall: Going Up, Going
 Down and Seconds to Impact. During each segment the
 pilot may attempt a Pilot check if they have both controls
@@ -3207,17 +3183,17 @@ for another task to be completed; it is equally possible
 that the crew will get everything working in the first few
 seconds after the ship begins to tumble.
 
-##### First Successful Pilot Check
+### First Successful Pilot Check
 
 The ship is stabilised
 and is at least falling predictably.
 
-##### Second Successful Pilot Check
+### Second Successful Pilot Check
 
 The ship is under
 power and begins to respond to the helm.
 
-##### Third Successful Pilot Check
+### Third Successful Pilot Check
 
 The ship is under full
 control and can avoid crashing.
@@ -3230,7 +3206,7 @@ trying to get out of a crash frame in order to run around in a
 panic. The Referee should use them as scenery to add to
 the drama and possible tragedy of the situation.
 
-##### GOING UP
+## GOING UP
 
 The _Highndry_ is nearing the apex of its crazy tumble
 through the sky. It is spinning wildly during this segment
@@ -3259,7 +3235,7 @@ children who have come loose from their seat straps
 or struggling to hold an unconscious friend against a
 bulkhead and prevent further injury.
 
-##### GOING DOWN
+## GOING DOWN
 
 The Highndry begins to fall and stabilise somewhat.
 This is nothing to do with being under control; the vessel
@@ -3269,7 +3245,7 @@ improvement in the grand scheme of things. Anyone not
 strapped in or otherwise secured makes checks at DM-1
 and suffers 1D damage from being bounced around.
 
-##### SECONDS TO IMPACT
+## SECONDS TO IMPACT
 
 Literally seconds before impact, the ship’s automatic
 systems will bring the controls back online and remove all
@@ -3291,10 +3267,7 @@ If power and control systems were already back online,
 the pilot simply needs an Average (8+) Pilot check to get
 the ship properly under control. Anyone bouncing around
 unrestrained in this segment suffers 1D damage.
-
-#### Fighting Mt Salbarii, Part 2
-
-##### MOMENT OF TRUTH
+# MOMENT OF TRUTH
 
 What happens next depends upon how many Pilot checks
 succeeded. Three attempts were possible, assuming that
@@ -3310,7 +3283,7 @@ ship is a bit worse for wear but the ordeal is over.
 If less than three Pilot checks succeeded, things do
 not go so well.
 
-##### TWO SUCCESSFUL CHECKS
+### TWO SUCCESSFUL CHECKS
 
 The Highndry ’s spin is stabilised and it is answering the
 helm but this is a little too late. It hits the surface of the
@@ -3321,7 +3294,7 @@ debris. Everyone aboard takes 2D damage if loose,
 1D if held or clinging to something, and no damage if
 strapped into a crash frame or seat.
 
-##### ONE SUCCESSFUL CHECK
+### ONE SUCCESSFUL CHECK
 
 The Highndry is sort of under control, mostly, when
 she hits the water surface in a steep dive. It arrows
@@ -3357,7 +3330,7 @@ Sooner or later, it should be possible to get the
 Highndry free using its lifters and return to the surface.
 Getting the water out might be an interesting challenge.
 
-##### NO SUCCESSFUL CHECKS
+### NO SUCCESSFUL CHECKS
 
 If the crew were not successful in self-rescuing, all is not
 (quite) lost. As noted above the ship’s automatics make
@@ -3392,8 +3365,6 @@ from the survival kit might be interesting.
 The most likely assailant is an opportunistic Alderson’s
 coastal hunter. The brakarr, a far more dangerous
 creature, is not commonly encountered in shallow water.
-
-#### Fighting Mt Salbarii, Part 2
 
 # AFTER THE DUST SETTLES
 
@@ -3454,7 +3425,7 @@ They may even view the Travellers with suspicion, as if
 it were their fault the humdrum complacency of life on
 Walston was shattered by an exploding mountain.
 
-##### DEPARTING WALSTON
+### DEPARTING WALSTON
 
 Sooner or later the time comes to depart Walston.
 If the Highndry is flyable, it has to be delivered to

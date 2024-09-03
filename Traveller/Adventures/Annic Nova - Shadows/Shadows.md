@@ -59,9 +59,11 @@ the referee may allow other individuals instead.
 |  7  | Ex-other                  | 856994 |  26 |   2   | Cr1000 |          Electronic-1, Vacc-0, Computer-1, Bribery-1, Shotgun-0         |             Shotgun |
 |  8  | Ex-scout                  | 365BBA |  34 |   4   | Cr2000 | Vacc-2, Jack of all trades-1, Automatic Pistol-1, Pilot-1, Electronic-1 |                     |
 
-A skill level of 0 (for example, vacc-0) has been assigned to show some familiarity with a skill, sufficient to allow use, but no real expertise. A skill level of 0 with a gun (for example, carbine-0) shows the preferred, or best, weapon for an individual otherwise without weapon skill.
+A skill level of0 (for example, vacc-0) has been assigned to show some familiarity with a skill, sufficient to allow use, but no real expertise. A skill level of 0 with a gun (for example, carbine-0) shows the preferred, or best, weapon for an individual otherwise without weapon skill.
 
 EQUIPMENT
+
+
 Referees using an on-going campaign should ignore the remainder of this section, with the possible exception of the [[#Available Equipment Table]].
 
 > [!info]- SHIP'S LOCKER
@@ -167,6 +169,8 @@ This platform appears to be made of iron sheets and is suspended without visible
 Small Chamber: Diagram 6 on this page shows a cross section of a large corridor and two small adjoining chambers, an arrangement typical of the small chambers. Locations [[#^location-4|4]], [[#^location-6|6]], [[#^location-8|8]], and [[#^location-20|20]] have lower-level platform floors within; locations [[#^location-2|2]], [[#^location-3|3]], [[#^location-5|5]], [[#^location-7|7]], and [[#^location-19|19]] have higher-level platforms.
 
 SMALL CHAMBERS
+
+
 ![[Shadows-6.jpg|200]]
 [[Shadows-6.jpg|Link to]]Diagram 6 ^Diagram-6
 
@@ -229,7 +233,7 @@ The following locations are situated in Diagram 3.
 
 ### Deep Level Locations (14-24)
 
-The following locations are situated on Diagram 4 (14 is on Diagram 1 ).
+The following locations are situated on Diagram4 (14 is on Diagram 1 ).
 
 14. Fracture Point in the shaft connection [[#^location-1|Location 1]] and [[#^location-15|Location 15]]. This lip on the shaft is a result of seismic activity. An individual stopping here will find several small snake skeletons. Throw twice dexterity or less to avoid slipping and falling; DM + vacc suit skill. Careful search (throw 10+) will show a single gold coin engraved with a symbol of a flame. ^location-14
 15. Large Central Chamber. The floor of the chamber is flat, with no central depression. It is littered with snake skeletons. Large quantities of vapor are wafting from [[#^location-17|location 17]], and cascades of vapor are drifting down from above. Careful search (throw 10+; DM + medical skill) will show that many of the skeletons are reasonably recent, but that the carcasses decay or degrade rapidly in the corrosive atmosphere. In addition, the skeletons are concentrated toward locations [[#^location-16|16]] and [[#^location-18|18]]; very few are near [[#^location-17|17]]. ^location-15
@@ -280,7 +284,7 @@ Assume the adventurers have surprise (they surely will be alert to begin with) f
 
 ## Animal Encounter Table
 
-PYRAMID COMPLEX INTERIOR Yorbund C7C6503- 7 (8+)
+PYRAMID COMPLEX INTERIOR Yorbund C7C6503-7 (8+)
 
 | Die |  #  | Animal Type             | Weight | Hits | Armor |    Weapons    | Attack / Flee | Speed |
 | :-: | :-: | ----------------------- | :----: | :--: | :---: | :-----------: | :-----------: | :---: |

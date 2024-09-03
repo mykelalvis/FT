@@ -46,6 +46,8 @@ Place: Vanejen Rhylanor Subsector Spinward Marches the Imperium
 4. Guide characters through situation based on their actions.
 
 CHARACTERS
+
+
 This adventure is intended for a band of adventurers numbering at least two and no more than eight. A group of pre-generated characters is supplied below, although the referee may allow other individuals instead.
 
 1 Retired Scout 79A689 Age 38 5 terms Cr3, Pilot-1, Vacc-2, Navigation-2, Shotgun-2 Shotgun
@@ -57,7 +59,7 @@ This adventure is intended for a band of adventurers numbering at least two and 
 7 Ex-other 856994 Age 26 2 terms Cr1, Electronic-1, Vacc-0, Computer-1, Bribery-1, Shotgun-0 Shotgun
 8 Ex-scout 365BBA Age 34 4 terms Cr2, Vacc-2, Jack of all trades-1, Automatic Pistol-1, Pilot-1, Electronic-
 
-A skill level of 0 (for example, vacc-0) has been assigned to show some familiarity with a skill, sufficient to allow use, but no real expertise. A skill level of 0 with a gun (for example, carbine-0) shows the preferred, or best weapon for an individual otherwise without weapon skill.
+A skill level of0 (for example, vacc-0) has been assigned to show some familiarity with a skill, sufficient to allow use, but no real expertise. A skill level of 0 with a gun (for example, carbine-0) shows the preferred, or best weapon for an individual otherwise without weapon skill.
 
 ## EQUIPMENT
 
@@ -134,6 +136,8 @@ Refuelling is generally accomplished at a port, with petroleum purchased from lo
 The H-6 is a combination passenger and cargo vessel. It can carry twelve persons and eight tons of cargo.
 
 SUBMERSIBLE EXPENSES
+
+
 Purchase Price. ....... Cr500, Charter Cost, per month... Cr6, plus CM ,600 per 4,000 km. Single Passage, 4,000 km trip. Cr Cargo, per ton. .......... Cr
 
 ## COMMERCIAL SERVICE
@@ -345,8 +349,7 @@ the person falls into the water, and must be retrieved by the ship. Unfortunatel
 
 The Submarine Dock: Rumor or crew experience may have indicated the presence of a submarine dock somewhere lower on the research station shaft. Searching through the depths with a submersible will show the continuation of the spiral of globes down the shaft. At the seabed is a submarine dock marked by a strobing light and a set of large water-tight doors. Approaching the dock in a submersible will cause the doors to open and allow the bow of the boat to enter. Then, the doors will close to snugly hold the vessel in place. The entire dock then drains of water and the station may be entered through the submersible's forward air lock. The layout of the dock is similar to the deck plan of a containment globe (Illustration 7, page 28). The submarine dock is globe no. 9.
 
-The Upper Decks: An approach to the station by air will reveal the normal methods of entry to the station. The flat upper laboratory deck of the station
-(Illustration 4, page 20) has a large open surface which will allow the landing of air/rafts or helicopters. There is a chance (throw 10+) that at least one air/raft will be visible on the upper surface. Location 16 appears to be a set of elevators which will carry air/rafts into the station interior. Location 17 is a separate air/raft elevator; this location is walled off by barriers, and the entire surface portion is painted in red and white stripes.
+The Upper Decks: An approach to the station by air will reveal the normal methods of entry to the station. The flat upper laboratory deck of the station (Illustration 4, page 20) has a large open surface which will allow the landing of air/rafts or helicopters. There is a chance (throw 10+) that at least one air/raft will be visible on the upper surface. Location 16 appears to be a set of elevators which will carry air/rafts into the station interior. Location 17 is a separate air/raft elevator; this location is walled off by barriers, and the entire surface portion is painted in red and white stripes.
 
 The deck is not strong enough to support larger vehicles, such as gigs, ship's boats, pinnaces or cutters. They may unload personnel or supplies on the upper decks, and even remain for short periods of time under grav power, so as not to rest on the deck plates. For longer time periods, such vehicles are moved to the sea and floated or rested on the seabed; in such cases, a pilot remains aboard. The single doorway on the upper surface leads to location 6, which is a reception and hospitality area.
 
@@ -462,7 +465,7 @@ In a special container, with red warning stripes on the outside, 100 meters of e
 
 On a throw of 9+, a separate crate of pistol ammunition for the automatic pistols is present. Loading the cartridges into magazines should take about two minutes per magazine.
 
-The small dead-end corridor adjacent to location 23 contains an access hatch in the floor. If opened, it reveals a sheer drop straight down to the sea below. An object dropped would strike the sea surface between containment globes 4 (which is barely awash) and 5. It is thus possible to jump to the sea below if absolutely necessary. It is also possible to drop a rope or cable through the hatch and climb down it. The drop is about 120 meters.
+The small dead-end corridor adjacent to location 23 contains an access hatch in the floor. If opened, it reveals a sheer drop straight down to the sea below. An object dropped would strike the sea surface between containment globes4 (which is barely awash) and 5. It is thus possible to jump to the sea below if absolutely necessary. It is also possible to drop a rope or cable through the hatch and climb down it. The drop is about 120 meters.
 
 This hatch is the only direct access to the outside from this deck.
 
@@ -576,14 +579,15 @@ Globe No. 11: This globe shows an environment statistic reading of FA0; this is 
 
 Within the area are rudimentary living arrangements: beds, tables, chairs, some small partitions to wall off or designate areas. Visible in the interior are five individuals, roughly bilateral bipeds who appear to be straining against the gravity. An estimate of their characteristics would place their strength and endurance at the D-E-F level while the remaining of their personal characteristics are the same as humans. They appear to be of human origin.
 
-Entering the viewing chamber will attract their attention; one or more will communicate telepathically with the adventurers. Throw on the reaction table
-(Book 3) to determine the nature of their communications.
+Entering the viewing chamber will attract their attention; one or more will communicate telepathically with the adventurers. Throw on the reaction table (Book 3) to determine the nature of their communications.
 
 These people are being held here against their will as part of a grand psionics experiment to achieve instantaneous interstellar communication. There has been no success so far, but they have been able to communicate at interplanetary distances. If they react positively to the adventurers, they will indicate that they want their freedom.
 
 Globe No. 12: This globe is empty, and the statistic readout has no readings at all. The access doors are open to the containment area.
 
 ANIMAL STATISTICS
+
+
 
 The individual globe notes include sample entries from animal encounter tables which produced the specimens. The following indicates the meanings of the various
 
@@ -595,6 +599,8 @@ Animal Type Weight Hits Armor Wounds & Weapons
 There are eleven animals, classified as gatherers and each weighing 3 kilograms. Each will take three hits prior to unconsciousness, and then six more prior to death. Each will inflict two damage points on its prey each time it hits, attacking with thrasher. It will attack on 8+, or flee on 6+. It has a speed of 2. Entries of A0 and F0 indicate that attack or flight are at the discretion of the referee.
 
 ADDITIONAL DATA
+
+
 
 At the end of several globe entries are a string of numbers in parentheses. This data is intended to allow additional information for the referee; possibly for use in other or later adventures.
 
@@ -643,6 +649,8 @@ COMMITTMENT The robots of the station are all committed to maintenance or to rou
 In the event of a large scale problem, the referee (acting as the central computer) should assign the robots to various tasks.
 
 THE ROBOTS
+
+
 
 The following data describe the robots, their capabilities, and their general duties.
 
@@ -722,8 +730,7 @@ Additional Equipment: Elevator transport package. Comment: Security robots are p
 
 All authorized personnel are computer profiled upon entering, and will be noticed (but not harmed) by the robot. Similarly, all biological samples in the station are recognized by the robot, and will be recaptured, but not harmed. Security robots are armed with pulse lasers (equivalent to laser carbine) and have an equivalent skill level of laser carbine-2. Programming instructs the robot to choose the target posing the greatest threat to itself, and fire until that target is destroyed (or no longer a threat) before selecting a new target. If several robots are operating together, they share information (instantaneously) to avoid duplication of target selection.
 
-Referee's Data: Security robots have very sensitive sensors, and can detect any human personnel at a distance of ten meters in absolute darkness
-(hearing the heartbeat of the person). Coordination through the central computer allows them to call for reinforcements when needed. The security robot has grapples similar to those of the animal care robots, and can handle weapons which it acquires or finds in the course of its operations. This is especially useful if its pulse laser is disabled. In addition, the grapples can hold a captured subject in an unbreakable grip and carry the subject (maximum weight: 100 kilograms) to any part of the station to which the robot has access. This robot is top-heavy, and has difficulty righting itself if toppled.
+Referee's Data: Security robots have very sensitive sensors, and can detect any human personnel at a distance of ten meters in absolute darkness (hearing the heartbeat of the person). Coordination through the central computer allows them to call for reinforcements when needed. The security robot has grapples similar to those of the animal care robots, and can handle weapons which it acquires or finds in the course of its operations. This is especially useful if its pulse laser is disabled. In addition, the grapples can hold a captured subject in an unbreakable grip and carry the subject (maximum weight: 100 kilograms) to any part of the station to which the robot has access. This robot is top-heavy, and has difficulty righting itself if toppled.
 
 ![[A2RSG-73.jpg|100]][[A2RSG-73.jpg|Maximum Security Robot]]
 
@@ -746,6 +753,8 @@ Vanejen C686854-5 (9+) Wounds & Weapons tranq with snub pistol tranq with snub p
 This table uses one die to determine the type of robot encountered. Apply as DMs the following based on location within the research station: Central Shaft or Containment Globe, -1, Upper Lab Deck,+2, anywhere else, no DM. This table indicates the type of robot encountered, and some basic data. The previous portions of this chapter provide more complete information.
 
 FOR MORE INFORMATION
+
+
 
 Although the data on robots in this adventure is relatively complete, the referee may wish to expand or elaborate on robots in future situations. A three-part article on robots, their design, and their construction, was presented in the Journal of the Travellers' Aid Society, Issues Number 2, 3, and 4.
 
@@ -821,7 +830,7 @@ Note: this procedure is very similar to the wounding procedure.
 
 The following DMs apply. Without protective clothing, -15. With cold weather clothing (type 1), -9. With cold weather clothing (type II), -6. With cold weather clothing (type I or type II), if augmented by artificial means (hot bricks, pocket- sized catalytic heaters, etc), +3. Per level of survival skill, +1. With battle dress, -9. With combat armor, -7. With heatsuit, +4. With combat environment suit, -5. With vacc suit, -7. For each increment of twenty degrees centigrade below zero, -1. If the subject is immersed in water at any temperature below 20 degrees centigrade, -10.
 
-Cold Weather Clothing, Type I (TL 1, Cr200): Boots, pants, hooded coat, mittens, and facemask, made from animal skins sewn together. This clothing provides protection from extreme low temperatures for a short length of time. This item may be manufactured from local materials, provided several large furs, properly cured, are available. Referees should use their discretion as to the ease with which these conditions may be met. Immersion in water totally negates the effects of this clothing.
+Cold Weather Clothing, TypeI (TL 1, Cr200): Boots, pants, hooded coat, mittens, and facemask, made from animal skins sewn together. This clothing provides protection from extreme low temperatures for a short length of time. This item may be manufactured from local materials, provided several large furs, properly cured, are available. Referees should use their discretion as to the ease with which these conditions may be met. Immersion in water totally negates the effects of this clothing.
 
 Cold Weather Clothing, Type II (TL 6, Cr200): A head-to-toe garment, made of several layers of fabric around an insulating layer of fluffy fibers. Immersion in water renders this clothing totally ineffective.
 
@@ -855,21 +864,17 @@ Toward the galactic core is coreward, away from it, in the direction of the rim 
 
 These directions are in widespread use in describing Imperial features and businesses. For example, the Spinward Marches is a sector at the extreme spinward fringe of the Imperium: Rimward Lines is an important interstellar transport company.
 
-Finally, within the Imperium, the term coreward is also used to indicate the direction of Capital, the Imperial core. There is some potential for confusion if the term is accepted out of context. Dating Systems. Three major dating systems are in use when referring to historical events— [[Terra|Terran]], Vilani, and Imperial. [[Terra|Terran]] dates center on a year about midway through the period of Vilani ascendance. After that date, years ascend, and are suffixed AD; before that date, years descend, and are suffixed BC. There is no year zero. Vilani Dates count from the year of the Establishment of the First (or Vilani) Imperium. Those before are suffixed PI
-(pre-lmperium), those after are suffixed VI
-(Vilani Imperium).
+Finally, within the Imperium, the term coreward is also used to indicate the direction of Capital, the Imperial core. There is some potential for confusion if the term is accepted out of context. Dating Systems. Three major dating systems are in use when referring to historical events— [[Terra|Terran]], Vilani, and Imperial. [[Terra|Terran]] dates center on a year about midway through the period of Vilani ascendance. After that date, years ascend, and are suffixed AD; before that date, years descend, and are suffixed BC. There is no year zero. Vilani Dates count from the year of the Establishment of the First (or Vilani) Imperium. Those before are suffixed PI (pre-lmperium), those after are suffixed VI (Vilani Imperium).
 
 Imperial dates count from the year of the founding of the Third Imperium, specifying the year zero as a holiday year. Dates before that are negative, dates after that are positive, with the sign usually suppressed. Imperial dating also uses a Julian system for days. Each day in the year is consecutively numbered beginning with 001. Thus, in the year 1105, the first day of the year is 001-1105.
 
 Zhodani dating is in olympiads (obviously a translation). Each olympiad is of three Zhodani years; each zhodani year is 273 days. The first olympiad corresponds to 2209 BC. The dating system itself has been in more or less continuous use since then, with minor lapses due to war or temporary decline of ruling parties. Express Boats: The primary means of interstellar communication within the Imperium is the express boat— a small, fast, information carrying starship. Rhylanor is nearly four years out from the Imperial Core, and the express boat links were established to insure the rapid transmission of messages (governmental, commercial, and private) with a maximum of efficiency.
 
-Selected locations along major trade routes are established as express stations, orbital facilities which service and refuel the xboats on their communications runs. As an xboat arrives in a system, it beams its recorded messages to the express station, which then retransmits it to an xboat standing by for a jump outsystem. Time between jumps is almost always less than four hours, and can be under seven minutes. The speed of communication is thus nearly the speed of jump
-(xboats are equipped with jump-4 drives, four parsecs per week). In practice, this speed is somewhat reduced as trade routes do not follow straight lines, and not all jumps are made at jump-4. Average speed approximates jump-2.6 per week. False War (1082 to 1084). See Fourth Frontier War.
+Selected locations along major trade routes are established as express stations, orbital facilities which service and refuel the xboats on their communications runs. As an xboat arrives in a system, it beams its recorded messages to the express station, which then retransmits it to an xboat standing by for a jump outsystem. Time between jumps is almost always less than four hours, and can be under seven minutes. The speed of communication is thus nearly the speed of jump (xboats are equipped with jump-4 drives, four parsecs per week). In practice, this speed is somewhat reduced as trade routes do not follow straight lines, and not all jumps are made at jump-4. Average speed approximates jump-2.6 per week. False War (1082 to 1084). See Fourth Frontier War.
 
 Federation. Group of states, worlds, or systems, each internally independent, joined into a union to which has been surrendered certain rights and responsibilities, most generally dealing with foreign affairs.
 
-First Imperium (1 VI to 1383 VI). The first major interstellar civilization, originating extensive colonization by Viand in the period - 5200 to - 4000 (750 BC to 450 AD [[Terra|Terran]]). In this era of interstellar exploration and expansion, the Vilani
-(native humans evolved on Viand) demonstrated their technological superiority and strong central authority over a period of 1500 years. Neighboring worlds were assimilated into a trade community, and gradually absorbed into the central Vilani society. By - 4045 (the traditional date of Establishment) the First Imperium was a far-flung empire encompassing ten sectors and nearly five thousand worlds. Centuries of continuing expansion added new worlds, including four more sectors in the next thousand years. No new sectors were added to the First Imperium after 2900.
+First Imperium (1 VI to 1383 VI). The first major interstellar civilization, originating extensive colonization by Viand in the period - 5200 to - 4000 (750 BC to 450 AD [[Terra|Terran]]). In this era of interstellar exploration and expansion, the Vilani (native humans evolved on Viand) demonstrated their technological superiority and strong central authority over a period of 1500 years. Neighboring worlds were assimilated into a trade community, and gradually absorbed into the central Vilani society. By - 4045 (the traditional date of Establishment) the First Imperium was a far-flung empire encompassing ten sectors and nearly five thousand worlds. Centuries of continuing expansion added new worlds, including four more sectors in the next thousand years. No new sectors were added to the First Imperium after 2900.
 
 Instead, with cultural maturity, the First Imperium became a pinnacle of interstellar diplomacy. Client-states under the protection or the patronage of the Vilani numbered in the thousands, while the influence of the Imperium stretched from Zhodane and Lair to Kirur and Guaran. Indeed, Vilani suzerainty is credited with the protective embrace which allowed the development of most major races into their current status.
 
@@ -893,5 +898,4 @@ Nevertheless, the Imperium itself is constantly involved with research projects 
 
 Imperial technological research is performed in two ways: under contract by corporations, or in established Imperial Research Stations. The difference is that the corporate (and equivalent privately financed) research is directed at specific practical uses, while Imperial projects are breaking new ground on the forefronts of knowledge. Often this is an attempt to duplicate technology observed or reported in neighboring cultures and not yet within the ability of Imperial science. Such research stations are sited in areas which need the boost to the local economy, or in remote areas far from the potential disturbance of Imperial politics. Many different stations may be working in the same region, and many different areas of knowledge may be under investigation at one time. In general, one station will be constructed for one purpose, and continue in that area of knowledge for its entire span of usefulness. Its size, personnel roster, power plant capacity, and even visibility profile, are dependent on its area of investigation.
 
-Imperial research may delve into many areas. Some examples include black hole research, both large-scale and mini-black hole investigation, instantaneous transmitter development (so far proving impossible), advanced gravity manipulation, genetic manipulation, anti-matter containment, weaponry research, disintegrator beams, black globe development, deep planetary core soundings, nova prevention
-(and prediction), psychohistory, mass population behavior prediction, psionics, stable superheavy elements, deep radar analysis, long-range detection systems, robotics, artificial intelligence, stasis and time travel, so-called magic, cryptography, bionics, personal shields, x-ray laser technology, and high temperature superconductors.
+Imperial research may delve into many areas. Some examples include black hole research, both large-scale and mini-black hole investigation, instantaneous transmitter development (so far proving impossible), advanced gravity manipulation, genetic manipulation, anti-matter containment, weaponry research, disintegrator beams, black globe development, deep planetary core soundings, nova prevention (and prediction), psychohistory, mass population behavior prediction, psionics, stable superheavy elements, deep radar analysis, long-range detection systems, robotics, artificial intelligence, stasis and time travel, so-called magic, cryptography, bionics, personal shields, x-ray laser technology, and high temperature superconductors.

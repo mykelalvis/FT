@@ -971,6 +971,8 @@ If the group elects to follow the Vargr as well, throw 10+ per block to lose the
 ![[CT-TTA-089.jpg]]
 THE WAYLAID VARGR
 
+
+
 Some hours after losing the trail of the Vargr. the adventurers will wander through the city taking care of their own business. That business may take them to the business district, Startown, one of the local bases, and perhaps the shipyard. Ideally, the encounter should take place in Startown. but can easily be administered in the business district.
 
 From down a service corridor littered with trash comes a low moan. in the dim light can be seen a Vargr sprawled across several fiber boxes. He has been soundly beaten.
@@ -1395,6 +1397,8 @@ Acting on the salvor's advice, the party can acquire several kilograms of explos
 
 _Baraatsa is equally cordial. A garrulous and friendly man, he entertains lavishly and is more than willing to talk about howood (and many other thingsl. It is harvest time just now. and he cannot spare anyone to help the party, but he is in no way adverse to giving them all the help they need to go out on their own. He provides them with a stand of howood trees on the mountain valley well. All he asks in return is that the party bring him a few choice pieces for his hobby, and follow his usual custom of scattering the seed pods of each tree they fell, "returning to Mother Pysadi the treasure she has given us", as he puts it.
 AT THE HOWOOD GROVE
+
+
 
 The group can set out to explore the area in hopes of finding a howood grove. The instructions they have been given are sufficient to take them to the mountain valley wall and the forest at its foot; the grove is within the forest.
 
@@ -3052,7 +3056,7 @@ The list of officials includes individuals from all levels of the bureaucracy on
 >   - Report to Tukera 10+
 >   - IES:  9A6
 >
->   The crew has encountered an official, who is identified as a clerk in the Port Warden's Office. The clerk is employed at the Zilan Port Authority office at the starport. The official's initial attitude is set at 6 (unreceptive). If bribed, the official will cost Cr50 (a shrewd judge of character could tell that the clerk would fall in the Cr40-E50 range). A character using either admin or liaison skill (but not both) could favorably influence the clerk; leadership skill, however, adversely affects the roll.
+>   The crew has encountered an official, who is identified as a clerk in the Port Warden's Office. The clerk is employed at the Zilan Port Authority office at the starport. The official's initial attitude is set at6 (unreceptive). If bribed, the official will cost Cr50 (a shrewd judge of character could tell that the clerk would fall in the Cr40-E50 range). A character using either admin or liaison skill (but not both) could favorably influence the clerk; leadership skill, however, adversely affects the roll.
 >
 >   The clerk will respond to offers of entertainment, which will cost Cr20 per person (for normal entertainment). Members of the opposite sex get a DM -1 in dealing with the clerk, but members of the military (army. navy, or marines) get a DM +2; apparently the clerk has a dislike for authority figures.
 >
@@ -3526,7 +3530,7 @@ Before the encounter, the referee should determine the official's sex (1-3 male,
       - Gambling (-1)
       - Offworlders (-1)
   - Routine: None
-  - Help:  Refers the crew to [[#^Ofc36|the Export Licenses Division General Supervisor ]], [[#^Ofc35|the Trade Relations Coordinator]], or [[#^34|the Assistant to the Administrator at the Bureau of Trade and Commerce]]. Each counts as a separate favor. The official's help in setting the appointment up gives a (DM -1) when dealing with the official in question.
+  - Help:  Refers the crew to [[#^Ofc36|the Export Licenses Division General Supervisor ]], [[#^Ofc35|the Trade Relations Coordinator]], or [[#^34|the Assistant to the Administrator at the Bureau of Trade and Commerce]]. Each counts as a separate favor. The official's help in setting the appointment up givesa (DM -1) when dealing with the official in question.
   - Report to Tukera:  7+
   - IES: 8A6
 - Assistant to the Executive Director ([[#^MG|MG]]) ^Ofc41
@@ -3552,7 +3556,7 @@ Before the encounter, the referee should determine the official's sex (1-3 male,
     - offworlders (+0)
   - Routine: None
   - Help:  Can arrange appointments with most high officials:  [[#^Ofc31|31]],  [[#^Ofc32|32]],  [[#^Ofc33|33]], [[#^Ofc34|34]], [[#^Ofc35|35]], [[#^Ofc36|36]]
-    - Help in arranging the appointment also grants a (DM -1) in dealing with the official. Each official counts as a separate favor.
+    - Help in arranging the appointment also grantsa (DM -1) in dealing with the official. Each official counts as a separate favor.
   - Report to Tukera:  6+
   - IES: 38A
 - Clerk in the Consulate Visas Section (lC) ^Ofc43
@@ -3596,7 +3600,7 @@ Before the encounter, the referee should determine the official's sex (1-3 male,
       - Navy (+3)
       - Tukera Lines (-2)
   - Routine: None
-  - Help:  Can set up appointments with several higher officials:  [[#^Ofc31|31]],  [[#^Ofc32|32]],  [[#^Ofc33|33]], [[#^Ofc34|34]], [[#^Ofc35|35]], [[#^Ofc36|36]], giving a (DM -1) in dealing with the official in question. Each appointment is a separate favor.
+  - Help:  Can set up appointments with several higher officials:  [[#^Ofc31|31]],  [[#^Ofc32|32]],  [[#^Ofc33|33]], [[#^Ofc34|34]], [[#^Ofc35|35]], [[#^Ofc36|36]], givinga (DM -1) in dealing with the official in question. Each appointment is a separate favor.
   - Report to Tukera:  5+
   - IES: A58
 - Imperial Consul on Zila ([[#^IC|IC]]) ^Ofc47
@@ -3606,7 +3610,7 @@ Before the encounter, the referee should determine the official's sex (1-3 male,
     - Pos: Administration, Offworlders (-1)
     - Neg: Streetwise
   - Routine: None
-  - Help:  Can set up appointments with several higher officials:  [[#^Ofc31|31]],  [[#^Ofc32|32]],  [[#^Ofc33|33]], [[#^Ofc34|34]], [[#^Ofc35|35]], [[#^Ofc37|37]], [[#^Ofc38|38]], giving a (DM -2) in dealing with the official in question. Each appointment is a separate favor.
+  - Help:  Can set up appointments with several higher officials:  [[#^Ofc31|31]],  [[#^Ofc32|32]],  [[#^Ofc33|33]], [[#^Ofc34|34]], [[#^Ofc35|35]], [[#^Ofc37|37]], [[#^Ofc38|38]], givinga (DM -2) in dealing with the official in question. Each appointment is a separate favor.
   - Report to Tukera:  9+
   - IES: 75A
 
@@ -4077,6 +4081,8 @@ The kidnappers will not hesitate to use Gvoudzon or Lisa as bargaining counters,
 in the course of the fight, Jelika Chan should be able to escape. She can take either a motorboat from the dock or a car from the parking area. In either event, time will be pressing—at the first sign of trouble, government forces will be alerted to assist the island's small detachrnent--and Chan will be able to make good her escape.
 
 INFORMATION
+
+
 
 Upon completing the rescue, the adventurers will learn several things, either from a captured kidnapper or from Lisa Fireau.
 
@@ -5233,6 +5239,8 @@ Akerut also maintains several patrol cruisers (type Tl in the subsector, each ar
 
 OBERLINDES SHIPS
 
+
+
 Oberlindes Lines maintains a transport fleet ranging in tennage from 100-ton couriers to 51000-'ton transports. Typical of its fleet is the 1000-ton cargo carrier.
 
 ### Cargo Carrier (type CT)
@@ -5555,6 +5563,8 @@ Vargr characters do not have titles in the same sense as noble titles for humans
 
 CHARACTERISTICS
 
+
+
 Strength20 — 1 l is both a general evaluation of the character's physical ability and a specific measure of force which may be applied.
 
 Dexterity (2!) + 1) measures physical coordination.
@@ -5605,7 +5615,11 @@ During each term of service. a character has the opportunity to acquire personal
 
 Skills are acquired by rolling on the acquired skills table once for each skill allowed, using one die. There are four
 VARGR CHARACTER
+
+
 GENERATION CHECKLIST
+
+
 
 1. Roll personal characteristics:
 
@@ -5666,6 +5680,8 @@ Dl'v1+1 if gambling
 or prospecting skill, or if retired.
 
 HEXADECIMAL NOTATION
+
+
 Base-I0 Base-16' Base-I10 Base—1'6'
 0 0 8 8
 1 1 9 9
@@ -5678,6 +5694,8 @@ Base-I0 Base-16' Base-I10 Base—1'6'
 Use hexadecimal (base-16) numbers to note the six characteristics of the universal personality profile.
 
 VARGR PRIOR SERVICE TABLE
+
+
 Navy Corsairs Arm y Emissaries Merchants Loner
 Enlistment 7+ 6+ 5+ 8+ 5+ 7+
 
@@ -5693,6 +5711,8 @@ DM of +1 if Educ 7+ lntel 8+ Educ 9+ lntel 10+ lntel 8+ lntel 9+ DM of +1 if Cha
 Characters cycle through this table during each term of service. The reenlistment die throw is required even if the character does not intend to reenlist la roll of 12 exactly calls for mandatory reenlistment). All rolls except draft are two-die throws.
 
 TABLE OF RANKS
+
+
 Navy Corsairs Army Emissaries Merchants Loner
 Rank 1 Ensign Lieutenant Lieutenant —— 4th Officer —-—4
 Rank 2 Lieutenant Force Leader Captain —~— 3rd OfficerRank 3 Lt Cmdr Staff Major Major —— 2nd Officer ——
@@ -5702,6 +5722,8 @@ Rank 4 Commander Group Leader Lt Colonei —— 1st Officer ~-—- Flank 5 Capta
 Loners and emissaries do not have commissions or rank, although the non-rank aspects of success (the success table and charisma increases therefrom) are allowed.
 
 MUSTERING OUT TABLES
+
+
 
 Die Floll1 ———————————————— -—Benefr'zs Table ————————————— ——— 1 Low Psg Low Psg Low Psg Low Psg Low Psg Low Psg 2 +2 lntel +1 lntel +1 lntel +2 lntel +1 Intel +1 lntel 3 +2 Educ +2 Educ +1 Educ +1 Educ +1 Educ Gun 4 Gun Gun Gun Blade Blade Blade 5 High Psg Gun High Psg Blade Gun Mid Psg 6 High Psg Gun High Psg High Psg High Psg Mid Psg 7 +2 Char Corsair +1 Char — Trader Seeker
 
@@ -5720,6 +5742,8 @@ Die Roll ————————————— ——Ca.sh Tabie (in credits) 
 Amounts shown are in credits (Crl. No more than three rolls may be made on this table. Retired individuals are allowed :3 DM of +1 on the cash table. Loners with gambling or prospecting skill are allowed a DWI of +1.
 
 VARGR ACQUIRED SKILLS TABLES HANK AND SERVICE SKILLS
+
+
 
 1. PGFSOHBI D~'3V9|0P"'|B"'£ Tab“? Navy Captain . . . . . . +1 Charisma Navy Cors'a.r'rs Army Ernfssaries Merchant Loner Corsair Lieutenant. . .Ship's Boat~1 1 +1 Strength +1 Stren +1 Stren +1 Stren +1 Stren +1 Stren Army . . . . . . . . . . . . . . . Flif|e—1 2 +1 Dext +1 Dext +1 Dext +1 Dext +1 Dext +1 Dext Army Lieutenant . . . . . . . .SMG-1 3 +1 Endur +1 Endur +1 Endur +1 Endur +1 Endur +1 Endur Emissary . . . . . . . . . .. Liaison-1 4 +1 lntel Bribery +1 lntel +1 lntel +1 Stren lnfighting Merchant First Officer . . . . Pilot-1 5 Gambling infighting infighting +1 Educ Bribery Gambling 6 +1 Char +1 Char +1 Char +1 Char Gun cm1 Char BLADES Weapon +011/1' -DM Wounds 2. Service Skills Table Dagger 3+ 3213 Navy Corsairs Army Emrssaries Merchant Loner Blade 9+ 42D 1 Ship's Boat Vehicle Vehicle Vehicle Vebicie Vehicle Sword 10+ 52D 2 Vacc Suit Vacc Suit Vacc Suit Ship's Boat Vacc Suit Vacc Suit Broadsword 12+ 74D 3 Electronics Infighting infighting Vacc Suit Steward Electronic Bayonet 9+ 43D 4 Mechanical Medical Blade Cbt lnfighting Medical Jack-o-T 5 Gunnery Gun Cbt Gun Cbt Gun Cbt Gunnery Prospect GUNS 6 Gunnery Gun Cbt Gun Cbt Blade Cbt Gun Cbt Prospect Weapon +0111! -1711'! Wounds Body Pistol 11+ 72D 3. Advanced Education Table Auto Pistol 10+ 63D Navy Corsairs Army Emissaries Merchant Loner Revolver 9+ 63D 1 Pilot Ship's Boat Vehicle Streetwise Electronic Streetwise Carbine 9+ 43D 2 Gun Cbt Vacc Suit Tactics Admin Mechanical Forgery Rifle 8+ 53D 3 Navigation Electronic Electronic Liaison Navigation Bribery Auto Rifle 10+ 63D 4 Engineering Medical Mechanical Navigation Engineering Jack-o-T Shotgun 9+ 34D 5 Computer Computer Computer Computer Computer Computer SMG 9+ 53D 6 Medical Gunnery Medical Medical Medical Medical Laser Carbine 10+ 540
 

@@ -327,6 +327,8 @@ Once a bid has been accepted, a further bid cannot be accepted. If a Belter rene
 
 MINING INCIDENT DMS
 
+
+
 | Condition                                                            |  DM |
 | -------------------------------------------------------------------- | :-: |
 | Per additional watch                                                 |  -2 |
@@ -352,8 +354,7 @@ As an abstract rule of thumb, use the following table for determining an artefac
 
 ### COMMODITY PRICES TABLE
 
-TypeType Basic Value Basic Value
-(Cr/Ton)(Cr/Ton)
+TypeType Basic Value Basic Value (Cr/Ton)(Cr/Ton)
 
 Sale DMsSale DMs
 
@@ -491,8 +492,7 @@ Magnetic grips greatly reduce the risk of tumbling away from a target, especiall
 
 Tether lines do not impede movement or speed, but they do impede range. A standard tether is anchored to a spool or winch and can be anything up to 1,000 meters in length.
 
-If a character is not wearing a vac suit or battledress he is considered to be unencumbered and this is an advantage to control; some high TL vacc suits are tailored to minimise encumbrance issues
-(TL10+, and +50% to the standard vac suit cost. The DM for being unencumbered is +1 when wearing such a vacc suit).
+If a character is not wearing a vac suit or battledress he is considered to be unencumbered and this is an advantage to control; some high TL vacc suits are tailored to minimise encumbrance issues (TL10+, and +50% to the standard vac suit cost. The DM for being unencumbered is +1 when wearing such a vacc suit).
 
 ### GENERAL ACTIVITIES
 
@@ -606,6 +606,8 @@ Medical
 
 BELTER CHARACTERS BBELTERELTER C CHARACTERSHARACTERS
 
+
+
 ### SPECIALIST
 
 | Roll |          Miner          |             Prospector            |     Researcher     |     Worker     |
@@ -685,6 +687,8 @@ BELTER CHARACTERS BBELTERELTER C CHARACTERSHARACTERS
 |   66  | You uncover a major conspiracy against your employers. You are automatically promoted.                                                                                                                                                                                                   |
 
 BELTER CHARACTERS BELTER CHARACTERS
+
+
 
 ## MUSTERING OUT BENEFITS
 
@@ -946,8 +950,7 @@ The province of corporations and a handful of very successful Free Companies, th
 
 Due to their size and configuration, mining platforms are built either in orbit or within a colonized part of the belt in zero-g. Their sole purpose is to extract and render ore and minerals but they can also be outfitted to act as research posts bringing with them a crew of scientists as well as the prospecting technicians. The platform has no Jump drive, but has reasonable thrust capability based on its Power Plant and Maneuver drive.
 
-Mining platforms are designed to either land on an asteroid or to work in orbit around it, using a mixture of drones, robots and telescopic tools and drills to exploit the waiting yield. At normal working capacity a platform typically processes 200 tons of ore per 6 hour watch, but this can be doubled if conditions demand it with a subsequent effect on equipment and resource durability. The processed ore is accelerated through a mass driver in small batches, taking a free flight path towards a pre-assigned location elsewhere in the system. Alternatively, smaller craft are used to collect and ferry consignments requiring greater safety or special conditions of storage
-(certain radioactives and precious yields). For high value ores there is a significant amount of cargo space to store them, preventing them from being intercepted by unscrupulous individuals.
+Mining platforms are designed to either land on an asteroid or to work in orbit around it, using a mixture of drones, robots and telescopic tools and drills to exploit the waiting yield. At normal working capacity a platform typically processes 200 tons of ore per 6 hour watch, but this can be doubled if conditions demand it with a subsequent effect on equipment and resource durability. The processed ore is accelerated through a mass driver in small batches, taking a free flight path towards a pre-assigned location elsewhere in the system. Alternatively, smaller craft are used to collect and ferry consignments requiring greater safety or special conditions of storage (certain radioactives and precious yields). For high value ores there is a significant amount of cargo space to store them, preventing them from being intercepted by unscrupulous individuals.
 
 ```
 BELT SEEKER SINGLESHIP TonsTons Price (Cr)Price (Cr) HullHull 100 tons Hull 2 2,200,000 Streamlined Structure 2 AARMRM O U ROU R Crystaliron 4 points 5 400,000 Maneuver DriveManeuver Drive A Thrust 2 2 4,000,000 PowerplantPowerplant A 4 8,000,000 Bridge/Living AreaBridge/Living Area 10 500,000 ComputerComputer Model 1/bis Rating 5 45,000 ElectronicsElectronics Prospecting Sensors +0 DM 2 1,000,000
@@ -958,7 +961,7 @@ FuelFuel 23 tons 23 CCA RGOARGO 50 tons 50
 
 SSTA TE ROOMTA TE ROOM SS None
 
-EEX TRA SXTRAS Mining Drones 1 1 50,000 Cargo Drones 1 1 75,000 Prospecting Buggy - 750,000 Fuel Scoop Fuel Processor 1 50,000 Ship's Locker SSOFTWOFTW A REA RE Manouevre/0 Prospecting/0 Library/0 MMA INTE NA NCEAINTENANCE C COS TOS T (M (MONTHLYONTHLY)) 1,465 Life Support Cost (Monthly)Life Support Cost (Monthly) 1,500 Total Tonnage and CostTotal Tonnage and Cost 100 17,570,000
+EEX TRA SXTRAS Mining Drones 1 1 50,000 Cargo Drones 1 1 75,000 Prospecting Buggy - 750,000 Fuel Scoop Fuel Processor 1 50,000 Ship's Locker SSOFTWOFTW A REA RE Manouevre/0 Prospecting/0 Library/0 MMA INTE NA NCEAINTENANCE C COS TOST (M (MONTHLYONTHLY)) 1,465 Life Support Cost (Monthly)Life Support Cost (Monthly) 1,500 Total Tonnage and CostTotal Tonnage and Cost 100 17,570,000
 ```
 
 Every mining platform is equipped for long-term use, typically carrying supplies for a six month mission without need for additional supplies. Hanger space allows the platform to service up to four 100-ton craft, such as the Seeker mining ship or other hull configurations up to 400 tons.
@@ -971,8 +974,7 @@ EXPEDITIONS, EQUIPMENT AND SHIPS EXPEDITIONS, EQUIPMENT AND SHIPS
 
 EXPEDITIONS, EQUIPMENT AND SHIPS EEXPEDITIONSXPEDITIONS, E, EQUIPMENTQUIPMENT ANDAND S SHIPSHIPS
 
-MINING PLATFORM TonsTons Price (MCr)Price (MCr) HullHull 5,000 tons Hull 100 (Engineering), 50 (Forward) 250 Dispersed Structure Structure 100 (Engineering), 50 (Forward) SSE CTIONSECTIONS Engineering Forward (Life support & quarters) CCOMOMMANDMA ND U UNITSNITS 2505 ArmorArmor None MMA NOE U V REANEUVER D DRIV ERI V E Thrust 2 62.5 31.25 PowerplantPowerplant 100 200 ComputerComputer Core/3 Rating 40 12 SensorsSensors Survey (Engineering) Advanced
-(Forward)
+MINING PLATFORM TonsTons Price (MCr)Price (MCr) HullHull 5,000 tons Hull 100 (Engineering), 50 (Forward) 250 Dispersed Structure Structure 100 (Engineering), 50 (Forward) SSE CTIONSECTIONS Engineering Forward (Life support & quarters) CCOMOMMANDMA ND U UNITSNITS 2505 ArmorArmor None MMA NOE U V REANEUVER D DRIV ERI V E Thrust 2 62.5 31.25 PowerplantPowerplant 100 200 ComputerComputer Core/3 Rating 40 12 SensorsSensors Survey (Engineering) Advanced (Forward)
 
 +0 DM 6 .4
 
@@ -1014,7 +1016,7 @@ Geddes (Gas Giant) The innermost gas giant, and the smallest, Geddes is ringed a
 
 Masaron (Gas Giant) Occupying a similar orbit to Forlneaux, Masaron is approximately half the mass of its sister planet.
 
-Sonares I (Prime world) The main habitable world of the Sonara system, Sonares I, or Prime, as it has become known since the colonization of Sonares II, has the
+SonaresI (Prime world) The main habitable world of the Sonara system, Sonares I, or Prime, as it has become known since the colonization of Sonares II, has the
 
 ##### B
 
@@ -1024,7 +1026,7 @@ Sonares I (Prime world) The main habitable world of the Sonara system, Sonares I
 
 following World Profile: Sonares: B964AAC-9
 
-Starport: B (Good) Size: 9 (15,000 km, Gravity 1.25 Earth standard) Atmosphere: 6 (Standard) Hydrographics: 37% (Wet World) Population: A (approximately 30 billion people) Government: A (Charismatic Dictator – two factions: Sonares World Assembly and the Industrial Combines) Law Level: C Tech Level: 9 (Developed gravity generators. No reliable Jump Drive development)
+Starport:B (Good) Size:9 (15,000 km, Gravity 1.25 Earth standard) Atmosphere:6 (Standard) Hydrographics: 37% (Wet World) Population:A (approximately 30 billion people) Government:A (Charismatic Dictator – two factions: Sonares World Assembly and the Industrial Combines) Law Level: C Tech Level:9 (Developed gravity generators. No reliable Jump Drive development)
 
 Sonares I is dominated by two factions: the Sonares World Assembly, which is under the effective control of Asrofalk Murghen- Chaeseyn, the charismatic, benevolent dictator who seized control of planetary affairs following the disastrous industrial wars that saw the emergence of the Industrial Combines. The Sonares World Assembly is an appointed assembly consisting of hand- chosen representatives from the seven major nations (a mixture of republics and fading monarchies). Murghen-Chaeseyn ratifies all decision-making but is held in check by a series of voluntary codes and decrees that he was instrumental in drafting. The SWA controls the armed forces of both Sonares I and II and a significant amount of industry and commerce.
 
@@ -1032,7 +1034,7 @@ The Industrial Combines are those powerful corporations that survived the destru
 
 Sonares II (Colony world)
 
-Starport: B (Good) Size: 7 (11,200 km, Gravity 0.9 Earth standard) Atmosphere: 5 (Thin) Hydrographics: 9: 93% (Wet World) Population: 7 (approximately 54 million people) Government: 7 (Balkanised: Sonares II Assembly – S2A; SWA agencies and Maas Industries) Law Level: 3 Tech Level: 9 (Developed gravity generators. No reliable Jump Drive development)
+Starport:B (Good) Size:7 (11,200 km, Gravity 0.9 Earth standard) Atmosphere:5 (Thin) Hydrographics: 9: 93% (Wet World) Population:7 (approximately 54 million people) Government:7 (Balkanised: Sonares II Assembly – S2A; SWA agencies and Maas Industries) Law Level: 3 Tech Level:9 (Developed gravity generators. No reliable Jump Drive development)
 
 Mostly ocean, Sonares II has one large landmass, roughly the size of western Europe, and a panoply of much smaller islands. The continental landmass is the center of Sonares II colonization supporting a core population of 54 million and growing. The colony is subject to tripartite rule: the S2 Assembly, representatives from the SWA, and all industrial activity controlled by Maas. Maas's involvement was a precondition of assisting in the colonization project. Relations between the three governmental stakeholders are not always cordial but have, so far, avoided serious conflict.
 
@@ -1286,8 +1288,7 @@ The Authority has a police service, the Authority Security Service, which is, na
 
 ##### INDUSTRIAL ZONES
 
-Both the light and heavy industrial zones are owned and operated by Maas Industries and its subsidies. The light zone supports light manufacturing, warehousing, assembly units, service industries
-(catering, retail outfitters, light vehicle repairs, and so on) whilst
+Both the light and heavy industrial zones are owned and operated by Maas Industries and its subsidies. The light zone supports light manufacturing, warehousing, assembly units, service industries (catering, retail outfitters, light vehicle repairs, and so on) whilst
 
 the heavy zone is dedicated to bulk manufacturing, ore refinement, casting, foundry work, major assembly plants and the generation of the power that keeps Shoranan ticking over.
 
@@ -1402,9 +1403,9 @@ The LFC fleet consists of the following eight ships:
 
 LFC-101 ('Rockhound') – 100 ton Seeker equipped for a crew of two. LFC-102 ('Spindrift') – 100 ton Seeker singleship LFC-104 ('Comet Chaser') - 100 ton Seeker equipped for a crew of two
 
-LFC-201 ('The Free Radical') – 200 ton Free Trader type A (no Jump drive. Cargo capacity increased to 98 tons) LFC-202 ('Mistress of Enterprise') – same configuration as LFC-201
+LFC-201 ('The Free Radical') – 200 ton Free Trader typeA (no Jump drive. Cargo capacity increased to 98 tons) LFC-202 ('Mistress of Enterprise') – same configuration as LFC-201
 
-LFC-401 ('Master of Enterprise') – 400 ton Subsidized Merchant, Type R (no Jump drive. Cargo capacity increased to 220 tons) When not out in the belt, LFC maintains docking, repair and servicing facilities with the Vinen Habitat Port Authority and has dedicated berths for each of its craft.
+LFC-401 ('Master of Enterprise') – 400 ton Subsidized Merchant, TypeR (no Jump drive. Cargo capacity increased to 220 tons) When not out in the belt, LFC maintains docking, repair and servicing facilities with the Vinen Habitat Port Authority and has dedicated berths for each of its craft.
 
 Operations If LFC had focused solely on mining the belt it would have gone bankrupt within a few years. Instead LFC both prospects and hauls general cargo from Sonares I and II into and across the various Schaeffer Belt clusters. Prospecting is still the LFC's core business, but the cargo business is substantial and Haro and Jenna have been very canny in the contracts they have picked, enabling them to maintain profitability in a business where debt is the norm.
 
@@ -1709,8 +1710,7 @@ If the [[#^pirates|pirates]] are being used as part of this scenario, [[#Hangar 
 
 ### MAINTENANCE AND DRONE HANGAR
 
-Similar to the main Hangars, this airlocked area is for mining and cargo drone storage (although all drones have been removed) and maintenance. Holding brackets for the drones line the walls and in the center of the area is a recessed workbay two meters deep
-(accessible by a ladder). A winch is attached to the ceiling directly overhead which is controlled from a control panel on the port side of the hangar. The winch will not operate until central power is restored.
+Similar to the main Hangars, this airlocked area is for mining and cargo drone storage (although all drones have been removed) and maintenance. Holding brackets for the drones line the walls and in the center of the area is a recessed workbay two meters deep (accessible by a ladder). A winch is attached to the ceiling directly overhead which is controlled from a control panel on the port side of the hangar. The winch will not operate until central power is restored.
 
 ### DOCKING CONTROL
 
@@ -1787,8 +1787,7 @@ This airlock contains elevators that transport crew members to ground level and 
 
 ### STORES QUADRANT
 
-The stores quadrant is a giant Ship's Locker. Here, everything from spare parts for life support, the kitchen and Main Mission, through cleaning and laundry equipment, to the platform's armory
-(obviously empty) was stored in a series of neat and secure bays, rooms, alcoves and lockers. The area has been completely cleaned out, but the walkways, gangways, passages and freestanding lockers and storage units create a labyrinth with the storage quadrant - again, ideal for hiding in and ambushing from.
+The stores quadrant is a giant Ship's Locker. Here, everything from spare parts for life support, the kitchen and Main Mission, through cleaning and laundry equipment, to the platform's armory (obviously empty) was stored in a series of neat and secure bays, rooms, alcoves and lockers. The area has been completely cleaned out, but the walkways, gangways, passages and freestanding lockers and storage units create a labyrinth with the storage quadrant - again, ideal for hiding in and ambushing from.
 
 ### Crew Deck
 
@@ -1863,6 +1862,8 @@ Wherever the characters stay, they are approached by Hezeera. The Hezeera crew a
 
 CAPTAIN
 
+
+
 A grizzled, bearded man with gold teeth. A cunning gleam in his brown eyes.
 
 Vesna ClantVesna Clant Career PathCareer Path StrengthStrength DexterityDexterity EnduranceEndurance IntelligenceIntelligence EducationEducation Social StandingSocial Standing Age 50 Belter (6) 5 4 4 7 8 8 Bribe-1, Mechanical-1, Navigation-1, Vacc-1, Streetwise-1, Computer-1, Gun Combat-1, Prospecting-2 Snub Pistol (3d6–3), Flak Jacket (4), Cr231,000
@@ -1870,6 +1871,8 @@ Vesna ClantVesna Clant Career PathCareer Path StrengthStrength DexterityDexterit
 ### HOLST AHLET
 
 PILOT
+
+
 
 Thin, shy-acting, with thick, black hair despite his age.
 
@@ -1891,6 +1894,8 @@ Aurora JaxAurora Jax Career PathCareer Path StrengthStrength DexterityDexterity 
 ### MHARL MAROUS
 
 TECHNICIAN
+
+
 
 Red-haired, freckled, and looks younger than his years. Wears a vest filled with all manner of tools.
 

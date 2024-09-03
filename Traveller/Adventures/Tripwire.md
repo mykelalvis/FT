@@ -318,7 +318,7 @@ The players have several options to find [[Gakha]]:
 
 #### MDP 1
 
-Eventually, the players should discover that [[Gakha]] is on MDP 1 ([[Mongo#MagnetoDynamics Platforms|Platform 1]]). The only way on to the platforms is by authorized passenger and cargo craft. There are regular flights from the headquarters to each platform for [[MagnetoDynamics]] employees.
+Eventually, the players should discover that [[Gakha]] is on MDP1 ([[Mongo#MagnetoDynamics Platforms|Platform 1]]). The only way on to the platforms is by authorized passenger and cargo craft. There are regular flights from the headquarters to each platform for [[MagnetoDynamics]] employees.
 
 ![[Trip-354.jpg|200]]
 
@@ -760,8 +760,7 @@ Until the party can be fully trusted, Rimik will be their only contact and he wi
 
 Unless the players have planned to ambush Rimik at the meeting, they will have to wait until they are contacted again before they can attempt to capture him. If the players wait on Zenopit, they will be contacted several days later. As before, they will be given a message to meet Rimik where they can set an ambush to capture him.
 
-Once they capture Rimik, he will not easily give up information on the [[Liberation Front]] and the players will have to get heavy handed before he will talk. If they are successful, Rimik will explain that he does not know the identities of anyone in his cell as his contact was recently killed. They purposely limit contact between members to avoid the cell being compromised should anyone get captured
-(such as now).
+Once they capture Rimik, he will not easily give up information on the [[Liberation Front]] and the players will have to get heavy handed before he will talk. If they are successful, Rimik will explain that he does not know the identities of anyone in his cell as his contact was recently killed. They purposely limit contact between members to avoid the cell being compromised should anyone get captured (such as now).
 
 It will take further persuading and he must be asked the right questions but eventually he will finally reveal that there was talk of assassinating the new duke once he has been appointed to office. However, this was not being done by his cell and he does not know any more details about it.
 
@@ -1143,8 +1142,7 @@ If the players suggest that they could search by flying a low planetary orbit, [
 
 # TRIPWIRE
 
-The systems listed in this chapter are all the known locations of the Tripwire devices. However, since some have been moved, the players will need to check every system in the [[Zhodani]] region. Once the players land on a planet, they will know if a device is present
-(whether active or inactive) by seeing if the keystone is glowing. The keystone will glow brighter the closer they are to the device so they can use this to pinpoint the location of a device on the planet.
+The systems listed in this chapter are all the known locations of the Tripwire devices. However, since some have been moved, the players will need to check every system in the [[Zhodani]] region. Once the players land on a planet, they will know if a device is present (whether active or inactive) by seeing if the keystone is glowing. The keystone will glow brighter the closer they are to the device so they can use this to pinpoint the location of a device on the planet.
 
 The party can visit the systems in any order they wish but they will need to plan their route so they know when to set the timed delayed activation for. Remember, if any of the Tripwire devices activate too early, Jump Space could be disrupted in all systems between the connecting devices that are active.
 
@@ -1215,8 +1213,7 @@ Creating a distraction to divert the attention of the bases' security guards mig
 
 #### PASS CARDS
 
-In order to obtain a pass card the players will have to steal one from someone who has access to the base. Anyone serving on the base will have a full access pass card and some merchants
-(such as Kuno) have limited access cards that allow them to make prearranged deliveries.
+In order to obtain a pass card the players will have to steal one from someone who has access to the base. Anyone serving on the base will have a full access pass card and some merchants (such as Kuno) have limited access cards that allow them to make prearranged deliveries.
 
 Anyone who has their card stolen will notice within 2d6 hours and will inform security their card is missing. At which point the card will no longer grant access to the base and anyone using it will be detained and questioned (you can use the Arrested encounter detailed on page 88). If the players obtain a card they can attempt to make a forgery with an Engineer (Electronics) check DM –4. If the check is fumbled then the player will not know they have failed until they try to use the card.
 
@@ -1326,7 +1323,7 @@ The difficulties with this plan are getting the explosives, ensuring the explosi
 
 ### HACKING THE NETWORK
 
-Hacking the computer network to initiate the emergency breach procedure can only be done from a secure terminal inside one of the security zones. This can be done from one of the engineering buildings inside Zone 1 (such as the power grid control, engineering systems or computer control center).
+Hacking the computer network to initiate the emergency breach procedure can only be done from a secure terminal inside one of the security zones. This can be done from one of the engineering buildings inside Zone1 (such as the power grid control, engineering systems or computer control center).
 
 The usual stealth procedures will be needed to gain access to the appropriate building. Once inside a Computers check DM –4 is
 
@@ -1592,7 +1589,7 @@ Alice's travels in tracking agent [[Forbes]] is detailed in the relevant section
 
 ### ALICE CAREER PAT H STR DEX END INT EDU SOC
 
-Age 33 Psion (4) 6 (0) 8 (0) 7 (0) 9 (+1) 8 (0) 10 (+1) Psi 11, Awareness 2, Clairvoyance 0, Telepathy 3, Computers 0, Deception 1, Persuade 1, Stealth 1 Cloth armor (5)
+Age 33 Psion (4)6 (0)8 (0)7 (0)9 (+1)8 (0) 10 (+1) Psi 11, Awareness 2, Clairvoyance 0, Telepathy 3, Computers 0, Deception 1, Persuade 1, Stealth 1 Cloth armor (5)
 
 The party will also have a number of other contacts they have met through the course of this campaign. They can continue to use these contacts and should be encouraged to do so. Building up a good network of contacts can be essential in this line of work but the player's should be mindful of who they trust.
 
@@ -1719,7 +1716,7 @@ When Robert made his last journey here from visiting Daniel, Alice knew that Rob
 
 Security robots are essentially flying guns mounted on a grav floater and equipped with a variety of sensors. These robots are programmed to patrol a specific area and will fire a warning shot near any unauthorized person entering the predefined security zone. If the intruder does not leave the security zone or if the robot is fired upon, it will then attack its target and other nearby robots will also join the fight.
 
-SECURITY ROBOT (TL 10) STR DEX INT EDU SOC HULL STRUCTURE 10 (+1) 10 (+1) 9 (+1) 6 (0) 0 (–3) 4 4 Traits: Armor 8, Integral System (grav floater), Integral System (every sensor available at TL10 and below), Computer/2 (running Expert Gun Combat (Energy Rifle)/2, Expert Recon/2) Weapons: Laser Rifle (5d6 damage)
+SECURITY ROBOT (TL 10) STR DEX INT EDU SOC HULL STRUCTURE 10 (+1) 10 (+1)9 (+1)6 (0)0 (–3) 4 4 Traits: Armor 8, Integral System (grav floater), Integral System (every sensor available at TL10 and below), Computer/2 (running Expert Gun Combat (Energy Rifle)/2, Expert Recon/2) Weapons: Laser Rifle (5d6 damage)
 
 that the recorded dates they stayed at the hotel match the known activities of the agents and couriers.
 
@@ -1823,8 +1820,7 @@ Remember that Alice might get other [[Zhodani]] agents involved if she thinks th
 ALICE'S TRAVELS
 Having discovered that Daniel had worked for several Imperial agents, Alice set herself up as one of his contacts so she could better monitor the activity of the agents who came to Daniel. Daniel was never seen as threat but an asset; an entry point into the Imperial intelligence network.
 
-Alice's relationship with Daniel meant that she could frequent The Factory (where Daniel spends much of his time) and see many of the people that Daniel met with. It was here that Alice first saw agent [[Forbes]] and discovered he was an Imperial agent and from here she followed [[Forbes]] to Esalin
-(detailed on page 13).
+Alice's relationship with Daniel meant that she could frequent The Factory (where Daniel spends much of his time) and see many of the people that Daniel met with. It was here that Alice first saw agent [[Forbes]] and discovered he was an Imperial agent and from here she followed [[Forbes]] to Esalin (detailed on page 13).
 
 Agent Logan had collected some information on Alice and left a data wafer detailing her findings with Daniel. After Robert Lewis collected the data wafer, Alice sent a [[Zhodani]] agent to intercept him on Esalin where he was killed. Another [[Zhodani]] agent killed agent Logan but her body was disposed of, so nobody knows she is dead.
 
@@ -2030,8 +2026,7 @@ If the players have been arrested for the murder of James [[Forbes]] and/ or [[Z
 
 ### BREAKOUT
 
-If the party are found guilty and are imprisoned or continued investigation into their backgrounds gets them into further trouble
-(such as knowledge or involvement in the various conspiracies), they will need to plan a breakout if they are to uncover the secrets and complete the adventure.
+If the party are found guilty and are imprisoned or continued investigation into their backgrounds gets them into further trouble (such as knowledge or involvement in the various conspiracies), they will need to plan a breakout if they are to uncover the secrets and complete the adventure.
 
 The chances and method of escape will largely depend on the government, security and technology level of the world the players are on. However, the players' best chance will be to escape before they are transferred to a penal facility. The players will most likely have to escape by themselves, but any party members or contacts on the outside could prove critical to their success.
 
@@ -2071,8 +2066,7 @@ The Chokari make twine from a type of seaweed that grows in the sea's on Foelen.
 
 Diving Equipment During the course of the campaign, the players might need underwater equipment to achieve their plans. Although vacc suits can be used underwater, most are unwieldy and not ideal for underwater activities (–2 DM to all skill checks in addition to any other vacc suit penalties).
 
-Water conducts heat away from the body 25 times more than air
-(when in a standard atmosphere), which can result in hypothermia even in warm water. Unless the players have access to TL 14 vacc suits they will need to get proper underwater diving gear.
+Water conducts heat away from the body 25 times more than air (when in a standard atmosphere), which can result in hypothermia even in warm water. Unless the players have access to TL 14 vacc suits they will need to get proper underwater diving gear.
 
 ### DRY SUIT
 
@@ -2128,7 +2122,7 @@ Hull 2 Structure 2
 
 2,200,000
 
-Armor Crystaliron 4 points 5 400,000 Jump Drive A Jump 2 10 10,000,000 Maneuver Drive A Thrust 2 2 4,000,000 Power Plant A 4 8,000,000 Bridge 10 500,000 Computer Model 1/bis Rating 5 (10 for Jump Control) 45,000
+Armor Crystaliron 4 points 5 400,000 Jump Drive A Jump 2 10 10,000,000 Maneuver Drive A Thrust 2 2 4,000,000 Power Plant A 4 8,000,000 Bridge 10 500,000 Computer Model 1/bis Rating5 (10 for Jump Control) 45,000
 
 Electronics Military Sensors +0 DM 2 1,000,000 Weapons Hardpoint # 1 Double Turret (double beam laser)
 
@@ -2228,80 +2222,108 @@ Key
 
 CAREER PATH STR DEX END INT EDU SOC
 
-Age 31 Agent (3) 8 (0) 10 (+1) 10 (+1) 9 (+1) 8 (0) 7 (0) Comms 0, Computers 0, Deception 1, Gun Combat (Energy Pistol) 1, Investigate 1, Persuade 0, Recon 0, Stealth 1 Laser Pistol (3d6+3), Cloth armor (5)
+
+
+Age 31 Agent (3)8 (0) 10 (+1) 10 (+1)9 (+1)8 (0)7 (0) Comms 0, Computers 0, Deception 1, Gun Combat (Energy Pistol) 1, Investigate 1, Persuade 0, Recon 0, Stealth 1 Laser Pistol (3d6+3), Cloth armor (5)
 
 ### Zhodani Assassins
 
 CAREER PATH STR DEX END INT EDU SOC
 
-Age 31 Agent (3) 9 (+1) 10 (+1) 10 (+1) 9 (+1) 8 (0) 8 (0) Athletics (Co-ordination) 1, Comms 0, Computers 0, Deception 1, Gun Combat (Energy Pistol) 2, Recon 1, Stealth 2 Laser Carbine (4d6+3), Flak Jacket (6), Reflec armor (0/10)
+
+
+Age 31 Agent (3)9 (+1) 10 (+1) 10 (+1)9 (+1)8 (0)8 (0) Athletics (Co-ordination) 1, Comms 0, Computers 0, Deception 1, Gun Combat (Energy Pistol) 2, Recon 1, Stealth 2 Laser Carbine (4d6+3), Flak Jacket (6), Reflec armor (0/10)
 
 ### Zhodani Pilot
 
 CAREER PATH STR DEX END INT EDU SOC
 
-Age 33 Pilot (3) 7 (0) 10 (+1) 8 (0) 10 (+1) 7 (0) 7 (0) Astrogation 1, Comms 1, Computers 0, Drive 0, Gun Combat 0, Gunner 0, Pilot (Spacecraft) 1, Recon 0, Sensors 1, Zero-G 0
+
+
+Age 33 Pilot (3)7 (0) 10 (+1)8 (0) 10 (+1)7 (0)7 (0) Astrogation 1, Comms 1, Computers 0, Drive 0, Gun Combat 0, Gunner 0, Pilot (Spacecraft) 1, Recon 0, Sensors 1, Zero-G 0
 Laser Carbine (4d6+3), Flak Jacket (6)
 
 ### Zhodani Psion
 
 CAREER PATH STR DEX END INT EDU SOC
-Age 30 Psion (3) 7 (0) 7 (0) 8 (0) 8 (0) 7 (0) 10 (+1) Psi 10, Telekinesis 2, Telepathy 2, Computers 0, Gun Combat 0, Persuade 1
+
+
+Age 30 Psion (3)7 (0)7 (0)8 (0)8 (0)7 (0) 10 (+1) Psi 10, Telekinesis 2, Telepathy 2, Computers 0, Gun Combat 0, Persuade 1
 
 ### MagnetoDynamics Security Guards
 
 CAREER PATH STR DEX END INT EDU SOC
 
-Age 30–32 Agent (3) 9 (+1) 10 (+1) 10 (+1) 8 (0) 8 (0) 7 (0) Advocate 0, Computers 0, Gun Combat (Energy Rifle) 2, Investigate 1, Melee 0, Recon 1, Stealth 0 Laser Carbine (4d6+3), Flak Jacket (6)
+
+
+Age 30–32 Agent (3)9 (+1) 10 (+1) 10 (+1)8 (0)8 (0)7 (0) Advocate 0, Computers 0, Gun Combat (Energy Rifle) 2, Investigate 1, Melee 0, Recon 1, Stealth 0 Laser Carbine (4d6+3), Flak Jacket (6)
 
 ### Mercenaries
 
 CAREER PATH STR DEX END INT EDU SOC
 
-Age 30–33 Army (3) 10 (+1) 10 (+1) 10 (+1) 8 (0) 7 (0) 7 (0) Athletics (Co-ordination) 1, Gun Combat (Slug Rifle) 1or Melee (Blade) 1, Recon 1, Stealth 1 Assault Rifle (3d6) or Cutlass (2d6+4), Flak Jacket (4)
+
+
+Age 30–33 Army (3) 10 (+1) 10 (+1) 10 (+1)8 (0)7 (0)7 (0) Athletics (Co-ordination) 1, Gun Combat (Slug Rifle) 1or Melee (Blade) 1, Recon 1, Stealth 1 Assault Rifle (3d6) or Cutlass (2d6+4), Flak Jacket (4)
 
 ### Lysen Security Guards
 
 CAREER PATH STR DEX END INT EDU SOC
 
-Age 30–31 Agent (3) 9 (+1) 10 (+1) 10 (+1) 8 (0) 8 (0) 7 (0) Computers 0, Gun Combat (Energy Pistol) 2, Melee (Bludgeon) 1, Recon 2, Stealth 0 Laser Pistol (3d6+3), Stunstick (1d6), Flak Jacket (6)
+
+
+Age 30–31 Agent (3)9 (+1) 10 (+1) 10 (+1)8 (0)8 (0)7 (0) Computers 0, Gun Combat (Energy Pistol) 2, Melee (Bludgeon) 1, Recon 2, Stealth 0 Laser Pistol (3d6+3), Stunstick (1d6), Flak Jacket (6)
 
 ### Thugs
 
 CAREER PATH STR DEX END INT EDU SOC
 
-Age 30–34 Rogue (3) 9 (+1) 10 (+1) 11 (+1) 8 (0) 7 (0) 7 (0) Athletics (Co-ordination) 0, Deception 1, Gun Combat (Energy Pistol or Slug Rifle) 1 or Melee 1, Recon 1, Stealth 0, Streetwise 0
+
+
+Age 30–34 Rogue (3)9 (+1) 10 (+1) 11 (+1)8 (0)7 (0)7 (0) Athletics (Co-ordination) 0, Deception 1, Gun Combat (Energy Pistol or Slug Rifle) 1 or Melee 1, Recon 1, Stealth 0, Streetwise 0
 
 ### RIOTERS
 
 CAREER PATH STR DEX END INT EDU SOC
 
-Age 26–29 Rogue (2) 8 (0) 10 (+1) 8 (0) 8 (0) 7 (0) 7 (0) Athletics (Co-ordination) 0, Deception 0, Gun Combat 0, Melee 1, Recon 1, Stealth 0, Streetwise 0 Improvised weapon (2d6–2) or Laser Pistol (3d6) taken from fallen police
+
+
+Age 26–29 Rogue (2)8 (0) 10 (+1)8 (0)8 (0)7 (0)7 (0) Athletics (Co-ordination) 0, Deception 0, Gun Combat 0, Melee 1, Recon 1, Stealth 0, Streetwise 0 Improvised weapon (2d6–2) or Laser Pistol (3d6) taken from fallen police
 
 ### POLICE
 
 CAREERPATH STR DEX END INT EDU SOC
 
-Age 30–33 Agent (3) 8 (0) 10 (+1) 10 (+1) 9 (+1) 8 (0) 8 (0) Advocate 0, Computers 0, Gun Combat (Energy Pistol) 2, Investigate 1, Melee 1, Recon 1, Stealth 0 Laser Pistol (3d6), Stunstick (2d6), Flak Jacket (4)
+
+
+Age 30–33 Agent (3)8 (0) 10 (+1) 10 (+1)9 (+1)8 (0)8 (0) Advocate 0, Computers 0, Gun Combat (Energy Pistol) 2, Investigate 1, Melee 1, Recon 1, Stealth 0 Laser Pistol (3d6), Stunstick (2d6), Flak Jacket (4)
 
 ### Military Base Security Guards
 
 CAREER PATH STR DEX END INT EDU SOC
 
-Age 30–32 Agent (3) 9 (+1) 11 (+1) 11 (+1) 8 (0) 8 (0) 7 (0) Computers 0, Gun Combat (Energy Rifle) 2, Investigate 1, Melee 0, Recon 2, Stealth 1 Laser Carbine (4d6+3), Flak Jacket (6), Reflec Armor (0/10)
+
+
+Age 30–32 Agent (3)9 (+1) 11 (+1) 11 (+1)8 (0)8 (0)7 (0) Computers 0, Gun Combat (Energy Rifle) 2, Investigate 1, Melee 0, Recon 2, Stealth 1 Laser Carbine (4d6+3), Flak Jacket (6), Reflec Armor (0/10)
 
 ### Traitorous Imperial Agent
 
 CAREER PATH STR DEX END INT EDU SOC
 
-Age 30–33 Agent (3) 9 (+1) 10 (+1) 10 (+1) 9 (+1) 8 (0) 8 (0) Athletics (Endurance) 1, Comms 0, Computers 0, Gun Combat (Energy Pistol) 1, Investigate 2, Melee 1, Recon 1, Stealth 0 Laser Pistol (3d6+3), Blade (2d6), Cloth Armor (5)
+
+
+Age 30–33 Agent (3)9 (+1) 10 (+1) 10 (+1)9 (+1)8 (0)8 (0) Athletics (Endurance) 1, Comms 0, Computers 0, Gun Combat (Energy Pistol) 1, Investigate 2, Melee 1, Recon 1, Stealth 0 Laser Pistol (3d6+3), Blade (2d6), Cloth Armor (5)
 
 ### Jewell Assassin
 
 ASSASSIN
+
+
 CAREER PATH STR DEX END INT EDU SOC
 
-Age 32 Agent (3) 8 (0) 12 (+2) 8 (0) 9 (+1) 8 (0) 7 (0) Athletics (Co-ordination) 1, Gun Combat (Energy Rifle) 2, Recon 1, Stealth 2 Laser Rifle (5d6+3)
+
+
+Age 32 Agent (3)8 (0) 12 (+2)8 (0)9 (+1)8 (0)7 (0) Athletics (Co-ordination) 1, Gun Combat (Energy Rifle) 2, Recon 1, Stealth 2 Laser Rifle (5d6+3)
 
 # Reference Tables
 
@@ -2472,7 +2494,9 @@ The borekin is an indigenous creature much like a bear but instead of fur they h
 ```
 BOREKIN STR DEX END INT INS PAC
 
-— 13 (+2) 8 (0) 12 (+2) 6 (0) 10 (+1) 3 (–1) Athletics (Strength) 2, Melee (Natural Weapons) 2, Recon 1, Survival 3, Stealth 2 Claws (2d6+3), Tough Hide (3)
+
+
+— 13 (+2)8 (0) 12 (+2)6 (0) 10 (+1)3 (–1) Athletics (Strength) 2, Melee (Natural Weapons) 2, Recon 1, Survival 3, Stealth 2 Claws (2d6+3), Tough Hide (3)
 
 ```
 
@@ -2483,7 +2507,9 @@ The gorta are pack animals that resemble deer with a pair of short horns on thei
 ```
 GORTA STR DEX END INT INS PAC
 
-— 9 (+1) 11 (+1) 8 (0) 4 (–1) 10 (+1) 10 (+1) Athletics (Co-ordination) 1, Melee (Natural Weapons) 1, Survival 2 Horns (1d6+3)
+
+
+—9 (+1) 11 (+1)8 (0)4 (–1) 10 (+1) 10 (+1) Athletics (Co-ordination) 1, Melee (Natural Weapons) 1, Survival 2 Horns (1d6+3)
 
 ```
 

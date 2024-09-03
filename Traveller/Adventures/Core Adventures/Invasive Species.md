@@ -373,8 +373,7 @@ they must obtain training before going out into the
 wilderness of [[#Tinea-Fabre]]. [[Okhotnikov]] intends for
 the group to ride on [[Terra|Terran]] horses, so they will have
 to become familiar with the animal and learn how to
-ride one. The horses owned by the estate are well-
-trained. When [[Okhotnikov]] leads them in a caravan,
+ride one. The horses owned by the estate are well-trained. When [[Okhotnikov]] leads them in a caravan,
 they proceed in orderly fashion. However, should the
 Travellers become separated from one another over
 the course of the expedition, they will need more
@@ -499,8 +498,7 @@ Gisidi Enveloper
 
 Animal Hits Speed
 Sylvie's Greycat 20 8m
-Skills Athletics (dexterity) 2, Melee
-(natural) 2, Recon 1, Stealth 2,
+Skills Athletics (dexterity) 2, Melee (natural) 2, Recon 1, Stealth 2,
 Survival 1
 Attacks Bite (2D)
 Traits Armor +1, Heightened Senses
@@ -669,12 +667,16 @@ hold of the _Superb Starling_ or provided to the Travellers
 over the course of the adventure.
 
 WEAPON TL RANGE DAMAGE KG COST MAGAZINE MAGAZINE COST TRAITS
+
+
 V-Rifle 13 Variable Variable 4 Cr35000 50 Cr2500 Scope
 
 Armor TYPE TL PROTECTION RAD KG COST REQUIRED SKILL
 Hunters Field Garb 12 +4 — 3 Cr10000 None
 
 AMMUNITION SETTING RANGE DAMAGE MAGAZINE USAGE TRAITS
+
+
 Marker 1000 0/1 1 Scope
 Lethal 1 1000 1D 1 AP 1, Scope
 Lethal 2 1000 2D 1 AP 2, Scope
@@ -685,6 +687,8 @@ Tranq 1000 Special_1_ Stun, Scope
 requires an additional add-on to the magazine that adds 0.5kg to its weight.
 
 EQUIPMENT TL RANGE KG COST
+
+
 Catch Pole 1 Melee 2 Cr25
 Net 1 5 1 Cr25
 Folding Cage 12 — 6 Cr1200

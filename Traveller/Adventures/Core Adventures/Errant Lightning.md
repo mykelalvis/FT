@@ -393,6 +393,8 @@ Communications (range) 500km Navigation (Navigation DM) +1 Sensors (Electronics 
 
 WEAPON RANGE FIRE ARCS DAMAGE MAGAZINE MAGAZINE COST TRAITS
 
+
+
 FIRE CONTROL Light Autocannon 1 6D 500 Cr1000 Auto 3 +1
 
 Flamethrower 5 4D 40 Cr80 Blast 5, Fire +1
@@ -562,8 +564,7 @@ The hover chariots might also use their considerable speed and agility advantage
 
 During their journeys along the Clench, the Travellers obtained yet another strategic advantage over their opponents: knowledge of the sinkholes. This is the mercenaries' first foray into the deep desert and they are unaware of its hazards. A crafty group of Travellers can use dogfights and stunts to lure mercenaries into concealed sinkholes. Using the dogfight rules, the drivers of both vehicles make opposed Drive checks, modified by their vehicles' Agility. Ideally, the Travellers must draw individual dune jumpers into one-on-one confrontations, because for every additional enemy in the dogfight, DM-1 is applied to the outnumbered side. The winner of the opposed check can attack their opponent while simultaneously staying out of their opponent's forward-facing arc. In addition, the winner gains DM+2 to all attack rolls for the current round while the loser suffers DM-2. If they win this check, the Travellers can attack as normal – if they have installed weapons – or use stunts to lure the dune jumpers into sinkholes by successfully executing a task chain.
 
-The Traveller in the passenger seat of a hover chariot must first find a sinkhole in the desert terrain by making an Average (8+) Recon check (DEX or INT). After successfully spotting a sinkhole, they must goad an opposed dune jumper towards it. Then, they must make an Average (8+) Deception check (DEX) to lure the dune jumper towards the hazard. This check may be made by the driver or passenger. Success enables the driver to make a Difficult (10+) Drive (hovercraft) check
-(DEX), also applying DM+2 from winning the dogfight; they only obtain the dogfight DM for this purpose if they forgo using their weapons during the round.
+The Traveller in the passenger seat of a hover chariot must first find a sinkhole in the desert terrain by making an Average (8+) Recon check (DEX or INT). After successfully spotting a sinkhole, they must goad an opposed dune jumper towards it. Then, they must make an Average (8+) Deception check (DEX) to lure the dune jumper towards the hazard. This check may be made by the driver or passenger. Success enables the driver to make a Difficult (10+) Drive (hovercraft) check (DEX), also applying DM+2 from winning the dogfight; they only obtain the dogfight DM for this purpose if they forgo using their weapons during the round.
 
 Unfortunately for both parties, the sinkholes are not the only hazard present. Large thunderhead clouds billow above the battle. A powerful electrical storm is brewing, which becomes a major factor during the battle. The Showdown map shows the starting locations of three thunderhead concentrations. During the battle, lightning begins to strike randomly throughout the region but the most dangerous concentrations of lightning activity are represented by the three thunderhead icons. The Referee should roll 1D for each thunderhead once every six rounds to determine which direction it moves, using the hex dial shown here.
 
@@ -638,8 +639,7 @@ PSI Cost : 4
 
 ### Full-Body Metamorphosis
 
-Enables the psion to change their complete outward appearance for 1D hours times the Effect of the check. The altered appearance may be that of another individual by increasing the Difficulty to Very Difficult
-(12+). The psion must make physical contact with the impersonated individual on at least one occasion to use this power.
+Enables the psion to change their complete outward appearance for 1D hours times the Effect of the check. The altered appearance may be that of another individual by increasing the Difficulty to Very Difficult (12+). The psion must make physical contact with the impersonated individual on at least one occasion to use this power.
 
 Check : Difficult (10+) Changeling check (1D hours, PSI)
 Reach : —
@@ -704,13 +704,11 @@ END 7 SOC 9
 
 EQUIPMENT Advanced Desert Suit, Portable Computer/1
 
-SPECIES GENDER AGE Vilani Male 34
+ Vilani Male 34
 
 ## JAYMEEN SALASSIM
 
-TRAITS — SKILLS STR 8 INT 8 Athletics 0, Botanical Symbiosis 3, Drive
-(hovercraft) 2, Electronics 0, Gun Combat 0, Melee 0, Recon 1, Science
-(biology) 2, Survival 2, Telepathy 1
+TRAITS — SKILLS STR 8 INT 8 Athletics 0, Botanical Symbiosis 3, Drive (hovercraft) 2, Electronics 0, Gun Combat 0, Melee 0, Recon 1, Science (biology) 2, Survival 2, Telepathy 1
 
 DEX 9 EDU 6 END 8 SOC 5
 
@@ -718,7 +716,7 @@ PSI 10
 
 EQUIPMENT Desert Kit and Goggles, Canja Robes Weapons: Autopistol (3D-3)
 
-SPECIES GENDER AGE Vilani Male 33
+ Vilani Male 33
 
 ![[CA3-1476395936.jpg|200]]
 [[CA3-1476395936.jpg|Colport and Salassim]]
@@ -737,7 +735,7 @@ Athletics 0, Changeling 2, Drive (hovercraft) 1, Electronics 0, Melee (unarmed) 
 
 EQUIPMENT Desert Kit and Goggles, Canja Robes Weapons: Body Pistol (2D), Knife (1D)
 
-SPECIES GENDER AGE Vilani Female 26
+ Vilani Female 26
 
 ## VISANDRA PALMORE
 
@@ -754,7 +752,7 @@ Admin 1, Drive 0, Broker 2, Deception 1, Gun Combat 0, Electronics(computers) 1,
 EQUIPMENT Portable Computer/3 Weapons: Body Pistol (2D)
 Armor: Protec Suit (+4)
 
-SPECIES GENDER AGE Vilani Female 42
+ Vilani Female 42
 
 Kady is an experienced pilot, born and raised on Adan. She knows the terrain well and her tilt-rotor aircraft, the Sirocco , even better. She might become an invaluable ally to the Travellers should they need transportation to the desert.
 
@@ -770,7 +768,7 @@ Athletics (dexterity) 1, Flyer (wing) 4, Electronics (comms) 2, Gun Combat (slug
 
 EQUIPMENT Portable Computer/1 Weapons: Body Pistol (2D),
 Dagger (1D+2)
-SPECIES GENDER AGE Vilani Female 48
+ Vilani Female 48
 
 ## PEETE VASKIN\
 
@@ -782,14 +780,14 @@ Vaskin is Palmore's first officer and bodyguard. He takes his job very seriously
 STR 12 INT 7
 DEX 8 EDU 6
 END 13 SOC 6
-Athletics 2 (strength), Drive (wheel) 1, Flyer 0, Gun Combat (slug)2, Melee (unarmed) 2, Recon 1
+Athletics2 (strength), Drive (wheel) 1, Flyer 0, Gun Combat (slug)2, Melee (unarmed) 2, Recon 1
 
 EQUIPMENT Weapons: Autopistol (3D-3),
 Shotgun (4D, Bulky),
 Blade (2D)
 Armor: Jack (+1)
 
-SPECIES GENDER AGE Vilani Male 35
+ Vilani Male 35
 
 ## CHANNAS BRUMMAC
 
@@ -804,7 +802,7 @@ Admin 2, Counterpsionics 3, Deception 3, Drive 0, Flyer 0, Electronics (computer
 
 EQUIPMENT Portable Computer/3, Radio Transceiver (TL12), Commdot, Grav Belt, Medikit, Psionicology Toolkit, Advanced Desert Suit
 
-SPECIES GENDER AGE Vilani Male 52
+ Vilani Male 52
 
 ## HORTENSIA BRUMMAC
 
@@ -814,12 +812,11 @@ SPECIES GENDER AGE Vilani Male 52
 STR 8 INT 10
 DEX 5 EDU 12
 END 7 SOC 11
-Advocate 2, Deception 2, Diplomat 2, Flyer (grav) 1, Gun Combat 0, Electronics (computers) 1, Medic 2, Science
-(psionicology) 3
+Advocate 2, Deception 2, Diplomat 2, Flyer (grav) 1, Gun Combat 0, Electronics (computers) 1, Medic 2, Science (psionicology) 3
 
 EQUIPMENT Portable Computer/3, Radio Transceiver (TL12), Commdot, Grav Belt, Medikit, Psionicology Toolkit, Advanced Desert Suit Weapons: Body Pistol (2D)
 
-SPECIES GENDER AGE Vilani Female 52
+ Vilani Female 52
 
 ## BRONTO SOLOMEI
 
@@ -837,7 +834,7 @@ EQUIPMENT Portable Computer/1 with remote control software for the dune jumpers,
 Weapons: Autopistol (3D-3), Shotgun (4D, Bulky), Stunner (2D+3), Blade (2D)
 Armor: Combat Environment Suit (+8)
 
-SPECIES GENDER AGE Vilani Male 38
+ Vilani Male 38
 
 ## MERCENARIES
 
@@ -852,5 +849,5 @@ Athletics 0, Drive (walker) 1, Electronics 0, Gun Combat (slug) 2, Heavy Weapons
 EQUIPMENT Radio Transceiver (TL10), Commdot Weapons: Autopistol (3D-3), Shotgun (4D, Bulky), Stunner (2D+3), Blade (2D)
 Armor: Combat Environment Suit (+8)
 
-SPECIES GENDER AGE
+
 — — —

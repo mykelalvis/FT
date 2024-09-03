@@ -158,7 +158,7 @@ As luck would have it, _[[#Rammiakhiidru]]_ can be found floating freely near a 
 
 - DM+1 for each subsequent attempt after the first.
 - A successful Average (8+) Navigation check (1D hours, EDU) adds DM+1. This is cumulative, with each successful check increasing the DM by +1.
-- If the Travellers are using a spacecraft for the search, divide the ship's Thrust by 2 (dropping fractions) and add this as a positive DM.
+- If the Travellers are using a spacecraft for the search, divide the ship's Thrust by2 (dropping fractions) and add this as a positive DM.
 - Clever Travellers might create a template of the _[[#Rammiakhiidru]]_ for the sensors to look for. The old Vilani shuttle is an obscure model, so a prerequisite check is required. Have them make a Difficult (10+) Engineer (any) check (2Dx10 minutes, EDU) to find the old design with a ship's Library software. Success provides them with a hull template to search for, adding DM+2 to search attempts.
 
 If the Travellers are using a vehicle to search the planet for the _[[#Rammiakhiidru]]_, be sure to note its Range. [[Affinity]] is a vast world with some locations more than 10,000 kilometers from permanent habitations. If the Travellers are not careful, they might become stranded in the ocean and a separate search-and-rescue effort might be required to save them.

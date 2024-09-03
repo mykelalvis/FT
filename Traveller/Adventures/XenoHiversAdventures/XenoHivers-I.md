@@ -199,29 +199,29 @@ This ends Hivers I. There will be future Hivers instalments coming soon.
 ## Powall
 
 Bessie Powall
-Age Sex Str Dex End Int Edu Soc 47 M 6 (0) 1 (-2) 5 (-1) 7 (0) 4 (-1) 6 (0) Proper Skills Animals 0, Art 0, Athletics (Endurance) 1, Athletics (Strength) 1, Diplomat 1, Flyer (Wing) 1, Gun Combat (Archaic) 1, Gun Combat 1, Gunner (Capital) 2, Gunner (Artillery) 1, Gunner (Screen) 1, Mechanic 1, Pilot (Small Craft) 1, Science (Sophontology) 1, Vac Suit 1
+Age Sex Str Dex End Int Edu Soc 47 M6 (0)1 (-2)5 (-1)7 (0)4 (-1)6 (0) Proper Skills Animals 0, Art 0, Athletics (Endurance) 1, Athletics (Strength) 1, Diplomat 1, Flyer (Wing) 1, Gun Combat (Archaic) 1, Gun Combat 1, Gunner (Capital) 2, Gunner (Artillery) 1, Gunner (Screen) 1, Mechanic 1, Pilot (Small Craft) 1, Science (Sophontology) 1, Vac Suit 1
 
 ## Porter
 
 Tug Captain Roosevelt Porter
-Age Sex Str Dex End Int Edu Soc 56 M 3 ( 1) 1 (-2) 4 (-1) 6 (0) 10 (1) Stoical, Frank, Heavy Hearted 4 (-1) Skills Athletics (Dexterity) 2, Broker 0, Drive 0, Electronics (Computers) 1, Electronics (Remote Ops) 1, Electronics (Sensors) 1, Engineer (J-drive) 1, Flyer (Ornithopter) 1, Gunner (Artillery) 1, Language 0, Mechanic 2, Persuade 0, Pilot ([[Capital]] Ships) 1, Pilot (Small craft) 1, Pilot (Spacecraft) 2,, Science 0, Steward 1, Survival 1, Vac Suit 3
+Age Sex Str Dex End Int Edu Soc 56 M3 ( 1)1 (-2)4 (-1)6 (0) 10 (1) Stoical, Frank, Heavy Hearted4 (-1) Skills Athletics (Dexterity) 2, Broker 0, Drive 0, Electronics (Computers) 1, Electronics (Remote Ops) 1, Electronics (Sensors) 1, Engineer (J-drive) 1, Flyer (Ornithopter) 1, Gunner (Artillery) 1, Language 0, Mechanic 2, Persuade 0, Pilot ([[Capital]] Ships) 1, Pilot (Small craft) 1, Pilot (Spacecraft) 2,, Science 0, Steward 1, Survival 1, Vac Suit 3
 
 ## Hivers
 
 ### Worker
 
-Roll Type Move Num. Str Dex End Int Ins Pack Size 0 Chaser (Carnivore) Walker 3d6 6 (0) 7 (0) 6 (0) 12 (2) 8 (0) 10 (1) 50 kg Skills Athletics (Endurance) 2, Melee 2, Athletics 1, Athletics (Coordination) 1, Survival 0, Recon 0 Armor 4 Weapons Thrasher 3d6 Attacks on Outnumbers Flees on 5-
+Roll Type Move Num. Str Dex End Int Ins Pack Size 0 Chaser (Carnivore) Walker 3d66 (0)7 (0)6 (0) 12 (2)8 (0) 10 (1) 50 kg Skills Athletics (Endurance) 2, Melee 2, Athletics 1, Athletics (Coordination) 1, Survival 0, Recon 0 Armor 4 Weapons Thrasher 3d6 Attacks on Outnumbers Flees on 5-
 
 ### Soldier
 
-Roll Type Move Num. Str Dex End Int Ins Pack Size 0 Gatherer (Omnivore) Walker 3d6 9 (1) 15 (3) 9 (1) 12 (2) 9 (1) 11 (1) 50 kg Skills Melee 1, Recon 2, Stealth 2, Survival 0, Athletics 0 Armor 4 Weapons Thrasher 3d6 Attacks on 9+ Flees on 3-
+Roll Type Move Num. Str Dex End Int Ins Pack Size 0 Gatherer (Omnivore) Walker 3d69 (1) 15 (3)9 (1) 12 (2)9 (1) 11 (1) 50 kg Skills Melee 1, Recon 2, Stealth 2, Survival 0, Athletics 0 Armor 4 Weapons Thrasher 3d6 Attacks on 9+ Flees on 3-
 
 ### Drone
 
-Roll Type Move Num. Str Dex End Int Ins Pack Size 0 Grazer (Herbivore) Walker 2d6 2 ( 2) 6 (0) 6 (0) 12 (2) 8 (0) 8 (0) 50 kg Skills Athletics 2, Recon 4, Survival 0 Armor 4 Weapons Attacks on 8+ Flees on 6-
+Roll Type Move Num. Str Dex End Int Ins Pack Size 0 Grazer (Herbivore) Walker 2d62 ( 2)6 (0)6 (0) 12 (2)8 (0)8 (0) 50 kg Skills Athletics 2, Recon 4, Survival 0 Armor 4 Weapons Attacks on 8+ Flees on 6-
 
 ### Queen
 
-Roll Type Move Num. Str Dex End Int Ins 0 Intermittent (Herbivore) Walker 1 Pack Size 11 (1) 10 (1) 13 (2) 12 (2) 7 (0) 12 (2) 2000 kg Skills Athletics 1, Melee 1, Survival 1, Recon 0 Armor 3 Weapons Attacks on Flees on -
+Roll Type Move Num. Str Dex End Int Ins 0 Intermittent (Herbivore) Walker 1 Pack Size 11 (1) 10 (1) 13 (2) 12 (2)7 (0) 12 (2) 2000 kg Skills Athletics 1, Melee 1, Survival 1, Recon 0 Armor 3 Weapons Attacks on Flees on -
 
 ![[Hivers1Cover.jpg]]

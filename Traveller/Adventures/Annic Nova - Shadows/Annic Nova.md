@@ -57,9 +57,9 @@ This adventure is intended for a band of adventurers numbering at least two and 
 |  7  | Ex-navy Lieutenant (high passage) | 89C7B7 |  30 |   3   | Cr800  |                  Ship's Boat-2, Vacc-1, Gunnery-2, Shotgun-1                 | Traveller's |
 |  8  | Ex-scout (middle passage)         | 684387 |  26 |   2   | Cr900  |                       Pilot-1, Vacc-1, SMG-1, Gunnery-1                      |             |
 
-A skill level of 0 (for example, Vacc-0) has been assigned to show some familiarity with a skill, sufficient to allow use, but no expertise.
+A skill level of0 (for example, Vacc-0) has been assigned to show some familiarity with a skill, sufficient to allow use, but no expertise.
 
-A skill level of 0 (for example, vacc-0) has been assigned to show some familiarity with a skill, sufficient to allow use, but no real expertise. A skill level of 0 with a gun (for example, carbine-0) shows the preferred, or best, weapon for an individual otherwise without weapon skill.
+A skill level of0 (for example, vacc-0) has been assigned to show some familiarity with a skill, sufficient to allow use, but no real expertise. A skill level of 0 with a gun (for example, carbine-0) shows the preferred, or best, weapon for an individual otherwise without weapon skill.
 
 ### Equipment
 
@@ -215,7 +215,7 @@ Painted on the iris valve at this level is the figure V,
    5. an animated lecture on the chemical elements, with accompanying text and voice-over
    6. static.
 
-Close investigation of the visor will show a concealed set of controls (in a sliding panel on the wall), including a volume control, a channel dial marked `IV7 AJU`, and a speed control. The channel control will select among the six channels indicated. The speed control will slow down or speed up the program being shown; if channel 6 (U) is slowed down, it becomes a children's illustrated dictionary. Studying channel U or channel J will teach the ship's language (studying 12 hours per day) on a throw of 14+, OM +1 per day spent, OM +1 if intelligence 11+. ^area6
+Close investigation of the visor will show a concealed set of controls (in a sliding panel on the wall), including a volume control, a channel dial marked `IV7 AJU`, and a speed control. The channel control will select among the six channels indicated. The speed control will slow down or speed up the program being shown; if channel6 (U) is slowed down, it becomes a children's illustrated dictionary. Studying channel U or channel J will teach the ship's language (studying 12 hours per day) on a throw of 14+, OM +1 per day spent, OM +1 if intelligence 11+. ^area6
 
 7. Sleeping Room. This small room is obviously sleeping quarters, and contains a bunk, fold-out desk, several drawers, mirror, and reclining chair. There are, however, no clothing, and no sign of personal articles. ^room-7
 
@@ -333,6 +333,8 @@ The disease from location 15 is transmitted via an airborne virus with a long do
 Prevention: Any medic-3 (doctor) or better will know from his training and experience that infection from this virus can probably be lessened greatly by strict rest and sleep. Following such a prescription would preclude any physical or mental effort, including any use of skills, or any work.
 
 DISEASE TABLE
+
+
 
 | Individual's Endurance | Low | Strong | Extreme |
 | :--------------------: | :-: | :----: | :-----: |

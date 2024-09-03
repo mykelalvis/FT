@@ -307,8 +307,7 @@ This could be tragic, hilarious or just plain confusing, as members of both side
 
 The chaos can be an opportunity for escape or a frustrating loss of a prisoner, and may well leave the Travellers very confused. Locals who realise the Travellers are not in fact police or Amondiage intelligence may provide information amid a general barrage of frustration, annoyance and recounting of brave, foolhardy and tragic events during the intervention. Everyone is very excited and not particularly coherent, but the picture that gradually emerges is as follows:
 
-The people of Acadie are usually content under rule from Amondiage but unrest occurs in cycles. The present situation is much worse than usual and the authorities' response has been unusually heavy-handed
-(which is saying something). There is open fighting between what are now being referred to as rebel groups and security forces in some settlements and riots here in the capital. Rumours are floating around that Imperial- made weapons have appeared among the rebels and the situation is escalating further.
+The people of Acadie are usually content under rule from Amondiage but unrest occurs in cycles. The present situation is much worse than usual and the authorities' response has been unusually heavy-handed (which is saying something). There is open fighting between what are now being referred to as rebel groups and security forces in some settlements and riots here in the capital. Rumours are floating around that Imperial- made weapons have appeared among the rebels and the situation is escalating further.
 
 Nobody really knows what is going on but it seems that someone has been stirring the pot. The settlement of Houillon is the apparent epicentre of the trouble; it is common knowledge (which does not mean it is true) that weaponry was delivered there about a year ago by an unknown group and more recently a bunch of merchants from 'that ship that's been there ever since' were murdered in the city. There are some fascinating conspiracy theories about what happened but the general impression is that Imperials provided weapons, for whatever reason. Since these weapons are being used to fight the 'oppression' of Amondiage, the angry segment of the population generally approves.
 
@@ -646,6 +645,8 @@ END 7 SOC 6
 Drive (wheeled) 1, Gun Combat (energy) 2, Melee (unarmed) 1, Persuade 1, Recon 1, Stealth 1, Streetwise 2
 
 WEAPONS
+
+
 Dagger (1D+2) Auto Pistol (3D-3) [[Laser Revolver]] OR [[Laserpen]]
 
 These operatives are professionals who work in the very hazardous world of intelligence and counter-intelligence operations. Not many years ago there was an almost good- natured aspect to their work – those who lost the game and were captured were protected by rules limiting how badly they could be treated, even 'off the books'.
